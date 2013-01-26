@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-penales-para-el-estado-libre-y-5764"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-12-07"
-last_updated: "2012-10-18"
+last_updated: "2013-01-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2013.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el martes 7 de diciembre de 1982.
 
@@ -2843,7 +2843,9 @@ Cualquiera de las partes puede formular queja ante el Juez del conocimiento, por
 
 Inmediatamente que lo solicite el inculpado, el Juez deberá otorgarla la libertad provisional bajo caución, siempre y cuando se garantice el monto de lo estimado de la reparación del daño y de las sanciones pecuniarias que en su caso puedan imponérsele al inculpado y no se trate de delito grave expresamente determinado en este artículo, o de los casos previstos en el artículo 20, fracción I, párrafo cuarto de la Constitución Política de los Estados Unidos Mexicanos.
 
-Tratándose de delitos que afecten la vida o la integridad corporal, el monto de la reparación no podrá ser menor del que resulte aplicándose las disposiciones relativas de la Ley Federal del Trabajo.
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2013)</small>
+
+Tratándose de delitos que afecten la vida o la integridad corporal, el monto de la reparación se fijará aplicando las cuotas que establece la Ley Federal del Trabajo. En el caso de que se genere la muerte del ofendido, se estará a lo establecido en el artículo 102 del Código Penal para el Estado Libre y Soberano de Jalisco.
 
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 2003)</small>
 
@@ -2855,9 +2857,9 @@ I. En el Código Penal: homicidio culposo grave o lesiones culposas graves, art�
 
 II. En la Ley Estatal para Prevenir y Sancionar la Tortura: Tortura, artículo 3º; y
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2003)</small>
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2013)</small>
 
-(sic) En las demás leyes que expresamente así lo señalen.
+III. En las demás leyes que expresamente así lo señalen.
 
 ###### Art. 343.
 
@@ -4160,3 +4162,7 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Los delitos que son eliminados o modificados con motivo del presente decreto continuarán en vigor, respecto a los hechos cometidos con anterioridad a la entrada en vigor del presente decreto y mientras existan procesos penales pendiente (sic) o sentencias por cumplir y penas por compurgar.
 
 TERCERO. La reforma a la fracción I del artículo 342 del Código de Procedimiento Penales (sic) para el Estado Libre y Soberano de Jalisco toma como referencia el texto vigente al día 20 de septiembre de 2012, por lo que no debe entenderse que deroga las posibles reformas a la misma fracción que hayan sido aprobadas con anterioridad por el Congreso del Estado y que, estando en proceso de sanción y publicación, aún no cobran vigencia en la fecha señalada.
+
+P.O. 26 DE ENERO DE 2013.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
