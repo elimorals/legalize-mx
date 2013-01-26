@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-transito-y-de-la-seguridad-vial-del-municipio-899
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-10-27"
-last_updated: "2012-10-27"
+last_updated: "2013-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89933&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 REGLAMENTO DE TRÁNSITO Y DE LA SEGURIDAD VIAL DEL MUNICIPIO DE COMALA, COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2013.
 
 Reglamento publicado en el Suplemento No. 2 al Número 52 del Periódico Oficial del Estado de Colima, el sábado 27 de octubre de 2012.
 
@@ -903,7 +903,7 @@ Se prohíbe estrictamente al conductor llevar menores de edad entre este y el vo
 
 ###### ARTÍCULO 92.
 
-El conductor que se aproxime a un crucero de ferrocarril deberá hacer alto total a una distancia mínima de cinco metros anteriores al riel más cercano. El conductor podrá cruzar las vías del ferrocarril una vez que se cerciore plenamente que no se aproxime ningún vehículo sobre los rieles.
+(DEROGADO, P.O. 26 DE ENERO DE 2013)
 
 ###### ARTÍCULO 93.
 
@@ -1961,11 +1961,15 @@ Serán infracciones en materia de Tránsito y Vialidad, y se sancionarán en uni
 
 030.- Circular vehículo con tracción especial y sin permiso de la Dirección General;
 
-031.- Circular bicicletas, triciclos y todo tipo de motocicletas por aceras, banquetas, plazas o jardines, o circular a un costado de otro vehículo de igual característica;
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2013)</small>
+
+031.- Circular bicicletas, triciclos de carga y todo tipo de motocicletas por aceras, banquetas, plazas o jardines, o circular a un costado de otro vehículo de igual característica.
 
 032.- Circular bicicletas, triciclo o motocicleta asida a otro vehículo;
 
-033.- Conducir sin sujetar firmemente el volante;
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2013)</small>
+
+033.- Conducir sin sujetar firmemente el volante y/o de manera negligente.
 
 034.- Chocar al salir de un estacionamiento o cochera;
 
@@ -1987,13 +1991,15 @@ Serán infracciones en materia de Tránsito y Vialidad, y se sancionarán en uni
 
 043.- Dar Vuelta en lugar prohibido;
 
-044.- Dar vuelta de un carril indebido;
+044.- (DEROGADO, P.O. 26 DE ENERO DE 2013)
 
 045.- No hacer los señalamientos manuales o de luces direccionales anticipadamente al dar vuelta o cambiar de carril;
 
 046.- Realizar competencias en o carreras en la vía pública, sin la autorización;
 
-047.- Conducir ingiriendo bebidas alcohólicas o permitir que los pasajeros vayan ingiriendo bebidas alcohólicas o lleven envases abiertos de estas;
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2013)</small>
+
+047.- Conducir ingiriendo bebidas alcohólicas
 
 048.- Estacionar vehículos pesados fuera de su lugar de depósito o resguardo;
 
@@ -2003,7 +2009,7 @@ Serán infracciones en materia de Tránsito y Vialidad, y se sancionarán en uni
 
 051.- Estacionarse en doble fila;
 
-052.- Estacionarse frente a las tomas de agua para bomberos;
+052.- (DEROGADO, P.O. 26 DE ENERO DE 2013)
 
 053.- Estacionarse en áreas destinadas a vehículos que transportan personas con discapacidad;
 
@@ -2019,7 +2025,9 @@ Serán infracciones en materia de Tránsito y Vialidad, y se sancionarán en uni
 
 059.- Estacionarse sobre rampas, pasos peatonales, aceras, banquetas, isletas, camellones y andadores;
 
-060.- Estacionar vehículo sin dejar espacio reglamentado entre un vehículo y otro, o con la banqueta, ochavo o cajón designado con otro fin;
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2013)</small>
+
+060.- Estacionar vehículo sin dejar espacio prudente entre un vehículo y otro, o con la banqueta, ochavo o cajóndesignado (sic) con otro fin.
 
 061.- Conducir con exceso de velocidad en zona urbana;
 
@@ -2027,7 +2035,9 @@ Serán infracciones en materia de Tránsito y Vialidad, y se sancionarán en uni
 
 063.- Conducir con exceso de velocidad en zona restringida;
 
-064.- Falta de ante llantas o loderas;
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 2013)</small>
+
+064.- Falta de ante llantas o loderas en vehículos de carga y pasaje
 
 065.- Falta de aseo del conductor de vehículo del servicio público de pasajeros;
 
@@ -2049,7 +2059,7 @@ Serán infracciones en materia de Tránsito y Vialidad, y se sancionarán en uni
 
 074.- Hacer paradas de servicio público de transporte en un lugar diferente al autorizado;
 
-075.- Invadir carril de circulación contrario, cuando exista doble línea central continua;
+075.- (DEROGADO, P.O. 26 DE ENERO DE 2013)
 
 076.- Llevar instalado equipo que detecta radares y utilizarlos;
 
@@ -2081,7 +2091,7 @@ Serán infracciones en materia de Tránsito y Vialidad, y se sancionarán en uni
 
 090.- Circular sin cinturón de seguridad ya sea conductor o pasajeros;
 
-091.- No ceder el paso en las glorietas a los vehículos que estén en ella, o en las intersecciones;
+091.- (DEROGADO, P.O. 26 DE ENERO DE 2013)
 
 092.- No ceder el paso a vehículos y peatones al salir de cochera;
 
@@ -2099,7 +2109,7 @@ Serán infracciones en materia de Tránsito y Vialidad, y se sancionarán en uni
 
 099.- No efectuar cambio de luces;
 
-100.- No hacer alto en cruceros con avenidas;
+100.- (DEROGADO, P.O. 26 DE ENERO DE 2013)
 
 101.- No ceder el paso a ambulancias, bomberos o vehículos de seguridad pública o de emergencias o protección civil con luces y sirena activada;
 
@@ -2111,7 +2121,7 @@ Serán infracciones en materia de Tránsito y Vialidad, y se sancionarán en uni
 
 105.- No respetar el proceso vial de paso vehicular descrito para las intersecciones de Uno y Uno;
 
-106.- No respetar el derecho de paso a vehículos con sirena y luces de emergencia activadas;
+106.- (DEROGADO, P.O. 26 DE ENERO DE 2013)
 
 107.- No respetar la señal de “ALTO” o de “CEDA EL PASO”;
 
@@ -2119,7 +2129,7 @@ Serán infracciones en materia de Tránsito y Vialidad, y se sancionarán en uni
 
 109.- Obstruir la circulación al realizar maniobras de ascenso y descenso del vehículo;
 
-110.- No respetar la preferencia en glorieta;
+110.- (DEROGADO, P.O. 26 DE ENERO DE 2013)
 
 111.- Obstruir la circulación de manera deliberada o provocar congestionamiento vial;
 
@@ -2143,7 +2153,7 @@ Serán infracciones en materia de Tránsito y Vialidad, y se sancionarán en uni
 
 121.- Rebasar por la derecha;
 
-122.- Rebasar por el acotamiento;
+122.- (DEROGADO, P.O. 26 DE ENERO DE 2013)
 
 123.- Rebasar o adelantar vehículos en zona escolar;
 
@@ -2151,7 +2161,7 @@ Serán infracciones en materia de Tránsito y Vialidad, y se sancionarán en uni
 
 125.- Proyectar piedras o salpicar agua al circular con el vehículo;
 
-126.- Subir o bajar pasaje en lugares no autorizados, sobre carriles de circulación;
+126.- (DEROGADO, P.O. 26 DE ENERO DE 2013)
 
 127.- Toda descortesía de los conductores de servicio público a los pasajeros, peatones o conductores de otros vehículos;
 
@@ -2249,9 +2259,11 @@ XIV. Cuando el conductor realice maniobras de peligro que pongan en riesgo la vi
 
 Para solicitar la devolución de un vehículo asegurado por concepto de sanción vial, o por Hecho de Tránsito Terrestre, necesariamente deberán acudir a recibirlo los propietarios, representantes legales, o apoderados, quienes deberán presentar el oficio de liberación de su vehículo en caso de encontrarse a disposición de autoridad distinta a la de Tránsito y Vialidad o deberán acreditar la propiedad, según el caso y presentar recibo de pago de la infracción; así mismo deberá cubrir los gastos originados por el banderazo, maniobra, traslado de la grúa, y el resguardo del vehículo en el corralón.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ENERO DE 2013)</small>
+
 ###### ARTÍCULO 247.
 
-Las infracciones a las disposiciones de este Reglamento cometidas por los conductores de vehículos o terceras personas, serán sancionadas a través de la Boleta de Infracción conforme al siguiente procedimiento, cuando el conductor esté presente:
+Las infracciones a las disposiciones de este Reglamento cometidas por losconductores (sic) de vehículos o terceras personas, serán sancionadas a través de la Boleta deinfracción (sic) conforme al siguiente procedimiento, cuando el conductor esté presente:
 
 I. Se hará constar la infracción en boletas o formas impresas por triplicado, numeradas correlativamente, donde se establecerá:
 
@@ -2267,7 +2279,9 @@ III. Asentará de manera general las maniobras u omisiones que realizó el condu
 
 IV. Señalará el lugar preciso de la vialidad y la orientación del desplazamiento del infractor donde se cometió la acción antisocial reprochable;
 
-V. Señalará cuales artículos del presente Reglamento, son los que encuadran en las maniobras u omisiones que venía realizando el conductor y asentará además los códigos correspondientes a la infracción, fijados en el artículo 239 de este Reglamento;
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2013)</small>
+
+V. Señalará cuales artículos del presente Reglamento, son los que encuadran en lasmaniobras (sic) u omisiones que venia realizando el conductor y asentará además los códigoscorrespondientes (sic) a la infracción, fijados en el artículo 241 de este Reglamento.
 
 VI. Anotará el nombre del conductor, domicilio de éste, número y demás especificaciones de su licencia o permiso de manejo en caso de que los proporcione el infractor o se registrará la negativa;
 
@@ -2281,9 +2295,11 @@ X. Se firmará por el policía vial que formuló la boleta de infracción; y
 
 XI. Se le informará al infractor que se le entrega la boleta de infracción, para lo cual deberá asentar si la recibe o no; si este se niega a recibirla, se hará constar en el apartado de observaciones para que se encuadre en el proceso administrativo correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ENERO DE 2013)</small>
+
 ###### ARTÍCULO 248.
 
-Si el responsable de la infracción no se encuentra presente, el policía vial formulará una boleta de infracción de conductor ausente en la cual deberá asentarse lo siguiente:
+Si el responsable de la infracción no se encuentra presente, el policía Vial formulará una boleta de infracción de conductor ausente en la cual deberá asentar lo siguiente:
 
 I. Se hará constar la infracción en boletas o formas impresas por triplicado, numeradas correlativamente;
 
@@ -2297,7 +2313,9 @@ V. Señalará el lugar preciso de la vialidad y la orientación del vehículo in
 
 VI. Señalará cuales artículos del Reglamento, son los que encuadran en normas viales violentadas por el conductor;
 
-VII. Asentará además los códigos correspondientes a la infracción, fijados en el artículo 239 de este Reglamento, que encuadren con los supuestos de los artículos contravenidos a que se refiere la fracción VI de este artículo;
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 2013)</small>
+
+VII. Asentará además los códigos correspondientes a la infracción, fijados en el artículo 241 de este Reglamento que encuadren con los supuestos de los artículos contravenidos a que se refiere la fracción VI de este artículo
 
 VIII. Asentará las observaciones que considere oportuno señalar, y firmará la boleta de infracción;
 
@@ -2409,6 +2427,20 @@ SEGUNDO.- Las boletas de infracción elaboradas hasta un día antes de entrar en
 
 TERCERO.- El presidente municipal dispondrá su publicación en el Periódico Oficial del Estado de Colima.
 
+> <small>(ADICIONADO, P.O. 26 DE ENERO DE 2013)</small>
+
+CUARTO.- A los que infrinjan las normas dispuestas en este reglamento se les aplicará una sanción administrativa en los términos que marca este Reglamento y de acuerdo al siguiente tabulador de sanciones:
+
+> <small>[N. DE E. VÉASE TABULADOR DE SANCIONES EN EL P.O. DE 26 DE ENERO DE 2013, PÁGINAS DE LA 111 A LA 115.]</small>
+
 Dado en el Salón de Cabildo, del Municipio de Comala, Col., a los 15 días del mes de Agosto del año 2012.
 
 Dado en la Presidencia Municipal de Comala, Colima, aprobándose en la Sesión Ordinaria del H. Cabildo Municipal No. 17/2012 con fecha 15 de Agosto del 2012. Rúbrica.- Ing. Sergio Agustín Morales Anguiano, Presidente Municipal. Rúbrica. Ing. Carlos Servando Fuentes Luna. Síndico Municipal. Regidores: Regidora. Rúbrica.- Con. Priv. Silvia Fermín Cárdenas. Rúbrica. Regidor. Rúbrica.- Ing. Melesio Guzmán Santos, Regidor Rúbrica.- Francisco Cruz Calendario, Regidora Rúbrica.- Licda. Judith Carmina García Fuentes, Regidor Rúbrica; Ing. Miguel Martínez Ramírez, Regidor. Rúbrica.- Lic. Rafael Escamilla Jiménez, Regidora. Rúbrica; Licda. Janeth Paz Ponce, Regidor. Rúbrica.- C.P. Miguel López Toscano. Secretaria del H. Ayuntamiento. Rúbrica T.S. Juana Andrés Rivera y sello de la Secretaría.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE ENERO DE 2013.
+
+## [N. DE E. TRANSITORIO DE LA “REFORMA Y MODIFICACIÓN A LOS ARTÍCULOS 92, 241, 247 Y 248, Y ADICIÓN DEL TABULADOR DE SANCIONES EN EL TRANSITORIO CUARTO DEL REGLAMENTO DE TRÁNSITO Y DE LA SEGURIDAD VIAL DEL MUNICIPIO DE COMALA, COLIMA”.]
+
+PRIMERO.- La presente reforma, modificación y adición iniciará su vigencia al día siguiente de su Publicación en el Periódico Oficial de "El Estado de Colima".
