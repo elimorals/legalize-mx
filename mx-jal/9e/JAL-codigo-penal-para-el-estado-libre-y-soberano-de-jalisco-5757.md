@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2012-10-18"
+last_updated: "2013-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "JAL"
 ---
 # CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE MAYO DE 2013. EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2013.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -1151,7 +1149,7 @@ Los depósitos que garanticen la libertad caucional se aplicarán al pago de la 
 
 El juez que condene al pago de la reparación del daño podrá fijar plazo para el pago, que no podrá exceder de un año, siempre que se garantice suficientemente, a su juicio.
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ENERO DE 2013)</small>
 
 ## TITULO PRIMERO. DELITOS CONTRA LA SEGURIDAD INTERIOR DEL ESTADO
 
@@ -1161,7 +1159,9 @@ El juez que condene al pago de la reparación del daño podrá fijar plazo para 
 
 ###### Art. 102.
 
-Cuando el daño que se cause al ofendido produzca su muerte, el monto de la reparación del daño se fijará aplicando las cuotas que establece la Ley Federal del Trabajo, multiplicado por cinco tantos. Si la víctima no percibe remuneración alguna o ésta no pudiere determinarse, el monto de la indemnización se fijará tomando como base el salario mínimo general vigente del área geográfica correspondiente.
+Cuando el daño que se cause al ofendido produzca su muerte, el monto de la pena de indemnización se fijará atendiendo a lo establecido en el artículo 502 de la Ley Federal del Trabajo. Si la víctima no percibe utilidad por salario o no pudiere determinarse éste, el monto de la indemnización se fijará tomando como base el salario diario mínimo vigente.
+
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2003)</small>
 
 Si el daño produce incapacidad total o parcial, temporal o permanente, el monto de la indemnización se fijará de acuerdo con las tablas que para esta clase de incapacidades establece la Ley Federal del Trabajo, siendo aplicable en lo conducente, lo dispuesto en el párrafo que precede.
 
@@ -4988,3 +4988,7 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Los delitos que son eliminados o modificados con motivo del presente decreto continuarán en vigor, respecto a los hechos cometidos con anterioridad a la entrada en vigor del presente decreto y mientras existan procesos penales pendiente o sentencias por cumplir y penas por compurgar.
 
 TERCERO. La reforma a la fracción I del artículo 342 del Código de Procedimiento (sic) Penales para el Estado Libre y Soberano de Jalisco toma como referencia el texto vigente al día 20 de septiembre de 2012, por lo que no debe entenderse que deroga las posibles reformas a la misma fracción que hayan sido aprobadas con anterioridad por el Congreso del Estado y que, estando en proceso de sanción y publicación, aún no cobran vigencia en la fecha señalada.
+
+P.O. 26 DE ENERO DE 2013.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
