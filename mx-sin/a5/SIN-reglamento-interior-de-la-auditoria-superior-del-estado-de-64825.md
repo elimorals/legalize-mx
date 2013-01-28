@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-interior-de-la-auditoria-superior-del-estado-de-6482
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-11-07"
-last_updated: "2008-11-07"
+last_updated: "2013-01-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64825&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SIN"
 ---
 # REGLAMENTO INTERIOR DE LA AUDITORIA SUPERIOR DEL ESTADO DE SINALOA
 
-REGLAMENTO INTERIOR DE LA AUDITORIA SUPERIOR DEL ESTADO DE SINALOA
+REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DEL ESTADO DE SINALOA, PUBLICADO EN EL P.O. DE 28 DE ENERO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Edición Vespertina del Periódico Oficial del Estado de Sinaloa, el viernes 7 de noviembre de 2008.
 
@@ -1492,3 +1494,19 @@ PRESIDENTE
 DIP. ALEJANDRO HIGUERA OSUNA
 
 SECRETARIO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 28 DE ENERO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento Interior entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Auditoria Superior del Estado de Sinaloa, publicado en el Periódico Oficial "El Estado de Sinaloa", el 7 de noviembre de 2008.
+
+###### ARTÍCULO TERCERO.
+
+Las plazas correspondientes a la Auditoría Especial de Planeación, Informes y Seguimiento, Direcciones de Planeación, Programación, Control y Evaluación, de Integración de Informes y Seguimiento de Resultados de Auditoría, Departamentos de Planeación y Programación, de Control y Evaluación, de Integración de Informes y de Seguimiento de Resultados, están sujetas a su aprobación en su caso, del presupuesto de egresos de la Auditoría Superior del Estado Sinaloa, que apruebe la correspondiente Legislatura del Congreso del Estado de Sinaloa, para el ejercicio fiscal subsecuente.
