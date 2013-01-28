@@ -4,7 +4,7 @@ identifier: "HID-codigo-fiscal-del-estado-de-hidalgo-21150"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-12-30"
-last_updated: "2012-12-31"
+last_updated: "2013-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21150&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "HID"
 ---
 # CODIGO FISCAL DEL ESTADO DE HIDALGO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE ENERO DE 2013 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CÓDIGO DE FISCAL DEL ESTADO DE HIDALGO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2012.
+
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 28 DE ENERO DE 2013 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 31 DE DICIEMBRE DE 2012.</small>
 
 Código publicado en el Periódico Oficial del Estado de Hidalgo, el sábado 30 de diciembre de 2000.
 
