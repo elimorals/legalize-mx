@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-ingresos-del-municipio-de-pabellon-de-arteaga-90796"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2012-12-31"
-last_updated: "2012-12-31"
+last_updated: "2013-01-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90796&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "AGU"
 ---
 # LEY DE INGRESOS DEL MUNICIPIO DE PABELLON DE ARTEAGA, AGUASCALIENTES, PARA EL EJERCICIO FISCAL 2013
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE ENERO DE 2013 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE INGRESOS DEL MUNICIPIO DE PABELLÓN DE ARTEAGA, AGS., PARA EL EJERCICIO FISCAL 2013
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 28 DE ENERO DE 2013.</small>
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 31 de diciembre de 2012.
 
@@ -423,13 +423,11 @@ Para las personas domiciliadas fuera del Municipio o en el extranjero, deberán 
 
 ### CAPÍTULO II. Sobre Adquisición de Inmuebles
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE ENERO DE 2013 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 28 DE ENERO DE 2013)</small>
 
 ###### ARTÍCULO 6°.
 
 Este impuesto se causará y se pagará aplicando la tasa del 2.0% a la base que se establece y en los casos a que se refiere la Ley de Hacienda del Municipio de Pabellón de Arteaga.
-
-Si al aplicar la tasa anterior resultara un importe inferior a $295.00 se cobrará esta última como cuota mínima.
 
 ### CAPÍTULO III. Sobre Diversiones y Espectáculos Públicos
 
