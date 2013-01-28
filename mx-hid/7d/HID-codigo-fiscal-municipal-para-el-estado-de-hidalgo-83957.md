@@ -4,7 +4,7 @@ identifier: "HID-codigo-fiscal-municipal-para-el-estado-de-hidalgo-83957"
 country: "mx"
 rank: "codigo"
 publication_date: "2011-11-21"
-last_updated: "2012-12-31"
+last_updated: "2013-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83957&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "HID"
 ---
 # CODIGO FISCAL MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE ENERO DE 2013 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CÓDIGO FISCAL MUNICIPAL PARA EL ESTADO DE HIDALGO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2012.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 28 DE ENERO DE 2013.</small>
 
 Código publicado en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 21 de noviembre de 2011.
 
@@ -417,8 +417,6 @@ Las autoridades fiscales deberán efectuar la práctica de diligencias en días 
 
 Las autoridades fiscales para la práctica de diligencias podrán habilitar los días y las horas inhábiles, cuando la persona con quien deba practicar la diligencia correspondiente realice las actividades por las que deba pagar contribuciones, en dichos días u horas inhábiles.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE ENERO DE 2013 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 51.
 
 El monto de las contribuciones y aprovechamientos a favor del fisco Municipal, se actualizarán por el transcurso del tiempo, desde el mes en que debió hacerse el pago y hasta que el mismo se efectúe y con motivo de los cambios de precios en el país, para lo cual se aplicará el factor de actualización a las cantidades que se deban actualizar.
@@ -427,9 +425,9 @@ El monto de las contribuciones y aprovechamientos a favor del fisco Municipal, s
 
 Dicho factor, se obtendrá del resultado de la división entre el Índice Nacional de Precios al Consumidor calculado por el Instituto Nacional de Geografía y Estadística (lNEGI) y publicado en el Diario Oficial de la Federación del mes anterior al más reciente del período, entre el citado índice correspondiente al mes anterior al más antiguo de dicho período. Las contribuciones no se actualizarán por fracciones de mes.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012) (F. DE E., P.O. 28 DE ENERO DE 2013)
 
-En los casos en que el Índice Nacional de Precios al Consumidor del mes anterior al más reciente del período no haya sido publicado por el Instituto Nacional de Estadística y Geografía (INEGI) la actualización de que se trate se realizará aplicando el último índice mensual publicado.
+En los casos en que el Índice Nacional de Precios al Consumidor del mes anterior al más reciente del período no haya sido publicado por el Instituto Nacional de Geografía y Estadística (INEGI) la actualización de que se trate se realizará aplicando el último índice mensual publicado.
 
 Los valores de bienes u operaciones, se actualizarán de acuerdo con lo dispuesto, por éste artículo, cuando las leyes fiscales así lo establezcan. Las disposiciones señalarán en cada caso el período de que se trate.
 
