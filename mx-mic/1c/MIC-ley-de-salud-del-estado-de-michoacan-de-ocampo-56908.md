@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-salud-del-estado-de-michoacan-de-ocampo-56908"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-10"
-last_updated: "2013-01-22"
+last_updated: "2013-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el lunes 10 de septiembre de 2007.
 
@@ -223,39 +223,45 @@ IV. Limpieza pública;
 
 V. Rastros y mataderos;
 
-VI. Agua para uso y consumo humanos;
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 2013)</small>
 
-VII. Sistema de alcantarillado;
+VI. Plaguicidas y sustancias tóxicas o peligrosas;
 
-VIII. Explotaciones pecuarias como establos, granjas avícolas y porcícolas, apiarios y establecimientos similares;
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2013)</small>
 
-IX. Centros de Readaptación Social o de Reclusión;
+VII. Agua para uso y consumo humano;
 
-X. Albercas, balnearios, gimnasios y sanitarios públicos;
+VIII. Sistema de alcantarillado;
 
-XI. Centros de reunión y espectáculos públicos;
+IX. Explotaciones pecuarias como establos, granjas avícolas y porcícolas, apiarios y establecimientos similares;
 
-XII. Establecimientos dedicados a la prestación de servicios como: peluquerías, salones de belleza o estéticas, servicios de pedicuro, perforación, tatuaje, micro pigmentación y otros procedimientos similares de embellecimiento;
+X. Centros de Readaptación Social o de Reclusión;
 
-XIII. Establecimientos para hospedaje;
+XI. Albercas, balnearios, gimnasios y sanitarios públicos;
 
-XIV. Transporte;
+XII. Centros de reunión y espectáculos públicos;
 
-XV. Gasolinera;
+XIII. Establecimientos dedicados a la prestación de servicios como: peluquerías, salones de belleza o estéticas, servicios de pedicuro, perforación, tatuaje, micro pigmentación y otros procedimientos similares de embellecimiento;
 
-XVI. Prevención y control de la rabia en animales y seres humanos;
+XIV. Establecimientos para hospedaje;
 
-XVII. De expedición y venta semifija y ambulante de alimentos y bebidas;
+XV. Transporte;
 
-XVII. (sic) Instalaciones y cooperativas escolares;
+XVI. Gasolinera;
 
-XIX. Estacionamientos;
+XVII. Prevención y control de la rabia en animales y seres humanos;
 
-XX. Compra y venta de ropa usada;
+XVIII. De expedición y venta semifija y ambulante de alimentos y bebidas;
 
-XXI. Albergues y centros de desarrollo infantil; y,
+XIX. Instalaciones y cooperativas escolares;
 
-XXII. Las demás que determine esta Ley y las disposiciones aplicables.
+XX. Estacionamientos;
+
+XXI. Compra y venta de ropa usada;
+
+XXII. Albergues y centros de desarrollo infantil; y,
+
+XXIII. Las demás que determine esta Ley y las disposiciones aplicables.
 
 ###### ARTÍCULO 8°.
 
@@ -274,6 +280,10 @@ III. Acreditar el nivel de licenciatura y contar con experiencia en Salud Públi
 ###### ARTÍCULO 10.
 
 El Secretario de Salud administrará su presupuesto con sujeción en las disposiciones normativas correspondientes y lo destinará al cumplimiento de su objetivo.
+
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 2013)</small>
+
+Deberá prever y reservar un fondo de insumos, medicamentos, material de curación y recursos administrativos necesarios, para garantizar la suficiencia para la prevención y atención en desastres naturales y urgencias epidemiológicas, además capacitará a todas las áreas de la Secretaría, sobre la atención y respuesta en situaciones de desastre.
 
 ###### ARTÍCULO 11.
 
@@ -743,7 +753,9 @@ Para exhumar los restos humanos áridos deberán haber transcurrido cinco años 
 
 En el caso, de que aun cuando hubieren transcurrido los plazos a que se refiere el párrafo anterior, al efectuarse el sondeo correspondiente se encontrare que el cadáver inhumado no presenta las características de los restos áridos, la exhumación se considerará prematura y se procederá de inmediato a su reinhumación.
 
-### CAPÍTULO VII. AGUA PARA USO Y CONSUMO HUMANO
+### CAPÍTULO VII. PLAGUICIDAS y SUSTANCIAS TÓXICAS O PELIGROSAS
+
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 2013)</small>
 
 ###### ARTÍCULO 72.
 
@@ -797,7 +809,9 @@ La autoridad sanitaria estatal y municipal, organizará y coordinará con las de
 
 Todo particular tiene la obligación de hacer del conocimiento de la autoridad municipal más próxima, el hallazgo de animales muertos en la vía pública o predios baldíos, los cuales deberán ser incinerados o enterrados por los ayuntamientos en el área que ellos mismos establezcan.
 
-### CAPÍTULO VIII. SISTEMA DE ALCANTARILLADO
+### CAPÍTULO VIII. AGUA PARA USO Y CONSUMO HUMANO
+
+(REUBICADO, P.O. 28 DE ENERO DE 2013)
 
 ###### ARTÍCULO 81.
 
@@ -843,21 +857,63 @@ Para la distribución de carne y sus productos para consumo humano, se estará a
 
 Queda prohibida la venta de carne para consumo humano, cuando no cumpla con los requisitos sanitarios establecidos en las disposiciones normativas aplicables.
 
-### CAPÍTULO IX. EXPLOTACIONES PECUARIAS COMO ESTABLOS, GRANJAS AVÍCOLAS Y PORCÍCOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE ENERO DE 2013)</small>
 
-### CAPÍTULO X. CENTROS DE READAPTACIÓN SOCIAL O DE RECLUSIÓN
+### CAPÍTULO IX. SISTEMA DE ALCANTARILLADO
+
+(REUBICADO, P.O. 28 DE ENERO DE 2013)
+
+###### ARTÍCULO 89 Bis.
+
+Para los efectos de esta Ley, se entiende por:
+
+I. Plaguicida: Cualquier sustancia o mezcla de sustancias que se destina a controlar cualquier plaga, incluidos los vectores que transmiten las enfermedades humanas y de animales, las especies no deseadas que causen perjuicio o que interfieran con la producción agropecuaria y forestal, así como las sustancias defoliantes y las desecantes;
+
+II. Sustancia peligrosa: Aquel elemento o compuesto, o la mezcla química de ambos, que tiene características de corrosividad, reactividad, inflamabilidad, explosividad, toxicidad, biológico-infecciosas, carcinogenicidad, teratogenicidad o mutagenicidad; y,
+
+III. Sustancia tóxica: Aquel elemento o compuesto, o la mezcla química de ambos que, cuando por cualquier vía de ingreso, ya sea inhalación, ingestión o contacto con la piel o mucosas, causan efectos adversos al organismo, de manera inmediata o mediata, temporal o permanente, como lesiones funcionales, alteraciones genéticas, teratogénicas, mutagénicas, carcinogénicas o la muerte.
+
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 2013)</small>
+
+###### ARTÍCULO 89 Ter.
+
+Para el cumplimiento de su objetivo, la Secretaría a través de la COEPRIS, tendrá a su cargo las siguientes atribuciones:
+
+I. Ejercer la regulación, control, vigilancia y fomento sanitario en todos los lugares donde se manipule o aplique, plaguicidas, sustancias peligrosas o tóxicas;
+
+II. Ejercer las acciones de control, regulación y fomento sanitario correspondientes, para prevenir y reducir los riesgos sanitarios derivados de la exposición de la población a factores químicos, físicos y biológicos incluyendo las sustancias tóxicas o peligrosas;
+
+III. Participar en coordinación con las unidades administrativas correspondientes de la Secretaría, en la instrumentación de acciones y prevenciones de control y vigilancia epidemiológica, de las intoxicaciones por plaguicidas, sustancias peligrosas o tóxicas, cuando estos se relacionen con los riesgos sanitarios derivados de los procesos de manipulación, preparación, mezcla y aplicación;
+
+IV. Determinar las medidas de seguridad, preventivas y correctivas en el ámbito de su respectiva competencia;
+
+V. Aplicar estrategias tendientes a la prevención, evaluación y seguimiento de riesgos sanitarios, en coadyuvancia con otras autoridades competentes; y,
+
+VI. Emitir, prorrogar y revocar las autorizaciones sanitarias en la materia de su respectiva competencia, así como ejercer aquellos actos de autoridad que para la regulación, prevención, control y fomentos sanitarios, se esté establecido o derive de la presente Ley y sus respectivos reglamentos, las Normas Oficiales Mexicanas de la materia y demás disposiciones aplicables.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE ENERO DE 2013)</small>
+
+### CAPÍTULO X. EXPLOTACIONES PECUARIAS COMO ESTABLOS, GRANJAS AVÍCOLAS Y PORCÍCOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES
+
+(REUBICADO, P.O. 28 DE ENERO DE 2013)
 
 ###### ARTÍCULO 90.
 
 Se considera agua para uso y consumo humano, toda aquella que cumpla con los criterios establecidos en la legislación correspondiente.
 
+(REUBICADO, P.O. 28 DE ENERO DE 2013)
+
 ###### ARTÍCULO 91.
 
 El Gobernador del Estado y los ayuntamientos, en sus respectivos ámbitos de competencia, se coordinarán con las dependencias y entidades del sector público para que las poblaciones tengan servicio regular de aprovisionamiento y distribución de agua para uso y consumo humano.
 
+(REUBICADO, P.O. 28 DE ENERO DE 2013)
+
 ###### ARTÍCULO 92.
 
 Las personas que intervengan en el abastecimiento de agua, no podrán suprimir la dotación de los servicios de ésta en las construcciones habitadas, excepto en los casos que determinen la normatividad general aplicables.
+
+(REUBICADO, P.O. 28 DE ENERO DE 2013)
 
 ###### ARTÍCULO 93.
 
@@ -865,55 +921,83 @@ Los proyectos de sistemas de abastecimiento de agua para uso y consumo humano, d
 
 La autoridad sanitaria competente, ordenará a quién preste estos servicios la ejecución de las obras o trabajos que estime necesarios para satisfacer las condiciones que garanticen la calidad del agua servida.
 
+(REUBICADO, P.O. 28 DE ENERO DE 2013)
+
 ###### ARTÍCULO 94.
 
 La Secretaría, realizará periódicamente análisis de la calidad físico químico y microbiológico del agua y otros para uso y consumo humano, en los términos establecidos en la presente Ley y demás normatividad aplicable.
 
 Los ayuntamientos, además de lo señalado en el párrafo anterior, efectuarán el análisis para la identificación y cuantificación de metales pesados, hidrocarburos, plaguicidas y otras sustancias toxicas previstas en la Norma Oficial Mexicana número NOM 179-SSA1-1998.
 
+(REUBICADO, P.O. 28 DE ENERO DE 2013)
+
 ###### ARTÍCULO 95.
 
 Toda fuente de abastecimiento de agua para uso y consumo humano, será protegida para prevenir su contaminación, conforme a lo dispuesto por la normatividad aplicable.
+
+(REUBICADO, P.O. 28 DE ENERO DE 2013)
 
 ###### ARTÍCULO 96.
 
 Los ayuntamientos vigilarán que las construcciones, instalaciones y equipos para la conducción, tratamiento y distribución de aguas para uso y consumo humano, cumplan con los requisitos que establezcan las disposiciones legales aplicables, contando con la asesoría de la Secretaría.
 
+(REUBICADO, P.O. 28 DE ENERO DE 2013)
+
 ###### ARTÍCULO 97.
 
 Sólo podrá destinarse para consumo humano, el agua que provenga de aquellas fuentes de abastecimiento que hayan sido tratadas conforme a las normas oficiales mexicanas en la materia.
+
+(REUBICADO, P.O. 28 DE ENERO DE 2013)
 
 ###### ARTÍCULO 98.
 
 Corresponde a la Secretaría, ayuntamientos y demás dependencias en sus respectivos ámbitos de competencia, vigilar la calidad del agua cuando se destine para uso y consumo humano.
 
+(REUBICADO, P.O. 28 DE ENERO DE 2013)
+
 ###### ARTÍCULO 99.
 
 Los ayuntamientos u organismos operadores de agua potable, alcantarillado y saneamiento deberán proporcionar el servicio de agua potable para uso y consumo humano, la calidad de ésta deberá sujetarse a los programas de control que el sistema de abastecimiento debe diseñar y aplicar conforme a lo que señalan las normas oficiales mexicanas aplicables en la materia.
 
-### CAPÍTULO XI. BALNEARIOS, GIMNASIOS Y SANITARIOS PÚBLICOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE ENERO DE 2013)</small>
+
+### CAPÍTULO XI. CENTROS DE READAPTACIÓN SOCIAL O DE RECLUSIÓN
+
+(REUBICADO, P.O. 28 DE ENERO DE 2013)
 
 ###### ARTÍCULO 100.
 
 Todas las poblaciones del Estado, deberán contar con sistema de alcantarillado; en aquellas que por su tamaño y ubicación geográfica no cuenten con este sistema, deberán antes de efectuar las descargas a los cuerpos receptores, darles tratamiento a sus aguas residuales conforme a los criterios de saneamiento básico que señale la Secretaría.
 
+(REUBICADO, P.O. 28 DE ENERO DE 2013)
+
 ###### ARTÍCULO 101.
 
 Queda prohibido que los residuos sólidos urbanos que conduzcan los caños sean vertidos en ríos, arroyos, acueductos, corrientes o canales u otros similares por donde fluyan aguas destinadas al uso o consumo humano, en todo caso deberán ser tratadas y cumplirán con las disposiciones legales en materia ambiental.
+
+(REUBICADO, P.O. 28 DE ENERO DE 2013)
 
 ###### ARTÍCULO 102.
 
 Las autoridades municipales, en coordinación con las sanitarias y otras dependencias, fomentarán la construcción de sistemas de tratamiento de aguas residuales.
 
+(REUBICADO, P.O. 28 DE ENERO DE 2013)
+
 ###### ARTÍCULO 103.
 
 Los proyectos para la implantación de sistemas de alcantarillado y de aguas pluviales, deberán ser estudiados, elaborados y construidos por la autoridad municipal.
+
+(REUBICADO, P.O. 28 DE ENERO DE 2013)
 
 ###### ARTÍCULO 104.
 
 Los drenajes deben estar a una distancia mínima de tres metros de depósitos y conductos de agua potable. Queda prohibido utilizar para el consumo humano, el agua de un pozo o aljibe que no se encuentre situado a una distancia mínima de quince metros, considerando la corriente o flujo subterráneo de éstos, de retretes, alcantarillados, estercoleros o depósitos de desperdicios que puedan contaminarlos.
 
-### CAPÍTULO XII. CENTROS DE REUNIÓN Y ESPECTÁCULOS PÚBLICOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE ENERO DE 2013)</small>
+
+### CAPÍTULO XII. ALBERCAS, BALNEARIOS, GIMNASIOS Y SANITARIOS PÚBLICOS
+
+(REUBICADO, P.O. 28 DE ENERO DE 2013)
 
 ###### ARTÍCULO 105.
 
@@ -933,17 +1017,25 @@ VI. Disponer de agua para uso y consumo humano; y,
 
 VII. Contar con un programa permanente para el control de la fauna nociva.
 
+(REUBICADO, P.O. 28 DE ENERO DE 2013)
+
 ###### ARTÍCULO 106.
 
 Toda persona que intervenga en la obtención, transporte, venta de leche y derivados, debe cumplir con los requisitos sanitarios que señalan las normas correspondientes.
+
+(REUBICADO, P.O. 28 DE ENERO DE 2013)
 
 ###### ARTÍCULO 107.
 
 Los productos procedentes de animales tratados con medicamentos o cualquier otra sustancia nociva para la salud humana, no podrá destinarse para consumo humano dentro de los periodos de eliminación correspondientes que señalen las normas oficiales emitidas por la autoridad sanitaria federal.
 
+(REUBICADO, P.O. 28 DE ENERO DE 2013)
+
 ###### ARTÍCULO 108.
 
 Los propietarios o responsables de los establos, granjas avícolas, porcícolas, apiarios y establecimientos similares están obligados a separar de sus actividades, durante el tiempo que el personal de salud juzgue conveniente, a los trabajadores que padezcan alguna enfermedad infecto-contagiosa.
+
+(REUBICADO, P.O. 28 DE ENERO DE 2013)
 
 ###### ARTÍCULO 109.
 
@@ -951,67 +1043,101 @@ Cuando el ganado o cualquier animal destinado al consumo humano, padezca alguna 
 
 La autoridad sanitaria competente dará vista a la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación para que ordene el retiro de la producción de los animales involucrados, en forma temporal o definitiva.
 
+(REUBICADO, P.O. 28 DE ENERO DE 2013)
+
 ###### ARTÍCULO 110.
 
 La ubicación de los establecimientos contemplados en este capítulo será determinado por la autoridad competente en materia de uso de suelo, de acuerdo a la normativa municipal aplicable.
+
+(REUBICADO, P.O. 28 DE ENERO DE 2013)
 
 ###### ARTÍCULO 111.
 
 Para la instalación de cualquiera de las actividades, establecimientos y servicios, señalados en el presente capítulo, el interesado deberá apegarse a los requisitos sanitarios establecidos, sin perjuicio de la autorización que en su caso expidan las autoridades competentes para su funcionamiento.
 
-### CAPÍTULO XIII
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE ENERO DE 2013)</small>
 
-ESTABLECIMIENTOS DEDICADOS A LA PRESTACIÓN DE SERVICIOS COMO: PELUQUERÍAS, SALONES DE BELLEZA O ESTÉTICAS, SERVICIOS DE PEDICURO (SIC), PERFORACIÓN, TATUAJE, MICRO PIGMENTACIÓN Y OTROS PROCEDIMIENTOS SIMILARES
+### CAPÍTULO XIII. CENTROS DE REUNIÓN Y ESPECTÁCULOS PÚBLICOS
+
+(REUBICADO, P.O. 28 DE ENERO DE 2013)
 
 ###### ARTÍCULO 112.
 
 Corresponde al Gobernador del Estado integrar, organizar, administrar y dirigir el Sistema Penitenciario del Estado, de conformidad con lo establecido en la Ley de la materia.
 
+(REUBICADO, P.O. 28 DE ENERO DE 2013)
+
 ###### ARTÍCULO 113.
 
 Los centros de readaptación o de reclusión estarán sujetos a control sanitario a través de la Secretaría, de conformidad con lo preceptuado en esta Ley y demás normatividad aplicable.
+
+(REUBICADO, P.O. 28 DE ENERO DE 2013)
 
 ###### ARTÍCULO 114.
 
 En los centros de readaptación o de reclusión se implementarán programas tendientes a fomentar conservar y fortalecer en el interno la dignidad humana, a mantener su propia estima, propiciar la superación personal, el respeto a sí mismo y a los demás, teniendo como finalidad su readaptación a la comunidad y su salud mental.
 
+(REUBICADO, P.O. 28 DE ENERO DE 2013)
+
 ###### ARTÍCULO 115.
 
 Los centros de readaptación social o de reclusión deberán contar además de lo previsto por las disposiciones legales aplicables, con sanitarios, regaderas y servicio de atención médica, a través de personal profesional, técnico y auxiliar calificado, así mismo con los insumos necesarios para la atención de aquellas enfermedades en que no sea requerido su traslado a un hospital.
+
+(REUBICADO, P.O. 28 DE ENERO DE 2013)
 
 ###### ARTÍCULO 116.
 
 Tratándose de enfermedades de urgencia o cuando así lo requiera el tratamiento, a criterio del personal médico del centro de readaptación social, previa autorización de su director y en su caso del Juez que conozca de la causa, el interno deberá ser trasladado a un centro de atención médica que cuente con la capacidad instalada necesaria para su debida atención, quedando su custodia, bajo la responsabilidad de las instancias competentes en materia de seguridad pública en el Estado.
 
+(REUBICADO, P.O. 28 DE ENERO DE 2013)
+
 ###### ARTÍCULO 117.
 
 En los centros de readaptación social o de reclusión se proporcionará atención médica especializada en los casos que así se requiera.
+
+(REUBICADO, P.O. 28 DE ENERO DE 2013)
 
 ###### ARTÍCULO 118.
 
 Los hijos de las internas que nazcan dentro de los reclusorios o centros de readaptación social, y permanezcan dentro de estos, recibirán atención pediátrica, educación y alojamiento.
 
+(REUBICADO, P.O. 28 DE ENERO DE 2013)
+
 ###### ARTÍCULO 119.
 
 Las secciones destinadas a la custodia en aislamiento, deberán observar las normas y reglamentos sanitarios aplicables; los internos serán visitados diariamente por personal médico del establecimiento.
+
+(REUBICADO, P.O. 28 DE ENERO DE 2013)
 
 ###### ARTÍCULO 120.
 
 Los centros de readaptación social o de reclusión contarán con programas específicos para la detección y tratamiento de enfermedades transmisibles. Para ello contarán con la asesoría de la Secretaría.
 
+(REUBICADO, P.O. 28 DE ENERO DE 2013)
+
 ###### ARTÍCULO 121.
 
 Los centros de readaptación social o de reclusión deberán contar con servicios médicos generales, psiquiátricos, psicológicos, de enfermería y servicios de odontología.
+
+(REUBICADO, P.O. 28 DE ENERO DE 2013)
 
 ###### ARTÍCULO 122.
 
 El personal médico de los centros de readaptación social o de reclusión, cuidará la salud física y mental de la población carcelaria, así como la higiene general del establecimiento, quedando obligados a notificar a la autoridad sanitaria más cercana los casos individuales de enfermedades de acuerdo a lo que establece la Ley General de Salud en lo que concierne a salubridad general.
 
+(REUBICADO, P.O. 28 DE ENERO DE 2013)
+
 ###### ARTÍCULO 123.
 
 Las disposiciones sanitarias contenidas en este capítulo serán aplicables a los centros de internación de adolescentes.
 
-### CAPÍTULO XIV. ESTABLECIMIENTOS PARA HOSPEDAJE
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE ENERO DE 2013)</small>
+
+### CAPÍTULO XIV
+
+ESTABLECIMIENTOS DEDICADOS A LA PRESTACIÓN DE SERVICIOS COMO: PELUQUERÍAS, SALONES DE BELLEZA O ESTÉTICAS, SERVICIOS DE PEDICURO, PERFORACIÓN, TATUAJE, MICRO PIGMENTACIÓN Y OTROS PROCEDIMIENTOS SIMILARES DE EMBELLECIMIENTO
+
+(REUBICADO, P.O. 28 DE ENERO DE 2013)
 
 ###### ARTÍCULO 124.
 
@@ -1025,13 +1151,19 @@ III. Sanitario: Todo establecimiento destinado para que el usuario deposite sus 
 
 IV. Baños Públicos: Establecimiento destinado a utilizar el agua para el aseo corporal, descanso y recreación.
 
+(REUBICADO, P.O. 28 DE ENERO DE 2013)
+
 ###### ARTÍCULO 125.
 
 En la construcción, adaptación o remodelación de los establecimientos señalados en el artículo anterior, será necesaria la autorización del proyecto por la autoridad sanitaria conforme a los lineamientos estipulados por el Reglamento de Ingeniería Sanitaria en la presente Ley.
 
+(REUBICADO, P.O. 28 DE ENERO DE 2013)
+
 ###### ARTÍCULO 126.
 
 Una vez concluida la obra, el titular o encargado del mismo, dará aviso a la Secretaría, para que ésta declare, previa visita de verificación, si el establecimiento de que se trate, reúne los requisitos y lineamientos establecidos por la normatividad vigente y el proyecto autorizado, para ser puesto en funcionamiento.
+
+(REUBICADO, P.O. 28 DE ENERO DE 2013)
 
 ###### ARTÍCULO 127.
 
@@ -1039,17 +1171,25 @@ Los establecimientos señalados en el presente capítulo, deberán contar con in
 
 Los gimnasios y balnearios deberán contar con instructores certificados por la Comisión de Cultura Física y Deporte del Estado de conformidad a la Ley de (sic) materia, y en el último caso con el servicio de salvavidas.
 
+(REUBICADO, P.O. 28 DE ENERO DE 2013)
+
 ###### ARTÍCULO 128.
 
 Los propietarios o encargados de los establecimientos citados en el presente capítulo serán los responsables de mantener la limpieza y desinfección de los mismos; y en aquellos que ofrezcan servicio de blancos, deberán contar con toallas limpias y desinfectadas a disposición de los usuarios, conforme a la normatividad aplicable.
+
+(REUBICADO, P.O. 28 DE ENERO DE 2013)
 
 ###### ARTÍCULO 129.
 
 En gimnasios queda prohibida la venta y suministro de suplementos, complementos alimenticios y medicamentos.
 
+(REUBICADO, P.O. 28 DE ENERO DE 2013)
+
 ###### ARTÍCULO 130.
 
 Los tratamientos a que se sometan las aguas de las albercas han de ser previamente aprobados por la autoridad sanitaria competente. Así mismo, se deberá documentar o tener registro en bitácoras de aquéllos.
+
+(REUBICADO, P.O. 28 DE ENERO DE 2013)
 
 ###### ARTÍCULO 131.
 
@@ -1059,41 +1199,61 @@ I. Proporcionar información respecto de los riesgos a la salud por el uso de la
 
 II. Contar con botiquín y personal capacitado para la atención de urgencias.
 
+(REUBICADO, P.O. 28 DE ENERO DE 2013)
+
 ###### ARTÍCULO 132.
 
 Los sanitarios públicos deberán cumplir con los requisitos señalados por el Reglamento de Ingeniería Sanitaria y contar con la autorización correspondiente otorgada por la autoridad municipal.
 
 Además de lo señalado se deberá cumplir con la normatividad para que se garantice el acceso, tránsito y uso de las instalaciones de personas con capacidades diferentes.
 
+(REUBICADO, P.O. 28 DE ENERO DE 2013)
+
 ###### ARTÍCULO 133.
 
 Queda prohibido que los menores de edad atiendan los establecimientos del presente capítulo.
+
+(REUBICADO, P.O. 28 DE ENERO DE 2013)
 
 ###### ARTÍCULO 134.
 
 En caso de sanitarios portátiles, su autorización y control sanitario quedarán bajo la responsabilidad de la autoridad municipal, debiendo señalar la disposición final de las excretas.
 
+(REUBICADO, P.O. 28 DE ENERO DE 2013)
+
 ###### ARTÍCULO 135.
 
 Las compañías dedicadas a la prestación de este servicio, deberán dar aviso de funcionamiento a la autoridad sanitaria competente.
 
-### CAPÍTULO XV. DEL TRANSPORTE
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE ENERO DE 2013)</small>
+
+### CAPÍTULO XV. ESTABLECIMIENTOS PARA HOSPEDAJE
+
+(REUBICADO, P.O. 28 DE ENERO DE 2013)
 
 ###### ARTÍCULO 136.
 
 Para efectos de esta Ley se entiende por centros de reunión y espectáculos públicos, los lugares o áreas destinados a la realización de actividades sociales, deportivas, culturales, artísticas, docentes y de esparcimiento al servicio del público en general.
 
+(REUBICADO, P.O. 28 DE ENERO DE 2013)
+
 ###### ARTÍCULO 137.
 
 Para construir, acondicionar o remodelar los lugares, áreas y establecimientos referidos en el artículo anterior, se observará lo establecido en el Reglamento de Ingeniería Sanitaria.
+
+(REUBICADO, P.O. 28 DE ENERO DE 2013)
 
 ###### ARTÍCULO 138.
 
 Una vez terminada la edificación del centro de reunión y de espectáculos públicos y antes de abrirlo al público, la autoridad sanitaria competente hará la verificación y en su caso emitirá la autorización sanitaria; así mismo, podrá en cualquier momento decretar la aplicación de las medidas de seguridad que establece esta Ley, para la protección contra riesgos sanitarios.
 
+(REUBICADO, P.O. 28 DE ENERO DE 2013)
+
 ###### ARTÍCULO 139.
 
 Queda prohibido fumar en los establecimientos señalados en este capítulo en espacios cerrados a los que tenga acceso el público en general y cuando concurran menores de edad o personas de la tercera edad, con las excepciones que señale el reglamento correspondiente.
+
+(REUBICADO, P.O. 28 DE ENERO DE 2013)
 
 ###### ARTÍCULO 140.
 
@@ -1105,25 +1265,37 @@ II. Ofrecer servicios sanitarios gratuitos, así como botiquín de primeros auxi
 
 III. Cumplir con las medidas de seguridad y protección civil que establezca la normatividad estatal y municipal de la materia, así como las normas que expidan las autoridades sanitarias competentes.
 
-### CAPÍTULO XVII (SIC). GASOLINERA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE ENERO DE 2013)</small>
+
+### CAPÍTULO XVI. TRANSPORTE
+
+(REUBICADO, P.O. 28 DE ENERO DE 2013)
 
 ###### ARTÍCULO 141.
 
 Para los efectos de esta Ley, se entiende por peluquería, salones de belleza y estéticas, los establecimientos dedicados a depilar, rasurar, teñir, decolorar, peinar, cortar, rizar o realizar cualquier actividad similar con el cabello de las personas, así como el arreglo de las uñas, manos y pies o la aplicación de tratamientos capilares, faciales y corporales de belleza al público en general. Estos establecimientos deberán dar aviso de funcionamiento ante la Secretaría y serán sujetos a control y vigilancia sanitaria.
 
+(REUBICADO, P.O. 28 DE ENERO DE 2013)
+
 ###### ARTÍCULO 142.
 
 Los procedimientos de embellecimiento del cuerpo humano son aquellos que se utilizan para modificar sus características externas y superficiales, mediante la aplicación de substancias, productos o preparados de uso externo, los destinados a mejorar su apariencia física, además en el caso de la aplicación de aditamentos o prótesis removibles, perforación, tatuaje o micropigmentación, deberá ser realizado por personal calificado y autorizado para ejercer la profesión por la autoridad educativa, siempre que no haya intervención quirúrgica y no pongan en riesgo la salud del usuario. Los establecimientos dedicados a estas actividades deberán contar con autorización sanitaria y se sujetarán a lo dispuesto por la normatividad aplicable.
+
+(REUBICADO, P.O. 28 DE ENERO DE 2013)
 
 ###### ARTÍCULO 143.
 
 Para los efectos señalados en el artículo anterior, queda prohibido utilizar productos, insumos o procedimientos que no estén autorizados o notificados por la Secretaría de Salud.
 
-### CAPÍTULO XVIII. PREVENCIÓN Y CONTROL DE LA RABIA EN ANIMALES Y SERES HUMANOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE ENERO DE 2013)</small>
+
+### CAPÍTULO XVII. GASOLINERA
 
 ###### ARTÍCULO 144.
 
 Para los efectos de esta Ley se entiende por establecimientos para hospedaje, los que proporcionen al público, alojamiento y otros servicios complementarios mediante el pago de un precio determinado, quedando comprendidos los hoteles, moteles, apartamentos amueblados, albergues, suites, villas, bungaló, casas de huéspedes y de asistencia, posadas y los cuartos de alquiler, así como cualquier edificación que se destine a éste fin.
+
+(REUBICADO, P.O. 28 DE ENERO DE 2013)
 
 ###### ARTÍCULO 145.
 
@@ -1131,23 +1303,33 @@ Los propietarios, encargados o responsables de los establecimientos, señalados 
 
 La Secretaría podrá realizar en cualquier tiempo, la vigilancia sanitaria tendiente a comprobar que se ha dado cumplimiento a los requisitos y criterios establecidos en esta Ley y demás normatividad aplicable.
 
+(REUBICADO, P.O. 28 DE ENERO DE 2013)
+
 ###### ARTÍCULO 146.
 
 Los establecimientos comprendidos en este apartado, contarán con botiquín para prestar los primeros auxilios, así como una guía de servicios médicos.
+
+(REUBICADO, P.O. 28 DE ENERO DE 2013)
 
 ###### ARTÍCULO 147.
 
 En caso de enfermedad de un huésped, el propietario o encargado del establecimiento de hospedaje estará obligado a auxiliarlo para que se le brinde atención médica; y si la enfermedad esta sujeta a vigilancia epidemiológica, se dará aviso inmediatamente a la autoridad sanitaria para que proceda de acuerdo con los ordenamientos respectivos.
 
+(REUBICADO, P.O. 28 DE ENERO DE 2013)
+
 ###### ARTÍCULO 148.
 
 Cuando en algún establecimiento de los señalados en este apartado, se presten otros servicios, aun cuando éstos constituyan una misma unidad comercial, los propietarios, encargados o responsables deberán presentar el aviso correspondiente en forma independiente al giro que se trate.
 
-### CAPÍTULO XIX. DEL EXPENDIO Y VENTA DE ALIMENTOS Y BEBIDAS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE ENERO DE 2013)</small>
+
+### CAPÍTULO XVIII. PREVENCIÓN Y CONTROL DE LA RABIA EN ANIMALES Y SERES HUMANOS
 
 ###### ARTÍCULO 149.
 
 Se entiende por transporte todo vehículo destinado al traslado de carga o de pasajeros; incluidos aquellos que presten los servicios de traslado de escolares, empleados, turismo, recreación y las diversas unidades móviles tipo ambulancia o auxilio.
+
+(REUBICADO, P.O. 28 DE ENERO DE 2013)
 
 ###### ARTÍCULO 150.
 
@@ -1157,9 +1339,13 @@ La vigilancia respecto de la conservación, operación y funcionamiento de estas
 
 La Secretaría se coordinará con las autoridades competentes en la materia, para establecer programas y medidas en la prevención de accidentes viales en las poblaciones del Estado.
 
+(REUBICADO, P.O. 28 DE ENERO DE 2013)
+
 ###### ARTÍCULO 151.
 
 Las unidades móviles tipo ambulancias serán reguladas por la Secretaría y su operación se ajustará al reglamento que ésta emita.
+
+(REUBICADO, P.O. 28 DE ENERO DE 2013)
 
 ###### ARTÍCULO 152.
 
@@ -1167,13 +1353,13 @@ Los vehículos que tengan fines turísticos, recreativos y de transporte, las un
 
 En el caso de las unidades móviles tipo ambulancia o de auxilio, deberán de presentar además aviso de responsable sanitario, lo anterior sin perjuicio de lo dispuesto por la Ley de Protección Civil del Estado y demás ordenamientos aplicables.
 
+(REUBICADO, P.O. 28 DE ENERO DE 2013)
+
 ###### ARTÍCULO 153.
 
 Se prohíbe fumar en el interior de los vehículos destinados al transporte público de pasajeros, se deberán observar las normas de protección a los no fumadores en el estado y, demás ordenamientos aplicables.
 
-### CAPÍTULO XX. DE LA SALUD ESCOLAR
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2010)</small>
+### CAPÍTULO XIX. DE EXPEDICIÓN Y VENTA SEMIFIJA Y AMBULANTE DE ALIMENTOS Y BEBIDAS
 
 ###### ARTÍCULO 154.
 
@@ -1191,7 +1377,9 @@ Las gasolineras deberán contar con las instalaciones de seguridad que establezc
 
 La Secretaría podrá realizar en cualquier tiempo la vigilancia sanitaria en los establecimientos a que se refiere el presente capítulo.
 
-### CAPÍTULO XXI. ESTACIONAMIENTOS
+### CAPÍTULO XX. INSTALACIONES Y COOPERATIVAS ESCOLARES
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 158.
 
@@ -1269,7 +1457,9 @@ II. Tenerlo viviendo fuera de la casa-habitación.
 
 La Secretaría llevará a cabo programas de fomento sanitario dirigidos a la población, sobre los riesgos a la salud que implica el tener perros y gatos en casa-habitación.
 
-### CAPÍTULO XXII. LA COMPRA Y VENTA DE ROPA USADA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE ENERO DE 2013)</small>
+
+### CAPÍTULO XXI. ESTACIONAMIENTOS
 
 ###### ARTÍCULO 165.
 
@@ -1295,9 +1485,9 @@ Se prohíbe en la venta de las actividades señaladas en este capítulo, el expe
 
 Los ayuntamientos, en el ámbito de su competencia, autorizarán la ubicación, funcionamiento y horarios de los establecimientos a que se refiere este capítulo, tomando en cuenta la distancia de éstos con cualquier establecimiento que preste servicio de atención médica y escuelas.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE ENERO DE 2013)</small>
 
-### CAPÍTULO XXIII. ALBERGUES Y CENTROS DE DESARROLLO INFANTIL
+### CAPÍTULO XXII. COMPRA Y VENTA DE ROPA USADA
 
 ###### ARTÍCULO 171.
 
@@ -1337,7 +1527,7 @@ ARTÍCULO 173 bis. La Secretaría deberá brindar a la población escolar de niv
 
 Todo plantel de educación básica deberá contar con su programa institucional de prevención de accidentes de acuerdo a la normatividad aplicable.
 
-### CAPÍTULO I. AUTORIZACIONES
+### CAPÍTULO XXIII. ALBERGUES Y CENTROS DE DESARROLLO INFANTIL
 
 ###### ARTÍCULO 174.
 
@@ -1359,7 +1549,9 @@ VII. Superficie limpia, libre de desperdicios, escombros, promontorios, hoyos y 
 
 VIII. Las demás medidas y requisitos que establezcan las leyes, reglamentos y normas correspondientes.
 
-### CAPÍTULO II. REVOCACIÓN DE AUTORIZACIONES SANITARIAS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE ENERO DE 2013)</small>
+
+### CAPÍTULO I. AUTORIZACIONES
 
 ###### ARTÍCULO 175.
 
@@ -1373,7 +1565,7 @@ II. Las demás medidas y requisitos que establezcan las leyes, reglamentos y nor
 
 Queda prohibida la compraventa de ropa y blancos usados provenientes de hospitales, sanatorios y similares.
 
-### CAPÍTULO III. CERTIFICADOS
+### CAPÍTULO II. REVOCACIÓN DE AUTORIZACIONES SANITARIAS
 
 ###### ARTÍCULO 177.
 
@@ -1393,11 +1585,11 @@ VI. Reunir la normatividad que marque la Secretaría de Educación.
 
 Los albergues para indigentes, niños o jóvenes en situación de drogadicción crónica, alcoholismo, abandono o rechazo familiar, las personas con capacidades diferentes, los adultos mayores, en situación de desprotección, deberán contar con iguales beneficios, pero además con los tratamientos especializados que requieran.
 
-### CAPÍTULO IV. AVISOS DE FUNCIONAMIENTO
+### CAPÍTULO III. CERTIFICADOS
 
 ## TÍTULO CUARTO. AUTORIZACIONES, CERTIFICADOS Y AVISOS
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO IV. AVISOS DE FUNCIONAMIENTO
 
 ###### ARTÍCULO 178.
 
@@ -1425,7 +1617,7 @@ Los ingresos por concepto de derechos a que se refiere esta Ley se regirán por 
 
 Requieren de autorización sanitaria los establecimientos y las actividades a que se refiere el artículo 142 de esta Ley. Cuando cambien de actividad preponderante, ubicación, propietario o razón social, requerirán de nueva autorización sanitaria.
 
-### CAPÍTULO I. MEDIDAS DE SEGURIDAD SANITARIA
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 184.
 
@@ -1493,7 +1685,7 @@ I. Cuando, de ser el caso, no se hubiere iniciado la renovación de la autorizac
 
 II. Cuando el titular de la autorización lo solicite.
 
-### CAPÍTULO II. SANCIONES ADMINISTRATIVAS
+### CAPÍTULO I. MEDIDAS DE SEGURIDAD SANITARIA
 
 ###### ARTÍCULO 193.
 
@@ -1525,7 +1717,7 @@ Los certificados a que se refiere este capítulo, se expedirán en los formatos 
 
 La Secretaría, podrá expedir certificados, autorizaciones o cualquier otro documento con base en la información, comprobación de hechos o recomendaciones técnicas, que proporcionen terceros autorizados, de conformidad con lo que señala la Ley General de Salud.
 
-### CAPÍTULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+### CAPÍTULO II. SANCIONES ADMINISTRATIVAS
 
 ###### ARTÍCULO 198.
 
@@ -1545,7 +1737,7 @@ V. Número de cédula profesional, en su caso, del responsable sanitario.
 
 ## TÍTULO QUINTO. VIGILANCIA SANITARIA
 
-### CAPÍTULO IV. RECURSO DE REVISIÓN
+### CAPÍTULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
 ###### ARTÍCULO 199.
 
@@ -1647,7 +1839,7 @@ En el caso de los productos asegurados en el procedimiento de muestreo o verific
 
 ## TÍTULO SEXTO. MEDIDAS DE SEGURIDAD SANITARIA Y SANCIONES
 
-### CAPÍTULO V. PRESCRIPCIÓN
+### CAPÍTULO IV. RECURSO DE REVISIÓN
 
 ###### ARTÍCULO 212.
 
@@ -1772,6 +1964,8 @@ ARTÍCULO 223 TER. Cuando hubieran desaparecido las causas que hayan originado l
 La suspensión de mensajes publicitarios en materia de esta Ley, procederá cuando la Secretaría determine que el contenido de los mensajes afecte o induzca a actos que puedan perjudicar la salud de acuerdo a lo establecido en el reglamento de la materia.
 
 Tratándose de mensajes difundidos, la suspensión procederá, cuando la Secretaría tenga conocimiento, dentro de las veinticuatro horas posteriores o en la siguiente edición según sea el caso.
+
+### CAPÍTULO V. PRESCRIPCIÓN
 
 ###### ARTÍCULO 225.
 
@@ -2056,6 +2250,30 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 Dése cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado y al Titular de la Secretaría de Salud para los efectos correspondientes.
 
 P.O. 22 DE ENERO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Dése cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado y al Titular de la Secretaría de Salud para los efectos correspondientes.
+
+P.O. 28 DE ENERO DE 2013.
+
+DECRETO NÚMERO 98, QUE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 10 DE LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Dése cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado y al Titular de la Secretaría de Salud para los efectos correspondientes.
+
+P.O. 28 DE ENERO DE 2013.
+
+DECRETO NÚMERO 99, QUE ADICIONA UNA FRACCIÓN AL ARTÍCULO 7, SE REFORMAN LA DENOMINACIÓN DE LOS CAPÍTULOS VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XIX, XX Y XXII, DEL TÍTULO TERCERO, ADICIONÁNDOSE LOS ARTÍCULOS 89 BIS Y 89 TER DE LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO.
 
 ###### ARTÍCULO PRIMERO.
 
