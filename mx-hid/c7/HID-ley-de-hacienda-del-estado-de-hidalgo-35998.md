@@ -4,7 +4,7 @@ identifier: "HID-ley-de-hacienda-del-estado-de-hidalgo-35998"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-31"
-last_updated: "2012-12-31"
+last_updated: "2013-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35998&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "HID"
 ---
 # LEY DE HACIENDA DEL ESTADO DE HIDALGO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE ENERO DE 2013 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE HACIENDA DEL ESTADO DE HIDALGO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2012.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 28 DE ENERO DE 2013.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el miércoles 31 de diciembre de 2003.
 
@@ -1079,13 +1079,11 @@ $ $ $ %
 
 Tratándose de automóviles eléctricos nuevos, así como de aquellos eléctricos nuevos que además cuenten con motor de combustión interna o con motor accionado por hidrógeno, el impuesto se pagará a la tasa de 0%.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE ENERO DE 2013 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012) (F. DE E., P.O. 28 DE ENERO DE 2013)
 
 ###### ARTICULO 55.
 
-Para los efectos de lo dispuesto en los Artículos 49, 51 y 52 de esta Ley, los montos de las cantidades que en los mismos se señalan se actualizarán cuando el incremento porcentual acumulado del índice Nacional de Precios al Consumidor desde el mes en que se actualizaron por última vez, exceda del 10%. Dicha actualización se llevará a cabo a partir del mes de enero del siguiente ejercicio fiscal a aquél en el que se haya dado dicho incremento, aplicando el factor correspondiente al periodo comprendido desde el mes en el que éstas se actualizaron por última vez y hasta el último mes del ejercicio en el que se exceda el porcentaje citado, mismo que se obtendrá de conformidad con el Artículo 35 del Código Fiscal del Estado.
+Para los efectos de lo dispuesto en los artículos 46, 49, 51 y 53 de esta Ley, los montos de las cantidades que en los mismos se señalan se actualizarán cuando el incremento porcentual acumulado del Índice Nacional de Precios al Consumidor desde el mes en que se actualizaron por última vez, exceda del 10%. Dicha actualización se llevará a cabo a partir del mes de enero del siguiente ejercicio fiscal a aquél en el que se haya dado dicho incremento, aplicando el factor correspondiente al periodo comprendido desde el mes en el que éstas se actualizaron por última vez y hasta el último mes del ejercicio en el que se exceda el porcentaje citado, mismo que se obtendrá de conformidad con el artículo 35 del Código Fiscal del Estado.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
@@ -2157,217 +2155,267 @@ XII.- Por cada año siguiente del concepto de
 
 la fracción anterior. 0.5 salario mínimo.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE ENERO DE 2013 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
-> <small>(ADICIONADO Y REFORMADO [N. DE E. ANTES ARTÍCULO 76 BIS], P.O. 31 DE DICIEMBRE DE 2011)</small>
-
 ###### ARTICULO 96.
 
 Los derechos por la prestación de los servicios del Estado, a través de la Coordinación General Jurídica, se causarán y pagarán de la siguiente forma:
 
-I.- Por derecho a examen para obtener la
+> <small>(F. DE E., P.O. 28 DE ENERO DE 2013)</small>
 
-Constancia de aspirante a Fiat de Notario; 40 salarios mínimos.
+I. Por derecho a examen para obtener la
 
-II.- Por solicitud de examen de oposición para
+Constancia de aspirante a FIAT de Notario; 45 salarios mínimos
 
-encargado de Notario Público o Adscrito; 100 salarios mínimos.
+> <small>(F. DE E., P.O. 28 DE ENERO DE 2013)</small>
 
-III.- Por informe de aviso de testamento; 2.64 salarios mínimos.
+II. Por solicitud de examen de oposición para
 
-IV.- Por la expedición de copias certificadas
+encargado de Notario o Adscrito; 110 salarios mínimos
 
-de escrituras existentes en el Archivo
+> <small>(F. DE E., P.O. 28 DE ENERO DE 2013)</small>
+
+III. Por Informe de Aviso de Testamento:
+
+Ordinario 3.5 salarios mínimos
+
+Urgente 8 salarios mínimos
+
+> <small>(F. DE E., P.O. 28 DE ENERO DE 2013)</small>
+
+IV. Por la expedición de copias certificadas
+
+de escrituras resguardadas en el Archivo
 
 General de Notarias:
 
-a).- Hasta 10 hojas 4.66 salarios mínimos
+a) Hasta 10 hojas 5.5 salarios mínimos
 
-b).- Hojas subsiguientes $10.00 cada una
+b) Hojas subsiguientes $15.00 cada una
 
-V.- Por la búsqueda de instrumentos notariales:
+> <small>(F. DE E., P.O. 28 DE ENERO DE 2013)</small>
 
-a).- Hasta por cinco años 4.66 salarios mínimos
+V. Por la búsqueda de instrumentos notariales:
 
-b).- Por 10 años 5.4 salarios mínimos
+Ordinarios:
 
-c).- Por quince años 6.2 salarios mínimos
+a) Hasta por cinco años 5.6 salarios mínimos
 
-d).- Por veinte años en adelante 7.76 salarios mínimos
+b) Por diez años 8 salarios mínimos
 
-VI.- Por expedición de constancias de inscripción
+c) Por quince años 10 salarios mínimos
 
-o de no inscripción de testamentos; 1 salario mínimo.
+d) Por veinte años en adelante 15 salarios mínimos
 
-VII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2011)
+Urgentes:
 
-VIII.- Por incumplimiento de aviso de testamento
+a) Hasta por cinco años 10 salarios mínimos
 
-en términos de la Ley del Notariado para el Estado
+b) Por diez años 16 salarios mínimos
 
-de Hidalgo; 2 salarios mínimos
+c) Por quince años 20 salarios mínimos
 
-IX.- Por presentar libros para cierre fuera del
+d) Por veinte años en adelante 30 salarios mínimos
 
-término legal; 2 salarios mínimos
+> <small>(F. DE E., P.O. 28 DE ENERO DE 2013)</small>
 
-X.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2011)
+VI. Por incumplimiento de aviso de
 
-XI.- Por registro de patente de Notario Público; 500 salarios mínimos
+testamento en términos de la Ley del
 
-XII.- Designación de Adscritos para actuar en
+Notariado para el Estado de Hidalgo 30 salarios mínimos
 
-funciones de Notario en una Notaria Pública; 25 salarios mínimos
+> <small>(F. DE E., P.O. 28 DE ENERO DE 2013)</small>
 
-XIII.- Por autorización de cambio de
+VII. Por presentar libros para cierre fuera del
 
-sellos a notarios; 3 salarios mínimos
+término legal 4 salarios mínimos
 
-XIV.- Por expedición de Segundos Testimonios;
+> <small>(F. DE E., P.O. 28 DE ENERO DE 2013)</small>
 
-a).- Hasta diez hojas 4.66 salarios mínimos
+VIII. Por registro de Patente de Notario
 
-b).- Hojas subsiguientes $ 10.00 cada una
+Público 525 salarios mínimos
 
-XV.- Por búsqueda de Testamento; 2.64 salarios mínimos
+> <small>(F. DE E., P.O. 28 DE ENERO DE 2013)</small>
 
-XVI.- Por deposito de testamento Ológrafo; 5 salarios mínimos
+IX. Por designación de Notarios Adscritos en
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
+una Notaría Pública 35 salarios mínimos
 
-XVII.- Revocación de Testamentos; 2.64 salarios mínimos.
+> <small>(F. DE E., P.O. 28 DE ENERO DE 2013)</small>
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 31 DE DICIEMBRE DE 2011)</small>
+X. Por autorización de cambio de sello a
 
-XVIII.- Por expedición de constancias del expediente
+notarios 5 salarios mínimos
 
-personal de Notarios; 7.76 salarios mínimos.
+> <small>(F. DE E., P.O. 28 DE ENERO DE 2013)</small>
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 31 DE DICIEMBRE DE 2011)</small>
+XI. Por expedición de segundos testimonios:
 
-XIX.- Por expedición de Gestión Notarial: 5.43 salarios mínimos
+a) Hasta diez hojas 6 salarios mínimos
 
-a).- Cambios de adscripción transitorios o permanentes;
+b) Hojas subsiguientes $15.00 cada una
 
-b).- Reubicación de notarías;
+> <small>(F. DE E., P.O. 28 DE ENERO DE 2013)</small>
 
-c).- Convenios de asociación;
+XII. Por búsqueda de testamento y por
 
-d).- Permutas; y
+expedición de constancia:
 
-e).- Licencias concedidas.
+a) Ordinario 6 salarios mínimos
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
+b) Urgentes 8 salarios mínimos
 
-XX.- Por expedición de copias
+> <small>(F. DE E., P.O. 28 DE ENERO DE 2013)</small>
 
-certificadas urgentes; 9.32 salarios mínimos.
+XIII. Por deposito de testamento ológrafo 7 salarios mínimos
 
-(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2011) (F. DE E., P.O. 23 DE ENERO DE 2012)
+> <small>(F. DE E., P.O. 28 DE ENERO DE 2013)</small>
 
-XXI.- Por expedición de segundos
+XIV. Revocación de testamentos 4 salarios mínimos
 
-testimonios urgentes; 13.32 salarios mínimos.
+> <small>(F. DE E., P.O. 28 DE ENERO DE 2013)</small>
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
+XV. Por expedición de constancias del Expediente
 
-XXII.- Por autorización de folios; 1.98 salarios mínimos.
+personal del Notario 9 salarios mínimos
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
+> <small>(F. DE E., P.O. 28 DE ENERO DE 2013)</small>
 
-XXIII.- Las publicaciones en el Periódico Oficial del Estado, se pagarán de acuerdo a la siguiente tarifa:
+XVI. Por gestiones notariales: 9 salarios mínimos
 
-a).- Por publicación de avisos y documentos que deberán hacerse por disposición de Ley, (remates, edictos y avisos diversos):
+a) Cambios de adscripción transitorios o permanentes;
 
-Por una sola vez 4 salarios mínimos.
+b) Reubicación de notarías;
 
-Por dos veces 7 salarios mínimos.
+c) Convenios de asociación;
 
-Por tres veces 10 salarios mínimos.
+d) Permutas; y
 
-b).- Por las publicaciones en el Periódico Oficial,
+e) Licencias concedidas
 
-hasta media plana 7 salarios mínimos
+> <small>(F. DE E., P.O. 28 DE ENERO DE 2013)</small>
 
-c).- Por la publicación en el Periódico Oficial,
+XVII. Por expedición de copias
 
-hasta una plana 15 salarios mínimos.
+Certificadas urgentes 12 salarios mínimos
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
+> <small>(F. DE E., P.O. 28 DE ENERO DE 2013)</small>
 
-XXIV.- La suscripción del Periódico Oficial del Estado, se pagarán de acuerdo a la siguiente tarifa:
+XVIII. Por expedición de segundos
 
-a).- Por la suscripción durante un año 30 salarios mínimos
+Testimonios urgentes 16 salarios mínimos
 
-b).- Por la suscripción durante seis meses 12 salarios mínimos.
+> <small>(F. DE E., P.O. 28 DE ENERO DE 2013)</small>
 
-c).- Por la suscripción durante tres meses 8 salarios mínimos.
+XIX. Por expedición de cada 200 folios 3 salarios mínimos
 
-d).- Por la suscripción durante un mes 6 salarios mínimos.
+> <small>(F. DE E., P.O. 28 DE ENERO DE 2013)</small>
 
-e).- El costo de un ejemplar a la fecha 2 salario (sic) mínimos.
+XX. Por informe de Aviso de Poder Notarial 4 salarios mínimos
 
-f).- El costo de un ejemplar atrasado hasta un año 3.5 salarios mínimos.
+> <small>(F. DE E., P.O. 28 DE ENERO DE 2013)</small>
 
-g).- El costo de un ejemplar del año
+XXI. Por búsqueda de Aviso de Poder
 
-inmediato anterior 3 salarios mínimos.
-
-h).- Por cada año atrasado, se pagará
-
-el costo, más 2.5 salarios mínimos.
-
-i).- El costo de cada uno de los tomos de la
-
-miscelánea fiscal, Estatal o Municipal 5 salarios mínimos.
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
-XXV.- Por la expedición de copias del Periódico Oficial del Estado:
-
-a).- Por cada hoja simple $5.00
-
-b).- Por cada hoja excedente $3.00
-
-c).- Por las primeras cinco hojas certificadas 3 salarios mínimos
-
-d).- Por cada hoja excedente $16.00
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
-
-XXVI.- Por informe de aviso de
-
-Poder Notarial. 4 salarios mínimos
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
-
-XXVII.- Por búsqueda de Aviso
-
-de Poder Notarial
+Notarial:
 
 a) Ordinario 7 salarios mínimos
 
 b) Urgente 12 salarios mínimos
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(F. DE E., P.O. 28 DE ENERO DE 2013)</small>
 
-XXVIII.- Por incumplimiento de Aviso
+XXII. Por incumplimiento de Aviso de
 
-de Poder Notarial en términos de la ley
+Poder Notarial en términos de la Ley del
 
-del Notariado para el Estado de Hidalgo; 4 salarios mínimos
+Notariado para el Estado de Hidalgo; 4 salarios mínimos
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(F. DE E., P.O. 28 DE ENERO DE 2013)</small>
 
-XXIX.- Por expedición de Constancia de
+XXIII. Por expedición de Constancia de
 
-Inscripción o. de no inscripción de Poder
+Inscripción o de no inscripción de Poder
 
-Notarial; y 4 salarios mínimos
+Notarial; y (sic) 4 salarios mínimos
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(F. DE E., P.O. 28 DE ENERO DE 2013)</small>
 
-XXX.- Por Revocación de Poder Notarial; 7 salarios mínimos.
+XXIV. Por revocación de Poder Notarial; 7 salarios mínimos
+
+> <small>(F. DE E., P.O. 28 DE ENERO DE 2013)</small>
+
+XXV. Las publicaciones en el Periódico
+
+Oficial del Estado, se pagarán de acuerdo
+
+a la siguiente tarifa:
+
+a) Por publicación de avisos y documentos
+
+que deberán hacerse por disposición
+
+de Ley, (remates, edictos y avisos diversos):
+
+Por una sola vez 4 salarios mínimos
+
+Por dos veces 7 salarios mínimos
+
+Por tres veces 10 salarios mínimos
+
+b) Por las publicaciones en el Periódico Oficial,
+
+hasta media plana 7 salarios mínimos
+
+c) Por la publicación en el Periódico Oficial,
+
+hasta una plana 15 salarios mínimos
+
+> <small>(F. DE E., P.O. 28 DE ENERO DE 2013)</small>
+
+XXVI. La suscripción del Periódico Oficial
+
+del Estado, se pagarán (sic) de acuerdo a la
+
+siguiente tarifa:
+
+a) Por la suscripción durante un año 30 salarios mínimos
+
+b) Por la suscripción durante seis meses 18 salarios mínimos
+
+c) Por la suscripción durante tres meses 10 salarios mínimos
+
+d) Por la suscripción durante un mes 6 salarios mínimos
+
+e) El costo de un ejemplar a la fecha 2 salarios mínimos
+
+f) El costo de un ejemplar atrasado hasta un año 3.5 salarios mínimos
+
+g) El costo de un ejemplar del año
+
+inmediato anterior 3 salarios mínimos
+
+h) Por cada año atrasado, se pagará
+
+el costo, más 2.5 salarios mínimos
+
+i) El costo de cada uno de los tomos de la
+
+miscelánea fiscal, Estatal o Municipal 5 salarios mínimos
+
+> <small>(F. DE E., P.O. 28 DE ENERO DE 2013)</small>
+
+XXVII. Por la expedición de copias
+
+del Periódico Oficial del Estado:
+
+a) Por cada hoja simple $5.00
+
+b) Por cada hoja excedente $3.00
+
+c) Por las primeras cinco hojas certificadas 3 salarios mínimos
+
+d) Por cada hoja excedente $16.00
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -2541,7 +2589,7 @@ IV.- Evaluación de Entorno socioeconómico. 26 salarios mínimos.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-### CAPÍTULO CUARTO. SECRETARÍA DE CONTRALORÍA Y TRANSPARENCIA GUBERNAMENTAL
+### CAPÍTULO CUARTO. DE LA SECRETARÍA DE CONTRALORÍA Y TRANSPARENCIA GUBERNAMENTAL
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -2555,25 +2603,31 @@ a) Por la primera hoja 1 salario mínimo
 
 b) Por cada hoja excedente $5.00
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE ENERO DE 2013 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 100.
 
 Los derechos por la prestación de los servicios del Estado, a través de la Dirección General de Recaudación y de los Centros Regionales de Atención al Contribuyente, se causarán y pagarán de la siguiente forma:
 
-I.- Por certificaciones 1 salario mínimo
+I. Por certificaciones 1 salario mínimo
 
-II.- Por la expedición de copias certificadas:
+> <small>(F. DE E., P.O. 28 DE ENERO DE 2013)</small>
 
-Por la primera hoja 1 salario mínimo
+II. Por la expedición de copias certificadas:
 
-Por cada hoja excedente $5.00
+c) (sic) Por la primera hoja 1 salario mínimo
 
-III.- Por actos relacionados con movimientos al Padrón Vehicular Estatal:
+d) Por cada hoja excedente $5.00
 
-1. Relacionados con vehículos particulares no comprendidos en los numerales 2, 3, 4,5 y 6:
+III. Por actos relacionados con
+
+movimientos al Padrón Vehicular Estatal:
+
+1. Relacionados con vehículos
+
+particulares no comprendidos en los
+
+numerales 2, 3, 4, 5 y 6:
 
 a) Por expedición de placas 8 salarios mínimos
 
@@ -2595,7 +2649,9 @@ g) Por la expedición de placa con número
 
 específico sujeto a disponibilidad 35 salarios mínimos
 
-2. Relacionados con vehículos particulares tipo remolque:
+2. Relacionados con vehículos
+
+particulares tipo remolque:
 
 a) Por expedición de placas 8 salarios mínimos
 
@@ -2611,7 +2667,9 @@ f) Por la expedición de tarjeta de circulación,
 
 en razón de cambio de propietario. 5 salarios mínimos
 
-3. Relacionados con vehículos particulares tipo motocicleta y vehículos análogos y similares:
+3. Relacionados con vehículos particulares
+
+tipo motocicleta y vehículos análogos y similares:
 
 a) Por expedición de placas 6 salarios mínimos
 
@@ -2627,7 +2685,9 @@ f) Por la expedición de placa con número
 
 específico sujeto a disponibilidad 35 salarios mínimos
 
-4. Relacionados con vehículos particulares tipo antigüo:
+4. Relacionados con vehículos
+
+particulares tipo antigüo:
 
 a) Por expedición de placas 15 salarios mínimos
 
@@ -2639,7 +2699,9 @@ d) Por reposición de tarjeta de circulación 5 salarios mínimos
 
 e) Por refrendo anual 5 salarios mínimos
 
-5. Relacionado con vehículos particulares de demostración:
+5. Relacionado con vehículos
+
+particulares de demostración:
 
 a) Por expedición de placas 15 salarios mínimos
 
@@ -2649,7 +2711,11 @@ c) Por baja de placas 5 salarios mínimos
 
 d) Por refrendo anual 10 salarios mínimos
 
-6. Relacionados con vehículos particulares destinados a personas con capacidades diferentes:
+6. Relacionados con vehículos
+
+particulares destinados a personas
+
+con capacidades diferentes:
 
 a) Por expedición de placas 4 salarios mínimos
 
@@ -2665,7 +2731,9 @@ f) Por expedición de permiso provisional
 
 para circular en traslado 2 salarios mínimos
 
-7. Relacionados con vehículos del servicio público:
+7. Relacionados con vehículos
+
+del servicio público:
 
 a) Por expedición de placas 10 salarios mínimos
 
@@ -2675,13 +2743,15 @@ c) Por baja de placas 3 salarios mínimos
 
 d) Por reposición de tarjeta de circulación 3 salarios mínimos
 
-e) Por refrendo anual 7 salarios mínimos
+> <small>(F. DE E., P.O. 28 DE ENERO DE 2013)</small>
+
+e) Por refrendo anual 6 salarios mínimos
 
 8. Por la expedición de constancias
 
 de pago 1 salario mínimo
 
-9. Por las consultas realizadas a otras 2 salarios mínimos
+9. Por las consultas realizadas a otras
 
 Entidades Federativas, a la Federación
 
@@ -2691,7 +2761,7 @@ con trámites de control vehicular y/o
 
 con el cumplimiento de obligaciones
 
-fiscales en ésta materia.
+fiscales en ésta materia. 2 salarios mínimos
 
 Tratándose de altas y bajas de vehículos particulares y del servicio público, los derechos a que se refiere ésta fracción se pagarán dentro de los 15 días hábiles siguientes en que se adquiera o enajene el vehículo.
 
@@ -2709,9 +2779,7 @@ a).- Por la primera hoja 0.5 salario mínimo
 
 b).- Por cada hoja excedente $ 5.00
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE CAPÍTULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE ENERO DE 2013 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2012)</small>
+(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2012) (F. DE E., P.O. 28 DE ENERO DE 2013)
 
 ### CAPÍTULO QUINTO. SECRETARÍA DE OBRAS PÚBLICAS Y ORDENAMIENTO TERRITORIAL
 
@@ -2765,8 +2833,6 @@ por el servicio de vigilancia, inspección
 
 y control que corresponda a la Secretaría.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE ENERO DE 2013 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 103.
@@ -2793,8 +2859,6 @@ Copia Certificada de planos $100.00
 
 En el supuesto de que los solicitantes requieran el envío de la información por correo certificado, mensajería local o foránea, la contratación de dichos servicios y el costo de los mismo (sic), deberán ser contratados por el solicitante, con el prestador del servicio que más convenga a sus intereses, debiendo informar a la Unidad de Información Pública Gubernamental, los datos suficientes para poder realizar el envío.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE ENERO DE 2013 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 ARTÍCULO 103 BIS.- Los Derechos por la prestación de servicios del Estado, a través de la Unidad de Innovación Gubernamental y Mejora Regulatoria, se causarán y pagarán de la siguiente forma:
@@ -2815,9 +2879,13 @@ digital por un periódo de
 
 veinticuatro meses; y 9 salarios mínimos
 
+> <small>(F. DE E., P.O. 28 DE ENERO DE 2013)</small>
+
 IV.- Por la Dotación o reposición
 
-de token criptográfico. 12 salarios mínimos
+de dispositivo electrónico para
+
+encriptación de certificados digitales. 12 salarios mínimos
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
