@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "2012-03-16"
+last_updated: "2013-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2013.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -361,7 +361,7 @@ Se deposita el ejercicio del Poder Legislativo en una asamblea que se denominar�
 
 #### SECCION I. De la Formación del Poder Legislativo
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
 
 ###### Artículo 20.
 
@@ -1645,21 +1645,21 @@ El Congreso del Estado conocerá de las quejas en contra de los magistrados, pod
 
 #### SECCION II. De la Comisión Estatal de los Derechos Humanos
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2013)</small>
 
 ###### Artículo 96.
 
-El Congreso del Estado, en el ámbito de su competencia, establecerá el organismo de protección de los Derechos Humanos que ampara el orden jurídico mexicano, el que conocerá de quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público, con excepción de los del Poder Judicial del Estado que violen estos derechos.
+La protección y defensa de los Derechos Humanos es una función estatal que se realiza a través de un organismo constitucional autónomo, tanto presupuestal y de gestión, con personalidad jurídica y patrimonio propio denominado Comisión Estatal de los Derechos Humanos.
 
-Formulará recomendaciones públicas, no vinculatorias, denuncias y quejas ante las autoridades respectivas. Todo servidor público está obligado a responder las recomendaciones que les presenten estos organismos. Cuando las recomendaciones emitidas no sean aceptadas o cumplidas por las autoridades o servidores públicos, éstos deberán fundar, motivar y hacer pública su negativa; además, el Congreso del Estado, podrá llamar, a solicitud de este organismo, a las autoridades o servidores públicos responsables para que comparezcan ante el órgano legislativo, a efecto de que expliquen el motivo de su negativa.
+El Congreso del Estado, en el ámbito de su competencia, establecerá el organismo de protección de los Derechos Humanos que ampara el orden jurídico mexicano, el que conocerá de quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público.
 
-Este organismo no será competente tratándose de asuntos electorales y jurisdiccionales.
+Formulará recomendaciones públicas, no vinculatorias, denuncias y quejas ante las autoridades respectivas. Todo servidor público está obligado a responder las recomendaciones que le presente este organismo. Cuando las recomendaciones emitidas no sean aceptadas o cumplidas por las autoridades o servidores públicos, éstos deberán fundar, motivar y hacer pública su negativa; además, el Congreso del Estado, podrá llamar, a solicitud de este organismo, a las autoridades o servidores públicos responsables para que comparezcan ante dicho órgano legislativo, a efecto de que expliquen el motivo de su negativa.
 
-El organismo que establezca el Congreso del Estado, se denominará Comisión Estatal de los Derechos Humanos; contará con autonomía de gestión y presupuestaria, personalidad jurídica y patrimonio propio.
+Este organismo no será competente tratándose de asuntos electorales o jurisdiccionales.
 
-La Comisión Estatal de los Derechos Humanos tendrá un Presidente, que será elegido por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado. Durará en su encargo cuatro años, podrá ser reelecto por una vez y sólo podrá ser removido de sus funciones en los términos del Titulo Cuarto de esta Constitución.
+La Comisión Estatal de los Derechos Humanos tendrá un Presidente, que será elegido por el voto de las dos terceras partes de los diputados presentes del Congreso del Estado. La Ley determinará los procedimientos para la presentación de las propuestas por el propio Congreso. Durará en su encargo cuatro años, podrá ser reelecto por una vez y sólo podrá ser removido de sus funciones en los términos del Título Cuarto de esta Constitución.
 
-La elección del Presidente de la Comisión Estatal de los Derechos Humanos, así como de los integrantes del Consejo Ciudadano, se ajustará a un procedimiento de consulta pública, que deberá ser transparente, en los términos y condiciones que determine la ley.
+La elección del Presidente de la Comisión Estatal de los Derechos Humanos, se ajustará a un procedimiento de consulta pública, que deberá cumplir con el principio de máxima transparencia, en los términos y condiciones que determine la Ley.
 
 El Presidente de la Comisión Estatal de los Derechos Humanos, presentará anualmente a los Poderes del Estado un informe de actividades. Al efecto, comparecerá ante el Congreso del Estado en los términos que disponga la Ley.
 
@@ -2389,7 +2389,7 @@ El Congreso del Estado designará al Titular de la Auditoría Superior de Michoa
 
 El Auditor Superior del Estado de Michoacán, durará en su encargo siete años y deberá contar con experiencia de cinco años en materia de control, auditoría financiera y de responsabilidades.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2006)</small>
 
 ###### Artículo 135.
 
@@ -2789,7 +2789,7 @@ Dado en el Palacio del Poder Ejecutivo del Estado en Morelia, a los cinco días 
 
 P.O. 15 DE AGOSTO DE 1918.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN LE ARTÍCULO 3 DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE MICHOACÁN.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE MICHOACÁN.
 
 P.O. 13 DE SEPTIEMBRE DE 1928.
 
@@ -2913,7 +2913,7 @@ P.O. 7 DE JULIO DE 1983.
 
 PRIMERO. Este Decreto entrará en vigor a los cinco días de su publicación en el Periódico Oficial del Estado.
 
-SEGUNDO. Reserve la Secretaría del Honorable Congreso del Estado, el expediente para que haga entrega de él, al Presidente que se designe en la Sexagésima Tercera Legislatura para los efectos del artículo 164, fracciones III y IV de la Costitución Política del Estado de Michoacán.
+SEGUNDO. Reserve la Secretaría del Honorable Congreso del Estado, el expediente para que haga entrega de él, al Presidente que se designe en la Sexagésima Tercera Legislatura para los efectos del artículo 164, fracciones III y IV de la Constitución Política del Estado de Michoacán.
 
 P.O. 7 DE JULIO DE 1983.
 
@@ -2927,7 +2927,7 @@ P.O. 11 DE AGOSTO DE 1983.
 
 PRIMERO. Este Decreto entrará en vigor a los cinco días de su publicación en el Periódico Oficial del Estado.
 
-SEGUNDO. Reserve la Secretaría del H. Congreso del Estado, el expediente para que haga entrega de él, al Presidente que se designe en la Sexagésima Tercera Legislatura para los efectos del artículo 164, fracciones III y IV de la Costitución Política del Estado de Michoacán.
+SEGUNDO. Reserve la Secretaría del H. Congreso del Estado, el expediente para que haga entrega de él, al Presidente que se designe en la Sexagésima Tercera Legislatura para los efectos del artículo 164, fracciones III y IV de la Constitución Política del Estado de Michoacán.
 
 P.O. 28 DE SEPTIEMBRE DE 1983.
 
@@ -3047,7 +3047,7 @@ Se derogan todas las disposiciones jurídicas que se opongan a este Decreto.
 
 P.O. 16 DE MARZO DE 1998.
 
-DECRETO No. 131
+DECRETO NÚMERO 131 POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 1o., 2o., 3o., 44 FRACCIONES DE LA XIX-A, A LA XXXIII; 46 FRACCIONES VII, IX Y X; 60, FRACCIONES DE LA III A LA XXIII; 67; 69; 70; 71, FRACCIONES I, III, V Y VI; 72; 73; 74; 75; 83; 92; Y, 108 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO.
 
 ###### ARTICULO UNICO.
 
@@ -3107,7 +3107,7 @@ Artículo Quinto.- En la realización de las acciones conducentes al cumplimient
 
 P.O. 7 DE MARZO DE 2003.
 
-DECRETO No. 246
+DECRETO NÚMERO 246 POR EL QUE SE REFORMAN LOS PÁRRAFOS PRIMERO Y SEGUNDO, Y SE ADICIONAN LOS PÁRRAFOS TERCERO, CUARTO Y QUINTO DEL ARTÍCULO 101 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO.
 
 Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Michoacán de Ocampo.
 
@@ -3117,7 +3117,7 @@ Artículo Tercero.- Para dar cumplimiento a la fracción IV del artículo 164 de
 
 P.O. 7 DE MARZO DE 2003.
 
-DECRETO No. 247
+DECRETO NÚMERO 247 POR EL QUE SE REFORMA: LA DENOMINACIÓN DE LA SECCION II, DEL CAPITULO II DEL TITULO TERCERO: LOS ARTÍCULOS 30, PÁRRAFOS PRIMERO Y SEGUNDO. 31, 33, 37, FRACCIÓN V Y ULTIMO PÁRRAFO, 54, 57, 59, 60 FRACCIONES III Y IX, 61 FRACCIÓN VI, 72, 73, 157, 159 Y 160 FRACCIÓN I; SE DEROGA: EL PÁRRAFO DECIMO TERCERO DEL ARTÍCULO 13, LOS ARTÍCULOS 32, LA SECCION V, DEL CAPITULO II, DEL TITULO TERCERO, 45, 46 Y 60 FRACCIONES XVI Y XVII; DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO.
 
 Artículo Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
@@ -3129,7 +3129,7 @@ Artículo Cuarto.- Para dar cumplimiento a la fracción IV del artículo 164 de 
 
 P.O. 7 DE MARZO DE 2003.
 
-DECRETO No. 248
+DECRETO NÚMERO 248 POR EL QUE SE REFORMAN LOS ARTÍCULOS 42, 44 FRACCIONES XI, XIII Y XV, 105, 109, LA DENOMINACIÓN DE LA SECCION II DEL TITULO SEXTO, LOS ARTÍCULOS 133, 134 Y 135 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO.
 
 Artículo Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, salvo lo dispuesto en los siguientes transitorios.
 
@@ -3155,7 +3155,7 @@ Artículo Segundo.- Para dar cumplimento a la fracción IV del artículo 164 de 
 
 P.O. 21 DE OCTUBRE DE 2005.
 
-DECRETO No. 489
+DECRETO NÚMERO 489 POR EL QUE SE ADICIONA LA FRACCIÓN XXIII BIS AL ARTÍCULO 44; Y SE REFORMAN LOS ARTÍCULOS 96, PÁRRAFO PRIMERO DEL 104, PÁRRAFO PRIMERO DEL 105, PÁRRAFO PRIMERO DEL 108, PÁRRAFO PRIMERO DEL 109 Y PÁRRAFO SEXTO DEL 110, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO.
 
 Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
@@ -3165,7 +3165,7 @@ Artículo Tercero. Para dar cumplimento a la fracción IV del artículo 164 de l
 
 P.O. 21 DE OCTUBRE DE 2005.
 
-DECRETO No. 489
+DECRETO NÚMERO 12 POR EL QUE SE REFORMA LA FRACCIÓN XXXVI DEL ARTÍCULO 44 Y EL ARTÍCULO 100; Y SE ADICIONAN LAS FRACCIONES XXXVII Y XXXVIII AL ARTÍCULO 44, LAS FRACCIONES XVI Y XVII AL ARTÍCULO 60 Y LOS PÁRRAFOS, SEGUNDO, TERCERO Y CUARTO AL ARTÍCULO 98, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO.
 
 Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Michoacán de Ocampo.
 
@@ -3197,7 +3197,7 @@ SEGUNDO.- Remítase a los ayuntamientos del Estado, la Minuta Proyecto de Decret
 
 P.O. 22 DE SEPTIEMBRE DE 2006.
 
-DECRETO No. 36
+DECRETO NÚMERO 36 POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 1o DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO.
 
 Artículo Primero.- El presente Derecho (sic) entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
@@ -3205,7 +3205,7 @@ Artículo Segundo.- Remítase a los ayuntamientos del Estado, la Minuta Proyecto
 
 P.O. 22 DE SEPTIEMBRE DE 2006.
 
-DECRETO No. 69
+DECRETO NÚMERO 69 POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 20; EL ARTÍCULO 29; EL PÁRRAFO PRIMERO DEL ARTÍCULO 31, EL ARTÍCULO 33, EL ARTÍCULO 51; EL ARTÍCULO 54; LA FRACCIÓN X DEL ARTÍCULO 60; EL ARTÍCULO 117; Y SE DEROGA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 112 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO.
 
 > <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2007)</small>
 
@@ -3251,7 +3251,7 @@ SEGUNDO.- Remítase a los ayuntamientos del Estado, la Minuta Proyecto de Decret
 
 P.O. 9 DE FEBRERO DE 2007.
 
-Decreto No. 126
+DECRETO NÚMERO 126 POR EL QUE SE REFORMA LA FRACCIÓN XII DEL ARTÍCULO 44; SE ADICIONA UN PÁRRAFO SEGUNDO A LA FRACCIÓN XI Y EL ACTUAL PÁRRAFO SEGUNDO SE CONVIERTE EN PÁRRAFO TERCERO DEL ARTÍCULO 44; SE REFORMA EL PÁRRAFO PRIMERO DE LA FRACCIÓN III DEL ARTÍCULO 123, Y SE ADICIONA UN PÁRRAFO SEGUNDO A LA FRACCIÓN III DEL ARTÍCULO 123 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO.
 
 ###### ARTÍCULO OCTAVO.
 
@@ -3311,7 +3311,7 @@ Remítase a los ayuntamientos del Estado, la Minuta Proyecto de Decreto, para qu
 
 P.O. 9 DE FEBRERO DEL 2007.
 
-DECRETO No. 127
+DECRETO NÚMERO 127 POR EL QUE SE REFORMAN LOS ARTÍCULOS PRIMERO, CUARTO, QUINTO Y SEXTO TRANSITORIOS, DEL DECRETO NUMERO 69, SE REFORMA EL ARTÍCULO 13; SE ADICIONA AL TITULO TERCERO A, CAPITULO I, SECCION IV, CON LA DENOMINACIÓN "DEL INSTITUTO ELECTORAL DE MICHOACÁN", CON ARTÍCULO 98; Y SECCION V, CON LA DENOMINACIÓN "DEL TRIBUNAL ELECTORAL DEL ESTADO", CON ARTÍCULO 98 A; Y SE REFORMA EL ARTÍCULO 117 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
@@ -3343,7 +3343,7 @@ Remítase a los ayuntamientos del Estado, la Minuta Proyecto de Decreto, para qu
 
 P.O. 6 DE DICIEMBRE DE 2007.
 
-DECRETO No. 71
+DECRETO NÚMERO 71 POR EL QUE SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 119 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO.
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
@@ -3351,7 +3351,7 @@ SEGUNDO. Remítase a los ayuntamientos del Estado, la Minuta Proyecto de Decreto
 
 P.O. 6 DE DICIEMBRE DE 2007.
 
-DECRETO No. 76
+DECRETO NÚMERO 76 POR EL QUE SE ADICIONA LA FRACCIÓN II, REORDENANDO CONSECUTIVAMENTE LA ACTUAL FRACCIÓN SEGUNDA QUE SE ADICIONA COMO FRACCIÓN III DEL ARTÍCULO 23 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO.
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
@@ -3359,7 +3359,7 @@ SEGUNDO. Remítase a los ayuntamientos del Estado, la Minuta Proyecto de Decreto
 
 P.O. 6 DE DICIEMBRE DE 2007.
 
-DECRETO No. 77
+DECRETO NÚMERO 77 POR EL QUE SE ADICIONA UNA FRACCIÓN III, REORDENANDO CONSECUTIVAMENTE LAS ACTUALES FRACCIONES III, IV, V Y VI, BAJO LOS NÚMEROS IV, V, VI Y VII, RESPECTIVAMENTE; Y SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 119 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO.
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
@@ -3431,7 +3431,7 @@ Dese cuenta del presente Decreto, al Titular del Poder Ejecutivo del Estado de M
 
 P.O. 14 DE OCTUBRE DE 2010.
 
-DECRETO NUMERO 220, POR EL QUE SE REFORMAN LOS ARTICULOS 39 Y 44 FRACCION XXVIII DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO.
+DECRETO NÚMERO 220, POR EL QUE SE REFORMAN LOS ARTÍCULOS 39 Y 44 FRACCIÓN XXVIII DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3443,7 +3443,7 @@ Remítase a los ayuntamientos del Estado, la Minuta Proyecto de Decreto, para qu
 
 P.O. 14 DE OCTUBRE DE 2010.
 
-DECRETO NUMERO 224, POR EL QUE SE REFORMA LA DENOMINACION DE LA SECCION III DEL TITULO TERCERO A, DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO.
+DECRETO NÚMERO 224, POR EL QUE SE REFORMA LA DENOMINACIÓN DE LA SECCIÓN III DEL TÍTULO TERCERO A, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3455,7 +3455,7 @@ Remítase el presente Decreto a los ayuntamientos del Estado para que emitan el 
 
 P.O. 1 DE MARZO DE 2011.
 
-DECRETO NUMERO 248, POR EL QUE SE REFORMA EL SEGUNDO PARRAFO DEL ARTICULO 133; FRACCION I Y ULTIMO PARRAFO DE LA FRACCION X DEL ARTICULO 134. SE ADICIONA UN CUARTO PARRAFO A LA FRACCION XI DEL ARTICULO 44 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO.
+DECRETO NÚMERO 248, POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 133; FRACCIÓN I Y ÚLTIMO PÁRRAFO DE LA FRACCIÓN X DEL ARTÍCULO 134. SE ADICIONA UN CUARTO PÁRRAFO A LA FRACCIÓN XI DEL ARTÍCULO 44 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3475,7 +3475,7 @@ El Congreso del Estado deberá aprobar las reformas necesarias para dar cumplimi
 
 P.O. 1 DE MARZO DE 2011.
 
-DECRETO NUMERO 263, POR EL QUE SE REFORMAN LOS ARTICULOS 44 FRACCION XXVI, 104, 105, 106, 107, 108, 109 Y 110 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO.
+DECRETO NÚMERO 263, POR EL QUE SE REFORMAN LOS ARTÍCULOS 44 FRACCIÓN XXVI, 104, 105, 106, 107, 108, 109 Y 110 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3584,3 +3584,21 @@ DECRETO NÚMERO 446, POR EL QUE SE REFORMAN LOS ARTÍCULOS 1, 96 Y 139 PRIMER P�
 PRIMERO. Remítase a los ayuntamientos el presente Decreto para efectos de lo dispuesto en el Artículo 164 de la Constitución Política del Estado de Michoacán de Ocampo.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 28 DE ENERO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto a los ayuntamientos del Estado para que emitan el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Una vez aprobado el presente Decreto por la mayoría de los ayuntamientos, notifíquese al Titular del Poder Ejecutivo del Estado para su conocimiento y publicación respectiva en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO TERCERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación, por lo que se manda se publique y observe para su conocimiento general y efectos legales procedentes.
+
+###### ARTÍCULO CUARTO.
+
+El Congreso del Estado deberá aprobar las reformas necesarias en las leyes secundarias relacionadas con la materia del presente, para dar cumplimiento a esta reforma constitucional, a más tardar en un plazo de noventa días, contados a partir de la fecha de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
