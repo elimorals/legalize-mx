@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-los-migrantes-y-sus-familias-del-estado-de-michoacan-815
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-24"
-last_updated: "2011-05-24"
+last_updated: "2013-01-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81516&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MIC"
 ---
 # LEY DE LOS MIGRANTES Y SUS FAMILIAS DEL ESTADO DE MICHOACAN DE OCAMPO
 
-LEY DE LOS MIGRANTES Y SUS FAMILIAS DEL ESTADO DE MICHOACAN DE OCAMPO
+LEY DE LOS MIGRANTES Y SUS FAMILIAS DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2013.
 
 Ley publicada en la Sexta Sección al Periódico Oficial del Estado de Michoacán, el martes 24 de mayo de 2011.
 
@@ -137,6 +137,10 @@ XIV. A no ser privado arbitrariamente de sus bienes, ya sean de propiedad person
 
 XV. A la protección del Estado contra toda violencia, daño corporal, amenaza o intimidación por parte de funcionarios públicos o de particulares, grupos o instituciones;
 
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 2013)</small>
+
+XV Bis. Al libre tránsito como derecho de toda persona y es deber de cualquier autoridad promoverlo y respetarlo. Ninguna persona será requerida para comprobar su nacionalidad y situación migratoria en el territorio estatal, más que por la autoridad competente;
+
 XVI. A no ser sometidos individual o colectivamente, a detención o prisión arbitrarias, salvo por los motivos y de conformidad que (sic) las leyes establezcan; y,
 
 XVII. Las demás que les confieran las normas jurídicas aplicables.
@@ -225,6 +229,10 @@ IX. Promover y mejorar los vínculos con los michoacanos radicados fuera del Est
 
 X. Elaborar y mantener actualizada una relación de las organizaciones de migrantes michoacanos en el extranjero, así como establecer un sistema de información y estudios, que permitan la identificación de las necesidades del fenómeno migratorio, en coordinación con las autoridades competentes;
 
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 2013)</small>
+
+X Bis. Integrar y actualizar el Registro de Migrantes en el Estado de Michoacán de Ocampo;
+
 XI. Proponer al Gobernador las iniciativas de ley o los ordenamientos normativos secundarios, relativos a los migrantes y a sus derechos, a fin de promover condiciones regulatorias propicias para impulsar políticas públicas en la materia;
 
 XII. Impulsar en coordinación con los ayuntamientos, la creación de centros municipales, con el objeto de atender las necesidades de los migrantes y sus familias;
@@ -247,6 +255,22 @@ XX. Promover la investigación académica con las diversas instituciones educati
 
 XXI. Las demás que le confieren las normas jurídicas aplicables.
 
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 2013)</small>
+
+###### ARTÍCULO 9 Bis.
+
+Para ser titular de la Secretaría se requiere:
+
+I. Ser ciudadano mexicano y tener un año de residencia en el Estado de Michoacán, anteriores a su nombramiento;
+
+II. No desempeñar durante su función, cualquier otro empleo o actividad de la administración pública con goce de sueldo, excepto actividades de docencia, investigación y beneficiencia;
+
+III. No tener antecedentes penales por la comisión de delito doloso que merezca pena privativa de libertad;
+
+IV. Haberse desempeñado en forma destacada en actividades profesionales, académicas y sociales en materia de migración; y,
+
+V. Haber realizado trabajos en beneficio de los migrantes sin fines de lucro.
+
 #### SECCIÓN III. DE LAS DEPENDENCIAS Y ENTIDADES DE LA ADMINISTRACIÓN PÚBLICA ESTATAL
 
 ###### ARTÍCULO 10.
@@ -255,9 +279,11 @@ Las dependencias y entidades de la Administración Pública Estatal, podrán gen
 
 #### SECCIÓN IV. DEL CONSEJO CONSULTIVO
 
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2013)</small>
+
 ###### ARTÍCULO 11.
 
-El Consejo Consultivo es un órgano colegiado de participación, asesoría y consulta de la Secretaría, para el diseño, elaboración e implementación de las políticas públicas para los migrantes y sus familias.
+El Consejo Consultivo es un órgano colegiado de participación, asesoría, consulta y evaluación de la Secretaría, para el diseño, elaboración e implementación de las políticas públicas para los migrantes y sus familias.
 
 ###### ARTÍCULO 12.
 
@@ -265,21 +291,47 @@ El Consejo Consultivo se integra por:
 
 I. Un Presidente, que es el Gobernador; quien será suplido en sus ausencias por el Secretario de Gobierno;
 
-III (SIC). Un Secretario Ejecutivo, que es el Titular de la Secretaría; y,
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2013)</small>
+
+III (SIC). Un Secretario Ejecutivo, que es el Titular de la Secretaría;
+
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 2013)</small>
+
+III Bis. Seis vocales oficiales que serán:
+
+a) El Secretario de Salud del Estado;
+
+b) El Secretario de Desarrollo Económico;
+
+c) El Secretario de Seguridad Pública del Estado;
+
+d) El Secretario de Educación en el Estado;
+
+e) El Procurador General de Justicia del Estado; y,
+
+f) Presidente de la Comisión Estatal de Derechos Humanos.
+
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 2013)</small>
+
+III Ter. Tres presidentes municipales en representación de los ayuntamientos del Estado de Michoacán, que tengan una alta representatividad en cuanto a su población migrante, mismos que serán elegidos de acuerdo a la información que maneje la Secretaría; y,
 
 IV. Quince consejeros, que son los migrantes representantes de organizaciones de los sectores económicos, sociales, culturales, y académicos, entre otros.
 
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2013)</small>
+
 ###### ARTÍCULO 13.
 
-Los consejeros serán designados a invitación del Presidente del Consejo, procurando una representación equitativa.
+Los consejeros serán electos mediante convocatoria pública abierta, que deberá ser elaborada por el Secretario Ejecutivo y aprobada por el consejo, la cual contendrá las bases para participar y ser electo consejero; dentro de la cual se deberá seleccionar a los mejores perfiles, tomando en consideración como mínimo su currículo, experiencia y trayectoria; la facultad de seleccionar a los consejeros será única y exclusiva del Presidente del Consejo; previo dictamen emitido por el Secretario Ejecutivo del mismo.
 
 ###### ARTÍCULO 14.
 
 Los consejeros durarán en su encargo un periodo de tres años y no podrán ser designados nuevamente para el periodo posterior siguiente.
 
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2013)</small>
+
 ###### ARTÍCULO 15.
 
-Por cada Consejero se designará un suplente.
+Por cada Consejero se designará un suplente; los cuales se seleccionarán bajo el mismo procedimiento señalado en el artículo 13 de esta Ley.
 
 ###### ARTÍCULO 16.
 
@@ -321,6 +373,10 @@ XI. Promover la celebración de convenios y acuerdos de coordinación a favor de
 
 XII. Emitir acuerdos específicos que regulen su funcionamiento interno;
 
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 2013)</small>
+
+XII Bis. Evaluar de (sic) los programas y acciones que se establezcan en materia de protección a migrantes;
+
 XIII. Conocer y resolver los asuntos que se requieran para su buen funcionamiento, así como aquellos no previstos en la presente Ley; y,
 
 XIV. Aprobar la integración de comisiones para la atención de asuntos específicos.
@@ -329,9 +385,11 @@ XIV. Aprobar la integración de comisiones para la atención de asuntos específ
 
 El Consejo Consultivo, sesionará en la capital del Estado al menos dos veces al año de manera ordinaria, y de forma extraordinaria cuando así lo determine el Presidente del Consejo Consultivo o lo soliciten mediante escrito firmado por cuando menos las tres cuartas partes de los consejeros del mismo.
 
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2013)</small>
+
 ###### ARTÍCULO 21.
 
-Para que exista quórum legal en las sesiones del Consejo Consultivo, se deberá contar con su Presidente o en su ausencia el Vicepresidente lo sustituya y la mitad más uno de los integrantes del Consejo Consultivo. En caso contrario, se convocará a una nueva sesión y una vez comprobada la notificación de la convocatoria, se tomarán acuerdos válidos con quienes concurran en ella.
+Para que exista quórum legal en las sesiones del Consejo Consultivo, se deberá contar con su Presidente o en su ausencia el Secretario de Gobierno lo suplirá y la mitad más uno de los integrantes del Consejo Consultivo. En caso contrario, se convocará a una nueva sesión y una vez comprobada la notificación de la convocatoria, se tomarán acuerdos válidos con quienes concurran en ella.
 
 ###### ARTÍCULO 22.
 
@@ -397,15 +455,35 @@ El Consejo Consultivo podrá integrar las comisiones que requiera para el cumpli
 
 #### SECCIÓN V. DE LOS CONSEJOS CONSULTIVOS DE LAS DEPENDENCIAS Y ENTIDADES DE LA ADMINISTRACIÓN PÚBLICA ESTATAL
 
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2013)</small>
+
 ###### ARTÍCULO 28.
 
-Las dependencias y entidades de la Administración Pública Estatal, podrán incluir en sus consejos consultivos correspondientes, la participación ciudadana de los migrantes y sus familias.
+Las dependencias y entidades de la Administración Pública Estatal, podrán incluir en sus consejos consultivos correspondientes, la participación ciudadana de los migrantes y sus familias siendo obligación de la Secretaría establecer los mecanismos para ello.
 
-#### SECCIÓN I. DE LAS COMISIONES DE ASUNTOS MIGRATORIOS
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 28 DE ENERO DE 2013)</small>
+
+#### SECCIÓN VI. DEL REGISTRO DE MIGRANTES EN EL ESTADO DE MICHOACÁN
+
+> <small>(ADICIONADO, P.O. 28 DE ENERO DE 2013)</small>
+
+###### ARTÍCULO 28 Bis.
+
+Se creará el Registro de Migrantes en el Estado de Michoacán de Ocampo, a cargo de la Secretaría, con el objeto de:
+
+I. Lograr la inscripción voluntaria de los migrantes que se encuentren en el Estado; así como los que se encuentren fuera de éste; con la finalidad de contar con un padrón que tenga como mínimo nombre, domicilio, lugar de origen; así como datos de sus familiares cercanos;
+
+II. Que los migrantes, cuenten con una identificación estatal oficial, misma que contará con las medidas de seguridad que para tal efecto se expidan; y,
+
+III. Medir la migración en el Estado.
+
+La identificación estatal oficial, será válida y deberá aceptarse como identificación oficial por las dependencias y entidades de la administración pública del Estado, así como sus municipios.
+
+El trámite de registro deberá ser gratuito e incondicional y sólo estará sujeto al otorgamiento de la información solicitada; todo migrante mayor de 18 años, tiene el derecho de inscribirse en el Registro de Migrantes en el Estado; mediante los mecanismos que para ello implementará la Secretaría.
 
 ### CAPÍTULO V. DE LOS AYUNTAMIENTOS
 
-#### SECCIÓN II. DE LOS CENTROS MUNICIPALES PARA LOS MIGRANTES Y SUS FAMILIAS
+#### SECCIÓN I. DE LAS COMISIONES DE ASUNTOS MIGRATORIOS
 
 ###### ARTÍCULO 29.
 
@@ -439,7 +517,7 @@ XI. Elaborar y presentar al Ayuntamiento para su aprobación, en su efecto, las 
 
 XII. Las demás que le señale el Ayuntamiento, esta Ley u otras disposiciones aplicables.
 
-#### SECCIÓN III. DEL CONSEJO MUNICIPAL
+#### SECCIÓN II. DE LOS CENTROS MUNICIPALES PARA LOS MIGRANTES Y SUS FAMILIAS
 
 ###### ARTÍCULO 31.
 
@@ -469,9 +547,13 @@ VII. Celebrar convenios de coordinación intermunicipal a fin de promover polít
 
 VIII. Las demás disposiciones normativas aplicables.
 
+#### SECCIÓN III. DEL CONSEJO MUNICIPAL
+
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2013)</small>
+
 ###### ARTÍCULO 34.
 
-Para la participación, orientación y consulta de los ayuntamientos y de los centros municipales, se podrá conformar un Consejo Consultivo de Migrantes por cada municipalidad, los cuales se regularán y constituirán conforme a lo establecido en la Ley Orgánica Municipal del Estado de Michoacán de Ocampo y demás normatividad aplicable.
+Para la participación, orientación y consulta de los ayuntamientos y de los centros municipales, se deberá conformar un Consejo Consultivo de Migrantes por cada municipalidad, los cuales se regularán y constituirán conforme a lo establecido en la Ley Orgánica Municipal del Estado de Michoacán de Ocampo y demás normatividad aplicable.
 
 ###### ARTÍCULO 35.
 
@@ -487,29 +569,53 @@ El Consejo Consultivo Municipal se integrará por:
 
 I. Un Presidente, que es el Presidente Municipal; quien será suplido en sus ausencias por el Síndico;
 
-II. Un Secretario, que es el Titular del Centro Municipal de los Migrantes y sus Familias; y,
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2013)</small>
+
+II. Un Secretario, que es el Titular del Centro Municipal de los Migrantes y sus Familias.
+
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 2013)</small>
+
+II Bis. El subprocurador regional de Justicia del Estado; en los municipios donde exista subprocuraduría.
+
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 2013)</small>
+
+II Ter. El visitador regional de los derechos humanos, en los municipios donde existan visitadurías;
+
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 2013)</small>
+
+II Quater. El Secretario de Seguridad Pública Municipal; y,
 
 III. Los consejeros municipales necesarios, sin exceder el número de consejeros estatales, que son los migrantes representantes de organizaciones de los sectores económicos, sociales, culturales, académicos, entre otros.
 
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2013)</small>
+
 ###### ARTÍCULO 38.
 
-Los consejeros municipales, serán designados a invitación del Presidente del Consejo Municipal, procurando una representación equitativa.
+Los consejeros municipales serán electos mediante convocatoria pública abierta, que deberá ser elaborada por el Secretario y aprobada por el Consejo Municipal, la cual contendrá las bases para participar y ser electo consejero; debiéndose seleccionar los mejores perfiles, tomando en consideración como mínimo su currículo, experiencia y trayectoria; la facultad de seleccionar a los consejeros será única y exclusiva del Presidente del Consejo Municipal; previo dictamen emitido por el Secretario del mismo.
+
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2013)</small>
 
 ###### ARTÍCULO 39.
 
-Los consejeros durarán en su encargo un periodo de tres años y no podrán ser designados nuevamente para el periodo posterior siguiente.
+Los consejeros municipales durarán en su encargo por un periodo de tres años y no podrán ser designados nuevamente para el periodo posterior siguiente.
+
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2013)</small>
 
 ###### ARTÍCULO 40.
 
-Por cada Consejero se designará un suplente.
+Por cada consejero municipal se designará un suplente; los cuales se seleccionarán bajo el mismo procedimiento señalado en el artículo 38 de esta Ley.
+
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2013)</small>
 
 ###### ARTÍCULO 41.
 
-Los consejeros tendrán derecho a voz y voto para emitir las recomendaciones correspondientes en materia de políticas públicas para los migrantes y sus familias.
+Los consejeros municipales tendrán derecho a voz y voto para emitir las recomendaciones correspondientes en materia de políticas públicas para los migrantes y sus familias.
+
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2013)</small>
 
 ###### ARTÍCULO 42.
 
-El encargo de Consejero es de carácter honorífico y no podrán recibir retribución, emolumentos o compensación económica alguna.
+El encargo de consejero municipal es de carácter honorífico y no podrán recibir retribución, emolumentos o compensación económica alguna.
 
 ###### ARTÍCULO 43.
 
@@ -547,25 +653,35 @@ XIII. Conocer y resolver los asuntos que se requieran para su buen funcionamient
 
 XIV. Aprobar la integración de comisiones para la atención de asuntos específicos.
 
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2013)</small>
+
 ###### ARTÍCULO 45.
 
-El Consejo Consultivo, sesionará en la cabecera municipal al menos dos veces al año de manera ordinaria, y de forma extraordinaria cuando así lo determine el Presidente del Consejo Consultivo o lo soliciten mediante escrito firmado por cuando menos las tres cuartas partes de los consejeros del mismo.
+El Consejo Consultivo Municipal, sesionará en la cabecera municipal al menos dos veces al año de manera ordinaria, y de forma extraordinaria cuando así lo determine el Presidente del Consejo Consultivo Municipal o lo soliciten mediante escrito firmado por cuando menos las tres cuartas partes de los consejeros del mismo.
+
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2013)</small>
 
 ###### ARTÍCULO 46.
 
-Para que exista quórum legal en las sesiones del Consejo Consultivo, se deberá contar con su Presidente o en su ausencia el Vicepresidente lo sustituya y la mitad más uno de los integrantes del Consejo Consultivo. En caso contrario, se convocará a una nueva sesión y una vez comprobada la notificación de la convocatoria, se tomarán acuerdos válidos con quienes concurran en ella.
+Para que exista quórum legal en las sesiones del Consejo Consultivo Municipal, se deberá contar con su Presidente o en su ausencia el Síndico lo sustituirá y la mitad más uno de los integrantes del Consejo Consultivo Municipal. En caso contrario, se convocará a una nueva sesión y una vez comprobada la notificación de la convocatoria, se tomarán acuerdos válidos con quienes concurran en ella.
+
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2013)</small>
 
 ###### ARTÍCULO 47.
 
-El Secretario Ejecutivo deberá emitir la convocatoria a reuniones ordinarias cuando menos con diez días hábiles de anticipación. En el caso de las sesiones extraordinarias, se podrá omitir el término referido, y se aplicará respecto a cuando menos cuatro días hábiles de igual anticipación.
+El Secretario del Consejo Consultivo Municipal deberá emitir la convocatoria a reuniones ordinarias cuando menos con diez días hábiles de anticipación. En el caso de las sesiones extraordinarias, se podrá omitir el término referido, y se aplicará respecto a cuando menos cuatro días hábiles de igual anticipación.
 
 ###### ARTÍCULO 48.
 
 Al Presidente del Consejo Consultivo, le corresponde el ejercicio de las siguientes atribuciones:
 
-I. Designar a los consejeros en los términos dispuestos en la presente Ley;
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2013)</small>
 
-II. Convocar a las sesiones del Consejo Consultivo a través del Secretario Ejecutivo;
+I. Designar a los consejeros municipales en los términos dispuestos en la presente Ley;
+
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2013)</small>
+
+II. Convocar a las sesiones del Consejo Consultivo Municipal a través del Secretario;
 
 III. Presidir y dirigir las sesiones de la Asamblea General;
 
@@ -575,41 +691,67 @@ V. Tener voto de calidad en caso de empate; y,
 
 VI. Rendir un informe de carácter anual de actividades ante la Asamblea General.
 
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2013)</small>
+
 ###### ARTÍCULO 49.
 
-Al Vicepresidente del Consejo Consultivo, le corresponde el ejercicio de las siguientes atribuciones:
+Al suplente del Presidente del Consejo Consultivo Municipal, le corresponde el ejercicio de las siguientes atribuciones:
 
-I. Suplir al Presidente en las sesiones del Consejo Consultivo en caso de ausencia de éste; y,
+I. Suplir al Presidente en las sesiones del Consejo Consultivo Municipal, en caso de ausencia de éste; y,
 
-II. Las demás que por acuerdo del Consejo Consultivo se determinen.
+II. Las demás que por acuerdo del Consejo Consultivo Municipal se determinen.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ENERO DE 2013)</small>
 
 ###### ARTÍCULO 50.
 
-Al Secretario Ejecutivo del Consejo Consultivo, le corresponde el ejercicio de las siguientes atribuciones:
+Al Secretario del Consejo Consultivo Municipal, le corresponde el ejercicio de las siguientes atribuciones:
 
-I. Asistir a las sesiones que celebre el Consejo Consultivo;
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2013)</small>
 
-II. Representar al Consejo Consultivo ante toda clase de autoridades, instituciones y organizaciones de los sectores público, social y privado;
+I. Asistir a las sesiones que celebre el Consejo Consultivo Municipal;
 
-III. Proponer a los integrantes del Consejo Consultivo al análisis de los asuntos que estime necesarios;
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2013)</small>
 
-IV. Emitir las opiniones que le sean solicitadas, así como proporcionar la información que resulte necesaria para el desarrollo de las sesiones del Consejo Consultivo;
+II. Representar al Consejo Consultivo Municipal ante toda clase de autoridades, instituciones y organizaciones de los sectores público, social y privado;
 
-V. Someter a consideración de la Asamblea General el programa anual de trabajo del Consejo Consultivo, así como las fechas y sedes de las sesiones;
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2013)</small>
 
-VI. Coordinar la integración de las comisiones del Consejo Consultivo, así como verificar su adecuado funcionamiento;
+III. Proponer a los integrantes del Consejo Consultivo Municipal al análisis de los asuntos que estime necesarios;
 
-VII. Elaborar las actas de las sesiones que celebre el Consejo Consultivo y enviarlas a los miembros para su debida formalización;
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2013)</small>
 
-VIII. Resguardar las actas y demás documentos del Consejo Consultivo;
+IV. Emitir las opiniones que le sean solicitadas, así como proporcionar la información que resulte necesaria para el desarrollo de las sesiones del Consejo Consultivo Municipal;
+
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2013)</small>
+
+V. Someter a consideración de la Asamblea General el programa anual de trabajo del Consejo Consultivo Municipal, así como las fechas y sedes de las sesiones;
+
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2013)</small>
+
+VI. Coordinar la integración de las comisiones del Consejo Consultivo Municipal, así como verificar su adecuado funcionamiento;
+
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2013)</small>
+
+VII. Elaborar las actas de las sesiones que celebre el Consejo Consultivo Municipal y enviarlas a los miembros para su debida formalización;
+
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2013)</small>
+
+VIII. Resguardar las actas y demás documentos del Consejo Consultivo Municipal;
 
 IX. Dar seguimiento a los acuerdos tomados en la Asamblea General;
 
-X. Verificar que los acuerdos y trabajos del Consejo Consultivo se apeguen al marco jurídico vigente;
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2013)</small>
 
-XI. Preparar y enviar oportunamente a los integrantes del Consejo Consultivo, la convocatoria y la propuesta del día de las sesiones ordinarias y extraordinarias, conforme a las instrucciones del Presidente; y,
+X. Verificar que los acuerdos y trabajos del Consejo Consultivo Municipal se apeguen al marco jurídico vigente;
 
-XII. Informar al Presidente del Consejo Consultivo de la conveniencia, viabilidad y necesidad de sesionar en una sede alterna.
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2013)</small>
+
+XI. Preparar y enviar oportunamente a los integrantes del Consejo Consultivo Municipal, la convocatoria y la propuesta del día de las sesiones ordinarias y extraordinarias, conforme a las instrucciones del Presidente; e,
+
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2013)</small>
+
+XII. Informar al Presidente del Consejo Consultivo Municipal de la conveniencia, viabilidad y necesidad de sesionar en una sede alterna.
 
 ###### ARTÍCULO 51.
 
@@ -652,3 +794,13 @@ ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCIÓN".- PRESIDENTE DE LA MESA DIRECT
 En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 06 seis días del mes de mayo del año 2011 dos mil once.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LEONEL GODOY RANGEL.- EL SECRETARIO DE GOBIERNO.- FIDEL CALDERÓN TORREBLANCA. (Firmados).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 28 DE ENERO DE 2013.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Dése cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento, efectos conducentes y publicación respectiva.
+
+TERCERO. Para efecto de su conocimiento y cumplimiento comuníquese a los 113 ciento trece ayuntamientos del Estado.
