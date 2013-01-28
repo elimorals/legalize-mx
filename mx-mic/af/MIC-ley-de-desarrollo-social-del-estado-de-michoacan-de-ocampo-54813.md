@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-desarrollo-social-del-estado-de-michoacan-de-ocampo-5481
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-16"
-last_updated: "2007-03-16"
+last_updated: "2013-01-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54813&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE DESARROLLO SOCIAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán de Ocampo, el viernes 16 de marzo de 2007.
 
@@ -317,7 +317,13 @@ III. La promoción, la concurrencia, vinculación y coordinación de los program
 
 IV. La desconcentración y descentralización de los recursos para el desarrollo social y el fortalecimiento municipal;
 
-V. La organización comunitaria para la promoción del desarrollo de las localidades a través del cual sus habitantes identifiquen las prioridades de la comunidad y propongan y promuevan los mecanismos para su atención, con un modelo de democracia participativa;
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2013)</small>
+
+V. La organización comunitaria para la promoción del desarrollo de las localidades a través del cual sus habitantes identifiquen las prioridades de la comunidad, propongan y promuevan los mecanismos para su atención, con un modelo de democracia participativa.
+
+Todo organismo comunitario que tenga por objetivo impulsar el desarrollo social de las comunidades o localidades en el Estado deberá mantener coordinación con el Ayuntamiento respectivo, teniendo éste la atribución de ratificar la integración del organismo comunitario, así como vigilar su correcto funcionamiento bajo los principios siguientes: transparencia, rendición de cuentas, inclusión social, participación, publicidad, racionalidad y priorización de las necesidades de la comunidad o localidad.
+
+Los organismos comunitarios de desarrollo social, no podrán constituirse bajo ninguna modalidad como autoridad intermedia alguna entre el municipio y el gobierno del Estado.
 
 VI. La transparencia en el uso de los recursos públicos y la rendición de cuentas; y,
 
@@ -439,11 +445,39 @@ La determinación de la cantidad de los recursos a descentralizar con los ayunta
 
 ### CAPÍTULO II. DE LAS REGLAS DE OPERACIÓN
 
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2013)</small>
+
 ###### Artículo 25.
 
 Con el objeto de asegurar la aplicación eficiente, eficaz, oportuna, equitativa y transparente de los recursos públicos, los programas de desarrollo social deberán sujetarse a reglas de operación, entendidas éstas como la disposición administrativa que establece las bases en forma ordenada y sistemática que deberá seguir cada programa en su planeación, ejecución, control, seguimiento y evaluación.
 
-Las reglas de operación deberán precisar las facultades de las dependencias y entidades, la temporalidad, las condiciones, la cobertura, los requisitos para acceder y los sujetos de los programas, así como los indicadores para su evaluación en los términos de esta Ley.
+Las reglas de operación deberán precisar en forma clara y fidedigna por lo menos los siguientes aspectos:
+
+I. Los objetivos del programa;
+
+II. La población a la que está dirigido;
+
+III. Los derechos y obligaciones de la población beneficiaria;
+
+IV. Mecanismos de certificación de las corresponsabilidades de los beneficiarios;
+
+V. Las causales y mecanismos de aplicación para la suspensión temporal y definitiva de los apoyos;
+
+VI. Los montos de los apoyos económicos de cada componente y mecanismos de entrega;
+
+VII. Las facultades y obligaciones de las dependencias y entidades;
+
+VIII. La temporalidad;
+
+IX. Las condiciones;
+
+X. La cobertura;
+
+XI. Los requisitos para acceder;
+
+XII. Los medios e instancias para presentar inconformidades y peticiones; y,
+
+XIII. Los indicadores para su evaluación en los términos de esta Ley.
 
 ###### Artículo 26.
 
@@ -493,9 +527,11 @@ Los indicadores de resultados de evaluación que se establezcan deberán refleja
 
 Los indicadores de gestión y servicios que se establezcan, deberán reflejar los resultados y la calidad de los servicios de las políticas públicas, los programas específicos, los procedimientos, metas y acciones de la política estatal de desarrollo social.
 
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2013)</small>
+
 ###### Artículo 34.
 
-Los resultados de la evaluación de cada uno de los programas se publicarán en el Periódico Oficial y se remitirán al Congreso del Estado.
+Los resultados de la evaluación de cada uno de los programas se publicarán en el primer trimestre de cada año en el Periódico Oficial y se remitirán al Congreso del Estado.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -514,3 +550,11 @@ PRESIDENTE.- DIP. DAVID GARIBAY TENA.- PRIMER SECRETARIO.- DIP. JUAN ANTONIO IXT
 En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 2 dos días del mes de marzo del año 2007 dos mil siete.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LÁZARO CÁRDENAS BATEL.- LA SECRETARIA DE GOBIERNO.- MARÍA GUADALUPE SÁNCHEZ MARTÍNEZ. (Firmados).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 28 DE ENERO DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
