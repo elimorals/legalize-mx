@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-instituto-de-ciencia-y-tecnologia-del-distrito-55771"
 country: "mx"
 rank: "ley"
 publication_date: "2007-06-01"
-last_updated: "2009-01-22"
+last_updated: "2013-01-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55771&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2007-05-09"
 ---
 # LEY DEL INSTITUTO DE CIENCIA Y TECNOLOGIA DEL DISTRITO FEDERAL
 
-LEY DEL INSTITUTO DE CIENCIA Y TECNOLOGIA DEL DISTRITO FEDERAL
+LEY DEL INSTITUTO DE CIENCIA Y TECNOLOGÍA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 22 DE ENERO DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL DISTRITO FEDERAL, PUBLICADA EN LA G.O. DE 29 DE ENERO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADA.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 1 de junio de 2007.
 
@@ -1066,7 +1068,7 @@ Recinto de la Asamblea Legislativa del Distrito Federal, a los veintisiete días
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México a los nueve días del mes de mayo de dos mil siete. EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- LA SECRETARIA DE MEDIO AMBIENTE, MARTHA DELGADO PERALTA.- FIRMA.- EL SECRETARIO DE SALUD, MANUEL MONDRAGÓN Y KALB.- FIRMA.- EL SECRETARIO DE EDUCACIÓN, AXEL DIDRIKSSON TAKAYANAGUI.- FIRMA.- LA SECRETARIA DE DESARROLLO ECONÓMICO, LAURA VELÁZQUEZ ALZÚA.- FIRMA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 G.O. 22 DE ENERO DE 2009.
 
@@ -1075,3 +1077,31 @@ Primero. La presente reforma entrará en vigor al día siguiente de su publicaci
 Segundo. El Instituto de Ciencia y Tecnología del D.F. hará las previsiones presupuestales correspondientes para el ejercicio fiscal 2009 para dar cumplimiento a esta reforma.
 
 Tercero. El Instituto de Ciencia y Tecnología del D.F. publicará las reglas de operación correspondientes a más tardar 60 días después de la publicación de la presente reforma y establecerá en el Programa de Estancias de Investigadores en el sector productivo la vigencia mínima de un año.
+
+G.O. 29 DE ENERO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial del Distrito Federal. Se ordena su publicación en el Diario Oficial de la Federación para su mayor difusión.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley del Instituto de Ciencia y Tecnología del Distrito Federal, publicada en la Gaceta Oficial del Distrito Federal el día 1 de junio de 2007, así como sus Reformas y se derogan las disposiciones legales y administrativas que se opongan a la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+Todos los recursos humanos, materiales y financieros con que cuente el Instituto de Ciencia y Tecnología del Distrito Federal así como las atribuciones que la Ley del Instituto de Ciencia y Tecnología del Distrito Federal le confiere al referido Instituto, se transferirán a la Secretaría de Ciencia, Tecnología e Innovación del Distrito Federal en los términos de la normatividad aplicable.
+
+En la transferencia de los recursos humanos del Instituto de Ciencia y Tecnología del Distrito Federal a la Secretaría de Ciencia, Tecnología e Innovación, se garantizarán y protegerán sus derechos laborales en los términos de las leyes aplicables en la materia.
+
+###### ARTÍCULO CUARTO.
+
+Todos los asuntos en trámite que competan al Instituto de Ciencia y Tecnología del Distrito Federal serán atendidos hasta su conclusión por la Secretaría de Ciencia, Tecnología e Innovación del Distrito Federal.
+
+###### ARTÍCULO QUINTO.
+
+Los programas, planes, beneficios, estímulos, propuestas o cualquier asunto de política pública iniciado por el Instituto de Ciencia y Tecnología del Distrito Federal serán continuados por la Secretaría de Ciencia, Tecnología e Innovación del Distrito Federal.
+
+###### ARTÍCULO SEXTO.
+
+El Jefe de Gobierno contará hasta con 120 días naturales, contados a partir de la entrada en vigor del presente Decreto, para expedir las normas reglamentarias correspondientes y en ellas se deberá observar el plazo para la instalación y operación de los Comités Delegacionales a los que alude el artículo 17 de esta Ley.
