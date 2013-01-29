@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-administracion-publica-del-distrito-12954"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-12-29"
-last_updated: "2012-07-06"
+last_updated: "2013-01-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12954&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1998-12-14"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 6 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 29 DE ENERO DE 2013.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 29 de diciembre de 1998.
 
@@ -234,9 +234,11 @@ El Jefe de Gobierno podrá elaborar proyectos de reglamentos sobre leyes que exp
 
 Los reglamentos, decretos y acuerdos expedidos por el Jefe de Gobierno deberán, para su validez y observancia, ser refrendados por el Secretario que corresponda, según la materia de que se trate, y cuando se refieran a materias de dos o más secretarías, deberán refrendarse por los titulares de las mismas que conozcan de esas materias conforme a las leyes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE ENERO DE 2013)</small>
+
 ###### Artículo 15.
 
-El Jefe de Gobierno se auxiliará en el ejercicio de sus atribuciones, que comprenden el estudio, planeación y despacho de los negocios del orden administrativo, en los términos de ésta ley, de las siguientes dependencias:
+El Jefe de Gobierno se auxiliará en el ejercicio de sus atribuciones, que comprenden el estudio, planeación y despacho de los negocios del orden administrativo, en los términos de ésta Ley, de las siguientes dependencias:
 
 I. Secretaría de Gobierno;
 
@@ -291,6 +293,10 @@ XIX. Secretaría de Educación; y
 > <small>(ADICIONADA, G.O. 6 DE FEBRERO DE 2007)</small>
 
 XX. Secretaría de Desarrollo Rural y Equidad para las Comunidades.
+
+> <small>(ADICIONADA, G.O. 29 DE ENERO DE 2013)</small>
+
+XXI. Secretaría de Ciencia, Tecnología e Innovación
 
 La Secretaría de Seguridad Pública y la Procuraduría General de Justicia del Distrito Federal se ubican en el ámbito orgánico del Gobierno del Distrito Federal y se regirán por las leyes específicas correspondientes.
 
@@ -709,6 +715,102 @@ XXII. Participar y organizar foros, seminarios y congresos nacionales e internac
 XXIII. Desarrollar e impartir cursos y programas de capacitación y actualización sobre asuntos indígenas y étnicos del Distrito Federal; y
 
 XXIV. Las demás que le atribuyan expresamente las leyes y reglamentos.
+
+> <small>(ADICIONADO, G.O. 29 DE ENERO DE 2013)</small>
+
+Artículo 23 sexies.- A la Secretaría de Ciencia, Tecnología e Innovación del Distrito Federal corresponde diseñar y normar las políticas inherentes al estudio y desarrollo de la ciencia y tecnología en la ciudad, así como impulsar, desarrollar y coordinar todo tipo de actividades relacionadas con la Ciencia. Las funciones y actividades de la Secretaría están orientadas a impulsar un mayor crecimiento económico y académico del Distrito Federal a través del estudio y desarrollo científico productivo.
+
+Específicamente tendrá las siguientes atribuciones:
+
+I. Identificar las necesidades para el desarrollo del Distrito Federal y su interrelación con los requerimientos de investigación científica, tecnológica y de innovación productiva;
+
+II. Coadyuvar con dependencias o instituciones, nacionales o extranjeras, públicas o privadas, en la formación de la investigación científica básica y aplicada, en todas las áreas del conocimiento;
+
+III. Impulsar el estudio y desarrollo de la Ciencia y Tecnología en el Distrito Federal;
+
+IV. Fomentar e impulsar el estudio científico en toda la población del Distrito Federal;
+
+V. Establecer las políticas y programas generales en materia de desarrollo, promoción y fomento científico, así como formular, conducir, coordinar y evaluar los programas sectoriales correspondientes;
+
+VI. Establecer un sistema independiente para la evaluación de la eficiencia, resultados e impactos de los principios, programas e instrumentos de apoyo a la investigación científica y tecnológica;
+
+VII. Impulsar la realización de actividades de ciencia, tecnología e innovación productiva que realicen las dependencias y entidades de la Administración Pública del Distrito Federal, así como los sectores social y privado;
+
+VIII. Promover la participación de la comunidad científica y de los sectores público, social y privado en el desarrollo de programas y proyectos de fomento a la investigación científica, el desarrollo tecnológico y la innovación productiva;
+
+IX. Promover y difundir entre la población del Distrito Federal los requerimientos, avances y logros científicos nacionales e internacionales;
+
+X. Formular y coordinar el Programa de Ciencia, Tecnología e Innovación del Distrito Federal;
+
+XI. Formular y operar programas de becas, y en general de apoyo a la formación de recursos humanos en todas las áreas del conocimiento;
+
+XII. Promover la realización de ferias, exposiciones y congresos, de carácter local, nacional e internacional, vinculadas a la promoción de actividades científicas y tecnológicas en general;
+
+XIII. Incentivar la creación y expansión de diversos mecanismos administrativos y gubernamentales que permitan fortalecer e incrementar las actividades científicas y de desarrollo tecnológico en la Ciudad;
+
+XIV. Definir políticas, instrumentos y medidas de apoyo a la ciencia, la tecnología y la innovación productiva por parte de la Administración Pública del Distrito Federal, y proponer e impulsar estímulos fiscales y financieros, así las (sic) facilidades administrativas en el Distrito Federal;
+
+XV. Mantener actualizado el sistema local de documentación e información científica.
+
+XVI. Incentivar la ciencia y tecnología como desarrollo de inversiones estratégicas del Distrito Federal;
+
+XVII. Establecer relación directa entre el desarrollo científico y tecnológico con el sistema educativo del Distrito Federal;
+
+XXVIII (SIC). Establecer los mecanismos que permitan hacer de la ciencia y la tecnología uno de los principales factores de crecimiento económico del Distrito Federal;
+
+XIX. Suscribir convenios de coordinación y colaboración con la Administración Pública Federal, las Entidades Federativas y los Municipios, a efecto de establecer políticas, programas y apoyos destinados a impulsar el desarrollo y la descentralización de la investigación científica y tecnológica;
+
+XX. Promover y difundir una cultura local de desarrollo científico y tecnológico, en coordinación con las dependencias, entidades y sectores relacionados, procurando que la población se involucre con los programas, prioridades, requerimientos y resultados en la materia; así como estimular y reconocer la actividad científica y tecnológica a través de dos vertientes esenciales:
+
+XXI. Acordar con el CONACYT y con otros organismos y dependencias el otorgamiento de premios en ciencia y tecnología a quienes realicen investigaciones relevantes en la materia y que se auspicien o apoyen con recursos federales o de otros orígenes, que no correspondan al Instituto de Ciencia y Tecnología del D.F.;
+
+XXII. Otorgar premios locales de ciencia y tecnología y de reconocimiento a la innovación, a fin de incentivar el quehacer científico y tecnológico, así como el ingenio y la creatividad, procurando favorecer la participación social, en especial de los estudiantes y profesores de los diversos niveles educativos.
+
+XXIII. Fomentar, concertar y normar la formación y capacitación de recursos humanos de alto nivel académico, preferentemente en aquellas áreas que el Programa General de Desarrollo del Distrito Federal y el Programa de Ciencia y Tecnología del Distrito Federal consideren prioritarias, a fin de vincular el desarrollo científico y tecnológico con el mejoramiento de los niveles socioeconómicos de la población;
+
+XXIV. Promover las publicaciones científicas y fomentar la difusión sistemática de los trabajos de investigación, así como publicar periódicamente los avances del Distrito Federal en materia de ciencia, tecnología e innovación, así como los de carácter nacional e internacional;
+
+XXV. Establecer los instrumentos y procedimientos necesarios, a fin de brindar apoyo y facilitar las gestiones de los investigadores y científicos que, por la magnitud y trascendencia de sus proyectos o actividades, así lo requieran ante la autoridad correspondiente;
+
+XXVI. Expedir la normatividad que fomente la capacitación, especialización y actualización de conocimientos en ciencia, tecnología e innovación productiva en las escuelas, instituciones de educación superior y centros de investigación en el Distrito Federal, así como apoyar los proyectos de investigación y desarrollo tecnológico que se realicen en el Distrito Federal;
+
+XXVII. Promover la adopción de medidas de simplificación, fomento e incentivo de la actividad científica;
+
+XXVIII. Buscar, junto con el sector productivo, la comunidad científica y el Gobierno del Distrito Federal los nichos de oportunidades de desarrollo económico y social que puedan ser impulsados por la ciencia y la tecnología;
+
+XXIX. Promover la colaboración científica y tecnológica entre las instituciones académicas y las empresas, así como impulsar el registro de la propiedad intelectual y de patentes que se generen a partir del conocimiento científico y tecnológico surgido en las instituciones y empresas de la Ciudad de México.
+
+XXX. Concertar y realizar las funciones técnicas y administrativas necesarias para la eficaz divulgación y desarrollo del Sistema Nacional de Investigadores en el Distrito Federal;
+
+XXXI. Concertar y aplicar los mecanismos de colaboración necesarios en la materia de criterios y estándares institucionales para la evaluación del ingreso y permanencia en la Red Nacional de Grupos y Centros de Investigación, así como para su clasificación y categorización
+
+XXXII. Trabajar en conjunto con la autoridad Federal competente a fin de que se establezcan los canales y mecanismos a través de los cuales se logre dotar de mayor impulso el estudio y desarrollo científico y tecnológico.
+
+XXXIII. Fungir como órgano de consulta y asesoría sobre investigación científica, tecnológica o de innovación, para coadyuvar a la adecuada instrumentación de los proyectos que en la materia realicen las dependencias y entidades de la Administración Pública del Distrito Federal, asistiéndoles en los temas relacionados con los rubros de políticas de inversión, educación técnica y superior, importación de tecnología, pago de regalías, elaboración de patentes, normas, especificaciones, control de calidad y otros afines;
+
+XXXIV. Establecer e impulsar el sistema local de información y documentación científica y tecnológica, comprendiendo los subsistemas de producción, recursos humanos, recursos materiales, organizativos y financieros, instituciones y empresas vinculadas, e investigadores y personas destinados a la investigación científica y al desarrollo tecnológico del Distrito Federal y promover y concertar su vinculación e interacción con programas o planes federales;
+
+XXXV. Llevar a cabo los estudios para determinar con base en ellos, las medidas técnicas y operacionales que se deben seguir para impulsar de forma objetiva y consistente el desarrollo de la Ciencia y Tecnología en el Distrito Federal;
+
+XXXVI. Representar al Jefe de Gobierno, ante las autoridades, comisiones, comités, grupos de trabajo, foros y demás organismos que se ocupen de los temas relacionados con la Ciencia y Tecnología;
+
+XXXVII. Proponer al Jefe de Gobierno las normas, políticas y medidas correspondientes para apoyar el crecimiento y desarrollo de las entidades paraestatales cuya coordinación le sea encomendada;
+
+XXXVIII. Participar en la elaboración de los programas institucionales de las entidades paraestatales cuya coordinación le corresponda realizar, así como analizar, dictaminar y promover los ajustes que se requieran, en los ámbitos normativos, operativos y presupuestales;
+
+XXXIX. Coordinar la participación de todas las instituciones de los sectores público, social y privado en la ejecución de las políticas de desarrollo científico del Distrito Federal;
+
+XL. Apoyar los trabajos que le solicite la Asamblea Legislativa del Distrito Federal en materia de desarrollo científico, tecnológico e innovación productiva;
+
+XLI. Coadyuvar con las funciones de la Secretaría de Desarrollo Económico a fin de proponer en conjunto al Jefe de Gobierno los mecanismos de coordinación interinstitucional que permitan incentivar el desarrollo y la inversión productiva en materia de Ciencia y Tecnología.
+
+XLII. Presidir los Comités Técnicos, comisiones y órganos de fomento que se establezcan para el desarrollo Científico y Tecnológico de la Ciudad.
+
+XLIII. Presentar anualmente un informe sobre el estado que guarda el Distrito Federal en materia de Desarrollo Científico y Tecnológico, cuyo contenido deberá incluir la definición de áreas estratégicas y programas prioritarios; aspectos financieros, resultados (sic) y resultados obtenidos por este sector.
+
+XLIV. Conocer y atender los recursos administrativos que se interpongan contra sus actos y resoluciones, en los términos de las normas que a efecto expida y sujetándose a lo dispuesto en Ley de Procedimiento Administrativo del Distrito Federal; y
+
+XLV. Las demás que le atribuyan expresamente las leyes y reglamentos.
 
 ###### Artículo 24.
 
@@ -2349,3 +2451,31 @@ G.O. 6 DE JULIO DE 2012.
 PRIMERO. Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
 
 SEGUNDO. El presente Decreto entrará en vigor el 05 de Julio de 2012.
+
+G.O. 29 DE ENERO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial del Distrito Federal. Se ordena su publicación en el Diario Oficial de la Federación para su mayor difusión.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley del Instituto de Ciencia y Tecnología del Distrito Federal, publicada en la Gaceta Oficial del Distrito Federal el día 1 de junio de 2007, así como sus Reformas y se derogan las disposiciones legales y administrativas que se opongan a la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+Todos los recursos humanos, materiales y financieros con que cuente el Instituto de Ciencia y Tecnología del Distrito Federal así como las atribuciones que la Ley del Instituto de Ciencia y Tecnología del Distrito Federal le confiere al referido Instituto, se transferirán a la Secretaría de Ciencia, Tecnología e Innovación del Distrito Federal en los términos de la normatividad aplicable.
+
+En la transferencia de los recursos humanos del Instituto de Ciencia y Tecnología del Distrito Federal a la Secretaría de Ciencia, Tecnología e Innovación, se garantizarán y protegerán sus derechos laborales en los términos de las leyes aplicables en la materia.
+
+###### ARTÍCULO CUARTO.
+
+Todos los asuntos en trámite que competan al Instituto de Ciencia y Tecnología del Distrito Federal serán atendidos hasta su conclusión por la Secretaría de Ciencia, Tecnología e Innovación del Distrito Federal.
+
+###### ARTÍCULO QUINTO.
+
+Los programas, planes, beneficios, estímulos, propuestas o cualquier asunto de política pública iniciado por el Instituto de Ciencia y Tecnología del Distrito Federal serán continuados por la Secretaría de Ciencia, Tecnología e Innovación del Distrito Federal.
+
+###### ARTÍCULO SEXTO.
+
+El Jefe de Gobierno contará hasta con 120 días naturales, contados a partir de la entrada en vigor del presente Decreto, para expedir las normas reglamentarias correspondientes y en ellas se deberá observar el plazo para la instalación y operación de los Comités Delegacionales a los que alude el artículo 17 de esta Ley.
