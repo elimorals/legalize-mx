@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2012-11-22"
+last_updated: "2013-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-(NOTA: EL 14 DE MARZO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 67/2012 Y SUS ACUMULADAS 68/2012 Y 69/2012, DECLARÓ LA INVALIDEZ EN SU TOTALIDAD DEL DECRETO 170 POR EL QUE SE REFORMÓ LA CONSTITUCIÓN DEL ESTADO DE QUINTANA ROO, PUBLICADO EN EL PERIÓDICO OFICIAL DE LA ENTIDAD, EL VEINTIDÓS DE NOVIEMBRE DE DOS MIL DOCE, LA CUAL SURTIÓ EFECTOS EL 15 DE MARZO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2013.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -3089,7 +3087,7 @@ La Legislatura del Estado, por acuerdo de las dos terceras partes de sus integra
 
 ### CAPITULO V. De la Hacienda Pública
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ENERO DE 2013)</small>
 
 ###### ARTICULO 145.
 
@@ -3183,7 +3181,9 @@ La Legislatura del Estado emitirá las normas que establezcan los procedimientos
 
 ###### ARTICULO 153.
 
-Los Municipios administrarán libremente su hacienda conforme a las siguientes bases:
+Los Municipios administrarán libremente su Hacienda conforme a las siguientes bases:
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
 I. Los recursos que integran la hacienda municipal serán ejercidos en forma directa por los Ayuntamientos o bien por quien ellos autoricen, conforme a la Ley.
 
@@ -3193,7 +3193,11 @@ II. La Legislatura del Estado discutirá y aprobará, en su caso, las Leyes de I
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO TERCERO DEL DECRETO PUBLICADO EN EL P.O. DE 2 DE DICIEMBRE DE 2003.]</small>
 
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
+
 Los Ayuntamientos, propondrán a la Legislatura del Estado, a mas tardar en el mes de octubre de cada año, con arreglo a los principios de equidad, proporcionalidad, racionalidad y capacidad contributiva, las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria, en el ejercicio fiscal inmediato siguiente.
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2003)</small>
 
 III. En todo caso los municipios percibirán:
 
@@ -3209,13 +3213,23 @@ c) Los ingresos derivados de la prestación de los servicios públicos a su carg
 
 d) Los que adquieran por subsidios, legados, donaciones o cualquier causa lícita.
 
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2003)</small>
+
 IV. Las leyes no establecerán exenciones o subsidios en favor de persona o institución alguna respecto de dichas contribuciones. Sólo estarán exentos los bienes de dominio público de la Federación, de los Estados o los Municipios, salvo que tales bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
 
-V. Los Presupuestos de Egresos serán aprobados por los Ayuntamientos con base en sus ingresos disponibles.
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2013)</small>
+
+V. Los Presupuestos de Egresos serán aprobados por los Ayuntamientos con base en sus ingresos disponibles. Asimismo podrán autorizar en dicho Presupuesto las erogaciones plurianuales para aquellos proyectos de prestación de servicios que se determinen conforme a lo dispuesto en la ley reglamentaria; las erogaciones correspondientes deberán incluirse en los subsecuentes Presupuestos de Egresos del Municipio;
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2003)</small>
 
 VI. La Deuda Pública Municipal se sujetará a lo que disponga la Ley e invariablemente requerirá de la aprobación de la Legislatura del Estado.
 
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2003)</small>
+
 VII. La Legislatura del Estado, revisará y fiscalizará la Cuenta Pública de cada uno de los Municipios, previa aprobación de los Ayuntamientos, en los términos de las disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
 La Legislatura, en coordinación con los Municipios, garantizará la disposición de la información de la Cuenta Pública Municipal a la comunidad en general, con base a lo que establezca la Ley que reglamente el acceso a la información pública gubernamental, que al efecto expida la Legislatura.
 
@@ -3493,7 +3507,7 @@ Diputado Presidente: Pedro Joaquín Coldwell. Diputado Vicepresidente: Gilberto 
 
 Por tanto para que se imprima, circule y publique por bando solemne en todo el Estado de Quintana Roo, y para su debido cumplimiento y observancia expido el presente Decreto en la residencia del Poder Ejecutivo del Estado de Quintana Roo, a los once días del mes de enero de mil novecientos setenta y cinco. El Gobernador Provisional del Estado de Quintana Roo: David Gustavo Gutiérrez Ruiz.- Rúbrica.- El Secretario General de Gobierno: Dionisio Vera Casanova.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCIÓN.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 10 DE NOVIEMBRE DE 1977.
 
@@ -3953,19 +3967,19 @@ P.O. 9 DE JUNIO DE 2008.
 
 P.O. 2 DE JULIO DE 2008.
 
-DECRETO NO. 027 QUE REFORMA EL PARRAFO SEGUNDO DEL ARTICULO 13, DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
+DECRETO No. 027 QUE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 13, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 P.O. 2 DE JULIO DE 2008.
 
-DECRETO NO. 026 POR EL QUE SE REFORMAN LOS PARRAFOS CUARTO Y QUINTO; Y SE ADICIONAN LOS PARRAFOS SEXTO Y SEPTIMO; ASI COMO LOS APARTADOS "A" Y "B" DEL ARTICULO 13 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
+DECRETO No. 026 POR EL QUE SE REFORMAN LOS PÁRRAFOS CUARTO Y QUINTO; Y SE ADICIONAN LOS PÁRRAFOS SEXTO Y SÉPTIMO; ASÍ COMO LOS APARTADOS "A" Y "B" DEL ARTÍCULO 13 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
 
 ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
 
 P.O. 2 DE JULIO DE 2008.
 
-DECRETO NO. 028 QUE REFORMA LOS ARTICULOS 97, 98, 99, 100, 101, 102, 103, 105, 110, Y 160 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
+DECRETO No. 028 QUE REFORMA LOS ARTÍCULOS 97, 98, 99, 100, 101, 102, 103, 105, 110, Y 160 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3977,25 +3991,25 @@ El Consejo de la Judicatura del Poder Judicial del Estado deberá continuar en s
 
 P.O. 3 DE MARZO DE 2009.
 
-DECRETO NO. 099, POR EL QUE SE REFORMA EL ARTICULO 66 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
+DECRETO No. 099, POR EL QUE SE REFORMA EL ARTÍCULO 66 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
 
 ÚNICO.- El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 P.O. 3 DE MARZO DE 2009.
 
-DECRETO NO. 100, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTICULOS DE LA CONSTITUCION POLITICA DEL ESTADO DE QUINTANA ROO.
+DECRETO No. 100, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUINTANA ROO.
 
 ###### ARTÍCULO PRIMERO.
 
 El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo, observándose las previsiones contenidas en los artículos siguientes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO SEGUNDO.
 
 El proceso electoral ordinario para renovar al actual Titular del Poder Ejecutivo, a los Diputados de la Legislatura que se encuentran en funciones, así como de los integrantes de los Ayuntamientos que están desempeñando el cargo, iniciará el 16 de marzo del año 2010.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2009)</small>
 
 La jornada electoral tendrá verificativo el primer domingo de julio del año 2010, y quienes resulten electos tomarán posesión de la siguiente forma:
 
@@ -4067,13 +4081,13 @@ P.O. 6 DE NOVIEMBRE DE 2009.
 
 P.O. 11 DE DICIEMBRE DE 2009.
 
-DECRETO NO. 197, POR EL QUE SE REFORMA EL PARRAFO TERCERO DE LA FRACCION II DEL ARTICULO 49 DE LA CONSTITUCION POLITICA DEL ESTADO DE QUINTANA ROO.
+DECRETO No. 197, POR EL QUE SE REFORMA EL PÁRRAFO TERCERO DE LA FRACCIÓN II DEL ARTÍCULO 49 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUINTANA ROO.
 
 PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 P.O. 11 DE DICIEMBRE DE 2009.
 
-DECRETO NO. 198, POR EL QUE SE REFORMAN LOS ARTICULOS SEGUNDO Y TERCERO TRANSITORIOS DEL DECRETO NO. 100 QUE MODIFICO LA CONSTITUCION POLITICA DEL ESTADO DE QUINTANA ROO.
+DECRETO No. 198, POR EL QUE SE REFORMAN LOS ARTÍCULOS SEGUNDO Y TERCERO TRANSITORIOS DEL DECRETO No. 100 QUE MODIFICÓ LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUINTANA ROO.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -4141,7 +4155,7 @@ T R A N S I T O R I O:
 
 P.O. 22 DE DICIEMBRE DE 2010.
 
-DECRETO NUMERO 406, POR EL QUE SE REFORMA EL ARTICULO 66 PRIMER PARRAFO DE LA CONSTITUCION POLITICA DEL ESTADO DE QUINTANA ROO.
+DECRETO NÚMERO 406, POR EL QUE SE REFORMA EL ARTÍCULO 66 PRIMER PÁRRAFO DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUINTANA ROO.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo, observándose, la previsión contenida en los artículos siguientes.
 
@@ -4157,7 +4171,7 @@ T R A N S I T O R I O:
 
 P.O. 22 DE DICIEMBRE DE 2010.
 
-DECRETO NUMERO 407, POR EL QUE SE REFORMA EL ARTICULO 77 FRACCION II PRIMER PARRAFO DE LA CONSTITUCION POLITICA DEL ESTADO DE QUINTANA ROO.
+DECRETO NÚMERO 407, POR EL QUE SE REFORMA EL ARTÍCULO 77 FRACCIÓN II PRIMER PÁRRAFO DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUINTANA ROO.
 
 PRIMERO.- El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
@@ -4167,7 +4181,7 @@ T R A N S I T O R I O:
 
 P.O. 22 DE DICIEMBRE DE 2010.
 
-DECRETO NUMERO 408, POR EL QUE SE ADICIONA UN PARRAFO SEGUNDO RECORRIENDOSE EN SU ORDEN LOS PARRAFOS SUBSECUENTES Y SE REFORMA EL PARRAFO CUARTO QUE PASA A SER QUINTO DEL ARTICULO 13 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
+DECRETO NÚMERO 408, POR EL QUE SE ADICIONA UN PÁRRAFO SEGUNDO RECORRIÉNDOSE EN SU ORDEN LOS PÁRRAFOS SUBSECUENTES Y SE REFORMA EL PÁRRAFO CUARTO QUE PASA A SER QUINTO DEL ARTÍCULO 13 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -4219,13 +4233,13 @@ NOVENO.- Los Programas de Desarrollo Urbano y los Proyectos de Inversión para e
 
 P.O. 2 DE MARZO DE 2011.
 
-DECRETO NUMERO 433, POR EL QUE SE ADICIONA UN PARRAFO CUARTO AL ARTICULO 143 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, PASANDO EL ACTUAL PARRAFO CUARTO A SER PARRAFO QUINTO, Y SE REFORMA ESTE ULTIMO; SE REFORMA EL ARTICULO TERCERO TRANSITORIO DEL DECRETO NUMERO 422 POR EL QUE SE REFORMAN LOS ARTICULOS 127, 128 FRACCION I, 134 FRACCION II Y 135 FRACCION I, PARRAFO SEGUNDO, Y SE ADICIONA LA FRACCION X DEL ARTICULO 128, TODOS DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, PUBLICADO EN EL PERIODICO OFICIAL DEL ESTADO DE 17 DE FEBRERO DE 2011.
+DECRETO NÚMERO 433, POR EL QUE SE ADICIONA UN PÁRRAFO CUARTO AL ARTÍCULO 143 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, PASANDO EL ACTUAL PÁRRAFO CUARTO A SER PÁRRAFO QUINTO, Y SE REFORMA ESTE ÚLTIMO; SE REFORMA EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NÚMERO 422 POR EL QUE SE REFORMAN LOS ARTÍCULOS 127, 128 FRACCIÓN I, 134 FRACCIÓN II Y 135 FRACCIÓN I, PÁRRAFO SEGUNDO, Y SE ADICIONA LA FRACCIÓN X DEL ARTÍCULO 128, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE 17 DE FEBRERO DE 2011.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
 
 P.O. 2 DE MARZO DE 2011.
 
-DECRETO NUMERO 434, POR EL QUE SE REFORMAN LOS ARTICULOS 134 FRACCIONES I Y II, Y 135 FRACCION I, PARRAFO SEGUNDO DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
+DECRETO NÚMERO 434, POR EL QUE SE REFORMAN LOS ARTÍCULOS 134 FRACCIONES I Y II, Y 135 FRACCIÓN I, PÁRRAFO SEGUNDO DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
 
 Artículo Primero.- El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
@@ -4233,7 +4247,7 @@ Artículo Segundo.- La siguiente integración del Ayuntamiento de Solidaridad, e
 
 P.O. 2 DE MARZO DE 2011.
 
-DECRETO NUMERO 435, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 23, 26, Y 27; Y SE DEROGA EL PARRAFO SEGUNDO DEL ARTICULO 30, TODOS DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
+DECRETO NÚMERO 435, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 23, 26, Y 27; Y SE DEROGA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 30, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -4274,3 +4288,7 @@ P.O. 22 DE NOVIEMBRE DE 2012.
 PRIMERIO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 29 DE ENERO DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
