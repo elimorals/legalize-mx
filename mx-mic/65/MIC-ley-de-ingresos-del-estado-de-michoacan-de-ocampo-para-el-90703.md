@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-ingresos-del-estado-de-michoacan-de-ocampo-para-el-90703
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2012-12-31"
-last_updated: "2012-12-31"
+last_updated: "2013-01-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90703&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MIC"
 ---
 # LEY DE INGRESOS DEL ESTADO DE MICHOACAN DE OCAMPO PARA EL EJERCICIO FISCAL DEL AÑO 2013
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE ENERO 2013 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE INGRESOS DEL ESTADO DE MICHOACÁN DE OCAMPO PARA EL EJERCICIO FISCAL DEL AÑO 2013
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 29 DE ENERO DE 2013.</small>
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el lunes 31 de diciembre de 2012.
 
@@ -51,13 +51,13 @@ LEY DE INGRESOS DEL ESTADO DE MICHOACÁN DE OCAMPO PARA EL EJERCICIO FISCAL DEL 
 
 ### CAPÍTULO ÚNICO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE ENERO 2013 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 1º.
 
 En el ejercicio fiscal del año 2013, el Gobierno del Estado de Michoacán de Ocampo, percibirá ingresos por un monto de $ 56,717'989,597.00 (Cincuenta y seis mil setecientos diecisiete millones, novecientos ochenta y nueve mil, quinientos noventa y siete pesos 00/100 M.N.) por los conceptos y en las cantidades estimadas y expresadas en pesos, que a continuación se señalan:
 
 > <small>N. DE E. VÉASE TABLA EN EL P.O. DE 31 DE DICIEMBRE DE 2012, PÁGINAS DE LA 2 A LA 8.</small>
+
+> <small>N. DE E. VÉASE FE DE ERRATAS A LA TABLA EN EL P.O. DE 29 DE ENERO DE 2013, PÁGINAS DE LA 3 A LA 4.</small>
 
 En los términos establecidos por los artículos 2°, 7° y 10 de la Ley de Deuda Pública del Estado de Michoacán de Ocampo, se autoriza al Titular del Poder Ejecutivo del Estado de Michoacán de Ocampo para que a través de la Secretaría de Finanzas y Administración del Gobierno del Estado, contrate una línea de crédito revolvente en cuenta corriente para cubrir necesidades transitorias de liquidez hasta por un monto de $ 650´000,000.00 (Seiscientos cincuenta millones de pesos 00/100, M.N.), que podrá ser destinado a gastos de operación, cumpliendo para tal efecto, con las formalidades que la propia Ley de Ingresos para el ejercicio fiscal 2013, debiendo ser cubierto dicho adeudo en el mismo ejercicio fiscal en que fue contratado. Por la naturaleza contingente del monto antes referido, no forma parte del monto de ingresos estimado en este artículo.
 
