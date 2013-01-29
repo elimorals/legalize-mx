@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-pesca-y-acuacultura-sustentables-para-el-estado-de-82750
 country: "mx"
 rank: "ley"
 publication_date: "2011-08-18"
-last_updated: "2011-08-18"
+last_updated: "2013-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82750&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE PESCA Y ACUACULTURA SUSTENTABLES PARA EL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2013.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el día jueves 18 del año 2011.
 
@@ -73,7 +73,9 @@ XI. Establecer el régimen de concesiones y permisos para la realización de act
 
 XII. Establecer las bases para el desarrollo e implementación de medidas de sanidad, inocuidad y calidad de los recursos pesqueros y acuícolas;
 
-XIII. Establecer, operar y mantener actualizado el Sistema Estatal de Información de Pesca y Acuacultura;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2013)</small>
+
+XIII. Establecer, operar y mantener actualizado el Sistema Estatal de Información de Pesca y Acuacultura, a través de las Unidades de Administración Pesquera y Acuícola;
 
 XIV. Establecer y convenir con las autoridades competentes, las bases para la realización de acciones de inspección y vigilancia en materia de pesca y acuacultura;
 
@@ -127,7 +129,9 @@ XV. Concesión: Al título que en ejercicio de sus facultades otorga la autorida
 
 XVI. Consejo: Consejo Estatal de Pesca y Acuacultura;
 
-XVII. Coordinación: A la Coordinación General de Investigación en Pesca y Acuacultura;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2013)</small>
+
+XVII. Coordinación: A la Coordinación General de Investigación en Pesca y Acuacultura (CGIPA);
 
 XVIII. Cuarentena: El tiempo que determine la autoridad competente para mantener en observación los organismos acuáticos y determinar su calidad sanitaria, mediante normas oficiales mexicanas u otras regulaciones que emita el Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria;
 
@@ -149,7 +153,7 @@ XXVI. Ordenamiento pesquero: Al Conjunto de instrumentos cuyo objeto es regular 
 
 XXVII. Permiso: Al documento que otorga la autoridad competente, a las personas físicas o morales para llevar a cabo las actividades de pesca y acuacultura que se señalan en la presente Ley;
 
-XXVIII. Pesca: Al acto de extraer, capturar o recolectar por cualquier método o procedimiento, especies biologicas, o elementos biogénicos cuyo medio de vida total, parcial o temporal, sea el agua;
+XXVIII. Pesca: Al acto de extraer, capturar o recolectar por cualquier método o procedimiento, especies biológicas, o elementos biogénicos cuyo medio de vida total, parcial o temporal, sea el agua;
 
 XXIX. Pesca comercial: La captura o extracción de recursos pesqueros que se efectúa con propósitos de beneficio económico;
 
@@ -183,9 +187,15 @@ XLIII. SENASICA: Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentar
 
 XLIV. SEPESCA: Secretaría de Pesca y Acuacultura, dependiente de la administración pública estatal;
 
-XLV. Unidad de manejo acuícola: Se integra con las áreas comprendidas en una zona delimitada, en la que se establece un conjunto de unidades de producción con una infraestructura básica y las instalaciones necesarias para su operación y funcionamiento compartido operada de forma común;
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2013)</small>
 
-XLVI. Veda: Es el acto administrativo por el que se prohíbe llevar a cabo la pesca en un periodo de tiempo o zona específica establecido mediante acuerdos o normas oficiales, con el fin de resguardar los procesos de reproducción y reclutamiento de una especie.
+XLV. UAPAS: Unidades de Administración Pesquera y Acuícola;
+
+XLVI. Unidad de manejo acuícola: Se integra con las áreas comprendidas en una zona delimitada, en la que se establece un conjunto de unidades de producción con una infraestructura básica y las instalaciones necesarias para su operación y funcionamiento compartido operada de forma común;
+
+(REPUBLICADA, P.O. 29 DE ENERO DE 2013)
+
+XLVII. Veda: Es el acto administrativo por el que se prohíbe llevar a cabo la pesca en un periodo de tiempo o zona específica establecido mediante acuerdos o normas oficiales, con el fin de resguardar los procesos de reproducción y reclutamiento de una especie.
 
 ###### Artículo 6.
 
@@ -213,7 +223,9 @@ l. Promover, fomentar y administrar el aprovechamiento y desarrollo de los recur
 
 II. Formular, promover, coordinar y ejecutar la política estatal en materia de pesca y acuacultura, así como los planes y programas que de ella se deriven;
 
-III. Formular y aplicar la Política Estatal de Pesca y Acuacultura Sustentables, así como elaborar sus planes y programas;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2013)</small>
+
+III. Establecer las medidas administrativas y de control a que deban sujetarse las actividades de pesca y acuacultura;
 
 IV. Concertar acuerdos y ejecutar programas de cooperación técnica en materia pesquera y acuícola con instituciones públicas y privadas locales, nacionales e internacionales en el ámbito de su competencia y en observancia a la legislación de la materia;
 
@@ -271,7 +283,9 @@ XXX. Promover entre los habitantes del Estado, el consumo de productos pesqueros
 
 XXXI. Fomentar la igualdad de oportunidades de la mujer en las actividades de pesca y acuacultura, así como su inclusión en los programas que a la SEPESCA le competa en su diseño y ejecución;
 
-XXXII. Promover la participación activa de las comunidades y los productores en la administración y manejo de los recursos pesqueros y acuícolas a través del Consejo Estatal de Pesca y Acuacultura;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2013)</small>
+
+XXXII. Promover la participación activa de las comunidades y los productores en la administración y manejo de los recursos pesqueros y acuícolas a través del Consejo Estatal de Pesca y Acuacultura y de los Consejos Municipales;
 
 XXXIII. Celebrar convenios o acuerdos de coordinación y colaboración con los ayuntamientos en los términos de la presente Ley, con el objeto de promover e impulsar el desarrollo del sector pesquero y acuícola en los municipios de la Entidad; y
 
@@ -349,9 +363,11 @@ Los municipios promoverán la integración de los Consejos Municipales de Pesca 
 
 Los ayuntamientos dictarán los reglamentos, circulares y disposiciones administrativas que correspondan para que en sus respectivas circunscripciones se cumpla con lo previsto en la presente Ley.
 
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2013)</small>
+
 ###### Artículo 16.
 
-Las contribuciones que por el aprovechamiento de los recursos pesqueros y acuícolas se generen, así como los que se obtengan por el otorgamiento de concesiones o permisos y por cualquier otro concepto relacionado con esta actividad y cuya administración se efectúe por el Estado, ingresarán a la hacienda pública, con base en lo señalado en la Ley de Coordinación Fiscal, y deberán aplicarse en los programas relacionados con el sector pesquero y acuícola.
+Las contribuciones que por el aprovechamiento de los recursos pesqueros y acuícolas se generen, así como los que se obtengan por el otorgamiento de permisos y por cualquier otro concepto relacionado con esta actividad y cuya administración se efectúe por el Estado, ingresarán a la hacienda pública, con base en lo señalado en la Ley de Ingresos, y deberán aplicarse en los programas relacionados con el sector pesquero y acuícola.
 
 ## TÍTULO TERCERO. DE LA POLÍTICA ESTATAL DE PESCA Y ACUACULTURA SUSTENTABLES
 
@@ -377,7 +393,9 @@ VII. El uso de artes y métodos de pesca selectivos y de menor impacto ambiental
 
 VIII. Con el fin de conservar y proteger los recursos pesqueros y los ecosistemas en los que se encuentran, las autoridades administrativas competentes en materia de pesca y acuacultura adoptarán el enfoque precautorio que incluya la definición de límites de captura y esfuerzo aplicables, así como la evaluación y monitoreo del impacto de la actividad pesquera sobre la sustentabilidad a largo plazo de las poblaciones;
 
-IX. Impulsar la transparencia en los procedimientos administrativos relativos al otorgamiento de concesiones y permisos para realizar actividades pesqueras y acuícolas, así como en las medidas para el control del esfuerzo pesquero, para que sean eficaces e incorporen mecanismos de control accesibles a los productores; y
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2013)</small>
+
+IX. Impulsar la transparencia en los procedimientos administrativos relativos al otorgamiento de permisos para realizar actividades pesqueras y acuícolas, así como en las medidas para el control del esfuerzo pesquero, para que sean eficaces e incorporen mecanismos de control accesibles a los productores; y
 
 X. La participación, consenso y compromisos de los productores y sus comunidades en la corresponsabilidad de aprovechar de forma integral y sustentable los recursos pesqueros y acuícolas.
 
@@ -481,6 +499,10 @@ j) Fortalecer acciones para la formación de capital humano que se vincule con o
 
 k) Favorecer la creación de figuras organizativas para la promoción y difusión comercial de los productos pesqueros y acuícolas en los mercados estatal, nacional e internacional.
 
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2013)</small>
+
+l) Establecer acciones conjuntas para el fortalecimiento de las redes de valor, en coordinación con los diversos comités sistema-producto pesqueros y acuícolas.
+
 IV. La SEPESCA implementará políticas de apoyo para la producción de especies acuícolas a los productores y acuacultores del sector social pesquero de la Entidad; y
 
 V. Promoverá el ordenamiento de la pesca y acuacultura y diseñará estructuras y mecanismos para el otorgamiento de créditos a sus beneficiarios y su capacitación, así como para instrumentar servicios de comercialización de productos, investigación y adaptación al cambio tecnológico.
@@ -539,9 +561,11 @@ En el caso de las aportaciones provenientes de los gobiernos municipales, estas 
 
 La Coordinación General de Investigación en Pesca y Acuacultura, será el área administrativa de la SEPESCA encargada de coordinar y orientar la investigación científica y tecnológica en esta materia, a través de los centros de investigación, universidades, colegios, escuelas e instituciones académicas relacionadas con las ciencias pesqueras y acuícolas, que deseen incorporarse y participar en la Red Estatal de Investigación Pesquera y Acuícola.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ENERO DE 2013)</small>
+
 ###### Artículo 29.
 
-El Coordinador será nombrado por el titular de la SEPESCA y tendrá, entre otras facultades que señale el reglamento de la presente Ley, las siguientes:
+El Coordinador será nombrado por el titular del Poder Ejecutivo y tendrá, entre otras facultades que señale el reglamento de la presente Ley, las siguientes:
 
 I. Convocar, integrar y coordinar a la Red Estatal de Investigación Pesquera y Acuícola;
 
@@ -723,7 +747,7 @@ El traslado por vía terrestre, marítima o aérea de productos pesqueros vivos,
 
 El trámite, los requisitos y la vigencia de los documentos para acreditar la legal procedencia de los productos pesqueros y acuícolas, se establecerán en el reglamento de la LGPAS.
 
-En el ejercicio de sus funciones, el SENASICA coadyuvará en la inspección y vigilancia del traslado de productos pesqueros vivos, frescos, enhielados o congelados provenientes de la pesca o la acuacultura, que se realice por vía terrestre, marítima o aérea en cualquier parte del territorio estatal.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 29 DE ENERO DE 2013)</small>
 
 ## TÍTULO NOVENO. DE LA ACUACULTURA
 
@@ -931,6 +955,14 @@ La SEPESCA integrará una Red de Información Acuícola, que concentrará la inf
 
 La SEPESCA formulará y ejercerá la política local de inspección y vigilancia pesquera y acuícola en el marco de los convenios que se celebren con la Federación y con la participación que corresponda a otras dependencias de la administración pública estatal y federal.
 
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2013)</small>
+
+La SEPESCA, en coordinación con la dependencia federal competente, y con la colaboración de los productores pesqueros y acuícolas, comunidades indígenas, gobiernos municipales y otras instituciones públicas formulará, operará y evaluará el Programa Integral de Inspección y Vigilancia Pesquera y Acuícola para el Combate a la Pesca Ilegal.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2013)</small>
+
+La SEPESCA dispondrá de los recursos humanos, técnicos, financieros y materiales necesarios para la ejecución de las acciones previstas en el programa y promoverá la participación de las demás dependencias y entidades de la administración pública estatal y de los ayuntamientos en términos de la distribución de competencias y de los acuerdos o convenios que para tal efecto se celebren.
+
 ###### Artículo 68.
 
 La SEPESCA, en apego al convenio que celebre con la Federación, formulará el Programa Integral de Inspección y Vigilancia para el Combate a la Pesca Ilegal, e instrumentará las acciones pertinentes de prevención y combate a la pesca ilegal.
@@ -1064,3 +1096,13 @@ Tlalixtac de Cabrera, Centro, Oax., a 16 de Agosto del 2011.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 C.P.A. JESÚS EMILIO MARTÍNEZ ÁLVAREZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO</small>
+
+P.O. 29 DE ENERO DE 2013.
+
+(El artículo Primero Transitorio fue observado por el titular del Poder Ejecutivo, de conformidad con el artículo 53, fracciones III y VI, y 79, fracción II, de la Constitución Política del Estado Libre y Soberano de Oaxaca, por oficio fechado el 22 de enero de 2013 y recibido en el Poder Legislativo con fecha 25 de enero de 2013).
+
+SEGUNDO: La instalación del Consejo Estatal de Pesca y Acuacultura se establecerá dentro de los 90 días siguientes a la entrada en vigor del presente Decreto.
+
+> <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.</small>
