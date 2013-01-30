@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-interior-de-la-comision-permanente-y-de-los-67381"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-01-14"
-last_updated: "2010-05-18"
+last_updated: "2013-01-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ROO"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION PERMANENTE Y DE LOS ORGANOS DE CONSULTA Y APOYO DEL COPLADE
 
-REGLAMENTO INTERIOR DE LA COMISION PERMANENTE Y DE LOS ORGANOS DE CONSULTA Y APOYO DEL COPLADE
+REGLAMENTO INTERIOR DE LA COMISIÓN PERMANENTE Y DE LOS ÓRGANOS DE CONSULTA Y APOYO DEL COPLADE DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MAYO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2013.
 
 Reglamento publicado en el Número 2 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 14 de enero de 2009.
 
@@ -79,7 +79,9 @@ X. SECRETARIO TÉCNICO. Al titular de la Dependencia o Entidad de la Administrac
 
 XI. SESIONES EXTRAORDINARIAS. Se realizaran en cualquier tiempo, para conocer los asuntos específicos que por su trascendencia y urgencia, a juicio de su Presidente o de la mitad más de uno de sus miembros deban deshogarse (sic). Se realizaran a solicitud de los Coordinadores Generales de los Subcomités;
 
-XII. SESIONES ORDINARIAS. Serán convocadas cada tres meses y serán agendadas por la Dirección General del COPLADE;
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2013)</small>
+
+XII. SESIONES ORDINARIAS. Serán convocadas cada cuatro meses y serán agendadas por la Dirección General del COPLADE;
 
 XIII. SUBCOMITÉS. Órganos Auxiliar del COPLADE, que se compone en Subcomités Sectoriales, Institucionales, Especiales y Regionales;
 
@@ -136,6 +138,20 @@ I (sic). Los Titulares de las comisiones donde participen los sectores público,
 X. Los particulares, organismos, instituciones y representantes del sector social y privado; y
 
 XI. Los demás que considere el Titular del Ejecutivo.
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2013)</small>
+
+###### ARTÍCULO 8
+
+BIS. El COPLADE contará, dentro de la Comisión Permanente, con 4 coordinadores generales de subcomités que representarán a los 4 ejes estratégicos que integran el Plan Estatal: Quintana Roo Solidario, Quintana Roo Competitivo, Quintana Roo Verde y Quintana Roo Fuerte y que tendrán las atribuciones siguientes:
+
+I. Asistir (sic) las sesiones de la Comisión Permanente del COPLADE;
+
+II. Supervisar y llevar el control y seguimiento de las acciones aprobadas y realizadas en los Subcomités Regionales, Sectoriales, Institucionales y Especiales del COPLADE;
+
+III. Emitir las observaciones que considere y que den a lugar respecto al seguimiento y aplicación de los Programas de Desarrollo de los Subcomités Regionales, Sectoriales, Institucionales y Especiales de la Comisión Permanente del COPLADE; y
+
+IV. Los demás que confiera el Presidente del COPLADE, el Decreto del COPLADE y del presente Reglamento.
 
 ###### ARTÍCULO 9.
 
@@ -197,9 +213,11 @@ VI.- Clausura de la sesión.
 
 ### CAPÍTULO V. DE LAS ACTAS DE LAS SESIONES
 
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2013)</small>
+
 ###### ARTÍCULO 15.
 
-De cada sesión se levantará el acta que será firmada por el Presidente o el Vicepresidente, el Director General, Coordinador del Órgano de Control y Evaluación del COPLADE y los Coordinadores de los Subcomités Sectoriales, Institucionales, Especiales y Regionales, se anexará la lista de asistencia y se consignará en el libro respectivo.
+De cada sesión se levantará el acta que será firmada por el Presidente o el Vicepresidente, el Director General, Coordinador del Órgano de Control y Evaluación del COPLADE, los Coordinadores Generales de Subcomités que representan los 4 ejes estratégicos del Plan Estatal de Desarrollo y los Coordinadores de los Subcomités Sectoriales, Institucionales, Especiales y Regionales, se anexará la lista de asistencia y se consignará en el libro respectivo.
 
 ### CAPÍTULO VI. DE LAS COMISIONES DE TRABAJO
 
@@ -289,6 +307,8 @@ III. Cumplir con los trabajos, funciones, comisiones y encargos que le confiera,
 
 Los Subcomités son Órganos Auxiliares permanentes del COPLADE en el proceso de planeación, en donde concurren representantes de los sectores público, social y privado, cuyos objetivos conlleven a acciones conjuntas y coordinadas y se clasifican en regionales, sectoriales, institucionales y especiales.
 
+(REUBICADO, P.O. 30 DE ENERO DE 2013)
+
 ###### ARTÍCULO 22.
 
 Los Subcomités Regionales, Sectoriales, Institucionales y Especiales serán creados por acuerdo del Presidente del COPLADE, quien definirá su ámbito de acción y atribuciones específicas, conforme a las exigencias del proceso de planeación para el desarrollo del Estado.
@@ -317,37 +337,63 @@ IV. Los demás que señale el acuerdo de creación del Subcomité.
 
 Los Subcomités Sectoriales se definen de acuerdo a la estructura administrativa y podrán ser de manera enunciativa más no limitativa:
 
-I. Financiamiento para el Desarrollo;
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2013)</small>
 
-II. Desarrollo Urbano, Vivienda y Medio Ambiente;
+I. Desarrollo Urbano y Vivienda;
+
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2013)</small>
+
+II. Desarrollo Social y Comunitario;
 
 III. Desarrollo Económico;
 
-IV. Desarrollo Social;
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2013)</small>
 
-V. Desarrollo Rural Sustentable;
+IV. Desarrollo Rural Competitivo;
 
-VI. Pesca y Acuacultura;
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2013)</small>
 
-VII. Infraestructura para el Desarrollo;
+V. Competitividad de la Pesca y la Acuacultura;
 
-VIII. Salud;
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2013)</small>
 
-IX. Educación;
+VI. Infraestructura Estratégica para la Competitividad;
 
-X. Seguridad y Justicia;
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2013)</small>
 
-XI. Turismo;
+VII. Salud para Todos;
 
-XII. Asistencia Social;
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2013)</small>
 
-XIII. Cultura;
+VIII. Educación con Resultados;
 
-XIV. Gobernabilidad; y
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2013)</small>
 
-XV. Modernización Administrativa.
+IX. Seguridad, Procuración de Justicia y Protección Civil;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE MAYO DE 2010)</small>
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2013)</small>
+
+X. Desarrollo Integral del Turismo;
+
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2013)</small>
+
+XI. Asistencia Social a Grupos Vulnerables;
+
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2013)</small>
+
+XII. Cultura e Identidad;
+
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2013)</small>
+
+XIII. Modernización Continua de la Administración Pública; y,
+
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2013)</small>
+
+XIV. Medio Ambiente y Recursos Naturales.
+
+XV. (DEROGADA, P.O. 30 DE ENERO DE 2013)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MAYO DE 2010)</small>
 
 ###### ARTÍCULO 26.
 
@@ -355,13 +401,19 @@ Los Subcomités Sectoriales se podrán integrar de la siguiente manera:
 
 I. Un Coordinador, que será designado por el Presidente del COPLADE;
 
-II. Un Secretario Técnico, que será el Titular de la Dependencia o Entidad de la Administración Pública Federal cuyas actividades se relacionen directamente con las del Subcomité;
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2013)</small>
+
+II. Un Secretario Técnico, que será el Titular de la Dependencia o Entidad de la Administración Pública Federal cuyas actividades se relacionen directamente con las del Subcomité; en caso de no existir de acuerdo a la naturaleza y objeto de la Dependencia o Entidad, se omitirá y sustituirá por quien designe el Coordinador del Subcomité;
 
 III. Un Coordinador Operativo, que será el responsable del área de planeación o área similar de la dependencia o entidad de la administración pública estatal, cuyas actividades se relacionen con el Subcomité Sectorial, nombrado por el coordinador de éste;
 
-IV. Los Titulares de las Dependencias y Entidades de la Administración Pública Estatal y Delegados Federales cuyas actividades se relacionen directamente con las del Subcomité;
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2013)</small>
 
-V. (DEROGADA, P.O. 18 DE MAYO DE 2010)
+IV. Los Titulares de las Dependencias y Entidades de la Administración Pública Estatal y Delegados Federales cuyas actividades se relacionen directamente con las del Subcomité; y (sic)
+
+> <small>(ADICIONADA, P.O. 30 DE ENERO DE 2013)</small>
+
+V. Los demás que confiera la Ley de Planeación para el Desarrollo del Estado, el Decreto del COPLADE y el Acuerdo de Creación del Subcomité.
 
 VI. (DEROGADA, P.O. 18 DE MAYO DE 2010)
 
@@ -379,19 +431,31 @@ BIS. A invitación expresa del Coordinador del Subcomité participarán, en las 
 
 Los Subcomités Institucionales podrán ser de manera enunciativa más no limitativa:
 
-I. Agua Potable;
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2013)</small>
 
-II. Empleo;
+I. Investigación Científica, Desarrollo Tecnológico e Innovación;
 
-III. Juventud;
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2013)</small>
 
-IV. Deporte;
+II. Infraestructura Hidráulica y Sanitaria;
 
-V. Equidad de Género;
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2013)</small>
 
-VI. Ciencia y Tecnología; y
+III. Información Geográfica y Estadística;
 
-VII. Población.
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2013)</small>
+
+IV. Deporte y Juventud;
+
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2013)</small>
+
+V. Igualdad entre Mujeres y Hombres; y,
+
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2013)</small>
+
+VI. Empleo y Formación de Capital Humano; (sic)
+
+VII. (DEROGADA, P.O. 30 DE ENERO DE 2013)
 
 ###### ARTÍCULO 28.
 
@@ -407,13 +471,25 @@ IV. Un representante de las Dependencias y Entidades de la Administración Públ
 
 V. Los representantes de las instituciones, organizaciones sociales y empresariales cuyas actividades se relacionen con las del Subcomité a invitación expresa del Coordinador; y
 
-VI. Los demás que señale el acuerdo de Creación del Subcomité.
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2013)</small>
+
+VI. Los demás que confiera la Ley de Planeación para el Desarrollo del Estado, el Decreto del COPLADE y el Acuerdo de Creación del Subcomité.
 
 ## TÍTULO DECIMO SEGUNDO. DE LOS SUBCOMITÉS ESPECIALES
 
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2013)</small>
+
+###### ARTÍCULO 28
+
+BIS. El Subcomité Especial podrá ser de manera enunciativa más no limitativa:
+
+I. Desarrollo de los Pueblos Indígenas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ENERO DE 2013)</small>
+
 ###### ARTÍCULO 29.
 
-Los Subcomités Especiales se podrán integrar de la siguiente manera:
+El Subcomité Especial se podrá integrar de la siguiente manera:
 
 I. Un Coordinador, que será designado por el Presidente del COPLADE;
 
@@ -423,7 +499,9 @@ III. Un representante de las Dependencias y Entidades de la Administración Púb
 
 IV. Los Representantes de las Instituciones, Organizaciones Sociales y Empresariales cuyas actividades se relacionen con las del Subcomité, a invitación expresa del Coordinador; y
 
-V. Los demás que señale el Acuerdo de Creación del Subcomité.
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2013)</small>
+
+V. Los demás que confiera la Ley de Planeación para el Desarrollo del Estado, el Decreto del COPLADE y el Acuerdo de Creación del Subcomité.
 
 ## TÍTULO DECIMO TERCERO
 
@@ -441,7 +519,9 @@ III. Elaborar el Programa Anual de Trabajo del Subcomité de acuerdo al Plan Est
 
 IV. Poner a consideración de la Comisión Permanente, las medidas que se estimen convenientes para mejorar el funcionamiento del Subcomité;
 
-V. Elaborar los instrumentos normativos que regulen su funcionamiento interno y someterlos a la consideración de la Junta Directiva a través de la Comisión Permanente del COPLADE para su autorización; y
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2013)</small>
+
+V. Elaborar los instrumentos normativos que regulen su funcionamiento interno, en apego a lo dispuesto en el Reglamento Interior de la Comisión Permanente y de los Órganos de Consulta y Apoyo del COPLADE y someterlos a la consideración de la Junta Directiva de la Dirección General del COPLADE para su autorización; y
 
 VI. Las demás que les señale el Acuerdo de Creación del Subcomité.
 
@@ -451,7 +531,9 @@ VI. Las demás que les señale el Acuerdo de Creación del Subcomité.
 
 Las Sesiones de los Subcomités Sectoriales, Especiales, Institucionales y Regionales podrán ser:
 
-I. Ordinarias, cada tres meses; o (sic)
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2013)</small>
+
+I. Ordinarias, cada cuatro meses; o (sic)
 
 > <small>(REFORMADA, P.O. 18 DE MAYO DE 2010)</small>
 
@@ -499,9 +581,11 @@ Las sesiones extraordinarias se ocuparán únicamente de los asuntos que estable
 
 ### CAPÍTULO VI. DE LAS ACTAS DE LA (SIC) SESIONES
 
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2013)</small>
+
 ###### ARTÍCULO 36.
 
-En toda Sesión de los Subcomités Sectoriales, Especiales, Institucionales y Regionales, se levantará el acta correspondiente que contenga los acuerdos y resoluciones tomados, documento que será firmado por el Coordinador General, el Secretario Técnico, el Coordinador Operativo, el Director General del COPLADE, el Titular de la Unidad de Control y Evaluación y consignado en el libro respectivo. Asimismo, se formulará una versión estenográfica que conservará el coordinador operativo y que estará a disposición de los miembros del Subcomité y de la Junta Directiva del COPLADE.
+En toda Sesión de los Subcomités Sectoriales, Especiales, Institucionales y Regionales, se levantará el acta correspondiente que contenga los acuerdos y resoluciones tomados, documento que será firmado por el Coordinador General, el Secretario Técnico, el Coordinador Operativo, el Director General del COPLADE, el Titular de la Unidad de Control y Evaluación, se anexará la lista de asistencia y se consignará en el libro respectivo. Asimismo, se formulará una versión estenográfica que conservará el coordinador operativo y que estará a disposición de los miembros del Subcomité y de la Junta Directiva del COPLADE.
 
 ###### ARTÍCULO 37.
 
@@ -707,10 +791,20 @@ C.P. JOSÉ ALBERTO ALONSO OVANDO
 
 ESTA HOJA DE FIRMAS PERTENECE AL DECRETO POR EL QUE SE PUBLICA EL REGLAMENTO INTERIOR DE LA COMISIÓN PERMANENTE Y DE LOS ÓRGANOS DE CONSULTA Y APOYO DEL COMITÉ DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE QUINTANA ROO, QUE SE ACUERDA EL DIA 20 DEL MES DE NOVIEMBRE DEL AÑO DOS MIL OCHO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 18 DE MAYO DE 2010.
 
 PRIMERO. La presente Reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a las previstas en la presente Reforma.
+
+P.O. 30 DE ENERO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Estas Reformas y Adiciones al Reglamento Interior de la Comisión Permanente y de los Órganos de Consulta y Apoyo del COPLADE entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones reglamentarias o administrativas de igual o menor jerarquía que se opongan a lo establecido en estas Reformas y Adiciones al Reglamento Interior de la Comisión Permanente y de los Órganos de Consulta y Apoyo del COPLADE.
