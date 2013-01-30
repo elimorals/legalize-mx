@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interior-de-la-comision-de-arbitraje-medico-del-3991
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-06-12"
-last_updated: "1999-06-12"
+last_updated: "2013-01-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39915&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "VER"
 
 REGLAMENTO INTERIOR DE LA COMISIÓN DE ARBITRAJE MÉDICO DEL ESTADO DE VERACRUZ
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COMISIÓN DE ARBITRAJE MÉDICO DEL ESTADO DE VERACRUZ, PUBLICADO EN LA G.O. DE 30 DE ENERO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: ABROGADO.
 
 Reglamento publicado en la Gaceta Oficial del Estado de Veracruz, el sábado 12 de junio de 1999.
 
@@ -502,3 +504,15 @@ Para el cumplimiento operativo de sus funciones, la Subdirección de Administrac
 En cumplimiento a lo dispuesto en el artículo 10º fracción II del Decreto de creación de la Comisión de Arbitraje Médico del estado de Veracruz, el Consejo en la sesión celebrada el veinte de abril de mil novecientos noventa y nueve, expide el presente Reglamento Interior y faculta a su Presidente a firmarlo.
 
 El presidente del Consejo de la Comisión de Arbitraje Médico del estado de Veracruz, doctor Manuel de Jesús Campa González.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 30 DE ENERO DE 2013.
+
+Primero. El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se abroga el Reglamento Interior del Organismo Público Desconcentrado de la Secretaría de Salud denominado Comisión de Arbitraje Médico del Estado de Veracruz, publicado en la Gaceta Oficial del estado el doce de junio de mil novecientos noventa y nueve.
+
+Tercero. Los procedimientos que el órgano desconcentrado de la Secretaría de Salud denominado Comisión de Arbitraje Médico del Estado de Veracruz lleve a cabo para la atención de quejas médicas que hasta la fecha de entrada en vigor de este Reglamento estén en curso, serán concluidos de manera definitiva por la CODAMEVER, de conformidad con las disposiciones que se encontraban vigentes al momento de iniciarse el procedimiento.
+
+Cuarto. Las funciones que cualquier ordenamiento encomiende al órgano desconcentrado Comisión de Arbitraje Médico del Estado de Veracruz, se entenderán atribuidas al organismo público descentralizado Comisión de Arbitraje Médico del Estado de Veracruz.
