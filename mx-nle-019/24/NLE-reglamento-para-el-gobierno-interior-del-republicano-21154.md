@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-gobierno-interior-del-republicano-21154"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-03-12"
-last_updated: "2012-10-29"
+last_updated: "2013-01-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21154&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "NLE"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL REPUBLICANO AYUNTAMIENTO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL REPUBLICANO AYUNTAMIENTO DE SAN PEDRO GARZA GARCÍA, NUEVO LEÓN, PUBLICADO EN EL P.O. 30 DE ENERO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 12 de marzo de 2001.
 
@@ -1164,3 +1166,23 @@ PRIMERO (SIC).- Las reformas al presente Reglamento entrará (sic) en vigor al d
 P.O. 29 DE OCTUBRE DE 2012.
 
 PRIMERO (SIC).- Las reformas al presente Reglamento entrará (sic) en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE ENERO DE 2013.
+
+PRIMERO:- El presente Reglamento entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO:- Se abroga el Reglamento para el Gobierno Interior del Republicano Ayuntamiento de San Pedro Garza García, Nuevo León, aprobado en Sesión de Cabildo de fecha 14 de febrero de 2001, publicado en fecha 12 de marzo de 2001 en el Periódico Oficial del Estado y sus posteriores reformas, así mismo, se derogan todas las disposiciones municipales que se opongan al presente Reglamento.
+
+TERCERO:- En tanto se reforman los correspondientes reglamentos, acuerdos, disposiciones administrativas y circulares de carácter general, manuales, políticas y lineamientos internos las referencias establecidas en ellos que se efectúen a favor de las comisiones que a continuación se enlistan se entenderán que se hacen referencia conforme a la siguiente tabla según sea el caso:
+
+REFERENCIA SE ENTENDERÁ QUE REFIERE A
+
+de Desarrollo Social de Desarrollo Social y Humano
+
+de Control Urbano de Desarrollo Sustentable
+
+de Transparencia de Contraloría y Transparencia Municipal
+
+de Cultura de Desarrollo Cultural
+
+Las facultades conferidas en los reglamentos, acuerdos, disposiciones administrativas y circulares de carácter general, manuales, políticas y lineamientos internos a la comisión de medio ambiente e imagen urbana se entenderán conferidas a la Comisión de Desarrollo Sustentable.
