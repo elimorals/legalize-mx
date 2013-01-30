@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-del-conalep-chiapas-17078"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-08-30"
-last_updated: "2000-08-30"
+last_updated: "2013-01-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17078&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 REGLAMENTO INTERIOR DEL CONALEP-CHIAPAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO PUBLICADO EN EL P.O. DE 30 DE ENERO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 30 de agosto de 2000.
 
@@ -700,3 +702,13 @@ EN CASO DE DUDA SOBRE LA INTERPRETACION DEL PRESENTE ORDENAMIENTO, EL DIRECTOR G
 DADO EN LA RESIDENCIA OFICIAL DEL PODER EJECUTIVO DEL ESTADO, EN LA CIUDAD DE TUXTLA GUTIERREZ, CHIAPAS A LOS QUINCE DIAS DEL MES DE JUNIO DEL DOS MIL.
 
 LIC. ROBERTO A. ALBORES GUILLEN.- GOBERNADOR DEL ESTADO.- LIC. JORGE MARIO LESCIEUR TALAVERA.- SECRETARIO DE GOBIERNO.- ING. M. EN C. PEDRO RENE BODEGAS VALERA.- SECRETARIO DE EDUCACION.- LIC. MARIA GUADALUPE MARTINEZ GUTIERREZ.- DIRECTORA GENERAL DEL CONALEP-CHIAPAS.- RUBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE ENERO DE 2013.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que tengan igual o menor jerarquía al presente Decreto, y que se opongan al mismo.
+
+Artículo Tercero.- En cumplimiento a lo previsto en el artículo 8° de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Decreto en el Periódico Oficial.
