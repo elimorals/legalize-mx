@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-organico-de-la-administracion-publica-del-71252"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-30"
-last_updated: "2013-01-18"
+last_updated: "2013-01-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO ORGÁNICO DE LA ADMINISTRACIÓN PÚBLICA DEL MUNICIPIO DE GUADALUPE, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 30 de noviembre de 2009.
 
@@ -1535,7 +1535,7 @@ Para el despacho de los asuntos de su competencia, el Director General Participa
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE NOVIEMBRE DE 2012)</small>
 
-### CAPÍTULO XVIII (SIC). DE LA DIRECCIÓN GENERAL DEL SISTEMA D.I.F. (DESARROLLO INTEGRAL DE LA FAMILIA)
+### CAPÍTULO XIX. DEL SISTEMA MUNICIPAL DE DESARROLLO INTEGRAL DE LA FAMILIA (D.I.F.)
 
 > <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
 
@@ -1605,9 +1605,7 @@ XV. Las demás que le señalen como de su competencia las leyes, reglamentos y o
 
 Para el despacho de los asuntos de su competencia, el Director General de Políticas de Seguridad Patrimonial y Tenencia de la Tierra, se auxiliará de las Coordinaciones, Jefaturas y demás personal que sea necesario.
 
-> <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE ENERO DE 2013)</small>
 
 ### CAPÍTULO XX. DE LA DIRECCIÓN GENERAL DE COMUNICACIÓN SOCIAL
 
@@ -1681,7 +1679,55 @@ XXII.- Formular el anteproyecto del presupuesto anual de la Dirección General d
 
 XXIII. Coordinar y vigilar el cumplimiento de las funciones de las Unidades Administrativas su cargo y del ejercicio de las mismas.
 
-XXIV Las demás que le señalen como de su competencia las leyes, reglamentos y otras disposiciones jurídicas vigentes, así como aquello que específicamente le encomiende el C. Presidente Municipal, informando oportunamente de las gestiones realizadas y resultados obtenidos.
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2013)</small>
+
+XXIV. Las demás que le señalen como de su competencia las leyes, reglamentos y otras disposiciones jurídicas vigentes, así como aquello que específicamente le encomiende el C Presidente Municipal y la Presidenta Honoraria del Sistema de Desarrollo Integral de la Familia, informándoles oportunamente de las gestiones realizadas y resultados obtenidos.
+
+> <small>(ADICIONADA, P.O. 30 DE ENERO DE 2013)</small>
+
+XXV. En el cumplimiento de sus funciones la Dirección General se coordinara con la Presidencia Honoraria del Sistema Municipal de Desarrollo Integral de la Familia.
+
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2013)</small>
+
+Para el despacho de los asuntos de su competencia el Director General del Sistema Municipal de Desarrollo Integral de la Familia-D.I.F., se auxiliara con las Coordinaciones, Jefaturas y demás personal que sea necesario.
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2013)</small>
+
+ARTÍCULO 28 BIS.- La Presidenta Honoraria del Sistema Municipal de Desarrollo Integral de la Familia, será designada directamente por el Presidente Municipal, no percibirá honorario o emolumento alguno, su misión es coordinar la participación ciudadana de carácter voluntaria, para brindar apoyo a los programas institucionales del municipio, en el fortalecimiento de la familia y de los valores sociales de la comunidad y el apoyo a los servicios y programas de atención a los grupos vulnerables.
+
+El voluntariado posee carácter universal e incluyente, su diversidad, así como los valores que lo sustentan son: el humanismo, el libre albedrío, la entrega y sensibilidad social, el compromiso y solidaridad con sus semejantes; la misión del voluntariado es tejer redes solidarias en la comunidad guadalupense a fin de involucrarlos en el apoyo y sostenimiento de la (sic) programas institucionales del sistema municipal de desarrollo integral de la familia cuyo objetivo es mejorar la calidad de vida de los guadalupenses
+
+La misión del voluntariado debe y se inspira en la convicción de que la voluntad y la vocación de servicio a los semejantes puede transformar el ritmo y la naturaleza de la incorporación al bienestar y calidad de vida a los estratos sociales más vulnerables, se sustenta en la convicción de que todos podemos contribuir con tiempo, energía y creatividad al fortalecimiento de la familia y de los valores sociales. El voluntariado constituye un enorme potencial de participación ciudadana en las acciones y políticas públicas del gobierno municipal. La Presidencia del Sistema Municipal del Desarrollo Integral de la Familia en el ejercicio de sus funciones le corresponde el despacho de los siguientes asuntos:
+
+I. Establecer las políticas asistenciales, sociales, fortalecimiento de la familia, valores y de beneficio comunitario en general que deberán seguir la Dirección General y Coordinaciones que conforman el Sistema Municipal para el Desarrollo Integral de la Familia;
+
+II. Vigilar que se lleven a cabo las acciones necesarias para el cumplimiento de los objetivos del Sistema en congruencia con las actividades asistenciales y de beneficio comunitario aplicable a la materia.
+
+III. Establecer los vínculos con las Autoridades educativas, sociales, privadas y gubernamentales en los tres niveles de Gobierno, para lograr su apoyo y colaboración, en sus respectivos ámbitos de competencia, para el cumplimiento de los fines del Sistema;
+
+IV. Integrar y coordinar un equipo de voluntariado que realice actividades de beneficencia y recaudación de recursos, para apoyar las necesidades de los programas municipales en la de atención a la población en situación vulnerable;
+
+V. Presidir las reuniones informativas y de planeación del Voluntariado Municipal, incentivando su labor.
+
+VI. Propiciar convenios de colaboración entre el Organismo y las dependencias federales, estatales y de otros municipios, así como con organizaciones no gubernamentales; con el objeto de sumar esfuerzos para otorgar mayores beneficios del sistema a la ciudadanía;
+
+VII. Asistir y ser el enlace municipal, a todos los eventos a que convoque el Sistema para el Desarrollo Integral de la Familia del Estado;
+
+VIII. Otorgar audiencia a la ciudadanía para atender y orientar la atención que el sistema municipal de desarrollo integral de la familia les brinda;
+
+IX. Promover ante Instituciones gubernamentales y no gubernamentales donaciones de sillas de ruedas, aparatos ortopédicos, medicamentos y otros, en beneficio de las personas atendidas por el Sistema;
+
+X. Supervisar y dar seguimiento en el municipio a las disposiciones establecidas por el Sistema para el Desarrollo Integral de la Familia del Estado;
+
+XI. Dar seguimiento al cumplimiento de los lineamientos establecidos por el DIF Nacional;
+
+XII. Coordinar con la Dirección los informes que se envían periódicamente al Sistema para el Desarrollo Integral de la Familia del Estado y al H. Ayuntamiento de Guadalupe;
+
+XIII. Establecer y mantener canales de comunicación con grupos y autoridades afines a la misión institucional;
+
+XIV. Las demás que expresamente le señalen otras disposiciones jurídicas o administrativas, o le encomienden el Presidente Municipal o la Presidencia del Sistema Estatal para el Desarrollo Integral de la Familia.
+
+Para el despacho de los asuntos de su competencia la Presidenta Honoraria del Sistema Municipal de Desarrollo Integral de la Familia (D.I.F.) se auxiliará del siguiente personal: Auxiliar del Voluntariado, Auxiliar de la Oficina Ejecutiva, Auxiliar de Relaciones Públicas; La Dirección General del Sistema Municipal de Desarrollo Integral de la Familia-DIF, y sus dependencias adscritas serán coadyuvantes en el cumplimiento de sus funciones.
 
 > <small>N. DE E. TEXTO OBTENIDO DE LA PÁGINA ELECTRÓNICA DEL P.O. http://www.nl.gob.mx</small>
 
@@ -1882,3 +1928,11 @@ SEGUNDO. Se abrogan todas las disposiciones, reglamentarias, circulares, acuerdo
 TERCERO. Instrúyase al C. Secretario de Administración, a la Secretaría de Finanzas y Tesorería Municipal y a la Secretaría de la Contraloría y Defensa Ciudadana, a efecto de que dispongan lo conducente en relación a los efectos de las presentes reformas al Reglamento Orgánico de la Administración Pública del Municipio de Guadalupe, Nuevo León.
 
 CUARTO. Instrúyase al C. Secretario del Ayuntamiento para que remita para su publicación, el presente Acuerdo, en el Periódico Oficial del Estado, en la Gaceta Municipal y en el Sitio Oficial de Internet del Municipio.
+
+P.O. 30 DE ENERO DE 2013.
+
+PRIMERO. Las presentes reformas al Reglamento Orgánico de la Administración Pública Municipal de Guadalupe, Nuevo León entrarán en vigor a partir de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se instruye al Secretario del Ayuntamiento y a la Secretaría de Contraloría y Defesa Ciudadana, a fin de que lleven a cabo la modificación en la estructura orgánica de la administración municipal Periodo Constitucional 2012-2015, en la cual se inserte la figura de Presidenta Honoraria del Sistema Municipal de Desarrollo Integral de la Familia y efectúe la publicación respectiva en el Periódico Oficial del Estado.
+
+TERCERO. En virtud de las presentes reformas al Reglamento Orgánico de la Administración Pública Municipal de Guadalupe, Nuevo León se instruya al Secretario del Ayuntamiento para que remita su publicación en el Periódico Oficial del Estado, en la Gaceta Municipal, y en el Sitio Oficial de Internet del Municipio.
