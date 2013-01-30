@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2012-12-27"
+last_updated: "2013-01-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-07-11"
 
 CÓDIGO PENAL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 27 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE ENERO DE 2013.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -476,11 +476,13 @@ ARTÍCULO 53 (Bienes susceptibles de decomiso). El decomiso consiste en la aplic
 
 Si son de uso lícito, se decomisarán sólo cuando el sujeto haya sido condenado por delito doloso; si pertenecen a un tercero, sólo se decomisarán cuando éste haya tenido conocimiento de su utilización para la comisión del delito y no lo denunció o no hizo cuanto estaba de su parte para impedirlo.
 
-> <small>(REFORMADO, G.O. 19 DE JULIO DE 2010)</small>
+> <small>(REFORMADO, G.O. 30 DE ENERO DE 2013)</small>
 
 ###### ARTÍCULO 54.
 
-(Destino de los bienes decomisados). La autoridad competente determinará el destino de los bienes que sean instrumento, objeto o producto del delito, y que sean decomisados, al pago de la reparación de los daños y perjuicios causados, al de la multa o en su defecto, según su utilidad, a los Fondos de Apoyo a la Procuración y Administración de Justicia, según corresponda.
+(Destino de los objetos asegurados o decomisados). La autoridad competente determinará el destino de los instrumentos, objetos o productos del delito, que se encuentren asegurados o decomisados, al pago de la reparación de los daños y perjuicios causados, al de la multa o en su defecto, según su utilidad, a los Fondos de Apoyo a la Procuración y Administración de Justicia, según corresponda.
+
+Respecto del aseguramiento de animales vivos, se canalizaran a lugares adecuados para su debido cuidado, siendo que en el caso de los animales domésticos, las asociaciones u organizaciones protectoras o dedicadas al cuidado de animales debidamente constituidas, podrán solicitar en cualquier momento al Ministerio Público o Juez correspondiente, su resguardo temporal y tendrán preferencia para obtener la posesión definitiva de los mismos por resolución judicial que así lo determine. Las personas que resulten responsables por el delito de maltrato o crueldad hacia los animales, perderán todo derecho sobre los animales que hayan tenido bajo su custodia o resguardo.
 
 > <small>(REFORMADO, G.O. 19 DE JULIO DE 2010)</small>
 
@@ -3624,13 +3626,31 @@ Los profesionistas, artistas o técnicos y sus auxiliares, serán responsables d
 
 Además de las sanciones fijadas para los delitos que resulten consumados, se les impondrá suspensión de un mes a dos años en el ejercicio de la profesión o definitiva en caso de reiteración y estarán obligados a la reparación del daño por sus propios actos y los de sus auxiliares, cuando éstos actúen de acuerdo con las instrucciones de aquellos.
 
-### CAPÍTULO ÚNICO. DELITOS ELECTORALES
+### CAPÍTULO IV. DELITOS COMETIDOS POR ACTOS DE MALTRATO O CRUELDAD EN CONTRA DE ANIMALES NO HUMANOS
+
+> <small>(ADICIONADO, G.O. 30 DE ENERO DE 2013)</small>
+
+ARTÍCULO 350 BIS. Al que intencionalmente realice actos de maltrato o crueldad en contra de cualquier especie animal no humana, causándole lesiones evidentes, sin que pongan en peligro la vida del animal, se le impondrá de seis meses a dos años de prisión y de cincuenta a cien días multa.
+
+Si las lesiones ponen en peligro la vida del animal no humano se incrementarán en una mitad las penas señaladas.
+
+Se entenderá para los efectos del presente título como animal, al organismo vivo, no humano, sensible, que no constituya plaga, que posee movilidad propia, y capacidad de respuesta a los estímulos del medio ambiente perteneciente a una especie domestica o silvestre. Los animales abandonados, o callejeros no serán considerados plaga.
+
+> <small>(ADICIONADO, G.O. 30 DE ENERO DE 2013)</small>
+
+ARTÍCULO 350 TER. Al que intencionalmente cometa actos de maltrato o crueldad en contra de cualquier especie animal no humana provocándole la muerte, se le impondrán de dos a cuatro años de prisión y de doscientos a cuatrocientos días multa, así como el aseguramiento de todos los animales que pudiera tener bajo su cuidado o resguardo, en términos de lo dispuesto por el artículo 54 de éste Código.
+
+En caso de que se haga uso de métodos que provoquen un grave sufrimiento al animal previo a su muerte, las penas se aumentarán en una mitad.
+
+Se entenderá por métodos que provocan un grave sufrimiento, todos aquellos que lleven a una muerte no inmediata y prolonguen la agonía del animal.
+
+Por actos de maltrato o crueldad y lo relativo a éste capítulo, se estará a lo dispuesto en la Ley de Protección a los Animales del Distrito Federal.
 
 ###### ARTÍCULO 323.
 
 Al que se atribuya públicamente el carácter de profesionista sin tener título profesional, u ofrezca o desempeñe públicamente sus servicios, sin tener autorización para ejercerla en términos de la legislación aplicable, se le impondrá de dos a seis años de prisión y de doscientos a quinientos días multa.
 
-### CAPÍTULO I. REBELIÓN
+### CAPÍTULO ÚNICO. DELITOS ELECTORALES
 
 ###### ARTÍCULO 326.
 
@@ -3642,9 +3662,7 @@ II. Simule la práctica de una intervención quirúrgica; o
 
 III. Sin autorización del paciente o de la persona que ante la imposibilidad o incapacidad de aquél pueda legítimamente otorgarla, salvo en casos de urgencia, realice una operación quirúrgica que por su naturaleza ponga en peligro la vida del enfermo o cause la pérdida de un miembro o afecte la integridad de una función vital.
 
-### CAPÍTULO II. ATAQUES A LA PAZ PÚBLICA
-
-> <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 2012)</small>
+### CAPÍTULO I. REBELIÓN
 
 ###### ARTÍCULO 327.
 
@@ -3658,7 +3676,9 @@ III. Retarden o nieguen la entrega de un cadáver, excepto cuando se requiera or
 
 La misma sanción se impondrá a los directores, encargados, administradores o empleados de agencias funerarias que retarden o nieguen indebidamente la entrega de un cadáver.
 
-### CAPÍTULO III. SABOTAJE
+### CAPÍTULO II. ATAQUES A LA PAZ PÚBLICA
+
+> <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 328.
 
@@ -3670,11 +3690,11 @@ A los encargados, empleados o dependientes de una farmacia, que al surtir una re
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 29 DE ENERO DE 2004)</small>
 
-### CAPÍTULO IV. MOTÍN
+### CAPÍTULO III. SABOTAJE
 
 ## TÍTULO VIGÉSIMO TERCERO. DELITOS CONTRA LA SEGURIDAD Y EL NORMAL FUNCIONAMIENTO DE LAS VÍAS DE COMUNICACIÓN Y DE LOS MEDIOS DE TRANSPORTE
 
-### CAPÍTULO V. SEDICIÓN
+### CAPÍTULO IV. MOTÍN
 
 ###### ARTÍCULO 330.
 
@@ -3693,6 +3713,8 @@ Si el medio de transporte a que se refiere este artículo estuviere ocupado por 
 Si alguno de los hechos a que se refiere este artículo, se ejecuta por medio de violencia, la pena se aumentará en dos tercios.
 
 Estas sanciones se impondrán con independencia de las que procedan si se ocasiona algún otro ilícito.
+
+### CAPÍTULO V. SEDICIÓN
 
 ###### ARTÍCULO 332.
 
@@ -3802,9 +3824,9 @@ V. Al perito traductor o paleógrafo que plasme hechos falsos o altere la verdad
 
 Se impondrán de uno a tres años de prisión y de cincuenta a mil días multa al que, para obtener un beneficio o causar un daño, indebidamente produzca o edite, por cualquier medio técnico, imágenes, textos o voces, total o parcialmente falsos o verdaderas.
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.O. 13 DE ENERO DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 30 DE ENERO DE 2013)</small>
 
-## TÍTULO VIGÉSIMO QUINTO. DELITOS CONTRA EL AMBIENTE Y LA GESTIÓN AMBIENTAL
+## TÍTULO VIGÉSIMO QUINTO. DELITOS CONTRA EL AMBIENTE, LA GESTIÓN AMBIENTAL Y LA PROTECCIÓN A LA FAUNA
 
 > <small>(REFORMADA SU NUMERACIÓN Y DENOMINACIÓN, G.O. 13 DE ENERO DE 2004)</small>
 
@@ -4105,6 +4127,8 @@ ARTÍCULO 349 TER. En caso de concurso de delitos, en lo referente a la reparaci
 ###### ARTÍCULO 350.
 
 Cuando en la comisión de un delito previsto en este título, intervenga un servidor público en ejercicio, con motivo de sus funciones o aprovechándose de su calidad de servidor, la pena de prisión se aumentará en una mitad y se le inhabilitará para ocupar cargo, empleo o comisión, en los términos del artículo 258 de este Código.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 30 DE ENERO DE 2013)</small>
 
 ## TÍTULO VIGÉSIMO SEXTO. DELITOS CONTRA LA DEMOCRACIA ELECTORAL
 
@@ -4795,3 +4819,9 @@ PRIMERO. Túrnese el presente Decreto al Jefe de Gobierno para efectos de su pro
 SEGUNDO. Publíquese en la Gaceta Oficial del Distrito Federal, y para su mayor difusión, en el Diario Oficial de la Federación.
 
 TERCERO. El presente Decreto entrará en vigor y surtirá efectos el mismo día de su publicación.
+
+G.O. 30 DE ENERO DE 2013.
+
+PRIMERO. Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Gobierno del Distrito Federal.
