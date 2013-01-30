@@ -4,7 +4,7 @@ identifier: "VER-reglamento-de-procedimientos-para-la-atencion-de-quejas-33483"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-08-12"
-last_updated: "2003-08-12"
+last_updated: "2013-01-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33483&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "VER"
 
 REGLAMENTO DE PROCEDIMIENTOS PARA LA ATENCIÓN DE QUEJAS MÉDICAS Y GESTIÓN PERICIAL DE LA COMISIÓN DE ARBITRAJE MÉDICO DEL ESTADO DE VERACRUZ
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO DE PROCEDIMIENTOS PARA LA ATENCIÓN DE QUEJAS MÉDICAS Y GESTIÓN PERICIAL, PUBLICADO EN LA G.O. DE 30 DE ENERO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: ABROGADO.
 
 Reglamento publicado en la Gaceta Oficial del Estado de Veracruz, el martes 12 de agosto de 2003.
 
@@ -870,3 +872,13 @@ SEGUNDO. Los asuntos en trámite arbitral se resolverán con arreglo a las cláu
 TERCERO. Se abroga el Reglamento de Procedimientos para la Atención de Quejas de la Comisión de Arbitraje Médico del Estado de Veracruz, expedido por su Consejo en la Sesión Ordinaria, celebrada el siete de junio de mil novecientos noventa y nueve, y publicado en la Gaceta Oficial del estado el veintiuno de agosto de mil novecientos noventa y nueve.
 
 De conformidad con lo dispuesto por el artículo 10 fracción III del Decreto por el que se crea la Comisión de Arbitraje Médico del Estado de Veracruz, el Consejo de la Comisión, en su Décima Octava Sesión Ordinaria, celebrada en la ciudad de Veracruz, Veracruz, el siete de Julio de dos mil tres, expidió el presente Reglamento de Procedimientos para la Atención de Quejas Médicas y Gestión Pericial, instruyendo al Secretario Técnico para que se publique en la Gaceta Oficial del estado. El presidente del Consejo de la Comisión de Arbitraje Médico del Estado de Veracruz, Manuel de Jesús Campa González.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 30 DE ENERO DE 2013.
+
+Primero. El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Los asuntos en trámite arbitral se resolverán con arreglo a las cláusulas compromisorias y los compromisos arbítrales otorgados previamente por las partes. En el evento que la naturaleza del procedimiento arbitral lo permita, dado el avance de su tramitación, las partes podrán acordar que las diligencias pendientes se sujeten a lo previsto en el presente Reglamento.
+
+Tercero. Se abroga el Reglamento de Procedimientos para la Atención de Quejas y Gestión Pericial del Órgano Desconcentrado de los Servicios de Salud de Veracruz denominado Comisión de Arbitraje Médico del Estado de Veracruz, expedido por su Consejo en la Sesión Ordinaria, celebrada el siete de julio de dos mil tres, y publicado en la Gaceta Oficial del estado el doce de agosto de dos mil tres.
