@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-policia-y-buen-gobierno-de-ciudad-guadalupe-7899"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-11-15"
-last_updated: "2011-11-30"
+last_updated: "2013-01-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7899&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DE POLICÍA Y BUEN GOBIERNO DEL MUNICIPIO DE CIUDAD GUADALUPE, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 15 de noviembre de 1995.
 
@@ -109,7 +109,7 @@ DISPOSICIONES GENERALES.
 
 El presente Reglamento, es de interés público y observancia general para toda persona que habite o transite en este Municipio. Se expide con fundamento en el Artículo 115 Fracción II de la Constitución Política de los Estados Unidos Mexicanos; en el Artículo 131 de la Constitución Política del Estado de Nuevo León; y en los Artículos 160, 161, 162, 163, 166, 167 y demás relativos de la Ley Orgánica de la Administración Pública Municipal del Estado de Nuevo León.
 
-> <small>(REFORMADO P.O. 30 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTICULO 2.
 
@@ -529,6 +529,10 @@ VII.- Quien organice peleas de animales sin contar con el permiso de la autorida
 
 A quienes cometan esta infracción, independientemente de las sanciones a que se hagan acreedores, se les decomisará los animales de que se trate, mismos que sean puestos a disposición de la autoridad o instituciones correspondientes.
 
+> <small>(ADICIONADA, P.O. 30 DE ENERO DE 2013)</small>
+
+VIII.- Alterar de la tranquilidad de la convivencia de los vecinos, originada por la emisión de ruido, provocado, emitido o derivado de una conducta individual, de reuniones o convivencias que alteren el orden y paz pública.
+
 ### CAPITULO 8
 
 DE LAS INFRACCIONES A LA MORAL Y A LAS BUENAS COSTUMBRES.
@@ -792,6 +796,30 @@ I.- Amonestación.
 II.- Multa.
 
 III.- Arresto hasta por 36 horas.
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2013)</small>
+
+Las sanciones aplicables a la falta administrativa establecida en el artículo 14 Fracción VIII, una vez recibida la queja del o de los vecinos, serán las siguientes:
+
+I.- Entrega de un acta en la que conste la sanción de amonestación escrita y apercibimiento para que acate la normatividad;
+
+De no acatar, el ordenamiento municipal y reincidir en su conducta se procederá a:
+
+II.- Entrega de citatorio comunicando la notificación de la imposición de una sanción, cuyo monto determinará e impondrá el Juez Calificador bajo los siguientes criterios.
+
+HORARIO EN LA QUE SE MONTO DE SANCIÓN EN
+
+APLICA LA COMISIÓN DE SALARIOS MÍNIMOS
+
+LA FALTA ADMINISTRATIVA VIGENTE EN LA ZONA
+
+De 12:00 a 1:00 am De 5 a 10 cuotas
+
+De 1:00 a 5:00 am De 25 a 50 cuotas
+
+En todo caso la sanción impuesta, podrá ser conmutada a través de la mediación y los métodos alternos de solución pacífica de los conflictos.
+
+III.- Aplicación de medios de apremio
 
 ###### ARTICULO 32.
 
@@ -1108,3 +1136,17 @@ P.O. 30 DE NOVIEMBRE DE 2011.
 PRIMERO.- La presente reforma por adición y modificación del texto a diversos artículos al Reglamento de Policía y Buen Gobierno del Municipio de Ciudad Guadalupe, Nuevo León, entrarán en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 SEGUNDO.- Se derogan todas las disposiciones, reglamentarias, circulares, acuerdos y normas que contravengan al contenido de la presente reforma.
+
+P.O. 30 DE ENERO DE 2013.
+
+PRIMERO.- Las reformas por modificación y adición al articulado al Reglamento de Policía y Buen Gobierno del Municipio de Ciudad Guadalupe Nuevo León, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO.- Se abrogan todas las disposiciones, reglamentarias, circulares, acuerdos y normas que contravengan al contenido de las presentes reformas por modificación y adición al Reglamento de Policía y Buen Gobierno del Municipio de Ciudad Guadalupe, Nuevo León.
+
+Afín (sic) de implementar el presente acuerdo:
+
+Instrúyase a la Dirección General de Comunicación Social, a efecto de que inicie una campaña de amplia difusión en la comunidad guadalupense, concientizando e informado (sic) del contenido de la disposición y sensibilizando a la ciudadanía de la bondad del fortalecimiento de la convivencia vecinal derivada de la normatividad municipal aprobada
+
+Instrúyase a la Dirección Jurídica para que en coordinación con la Secretaría de Seguridad Pública, se avoquen a implementar los formatos y mecanismos requeridos del procedimiento, así mismo se proceda a la capacitación de los elementos policiacos.
+
+Instrúyase al C. Secretario del Ayuntamiento para que remita a su publicación el presente Acuerdo en el Periódico Oficial del Estado, en la Gaceta Municipal y en el Sitio Oficial de Internet del Municipio.
