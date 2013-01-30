@@ -4,7 +4,7 @@ identifier: "FED-lineamientos-para-integrar-los-rangos-correspondientes-a-76882"
 country: "mx"
 rank: "lineamientos"
 publication_date: "2010-10-08"
-last_updated: "2010-10-08"
+last_updated: "2013-01-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76882&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2010-09-14"
 
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL POR EL QUE SE APRUEBAN LOS LINEAMIENTOS PARA INTEGRAR LOS RANGOS CORRESPONDIENTES A LOS CUERPOS DE LA FUNCIÓN DIRECTIVA Y EL DE TÉCNICOS, Y ESTABLECER EL PROCEDIMIENTO PARA OTORGAR PROMOCIONES EN RANGO A LOS MIEMBROS DEL SERVICIO PROFESIONAL ELECTORAL.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE ENERO DE 2013.
 
 Acuerdo publicado en el Diario Oficial de la Federación, número 6 del viernes 8 de octubre de 2012.
 
@@ -157,9 +157,11 @@ III. Señalar los requisitos que debe reunir el personal de carrera para aspirar
 
 IV. Regular el procedimiento para otorgar promociones en rango a los miembros titulares del Servicio Profesional Electoral, que derive de la aplicación del Estatuto vigente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE ENERO DE 2013)</small>
+
 ###### Artículo 2.
 
-Para efectos de este ordenamiento se entiende por:
+Para los efectos de este ordenamiento se entiende por:
 
 Actualización: Actualización Permanente.
 
@@ -190,6 +192,10 @@ Junta: Junta General Ejecutiva.
 Lineamientos: Lineamientos para integrar los rangos correspondientes a los Cuerpos de la Función Directiva y el de Técnicos, y establecer el procedimiento para otorgar promociones en rango a los miembros del Servicio Profesional Electoral.
 
 Miembro del Servicio o personal de carrera: Aquél que ha ingresado al Servicio Profesional Electoral y obtuvo un nombramiento provisional o titular y ocupa en forma exclusiva un cargo o puesto del Servicio Profesional Electoral.
+
+> <small>(ADICIONADO, D.O.F. 30 DE ENERO DE 2013)</small>
+
+Miembro titular del cargo: Miembro del Servicio Profesional Electoral con titularidad en un cargo incluido en el Catálogo de Cargos y Puestos del Servicio Profesional Electoral.
 
 Nombramiento provisional: Documento expedido por el Secretario Ejecutivo del Instituto, previo acuerdo que al efecto apruebe la Junta, a favor de una persona en un cargo o puesto que haya ingresado al Servicio Profesional Electoral con motivo de haber ganado el concurso público de oposición, y al personal del Instituto que haya ingresado mediante el procedimiento de cursos y prácticas. El nombramiento conserva su vigencia hasta la emisión del acuerdo de la Junta que les otorgue la titularidad, en los términos del Estatuto.
 
@@ -389,7 +395,9 @@ II. El otorgamiento de la promoción en rango, a partir de la obtención del Ran
 
 III. No se le otorgará la promoción en rango al miembro titular del Servicio que haya sido sancionado con suspensión de diez o más días, durante el ejercicio valorado.
 
-IV. Tratándose de un miembro titular del Servicio sujeto a un procedimiento disciplinario durante el ejercicio valorable y haya acudido a la convocatoria, el eventual otorgamiento de la promoción en rango estará condicionado a que la resolución definitiva sea absolutoria o que la sanción impuesta no haya sido igual o mayor a diez días de suspensión. Concluido lo anterior, será necesario que el interesado presente, ante la DESPE, la solicitud respectiva para que se reponga el procedimiento de conformidad con estos Lineamientos.
+> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2013)</small>
+
+IV. Tratándose de un miembro titular del Servicio sujeto a un procedimiento disciplinario durante el ejercicio valorable, el eventual otorgamiento de la promoción en rango estará condicionado a que la resolución definitiva sea absolutoria o que la sanción impuesta no haya sido igual o mayor a diez días de suspensión. Concluido lo anterior, será necesario que el interesado presente, ante la DESPE, la solicitud respectiva para que se reponga el procedimiento de conformidad con estos Lineamientos.
 
 V. Cuando el miembro titular del Servicio haya presentado inconformidad por los resultados obtenidos en la evaluación del desempeño del ejercicio valorado, y resulte en su beneficio, la DESPE repondrá el procedimiento, sin que sea necesario que medie solicitud expresa del interesado, para determinar si obtendrá o no la promoción.
 
@@ -397,9 +405,7 @@ VI. De acuerdo con la previsión presupuestal, la Junta, a propuesta de la DESPE
 
 VII. La máxima publicidad orientará el procedimiento para el otorgamiento de promociones en rango de los Cuerpos del Servicio.
 
-VIII. Las promociones en rango serán independientes del ascenso del personal de carrera al obtener un cargo o puesto superior en la estructura orgánica del Servicio mediante el concurso público
-
-de oposición.
+VIII. Las promociones en rango serán independientes del ascenso del personal de carrera al obtener un cargo o puesto superior en la estructura orgánica del Servicio mediante el concurso público de oposición.
 
 IX. Las promociones en rango serán independientes de los incentivos.
 
@@ -419,7 +425,13 @@ IV. Para quienes ocupen cargos distintos al de Vocal Ejecutivo, haber participad
 
 V. Haber concluido la fase especializada del Programa de Formación con un promedio igual o superior a ocho, en una escala de cero a diez, y
 
-VI. Tener un promedio general igual o superior a nueve, en una escala de cero a diez, en las evaluaciones del desempeño realizadas en el período que va del ejercicio posterior a la obtención de la titularidad hasta la postulación para obtener una promoción y ubicarse en el 25 por ciento superior de los miembros titulares del cargo evaluados en cada una de las dos últimas evaluaciones del desempeño inmediatas anteriores a la postulación para obtener una promoción.
+> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2013)</small>
+
+VI. Tener un promedio general igual o superior a nueve, en una escala de cero a diez, en las evaluaciones del desempeño realizadas en el período que va del ejercicio posterior a la obtención de la titularidad hasta la postulación para obtener una promoción, y
+
+> <small>(ADICIONADA, D.O.F. 30 DE ENERO DE 2013)</small>
+
+VII. Ubicarse en el 25 por ciento superior de los miembros titulares del cargo, evaluados en cada una de las dos últimas evaluaciones del desempeño inmediatas anteriores a la postulación para obtener una promoción.
 
 ###### Artículo 22.
 
@@ -433,7 +445,13 @@ III. Para quienes ocupen cargos distintos al de Vocal Ejecutivo, haber participa
 
 IV. Tener un promedio general igual o superior a ocho, en una escala de cero a diez, en la Actualización, y
 
-V. Tener un promedio general igual o superior a nueve, en una escala de cero a diez, en las evaluaciones del desempeño realizadas en el tiempo que se haya permanecido en el Rango "C" y ubicarse en el 25 por ciento superior de los miembros titulares del cargo evaluados en cada una de las dos últimas evaluaciones del desempeño inmediatas anteriores a la postulación para obtener una promoción.
+> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2013)</small>
+
+V. Tener un promedio general igual o superior a nueve, en una escala de cero a diez, en las evaluaciones del desempeño realizadas en el tiempo que se haya permanecido en el rango “C”, y
+
+> <small>(ADICIONADA, D.O.F. 30 DE ENERO DE 2013)</small>
+
+VI. Ubicarse en el 25 por ciento superior de los miembros titulares del cargo, evaluados en cada una de las dos últimas evaluaciones del desempeño inmediatas anteriores a la postulación para obtener una promoción.
 
 ###### Artículo 23.
 
@@ -447,7 +465,13 @@ III. Para quienes ocupen cargos distintos al de Vocal Ejecutivo, haber participa
 
 IV. Tener un promedio general igual o superior a ocho, en una escala de cero a diez, en la Actualización, y
 
-V. Tener un promedio general igual o superior a nueve, en una escala de cero a diez, en las evaluaciones del desempeño realizadas en el tiempo que se haya permanecido en el Rango "B" y ubicarse en el 25 por ciento superior de los miembros titulares del cargo evaluados en cada una de las dos últimas evaluaciones del desempeño inmediatas anteriores a la postulación para obtener una promoción.
+> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2013)</small>
+
+V. Tener un promedio general igual o superior a nueve, en una escala de cero a diez, en las evaluaciones del desempeño realizadas en el tiempo que se haya permanecido en el Rango “B”, y
+
+> <small>(ADICIONADA, D.O.F. 30 DE ENERO DE 2013)</small>
+
+VI. Ubicarse en el 25 por ciento superior de los miembros titulares del cargo, evaluados en cada una de las dos últimas evaluaciones del desempeño inmediatas anteriores a la postulación para obtener una promoción.
 
 ###### Artículo 24.
 
@@ -459,7 +483,13 @@ II. Haber participado, cuando menos, en un proceso electoral federal como miembr
 
 III. Haber concluido la fase especializada del Programa de Formación con un promedio igual o superior a ocho, en una escala de cero a diez, y
 
-IV. Tener un promedio general igual o superior a nueve, en una escala de cero a diez, en las evaluaciones del desempeño realizadas en el periodo que va del ejercicio posterior a la obtención de la titularidad hasta la postulación para obtener una promoción y ubicarse en el 25 por ciento superior de los miembros titulares del puesto evaluados en cada una de las dos últimas evaluaciones del desempeño inmediatas anteriores a la postulación para obtener una promoción.
+> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2013)</small>
+
+IV. Tener un promedio general igual o superior a nueve, en una escala de cero a diez, en las evaluaciones del desempeño realizadas en el período que va del ejercicio posterior a la obtención de la titularidad hasta la postulación para obtener una promoción, y
+
+> <small>(ADICIONADA, D.O.F. 30 DE ENERO DE 2013)</small>
+
+V. Ubicarse en el 25 por ciento superior de los miembros titulares del puesto, evaluados en cada una de las dos últimas evaluaciones del desempeño inmediatas anteriores a la postulación para obtener una promoción.
 
 ###### Artículo 25.
 
@@ -471,7 +501,13 @@ II. Haber participado, al menos, en un proceso electoral federal en el tiempo qu
 
 III. Tener un promedio general igual o superior a ocho, en una escala de cero a diez, en la Actualización, y
 
-IV. Tener un promedio general igual o superior a nueve, en una escala de cero a diez, en las evaluaciones del desempeño realizadas en el tiempo que se haya permanecido en el Rango "C" y ubicarse en el 25 por ciento superior de los miembros titulares del puesto evaluados en cada una de las dos últimas evaluaciones del desempeño inmediatas anteriores a la postulación para obtener una promoción.
+> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2013)</small>
+
+IV. Tener un promedio general igual o superior a nueve, en una escala de cero a diez, en las evaluaciones del desempeño realizadas en el tiempo que se haya permanecido en el Rango “C”, y
+
+> <small>(ADICIONADA, D.O.F. 30 DE ENERO DE 2013)</small>
+
+V. Ubicarse en el 25 por ciento superior de los miembros titulares del puesto, evaluados en cada una de las dos últimas evaluaciones del desempeño inmediatas anteriores a la postulación para obtener una promoción.
 
 ###### Artículo 26.
 
@@ -483,7 +519,13 @@ II. Haber participado, al menos, en un proceso electoral federal, en el tiempo q
 
 III. Tener un promedio general igual o superior a ocho, en una escala de cero a diez, en la Actualización, y
 
-IV. Tener un promedio general igual o superior a nueve, en una escala de cero a diez, en las evaluaciones del desempeño realizadas en el tiempo que se haya permanecido en el Rango "B" y ubicarse en el 25 por ciento superior de los miembros titulares del puesto evaluados en cada una de las dos últimas evaluaciones del desempeño inmediatas anteriores a la postulación para obtener una promoción.
+> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2013)</small>
+
+IV. Tener un promedio general igual o superior a nueve, en una escala de cero a diez, en las evaluaciones del desempeño realizadas en el tiempo que se haya permanecido en el Rango “B”, y
+
+> <small>(ADICIONADA, D.O.F. 30 DE ENERO DE 2013)</small>
+
+V. Ubicarse en el 25 por ciento superior de los miembros titulares del puesto, evaluados en cada una de las dos últimas evaluaciones del desempeño inmediatas anteriores a la postulación para obtener una promoción.
 
 ###### Artículo 27.
 
@@ -505,21 +547,25 @@ V. Sanciones aplicadas.
 
 ### Capítulo Tercero. Del procedimiento
 
+> <small>(REFORMADO, D.O.F. 30 DE ENERO DE 2013)</small>
+
 ###### Artículo 29.
 
-Dentro del primer trimestre del año siguiente al ejercicio valorado, la Junta emitirá la convocatoria para que los miembros titulares del Servicio participen en la promoción, estableciendo a propuesta de la DESPE y previa opinión de la Comisión del Servicio, el número máximo de promociones a otorgar en cada uno de los rangos que integran cada uno de los Cuerpos del Servicio, con base en un estudio elaborado conjuntamente por la DESPE y la Dirección Ejecutiva de Administración del estimado de miembros del Servicio que cumplan con los requisitos señalados en el Capítulo Segundo del Título Tercero de los presentes Lineamientos y del impacto presupuestal. Dicha convocatoria contendrá al menos los elementos siguientes:
+La Junta General Ejecutiva emitirá la convocatoria dos meses después de que haya sido aprobado el Dictamen de la Evaluación del Desempeño, para que los miembros titulares del Servicio inscritos en este modelo participen en la promoción.
 
-I. Los plazos para el registro de aspirantes a obtener la promoción, y
+En dicha convocatoria la Junta establecerá, a propuesta de la DESPE y previa opinión de la Comisión del Servicio, el número máximo de promociones a otorgar en cada uno de los rangos que integran cada uno de los Cuerpos del Servicio, con base en un estudio elaborado conjuntamente por la DESPE y la Dirección Ejecutiva de Administración para estimar el número máximo de miembros del Servicio que cumplan con los requisitos señalados en el Capítulo Segundo del Título Tercero de los presentes Lineamientos y del impacto presupuestal.
 
-II. Las bases para el desarrollo del procedimiento.
+Dicho número máximo se podrá incrementar si se considera que los datos o resultados de los funcionarios sufran modificaciones, cambio de estatus o ajustes que provoquen que un número mayor de funcionarios de carrera cumpla con los requisitos, de manera posterior a la publicación de la convocatoria.
 
 ###### Artículo 30.
 
 El número de promociones a otorgar anualmente sólo podrá incrementarse con motivo de la reposición señalada en los artículos 48 y 49 de estos Lineamientos, sin demérito de la cantidad disponible de promociones contemplada en la convocatoria.
 
+> <small>(REFORMADO, D.O.F. 30 DE ENERO DE 2013)</small>
+
 ###### Artículo 31.
 
-Los miembros titulares del Servicio interesados en participar en el procedimiento para obtener una promoción deberán registrarse en los plazos y términos que disponga la convocatoria emitida por la Junta.
+Para participar en el otorgamiento de promociones en rango la DESPE, tomará en consideración a todos los MSPE que estén inscritos en el modelo que deriva del Estatuto publicado en el Diario Oficial de la Federación el 15 de enero de 2010, sin necesidad de que medie solicitud del interesado.
 
 ###### Artículo 32.
 
@@ -541,13 +587,17 @@ Por cada uno de los rangos que integran los Cuerpos del Servicio, la DESPE elabo
 
 Para valorar los méritos con que cuenten los interesados, la DESPE aplicará las tablas de valoración de méritos que haya aprobado la Junta en el Anexo Técnico previsto en el artículo 27 de los presentes Lineamientos. Una vez realizada la valoración, la DESPE identificará a quienes estén en posibilidad de recibir una promoción en rango.
 
+> <small>(REFORMADO, D.O.F. 30 DE ENERO DE 2013)</small>
+
 ###### Artículo 37.
 
-Por cada interesado, la DESPE elaborará una hoja de control en la que se asentará la puntuación obtenida como resultado de la valoración de los méritos exigidos en el Estatuto, en los presentes Lineamientos y en la convocatoria anual que emita la Junta.
+En caso de que se requiera, por cada candidato a obtener la promoción, la DESPE elaborará una hoja de control en la que se asentará la puntuación obtenida como resultado de la valoración de los méritos exigidos en el Estatuto y en los presentes Lineamientos.
+
+> <small>(REFORMADO, D.O.F. 30 DE ENERO DE 2013)</small>
 
 ###### Artículo 38.
 
-Con objeto de identificar a los miembros del Servicio que aspiren a obtener una promoción en los rangos de los Cuerpos del Servicio, la DESPE ordenará de mayor a menor a los interesados con base en la puntuación que hayan obtenido en la valoración de los méritos, hasta agotar el número de promociones autorizadas por la Junta para ese ejercicio, siempre y cuando los interesados cumplan con los requisitos estipulados.
+Con objeto de identificar a los miembros del Servicio que aspiren a obtener una promoción en los rangos de los Cuerpos del Servicio, y en caso de sea que sea (sic) necesario la DESPE ordenará de mayor a menor a los interesados con base en la puntuación que hayan obtenido en la valoración de los méritos, hasta agotar el número de promociones autorizadas por la Junta para ese ejercicio, siempre y cuando los interesados cumplan con los requisitos establecidos.
 
 ###### Artículo 39.
 
@@ -571,9 +621,11 @@ VII. El menor número de sanciones impuestas desde la obtención de la titularid
 
 Por cada miembro titular del Servicio que se encuentre en la lista de interesados a obtener una promoción en rango, ya sea del Cuerpo de la Función Directiva o del Cuerpo de Técnicos, la DESPE elaborará un dictamen preliminar basado en la hoja de control citada en el artículo 37 de los presentes Lineamientos. En su caso, señalará el criterio que haya permitido dirimir el empate.
 
+> <small>(REFORMADO, D.O.F. 30 DE ENERO DE 2013)</small>
+
 ###### Artículo 41.
 
-Con objeto de transparentar el procedimiento de promociones, la DESPE comunicará a todos los miembros titulares del Servicio que atendieron la convocatoria respectiva, y de manera previa a la presentación del informe ante la Comisión del Servicio señalado en el artículo siguiente, sobre el dictamen preliminar que recaiga a su solicitud para la promoción en la estructura de rangos, con el propósito de que puedan, en su caso, promover ante la DESPE, en un plazo que no exceda de tres días, las correcciones que consideren pertinentes.
+Con objeto de transparentar el procedimiento de promociones, la DESPE comunicará a todos los miembros titulares del Servicio, y de manera previa a la presentación del informe ante la Comisión del Servicio señalado en el artículo siguiente, un Dictamen Preliminar, con el propósito de que puedan, en su caso, promover ante la DESPE, en un plazo que no exceda de cinco días, las observaciones que consideren pertinentes.
 
 ###### Artículo 42.
 
@@ -597,9 +649,11 @@ La DESPE enviará a la Dirección Ejecutiva de Administración la lista de los m
 
 ## Título Cuarto. Disposiciones complementarias
 
+> <small>(REFORMADO Y REUBICADO, D.O.F. 30 DE ENERO DE 2013)</small>
+
 ###### Artículo 47.
 
-La DESPE, dentro de los treinta días hábiles siguientes a la emisión del acuerdo, notificará a los miembros titulares del Servicio que se hayan registrado conforme a la convocatoria, pero incumplan con uno o varios de los requisitos exigibles, las razones por las cuales no se les otorgó una promoción en rango.
+Para determinar las promociones, la DESPE deberá excluir al personal de la rama administrativa, del conjunto de cargos o puestos en los que hayan sido evaluados.
 
 ###### Artículo 48.
 
@@ -615,15 +669,19 @@ La reposición consistirá en desarrollar nuevamente el procedimiento previsto e
 
 I. El miembro titular del Servicio no podrá recibir una promoción en la estructura de rangos, en tanto el procedimiento disciplinario o la inconformidad por la evaluación del desempeño no hayan concluido definitivamente.
 
-II. En caso de que un miembro titular del Servicio haya sido sancionado con suspensión de diez o más días durante el ejercicio valorado, podrá acudir a la convocatoria que se emita para obtener una promoción, siempre que exhiba el documento que acredite, en su caso, que la impugnación respectiva esté pendiente de ser resuelta.
+> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2013)</small>
 
-III. Si el procedimiento disciplinario o la inconformidad por la evaluación del desempeño de un miembro titular del Servicio que haya acudido a la convocatoria concluyen definitivamente hasta antes de que se presente el informe a la Comisión del Servicio señalado en el artículo 42 de estos Lineamientos, la DESPE valorará el cumplimiento de los requisitos del miembro titular del Servicio respectivo.
+II. Si el procedimiento disciplinario o la inconformidad por la evaluación del desempeño de un miembro titular del Servicio concluyen definitivamente hasta antes de que se presente el informe a la Comisión del Servicio señalado en el artículo 42 de estos Lineamientos, la DESPE valorará el cumplimiento de los requisitos del miembro titular del Servicio respectivo.
 
 De ser el caso, la DESPE colocará a este funcionario dentro de la lista con los aspirantes que acreditaron los requisitos para obtener una promoción, en el orden que le corresponda.
 
-IV. Si l procedimiento disciplinario o la inconformidad por la evaluación del desempeño concluyen definitivamente una vez que la Junta haya aprobado el proyecto de acuerdo por el que se otorgaron las promociones, la DESPE valorará el cumplimiento de los requisitos del miembro titular del Servicio respectivo y, de cumplir con éstos, lo colocará dentro de la lista con los aspirantes que acreditaron los requisitos para obtener una promoción, en el orden que le corresponda.
+> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2013)</small>
+
+III. Si el procedimiento disciplinario o la inconformidad por la evaluación del desempeño concluyen definitivamente una vez que la Junta haya aprobado el Proyecto de Acuerdo por el que se otorgaron las promociones, la DESPE valorará el cumplimiento de los requisitos del miembro titular del Servicio respectivo y, de cumplir con éstos, lo colocará dentro de la lista con los aspirantes que acreditaron los requisitos para obtener una promoción, en el orden que le corresponda.
 
 En caso de ubicarse el miembro titular del Servicio en una posición de la lista que le hubiese permitido obtener una promoción en la estructura de rangos, se le otorgará de conformidad con el artículo 51 de estos Lineamientos. La reposición del procedimiento no lesionará los derechos adquiridos del personal de carrera que haya obtenido su promoción en el ejercicio valorado.
+
+IV. (DEROGADA, D.O.F. 30 DE ENERO DE 2013)
 
 ###### Artículo 51.
 
@@ -638,6 +696,24 @@ En caso de que un miembro del Servicio, se mueva a otro Cuerpo, adquirirá por e
 ###### Artículo 53.
 
 Cuando algún funcionario reingrese al Servicio de conformidad con los artículos 124 y 125 del Estatuto, la DESPE reconocerá la antigüedad, la titularidad y el rango que hubiere tenido hasta el momento de su separación.
+
+> <small>(ADICIONADO, D.O.F. 30 DE ENERO DE 2013)</small>
+
+###### Artículo 54.
+
+Para la determinación del 25% superior en las evaluaciones del desempeño de los cargos de Coordinador y Director de Area, la DESPE conformará un estrato que agrupe ambos cargos.
+
+> <small>(ADICIONADO, D.O.F. 30 DE ENERO DE 2013)</small>
+
+###### Artículo 55.
+
+Para la determinación del 25% superior en las evaluaciones del desempeño de los puestos de Coordinador de Unidad de Servicios Especializados, Profesional de Servicios Especializados y Técnico en Procesos Electorales se integrará un estrato común a dichos puestos.
+
+> <small>(ADICIONADO, D.O.F. 30 DE ENERO DE 2013)</small>
+
+###### Artículo 56.
+
+En el caso que la Junta General Ejecutiva ordene la adición de nuevas plazas o la supresión de éstas por restructuración, la DESPE de oficio tomará en consideración la nueva composición de plazas, para la conformación de los cargos o puestos evaluados y la identificación del 25 % superior en la evaluación del desempeño que corresponda.
 
 ## Artículos Transitorios
 
@@ -664,3 +740,9 @@ Las calificaciones obtenidas en dichos exámenes tendrán el propósito exclusiv
 Noveno. En tanto se aprueben e implementen los Lineamientos para la administración y operación de los cursos y actividades de Actualización, la DESPE utilizará el promedio general del Programa de Formación en aquellos casos en que se requiera tomar en cuenta los resultados obtenidos en la Actualización.
 
 Décimo. Cuando se suspenda la impartición del Programa de Formación, la DESPE utilizará el promedio general que haya obtenido el miembro del Servicio en dicho Programa, para los efectos del procedimiento de promociones en rango previstos en los presentes Lineamientos.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 30 DE ENERO DE 2013.
+
+UNICO.- Las presentes reformas y adiciones entrarán en vigor, al día siguiente hábil de su publicación en el Diario Oficial de la Federación.
