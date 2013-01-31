@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-banco-de-mexico-1152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-09-30"
-last_updated: "2012-11-01"
+last_updated: "2013-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1152&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-09-23"
 
 REGLAMENTO INTERIOR DEL BANCO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE ENERO DE 2013.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 1994.
 
@@ -51,6 +51,10 @@ IV. Recibir todas las propuestas y documentos dirigidos a la Junta, y
 
 V. Certificar los extractos o copias de las actas de las sesiones, con la previa autorización de la Junta.
 
+> <small>(ADICIONADA, D.O.F. 31 DE ENERO DE 2013)</small>
+
+VI. Proporcionar asesoría jurídica a los miembros de la Junta que así lo soliciten en los asuntos materia de la competencia de ese órgano colegiado.
+
 > <small>(REFORMADO, D.O.F. 16 DE MARZO DE 2001)</small>
 
 El Secretario será asistido en sus funciones por un Secretario Adjunto quien participará en la redacción de los acuerdos en materia económica y financiera, así como un Secretario Suplente. Este último auxiliará al Secretario en sus funciones y cubrirá sus ausencias.
@@ -65,9 +69,7 @@ La Junta de Gobierno y sus miembros, contarán con los asesores que la propia Ju
 
 Las actas de las sesiones de la Junta de Gobierno se conservarán en volúmenes anuales y serán firmadas por quien haya presidido la Junta y por el Secretario, así como por los miembros de la Junta de Gobierno asistentes que quieran hacerlo, debiéndose conservar en un apéndice un ejemplar de los documentos que hubieran sido relacionados en la sesión de que se trate.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE MAYO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE ENERO DE 2013)</small>
 
 ###### ARTICULO 4o.
 
@@ -117,6 +119,8 @@ Dirección de Estabilidad Financiera
 
 Dirección de Estudios Económicos
 
+Dirección de Evaluación de Servicios Financieros
+
 Dirección de Fábrica de Billetes
 
 Dirección de Información del Sistema Financiero
@@ -149,13 +153,13 @@ Dirección de Vinculación Institucional
 
 Dirección Jurídica
 
-> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 31 DE ENERO DE 2013)</small>
 
-Las Direcciones Generales y la Contraloría tendrán adscritas las Direcciones que señala el presente Reglamento. El Banco contará con una Dirección de Auditoría que dependerá de la Junta de Gobierno.
+Las Direcciones Generales y la Contraloría tendrán adscritas las Direcciones que señala el presente Reglamento. El Banco contará con una Secretaría de la Junta y una Dirección de Auditoría que dependerán de la propia Junta.
 
-> <small>(REFORMADO, D.O.F. 29 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 31 DE ENERO DE 2013)</small>
 
-Los Directores Generales, el Contralor y los Directores se auxiliarán en el cumplimiento de sus funciones de los Gerentes, Cajeros Regionales, Subgerentes, Jefes de División, de Departamento, de Oficina y por los demás empleados, previstos en la estructura correspondiente. Asimismo, las Direcciones Generales, la Contraloría y las Direcciones, podrán tener adscritas unidades de informática conforme a lo que se establezca en el Acuerdo de Adscripción de las Unidades Administrativas del Banco de México.
+Los Directores Generales, el Contralor, el Secretario de la Junta y los Directores se auxiliarán en el cumplimiento de sus funciones de los Gerentes, Cajeros Regionales, Subgerentes, Jefes de División, de Departamento, de Oficina, y por los demás empleados, previstos en la estructura correspondiente. Asimismo, las Direcciones Generales, la Contraloría y las Direcciones, podrán tener adscritas unidades de informática conforme a lo que se establezca en el Acuerdo de Adscripción de las Unidades Administrativas del Banco de México.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -247,19 +251,19 @@ En los poderes, comisiones y designaciones otorgados conforme al párrafo anteri
 
 El Gobernador podrá autorizar a los apoderados, comisionistas y delegados fiduciarios para que, conforme a las disposiciones aplicables, éstos otorguen o revoquen poderes generales o especiales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE ENERO DE 2013)</small>
 
 ###### ARTICULO 8o.
 
-Las atribuciones encomendadas por este Reglamento a los titulares de las Direcciones Generales, Contraloría y Direcciones, podrán ser ejercidas por ellos en forma individual o por dos funcionarios que actúen mancomunadamente, siempre y cuando tengan puestos de Subgerente o superior, o bien, de los rangos equivalentes a éstos y se encuentren subordinados al Director General, al Contralor, o al Director según se trate. Los Cajeros Regionales de las sucursales podrán firmar individualmente. Para efectos de lo anterior, se publicará en el Diario Oficial de la Federación, el Acuerdo de Adscripción de las Unidades Administrativas correspondientes.
+Las atribuciones encomendadas por este Reglamento a los titulares de las Direcciones Generales, Contraloría, Secretaría de la Junta y Direcciones, podrán ser ejercidas por ellos en forma individual o por dos funcionarios que actúen mancomunadamente, siempre y cuando tengan puestos de Subgerente o superior, o bien, de los rangos equivalentes a éstos y se encuentren subordinados al Director General, al Contralor, al Secretario de la Junta o al Director según se trate. Los Cajeros Regionales de las sucursales podrán firmar individualmente. Para efectos de lo anterior, se publicará en el Diario Oficial de la Federación, el Acuerdo de Adscripción de las Unidades Administrativas correspondientes.
 
-> <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 31 DE ENERO DE 2013)</small>
 
-La atribución aquí concedida incluye las facultades necesarias para la suscripción de todos los actos, comprendiendo los de dominio, de administración y pleitos y cobranzas, que se encuentren directamente vinculados con la ejecución de las atribuciones conferidas por este Reglamento a los Directores Generales, Contralor y Directores, así como las suficientes para realizar actos que impliquen ejercicio presupuestal, a excepción de los previstos en el artículo 27 Bis de este Reglamento.
+La atribución aquí concedida incluye las facultades necesarias para la suscripción de todos los actos, comprendiendo los de dominio, de administración y pleitos y cobranzas, que se encuentren directamente vinculados con la ejecución de las atribuciones conferidas por este Reglamento a los Directores Generales, Contralor, Secretario de la Junta y Directores, así como las suficientes para realizar actos que impliquen ejercicio presupuestal, a excepción de los previstos en el artículo 27 Bis de este Reglamento.
 
-> <small>(ADICIONADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 31 DE ENERO DE 2013)</small>
 
-Sin perjuicio de lo dispuesto en el segundo párrafo del presente artículo, las atribuciones encomendadas por este Reglamento a los titulares de las Direcciones Generales, Contraloría y Direcciones, incluyen las facultades suficientes para celebrar convenios, solicitar, proporcionar y publicar información, y colaborar con las personas que estimen conveniente, a fin de dar cumplimiento a sus respectivas atribuciones. Lo anterior, deberá efectuarse, en su caso, con la participación que corresponda a otras Unidades Administrativas, conforme a este Reglamento.
+Sin perjuicio de lo dispuesto en el segundo párrafo del presente artículo, las atribuciones encomendadas por este Reglamento a los titulares de las Direcciones Generales, Contraloría, Secretaría de la Junta y Direcciones, incluyen las facultades suficientes para celebrar convenios, solicitar, proporcionar y publicar información, y colaborar con las personas que estimen conveniente, a fin de dar cumplimiento a sus respectivas atribuciones. Lo anterior, deberá efectuarse, en su caso, con la participación que corresponda a otras Unidades Administrativas, conforme a este Reglamento.
 
 > <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
@@ -377,25 +381,11 @@ A esta Dirección General estarán adscritas las Direcciones de Disposiciones de
 
 Corresponderá a la Gerencia Jurídica Fiduciaria el desempeño de las funciones encomendadas al Banco en los fideicomisos a que se refiere el tercer párrafo del artículo Décimo Transitorio de la Ley, con excepción del Fideicomiso para el Desarrollo de Recursos Humanos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>(REFORMADO, D.O.F. 31 DE ENERO DE 2013)</small>
 
-> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
+ARTICULO 14 BIS 1.- La Dirección General de Asuntos del Sistema Financiero tendrá las atribuciones señaladas en los artículos 25 Bis 1, 25 Bis 2 y 25 Bis 3.
 
-ARTICULO 14 BIS 1.- La Dirección General de Asuntos del Sistema Financiero tendrá, además de las atribuciones que se establecen en este precepto, las que se señalan en los artículos 25 Bis 1 y 25 Bis 2.
-
-A esta Dirección General estarán adscritas la Dirección de Regulación y Supervisión y la Dirección de Intermediarios Financieros de Fomento, así como la Gerencia de Evaluación de Servicios Financieros.
-
-La Gerencia de Evaluación de Servicios Financieros, tendrá las atribuciones siguientes:
-
-I. Elaborar un análisis del impacto esperado de la regulación, cuya expedición esté a cargo del Banco;
-
-II. Participar en el diseño y elaboración de las disposiciones para el sistema financiero que expida el Banco;
-
-III. Analizar los términos en que las instituciones de crédito ofrecen sus servicios al público y evaluar su impacto en la promoción de los servicios financieros y en el sano desarrollo del sistema financiero;
-
-IV. Participar en los procedimientos de registro, formulación de observaciones y veto de comisiones en los términos previstos en la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, y
-
-V. Colaborar en el cumplimiento de la atribución prevista en el artículo 25 Bis 1, fracción III, de este Reglamento.
+A esta Dirección General estarán adscritas la Dirección de Regulación y Supervisión, la Dirección de Intermediarios Financieros de Fomento y la Dirección de Evaluación de Servicios Financieros.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -941,6 +931,22 @@ VI. Colaborar con las autoridades correspondientes en la definición, promoción
 
 VII. Apoyar a los miembros de la Junta que participen, en representación del Banco, en los órganos de gobierno de los fideicomisos de fomento económico y de las entidades financieras de desarrollo, así como elaborar las propuestas para los mencionados representantes, sobre la posición del propio Banco ante dichos órganos.
 
+> <small>(ADICIONADO, D.O.F. 31 DE ENERO DE 2013)</small>
+
+ARTICULO 25 BIS 3.- La Dirección de Evaluación de Servicios Financieros tendrá las atribuciones siguientes:
+
+I. Elaborar un análisis del impacto estimado de la regulación que se determine al efecto, entre aquella cuya expedición esté a cargo del Banco y, en su caso, formular las propuestas de modificaciones correspondientes;
+
+II. Participar en el diseño y elaboración de las disposiciones para el sistema financiero que expida el Banco;
+
+III. Analizar los términos en que las instituciones de crédito ofrecen sus servicios al público, así como las características de las operaciones respectivas;
+
+IV. Participar en los procedimientos de registro, formulación de observaciones y veto de comisiones en los términos previstos en la Ley para la Transparencia y Ordenamiento de los Servicios Financieros, así como en el ejercicio de las demás atribuciones que dicha Ley confiere al Banco y que pudieran ocasionar un impacto a los servicios financieros y el otorgamiento de créditos;
+
+V. Participar en el análisis de aquellos asuntos que incidan en el ámbito de la competencia del Banco, que puedan impactar en materia de políticas de inclusión, acceso y educación financiera, y
+
+VI. Colaborar en el cumplimiento de la atribución prevista en el artículo 25 Bis 1, fracción III, de este Reglamento.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE OCTUBRE DE 2005)</small>
 
 ###### ARTICULO 26.
@@ -1237,7 +1243,9 @@ X. Fungir como enlace entre las instancias fiscalizadoras externas y las unidade
 
 ARTICULO 29 BIS 2.- El Comité de Auditoría tendrá las atribuciones siguientes:
 
-I. Evaluar el programa anual de revisiones que le presente el Director de Auditoría, previamente a su presentación a la Junta, con el propósito de solicitar ampliaciones al alcance o enfoque de dicho programa;
+> <small>(REFORMADA, D.O.F. 31 DE ENERO DE 2013)</small>
+
+I. Aprobar el programa anual de revisiones que le presente el Director de Auditoría y, una vez hecho lo anterior, este último deberá someterlo a la autorización de la Junta;
 
 II. Analizar los principales resultados y acciones derivadas de las observaciones y oportunidades de mejora detectadas por la Dirección de Auditoría, así como por el auditor externo;
 
@@ -1277,9 +1285,9 @@ Las personas sujetas a presentar declaraciones de situación patrimonial y curri
 
 ARTICULO 30 BIS.- La Dirección de Control Interno tendrá, además de las atribuciones señaladas en el artículo 30 Bis 1 y 30 Bis 3, las siguientes:
 
-> <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 31 DE ENERO DE 2013)</small>
 
-I. Llevar el registro de firmas autógrafas de los funcionarios y empleados del Banco, facultados para ejercer las atribuciones encomendadas a las Direcciones Generales, Contraloría y Direcciones, para los efectos de los artículos 8o., 10, y 27 Bis de este Reglamento, así como de los empleados facultados de acuerdo a las resoluciones emitidas en los términos del artículo 11 de este ordenamiento, pudiendo expedir constancias de dicho registro;
+I. Llevar el registro de firmas autógrafas de los funcionarios y empleados del Banco, facultados para ejercer las atribuciones encomendadas a las Direcciones Generales, Contraloría, Secretaría de la Junta y Direcciones, para los efectos de los artículos 8o., 10, y 27 Bis de este Reglamento, así como de los empleados facultados de acuerdo a las resoluciones emitidas en los términos del artículo 11 de este ordenamiento, pudiendo expedir constancias de dicho registro;
 
 > <small>(REFORMADA, D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
@@ -1699,11 +1707,11 @@ Tratándose de las adjudicaciones de contratos que, de acuerdo con las disposici
 
 En el caso de procesos de carácter judicial, administrativo o del trabajo, en los que deban intervenir el Gobernador, la Junta de Gobierno, alguno de sus miembros, los Directores Generales o el Contralor, las promociones correspondientes podrán ser firmadas, en su ausencia, por el Director General Jurídico o el Director Jurídico.
 
-> <small>(REFORMADO, D.O.F. 16 DE JULIO DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 31 DE ENERO DE 2013)</small>
 
 ###### ARTICULO 55.
 
-El Banco de México, su Gobernador, la Junta de Gobierno, sus miembros, los Directores Generales y el Contralor, podrán ser representados en el juicio de amparo por el Director General Jurídico o el Director Jurídico. En ausencia de estos últimos, dicha representación recaerá en el Gerente Jurídico de lo Contencioso o el Subgerente Jurídico de lo Contencioso.
+El Banco de México, su Gobernador, la Junta de Gobierno, sus miembros, los Directores Generales, el Contralor y el Secretario de la Junta, podrán ser representados en el juicio de amparo por el Director General Jurídico o el Director Jurídico. En ausencia de estos últimos, dicha representación recaerá en el Gerente Jurídico de lo Contencioso o el Subgerente Jurídico de lo Contencioso.
 
 ## TRANSITORIOS
 
@@ -2018,5 +2026,13 @@ D.O.F. 1 DE NOVIEMBRE DE 2012.
 PRIMERO. Las presentes modificaciones al Reglamento Interior del Banco de México, entrarán en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Los procedimientos establecidos en los artículos que se modifican del Reglamento Interior del Banco de México, que se encuentren en trámite a la fecha de entrada en vigor de las presentes reformas, adiciones y derogaciones, se continuarán tramitando conforme a las disposiciones con las que dieron inicio.
+
+TERCERO. La totalidad de los actos jurídicos realizados durante la vigencia de los artículos modificados, conservarán todo su valor y fuerza legal.
+
+D.O.F. 31 DE ENERO DE 2013.
+
+PRIMERO. Las presentes modificaciones al Reglamento Interior del Banco de México, entrarán en vigor el 1 de febrero de 2013.
+
+SEGUNDO. Todas las referencias hechas en las disposiciones emitidas por el Banco de México a la Gerencia de Evaluación de Servicios Financieros, se entenderán hechas a la Dirección de Evaluación de Servicios Financieros.
 
 TERCERO. La totalidad de los actos jurídicos realizados durante la vigencia de los artículos modificados, conservarán todo su valor y fuerza legal.
