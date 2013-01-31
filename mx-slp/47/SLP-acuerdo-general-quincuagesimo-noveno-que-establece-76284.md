@@ -4,7 +4,7 @@ identifier: "SLP-acuerdo-general-quincuagesimo-noveno-que-establece-76284"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2009-09-24"
-last_updated: "2010-07-22"
+last_updated: "2013-01-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76284&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # ACUERDO GENERAL QUINCUAGESIMO NOVENO QUE ESTABLECE CRITERIOS PARA LA DEPURACION DEL ACERVO DOCUMENTAL DEL ARCHIVO JUDICIAL DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSI
 
-ACUERDO GENERAL QUINCUAGESIMO NOVENO DEL PLENO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO, QUE ESTABLECE CRITERIOS PARA LA DEPURACION DEL ACERVO DOCUMENTAL DEL ARCHIVO JUDICIAL DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSI
+ACUERDO GENERAL QUINCUAGÉSIMO NOVENO DEL PLENO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO, QUE ESTABLECE CRITERIOS PARA LA DEPURACIÓN DEL ACERVO DOCUMENTAL DEL ARCHIVO JUDICIAL DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JULIO DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL OCTAGÉSIMO (SIC) SEXTO DEL PLENO DEL CONSEJO DE LA JUDICATURA, QUE ESTABLECE LOS CRITERIOS PARA LA DEPURACIÓN DOCUMENTAL DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ, PUBLICADO EN EL P.O. DE 31 DE ENERO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Acuerdo publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 24 de diciembre de 2009.
 
@@ -138,3 +140,9 @@ P.O. 22 DE JULIO DE 2010.
 PRIMERO.- Este acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- El Comité de Información resolverá cualquier cuestión que pudiera suscitarse en la materia.
+
+P.O. 31 DE ENERO DE 2013.
+
+PRIMERO. Este acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El presente Acuerdo, abroga el Acuerdo General Quincuagésimo Noveno del Pleno del Consejo de la Judicatura del Poder Judicial del Estado de San Luis Potosí, publicado en edición de 24 veinticuatro de septiembre del 2009 dos mil nueve, del Periódico Oficial del Estado y su modificación realizada mediante diverso Acuerdo CJPJESLP1049/2010, emanando de sesión del Pleno del Consejo de la Judicatura, del 15 quince de junio del 2010 dos mil diez.
