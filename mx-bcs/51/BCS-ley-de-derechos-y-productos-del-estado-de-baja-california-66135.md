@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-derechos-y-productos-del-estado-de-baja-california-66135
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-24"
-last_updated: "2012-12-31"
+last_updated: "2013-01-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66135&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "BCS"
 ---
 # LEY DE DERECHOS Y PRODUCTOS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE ENERO DE 2013 EN EL B.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE DERECHOS Y PRODUCTOS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2012.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL 31 DE ENERO DE 2013.</small>
 
 Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el miércoles 24 de diciembre de 2008.
 
@@ -653,8 +653,6 @@ Para los efectos de este artículo, se entenderá por unidad, la unidad de propi
 
 #### Sección Única.. Servicios prestado por la Comisión Estatal para la Protección contra Riesgos Sanitarios (COEPRIS-BCS)
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE ENERO DE 2013 EN EL B.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 20.
@@ -669,23 +667,27 @@ MÍNIMOS VIGENTES
 
 EN EL ESTADO
 
+> <small>(F. DE E., B.O. 31 DE ENERO DE 2013)</small>
+
 I. Por Curso de Capacitación, por
 
-persona, (máximo 20 personas) de: 10
+persona, (máximo 20 personas) de:
 
-a. Manejadores de Alimentos;
+a. Manejadores de Alimentos; 4
 
-b. Plantas Purificadoras;
+b. Plantas Purificadoras; 4
 
-c. Empacadoras de Alimentos;
+c. Empacadoras de Alimentos; 4
 
-d. Uso y Aplicación de Plaguicidas;
+d. Uso y Aplicación de Plaguicidas; 4
 
-e. Control Sanitario de la Publicidad;
+e. Control Sanitario de la Publicidad; 4
 
-f. Manejo y Dispensación de Medicamentos
+f. Manejo y Dispensación de Medicamentos 4
 
 en Farmacias.
+
+g. Capacitación de Vigilancia Sanitaria; 10
 
 II. Expedición de registro y credencial
 
@@ -705,11 +707,13 @@ V. Autorización para manejo de recetario
 
 de código de barras; 7
 
+> <small>(F. DE E., B.O. 31 DE ENERO DE 2013)</small>
+
 VI. Autorización de recetarios para
 
 prescripción de medicamentos controlados
 
-del grupo I y II; 5
+del grupo II y III; 5
 
 VII. Expedición de código de barras
 
@@ -959,8 +963,6 @@ Proceso Administrativo; 1
 
 #### Sección I. De los servicios prestados por la Dirección Estatal del Registro Civil
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE ENERO DE 2013 EN EL B.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 > <small>(ADICIONADO, B.O. 10 DE FEBRERO DE 2012)</small>
 
 ###### Artículo 31
@@ -985,13 +987,13 @@ documentación concentrada en la
 
 dirección y oficinas regionales;
 
-II. Expedición de copias certificadas de la 4
+> <small>(F. DE E., B.O. 31 DE ENERO DE 2013)</small>
+
+II. Expedición de copias certificadas de la 2
 
 documentación concentrada en la
 
-dirección y oficinas regionales, por cada
-
-hoja;
+dirección y oficinas regionales;
 
 III. Búsqueda de antecedentes registrables en
 
