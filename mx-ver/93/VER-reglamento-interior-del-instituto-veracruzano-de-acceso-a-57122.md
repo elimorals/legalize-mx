@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interior-del-instituto-veracruzano-de-acceso-a-57122
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-09-20"
-last_updated: "2011-10-05"
+last_updated: "2013-02-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57122&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "VER"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO VERACRUZANO DE ACCESO A LA INFORMACION DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-REGLAMENTO INTERIOR DEL INSTITUTO VERACRUZANO DE ACCESO A LA INFORMACION
+REGLAMENTO INTERIOR DEL INSTITUTO VERACRUZANO DE ACCESO A LA INFORMACIÓN
 
-> <small>N. DE E. DE CONFORMIDAD CON LA REFORMA APROBADA POR EL INSTITUTO VERACRUZANO DE ACCESO A LA INFORMACION, PUBLICADO EN LA G.O. DE 5 DE OCTUBRE DE 2011, SE MODIFICA DE FORMA SUSTANCIAL EL REGLAMENTO INTERIOR DEL INSTITUTO VERACRUZANO DE ACCESO A LA INFORMACION.</small>
+> <small>N. DE E. DE CONFORMIDAD CON LA REFORMA APROBADA POR EL INSTITUTO VERACRUZANO DE ACCESO A LA INFORMACIÓN, PUBLICADO EN LA G.O. DE 5 DE OCTUBRE DE 2011, SE MODIFICA DE FORMA SUSTANCIAL EL REGLAMENTO INTERIOR DEL INSTITUTO VERACRUZANO DE ACCESO A LA INFORMACIÓN.</small>
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 5 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE FEBRERO DE 2013.
 
 Reglamento publicado en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el jueves 20 de septiembre de 2007.
 
@@ -1093,17 +1093,15 @@ Las ausencias temporales de los titulares de las áreas administrativas del Inst
 
 ### CAPÍTULO QUINTO. De los días y horas hábiles
 
-> <small>(REFORMADO, G.O. 5 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 2013)</small>
 
-Artículo 35 (sic). Serán días hábiles todos los del año, excepto los sábados y domingos, los que establezca como días de descanso obligatorio la Ley Federal del Trabajo, así como los que determine el Órgano de Gobierno. El horario de labores de los servidores públicos del Instituto será de lunes a viernes de nueve a dieciocho horas.
+Artículo 35 (sic). Serán días hábiles todos los del año, excepto los sábados y domingos, los que establezca como días de descanso obligatorio la Ley Federal del Trabajo, así como los que determine el Órgano de Gobierno. El horario de labores de los servidores públicos del Instituto será de lunes a viernes de nueve a quince horas.
 
-> <small>(REFORMADO, G.O. 5 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 36.
 
-Serán horas hábiles las comprendidas entre las nueve y las dieciocho horas. El Órgano de Gobierno podrá habilitar las horas inhábiles cuando así lo requiera para el cumplimiento de sus atribuciones.
-
-Los trabajadores del Instituto tendrán una hora para tomar alimentos; para el efecto de que siempre haya personal en las áreas en el horario de labores, el horario para los alimentos será de 14 a 15 horas y de 15 a 16 horas, por lo que en ningún caso todo el personal de un área o Ponencia podrán tomar sus alimentos en el mismo horario; se deberá controlar esta situación por el Titular del área o Consejero, para que siempre haya personal que reciba la correspondencia interna.
+Serán horas hábiles las comprendidas entre las nueve y las quince horas. El Órgano de Gobierno podrá habilitar las horas inhábiles cuando así lo requiera para el cumplimiento de sus atribuciones.
 
 > <small>(REFORMADO, G.O. 5 DE OCTUBRE DE 2011)</small>
 
@@ -1305,7 +1303,7 @@ Dado en el salón de sesiones del Consejo General del Instituto Veracruzano de A
 
 Presidente del Consejo Álvaro Ricardo de Gasperín Sampieri, Consejera Luz del Carmen Martí Capitanachi y Consejera Rafaela López Salas, por ante el Secretario Técnico del Instituto, Fernando Aguilera De Hombre, con quien actúan.-Rúbricas.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 G.O. 26 DE FEBRERO DE 2008.
 
@@ -1332,3 +1330,15 @@ G.O. 5 DE OCTUBRE DE 2011.
 Primero. La presente reforma integral al Reglamento Interior del Instituto entrará en vigor al día hábil siguiente de su publicación en la Gaceta Oficial.
 
 Segundo. Se derogan todas las disposiciones administrativas que se opongan al presente Reglamento.
+
+G.O. 1 DE FEBRERO DE 2013.
+
+> <small>N. DE E. SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.</small>
+
+Tercero. El presente Acuerdo entrará en vigor al día hábil siguiente de su aprobación, sin perjuicio de su publicación en la Gaceta Oficial del Estado.
+
+Cuarto. Se instruye al Director de Administración y Finanzas tome las previsiones necesarias para implementar el punto primero de este Acuerdo en el Instituto.
+
+Quinto. Se instruye al Director de Sistemas Informáticos que aplique el presente Acuerdo en el Sistema INFOMEX-Veracruz, y lo publique en la página de internet institucional.
+
+Sexto. Se instruye al Secretario Ejecutivo que publique el presente Acuerdo en la Gaceta Oficial del Estado.
