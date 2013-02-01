@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-deuda-publica-del-estado-de-queretaro-67960"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-20"
-last_updated: "2010-12-21"
+last_updated: "2013-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67960&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "QUE"
 ---
 # LEY DE DEUDA PUBLICA DEL ESTADO DE QUERETARO
 
-LEY DE DEUDA PUBLICA DEL ESTADO DE QUERETARO
+LEY DE DEUDA PÚBLICA DEL ESTADO DE QUERÉTARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 20 de marzo de 2009.
 
@@ -59,9 +59,11 @@ V. Los fideicomisos públicos, en que el fideicomitente sea alguna de las entida
 
 Asimismo, esta ley regula los mecanismos para la afectación, en su caso, de las participaciones federales que correspondan al Estado y a sus municipios, así como los demás ingresos que correspondan a las entidades.
 
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 2.
 
-Se entiende por deuda pública del Estado, los empréstitos contratados con o a través de instituciones del sistema financiero y la adquirida como avalista o deudor solidario a cargo de alguna de las entidades señaladas en el artículo anterior.
+Por deuda pública se entiende toda operación constitutiva de un pasivo, directo, indirecto o contingente, de corto, mediano o largo plazo, que contraigan los estados y los municipios, inclusive los organismos descentralizados estatales o municipales, empresas de participación estatal o municipal mayoritarias y los fideicomisos públicos paraestatales o paramunicipales, derivada de un financiamiento, crédito, empréstito o préstamo, independientemente de la forma mediante la que se les instrumente, excluyendo las obligaciones de pago multianuales que se deriven de contratos de obra pública, prestación de servicios, arrendamientos o adquisiciones.
 
 ###### Artículo 3.
 
@@ -89,7 +91,7 @@ Asimismo, la Legislatura del Estado, podrá autorizar mediante Decretos, esquema
 
 II. Autorizar al Poder Ejecutivo del Estado o al ayuntamiento respectivo, para que intervengan como aval o deudor solidario, previa solicitud de los mismos, de los empréstitos que contraten los sujetos de esta Ley;
 
-> <small>(REFORMADA, P.O.14 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2009)</small>
 
 III. Autorizar que los ingresos de los sujetos de esta Ley, sean afectados en garantía, fuente de pago o ambas; y
 
@@ -141,6 +143,12 @@ A los mecanismos constituidos por la Secretaría, podrán adherirse los municipi
 
 XII. Realizar, previa instrucción de los Ayuntamientos, pagos por cuenta de los mismos, con cargo a los ingresos de las aportaciones federales que le correspondan y que puedan utilizar para ese fin, de conformidad con lo dispuesto en la legislación aplicable.
 
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2013)</small>
+
+Artículo 6 bis. Los poderes del Estado y los gobiernos Municipales, incluirán en su Ley de Ingresos del ejercicio de que se trate, los conceptos de contratación de obligaciones financieras y deuda conforme a las especificaciones de la Ley de Deuda correspondiente.
+
+No se podrán utilizar conceptos diferentes cuando se trate de contratación de deuda o empréstitos para inversión pública productiva.
+
 ### Capítulo Tercero. De la contratación, garantías y avales
 
 ###### Artículo 7.
@@ -170,6 +178,14 @@ IV. La reestructuración de la deuda pública a que se refiere el Capítulo Quin
 V. La adquisición de mobiliario y equipo destinado para el servicio público; y
 
 VI. La que así defina la Legislatura del Estado, en la autorización de endeudamiento, previa justificación de la productividad de la inversión pública a realizar.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2013)</small>
+
+Artículo 8 bis. Los proyectos de inversión pública productiva se deberán ejecutar en las zonas de mayor marginación del Estado y Municipios, con base en la categorización de marginación emitida por el Consejo Nacional de Población.
+
+Dichos proyectos deberán mejorar la calidad de vida de la población, a través de la generación de empleos e ingresos.
+
+Los Gobiernos Estatal y Municipales deberán comprobar a la Legislatura del Estado, la sustentabilidad y sostenibilidad de los proyectos de un periodo de gobierno a otro e informarán, una vez terminado el proyecto, los avances y resultados obtenidos.
 
 ###### Artículo 9.
 
@@ -241,7 +257,9 @@ b) La entidad que los suscribió.
 
 c) La persona física o moral que lo otorgó.
 
-d) El objeto.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2013)</small>
+
+d) El objeto y destino de los recursos.
 
 e) El plazo.
 
@@ -255,7 +273,9 @@ III. Fechas de la publicación de los decretos de autorización de la Legislatur
 
 IV. En el caso de los municipios y sus entidades, la fecha del acta de cabildo u órgano interno de gobierno en la que se autoriza a éstos a contraer empréstitos, solicitud y otorgamiento del aval o deudor solidario del Gobierno el Estado o municipio y, en su caso, a afectar garantías;
 
-V. Garantías afectadas;
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2013)</small>
+
+V. Transmisión, gravamen o afectación de los ingresos y derechos que sirvan como fuente de pago o garantía;
 
 VI. Cumplimiento o incumplimiento de las obligaciones contraídas;
 
@@ -294,6 +314,24 @@ V. Cualquier otro requisito que en forma general determine el Poder Ejecutivo de
 Para los efectos de esta Ley, se entiende por reestructuración de la deuda pública, la celebración de contratos, convenios o cualquier otro acto jurídico que tenga por objeto la sustitución de acreedor, consolidación, novación, subrogación, renovación o reestructuración de la deuda existente, con el objeto de lograr mejores condiciones de la misma.
 
 La reestructuración a que se refiere el párrafo anterior, se sujetará a las disposiciones aplicables para la contratación prevista en esta Ley.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2013)</small>
+
+###### Artículo 17.
+
+La deuda de corto plazo que contraiga el Poder Ejecutivo del Estado y los Ayuntamientos, los organismos descentralizados estatales o municipales, empresas de participación estatal o municipal mayoritarias y los fideicomisos públicos paraestatales o paramunicipales, derivada de un financiamiento, crédito, empréstito o préstamo, no podrá ser refinanciada en periodos superiores a la gestión del gobierno en turno.
+
+Los cambios en los plazos tendrán que informarse a la Legislatura del Estado y los cabildos correspondientes, especificando los motivos del refinanciamiento y los conceptos para los que serán utilizados los recursos conforme a lo permitido por las leyes Federales y Locales aplicables.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 1 DE FEBRERO DE 2013)</small>
+
+###### Artículo 18.
+
+El Poder Ejecutivo del Estado y los Municipios enviarán a la Legislatura informes trimestrales sobre el ejercicio y destino de los recursos provenientes de la contratación de deuda pública.
+
+El Poder Ejecutivo del Estado y los Municipios, deberán informar en sus respectivas páginas oficiales de internet y medios de comunicación local, sobre los proyectos en que será invertido el recurso contratado a través del mecanismo de deuda pública.
+
+Los informes relativos a la contratación de deuda cuyos recursos se destinen a la ejecución de proyectos de inversión pública productiva, deberán contener la relación de proyectos, la información referente al costo, su beneficio social, periodo de ejecución y el grado de avance.
 
 ## TRANSITORIOS
 
@@ -347,7 +385,7 @@ Secretario de Gobierno
 
 Rúbrica
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 14 DE OCTUBRE DE 2009.
 
@@ -360,3 +398,15 @@ P.O. 21 DE DICIEMBRE DE 2010.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 1 DE FEBRERO DE 2013.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones legales igual (sic) o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Dentro de los 30 días naturales siguientes al inicio de vigencia de la presente Ley, el Poder Ejecutivo del Estado, en coordinación con los Municipios respectivos, realizarán los actos conducentes a efecto de actualizar los datos del Registro previsto en la Ley de Deuda Pública del Estado de Querétaro. La información que contendrá el mencionado registro público deberá incluir todas las operaciones vigentes que conforme al concepto reformado de deuda pública sean considerados como tales independientemente de si en su origen se les dio tal carácter o no. Asimismo, la información deberá contener todas las enajenaciones, gravámenes y afectaciones vigentes de ingresos o derechos que hayan otorgado el Estado y los municipios en cualesquier operación financiera o de deuda pública.
+
+### Capítulo Sexto. De la Transparencia
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2013)</small>
