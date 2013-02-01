@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "2012-08-31"
+last_updated: "2013-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2013.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -211,7 +211,45 @@ Toda contribución se destinará al gasto público y estará prevista en la Ley 
 
 Al inicio de cada año y en tanto no se aprueben y entren en vigor las leyes de Ingresos o Presupuestos de Egresos que correspondan, se aplicarán de manera provisional para dicho ejercicio fiscal, las leyes de ingresos y presupuestos de egresos en iguales términos al ejercicio fiscal anterior.
 
-Sólo podrán contratarse empréstitos cuando se destinen a inversiones públicas productivas, conforme a las bases que establezca la ley.
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2013)</small>
+
+Las entidades públicas no podrán contraer directa o indirectamente obligaciones o deuda pública con gobiernos de otras naciones, con sociedades o particulares extranjeros o cuando deban pagarse en moneda extranjera o fuera del territorio nacional.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2013)</small>
+
+El gobierno del estado y los municipios no podrán contraer deuda pública sino cuando se destine a inversiones públicas productivas, incluyendo operaciones de refinanciamiento y reestructura, y excluyendo cualesquier destino a gasto corriente, inclusive los que contraigan organismos descentralizados estatales o municipales, entidades y empresas de participación estatal o municipal mayoritarias y fideicomisos públicos paraestatales o paramunicipales, conforme a las bases que establezca la ley, por los conceptos y hasta por los montos que las mismas fijen anualmente en los respectivos presupuestos y cuando se satisfagan las siguientes condiciones:
+
+a) Que salvo el caso de emergencias legalmente declaradas, los recursos se destinen a inversión física de beneficio para la comunidad, cuya vida útil sea igual o mayor al plazo de la deuda y no exceda de doce años.
+
+b) Que haya sido previamente autorizada por la legislatura en cuanto a su monto y destino específicos, por el voto afirmativo de dos tercios de sus miembros.
+
+c) Que, conforme a las proyecciones que realicen peritos calificados, el servicio del conjunto de deudas ciertas y contingentes contraídas, no exceda en ningún ejercicio de una cuarta parte de los recursos que el Estado o Municipio tendría disponibles para inversión en ausencia de endeudamiento.
+
+d) Que en el caso de deuda contratada para hacer frente a una emergencia legalmente declarada, se dedique a pagarla cuando menos una cantidad igual a la que se destine a inversión en los siguientes ejercicios hasta su liquidación.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2013)</small>
+
+El Poder Ejecutivo y los Municipios deberán informar de su ejercicio al rendir la cuenta pública y serán responsables del cumplimiento de estas normas.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2013)</small>
+
+Por deuda pública se entiende toda operación constitutiva de un pasivo, directo, indirecto o contingente, de corto, mediano o largo plazo, que contraigan los estados y los municipios, inclusive los organismos descentralizados estatales o municipales, empresas de participación estatal o municipal mayoritarias y los fideicomisos públicos paraestatales o paramunicipales, derivada de un financiamiento, crédito, empréstito o préstamo, independientemente de la forma mediante la que se les instrumente, excluyendo las obligaciones de pago multianuales que se deriven de contratos de obra pública, prestación de servicios, arrendamientos o adquisiciones.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2013)</small>
+
+El estado y los municipios, inclusive los organismos descentralizados estatales o municipales, las empresas de participación estatal o municipal mayoritarias y los fideicomisos públicos paraestatales o paramunicipales, requieren de la aprobación de las dos terceras partes de los integrantes de la Legislatura para afectar, como fuente de pago o garantía, cualesquiera de sus ingresos y derechos, presentes o futuros, en el entendido de que no podrán enajenar, gravar o afectar dichos ingresos o derechos en operaciones financieras sin que medie una operación constitutiva de deuda pública.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2013)</small>
+
+El Gobierno del Estado no podrá contraer e inscribir deuda durante el último año de su gestión, salvo casos de emergencia, en cuyo caso deberá ser aprobada por la Legislatura en los términos del párrafo anterior. En el caso de los municipios la regla dispuesta en el párrafo anterior aplicará durante los últimos seis meses de su gestión, con la aprobación de las dos terceras partes del Ayuntamiento respectivo.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2013)</small>
+
+Al menos el treinta por ciento de la contratación de deuda pública debe respaldarse con contribuciones propias del estado o municipios.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2013)</small>
+
+El estado constituirá un registro público con criterios homologados y comunes de acuerdo con los estándares internacionales vigentes, en el que se registrarán todas las operaciones de deuda pública que contraigan el estado y los municipios, inclusive la que contraten los organismos descentralizados estatales o municipales, las empresas de participación estatal o municipal mayoritarias y los fideicomisos públicos paraestatales o paramunicipales; el destino de los recursos provenientes de dichas operaciones; así como la transmisión, gravamen o afectación de sus ingresos y derechos que sirvan como fuente de pago o garantía.
 
 La responsabilidad del Estado por los daños que, con motivo de su actividad administrativa, error judicial, funcionamiento irregular o por la ilegal privación de su libertad, se causen en los bienes o derechos de los particulares, será objetiva y directa. Los particulares tendrán derecho a una indemnización conforme a las bases, límites y procedimientos que establezcan las leyes.
 
@@ -1320,3 +1358,11 @@ Artículo Primero. Aprobada que sea la presente Ley, en los términos de los (si
 Artículo Segundo. Aprobada que sea la presente Ley, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 Artículo Tercero. Se derogan todos los ordenamientos que se opongan a lo dispuesto en esta Ley.
+
+P.O. 1 DE FEBRERO DE 2013.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones legales (sic) igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Dentro de los 30 días naturales siguientes al inicio de vigencia de la presente Ley, el Poder Ejecutivo del Estado, en coordinación con los Municipios respectivos, realizarán los actos conducentes a efecto de actualizar los datos del Registro previsto en la Ley de Deuda Pública del Estado de Querétaro. La información que contendrá el mencionado registro público deberá incluir todas las operaciones vigentes que conforme al concepto reformado de deuda pública sean considerados como tales independientemente de si en su origen se les dio tal carácter o no. Asimismo, la información deberá contener todas las enajenaciones, gravámenes y afectaciones vigentes de ingresos o derechos que hayan otorgado el Estado y los municipios en cualesquier operación financiera o de deuda pública.
