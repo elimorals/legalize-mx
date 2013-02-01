@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-al-ambiente-para-el-estado-de-baja-23012"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-30"
-last_updated: "2013-01-18"
+last_updated: "2013-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2013.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 30 de noviembre de 2001.
 
@@ -1603,17 +1603,55 @@ Queda prohibido la circulación de automotores que emitan contaminantes, cuyos n
 
 La autoridad correspondiente podrá limitar la circulación de vehículos automotores en el Estado, incluyendo los que cuenten con placas expedidas por otra (sic) entidades federativas o en el extranjero, para prevenir y reducir las emisiones contaminantes, conforme a lo previsto por el Programa de Verificación Vehicular que expida la Secretaría, y en su caso, los reglamentos municipales que se emitan al respecto.
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 2010)</small>
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2013)</small>
 
 ###### ARTÍCULO 118.
 
-Los propietarios o poseedores de vehículos automotores en circulación deberán someter sus unidades a la verificación de emisiones contaminantes en los centros de verificación, dentro del periodo que le corresponda en los términos del Programa de Verificación Vehicular, así como obtener la constancia de verificación de emisiones en la que se señale que se cumple con los límites máximos permisibles que establezcan las normas oficiales mexicanas y demás aplicables, así como revalidarla anualmente.
+Los propietarios o poseedores de vehículos automotores en circulación deberán someter sus unidades a la verificación de emisiones contaminantes en los centros de verificación, dentro del periodo que le corresponda, de acuerdo al último dígito de las placas de circulación del vehículo, así como obtener la constancia de verificación de emisiones en la que se señale que se cumple con los límites máximos permisibles que establezcan las normas oficiales mexicanas y demás aplicables, revalidándola anualmente, en los siguientes términos:
 
-En su caso, los propietarios o poseedores de vehículos automotores deberán reparar los sistemas de emisiones de contaminantes de estos y sustituir los equipos y dispositivos que no funcionen adecuadamente en aquellos, en los términos que determine el Programa de Verificación Vehicular.
+Último digito de la placa Periodo de verificación
 
-El propietario o poseedor de un vehículo automotor que no haya realizado la verificación dentro del periodo que le corresponda, de acuerdo al calendario establecido en el Programa de Verificación Vehicular, deberá trasladarse en un término de treinta días naturales, únicamente a un taller mecánico o a un centro de verificación.
+de circulación
 
-Las sanciones por el incumplimiento a lo previsto en el presente artículo serán determinadas conforme a la presente Ley y a los reglamentos municipales en materia de transito, según corresponda.
+1 Enero-Febrero
+
+2 Febrero-Marzo
+
+3 Marzo-Abril
+
+4 Abril-Mayo
+
+5 Mayo-Junio
+
+6 Junio-Julio
+
+7 Julio-Agosto
+
+8 Agosto-Septiembre
+
+9 Septiembre-Octubre
+
+0 Noviembre-Diciembre
+
+Lo anterior, sin perjuicio de que los propietarios o poseedores de los vehículos puedan verificar de manera anticipada al mes calendario que le corresponda.
+
+En su caso, los propietarios o poseedores de vehículos automotores deberán reparar los sistemas de emisiones de contaminantes de éstos y sustituir los equipos y dispositivos que no funcionen adecuadamente en aquellos, en los términos que determine el Programa de Verificación Vehicular.
+
+El propietario o poseedor de un vehículo automotor que no haya realizado la verificación dentro del periodo que le corresponda, de acuerdo al calendario establecido en la ley, deberá trasladarse en un término de treinta días naturales, únicamente a un taller mecánico o a un centro de verificación.
+
+Los propietarios y/o poseedores que incumplan con la verificación en el periodo determinado en el Calendario, se harán acreedores a una multa administrativa de 5 a 8 días de salario mínimo general vigente, contando con 30 días naturales para cumplir con la respectiva verificación.
+
+El cobro correspondiente de pago de la multa que expida la Secretaría de Planeación y Finanzas será exhibido ante el Centro, por el propietario y/o poseedor, cuando acuda a realizar la verificación correspondiente, lo anterior sin perjuicio de la multa que la autoridad municipal determine en los reglamentos de tránsito correspondientes.
+
+(NOTA: EL 2 DE JUNIO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 58/2013, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS A PARTIR DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: “CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES.” (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249).
+
+CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA. (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2013)</small>
+
+ARTÍCULO 118 BIS.- Los vehículos con una antigüedad mínima de 40 años, contados a partir de la fecha de su fabricación y que sus partes y componentes mecánicos y de carrocería conserven sus características de originalidad y de operación hasta en un 95%, podrán solicitar cumplir con la verificación de acuerdo a los requisitos y al calendario establecidos en el Programa que emita la Secretaría.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ENERO DE 2010)</small>
 
@@ -2720,3 +2758,13 @@ El Ejecutivo implementará en un periodo de 90 días, la forma y dependencia res
 P.O. 18 DE ENERO DE 2013.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE FEBRERO DE 2013.
+
+PRIMERO.- Los Ayuntamientos contarán con un plazo de 30 días naturales contados a partir de la publicación del presente Decreto para homologar sus respectivos reglamentos a fin de sancionar a quien conduzca un vehículo que no cuente con el holograma de verificación vehicular vigente.
+
+SEGUNDO.- Para el ejercicio fiscal 2013 los automóviles que no hayan obtenido el certificado que acredite haber aprobado la verificación vehicular correspondiente, podrán presentar en su lugar la constancia técnica de verificación.
+
+TERCERO.- Los vehículos registrados o procedentes de otras entidades federativas o del extranjero, no podrán ser sancionados por esta causa, pero están obligados a no rebasar los límites máximos permisibles de emisiones contaminantes señalados en las Normas Mexicanas.
+
+CUARTO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
