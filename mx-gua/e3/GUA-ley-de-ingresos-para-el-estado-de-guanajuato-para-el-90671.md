@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-ingresos-para-el-estado-de-guanajuato-para-el-90671"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2012-12-21"
-last_updated: "2012-12-21"
+last_updated: "2013-02-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90671&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "GUA"
 ---
 # LEY DE INGRESOS PARA EL ESTADO DE GUANAJUATO PARA EL EJERCICIO FISCAL DE 2013
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 1 DE FEBRERO DE 2013 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE INGRESOS PARA EL ESTADO DE GUANAJUATO PARA EL EJERCICIO FISCAL DE 2013
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 1 DE FEBRERO DE 2013.</small>
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 21 de diciembre de 2012.
 
@@ -2601,8 +2601,6 @@ Recepción de participaciones y aportaciones federales
 
 El Estado percibirá las participaciones y aportaciones de los ingresos federales en los términos que establecen la Ley de Coordinación Fiscal y los convenios celebrados con el Gobierno Federal.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTOS ARTÍCULOS TRANSITORIOS DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 1 DE FEBRERO DE 2013 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 T R A N S I T O R I O S
 
 Vigencia de la Ley
@@ -2625,7 +2623,9 @@ Cruz Roja Mexicana y Bomberos
 
 Artículo Quinto. De los recursos recaudados por el refrendo anual de placas metálicas, contenido en el artículo 10 fracciones I y II de la presente Ley, se destinarán las cantidades de cinco pesos a la Delegación de la Cruz Roja Mexicana en Guanajuato, y de cinco pesos a la Asociación de Bomberos del Estado de Guanajuato, A.C., los que serán depositados en los fideicomisos creados por cada una de dichas instituciones.
 
-LO TENDRÁ ENTENDIDO EL CIUDADANO GOBERNADOR CONSTITUCIONAL DEL ESTADO Y DISPONDRÁ QUE SE IMPRIMA, PUBLIQUE, CIRCULE Y SE LE DÉ EL DEBIDO CUMPLIMIENTO. GUANAJUATO, GTO., 19 DE DICIEMBRE DE 2012.- ALFONSO GUADALUPE RUIZ CHICO.- DIPUTADO PRESIDENTE.- KARLA ALEJANDRINA LANUZA HERNÁNDEZ.- DIPUTADA SECRETARIA. GALO CARRILLO VILLALPANDO.- DIPUTADO SECRETARIO. RÚBRICAS.
+> <small>(F. DE E., P.O. 1 DE FEBRERO DE 2013)</small>
+
+LO TENDRÁ ENTENDIDO EL CIUDADANO GOBERNADOR CONSTITUCIONAL DEL ESTADO Y DISPONDRÁ QUE SE IMPRIMA, PUBLIQUE, CIRCULE Y SE LE DÉ EL DEBIDO CUMPLIMIENTO.- GUANAJUATO, GTO., 19 DE DICIEMBRE DE 2012.- ALFONSO GUADALUPE RUIZ CHICO.- DIPUTADO PRESIDENTE.- KARLA ALEJANDRINA LANUZA HERNÁNDEZ.- DIPUTADA SECRETARIA.- GALO CARRILLO VILLALPANDO.- DIPUTADO SECRETARIO.- RÚBRICAS.
 
 Por lo tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
@@ -2638,3 +2638,9 @@ EL SECRETARIO DE VINCULACIÓN Y DESARROLLO POLÍTICO
 TOMÁS LÓPEZ MARTÍNEZ
 
 Encargado del Despacho de la Secretaría de Gobierno, con fundamento en el artículo 78 del Reglamento Interior de la Secretaría de Gobierno.
+
+> <small>(F. DE E., P.O. 1 DE FEBRERO DE 2013)</small>
+
+EL SECRETARIO DE FINANZAS, INVERSIÓN Y ADMINISTRACIÓN
+
+JUAN IGNACIO MARTÍN SOLÍS
