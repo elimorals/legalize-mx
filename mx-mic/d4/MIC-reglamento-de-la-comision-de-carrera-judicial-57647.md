@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-de-la-comision-de-carrera-judicial-57647"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-11-23"
-last_updated: "2007-11-23"
+last_updated: "2013-02-01"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57647&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MIC"
 ---
 # REGLAMENTO DE LA COMISION DE CARRERA JUDICIAL
 
-REGLAMENTO DE LA COMISION DE CARRERA JUDICIAL
+REGLAMENTO DE LA COMISIÓN DE CARRERA JUDICIAL DEL ESTADO DE MICHOACÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2013.
 
 Reglamento publicado en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el viernes 23 de noviembre de 2007.
 
@@ -104,6 +104,42 @@ Los aspirantes a las categorías indicadas en el artículo 108 de la Ley Orgáni
 ###### Artículo 8º.
 
 La Comisión es el órgano del Consejo encargado de los asuntos relacionados con el ingreso, permanencia y promoción de los servidores públicos afectos a la Carrera Judicial.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2013)</small>
+
+###### Artículo 8° Bis.
+
+Para el cumplimiento de sus atribuciones el Presidente de la Comisión, además del personal a su cargo como Consejero, dispondrá de un Secretario Técnico, quien tendrá las funciones siguientes:
+
+I. Fungir como Secretario de Acuerdos de la Comisión y del Presidente de la misma;
+
+II. Asistir a las reuniones de la Comisión; redactar las actas y cuidar que éstas sean firmadas y archivadas; y, auxiliar al Presidente de la misma en la elaboración de la lista de asuntos tratados;
+
+III. Dar fe de las actuaciones y los acuerdos adoptados por la Comisión y de su Presidencia;
+
+IV. Practicar las diligencias que le sean ordenadas por el Presidente de la Comisión;
+
+V. Expedir, previa autorización del Presidente de la Comisión, copias simples o certificadas de los documentos que obren en los expedientes que estén bajo su custodia;
+
+VI. Firmar, conjuntamente con el Presidente y demás Consejeros de la Comisión, las actas que se elaboren con motivo de las reuniones de la Comisión;
+
+VII. Guardar bajo su custodia el archivo de los expedientes y documentos que se encuentren en trámite por la Comisión, llevando el registro y control de aquellos que se turnen a los Consejeros;
+
+VIII. Auxiliar al Presidente de la Comisión en el registro de asistencia de los Consejeros a las reuniones;
+
+IX. Cumplir los acuerdos e instrucciones que provengan de la Comisión, el Presidente de la misma, el Consejo o de su Presidente;
+
+X. Dar cuenta diariamente al Presidente de la Comisión con la correspondencia recibida;
+
+XI. Elaborar, firmar y publicar diariamente en los estrados de la Comisión, la lista de las resoluciones pronunciadas por la presidencia;
+
+XII. Encargarse del despacho de la correspondencia dirigida al Presidente de la Comisión;
+
+XIII. Registrar e integrar los expedientes de los procedimientos iniciados con motivo de la ratificación en el cargo de los jueces de primera instancia y menores del Estado, en el libro correspondiente;
+
+XIV. Auxiliar al Presidente de la Comisión en la elaboración del informe anual de actividades; y,
+
+XV. Las demás que se le confieran conforme a la normatividad aplicable.
 
 ###### Artículo 9º.
 
@@ -382,3 +418,11 @@ C E R T I F I C A
 Que este Reglamento de la Comisión de Carrera Judicial del Consejo del Poder Judicial del Estado, que tiene por objeto regular el Sistema a través del cual los servidores públicos que realizan funciones jurisdiccionales ingresan, permanecen o son promovidos a las diferentes categorías previstas por la Ley Orgánica dentro del Poder Judicial del Estado, fue aprobado en sesión del 14 catorce de noviembre del 2007 dos mil siete, por unanimidad de votos de los Consejeros:
 
 Magistrado Presidente M. en D. Fernando Arreola Vega, Lic. María de los Ángeles Ruciles Gracián, Lic. Margarita Leal Torres, Lic. Marco Antonio Flores Negrete y Lic. J. Jesús Sierra Arias, Morelia, Michoacán, a 16 dieciséis de noviembre del 2007 dos mil siete.- Doy fe.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 1 DE FEBRERO DE 2013.
+
+PRIMERO. Publíquese la presente adición en el Periódico Oficial del Estado.
+
+SEGUNDO. La presente adición entrará en vigor al día siguiente hábil de su publicación en el Periódico Oficial del Estado.
