@@ -4,7 +4,7 @@ identifier: "BCN-ley-que-regula-los-servicios-de-control-vehicular-en-el-76991"
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-08"
-last_updated: "2012-09-28"
+last_updated: "2013-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY QUE REGULA LOS SERVICIOS DE CONTROL VEHICULAR EN EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2013.
 
 Ley publicada en la Sección I al Periódico Oficial del Estado de Baja California, el viernes 8 de octubre de 2010.
 
@@ -177,9 +177,17 @@ III.- El nombre, denominación o razón social y domicilio, del o los propietari
 
 El alta de los vehículos en este Registro Estatal Vehicular se acreditará mediante los elementos de identificación vehicular vigentes.
 
+(NOTA: EL 2 DE JUNIO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 58/2013, DECLARÓ LA INVALIDEZ DEL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS A PARTIR DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: “CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES.” (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249).
+
+CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA. (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2013)</small>
+
 ###### ARTÍCULO 7.
 
-Para realizar el alta de un vehículo y obtener sus elementos de identificación vehicular, el interesado deberá reunir los siguientes requisitos:
+PARA REALIZAR EL ALTA DE UN VEHÍCULO Y OBTENER SUS ELEMENTOS DE IDENTIFICACIÓN VEHICULAR, EL INTERESADO DEBERÁ REUNIR LOS SIGUIENTES REQUISITOS:
 
 I.- Presentar factura de origen que hubiese expedido el fabricante, ensamblador, distribuidor autorizado o empresas comerciales dedicadas a la compra y venta de vehículos usados en la que se identifique el vehículo en su individualidad; salvo en el caso que haya sido importado directamente por un particular, en los términos de las disposiciones legales vigentes, supuesto en el que deberá presentar el pedimento en el que conste la legal importación del vehículo;
 
@@ -199,13 +207,29 @@ VII.- En caso de ser permisionario o concesionario del servicio público, presen
 
 VIII.- Presentar el formato electrónico de Registro de Comerciantes de Autos, excepto en los vehículos importados directamente por el interesado, así como los adquiridos fuera del Estado;
 
-> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
+(NOTA: EL 2 DE JUNIO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 58/2013, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IX DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS A PARTIR DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-IX.- Presentar seguro de responsabilidad civil vigente que ampare los conceptos y el monto señalado en el artículo 18 BIS de este ordenamiento, y
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: “CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES.” (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249).
 
-> <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
+CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA. (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
 
-X.- Realizar el pago de los derechos correspondientes, establecidos en la Ley de Ingresos.
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2013)</small>
+
+IX.- PRESENTAR SEGURO DE RESPONSABILIDAD CIVIL VIGENTE QUE AMPARE LOS CONCEPTOS Y EL MONTO SEÑALADO EN EL ARTÍCULO 18 BIS DE ESTE ORDENAMIENTO;
+
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2013)</small>
+
+X.- Contar con el certificado vigente y el holograma que acredite haber aprobado la verificación vehicular; y,
+
+(NOTA: EL 2 DE JUNIO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 58/2013, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS A PARTIR DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: “CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES.” (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249).
+
+CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA. (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE FEBRERO DE 2013)</small>
+
+XI.- REALIZAR EL PAGO DE LOS DERECHOS CORRESPONDIENTES, ESTABLECIDOS EN LA LEY DE INGRESOS.
 
 ###### ARTÍCULO 8.
 
@@ -309,9 +333,17 @@ Las placas de circulación se colocarán invariablemente en la parte trasera y d
 
 Tratándose de vehículos que por su naturaleza se les expida una sola placa de circulación, ésta se colocará invariablemente en la parte trasera del mismo, debiendo quedar completamente visible.
 
+(NOTA: EL 2 DE JUNIO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 58/2013, DECLARÓ LA INVALIDEZ DEL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS A PARTIR DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: “CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES.” (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249).
+
+CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA. (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2013)</small>
+
 ###### ARTÍCULO 17.
 
-Todo vehículo para que pueda circular en el Estado, deberá reunir los siguientes requisitos:
+TODO VEHÍCULO PARA QUE PUEDA CIRCULAR EN EL ESTADO, DEBERÁ REUNIR LOS SIGUIENTES REQUISITOS:
 
 I.- Estar dado de alta ante el Registro Estatal Vehicular, a excepción de lo establecido en el artículo 18 de esta Ley;
 
@@ -319,13 +351,29 @@ II.- Portar los elementos de identificación vehicular vigentes que deberán coi
 
 III.- Reunir las condiciones de seguridad y buen funcionamiento mecánico, para la circulación y seguridad pública. La Oficina Recaudadora podrá solicitar al interesado el acreditamiento de este requisito, a través de constancia expedida por la autoridad estatal o municipal competente, y (sic)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+(NOTA: EL 2 DE JUNIO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 58/2013, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS A PARTIR DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JULIO DE 2011)</small>
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: “CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES.” (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249).
 
-IV.- Contar con un seguro de responsabilidad civil vigente que ampare cuando menos, los daños que se lleguen a ocasionar a terceros en su persona y en sus bienes con motivo de un accidente de tránsito, de conformidad con el artículo 18 BIS de este ordenamiento, y
+CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA. (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
 
-V.- Cumplir con las disposiciones municipales respectivas que no contravengan lo establecido en esta Ley.
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2013)</small>
+
+IV.- CONTAR CON UN SEGURO DE RESPONSABILIDAD CIVIL VIGENTE QUE AMPARE CUANDO MENOS, LOS DAÑOS QUE SE LLEGUEN A OCASIONAR A TERCEROS EN SU PERSONA Y EN SUS BIENES CON MOTIVO DE UN ACCIDENTE DE TRÁNSITO, DE CONFORMIDAD CON EL ARTÍCULO 18 BIS DE ESTE ORDENAMIENTO;
+
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2013)</small>
+
+V.- Contar con el certificado y holograma de verificación vehicular vigente que acredite haber aprobado la verificación vehicular; y,
+
+(NOTA: EL 2 DE JUNIO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 58/2013, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS A PARTIR DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: “CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES.” (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249).
+
+CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA. (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE FEBRERO DE 2013)</small>
+
+VI.- CUMPLIR CON LAS DISPOSICIONES MUNICIPALES RESPECTIVAS QUE NO CONTRAVENGAN LO ESTABLECIDO EN ESTA LEY.
 
 ###### ARTÍCULO 18.
 
@@ -435,13 +483,29 @@ VII.- Justificar el número de placas demostradoras que requiere para su negocio
 
 VIII.- inscribirse en el Registro de Comerciantes de Autos;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+(NOTA: EL 2 DE JUNIO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 58/2013, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IX DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS A PARTIR DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JULIO DE 2011)</small>
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249).
 
-IX.- Presentar seguro de responsabilidad civil o póliza de plan de piso vigente que ampare los conceptos y el monto señalado en el artículo 18 BIS de este ordenamiento, y
+CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA. (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
 
-X.- Realizar el pago de los derechos correspondientes, establecidos en la Ley de Ingresos.
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2013)</small>
+
+IX.- PRESENTAR SEGURO DE RESPONSABILIDAD CIVIL O PÓLIZA DE PLAN DE PISO VIGENTE QUE AMPARE LOS CONCEPTOS Y EL MONTO SEÑALADO EN EL ARTÍCULO 18 BIS DE ESTE ORDENAMIENTO;
+
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2013)</small>
+
+X.- Contar con el certificado vigente que acredite haber aprobado la verificación vehicular; y,
+
+(NOTA: EL 2 DE JUNIO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 58/2013, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS A PARTIR DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249).
+
+CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA. (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE FEBRERO DE 2013)</small>
+
+XI.- REALIZAR EL PAGO DE LOS DERECHOS CORRESPONDIENTES, ESTABLECIDOS EN LA LEY DE INGRESOS.
 
 La Secretaría a través de las Oficinas Recaudadoras determinará el juego de placas demostradoras que expedirá a la negociación que haya cumplido con los requisitos señalados en este artículo, sin que dicha determinación pueda ser impugnada mediante algún medio de defensa.
 
@@ -449,9 +513,17 @@ En caso de que la negociación a la que se le expidió placas demostradoras haga
 
 La Secretaría, podrá implementar los mecanismos que considere convenientes a efecto de verificar y controlar el uso correcto de las placas a que se refiere este artículo. La Secretaría también podrá cancelar la vigencia de las placas demostradoras en los términos de lo señalado en el artículo 30 y en caso que existan elementos que se consideren que violan lo establecido en esta Ley u otras disposiciones legales aplicables.
 
+(NOTA: EL 2 DE JUNIO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 58/2013, DECLARÓ LA INVALIDEZ DEL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS A PARTIR DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249).
+
+CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA. (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2013)</small>
+
 ###### ARTÍCULO 27.
 
-Para la revalidación de las tarjetas de circulación y el canje de placas demostradoras en su caso, el solicitante deberá cumplir con los siguientes requisitos:
+PARA LA REVALIDACIÓN DE LAS TARJETAS DE CIRCULACIÓN Y EL CANJE DE PLACAS DEMOSTRADORAS EN SU CASO, EL SOLICITANTE DEBERÁ CUMPLIR CON LOS SIGUIENTES REQUISITOS:
 
 I.- Entregar la tarjeta de circulación anterior, y en su caso las placas demostradoras anteriores;
 
@@ -465,13 +537,29 @@ IV.- Acreditar encontrarse al corriente de sus obligaciones fiscales ante el Est
 
 V.- Justificar el número de placas demostradoras para su negocio, por las que solicita revalidación de tarjeta de circulación y canje de las mismas, en su caso;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+(NOTA: EL 2 DE JUNIO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 58/2013, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS A PARTIR DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JULIO DE 2011)</small>
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249).
 
-VI.- Presentar seguro de responsabilidad civil o póliza de plan de piso vigente que ampare los conceptos y el monto señalado en el artículo 18 BIS de este ordenamiento, y
+CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA. (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
 
-VII.- Realizar el pago de los derechos correspondientes, establecidos en la Ley de Ingresos.
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2013)</small>
+
+VI.- PRESENTAR SEGURO DE RESPONSABILIDAD CIVIL O PÓLIZA DE PLAN DE PISO VIGENTE QUE AMPARE LOS CONCEPTOS Y EL MONTO SEÑALADO EN EL ARTÍCULO 18 BIS DE ESTE ORDENAMIENTO;
+
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2013)</small>
+
+VII.- Contar con el certificado vigente que acredite haber aprobado la verificación vehicular; y,
+
+(NOTA: EL 2 DE JUNIO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 58/2013, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS A PARTIR DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249).
+
+CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA. (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE FEBRERO DE 2013)</small>
+
+VIII.- REALIZAR EL PAGO DE LOS DERECHOS CORRESPONDIENTES, ESTABLECIDOS EN LA LEY DE INGRESOS.
 
 ###### ARTÍCULO 28.
 
@@ -495,9 +583,17 @@ VII.- Realizar el pago de los derechos correspondientes, establecidos en la Ley 
 
 Ingresos.
 
+(NOTA: EL 2 DE JUNIO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 58/2013, DECLARÓ LA INVALIDEZ DEL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS A PARTIR DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249).
+
+CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA. (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2013)</small>
+
 ###### ARTÍCULO 29.
 
-Para el canje de tarjeta de circulación y placas de circulación en su caso, el solicitante deberá reunir los siguientes requisitos:
+PARA EL CANJE DE TARJETA DE CIRCULACIÓN Y PLACAS DE CIRCULACIÓN EN SU CASO, EL SOLICITANTE DEBERÁ REUNIR LOS SIGUIENTES REQUISITOS:
 
 I.- Entregar la tarjeta de circulación, y en su caso las placas de circulación, anteriores;
 
@@ -511,13 +607,29 @@ IV.- Presentar certificado de no adeudo municipal, en los términos que se estab
 
 V.- Para vehículos del servicio público de transporte, deberán presentar además el permiso o concesión vigente;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+(NOTA: EL 2 DE JUNIO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 58/2013, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS A PARTIR DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JULIO DE 2011)</small>
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249).
 
-VI.- Presentar seguro de responsabilidad civil vigente que ampare los conceptos y el monto señalado en el artículo 18 BIS de este ordenamiento, y
+CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA. (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
 
-VII.- Realizar el pago de los derechos correspondientes, establecidos en la Ley de Ingresos.
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2013)</small>
+
+VI.- PRESENTAR SEGURO DE RESPONSABILIDAD CIVIL VIGENTE QUE AMPARE LOS CONCEPTOS Y EL MONTO SEÑALADO EN EL ARTÍCULO 18 BIS DE ESTE ORDENAMIENTO;
+
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2013)</small>
+
+VII.- Contar con el certificado vigente que acredite haber aprobado la verificación vehicular; y,
+
+(NOTA: EL 2 DE JUNIO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 58/2013, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS A PARTIR DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249).
+
+CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA. (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE FEBRERO DE 2013)</small>
+
+VIII.- REALIZAR EL PAGO DE LOS DERECHOS CORRESPONDIENTES, ESTABLECIDOS EN LA LEY DE INGRESOS.
 
 ### CAPÍTULO III. DE LA CANCELACIÓN DE LAS PLACAS DE CIRCULACIÓN
 
@@ -878,3 +990,13 @@ P.O. 28 DE SEPTIEMBRE DE 2012.
 PRIMERO.- La presente reforma entrará en vigor el día de su publicación en el Periódico Oficial de Estado de Baja California.
 
 SEGUNDO.- Las autoridades administrativas correspondientes deberán de implementar en su sistema la exención del cobro que estipula el artículo 12 fracción V de la Ley que Regula los Servicios de Control Vehicular en el Estado de Baja California.
+
+P.O. 1 DE FEBRERO DE 2013.
+
+PRIMERO.- Los Ayuntamientos contarán con un plazo de 30 días naturales contados a partir de la publicación de presente Decreto para homologar sus respectivos reglamentos a fin de sancionar a quien conduzca un vehículo que no cuente con el holograma de verificación vehicular vigente.
+
+SEGUNDO.- Para el ejercicio fiscal 2013 los automóviles que no hayan obtenido el certificado que acredite haber aprobado la verificación vehicular correspondiente, podrán presentar en su lugar la constancia técnica de verificación.
+
+TERCERO.- Los vehículos registrados o procedentes de otras entidades federativas o del extranjero, no podrán ser sancionados por esta causa, pero están obligados a no rebasar los límites máximos permisibles de emisiones contaminantes señalados en las Normas Mexicanas.
+
+CUARTO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
