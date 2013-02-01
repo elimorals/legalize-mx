@@ -4,7 +4,7 @@ identifier: "GUA-ley-del-presupuesto-general-de-egresos-del-estado-de-90672"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-21"
-last_updated: "2012-12-21"
+last_updated: "2013-02-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90672&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "GUA"
 ---
 # LEY DEL PRESUPUESTO GENERAL DE EGRESOS DEL ESTADO DE GUANAJUATO PARA EL EJERCICIO FISCAL DE 2013
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 1 DE FEBRERO DE 2013 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DEL PRESUPUESTO GENERAL DE EGRESOS DEL ESTADO DE GUANAJUATO PARA EL EJERCICIO FISCAL DE 2013
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 1 DE FEBRERO DE 2013.</small>
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 21 de diciembre de 2012.
 
@@ -973,8 +973,6 @@ La Secretaría de la Transparencia y Rendición de Cuentas, como instancia técn
 
 Las dependencias y las entidades presentarán informes trimestrales a la Secretaría de la Transparencia y Rendición de Cuentas, para que la misma proceda a la revisión y evaluación de los resultados obtenidos.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTOS TRANSITORIOS, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 1 DE FEBRERO DE 2013 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 T R A N S I T O R I O S
 
 Vigencia de la Ley
@@ -1034,3 +1032,9 @@ EL SUBSECRETARIO DE VINCULACIÓN Y DESARROLLO POLÍTICO
 TOMÁS LÓPEZ MARTÍNEZ
 
 Encargado del Despacho de la Secretaría de Gobierno, con fundamento en el artículo 78 del Reglamento Interior de la Secretaría de Gobierno
+
+> <small>(F. DE E., P.O. 1 DE FEBRERO DE 2013)</small>
+
+EL SECRETARIO DE FINANZAS, INVERSIÓN Y ADMINISTRACIÓN
+
+JUAN IGNACIO MARTÍN SOLÍS
