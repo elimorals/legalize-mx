@@ -4,7 +4,7 @@ identifier: "COL-codigo-civil-para-el-estado-de-colima-9884"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2012-12-08"
+last_updated: "2013-02-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 NUEVO CÓDIGO CIVIL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2013.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el 25 de septiembre de 1954.
 
@@ -3643,7 +3643,9 @@ ART. 668.- El representante está obligado a promover la publicación de los edi
 
 ### CAPITULO II. De la declaración de ausencia
 
-ART. 669.- Pasados dos años desde el día en que haya sido nombrado el representante, habrá acción para pedir la declaración de ausencia.
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2013)</small>
+
+ART. 669.- Pasado un año desde el día en que haya sido nombrado el representante, habrá acción para pedir la declaración de ausencia.
 
 ART. 670.- En caso de que el ausente haya dejado o nombrado apoderado general para la administración de sus bienes, no podrá pedirse la declaración de ausencia sino pasados tres años que se contarán desde la desaparición del ausente, si en este período no se tuvieren ningunas noticias suyas, o desde la fecha en que se hayan tenido las últimas.
 
@@ -3739,9 +3741,23 @@ ART. 704.- Si el cónyuge ausente regresa o se probare su existencia, quedará r
 
 ### CAPITULO V. De la presunción de muerte del ausente
 
-ART. 705.- Cuando hayan transcurrido seis años desde la declaración de ausencia, el juez, a instancia de parte interesada, declarará la presunción de muerte.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE FEBRERO DE 2013)</small>
+
+ART. 705.- Cuando hayan transcurrido tres años desde la declaración de ausencia, el juez, a instancia de parte interesada, declarará la presunción de muerte.
 
 Respecto de los individuos que hayan desaparecido al tomar parte en una guerra, encontrándose a bordo de un buque que naufrague o al verificarse una explosión, incendio, terremoto, inundación u otro siniestro semejante, bastará que hayan transcurrido dos años, contados desde su desaparición, para que pueda hacerse la declaración de presunción de muerte, sin que en esos casos sea necesario que previamente se declare su ausencia, pero sí se tomarán las medidas provisionales autorizadas por el capítulo I de este título.
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2013)</small>
+
+Tratándose de personas no localizadas por actos presumiblemente atribuibles a la delincuencia organizada, como en los casos de secuestro, y por desaparición forzada, así como en el supuesto de servidores públicos de procuración y administración de justicia, de seguridad pública o de ejecución de sanciones penales, no localizados por hechos acontecidos durante el ejercicio de sus funciones o con motivo de ellas, bastará que hayan transcurrido dos años, contados desde su no localización, para que pueda hacerse la declaración de presunción de muerte, sin que en estos casos sea necesario que previamente se declare su ausencia; no obstante, se tomarán las medidas provisionales autorizadas por el Capítulo I de este Titulo. En estos supuestos, el Juez acordará la publicación de la declaración de presunción de muerte, sin costo alguno.
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2013)</small>
+
+Para los efectos del párrafo anterior, el Ministerio Público determinará con base en las evidencias recabadas mediante acuerdo cuando deban considerarse actos presumiblemente atribuibles a la delincuencia organizada.
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2013)</small>
+
+Cuando el Ministerio Público conozca de los hechos citados en el presente artículo, podrá promover ante la autoridad judicial competente el inicio del procedimiento que corresponda.
 
 ART. 706.- Declarada la presunción de muerte, se abrirá el testamento del ausente, si no estuviere ya publicado, conforme al artículo 680; los poseedores provisionales darán cuenta de su administración en los términos prevenidos en el artículo 694, y los herederos y demás interesados entrarán en la posesión definitiva de los bienes, sin garantía alguna. La que según la ley, se hubiere dado, quedará cancelada.
 
@@ -10868,3 +10884,11 @@ P.O. 8 DE DICIEMBRE DE 2012.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Se derogan todas las disposiciones jurídicas que se opongan al presente Decreto.
+
+P.O. 2 DE FEBRERO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Colima.
+
+SEGUNDO.- Los procedimientos regulados por las disposiciones que son reformadas mediante el presente Decreto, se seguirán conforme a lo previsto en las disposiciones vigente al momento de su configuración legal.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
