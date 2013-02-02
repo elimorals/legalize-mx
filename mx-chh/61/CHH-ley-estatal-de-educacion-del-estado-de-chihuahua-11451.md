@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-educacion-del-estado-de-chihuahua-11451"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "2012-05-23"
+last_updated: "2013-02-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2013.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
 
@@ -125,7 +125,9 @@ Los pueblos y comunidades indígenas, tendrán acceso a la educación obligatori
 
 La educación que imparta el Estado, a través de la Autoridad Educativa Estatal, será:
 
-I. Obligatoria, para la educación preescolar, primaria y secundaria en los términos de los artículos 3° de la Constitución Política de los Estados Unidos Mexicanos y 143 de la particular del Estado de Chihuahua.
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2013)</small>
+
+I. Obligatoria, para la educación preescolar, primaria, secundaria y media superior, en los términos de los artículos 3° de la Constitución Política de los Estados Unidos Mexicanos y 143 de la particular del Estado de Chihuahua.
 
 II. Gratuita, presupuestando del gasto público recursos suficientes para la prestación de los servicios educativos; las donaciones destinadas a dicha educación en ningún caso se entenderán como contraprestaciones del Servicio Educativo, por tal razón, la inscripción o el acceso de los alumnos a los planteles escolares no podrá condicionarse al pago de cuotas o donativos.
 
@@ -394,6 +396,10 @@ XLII. Establecer los mecanismos e instrumentos debidamente reglamentados, que pe
 > <small>(ADICIONADA, P.O. 8 DE FEBRERO DE 2012)</small>
 
 XLIII. Coadyuvar en la actualización y vigilar la aplicación del Sistema de Competencias Educativas.
+
+> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 2013)</small>
+
+XLIV. Informar a los padres de familia o tutores de los educandos que presenten problemas de conducta, para que, en su caso, sean canalizados a través de la estructura educativa, a las instancias de apoyo psicológico, para que se determinen alternativas de solución, o bien, si deben ser remitidos ante el DIF Estatal, con el fin de que reciban el tratamiento necesario.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -1655,9 +1661,9 @@ l. Obtener la inscripción en escuelas públicas para que sus hijas, hijos o pup
 
 II. Formar parte de las Asociaciones de Padres de Familia y representar o estar representados en los Consejos de Participación Social a que se refiere la Sección II de este Capítulo;
 
-III. Colaborar con el personal docente que atienda a sus hijas, hijos o pupilos, en el tratamiento de los problemas de conducta o de aprendizaje; así como en el mejoramiento de los establecimientos educativos;
+III. (DEROGADA, P.O. 2 DE FEBRERO DE 2013)
 
-IV. Informar a las autoridades de la escuela en la que estén inscritos sus hijos, hijas o pupilos, cualquier problema relacionado con la educación de éstos, con la finalidad de generar alternativas de solución;
+IV. (DEROGADA, P.O. 2 DE FEBRERO DE 2013)
 
 V. Formar parte de las Asociaciones de Padres de Familia y los Consejos de Participación Social a que se refiere este Capítulo;
 
@@ -1685,9 +1691,17 @@ III. Colaborar con las autoridades escolares y las organizaciones de padres de f
 
 IV. Asistir a las reuniones deliberativas convocadas en la escuela;
 
-V. Vigilar que sus hijas, hijos o pupilos cumplan con las tareas y actividades extraescolares y extracurriculares definidas por el personal docente de la escuela; y
+V. Vigilar que sus hijas, hijos o pupilos cumplan con las tareas y actividades extraescolares y extracurriculares definidas por el personal docente de la escuela; y (sic)
 
-VI. Proporcionar a sus hijas, hijos o pupilos los útiles y materiales escolares necesarios para el mejor desempeño de sus actividades; (sic)
+VI. Proporcionar a sus hijas, hijos o pupilos los útiles y materiales escolares necesarios para el mejor desempeño de sus actividades;
+
+> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 2013)</small>
+
+VII. Colaborar con el personal docente que atienda a sus hijas, hijos o pupilos, en el tratamiento de los problemas de conducta o de aprendizaje; así como en el mejoramiento de los establecimientos educativos;
+
+> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 2013)</small>
+
+VIII. Informar inmediatamente a las autoridades educativas los cambios que se presenten en la conducta y actitud de sus hijas, hijos o pupilos, para que, en su caso, sean canalizados al departamento encargado de cumplir con lo dispuesto en el artículo 13, fracción XLII, de esta Ley, con el fin de determinar las posibles causas que hayan dado origen a tales cambios y generar alternativas de solución.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -2121,7 +2135,9 @@ X. Efectuar actividades que pongan en riesgo la salud o la seguridad de los miem
 
 XI. Imponer al educando medidas correctivas que contravengan lo establecido por el artículo 30 de esta Ley;
 
-XII. Ocultar a los padres, madres o tutores las conductas de las y los alumnos que notoriamente deban ser de su conocimiento;
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2013)</small>
+
+XII. Ocultar a los padres, madres o tutores, las conductas de las y los alumnos que deban ser de su conocimiento, así como, en su caso, no realizar las acciones necesarias, cuando dentro de su ámbito de competencia, se detecten problemas de conducta que deban ser atendidos.
 
 XIII. Oponerse a las actividades de evaluación, supervisión y vigilancia, así como no proporcionar información veraz y oportuna;
 
@@ -2441,7 +2457,7 @@ EL SECRETARIO DE GOBIERNO
 
 LIC. FRANCISCO HUGO GUTIERREZ DAVILA.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 31 DE MAYO DE 2000.
 
@@ -2674,6 +2690,22 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 23 DE MAYO DE 2012.
 
 DECRETO No. 766/2012 II P.O., POR EL QUE SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 57 DE LA LEY ESTATAL DE EDUCACIÓN.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE FEBRERO DE 2013.
+
+DECRETO No. 811/2012 POR EL QUE SE REFORMA LA FRACCIÓN XII DEL ARTÍCULO 168; SE ADICIONAN UNA FRACCIÓN XLIV AL ARTÍCULO 13 Y LAS FRACCIONES VII Y VIII AL ARTÍCULO 131; SE DEROGAN LAS FRACCIONES III Y IV, DEL ARTÍCULO 130, TODOS DE LA LEY ESTATAL DE EDUCACIÓN.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE FEBRERO DE 2013.
+
+DECRETO No. 858/2012 POR EL QUE SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 5, DE LA LEY ESTATAL DE EDUCACIÓN.
 
 ###### ARTÍCULO ÚNICO.
 
