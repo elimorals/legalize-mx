@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-auditoria-superior-del-estado-de-chihuahua-56922"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-12"
-last_updated: "2012-05-30"
+last_updated: "2013-02-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE AUDITORÍA SUPERIOR DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el miércoles 12 de septiembre de 2007.
 
@@ -317,7 +317,21 @@ En caso de falta definitiva, renuncia o remoción del Auditor Superior, la Comis
 
 Si el Auditor Superior se ausentare injustificadamente por más de 10 días hábiles consecutivos, se considerará falta definitiva.
 
-El Auditor Superior será suplido en sus ausencias temporales por cualquiera de los Auditores Especiales que aquél designe, dando aviso al Congreso por conducto de la Comisión.
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2013)</small>
+
+El Auditor Superior será suplido en sus ausencias temporales que no excedan de 10 días hábiles, por cualquiera de los Auditores Especiales que aquél designe. Las ausencias temporales del cargo que excedan de 10 pero no de 30 días hábiles, deberán ser justificadas ante la Comisión y acompañadas de la suplencia designada por aquel.
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2013)</small>
+
+Las ausencias temporales del cargo de más de 30 días hábiles, deberán ser justificadas ante la Comisión, quien lo comunicará al Pleno del Congreso del Estado para que nombre a quien realizará la suplencia temporal.
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2013)</small>
+
+ARTÍCULO 13 BIS. El Auditor Superior sólo podrá ausentarse de sus funciones por motivos personales que se encuentren justificados ante la Comisión.
+
+Si la ausencia por motivos personales es superior a tres días hábiles deberá contar previamente con el visto bueno de la Comisión respecto su justificación. La ausencia del Auditor Superior sin contar con la justificación correspondiente, se considerará falta grave en los términos de lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado.
+
+Cuando se trate de salidas fuera del territorio estatal para atender asuntos inherentes a su cargo, el Auditor Superior informará a la Comisión de los resultados obtenidos dentro de los tres días hábiles siguientes de haber concluido su encomienda. La omisión de dicho aviso por parte del Auditor Superior se considerará falta grave en términos de lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado.
 
 ###### ARTÍCULO 14.
 
@@ -760,6 +774,12 @@ P.O. 29 DE AGOSTO DE 2009.
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 30 DE MAYO DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE FEBRERO DE 2013.
 
 ###### ARTÍCULO ÚNICO.
 
