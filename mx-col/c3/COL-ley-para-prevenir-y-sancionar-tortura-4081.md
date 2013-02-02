@@ -4,7 +4,7 @@ identifier: "COL-ley-para-prevenir-y-sancionar-tortura-4081"
 country: "mx"
 rank: "ley"
 publication_date: "1995-05-13"
-last_updated: "1995-05-13"
+last_updated: "2013-02-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY PARA PREVENIR Y SANCIONAR LA TORTURA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 13 de mayo de 1995.
 
@@ -63,9 +63,11 @@ Comete el delito de tortura el servidor público que, con motivo o en el ejercic
 
 No se considerarán como tortura las molestias o penalidades que sean inherentes, incidentales o derivadas de un acto legítimo de autoridad.
 
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2013)</small>
+
 ###### ARTICULO 4o.
 
-A quien cometa el delito de tortura se aplicará prisión de 1 a 10 años y multa de 50 a 500 días salario e inhabilitación para el desempeño de cualquier cargo, empleo o comisión pública hasta por dos tantos del lapso de privación de libertad impuesta, independientemente de las sanciones que se le impongan de resultar otros delitos. Para los efectos de la determinación de los días multa, se estará a lo dispuesto en el artículo 30 del Código Penal del Estado.
+A quien cometa el delito de tortura se le aplicará prisión de 3 a 12 años y multa de 50 a 500 días de salario e inhabilitación para el desempeño de cualquier cargo, empleo o comisión pública hasta por dos tantos del lapso de privación de libertad impuesta, independientemente de las sanciones que se le impongan de resultar otros delitos. Para los efectos de la determinación de los días multa, se estará a lo dispuesto en el artículo 30 del Código Penal del Estado.
 
 ###### ARTICULO 5o.
 
@@ -136,3 +138,9 @@ Por tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, a los nueve días del mes de mayo de mil novecientos noventa y cinco.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. CARLOS DE LA MADRID VIRGEN.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. RAMON PEREZ DIAZ.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 2 DE FEBRERO DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su aprobación en el Periódico Oficial "El Estado de Colima".
