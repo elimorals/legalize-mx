@@ -4,7 +4,7 @@ identifier: "CHH-codigo-de-procedimientos-civiles-del-estado-de-chihuahua-9883"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2012-07-28"
+last_updated: "2013-02-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9883&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE CHIHUAHUA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE FEBRERO DE 2013 EN EL P.O. DEL ESTADO CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2013.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -639,21 +641,25 @@ b).- Tres días para todos los demás casos.
 
 Cuando un litigante cambiare de domicilio, deberá designar el nuevo; y mientras no lo hiciere, las notificaciones personales se le seguirán haciendo en el domicilio que conste en autos. Esto mismo se aplicará a todas las demás personas que con cualquier carácter diverso del de partes, intervenga en el litigio, salvo cuando se trate de autoridades.
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE FEBRERO DE 2013 EN EL P.O. DEL ESTADO DE CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 119.- Se notificará personalmente en el domicilio del interesado:
 
 a).- El emplazamiento del demandado y la primera notificación en el juicio, aunque sean diligencias preparatorias o se trate de terceros extraños al juicio.
 
 b).- El auto que ordene la absolución de posiciones o el reconocimiento de documentos.
 
-c).- La primera resolución que se dicte cuando se dejare de actuar más de dos meses por cualquier motivo.
+c).- (DEROGADO, P.O. 2 DE FEBRERO DE 2013)
 
-d).- Cuando se estime que se trata de un caso urgente y por este motivo así se ordenare por el Tribunal.
+d).- (DEROGADO, P.O. 2 DE FEBRERO DE 2013)
 
-e).- El requerimiento de un acto a la persona que deba cumplirlo.
+e).- (DEROGADO, P.O. 2 DE FEBRERO DE 2013)
 
 f).- En los demás casos que la ley lo disponga.
 
-120.- Si se tratare de la notificación de la demanda y a la primera busca no se encontrare al demandado, cerciorado el que debe hacer la notificación de que el interesado vive en dicha casa y se encuentra en la población, le dejará cita para hora fija dentro del siguiente día, haciendo constar en el citatorio el nombre de la persona a quien se cita, el día y la hora en que debe esperar la notificación, y pondrá en el mismo el sello del juzgado autorizándose el citatorio por el notificador. Si la persona que debe ser notificada no esperase a que se le haga la notificación, ésta se le hará por medio de instructivo que se entregará a los parientes o domésticos del interesado o a cualquiera otra persona que viva en la casa; de todo lo cual se asentará razón en las diligencias. Cuando no sea forzoso entregar las copias del traslado, en el instructivo se hará una relación sucinta de la demanda y de la resolución que se notifica y, en todo caso, la designación del juicio y el nombre del promovente.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE FEBRERO DE 2013)</small>
+
+120.- Si se tratare de la notificación de la demanda y a la primera busca no se encontrare al demandado, cerciorado el que debe hacer la notificación de que el interesado vive en dicha casa, se le dejará cita para hora fija dentro del día hábil siguiente, haciendo constar en el citatorio el nombre de la persona a quien se cita, el día y la hora en que debe esperar la notificación, y pondrá en el mismo el sello del juzgado autorizándose el citatorio por el notificador. Si la persona que debe ser notificada no esperase a que se le haga la notificación, ésta se le hará por medio de instructivo que se entregará a los parientes o domésticos del interesado o a cualquiera otra persona que viva en la casa y, en caso de no atender nadie, se fijará en la puerta del domicilio donde se actúa, de todo lo cual se asentará razón en las diligencias. Cuando no sea forzoso entregar las copias del traslado, en el instructivo se hará una relación sucinta de la demanda y de la resolución que se notifica y, en todo caso, la designación del juicio y el nombre del promovente.
 
 Las demás notificaciones personales se harán al interesado, o a su representante o procurador, en la casa designada al efecto; y no encontrándolo el notificador, sin necesidad de nueva búsqueda, le dejará un instructivo en el que hará constar la fecha y hora en que la entrega, el nombre y apellido del promovente, el Tribunal que manda practicar la diligencia, la determinación que se manda notificar y el nombre y apellido de la persona a quien se entrega, recogiéndole la firma en la razón que asentará del acto. Si ésta no supiere, o no pudiere o no quisiere firmar, se hará constar esta circunstancia.
 
@@ -845,13 +851,19 @@ IX.- Si ha sido abogado o procurador, perito o testigo en el negocio de que se t
 
 X.- Si ha conocido del negocio como juez, árbitro o asesor, resolviendo algún asunto que afecte a la substancia de la cuestión en la misma instancia o en otra;
 
-XI.- Cuando él, su cónyuge o alguno de sus parientes consanguíneos en línea recta, sin limitación de grados, de los colaterales dentro del segundo, o de los afines en el primero, siga contra las partes, o no haya pasado un año de haber seguido un juicio civil o una causa de defensa social como acusador, querellante o denunciante, o se haya constituido parte civil en causa de defensa social seguida contra cualquiera de ellas;
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2013)</small>
 
-XII.- Cuando alguno de los litigantes o de sus abogados es o ha sido denunciante, querellante o acusador del funcionario de que se trate, de su cónyuge o de alguno de sus expresados parientes, o se haya constituido parte civil en causa de defensa social seguida contra cualquiera de ellos;
+XI.- Cuando él, su cónyuge o alguno de sus parientes consanguíneos en línea recta, sin limitación de grados, de los colaterales dentro del segundo, o de los afines en el primero, siga contra las partes, o no haya pasado un año de haber seguido un juicio civil o penal como acusador, querellante o denunciante, o se haya constituido parte civil proceso penal seguido contra cualquiera de ellas;
+
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2013)</small>
+
+XII.- Cuando alguno de los litigantes o de sus abogados es o ha sido denunciante, querellante o acusador del funcionario de que se trate, de su cónyuge o de alguno de sus expresados parientes, o se haya constituido parte civil en el proceso penal seguido contra cualquiera de ellos;
 
 XIII.- Cuando el funcionario de que se trate, su cónyuge o alguno de sus expresados parientes, sea contrario a cualquiera de las partes en negocio administrativo que afecte a sus intereses;
 
-XIV.- Si él, su cónyuge o alguno de sus expresados parientes, siguen algún proceso civil o de defensa social en que sea juez, agente del Ministerio Público, árbitro o arbitrador, alguno de los litigantes;
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2013)</small>
+
+XIV.- Si él, su cónyuge o alguno de sus expresados parientes, siguen algún proceso civil o penal en que sea juez, agente del Ministerio Público, árbitro o arbitrador, alguno de los litigantes;
 
 XV.- Si es tutor o curador de alguno de los interesados, o no han pasado tres años de haberlo sido.
 
@@ -1149,7 +1161,9 @@ IV.- En los demás casos en que la ley lo permita expresamente.
 
 232.- Si la petición de arraigo se presentare antes de entablar la demanda, además de la prueba que exige el artículo 230, el actor deberá dar fianza a satisfacción del juez, de responder de los daños y perjuicios que se sigan al arraigado si no se entabla la demanda.
 
-233.- El que quebrante el arraigo será castigado con la sanción que señala el Código de Defensa Social a la infracción antisocial de desobediencia a un mandato legítimo de la autoridad pública, sin perjuicio de ser compelido, por los medios de apremio que correspondan, a volver al lugar del juicio. En todo caso, se seguirá éste según su naturaleza, conforme a las reglas correspondientes.
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2013)</small>
+
+233.- El que quebrante el arraigo será castigado con la pena que señala el Código Penal a la infracción antisocial de desobediencia a un mandato legítimo de la autoridad pública, sin perjuicio de ser compelido, por los medios de apremio que correspondan, a volver al lugar del juicio. En todo caso, se seguirá éste según su naturaleza, conforme a las reglas correspondientes.
 
 234.- Cuando se solicite el secuestro provisional, se expresará el valor de la demanda o el de la cosa que se reclama, designando ésta con toda precisión; y el juez, al decretarlo, fijará la cantidad por la cual haya de practicarse la diligencia.
 
@@ -1635,7 +1649,9 @@ V.- Las firmas puestas en actuaciones judiciales en presencia del secretario del
 
 328.- El juez podrá hacer por sí mismo la comprobación después de oír a los peritos revisores y apreciará el resultado de esta prueba conforme a las reglas de la sana crítica sin tener que sujetarse al dictamen de aquéllos. Podrá también ordenar que se repita el cotejo por otros peritos.
 
-329.- Cuando alguna de las partes sostenga la falsedad de un documento que puede ser de influencia notoria en el litigio, se observarán las prescripciones generales relativas al Código de Procedimientos de Defensa Social. En el caso a que se refiere este artículo, no alegarán las partes sino hasta que se decida sobre la falsedad por la autoridad competente. Si el procedimiento penal concluye sin decidir sobre la falsedad o autenticidad del documento, el juez oirá a las partes en audiencia sobre el valor probatorio del instrumento, reservándose la resolución para la sentencia definitiva.
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2013)</small>
+
+329.- Cuando alguna de las partes sostenga la falsedad de un documento que puede ser de influencia notoria en el litigio, se observarán las prescripciones generales relativas al Código de Procedimientos Penales. En el caso a que se refiere este artículo, no alegarán las partes sino hasta que se decida sobre la falsedad por la autoridad competente. Si el procedimiento penal concluye sin decidir sobre la falsedad o autenticidad del documento, el juez oirá a las partes en audiencia sobre el valor probatorio del instrumento, reservándose la resolución para la sentencia definitiva.
 
 C.- De la prueba pericial
 
@@ -3433,7 +3449,9 @@ VI.- Que llenen los requisitos necesarios para ser consideradas como auténticas
 
 776.- La resolución que pone fin a un incidente es apelable en los casos y efectos en que lo fuere la sentencia en lo principal, salvo que la ley disponga expresamente otra cosa.
 
-777.- En los incidentes criminales que surjan en negocios civiles, se observará lo dispuesto en el Código de Procedimientos en materia de Defensa Social.
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2013)</small>
+
+777.- En los incidentes criminales que surjan en negocios civiles, se observará lo dispuesto en el Código de Procedimientos Penales.
 
 ### CAPITULO II. De la acumulación de autos
 
@@ -4257,7 +4275,9 @@ La parte demandada no tiene obligación de ajustarse al dictamen del perito, y p
 
 No será necesaria la identificación aunque se trate de personas desconocidas, cuando por la naturaleza o circunstancias del caso no hubiere peligro de suplantación de la persona.
 
-919.- El que se presente como actor o como demandado usando el nombre de otro para hacerse pasar por él, se considerará como falsario y quedará sujeto a las sanciones que determine el Código de Defensa Social.
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2013)</small>
+
+919.- El que se presente como actor o como demandado usando el nombre de otro para hacerse pasar por él, se considerará como falsario y quedará sujeto a las penas que determine el Código Penal del Estado.
 
 ### CAPITULO IV. De los emplazamientos y citaciones
 
@@ -5080,3 +5100,19 @@ El Supremo Tribunal de Justicia del Estado, realizará las adecuaciones necesari
 ###### ARTÍCULO TERCERO.
 
 El Ejecutivo del Estado, realizará las acciones necesarias, dentro del ámbito de su competencia, para garantizar el registro de los menores de acuerdo a su identidad.
+
+P.O. 2 DE FEBRERO DE 2013.
+
+DECRETO No. 885/2012, POR EL QUE SE REFORMAN LOS ARTÍCULOS 162, FRACCIONES XI, XII Y XIV; 233, 329, 777 Y 919 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE CHIHUAHUA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE FEBRERO DE 2013.
+
+DECRETO No. 1133/2012, POR EL QUE SE REFORMA EL ARTÍCULO 120 Y SE DEROGAN LOS INCISOS C) AL E) DEL ARTÍCULO 199 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE CHIHUAHUA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
