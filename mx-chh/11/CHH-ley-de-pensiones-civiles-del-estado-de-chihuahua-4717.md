@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-pensiones-civiles-del-estado-de-chihuahua-4717"
 country: "mx"
 rank: "ley"
 publication_date: "1981-12-19"
-last_updated: "2009-12-05"
+last_updated: "2013-02-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE PENSIONES CIVILES DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE DICIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2013.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 19 de diciembre de 1981.
 
@@ -81,25 +81,25 @@ b).- Presidente de la Junta Directiva;
 
 c).- Director.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 5.
 
 La Junta Directiva es el órgano máximo de la institución y estará integrada por:
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2013)</small>
 
-I. El Secretario de Finanzas y Administración, quien fungirá como Presidente;
+I. El Secretario de Hacienda, quien fungirá como Presidente;
 
 II.- El Director de Pensiones Civiles del Estado, que será designado por el Gobernador;
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2013)</small>
 
-III.- El Secretario de Educación y Cultura;
+III. El Secretario de Educación, Cultura y Deporte;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2009)</small>
 
@@ -151,7 +151,7 @@ X.- Convenir con las Instituciones afiliadas, organismos descentralizados o sind
 
 XI.- En general, decidir en última instancia todo lo relacionado con la prestación de los servicios de la Institución.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE ENERO DE 1988)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ENERO DE 1988)</small>
 
 ###### ARTICULO 8.
 
@@ -271,11 +271,11 @@ En los casos señalados en el artículo 54 el trabajador deberá pagar la totali
 
 El patrimonio de Pensiones y las operaciones que afecten al Fondo, gozarán de las exenciones y franquicias que señalen las leyes para los bienes del Estado.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2013)</small>
 
-###### ARTICULO 18.
+###### ARTÍCULO 18.
 
-Los regímenes patrimonial y financiero de la institución son independientes de los del Estado e instituciones afiliadas. El director de pensiones civiles solicitará al gobierno del Estado la práctica de auditorías durante el período constitucional de la administración pública, en el segundo y quinto años del mismo; independientemente de lo previsto por el artículo 137 de la Constitución Política del Estado.
+Los regímenes patrimonial y financiero de la institución son independientes de los del Estado e instituciones afiliadas. El Director de Pensiones Civiles solicitará al Gobierno del Estado la práctica de auditorías durante el período constitucional de la administración pública en el segundo y quinto año del mismo; independientemente de lo previsto por el artículo 171 de la Constitución Política del Estado.
 
 ###### ARTICULO 19.
 
@@ -285,9 +285,11 @@ Los asegurados que contribuyan al fondo de Pensiones, solamente adquirirán el d
 
 El derecho a jubilación y a la pensión es imprescriptible. Las pensiones caídas, el retiro del fondo y cualquier prestación en dinero a cargo de Pensiones Civiles, que no reclamen los interesados dentro de los cinco años siguientes a la fecha en que fueron exigibles, prescribirán a favor de la Institución, la cual deberá notificar tal circunstancia, cuando menos con seis meses de anticipación a la fecha en que habrá de consumarse la prescripción, a la institución afiliada a la que pertenezca o haya pertenecido el trabajador, para que a su vez lo haga del conocimiento del interesado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE FEBRERO DE 2013)</small>
+
 ###### ARTICULO 21.
 
-El Estado y las Instituciones afiliadas están obligadas a:
+El Estado y las instituciones afiliadas están obligadas a:
 
 I.- Descontar de las percepciones de sus trabajadores la aportación que les corresponda conforme a esta ley;
 
@@ -297,9 +299,9 @@ III.- Comunicar a Pensiones Civiles del Estado los movimientos de alta y baja de
 
 IV.- Expedir certificaciones y proporcionar los informes necesarios que sean solicitados por la Institución.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2013)</small>
 
-El incumplimiento de las obligaciones contenidas en este precepto dará lugar, tratándose del Gobierno del Estado, a que se formule requerimiento a la Secretaría de Finanzas y Administración para su corrección, y a las instituciones afiliadas se les apercibirá que, de no cumplir con el lapso que se fije para tal efecto, se someterá el hecho al conocimiento de la Junta Directiva, la cual podrá acordar su desincorporación al régimen establecido en esta ley, sin perjuicio de exigir en la vía que corresponda el cumplimiento de las prestaciones omitidas.
+El incumplimiento de las obligaciones contenidas en este precepto dará lugar, tratándose del Gobierno del Estado, a que se formule requerimiento a la Secretaría de Hacienda para su corrección, y a las instituciones afiliadas se les apercibirá que, de no cumplir con el lapso que se fije para tal efecto, se someterá el hecho al conocimiento de la Junta Directiva, la cual podrá acordar su desincorporación al régimen establecido en esta ley, sin perjuicio de exigir en la vía que corresponda el cumplimiento de las prestaciones omitidas.
 
 ### CAPITULO QUINTO. APLICACION DEL FONDO DE LA INSTITUCION
 
@@ -695,7 +697,7 @@ EL SECRETARIO GENERAL DE GOBIERNO:
 
 LIC. ARMANDO ALMEIDA MARTINEZ.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 15 DE MARZO DE 1986.
 
@@ -810,3 +812,9 @@ OCTAVO.- Todos los actos, procedimientos y recursos administrativos relacionados
 NOVENO.- Las autorizaciones que se hubieren expedido con anterioridad a la fecha de entrada en vigor de las reformas a la Ley Estatal de Salud, tendrán vigencia hasta su vencimiento. Las autorizaciones que se expidan a partir de la vigencia de este Decreto, se otorgarán de acuerdo a sus disposiciones.
 
 DÉCIMO.- En tanto se expidan los Reglamentos y Normas Técnicas que se deriven de la Ley Estatal de Salud, seguirán aplicándose los Reglamentos Federales y Estatales, así como las Normas Técnicas que la Autoridad Sanitaria Federal haya expedido.
+
+P.O. 2 DE FEBRERO DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
