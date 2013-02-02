@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-del-organo-de-fiscalizacion-superior-74477"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-03-10"
-last_updated: "2012-03-24"
+last_updated: "2013-02-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74477&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 REGLAMENTO INTERIOR DEL ÓRGANO DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2013.
 
 Reglamento publicado en la Sección Quinta del Periódico Oficial del Estado de Nayarit, el miércoles 10 de marzo de 2010.
 
@@ -205,21 +205,31 @@ XII. Coadyuvar con el Ministerio Público en los procedimientos;
 
 XIII. Promover ante las autoridades competentes el fincamiento de otras responsabilidades; y
 
-XIV. Establecer, coordinar, actualizar y supervisar el Registro de Servidores Públicos sancionados, de conformidad con lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos; y supervisar el registro y seguimiento del cobro de las indemnizaciones y las sanciones impuestas por el Órgano.
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2013)</small>
+
+XIV. Establecer, coordinar, actualizar y supervisar el Registro de Servidores Públicos sancionados, de conformidad con lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos; y supervisar el registro y seguimiento del cobro de las indemnizaciones y las sanciones impuestas por el Órgano. Expedir y suscribir las constancias de inhabilitación, no inhabilitación, constancias de sanciones también llamada de antecedentes sancionatorios, constancias de no existencia de sanciones y demás documentos necesarios para atender las solicitudes y demás peticiones presentadas ante el Registro.
 
 ###### ARTÍCULO 10°.
 
 El Auditor General tendrá además, las siguientes atribuciones no delegables:
 
-I. Elaborar el proyecto de presupuesto anual del Órgano y remitirlo al Congreso del Estado por conducto de la Comisión para su inclusión en el proyecto de Presupuesto de Egresos en los plazos y formas que se determinen por la ley de la materia; en dicho proyecto se presupuestaran todos los recursos que por cualquier concepto deba ejercer el Órgano. En todo caso, al proyecto de presupuesto se deberá acompañar el tabulador de sueldos, compensaciones ordinarias y extraordinarias a los que podrán ser objeto los servidores públicos adscritos al Órgano;
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2013)</small>
 
-II. Asimismo, presentar a la Comisión las solicitudes de modificación al presupuesto de egresos que impliquen ampliaciones de recursos al monto total aprobado o transferencias de partidas de capítulos distintos que deberán contar además con la aprobación del pleno del Congreso;
+I. Remitir al Congreso del Estado por conducto de la Comisión el proyecto de presupuesto anual del Órgano, que elabore la Unidad de Administración; y autorizar las transferencias presupuestales entre partidas de distintos capítulos de gasto;
 
-III. Presentar la Cuenta Pública y los Informes de Avance de Gestión Financiera del Órgano al Congreso, por conducto de la Comisión para los efectos de ley correspondientes;
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2013)</small>
+
+II. Remitir a la Comisión las solicitudes de modificación al presupuesto de egresos que impliquen ampliaciones de recursos al monto total aprobado;
+
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2013)</small>
+
+III. Remitir al Congreso por conducto de la Comisión los informes de avance de gestión financiera y la cuenta pública del Órgano que formule la Unidad de Administración;
 
 IV. Presentar conjuntamente con su proyecto de presupuesto de egresos el Programa Operativo Anual del Órgano y someterlo a la aprobación de la Comisión. En este programa se deberán reflejar los proyectos de los programas que realizará el Órgano durante el ejercicio fiscal siguiente; asimismo, deberá incluirse el orden cronológico de sus actividades, el costo aproximado de éstas, las unidades responsables de su ejecución, las metas y los objetivos estimados;
 
-V. Expedir los manuales de organización, procedimientos necesarios para el funcionamiento del Órgano, los que deberán ser publicados en el Periódico Oficial, Órgano del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2013)</small>
+
+V. Expedir los manuales de organización, procedimientos necesarios para el funcionamiento del Órgano;
 
 El Manual de Organización del Órgano, será aprobado por el Auditor General de conformidad con los planteamientos y requerimientos que le formule el Consejo Consultivo, para el adecuado cumplimiento de sus funciones. El Manual deberá ser publicado en el Periódico Oficial del Gobierno del Estado de Nayarit.
 
@@ -235,7 +245,7 @@ X. Aplicar a los servidores públicos del Órgano, las sanciones que procedan po
 
 XI. Establecer las reglas técnicas, procedimientos, métodos y sistemas de contabilidad y de archivo de los libros y documentos justificativos y comprobatorios del ingreso y del gasto público, así como todos aquellos elementos que permitan la práctica idónea de la fiscalización, auditorías y revisiones;
 
-XII. Expedir las constancias de inhabilitación o de no inhabilitación, así como de antecedentes sancionatorios;
+XII. (DEROGADA, P.O. 2 DE FEBRERO DE 2013)
 
 XIII. Aprobar el Programa Anual de Auditorías; y
 
@@ -447,11 +457,11 @@ En el caso de los servidores públicos de elección popular en funciones, para e
 
 XX. Instruir y substanciar el recurso de inconformidad que se interponga en contra de las resoluciones a los procedimientos administrativos disciplinarios que se instruyan como resultado de la fiscalización de la cuenta pública, así como proponer al Auditor General los proyectos de resolución a dichos recursos;
 
-XXI. Expedir copias certificadas de las constancias que obren en sus archivos, con las limitaciones que señalan los ordenamientos jurídicos en materia de reserva, confidencialidad, secrecía y de acceso a la información pública gubernamental; y
+XXI. Expedir copias certificadas de las constancias que obren en sus archivos, con las limitaciones que señalan los ordenamientos jurídicos en materia de reserva, confidencialidad, secrecía y de acceso a la información pública gubernamental; y (sic)
 
-> <small>(REFORMADA, P.O. 24 DE MARZO DE 2012)</small>
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2013)</small>
 
-XXII.- Verificar el funcionamiento del Registro de Servidores Públicos Estatales y Municipales a que alude al artículo 85 de la Ley de Responsabilidades de los Servidores Públicos del Estado de Nayarit y en su caso, proponer al Auditor General las acciones pertinentes.
+XXII. Verificar el Funcionamiento del Registro de Servidores Públicos Estatales y Municipales a que alude el artículo 85 de la Ley de Responsabilidades de los Servidores Públicos del Estado de Nayarit y en su caso, proponer al Auditor General las acciones pertinentes, para su mejor funcionamiento, así como suscribir las constancias de inhabilitación, no inhabilitación, constancias de sanciones también llamada de antecedentes sancionatorios, constancias de no existencia de sanciones y demás documentos necesarios para atender las solicitudes y demás peticiones presentadas ante el Registro.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE MARZO DE 2012)</small>
 
@@ -461,49 +471,75 @@ XXIII. Las demás que en el ámbito de su competencia le establezcan las disposi
 
 Además de las atribuciones que señala el artículo 18 de la Ley, el Director de la Unidad de Administración tendrá las siguientes atribuciones:
 
-I. Formular y proponer al Auditor General el Programa Operativo Anual que contenga los proyectos de los programas que realizará durante el ejercicio fiscal siguiente y las modificaciones al mismo; para tal efecto, asumirá el modelo, criterios y/o lineamientos que determine el Auditor General a través de la Coordinación General de Planeación;
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2013)</small>
+
+I. Realizar los aspectos presupuestarios es decir la expresión financiera para apoyar la ejecución de las acciones del Programa Operativo Anual que contenga los proyectos de los programas que se realizarán durante el ejercicio fiscal siguiente y las modificaciones al mismo, cumpliendo con las disposiciones de la Ley General de Contabilidad Gubernamental, las emitidas por el Consejo Nacional de Armonización Contable (CONAC), y Consejo Estatal de Armonización Contable (CEAC);
 
 II. Administrar los recursos financieros, humanos, técnicos y materiales del Órgano, de conformidad con las disposiciones legales, administrativas y reglamentarias que la rigen y con las políticas y normas que emita el Auditor General;
 
 III. Prestar por sí o a través de la contratación o adquisición de bienes y servicios que en general se requieran para el debido funcionamiento de las instalaciones en que se encuentre operando el Órgano suministrando los recursos materiales, financieros y humanos que requieran las diversas áreas administrativas para su debido cumplimiento;
 
-IV. Preparar el anteproyecto del presupuesto anual del Órgano, así como controlar el ejercicio presupuestal e implantar el sistema de contabilidad gubernamental de conformidad con la ley de la materia y las demás disposiciones aplicables;
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2013)</small>
 
-V. Efectuar, de acuerdo con las disposiciones normativas aplicables, la contratación de las adquisiciones, los arrendamientos y los servicios relacionados con bienes muebles e inmuebles, capacitación y las inversiones físicas, que soliciten las áreas del Órgano;
+IV. Preparar el proyecto del presupuesto anual del Órgano, así como controlar y ejecutar el ejercicio presupuestal, conforme a las disposiciones de la Ley General de Contabilidad Gubernamental, las emitidas por el Consejo Nacional de Armonización Contable (CONAC), y Consejo Estatal de Armonización Contable (CEAC);
+
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2013)</small>
+
+V. Contratar las adquisiciones, los arrendamientos y los servicios relacionados con los bienes muebles e inmuebles, capacitación y las inversiones físicas, que soliciten las áreas del Órgano;
 
 VI. Supervisar el desarrollo e implantación de políticas y sistemas informáticos del Órgano;
 
 VII. Promover la remoción de los trabajadores de base y confianza, con sujeción a las disposiciones de la Ley;
 
-VIII. Coordinar el proceso interno de programación, presupuestación, control y evaluación del gasto, vigilar su cumplimiento de conformidad con las disposiciones normativas aplicables, así como integrar, validar y conservar la documentación comprobatoria y justificativa del gasto, en los términos que establece la normatividad vigente;
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2013)</small>
 
-IX. Coordinar la formulación y ejecución de los programas anuales de adquisiciones, así como del mantenimiento de bienes muebles e inmuebles del Órgano;
+VIII. Ejercer el presupuesto autorizado y elaborar los informes de los avances de gestión financiera y la cuenta pública comprobada y justificada de su aplicación, cumpliendo con las disposiciones normativas aplicables, así como integrar y validar la información financiera y presupuestaria del Órgano;
 
-X. Determinar las suficiencias y en su caso, proponer las transferencias presupuestales que se requieran para el ejercicio del gasto;
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2013)</small>
 
-XI. Llevar el control de pagos, así como cuantificar, custodiar y administrar los bienes y recursos del Órgano;
+IX. Elaborar y ejecutar el programa anual de adquisiciones, así como del mantenimiento de bienes muebles e inmuebles del Órgano;
 
-XII. Coordinar la formulación y la autorización de los contratos que afecten al presupuesto, incorporándolos al sistema de pagos del Órgano, asimismo verificar el cumplimiento de ellos;
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2013)</small>
 
-XIII. Formular y someter al acuerdo del Auditor General, los sistemas de administración y procedimientos para la organización de los recursos del Órgano, así como darles seguimiento y verificar su observancia;
+X. Programar y controlar la ejecución del gasto y autorizar las transferencias presupuestales entre partidas de un mismo capítulo de gasto cuando sean estrictamente necesarias para la buena marcha institucional, debiendo informar a la Contraloría Interna de tales transferencias;
+
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2013)</small>
+
+XI. Llevar y dirigir el control de pagos, así como cuantificar, custodiar y administrar los bienes y recursos del Órgano;
+
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2013)</small>
+
+XII. Elaborar y autorizar los contratos que afecten al presupuesto, incorporándolos al sistema de pagos del Órgano, asimismo verificar el cumplimiento de ellos;
+
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2013)</small>
+
+XIII. Llevar un sistema integral de información financiera en herramienta informática, conforme a lo dispuesto por la Ley General de Contabilidad Gubernamental;
 
 XIV. Proporcionar a las áreas administrativas del Órgano los servicios de apoyo administrativo en materia de diseño de sistemas y equipamiento informático, comunicaciones o archivo, así como los demás que sean necesarios para el mejor desempeño de sus asuntos;
 
-XV. Coordinar la formulación, autorización, procedimientos y seguimiento de todas las contrataciones que deriven en una obligación para el Órgano, en todas sus modalidades;
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2013)</small>
 
-XVI. Conducir las relaciones con los servidores públicos del Órgano, conforme a las bases acordadas por el Auditor General y vigilar su cumplimiento;
+XV. Dar seguimiento a todas las contrataciones que deriven en una obligación para el Órgano, en todas sus modalidades;
+
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2013)</small>
+
+XVI. Conducir las relaciones con los servidores públicos del Órgano, conforme a las disposiciones legales vigentes;
 
 XVII. Vigilar que los servidores públicos que administren fondos y valores del Órgano caucionen debidamente su manejo, así como coadyuvar, mediante su asesoría, en el cumplimiento de los Servidores Públicos del Órgano, en lo relativo a su situación patrimonial;
 
 XVIII. Proponer, controlar y evaluar el programa interno de Protección Civil;
 
-XIX. Proponer al Auditor General los sistemas operativos y de control interno que coadyuven al manejo eficiente y transparente de los recursos financieros, materiales y humanos del Órgano;
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2013)</small>
+
+XIX. Operar y generar información financiera en tiempo real sobre el ejercicio de los ingresos y gastos y sobre las finanzas públicas, para realizar un manejo eficiente y transparente de los recursos financieros, materiales y humanos del Órgano;
 
 XX. Diseñar los manuales de naturaleza específica necesarios para el correcto funcionamiento de la Unidad de Administración, así como los programas y acciones necesarias para capacitar a su personal;
 
 XXI. Someter a la aprobación del Auditor General, propuestas de cambio a la organización interna del Órgano;
 
-XXII. Llevar la contabilidad y formular mensualmente los estados financieros consolidados, informes de avance de gestión financiera trimestrales e integrar la cuenta pública del Órgano;
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2013)</small>
+
+XXII. Realizar y validar los registros presupuestarios y contables, e integrar y firmar los informes de avances de gestión financiera y la cuenta pública del Órgano, conforme a las disposiciones consagradas en la Ley General de Contabilidad Gubernamental, las emitidas por el Consejo Nacional de Armonización Contable (CONAC), y el Consejo Estatal de Armonización Contable (CEAC); Implementar un sistema de contabilidad con base acumulativa que genere los informes financieros, programáticos, presupuestales; y formular en cumplimiento a las disposiciones antes referidas, los reportes que no se emiten en forma automatizada;
 
 XXIII. Operar el servicio civil de carrera del personal del Órgano;
 
@@ -511,9 +547,35 @@ XXIV. Elaborar los nombramientos del personal, para su expedición por el Audito
 
 XXV. Tramitar las autorizaciones de las enajenaciones y donaciones de bienes muebles del Órgano;
 
-XXVI. Someter a la consideración del Auditor General, los manuales de organización y de procedimientos de la Unidad de Administración; y
+XXVI. Someter a la consideración del Auditor General, los manuales de organización y de procedimientos de la Unidad de Administración; y (sic)
 
-XXVII. Las demás, que en el ámbito de su competencia le establezcan las disposiciones jurídicas aplicables o le encomiende el Auditor General.
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2013)</small>
+
+XXVII. Autorizar y llevar acabo (sic) el uso de las cuentas bancarias, transferencias bancarias, Clabe bancaria y de manera excepcional el uso de cheques cuando esta sea la opción más idónea y transparente, realizar las operaciones que deriven de transacciones comerciales necesarias para la administración de bienes y recursos a cargo del Órgano de Fiscalización Superior del Estado, las cuales se deberán ajustar a lo establecido en el presupuesto de egresos del Órgano, y a las disposiciones consagradas en la Ley General de Contabilidad Gubernamental, y las emitidas por el Consejo Nacional de Armonización Contable (CONAC), y Consejo Estatal de Armonización Contable (CEAC);
+
+> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 2013)</small>
+
+XXVIII. Elaborar y difundir la información financiera y del programa anual de evaluaciones del Órgano, en la página de internet de la institución conforme a las normas, estructuras, formatos y contenido de la información que establezca el CONAC, y derivado de ello realizar además, una presentación dirigida a la ciudadanía que de manera sencilla y en forma accesible explique el contenido de la información financiera;
+
+> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 2013)</small>
+
+XXIX. Efectuar los registros contables y la valuación del patrimonio, y conservar la documentación comprobatoria del patrimonio.
+
+> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 2013)</small>
+
+XXX. Llevar el control de los bienes sus altas y bajas, tener integrado el inventario de bienes muebles e inmuebles conforme a la Ley General de Contabilidad y demás disposiciones legales aplicables;
+
+> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 2013)</small>
+
+XXXI. Elaborar los estados financieros y demás informes internos y externos que se requieran;
+
+> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 2013)</small>
+
+XXXII. Conservar la documentación justificativa y comprobatoria de la cuenta pública, durante cinco años y mientras no prescriban las acciones derivadas de las operaciones en ellos consignadas, una vez transcurrido dicho plazo la información en ellos consignada podrá ser susceptible de depuración previa su digitalización y autorización por el Auditor General;
+
+> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 2013)</small>
+
+XXXIII. Las demás, que en el ámbito de su competencia le establezcan las disposiciones jurídicas aplicables o le encomiende el Auditor General.
 
 ### CAPÍTULO VI
 
@@ -931,11 +993,11 @@ XV. Asesorar a las direcciones de auditoría en la elaboración de los documento
 
 XVI. Asesorar a los auditores especiales y direcciones de auditorías en la elaboración de los dictámenes técnicos para formular pliegos de observaciones, seguimiento y en su caso solventación de acuerdo con los plazos, procedimientos y disposiciones legales aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MARZO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE FEBRERO DE 2013)</small>
 
 ###### ARTÍCULO 32.
 
-La Dirección de Responsabilidades, Registro de Servidores Públicos y Situación Patrimonial, estará adscrita a la Unidad Jurídica y su titular tendrá las siguientes atribuciones:
+La Dirección de Responsabilidades y Situación Patrimonial, tendrá las siguientes atribuciones:
 
 I. Apoyar al titular de la Unidad Jurídica en la instrucción y substanciación de los procedimientos para el fincamiento de las responsabilidades resarcitorias a que den lugar las irregularidades en que incurran los servidores públicos o particulares, personas físicas o morales, por actos u omisiones de los que resulte un daño o perjuicio, o ambos, estimable en dinero, que afecte al Estado y Municipios en su Hacienda Pública o al patrimonio de los entes públicos;
 
@@ -955,7 +1017,7 @@ VII. Dar seguimiento a los recursos promovidos por los sujetos sancionados, ante
 
 VIII. Registrar y dar seguimiento a la gestión de cobro de las sanciones resarcitorias así como verificar y dar seguimiento al cumplimiento y a la imposición de sanciones administrativas que sean determinadas por el Órgano. Dicho registro se deberá instrumentar de manera que permita identificar las sanciones impuestas por ejercicio fiscal auditado, por ente público y por personas sancionadas.
 
-IX. Solicitar a las auditorías especiales y direcciones de auditoría, la opinión técnica que se requiera para la sustanciación del procedimiento para el fincamiento de responsabilidades administrativas y resarcitorias; y
+IX. Solicitar a las auditorías especiales y direcciones de auditoría, la opinión técnica que se requiera para la sustanciación del procedimiento para el fincamiento de responsabilidades administrativas y resarcitorias; y (sic)
 
 > <small>(REFORMADA, P.O. 24 DE MARZO DE 2012)</small>
 
@@ -979,7 +1041,9 @@ XIV. Llevar el Registro de Servidores Públicos Estatales y Municipales a que al
 
 a. Promover las gestiones y acciones que estime necesarias a fin de integrar y mantener actualizado el Registro;
 
-b. Elaborar los proyectos de constancias de inhabilitación, no inhabilitación, constancias de sanciones, constancias de no existencia de sanciones y demás documentos necesarios para atender las solicitudes de información al Registro para su suscripción por el Auditor General;
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2013)</small>
+
+b. Elaborar los proyectos de constancias de inhabilitación, no inhabilitación, constancias de sanciones, constancias de no existencia de sanciones y demás documentos necesarios para atender las solicitudes y demás peticiones presentadas ante el Registro, ya que las constancias y demás documentos emitidos por el Registro serán suscritos por el Director General de la Unidad Jurídica.
 
 c. Proponer los proyectos de normas para la operación del Registro así como los formatos de solicitudes de información y constancias.
 
@@ -1137,9 +1201,11 @@ En los casos de las ausencias no estipuladas, el despacho y la resolución de lo
 
 DE LA CERTIFICACIÓN DE DOCUMENTOS.
 
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2013)</small>
+
 ###### ARTÍCULO 39.
 
-El Auditor General, los Auditores Especiales, el Director General de la Unidad Jurídica y los Directores de Área, dentro del ámbito de sus respectivas competencias, podrán expedir certificaciones de los documentos que obren en sus archivos o bien aquellos documentos originales que tengan a la vista con motivo de las auditorías o investigaciones que practiquen y que éstos lo consideren como relevante para el objeto de la revisión.
+El Auditor General, los Auditores Especiales, el Director General de la Unidad Jurídica, Director de la Unidad de Administración, Titular de Coordinación General de Planeación, Titular de la Contraloría Interna y los Directores de Área, dentro del ámbito de sus respectivas competencias, podrán expedir certificaciones de los documentos que obren en sus archivos o bien aquellos documentos originales que tengan a la vista con motivo de las auditorías o investigaciones que practiquen y que éstos lo consideren como relevante para el objeto de la revisión.
 
 ###### ARTÍCULO 40.
 
@@ -1202,3 +1268,7 @@ P.O. 24 DE MARZO DE 2012.
 PRIMERO.- El presente acuerdo surtirá sus efectos a partir del día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO.- El personal, documentos y archivos de la Unidad de Registro de Servidores Públicos Estales y Municipales, a que alude el artículo 22 A que con este acuerdo se deroga, pasará a integrarse al Departamento de Situación Patrimonial, Registro de Servidores Públicos y Seguimiento de Sanciones.
+
+P.O. 2 DE FEBRERO DE 2013.
+
+Artículo Único.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial Órgano de Difusión del Gobierno del Estado.
