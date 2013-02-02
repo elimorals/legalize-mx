@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-ejecucion-de-penas-y-medidas-judiciales-antes-ley-de-529
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-09"
-last_updated: "2012-09-26"
+last_updated: "2013-02-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52982&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DE EJECUCIÓN DE PENAS Y MEDIDAS JUDICIALES
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO No. 859/2012 VII P.E., PUBLICADO EN EL P.O. 26 DE SEPTIEMBRE DE 2012, CUANDO EN CUALQUIER OTRO INSTRUMENTO JURÍDICO SE HAGA REFERENCIA A LA SECRETARÍA DE FOMENTO SOCIAL, SE ENTENDERÁ CITADA A LA SECRETARÍA DE DESARROLLO SOCIAL SIN QUE ELLO AFECTE SU COMPETENCIA, DERECHOS U OBLIGACIONES QUE HAYA CONTRAÍDO CON ANTELACIÓN A LA ENTRADA EN VIGOR DEL CITADO DECRETO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2013.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 9 de diciembre de 2006.
 
@@ -511,7 +511,7 @@ b) (DEROGADO, P.O. 5 DE DICIEMBRE DE 2009)
 
 c) (DEROGADO, P.O. 5 DE DICIEMBRE DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 d) (DEROGADO, P.O. 5 DE DICIEMBRE DE 2009)
 
@@ -809,7 +809,7 @@ Cumplimiento de la medida.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
 El Juez de Garantía remitirá su resolución a la Fiscalía, la que formará el expediente respectivo, para el debido y exacto cumplimiento de la medida.
 
@@ -1137,11 +1137,13 @@ El sentenciado que crea tener derecho a un beneficio, elevará su solicitud al J
 
 #### SECCIÓN PRIMERA. DEL TRATAMIENTO PRELIBERACIONAL
 
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 66.
 
 Tratamiento preliberacional.
 
-El tratamiento preliberacional es el beneficio que se otorga al sentenciado, después de cumplir una parte de la sanción que le fue impuesta, quedando sometido a las formas y condiciones de tratamiento y vigilancia del Juez de Ejecución de Penas.
+El tratamiento preliberacional es el beneficio que se otorga al sentenciado, después de cumplir una parte de la sanción que le fue impuesta, quedando sometido a las formas y condiciones de tratamiento y vigilancia del Juez de Ejecución de Penas. Pero una vez lograda la obtención de alguno de los beneficios establecidos en este Capítulo y que conduzcan fuera de prisión al sentenciado, este deberá cumplir el resto de la pena que queda por compurgar, sin posibilidad de que pueda promover de nueva cuenta la solicitud de cualquier otro sobre el ya concedido. Con excepción de los casos en donde el sentenciado solicite a la Fiscalía la aplicación de otro beneficio y ésta lo autorice.
 
 ###### Artículo 67.
 
@@ -2431,7 +2433,7 @@ Asistencia y atención a liberados y externados.
 
 Para la asistencia y atención a liberados y externados, la Fiscalía se coordinará con instituciones, públicas o privadas, que presten estos servicios, las que procurarán fortalecer la reinserción social, auxiliándolos para canalizarlos y ubicarlos en fuentes de trabajo donde puedan desarrollar sus aptitudes y orientando su tiempo libre a determinadas actividades de esparcimiento familiar, social, deportivo, entre otros.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -2694,3 +2696,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Cuando en cualquier otro instrumento jurídico se haga referencia a la Secretaría de Fomento Social, se entenderá citada a la Secretaría de Desarrollo Social sin que ello afecte su competencia, derechos u obligaciones que haya contraído con antelación a la entrada en vigor del presente Decreto.
+
+P.O. 2 DE FEBRERO DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
