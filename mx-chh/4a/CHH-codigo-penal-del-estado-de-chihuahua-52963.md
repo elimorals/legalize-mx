@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2013-01-05"
+last_updated: "2013-02-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2013.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -1117,7 +1117,7 @@ II. El beneficiado no haya cometido delito doloso en los seis años anteriores a
 
 III. El sentenciado haya observado buena conducta durante la tramitación del proceso, incluyendo la observancia de las medidas cautelares. Si el sentenciado estuvo sujeto a prisión preventiva, esta condición se acreditará con los informes que debe rendir la Fiscalía.
 
-> <small>(REFORMADO ACAPITA, P.O. 7 DE MAYO DE 2011)</small>
+> <small>(REFORMADO ACAPITE, P.O. 7 DE MAYO DE 2011)</small>
 
 ###### Artículo 87.
 
@@ -2003,7 +2003,13 @@ VII. Por personas con quien la víctima tenga un vínculo matrimonial, de parent
 
 A quien asedie a una persona con fines sexuales, a pesar de su oposición manifiesta, se le aplicará prisión de seis meses a dos años y multa de treinta a sesenta veces el salario.
 
-Si el hostigador fuera servidor público y utilizara los medios y circunstancias que el encargo le proporcione, se le destituirá también de su cargo.
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2013)</small>
+
+Se impondrán de diez meses a tres años de prisión y de ciento cincuenta a trescientos días multa cuando el que asedie ejerza de hecho o por derecho autoridad sobre el pasivo y que éste se encuentre bajo su guarda o custodia, se valga de su posición jerárquica, laboral, académica, religiosa, familiar o cualquier otra que implique subordinación. Si el hostigador fuera servidor público o académico y utilizara los medios y circunstancias que el encargo le proporcione, se le destituirá también de su cargo y se le inhabilitará del mismo hasta por cinco años.
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2013)</small>
+
+Las penas a que se refiere el presente artículo, se aumentarán en una mitad cuando el delito se cometa en contra de persona menor de edad o de quien no tenga capacidad de comprender el significado del hecho o que por cualquier causa no pueda resistirlo.
 
 ### CAPÍTULO V. INCESTO
 
@@ -4224,3 +4230,13 @@ a) Las retribuciones nominales señaladas en los presupuestos vigentes superiore
 b) Las remuneraciones adicionales a las nominales, tales como gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones, y cualquier remuneración en dinero o especie, solo se podrán mantener en la medida en que la remuneración total no exceda el máximo establecido en la base II del artículo 165 bis de la Constitución Política del Estado.
 
 c) Los incrementos a las retribuciones nominales o adicionales sólo podrán realizarse si la remuneración total no excede el monto máximo antes referido.
+
+P.O. 2 DE FEBRERO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
