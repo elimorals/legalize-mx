@@ -4,7 +4,7 @@ identifier: "CHH-ley-para-la-atencion-de-las-personas-con-discapacidad-en-el-407
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-24"
-last_updated: "2012-09-26"
+last_updated: "2013-02-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40714&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY PARA LA ATENCIÓN DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE CHIHUAHUA
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO No. 859/2012 VII P.E., PUBLICADO EN EL P.O. 26 DE SEPTIEMBRE DE 2012, CUANDO EN CUALQUIER OTRO INSTRUMENTO JURÍDICO SE HAGA REFERENCIA A LA SECRETARÍA DE FOMENTO SOCIAL, SE ENTENDERÁ CITADA A LA SECRETARÍA DE DESARROLLO SOCIAL SIN QUE ELLO AFECTE SU COMPETENCIA, DERECHOS U OBLIGACIONES QUE HAYA CONTRAÍDO CON ANTELACIÓN A LA ENTRADA EN VIGOR DEL CITADO DECRETO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2013.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 30 de julio de 2004.
 
@@ -487,6 +487,12 @@ IV.- La asistencia de intérpretes cuando deban comparecer ante las autoridades 
 
 V.- Las demás necesarias para el cumplimiento de la presente Ley.
 
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2013)</small>
+
+###### Artículo 35 Bis.
+
+Todas las oficinas, dependencias, instituciones públicas o privadas donde se brinden servicios de atención al público, destinarán un área especial u ofrecerán un trato preferente en la atención de personas con discapacidad. En el caso de la primera, se ubicará estratégicamente para el fácil acceso y con los señalamientos necesarios para su rápida localización.
+
 ###### Artículo 36.
 
 La Secretaría, en coordinación con las autoridades de transporte, establecerán programas permanentes de orientación y capacitación a los transportistas y choferes del servicio público y privado, con el objeto de brindar una atención adecuada a los usuarios con algún tipo de discapacidad.
@@ -779,7 +785,7 @@ EL PROCURADOR GENERAL DE JUSTICIA ENCARGADO DEL DESPACHO DE LA SECRETARIA GENERA
 
 LIC. JESUS ANTONIO PIÑON JIMENEZ.
 
-N. DE E.: A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+N. DE E.: A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
 
 P.O. 20 DE SEPTIEMBRE DE 2006.
 
@@ -806,3 +812,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Cuando en cualquier otro instrumento jurídico se haga referencia a la Secretaría de Fomento Social, se entenderá citada a la Secretaría de Desarrollo Social sin que ello afecte su competencia, derechos u obligaciones que haya contraído con antelación a la entrada en vigor del presente Decreto.
+
+P.O. 2 DE FEBRERO DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
