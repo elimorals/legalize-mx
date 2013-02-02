@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2012-07-28"
+last_updated: "2013-02-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2013.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -1119,11 +1119,19 @@ Los Regidores Seccionales, se dividirán con el Presidente Seccional, las funcio
 
 Los Comisarios de Policía, son los encargados del orden y la vigilancia en sus respectivas comisarías. Desempeñarán en su jurisdicción las atribuciones conferidas a las demás autoridades municipales, quedando a ellas plenamente subordinados.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE FEBRERO DE 2013)</small>
+
 ###### ARTICULO 44.
 
-Los miembros de las Juntas Municipales serán electos en escrutinio secreto por mayoría de votos, fijándose las bases para su celebración en la convocatoria que para tal efecto expida el Ayuntamiento cuando menos con quince días de anticipación al de la elección. Los comisarios de policía serán electos en plebiscitos por mayoría de votos. Los miembros de las Juntas Municipales y los comisarios de policía podrán ser removidos cuando así lo soliciten más de la mitad de los ciudadanos de la correspondiente Sección Municipal o Comisaría. Las elecciones se verificarán bajo las siguientes bases:
+Los miembros de las juntas municipales serán electos en escrutinio secreto por mayoría de votos, fijándose las bases para su celebración en la convocatoria que para tal efecto expida el Ayuntamiento cuando menos con quince días de anticipación al de la elección. Los comisarios de policía serán electos en plebiscitos por mayoría de votos. Los miembros de las juntas municipales y los comisarios de policía podrán ser removidos cuando así lo solicite más de la mitad de los ciudadanos de la correspondiente sección municipal o comisaría. Las elecciones se verificarán bajo las siguientes bases:
 
-I.- Las ordinarias, dentro del primer mes de gobierno de una nueva administración municipal y las extraordinarias cuando haya solicitado la remoción de las autoridades más de la mitad de los ciudadanos y así lo haya acordado el Ayuntamiento;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2013)</small>
+
+I.- Las ordinarias, dentro de los primeros noventa días de gobierno de una nueva administración municipal y las extraordinarias cuando haya solicitado la remoción de la (sic) autoridades por más de la mitad de los ciudadanos y así lo haya acordado el Ayuntamiento;
 
 II.- Serán convocadas por el Ayuntamiento mediante circulares fijadas en los lugares públicos;
 
@@ -4326,3 +4334,9 @@ P.O. 28 DE JULIO DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE FEBRERO DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto surtirá vigencia un día después de la entrada en vigor de la reforma constitucional al artículo 130 de la Constitución Política del Estado, contenida en el Decreto No. 316/2011 II P.O.
