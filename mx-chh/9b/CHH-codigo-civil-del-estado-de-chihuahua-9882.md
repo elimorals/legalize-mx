@@ -4,7 +4,7 @@ identifier: "CHH-codigo-civil-del-estado-de-chihuahua-9882"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2012-08-29"
+last_updated: "2013-02-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2013.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -1295,7 +1295,9 @@ I.- Cuando se ha contraído estando pendiente la decisión de un impedimento que
 
 II.- Cuando no se ha otorgado la previa dispensa que requiere el artículo 147 y cuando se celebre sin que hayan transcurrido los términos fijados en el artículo 146.
 
-253.- Los que infrinjan el artículo anterior, así como los que siendo mayores de edad contraigan matrimonio con un menor sin autorización de los padres de éste, del tutor o del juez, en sus respectivos casos, y los que autoricen esos matrimonios, incurrirán en las medidas de defensa social que señale el Código de la materia.
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2013)</small>
+
+253.- Los que infrinjan el artículo anterior, así como los que siendo mayores de edad contraigan matrimonio con un menor sin autorización de los padres de éste, del tutor o del Juez, en sus respectivos casos, y los que autoricen esos matrimonios, incurrirán en los delitos que señale el Código Penal.
 
 ### CAPITULO IX. DEL DIVORCIO
 
@@ -2167,7 +2169,9 @@ I.- Por incapacidad declarada judicialmente;
 
 II.- Por la ausencia declarada en forma;
 
-III.- Por sentencia condenatoria que imponga como medida de defensa social esta suspensión.
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2013)</small>
+
+III.- Por sentencia condenatoria que imponga como medida de sanción esta suspensión.
 
 425.- La patria potestad no es renunciable; pero aquéllos a quienes corresponda ejercerla pueden excusarse:
 
@@ -2455,7 +2459,9 @@ VI.- El tutor que permanezca ausente por más de seis meses del lugar en que deb
 
 486.- En el caso de que trata el artículo anterior, se proveerá a la tutela conforme a la ley.
 
-487.- Absuelto el tutor, volverá al ejercicio de su encargo. Si es condenado a una medida de defensa social que no lleve consigo la inhabilitación para desempeñar la tutela, volverá a ésta al extinguir su condena, siempre que la medida de defensa social impuesta no exceda de un año de prisión.
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2013)</small>
+
+487.- Absuelto el tutor, volverá al ejercicio de su encargo. Si es condenado a prisión y no lleve consigo la inhabilitación para desempeñar la tutela, volverá a ésta al extinguir su condena, siempre que la pena impuesta no exceda de un año de prisión.
 
 ### CAPITULO VIII. DE LAS EXCUSAS PARA EL DESEMPEÑO DE LA TUTELA
 
@@ -4669,7 +4675,9 @@ IV.- Se aumentará en una tercera parte el tiempo señalado en las fracciones I 
 
 1156.- Cuando la posesión se adquiere por medio de violencia, aunque ésta cese y la posesión continúe pacíficamente, el plazo para la prescripción será de quince años para los inmuebles y de diez años para los muebles contados desde que cese la violencia.
 
-1157.- La posesión adquirida por medio de una infracción antisocial se tendrá en cuenta para la prescripción a partir de la fecha en que haya quedado extinguida la medida de defensa social o prescrito la acción penal, considerándose la posesión para su cómputo como adquirida por medio de violencia.
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2013)</small>
+
+1157.- La posesión adquirida por medio de una infracción antisocial se tendrá en cuenta para la prescripción a partir de la fecha en que haya quedado extinguida la pena señalada en el Código Penal o prescrito la acción penal, considerándose la posesión para su cómputo como adquirida por medio de violencia.
 
 1158.- El que hubiere poseído bienes inmuebles por el tiempo y con las condiciones exigidas por este Código para adquirirlos por prescripción, puede promover juicio contra el que aparezca como propietario de esos bienes en el Registro Público, a fin de que se declare que la prescripción se ha consumado y que ha adquirido, por ende, la propiedad.
 
@@ -11807,7 +11815,9 @@ DE LAS TRANSACCIONES
 
 2839.- Los ascendientes y los tutores no pueden transigir en nombre de las personas que tienen bajo su potestad o bajo su guarda, a no ser que la transacción sea necesaria o útil para los intereses de los incapacitados y previa autorización judicial.
 
-2840.- Se puede transigir sobre la acción civil proveniente de una infracción antisocial, pero no por eso se extingue la acción pública para la imposición de la medida de defensa social ni se da por probada la infracción antisocial.
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2013)</small>
+
+2840.- Se puede transigir sobre la acción civil proveniente de una infracción antisocial, pero no por eso se extingue la acción pública para la imposición de la sanción señalada en el Código Penal, ni se da por probada la infracción antisocial.
 
 2841.- No se puede transigir sobre el estado civil de las personas, ni sobre la validez del matrimonio.
 
@@ -11907,7 +11917,9 @@ Si por el contrario, prefieren tener voz y voto en la mencionada junta, serán c
 
 2872.- Los pactos particulares entre el deudor y cualquiera de sus acreedores serán nulos.
 
-El crédito cuya preferencia provenga de convenio fraudulento entre el acreedor y el deudor, pierde toda preferencia, a no ser que el dolo provenga sólo del deudor, quien en este caso será responsable de los daños y perjuicios que se sigan a los demás acreedores, además de las medidas de defensa social que merezcan por el fraude.
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2013)</small>
+
+El crédito cuya preferencia provenga de convenio fraudulento entre el acreedor y el deudor, pierde toda preferencia, a no ser que el dolo provenga sólo del deudor, quien en este caso será responsable de los daños y perjuicios que se sigan a los demás acreedores, además de las penas señaladas en el Código Penal por el delito de fraude.
 
 ### CAPITULO II. DE LOS CREDITOS HIPOTECARIOS Y PIGNORATICIOS Y DE ALGUNOS OTROS PRIVILEGIOS
 
@@ -12824,3 +12836,9 @@ P.O. 29 DE AGOSTO DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado
+
+P.O. 2 DE FEBRERO DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
