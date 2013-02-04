@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-interior-de-la-secretaria-de-desarrollo-social-y-507
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-05-31"
-last_updated: "2011-03-30"
+last_updated: "2013-02-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50712&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "SIN"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO SOCIAL Y SUSTENTABLE
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO SOCIAL Y SUSTENTABLE
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SOCIAL Y SUSTENTABLE DEL ESTADO DE SINALOA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO SOCIAL Y HUMANO, PUBLICADO EN EL P.O. DE 30 DE MARZO DE 2011, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SOCIAL Y HUMANO, PUBLICADO EN EL P.O. DE 30 DE MARZO DE 2011 Y EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO URBANO Y OBRAS PUBLICAS, PUBLICADO EN EL P.O. DE 4 DE FEBRERO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: DEROGADO
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: DEROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el miércoles 31 de mayo de de 2006.
 
@@ -989,7 +989,7 @@ LIC. FLORENTINO CASTRO LÓPEZ
 
 LA PRESENTE HOJA DE FIRMAS CORRESPONDE AL REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO SOCIAL Y SUSTENTABLE, DEL GOBIERNO DEL ESTADO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 20 DE MARZO DE 2011.
 
@@ -998,3 +998,11 @@ Artículo Primero. El presente reglamento entrará en vigor al día siguiente de
 Articulo Segundo. Se deroga el Reglamento Interior de la Secretaría de Desarrollo Social y Sustentable, de fecha 12 de mayo de 2006, publicado en el Periódico Oficial "El Estado de Sinaloa", número 065, de fecha 31 del mismo mes y año, con excepción de lo relativo a la materia de Desarrollo Urbano.
 
 Artículo Tercero. Cada Director formulará dentro de un plazo de sesenta días contados a partir de la entrada en vigor de este Reglamento, su manual de organización, de procedimientos y de servicios al público, mismos que deberán ser sometidos a la consideración del Secretario.
+
+P.O. 4 DE FEBRERO DE 2013.
+
+Artículo Primero.- El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Artículo Segundo.- Se abroga el Reglamento Interior de la Secretaría de Comunicaciones y Obras Públicas, de fecha 7 de mayo de 2010, publicado en el Periódico Oficial "El Estado de Sinaloa", número 076, el día 25 de Junio de 2010.
+
+Artículo Tercero.- Se deroga el Reglamento Interior de la Secretaría de Desarrollo Social y Sustentable, de fecha 12 de mayo de 2006, publicado en el Periódico Oficial "El Estado de Sinaloa", número No. 65, del día 31 de mayo de 2006, en los artículos relativos a la materia de desarrollo urbano.
