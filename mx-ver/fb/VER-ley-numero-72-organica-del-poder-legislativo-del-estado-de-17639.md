@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-72-organica-del-poder-legislativo-del-estado-de-1763
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-06"
-last_updated: "2012-12-21"
+last_updated: "2013-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE FEBRERO DE 2013.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 6 de octubre de 2000.
 
@@ -749,7 +749,9 @@ III. Ciencia y Tecnología;
 
 IV. Comunicaciones;
 
-V. Derechos Humanos y Atención a Grupos Vulnerables;
+> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2013)</small>
+
+V. Derechos Humanos y Atención a Grupos Vulnerables y Migrantes;
 
 VI. Desarrollo Agropecuario, Rural, Forestal, Pesca y Alimentación;
 
@@ -1372,3 +1374,9 @@ G.O. 21 DE DICIEMBRE DE 2012.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 4 DE FEBRERO DE 2013.
+
+Primero. El presente Decreto iniciará su vigencia el día de su publicación en la Gaceta Oficial del Estado.
+
+Segundo. A partir del inicio de la vigencia del presente Decreto, todas las referencias que en ordenamientos estatales se hagan a la Comisión Permanente de Derechos Humanos y Atención a Grupos Vulnerables se entenderán referidas a la Comisión Permanente de Derechos Humanos y Atención a Grupos Vulnerables y Migrantes.
