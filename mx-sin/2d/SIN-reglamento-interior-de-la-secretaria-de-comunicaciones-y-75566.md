@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-interior-de-la-secretaria-de-comunicaciones-y-75566"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-06-25"
-last_updated: "2010-06-25"
+last_updated: "2013-02-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75566&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SIN"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE COMUNICACIONES Y OBRAS PUBLICAS, DEL ESTADO DE SINALOA
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE COMUNICACIONES Y OBRAS PUBLICAS
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE COMUNICACIONES Y OBRAS PÚBLICAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO URBANO Y OBRAS PÚBLICAS, PUBLICADO EN EL P.O. DE 4 DE FEBRERO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el viernes 25 de junio de 2010.
 
@@ -348,3 +350,13 @@ Departamento de Gestión y Seguimiento.
 Departamento de Evaluación Interna.
 
 ### Capítulo Séptimo. De la Subsecretaría de Obra Pública
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 4 DE FEBRERO DE 2013.
+
+Artículo Primero.- El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Artículo Segundo.- Se abroga el Reglamento Interior de la Secretaría de Comunicaciones y Obras Públicas, de fecha 7 de mayo de 2010, publicado en el Periódico Oficial "El Estado de Sinaloa", número 076, el día 25 de Junio de 2010.
+
+Artículo Tercero.- Se deroga el Reglamento Interior de la Secretaría de Desarrollo Social y Sustentable, de fecha 12 de mayo de 2006, publicado en el Periódico Oficial "El Estado de Sinaloa", número No. 65, del día 31 de mayo de 2006, en los artículos relativos a la materia de desarrollo urbano.
