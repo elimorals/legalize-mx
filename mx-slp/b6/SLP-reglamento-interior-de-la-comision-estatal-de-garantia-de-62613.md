@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-de-la-comision-estatal-de-garantia-de-62613
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-17"
-last_updated: "2011-09-15"
+last_updated: "2013-02-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62613&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL DE GARANTÍA DE ACCESO A LA INFORMACIÓN PÚBLICA DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE FEBRERO DE 2013.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 17 de julio de 2008.
 
@@ -123,9 +123,11 @@ La Comisión podrá organizar y participar en toda actividad que tenga como prop
 
 ARTICULO 5 quater. Los Comisionados y el personal de la Comisión se sujetarán a los principios de legalidad, imparcialidad, objetividad, honestidad, independencia, autonomía, equidad y certeza en el desempeño de sus actuaciones. Estos principios incluyen la obligación de la confidencialidad de la información que por razones de su encargo conozcan y manejen, y que estén relacionadas con la tramitación de los recursos interpuestos ante la Comisión, observando puntualmente las disposiciones internas que para este efecto expida la propia Comisión.
 
-###### ARTICULO 6°.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE FEBRERO DE 2013)</small>
 
-Para el ejercicio de sus atribuciones el despacho de los asuntos de su competencia, la Comisión contará con los órganos y unidades administrativas que a continuación se señala:
+###### ARTÍCULO 6°.
+
+Para el ejercicio de sus atribuciones el despacho de los asuntos de su competencia, la Comisión contará con los órganos y unidades administrativas que a continuación se señalan:
 
 I. Pleno
 
@@ -137,11 +139,13 @@ a) Contraloría Interna
 
 b) Unidad de Información
 
-IV. Dirección General del SEDA
+> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 2013)</small>
 
-a) Director de Documentación y Archivo
+IV. Dirección General del SEDA:
 
-b) Director de Datos Personales
+a) Dirección de Archivos;
+
+b) Dirección de Datos Personales.
 
 V. Secretaría Ejecutiva
 
@@ -175,7 +179,9 @@ Además de las que le confiere la Ley, le corresponde al Pleno el ejercicio de l
 
 I. Dictar las políticas y estrategias generales para el cumplimiento de las atribuciones que la Ley confiere a la Comisión;
 
-II. Aprobar los lineamientos y criterios técnicos que en materia de clasificación, desclasificación, administración, resguardo y archivo de información reservada le proponga el SEDA;
+> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 2013)</small>
+
+II. Aprobar los lineamientos y criterios técnicos que en materia de clasificación, desclasificación, administración, resguardo y archivo de información reservada le proponga el Seda; además de recibir el informe anual de actividades del SEDA, así como las observaciones que al mismo haga el Comité Técnico de Archivos del Estado, en términos de la Ley de Archivos del Estado;
 
 III. Aprobar las normas y políticas para la administración, seguridad y resguardo de los datos personales, en protección de los entes obligados que el SEDA le proponga.
 
@@ -191,7 +197,9 @@ VIII. Aprobar la celebración de convenios y mecanismos de coordinación y colab
 
 IX. Aprobar la política de comunicación social de la Comisión;
 
-X. Aprobar, en su caso, el nombramiento y remoción del Secretario Ejecutivo, del Director General del SEDA, de los directores de área y de los titulares del resto de las unidades administrativas de la Comisión, a propuesta de cualquiera de los Comisionados;
+> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 2013)</small>
+
+X. Aprobar, en su caso, el nombramiento y remoción del Secretario Ejecutivo, del Director General del SEDA atendiendo a lo dispuesto por la Ley Estatal de Archivos, de los directores de área y de los titulares del resto de las unidades administrativas de la Comisión, a propuesta de cualquiera de los Comisionados;
 
 XI. Aprobar la política laboral y normar el Servicio Civil de Carrera;
 
@@ -245,9 +253,9 @@ XXXIII. Calificar las excusas de los comisionados, cuando se invoque conflicto d
 
 XXXIV. Interpretar y aplicar las disposiciones de la Ley de Transparencia y Acceso a la Información Pública del Estado de San Luis Potosí, de este Reglamento y en su caso publicar y difundir los criterios que el Pleno considere necesaria su publicación;
 
-> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 2013)</small>
 
-XXXV. Dispensar al personal de la Comisión la satisfacción de alguno de los requisitos exigidos para su contratación, cuando lo considere procedente, y
+XXXV. Dispensar al personal de la Comisión la satisfacción de alguno de los requisitos exigidos para su contratación, cuando lo considere procedente; salvo en el caso de la elección del Director General del SEDA, en donde en todo momento deberá observarse lo establecido en la Ley de Archivos del Estado;
 
 > <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2009)</small>
 
@@ -421,7 +429,7 @@ XVII. Requerir al Secretario Ejecutivo un informe mensual de sus actividades, y
 
 XVIII. Las demás que señalen la Ley, este Reglamento u otras disposiciones aplicables.
 
-### CAPITULO SEXTO. DEL SEDA
+### CAPÍTULO SEXTO. DEL SISTEMA ESTATAL DE DOCUMENTACIÓN Y ARCHIVOS
 
 #### Sección Segunda. De las Unidades Administrativas
 
@@ -529,17 +537,27 @@ XI. Remitir al Pleno, a través del Presidente, así como a la Dirección Juríd
 
 XII. Las demás que le establezca este Reglamento y aquellas que le sean encomendadas por el Presidente.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE FEBRERO DE 2013)</small>
+
 #### Sección Primera. Del Director General
+
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2013)</small>
 
 ###### ARTICULO 30.
 
-El Sistema Estatal de Documentación y Archivo, es la unidad administrativa dependiente del Pleno de la Comisión responsable de aplicar las regulaciones y dictar los lineamientos en la materia de la cual se deriva su denominación.
+El SEDA es el órgano dependiente de la CEGAIP, responsable de aplicar las regulaciones que se establezcan en materia de administración y sistematización de la documentación e información en posesión de los sujetos obligados; para regular y supervisar la función archivística y el eficiente desarrollo de la administración de documentos y organización de archivos en el Estado.
+
+Además, el SEDA vigilará el cumplimiento de la Ley de Archivos del Estado, y funcionará como instancia de coordinación, regulación y supervisión de las Unidades de Información pública integradas en cada entidad pública en materia de archivos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE FEBRERO DE 2013)</small>
 
 #### Sección Segunda. De las Unidades Administrativas Adscritas al SEDA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE FEBRERO DE 2013)</small>
+
 ###### ARTICULO 31.
 
-Son atribuciones del Director General del SEDA:
+Son atribuciones del Director General del SEDA, además de las señaladas en la Ley de Archivos del Estado:
 
 I. Aplicar las disposiciones legales y administrativas en materia de administración y sistematización de la documentación e información en posesión de los entes obligados;
 
@@ -547,37 +565,81 @@ II. Emitir, previa aprobación del Pleno de la Comisión los lineamientos y crit
 
 III. Considerar, para efectos de emitir los lineamientos a que se refiere la fracción anterior, las opiniones técnicas de las unidades de información de los entes obligados;
 
-IV. Coordinar, regular y supervisar, a través de las direcciones que le son adscritas, a las unidades de información pública integradas en cada entidad para cumplir las disposiciones de la Ley en materia de documentación y archivo, datos personales e información que deba difundirse de oficio;
+> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 2013)</small>
 
-V. Establecer y operar la red de coordinación interinstitucional que integre todos los archivos históricos y de gestión que formen parte de los entes obligados;
+IV. Proponer al Pleno de la CEGAIP, las medidas de apremio o en su caso las sanciones pecuniarias a los servidores públicos, por infracciones a las disposiciones legales o reglamentarias así como a los lineamientos en vigor que conozca con motivo del ejercicio de sus facultades; previa sustanciación de los procedimientos establecidos tanto en la Ley de Transparencia y Acceso a la Información Pública de San Luis Potosí, como en la Ley de Archivos del Estado;
 
-VI. Autorizar, previa aprobación del Pleno de la Comisión, los cuadros de clasificación archivística;
+> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 2013)</small>
 
-VII. Autorizar, previa aprobación del Pleno de la Comisión, el expurgo documental en los entes obligados que así lo soliciten, ajustándose a las disposiciones y lineamientos de la materia, en coordinación con el Comité de Información respectivo;
+V. Coordinar regular y supervisar, a través de las direcciones que le son adscritas, a las unidades de información pública integradas en cada entidad para cumplir las disposiciones de la Ley en materia de documentación y archivo, datos personales e información que deba difundirse de oficio;
 
-VIII. Proponer al Pleno para su aprobación, los lineamientos y criterios técnicos en materia de clasificación, desclasificación, administración, resguardo y archivo de información reservada;
+> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 2013)</small>
 
-IX. Proponer al Pleno para su aprobación, las normas y políticas para la administración, seguridad y resguardo de los datos personales, en posesión de los entes obligados;
+VI. Establecer y operar la red de coordinación interinstitucional que integre todos los archivos históricos y de gestión que formen parte de los entes obligados;
 
-X. Proponer al Pleno para su aprobación, los lineamientos en materia de recepción y trámite de consultas, así como los formatos para la solicitud de información pública y para la protección de datos personales;
+> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 2013)</small>
 
-XI. Proponer al Pleno para su aprobación los estudios, investigaciones y publicaciones en las materias de su competencia;
+VII. Elaborar y proponer al Pleno de la Comisión para su aprobación, los esquemas y ejercicios de evaluación de las entidades públicas y partidos políticos respecto del cumplimiento de sus obligaciones en materia de archivos conforme a las obligaciones establecidas en la Ley de Archivos del Estado;
 
-XII. Practicar las visitas de verificación ordenadas por el Pleno de la Comisión a los entes obligados, para comprobar el cumplimiento de sus obligaciones en materia de integración, sistematización, resguardo y conservación de archivos, documentos e información pública; de administración, seguridad, resguardo y transferencia de datos personales; y, de información que deba difundirse de oficio;
+> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 2013)</small>
 
-XIII. Requerir, previo acuerdo del Pleno de la Comisión, a los entes obligados, la presentación de información y documentación para verificar en las oficinas de la Comisión el cumplimiento de sus obligaciones en materia de integración, sistematización, resguardo y conservación de archivos, documentos e información pública; clasificación y desclasificación de información reservada o confidencial; de administración, seguridad, resguardo y transferencia. De datos personales; y, de información que deba difundirse de oficio;
+VIII. Aprobar y registrar, previa aprobación del Pleno de la Comisión, los instrumentos de control archivístico de los sujetos obligados;
 
-XIV. Requerir de los entes obligados los informes y documentos que le resulten necesarios para el ejercicio de sus atribuciones legales y reglamentarias;
+> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2009)</small>
+IX. Estar presente, en la valoración y aprobación de las bajas documentales que realice el Comité Técnico de Archivos conforme a lo establecido por la Ley de la materia;
 
-XV. Ordenar a los entes obligados, en los casos particulares el acceso a la información clasificada por éstos como reservada y confidencial, para determinar su debida clasificación o desclasificación, o ampliación del plazo de reserva, previo acuerdo por el Pleno de la Comisión;
+> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 2013)</small>
 
-XVI. Proponer al Pleno la imposición de sanciones pecuniarias a los servidores públicos por infracciones a la Ley y a las demás disposiciones legales o reglamentarias, así como los lineamientos en vigor, que conozca con motivo del ejercicio de las facultades a que se refieren las fracciones XII y XIII de este artículo, previa sustanciación del procedimiento administrativo previsto en el artículo 116 de la Ley;
+X. Proponer al Pleno para su aprobación, los lineamientos y criterios técnicos en materia de clasificación, desclasificación, administración, resguardo y archivo de información reservada;
 
-XVII. Ejecutar los programas de capacitación aprobados por el Pleno en materia de integración, sistematización, resguardo y conservación de archivos, documentos e información pública; de administración, seguridad, resguarde y transferencia de datos personales; y, de información que deba difundirse de oficio, y
+> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 2013)</small>
 
-XVIII. Las demás que le establezcan la Ley, el presente Reglamento y las que le sean encomendadas por el Pleno.
+XI. Proponer al Pleno para su aprobación, las normas y políticas para la administración, seguridad y resguardo de los datos personales, en posesión de los entes obligados;
+
+> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 2013)</small>
+
+XII. Proponer al Pleno para su aprobación, los lineamientos en materia de recepción y trámite de consultas, así como los formatos para la solicitud de información pública y para la protección de datos personales;
+
+> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 2013)</small>
+
+XIII. Proponer al Pleno para su aprobación los estudios, investigaciones y publicaciones en las materias de su competencia;
+
+> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 2013)</small>
+
+XIV. Practicar las visitas de verificación ordenadas por el Pleno de la Comisión a los entes obligados, para comprobar el cumplimiento de sus obligaciones en materia de integración, sistematización, resguardo y conservación de archivos, documentos e información pública; de administración, seguridad, resguardo y transferencia de datos personales; y de información que deba difundirse de oficio;
+
+> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 2013)</small>
+
+XV. Requerir, previo acuerdo del Pleno de la Comisión, a los entes obligados, la presentación de información y documentación para verificar en las oficinas de la Comisión el cumplimiento de sus obligaciones en materia de integración, sistematización, resguardo y conservación de archivos, documentos e información pública; clasificación y desclasificación de información reservada o confidencial; de administración, seguridad, resguardo y transferencia de datos personales; y, de información que deba difundirse de oficio;
+
+> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 2013)</small>
+
+XVI. Requerir de los entes obligados los informes y documentos que le resulten necesarios para el ejercicio de sus atribuciones legales y reglamentarias;
+
+> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 2013)</small>
+
+XVII. Ordenar a los entes obligados, en los casos particulares el acceso a la información clasificada por éstos como reservada y confidencial, para determinar su debida clasificación o desclasificación, o ampliación del plazo de reserva, previo acuerdo por el Pleno de la Comisión;
+
+> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 2013)</small>
+
+XVIII. Proponer al Pleno la imposición de sanciones pecuniarias a los servidores públicos por infracciones a la Ley e (sic) Transparencia y Acceso a la Información Pública, a la Ley de Archivos del Estado y a las demás disposiciones legales o reglamentarias, así como los lineamientos en vigor, que conozca con motivo del ejercicio de las facultades a que se refieren las fracciones XIV y XV de este artículo, previa sustanciación del procedimiento administrativo previsto en el artículo 116 de la Ley;
+
+> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 2013)</small>
+
+XIX. Proponer al Pleno y una vez aprobados ejecutar los programas de capacitación en materia de integración, sistematización, resguardo y conservación de archivos, documentos e información pública; de administración, seguridad, resguardo y transferencia de datos personales; y, de información que deba difundirse de oficio. Además de promover cursos de capacitación, actualización y profesionalización del Personal de archivos que requiera de ello;
+
+> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 2013)</small>
+
+XX. Investigar de oficio o a petición de terceros sobre las violaciones a la Ley de Archivos del Estado;
+
+> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 2013)</small>
+
+XXI. Certificar los plazos derivados del desahogo de los procedimientos substanciados en el ejercicio de sus atribuciones, y;
+
+> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 2013)</small>
+
+XXII. Las demás que le establezcan la Ley de Transparencia y Acceso a la Información Pública, la Ley de Archivos del Estado, el presente Reglamento y las que le sean encomendadas por el Pleno.
 
 #### Sección Primera. Del Secretario Ejecutivo
 
@@ -585,27 +647,37 @@ XVIII. Las demás que le establezcan la Ley, el presente Reglamento y las que le
 
 ###### ARTICULO 32.
 
-Son atribuciones del Director de Documentación y Archivo:
+Son atribuciones del Director de Archivos:
 
 I. Supervisar la aplicación de los lineamientos y criterios técnicos para organizar y sistematizar la integración, administración y resguardo de los archivos de trámite y los archivos históricos por parte de los entes obligados;
 
 II. Supervisar la organización de archivos por parte de los entes obligados;
 
-III. Supervisar el expurgo documental en los entes obligados que se encuentren en el proceso de autorización del mismo, en coordinación con el Comité de Información respectivo;
+> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 2013)</small>
 
-IV. Supervisar a las unidades de información pública integradas en cada entidad para cumplir las disposiciones de la Ley en materia de documentación y archivo, e información que deba difundirse de oficio;
+III. Supervisar el expurgo documental en los entes obligados que se encuentren en el proceso de autorización del mismo en coordinación con el Comité de Información respectivo y con el Comité Técnico de Archivo;
+
+> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 2013)</small>
+
+IV. Supervisar a las unidades de información pública integradas en cada entidad para cumplir las disposiciones de la Ley en materia de documentación y archivo;
 
 V. Participar en la operación de la red de coordinación interinstitucional que integre todos los archivos históricos y de gestión que formen parte de los entes obligados;
 
-VI. Auxiliar al Director General del SEDA en la elaboración de los lineamientos y criterios técnicos que en materia de clasificación, desclasificación, administración, resguardo y archivo de información reservada;
+> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 2013)</small>
 
-VII. Auxiliar al Director General del SEDA en la elaboración de los lineamientos en materia de recepción y trámite de consultas, así como los formatos para la solicitud de información pública;
+VI. Proponer al Director General del SEDA la elaboración y actualización de los lineamientos, políticas, criterios técnicos y demás instrumentos necesarios para regular la función archivística en el Estado;
 
-VIII. Apoyar al Director General del SEDA en la práctica de visitas de verificación en las oficinas de los entes obligados, para comprobar el cumplimiento de sus obligaciones en materia de integración, sistematización, resguardo y conservación de archivos, documentos e información pública y de información que deba difundirse de oficio;
+> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2009)</small>
+VII. Proponer al Director General del SEDA la elaboración de los lineamientos en materia de recepción y trámite de consultas de la documentación contenida en los archivos públicos;
 
-IX. Apoyar al Director General del SEDA en los procedimientos de verificación de información y documentación seguidos a los entes obligados en las oficinas de la Comisión respecto del cumplimiento de sus obligaciones en materia de integración, sistematización, resguardo y conservación de archivos, documentos e información pública; información que deba difundirse de oficio y clasificación y desclasificación de información reservada, que hayan sido aprobados por el Pleno de la Comisión;
+> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 2013)</small>
+
+VIII. Realizar, previo conocimiento del Director General del SEDA, las visitas de verificación en las oficinas de los entes obligados, para comprobar el cumplimiento de sus obligaciones en materia de integración, sistematización, resguardo y conservación de archivos;
+
+> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 2013)</small>
+
+IX. Elaborar el estudio y dictamen del cumplimiento de las obligaciones de los entes obligados que en materia de integración, sistematización, resguardo y conservación de archivos, documentos e información pública; que hayan sido aprobados por el Pleno de la Comisión;
 
 X. Vigilar que los entes obligados cumplan con las disposiciones aplicables en materia de creación, adquisición, entrega, recepción, organización, control, distribución, conservación, custodia, resguardo, restauración, transferencia, selección, depuración, eliminación de documentos, así como las actividades enfocadas a regular, coordinar y dinamizar su uso y divulgación;
 
@@ -615,9 +687,31 @@ XII. Corroborar los soportes documentales de los entes obligados en los casos qu
 
 XIII. Investigar de oficio o a petición de terceros sobre las posibles violaciones a las disposiciones legales y administrativas aplicables en materia de documentación y archivo, dando cuenta al Director General del SEDA de los resultados de las investigaciones y proponiendo, en su caso, el inicio del procedimiento administrativo para la aplicación de sanciones;
 
-XIV. Informar al Director General del SEDA de hechos de que tenga conocimiento con motivo de sus actuaciones, que puedan constituir delitos en materia de documentación y archivo, y
+XIV. Informar al Director General del SEDA de hechos de que tenga conocimiento con motivo de sus actuaciones, que puedan constituir delitos en materia de documentación y archivo, y (sic)
 
-XV. Las demás que le establezcan la Ley, el presente Reglamento y las que le sean encomendadas por el Pleno y/o por el Director General del SEDA.
+> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 2013)</small>
+
+XV. Llevar a cabo junto con el Director General del SEDA, las actuaciones necesarias para la integración y desahogo de los procedimientos iniciados con motivo de violaciones a la Ley de Archivos y sus normas reglamentarias;
+
+> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 2013)</small>
+
+XVI. Supervisar la transferencia de archivos en los procesos de entrega recepción de las administraciones públicas, en coordinación con las instituciones legalmente autorizadas para intervenir y validar dichos proceso;
+
+> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 2013)</small>
+
+XVII. Tener a su cargo el Registro Estatal de Archivos;
+
+> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 2013)</small>
+
+XVIII. Coadyuvar en la elaboración de los los planes y programas de capacitación en materia de archivos, documentación y organización y conservación de soportes documentales;
+
+> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 2013)</small>
+
+XIX. Llevar a cabo, cuando se presente el caso, la valoración de archivos privados, y proponer al Director General del SEDA su inscripción en el Registro Estatal de Archivos, así como la aplicación de las medidas necesarias para su conservación;
+
+> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 2013)</small>
+
+XX. Las demás que le establezcan la Ley de Transparencia y Acceso a la Información Pública, La Ley de Archivos, el presente Reglamento y las que le sean encomendadas por el Pleno y/o por el Director General del SEDA dentro del ejercicio de sus atribuciones legales.
 
 ###### ARTICULO 33.
 
@@ -1011,15 +1105,21 @@ En caso de excusa del Presidente, una vez llamado el Comisionado Supernumerario,
 
 ARTICULO 44 bis. La ausencia de los funcionarios de la Comisión será suplida en los términos siguientes:
 
-I.- La del Secretario Ejecutivo por el Director Jurídico; y
+I. La del Secretario Ejecutivo por el Director Jurídico; y (sic)
 
-II.- La de los Directores, por el funcionario del área inmediato inferior del ausente o quien determine el Pleno de la Comisión Estatal de Garantía y Acceso a la Información Pública.
+> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 2013)</small>
+
+II. Del Director General del SEDA serán cubiertas por el Director de Archivos, quien actuará en su ausencia;
+
+> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 2013)</small>
+
+III. La de los Directores, por el funcionario del área inmediato inferior del ausente o quien determine el Pleno de la Comisión Estatal de Garantía y Acceso a la Información Pública.
 
 ###### ARTICULO 45.
 
 Los titulares de las unidades administrativas y, en general, los demás servidores públicos serán suplidos en sus ausencias por sus inmediatos inferiores que de ellos dependan, en el ámbito de sus respectivas competencias, salvo que se trate de personal sindicalizado.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 15 DE AGOSTO DE 2009)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 15 DE AGOSTO DE 2009)</small>
 
 ### CAPITULO DECIMO. DISPOSICIONES FINALES
 
@@ -1082,3 +1182,7 @@ P.O. 15 DE SEPTIEMBRE DE 2011.
 PRIMERO. Se reforma el artículo 34, fracción XVII del Reglamento Interior de esta Comisión.
 
 SEGUNDO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE FEBRERO DE 2013.
+
+ÚNICO.- La presente modificación a este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
