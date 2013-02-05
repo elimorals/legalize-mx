@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-del-instituto-de-informacion-27984"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-01-23"
-last_updated: "2003-01-23"
+last_updated: "2013-02-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27984&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "JAL"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO DE INFORMACION TERRITORIAL DEL ESTADO DE JALISCO
 
-REGLAMENTO INTERIOR DEL INSTITUTO DE INFORMACION TERRITORIAL DEL ESTADO DE JALISCO
+REGLAMENTO INTERIOR DEL INSTITUTO DE INFORMACIÓN TERRITORIAL DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERIOR DEL INSTITUTO DE INFORMACIÓN TERRITORIAL DEL ESTADO DE JALISCO, PUBLICADO EN EL P.O. DE 5 DE FEBRERO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 23 de enero de 2003.
 
@@ -631,3 +633,13 @@ LIC. HÉCTOR PÉREZ PLAZOLA
 SECRETARIO GENERAL DE GOBIERNO
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 5 DE FEBRERO DE 2013.
+
+Primero. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+Segundo. Se abroga el Reglamento Interior del Instituto de Información Territorial del Estado de Jalisco publicado en el periódico oficial "El Estado de Jalisco" el 23 de enero de 2003.
+
+Tercero. Se abroga el Reglamento de Sesiones del Consejo Directivo del Instituto de Información Territorial del Estado de Jalisco publicado en el periódico oficial "El Estado de Jalisco" el 13 de agosto de 1998.
