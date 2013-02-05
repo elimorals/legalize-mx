@@ -4,7 +4,7 @@ identifier: "YUC-ley-estatal-de-planeacion-8173"
 country: "mx"
 rank: "ley"
 publication_date: "1988-04-04"
-last_updated: "1996-08-26"
+last_updated: "2013-02-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8173&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "YUC"
 ---
 # LEY ESTATAL DE PLANEACION
 
-LEY ESTATAL DE PLANEACION
+LEY ESTATAL DE PLANEACIÓN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE AGOSTO DE 1996.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE YUCATÁN, PUBLICADO EN EL D.O. 5 DE FEBRERO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: ABROGADA.
 
 Ley publicada en el Suplemento al Diario Oficial el Lunes 4 de abril de 1988.
 
@@ -61,7 +63,7 @@ VI. Las bases del Subsistema de participación social que se integra por los mec
 
 VII.- Las bases para que las acciones de los particulares contribuyan a alcanzar los objetivos y prioridades de planes y programas.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 26 DE AGOSTO DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 26 DE AGOSTO DE 1996)</small>
 
 ###### ARTICULO 2.
 
@@ -525,7 +527,7 @@ INDICE DE LAS REFORMAS A LA
 
 LEY ESTATAL DE PLANEACION
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 D.O. 29 DE OCTUBRE DE 1993.
 
@@ -542,3 +544,29 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el Dia
 ###### ARTICULO SEGUNDO.
 
 Este decreto deroga todas las disposiciones legales que a él se opongan y específicamente los decretos números 409 y 260, publicados en el Diario Oficial del Gobierno del Estado en sus ediciones del 12 de febrero de 1981 y 21 de septiembre de 1984, respectivamente.
+
+D.O. 5 DE FEBRERO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Esta Ley entrará en vigor el día de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+A partir de la entrada en vigor de este Decreto, queda abrogada la Ley Estatal de Planeación publicada el día 4 de abril del año 1988 en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones de igual o menor rango, que se opongan a este Decreto.
+
+###### ARTÍCULO CUARTO.
+
+El Titular del Poder Ejecutivo del Estado deberá publicar las disposiciones reglamentarias de esta Ley dentro de los 180 días siguientes a la publicación de la misma en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO QUINTO.
+
+Los ayuntamientos de las administraciones municipales 2012-2015 que hayan aprobado su plan municipal de desarrollo, deberán cumplir con lo establecido en el tercer párrafo del artículo 28 de esta Ley.
+
+###### ARTÍCULO SEXTO.
+
+Las disposiciones reglamentarias relacionadas con el Sistema de Participación Social y sus mecanismos, además de los establecidos en esta Ley, deberán considerar los principios de pluralidad, representatividad y equidad.
