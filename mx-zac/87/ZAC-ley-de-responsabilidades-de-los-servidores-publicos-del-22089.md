@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-responsabilidades-de-los-servidores-publicos-del-22089"
 country: "mx"
 rank: "ley"
 publication_date: "2001-09-08"
-last_updated: "2009-12-19"
+last_updated: "2013-02-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22089&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS DE ZACATECAS
 
-LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS DE ZACATECAS
+LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS DE ZACATECAS, PUBLICADA EN EL P.O. 6 DE FEBRERO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 8 de septiembre de 2001.
 
@@ -922,3 +924,13 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Los procedimientos laborales burocráticos que iniciaron bajo la vigencia de la Ley, previas las reformas y adiciones y que continúen en trámite, serán regulados por las disposiciones que regían hasta antes de la entrada en vigor del presente Decreto.
+
+P.O. 6 DE FEBRERO DE 2013.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO.- Los procedimientos que se hayan iniciado con anterioridad al inicio de vigencia de la presente Ley, se sustanciarán por las normas vigentes al momento de inicio del procedimiento.
+
+TERCERO.- Se abroga el Decreto No. 339 que contiene la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Zacatecas, publicado en el Suplemento 2 al 72 del Periódico Oficial, Órgano del Gobierno del Estado en fecha 8 de septiembre de 2001; y se derogan todas aquellas disposiciones que se opongan a la presente Ley.
+
+CUARTO.- La Legislatura del Estado dentro los ciento veinte días siguientes a la publicación del presente decreto, reformará aquellas disposiciones que contravengan la presente Ley.
