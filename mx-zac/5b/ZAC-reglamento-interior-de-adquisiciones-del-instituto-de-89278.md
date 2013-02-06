@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-interior-de-adquisiciones-del-instituto-de-89278"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-08-01"
-last_updated: "2012-08-01"
+last_updated: "2013-02-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 REGLAMENTO INTERIOR DE ADQUISICIONES DEL ISSSTEZAC DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE ADQUISICIONES DEL ISSSTEZAC, PUBLICADO EN EL P.O. DE 6 DE FEBRERO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 1 de agosto del 2012.
 
@@ -708,3 +710,13 @@ Cuarto.- El presente Reglamento considera en su redacción un lenguaje incluyent
 APROBADO POR LA JUNTA DIRECTIVA EN SESIÓN ORDINARIA CON NÚMERO DE ACUERDO 3074/259/2011 DE FECHA 08 DE JULIO DEL AÑO 2011. RÚBRICAS
 
 SE EXPIDE EL PRESENTE REGLAMENTO INTERIOR DE ADQUISICIONES DEL ISSSTEZAC, EN FECHA 09 DE JULIO DEL 2012.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 6 DE FEBRERO DE 2013.
+
+Primero.- El presente Reglamento Interior, entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- Se abroga el Reglamento Interior de Adquisiciones del ISSSTEZAC, publicado en el suplemento número 61 del Periódico Oficial, Órgano del Gobierno del Estado, correspondiente al día 01 de agosto del año 2012.
+
+Tercero.- El presente Reglamento considera en su redacción un lenguaje incluyente de género.
