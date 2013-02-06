@@ -4,7 +4,7 @@ identifier: "SIN-codigo-civil-para-el-estado-de-sinaloa-9901"
 country: "mx"
 rank: "codigo"
 publication_date: "1940-07-23"
-last_updated: "2012-04-25"
+last_updated: "2013-02-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CÓDIGO CIVIL PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE FEBRERO DE 2013.
 
 Código publicado en el Periódico Oficial del Estado de Sinaloa, el 23 de julio de 1940.
 
@@ -233,423 +233,407 @@ Las sucursales que operen en lugares distintos de donde radica la casa matriz, t
 
 Tanto a las personas físicas como a las morales, les será lícito designar un domicilio convencional para el cumplimiento de obligaciones determinadas.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
+
 ## TITULO IV.
 
 Del Registro Civil.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
+
 ### CAPITULO I.
 
-Disposiciones Generales.
-
-> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 35.
 
-El Registro Civil es una institución de orden público y de interés social por medio de la cual el Estado inscribe, autoriza, certifica y da publicidad a los hechos y actos constitutivos, modificativos o extintivos del Estado Civil de las personas.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-En el Estado de Sinaloa, la prestación del servicio del Registro Civil, así como la dirección y control del mismo, estará a cargo del Ejecutivo Estatal, a través de la Secretaría General de Gobierno, misma que para cumplir con esta atribución contará con una Dirección del Registro Civil, los Departamentos y las Oficialías del Registro Civil que acuerde el Ejecutivo Estatal, quienes ejercerán las atribuciones que este Código, las leyes y los reglamentos les concedan y tendrán fe pública en el desempeño de las labores propias de su cargo.
-
-Las Oficialías del Registro Civil estarán a cargo de servidores públicos denominados Oficiales del Registro Civil.
-
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 1982)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 36.
 
-En el asentamiento de las actas del Registro Civil intervendrán el Oficial del Registro Civil que autoriza y da fe, los particulares que soliciten el servicio o sus representantes legales, en su caso, y los testigos que corroboren el dicho de los particulares y atestigüen el acto, quienes deberán firmarlas en el espacio correspondiente, al igual que las demás personas que se indiquen en las mismas.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 37.
 
-Las actas del Registro Civil se asentarán en formatos especiales, los cuales serán los siguientes: Nacimiento, reconocimiento de hijos, adopción simple, matrimonio, divorcio, defunción, inscripción de las sentencias ejecutorias que declaren la ausencia, la presunción del muerte, la tutela y la pérdida o la limitación de la capacidad legal para administra bienes. Las inscripciones se harán en forma computarizada o mecanográfica por quintuplicado, excepto en caso de defunción que se hará por sextuplicado.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-La infracción de esta disposición producirá la nulidad del acta y la destitución del servidor público responsable, sin perjuicio de las penas que la ley señale y de la indemnización de daños y perjuicios.
-
-Los formatos se encuadernarán en volúmenes hasta de trescientas actas correspondientes al año de que se trate. La inscripción computarizada se regirá por el procedimiento de guarda y distribución del respaldo informático que establezca el Reglamento respectivo.
-
-> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 1992)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 38.
 
-Si se perdiere o destruyere alguna de las formas del Registro Civil, se sacará inmediatamente copia alguna de los otros ejemplares, bajo la responsabilidad del Oficial del Registro Civil, del Director del Registro Civil y del encargado del archivo estatal de dicho Registro, para cuyo efecto el funcionario titular del lugar donde ocurre la pérdida dará aviso a los demás en la forma que establezca el reglamento respectivo.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 39.
 
-El estado civil de las personas sólo se comprueba por las constancias relativas del Registro. Ningún otro documento ni medio de prueba es admisible para comprobar el estado civil, salvo los casos expresamente exceptuados en la ley.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 1982)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 40.
 
-Cuando no hayan existido registros, se hayan perdido, estuvieren ilegibles o faltaren las actas en que se pueda suponer que se encontraba la inscripción, se podrá probarse el acto en la forma que establezca el Código de Procedimientos Civiles, para la inscripción del mismo.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 41.
 
-Los formatos del Registro Civil serán distribuidos por la Dirección del Registro Civil, el original se conservará encuadernado en un volumen en la Oficialía y se entregarán las copias de la siguiente manera:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-a) Una al interesado;
-
-b) Una al Instituto Nacional de Estadística, Geografía e Informática;
-
-c) Dos a la Dirección del Registro Civil, para que una se conserve encuadernada en un volumen en su Archivo Central y la otra se remita a la Dirección General del Registro Nacional de Población e Identificación Personal de la Secretaría de Gobernación; y
-
-d) En caso de defunciones, se remitirá una copia al Instituto Federal Electoral.
-
-Con las actas del Registro Civil se integrará el apéndice respectivo, que estará constituido por todos los documentos relacionados con el acto que se asienta. Los documentos del apéndice estarán anotados y relacionados con el acta respectiva, al igual que las actas lo estarán con éstos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 42.
 
-El Oficial del Registro Civil que no cumpla la prevención de remitir oportunamente a la mencionada Oficina el Ejemplar de que habla el artículo anterior, será destituido de su cargo.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 43.
 
-No podrá asentarse en las actas, ni por vía de nota o advertencia, sino lo que deba ser declarado para el acto preciso a que ellas se refieren y lo que esté expresamente prevenido en la ley.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 1982)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 44.
 
-Cuando los interesados no puedan concurrir personalmente ante el Oficial del Registro Civil, podrán solicitar que éste acuda al lugar donde se encuentra o podrán hacerse representar por mandatario especial para el acto. En este último caso el mandato se otorgará mediante Escritura Pública.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 45.
 
-En la formación de las actas del estado civil se observarán las reglas siguientes:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADA, P.O. 4 DE ENERO DE 1982)</small>
-
-I.- Los testigos que intervengan en las actas del Registro Civil deberán ser mayores de edad y se preferirán a los parientes y a los que designen los interesados, asentándose en el acta su nombre, edad, domicilio y nacionalidad.
-
-II.- Extendida en los libros el acta, será leída por el Oficial del Registro Civil a los interesados y testigos; la firmarán todos, y si algunos no pueden hacerlo, se expresará la causa. También se expresará que el acta fue leída y quedaron conformes los interesados con su contenido;
-
-III.- Si alguno de los interesados quisiera imponerse por sí mismo del tenor del acta, podrá hacerlo; y si no supiere leer, uno de los testigos designados por él leerá aquella y la firmará si el interesado no supiere hacerlo;
-
-IV.- Si un acto comenzado se entorpeciere porque las partes se nieguen a continuarlo o por cualquier otro motivo, se inutilizará el acta marcándola con dos líneas transversales y expresándose el motivo por el que se suspendió, razón que deberán firmar el Oficial del Registro, los interesados y los testigos;
-
-V.- Las actas se numerarán y escribirán unas después de otras, sin dejar entre ellas ningún renglón entero en blanco;
-
-VI.- Tanto el número ordinal de las actas, como el de las fechas o cualquiera otro, serán escritos en cifras aritméticas y además, con todas sus letras;
-
-VII.- En ninguna frase se emplearán abreviaturas;
-
-VIII.- No se hará raspadura alguna ni tampoco se permitirá borrar lo escrito. Cuando sea necesario testar alguna palabra, se pasará sobre ella una línea de manera que quede legible, salvo los casos a que se refiere el Artículo 134. La infracción de las disposiciones contenidas en esta fracción y las tres anteriores, se castigará con multa de veinticinco pesos;
-
-IX.- Al final de cada acta se salvará lo entrerrenglonado y testado;
-
-X.- Los puntos dados por los interesados y los documentos que presenten, se anotarán poniéndoles el número del acta y el sello del Registro, y se reunirán y depositarán en el archivo correspondiente, formándose un índice de ellos en las últimas hojas de los libros correspondientes.
-
-> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 46.
 
-La variación de los datos contenidos en las actas o en las certificaciones de las mismas, así como su falsificación y la inserción en ellas de circunstancias o declaraciones prohibidas por la ley, causarán la destitución del servidor público responsable, sin perjuicio de las penas que la ley señale para el delito de falsedad y de la indemnización de daños y perjuicios.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-La nulidad del acto inscrito y la falsedad de las actas del Registro Civil sólo podrán probarse judicialmente.
-
-> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 47.
 
-Toda persona puede solicitar y obtener copia certificada de las actas, asientos, documentos y apuntes relacionados con ellas, existentes en los libros índices y apéndices correspondientes. El Director, el Jefe del Departamento de Archivo y los Oficiales del Registro Civil están obligados a expedirlas. Las copias certificadas de las actas podrán expedirse en forma total o parcial.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 48.
 
-La certificación podrá autentificarse por firma autógrafa o electrónica del servidor público facultado para ello conforme a este Código. Las copias certificadas así expedidas tendrán el mismo valor jurídico probatorio.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-Por firma electrónica se entenderá la firma que se utilice como forma de autentificar por medios electrónicos la autorización del servidor público competente, y con la cual el firmante aprueba la información contenida en el acta, según el sistema que implemente la Dirección, la que deberá utilizar mecanismos confiables para evitar la falsificación de documentos.
-
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 1982)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 49.
 
-Los actos y actas del estado civil del propio Oficial de su cónyuge, ascendientes y descendientes de cualquiera de ellos no podrán autorizarse por el propio Oficial; se asentarán en las formas correspondientes autorizándose por el Oficial de la adscripción más próxima.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 50.
 
-Las actas del Registro Civil extendidas conforme a las disposiciones que preceden, hacen prueba plena en todo lo que el Oficial del Registro Civil, en el desempeño de sus funciones, da testimonio de haber pasado en su presencia, sin perjuicio de que el acta pueda ser redargüida de falsa.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-Las declaraciones de los comparecientes, hechas en cumplimiento de lo mandado por la ley, hacen fe hasta que se pruebe lo contrario. Lo que sea extraño al acta no tiene valor alguno.
-
-> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 51.
 
-Para acreditar el estado civil adquirido por los mexicanos fuera de la República, bastarán las constancias que los interesados presenten de los actos relativos, sujetándose a lo previsto por el Código de Procedimientos Civiles del Estado en cuanto a su legalización y, en su caso, traducidas si se trata de idioma distinto al español, debiendo transcribirse en la Oficialía de la adscripción de su domicilio.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 52.
 
-Los Oficiales del Registro Civil serán suplidos en sus ausencias o faltas temporales por el servidor público facultado para ello, en la forma y términos que señale el Reglamento.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 53.
 
-La Dirección del Registro Civil velará por el buen funcionamiento de la institución y tendrá las atribuciones y obligaciones que determine este Código, las leyes y el Reglamento.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO II.
 
-De las Actas de Nacimiento.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 54.
 
-Las declaraciones de nacimiento se harán presentando al niño ante el Oficial del Registro Civil, en su Oficina o en la casa donde aquel hubiere nacido.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 55.
 
-Tienen obligación de declarar el nacimiento: el padre y la madre o cualquiera de éstos, y a falta de éstos, los abuelos por cualquier línea, dentro de los ciento ochenta días de ocurrido.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 56.
 
-Las personas que estando obligadas a declarar el nacimiento, lo hagan fuera del término fijado, serán sancionadas con una multa de tres a quince días de salario mínimo general vigente en el Estado, que impondrá el Oficial del Registro Civil del lugar donde se haya hecho la declaración extemporánea del nacimiento, la cual se hará efectiva en los términos que disponga el Reglamento.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE ABRIL DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 57.
 
-Para llevar a cabo la inscripción de un nacimiento, el Oficial del Registro Civil exigirá el certificado de nacimiento expedido por el médico o la persona que atienda el parto y al recién nacido y lo cancelará para evitar la duplicidad de registros. El incumplimiento de esta disposición se sancionará con la destitución del servidor público que realice la inscripción, independientemente de las penas en que incurra de conformidad con la legislación aplicable.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 1982)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 58.
 
-El acta de nacimiento se extenderá con asistencia de dos testigos que pueden ser designados por las partes interesadas. El Acta de Nacimiento contendrá el año, mes, día, hora y lugar de nacimiento, el sexo, la impresión digital del presentado, el nombre y apellidos que le correspondan sin que por motivo alguno puedan omitirse, la expresión de si es presentado vivo o muerto; el nombre, edad, domicilio y nacionalidad de los padres; el nombre, domicilio y nacionalidad de los abuelos paternos y maternos; el nombre, edad, domicilio y nacionalidad de los testigos. Si la presentación la realiza una persona distinta de los padres, se anotará su nombre, apellido, edad, domicilio y parentesco con el registrado, salvo las prevenciones siguientes:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-Cuando al presentar al menor se exhiba copia certificada del acta de matrimonio de sus padres, se asentarán a éstos como sus progenitores, salvo sentencia judicial en contrario.
-
-Cuando no se presente copia certificada del acta de matrimonio, sólo se asentará el nombre del padre o de la madre cuando éstos lo soliciten por sí o por apoderado en los términos que establece el artículo 44 de este Código y el nombre de los abuelos por la línea del mismo o de los mismos si concurren los dos.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE ABRIL DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 59.
 
-El nombre del registrado está constituido por nombre propio, primer y segundo apellido.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-Los apellidos corresponderán por su orden, el primero del padre y el primero de la madre.
-
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 1982)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 60.
 
-Para que se haga constar en el acta de nacimiento el nombre del padre de un hijo nacido fuera de matrimonio, es necesario que aquél lo pida por sí o por apoderado especial constituido en la forma establecida en el artículo 44, haciéndose constar en todo caso la petición.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-La madre no tiene derecho de dejar de reconocer a su hijo. Tiene obligación de que su nombre figure en el acta de nacimiento de su hijo. En caso de que al hacerse la presentación no se dé el nombre de la madre, la investigación de la maternidad podrá hacerse ante los Tribunales de acuerdo con las disposiciones relativas de este Código.
-
-Además de los nombres de los padres se hará constar en el acta de nacimiento su nacionalidad y domicilio declarando acerca de la primera circunstancia los testigos que deben de intervenir en el acto.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 61.
 
-Si el padre o la madre no pudieren concurrir ni tuvieren apoderado, pero solicitaren ambos o alguno de ellos la presencia del Oficial del Registro, éste pasará al lugar en que se halle el interesado y allí recibirá de él la petición de que se mencione su nombre, todo lo cual se asentará en el Acta. En el caso de que se trata el Oficial del Registro se abstendrá de cobrar cantidad alguna por cualquier concepto, bajo pena de destitución. Incurrirá en igual sanción si no quiere levantar el acta respectiva dentro de los cinco días siguientes a la petición.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
 ###### Artículo 62.
 
 (DEROGADO, P.O. 15 DE FEBRERO DE 2008)
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
 ###### Artículo 63.
 
-Cuando el hijo nazca de una mujer casada que viva con su marido, en ningún caso, ni a petición de persona alguna, podrá el Oficial del Registro asentar como padre a otro que no sea el mismo marido, salvo que éste haya desconocido al hijo y exista sentencia ejecutoria que así lo declare.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 64.
 
-(DEROGADO, P.O. 15 DE FEBRERO DE 2008)
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 65.
 
-Toda persona que encontrare un recién nacido o en cuya casa o propiedad fuere expuesto, deberá presentarlo al Ministerio Público con los vestidos, valores o cualesquiera otros objetos encontrados con él, y declarará la fecha y lugar donde lo hubiere hallado así como las demás circunstancias que en su caso hayan concurrido. Una vez realizado lo anterior, el Ministerio Público dará aviso de tal situación al Oficial del Registro Civil, para los efectos correspondientes.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 1982)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 66.
 
-La misma obligación tienen los Jefes, Directores o Administradores de los establecimientos penitenciarios y de cualquier casa de comunidad, especialmente los de los hospitales, casas de maternidad y casas de cuna respecto de los niños expuestos en ellas.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 67.
 
-En las actas que se levanten en estos casos, se expresarán con especificación todas las circunstancias que designa el artículo 65, la edad aparente del niño, su sexo, el nombre y apellido que se le pongan, y el nombre de la persona o casa de expósitos que se encarguen de él.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 68.
 
-Si con el expósito se hubieren encontrado papeles, alhajas u otros objetos que puedan conducir al reconocimiento de aquel, se depositarán en el Archivo del Registro, mencionándolos en el acta y dando formal recibo de ellos al que recoja al niño.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 1982)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 69.
 
-Se prohibe absolutamente al Oficial del Registro Civil y a los testigos que conforme al Artículo 58 deben asistir al acto, hacer inquisición sobre la paternidad. En el acta sólo se expresará lo que deben declarar las personas que presenten al niño, aunque aparezcan sospechosas de falsedad, sin perjuicio de que ésta sea castigada conforme a las prescripciones del Código Penal.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-En las actas de nacimiento por ningún concepto se asentarán palabras que califiquen a la persona registrada. En cualquier acta de nacimiento que contenga dicha nota se testarán de oficio dichas palabras por quien tenga a su cargo las actas.
-
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 1982)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 70.
 
-Si el nacimiento ocurriere a bordo de un transporte nacional, los interesados harán extender una constancia del acto, en que aparecerán las circunstancias a que se refieren los artículos del 58 al 65, en su caso, y solicitarán que las autorice el capitán o patrono del medio de transporte y dos testigos que se encuentren a bordo; de no haberlos se expresará esta circunstancia.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 1982)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 71.
 
-En el primer lugar de arribo del territorio nacional a que llegue el transporte, los interesados entregarán el documento de que habla el artículo anterior al Oficial del Registro Civil del domicilio de los padres.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 72.
 
-Si en el puerto no hubiere funcionario de esta clase, se entregará la constancia antes dicha a la autoridad local, la que la remitirá inmediatamente al Oficial del Registro Civil del domicilio de los padres.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 1982)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 73.
 
-Si el nacimiento ocurriere en un transporte extranjero, se observará por lo que toca a las solemnidades del registro, lo prescrito en el artículo 15.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 74.
 
-Si el nacimiento aconteciere durante un viaje por tierra, podrá registrarse en el lugar donde ocurra o en el del domicilio de los padres, según las reglas antes establecidas; en el primer caso se remitirá copia certificada del acta al Oficial del Registro Civil del domicilio de los padres, según las reglas antes establecidas, si éstos lo pidieren; y en el segundo, se tendrá para hacer el registro el término que señala el artículo 55, con un día más por cada veinte kilómetros de distancia o fracción que exceda de la mitad.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 1982)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 75.
 
-Si al dar el aviso de un nacimiento se comunicare también la muerte del recién nacido, se extenderán dos actas, una de nacimiento y otra de fallecimiento, en las formas respectivas.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 1982)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 76.
 
-Cuando se trate de parto múltiple se levantará un acta por cada uno de los nacidos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE NOVIEMBRE DE 1971)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO III.
 
-De las Actas de Reconocimiento de Hijos Nacidos Fuera de Matrimonio.
-
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 1982)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 77.
 
-El acta de nacimiento surte efectos de reconocimiento del hijo en relación a los progenitores que aparezcan en el acta.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 1982)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 78.
 
-En el reconocimiento de un hijo hecho con posterioridad a su registro de nacimiento, es necesario recabar su consentimiento para ser reconocido si es mayor de edad; si es menor de edad pero mayor de catorce años, su consentimiento y el de la persona que lo tenga bajo su custodia; y si es menor de catorce años, el consentimiento de quien lo tenga bajo su custodia.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-El acta de reconocimiento contendrá, nombre, apellidos, fecha y lugar de nacimiento, domicilio y huella digital del reconocido, nombre, apellidos, domicilio y nacionalidad del reconocedor; nombres, apellidos, nacionalidad y domicilio de los abuelos, padres del reconocedor; nombre, apellidos, edad, estado civil, domicilio, nacionalidad y parentesco con el reconocido de la persona o personas que otorgan el consentimiento, en su caso, y nombres, apellidos, edad, domicilio y nacionalidad de los testigos.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1971)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 79.
 
-Lo dispuesto en el Artículo 77 se observará también cuando se haya omitido la presentación para el registro del nacimiento del hijo nacido fuera de matrimonio.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 80.
 
-Si el reconocimiento se hace por alguno de los otros medios establecidos en este Código, se presentará, dentro del término de quince días, al encargado del Registro el original o copia certificada del documento que lo compruebe. En el acta se insertará la parte relativa de dicho documento, observándose las demás prescripciones contenidas en este Capítulo y en el Capítulo IV, del Título Séptimo de este Libro.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 1971)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 81.
 
-La omisión del registro, en el caso del Artículo que precede, no quita los efectos legales de reconocimiento hecho conforme a las disposiciones de este Código; pero los responsables de la omisión incurrirán en una multa de doscientos mil pesos, que impondrá y hará efectiva el Juez ante quien se haga valer el reconocimiento.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 82.
 
-En el acta de reconocimiento hecho con posterioridad al acta de nacimiento, se hará mención de ésta, poniendo en ella la anotación marginal correspondiente.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 83.
 
-Si el reconocimiento se hiciere en oficina distinta de aquella en que se levantó el acta de nacimiento, el Oficial del Registro Civil que autorice el acta de reconocimiento, remitirá copia de ésta al encargado de la oficina que haya registrado el nacimiento, para que se haga la anotación marginal en el acta respectiva.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO IV.
 
-De las Actas de Adopción.
-
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 1982)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 84.
 
-Dictada la resolución judicial definitiva que autorice la adopción, el adoptante o los adoptantes, dentro del término de quince días, presentarán al Oficial del Registro Civil de su domicilio, copia certificada de la misma, a efecto de que se asiente el acta respectiva.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2001)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 85.
 
-El acta de adopción simple contendrá los nombres, apellidos y domicilio del adoptante y del adoptado; el nombre y demás generales de las personas cuyo consentimiento hubiere sido necesario para la adopción, y los nombres, apellidos y domicilio de las personas que intervengan como testigos. En el acta se insertarán los datos esenciales de la resolución judicial.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2001)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 86.
 
-En los casos de adopción plena, se levantará un acta como si fuera de nacimiento, en los mismos términos que la que se expide para los hijos consanguíneos, sin perjuicio de lo dispuesto en el artículo 87 Bis.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2001)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 87.
 
-Extendida el acta de la adopción simple, se harán las anotaciones que correspondan al acta de nacimiento del adoptado, y se archivará la copia de las diligencias relativas, poniéndole el mismo número del acta de adopción.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2001)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 87 Bis.
 
-En el caso de adopción plena, a partir del levantamiento del acta a que se refiere el artículo anterior, se harán las anotaciones en el acta de nacimiento originaria, la cual quedará reservada. No se publicará ni se expedirá constancia alguna que revele el origen del adoptado ni su condición de tal, salvo providencia dictada en juicio conforme a lo dispuesto en el artículo 410 Bis-3.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2001)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 88.
 
-El juez o tribunal que resuelva que una adopción simple queda sin efecto, remitirá dentro del término de ocho días copia certificada de su resolución al Oficial del Registro Civil, para que cancele el acta de adopción y anote la de nacimiento.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO V.
 
-De las Actas de Tutela.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 89.
 
-Pronunciado el auto de discernimiento de la tutela y publicado en los términos que disponga el Código de Procedimientos Civiles, el tutor, dentro de setenta y dos horas de hecha la publicación, presentará copia certificada del auto mencionado al Oficial del Registro Civil, para que levante el acta respectiva. El curador cuidará del cumplimiento de este artículo.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 90.
 
-La omisión del registro de la tutela no impide al tutor entrar en ejercicio de su cargo, ni puede alegarse por ninguna persona como causa para dejar de tratar con él; pero hace responsable al tutor y al curador en los términos que establece el artículo 81.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 91.
 
-El acta de tutela contendrá:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-I.- El nombre, apellido y edad del incapacitado;
-
-II.- La clase de incapacidad por la que se haya diferido la tutela;
-
-III.- El nombre y demás generales de las personas que han tenido al incapacitado bajo su patria potestad antes del discernimiento de la tutela;
-
-IV.- El nombre, apellido, edad, profesión y domicilio del tutor y del curador;
-
-V.- La garantía dada por el tutor, expresando el nombre, apellido y demás generales del fiador, si la garantía consiste en fianza; o la ubicación y demás señas de los bienes, si la garantía consiste en hipoteca o prenda;
-
-VI.- El nombre del Juez que pronuncie el auto de discernimiento y la fecha de éste.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 92.
 
-Extendida el acta de tutela se anotará la de nacimiento del incapacitado, observándose para el caso de que no exista en la misma Oficina del Registro, lo prevenido en el artículo número 83.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO VI.
 
-De las Actas de Emancipación.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 93.
 
-En los casos de emancipación por efecto del matrimonio no se formará acta separada. El Oficial del Registro Civil anotará las respectivas actas de nacimiento de los cónyuges, expresándose al margen de ellas quedar éstos emancipados en virtud del matrimonio, y citando la fecha en que éste se celebró, así como el número y la foja del acta respectiva.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
 ###### Artículo 94.
 
@@ -663,501 +647,471 @@ En los casos de emancipación por efecto del matrimonio no se formará acta sepa
 
 (DEROGADO, P.O. 9 DE ABRIL DE 1970)
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
+
 ### CAPITULO VII.
 
-De las Actas de Matrimonio.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 97.
 
-Las personas que pretendan contraer matrimonio presentarán un escrito al Oficial del Registro Civil del domicilio de cualquiera de ellas, que exprese:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-I.- Los nombres, apellidos, edad, ocupación y domicilio, tanto de los pretendientes como de sus padres, si éstos fueren conocidos. Cuando alguno de los pretendientes o los dos hayan sido casados, se expresará también el nombre de la persona con quien celebró el anterior matrimonio, la causa de su disolución y la fecha de ésta;
-
-II.- Que no tienen impedimento legal para casarse o éste ha sido dispensado; y
-
-III.- Que es su voluntad unirse en matrimonio.
-
-Este escrito deberá ser firmado por los solicitantes, y si alguno no pudiere o no supiere escribir, lo hará por él, otra persona conocida, mayor de edad y vecina del lugar.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ENERO DE 1982)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 98.
 
-Al escrito a que se refiere el artículo anterior, se acompañará:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 1982)</small>
-
-I.- Copia certificada del acta de nacimiento de los pretendientes o copia de la cédula de identificación personal. Cuando por su aspecto no sea notorio que el varón es mayor de dieciséis años y la mujer de catorce se acompañará un dictamen médico que compruebe su edad.
-
-II.- La constancia de que prestan su consentimiento para que el matrimonio se celebre, las personas a que se refieren los artículos 149, 150 y 151;
-
-III.- La declaración de dos testigos mayores de edad que conozcan a los pretendientes y les conste que no tienen impedimento legal para casarse. Si no hubiere dos testigos que conozcan a ambos pretendientes, deberán presentarse dos testigos por cada uno de ellos;
-
-IV.- Un certificado suscrito por un médico titulado que asegure, bajo protesta de decir verdad, que los pretendientes no padecen sífilis, tuberculosis ni enfermedad alguna crónica e incurable, que sea además, contagiosa y hereditaria.
-
-Para los indigentes tienen obligación de expedir gratuitamente este certificado, los médicos encargados de los servicios de sanidad de carácter oficial.
-
-V.- El convenio que los pretendientes deberán celebrar con relación a sus bienes presentes y a los que adquieran durante el matrimonio. En el convenio se expresará con toda claridad si el matrimonio se contrae bajo el régimen de sociedad conyugal o bajo el de separación de bienes. Si los pretendientes son menores de edad, deberán aprobar el convenio las personas cuyo consentimiento previo es necesario para la celebración del matrimonio. No puede dejarse de presentar ese convenio ni aún a pretexto de que los pretendientes carecen de bienes, pues en tal caso, versará sobre los que adquieran durante el matrimonio. Al formarse el convenio se tendrá en cuenta lo que disponen los artículos 189 y 211, y el Oficial del Registro Civil deberá tener especial cuidado sobre este punto, explicando a los interesados todo lo que necesiten saber a efecto de que el convenio quede debidamente formulado;
-
-Si de acuerdo con lo dispuesto en el Artículo 185 fuere necesario que las capitulaciones matrimoniales consten en escritura pública, se acompañará un testimonio de esa escritura.
-
-VI.- Copia del acta de defunción del cónyuge fallecido, si alguno de los contrayentes es viudo, o de la parte resolutiva de la sentencia de divorcio o de nulidad del matrimonio, en caso de que alguno de los pretendientes hubiere sido casado anteriormente;
-
-VII.- Copia de la dispensa de impedimentos, si los hubo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 99.
 
-En caso de que los pretendientes por falta de conocimientos no puedan redactar la solicitud y el convenio a que se refiere la fracción V del artículo anterior, tendrá obligación de redactarlos el Oficial del Registro Civil, con los datos que los mismos pretendientes le suministren. En la misma forma se tomará razón de lo declarado por los testigos cuando éstos no sepan escribir.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 100.
 
-El Oficial del Registro Civil a quien se presente una solicitud de matrimonio que llene los requisitos enumerados en los artículos anteriores, hará que los pretendientes y los ascendientes o tutores que deben prestar su consentimiento, reconozan (sic) ante él y por separado sus firmas. Las declaraciones de los testigos a que se refiere la fracción III del Artículo 98 serán ratificadas bajo protesta de decir verdad, ante el mismo Oficial del Registro Civil. Este, cuando lo considere necesario, se cerciorará de la autenticidad de la firma que calce el certificado médico presentado.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 101.
 
-El matrimonio se celebrará dentro de los ocho días siguientes, en el lugar, día y hora que señale el Oficial del Registro Civil.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 102.
 
-En el lugar, día y hora designados para la celebración del matrimonio deberán estar presentes ante el Oficial del Registro Civil, los pretendientes o su apoderado especial constituído en la forma prevenida en el artículo 44 y dos testigos por cada uno de ellos que acrediten su identidad.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-Acto continuo, el Oficial del Registro Civil leerá en voz alta la solicitud de matrimonio, los documentos que con ella se hayan presentado y las diligencias practicadas e interrogará a los testigos acerca de si los pretendientes son las mismas personas a que se refiere la solicitud. En caso afirmativo preguntará a cada uno de los pretendientes si es su voluntad unirse en matrimonio, y si están conformes, los declarará unidos en nombre de la ley y de la sociedad.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 103.
 
-Se levantará luego el acta de matrimonio en la cual se hará constar:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADA, P.O. 4 DE ENERO DE 1982)</small>
-
-I.- Los nombres, apellidos, edad, ocupación, domicilio, nacionalidad y lugar de nacimiento de los contrayentes;
-
-II.- Si son mayores o menores de edad;
-
-III.- Los nombres, apellidos, ocupación y domicilio de los padres;
-
-IV.- El consentimiento de éstos, de los abuelos o tutores, o el de las autoridades que deban suplirlo;
-
-V.- Que no hubo impedimento para el matrimonio o que éste se dispensó;
-
-> <small>(REFORMADA, P.O. 4 DE ENERO DE 1982)</small>
-
-VI.- La declaración de los pretendientes de ser su voluntad unirse en matrimonio y la de haber quedado unidos, que hará el Oficial del Registro Civil en nombre de la Ley y de la sociedad;
-
-VII.- La manifestación de los cónyuges de que contraen matrimonio bajo el régimen de sociedad conyugal o de separación de bienes;
-
-> <small>(REFORMADA, P.O. 4 DE ENERO DE 1982)</small>
-
-VIII.- Los nombres, apellidos, edad, nacionalidad y domicilio de los testigos, su declaración sobre si son o no parientes de los contrayentes.
-
-IX.- Que se cumplieron las formalidades exigidas por el artículo anterior.
-
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 1982)</small>
-
-El acta será firmada por el Oficial del Registro Civil, los contrayentes, los testigos, y las demás personas que hubieren intervenido si supieren o pudieren hacerlo asentándose en este último caso la causa por la que alguna de ellas no firme.
-
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 1982)</small>
-
-En el acta se imprimirán las huellas digitales de los contrayentes.
-
-> <small>(ADICIONADO, P.O. 4 DE ENERO DE 1982)</small>
-
-La celebración conjunta de matrimonios no exime al Oficial del cumplimiento estricto de las solemnidades a que se refieren los artículos anteriores.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 104.
 
-Los pretendientes que declaren maliciosamente un hecho falso, los testigos que dolosamente afirmen la exactitud de las declaraciones de aquellos o su identidad y los médicos que se produzcan falsamente al expedir el certificado a que se refiere la fracción IV del artículo 98, serán consignados al Ministerio Público para que ejercite la acción penal correspondiente.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-Lo mismo se hará con las personas que falsamente se hicieren pasar por padres o tutores de los pretendientes.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 105.
 
-El Oficial del Registro Civil que tenga conocimiento de que los pretendientes tienen impedimento para contraer matrimonio, levantará un acta ante dos testigos, en la que hará constar los datos que le hagan suponer que existe el impedimento. Cuando haya denuncia, se expresará en el acta el nombre, edad, ocupación, estado y domicilio del denunciante, insertándose al pie de la letra la denuncia. El acta firmada por los que en ella intervinieren, será remitida al Juez de Primera Instancia que corresponda, para que haga la calificación del impedimento.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 106.
 
-Las denuncias de impedimento pueden hacerse por cualquier persona. Las que sean falsas sujetan al denunciante a las penas establecidas por el falso testimonio en materia civil. Siempre que se declare no haber impedimento el denunciante será condenado al pago de las costas, daños y perjuicios.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 107.
 
-Antes de remitir el acta al Juez de Primera Instancia, el Oficial del Registro Civil hará saber a los pretendientes el impedimento denunciado, aunque sea relativo solamente a uno de ellos, absteniéndose de todo procedimiento ulterior hasta que la sentencia que decida el impedimento cause ejecutoria.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 108.
 
-Las denuncias anónimas o hechas por cualquier otro medio, si no se presentare personalmente el denunciante, sólo serán admitidas cuando estén comprobadas. En este caso, el Oficial del Registro Civil dará cuenta a la Autoridad Judicial de Primera Instancia que corresponda, y suspenderá todo procedimiento hasta que ésta resuelva.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 109.
 
-Denunciado un impedimento, el matrimonio no podrá celebrarse aunque el denunciante se desista, mientras no recaiga sentencia judicial que declare su inexistencia o se obtenga dispensa de él.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 110.
 
-El Oficial del Registro Civil que autorice un matrimonio teniendo conocimiento de que hay impedimento legal, o de que éste se ha denunciado, será castigado como lo disponga el Código Penal.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 111.
 
-Los Oficiales del Registro Civil sólo podrán negarse a autorizar un matrimonio, cuando por los términos de la solicitud, por el conocimiento de los interesados o por denuncia en forma, tuviere noticia de que alguno de los pretendientes, o los dos, carecen de aptitud legal para celebrar el matrimonio.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 112.
 
-El Oficial del Registro Civil que sin motivo justificado retarde la celebración de un matrimonio, será castigado por la primera vez, con una multa de cien pesos, y en caso de reincidencia, con la destitución de su cargo.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 113.
 
-El Oficial del Registro Civil que reciba una solicitud de matrimonio, está plenamente autorizado para exigir de los pretendientes, bajo protesta de decir verdad, todas las declaraciones que estime convenientes a fin de asegurarse de su identidad y de su aptitud para contraer matrimonio.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-También podrá exigir declaración bajo protesta a los testigos que los interesados presenten; a las personas que figuren como padres o tutores de los pretendientes, y a los médicos que suscriban el certificado exigido por la fracción IV del artículo 98.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO VIII.
 
-De las Actas de Divorcio.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 114.
 
-La sentencia ejecutoria que decrete un divorcio se remitirá en copia al Oficial del Registro Civil para que levante el acta correspondiente.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 1982)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 115.
 
-El acta de divorcio contendrá nombres, apellidos, edad, domicilio y nacionalidad de los divorciados, los datos de situación de las actas de nacimiento y matrimonio de los mismos y la parte resolutiva de la sentencia judicial y fecha en que causó ejecutoria.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 116.
 
-Extendida el acta se anotarán las de nacimiento y matrimonio de los divorciados y la copia de la sentencia mencionada se archivará con el mismo número del acta de divorcio.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO IX.
 
-De las Actas de Defunción.
-
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 1982)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 117.
 
-Ninguna inhumación o cremación se hará sin autorización escrita del Oficial del Registro Civil, quien se asegurará suficientemente del fallecimiento, por certificado expedido por médico, legalmente autorizado. No se procederá a la inhumación o cremación sino hasta después de que transcurran veinticuatro horas del fallecimiento, excepto en los casos en que se ordene otra cosa por la autoridad que corresponda.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 118.
 
-En el acta de fallecimiento se asentarán los datos que el Oficial del Registro Civil adquiera, o la declaración que se le haga, y será firmada por dos testigos prefiriéndose para el caso los pariente (sic), si los hay, o los vecinos. Si la persona ha muerto fuera de su habitación, uno de los testigos será aquel en cuya casa se haya verificado el fallecimiento o alguno de los vecinos más inmediatos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 119.
 
-El acta de fallecimiento contendrá:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADA, P.O. 4 DE ENERO DE 1982)</small>
-
-I.- El nombre, apellidos, edad, nacionalidad, sexo y domicilio que tuvo el difunto;
-
-> <small>(REFORMADA, P.O. 4 DE ENERO DE 1982)</small>
-
-II.- El estado civil de éste, o si era viudo, el nombre, apellidos y nacionalidad de su cónyuge;
-
-III.- Los nombres, apellidos, edad, ocupación y domicilio de los testigos, y si fueren parientes, el grado en que lo sean;
-
-IV.- Los nombres de los padres del difunto si se supieren;
-
-> <small>(REFORMADA, P.O. 4 DE ENERO DE 1982)</small>
-
-V.- La clase de enfermedad que determinó la muerte y especificadamente el lugar en que se sepulte el cadáver o se realice su cremación.
-
-> <small>(REFORMADA, P.O. 4 DE ENERO DE 1982)</small>
-
-VI.- La hora, día, mes, año y lugar de muerte y todos los informes que se obtengan en caso de muerte violenta.
-
-> <small>(ADICIONADA, P.O. 4 DE ENERO DE 1982)</small>
-
-VII.- Nombre, apellidos, número de cédula profesional y domicilio del médico que certifique la defunción.
-
-> <small>(ADICIONADA, P.O. 4 DE ENERO DE 1982)</small>
-
-VIII.- Nombre, apellidos, edad, nacionalidad y domicilio del declarante y grado de parentesco, en su caso, con el difunto.
-
-> <small>(ADICIONADA, P.O. 4 DE ENERO DE 1982)</small>
-
-IX.- Los nombres, apellidos, edad, nacionalidad y domicilio de los testigos, y si fueren parientes del difunto, el grado en que lo sean.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 120.
 
-Los dueños o habitantes de la casa en que ocurra el fallecimiento; los directores o administradores de las prisiones, hospitales, colegios, u otra cualquiera casa de comunidad, los huéspedes de los mesones u hoteles y los caseros de las casas de vecindad, tienen obligación de dar aviso del fallecimiento al Oficial del Registro Civil, dentro de las veinticuatro horas siguientes a la muerte.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 121.
 
-Si el fallecimiento ocurriere en un lugar o población en donde no haya Oficina del Registro, la Autoridad Municipal extenderá la constancia respectiva que remitirá al Oficial del Registro Civil que corresponda, para que asiente el acta.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 1982)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 122.
 
-Cuando el Oficial del Registro Civil sospeche que la muerte fue violenta, dará parte al Ministerio Público comunicándole todos los informes que tenga, para que proceda a la averiguación conforme a derecho. Cuando el Ministerio Público averigüe el fallecimiento, dará parte al Oficial del Registro Civil para que asiente el acta respectiva. Si se ignora el nombre del difunto, se asentarán las señas de éste, las de los vestidos y objetos que con él se hubieren encontrado, y en general, todo lo que pueda conducir a identificar a la persona; y siempre que se adquieran mayores datos, se comunicarán al Oficial del Registro Civil para que los anote.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 123.
 
-En los casos de inundación, naufragio, incendio o cualquiera otro siniestro en que no sea fácil reconocer el cadáver, se formará el acta con los datos que ministren los que lo recogieron, expresando en cuanto fuere posible, las señas del mismo y de los vestidos u objetos que con él se hayan encontrado.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 124.
 
-Si no aparece el cadáver, pero hay certeza de que alguna persona ha sucumbido en el lugar del desastre, el acta contendrá el nombre de las personas que hayan conocido a la que no parece (sic), y las demás noticias que sobre el suceso puedan adquirirse.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 125.
 
-En el caso de muerte en el mar, a bordo de un buque nacional, el acta se formará de la manera prescrita en el artículo 119, en cuanto fuere posible, y la autorizará el capitán o patrono del buque, practicándose, además, lo dispuesto para los nacimientos en los artículos 71 y 72.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 126.
 
-Cuando alguno falleciere en el lugar que no fuere el de su domicilio, se remitirá al Oficial del Registro Civil de su domicilio, copia certificada del acta para que se asiente en el libro respectivo, anotándose la remisión al margen del acta original.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 127.
 
-El Jefe de cualquier Cuerpo o Destacamento Militar tiene obligación de dar parte al Oficial del Registro Civil, de los muertos que haya habido en campaña, o en otro acto del servicio, especificándose la filiación. El Oficial del Registro Civil observará en este caso lo dispuesto en el artículo anterior.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 128.
 
-En todos los casos de muerte en las prisiones o en las casas de detención, no se hará en los registros mención de esta circunstancia y las actas solamente contendrán los demás requisitos que prescribe el artículo 119.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 129.
 
-Si por haber ocurrido la muerte en despoblado, por ignorancia o por cualquier otro motivo no se hubiere levantado oportunamente un acta de defunción, los interesados o el Ministerio Público promoverán información testimonial ante un Juez de Primera Instancia, y con esas diligencias el Oficial del Registro Civil levantará el acta omitida.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 130.
 
-En los registros de nacimiento y matrimonio se hará referencia al acta de defunción, expresándose los folios en que conste ésta.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO X.
 
-Inscripciones de las Ejecutorias que declaren la Incapacidad legal para administrar bienes, la ausencia o la presunción de muerte.
-
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 1982)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 131.
 
-Las autoridades judiciales que declaren la ausencia, la presunción de muerte, la tutela o la pérdida o limitación de la capacidad legal para administrar bienes, remitirán al Oficial del Registro Civil correspondiente copia certificada de la resolución ejecutoriada respectiva o auto de discernimiento en el término de quince días para que se efectúe la inscripción en el acta correspondiente. Dichas actas contendrán el nombre, edad, estado civil y nacionalidad de la persona de que se trate, los puntos resolutivos de la sentencia, fecha de ésta y tribunal que la dictó.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 132.
 
-El Oficial del Registro levantará el acta correspondiente, en la que insertará la resolución judicial que se le haya comunicado, anotándose el acta de nacimiento.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2001)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 133.
 
-Cuando se recobre la capacidad legal para administrar, se revoque la adopción simple o se presente la persona declarada ausente o cuya muerte se presumía, se dará aviso al Oficial del Registro Civil por el mismo interesado y por la autoridad que corresponda, para que cancele la inscripción a que se refiere el artículo anterior.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO XI.
 
-De la Rectificación de las Actas del Estado Civil.
-
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 1982)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 134.
 
-La rectificación o modificación de un acta del estado civil, no puede hacerse sino ante el Poder Judicial y en virtud de sentencia de éste, salvo el reconocimiento que voluntariamente haga un padre de su hijo, el cual se sujetará a las prescripciones de este Código.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 1992)</small>
-
-La aclaración de las actas del estado civil, procede cuando en el Registro existan errores mecanográficos, ortográficos o de otra índole que no afecten los datos esenciales de aquellas y deberán tramitarse conforme lo dispuesto en el Reglamento del Registro Civil.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 135.
 
-Ha lugar de pedir la rectificación:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-I.- Por falsedad, cuando se alegue que el suceso registrado no pasó;
-
-II.- Por enmienda, cuando se solicite variar algún nombre u otra circunstancia, sea esencial o accidental.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 136.
 
-Pueden pedir la rectificación de un acto del estado civil:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-I.- Las personas de cuyo estado se trata;
-
-II.- Las que se mencionan en el acta como relacionadas con el estado civil de alguno;
-
-III.- Los herederos de las personas comprendidas en las dos fracciones anteriores;
-
-IV.- Los que según los artículos 349, 350 y 351, pueden continuar o intentar la acción de que en ellos se trata.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 137.
 
-El juicio de rectificación de actas se seguirá en la forma que se establezca en el Código de Procedimientos Civiles.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 138.
 
-La sentencia que cause ejecutoria se comunicará al Oficial del Registro Civil, y éste hará una referencia de ella al margen del acta impugnada, sea que el fallo conceda o niegue la rectificación.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ## TITULO V.
 
-Del Matrimonio.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO I.
 
-De los Esponsales.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 139.
 
-La promesa de matrimonio que se hace por escrito y es aceptada, constituye los esponsales. La aceptación se presume mientras no se demuestre lo contrario.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 140.
 
-Sólo pueden celebrar esponsales el hombre que ha cumplido dieciséis años y la mujer que ha cumplido catorce.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 141.
 
-Cuando los prometidos son menores de edad, los esponsales no producen efectos jurídicos si no han consentido en ellos sus representantes legales.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 142.
 
-Los esponsales no producen obligación de contraer matrimonio, ni en ellos puede estipularse pena alguna por no cumplir la promesa.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 143.
 
-El que sin causa grave, a juicio del Juez, rehusare cumplir su compromiso de matrimonio o difiera indefinidamente su cumplimiento, pagará los gastos que la otra parte hubiere hecho con motivo del matrimonio proyectado.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-En la misma responsabilidad incurrirá el prometido que diere motivo para el rompimiento de los esponsales.
-
-También pagará el prometido que sin causa grave falte a su compromiso, una indemnización a título de reparación moral, cuando por la duración del noviazgo, la intimidad establecida entre los prometidos, la publicidad de las relaciones, la proximidad del matrimonio u otras causas semejantes, el rompimiento de los esponsales cause un grave daño a la reputación del prometido inocente.
-
-La indemnización será prudentemente fijada en cada caso por el Juez, teniendo en cuenta los recursos del prometido culpable y la gravedad del perjuicio causado al inocente.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 144.
 
-Las acciones a que se refiere el artículo que precede, sólo pueden ejercitarse dentro de un año, contado desde el día de la negativa a la celebración del matrimonio.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 145.
 
-Si el matrimonio no se celebra, tienen derecho los prometidos de exigir la devolución de lo que se hubieren donado con motivo de su concertado matrimonio. Este derecho durará un año, contado desde el rompimiento de los esponsales.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO II.
 
-De los requisitos para contraer matrimonio.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 146.
 
-El matrimonio debe celebrarse ante los funcionarios que establece la ley y con las formalidades que ella exige.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 147.
 
-Cualquiera condición contraria a la perpetuación de la especie o a la ayuda mutua que se deben los cónyuges, se tendrá por no puesta.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 148.
 
-Para contraer matrimonio el hombre necesita haber cumplido dieciséis años y la mujer catorce. Los Presidentes Municipales pueden conceder dispensa de edad por causas graves y justificadas.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 21 DE MAYO DE 1975)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 149.
 
-El menor de edad no puede contraer matrimonio sin consentimiento de quienes ejerzan sobre él la patria potestad.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 21 DE MAYO DE 1975)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 150.
 
-A falta del consentimiento de quienes ejerzan la patria potestad, se necesita el de los tutores; y faltando éstos, el Juez de Primera Instancia de la residencia del menor suplirá el consentimiento.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 151.
 
-Los interesados pueden ocurrir al Presidente Municipal respectivo, cuando los ascendientes o tutores nieguen su consentimiento o revoquen el que hubieren concedido. Las autoridades mencionadas después de levantar una información sobre el particular suplirán o no el consentimiento.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-En caso de inconformidad de los ascendientes, tutores o pretendientes en la resolución de la autoridad municipal, pueden ocurrir dentro de los ocho días siguientes de haber sido dictado este fallo, ante el Gobernador del Estado, quien resolverá en definitiva.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 152.
 
-Si el Juez, en el caso del artículo 150, se niega a suplir el consentimiento para que se celebre un matrimonio, los interesados ocurrirán al Tribunal Superior respectivo, en los términos que disponga el Código de Procedimientos Civiles.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 153.
 
-El ascendiente o tutor que ha prestado su consentimiento firmando la solicitud respectiva y ratificándola ante el Oficial del Registro Civil, no puede revocarlo después a menos que haya justa causa para ello.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 154.
 
-Si el ascendiente o tutor que ha firmado o ratificado la solicitud de matrimonio que falleciere antes de que se celebre, su consentimiento no puede ser revocado por la persona que, en su defecto, tendría el derecho de otorgarlo; pero siempre que el matrimonio se verifique dentro del término fijado en el artículo 101.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 155.
 
-El Juez que hubiere autorizado a un menor para contraer matrimonio, no podrá revocar el consentimiento, una vez que lo haya otorgado, si no por justa causa superveniente.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 156.
 
-Son impedimentos para celebrar el contrato de matrimonio:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-I.- La falta de edad requerida por la ley, cuando no haya sido dispensada;
-
-II.- La falta de consentimiento del que, o los que ejerzan la patria potestad, del tutor o del Juez, en sus respectivos casos;
-
-III.- El parentesco de consanguinidad legítima o natural sin limitación de grado en la línea recta, ascendente o descendente. En la línea colateral igual, el impedimento se extiende a los hermanos y medios hermanos. En la colateral desigual, el impedimento se extiende solamente a los tíos y sobrinos, siempre que estén en el tercer grado y no hayan obtenido dispensa;
-
-IV.- El parentesco de afinidad en línea recta, sin limitación alguna;
-
-V.- El adulterio habido entre las personas que pretendan contraer matrimonio, cuando ese adulterio haya sido judicialmente comprobado;
-
-VI.- El atentado contra la vida de alguno de los casados para contraer matrimonio con el que quede libre;
-
-VII.- La fuerza o miedo graves. En caso de rapto, subsiste el impedimento entre el raptor y la raptada, en tanto ésta no sea restituida a lugar seguro, donde libremente pueda manifestar su voluntad;
-
-VIII.- La embriaguez habitual, la morfinomanía, la eteromanía y el uso indebido y persistente de las demás drogas enervantes. La impotencia incurable para la cópula; la sífilis, la locura y las enfermedades crónicas e incurables, que sean, además, contagiosas o hereditarias;
-
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2004)</small>
-
-IX.- Tener alguno de los padecimientos señalados en la fracción II del artículo 451; y
-
-X.- El matrimonio subsistente con persona distinta de aquella con quien se pretenda contraer.
-
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 2004)</small>
-
-De estos impedimentos solamente son dispensables la falta de edad y el parentesco de consanguinidad en la línea colateral desigual y la impotencia incurable para la cópula, cuando es conocida y aceptada por el otro contrayente.
-
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2001)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 157.
 
-Bajo el régimen de adopción simple, el adoptante no puede contraer matrimonio con el adoptado o sus descendientes.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
 ###### Artículo 158.
 
 (DEROGADO, P.O. 15 DE FEBRERO DE 2008)
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
 ###### Artículo 159.
 
-El tutor no puede contraer matrimonio con la persona que está o ha estado bajo su guarda, a no ser que obtenga dispensa, la que no se le concederá por el Presidente Municipal respectivo, sino cuando hayan sido aprobadas las cuentas de la tutela.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-Esta prohibición comprende también al curador y a los descendientes de éste y del tutor.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 160.
 
-Si el matrimonio se celebrare en contravención del artículo anterior, el Juez de Primera Instancia respectivo, nombrará inmediatamente un tutor interino que reciba los bienas (sic) y los administre, mientras se obtiene la dispensa.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 161.
 
-Los efectos jurídicos de los matrimonios celebrados en el extranjero por mexicanos que lleguen a la Repúclica (sic), se regirán por lo dispuesto en los artículos 13 y 161 del Código Civil para el Distrito y Territorios Federales, en materia común y para toda la República en materia federal.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO III.
 
-De los derechos y obligaciones que nacen del matrimonio.
-
-> <small>(REFORMADO, P.O. 21 DE MAYO DE 1975)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 162.
 
-Toda persona tiene derecho a decidir de manera libre, responsable e informada sobre el número y el espaciamiento de hijos. Por lo que toca al matrimonio, este derecho será ejercido de común acuerdo por los cónyuges.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 21 DE MAYO DE 1975)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 163.
 
-Los cónyuges vivirán juntos en el domicilio conyugal. Los tribunales, con conocimiento de causa, podrán eximir de esta obligación a alguno de ellos, cuando el otro traslade su domicilio a país extranjero, a no ser que lo haga en servicio público o social, o se establezca en lugar insalubre o indecoroso.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 21 DE MAYO DE 1975)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 164.
 
-Los cónyuges contribuirán económicamente al sostenimiento del hogar, a su alimentación y a la de sus hijos, así como a la educación de éstos en los términos que la ley establece, sin perjuicio de distribuirse la carga en la forma y proporción que acuerden para este efecto, según sus posibilidades. A lo anterior no está obligado el que se encuentre imposibilitado para trabajar y careciere de bienes propios, en cuyo caso el otro atenderá íntegramente a esos gastos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-Los derechos y obligaciones que nacen del matrimonio serán siempre iguales para los cónyuges e independientes de su aportación económica al sostenimiento del hogar.
-
-> <small>(REFORMADO, P.O. 21 DE MAYO DE 1975)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 165.
 
-Los cónyuges y los hijos, en materia de alimentos, tendrán derecho preferente sobre los ingresos y bienes de quien tenga a su cargo el sostenimiento económico de la familia y podrán demandar el aseguramiento de los bienes para hacer efectivos estos derechos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
 ###### Artículo 166.
 
@@ -1167,17 +1121,17 @@ Los cónyuges y los hijos, en materia de alimentos, tendrán derecho preferente 
 
 (DEROGADO, P.O. 21 DE MAYO DE 1975)
 
-> <small>(REFORMADO, P.O. 21 DE MAYO DE 1975)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 168.
 
-El marido y la mujer tendrán en el hogar autoridad y consideraciones iguales; por lo tanto, resolverán de común acuerdo todo lo conducente al manejo del hogar, a la formación y educación de los hijos y a la administración de los bienes que a éstos pertenezcan. En caso de desacuerdo, el Juez competente resolverá lo que corresponda.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 21 DE MAYO DE 1975)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 169.
 
-Los cónyuges podrán desempeñar cualquier actividad, excepto las que dañen la moral de la familia o a la estructura de ésta. Cualquiera de ellos podrá oponerse a que el otro desempeñe la actividad de que se trate y el Juez respectivo resolverá sobre la oposición.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
 ###### Artículo 170.
 
@@ -1187,13 +1141,17 @@ Los cónyuges podrán desempeñar cualquier actividad, excepto las que dañen la
 
 (DEROGADO, P.O. 21 DE MAYO DE 1975)
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
 ###### Artículo 172.
 
-El marido y la mujer, mayores de edad, tienen capacidad para administrar, contratar o disponer de sus bienes propios y ejercitar las acciones u oponer las excepciones que a ellos corresponden, sin que para tal objeto necesite el esposo del consentimiento de la esposa, ni ésta de la autorización de aquél; salvo lo que se estipule en las capitulaciones matrimoniales sobre administración de bienes.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 173.
 
-El marido y la mujer, menores de edad, tendrán la administración de sus bienes, en los términos del artículo que precede, pero necesitarán autorización judicial para enajenarlos, gravarlos o hipotecarlos y un tutor para sus negocios judiciales.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
 ###### Artículo 174.
 
@@ -1203,453 +1161,567 @@ El marido y la mujer, menores de edad, tendrán la administración de sus bienes
 
 (DEROGADO, P.O. 23 DE FEBRERO DE 2004)
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
 ###### Artículo 176.
 
-El contrato de compra-venta sólo puede celebrarse entre los cónyuges cuando el matrimonio esté sujeto al régimen de separación de bienes.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 177.
 
-El marido y la mujer, durante el matrimonio, podrán ejercitar los derechos y acciones que tengan el uno en contra del otro; pero la prescripción entre ellos no corre mientras dure el matrimonio.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO IV.
 
-Del Contratrato (sic) de Matrimonio con relación a los bienes.
-
 Disposiciones Generales.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 178.
 
-El contrato de matrimonio debe celebrarse bajo el régimen de sociedad conyugal, o bajo el de separación de bienes.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 179.
 
-Las capitulaciones matrimoniales son los pactos que los esposos celebran para constituir la sociedad conyugal, o la separación de bienes y reglamentar la administración de éstos en uno y en otro caso.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 180.
 
-Las capitulaciones matrimoniales pueden otorgarse antes de la celebración del matrimonio o durante él y pueden comprender no solamente los bienes de que sean dueños los esposos en el momento de hacer el pacto, sino también los que adquieran después.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 181.
 
-El menor que con arreglo a la ley pueda contraer matrimonio, puede también otorgar capitulaciones, las cuales serán válidas si a su otorgamiento concurren las personas cuyo consentimiento previo es necesario para la celebración del matrimonio, o la autorización judicial si las capitulaciones se pactan después de celebrado el matrimonio.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 182.
 
-Son nulos los pactos que los esposos hicieren contra las leyes o los naturales fines del matrimonio.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO V.
 
-De la Sociedad Conyugal.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 183.
 
-La sociedad conyugal se regirá por las capitulaciones matrimoniales que la constituyan, y en lo que no estuviere expresamente estipulado, por las disposiciones relativas al contrato de sociedad.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 184.
 
-La sociedad conyugal nace al celebrarse el matrimonio o durante él. Puede comprender no sólo los bienes de que sean dueños los esposos al formarla, sino también los bienes futuros que adquieran los consortes.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 185.
 
-Las capitulaciones matrimoniales en que se constituya la sociedad conyugal, constarán en escritura pública cuando los esposos pacten hacerse copartícipes o transferirse la propiedad de bienes que ameriten tal requisito para que la traslación sea válida.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 186.
 
-En este caso, la alteración que se haga de las capitulaciones deberá también otorgarse en escritura pública, haciendo la respectiva anotación en el protocolo en que se otorgaron las primitivas capitulaciones y en la inscripción del Registro Público de la Propiedad. Sin llenar estos requisitos, las alteraciones no producirán efecto contra tercero.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 187.
 
-La sociedad conyugal puede terminar antes que se disuelva el matrimonio si así lo convienen los esposos, pero si éstos o alguno de ellos son menores de edad, el convenio relativo no podrá celebrarse sin autorización judicial.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 188.
 
-Puede también terminar la sociedad conyugal durante el matrimonio, a petición de alguno de los cónyuges, por los siguientes motivos:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-I.- Si el socio administrador, por su notoria negligencia o torpe administración, amenaza arruinar a su consocio o disminuir considerablemente los bienes comunes;
-
-II.- Cuando el socio administrador hace cesión de bienes a sus acreedores o es declarado en quiebra.
-
-Al iniciarse el procedimiento relativo sumario, cesarán interinamente los efectos de la sociedad, sin perjuicio de los actos y obligaciones anteriores, estableciéndose un régimen de condominio respecto de los bienes sociales en los cuales cada cónyuge representará la proporción que corresponda conforme a las capitulaciones matrimoniales o cada uno la mitad si éstas nada prevén al respecto. La declaración respectiva se inscribirá en el Registro de los Bienes.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 189.
 
-Las capitulaciones matrimoniales en que se establezca la sociedad conyugal, deben contener:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-I.- La lista detallada de los bienes inmuebles que cada consorte lleve a la sociedad, con expresión de su valor y de los gravámenes que reporten;
-
-II.- La lista especificada de los bienes muebles que cada consorte introduzca a la sociedad;
-
-III.- Nota pormenorizada de las deudas que tenga cada esposo al celebrar el matrimonio, con expresión de si la sociedad ha de responder de ellas o únicamente de las que se contraigan durante el matrimonio, ya sea por ambos consortes o por cualquiera de ellos;
-
-IV.- La declaración expresa de si la sociedad conyugal ha de comprender todos los bienes de cada consorte o sólo parte de ellos, precisando en este último caso cuales son los bienes que hayan de entrar a la sociedad;
-
-V.- La declaración explícita de si la sociedad conyugal ha de comprender los bienes todos de los consortes, o solamente sus productos. En uno y en otro caso se determinará con toda claridad la parte que en los bienes o en sus productos corresponda a cada cónyuge;
-
-VI.- La declaración de si el producto del trabajo de cada consorte corresponde exclusivamente al que lo ejecutó o si debe dar participación de ese producto al otro consorte y en que proporción;
-
-VII.- La declaración terminante acerca de quien debe ser el administrador de la sociedad, expresándose con claridad las facultades que se le conceden;
-
-VIII.- La declaración acerca de si los bienes futuros que adquieran los cónyuges durante el matrimonio, pertenecen exclusivamente al adquirente, o si deben repartirse entre ellos y en qué proporción;
-
-IX.- Las bases para liquidar la sociedad.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 190.
 
-Es nula la capitulación en cuya virtud uno de los consortes haya de percibir todas las utilidades; así como la que establezca que alguno de ellos sea responsable por las pérdidas y deudas comunes en una parte que exceda a la que proporcionalmente corresponda a su capital o utilidades.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 191.
 
-Cuando se establezca que uno de los consortes sólo debe recibir una cantidad fija el otro consorte o sus herederos deben pagar la suma convenida, haya o no utilidad en la sociedad.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 192.
 
-Todo pacto que importe cesión de una parte de los bienes propios de cada cónyuge, será considerado como donación y quedará sujeto a lo prevenido en el capítulo VIII de este Título.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 193.
 
-No pueden renunciarse anticipadamente las ganancias que resulten de la sociedad conyugal; pero disuelto el matrimonio o establecida la separación de bienes, pueden los cónyuges renunciar a las ganancias que les correspondan.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 194.
 
-El dominio de los bienes comunes reside en ambos cónyuges mientras subsista la sociedad; pero las acciones en contra de ésta o sobre los bienes sociales serán dirigidas contra el administrador.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 195.
 
-La sentencia que declare la ausencia de alguno de los cónyuges, modifica o suspende la sociedad conyugal en los casos señalados en este Código.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 196.
 
-El abandono injustificado por más de seis meses del domicilio conyugal por uno de los cónyuges, hace cesar para él, desde el día del abandono, los efectos de la sociedad conyugal en cuanto le favorezcan; estos no podrán comenzar de nuevo sino por convenio expreso.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 197.
 
-La sociedad conyugal termina por la disolución del matrimonio, por voluntad de los consortes, por la sentencia que declare la presunción de muerte del cónyuge ausente y en los casos previstos en el artículo 188.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 198.
 
-En los casos de nulidad, la sociedad se considera subsistente hasta que se pronuncie sentencia ejecutoria, si los dos cónyuges procedieron de buena fe.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 199.
 
-Cuando uno solo de los cónyuges tuvo buena fe, la sociedad subsistirá también hasta que cause ejecutoria la sentencia, si la continuación es favorable al cónyuge inocente; en caso contrario se considerará nula desde un principio.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 200.
 
-Si los dos cónyuges procedieron de mala fe, la sociedad se considera nula desde la celebración del matrimonio, quedando en todo caso a salvo los derechos que un tercero tuviere contra el fondo social.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 201.
 
-Si la disolución de la sociedad procede de nulidad del matrimonio, el consorte que hubiere obrado de mala fe no tendrá parte en las utilidades. Estas aplicarán a los hijos y si no los hubiere, al cónyuge inocente.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 202.
 
-Si los dos procedieron de mala fe, las utilidades se aplicarán a los hijos, y si no los hubiere, se repartirán en proporción de lo que cada consorte llevó al matrimonio.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 203.
 
-Disuelta la sociedad se procederá a formar inventario, en el cual no se incluirán el lecho, los vestidos ordinarios y los objetos de uso personal de los consortes, que sean de éstos o de sus herederos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 204.
 
-Terminado el inventario, se pagarán los créditos que hubiere contra el fondo social, se devolverá a cada cónyuge lo que llevó al matrimonio y el sobrante, si lo hubiere, se dividirá entre los dos consortes en la forma convenida. En caso de que hubiere pérdidas, el importe de estas se deducirá del haber de cada consorte en proporción a las cantidades que debían corresponderles, y si uno solo llevó capital, de éste se deducirá la pérdida total.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 205.
 
-Muerto uno de los cónyuges, continuará el que sobreviva en la posesión y administración del fondo social, con intervención del representante de la sucesión, mientras no se verifique la partición.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 206.
 
-Todo lo relativo a la formación de inventarios y solemnidades de la partición y adjudicación de los bienes; se regirá por lo que disponga el Código de Procedimientos Civiles.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO VI.
 
-De la Separación de los Bienes.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 207.
 
-Puede haber separación de bienes en virtud de capitulaciones anteriores al matrimonio, o durante éste, por convenio de los consortes, o bien por sentencia judicial. La separación puede comprender no solo los bienes de que sean dueños los consortes al celebrar el matrimonio, sino también los que adquieran después.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 208.
 
-La separación de bienes puede ser absoluta o parcial. En el segundo caso, los bienes que no estén comprendidos en las capitulaciones de separación, serán objeto de la sociedad conyugal que deben constituir los esposos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 209.
 
-Durante el matrimonio la separación de bienes puede terminar para ser substituída por la sociedad conyugal; pero si los consortes son menores de edad, se observará lo dispuesto en el artículo 181.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-Lo mismo se observará cuando las capitulaciones de separación se modifiquen durante la menor edad de los cónyuges.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 210.
 
-No es necesario que consten en escritura pública las capitulaciones en que se pacte la separación de bienes, antes de la celebración del matrimonio. Si se pacta durante el matrimonio se observarán las formalidades exigidas para la transmisión de los bienes de que se trate.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 211.
 
-Las capitulaciones que establezcan separación de bienes, siempre contendrán un inventario de los bienes de que sea dueño cada esposo al celebrarse el matrimonio y nota especificada de las deudas que al casarse tenga cada consorte.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE. SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 212.
 
-En el régimen de separación de bienes los cónyuges conservarán la propiedad y administración de los bienes que respectivamente les pertenecen y, por consiguiente, todos los frutos y accesiones de dichos bienes no serán comunes, sino del dominio exclusivo del dueño de ellos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 213.
 
-Serán también propios de cada uno de los consortes los salarios, sueldos, emolumentos y ganancias que obtuviere por servicios personales, por el desempeño de un empleo o el ejercicio de una profesión, comercio o industria.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
 ###### Artículo 214.
 
 (DEROGADO, P.O. 21 DE MAYO DE 1975)
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
 ###### Artículo 215.
 
-Los bienes que los cónyuges adquieran en común por donación, herencia, legado, por cualquier otro título gratuito o por don de la fortuna, entre tanto se hace la división, serán administrados por ambos o por uno de ellos con acuerdo del otro; pero en este caso el que administre será considerado como mandatario.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 216.
 
-Ni el marido podrá cobrar a la mujer, ni ésta a aquel, retribución u honorario alguno por los servicios personales que le prestare, o por los consejos y asistencia que le diere; pero si alguno de los consortes por causa de ausencia o impedimento del otro, no originado por enfermedad, se encargare temporalmente de la administración de sus bienes, podrá pactar retribución por este servicio, en proporción a su importancia y al resultado que produjere.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 217.
 
-El marido y la mujer que ejerzan la patria potestad se dividirán entre sí por partes iguales, la mitad del usufructo que la ley les concede.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 218.
 
-El marido responde a la mujer y ésta a aquél, de los daños y perjuicios que le cause por dolo, culpa o negligencia.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO VII.
 
-De las Donaciones Antenupciales.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 219.
 
-Se llaman antenupciales las donaciones que antes del matrimonio hace un esposo a otro, cualquiera que sea el nombre que la costumbre les haya dado.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 220.
 
-Son también donaciones antenupciales las que un extraño hace a alguno de los esposos o a ambos, en consideración al matrimonio.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 221.
 
-Las donaciones antenupciales entre esposos, aunque fueren varias, no podrán exceder reunidas de la sexta parte de los bienes del donante. En el exceso la donación será inoficiosa.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 222.
 
-Las donaciones antenupciales hechas por un extraño, serán inoficiosas en los términos en que lo fueren las comunes.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 223.
 
-Para calcular si es inoficiosa una donación antenupcial, tienen el esposo donatario y sus herederos la facultad de elegir la época en que se hizo la donación o la del fallecimiento del donador.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 224.
 
-Si al hacerse la donación no se formó inventario de los bienes del donador, no podrá elegirse la época en que aquella se otorgó.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 225.
 
-Las donaciones antenupciales no necesitan para su validez de aceptación expresa.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 226.
 
-Las donaciones antenupciales no se revocan por sobrevenir hijos al donante.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 227.
 
-Tampoco se revocarán por ingratitud, a no ser que el donante fuere un extraño, que la donación haya sido hecha a ambos esposos y que los dos sean ingratos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 228.
 
-Las donaciones antenupciales son revocables y se entienden revocadas por el adulterio o el abandono injustificado del domicilio conyugal por parte del donatario, cuando el donante fuere el otro cónyuge.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 229.
 
-Los menores pueden hacer donaciones antenupciales, pero sólo con intervención de sus padres o tutores, o con aprobación judicial.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 230.
 
-Las donaciones antenupciales quedarán sin efecto si el matrimonio dejare de efectuarse.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 231.
 
-Son aplicables a las donaciones antenupciales las reglas de las donaciones comunes, en todo lo que no fueren contrarias a este capítulo.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO VIII.
 
-De las Donaciones entre Consortes.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 232.
 
-Los consortes pueden hacerse donaciones; pero sólo se confirman con la muerte del donante, con tal de que no sean contrarias a las capitulaciones matrimoniales, ni perjudiquen el derecho de los ascendientes o descendientes a recibir alimentos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 233.
 
-Las donaciones entre consortes pueden ser revocadas libremente y en todo tiempo por los donantes.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(F. DE E., P.O. 28 DE NOVIEMBRE DE 1940)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 234.
 
-Estas donaciones no se anularán por la Supervivencia de los hijos, pero no se reducirán cuando sean inoficiosas, en los mismos términos que las comunes.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO IX.
 
-De los Matrimonios Nulos e Ilícitos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 235.
 
-Son causas de nulidad de un matrimonio:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-I.- El error acerca de la persona con quien se contrae, cuando entendiendo un cónyuge celebrar matrimonio con persona determinada, lo contrae con otra;
-
-II.- Que el matrimonio se haya celebrado concurriendo alguno de los impedimentos enumerados en el artículo 156;
-
-III.- Que se haya celebrado en contravención a lo dispuesto en los artículos 97, 98, 100, 102 y 103.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 236.
 
-La acción de nulidad que nace de error, solo puede deducirse por el cónyuge engañado; pero si éste no denuncia el error inmediatamente que lo advierte se tiene por ratificado el consentimiento y queda subsistente el matrimonio, a no ser que exista algún otro impedimento que lo anule.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 237.
 
-La menor edad de dieciséis años en el hombre y de catorce en la mujer dejará de ser causa de nulidad;
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-I.- Cuando haya habido hijos;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADA, P.O. 9 DE ABRIL DE 1970)</small>
+Artículo 138 (sic).- (DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-II.- Cuando, aunque no los haya habido, el menor hubiere llegado a los 18 años y ni él ni el otro conyugue (sic) hubiesen intentado la nulidad.
-
-Artículo 138 (sic).- La nulidad por falta de consentimiento de los ascendientes solo podrá alegarse por aquel o aquellos a quienes tocaba prestar dicho consentimiento, y dentro de treinta días contados desde que tengan conocimiento del matrimonio.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 239.
 
-Cesa esta causa de nulidad:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-I.- Si han pasado los treinta días sin que se haya pedido;
-
-II.- Si dentro de este término, el ascendiente ha consentido expresamente en el matrimonio, o tácitamente, haciendo donación a los hijos en consideración al matrimonio, recibiendo a los consortes a vivir en su casa, presentando a la prole como legítima al Registro Civil, o practicando otros actos que al juicio del Juez sean tan conducentes al efecto, como los expresados.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 240.
 
-La nulidad por falta del consentimiento del tutor o del Juez, podrá pedirse dentro del término de treinta días por cualesquiera de los cónyuges, o por el tutor; pero dicha causa de nulidad cesará si antes de presentarse demanda en forma sobre ella, se obtiene la ratificación del tutor o la autorización judicial, confirmando el matrimonio.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 241.
 
-El parentesco de consanguinidad no dispensado anula el matrimonio; pero si después se obtuviere dispensa y ambos cónyuges, reconocida la nulidad, quisieren espontáneamente reiterar su consentimiento por medio de una acta ante el Oficial del Registro Civil, quedará revalidado el matrimonio y surtirá todos sus efectos legales desde el día en que primeramente se contrajo.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 242.
 
-La acción que nace de esta clase de nulidad y la que dimana del parentesco de afinidad en línea recta, pueden ejercitarse por cualesquiera de los cónyuges, por sus ascendientes y por el Ministerio Público.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 243.
 
-La acción de nulidad que nace de la causa prevista en la fracción V del artículo 156, podrá deducirse por el cónyuge ofendido o por el Ministerio Público, en el caso de disolución del matrimonio anterior, por causa de divorcio; y sólo por el Ministerio Público, si éste matrimonio se ha disuelto por muerte del cónyuge ofendido.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-En uno y en otro caso, la acción debe intentarse dentro de los seis meses siguientes a la celebración del matrimonio de los adúlteros.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 244.
 
-La acción de nulidad proveniente del atentado contra la vida de alguno de los cónyuges para casarse con el que quede libre, puede ser deducida por los hijos del cónyuge víctima del atentado, o por el Ministerio Público, dentro del término de seis meses, contados desde que se celebró el nuevo matrimonio.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 245.
 
-El miedo y la violencia serán causa de nulidad del matrimonio si concurren las circunstancias siguientes:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-I.- Que uno u otra importen peligro de perder la vida, la honra, la libertad, la salud o una parte considerable de los bienes;
-
-II.- Que el miedo haya sido causado o la violencia hecha al cónyuge o a la persona o personas que le tienen bajo su patria potestad o tutela al celebrarse el matrimonio;
-
-III.- Que una u otra hayan subsistido al tiempo de celebrarse el matrimonio.
-
-La acción que nace de estas causas de nulidad sólo puede deducirse por el cónyuge agraviado, dentro de sesenta días desde la fecha en que cesó la violencia o intimidación.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 246.
 
-La nulidad que se funde en alguna de las causas expresadas en la fracción VIII del artículo 156, sólo puede ser pedida por los cónyuges, dentro del término de sesenta días contados desde que se celebró el matrimonio.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 247.
 
-Tienen derecho de pedir la nulidad a que se refiere la fracción IX del artículo 156, el otro cónyuge o el tutor del incapacitado.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 248.
 
-El vínculo de un matrimonio anterior, existente al tiempo de contraer el segundo, anula este aunque se contraiga de buena fe creyéndose fundadamente que el consorte anterior había muerto. La acción que nace de esta causa de nulidad puede deducirse por el cónyuge del primer matrimonio, por sus hijos o herederos, y por los cónyuges que contrajeron el segundo. No deduciéndola ninguna de las personas mencionadas, la deducirá el Ministerio Público.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 249.
 
-La nulidad que se funde en la falta de formalidades esenciales para la validez del matrimonio, puede alegarse por los cónyuges y por cualquiera que tenga interés en probar que no hay matrimonio. También podrá declararse esa nulidad a instancia del Ministerio Público.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 250.
 
-No se admitirá demanda de nulidad por falta de solemnidades en el acta de matrimonio celebrado ante el Oficial del Registro Civil, cuando a la existencia del acta se una la posesión de estado matrimonial.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 251.
 
-El derecho para demandar la nulidad del matrimonio corresponde a quienes la ley lo concede expresamente, y no es transmisible, por herencia ni de cualquiera otra manera.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-Sin embargo, los herederos podrán continuar la demanda de nulidad entablada por aquel a quien heredan.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 252.
 
-Ejecutoriada la sentencia que declare la nulidad, el Tribunal, de oficio, enviará copia certificada de ella al Oficial del Registro Civil ante quien pasó el matrimonio, para que al margen del acta ponga nota circunstanciada en que conste: la parte resolutiva de la sentencia, su fecha, el Tribunal que la pronunció y el número con que se marcó la copia, la cual será depositada en el archivo.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 253.
 
-El matrimonio tiene a su favor la presunción de ser válido, sólo se considerará nulo cuando así lo declare una sentencia que cause ejecutoria.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 254.
 
-Los cónyuges no pueden celebrar ninguna transacción ni compromiso en árbitros, acerca de la nulidad del matrimonio.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 255.
 
-El matrimonio contraído de buena fe, aunque sea declarado nulo, produce todos sus efectos civiles en favor de los cónyuges mientras dura y en todo tiempo en favor de los hijos nacidos antes de la celebración del matrimonio, durante él y trescientos días después de la declaración de nulidad, si no se hubieren separado los consortes o desde su separación en caso contrario.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 256.
 
-Si ha habido buena fe de parte de uno sólo de los cónyuges, el matrimonio produce efectos civiles únicamente respecto de él y de los hijos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-Si ha habido mala fe de parte de ambos consortes, el matrimonio produce efectos civiles solamente respecto de los hijos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 257.
 
-La buena fe se presume; para destruir esta presunción se requiere prueba plena.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 258.
 
-Si la demanda de nulidad fuere entablada por uno sólo de los cónyuges, desde lugo (sic) se dictarán las medidas provisionales que establece el artículo 282.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 21 DE MAYO DE 1975)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 259.
 
-Luego que la sentencia sobre nulidad cause ejecutoria, el padre y la madre propondrán la forma y términos del cuidado y la custodia de los hijos y el Juez resolverá a su criterio de acuerdo con las circunstancias del caso.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 1998)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 260.
 
-El Juez en todo tiempo podrá modificar la determinación a que se refiere el Artículo anterior, atento a las nuevas circunstancias y a lo dispuesto en los Artículos 423, 424 y 445, Fracción III; pero siempre y aún tratándose de divorcio, los hijos e hijas menores de siete años, se mantendrán al cuidado de la madre hasta que cumplan esta edad, a menos que la madre se dedicare a actividades que atenten contra la moral y buenas costumbres, hubiere contraído el hábito de embriagarse o drogarse, tuviere alguna enfermedad contagiosa, o por su conducta ofreciere peligro grave para la salud, educación o la moralidad de sus hijos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-Los convenios a que se refieren el Artículo anterior y los artículos 273 y 282 de este Código, no comprenderán a los hijos menores de siete años.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 261.
 
-Declarada la nulidad del matrimonio se procederá a la división de los bienes comunes. Los productos repartibles, si los dos cónyuges hubieren procedido de buena fe, se dividirán entre ellos en la forma convenida en las capitulaciones matrimoniales; si sólo hubiere habido buena fe por parte de uno de los cónyuges, a éste se aplicarán íntegramente esos productos. Si ha habido mala fe de parte de ambos cónyuges, los productos se aplicarán a favor de los hijos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 262.
 
-Declarada la nulidad del matrimonio, se observarán respecto de las donaciones antenupciales las reglas siguientes:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-I.- Las hechas por un tercero a los cónyuges, podrán ser revocadas;
-
-II.- Las que hizo el cónyuge inocente al culpable quedarán sin efecto y las cosas que fueron objeto de ellas se devolverán al donante con todos sus productos;
-
-III.- Las hechas al inocente por el cónyuge que obró de mala fe, quedarán subsistentes;
-
-IV.- Si los dos cónyuges procedieron de mala fe, las donaciones que se hayan hecho quedarán a favor de sus hijos. Si no los tienen, no podrán hacer los donantes reclamación alguna con motivo de la liberalidad.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 263.
 
-Si al declararse la nulidad del matrimonio la mujer estuviere en cinta (sic), se tomarán las precauciones a que se refiere el Capítulo Primero del Título Quinto del Libro Tercero.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
 ###### Artículo 264.
 
@@ -1659,829 +1731,857 @@ Si al declararse la nulidad del matrimonio la mujer estuviere en cinta (sic), se
 
 (DEROGADO, P.O. 15 DE FEBRERO DE 2008)
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
+
 ### CAPITULO X.
 
 Del Divorcio.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
 ###### Artículo 266.
 
-El divorcio disuelve el vínculo del matrimonio y deja a los cónyuges en aptitud de contraer otro.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 267.
 
-Son causas de divorcio:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-I.- El adulterio debidamente probado de uno de los cónyuges;
-
-> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 1998)</small>
-
-II.- El hecho de que la mujer dé a luz, durante el matrimonio, un hijo concebido antes de celebrarse este contrato y que judicialmente sea declarado que no es hijo de su cónyuge;
-
-III.- La propuesta del marido para prostituir a su mujer, no sólo cuando el marido la haya hecho directamente, sino cuando se pruebe que ha recibido dinero o cualquiera remuneración con el objeto expreso de permitir que otro tenga relaciones carnales con su mujer;
-
-IV.- La incitación a la violencia hecha por un cónyuge al otro para cometer algún delito, aunque no sea de incontinencia carnal;
-
-V.- Los actos inmorales ejecutados por el marido o por la mujer con el fin de corromper a los hijos así como la tolerancia en su corrupción;
-
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 2004)</small>
-
-VI.- Padecer sífilis, tuberculosis, o cualquiera otra enfermedad crónica o incurable que sea, además, contagiosa o hereditaria, y la impotencia sexual incurable, que sobrevenga después de celebrado el matrimonio, y no provenga de edad avanzada;
-
-VII.- Padecer enajenación mental incurable;
-
-VIII.- La separación de la casa conyugal por más de seis meses sin causa justificada;
-
-IX.- La separación del hogar conyugal originada por una causa que sea bastante para pedir el divorcio, si se prolonga por más de un año sin que el cónyuge que se separó entable la demanda de divorcio;
-
-X.- La declaración de ausencia legalmente hecha, o la de presunción de muerte, en los casos de excepción en que no se necesita para que se haga ésta, que preceda la declaración de ausencia;
-
-XI.- La sevicia, las amenazas o las injurias graves de un cónyuge para el otro;
-
-> <small>(REFORMADA, P.O. 21 DE MAYO DE 1975)</small>
-
-XII.- La negativa injustificada de los cónyuges a cumplir las obligaciones señaladas en el Artículo 164, siempre que no puedan hacer efectivos los derechos que les concede el Artículo 165.
-
-XIII.- La acusación calumniosa hecha por un cónyuge contra el otro, por delito que merezca pena mayor de dos años de prisión;
-
-XIV.- Haber cometido uno de los cónyuges un delito que no sea político, pero que sea infamante, por el cual tenga que sufrir una pena de prisión mayor de dos años;
-
-XV.- Los hábitos de juego o de embriaguez o el uso indebido o persistente de drogas enervantes, cuando amenazan causar la ruina de la familia, o constituyen un continuo motivo de desavenencia conyugal;
-
-XVI.- Cometer un cónyuge contra la persona o los bienes del otro, un acto que sería punible si se tratara de persona extraña, siempre que tal acto tenga señalada en la ley una pena que pase de un año de prisión;
-
-> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 1998)</small>
-
-XVII.- Las conductas de violencia familiar generadas por un cónyuge contra el otro, conforme a lo previsto en el artículo 324 Bis;
-
-> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 1998)</small>
-
-XVIII.- La separación de los cónyuges por más de dos años, independientemente del motivo que haya originado la separación, la cual podrá ser invocada por cualesquiera de ellos; y
-
-> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 1998)</small>
-
-XIX.- El mutuo consentimiento.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 268.
 
-Cuando un cónyuge haya pedido el divorcio o la nulidad del matrimonio por causa que no haya justificado o que haya resultado insuficiente, el demandado tiene a su vez el derecho de pedir el divorcio; pero no podrá hacerlo sino pasados tres meses de la notificación de la última sentencia. Durante estos tres meses los cónyuges no están obligados a vivir juntos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 269.
 
-Cualesquiera de los esposos puede pedir el divorcio por el adulterio de su cónyuge. Esta acción dura seis meses contados desde que se tuvo conocimiento del adulterio.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 270.
 
-Son causas de divorcio los actos inmorales ejecutados por el marido o por la mujer con el fin de corromper a los hijos, ya lo sean éstos de ambos, ya de uno sólo de ellos. La tolerancia en la corrupción que da derecho a pedir el divorcio, debe consistir en actos positivos y no en simples omisiones.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 271.
 
-Para que pueda pedirse el divorcio por causa de enajenación mental que se considere incurable, es necesario que hayan transcurrido dos años desde que comenzó a padecerse la enfermedad.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 1948)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 272.
 
-Cuando ambos consortes convengan en divorciarse, deberán ocurrir al Juez competente en los términos que ordena el Código de Procedimientos Civiles.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 1948)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 273.
 
-Los cónyuges que se encuentren en el caso del artículo anterior, están obligados a presentar al Juzgado un convenio en que se fijen los siguientes puntos:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-I.- Designación de la persona a quien sean confiados los hijos del matrimonio, tanto durante el procedimiento como después de ejecutoriado el divorcio;
-
-II.- El modo de subvenir a las necesidades de los hijos, tanto durante el procedimiento como después de ejecutoriado el divorcio;
-
-> <small>(REFORMADA, P.O. 21 DE MAYO DE 1975)</small>
-
-III.- La casa que servirá de habitación a cada uno de los cónyuges durante el procedimiento.
-
-IV.- La cantidad que a título de alimentos un cónyuge debe pagar al otro durante el procedimiento o después de ejecutoriada la sentencia, la forma de hacer el pago y la garantía que debe darse para asegurarlo; o bien la manifestación expresa de que ambos cónyuges quedarán exentos de toda obligación a este respecto, en caso de que así se convenga;
-
-V.- La manera de administrar los bienes de la sociedad conyugal durante el procedimiento, y la de liquidar dicha sociedad después de ejecutoriado el divorcio, así como la designación de liquidadores. A ese efecto se acompañará un inventario y avalúo de todos los bienes muebles o inmuebles de la sociedad.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 274.
 
-El divorcio por mutuo consentimiento no puede pedirse sino pasado un año de la celebración del matrimonio.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 275.
 
-Mientras se decrete el divorcio, el Juez autorizará la separación de los cónyuges de una manera provisional, y dictará las medidas necesarias para asegurar la subsistencia de los hijos a quienes hay obligación de dar alimentos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 276.
 
-Los cónyuges que hayan solicitado el divorcio por mutuo consentimiento, podrán reunirse de común acuerdo en cualquier tiempo, con tal de que el divorcio no hubiere sido decretado. No podrán volver a pedir el divorcio sino pasado un año desde su reconciliación.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 277.
 
-El cónyuge que no quiera pedir el divorcio fundado en las causas enumeradas en las fracciones VI y VII del artículo 267, podrá, sin embargo, solicitar que se suspenda su obligación de cohabitar con el otro cónyuge, y el Juez, con conocimiento de causa, podrá decretar esa suspensión; quedando subsistentes las demás obligaciones creadas por el matrimonio.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 278.
 
-El divorcio sólo puede ser demandado por el cónyuge que no hubiere dado lugar a él, y dentro de los seis meses siguientes al día en que hayan llegado a su conocimiento los hechos en que se funde la demanda.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 279.
 
-Ninguna de las causas enumeradas en el artículo 267 pueden alegarse para pedir el divorcio cuando haya mediado perdón expreso o tácito.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 280.
 
-La reconciliación de los cónyuges pone término al juicio de divorcio en cualquier estado en que se encuentre si aún no hubiere sentencia ejecutoria. En este caso los interesados deberán denunciar su reconciliación al Juez, sin que la omisión de esta denuncia destruya los efectos producidos por la reconciliación.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 281.
 
-El cónyuge que no haya dado causa al divorcio puede antes de que se pronuncie la sentencia que ponga fin al litigio, prescindir de sus derechos y obligar al otro a reunirse con él; mas en este caso, no puede pedir de nuevo el divorcio por los mismos hechos que motivaron el juicio anterior, pero sí por otros nuevos aunque sean de la misma especie.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE OCTUBRE DE 1998)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 282.
 
-Al admitirse la demanda de divorcio, o antes si hubiere urgencia y sólo mientras dure el juicio, se dictarán las medidas provisionales pertinentes, conforme a las disposiciones siguientes:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-I.- (DEROGADA, P.O. 21 DE MAYO DE 1975)
-
-> <small>(REFORMADA, P.O. 21 DE MAYO DE 1975)</small>
-
-II.- Proceder a la separación de los cónyuges de conformidad con el Código de Procedimientos Civiles.
-
-III.- Señalar y asegurar los alimentos que debe dar el deudor alimentario al cónyuge acreedor y a los hijos;
-
-> <small>(REFORMADA, P.O. 21 DE MAYO DE 1975)</small>
-
-IV.- Las que se estimen convenientes para que los cónyuges no se puedan causar perjuicios en sus respectivos bienes ni en los de la sociedad conyugal, en su caso;
-
-> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 1998)</small>
-
-V.- Dictar en su caso, las medidas precautorias que la ley establece respecto a la mujer que quede embarazada;
-
-> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 1998)</small>
-
-VI.- Poner a los hijos al cuidado de la persona que de común acuerdo hubieren designado los cónyuges, pudiendo ser uno de éstos. En defecto de ese acuerdo, el cónyuge que pida el divorcio propondrá la persona en cuyo poder deben quedar provisionalmente los hijos. El Juez, previo el procedimiento que fije el Código respectivo, resolverá lo conveniente; y
-
-> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 1998)</small>
-
-VII.- La prohibición de ir a un domicilio o lugar determinado para alguno de los cónyuges, así como las medidas necesarias para evitar actos de violencia familiar.
-
-> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 1998)</small>
-
-Salvo peligro grave para el normal desarrollo de los hijos, los menores de siete años deberán quedar al cuidado de la madre.
-
-> <small>(ADICIONADO, P.O. 25 DE ABRIL DE 2012)</small>
-
-En los casos de violencia familiar, las medidas provisionales pertinentes deberán ser permanentes y continuas en la etapa de la averiguación previa penal o durante el proceso del juicio penal y/o civil. En el caso de que la sentencia sea condenatoria, el sujeto activo no regresará a la casa habitación.
-
-> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 1998)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 283.
 
-Sin perjuicio de lo dispuesto por el Artículo 260 de este Código, la sentencia de divorcio fijará la situación de los hijos, para lo cual el juez gozará de las más amplias facultades para resolver todo lo relativo a los derechos y obligaciones inherentes a la patria potestad, su pérdida, suspensión o limitación, según el caso, y en especial a la custodia y al cuidado de los hijos. Durante la sustanciación del juicio se allegará de los elementos necesarios para ello, debiendo escuchar a ambos progenitores y a los menores, considerando el interés superior de éstos últimos. En todo caso protegerá y respetará el derecho de convivencia con los padres, salvo que exista peligro para el menor.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-La protección para los menores implica las medidas de seguridad, seguimiento y terapia necesarias para evitar y corregir los actos de violencia familiar, las cuales podrán ser suspendidas o modificadas en los términos previstos por el artículo 94 del Código de Procedimientos Civiles para el Estado de Sinaloa.
-
-> <small>(REFORMADO, P.O. 21 DE MAYO DE 1975)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 284.
 
-Antes de que se provea definitivamente sobre la patria potestad o tutela de los hijos, el Juez podrá acordar, a petición de los abuelos, tíos o hermanos mayores, cualquier medida que se considere benéfica para los menores.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-El Juez podrá modificar esta decisión atento a lo dispuesto en los artículos 423, 424 y 445, fracción III.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 285.
 
-El padre y la madre, aunque pierdan la patria potestad, quedan sujetos a todas las obligaciones que tienen para con sus hijos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 286.
 
-El cónyuge que diere causa al divorcio perderá todo lo que se le hubiere dado o prometido por su consorte o por otra persona en consideración a éste, recuperando el donante los bienes donados; el cónyuge inocente conservará lo recibido y podrá reclamar lo pactado en su provecho.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 21 DE MAYO DE 1975)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 287.
 
-Ejecutoriado el divorcio, se procederá desde luego a la división de los bienes comunes y se tomarán las precauciones necesarias para asegurar las obligaciones que queden pendientes entre los cónyuges, o con relación a los hijos. Los consortes divorciados tendrán obligación de contribuir, en proporción a sus bienes e ingresos, a las necesidades de los hijos, a la subsistencia y a la educación de éstos hasta que lleguen a la mayor edad.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 288.
 
-En los casos de divorcio, el Juez tomando en cuenta las circunstancias del caso, y entre ellas la capacidad para trabajar de los cónyuges y su situación económica, sentenciará al culpable al pago de alimentos en favor del inocente. Este derecho lo disfrutará en tanto no contraiga nupcias. Además, cuando por el divorcio se originen daños o perjuicios a los intereses del cónyuge inocente, el culpable responderá de ellos como autor de un hecho ilícito.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
 ###### Artículo 289.
 
 (DEROGADO, P.O. 15 DE FEBRERO DE 2008)
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
 ###### Artículo 290.
 
-La muerte de uno de los cónyuges pone fin al juicio de divorcio, y los herederos del muerto tienen los mismos derechos y obligaciones que tendrían si no hubiese existido dicho juicio.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 291.
 
-Ejecutoriada una sentencia de divorcio, el Juez de Primera Instancia remitirá copia de ella al Oficial del Registro Civil ante quien se celebró el matrimonio, para que levante el acta correspondiente y, además, para que publique un extracto de la resolución, durante quince días, en las tablas destinadas al efecto.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 21 DE ENERO DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO XI.
 
 Del Concubinato.
 
-> <small>(ADICIONADO, P.O. 21 DE ENERO DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 291 Bis.
 
-La concubina y el concubino tienen derechos y obligaciones recíprocos, siempre que sin impedimentos legales para contraer matrimonio, han vivido en común en forma constante y permanente por un período mínimo de tres años que precedan inmediatamente a la generación de derechos y obligaciones a que se refiere este capítulo.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-No es necesario el transcurso del tiempo mencionado cuando, cumplidos los demás requisitos, tengan un hijo en común.
-
-No se considerará concubinato, cuando haya varias uniones de este tipo, con una misma persona.
-
-> <small>(ADICIONADO, P.O. 21 DE ENERO DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 291 Ter.
 
-El concubinato genera entre los concubinos derechos alimentarios y sucesorios, con independencia de los demás reconocidos en este Código o en otras leyes.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(ADICIONADO, P.O. 21 DE ENERO DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 291 Quáter.
 
-Al cesar la vida en común, la concubina o el concubino que carezca de ingresos o bienes suficientes para su sostenimiento tiene derecho a una pensión alimenticia por un tiempo igual al que haya durado el concubinato, a no ser que quien demande, haya demostrado ingratitud, o viva en concubinato o contraiga matrimonio.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-Este derecho podrá ejercitarse sólo durante el año siguiente a la cesación del concubinato.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE OCTUBRE DE 1998)</small>
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ## TITULO VI
 
-Del Parentesco, de los Alimentos y de la Violencia Familiar.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO I.
 
-Del Parentesco.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 292.
 
-La ley no reconoce más parentescos que los de consanguinidad, afinidad y civil.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 293.
 
-El parentesco de consanguinidad es el que existe entre personas que descienden de un mismo progenitor.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2001)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 293 Bis.
 
-En el caso de la adopción plena, se equiparará al parentesco por consanguinidad aquél que existe entre el adoptado, el adoptante, los parientes de éste y los descendientes de aquél, como si el adoptado fuera hijo consanguíneo.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 21 DE ENERO DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 294.
 
-El parentesco de afinidad, es el que se adquiere por el matrimonio o el concubinato, entre la mujer y los parientes del varón, y entre el varón y los parientes de la mujer.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2001)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 295.
 
-El parentesco civil es el que nace de la adopción simple y sólo existe entre adoptante y adoptado.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 296.
 
-Cada generación forma un grado y la serie de grados constituye lo que se llama línea de parentesco.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 297.
 
-La línea es recta o transversal; la recta se compone de la serie de grados entre personas que descienden unas de otras; la transversal se compone de la serie de grados entre personas que sin descender unas de otras, proceden de un progenitor o tronco común.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 298.
 
-La línea recta es ascendente o descendente; ascendente es la que liga a una persona con su progenitor o tronco de que procede; descendente es la que liga al progenitor con los que de él proceden. La misma línea es, pues ascendente o descendente, según el punto de partida y la relación a que se atiende.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 299.
 
-En la línea recta los grados se cuentan por el número de generaciones, o por el de las personas, excluyendo al progenitor.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 300.
 
-En la línea transversal los grados se cuentan por el número de generaciones subiendo por una de las líneas y descendiendo por la otra; o por el número de personas que hay de uno a otro de los extremos que se consideran, excluyendo la del progenitor o tronco común.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO II.
 
-De los Alimentos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 301.
 
-La obligación de dar alimentos es recíproca. El que los da tiene a su vez el derecho de pedirlos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 21 DE ENERO DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 302.
 
-Los cónyuges están obligados a proporcionarse alimentos. La ley determinará cuando queda subsistente esta obligación en los casos de separación, divorcio, nulidad de matrimonio y otros que la ley señale. Los concubinos están obligados en términos del artículo anterior.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 303.
 
-Los padres están obligados a dar alimentos a sus hijos. A falta o por imposibilidad de los padres, la obligación recae en los demás ascendientes por ambas líneas que estuvieren más próximos en grado.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 304.
 
-Los hijos están obligados a dar alimentos a los padres. A falta o por imposibilidad de los hijos, lo están los descendientes más próximos en grado.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 305.
 
-A falta o por imposibilidad de los ascendientes o descendientes, la obligación recae en los hermanos de padre y madre; en defecto de éstos, en los que fueren de madre solamente, y en defecto de ellos, en los que fueren sólo de padre.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-Faltando los parientes a que se refieren las disposiciones anteriores, tienen obligación de ministrar alimentos los parientes colaterales dentro del cuarto grado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 306.
 
-Los hermanos y demás parientes colaterales a que se refiere el artículo anterior, tienen obligación de dar alimentos a los menores, mientras éstos lleguen a la edad de dieciocho años. También deben alimentar a sus parientes dentro del grado mencionado, que fueren incapaces.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 307.
 
-El adoptante y el adoptado tienen obligación de darse alimentos, en los casos en que la tienen el padre y los hijos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 21 DE MAYO DE 1975)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 308.
 
-Los alimentos comprenden la comida, el vestido, la habitación y ls (sic) asistencia en caso de enfermedad. Respecto de los menores los alimentos comprenden, además, los gastos necesarios para la educación primaria del alimentista y para proporcionarle algún oficio, arte o profesión honestos y adecuados a sus circunstancias personales.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 309.
 
-El obligado a dar alimentos cumple la obligación asignando una pensión competente al acreedor alimentario, o incorporándolo a la familia. Si el acreedor se opone a ser incorporado, compete al Juez, según las circunstancias, fijar la manera de ministrar los alimentos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 310.
 
-El deudor alimentista no podrá pedir que se incorpore a su familia al que debe recibir los alimentos, cuando se trate de un cónyuge divorciado que reciba alimentos del otro, y cuando haya inconviniente (sic) legal para hacer esa incorporación.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 311.
 
-Los alimentos han de ser proporcionados a la posibilidad del que debe darlos y a la necesidad del que debe recibirlos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 312.
 
-Si fueren varios los que deben dar alimentos y todos tuvieren posibilidad para hacerlo, el Juez repartirá el importe entre ellos, en proporción a sus haberes.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 313.
 
-Si sólo algunos tuvieren posibilidad, entre ellos se repartirá el importe de los alimentos; y si uno sólo la tuviere, él cumplirá únicamente la obligación.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 314.
 
-La obligación de dar alimentos no comprende la de proveer de capital a los hijos para ejercer la profesión, el arte o el oficio a que se hubieren dedicado.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 315.
 
-Tienen acción para pedir el aseguramiento de los alimentos:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-I.- El acreedor alimentario;
-
-II.- El ascendiente que le tenga bajo su patria potestad;
-
-III.- El tutor;
-
-IV.- Los hermanos y demás parientes colaterales dentro del cuarto grado;
-
-V.- El Ministerio Público.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 316.
 
-Si las personas a que se refieren las fracciones II, III y IV del artículo anterior no pueden representar al acreedor alimentario en el juicio en que se pida el aseguramiento de alimentos, se nombrará por el Juez un tutor interino.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 317.
 
-El aseguramiento podrá consistir en hipoteca, prenda, fianza o depósito de cantidad bastante a cubrir los alimentos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 318.
 
-El tutor interino dará garantía por el importe anual de los alimentos. Si administrare algún fondo destinado a ese objeto, por él dará la garantía legal.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 319.
 
-En los casos en que los que ejerzan la patria potestad gocen de la mitad del usufructo de los bienes del hijo, el importe de los alimentos se deducirá de dicha mitad, y si ésta no alcanza a cubrirlos, el exceso será de cuenta de los que ejerzan la patria potestad.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 320.
 
-Cesa la obligación de dar alimentos:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-I.- Cuando el que la tiene carece de medios para cumplirla;
-
-II.- Cuando el alimentista deja de necesitar los alimentos;
-
-III.- En caso de injuria, falta o daño graves inferidos por el alimentista contra el que debe prestarlos;
-
-IV.- Cuando la necesidad de los alimentos depende de la conducta viciosa o de la falta de aplicación al trabajo del alimentista, mientras subsistan esas causas;
-
-V.- Si el alimentista, sin consentimiento del que debe dar los alimentos, abandona la casa de éste sin causas justificables.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 321.
 
-El derecho de recibir alimentos no es renunciable, ni puede ser objeto de transacción.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 21 DE MAYO DE 1975)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 322.
 
-Cuando el deudor alimentario no estuviere presente, o estándolo rehusare entregar lo necesario para los alimentos de los miembros de su familia con derecho a recibirlos, se hará responsable de las deudas que éstos contraigan para cubrir esa exigencia, pero sólo en la cuantía estrictamente necesaria para ese objeto y siempre que no se trate de gastos de lujo.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 21 DE MAYO DE 1975)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 323.
 
-El Cónyuge que se haya separado del otro, sigue obligado a cumplir con los gastos a que se refiere el artículo 164. En tal virtud, el que no haya dado lugar a ese hecho, podrá pedir al Juez de Primera Instancia de su residencia, que obligue al otro a que le ministre los gastos por el tiempo que dure la separación en la misma proporción en que lo venía haciendo hasta antes de aquella, así como también satisfaga los adeudos contraídos en los términos del artículo anterior. Si dicha proporción no se pudiera determinar, el Juez, según las circunstancias del caso, fijará la suma mensual correspondiente y dictará las medidas necesarias para asegurar su entrega y de lo que ha dejado de cubrir desde que se separó.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 16 DE OCTUBRE DE 1998)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO III
 
-De la Violencia Familiar.
-
-> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 1998)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 324.
 
-Los integrantes de la familia tienen derecho a que los demás miembros les respeten su integridad física y psíquica, con objeto de contribuir a su sano desarrollo para su plena incorporación y participación en el núcleo social. Al efecto, contará con la asistencia y protección de las instituciones públicas de acuerdo con las leyes.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 1998)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 324 Bis.
 
-Los integrantes de la familia están obligados a evitar conductas que generen violencia familiar.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-Por violencia familiar se considera todo acto de poder u omisión que tenga por efecto dominar, someter, controlar o agredir de manera física, verbal, psico-emocional, sexual, económica o patrimonial a cualquier miembro de la familia, con quien tenga parentesco consanguíneo o civil, tenga o haya tenido parentesco por afinidad, por vínculo de matrimonio, concubinato o relación de hecho y que cause daño o sufrimiento a la víctima, independientemente de que pueda producir o no lesiones.
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ## TITULO VII.
 
-De la Paternidad y Filiación.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO I.
 
-De los Hijos del Matrimonio.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 325.
 
-Se presumen hijos de los cónyuges:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-I.- Los hijos nacidos después de ciento ochenta días contados desde la celebración del matrimonio;
-
-II.- Los hijos nacidos dentro de los trescientos días siguientes a la disolución del matrimonio, ya provenga ésta de nulidad del contrato, de muerte del marido o de divorcio. Este término se contará en los casos de divorcio o nulidad, desde que de hecho quedaron separados los cónyuges por orden judicial.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 326.
 
-Contra esta presunción no se admite otra prueba que la de haber sido físicamente imposible al marido tener acceso carnal con su mujer, en los primeros ciento veinte días de los trescientos que han precedido al nacimiento.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 327.
 
-El marido no podrá desconocer a los hijos alegando adulterio de la madre, aunque ésta declare que no son hijos de su esposo; a no ser que el nacimiento se le haya ocultado o que demuestre que durante los primeros ciento veinte días de los trescientos que precedieron al nacimiento, no tuvo acceso carnal con su mujer.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 328.
 
-El marido podrá desconocer al hijo nacido después de trescientos días contados desde que, judicialmente y de hecho, tuvo lugar la separación provisional prescrita para los casos de divorcio y nulidad; pero la mujer, el hijo o el tutor de éste, pueden sostener en tales casos que el marido es el padre.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 329.
 
-El marido no podrá desconocer que es padre del hijo nacido dentro de los ciento ochenta días siguientes a la celebración del matrimonio:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-I.- Si se probare que supo antes de casarse el embarazo de su futura consorte; para esto se requiere un principio de prueba por escrito;
-
-II.- Si concurrió al levantamiento del acta de nacimiento y ésta fue firmada por él, o contiene su declaración de no saber firmar;
-
-III.- Si ha reconocido expresamente por suyo al hijo de su mujer;
-
-IV.- Si el hijo no nació capaz de vivir.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 330.
 
-Las cuestiones relativas a la paternidad del hijo nacido después de trescientos días de la disolución del matrimonio, podrán promoverse en cualquier tiempo por la persona a quien perjudique la filiación.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 331.
 
-En todos los casos en que el marido tenga derecho de contradecir que el nacido es hijo de su matrimonio, deberá deducir su acción dentro de sesenta días, contados desde el nacimiento, si está presente; desde el día en que llegó al lugar, si estuvo ausente; o desde el día que descubrió el fraude, si se le ocultó el nacimiento.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 332.
 
-Si el marido está bajo tutela por alguna de las causas referidas en la fracción II del artículo 451, este derecho puede ser ejecutado por su tutor. Si éste no lo ejercitare, podrá hacerlo el marido después de haber salido de la tutela, pero siempre en el plazo antes designado, que se contará desde el día en que legalmente se declare haber cesado el impedimento.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 333.
 
-Cuando el marido, teniendo o no tutor, ha muerto sin recobrar la razón, los herederos pueden contradecir la paternidad en los casos en que podría hacerlo el padre.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 334.
 
-Los herederos del marido, excepto en el caso del artículo anterior, no podrán contradecir la paternidad de un hijo nacido dentro de los ciento ochenta días de la celebración del matrimonio, cuando el esposo no haya comenzado esta demanda. En los demás casos, si el esposo ha muerto sin hacer la reclamación dentro del término hábil, los herederos tendrán para proponer la demanda, sesenta días contados desde aquel en que el hijo haya sido puesto en posesión de los bienes del padre, o desde que los herederos se vean turbados por el hijo en la posesión de la herencia.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 335.
 
-Si la viuda, la divorciada, o aquella cuyo matrimonio fuere declarado nulo, contrajere nuevas nupcias dentro del período prohibido por el artículo 158, la filiación del hijo que naciere después de celebrado el nuevo matrimonio, se establecerá conforme a las reglas siguientes:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-I.- Se presume que el hijo es del primer matrimonio si nace dentro de los trescientos días siguientes a la disolución del primer matrimonio y antes de ciento ochenta días de la celebración del segundo;
-
-II.- Se presume que el hijo es del segundo marido, si nace después de ciento ochenta días de la celebración del segundo matrimonio, aunque el nacimiento tenga lugar dentro de los trescientos días posteriores a la disolución del primer matrimonio.
-
-El que negare las presunciones establecidas en las dos fracciones que preceden, deberá probar plenamente la imposibilidad física de que el hijo sea del marido a quien se atribuye;
-
-III.- El hijo se presume nacido fuera del matrimonio si nace antes de ciento ochenta días de la celebración del segundo matrimonio y después de trescientos días de la disolución del primero.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 336.
 
-El desconocimiento de un hijo, de parte del marido o de sus herederos, se hará por demanda en forma ante el Juez competente. Todo desconocimiento practicado de otra manera es nulo.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 337.
 
-En el juicio de contradicción de la paternidad serán oídos la madre y el hijo, a quien, si fuere menor, se proveerá de un tutor interino.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 338.
 
-Para los efectos legales, sólo se reputa nacido el feto que, desprendido enteramente del seno materno, vive veinticuatro horas o es presentado vivo al Registro Civil. Faltando alguna de estas circunstancias, nunca ni nadie podrá entablar demanda sobre la paternidad.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 339.
 
-No puede haber sobre la filiación, ni transacción, ni compromiso en árbitros.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 340.
 
-Puede haber transacción o arbitramento sobre los derechos pecuniarios que de la filiación legalmente adquirida pudieran deducirse, sin que las concesiones que se hagan al que se dice hijo, importen la adquisición de estado de hijo de matrimonio.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO II.
 
-De las Pruebas de Filiación de los Hijos Nacidos de Matrimonio.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 341.
 
-La filiación de los hijos nacidos de matrimonio se prueba con la partida de su nacimiento y con el acta de matrimonio de sus padres.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 1971)</small>
-
-Si en el acta de Nacimiento consta el estado matrimonial de los padres en los términos del segundo párrafo del artículo 59, bastará este documento.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 342.
 
-A falta de actas o si éstas fueren defectuosas, incompletas o falsas, se probará con la posesión constante de estado de hijo nacido de matrimonio. En defecto de esta posesión son admisibles para demostrar la filiación todos los medios de prueba que la ley autoriza, pero la testimonial no es admisible si no hubiere un principio de prueba por escrito o indicios o presunciones resultantes de hechos ciertos que se consideren bastante graves para determinar su admisión.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-Si uno sólo de los registros faltare o estuviere inutilizado y existe el duplicado, de éste deberá tomarse la prueba, sin admitirla de otra clase.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 343.
 
-Si hubiere hijos nacidos de dos personas que han vivido públicamente como marido y mujer, y ambos hubieren fallecido, o por ausencia o enfermedad les fuere imposible manifestar el lugar en que se casaron, no podrá disputarse a esos hijos haber nacido de matrimonio por solo la falta de presentación del acta del enlace de sus padres, siempre que se pruebe que tienen la posesión de estado de hijos de ellos, o que por los medios de prueba que autoriza el artículo anterior, se demuestre la filiación y no esté contradicha por el acta de nacimiento.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 344.
 
-Si un individuo ha sido reconocido constantemente como hijo de matrimonio, por la familia del marido y en la sociedad, quedará probada la posesión de estado de hijo de matrimonio si además concurre alguna de las circunstancias siguientes:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-I.- Que el hijo haya usado constantemente el apellido del que pretende que es su padre, con anuencia de éste;
-
-II.- Que el padre lo haya tratado como a hijo nacido de su matrimonio, proveyendo a su subsistencia, educación y establecimiento;
-
-III.- Que el presunto padre tenga la edad exigida por el artículo 362.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 345.
 
-Declarado nulo un matrimonio, haya habido buena o mala fe en los cónyuges al celebrarlo, los hijos tenidos durante él se consideran como hijos de matrimonio.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 346.
 
-No basta el dicho de la madre para excluir de la paternidad al marido. Mientras que éste viva, únicamente él podrá reclamar contra la filiación del hijo concebido durante el matrimonio.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 347.
 
-Las acciones civiles que se intenten contra el hijo por los bienes que ha adquirido durante su estado de hijo nacido de matrimonio, aunque después resulte no serlo, se sujetarán a las reglas comunes para la prescripción.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 348.
 
-La acción que compete al hijo para reclamar su estado, es imprescriptible para él y sus descendientes.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 349.
 
-Los demás herederos del hijo podrán intentar la acción de que trata el artículo anterior:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADA, P.O. 9 DE ABRIL DE 1970)</small>
-
-I.- Si el hijo ha muerto antes de cumplir 22 años;
-
-> <small>(REFORMADA, P.O. 9 DE ABRIL DE 1970)</small>
-
-II.- Si el hijo cayó en demencia antes de cumplir los 22 años y murió después en el mismo estado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 350.
 
-Los herederos podrán continuar la acción intentada por el hijo, a no ser que éste se hubiere desistido formalmente de ella o nada hubiere promovido judicialmente durante un año contado desde la última diligencia. También podrán contestar toda demanda que tenga por objeto disputarle la condición de hijo nacido de matrimonio.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-Siempre que la presunción de la legitimidad del hijo fuere impugnada en juicio, durante su menor edad, el Juez nombrará un tutor interino que le defienda. En dicho juicio será oída la madre.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 351.
 
-Los acreedores, legatarios y donatarios tendrán los mismos derechos que a los herederos conceden los artículos 349 y 350, si el hijo no dejó bienes suficientes para pagarles.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 352.
 
-Las acciones de que hablan los tres artículos que preceden, prescriben a los cuatro años, contados desde el fallecimiento del hijo.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 353.
 
-La posesión de hijo nacido de matrimonio no puede perderse sino por sentencia ejecutoriada, la cual admitirá los recursos que den las leyes, en los juicios de mayor interés.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 354.
 
-Si el que está en posesión de los derechos de padre o de hijo fuere despojado de ellos o perturbado en su ejercicio, sin que preceda sentencia por la cual deba perderlos, podrá usar de las acciones que establecen las leyes para que se le ampare o restituya en la posesión.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO III.
 
-De la Legitimación.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 355.
 
-El matrimonio subsecuente de los padres hace que se tengan como nacidos de matrimonio a los hijos habidos antes de su celebración.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 356.
 
-Para que el hijo goce del derecho que le concede el artículo que precede, los padres deben reconocerlo expresamente antes de la celebración del matrimonio, en el acto mismo de celebrarlo, o durante él, haciendo en todo caso el reconocimiento ambos padres, junta o separadamente.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 357.
 
-Si el hijo fue reconocido por el padre y en su acta de nacimiento consta el nombre de la madre, no se necesita reconocimiento expreso de ésta para que la legitimación surta sus efectos legales. Tampoco se necesita reconocimiento del padre, si ya se expresó el nombre de éste en el acta de nacimiento.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 358.
 
-Aunque el reconocimiento sea posterior, los hijos adquieren todos sus derechos desde el día en que se celebró el matrimonio de sus padres.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 359.
 
-Pueden gozar también de ese derecho que les concede el artículo 355, los hijos que ya hayan fallecido al celebrarse el matrimonio de sus padres, si dejaron descendientes.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 360.
 
-Pueden gozar también de ese derecho los hijos no nacidos, si el padre al casarse declara que reconoce al hijo de quien la mujer está en cinta (sic), o que lo reconoce si aquella estuviere en cinta (sic).
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO IV.
 
-Del Reconocimiento de los Hijos Nacidos Fuera del Matrimonio.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 361.
 
-La filiación de los hijos nacidos fuera del matrimonio resulta, con relación a la madre, del sólo hecho del nacimiento. Respecto del padre sólo se establece por el reconocimiento voluntario o por una sentencia que declare la paternidad.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 362.
 
-Pueden reconocer a sus hijos, los que tengan la edad exigida para contraer matrimonio, más la edad del hijo que va a ser reconocido.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 363.
 
-El menor de edad no puede reconocer a un hijo sin el consentimiento del que o de los que ejerzan sobre él la patria potestad, o de la persona bajo cuya tutela se encuentre, o a falta de ésta, sin la autorización judicial.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 364.
 
-No obstante, el reconocimiento hecho por un menor es revocable si prueba que sufrió engaño al hacerlo, pudiendo intentar la revocación hasta cuatro años después de la mayor edad.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 365.
 
-Puede reconocerse al hijo que no ha nacido y al que ha muerto si ha dejado descendencia.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 366.
 
-Los padres pueden reconocer a su hijo conjunta o separadamente.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 367.
 
-El reconocimiento hecho por uno de los padres, produce efectos respecto de él y no respecto del otro progenitor.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 368.
 
-El reconocimiento no es revocable por el que lo hizo, y si se ha hecho en testamento, cuando éste se revoque, no se tiene por revocado el reconocimiento.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 369.
 
-El reconocimiento puede ser contradicho por un tercero interesado. El heredero que resulte perjudicado puede contradecir el reconocimiento dentro del año siguiente a la muerte del que lo hizo.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 370.
 
-El reconocimiento de un hijo nacido fuera de matrimonio, deberá hacerse de alguno de los modos siguientes:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-I.- En la partida de nacimiento, ante el Oficial del Registro Civil;
-
-II.- Por acta especial ante el mismo Oficial;
-
-III.- Por escritura pública;
-
-IV.- Por testamento;
-
-V.- Por confesión judicial directa y expresa.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 371.
 
-Cuando el padre o la madre reconozcan separadamente a un hijo, no podrán revelar en el acto del reconocimiento el nombre de la persona con quien fue habido, ni exponer ninguna circunstancia por donde aquélla pueda ser identificada. Las palabras que contengan la revelación, se testarán de oficio, de modo que queden absolutamente ilegibles.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 372.
 
-El Oficial del Registro Civil, el Juez de Primera Instancia en su caso y el Notario que consientan en la violación del artículo que precede, serán castigados con la pena de destitución de empleo e inhabilitación para desempeñar otro, por un término que no baje de dos ni exceda de cinco años.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 21 DE MAYO DE 1975)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 373.
 
-El cónyuge podrá reconocer al hijo habido antes de su matrimonio sin el consentimiento del otro; pudiendo además el marido reconocer al hijo habido durante el mismo; pero en uno y otro caso, no tendrán derecho a llevarlo a vivir a la habitación conyugal si no es con la anuencia del consorte.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
 ###### Artículo 374.
 
 (DEROGADO, P.O. 21 DE MAYO DE 1975)
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
 ###### Artículo 375.
 
-El hijo de una mujer casada no podrá ser reconocido como hijo por otro hombre distinto del marido, sino cuando éste lo haya desconocido, y por sentencia ejecutoria se haya declarado que no es hijo suyo.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 376.
 
-El hijo mayor de edad no puede ser reconocido sin su consentimiento, ni el menor sin el de su tutor si lo tiene, o del tutor que el Juez le nombrará especialmente para el caso.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 377.
 
-Si el hijo reconocido es menor, puede reclamar contra el reconocimiento cuando llegue a la mayor edad.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 378.
 
-El término para deducir esta acción será de dos años, que comenzará a correr desde que el hijo sea mayor de edad, si antes de serlo tuvo noticia del reconocimiento; y si no la tenía, desde la fecha en que la adquirió.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 379.
 
-La mujer que cuida o ha cuidado de la lactancia de un niño, a quien le ha dado su nombre o permitido que lo lleve; que públicamente lo ha presentado como hijo suyo y ha proveído a su educación y subsistencia, podrá contradecir el reconocimiento que un hombre haya hecho o pretenda hacer de ese niño. En este caso, no se le podrá separar de su lado, a menos que consienta en entregarlo o que sea obligada a hacer la entrega por sentencia ejecutoriada. El término para contradecir el reconocimiento será el de sesenta días, contados desde que tuvo conocimiento de él.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 380.
 
-Cuando la madre contradiga el reconocimiento hecho sin su consentimiento, quedará aquel sin efecto, y la cuestión relativa a la paternidud (sic) se resolverá en el juicio contradictorio correspondiente.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 381.
 
-Cuando el padre y la madre que no vivan juntos reconozcan al hijo en el mismo acto, convendrán cuál de los dos ejercerá la guarda y custodia; y en caso de que no lo hicieren, el Juez de Primera Instancia del lugar, oyendo a los padres y al Ministerio Público, resolverá lo que creyere más conveniente a los intereses del menor.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 382.
 
-En caso de que el reconocimiento se efectúe sucesivamente por los padres que no viven juntos, ejercerá la guarda y custodia el que primero hubiere reconocido, salvo que se conviniere otra cosa entre los padres, y siempre que el Juez de Primera Instancia del lugar no creyere necesario modificar el convenio por causa grave, con audiencia de los interesados y del Ministerio Público.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 383.
 
-La investigación de la paternidad de los hijos nacidos fuera de matrimonio, está permitida:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-I.- En los casos de rapto, estupro o violación, cuando la época del delito coincida con la de la concepción;
-
-II.- Cuando el hijo se encuentre en posesión de estado de hijo del presunto padre;
-
-III.- Cuando el hijo haya sido concebido durante el tiempo en que la madre habitaba bajo el mismo techo con el pretendido padre, viviendo maritalmente;
-
-IV.- Cuando el hijo tenga a su favor un principio de prueba contra del pretendido padre.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 384.
 
-La posesión de estado, para los efectos de la fracción II del artículo 383, se justificará demostrando por los medios ordinarios de prueba, que el hijo ha sido tratado por el presunto padre, o por su familia, como hijo del primero, y que éste ha proveído a su subsistencia, educación y establecimiento.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 21 DE ENERO DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 385.
 
-Se presumen hijos de la concubina y el concubino:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-I. Los nacidos dentro del concubinato; y
-
-II. Los nacidos dentro de los trescientos días siguientes en que terminó la cohabitación entre el concubinario y la concubina.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 386.
 
-Está permitido al hijo nacido fuera de matrimonio y a sus descendientes, investigar la maternidad, la cual puede probarse por cualquiera de los medios ordinarios; pero la indagación no será permitida cuando tenga por objeto atribuir el hijo a una mujer casada.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 387.
 
-No obstante lo dispuesto en la parte final del artículo anterior, el hijo podrá investigar la maternidad si ésta se deduce de una sentencia civil o criminal.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 388.
 
-El hecho de dar alimentos no constituye por sí solo prueba, ni aún presunción de paternidad o maternidad. Tampoco puede alegarse como razón para investigar éstas.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 389.
 
-Las acciones de investigación de paternidad o maternidad, sólo pueden intentarse en vida de los padres.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-Si los padres hubieren fallecido durante la menor edad de los hijos, tienen éstos derecho de intentar la acción antes de que se cumplan cuatro años de su mayor edad.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 390.
 
-El hijo reconocido por el padre, por la madre, o por ambos, tiene derecho:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-I.- A llevar el apellido del que lo reconoce;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-II.- A ser alimentado por éste;
-
-III.- A percibir la porción hereditaria y los alimentos que fije la ley.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO V.
-
-De la Adopción.
 
 > <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 2001)</small>
 
@@ -2489,113 +2589,95 @@ De la Adopción.
 
 Disposiciones Generales.
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2001)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 391.
 
-Los mayores de veinticinco años, libres de matrimonio, en pleno ejercicio de sus derechos, pueden adoptar a un menor o a un incapacitado, aun cuando sea mayor de edad, siempre que el adoptante tenga diecisiete años más que el adoptado y que además acredite lo siguiente:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-I.- Que tiene medios bastantes para proveer a la subsistencia, la educación y el cuidado de la persona que trata de adoptarse, como hijo propio, según las circunstancias de la persona que trata de adoptar;
-
-II. Que la adopción es benéfica para la persona que trata de adoptarse, atendiendo el interés superior de la misma, y
-
-III.- Que el adoptante es persona de buenas costumbres, apta y adecuada para adoptar.
-
-Toda resolución o medida que se dicte por los tribunales en relación con las niñas o niños adoptados, se harán tomando en cuenta el interés superior de éstos.
-
-> <small>(REFORMADO, P.O. 21 DE ENERO DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 392.
 
-Los cónyuges o concubinas podrán adoptar, cuando los dos estén conformes en considerar al adoptado como hijo y aunque sólo uno de ellos cumpla el requisito de la edad a que se refiere el artículo anterior, pero siempre y cuando la diferencia de edad entre cualquiera de los adoptantes y adoptado sea de diecisiete años cuando menos. Se deberán acreditar además los requisitos previstos en las fracciones del artículo anterior.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1975)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 393.
 
-Nadie puede ser adoptado por más de una persona, salvo en el caso previsto en el artículo anterior.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 394.
 
-El tutor no puede adoptar al pupilo, sino hasta después de que hayan sido definitivamente aprobadas las cuentas de tutela.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2001)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 395.
 
-El menor o la persona con incapacidad que haya sido adoptado bajo la forma de adopción simple, podrá impugnar la adopción dentro del año siguiente a la mayoría de edad o a la fecha en que haya desaparecido la incapacidad.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 396.
 
-El que adopta tendrá respecto de la persona y bienes del adoptado, los mismos derechos y obligaciones que tienen los padres respecto de la persona y bienes de los hijos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2001)</small>
-
-El adoptante dará nombre y sus apellidos al adoptado, salvo que por circunstancias específicas, en el caso de la adopción simple, no se estime conveniente.
-
-> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 396 Bis.
 
-Por custodia familiar preadoptiva se entiende al período previo de convivencia del menor de edad con su previsible familia adoptiva, con el fin de que la niña, niño o adolescente viva lo más pronto posible en un ambiente familiar y, para comprobar que las relaciones que se establezcan entre ellos pronostiquen un buen desarrollo de los lazos familiares.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-La casa de asistencia social pública o privada que tenga acogido a un menor de edad por su estado de desamparo más de cuatro meses y ha elevado la solicitud judicial de pérdida de la patria potestad o de adopción, lo podrá dar en custodia familiar preadoptiva, que se formalizará ante el juez a petición de quien acogió al infante, siempre que los acogedores reúnan los requisitos necesarios para adoptar, excepto el consentimiento de los que ejercen la patria potestad; hayan sido seleccionados mirando el interés superior de la niña, niño o adolescente.
-
-Cuando las personas que ejercen la patria potestad de una niña, niño o adolescente, lo entreguen voluntariamente a una institución social pública o privada, o no se conozca el nombre de sus progenitores no se requerirá que transcurra el tiempo señalado en el párrafo anterior.
-
-La casa de asistencia pública o privada podrá formalizar, asimismo, una custodia familiar preadoptiva cuando considere, con anterioridad a la presentación de la propuesta de adopción, que fuera necesario establecer un período de adaptación del menor a la familia. Este periodo será lo más breve posible y, en todo caso, no podrá exceder del plazo de un año.
-
-El desarrollo de la custodia familiar preadoptiva será vigilado por el Ministerio Público, y en caso de anomalías las pondrá del conocimiento al Juez para que dicte las medidas de protección necesarias; lo relativo a administración bienes, si los hubiera, se aplicarán las reglas de la tutela.
-
-> <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 396 Ter.
 
-La custodia familiar preadoptiva cesa por resolución judicial, por, haber concluido el plazo señalado por el Juez o, por haberse consumado la adopción.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 397.
 
-El adoptado tendrá para con la persona o personas que lo adopten los mismos derechos y obligaciones que tiene un hijo.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 398.
 
-Para que la adopción pueda tener lugar deberán consentir en ella en sus respectivos casos:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-I.- El que ejerce la patria potestad sobre el menor que se trata de adoptar;
-
-II.- El tutor del que se va a adoptar;
-
-III.- Las personas que hayan acogido al que se pretende adoptar y lo traten como hijo, cuando no hubiere quien ejerza la patria potestad sobre él ni tenga tutor;
-
-IV.- El Ministerio Público del lugar del domicilio del adoptado, cuando éste no tenga padres conocidos, ni tutor, ni persona que ostensiblemente le imparta su protección y lo haya acogido como hijo.
-
-Si el menor que se va a adoptar tiene más de catorce años, también se necesita su consentimiento para la adopción.
-
-> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 2001)</small>
-
-V. Las instituciones de asistencia social, públicas o privadas, que hubieren acogido al menor o al incapacitado que se pretenda adoptar.
-
-> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2001)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 398 Bis.
 
-Si la persona que se va a adoptar tiene más de doce años, también se necesita su consentimiento para la adopción. En el caso de las personas incapaces, será necesario su consentimiento, cuando fuese posible la expresión indubitable de su voluntad.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 399.
 
-Si el tutor o el Ministerio Público, sin causa justificada, no consienten en la adopción, podrá suplir el consentimiento el Presidente Municipal del lugar en que resida el incapacitado, cuando encontrare que la adopción es notoriamente conveniente para los intereses morales y materiales de éste.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 400.
 
-El procedimiento para hacer la adopción será fijado en el Código de Procedimientos Civiles.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 401.
 
-Tan luego como cause ejecutoria la resolución judicial que se dicte autorizando una adopción, quedará ésta consumada.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 402.
 
-El Juez que apruebe la adopción remitirá copia de las diligencias respectivas al Oficial del Registro Civil del lugar para que levante el acta correspondiente.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
 > <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 2001)</small>
 
@@ -2603,57 +2685,53 @@ El Juez que apruebe la adopción remitirá copia de las diligencias respectivas 
 
 De la Adopción Simple.
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2001)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 403.
 
-Los derechos y obligaciones que nacen de la adopción simple, así como el parentesco que de ella resulte se limitan al adoptante y al adoptado, excepto en lo relativo a los impedimentos de matrimonio, respecto de los cuales se observará lo que dispone el artículo 157.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2001)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 404.
 
-Los derechos y obligaciones que resultan del parentesco natural no se extinguen por la adopción simple, excepto la patria potestad, que será transferida al adoptante, salvo que, en su caso, esté casado con alguno de los progenitores del adoptado porque entonces se ejercerá por ambos cónyuges.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2001)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 405.
 
-La adopción simple podrá convertirse en plena, debiendo obtenerse el consentimiento del adoptado, si éste hubiere cumplido doce años. Si fuere menor de esa edad se requiere el consentimiento de quien hubiese consentido en la adopción, siempre y cuando sea posible obtenerlo; de lo contrario el juez deberá resolver atendiendo al interés superior del menor.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE FEBRERO DE 2001)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 406.
 
-La adopción simple puede revocarse:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-I.- Cuando las dos partes convengan en ello, siempre que el adoptado sea mayor de edad. Si no lo fuere, es necesario que consientan en la revocación las personas que prestaron su consentimiento, conforme al artículo 398;
-
-II.- Por ingratitud del adoptado.
-
-III.- (DEROGADO, P.O. 2 DE FEBRERO DE 2001)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 407.
 
-Para los efectos de la fracción II del artículo anterior, se considera ingrato al adoptado:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-I.- Si comete algún delito que merezca una pena mayor de un año de prisión contra la persona, la honra o los bienes del adoptante, de su cónyuge, de sus ascendientes o descendientes;
-
-II.- Si el adoptado acusa judicialmente al adoptante de algún delito grave que pudiera ser perseguido de oficio, aunque lo pruebe, a no ser que hubiere sido cometido contra el mismo adoptado, su cónyuge, sus ascendientes o descendientes;
-
-III.- Si el adoptado rehúsa dar alimentos al adoptante que ha caído en pobreza.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 408.
 
-En el primer caso del artículo 406, el Juez decretará que la adopción queda revocada si convencido de la espontaneidad con que se solicitó la revocación, encuentra que ésta es conveniente para los intereses morales y materiales del adoptado.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 409.
 
-El decreto del Juez deja sin efecto la adopción y restituye las cosas al estado que guardaban antes de efectuarse ésta.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 410.
 
-En el segundo caso del artículo 406 la adopción deja de producir efectos desde que se comete el acto de ingratitud, aunque la resolución judicial que declare revocada la adopción sea posterior.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 2 DE FEBRERO DE 2001)</small>
 
@@ -2661,1429 +2739,1581 @@ En el segundo caso del artículo 406 la adopción deja de producir efectos desde
 
 De la Adopción Plena.
 
-> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2001)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 410 Bis.
 
-La adopción plena, es el vinculo jurídico y familiar que existe entre el adoptante y el adoptado semejante al hijo consanguíneo, para todos los efectos legales, incluyendo los impedimentos de matrimonio. El adoptado tiene en la familia del o los adoptantes los mismos derechos, deberes y obligaciones del hijo consanguíneo y debe llevar los apellidos del adoptante o adoptantes.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 21 DE ENERO DE 2009)</small>
-
-###### Artículo 410 Bis
-
-1.- La adopción plena es irrevocable y extingue la filiación preexistente entre el adoptado y sus progenitores y el parentesco con las familias de éstos, salvo para los impedimentos de matrimonio. En el supuesto de que el adoptante está casado o tenga una relación de concubinato con alguno de los progenitores del adoptado no se extinguirán los derechos, obligaciones y demás consecuencias jurídicas que resultan de la filiación consanguínea.
-
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 410 Bis
 
-2.- Para que la adopción plena pueda tener efectos, además de las personas a que se refiere el artículo 398 de este Código, deberá otorgar su consentimiento el padre o madre del menor que se pretenda adoptar, salvo que exista al respecto declaración judicial de abandono.
+1.- (DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2001)</small>
-
-###### Artículo 410 Bis
-
-3.- Tratándose de la adopción plena, el Registro Civil se abstendrá de proporcionar información sobre los acontecimientos de la familia de origen del adoptado, excepto en los casos siguientes y contando con autorización judicial.
-
-I.- Para efectos de impedimentos para contraer matrimonio; y
-
-II.- Cuando el adoptado desee conocer sus antecedentes familiares, siempre y cuando sea mayor de edad, si fuera persona menor de edad se requerirá petición de su representante legal.
-
-> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2001)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 410 Bis
 
-4.- No pueden adoptar mediante adopción plena, las personas que tengan vínculo de parentesco consanguíneo con el menor o incapaz.
+2.- (DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2001)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 410 Bis
 
-5.- La adopción internacional se sujetará a lo previsto en los tratados internacionales suscritos y ratificados por el Estado Mexicano y, en lo conducente, por las disposiciones de este Código.
+3.- (DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-En igualdad de circunstancias se dará preferencia en la adopción a mexicanos sobre extranjeros.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-Las adopciones internacionales siempre serán plenas.
+###### Artículo 410 Bis
+
+4.- (DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+###### Artículo 410 Bis
+
+5.- (DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 411.
 
-Las resoluciones que dicten los Jueces, aprobando la revocación, se comunicarán al Oficial del Registro Civil del lugar en que aquélla se hizo para que cancele el acta de adopción.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ## TITULO VIII.
 
-De la Patria Potestad.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO I.
 
-De los efectos de la Patria Potestad respecto de la persona de los hijos.
-
-> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 1998)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 412.
 
-En la relación entre ascendientes y descendientes debe imperar el respeto y la consideración mutuos, cualquiera que sea su estado, edad y condición.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 413.
 
-Los hijos menores de edad no emancipados, están bajo la patria potestad mientras exista alguno de los ascendientes que debe ejercerla conforme a la ley.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 414.
 
-La patria potestad se ejerce sobre la persona y bienes de los hijos. Su ejercicio queda sujeto en cuanto a la guarda y educación de los menores, a las modalidades que le impriman las leyes aplicables.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 1998)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 415.
 
-La patria potestad sobre los hijos se ejerce por los padres. Cuando por cualquier circunstancia deje de ejercerla alguno de ellos, corresponderá su ejercicio al otro.
-
-A falta de ambos padres o por cualquier otra circunstancia prevista en este Código, ejercerán la patria potestad sobre los menores, los ascendientes en segundo grado en el orden que determine el Juez de lo Familiar, tomando en cuenta las circunstancias del caso.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
 ###### Artículo 416.
 
 (DEROGADO, P.O. 16 DE OCTUBRE DE 1998)
 
-> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 1998)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 417.
 
-En caso de separación de los que ejercen la patria potestad, ambos deberán continuar con el cumplimiento de sus deberes y podrán convenir los términos de su ejercicio, particularmente en lo relativo a la guarda y custodia de los menores. En caso de desacuerdo, el Juez resolverá lo conducente oyendo al Ministerio Público, sin perjuicio de lo previsto en el artículo 94 del Código de Procedimientos Civiles para el Estado de Sinaloa.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-En este supuesto, con base en el interés superior del menor, éste quedará bajo los cuidados y atenciones de ellos. El otro estará obligado a colaborar en su alimentación y conservará los derechos de vigilancia y de convivencia con el menor, conforme a las modalidades previstas en el convenio o resolución judicial.
-
-> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 1998)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 418.
 
-Los que ejercen la patria potestad, aún cuando no tengan la custodia, tienen el derecho de convivencia con sus descendientes, salvo que exista peligro para éstos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-No podrán impedirse, sin justa causa, las relaciones personales entre el menor y sus parientes. En caso de oposición, a petición de cualquiera de ellos, el Juez resolverá lo conducente en atención al interés superior del menor. Sólo por mandato judicial podrá limitarse, suspenderse o perderse el derecho de convivencia a que se refiere el párrafo anterior, así como en los casos de suspensión o pérdida de la patria potestad, conforme a las modalidades que para su ejercicio se establezca en el convenio o resolución judicial.
-
-> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 1998)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 419.
 
-Las obligaciones, facultades y restricciones establecidas para los tutores, se aplicarán al pariente que por cualquier circunstancia tenga la custodia de un menor. Quien conserva la patria potestad tendrá la obligación de contribuir con el pariente que custodia al menor en todos sus deberes, conservando sus derechos de convivencia y vigilancia.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-La anterior custodia podrá terminar por decisión del pariente que la realiza, por quien o quienes ejerzan la patria potestad o por resolución judicial.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 420.
 
-La patria potestad sobre el hijo adoptivo, la ejercerán únicamente las personas que lo adopten.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
 ###### Artículo 421.
 
 (DEROGADO, P.O. 21 DE MAYO DE 1975)
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
 ###### Artículo 422.
 
-Mientras estuviere el hijo en la patria potestad, no podrá dejar la casa de los que la ejercen, sin permiso de ellos o decreto de la autoridad competente.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 1998)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 423.
 
-A las personas que tienen al menor bajo su patria potestad o custodia, incumbe la obligación de educarlo convenientemente.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-Cuando llegue a conocimiento de los Consejos Locales de Tutela o de cualquier autoridad administrativa que dichas personas no cumplen con la obligación referida, lo avisarán al Ministerio Público para que promueva lo que corresponda.
-
-> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 1998)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 424.
 
-Para los efectos del artículo anterior, quienes ejerzan la patria potestad o tengan menores bajo su custodia, tienen la facultad de corregirlos y la obligación de observar una conducta que sirva a éstos de buen ejemplo.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-La facultad de corregir no implica infligir al menor actos de fuerza que atenten contra su integridad física o psíquica en los términos de lo dispuesto por el artículo 324 Bis de este Código.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 425.
 
-El que está sujeto a la patria potestad no puede comparecer en juicio, ni contraer obligación alguna, sin expreso consentimiento del que o de los que ejerzan aquel derecho.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-En caso de irracional disenso, resolverá el Juez.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO II.
 
-De los efectos de la Patria Potestad respecto de los bienes del hijo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 426.
 
-Los que ejercen la patria potestad son legítimos representantes de los que están bajo de ella, y tienen la administración legal de los bienes que les pertenecen, conforme a las prescripciones de este Código.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 21 DE MAYO DE 1975)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 427.
 
-Cuando la patria potestad se ejerza a la vez por el padre y por la madre, o por el abuelo y la abuela, o por los adoptantes, el administrador de los bienes será nombrado por mutuo acuerdo; pero el designado consultará en todos los negocios a su consorte, y requerirá su consentimiento expreso para los actos más importantes de la administración.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 428.
 
-La persona que ejerza la patria potestad representará también a los hijos en juicio; pero no podrá celebrar ningún arreglo para terminarlo, si no es con el consentimiento expreso de su consorte, y con la autorización judicial cuando la ley lo requiera expresamente.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 429.
 
-Los bienes del hijo, mientras esté en la patria potestad, se dividen en dos clases:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-I.- Bienes que adquiera por su trabajo;
-
-II.- Bienes que adquiera por cualquiera otro título.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 430.
 
-Los bienes de la primera clase pertenecen en propiedad, administración y usufructo al hijo.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 431.
 
-En los bienes de la segunda clase, la propiedad y la mitad del usufructo pertenecen al hijo; la administración y la otra mitad del usufructo corresponde a las personas que ejerzan la patria potestad. Sin embargo, si los hijos adquieren bienes por herencia, legado o donación y el testador o donante ha dispuesto que el usufructo pertenezca al hijo o que se destine a un fin determinado, se estará a lo dispuesto.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 432.
 
-Los padres pueden renunciar su derecho a la mitad del usufructo, haciendo constar su renuncia por escrito o de cualquier otro modo que no deje lugar a duda.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 433.
 
-La renuncia del usufructo hecha en favor del hijo, se considera como donación.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 434.
 
-Los réditos y rentas que se hayan vencido antes de que los padres, abuelos o adoptantes entren en posesión de los bienes cuya propiedad corresponda al hijo, pertenecen a éste, y en ningún caso serán frutos de que deba gozar la persona que ejerza la patria potestad.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 435.
 
-El usufructo de los bienes concedido a las personas que ejerzan la patria potestad, lleva consigo las obligaciones que expresa el Capítulo Segundo del Título VI, y además las impuestas a los usufructuarios, con excepción de la obligación de dar fianza, fuera de los casos siguientes:
-
-I.- Cuando los que ejerzan la patria potestad han sido declarados en quiebra, o estén concursados;
-
-II.- Cuando contraigan ulteriores nupcias;
-
-III.- Cuando su administración sea notoriamente ruinosa para los hijos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
 ###### Artículo 436.
 
 (DEROGADO, P.O. 21 DE MAYO DE 1975)
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
 ###### Artículo 437.
 
-Los que ejerzan la patria potestad, no pueden enajenar ni gravar de ningún modo los bienes inmuebles ni los muebles preciosos que correspondan al hijo, ni contraer deudas que obliguen a éste, sino por causa de absoluta necesidad o de evidente beneficio y previa la autorización del Juez competente.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-Tampoco podrán celebrar contratos de arrendamiento por más de cinco años, ni recibir la renta anticipada por más de dos años; vender valores comerciales, industriales, títulos de rentas, acciones, frutos y ganados, por menor valor del que se cotice en la plaza el día de la venta; hacer donación de los bienes de los hijos o remisión voluntaria de los derechos de éstos; ni dar fianza en representación de los hijos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 438.
 
-Siempre que el Juez conceda licencia a los que ejercen la patria potestad, para enajenar un bien inmueble o un mueble precioso perteneciente al menor, tomará las medidas necesarias para hacer que el producto de la venta se dedique al objeto a que se destinó, y para que el resto se invierta en la adquisición de un inmueble o se imponga con segunda hipoteca en favor del menor.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-Al efecto, el precio de la venta se depositará en una institución de crédito, y la persona que ejerce la patria potestad no podrá disponer de él, sin orden judicial.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 439.
 
-El derecho de usufructo concedido a las personas que ejercen la patria potestad, se extingue:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADA, P.O. 9 DE ABRIL DE 1970)</small>
-
-I.- Por la emancipación derivada del matrimonio o la mayor edad los hijos;
-
-II.- Por la pérdida de la patria potestad;
-
-III.- Por renuncia.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 440.
 
-Las personas que ejercen la patria potestad tienen obligación de dar cuenta de la administración de los bienes de los hijos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 441.
 
-En todos los casos en que las personas que ejercen la patria potestad tienen un interés opuesto al de los hijos, serán éstos representados, en juicio y fuera de él, por un tutor nombrado por el Juez para cada caso.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 442.
 
-Los Jueces tienen facultad de tomar las medidas necesarias para impedir que, por la mala administración de quienes ejercen la patria potestad, los bienes del hijo se derrochen o se disminuyan.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-Estas medidas se tomarán a instancias de las personas interesadas, del menor cuando hubiere cumplido catorce años, o del Ministerio Público en todo caso.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 443.
 
-Las personas que ejerzan la patria potestad deben entregar a sus hijos, luego que éstos se emancipen o lleguen a la mayor edad, todos los bienes y frutos que les pertenecen.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO III.
 
-De los modos de acabarse y suspenderse la Patria Potestad.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 444.
 
-La patria potestad se acaba:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-I.- Con la muerte del que la ejerce, si no hay otra persona en quien recaiga;
-
-> <small>(REFORMADA, P.O. 9 DE ABRIL DE 1970)</small>
-
-II.- Con la emancipación derivada del matrimonio.
-
-III.- Por la mayor edad del hijo.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE OCTUBRE DE 1998)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 445.
 
-La patria potestad se pierde por resolución judicial:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 1998)</small>
-
-I.- Cuando el que la ejerce sea condenado expresamente a la pérdida de ese derecho;
-
-II.- En los casos de divorcio, teniendo en cuenta lo que dispone el artículo 283;
-
-> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 1998)</small>
-
-III.- Cuando el que la ejerce incurra en conducta de violencia familiar previstas en el artículo 324 Bis de este Código, en contra de las personas sobre las cuales la ejerza;
-
-> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
-
-IV.- Par la exposición que el padre a la madre hiciere de sus hijos, a porque los dejen abandonados par más de tres meses. Cuando el hijo se encuentre acogido en una institución de asistencia social, sea pública p privada, bastará que hayan transcurrido más de treinta días hábiles y que sin causa justificada no acuda a visitarlo;
-
-> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
-
-V.- Cuando el que la ejerza sea condenado par la comisión de un delito doloso en el que la víctima sea el menor de edad;
-
-> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 1998)</small>
-
-VI.- Cuando el que la ejerza sea condenado dos o más veces por delito grave;
-
-> <small>(ADICIONADA, P.O. 8 DE FEBRERO DE 2010)</small>
-
-VII.- Cuando se explote al menor de edad obligándolo a realizar cualquier acto con el fin de lucrar o de recibir algún otro beneficio;
-
-> <small>(ADICIONADA, P.O. 8 DE FEBRERO DE 2010)</small>
-
-VIII.- Cuando se incumpla con el deber irrenunciable de otorgar alimentos a los hijos por más de tres meses sin causa justificable, considerando el interés superior del niño para lograr un desarrollo pleno;
-
-> <small>(ADICIONADA, P.O. 8 DE FEBRERO DE 2010)</small>
-
-IX.- En los casos que por ministerio de ley un menor de edad que por dos o más ocasiones haya tenido que ser ingresado nuevamente a casa cuna, por la comisión de un hecho delictivo cometido en su agravio por quien ejerce la patria potestad, existiendo compromiso debidamente ratificado de no reincidir en dicha conducta;
-
-> <small>(ADICIONADA, P.O. 8 DE FEBRERO DE 2010)</small>
-
-X.- Cuando haya dependencia por alcohol, estupefacientes psicotrópicos u otras formas graves de fármaco-dependencia y se rehusé al tratamiento, comprometiendo la salud, la seguridad o la integridad de los menores de edad; y
-
-> <small>(ADICIONADA, P.O. 8 DE FEBRERO DE 2010)</small>
-
-XI.- Cuando el que la ejerza padezca alguna afección originada por enfermedad o deficiencia persistente de carácter psiquiátrico, probado por personal calificado y se rehúse al tratamiento, comprometiendo la salud y el adecuado desarrollo del menor.
-
-> <small>(ADICIONADO, P.O. 8 DE FEBRERO DE 2010)</small>
-
-Acreditada la pérdida de la patria potestad respecto de un menor de edad, el juez en la misma sentencia, deberá tomar las medidas preventivas respecto de los demás menores de edad sobre los cuales se continúe ejerciendo la misma.
-
-Los tribunales pueden modificar el ejercicio de la patria potestad si quien la desempeña trata a los que estén en ella con excesiva severidad, no los educa, les impone preceptos inmorales o les da ejemplos o consejos corruptores.
-
-> <small>(ADICIONADO, P.O. 16 DE OCTUBRE DE 1998)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 445 Bis.
 
-La patria potestad podrá ser limitada cuando el que la ejerce incurra en conductas de violencia familiar previstas en el artículo 324 Bis de este Código, en contra de las personas sobre las cuales la ejerza.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 21 DE MAYO DE 1975)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 446.
 
-Los ascendientes que pasen a segundas nupcias, no pierden por este hecho la patria potestad.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 21 DE MAYO DE 1975)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 447.
 
-El nuevo cónyuge no ejercerá la patria potestad sobre los hijos del matrimonio anterior.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 448.
 
-La patria potestad se suspende:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-I.- Por incapacidad declarada judicialmente;
-
-II.- Por la ausencia declarada en forma;
-
-III.- Por sentencia condenatoria que imponga como pena esta suspensión.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 449.
 
-La patria potestad no es renunciable; pero aquellos a quienes corresponda ejercerla, pueden excusarse:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-I.- Cuando tengan sesenta años cumplidos;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-II.- Cuando por su mal estado habitual de salud, no pueden atender debidamente a su desempeño.
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ## TITULO IX.
 
-De la Tutela.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO I.
 
-Disposiciones Generales.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 450.
 
-El objeto de las tutelas es la guarda de la persona y bienes de los que no estando sujetos a patria potestad tienen incapacidad natural y legal, o solamente la segunda, para gobernarse por sí mismos. La tutela puede también tener por objeto la representación interina del incapaz en los casos especiales que señale la ley.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-En la tutela se cuidará preferentemente de la persona de los incapacitados. Su ejercicio queda sujeto en cuanto a la guarda y educación de los menores a las modalidades de que habla la parte final del artículo 414.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 451.
 
-Tienen incapacidad natural y legal:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-I.- Los menores de edad;
-
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2004)</small>
-
-II. Los que siendo mayores de edad, sufren enfermedad reversible o irreversible, o presentan estado de discapacidad, sea físco (sic), sensorial, intelectual, emocional, mental o varias de ellas a la vez, no pueden gobernarse, obligarse o manifestar su voluntad, por sí mismos o por otro medio que la supla.
-
-III.- (DEROGADA, P.O. 30 DE AGOSTO DE 2004)
-
-IV.- (DEROGADA, P.O. 30 DE AGOSTO DE 2004)
-
-> <small>(REFORMADO, P.O. 9 DE ABRIL DE 1970)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 452.
 
-Los menores de edad emancipados por razón del matrimonio, tienen incapacidad legal para los actos que se mencionan en el artículo relativo del Capítulo I del Título Décimo de este libro.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 453.
 
-La tutela es un cargo de interés público del que nadie puede eximirse, sino por causa legítima.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 454.
 
-El que se rehusare sin causa legal a desempeñar el cargo de tutor, es responsable de los daños y perjuicios que de su negativa resulten al incapacitado.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 455.
 
-La tutela se desempeñará por el tutor con intervención del curador y del Consejo Local de Tutelas, en los términos establecidos en este Código.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 456.
 
-Ningún incapaz puede tener a un mismo tiempo más de un tutor y de un curador definitivos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 457.
 
-El tutor y el curador pueden desempeñar respectivamente la tutela o la curatela hasta de tres incapaces. Si estos son hermanos, o son coherederos o legatarios de la misma persona, puede nombrarse un solo tutor y un curador a todos ellos, aunque sean mas de tres.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 458.
 
-Cuando los intereses de alguno o algunos de los incapaces, sujetos a la misma tutela, fueren opuestos, el tutor lo pondrá en conocimiento del juez, quien nombrará un tutor especial que defienda los intereses de los incapaces que él mismo designe, mientras se decide el punto de oposición.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 459.
 
-Los cargos de tutor y de curador de un incapaz no pueden ser desempeñados al mismo tiempo por una sola persona. Tampoco pueden desempeñarse por personas que tengan entre sí parentesco en cualquier grado de la línea recta, o dentro del cuarto grado de la colateral.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 460.
 
-No pueden ser nombrados tutores o curadores las personas que desempeñen el Juzgado y las que integren los Consejos Locales de Tutela; ni los que estén ligados con parentesco de consanguinidad con las mencionadas personas en la línea recta, sin limitación de grados, y en la colateral dentro del cuarto grado inclusive.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-###### Artículo 461.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-Cuando fallezca una persona que ejerza la patria potestad sobre un incapacitado a quien deba nombrarse tutor; su ejecutor testamentario y en caso de intestado los parientes y personas con quienes haya vivido, están obligadas a dar parte del fallecimiento al Juez, dentro de ocho días, a fin de que provea a la tutela, bajo la pena de veinticinco a cien pesos de multa.
+###### Artículo 460.
 
-Los Oficiales del Registro Civil, las autoridades administrativas y las judiciales tienen obligación de dar aviso a los Jueces de los casos en que sea necesario nombrar tutor y que lleguen a su conocimiento en el ejercicio de sus funciones.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 462.
 
-La tutela es testamentaria, legítima o dativa.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 463.
 
-Ninguna tutela puede conferirse sin que previamente se declare en los términos que disponga el Código de Procedimientos Civiles, el estado de incapacidad de la persona que va a quedar sujeta a ella.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 464.
 
-Los tutores y curadores no pueden ser removidos de su cargo sin que previamente hayan sido oídos y vencidos en juicio.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE AGOSTO DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 465.
 
-La persona menor de edad que se encuentre en cualquiera de los casos de la fracción II del artículo 451, estará sujeta a la tutela aplicable a los menores de edad, mientras no llegue a la mayoría de edad.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-Si al cumplirse ésta continuare el impedimento, el incapaz se sujetará a nueva tutela, previo juicio de interdicción, en el cual serán oídos el tutor y el curador anteriores.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 466.
 
-Los hijos menores de un incapacitado quedarán bajo la patria potestad del ascendiente que corresponda conforme a la ley, y no habiéndolo, se les proveerá de tutor.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 467.
 
-El cargo de tutor para las personas referidas en la fracción II del artículo 451, durará el tiempo que subsista la interdicción cuando sea ejercitado por los descendientes o por los ascendientes. El cónyuge tendrá obligación de desempeñar ese cargo mientras tiene tal calidad de consorte. Los extraños que desempeñen la tutela de que se trata tienen derecho a que se les releve de ella a los diez años de ejercerla. Los extraños que desempeñen la tutela de que se trata, tienen derecho de que se les releve de ella a los diez años de ejercerla.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 468.
 
-La interdicción de que habla el artículo anterior no cesará sino por la muerte del incapacitado o por sentencia definitiva, que se pronunciará en juicio seguido conforme a las mismas reglas establecidas para el de interdicción.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 469.
 
-El Juez de Primera Instancia del domicilio del incapacitado, y si no lo hubiere, el Juez Menor, siempre con intervención del Ministerio Público, cuidará provisionalmente de la persona y bienes del incapacitado, hasta que se nombre tutor.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 470.
 
-El juez que no cumpla las prescripciones relativas a la tutela, además de las penas en que incurra conforme a las leyes, será responsable de los daños y perjuicios que sufran los incapaces.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO II.
 
-De la tutela Testamentaria.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 471.
 
-El ascendiente que sobreviva, de los dos que en cada grado deben ejercer la patria potestad conforme a lo dispuesto en el artículo 415, tienen derecho, aunque fuere menor, de nombrar tutor en su testamento a aquellos sobre quienes la ejerza, con inclusión del hijo póstumo.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 472.
 
-El nombramiento de tutor testamentario hecho en los términos del artículo anterior, excluye del ejercicio de la patria potestad a los ascendientes de ulteriores grados.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 473.
 
-Si los ascendientes excluidos estuvieren incapacitados o ausentes, la tutela cesará cuando cese el impedimento o se presenten los ascendientes, a no ser que el testador haya dispuesto expresamente que continúe la tutela.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 474.
 
-El que en su testamento, aunque sea un menor no emancipado, deje bienes, ya sea por legado o por herencia, a un incapaz que no esté bajo su patria potestad, ni bajo la de otro, puede nombrarle tutor solamente para la administración de los bienes que le deje.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 475.
 
-Si fueren varios los menores podrá nombrárseles un tutor común, o conferirse a persona diferente la tutela de cada uno de ellos, observándose en su caso, lo dispuesto en el artículo 458.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 476.
 
-El padre que ejerza la tutela del hijo sujeto a interdicción por incapacidad intelectual, puede nombrarle tutor testamentario si la madre ha fallecido o no puede legalmente ejercer la tutela.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-La madre, en su caso, podrá hacer el nombramiento de que trata este artículo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 477.
 
-En ningún otro caso hay lugar a la tutela testamentaria del incapacitado.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 478.
 
-Siempre que se nombren varios tutores, desempeñará la tutela el primer nombrado, a quien substituirán los demás por el orden de su nombramiento, en los casos de muerte, incapacidad, excusa o remoción.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 479.
 
-Lo dispuesto en el artículo anterior no regirá cuando el testador haya establecido el orden en que los tutores deben sucederse en el desempeño de la tutela.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 480.
 
-Deben observarse todas las reglas, limitaciones y condiciones puestas por el testador para la administración de la tutela, que no sean contrarias a las leyes, a no ser que el Juez, oyendo al tutor y al curador, las estime dañosas a los menores, en cuyo caso podrá dispensarlas o modificarlas.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 481.
 
-Si por un nombramiento condicional de tutor, o por algún otro motivo, faltare temporalmente el tutor testamentario, el Juez proveerá de tutor interino al menor, conforme a las reglas generales sobre nombramiento de tutores.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 482.
 
-El adoptante que ejerza la patria potestad tiene derecho de nombrar tutor testamentario a su hijo adoptivo; aplicándose a esta tutela lo dispuesto en los artículos anteriores.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO III.
 
-De la Tutela Legítima de los Menores.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 483.
 
-Ha lugar a tutela legítima:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-I.- Cuando no hay quien ejerza la patria potestad, ni tutor testamentario;
-
-II.- Cuando deba nombrarse tutor por causa de divorcio.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 484.
 
-La tutela legítima corresponde:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-I.- A los hermanos, prefiriéndose a los que lo sean por ambas líneas;
-
-II.- Por falta o incapacidad de los hermanos, a los demás colaterales dentro del cuarto grado inclusive.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 485.
 
-Si hubiere varios parientes del mismo grado, el Juez elegirá entre ellos al que le parezca mas apto para el cargo; pero si el menor hubiere cumplido dieciséis años, él hará la elección.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 486.
 
-La falta temporal del tutor legítimo, se suplirá en los términos establecidos en los dos artículos anteriores.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE AGOSTO DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO IV.
 
-De la Tutela Legítima de los Mayores de Edad Incapacitados.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 487.
 
-El marido es tutor legítimo y forzoso de su mujer, y ésta lo es de su marido.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 488.
 
-Los hijos mayores de edad son tutores de su padre o madre viudos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 489.
 
-Cuando haya dos o más hijos, será preferido el que vive en compañía del padre o de la madre; y siendo varios los que estén en el mismo caso, el Juez elegirá al que le parezca más apto.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 21 DE MAYO DE 1975)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 490.
 
-Los padres son de derecho tutores de sus hijos, solteros o viudos, cuando éstos no tengan hijos que puedan desempeñar la tutela, debiéndose poner de acuerdo respecto a quien de los dos ejercerá el cargo.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 21 DE MAYO DE 1975)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 491.
 
-A falta de tutor testamentario y de persona que con arreglo a los artículos anteriores deba desempeñar la tutela, serán llamados a ella sucesivamente; los abuelos, los hermanos del incapacitado y los demás colaterales a que se refiere la fracción II del artículo 484; observándose, en su caso lo que dispone el artículo 485.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 492.
 
-El tutor del incapacitado que tenga hijos menores bajo su patria potestad, será también tutor de ellos, si no hay otro ascendiente a quien la ley llame al ejercicio de aquel derecho.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO V.
 
-De la Tutela Legítima de los Menores Abandonados y de los Acogidos por alguna persona, o Depositados en Establecimientos de Beneficencia.
-
-> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 1998)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 493.
 
-La ley coloca a los expósitos bajo la tutela de la persona que los haya acogido, quien tendrá las obligaciones, facultades y restricciones previstas para los demás tutores.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-Se considera expósito al menor que es colocado en una situación de desamparo por quienes conforme a la ley estén obligados a la custodia, protección y cuidado y no pueda determinarse su origen. Cuando la situación de desamparo se refiera a un menor cuyo origen se conoce, se considerará abandonado.
-
-> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 1998)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 494.
 
-Los responsables de las casas de asistencia, ya sean públicas o privadas, al recibir expósitos o abandonados, darán vista al Ministerio Público, desempeñando la tutela de éstos con arreglo a las leyes y a lo que prevengan los estatutos de la institución. En este caso, no es necesario el discernimiento del cargo.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 1998)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 495.
 
-Los responsables de las casas de asistencia, ya sean públicas o privadas, donde se reciban menores que hayan sido objeto de la violencia familiar a que se refiere el artículo 324 Bis de este Código, tendrán la custodia de éstos en los términos que prevengan las leyes y los estatutos de la institución. En todo caso darán aviso al Ministerio Público y a quien corresponda el ejercicio de la patria potestad y no se encuentre señalado como responsable del evento de violencia familiar.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO VI.
 
-De la Tutela Dativa.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 496.
 
-La tutela dativa tiene lugar:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-I.- Cuando no hay tutor testamentario ni persona a quien conforme a la ley corresponda la tutela legítima;
-
-II.- Cuando el tutor testamentario está impedido temporalmente de ejercer su cargo, y no hay ningún pariente de los designados en el artículo 484;
-
-III.- En los demás casos establecidos por la ley.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 497.
 
-El tutor dativo será designado por el menar (sic) si ha cumplido dieciséis años. El Juez confirmará la designación si no tiene justa causa para reprobarla. Para reprobar las ulteriores designaciones que haga el menor, el Juez oirá el parecer del Consejo Local de Tutela. Si no se aprueba el nombramiento hecho por el menor, el Juez nombrará tutor conforme a lo dispuesto en el artículo siguiente.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 498.
 
-Si el menor no ha cumplido dieciséis años, el nombramiento de tutor lo hará el Juez de entre las personas que figuren en la lista formada cada año por el Consejo Local de Tutelas, oyendo al Ministerio Público, quien debe cuidar de que quede comprobada la honorabilidad de la persona elegida para tutor.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 499.
 
-Si el juez no hace oportunamente el nombramiento de tutor, es responsable de los daños y perjuicios que se sigan al menor por esa falta.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 500.
 
-Siempre será dativa la tutela para asuntos judiciales del menor de edad emancipado.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 501.
 
-A los menores de edad que no estén sujetos a patria potestad, ni a tutela testamentaria o legítima, aunque no tengan bienes, se les nombrará tutor dativo. La tutela en este caso tendrá por objeto el cuidado de la persona del menor, a efecto de que reciba la educación que corresponda a su posibilidad económica y a sus aptitudes. El tutor será nombrado a petición del Consejo Local de Tutelas, del Ministerio Público, del mismo menor, y aún de oficio por el Juez.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 502.
 
-En el caso del artículo anterior, tienen obligación de desempeñar la tutela mientras duran en los cargos que a continuación se enumeran:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-I.- El Presidente Municipal del domicilio del menor;
-
-II.- Los demás regidores del Ayuntamiento;
-
-III.- Las personas que desempeñen la autoridad administrativa en los lugares en donde no hubiere Ayuntamiento;
-
-IV.- Los profesores oficiales de instrucción primaria, secundaria o profesional, del lugar donde vive el menor;
-
-V.- Los miembros de las juntas de beneficencia pública o privada que disfruten sueldo del Erario;
-
-VI.- Los directores de establecimientos de beneficencia pública.
-
-Los Jueces nombrarán de entre las personas mencionadas, las que en cada caso deban desempeñar la tutela, procurando que este cargo se reparta equitativamente, sin perjuicio de que también puedan ser nombrados tutores las personas que figuren en las listas que deben formar los Consejos Locales de Tutela, conforme a lo dispuesto en el Capítulo XVI de este Título, cuando estén conformes en desempeñar gratuitamente la tutela de que se trata.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 503.
 
-Si el menor que se encuentre en el caso previsto por el artículo 501, adquiere bienes, se le nombrará tutor dativo de acuerdo con lo que disponen las reglas generales para hacer esos nombramientos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO VII.
 
-De las Personas inhábiles para el desempeño de la Tutela y de las que deben ser separadas de ella.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 504.
 
-No pueden ser tutores aunque estén anuentes a recibir el cargo:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-I.- Los menores de edad;
-
-II.- Los mayores de edad que se encuentren bajo tutela;
-
-III.- Los que hayan sido removidos de otra tutela por haberse conducido mal, ya respecto de la persona, ya respecto de la administración de los bienes del incapacitado;
-
-IV.- Los que por sentencia que cause ejecutoria hayan sido condenados a la privación de este cargo o a la inhabilitación para obtenerlo;
-
-V.- El que haya sido condenado por robo, abuso de confianza, estafa, fraude o por delitos contra la honestidad;
-
-VI.- Los que no tengan oficio o modo de vivir conocido o sean notoriamente de mala conducta;
-
-VII.- Los que al deferirse la tutela, tengan pleito pendiente con el incapacitado;
-
-VIII.- Los deudores del incapacitado en cantidad considerable, a Juicio del juez, a no ser que el que nombre tutor testamentario lo haya hecho con conocimiento de la deuda, declarándolo así expresamente al hacer el nombramiento;
-
-IX.- Los Jueces, Magistrados y demás funcionarios o empleados de la administración de justicia, así como los Oficiales del Registro Civil;
-
-X.- El que no esté domiciliado en el lugar en que deba ejercer la tutela;
-
-XI.- Los empleados públicos de Hacienda, que por razón de su destino tengan responsabilidad pecuniaria actual o la hayan tenido y no la hubieren cubierto;
-
-XII.- El que padezca enfermedad crónica contagiosa;
-
-XIII.- Los demás a quienes lo prohiba la ley.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 505.
 
-Serán separados de la tutela:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-I.- Los que sin haber caucionado su manejo conforme a la ley, ejerzan la administración de la tutela;
-
-II.- Los que se conduzcan mal en el desempeño de la tutela, ya sea respecto de la persona ya respecto de la administración de los bienes del incapacitado;
-
-III.- Los tutores que no rindan sus cuentas dentro del término fijado por el artículo 591;
-
-IV.- Los comprendidos en el artículo anterior desde que sobrevenga o se averigüe su incapacidad;
-
-V.- El tutor que se encuentre en el caso previsto en el artículo 159;
-
-VI.- El tutor que permanezca ausente por más de seis meses, del lugar en que debe desempeñar la tutela.
-
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 506.
 
-No pueden ser tutores ni curadores de las personas comprendidas en la fracción II del artículo 451, quienes hayan sido causa o fomentado directa o indirectamente tales enfermedades o padecimientos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
 ###### Artículo 507.
 
 (DEROGADO, P.O. 30 DE AGOSTO DE 2004)
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
 ###### Artículo 508.
 
-El Ministerio Público y los parientes del pupilo, tienen derecho de promover la separación de los tutores que se encuentren en alguno de los casos previstos en el artículo 505.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 509.
 
-El tutor que fuere procesado por cualquier delito, quedará suspenso en el ejercicio de su encargo desde que se provea el auto motivado de prisión, hasta que se pronuncie sentencia irrevocable.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 510.
 
-En el caso de que trata el artículo anterior, se proveerá a la tutela conforme a la ley.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 511.
 
-Absuelto el tutor, volverá al ejercicio de su encargo. Si es condenado a una pena que no lleve consigo la inhabilitación para desempeñar la tutela, volverá a ésta al extinguirse la condena, siempre que la pena impuesta no exceda de un año de prisión.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO VIII.
 
-De las excusas para el desempeño de la tutela.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 512.
 
-Pueden excusarse de ser tutores:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-I.- Los empleados y funcionarios públicos;
-
-II.- Los militares en servicio activo;
-
-III.- Los que tengan bajo su patria potestad tres o más descendientes;
-
-IV.- Los que fueren tan pobres, que no puedan atender a la tutela sin menoscabo de su subsistencia;
-
-V.- Los que por el mal estado habitual de su salud, o por su rudeza e ignorancia, no puedan atender debidamente a la tutela;
-
-VI.- Los que tengan sesenta años cumplidos;
-
-VII.- Los que tengan a su cargo otra tutela o curaduría;
-
-> <small>(REFORMADA, P.O. 21 DE MAYO DE 1975)</small>
-
-VIII.- Los que por cualquiera otra causa igualmente grave a juicio del Juez, no estén en aptitud de desempeñar convenientemente la tutela.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 513.
 
-Si el que teniendo excusa legítima para ser tutor acepta el cargo, renuncia por el mismo hecho a la excusa que le concede la Ley.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(F. DE E., P.O. 28 DE NOVIEMBRE DE 1940)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 514.
 
-El tutor debe proponer sus impedimentos o excusas dentro del término fijado por el Código de Procedimientos Civiles, y cuando transcurra el término sin ejercitar el derecho, se entiende renunciada la excusa.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 515.
 
-Si el tutor tuviere dos o más excusas las propondrá simultáneamente, dentro del plazo respectivo, y si propone una sola se entenderán renunciadas las demás.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 516.
 
-Mientras que se califica el impedimento o la excusa, el Juez nombrará un tutor interino.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 517.
 
-El tutor testamentario que se excuse de ejercer la tutela, perderá todo derecho a lo que le hubiere dejado el testador por este concepto.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 518.
 
-El tutor que sin excusa o desechada la que hubiere propuesto no desempeñe la tutela, pierde el derecho que tenga para heredar al incapacitado que muera intestado, y es responsable de los daños y perjuicios que por su renuncia hayan sobrevenido al mismo incapacitado. En igual pena incurre la persona a quien corresponda la tutela legítima, si habiendo sido legalmente citada, no se presenta al Juez manifestando su parentesco con el incapaz.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 519.
 
-Muerto el tutor que esté desempeñando la tutela, sus herederos o ejecutores testamentarios están obligados a dar aviso al Juez, quien proveerá inmediatamente al incapacitado del tutor que corresponda, según la ley.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO IX.
 
-De la Garantía que deben prestar los Tutores para asegurar su manejo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 520.
 
-El tutor, antes de que se le discierna el cargo, prestará caución para asegurar su manejo. Esta caución consistirá:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-I.- En hipoteca o prenda;
-
-II.- En fianza.
-
-La garantía prendaria que preste el tutor se constituirá depositando las cosas dadas en prenda en una Institución de Crédito autorizada para recibir depósitos; a falta de ella se depositarán en poder de persona de notoria solvencia y honorabilidad.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 521.
 
-Están exceptuados de la obligación de dar garantía:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-I.- Los tutores testamentarios, cuando expresamente los haya relevado de esta obligación el testador;
-
-II.- El tutor que no administre bienes;
-
-III.- El padre, la madre y los abuelos, en los casos en que conforme a la ley son llamados a desempeñar la tutela de sus descendientes, salvo lo dispuesto en el artículo 524;
-
-IV.- Los que acojan a un expósito, lo alimenten y eduquen convenientemente por mas de diez años, a no ser que hayan recibido pensión para cuidar de él.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 522.
 
-Los comprendidos en la fracción I del artículo anterior, sólo estarán obligados a dar garantía cuando con posterioridad a su nombramiento haya sobrevenido causa ignorada por el testador que, a juicio del Juez y previa audiencia del curador, haga necesaria aquella.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-En el caso de la fracción II del mismo artículo anterior, luego que se realicen algunos créditos o derechos o se recobren los bienes, aún cuando sea en parte, estará obligado el tutor a dar la garantía correspondiente. El curador vigilará, bajo su más estrecha responsabilidad, el cumplimiento de este artículo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 523.
 
-La garantía que presten los tutores no impedirá que el Juez, a moción del Ministerio Público, del Consejo Local de Tutelas, de los parientes próximos del incapacitado o de éste si ha cumplido dieciséis años, dicte las providencias que se estimen útiles para la conservación de los bienes del pupilo.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 524.
 
-Cuando la tutela del incapacitado recaiga en el cónyuge, en los ascendientes o en los hijos, no se dará garantía, salvo el caso de que el Juez, con audiencia del curador y del Consejo de Tutelas, lo crea conveniente.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 525.
 
-Siempre que el tutor sea también coheredero del incapaz, y éste no tenga más bienes que los hereditarios, no se podrá exigir al tutor otra garantía que la de su misma porción hereditaria, a no ser que esta porción no iguale a la otra mitad de la porción del incapaz, pues en tal caso se integrará la garantía con bienes propios del tutor o con fianza.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 526.
 
-Siendo varios los incapacitados cuyo haber consista en bienes procedentes de una herencia indivisa, si son varios los tutores, sólo se exigirá a cada uno de ellos garantía por la parte que corresponda a su representado.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 527.
 
-El tutor no podrá dar fianza para caucionar su manejo si no cuando no tenga bienes en que constituir hipoteca o prenda.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 528.
 
-Cuando los bienes que tenga no alcancen a cubrir la cantidad que ha de asegurar conforme el artículo siguiente, la garantía podrá consistir: parte en hipoteca o prenda, parte en fianza, o solamente en fianza, a juicio del Juez, y previa audiencia del curador y del Consejo Local de Tutelas.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 529.
 
-La hipoteca o prenda, y en su caso la fianza, se darán:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-I.- Por el importe de las rentas de los bienes raíces en los dos últimos años y por los réditos de los capitales impuestos durante ese mismo tiempo;
-
-II.- Por el valor de los bienes muebles;
-
-III.- Por el de los productos de las fincas rústicas en dos años, calculados por peritos, o por el término medio de un quinquenio, a elección del Juez;
-
-IV.- En las negociaciones mercantiles e industriales, por el veinte por ciento del importe de las mercancías y demás efectos muebles, calculado por los libros si están llevados en debida forma o a juicio de peritos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 530.
 
-Si los bienes del incapacitado, enumerados en el artículo que precede, aumentan o disminuyen durante la tutela, podrán aumentarse o disminuirse proporcionalmente la hipoteca, prenda o la fianza, a pedimento del tutor, del curador, del Ministerio Público o del Consejo Local de Tutelas.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 531.
 
-El Juez responde subsidiariamente con el tutor, de los daños y perjuicios que sufra el incapacitado por no haber exigido que se caucione el manejo de la tutela.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 532.
 
-Si el tutor, dentro de tres meses después de aceptado su nombramiento, no pudiere dar la garantía por las cantidades que fija el artículo 529, se procederá al nombramiento de nuevo tutor.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 533.
 
-Durante los tres meses señalados en el artículo precedente, desempeñará la administración de los bienes un tutor interino, quien los recibirá por inventario solemne, y no podrá ejecutar otros actos que los indispensables para la conservación de los bienes y percepción de los productos. Para cualquier otro acto de administración requerirá la autorización judicial, la que se concederá, si procede, oyendo al curador.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 534.
 
-Al presentar el tutor su cuenta anual, el curador o el Consejo Local de Tutelas, deben promover información de supervivencia e idoneidad de los fiadores dados por aquel.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-Esta información también podrán promoverla en cualquier tiempo que lo estimen conveniente. El Ministerio Público tiene igual facultad y hasta de oficio el Juez puede exigir esa información.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 535.
 
-Es también obligación del curador y del Consejo Local de Tutelas, vigilar el estado de las fincas hipotecadas por el tutor o de los bienes entregados en prenda, dando aviso al Juez de los deterioros y menoscabo que en ellos hubiere, para que si es notable la disminución del precio, se exija al tutor que asegure con otros bienes los intereses que administra.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO X.
 
-Del Desempeño de la Tutela.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 536.
 
-Cuando el tutor tenga que administrar bienes, no podrá entrar a la administración sin que antes se nombre curador, excepto en el caso del artículo 493.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 537.
 
-El tutor que entre a la administración de los bienes sin que haya nombrado curador, será responsable de los daños y perjuicios que cause al incapacitado, y además, separado de la tutela; mas ningún extraño puede rehusarse a tratar con él judicial o extrajudicialmente alegando la falta del curador.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 538.
 
-El tutor está obligado:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-I.- A alimentar y educar al incapacitado;
-
-II.- A destinar de preferencia los recursos del incapacitado a la curación de sus enfermedades o a su regeneración si es un ebrio consuetudinario o abusa habitualmente de las drogas enervantes;
-
-III.- A formar inventario solemne y circunstanciado de cuanto constituya el patrimonio del incapacitado, dentro del término que el Juez designe, con intervención del curador y del mismo incapacitado si goza de dicernimiento (sic) y ha cumplido dieciséis años de edad.
-
-El término para formar el inventario no podrá ser mayor de seis meses;
-
-IV.- A administrar el caudal de los incapacitados. El pupilo será consultado para los actos importantes de la administración cuando es capaz de dicernimiento (sic) y mayor de dieciséis años.
-
-La administración de los bienes que el pupilo ha adquirido con su trabajo le corresponde a él y no al tutor;
-
-V.- A representar al incapacitado en juicio y fuera de él en todos los actos civiles, con excepción del matrimonio, de reconocimiento de hijos, del testamento y de otros estrictamente personales;
-
-VI.- A solicitar oportunamente la autorización judicial para todo lo que legalmente no pueda hacer sin ella.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 539.
 
-Los gastos de alimentación y educación del menor deben regularse de manera que nada necesario le falte, según su condición y posibilidad económica.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 540.
 
-Cuando el tutor entre en el ejercicio de su cargo, el Juez fijará con audiencia de aquél, la cantidad que haya de invertirse en los alimentos y educación del menor, sin perjuicio de alterarla, según el aumento o disminución del patrimonio y otras circunstancias. Por las mismas razones podrá el Juez alterar la cantidad que el que nombró tutor hubiere señalado para dicho objeto.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 541.
 
-El tutor destinará al menor a la carrera u oficio que éste elija, según sus circunstancias. Si el tutor infringe esta disposición, puede el menor, por conducto del curador, del Consejo Local de Tutelas o por sí mismo, ponerlo en conocimiento del Juez, para que dicte las medidas convenientes.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 542.
 
-Si el que tenía la patria potestad sobre el menor lo había dedicado a alguna carrera, el tutor no variará ésta, sin la aprobación del Juez, quien decidirá este punto prudentemente y oyendo en todo caso al mismo menor, al curador y al Consejo Local de Tutelas.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 543.
 
-Si las rentas del menor no alcanzan a cubrir los gastos de su alimentación y educación, el Juez decidirá si ha de ponérsele a aprender un oficio o adoptarse otro medio para evitar la enajenación de los bienes y, si fuere posible sujetará a las rentas de éstos los gastos de alimentación.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 544.
 
-Si los pupilos fuesen indigentes o careciesen de suficientes medios para los gastos que demanden su alimentación y educación, el tutor exigirá judicialmente la prestación de esos gastos a los parientes que tienen obligación legal de alimentar a los incapacitados. Las expensas que esto origine, serán cubiertas por el deudor alimentario. Cuando el mismo tutor sea el obligado a dar alimentos por razón de su parentesco con el pupilo, el curador ejercitará la acción a que este artículo se refiere.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 545.
 
-Si los pupilos indigentes no tienen personas que estén obligadas a alimentarlos, o si teniéndolas no pudieren hacerlo, el tutor, con autorización del Juez, quien oirá el parecer del curador y del Consejo Local de Tutelas, pondrá al pupilo en un establecimiento de beneficencia pública o privada en donde pueda educarse. Si ni eso fuere posible, el tutor procurará que los particulares suministren trabajo al incapacitado, compatible con su edad y circunstancias personales, con la obligación de alimentarlo y educarlo. No por esto el tutor queda eximido de su cargo, pues continuará vigilando al menor a fin de que no sufra daño por lo excesivo del trabajo, lo insuficiente de la alimentación o lo defectuoso de la educación que se le imparta.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 546.
 
-Los incapacitados indigentes que no puedan ser alimentados y educados por los medios previstos en los dos artículos anteriores, lo serán a costa de las rentas públicas del Estado; pero si se llega a tener conocimiento de que existen parientes del incapacitado que estén legalmente obligados a proporcionarle alimentos, el Ministerio Público deducirá la acción correspondiente para que se reembolse al gobierno de los gastos que hubiere hecho en cumplimiento de lo dispuesto por este artículo.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 547.
 
-El tutor de los incapacitados a que se refiere la fracción II del artículo 538, está obligado a presentar al Juez, en el mes de enero de cada año, un certificado de dos facultativos que declaren acerca del estado del individuo sujeto a interdicción, a quien para este efecto reconocerán en presencia del curador. El Juez se cerciorará del estado que guarda el incapacitado y tomará todas las medidas que estime convenientes para mejorar su condición.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 548.
 
-Para la seguridad, alivio y mejoría de las personas a que se refiere el artículo anterior, el tutor adoptará las medidas que juzgue oportunas, previa la autorización judicial que se otorgará con audiencia del curador. Las medidas que fueren muy urgentes podrán ser ejecutadas por el tutor, quien dará cuenta inmediatamente al Juez para obtener la debida aprobación.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 549.
 
-La obligación de hacer inventarios no puede ser dispensada ni aun por los que tienen derecho de nombrar tutor testamentario.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 550.
 
-Mientras que el inventario no estuviere formado, la tutela debe limitarse a los actos de mera protección a la persona y conservación de los bienes del incapacitado.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 551.
 
-El tutor está obligado a inscribir en el inventario, el crédito que tenga contra el incapacitado; si no lo hace, pierde el derecho de cobrarlo.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 552.
 
-Los bienes que el incapacitado adquiera después de la formación del inventario, se incluirán inmediatamente en él, con las mismas formalidades prescritas en la fracción III del artículo 538.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 553.
 
-Hecho el inventario no se admite al tutor rendir prueba contra de él en perjuicio del incapacitado, ni antes ni después de la mayor edad de éste, ya sea que litigue en nombre propio o con la representación del incapacitado. Se exceptúan de lo dispuesto en el párrafo anterior los casos en que el error del inventario sea evidente o cuando se trate de un derecho claramente establecido.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 554.
 
-Si se hubiere omitido listar algunos bienes en el inventario, el menor mismo, antes o después de la mayor edad y el curador o cualquier pariente, pueden ocurrir al Juez, pidiendo que los bienes omitidos se listen; y el Juez, oído el parecer del tutor, determinará en justicia.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 555.
 
-El tutor, dentro del primer mes de ejercer su cargo, fijará, con aprobación del Juez, la cantidad que haya de invertirse en gastos de administración y el número y sueldo de los dependientes necesarios. Ni el número, ni el sueldo de los empleados, podrá aumentarse después sino con aprobación judicial.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 556.
 
-Lo dispuesto en el artículo anterior no liberta al tutor de justificar, al rendir sus cuentas, que efectivamente han sido gastadas dichas sumas en sus respectivos objetos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 557.
 
-Si el padre o la madre del menor ejercían lagún (sic) comercio o industria, el Juez con informe de dos peritos, decidirá si ha de continuar o no la negociación; a no ser que los padres hubieren dispuesto algo sobre este punto, en cuyo caso se respetará su voluntad, en cuanto no ofrezca grave inconveniente a juicio del Juez.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 558.
 
-El dinero que resulte sobrante después de cubiertas las cargas y atenciones de la tutela, el que proceda de las redenciones de capitales y el que se adquiera de cualquier otro modo, será impuesto por el tutor, dentro de tres meses contados desde que se hubieren reunido dos mil pesos, sobre segura hipoteca, calificada bajo su responsabilidad, teniendo en cuenta el precio de la finca, sus productos y la depreciación que puede sobrevenir al realizarla.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 559.
 
-Si para hacer la imposición dentro del término señalado en el artículo anterior, hubiere algún inconveniente grave, el tutor lo manifestará al Juez, quien podrá ampliar el plazo por otros tres meses.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 560.
 
-El tutor que no haga las imposiciones dentro de los plazos señalados en los dos artículos anteriores, pagará los réditos legales mientras los capitales no sean impuestos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 561.
 
-Mientras que se hacen las imposiciones a que se refieren los artículos 558 y 559, el tutor depositará las cantidades que perciba, en el establecimiento público destinado al efecto.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 562.
 
-Los bienes inmuebles, los derechos anexos a ellos, y los muebles preciosos, no pueden ser enajenados ni gravados por el tutor, sino por causa de absoluta necesidad, o evidente utilidad del menor, debidamente justificada y previa la conformidad del curador y la autorización judicial.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 563.
 
-Cuando la enajenación se haya permitido para cubrir con su producto algún objeto determinado, el Juez señalará al tutor un plazo dentro del cual deberá acreditar que el producto de la enajenación se ha invertido en su objeto. Mientras no se haga la inversión, se observará lo dispuesto en la parte final del artículo 438.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 564.
 
-La venta de bienes raíces del menor es nula si no se hace judicialmente en subasta pública. En la enajenación de alhajas y muebles preciosos, el Juez decidirá si conviene o no la almoneda, pudiendo dispensarla, acreditada la utilidad que resulte al menor.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-Los tutores no podrán vender valores comerciales, industriales, títulos de rentas, acciones, frutos y ganados pertenecientes al incapacitado, por menor valor del que se cotice en la plaza el día de la venta; ni dar fianza a nombre de su pupilo ni obligarlo solidariamente.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 565.
 
-Cuando se trate de enajenar, gravar o hipotecar a título oneroso, bienes que pertenezcan al incapacitado como copropietario, se comenzará por mandar justipreciar dichos bienes para fijar con toda precisión su valor y la parte que en ellos represente el incapacitado, a fin de que el Juez resuelva si conviene o no que se dividan materialmente dichos bienes para que aquél reciba en plena propiedad su porción; o si, por el contrario es conveniente la enajenación, gravamen o hipoteca, fijando en este caso las condiciones y seguridades con que deben hacerse, pudiendo, si lo estimare conveniente, dispensar la almoneda, siempre que consientan en ello el tutor y el curador.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 566.
 
-Para todos los gastos extraordinarios que no sean de conservación ni de reparación, necesita el tutor ser autorizado por el Juez.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 567.
 
-Se requiere licencia judicial para que el tutor pueda transigir o comprometer en árbitros los negocios del incapacitado.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 568.
 
-El nombramiento de árbitros hecho por el tutor deberá sujetarse a la aprobación del Juez.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 569.
 
-Para que el tutor transija, cuando el objeto de la reclamación consista en bienes inmuebles, muebles preciosos o bien en valores mercantiles o industriales cuya cuantía exceda de mil pesos, necesita del consentimiento del curador y de la aprobación judicial otorgada con audiencia de éste.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 21 DE MAYO DE 1975)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 570.
 
-Ni con licencia judicial, ni en almoneda o fuera de ella puede el tutor comprar o arrendar los bienes del incapacitado, ni hacer contrato alguno respecto de ellos, para sí, sus ascendientes, su mujer o marido, hijos o hermanos por consanguinidad o afinidad. Si lo hiciere, además de la nulidad del contrato, el acto será suficiente para que se le remueva.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 571.
 
-Cesa la prohibición del artículo anterior, respecto de la venta de bienes, en el caso de que el tutor o sus parientes allí mencionados sean coherederos, partícipes o socios del incapacitado.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 572.
 
-El tutor no podrá hacerse pago de sus créditos contra el incapacitado sin la conformidad del curador y la aprobación judicial.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 573.
 
-El tutor no puede aceptar para sí a título gratuito u oneroso, la cesión de algún derecho o crédito contra el incapacitado. Sólo puede adquirir esos derechos por herencia.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-Artículo 774 (sic).- El tutor no puede dar en arrendamiento los bienes del incapacitado, por mas de cinco años, sino en caso de necesidad o utilidad, previo el consentimiento del curador y la autorización judicial, observándose en su caso lo dispuesto en el artículo 565.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+Artículo 774 (sic).- (DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 575.
 
-El arrendamiento hecho de conformidad con el artículo anterior, subsistirá por el tiempo convenido aun cuando se acabe la tutela; pero será nula toda anticipación de rentas o alquileres por mas de dos años.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 576.
 
-Sin autorización judicial no puede el tutor recibir dinero prestado en nombre del incapacitado, ya sea que se constituya o no hipoteca en el contrato.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 577.
 
-El tutor no puede hacer donaciones a nombre del incapacitado.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 578.
 
-El tutor tiene, respecto del menor, las mismas facultades que a los ascendientes concede el artículo 424.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 579.
 
-Durante la tutela no corre la prescripción entre el tutor y el incapacitado.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 580.
 
-El tutor tiene obligación de admitir las donaciones simples, legados y herencias que se dejen al incapacitado.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 581.
 
-La expropiación por causa de utilidad pública de bienes del incapacitado, no se sujetará a las reglas antes establecidas, sino a lo que dispongan las leyes de la materia.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 21 DE MAYO DE 1975)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 582.
 
-Cuando el tutor de un incapaz sea el cónyuge, continuará ejerciendo los derechos conyugales con las siguientes modificaciones:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-I.- En los casos en que conforme a derecho se requiere el consentimiento del cónyuge, se suplirá éste por el Juez con audiencia del curador;
-
-II.- En los casos en que el cónyuge incapaz pueda querellarse del otro, denunciarlo o demandarlo para asegurar sus derechos violados o amenazados, será representado por un tutor interino que el Juez le nombrará. Es obligación del curador promover este nombramiento y si no lo cumple, será responsable de los perjuicios que se causen al incapacitado. También podrá promover este nombramiento el Consejo Local de Tutelas o los parientes del incapacitado.
-
-> <small>(REFORMADO, P.O. 21 DE MAYO DE 1975)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 583.
 
-Cuando la tutela del incapacitado recaiga en el cónyuge, sólo podrá gravar o enajenar los bienes mencionados en el Artículo 569, previa audiencia del curador y autorización judicial, que se concederá de acuerdo con lo dispuesto en el artículo 562.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 584.
 
-Cuando la tutela recaiga en cualquiera otra persona, se ejercerá conforme a las reglas establecidas para la tutela de los menores.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 585.
 
-En caso de maltratamiento, de negligencia en los cuidados debidos al incapacitado o de mala administración de sus bienes, podrá el tutor ser removido de la tutela a petición del curador, de los parientes del incapacitado o del Consejo Local de Tutelas.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 586.
 
-El tutor tiene derecho a una retribución sobre los bienes del incapacitado, que podrá fijar el ascendiente o extraño que conforme a derecho lo nombre en su testamento y para los tutores legítimos y dativos la fijará el Juez.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 587.
 
-En ningún caso bajará la retribución del cinco ni excederá del diez por ciento de las rentas líquidas de dichos bienes.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 588.
 
-Si los bienes del incapacitado tuvieren un aumento en sus productos, debido exclusivamente a la industria y diligencia del tutor, tendrá derecho a que se le aumente la remuneración hasta un veinte por ciento de los productos líquidos. La calificación del aumento se hará por el Juez, con audiencia del curador.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 589.
 
-Para que pueda hacerse en la retribución de los tutores el aumento extraordinario que permite el artículo anterior, será requisito indispensable que por lo menos en dos años consecutivos haya obtenido el tutor la aprobación absoluta de sus cuentas.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 590.
 
-El tutor no tendrá derecho a remuneración alguna, y restituirá lo que por este título hubiere recibido, si contraviniere lo dispuesto en el artículo 159.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO XI.
 
-De las Cuentas de la Tutela.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 591.
 
-El tutor está obligado a rendir al Juez cuenta detallada de su administración, en el mes de enero de cada año, sea cual fuere la fecha en que se le hubiere discernido el cargo. La falta de presentación de la cuenta en los tres meses siguientes al de enero, motivará la remoción del tutor.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 592.
 
-También tiene obligación de rendir cuentas, cuando por causas graves que calificará el Juez, la exijan el curador, el Consejo Local de Tutelas, o el mismo menor que haya cumplido dieciséis años de edad.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 593.
 
-La cuenta de administración comprenderá no sólo las cantidades en numerario que hubiere recibido el tutor por producto de los bienes y la aplicación que les haya dado, sino en general todas las operaciones que se hubieren practicado, e irá acompañada de los documentos justificativos y de un balance del estado de los bienes.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 594.
 
-El tutor es responsable del valor de los créditos activos si dentro de sesenta días, contados desde el vencimiento de su plazo, no ha obtenido su pago o garantía que asegure éste, o no ha pedido judicialmente el uno o la otra.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 595.
 
-Si el incapacitado no está en posesión de algunos bienes a que tiene derecho, será responsable el tutor de la pérdida de ellos, si dentro de dos meses contados desde que tuvo noticia del derecho del incapacitado, no entabla a nombre de éste judicialmente, las acciones conducentes para recobrarlos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 596.
 
-Lo dispuesto en el artículo anterior se entiende sin perjuicio de la responsabilidad que, después de intentadas las acciones, puede resultar al tutor por culpa o negligencia en el desempeño de su encargo.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 597.
 
-Las cuentas deben rendirse en el lugar en que se desempeña la tutela.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 598.
 
-Deben abonarse al tutor todos los gestos hechos debida y legalmente, aunque los haya anticipado de su propio caudal, y aunque de ellos no haya resultado utilidad al menor si esto ha sido sin culpa del primero.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 599.
 
-Ninguna anticipación ni crédito contra el incapacitado se abonará al tutor, si excede de la mitad de la renta anual de los bienes de aquel, a menos que al efecto haya sido autorizado por el juez con audiencia del curador.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 600.
 
-El tutor será igualmente indemnizado, según el prudente arbitrio del Juez, del daño que haya sufrido por causa de la tutela y en el desempeño necesario de ella, cuando no haya intervenido de su parte culpa o negligencia.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 601.
 
-La obligación de dar cuenta no puede ser dispensada en contrato o última voluntad, ni aún por el mismo menor; y si esa dispensa se pusiere como condición en cualquier acto se tendrá por no puesta.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 602.
 
-El tutor que sea reemplazado por otro, estará obligado, y lo mismo sus herederos, a rendir cuenta general de la tutela al que lo reemplaza. El nuevo tutor responderá al incapacitado por los daños y perjuicios si no pidiere y tomare las cuentas de su antecesor.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 603.
 
-El tutor, o en su falta quien lo represente, rendirá las cuentas generales de la tutela en el término de tres meses, contados desde el día en que fenezca la tutela. El Juez podrá prorrogar este plazo hasta por tres meses más, si circunstancias extraordinarias así lo exigieren.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 604.
 
-La obligación de dar cuenta pasa a los herederos del tutor; y si alguno de ellos sigue administrando los bienes de la tutela, su responsabilidad será la misma que la de aquél.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 605.
 
-La garantía dada por el tutor no se cancelará sino cuando las cuentas hayan sido aprobadas.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 606.
 
-Hasta pasado un mes de la rendición de cuentas, es nulo todo convenio entre el tutor y el pupilo, ya mayor o emancipado, relativo a la administración de la tutela o a las cuentas mismas.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO XII.
 
-De la Extinción de la Tutela.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 607.
 
-La tutela se extingue:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-I.- Por la muerte del pupilo o porque desaparezca su incapacidad;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-II.- Cuando el incapacitado sujeto a tutela entre a la patria potestad por reconocimiento o por adopción.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO XIII.
 
-De la Entrega de los Bienes.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 608.
 
-El tutor, concluída la tutela, está obligado a entregar todos los bienes del incapacitado y todos los documentos que le pertenezcan, conforme al balance que se hubiere presentado, en la última cuenta aprobada.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 609.
 
-La obligación de entregar los bienes no se suspende por estar pendiente la rendición de cuentas. La entrega debe ser hecha durante el mes siguiente a la terminación de la tutela, cuando los bienes sean muy cuantiosos o estuvieren ubicados en diversos lugares, el Juez puede fijar un término prudente para su conclusión, pero, en todo caso, deberá comenzarse en el plazo antes señalado.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 610.
 
-El tutor que entre al cargo sucediendo a otro está obligado a exigir la entrega de bienes y cuentas al que le ha precedido. Si no la exige, es responsable de todos los daños y perjuicios que por su omisión se siguieren al incapacitado.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 611.
 
-La entrega de los bienes y la cuenta de la tutela se efectuarán a expensas del incapacitado. Si para realizarse no hubiere fondos disponibles, el Juez podrá autorizar al tutor a fin de que se proporcionen los necesarios para la primera, y éste adelantará los relativos a la segunda, los cuales le serán reembolsados con los primeros fondos de que se pueda disponer.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 612.
 
-Cuando intervenga dolo o culpa de parte del tutor, serán de su cuenta todos los gastos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 613.
 
-El saldo que resulte en pro o en contra del tutor, producirá interés legal. En el primer caso correrá desde que previa entrega de los bienes se haga el requerimiento legal para el pago; y en el segundo, desde la rendición de cuentas, si hubiesen sido dadas dentro del término designado por la ley; y si no, desde que expire el mismo término.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 614.
 
-Cuando en la cuenta resulte alcance contra el tutor, aunque por un arreglo con el menor o sus representantes se otorguen plazos al responsable o a sus herederos para satisfacerlo, quedarán vivas las hipotecas u otras garantías dadas para la administración, hasta que se verifique el pago, a menos que se haya pactado expresamente lo contrario en el arreglo.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 615.
 
-Si la caución fuere de fianza, el convenio que conceda nuevos plazos al tutor, se hará saber al fiador; si éste consiente, quedará obligado hasta la solución; si no consiente, no habrá espera, y se podrá exigir el pago inmediato o la subrogación del fiador por otro igualmente idóneo que acepte el convenio.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 616.
 
-Si no se hiciere saber el convenio al fiador, éste no permanecerá obligado.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 617.
 
-Todas las acciones por hechos relativos a la administración de la tutela, que el incapacitado pueda ejercitar contra su tutor, o contra los fiadores y garantes de éste, quedan extinguidas por el lapso de cuatro años, contados desde el día en que se cumpla la mayor edad, o desde el momento en que se hayan recibido los bienes y la cuenta de tutela, o desde que haya cesado la incapacidad en los demás casos previstos por la ley.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 618.
 
-Si la tutela hubiere fenecido durante la minoridad, el menor podrá ejercitar las acciones correspondientes contra el primer tutor y los que le hubieren sucedido en el cargo, computándose entonces los términos desde el día en que llegue a la mayor edad. Tratándose de los demás incapacitados, los términos se computarán desde que cese la incapacidad.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO XIV.
 
-Del Curador.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 619.
 
-Todos los individuos sujetos a tutela, ya sea testamentaria, legítima o dativa, además del tutor tendrán un curador, excepto en los casos de tutela a que se refieren los artículos 493 y 501.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 620.
 
-En todo caso en que se nombre al menor un tutor interino, se le nombrará curador con el mismo carácter, si no lo tuviere definitivo, o si teniéndolo se halla impedido.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 621.
 
-También se nombrará un curador interino en el caso de oposición de intereses a que se refiere el artículo 458.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 622.
 
-Igualmente se nombrará curador interino en los casos de impedimento, separación o excusa del nombrado, mientras se decide el punto; luego que se decida se nombrará nuevo curador conforme a derecho.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 623.
 
-Lo dispuesto sobre impedimentos o excusas de los tutores regirá respecto de los curadores.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 624.
 
-Los que tienen derecho a nombrar tutor, lo tienen también de nombrar curador.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 625.
 
-Designarán por sí mismos al curador, con aprobación judicial:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-I.- Los comprendidos en el artículo 497, observándose lo que allí se dispone respecto de esos nombramientos;
-
-> <small>(REFORMADA, P.O. 9 DE ABRIL DE 1970)</small>
-
-II.- Los menores de edad emancipados por razón del matrimonio, en el caso previsto en la fracción III del artículo 644.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 626.
 
-El curador de todos los demás individuos sujetos a tutela será nombrado por el Juez.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 627.
 
-El curador está obligado:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-I.- A defender los derechos del incapacitado en juicio o fuera de él, exclusivamente en el caso de que estén en oposición con los del tutor;
-
-II.- A vigilar la conducta del tutor y a poner en conocimiento del Juez todo aquello que considere que puede ser dañoso al incapacitado;
-
-III.- A dar aviso al Juez para que se haga el nombramiento de tutor, cuando éste faltare o abandonare la tutela;
-
-IV.- A cumplir las demás obligaciones que la ley le señale.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 628.
 
-El curador que no llene los deberes prescriptos en el artículo que precede, será responsable de los daños y perjuicios que resulten al incapacitado.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 629.
 
-Las funciones del curador cesarán cuando el incapacitado salga de la tutela; pero si sólo variaren las personas de los tutores, el curador continuará en la curaduría.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 630.
 
-El curador tiene derecho a ser relevado de la curaduría, pasados diez años desde que se encargó de ella.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 631.
 
-En los casos en que conforme a este Código tenga que intervenir el curador; cobrará el honorario que señala el arancel a los procuradores, sin que por ningún otro motivo pueda pretender mayor retribución. Si hiciere algunos gastos en el desempeño de su cargo, se le pagarán.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO XV.
 
-De los Consejos Locales de Tutela y de los Jueces de Primera Instancia.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 632.
 
-En cada Municipalidad habrá un Consejo Local de Tutelas compuesto de un presidente y de dos vocales, que durarán un año en el ejercicio de su cargo. Serán nombrados por los respectivos Ayuntamientos en la primera sesión que celebren, en el mes de enero de cada año, procurando que los nombramientos recaigan en personas que sean de notorias buenas costumbres y que tengan interés en proteger a la infancia desvalida.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 633.
 
-El Consejo Local de Tutelas es un órgano de vigilancia y de información, que, además de las funciones que expresamente le asignan varios de los artículos que preceden, tienen las obligaciones siguientes:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-I.- Formar y remitir a los Jueces una lista de las personas de la localidad que por su aptitud legal y moral, puedan desempeñar la tutela, para que de entre ellas se nombren los tutores y curadores, en los casos que estos nombramientos correspondan al Juez;
-
-II.- Velar porque los tutores cumplan sus deberes, especialmente en lo que se refiere a la educación de los menores; dando aviso al Juez de las faltas u omisiones que notare;
-
-III.- Avisar al Juez cuando tenga conocimiento de que los bienes de un incapacitado están en peligro, a fin de que dicte las medidas correspondientes;
-
-IV.- Investigar y poner en conocimiento del Juez que incapacitados carecen de tutor, con el objeto de que se hagan los respectivos nombramientos;
-
-V.- Cuidar con especialidad de que los tutores cumplan la obligación que les impone la fracción II del artículo 538;
-
-VI.- Vigilar el registro de tutelas, a fin de que sea llevado en debida forma.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 634.
 
-Sólo los Jueces de Primera Instancia son las autoridades competentes para intervenir en los asuntos relativos a la tutela.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-Ejercerán una sobrevigilancia sobre el conjunto de los actos del tutor, para impedir por medio de disposiciones apropiadas la transgresión de sus deberes.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 635.
 
-Mientras que se nombra tutor, el Juez debe dictar las medidas necesarias para que el incapacitado no sufra perjuicios en su persona o en sus intereses.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO XVI.
 
-Del Estado de Interdicción.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 636.
 
-Son nulos todos los actos de administración ejecutados y los contratos celebrados por los incapacitados, sin la autorización del tutor, salvo lo dispuesto en la fracción IV del artículo 538.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 637.
 
-Son también nulos los actos de administración y los contratos celebrados por los menores emancipados, si son contrarios a las restricciones establecidas por el artículo 644.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 638.
 
-La nulidad a que se refieren los artículos anteriores, sólo puede ser alegada, sea como acción, sea como excepción, por el mismo incapacitado por sus legítimos representantes; pero no por las personas con quienes contrató ni por los fiadores que se hayan dado al constituirse la obligación, ni por los mancomunados en ella.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 639.
 
-La acción para pedir la nulidad, prescribe en los términos en que prescriben las acciones personales o reales, según la naturaleza del acto cuya nulidad se pretende.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 640.
 
-Los menores de edad no pueden alegar la nulidad de que hablan los artículos 636 y 637, en las obligaciones que hubieren contraído sobre las materias propias de la profesión o arte en que sean peritos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 641.
 
-Tampoco pueden alegarla los menores, si han presentado certificados falsos del Registro Civil, para hacerse pasar como mayores o han manifestado dolosamente que lo eran.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ## TITULO X.
 
 De la Emancipación y de la Mayor Edad.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
+
 ### CAPITULO I.
 
 De la Emancipación.
 
-> <small>(REFORMADO, P.O. 9 DE ABRIL DE 1970)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 642.
 
-El matrimonio del menor de 18 años, produce de derecho la emancipación. Aunque el matrimonio se disuelva, el cónyuge emancipado, que sea menor, no recaerá en la patria potestad.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
 ###### Artículo 643.
 
 (DEROGADO, P.O. 9 DE ABRIL DE 1970)
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
 ###### Artículo 644.
 
-El emancipado tiene la libre administración de sus bienes, pero siempre necesita durante su menor edad:
-
-> <small>(REFORMADA, P.O. 9 DE ABRIL DE 1970)</small>
-
-I.- De la autorización judicial para la enajenación, gravamen o hipoteca de bienes raíces;
-
-> <small>(REFORMADA, P.O. 9 DE ABRIL DE 1970)</small>
-
-II.- De un tutor para los negocios judiciales.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
 ###### Artículo 645.
 
@@ -4093,395 +4323,521 @@ II.- De un tutor para los negocios judiciales.
 
 (DEROGADO, P.O. 9 DE ABRIL DE 1970)
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
+
 ### CAPITULO II.
 
-De la Mayor Edad.
-
-> <small>(REFORMADO, P.O. 9 DE ABRIL DE 1970)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 647.
 
-La mayor edad comienzo (sic) a los 18 años cumplidos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 648.
 
-El mayor de edad dispone libremente de su persona y de sus bienes.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ## TITULO XI.
 
-De los Ausentes e Ignorados.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO I.
 
-De las Medidas Provisionales en caso de Ausencia.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 649.
 
-El que se hubiere ausentado del lugar de su residencia ordinaria y tuviere apoderado constituído antes o después de su partida, se tendrá como presente para todos los efectos civiles, y sus negocios se podrán tratar con el apoderado hasta donde alcance el poder.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 650.
 
-Cuando una persona haya desaparecido y se ignore el lugar donde se halle y quien la represente, el Juez, a petición de parte o de oficio, nombrará un depositario de sus bienes, la citará por edictos publicados en los principales periódicos de su último domicilio, señalándole para que se presente en un término que no bajará de tres meses, ni pasará de seis, y dictará las providencias necesarias para asegurar los bienes.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 651.
 
-Al publicarse los edictos remitirá copia a los cónsules mexicanos de aquellos lugares del extranjero en que se puede presumir que se encuentra el ausente o que se tenga noticias de él.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 652.
 
-Si el ausente tiene hijos menores, que estén bajo su patria potestad, y no hay ascendiente que deba ejercerla conforme a la ley, ni tutor testamentario, ni legítimo, el Ministerio Público pedirá que se nombre tutor, en los términos prevenidos en los artículos 497 y 498.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 653.
 
-Las obligaciones y facultades del depositario serán las que la ley asigna a los depositarios judiciales.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 654.
 
-Se nombrará depositario:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-I.- Al cónyuge del ausente;
-
-II.- A uno de los hijos mayores de edad que resida en el lugar. Si hubiere varios, el Juez elegirá al más apto;
-
-III.- Al ascendiente más próximo en grado al ausente;
-
-IV.- A falta de los anteriores o cuando sea inconveniente que éstos por su notoria mala conducta o por su ineptitud sean nombrados depositarios, el Juez nombrará al heredero presuntivo y si hubiere varios se observará lo que dispone el artículo 660.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 655.
 
-Si cumplido el término del llamamiento, el citado no compareciere por sí, ni por apoderado legítimo, ni por medio de tutor o de pariente que pueda representarlo, se procederá al nombramiento de representante.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 656.
 
-Lo mismo se hará cuando en iguales circunstancias caduque el poder conferido por el ausente, o sea insuficiente para el caso.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 657.
 
-Tienen acción para pedir el nombramiento de depositario o de representante, el Ministerio Público, o cualquiera a quien interese tratar o litigar con el ausente o defender los intereses de éste.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 658.
 
-En el nombramiento de representante se seguirá el orden establecido en el artículo 654.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 659.
 
-Si el cónyuge ausente fuere casado en segundas o ulteriores nupcias, y hubiere hijos del matrimonio o matrimonios anteriores, el Juez dispondrá que el cónyuge presente y los hijos del matrimonio o matrimonios anteriores, o sus legítimos representantes en su caso, nombren de acuerdo el depositario representante; mas si no estuvieren conformes, el Juez lo nombrará libremente, de entre las personas designadas en el artículo anterior.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 660.
 
-A falta del cónyuge, de descendientes y de ascendientes, será representante el heredero presuntivo. Si hubiere varios con igual derecho, ellos mismos elegirán el que debe representarlo. Si no se ponen de acuerdo en la elección, la hará el Juez, prefiriendo al que tenga mas interés en la conservación de los bienes del ausente.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 661.
 
-El representante del ausente es el legítimo administrador de los bienes de éste y tiene respecto de ellos las mismas obligaciones, facultades y restricciones que los tutores.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-No entrará a la administración de los bienes sin que previamente forme inventario y avalúo de ellos y si dentro del término de un mes no presta la caución correspondiente, se nombrará otro representante.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 662.
 
-El representante del ausente disfrutará la misma retribución que a los tutores señalan los artículos 586, 587 y 588.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 663.
 
-No pueden ser representantes de un ausente, los que no pueden ser tutores.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 664.
 
-Pueden excusarse, los que puedan hacerlo de la tutela.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 665.
 
-Será removido del cargo de representante, el que deba serlo del de tutor.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 666.
 
-El cargo de representante acaba:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-I.- Con el regreso del ausente;
-
-II.- Con la presentación del apoderado legítimo;
-
-III.- Con la muerte del ausente;
-
-IV.- Con la posesión provisional.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 667.
 
-Cada año, en el día que corresponda a aquel en que hubiere sido nombrado el representante, se publicarán nuevos edictos llamando al ausente. En ellos constarán el nombre y domicilio del representante, y el tiempo que falte para que se cumpla el plazo que señalan los artículos 670 y 671 en su caso.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 668.
 
-Los edictos se publicarán por dos meses, con intervalo de quince días, en los principales periódicos del último domicilio del ausente y se remitirán a los cónsules, como previene el artículo 651.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 669.
 
-El representante está obligado a promover la publicación de los edictos. La falta de cumplimiento de esa obligación hace responsable al representante, de los daños y perjuicios que se sigan al ausente, y es causa legítima de remoción.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO II.
 
-De la Declaración de Ausencia.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 670.
 
-Pasados dos años desde el día en que haya sido nombrado el representante, habrá acción para pedir la declaración de ausencia.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 671.
 
-En caso de que el ausente haya dejado o nombrado apoderado general para la administración de sus bienes, no podrá pedirse la declaración de ausencia sino pasados tres años, que se contarán desde la desaparición del ausente, si en este período no se tuvieren ningunas noticias suyas, o desde la fecha en que se hayan tenido las últimas.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 672.
 
-Lo dispuesto en el artículo anterior se observará aun cuando el poder se haya conferido por más de tres años.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 673.
 
-Pasados dos años, que se contarán del modo establecido en el artículo 671, el Ministerio Público y las personas que designa el artículo siguiente, pueden pedir que el apoderado garantice, en los mismos términos en que debe hacerlo el representante. Si no lo hiciere, se nombrará representante de acuerdo con lo dispuesto en los artículos 658, 659 y 660.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 674.
 
-Pueden pedir la declaración de ausencia:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-I.- Los presuntos herederos legítimos del ausente;
-
-II.- Los herederos instituidos en testamento abierto;
-
-III.- Los que tengan algún derecho u obligación que dependa de la vida, muerte o presencia del ausente; y
-
-IV.- El Ministerio Público.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 675.
 
-Si el Juez encuentra fundada la demanda, dispondrá que se publique durante tres meses, con intervalos de quince días, en el Periódico Oficial que corresponda, y en los principales del último domicilio del ausente, y las remitirá a los cónsules, conforme al artículo 651.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 676.
 
-Pasados cuatro meses desde la fecha de la última publicación, si no hubiere noticias del ausente ni oposición de algún interesado, el Juez declarará en forma la ausencia.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 677.
 
-Si hubiere algunas noticias u oposición, el Juez no declarará la ausencia sin repetir las publicaciones que establece el artículo 675 y hacer la averiguación por los medios que el oponente proponga, y por los que el mismo Juez crea oportunos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 678.
 
-La declaración de ausencia se publicará tres veces en los periódicos mencionados con intervalo de quince días, remitiéndose a los cónsules como está prevenido respecto de los edictos. Ambas publicaciones se repetirán cada dos años, hasta que se declare la presunción de muerte.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 679.
 
-El fallo que se pronuncie en el juicio de declaración de ausencia, tendrá los recursos que el Código de Procedimientos asigne para los negocios de mayor interés.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO III.
 
-De los Efectos de la Declaración de Ausencia.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 680.
 
-Declarada la ausencia, si hubiere testamento público u ológrafo, la persona en cuyo poder se encuentre lo presentará al Juez, dentro de quince días contados desde la última publicación de que habla el artículo 678.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 681.
 
-El Juez, de oficio o a instancia de cualquiera que se crea interesado en el testamento ológrafo, abrirá éste en presencia del representante del ausente, con citación de los que promovieron la declaración de ausencia, y con las demás solemnidades prescritas para la apertura de esta clase de testamento.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 682.
 
-Los herederos testamentarios y en su defecto, los que fueren legítimos al tiempo de la desaparición de un ausente, o al tiempo en que se hayan recibido las últimas noticias, si tienen capacidad legal para administrar, serán puestos en la posesión provisional de los bienes, dando fianza que asegure las resultas de la administración, si estuvieren bajo la patria potestad o tutela, se procederá conforme a derecho.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 683.
 
-Si son varios los herederos y los bienes admiten cómoda división, cada uno administrará la parte que le corresponda.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 684.
 
-Si los bienes no admiten cómoda división, los herederos elegirán de entre ellos mismos un administrador general, y si no se pusieren de acuerdo, el Juez le nombrará, escogiéndole de entre los mismos herederos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 685.
 
-Si una parte de los bienes fuere cómodamente divisible y otra no, respecto de ésta, se nombrará el administrador general.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 686.
 
-Los herederos que no administren, podrán nombrar un interventor, que tendrá las facultades y obligaciones señaladas a los curadores. Su honorario será el que fijen los que le nombren y se pagará por éstos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 687.
 
-El que entre en la posesión provisional tendrá respecto de los bienes, las mismas obligaciones, facultades y restricciones que los tutores.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 688.
 
-En el caso del artículo 683, cada heredero dará la garantía que corresponda a la parte de bienes que administre.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 689.
 
-En el caso del artículo 684, el administrador general será quien dé la garantía legal.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 690.
 
-Los legatarios, los donatarios y todos los que tengan sobre los bienes del ausente derechos que dependen de la muerte o presencia de éste, podrán ejercitarlos, dando la garantía que corresponda, según el artículo 529.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 691.
 
-Los que tengan con relación al ausente, obligaciones que deban cesar a la muerte de éste, podrán también suspender su cumplimiento bajo la misma garantía.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 692.
 
-Si no pudiere darse la garantía prevenida en los cinco artículos anteriores, el Juez, según las circunstancias de las personas y de los bienes, y concediendo el plazo fijado en el artículo 632, podrá disminuir el importe de aquella, pero de modo que no baje de la tercia parte de los valores señalados en el artículo 529.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 693.
 
-Mientras no se dé la expresada garantía, no cesará la administración del representante.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 694.
 
-No están obligados a dar garantía:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-I.- El cónyuge, los descendientes y los ascendientes que como herederos entren en posesión de los bienes del ausente, por la parte que en ellos les corresponda;
-
-II.- El ascendiente que en ejercicio de la patria potestad administre bienes que como herederos del ausente correspondan a sus descendientes.
-
-Si hubiere legatarios, el cónyuge, los descendientes y ascendientes darán la garantía legal por la parte de bienes que correspondan a los legatarios, si no hubiere división ni administrador general.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 695.
 
-Los que entren en la posesión provisional tienen derecho de pedir cuentas al representante del ausente y éste entregará los bienes y dará las cuentas en los términos prevenidos en los capítulos XII y XIV del Título Noveno de este Libro. El plazo señalado en el artículo 603, se contará desde el día en que el heredero haya sido declarado con derecho a la referida posesión.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 696.
 
-Si hecha la declaración de ausencia no se presentaren herederos del ausente, el Ministerio Público pedirá, o la continuación del representante, o la elección de otro que en nombre de la Hacienda Pública, entre en la posesión provisional, conforme a los artículos que anteceden.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 697.
 
-Muerto el que haya obtenido la posesión provisional, le sucederán sus herederos en la parte que le haya correspondido, bajo las mismas condiciones y con iguales garantías.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 698.
 
-Si el ausente se presenta o se prueba su existencia antes de que sea declarada la presunción de muerte, recobrará sus bienes. Los que han tenido la posesión provisional, hacen suyos todos los frutos industriales que hayan hecho producir a esos bienes y la mitad de los frutos naturales y civiles.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO IV.
 
-De la Administración de los Bienes del Ausente Casado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 699.
 
-La declaración de ausencia interrumpe la sociedad conyugal, a menos de que en las capitulaciones matrimoniales se haya estipulado que continúe.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 700.
 
-Declarada la ausencia, se procederá, con citación de los herederos presuntivos, al inventario de los bienes y a la separación de los que deben corresponder al cónyuge ausente.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 701.
 
-El cónyuge presente recibirá desde luego los bienes que le correspondan hasta el día en que la declaración de ausencia haya causado ejecutoria. De esos bienes podrá disponer libremente.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 702.
 
-Los bienes del ausente se entregarán a sus herederos, en los términos prevenidos en el capítulo anterior.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 703.
 
-En el caso previsto en el artículo 698, si el cónyuge presente entrare como heredero en la posesión provisional, se observará lo que ese artículo dispone.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 704.
 
-Si el cónyuge presente no fuere heredero, ni tuviere bienes propios, tendrá derecho a alimentos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 705.
 
-Si el cónyuge ausente regresa o se probare su existencia, quedará restaurada la sociedad conyugal.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO V.
 
-De la Presunción de muerte del ausente.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 706.
 
-Cuando hayan transcurrido seis años desde la declaración de ausencia, el Juez, a instancia de parte interesada, declarará la presunción de muerte.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-Respecto de los individuos que hayan desaparecido al tomar parte en una guerra, encontrándose a bordo de un buque que naufrague, o al verificarse una explosión, incendio, terremoto, inundación u otro siniestro semejante, bastará que hayan transcurrido dos años, contados desde su desaparición, para que pueda hacerse la declaración de presunción de muerte, sin que en esos casos sea necesario que previamente se declare su ausencia; pero sí se tomarán las medidas provisionales autorizadas por el Capítulo I de este Título.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 707.
 
-Declarada la presunción de muerte, se abrirá el testamento del ausente, si no estuviere ya publicado, conforme al artículo 681; los poseedores provisionales darán cuenta de su administración en los términos prevenidos en el artículo 695 y los herederos y demás interesados entrarán en la posesión definitiva de los bienes, sin garantía alguna. La que según la ley se hubiere dado quedará cancelada.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 708.
 
-Si se llega a probar la muerte del ausente la herencia se defiere a los que debieran heredar al tiempo de ella, pero el poseedor o poseedores de los bienes hereditarios, al restituirlos, se reservarán los frutos correspondientes a la época de la posesión provisional, de acuerdo con lo dispuesto en el artículo 698 y todos ellos, desde que obtuvieron la posesión definitiva.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(F. DE E., P.O. 28 DE NOVIEMBRE DE 1940)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 709.
 
-Si el ausente se presentare o se probare su existencia después de otorgada la posesión definitiva, recobrará sus bienes en el estado en que se hallen, el precio de los enajenados o los que se hubieren adquirido con el mismo precio; pero no podrá reclamar frutos ni rentas.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 710.
 
-Cuando hecha la declaración de ausencia o la presunción de muerte de una persona, se hubieren aplicado sus bienes a los que por testamento o sin él se tuvieren por herederos, y después se presentaren otros pretendiendo que ellos deben ser preferidos en la herencia, y así se declara por sentencia que cause ejecutoria, la entrega de los bienes se hará a éstos en los mismos términos en que, según los artículos 698 y 709 debiera hacerse al ausente si se presentare.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 711.
 
-Los poseedores definitivos darán cuenta al ausente y a sus herederos. El plazo legal correrá desde el día en que el primero se presente por sí o por apoderado legítimo, o desde aquel en que por sentencia que cause ejecutoria se haya deferido la herencia.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 712.
 
-La posesión definitiva termina:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-I.- Con el regreso del ausente;
-
-II.- Con la noticia cierta de su existencia;
-
-III.- Con la certidumbre de su muerte;
-
-IV.- Con la sentencia que cause ejecutoria, en el caso del artículo 710.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 713.
 
-En el caso segundo del artículo anterior, los poseedores definitivos serán considerados como provisionales desde el día en que se tenga noticia cierta de la existencia del ausente.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 714.
 
-La sentencia que declare la presunción de muerte de un ausente casado, pone término a la sociedad conyugal.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 715.
 
-En el caso previsto en el artículo 704, el cónyuge sólo tendrá derecho a los alimentos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO VI.
 
-De los Efectos de la Ausencia respecto de los Derechos Eventuales del Ausente.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 716.
 
-Cualquiera que reclame un derecho referente a una persona cuya existencia no esté reconocida, deberá probar que ésta persona vivía en el tiempo en que era necesaria su existencia para adquirir aquel derecho.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 717.
 
-Si se defiere una herencia a la que sea llamado un individuo declarado ausente o respecto del cual se haya hecho la declaración de presunción de muerte, entrarán sólo en ella los que debían ser coherederos de aquel o suceder por su falta; pero deberán hacer inventario en forma de los bienes que reciban.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 718.
 
-En este caso, los coherederos o sucesores se considerarán como poseedores provisionales o definitivos de los bienes que por herencia debían corresponder al ausente, según la época en que la herencia se defiera.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 719.
 
-Lo dispuesto en los dos artículos anteriores, debe entenderse sin perjuicio de las acciones de petición de herencia y de otros derechos que podrán ejercitar el ausente, sus representantes, acreedores o legatarios, y que no se extinguirán sino por el transcurso del tiempo fijado para la prescripción.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 720.
 
-Los que hayan entrado en la herencia harán suyos los frutos percibidos de buena fe, mientras el ausente no comparezca, sus acciones no sean ejercitadas por sus representantes, o por los que por contrato o cualquiera otra causa tengan con él relaciones jurídicas.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO VII.
 
-Disposiciones Generales.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 721.
 
-El representante y los poseedores provisionales y definitivos, en sus respectivos casos, tienen la legítima procuración del ausente en juicio y fuera de él.
+E(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 722.
 
-Por causa de ausencia no se suspenden los términos que fija la ley para la prescripción.
+E(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 723.
 
-El Ministerio Público velará por los intereses del ausente, será oído en todos los juicios que tengan relación con él, y en las declaraciones de ausencia y presunción de muerte.
+E(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
 > <small>(ADICIONADO CON EL CAPITULO QUE LO INTEGRA, P.O. 24 DE OCTUBRE DE 1975)</small>
 
@@ -6295,7 +6651,7 @@ La autoridad solo concederá el permiso con entera sujeción a los reglamentos r
 
 ###### Artículo 1083.
 
-El que sin dicho permiso previo, pasare el agua o la derramare sobre el camino, quedará obligado a reponer las cosas a su estado antiguo y a indemnizar el daño que a cualquiera se cauce, sin perjuicio de las penas impuestas por los reglamentos correspondientes.
+El que sin dicho permiso previo, pasare el agua o la derramare sobre el camino, quedará obligado a reponer las cosa a su estado antiguo y a indemnizar el daño que a cualquiera se cauce, sin perjuicio de las penas impuestas por los reglamentos correspondientes.
 
 ###### Artículo 1084.
 
@@ -6809,2503 +7165,3217 @@ El día en que comienza la prescripción se cuenta siempre entero, aunque no lo 
 
 Cuando el último día sea feriado, no se tendrá por completa la prescripción, sino cumplido el primero que siga, si fuere útil.
 
-# Libro Tercero. DE LAS SUCESIONES
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE LIBRO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS TÍTULOS, CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
+
+# Libro Tercero
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ## TITULO I.
 
-Disposiciones Preliminares.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1179.
 
-Herencia es la sucesión en todos los bienes del difunto y en todos sus derechos y obligaciones que no se extinguen por la muerte.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1180.
 
-La herencia se defiere por la voluntad del testador o por disposición de la Ley. La primera se llama testamentaria, y la segunda legítima.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1181.
 
-El testador puede disponer del todo o de parte de sus bienes. La parte de que no disponga quedará regida por los preceptos de la sucesión legítima.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1182.
 
-El heredero adquiere a título universal y responde de las cargas de la herencia hasta donde alcance la cuantía de los bienes que hereda.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1183.
 
-El legatario adquiere a título particular y no tiene más cargas que las que expresamente le imponga el testador, sin perjuicio de su responsabilidad subsidiaria con los herederos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1184.
 
-Cuando toda la herencia se distribuya en legados, los legatarios serán considerados como herederos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1185.
 
-Si el autor de la herencia y sus herederos o legatarios perecieren en el mismo desastre o en el mismo día, sin que se pueda averiguar a ciencia cierta quiénes murieron antes, se tendrán todos por muertos al mismo tiempo, y no habrá lugar entre ellos a la transmisión de la herencia o legado.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1186.
 
-A la muerte del autor de la sucesión los herederos adquieren derecho a la masa hereditaria como a un patrimonio común, mientras que no se hace la división.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1187.
 
-Cada heredero puede disponer del derecho que tiene en la masa hereditaria; pero no puede disponer de las cosas que forman la sucesión.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1188.
 
-El legatario adquiere derecho al legado puro y simple así como al de día cierto, desde el momento de la muerte del testador.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1189.
 
-El heredero o legatario no puede enajenar su parte en la herencia sino después de la muerte de aquel a quien hereda.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1190.
 
-El heredero de parte de los bienes que quiera vender a un extraño su derecho hereditario, debe notificar a sus coherederos por medio de notario, judicialmente o por medio de dos testigos, las bases o condiciones en que se ha concertado la venta, a fin de que aquéllos, dentro del término de ocho días, hagan uso del derecho del tanto; si los herederos hacen uso de ese derecho, el vendedor está obligado a consumar la venta a su favor, conforme a las bases concertadas. Por el solo lapso de los ocho días se pierde el derecho del tanto. Si la venta se hace omitiéndose la notificación prescrita en este artículo, será nula.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1191.
 
-Si dos o más coherederos quisieren hacer uso del derecho del tanto, se preferirá al que represente mayor porción en la herencia, y si las porciones son iguales, la suerte decidirá quién hace uso del derecho.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1192.
 
-El derecho concedido en el artículo 1190 cesa si la enajenación se hace a un coheredero.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ## TITULO II.
 
-De la Sucesión por Testamento.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO I.
 
-De los Testamentos en General.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1193.
 
-Testamento es un acto revocable y libre, por el cual una persona capaz dispone de sus bienes y derechos, y declara o cumple deberes para después de su muerte.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1194.
 
-El testamento es un acto personalísimo que no puede desempeñarse por mandatario.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1195.
 
-No pueden testar en el mismo acto dos o más personas, ya en provecho recíproco, ya en favor de un tercero.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1196.
 
-Ni la subsistencia del nombramiento del heredero o de los legatarios, ni la designación de las cantidades que a ellos corresponda, puede dejarse al arbitrio de un tercero.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1197.
 
-Cuando el testador deje como herederos o legatarios a determinadas clases formadas por número ilimitado de individuos, tales como los pobres, los huérfanos, los ciegos, etc., puede encomendar a un tercero la distribución de las cantidades que deje para ese objeto y la elección de las personas a quienes deban aplicarse, observándose lo dispuesto en el artículo 1229.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1198.
 
-El testador puede encomendar a un tercero que haga la elección de los actos de beneficencia o de los establecimientos públicos o privados a los cuales deban aplicarse los bienes que legue con ese objeto, así como la distribución de las cantidades que a cada uno correspondan.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1199.
 
-La disposición hecha en términos vagos en favor de los parientes del testador, se entenderá que se refiere a los parientes más próximos, según el orden de la sucesión legítima.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1200.
 
-Las disposiciones hechas a título universal o particular no tienen ningún efecto cuando se funden en una causa expresa, que resulte errónea, si ha sido la única que determinó la voluntad del testador.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1201.
 
-Toda disposición testamentaria deberá entenderse en el sentido literal de las palabras, a no ser que aparezca con manifiesta claridad que fue otra la voluntad del testador.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-En caso de duda sobre la inteligencia o interpretación de una disposición testamentaria, se observará lo que parezca más conforme a la intención del testador, según el tenor del testamento y la prueba auxiliar que a este respecto pueda rendirse por los interesados.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1202.
 
-Si un testamento se pierde por un evento ignorado por el testador, o por haber sido ocultado por otra persona, podrán los interesados exigir su cumplimiento si demuestran plenamente el hecho de la pérdida o de la ocultación, logran igualmente comprobar lo contenido en el mismo testamento y que en su otorgamiento se llenaron todas las formalidades legales.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1203.
 
-La expresión de una causa contraria a derecho, aunque sea verdadera, se tendrá por no escrita.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO II.
 
-De la Capacidad para Testar.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1204.
 
-Pueden testar todos aquellos a quienes la Ley no prohibe expresamente el ejercicio de ese derecho.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1205.
 
-Están incapacitados para testar:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-I.- Los menores que no han cumplido dieciséis años de edad ya sean hombres o mujeres;
-
-II.- Los que habitual o accidentalmente no disfrutan de su cabal juicio.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1206.
 
-Es válido el testamento hecho por un demente en un intervalos de lucidez, con tal de que al efecto se observan las prescripciones siguientes.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1207.
 
-Siempre que un demente pretenda hacer testamento en un intervalo de lucidez, el tutor y en defecto de éste, la familia de aquél, presentará por escrito una solicitud al Juez que corresponda. El Juez nombrará dos médicos, de preferencia especialistas en la materia, para que examinen al enfermo y dictaminen acerca de su estado mental. El Juez tiene obligación desistir al examen del enfermo, y podrá hacerle cuantas preguntas estime convenientes, a fin de cerciorarse de su capacidad para testar.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1208.
 
-Se hará constar en acta formal el resultado del reconocimiento.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1209.
 
-Si éste fuere favorable, se procederá desde luego a la formación de testamento ante Notario Público, con todas las solemnidades que se requieran para los testamentos públicos abiertos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1210.
 
-Firmarán el acta, además del Notario y de los testigos, el Juez y los médicos que intervinieron para el reconocimiento, poniéndose al pie del testamento, razón expresa de que durante todo el acto conservó el paciente perfecta lucidez de juicio, y sin este requisito y su constancia, será nulo el testamento.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1211.
 
-Para juzgar de la capacidad del testador se atenderá especialmente al estado en que se halle al hacer testamento.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO III.
 
-De la Capacidad para Heredar.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1212.
 
-Todas las personas tienen capacidad para heredar, y no pueden ser privados de ella de un modo absoluto; pero con relación a ciertas personas y a determinados bienes, pueden perderla por alguna de las causas siguientes:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-I.- Falta de personalidad;
-
-II.- Delito;
-
-III.- Presunción de influencia contraria a la libertad del testador, o a la verdad o integridad del testamento;
-
-IV.- Falta de reciprocidad internacional;
-
-V.- Utilidad pública;
-
-VI.- Renuncia o remoción de algún cargo conferido en el testamento.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1213.
 
-Son incapaces de adquirir por testamento o por intestado, a causa de falta de personalidad, los que no estén concebidos al tiempo de la muerte del autor de la herencia, o los concebidos cuando no sean viables, conforme a lo dispuesto en el artículo 338.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1214.
 
-Será, no obstante, válida la disposición hecha en favor de los hijos que nacieren de ciertas y determinadas personas durante la vida del testador.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE OCTUBRE DE 1998)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1215.
 
-Son incapaces de adquirir por testamento o por intestado:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-I.- El que haya sido condenado por haber dado, mandado o intentado dar muerte a la persona de cuya sucesión se trate, o a los padres, hijos, cónyuge o hermanos de ella;
-
-II.- El que haya hecho contra el autor de la sucesión, sus ascendientes, descendientes, hermanos o cónyuge, acusación de delito que merezca pena capital o de prisión, aún cuando aquélla sea fundada, si fuere su descendiente, su ascendiente, su cónyuge o su hermano, a no ser que ese acto haya sido preciso para que el acusador salvara su vida, su honra, o la de sus descendientes, ascendientes, hermanos o cónyuge;
-
-III.- El cónyuge que mediante juicio ha sido declarado adúltero, si se trata de suceder al cónyuge inocente;
-
-IV.- El coautor del cónyuge adúltero, ya sea que se trate de la sucesión de éste o de la del cónyuge inocente;
-
-V.- El que haya sido condenado por un delito que merezca pena de prisión, cometido contra el autor de la herencia, de sus hijos, de su cónyuge, de sus ascendientes o de sus hermanos;
-
-VI.- El padre y la madre respecto del hijo expuesto por ellos;
-
-> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 1998)</small>
-
-VII.- Los ascendientes que abandonaren, prostituyeren o corrompieren a sus descendientes, respecto de los ofendidos;
-
-VIII.- Los demás parientes del autor de la herencia que, teniendo obligación de darle alimentos, no la hubieren cumplido;
-
-IX.- Los parientes del autor de la herencia que, hallándose éste imposibilitado para trabajar y sin recursos, no se cuidaren de recogerlo, o de hacerlo recoger en establecimientos de beneficencia;
-
-> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 1998)</small>
-
-X.- El que usare de violencia, dolo o fraude con una persona para que haga, deje de hacer o revoque su testamento;
-
-> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 1998)</small>
-
-XI.- El que conforme al Código Penal, fuere culpable de supresión, substitución o suposición de infante, siempre que se trate de la herencia que debió de corresponder a éste o a las personas a quienes se haya perjudicado o intentare perjudicar con esos actos; y
-
-> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 1998)</small>
-
-XII.- El que haya sido condenado por delito cometido en contra del autor de la herencia.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1216.
 
-Se aplicará también lo dispuesto en la fracción II del artículo anterior, aunque el autor de la herencia no fuere descendiente, ascendiente, cónyuge o hermano del acusador, si la acusación es declarada calumniosa.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1217.
 
-Cuando la parte agraviada de cualquiera de los modos que expresa el artículo 1215, perdonare al ofensor, recobrará éste el derecho de suceder al ofendido, por intestado, si el perdón consta por declaración auténtica o por hechos indubitables.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1218.
 
-La capacidad para suceder por testamento, sólo se recobra si después de conocido el agravio, el ofendido instituye heredero al ofensor o revalida su institución anterior con las mismas solemnidades que se exigen para testar.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1219.
 
-En los casos de intestado, los descendientes del incapaz de heredar conforme al artículo 1215, heredarán al autor de la sucesión, no debiendo ser excluídos por la falta de su padre; pero éste no puede, en ningún caso, tener en los bienes de la sucesión, el usufructo, ni la administración que la ley acuerda a los padres sobre los bienes de sus hijos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1220.
 
-Por presunción de influjo contrario a la libertad del autor de la herencia, son incapaces de adquirir por testamento del menor, los tutores y curadores, a no ser que sean instituidos antes de ser nombrados para el cargo o después de la mayor edad de aquél, estando ya aprobadas las cuentas de la tutela.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1221.
 
-La incapacidad a que se refiere el artículo anterior no comprende a los ascendientes ni hermanos del menor, observándose en su caso lo dispuesto en la fracción X del artículo 1215.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1222.
 
-Por presunción contraria a la libertad del testador, son incapaces de heredar por testamento, el médico que haya asistido a aquél durante su última enfermedad, si entonces hizo su disposición testamentaria; así como el cónyuge, ascendientes, descendientes y hermanos del facultativo, a no ser que los herederos instituidos sean también herederos legítimos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1223.
 
-Por presunción de influjo contrario a la verdad e integridad del testamento, son incapaces de heredar, el notario y los testigos que intervinieron en él, y sus cónyuges, descendientes, ascendientes o hermanos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1224.
 
-Los ministros de los cultos no pueden ser herederos por testamento de los ministros del mismo culto o de un particular con quien no tengan parentesco dentro del segundo grado. La misma incapacidad tienen los ascendientes, descendientes, cónyuges y hermanos de los ministros, respecto de las personas a quienes éstos hayan prestado cualquiera clase de auxilios espirituales, durante la enfermedad de que hubieren fallecido o de quienes hayan sido directores espirituales los mismos ministros.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1225.
 
-El notario que a sabiendas autorice un testamento en que se contravenga lo dispuesto en los tres artículos anteriores, sufrirá la pena de privación de oficio.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1226.
 
-Los extranjeros y las personas morales, son capaces de adquirir bienes por testamento o por intestado; pero su capacidad tiene las limitaciones establecidas en la Constitución Política de los Estados Unidos Mexicanos y en las respectivas leyes reglamentarias de los artículos constitucionales. Tratándose de extranjeros, se observará también lo dispuesto en el artículo siguiente.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1227.
 
-Por falta de reciprocidad internacional, son incapaces de heredar por testamento o por intestado, a los habitantes del Estado de Sinaloa, los extranjeros que, según las leyes de su país, no pueden testar o dejar por intestado sus bienes a favor de los mexicanos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1228.
 
-La herencia o legado que se deje a un establecimiento público, imponiéndole algún gravamen o bajo alguna condición sólo serán válidos si el Gobierno del Estado los aprueba.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1229.
 
-Las disposiciones testamentarias hechas en favor de los pobres en general o del alma, se entenderán hechas en favor de la Beneficencia Pública del Estado. Las hechas en favor de las iglesias, sectas o instituciones religiosas, se sujetarán a lo dispuesto en el artículo 27 de la Constitución Federal y por las leyes federales de la materia.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1230.
 
-Por renuncia o remoción de su cargo, son incapaces de heredar por testamento, los que, nombrados en él tutores, curadores o albaceas, hayan rehusado, sin justa causa, el cargo, o por mala conducta hayan sido separados judicialmente de su ejercicio.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1231.
 
-Lo dispuesto en la primera parte del artículo anterior, no comprende a los que, desechada por el juez la excusa, hayan servido el cargo.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1232.
 
-Las personas llamadas por la ley para desempeñar la tutela legítima y que rehusasen sin causa legítima desempeñarla, no tienen derecho de heredar a los incapaces de quienes deben ser tutores.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1233.
 
-Para que el heredero pueda suceder, basta que sea capaz al tiempo de la muerte del autor de la herencia.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1234.
 
-Si la institución fuere condicional, se necesitará además, que el heredero sea capaz al tiempo en que se cumpla la condición.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1235.
 
-El heredero por testamento, que muera antes que el testador o antes de que se cumpla la condición; el incapaz de heredar y el que renuncie a la sucesión no trasmiten ningún derecho a sus herederos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1236.
 
-En los casos del artículo anterior la herencia pertenece a los herederos legítimos del testador, a no ser que éste haya dispuesto otra cosa.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1237.
 
-El que hereda en lugar del excluído, tendrá las mismas cargas y condiciones que legalmente se habían puesto a aquél.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1238.
 
-Los deudores hereditarios que fueren demandados y que no tengan el carácter de herederos, no podrán oponer, al que esté en posesión del derecho de heredero o legatario, la excepción de incapacidad.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1239.
 
-A excepción de los casos comprendidos en las fracciones X y XI del artículo 1215, la incapacidad para heredar a que se refiere ese artículo, priva también de los alimentos que corresponden por ley.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1240.
 
-La incapacidad no produce el efecto de privar al incapaz de lo que hubiere de percibir, sino después de declarada en juicio, a petición de algún interesado, no pudiendo promoverla el juez de oficio.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1241.
 
-No puede deducirse acción para declarar la incapacidad, pasados tres años desde que el incapaz esté en posesión de la herencia o legado; salvo que se trate de incapacidades establecidas en vista del interés público, las cuales en todo tiempo pueden hacerse valer.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1242.
 
-Si el que entró en posesión de la herencia y la pierde después por incapacidad, hubiere enajenado o gravado todo o parte de los bienes antes de ser emplazado en el juicio en que se discuta su incapacidad, y aquel con quien contrató hubiere tenido buena fe, el contrato subsistirá; mas el heredero incapaz estará obligado a indemnizar al legítimo, de todos los daños y perjuicios.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-### CAPÍTULO IV. DE LAS CONDICIONES QUE PUEDEN PONERSE EN LOS TESTAMENTOS
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
+
+### CAPÍTULO IV
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1243.
 
-El testador es libre para establecer condiciones al disponer de sus bienes.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1244.
 
-Las condiciones impuestas a los herederos y legatarios, en lo que no esté prevenido en este Capítulo, se regirán por las reglas establecidas para las obligaciones condicionales.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1245.
 
-La falta de cumplimiento de alguna condición impuesta al heredero o al legatario, no perjudicará a éstos siempre que hayan empleado todos los medios necesarios para cumplir aquélla.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1246.
 
-La condición física o legalmente imposible de dar o de hacer, impuesta al heredero o legatario, se tiene por no puesta.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1247.
 
-Si la condición que era imposible al tiempo de otorgar el testamento, dejare de serlo a la muerte del testador, será válida.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1248.
 
-Es nula la institución hecha bajo la condición de que el heredero o legatario hagan en su testamento alguna disposición en favor del testador o de otra persona.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1249.
 
-La condición que solamente suspende por cierto tiempo la ejecución del testamento, no impedirá que el heredero o el legatario adquieran derecho a la herencia o legado y lo trasmitan a sus herederos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1250.
 
-Cuando el testador no hubiere señalado plazo para el cumplimiento de la condición, la cosa legada permanecerá en poder del albacea, y al hacerse la partición se asegurará competentemente el derecho del legatario para el caso de cumplirse la condición, observándose, además, las disposiciones establecidas para hacer la partición cuando alguno de los herederos es condicional.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1251.
 
-Si la condición es puramente potestativa de dar o hacer alguna cosa, y el que ha sido gravado con ella ofrece cumplirla; pero aquel a cuyo favor se estableció rehúsa aceptar la cosa o el hecho, la condición se tiene por cumplida.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1252.
 
-La condición potestativa se tendrá por cumplida aún cuando el heredero o legatario hayan prestado la cosa o el hecho antes de que se otorgara el testamento, a no ser que pueda reiterarse la prestación, en cuyo caso no será ésta obligatoria sino cuando el testador haya tenido conocimiento de la primera.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1253.
 
-En el caso final del artículo que precede, corresponde al que debe pagar el legado la prueba de que el testador tuvo conocimiento de la primera prestación.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1254.
 
-La condición de no dar o de no hacer, se tendrá por no puesta.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-La condición de no impugnar el testamento o alguna de las disposiciones que contenga, so pena de perder el carácter de heredero o legatario, se tendrá por no puesta.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1255.
 
-Cuando la condición fuere casual o mixta, bastará que se realice en cualquier tiempo, vivo o muerto el testador, si éste no hubiere dispuesto otra cosa.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1256.
 
-Si la condición se hubiere cumplido al hacerse el testamento ignorándolo el testador, se tendrá por cumplida, mas si lo sabía, sólo se tendrá por cumplida si ya no puede existir o cumplirse de nuevo.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1257.
 
-La condición impuesta al heredero o legatario, de tomar o dejar de tomar estado, se tendrá por no puesta.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1258.
 
-Podrá, sin embargo, dejarse a alguno el uso o habitación, una pensión alimenticia periódica o el usufructo que equivalga a esa pensión, por el tiempo que permanezca soltero o viudo. La pensión alimenticia se fijará de acuerdo con lo prevenido en el artículo 311.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1259.
 
-La condición que se ha cumplido existiendo la persona a quien se impuso, se retrotrae al tiempo de la muerte del testador, y desde entonces deben abonarse los frutos de la herencia o legado, a menos que el testador haya dispuesto expresamente otra cosa.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1260.
 
-La carga de hacer alguna cosa se considera como condición resolutoria.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1261.
 
-Si no se hubiere señalado tiempo para el cumplimiento de la carga, ni ésta por su propia naturaleza lo tuviere, se observará lo dispuesto en el artículo 1250.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1262.
 
-Si el legado fuere de prestación periódica, que debe concluir en un día que es inseguro si llegará a no, llegado el día el legatario habrá hecho suyas todas las prestaciones que correspondan hasta aquel día.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1263.
 
-Si el día en que debe comenzar el legado fuere seguro, sea que se sepa o no cuando ha de llegar, el que ha de entregar la cosa legada, tendrá, respecto de ella, los derechos y las obligaciones del usufructuario.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1264.
 
-En el caso del artículo anterior, si el legado consiste en prestación periódica, el que debe pagarlo hace suyo todo lo correspondiente al intermedio, y cumple con hacer la prestación comenzando el día señalado.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1265.
 
-Cuando el legado debe concluir en un día que es seguro que ha de llegar, se entregará la cosa o cantidad legada al legatario, quien se considerará como usufructuario de ella.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1266.
 
-Si el legado consistiere en prestación periódica, el legatario hará suyas todas las cantidades vencidas hasta el día señalado.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO V.
 
-De los Bienes de que se puede disponer por Testamento, y de los Testamentos Inoficiosos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1267.
 
-El testador debe dejar alimentos a las personas que se mencionan en las fracciones siguientes:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADA, P.O. 21 DE MAYO DE 1975)</small>
-
-I.- A los descendientes menores de 18 años, respecto de los cuales tenga obligación legal de proporcionar alimentos al momento de la muerte;
-
-> <small>(REFORMADA, P.O. 21 DE MAYO DE 1975)</small>
-
-II.- A los descendientes que estén imposibilitados de trabajar, cualquiera que sea su edad, cuando exista la obligación a que se refiere la fracción anterior;
-
-> <small>(REFORMADA, P.O. 21 DE MAYO DE 1975)</small>
-
-III.- Al cónyuge supérstite, cuando esté impedido de trabajar y no tenga suficientes. Salvo otra disposición expresa del testador, este derecho subsistirá en tanto no contraiga matrimonio y viva honestamente;
-
-IV.- A los ascendientes;
-
-> <small>(REFORMADA, P.O. 21 DE ENERO DE 2009)</small>
-
-V.- A la persona con quien el testador vivió con los requerimientos referidos en el artículo 291 Bis de este Código.
-
-VI.- A los hermanos y demás parientes colaterales dentro del cuarto grado, si están incapacitados o mientras que no cumplan dieciocho años, si no tienen para subvenir a sus necesidades.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1268.
 
-No hay obligación de dar alimentos, sino a falta o por imposibilidad de los parientes más próximos en grado.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1269.
 
-No hay obligación de dar alimentos a las personas que tengan bienes; pero si teniéndolos, su producto no iguala a la pensión que debería corresponderles, la obligación se reducirá a lo que falte para completarla.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1270.
 
-Para tener derecho de ser alimentado se necesita encontrarse al tiempo de la muerte del testador en alguno de los casos fijados en el artículo 1267, y cesa ese derecho tan luego como el interesado deje de estar en las condiciones a que se refiere el mismo artículo, observe mala conducta o adquiere bienes, aplicándose en este caso lo dispuesto en el artículo anterior.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1271.
 
-El derecho de percibir alimentos no es renunciable ni puede ser objeto de transacción. La pensión alimenticia se fijará y asegurará conforme a lo dispuesto en los artículos 308, 314, 316 y 317 de este Código, y por ningún motivo excederá de los productos de la porción que en caso de sucesión intestada corresponderían al que tenga derecho a dicha pensión, ni bajará de la mitad de dichos productos. Si el testador hubiere fijado la pensión alimenticia, subsistirá su designación, cualquiera que sea, siempre que no baje del mínimun antes establecido. Con excepción de los artículos citados en el presente Capítulo, no son aplicables a los alimentos debidos por sucesión, las disposiciones del Capítulo II, Título VI del Libro Primero.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE ENERO DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1272.
 
-Cuando el caudal hereditario no fuere suficiente para dar alimentos a todas las personas enumeradas en el artículo 1267, se observaran las reglas siguientes:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADA, P.O. 21 DE ENERO DE 2009)</small>
-
-I.- Se ministrarán a los descendientes y al sobreviviente del matrimonio o del concubinato a prorrata;
-
-II.- Cubiertas las pensiones a que se refiere la fracción anterior, se ministrarán a prorrata a los ascendientes;
-
-> <small>(REFORMADA, P.O. 21 DE ENERO DE 2009)</small>
-
-III.- Después se otorgarán a prorrata a los hermanos; y,
-
-IV.- Por último, se ministrarán igualmente a prorrata, a los demás parientes colaterales dentro del cuarto grado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1273.
 
-Es inoficioso el testamento en que no se deje la pensión alimenticia, según lo establecido en este Capítulo.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(F. DE E., P.O. 28 DE NOVIEMBRE DE 1940)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1274.
 
-El preterido tendrá solamente derecho a que se le de la pensión que corresponda, subsistiendo el testamento en todo lo que no perjudique ese derecho.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1275.
 
-La pensión alimenticia es carga de la masa hereditaria, excepto cuando el testador haya gravado con ella a alguno o algunos de los partícipes de la sucesión.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1276.
 
-No obstante lo dispuesto en el artículo 1274 el hijo póstumo tendrá derecho a percibir íntegra la porción que le correspondería como heredero legítimo si no hubiere testamento, a menos que el testador hubiere dispuesto expresamente otra cosa.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO VI.
 
-De la Institución de Heredero.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1277.
 
-El testamento otorgado legalmente será válido, aunque no contenga institución de heredero y aunque el nombrado no acepte la herencia o sea incapaz de heredar.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1278.
 
-En los tres casos señalados en el artículo anterior, se cumplirán las demás disposiciones testamentarias que estuvieren hechas conforme a las leyes.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1279.
 
-No obstante lo dispuesto en el artículo 1243 la designación de día en que deba comenzar o cesar la institución de heredero, se tendrá por no puesta.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1280.
 
-Los herederos instituídos sin designación de la parte que a cada uno corresponda, heredarán por partes iguales.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1281.
 
-El heredero instituído en cosa cierta y determinada debe tenerse por legatario.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1282.
 
-Aunque el testador nombre algunos herederos individualmente y a otros colectivamente, como si dijera: "Instituyo por mis herederos a Pedro y a Pablo y a los hijos de Francisco", los colectivamente nombrados se considerarán como si fuesen individualmente, a no ser que se conozca de un modo claro que ha sido otra la voluntad del testador.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1283.
 
-Si el testador instituye a sus hermanos, y los tiene sólo de padre, sólo de madre, y de padre y madre, se dividirán la herencia como en el caso de intestado.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1284.
 
-Si el testador llama a la sucesión a cierta persona y a sus hijos, se entenderán todos instituidos simultánea y no sucesivamente.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1285.
 
-El heredero debe ser instituído designándolo por su nombre y apellido, y si hubiere varios que tuvieren el mismo nombre y apellido, deben agregarse otros nombres y circunstancias que distingan al que se quiere nombrar.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1286.
 
-Aunque se haya omitido el nombre del heredero, si el testador lo designare de otro modo que no pueda dudarse quien sea, valdrá la institución.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1287.
 
-El error en el nombre, apellido o cualidades del heredero, no vicia la institución, si de otro modo se supiere ciertamente cual es la persona nombrada.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1288.
 
-Si entre varios individuos del mismo nombre y circunstancias no pudiere saberse a quien quiso designar el testador, ninguno será heredero.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1289.
 
-Toda disposición en favor de persona incierta o sobre cosa que no pueda identificarse será nula, a menos que por algún evento puedan resultar ciertas.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO VII.
 
-De los Legados.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1290.
 
-Cuando no haya disposiciones especiales, los legatarios se regirán por las mismas normas que los herederos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1291.
 
-El legado puede consistir en la prestación de la cosa o en la de algún hecho o servicio.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1292.
 
-No produce efecto el legado si por acto del testador pierde la cosa legada la forma y denominación que la determinaban.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1293.
 
-El testador puede gravar con legados no sólo a los herederos, sino a los mismos legatarios.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1294.
 
-La cosa legada deberá ser entregada con todos sus accesorios y en el estado en que se halle al morir el testador.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1295.
 
-Los gastos necesarios para la entrega de la cosa legada serán a cargo del legatario, salvo disposición del testador en contrario.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1296.
 
-El legatario no puede aceptar una parte del legado y repudiar otra.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1297.
 
-Si el legatario muere antes de aceptar un legado y deja varios herederos, puede uno de éstos aceptar y otro repudiar la parte que le corresponde en el legado.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1298.
 
-Si se dejaren dos legados y uno fuere oneroso, el legatario no podrá renunciar éste y aceptar el que no lo sea. Si los dos son onerosos o gratuitos, es libre para aceptarlos todos o repudiar el que quiera.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1299.
 
-El heredero que sea al mismo tiempo legatario puede renunciar la herencia y aceptar el legado o renunciar éste y aceptar aquella.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1300.
 
-El acreedor cuyo crédito no conste más que por testamento, se tendrá para los efectos legales como legatario preferente.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1301.
 
-Cuando se legue una cosa con todo lo que comprenda, no se entenderán legados los documentos justificantes de propiedad, ni los créditos activos, a no ser que se hayan mencionado especificadamente.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1302.
 
-El legado del menaje de una casa sólo comprende los bienes muebles a que se refiere el artículo 762 a no ser que el testador lo especifique.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1303.
 
-Si el que lega una propiedad le agrega después nuevas adquisiciones, no se comprenderán éstas en el legado, aunque sean contiguas, si no hay nueva declaración del testador.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1304.
 
-La declaración a que se refiere el artículo precedente no se requiere, respecto de las mejoras necesarias, útiles o voluntarias hechas en el mismo predio.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1305.
 
-El legatario puede exigir que el heredero otorgue fianza en todos los casos en que pueda exigirlo el acreedor.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1306.
 
-Si sólo hubiere legatarios, podrán éstos exigirse entre sí la constitución de la hipoteca necesaria.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1307.
 
-No puede el legatario ocupar por su propia autoridad la cosa legada, debiendo pedir su entrega y posesión al albacea o al ejecutor especial.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1308.
 
-Si la cosa legada estuviese en poder del legatario, podrá éste retenerla, sin perjuicio de devolver en caso de reducción lo que corresponda conforme a derecho.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1309.
 
-El importe de las contribuciones correspondientes al legado, se deducirán del valor de éste a no ser que al testador disponga otra cosa.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1310.
 
-Si toda la herencia se distribuye en legados, se prorratearán las deudas y gravámenes de ella entre todos los partícipes, en proporción de sus cuotas, a no ser que el testador hubiere dispuesto otra cosa.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1311.
 
-El legado queda sin efecto si la cosa legada perece viviendo el testador, si se pierde por evicción, fuera del caso previsto en el artículo 1358, o si perece después de la muerte del testador, sin culpa del heredero.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1312.
 
-Queda también sin efecto el legado, si el testador enajena la cosa legada; pero vale si la recobra por un título legal.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1313.
 
-Si los bienes de la herencia no alcanzan para cubrir todos los legados, el pago se hará en el siguiente orden:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-I.- Legados remuneratorios;
-
-II.- Legados que el testador o la ley haya declarado preferentes;
-
-III.- Legados de alimentos o de educación;
-
-IV.- Legados de cosa cierta y determinada;
-
-V.- Los demás a prorrata.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1314.
 
-Los legatarios tienen derecho de reivindicar de tercero la cosa legada, ya sea mueble o raíz, con tal que sea cierta y determinada, observándose lo dispuesto para los actos y contratos que celebren los que en el Registro Público aparezcan con derecho para ello, con terceros de buena fe que los inscriban.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1315.
 
-El legatario de un bien que perece incendiado después de la muerte del testador, tiene derecho de recibir la indemnización del seguro, si la cosa estaba asegurada.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1316.
 
-Si se declara nulo el testamento después de pagado el legado, la acción del verdadero heredero para recobrar la cosa legada procede contra el legatario y no contra el otro heredero, a no ser que éste haya hecho con dolo la partición.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1317.
 
-Si el heredero o legatario renunciare a la sucesión, la carga que se les haya impuesto se pagará solamente con la cantidad a que tiene derecho el que renunció.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1318.
 
-Si la carga consiste en la ejecución de un hecho, el heredero o legatario que acepte la sucesión queda obligado a prestarlo.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(F. DE E., P.O. 28 DE NOVIEMBRE DE 1940)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1319.
 
-Si el legatario a quien se impuso algún gravamen no recibe todo el legado, se reducirá la carga proporcionalmente y si sufre evicción, podrá repetir lo que haya pagado.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1320.
 
-En los legados alternativos la elección corresponde al heredero, si el testador no la concede expresamente al legatario.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1321.
 
-Si el heredero tiene la elección, puede entregar la cosa de menor valor; si la elección corresponde al legatario, puede exigir la cosa de mayor valor.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1322.
 
-En los legados alternativos se observará, además, lo dispuesto para las obligaciones alternativas.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1323.
 
-En todos los casos en que el que tenga derecho de hacer la elección no pudiere hacerla, la harán su representante legítimo o sus herederos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1324.
 
-El juez, a petición de parte legítima, hará la elección, si en el término que le señale no la hiciere la persona que tenga derecho de hacerla.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1325.
 
-La elección hecha legalmente es irrevocable.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1326.
 
-Es nulo el legado que el testador hace de cosa propia individualmente determinada, que al tiempo de su muerte no se halle en su herencia.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1327.
 
-Si la cosa mencionada en el artículo que precede, existe en la herencia, pero no en la cantidad y número designados, tendrá el legatario lo que hubiere.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1328.
 
-Cuando el legado es de cosa específica y determinada, propia del testador, el legatario adquiere su propiedad desde que aquél muere y hace suyos los frutos pendientes y futuros, a no ser que el testador haya dispuesto otra cosa.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1329.
 
-La cosa legada en el caso del artículo anterior, correrá desde el mismo instante a riesgo del legatario; y en cuanto a su pérdida, aumento o deterioro posteriores, se observará lo dispuesto en las obligaciones de dar, para el caso de que se pierda, deteriore o aumente la cosa cierta que deba entregarse.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1330.
 
-Cuando el testador, el heredero o el legatario sólo tengan cierta parte o derecho en la cosa legada, se restringirá el legado a esa parte o derecho, si el testador no declara de un modo expreso que sabía ser la cosa parcialmente de otro, y que no obstante esto, la legaba por entero.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1331.
 
-El legado de cosa ajena, si el testador sabía que lo era, es válido y el heredero está obligado a adquirirla para entregarla al legatario o a dar a éste su precio.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1332.
 
-La prueba de que el testador sabía que la cosa era ajena, corresponde al legatario.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1333.
 
-Si el testador ignoraba que la cosa legada era ajena, es nulo el legado.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1334.
 
-Es válido el legado si el testador, después de otorgado el testamento, adquiere la cosa que al otorgarlo no era suya.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1335.
 
-Es nulo el legado de cosa que al otorgarse el testamento pertenezca al mismo legatario.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1336.
 
-Si en la cosa legada tiene alguna parte el testador o un tercero sabiéndolo aquél, en lo que a ellos corresponda, vale el legado.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1337.
 
-Si el legatario adquiere la cosa legada después de otorgado el testamento, se entiende legado su precio.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1338.
 
-Es válido el legado hecho a un tercero de cosa propia del heredero o de un legatario, quienes, si aceptan la sucesión, deberán entregar la cosa legada o su precio.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1339.
 
-Si el testador ignoraba que la cosa fuese propia del heredero o del legatario, será nulo el legado.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1340.
 
-El legado que consiste en la devolución de la cosa recibida en prenda, o en el título constituvo (sic) de una hipotaca (sic), sólo extingue el derecho de prenda o hipoteca, pero no la deuda, a no ser que así se prevenga expresamente.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1341.
 
-Lo dispuesto en el artículo que precede se observará también en el legado de una fianza, ya sea hecho al fiador, ya al deudor principal.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1342.
 
-Si la cosa legada está dada en prenda o hipotecada, o lo fuere después de otorgado el testamento, el desempeño o la redención serán a cargo de la herencia, a no ser que el testador haya dispuesto expresamente otra cosa.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-Si por no pagar, el obligado, conforme al párrafo anterior, lo hiciera el legatario, quedará éste subrogado en el lugar y derechos del acreedor para reclamar contra aquél.
-
-Cualquiera otra carga, perpetua o temporal, a que se halle afecta la cosa legada, pasa con ésta al legatario, pero en ambos casos las rentas y los réditos devengados hasta la muerte del testador son carga de la herencia.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1343.
 
-El legado de una deuda hecho al mismo deudor extingue la obligación, y el que debe cumplir el legado está obligado, no solamente a dar al deudor la constancia del pago, sino también a desempeñar las prendas, a cancelar las hipotecas y las fianzas y a libertar al legatario de toda responsabilidad.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1344.
 
-Legado el título, sea público o privado, de una deuda, se entiende legada ésta, observándose lo dispuesto en los artículos 1340 y 1341.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1345.
 
-El legado hecho al acreedor no compensa el crédito, a no ser que el testador lo declare expresamente.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1346.
 
-En caso de compensación, si los valores fueren diferentes, el acreedor tendrá derecho de cobrar el exceso del crédito o el del legado.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1347.
 
-Por medio de un legado puede el deudor mejorar la condición de su acreedor, haciendo puro el crédito condicional, hipotecario, el simple, o exigible desde luego el que lo sea a plazo; pero esta mejora no perjudicará en manera alguna los privilegios de los demás acreedores.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1348.
 
-El legado hecho a un tercero, de un crédito a favor del testador, sólo produce efecto en la parte del crédito que está insoluto al tiempo de abrirse la sucesión.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1349.
 
-En el caso del artículo anterior, el que debe cumplir el legado entregará al legatario el título del crédito y le cederá todas las acciones que en virtud de él correspondan al testador.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1350.
 
-Cumpliendo lo dispuesto en el artículo que precede, el que debe pagar el legado queda enteramente libre de la obligación de saneamiento y de cualquiera otra responsabilidad ya provenga ésta del mismo título, ya de insolvencia del deudor o de sus fiadores, ya de otra causa.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1351.
 
-Los legados de que hablan los artículos 1343 y 1348 comprenden los intereses que por el crédito o deuda se deban a la muerte del testador.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1352.
 
-Dichos legados subsistirán aunque el testador haya demandado judicialmente al deudor, si el pago no se ha realizado.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1353.
 
-El legado genérico de liberación o perdón de las deudas, comprende sólo las existentes al tiempo de otorgar el testamento y no las posteriores.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1354.
 
-El legado de cosa mueble indeterminada; pero comprendida en género determinado, será válido, aunque en la herencia no haya cosa alguna del género a que la cosa legada pertenezca.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1355.
 
-En el caso del artículo anterior, la elección es del que debe pagar el legado, quien, si las cosas existen, cumple con entregar una de mediana calidad, pudiendo, en caso contrario, comprar una de esa misma calidad o abonar al legatario el precio correspondiente, previo convenio, o a juicio de peritos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1356.
 
-Si el testador concede expresamente la elección al legatario, éste podrá, si hubiere varias cosas del género determinado escoger la mejor, pero si no las hay sólo podrá exigir una de mediana calidad o el precio que le corresponda.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1357.
 
-Si la cosa indeterminada fuere inmueble, sólo valdrá el legado existiendo en la herencia varias del mismo género; para la elección se observarán las reglas establecidas en los artículos 1355 y 1356.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1358.
 
-El obligado a la entrega del legado responderá en caso de evicción, si la cosa fuere indeterminada y se señalase solamente por género o especie.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1359.
 
-En el legado de especie, el heredero debe entregar la misma cosa legada; en caso de pérdida se observará lo dispuesto para las obligaciones de dar cosa determinada.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1360.
 
-Los legados en dinero deben pagarse en esa especie; y si no la hay en la herencia, con el producto de los bienes que al efecto se vendan.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1361.
 
-El legado de cosa o cantidad depositada en lugar designado, sólo subsistirá en la parte que en él se encuentre.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1362.
 
-El legado de alimentos dura mientras viva el legatario, a no ser que el testador haya dispuesto que dure menos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1363.
 
-Si el testador no señala la cantidad de alimentos, se observará lo dispuesto en el Capítulo II Título VI del Libro Primero.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1364.
 
-Si el testador acostumbró en vida dar al legatario cierta cantidad de dinero por vía de alimentos, se entenderá legada la misma cantidad, si no resultare en notable desproporción con la cuantía de la herencia.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1365.
 
-El legado de educación dura hasta que el legatario sale de la menor edad.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1366.
 
-Cesa también el legado de educación, si el legatario, durante la menor edad, obtiene profesión u oficio con que poder subsistir, o si contrae matrimonio.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1367.
 
-El legado de pensión, sean cuales fueren la cantidad, el objeto y los plazos, corre desde la muerte del testador; es exigible al principio de cada período y el legatario hace suya la que tuvo derecho de cobrar, aunque muera antes de que termine el período comenzado.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1368.
 
-Los legados de usufructo, uso, habitación o servidumbre, subsistirán mientras viva el legatario, a no ser que el testador dispusiere que dure menos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1369.
 
-Sólo duran veinte años los legados de que trata el artículo anterior, si fueren dejados a alguna corporación que tuviere capacidad de adquirirlos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1370.
 
-Si la cosa legada estuviere sujeta a usufructo, uso o habitación, el legatario deberá prestarlos hasta que legalmente se extingan, sin que el heredero tenga obligación de ninguna clase.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO VIII.
 
-De las Substituciones.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1371.
 
-Puede el testador substituir una o más personas al heredero o herederos instituídos, para el caso de que mueran antes que él, o de que no puedan o no quieran aceptar la herencia.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1372.
 
-Quedan prohibidas las substituciones fideicomisarias y cualquiera otra diversa de la contenida en el artículo anterior, sea cual fuere la forma de que se las revista.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1373.
 
-Los substitutos pueden ser nombrados conjuntamente o sucesivamente.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-El substituto del substituto, faltando éste, lo es del heredero substituído.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1374.
 
-Los substitutos recibirán la herencia con los mismos gravámenes y condiciones con que debían recibirla los herederos; a no ser que el testador haya dispuesto expresamente otra cosa, o que los gravámenes o condiciones fueren meramente personales del heredero.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1375.
 
-Si los herederos instituídos en partes desiguales fueren substituídos recíprocamente, en la substitución tendrán las mismas partes que en la institución; a no ser que claramente aparezca haber sido otra la voluntad del testador.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1376.
 
-La nulidad de la substitución fideicomisaria no importa la de la institución, ni la del legado, teniéndose únicamente por no escrita la cláusula fideicomisaria.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1377.
 
-No se reputa fideicomisaria la disposición en que el testador deja la propiedad del todo o de parte de sus bienes a una persona y el usufructo a otra, a no ser que el propietario o el usufructuario queden obligados a transferir a su muerte la propiedad o el usufructo a un tercero.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1378.
 
-Puede el padre dejar una parte o la totalidad de sus bienes a su hijo, con la carga de transferirlos al hijo o hijos que tuviere hasta la muerte del testador, teniéndose en cuenta lo dispuesto en el artículo 1213 en cuyo caso el heredero se considerará como usufructuario.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1379.
 
-La disposición que autoriza el artículo anterior, será nula cuando la trasmisión de los bienes deba hacerse a descendientes de ulteriores grados.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1380.
 
-Se consideran fideicomisarias y, en consecuencia, prohibidas, las disposiciones que contengan prohibiciones de enajenar, o que llamen a un tercero a lo que quede de la herencia por la muerte del heredero, o el encargo de prestar a más de una persona sucesivamente cierta renta o pensión.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1381.
 
-La obligación que se impone al heredero de invertir ciertas cantidades en obras benéficas, como pensiones para estudiantes, para los pobres o para cualquier establecimiento de beneficencia, no está comprendida en la prohibición del artículo anterior.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1382.
 
-Si la carga se impusiere sobre bienes inmuebles y fuere temporal el heredero o herederos podrán disponer de la finca gravada, sin que cese el gravamen mientras que la inscripción de éste no se cancele.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-Si la carga fuere perpetua, el heredero podrá capitalizarla e imponer el capital a interés con primera y suficiente hipoteca.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-La capitalización e imposición del capital se hará interviniendo la autoridad correspondiente, y con audiencia de los interesados y del Ministerio Público.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO IX.
 
-De la Nulidad, Revocación y Caducidad de los Testamentos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1383.
 
-Es nula la institución de heredero o legatario hecha en memorias o comunicados secretos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1384.
 
-Es nulo el testamento que haga el testador bajo la influencia de amenazas contra su persona o sus bienes, o contra la persona o bienes de su cónyuge o de sus parientes.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1385.
 
-El testador que se encuentre en el caso del artículo que precede, podrá, luego que cese la violencia o disfrute de la libertad completa, revalidar su testamento con las mismas solemnidades que si lo otorgara de nuevo. De lo contrario será nula la revalidación.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1386.
 
-Es nulo el testamento captado por dolo o fraude.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1387.
 
-El juez que tuviere noticia de que alguno impide a otro testar, se presentará sin demora en la casa del segundo para asegurar el ejercicio de su derecho, y levantará acta en que haga constar el hecho que ha motivado su presencia, la persona o personas que causen la violencia y los medios que al efecto hayan empleado o intentado emplear, y si la persona cuya libertad ampara hace uso de su derecho.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1388.
 
-Es nulo el testamento en que el testador no exprese cumplida y claramente su voluntad, sino sólo por señales o monosílabos en respuesta a las preguntas que se le hacen.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1389.
 
-El testador no puede prohibir que se impugne el testamento en los casos en que éste deba ser nulo conforme a la ley.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-El testamento es nulo cuando se otorga en contravención a las formas prescritas por la ley.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1390.
 
-Son nulas la renuncia del derecho de testar y la cláusula en que alguno se obligue a no usar de ese derecho, sino bajo ciertas condiciones, sean éstas de la clase que fueren.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1391.
 
-La renuncia de la facultad de revocar el testamento es nula.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1392.
 
-El testamento anterior queda revocado de pleno derecho por el posterior perfecto, si el testador no expresa en éste su voluntad de que aquél subsista en todo o en parte.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1393.
 
-La revocación producirá su efecto aunque el segundo testamento caduque por la incapacidad o renuncia del heredero o de los legatarios nuevamente nombrados.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1394.
 
-El testamento anterior recobrará, no obstante, su fuerza si el testador, revocando el posterior, declara ser su voluntad que el primero subsista.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1395.
 
-Las disposiciones testamentarias caducan y quedan sin efecto, en lo relativo a los herederos y legatarios.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-I.- Si el heredero o legatario muere antes que el testador o antes de que se cumpla la condición de que dependa la herencia o legado;
-
-II.- Si el heredero o legatario se hace incapaz de recibir la herencia o legado;
-
-III.- Si renuncia a su derecho.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1396.
 
-La disposición testamentaria que contenga condición de suceso pasado o presente desconocidos, no caduca aunque la noticia del hecho adquiera después de la muerte del heredero o legatario, cuyos derechos se trasmiten a sus respectivos herederos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ## TITULO III.
 
-De la forma de los Testamentos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO I.
 
-Disposiciones Generales.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1397.
 
-El testamento, en cuanto a su forma es ordinario o especial.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1398.
 
-El ordinario puede ser:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-I.- Público abierto;
-
-II.- Público cerrado;
-
-III.- Ológrafo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1399.
 
-El especial puede ser:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-I.- Privado;
-
-II.- Militar;
-
-III.- Marítimo; y
-
-IV.- Hecho en país extranjero.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1400.
 
-No pueden ser testigos del testamento:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-I.- Los amanueses (sic) del Notario que lo autorice;
-
-II.- Los menores de dieciséis años;
-
-III.- Los que no estén en su sano juicio;
-
-IV.- Los ciegos, sordos o mudos;
-
-V.- Los que no entiendan el idioma que habla el testador;
-
-VI.- Los herederos o legatarios; sus descendientes, ascendientes, cónyuge o hermanos. El concurso como testigo de una de las personas a que se refiere esta fracción, sólo produce como efecto la nulidad de la disposición que beneficia a ella o a sus mencionados parientes;
-
-VII.- Los que hayan sido condenados por el delito de falsedad.
-
-> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1401.
 
-Cuando el testador ignore el idioma del país, concurrirán al acto y firmarán el testamento, el Notario, un intérprete nombrado por el mismo testador, así como los testigos cuando así lo exigiere la ley.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1402.
 
-Tanto el Notario como los testigos que intervengan en cualquier testamento deberán conocer al testador o cerciorarse de algún modo de su identidad, y de que se halla en su cabal juicio y libre de cualquiera coacción.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1403.
 
-Si la identidad del testador no pudiere ser verificada, se declarará esta circunstancia por el Notario o por los testigos, en su caso, agregando uno u otros, todas las señales que caractericen la persona de aquél.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1404.
 
-En el caso del artículo que precede, no tendrá validez el testamento mientras no se justifique la identidad del testador.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1405.
 
-Se prohibe a los notarios y a cualesquiera otras personas que hayan de redactar disposiciones de última voluntad, dejar hojas en blanco y servirse de abreviaturas o cifras, bajo la pena de quinientos pesos de multa a los notarios y de la mitad a los que no lo fueren.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1406.
 
-El Notario que hubiere autorizado el testamento, debe dar aviso a los interesados luego que sepa la muerte del testador. Si no lo hace, es responsable de los daños y perjuicios que la dilación ocasione y se le castigará con multa de cien pesos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1407.
 
-Lo dispuesto en el artículo que precede se observará también por cualquiera que tenga en su poder un testamento.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1408.
 
-Si los interesados están ausentes o son desconocidos, la noticia se dará al juez.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO II.
 
-Del Testamento Publico Abierto.
-
-> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1409.
 
-Testamento público abierto, es el que se otorga ante el Notario y, cuando así lo solicite el testador o la ley así lo exigiese, ante uno o dos testigos que sepan leer y escribir.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-Se requerirá siempre la participación de dos testigos instrumentales:
-
-I- Si el testador es menor de edad.
-
-II- Si el testador no sabe leer o escribir, no puede leer su testamento, o no puede firmar ni poner su huella digital.
-
-III- Si el testador es enteramente sordo o ciego.
-
-IV- Si el testador desconoce el idioma español.
-
-V- Cuando el testador tenga noventa ó más años de edad, a la fecha del otorgamiento de su testamento.
-
-VI- Si el testador dicta su testamento en el lecho de su enfermedad. En este caso y en el de la fracción anterior, uno de los testigos deberá ser médico en ejercicio de su profesión, quien en el acto de otorgamiento del testamento certificará la capacidad y comprensión del testador.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1410.
 
-El testador expresará de un modo claro y terminante su voluntad al notario y a los testigos. El notario redactará por escrito las cláusulas del testamento sujetándose estrictamente a la voluntad del testador y las leerá en voz alta para que éste manifieste si está conforme.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-Si lo estuviere, firmarán todos el instrumento, asentándose el lugar, año, mes, día y hora en que hubiere sido otorgado.
-
-> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2001)</small>
-
-Todas estas formalidades serán indispensables para la validez del testamento, a excepción de la hora en que se elaboró el instrumento jurídico, salvo cuando exista otro testamento otorgado por la misma persona en el mismo día, mes y año.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1411.
 
-(DEROGADO, P.O. 16 DE ABRIL DE 2010)
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1412.
 
-Si el testador no pudiere o no supiere escribir, firmará a su ruego uno de los testigos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1413.
 
-(DEROGADO, P.O. 16 DE ABRIL DE 2010)
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1414.
 
-El que fuere enteramente sordo; pero que sepa leer, deberá dar lectura a su testamento; si no supiese o no pudiere leerlo, designará a uno de los testigos para que lo lea en su nombre.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1415.
 
-Cuando sea ciego el testador o no pudiera leer su testamento, se dará lectura al testamento dos veces: una por el Notario, como está prescrito en este capítulo y otra en igual forma por uno de los testigos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1416.
 
-Cuando el testador ignore el idioma del país, si puede, escribirá de su puño y letra su testamento, que será traducido al español por el intérprete a que se refiere el artículo 1401.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-La traducción se transcribirá como testamento en el Protocolo del Notario y el original se archivará en el apéndice correspondiente del Notario que intervenga en el acto.
-
-Si el testador no puede o no sabe escribir, el intérprete escribirá el testamento que dicte aquél, y leído y aprobado por el testador, se traducirá al español por el intérprete que deba concurrir al acto; hecha la traducción se procederá como se dispone en el párrafo anterior.
-
-Si el testador no puede o no sabe leer, dictará en su idioma el testamento al intérprete. Traducido por el intérprete, se procederá como dispone el párrafo segundo de este artículo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1417.
 
-Las formalidades se practicarán acto continuo y el Notario dará fe de haberse llenado todas.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2001)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1418.
 
-Faltando alguna de las referidas solemnidades, quedará el testamento sin efecto, y el notario será responsable de los daños y perjuicios, y pérdida de oficio.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-Entratándose de la hora sólo será causa de la suspensión temporal de su ejercicio cuando exista otro testamento otorgado por la misma persona en el mismo día, mes y año.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO III.
 
-Del Testamento Público Cerrado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1419.
 
-El testamento público cerrado, puede ser escrito por el testador o por otra persona a su ruego, y en papel común.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1420.
 
-El testador debe rubricar todas las hojas y firmar al calce del testamento; pero si no supiere o no pudiere hacerlo, podrá rubricar y firmar por él otra persona a su ruego.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1421.
 
-En el caso del artículo que precede, la persona que haya rubricado y firmado por el testador, concurrirá con él a la presentación del pliego cerrado; en este acto el testador declarará que aquella persona rubricó y firmó en su nombre y ésta firmará en la cubierta con los testigos y el Notario.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1422.
 
-El papel en que esté escrito el testamento o el que le sirva de cubierta, deberá estar cerrado y sellado, o lo hará cerrar y sellar el testador en el acto del otorgamiento, y lo exhibirá al Notario en presencia de tres testigos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1423.
 
-El testador, al hacer la presentación, declarará que en aquel pliego está contenida su última voluntad.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1424.
 
-El Notario dará fe del otorgamiento, con expresión de las formalidades requeridas en los artículos anteriores; esa constancia deberá extenderse en la cubierta del testamento, que llevará las estampillas del timbre correspondientes, y deberá ser firmada por el testador, los testigos y el Notario, quien, además, pondrá su sello.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1425.
 
-Si alguno de los testigos no supiere firmar, se llamará a otra persona que lo haga en su nombre y su presencia, de modo que siempre haya tres firmas.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1426.
 
-Si al hacer la presentación del testamento no pudiere firmar el testador, lo hará otra persona en su nombre y en su presencia, no debiendo hacerlo ninguno de los testigos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1427.
 
-Sólo en casos de suma urgencia podrá firmar uno de los testigos, ya sea por el que no sepa hacerlo, ya por el testador. El Notario hará constar expresamente esta circunstancia, bajo la pena de suspensión de oficio por tres años.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1428.
 
-Los que no saben o no pueden leer, son inhábiles para hacer testamento cerrado.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1429.
 
-El sordo-mudo podrá hacer testamento cerrado con tal que esté todo él escrito, fechado y firmado de su propia mano, y que al presentarlo al Notario ante cinco testigos, escriba a presencia de todos sobre la cubierta que en aquel pliego se contiene su última voluntad y que va escrita y firmada por él. El Notario declarará en el acta de la cubierta que el testador lo escribió así, observándose, además, lo dispuesto en los artículos 1422, 1424 y 1425.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1430.
 
-En el caso del artículo anterior, si el testador no puede firmar la cubierta, se observará lo dispuesto en los artículos 1426 y 1427 dando fe el Notario de la elección que el testador haga de uno de los testigos para que firme por él.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1431.
 
-El que sea sólo mudo o sólo sordo, puede hacer testamento cerrado con tal que esté escrito de su puño y letra, o si ha sido escrito por otro, lo anote así el testador, y firme la nota de su puño y letra, sujetándose a las demás solemnidades precisas para ésta clase de testamentos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1432.
 
-El testamento cerrado que carezca de alguna de las formalidades sobredichas, quedará sin efecto y el Notario será responsable en los términos del artículo 1418.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1433.
 
-Cerrado y autorizado el testamento, se entregará al testador y el Notario pondrá razón en el protocolo del lugar, hora, día, mes y año en que el testamento fue autorizado y entregado.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1434.
 
-Por la infracción del artículo anterior, no se anulará el testamento, pero el Notario incurrirá en la pena de suspensión por seis meses.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1435.
 
-El testador podrá conservar el testamento en su poder, o darlo en guarda a persona de su confianza, o depositarlo en el Archivo de Notarías.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1436.
 
-El testador que quiera depositar su testamento en el archivo, se presentará con él ante el encargado de éste, quien hará asentar en el libro que con ese objeto debe llevarse, una razón del depósito o entrega, que será firmada por dicho funcionario y el testador, a quien se dará copia autorizada.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1437.
 
-Pueden hacerse por procurador la presentación y depósito de que habla el artículo que precede, y en éste caso, el poder quedará unido al testamento.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1438.
 
-El testador puede retirar, cuando le parezca, su testamento; pero la devolución se hará con las mismas solemnidades que la entrega.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1439.
 
-El poder para la entrega y para la extracción del testamento, debe otorgarse en escritura pública, y ésta circunstancia se hará constar en la nota respectiva.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1440.
 
-Luego que el Juez reciba un testamento cerrado, hará comparecer al Notario y a los testigos que concurrieron a su otorgamiento.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1441.
 
-El testamento cerrado no podrá ser abierto sino después de que el Notario y los testigos instrumentales hayan reconocido ante el Juez sus firmas, y la del testador o la de la persona que por éste hubiere firmado, y hayan declarado si en su concepto está cerrado y sellado como lo estaba en el acto de la entrega.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1442.
 
-Si no pudieren comparecer todos los testigos por muerte, enfermedad o ausencia, bastará el reconocimiento de la mayor parte y el del Notario.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1443.
 
-Si por iguales causas no pudieren comparecer el Notario, la mayor parte de los testigos o ninguno de ellos, el Juez lo hará constar así por información, como también la legitimidad de las firmas y que en la fecha que lleva el testamento se encontraban aquellos en el lugar en que éste se otorgó.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1444.
 
-En todo caso, los que comparecieren reconocerán sus firmas.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1445.
 
-Cumplido lo prescrito en los cinco artículos anteriores, el Juez decretará la publicación y protocolización del testamento.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1446.
 
-El testamento cerrado quedará sin efecto siempre que se encuentre roto el pliego interior o abierto el que forma la cubierta, o borradas, raspadas o enmendadas las firmas que lo autorizan, aunque el contenido no sea vicioso.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1447.
 
-Toda persona que tuviere en su poder un testamento cerrado y no lo presente, como está prevenido en los artículos 1406 y 1407 o lo sustraiga dolosamente de los bienes del finado, incurrirá en la pena, si fuere heredero por intestado, de pérdida del derecho que pudiera tener, sin perjuicio de la que corresponda conforme al Código Penal.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO IV.
 
-Del Testamento Ológrafo.
-
-> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1448.
 
-Se llama testamento ológrafo al escrito de puño y letra del testador; o que conste en documento impreso por cualquier medio con la expresión al final, de puño y letra del testador, de que ese es su testamento, anotando por lo menos, el lugar y la fecha de su otorgamiento, y escribiendo luego su nombre y firma.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1449.
 
-Este testamento podrá ser otorgado por las personas mayores de edad.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-Los extranjeros podrán otorgar testamento ológrafo en su propio idioma.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1450.
 
-Si contuviere palabras tachadas, enmendadas o entre renglones, las salvará el testador bajo su firma.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-La omisión de esta formalidad por el testador, sólo afecta a la validez de las palabras tachadas, enmendadas o entre renglones, pero no al testamento mismo.
-
-> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1451.
 
-El testador hará por duplicado su testamento ológrafo e imprimirá en el anverso de cada hoja de ambos ejemplares su huella digital. El original dentro de un sobre cerrado y lacrado, será depositado en la sección correspondiente del Registro Público y el duplicado, también encerrado en un sobre lacrado y con la nota en la cubierta, de que se hablará después, será devuelto al testador. Éste podrá poner en los sobres que contengan los testamentos, los sellos, señales o marcas que estime necesarias para evitar violaciones.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1452.
 
-El depósito en el Registro Público se hará personalmente por el testador, quien se identificará ante él con documentación oficial con fotografía. En la parte exterior del sobre que contenga el testamento original, el testador, de su puño y letra, pondrá la siguiente constancia: “dentro de este sobre se contiene mi testamento”, A continuación se expresará su nombre, el lugar y la fecha en que se hace el depósito. La constancia será firmada por el testador y en su caso también por quien presentó el testamento, y por el encargado de la oficina. A la constancia se anexará copia de la documentación oficial con que se identificó el testador, o quien presentó el testamento para su registro.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1453.
 
-En el sobre cerrado que contenga el duplicado del testamento ológrafo se pondrá la siguiente constancia extendida por el encargado de la oficina: “Recibí el pliego cerrado que el señor ... afirma contiene original su testamento ológrafo del cual, según afirmación del testador, existe dentro de este sobre un duplicado”. Se pondrá luego el lugar y la fecha en que se extiende la constancia que será firmada por el encargado de la oficina, poniéndose también al calce la firma del testador o de quien presentó el testamento para su registro.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1454.
 
-Cuando el testador estuviere imposibilitado para hacer personalmente la entrega de su testamento en las oficinas del Registro Público, el encargado de ellas deberá concurrir al lugar donde aquél se encontrare, para cumplir las formalidades del depósito; o bien, el testador lo enviará al Registro Público con persona autorizada específicamente para esos efectos, debiendo constar esa autorización por escrito, con la certificación notarial de la identidad del testador y la ratificación de este respecto a su firma y contenido en el escrito de autorización.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1455.
 
-Hecho el depósito, el encargado del Registro tomará razón de él en el libro respectivo, a fin de que el testamento pueda ser identificado, y conservará el original bajo su directa responsabilidad hasta que proceda hacer su entrega al mismo testador, o al Juez competente.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1456.
 
-En cualquier tiempo el testador tendrá derecho de retirar del archivo personalmente o por medio de persona autorizada en los términos del artículo 1454, el testamento depositado, haciéndose constar la entrega en un acta que firmarán quien retira el testamento y el encargado de la oficina.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-El acto de retiro del testamento, o la manifestación del testador de retirarlo implica la revocación del testamento, sin perjuicio de que el testamento se pudiera revocar por cualquier otro medio legal.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1457.
 
-El Juez ante quien se promueva un juicio sucesorio pedirá informe al encargado del Registro Público del lugar, acerca de si en su oficina se ha depositado algún testamento ológrafo del autor de la sucesión, para que en caso de que así sea, se le remita el testamento.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1458.
 
-El que guarde en su poder el duplicado de un duplicado de un testamento, o cualquiera que tenga noticia de que el autor de una sucesión ha depositado algún testamento ológrafo, lo comunicará al Juez competente, quien pedirá al encargado de la oficina del Registro en que se encuentre el testamento que se lo remita.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1459.
 
-Recibido el testamento, el Juez examinará la cubierta que lo contiene para cerciorarse de que no ha sido violada, hará que los testigos de identificación que residieren en el lugar, reconozcan sus firmas y la del testador, y en presencia del Ministerio Público, de los que se hayan presentado como interesados y de los mencionados testigos, abrirá el sobre que contiene el testamento. Si éste llena los requisitos mencionados en el artículo 1449 y queda comprobado que es el mismo que depositó el testador, se declarará formal testamento de éste.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1460.
 
-Sólo cuando el original depositado haya sido destruido o robado, se tendrá como formal testamento el duplicado, procediéndose para su apertura como se dispone en el artículo que precede.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1461.
 
-El testamento ológrafo quedará sin efecto cuando el original o el duplicado, en su caso, estuvieren rotos, o el sobre que los cubre resultare abierto, o las firmas que los autoricen aparecieren borradas, raspadas o con enmendaduras, aún cuando el contenido del testamento no sea vicioso.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1462.
 
-El encargado del Registro Público no proporcionará informes acerca del testamento ológrafo depositado en su oficina, sino al mismo testador o a los jueces competentes que oficialmente se los pidan.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO V.
 
-Del Testamento Privado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1463.
 
-El testamento privado está permitido en los casos siguientes:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-I.- Cuando el testador es atacado de una enfermedad tan violenta y grave que no dé tiempo para que concurra el Notario a hacer el testamento;
-
-II.- Cuando en la población no haya Notario o alguna otra autoridad que conforme a la ley pueda actuar por receptoría;
-
-III.- Cuando aún habiendo Notario o quien actúe por receptoría, sea imposible, o por lo menos muy difícil que concurra al otorgamiento del testamento;
-
-IV.- Cuando los militares o asimilados del ejército entren en campaña o se encuentren prisioneros de guerra;
-
-V.- Cuando tenga por objeto bienes raíces cuyo valor no exceda de mil pesos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1464.
 
-Para que en los casos enumerados en el artículo que precede pueda otorgarse testamento privado, es necesario que al testador no le sea posible hacer testamento ológrafo.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1465.
 
-El testador que se encuentre en el caso de hacer testamento privado, declarará a presencia de cinco testigos idóneos su última voluntad, que uno de ellos redactará por escrito, si el testador no puede escribir.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1466.
 
-No será necesario redactar por escrito el testamento, cuando ninguno de los testigos sepa escribir y en los casos de suma urgencia.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1467.
 
-En los casos de suma urgencia bastarán tres testigos idóneos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1468.
 
-Al otorgarse el testamento privado se observarán en su caso, las disposiciones contenidas en los artículos del 1410 al 1417.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1469.
 
-El testamento privado sólo surtirá sus efectos si el testador fallece de la enfermedad o en el peligro en que se hallaba, o dentro de un mes de desaparecida la causa que lo autorizó.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1470.
 
-El testamento privado necesita, además para su validez, que se haga la declaración a que se refiere el artículo 1473, teniendo en cuenta las declaraciones de los testigos que firmaron u oyeron en su caso, la voluntad del testador.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1471.
 
-La declaración a que se refiere el artículo anterior será pedida por los interesados, inmediatamente después que supieren la muerte del testador y la forma de su disposición.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1472.
 
-Los testigos que concurran a un testamento privado, deberán declarar circunstancialmente:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-I.- El lugar, la hora, el día, el mes y el año en que se otorgó el testamento;
-
-II.- Si reconocieron, vieron y oyeron claramente al testador;
-
-III.- El tenor de la disposición;
-
-IV.- Si el testador estaba en su cabal juicio y libre de cualquiera coacción;
-
-V.- El motivo por el que se otorgó el testamento;
-
-VI.- Si saben que el testador falleció o no de la enfermedad, o en el peligro en que se hallaba.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1473.
 
-Si los testigos fueren idóneos y estuvieren conformes en todas y cada una de las circunstancias enumeradas en el artículo que precede, el juez declarará que sus dichos son el formal testamento de la persona de quien se trate.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1474.
 
-Si después de la muerte del testador muriese alguno de los testigos, se hará la declaración con los restantes, con tal de que no sean menos de tres, manifiestamente constantes, y mayores de toda excepción.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1475.
 
-Lo dispuesto en el artículo anterior se observará también en el caso de ausencia de alguno o algunos de los testigos, siempre que en la falta de comparecencia del testigo no hubiere dolo.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1476.
 
-Sabiéndose el lugar donde se hallan los testigos, serán examinados por exhorto.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO VI.
 
-Del Testamento Militar.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1477.
 
-Si el militar o el asimilado del Ejército hace su disposición en el momento de entrar en acción de guerra, o estando herido sobre el campo de batalla, bastará que declare su voluntad ante dos testigos, o que entregue a los mismos el pliego cerrado que contenga su última disposición, firmada de su puño y letra.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1478.
 
-Lo dispuesto en el artículo anterior se observará, en su caso, respecto de los prisioneros de guerra.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1479.
 
-Los testamentos otorgados por escrito, conforme a este Capítulo, deberán ser entregados luego que muera el testador, por aquél en cuyo poder hubieren quedado, al Jefe de la corporación, quien lo remitirá al Secretario de la Defensa Nacional y éste a la autoridad judicial competente.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1480.
 
-Si el testamento hubiere sido otorgado de palabra, los testigos instruirán de él desde luego al jefe de la corporación quien dará parte en el acto a la Secretaría de la Defensa Nacional y ésta a la autoridad judicial competente, a fin de que proceda, teniendo en cuenta lo dispuesto en los artículos del 1469 al 1476.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO VII.
 
-Del Testamento Marítimo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1481.
 
-Los que se encuentren en alta mar, a bordo de navíos de la Marina Nacional, sea de guerra o mercante, pueden hacer testamento que surtirá efectos en el Estado, si se hizo con sujeción a las disposiciones establecidas en el Código Civil para el Distrito y Territorios.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO VIII.
 
-Del Testamento hecho en país extranjero o fuera del Estado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1482.
 
-Los testamentos hechos en país extranjero o fuera del Estado, producirán efectos en Sinaloa cuando hayan sido formulados de acuerdo con las leyes del lugar en que se otorgaron.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ## TITULO IV.
 
-De la Sucesión Legitima.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO I.
 
-Disposiciones Generales.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1483.
 
-La herencia legítima se abre:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-I.- Cuando no haya testamento, o el que se otorgó es nulo o perdió su validez;
-
-II.- Cuando el testador no dispuso de todos sus bienes;
-
-III.- Cuando no se cumpla la condición impuesta al heredero;
-
-IV.- Cuando el heredero muere antes del testador, repudia la herencia o es incapaz de heredar, si no se ha nombrado substituto.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1484.
 
-Cuando siendo válido el testamento no deba subsistir la institución de heredero, subsistirán, sin embargo, las demás disposiciones hechas en él, y la sucesión legítima sólo comprenderá los bienes que debían corresponder al heredero instituido.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1485.
 
-Si el testador dispone legalmente sólo de una parte de sus bienes, el resto de ellos forma la sucesión legítima.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1486.
 
-Tienen derecho a heredar por sucesión legítima:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADA, P.O. 21 DE ENERO DE 2009)</small>
-
-I.- Los descendientes, cónyuges, ascendientes, parientes colaterales dentro del cuarto grado, la concubina y el concubino, siempre que éstos últimos cumplan con lo establecido en el artículo 291 Bis de este Código; y,
-
-II.- A falta de los anteriores, la Beneficencia Pública del Estado de Sinaloa.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1487.
 
-El parentesco de afinidad no da derecho de heredar.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1488.
 
-Los parientes más próximos excluyen a los más remotos, salvo lo dispuesto en los artículos 1493 y 1516.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1489.
 
-Los parientes que se hallaren en el mismo grado, heredarán por partes iguales.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1490.
 
-Las líneas y grados de parentesco se arreglarán por las disposiciones contenidas en el Capítulo I Título VI, Libro Primero.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO II.
 
-De la Sucesión de los Descendientes.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1491.
 
-Si a la muerte de los padres quedasen sólo hijos, la herencia se dividirá entre todos por partes iguales.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1492.
 
-Cuando concurran descendientes con el cónyuge que sobreviva, a éste le corresponderá la porción de un hijo, de acuerdo con lo dispuesto en el artículo 1508.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1493.
 
-Si quedaren hijos y descendientes de ulterior grado, los primeros heredarán por cabeza y los segundos por estirpes. Lo mismo se observará tratándose de descendientes de hijos pre-muertos, incapaces de heredar o que hubieren renunciado a la herencia.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1494.
 
-Si sólo quedan descendientes de ulterior grado, la herencia se dividirá por estirpes, y si en algunas de éstas hubiere varios herederos, la porción que a ella corresponde se dividirá por partes iguales.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1495.
 
-Concurriendo hijos con ascendientes, éstos sólo tendrán derecho a alimentos, que en ningún caso pueden exceder de la porción de uno de los hijos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2001)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1496.
 
-El adoptado hereda como hijo, pero en la adopción simple no hay derecho de sucesión entre el adoptado y los parientes del adoptante.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2001)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1497.
 
-Concurriendo padres adoptantes y descendientes del adoptado en forma simple, los primeros sólo tendrán derecho a alimentos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1498.
 
-Si el intestado no fuere absoluto, se deducirá del total de la herencia la parte de que legalmente haya dispuesto el testador, y el resto se dividirá de la manera que disponen los artículos que preceden.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO III.
 
-De la Sucesión de los Ascendientes.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1499.
 
-A falta de descendientes y de cónyuge, sucederán el padre y la madre por partes iguales.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1500.
 
-Si sólo hubiere padre o madre, el que viva sucederá al hijo en toda la herencia.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1501.
 
-Si sólo hubiere ascendientes de ulterior grado por una línea, se dividirá la herencia por partes iguales.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1502.
 
-Si hubiere ascendientes por ambas líneas, se dividirá la herencia en dos partes iguales, y se aplicará una a los ascendientes de la línea paterna y otra a los de la materna.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1503.
 
-Los miembros de cada línea dividirán entre sí por partes iguales la porción que les corresponda.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2001)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1504.
 
-Concurriendo los adoptantes con ascendientes del adoptado en forma simple, la herencia de éste se dividirá por partes iguales entre los adoptantes y los ascendientes.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1505.
 
-Si concurre el cónyuge del adoptado con los adoptantes, las dos terceras partes de la herencia corresponden al cónyuge y la otra tercera parte a los que hicieren la adopción.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1506.
 
-Los ascendientes, aún cuando sean ilegítimos, tienen derecho a heredar a sus descendientes reconocidos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-Artículos 1507.- Si el reconocimiento se hace después de que el descendiente haya adquirido bienes cuya cuantía, teniendo en cuenta las circunstancias personales del que reconoce, haga suponer fundadamente que motivó el reconocimiento, ni el que reconoce ni sus descendientes tienen derecho a la herencia del reconocido. El que reconoce tiene derecho a alimentos, en el caso de que el reconocimiento lo haya hecho cuando el reconocido tuvo también derecho a percibir alimentos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+###### Artículo 1507.
+
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO IV.
 
-De la Sucesión del Cónyuge.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1508.
 
-El cónyuge que sobrevive, concurriendo con descendientes tendrá el derecho de un hijo, si carece de bienes o los que tiene al morir el autor de la sucesión, no igualan a la porción que a cada hijo debe corresponder. Lo mismo se observará si concurre con hijos adoptivos del autor de la herencia.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1509.
 
-En el primer caso del artículo anterior, el cónyuge recibirá íntegra la porción señalada, en el segundo, sólo tendrá derecho a recibir lo que baste para igualar sus bienes con la porción mencionada.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1510.
 
-Si el cónyuge que sobrevive concurre con ascendientes, la herencia se dividirá en dos partes iguales, de las cuales una se aplicará al cónyuge y la otra a los ascendientes.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1511.
 
-Concurriendo el cónyuge con uno o mas hermanos del autor de la sucesión, tendrá dos tercios de la herencia, y el tercio restante se aplicará al hermano o se dividirá por partes iguales entre los hermanos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1512.
 
-El cónyuge recibirá las porciones que le correspondan conforme a los dos artículos anteriores, aunque tenga bienes propios.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1513.
 
-A falta de descendientes, ascendientes y hermanos, el cónyuge sucederá en todos los bienes.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO V.
 
-De la Sucesión de los Colaterales.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1514.
 
-Si sólo hay hermanos por ambas líneas, sucederán por partes iguales.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1515.
 
-Si concurren hermanos con medios hermanos, aquéllos heredarán doble porción de éstos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1516.
 
-Si concurren hermanos con sobrinos, hijos de hermanos o de medios hermanos pre-muertos, que sean incapaces de heredar o que hayan renunciado la herencia, los primeros heredarán por cabeza y los segundos por estirpes, teniendo en cuenta lo dispuesto en el artículo anterior.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1517.
 
-A falta de hermanos, sucederán sus hijos, dividiéndose la herencia por estirpes, y la porción de cada estirpe, por cabezas.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1518.
 
-A falta de los llamados en los artículos anteriores, sucederán los parientes más próximos, dentro del cuarto grado, sin distinción de línea ni consideración al doble vínculo, y heredarán por partes iguales.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1519.
 
-Al aplicar las disposiciones anteriores se tendrá en cuenta lo que ordena el Capítulo siguiente.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 21 DE MAYO DE 1975)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO VI.
 
-De la Sucesión en el Concubinato.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE ENERO DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1520.
 
-La concubina y el concubino tienen derecho a heredarse recíprocamente, aplicándose las disposiciones relativas a la sucesión del cónyuge, siempre que reúnan los requisitos a que se refiere el Capítulo XI del Título V del Libro Primero de este Código.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-I.- (DEROGADA, P.O. 21 DE ENERO DE 2009)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-II.- (DEROGADA, P.O. 21 DE ENERO DE 2009)
-
-III.- (DEROGADA, P.O. 21 DE ENERO DE 2009)
-
-IV.- (DEROGADA, P.O. 21 DE ENERO DE 2009)
-
-V.- (DEROGADA, P.O. 21 DE ENERO DE 2009)
-
-VI.- (DEROGADA, P.O. 21 DE ENERO DE 2009)
-
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 21 DE ENERO DE 2009)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO VII.
 
-De la Sucesión de la Beneficencia Publica.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1521.
 
-A falta de todos los herederos llamados en los capítulos anteriores, sucederá la Beneficencia Pública del Estado de Sinaloa.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1522.
 
-Cuando sea heredera la Beneficencia Pública y entre lo que le corresponda existan bienes raíces que no pueda adquirir conforme al artículo 27 de la Constitución, se venderán los bienes en pública subasta, antes de hacerse la adjudicación, aplicándose a la Beneficencia Pública el precio que se obtuviere.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ## TITULO V.
 
-Disposiciones Comunes a las Sucesiones Testamentarias y Legitimas.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO I.
 
-De las Precauciones que deben adoptarse cuando la vida (sic) quede en cinta (sic).
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1523.
 
-Cuando a la muerte del marido la viuda crea haber quedado en cinta (sic), lo pondrá en conocimiento del juez que conozca de la sucesión, dentro del término de cuarenta días para que lo notifique a los que tengan a la herencia un derecho de tal naturaleza que deba desaparecer o disminuir por el nacimiento del póstumo.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1524.
 
-Los interesados a que se refiere el precedente artículo pueden pedir al juez que dicte las providencias convenientes para evitar la suposición del parto, la substitución del infante o que se haga pasar por viable la criatura que no lo es.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-Cuidará el juez de que las medidas que dicte no ataquen al pudor, ni a la libertad de la viuda.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1525.
 
-Háyase o no dado el aviso de que habla el artículo 1523, al aproximarse la época del parto la viuda deberá ponerlo en conocimiento del juez para que lo haga saber a los interesados. Estos tienen derecho de pedir que el Juez nombre una persona que se cerciore de la realidad del alumbramiento; debiendo recaer el nombramiento precisamente en un médico o en una partera.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1526.
 
-Si el marido reconoció en instrumento público o privado la certeza de la preñez de su consorte, estará dispensada ésta de dar el aviso a que se refiere el artículo 1523, pero quedará sujeta a cumplir lo dispuesto en el artículo 1525.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1527.
 
-La omisión de la madre no perjudica a la legitimidad del hijo, si por otros medios legales puede acreditarse.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1528.
 
-La viuda que quedare en cinta(sic), aún cuando tenga bienes, deberá ser alimentada con cargo a la masa hereditaria.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1529.
 
-Si la viuda no cumple con lo dispuesto en los artículos 1523 y 1525, podrán los interesados negarle los alimentos cuando tenga bienes; pero si por averiguaciones posteriores resultare cierta la preñez, se deberán abonar los alimentos que dejaron de pagarse.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1530.
 
-La viuda no está obligada a devolver los alimentos recibidos, aún cuando haya habido aborto o no resulte cierta la preñez, salvo el caso en que ésta hubiere sido contradicha por dictamen pericial.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1531.
 
-El juez decidirá de plano todas las cuestiones relativas a alimentos conforme a los artículos anteriores, resolviendo en caso dudoso en favor de la viuda.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1532.
 
-Para cualquiera de las diligencias que se practiquen conforme a lo dispuesto en este Capítulo, deberá ser oída la viuda.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1533.
 
-La división de la herencia se suspenderá hasta que se verifique el parto o hasta que transcurra el término máximo de la preñez; más los acreedores podrán ser pagados por mandato judicial.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO II.
 
-De la Apertura y Transmisión de la Herencia.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1534.
 
-La sucesión se abre en el momento en que muere el autor de la herencia y cuando se declara la presunción de muerte de un ausente.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1535.
 
-No habiendo albacea nombrado, cada uno de los herederos puede, si no ha sido instituído heredero de bienes determinados, reclamar la totalidad de la herencia que le corresponde conjuntamente con otros, sin que el demandado pueda oponer la excepción de que la herencia no le pertenece por entero.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1536.
 
-Habiendo albacea nombrado, él deberá promover la reclamación a que se refiere el artículo precedente, y siendo moroso en hacerlo, los herederos tienen derecho de pedir su remoción.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1537.
 
-El derecho de reclamar la herencia prescribe en diez años y es trasmisible a los herederos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO III.
 
-De la Aceptación y de la Repudiación de la Herencia.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1538.
 
-Pueden aceptar o repudiar la herencia todos los que tienen la libre disposición de sus bienes.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1539.
 
-La herencia dejada a los menores y demás incapacitados, será aceptada por sus tutores, quienes podrán repudiarla con autorización judicial, previa audiencia del Ministerio Público.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 21 DE MAYO DE 1975)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1540.
 
-Ninguno de los cónyuges necesita la autorización del otro para aceptar o repudiar la herencia que le corresponda. La herencia común será aceptada o repudiada por los dos cónyuges, y en caso de discrepancia resolverá el Juez.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1541.
 
-La aceptación puede ser expresa o tácita. Es expresa la aceptación si el heredero acepta con palabras terminantes, y tácita, si ejecuta algunos hechos de que se deduzca necesariamente la intención de aceptar, o aquellos que no podría ejecutar sino con su calidad de heredero.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1542.
 
-Ninguno puede aceptar o repudiar la herencia en parte, con plazo o condicionalmente.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1543.
 
-Si los herederos no se convinieren sobre la aceptación o repudiación, podrán aceptar unos y repudiar otros.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1544.
 
-Si el heredero fallece sin aceptar o repudiar la herencia, el derecho de hacerlo se trasmite a sus sucesores.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1545.
 
-Los efectos de la aceptación o repudiación de la herencia se retrotraen siempre a la fecha de la muerte de la persona a quien se hereda.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1546.
 
-La repudiación debe ser expresa y hacerse por escrito ante el juez, o por medio de instrumento público otorgado ante Notario, cuando el heredero no se encuentra en el lugar del juicio.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1547.
 
-La repudiación no priva al que la hace, si no es heredero ejecutor, del derecho de reclamar los legados que se le hubieren dejado.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1548.
 
-El que es llamado a una misma herencia por testamento y abintestato, y la repudia por el primer título, se entiende haberla repudiado por los dos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1549.
 
-El que repudia el derecho de suceder por intestado sin tener noticia de su título testamentario, puede en virtud de éste, aceptar la herencia.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1550.
 
-Ninguno puede renunciar la sucesión de persona viva, ni enajenar los derechos que eventualmente pueda tener a su herencia.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1551.
 
-Nadie puede aceptar ni repudiar sin estar cierto de la muerte de aquel de cuya herencia se trate.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1552.
 
-Conocida la muerte de aquel a quien se hereda, se puede renunciar la herencia dejada bajo condición, aunque ésta no se haya cumplido.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1553.
 
-Las personas morales capaces de adquirir pueden, por conducto de sus representantes legítimos, aceptar o repudiar herencias; pero tratándose de corporaciones de carácter oficial o de instituciones de Beneficencia Privada, no pueden repudiar la herencia, las primeras, sin aprobación judicial previa audiencia del Ministerio Público, y las segundas, sin sujetarse a las disposiciones relativas de la ley de Beneficencia Privada.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-Los establecimientos públicos no pueden aceptar ni repudiar herencias sin aprobación de la autoridad administrativa superior de quien dependan.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1554.
 
-Cuando alguno tuviere interés en que el heredero declare si acepta o repudia la herencia, podrá pedir, pasados nueve días de la apertura de ésta, que el juez fije al heredero un plazo, que no excederá de un mes, para que dentro de él haga su declaración, apercibido de que, si no la hace, se tendrá la herencia por aceptada.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1555.
 
-La aceptación y la repudiación, una vez hechas, son irrevocables, y no pueden ser impugnadas sino en los casos de dolo o violencia.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1556.
 
-El heredero puede revocar la aceptación o la repudiación, cuando por un testamento, desconocido al tiempo de hacerla, se altera la cantidad o calidad de la herencia.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1557.
 
-En el caso del artículo anterior, si el heredero revoca la aceptación, devolverá todo lo que hubiere percibido de la herencia, observándose respecto de los frutos, las reglas relativas a los poseedores.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-Artículo 1578(sic).- Si el heredero repudia la herencia en perjuicio de sus acreedores, pueden estos pedir al juez que los autorice para aceptar en nombre de aquél.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-Artículo 1579(sic).- En el caso del artículo anterior, la aceptación sólo aprovechará a los acreedores para el pago de sus créditos; pero si la herencia excediere del importe de éstos, el exceso pertenecerá a quien llame la ley, y en ningún caso al que hizo la denuncia.
+Artículo 1578 (sic).- (DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+Artículo 1579 (sic).- (DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1560.
 
-Los acreedores cuyos créditos fueren posteriores a la repudiación, no pueden ejercer el derecho que les concede el artículo 1558.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1561.
 
-El que por la repudiación de la herencia debe entrar en ella, podrá impedir que la acepten los acreedores, pagando a éstos los créditos que tienen contra el que la repudió.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1562.
 
-El que a instancias de un legatario o acreedor hereditario, haya sido declarado heredero, será considerado como tal por los demás, sin necesidad de nuevo juicio.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1563.
 
-La aceptación en ningún caso produce confusión de los bienes del autor de la herencia y de los herederos, porque toda herencia se entiende aceptada a beneficio de inventario, aunque no se exprese.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO IV.
 
-De los Albaceas.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1564.
 
-No podrá ser albacea el que no tenga la libre disposición de sus bienes.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-> <small>(REFORMADO, P.O. 21 DE MAYO DE 1975)</small>
-
-El cónyuge mayor de edad podrá hacerlo sin la autorización del otro.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1565.
 
-No pueden ser albacea, excepto en el caso de ser herederos únicos:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-I.- Los magistrados y jueces que estén ejerciendo jurisdicción en el lugar en que se abre la sucesión;
-
-II.- Los que por sentencia hubieren sido removidos otra vez del cargo de albacea;
-
-III.- Los que hayan sido condenados por delitos contra la propiedad;
-
-IV.- Los que no tengan un modo honesto de vivir.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1566.
 
-El testador puede nombrar uno o mas albaceas.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1567.
 
-Cuando el testador no hubiere designado albacea o el nombrado no desempeñare el cargo, los herederos elegirán albacea por mayoría de votos. Por los herederos menores votarán sus legítimos representantes.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1568.
 
-La mayoría, en todos los casos de que habla este Capítulo, y los relativos a inventario y partición, se calculará por el importe de las porciones, y no por el número de las personas.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-Cuando la mayor porción esté representada por menos de la cuarta parte de los herederos, para que haya mayoría se necesita que con ellos voten los herederos que sean necesarios para formar por lo menos la cuarta parte del número total.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1569.
 
-Si no hubiere mayoría el albacea será nombrado por el juez, de entre los propuestos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1570.
 
-Lo dispuesto en los dos artículos que preceden se observará también en los casos de intestado, y cuando el albacea nombrado falte, sea por la causa que fuere.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1571.
 
-El heredero que fuere único, será albacea si no hubiere sido nombrado otro en el testamento. Si es incapaz desempeñará el cargo de tutor.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1572.
 
-Cuando no haya heredero o el nombrado no entre en la herencia, el juez nombrará el albacea, si no hubiere legatarios.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1573.
 
-En el caso del artículo anterior, si hay legatarios, el albacea será nombrado por éstos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1574.
 
-El albacea nombrado conforme a los dos artículos que preceden, durará en su encargo mientras que, declarados los herederos legítimos, éstos hacen la elección de albacea.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1575.
 
-Cuando toda la herencia se distribuya en legados, los legatarios nombrarán el albacea.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1576.
 
-El albacea podrá ser universal o especial.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1577.
 
-Cuando fueren varios los albaceas nombrados, el albaceazgo será ejercido por cada uno de ellos, en el orden en que hubiesen sido designados, a no ser que el testador hubiere dispuesto expresamente que se ejerza de común acuerdo por todos los nombrados, pues en este caso se considerarán mancomunados.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1578.
 
-Cuando los albaceas fueren mancomunados sólo valdrá lo que todos hagan de consuno; lo que haga uno de ellos, legalmente autorizado por los demás, o lo que, en caso de disidencia, acuerde el mayor número. Si no hubiere mayoría decidirá el juez.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1579.
 
-En los casos de suma urgencia, puede uno de los albaceas mancomunados practicar, bajo su responsabilidad personal, los actos que fueren necesarios, dando cuenta inmediatamente a los demás.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1580.
 
-El cargo de albacea es voluntario; pero el que lo acepta se constituye en la obligación de desempeñarlo.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1581.
 
-El albacea que renuncie sin justa causa, perderá lo que hubiere dejado el testador. Lo mismo sucederá cuando la renuncia sea por causa justa, si lo que se deja al albacea es con el exclusivo objeto de remunerarlo por el desempeño del cargo.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1582.
 
-El albacea que presentare excusas, deberá hacerlo dentro de los seis días siguientes a aquel en que tuvo noticia de su nombramiento; o si este le era ya conocido, dentro de los seis días siguientes a aquel en que tuvo noticia de la muerte del testador. Si presenta sus excusas fuera del término señalado, responderá de los daños y perjuicios que ocasione.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1583.
 
-Pueden excusarse de ser albaceas:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-I.- Los empleados y funcionarios públicos;
-
-II.- Los militares en servicio activo;
-
-III.- Los que fueren tan pobres que no puedan atender el albaceazgo sin menoscabo de su subsistencia;
-
-IV.- Los que por el mal estado habitual de salud, o por no saber leer ni escribir, no puedan atender debidamente el albaceazgo;
-
-V.- Los que tengan sesenta años cumplidos;
-
-VI.- Los que tengan a su cargo otro albaceazgo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1584.
 
-El albacea que estuviere presente mientras se decide sobre su excusa, debe desempeñar el cargo bajo la pena establecida en el Artículo 1581.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1585.
 
-El albacea no podrá delegar el cargo que ha recibido, ni por su muerte pasa a sus herederos; pero no está obligado a obrar personalmente; puede hacerlo por mandatarios que obren bajo sus órdenes, respondiendo de los actos de éstos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1586.
 
-El albacea general está obligado a entregar al ejecutor especial las cantidades o cosas necesarias para que cumpla la parte del testamento que estuviere a su cargo.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1587.
 
-Si el cumplimiento de legado dependiere de plazo o de alguna condición suspensiva, podrá el ejecutor general resistirse a la entrega de la cosa o cantidad, dando fianza a satisfacción del legatario o del ejecutor especial, de que la entrega se hará en su debido tiempo.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1588.
 
-El ejecutor especial podrá también, a nombre del legatario, exigir la constitución de la hipoteca necesaria.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1589.
 
-El derecho a la posesión de los bienes hereditarios se transmite, por ministerio de la ley, a los herederos y a los ejecutores universales desde el momento de la muerte del autor de la herencia, salvo lo dispuesto en el artículo 205.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1590.
 
-El albacea debe deducir todas las acciones que pertenezcan a la herencia.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1591.
 
-Son obligaciones del albacea general:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-I.- La presentación del testamento;
-
-II.- El aseguramiento de los bienes de la herencia;
-
-III.- La formación de inventarios;
-
-IV.- La administración de los bienes y la rendición de las cuentas del albaceazgo;
-
-V.- El pago de las deudas mortuorias, hereditarias y testamentarias;
-
-VI.- La partición y adjudicación de los bienes entre los herederos y legatarios;
-
-VII.- La defensa, en juicio, y fuera de él, así de la herencia como de la validez del testamento;
-
-VIII.- La de representar a la sucesión en todos los juicios que hubieren de promoverse en su nombre o que se promovieren contra de ella;
-
-IX.- Las demás que le imponga la ley.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1592.
 
-Los albaceas, dentro de los quince días siguientes a la aprobación del inventario, propondrán al Juez la distribución provisional de los productos de los bienes hereditarios, señalando la parte de ellos que cada bimestre deberá entregarse a los herederos o legatarios.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-El juez, observando el procedimiento fijado por el Código de la materia, aprobará o modificará la proposición hecha, según corresponda.
-
-El albacea que no presente la proposición de que se trata o que durante dos bimestres consecutivos, sin justa causa no cubra a los herederos o legatarios lo que les corresponda, será separado del cargo a solicitud de cualquiera de los interesados.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1593.
 
-El albacea también está obligado, dentro de los tres meses contados desde que acepte su nombramiento, a garantizar su manejo, con fianza, hipoteca o prenda, a su elección, conforme a las bases siguientes:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-I.- Por el importe de la renta de los bienes raíces en el último año y por los réditos de los capitales impuestos, durante ese tiempo;
-
-II.- Por el valor de los bienes muebles;
-
-III.- Por el de los productos de las fincas rústicas en un año, calculados por peritos o por el término medio en un quinquenio, a elección del juez;
-
-IV.- En las negociaciones mercantiles e industriales por el veinte por ciento del importe de las mercancías, y demás efectos muebles, calculado por los libros, si están llevados en debida forma, o a juicio de peritos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1594.
 
-Cuando el albacea sea también co-heredero y su porción baste para garantizar, conforme a lo dispuesto en el artículo que precede, no estará obligado a prestar garantía especial, mientras que conserve sus derechos hereditarios. Si su porción fuere suficiente para prestar la garantía de que se trata, estará obligado a dar fianza, hipoteca o prenda por lo que falte para completar esa garantía.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1595.
 
-El testador no puede librar al albacea de la obligación de garantizar su manejo; pero los herederos sean testamentarios o legítimos, tienen derecho de dispensar al albacea del cumplimiento de esa obligación.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1596.
 
-Si el albacea ha sido nombrado en testamento y lo tiene en su poder, debe presentarlo dentro de los ocho días siguientes a la muerte del testador.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1597.
 
-El albacea debe formar el inventario dentro del término señalado por el Código de Procedimientos Civiles, si no lo hace, será removido.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1598.
 
-El albacea, antes de formar el inventario, no permitirá la extracción de cosa alguna si no es que conste la propiedad ajena por el mismo testamento, por instrumento público o por los libros de la casa llevados en debida forma, si el autor de la herencia hubiere sido comerciante.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1599.
 
-Cuando la propiedad de la cosa ajena conste por medios diversos de los enumerados en el artículo que precede, el albacea se limitará a poner al margen de las partidas respectivas, una nota que indique la pertenencia de la cosa, para que la propiedad se discuta en el juicio correspondiente.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1600.
 
-La infracción a los dos artículos anteriores, hará responsable al albacea de los daños y perjuicios.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1601.
 
-El albacea, dentro del primer mes de ejercer su cargo, fijará, de acuerdo con los herederos, la cantidad que haya de emplearse en los gastos de administración y el número y sueldos de los dependientes.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1602.
 
-Si para el pago de una deuda u otro gasto urgente, fuere necesario vender algunos bienes, el albacea deberá hacerlo, de acuerdo con los herederos, y si esto no fuere posible, con aprobación judicial.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1603.
 
-Lo dispuesto en los artículos 570 y 571 respecto de los tutores, se observará también respecto de los albaceas.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1604.
 
-El albacea no puede gravar ni hipotecar los bienes, sin consentimiento de los herederos o de los legatarios en su caso.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1605.
 
-El albacea no puede transigir ni comprometer en árbitros los negocios de la herencia, sino con consentimiento de los herederos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1606.
 
-El albacea sólo puede dar en arrendamiento hasta por un año los bienes de la herencia. Para arrendarlos por mayor tiempo, necesita del consentimiento de los herederos o de los legatarios en su caso.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1607.
 
-El albacea está obligado a rendir cada año cuenta de su albaceazgo. No podrá ser nuevamente nombrado, sin que antes haya sido aprobada su cuenta anual. Además rendirá la cuenta general del albaceazgo. También rendirá cuenta de su administración, cuando por cualquiera causa deje de ser albacea.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1608.
 
-La obligación que de dar cuentas tiene el albacea, pasa a sus herederos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1609.
 
-Son nulas de pleno derecho las disposiciones por las que el testador dispensa al albacea de la obligación de hacer inventario o de rendir cuentas.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1610.
 
-La cuenta de administración debe ser aprobada por todos los herederos; el que disienta, puede seguir a su costa el juicio respectivo, en los términos que establezca el Código de Procedimientos Civiles.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1611.
 
-Cuando fuere heredera la Beneficencia Pública o los herederos fueren menores, intervendrá el Ministerio Público en la aprobación de las cuentas.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1612.
 
-Aprobadas las cuentas, los interesados pueden celebrar sobre su resultado los convenios que quieran.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1613.
 
-El heredero o herederos que no hubieren estado conformes con el nombramiento de albacea hecho por la mayoría, tienen derecho de nombrar un interventor que vigile al albacea.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-Si la minoría inconforme la forman varios herederos, el nombramiento de interventor se hará por mayoría de votos, y si no se obtiene mayoría, el nombramiento lo hará el juez, eligiendo el interventor de entre las personas propuestas por los herederos de la minoría.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1614.
 
-Las funciones del interventor se limitarán a vigilar el exacto cumplimiento del cargo de albacea.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1615.
 
-El interventor no puede tener la posesión ni aún interina de los bienes.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1616.
 
-Debe nombrarse precisamente un interventor:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-I.- Siempre que el heredero esté ausente o no sea conocido;
-
-II.- Cuando la cuantía de los legados iguale o exceda a la porción del heredero albacea;
-
-III.- Cuando se hagan legados para objetos o establecimientos de Beneficencia Pública.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1617.
 
-Los interventores deben ser mayores de edad y capaces de obligarse.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1618.
 
-Los interventores durarán mientras que no se revoque su nombramiento.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1619.
 
-Los interventores tendrán la retribución que acuerden los herederos que los nombren, y si los nombra el juez, cobrarán conforme a Arancel, como si fueran apoderados.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1620.
 
-Los acreedores y legatarios no podrán exigir el pago de sus créditos y legados, sino hasta que el inventario haya sido formado y aprobado, siempre que se forme y apruebe dentro de los términos señalados por la ley; salvo en los casos prescritos en los artículos 1639 y 1642 y aquellas deudas sobre las cuales hubiere juicio pendiente al abrirse la sucesión.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1621.
 
-Los gastos hechos por el albacea en el cumplimiento de su cargo, incluso los honorarios de abogado y procurador que haya ocupado, se pagarán de la masa de la herencia.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1622.
 
-El albacea debe cumplir su encargo dentro de un año, contado desde su aceptación, o desde que terminen los litigios que se promovieren sobre la validez o nulidad del testamento.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1623.
 
-Sólo por causa justificada pueden los herederos prorrogar al albacea el plazo señalado en el artículo anterior, y la prórroga no excederá de un año.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1624.
 
-Para prorrogar el plazo de albaceazgo, es indispensable que haya sido aprobada la cuenta anual del albacea, y que la prorroga la acuerde una mayoría que represente las dos terceras partes de la herencia.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1625.
 
-El testador puede señalar al albacea la retribución que quiera.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1626.
 
-Si el testador no designare la retribución, el albacea cobrará el dos por ciento sobre el importe líquido y efectivo de la herencia, y el cinco por ciento sobre los frutos industriales de los bienes hereditarios.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1627.
 
-El albacea tiene derecho de elegir entre lo que le deja el testador por el desempeño del cargo y lo que la ley le concede por el mismo motivo.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1628.
 
-Si fueren varios y mancomunados los albaceas, la retribución se repartirá entre todos ellos. Si no fueren mancomunados, la repartición se hará en proporción al tiempo que cada uno haya administrado y al trabajo que hubiere tenido en la administración.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1629.
 
-Si el testador legó conjuntamente a los albaceas alguna cosa por el desempeño de su cargo, la parte de los que no admitan éste, acrecerá a los que lo ejerzan.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1630.
 
-Los cargos de albacea e interventor, acaban:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-I.- Por el término natural del encargo;
-
-II.- Por muerte;
-
-III.- Por incapacidad legal, declarada en forma;
-
-IV.- Por excusa que el juez califique de legítima, con audiencia de los interesados y del Ministerio Público, cuando se interesen menores o la Beneficencia Pública;
-
-V.- Por terminar el plazo señalado por la ley y las prórrogas concedidas para desempeñar el cargo;
-
-VI.- Por revocación de sus nombramientos, hecha por los herederos,
-
-VII.- Por remoción.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1631.
 
-La revocación puede hacerse por los herederos en cualquier tiempo pero en el mismo acto debe nombrarse el sustituto.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1632.
 
-Cuando el albacea haya recibido del testador algún encargo especial, además del de seguir el juicio sucesorio para hacer entrega de los bienes a los herederos, no quedará privado de aquel encargo por la revocación del nombramiento de albacea que hagan los herederos. En tal caso, se considerará como ejecutor especial y se aplicará lo dispuesto en el artículo 1586.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1633.
 
-Si la revocación se hace sin causa justificada, el albacea removido tiene derecho de percibir lo que el testador le haya dejado por el desempeño del cargo o el tanto por ciento que le corresponda conforme al artículo 1626 teniéndose en cuenta lo dispuesto en el artículo 1628.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1634.
 
-La remoción no tendrá lugar sino por sentencia pronunciada en el incidente respectivo, promovido por parte legítima.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO V.
 
-Del Inventario y de la Liquidación de la Herencia.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1635.
 
-El albacea definitivo, dentro del término que fije el Código de Procedimientos Civiles, promoverá la formación del inventario.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1636.
 
-Si el albacea no cumpliere lo dispuesto en el artículo anterior, podrá promover la formación de inventario cualquier heredero.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1637.
 
-El inventario se formará según lo disponga el Código de Procedimientos Civiles. Si el albacea no lo presenta dentro del término legal, será removido.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1638.
 
-Concluido y aprobado judicialmente el inventario, el albacea procederá a la liquidación de la herencia.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1639.
 
-En primer lugar, serán pagadas las deudas mortuorias, si no lo estuvieren ya, pues pueden pagarse antes de la formación del inventario.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1640.
 
-Se llaman deudas mortuorias, los gastos del funeral y los que se hayan causado en la última enfermedad del autor de la herencia.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1641.
 
-Las deudas mortuorias se pagarán del cuerpo de la herencia.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1642.
 
-En segundo lugar se pagarán los gastos de rigurosa conservación y administración de la herencia, así como los créditos alimenticios que pueden también ser cubiertos antes de la formación del inventario.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1643.
 
-Si para hacer los pagos de que hablan los artículos anteriores no hubiere dinero en la herencia, el albacea promoverá la venta de los bienes muebles y aún de los inmuebles, con las solemnidades que respectivamente se requieran.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1644.
 
-En seguida se pagarán las deudas hereditarias que fueren exigibles.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1645.
 
-Se llaman deudas hereditarias las contraídas por el autor de la herencia, independientemente de su última disposición, y de las que es responsable con sus bienes.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1646.
 
-Si hubiere pendiente algún concurso, el albacea no deberá pagar sino conforme a la sentencia de graduación de acreedores.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1647.
 
-Los acreedores, cuando no haya concurso, serán pagados en el orden en que se presenten; pero si entre los no presentados hubiere algunos preferentes, se exigirá a los que fueren pagados la caución de acreedor de mejor derecho.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1648.
 
-El albacea, concluido el inventario, no podrá pagar los legados, sin haber cubierto o asignado bienes bastantes para pagar las deudas, conservando en los respectivos bienes los gravámenes especiales que tengan.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1649.
 
-Los acreedores que se presenten después de pagados los legatarios, solamente tendrán acción contra éstos cuando en la herencia no hubiere bienes bastantes para cubrir sus créditos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1650.
 
-La venta de bienes hereditarios para el pago de deudas y legados, se hará en pública subasta; a no ser que la mayoría de los interesados acuerde otra cosa.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1651.
 
-La mayoría de los interesados, o la autorización judicial en su caso, determinarán la aplicación que haya de darse al precio de las cosas vendidas.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO VI.
 
-De la Partición.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1652.
 
-Aprobados el inventario y la cuenta de administración, el albacea debe hacer en seguida la participación(sic) de la herencia.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1653.
 
-A ningún coheredero puede obligarse a permanecer en la indivisión de los bienes, ni aún por prevención expresa del testador.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1654.
 
-Puede suspenderse la partición en virtud de convenio expreso de los interesados. Habiendo menores entre ellos, deberá oírse al tutor y al Ministerio Público, y al auto en que se apruebe el convenio, determinará el tiempo que debe durar la indivisión.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1655.
 
-Si el autor de la herencia dispone en su testamento que a algún heredero o legatario se le entreguen determinados bienes, al albacea, aprobado el inventario, les entregará esos bienes, siempre que garanticen suficientemente responder pos los gastos y cargas generales de la herencia, en proporción que les corresponda.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1656.
 
-Si el autor de la herencia hiciere la participación(sic) de los bienes en su testamento, a ella deberá estarse, salvo derecho de tercero.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1657.
 
-Si el autor de la sucesión no dispuso como debieran repartirse sus bienes y se trata de una negociación que forme una unidad agrícola, industrial o comercial, habiendo entre los herederos agricultores, industriales o comerciantes, a ellos se aplicará la negociación, siempre que puedan entregar en dinero a los otros coherederos la parte que les corresponda. El precio de la negociación se fijará por peritos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-Lo dispuesto en este artículo, no impide que los coherederos celebren los convenios que estimen pertinentes.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1658.
 
-Los coherederos deben abonarse recíprocamente las rentas y frutos que cada uno haya recibido de los bienes hereditarios, los gastos útiles y necesarios y los daños ocasionados por malicia o negligencia.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1659.
 
-Si el testador hubiere legado alguna pensión o renta vitalicia, sin gravar con ella en particular a algún heredero o legatario, se capitalizará al nueve por ciento anual, y se separará un capital o fundo de igual valor, que se entregará a la persona que deba percibir la pensión o renta, quien tendrá todas las obligaciones de mero usufructuario. Lo mismo se observará cuando se trate de las pensiones alimenticias a que se refiere el artículo 1267.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1660.
 
-En el proyecto de partición se expresará la parte que del capital o fundo afecto a la pensión, corresponderá a cada uno de los herederos luego que aquella se extinga.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1661.
 
-Cuando todos los herederos sean mayores, y el interés del Fisco, si lo hubiere, esté cubierto, podrán los interesados separarse de la prosecución del juicio y adoptar los acuerdos que estimen convenientes para el arreglo y terminación de la testamentaria o del intestado.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-Cuando haya menores, podrán separarse, si están debidamente representados y el Ministerio Público da su conformidad da su conformidad. En este caso, los acuerdos que tomen se denunciarán al juez, y éste, oyendo al Ministerio Público, dará su aprobación, si no se lesionan los derechos de los menores.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1662.
 
-La partición constará en escritura pública, siempre que en la herencia haya bienes cuya enajenación deba hacerse con esa formalidad.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1663.
 
-Los gastos de la partición se rebajarán del fondo común; los que se hagan por el interés particular de alguno de los herederos o legatarios, se imputarán a su haber.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO VII.
 
-De los Efectos de la Partición.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1664.
 
-La partición legalmente hecha, fija la porción de bienes hereditarios que corresponde a cada uno de los herederos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1665.
 
-Cuando por causas anteriores a la partición, alguno de los coherederos fuese privado de todo o de parte de su haber, los otros coherederos están obligados a indemnizarle de esa pérdida, en proporción a sus derechos hereditarios.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1666.
 
-La porción que deberá pagarse al que pierda su parte, no será la que represente su haber primitivo, sino la que le corresponda, deduciendo del total de la herencia la parte perdida.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1667.
 
-Si alguno de los coherederos estuviera insolvente, la cuota con que debía contribuir se repartirá entre los demás, incluso el que perdió su parte.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1668.
 
-Los que pagaren por el insolvente, conservarán su acción contra él, para cuando mejore de fortuna.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1669.
 
-La obligación a que se refiere el artículo 1665 sólo cesará en los casos siguientes:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
-I.- Cuando se hubieren dejado al heredero bienes individualmente determinados, de los cuales es privado;
-
-II.- Cuando al hacerse la partición, los coherederos renuncien expresamente el derecho a ser indemnizados;
-
-III.- Cuando la pérdida fuere ocasionada por culpa del heredero que la sufre.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1670.
 
-Si se adjudica como cobrable el crédito, los coherederos no responden de la insolvencia posterior del deudor hereditario y sólo son responsables de su solvencia al tiempo de hacerse la partición.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1671.
 
-Por los créditos incobrables no hay resposabilidad (sic).
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1672.
 
-El heredero cuyos bienes hereditarios fueren embargados, o contra quien se pronunciare sentencia en juicio por causa de ellos, tiene derecho de pedir que sus coherederos caucionen la responsabilidad que pueda resultarles y, en caso contrario, que se les prohiba enajenar los bienes que recibieron.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO VIII.
 
-De la Rescisión y Nulidad de las Particiones.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1673.
 
-Las particiones pueden rescindirse o anularse por las mismas causas que las obligaciones.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1674.
 
-El heredero preterido (sic) tiene derecho de pedir la nulidad de la partición, decretada ésta, se hará una nueva partición para que perciba la parte que le corresponda.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1675.
 
-La partición hecha con un heredero falso, es nula en cuanto tenga relación con él, y la parte que se le aplicó se distribuirá entre los herederos.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### Artículo 1676.
 
-Si hecha la partición aparecieren algunos bienes omitidos en ella, se hará una división suplementaria, en la cual se observarán las disposiciones contenidas en este Título.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA, P.O. 6 DE FEBRERO DE 2013)
 
 # Libro Cuarto. DE LAS OBLIGACIONES
 
@@ -14473,7 +15543,7 @@ Si la fianza importa garantía de cantidad que el deudor debe recibir, la suma s
 
 ###### Artículo 2689.
 
-Las cartas de recomendación en que se asegure la probídad y solvencia de alguien, no constituyen fianza.
+Las cartas de recomendación en que se asegure la probidad y solvencia de alguien, no constituyen fianza.
 
 ###### Artículo 2690.
 
@@ -16444,3 +17514,43 @@ P.O. 25 DE ABRIL DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 6 DE FEBRERO DE 2013.
+
+PRIMERO. El presente decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Quedan derogados del Libro Primero del Código Civil del Estado de Sinaloa los:
+
+Capítulos I, II, III, IV, V, VI, VII, VIII, IX, X y XI del Título IV.
+
+Capítulos I, II, III, IV, V, VI, VII, VIII, IX, X y XI del Título V.
+
+Capítulos I, II y III del Título VI.
+
+Capítulos I, II, III, IV y V del Título VII.
+
+Capítulos I, II y III del Título VIII.
+
+Capítulos I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV y XVI del Título IX.
+
+Capítulos I y II del Título X.
+
+Capítulos I, II, III, IV, V, VI, VII y VIII del Título XI.
+
+TERCERO. Quedan derogados del Libro Tercero:
+
+## Título l.
+
+Capítulos I, II, III, IV, V, VI, VII, VIII y IX del Título II.
+
+Capítulos I, II, III, IV, V, VI, VII y VIII del Título III.
+
+Capítulos I, II, III, IV, V, VI y VII del Título IV.
+
+Capítulos I, II, III, IV, V, VI, VII y VIII del Título V, del Código Civil para el Estado de Sinaloa, contenido en el decreto No. 814, de la XXXVI Legislatura del H. Congreso del Estado, de fecha de 18 de junio de 1940; entró en vigor el día primero de diciembre del mismo año.
+
+CUARTO. Se derogan las disposiciones que se opongan al presente ordenamiento.
+
+QUINTO. A falta de disposición específica de este Código y en tanto se expida el Código de Procedimiento Familiares, se aplicarán las normas del Código Civil para el Estado de Sinaloa y del Código de Procedimientos Civiles para el Estado de Sinaloa
+
+SEXTO. Las controversias del orden familiar, que estén en trámite en el momento de la iniciación de la vigencia de este Código, se resolverán conforme a lo prescrito en los Códigos Civil y de Procedimientos Civiles para el Estado de Sinaloa, contenidos en el Decreto No. 814 de la XXXVI Legislatura del H. Congreso del Estado, de fecha dieciocho días del mes de junio de mil novecientos cuarenta y Decreto No. 872 de la XXXVI Legislatura del H. Congreso del Estado de fecha trece días del mes de septiembre de mil novecientos cuarenta, respectivamente.
