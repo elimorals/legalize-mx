@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-del-instituto-de-desarrollo-y-67942"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-03-27"
-last_updated: "2009-03-27"
+last_updated: "2013-02-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67942&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE DESARROLLO Y FORTALECIMIENTO MUNICIPAL DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO DE DESARROLLO Y FORTALECIMIENTO MUNICIPAL DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 6 DE FEBRERO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el viernes 27 de marzo de 2009.
 
@@ -892,3 +894,21 @@ SECRETARIO TÉCNICO DE LA JUNTA DE GOBIERNO DEL INSTITUTO DE DESARROLLO Y FORTAL
 LIC. ALFONSO MAGOS RAMÍREZ
 
 RÚBRICAS
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 6 DE FEBRERO DE 2013.
+
+PRIMERO. El presente Reglamento entrará en vigor el día 1 de enero del año 2011 (sic).
+
+SEGUNDO. Se abroga el Reglamento Interior del Instituto de Desarrollo y Fortalecimiento Municipal del Estado de Morelos, aprobado en sesión ordinaria de la Junta de Gobierno, celebrada el día veintitrés de marzo del dos mil nueve, mediante acuerdo JG/IDEFOMM/27-SO/AC04/23/03/09 y publicado en el Periódico Oficial "Tierra y Libertad", número 4689 de fecha veintisiete de marzo de dos mil nueve.
+
+TERCERO. Se abrogan las disposiciones y acuerdos aprobados con anterioridad que contravengan al presente Reglamento.
+
+CUARTO. En un plazo máximo de noventa días hábiles contados a partir de la entrada en vigor del presente ordenamiento, se deberá expedir el Reglamento de Sesiones de la Junta de Gobierno y el Reglamento de Adquisiciones, Enajenaciones, Arrendamientos, Prestación de Servicios y Obra Pública, como instrumentos normativos específicos que regularán dichos apartados.
+
+QUINTO. En un plazo máximo de noventa días hábiles contados a partir de la entrada en vigor del presente ordenamiento, se deberán actualizar los manuales de organización y procedimientos del Instituto.
+
+SEXTO. En tanto no sean expedidos los Reglamentos de Sesiones de la Junta de Gobierno y el de Adquisiciones, Enajenaciones, Arrendamientos, Prestación de Servicios y Obra Pública, se procederá conforme a las reglas que se establecen en el Reglamento que se abroga.
+
+SÉPTIMO. Publíquese el presente Reglamento en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
