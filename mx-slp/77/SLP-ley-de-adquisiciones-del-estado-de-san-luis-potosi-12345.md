@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-adquisiciones-del-estado-de-san-luis-potosi-12345"
 country: "mx"
 rank: "ley"
 publication_date: "1997-01-29"
-last_updated: "2012-08-25"
+last_updated: "2013-02-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12345&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ADQUISICIONES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2013.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el miércoles 29 de enero de 1997.
 
@@ -285,9 +285,11 @@ El plazo para la celebración del acto de presentación y apertura de proposicio
 
 En licitaciones nacionales, el plazo para la presentación y apertura de proposiciones será, cuando menos, de quince días naturales contados a partir de la fecha de publicación de la convocatoria.
 
+> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 2013)</small>
+
 ###### ARTICULO 25.
 
-Los titulares de las instituciones podrán, bajo su responsabilidad, ordenar al área administrativa la adjudicación directa de adquisiciones, arrendamientos o servicios, en aquellos casos en que de cuya resolución inmediata y expedita dependa la preservación del orden social, la continuidad en la prestación de los servicios públicos, la salubridad, la seguridad pública, así como en los casos de siniestros o desastres producidos por fenómenos naturales que requieran atención emergente.
+Los titulares de las instituciones podrán, bajo su responsabilidad, ordenar al área administrativa la adjudicación directa de adquisiciones, arrendamientos o servicios, en aquéllos casos en que de cuya resolución inmediata y expedita dependa la preservación del orden social, la continuidad en la prestación de los servicios públicos, la economía, la salubridad, la seguridad pública, el ecosistema de una región, así como en los casos de siniestros o desastres producidos por fenómenos naturales que requieran atención emergente.
 
 ###### ARTICULO 26.
 
@@ -730,3 +732,9 @@ P.O. 25 DE AGOSTO DE 2012.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE FEBRERO DE 2013.
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
