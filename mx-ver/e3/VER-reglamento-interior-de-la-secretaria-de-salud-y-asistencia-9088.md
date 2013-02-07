@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interior-de-la-secretaria-de-salud-y-asistencia-9088
 country: "mx"
 rank: "reglamento"
 publication_date: "1987-04-09"
-last_updated: "1987-04-09"
+last_updated: "2013-02-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "VER"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE SALUD Y ASISTENCIA
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE SALUD Y ASISTENCIA
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE SALUD Y ASISTENCIA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE SALUD, PUBLICADO EN LA G.O. DE 7 DE FEBRERO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Gaceta Oficial del Estado de Veracruz, el jueves 9 de abril de 1987.
 
@@ -280,3 +282,15 @@ Artículo Segundo.- Se derogan todas las disposiciones de igual o menor rango fo
 Artículo Tercero.- Mientras se expidan los manuales a que se refiere este Reglamento Interior, el titular de la Secretaría queda facultado para resolver las cuestiones que dichos manuales deben regular.
 
 DADO en el Palacio de Gobierno del Poder Ejecutivo del Estado Libre y Soberano de Veracruz-Llave, en la ciudad de Xalapa-Enríquez, Veracruz, a los siete días del mes de abril de mil novecientos ochenta y siete.- El Gobernador Constitucional del Estado de Veracruz-Llave, FERNANDO GUTIERREZ BARRIOS.- Rúbrica.- El Secretario General de Gobierno, LIC. DANTE DELGADO RANNAURO.- Rúbrica.- El Secretario de Salud y Asistencia, PEDRO CORONEL PEREZ.-Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 7 DE FEBRERO DE 2013.
+
+Artículo primero. El presente Reglamento entrará en vigor al día hábil siguiente de su publicación en la Gaceta Oficial del estado de Veracruz de Ignacio de la Llave.
+
+Artículo segundo. Se abroga el Reglamento Interior de la Secretaría de Salud y Asistencia, expedido el día siete del mes de abril de mil novecientos ochenta y siete.
+
+Artículo tercero. Se derogan todas las disposiciones reglamentarias que se opongan al presente Reglamento.
+
+Artículo cuarto. El Titular del Poder Ejecutivo expide el presente Reglamento Interior de la Secretaría de Salud, de conformidad a lo establecido en la Ley Orgánica del Poder Ejecutivo del Estado de Veracruz de Ignacio de la Llave.
