@@ -4,7 +4,7 @@ identifier: "VER-ley-del-ejercicio-profesional-para-el-estado-de-veracruz-de-910
 country: "mx"
 rank: "ley"
 publication_date: "1963-12-24"
-last_updated: "2003-12-26"
+last_updated: "2013-02-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DEL EJERCICIO PROFESIONAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE DICIEMBRE DE 2003.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE FEBRERO DE 2013.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el martes 24 de diciembre de 1963.
 
@@ -35,7 +35,7 @@ LEY:
 
 NUMERO 101.- La H. Legislatura del Estado Libre y Soberano de Veracruz-Llave, en uso de la facultad que le concede la fracción I del artículo 68, de la Constitución Política local y en nombre del pueblo, expide la siguiente
 
-> <small>(REFORMADA SU DENOMINACION POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN POR ARTÍCULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NÚMERO 547, G.O. 18 DE MARZO DE 2003)</small>
 
 LEY DEL EJERCICIO PROFESIONAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE.
 
@@ -49,73 +49,73 @@ Esta Ley es de orden público e interés social y sus disposiciones tienen por o
 
 Se entiende por título profesional el documento expedido por las instituciones del Estado o descentralizadas, y por instituciones particulares cuyos estudios tengan reconocimiento de validez oficial, a favor de la persona que haya concluido los estudios correspondientes o demostrado tener los conocimientos necesarios de conformidad con esta Ley y demás disposiciones aplicables.
 
-> <small>(REFORMADO, G.O. 8 DE JULIO DE 2002)</small>
+> <small>(REFORMADO, G.O. 7 DE FEBRERO DE 2013)</small>
 
 ###### ARTICULO 2.
 
-Las Profesiones que necesitan título para su ejercicio son las siguientes:
+Las profesiones que necesitan título para su ejercicio son las siguientes:
 
-Actuario;
+I. Actuario;
 
-Arquitecto;
+II. Arquitecto;
 
-Bacteriólogo;
+III. Bacteriólogo;
 
-Cirujano Dentista;
+IV. Cirujano Dentista;
 
-Contador;
+V. Contador;
 
-Corredor;
+VI. Corredor;
 
-Enfermera en sus diversas ramas;
+VII. Enfermera en sus diversas ramas;
 
-Ingeniero en sus diversas ramas;
+VIII. Ingeniero en sus diversas ramas;
 
-Licenciado en Derecho;
+IX. Licenciado en Derecho;
 
-Notario;
+X. Notario;
 
-Licenciado en Economía;
+XI. Licenciado en Economía;
 
-Médico Cirujano o Médico en sus diversas ramas;
+XII. Médico Cirujano o Médico en sus diversas ramas;
 
-Médico Veterinario, Zootecnista y Fitotecnista;
+XIII. Médico Veterinario, Zootecnista y Fitotecnista;
 
-Piloto Aviador;
+XIV. Piloto Aviador;
 
-Antropólogo;
+XV. Antropólogo;
 
-Arqueólogo;
+XVI. Arqueólogo;
 
-Licenciado en Educación Preescolar; licenciado en Educación Primaria; licenciado en Educación Secundaria; licenciado en Educación Especial, en sus diversas especialidades y maestro de Enseñanza Superior, en sus diversas especialidades;
+XVII. Trabajador Social;
 
-Químico, en sus diversas ramas;
+XVIII. Licenciado en Educación Preescolar; licenciado en Educación Primaria; licenciado en Educación Secundaria; licenciado en Educación Especial, en sus diversas especialidades y maestro de Enseñanza Superior, en sus diversas especialidades;
 
-Licenciado en Administración de Empresas;
+XIX. Químico, en sus diversas ramas;
 
-Licenciado en Ciencias Físicas;
+XX. Licenciado en Administración de Empresas;
 
-Licenciado en Estadística;
+XXI. Licenciado en Ciencias Físicas;
 
-Técnico en Estadigrafía;
+XXII. Licenciado en Estadística;
 
-Licenciado en Matemáticas;
+XXIII. Técnico en Estadigrafía;
 
-Licenciado en Psicología;
+XXIV. Licenciado en Matemáticas;
 
-Licenciado en Biología;
+XXV. Licenciado en Psicología;
 
-Técnico Dentista;
+XXVI. Licenciado en Biología;
 
-> <small>(REFORMADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
+XXVII. Técnico Dentista;
 
-Técnico de Laboratorio;
+XXVIII. Técnico de Laboratorio;
 
-> <small>(ADICIONADO, G.O. 26 DE DICIEMBRE DE 2003)</small>
+XXIX. Técnico en Seguridad Pública;
 
-Técnico en Seguridad Pública; y
+XXX. Licenciado en Optometría; y
 
-Las demás profesiones establecidas o que hayan sido comprendidas por Leyes Federales o de los Estados.
+XXXI. Las demás profesiones establecidas o que hayan sido comprendidas por Leyes Federales o de los Estados.
 
 ###### ARTICULO 3.
 
@@ -421,19 +421,39 @@ l).- Gestionar el registro de los títulos de sus componentes.
 
 ### CAPITULO VII. DEL SERVICIO SOCIAL OBLIGATORIO
 
-> <small>(REFORMADO, G.O. 8 DE JULIO DE 2002)</small>
+> <small>(REFORMADO, G.O. 7 DE FEBRERO DE 2013)</small>
 
 ###### ARTICULO 43.
 
-Para los efectos de esta Ley se entiende por Servicio Social la actividad de carácter temporal que en beneficio de la colectividad prestan los estudiantes y pasantes de las distintas profesiones a que se refiere esta Ley.
+Para los efectos de esta Ley se entiende por Servicio Social la actividad de carácter temporal que en beneficio de la colectividad prestan los estudiantes y pasantes de las distintas profesiones a que la misma se refiere, podrá ser presencial o a distancia en línea.
+
+> <small>(REFORMADO, G.O. 7 DE FEBRERO DE 2013)</small>
 
 ###### ARTICULO 44.
 
-El objeto del servicio social es hacer llegar gratuitamente los beneficios del progreso a todos los centros rurales y aún a aquellos que sin serlo, tengan necesidad de elevar el nivel de vida de sus habitantes.
+El servicio social tendrá como objetivos fundamentales:
+
+I. Contribuir a la satisfacción de necesidades sociales en las distintas regiones del Estado, bajo la coordinación del Departamento de Profesiones;
+
+II. Fomentar en los estudiantes una conciencia de responsabilidad social, así como una actitud reflexiva, crítica y constructiva ante el entorno social; y
+
+III. Contribuir y auxiliar a los estudiantes que a través de las nuevas tecnologías cursan bachillerato o carrera universitaria en línea, bajo la coordinación del Instituto Consorcio Clavijero.
+
+> <small>(REFORMADO, G.O. 7 DE FEBRERO DE 2013)</small>
 
 ###### ARTICULO 45.
 
-La prestación del servicio social será por el término de un año y se realizará invariablemente dentro del territorio del Estado, de acuerdo con la Reglamentación de esta Ley.
+La prestación del servicio social dentro del territorio del Estado será por un término no menor de seis meses ni mayor de dos años. No se computará el tiempo en que por enfermedad u otra causa justificada, a juicio del Departamento de Profesiones, se permanezca fuera del lugar en donde deba prestarse.
+
+El Departamento de Profesiones podrá autorizar la prestación del servicio social fuera del territorio del Estado cuando medie convenio al respecto entre la institución educativa estatal, privada o de gobierno, en la que curse o haya cursado sus estudios el interesado y aquella de otra entidad federativa en la que existan condiciones idóneas para ello.
+
+Tendrán derecho a ser exentados de la prestación del servicio social los estudiantes o pasantes que acrediten, ante el Departamento de Profesiones, tener:
+
+I. Más de cincuenta años de edad;
+
+II. Alguna discapacidad; o
+
+III. Un empleo dependiente de la Federación, el Estado o un municipio, con antigüedad no menor de un año al momento de la solicitud.
 
 ###### ARTICULO 46.
 
@@ -455,9 +475,11 @@ Es requisito indispensable para obtener el título profesional, la prestación d
 
 (DEROGADO, G.O. 28 DE DICIEMBRE DE 1996)
 
+> <small>(REFORMADO, G.O. 7 DE FEBRERO DE 2013)</small>
+
 ###### ARTICULO 51.
 
-Para lograr una estricta coordinación de actividades, en los trabajos del Servicio Social se tomarán en cuenta los programas aplicativos de los organismos oficiales y particulares existentes en la región donde se presten, atendiendo preferentemente los planes o proyectos que en las ramas correspondientes presenten los Servicios Coordinados de Salubridad y Asistencia en el Estado.
+La prestación del Servicio Social se sujetará a las disposiciones de esta Ley, los planes y programas de estudio, la normatividad de la institución educativa correspondiente y demás disposiciones aplicables, procurando vincular la actividad con el entorno de la comunidad en la que se realice.
 
 ### CAPITULO VIII. DE LAS SANCIONES POR INCUMPLIMIENTO DE ESTA LEY
 
@@ -642,3 +664,19 @@ G.O. 26 DE DICIEMBRE DE 2003.
 PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 7 DE FEBRERO DE 2013.
+
+DECRETO No. 811, POR EL QUE SE REFORMAN LOS ARTÍCULOS 43, 44, 45 Y 51 DE LA LEY DEL EJERCICIO PROFESIONAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+G.O. 7 DE FEBRERO DE 2013.
+
+DECRETO No. 817, POR EL QUE SE REFORMA EL ARTICULO 2 DE LA LEY DEL EJERCICIO PROFESIONAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE.
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Artículo segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
