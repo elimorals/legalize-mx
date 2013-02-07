@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2012-12-21"
+last_updated: "2013-02-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE FEBRERO DE 2013.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -1403,13 +1403,15 @@ III. La prisión será de cincuenta años a vitalicia cuando se prive de la vida
 
 A los sentenciados por el delito de secuestro previsto en este artículo no se les concederán los beneficios comprendidos en la Ley de Ejecución de Sanciones para el Estado de Veracruz de Ignacio de la Llave; y su tratamiento o internamiento penitenciario se ajustará estrictamente a lo que dicho ordenamiento disponga en el caso específico de la comisión de este ilícito.
 
-> <small>(ADICIONADO, G.O. 3 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, G.O. 7 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 163 Bis.
 
-Comete el delito de privación de la libertad en su modalidad de secuestro exprés, el que disponga de otro reteniéndolo sin su consentimiento el tiempo estrictamente indispensable para cometer los delitos de robo, extorsión o para obtener algún beneficio económico.
+Comete el delito de privación de la libertad en su modalidad de secuestro exprés, el que disponga de otro reteniéndolo sin su consentimiento el tiempo estrictamente indispensable para cometer los delitos de robo, extorsión, o para obtener algún beneficio económico.
 
-Se le impondrá de siete a veinte años de prisión y multa de cien a mil días de salario mínimo, sin perjuicio de las penas que corresponden por los delitos de robo o extorsión y de las reglas de aplicación de concurso para la imposición de sanciones.
+Se le impondrán de veinte a cuarenta años de prisión y multa de quinientos a dos mil días de salario mínimo, sin perjuicio de las penas que corresponden por los delitos de robo u extorsión y las reglas de aplicación de concurso para la imposición de sanciones.
+
+La pena contemplada en el párrafo que antecede, se le impondrá a quien realice la privación de la libertad a través de una detención en calidad de rehén a una persona amenazándola con privarla de la vida o con causarle daño, para obligar a sus familiares o a un particular a que realice o deje de realizar un acto cualquiera.
 
 > <small>(REFORMADO, G.O. 3 DE ENERO DE 2007)</small>
 
@@ -3872,3 +3874,7 @@ G.O. 21 DE DICIEMBRE DE 2012.
 Primero. El presente Decreto entrará en vigor el día primero de enero de dos mil trece, previa publicación en la Gaceta Oficial del Estado.
 
 Segundo. A partir del inicio de la vigencia de este Decreto, la Secretaría proporcionará a las sociedades de información crediticia autorizadas, conforme a la ley de la materia, los datos de adeudos de ejercicios fiscales anteriores que a esa fecha no hayan sido cubiertos dentro de los plazos legalmente establecidos y hayan quedado firmes.
+
+P.O. 7 DE FEBRERO DE 2013.
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
