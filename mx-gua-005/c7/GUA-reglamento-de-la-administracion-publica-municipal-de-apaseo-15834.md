@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-administracion-publica-municipal-de-apaseo-158
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-06-30"
-last_updated: "2009-10-09"
+last_updated: "2013-02-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15834&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "GUA"
 ---
 # REGLAMENTO DE LA ADMINISTRACION PUBLICA MUNICIPAL DE APASEO EL GRANDE, GUANAJUATO
 
-REGLAMENTO PARA LA ADMINISTRACION PUBLICA MUNICIPAL DE APASEO EL GRANDE, GUANAJUATO
+REGLAMENTO PARA LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE APASEO EL GRANDE, GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE OCTUBRE DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO ORGÁNICO DE LA ADMINISTRACIÓN MUNICIPAL DE APASEO EL GRANDE, GUANAJUATO, PUBLICADO EN EL P.O. DE 8 DE FEBRERO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Guanajuato, el martes 30 de junio de 1992.
 
@@ -187,7 +189,7 @@ l.- Elaborar y proponer al Presidente Municipal los proyectos de Leyes, Reglamen
 
 II.- Recaudar los impuestos, derechos, productos y aprovechamientos que correspondan al Municipio, de conformidad con la Ley de Ingresos para los Municipios, así como las participaciones que por Ley o convenio le corresponden al Municipio en el rendimiento de impuestos federales y estatales.
 
-lll.- Vigilar el cumplimiento de las Leyes, Reglamentos y demás disposiciones fiscales aplicables.
+III.- Vigilar el cumplimiento de las Leyes, Reglamentos y demás disposiciones fiscales aplicables.
 
 IV.- Planear, proyectar y formular los presupuestos anuales de ingresos y egresos y presentarlos al Ayuntamiento por conducto del Presidente Municipal.
 
@@ -523,8 +525,26 @@ Secretario del H. Ayuntamiento
 
 Lic. José Oliveros Oliveros
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 9 DE OCTUBRE DE 2009.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE GUANAJUATO.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE GUANAJUATO.
+
+P.O. 8 DE FEBRERO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento para la Administración Pública del Municipio de Apaseo el Grande, Gto, publicado en el periódico oficial del Gobierno del Estado de Guanajuato de fecha 30 de junio de 1992, bajo el número 52.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las demás disposiciones reglamentarias que se opongan al presente Reglamento.
+
+###### ARTÍCULO CUARTO.
+
+La Tesorería Municipal deberá realizar las transferencias, ampliaciones o modificaciones de las partidas presupuestales que se requieran, para ajustar y actualizar la actual estructura del presente Reglamento.
