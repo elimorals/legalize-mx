@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-educacion-del-estado-18474"
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-16"
-last_updated: "2012-06-22"
+last_updated: "2013-02-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18474&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE EDUCACIÓN DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE FEBRERO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 16 de octubre de 2000.
 
@@ -115,13 +115,21 @@ VI.- Incorporación: El proceso por el cual una institución educativa se integr
 
 Es obligación del Estado de Nuevo León, prestar servicios educativos para que toda la población pueda cursar la educación preescolar, la primaria y la secundaria. Podrá también ofrecer educación inicial.
 
-Estos servicios se prestarán en el marco del federalismo y la concurrencia previstos en la Constitución Política de los Estados Unidos Mexicanos, y conforme a la función social educativa establecida en la presente Ley.
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2013)</small>
 
-Toda la educación que imparta el Estado será:
+Estos servicios se prestarán en el marco del federalismo y la concurrencia previstos en la Constitución Política de los Estados Unidos Mexicanos y conforme a la función social educativa establecida en la presente Ley.
 
-I.- Gratuita. Las donaciones destinadas a dicha educación, en ningún caso se entenderán como contraprestaciones por el servicio educativo; y
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE FEBRERO DE 2013)</small>
+
+Toda Educación que imparta el Estado será:
+
+I.- Gratuita. Las donaciones destinadas a dicha educación, en ningún caso se entenderán como contraprestaciones por el servicio educativo; y (sic)
 
 II.- Laica. Se mantendrá ajena a cualquier doctrina religiosa.
+
+> <small>(ADICIONADA, P.O. 8 DE FEBRERO DE 2013)</small>
+
+III.- En congruencia con ese principio Constitucional de Gratuidad de la educación, queda prohibido, al Personal Directivo y administrativo, de las Escuelas Públicas, del Sistema Educativo Estatal, donde se imparta la educación preescolar, primaria y secundaria, imponer el cobro de aportaciones o cuotas escolares a los padres de familia o tutores de los educandos por cualquier concepto o trámite derivado de la función educativa o para el mantenimiento de su infraestructura.
 
 > <small>(REFORMADO, P.O. 11 DE ENERO DE 2008)</small>
 
@@ -1454,3 +1462,7 @@ P.O. 22 DE FEBRERO DE 2012.
 P.O. 22 DE JUNIO DE 2012.
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE FEBRERO DE 2013.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
