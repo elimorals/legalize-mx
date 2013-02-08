@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-organismo-publico-descentralizado-52245
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-10-13"
-last_updated: "2006-10-13"
+last_updated: "2013-02-08"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52245&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # REGLAMENTO INTERIOR DEL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO "SERVICIOS DE SALUD DEL ESTADO DE PUEBLA"
 
-REGLAMENTO INTERIOR DEL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO "SERVICIOS DE SALUD DEL ESTADO DE PUEBLA"
+REGLAMENTO INTERIOR DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO "SERVICIOS DE SALUD DEL ESTADO DE PUEBLA"
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO "SERVICIOS DE SALUD DEL ESTADO DE PUEBLA", PUBLICADO EN EL P.O. 8 DE FEBRERO DE 2013, EL PRESENTE ORDENAMIENTO QUEDA SIN EFECTOS.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: SIN EFECTOS.
 
 Reglamento publicado en la Sexta Sección del Periódico Oficial del Estado de Puebla, el viernes 13 de octubre de 2006.
 
@@ -2256,3 +2258,15 @@ Primero.- El presente Reglamento entrará en vigor a partir del día siguiente a
 Segundo.- Se abroga el Reglamento Interior de los Servicios de Salud del Estado de Puebla, publicado en el Periódico Oficial de la Entidad, de fecha quince de octubre de dos mil uno.
 
 Dado en la sede del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los trece días del mes de octubre de dos mil seis.- El Gobernador Constitucional del Estado.- LICENCIADO MARIO P. MARÍN TORRES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO JAVIER LÓPEZ ZAVALA.- Rúbrica.- El Secretario de Salud y Director General de los Servicios de Salud del Estado de Puebla.- DOCTOR ROBERTO MORALES FLORES.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 8 DE FEBRERO DE 2013.
+
+PRIMERO.- El presente Reglamento se publicará en el Periódico Oficial del Estado y entrará en vigor el día de su publicación.
+
+SEGUNDO.- Se deja sin efecto el Reglamento Interior del Organismo Público Descentralizado denominado "Servicios de Salud del Estado de Puebla" publicado en el Periódico Oficial del Estado el trece de octubre de dos mil seis, así como todas aquellas disposiciones que contravengan lo dispuesto en el presente Reglamento.
+
+TERCERO.- Las unidades administrativas del Organismo, dentro de los noventa días naturales siguientes a la entrada en vigor del presente Decreto, deberán realizar las modificaciones conducentes en los sellos, declaraciones, avisos, manifiestos y demás documentos oficiales que utilizan para el adecuado desarrollo de sus funciones.
+
+CUARTO.- Todos los acuerdos, circulares, lineamientos y demás normatividad administrativa emitidos que a la entrada en vigor del presente ordenamiento, se refieran a las unidades administrativas que modifican su denominación o nivel jerárquico, se entenderá atribuido a aquéllas a que se refiere el presente ordenamiento y a las que atribuya la competencia específica que en cada caso se relacione.
