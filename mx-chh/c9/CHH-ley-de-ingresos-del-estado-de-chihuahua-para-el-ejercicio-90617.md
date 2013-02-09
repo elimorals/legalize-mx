@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-ingresos-del-estado-de-chihuahua-para-el-ejercicio-90617
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2012-12-12"
-last_updated: "2012-12-22"
+last_updated: "2013-02-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CHH"
 
 LEY DE INGRESOS DEL ESTADO DE CHIHUAHUA PARA EL EJERCICIO FISCAL 2013
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 22 DE DICIEMBRE DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2013.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 12 de diciembre de 2012.
 
@@ -371,11 +369,17 @@ b) Por cada expedición de licencia de conducir, $32 pesos.
 
 Artículo Quinto.- La contribución extraordinaria que establece el presente Decreto, permanecerá en vigor hasta el 31 de diciembre del año 2013.
 
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2013)</small>
+
 ###### ARTÍCULO QUINTO.
 
-Se otorga un estímulo fiscal a los contribuyentes del Impuesto sobre Actos Jurídicos, respecto de los actos tendientes a garantizar obligaciones, tales como fianzas, hipotecas o cualquier otra forma legal, que se celebren con las organizaciones señaladas en el Apartado IV, numeral 26 de la Tarifa de Derechos anexa a esta Ley. El estímulo estará en vigor durante el año 2013, consistiendo en la no obligación de pago del impuesto.
+Se otorgará un estímulo fiscal a los contribuyentes del Impuesto sobre Actos Jurídicos, respecto de los actos tendientes a garantizar obligaciones, tales como fianzas, hipotecas o cualquier otra forma legal, que se celebren con las entidades del Sector Público que promuevan programas de vivienda, así como con las Instituciones de Crédito, Uniones de Crédito, Organizaciones Auxiliares de Crédito, de Seguros y Fianzas, Sociedades Financieras de Objeto Limitado y de Objeto Múltiple, Fideicomisos Públicos, Sociedades Financieras Populares y Sociedades de Ahorro y Préstamo.
+
+El estímulo estará en vigor durante el año 2013, consistiendo en la disminución del 100% del impuesto a pagar, el cual se hará efectivo al presentar la declaración de pago correspondiente.
 
 Únicamente se podrá gozar de este beneficio cuando el acto jurídico celebrado se inscriba en las oficinas del Registro Público de la Propiedad y del Notariado.
+
+El Impuesto Adicional del 4% a que se refiere el segundo párrafo del artículo 28 del Código Fiscal del Estado, se determinará tomando como base el Impuesto sobre Actos Jurídicos a pagar, una vez aplicado el estímulo a que se refiere este artículo.
 
 ###### ARTÍCULO SEXTO.
 
@@ -415,15 +419,21 @@ Se otorga un estímulo fiscal a los contribuyentes del Impuesto Cedular a los In
 
 Tratándose del Impuesto Adicional del 4% a que se refiere el segundo párrafo del artículo 28 del Código Fiscal del Estado, se determinará tomando como base el Impuesto Cedular a los Ingresos Derivados de la Enajenación de Bienes Inmuebles a pagar, una vez aplicado el estímulo a que se refiere este artículo.
 
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2013)</small>
+
 ###### ARTÍCULO UNDÉCIMO.
 
-Se otorga un estímulo fiscal, por el ejercicio fiscal de 2013, al Estado y sus Municipios, así como a entidades paraestatales y entes de derecho público con autonomía derivada de la Constitución Política del Estado de Chihuahua, consistente en el no pago de impuestos y derechos establecidos en las disposiciones fiscales del Estado, excepto por los derechos de peaje estatal.
+Se otorga un estímulo fiscal, por el ejercicio fiscal de 2013, al Estado y sus Municipios, así como a sus organismos descentralizados y demás entidades paraestatales y entes de derecho público con autonomía derivada de la Constitución Política del Estado de Chihuahua, consistente en el no pago de impuestos estatales, contribuciones extraordinarias o especiales, derechos y aprovechamientos establecidos en las disposiciones fiscales del Estado, exceptuando los derechos de peaje.
+
+Los periodos de pago correspondientes al ejercicio fiscal 2013, que tengan que declararse en el mes de enero de 2014, gozarán del estímulo fiscal antes citado.
 
 ###### ARTÍCULO DUODÉCIMO.
 
 La Contribución Extraordinaria al Impuesto sobre Nóminas para el Fideicomiso del Empresariado Chihuahuense, se seguirá recaudando en los términos de las disposiciones que se expidan para tal efecto.
 
-ARTÍCULO DECIMOTERCERO.- Los estímulos fiscales que establece el Decreto No. 57/2010 I P.O., publicado en el Periódico Oficial del Estado el 11 de abril de 2012, otorgados de conformidad con lo dispuesto en su correspondiente Reglamento publicado en el Periódico Oficial del Estado el 22 de agosto de 2012, son intransferibles, surtirán efectos a partir de la fecha de notificación del Acuerdo mediante el cual se otorgan y estarán vigentes hasta el 31 de diciembre del año 2013.
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2013)</small>
+
+ARTÍCULO DECIMOTERCERO.- Los estímulos fiscales que establece el Decreto No. 57/2010 I P.O., publicado en el Periódico Oficial del Estado el 11 de abril de 2012, otorgados de conformidad con lo dispuesto en su correspondiente Reglamento publicado en el Periódico Oficial del Estado el 22 de agosto de 2012, son intransferibles, surtirán efectos a partir de la fecha de notificación del Acuerdo mediante el cual se otorgan.
 
 ARTÍCULO DECIMOCUARTO.- Cuando la información que solicite la ciudadanía, y que deba entregarse de conformidad con la Ley de Transparencia y Acceso a la Información Pública del Estado de Chihuahua, esté disponible en medios distintos a los señalados en la Tarifa de Derechos anexa a esta Ley, se cobrará por concepto de derecho, el valor comercial que dicho medio tenga en el lugar en que se emita la información.
 
@@ -439,23 +449,29 @@ Así mismo, se condona el pago de los derechos por la expedición de actas del e
 
 ARTÍCULO DECIMOSEXTO.- La Contribución Extraordinaria al Impuesto sobre Nóminas para el Fideicomiso para la Competitividad Seguridad Ciudadana a que se refiere el Decreto No. 842/2012 VI P.E., publicado en el Periódico Oficial del Estado el 22 de septiembre de 2012, seguirá recaudándose en los términos previstos en dicho Decreto.
 
-ARTÍCULO DECIMOSÉPTIMO.- A fin de incentivar el mercado Inmobiliario en el Estado y apoyar los diversos procesos de regularización de la tenencia de la tierra, se otorga un subsidio que consiste en un apoyo de carácter económico que el Estado concede a los causantes del pago de Derechos, por los servicios prestados por la Dirección del Registro Público de la Propiedad y del Notariado, referidos en la Tarifa de Derechos anexa a esta Ley dentro del Apartado IV, numerales 13, 14, 25, 26 y 27, en los siguientes términos:
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2013)</small>
 
-Para efectos de determinar el subsidio se calculará sobre la base de la operación en veces de salario mínimo (VSM), general vigente de la zona geográfica que corresponda, aplicándose dicho subsidio sobre el monto a pagar por el concepto del numeral del que se trate bajo el siguiente esquema:
+ARTÍCULO DECIMOSÉPTIMO.- A fin de incentivar el mercado inmobiliario, apoyar los diversos procesos de regularización de la tenencia de la tierra y promover la ejecución de Actos de Comercio y de otra índole tendientes a activar la economía del Estado y promover la pequeña y mediana industria, se otorgará un estímulo fiscal que consiste en un apoyo de carácter económico que el Estado concede a los causantes del pago de Derechos, por los servicios prestados por la Dirección del Registro Público de la Propiedad y del Notariado, referidos en la Tarifa de Derechos anexa a esta Ley dentro del Apartado IV, numerales 13, 14, 15, por lo que respecta al excedente a que se refieren los últimos cuatro renglones del primer párrafo, 16, 17 y 18, en los siguientes términos:
 
-VALOR DE LA OPERACIÓN
+Para efectos de determinar el estímulo se calculará sobre el valor que resulte mayor entre el de Operación, el de Avalúo y el Catastral, siempre y cuando la temporalidad de los mismos no exceda a un año, aplicándose dicho estímulo sobre el monto a pagar por el concepto del numeral del que se trate bajo el siguiente esquema:
 
-VSM
+VALOR
 
-Límite Límite Subsidio
+($) Pesos Estímulo Fiscal
 
-Inferior Superior Aplicable
+Límite Inferior Límite Superior
 
-1 10,155 50%
+0.00 100,000.00 90%
 
-10,155.1 13,540 30%
+100,000.01 200,000.00 80%
 
-13,541.1 25,340 10%
+200,000.01 400,000.00 60%
+
+400,000.01 700,000.00 30%
+
+700,000.01 En delante 0%
+
+El Impuesto Adicional del 4% universitario a que se refiere el segundo párrafo del artículo 28 del Código Fiscal del Estado, se determinará tomando como base la tarifa de derechos a pagar, una vez aplicado el estímulo a que se refiere este artículo.
 
 ARTÍCULO DECIMOCTAVO.- Se autoriza al Ejecutivo paro que, por conducto de la Secretaría de Hacienda, constituya un fideicomiso cuyos fines, entre otros, sea la recepción de Inversión Financiera al Estado de Chihuahua, documentando la misma en caso de que provenga del Mercado Bursátil Mexicano, mediante la emisión o emisiones de Certificados Bursátiles Fiduciarios, mismos que serán ofertados y colocados en la Bolsa Mexicana de Valores; y de ser el caso de que provenga del sector Bancario Mexicano, por ofertar los recursos financieros en mejores condiciones, suscribir el o los documentos que así se requieran.
 
@@ -841,19 +857,17 @@ del expediente para la regularización:
 
 13.2 En envase abierto. 9,405.00
 
-IV POR LOS SERVICIOS PRESTADOS POR LA DIRECCIÓN DEL
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2013)</small>
 
-REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL NOTARIADO, SE
+IV. POR LOS SERVICIOS PRESTADOS POR LA DIRECCIÓN DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL NOTARIADO, SE COBRARÁN LAS SIGUIENTES CUOTAS:
 
-COBRARÁN LAS SIGUIENTES CUOTAS:
+1 Por la presentación de examen de aspirante al ejercicio del 1,984.11
 
-1 Por la presentación de examen de aspirante al ejercicio del
+notariado.
 
-notariado. 1,984.11
+2 Por la expedición de patente de aspirante al ejercicio del 10,792.31
 
-2 Por la expedición de patente de aspirante al ejercicio del
-
-notariado. 10,792.31
+notariado.
 
 3 Por solicitud de examen de notario público, por cada notaría 1,909.10
 
@@ -873,9 +887,9 @@ especial.
 
 protocolo abierto.
 
-8 Por la expedición de testimonio de escrituras asentadas en 279.28
+8 Por la expedición de testimonio de escrituras asentadas 279.28
 
-protocolos notariales depositados en el archivo notarial de la
+en protocolos notariales depositados en el archivo notarial de la
 
 Dirección, además del costo por certificación de documentos
 
@@ -889,293 +903,137 @@ Dirección, además del concepto señalado en el numeral 8 del
 
 apartado IV, así como el numeral 1.2 del apartado I de esta Tarifa.
 
-10 Por búsquedas en el archivo notarial de la Dirección, 127.94
+10 Por búsquedas en el archivo notarial de la Dirección, cuando 127.94
 
-cuando el interesado no proporcione por lo menos dos de los
+el interesado no proporcione por lo menos dos de los siguientes
 
-siguientes datos: fecha de la escritura, número de la escritura,
+datos: fecha de la escritura, número de la escritura, volumen de
 
-volumen de protocolo o nombre del Notario.
+protocolo o nombre del Notario.
 
 11 Por la revisión de documentos presentados para su 254.33
 
 inscripción, por una sola vez.
 
-12 Por la constitución del patrimonio familiar, incluidas las 60.85
+12 Por la constitución o modificación del patrimonio familiar, 60.85
 
-notas marginales al calce y la ratificación de documentos y
+incluidas las notas marginales al calce y la ratificación de
 
-reconocimiento de firmas.
+documentos y reconocimiento de firmas.
 
-13 En el caso de operaciones traslativas de dominio de vivienda
+13 Por las inscripciones traslativas de dominio de propiedad 15,000.00
 
-usada, se causará el equivalente a 235 (doscientos treinta y cinco)
+inmueble o garantías constituidas sobre éstos.
 
-días de Salario Mínimo General vigente de la zona geográfica de
+14 Por cada asiento registral que se haga en las secciones 15,000.00
 
-que se trate.
+no mencionadas específicamente del Registro de la Propiedad
 
-14 Por todas las inscripciones y notas marginales que se generan
+o en cualquiera de los folios mercantiles del Registro
 
-en virtud de las adquisiciones de vivienda nueva, con crédito o sin él,
+Público de Comercio, incluidos los embargos, arrendamientos
 
-o de lotes sobre los que en el mismo instrumento se otorgue crédito para
+y operaciones similares que no aparezcan mencionadas en otros
 
-construcción de vivienda, incluidas las cancelaciones de las garantías
+apartados de esta Tarifa.
 
-otorgadas, se pagará el equivalente a 235 (doscientos treinta y cinco)
+14.1 El registro de los embargos declarados para garantizar
 
-días de salario mínimo general vigente de la zona geográfica de que se
+prestaciones de trabajadores, con motivo de juicios laborales,
 
-trate. Para los efectos de esta ley se entenderá como vivienda nueva,
+así como los declarados para el pago de alimentos, no causarán
 
-aquella que se segregue directamente de la inscripción de una
+derechos de registro.
 
-manzana, o de la primera enajenación derivada directamente de una
+15 Para el efecto de incentivar los programas de vivienda promovidos
 
-inscripción de sujeción a régimen de condominio, o bien la que tenga un
+por las entidades del Sector Público, las inscripciones, ratificaciones
 
-tiempo de construcción de 1 a 2 años.
+y notas marginales que se generen en virtud de las adquisiciones de
 
-> <small>(F. DE E., P.O. 22 DE DICIEMBRE DE 2012)</small>
+lotes, lotes destinados para casa habitación o viviendas, construcción,
 
-15 Por todas las inscripciones, ratificaciones y notas marginales
+ampliación y remodelación de vivienda con crédito o sin él y pagos a
 
-que se generen en virtud de las adquisiciones de lotes destinados para casa
+pasivos, a través de programas promovidos o financiados por dichos
 
-habitación o viviendas, construcción, ampliación y remodelación de
+entes, se causarán $15,000.00 (quince mil pesos 00/100 M.N.), pero
 
-vivienda con crédito o sin él y pagos a pasivos, a través de programas
+se aplicará un estímulo fiscal del 95% sobre la tarifa aplicable al valor
 
-promovidos, financiados o cofinanciados por INFONAVIT, FONHAPO,
+que resulte mayor entre el de Operación, el de Avalúo y el Catastral,
 
-CORETT, SECRETARIA DE DESARRO (SIC) URBANO Y ECOLOGÍA
+siempre y cuando el valor unitario de la vivienda o lote no exceda de
 
-DE (SIC) GOBIERNO DEL ESTADO, AUTORIDADES MUNICIPALES,
+$600,000.00 (seiscientos mil pesos 00/100 M.N.), de ser así, por el
 
-FOVISSSTE, IMSS, COMISIÓN ESTATAL DE VIVIENDA,
+excedente se aplicará el numeral 13, del apartado IV de la presente
 
-SECRETARÍA DE LA REFORMA AGRARIA, BANJERCITO e
+Tarifa.
 
-INSTITUTO DE SEGURIDAD DE LAS FUERZAS ARMADAS, se
+En este rubro no quedan comprendidos aquellos actos que requieren
 
-causará el equivalente a 235 (doscientos treinta y cinco) días de salario
-
-mínimo general vigente de la zona geográfica de que se trate, mismas
-
-a las que se podrá aplicar un subsidio de un 95%.
-
-En este rubro no quedan comprendidos aquellos actos que requieran
-
-ser registrados para dar pie a las adquisiciones, en todo caso, por
+ser registrados para dar pie a las adquisiciones; en todo caso, por
 
 dichos actos deberán cubrirse los derechos que se generen de acuerdo
 
-a esta tarifa según corresponda, salvo las liberaciones de gravamen.
+a esta Tarifa según corresponda, salvo las liberaciones de gravamen.
 
-15.1 Por las inscripciones derivadas de los títulos expedidos
+16 Por asentar las inscripciones necesarias para la constitución 15,000.00
 
-por el REGISTRO AGRARIO NACIONAL, relativos a la
+del régimen de condominio.
 
-adopción de dominio pleno de parcelas cuyo monto no exceda
-
-de lo señalado en el numeral 15 del presente apartado.
-
-16 Por la inscripción de actos mediante los cuales se 981.40
-
-reestructuren los plazos, montos, formas de pago o cuantía,
-
-los contratos que contengan disposiciones de efectivo de créditos
-
-otorgados con anterioridad, así como las cesiones de crédito y
-
-reconocimientos de adeudo cuya garantía ya estuviere previamente
-
-inscrita en el Registro Público de la Propiedad.
-
-17 En el caso del numeral anterior, si las hubiere, por la 1,122.25
-
-inscripción de todas las garantías adicionales.
-
-18 Por asentar todas las inscripciones necesarias para inscribir la
-
-constitución del régimen de condominio, por cada departamento,
-
-despacho, vivienda, local o cualquier otro tipo de unidad privativa:
-
-18.1 Cuando las unidades sujetas a este régimen se vayan a 60.85
-
-destinar a vivienda y no excedan de 126.00 m2 de superficie,
-
-por cada unidad.
-
-18.2 Cuando las unidades sujetas a este régimen se vayan 98.30
-
-a destinar a cualquier otro fin distinto de vivienda y no
-
-excedan de 126.00 m2 de superficie, por cada unidad.
-
-18.3 En todos los demás casos, por unidad privativa. 486.80
-
-19 Por inscripción de la división de la copropiedad, por cada uno 1,122.25
+17 Por inscripción de la división de la copropiedad, por cada uno 15,000.00
 
 de los predios resultantes.
 
-20 Por asentar las inscripciones que fueren necesarias por
+18 Por asentar las inscripciones necesarias para inscribir actos, 15,000.00
 
-inscribir actos, contratos, convenios o autorizaciones por los que se
+contratos, convenios o autorizaciones por los que se
 
-fraccione, lotifique, relotifique o subdivida un predio:
+fraccionen, lotifiquen, relotifiquen, subdividan o fusionen
 
-20.1 Cuando los lotes o unidades privativas resultantes no 60.85
+predios:
 
-excedan de 126.00 m2 de superficie, por cada lote o fracción.
+19 Por inmatriculación de comerciantes individuales. 1,120.84
 
-20.2 Cuando los lotes o unidades privativas excedan de la 308.94
+20 En todos los casos previstos en los conceptos anteriores, a la
 
-superficie indicada en el numeral anterior, por cada uno de ellos.
+cantidad a pagar por concepto de inscripción de el o los actos,
 
-20.3 Cuando los lotes o unidades privativas excedan de la 106.14
+se bonificará la cantidad cobrada por el concepto indicado en
 
-superficie indicada en el numeral 20.1 de este apartado, pero
+el numeral 11 del apartado IV de esta Tarifa, la cual no será
 
-quien las fraccione, lotifique o subdivida, sea una institución
+reintegrable al solicitante en el caso de que desista del registro o
 
-pública que maneje programas de vivienda.
+el acto no fuere inscribible.
 
-21 Por el asiento de la fusión de predios:
+21 Por cada cancelación en el Registro Público de la Propiedad 149.78
 
-21.1 Cuando la fusión de predios se promueve por instituciones
+de inscripciones o anotaciones dentro y fuera del margen.
 
-públicas con programas de vivienda, se causará cuatro veces
+22 Por cada cancelación de créditos otorgados por instituciones 65.53
 
-el salario mínimo general diario de la zona geográfica de que se trate.
+de crédito u organismos de vivienda del sector público y por cada
 
-21.2 Las no contempladas en el numeral que antecede. 1,068.48
+nota marginal en los libros o al calce del registro de documentos
 
-22 Por cada asiento registral que se haga en la sección sexta. 973.66
+derivada de dicha cancelación o que se asiente por cualquier otro
 
-23 Por inmatriculación de comerciantes individuales. 1,120.84
+concepto. Este concepto se cobrará siempre que se asienten las
 
-24 Por cada asiento en aquellos casos cuyo valor no pueda
+notas respectivas, aun cuando se señalen máximos para el cobro
 
-determinarse. 1,120.84
+de los derechos en que se dé la figura de la confusión de derechos.
 
-25 Por cada asiento registral que se haga en las secciones no
+Cuando cualquier operación haya de inscribirse en varios Distritos,
 
-mencionadas específicamente, del Registro de la Propiedad o en
+la Recaudación de Rentas que primeramente tenga conocimiento del
 
-cualquiera de los folios mercantiles del Registro Público de Comercio,
+acto cobrará el total de los derechos correspondientes por el acto que
 
-relativo a actos cuyo valor sea determinado, incluidos los embargos,
-
-que no aparezcan mencionados en otros apartados de esta Tarifa, se
-
-causará el equivalente a 235 (doscientos treinta y cinco) días de
-
-salario mínimo general del área geográfica de que se trate.
-
-En el caso de los arrendamientos y operaciones similares, para el
-
-cálculo de los derechos se tomará la misma tarifa.
-
-El registro de los embargos declarados para garantizar prestaciones
-
-de trabajadores, con motivo de juicios laborales, así como los
-
-declarados para el pago de alimentos, no causarán derechos de registro.
-
-26 Las garantías de créditos que se otorguen en favor de Instituciones
-
-de Crédito, Uniones de Crédito, Organizaciones Auxiliares de Crédito,
-
-de Seguros y Fianzas, Sociedades Financieras de Objeto Limitado y
-
-de Objeto Múltiple, Fideicomisos Públicos y Sociedades Financieras
-
-Populares, Sociedades de Ahorro y Préstamo, así como en los
-
-Programas de Créditos y Cofinanciamiento de las Instituciones
-
-señaladas en el numeral 15 del presente apartado, que se inscriban en
-
-el Registro Público de la Propiedad, causan el equivalente a 235
-
-(doscientos treinta y cinco) días de salario mínimo general del área
-
-geográfica de que se trate.
-
-27 Por inscripción de fideicomiso:
-
-27.1 Cuando lo que se pretenda registrar sea un fideicomiso de cualquier
-
-especie, al considerarse éste traslativo de dominio, se aplicará lo
-
-dispuesto por el numeral 25 de este apartado.
-
-27.2 Cuando en el documento presentado para su registro conste la
-
-constitución de una garantía fiduciaria, se aplicará el monto de lo
-
-señalado en el numeral 26 de este apartado.
-
-27.3 Cuando opere la substitución de institución fiduciaria, el valor de
-
-operación se calculará tomando como base el valor del patrimonio
-
-fideicomitido que se advierta en el contenido del acto y para el monto de
-
-los derechos causados se aplicará la Tarifa marcada en el numeral 25
-
-del presente apartado de la presente Tarifa de Derechos.
-
-27.4 En el caso de la reversión de fideicomisos al fideicomitente
-
-se aplicará el numeral 24 del apartado IV de la presente Tarifa.
-
-28 Por la inscripción de la formalización de la fusión de sociedades, se
-
-aplicará el numeral 25 de este apartado, tomando como base para el
-
-cálculo de derechos de registro, el monto del aumento de capital en
-
-virtud de la fusión.
-
-29 En todos los casos previstos en los conceptos anteriores, a la cantidad
-
-a pagar por concepto de inscripción de el o los actos, se bonificará la
-
-cantidad cobrada por el concepto indicado en el numeral 11 del
-
-apartado IV de esta Tarifa, la cual no será reintegrable al solicitante en
-
-el caso de que desista del registro o el acto no fuere inscribible.
-
-30 Por cada cancelación en el Registro Público de la 149.78
-
-Propiedad de inscripciones o anotaciones dentro y fuera del margen.
-
-31 Por cada cancelación de créditos otorgados por las 65.53
-
-personas señaladas en el numeral 26; y por cada nota marginal en
-
-los libros o al calce del registro de documentos derivada de dicha
-
-cancelación o que se asiente por cualquier otro concepto. Este concepto
-
-se cobrará siempre que se asienten las notas respectivas, aún cuando se
-
-señalen máximos para el cobro de los derechos en que se de la figura de la
-
-confusión de derechos.
-
-Cuando cualquier operación haya de inscribirse en varios Distritos, la
-
-Recaudación de Rentas que primeramente tenga conocimiento del acto
-
-cobrará el total de los derechos correspondientes por el acto que
-
-pretende inscribir, más los que se causen por las inscripciones que se
+pretende inscribir, más los que se causen por las notas que se
 
 generen en cada distrito, agregando al certificado de pago las copias
 
@@ -1185,121 +1043,115 @@ cada uno de los Registradores que intervengan y éstos, cerciorándose
 
 de que se ha hecho el pago total, procederán al registro sin exigir más
 
-pago que los que se causen por las inscripciones que se generen en
+pago que los que se causen por las notas que se generen en cada
 
-cada distrito aplicando para ello las tarifas señaladas en los numeral (sic)
+distrito, aplicando para ello las tarifas señaladas en este mismo numeral,
 
-24, así como, las notas marginales a que se refiere el numeral 31 primer
+en el párrafo anterior, y cuando el documento haya sido remitido por el
 
-párrafo, sin exigir nuevo pago de derechos, salvo los que se causen por
-
-anotaciones marginales o al calce no comprendidos en el certificado, o
-
-bien cuando el documento haya sido remitido por el servicio de valija
-
-interna, en cuyo caso cada oficina deberá exigir la exhibición del
+servicio de valija interna cada oficina deberá exigir la exhibición del
 
 certificado que acredite el pago del concepto a que se hace referencia
 
-en el numeral 32.
+en el numeral 23.
 
-32 Por cada trámite de inscripción o expedición de copias 486.80
+23 Por cada trámite de inscripción o expedición de copias 486.80
 
-certificadas de inscripciones que se solicite en una oficina para
+certificadas de inscripciones que se solicite en una oficina
 
-ser realizado en otra, incluyendo los avisos preventivos.
+para ser realizado en otra, incluyendo los avisos preventivos.
 
-33 Por cada certificado de existencia de inscripción, existencia o 157.09
+24 Por cada certificado de existencia de inscripción, existencia 157.09
 
-inexistencia de gravamen, de sección séptima o cláusula agraria
+o inexistencia de gravamen, de sección séptima o cláusula agraria,
 
-solicitado en las oficinas, a través de la red electrónica mundial o en
+solicitado en las oficinas, a través de la red electrónica mundial
 
-centros digitales de trámites y servicios, independientemente de la
+o en centros digitales de trámites y servicios, independientemente
 
-oficina en donde se encuentre inscrito el inmueble.
+de la oficina en donde se encuentre inscrito el inmueble.
 
-34 Por cada certificado de existencia de inscripción con historia 197.31
+25 Por cada certificado de existencia de inscripción con historia 197.31
 
-registral de sociedades inscritas en el Registro Público de Comercio,
+registral de sociedades inscritas en el Registro Público de
 
-hasta la 5ta hoja:
+Comercio, hasta la quinta hoja:
 
-34.1 Por cada hoja excedente a partir de las señaladas en el numeral
+25.1 Por cada hoja excedente a partir de la señalada en el numeral
 
-anterior, se aplicará el concepto señalado en el numeral 1.2, del
+anterior, se aplicará el concepto referido en el numeral 1.2, del
 
 apartado I de esta Tarifa.
 
-35 Por cada certificado de identificación de inmuebles, sólo en las
+26 Por cada certificado de identificación de inmuebles, sólo en las
 
 oficinas en que esté inscrito:
 
-35.1 Cuando el inmueble no esté inscrito a favor de persona 123.26
+26.1 Cuando el inmueble no esté inscrito a favor de persona alguna 123.26
 
-alguna o lo estuviere a favor del Municipio, dentro de los fundos
+o lo estuviere a favor del Municipio, dentro de los fundos legales de
 
-legales de las ciudades.
+las ciudades.
 
-35.2 En todos los demás casos. 352.62
+26.2 En todos los demás casos. 352.62
 
-36 Por cada certificado de inexistencia de bienes solicitado 60.85
+27 Por cada certificado de inexistencia de bienes solicitado en las 60.85
 
-en las oficinas, o a través de la red electrónica mundial, o en centros digitales
+oficinas, o a través de la red electrónica mundial, o en centros
 
-de trámites y servicios.
+digitales de trámites y servicios.
 
-En el caso de que dos personas casadas entre sí soliciten al mismo
+En el caso de que dos personas casadas entre sí soliciten al
 
-tiempo el certificado referido en el párrafo anterior, por ambos se
+mismo tiempo el certificado referido en el párrafo anterior, por
 
-cobrará únicamente el costo de un certificado.
+ambos se cobrará únicamente el costo de un certificado.
 
-37 Por la certificación de la historia registral de una propiedad 408.23
+28 Por la certificación de la historia registral de una propiedad 408.23
 
 solicitada en la oficina donde obra registrado el inmueble.
 
-38 Por cada certificado de propiedad que señale todas las 27.22
+29 Por cada certificado de propiedad que señale todas las 27.22
 
 propiedades del usuario, además de la cuota señalada en los
 
-numerales 33 y 37 de este apartado, por cada inmueble adicional.
+numerales 24 y 25 de este apartado, por cada inmueble adicional.
 
-39 Por cada legalización de firmas. 123.26
+30 Por cada legalización de firmas. 123.26
 
-40 Por cada certificación de firmas para su apostillado. 59.29
+31 Por cada certificación de firmas para su apostillado. 59.29
 
-41 Por cada rectificación de inscripción, cuando el error 421.27
+32 Por cada rectificación de inscripción, cuando el error provenga 421.27
 
-provenga del interesado y no del registrador
+del interesado y no del registrador.
 
-42 Por cada ratificación de documentos y reconocimiento 776.94
+33 Por cada ratificación de documentos y reconocimiento de 776.94
 
-de firmas ante los Jefes de Oficina del Registro Público de la
+firmas ante los Jefes de Oficina del Registro Público de la Propiedad
 
-Propiedad y del Comercio.
+y del Comercio.
 
-43 Por cada verificación foránea en el índice estatal de 60.85
+34 Por cada verificación foránea en el índice estatal de propietarios 60.85
 
-propietarios o del Registro Público de Comercio por nombre.
+o del Registro Público de Comercio por nombre.
 
-44 Por la inscripción de la habilitación de Corredor Público en el 6,389.62
+35 Por la inscripción de la habilitación de Corredor Público en el 6,389.62
 
 Registro Público del Comercio.
 
-45 Por servicios extraordinarios de consulta no contemplados 12.33
+36 Por servicios extraordinarios de consulta no contemplados 12.33
 
 en los párrafos anteriores, por cada inscripción que se solicite.
 
-46 Por la Consulta en la Red Electrónica Mundial, de índices e
+37 Por la Consulta en la Red Electrónica Mundial, de índices
 
-inscripciones contenidos en los archivos:
+e inscripciones contenidos en los archivos:
 
-46.1 Por mes. 781.08
+37.1 Por mes. 781.08
 
-46.2 Por año. 7,554.99
+37.2 Por año. 7,554.99
 
-47 Por el depósito de testamento ológrafo. 523.22
+38 Por el depósito de testamento ológrafo. 523.22
 
 V POR LOS SERVICIOS PRESTADOS POR LA DIRECCIÓN DEL REGISTRO CIVIL, SE COBRARÁN LAS SIGUIENTES CUOTAS:
 
@@ -2812,3 +2664,19 @@ b). A color por cada hoja. 17.50
 1.5 Disco compacto grabable (CD-R) cada uno. 10.37
 
 1.6 Disco DVD grabable (DVD±R) cada uno. 14.26
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 9 DE FEBRERO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al momento de su aprobación, independientemente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La reforma a que se refiere el presente Decreto será aplicable a partir del primero de enero de 2013.
+
+Los documentos fechados entre el primero y el treinta y uno de enero del 2013, que contengan actos jurídicos que hayan de inscribirse en el Registro Público de la Propiedad, podrán hacerlo pagando los derechos conforme al Apartado IV de la Tarifa de Derechos para el Ejercicio Fiscal 2013, publicada en el Periódico Oficial del Estado el 12 de diciembre del 2012, siempre y cuando los derechos sean cubiertos antes del 28 de febrero del 2013 y el documento se presente a inscripción a más tardar el 30 de abril de este último año.
+
+Para el pago de los derechos a que se refiere el párrafo que antecede, no será necesaria la exhibición del documento a inscribir.
