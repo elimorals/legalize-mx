@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-bienestar-animal-para-el-estado-de-chihuahua-77485"
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-17"
-last_updated: "2012-05-23"
+last_updated: "2013-02-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77485&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE BIENESTAR ANIMAL PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2013.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 17 de noviembre de 2010
 
@@ -306,6 +306,10 @@ XXXI. Capturar animales en la vía pública para utilizarlos de cualquier forma 
 XXXII. Suministrar agentes paralizantes durante el transcurso de las investigaciones. En caso de utilizar relajantes musculares, éstos deberán emplearse simultáneamente con un anestésico, y
 
 XXXIII. Utilizar a un animal en más de un experimento, intervención quirúrgica, investigación o práctica; salvo en el caso de que se autorice la utilización del mismo en otro experimento, ésta deberá quedar justificada y acreditar que el animal se ha recuperado totalmente del experimento o intervención quirúrgica o práctica anterior.
+
+> <small>(ADICIONADA, P.O. 9 DE FEBRERO DE 2013)</small>
+
+XXXIV. Privar de la vida intencionalmente y de manera cruel a cualquier animal de compañía o afectar de manera dolosa e injustificadamente alguno de sus órganos o de sus funciones vitales.
 
 ###### ARTÍCULO 10.
 
@@ -970,6 +974,12 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. CÉSAR HORACIO DUARTE JÁQUEZ. Rú
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 23 DE MAYO DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE FEBRERO DE 2013.
 
 ###### ARTÍCULO ÚNICO.
 
