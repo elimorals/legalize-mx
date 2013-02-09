@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2012-07-04"
+last_updated: "2013-02-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2013.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -1391,9 +1391,9 @@ XX. Legislar en lo relativo a justicia administrativa, comprendiendo códigos ad
 
 XXI. A iniciativa del Ejecutivo analizar, discutir y decretar anualmente en primer lugar la Ley de Ingresos del Estado, imponiendo las contribuciones indispensables, determinando su cuota, duración y modo de recaudarlas, y posteriormente el Presupuesto de Egresos;
 
-> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2013)</small>
 
-XXI Bis. Autorizar al Titular del Poder Ejecutivo, así como a los Municipios del Estado, la celebración de contratos para prestación de servicios a largo plazo, que tengan por objeto crear infraestructura pública, con la participación del sector privado. Asimismo, aprobar en el Presupuesto de Egresos correspondiente, las partidas necesarias para cumplir con las obligaciones contraídas con motivo de dichos contratos, durante la vigencia de los mismos;
+XXI Bis. Autorizar al Titular del Poder Ejecutivo, la ejecución de los proyectos de inversión en infraestructura pública o de prestación de servicios públicos, así como las erogaciones plurianuales para el cumplimiento de las obligaciones de pago derivadas de dichos proyectos en los Presupuestos de Egresos del Estado, en términos de lo dispuesto por la Ley reglamentaria. Las erogaciones autorizadas deberán incluirse en los subsecuentes Presupuestos de Egresos durante la vigencia de los contratos correspondientes.
 
 > <small>(REFORMADA, P.O. 23 DE MARZO DE 2012)</small>
 
@@ -1421,9 +1421,11 @@ XXIV. Legislar acerca de la administración, conservación y enajenación de los
 
 XXV. Dar bases generales conforme a las cuales el Ejecutivo puede concertar empréstitos interiores y aprobar estos empréstitos;
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 9 DE FEBRERO DE 2013)</small>
 
 XXVI. Dictar las disposiciones necesarias para liquidar y amortizar las deudas que tuviere el Estado;
+
+Aprobar al Titular del Poder Ejecutivo y a los Ayuntamientos la afectación, como fuente o garantía de pago, de los ingresos que les correspondan y sean susceptibles de afectación conforme a la legislación aplicable, o en su caso, de los derechos al cobro de los mismos, respecto al cumplimiento de todo tipo de obligaciones que deriven de procesos de bursatilización, deuda pública o de proyectos de asociación pública privada, que contrate el estado o en su caso los municipios, no podrán destinar más de lo que establezcan las leyes respectivas. Así mismo autorizar la desafectación de esos ingresos en términos de la legislación aplicable.
 
 > <small>(REFORMADA, P.O. 15 DE ABRIL DE 2011)</small>
 
@@ -2633,9 +2635,9 @@ Las leyes locales no establecerán exenciones o subsidios respecto de las mismas
 
 Los Ayuntamientos en el ámbito de sus competencias, propondrán a la Legislatura del Estado las tasas, las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios del suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2013)</small>
 
-La Legislatura del Estado aprobará las leyes de ingresos de los Municipios, revisará y fiscalizará sus cuentas públicas. Los Presupuestos de Egresos serán aprobados por los Ayuntamientos con base en sus ingresos disponibles, y deberán incluir en los mismos, los tabuladores desglosados de las remuneraciones que perciban los servidores públicos municipales, sujetándose a lo dispuesto en el artículo 138 de esta Constitución. Los recursos que integran la hacienda municipal serán ejercidos en forma directa por los ayuntamientos o bien, por quien ellos autoricen, conforme a la ley.
+La Legislatura del Estado aprobará las leyes de ingresos de los Municipios, revisará y fiscalizará sus cuentas públicas. Los Presupuestos de Egresos serán aprobados por los Ayuntamientos con base en sus ingresos disponibles, autorizando las erogaciones plurianuales para el cumplimiento de las obligaciones de pago derivadas de los proyectos de inversión en infraestructura pública o de prestación de servicios públicos, que se determinen conforme a lo dispuesto en la Ley. Las erogaciones autorizadas deberán incluirse en los subsecuentes Presupuestos de Egresos durante la vigencia de los contratos correspondientes. Adicionalmente los Ayuntamientos deberán incluir en los Presupuestos de Egresos los tabuladores desglosados de las remuneraciones que perciban los servidores públicos municipales, sujetándose a lo dispuesto en el artículo 138 de esta Constitución. Los recursos que integran la hacienda municipal serán ejercidos en forma directa por los ayuntamientos o bien, por quien ellos autoricen, conforme a la ley.
 
 > <small>(ADICIONADO, P.O. 23 DE MARZO DE 2012)</small>
 
@@ -4002,6 +4004,12 @@ SEGUNDO.- Dentro del término de 180 días el Congreso del Estado deberá realiz
 P.O. 4 DE JULIO DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE FEBRERO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- En cuarenta y cinco días el Congreso modificará su Ley Orgánica para establecer un mecanismo profesional y técnico con el cual se apoyará para aprobar los proyectos de inversión en infraestructura pública o de prestación de servicios públicos en el Estado.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDEN LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN, Y LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN".]
 
