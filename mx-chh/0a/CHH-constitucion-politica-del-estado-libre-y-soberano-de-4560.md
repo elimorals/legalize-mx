@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2013-02-02"
+last_updated: "2013-02-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2013.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -57,91 +57,45 @@ DE LOS DERECHOS FUNDAMENTALES.
 
 ### CAPITULO I.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2013)</small>
 
 ###### Art. 4o.
 
-En el Estado de Chihuahua, toda persona gozará de los derechos reconocidos en la Constitución Federal, los Tratados Internacionales en materia de derechos humanos, celebrados por el Estado Mexicano y en esta Constitución. El Estado cuenta con un órgano de protección de los derechos humanos denominado Comisión Estatal de los Derechos Humanos, con autonomía de gestión y presupuestaria, personalidad jurídica y patrimonio propios, con las siguientes atribuciones y organización:
-
-A. Conocerá de las quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público que tengan carácter estatal o municipal, que violen estos derechos. Este órgano no será competente tratándose de asuntos electorales y jurisdiccionales.
-
-B. Formulará recomendaciones públicas no vinculatorias, denuncias y quejas ante las autoridades respectivas. Todo servidor público está obligado a responder las recomendaciones que le presente la Comisión. Cuando las recomendaciones emitidas no sean aceptadas o cumplidas por las autoridades o servidores públicos, éstos deberán fundar, motivar y hacer pública su negativa; además, el Congreso del Estado o la Diputación Permanente, en su caso, podrá llamar, a solicitud de la Comisión, a las autoridades o servidores públicos responsables para que comparezcan ante el Pleno Legislativo, a efecto de que expliquen el motivo de su negativa.
-
-C. Aprobará, por medio del Consejo, las disposiciones normativas internas para su eficaz funcionamiento y ejercerá las demás atribuciones en materia de derechos humanos que establezca la ley.
-
-D. Tendrá un Consejo integrado por seis consejeros que deberán cumplir con los requisitos que establezca la ley para ocupar el cargo, mismos que serán elegidos por el voto de las dos terceras partes de los diputados presentes de la Legislatura. La ley determinará los procedimientos a seguir para la presentación de las propuestas respectivas ante el Pleno. Los consejeros durarán en su encargo tres años y anualmente serán sustituidos los dos consejeros de mayor antigüedad en el cargo, salvo que fuesen propuestos y reelectos para un segundo período.
-
-> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
-
-El Presidente de la Comisión Estatal de los Derechos Humanos, quien lo será también del Consejo, será elegido en los mismos términos del párrafo anterior. Durará en su encargo cinco años, podrá ser reelecto por una sola vez y sólo podrá ser removido de sus funciones en los términos del Título XIII de esta Constitución.
-
-> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
-
-El Presidente de la Comisión Estatal de los Derechos Humanos presentará anualmente a los poderes estatales un informe de actividades. Al efecto, comparecerá ante el Congreso del Estado en los términos que disponga la ley.
-
-> <small>(ADICIONADO, P.O. 16 DE MAYO DE 2007)</small>
+En el Estado de Chihuahua, toda persona gozará de los derechos reconocidos en la Constitución Federal, los Tratados Internacionales en materia de derechos humanos, celebrados por el Estado Mexicano y en esta Constitución.
 
 Todos los habitantes del Estado tienen derecho a acceder en igualdad de oportunidades a los beneficios del desarrollo social. Corresponde a los poderes públicos promover las condiciones para que la libertad y la igualdad de la persona y de los grupos en que se integra, sean reales y efectivas; y remover los obstáculos que impidan o dificulten su plenitud.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
-
 Es derecho de todo habitante del Estado de Chihuahua, el aprovechamiento de las fuentes renovables de energía solar, eólica y cualquier otro tipo de energía proveniente de sustancias orgánicas, para la generación de energía para el autoabastecimiento en los términos que establezca la ley en la materia.
 
-> <small>(ADICIONADO, P.O. 16 DE MAYO DE 2007)</small>
+La interpretación de este artículo y de los derechos fundamentales, así como la actuación de las autoridades, serán congruentes con los instrumentos internacionales celebrados por el Estado Mexicano. Para estos efectos, cuando se presenten diferentes interpretaciones, se deberá preferir aquella que proteja con mayor eficacia a las personas o a los grupos afectados.
 
-La interpretación de este artículo y de los derechos fundamentales, así como la actuación de las autoridades, serán congruentes con los instrumentos internacionales celebrados por el Estado mexicano. Para estos efectos, cuando se presenten diferentes interpretaciones, se deberá preferir aquella que proteja con mayor eficacia a las personas o a los grupos afectados.
+l. Toda persona tiene derecho a la cultura física y a la práctica del deporte. La ley reglamentaria respectiva, sentará las bases para el acceso a estos derechos y establecerá la concurrencia de los municipios y la participación de los sectores social y privado.
 
-> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2005)</small>
+II. Toda persona tiene derecho a la información.
 
-I.- Toda persona tiene derecho a la cultura física y a la práctica del deporte. La ley reglamentaria respectiva, sentará las bases para el acceso a estos derechos y establecerá la concurrencia de los municipios y la participación de los sectores social y privado.
-
-> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2005)</small>
-
-II.- Toda persona tiene derecho a la información.
-
-> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2005)</small>
-
-Toda persona tiene el derecho a acceder a la información pública, salvo en aquellos casos establecidos en la ley.
-
-> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2005)</small>
+Toda persona tiene derecho a acceder a la información pública, salvo en aquellos casos establecidos en la ley.
 
 El Estado garantizará el ejercicio de este derecho.
 
-> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2005)</small>
+III. Para el ejercicio del derecho de acceso a la información, se estará a los principios y bases a que se refiere el artículo 6o. de la Constitución Política de los Estados Unidos Mexicanos.
 
-Para proteger sus datos, toda persona tiene el derecho a acceder a información sobre sí misma o sus bienes asentada en archivos, bases de datos o registros públicos o privados y tiene el derecho a actualizar, rectificar, suprimir o mantener en reserva dicha información, en los términos de la ley.
-
-> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2005)</small>
+Para proteger sus datos, toda persona tiene el derecho a acceder a información sobre sí misma o sus bienes asentada en archivos, bases de datos o registros públicos o privados y tiene el derecho a actualizar, rectificar, suprimir o mantener en reserva dicha información, en los términos de la ley, la cual establecerá los supuestos de excepción a los principios que rijan el tratamiento de datos, por razones de seguridad nacional, disposiciones de orden público, seguridad y salud públicas o para proteger los derechos de terceros.
 
 La ley protegerá a las personas contra cualquier lesión en sus derechos, resultante del tratamiento de sus datos personales.
 
-> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2005)</small>
-
 Para garantizar y hacer efectivo el adecuado y pleno ejercicio de los derechos de acceso a la información pública y protección de datos personales, se crea el Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública como un organismo público autónomo, con personalidad jurídica y patrimonio propios y tendrá, en el ámbito de su competencia, facultades para sancionar.
-
-> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2005)</small>
 
 El Instituto tendrá un Consejo General, será el órgano supremo y se integrará por cinco consejeros propietarios, quienes designarán a su presidente de entre sus miembros.
 
-> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2005)</small>
-
 Habrá cinco consejeros suplentes. Las faltas de los consejeros propietarios serán suplidas por aquellos, en los términos de la ley.
-
-> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2005)</small>
 
 Los consejeros gozarán de las debidas garantías para ejercer su encargo con plena libertad e independencia.
 
-> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2005)</small>
-
 Los consejeros propietarios y suplentes durarán en su encargo siete años y no podrán ser reelectos, en los términos de la ley. Serán designados cada uno por el voto de cuando menos las dos terceras partes de los diputados presentes, a propuesta de la Junta de Coordinación Parlamentaria. El ejercicio de esta facultad está sujeto a las restricciones fijadas por la ley.
-
-> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2005)</small>
 
 El Consejo General designará, a propuesta del consejero presidente, a los funcionarios directivos del instituto.
 
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2006)</small>
-
-Los medios de comunicación, así como los periodistas, no podrán ser obligados por autoridad alguna, dentro o fuera de juicio, a revelar sus fuentes de información, motivo de una publicación.
+Los medios de comunicación, así como los periodistas, no podrán ser obligados por autoridad alguna, dentro o fuera de juicio, revelar (sic) sus fuentes de información, motivo de una publicación.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -3958,5 +3912,11 @@ P.O. 2 DE FEBRERO DE 2013.
 Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de la Iniciativa, del Dictamen y de los debates del Congreso, a los Ayuntamientos de los sesenta y siete municipios que integran el Estado y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución Política local del Estado. Realizado que sea, publíquese en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE FEBRERO DE 2013.
+
+###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
