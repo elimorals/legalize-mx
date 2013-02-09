@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-adquisiciones-arrendamientos-y-servicios-del-61042"
 country: "mx"
 rank: "ley"
 publication_date: "2008-04-19"
-last_updated: "2011-12-24"
+last_updated: "2013-02-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61042&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 19 de abril de 2008 y republicada en el P.O. el miércoles 30 de abril de 2008.
 
@@ -61,7 +61,9 @@ Para los efectos de esta Ley se entiende por:
 
 I. Secretaría: la Secretaría de Administración;
 
-II. Contraloría: la Secretaría de la Contraloría;
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2013)</small>
+
+II. Contraloría: la Secretaría de la Contraloría y Transparencia Gubernamental;
 
 III. Dependencias: los Organismos que integran la Gubernatura del Estado, las Secretarías, la Procuraduría General de Justicia del Estado y en general, los comprendidos dentro de la Administración Pública Centralizada;
 
@@ -103,9 +105,19 @@ VII. La reconstrucción y mantenimiento de bienes muebles, servicios de maquila,
 
 VIII. La prestación de servicios profesionales, así como la contratación de consultorías, asesorías, estudios e investigaciones, excepto la contratación de servicios personales bajo el régimen de honorarios;
 
-IX. Las concesiones que la administración pública otorgue para la prestación de un servicio o para el usufructo de un derecho, deberán establecer en la convocatoria los requisitos para concursar u obtener la adjudicación respectiva. Se exceptúan de lo dispuesto en esta Ley las concesiones que otorga el Estado para la explotación del servicio público de transporte; y
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2013)</small>
 
-X. En general, los servicios de cualquier naturaleza cuya prestación genere una obligación de pago para las dependencias y entidades, cuyo procedimiento de contratación no se encuentre regulado en forma específica por otras disposiciones legales.
+IX. Las concesiones que la administración pública otorgue para la prestación de un servicio o para el usufructo de un derecho, deberán establecer en la convocatoria los requisitos para concursar u obtener la adjudicación respectiva.
+
+Se exceptúan de lo dispuesto en esta Ley las concesiones que otorga el Estado para la explotación del servicio público de transporte;
+
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2013)</small>
+
+X. En general, los servicios de cualquier naturaleza cuya prestación genere una obligación de pago para las dependencias y entidades, cuyo procedimiento de contratación no se encuentre regulado en forma específica por otras disposiciones legales; y
+
+> <small>(ADICIONADA, P.O. 9 DE FEBRERO DE 2013)</small>
+
+XI. Los contratos plurianuales.
 
 ###### ARTÍCULO 6.
 
@@ -129,9 +141,15 @@ III. Intervenir en la contratación de adquisiciones, arrendamientos y servicios
 
 IV. Integrar, actualizar y controlar el Padrón de Proveedores de la Administración Pública Estatal, así como el registro actualizado de los precios e importes máximos de los bienes muebles, arrendamientos y servicios en general;
 
-V. Contratar, en su caso, asesoría técnica para la realización de investigaciones de mercado, el mejoramiento del sistema de adquisiciones, arrendamientos y almacenes, así como la verificación de precios, pruebas de calidad y otras actividades vinculadas con el objeto de esta Ley; y
+V. Contratar, en su caso, asesoría técnica para la realización de investigaciones de mercado, el mejoramiento del sistema de adquisiciones, arrendamientos y almacenes, así como la verificación de precios, pruebas de calidad y otras actividades vinculadas con el objeto de esta Ley; y (sic)
 
-VI. Las demás que esta Ley y las disposiciones que de ella deriven le confieran.
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2013)</small>
+
+VI. Integrar el catálogo institucional de compras gubernamentales en materia de adquisiciones, arrendamientos de bienes muebles y servicios.
+
+> <small>(ADICIONADA, P.O. 9 DE FEBRERO DE 2013)</small>
+
+VII. Las demás que esta Ley y las disposiciones que de ella deriven le confieran.
 
 ###### ARTÍCULO 9.
 
@@ -151,9 +169,11 @@ VI. Vigilar las operaciones relativas al arrendamiento financiero; y
 
 VII. En general, las necesarias para asegurar el cumplimiento de esta Ley.
 
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2013)</small>
+
 ###### ARTÍCULO 10.
 
-Las dependencias y entidades dictarán las disposiciones administrativas que sean necesarias para el adecuado cumplimiento de esta Ley. Tales disposiciones se publicarán en el Periódico Oficial del Gobierno del Estado.
+Las dependencias y entidades dictarán las disposiciones administrativas que sean necesarias para el adecuado cumplimiento de esta Ley, previa autorización de las dependencias normativas en materia de adquisiciones en lo que corresponda a cada una de ellas en el ámbito de sus atribuciones, publicándose tales disposiciones en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO 11.
 
@@ -219,13 +239,47 @@ Los servidores públicos que autoricen actos en contravención a lo dispuesto en
 
 En los contratos de adquisiciones, arrendamientos y servicios, cuya vigencia rebase un ejercicio presupuestal, se deberá determinar tanto el presupuesto total como el relativo a los ejercicios de que se trate. En la formulación de los presupuestos de los ejercicios subsecuentes se considerarán los costos que, en su momento, se encuentren vigentes, y se dará prioridad a las previsiones para el cumplimiento de las obligaciones contraídas en ejercicios anteriores.
 
-De conformidad con lo establecido en el artículo 59 fracción XXI Bis de la Constitución Política del Estado Libre y Soberano de Oaxaca, el Poder Ejecutivo y los Municipios, podrán celebrar contratos para prestación de servicios a largo plazo, los cuales involucran recursos de varios ejercicios fiscales, celebrados con un inversionista proveedor, mediante el cual se establece, por una parte, la obligación a cargo del inversionista proveedor de prestar a largo plazo con financiamiento privado, uno o más servicios con los activos que éste construya sobre inmuebles propios o de un tercero, incluyendo el sector público, de conformidad con un contrato para prestación de servicios y, por la otra, la obligación de pago por los servicios que le sean proporcionados.
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2013)</small>
 
-Los servicios que el inversionista proveedor proporcione, conforme a los contratos para prestación de servicios a largo plazo, podrán consistir en el mantenimiento, administración, operación, explotación, diseño, construcción, arrendamiento, transferencia de activos o financiamiento de bienes muebles o inmuebles.
+En los contratos plurianuales para la realización de adquisiciones, arrendamientos, prestación de servicios, deberán preverse en un apartado específico dentro del Presupuesto de Egresos que se autoricen y deriven de esas obligaciones.
 
-La asignación de los contratos para prestación de servicios a largo plazo, se hará de acuerdo con los procedimientos establecidos en la presente Ley, por lo que las dependencias y entidades emitirán un dictamen técnico-económico que cumpla con el artículo 37 de esta Ley para adjudicar los mencionados contratos.
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2013)</small>
 
-Para los efectos de este artículo se observará en lo conducente lo dispuesto en la Ley del Presupuesto, Gasto Público y su Contabilidad y demás disposiciones aplicables.
+Las Dependencias y Entidades podrán celebrar Contratos plurianuales de arrendamiento, adquisiciones, suministros, arrendamientos financieros y prestación de servicios durante el ejercicio fiscal siempre que:
+
+I. Soliciten por escrito la autorización a la Secretaría;
+
+II. Cuenten con el dictamen de disponibilidad presupuestal emitido por la Secretaría de Finanzas;
+
+III. Justifiquen el plazo de la contratación y que el mismo no afecte negativamente la competencia económica en el sector de que se trate;
+
+IV. Especifiquen si corresponden a gasto corriente o de capital;
+
+V. Justifiquen que la celebración de dichos compromisos representa ventajas económicas para el Gobierno del Estado o que su términos y condiciones son más favorables;
+
+VI. Desglosen el gasto que debe consignarse a precios del año en que se contrate para ese ejercicio fiscal y los subsecuentes, así como, los avances físicos esperados. Los montos deberán presentarse en moneda nacional y en su caso, la prevista para su contratación; y
+
+VII. Se comprometan a incluir los montos de las erogaciones que deban realizarse en los subsecuentes ejercicios fiscales en sus respectivos proyectos de presupuesto de egresos.
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2013)</small>
+
+En los casos procedentes la Secretaría de Finanzas emitirá su autorización e incluirá los montos de las obligaciones financieras que deban realizarse en los subsecuentes ejercicios fiscales en los proyectos de Presupuestos de Egresos del Estado que correspondan;
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2013)</small>
+
+Para la suscripción de Contratos plurianuales se requiere que establezcan un periodo mínimo de contratación de veinticuatro meses continuos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE FEBRERO DE 2013)</small>
+
+Las Dependencias y Entidades que requieran actualizar las cantidades que sirvieron de base para celebrar originalmente los contratos plurianuales, derivado de la variación de costos o montos, deberán presentar a la Secretaría la justificación correspondiente, así como el avance financiero.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE FEBRERO DE 2013)</small>
+
+Las Dependencias y Entidades no celebrarán Contratos plurianuales que impliquen riesgos de incumplimiento de sus obligaciones o que restrinjan la flexibilidad requerida para el adecuado ejercicio de sus presupuestos de egresos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE FEBRERO DE 2013)</small>
+
+Para los efectos de este artículo se observará en lo conducente lo dispuesto en la Ley Estatal de Presupuesto y Responsabilidad Hacendaria y demás disposiciones aplicables.
 
 ## TÍTULO TERCERO. DE LOS PROCEDIMIENTOS DE CONTRATACION
 
@@ -277,7 +331,9 @@ Solamente se deberán llevar a cabo licitaciones internacionales, en los siguien
 
 a) Cuando resulte obligatorio conforme a lo establecido en los tratados internacionales;
 
-b) Cuando, previa investigación de mercado que realice la dependencia o entidad convocante, no exista oferta de proveedores nacionales respecto a bienes o servicios en cantidad o calidad requeridas, o sea conveniente en términos de precio; y
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2013)</small>
+
+b) Cuando, previo análisis que realice la dependencia o entidad convocante, y la oferta de proveedores nacionales respecto a bienes o servicios en cantidad o calidad o precio requerido, no sea conveniente para el Estado; y
 
 c) Cuando así se estipule para las contrataciones financiadas con créditos externos otorgados al gobierno federal o con su aval.
 
@@ -307,13 +363,17 @@ VII. Suscripción del pedido o contrato.
 
 Los procedimientos de Licitación pública deberán sujetarse a lo siguiente:
 
-I. Las bases de Licitación deberán ponerse a disposición de los interesados a partir de la fecha de publicación de la convocatoria y hasta los diez días hábiles posteriores;
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2013)</small>
+
+I. Las bases de la Licitación deberán ponerse a disposición de los interesados en un plazo máximo de diez días hábiles, a partir de la fecha de la publicación de la convocatoria;
 
 II. La junta de aclaraciones deberá celebrarse dentro de los cinco días hábiles posteriores al vencimiento del plazo señalado en la fracción anterior;
 
 III. La recepción y apertura de ofertas técnicas y económicas, deberá efectuarse en un plazo máximo de diez días hábiles contados a partir de la fecha de celebración de la junta de aclaraciones;
 
-IV. El dictamen resultado del análisis técnico y económico deberá emitirse dentro de los cinco días hábiles posteriores a la apertura económica;
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2013)</small>
+
+IV. El dictamen resultado del análisis técnico y económico deberá emitirse dentro de los cinco días hábiles a partir de la apertura económica;
 
 V. El fallo deberá darse a conocer dentro de los cinco días hábiles posteriores a la emisión del dictamen; y
 
@@ -443,9 +503,11 @@ VI. Precisar que será requisito el que los Licitantes presenten una declaració
 
 VII. Establecer los requisitos necesarios para la presentación conjunta de propuestas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE FEBRERO DE 2013)</small>
+
 ###### ARTÍCULO 30.
 
-La modificación de los plazos y otros aspectos establecidos en las convocatorias o en las bases, podrán hacerse a partir de la fecha en que sea publicada la convocatoria y hasta el sexto día hábil previo al acto de presentación y apertura de proposiciones, siempre que con ello no se limite el número de participantes.
+La modificación de los plazos y otros aspectos establecidos en las convocatorias o en las bases, podrán hacerse a partir de la fecha en que sea publicada la convocatoria y hasta la junta de aclaraciones, por razones justificadas y siempre que con ello no se limite la libre participación.
 
 Tratándose de la convocatoria y las bases, las modificaciones se harán del conocimiento de los interesados a través de los mismos medios utilizados para su publicación.
 
@@ -621,7 +683,7 @@ XV. Se trate de servicios de mantenimiento de bienes en los que no sea posible p
 
 XVI. El objeto del contrato sea el diseño y fabricación de un bien que sirva como prototipo para producir otros en la cantidad necesaria para efectuar las pruebas que demuestren su funcionamiento.
 
-En estos casos la dependencia o entidad deberá pactar que los derechos sobre el diseño, uso o cualquier otro derecho exclusivo, se constituyan a favor del Estado o de las entidades según corresponda; y
+En estos casos la dependencia o entidad deberá pactar que los derechos sobre el diseño, uso o cualquier otro derecho exclusivo, se constituyan a favor del Estado o de las entidades según corresponda; y (sic)
 
 XVII. Se trate de equipos especializados, sustancias y materiales de origen químico, físico químico o bioquímico para ser utilizadas en actividades experimentales requeridas en proyectos de investigación científica y desarrollo tecnológico, siempre que dichos proyectos se encuentren autorizados por el titular de la dependencia o el órgano de gobierno de la entidad.
 
@@ -632,6 +694,10 @@ XVIII. Se trate de Instituciones Calificadoras de Valores debidamente autorizada
 > <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2011)</small>
 
 XIX. Se trate de agentes estructuradores e intermediarios financieros.
+
+> <small>(ADICIONADA, P.O. 9 DE FEBRERO DE 2013)</small>
+
+XX. El objeto del contrato sea el servicio de eventos artísticos, siempre que se justifique el desarrollo de un programa prioritario gubernamental.
 
 ###### ARTÍCULO 45.
 
@@ -875,17 +941,19 @@ La adquisición de materiales cuyo consumo haga necesaria invariablemente la uti
 
 ### CAPÍTULO ÚNICO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE FEBRERO DE 2013)</small>
 
 ###### ARTÍCULO 63.
 
-La Secretaría integrará y administrará el padrón, lo mantendrá permanentemente actualizado, y clasificará a los Proveedores inscritos en el mismo de acuerdo con su capacidad técnica, económica, actividad y domicilio. Este padrón será publicado en el Periódico Oficial del Estado.
+La Secretaría integrará y administrará el padrón, clasificará a los Proveedores inscritos en el mismo de acuerdo con su capacidad técnica, económica, actividad y domicilio. Este padrón será publicado en la página del portal de transparencia del Gobierno del Estado de Oaxaca y en la página electrónica oficial de la Secretaría de Administración y lo mantendrá permanentemente actualizado.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
 
 El registro, actualización y renovación en el padrón, serán obligatorios según lo dispuesto en la presente Ley, por lo que sólo se podrán fincar pedidos o celebrar contratos con las personas que acrediten estar debidamente inscritas en el Padrón, excepto los casos previstos en el artículo 65 BIS de esta Ley.
 
-El registro, o renovación en el padrón, tendrá el costo que señale la Ley de Ingresos del Estado de Oaxaca del Ejercicio Fiscal que corresponda, con vigencia para un ejercicio fiscal. Los proveedores, para renovar su registro, deberán de presentar su solicitud dentro de los quince días hábiles anteriores a su vencimiento; si omiten presentar la solicitud en el plazo indicado tendrá como consecuencia la cancelación del registro solicitado.
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2013)</small>
+
+El registro, o renovación en el padrón tendrá vigencia anual, previo pago de los derechos contenidos en la Ley Estatal de Derechos. Los proveedores, para renovar su registro, deberán de presentar su solicitud dentro de los quince días hábiles anteriores a su vencimiento; si omiten presentar la solicitud en el plazo indicado tendrá como consecuencia la cancelación del registro solicitado.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -949,11 +1017,9 @@ VII. Exhibir curriculum, mismo que en su caso, contendrá una relación de contr
 
 VIII. Acreditar haber cumplido con las inscripciones que exijan las disposiciones de orden fiscal, mediante la presentación de original y fotocopia simple de los mismos para su cotejo;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2013)</small>
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
-
-IX. Pagar los derechos que establezca la Ley de Ingresos del Estado de Oaxaca del Ejercicio Fiscal que corresponda; y
+IX. Exhibir recibo de pago de los derechos que establezca la Ley Estatal de Derechos, emitido por la Secretaría de Finanzas;
 
 X.- Las demás que establezca el reglamento respectivo.
 
@@ -1001,19 +1067,31 @@ El Comité tiene por objeto intervenir como instancia administrativa y coadyuvar
 
 Para el cumplimiento de sus atribuciones, funciones y objetivos, el Comité se integrará de la siguiente forma:
 
-I. Un Presidente, que será el Secretario de Administración, como propietario. Su suplente será el servidor público que designe;
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2013)</small>
 
-II. Un Secretario Técnico, que será el Director de Bienes y Servicios como propietario. Su suplente será el Titular de la Unidad de Abastecimiento. Ambos de la Secretaría;
+I. Un Presidente, que será el Secretario de Administración, como propietario, quien tendrá voto de calidad para el caso de empate. Su suplente será el servidor público que designe, quien también tendrá voto de calidad en caso de empate.
+
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2013)</small>
+
+II. Un Secretario Técnico, que será el Director de Recursos Materiales como propietario. Su suplente será el servidor público que este determine. Ambos de la Secretaría;
+
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2013)</small>
 
 III. Tres vocales, que serán:
 
-El Secretario de Finanzas, el Secretario de Economía y el Coordinador General del Comité Estatal de Planeación para el Desarrollo de Oaxaca como propietarios, quienes deberán designar bajo su responsabilidad a los Servidores Públicos que fungirán como sus suplentes; y
+El Secretario de Finanzas, el Secretario de Turismo y Desarrollo Económico y el Secretario de la Secretaría de Trabajo como propietarios, quienes deberán designar bajo su responsabilidad a los Servidores Públicos que fungirán como sus suplentes; y
 
-IV. Un Comisario, que será el Secretario de la Contraloría. El Servidor Público que designe bajo su responsabilidad, será su suplente.
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2013)</small>
 
-El Secretario Técnico y los Vocales, tendrán voz y voto, en las sesiones respectivas, el Comisario únicamente voz.
+IV. Un Comisario, que será el Secretario de la Contraloría y Transparencia Gubernamental. El Servidor Público que designe bajo su responsabilidad, será su suplente.
 
-En la designación de los suplentes que realicen los integrantes propietarios deberá considerarse el perfil propicio que coadyuve a la toma de decisiones y se acreditará mediante el oficio respectivo, dirigido al Presidente del Comité. El cargo de suplente de los vocales y comisario será indelegable, de manera que no se podrán acreditar representantes de éste, en las sesiones del Comité.
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2013)</small>
+
+El Presidente y los Vocales tendrán voz y voto, en las sesiones respectivas, el Comisario y secretario técnico únicamente voz.
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2013)</small>
+
+En la designación de los suplentes que realicen los integrantes propietarios deberá considerarse el perfil propicio que coadyuve a la toma de decisiones y se acreditará mediante el oficio respectivo, dirigido al Presidente del Comité. El cargo de suplente de los vocales y comisario será indelegable, de manera que no se podrán acreditar representantes de éste, en las sesiones del Comité. Para lo estipulado en el artículo 24 en sus fracciones III, IV, V y VI de esta Ley, los vocales propietarios, a solicitud por escrito del Presidente del Comité, deberán designar y acreditar por escrito, a un representante especial que cumpla con el perfil propicio.
 
 Los organismos empresariales como son: Cámara Nacional de Comercio, Cámara Nacional de la Industria de la Transformación y la Confederación Patronal de la República Mexicana, entre otros, a través de sus representantes debidamente acreditados, participarán como invitados del Comité, con derecho a voz, pero sin voto. Asimismo, en cada sesión se podrá invitar a un representante de la dependencia o entidad solicitante, quien también tendrá derecho de voz pero no de voto.
 
@@ -1081,11 +1159,15 @@ I. Un presidente, que será el Titular de la entidad de que se trate, como propi
 
 II. Un Secretario Técnico, que será el Director Administrativo de la entidad de que se trate, o su equivalente. El Servidor Público que designe el Titular de la entidad, será el suplente;
 
-III. Tres vocales que serán los representantes de las Secretarías de Administración, de Finanzas y del Comité Estatal de Planeación para el Desarrollo de Oaxaca. Los titulares de estas dependencias designarán al representante propietario y su suplente, debiéndose considerar el perfil propicio que coadyuve a la toma de decisiones y se acreditará mediante el oficio respectivo, dirigido al Presidente del Sub-Comité;
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2013)</small>
+
+III. Tres vocales que serán los representantes de las Secretarías de Administración, de Finanzas y de Turismo y Desarrollo Económico. Los titulares de estas dependencias designarán al representante propietario y su suplente, debiéndose considerar el perfil propicio que coadyuve a la toma de decisiones y se acreditará mediante el oficio respectivo, dirigido al Presidente del Sub-Comité;
 
 IV. Un Comisario, que será el Delegado Contralor de la entidad o dependencia de que se trate, como propietario. El Servidor Público que designe el Secretario de la Contraloría, será su suplente.
 
-El Secretario Técnico y los Vocales tendrán voz y voto en las sesiones respectivas, el Comisario únicamente voz.
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2013)</small>
+
+El Presidente y los Vocales tendrán voz y voto, en las sesiones respectivas, el Comisario y Secretario Técnico únicamente voz.
 
 Los representantes de la Cámara de Comercio, Cámara Nacional de la Industria de la Transformación y la Confederación Patronal de la República Mexicana, formarán parte del Sub-Comité a invitación expresa por parte del Presidente de dicho Sub-Comité, los cuales tendrán únicamente voz en las sesiones respectivas.
 
@@ -1172,6 +1254,10 @@ VI. Baja y destino final.
 La forma y términos en que las dependencias y entidades deberán remitir a la Secretaría y a la Contraloría la información relativa a los actos y contratos materia de esta Ley, serán establecidos de manera sistemática y coordinada por éstas, en el ámbito de sus respectivas atribuciones; las entidades además, informarán a su Coordinadora de sector.
 
 Para tal efecto, las dependencias y entidades, conservarán en forma ordenada y sistemática, toda la documentación comprobatoria de dichos actos y contratos, cuando menos por un lapso de cinco años, contados a partir de la fecha de su recepción, con excepción de la documentación contable y fiscal, las que se regirán de acuerdo a las disposiciones legales específicas.
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 2013)</small>
+
+ARTÍCULO 83 BIS. En el caso de Dependencias y Entidades que tengan autorizado por el Comité la instalación de Subcomités de Adquisiciones de Bienes y Servicios, deberán enviar dentro de los primeros cinco días hábiles de cada mes al Comité, un informe detallado de cada una de las contrataciones efectuadas durante el mes inmediato anterior, pudiendo o no pronunciarse al respecto dicho órgano colegiado.
 
 ###### ARTÍCULO 84.
 
@@ -1383,7 +1469,7 @@ En el supuesto de que las partes lleguen a una conciliación, el convenio respec
 
 ###### ARTÍCULO 105.
 
-Las controversias derivadas o relacionadas con los contratos de prestación de servicios a largo plazo celebrados de conformidad con esta Ley, podrán resolverse mediante arbitraje. El procedimiento arbitral se substanciará con base en las reglas que determinen las partes en el acuerdo de arbitraje correspondiente y a falta de éstas, se seguirán las disposiciones del Código de Comercio relativas al arbitraje.
+(DEROGADO, P.O. 9 DE FEBRERO DE 2013)
 
 ### CAPÍTULO TERCERO. DEL RECURSO DE REVISIÓN Y OTRAS DISPOSICIONES
 
@@ -1468,3 +1554,7 @@ P.O. 29 DE DICIEMBRE DE 2008.
 P.O. 24 DE DICIEMBRE DE 2011.
 
 ÚNICO: El presente Decreto entrará en vigor a partir del día 1 de enero del año 2012, previa publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE FEBRERO DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
