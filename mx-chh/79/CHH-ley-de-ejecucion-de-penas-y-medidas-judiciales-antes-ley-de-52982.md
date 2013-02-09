@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-ejecucion-de-penas-y-medidas-judiciales-antes-ley-de-529
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-09"
-last_updated: "2013-02-02"
+last_updated: "2013-02-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52982&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DE EJECUCIÓN DE PENAS Y MEDIDAS JUDICIALES
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO No. 859/2012 VII P.E., PUBLICADO EN EL P.O. 26 DE SEPTIEMBRE DE 2012, CUANDO EN CUALQUIER OTRO INSTRUMENTO JURÍDICO SE HAGA REFERENCIA A LA SECRETARÍA DE FOMENTO SOCIAL, SE ENTENDERÁ CITADA A LA SECRETARÍA DE DESARROLLO SOCIAL SIN QUE ELLO AFECTE SU COMPETENCIA, DERECHOS U OBLIGACIONES QUE HAYA CONTRAÍDO CON ANTELACIÓN A LA ENTRADA EN VIGOR DEL CITADO DECRETO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2013.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 9 de diciembre de 2006.
 
@@ -189,15 +189,13 @@ Si la sentencia en procedimiento abreviado resulta absolutoria para el acusado, 
 
 ### CAPÍTULO II. DEL JUEZ DE EJECUCIÓN DE PENAS
 
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 11.
 
-Jueces de Tribunal de Juicio Oral.
+Jueces de Ejecución de Penas.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2011)</small>
-
-Los jueces de Juicio Oral en materia Penal fungirán como Jueces de Ejecución de Penas en el Estado, dentro del Distrito Judicial correspondiente, con la posibilidad de prorrogar su jurisdicción a otros distritos, de conformidad con las disposiciones generales que el Supremo Tribunal de Justicia del Estado dicte, en los términos de las facultades otorgadas al Pleno en la Ley Orgánica respectiva.
+Los Jueces de Ejecución de Penas en el Estado, actuarán en el Distrito Judicial correspondiente, con la posibilidad de prorrogar su jurisdicción a otros distritos, de conformidad con las disposiciones generales que el Supremo Tribunal de Justicia del Estado dicte, en los términos de las facultades otorgadas al Pleno en la Ley Orgánica respectiva.
 
 ###### Artículo 12.
 
@@ -2471,9 +2469,7 @@ Artículo Primero. Inicio de Vigencia. La presente Ley iniciará su vigencia el 
 
 a) Las disposiciones relativas a la libertad preparatoria, remisión parcial de la pena, tratamiento preliberacional y la condena condicional, respecto de los procedimientos penales, anteriores y posteriores a la entrada en vigor de la presente ley, se regirán conforme a las disposiciones de la misma.
 
-b) Las disposiciones relativas a la ejecución de penas y medidas de seguridad respecto de los procedimientos penales, anteriores y posteriores a la entrada en vigor del presente decreto, que en lo subsecuente corresponda aplicarlas a la autoridad judicial, serán ejercidas, en su caso, por los jueces penales de primera instancia y menores que hayan conocido de las causas respectivas, en los distritos judiciales en los que no haya entrado en vigor el nuevo Código de Procedimientos Penales, sin perjuicio de la coordinación que deban mantener con la Dirección de Ejecución de Penas y Medidas de Seguridad.
-
-Respecto a los incisos a) y b), el Pleno del Supremo Tribunal de Justicia acordará, mediante disposiciones generales que establezcan un modelo de distribución de competencias, el ejercicio de las facultades más trascendentes por parte de los jueces de ejecución de penas de otros distritos. Esta facultad la ejercerá el Pleno desde la entrada en vigor del presente decreto, hasta que el nuevo sistema de justicia penal se encuentre en vigor en todo el territorio estatal.
+b) (DEROGADO, P.O. 9 DE FEBRERO DE 2013)
 
 c) Las disposiciones relativas a la ejecución de las medidas cautelares y las condiciones impuestas en la SUSPENSIÓN del proceso a prueba, iniciarán su vigencia el primero de enero de dos mil siete, con las modalidades territoriales que se precisan en los artículos transitorios del nuevo Código de Procedimientos Penales del Estado de Chihuahua, aprobado el quince de junio de dos mil seis.
 
@@ -2702,3 +2698,17 @@ P.O. 2 DE FEBRERO DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE FEBRERO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los encargados de la ejecución de todas las sentencias firmes, dictadas en procedimientos penales relacionados con hechos anteriores y posteriores a la entrada en vigor del Código de Procedimientos Penales del Estado, aprobado en el año 2006, lo serán los jueces de Ejecución de Penas designados por el pleno del Supremo Tribunal de Justicia del Estado, con la salvedad prevista para los Jueces Menores Mixtos.
+
+###### ARTÍCULO TERCERO.
+
+Todos los asuntos relacionados con la ejecución de penas y medidas de seguridad, que se encuentren en trámite al inicio de la entrada en vigor del presente Decreto, deberán remitirse sin dilación alguna al Juez de Ejecución de Penas al que corresponda legalmente el conocimiento de los mismos.
