@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-cultura-de-la-legalidad-para-el-estado-de-chihuahua-8125
 country: "mx"
 rank: "ley"
 publication_date: "2011-04-30"
-last_updated: "2012-09-26"
+last_updated: "2013-02-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81255&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE CULTURA DE LA LEGALIDAD PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2013.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 30 de abril de 2011.
 
@@ -61,11 +61,13 @@ I. Comité: El Comité de Investigación y Análisis para la formulación del Pr
 
 II. Consejo: El Consejo Estatal para Impulsar la Cultura de la Legalidad;
 
-III. Consejos Regionales: Los Consejos Regionales para Impulsar la Cultura de la Legalidad, de las zonas norte, sur, centro y occidente;
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2013)</small>
+
+III. Consejos Regionales: Son los órganos e instancias auxiliares que señala la Ley del Sistema Estatal de Seguridad Pública;
 
 IV. Cultura de la Legalidad: Atributo de la sociedad que se distingue por el respeto y acatamiento de las disposiciones jurídicas vigentes;
 
-V. Fiscal Especializado: Fiscal Especializado en Seguridad Pública y Prevención del Delito;
+V. (DEROGADA, P.O. 9 DE FEBRERO DE 2013)
 
 VI. Ley: Ley de Cultura de la Legalidad para el Estado de Chihuahua, y
 
@@ -85,27 +87,35 @@ IV. Instituciones policiales, e
 
 V. Instituciones que conformen la estructura gubernamental.
 
-### CAPÍTULO II. DE LA ORGANIZACIÓN, ATRIBUCIONES Y FUNCIONAMIENTO DE LOS CONSEJOS ESTATAL Y REGIONALES PARA IMPULSAR LA CULTURA DE LA LEGALIDAD
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE FEBRERO DE 2013)</small>
+
+### CAPÍTULO II. DE LA ORGANIZACIÓN, ATRIBUCIONES Y FUNCIONAMIENTO DEL CONSEJO ESTATAL PARA IMPULSAR LA CULTURA DE LA LEGALIDAD
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 4.
 
-Los Consejos Estatal y Regionales se integrarán por las instituciones, grupos y organizaciones más representativos de los sectores público, privado y social.
+El Consejo Estatal se integrará por las instituciones, grupos y organizaciones más representativos de los sectores público, privado y social.
 
 ###### Artículo 5.
 
 El Consejo tendrá por objeto planear, establecer, coordinar y evaluar todas las acciones, programas y estrategias tendientes a la investigación, diagnóstico social, enseñanza, difusión y el fomento de la cultura de la legalidad y el fortalecimiento del Estado de Derecho en el Estado de Chihuahua.
 
-Los Consejos Regionales, en el ámbito de su competencia, tendrán el mismo objeto que el Consejo, pero adicionalmente ejecutarán todas las acciones y estrategias tendientes a la construcción de una cultura de la legalidad y de la justicia, así como la implementación de los programas, foros, eventos y actividades necesarias para lograr la penetración en la población de dicho propósito.
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2013)</small>
+
+Los Consejos Regionales de Seguridad Pública, en cuanto al rubro de Cultura de la Legalidad, tendrán el mismo objeto que el Consejo, pero adicionalmente ejecutarán, en los términos del artículo 16 de la presente Ley, todas las acciones y estrategias tendientes a la construcción de una cultura de la legalidad y de la justicia, así como la implementación de los programas, foros, eventos y actividades necesarias para lograr la penetración en la población de dicho propósito.
 
 ###### Artículo 6.
 
 El Consejo será un órgano de naturaleza consultiva, plural, democrática y de carácter honorífico.
 
-Por su parte, los Consejos Regionales serán igualmente plurales y democráticos, de carácter honorífico, y los encargados de la ejecución del Programa, de conformidad con el Capítulo IV de la presente Ley.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 9 DE FEBRERO DE 2013)</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 7.
 
-El Consejo y los Consejos Regionales se integrarán con los representantes de los siguientes sectores de la sociedad:
+El Consejo se integrará con los representantes de los siguientes sectores de la sociedad:
 
 I. Las instituciones de educación superior;
 
@@ -149,37 +159,21 @@ IX. Un Secretario Técnico, que será el servidor público que designe el Titula
 
 X. Un vocal de cada uno de los sectores descritos en el artículo 7 de la presente Ley.
 
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 2013)</small>
+
+Los integrantes del Consejo podrán designar a su respectivo suplente.
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 9.
 
-Los Consejos Regionales serán cuatro, y se ubicarán de la siguiente manera:
+Los Consejos Regionales actuarán en apego a la Ley del Sistema Estatal de Seguridad Pública, pero tratándose de la competencia de la presente Ley, las resoluciones o los acuerdos se ejecutarán mediante los lineamientos generales y específicos dictados por el Consejo Estatal para Impulsar la Cultura de la Legalidad.
 
-I. Zona Norte, con sede en Ciudad Juárez, y comprende los distritos judiciales de Bravos y Galeana;
-
-II. Zona Centro, con sede en la Ciudad de Chihuahua, y comprende los distritos judiciales de Morelos, Abraham González, Camargo y Manuel Ojinaga;
-
-III. Zona Sur, con sede en la Ciudad de Hidalgo del Parral, y comprende los distritos judiciales de Hidalgo, Jiménez, Andrés del Río y Mina, y
-
-IV. Zona Occidente, con sede en Ciudad Cuauhtémoc, y comprende los distritos judiciales de Benito Juárez, Guerrero, Rayón y Arteaga.
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 10.
 
-Los Consejos Regionales, de manera individual, estarán organizados de la siguiente forma:
-
-I. Un Presidente Honorario, que será el Fiscal Especializado en Seguridad Pública y Prevención del Delito de la zona;
-
-II. Un Presidente Ejecutivo, que deberá ser siempre un representante ciudadano, designado por los integrantes del Consejo Regional de que se trate y de entre sus miembros;
-
-III. Un representante de cada ayuntamiento de la zona, designado por el presidente municipal de entre sus propios funcionarios y que tendrá el carácter de vocal;
-
-> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
-
-IV. Un representante de la Secretaría de Educación, Cultura y Deporte; uno de la Secretaría de Desarrollo Social, así como un representante de la Secretaría de Salud, todos ellos designados por el Gobernador del Estado, quienes tendrán el carácter de vocales;
-
-V. Un representante del Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública;
-
-VI. Un Secretario Técnico, que será el servidor público que designe el Titular del Poder Ejecutivo del Estado, y
-
-VII. Un vocal de cada uno de los sectores descritos en el Artículo 7 de la presente Ley.
+Los Consejos Regionales se integrarán de acuerdo a lo que establece la Ley del Sistema Estatal de Seguridad Pública.
 
 ###### Artículo 11.
 
@@ -189,15 +183,19 @@ Todos los ayuntamientos del Estado de Chihuahua, podrán crear su propio Consejo
 
 El Consejo invitará a las personas que a su juicio deban conformar un grupo consultivo de opinión y ejemplo en la sociedad, partiendo que deberá tratarse de personas destacadas en temas relacionados con el objeto de esta Ley, sin restricción en número de integrantes y quienes podrán ser miembros del propio Consejo.
 
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 13.
 
-El Consejo y los Consejos Regionales deberán renovarse en su totalidad cada seis años, pudiendo sus miembros ser reelectos.
+El Consejo deberá renovarse en su totalidad cada seis años, pudiendo sus miembros ser reelectos.
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 14.
 
-El Consejo Estatal sesionará de manera ordinaria por lo menos cuatro veces al año, y los Consejos Regionales por lo menos seis veces al año, pudiendo sesionar ambos consejos de forma extraordinaria cuando sea necesario, previa convocatoria que se emita para tal efecto.
+El Consejo Estatal sesionará de manera ordinaria por lo menos cuatro veces al año, pudiendo sesionar de forma extraordinaria cuando sea necesario, previa convocatoria que se emita para tal efecto.
 
-En el Reglamento Interior del Consejo y de los Consejos Regionales, se establecerá el procedimiento para la realización de las sesiones.
+En el Reglamento Interior del Consejo se establecerá el procedimiento para la realización de las sesiones.
 
 ### CAPÍTULO III. DE LAS ATRIBUCIONES DEL CONSEJO Y DE LOS CONSEJOS REGIONALES
 
@@ -205,7 +203,9 @@ En el Reglamento Interior del Consejo y de los Consejos Regionales, se establece
 
 El Consejo tendrá las siguientes atribuciones:
 
-I. Emitir su Reglamento Interior y de los Consejos Regionales;
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2013)</small>
+
+l. Emitir su Reglamento Interior;
 
 II. Promover y establecer las condiciones para la participación de los demás integrantes de los sectores y organizaciones de la sociedad, en la realización de las acciones derivadas del Programa;
 
@@ -223,9 +223,11 @@ VIII. Aprobar el Programa por al menos dos terceras partes de sus integrantes, y
 
 IX. Las demás que determinen el Reglamento Interior y otras disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 16.
 
-Los Consejos Regionales tendrán las siguientes atribuciones:
+Los Consejos Regionales, además de las atribuciones que deriven de la Ley del Sistema Estatal de Seguridad Pública, tendrán en cuanto a Cultura de la Legalidad específicamente las siguientes:
 
 I. Ejecutar el Programa en los términos de esta Ley y del Reglamento Interior, así como promover y establecer, en el ámbito de la competencia de cada Consejo Regional, las condiciones para la participación de los demás integrantes de los sectores y organizaciones de la sociedad, en la realización de las acciones derivadas del Programa;
 
@@ -332,3 +334,23 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Cuando en cualquier otro instrumento jurídico se haga referencia a la Secretaría de Fomento Social, se entenderá citada a la Secretaría de Desarrollo Social sin que ello afecte su competencia, derechos u obligaciones que haya contraído con antelación a la entrada en vigor del presente Decreto.
+
+P.O. 9 DE FEBRERO DE 2013.
+
+DECRETO NÚMERO 799/2012 II P.O, POR EL QUE SE REFORMAN LOS ARTÍCULOS 7, 10, 13, 14; 15, FRACCIÓN I, Y 16; Y SE DEROGA LA FRACCIÓN V DEL ARTÍCULO 2, TODOS DE LA LEY DE CULTURA DE LA LEGALIDAD PARA EL ESTADO DE CHIHUAHUA.
+
+###### ARTÍCULO PRIMERO.
+
+Los Consejos Regionales se sujetarán al Reglamento de la Ley del Sistema Estatal de Seguridad Pública.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE FEBRERO DE 2013.
+
+DECRETO NÚMERO 860/2012 VII P.E, POR EL QUE SE REFORMAN EL ARTÍCULO 2, FRACCIÓN III; EL CAPÍTULO II EN SU DENOMINACIÓN; LOS ARTÍCULOS 4; 5, PÁRRAFO SEGUNDO, Y 9; SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 8; Y SE DEROGA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 6, TODOS DE LA LEY DE CULTURA DE LA LEGALIDAD PARA EL ESTADO DE CHIHUAHUA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
