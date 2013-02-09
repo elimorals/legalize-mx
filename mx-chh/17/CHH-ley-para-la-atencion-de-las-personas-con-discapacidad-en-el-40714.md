@@ -4,7 +4,7 @@ identifier: "CHH-ley-para-la-atencion-de-las-personas-con-discapacidad-en-el-407
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-24"
-last_updated: "2013-02-02"
+last_updated: "2013-02-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40714&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY PARA LA ATENCIÓN DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE CHIHUAHUA
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO No. 859/2012 VII P.E., PUBLICADO EN EL P.O. 26 DE SEPTIEMBRE DE 2012, CUANDO EN CUALQUIER OTRO INSTRUMENTO JURÍDICO SE HAGA REFERENCIA A LA SECRETARÍA DE FOMENTO SOCIAL, SE ENTENDERÁ CITADA A LA SECRETARÍA DE DESARROLLO SOCIAL SIN QUE ELLO AFECTE SU COMPETENCIA, DERECHOS U OBLIGACIONES QUE HAYA CONTRAÍDO CON ANTELACIÓN A LA ENTRADA EN VIGOR DEL CITADO DECRETO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2013.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 30 de julio de 2004.
 
@@ -91,9 +91,17 @@ XII.- Ayuntamiento.- Los Gobiernos Municipales del Estado de Chihuahua;
 
 XIII.- Consejo.- Consejo Estatal Consultivo para la integración de las personas con discapacidad;
 
-XIV.- Organizaciones de personas con discapacidad.- Todo grupo de personas que se reúnen para salvaguardar los derechos de las personas con discapacidad y que buscan facilitar su participación en la vida social, y
+XIV.- Organizaciones de personas con discapacidad.- Todo grupo de personas que se reúnen para salvaguardar los derechos de las personas con discapacidad y que buscan facilitar su participación en la vida social, y (sic)
 
 XV.- Asociaciones.- Todas aquellas figuras constituidas legalmente para salvaguardar los derechos de las personas con discapacidad y que buscan facilitar su participación en la vida social.
+
+> <small>(ADICIONADA, P.O. 9 DE FEBRERO DE 2013)</small>
+
+XVI.- Centros de Día para Personas con Discapacidad.- Lugares de acogimiento diurno en los que se prestan servicios de atención integral, fomento al desarrollo de procesos adaptativos, que favorezcan la autodeterminación del individuo a través de apoyos, ayudas técnicas y programas habilitadores.
+
+> <small>(ADICIONADA, P.O. 9 DE FEBRERO DE 2013)</small>
+
+XVII.- Perros de Asistencia.- Animales especialmente entrenados para el apoyo de las actividades cotidianas de las personas con discapacidad o en situación de discapacidad.
 
 ###### Artículo 4.
 
@@ -509,9 +517,11 @@ La Secretaría, en coordinación con las Autoridades de Tránsito, impulsarán e
 
 Estos programas y campañas se difundirán ampliamente por los medios masivos de comunicación existentes en la comunidad.
 
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 38.
 
-Las personas con discapacidad visual acompañadas de perros guía tendrán acceso a todos los servicios públicos y privados.
+Las personas con discapacidad visual y las que se encuentren en situación de discapacidad, acompañadas con perro de asistencia tendrán el derecho de acceso, deambulación y permanencia junto con éste, a todos los lugares de servicios públicos y privados.
 
 ###### Artículo 39.
 
@@ -533,9 +543,11 @@ IV.- El establecimiento de mecanismos que permitan la adecuada canalización y a
 
 La Secretaría fomentará las actividades culturales, recreativas, deportivas y ocupación del tiempo libre para las personas con discapacidad.
 
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 42.
 
-El Gobierno del Estado a través de la Secretaría, fomentará servicios de albergues y centros comunitarios con el objeto de atender las necesidades básicas de aquellas personas con discapacidad carentes de hogar y familia o con graves problemas de integración familiar.
+El Gobierno del Estado, a través de la Secretaría, fomentará servicios de centros de día, albergues y centros comunitarios, con el objeto de atender las necesidades básicas de aquellas personas con discapacidad carentes de hogar y familia o con graves problemas de integración familiar.
 
 ###### Artículo 43.
 
@@ -814,6 +826,22 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 Cuando en cualquier otro instrumento jurídico se haga referencia a la Secretaría de Fomento Social, se entenderá citada a la Secretaría de Desarrollo Social sin que ello afecte su competencia, derechos u obligaciones que haya contraído con antelación a la entrada en vigor del presente Decreto.
 
 P.O. 2 DE FEBRERO DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE FEBRERO DE 2013.
+
+DECRETO NÚMERO 280/2011 II P.O, POR EL QUE SE ADICIONA UNA FRACCIÓN XVI AL ARTÍCULO 3 Y SE REFORMA EL ARTÍCULO 42, AMBOS DE LA LEY PARA LA ATENCIÓN DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE CHIHUAHUA.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE FEBRERO DE 2013.
+
+DECRETO NÚMERO 281/2011 II P.O, POR EL QUE SE ADICIONA UNA FRACCIÓN XVII AL ARTÍCULO 3 Y SE REFORMA EL ARTÍCULO 38, AMBOS DE LA LEY PARA LA ATENCIÓN DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE CHIHUAHUA.
 
 ###### ARTÍCULO ÚNICO.
 
