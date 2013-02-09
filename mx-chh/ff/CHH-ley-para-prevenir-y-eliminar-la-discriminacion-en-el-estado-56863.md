@@ -4,7 +4,7 @@ identifier: "CHH-ley-para-prevenir-y-eliminar-la-discriminacion-en-el-estado-568
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-07"
-last_updated: "2012-09-26"
+last_updated: "2013-02-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56863&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE CHIHUAHUA
 
 > <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 859/2012, PUBLICADO EN EL P.O. 26 DE SEPTIEMBRE DE 2012, CUANDO EN CUALQUIER OTRO INSTRUMENTO JURÍDICO SE HAGA REFERENCIA A LA SECRETARÍA DE FOMENTO SOCIAL, SE ENTENDERÁ CITADA A LA SECRETARÍA DE DESARROLLO SOCIAL.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2013.
 
 EL CIUDADANO LICENCIADO JOSÉ REYES BAEZA TERRAZAS, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA, A SUS HABITANTES SABED:
 
@@ -295,9 +295,13 @@ VIII. Procurar incentivos fiscales a aquellas empresas que tengan entre sus empl
 
 IX. Crear espacios de recreación adecuados;
 
-X. Procurar la accesibilidad en los medios de transporte público de uso general;
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2013)</small>
 
-XI. Promover que todos los espacios e inmuebles públicos o que presten servicios al público, tengan las adecuaciones físicas y de señalización para su acceso, libre desplazamiento y uso;
+X. Procurar la accesibilidad en los medios de transporte público de uso general, incluido el acceso a los perros de asistencia de las personas que requieran de su apoyo.
+
+> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2013)</small>
+
+XI. Promover que todos los espacios e inmuebles públicos o que presten servicios al público, tengan las adecuaciones físicas y de señalización para su acceso, libre desplazamiento y uso, así como para que se permita en ellos el ingreso a los perros de asistencia de las personas que requieran de su apoyo;
 
 XII. Procurar que las vías generales de comunicación cuenten con señalamientos adecuados para permitirles el libre tránsito;
 
@@ -568,3 +572,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Cuando en cualquier otro instrumento jurídico se haga referencia a la Secretaría de Fomento Social, se entenderá citada a la Secretaría de Desarrollo Social sin que ello afecte su competencia, derechos u obligaciones que haya contraído con antelación a la entrada en vigor del presente Decreto.
+
+P.O. 9 DE FEBRERO DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado
