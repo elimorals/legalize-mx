@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-sistema-estatal-de-seguridad-publica-68304"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-01"
-last_updated: "2012-09-22"
+last_updated: "2013-02-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68304&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2013.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 1 de abril de 2009.
 
@@ -397,13 +397,27 @@ Así mismo, se invitarán a las reuniones del Consejo Estatal, a dos representan
 
 El Consejo podrá invitar, por la naturaleza de los asuntos a tratar, a las personas, instituciones y representantes de la sociedad civil que puedan exponer conocimientos y experiencias para el cumplimiento de los objetivos de la seguridad pública. Dicha participación será con carácter honorífico.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2013)</small>
 
 ###### ARTÍCULO 25.
 
-El Consejo Estatal de Seguridad Pública establecerá las regiones en el Estado para que se instalen los Consejos Regionales de Seguridad Pública, que se integrarán como lo determine el Consejo Estatal.
+El Consejo Estatal de Seguridad Pública establecerá la forma en la que se integrarán los Consejos Regionales, que deberán ser instalados en las siguientes zonas:
+
+I. Norte, con sede en Ciudad Juárez, y comprende los distritos judiciales de Bravos y Galeana;
+
+II. Centro, con sede en la Ciudad de Chihuahua, y comprende los distritos judiciales de Morelos, Abraham González, Camargo y Manuel Ojinaga;
+
+III. Sur, con sede en la Ciudad de Hidalgo del Parral, y comprende los distritos judiciales de Hidalgo, Jiménez, Andrés del Río y Mina, y
+
+IV. Occidente, con sede en Ciudad Cuauhtémoc, y comprende los distritos judiciales de Benito Juárez, Guerrero, Rayón y Arteaga.
+
+Los Consejos Regionales serán plurales y democráticos, de carácter honorífico y deberán renovarse en su totalidad cada seis años, pudiendo sus miembros ser reelectos.
+
+Los Consejos Regionales sesionarán por lo menos tres veces al año, pudiendo sesionar de forma extraordinaria cuando sea necesario, previa convocatoria que se emita para tal efecto.
+
+En el Reglamento Interior de los Consejos Regionales, se establecerá el procedimiento para la realización de las sesiones.
+
+Los Consejos Regionales en el rubro de cultura de la legalidad, además ejecutarán las resoluciones o los acuerdos mediante los lineamientos generales y específicos dictados por el Consejo Estatal para Impulsar la Cultura de la Legalidad.
 
 > <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1984,3 +1998,9 @@ Para efectos del presente Decreto, se entenderá que la contribución a que ést
 ###### ARTÍCULO TERCERO.
 
 Se establece un plazo de treinta días., contados a partir de la entrada en vigor del presente Decreto, para la constitución del Fideicomiso para la Competitividad y Segundad Ciudadana.
+
+P.O. 9 DE FEBRERO DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
