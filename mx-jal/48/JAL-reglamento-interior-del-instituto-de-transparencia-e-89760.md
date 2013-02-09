@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-del-instituto-de-transparencia-e-89760"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-10-16"
-last_updated: "2012-10-16"
+last_updated: "2013-02-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89760&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA E INFORMACIÓN PÚBLICA DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2013.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el martes 16 de octubre de 2012.
 
@@ -645,13 +645,15 @@ XI. Las demás que les confiera el Consejo y/o el Presidente dentro de sus facul
 
 ### CAPÍTULO XIII. De los periodos de actividad del Instituto
 
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 52.
 
-El horario Institucional está comprendido de la 9:00 a las 17:00 horas, la oficialía de partes podrá recibir documentos de las 17:01 a 23:59 horas, siempre que sean de término y para el caso de las notificaciones, son hábiles de las 7:00 hasta las 21:00 horas, en términos de lo dispuesto por el artículo 86 de la Ley del procedimiento Administrativo del Estado de Jalisco.
+El horario institucional esta comprendido de las 9:00 a las 17:00 horas, la oficialía de partes podrá recibir documentos de la 17:01 a 23:59 horas, siempre que sean de término y para el caso de la (sic) notificaciones, son hábiles de las 7:00 hasta las 21:00 horas, en términos de lo dispuesto por el artículo 86 de la Ley de Procedimientos Administrativo del Estado de Jalisco.
 
-El Consejo podrá habilitar y (sic) días y horas hábiles o inhábiles cuando lo estime pertinente y necesario.
+El Consejo podrá habilitar días y horas hábiles o inhábiles cuando lo estime pertinente y necesario
 
-Los integrantes del instituto, disfrutarán anualmente de dos periodos vacacionales con goce de sueldo. El primer periodo será en la segunda quincena del mes de julio, y el segundo periodo en la segunda quincena del mes de diciembre, los días se determinarán preferentemente en la sesión donde se apruebe el calendario de sesiones del Consejo.
+Los integrantes del Instituto, disfrutaran anualmente de dos periodos de vacacionales con goce sueldo. El primer período será en la época en la que se celebren las semanas Santa y Pascua, siendo el último día laborable al otorgamiento de dicho periodo el viernes inmediato anterior a la celebración de las semanas citadas y el segundo periodo, a partir de la segunda quincena del mes de diciembre, los días se determinarán preferentemente en la sesión donde se apruebe el calendario de sesiones del Consejo.
 
 ### CAPÍTULO XIV. Del Servicio Civil de Carrera del Instituto
 
@@ -1012,3 +1014,9 @@ Guadalajara, Jalisco, a 03 tres de octubre de 2012 dos mil doce.
 Abogado José Miguel Ángel de la Torre Laguna
 
 Secretario Ejecutivo del Instituto de Transparencia e Información Pública del Estado de Jalisco.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 9 DE FEBRERO DE 2013.
+
+EL ACUERDO DE REFORMA No. ASC. 136.12.2012 CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.
