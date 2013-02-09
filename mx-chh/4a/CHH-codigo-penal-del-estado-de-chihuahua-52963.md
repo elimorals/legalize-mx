@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2013-02-02"
+last_updated: "2013-02-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2013.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -3937,11 +3937,7 @@ Cuando algún ordenamiento jurídico local haga referencia a la figura de la acc
 
 ###### ARTÍCULO SÉPTIMO.
 
-Distribución de competencias en ejecución de sentencias.
-
-Las disposiciones relativas a la ejecución de penas y medidas de seguridad respecto de los procedimientos penales, anteriores y posteriores a la entrada en vigor del presente decreto, que en lo subsecuente corresponda aplicarlas a la autoridad judicial, serán ejercidas, en su caso, por los jueces penales de primera instancia y menores que hayan conocido de las causas respectivas, en los distritos judiciales en los que no haya entrado en vigor el nuevo Código de Procedimientos Penales, sin perjuicio de la coordinación que deban mantener con la Dirección de Ejecución de Penas y Medidas de Seguridad.
-
-El Pleno del Supremo Tribunal de Justicia acordará, mediante disposiciones generales que establezcan un modelo de distribución de competencias, el ejercicio de las facultades más trascendentes por parte de los jueces de ejecución de penas de otros distritos. Esta facultad la ejercerá el Pleno desde la entrada en vigor del presente decreto, hasta que el nuevo sistema de justicia penal se encuentre en vigor en todo el territorio estatal.
+(DEROGADO, P.O. 9 DE FEBRERO DE 2013)
 
 .
 
@@ -4240,3 +4236,17 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE FEBRERO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los encargados de la ejecución de todas las sentencias firmes, dictadas en procedimientos penales relacionados con hechos anteriores y posteriores a la entrada en vigor del Código de Procedimientos Penales del Estado, aprobado en el año 2006, lo serán los jueces de Ejecución de Penas designados por el Pleno del Supremo Tribunal de Justicia del Estado, con la salvedad prevista para los Jueces Menores Mixtos.
+
+###### ARTÍCULO TERCERO.
+
+Todos los asuntos relacionados con la ejecución de penas y medidas de seguridad, que se encuentren en trámite al inicio de la entrada en vigor del presente Decreto, deberán remitirse sin dilación alguna al Juez de Ejecución de Penas al que corresponda legalmente el conocimiento de los mismos.
