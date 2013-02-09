@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-judicial-del-estado-de-chihuahua-4721"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1989-01-04"
-last_updated: "2011-11-12"
+last_updated: "2013-02-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4721&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHH"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA
 
-LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA
+LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2013.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 4 de enero de 1989.
 
@@ -289,7 +289,7 @@ La declaración deberá presentarse ante el Secretario General del Supremo Tribu
 
 La falsedad del contenido de la declaración o la omisión de presentarla en los plazos señalados, será motivo de cese definitivo del infractor en sus funciones. Lo anterior sin perjuicio de que si el Pleno lo estima pertinente, se dé conocimiento de los hechos a las autoridades respectivas. En el caso de la fracción III, su incumplimiento inhabilitará al infractor hasta por diez años, para ser designado en un nuevo cargo en el Poder Judicial.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE AGOSTO DE 2006)</small>
 
 ### CAPITULO II. DEL PROCEDIMIENTO PARA SELECCION DE PERSONAL Y DE LA CARRERA JUDICIAL
 
@@ -323,7 +323,7 @@ I. Será convocado, previo acuerdo del Pleno, por el Secretario General y lo lle
 
 II. Se escuchará la opinión de las asociaciones de abogados del Distrito Judicial donde se genere la vacante, para lo cual oportunamente se les comunicará la lista de aspirantes y la fecha del examen.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE SEPTIEMBRE DE 2007)</small>
 
 III. Al examen que deba realizarse para elegir jueces, al Director General del Centro Estatal de Mediación o a los Administradores de los Tribunales, se aplicarán las siguientes bases:
 
@@ -359,7 +359,7 @@ En casos de urgencia, el Pleno o el Presidente del Tribunal, podrán hacer desig
 
 ## TITULO TERCERO. DE LA DIVISION JURISDICCIONAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 1993)</small>
 
 ###### ARTICULO 37.
 
@@ -499,7 +499,7 @@ XV. Las demás dependencias necesarias para la buena marcha de la Administració
 
 Integran el Pleno del Supremo Tribunal: el Presidente y los magistrados que estén al frente de las salas, ya fueren centrales o regionales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -509,7 +509,7 @@ El Fiscal General del Estado podrá asistir a las sesiones plenarias y tendrá v
 
 Las sesiones del Tribunal en Pleno serán públicas y, excepcionalmente, privadas, previa justificación, cuando así lo determinen la mayoría de los Magistrados.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -551,7 +551,7 @@ Son facultades del Pleno:
 
 I. Elegir, de entre sus integrantes, por mayoría calificada de las dos terceras partes de los magistrados presentes, al Presidente del Supremo Tribunal de Justicia y adscribir al resto a las Salas correspondientes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2011)</small>
 
@@ -567,7 +567,7 @@ V. Convocar a concurso de oposición para la designación de Jueces de Primera I
 
 VI. Encomendar el trámite y dictamen de algún asunto, cuya resolución corresponda al Pleno, a alguna de las salas o juzgados.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2011)</small>
 
@@ -581,7 +581,7 @@ En materia penal, cuando un Tribunal Colegiado resuelva un asunto, una Sala Cole
 
 VIII. Asignar el trabajo de alguna de las salas que estuviere recargada en su despacho a otra u otras, aun cuando no fueren del mismo ramo, con excepción de las especializadas para adolescentes infractores.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2011)</small>
 
@@ -615,7 +615,7 @@ XXII. Revocar, modificar o confirmar las providencias provisionales que hubiere 
 
 XXIII. Revocar o modificar a petición de alguno de los magistrados, los acuerdos adoptados en sesiones anteriores.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2010)</small>
 
@@ -685,7 +685,7 @@ En caso de ausencia absoluta del Presidente, se nombrará a quien deba sustituir
 
 Cuando el Presidente se inhiba del trámite de un asunto de su competencia, conocerá de éste el Magistrado que conforme a la ley deba suplirlo en sus ausencias accidentales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 55.
 
@@ -795,7 +795,7 @@ El Presidente del Supremo Tribunal rendirá en el mes de enero, ante el Pleno en
 
 Las providencias y acuerdos del Presidente podrán reclamarse ante el Pleno, siempre que dicha reclamación se presente por escrito, por parte legítima, con motivo fundado y dentro del término de tres días. El Pleno con vista a las constancias respectivas, resolverá lo conducente.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE AGOSTO DE 2006)</small>
 
 ### CAPITULO IV. DE LAS SALAS
 
@@ -807,7 +807,7 @@ Las Salas serán unitarias o colegiadas y el Pleno determinará la materia sobre
 
 En materia penal:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2011)</small>
 
@@ -817,7 +817,7 @@ a) Unitarias para conocer de todos los recursos.
 
 b) Colegiadas, integradas por tres magistrados para conocer de los recursos de casación y revisión en los supuestos del artículo 50, fracción VII, tercer párrafo de la presente Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2011)</small>
 
@@ -829,7 +829,7 @@ III.- Las salas especializadas para adolescentes infractores siempre serán unit
 
 En materia de extinción de dominio:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2011)</small>
 
@@ -937,7 +937,7 @@ La ausencia absoluta y la temporal que exceda de veinte días naturales, será c
 
 Los efectos del nombramiento, en el caso de ausencia absoluta, durarán hasta que se corra el procedimiento establecido por la ley para la designación del nuevo titular y tome posesión del cargo. Tratándose de ausencia temporal, hasta que cese la causa que la motivó. En ambos casos, y hasta que se realice dicho nombramiento, el secretario de acuerdos adscrito a la Sala respectiva tendrá las facultades a que se refiere el artículo anterior.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 5 DE ENERO DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE ENERO DE 2000)</small>
 
 ### CAPITULO VI. DE LA SECRETARIA GENERAL
 
@@ -1025,7 +1025,7 @@ XXVIII.- Las demás que le confieran las leyes.
 
 ### CAPITULO VII. DEL CONTROL Y SUPERVISION ADMINISTRATIVO
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE ENERO DE 2000)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 5 DE ENERO DE 2000)</small>
 
 #### SECCION PRIMERA. De la Oficialía Mayor
 
@@ -1087,7 +1087,7 @@ XVI. Supervisar el desempeño, en su caso, de los administradores de los tribuna
 
 XVII. Los demás que le confieran las leyes.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE ENERO DE 2000)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 5 DE ENERO DE 2000)</small>
 
 #### SECCION SEGUNDA. De la Contraloría General del Poder Judicial
 
@@ -1133,7 +1133,7 @@ V.- Atender los asuntos que directamente le encomiende el Pleno o el Presidente.
 
 ARTICULO 78 f.- La Contraloría, con autorización expresa del Presidente podrá contratar los servicios profesionales de despachos privados de contabilidad, auditoria y fiscalización para coadyuvar en el cumplimiento de sus tareas o para encomendarles en forma integral alguna o algunas acciones de la competencia de la propia Contraloría. En este caso, se establecerá que el contenido de las diligencias tiene carácter confidencial y que sus autores tienen la obligación de guardar el secreto profesional y sus resultados deberán informarse al Pleno del Tribunal por conducto del Presidente.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE ENERO DE 2000)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 5 DE ENERO DE 2000)</small>
 
 #### SECCION TERCERA. De la Visitaduría
 
@@ -1157,7 +1157,7 @@ ARTICULO 78 j.- Los magistrados informarán con la debida oportunidad al Preside
 
 ARTICULO 78 k.- La designación de los visitadores se hará por el Pleno, a proposición del Presidente. El Pleno, mediante acuerdos generales, establecerá los sistemas que permitan evaluar de manera periódica el desempeño y la honorabilidad de los visitadores para los efectos del adecuado cumplimiento de sus funciones.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 5 DE ENERO DE 2000)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 5 DE ENERO DE 2000)</small>
 
 #### SECCION CUARTA. Del Departamento de Auditoria
 
@@ -1243,7 +1243,9 @@ Habrá en el Supremo Tribunal de Justicia los Notificadores, escribientes y empl
 
 En cada Sala Unitaria habrá cuando menos dos Secretarios. Unos (sic) de ellos tendrá el carácter de Secretario de Acuerdos, quien tendrá fe pública y el resto serán secretarios Proyectistas, correspondiendo al de acuerdos además la calidad de primer secretario de la Sala y a los proyectistas, según su número, la de segundo y subsiguientes de conformidad con la designación que económicamente determine el Magistrado en funciones.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2011)</small>
 
 Los funcionarios de las Salas Unitarias del ramo penal coadyuvarán, dentro del ámbito de sus atribuciones, en el desempeño de las Salas Colegiadas, cuando el titular de aquéllas integre estas últimas, de conformidad con las disposiciones generales que para tal efecto dicte el Pleno del Supremo Tribunal.
 
@@ -1399,25 +1401,25 @@ X.- Rendir, en los primeros cinco días del mes de enero, un informe anual al Pr
 
 XI.- Las demás que prescriban las leyes.
 
-> <small>N. DE E. EN RELACION A LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(DEROGADA SU DENOMINACION, P.O. 2 DE OCTUBRE DE 2010)</small>
+> <small>(DEROGADA SU DENOMINACIÓN, P.O. 2 DE OCTUBRE DE 2010)</small>
 
 ### CAPITULO XI. DE LA COORDINACIÓN PARA LA INSTRUMENTACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 101.
 
 (DEROGADO, P.O. 2 DE OCTUBRE DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 102.
 
 (DEROGADO, P.O. 2 DE OCTUBRE DE 2010)
 
-> <small>N. DE E. EN RELACION A LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 103.
 
@@ -1425,59 +1427,59 @@ XI.- Las demás que prescriban las leyes.
 
 ###### ARTICULO 104.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA DEFENSORIA PUBLICA DEL ESTADO DE CHIHUAHUA, P.O. 9 DE DICIEMBRE DE 2006)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE CHIHUAHUA, P.O. 9 DE DICIEMBRE DE 2006)
 
 ###### ARTICULO 105.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA DEFENSORIA PUBLICA DEL ESTADO DE CHIHUAHUA, P.O. 9 DE DICIEMBRE DE 2006)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE CHIHUAHUA, P.O. 9 DE DICIEMBRE DE 2006)
 
 ###### ARTICULO 106.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA DEFENSORIA PUBLICA DEL ESTADO DE CHIHUAHUA, P.O. 9 DE DICIEMBRE DE 2006)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE CHIHUAHUA, P.O. 9 DE DICIEMBRE DE 2006)
 
 ###### ARTICULO 107.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA DEFENSORIA PUBLICA DEL ESTADO DE CHIHUAHUA, P.O. 9 DE DICIEMBRE DE 2006)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE CHIHUAHUA, P.O. 9 DE DICIEMBRE DE 2006)
 
 ###### ARTICULO 108.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA DEFENSORIA PUBLICA DEL ESTADO DE CHIHUAHUA, P.O. 9 DE DICIEMBRE DE 2006)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE CHIHUAHUA, P.O. 9 DE DICIEMBRE DE 2006)
 
 ###### ARTICULO 109.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA DEFENSORIA PUBLICA DEL ESTADO DE CHIHUAHUA, P.O. 9 DE DICIEMBRE DE 2006)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE CHIHUAHUA, P.O. 9 DE DICIEMBRE DE 2006)
 
 ###### ARTICULO 110.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA DEFENSORIA PUBLICA DEL ESTADO DE CHIHUAHUA, P.O. 9 DE DICIEMBRE DE 2006)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE CHIHUAHUA, P.O. 9 DE DICIEMBRE DE 2006)
 
 ###### ARTICULO 111.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA DEFENSORIA PUBLICA DEL ESTADO DE CHIHUAHUA, P.O. 9 DE DICIEMBRE DE 2006)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE CHIHUAHUA, P.O. 9 DE DICIEMBRE DE 2006)
 
 ###### ARTICULO 112.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA DEFENSORIA PUBLICA DEL ESTADO DE CHIHUAHUA, P.O. 9 DE DICIEMBRE DE 2006)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE CHIHUAHUA, P.O. 9 DE DICIEMBRE DE 2006)
 
 ###### ARTICULO 113.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA DEFENSORIA PUBLICA DEL ESTADO DE CHIHUAHUA, P.O. 9 DE DICIEMBRE DE 2006)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE CHIHUAHUA, P.O. 9 DE DICIEMBRE DE 2006)
 
 ###### ARTICULO 114.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA DEFENSORIA PUBLICA DEL ESTADO DE CHIHUAHUA, P.O. 9 DE DICIEMBRE DE 2006)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE CHIHUAHUA, P.O. 9 DE DICIEMBRE DE 2006)
 
 ###### ARTICULO 115.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA DEFENSORIA PUBLICA DEL ESTADO DE CHIHUAHUA, P.O. 9 DE DICIEMBRE DE 2006)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE CHIHUAHUA, P.O. 9 DE DICIEMBRE DE 2006)
 
 ###### ARTICULO 116.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA DEFENSORIA PUBLICA DEL ESTADO DE CHIHUAHUA, P.O. 9 DE DICIEMBRE DE 2006)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE CHIHUAHUA, P.O. 9 DE DICIEMBRE DE 2006)
 
 ###### ARTICULO 117.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA DEFENSORIA PUBLICA DEL ESTADO DE CHIHUAHUA, P.O. 9 DE DICIEMBRE DE 2006)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE CHIHUAHUA, P.O. 9 DE DICIEMBRE DE 2006)
 
 ### CAPITULO XII. DE LA OFICIALIA DE TURNOS
 
@@ -1509,7 +1511,7 @@ El encargado tendrá las siguientes obligaciones:
 
 I.- Recibir por riguroso orden cronológico las demandas o promociones que inicien un procedimiento y los documentos que se acompañen a las mismas, y turnarles a los Juzgados correspondientes en los términos establecidos por esta ley, su reglamento, las determinaciones del Pleno o del Presidente del Supremo Tribunal de Justicia, cuidando escrupulosamente que el trámite se haga de manera ágil y oportuna;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO DE REFORMAS A LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 II.- (DEROGADA, P.O. 10 DE OCTUBRE DE 2009)
 
@@ -1721,7 +1723,7 @@ Las cantidades que fueran recibidas por los conceptos a que se refieren los art�
 
 #### SECCION TERCERA. Del Destino de los Recursos del Fondo
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE AGOSTO DE 1998)</small>
 
 ###### ARTICULO 145.
 
@@ -1739,7 +1741,7 @@ III.- La adquisición de bienes inmuebles e inversión en obra pública necesari
 
 IV.- Sufragar los gastos de los servicios y estudios técnicos que se vinculen con los conceptos a que se refieren las fracciones anteriores y, en general, las erogaciones que el Pleno estime necesarias y convenientes para la buena marcha de la administración de justicia.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE ENERO DE 2000)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE ENERO DE 2000)</small>
 
 ### CAPITULO XV. DEL DEPARTAMENTO DE INFORMATICA
 
@@ -1855,7 +1857,7 @@ III.- Contar con experiencia profesional en el ramo de por lo menos tres años; 
 
 IV.- No haber sido condenado por delito intencional que amerite pena privativa de libertad.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE AGOSTO DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE AGOSTO DE 2006)</small>
 
 ### CAPITULO XVI. DEL CENTRO DE FORMACION Y ACTUALIZACION JUDICIAL
 
@@ -1949,7 +1951,7 @@ El cuerpo docente se integrará de preferencia con personal del propio Poder Jud
 
 ARTICULO 145 p.- El Pleno del Supremo Tribunal de Justicia, podrá acordar que determinados funcionarios y empleados del Poder Judicial del Estado tomen de manera obligatoria cursos de capacitación, especialización o actualización que imparta el Centro u otras instituciones dentro o fuera de la Entidad, cuando ello sea conveniente para el mejoramiento del servicio judicial.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 9 DE AGOSTO DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE AGOSTO DE 2006)</small>
 
 ### CAPITULO XVII. DEL COMITE Y LA UNIDAD DE INFORMACION DEL SUPREMO TRIBUNAL DE JUSTICIA
 
@@ -2049,7 +2051,7 @@ ARTICULO 145 y.- El Personal que integre la Unidad de Información tendrá la ob
 
 ## TITULO QUINTO. DE LOS JUZGADOS DEL ESTADO
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE SEPTIEMBRE DE 2006)</small>
 
 ### CAPITULO I. DE LOS JUZGADOS DE PRIMERA INSTANCIA Y ESPECIALIZADOS PARA ADOLESCENTES INFRACTORES
 
@@ -2079,13 +2081,13 @@ Los Jueces de Primera Instancia y los Especializados para adolescentes infractor
 
 En asuntos de su competencia y cuando su mejor despacho lo requiera, podrán los Jueces de Primera Instancia y los Especializados para adolescentes infractores trasladarse del lugar de su residencia a otro punto de su distrito, previa autorización del Presidente del Supremo Tribunal o cuando éste o el Pleno así lo dispongan. En casos de urgencia que se presenten en asuntos del ramo Penal, Especializado para adolescentes infractores o del Familiar y que el Juez calificará bajo su más estrecha responsabilidad, podrá disponer el traslado inmediato del personal del juzgado del lugar de su ubicación a otro punto de su distrito, previo aviso al Presidente del tribunal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2011)</small>
 
 ARTICULO 149 BIS. Los tribunales de juicio oral en materia penal se integrarán de forma unitaria y colegiadamente con tres jueces en el supuesto del artículo 50, fracción VII, párrafo segundo de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE ABRIL DE 2010)</small>
 
 ###### ARTICULO 150.
 
@@ -2153,11 +2155,9 @@ VII. Dictar sentencia en el procedimiento abreviado; y
 
 VIII. Las demás que le otorgue la ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE FEBRERO DE 2013)</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE NOVIEMBRE DE 2011)</small>
-
-ARTICULO 150 TER. Los Tribunales de juicio oral en materia penal tienen las siguientes atribuciones:
+ARTICULO 150 TER. Los Tribunales de Juicio Oral en materia penal tienen las siguientes atribuciones:
 
 > <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2006)</small>
 
@@ -2175,15 +2175,37 @@ III. Dictar sentencia con base en las pruebas presentadas durante la audiencia d
 
 IV. Las demás que les otorgue la ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE NOVIEMBRE DE 2011)</small>
-
-Los jueces de Juicio Oral en materia Penal ejercerán la función de Jueces de Ejecución de Penas en el Estado, dentro del Distrito Judicial correspondiente, con la posibilidad de prorrogar su jurisdicción a otros distritos, de conformidad con las disposiciones generales que el Supremo Tribunal de Justicia del Estado dicte, en los términos de las facultades otorgadas al Pleno en la presente Ley.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 9 DE FEBRERO DE 2013)</small>
 
 > <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2010)</small>
 
 ARTICULO 150 CUATER (SIC).- Los Tribunales de Extinción de Dominio conocerán de la acción de extinción de dominio, en los términos de la Ley de la materia.
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 2013)</small>
+
+ARTICULO 150 QUINQUIES. Los Jueces de Ejecución de Penas serán designados por el Pleno del Supremo Tribunal de Justicia, y tendrán las siguientes atribuciones:
+
+I. Controlar que la ejecución de toda pena o medida de seguridad, se realice de conformidad con la sentencia definitiva que la impuso, garantizando la legalidad y demás derechos y garantías que asisten al condenado durante la ejecución de las mismas.
+
+II. Mantener, sustituir, modificar, revocar o hacer cesar la pena y las medidas de seguridad, así como las condiciones de su cumplimiento, en los términos de la presente Ley.
+
+III. Resolver el otorgamiento o denegación de cualquier beneficio relacionado con las penas o medidas de seguridad impuestas en la sentencia definitiva.
+
+IV. Librar las órdenes de detención que procedan en ejecución de sentencia.
+
+V. Ordenar la cesación de la pena o medida de seguridad una vez transcurrido el plazo fijado por la sentencia.
+
+VI. Resolver las peticiones o quejas que los internos formulen en relación con el régimen y el tratamiento penitenciario, en cuanto afecten sus derechos y beneficios.
+
+VII. Atender los reclamos que formulen los internos sobre sanciones disciplinarias, previo informe de la autoridad responsable y formular a esta última, en su caso, las recomendaciones que estime convenientes.
+
+VIII. Los Jueces de Ejecución de Penas deberán resolver en audiencia oral, todas las peticiones o planteamientos de las partes, relativos a la revocación de cualquier beneficio concedido a los sentenciados por cualquier autoridad jurisdiccional, y en aquellos casos en que deba resolverse sobre libertad anticipada, libertad preparatoria, remisión parcial de la pena o libertad definitiva.
+
+IX. Practicar el cómputo de las penas, así como su acumulación en los términos de la Ley de Ejecución de Penas y Medidas Judiciales.
+
+X. Conocer de los procedimientos penales iniciados con motivo de hechos cometidos previamente a la entrada en vigor del Código de Procedimientos Penales del Estado, aprobado en el año 2006, en los Distritos respectivos.
+
+XI. Las demás que otorgue la Ley.
 
 ###### ARTICULO 151.
 
@@ -2287,9 +2309,9 @@ III. Conocer de las providencias que sean competencia de los Jueces de Primera I
 
 IV. En materia familiar conocerán de todos aquellos asuntos en los que las prestaciones reclamadas puedan determinarse económicamente, aplicando la regla establecida por la fracción I de este precepto;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE FEBRERO DE 2013)</small>
 
-V. Conocer, en su caso, de los procedimientos penales que se instruyan por alguno de los siguientes delitos:
+V. Conocer, en su caso, de los procedimientos penales, así como de la ejecución de las penas y medidas de seguridad impuestas en los mismos, para este último efecto, serán considerados jueces de ejecución de penas, con las facultades legales inherentes a estos; exclusivamente en relación con los siguientes delitos:
 
 a) Variación del nombre o domicilio.
 
@@ -2367,7 +2389,7 @@ El Pleno del Supremo Tribunal de Justicia designará los lugares en que habrá J
 
 Los Juzgados de Paz se integrarán con un Juez, quien rendirá la protesta de ley ante el Juez Menor de la cabecera del Municipio de su adscripción. Los Jueces de Paz actuarán indistintamente con Secretario o con Testigos de Asistencia.
 
-(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 1994) (F. DE E., P.O. 4 DE FEBRERO DE 1995)
+(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 1994) (F. DE E., P.O. 4 DE FEBRERO DE 1995)
 
 ###### ARTICULO 167.
 
@@ -2679,7 +2701,7 @@ La misma regla que señala el párrafo anterior, se seguirá para el caso de las
 
 Los funcionarios y empleados del Poder Judicial serán responsables de las faltas oficiales en que incurran, independientemente de la responsabilidad penal o patrimonial que les pudiera resultar.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE ENERO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ENERO DE 2000)</small>
 
 ###### ARTICULO 196.
 
@@ -2857,7 +2879,7 @@ La autoridad que deba conocer y resolver las quejas, las desechará de plano cua
 
 El escrito de queja deberá presentarse dentro de diez días hábiles contados a partir de la consumación de los hechos que la fundamenten o en caso de hechos continuos, a partir del día siguiente en que cese su ejecución, salvo que la ley señale plazo distinto. Transcurrido el plazo, caducará el derecho del interesado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2003)</small>
 
 ###### ARTICULO 205.
 
@@ -2953,7 +2975,7 @@ Si la persona en contra de quien se interpuso la queja no resulta responsable de
 
 Cuando una queja se interponga sin fundamento y así se declare por la autoridad que conozca de ella o ninguna prueba se desahogue para justificar los hechos en que se fundamenta, se impondrá al quejoso y a su abogado, si está demostrada su intervención, una multa hasta de veinte veces el salario mínimo.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE OCTUBRE DE 2000)</small>
 
 ## TITULO NOVENO. DE LAS ADQUISICIONES, ARRENDAMIENTOS, CONTRATACION DE SERVICIO Y OBRA PUBLICA DEL PODER JUDICIAL
 
@@ -3001,7 +3023,7 @@ En todo caso, recabará por los medios que estime conducentes todos aquellos ele
 
 El Reglamento establecerá las bases para las adquisiciones, arrendamientos, contratación y prestación de servicios y obra pública, así como para la enajenación de todo tipo de bienes que se realice con recursos del Fondo Auxiliar para la Administración de Justicia.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 5 DE ENERO DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE ENERO DE 2000)</small>
 
 ### CAPITULO II. DEL PROCEDIMIENTO DE QUEJA PARA SANCIONAR LAS FALTAS
 
@@ -3045,7 +3067,7 @@ V.- Con las personas a las que se declare en estado de quiebra o suspensión de 
 
 VI.- Las demás que por cualquier causa se encuentren impedidas para ello por disposición de la ley.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE AGOSTO DE 1998)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE AGOSTO DE 1998)</small>
 
 ### CAPITULO III. DE LAS INCONFORMIDADES
 
@@ -3129,17 +3151,17 @@ EL PROCURADOR GENERAL DE JUSTICIA ENCARGADO DE LA SECRETARIA DE GOBIERNO POR MIN
 
 LIC. JOSE R. MILLER HERMOSILLO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 17 DE MAYO DE 1989.
 
-DECRETO No. 667-89-X-P.E.
+DECRETO No. 667-89-X-P.E., POR EL QUE SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 37 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA.
 
 ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación.
 
 P.O. 17 DE MAYO DE 1989.
 
-DECRETO No. 668-89-X-P.E.
+DECRETO No. 668-89-X-P.E., POR EL QUE SE REFORMAN LOS ARTÍCULOS 34, 50, FRACCIONES XIX Y XX, 55 FRACCIÓN XXII, 143, 150 FRACCIÓN IX Y 175 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA.
 
 ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -3247,15 +3269,15 @@ P.O. 14 DE JULIO DE 2004.
 
 P.O. 6 DE OCTUBRE DE 2004.
 
-DECRETO No. 1187/04 P.E.
+DECRETO No. 1187/04 P.E., POR EL QUE SE REFORMAN LOS ARTÍCULOS 39 Y 68 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA.
 
 ÚNICO.- El presente Decreto entrará al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 6 DE OCTUBRE DE 2004.
 
-DECRETO No. 1189/04 XVI P.E.
+DECRETO No. 1189/04 XVI P.E., POR EL QUE SE REFORMAN LOS ARTÍCULOS 88, 89, 90, 91, 92 Y 93 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE CHIHUAHUA.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3º DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE CHIHUAHUA.
 
 P.O. 9 DE MARZO DE 2005. REPUBLICADO P.O. 16 DE MARZO DE 2005.
 
@@ -3281,7 +3303,7 @@ Artículo Segundo. Derogación Tácita de Preceptos Incompatibles.- Quedan derog
 
 P.O. 9 DE DICIEMBRE DE 2006.
 
-DECRETO No. 691/06 I P.O.
+DECRETO No. 691/06 I P.O., POR EL QUE SE ADICIONA CON UN PÁRRAFO EL ARTÍCULO 150 TER DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -3289,7 +3311,7 @@ El presente artículo entrará en vigor el primero de enero de dos mil siete, si
 
 P.O. 9 DE DICIEMBRE DE 2006.
 
-DECRETO No. 692/06 I P.O.
+DECRETO No. 692/06 I P.O., LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE CHIHUAHUA.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3464,3 +3486,17 @@ El presente Decreto entrará en vigor a los quince días siguientes de su public
 ###### ARTÍCULO SEGUNDO.
 
 Aquellas causas en las que se haya dictado Auto de Apertura de Juicio Oral antes de la entrada en vigor del presente Decreto, serán conocidas por Tribunales Colegiados de Juicio Oral bajo las normas previstas con anterioridad para dichos Tribunales; lo mismo se observará para las Salas Penales en materia de recursos. Lo previsto en este artículo transitorio regirá igualmente en materia de extinción de dominio.
+
+P.O. 9 DE FEBRERO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los encargados de la ejecución de todas las sentencias firmes, dictadas en procedimientos penales relacionados con hechos anteriores y posteriores a la entrada en vigor del Código de Procedimientos Penales del Estado, aprobado en el año 2006, lo serán los jueces de Ejecución de Penas designados por el Pleno del Supremo Tribunal de Justicia del Estado, con la salvedad prevista para los Jueces Menores Mixtos.
+
+###### ARTÍCULO TERCERO.
+
+Todos los asuntos relacionados con la ejecución de penas y medidas de seguridad, que se encuentren en trámite al inicio de la entrada en vigor del presente Decreto, deberán remitirse sin dilación alguna al Juez de Ejecución de Penas al que corresponda legalmente el conocimiento de los mismos.
