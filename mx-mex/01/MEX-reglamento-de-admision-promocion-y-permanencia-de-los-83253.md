@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-admision-promocion-y-permanencia-de-los-83253"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-10-03"
-last_updated: "2011-10-03"
+last_updated: "2013-02-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83253&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO DE ADMISION, PROMOCION Y PERMANENCIA DE LOS ALUMNOS EN EL BACHILLERATO GENERAL A DISTANCIA POR COMPETENCIAS DEL INSTITUTO DE EDUCACION MEDIA SUPERIOR Y SUPERIOR A DISTANCIA DEL ESTADO DE MEXICO
 
-REGLAMENTO DE ADMISION, PROMOCION Y PERMANENCIA DE LOS ALUMNOS EN EL BACHILLERATO GENERAL A DISTANCIA POR COMPETENCIAS DEL INSTITUTO DE EDUCACION MEDIA SUPERIOR Y SUPERIOR A DISTANCIA DEL ESTADO DE MEXICO
+REGLAMENTO DE ADMISIÓN, PROMOCIÓN Y PERMANENCIA DE LOS ALUMNOS EN EL BACHILLERATO GENERAL A DISTANCIA POR COMPETENCIAS DEL INSTITUTO DE EDUCACIÓN MEDIA SUPERIOR Y SUPERIOR A DISTANCIA DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE ADMISIÓN, PROMOCIÓN Y PERMANENCIA DE LOS ALUMNOS EN EL BACHILLERATO GENERAL A DISTANCIA POR COMPETENCIAS DE LA UNIVERSIDAD DIGITAL DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 11 DE FEBRERO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: ABROGADO.
 
 Reglamento publicado en la Sección Segunda de la Gaceta del Gobierno del Estado de México, el lunes 3 de octubre de 2011.
 
@@ -294,3 +296,27 @@ LIC. BENJAMIN VALDES PLATA
 DIRECTOR GENERAL DEL INSTITUTO DE EDUCACION MEDIA SUPERIOR Y SUPERIOR A DISTANCIA DEL ESTADO DE MEXICO Y SECRETARIO EJECUTIVO DEL CONSEJO DIRECTIVO
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 11 DE FEBRERO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Reglamento en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO TERCERO.
+
+Se abroga el Reglamento de Admisión, Promoción y Permanencia de los Alumnos en el Bachillerato General a Distancia por Competencias del Instituto de Educación Media Superior y Superior a Distancia del Estado de México, publicado en el Periódico "Gaceta del Gobierno" el 3 de octubre de 2011.
+
+###### ARTÍCULO CUARTO.
+
+Los planes y programas que se apliquen a los estudiantes que se encuentran cursando los estudios de Bachillerato al entrar en vigor el presente Reglamento, se aplicarán hasta su conclusión.
+
+###### ARTÍCULO QUINTO.
+
+Los casos no contemplados en este Reglamento serán resueltos por la Subdirección Académica y/o el Departamento de Control Escolar.
