@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-responsabilidades-de-los-servidores-publicos-del-22753"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-12"
-last_updated: "2012-11-05"
+last_updated: "2013-02-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "AGU"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2012.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 5 DE NOVIEMBRE DE 2012 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 139 PUBLICADO EN EL P.O. DE 12 DE FEBRERO DE 2004.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2013.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2001.
 
@@ -489,7 +487,7 @@ Recibida por el Congreso del Estado la notificación de la declaratoria de la C�
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
 
-###### ARTÍCULO 68.
+###### ARTICULO 68.
 
 En todo lo no previsto en los procedimientos que se contemplan en los títulos Segundo y Cuarto de esta Ley, así como en la apreciación y valoración de las pruebas, se observarán, en lo conducente, las disposiciones contenidas en la Legislación Penal para el Estado de Aguascalientes.
 
@@ -1055,7 +1053,7 @@ También deberá manifestar los bienes de su cónyuge, concubina e hijos menores
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
 
-###### ARTÍCULO 116.
+###### ARTICULO 116.
 
 Para los efectos de esta Ley y de la Legislación Penal para el Estado de Aguascalientes, se considerarán como bienes adquiridos por los servidores públicos, todos aquellos de los que se conduzcan como dueños o de los que dispongan éstos, su cónyuge, concubina y sus dependientes económicos directos, salvo que acrediten legalmente que estos bienes los obtuvieron por otros medios lícitos ajenos al servicio público.
 
@@ -1182,3 +1180,15 @@ Dentro de los sesenta días siguientes al inicio de sus funciones, la Sala Admin
 ###### ARTÍCULO TERCERO.
 
 El proceso para la elección de dos Magistrados de la Sala Administrativa y Electoral, del Poder Judicial del Estado de Aguascalientes, que dio inicio con la Convocatoria emitida por el Consejo de la Judicatura Estatal, publicada en el Periódico Oficial del Estado el 23 de julio de 2012, se regirá hasta su conclusión por las normas vigentes hasta antes del presente Decreto.
+
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2013)</small>
+
+###### ARTÍCULO CUARTO.
+
+Los Magistrados integrantes del Supremo Tribunal de Justicia del Estado, cuyo nombramiento haya sido expedido con anterioridad a la entrada en vigencia del Decreto Número 243, no quedarán sujetos al proceso de reelección previsto por el Artículo 10 A, último párrafo, en relación al Artículo 10 de la Ley Orgánica del Poder Judicial, por lo que al concluir el período para el que fueron nombrados, podrán ser reelectos a través de la evaluación que de su desempeño realice el Consejo de la Judicatura Estatal y someta a la consideración del Congreso del Estado.
+
+P.O. 11 DE FEBRERO DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
