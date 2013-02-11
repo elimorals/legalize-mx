@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-responsabilidades-de-los-servidores-publicos-del-22753"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-12"
-last_updated: "2012-11-05"
+last_updated: "2013-02-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,23 @@ state: "AGU"
 ---
 # LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE AGUASCALIENTES
 
-LEY NUMERO 350 DE INGRESOS DEL MUNICIPIO DE COAHUITLÁN, DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, CORRESPONDIENTE AL EJERCICIO FISCAL DEL AÑO 2020
+LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2013.
 
-Ley publicada en el Número Extraordinario 522 de la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el martes 31 de diciembre de 2019.
+Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2001.
 
-> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO DE ESTE ORDENAMIENTO SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA QUE HA SIDO DECLARADO INVÁLIDO POR EL TRIBUNAL CONSTITUCIONAL.]</small>
+FELIPE GONZALEZ GONZALEZ, Gobernador Constitucional del Estado Libre y Soberano de Aguascalientes, a sus habitantes sabed:
+
+Que por el H. Congreso del Estado, se me ha comunicado lo siguiente:
+
+El H. Congreso del Estado en sesión extraordinaria celebrada hoy, tuvo a bien expedir el siguiente Decreto:
+
+"NUMERO 199
+
+La H. LVII Legislatura del Estado Libre y Soberano de Aguascalientes, en uso de las facultades que le conceden los Artículos 27, fracción I, 32 y 35 de la Constitución Política Local, en nombre del pueblo decreta:
+
+LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE AGUASCALIENTES
 
 ## TITULO PRIMERO
 
@@ -167,39 +177,9 @@ Para determinar la gravedad de la violación, el daño o el trastorno, se deber�
 
 En todos los casos, para establecer los criterios que determinen la gravedad de la responsabilidad del servidor público se considerarán los dictámenes o resoluciones precedentes emitidos en casos similares por la Comisión respectiva o el Pleno del Congreso, en su caso.
 
-###### Artículo 14.
+###### ARTICULO 14.
 
-Los derechos por expedición de certificados, constancias y otros servicios, se causarán y pagarán conforme a las cuotas siguientes:
-
-(NOTA: EL 8 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 105/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 9 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-I. CERTIFICADO O CERTIFICACIONES EXPEDIDOS POR FUNCIONARIOS O EMPLEADOS MUNICIPALES, INCLUYENDO LA BÚSQUEDA DE DATOS PARA EXPEDIRLOS, POR CADA CERTIFICADO, DE 0.50 A 1 UMA.
-
-(NOTA: EL 8 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 105/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 9 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-II. COPIAS DE DOCUMENTOS QUE OBREN EN LOS ARCHIVOS DE OFICINAS MUNICIPALES:
-
-a) POR HOJA ESCRITA A DOBLE ESPACIO EN AMBAS CARAS, 0.25 UMAS.
-
-b) POR HOJA QUE INDICA EL INCISO ANTERIOR, ESCRITA A UN ESPACIO POR AMBAS CARAS, 0.30 UMAS.
-
-c) EN LOS CASOS A QUE SE REFIEREN LOS INCISOS ANTERIORES, CUANDO SE ESCRIBA POR UNA SOLA CARA DE LA HOJA, 0.25 UMAS.
-
-EN EL CASO A QUE SE REFIERE ESTA FRACCIÓN, ADEMÁS DE LOS DERECHOS QUE ESTABLECEN LOS INCISOS QUE ANTECEDEN, SE COBRARÁ POR LA BÚSQUEDA DE LOS DOCUMENTOS DE LOS QUE DEBA SACARSE COPIA CUANDO EL INTERESADO NO PROPORCIONE LOS DATOS EXACTOS PARA SU LOCALIZACIÓN, POR CADA AÑO QUE COMPRENDA LA BÚSQUEDA, 0.25 UMAS.
-
-III. Evaluación de impacto ambiental, veinte UMAs.
-
-IV. Por solicitudes de información conforme a la Ley de Transparencia y Acceso a la Información Pública para el Estado:
-
-(NOTA: EL 8 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 105/2020, DECLARÓ LA INVALIDEZ DEL INCISO a) DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 9 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-a) POR COPIAS SIMPLES O IMPRESOS POR MEDIO DE DISPOSITIVO INFORMÁTICO, POR CADA HOJA TAMAÑO CARTA U OFICIO: 0.02 UMAS;
-
-b) Por copias certificadas distintas a las señaladas en las fracciones anteriores, por cada hoja o fracción: 0.02 UMAs; y
-
-(NOTA: EL 8 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 105/2020, DECLARÓ LA INVALIDEZ DEL INCISO c) DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 9 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-c) POR INFORMACIÓN GRABADA EN DISCO DE 3.5 PULGADAS O DISCO COMPACTO, POR COPIA: 0.03 UMAS
+El Titular del Poder Ejecutivo del Estado, los Diputados Locales, los Magistrados del Poder Judicial y, en su caso, los miembros del Consejo de la Judicatura local, sólo podrán ser sujetos de juicio político en los términos del Titulo Cuarto de la Constitución Política de los Estados Unidos Mexicanos por violaciones graves a la misma y a las leyes federales que de ella emanen, así como por el manejo indebido de fondos y recursos federales, pero en este caso la resolución del Congreso de la Unión será únicamente declarativa y se comunicará al Congreso del Estado para que, en ejercicio de sus atribuciones proceda en términos de lo previsto en la presente Ley.
 
 ###### ARTICULO 15.
 
@@ -507,7 +487,7 @@ Recibida por el Congreso del Estado la notificación de la declaratoria de la C�
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
 
-###### ARTÍCULO 68.
+###### ARTICULO 68.
 
 En todo lo no previsto en los procedimientos que se contemplan en los títulos Segundo y Cuarto de esta Ley, así como en la apreciación y valoración de las pruebas, se observarán, en lo conducente, las disposiciones contenidas en la Legislación Penal para el Estado de Aguascalientes.
 
@@ -1073,7 +1053,7 @@ También deberá manifestar los bienes de su cónyuge, concubina e hijos menores
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
 
-###### ARTÍCULO 116.
+###### ARTICULO 116.
 
 Para los efectos de esta Ley y de la Legislación Penal para el Estado de Aguascalientes, se considerarán como bienes adquiridos por los servidores públicos, todos aquellos de los que se conduzcan como dueños o de los que dispongan éstos, su cónyuge, concubina y sus dependientes económicos directos, salvo que acrediten legalmente que estos bienes los obtuvieron por otros medios lícitos ajenos al servicio público.
 
@@ -1200,3 +1180,15 @@ Dentro de los sesenta días siguientes al inicio de sus funciones, la Sala Admin
 ###### ARTÍCULO TERCERO.
 
 El proceso para la elección de dos Magistrados de la Sala Administrativa y Electoral, del Poder Judicial del Estado de Aguascalientes, que dio inicio con la Convocatoria emitida por el Consejo de la Judicatura Estatal, publicada en el Periódico Oficial del Estado el 23 de julio de 2012, se regirá hasta su conclusión por las normas vigentes hasta antes del presente Decreto.
+
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2013)</small>
+
+###### ARTÍCULO CUARTO.
+
+Los Magistrados integrantes del Supremo Tribunal de Justicia del Estado, cuyo nombramiento haya sido expedido con anterioridad a la entrada en vigencia del Decreto Número 243, no quedarán sujetos al proceso de reelección previsto por el Artículo 10 A, último párrafo, en relación al Artículo 10 de la Ley Orgánica del Poder Judicial, por lo que al concluir el período para el que fueron nombrados, podrán ser reelectos a través de la evaluación que de su desempeño realice el Consejo de la Judicatura Estatal y someta a la consideración del Congreso del Estado.
+
+P.O. 11 DE FEBRERO DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
