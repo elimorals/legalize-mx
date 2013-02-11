@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-poder-judicial-del-estado-de-aguascalientes-14
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-08-15"
-last_updated: "2012-08-27"
+last_updated: "2013-02-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2013.
 
 Ley publicada en el Suplemento al No. 33 del Periódico Oficial del Estado de Aguascalientes, el domingo 15 de agosto de 1993.
 
@@ -1822,3 +1822,15 @@ Dentro de los sesenta días siguientes al inicio de sus funciones, la Sala Admin
 ###### ARTÍCULO TERCERO.
 
 El proceso para la elección de dos Magistrados de la Sala Administrativa y Electoral, del Poder Judicial del Estado de Aguascalientes, que dio inicio con la Convocatoria emitida por el Consejo de la Judicatura Estatal, publicada en el Periódico Oficial del Estado el 23 de julio de 2012, se regirá hasta su conclusión por las normas vigentes hasta antes del presente Decreto.
+
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2013)</small>
+
+###### ARTÍCULO CUARTO.
+
+Los Magistrados integrantes del Supremo Tribunal de Justicia del Estado, cuyo nombramiento haya sido expedido con anterioridad a la entrada en vigencia del Decreto Número 243, no quedarán sujetos al proceso de reelección previsto por el Artículo 10 A, último párrafo, en relación al Artículo 10 de la Ley Orgánica del Poder Judicial, por lo que al concluir el período para el que fueron nombrados, podrán ser reelectos a través de la evaluación que de su desempeño realice el Consejo de la Judicatura Estatal y someta a la consideración del Congreso del Estado.
+
+P.O. 11 DE FEBRERO DE 2013.
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
