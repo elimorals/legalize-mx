@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2013-01-23"
+last_updated: "2013-02-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2013.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -5567,11 +5567,11 @@ XXIV. INSTRUMENTOS DE PROTECCIÓN CIVIL: Toda aquella información contenida en 
 
 XXV. FONDO DE CONTINGENCIA: Recursos destinados al apoyo de damnificados;
 
-XXVI. GRUPOS VOLUNTARIOS: Las organizaciones, asociaciones o instituciones que prestan sus servicios en actividades de protección civil de manera solidaria, sin recibir renumeración alguna;
+XXVI. GRUPOS VOLUNTARIOS: Las organizaciones, asociaciones o instituciones que prestan sus servicios en actividades de protección civil de manera solidaria, sin recibir renumeración (sic) alguna;
 
 XXVII. INSPECTOR HONORARIO: El ciudadano que sin tener función administrativa ni remuneración presta colaboración a la sociedad, en coordinación con las autoridades respectivas para el cumplimiento del presente Capítulo;
 
-XXVII. LEY: La Ley del Sistema Estatal de Protección Civil;
+XXVIII. LEY: La Ley del Sistema Estatal de Protección Civil;
 
 XXIX. MITIGACIÓN: Las medidas tomadas con anticipación al desastre y durante la emergencia, para reducir su impacto en la población, bienes y entorno;
 
@@ -5869,13 +5869,13 @@ XII. Expedir y modificar los acuerdos, instructivos, circulares y demás disposi
 
 XIII. Solicitar el auxilio de la fuerza pública cuando fuere necesario para hacer cumplir sus determinaciones sin necesidad de autorización previa; y
 
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-XIV. Llevar a cabo la identificación y delimitación de lugares o zonas de riesgo a través del dictamen técnico correspondiente; y
+XIV. Vigilar que en los establecimientos o los espectáculos se observe el cupo autorizado;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2006)</small>
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-XV. Las demás que le confieran otras leyes, decretos, reglamentos y acuerdos.
+XV. Solicitar y verificar que las salidas de emergencia estén libres de llaves, candados o cualquier otro objeto que pueda obstruir o bloquear las mismas, pudiendo liberar éstas en el momento de la verificación e inspección;
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -9115,7 +9115,9 @@ I.- COMERCIOS COMPLEMENTARIOS:
 
 93. AGENCIA DE AUTOS, REFACCIONES Y SERVICIOS
 
-94. AGENCIA DE AUTOS SEMINUEVOS
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2013)</small>
+
+94. COMPRA VENTA DE ORO, COBRE, MONEDAS Y METALES.
 
 95. AGENCIA DE AUTOS Y CAMIONES
 
@@ -9135,7 +9137,9 @@ I.- COMERCIOS COMPLEMENTARIOS:
 
 103. BAZAR DE ANTIGÜEDADES Y ARTESANÍAS
 
-104. BISUTERÍA
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2013)</small>
+
+104. JOYERÍA Y RELOJERÍA.
 
 105. BONETERÍA, CORSETERÍA y MERCERÍA
 
@@ -9681,7 +9685,9 @@ III. SERVICIOS:
 
 93. CASA DE CAMBIO
 
-94. COMPRA VENTA DE MONEDAS Y METALES
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2013)</small>
+
+94. COMPRA VENTA DE ORO, COBRE, MONEDAS Y METALES
 
 95. TRANSPORTE DE VALORES
 
@@ -9701,7 +9707,9 @@ III. SERVICIOS:
 
 103. INSTALACIÓN DE GAS Y ACCESORIOS
 
-104. JOYERÍA, RELOJERÍA Y COMPRA VENTA DE ORO
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2013)</small>
+
+104. JOYERÍA Y RELOJERÍA
 
 105. LAVADO, PULIDO Y ENCERADO DE AUTOS EN FORMA MANUAL
 
@@ -9887,6 +9895,10 @@ III. SERVICIOS:
 
 196. TIRADERO DE BASURA
 
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2013)</small>
+
+197. CASA DE EMPEÑO.
+
 DE LAS LICENCIAS DE FUNCIONAMIENTO
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
@@ -9933,9 +9945,9 @@ V. Pago de derechos que procedan, conforme a lo establecido en la Ley de Ingreso
 
 La Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes, y en su caso, la Unidad de Normatividad y Regulación Comercial entregarán los formatos a que se refiere el presente artículo, no pudiendo solicitar requisito adicional alguno a los expresamente mencionados en el presente artículo, de lo contrario incurrirá en responsabilidad administrativa.
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2013)</small>
 
-La actualización de las licencias a que se refiere el presente Capítulo, se realizarán siguiendo el calendario que establezca la Tesorería Municipal, con la aprobación del Cabildo.
+La actualización de las licencias a que se refiere el presente Capítulo, se realizarán siguiendo el calendario que establezca la Tesorería Municipal, con la aprobación del Cabildo. Por lo que respecta a los establecimientos que se dediquen a la compra venta de oro, cobre, monedas y metales, casas de empeño y personas físicas o sociedades mercantiles no regulados por Leyes Financieras, que en forma habitual o profesional realicen contrataciones u operaciones de mutuo con interés y garantía prendaria, deberán actualizar la licencia anualmente ante la Tesorería Municipal, además de refrendar el software de seguridad debidamente instalado, ante la compañía correspondiente encargada de operar el sistema.
 
 > <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
 
@@ -9945,9 +9957,21 @@ Para la reposición de licencia de funcionamiento por extravío o destrucción p
 
 El pago de derechos que no este contemplado en el presente artículo estará sujeto a lo dispuesto en el Código Fiscal y Presupuestario para el Municipio de Puebla y la Ley de Ingresos del Municipio vigente.
 
-(ADICIONADO, P.O. 28 DE MAYO DE 2010) (F. DE E., P.O. 2 DE JUNIO DE 2010)
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2013)</small>
 
-Para el caso de los establecimientos señalados en el artículo 628 fracción III, numerales 86, 87, 88, 89, 90, 91, 92, 93, 94, 95 y 96 así como las personas físicas y demás personas morales, cuando realicen actividades previstas en las leyes relativas al Sistema Financiero, deberán presentar además de lo anterior, copia certificada de la autorización vigente para la constitución y operación, expedida por la Comisión Nacional Bancaria y de Valores o por la autoridad competente.
+Para el caso de los establecimientos señalados en el artículo 628 fracción III numerales 86, 87, 88, 89, 90, 91, 92, 93, 95 y 96 deberán presentar además de lo anterior, copia certificada de la autorización vigente para la constitución y operación, expedida por la Comisión Nacional Bancaria y de Valores.
+
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2013)</small>
+
+Será aplicable a los establecimientos señalados en el artículo 628 fracción III numerales 94 y 197, así como a las personas físicas o sociedades mercantiles no regulados por Leyes Financieras, que en forma habitual o profesional realicen contrataciones u operaciones de mutuo con interés y garantía prendaria, presentar además de lo anterior, copia simple, así como el original para su cotejo del contrato de adhesión, debidamente registrado ante la Procuraduría Federal del Consumidor.
+
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2013)</small>
+
+Para el caso del establecimiento señalado en el artículo 628 fracción III numeral 197, así como a las personas físicas o sociedades mercantiles no regulados por Leyes Financieras, que en forma habitual o profesional realicen contrataciones u operaciones de mutuo con interés y garantía prendaria deberán presentar en el término de cinco días hábiles posteriores al de la aprobación de la solicitud, póliza de seguro otorgada por compañía aseguradora autorizada, o en su caso, fianza cuyo monto asegurado sea equivalente a cuatro mil veces el salario mínimo vigente en el Estado de Puebla, o el suficiente para garantizar los daños y perjuicios que pudiera ocasionarse a los bienes empeñados/otorgados en prenda, misma que en ningún caso podrá ser menor a la cantidad antes estipulada; dicha póliza deberá ser refrendada anualmente, debiendo presentar copia simple de la misma para constancia.
+
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2013)</small>
+
+Para la actualización de la licencia de los establecimientos señalados en el artículo 628 fracción III numeral 197, así como a las personas físicas o sociedades mercantiles no regulados por Leyes Financieras, que en forma habitual o profesional realicen contrataciones u operaciones de mutuo con interés y garantía prendaria, además deberán presentar Acta de Visita emitida por la Unidad de Normatividad y Regulación Comercial en la que se desprenda que cuenta con el registro de pignorantes correspondiente al ejercicio fiscal inmediato anterior, cuyo número deberá coincidir con el número de contratos de adhesión expedidos durante el mismo, los cuales se presentarán en copia simple ante la Tesorería Municipal únicamente para su cotejo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 2008)</small>
 
@@ -9972,6 +9996,10 @@ Contra el acto que emita el Jefe del Departamento de Licencias y Padrón de Cont
 > <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
 
 De no otorgarse la licencia de funcionamiento la Tesorería Municipal hará la devolución al solicitante del pago de derechos a través de las cajas a su cargo. Los licenciatarios estarán obligados al pago de los gastos de trámite de la licencia negada, pagando el 2% sobre el importe total por el concepto de la misma.
+
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2013)</small>
+
+El Departamento de Licencias y Padrón de Contribuyentes a través de las instancias municipales legalmente establecidas para ello, está obligada a publicar en el sitio web del Ayuntamiento, durante el mes de febrero de cada año, la lista actualizada de las casas de empeño y compra venta de oro, cobre, monedas y metales, que cuentan con la autorización vigente de apertura para ejercer dicha actividad mercantil.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -10064,6 +10092,14 @@ e) Pago de derechos que procedan, conforme a lo establecido en la Ley de Ingreso
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
 La Tesorería Municipal a través del Departamento de Licencias y Padrón de Contribuyentes y en su caso, la Unidad de Normatividad y Regulación Comercial, entregará los formatos a que se refiere el presente artículo, no pudiendo solicitar requisito adicional alguno a los expresamente mencionados en el presente artículo, de lo contrario incurrirá en responsabilidad administrativa.
+
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2013)</small>
+
+###### Artículo 632 Bis.
+
+Para el debido funcionamiento de los establecimientos señalados en el artículo 628 fracción III numerales 94 y 197, así como a las personas físicas o sociedades mercantiles no regulados por Leyes Financieras, que en forma habitual o profesional realicen contrataciones u operaciones de mutuo con interés y garantía prendaria, deberán contar en el término de treinta días naturales posteriores a la expedición de la licencia de funcionamiento con los dispositivos y material informático y tecnológico que al efecto señale la autoridad municipal mediante el Manual de Operación que al efecto expedirá la Secretaría de Administración y Tecnologías de la Información o la que realice estas funciones, en el que se especificará la forma en que se instalarán las cámaras de seguridad y su operación; las formas en que se hará el registro y transferencia de la información requerida, situación que constatará la Unidad de Normatividad y Regulación Comercial, en caso de no contar con lo anterior se cancelará la licencia otorgada.
+
+El licenciatario deberá, solicitar al cliente copia simple de su credencial para votar con fotografía, copia simple del comprobante de domicilio el cual tendrá una antigüedad máxima de dos meses, así como tomar una fotografía del que solicite la transacción mercantil y del bien mueble materia de la transacción. Asimismo colocar en lugar visible uno o varios avisos que lleven la leyenda "VENDER, COMPRAR O EMPEÑAR ARTÍCULOS DE PROCEDENCIA ILÍCITA, CONSTITUYE UN DELITO DEL FUERO COMÚN, QUE SE CASTIGA CON CÁRCEL".
 
 > <small>(REFORMADO, P.O. 27 DE MARZO DE 2006)</small>
 
@@ -10165,6 +10201,42 @@ III. Clausura definitiva y cancelación de la licencia.
 
 Para quienes permitan a los vendedores que comercializan en la vía pública, vender sus productos dentro de sus instalaciones serán sancionados por la Tesorería Municipal con clausura definitiva.
 
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2013)</small>
+
+###### Artículo 638 Ter.
+
+Las infracciones cometidas por establecimientos que se dediquen a la compra venta de oro, cobre, monedas y metales, casas de empeño y personas físicas o sociedades mercantiles no regulados por Leyes Financieras, que en forma habitual o profesional realicen contrataciones u operaciones de mutuo con interés y garantía prendaria, serán sancionadas con:
+
+I. Multa desde doscientos cincuenta hasta ochocientos salarios mínimos vigentes en el Estado de Puebla;
+
+II. Cancelación de la licencia; y
+
+III. Clausura temporal o definitiva.
+
+A. Sin perjuicio de las responsabilidades de orden penal que pudieran originarse, se impondrá multa de doscientos cincuenta a trescientos días de salario mínimo vigente en el Estado de Puebla y/o la clausura temporal conforme a lo establecido en el artículo 638 del presente Capítulo, cuando:
+
+I. El licenciatario omita anexar al contrato de adhesión, los documentos que amparen la identidad del pignorante y los demás requisitos señalados en el presente Capítulo;
+
+II. El licenciatario solicite extemporáneamente la revalidación de la licencia de funcionamiento; y
+
+III. El licenciatario no actualice los dispositivos y material tecnológico que al efecto señale el Manual de Operaciones a que se hace referencia en el artículo 632 Bis.
+
+B. Se impondrá multa de setecientos cincuenta a ochocientos días de salario mínimo vigente en el Estado de Puebla y la clausura temporal conforme a lo establecido en el artículo 638 del presente Capítulo, cuando:
+
+I. El licenciatario acumule dos multas por la misma causa dentro de un ejercicio fiscal.
+
+C. Se sancionará con cancelación de la licencia y/o clausura definitiva por las causas siguientes:
+
+I. Al autorizado que acumule tres sanciones de multa prevista en el Apartado A del presente artículo dentro de un ejercicio fiscal;
+
+II. Una persona física o moral haga funcionar un establecimiento mercantil cuyo objeto sea el manifestado en el presente, sin contar con la licencia de funcionamiento respectiva;
+
+III. Al licenciatario que cometa acciones fraudulentas por motivo de las actividades reguladas por las leyes respectivas, previa resolución jurisdiccional que así lo determine;
+
+IV. Al licenciatario que sin causa justificada suspenda las operaciones del establecimiento al público por más de treinta días naturales; y
+
+V. Al licenciatario que incumpla con las características de la licencia otorgada.
+
 ###### Artículo 639.
 
 Para la aplicación de las sanciones a que se refiere el artículo anterior se tomarán en consideración:
@@ -10231,7 +10303,7 @@ XVII. Producto cárnico: Se entenderá por éste lo contemplado en el artículo 
 
 XVIII. Reinspección: Revisión para constatar el cumplimiento de las disposiciones de este Código y demás ordenamientos legales aplicables en la materia; de las canales o subproductos que ya fueron sujetos a inspección por un rastro distinto del Municipal;
 
-XIX. Resello: Sello que se coloca con la leyenda “Inspeccionado y Aprobado” en la carne comercializada en el Municipio de Puebla que presenta alguna alteración en el sello original, como estar borroso o presumirse de dudosa procedencia; y
+XIX. Resello: Sello que se coloca con la leyenda "Inspeccionado y Aprobado" en la carne comercializada en el Municipio de Puebla que presenta alguna alteración en el sello original, como estar borroso o presumirse de dudosa procedencia; y
 
 XX. Subproducto: Derivado del producto cárnico, como jamón, tocino, queso de puerco, pastel de pollo, longaniza, chorizo, mortadela, salami, carne adobada, carne seca, cecina, tasajo, chicharrón, frituras, toda clase de embutidos, y cualquier otro semejante.
 
@@ -10451,9 +10523,9 @@ DEL TRANSPORTE DE LOS PRODUCTOS CÁRNICOS Y/O SUBPRODUCTOS
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
-Artículo 639 Septdecies.- El transporte de productos cárnicos y/o subproductos, estará regulado por lo contemplado en el Capítulo 23 referente al “Servicio de Transporte del Producto Cárnico y sus Derivados”, por las normas NOM-009-ZOO-1994, NOM-024-ZOO-1995 y NOM-194-SSA1-2004, así como las normas oficiales vigentes y demás disposiciones legales aplicables.
+Artículo 639 Septdecies.- El transporte de productos cárnicos y/o subproductos, estará regulado por lo contemplado en el Capítulo 23 referente al "Servicio de Transporte del Producto Cárnico y sus Derivados", por las normas NOM-009-ZOO-1994, NOM-024-ZOO-1995 y NOM-194-SSA1-2004, así como las normas oficiales vigentes y demás disposiciones legales aplicables.
 
-Para el caso de que el transporte provenga de un Rastro Tipo Inspección Federal y/o en él se trasladen productos cárnicos y/o subproductos amparados con la certificación “México Calidad Suprema”, los inspectores municipales sólo verificarán que la documentación correspondiente se encuentre en orden.
+Para el caso de que el transporte provenga de un Rastro Tipo Inspección Federal y/o en él se trasladen productos cárnicos y/o subproductos amparados con la certificación "México Calidad Suprema", los inspectores municipales sólo verificarán que la documentación correspondiente se encuentre en orden.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
@@ -24621,7 +24693,7 @@ Los productos cárnicos que se transporten en el Municipio, deberán estar ampar
 
 El producto cárnico que se transporte sin cumplir con lo dispuesto en el artículo anterior será decomisado por la autoridad municipal y sometido a inspección sanitaria; adoptando las medidas señaladas en el artículo 1637 Bis del presente Código.
 
-Para el caso de que el transporte provenga de un Rastro Tipo Inspección Federal y/o en él se trasladen productos cárnicos y/o subproductos amparados con la certificación "México Calidad Suprema", los inspectores municipales sólo verificarán que la documentación correspondiente se encuentre en orden.
+Para el caso de que el transporte provenga de un Rastro Tipo Inspección Federal y/o en él se trasladen productos cárnicos y/o subproductos amparados con la certificación “México Calidad Suprema”, los inspectores municipales sólo verificarán que la documentación correspondiente se encuentre en orden.
 
 > <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
@@ -28871,7 +28943,7 @@ V. Los experimentos se realicen en animales criados específicamente para tal fi
 
 Una vez que el experimentador elabore el expediente con el que justifique el experimento en términos del artículo anterior, deberá agotar el procedimiento siguiente:
 
-I(REFORMADA, P.O. 20 DE ABRIL DE 2012)
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2012)</small>
 
 I. Presentar solicitud y expediente de justificación por escrito ante la Secretaría;
 
@@ -29203,7 +29275,7 @@ a) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2008)
 
 b) Sanciones que se determinarán de la siguiente manera:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 > <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2012)</small>
 
@@ -31321,7 +31393,7 @@ X. Empresa: Persona moral legalmente constituida, y que cuenta con medios propio
 
 XI. Promotor: Persona física que deberá contar con licencia legalmente expedida por la Comisión que autorice dentro del Municipio permanente o eventualmente, a promover espectáculos de Box y Lucha Libre profesional, considerados como empleados de las empresas, y en consecuencia éstas serán responsables directas de cualquier falta o infracción que cometan;
 
-XII. Representante: Persona física que deberá contar con licencia legalmente expedida por la Comisión que les autorice actuar dentro del Municipio, y que tiene bajo su responsabilidad el impulso e imagen de un boxeador o luchador con la finalidad de buscar el mejor desempeño deportivo y que redtiúe en beneficios económicos para los mismos;
+XII. Representante: Persona física que deberá contar con licencia legalmente expedida por la Comisión que les autorice actuar dentro del Municipio, y que tiene bajo su responsabilidad el impulso e imagen de un boxeador o luchador con la finalidad de buscar el mejor desempeño deportivo y que resditúe en beneficios económicos para los mismos;
 
 XIII. Manejador: Persona física que deberá contar con licencia legalmente expedida por la Comisión que le autorice actuar dentro del Municipio, y que será la encargada de cuidar la forma y condición física de los boxeadores y luchadores, proporcionándoles el adiestramiento técnico necesario;
 
@@ -31529,7 +31601,7 @@ Son facultades y obligaciones de la Comisión:
 
 I. Vigilar y cuidar el estricto cumplimiento del presente Capítulo, observando en todo momento, que no se violen los derechos de quienes intervienen, en la presentación y preparación de un espectáculo de Box y Lucha Libre;
 
-II. Imponer las sanciones correspondientes con relación al incumplimiento o faIta de observancia del presente Capítulo, fundando y motivando la resolución por la que se determina la sanción mencionada;
+II. Imponer las sanciones correspondientes con relación al incumplimiento o falta de observancia del presente Capítulo, fundando y motivando la resolución por la que se determina la sanción mencionada;
 
 III. Recibir y decidir sobre las protestas que le presenten con relación de las diversas funciones o programas, otorgando el visto bueno al Departamento de Espectáculos del Municipio, para los efectos que corresponda;
 
@@ -31683,7 +31755,7 @@ En funciones de lucha libre, podrá autorizar el Comisionado en turno la substit
 
 ###### Artículo 2134 Ter.
 
-No podrá ser cambiada la pelea estrella o alguno de los boxeadores que participen en la misma después de aprobado el programa por la Comisión, y de que este se haya hecho del conocimiento del público, por anuncios, programas de mano o por cualquier otro medio publicitario.
+No podrá ser cambiada la pelea o estrella alguno de los boxeadores que participen en la misma después de aprobado el programa por la Comisión, y de que este se haya hecho del conocimiento del público, por anuncios, programas de mano o por cualquier otro medio publicitario.
 
 Solamente en casos de excepción, y por circunstancias perfectamente justificadas, podrán autorizarse los cambios a que se refiere él párrafo anterior, con setenta y dos horas de anticipación contadas a partir de aquélla en que deba efectuarse el peso de los boxeadores que van a tomar parte en la función correspondiente.
 
@@ -32679,7 +32751,7 @@ Súper
 
 Pluma 56.700 57.200 58.500
 
-Lijero 59.000 59.500 60.800
+Ligero 59.000 59.500 60.800
 
 Súper
 
@@ -33521,7 +33593,7 @@ Los Programas de Mejora Regulatoria son instrumentos de ejecución de las accion
 
 ###### Artículo 2270.
 
-Para la consecución de las metas establecidas en los Programas de Mejora Regulatoria podrán establecerse acuerdos de coordinación entre la autoridades responsables de su ejecución, así como convenios de colaboración con los sectores social y privado, en los que se establecerán los aspectos esenciales para la elaboración o cumplimiento de sus fines.
+Para la consecución de las metas establecidas en los Programas de Mejora Regulatoria podrán establecerse acuerdos de coordinación entre las autoridades responsables de su ejecución, así como convenios de colaboración con los sectores social y privado, en los que se establecerán los aspectos esenciales para la elaboración o cumplimiento de sus fines.
 
 > <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
@@ -33623,7 +33695,7 @@ Esta distinción consiste en la copia de los documentos primigenios de la fundac
 
 La Real Provisión otorgó su Escudo de Armas a la Ciudad de los Ángeles, expedida en Valladolid, el 20 de julio de 1538.
 
-Contiene una orla con una leyenda en latín que dice: ANGELlS SUIS DEUS MANDAVlT DE TE UT CUSTODlANT TE IN OMNIBUS VIIS TUlS, cuya traducción es: Dios mandó a sus Ángeles para que te guarden o custodien en todos tus caminos.
+Contiene una orla con una leyenda en latín que dice: ANGELIS SUIS DEUS MANDAVIT DE TE UT CUSTODIANT TE IN OMNIBUS VIIS TUIS, cuya traducción es: Dios mandó a sus Ángeles para que te guarden o custodien en todos tus caminos.
 
 > <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
 
@@ -34673,7 +34745,7 @@ DÉCIMO PRIMERO. Todos los Servidores de la Administración Pública Municipal C
 
 DÉCIMO SEGUNDO. Se derogan las disposiciones que se opongan al presente Acuerdo.
 
-> <small>N. DE E. DEBIDO A SU IMPORTANCIA, SE TRANSCRIBE EL DICTAMEN DEL ACUERDO POR EL QUE SE MODIFICA EL PRESENTE CODIGO.</small>
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA, SE TRANSCRIBE EL DICTAMEN DEL ACUERDO POR EL QUE SE MODIFICA EL PRESENTE CÓDIGO.</small>
 
 Por todo lo antes expuesto y debidamente fundado, sometemos a la Consideración de este Cuerpo Edilicio, para su discusión y aprobación, el siguiente:
 
@@ -34687,7 +34759,7 @@ TERCERO.- Se Instruye al Presidente Municipal y al Secretario del Honorable Ayun
 
 P.O. 3 DE MAYO DE 2006.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL FEDERAL VIGENTE.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL FEDERAL VIGENTE.
 
 P.O. 18 DE OCTUBRE DE 2006.
 
@@ -34757,7 +34829,7 @@ SEGUNDO.- Se derogan todas las disposiciones en contrario al presente Dictamen.
 
 P.O. 23 DE MAYO DE 2007.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE FEDERAL.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE FEDERAL.
 
 P.O. 22 DE JUNIO DE 2007.
 
@@ -34857,7 +34929,7 @@ SEGUNDO. Se derogan las disposiciones que se opongan al presente Dictamen.
 
 P.O. 25 DE MAYO DE 2009.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL FEDERAL VIGENTE.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL FEDERAL VIGENTE.
 
 P.O. 30 DE OCTUBRE DE 2009.
 
@@ -34951,7 +35023,7 @@ SEGUNDO. Se derogan las disposiciones que se opongan a lo establecido en las ref
 
 P.O. 23 DE SEPTIEMBRE DE 2011.
 
-LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE FEDERAL.
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE FEDERAL.
 
 P.O. 5 DE OCTUBRE DE 2011.
 
@@ -35028,6 +35100,20 @@ P.O. 2 DE ENERO DE 2013.
 P.O. 23 DE ENERO DE 2013.
 
 ÚNICO.- El presente entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE FEBRERO DE 2013.
+
+PRIMERO.- El presente Dictamen entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan a lo establecido en las reformas y adiciones contenidas en el presente Dictamen.
+
+TERCERO.- La Tesorería Municipal, contará con 60 días naturales a partir de la entrada en vigor del presente Dictamen, para hacer las adecuaciones jurídico-administrativas correspondientes, que permitan el correcto funcionamiento del mismo.
+
+CUARTO.- Las casas de empeño, de compra venta de oro, cobre, monedas y metales; y personas físicas, o sociedades mercantiles no regulados por Leyes Financieras, que en forma habitual o profesional realicen contrataciones u operaciones de mutuo con interés y garantía prendaria ya instaladas y en funcionamiento en el Municipio de Puebla, con anterioridad al presente Dictamen, deberán cumplir con dichas disposiciones, en un plazo no mayor a 90 días naturales de la entrada en vigor del mismo. Independiente del plazo al que se ha hecho referencia contarán con una prórroga adicional de 30 días naturales para cumplir en específico con la presentación de la póliza de seguro o fianza referida en las presentes reformas y adiciones.
+
+QUINTO.- Los licenciatarios que tengan vigente la licencia de joyería y relojería y compra venta de oro; compra y venta de monedas y metales; y otros servicios financieros (casas de empeño) tendrán 90 días naturales para modificar su licencia de funcionamiento de conformidad con las presentes reformas, derogaciones y adiciones. En caso de no hacerlo se aplicará las sanciones establecidas por el artículo 638 Ter del Código Reglamentario para el Municipio de Puebla.
+
+SEXTO.- La Secretaría de Administración y Tecnologías de la Información, elaborará el Manual de Operación al que se hace referencia en el artículo 632 Bis, en un plazo no mayor a 30 días naturales a partir de la publicación de las presentes reformas, adiciones y derogaciones en el Periódico Oficial del Estado.
 
 ## [N. DE E. TRANSITORIOS DE LA “MODIFICACIÓN AL ESTATUTO ORGÁNICO DEL SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA, PUBLICADO EL 5 DE DICIEMBRE DE 2019”.]
 
