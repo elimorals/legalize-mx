@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-la-procuraduria-estatal-de-proteccion-al-ambiente-29297"
 country: "mx"
 rank: "ley"
 publication_date: "2003-03-10"
-last_updated: "2012-08-27"
+last_updated: "2013-02-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29297&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "AGU"
 ---
 # LEY DE LA PROCURADURIA ESTATAL DE PROTECCION AL AMBIENTE, DEL ESTADO DE AGUASCALIENTES
 
-LEY DE LA PROCURADURÍA ESTATAL DE PROTECCIÓN AL AMBIENTE
+LEY DE LA PROCURADURÍA ESTATAL DE PROTECCIÓN AL AMBIENTE DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2013.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 10 de marzo de 2003.
 
@@ -544,3 +544,15 @@ Dentro de los sesenta días siguientes al inicio de sus funciones, la Sala Admin
 ###### ARTÍCULO TERCERO.
 
 El proceso para la elección de dos Magistrados de la Sala Administrativa y Electoral, del Poder Judicial del Estado de Aguascalientes, que dio inicio con la Convocatoria emitida por el Consejo de la Judicatura Estatal, publicada en el Periódico Oficial del Estado el 23 de julio de 2012, se regirá hasta su conclusión por las normas vigentes hasta antes del presente Decreto.
+
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2013)</small>
+
+###### ARTÍCULO CUARTO.
+
+Los Magistrados integrantes del Supremo Tribunal de Justicia del Estado, cuyo nombramiento haya sido expedido con anterioridad a la entrada en vigencia del Decreto Número 243, no quedarán sujetos al proceso de reelección previsto por el Artículo 10 A, último párrafo, en relación al Artículo 10 de la Ley Orgánica del Poder Judicial, por lo que al concluir el período para el que fueron nombrados, podrán ser reelectos a través de la evaluación que de su desempeño realice el Consejo de la Judicatura Estatal y someta a la consideración del Congreso del Estado.
+
+P.O. 11 DE FEBRERO DE 2013.
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
