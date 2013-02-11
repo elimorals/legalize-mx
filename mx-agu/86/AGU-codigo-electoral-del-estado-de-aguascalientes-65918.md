@@ -4,7 +4,7 @@ identifier: "AGU-codigo-electoral-del-estado-de-aguascalientes-65918"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-01-26"
-last_updated: "2012-08-27"
+last_updated: "2013-02-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65918&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO ELECTORAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2013.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Aguascalientes, el jueves 26 de enero de 2009.
 
@@ -5703,6 +5703,12 @@ Dentro de los sesenta días siguientes al inicio de sus funciones, la Sala Admin
 
 El proceso para la elección de dos Magistrados de la Sala Administrativa y Electoral, del Poder Judicial del Estado de Aguascalientes, que dio inicio con la Convocatoria emitida por el Consejo de la Judicatura Estatal, publicada en el Periódico Oficial del Estado el 23 de julio de 2012, se regirá hasta su conclusión por las normas vigentes hasta antes del presente Decreto.
 
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2013)</small>
+
+###### ARTÍCULO CUARTO.
+
+Los Magistrados integrantes del Supremo Tribunal de Justicia del Estado, cuyo nombramiento haya sido expedido con anterioridad a la entrada en vigencia del Decreto Número 243, no quedarán sujetos al proceso de reelección previsto por el Artículo 10 A, último párrafo, en relación al Artículo 10 de la Ley Orgánica del Poder Judicial, por lo que al concluir el período para el que fueron nombrados, podrán ser reelectos a través de la evaluación que de su desempeño realice el Consejo de la Judicatura Estatal y someta a la consideración del Congreso del Estado.
+
 P.O. 27 DE AGOSTO DE 2012.
 
 DECRETO No. 244 POR EL QUE SE MODIFICAN LOS ARTÍCULOS 4º; 8º; 13; 20; 21; 23; 26; 27; 29; 35; 36; 38; 39; 40; 41; 45; 46; 49; 53; 59; 60; 61; 63; 64; 67; 68; 73; 74; 77; 78; 79; 80; 83; 92; 95; 96; 97; 99; 100; 111; 113; 118; 125; 127; 135; 136; 142; 147; 151; 174; 186; 187; 192; 204; 206; 209; 212; 215; 222; 225; 230; 236; 239; 243; 259; 272; 273; 277; 278; 280; 286; 292; 294; 302; 313; 320; 322; 323; 324; 325; 326; 328; 329; 346; 351 Y 369 DEL CÓDIGO ELECTORAL DEL ESTADO DE AGUASCALIENTES.
@@ -5710,3 +5716,9 @@ DECRETO No. 244 POR EL QUE SE MODIFICAN LOS ARTÍCULOS 4º; 8º; 13; 20; 21; 23;
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 11 DE FEBRERO DE 2013.
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
