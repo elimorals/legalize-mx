@@ -4,7 +4,7 @@ identifier: "COA-ley-de-fiscalizacion-superior-para-el-estado-de-coahuila-de-565
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-06"
-last_updated: "2009-10-23"
+last_updated: "2013-02-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56565&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 LEY DE FISCALIZACION SUPERIOR PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE OCTUBRE DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO, DEL DECRETO NÚMERO 172 POR EL QUE SE EXPIDE LA LEY DE FISCALIZACIÓN SUPERIOR PARA EL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADA EN LA PRIMERA SECCIÓN DEL P.O. DE 12 DE FEBRERO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 6 de julio de 2007.
 
@@ -886,3 +888,15 @@ TERCERO. Se derogan todas las disposiciones legales y reglamentarias que se opon
 CUARTO. Las disposiciones del presente Decreto serán obligatorias para los actos de fiscalización superior relativos a la cuenta pública 2008, por lo tanto el informe del resultado correspondiente a dicho periodo, se presentará a más tardar el 30 de noviembre de este año.
 
 QUINTO. Para el año 2009, el informe de avance de gestión financiera semestral a que se refiere este Decreto, se integrará con los informes de gestión financiera correspondientes al primero y segundo cuatrimestres del mismo año.
+
+P.O. 12 DE FEBRERO DE 2013.
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Gobierno del Estado, y su entrada en vigor será el día 1° de abril del 2013.
+
+SEGUNDO. Se abroga la Ley de Fiscalización Superior para el Estado de Coahuila de Zaragoza, publicada en el Periódico Oficial del Gobierno del Estado el 06 de julio de 2007 y se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+TERCERO. Los procedimientos administrativos y los asuntos que a la entrada en vigor de la presente ley se encuentren en trámite, continuarán su desarrollo conforme a la ley que se abroga.
+
+CUARTO. La Auditoría Superior deberá adecuar su reglamento interior conforme a las disposiciones de esta Ley, en un plazo no mayor a 180 días naturales contados a partir de la publicación de la misma.
+
+QUINTO. La cuenta pública correspondiente al ejercicio fiscal del año 2012, se presentará a mas tardar el 10 de abril del año 2013.
