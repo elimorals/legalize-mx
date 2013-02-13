@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-desarrollo-social-90946
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-01-11"
-last_updated: "2013-01-11"
+last_updated: "2013-02-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90946&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MOR"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO SOCIAL
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE FEBRERO DE 2013 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SOCIAL DEL ESTADO DE MORELOS
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 13 DE FEBRERO DE 2013.</small>
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el viernes 11 de enero de 2013.
 
@@ -743,9 +743,11 @@ La o el titular de la Secretaría, respetando los términos de ley, podrá nombr
 
 ### CAPÍTULO X. CUMPLIMIENTO Y APLICACIÓN DE SANCIONES
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE FEBRERO DE 2013 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 13 DE FEBRERO DE 2013)</small>
 
-Artículo 33 (SIC). Los servidores públicos de la Secretaría serán responsables de ejercer, cumplir y vigilar las atribuciones y obligaciones en el ámbito de su respectiva competencia, el contenido del presente Reglamento y demás ordenamientos legales aplicables.
+###### Artículo 31.
+
+Los servidores públicos de la Secretaría serán responsables de ejercer, cumplir y vigilar las atribuciones y obligaciones en el ámbito de su respectiva competencia, el contenido del presente Reglamento y demás ordenamientos legales aplicables.
 
 ###### Artículo 32.
 
