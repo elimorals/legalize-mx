@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-interior-de-la-secretaria-de-desarrollo-71149"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-04"
-last_updated: "2009-11-04"
+last_updated: "2013-02-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71149&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO AGROPECUARIO
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO AGROPECUARIO
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO AGROPECUARIO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DEL CAMPO DEL ESTADO DE ZACATECAS, PUBLICADO EN EL P.O. DE 13 DE FEBRERO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 4 de noviembre de 2009.
 
@@ -702,3 +704,17 @@ CARLOS PINTO NÚÑEZ
 EL SECRETARIO DE DESARROLLO AGROPECUARIO
 
 JUAN ANTONIO RANGEL TRUJILLO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE FEBRERO DE 2013.
+
+Primero.- El presente Reglamento Interior de la Secretaría del Campo, entrará en vigor el día siguiente de su publicación en el Periódico Oficial, órgano de Gobierno del Estado.
+
+Segundo.- Se abroga el Reglamento Interior de la Secretaría de Desarrollo Agropecuario, publicado en el suplemento número 88 del Periódico Oficial, órgano de Gobierno del Estado, correspondiente al día 4 de noviembre de 2009.
+
+Tercero.- Se derogan las disposiciones administrativas que contravengan al presente Reglamento.
+
+Cuarto.- Los asuntos que se encuentran en trámite a cargo de unidades administrativas que se modifican o cambian de adscripción, los continuará y resolverá la unidad administrativa que el presente ordenamiento señala como competente.
+
+Quinto.- Dentro del término de 30 días naturales, contados a partir de la entrada en vigor del presente Reglamento Interior, deberá expedirse el Manual de Organización y 180 días naturales el Manual de Procedimientos y publicarse en el Periódico Oficial, Órgano del Gobierno del Estado.
