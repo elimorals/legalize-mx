@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-consejeria-juridica-del-poder-83247"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-10-05"
-last_updated: "2011-10-05"
+last_updated: "2013-02-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83247&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # REGLAMENTO INTERIOR DE LA CONSEJERIA JURIDICA DEL PODER EJECUTIVO DEL ESTADO DE MORELOS
 
-REGLAMENTO INTERIOR DE LA CONSEJERIA JURIDICA DEL PODER EJECUTIVO DEL ESTADO DE MORELOS
+REGLAMENTO INTERIOR DE LA CONSEJERÍA JURÍDICA DEL PODER EJECUTIVO DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO DE LAS DISPOSICIONES TRANSITORIAS DEL REGLAMENTO INTERIOR DE LA CONSEJERÍA JURÍDICA DEL PODER EJECUTIVO DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 13 DE FEBRERO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 5 de octubre de 2011.
 
@@ -484,3 +486,17 @@ EL CONSEJERO JURÍDICO DEL PODER EJECUTIVO DEL ESTADO
 LIC. MANUEL DÍAZ CARBAJAL.
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE FEBRERO DE 2013.
+
+PRIMERA. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+SEGUNDA. Se abroga el Reglamento Interior de la Consejería Jurídica publicado en el Periódico Oficial "Tierra y Libertad", número 4924 de fecha 05 de octubre de 2011.
+
+TERCERA. Se derogan todas las disposiciones normativas de igual o menor rango jerárquico normativo que se opongan al presente ordenamiento jurídico.
+
+CUARTA. En un plazo de ciento ochenta días hábiles deberán expedirse los Manuales de Organización, y de Políticas y Procedimientos de las Unidades Administrativas de la Consejería Jurídica; en tanto, continuarán en vigor los actuales.
+
+QUINTA. Se autoriza al Consejero Jurídico para ejercer las atribuciones contenidas en los artículos 38, fracciones II, V y VI de la Ley Orgánica de la Administración Pública del Estado de Morelos y 8, fracciones XVII, XXI, XXVI y XLVI del presente Reglamento, en los casos que considere pertinente y necesario.
