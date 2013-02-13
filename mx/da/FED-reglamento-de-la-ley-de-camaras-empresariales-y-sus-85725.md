@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-camaras-empresariales-y-sus-85725"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-02-09"
-last_updated: "2012-02-09"
+last_updated: "2013-02-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85725&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2012-02-03"
 
 REGLAMENTO DE LA LEY DE CÁMARAS EMPRESARIALES Y SUS CONFEDERACIONES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE FEBRERO DE 2013.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 9 de febrero de 2012.
 
@@ -63,9 +63,11 @@ En lo no previsto por la Ley y este Reglamento, tratándose de trámites y solic
 
 Las Confederaciones se conforman con las Cámaras de Comercio, Servicios y Turismo o de Industria respectivas, y podrán adherirse a las mismas las personas físicas o morales legalmente establecidas que tengan como objeto alguno de los que les son propios o análogos, dicha adhesión no les conferirá el carácter de miembro y por tanto carecerán de voto para la toma de decisiones.
 
+> <small>(REFORMADO, D.O.F. 13 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 5.
 
-El Gobierno Federal podrá consultar a las Cámaras en todos aquellos asuntos vinculados con las actividades que representan y a las Confederaciones como representantes de los intereses generales de la actividad comercial e industrial.
+El Gobierno Federal deberá consultar a las Cámaras en todos aquellos asuntos vinculados con las actividades que representan y a las Confederaciones como representantes de los intereses generales de la actividad comercial e industrial.
 
 ###### Artículo 6.
 
@@ -382,3 +384,9 @@ PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su public
 SEGUNDO. Las erogaciones que, en su caso, deriven de la aplicación del presente Reglamento serán realizadas mediante movimientos compensados, por lo que la Secretaría de Economía debe sujetarse al Presupuesto de Egresos de la Federación para el ejercicio fiscal correspondiente y no incrementar su presupuesto regularizable.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a tres de febrero de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Economía, Bruno Francisco Ferrari García de Alba.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 13 DE FEBRERO DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
