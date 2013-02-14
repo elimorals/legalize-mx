@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-la-juventud-para-el-estado-de-tabasco-87806"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-14"
-last_updated: "2012-04-14"
+last_updated: "2013-02-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87806&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE LA JUVENTUD PARA EL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2013.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 14 de abril de 2012.
 
@@ -57,7 +57,9 @@ LEY DE LA JUVENTUD PARA EL ESTADO DE TABASCO.
 
 La presente Ley es de orden público, interés social y observancia general en el Estado de Tabasco.
 
-Tiene por objeto establecer los derechos de la juventud tabasqueña y los principios rectores de las políticas públicas que contribuyan a su desarrollo integral mediante su inclusión social plena al proceso de desarrollo económico, educativo y cultural, así como regular en lo aplicable, el funcionamiento del Instituto de la Juventud y el Deporte de Tabasco.
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2013)</small>
+
+Tiene por objeto establecer los derechos de la juventud tabasqueña y los principios rectores de las políticas públicas que contribuyan a su desarrollo integral mediante su inclusión social plena al proceso de desarrollo económico, educativo y cultural, así como regular en lo aplicable, el funcionamiento del Instituto de la Juventud de Tabasco.
 
 Esta Ley se sustenta en un equilibrio en las relaciones entre los jóvenes y tiene una perspectiva de género y juvenil, en tanto se concibe al joven como sujeto y actor social pleno.
 
@@ -549,17 +551,23 @@ Los Ayuntamientos en coordinación con el Instituto, impulsarán a los jóvenes 
 
 Los Ayuntamientos, crearán una Unidad Municipal de Atención a la Juventud, que sirva de enlace entre el consejo consultivo y los ayuntamientos.
 
-## TÍTULO CUARTO. DEL INSTITUTO DE LA JUVENTUD Y EL DEPORTE DE TABASCO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE FEBRERO DE 2013)</small>
+
+## TÍTULO CUARTO. DEL INSTITUTO DE LA JUVENTUD DE TABASCO
 
 ### CAPÍTULO I. DEL INSTITUTO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE FEBRERO DE 2013)</small>
+
 ###### ARTÍCULO 57.
 
-La organización, objetivos, funciones y metas del Órgano Desconcentrado de la Secretaria de Educación denominado Instituto de la Juventud y el Deporte de Tabasco, serán las definidas en el Acuerdo de Creación del mismo expedido por el Gobernador, así como por lo señalado en la Ley Orgánica del Poder Ejecutivo del Estado de Tabasco, el Reglamento Interior que regula al propio Instituto y las demás disposiciones legales aplicables.
+La organización, objetivos, funciones y metas del Órgano Desconcentrado de la Secretaría de Desarrollo Social denominado Instituto de la Juventud de Tabasco, serán las definidas en el Acuerdo de Creación del mismo expedido por el Gobernador, así como por lo señalado en la Ley Orgánica del Poder Ejecutivo del Estado de Tabasco, el Reglamento Interior que regula al propio Instituto y las demás disposiciones legales aplicables.
 
 Dicho Instituto contará con un Consejo Consultivo el cual fungirá como órgano asesor y de apoyo; estará conformado de acuerdo a lo que establece el artículo 58 de esta ley, durarán en su cargo tres años, pudiendo ser reelectos por otro período.
 
-Para formar parte del Consejo Consultivo, se deberá contar con experiencia en los temas de interés para la juventud y el deporte.
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2013)</small>
+
+Para formar parte del Consejo Consultivo, se deberá contar con experiencia en los temas de interés para la juventud.
 
 ### CAPÍTULO II. DEL CONSEJO ESTATAL DE LA JUVENTUD
 
@@ -569,23 +577,39 @@ El Consejo Estatal de la Juventud es una instancia de colaboración, concurrenci
 
 El Consejo estará integrado por:
 
-1. Un Presidente, que será el titular de la Secretaría de Educación.
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2013)</small>
+
+1. Un Presidente, que será el titular de la Secretaría de Desarrollo Social.
 
 2. Siete vocales, que serán los titulares de:
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 14 DE FEBRERO DE 2013)</small>
+
 a. Secretaría de Gobierno;
 
-b. Secretaría de Administración y Finanzas;
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2013)</small>
 
-c. Secretaría de Planeación y Desarrollo Social;
+b. Secretaría de Planeación y Finanzas;
 
-d. Secretaría de Desarrollo Económico;
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2013)</small>
+
+c. Secretaría de Administración;
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2013)</small>
+
+d. Secretaría de Desarrollo Económico y Turismo;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 14 DE FEBRERO DE 2013)</small>
 
 e. Secretaría de Salud;
 
-f. El presidente de la Comisión Orgánica de Infancia, Jóvenes, Recreación y Deporte, del Congreso del Estado;
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2013)</small>
 
-g. Un representante de los jóvenes deportistas, electo por la Comisión Orgánica de Infancia, Jóvenes, Recreación y Deporte, de entre destacados deportistas tabasqueños.
+f. El presidente de la Comisión Orgánica del Congreso del Estado relacionada con los temas de juventud;
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2013)</small>
+
+g. Un representante de los jóvenes, mayor de dieciocho años, electo por la Comisión Orgánica del Congreso del Estado relacionada con los temas de juventud, de entre destacados jóvenes tabasqueños.
 
 3. Un Secretario Técnico, que será el Director General del Instituto.
 
@@ -649,7 +673,9 @@ Para el cumplimiento de sus funciones, el Consejo podrá designar la instalació
 
 Para el cumplimiento de su objeto, los miembros del Consejo tendrán las siguientes atribuciones específicas:
 
-I. A la Secretaría de Planeación y Desarrollo Social le corresponde:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE FEBRERO DE 2013)</small>
+
+I. A la Secretaría de Desarrollo Social le corresponde:
 
 a). Generar programas que alienten su desarrollo integral, que busquen disminuir el número de jóvenes en situación de pobreza alimenticia, de capacidades y patrimonial; y
 
@@ -663,7 +689,9 @@ b). Ofrecer a jóvenes que así lo soliciten, asesoría legal y defensores públ
 
 c). Desarrollar acciones que impulsen y fortalezcan la participación de los jóvenes en la actividad pública; y las demás necesarias, dentro de su ámbito de competencia, para el cumplimiento del objeto de la presente Ley.
 
-III. A la Secretaría de Administración y Finanzas le corresponde:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE FEBRERO DE 2013)</small>
+
+III. A la Secretaría de Planeación y Finanzas le corresponde:
 
 a). Proponer alternativas que incentiven a los empresarios para que contraten jóvenes;
 
@@ -681,7 +709,9 @@ c). Promover la realización de actividades escolares y extra escolares que busq
 
 d) Las demás necesarias, dentro de su ámbito de competencia, para el cumplimiento del objeto de la presente Ley.
 
-V. A la Secretaría de Desarrollo Económico le corresponde:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE FEBRERO DE 2013)</small>
+
+V. A la Secretaría de Desarrollo Económico y Turismo le corresponde:
 
 a). Crear, en coordinación con el servicio estatal de empleo, una bolsa de trabajo especializada para jóvenes, que les ofrezca y vincule con las vacantes del sector gubernamental, público y social y proponer acciones para hacer efectiva la primera experiencia laboral;
 
@@ -774,3 +804,19 @@ EJECUTIVO DEL ESTADO.
 LIC. RAFAEL MIGUEL GONZÁLEZ LASTRA
 
 SECRETARIO DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE FEBRERO DE 2013.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial.
+
+SEGUNDO.- Los Acuerdos relativos a la creación del Instituto del Deporte de Tabasco y del Instituto de la Juventud de Tabasco, deberán ser expedidos por el Titular del Poder Ejecutivo del Estado de Tabasco, en un plazo no mayor de 30 días naturales posteriores a la publicación del presente Decreto.
+
+Una vez que se expidan y publiquen los acuerdos señalados en el párrafo anterior, se tendrá por ABROGADO el Acuerdo por el que fue creado el Instituto de la Juventud y el Deporte de Tabasco mediante publicación No 22122 del suplemento 6715 B, de fecha 13 de enero del año 2007, en el Periódico Oficial del Estado de Tabasco.
+
+TERCERO.- La Secretarías de: Planeación y Finanzas, Administración, Contraloría y Secretaría Técnica de la Gubernatura del Estado, con la participación que corresponda de las Secretarías de Desarrollo Social y de Educación, dispondrán las medidas conducentes para que, una vez que se expidan los acuerdos señalados en el artículo transitorio anterior, se asignen al Instituto del Deporte de Tabasco, INDETAB, y al Instituto de la Juventud de Tabasco, INJUTAB respectivamente, los recursos financieros, materiales y humanos necesarios para el desarrollo de sus respectivas actividades, a partir de los que actualmente dispone el Instituto de la Juventud y el deporte de Tabasco INJUDET.
+
+El personal que labora en el hasta hoy Instituto de la Juventud y el Deporte de Tabasco, será readscrito a cada uno de los nuevos Instituto del Deporte de Tabasco e Instituto de la Juventud de Tabasco, conforme a las necesidades del servicio en cada uno de ellos, sin perjuicio de sus derechos laborales.
+
+CUARTO. Los asuntos administrativos, que con motivo de este Decreto y los respectivos acuerdos de creación del Instituto del Deporte y del Instituto de la Juventud deban pasar a cada uno de ellos, permanecerán en el último trámite que hubieren alcanzado hasta que las unidades administrativas que estén facultadas por esta Ley para conocer de los mismos reciban y asuman los asuntos en cuestión. Se exceptúan de esta disposición los asuntos urgentes o sujetos a plazos improrrogables que deberán atenderse con la inmediatez que se requiera.
