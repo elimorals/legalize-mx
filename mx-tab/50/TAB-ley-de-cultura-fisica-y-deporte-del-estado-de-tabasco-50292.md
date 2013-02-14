@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-cultura-fisica-y-deporte-del-estado-de-tabasco-50292"
 country: "mx"
 rank: "ley"
 publication_date: "2006-03-29"
-last_updated: "2006-09-12"
+last_updated: "2013-02-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50292&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAB"
 ---
 # LEY DE CULTURA FISICA Y DEPORTE DEL ESTADO DE TABASCO
 
-LEY DE CULTURA FISICA Y DEPORTE DEL ESTADO DE TABASCO
+LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2013.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Tabasco, el miércoles 29 de marzo de 2006.
 
@@ -77,7 +77,9 @@ VIII. Registros Municipales: A los Registros Municipales de Cultura Física y De
 
 IX. Reglamento: El Reglamento de la Ley de Cultura Física y Deporte del Estado de Tabasco;
 
-X. Secured: A la Secretaría de Cultura, Recreación y Deporte;
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2013)</small>
+
+X. Secretaría, a la Secretaría de Educación;
 
 XI. Sistema Estatal: Al Sistema Estatal de Cultura Física y Deporte;
 
@@ -481,7 +483,9 @@ En el ámbito del Poder Ejecutivo, las autoridades encargadas de la aplicación 
 
 I. El Gobernador del Estado; y
 
-II. La Secured, a través del Instituto.
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2013)</small>
+
+II. La Secretaría, a través del Instituto.
 
 El Instituto tendrá las facultades que le confieren el Acuerdo gubernamental que lo crea y su Reglamento Interior.
 
@@ -541,9 +545,11 @@ En el uso de las instalaciones con fines de espectáculo o eventos no deportivos
 
 ### Capítulo II. De la Enseñanza, e Investigación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 51.
 
-El Instituto impulsará en coordinación con la Secured y la Secretaría de Educación, la enseñanza, la investigación, el desarrollo tecnológico y la aplicación de conocimientos científicos en materia de cultura física y deporte, así como la construcción de centros de enseñanza y capacitación de estas actividades.
+El Instituto impulsará en coordinación con la Secretaria de Educación, la enseñanza, la investigación, el desarrollo tecnológico y la aplicación de conocimientos científicos en materia de cultura física y deporte, así como la construcción de centros de enseñanza y capacitación de estas actividades.
 
 Las autoridades deportivas habilitarán en las instalaciones deportivas oficiales espacios de consulta y proyección de información relacionada con la cultura física y el deporte y las ciencias aplicadas al deporte, procurando incrementar y actualizar el acervo bibliográfico y demás material didáctico.
 
@@ -805,7 +811,7 @@ LIC. JAIME HUMBERTO LASTRA BASTAR
 
 SECRETARIO DE GOBIERNO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 12 DE SEPTIEMBRE DE 2006.
 
@@ -816,3 +822,17 @@ El presente Decreto que establece el Sistema Integral de Justicia para Adolescen
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales, reglamentarias o administrativas que contravengan o se opongan al Sistema Integral de Justicia para Adolescentes.
+
+P.O. 14 DE FEBRERO DE 2013.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial.
+
+SEGUNDO.- Los Acuerdos relativos a la creación del Instituto del Deporte de Tabasco y del Instituto de la Juventud de Tabasco, deberán ser expedidos por el Titular del Poder Ejecutivo del Estado de Tabasco, en un plazo no mayor de 30 días naturales posteriores a la publicación del presente Decreto.
+
+Una vez que se expidan y publiquen los acuerdos señalados en el párrafo anterior, se tendrá por ABROGADO el Acuerdo por el que fue creado el Instituto de la Juventud y el Deporte de Tabasco mediante publicación No 22122 del suplemento 6715 B, de fecha 13 de enero del año 2007, en el Periódico Oficial del Estado de Tabasco.
+
+TERCERO.- La Secretarías de: Planeación y Finanzas, Administración, Contraloría y Secretaría Técnica de la Gubernatura del Estado, con la participación que corresponda de las Secretarías de Desarrollo Social y de Educación, dispondrán las medidas conducentes para que, una vez que se expidan los acuerdos señalados en el artículo transitorio anterior, se asignen al Instituto del Deporte de Tabasco, INDETAB, y al Instituto de la Juventud de Tabasco, INJUTAB respectivamente, los recursos financieros, materiales y humanos necesarios para el desarrollo de sus respectivas actividades, a partir de los que actualmente dispone el Instituto de la Juventud y el deporte de Tabasco INJUDET.
+
+El personal que labora en el hasta hoy Instituto de la Juventud y el Deporte de Tabasco, será readscrito a cada uno de los nuevos Instituto del Deporte del Tabasco e Instituto de la Juventud de Tabasco, conforme a las necesidades del servicio en cada uno de ellos, sin perjuicio de sus derechos laborales.
+
+CUARTO. Los asuntos administrativos, que con motivo de este Decreto y los respectivos acuerdos de creación del Instituto del Deporte y del Instituto de la Juventud deban pasar a cada uno de ellos, permanecerán en el último trámite que hubieren alcanzado hasta las unidades administrativas que estén facultadas por esta Ley para conocer de los mismos reciban y asuman los asuntos en cuestión. Se exceptúan de esta disposición los asuntos urgentes o sujetos a plazos improrrogables que deberán atenderse con la inmediatez que se requiera.
