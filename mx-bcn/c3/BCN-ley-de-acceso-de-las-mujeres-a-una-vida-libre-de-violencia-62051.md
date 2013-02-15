@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6205
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-25"
-last_updated: "2012-08-31"
+last_updated: "2013-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62051&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el miércoles 25 de junio de 2008.
 
@@ -91,29 +91,33 @@ XI. Agresor: Persona que ejerce cualquier modalidad de violencia contra la mujer
 
 XII. Derechos Humanos de las Mujeres: Los derechos inalienables e imprescriptibles consagrados en las Convenciones e Instrumentos Internacionales en la materia de discriminación y violencia de género.
 
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 5.
 
-Para esta Ley, la Perspectiva de Género se entiende como el derecho de las mujeres a que las acciones que se programen, tratándose de legislación, políticas públicas, actividades administrativas, económicas y culturales en las instituciones públicas y privadas se hagan de manera transversal, incorporando una visión analítica y política en donde se eliminen las causas de opresión en contra de las mujeres, como la desigualdad, la injusticia y la jerarquización, contribuyendo a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor e igualdad de derechos y oportunidades.
+Para efectos de la presente ley, la perspectiva de género es la visión analítica y política respecto de las mujeres y hombres, con base a la cual deberán diseñarse las políticas públicas y programarse las acciones legislativas, administrativas, económicas y culturales de las instituciones públicas y privadas; orientadas a eliminar toda causa de desigualdad, injusticia y jerarquización de personas, con motivo del género y a contribuir la equidad en el acceso a los derechos y oportunidades de desarrollo.
 
 ### CAPÍTULO II. TIPOS Y MODALIDADES DE VIOLENCIA
 
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 6.
 
-Los tipos y modalidades de violencia enumerados y definidos en la Ley General, serán sancionados en los términos de la normatividad aplicable.
+Los tipos y modalidades de violencia enumerados por ésta Ley, serán sancionados en los términos de la normatividad aplicable.
 
 Reconociendo como tipos de violencia los siguientes:
 
-I. Violencia Psicológica;
+I.- Violencia Psicológica.- Entendida como cualquier acto u omisión que dañe la estabilidad psicológica, que pueda conllevar a la víctima a la depresión, al aislamiento, a la devaluación de su autoestima e incluso al suicidio;
 
-II. Violencia Física;
+II.- Violencia Física.- Es cualquier acto que inflige daño no accidental, usando la fuerza física o algún tipo de arma u objeto que pueda provocar o no lesiones ya sean internas, externas, o ambas;
 
-III. Violencia Patrimonial;
+III.- Violencia Patrimonial.- La transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer las necesidades de la víctima, así como los daños a los bienes comunes o propios de la víctima;
 
-IV. Violencia Económica;
+IV.- Violencia Económica.- Toda acción u omisión del Agresor que afecta la supervivencia económica de la víctima, encaminada a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral;
 
-V. Violencia Sexual, y
+V.- Violencia Sexual.- Cualquier acto que degrada o daña el cuerpo y/o la sexualidad de la víctima y que por tanto atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso de poder que implica la supremacía masculina sobre la mujer, al denigrarla y concebirla como objeto, y
 
-VI. Cualesquiera otra forma análoga que lesione o sea susceptible de dañar la dignidad, integridad o libertad de las mujeres.
+VI.- Cualesquiera otra forma análoga que lesione o sea susceptible de dañar la dignidad, integridad o libertad de las mujeres.
 
 ### CAPÍTULO III. ORDENES DE PROTECCIÓN
 
@@ -620,3 +624,7 @@ CARLOS ARMANDO REYNOSO NUÑO.
 P.O. 31 DE AGOSTO DE 2012.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 15 DE FEBRERO DE 2013.
+
+ÚNICO: Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
