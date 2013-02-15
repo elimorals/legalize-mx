@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-para-alumnos-de-la-universidad-estatal-del-valle-827
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-08-30"
-last_updated: "2011-08-30"
+last_updated: "2013-02-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82740&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "MEX"
 ---
 # REGLAMENTO PARA ALUMNOS DE LA UNIVERSIDAD ESTATAL DEL VALLE DE TOLUCA, ESTADO DE MEXICO
 
-REGLAMENTO PARA ALUMNOS DE LA UNIVERSIDAD ESTATAL DEL VALLE DE TOLUCA
+REGLAMENTO PARA ALUMNOS DE LA UNIVERSIDAD ESTATAL DEL VALLE DE TOLUCA DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DEL REGLAMENTO DE ALUMNOS, PUBLICADO EN LA G.G. DE 15 DE FEBRERO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: ABROGADO.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el martes 30 de agosto de 2011.
 
@@ -613,3 +615,13 @@ M. EN A. EULALIO FRANCISCO LÓPEZ MILLÁN
 RECTOR DE LA UNIVERSIDAD ESTATAL DEL VALLE DE TOLUCA
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 15 DE FEBRERO DE 2013.
+
+PRIMERO. Publíquese el presente Reglamento en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Reglamento, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se abroga el Reglamento para Alumnos de la Universidad Estatal del Valle de Toluca, publicado en el Periódico Oficial "Gaceta del Gobierno" el 30 de Agosto de 2011.
