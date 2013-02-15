@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-de-la-coordinacion-para-el-desarrollo-de-la-zona-642
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-10-21"
-last_updated: "2008-10-21"
+last_updated: "2013-02-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "YUC"
 
 REGLAMENTO DE LA COORDINACION PARA EL DESARROLLO DE LA ZONA COSTERA DE YUCATAN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NÚMERO 40, PUBLICADO EN EL D.O. DE 15 DE FEBRERO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Diario Oficial del Estado de Yucatán, el martes 21 de octubre de 2008.
 
@@ -280,3 +282,67 @@ SECRETARIO GENERAL DE GOBIERNO
 C. EDUARDO ADOLFO BATLLORI SAMPEDRO
 
 SECRETARIO DE DESARROLLO URBANO Y MEDIO AMBIENTE
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O. 15 DE FEBRERO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Ejecutivo del Estado, en un plazo no mayor de 90 días naturales contados a partir del día en que entre en vigor este Decreto, deberá publicar el Reglamento Interior de la Comisión de Pesca y Acuacultura Sustentables del Estado de Yucatán.
+
+###### ARTÍCULO TERCERO.
+
+El Poder Ejecutivo del Estado, en un plazo no mayor de 90 días naturales contados a partir del día en que entre en vigor este Decreto, deberá reformar el Reglamento de la Ley de Pesca y Acuacultura Sustentables del Estado de Yucatán.
+
+###### ARTÍCULO CUARTO.
+
+A partir de la entrada en vigor de este Decreto, quedan abrogados el Decreto Número 100 que crea la Coordinación para el Desarrollo de la Zona Costera de Yucatán, y el Decreto Número 131 por el que se emite el Reglamento de la Coordinación para el Desarrollo de la Zona Costera de Yucatán.
+
+###### ARTÍCULO QUINTO.
+
+El personal de las dependencias que por disposición de estas reformas pasen a formar parte de otra, se estarán a lo dispuesto en las normas legales aplicables en estricto apego a sus derechos laborales.
+
+###### ARTÍCULO SEXTO.
+
+Los recursos presupuestales, financieros, materiales y en general todos aquellos medios que permiten el cumplimiento de las obligaciones asignadas a la Dirección de Pesca y Acuacultura de la Secretaría de Fomento Agropecuario y Pesquero, se transferirán a partir de la entrada en vigor de este Decreto, a la Comisión de Pesca y Acuacultura Sustentables del Estado de Yucatán.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los recursos presupuestales, financieros, materiales y en general todos aquellos medios que permiten el cumplimiento de las obligaciones asignadas a la Coordinación para el Desarrollo de la Zona Costera de Yucatán, se transferirán a partir de la entrada en vigor de este Decreto, a la Comisión de Pesca y Acuacultura Sustentables del Estado de Yucatán.
+
+###### ARTÍCULO OCTAVO.
+
+Cuando en las leyes, reglamentos y otras disposiciones normativas, se haga referencia a la Dirección de Pesca y Acuacultura de la Secretaría de Fomento Agropecuario y Pesquero y/o al Director de Pesca y Acuacultura de la Secretaría de Fomento Agropecuario, se entenderá que se refieren, en todos los casos, a la Comisión de Pesca y Acuacultura Sustentables del Estado de Yucatán y/o al Comisionado de Pesca y Acuacultura Sustentables del Estado de Yucatán.
+
+###### ARTÍCULO NOVENO.
+
+Cuando en las leyes, reglamentos y otras disposiciones normativas, se haga referencia a la Coordinación para el Desarrollo de la Zona Costera de Yucatán y/o al Coordinador para el Desarrollo de la Zona Costera de Yucatán, se entenderá que se refieren, en todos los casos, a la Comisión de Pesca y Acuacultura Sustentables del Estado de Yucatán y/o al Comisionado de Pesca y Acuacultura Sustentables del Estado de Yucatán.
+
+###### ARTÍCULO DÉCIMO.
+
+Cuando en las leyes, reglamentos y otras disposiciones normativas, se haga referencia al Consejo Estatal de Pesca y Acuacultura Sustentables del Estado de Yucatán, se entenderá que se refieren, en todos los casos, al Consejo de Pesca y Acuacultura Sustentables del Estado de Yucatán.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Los convenios, actos jurídicos y asuntos pendientes y en trámite, así como las obligaciones contraídas y los derechos adquiridos por la Dirección de Pesca y Acuacultura de la Secretaría de Fomento Agropecuario y Pesquero, y que por su propia naturaleza subsistan con posterioridad al día en que entre en vigor este Decreto, serán asumidos por la Comisión de Pesca y Acuacultura Sustentables del Estado de Yucatán.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Los convenios, actos jurídicos y asuntos pendientes y en trámite, así como las obligaciones contraídas y los derechos adquiridos por la Coordinación para el Desarrollo de la Zona Costera de Yucatán, y que por su propia naturaleza subsistan con posterioridad al día en que entre en vigor este Decreto, serán asumidos por la Comisión de Pesca y Acuacultura Sustentables del Estado de Yucatán.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Los convenios, actos jurídicos y asuntos pendientes y en trámite, así como las obligaciones contraídas y los derechos adquiridos por el Consejo Estatal de Pesca y Acuacultura Sustentables del Estado de Yucatán, y que por su propia naturaleza subsistan con posterioridad al día en que entre en vigor este Decreto, serán asumidos por el Consejo de Pesca y Acuacultura Sustentables del Estado de Yucatán.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+El Poder Ejecutivo del Estado, en un plazo no mayor a 180 días naturales contados a partir de la entrada en vigor del presente Decreto, deberá expedir las reglas de operación del Fondo Estatal de Pesca y Acuacultura, a las que se refiere el Reglamento de esta Ley.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+Se derogan todas las disposiciones legales de igual o menor rango, que se opongan a este Decreto.
