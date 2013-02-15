@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-condiciones-generales-de-trabajo-de-los-75430"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-06-25"
-last_updated: "2010-06-25"
+last_updated: "2013-02-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO DE CONDICIONES GENERALES DE TRABAJO DE LOS SERVIDORES PUBLICOS GENERALES DEL CENTRO DE CONTROL DE CONFIANZA DEL ESTADO DE MEXICO
 
-REGLAMENTO DE CONDICIONES GENERALES DE TRABAJO DE LOS SERVIDORES PUBLICOS GENERALES DEL CENTRO DE CONTROL DE CONFIANZA DEL ESTADO DE MEXICO
+REGLAMENTO DE CONDICIONES GENERALES DE TRABAJO DE LOS SERVIDORES PÚBLICOS GENERALES DEL CENTRO DE CONTROL DE CONFIANZA DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SÉPTIMO TRANSITORIO DEL REGLAMENTO DE CONDICIONES GENERALES DE TRABAJO DE LOS SERVIDORES PÚBLICOS DEL CENTRO DE CONTROL DE CONFIANZA DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 15 DE FEBRERO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: ABROGADO.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el viernes 25 de junio de 2010.
 
@@ -1262,3 +1264,23 @@ LICENCIADA PATRICIA GERTRUDIS CONTRERAS BERNAL
 CONTRALOR INTERNO DEL CENTRO DE CONTROL DE CONFIANZA DEL ESTADO DE MÉXICO
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. DE 15 DE FEBRERO DE 2013.
+
+PRIMERO.- Se deja sin efecto todas aquellas disposiciones sobre esta materia que contravenga lo establecido en este Reglamento.
+
+SEGUNDO.- En cumplimiento a lo previsto por el artículo 58 de la Ley del Trabajo de los Servidores Públicos del Estado y Municipios, el presente Reglamento surtirá sus efectos a partir de su depósito en el Tribunal.
+
+TERCERO.- El presente Reglamento es de aplicación obligatoria para los servidores públicos del Centro.
+
+CUARTO.- El Centro proveerá lo necesario con el objeto de adecuar al presente Reglamento los reglamentos, circulares y disposiciones que existan en materia laboral.
+
+QUINTO.- El Centro procurará por los medios idóneos difundir y dar a conocer el presente Reglamento de Condiciones Generales de Trabajo a los Servidores Públicos del Centro.
+
+SEXTO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno del Estado de México".
+
+SÉPTIMO.- Se abroga el Reglamento de Condiciones Generales de Trabajo de los Servidores Públicos Generales del Centro de Control de Confianza del Estado de México, publicado en el periódico oficial "Gaceta del Gobierno" el 25 de junio de 2010.
+
+OCTAVO.- Publíquese en el periódico "Gaceta del Gobierno del Estado de México (sic).
