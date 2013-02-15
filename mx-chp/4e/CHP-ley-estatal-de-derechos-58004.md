@@ -4,7 +4,7 @@ identifier: "CHP-ley-estatal-de-derechos-58004"
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-21"
-last_updated: "2012-12-31"
+last_updated: "2013-02-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY ESTATAL DE DERECHOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2013.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Chiapas, el miércoles 21 de noviembre de 2007.
 
@@ -1621,13 +1621,21 @@ Cuando por su denominación algún establecimiento no se encuentre comprendido e
 
 Para la expedición de la constancia de funcionamiento a que se refieren las fracciones I y II de este artículo y en horario extraordinario, deberán presentar el dictamen de aprobación de la autoridad sanitaria.
 
-> <small>(DEROGADO SÉPTIMO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2013)</small>
 
-> <small>(DEROGADO OCTAVO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+Se aplicará un descuento del 50% en las tarifas de los derechos contemplados en el presente artículo en sus fracciones III a la VII, para aquellos contribuyentes que realicen el pago dentro de los cincuenta y cinco días del primer y segundo semestre.
 
-> <small>(DEROGADO NOVENO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2013)</small>
 
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+Para efecto de que los contribuyentes se hagan acreedores a la reducción contemplada en el párrafo anterior, es requisito indispensable que estos regularicen los adeudos generados por la omisión de sus contribuciones hasta el Ejercicio Fiscal 2012, que venían tributando bajo el artículo 36 de la Ley Estatal de Derechos, así como el artículo 20 B, vigente hasta el 31 de diciembre de 2010 de la misma Ley.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2013)</small>
+
+Los contribuyentes que hayan realizado el pago de los derechos contemplados en el presente artículo en su totalidad, podrán solicitar la devolución del excedente sujetándose a lo establecido en los artículos 51 y 81 del Código de la Hacienda Pública para el Estado de Chiapas.
+
+> <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2013)</small>
+
+Para el caso de los contribuyentes que inicien sus operaciones y se inscriban por primera vez en el padrón, no se aplicará descuento alguno durante el primer semestre en el que ocurra su inscripción en el padrón estatal de contribuyentes, el descuento se iniciará a partir del semestre inmediato posterior.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -4170,3 +4178,9 @@ P.O. 31 DE DICIEMBRE DE 2012.
 PRIMERO.- El presente Decreto entrará en vigor el día primero de enero del dos mil trece.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 15 DE FEBRERO DE 2013.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
