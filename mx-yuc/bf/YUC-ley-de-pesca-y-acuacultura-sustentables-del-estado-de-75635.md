@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-pesca-y-acuacultura-sustentables-del-estado-de-75635"
 country: "mx"
 rank: "ley"
 publication_date: "2010-07-06"
-last_updated: "2010-07-06"
+last_updated: "2013-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75635&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "YUC"
 
 LEY DE PESCA Y ACUACULTURA SUSTENTABLES DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS OCTAVO, NOVENO Y DÉCIMO TRANSITORIOS DEL DECRETO NÚMERO 40, PUBLICADO EN EL D.O. DE 15 DE FEBRERO DE 2013, LAS REFERENCIAS QUE SE HAGAN A LA DIRECCIÓN DE PESCA Y ACUACULTURA DE LA SECRETARÍA DE FOMENTO AGROPECUARIO Y PESQUERO Y/O AL DIRECTOR DE PESCA Y ACUACULTURA DE LA SECRETARÍA DE FOMENTO AGROPECUARIO; A LA COORDINACIÓN PARA EL DESARROLLO DE LA ZONA COSTERA DE YUCATÁN; SE ENTENDERÁN QUE SE REFIEREN, EN TODOS LOS CASOS, A LA COMISIÓN DE PESCA Y ACUACULTURA SUSTENTABLES DEL ESTADO DE YUCATÁN Y/O AL COMISIONADO DE PESCA Y ACUACULTURA SUSTENTABLES DEL ESTADO DE YUCATÁN; ASÍ COMO, LAS REFERENCIAS QUE SE HAGAN AL CONSEJO ESTATAL DE PESCA Y ACUACULTURA SUSTENTABLES DEL ESTADO DE YUCATÁN, SE ENTENDERÁN QUE SE REFIEREN, EN TODOS LOS CASOS, AL CONSEJO DE PESCA Y ACUACULTURA SUSTENTABLES DEL ESTADO DE YUCATÁN.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 15 DE FEBRERO DE 2013.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el martes 6 de julio de 2010.
 
@@ -59,13 +61,23 @@ II.- Fomentar la organización y capacitación de los pescadores y acuacultores 
 
 III.- Desarrollar la investigación científica y tecnológica en materia de pesca y acuacultura en el Estado;
 
-IV.- Determinar la integración y funcionamiento del Consejo Estatal de Pesca y Acuacultura, y establecer las bases para la creación, operación y funcionamiento de mecanismos de participación de los productores dedicados a las actividades pesqueras y acuícolas;
+> <small>(REFORMADA, D.O. 15 DE FEBRERO DE 2013)</small>
+
+IV.- Determinar la integración y funcionamiento del Consejo y establecer las bases para la creación, operación y funcionamiento de mecanismos de participación para los productores dedicados a las actividades pesqueras y acuícolas;
 
 V.- Procurar y promover que a las comunidades y pueblos indígenas, se les respete su derecho preferente sobre los recursos pesqueros y acuícolas de los lugares que ocupen y habiten;
 
-VI.- La coordinación entre las distintas dependencias y organismos de la administración pública federal, estatal y municipal, así como la participación de los productores pesqueros y acuícolas de la Entidad, y
+> <small>(REFORMADA, D.O. 15 DE FEBRERO DE 2013)</small>
 
-VII.- Definir los lineamientos para celebrar con el gobierno federal los convenios y acuerdos de coordinación y colaboración con el fin de asumir las funciones previstas en el artículo 11 de la Ley General.
+VI.- La coordinación entre las distintas dependencias y organismos de la administración pública federal, estatal y municipal, así como la participación de los productores pesqueros y acuícolas de la Entidad;
+
+> <small>(REFORMADA, D.O. 15 DE FEBRERO DE 2013)</small>
+
+VII.- Definir los lineamientos para celebrar con el gobierno federal los convenios y acuerdos de coordinación y colaboración con el fin de asumir las funciones previstas en el artículo 11 de la Ley General, y
+
+> <small>(ADICIONADA, D.O. 15 DE FEBRERO DE 2013)</small>
+
+VIII.- Conservar, proteger, repoblar y aprovechar de manera sustentable de los recursos pesqueros y acuícolas del Estado, así como la protección y rehabilitación de los ecosistemas en que se encuentran dichos recursos.
 
 ###### Artículo 4.
 
@@ -99,7 +111,9 @@ XIII.- Carta Estatal Pesquera: Presentación cartográfica y escrita que contien
 
 XIV.- CONAPESCA: Comisión Nacional de Acuacultura y Pesca;
 
-XV.- Consejo: Consejo Estatal de Pesca y Acuacultura Sustentables del Estado de Yucatán;
+> <small>(REFORMADA, D.O. 15 DE FEBRERO DE 2013)</small>
+
+XV.- Consejo: El Consejo de Pesca y Acuacultura Sustentables del Estado de Yucatán;
 
 XVI.- Cuarentena: El tiempo que determine la autoridad competente para mantener en observación los organismos acuáticos, para determinar su calidad sanitaria, en apego a las normas oficiales mexicanas u otras regulaciones que emita el Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria;
 
@@ -135,25 +149,35 @@ XXXI.- Pesquería: Conjunto de sistemas de producción pesquera, que comprenden 
 
 XXXII.- Pesquería sobreexplotada: Es la pesquería que se encuentra explotada por encima de su límite de recuperación;
 
-XXXIII.- Recursos Acuícolas: Las especies acuáticas susceptibles de cultivo, sus productos y subproductos;
+> <small>(ADICIONADA, D.O. 15 DE FEBRERO DE 2013)</small>
 
-XXXIV.- Recursos Pesqueros: Las especies acuáticas, sus productos y subproductos, obtenidos mediante la extracción, captura o recolección, en su estado natural;
+XXXIII.- Poder Ejecutivo.- El Poder Ejecutivo del Gobierno del Estado de Yucatán;
 
-XXXV.- Registro Estatal: El Registro Estatal de Pesca y Acuacultura;
+XXXIV.- Recursos Acuícolas: Las especies acuáticas susceptibles de cultivo, sus productos y subproductos;
 
-XXXVI.- Repoblación: Es el acto de introducir organismos acuáticos vivos nativos en cualquiera de los estados de su ciclo de vida, en cuerpos de agua con fines de mantener, recuperar o incrementar las poblaciones naturales pesqueras;
+XXXV.- Recursos Pesqueros: Las especies acuáticas, sus productos y subproductos, obtenidos mediante la extracción, captura o recolección, en su estado natural;
 
-XXXVII.- Sanidad acuícola: Es el conjunto de prácticas y medidas establecidas en normas oficiales, encaminadas a la prevención, diagnóstico, control y erradicación de las enfermedades que afectan a dichas especies;
+XXXVI.- Registro Estatal: El Registro Estatal de Pesca y Acuacultura;
 
-XXXVIII.- Secretaría: La Secretaría de Fomento Agropecuario y Pesquero del Estado de Yucatán;
+XXXVII.- Repoblación: Es el acto de introducir organismos acuáticos vivos nativos en cualquiera de los estados de su ciclo de vida, en cuerpos de agua con fines de mantener, recuperar o incrementar las poblaciones naturales pesqueras;
 
-XXXIX.- Sistema Estatal: El Sistema Estatal de Información Pesquera y Acuícola;
+XXXVIII.- Sanidad acuícola: Es el conjunto de prácticas y medidas establecidas en normas oficiales, encaminadas a la prevención, diagnóstico, control y erradicación de las enfermedades que afectan a dichas especies;
 
-XL.- Sustentable: Satisfacer las necesidades de las generaciones presentes sin comprometer las posibilidades de las del futuro para atender sus propias necesidades;
+> <small>(REFORMADA, D.O. 15 DE FEBRERO DE 2013)</small>
 
-XLI.- Veda: Es el acto administrativo por el que se prohíbe llevar a cabo la pesca en un período o zona específica establecido mediante acuerdos o normas oficiales, con el fin de resguardar los procesos de reproducción y reclutamiento de una especie;
+XXXIX.- Secretaría: La Secretaría de Desarrollo Rural, por conducto de la Comisión de Pesca y Acuacultura Sustentable del Estado de Yucatán;
 
-XLII.- Zona de escasa prevalencia: Área geográfica determinada en donde se presenta una frecuencia mínima de casos recientes de una enfermedad en especies acuáticas, en una especie y período específicos;
+XL.- Sistema Estatal: El Sistema Estatal de Información Pesquera y Acuícola;
+
+XLI.- Sustentable: Satisfacer las necesidades de las generaciones presentes sin comprometer las posibilidades de las del futuro para atender sus propias necesidades;
+
+> <small>(REFORMADA, D.O. 15 DE FEBRERO DE 2013)</small>
+
+XLII.- Veda: Es el acto administrativo por el que se prohíbe llevar a cabo la pesca en un período o zona específica establecido mediante acuerdos o normas oficiales, con el fin de resguardar los procesos de reproducción y reclutamiento de una especie, y
+
+> <small>(REFORMADA, D.O. 15 DE FEBRERO DE 2013)</small>
+
+XLIII.- Zona de escasa prevalencia: Área geográfica determinada en donde se presenta una frecuencia mínima de casos recientes de una enfermedad en especies acuáticas, en una especie y período específicos.
 
 ###### Artículo 5.
 
@@ -185,13 +209,17 @@ I.- Proponer y aplicar la Política Estatal de Pesca y Acuacultura Sustentables,
 
 II.- Promover la organización y capacitación de los pescadores y acuacultores del Estado;
 
-III.- Apoyar y facilitar la investigación científica y tecnológica en materia de pesca y acuacultura;
+> <small>(REFORMADA, D.O. 15 DE FEBRERO DE 2013)</small>
+
+III.- Promover, apoyar y facilitar el desarrollo e investigación científica y tecnológica, en relación a la pesca y la acuacultura sustentables, y vinculara las instituciones académicas y de investigación relacionadas con estas materias;
 
 IV.- Establecer bases para la creación, operación y funcionamiento de mecanismos de participación de los productores dedicados a las actividades pesqueras y acuícolas;
 
 V.- Procurar y promover que las comunidades o pueblos que habiten los lugares provistos con recursos pesqueros y acuícolas, se les respete su derecho preferente para acceder a éstos;
 
-VI.- La coordinación entre las distintas dependencias y organismos de la administración pública federal, estatal y municipal, para el fomento de producción pesquera y acuícola en el Estado;
+> <small>(REFORMADA, D.O. 15 DE FEBRERO DE 2013)</small>
+
+VI.- Promover la coordinación institucional con los gobiernos, federal y municipal, y la concertación con los sectores, social y privado, para implementar acciones, programas y estrategias que promuevan el desarrollo pesquero y acuícola en la entidad;
 
 VII.- Integrar, operar y mantener actualizado el Sistema Estatal de Información de Pesca y Acuacultura;
 
@@ -219,9 +247,81 @@ XVIII.- Regular y administrar las actividades de pesca y acuacultura en los cuer
 
 XIX.- Asesorar técnicamente a pescadores y acuicultores;
 
-XX.- Establecer las infracciones y sanciones correspondientes por incumplimiento o violación a las disposiciones de esta Ley, y sus reglamentos;
+> <small>(REFORMADA, D.O. 15 DE FEBRERO DE 2013)</small>
 
-XXI.- Las que se deriven de la aplicación de la Ley General de Pesca y Acuacultura sustentables.
+XX.- Establecer las infracciones y sanciones correspondientes por incumplimiento o violación a las disposiciones de esta Ley, y su reglamento;
+
+> <small>(REFORMADA, D.O. 15 DE FEBRERO DE 2013)</small>
+
+XXI.- Las que se deriven de la aplicación de la Ley General;
+
+> <small>(ADICIONADA, D.O. 15 DE FEBRERO DE 2013)</small>
+
+XXII.- Operar los programas de apoyo y fomento en materia pesquera y acuícola;
+
+> <small>(ADICIONADA, D.O. 15 DE FEBRERO DE 2013)</small>
+
+XXIII.- Vigilar el cumplimiento de la normatividad de la materia, en el ámbito de su competencia, y en coordinación con las instancias correspondientes;
+
+> <small>(ADICIONADA, D.O. 15 DE FEBRERO DE 2013)</small>
+
+XXIV.- Intervenir en el apoyo y promoción de la flota pesquera;
+
+> <small>(ADICIONADA, D.O. 15 DE FEBRERO DE 2013)</small>
+
+XXV.- Coadyuvar al desarrollo de la infraestructura relacionada con el sector, y a la capitalización y mejora de sus actividades;
+
+> <small>(ADICIONADA, D.O. 15 DE FEBRERO DE 2013)</small>
+
+XXVI.- Desarrollar e implementar programas de atención y desarrollo social, relacionados con las actividades pesqueras y acuícolas en el Estado;
+
+> <small>(ADICIONADA, D.O. 15 DE FEBRERO DE 2013)</small>
+
+XXVII.- Promover la inversión de los sectores público, social y privado en proyectos para el desarrollo pesquero y acuícola, y propiciar la creación de empresas que vinculen a los inversionistas con los productores;
+
+> <small>(ADICIONADA, D.O. 15 DE FEBRERO DE 2013)</small>
+
+XXVIII.- Ejercer las atribuciones y funciones derivadas de los convenios celebrados con la Administración Pública Federal, los municipios y las asociaciones en materia de pesca y acuacultura;
+
+> <small>(ADICIONADA, D.O. 15 DE FEBRERO DE 2013)</small>
+
+XXIX.- Obtener, procesar y difundir la información estadística y geográfica sobre las actividades pesqueras y acuícolas de la entidad;
+
+> <small>(ADICIONADA, D.O. 15 DE FEBRERO DE 2013)</small>
+
+XXX.- Promover el establecimiento de un sistema de certificación de origen y calidad de los productos pesqueros y acuícolas de la entidad;
+
+> <small>(ADICIONADA, D.O. 15 DE FEBRERO DE 2013)</small>
+
+XXXI.- Integrar un banco de proyectos y oportunidades de inversión relativo a las actividades pesqueras y acuícolas;
+
+> <small>(ADICIONADA, D.O. 15 DE FEBRERO DE 2013)</small>
+
+XXXII.- Organizar y apoyar los congresos, ferias y concursos que se desarrollen en el medio, para promocionar los productos pesqueros y acuícolas que se generan en el Estado;
+
+> <small>(ADICIONADA, D.O. 15 DE FEBRERO DE 2013)</small>
+
+XXXIII.- Realizar gestiones para dotar a los productores pesqueros y acuícolas de los instrumentos necesarios para el desempeño de sus actividades, y promover entre los mismos la implementación de medidas y procedimientos que garanticen su seguridad;
+
+> <small>(ADICIONADA, D.O. 15 DE FEBRERO DE 2013)</small>
+
+XXXIV.- Proponer a los diversos municipios con zona costera, en función de los diagnósticos realizados y las estrategias establecidas en el Programa Estatal de Pesca y Acuacultura, opciones de solución a los principales problemas que afectan a las comunidades que forman parte del litoral yucateco;
+
+> <small>(ADICIONADA, D.O. 15 DE FEBRERO DE 2013)</small>
+
+XXXV.- Proponer a las autoridades competentes criterios y mecanismos que contribuyan al desarrollo de las comunidades de la zona costera del Estado;
+
+> <small>(ADICIONADA, D.O. 15 DE FEBRERO DE 2013)</small>
+
+XXXVI.- Proporcionar a las autoridades competentes que lo soliciten, información para el desarrollo de proyectos pesqueros y acuícolas de corto, mediano y largo plazos, en beneficio de los habitantes de la zona costera de Yucatán;
+
+> <small>(ADICIONADA, D.O. 15 DE FEBRERO DE 2013)</small>
+
+XXXVII.- Impulsar el desarrollo de acciones para el manejo de la zona costera que contemplen el uso, distribución y control adecuado de los recursos, y
+
+> <small>(ADICIONADA, D.O. 15 DE FEBRERO DE 2013)</small>
+
+XXXVIII.- Las demás que establezcan otras disposiciones legales y normativas aplicables.
 
 ###### Artículo 9.
 
@@ -231,7 +331,7 @@ Los requisitos para acceder a ese programa se establecerán en el Reglamento de 
 
 ###### Artículo 10.
 
-El Reglamento de esta Ley, establecerá las Unidades Administrativas, las atribuciones y obligaciones para el cumplimiento de los objetivos de la misma.
+(DEROGADO, D.O. 15 DE FEBRERO DE 2013)
 
 #### Sección Segunda. De los Ayuntamientos
 
@@ -239,11 +339,15 @@ El Reglamento de esta Ley, establecerá las Unidades Administrativas, las atribu
 
 Los Ayuntamientos, en el ámbito de su competencia, tendrán las atribuciones siguientes:
 
-I.- Participar, de conformidad con los convenios que celebre el Consejo Estatal en el ordenamiento y desarrollo de la pesca y acuacultura sustentables del Estado;
+> <small>(REFORMADA, D.O. 15 DE FEBRERO DE 2013)</small>
+
+I.- Participar, de conformidad con los convenios que celebre el Consejo, en el ordenamiento y desarrollo de la pesca y acuacultura sustentables del Estado;
 
 II.- Diseñar y aplicar la política y los programas municipales para la pesca y la acuacultura, vinculándolos con los programas nacionales, estatales y regionales;
 
-III.- Participar en la integración del Sistema Estatal de Información Pesquera y Acuícola y del Registro Estatal de Pesca y Acuacultura, en los términos de la presente Ley;
+> <small>(REFORMADA, D.O. 15 DE FEBRERO DE 2013)</small>
+
+III.- Participar en la integración del Sistema y del Registro Estatal, en los términos de la presente Ley;
 
 IV.- Proponer, a través del Consejo, métodos y medidas para la conservación de los recursos pesqueros y la repoblación de las áreas de pesca;
 
@@ -297,13 +401,81 @@ El Poder Ejecutivo del Estado y los Ayuntamientos podrán celebrar los instrumen
 
 Cuando, por razón de la materia y de conformidad con el Código de la Administración Pública de Yucatán u otras disposiciones similares, se requiera la intervención de otras dependencias, la Secretaría ejercerá sus atribuciones en coordinación con las mismas.
 
-### CAPÍTULO IV. Del Consejo Estatal de Pesca y Acuacultura Sustentables del Estado de Yucatán
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 15 DE FEBRERO DE 2013)</small>
 
-### CAPÍTULO V. Del Programa Estatal de Pesca y Acuacultura
+### CAPÍTULO IV. De la Comisión de Pesca y Acuacultura Sustentables del Estado de Yucatán
+
+> <small>(ADICIONADO, D.O. 15 DE FEBRERO DE 2013)</small>
+
+###### Artículo 16 Bis.
+
+Se crea la Comisión de Pesca y Acuacultura Sustentables del Estado de Yucatán como un órgano desconcentrado de la Secretaría de Desarrollo Rural, que tiene por objeto desempeñar las funciones que corresponden al Poder Ejecutivo Estatal, en materia de pesca y acuacultura, de conformidad con la normatividad aplicable.
+
+> <small>(ADICIONADO, D.O. 15 DE FEBRERO DE 2013)</small>
+
+###### Artículo 16 Ter.
+
+La Comisión de Pesca y Acuacultura Sustentables del Estado de Yucatán para cumplir con el objeto de su creación, tendrá a su cargo el ejercicio de las atribuciones establecidas en el artículo 8 de esta Ley y en otras disposiciones legales y normativas aplicables.
+
+La Comisión de Pesca y Acuacultura Sustentables del Estado de Yucatán, para el cumplimiento de sus atribuciones, se apoyará del Consejo.
+
+> <small>(ADICIONADO, D.O. 15 DE FEBRERO DE 2013)</small>
+
+###### Artículo 16 Quater.
+
+La Comisión de Pesca y Acuacultura Sustentables del Estado de Yucatán, estará a cargo de un Comisionado que será designado por el Secretario de Desarrollo Rural, previo acuerdo con el Gobernador del Estado.
+
+> <small>(ADICIONADO, D.O. 15 DE FEBRERO DE 2013)</small>
+
+###### Artículo 16 Quinquies.
+
+El Comisionado tendrá las siguientes facultades y obligaciones:
+
+I.- Planear, desarrollar y operar los programas de fomento pesquero y acuícola;
+
+II.- Apoyar la industrialización y comercialización de los productos pesqueros que se obtengan en el litoral yucateco, en coordinación con las autoridades federales, de conformidad con la ley en materia de pesca y demás disposiciones legales y normativas aplicables;
+
+III.- Promover y fomentar el desarrollo de la acuacultura en coordinación con las instancias competentes;
+
+IV.- Vigilar el cumplimiento de las normas que la ley en materia de pesca establezca, y cuidar en todo tiempo la conservación de las especies marinas;
+
+V.- Capacitar y asesorar a los diversos grupos de pescadores, para la explotación racionalizada de los recursos pesqueros;
+
+VI.- Evaluar, dictaminar y gestionar, en su caso, los recursos que requieren los proyectos y solicitudes propuestos por los productores, que por sus características de elegibilidad puedan recibir apoyo gubernamental;
+
+VII.- Coordinarse con las dependencias del Ejecutivo Federal relacionadas con la materia pesquera y con los municipios del Estado, para vigilar el cumplimiento de las normas relativas a la flora y fauna acuáticas;
+
+VIII.- Colaborar con las autoridades de los órdenes de gobierno federal, estatal y municipal, en la regulación, conservación, integración y organización de la flota pesquera, y en la promoción, financiamiento y asistencia técnica de las actividades del sector;
+
+IX.- Colaborar con las autoridades en la instrumentación de las medidas de protección social vinculadas con el sector pesquero;
+
+X.- Planear, proyectar, organizar, asesorar, orientar y evaluar técnicamente las actividades pesqueras del Estado, que contribuyan a la producción de alimentos nutritivos y económicos y a la creación de empleos en las comunidades rurales;
+
+XI.- Coadyuvar con la autoridad federal, dentro de su marco normativo, en la consecución y mantenimiento del ordenamiento pesquero en el Estado;
+
+XII.- Participar en el mantenimiento de la infraestructura pesquera en el litoral del Estado de Yucatán, mediante la implementación de obras y proyectos en beneficio de las comunidades pesqueras;
+
+XIII.- Elaborar propuestas y, en su caso, participar en la implementación de acciones orientadas a la solución de los principales problemas que afectan a las comunidades que forman parte del litoral yucateco;
+
+XIV.- Promover, mediante políticas públicas a cargo de la Secretaría, el desarrollo sustentable y acciones articuladas para el uso y aprovechamiento de los recursos costeros, y
+
+XV.- Las demás que le asigne el Secretario y las que le confieran otras disposiciones legales y normativas aplicables.
+
+> <small>(ADICIONADO, D.O. 15 DE FEBRERO DE 2013)</small>
+
+###### Artículo 16 Sexies.
+
+El Comisionado, para el cumplimiento de sus facultades y obligaciones, se auxiliará de las unidades administrativas que establezca el Reglamento Interior de la Comisión de Pesca y Acuacultura Sustentables del Estado de Yucatán.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 15 DE FEBRERO DE 2013)</small>
+
+### CAPÍTULO V. Del Consejo de Pesca y Acuacultura Sustentables del Estado de Yucatán
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 15 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 17.
 
-El Consejo Estatal es un órgano de consulta, promoción y análisis de la Secretaría, para la formulación y evaluación de las acciones que se desarrollen en materia pesquera y acuícola en el Estado, y tendrá como objetivos:
+El Consejo es un órgano de consulta, promoción y análisis de la Secretaría, para la formulación y evaluación de las acciones que se desarrollen en materia pesquera y acuícola en el Estado, y tendrá como objetivos:
 
 I.- Contribuir o impulsar el desarrollo sustentable de los recursos pesqueros y acuícolas que se desarrollan en aguas de jurisdicción federal ubicadas en el Estado;
 
@@ -315,13 +487,17 @@ IV.- Proponer a la autoridad competente mecanismos de participación ordenada en
 
 V.- Coadyuvar con la Secretaría en los mecanismos de participación de los productores dedicados a las actividades pesqueras y acuícolas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 15 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 18.
 
-El Consejo Estatal, se integrará de la siguiente forma:
+El Consejo se integrará de la siguiente forma:
 
 I.- El Gobernador del Estado, quien fungirá como Presidente;
 
-II.- El Titular de la Secretaría de Fomento Agropecuario y Pesquero del Estado;
+> <small>(REFORMADA, D.O. 15 DE FEBRERO DE 2013)</small>
+
+II.- El Titular de la Secretaría;
 
 III.- El Titular de la Secretaría de Desarrollo Urbano y Medio Ambiente;
 
@@ -347,23 +523,33 @@ XIII.- Un Representante del Sector Privado de la Zona Oriente.
 
 Los representantes del sector social y privado serán propuestos por las organizaciones a las que pertenezcan, para un período de tres años y sin derecho a reelección, mediante los procedimientos participativos y transparentes que determine el Reglamento de esta Ley. Estos tendrán derecho a voz pero no a voto.
 
-Cada miembro propietario designará un suplente, quien asistirá a las sesiones del Consejo Estatal en ausencia del primero, con todas las facultades y derechos que a este corresponda.
+> <small>(REFORMADO, D.O. 15 DE FEBRERO DE 2013)</small>
 
-El Consejo Estatal cantará con un Secretario Técnico designado por el Presidente, de entre el personal de la Secretaría, quién deberá contar por lo menos con la categoría de Director de área.
+Cada miembro propietario designará un suplente, quien asistirá a las sesiones del Consejo en ausencia del primero, con todas las facultades y derechos que a éste correspondan.
 
-Los miembros propietarios y suplentes del Consejo Estatal serán a título honorífico.
+> <small>(REFORMADO, D.O. 15 DE FEBRERO DE 2013)</small>
+
+El Comisionado de Pesca y Acuacultura Sustentables del Estado de Yucatán, será el Secretario Técnico del Consejo.
+
+> <small>(REFORMADO, D.O. 15 DE FEBRERO DE 2013)</small>
+
+Los miembros propietarios y suplentes del Consejo serán a título honorífico.
 
 El Titular de la Secretaría fungirá como Presidente en las ausencias del Presidente, y contará con las mismas facultades que le corresponden al presidente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 15 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 19.
 
-El Consejo Estatal, por acuerdo de la mayoría de sus miembros, podrá invitar a sus sesiones a:
+El Consejo, por acuerdo de la mayoría de sus miembros, podrá invitar a sus sesiones a:
 
 I.- Un Representante de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
 
 II.- El Director del Centro Regional de Investigación Pesquera de Yucalpetén; (CRIPY)
 
-III.- El Titular de la Capitanía de Puerto del Municipio de Progreso; Yucatán;
+> <small>(REFORMADA, D.O. 15 DE FEBRERO DE 2013)</small>
+
+III.- El Titular de la Capitanía de Puerto del Municipio de Progreso Yucatán;
 
 IV.- El Comandante de la IX Zona Naval;
 
@@ -431,11 +617,13 @@ Sin perjuicio de lo anterior, el Consejo podrá convocar a sesión cuando la may
 
 El quórum legal para sesionar será con la asistencia de más de la mitad de sus miembros, y tomarán las decisiones por mayoría de votos de los presentes, en caso de empate quien presida la sesión tendrá el voto de calidad.
 
-### CAPÍTULO VI. Del Sistema Estatal de Información Pesquera y Acuícola
+### CAPÍTULO VI. Del Programa Estatal de Pesca y Acuacultura
+
+> <small>(REFORMADO, D.O. 15 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 25.
 
-El Programa Estatal de Pesca y Acuacultura deberá emitirse en congruencia con el Plan Nacional de Desarrollo, Programa Nacional de Pesca y Acuacultura, Plan Estatal de Desarrollo, así como de aquellos que incidan en el ordenamiento del desarrollo pesquero y acuícola en el Estado. Será autorizado por el Ejecutivo del Estado, previa elaboración y análisis de la Secretaría de Planeación y Presupuesto del Estado.
+El Programa Estatal de Pesca y Acuacultura deberá emitirse en congruencia con el Plan Nacional de Desarrollo, Programa Nacional de Pesca y Acuacultura, Plan Estatal de Desarrollo, así como de aquellos que incidan en el ordenamiento del desarrollo pesquero y acuícola en el Estado. Será autorizado por el Ejecutivo del Estado, previa elaboración y análisis de la Secretaría de Administración y Finanzas.
 
 ###### Artículo 26.
 
@@ -461,7 +649,7 @@ IX.- La inclusión de mecanismos que implementen las buenas prácticas en la ope
 
 X.- Esquemas de integración de las cadenas productivas y valor agregado.
 
-### CAPÍTULO VII. De la Pesca y Acuacultura en Agua Dulce Continental
+### CAPÍTULO VII. Del Sistema Estatal de Información Pesquera y Acuícola
 
 ###### Artículo 27.
 
@@ -575,7 +763,7 @@ La Secretaría elaborará y mantendrá actualizado el Programa de emplacamiento 
 
 La Secretaría elaborará y mantendrá actualizado el Programa de Empadronamiento y Credencialización de Pescadores Activos del Litoral Yucateco, con objeto de contar con la información necesaria para el diseño de políticas públicas estatales, referentes a la actividad pesquera.
 
-### CAPÍTULO VIII. De la Propiedad y legal Procedencia
+### CAPÍTULO VIII. De la Pesca y Acuacultura en Agua Dulce Continental
 
 ###### Artículo 36.
 
@@ -611,7 +799,7 @@ La pesca de consumo doméstico que efectúen los residentes en las riberas, no r
 
 Sólo podrá efectuarse con redes y líneas manuales que pueda utilizar individualmente el pescador, observando y respetando las vedas y las normas oficiales que se expidan.
 
-### CAPÍTULO IX. De la Pesca Deportiva
+### CAPÍTULO IX. De la Propiedad y legal Procedencia
 
 ###### Artículo 40.
 
@@ -629,7 +817,7 @@ El trámite, los requisitos y la vigencia de los documentos para acreditar la le
 
 Toda persona está obligada a denunciar ante las autoridades competentes cualquier irregularidad o delitos identificados en las actividades pesqueras y acuícolas, para lo cual las autoridades en materia de pesca y acuacultura establecerán mecanismos para la recepción oportuna de las mismas.
 
-### CAPÍTULO X. Del Fomento a la Acuacultura
+### CAPÍTULO X. De la Pesca Deportiva
 
 ###### Artículo 44.
 
@@ -647,7 +835,7 @@ V.- Promover la celebración de acuerdos con organizaciones y particulares para 
 
 Asimismo, a la Secretaría le corresponderá la administración de los permisos para la realización de pesca deportivo-recreativa, conforme se determine en los convenios o acuerdos de coordinación entre el Estado y la Federación.
 
-### CAPÍTULO XI. De la Sanidad, Calidad e Inocuidad
+### CAPÍTULO XI. Del Fomento a la Acuacultura
 
 ###### Artículo 45.
 
@@ -669,7 +857,7 @@ VII.- Establecerá acciones conjuntas para el fortalecimiento de las redes de va
 
 VIII.- Fortalecerá con otras dependencias del Ejecutivo Estatal para ofertar los productos obtenidos de la reproducción de especies generadas en sus centros acuícolas, de conformidad con las disposiciones previstas en la normatividad vigente aplicable.
 
-### CAPÍTULO XII. De la Inspección y Vigilancia
+### CAPÍTULO XII. De la Sanidad, Calidad e Inocuidad
 
 ###### Artículo 46.
 
@@ -697,7 +885,7 @@ V.- Las que resulten eficaces para la atención de cada caso de enfermedad.
 
 Ante la presencia de enfermedades en las especies acuáticas vivas en un área o zona determinada, la Secretaría deberá dar aviso de inmediato al Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria y sus órganos auxiliares en el Estado, para su atención, con independencia de las acciones de saneamiento que determine.
 
-### CAPÍTULO XIII. Del Financiamiento y Apoyos
+### CAPÍTULO XIII. De la Inspección y Vigilancia
 
 ###### Artículo 50.
 
@@ -713,7 +901,7 @@ Los elementos que arrojen los instrumentos a que se refiere este Artículo se co
 
 Corresponderá a la Secretaría, la inspección y vigilancia del cumplimiento de la Ley General y demás disposiciones que de ella deriven, conforme a los acuerdos de coordinación que se establezcan con la autoridad federal competente en la materia.
 
-### CAPÍTULO XIV. De las Infracciones, Sanciones y Medios de Defensa
+### CAPÍTULO XIV. Del Financiamiento y Apoyos
 
 ###### Artículo 53.
 
@@ -722,6 +910,8 @@ Para fomentar la integración del sector acuícola y pesquero dentro de los prog
 El Fondo será el instrumento para promover la operación de esquemas de financiamiento para la conservación, incremento y aprovechamiento sustentable de los recursos pesqueros y acuícolas, la investigación, el desarrollo y transferencia de tecnología, facilitando el acceso a los servicios financieros para la comunidad productiva del sector pesquero y acuícola.
 
 El Reglamento de esta Ley establecerá la conformación del Fondo Estatal de Pesca y Acuacultura de Yucatán.
+
+### CAPÍTULO XV. De las Infracciones, Sanciones y Medios de Defensa
 
 ###### Artículo 54.
 
@@ -780,3 +970,67 @@ GOBERNADORA DEL ESTADO DE YUCATÁN
 C. VÍCTOR MANUEL SÁNCHEZ ÁLVAREZ
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O. 15 DE FEBRERO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Ejecutivo del Estado, en un plazo no mayor de 90 días naturales contados a partir del día en que entre en vigor este Decreto, deberá publicar el Reglamento Interior de la Comisión de Pesca y Acuacultura Sustentables del Estado de Yucatán.
+
+###### ARTÍCULO TERCERO.
+
+El Poder Ejecutivo del Estado, en un plazo no mayor de 90 días naturales contados a partir del día en que entre en vigor este Decreto, deberá reformar el Reglamento de la Ley de Pesca y Acuacultura Sustentables del Estado de Yucatán.
+
+###### ARTÍCULO CUARTO.
+
+A partir de la entrada en vigor de este Decreto, quedan abrogados el Decreto Número 100 que crea la Coordinación para el Desarrollo de la Zona Costera de Yucatán, y el Decreto Número 131 por el que se emite el Reglamento de la Coordinación para el Desarrollo de la Zona Costera de Yucatán.
+
+###### ARTÍCULO QUINTO.
+
+El personal de las dependencias que por disposición de estas reformas pasen a formar parte de otra, se estarán a lo dispuesto en las normas legales aplicables en estricto apego a sus derechos laborales.
+
+###### ARTÍCULO SEXTO.
+
+Los recursos presupuestales, financieros, materiales y en general todos aquellos medios que permiten el cumplimiento de las obligaciones asignadas a la Dirección de Pesca y Acuacultura de la Secretaría de Fomento Agropecuario y Pesquero, se transferirán a partir de la entrada en vigor de este Decreto, a la Comisión de Pesca y Acuacultura Sustentables del Estado de Yucatán.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los recursos presupuestales, financieros, materiales y en general todos aquellos medios que permiten el cumplimiento de las obligaciones asignadas a la Coordinación para el Desarrollo de la Zona Costera de Yucatán, se transferirán a partir de la entrada en vigor de este Decreto, a la Comisión de Pesca y Acuacultura Sustentables del Estado de Yucatán.
+
+###### ARTÍCULO OCTAVO.
+
+Cuando en las leyes, reglamentos y otras disposiciones normativas, se haga referencia a la Dirección de Pesca y Acuacultura de la Secretaría de Fomento Agropecuario y Pesquero y/o al Director de Pesca y Acuacultura de la Secretaría de Fomento Agropecuario, se entenderá que se refieren, en todos los casos, a la Comisión de Pesca y Acuacultura Sustentables del Estado de Yucatán y/o al Comisionado de Pesca y Acuacultura Sustentables del Estado de Yucatán.
+
+###### ARTÍCULO NOVENO.
+
+Cuando en las leyes, reglamentos y otras disposiciones normativas, se haga referencia a la Coordinación para el Desarrollo de la Zona Costera de Yucatán y/o al Coordinador para el Desarrollo de la Zona Costera de Yucatán, se entenderá que se refieren, en todos los casos, a la Comisión de Pesca y Acuacultura Sustentables del Estado de Yucatán y/o al Comisionado de Pesca y Acuacultura Sustentables del Estado de Yucatán.
+
+###### ARTÍCULO DÉCIMO.
+
+Cuando en las leyes, reglamentos y otras disposiciones normativas, se haga referencia al Consejo Estatal de Pesca y Acuacultura Sustentables del Estado de Yucatán, se entenderá que se refieren, en todos los casos, al Consejo de Pesca y Acuacultura Sustentables del Estado de Yucatán.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Los convenios, actos jurídicos y asuntos pendientes y en trámite, así como las obligaciones contraídas y los derechos adquiridos por la Dirección de Pesca y Acuacultura de la Secretaría de Fomento Agropecuario y Pesquero, y que por su propia naturaleza subsistan con posterioridad al día en que entre en vigor este Decreto, serán asumidos por la Comisión de Pesca y Acuacultura Sustentables del Estado de Yucatán.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Los convenios, actos jurídicos y asuntos pendientes y en trámite, así como las obligaciones contraídas y los derechos adquiridos por la Coordinación para el Desarrollo de la Zona Costera de Yucatán, y que por su propia naturaleza subsistan con posterioridad al día en que entre en vigor este Decreto, serán asumidos por la Comisión de Pesca y Acuacultura Sustentables del Estado de Yucatán.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Los convenios, actos jurídicos y asuntos pendientes y en trámite, así como las obligaciones contraídas y los derechos adquiridos por el Consejo Estatal de Pesca y Acuacultura Sustentables del Estado de Yucatán, y que por su propia naturaleza subsistan con posterioridad al día en que entre en vigor este Decreto, serán asumidos por el Consejo de Pesca y Acuacultura Sustentables del Estado de Yucatán.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+El Poder Ejecutivo del Estado, en un plazo no mayor a 180 días naturales contados a partir de la entrada en vigor del presente Decreto, deberá expedir las reglas de operación del Fondo Estatal de Pesca y Acuacultura, a las que se refiere el Reglamento de esta Ley.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+Se derogan todas las disposiciones legales de igual o menor rango, que se opongan a este Decreto.
