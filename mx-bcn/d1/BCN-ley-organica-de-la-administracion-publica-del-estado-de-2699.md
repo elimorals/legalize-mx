@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-administracion-publica-del-estado-de-2699"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-01-20"
-last_updated: "2012-12-21"
+last_updated: "2013-02-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2013.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el lunes 20 de enero de 1986.
 
@@ -311,19 +311,19 @@ XI.- (DEROGADA, P.O. 31 DE MAYO DE 1991)
 
 XII.- Despachar los asuntos que conforme a la Ley General de Transporte Público del Estado de Baja California, competen al Gobernador del Estado;
 
-(REFORMADA, P.O. 31 DE DICIEMBRE DE 1997)(F. DE E., P.O. 30 DE ENERO DE 1998)
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2013)</small>
 
-XIII.- Llevar el registro y legalizar las firmas autógrafas de los servidores públicos estatales, los Presidentes y Secretarios Municipales, y de los demás servidores públicos a quienes esté encomendada la fe pública;
+XIII.- Llevar el registro, apostillar o legalizar las firmas de los servidores públicos estatales, los Presidentes y Secretarios Municipales, y de los demás servidores públicos a quienes esté encomendada la fe pública.
 
-(REFORMADA, P.O. 31 DE DICIEMBRE DE 1997)(F. DE E., P.O. 30 DE ENERO DE 1998)
+(REFORMADA, P.O. 31 DE DICIEMBRE DE 1997) (F. DE E., P.O. 30 DE ENERO DE 1998)
 
 XIV.- Organizar y conducir en el Estado, el ejercicio de las funciones del Registro Civil, y del Notariado;
 
-(REFORMADA, P.O. 31 DE DICIEMBRE DE 1997)(F. DE E., P.O. 30 DE ENERO DE 1998)
+(REFORMADA, P.O. 31 DE DICIEMBRE DE 1997) (F. DE E., P.O. 30 DE ENERO DE 1998)
 
 XV.- Proporcionar los apoyos administrativos que requiera la Comisión Estatal Electoral, el Registro Estatal de Electores, y demás organismos que por ley o convenio, le corresponda atender dentro de su dependencia;
 
-(REFORMADA, P.O. 31 DE DICIEMBRE DE 1997)(F. DE E., P.O. 30 DE ENERO DE 1998)
+(REFORMADA, P.O. 31 DE DICIEMBRE DE 1997) (F. DE E., P.O. 30 DE ENERO DE 1998)
 
 XVI.- Participar y coordinar, en su caso, actividades relacionadas con la beneficencia pública y privada, y la política poblacional;
 
@@ -331,7 +331,7 @@ XVII.- (DEROGADA, P.O. 3 DE ENERO DE 2003)
 
 XVIII.- Dirigir y orientar la prevención de la delincuencia y de toda conducta que afecte negativamente la seguridad y el bienestar social, proponiendo a las autoridades competentes las medidas que juzgue necesarias;
 
-(REFORMADA, P.O. 31 DE DICIEMBRE DE 1997)(F. DE E., P.O. 30 DE ENERO DE 1998)
+(REFORMADA, P.O. 31 DE DICIEMBRE DE 1997) (F. DE E., P.O. 30 DE ENERO DE 1998)
 
 XIX.- Vigilar la marcha general de la administración pública, para asegurar el cumplimiento de las instrucciones y criterios generales que hubieren sido dictados por el titular del Ejecutivo;
 
@@ -579,7 +579,7 @@ III.- Vigilar el cumplimiento de las normas de control y fiscalización, así co
 
 > <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2010)</small>
 
-IV.- Establecer las bases generales para la evaluación y realización de auditorías en las dependencias y entidades de la Administración Pública, así como realizar aquellas que se requieran en sustitución o apoyo de sus propios órganos internos de control.
+IV.- Establecer las bases generales para la evaluación y realización de auditorias en las dependencias y entidades de la Administración Pública, así como realizar aquellas que se requieran en sustitución o apoyo de sus propios órganos internos de control.
 
 V.- Comprobar el cumplimiento, por parte de las dependencias y entidades de la Administración Pública Estatal, de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, ingresos, financiamiento, inversión, deuda, patrimonio y fondos y valores de la propiedad o al cuidado de las mismas.
 
@@ -2060,3 +2060,9 @@ P.O. 23 DE NOVIEMBRE DE 2012.
 P.O. 21 DE DICIEMBRE DE 2012.
 
 ÚNICO: La presente reforma entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado de Baja California.
+
+P.O. 15 DE FEBRERO DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
