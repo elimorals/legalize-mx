@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-planeacion-para-el-estado-de-baja-california-62052"
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-25"
-last_updated: "2012-12-28"
+last_updated: "2013-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62052&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PLANEACIÓN PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el miércoles 25 de junio de 2008.
 
@@ -169,7 +169,9 @@ Las iniciativas de Leyes y de Decretos, así como los Reglamentos y Acuerdos que
 
 El Gobernador del Estado, al enviar al Congreso del Estado las iniciativas de Leyes de Ingresos y Presupuesto de Egresos, incluirá la información sobre la relación que guarda el contenido de dichas iniciativas con los objetivos y prioridades de la planeación estatal y con los programas anuales que deberán elaborarse para la ejecución del Plan Estatal de Desarrollo.
 
-La programación y presupuestación del gasto público estatal se basarán en los objetivos y en las líneas de acción del Plan Estatal de Desarrollo, así como a lo establecido en la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Baja California.
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2013)</small>
+
+La programación y presupuestación del gasto público estatal se basarán en los objetivos y en las líneas de acción del Plan Estatal de Desarrollo, así como a lo establecido en la Ley de Presupuesto y Ejercicio del Gasto Público del Estado de Baja California.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2012)</small>
 
@@ -587,7 +589,9 @@ La instrumentación del Programa Operativo Anual se hará a través de las verti
 
 Será obligatorio para todas las unidades administrativas responsables del gasto, la inclusión de programas orientados a promover la igualdad de género en sus presupuestos anuales, así como a generar un impacto diferenciado de género.
 
-El objeto de los Programas Operativos Anuales es contar con un Presupuesto de Egresos, en el cual la programación del gasto público se sujete a las disposiciones de la Ley de Presupuesto, Contabilidad y Gasto Público del Estado; y,
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2013)</small>
+
+El objeto de los Programas Operativos Anuales es contar con un Presupuesto de Egresos, en el cual la programación del gasto público se sujete a las disposiciones de la Ley de Presupuesto y Ejercicio del Gasto Público del Estado de Baja California; y,
 
 e) Programa Institucional: Se define como el instrumento que elabora una Entidad Paraestatal de la Administración Pública Estatal o Municipal, que conduzca a la mejora continua de sus funciones y servicios mediante la optimización de su estructura y organización técnica de los recursos materiales y humanos, así como por medio de vínculos con la iniciativa social o de otras instituciones gubernamentales a efecto de satisfacer necesidades colectivas.
 
@@ -731,7 +735,9 @@ La vertiente de obligación comprende el conjunto de actividades que desarrollan
 
 I.- El Presupuesto de Egresos;
 
-II.- El Presupuesto de Egresos de cada dependencia o entidad de la administración pública, conforme a lo establecido en la Ley de Presupuesto, Contabilidad y Gasto Público;
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2013)</small>
+
+II.- El Presupuesto de Egresos de cada dependencia o entidad de la administración pública, conforme a lo establecido en la Ley de Presupuesto y Ejercicio del Gasto Público del Estado de Baja California;
 
 III.- Los programas de cada dependencia o entidad de la Administración Pública;
 
@@ -767,9 +773,11 @@ Los programas institucionales que deban elaborar las entidades de las Administra
 
 Los programas territoriales se referirán ya sea al ámbito territorial del Estado, de un Municipio, o de dos o más Municipios. Serán elaborados por las dependencias y entidades de las Administraciones Públicas Estatal o Municipales a las que corresponda la ejecución de las acciones y se sujetarán a las previsiones contenidas en los planes respectivos.
 
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2013)</small>
+
 ###### ARTÍCULO 58.
 
-Para la ejecución de los planes, los programas sectoriales, especiales, regionales, institucionales y territoriales, las dependencias y entidades de las administraciones públicas Estatal y Municipales, elaborarán programas operativos anuales, cumpliendo los requisitos de la Ley de Presupuesto, Contabilidad y Gasto Público del Estado, que incluirán los aspectos administrativos, de política económica y social correspondientes. Estos programas deberán ser congruentes entre sí, y regirán, durante el año de que se trate, las actividades de las administraciones públicas Estatal y Municipales en su conjunto, y servirán de base para la integración de los presupuestos anuales.
+Para la ejecución de los planes, los programas sectoriales, especiales, regionales, institucionales y territoriales, las dependencias y entidades de las administraciones públicas Estatal y Municipales, elaborarán programas operativos anuales, cumpliendo los requisitos de la Ley de Presupuesto y Ejercicio del Gasto Público del Estado de Baja California que incluirán los aspectos administrativos, de política económica y social correspondientes. Estos programas deberán ser congruentes entre sí, y regirán, durante el año de que se trate, las actividades de las administraciones públicas Estatal y Municipales en su conjunto, y servirán de base para la integración de los presupuestos anuales.
 
 ###### ARTÍCULO 59.
 
@@ -998,3 +1006,7 @@ PARA SU CONOCIMIENTO EN TERMINOS DEL ARTÍCULO 9, DE LA LEY ORGÁNICA DE LA ADMI
 P.O. 28 DE DICIEMBRE DE 2012.
 
 ÚNICO: Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 15 DE FEBRERO DE 2013.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
