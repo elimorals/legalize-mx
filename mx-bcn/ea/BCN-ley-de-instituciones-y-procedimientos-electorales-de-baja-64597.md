@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-instituciones-y-procedimientos-electorales-de-baja-64597
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-19"
-last_updated: "2012-10-26"
+last_updated: "2013-02-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64597&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2013.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el miércoles 19 de noviembre de 2008.
 
@@ -5979,9 +5979,11 @@ Los servidores públicos adscritos a la Contraloría General y, en su caso, los 
 
 Los servidores públicos del Instituto Electoral estarán obligados a proporcionar la información, permitir la revisión y atender los requerimientos que les presente la Contraloría, sin que dicha revisión interfiera u obstaculice el ejercicio de las funciones o atribuciones que esta ley les confieren.
 
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2013)</small>
+
 ###### ARTÍCULO 509.
 
-Con independencia a lo establecido en el presente capítulo, los órganos y servidores públicos del Instituto Electoral, están obligados a observar las normas previstas en la Ley de Fiscalización Superior para el Estado (sic) Baja California, y en la Ley de Presupuesto, Contabilidad y Gasto Público del Estado.
+Con independencia a lo establecido en el presente capítulo, los órganos y servidores públicos del Instituto Electoral, están obligados a observar las normas previstas en la Ley de Fiscalización Superior para el Estado (sic) Baja California y sus Municipios, y en la Ley de Presupuesto y Ejercicio del Gasto Público del Estado de Baja California.
 
 TRANSITORIOS:
 
@@ -6108,3 +6110,7 @@ PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publ
 SEGUNDO.- El Instituto Electoral y de Participación Ciudadana deberá adecuar las disposiciones reglamentarias a más tardar dentro de los 60 días siguientes a la entrada en vigor de las presentes reformas.
 
 TERCERO.- El Instituto Electoral y de Participación Ciudadana en términos del artículo 145 fracción XVI ordenará y aprobará la conformación del Distrito XVII con cabecera en el Municipio de Playas de Rosarito a más tardar 60 días después de la entrada en vigor de la presente reforma.
+
+P.O. 15 DE FEBRERO DE 2013.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
