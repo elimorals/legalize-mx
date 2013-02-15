@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-adquisiciones-arrendamientos-y-servicios-para-el-26524"
 country: "mx"
 rank: "ley"
 publication_date: "2002-10-18"
-last_updated: "2012-11-23"
+last_updated: "2013-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26524&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2013.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 18 de octubre de 2002.
 
@@ -133,9 +133,11 @@ X.- En general las adquisiciones, arrendamientos y servicios de cualquier natura
 
 Será responsabilidad de los sujetos obligados mantener adecuada y satisfactoriamente asegurados los bienes con que cuenten, en los términos que disponga la unidad administrativa; excepto cuando la naturaleza de los bienes o el tipo de riesgo a los que están expuestos, el costo del aseguramiento represente una erogación que no guarde relación directa con el beneficio que pudiera obtenerse. La unidad administrativa autorizará previamente esta excepción.
 
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2013)</small>
+
 ###### ARTÍCULO 6.
 
-El gasto de las adquisiciones, arrendamientos y servicios se sujetará, en su caso, a las disposiciones específicas de los presupuestos anuales de egresos, así como a lo previsto en la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Baja California y demás disposiciones aplicables.
+El gasto de las adquisiciones, arrendamientos y servicios se sujetará, en su caso, a las disposiciones específicas de los presupuestos anuales de egresos, así como a lo previsto en la Ley de Presupuesto y Ejercicio del Gasto Público del Estado de Baja California y demás disposiciones aplicables.
 
 ###### ARTÍCULO 7.
 
@@ -195,7 +197,9 @@ I.- Los objetivos y prioridades del Plan Estatal de Desarrollo, a los Planes Mun
 
 II.- Los objetivos, metas y previsiones de recursos establecidos en los presupuestos de egresos que corresponda;
 
-III.- A las disposiciones establecidas sobre la materia en la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Baja California.
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2013)</small>
+
+III.- A las disposiciones establecidas sobre la materia la (sic) Ley de Presupuesto y Ejercicio del Gasto Público del Estado de Baja California.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE FEBRERO DE 2010)</small>
 
@@ -601,6 +605,8 @@ VI.- Una vez realizada la evaluación de las proposiciones, y emitido el fallo e
 
 ### CAPÍTULO QUINTO. DE LA INFORMACIÓN Y VERIFICACIÓN
 
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2013)</small>
+
 ###### ARTÍCULO 43.
 
 En las adquisiciones, arrendamientos y servicios deberá pactarse preferentemente la condición de precio fijo. No obstante, en casos justificados se podrán pactar en el contrato decrementos o incrementos a los precios, de acuerdo con la fórmula o mecanismo de ajuste que determine la unidad administrativa, previamente a la presentación de las propuestas.
@@ -799,7 +805,7 @@ La adquisición de materiales cuyo consumo haga necesario el uso de equipo propi
 
 ###### ARTÍCULO 55.
 
-La unidad administrativa conservará en forma ordenada y sistemática, la documentación comprobatoria de los actos y contratos, por el término que corresponda, atendiendo a la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Baja California.
+La unidad administrativa conservará en forma ordenada y sistemática, la documentación comprobatoria de los actos y contratos, por el término que corresponda, atendiendo a la Ley de Presupuesto y Ejercicio del Gasto Público del Estado de Baja California.
 
 ###### ARTÍCULO 56.
 
@@ -1130,3 +1136,7 @@ P.O. 23 DE NOVIEMBRE DE 2012.
 PRIMERO.- La presente reforma entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- El Ejecutivo del Estado en un término no mayor de 90 días contados a partir de la entrada en vigor del presente Decreto, deberá modificar el Reglamento de la Ley de Adquisiciones, Arrendamientos y Servicios para el Estado de Baja California.
+
+P.O. 15 DE FEBRERO DE 2013.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
