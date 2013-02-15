@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proyectos-de-asociaciones-publico-privadas-para-el-70961
 country: "mx"
 rank: "ley"
 publication_date: "2009-10-30"
-last_updated: "2009-10-30"
+last_updated: "2013-02-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PROYECTOS DE ASOCIACIONES PÚBLICO-PRIVADAS PARA EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2013.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 30 de octubre de 2009.
 
@@ -89,9 +89,11 @@ Se deberá considerar la capacidad de pago de la Entidad Contratante para adquir
 
 En todo caso, no se podrá emprender un proyecto si el flujo de los pagos previstos en el conjunto de proyectos en ejecución excede del 10% del presupuesto de egresos de la Entidad Contratante correspondiente, aprobado para ese ejercicio y de los proyectados para los subsecuentes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE FEBRERO DE 2013)</small>
+
 ###### ARTÍCULO 7.
 
-Las obligaciones de pago derivadas de los contratos de Asociación Público-Privada, se consideran erogaciones plurianuales y su presupuestación se regirá como gasto corriente en términos de la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Baja California y demás legislación aplicable.
+Las obligaciones de pago derivadas de los contratos de Asociación Público-Privada, se consideran erogaciones plurianuales y su presupuestación se regirá como gasto corriente en términos de la Ley de Presupuesto y Ejercicio del Gasto Público del Estado de Baja California y demás legislación aplicable.
 
 No se deberá realizar pago alguno al Inversionista Proveedor antes de recibir los servicios u obras objeto del contrato celebrado.
 
@@ -246,3 +248,9 @@ JOSÉ GUADALUPE OSUNA MILLÁN.
 SECRETARIO GENERAL DE GOBIERNO.
 
 JOSÉ FRANCISCO BLAKE MORA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE FEBRERO DE 2013.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
