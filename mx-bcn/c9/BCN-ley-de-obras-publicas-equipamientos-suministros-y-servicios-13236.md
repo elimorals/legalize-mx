@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-obras-publicas-equipamientos-suministros-y-servicios-132
 country: "mx"
 rank: "ley"
 publication_date: "1998-07-03"
-last_updated: "2001-08-17"
+last_updated: "2013-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13236&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE OBRAS PÚBLICAS, EQUIPAMIENTOS, SUMINISTROS Y SERVICIOS RELACIONADOS CON LA MISMA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2001.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2013.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 3 de julio de 1998.
 
@@ -151,9 +151,11 @@ IX.- Los estudios económicos de inversión y financieros, sea a nivel sectorial
 
 X.- Los demás que tengan naturaleza análoga.
 
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2013)</small>
+
 ###### ARTICULO 6.
 
-El gasto para las obras públicas, equipamiento, suministro y servicios relacionados con las mismas, se sujetará en su caso, a las disposiciones específicas de los presupuestos anuales de Egresos del Estado o Municipios, así como lo previsto en la Ley de Presupuesto, Contabilidad y Gasto Público Estatal y demás disposiciones aplicables.
+El gasto para las obras públicas, equipamiento, suministro y servicios relacionados con las mismas, se sujetara en su caso, a las disposiciones específicas de los presupuestos anuales de Egresos del Estado o Municipios, así como lo previsto en la Ley de Presupuesto y Ejercicio del Gasto Público del Estado de Baja California y demás disposiciones aplicables.
 
 ###### ARTICULO 7.
 
@@ -567,7 +569,7 @@ XIV.- Demostrar cuando proceda registro actualizado de la Cámara, Colegio o Aso
 
 XV.- Criterios claros y detallados para la adjudicación de los contratos. En la evaluación de las proposiciones podrán utilizarse mecanismos de puntos y porcentajes, tratándose de servicios relacionados con la obra pública en los que no sea conveniente establecer sistemas de evaluación binaria que permitan una evaluación objetiva. En las convocatorias deberán señalarse los mecanismos de calificación, o en su caso, términos de referencia de los servicios, incluyendo descripción detallada, objetivos, alcances técnicos de los trabajos y servicios requeridos: normas técnicas aplicables: normas administrativas para la coordinación de los servicios: condiciones en que se presentarán estos: descripción y especificaciones de los productos y servicios por entregar.
 
-XVI.- El procedimiento de ajustes de costos, conforme lo establecido en el Artículo 63 de esta Ley.
+XVI.- El procedimiento de ajuste de costos, conforme lo establecido en el Artículo 63 de esta Ley.
 
 XVII.- Términos de referencia de los servicios, incluyendo descripción detallada, objetivos, alcances técnicos de los trabajos y servicios requeridos, normas técnicas aplicables, normas administrativas para la evaluación de los servicios, condiciones en que se presentarán estos, descripción y especificaciones de los productos y servicios por entregar.
 
@@ -1294,3 +1296,7 @@ DECRETO No. 331
 ###### ARTICULO UNICO.
 
 Las presentes reformas entrarán en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 15 DE FEBRERO DE 2013.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
