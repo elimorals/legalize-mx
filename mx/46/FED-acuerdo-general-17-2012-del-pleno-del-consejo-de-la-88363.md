@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-17-2012-del-pleno-del-consejo-de-la-88363"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2012-06-15"
-last_updated: "2012-12-21"
+last_updated: "2013-02-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88363&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2012-06-07"
 
 ACUERDO GENERAL 17/2012, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE DICIEMBRE DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO, PUBLICADO EN EL D.O.F. DE 15 DE FEBRERO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: DEROGADO.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el martes 26 de junio de 2012.
 
@@ -930,3 +932,17 @@ PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de la reforma, al Acuerdo General 17/2012, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los tribunales colegiados y unitarios de Circuito y de los juzgados de Distrito.
 
 TERCERO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 15 DE FEBRERO DE 2013.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de aprobación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. Se deroga el Acuerdo General 17/2012, publicado en el Diario Oficial de la Federación, el veintiséis de junio de dos mil doce. Asimismo, quedan sin efecto las disposiciones dictadas con anterioridad, en lo que se opongan a este acuerdo.
+
+CUARTO. Los acuerdos generales que dicte el Consejo de la Judicatura Federal con posterioridad al inicio de la vigencia del presente acuerdo y que se refieran a la determinación del número, límites territoriales de los circuitos y distritos judiciales, así como respecto al número, límites territoriales y especialización por materia de los tribunales de Circuito y de los juzgados de Distrito, deberán ser integrados con la debida oportunidad por la Secretaría Ejecutiva de Vigilancia; para efectos de su actualización.
+
+QUINTO. Las modificaciones en la conformación municipal que realicen los Estados de la República en el ámbito de sus respectivas competencias y que cambien la distribución contenida en el presente acuerdo general, serán analizadas por el Consejo de la Judicatura Federal y en su caso, las variaciones relativas a que haya lugar se efectuarán en acuerdos generales que se integren a este acuerdo; considerando que el nuevo municipio pertenecerá al distrito judicial del que formaba parte.
+
+SEXTO. En virtud de los ajustes de nomenclatura y residencia previstos en el presente acuerdo, las Administraciones Regionales y Delegaciones Administrativas proveerán a los órganos jurisdiccionales respectivos, de los recursos materiales necesarios (sello oficial, directorios, placa conmemorativa del órgano jurisdiccional, papelería, etc.), para que a la brevedad posible cuenten con ellos.
