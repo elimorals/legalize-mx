@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-3594
 country: "mx"
 rank: "ley"
 publication_date: "1970-12-20"
-last_updated: "2012-10-26"
+last_updated: "2013-02-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3594&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL GOBIERNO Y MUNICIPIOS DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2013.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 20 de diciembre de 1970.
 
@@ -309,11 +309,15 @@ Seguro de Enfermedades no Profesionales.
 
 En caso de enfermedad no profesional, el trabajador y el pensionista tendrán derecho a las siguientes prestaciones:
 
-I.- Asistencia médica, quirúrgica, farmacéutica y hospitalaria que sean necesarias, desde el comienzo de la enfermedad y durante el plazo máximo de cincuenta y dos semanas para la misma enfermedad. El Reglamento de Servicios Médicos determinará que se entiende por éste último concepto.
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2013)</small>
 
-El Instituto no estará obligado a proporcionar servicios de cirugía cosmética, ni a proveer dentríficos, cosméticos, lentes para corrección de defectos visuales, aparatos de prótesis de odontología o aparatos de prótesis de ortopedia y aparatos para sordera.
+I.- Asistencia médica, quirúrgica, farmacéutica y hospitalaria que sean necesarias, desde el comienzo de la enfermedad y durante el plazo máximo de cincuenta y dos semanas para la misma enfermedad. El Reglamento de Servicios Médicos determinará qué se entiende por éste último concepto.
 
-En caso de enfermos ambulantes, cuyo tratamiento médico no les impida trabajar, el tratamiento de una misma enfermedad se continuará hasta su curación.
+Los servicios públicos de salud que otorguen los establecimientos públicos pertenecientes al Instituto de Seguridad y Servicios Sociales de los Trabajadores del Gobierno y Municipios del Estado de Baja California a los derechohabientes, tratándose del otorgamiento de medicamentos que formen parte del cuadro básico de medicinas, por medio de recetas a través de sus farmacias, será conforme lo establece la normatividad respectiva y en el caso de desabasto el Instituto tendrán la obligación de subrogarlos a favor de los derechohabientes en instituciones públicas o privadas.
+
+El Instituto no estará obligado a proporcionar servicios de cirugía cosmética, ni a proveer dentríficos (sic), cosméticos, lentes para corrección de defectos visuales, aparatos de prótesis de odontología o aparatos de prótesis de ortopedia y aparatos para sordera.
+
+En caso de enfermos ambulantes, cuyo tratamiento médico no les impida trabajar, el tratamiento de una misma enfermedad se continuará hasta su curación
 
 II.- Cuando se trate de un trabajador y la enfermedad lo incapacite para el trabajo, tendrá derecho a licencia con goce de sueldo, o con medio sueldo, de acuerdo con las disposiciones legales vigentes que reglamenten las relaciones laborales entre el Estado y los organismos públicos incorporados, por una parte y sus servidores, por la otra. Si al vencer la licencia con medio sueldo continúa la incapacidad, el trabajador tendrá derecho a disfrutar licencia sin goce de sueldo mientras dure la incapacidad hasta completar con las licencias anteriores y a partir de la fecha en que se inició aquélla, el término de cincuenta y dos semanas, no obstante cualquier disposición en contrario contenida en las expresadas Leyes reglamentarias. Durante la licencia sin goce de sueldo a que acaba de aludirse, el Instituto cubrirá al asegurado un subsidio en dinero equivalente al cincuenta ciento del sueldo que percibía el trabajador.
 
@@ -1570,3 +1574,9 @@ P.O. 26 DE OCTUBRE DE 2012.
 PRIMERO.- Las presentes reformas entrarán en vigor a partir del día 1 de enero de 2013.
 
 SEGUNDO.- Publíquense las presentes reformas en el Periódico Oficial de Estado de Baja California.
+
+P.O. 15 DE FEBRERO DE 2013.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos de su publicación en el Periódico Oficial del Estado de Baja California.
