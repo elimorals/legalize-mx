@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-ingresos-para-el-municipio-de-tuxtla-gutierrez-92273"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2013-01-05"
-last_updated: "2013-01-05"
+last_updated: "2013-02-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92273&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 LEY DE INGRESOS PARA EL MUNICIPIO DE TUXTLA GUTIÉRREZ, CHIAPAS PARA EL EJERCICIO FISCAL 2013
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el sábado 5 de enero de 2013.
 
@@ -3719,15 +3719,15 @@ Con excepción de los ingresos derivados de impuestos, la Autoridad Fiscal Munic
 
 ###### Artículo 65.
 
-Vetado por el Ejecutivo del Estado.
+(INVALIDADO [N. DE E. DEROGADO], P.O. 15 DE FEBRERO DE 2013)
 
 ###### Artículo 66.
 
-Vetado por el Ejecutivo del Estado.
+(INVALIDADO [N. DE E. DEROGADO], P.O. 15 DE FEBRERO DE 2013)
 
 ###### Artículo 67.
 
-Vetado por el Ejecutivo del Estado.
+(INVALIDADO [N. DE E. DEROGADO], P.O. 15 DE FEBRERO DE 2013)
 
 ## TÍTULO CUARTO
 
@@ -4638,3 +4638,11 @@ Dado en el salón de Sesiones del H. Congreso del Estado, en la Ciudad de Tuxtla
 De conformidad con la fracción I del artículo 44 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas, a los cinco días del mes de enero del año dos mil trece.
 
 Manuel Velasco Coello, Gobernador del Estado de Chiapas.- Noé Castañón León; Secretario General de Gobierno.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE FEBRERO DE 2013.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
