@@ -4,7 +4,7 @@ identifier: "OAX-codigo-procesal-penal-para-el-estado-de-oaxaca-52026"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-09"
-last_updated: "2012-10-04"
+last_updated: "2013-02-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52026&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "OAX"
 ---
 # CODIGO PROCESAL PENAL PARA EL ESTADO DE OAXACA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE FEBRERO DE 2013 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CODIGO PROCESAL PENAL PARA EL ESTADO DE OAXACA
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DEL CODIGO PROCESAL PENAL PARA EL ESTADO DE OAXACA, PUBLICADO EN EL P.O. DE 9 DE SEPTIEMBRE DE 2006, 5 DE SEPTIEMBRE DE 2009, 2 DE MARZO DE 2010, 23 DE AGOSTO DE 2010 Y 5 DE MAYO DE 2011, EL PRESENTE ORDENAMIENTO ENTRARA EN VIGOR SUCESIVAMENTE EN LOS TERMINOS SEÑALADOS EN EL PROPIO TRANSITORIO.</small>
 
 ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE OCTUBRE DE 2012.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIODICO OFICIAL DEL 15 DE FEBRERO DE 2013.</small>
 
 Código publicado en la Cuarta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de septiembre de 2006.
 
@@ -2189,8 +2189,6 @@ El cumplimiento de lo acordado extingue la acción penal.
 
 ### CAPÍTULO II. CRITERIOS DE OPORTUNIDAD
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE FEBRERO DE 2013 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 196.
 
 Principios de legalidad procesal y oportunidad
@@ -2209,9 +2207,9 @@ II. El imputado haya sufrido, a consecuencia del hecho, daño físico o psíquic
 
 III. La pena o medida de seguridad que pueda imponerse por el hecho de cuya persecución se prescinde, carezca de importancia en consideración a la pena o medida de seguridad ya impuesta, o a la que se debe esperar por los restantes hechos, o la que se le impuso o se le impondría en un proceso tramitado en otro Estado.
 
-> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2012)</small>
+(REFORMADO, P.O. 4 DE OCTUBRE DE 2012) (F. DE E., P.O. 15 DE FEBRERO DE 2013)
 
-El Ministerio Público deberá aplicar los criterios de oportunidad y otras facultades discrecionales sobre la base de razones objetivas, libre de estereotipos, con perspectiva de género y sin discriminación, valorando las pautas descritas en cada caso individual, según las pautas generales que al efecto se hayan dispuesto para la procuración de justicia. En los casos en que se verifique un daño, el Ministerio Público velará porque sea razonablemente reparado, exceptuando de esta disposición los delitos de violencia intrafamiliar, los delitos de carácter sexual y feminicidio.
+El Ministerio Público deberá aplicar los criterios de oportunidad y otras facultades discrecionales sobre la base de razones objetivas, libre de estereotipos, con perspectiva de género y sin discriminación, valorando las pautas descritas en cada caso individual, según las pautas generales que al efecto se hayan dispuesto para la procuración de justicia. Exceptuando de esta disposición los delitos de violencia intrafamiliar, los delitos de carácter sexual y feminicidio. En los casos en que se verifique un daño, el Ministerio Publico velara porque sea razonablemente reparado.
 
 > <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
