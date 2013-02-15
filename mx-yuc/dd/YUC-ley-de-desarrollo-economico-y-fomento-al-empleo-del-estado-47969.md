@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-desarrollo-economico-y-fomento-al-empleo-del-estado-4796
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-21"
-last_updated: "2010-08-11"
+last_updated: "2013-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47969&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "YUC"
 ---
 # LEY DE DESARROLLO ECONOMICO Y FOMENTO AL EMPLEO DEL ESTADO DE YUCATAN
 
-LEY DE DESARROLLO ECONOMICO Y FOMENTO AL EMPLEO DEL ESTADO DE YUCATAN
+LEY DE DESARROLLO ECONÓMICO Y FOMENTO AL EMPLEO DEL ESTADO DE YUCATÁN
 
-ULTIMA REFORMAR PUBLICADA EN EL DIARIO OFICIAL: 11 DE AGOSTO DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NÚMERO 41, PUBLICADO EN EL D.O. DE 15 DE FEBRERO DE 2013, LAS REFERENCIAS QUE SE HAGAN AL CONSEJO ESTATAL CONSULTIVO PARA EL DESARROLLO ECONÓMICO Y/O CONSEJO ESTATAL CONSULTIVO PARA EL DESARROLLO ECONÓMICO Y FOMENTO AL EMPLEO; SE ENTENDERÁ QUE SE REFIEREN AL CONSEJO CONSULTIVO PARA EL DESARROLLO ECONÓMICO DE YUCATÁN.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 15 DE FEBRERO DE 2013.
 
 Ley publicada en el Diario Oficial del Gobierno del Estado de Yucatán, el miércoles 21 de diciembre de 2005.
 
@@ -43,45 +45,53 @@ LEY DE DESARROLLO ECONÓMICO Y FOMENTO AL EMPLEO DEL ESTADO DE YUCATÁN.
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-### CAPÍTULO I. De los Objetivos de la Ley
+> <small>(REFORMADO, D.O. 15 DE FEBRERO DE 2013)</small>
+
+### CAPÍTULO ÚNICO
 
 ###### Artículo 1.
 
 Las disposiciones de esta ley son de orden público, interés social y de observancia general, en todo el territorio estatal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 15 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 2.
 
-La aplicación de este ordenamiento corresponde al Ejecutivo del Estado, quien ejercerá sus atribuciones por conducto de la dependencia encargada del desarrollo económico en la entidad.
+La aplicación de este ordenamiento corresponde al Poder Ejecutivo del Gobierno del Estado, quien ejercerá sus atribuciones por conducto de la Secretaría de Fomento Económico del Poder Ejecutivo del Gobierno del Estado de Yucatán.
 
 Concurren en su aplicación y en el ámbito de su jurisdicción, los municipios del estado.
 
+> <small>(REFORMADO, D.O. 15 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 3.
 
-Para esta ley, se entenderá por:
+Para los efectos de esta Ley, se entenderá por:
 
-I.- Secretaría: La Dependencia responsable del desarrollo económico del Estado;
+I.- Ciudad Industrial: el núcleo urbano delimitado físicamente en el que se asientan o se establecen un conjunto de empresas o unidades económicas de naturaleza diversa o uniforme, dotado de infraestructura física e instalaciones industriales registrado como tal ante la Secretaría de Fomento Económico del Poder Ejecutivo del Gobierno del Estado de Yucatán;
 
-II.- Ley: Ley de Desarrollo Económico y Fomento al Empleo del Estado de Yucatán;
+II.- Consejo Consultivo: el Consejo Consultivo para el Desarrollo Económico de Yucatán;
 
-III.- Microparque: La superficie de terreno de propiedad pública o privada destinada al establecimiento de microempresas, dividida en lotes de entre 250 y 1,000 metros cuadrados, con infraestructura física, tales como calles, alumbrado público, energía eléctrica, teléfono, agua y drenaje, que se encuentre registrada en la Secretaría;
+III.- Desarrollo Económico: el cambio favorable en las condiciones cualitativas y cuantitativas del sistema económico estatal, que propicie una mejor calidad de vida de la población;
 
-IV.- Parque Industrial: La superficie de terreno de propiedad pública o privada destinada al establecimiento de industrias, dividida en lotes para su venta, con servicios de infraestructura física, tales como calles, alumbrado público, energía eléctrica, teléfono, agua y drenaje, que se encuentre registrada en la Secretaría;
+IV.- Ley: la Ley de Desarrollo Económico y Fomento al Empleo del Estado de Yucatán;
 
-V.- Ciudad Industrial: El núcleo urbano delimitado físicamente en el que se asientan o se establecen un conjunto de empresas o unidades económicas de naturaleza diversa o uniforme, dotado de infraestructura física e instalaciones industriales registrado como tal ante la Secretaría;
+V.- Microparque: la superficie de terreno de propiedad pública o privada destinada al establecimiento de microempresas, dividida en lotes de entre 250 y 1,000 metros cuadrados, con infraestructura física, tales como calles, alumbrado público, energía eléctrica, teléfono, agua y drenaje, que se encuentre registrada en la Secretaría de Fomento Económico del Poder Ejecutivo del Gobierno del Estado de Yucatán;
 
-VI.- Sujeto de apoyo: Las personas físicas o morales con actividad empresarial, establecidas o por establecerse en el estado y cuyos proyectos de inversión sean detonantes para el desarrollo o generen empleos directos;
+VI.- Parque Industrial: la superficie de terreno con un mínimo de 10 hectáreas con otras 10 para futuras extensiones, de propiedad pública o privada, destinada al establecimiento de industrias, dividida en lotes mayores a los 1,000 metros cuadrados, con servicios de infraestructura física, tales como calles, alumbrado público, energía eléctrica, teléfono, agua y drenaje, que se encuentre registrada en la Secretaría de Fomento Económico del Poder Ejecutivo del Gobierno del Estado de Yucatán;
 
-VII.- Unidad Económica: A los establecimientos, personas o entidades dedicados a la manufactura, producción o comercialización de bienes o servicios;
+VII.- Programa Rector: el Programa Rector para el Desarrollo Económico del Estado de Yucatán;
 
-VIII.- Consejo Consultivo: Al Consejo Estatal Consultivo para el Desarrollo Económico;
+VIII.- Secretaría: la Secretaría de Fomento Económico del Poder Ejecutivo del Gobierno del Estado de Yucatán;
 
-IX.- Desarrollo Económico: El cambio favorable en las condiciones cualitativas y cuantitativas del sistema económico estatal, que propicie el mejoramiento en la calidad de vida de la población;
+IX.- Sujetos de apoyo: las personas físicas o morales con actividad empresarial, establecidas o por establecerse en el Estado, cuyos proyectos de inversión sean detonantes para el desarrollo o generen empleos directos, y
 
-X.- Programa Rector: Al Programa Rector para el Desarrollo Económico.
+X.- Unidad Económica: los establecimientos, personas o entidades que se dediquen a la manufactura, producción o comercialización de bienes o servicios.
+
+> <small>(REFORMADO, D.O. 15 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 4.
 
-La presente Ley tiene por objeto establecer las disposiciones que permitan promover el desarrollo de la actividad económica del Estado, incentivar la inversión, fomentar el empleo; así como coordinar la participación de los municipios y los sectores social y privado, en la consecución de los objetivos que este ordenamiento establece.
+Esta Ley tiene por objeto establecer las disposiciones que permitan promover el desarrollo de la actividad económica del Estado, incentivar la inversión, fomentar el empleo; así como coordinar la participación de los municipios y los sectores social, privado y académico, en la consecución de los objetivos que este ordenamiento establece.
 
 ###### Artículo 5.
 
@@ -89,7 +99,9 @@ Son objetivos de la presente ley:
 
 I.- Promover la generación de fuentes de empleo y consolidar las existentes;
 
-II.- Establecer las bases para que el Estado cuente con un Programa Rector, el cual permita dar (sic) promover el desarrollo económico estatal y se potencialicen las vocaciones comerciales e industriales, de las diversas regiones;
+> <small>(REFORMADA, D.O. 15 DE FEBRERO DE 2013)</small>
+
+II.- Establecer las bases para que el Estado cuente con un Programa Rector, el cual permita promover el desarrollo económico estatal y se potencialicen las vocaciones comerciales e industriales, de las diversas regiones;
 
 III.- Fortalecer los sectores económicos estratégicos, para que sean altamente competitivos, a través de esquemas de agrupamiento empresarial, formación de cadenas productivas y el establecimiento de mecanismos de abastecimiento, con insumos y proveedores locales;
 
@@ -121,15 +133,19 @@ XVI.- Difundir las ventajas competitivas de la entidad en su conjunto y de sus r
 
 XVII.- Promover el desarrollo de las zonas en condiciones económicas desfavorables, integrándolas a programas de desarrollo regional;
 
-XVIII.- Establecer políticas y acciones de fomento y desarrollo económico de largo plazo, con la participación del Consejo Estatal Consultivo para el Desarrollo Económico; de conformidad con los planes federal, regional, estatal y municipal, así como de los ordenamientos jurídicos en la materia y los acuerdos internacionales;
+> <small>(REFORMADA, D.O. 15 DE FEBRERO DE 2013)</small>
+
+XVIII.- Establecer políticas y acciones de fomento y desarrollo económico de largo plazo, con la participación del Consejo Consultivo; de conformidad con los planes federal, regional, estatal y municipal, así como con los ordenamientos jurídicos en la materia y los acuerdos internacionales;
 
 XIX.- Fomentar la creación de estímulos e incentivos que fortalezcan la productividad y la posición competitiva de la micro, pequeña y mediana empresa, y
 
 XX.- Promover el comercio exterior, en concordancia con los gobiernos federal y municipal.
 
+> <small>(REFORMADO, D.O. 15 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 6.
 
-El Ejecutivo será el responsable de la consecución de los objetivos a que se refiere el artículo anterior, y establecerá y regulará la participación de los sectores privado y social; de conformidad con lo dispuesto por la Ley Orgánica de la Administración Pública del Estado de Yucatán, y demás disposiciones legales.
+El Titular del Poder Ejecutivo del Gobierno del Estado será el responsable de la consecución de los objetivos a que se refiere el artículo anterior, el cual establecerá y regulará la participación de los sectores social, privado, y académico; de conformidad con lo dispuesto en el Código de la Administración Pública de Yucatán, y demás disposiciones legales y normativas aplicables.
 
 ###### Artículo 7.
 
@@ -143,23 +159,33 @@ Corresponde al Ejecutivo del Estado, dirigir y coordinar dicha participación, a
 
 Al Titular del Poder Ejecutivo Estatal, en materia de desarrollo económico y fomento al empleo, además de las atribuciones que le confieren otras leyes le corresponden las siguientes:
 
-I.- Impulsar y coordinar la participación de los sectores privado y social en la elaboración, ejecución y evaluación de los programas de fomento al empleo e inversión;
+> <small>(REFORMADA, D.O. 15 DE FEBRERO DE 2013)</small>
+
+I.- Impulsar y coordinar la participación de los sectores social, privado y académico en la elaboración, ejecución y evaluación de los programas de fomento al empleo e inversión;
 
 II.- Dirigir y coordinar las acciones en materia de fomento a la inversión y el empleo;
 
 III.- Celebrar convenios en materia de fomento a la inversión y el empleo con el Gobierno Federal, los Municipios y las demás entidades federativas;
 
-IV.- Nombrar a los integrantes del Consejo Estatal Consultivo para el Desarrollo Económico, en los términos que establece la presente Ley;
+> <small>(REFORMADA, D.O. 15 DE FEBRERO DE 2013)</small>
 
-V.- Establecer en su carácter de Presidente del Consejo Consultivo, los lineamientos para la elaboración del Programa Rector del Desarrollo Económico del Estado, con una visión integral y de largo plazo;
+IV.- Nombrar a los integrantes del Consejo Consultivo, en los términos que establece esta Ley y demás disposiciones legales y normativas aplicables;
 
-VI.- Crear un fideicomiso destinado a la planeación y programación del desarrollo económico, el cual deberá tener como principal función, cubrir los costos necesarios para la elaboración del Programa;
+> <small>(REFORMADA, D.O. 15 DE FEBRERO DE 2013)</small>
+
+V.- Establecer en su carácter de Presidente del Consejo Consultivo, los lineamientos para la elaboración del Programa Rector, con una visión integral y de largo plazo;
+
+> <small>(REFORMADA, D.O. 15 DE FEBRERO DE 2013)</small>
+
+VI.- Crear un fideicomiso destinado a la planeación y programación del desarrollo económico, el cual deberá tener como principal función, cubrir los costos necesarios para la elaboración del Programa Rector;
 
 VII.- Asignar a través de la Secretaría, los estímulos e incentivos, generales o específicos, en los términos de las disposiciones reglamentarias, y
 
 VIII.- Expedir las disposiciones reglamentarias o administrativas para el adecuado cumplimiento de esta ley.
 
-### CAPÍTULO II. De de (sic) la Secretaría
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 15 DE FEBRERO DE 2013)</small>
+
+### CAPÍTULO II. De la Secretaría
 
 ###### Artículo 9.
 
@@ -179,9 +205,9 @@ VI.- Fomentar esquemas y mecanismos para la exportación de los productos locale
 
 VII.- Promover la creación del Sistema Estatal de Información y Análisis Económico, y coordinar sus trabajos;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VIII.- (DEROGADA POR ARTICULO QUINTO TRANSITORIO DE LA LEY DE MEJORA REGULATORIA DEL ESTADO DE YUCATAN, D.O. 11 DE AGOSTO DE 2010)
+VIII.- (DEROGADA POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY DE MEJORA REGULATORIA DEL ESTADO DE YUCATÁN, D.O. 11 DE AGOSTO DE 2010)
 
 IX.- Las demás que se le otorguen.
 
@@ -197,7 +223,9 @@ II.- Proponer al Titular del Ejecutivo Estatal estímulos e incentivos;
 
 III.- Proponer o iniciar estímulos e incentivos a través de las respectivas leyes hacendarias y fiscales;
 
-IV.- Impulsar la participación de los sectores privado y social en la elaboración, ejecución y evaluación de los programas de fomento a la inversión y al empleo, en el ámbito de su jurisdicción;
+> <small>(REFORMADA, D.O. 15 DE FEBRERO DE 2013)</small>
+
+IV.- Impulsar la participación de los sectores social, privado y académico en la elaboración, ejecución y evaluación de los programas de fomento a la inversión y al empleo, en el ámbito de su jurisdicción;
 
 V.- Coordinar con la Secretaría, las acciones en materia de fomento al empleo y la inversión, en su jurisdicción;
 
@@ -209,69 +237,97 @@ VIII.- Contribuir con datos e informes al Sistema Estatal de Información y Aná
 
 IX.- Las demás que las leyes establezcan.
 
-### CAPÍTULO IV. Del Consejo Estatal Consultivo para el Desarrollo Económico y Fomento al Empleo
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 15 DE FEBRERO DE 2013)</small>
+
+### CAPÍTULO IV. Del Consejo Consultivo
+
+> <small>(REFORMADO, D.O. 15 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 11.
 
-El Consejo Estatal Consultivo para el Desarrollo Económico y Fomento al Empleo, es un organismo de participación social y consulta para el Ejecutivo del Estado, en la materia.
+El Consejo Consultivo es un organismo de participación social y consulta para el Titular del Poder Ejecutivo del Gobierno del Estado, en materia de desarrollo económico y fomento al empleo.
 
-El Consejo Consultivo estará integrado por representantes de los sectores público, privado y social. En cuanto al primero, serán los titulares de las dependencias cuyas funciones sean afines a los objetivos de esta ley, a juicio del Ejecutivo Estatal. En cuanto a los del sector privado serán: uno proveniente de un sindicato patronal; otro, de una Cámara del sector industrial, y otro de la respectiva del sector comercial.
+El Consejo Consultivo estará integrado por representantes de los sectores público, social, privado y académico, en los siguientes términos:
 
-Para garantizar su representatividad los mencionados organismos empresariales deberán contar con las siguientes características: representación nacional; un mínimo de 300 afiliados, y al menos quince años de haberse constituido.
+I.- Sector Público: los titulares de las dependencias y entidades cuyas funciones sean afines a los objetivos de esta Ley y, en su caso, determine el Titular del Poder Ejecutivo del Gobierno del Estado;
 
-En cuanto al sector social, deberán estar representadas las dos organizaciones laborales más representativas en la Entidad.
+II.- Sector Social: podrán estar representadas por las organizaciones laborales de mayor representatividad en la Entidad;
 
-Corresponde al Ejecutivo del Estado, nombrar y remover en cualquier momento, al Secretario Adjunto, así como a los demás representantes de los sectores social y privado, previa consulta.
+III.- Sector Privado: podrán participar las personas físicas o morales que tengan una representación destacada en la actividad empresarial o productiva del Estado, y
 
-El Consejo Consultivo deberá sesionar en forma trimestral, sin perjuicio de que a solicitud de dos de sus integrantes pueda hacerlo en forma extraordinaria. Dichas sesiones se convocarán y se regirán por lo dispuesto en el Reglamento que para tal efecto emita el Ejecutivo Estatal.
+IV.- Sector Académico: las instituciones académicas y de investigación, tanto públicas como privadas, con presencia en la Entidad.
+
+Los representantes, organizaciones e instituciones del sector social, privado y académico que deseen participar en el Consejo Consultivo, deberán inscribirse de acuerdo a los términos de la convocatoria que para tal efecto se expida y cumplir con los requisitos de representatividad dispuestos en el Reglamento que para tal efecto emita el Titular del Poder Ejecutivo del Gobierno del Estado.
+
+> <small>(REFORMADO, D.O. 15 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 12.
 
-El Consejo Consultivo se integrará de manera mixta y paritaria, su funcionamiento estará a lo dispuesto en el reglamento respectivo, y se integra de la siguiente forma:
+El Consejo Consultivo se integrará de la siguiente manera:
 
-I.- Un Presidente, que será el titular del Poder Ejecutivo;
+I.- Un Presidente, que será el Titular del Poder Ejecutivo del Gobierno del Estado;
 
-II.- Un Secretario, que será el titular de la Secretaría;
+II.- Un Secretario, que será el Titular de la Secretaría;
 
-III.- Un Secretario Adjunto, que será nombrado por el Presidente a propuesta de los sectores social y privado representados, y
+III.- Un Secretario Adjunto, que será un representante de los organismos empresariales más figurativos en la Entidad, el cual será nombrado por el Presidente a propuesta de los consejeros de los sectores social, privado y académico representados, y
 
-IV.- Ocho vocales: cuatro gubernamentales y cuatro provenientes de los sectores social y privado, en igualdad de número, cada uno.
+IV.- Catorce Consejeros:
 
-El reglamento que para el efecto emita el Ejecutivo del Estado, establecerá las disposiciones respecto al nombramiento y sustitución de sus integrantes, así como, todo lo relativo a su buen funcionamiento.
+a) Seis del sector público;
+
+b) Dos del sector social;
+
+c) Dos del sector privado;
+
+d) Dos del sector académico, y
+
+e) Dos del Poder Legislativo designados por el Pleno del H. Congreso del Estado.
+
+El Consejo Consultivo sesionará de manera ordinaria cada tres meses y en forma extraordinaria cuando sea necesario a solicitud de su Presidente o de la mayoría de sus integrantes.
+
+El nombramiento y remoción de los integrantes, así como la expedición de las convocatorias y la celebración de las sesiones del Consejo Consultivo, se regirán por lo dispuesto en el Reglamento que para tal efecto emita el Titular del Poder Ejecutivo del Gobierno del Estado.
+
+> <small>(REFORMADO, D.O. 15 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 13.
 
-El Consejo Consultivo tendrá las siguientes funciones:
+El Consejo Consultivo tendrá las siguientes atribuciones:
 
 I.- Participar con la Secretaría en la elaboración, vigilancia, revisión y evaluación del Programa Rector, en el marco del Sistema Estatal de Planeación;
 
-II.- Proponer proyectos de mejora regulatoria y de simplificación administrativa;
+II.- Analizar las necesidades y la problemática que enfrenten los diversos sectores económicos, así como proponer alternativas que alienten su crecimiento, consoliden su producción y eleven los niveles de competitividad regional;
 
-III.- Proponer la creación de estímulos e incentivos en materia de desarrollo económico en el Estado, y vigilar la entrega y aplicación de los mismos;
+III.- Proponer y difundir la creación de estímulos e incentivos en materia de desarrollo económico en el Estado;
 
-IV.- Difundir los estímulos e incentivos entre los diversos sectores económicos y sociales que representan;
+IV.- Analizar la legislación y normatividad relativas a la constitución, instalación y funcionamiento de unidades económicas, para sugerir la mejora regulatoria y/o las medidas administrativas que tiendan al logro del objeto de la Ley;
 
-V.- Colaborar en la Investigación, el desarrollo e innovación tecnológicos, para la competitividad de las empresas y unidades económicas establecidas;
+V.- Colaborar en la investigación, el desarrollo e innovación tecnológicos, para la competitividad de las empresas y unidades económicas establecidas;
 
-VI.- Promover y coadyuvar en la prestación de los servicios de asistencia técnica y capacitación permanente, orientados a la calidad y productividad;
+VI.- Colaborar con la Secretaría, en la promoción de la exportación de productos locales;
 
-VII.- Participar en la elaboración de los programas de promoción de la inversión nacional y extranjera;
+VII.- Emitir opinión técnica sobre las políticas públicas y programas en materia de fomento y desarrollo económico en el Estado y su impacto;
 
-VIII.- Colaborar con la Secretaría, en la promoción de la exportación de productos locales;
+VIII.- Sugerir políticas, acciones y programas para alcanzar mayores niveles de productividad y competitividad en los distintos sectores económicos;
 
-IX.- Proponer programas de fortalecimiento de la micro, pequeña y mediana empresa en el estado;
+IX.- Promover la participación de los sectores social, privado y académico en el fomento y desarrollo económico;
 
-X.- Sugerir y colaborar en la realización de foros, convenciones, encuentros, exposiciones y demás eventos, relacionados con el fomento del desarrollo industrial y comercial, y su vinculación con los sectores académico y educativo;
+X.- Coadyuvar en la promoción y fomento del desarrollo sustentable, y las ventajas competitivas del sector productivo y comercial;
 
-XI.- Promover la participación de los sectores social y privado en el fomento y desarrollo económico;
+XI.- Proponer la celebración de acuerdos de coordinación con los distintos órganos del Gobierno Federal, Estatal, Municipal e Interinstitucional para el cumplimiento de los objetivos de esta Ley;
 
-XII.- Fomentar políticas y programas de apoyo crediticio, financiero, capacitación y adiestramiento para el desarrollo económico del Estado;
+XII.- Constituirse en órgano de consulta en materia de desarrollo económico, creando las mesas de trabajo necesarias para analizar la problemática de las diferentes áreas económicas y, en su caso, plantear las propuestas de solución correspondientes;
 
-XIII.- Fomentar y promover el desarrollo sustentable y las ventajas competitivas del sector productivo y comercial;
+XIII.- Promover y coadyuvar en la prestación de los servicios de asistencia técnica y capacitación permanente, orientados a la calidad, y
 
-XIV.- Promover el aprovechamiento racional de los recursos naturales, y
+XIV.- Proponer programas de fortalecimiento de la micro, pequeña y mediana empresa en el Estado.
 
-XV.- Impulsar políticas y acciones, para alcanzar mayores niveles de productividad y competitividad en los distintos sectores económicos.
+> <small>(ADICIONADO, D.O. 15 DE FEBRERO DE 2013)</small>
+
+###### Artículo 13 Bis.
+
+El Consejo Consultivo podrá integrar, a propuesta del Presidente, las comisiones o mesas de trabajo necesarias para la atención de temas específicos y el mejor cumplimiento de sus funciones.
+
+El Reglamento que para tal efecto emita el Titular del Poder Ejecutivo del Gobierno del Estado, establecerá las disposiciones relativas para la conformación y el funcionamiento de las comisiones o mesas de trabajo.
 
 ###### Artículo 14.
 
@@ -283,23 +339,29 @@ El Ejecutivo del Estado a solicitud del Consejo Consultivo proporcionará cualqu
 
 ## TÍTULO TERCERO. DEL FOMENTO A LA INVERSIÓN Y AL EMPLEO
 
-### CAPÍTULO I. Del Programa Rector para el Desarrollo Económico
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 15 DE FEBRERO DE 2013)</small>
+
+### CAPÍTULO I. Del Programa Rector
+
+> <small>(REFORMADO, D.O. 15 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 15.
 
-El Programa Rector para el Desarrollo Económico, es el instrumento de planeación estratégica y medio eficaz para el logro de los objetivos establecidos en esta ley, y deberá contemplar el diagnóstico de la situación económica del Estado al momento de su realización; la división en regiones económicas de la Entidad; el análisis competitivo de cada una de ellas y sus vocaciones; análisis del marco normativo y regulatorio internacional, nacional y local; elaboración de propuestas de mejora normativa y regulatoria; integración de cadenas productivas; establecimiento de políticas públicas de largo plazo, y de los estímulos orientados al desarrollo económico; así como la determinación de las regiones económicas y de los sectores económicos prioritarios. Finalmente los mecanismos de evaluación y seguimiento.
+El Programa Rector, es el instrumento de planeación estratégica y medio eficaz para el logro de los objetivos establecidos en esta Ley, y deberá contemplar el diagnóstico de la situación económica del Estado al momento de su realización; la división en regiones económicas de la Entidad; el análisis competitivo de cada una de ellas y sus vocaciones; análisis del marco normativo y regulatorio internacional, nacional y local; elaboración de propuestas de mejora normativa y regulatoria; integración de cadenas productivas; establecimiento de políticas públicas de largo plazo, y de los estímulos orientados al desarrollo económico; así como la determinación de las regiones económicas y de los sectores económicos prioritarios. Finalmente los mecanismos de evaluación y seguimiento.
 
-El Ejecutivo del Estado dentro de los cuarenta y cinco días posteriores a la conclusión del Programa Rector, lo hará del conocimiento público a través del Diario Oficial del Gobierno del Estado y en los medios de comunicación de mayor circulación en la entidad.
+> <small>(REFORMADO, D.O. 15 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 16.
 
-La promoción del desarrollo económico, el fomento de la inversión y del empleo, la determinación de las regiones económicas y de los sectores económicos estratégicos; así como la incorporación de los avances tecnológicos y la vinculación de la actividad económica con la educación, se realizará en los términos del Programa Rector para el Desarrollo Económico.
+La promoción del desarrollo económico, el fomento de la inversión y del empleo, la determinación de las regiones económicas y de los sectores económicos estratégicos; así como la incorporación de los avances tecnológicos y la vinculación de la actividad económica con la educación, se realizará en los términos del Programa Rector.
+
+> <small>(REFORMADO, D.O. 15 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 17.
 
-El programa al que se refiere este Capítulo, Tendrá una perspectiva global, de largo plazo, sustentable, equitativa e incluyente y una duración de 15 años. Será revisado en sus objetivos y acciones específicas, anualmente; y durante el segundo semestre del tercer año de cada administración estatal, será sujeto a una evaluación integral, para su debida actualización.
+El programa al que se refiere este Capítulo, tendrá una perspectiva global, de largo plazo, sustentable, equitativa e incluyente y una duración de 15 años. Será revisado en sus objetivos y acciones específicas anualmente, y durante el segundo semestre del tercer año de cada administración estatal, será sujeto a una evaluación integral para su debida actualización.
 
-El desarrollo del programa será coordinado por el Titular del Ejecutivo, en el marco del Sistema Estatal de Planeación, y contará con la participación del Consejo Consultivo, quien emitirá sus comentarios y opiniones, previo a su presentación en el seno del Comité de Planeación para el Desarrollo del Estado.
+El desarrollo del Programa Rector será coordinado por el Titular del Poder Ejecutivo del Gobierno del Estado, en el marco del Sistema Estatal de Planeación, y contará con la participación del Consejo Consultivo, quien emitirá sus comentarios y opiniones, previo a su presentación en el seno del Comité de Planeación para el Desarrollo del Estado.
 
 ### CAPÍTULO II. De las Regiones y Agrupamientos Industriales
 
@@ -311,9 +373,11 @@ Se entenderá como Región Económica el espacio geográfico previamente delimit
 
 Para los fines del Programa Rector, el territorio del estado se dividirá en regiones económicas.
 
+> <small>(REFORMADO, D.O. 15 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 20.
 
-El Ejecutivo promoverá el adecuado desarrollo de las regiones económicas, conforme a lo dispuesto en el Programa.
+El Poder Ejecutivo del Gobierno del Estado promoverá el adecuado desarrollo de las regiones económicas, conforme a lo dispuesto en el Programa Rector.
 
 ###### Artículo 21.
 
@@ -321,9 +385,11 @@ La Secretaría y los Ayuntamientos fomentarán la creación de parques industria
 
 ### CAPÍTULO III. De la obtención de Estímulos e Incentivos
 
+> <small>(REFORMADO, D.O. 15 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 22.
 
-Serán sujetos de apoyo para la entrega y asignación de estímulos e incentivos, las actividades económicas que realizan las personas físicas o morales, que favorezcan el desarrollo económico del Estado, y fomenten el empleo. De igual modo las que coadyuven al cumplimiento del Programa de Rector.
+Serán sujetos de apoyo para la entrega y asignación de estímulos e incentivos, las actividades económicas que realizan las personas físicas o morales, que favorezcan el desarrollo económico del Estado, y fomenten el empleo. De igual modo las que coadyuven al cumplimiento del Programa Rector.
 
 ###### Artículo 23.
 
@@ -485,17 +551,17 @@ Para que pueda establecerse un microparque, parque o ciudad industrial, deberá 
 
 ### CAPÍTULO IX. De la Mejora Regulatoria
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 38.
 
-(DEROGADO POR ARTICULO QUINTO TRANSITORIO DE LA LEY DE MEJORA REGULATORIA DEL ESTADO DE YUCATAN, D.O. 11 DE AGOSTO DE 2010)
+(DEROGADO POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY DE MEJORA REGULATORIA DEL ESTADO DE YUCATÁN, D.O. 11 DE AGOSTO DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 39.
 
-(DEROGADO POR ARTICULO QUINTO TRANSITORIO DE LA LEY DE MEJORA REGULATORIA DEL ESTADO DE YUCATAN, D.O. 11 DE AGOSTO DE 2010)
+(DEROGADO POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY DE MEJORA REGULATORIA DEL ESTADO DE YUCATÁN, D.O. 11 DE AGOSTO DE 2010)
 
 ### CAPÍTULO X. De la vinculación con el sector educativo
 
@@ -543,9 +609,11 @@ V.- Promover la cooperación solidaria entre las empresas, los colegios de profe
 
 ### CAPÍTULO II. De la Preservación del Medio Ambiente
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 15 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 45.
 
-La Secretaría coadyuvará con la Secretaría de Ecología, en el cuidado y preservación del medio ambiente, para tal fin, fomentará:
+La Secretaría coadyuvará con la Secretaría de Desarrollo Urbano y Medio Ambiente, en el cuidado y preservación del medio ambiente, para tal fin, fomentará:
 
 I.- El impulso de una cultura sobre el cuidado y preservación de los recursos naturales renovables y no renovables y el patrimonio cultural;
 
@@ -553,9 +621,11 @@ II.- La racionalización en el uso y explotación de los recursos naturales, y
 
 III.- Se garantice el desarrollo económico sustentable del Estado.
 
+> <small>(REFORMADO, D.O. 15 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 46.
 
-La Secretaría, de manera conjunta con la Secretaría de Ecología, impulsarán el desarrollo de los estudios socioeconómicos y ambientales, que permitan desarrollar proyectos económicos que sean ecológicamente viables, según la legislación aplicable.
+La Secretaría, de manera conjunta con la Secretaría de Desarrollo Urbano y Medio Ambiente, impulsarán el desarrollo de los estudios socioeconómicos y ambientales, que permitan desarrollar proyectos económicos que sean ecológicamente viables, según la legislación aplicable.
 
 ###### Artículo 47.
 
@@ -703,7 +773,7 @@ EL SECRETARIO DE DESARROLLO INDUSTRIAL Y COMERCIAL
 
 LIC. JOSÉ GUY PUERTO ESPINOSA
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 D.O. 11 DE AGOSTO DE 2010.
 
@@ -754,3 +824,17 @@ El Consejo Estatal de Mejora Regulatoria, en un término que no exceda de novent
 ###### ARTÍCULO DÉCIMO SEGUNDO.
 
 Las Dependencias y Entidades de la Administración Pública del Estado, deberán hacer los ajustes necesarios a sus presupuestos para el ejercicio fiscal 2011 y a sus Programas Operativos Anuales, con la finalidad de tener los recursos económicos suficientes para realizar las modificaciones y adecuaciones procedentes para implementar la Mejora Regulatoria y sus instrumentos.
+
+D.O. 15 DE FEBRERO DE 2013.
+
+Artículo Primero.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo Segundo.- El Titular del Poder Ejecutivo del Gobierno del Estado, deberá expedir las reformas al Reglamento de la Ley de Desarrollo Económico y Fomento al Empleo del Estado de Yucatán, dentro de un plazo de 90 días contados a partir de la entrada en vigor de este Decreto.
+
+Artículo Tercero.- Todo lo no previsto en este Decreto, se resolverá por acuerdo del Consejo Consultivo para el Desarrollo Económico de Yucatán, en tanto se expiden las disposiciones reglamentarias a que hace mención el artículo transitorio segundo.
+
+Artículo Cuarto.- Cuando en las leyes, reglamentos y demás instrumentos normativos o jurídicos emitidos con anterioridad a este Decreto se haga referencia al Consejo Estatal Consultivo para el Desarrollo Económico y/o Consejo Estatal Consultivo para el Desarrollo Económico y Fomento al Empleo, se entenderá que se refieren al Consejo Consultivo para el Desarrollo Económico de Yucatán, de conformidad con lo dispuesto en este Decreto.
+
+Artículo Quinto.- El Poder Ejecutivo del Gobierno del Estado implementará mecanismos que garanticen la existencia de recursos económicos para el beneficio de las empresas del Estado.
+
+Artículo Sexto.- Se derogan todas las disposiciones de igual o menor rango que se opongan a este Decreto.
