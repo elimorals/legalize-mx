@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-salud-publica-para-el-estado-de-baja-california-22972"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2013-01-18"
+last_updated: "2013-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2013.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -739,11 +739,19 @@ Son servicios públicos dirigidos a la población en general, los que se presten
 
 Las cuotas de recuperación que en su caso se recauden por la prestación de servicios de salud, se fundarán en principios de solidaridad social y guardarán relación con los ingresos de los usuarios, debiéndose eximir del cobro cuando carezcan de recursos económicos, atendiendo en su caso a los estudios socioeconómicos que se realicen.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE FEBRERO DE 2013)</small>
+
+Los servicios públicos de salud que otorguen los establecimientos públicos pertenecientes a la Secretaría de Salud Pública del Estado tratándose del otorgamiento de medicamentos que formen parte del cuadro básico de medicinas, por medio de recetas a través de sus farmacias serán de manera gratuita, tratándose de medicamentos que integran el cuadro básico y en el caso de desabasto, los establecimientos públicos tendrán la obligación de subrogarlos a favor de los usuarios en instituciones públicas o privadas.
+
 ###### ARTÍCULO 39.
 
 Son servicios a derecho habientes, los proporcionados por instituciones públicas del Estado y sus Municipios.
 
 Estos servicios comprenderán la atención médica, la atención materno infantil, la planificación familiar, la salud mental, la promoción de la formación de recursos humanos, la salud ocupacional y la prevención y control de enfermedades no transmisibles y accidentes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE FEBRERO DE 2013)</small>
+
+Los servicios públicos de salud que otorguen los establecimientos públicos pertenecientes a la Secretaría de Salud Pública del Estado a los derechohabientes, tratándose del otorgamiento de medicamentos, que formen parte del cuadro básico de medicinas, por medio de recetas a través de sus farmacias, será conforme lo establece la normatividad respectiva y en el caso de desabasto las Instituciones Públicas tendrán la obligación de subrogarlos a favor de los derechohabientes en instituciones públicas o privadas.
 
 ###### ARTÍCULO 40.
 
@@ -2664,3 +2672,13 @@ SEGUNDO: A partir del ejercicio fiscal de 2013, se programarán los recursos nec
 P.O. 18 DE ENERO DE 2013.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE FEBRERO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos de su publicación en el Periódico Oficial del Estado de Baja California.
