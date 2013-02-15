@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-legislativo-del-estado-de-baja-37945"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-06-25"
-last_updated: "2012-08-31"
+last_updated: "2013-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2013.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el martes 25 de junio de 2002.
 
@@ -685,7 +685,9 @@ XI.- Firmar con el Secretario, los nombramientos de los Servidores Públicos del
 
 XII.- Declarar al Congreso en Jurado de Sentencia en los términos previstos por el Artículo 93 de la Constitución Local;
 
-XIII.- Remitir al Ejecutivo del Estado el Proyecto de Presupuesto Anual del Poder Legislativo en el plazo que para el efecto establece la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Baja California;
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2013)</small>
+
+XIII.- Remitir al Ejecutivo del Estado el Proyecto de Presupuesto Anual del Poder Legislativo en el plazo que para el efecto establece la Ley de Presupuesto y Ejercicio del Gasto Público del Estado de Baja California;
 
 XIV.- Hacer la Declaratoria de Incorporación Constitucional, mediante el recuento de los votos que emitan los Ayuntamientos de conformidad con el Artículo 112 de la Constitución Local;
 
@@ -1361,7 +1363,7 @@ ARTICULO 81 BIS.- (DEROGADO, P.O. 19 DE NOVIEMBRE DE 2004)
 
 ARTICULO 81 TER.- (DEROGADO, P.O. 19 DE NOVIEMBRE DE 2004)
 
-ARTICULO 81 QUARTER (SIC) (DEROGADO, P.O. 19 DE NOVIEMBRE DE 2004)
+ARTICULO 81 QUARTER (SIC).- (DEROGADO, P.O. 19 DE NOVIEMBRE DE 2004)
 
 > <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2004)</small>
 
@@ -2411,7 +2413,7 @@ G.P. 14 DE OCTUBRE DE 2010.
 
 PRIMERO.- Se derogan las disposiciones que contravengan el presente Decreto.
 
-(NOTA: EL 18 DE MARZO DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CAPÍTULOS XV Y XVI ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 70/2010 (CONEXA CON LA CONTROVERSIA CONSTITUCIONAL 84/2010), SE DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO SEGUNDO TRANSITORIO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 09 DE ABRIL DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(NOTA: EL 18 DE MARZO DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CAPÍTULOS XV Y XVI ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 70/2010 (CONEXA CON LA CONTROVERSIA CONSTITUCIONAL 84/2010), DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO SEGUNDO TRANSITORIO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 09 DE ABRIL DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 SEGUNDO.- TODA VEZ QUE LAS PRESENTES REFORMAS SOLO IMPLICAN MODIFICACIONES AL RÉGIMEN INTERNO DEL PODER LEGISLATIVO, ENTRARÁN EN VIGOR AL MOMENTO DE SU APROBACIÓN POR EL PLENO DEL CONGRESO DEL ESTADO Y SE PUBLICARÁN EN LA GACETA DEL PODER LEGISLATIVO.
 
@@ -2490,3 +2492,7 @@ P.O. 31 DE AGOSTO DE 2012.
 DECRETO No. 259, POR EL QUE SE APRUEBA LA INICIATIVA QUE ADICIONA UN NUMERAL 15 AL ARTÍCULO 56 Y UN INCISO J) AL ARTÍCULO 60 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA, A FIN DE QUE LA COMISIÓN DE EQUIDAD Y GÉNERO SEA COMISIÓN DE DICTAMEN LEGISLATIVO.
 
 ÚNICO.- La presente reforma entrará en vigor al momento de su aprobación por el Pleno del Congreso del Estado, se publicarán en la Gaceta del Poder Legislativo, enviándose al Poder Ejecutivo para su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 15 DE FEBRERO DE 2013.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
