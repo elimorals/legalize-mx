@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-fomento-a-la-competitividad-y-desarrollo-economico-45256
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-10"
-last_updated: "2012-05-25"
+last_updated: "2013-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45256&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE FOMENTO A LA COMPETITIVIDAD Y DESARROLLO ECONÓMICO PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2013.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Baja California, el viernes 10 de junio de 2005.
 
@@ -661,7 +661,9 @@ El FOINFRA tendrá como objeto la canalización de recursos para apoyar la reali
 
 El FOINFRA se integrará con los recursos que para tal efecto se determinen en el Presupuesto de Egresos del Estado de Baja California para el ejercicio fiscal correspondiente.
 
-Para la aplicación de los recursos que integran el FOINFRA, se deberá sujetar a lo previsto en la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Baja California y demás disposiciones legales aplicables.
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2013)</small>
+
+Para la aplicación de los recursos que integran el FOINFRA, se deberá sujetar a lo previsto en la Ley de Presupuesto y Ejercicio del Gasto Público del Estado de Baja California y demás disposiciones legales aplicables.
 
 ###### Artículo 22.
 
@@ -964,3 +966,7 @@ PRIMERO.- El presente decreto entrará en vigor, al día siguiente de su publica
 SEGUNDO.- El Ejecutivo del Estado en un término no mayor de 60 días contados a partir de la entrada en vigor del presente Decreto, deberá modificar el Reglamento de la Ley de Fomento a la Competitividad y Desarrollo Económico para el Estado de Baja California.
 
 TERCERO.- La Secretaría de Desarrollo Económico del Estado, así como la Comisión Estatal de Energía, adecuarán las normatividades interiores correspondientes a efecto de materializar los procedimientos objetos de esta reforma, en un plazo que no excederá de noventa días naturales siguientes a la entrada en vigor de esta reforma.
+
+P.O. 15 DE FEBRERO DE 2013.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
