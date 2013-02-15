@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-fondo-auxiliar-para-la-administracion-de-justicia-2906"
 country: "mx"
 rank: "ley"
 publication_date: "1989-03-31"
-last_updated: "2004-01-16"
+last_updated: "2013-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2906&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCN"
 ---
 # LEY DE FONDO AUXILIAR PARA LA ADMINISTRACION DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA
 
-LEY DEL FONDO AUXILIAR PARA LA ADMINISTRACION DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA
+LEY DEL FONDO AUXILIAR PARA LA ADMINISTRACIÓN DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ENERO DE 2004.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 31 de marzo de 1989.
 
@@ -47,7 +47,7 @@ LEY DEL FONDO AUXILIAR PARA LA ADMINISTRACION DE JUSTICIA DEL ESTADO DE BAJA CAL
 
 El Fondo para la Administración de Justicia del Estado de Baja California estará bajo la vigilancia, supervisión y administración del Consejo de la Judicatura del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE ENERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ENERO DE 2004)</small>
 
 ###### ARTICULO 2o.
 
@@ -89,17 +89,17 @@ Transcurrido el plazo legal en los casos de los incisos C y D de la fracción I 
 
 ### CAPITULO I. DE LA ADMINISTRACION DEL FONDO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE ENERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE FEBRERO DE 2013)</small>
 
 ###### ARTICULO 6o.
 
-El Pleno del Consejo de la Judicatura del Estado tendrá a su cargo y bajo su responsabilidad de administración de Fondo conforme a las bases siguientes:
+El Pleno del Consejo de la Judicatura del Estado tendrá a su cargo y bajo su responsabilidad la administración del Fondo conforme a las bases siguientes:
 
 I.- Podrá invertir las cantidades que integran el Fondo en la adquisición de valores de renta fija o Inversiones Bancarias, siempre que éstas, dentro de lo previsible, garanticen disponibilidad inmediata y suficiente de dinero para devoluciones de depósitos judiciales que deban hacerse.
 
-> <small>(REFORMADA, P.O. 16 DE ENERO DE 2004)</small>
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2013)</small>
 
-II.- Deberá elaborar en diciembre de cada año el presupuesto de egresos, al cual deberán sujetarse las erogaciones del período anual que empezará a correr el primero de enero siguiente, observando que además cumpla con las disposiciones legales que para su elaboración y autorización señala la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Baja California, debiendo anexar el presupuesto de egresos, del fondo al proyecto de presupuesto de Egresos del Poder Judicial.
+II.- Deberá elaborar en diciembre de cada año el presupuesto de egresos, al cual deberán sujetarse las erogaciones del período anual que empezará a correr el primero de enero siguiente, observando que además cumpla con las disposiciones legales que para su elaboración y autorización señala la Ley de Presupuesto y Ejercicio del Gasto Público del Estado de Baja California, debiendo anexar el presupuesto de egresos, del fondo al proyecto de presupuesto de Egresos del Poder Judicial.
 
 III.- Podrá designar con cargo al Fondo el personal que debe auxiliarlo en su control y administración.
 
@@ -109,7 +109,7 @@ IV.- Este fondo formará parte de la Cuenta Pública del Poder Judicial y será 
 
 ### CAPITULO II. DEL DESTINO DEL FONDO PARA LA ADMINISTRACION DE JUSTICIA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE ENERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ENERO DE 2004)</small>
 
 ###### ARTICULO 7o.
 
@@ -191,8 +191,14 @@ DR. ARTURO GUERRA FLORES.
 
 (Rúbrica)
 
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
 P.O. 16 DE ENERO DE 2004
 
 PRIMERO.- Las presentes reformas y adiciones, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- El Pleno del Consejo de la Judicatura, en un término no mayor de treinta días posteriores a la entrada en vigor de la presente reforma, deberá de realizar las adecuaciones necesarias al Reglamento de la Ley del Fondo Auxiliar para la Administración de Justicia.
+
+P.O. 15 DE FEBRERO DE 2013.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
