@@ -4,7 +4,7 @@ identifier: "FED-estatuto-del-servicio-profesional-agrario-de-carrera-en-la-8782
 country: "mx"
 rank: "estatuto"
 publication_date: "2012-05-23"
-last_updated: "2012-11-23"
+last_updated: "2013-02-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87827&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2012-05-08"
 
 ESTATUTO DEL SERVICIO PROFESIONAL AGRARIO DE CARRERA EN LA PROCURADURÍA AGRARIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE NOVIEMBRE DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO DEL SERVICIO PROFESIONAL AGRARIO DE CARRERA EN LA PROCURADURÍA AGRARIA, PUBLICADO EN EL D.O.F. DE 15 DE FEBRERO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: ABROGADO.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 23 de mayo de 2012.
 
@@ -870,3 +872,15 @@ México, D.F., a 8 de mayo de 2012.- El Procurador Agrario, Rocendo González Pa
 D.O.F. 23 DE NOVIEMBRE DE 2012.
 
 UNICO.- El presente Acuerdo entrará en vigor a partir del siguiente día de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 15 DE FEBRERO DE 2013.
+
+PRIMERO.- El presente Estatuto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Estatuto del Servicio Profesional Agrario publicado en el Diario Oficial de la Federación el 23 de mayo de 2012, así como el acuerdo modificatorio del mismo publicado en el Diario Oficial de la Federación el 23 de noviembre de 2012; así como todas las disposiciones que se opongan al presente ordenamiento.
+
+TERCERO.- La Comisión deberá emitir la normatividad derivada del presente Estatuto en un término de 180 días a partir de su vigencia.
+
+CUARTO.- A la entrada en vigor del presente Estatuto, serán servidores públicos de carrera aquellos que aún continúen laborando en la Procuraduría y que hayan obtenido su nombramiento y permanencia en términos del Estatuto del Servicio Profesional Agrario publicado en el Diario Oficial de la Federación el 14 de septiembre de 1994; al efecto, el Secretario Técnico elaborará las constancias respectivas con base en los datos que obren en sus archivos, informando previamente de ello a la Comisión que se crea con el presente Estatuto, quien en su caso aprobará dichos documentos.
+
+Los demás servidores públicos de confianza serán considerados Servidor Agrario de Libre Designación, hasta que la Comisión en su caso, emita las constancias de su pertenencia al SPAC como Servidor Agrario de Carrera.
