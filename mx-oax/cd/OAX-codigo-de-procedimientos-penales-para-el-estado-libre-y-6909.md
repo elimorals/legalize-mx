@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-procedimientos-penales-para-el-estado-libre-y-6909"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2012-10-04"
+last_updated: "2013-02-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6909&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,13 @@ state: "OAX"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE FEBRERO DE 2013 EN EL P.O. DEL ESTADO OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL PENAL PARA EL ESTADO DE OAXACA, PUBLICADO EN EL P.O. DE 9 DE SEPTIEMBRE DE 2006, 5 DE SEPTIEMBRE DE 2009, 2 DE MARZO DE 2010, 23 DE AGOSTO DE 2010 Y 5 DE MAYO DE 2011, EL PRESENTE ORDENAMIENTO QUEDARÁ ABROGADO EN LOS TÉRMINOS DEL TRANSITORIO PRIMERO DEL NUEVO CÓDIGO.</small>
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2012.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 15 DE FEBRERO DE 2013.</small>
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -359,8 +359,6 @@ En esos casos el Ministerio Público iniciará desde luego la averiguación prev
 
 La violación de esta disposición hará penalmente responsable a quien decrete la indebida retención, y el indiciado deberá ser puesto en inmediata libertad.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE FEBRERO DE 2013 EN EL P.O. DEL ESTADO OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 > <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1994)</small>
 
 Art. 23 Bis A.- En caso urgente el Ministerio Público podrá bajo su responsabilidad, ordenar por escrito la detención de una persona, fundando y expresando los indicios que acrediten:
@@ -453,9 +451,9 @@ VIOLENCIA INTRAFAMILIAR, previsto en el artículo 404, y tipificado por el artí
 
 SUSTRACCIÓN DE MENORES O INCAPACES, cuando sea cometido por un tercero a instrucciones de quien ejerza la patria potestad o sea pariente sin limitación de grado del menor o incapaz, previsto en el artículo 407 del Código Penal del Estado Libre y Soberano de Oaxaca.
 
-> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2012)</small>
+(ADICIONADO, P.O. 4 DE OCTUBRE DE 2012) (F. DE E., P.O. 15 DE FEBRERO DE 2013)
 
-EL FEMINICIDIO, previsto en el artículo 412 y sancionado en el artículo 413.
+EL FEMINICIDIO, previsto en el artículo 411 y sancionado en el artículo 412.
 
 > <small>(ADICIONADO, P.O. 9 DE JULIO DE 1994)</small>
 
