@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-en-materia-de-fiscalizacion-de-los-recursos-de-72405
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-12-19"
-last_updated: "2009-12-19"
+last_updated: "2013-02-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72405&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # REGLAMENTO EN MATERIA DE FISCALIZACION DE LOS RECURSOS DE LOS PARTIDOS POLITICOS Y AGRUPACIONES POLITICAS
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE MARZO DE 2013 EN EL P.O. DEL ESTADO CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 REGLAMENTO EN MATERIA DE FISCALIZACIÓN DE LOS RECURSOS DE LOS PARTIDOS POLÍTICOS Y AGRUPACIONES POLÍTICAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2013.
 
 Reglamento publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 19 de diciembre del 2009.
 
@@ -75,6 +77,8 @@ REGLAMENTO EN MATERIA DE FISCALIZACIÓN DE LOS RECURSOS DE LOS PARTIDOS POLÍTIC
 
 ### CAPÍTULO I. DISPOSICIONES PRELIMINARES.
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE MARZO DE 2013 EN EL P.O. DEL ESTADO CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 ###### Artículo 1.
 
 Glosario y objeto.
@@ -123,11 +127,17 @@ Interpretación.
 
 4. En todo tiempo los partidos políticos podrán modificar su estructura organizacional y su manual de operaciones, en cuyo caso notificarán a la autoridad electoral, en un término que no exceda de 15 días, acerca de las modificaciones que efectúen.
 
+> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2013)</small>
+
+5. Para el cumplimiento de las disposiciones del Reglamento, los sujetos obligados podrán solicitar a la Comisión de Fiscalización la orientación, asesoría y capacitación, necesarias en materia del registro contable de los ingresos y egresos, de las características de la documentación comprobatoria correspondiente al manejo de los recursos y los requisitos de los informes, debiendo efectuar la solicitud por escrito.
+
 ###### Articulo 4.
 
 Contabilidad.
 
-1. Para efectos de que la Comisión de Fiscalización pueda, en su caso, comprobar la veracidad de lo reportado en los informes, los partidos utilizarán los catálogos de cuentas y la guía contabilizadora que este Reglamento establece.
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2013)</small>
+
+1. La contabilidad que deben llevar los partidos y agrupaciones, se integra por los sistemas y registros contables a que se refiere este artículo, cuentas especiales, libros contables, documentación comprobatoria de los asientos contables, comprobantes fiscales, cuentas de orden y formatos que señale el Reglamento, así como los que lleven de manera voluntaria para el control de sus operaciones.
 
 2. En la medida de sus necesidades y requerimientos, cada partido podrá abrir cuentas adicionales para llevar su control contable, y deberá abrirlas para controlar los gastos de mayor cuantía.
 
@@ -141,6 +151,14 @@ Contabilidad.
 
 7. Si al término de un ejercicio existen pasivos que no se encuentren debidamente soportados con una antigüedad mayor a un año, serán considerados como ingresos no reportados, salvo que el partido informe oportunamente de la existencia de alguna excepción legal.
 
+> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2013)</small>
+
+9 (SIC). Si al final del ejercicio existiera un pasivo en la contabilidad del partido o agrupación política, éste deberá integrarse detalladamente, con mención de montos, nombres, concepto y fechas de contratación de la obligación, calendario de amortización y de vencimiento, así como en su caso, las garantías otorgadas. Dichos pasivos deberán estar debidamente registrados y soportados documentalmente.
+
+> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2013)</small>
+
+Cuando se trate de saldos pendientes de liquidar por obligaciones o deudas contraídas al término del ejercicio sujeto a revisión, la Comisión de Fiscalización podrá solicitar la documentación de los pasivos pagados con posterioridad a dicha fecha, aun cuando ésta no corresponda al ejercicio sujeto a revisión.
+
 ###### Artículo 5.
 
 Activo fijo.
@@ -148,6 +166,10 @@ Activo fijo.
 1. Los partidos tendrán la obligación de llevar un registro contable de adquisiciones de bienes muebles e inmuebles, adquiridos con financiamiento público estatal o privado, complementándolo con la toma de un inventario físico, que se deberá incluir, actualizado, en sus informes anuales. Dicho inventario deberá estar clasificado por tipo de cuenta de activo fijo y subclasificado por año de adquisición, y deberá incluir las siguientes especificaciones: fecha de adquisición y descripción del bien.
 
 Las cifras que se reporten en el inventario deben estar totalizadas y coincidir con los saldos contables correspondientes, así como los bienes en uso o goce temporal, que deberán estar registrados en cuentas de orden para que sean considerados en sus informes anuales.
+
+> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2013)</small>
+
+Los activos fijos que se adquieran por cualquier clase de financiamiento, serán registrados a su valor histórico original, al de construcción o, en su caso, a su valor equivalente.
 
 2. Los bienes muebles e inmuebles que se adquieran o reciban en propiedad deberán contabilizarse como activo fijo. Deberán considerarse como activos fijos todos aquellos bienes cuyo costo sea superior a la cantidad equivalente a cien días de salario mínimo, incluido el impuesto al valor agregado.
 
@@ -297,6 +319,10 @@ La numeración deberá iniciar en 1 para cada proceso electoral estatal, incluye
 
 Los recibos deberán contener todos y cada uno de los datos señalados en el formato correspondiente y deberán ser llenados de manera que los datos resulten legibles en todas las copias.
 
+> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2013)</small>
+
+Por las aportaciones efectuadas para las precampañas, se expedirán recibos tipo RMEF y RMES, indicando en el cuerpo del mismo la precampaña a la cual serán destinados los recursos.
+
 6. En el caso de las aportaciones en especie, deberá cumplirse con lo establecido en el presente Reglamento y expresarse, en el cuerpo del recibo, la información relativa al bien aportado.
 
 7. Cada partido deberá llevar un registro en sus auxiliares de mayor, del financiamiento que provenga de su militancia. Este registro permitirá conocer el monto acumulado de las aportaciones de cada afiliado, de cada organización social, de cada candidato para su campaña y de cada contendiente en procesos internos de selección de candidatos o dirigentes.
@@ -326,6 +352,10 @@ Cada recibo foliado se imprimirá como mínimo en original y dos copias; entrega
 La totalidad de los ingresos percibidos por este concepto deberán registrarse en los ingresos del partido.
 
 Los recibos pendientes de utilizar al fin de las campañas sólo podrán ser utilizados en caso de celebrarse elecciones extraordinarias. Una vez concluido el proceso electoral correspondiente todos los recibos no utilizados deberán ser cancelados.
+
+> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2013)</small>
+
+Por las aportaciones efectuadas para las precampañas, se expedirán recibos tipo RSEF y RSES, indicando en el cuerpo del mismo la precampaña a la cual serán destinados los recursos.
 
 8. Las aportaciones en especie realizadas en forma directa a alguna de las campañas internas del partido por los simpatizantes, deberán estar sustentadas con recibos foliados.
 
@@ -417,6 +447,10 @@ Transferencias entre instancias nacionales e interestatales.
 
 3. Se exceptúan de manejar los recursos en cuenta bancaria los comités en cuya cabecera municipal no se cuente sucursal bancaria. En cuyo caso deberán entregarse ministraciones sólo mediante recibo firmado por el responsable de los recursos en el comité.
 
+> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2013)</small>
+
+Para efecto de lo indicado en el primer párrafo del presente numeral, la Comisión habrá de emitir en forma anual durante el mes de enero, un comunicado dirigido a los Partidos políticos, indicando las cabeceras municipales que cuentan con sucursal bancaria
+
 4. Los partidos podrán realizar transferencias en especie a sus comités municipales.
 
 ###### Artículo 15.
@@ -429,7 +463,9 @@ Transferencias a instancias nacionales.
 
 3. En tales recibos deberá constar la fecha, monto, cuenta de origen, cuenta de destino, identificación del receptor, y la firma autógrafa del funcionario autorizado por el órgano de finanzas del partido.
 
-4. Los gastos invariablemente deberán ser registrados en la contabilidad estatal.
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2013)</small>
+
+4.- Los gastos invariablemente deberán ser registrados en la contabilidad estatal y su documentación comprobatoria original, anexarse a las pólizas correspondientes
 
 ###### Artículo 16.
 
@@ -447,6 +483,10 @@ Transferencias a campañas federales.
 
 6. Al término de las campañas, los recursos no ejercidos deberán reintegrarse a las cuentas estatales a nombre del partido.
 
+> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2013)</small>
+
+7. En todo caso, la documentación comprobatoria original deberá anexarse como soporte a las pólizas presentadas en la contabilidad estatal.
+
 ### CAPÍTULO IV. DE LOS EGRESOS.
 
 ###### Artículo 17.
@@ -457,7 +497,9 @@ Registro de los egresos, requisitos de la documentación comprobatoria y general
 
 La documentación deberá cumplir con todos los requisitos que exigen las disposiciones fiscales aplicables, cumpliendo con lo dispuesto en el artículo 29-A, del Código Fiscal de la Federación.
 
-2. Los egresos deberán estar soportados con documentación a nombre del partido y, tratándose de gastos de campaña deberán hacer referencia al nombre del candidato, y además deberán cumplir con los requisitos establecidos en el artículo 29-A, del Código Fiscal de la Federación.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE FEBRERO DE 2013)</small>
+
+2. Los egresos deberán estar soportados con documentación a nombre del partido y, tratándose de gastos de campaña y precampaña deberán hacer referencia al nombre del candidato y/o precandidato. Además deberán cumplir con los requisitos establecidos en el artículo 29-A del Código Fiscal de la Federación.
 
 En las áreas en las que sea imposible reunir la documentación que contemple los requisitos fiscales, la comprobación del egreso se hará vía bitácora que contendrá los datos relativos a la identidad y domicilio de la persona que proporcione el bien o servicio, respaldada con el comprobante emitido por dicho proveedor, el cual deberá contener la firma de autorización del candidato o responsable financiero, en su caso.
 
@@ -493,6 +535,64 @@ b) Los pagos realizados a través de transferencias electrónicas de fondos en l
 
 7. Los comprobantes de los gastos efectuados en anuncios espectaculares en la vía pública, cuyo contenido no sea la promoción de candidatos durante procesos electorales, deberán incluir en hojas membretadas de la empresa que se anexen a cada factura, una relación de cada uno de los anuncios espectaculares que ampara la factura y el periodo en el que permanecieron en la vía pública. En las hojas membretadas deberá incluirse el valor unitario de todos y cada uno de los anuncios espectaculares. El importe y el número total de los anuncios espectaculares detallados en las hojas membretadas deberán coincidir con el valor y número de éstos que ampara la factura respectiva.
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE MARZO DE 2013 EN EL P.O. DEL ESTADO CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2013)</small>
+
+###### Artículo 17
+
+BIS. Gastos de precampaña.
+
+1. Tratándose de ingresos en efectivo para el sostenimiento de precampañas políticas para Gobernador, diputados, ayuntamientos y síndicos, deberá abrirse una cuenta bancaria de cheques única para cada precampaña.
+
+2. En el caso de las precampañas políticas para ayuntamientos y síndicos, el monto a partir del cual los partidos políticos deberán abrir cuentas de cheques para que a través de ellas efectúen sus erogaciones, será el derivado de aplicar el 0.5% al total del tope de gastos autorizado para la precampaña de Gobernador, inmediata anterior.
+
+No están obligados a la apertura de la cuenta de cheques para el manejo de los recursos de aquellas precampañas para ayuntamiento y síndico, de los municipios cuya cabecera municipal no cuente con institución bancaria alguna.
+
+3. El órgano de finanzas de cada partido político deberá informar a la Comisión de Fiscalización, dentro de los quince días anteriores al inicio de las campañas, los casos que se sujeten a lo señalado en el párrafo anterior, con el fin de obtener de la misma la confirmación o rechazo dentro de los dos días siguientes a su recepción.
+
+4. Las cuentas de cheques para el sostenimiento de precampañas políticas deberán abrirse a nombre del partido político, con las firmas mancomunadas. Los estados de cuenta servirán como base documental de los informes de campaña y deberán estar conciliados.
+
+Todo pago que rebase la cantidad equivalente a setenta salarios mínimos vigentes en la capital del Estado, deberá realizarse mediante cheque nominativo a favor del proveedor o prestador del servicio.
+
+5. Las cuentas bancarias a que se refiere este artículo podrán tener movimientos hasta treinta días naturales previos al inicio de las precampañas electorales y hasta treinta días naturales posteriores a su conclusión, por lo que su apertura y cancelación deberán realizarse dentro de dichos límites. Si un partido lo desea, podrá solicitar por escrito la ampliación de dichos plazos a la Comisión de Fiscalización, justificando sus razones, la cual resolverá, fundada y motivadamente, sobre tal petición. La solicitud deberá hacerse antes del inicio o vencimiento, según sea el caso, del plazo correspondiente.
+
+6. Al finalizar el plazo señalado en el párrafo anterior, los remanentes que se encuentren depositados en las cuentas, deberán ser depositados en cuentas del partido, según sea el origen del recurso.
+
+7. Cuando se efectúen gastos de precampaña centralizados y las erogaciones involucren dos o más precampañas, deberán señalarse los criterios de prorrateo que se utilicen.
+
+Dichos criterios deberán hacerse del conocimiento de la Comisión de Fiscalización al momento de la presentación de los informes de campaña, y por ningún motivo podrán ser modificados con posterioridad salvo por observaciones de la Comisión. El partido deberá especificar los porcentajes de distribución aplicados a cada precampaña. Para la correcta aplicación del prorrateo, los comprobantes señalarán específicamente las precampañas electorales, la localidad o localidades beneficiadas con el gasto, anexando evidencias que indiquen la correcta aplicación a las precampañas electorales beneficiadas.
+
+8. Cuando los gastos de la propaganda susceptible de inventariarse sean amparados con facturas en las que se precise a un precandidato en específico, se deberá registrar directamente al gasto del precandidato beneficiado.
+
+9. Los comprobantes de los gastos efectuados en propaganda en diarios, revistas y otros medios impresos deberán incluir una relación de cada una de las inserciones que ampara la factura, las fechas de publicación, el tamaño de cada inserción o publicación, el valor unitario de cada inserción o publicación y en su caso, el nombre del precandidato beneficiado con cada una de ellas.
+
+Los partidos deberán conservar la página completa de un ejemplar original de las publicaciones que contengan las inserciones en diarios, revistas y otros medios impresos que realicen en cada una de las precampañas electorales, así como todos aquellos que realicen durante los periodos que comprenden las precampañas electorales, aun cuando no se refieran directamente a dichas precampañas. Cada una de las inserciones deberá contener la leyenda "inserción pagada" seguida del nombre de la persona responsable del pago. La página con la inserción deberá anexarse a la documentación comprobatoria y presentarse junto con ésta a la autoridad electoral.
+
+10. Los comprobantes de los gastos efectuados en producción de mensajes para radio y televisión, deberán especificar el concepto del servicio prestado, sean pagos de servicios profesionales, uso de equipo técnico, locaciones o estudios de grabación y producción, así como los demás inherentes al mismo objetivo. Asimismo, estos comprobantes deberán ser remitidos a nombre del partido.
+
+En los informes deberán incluirse los contratos de servicios firmados entre los partidos y los proveedores o prestadores de bienes y servicios participantes en el diseño y producción de los mensajes para radio y televisión.
+
+Los partidos deberán conservar, anexas a la documentación comprobatoria correspondiente, las muestras de las distintas versiones de promocionales en radio y televisión, y deberán presentarlas a la autoridad electoral anexas a las pólizas.
+
+11. Los partidos podrán contratar publicidad considerada como anuncios espectaculares en la vía pública para sus precampañas electorales, ajustándose a las siguientes disposiciones contenidas en el artículo 18, numeral 11 del presente Reglamento.
+
+12. Los partidos llevarán una relación que detalle la ubicación y las medidas exactas de las bardas utilizadas en cada precampaña para la pinta de propaganda electoral, especificando los datos de la autorización para su fijación en inmuebles de propiedad privada o lugares de uso común, la descripción de los costos, el detalle de los materiales y mano de obra utilizados, la identificación del candidato, y la fórmula o campaña beneficiada con este tipo de propaganda, debiendo cumplir, en su caso, con lo dispuesto en este Reglamento respecto de los criterios de prorrateo. Dicha relación deberá conservarse anexa a las pólizas y documentación soporte correspondiente. El partido deberá conservar y presentar fotografías de la publicidad utilizada en bardas, indicando su ubicación exacta.
+
+13. En los Informes de precampaña deberán incluirse los contratos y facturas correspondientes a la propaganda que se exhiba en salas de cine, junto con los registros contables correspondientes.
+
+14. En los Informes de precampaña deberán incluirse los contratos y facturas correspondientes a la propaganda colocada en las páginas de Internet, junto con los registros contables correspondientes. Además deberá apegarse en este tipo de gastos, a lo dispuesto en el artículo 18, numeral 14 del presente Reglamento.
+
+15. Con los informes de precampaña los partidos deberán entregar a la autoridad electoral el registro del pasivo correspondiente sobre la propaganda que aún no haya sido pagada por el partido al momento de la presentación de sus informes, donde se incluya la consistente en diarios, revistas y otros medios impresos, gastos de producción de mensajes para radio y televisión, anuncios espectaculares y propaganda en salas de cine y en páginas de Internet, que haya sido publicada, colocada o exhibida durante el periodo de precampaña.
+
+16. Cuando una aportación en especie implique un beneficio directo o indirecto a una o más precampañas electorales, el partido deberá reportar el ingreso correspondiente en el informe o los informes de precampaña que correspondan. Asimismo, el beneficio obtenido por tal aportación en especie computara como gasto en la precampaña o las precampañas beneficiarias, lo cual el partido también deberá reportar en el o los informes de precampaña correspondientes.
+
+Tales gastos computarán para efectos de los topes de precampaña.
+
+17. Si, al término de las campañas electorales existen saldos en las cuentas por cobrar y pagar, deberán ser registrados en la contabilidad del partido.
+
+18. Por las aportaciones temporales de activo fijo para las precampañas, se deberá afectar el gasto mensual de precampaña, considerando los parámetros, indicados en el artículo 18, numeral 18 del presente Reglamento.
+
 ###### Artículo 18.
 
 Gastos de campaña.
@@ -515,7 +615,9 @@ Todo pago que rebase la cantidad equivalente a setenta salarios mínimos vigente
 
 7. Cuando se efectúen gastos de campaña centralizados y las erogaciones involucren dos o más deberán señalarse los criterios de prorrateo que se utilicen, para el registro correspondiente en cada una de las campañas que se beneficien con tales compras.
 
-Dichos criterios deberán hacerse del conocimiento de la Comisión de Fiscalización al momento de la presentación de los informes de campaña, y por ningún motivo podrán ser modificados con posterioridad. El partido deberá especificar los porcentajes de distribución aplicados a cada campaña. Para la correcta aplicación del prorrateo, los comprobantes señalarán específicamente las campañas electorales, la localidad o localidades beneficiadas con el gasto, anexando evidencias que indiquen la correcta aplicación a las campañas electorales beneficiadas.
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2013)</small>
+
+Dichos criterios deberán hacerse del conocimiento de la Comisión de Fiscalización al momento de la presentación de los informes de campaña, y por ningún motivo podrán ser modificados con posterioridad; salvo por observaciones de la Comisión. El partido deberá especificar los porcentajes de distribución aplicados a cada campaña. Para la correcta aplicación del prorrateo, los comprobantes señalarán específicamente las campañas electorales, la localidad o localidades beneficiadas con el gasto, anexando evidencias que indiquen la correcta aplicación a las campañas electorales beneficiadas.
 
 8. Cuando los gastos de la propaganda susceptible de inventariarse sean amparados con facturas en las que se precise a un candidato en específico, se deberá registrar directamente al gasto del candidato beneficiado.
 
@@ -527,7 +629,9 @@ Los partidos deberán conservar la página completa de un ejemplar original de l
 
 En los informes deberán incluirse los contratos de servicios firmados entre los partidos y los proveedores o prestadores de bienes y servicios participantes en el diseño y producción de los mensajes para radio y televisión.
 
-Los partidos deberán conservar, anexas a la documentación comprobatoria correspondiente, las muestras de las distintas versiones de promocionales en radio y televisión, y deberán presentarlas a la autoridad electoral cuando se les solicite.
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2013)</small>
+
+Los partidos deberán conservar, anexas a la documentación comprobatoria correspondiente, las muestras de las distintas versiones de promocionales en radio y televisión, y deberán presentarlas a la autoridad electoral anexas a las pólizas.
 
 11. Los partidos podrán contratar publicidad considerada como anuncios espectaculares en la vía pública para sus campañas electorales, ajustándose a las siguientes disposiciones:
 
@@ -723,7 +827,9 @@ c) Los documentos de gasto deberán cumplir con las disposiciones que marca el a
 
 7. Todos los ingresos que se reciban y los egresos que se realicen con motivo de las campañas internas referidas deberán registrarse en la contabilidad del partido y estar soportados con la documentación a la que se refiere el presente Reglamento para la comprobación de ingresos y egresos, la cual deberá entregarse a la autoridad electoral junto con los informes de precampañas y con el informe anual, según corresponda.
 
-8. Para la debida comprobación de las aportaciones que los militantes y simpatizantes efectúen a cada una de las precampañas, deberán utilizarse los recibos foliados según los formatos "RM" y "RS", previstos en el presente Reglamento, según corresponda.
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2013)</small>
+
+8. Para la debida comprobación de las aportaciones que los militantes y simpatizantes efectúen a cada una de las precampañas, deberán utilizarse los recibos foliados según los formatos "RM" y "RS", previstos en el presente Reglamento, según corresponda, indicando en el cuerpo del mismo, la precampaña a la cual serán destinados los recursos.
 
 9. Si al finalizar el proceso interno existen remanentes que se encuentren depositados en las cuentas bancarias destinadas a erogaciones de precampañas, deberán ser depositados a alguna cuenta a nombre del partido.
 
@@ -941,6 +1047,8 @@ El funcionario que asista levantará un acta en la que detalle la actividad que 
 
 21. La falta de comprobación de las actividades realizadas, podrá traer como consecuencia que la actividad no sea considerada como susceptible de financiamiento público.
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE MARZO DE 2013 EN EL P.O. DEL ESTADO CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 ###### Artículo 27.
 
 Desarrollo del liderazgo político de las mujeres.
@@ -948,6 +1056,20 @@ Desarrollo del liderazgo político de las mujeres.
 1. Por este concepto se podrán realizar actividades similares a las específicas, debiendo apegarse a las reglas establecidas para éstas y registrarse en una cuenta específica para este tipo de gastos.
 
 2. los partidos procurarán que los gastos realizados por este concepto beneficien al mayor número de mujeres y que las actividades realizadas sean dirigidas a las mismas.
+
+> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2013)</small>
+
+3. En todo caso, a solicitud de la Comisión, los Partidos habrán de sustentar el criterio empleado para determinar que con los recursos ejercidos en este rubro, se benefició la Capacitación, Promoción y Desarrollo del liderazgo político de las mujeres.
+
+> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2013)</small>
+
+4. Los Partidos habrán de canalizar el 15% del financiamiento público recibido para actividades ordinarias, a desarrollar actividades con perspectiva de género.
+
+Los gastos ejercidos por este concepto habrán de sustentarse con documentación comprobatoria original y registrarse en una cuenta contable específica para tal efecto.
+
+> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2013)</small>
+
+5. En todo caso, a solicitud de la Comisión, los Partidos habrán de sustentar el criterio empleado para considerar que los gastos registrados por este concepto, cumplen con el objetivo de equidad de género, conforme lo establece el artículo 41, numeral 1, inciso a) de la Ley Electoral del Estado.
 
 ###### Artículo 28.
 
@@ -996,3 +1118,15 @@ Rúbrica.
 ANEXO 2
 
 > <small>N. DE E. VÉASE FORMATOS EN EL ANEXO DEL P. O. DE 19 DE DICIEMBRE DE 2009, PÁGINA DE LA 30 A LA 86.</small>
+
+SE TRANSCRIBE LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+
+P.O. 16 DE FEBRERO DE 2013.
+
+PRIMERO.-...
+
+SEGUNDO.-. Las reformas al presente Reglamento entrará en vigor al día siguiente de su aprobación.
+
+TERCERO.-. Se ordena tomar las previsiones conducentes para que la normatividad contenida en la página Web del Instituto Estatal Electoral se actualice.
+
+CUARTO.- Se instruye al Secretario Ejecutivo para que se publique el presente acuerdo en el Periódico Oficial del Estado, acorde con lo establecido en el artículo 95 de la Ley Electoral del Estado de Chihuahua.
