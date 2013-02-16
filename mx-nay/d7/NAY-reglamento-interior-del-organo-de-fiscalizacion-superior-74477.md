@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-del-organo-de-fiscalizacion-superior-74477"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-03-10"
-last_updated: "2013-02-02"
+last_updated: "2013-02-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74477&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 REGLAMENTO INTERIOR DEL ÓRGANO DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2013.
 
 Reglamento publicado en la Sección Quinta del Periódico Oficial del Estado de Nayarit, el miércoles 10 de marzo de 2010.
 
@@ -51,7 +51,11 @@ I. Órgano: Órgano de Fiscalización Superior del Estado de Nayarit;
 
 II. Comisión: Comisión de Hacienda, Cuenta Pública y Presupuesto del Congreso del Estado;
 
-III. Unidades Administrativas: A la estructura orgánica básica del Órgano compuesta por la Auditoría General, las Auditorías Especiales, las Unidades Jurídica y de Administración;
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2013)</small>
+
+III. Unidades Administrativas: A la estructura orgánica básica del Órgano compuesta por la
+
+Auditoría General, las Auditorías Especiales, Dirección General de Evaluación de Desempeño, las Unidades Jurídica y de Administración;
 
 IV. Áreas Administrativas: Las direcciones de área, jefaturas de departamento y demás puestos análogos que componen cada una de las unidades administrativas.
 
@@ -63,7 +67,7 @@ A fin de asegurar la operación y el funcionamiento del Órgano, las cuestiones 
 
 DEL ÁMBITO DE COMPETENCIA Y ORGANIZACIÓN DEL ÓRGANO DE FISCALIZACIÓN SUPERIOR.
 
-> <small>(REFORMADO, P.O. 24 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2013)</small>
 
 ###### ARTÍCULO 5°.
 
@@ -73,13 +77,13 @@ Para el ejercicio de sus atribuciones y el despacho de los asuntos que le compet
 
 1.1. Coordinación General de Planeación.
 
-1.1.1 Departamento de Supervisión de Auditorías Financieras y de Evaluación del Desempeño.
+1.1.1 Departamento de Supervisión de Auditorias Financieras y de Evaluación del Desempeño.
 
-1.1.2 Departamento de Supervisión de Auditorías de Obra Pública
+1.1.2 Departamento de Supervisión de Auditorias de Obra Pública.
 
-1.1.3 Oficialía de Partes
+1.1.3 Oficialía de Partes.
 
-1.1.4 Archivo y Digitalización
+1.1.4 Archivo de Digitalización.
 
 1.2. Secretaría Ejecutiva.
 
@@ -89,7 +93,7 @@ Para el ejercicio de sus atribuciones y el despacho de los asuntos que le compet
 
 1.5. Unidad de Enlace y Acceso a la Información.
 
-1.6. Secretaría Particular.
+1.6. Secretaria Particular.
 
 1.7. Asesores.
 
@@ -97,17 +101,17 @@ Para el ejercicio de sus atribuciones y el despacho de los asuntos que le compet
 
 2.1. Dirección de Auditoría Financiera a Poderes del Estado.
 
-2.1.1. Departamento de Auditoría Financiera a Poderes del Estado.
+2.1.1 Departamento de Auditoría Financiera a Poderes del Estado.
 
-2.2. Dirección de Auditoría Financiera a Organismos Paraestatales y Autónomos.
+2.2 Dirección de Auditoría Financiera a Organismos Paraestatales y Autónomos.
 
-2.2.1. Departamento de Auditoría Financiera a Organismos Paraestatales y Autónomos.
+2.2.1 Departamento de Auditoría Financiera a Organismos Paraestatales y Autónomos.
 
-2.3. Dirección de Auditoría Financiera a Municipios.
+2.3 Dirección de Auditoría Financiera a Municipios.
 
-2.3.1. Departamento de Auditoría Financiera a Municipios A.
+2.3.1 Departamento de Auditoría Financiera a Municipios A.
 
-2.3.2. Departamento de Auditoría Financiera a Municipios B.
+2.3.2 Departamento de Auditoría Financiera a Municipios B.
 
 3. Auditoría Especial de Infraestructura.
 
@@ -119,27 +123,27 @@ Para el ejercicio de sus atribuciones y el despacho de los asuntos que le compet
 
 3.1.3. Departamento de Auditoría a Infraestructura Municipal B.
 
-4. Auditoría Especial de Evaluación del Desempeño.
+4. Dirección General de Evaluación de Desempeño.
 
-4.1 Dirección de Auditoría de Evaluación del Desempeño.
+4.1. La Dirección de Auditoría de Evaluación del Desempeño.
 
 4.1.1 Departamento de Auditoría de Evaluación del Desempeño a Poderes del Estado, Organismos Paraestatales y Autónomos.
 
-4.1.2 Departamento de Auditoría de Evaluación del Desempeño a Municipios.
+4.1.2. Departamento de Auditoría de Evaluación del Desempeño a Municipios.
 
 5 Unidad Jurídica.
 
 5.1 Dirección de Responsabilidades, Registro de Servidores Públicos y Situación Patrimonial.
 
-5.1.1 Departamento de Responsabilidades.
+5.1.1 Departamento de Responsabilidades,
 
-5.1.2 Departamento de Situación Patrimonial, Registro de Servidores Públicos y Seguimiento de Sanciones.
+5.1.2 Departamento de Situación Patrimonial, Registro de Servidores Públicos y seguimiento de Sanciones.
 
 5.2 Dirección Jurídica y Consultiva.
 
-5.2.1 Departamento Jurídico y Consultivo.
+5.2.1. Departamento Jurídico y Consultivo.
 
-6. Unidad de Administración.
+6 Unidad de Administración.
 
 6.1.1 Departamento de Recursos Financieros.
 
@@ -161,7 +165,9 @@ La selección, contratación, nombramiento, funcionamiento y atribuciones de la 
 
 El Órgano conducirá sus actividades en forma programada y conforme al Plan Estratégico Institucional y a las políticas que para el logro de sus objetivos emita el Auditor General.
 
-El Órgano contará con un Consejo Consultivo para el análisis de sus estrategias institucionales, presidido por el Auditor General e integrado por los Auditores Especiales, los titulares de la Unidad Jurídica, de la Unidad de Administración, de la Coordinación General de Planeación y de la Contraloría Interna, así como del Secretario Ejecutivo, quien realizará las funciones de secretario de dicho Consejo.
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2013)</small>
+
+El Órgano contará con un Consejo Consultivo para el análisis de sus estrategias institucionales, presidido por el Auditor General e integrado por los Auditores Especiales, Dirección General de Evaluación de Desempeño, los titulares de la Unidad Jurídica, de la Unidad de Administración, de la Coordinación General de Planeación y de la Contraloría Interna, así como del Secretario Ejecutivo, quien realizará las funciones de secretario de dicho Consejo.
 
 Los demás servidores públicos del Órgano podrán participar en las reuniones del Consejo Consultivo, a invitación expresa del Auditor General.
 
@@ -355,6 +361,10 @@ VI. Informar al Auditor General, sobre el avance en la solventación de las obse
 
 VII. Analizar y verificar que los Avances de Gestión Financiera sean presentados en términos de ley; dar seguimiento al cumplimiento de objetivos y metas de los programas en ellos reportados. En su caso, requerir a los sujetos fiscalizables la documentación complementaria, así como promover las acciones de responsabilidad a que haya lugar por la falta de presentación de dichos informes.
 
+> <small>(ADICIONADA, P.O. 16 DE FEBRERO DE 2013)</small>
+
+IX (SIC).- Participar y coordinar en el ámbito de su competencia las auditorías integrales a los entes fiscalizables, consistentes en evaluación multidisciplinaria y con enfoque de sistemas del grado y forma de cumplimiento de los objetivos del ente fiscalizable respecto a sus operaciones, así como con su entorno. En la forma, plazos y condiciones del calendario de auditorías programadas por el Órgano.
+
 ###### ARTÍCULO 13.
 
 El Auditor Especial de Infraestructura, tendrá las siguientes atribuciones específicas:
@@ -371,15 +381,21 @@ V. Promover el conocimiento de la normatividad aplicable al manejo de los recurs
 
 VI. Coordinar y supervisar las auditorías, visitas e inspecciones practicadas a los Sujetos de Fiscalización, que podrán ser auditorías oculares, paramétricas, de cumplimiento, de congruencia y de seguimiento;
 
-VII. Analizar y dar seguimiento a los Avances de Gestión Financiera; y
+VII. Analizar y dar seguimiento a los Avances de Gestión Financiera; y (sic)
 
 VIII. Coadyuvar con las demás unidades administrativas para complementar, conjugar y optimizar el proceso de fiscalización y realizar conjuntamente en su caso, auditorías integrales.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE MARZO DE 2012)</small>
+> <small>(ADICIONADA, P.O. 16 DE FEBRERO DE 2013)</small>
+
+IX.- Participar y coordinar en el ámbito de su competencia las auditorías integrales a los entes fiscalizables, consistentes en evaluación multidisciplinaria y con enfoque de sistemas del grado y forma de cumplimiento de los objetivos del ente fiscalizable respecto a sus operaciones, así como con su entorno. En la forma, plazos y condiciones del calendario de auditorías programadas por el Órgano.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE FEBRERO DE 2013)</small>
 
 ###### ARTÍCULO 14.
 
-El Auditor Especial de Evaluación del Desempeño tendrá las siguientes atribuciones específicas:
+El Director General de Evaluación de Desempeño tendrá las siguientes atribuciones específicas:
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE MARZO DE 2012)</small>
 
 I. Coordinar la ejecución de auditorías de Evaluación del Desempeño, al efecto de:
 
@@ -395,11 +411,21 @@ e. Evaluar si el impacto y la calidad de los programas, proyectos, políticas y 
 
 f. Realizar todas aquellas acciones que permitan verificar el cumplimiento de los programas y objetivos de los sujetos fiscalizables.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE MARZO DE 2012)</small>
+
 II. Promover que la rendición de cuentas por parte de los sujetos fiscalizables, incluya indicadores de gestión y de desempeño institucional que permitan evaluar los resultados, así como constatar la administración responsable, productiva y transparente de los recursos públicos;
 
-III. Verificar el cumplimiento final de los objetivos y metas fijadas en los programas federales, estatales y municipales conforme a los indicadores estratégicos aprobados en el presupuesto anual a efecto de constatar el desempeño de los mismos y la legalidad en el uso de los recursos públicos; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE MARZO DE 2012)</small>
+
+III. Verificar el cumplimiento final de los objetivos y metas fijadas en los programas federales, estatales y municipales conforme a los indicadores estratégicos aprobados en el presupuesto anual a efecto de constatar el desempeño de los mismos y la legalidad en el uso de los recursos públicos; y (sic)
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE MARZO DE 2012)</small>
 
 IV. Informar al Auditor General, sobre el avance en la solventación de las observaciones formuladas a los sujetos fiscalizables.
+
+> <small>(ADICIONADA, P.O. 16 DE FEBRERO DE 2013)</small>
+
+V.- Participar y coordinar en el ámbito de su competencia las auditorías integrales a los entes fiscalizables, consistentes en evaluación multidisciplinaria y con enfoque de sistemas del grado y forma de cumplimiento de los objetivos del ente fiscalizable respecto a sus operaciones, así como con su entorno. En la forma, plazos y condiciones del calendario de auditorías programadas por el Órgano.
 
 ### CAPÍTULO V
 
@@ -941,19 +967,29 @@ III. Proponer al Auditor Especial de Infraestructura las dependencias, entidades
 
 IV. Practicar auditorías a los subsidios, transferencias y donativos para inversiones físicas en obra pública que los sujetos de fiscalización hayan otorgado con cargo a su presupuesto a cualquier persona física o moral pública o privada, municipios, particulares y en general a cualquier entidad pública o privada, así como verificar su aplicación al objeto autorizado.
 
-> <small>(REFORMADO, P.O. 24 DE MARZO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE FEBRERO DE 2013)</small>
 
 ###### ARTÍCULO 30.
 
-La Dirección de Auditoría de Evaluación del Desempeño estará adscrita a la Auditoría Especial de Evaluación del Desempeño, su titular tendrá las siguientes atribuciones específicas:
+La Dirección de Auditoria de Evaluación del Desempeño estará adscrita a la Dirección General de Evaluación de Desempeño, su titular tendrá las siguientes atribuciones específicas:
+
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2012)</small>
 
 I. Elaborar y proponer a su superior jerárquico los programas específicos para la realización de las auditorías de evaluación del desempeño, que permitan evaluar la congruencia, eficacia, eficiencia, economía, calidad e impacto socio-económico de los programas gubernamentales, políticas y estrategias, ejecutados por los sujetos fiscalizables en materia de desarrollo social, gestión gubernamental;
 
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2012)</small>
+
 II. Revisar y evaluar la información programática incluida en los Avances de Gestión Financiera y la Cuenta Pública en materia de desarrollo social y gestión gubernamental;
+
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2012)</small>
 
 III. Practicar auditorías de evaluación del desempeño conforme a los programas de trabajo aprobados por el Auditor General, a fin de comprobar la eficacia, eficiencia, economía y calidad con que operan los sujetos fiscalizables en materia de desarrollo social y gestión gubernamental, el grado de cumplimiento de objetivos y metas establecidas en los programas de gobierno, proyectos especiales, políticas y estrategias a que se refiere el presupuesto de egresos del estado y los municipales en su caso, y demás ordenamientos aplicables, así como verificar el cumplimiento del marco jurídico correspondiente;
 
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2012)</small>
+
 IV. Proponer al Auditor Especial en las auditorías de evaluación del desempeño a su cargo, encuestas y demás trabajos complementarios, así como las investigaciones y servicios que requieran ser contratados con profesionales especializados; y
+
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2012)</small>
 
 V. Practicar auditorías a los sujetos fiscalizables, en las funciones de desarrollo social y gestión gubernamental.
 
@@ -991,7 +1027,9 @@ XIV. Asesorar en materia jurídica en las relaciones entre la Auditoría Superio
 
 XV. Asesorar a las direcciones de auditoría en la elaboración de los documentos relacionados con la revisión de situaciones excepcionales; y
 
-XVI. Asesorar a los auditores especiales y direcciones de auditorías en la elaboración de los dictámenes técnicos para formular pliegos de observaciones, seguimiento y en su caso solventación de acuerdo con los plazos, procedimientos y disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2013)</small>
+
+XVI. Asesorar a la Auditoría Especial de Gestión Financiera, Auditoría Especial de Infraestructura y Dirección General de Evaluación de Desempeño, en la elaboración de los dictámenes técnicos para formular pliegos de observaciones, seguimiento y en su caso solventación de acuerdo con los plazos, procedimientos y disposiciones legales aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE FEBRERO DE 2013)</small>
 
@@ -1017,7 +1055,9 @@ VII. Dar seguimiento a los recursos promovidos por los sujetos sancionados, ante
 
 VIII. Registrar y dar seguimiento a la gestión de cobro de las sanciones resarcitorias así como verificar y dar seguimiento al cumplimiento y a la imposición de sanciones administrativas que sean determinadas por el Órgano. Dicho registro se deberá instrumentar de manera que permita identificar las sanciones impuestas por ejercicio fiscal auditado, por ente público y por personas sancionadas.
 
-IX. Solicitar a las auditorías especiales y direcciones de auditoría, la opinión técnica que se requiera para la sustanciación del procedimiento para el fincamiento de responsabilidades administrativas y resarcitorias; y (sic)
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2013)</small>
+
+IX. Solicitar a la Auditoría Especial de Gestión Financiera, Auditoría Especial Infraestructura y Dirección General de Evaluación de Desempeño la opinión técnica que se requiera para la sustanciación del procedimiento para el fincamiento de responsabilidades administrativas y resarcitorias; y (sic)
 
 > <small>(REFORMADA, P.O. 24 DE MARZO DE 2012)</small>
 
@@ -1169,7 +1209,9 @@ c) No pertenecer al estado eclesiástico, ni ser ministro de algún culto religi
 
 d) Gozar de buena reputación, y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente su buena fama, lo inhabilitará para el cargo, cualquiera que haya sido la pena;
 
-III. En el caso del Titular de la Unidad de Administración y Contraloría Interna, además de lo establecido en los incisos a, b, c, y d de la fracción anterior; poseer al día de su nombramiento, título y cédula profesional de licenciatura afín al puesto o cargo a desempeñar, expedidos por autoridad o institución legalmente facultada para ello; y contar al momento de su designación con una experiencia profesional de al menos un año en el manejo, administración o auditoría de recursos públicos;
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2013)</small>
+
+III. En el caso del Titular de la Unidad de Administración, Contraloría Interna, y demás direcciones generales, deberán reunir los requisitos establecidos en los incisos a, b, c, y d de la fracción anterior y poseer al día de su nombramiento, título y cédula profesional de licenciatura afín al puesto o cargo a desempeñar, expedidos por autoridad o institución legalmente facultada para ello y contar al momento de su designación con una experiencia profesional de al menos un año en el manejo, administración o auditoría de recursos públicos;
 
 IV. En el caso de los directores de área, además de lo establecido en los incisos a, b, c, y d de la fracción anterior, poseer al día de su nombramiento, título y cédula profesional de licenciatura afín al puesto o cargo a desempeñar, expedidos por autoridad o institución legalmente facultada para ello y contar al momento de su designación con una experiencia profesional de al menos un año en el desarrollo de actividades relacionadas con las atribuciones conferidas al cargo a desempeñar.
 
@@ -1179,17 +1221,19 @@ Los requisitos para la designación del resto de la estructura orgánica se dete
 
 DE LA SUPLENCIA DE LOS SERVIDORES PÚBLICOS DEL ÓRGANO DE FISCALIZACIÓN SUPERIOR.
 
-> <small>(REFORMADO, P.O. 24 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2013)</small>
 
 ###### ARTÍCULO 36.
 
-Durante las ausencias temporales del Auditor General, éste será suplido por el Auditor Especial de Gestión Financiera, el Auditor Especial de Evaluación del Desempeño y el Auditor Especial de Infraestructura, en ese orden de prelación.
+Durante las ausencias temporales del Auditor General, será suplido en el siguiente orden de prelación por el Auditor Especial de Gestión Financiera, el Auditor Especial Infraestructura, y las direcciones generales en el orden que establece este reglamento.
 
-> <small>(REFORMADO, P.O. 24 DE MARZO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE FEBRERO DE 2013)</small>
 
 ###### ARTÍCULO 37.
 
-Las ausencias temporales de los auditores especiales de evaluación al desempeño e Infraestructura, serán suplidas por el director de área adscrito a las mismas; las del Auditor Especial de Gestión Financiera, por los directores de área adscritos a ésta bajo el siguiente orden de prelación: Director de Auditoría Financiera a Poderes del Estado, Director de Auditoría Financiera a Organismos Paraestatales y Autónomos y Director de Auditoría Financiera a Municipios.
+Durante las ausencias temporales del Auditor Especial de Gestión Financiera, serán suplidos bajo el siguiente orden de prelación: Director de Auditoría Financiera a Poderes del Estado, Director de Auditoría Financiera a Organismos Paraestatales y Autónomos y Director de Auditoría Financiera a Municipios; Las del Auditor Especial de Infraestructura por el director de área adscritos a ésta; Las del Director General de Evaluación del Desempeño por el director de área adscrito a ésta.
+
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2012)</small>
 
 La ausencia del Titular de la Unidad Jurídica será suplida en el siguiente orden de prelación: Director de Responsabilidades, Registro de Servidores Públicos y Situación Patrimonial, y Director Jurídico y Consultivo; la del Titular de la Unidad de Administración, será suplida en el siguiente orden de prelación: Jefe de Departamento de Recursos Financieros, Jefe de Departamento de Recursos Humanos, Jefe de Departamento de Recursos Materiales, y Jefe de Departamento de Informática.
 
@@ -1201,11 +1245,11 @@ En los casos de las ausencias no estipuladas, el despacho y la resolución de lo
 
 DE LA CERTIFICACIÓN DE DOCUMENTOS.
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2013)</small>
 
 ###### ARTÍCULO 39.
 
-El Auditor General, los Auditores Especiales, el Director General de la Unidad Jurídica, Director de la Unidad de Administración, Titular de Coordinación General de Planeación, Titular de la Contraloría Interna y los Directores de Área, dentro del ámbito de sus respectivas competencias, podrán expedir certificaciones de los documentos que obren en sus archivos o bien aquellos documentos originales que tengan a la vista con motivo de las auditorías o investigaciones que practiquen y que éstos lo consideren como relevante para el objeto de la revisión.
+El Auditor General, Auditor Especial de Gestión Financiera, Auditor Especial de Infraestructura y Director General de Evaluación de Desempeño, el Director General de la Unidad Jurídica, Director de la Unidad de Administración, Titular de Coordinación General de Planeación, Titular de la Contraloría Interna, dentro del ámbito de sus respectivas competencias, podrán expedir certificaciones de los documentos que obren en sus archivos o bien aquellos documentos originales que tengan a la vista con motivo de las auditorías o investigaciones que practiquen y que éstos lo consideren como relevante para el objeto de la revisión.
 
 ###### ARTÍCULO 40.
 
@@ -1270,5 +1314,9 @@ PRIMERO.- El presente acuerdo surtirá sus efectos a partir del día siguiente d
 SEGUNDO.- El personal, documentos y archivos de la Unidad de Registro de Servidores Públicos Estales y Municipales, a que alude el artículo 22 A que con este acuerdo se deroga, pasará a integrarse al Departamento de Situación Patrimonial, Registro de Servidores Públicos y Seguimiento de Sanciones.
 
 P.O. 2 DE FEBRERO DE 2013.
+
+Artículo Único.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial Órgano de Difusión del Gobierno del Estado.
+
+P.O. 16 DE FEBRERO DE 2013.
 
 Artículo Único.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial Órgano de Difusión del Gobierno del Estado.
