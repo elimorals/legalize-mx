@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-el-sistema-integral-de-justicia-para-51739"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-09"
-last_updated: "2011-11-07"
+last_updated: "2013-02-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51739&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COL"
 ---
 # LEY QUE ESTABLECE EL SISTEMA INTEGRAL DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE COLIMA
 
-LEY QUE ESTABLECE EL SISTEMA INTEGRAL DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE COLlMA
+LEY QUE ESTABLECE EL SISTEMA INTEGRAL DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2013.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 9 de septiembre de 2006.
 
@@ -51,7 +51,7 @@ D E C R E T O No. 410
 
 Se aprueba la Ley que Establece el Sistema Integral de Justicia para Adolescentes del Estado de Colima, para quedar como sigue:
 
-LEY QUE ESTABLECE EL SISTEMA INTEGRAL DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE COLlMA
+LEY QUE ESTABLECE EL SISTEMA INTEGRAL DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE COLIMA
 
 ## TÍTULO PRIMERO. DE LAS DISPOSICIONES GENERALES
 
@@ -65,7 +65,7 @@ La presente Ley es de orden público y de observancia general en el Estado de Co
 
 I. Establecer un sistema integral de justicia para adolescentes mayores de doce y menores de dieciocho años que hayan realizado conductas previstas como delito en el Código Penal y otras leyes que deban aplicar los tribunales del Estado, que responda a los principios de mínima intervención, subsidiariedad, especialización, flexibilidad procesal y reincorporación social;
 
-II. Identificar las bases de la responsabilidad social y civil de los adolescentes que cometan delitos, así como las causas excIuyentes y extintivas de dicha responsabilidad;
+II. Identificar las bases de la responsabilidad social y civil de los adolescentes que cometan delitos, así como las causas excluyentes y extintivas de dicha responsabilidad;
 
 III. Señalar las atribuciones y responsabilidades de las autoridades encargadas de instrumentar el sistema;
 
@@ -141,9 +141,13 @@ XVIII. DIF Estatal: El Sistema Estatal para el Desarrollo Integral de la Familia
 
 XIX. Policía: La policía ministerial especializada en menores infractores;
 
-XX. Centros de Internamiento: Los centros especializados en la readaptación social de menores infractores sometidos a medidas provisionales o definitivas de internamiento; y
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2013)</small>
 
-XXI. Centros de tratamiento en libertad: Los centros dependientes del instituto, responsables de la readaptación de menores en instituciones abiertas.
+XX. Centros de Internamiento: Los centros especializados en la reinserción social de menores infractores sometidos a medidas provisionales o definitivas de internamiento; y
+
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2013)</small>
+
+XXI. Centros de tratamiento en libertad: Los centros dependientes del instituto, responsables de la reinserción de menores en instituciones abiertas.
 
 ### CAPÍTULO II. DE LA RESPONSABILIDAD SOCIAL Y CIVIL DE LOS ADOLESCENTES
 
@@ -153,11 +157,11 @@ XXI. Centros de tratamiento en libertad: Los centros dependientes del instituto,
 
 Son inimputables para el derecho penal y no se admitirá prueba en contrario, los menores de dieciocho y mayores de doce años de edad que hayan intervenido en conductas previstas como delitos en el Código Penal y otras leyes que deban aplicar los tribunales del Estado, sin perjuicio de la responsabilidad social en que incurran y la obligación civil de reparar el daño.
 
-> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 5°.
 
-Los menores que participen en conductas previstas como delito en el Código Penal y otras leyes que deban aplicar los tribunales del Estado son responsables ante la sociedad por el daño causado, a pesar de que su inteligencia y voluntad no se hayan desarrollado plenamente, por lo que pueden ser procesados y condenados a medidas de readaptación para evitar la comisión de otras conductas antijurídicas y, también, a reparar el daño causado con cargo a sus propios bienes, sin perjuicio de la responsabilidad pecuniaria de quienes ejerzan la patria potestad, la tutela o la custodia del adolescente al momento de cometer el hecho ilícito.
+Los menores que participen en conductas previstas como delito en el Código Penal y otras leyes que deban aplicar los tribunales del Estado son responsables ante la sociedad por el daño causado, a pesar de que su inteligencia y voluntad no se hayan desarrollado plenamente, por lo que pueden ser procesados y condenados a medidas de reinserción para evitar la comisión de otras conductas antijurídicas y, también, a reparar el daño causado con cargo a sus propios bienes, sin perjuicio de la responsabilidad pecuniaria de quienes ejerzan la patria potestad, la tutela o la custodia del adolescente al momento de cometer el hecho ilícito.
 
 ###### Artículo 6°.
 
@@ -166,6 +170,10 @@ Cualquiera que sea el delito cometido, los adolescentes no serán sometidos a to
 ###### Artículo 7°.
 
 La inimputabilidad de un menor se determinará en el momento de la comisión del delito. En el caso de que durante la ejecución de un delito permanente el menor cumpliera los dieciocho años, será juzgado por los tribunales penales.
+
+> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2013)</small>
+
+Mientras se determina la imputabilidad del menor, mediante los dictámenes periciales correspondientes, la custodia física del mismo estará a cargo del Ministerio Público Especializado en Adolescentes y se ejercerá en lugares especiales destinados exclusivamente para adolescentes.
 
 Si durante la detención provisional o la ejecución de la medida en un centro de internamiento, el infractor comete un delito perseguible de oficio después de cumplidos los dieciocho años, se dará vista al ministerio público para que integre la averiguación y ejercite la acción penal, en su caso, quedando el indiciado a disposición del Juez penal que corresponda para efectos procesales, pero internado todavía en el centro para menores, debiendo continuar el procedimiento hasta que el Juez dicte sentencia.
 
@@ -181,17 +189,21 @@ La edad de un adolescente se comprobará mediante el acta de nacimiento o, en su
 
 Cuando exista duda fundada respecto a la niñez o la adolescencia de un infractor, se presumirá que es menor de doce años. Si la duda recae sobre su adolescencia o mayoría de edad penal, se presumirá que es menor.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 10.
 
-Los mayores de doce y menores de catorce años, cualquiera que sea el delito cometido, no serán sometidos a detención provisional ni a medidas de readaptación social en centros de internamiento. En los casos de flagrancia, una vez identificado al menor y demostrada su edad, será puesto en libertad bajo custodia de quienes ejerzan la patria potestad o la tutela o, en su caso, de persona honorable que proteste presentarlo cuantas veces lo requiera el Ministerio Público o el Juez.
+Los mayores de doce y menores de catorce años, cualquiera que sea el delito cometido, no serán sometidos a detención provisional ni a medidas de reinserción social en centros de internamiento. En los casos de flagrancia, una vez identificado al menor y demostrada su edad, será puesto en libertad bajo custodia de quienes ejerzan la patria potestad o la tutela o, en su caso, de persona honorable que proteste presentarlo cuantas veces lo requiera el Ministerio Público o el Juez.
 
 > <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2011)</small>
 
 Los mayores de catorce y menores de dieciocho años, solo serán internados cuando cometan cualquiera de los delitos graves previstos por este ordenamiento y otras leyes que deban aplicar los tribunales del Estado, pero serán puestos en libertad caucional o bajo protesta y entregados en custodia de quienes ejerzan la patria potestad o la tutela, en los casos señalados en esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 11.
 
-Ninguna autoridad o medio de información podrán divulgar públicamente la identidad del adolescente sometido a procesamiento o a ejecución de medidas de readaptación social, su domicilio, el nombre de sus padres o tutores o cualquier información que permita identificarlo.
+Ninguna autoridad o medio de información podrán divulgar públicamente la identidad del adolescente sometido a procesamiento o a ejecución de medidas de reinserción social, su domicilio, el nombre de sus padres o tutores o cualquier información que permita identificarlo.
 
 Las autoridades que violen esta prohibición cometerán el delito de abuso de autoridad y el defensor, la víctima, el periodista o cualquier persona que publicite dicha información incurrirá en el delito de desobediencia de particulares.
 
@@ -231,9 +243,11 @@ Cuando se demuestre plenamente que el inimputable obró en circunstancias que ex
 
 En esta virtud, la ausencia de conducta, la atipicidad, las causas de justificación y también la coacción sobre la voluntad y el error sustancial de hecho serán investigados y estimados de oficio por el Juez o el Ministerio Público o, en su caso, a petición de parte, así como las excusas absolutorias aplicables al caso.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 18.
 
-Las causas extintivas de responsabilidad como la muerte del infractor, el perdón del ofendido en los delitos de querella, la amnistía y la prescripción de la acción social o de la medida de readaptación impuesta, también se investigarán y harán valer de oficio por el Ministerio Público o el Juez, en su caso, pero no se aplicarán las reglas del indulto o la rehabilitación de derechos en el procedimiento para adolescentes.
+Las causas extintivas de responsabilidad como la muerte del infractor, el perdón del ofendido en los delitos de querella, la amnistía y la prescripción de la acción social o de la medida de reinserción impuesta, también se investigarán y harán valer de oficio por el Ministerio Público o el Juez, en su caso, pero no se aplicarán las reglas del indulto o la rehabilitación de derechos en el procedimiento para adolescentes.
 
 Puede solicitarse, sin embargo, la declaración de inocencia del menor, en los términos previstos por los Códigos Penal y Procesal respectivamente.
 
@@ -245,11 +259,13 @@ La prescripción de la acción social respecto a las conductas formalmente delic
 
 La prescripción de la acción en los casos de conductas delictivas que no tengan prevista pena de prisión en el Código Penal y otras leyes que deban aplicar los tribunales del Estado, se producirá en el término de un año, tomando en cuenta lo dispuesto en el párrafo anterior.
 
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 20.
 
-Las medidas de readaptación impuestas por resolución firme a los menores infractores, prescribirán en un término igual al periodo de internamiento impuesto en la sentencia, que no puede exceder del plazo de cinco años, contados desde que se declaró ejecutoriado dicho fallo o desde la evasión del infractor, pudiendo aumentarse hasta una mitad más de su duración cuando este se oculte en otro Estado o en el extranjero.
+Las medidas de reinserción impuestas por resolución firme a los menores infractores, prescribirán en un término igual al periodo de internamiento impuesto en la sentencia, que no puede exceder del plazo de cinco años, contados desde que se declaró ejecutoriado dicho fallo o desde la evasión del infractor, pudiendo aumentarse hasta una mitad más de su duración cuando este se oculte en otro Estado o en el extranjero.
 
-En el caso de medidas de readaptación social que no impliquen internamiento, el término de prescripción será de dos años, contados en los términos del párrafo anterior.
+En el caso de medidas de reinserción social que no impliquen internamiento, el término de prescripción será de dos años, contados en los términos del párrafo anterior.
 
 ###### Artículo 21.
 
@@ -285,17 +301,25 @@ La apelación de las resoluciones dictadas por los jueces especializados en el p
 
 En los casos de duda, deficiencia probatoria o ausencia de un requisito previo, el Juez o la Sala Especializada deben dictar sentencia absolutoria, quedando prohibido iniciar un nuevo proceso en contra del menor por los mismos hechos, y
 
-e. Ejecución de las medidas de readaptación social impuestas en la sentencia, a cargo del Instituto, dependiente de la Secretaría General de Gobierno, por lo que toca a las medidas de tratamiento en reclusión o libertad, o las medidas aplicables por otras autoridades como la amonestación, la prohibición de ir o residir en lugar determinado, el decomiso de los instrumentos y objetos del delito o la reparación del daño, entre o tras (sic).
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2013)</small>
+
+e. Ejecución de las medidas de reinserción social impuestas en la sentencia, a cargo del Instituto, dependiente de la Dirección General de Prevención y Reinserción Social, de la Secretaría de Seguridad Pública, por lo que toca a las medidas de tratamiento en reclusión o libertad, o las medidas aplicables por otras autoridades como la amonestación, la prohibición de ir o residir en lugar determinado, el decomiso de los instrumentos y objetos del delito o la reparación del daño, entre otras.
+
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 24.
 
-El Instituto estará integrado por un Director General, una dirección de medidas de internamiento, otra dirección encargada de las medidas de readaptación social sin internamiento y una dirección responsable de la vigilancia, orientación y apoyo de los menores que hayan obtenido la suspensión a prueba de procedimiento o la libertad condicional, incluyendo a quienes estén sujetos a la libertad caucional o al arraigo, así como el personal administrativo y de servicios que se requiera.
+El Instituto estará integrado por un Director, una Subdirección de Tratamiento Interno, una subdirección de Medidas de Internamiento Especializado, otra Subdirección Encargada de las Medidas de Reinserción Social sin Internamiento y una Subdirección Responsable de la Vigilancia, Orientación y Apoyo de los Menores, que hayan obtenido la suspensión a prueba de procedimiento o la libertad condicional, incluyendo a quienes estén sujetos a la libertad caucional o al arraigo, así como el personal administrativo y de servicios que se requiera.
+
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 25.
 
-Los centros de internamiento de menores dependerán del Director General del instituto y se integrarán con un director, un subdirector, un coordinador de seguridad, un coordinador de servicios y alimentación, un coordinador de salud, trabajo, actividades artísticas y deporte, así como los médicos, psicólogos, trabajadores sociales y profesores, además del personal administrativo, de servicio y los custodios que sean necesarios.
+Los Centros de Internamiento de menores Infractores dependerán de sus respectivas Subdirecciones. La Subdirección de Tratamiento Interno, se integrará por un coordinador de seguridad, personal médico, psicólogos, trabajadores sociales y profesores, además del personal administrativo, de servicio y los custodios que sean necesarios.
 
-El Director General, los Directores, Coordinadores y demás personal que señale el reglamento, del Instituto y los Centros de Internamiento, se considerarán trabajadores de confianza y serán designados y removidos libremente por el Gobernador del Estado.
+La Subdirección de Medidas de Internamiento Especializado para Menores Infractores se integrará de un coordinador jurídico, un coordinador de seguridad, un coordinador de servicios, un coordinador de salud, trabajo y actividades artísticas y deportes, así como los psicólogos, trabajadores sociales y profesores, además del personal administrativo, de servicio y los custodios que sean necesarios.
+
+El Director, los subdirectores, Coordinadores y demás personal que señale el reglamento, del Instituto y los Centros de Internamiento, se consideraran trabajadores de confianza en los términos del artículo 123 apartado B fracción XIII de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### Artículo 26.
 
@@ -311,13 +335,17 @@ En el procedimiento para menores son aplicables supletoriamente las disposicione
 
 Las denuncias o querellas por delitos en los que haya intervenido un menor de edad, deberán interponerse ante el Ministerio Público con las formalidades y apercibimientos previstos por el Código Procesal. Solo en los casos urgentes podrán presentarse denuncias ante la policía ministerial, debiendo turnarse la causa al Ministerio Público, después de realizar las diligencias necesarias.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 29.
 
-Cualquier menor puede ser detenido en flagrante delito, debiendo ser puesto a disposición de la autoridad inmediata y, con la misma prontitud a la del Ministerio Público.
+Cualquier menor puede ser detenido en flagrante delito, debiendo ser puesto a disposición inmediata de la autoridad especializada y, con la misma prontitud a la del Ministerio Público especializado.
 
-Se equipara a la flagrancia la detención de un menor, siempre que sea perseguido inmediatamente después de la comisión de un delito y no haya sido abandonada la persecución.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 16 DE FEBRERO DE 2013)</small>
 
-También se considera detención en flagrancia cuando inmediatamente después de realizado el acto delictivo, una persona impute al menor su comisión y se encuentre en poder de éste objetos, efectos o instrumentos vinculados con el delito, siempre que no hayan transcurrido 72 horas desde la Comisión del delito.
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2013)</small>
+
+El adolescente detenido en flagrancia queda a disposición del Ministerio Público Especializado en Adolescentes por lo que recae en éste su custodia física, y la cual se ejercerá en lugares especiales destinados exclusivamente para adolescentes, y recibirán toda la asistencia social, profesional, psicológica, médica y física que requieran. De ser encontrado culpable deberá ser remitido Inmediatamente al Instituto para el Tratamiento de Menores Infractores.
 
 El Ministerio Público revisará la legalidad de la detención y ordenará la inmediata libertad del menor cuando resulte indebida.
 
@@ -459,7 +487,7 @@ Solo cuando lo solicite el menor o su defensor podrán celebrarse careos constit
 
 Cuando se trate de delitos graves, el Juez ordenará la apertura del procedimiento sumario en el mismo auto de sujeción a proceso.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2009)</small>
 
@@ -555,9 +583,11 @@ IX. Los autos que otorguen, nieguen o levanten el embargo precautorio, así como
 
 X. Las demás resoluciones que señale esta Ley.
 
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 61.
 
-La apelación contra las sentencias que impongan alguna medida de readaptación social contra menores infractores o, en su caso, contra autos que levanten el embargo precautorio o las medidas de aseguramiento y los que ordenen la cancelación o restitución de cauciones, se admitirá en efecto devolutivo y suspensivo. Cualquier otra apelación se admitirá solo con efectos devolutivos, pudiendo ejecutarse la resolución impugnada y continuar el procedimiento.
+La apelación contra las sentencias que impongan alguna medida de reinserción social contra menores infractores o, en su caso, contra autos que levanten el embargo precautorio o las medidas de aseguramiento y los que ordenen la cancelación o restitución de cauciones, se admitirá en efecto devolutivo y suspensivo. Cualquier otra apelación se admitirá solo con efectos devolutivos, pudiendo ejecutarse la resolución impugnada y continuar el procedimiento.
 
 ###### Artículo 62.
 
@@ -567,9 +597,9 @@ Al admitir la apelación, el Juez deberá señalar sus efectos y remitir, en el 
 
 Contra el auto que admita la apelación no procede recurso alguno. El que la declare improcedente la remitirá de oficio al Supremo Tribunal de Justicia, con las constancias necesarias, para que resuelva sobre la admisión y sus efectos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE FEBRERO DE 2009)</small>
 
 ###### Artículo 64.
 
@@ -577,7 +607,7 @@ En cualquier caso, recibido el expediente, la Sala Especializada dictará auto d
 
 Si se declara mal admitida o se ratifica el auto que declara improcedente la apelación, se devolverán los autos al inferior. Si se revoca o modifica la calificación de sus efectos o se admite, cuando se haya negado en la primera instancia, se notificará de inmediato al Juez de la causa para que remita las constancias necesarias.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2009)</small>
 
@@ -585,7 +615,7 @@ Si se declara mal admitida o se ratifica el auto que declara improcedente la ape
 
 El apelante deberá expresar los agravios que le cause la resolución apelada, dentro de los diez días siguientes de notificada la radicación. A su escrito acompañará copias simples para que se corra traslado personalmente a las demás partes, por el plazo de cinco días, a fin de que produzcan su contestación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2009)</small>
 
@@ -809,9 +839,11 @@ VII. Apercibimiento y caución de no ofender, consistente en el apercibimiento q
 
 VIII. Prohibición de ir o residir en lugar determinado, cuando en él habite el ofendido o parientes cercanos de éste, en los casos de homicidio, violación y secuestro.
 
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 99.
 
-En los casos en que se imponga en la sentencia, como medidas de readaptación social, la prestación de servicios comunitarios, la libertad asistida con arraigo domiciliario o el tratamiento, formación o educación en instituciones abiertas, el Juez o la Sala Especializada competente podrán imponer como medidas adicionales y por el tiempo que consideren necesario, sin exceder de tres años, la prohibición de vincularse con personas que hayan influido negativamente o puedan afectar la conducta del menor; la de asistir a lugares peligrosos como bares, cantinas y centros de baile en que se expidan bebidas embriagantes; la de abstenerse del uso de bebidas alcohólicas o drogas, además de someterse a un tratamiento de desintoxicación cuando se trate de usuarios o habituales y, en el caso de delitos derivados del tráfico de vehículos, abstenerse de conducir vehículos de motor.
+En los casos en que se imponga en la sentencia, como medidas de reinserción social, la prestación de servicios comunitarios, la libertad asistida con arraigo domiciliario o el tratamiento, formación o educación en instituciones abiertas, el Juez o la Sala Especializada competente podrán imponer como medidas adicionales y por el tiempo que consideren necesario, sin exceder de tres años, la prohibición de vincularse con personas que hayan influido negativamente o puedan afectar la conducta del menor; la de asistir a lugares peligrosos como bares, cantinas y centros de baile en que se expidan bebidas embriagantes; la de abstenerse del uso de bebidas alcohólicas o drogas, además de someterse a un tratamiento de desintoxicación cuando se trate de usuarios o habituales y, en el caso de delitos derivados del tráfico de vehículos, abstenerse de conducir vehículos de motor.
 
 ###### Artículo 100.
 
@@ -859,7 +891,7 @@ En este caso se entregará al menor un instructivo que señale el tipo de servic
 
 El Instituto deberá asignar un supervisor que vigile la prestación del servicio en los días y horas fijados; que asigne nuevos trabajos al menor, cuando sea necesario para complementar las jornadas impuestas y que, cumplida la medida, certifique su conclusión e informe al Juez competente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 110.
 
@@ -977,7 +1009,7 @@ En los casos de que el menor se vincule con las personas antes señaladas, viole
 
 Si el infractor sometido a medidas de buena conducta es mayor de edad al momento de violar las prohibiciones impuestas, será consignado al Juez penal que corresponda.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE NOVIEMBRE DE 2011)</small>
 
 ###### Artículo 129.
 
@@ -993,7 +1025,9 @@ En la sentencia que imponga la medida de internamiento pleno, se computará el t
 
 El tratamiento en reclusión que se imponga al menor será de carácter técnico y comprenderá las fases de evaluación de la personalidad, formación laboral y escolástica, trabajo y preliberación en custodia.
 
-La vinculación con la familia será un factor de readaptación social que debe reforzarse en todas las fases del tratamiento, a fin de preparar la liberación del menor, procurando que en las sesiones de terapia psicológica estén presentes quienes ejerzan la patria potestad, la tutela o la custodia del menor, además de que asistan a los programas de capacitación que promoverá el instituto encargado de la ejecución de medidas impuestas a menores.
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2013)</small>
+
+La vinculación con la familia será un factor de reinserción social que debe reforzarse en todas las fases del tratamiento, a fin de preparar la liberación del menor, procurando que en las sesiones de terapia psicológica estén presentes quienes ejerzan la patria potestad, la tutela o la custodia del menor, además de que asistan a los programas de capacitación que promoverá el instituto encargado de la ejecución de medidas impuestas a menores.
 
 ###### Artículo 132.
 
@@ -1035,11 +1069,11 @@ V. Recluirse a partir de las diez de la noche en su domicilio, salvo autorizaci�
 
 VI. Sujetarse a las medidas de orientación y supervisión que se le impongan.
 
-> <small>(ADICIONADO, P.O. 8 DE SEPTEIMBRE DE 2007)</small>
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2007)</small>
 
 El beneficio a que se refiere este artículo, en todo caso se otorgará previa caución que así determine el Instituto, misma que no excederá en ningún caso y por ningún motivo, de cien unidades de salarios mínimos.
 
-> <small>(ADICIONADO, P.O. 8 DE SEPTEIMBRE DE 2007)</small>
+> <small>(ADICIONADO, P.O. 8 DE SEPTIEMBRE DE 2007)</small>
 
 Cuando el infractor dejare de cumplir con las obligaciones descritas en las fracciones anteriores sin causa justificada, se revocará el beneficio concedido y se perderá la garantía otorgada en beneficio del Estado en los términos de la Ley respectiva.
 
@@ -1089,7 +1123,7 @@ Dado en Palacio de Gobierno, al (sic) día 30 del mes de agosto del año dos mil
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. JUAN JOSÉ SEVILLA SOLÓRZANO. Rúbrica. EL PROCURADOR GENERAL DE JUSTICIA, LIC. ARTURO DÍAZ RIVERA. Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 8 DE SEPTIEMBRE DE 2007.
 
@@ -1112,3 +1146,7 @@ TERCERO.- Los procedimientos penales que se estén substanciando a la entrada en
 CUARTO.- El Gobierno Federal deberá financiar las acciones derivadas del cumplimiento del Decreto número 211, aprobado por el Congreso de la Unión, por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Salud, del Código Penal Federal y del Código Federal de Procedimientos Penales, publicado en el Diario Oficial de la Federación el 20 de agosto de 2009, con los recursos que anualmente se prevean en el Presupuesto de Egresos de la Federación, en términos del Artículo Cuarto Transitorio del citado Decreto.
 
 QUINTO.- Los Poderes Ejecutivo y Legislativo Estatales deberán prever y realizar las acciones necesarias para asegurar los recursos en el Presupuesto de Egresos del Estado, a fin de que las autoridades del fuero común puedan dar cumplimiento a la competencia y atribuciones establecidas en el Decreto número 211, referido en el artículo anterior.
+
+P.O. 16 DE FEBRERO DE 2013.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
