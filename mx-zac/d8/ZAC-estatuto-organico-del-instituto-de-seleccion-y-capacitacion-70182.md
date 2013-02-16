@@ -4,7 +4,7 @@ identifier: "ZAC-estatuto-organico-del-instituto-de-seleccion-y-capacitacion-701
 country: "mx"
 rank: "estatuto"
 publication_date: "2009-07-15"
-last_updated: "2009-07-15"
+last_updated: "2013-02-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70182&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO DE SELECCION Y CAPACITACION DEL ESTADO DE ZACATECAS
 
-ESTATUTO ORGANICO DEL INSTITUTO DE SELECCION Y CAPACITACION DEL ESTADO DE ZACATECAS
+ESTATUTO ORGÁNICO DEL INSTITUTO DE SELECCIÓN Y CAPACITACIÓN DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO 2 TRANSITORIO DEL ESTATUTO ORGÁNICO DEL INSTITUTO DE SELECCIÓN Y CAPACITACIÓN DEL ESTADO DE ZACATECAS, PUBLICADO EN EL SUPLEMENTO DEL P.O. DE 16 DE FEBRERO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Estatuto publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 15 de julio de 2009.
 
@@ -816,3 +818,19 @@ Artículo segundo.- Lo no previsto en el presente Estatuto, se resolverá confor
 Artículo tercero.- Dentro del término de ciento ochenta días naturales contados a partir de la entrada en vigor del presente Estatuto, deberán expedirse y publicarse en el Periódico Oficial, Órgano del Gobierno del Estado, el Manual General de Organización y de Procedimientos del Instituto.
 
 Aprobado por la Junta Directiva del Instituto de Selección y Capacitación del Estado, se expide el presente Estatuto Orgánico el día quince de julio del año dos mil nueve. Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 16 DE FEBRERO DE 2013.
+
+###### Artículo 1.
+
+El presente Estatuto Orgánico entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+###### Artículo 2.
+
+Se Abroga el Estatuto Orgánico del Instituto de Selección y Capacitación del Estado de Zacatecas, publicado en el Periódico Oficial, Órgano del Gobierno del Estado, en Suplemento al Número 56 de fecha 15 de julio del 2009.
+
+###### Artículo 3.
+
+Dentro del término de 30 días naturales contados a partir de la entrada en vigor del presente Estatuto, deberá expedirse y publicarse en el Periódico Oficial, Órgano del Gobierno del Estado el Manual General de Organización y 180 días naturales el de Procedimientos.
