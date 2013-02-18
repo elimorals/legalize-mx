@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-secretaria-general-de-gobierno-86206"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-01-30"
-last_updated: "2012-07-13"
+last_updated: "2013-02-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86206&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA GENERAL DE GOBIERNO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL GACETA DEL GOBIERNO: 13 DE JULIO DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA GENERAL DE GOBIERNO, PUBLICADO EN LA G.G. DE 18 DE FEBRERO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA DEL GOBIERNO: ABROGADO.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el lunes 30 de enero de 2012.
 
@@ -1044,3 +1046,13 @@ PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía jurídica que sean contrarias a las establecidas en el presente Reglamento.
+
+G.G. 18 DE FEBRERO DE 2013.
+
+PRIMERO. Publíquese este Reglamento en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se abroga el Reglamento Interior de la Secretaría General de Gobierno, publicado en el Periódico Oficial "Gaceta del Gobierno" el 30 de enero de 2012.
+
+CUARTO. Se derogan las disposiciones de igual o menor jerarquía que sean contrarias a las establecidas en el presente Reglamento.
