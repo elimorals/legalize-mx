@@ -4,7 +4,7 @@ identifier: "AGU-legislacion-penal-para-el-estado-de-aguascalientes-33238"
 country: "mx"
 rank: "otro"
 publication_date: "2003-07-21"
-last_updated: "2012-11-05"
+last_updated: "2013-02-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "AGU"
 
 LEGISLACIÓN PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2012.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 5 DE NOVIEMBRE DE 2012 NO APLICA AL ARTICULADO DEL DECRETO 147 PUBLICADO EN EL P.O. DE 12 DE FEBRERO DE 2004.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2013.
 
 Legislación publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 21 de julio de 2003.
 
@@ -165,9 +163,15 @@ X. Cuando la víctima se trate de un incapaz sujeto a patria potestad, tutela, c
 
 XI. CUANDO LA VÍCTIMA SEA PRIVADA DE LA VIDA POR LOS AUTORES, PARTÍCIPES O CÓMPLICES DE HECHOS QUE HAYAN SIDO PREVIAMENTE TIPIFICADOS EN CUALQUIERA DE LAS VARIABLES DE SECUESTRO PREVISTAS EN LA LEY GENERAL PARA PREVENIR Y SANCIONAR LOS DELITOS EN MATERIA DE SECUESTRO, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTICULO 73 DE LA CONSTITUCIÓN DE LOS ESTADOS UNIDOS MEXICANOS.
 
+> <small>(ADICIONADA, P.O. 18 DE FEBRERO DE 2013)</small>
+
+XII. En caso de Feminicidio.
+
 En el caso de Homicidio Doloso Calificado a que se refieren las Fracciones I a la VIII, se aplicará al responsable de 15 a 40 años de prisión, de 150 a 500 días multa y pago total de la reparación de los daños y perjuicios ocasionados.
 
-En el caso de las Fracciones IX y X se aplicará al responsable de 20 a 50 años de prisión, de 500 a 1000 días de multa y pago total de la reparación de los daños y perjuicios ocasionados, privándose además al responsable de los derechos familiares que le correspondan, incluidos los de derecho sucesorio.
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2013)</small>
+
+En el caso de las Fracciones IX, X y XII se aplicará al responsable de 20 a 50 años de prisión, de 500 a 1000 días de multa y pago total de la reparación de los daños y perjuicios ocasionados, privándose además, en el caso de las Fracciones IX y X, al responsable de los derechos familiares que le correspondan, incluidos los de derecho sucesorio.
 
 (NOTA: EL 21 DE MAYO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 25/2011, DECLARÓ LA INVALIDEZ DEL PÁRRAFO ANTEPENÚLTIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 22 DE MAYO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
@@ -202,6 +206,18 @@ Existe Brutal Ferocidad, cuando el inculpado provoca el resultado lesivo sin cau
 ###### Artículo 19.
 
 Existe Tortura cuando el inculpado servidor público provoca el resultado lesivo causando a la víctima dolores o sufrimientos graves, sean físicos o psíquicos, con el fin de obtener de la propia víctima o de un tercero, información o una declaración respecto de un acto que haya realizado o se sospecha lo haya hecho, o para que realice o deje de realizar específica conducta.
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2013)</small>
+
+Artículo 19 A.- Existe Homicidio calificado como Feminicidio cuando un hombre prive de la vida a una mujer por razones de género.
+
+Existen razones de género cuando se presente cualquiera de los siguientes supuestos:
+
+I.- La víctima presente signos de violencia sexual de cualquier tipo;
+
+II.- A la víctima se le hayan infligido lesiones infamantes, degradantes o mutilaciones, previas a la privación de la vida; o
+
+III.- La víctima haya sido incomunicada, cualquiera que sea el tiempo previo a su fallecimiento.
 
 ### CAPITULO SEGUNDO. Tipos Penales Protectores de la Libertad Sexual, la Seguridad Sexual y el Normal Desarrollo Físico y Psicosexual
 
@@ -6024,3 +6040,9 @@ P.O. 16 DE JULIO DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE FEBRERO DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
