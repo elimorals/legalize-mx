@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-agua-para-el-estado-de-aguascalientes-17314"
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-24"
-last_updated: "2008-06-16"
+last_updated: "2013-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17314&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2013.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 24 de julio de 2000.
 
@@ -1067,7 +1067,7 @@ Además el aparato medidor volumétrico deberá estar accesible para que se pued
 
 En caso de propiedades en condominio, cualquiera de sus modalidades, si existe una toma que abastece a todas las viviendas o departamentos, el prestador del servicio estará obligado a efectuar las modificaciones necesarias para la instalación de aparatos medidores volumétricos, para cada una de las viviendas o departamentos que la componen, lo cual se efectuará en términos del párrafo anterior, previo acuerdo de las respectivas asambleas de condóminos.
 
-> <small>(REFORMADO PRIMER PARRAFO , P.O. 27 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE OCTUBRE DE 2003)</small>
 
 ###### ARTICULO 78.
 
@@ -1191,7 +1191,7 @@ IV. Una menor dependencia de los municipios hacia el Estado y la Federación, pa
 
 V. La orientación del desarrollo urbano e industrial.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2007)</small>
 
 ###### ARTICULO 96.
 
@@ -1287,7 +1287,7 @@ No podrán existir exenciones respecto de las cuotas y tarifas a que se refiere 
 
 Las cuotas y tarifas que se cobren al usuario serán independientes de los pagos que éste tenga que efectuar conforme a la legislación fiscal aplicable.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 104.
 
@@ -1481,17 +1481,31 @@ XIII. Quienes se opongan a las visitas de inspección y verificación a que se r
 
 Las infracciones a que se refiere el artículo anterior serán sancionadas administrativamente por el municipio, o el Instituto, a el organismo operador, según corresponda, con multas por el equivalente a:
 
-I. De cinco a cuarenta veces el salario mínimo diario general vigente en el Estado, tratándose de infracciones señaladas en las fracciones I, III y VII;
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2013)</small>
 
-II. De cinco a cincuenta veces el salario mínimo diario general vigente en el Estado, tratándose de infracciones señaladas en las fracciones II, IV y VI;
+I. De diez a doscientas veces el salario mínimo diario general vigente en el Estado, tratándose de infracciones señaladas en las Fracciones I, III y VII;
 
-III. De cinco a veinte veces el salario mínimo diario general vigente en el Estado, tratándose de la infracción señalada en la fracción V;
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2013)</small>
 
-IV. De cien a quinientas veces el salario mínimo diario general vigente en el Estado, tratándose de la infracción señalada en las fracciones VIII, XI, XIl y XIII; y
+II. De diez a trescientas veces el salario mínimo diario general vigente en el Estado, tratándose de infracciones señaladas en las Fracciones II, IV y VI;
 
-V. De doscientas cincuenta a mil veces el salario mínimo diario general vigente en el Estado, tratándose de la infracción señalada en las fracciones IX y X.
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2013)</small>
+
+III. De diez a cien veces el salario mínimo diario general vigente en el Estado, tratándose de la infracción señalada en la Fracción V;
+
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2013)</small>
+
+IV. De quinientas a mil veces el salario mínimo diario general vigente en el Estado, tratándose de la infracción señalada en las Fracciones VIII, XI, XII y XIII; y
+
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2013)</small>
+
+V. De mil a dos mil veces el salario mínimo diario general vigente en el Estado, tratándose de la infracción señalada en las Fracciones IX y X.
 
 Para sancionar las faltas, se calificarán las infracciones tomando en consideración la gravedad de la misma, los daños causados, las condiciones económicas del infractor y la reincidencia.
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2013)</small>
+
+Para los infractores señalados en el artículo anterior, que soliciten la reducción de la multa impuesta, deberán tomar un curso sobre el cuidado del agua y la preservación del ambiente, impartido por la Secretaría del Medio Ambiente del Municipio o en su caso de la Secretaría del Medio Ambiente del Estado y demostrar haber dado cumplimiento al Artículo 92 de la presente ley.
 
 Los infractores señalados en la fracción VIII del artículo anterior, perderán en beneficio del organismo operador las obras ejecutadas, las instalaciones establecidas y todos los bienes muebles o inmuebles dedicados a la prestación de los servicios públicos, sin perjuicio de la aplicación de la multa correspondiente. El municipio podrá solicitar a la autoridad competente el desalojo de los infractores y, en su caso, que se realice la demolición de las obras e instalaciones por cuenta del infractor.
 
@@ -1633,7 +1647,7 @@ EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Abelardo Reyes Sahagún.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 27 DE OCTUBRE DE 2003.
 
@@ -1654,3 +1668,9 @@ P.O. 16 DE JUNIO DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 18 DE FEBRERO DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
