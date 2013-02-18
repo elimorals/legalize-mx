@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-ministerio-publico-del-estado-de-89069"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-08-20"
-last_updated: "2012-08-27"
+last_updated: "2013-02-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "AGU"
 
 LEY ORGÁNICA DEL MINISTERIO PÚBLICO DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 27 DE AGOSTO DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 20 de agosto de 2012.
 
@@ -469,7 +467,9 @@ El escrito de inconformidad deberá señalar el número de la indagatoria corres
 
 El Procurador resolverá la inconformidad a través de los auxiliares que establezca el reglamento de esta Ley, quienes verificarán el cumplimiento de los requisitos legales, así como los méritos expuestos por las personas inconformes.
 
-Si el Procurador resuelve la procedencia de la inconformidad, el expediente se regresará al agente que hubiere efectuado la determinación inicial, a efecto de que continúe la indagatoria. La resolución del Procurador sobre la improcedencia de la inconformidad podrá ser impugnada por la víctima u ofendido ante el Tribunal de lo Contencioso Administrativo del Estado de Aguascalientes.
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2013)</small>
+
+Si el Procurador resuelve la procedencia de la inconformidad, el expediente se regresará al agente que hubiere efectuado la determinación inicial, a efecto de que continúe la indagatoria. La resolución del Procurador sobre la improcedencia de la inconformidad podrá ser impugnada por la víctima u ofendido ante la Sala Administrativa y Electoral.
 
 ###### ARTÍCULO 34.
 
@@ -887,7 +887,9 @@ El ingreso al Servicio de Carrera se hará por convocatoria pública. Los aspira
 
 A. Agentes del Ministerio Público.
 
-I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos.
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2013)</small>
+
+I. Ser ciudadano mexicano en pleno ejercicio de sus derechos.
 
 II. Contar con título de licenciado en derecho expedido y registrado legalmente, con la correspondiente cédula profesional, que acredite, por lo menos, tres años de ejercicio profesional.
 
@@ -909,7 +911,9 @@ X. Los demás requisitos que establezcan otras disposiciones aplicables.
 
 B. Peritos.
 
-I. Ser ciudadano mexicano por nacimiento y en pleno ejercicio de sus derechos.
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2013)</small>
+
+I. Ser ciudadano mexicano en pleno ejercicio de sus derechos.
 
 II. Acreditar que ha concluido, por lo menos, los estudios correspondientes a la enseñanza media superior o equivalente.
 
@@ -1464,3 +1468,11 @@ Dip. Gilberto Carlos Ornelas,
 SEGUNDO SECRETARIO.
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 46 de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a dieciséis de agosto de dos mil doce.- Carlos Lozano de la Torre.- Rúbrica.- El Jefe de Gabinete, Antonio Javier Aguilera García.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 18 DE FEBRERO DE 2013.
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
