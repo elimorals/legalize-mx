@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2012-10-08"
+last_updated: "2013-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2013.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -3903,7 +3903,7 @@ Cuando por necesidades del servicio se requiera que un vehículo automotor cambi
 
 Para la expedición de permisos de circulación fuera del territorio del Municipio, las áreas solicitantes deberán sujetarse al siguiente procedimiento:
 
-I. Solicitar por escrito con 48 horas de anticipación ante Control Patrimonial el permiso para circular con los siguientes datos:
+l. Solicitar por escrito con 48 horas de anticipación ante Control Patrimonial el permiso para circular con los siguientes datos:
 
 a. Descripción del vehículo.
 
@@ -5853,9 +5853,11 @@ TOTAL PLANTA DE ORNATO = área verde por 3
 
 TOTAL ÁRBOLES = número de lotes más C/15MTS.2 DE AREA VERDE
 
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2013)</small>
+
 ###### ARTÍCULO 480.
 
-El derribo, poda, extracción de árboles o remoción de vegetación de un área verde pública sólo podrá efectuarse en los siguientes casos, previa autorización de la Dirección competente:
+El derribo, poda, extracción para reubicación de árboles o remoción de vegetación de un área verde pública podrá efectuarse, previa autorización de la Dirección competente, y sin cobro por compensación sólo en los siguientes casos:
 
 I. Cuando se ponga en riesgo la integridad física de personas, bienes o la infraestructura urbana.
 
@@ -5863,21 +5865,41 @@ II. Cuando se compruebe que el vegetal está muerto, esté enfermo o tenga plaga
 
 III. Cuando la imagen urbana se vea afectada significativamente.
 
-IV. Cuando se compruebe que es de utilidad pública.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2013)</small>
 
 ###### ARTÍCULO 481.
 
-Para efectos de la autorización a que se refiere el artículo anterior los interesados deberán presentar solicitud ya sea por escrito, vía telefónica o electrónicamente, en la que expresarán los motivos y circunstancias de su petición. Posteriormente la Dirección de Parques y Jardines, acudirá al lugar correspondiente, dictaminando lo conducente para proceder a otorgar o no la autorización.
+Para efectos de la autorización a que se refiere el Artículo anterior, los interesados deberán presentar solicitud ya sea por escrito, vía telefónica o electrónicamente, en la que expresarán los motivos y circunstancias de su petición. Posteriormente la Dirección de Parques y Jardines, realizará inspección en el lugar correspondiente, dictaminando lo conducente para proceder a otorgar o no la autorización.
 
-Siempre que se hubiere otorgado una autorización para el derribo, extracción o remoción de vegetación, ésta quedará condicionada a la reposición del mismo con otra u otras especies vegetales propias para el área en cuestión, con el doble de la cobertura vegetal perdida como mínimo.
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2013)</small>
 
-> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+###### ARTÍCULO 481
 
-A toda persona física o moral que se le detecte ocasionando daños en forma parcial o total a las especies vegetales, ya sean árboles, plantas o arbustos, se le aplicarán las sanciones conforme al Tabulador de Daños a Especies Vegetales que emite la Secretaria de Medio Ambiente y Desarrollo Sustentable, mismo que se encuentra contemplado en el Manual de Forestación, Reforestación y Manejo de Áreas Verdes Urbanas del Municipio de Aguascalientes.
+1.- Siempre que se hubiese otorgado una autorización para el derribo, extracción para reubicación de árboles o remoción de vegetación, y no se encuentren mencionados en el artículo 480, quedarán condicionados al pago conforme el Tabulador de Daños a Especies Vegetales, que maneja la Secretaría de Medio Ambiente y Desarrollo Sustentable, mismo que se encuentra contemplado en el Manual de Forestación, Reforestación y Manejo de Áreas Verdes Urbanas del Municipio de Aguascalientes.
 
-Siempre que se hubiere otorgado una autorización para el derribo, extracción o remoción de vegetación, ésta quedará condicionada a la reposición del mismo con otra u otras especies vegetales propias para el área en cuestión, así como la donación de cinco a diez árboles por cada uno que se derribe como mínimo y/o la reposición en razón del doble de la cobertura perdida en el lugar, incrementándose dicha donación y/o conmutación, dependiendo del volumen y cobertura vegetal del mismo, donación que será entregada en las instalaciones del vivero municipal previo recibo de donación.
+A toda persona física o moral que se le detecte ocasionando daños en forma parcial o total a las especies vegetales, ya sean árboles, arbustos o herbáceas se le aplicarán las multas que establece igualmente el Tabulador de referencia.
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2013)</small>
+
+###### ARTÍCULO 481
+
+2.- En el caso de derribo, extracción para reubicación de árboles o remoción de arbustos (setos), la compensación quedará condicionada a la reposición con la misma especie vegetal afectada, a razón del triple de individuos dañados, dicha compensación deberán ser entregada en las instalaciones del Vivero Municipal previo a la extracción o remoción de los individuos.
+
+Así mismo, para la remoción de herbáceas, la reposición se hará en razón al triple de m2 extraídos.
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2013)</small>
+
+###### ARTÍCULO 481
+
+3.- Cuando se pretenda llevar a cabo la extracción para reubicación de árboles que sea en espacios públicos y en predios urbanos y semi-urbanos de propiedad particular, se realizará de la siguiente manera:
+
+1. Valoración de la especie a reubicar, esta se hará por medio de una inspección por parte de la Dirección de Parques y Jardines, para determinar si procede o no la reubicación.
+
+2. Si es procedente la reubicación, se deberá compensar con el 50% del valor del o los árboles, según lo establecido en el Tabulador de Daños a Especies Vegetales.
+
+3. Se llevará a cabo el seguimiento de las especies reubicadas por parte de personal de la Dirección de Parques y Jardines para asegurar su sobrevivencia, en caso de que el individuo arbóreo reubicado muera, se deberá realizar el pago del 50% restante de la compensación marcada en el párrafo anterior.
+
+En el caso de que la reubicación no proceda, se realizará el pago del 100% de la compensación establecida en el Tabulador de Daños a Especies Vegetales.
 
 ###### ARTÍCULO 482.
 
@@ -5893,13 +5915,13 @@ En el camellón de las avenidas sólo deberá plantarse de una a tres especies, 
 
 La distancia entre los árboles no deberá ser menor que la anchura de sus copas en estado de madurez, excepto en el caso de setos o cortinas rompevientos, para lo cual deberá consultarse el Manual de Forestación, Reforestación y Manejo de Áreas Verdes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2013)</small>
 
 ###### ARTÍCULO 485.
 
-La Dirección de Parques y Jardines autorizará y supervisará el derribo, desrame, y reubicación de árboles en espacios públicos y en predios urbanos y semi-urbanos de propiedad particular, condicionando la autorización a la reposición del doble de la cobertura vegetal perdida en la forma y modo que indica el Manual de Forestación, Reforestación y Manejo de Áreas Verdes que emite la Secretaría de Medio Ambiente y Desarrollo Sustentable.
+La Dirección de Parques y Jardines autorizará y supervisará el derribo, desrame y reubicación de árboles en espacios públicos y en predios urbanos y semi-urbanos de propiedad particular, condicionando la autorización al pago de la reposición de la cobertura vegetal perdida, según lo establecido en el Tabulador de Daños a Especies Vegetales, en la forma y modo que indica el Manual de Forestación, Reforestación y Manejo de Áreas Verdes, que emite la Secretaría de Medio Ambiente y Desarrollo Sustentable.
 
-La poda de los árboles deberá realizarse tomando en cuenta las características biológicas de la especie y el objetivo de dicha poda, para lo cual se deberá apegar a lo especificado en el Manual mencionado en el artículo anterior.
+La poda de los árboles deberá realizarse tomando en cuenta las características biológicas de la especie y el objetivo de dicha poda, para lo cual se deberá apegar a lo especificado en el Manual mencionado en el párrafo anterior.
 
 ###### ARTÍCULO 486.
 
@@ -6082,6 +6104,8 @@ La autorización podrá ser condicionada y tendrá una vigencia determinada.
 (REUBICADO, ANTES CAPITULO IV, P.O. 14 DE FEBRERO DE 2011)
 
 ### CAPÍTULO I. Del Impacto Ambiental
+
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2013)</small>
 
 # LIBRO CUARTO. DE LA SECRETARÍA DE MEDIO AMBIENTE Y DESARROLLO SUSTENTABLE
 
@@ -6297,23 +6321,27 @@ El Municipio proporcionará las facilidades administrativas e información u ori
 
 ###### ARTÍCULO 497.
 
-La realización de obras o actividades públicas o privadas que puedan causar desequilibrios ecológicos o rebasar los límites y condiciones señalados en las leyes, los reglamentos y las normas ambientales emitidas por la Federación o el Estado para proteger el ambiente, deberán sujetarse a la autorización previa del Gobierno Municipal o en su caso del Estado o la Federación con base en las competencias señaladas por la Ley General de Equilibrio Ecológico y Protección al Ambiente y la Ley de Protección Ambiental para el Estado de Aguascalientes.
+La realización de obras o actividades públicas o privadas que puedan causar desequilibrios ecológicos o rebasar los límites y condiciones señalados en las leyes, los reglamentos y las normas ambientales emitidas por la Federación o el Estado para proteger el ambiente deberán sujetarse a la autorización previa del Gobierno Municipal o en su caso del Estado o la Federación con base a las competencias señaladas por la Ley General de Equilibrio Ecológico y Protección al Ambiente y la Ley de Protección Ambiental para el Estado de Aguascalientes.
 
-> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+Para otorgar la autorización de uso de suelo se requerirá contar previamente con la autorización ambiental que expide la Secretaría de Medio Ambiente y Desarrollo Sustentable.
 
-Para otorgar la autorización de uso de suelo se requerirá contar previamente con la autorización ambiental que expida la Secretaría de Medio Ambiente y Desarrollo Sustentable.
+Para obtener la autorización a que se refiere en el párrafo anterior, los interesados deberán presentar ante la Secretaría de Medio Ambiente y Desarrollo Sustentable un informe preventivo de impacto ambiental, en base al formato vigente elaborado por esta Secretaría, para tal fin.
 
-> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+Una vez obtenido el Dictamen de Impacto Ambiental correspondiente, la Secretaría de Medio Ambiente y Desarrollo Sustentable declarará la procedencia mediante la autorización escrita del derribo o extracción para reubicación del arbolado y/o remoción de vegetación nativa dentro de los límites de la mancha urbana establecidos en el Plan de Desarrollo vigente, condicionando dicha autorización al pago de la reposición de la cobertura vegetal perdida, según lo establecido en el Tabulador de Daños a Especies Vegetales, en la forma y modo que indica el Manual de Forestación, Reforestación y Manejo de Áreas Verdes.
 
-Para obtener la autorización a que se refiere el párrafo anterior, los interesados deberán presentar ante la Secretaría de Medio Ambiente y Desarrollo Sustentable una manifestación de impacto ambiental con la dictaminación correspondiente emitida por la Federación o el Estado.
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2013)</small>
 
-> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+###### ARTÍCULO 497
 
-Aquellas obras o actividades que por sus características y de acuerdo a las leyes antes señaladas, no requieran presentar manifiesto de impacto ambiental, deberán presentar un informe preventivo con base en el formato vigente elaborado por la Secretaría de Medio Ambiente y Desarrollo Sustentable para tal fin.
+BIS.- Cuando se pretenda llevar a cabo la extracción para reubicación de árboles debido a la construcción de obra que sea de utilidad pública y nuevos fraccionamientos, se realizará de la siguiente manera:
 
-> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+1. Valoración de la especie a reubicar, esta se hará por medio de una inspección por parte de la Secretaría de Medio Ambiente y Desarrollo Sustentable, para determinar si procede o no la reubicación.
 
-Corresponderá a la Secretaría de Medio Ambiente y Desarrollo Sustentable declarar la procedencia mediante autorización escrita del derribo de arbolado y/o desmonte de vegetación nativa dentro de los límites de la mancha urbana establecidos en el Plan de Desarrollo vigente.
+2. Si es procedente la reubicación, se deberá compensar con el 50% del valor del o los árboles, según lo establecido en el Tabulador de Daños a Especies Vegetales.
+
+3. Se llevará a cabo el seguimiento de las especies reubicadas por parte de personal de la Secretaría de Medio Ambiente y Desarrollo Sustentable para asegurar su sobrevivencia, en caso de que el individuo arbóreo reubicado muera, se deberá realizar el pago del 50% restante de la compensación marcada en el párrafo anterior.
+
+En el caso de que la reubicación no proceda, se realizará el pago del 100% de la compensación establecida en el Tabulador de Daños a Especies Vegetales.
 
 ###### ARTÍCULO 498.
 
@@ -6489,23 +6517,23 @@ El Municipio en coordinación con el Estado definirá los combustibles permitido
 
 Los productores de ladrillo y/o cerámica deberán instalar el equipo necesario, para prevenir y controlar la contaminación atmosférica.
 
-> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2013)</small>
 
 ###### ARTÍCULO 508.
 
-Para la operación y funcionamiento de las fuentes fijas de jurisdicción municipal que emitan o puedan emitir olores, gases o partículas sólidas o liquidas a la atmósfera, se requerirá contar con permiso ambiental de funcionamiento emitido por la Secretaría de Medio Ambiente y Desarrollo Sustentable y cumplir además con las siguientes obligaciones:
+Para la operación y funcionamiento de las fuentes fijas de jurisdicción municipal que emitan o puedan emitir olores, gases o partículas a la atmosfera, residuos sólidos y/o líquidos, se requerirá contar con permiso ambiental de funcionamiento emitido por la Secretaría de Medio Ambiente y Desarrollo Sustentable y cumplir además con las siguientes obligaciones:
 
-I.- Emplear equipos y sistemas que controlen las emisiones a la atmósfera, para que éstas no rebasen los niveles máximos permisibles establecidos en las Normas Oficiales Mexicanas;
+I. Emplear equipos y sistemas que controlen las emisiones a la atmósfera, para que éstas no rebasen los niveles máximos permisibles establecidos en las Normas Oficiales Mexicanas.
 
-II.- Integrar un inventario de sus emisiones contaminantes a la atmósfera, en el formato que determine la Secretaría de Medio Ambiente y Desarrollo Sustentable;
+II. Integrar un inventario de sus emisiones contaminantes a la atmósfera, en el formato que determine la Secretaría de Medio Ambiente y Desarrollo Sustentable.
 
-III.- Medir sus emisiones contaminantes a la atmósfera, conforme a lo establecido por las Normas Oficiales Mexicanas aplicables y registrar en el formato que determine la Secretaría de Medio Ambiente y Desarrollo Sustentable y remitir los registros a ésta, cuando se le solicite;
+III. Medir sus emisiones contaminantes a la atmósfera, conforme a lo establecido por las Normas Oficiales Mexicanas aplicables y registrar en el formato que determine la Secretaría de Medio Ambiente y Desarrollo Sustentable y remitir los registros a ésta, cuando se le solicite.
 
-IV.- Presentar a la Secretaría de Medio Ambiente y Desarrollo Sustentable, el monitoreo perimetral de sus emisiones contaminantes a la atmósfera, cuando la fuente de que se trate se localice en zonas urbanas y suburbanas, cuando colinde con áreas naturales protegidas y cuando por sus características de operación o por sus materias primas, productos y subproductos, puedan causar grave deterioro al ambiente, a juicio de la Secretaría de Medio Ambiente y Desarrollo Sustentable;
+IV. Presentar a la Secretaría de Medio Ambiente y Desarrollo Sustentable, el monitoreo perimetral de sus emisiones contaminantes a la atmósfera, cuando la fuente de que se trate se localice en zonas urbanas y suburbanas, cuando colinde con áreas naturales protegidas y cuando por sus características de operación o por sus materias primas, productos y subproductos, puedan causar grave deterioro al ambiente, a juicio de la Secretaría de Medio Ambiente y Desarrollo Sustentable.
 
-V.- Realizar un programa de operación y mantenimiento de equipos y procesos que generen emisiones contaminantes y de los equipos de control de anticontaminantes; y
+V. Realizar un programa de operación y mantenimiento de equipos y procesos que generen emisiones contaminantes y de los equipos de control de anticontaminantes.
 
-VI.- Avisar de inmediato a la Secretaría de Medio Ambiente y Desarrollo Sustentable en caso de falla del equipo de control, para que ésta determine lo conducente.
+VI. Avisar de inmediato a la Secretaría de Medio Ambiente y Desarrollo Sustentable en caso de falla del equipo de control, para que ésta determine lo conducente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE FEBRERO DE 2011)</small>
 
@@ -12631,7 +12659,7 @@ El proyecto constará básicamente de dos documentos: la memoria de cálculo y l
 
 la Memoria de Cálculo deberá cubrir, con el suficiente grado de detalle como para poder ser revisada (sic) evaluada por un profesionista ajeno al proyecto, los siguientes aspectos:
 
-I. Descripción general del proyecto y del tipo de estructura a utilizarse;
+l. Descripción general del proyecto y del tipo de estructura a utilizarse;
 
 II. Resistencia y calidad de los materiales estructurales a utilizarse;
 
@@ -13905,11 +13933,11 @@ Los propietarios estarán obligados a reponer por su cuenta las banquetas y guar
 
 Siempre que se ejecuten obras de cualquier clase en la vía pública o cerca de ella, se tomarán las medidas de seguridad necesarias para evitar daños o perjuicios a las instalaciones, a los trabajadores y a terceros.
 
-> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2013)</small>
 
 ###### ARTÍCULO 1000.
 
-Cuando haya que reubicar o quitar arbolado existente en la vía pública, deberá tramitarse el permiso correspondiente en la Secretaría de Medio Ambiente y Desarrollo Sustentable.
+Cuando se pretenda llevar a cabo la extracción para reubicación o derribo de árboles, deberá tramitarse la autorización correspondiente como lo marcan los artículos 497 y 497 BIS del presente ordenamiento.
 
 ###### ARTÍCULO 1001.
 
@@ -20728,3 +20756,7 @@ b) Se reforma el artículo 4° y se adicionan los artículos 4°-Bis, 4°-Ter, 4
 c) Se reforma el artículo 5° y se adiciona el artículo 5°-Bis.
 
 CUARTO.- Las anteriores disposiciones jurídicas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 18 DE FEBRERO DE 2013.
+
+PRIMERO.- Las presentes reformas y adiciones entrarán en vigor el día hábil siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
