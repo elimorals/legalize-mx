@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-de-la-ley-organica-del-poder-legislativo-del-61579"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-06-16"
-last_updated: "2012-07-17"
+last_updated: "2013-02-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61579&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2013.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 16 de junio de 2008.
 
@@ -243,7 +243,9 @@ VII. Solicitar información o la citación a comparecencia de titulares de las d
 
 VIII. Solicitar a la Secretaría el personal de apoyo necesario, a efecto de cumplir con sus funciones;
 
-IX. Efectuar foros de consulta pública sobre los asuntos a su cargo;
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2013)</small>
+
+IX. Efectuar encuestas y foros de consulta pública en los que la ciudadanía podrá participar, además de la forma tradicional, por medio de plataformas tecnológicas como redes sociales y páginas electrónicas;
 
 X. Difundir los trabajos realizados por la comisión;
 
@@ -2025,7 +2027,7 @@ P.O. 15 DE NOVIEMBRE DE 2010.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-DECRETO No. 218, POR EL QUE SE REFORMAN LAS FRACCIONES VIII, IX Y SE ADICIONA LA FRACCIÓN X AL ARTICULO 137; ASIMISMO, SE REFORMAN LOS ARTÍCULOS 143 Y 154 DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES.
+DECRETO No. 218, POR EL QUE SE REFORMAN LAS FRACCIONES VIII, IX Y SE ADICIONA LA FRACCIÓN X AL ARTÍCULO 137; ASIMISMO, SE REFORMAN LOS ARTÍCULOS 143 Y 154 DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES.
 
 P.O. 17 DE JULIO DE 2012.
 
@@ -2048,3 +2050,9 @@ DECRETO No. 220, POR EL QUE SE REFORMAN LOS ARTÍCULOS 51 Y 52 DEL REGLAMENTO DE
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE FEBRERO DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
