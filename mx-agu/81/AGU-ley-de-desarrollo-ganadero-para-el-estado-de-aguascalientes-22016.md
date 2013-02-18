@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-desarrollo-ganadero-para-el-estado-de-aguascalientes-220
 country: "mx"
 rank: "ley"
 publication_date: "2001-07-23"
-last_updated: "2009-12-28"
+last_updated: "2013-02-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22016&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE DESARROLLO GANADERO PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 23 de julio de 2001.
 
@@ -47,9 +47,11 @@ LEY DE DESARROLLO GANADERO PARA EL ESTADO DE AGUASCALIENTES
 
 La presente Ley es de orden público e interés general, y tiene por objeto regular la organización, producción, sanidad, desarrollo, fomento y protección de la ganadería en general, así como el mejoramiento y tecnificación de los sistemas de comercialización de los insumos, productos y subproductos de origen animal.
 
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2013)</small>
+
 ###### ARTICULO 2o.
 
-La Comisión para el Desarrollo Agropecuario del Estado de Aguascalientes, como un organismo auxiliar del titular del Poder Ejecutivo del Estado, promoverá y coadyuvará en la formulación, actualización, instrumentación y evaluación de los Programas, buscando hacer compatibles a nivel local, los esfuerzos que realicen los Gobiernos Federal, Estatal y Municipales, tanto en el proceso de planeación, programación, evaluación e información, como en la ejecución de dichos programas propiciando la colaboración de los diversos sectores en materia rural.
+La Secretaría de Desarrollo Rural y Agroempresarial del Estado de Aguascalientes, promoverá y coadyuvará en la formulación, actualización, instrumentación y evaluación de los Programas, buscando hacer compatibles a nivel local, los esfuerzos que realicen los Gobiernos Federal, Estatal y Municipales, tanto en el proceso de planeación, programación, evaluación e información, como en la ejecución de dichos programas propiciando la colaboración de los diversos sectores en materia rural.
 
 ###### ARTICULO 3o.
 
@@ -59,7 +61,9 @@ Son sujetos de esta Ley, todas aquellas personas físicas o morales que se dediq
 
 Para la aplicación y ejecución de las disposiciones de esta Ley, se entenderá por:
 
-I. COMISION: Comisión para el Desarrollo Agropecuario del Estado;
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2013)</small>
+
+I. SECRETARÍA: Secretaría de Desarrollo Rural y Agroempresarial del Estado de Aguascalientes;
 
 II. CEFFOPA: Comité Estatal de Fomento y Protección Pecuaria de Aguascalientes Sociedad Civil;
 
@@ -75,7 +79,9 @@ Son autoridades competentes para aplicar esta Ley:
 
 I. El Titular del Poder Ejecutivo;
 
-II. La Comisión para el Desarrollo Agropecuario del Estado; y
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2013)</small>
+
+II. La Secretaría; y
 
 III. Los Municipios del Estado.
 
@@ -97,9 +103,9 @@ III. Las Asociaciones Apícolas y Avícolas de Aguascalientes;
 
 IV. Secretaría de Agricultura Ganadería y Desarrollo Rural, Pesca y Alimentación;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE ABRIL DE 2007)</small>
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2013)</small>
 
-V. Instituto de Salud del Estado de Aguascalientes; y
+V. El Instituto de Servicios de Salud del Estado de Aguascalientes; y
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 23 DE ABRIL DE 2007)</small>
 
@@ -127,11 +133,11 @@ VII. Coordinarse con el Gobierno Federal para vigilar la aplicación de las norm
 
 VIII. Imponer las sanciones que prevé la presente Ley en el ámbito de sus competencias, así como resolver el recurso administrativo que se interponga.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE FEBRERO DE 2013)</small>
 
 ###### ARTICULO 8o.
 
-La Comisión se coordinará con la SAGARPA; Instituto de Salud del Estado de Aguascalientes; CEFOPPA, Asociaciones de Apicultores, Asociaciones de Avicultores, y con las con las (sic) autoridades Federales, Estatales y Municipales a fin de cumplir con el objeto de la presente Ley, así como para evitar el uso de Clenbuterol en los animales que se destinen para el consumo humano, para lo cual deberá:
+La Secretaría se coordinará con la SAGARPA; Instituto de Servicios de Salud del Estado de Aguascalientes; CEFOPPA, Asociaciones de Apicultores, Asociaciones de Avicultores, y con las autoridades Federales, Estatales y Municipales a fin de cumplir con el objeto de la presente Ley, así como para evitar el uso de clenbuterol en los animales que se destinen para el consumo humano, para lo cual deberá:
 
 I. Realizar inspecciones y estudios en predios ganaderos con el objeto de rendir dictámenes sobre las condiciones que se encuentren los recursos naturales. Tales dictámenes establecerán en su caso, las medidas y recomendaciones que deban tomarse para el uso adecuado de los recursos en el predio de que se trate;
 
@@ -149,13 +155,13 @@ VI. Proteger la fauna silvestre;
 
 VII. Detectar e impedir el uso de sustancias beta-agonistas, como el clorhidrato de Clenbuterol, entre otros, en los animales que se destinen para consumo humano; y
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE FEBRERO DE 2013)</small>
 
-VIII. Activar y coordinar el Dispositivo Estatal de Emergencia de Salud Pública y Animal para tomar las medidas zoosanitarias de aplicación permanente y urgente para la detección de brotes y enfermedades infecto contagiosas y plagas en las abejas y en las aves; así como para detectar sustancias beta-agonistas, como el Clorhidrato de Clenbuterol, entre otros, e impedir su uso como promotor de crecimiento de la masa muscular en el ganado para abasto; las cuales serán:
+VIII. Activar y coordinar el Dispositivo Estatal de Emergencia de Salud Pública y Animal para tomar las medidas zoosanitarias de aplicación permanente y urgente para la detección de brotes y enfermedades infecto contagiosas y plagas en las abejas y en las aves; así como para detectar sustancias beta-agonistas, como el Clorhidrato de clenbuterol, entre otros, e impedir su uso como promotor de crecimiento de la masa muscular en el ganado para abasto; las cuales serán:
 
-> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2013)</small>
 
-a) Establecer un programa interinstitucional de coadyuvancia entre la Comisión Para el Desarrollo Agropecuario del Estado de Aguascalientes, el Instituto de Salud del Estado, la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, la Dirección General de Seguridad Pública y Vialidad Estatal, las Presidencias Municipales y el Comité de Fomento y Protección Pecuaria de Aguascalientes S. C., con la participación activa de la población, para la verificación de las unidades de producción pecuaria, establecimientos que expendan productos para la alimentación de animales, establecimientos que expendan productos y subproductos cárnicos para consumo humano, establecimientos dedicados al sacrificio de animales y demás relacionados con el sector pecuario en el Estado;
+a) Establecer un programa interinstitucional de coadyuvancia entre la Secretaría, el Instituto de Servicios de Salud del Estado, la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, la Dirección General de Seguridad Pública y Vialidad Estatal, las Presidencias Municipales y el Comité de Fomento y Protección Pecuaria de Aguascalientes S. C., con la participación activa de la población, para la verificación de las unidades de producción pecuaria, establecimientos que expendan productos para la alimentación de animales, establecimientos que expendan productos y subproductos cárnicos para consumo humano, establecimientos dedicados al sacrificio de animales y demás relacionados con el sector pecuario en el Estado;
 
 > <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2007)</small>
 
@@ -211,9 +217,9 @@ m) La destrucción por cualquier medio, de productos y subproductos cárnicos pa
 
 n) La implementación de un programa de difusión sobre las unidades de producción pecuaria y de sacrificio de animales para consumo humano y de los establecimientos que comercialicen o distribuyan productos o subproductos cárnicos para consumo humano y se encuentren certificados como expendedores de productos libres de clorhidrato de Clenbuterol; y
 
-> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2013)</small>
 
-o) Con la información recibida sobre el uso de clorhidrato de Clenbuterol, la Comisión dará cuenta a los tres niveles de gobierno para que instrumenten los procedimientos administrativos de calificación de infracciones e impongan las sanciones administrativas correspondientes, asimismo hará del conocimiento de las autoridades competentes, la existencia de hechos que pudieran ser constitutivos de figuras típicas constitutivas de un hecho punible previstas en la Legislación Penal para el Estado de Aguascalientes.
+o) Con la información recibida sobre el uso de Clorhidrato de clenbuterol, la Secretaría dará cuenta a los tres niveles de gobierno para que instrumenten los procedimientos administrativos de calificación de infracciones e impongan las sanciones administrativas correspondientes, asimismo hará del conocimiento de las autoridades competentes, la existencia de hechos que pudieran ser constitutivos de figuras típicas constitutivas de un hecho punible previstas en la Legislación Penal para el Estado de Aguascalientes.
 
 ###### ARTICULO 9o.
 
@@ -233,15 +239,19 @@ VI. Celebrar convenio de coordinación o colaboración con las autoridades Feder
 
 VII. Concertar con las autoridades Federales, Municipales o con otras Entidades Federativas los convenios que considere necesarios para llevar a cabo el control y erradicación de alguna enfermedad, que por su naturaleza afecte de manera grave a los animales; así como celebrar convenios para llevar a cabo campañas específicas para combatir cada una de las enfermedades infecciosas, fungósicas y parasitarias que mayores trastornos ocasionen a la ganadería de la Entidad;
 
-VIII. Coordinarse con la Comisión y el Instituto de Salud del Estado cuando aparezcan en la Entidad emergencias sanitarias;
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2013)</small>
+
+VIII. Coordinarse con la Secretaría y el Instituto de Servicios de Salud del Estado cuando aparezcan en la Entidad emergencias sanitarias;
 
 IX. Decretar la no expedición de guías de tránsito de ganado cuando un predio o una zona se encuentre en emergencia zoosanitaria a juicio de la Comisión; así como dictar el aislamiento total o parcial de la zona, con la prohibición de la comunicación de personas o transportes de cosas, cuando sin desinfección previa, puedan ser vehículos de contagio; y
 
 X. Vigilar la aplicación de las normas oficiales mexicanas en la materia, y dictar conjuntamente con el mismo las disposiciones necesarias para la lucha contra la abeja africana, de enfermedades que las afectan y de aquellas actividades del hombre que dañen a las abejas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE FEBRERO DE 2013)</small>
+
 ###### ARTICULO 10.
 
-Son atribuciones de la Comisión, sin perjuicio de otras que le otorgue la presente Ley:
+Son atribuciones de la Secretaría, sin perjuicio de otras que le otorgue la presente Ley:
 
 > <small>(REFORMADA, P.O. 23 DE ABRIL DE 2007)</small>
 
@@ -269,13 +279,17 @@ VIII. Evaluar el desarrollo de los programas y acciones concertadas entre la Fed
 
 IX. Designar y publicar en el Periódico Oficial a las personas que expedirán los documentos a que se refiere la Fracción I de este Artículo, y llevar un registro pormenorizado respecto de los documentos entregados para su expedición en materia de la normatividad pecuaria;
 
-> <small>(ADICIONADA, P.O. 23 DE ABRIL DE 2007)</small>
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2013)</small>
 
-X. Cancelar la autorización a la persona responsable por un indebido manejo de los documentos señalados en las fracciones I y IX de este Artículo y, en su caso, formular la denuncia de hechos correspondiente; y
+X. Cancelar la autorización a la persona responsable por un indebido manejo de los documentos señalados en las Fracciones I y IX de este Artículo y, en su caso, formular la denuncia de hechos correspondiente;
 
-> <small>(ADICIONADA, P.O. 23 DE ABRIL DE 2007)</small>
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2013)</small>
 
-XI. Revisar los libros de registro de los rastros, donde se identificará plenamente al introductor o propietario del ganado, y se constará el origen, destino y estado zoosanitario del animal sacrificado y las acciones efectuadas ante las irregularidades detectadas.
+XI. Revisar los libros de registro de los rastros, donde se identificará plenamente al introductor o propietario del ganado, y se constará el origen, destino y estado zoosanitario del animal sacrificado y las acciones efectuadas ante las irregularidades detectadas; y
+
+> <small>(ADICIONADA, P.O. 18 DE FEBRERO DE 2013)</small>
+
+XII. Otorgar el Premio Estatal de Sanidad Animal y Buenas Prácticas Pecuarias en los Bienes de Origen Animal, con el objeto de reconocer cada año y de forma simbólica el esfuerzo de quienes se destaquen en las medidas de prevención, control y erradicación de enfermedades y plagas que afecten la vida o la sanidad de los animales, así como, en materia de buenas prácticas pecuarias en los bienes de origen animal.
 
 ###### ARTICULO 11.
 
@@ -753,9 +767,11 @@ No pagarán pastos y agua los dueños de los animales que se destinen a trabajos
 
 ### CAPITULO VIII. Del Control de la Entrada y Salida de Ganado al Estado
 
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2013)</small>
+
 ###### ARTICULO 105.
 
-Toda persona que pretenda introducir al Estado animales o subproductos procedentes de otras Entidades Federativas, deberán ampararse con la guía de tránsito necesaria, además de acreditar a satisfacción de la Comisión el estado de salud de los animales, se requerirá además el correspondiente certificado zoosanitario expedido por las autoridades competentes o médicos veterinarios aprobados para ello.
+Toda persona que pretenda introducir al Estado animales o subproductos procedentes de otras Entidades Federativas, deberán ampararse con la guía de tránsito necesaria, además de acreditar a satisfacción de la Secretaría, el estado de salud de los animales, se requerirá además el correspondiente certificado zoosanitario expedido por las autoridades competentes o médicos veterinarios aprobados para ello.
 
 ###### ARTICULO 106.
 
@@ -845,9 +861,11 @@ Cuando algún ganadero se negare sin causa justificada a participar en alguna me
 
 En las campañas sanitarias que se efectúen, sólo podrán utilizarse productos para uso veterinario registrados ante las autoridades sanitarias federales.
 
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2013)</small>
+
 ###### ARTICULO 124.
 
-Cuando se trate de combatir zoonosis, el titular del Poder Ejecutivo del Estado a través de la Comisión, fijará las normas a seguir en cooperación con el Instituto de Salud del Estado.
+Cuando se trate de combatir zoonosis, el titular del Poder Ejecutivo del Estado a través de la Secretaría, fijará las normas a seguir en cooperación con el Instituto de Servicios de Salud del Estado.
 
 ###### ARTICULO 125.
 
@@ -879,9 +897,11 @@ La introducción de colmenas al territorio del Estado, provenientes de otras Ent
 
 ### CAPITULO UNICO. De las Infracciones y Sanciones del Procedimiento para su Aplicación
 
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2013)</small>
+
 ###### ARTICULO 131.
 
-La Comisión a través de sus inspectores, levantará las actas circunstanciadas con motivo de la violación a la presente Ley. Notificando en ese instante al presunto infractor de la iniciación del procedimiento administrativo de determinación de la imposición de sanciones a que se refiere la Ley del Procedimiento Administrativo.
+La Secretaría a través de sus inspectores, levantará las actas circunstanciadas con motivo de la violación a la presente Ley. Notificando en ese instante al presunto infractor de la iniciación del procedimiento administrativo de determinación de la imposición de sanciones a que se refiere la Ley del Procedimiento Administrativo.
 
 ###### ARTICULO 132.
 
@@ -981,7 +1001,7 @@ EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Abelardo Reyes Sahagún.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 23 DE ABRIL DE 2007.
 
@@ -998,3 +1018,9 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las reformas al Reglamento de la Ley de Desarrollo Ganadero para el Estado de Aguascalientes, que se deriven del presente Decreto, deberán publicarse en el Periódico Oficial, dentro de los treinta días naturales siguientes a su entrada en vigencia.
+
+P.O. 18 DE FEBRERO DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
