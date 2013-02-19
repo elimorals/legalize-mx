@@ -4,7 +4,7 @@ identifier: "YUC-codigo-civil-del-estado-de-yucatan-14490"
 country: "mx"
 rank: "codigo"
 publication_date: "1993-12-31"
-last_updated: "2012-04-30"
+last_updated: "2013-02-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14490&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CÓDIGO CIVIL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 19 DE FEBRERO DE 2013.
 
 Código publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 31 de diciembre de 1993.
 
@@ -183,149 +183,121 @@ Toda persona tiene derecho de designar un domicilio convencional para el cumplim
 
 ## TITULO SEGUNDO. DEL ESTADO CIVIL
 
-### CAPITULO I. DEL REGISTRO CIVIL
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NÚMERO 42, DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE YUCATÁN, D.O. 19 DE FEBRERO DE 2013)</small>
 
-> <small>(F. DE E., D.O. 28 DE MARZO DE 1994)</small>
+### CAPITULO I. DEL REGISTRO CIVIL
 
 ###### Artículo 27.
 
-El registro civil es la Institución de orden público e interés social dependiente del ejecutivo del Estado encargada de hacer constar los actos del estado civil de las personas y extender y autorizar las actas relativas a nacimientos, reconocimiento y adopción de hijos, matrimonios y divorcios, tutela de incapacitados y defunciones de los mexicanos y extranjeros que ocurran en el Estado, así como de sentencias judiciales que introduzcan modificaciones en la filiación o en el estado civil de las personas.
-
-Las funciones del registro civil se ejercen por los oficiales del registro civil, designados por el ejecutivo del Estado, quien fijará su número y el territorio que deba abarcar sus actividades. Los mismos actuarán exclusivamente en los formatos respectivos y en los libros a que se refiere el artículo 14 del código del registro civil.
-
-La infracción de esta disposición producirá la nulidad del acta y se castigará con la destitución del oficial respectivo.
+(DEROGADO, POR ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NÚMERO 42, DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE YUCATÁN, D.O. 19 DE FEBRERO DE 2013)
 
 ###### Artículo 28.
 
-El estado civil de las personas sólo se comprueba con las constancias respectivas del registro. Cualquier otro documento o medio de prueba sólo es admisible para comprobar el estado civil, en los casos especialmente previstos por la ley.
+(DEROGADO, POR ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NÚMERO 42, DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE YUCATÁN, D.O. 19 DE FEBRERO DE 2013)
 
 ###### Artículo 29.
 
-Cuando no hayan existido registros, o se hayan perdido o estuviesen rotos o borrados, o faltasen las hojas o el formato en que se supone estaba el acta, se podrá recibir prueba del acto por documentos o testigos; pero si sólo uno de los registros se ha mutilado y existiese el duplicado que debe llevarse con arreglo a la ley, de éste ha de tomarse la prueba, sin admitirla de otra clase.
+(DEROGADO, POR ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NÚMERO 42, DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE YUCATÁN, D.O. 19 DE FEBRERO DE 2013)
 
 ###### Artículo 30.
 
-Los registros del estado civil sólo hacen fe respecto del acto que deba ser consignado en ellos; cualquiera otra cosa que se agregue, se tendrá por no puesta.
+(DEROGADO, POR ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NÚMERO 42, DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE YUCATÁN, D.O. 19 DE FEBRERO DE 2013)
 
 ###### Artículo 31.
 
-Los vicios o defectos que haya en las actas y que no sean substanciales, no producirán la nulidad del acta, a menos que judicialmente se pruebe la falsedad del acto.
-
-El oficial del registro civil que fuere responsable de los vicios o defectos a que se refiere el párrafo anterior, quedará sujeto a las sanciones que correspondan.
+(DEROGADO, POR ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NÚMERO 42, DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE YUCATÁN, D.O. 19 DE FEBRERO DE 2013)
 
 ###### Artículo 32.
 
-Para acreditar el estado civil adquirido por los mexicanos fuera de la República, será bastante el certificado del acta de inscripción del documento de que se trate, expedido por la oficina respectiva del registro civil en el Estado de Yucatán o de cualquiera otra entidad federativa.
+(DEROGADO, POR ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NÚMERO 42, DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE YUCATÁN, D.O. 19 DE FEBRERO DE 2013)
 
 ###### Artículo 33.
 
-Los jueces que admitan los medios subsidiarios de prueba a que se refiere el artículo 29 de este código, ordenarán en las sentencias que dicten sobre el estado civil, que éstas sean inscritas en la oficina del registro civil que corresponda, acompañándose los documentos en que se haya fundamentado la sentencia y dejando copia de los mismos en autos.
+(DEROGADO, POR ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NÚMERO 42, DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE YUCATÁN, D.O. 19 DE FEBRERO DE 2013)
 
 ###### Artículo 34.
 
-En caso de que los interesados en un acto que deba de constar en un acta del registro civil, no pudieren concurrir personalmente, podrán hacerse representar por apoderado especial nombrado ante notario o escribano público o ante algún juez si en el lugar no hubiere dichos fedatarios.
+(DEROGADO, POR ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NÚMERO 42, DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE YUCATÁN, D.O. 19 DE FEBRERO DE 2013)
 
 ###### Artículo 35.
 
-Toda persona puede pedir certificado de datos de las actas del registro civil, así como de los documentos y apuntes archivados en relación con dichas actas.
+(DEROGADO, POR ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NÚMERO 42, DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE YUCATÁN, D.O. 19 DE FEBRERO DE 2013)
 
 ###### Artículo 36.
 
-La modificación de un acta de estado civil procede:
-
-Por enmienda, cuando se solicite cambiar algún nombre u otra circunstancia, sea esencial o accidental.
-
-Las rectificaciones de actas para enmendar vicios o errores, sin alterar ni cambiar la esencia del acto consignado en las mismas, será facultad del registro civil.
+(DEROGADO, POR ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NÚMERO 42, DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE YUCATÁN, D.O. 19 DE FEBRERO DE 2013)
 
 ###### Artículo 37.
 
-Son nulas las actas del estado civil cuando se pruebe en el juicio respectivo que el suceso registrado no ocurrió.
+(DEROGADO, POR ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NÚMERO 42, DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE YUCATÁN, D.O. 19 DE FEBRERO DE 2013)
 
 ###### Artículo 38.
 
-Pueden pedir la rectificación de un acta del estado civil:
-
-I.- Las personas de cuyo estado se trate.
-
-II.- Las que se mencionen en el acta como relacionadas con el estado civil de alguno.
-
-III.- Los herederos de las personas comprendidas en las dos fracciones anteriores.
-
-> <small>(F. DE E., D.O. 28 DE MARZO DE 1994)</small>
-
-IV.- Los que según los artículos 266, 267 y 268 de este código, pueden continuar o intentar la acción que en ellos se menciona.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 16 DE MAYO DE 2005)</small>
-
-V.- Los adoptantes, en los casos establecidos en el artículo 309 E de este Código Civil.
+(DEROGADO, POR ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NÚMERO 42, DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE YUCATÁN, D.O. 19 DE FEBRERO DE 2013)
 
 ###### Artículo 39.
 
-Por comparecencia ante el oficial del registro civil que corresponda, el interesado mayor de edad podrá pedir que se varíe, por una sola vez, el nombre propio con que fue inscrito en su acta de nacimiento.
+(DEROGADO, POR ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NÚMERO 42, DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE YUCATÁN, D.O. 19 DE FEBRERO DE 2013)
 
 ###### Artículo 40.
 
-Salvo lo establecido en el artículo inmediato anterior y el reconocimiento que voluntariamente haga un padre de su hijo, dentro de los términos fijados en este código, las rectificaciones o modificaciones de actas del estado civil que cambien o alteren la esencia del acto registrado serán de la exclusiva competencia del poder judicial y en virtud de sentencia ejecutoria que éste dicte.
+(DEROGADO, POR ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NÚMERO 42, DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE YUCATÁN, D.O. 19 DE FEBRERO DE 2013)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NÚMERO 42, DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE YUCATÁN, D.O. 19 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO II. DE LOS NACIMIENTOS
 
 ###### Artículo 41.
 
-Las declaraciones de nacimientos se harán presentando al menor ante el oficial del registro civil del lugar en que hubiera ocurrido el alumbramiento.
+(DEROGADO, POR ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NÚMERO 42, DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE YUCATÁN, D.O. 19 DE FEBRERO DE 2013)
 
 ###### Artículo 42.
 
-Tienen obligación de declarar el nacimiento, el padre o la madre, dentro de cuarenta y cinco días de ocurrido. Los médicos o cualesquiera otras personas que hubiesen asistido al parto tienen obligación de dar aviso del nacimiento al oficial del registro civil, dentro de los diez días siguientes. La misma obligación tiene el jefe de familia en cuya casa haya tenido lugar el nacimiento, si éste ocurrió fuera de la casa paterna.
+(DEROGADO, POR ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NÚMERO 42, DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE YUCATÁN, D.O. 19 DE FEBRERO DE 2013)
 
 ###### Artículo 43.
 
-Toda persona que encuentre a un recién nacido o menor de edad en cuya casa o propiedad sea expuesto alguno, estará obligado a:
-
-I.- Cuando se trate de un recién nacido, deberá presentarlo al oficial del registro civil del lugar, dentro de los tres días siguientes, con los vestidos, papeles y cualesquiera otros objetos encontrados con él, declarando el día y el lugar donde lo hubiese hallado, así como las demás circunstancias que en el caso hayan concurrido, sin perjuicio de hacer la denuncia ante el ministerio público que corresponda.
-
-II.- Cuando se trate de menores de edad, de inmediato denunciarán el caso ante el ministerio público, para que, en tanto el representante social haga las investigaciones del caso, pongan al abandonado bajo el cuidado y protección del sistema del desarrollo integral de la familia, quién se avocará (sic) a realizar todas las averiguaciones en la búsqueda del antecedente del registro del nacimiento del menor y en caso de no existir, se procederá a la presentación del propio menor ante el oficial del registro civil que corresponda.
-
-Invariablemente, en cualesquiera de los dos casos a que se refieren las fracciones precedentes, deberá observarse estrictamente lo establecido en los artículos 34 y 38 del código del registro civil en vigor.
+(DEROGADO, POR ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NÚMERO 42, DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE YUCATÁN, D.O. 19 DE FEBRERO DE 2013)
 
 ###### Artículo 44.
 
-Los jefes, directores o administradores de las prisiones y de cualquier casa de comunidad, especialmente los de los hospitales, casas de maternidad e inclusas, deberán proceder en la forma indicada en el artículo inmediato anterior, respecto a los niños que nazcan o sean expuestos en dichos establecimientos, así como a los que aparentemente sean menores de edad y no se tenga conocimiento de la identidad de sus padres, ni de que hayan sido presentados anteriormente al registro civil.
+(DEROGADO, POR ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NÚMERO 42, DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE YUCATÁN, D.O. 19 DE FEBRERO DE 2013)
 
 ###### Artículo 45.
 
-Si con el expósito o con el menor a que se refiere el artículo anterior se hubiesen encontrado papeles, alhajas u otros objetos que puedan conducir a la identificación de aquél, se depositarán en el archivo del registro, mencionándolos en el acta y dando recibo de ellos al que recoja al niño.
+(DEROGADO, POR ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NÚMERO 42, DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE YUCATÁN, D.O. 19 DE FEBRERO DE 2013)
 
 ###### Artículo 46.
 
-Las personas que estando obligadas a declarar el nacimiento o dar aviso de él, no lo hicieren dentro de los términos fijados, serán sancionadas con multa hasta por el equivalente de dos días de salario mínino (sic) vigente en la zona, que impondrá el oficial del registro civil donde debió registrarse el acto o donde se haya hecho la declaración extemporánea de nacimiento.
+(DEROGADO, POR ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NÚMERO 42, DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE YUCATÁN, D.O. 19 DE FEBRERO DE 2013)
 
 ###### Artículo 47.
 
-La multa a que se refiere el artículo inmediato anterior podrá ser condonada por el oficial del registro civil, si el infractor prueba, a juicio de aquél, que su omisión fue debida a una causa grave o independiente de su voluntad.
+(DEROGADO, POR ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NÚMERO 42, DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE YUCATÁN, D.O. 19 DE FEBRERO DE 2013)
 
 ###### Artículo 48.
 
-En toda acta de nacimiento se asentará únicamente lo que manifiesten las personas que presenten al niño, aunque aparezcan sospechosas de falsedad, sin perjuicio de que éstas puedan ser sancionadas como dispone el código de defensa social.
+(DEROGADO, POR ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NÚMERO 42, DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE YUCATÁN, D.O. 19 DE FEBRERO DE 2013)
 
 ###### Artículo 49.
 
-Si algún nacimiento ocurriese a bordo de buque nacional, los interesados harán extender una constancia del acto, con todos los detalles que el código del registro civil exija para actas de nacimiento y solicitarán que la autorice el capitán o patrón de la embarcación, con dos testigos de los que se encuentren a bordo; si no los hubiere, se expresará esta circunstancia.
+(DEROGADO, POR ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NÚMERO 42, DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE YUCATÁN, D.O. 19 DE FEBRERO DE 2013)
 
 ###### Artículo 50.
 
-En el primer puerto nacional a que arribe la embarcación, los interesados entregarán la constancia de que habla el artículo inmediato anterior al oficial del registro civil, para que, a su tenor, asiente el acta y remita certificado de ella al oficial del domicilio de los padres, a fin de que se haga la inscripción en el libro respectivo.
+(DEROGADO, POR ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NÚMERO 42, DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE YUCATÁN, D.O. 19 DE FEBRERO DE 2013)
 
 ###### Artículo 51.
 
-Si en el puerto no hubiese funcionario del registro civil, se entregará la constancia antes dicha a la autoridad local, para que ésta la remita inmediatamente al oficial del domicilio de los padres.
+(DEROGADO, POR ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NÚMERO 42, DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE YUCATÁN, D.O. 19 DE FEBRERO DE 2013)
 
 ###### Artículo 52.
 
-Si el nacimiento ocurriese en un buque extranjero, se observará, por lo que toca a las solemnidades del registro, lo prescrito en el artículo 8 de este código.
+(DEROGADO, POR ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NÚMERO 42, DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE YUCATÁN, D.O. 19 DE FEBRERO DE 2013)
 
 ###### Artículo 53.
 
-Si el nacimiento acaeciese durante un viaje por tierra, podrá registrarse en el lugar en que ocurra o en el domicilio de los padres, según las normas antes establecidas; en el primer caso, se remitirá copia del acta al oficial del registro civil del domicilio de los padres, y en el segundo, se tendrá para hacer el registro el término que señala el artículo 42 de este código, con un día más por cada cuarenta kilómetros de distancia o fracción que exceda de la mitad.
+(DEROGADO, POR ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NÚMERO 42, DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE YUCATÁN, D.O. 19 DE FEBRERO DE 2013)
 
 > <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
@@ -1345,37 +1317,37 @@ DE LA SEPARACION DE BIENES
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN, D.O. 30 DE ABRIL DE 2012)
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NÚMERO 42, DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE YUCATÁN, D.O. 19 DE FEBRERO DE 2013)</small>
+
 ### CAPITULO V. DE LAS DEFUNCIONES
 
 ###### Artículo 209.
 
-Ninguna inhumación o cremación se verificará sin la autorización escrita del oficial del registro civil respectivo, quien se asegurará suficientemente del fallecimiento. No se procederá a la inhumación o cremación, sino hasta que el cadáver entre en descomposición salvo orden en contrario de autoridad competente, en vista de opinión facultativa, o en su defecto dictamen pericial, que certifique la necesidad de la medida.
+(DEROGADO, POR ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NÚMERO 42, DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE YUCATÁN, D.O. 19 DE FEBRERO DE 2013)
 
 ###### Artículo 210.
 
-Los dueños o habitantes de la casa en que ocurra el fallecimiento; los directores o administradores de las prisiones, hospitales, colegios o cualquiera otra casa de comunidad, los dueños de los hoteles y los caseros de las casas de vencidad (sic), tienen obligación de dar aviso del fallecimiento al oficial del registro civil respectivo, dentro de las veinticuatro horas siguientes a la muerte.
+(DEROGADO, POR ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NÚMERO 42, DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE YUCATÁN, D.O. 19 DE FEBRERO DE 2013)
 
 ###### Artículo 211.
 
-Si el fallecimiento ocurriere en un lugar o población en donde no haya oficina del registro, la autoridad municipal remitirá de inmediato la constancia respectiva al oficial del registro civil que corresponda, para que asiente el acta.
+(DEROGADO, POR ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NÚMERO 42, DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE YUCATÁN, D.O. 19 DE FEBRERO DE 2013)
 
 ###### Artículo 212.
 
-Cuando el oficial del registro civil sospeche que la muerte fue violenta, dará parte al ministerio público, comunicándole todos los informes que tenga, para que proceda a la averiguación conforme a derecho. Cuando la autoridad judicial o el ministerio público averigüen un fallecimiento, darán parte al oficial del registro civil, para que asiente el acta respectiva. Si se ignora el nombre del difunto, se asentarán las señas de éste con la descripción de los vestidos u objetos que con él se hubieren encontrado, y, en general, todo lo que pueda conducir a identificar a la persona; y siempre que se adquieran mayores datos, se comunicarán al oficial del registro civil, para que los anote al margen del acta.
+(DEROGADO, POR ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NÚMERO 42, DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE YUCATÁN, D.O. 19 DE FEBRERO DE 2013)
 
 ###### Artículo 213.
 
-En los casos de inundación, naufragio, incendio o cualquier otro siniestro en que no sea fácil reconocer el cadáver, se formará el acta con los datos que suministren los que lo recogieron, expresando, en cuanto fuere posible, las señas del mismo con descripción de los vestidos u objetos que con él se hayan encontrado.
-
-Si no aparece el cadáver, pero hay certeza de que alguna persona ha sucumbido en el lugar del desastre, el acta contendrá el nombre de las personas que hayan conocido a la que no aparece, y las demás noticias que sobre el suceso puedan adquirirse.
+(DEROGADO, POR ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NÚMERO 42, DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE YUCATÁN, D.O. 19 DE FEBRERO DE 2013)
 
 ###### Artículo 214.
 
-En el caso de muerte a bordo de un buque nacional, el acta se formará de la manera que determina el código del registro civil, en cuanto fuere posible, y la autorizará el capitán o patrón del buque, observándose además lo dispuesto para los nacimientos en los artículos 50 y 51 de este código.
+(DEROGADO, POR ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NÚMERO 42, DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE YUCATÁN, D.O. 19 DE FEBRERO DE 2013)
 
 ###### Artículo 215.
 
-El jefe de cualquier cuerpo o destacamento militar, tiene obligación de participar al oficial del registro civil respectivo, los muertos que haya habido en campaña o en otro acto del servicio, especificándose la filiación. El oficial del registro civil observará en este caso lo dispuesto en el artículo 213 de este código.
+(DEROGADO, POR ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NÚMERO 42, DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE YUCATÁN, D.O. 19 DE FEBRERO DE 2013)
 
 > <small>N. DE E. CON RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO 516, D.O. 30 DE ABRIL DE 2012, EL CUAL SURTIRÁ EFECTOS A LOS 180 DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN.</small>
 
@@ -5207,7 +5179,7 @@ Si los derechos del propietario son perturbados por un tercero, sea del modo y p
 
 ###### Artículo 855.
 
-Los gastos, costas y condenas de los pleitos sostenidos sobre el usufructo, son de cuenta del propietario si el usufructo se ha constituido por título oneroso y del usufructuario si se ha constituido por título gratuito. Si el pleito interesare a ambos, pagarán los gastos en proporción a sus derechos respectivos. El usufructuario en ningún caso estará obligado a responder por más de lo que produce el usufructo.
+Los gastos, costas y condenas de los pleitos sostenidos sobre el usufructo, son de cuenta del propietario si el usufructo se ha constituido por título oneroso y del usufructuario si se ha constituido por título gratuito. Si el pleito interesare a ambos, pagarán los gastos en proporción a sus derechos respectivos. El usufructurario (sic) en ningún caso estará obligado a responder por más de lo que produce el usufructo.
 
 ###### Artículo 856.
 
@@ -5469,7 +5441,7 @@ La cantidad de agua que puede hacerse pasar por un acueducto o tubería establec
 
 ###### Artículo 909.
 
-Si el que disfruta del acueducto o tubería necesitare ampliarlo, deberá costear las obras necesarias y pagar el terreno que nuevamente ocupe y los daños que cause conforme a lo dispuesto en la fracción IV y V del artículo 906 de este código.
+Si el que disfruta del acueducto o tubería necesitare ampliarlo, deberá costear las obras necesarias y pagar el terreno que nuevamente ocupe y los daños que cause conforme a lo dispuesto en la fracción (sic) IV y V del artículo 906 de este código.
 
 ###### Artículo 910.
 
@@ -5537,7 +5509,7 @@ El uso y la extensión de las servidumbres establecidas por la voluntad del prop
 
 Pueden constituir servidumbres voluntarias los que puedan enajenar.
 
-Si fueren varios los propietarios de un predio, no se podrá constituir la servidumbre, sino con el consentimiento de todos.
+Si fueren varios los propietarios de un predio, no se podrá constituir la servidumbre, si no (sic) con el consentimiento de todos.
 
 ###### Artículo 925.
 
@@ -5777,13 +5749,13 @@ III.- La acción de los dueños de hoteles y casas de huéspedes para cobrar el 
 
 > <small>(F. DE E., D.O. 28 DE MARZO DE 1994)</small>
 
-La prescripción corre desde el día en que debió ser pagado el hospedaje, o desde aquél en que se ministraron los alimentos.
+La prescripción corre desde el día en que debió ser pagado el hospedaje, o desde aquel en que se ministraron los alimentos.
 
 IV.- La responsabilidad civil por injurias, ya sean (sic) hecha de palabra o por escrito y la que nace del daño causado por personas o animales y que la ley impone al representante de aquellas o al dueño de éstos.
 
 > <small>(F. DE E., D.O. 28 DE MARZO DE 1994)</small>
 
-La prescripción comienza a correr desde el día en que se recibió o fue conocida la injuria o desde aquél en que se causó el daño.
+La prescripción comienza a correr desde el día en que se recibió o fue conocida la injuria o desde aquel en que se causó el daño.
 
 V.- La responsabilidad civil proveniente de actos ilícitos que no constituyen delitos.
 
@@ -5959,9 +5931,11 @@ Si no se obtiene la ratificación, el otro contratante tendrá derecho de exigir
 
 #### SECCION TERCERA. DEL MUTUO CONSENTIMIENTO
 
+> <small>(REFORMADO, D.O. 19 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 1000.
 
-El consentimiento puede ser expreso o tácito. Es expreso cuando se manifiesta verbalmente, por escrito o por signos inequívocos. El tácito resultará de hechos o de actos que lo presupongan o que autoricen a presumirlo, excepto en los casos en que por ley o por convenio la voluntad deba manifestarse expresamente.
+El consentimiento puede ser expreso o tácito. Es expreso cuando se manifiesta verbalmente, por escrito, por medios tecnológicos autorizados en los términos de la ley de la materia o por signos inequívocos. El tácito resultará de hechos o de actos que lo presupongan o que autoricen a presumirlo, excepto en los casos en que por ley o por convenio la voluntad deba manifestarse expresamente.
 
 ###### Artículo 1001.
 
@@ -6901,7 +6875,7 @@ En las enajenaciones de cosas ciertas y determinadas, la traslación de la propi
 
 ###### Artículo 1193.
 
-En las enajenaciones de alguna especie indeterminada, la propiedad no se transferirá si no hasta el momento en que la cosa se hace cierta y determinada con conocimiento del acreedor.
+En las enajenaciones de alguna especie indeterminada, la propiedad no se transferirá si no (sic) hasta el momento en que la cosa se hace cierta y determinada con conocimiento del acreedor.
 
 ###### Artículo 1194.
 
@@ -7429,7 +7403,7 @@ Los contratantes pueden aumentar y disminuir convencionalmente los efectos de la
 
 ###### Artículo 1294.
 
-Cuando el adquirente ha renunciado el derecho al saneamiento para el caso de evicción llegado que sea éste debe el que enajena entregar únicamente el precio de la cosa conforme a lo dispuesto en el artículo 1296 fracción I inciso a) y fracción II inciso a) de este ordenamiento; pero aún de esta obligación quedará libre si el que adquirió lo hizo con conocimiento de los riesgos de evicción y sometiéndose a sus consecuencias.
+Cuando el adquirente ha renunciado el derecho al saneamiento para el caso de evicción llegado que sea este debe el que enajena entregar únicamente el precio de la cosa conforme a lo dispuesto en el artículo 1296 fracción I inciso a) y fracción II inciso a) de este ordenamiento; pero aún de esta obligación quedará libre si el que adquirió lo hizo con conocimiento de los riesgos de evicción y sometiéndose a sus consecuencias.
 
 ###### Artículo 1295.
 
@@ -7599,7 +7573,7 @@ El fraude, que consiste únicamente en la preferencia indebida a favor de un acr
 
 ###### Artículo 1328.
 
-Si el acreedor que pide la nulidad, para acreeditar la insolvencia del deudor, prueba que el monto de las deudas de éste excede al de sus bienes conocidos, le impone al deudor la obligación de acreditar que tiene bienes suficientes para cubrir esas deudas.
+Si el acreedor que pide la nulidad, para acreeditar (sic) la insolvencia del deudor, prueba que el monto de las deudas de éste excede al de sus bienes conocidos, le impone al deudor la obligación de acreditar que tiene bienes suficientes para cubrir esas deudas.
 
 ###### Artículo 1329.
 
@@ -10799,7 +10773,7 @@ La autoridad ante quien se otorgue la fianza, dentro del término de veinticuatr
 
 ###### Artículo 2001.
 
-En caso de enajenación o gravamen de algún predio que hubiere servido para acreditar solvencia de fiador, el registrador dentro del término de veinticuatro horas, lo participará a la autoridad ante quien aparezca otorgada la fianza, a fin de que se proceda a exigir nuevo fiador al interesado. Al responsable de la omisión de dar los avisos a que éste artículo y el anterior se refieren se le aplicará la ley de responsabilidades de los servidores públicos del Estado y hará incurrir a quien lo cometa en multa de diez a cincuenta salarios mínimos vigentes en la zona, que impondrá el tribunal superior de justicia si se tratare de autoridad judicial o el ejecutivo del estado si se tratare de autoridad administrativa.
+En caso de enajenación o gravamen de algún predio que hubiere servido para acreditar solvencia de fiador, el registrador dentro del término de veinticuatro horas, lo participará a la autoridad ante quien aparezca otorgada la fianza, a fin de que se proceda a exigir nuevo fiador al interesado. Al responsable de la omisión de dar los avisos a que éste artículo y el anterior se refieren se le aplicará la ley de responsabilidades de los servidores públicos del Estado y hará incurrir a quien lo cometa en multa de diez a cincuenta salarios mínimos vigentes en la zona, que impondrá el tribunal superior de justicia si se tratare de autoridad judicial o el ejecutivo del Estado si se tratare de autoridad administrativa.
 
 ###### Artículo 2002.
 
@@ -11263,9 +11237,13 @@ En el mismo término de seis días registrarán los tutores las hipotecas consti
 
 El término señalado en los dos artículos anteriores se contará desde el día en que se haya constituido la hipoteca, no incluyéndose en él los días que fueren feriados ni los necesarios para la ida y vuelta del correo.
 
+> <small>(REFORMADO, D.O. 19 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 2099.
 
-No podrán otorgarse escrituras públicas, en que se constituye hipoteca, sin que el notario o escribano que han de autorizarlos recaben previamente el certificado del registro público en que consten los gravámenes o restricciones a la libertad de los mismos de la finca que va a hipotecarse. Los certificados deberán comprender por lo menos los veinte años anteriores a la fecha de su expedición y ésta no será anterior en más de veinticuatro horas a la del otorgamiento de la hipoteca.
+En los casos que se otorguen escrituras públicas en las que se constituya hipoteca, el fedatario público ante quien haya de otorgarse recabará previamente el certificado del registro público en el que consten los gravámenes o restricciones a la libertad de la finca que va a hipotecarse.
+
+Los certificados no deberán ser anteriores en más de quince días hábiles a la fecha del acta notarial o escritura pública.
 
 ###### Artículo 2100.
 
@@ -15061,19 +15039,15 @@ D.O. 28 DE ENERO DE 2010.
 
 Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
 
-ARTÌCULO SEGUNDO.- Los juicios de pérdida de patria potestad que se encuentren en trámite a la entrada en vigor de este Decreto, se substanciarán y resolverán de conformidad con las normas aplicables al momento de su inicio siempre que favorezcan a las niñas, niños o adolescentes, para lo cual el juez deberá dictar las medidas cautelares suficientes para resguardar el interés superior de la niña, niño o adolescente y su integración a un ambiente familiar adecuado.
-
-ARTÌCULO TERCERO.- Se derogan todas las disposiciones de igual o menor rango que se opongan a lo dispuesto por este Decreto.
-
-D.O. 8 DE ABRIL DE 2011.
-
 ###### ARTÍCULO SEGUNDO.
 
-Se derogan todas las disposiciones contenidas en el Capítulo III denominado "Del Matrimonio", en el Capítulo IV denominado "Del Divorcio" y en el Capítulo VI denominado "Del concubinato", los tres pertenecientes al TÍTULO SEGUNDO "DEL ESTADO CIVIL"; todos los artículos contenidos en el TÍTULO TERCERO DENOMINADO "DE LOS ALIMENTOS, DEL PARENTESCO Y DE LA VIOLENCIA FAMILIAR" el cual incluye los capítulos siguientes: Capítulo I denominado "Del parentesco", Capítulo II denominado "De los Alimentos", y el Capítulo III denominado "De la violencia familiar"; todas las disposiciones que se encuentran en el TÍTULO CUARTO "DE LA PATERNIDAD Y FILIACIÓN" el cual comprende los capítulos siguientes: Capítulo I denominado "De los hijos nacidos de matrimonio", el Capítulo II denominado "De las pruebas de filiación de los hijos nacidos de matrimonio", el Capítulo III denominado "De los hijos nacidos fuera de matrimonio" y el Capítulo IV que se denomina "De la adopción"; todos los artículos que se encuentran en el TÍTULO QUINTO "DE LA PATRIA POTESTAD" mismo que incluye los capítulos I, II y III denominados, respectivamente: "De los efectos de la patria potestad respecto a la persona de los descendientes", "De los efectos de la patria potestad sobre los bienes de los descendientes" y "De la suspensión y terminación de la patria potestad"; todas las disposiciones normativas del TÍTULO SEXTO, "DE LA TUTELA", contenido en los Capítulos I denominado "Disposiciones Generales", Capítulo II "De la tutela testamentaria", Capítulo III "De la tutela legítima", Capítulo IV "De la tutela dativa", Capítulo V "De las personas inhábiles para el desempeño de la tutela y de las personas que deben ser separadas de ella", el Capítulo VI "De las excusas de la tutela", el Capítulo VII denominado "De las garantías que deben otorgar los tutores", el Capítulo VIII "Del desempeño de la tutela", Capítulo IX denominado "De las cuentas de la tutela", el Capítulo X "De la entrega de los bienes", el Capítulo XI denominado "De la curatela", el Capítulo XII denominado "De los Consejos locales de tutelas", y el Capítulo XIII denominado "De los Consejos de Familia"; todos los artículos que integran el TÍTULO SÉPTIMO "DE LA MAYOR EDAD", en su Capítulo único; todas las disposiciones que establece el TÍTULO OCTAVO "DE LOS AUSENTES E IGNORADOS" que incluye los capítulos siguientes: Capítulo I denominado "De las medidas provisionales", Capítulo II "De la declaración de ausencia", Capítulo III "De la presunción de muerte del ausente" y el Capítulo IV denominado "Disposiciones generales", Títulos éstos que forman parte del LIBRO PRIMERO denominado "DE LAS PERSONAS" del Código Civil de Yucatán. Asimismo se derogan del LIBRO CUARTO denominado "SUCESIONES", todos los artículos que forman parte del TÍTULO PRIMERO "DE LA HERENCIA Y DE LOS HEREDEROS Y LEGATARIOS" el que incluye el Capítulo I "De la herencia" y el Capítulo II denominado "De los herederos y legatarios"; todas las disposiciones contenidas en el TÍTULO SEGUNDO "DE LAS SUCESIONES POR TESTAMENTO" el cual comprende los capítulos siguientes: Capítulo I "Disposiciones generales", Capítulo II "De la capacidad para testar", el Capítulo III "De la capacidad para heredar", el Capítulo IV "De las condiciones que pueden ponerse en los testamentos", el Capítulo V denominado "De los bienes que pueden disponerse por testamento", el Capítulo VI "De la institución de heredero", el Capítulo VII denominado "De los legados", el Capítulo VIII "De las sustituciones", y el Capítulo IX denominado "De la nulidad, revocación y caducidad de los testamentos"; todos los artículos que forman parte del TÍTULO TERCERO "DE LA FORMA DE LOS TESTAMENTOS" del cual forman parte ocho capítulos denominados respectivamente: "Disposiciones generales", "Del testamento público abierto", "Del testamento público cerrado", "Del testamento ológrafo", "Del testamento privado", "Del testamento militar", "Del testamento marítimo" y "Del testamento hecho en país extranjero"; todas las disposiciones del TÍTULO CUARTO "DE LA SUCESIÓN LEGÍTIMA" el cual se integra por el Capítulo I "Disposiciones generales", Capítulo II "Del derecho de representación", Capítulo III "De la sucesión de los descendientes", Capítulo IV "De la sucesión de los ascendientes", Capítulo V "De la sucesión del cónyuge, concubina y del concubinario" y el Capítulo VI "De la sucesión de los colaterales" y el Capítulo VII "De la sucesión del fisco del Estado" y finalmente se derogan también todos los artículos contenidos en el TÍTULO QUINTO "DISPOSICIONES COMUNES A LA SUCESIÓN TESTAMENTARIA Y A LA LEGÍTIMA" que está incluido por los capítulos siguientes: Capítulo I "Precauciones que deben adoptarse cuando la viuda quede encinta", el Capítulo II denominado "De la apertura y trasmisión de la herencia", el Capítulo III "De la aceptación y repudiación de la herencia", el Capítulo IV "Del albaceazgo", el Capítulo V denominado "Del inventario y liquidación de la herencia", el Capítulo VI "De la partición", el Capítulo VII denominado "De los efectos de la partición", y el Capítulo VIII "De la rescisión de las particiones", todos del Código Civil del Estado de Yucatán.
+Los juicios de pérdida de patria potestad que se encuentren en trámite a la entrada en vigor de este Decreto, se substanciarán y resolverán de conformidad con las normas aplicables al momento de su inicio siempre que favorezcan a las niñas, niños o adolescentes, para lo cual el juez deberá dictar las medidas cautelares suficientes para resguardar el interés superior de la niña, niño o adolescente y su integración a un ambiente familiar adecuado.
 
 ###### ARTÍCULO TERCERO.
 
-Todos los procedimientos, juicios y demás asuntos relacionados con la materia familiar que se encuentren en trámite a la entrada en vigor de este Código de Familia para el Estado de Yucatán, se substanciarán y resolverán hasta su total conclusión de conformidad con las normas aplicables al momento en que fueron iniciados.
+Se derogan todas las disposiciones de igual o menor rango que se opongan a lo dispuesto por este Decreto.
+
+D.O. 8 DE ABRIL DE 2011.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -15085,6 +15059,14 @@ D.O. 30 DE ABRIL DE 2012.
 
 Este Código entrará en vigor a los 180 días hábiles siguientes a los de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
 
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones contenidas en el Capítulo III denominado "Del Matrimonio", en el Capítulo IV denominado "Del Divorcio" y en el Capítulo VI denominado "Del concubinato", los tres pertenecientes al TÍTULO SEGUNDO "DEL ESTADO CIVIL"; todos los artículos contenidos en el TÍTULO TERCERO DENOMINADO "DE LOS ALIMENTOS, DEL PARENTESCO Y DE LA VIOLENCIA FAMILIAR" el cual incluye los capítulos siguientes: Capítulo I denominado "Del parentesco", Capítulo II denominado "De los Alimentos", y el Capítulo III denominado "De la violencia familiar"; todas las disposiciones que se encuentran en el TÍTULO CUARTO "DE LA PATERNIDAD Y FILIACIÓN" el cual comprende los capítulos siguientes: Capítulo I denominado "De los hijos nacidos de matrimonio", el Capítulo II denominado "De las pruebas de filiación de los hijos nacidos de matrimonio", el Capítulo III denominado "De los hijos nacidos fuera de matrimonio" y el Capítulo IV que se denomina "De la adopción"; todos los artículos que se encuentran en el TÍTULO QUINTO "DE LA PATRIA POTESTAD" mismo que incluye los capítulos I, II y III denominados, respectivamente: "De los efectos de la patria potestad respecto a la persona de los descendientes", "De los efectos de la patria potestad sobre los bienes de los descendientes" y "De la suspensión y terminación de la patria potestad"; todas las disposiciones normativas del TÍTULO SEXTO, "DE LA TUTELA", contenido en los Capítulos I denominado "Disposiciones Generales", Capítulo II "De la tutela testamentaria", Capítulo III "De la tutela legítima", Capítulo IV "De la tutela dativa", Capítulo V "De las personas inhábiles para el desempeño de la tutela y de las personas que deben ser separadas de ella", el Capítulo VI "De las excusas de la tutela", el Capítulo VII denominado "De las garantías que deben otorgar los tutores", el Capítulo VIII "Del desempeño de la tutela", Capítulo IX denominado "De las cuentas de la tutela", el Capítulo X "De la entrega de los bienes", el Capítulo XI denominado "De la curatela", el Capítulo XII denominado "De los Consejos locales de tutelas", y el Capítulo XIII denominado "De los Consejos de Familia"; todos los artículos que integran el TÍTULO SÉPTIMO "DE LA MAYOR EDAD", en su Capítulo único; todas las disposiciones que establece el TÍTULO OCTAVO "DE LOS AUSENTES E IGNORADOS" que incluye los capítulos siguientes: Capítulo I denominado "De las medidas provisionales", Capítulo II "De la declaración de ausencia", Capítulo III "De la presunción de muerte del ausente" y el Capítulo IV denominado "Disposiciones generales", Títulos éstos que forman parte del LIBRO PRIMERO denominado "DE LAS PERSONAS" del Código Civil de Yucatán. Asimismo se derogan del LIBRO CUARTO denominado "SUCESIONES", todos los artículos que forman parte del TÍTULO PRIMERO "DE LA HERENCIA Y DE LOS HEREDEROS Y LEGATARIOS" el que incluye el Capítulo I "De la herencia" y el Capítulo II denominado "De los herederos y legatarios"; todas las disposiciones contenidas en el TÍTULO SEGUNDO "DE LAS SUCESIONES POR TESTAMENTO" el cual comprende los capítulos siguientes: Capítulo I "Disposiciones generales", Capítulo II "De la capacidad para testar", el Capítulo III "De la capacidad para heredar", el Capítulo IV "De las condiciones que pueden ponerse en los testamentos", el Capítulo V denominado "De los bienes que pueden disponerse por testamento", el Capítulo VI "De la institución de heredero", el Capítulo VII denominado "De los legados", el Capítulo VIII "De las sustituciones", y el Capítulo IX denominado "De la nulidad, revocación y caducidad de los testamentos"; todos los artículos que forman parte del TÍTULO TERCERO "DE LA FORMA DE LOS TESTAMENTOS" del cual forman parte ocho capítulos denominados respectivamente: "Disposiciones generales", "Del testamento público abierto", "Del testamento público cerrado", "Del testamento ológrafo", "Del testamento privado", "Del testamento militar", "Del testamento marítimo" y "Del testamento hecho en país extranjero"; todas las disposiciones del TÍTULO CUARTO "DE LA SUCESIÓN LEGÍTIMA" el cual se integra por el Capítulo I "Disposiciones generales", Capítulo II "Del derecho de representación", Capítulo III "De la sucesión de los descendientes", Capítulo IV "De la sucesión de los ascendientes", Capítulo V "De la sucesión del cónyuge, concubina y del concubinario" y el Capítulo VI "De la sucesión de los colaterales" y el Capítulo VII "De la sucesión del fisco del Estado" y finalmente se derogan también todos los artículos contenidos en el TÍTULO QUINTO "DISPOSICIONES COMUNES A LA SUCESIÓN TESTAMENTARIA Y A LA LEGÍTIMA" que está incluido por los capítulos siguientes: Capítulo I "Precauciones que deben adoptarse cuando la viuda quede encinta", el Capítulo II denominado "De la apertura y trasmisión de la herencia", el Capítulo III "De la aceptación y repudiación de la herencia", el Capítulo IV "Del albaceazgo", el Capítulo V denominado "Del inventario y liquidación de la herencia", el Capítulo VI "De la partición", el Capítulo VII denominado "De los efectos de la partición", y el Capítulo VIII "De la rescisión de las particiones", todos del Código Civil del Estado de Yucatán.
+
+###### ARTÍCULO TERCERO.
+
+Todos los procedimientos, juicios y demás asuntos relacionados con la materia familiar que se encuentren en trámite a la entrada en vigor de este Código de Familia para el Estado de Yucatán, se substanciarán y resolverán hasta su total conclusión de conformidad con las normas aplicables al momento en que fueron iniciados.
+
 ###### ARTÍCULO CUARTO.
 
 Lo dispuesto en el artículo 253 de este Código, entrará en vigor una vez que se expidan las reglas y normas en la legislación del registro civil del Estado, acerca de la tramitación, excepciones y demás supuestos derivados del proceso de elección que deberán seguir ambos progenitores para establecer el orden de los apellidos de sus descendientes en línea recta de primer grado.
@@ -15092,3 +15074,47 @@ Lo dispuesto en el artículo 253 de este Código, entrará en vigor una vez que 
 ###### ARTÍCULO QUINTO.
 
 Los Poderes Ejecutivo y Judicial del Estado, deberán tomar todas las previsiones y medidas administrativas y legales necesarias para la debida aplicación de las disposiciones de este Código de Familia para el Estado de Yucatán.
+
+D.O. 19 DE FEBRERO DE 2013.
+
+DECRETO POR EL QUE SE DEROGAN LAS DISPOSICIONES DEL CÓDIGO CIVIL DEL ESTADO DE YUCATÁN, CONTENIDAS EN EL CAPÍTULO I DENOMINADO "DEL REGISTRO CIVIL"; EL CAPÍTULO II DENOMINADO "DE LOS NACIMIENTOS"; EL CAPÍTULO V DENOMINADO "DE LAS DEFUNCIONES"; LOS TRES CAPÍTULOS PERTENECIENTES AL TÍTULO SEGUNDO DENOMINADO "DEL ESTADO CIVIL", DEL LIBRO PRIMERO, DENOMINADO "DE LAS PERSONAS".
+
+###### ARTÍCULO PRIMERO.
+
+Esta Ley entrará en vigor el día 20 de febrero del año 2013, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+A partir de la entrada en vigor de esta Ley, se abroga el Código del Registro Civil del Estado de Yucatán, expedido mediante Decreto número 336 publicado en el Diario Oficial del Gobierno del Estado de Yucatán, el día 7 de marzo del año de 1986.
+
+###### ARTÍCULO TERCERO.
+
+El Titular del Poder Ejecutivo del Estado deberá expedir el Reglamento de la Ley del Registro Civil del Estado de Yucatán, en un plazo no mayor a 180 días contados a partir de la entrada en vigor de esta Ley.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan las disposiciones del Código Civil del Estado de Yucatán, contenidas en el Capítulo I denominado "Del Registro Civil"; el Capítulo II denominado "De los Nacimientos"; el Capítulo V denominado "De las Defunciones"; los tres capítulos pertenecientes al Título Segundo denominado "Del Estado Civil", del Libro Primero, denominado "De las Personas".
+
+###### ARTÍCULO QUINTO.
+
+Todos los procedimientos, juicios y demás asuntos relacionados con algún acto o hecho del estado civil que se encuentren en trámite a la entrada en vigor de esta Ley, se continuarán substanciando y resolverán hasta su total conclusión, de conformidad con las normas aplicables al momento en que fueron iniciados.
+
+D.O. 19 DE FEBRERO DE 2013.
+
+DECRETO No. 43, POR EL QUE SE REFORMAN LOS ARTÍCULOS 1000 Y 2099 DEL CÓDIGO CIVIL DEL ESTADO DE YUCATÁN.
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Ejecutivo del Estado contará con 90 días hábiles para realizar las adecuaciones al Reglamento de la Ley del Notariado del Estado de Yucatán.
+
+###### ARTÍCULO TERCERO.
+
+Con motivo de la entrada en vigor del Libro de Registro de Cotejos y Certificaciones de Firmas, los Notarios Públicos deberán poner constancias de cierre en los Libros de Registro de Cotejos que estuvieren empleando. A partir de la fecha de la constancia de cierre podrá seguir trabajando en el mismo libro que en razón de la presente reforma se denominará Libro de Registro de Cotejos y Certificaciones de Firmas, abriendo la correspondiente constancia de apertura.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones que se opongan a este Decreto.
