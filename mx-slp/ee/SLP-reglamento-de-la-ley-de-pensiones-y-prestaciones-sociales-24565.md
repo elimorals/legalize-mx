@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-de-la-ley-de-pensiones-y-prestaciones-sociales-24565
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-04-06"
-last_updated: "2010-03-18"
+last_updated: "2013-02-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24565&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO DE LA LEY DE PENSIONES Y PRESTACIONES SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO PERTENECIENTES AL SECTOR DEL SISTEMA EDUCATIVO ESTATAL REGULAR
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MARZO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2013.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 6 de abril de 2002.
 
@@ -58,6 +58,10 @@ V. Beneficiario: Las personas a las que la Dirección de Pensiones les reconozca
 VI. Fondo Sectorizado: Se conforma con los recursos que el Sector dispone para cubrir sus obligaciones, mismos que se depositan en cuentas bancarias de uso exclusivo del grupo cotizador para su administración, de las cuales pagará las pensiones, jubilaciones, préstamos y demás beneficios que se les otorgue a los derechohabientes conforme a la Ley y al presente Reglamento;
 
 VII. Sistema Educativo Estatal Regular: Integrado por los trabajadores adscritos a la Dirección General del Sistema Educativo Estatal Regular dependiente de la Secretaría de Educación de Gobierno del Estado.
+
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2013)</small>
+
+VIII. Fondo de Contingencia: Es el capital integrado con las aportaciones de cada uno de los sectores cotizadores y las aportaciones de Gobierno del Estado, mismo que será utilizado por cada uno de los sectores en la misma medida y proporción que hayan enterado al fondo. Este fondo será utilizado exclusivamente en el caso extremo de cualquier contingencia y para el solo propósito de pagar pensiones y jubilaciones a los beneficiarios de cada grupo cotizador, y en ningún caso y por ninguna causa podrá disponer de él un sector diferente al que cotizó.
 
 ###### ARTÍCULO 3°.
 
@@ -107,29 +111,73 @@ El grupo cotizador propondrá a la Junta Directiva de la Dirección de Pensiones
 
 ### CAPÍTULO II. De las Cuotas y Aportaciones
 
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2013)</small>
+
 ###### ARTÍCULO 13.
 
-El cálculo del monto de las cuotas y aportaciones ordinarias de los salarios de los trabajadores, se realizarán sobre los siguientes conceptos: sueldo compactado carrera magisterial y quinquenio.
+El cálculo del monto de las cuotas y aportaciones ordinarias de los salarios de los trabajadores, se realizarán sobre los niveles educativos y conceptos cotizables siguientes:
 
-El personal docente de educación básica aportará a la Dirección de Pensiones del estado, el porcentaje correspondiente del concepto de Asignación Docente, para constituir la compensación integral de jubilación, la que será manejada de la siguiente manera:
+I.- Homologados: Docentes y personal de apoyo y asistencia a la educación, quienes cotizarán sobre los siguientes conceptos:
 
-I. La Dirección de Pensiones del Estado abrirá con estas aportaciones una cuenta contable-administrativa, que será manejada bajo la exclusiva responsabilidad del Sector;
+a) Sueldo, y
 
-II. Las cantidades que se reciban por este concepto se destinaran a cubrir a las personas que lo coticen al momento de jubilarse, la compensación integral de jubilación;
+b) Prima de antigüedad.
 
-III. Solo se recibirán aportaciones de los trabajadores del Sector para este fondo; y
+II.- Educación básica: Docentes que cotizarán sobre los siguientes conceptos:
 
-IV. En el supuesto de que los recursos generados fueren insuficientes para cubrir esta prestación, se estará a lo dispuesto por la Ley.
+1) Sueldo compactado;
+
+2) Carrera magisterial;
+
+3) Quinquenio;
+
+4) Titulación;
+
+5) Diferencias Regularizables;
+
+6) Asignación Pedagógica Específica, y
+
+7) Asignación Docente.
+
+III.- Educación básica: Personal de apoyo y asistencia a la educación que cotizarán sobre los siguientes conceptos:
+
+1) Sueldo base;
+
+2) Quinquenio, y
+
+3) Diferencias Regularizables;
+
+Cualquier otro concepto que se aporte ante la Dirección de Pensiones, será considerado como fondo de ahorro, mismo que se entregará al término de la vida laboral del trabajador, o a sus beneficiarios en caso de fallecimiento, a excepción de las aportaciones que establezca el sector para el fortalecimiento de su fondo.
+
+Estas aportaciones se llevarán en cuentas separadas y sus montos y condiciones serán establecidos en los acuerdos administrativos pertinentes.
+
+Dichas aportaciones no generarán derecho a pensión alguna.
+
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2013)</small>
+
+ARTÍCULO 13 BIS.- El personal docente de educación básica aportará a la Dirección de Pensiones del Estado el porcentaje correspondiente del concepto de asignación docente, para constituir la compensación integral de jubilación, la que será manejada de la siguiente manera:
+
+I.- La Dirección de Pensiones del Estado, abrirá con estas aportaciones una cuenta contable-administrativa, que será administrada bajo la exclusiva responsabilidad del sector;
+
+II.- Las cantidades que se reciban por este concepto se destinarán a cubrir a las personas que lo coticen al momento de jubilarse, la compensación integral de jubilación;
+
+III.- Sólo se recibirán aportaciones de los trabajadores del sector para este fondo; y
+
+IV.- En el supuesto de que los recursos generados fueren insuficientes para cubrir esta prestación, se estará a lo dispuesto por la Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE FEBRERO DE 2013)</small>
 
 ###### ARTÍCULO 14.
 
-El descuento obligatorio a los trabajadores para el Fondo Sectorizado, independientemente de su edad, será del once por ciento de su sueldo y se incrementará en uno por ciento anualmente, hasta alcanzar el catorce por ciento del mismo.
+El descuento obligatorio a los trabajadores para el Fondo Sectorizado, independientemente de su edad, será del catorce por ciento de su sueldo.
 
 Los servidores públicos, que desempeñen dos o más empleos en el Sistema Educativo Estatal Regular, cubrirán el descuento establecido en este artículo sobre el total de los sueldos efectivamente percibidos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE FEBRERO DE 2013)</small>
+
 ###### ARTÍCULO 15.
 
-Las aportaciones para el Fondo Sectorizado con que debe contribuir el Gobierno del Estado, será del once por ciento de los sueldos de los trabajadores acogidos a los beneficios de la Ley y este Reglamento, y se incrementarán un uno por ciento anualmente hasta alcanzar el catorce por ciento.
+Las aportaciones para el Fondo Sectorizado con que debe contribuir el Gobierno del Estado, será del catorce por ciento de los sueldos de los trabajadores acogidos a los beneficios de la Ley y este Reglamento.
 
 El Gobierno del Estado aportará una cantidad adicional de un cinco por ciento del total del sueldo base que perciban los trabajadores, para ser utilizado en el otorgamiento de créditos hipotecarios.
 
@@ -145,9 +193,11 @@ Los encargados de hacer pagos a los trabajadores contribuyentes al Fondo Sectori
 
 Los tesoreros o pagadores entregarán quincenalmente además de los conceptos de descuento correspondientes a las aportaciones patronales, las cuotas de los trabajadores, el cinco por ciento adicional para la vivienda, que establece este Reglamento, y el importe de los descuentos que la Dirección de Pensiones les ordene se hagan a los trabajadores por otros adeudos que éstos tengan con la misma.
 
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2013)</small>
+
 ###### ARTÍCULO 19.
 
-Los pensionados y jubilados aportarán un diez por ciento del importe de su pensión a fin de garantizar las condiciones en que se les otorga la misma y los demás derechos que les concede la Ley y el presente Ordenamiento.
+Los pensionados y jubilados aportarán un catorce por ciento de su pensión a fin de garantizar las condiciones que les otorga la misma y los demás derechos que les concede la Ley y el presente reglamento.
 
 ###### ARTÍCULO 20.
 
@@ -157,9 +207,11 @@ Si llegare a ocurrir en cualquier tiempo que los recursos del Fondo sectorizado 
 
 Los trabajadores contribuyentes al Fondo Sectorizado no adquieren derecho alguno ni individual, ni colectivo sobre él, sino sólo el de gozar de los beneficios que la Ley y este Reglamento les conceden.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE FEBRERO DE 2013)</small>
+
 ###### ARTÍCULO 22.
 
-Las cuentas de los Fondos quedarán sujetas a la revisión y fiscalización de la Contraloría General del Estado y del Congreso del Estado. La Dirección de Pensiones les remitirá dentro de los tres primeros meses de cada año, un informe general sobre la situación contable de los citados Fondos.
+Las cuentas de los Fondos quedarán sujetas a la revisión y fiscalización de la Contraloría General del Estado y del Congreso del Estado, por conducto de la Auditoría Superior del Estado. La Dirección de Pensiones del Estado les remitirá dentro de los tres primeros meses de cada año, un informe general sobre la situación contable de los citados Fondos.
 
 El grupo cotizador cuando lo estime necesario, podrá llevar a cabo la auditoria de sus Fondos, que se harán con cargo al Sector.
 
@@ -179,19 +231,25 @@ Los trabajadores que hubieren contribuido al Fondo Sectorizado durante un año c
 
 Los pensionados que hayan sido trabajadores gozarán de esta misma prestación.
 
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2013)</small>
+
 ###### ARTÍCULO 25.
 
-El monto de los préstamos Quirografarios a Corto Plazo para el personal en activo, podrá ser solicitado hasta por el importe de 20 meses del salario mínimo vigente en el Estado. El Sector de conformidad a la disponibilidad financiera determinará el límite de los mismos.
+El monto de los préstamos quirografarios a corto plazo para el personal en activo, podrá ser solicitado hasta por $50,000.00. El sector, determinará el límite de los mismos de conformidad con la disponibilidad financiera.
 
-En el caso de los pensionados que hubieren sido trabajadores, el monto será hasta de cuatro meses de su pensión, siempre y cuando no rebasen el importe de veinte meses del salario mínimo vigente en el Estado.
+En el caso de los pensionados que hubieren sido trabajadores, el monto será hasta de cuatro meses de su pensión, siempre y cuando no se rebase la cantidad de $50,000.00.
+
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2013)</small>
 
 ###### ARTÍCULO 26.
 
-El plazo para el pago de los préstamos no será mayor de doce meses ni menor de uno.
+El plazo para el pago de los préstamos podrá ser de 24, 36 y 48 quincenas, según lo solicite el derechohabiente.
+
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2013)</small>
 
 ###### ARTÍCULO 27.
 
-Los préstamos causarán el interés del dieciocho por ciento anual calculado sobre saldos insolutos.
+Los préstamos causarán el interés del doce por ciento anual global, es decir, sobre el total del monto inicial del préstamo.
 
 ###### ARTÍCULO 28.
 
@@ -321,9 +379,11 @@ II. El Fondo Sectorizado según lo determine el Grupo Cotizador, quien por condu
 
 ### CAPÍTULO IV. De las Pensiones a los Trabajadores y sus Familiares
 
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2013)</small>
+
 ###### ARTÍCULO 41.
 
-Las pensiones para los trabajadores y sus familiares serán otorgadas conforme lo dispone el Título Tercero de la Ley, y demás relativos.
+Las pensiones para los trabajadores y sus familiares serán otorgadas conforme lo disponen el Título Tercero y el Título Octavo de la Ley, según corresponda al caso concreto.
 
 ###### ARTÍCULO 42.
 
@@ -339,9 +399,11 @@ IV. Los casos que la Junta Directiva encuentre procedentes y justificados.
 
 ### CAPÍTULO V. Del Aguinaldo
 
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2013)</small>
+
 ###### ARTÍCULO 43.
 
-El aguinaldo al que se refiere el artículo 78 de la Ley, se otorgará en los mismos términos en que se les entrega a sus homólogos en servicio, calculado en base al monto de su pensión.
+Se pagará una gratificación anual a los trabajadores pensionados y jubilados de conformidad con lo dispuesto en el artículo 128 de la Ley.
 
 ## TÍTULO CUARTO. DE LOS GASTOS DE FUNERAL
 
@@ -416,3 +478,17 @@ P.O. 18 DE MARZO DE 2010.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico' Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones administrativas de igual o menor jerarquía a (sic) que se opongan a este Decreto.
+
+P.O. 19 DE FEBRERO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los pensionados y jubilados que adquirieron sus derechos conforme a las leyes de pensiones de 1974 y 2001, así como los que a la entrada en vigor del decreto legislativo 730 publicado el 13 de octubre de 2011 hayan cumplido con el derecho a la pensión o jubilación, aportarán un diez por ciento de su pensión.
+
+Los trabajadores que reúnan los requisitos del artículo 114, sus familiares comprendidos en el artículo 121 de la Ley de Pensiones, así como los trabajadores y beneficiarios señalados en los artículos transitorios Séptimo y Octavo del decreto 730 antes mencionado, y aquellos que no hayan obtenido el derecho a la norma señalada, aportarán un catorce por ciento de su pensión a fin de garantizar las condiciones en que se les otorga la misma y los demás derechos que les concede la Ley y el presente Reglamento.
+
+TERCERO.- Los pensionados que adquirieron sus derechos conforme a las leyes de pensiones de 1974 y de 2001, seguirán percibiendo los aumentos a su pensión en términos de las leyes bajo las cuales se pensionaron y continuarán gozando de un aguinaldo de noventa días.
+
+CUARTO.- El bono de permanencia se pagará en la primera quincena del mes de julio de cada año a los trabajadores que cumplan los años de cotización durante el primer semestre del año y para los trabajadores que cumplan los años de cotización durante el segundo semestre, el pago se realizará en la primera quincena del mes de enero el (sic) año siguiente, de conformidad con el artículo noveno transitorio del decreto 730.
+
+QUINTO.- Se derogan todas las disposiciones administrativas de igual o menor jerarquía que se opongan a este Decreto.
