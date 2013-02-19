@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-procedimientos-penales-del-estado-de-michoacan-de-852
 country: "mx"
 rank: "codigo"
 publication_date: "2012-01-13"
-last_updated: "2012-01-13"
+last_updated: "2013-02-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85258&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2013.
 
 Código publicado en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el viernes 13 de enero de 2012.
 
@@ -4513,33 +4513,47 @@ Este Decreto entrará en vigor el día siguiente al de su publicación en el Per
 
 La implementación del sistema procesal penal acusatorio en el Estado será regional y gradual, estableciéndose las regiones judiciales siguientes: Apatzingán, que se integrará con los actuales distritos judiciales de Apatzingán y Coalcomán; Lázaro Cárdenas, que comprenderá los actuales distritos judiciales de Arteaga, Coahuayana y Lázaro Cárdenas; Morelia, que comprenderá los actuales distritos judiciales de Morelia, Pátzcuaro y Zinapécuaro; Uruapan, que comprenderá los actuales distritos judiciales de Ario, Tacámbaro y Uruapan; Zamora, que comprenderá los actuales distritos judiciales de Jiquilpan, La Piedad, Los Reyes, Puruándiro, Sahuayo, Tanhuato, Zacapu y Zamora, y; Zitácuaro, que comprenderá los actuales distritos judiciales de Hidalgo, Huetamo, Maravatío, Zitácuaro.
 
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2013)</small>
+
 ###### ARTÍCULO TERCERO.
 
-El 21 de febrero de 2013 entrará en vigor el presente Decreto en la región Morelia.
+El 3 de febrero de 2014 entrará en vigor el presente Decreto en la región Morelia.
+
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2013)</small>
 
 ###### ARTÍCULO CUARTO.
 
-El 21 de agosto de 2013 entrará en vigor el presente Decreto en la región Zamora.
+El 25 de agosto de 2014 entrará en vigor el presente Decreto en la región Uruapan.
+
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2013)</small>
 
 ###### ARTÍCULO QUINTO.
 
-El 7 de marzo de 2014 entrará en vigor el presente Decreto en la región Uruapan.
+El 12 de enero de 2015 entrará en vigor el presente Decreto en la región Apatzingán.
+
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2013)</small>
 
 ###### ARTÍCULO SEXTO.
 
-El 30 de septiembre de 2014 entrará en vigor el presente Decreto en la región Lázaro Cárdenas.
+El 29 de junio de 2015 entrará en vigor el presente Decreto en la región Zamora.
+
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2013)</small>
 
 ###### ARTÍCULO SÉPTIMO.
 
-El 19 de agosto de 2015 entrará en vigor el presente Decreto en la región de Zitácuaro.
+El 11 de enero de 2016 entrará en vigor el presente Decreto en la región de Lázaro Cárdenas.
+
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2013)</small>
 
 ###### ARTÍCULO OCTAVO.
 
-El 22 de octubre de 2015 entrará en vigor el presente Decreto en la región de Apatzingán.
+El 13 de junio de 2016 entrará en vigor el presente Decreto en la región de Zitácuaro.
+
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2013)</small>
 
 ###### ARTÍCULO NOVENO.
 
-El 22 de octubre de 2015 se abroga el Código de Procedimientos Penales del Estado de Michoacán, publicado el 31 de agosto de 1998 en el Periódico Oficial del Gobierno Constitucional de Estado de Michoacán de Ocampo, rigiendo únicamente para los asuntos o causas iniciados con anterioridad a la implementación de este ordenamiento en cada región.
+El 13 de junio de 2016 se abroga el Código de Procedimientos Penales del Estado de Michoacán, publicado el 31 de agosto de 1998 en el Periódico Oficial del Gobierno Constitucional de Estado de Michoacán de Ocampo, rigiendo únicamente para los asuntos o causas iniciados con anterioridad a la implementación de este ordenamiento en cada región.
 
 ###### ARTÍCULO DÉCIMO.
 
@@ -4576,3 +4590,11 @@ ATENTAMENTE.- «SUFRAGIO EFECTIVO. NO REELECCIÓN».- PRESIDENTE DE LA MESA DIRE
 En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 04 cuatro días del mes de Enero del año 2012 dos mil doce.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LEONEL GODOY RANGEL.- EL SECRETARIO DE GOBIERNO.-RAFAEL MELGOZA RADILLO. (Firmados).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 19 DE FEBRERO DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
