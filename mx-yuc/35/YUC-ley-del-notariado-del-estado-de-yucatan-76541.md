@@ -4,7 +4,7 @@ identifier: "YUC-ley-del-notariado-del-estado-de-yucatan-76541"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-31"
-last_updated: "2010-08-31"
+last_updated: "2013-02-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76541&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DEL NOTARIADO DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 19 DE FEBRERO DE 2013.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el martes 31 de agosto de 2010.
 
@@ -55,7 +55,9 @@ El ejercicio de la función notarial está a cargo de personas físicas a quiene
 
 Para los efectos de esta ley se entenderá por:
 
-I.- Acta notarial o escritura pública: El Instrumento original autorizado por el Fedatario Público bajo su fe pública, en el que se relaciona un acto o hecho jurídico a solicitud de la parte interesada;
+> <small>(REFORMADA, D.O. 19 DE FEBRERO DE 2013)</small>
+
+I.- Acta notarial o escritura pública: El instrumento original otorgado ante Notario Público en el protocolo de la notaría a su cargo en el que se hace constar un acto o hecho jurídico, a solicitud de parte interesada. Cuando sea otorgado ante Escribano Público se denominará escritura pública.
 
 II.- Apéndice: La integración de los documentos, notas complementarias y los demás elementos relativos a cada acta notarial o escritura pública, los que a su vez, se considerarán parte integrante de la misma;
 
@@ -67,15 +69,23 @@ V.- Fedatario Público: El Notario o Escribano Público, que se encuentre en fun
 
 VI.- Folio: El número asignado a cada una de las doscientas hojas que integran un libro;
 
-VII.- Instrumentos Notariales: Los folios, sellos de autorización, tomos del protocolo, apéndices e índices de las actas notariales o escrituras públicas, documentos impresos o digitales, que el Fedatario Público usa o requiere para el ejercicio de sus funciones, exceptuando los documentos expedidos y autorizados por ellos;
+> <small>(REFORMADA, D.O. 19 DE FEBRERO DE 2013)</small>
 
-VIII.- Libro de registro de cotejos: El conjunto de los folios encuadernados, con su respectivo apéndice, en el que el Notario Público anota los registros de los cotejos de los documentos que le presenten para dicho efecto, considerándose como documento original para el cotejo no sólo el documento público o privado que así lo sea, sino también su copia certificada por Fedatario Público o por autoridad legítimamente autorizada para expedirla y las impresiones hechas vía electrónica o con cualquier otra tecnología, y se regirá por lo dispuesto en el reglamento de esta ley;
+VII.- Instrumentos Notariales: Las hojas, sellos de autorización, tomos del protocolo, apéndices e índices de las actas notariales o escrituras públicas, documentos impresos o digitales, que el Fedatario Público usa o requiere para el ejercicio de sus funciones, exceptuando los documentos expedidos y autorizados por ellos;
 
-IX.- Libro: El conjunto de doscientos folios ordenados sucesivamente y encuadernados, en los que el Notario Público, observando los requisitos establecidos en la presente ley, asienta las actas notariales o escrituras públicas que se otorguen ante su fe pública;
+> <small>(REFORMADA, D.O. 19 DE FEBRERO DE 2013)</small>
+
+VIII.- Libro de Registro de Cotejos y de Certificaciones de Firmas: El conjunto de las hojas encuadernadas, en el que el Notario Público anota los registros de los cotejos de los documentos que le presenten para dicho efecto, así como todas las certificaciones de firmas que le presenten para ratificar o certificar que fueron puestas ante él;
+
+> <small>(REFORMADA, D.O. 19 DE FEBRERO DE 2013)</small>
+
+IX.- Libro: El conjunto de doscientas hojas ordenadas sucesivamente y encuadernadas, en las que el Notario Público, observando los requisitos establecidos en esta ley y su reglamento, asienta las actas notariales o escrituras públicas que otorgue ante su fe pública;
 
 X.- Notario Público: El Abogado o Licenciado en Derecho a quien el Poder Ejecutivo del Estado, le delega fe pública para que dé constancia y formalidad a los actos y hechos jurídicos, ante él celebrados, que los interesados quieran o deban dar autenticidad conforme a las leyes, así como de dotarlos de la solemnidad que establezca la ley;
 
-XI.- Protocolo: El conjunto de tomos ordenados numérica y cronológicamente, en los que el Notario Público, observando los requisitos establecidos en la presente ley, asienta las actas notariales y escrituras públicas que se otorguen ante su fe pública. El Protocolo es abierto por cuanto lo forman folios encuadernables;
+> <small>(REFORMADA, D.O. 19 DE FEBRERO DE 2013)</small>
+
+XI.- Protocolo: El conjunto de tomos ordenados numérica y cronológicamente, en los que el Notario Público, observando los requisitos establecidos en la presente ley, asienta las actas notariales y escrituras públicas que se otorguen ante su fe pública. El Protocolo es abierto por cuanto lo forman hojas encuadernables;
 
 XII.- Protocolo electrónico: El conjunto de documentos, implementos y archivos electrónicos en que constan los hechos y actos autorizados por el Notario Público por cualquier medio electrónico, óptico o magnético, los libros que se formen con la impresión de ellos, sus índices y constancias de apertura y cierre;
 
@@ -123,7 +133,9 @@ Los fedatarios públicos están obligados a prestar sus servicios en los casos y
 
 El Fedatario Público actuará personalmente, sin perjuicio de apoyarse en sus auxiliares y hará constar, bajo su fe pública, en el acta notarial o escritura pública lo que los comparecientes deban o quieran dar autenticidad según las leyes, éstas deberán ser redactadas por él o por sus auxiliares, bajo su responsabilidad y estarán apegadas a los principios de veracidad, legalidad, probidad e imparcialidad. Asimismo, efectuará la calificación jurídica de los documentos que tenga a la vista y de la representación en términos de ley. Dichas constancias tendrán valor de verdad legal, salvo que por sentencia judicial ejecutoriada se demuestre lo contrario.
 
-El Fedatario Público tendrá la disposición, posesión, mando, uso y traslado de los instrumentos notariales a su cargo en los términos señalados en la presente ley; tratándose de los libros o folios del protocolo únicamente podrán ser trasladados a lugar distinto de la oficina de la notaría pública, bajo su más estricta responsabilidad, por el propio Notario Público, o bien por la persona previamente autorizada para ello; el Notario Público para el efecto señalado, podrá autorizar hasta tres personas que trabajen en su notaría pública, para lo cual sus nombres deberán ser registrados ante el Consejo de Notarios y en la Dirección del Archivo Notarial.
+> <small>(REFORMADO, D.O. 19 DE FEBRERO DE 2013)</small>
+
+El Fedatario Público tendrá la disposición, posesión, mando, uso y traslado de los instrumentos notariales a su cargo en los términos señalados en la presente ley; tratándose de los libros u hojas del protocolo únicamente podrán ser trasladados a lugar distinto de la oficina de la notaría pública, bajo su más estricta responsabilidad, por el propio Notario Público, o bien por la persona previamente autorizada para ello; el Notario Público para el efecto señalado, podrá autorizar hasta tres personas que trabajen en su notaría pública, para lo cual sus nombres deberán ser registrados ante el Consejo de Notarios y en la Dirección del Archivo Notarial.
 
 En caso de pérdida, extravío o robo de cualquier instrumento notarial, el Fedatario Público deberá dar aviso de inmediato al titular del Poder Ejecutivo del Estado, al Consejo de Notarios y dar parte al Ministerio Público.
 
@@ -135,7 +147,9 @@ En caso de pérdida, extravío o robo de cualquier instrumento notarial, el Feda
 
 Los fedatarios públicos deberán calcular, retener y enterar las contribuciones del orden federal, estatal y municipal que se causen con motivo del acto o convenio jurídico que autoricen en los términos y con las limitaciones establecidas en las leyes respectivas.
 
-No estarán obligados a autorizar el acta notarial o escritura pública, ni a expedir el testimonio del acto o hecho jurídico celebrado ante su fe pública, si los obligados conforme a la ley respectiva no cubren el importe de dichas contribuciones, salvo que la ley de que se trate, los haga solidariamente responsables de su pago.
+> <small>(REFORMADO, D.O. 19 DE FEBRERO DE 2013)</small>
+
+No estarán obligados a autorizar el acta notarial o escritura pública, ni a expedir el testimonio del acto o hecho jurídico celebrado ante su fe pública, si los obligados conforme a la ley respectiva no cubren el importe de dichas contribuciones.
 
 ###### Artículo 12.
 
@@ -367,17 +381,27 @@ Los fedatarios públicos podrán ejercer sus funciones las veinticuatro horas de
 
 Por la naturaleza de la función notarial, a los fedatarios públicos no se les considerará servidores públicos.
 
-El ejercicio de la función notarial se manifiesta de manera documental a través de las actuaciones que realice dentro y fuera de protocolo, archivo o libros, cuyos actos jurídicos sean considerados documentos públicos, siempre que las leyes respectivas le otorguen dicho carácter.
+> <small>(REFORMADO, D.O. 19 DE FEBRERO DE 2013)</small>
+
+El ejercicio de la función notarial se manifiesta de manera documental, digital o electrónica, a través de las actuaciones que realicen los notarios públicos dentro y fuera de protocolo, tomos, archivo o libros, cuyos actos jurídicos sean considerados documentos públicos, siempre que las leyes respectivas le otorguen dicho carácter.
 
 ###### Artículo 46.
 
 Al Fedatario Público le está prohibido ejercer la función notarial en los casos siguientes:
 
-I.- En asuntos en los que sea o haya sido parte una persona moral de la que el Fedatario Público sea o haya sido empleado, socio o accionista, en los 3 últimos años;
+> <small>(REFORMADA, D.O. 19 DE FEBRERO DE 2013)</small>
 
-II.- En el acto o hecho que por ley corresponda exclusivamente a un funcionario público. No obstante, podrán cotejar cualquier tipo de documentos, registros o expedientes relativos a algún proceso o ratificar firmas, y
+I.- En asuntos en los que sea parte una persona moral de la que el Fedatario Público sea empleado, apoderado, socio o accionista;
 
-III.- En actos que contengan disposiciones o estipulaciones que interesen al propio Fedatario Público, a su cónyuge o a sus parientes consanguíneos, afines o civiles en línea recta sin limitación de grado o parientes consanguíneos, colaterales o afines hasta el segundo grado o a personas de quienes alguno de éstos fuese apoderado o representante legal en el acto o convenio que se pretenda otorgar ante él.
+II.- En el acto o hecho que por ley corresponda exclusivamente a un funcionario público. No obstante, podrán cotejar cualquier tipo de documentos, registros o expedientes relativos a algún proceso o ratificar firmas, y (sic)
+
+> <small>(REFORMADA, D.O. 19 DE FEBRERO DE 2013)</small>
+
+III.- En actos que contengan disposiciones o estipulaciones que interesen al propio Fedatario Público, a su cónyuge o a sus parientes consanguíneos, afines o civiles en línea recta sin limitación de grado o parientes consanguíneos, colaterales o afines hasta el segundo grado o a personas de quienes alguno de éstos fuese apoderado o representante legal en el acto o convenio que se pretenda otorgar ante él, y
+
+> <small>(ADICIONADA, D.O. 19 DE FEBRERO DE 2013)</small>
+
+IV.- En asuntos en los que sea parte una persona física de la que el Fedatario Público sea apoderado, copropietario o empleado.
 
 Las prohibiciones previstas en este artículo para un Fedatario Público, también se aplicarán al que lo supla en el ejercicio de sus funciones.
 
@@ -449,9 +473,13 @@ III.- Establecer su oficina notarial para el desempeño de sus funciones, en el 
 
 IV.- Otorgar garantía, ante el Consejo de Notarios, respecto a las responsabilidades en que pudieren incurrir en el ejercicio de sus funciones, en los términos establecidos en esta ley y su reglamento.
 
+> <small>(REFORMADO, D.O. 19 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 55.
 
-Los notarios públicos con el fin de garantizar las responsabilidades en que pudieren incurrir en el ejercicio de sus funciones, crearán un fondo el cual será administrado por el Consejo de Notarios, en la forma y términos que señale el reglamento de esta ley.
+Los notarios públicos, con el fin de garantizar las responsabilidades en que pudieren incurrir en el ejercicio de sus funciones, están obligados a mantener vigente un seguro de responsabilidad civil profesional para notarios, en cualquiera de las instituciones de seguros de nacionalidad mexicana, por el importe que señale el reglamento, que deberá ser suficiente para garantizar los daños ocasionados en el ejercicio de sus funciones, y por todo el tiempo en que ejerzan ese cargo.
+
+Dicho seguro podrá ser sustituido por cualquier otro medio de garantía previsto en el Código Civil del Estado de Yucatán.
 
 ###### Artículo 56.
 
@@ -465,9 +493,11 @@ Los otorgantes de un acto ante Notario Público, podrán, a través de mensajes 
 
 Para el supuesto de que trata el párrafo anterior aplicará a personas físicas o morales y sujetos obligados que de conformidad a la ley sobre el uso de medios electrónicos y firma electrónica del Estado de Yucatán, estén autorizados para ello.
 
+> <small>(REFORMADO, D.O. 19 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 58.
 
-La firma autógrafa o electrónica acreditada en términos de la ley de la materia, y el sello son los medios por los cuales el Notario Público autorizará los documentos o actos en los que otorgue fe pública, atendiendo lo que respecto a documentos digitales y firma electrónica prevengan las leyes.
+La firma autógrafa o electrónica acreditada y el sello, son los medios que el Notario Público utilizará en los documentos en los que haga constar su fe pública, atendiendo a lo que respecto a documentos digitales y firma electrónica prevengan las leyes.
 
 ### CAPÍTULO V. De las Ausencias y Licencias de los Notarios Públicos
 
@@ -485,19 +515,27 @@ En caso de que el Notario Público no convenga la suplencia en el término seña
 
 Los convenios de suplencia de notarios públicos deberán ser comunicados por los interesados al Poder Ejecutivo del Estado y al Consejo de Notarios, y publicarse en el Diario Oficial del Gobierno del Estado un extracto del mismo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 19 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 62.
 
-Los notarios públicos podrán, sin necesidad de obtener licencia, separarse del ejercicio de sus funciones hasta por cuarenta y cinco días sucesivos o alternados en cada semestre del año, para lo cual darán aviso al Consejo de Notarios y al Poder Ejecutivo del Estado, quien a su vez lo publicará en el Diario Oficial del Gobierno del Estado. En el referido aviso se indicará la fecha en que el Notario Público reasumirá el ejercicio de su función notarial.
+Los notarios públicos podrán, sin necesidad de obtener licencia, separarse del ejercicio de sus funciones hasta por cuarenta y cinco días sucesivos o alternados en cada semestre del año, para lo cual darán aviso al Consejo de Notarios y al Poder Ejecutivo del Estado, quien a su vez lo publicará en el Diario Oficial del Gobierno del Estado de Yucatán, en los términos que señale el reglamento. En el referido aviso se indicará la fecha en que el Notario Público reasumirá el ejercicio de su función notarial.
 
 Tratándose de las ausencias temporales a que se refiere este artículo, el Notario Público será suplido por aquel Notario que haya sido designado en el convenio a que se refieren los artículos 59 y 60 de esta ley.
 
+> <small>(REFORMADO, D.O. 19 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 63.
 
-Los notarios públicos tienen derecho a solicitar y obtener del Poder Ejecutivo del Estado, licencia para estar separados de su cargo por un término que abarque más de cuarenta y cinco días y hasta un año, renunciable. En este caso el Notario Público será suplido por un aspirante a Notario que cuente con la patente debidamente otorgada, éste será nombrado por él mismo, siendo responsable de los actos en que intervenga.
+Los notarios públicos tienen derecho a solicitar, y obtener del Poder Ejecutivo del Estado, licencia para estar separados de su cargo por un término que abarque más de cuarenta y cinco días y hasta un año. En este caso el Notario Público será suplido por un aspirante a Notario que cuente con la patente respectiva vigente; éste será nombrado por el mismo notario titular y será responsable personal de los actos en que intervenga en el ejercicio de la suplencia.
+
+Los notarios públicos podrán renunciar en cualquier momento a las licencias obtenidas en términos del párrafo anterior.
+
+> <small>(REFORMADO, D.O. 19 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 64.
 
-En caso de que un Notario Público acepte ocupar, o sea electo para desempeñar un cargo o empleo público, deberá solicitar y obtener del Poder Ejecutivo del Estado, la licencia para separarse de su función notarial por todo el tiempo que dure su encargo. En este caso será suplido por un aspirante a Notario Público que cuente con la patente debidamente otorgada, éste será nombrado por el Notario Público que obtenga la licencia, el cual estará en funciones mientras dure el cargo o empleo público del Notario Público suplido y responderá de los actos en que intervenga.
+En caso de que un Notario Público acepte ocupar, o sea electo para desempeñar un cargo o empleo público, deberá solicitar y obtener del Poder Ejecutivo del Estado, la licencia para separarse de su función notarial por todo el tiempo que dure su encargo. En este caso será suplido por un aspirante a Notario Público que será nombrado por el Notario Público que obtenga licencia. El Notario Público suplente estará en funciones mientras dure el cargo o empleo público del Notario Público suplido y responderá personalmente de los actos en que intervenga.
 
 ###### Artículo 65.
 
@@ -591,43 +629,59 @@ Cuando el Notario Público deje de estar en funciones por licencia, suspensión 
 
 La actividad notarial se desarrolla utilizando el sistema denominado protocolo abierto.
 
-El protocolo abierto se conforma por los libros encuadernados y por los folios numerados en los cuales el Notario Público asienta las actas notariales y escrituras públicas y demás actos notariales contemplados en esta ley.
+> <small>(REFORMADO, D.O. 19 DE FEBRERO DE 2013)</small>
+
+El protocolo abierto se conforma por los libros encuadernados y por las hojas numeradas en las cuales el Notario Público asienta las actas notariales y escrituras públicas y demás actos notariales contemplados en esta ley.
 
 Los sellos, índices, constancias de apertura y cierre de cada tomo, así como los soportes informáticos, también forman parte del protocolo.
 
+> <small>(REFORMADO, D.O. 19 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 78.
 
-El libro y sus folios tendrán las especificaciones técnicas dispuestas en el reglamento de esta ley.
+El libro y sus hojas tendrán las especificaciones técnicas dispuestas en el reglamento de esta ley.
+
+> <small>(REFORMADO, D.O. 19 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 79.
 
-Para asentar las actas notariales y escrituras públicas en los folios, deberán utilizarse procedimientos de escritura o impresión que sean firmes, indelebles y legibles. La parte utilizable del folio deberá aprovecharse al máximo posible, no deberán dejarse espacios en blanco y las líneas que se impriman deberán estar a igual distancia unas de otras, salvo cuando se trate de la reproducción de documentos, la que podrá hacerse ya sea transcribiendo a renglón cerrado o reproduciendo su imagen por cualquier medio firme e indeleble, incluyendo fotografías, planos y en general cualquier documento gráfico.
+Para asentar las actas notariales y escrituras públicas en las hojas, deberán utilizarse procedimientos de escritura o impresión que sean firmes, indelebles y legibles. La parte utilizable de la hoja deberá aprovecharse al máximo posible, no deberán dejarse espacios en blanco y las líneas que se impriman deberán estar a igual distancia unas de otras, salvo cuando se trate de la reproducción de documentos, la que podrá hacerse ya sea transcribiendo a renglón cerrado o reproduciendo su imagen por cualquier medio firme e indeleble, incluyendo fotografías, planos y en general cualquier documento gráfico.
+
+> <small>(REFORMADO, D.O. 19 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 80.
 
-El Notario Público solicitará al Consejo de Notarios, previo pago de los derechos, los folios de protocolo que requiera para cumplir con su función.
+El Notario Público solicitará al Consejo de Notarios, previo pago de los costos correspondientes, las hojas de protocolo que requiera para cumplir con su función.
+
+> <small>(REFORMADO, D.O. 19 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 81.
 
-Todos los folios del protocolo serán entregados al Notario Público por el Consejo de Notarios de conformidad con la presente ley y su reglamento.
+Todas las hojas del protocolo serán entregados al Notario Público por el Consejo de Notarios de conformidad con la presente ley y su reglamento.
+
+> <small>(REFORMADO, D.O. 19 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 82.
 
-Los notarios públicos iniciarán los libros del protocolo antes de la primera acta notarial, asentando una constancia de apertura. De igual forma se hará la constancia de cierre al terminar el libro o cuando se inutilicen los folios sobrantes que deban integrar los libros del Protocolo.
+Los notarios públicos iniciarán los libros del protocolo antes de la primera acta notarial, asentando una constancia de apertura. De igual forma se hará la constancia de cierre al terminar el libro o cuando se inutilicen las hojas sobrantes que deban integrar los libros del Protocolo.
 
 ###### Artículo 83.
 
 Los instrumentos notariales, libros y apéndices que integren el protocolo deberán ser numerados sucesivamente.
 
+> <small>(REFORMADO, D.O. 19 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 84.
 
-El Notario Público no podrá autorizar acto alguno sin que lo haga constar en los folios que forman el libro, salvo los que deban constar en los libros de registro de cotejos.
+El Notario Público no podrá autorizar acto alguno sin que lo haga constar en las hojas que forman el libro, salvo los que deban constar en los libros de registro de cotejos y de certificaciones de firmas.
+
+> <small>(REFORMADO, D.O. 19 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 85.
 
-No podrá llevarse a la vez más de un libro de un mismo tomo, aún cuando los folios de los demás libros ya obren en poder del Notario Público.
+No podrá llevarse a la vez más de un libro de un mismo tomo, aun cuando las hojas de los demás libros ya obren en poder del Notario Público.
 
-Una vez utilizados los folios de los libros que integran un tomo, el Notario Público podrá de inmediato actuar en los folios que formarán el siguiente libro.
+Una vez utilizadas las hojas de los libros que integran un tomo, el Notario Público podrá de inmediato actuar en las hojas que formarán el siguiente libro.
 
 ###### Artículo 86.
 
@@ -681,11 +735,21 @@ Los notarios públicos podrán extender en su protocolo actas notariales o escri
 
 Las actas de protocolización se realizarán por orden de autoridad o a pedimento de parte interesada.
 
+> <small>(REFORMADO, D.O. 19 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 96.
 
-La protocolización se llevará a efecto consignando en el acta un resumen general del negocio y otro especial de cada uno de los documentos que se protocolicen, o reproduciendo fotográficamente en las hojas del protocolo el documento respectivo, o bien, transcribiendo íntegramente el documento o los documentos de cuya protocolización se trate, según hubiere sido ordenado por la autoridad o lo pidieren los interesados y se expresará el número de fojas que contenga cada uno de los documentos protocolizados.
+La protocolización, según lo ordene la autoridad competente o lo soliciten los interesados, se podrá realizar por cualquiera de las siguientes formas:
 
-Cuando la protocolización se haga por resúmenes, se agregarán al apéndice del acta los originales de los documentos exhibidos o copias certificadas de los mismos.
+I.- Consignando en el acta un resumen general del negocio y otro especial de cada uno de los documentos que se protocolicen;
+
+II.- Reproduciendo fotográficamente en las hojas del protocolo el documento respectivo, o
+
+III.- Transcribiendo la parte conducente o íntegramente el documento de cuya protocolización se trate.
+
+En todos los casos se expresará el número de hojas que contenga cada uno de los documentos protocolizados.
+
+Cuando la protocolización se haga por resúmenes se agregará al apéndice del acta los originales de los documentos exhibidos o copias certificadas de los mismos.
 
 ###### Artículo 97.
 
@@ -699,9 +763,11 @@ Los documentos provenientes de otros países podrán ser protocolizados a solici
 
 Las sustituciones y las delegaciones de poderes o mandatos contendrán un resumen general del poder o mandato sustituido o delegado, en los términos establecidos en las leyes aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 19 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 100.
 
-En las revocaciones de poderes o mandatos otorgados ante Notario Público, además de cumplir con las obligaciones establecidas en el Código Civil, el Notario Público ante quien se otorgue la revocación, notificará al Fedatario Público, ante quien se otorgó el poder o mandato que se revoca, dentro de los tres días naturales siguientes a la fecha de su firma, para que este último, haga la anotación respectiva al margen o calce del poder revocado.
+Los notarios públicos ante quienes se otorguen revocaciones de poderes o mandatos, además de cumplir con las obligaciones establecidas en el Código Civil del Estado de Yucatán, notificarán personalmente o vía electrónica al Fedatario Público ante quien se otorgó el poder o mandato revocado, dentro de los tres días hábiles siguientes a la fecha de su firma, para que este último haga la anotación respectiva en nota complementaria del apéndice de la escritura del poder o mandato revocado.
 
 Si en razón de la fecha del otorgamiento del poder, el tomo donde conste, hubiere sido entregado a la Dirección de Archivo Notarial, la notificación se realizará a dicha institución para la anotación correspondiente. El Notario Público quedará relevado de la obligación contenida en este artículo, si el otorgante no pudiere identificar los datos de otorgamiento del poder o mandato, cuya revocación solicita.
 
@@ -709,9 +775,13 @@ Si en razón de la fecha del otorgamiento del poder, el tomo donde conste, hubie
 
 Cuando el acto jurídico de las actas notariales o escrituras públicas tenga por objeto bienes raíces, los notarios públicos relacionarán las cualidades actuales de los mismos con las que se les atribuyan en los respectivos títulos de propiedad procurando en todo caso que los datos que se consignen en las mismas se ajusten a las circunstancias reales de los predios. Se hará mención expresa de los gravámenes, restricciones al derecho de propiedad, así como cualquier otra carga que éstos reporten.
 
+> <small>(REFORMADO, D.O. 19 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 102.
 
-En todo contrato relativo a bienes raíces o derechos reales constituidos sobre ellos, que tenga por objeto su traslación de dominio o gravamen, se expresará si el bien está libre de gravamen y de restricciones al derecho de propiedad o bien cuáles son los que reporta, basándose en los datos del certificado respectivo del Registro Público de la Propiedad y del Comercio del Estado o aquel en el que esté inscrito el gravamen o la restricción; dicho certificado se acumulará al apéndice, cuya fecha deberá estar comprendida dentro de los diez días hábiles anteriores a la fecha del acta notarial o escritura pública, si fuere expedido en el Estado excepto cuando se trate de hipoteca, en cuyo caso se estará a lo dispuesto por las leyes aplicables en la materia.
+En todo contrato relativo a bienes raíces o derechos reales constituidos sobre ellos, que tenga por objeto su traslación de dominio o gravamen, se expresará si el bien está libre de gravamen y de restricciones al derecho de propiedad o bien cuáles son los que reporta, basándose en los datos del certificado respectivo que expida el Registro Público de la Propiedad y del Comercio del Estado o aquél en el que esté inscrito el gravamen o la restricción, el cual se acumulará al apéndice.
+
+La fecha de expedición del certificado a que se refiere el párrafo anterior, deberá estar comprendida dentro de los quince días hábiles anteriores a la fecha del acta notarial o escritura pública, si fuere expedido en el Estado.
 
 ###### Artículo 103.
 
@@ -761,9 +831,11 @@ Los notarios públicos pueden autorizar copias o testimonios impresos debidament
 
 ### CAPÍTULO X. De los Actos Notariales fuera de Protocolo
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 19 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 110.
 
-Los notarios públicos únicamente podrán autorizar actos fuera de:
+Los notarios públicos únicamente podrán realizar actos fuera de su protocolo en los casos siguientes:
 
 I.- Para certificar firmas o dar fe pública de la ratificación de las mismas;
 
@@ -781,9 +853,15 @@ VII.- Para reconocer firmas y documentos, y
 
 VIII.- Ratificar el convenio de mecanismos alternativos de solución de controversias, entre dos o más personas.
 
-El cotejo previsto en la fracción II de este artículo, no tendrá más efectos que acreditar como verdad legal la identidad de lo cotejado con el documento del cual proviene, sea éste en medio impreso o electrónico. Para su realización el Notario Público deberá cumplir con los requisitos que el reglamento de esta ley señale para el Libro de registro de cotejos.
+> <small>(REFORMADO, D.O. 19 DE FEBRERO DE 2013)</small>
+
+El cotejo previsto en la fracción II de este artículo, no tendrá más efectos que acreditar como verdad legal la identidad de lo cotejado con el documento del cual proviene, sea éste en medio impreso o electrónico.
 
 La autenticación o ratificación de firmas no tendrá más efectos que acreditar que las mismas fueron puestas por las personas a quienes se les atribuyen, sin calificar sobre la validez y licitud de los documentos que las contenga.
+
+> <small>(ADICIONADO, D.O. 19 DE FEBRERO DE 2013)</small>
+
+Para la realización de los actos previstos en las fracciones I y II de este artículo, el Notario Público deberá cumplir con los requisitos que el reglamento de esta ley señale para el Libro de Registro de Cotejos y de Certificaciones de Firmas.
 
 ###### Artículo 111.
 
@@ -799,7 +877,27 @@ En los términos de esta ley, pueden ser materia de la actuación del Notario P�
 
 I.- Todos los actos en los que no haya controversia judicial y los interesados soliciten voluntariamente al Notario Público, hacer constar bajo su fe pública, los acuerdos, hechos, situaciones y resoluciones de que se trate, siempre que la ley no establezca competencia exclusiva al Poder Judicial de Estado para conocer de estos casos, o cuando se deba de tener la intervención legal del Ministerio Público como representante social, de menores e incapaces, o cuando se afecten derechos de terceros, y
 
-II.- Los asuntos que de acuerdo al Código de Procedimientos Civiles de Yucatán, son de trámite en vía de jurisdicción voluntaria, salvo cuando se trate de alimentos provisionales que puedan afectar derechos de menores e incapaces o cuando deba de tener intervención legal el Ministerio Público como representante social.
+> <small>(REFORMADA, D.O. 19 DE FEBRERO DE 2013)</small>
+
+II.- Los asuntos que de acuerdo al Código de Procedimientos Civiles de Yucatán y al Código de Procedimientos Familiares del Estado de Yucatán, sean de trámite en vía de jurisdicción voluntaria, salvo cuando se trate de alimentos provisionales que puedan afectar derechos de menores e incapaces o cuando deba de tener intervención legal el Ministerio Público como representante social en términos de los artículos 847 del Código de Procedimientos Civiles de Yucatán o 680 del Código de Procedimientos Familiares del Estado de Yucatán, según corresponda.
+
+> <small>(ADICIONADO, D.O. 19 DE FEBRERO DE 2013)</small>
+
+###### Artículo 112 Bis.
+
+En los términos de esta ley, se consideran asuntos susceptibles de tramitación ante Notario Público mediante el ejercicio de su fe pública:
+
+I.- Las sucesiones testamentarias o intestadas en términos de lo dispuesto por el Capítulo I del Título Tercero del Libro Tercero del Código de Procedimientos Familiares del Estado de Yucatán;
+
+II.- La celebración y modificación de capitulaciones matrimoniales, siempre que no exista controversia entre los cónyuges, y
+
+III.- Los demás asuntos de acuerdo a lo dispuesto por el artículo anterior.
+
+> <small>(ADICIONADO, D.O. 19 DE FEBRERO DE 2013)</small>
+
+###### Artículo 112 Ter.
+
+El procedimiento notarial de los asuntos de jurisdicción voluntaria, se tramitará conforme a las disposiciones generales contenidas en el Código de Procedimientos Civiles de Yucatán o el Código de Procedimientos Familiares del Estado de Yucatán, según corresponda.
 
 ###### Artículo 113.
 
@@ -841,7 +939,9 @@ El Consejo de Notarios tendrá las siguientes atribuciones y obligaciones:
 
 I.- Coadyuvar con el Poder Ejecutivo del Estado a la debida observancia y vigilancia de esta ley;
 
-II.- Realizar las acciones necesarias tendientes a la obtención, autorización, custodia y entrega de los folios del protocolo abierto que requieran los notarios públicos, así como llevar y mantener actualizados los registros, archivos y datos estadísticos relacionados con el ejercicio de la función notarial;
+> <small>(REFORMADA, D.O. 19 DE FEBRERO DE 2013)</small>
+
+II.- Realizar las acciones necesarias tendientes a la obtención, autorización, custodia y entrega de las hojas del protocolo abierto que requieran los notarios públicos, así como llevar y mantener actualizados los registros, archivos y datos estadísticos relacionados con el ejercicio de la función notarial;
 
 III.- Proponer al Poder Ejecutivo del Estado reformas y adiciones legislativas para el mejor ejercicio de la función notarial;
 
@@ -877,7 +977,9 @@ Los escribanos públicos serán nombrados por el Poder Ejecutivo del Estado y du
 
 Los nombramientos para escribanos públicos se realizarán durante el mes de diciembre del año que corresponda, y entrarán en funciones el día primero de enero del año siguiente a la designación.
 
-El Ejecutivo del Estado, proveerá a los escribanos de identificación, dentro de los treinta días siguientes a la fecha de otorgamiento de la patente respectiva o de la fecha en que le sean solicitadas.
+> <small>(REFORMADO, D.O. 19 DE FEBRERO DE 2013)</small>
+
+El Poder Ejecutivo del Estado, proveerá a los escribanos de identificación, dentro de los treinta días siguientes a la fecha de otorgamiento del nombramiento respectivo o de la fecha en que le sea solicitado.
 
 ###### Artículo 120.
 
@@ -1007,7 +1109,9 @@ d) Por negarse injustificadamente a la prestación del servicio cuando hubiere s
 
 e) Por cualquier otro incumplimiento de esta ley no previsto en los siguientes incisos, y
 
-f) Por no mantener en buen resguardo los folios o libros del protocolo y sus apéndices.
+> <small>(REFORMADO, D.O. 19 DE FEBRERO DE 2013)</small>
+
+f) Por no mantener en buen resguardo las hojas o libros del protocolo y sus apéndices.
 
 Atendiendo a la gravedad respecto de los casos relacionados en las fracciones anteriores, el Poder Ejecutivo del Estado, podrá publicar la sanción correspondiente.
 
@@ -1015,7 +1119,9 @@ II.- Multa hasta por el equivalente de cien a trescientas veces el salario míni
 
 a) Por negarse sin causa justificada a la prestación de sus servicios, cuando haya sido expensado para ello;
 
-b) Por incumplimiento de las disposiciones sobre la conservación de las actas, folios o libros de protocolo, su encuadernación, apéndices o índices;
+> <small>(REFORMADO, D.O. 19 DE FEBRERO DE 2013)</small>
+
+b) Por incumplimiento de las disposiciones sobre la conservación de las actas, hojas o libros de protocolo, su encuadernación, apéndices o índices;
 
 c) Por realizar cualquier actividad incompatible en los términos de esta ley;
 
@@ -1135,9 +1241,11 @@ El procedimiento a seguir para aplicar lo dispuesto en este Capítulo se sujetar
 
 Se aplicará la sanción de tres meses a tres años y de diez a cincuenta días-multa además de las previstas en el artículo 290 del Código Penal del Estado, a quien careciendo de la patente de Fedatario Público en términos de esta ley se ostente como tal para ejercer en cualquier medio publicitario o por simular funciones inherentes a un Fedatario Público.
 
+> <small>(REFORMADO, D.O. 19 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 152.
 
-Se aplicará la misma pena establecida en el artículo anterior, a la persona que siendo Notario Público con patente de otra Entidad Federativa o del Distrito Federal, introduzca al Estado o conserve en su poder, por sí o por interpósita persona, libros de protocolo o folios de protocolo de otra Entidad, con la finalidad de llevar a cabo en el Estado actos que únicamente pueden realizar los notarios públicos en el Estado de Yucatán.
+Se aplicará la misma pena establecida en el artículo anterior, a la persona que siendo Notario Público con patente de otra Entidad Federativa o del Distrito Federal, introduzca al Estado o conserve en su poder, por sí o por interpósita persona, libros de protocolo o (sic) hojas de protocolo de otra Entidad, con la finalidad de llevar a cabo en el Estado actos que únicamente pueden realizar los notarios públicos en el Estado de Yucatán.
 
 ###### Artículo 153.
 
@@ -1149,9 +1257,11 @@ II.- Quien siendo Fedatario Público en ejercicio de sus funciones, a sabiendas,
 
 III.- Quien utilice indebidamente los instrumentos notariales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 19 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 154.
 
-Se impondrá la pena de prisión de tres meses a dos años y de diez a cien días-multa, al que utilice y conserve folios o libros de protocolos notariales, en oficinas distintas a la del Fedatario Público.
+Se impondrá la pena de prisión de tres meses a dos años y de diez a cien días-multa, al que utilice y conserve hojas o libros de protocolos notariales, en oficinas distintas a la del Fedatario Público.
 
 Al Fedatario Público que a sabiendas lo permita, se le aplicará el doble de dicha penalización, sin perjuicio de las demás sanciones que de conformidad a esta ley se haga acreedor. La misma sanción se impondrá a quien sin motivo fundado niegue la validez o fuerza probatoria de las actas otorgadas ante Fedatario Público y de los documentos certificados o ratificados por él.
 
@@ -1169,15 +1279,19 @@ A partir de la entrada en vigor de esta ley, queda abrogada la Ley del Notariado
 
 Los notarios públicos, a partir del día en que entre en vigor esta ley, contarán con un plazo de 30 días naturales para proveerse de su nuevo sello de autorización y de los folios que integrarán su Protocolo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 19 DE FEBRERO DE 2013)</small>
+
 ###### ARTÍCULO CUARTO.
 
-La utilización del Protocolo Abierto iniciará dieciocho meses después de la entrada en vigor de esta ley. No obstante los notarios públicos podrán continuar utilizando el sistema denominado protocolo cerrado, hasta por un plazo no mayor a 3 años a partir del inicio del sistema de protocolo abierto.
+La utilización del Protocolo Abierto iniciará dieciocho meses después de la entrada en vigor de esta Ley. No obstante los Notarios Públicos podrán continuar utilizando el sistema denominado protocolo cerrado, hasta por un plazo no mayor a diez años a partir de la fecha de inicio del sistema de protocolo abierto.
 
 En ambos casos, la numeración con la que el Notario Público inicie el Protocolo Abierto será el número uno.
 
+> <small>(REFORMADO, D.O. 19 DE FEBRERO DE 2013)</small>
+
 ###### ARTÍCULO QUINTO.
 
-Transcurridos tres años a partir del inicio del sistema de Protocolo Abierto, concluido o no el volumen trabajado con el sistema de Protocolo Cerrado, el Notario Público deberá efectuar el acta de cierre e iniciará el uso del Protocolo Abierto.
+Transcurridos diez años a partir del inicio del sistema de Protocolo Abierto, concluido o no el volumen trabajado con el sistema de Protocolo Cerrado, el Notario Público deberá efectuar el acta de cierre e iniciará el uso del Protocolo Abierto.
 
 ###### ARTÍCULO SEXTO.
 
@@ -1217,7 +1331,7 @@ Por única ocasión, el Consejo de Notarios a elegirse en el mes de diciembre de
 
 ESTA HOJA DE FIRMAS FORMA PARTE DEL DECRETO MEDIANTE EL CUAL EL PODER EJECUTIVO DEL ESTADO DE YUCATÁN PROMULGA LA LEY DEL NOTARIADO DEL ESTADO DE YUCATÁN.
 
-DADO EN LA SEDE DEL RECINTO DEL PODER LEGISLATIVO, EN LA CIUDAD DE MÉRlDA, YUCATÁN, ESTADOS UNIDOS MEXICANOS, A LOS VEINTISÉIS DÍAS DEL MES DE AGOSTO DEL AÑO DOS MIL DIEZ. PRESIDENTE DIPUTADO VÍCTOR EDMUNDO CABALLERO DURÁN, SECRETARIO DIPUTADO RENÁN ALBERTO BARRERA CONCHA, Y SECRETARIA DIPUTADA MARTHA LETICIA GÓNGORA SÁNCHEZ. RÚBRICAS."
+DADO EN LA SEDE DEL RECINTO DEL PODER LEGISLATIVO, EN LA CIUDAD DE MÉRIDA, YUCATÁN, ESTADOS UNIDOS MEXICANOS, A LOS VEINTISÉIS DÍAS DEL MES DE AGOSTO DEL AÑO DOS MIL DIEZ. PRESIDENTE DIPUTADO VÍCTOR EDMUNDO CABALLERO DURÁN, SECRETARIO DIPUTADO RENÁN ALBERTO BARRERA CONCHA, Y SECRETARIA DIPUTADA MARTHA LETICIA GÓNGORA SÁNCHEZ. RÚBRICAS."
 
 Y, POR TANTO, MANDO SE IMPRIMA, PUBLIQUE Y CIRCULE PARA SU CONOCIMIENTO Y DEBIDO CUMPLIMIENTO.
 
@@ -1234,3 +1348,23 @@ GOBERNADORA DEL ESTADO DE YUCATÁN
 C. VÍCTOR MANUEL SÁNCHEZ ÁLVAREZ
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O. 19 DE FEBRERO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Ejecutivo del Estado contará con 90 días hábiles para realizar las adecuaciones al Reglamento de la Ley del Notariado del Estado de Yucatán.
+
+###### ARTÍCULO TERCERO.
+
+Con motivo de la entrada en vigor del Libro de Registro de Cotejos y Certificaciones de Firmas, los Notarios Públicos deberán poner constancias de cierre en los Libros de Registro de Cotejos que estuvieren empleando. A partir de la fecha de la constancia de cierre podrá seguir trabajando en el mismo libro que en razón de la presente reforma se denominará Libro de Registro de Cotejos y Certificaciones de Firmas, abriendo la correspondiente constancia de apertura.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones que se opongan a este Decreto.
