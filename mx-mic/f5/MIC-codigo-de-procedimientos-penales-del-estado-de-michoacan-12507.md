@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-procedimientos-penales-del-estado-de-michoacan-12507"
 country: "mx"
 rank: "codigo"
 publication_date: "1998-08-31"
-last_updated: "2012-02-01"
+last_updated: "2013-02-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12507&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE MICHOACÁN
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE MICHOACÁN DE OCAMPO, PUBLICADO EN LA QUINTA SECCIÓN DEL P.O. DE 13 DE ENERO DE 2012, EL PRESENTE ORDENAMIENTO QUEDARÁ ABROGADO EL 22 DE OCTUBRE DE 2015.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2013.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Michoacán, el lunes 31 de agosto de 1998.
 
@@ -4363,33 +4363,47 @@ La implementación del sistema procesal penal acusatorio en el Estado será regi
 
 Maravatío, Zitácuaro.
 
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2013)</small>
+
 ###### ARTÍCULO TERCERO.
 
-El 21 de febrero de 2013 entrará en vigor el presente Decreto en la región Morelia (sic).
+El 3 de febrero de 2014 entrará en vigor el presente Decreto en la región de Morelia.
+
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2013)</small>
 
 ###### ARTÍCULO CUARTO.
 
-El 21 de agosto de 2013 entrará en vigor el presente Decreto en la región Zamora (sic).
+El 25 de agosto de 2014 entrará en vigor el presente Decreto en la región de Uruapan.
+
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2013)</small>
 
 ###### ARTÍCULO QUINTO.
 
-El 7 de marzo de 2014 entrará en vigor el presente Decreto en la región Uruapan (sic).
+El 12 de enero de 2015 entrará en vigor el presente Decreto en la región de Apatzingán.
+
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2013)</small>
 
 ###### ARTÍCULO SEXTO.
 
-El 30 de septiembre de 2014 entrará en vigor el presente Decreto en la región Lázaro Cárdenas (sic).
+El 29 de junio de 2015 entrará en vigor el presente Decreto en la región de Zamora.
+
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2013)</small>
 
 ###### ARTÍCULO SÉPTIMO.
 
-El 19 de agosto de 2015 entrará en vigor el presente Decreto en la región de Zitácuaro.
+El 11 de enero de 2016 entrará en vigor el presente Decreto en la región de Lázaro Cárdenas.
+
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2013)</small>
 
 ###### ARTÍCULO OCTAVO.
 
-El 22 de octubre de 2015 entrará en vigor el presente Decreto en la región de Apatzingán.
+El 13 de junio de 2016 entrará en vigor el presente Decreto en la región de Zitácuaro.
+
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2013)</small>
 
 ###### ARTÍCULO NOVENO.
 
-El 22 de octubre de 2015 se abroga el Código de Procedimientos Penales del Estado de Michoacán, publicado el 31 de agosto de 1998 en el Periódico Oficial del Gobierno Constitucional de (sic) Estado de Michoacán de Ocampo, rigiendo únicamente para los asuntos o causas iniciados con anterioridad a la implementación de este ordenamiento en cada región.
+El 13 de junio de 2016 se abroga el Código de Procedimientos Penales del Estado de Michoacán, publicado el 31 de agosto de 1998 en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, rigiendo únicamente para los asuntos o causas iniciados con anterioridad a la implementación de este ordenamiento en cada región.
 
 ###### ARTÍCULO DÉCIMO.
 
@@ -4442,3 +4456,9 @@ El Congreso del Estado de Michoacán de Ocampo, realizará las reformas, adicion
 ###### ARTÍCULO SEXTO.
 
 Se derogan aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE FEBRERO DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
