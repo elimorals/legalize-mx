@@ -4,7 +4,7 @@ identifier: "YUC-codigo-del-registro-civil-8140"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-03-17"
-last_updated: "2010-01-28"
+last_updated: "2013-02-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8140&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "YUC"
 ---
 # CODIGO DEL REGISTRO CIVIL
 
-CODIGO DEL REGISTRO CIVIL
+CÓDIGO DEL REGISTRO CIVIL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE ENERO DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE YUCATÁN, PUBLICADA EN EL D.O. DE 19 DE FEBRERO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-Código publicado en el Diario Oficial el Lunes 17 de Marzo de 1986.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: ABROGADO.
+
+Código publicado en el Diario Oficial del Estado de Yucatán, el lunes 17 de marzo de 1986.
 
 GOBIERNO DEL ESTADO
 
@@ -429,7 +431,7 @@ V.- La declaración que el Oficial del Registro Civil haga de que ha quedado dis
 
 El Oficial del Registro Civil que reciba copia de la sentencia ejecutoria de divorcio a que se refiere el artículo 199, Fracción II, del Código Civil, levantará acta en que consten los puntos resolutivos del fallo, la autoridad que lo dictó y la fecha del mismo, con los datos a que se refieren las fracciones I y II del artículo anterior. Se cumplirá además lo dispuesto en el artículo 57 de este Código, respecto a la anotación en el acta de matrimonio.
 
-> <small>(REFORMADA SU DENOMINACION, D.O. 23 DE ENERO DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 23 DE ENERO DE 2003)</small>
 
 ### CAPITULO X
 
@@ -747,7 +749,7 @@ EL SECRETARIO DE GOBIERNO
 
 ABOG. ORLANDO A. PAREDES LARA
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
 D.O. 13 DE DICIEMBRE DE 1999.
 
@@ -790,3 +792,25 @@ Los juicios de pérdida de patria potestad que se encuentren en trámite a la en
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones de igual o menor rango que se opongan a lo dispuesto por este Decreto.
+
+D.O. 19 DE FEBRERO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Esta Ley entrará en vigor el día 20 de febrero del año 2013, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+###### ARTÍCULO SEGUNDO.
+
+A partir de la entrada en vigor de esta Ley, se abroga el Código del Registro Civil del Estado de Yucatán, expedido mediante Decreto número 336 publicado en el Diario Oficial del Gobierno del Estado de Yucatán, el día 7 de marzo del año de 1986.
+
+###### ARTÍCULO TERCERO.
+
+El Titular del Poder Ejecutivo del Estado deberá expedir el Reglamento de la Ley del Registro Civil del Estado de Yucatán, en un plazo no mayor a 180 días contados a partir de la entrada en vigor de esta Ley.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan las disposiciones del Código Civil del Estado de Yucatán, contenidas en el Capítulo I denominado "Del Registro Civil"; el Capítulo 11 denominado "De los Nacimientos"; el Capítulo V denominado "De las Defunciones"; los tres capítulos pertenecientes al Título Segundo denominado "Del Estado Civil", del Libro Primero, denominado "De las Personas".
+
+###### ARTÍCULO QUINTO.
+
+Todos los procedimientos, juicios y demás asuntos relacionados con algún acto o hecho del estado civil que se encuentren en trámite a la entrada en vigor de esta Ley, se continuarán substanciando y resolverán hasta su total conclusión, de conformidad con las normas aplicables al momento en que fueron iniciados.
