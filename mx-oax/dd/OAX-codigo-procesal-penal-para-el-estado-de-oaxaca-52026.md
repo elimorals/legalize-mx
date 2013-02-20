@@ -4,7 +4,7 @@ identifier: "OAX-codigo-procesal-penal-para-el-estado-de-oaxaca-52026"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-09"
-last_updated: "2013-02-15"
+last_updated: "2013-02-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52026&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,11 @@ state: "OAX"
 ---
 # CODIGO PROCESAL PENAL PARA EL ESTADO DE OAXACA
 
-CODIGO PROCESAL PENAL PARA EL ESTADO DE OAXACA
+CÓDIGO PROCESAL PENAL PARA EL ESTADO DE OAXACA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DEL CODIGO PROCESAL PENAL PARA EL ESTADO DE OAXACA, PUBLICADO EN EL P.O. DE 9 DE SEPTIEMBRE DE 2006, 5 DE SEPTIEMBRE DE 2009, 2 DE MARZO DE 2010, 23 DE AGOSTO DE 2010 Y 5 DE MAYO DE 2011, EL PRESENTE ORDENAMIENTO ENTRARA EN VIGOR SUCESIVAMENTE EN LOS TERMINOS SEÑALADOS EN EL PROPIO TRANSITORIO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL CÓDIGO PROCESAL PENAL PARA EL ESTADO DE OAXACA, PUBLICADO EN EL P.O. DE 9 DE SEPTIEMBRE DE 2006, 5 DE SEPTIEMBRE DE 2009, 2 DE MARZO DE 2010, 23 DE AGOSTO DE 2010 Y 5 DE MAYO DE 2011, EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR SUCESIVAMENTE EN LOS TÉRMINOS SEÑALADOS EN EL PROPIO TRANSITORIO.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE OCTUBRE DE 2012.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIODICO OFICIAL DEL 15 DE FEBRERO DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2013.
 
 Código publicado en la Cuarta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de septiembre de 2006.
 
@@ -101,7 +99,7 @@ Cuando el imputado esté privado de su libertad, el encargado de custodiarlo com
 
 Defensa técnica
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
 Desde el primer momento de la persecución penal y hasta el fin de la ejecución de la sentencia el imputado deberá ser asistido y defendido por un licenciado en derecho, con independencia, en su caso, de que quiera defenderse por sí mismo.
 
@@ -621,7 +619,7 @@ Quien no haya podido observar un plazo por causa no atribuible a él o por fuerz
 
 Duración del proceso
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
 El proceso penal por delito cuya pena máxima de prisión no exceda de dos años, deberá tramitarse en el plazo de cuatro meses, y antes de un año si la pena excediere de este tiempo, tomando en cuenta el tiempo que transcurre desde el momento en que se dicta el auto de vinculación a proceso hasta el dictado de la sentencia; salvo que la defensa pida uno mayor.
 
@@ -1305,7 +1303,7 @@ VI. Si por su edad, condición física o psíquica, se le dificulta gravemente s
 
 VII. A recibir asesoría jurídica, protección especial de su integridad física o psíquica, con inclusión de su familia inmediata, cuando reciba amenazas o corra peligro en razón del papel que cumple en el proceso penal;
 
-> <small>N. DE E. EN RELACION A LA ENTRADA EN VIGOR LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2010)</small>
 
@@ -1461,7 +1459,7 @@ La declaración y la consecuente orden de aprehensión, en su caso, serán dispu
 
 Efectos
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
 La declaración de sustracción a la acción de la justicia o de incapacidad suspenderá las audiencias de vinculación formal al proceso, preparatoria del debate, y del debate, salvo que corresponda, en este último caso, el procedimiento para aplicar una medida de seguridad.
 
@@ -1539,7 +1537,7 @@ Los errores materiales serán corregidos durante el acto o después de él.
 
 Derecho de elección
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
 El imputado tendrá el derecho de elegir como defensor a un licenciado en derecho de su preferencia. Si no lo hace, el juez le designará un defensor público desde el primer acto del proceso.
 
@@ -1733,13 +1731,13 @@ En todo caso, el tribunal puede proceder de oficio cuando favorezca la libertad 
 
 Proporcionalidad
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
 Con la salvedad de lo dispuesto para la prisión preventiva oficiosa, no se podrá ordenar una medida de coerción personal cuando ésta resulte desproporcionada en relación con las circunstancias de comisión del hecho atribuido, al peligro que trata de resguardar y a la sanción probable.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
-> <small>(DEROGADO TERCER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 165.
 
@@ -1807,7 +1805,7 @@ La policía y el Ministerio Público, bajo su más estricta responsabilidad, pod
 
 Medidas
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
 Salvo en los casos de la prisión preventiva oficiosa, a solicitud del Ministerio Público o de la víctima, y en la forma, bajo las condiciones y por el tiempo que se fija en este Código, el juez puede imponer al imputado, después de escuchar sus razones, las siguientes medidas de coerción:
 
@@ -1897,7 +1895,7 @@ Así como el delito de tortura, previsto en el artículo 1 y sancionado en los a
 
 Imposición a solicitud de parte
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
 A excepción de lo señalado para la prisión preventiva de oficio, el juez podrá imponer, a solicitud del Ministerio Público o de la víctima, una sola de las medidas de coerción previstas en este Código o combinar varias de ellas, según resulte adecuado al caso, y dictar las órdenes necesarias para garantizar su cumplimiento. La prisión preventiva, no podrá combinarse con otras medidas de coerción.
 
@@ -1987,13 +1985,13 @@ A solicitud del Ministerio Público, el juez puede ordenar la internación del i
 
 Restricciones a la prisión preventiva
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
 La prisión preventiva no podrá exceder del tiempo que como máximo de pena fije la ley al delito que motivare el proceso y en ningún caso será superior a dos años, salvo lo previsto en el artículo 189 (suspensión de los plazos de prisión preventiva) de este Código. Si cumplido este término no se ha pronunciado sentencia, el imputado será puesto en libertad de inmediato mientras se sigue el proceso, sin que ello obste para imponer otras medidas de coerción.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
-> <small>(DEROGADO TERCER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
 No puede ordenarse la prisión preventiva de una persona mayor de setenta años. Tampoco procede ordenarla en contra de mujeres embarazadas, de madres durante la lactancia o de personas afectadas por una enfermedad grave y terminal.
 
@@ -2045,7 +2043,7 @@ Para levantar la medida de coerción, el imputado deberá comprometerse formalme
 
 Pensión alimenticia
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
 Cuando se haya ordenado la separación del domicilio, el juez, a petición de parte, dispondrá por un mes el depósito de una cantidad de dinero a título de alimentos, la cual deberá exhibir el imputado en un plazo de ocho días.
 
@@ -2059,7 +2057,7 @@ Fijada la cuota, el juez, de oficio, enviará testimonio de lo actuado a la auto
 
 Revisión, sustitución, modificación y cancelación de las medidas
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
 Salvo lo dispuesto sobre prisión preventiva oficiosa, el juez, aún de oficio y en cualquier estado del proceso, por resolución fundada revisará, sustituirá, modificará o cancelará las medidas de coerción personal y las circunstancias de su imposición, de conformidad con las reglas establecidas en este Código, cuando así se requiera por haber variado las condiciones que justificaron su imposición.
 
@@ -2069,7 +2067,7 @@ Si la garantía prestada es de carácter real y es sustituida por otra, ésta se
 
 Revisión de la prisión preventiva y de la internación
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
 El imputado y su defensor pueden solicitar en cualquier momento, la revisión de la prisión preventiva que no se impuso de oficio, cuando estimen que no subsisten las circunstancias por las cuales se acordó, para lo cual deberán señalar las nuevas razones y las pruebas en que se sustente la petición. Si en principio el juez estima necesaria la realización de la audiencia, ésta se celebrará dentro de las cuarenta y ocho horas contadas a partir de la presentación de la solicitud de revisión.
 
@@ -2193,11 +2191,11 @@ El cumplimiento de lo acordado extingue la acción penal.
 
 Principios de legalidad procesal y oportunidad
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
 El Ministerio Público deberá ejercer la acción penal en todos los casos en que sea procedente, con arreglo a las disposiciones de la ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
 No obstante, el Ministerio Público podrá prescindir, total o parcialmente de la persecución penal, que se limite a alguno o a varios hechos o a alguna de las personas que participaron en su realización, cuando:
 
@@ -2675,11 +2673,11 @@ Si es preciso, la inspección podrá practicarse con el auxilio de peritos. Al a
 
 La persona como objeto de prueba
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
 Si fuere necesario para constatar circunstancias decisivas para la investigación, podrán efectuarse exámenes corporales del imputado, del afectado por el hecho punible o de otras personas, tales como pruebas de carácter biológico, extracciones de sangre u otros análogos, siempre que otorguen su consentimiento, no fuere de temer menoscabo para la salud o dignidad del interesado y que tenga como fin la investigación del hecho punible.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
 > <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
@@ -2817,7 +2815,7 @@ Siempre que sea posible el Ministerio Público autorizará a la defensa y a sus 
 
 El dictamen pericial estará debidamente sustentado, y contendrá, de manera clara y precisa, una relación detallada de las operaciones practicadas y de sus resultados, las observaciones de las partes o las de sus consultores técnicos y las conclusiones que se formulen respecto de cada tema estudiado. El dictamen se presentará por escrito, firmado y fechado, independientemente de la declaración que deberá rendir el perito durante las audiencias.
 
-> <small>N. DE E. EN RELACION A LA ENTRADA EN VIGOR EL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR EL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2010)</small>
 
@@ -2913,7 +2911,7 @@ Al concluir la entrevista se hará saber al testigo la obligación que tiene de 
 
 Casos de admisión
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
 Si durante la investigación o después de haberla cerrado, existan bases razonables para estimar como probable que algún testigo no podrá concurrir a la audiencia de debate del juicio oral, por vivir en el extranjero, o por haber sido amenazado o coaccionado en cualquier sentido o por existir motivo que hiciere temer su muerte, su incapacidad física o mental que le impidiese declarar, o algún otro obstáculo semejante, las partes podrán solicitar al Juez o, en su caso, al tribunal de juicio oral, que se reciba su declaración anticipadamente. El desahogo de prueba anticipada podrá realizarse desde la audiencia en la que se decida la vinculación a proceso y hasta antes de la celebración de la audiencia de juicio oral.
 
@@ -2997,7 +2995,7 @@ En los casos de actuaciones policiales, la policía levantará un registro en el
 
 Estas actas no podrán reemplazar a las declaraciones de los agentes de policía en el debate.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
 #### Sección 8. VINCULACIÓN DEL IMPUTADO A PROCESO
 
@@ -3005,7 +3003,7 @@ Estas actas no podrán reemplazar a las declaraciones de los agentes de policía
 
 Imputación inicial
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
 El Ministerio Público solicitará al juez la vinculación del imputado a proceso cuando, de conformidad con los avances de la investigación, estime necesaria la intervención judicial para asegurar los derechos y garantías procesales del imputado.
 
@@ -3115,7 +3113,7 @@ Al término de la misma el juez, observando las formalidades que este Código di
 
 Efectos de la vinculación a proceso
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
 El auto de vinculación a proceso producirá los siguientes efectos:
 
@@ -3237,7 +3235,7 @@ A solicitud de cualquiera de las partes, el juez podrá decretar la reapertura d
 
 Sobreseimiento total y parcial
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
 El sobreseimiento será total cuando se refiera a todos los delitos y a todos los imputados, y parcial cuando se refiera a algún delito o a algún imputado, de los varios a que se hubiere extendido la investigación y que hubieren sido objeto de vinculación a proceso.
 
@@ -3313,7 +3311,7 @@ El Ministerio Público, antes de presentar la acusación al juez, pondrá en con
 
 Citación a la audiencia intermedia
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
 Presentada la acusación, el juez ordenará su notificación con copia de aquella a todas las partes y citará, dentro de las veinticuatro horas siguientes, a la audiencia intermedia, la que deberá tener lugar en un plazo no inferior a veinte ni superior a treinta días, contados a partir de la notificación. Al acusado se le informará que puede consultar los antecedentes acumulados durante la investigación, y que están en poder del Ministerio Público.
 
@@ -3325,7 +3323,7 @@ El tercero civilmente responsable, en su caso, será emplazado a esta audiencia 
 
 Actuación de la víctima
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
 Presentada la acusación y hasta quince días antes de la fecha fijada para la realización de la audiencia intermedia, la víctima podrá:
 
@@ -3341,7 +3339,7 @@ III. Concretar sus pretensiones, ofrecer prueba para el juicio y cuantificar el 
 
 Parte coadyuvante
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
 Si la víctima se constituye en parte coadyuvante deberá formular su acusación por escrito y le serán aplicables, en lo conducente, las formalidades previstas para la acusación del Ministerio Público.
 
@@ -3787,7 +3785,7 @@ Deberá informarse a las personas mencionadas de la facultad de abstención ante
 
 Deber de guardar secreto
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 2009)</small>
 
 Es inadmisible el testimonio de personas que, respecto del objeto de su declaración, tengan el deber de guardar secreto con motivo del conocimiento en razón del oficio o profesión, tales como los ministros religiosos, abogados, notarios, periodistas, médicos, psicólogos, farmacéuticos, enfermeros y demás auxiliares de las ciencias médicas, así como los funcionarios públicos sobre información que no es susceptible de divulgación según las leyes de la materia.
 
@@ -4303,7 +4301,7 @@ En lo no previsto y siempre que no se opongan a las primeras, se aplicarán las 
 
 Procedencia
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
 El procedimiento abreviado se tramitará únicamente a solicitud del Ministerio Público, en los casos en que el imputado admita el hecho que le atribuyera aquél en su escrito de acusación, consienta en la aplicación de este procedimiento y la parte coadyuvante, en su caso, no presente oposición fundada.
 
@@ -4319,7 +4317,7 @@ Se escuchará a la víctima u ofendido de domicilio conocido, a pesar de que no 
 
 Oportunidad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
 El Ministerio Público podrá formular la acusación y solicitar la apertura del procedimiento abreviado, en la misma audiencia en la que se haya determinado la vinculación del imputado a proceso.
 
@@ -4329,7 +4327,7 @@ El Ministerio Público formulará la acusación si no lo ha hecho, la cual conte
 
 La calificación jurídica del hecho que formule el Ministerio Público al solicitar el procedimiento abreviado, deberá ser la misma que se precisó en el auto de vinculación a proceso, a no ser que nuevos elementos de convicción sustenten una variación fundada de aquélla.
 
-> <small>(DEROGADO CUARTO PARRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
 > <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
@@ -4373,7 +4371,7 @@ Se dictará sentencia condenatoria cuando exista una base fáctica suficiente pa
 
 El procedimiento abreviado no impedirá la concesión de alguna de las medidas sustitutivas consideradas en la ley, cuando correspondiere.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
 ### CAPÍTULO III. PROCEDIMIENTO PARA INIMPUTABLES
 
@@ -4585,7 +4583,7 @@ Se excluyen los casos de feminicidio, homicidio doloso, violación, violencia in
 
 Reglas generales
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
 Las resoluciones judiciales serán recurribles sólo por los medios y en los casos expresamente establecidos en este código.
 
@@ -4605,7 +4603,7 @@ III. Casación.
 
 Condiciones de interposición
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
 Los recursos se interpondrán en las condiciones de tiempo y forma que se determinan en este Código, con indicación específica de los motivos y fundamentos que atañen a la parte o partes impugnadas de la resolución recurrida. El recurso deberá sustentarse en el reproche de los defectos que causan la afectación.
 
@@ -4631,7 +4629,7 @@ Si el escrito de interposición del recurso no cumple con los requisitos a que s
 
 Legitimación
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
 Las partes sólo pueden impugnar las decisiones judiciales a que se refiere este Código, siempre que no hayan contribuido a provocar el vicio.
 
@@ -4791,7 +4789,7 @@ VIII. La que niegue un anticipo de prueba solicitada hasta antes del dictado del
 
 Interposición
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
 El recurso de apelación se interpondrá por escrito ante el mismo juez que dictó la resolución, dentro del plazo de tres días.
 
@@ -4801,7 +4799,7 @@ Cuando el tribunal competente para conocer de la apelación tenga su sede en un 
 
 Emplazamiento y elevación
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
 Presentado el recurso, el tribunal emplazará a las otras partes para que en el plazo de tres días lo contesten por escrito, pronunciándose tanto sobre la admisibilidad del recurso, como sobre sus motivos y fundamentos.
 
@@ -4817,7 +4815,7 @@ Excepcionalmente, el tribunal competente podrá solicitar otras copias o las act
 
 Trámite
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
 Recibidas las actuaciones, sin necesidad de audiencia, el tribunal competente, dentro de las veinticuatro horas siguientes, resolverá sobre la admisión del recurso y de las adhesiones si las hubiere.
 
@@ -4863,7 +4861,7 @@ II. El sobreseimiento dictado por el tribunal de juicio oral durante la audienci
 
 Interposición
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
 El recurso de casación será interpuesto por escrito ante el tribunal que dictó la resolución y dentro del plazo de diez días de notificada.
 
@@ -4883,7 +4881,7 @@ Interpuesto el recurso, el tribunal que dictó la sentencia emplazará a los int
 
 Trámite
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
 Recibidas las actuaciones en el tribunal competente, dentro de los cinco días inmediatos decidirá la admisibilidad del recurso y de las adhesiones; y en los diez días siguientes la procedencia de la cuestión planteada, siempre que no correspondiere convocar a audiencia oral.
 
@@ -4895,7 +4893,7 @@ Si el tribunal estima que el recurso o la adhesión no son admisibles, así lo d
 
 Audiencia oral
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
 Si al interponer el recurso, al contestarlo o al adherirse a él, alguno de los interesados considera necesario exponer oralmente sus argumentos, cuando deba recibirse prueba, o bien, cuando el tribunal lo estime útil, éste citará a una audiencia oral dentro de los quince días de recibidas las actuaciones.
 
@@ -5241,13 +5239,9 @@ Si se suscita controversia sobre la restitución o su forma, se dispondrá que l
 
 ## ARTICULOS TRANSITORIOS
 
-> <small>(REFORMADO, P.O. 5 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2013)</small>
 
-PRIMERO.- Entrada en Vigor
-
-Este Código entrará en vigor doce meses después de su publicación en el Periódico Oficial del Gobierno del Estado, sucesivamente en las regiones del Istmo y la Mixteca; y a partir del día nueve de mayo del año dos mil doce, consecutivamente, cada año en los distritos de las regiones de la Costa, Cuenca y Valles Centrales.
-
-En una segunda etapa, el Proceso Penal de Corte Acusatorio Adversarial, se implementará en las regiones de la Cañada, la Sierra Norte y la Sierra Sur, en caso de que las partidas presupuestales lo permitan, los periodos para que entre en vigencia podrán reducirse, previo Decreto de la Cámara de Diputados.
+PRIMERO. Este Código entrará en vigor sucesivamente en las regiones del Estado de la siguiente manera: doce meses después de su publicación en el Periódico Oficial del Gobierno del Estado en la región del Istmo; dos años después de su publicación en la región Mixteca; el 9 de Mayo de 2012 en la región de la Costa; el 27 de Septiembre de 2013 en la región de la Cuenca, y a partir de esta última fecha consecutivamente, cada año siguiente, en las regiones de Valles Centrales, Cañada, Sierra Norte y Sierra Sur. En caso de que las partidas presupuestales lo permitan los periodos para que entre en vigencia podrán reducirse, previo decreto de la Cámara de Diputados.
 
 SEGUNDO. Derogaciones
 
@@ -5401,7 +5395,7 @@ LIC. HELIODORO CARLOS DÍAZ ESCARRAGA.
 
 Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 31 DE AGOSTO DE 2007.
 
@@ -5446,3 +5440,7 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. El Procurador General de Justicia del Estado, expedirá el Protocolo Especializado para la Investigación del delito de Feminicidio, dentro de seis meses contados a partir del día siguiente a la entrada en vigor de este Decreto.
 
 TERCERO. Para la debida implementación del presente Decreto, se destinarán los recursos necesarios en el Presupuesto de Egresos del Estado de Oaxaca, para su ejecución a las instituciones correspondientes.
+
+P.O. 20 DE FEBRERO DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
