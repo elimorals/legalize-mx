@@ -4,7 +4,7 @@ identifier: "CHH-codigo-de-procedimientos-civiles-del-estado-de-chihuahua-9883"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2013-02-02"
+last_updated: "2013-02-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9883&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CHH"
 ---
 # CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE CHIHUAHUA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE FEBRERO DE 2013 EN EL P.O. DEL ESTADO CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE CHIHUAHUA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2013.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 20 DE FEBRERO DE 2013.</small>
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -641,15 +641,15 @@ b).- Tres días para todos los demás casos.
 
 Cuando un litigante cambiare de domicilio, deberá designar el nuevo; y mientras no lo hiciere, las notificaciones personales se le seguirán haciendo en el domicilio que conste en autos. Esto mismo se aplicará a todas las demás personas que con cualquier carácter diverso del de partes, intervenga en el litigio, salvo cuando se trate de autoridades.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE FEBRERO DE 2013 EN EL P.O. DEL ESTADO DE CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 119.- Se notificará personalmente en el domicilio del interesado:
 
 a).- El emplazamiento del demandado y la primera notificación en el juicio, aunque sean diligencias preparatorias o se trate de terceros extraños al juicio.
 
-b).- El auto que ordene la absolución de posiciones o el reconocimiento de documentos.
+b).- (DEROGADO, P.O. 2 DE FEBRERO DE 2013) (F. DE E., P.O. 20 DE FEBRERO DE 2013)
 
-c).- (DEROGADO, P.O. 2 DE FEBRERO DE 2013)
+> <small>(F. DE E., P.O. 20 DE FEBRERO DE 2013)</small>
+
+c).- La primera resolución que se dicte cuando se dejare de actuar más de dos meses por cualquier motivo.
 
 d).- (DEROGADO, P.O. 2 DE FEBRERO DE 2013)
 
