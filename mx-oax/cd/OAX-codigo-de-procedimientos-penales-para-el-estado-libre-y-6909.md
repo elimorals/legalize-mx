@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-procedimientos-penales-para-el-estado-libre-y-6909"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2013-02-15"
+last_updated: "2013-02-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6909&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,11 +25,9 @@ state: "OAX"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL PENAL PARA EL ESTADO DE OAXACA, PUBLICADO EN EL P.O. DE 9 DE SEPTIEMBRE DE 2006, 5 DE SEPTIEMBRE DE 2009, 2 DE MARZO DE 2010, 23 DE AGOSTO DE 2010 Y 5 DE MAYO DE 2011, EL PRESENTE ORDENAMIENTO QUEDARÁ ABROGADO EN LOS TÉRMINOS DEL TRANSITORIO PRIMERO DEL NUEVO CÓDIGO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL PENAL PARA EL ESTADO DE OAXACA, PUBLICADO EN EL P.O. DE 9 DE SEPTIEMBRE DE 2006, 5 DE SEPTIEMBRE DE 2009, 2 DE MARZO DE 2010, 23 DE AGOSTO DE 2010, 5 DE MAYO DE 2011 Y 20 DE FEBRERO DE 2013, EL PRESENTE ORDENAMIENTO QUEDARÁ ABROGADO EN LOS TÉRMINOS DEL TRANSITORIO PRIMERO DEL NUEVO CÓDIGO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2012.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 15 DE FEBRERO DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2013.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -4339,13 +4337,9 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publica
 
 P.O. 9 DE SEPTIEMBRE DE 2006.
 
-> <small>(REFORMADO, P.O. 5 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2013)</small>
 
-PRIMERO.- Entrada en Vigor
-
-Este Código entrará en vigor doce meses después de su publicación en el Periódico Oficial del Gobierno del Estado, sucesivamente en las regiones del Istmo y la Mixteca; y a partir del día nueve de mayo del año dos mil doce, consecutivamente, cada año en los distritos de las regiones de la Costa, Cuenca y Valles Centrales.
-
-En una segunda etapa, el Proceso Penal de Corte Acusatorio Adversarial, se implementará en las regiones de la Cañada, la Sierra Norte y la Sierra Sur, en caso de que las partidas presupuestales lo permitan, los periodos para que entre en vigencia podrán reducirse, previo Decreto de la Cámara de Diputados.
+PRIMERO.- Este Código entrará en vigor sucesivamente en las regiones del Estado de la siguiente manera: doce meses después de su publicación en el Periódico Oficial del Gobierno del Estado en la región del Istmo; dos años después de su publicación en la región Mixteca; el 9 de Mayo de 2012 en la región de la Costa; el 27 de Septiembre de 2013 en la región de la Cuenca, y a partir de esta última fecha consecutivamente, cada año siguiente, en las regiones de Valles Centrales, Cañada, Sierra Norte y Sierra Sur. En caso de que las partidas presupuestales lo permitan los periodos para que entre en vigencia podrán reducirse, previo decreto de la Cámara de Diputados.
 
 SEGUNDO. Derogaciones
 
@@ -4530,3 +4524,7 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. El Procurador General de Justicia del Estado, expedirá el Protocolo Especializado para la Investigación del delito de Feminicidio, dentro de seis meses contados a partir del día siguiente a la entrada en vigor de este Decreto.
 
 TERCERO. Para la debida implementación del presente Decreto, se destinarán los recursos necesarios en el Presupuesto de Egresos del Estado de Oaxaca, para su ejecución a las instituciones correspondientes.
+
+P.O. 20 DE FEBRERO DE 2013.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
