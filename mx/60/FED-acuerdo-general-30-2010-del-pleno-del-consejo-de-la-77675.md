@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-30-2010-del-pleno-del-consejo-de-la-77675"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2010-12-15"
-last_updated: "2012-05-23"
+last_updated: "2013-02-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77675&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2010-12-03"
 
 ACUERDO GENERAL 30/2010, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE EL PROCEDIMIENTO Y LINEAMIENTOS GENERALES PARA ACCEDER AL CARGO DE JUEZ DE DISTRITO, MEDIANTE CONCURSOS INTERNOS DE OPOSICIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE MAYO DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ACUERDO GENERAL 6/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE EL PROCEDIMIENTO Y LINEAMIENTOS GENERALES PARA ACCEDER AL CARGO DE JUEZ DE DISTRITO, MEDIANTE CONCURSOS INTERNOS DE OPOSICIÓN, PUBLICADO EN EL D.O.F. DE 20 DE FEBRERO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: ABROGADO.
 
 Acuerdo publicado en la Cuarta Sección del Diario Oficial de la Federación, el miércoles 15 de diciembre de 2010.
 
@@ -926,3 +928,13 @@ PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en la página web del Consejo, de la Corte y del Tribunal Electoral.
 
 TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato, el texto de esta reforma, al Acuerdo General 30/2010, del Pleno del Consejo de la Judicatura Federal, que establece el procedimiento y lineamientos generales para acceder al cargo de Juez de Distrito, mediante concursos internos de oposición.
+
+D.O.F. 20 DE FEBRERO DE 2013.
+
+PRIMERO. El presente acuerdo entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, en la página web del Consejo de la Judicatura Federal y en la del Instituto, así como en su sede y extensiones.
+
+TERCERO. Se abroga el Acuerdo General 30/2010 del Pleno del Consejo de la Judicatura Federal y demás disposiciones que se opongan al presente.
+
+CUARTO. Los concursos internos de oposición que a la fecha de entrada en vigor de este acuerdo se encuentren en trámite, continuarán realizándose conforme a la convocatoria y al acuerdo aplicable al concurso de que se trate.
