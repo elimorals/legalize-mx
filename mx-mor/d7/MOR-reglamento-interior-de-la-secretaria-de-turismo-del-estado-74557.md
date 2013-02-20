@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-turismo-del-estado-7455
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-04-21"
-last_updated: "2010-04-21"
+last_updated: "2013-02-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74557&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE TURISMO DEL ESTADO DE MORELOS
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE TURISMO
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE TURISMO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE TURISMO, PUBLICADO EN EL P.O. DE 20 DE FEBRERO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 21 de abril de 2010.
 
@@ -456,3 +458,15 @@ SECRETARIO DE TURISMO.
 LIC. HUGO SALGADO CASTAÑEDA
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 20 DE FEBRERO DE 2013.
+
+PRIMERA. El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado.
+
+SEGUNDA. Se abroga el Reglamento Interior de la Secretaría de Turismo, publicado en el Periódica Oficial "Tierra y Libertad" número 4798 de fecha 21 de abril de 2010 y todas las disposiciones administrativas de igual o menor rango que se opongan al presente Reglamento.
+
+TERCERA. En el plazo de ciento treinta días hábiles contados a partir del inicio de la vigencia del presente Reglamento, el Secretario de Turismo deberá expedir los manuales administrativos de conformidad con las disposiciones legales y administrativas aplicables.
+
+CUARTA. En tanto se actualizan los manuales a que se refiere este Reglamento, el Secretario tendrá facultada (sic) para resolver, para fines administrativos, las cuestiones de procedimiento y operación que se originen por la aplicación de este ordenamiento legal.
