@@ -4,7 +4,7 @@ identifier: "SLP-acuerdo-general-octagesimo-sexto-del-pleno-del-consejo-de-92357
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-01-31"
-last_updated: "2013-01-31"
+last_updated: "2013-02-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92357&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # ACUERDO GENERAL OCTAGESIMO SEXTO DEL PLENO DEL CONSEJO DE LA JUDICATURA, QUE ESTABLECE LOS CRITERIOS PARA LA DEPURACION DOCUMENTAL DEL PODER JUDICIAL DEL ESTADO
 
-ACUERDO GENERAL OCTAGÉSIMO (SIC) SEXTO DEL PLENO DEL CONSEJO DE LA JUDICATURA, QUE ESTABLECE LOS CRITERIOS PARA LA DEPURACIÓN DOCUMENTAL DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ.
+ACUERDO GENERAL OCTAGÉSIMO SEXTO DEL PLENO DEL CONSEJO DE LA JUDICATURA, QUE ESTABLECE LOS CRITERIOS PARA LA DEPURACIÓN DOCUMENTAL DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ.
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL CUARTO TRANSITORIO DEL REGLAMENTO GENERAL DE ARCHIVOS DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ, PUBLICADO EN EL P.O. DE 21 DE FEBRERO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Acuerdo publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el 31 de enero de 2013.
 
@@ -31,7 +33,7 @@ PODER JUDICIAL DEL ESTADO
 
 CONSEJO DE LA JUDICATURA.
 
-ACUERDO GENERAL OCTAGÉSIMO (SIC) SEXTO DEL PLENO DEL CONSEJO DE LA JUDICATURA, QUE ESTABLECE LOS CRITERIOS PARA LA DEPURACIÓN DOCUMENTAL DEL PODER JUDICIAL DEL ESTADO.
+ACUERDO GENERAL OCTAGÉSIMO SEXTO DEL PLENO DEL CONSEJO DE LA JUDICATURA, QUE ESTABLECE LOS CRITERIOS PARA LA DEPURACIÓN DOCUMENTAL DEL PODER JUDICIAL DEL ESTADO.
 
 CONSIDERANDOS
 
@@ -47,7 +49,7 @@ QUINTO. Que el objetivo del presente acuerdo es mejorar las políticas instituci
 
 Por lo anterior expuesto, el Pleno del Consejo de la Judicatura del Poder Judicial del Estado emite el siguiente:
 
-ACUERDO GENERAL OCTAGÉSIMO (SIC) SEXTO DEL PLENO DEL CONSEJO DE LA JUDICATURA, QUE ESTABLECE LOS CRITERIOS PARA LA DEPURACIÓN DOCUMENTAL DEL PODER JUDICIAL DEL ESTADO.
+ACUERDO GENERAL OCTAGÉSIMO SEXTO DEL PLENO DEL CONSEJO DE LA JUDICATURA, QUE ESTABLECE LOS CRITERIOS PARA LA DEPURACIÓN DOCUMENTAL DEL PODER JUDICIAL DEL ESTADO.
 
 ###### Artículo 1.
 
@@ -224,3 +226,15 @@ LIC. CARLOS ALEJANDRO PONCE RODRÍGUEZ
 Secretario Ejecutivo de Pleno y Carrera Judicial del Consejo de la Judicatura
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE FEBRERO DE 2013.
+
+PRIMERO. Publíquese el presente reglamento en el Periódico Oficial del Estado.
+
+SEGUNDO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+TERCERO. El Pleno emitirá la normatividad necesaria para darle cumplimiento al presente Reglamento, incluyendo los lineamientos y políticas que regulen el servicio de préstamo y consulta de documentos.
+
+CUARTO. Se abrogan: el Reglamento del Archivo Judicial publicado en edición extraordinaria del Periódico Oficial del Estado el 25 veinticinco de junio del 2009 dos mil nueve; el Acuerdo General Cuadragésimo Primero que crea el Comité de Información y desaparece la Comisión de Transparencia y Acceso a la Información, ambos del Poder Judicial del Estado, publicado el 31 de mayo del 2008; el Acuerdo General Quincuagésimo Segundo, por el cual se dota de atribuciones a la Coordinación de Archivos del Poder Judicial del Estado, del 7 de abril de 2009; el Acuerdo General Quincuagésimo Noveno que establece los criterios para la depuración del acervo documental del Archivo Judicial, publicado el 24 de septiembre del 2009; el Acuerdo CJPJESLP 1049/2010 que modifica el Acuerdo General Quincuagésimo Noveno, publicado el 22 de julio de 2010; el Acuerdo General Septuagésimo Séptimo del Pleno del Consejo de la Judicatura del Poder Judicial del Estado de San Luis Potosí, que establece los criterios básicos para identificar y dictaminar el carácter de documentos históricos en los Archivos del Poder Judicial del Estado., (sic) aprobado en sesión de 24 de mayo del 2011; el Acuerdo General Octogésimo Sexto del Pleno del Consejo de la Judicatura, que establece los criterios para la depuración documental del Poder Judicial del Estado, aprobado en sesión de 3 de julio del 2012. Así como todas aquellas disposiciones administrativas que se opongan a lo contenido en el presente.
