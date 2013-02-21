@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2012-08-31"
+last_updated: "2013-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # CODIGO PENAL DEL ESTADO DE MEXICO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA MEDIANTE DECRETO 51, EL 28 DE FEBRERO DE 2013 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE FEBRERO DE 2013.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -739,11 +741,9 @@ Si el inculpado al rendir su declaración en la audiencia de juicio confiesa esp
 
 Si el inculpado de un delito patrimonial, paga espontáneamente la reparación del daño antes de que concluya la audiencia de juicio, el órgano jurisdiccional, atendiendo a las circunstancias especiales del hecho, podrá reducir hasta en una mitad la pena.
 
-> <small>(DEROGADO CUARTO PÁRRAFO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.G. 21 DE FEBRERO DE 2013)</small>
 
-> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2007)</small>
-
-La reducción a que se refiere este artículo no se concederá en delitos de secuestro, homicidio doloso con modificativas que lo califiquen o lo agraven, violación y robo que ocasione la muerte.
+La reducción a que se refiere este artículo no se concederá en delitos de extorsión, secuestro, homicidio doloso con modificativas que lo califiquen o lo agraven, violación y robo que ocasione la muerte.
 
 ### CAPITULO II. CASOS DE TENTATIVA
 
@@ -843,11 +843,13 @@ En caso de concurso se impondrá la pena correspondiente al delito que merezca l
 
 ### CAPITULO VI. CASOS DE REINCIDENCIA Y HABITUALIDAD
 
-> <small>(REFORMADO, G.G. 26 DE SEPTIEMBRE DE 2007)</small>
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE FEBRERO DE 2013 MEDIANTE DECRETO 51 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 69.
 
-La reincidencia y habitualidad referida en los artículos 19 y 20 será tomada en cuenta para la individualización de la pena y para el otorgamiento o no de los beneficios o de los sustitutivos penales que la ley prevé. No se otorgarán beneficios, sustitutivos, ni la suspensión de la pena de prisión cuando se trate de delitos de secuestro, homicidio doloso con modificativas que lo califiquen o lo agraven, violación y robo que cause la muerte.
+La reincidencia y habitualidad referida en los artículos 19 y 20 será tomada en cuenta para la individualización de la pena y para el otorgamiento o no de los beneficios o de los sustantivos penales que la ley prevé. No se otorgarán beneficios sustantivos, ni la suspensión de la pena de prisión cuando se trate de delitos de extorsión, secuestro, homicidio doloso con modificativas que lo califiquen o lo agraven, violación y robo que cause la muerte.
 
 > <small>(ADICIONADO, G.G. 18 DE MARZO DE 2011)</small>
 
@@ -2021,6 +2023,12 @@ III. Para eximirse de un servicio debido legalmente o de una obligación impuest
 
 IV. Certifique falsamente que una persona tiene una enfermedad u otro impedimento bastante para dispensarla de prestar un servicio que exija la ley o de cumplir una obligación que ésta impone para adquirir algún derecho.
 
+> <small>(ADICIONADO, G.G. 21 DE FEBRERO DE 2013)</small>
+
+###### Artículo 170 Bis.
+
+A quien por medio de la violencia física o moral obligue a un fedatario público a asentar en sus protocolos, actos o hechos que no correspondan a la realidad, con el propósito de obtener para sí o para otro, un provecho, beneficio o lucro indebido, se impondrá una pena de seis a doce años de prisión y de mil quinientos o tres mil días multa.
+
 ### CAPITULO III. DELITOS COMETIDOS EN EL EJERCICIO DE ACTIVIDADES PROFESIONALES O TECNICAS
 
 ###### Artículo 171.
@@ -2931,6 +2939,8 @@ d) Cuando exista la intención de realizar un delito sexual, independientemente 
 
 ### CAPITULO VI. EXTORSION
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 241.
 
 Comete el delito de homicidio el que priva de la vida a otro.
@@ -3323,15 +3333,19 @@ Las penas señaladas en el artículo anterior se incrementarán hasta en una mit
 
 ###### Artículo 266.
 
-Al que sin derecho obligue a otro a hacer, tolerar o dejar de hacer algo, obteniendo un lucro o beneficio para sí o para otro, se le impondrán de uno a siete años de prisión y de cuarenta a doscientos días multa.
+Al que sin derecho obligue a otro a hacer, tolerar o dejar de hacer algo, con la finalidad de obtener un lucro o beneficio para sí o para otro o causar un daño, se le impondrán de tres a nueve años de prisión y de cien a quinientos días multa.
 
-> <small>(ADICIONADO, G.G. 7 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO, G.G. 21 DE FEBRERO DE 2013)</small>
 
-Cuando este delito se cometa utilizando cualquier medio de comunicación mediante los cuales se pueda realizar la emisión, transmisión o recepción de signos, señales, escritos, imágenes, voz, sonidos o información de cualquier naturaleza que se efectúe por hilos, radioelectricidad, medios ópticos, físicos vía satelital, u otros sistemas electromagnéticos se le impondrán de tres a ocho años de prisión y de cuarenta a doscientos días multa.
+Cuando este delito se cometa utilizando cualquier medio de comunicación mediante los cuales se pueda realizar la emisión, transmisión o recepción de signos, señales, escritos, imágenes, voz, sonidos o información de cualquier naturaleza que se efectúe a través de hilos, medios de transmisión inalámbrica de ondas o señales electromagnéticas, medios ópticos, o cualquier medio físico, se le impondrán de cinco a diez años de prisión y de cien a quinientos días multa.
 
 > <small>(REFORMADO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
 
 Si en la comisión de este delito participa algún miembro de una corporación policíaca o servidor público, se impondrá además, la destitución e inhabilitación de dos a catorce años para desempeñar cualquier empleo, cargo o comisión pública.
+
+> <small>(ADICIONADO, G.G. 21 DE FEBRERO DE 2013)</small>
+
+Se impondrá además, una pena de dos a cinco años de prisión, cuando el sujeto activo del delito se haya ostentado como miembro de una asociación o grupo delictuoso.
 
 ### CAPITULO VI. DAÑO EN LOS BIENES
 
@@ -4782,6 +4796,14 @@ CUARTO.- El Titular del Ejecutivo del Estado y los Ayuntamientos, proveerán en 
 QUINTO.- Dentro del plazo de sesenta días hábiles, contados a partir de la entrada en vigor del presente Decreto, las autoridades en materia de tránsito, deberán contar con las terminales electrónicas establecidas en el presente Decreto.
 
 SEXTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 21 DE FEBRERO DE 2013.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
 
 ###### ARTÍCULO PRIMERO.
 
