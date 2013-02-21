@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-civiles-para-el-distrito-federal-642"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-01"
-last_updated: "2012-11-23"
+last_updated: "2013-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=642&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,9 +24,7 @@ issue_date: "1932-08-29"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 20 DE SEPTIEMBRE DE 2012.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL DEL 23 DE NOVIEMBRE DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 21 DE FEBRERO DE 2013.
 
 Código publicado en el Diario Oficial de la Federación los días 1o. al 21 de septiembre de 1932.
 
@@ -700,7 +698,9 @@ I.- Turnar el escrito por el cual se inicie un procedimiento, al juzgado que cor
 
 II.- Recibir los escritos de término que se presenten después de las horas de labores de los tribunales, y
 
-III.- Proporcionar servicio desde las nueve horas hasta las veintiún horas, durante los días señalados en el artículo 64 de este código y remitir los escritos que reciba al tribunal que corresponda, a más tardar al día siguiente.
+> <small>(REFORMADA, G.O. 21 DE FEBRERO DE 2013)</small>
+
+III.- Proporcionar servicio desde las nueve horas hasta las veinticuatro horas, durante los días señalados en el artículo 64 de este Código y remitir los escritos que reciba al tribunal que corresponda, a más tardar al día siguiente.
 
 > <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
 
@@ -1354,19 +1354,13 @@ Si en el domicilio señalado por el actor, no se encontrara el demandado o desti
 
 Tratándose de una segunda diligencia y pese al citatorio con antelación adherido, si nuevamente el demandado o destinatario del procedimiento judicial no se encontrare y no hubiere persona con quien entender la diligencia, entonces se procederá a realizar el emplazamiento por adhesión, que consistirá que el notificador dejará adherido en lugar visible al domicilio del demandado o destinatario del procedimiento judicial, las cédulas de notificación con las copias de traslado correspondientes así como el instructivo en el que se explique el motivo del emplazamiento por adhesión, mismo que tendrá las características de la cédula de notificación usual, dicho emplazamiento o notificación tendrá el carácter de personal.
 
-> <small>(ADICIONADO, G.O. 11 DE NOVIEMBRE DE 2008)</small>
+> <small>(DEROGADO PÁRRAFO SEXTO, G.O. 21 DE FEBRERO DE 2013)</small>
 
-Aunado a lo anterior, se deberá tomar fotografías convencionales o digitales del domicilio con las documentales citadas en los párrafos anteriores adheridas a este o cualquier otro medio tecnológico que pruebe que la notificación se llevó a cabo de forma legal, las fotografías o medios de prueba tecnológicos deberán ser debidamente certificados por el fedatario que lleve a cabo la diligencia bajo su más estricta responsabilidad.
+> <small>(DEROGADO PÁRRAFO SÉPTIMO, G.O. 21 DE FEBRERO DE 2013)</small>
 
-> <small>(ADICIONADO, G.O. 11 DE NOVIEMBRE DE 2008)</small>
+> <small>(DEROGADO PÁRRAFO OCTAVO, G.O. 21 DE FEBRERO DE 2013)</small>
 
-La diligencia señalada en el párrafo anterior deberá contar como medida de seguridad:
-
-Que el actor o interesado en compañía del actuario o notificador se presenten al domicilio auxiliados de dos testigos propuestos por la parte interesada, mismos que firmarán la cédula de notificación y las copias de traslado con tal carácter, anexando a la cédula de notificación en esta diligencia copia simple de sus identificaciones oficiales, documentos que también serán puestos a disposición del Ministerio Público adscrito al juzgado para que este se imponga de las actuaciones antes señaladas y manifieste lo que a su representación convenga, pudiendo en su caso iniciar indagatoria en contra del funcionario notificador, parte interesada y los testigos que llevaron a cabo la diligencia, si existieren elementos que prueben fehacientemente que la diligencia a su juicio se hizo de forma irregular y que deriven actos que pudieran tipificarse como delitos.
-
-> <small>(ADICIONADO, G.O. 11 DE NOVIEMBRE DE 2008)</small>
-
-Al arbitrio del juzgador y valorando los hechos planteados de la demanda incoada y pese a las circunstancias dadas en los párrafos anteriores, además se ordenará el emplazamiento por edictos, si lo estima necesario y respecto de las demás diligencias les surtirán efectos por boletín judicial.
+> <small>(DEROGADO PÁRRAFO NOVENO, G.O. 21 DE FEBRERO DE 2013)</small>
 
 > <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
 
@@ -10529,3 +10523,29 @@ El importe de $500,000.00 se adecuará para el año 2013 con base en la variaci�
 Cuarto. Los asuntos cuya demanda haya sido admitida con anterioridad a la entrada en vigor de las reformas a que se refiere el presente decreto, en los términos de los transitorios segundo y tercero, se tramitarán conforme a las disposiciones anteriores a él.
 
 Quinto. Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+G.O. 21 DE FEBRERO DE 2013.
+
+DECRETO POR EL QUE SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 65 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal para su conocimiento y en el Diario Oficial de la Federación para mayor difusión.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- Los asuntos cuya demanda haya sido presentada con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
+
+CUARTO.- Para su mayor difusión, ordénese su publicación en el Boletín Judicial del Tribunal Superior de Justicia del Distrito Federal.
+
+QUINTO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+G.O. 21 DE FEBRERO DE 2013.
+
+DECRETO POR EL QUE SE DEROGAN DIVERSAS DISPOSICIONES DEL ARTÍCULO 117 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal para su conocimiento y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- Los asuntos cuya demanda haya sido presentada con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
+
+CUARTO.- Se derogan las disposiciones que se opongan al presente Decreto.
