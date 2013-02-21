@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-transporte-y-vialidad-del-distrito-federal-26894"
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-26"
-last_updated: "2012-05-08"
+last_updated: "2013-02-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26894&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-12-12"
 
 LEY DE TRANSPORTE Y VIALIDAD DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 21 DE FEBRERO DE 2013.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 26 de diciembre del 2002.
 
@@ -210,7 +210,9 @@ Podrán ser órganos auxiliares de consulta de la Administración Pública en to
 
 Son órganos auxiliares de consulta de la Secretaría en todo lo relativo a la aplicación de la Presente Ley, las Comisiones Metropolitanas que se establezcan de conformidad con las disposiciones jurídicas y administrativas aplicables y el Consejo Asesor de Transporte y Vialidad.
 
-El Consejo Asesor de Transporte y Vialidad estará integrado por el Jefe de Gobierno, que será su Presidente, el Secretario de Transportes y Vialidad, que será el Secretario General, los Titulares de las Delegaciones, los integrantes de la mesa directiva de la Comisión de Vialidad y Tránsito Urbanos de la Asamblea Legislativa del Distrito Federal y un Pleno de Consejeros conformado en los términos de su instrumento de creación.
+> <small>(REFORMADO, G.O. 21 DE FEBRERO DE 2013)</small>
+
+El Consejo Asesor de Transporte y Vialidad estará integrado por el Jefe de Gobierno, que será su Presidente, el Secretario de Transportes y Vialidad, que será el Secretario General, los Titulares de las Delegaciones, los integrantes de la mesa directiva de la Comisión de Movilidad, Transporte y Vialidad de la Asamblea Legislativa del Distrito Federal y un Pleno de Consejeros conformado en los términos de su instrumento de creación.
 
 En todo lo no previsto por esta Ley, serán aplicables de forma supletoria la Ley de Régimen Patrimonial y del Servicio Público del Distrito Federal, la Ley Ambiental del Distrito Federal, la Ley de Desarrollo Urbano, la Ley de Procedimiento Administrativo del Distrito Federal, el Código Penal para el Distrito Federal, el Código Civil para el Distrito Federal, el Código de Procedimientos Penales para el Distrito Federal y el Código de Procedimientos Civiles para el Distrito Federal.
 
@@ -2413,3 +2415,11 @@ QUINTO.- La Secretaría, la Secretaría de Seguridad Pública y las Delegaciones
 SEXTO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SÉPTIMO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 21 DE FEBRERO DE 2013.
+
+Primero.- Los artículos PRIMERO y SEGUNDO del presente Decreto entrarán en vigor treinta días después de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
+
+Segundo.- El artículo TERCERO entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Tercero.- Remítase el presente decreto al Jefe de Gobierno del Distrito Federal para el efecto de su publicación respecto de los artículos PRIMERO y SEGUNDO, y para su promulgación y publicación respecto del artículo TERCERO, en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
