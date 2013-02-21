@@ -4,7 +4,7 @@ identifier: "SLP-acuerdo-general-quincuagesimo-noveno-que-establece-76284"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2009-09-24"
-last_updated: "2013-01-31"
+last_updated: "2013-02-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76284&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 ACUERDO GENERAL QUINCUAGÉSIMO NOVENO DEL PLENO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO, QUE ESTABLECE CRITERIOS PARA LA DEPURACIÓN DEL ACERVO DOCUMENTAL DEL ARCHIVO JUDICIAL DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL OCTAGÉSIMO (SIC) SEXTO DEL PLENO DEL CONSEJO DE LA JUDICATURA, QUE ESTABLECE LOS CRITERIOS PARA LA DEPURACIÓN DOCUMENTAL DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ, PUBLICADO EN EL P.O. DE 31 DE ENERO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL OCTAGÉSIMO (SIC) SEXTO DEL PLENO DEL CONSEJO DE LA JUDICATURA, QUE ESTABLECE LOS CRITERIOS PARA LA DEPURACIÓN DOCUMENTAL DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ, PUBLICADO EN EL P.O. DE 31 DE ENERO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO; Y REPUBLICADA POR EL ARTÍCULO CUARTO TRANSITORIO DEL REGLAMENTO GENERAL DE ARCHIVOS DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ, EN EL P.O. DE 21 DE FEBRERO DE 2013.</small>
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
@@ -146,3 +146,13 @@ P.O. 31 DE ENERO DE 2013.
 PRIMERO. Este acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. El presente Acuerdo, abroga el Acuerdo General Quincuagésimo Noveno del Pleno del Consejo de la Judicatura del Poder Judicial del Estado de San Luis Potosí, publicado en edición de 24 veinticuatro de septiembre del 2009 dos mil nueve, del Periódico Oficial del Estado y su modificación realizada mediante diverso Acuerdo CJPJESLP1049/2010, emanando de sesión del Pleno del Consejo de la Judicatura, del 15 quince de junio del 2010 dos mil diez.
+
+P.O. 21 DE FEBRERO DE 2013.
+
+PRIMERO. Publíquese el presente reglamento en el Periódico Oficial del Estado.
+
+SEGUNDO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+TERCERO. El Pleno emitirá la normatividad necesaria para darle cumplimiento al presente Reglamento, incluyendo los lineamientos y políticas que regulen el servicio de préstamo y consulta de documentos.
+
+CUARTO. Se abrogan: el Reglamento del Archivo Judicial publicado en edición extraordinaria del Periódico Oficial del Estado el 25 veinticinco de junio del 2009 dos mil nueve; el Acuerdo General Cuadragésimo Primero que crea el Comité de Información y desaparece la Comisión de Transparencia y Acceso a la Información, ambos del Poder Judicial del Estado, publicado el 31 de mayo del 2008; el Acuerdo General Quincuagésimo Segundo, por el cual se dota de atribuciones a la Coordinación de Archivos del Poder Judicial del Estado, del 7 de abril de 2009; el Acuerdo General Quincuagésimo Noveno que establece los criterios para la depuración del acervo documental del Archivo Judicial, publicado el 24 de septiembre del 2009; el Acuerdo CJPJESLP 1049/2010 que modifica el Acuerdo General Quincuagésimo Noveno, publicado el 22 de julio de 2010; el Acuerdo General Septuagésimo Séptimo del Pleno del Consejo de la Judicatura del Poder Judicial del Estado de San Luis Potosí, que establece los criterios básicos para identificar y dictaminar el carácter de documentos históricos en los Archivos del Poder Judicial del Estado., aprobado en sesión de 24 de mayo del 2011; el Acuerdo General Octogésimo Sexto del Pleno del Consejo de la Judicatura, que establece los criterios para la depuración documental del Poder Judicial del Estado, aprobado en sesión de 3 de julio del 2012. Así como todas aquellas disposiciones administrativas que se opongan a lo contenido en el presente.
