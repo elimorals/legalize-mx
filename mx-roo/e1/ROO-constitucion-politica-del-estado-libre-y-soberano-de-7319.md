@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2013-01-29"
+last_updated: "2013-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2013.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -529,25 +529,21 @@ Quedan prohibidas la pena de muerte, las de mutilación y de infamia, la marca, 
 
 ### CAPITULO II. De las Garantías Sociales
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2013)</small>
 
 ###### ARTICULO 31.
 
-Para la Organización y desenvolvimiento de la familia revisten un objeto particular de tutela, para el orden jurídico del Estado.
+La organización y desenvolvimiento de la familia revisten un objeto particular de tutela, para el orden jurídico del Estado.
 
-Es derecho correlacionado a la calidad de padres, la determinación libre, informada y responsable, acerca del número y espaciamiento de los hijos. Constituirá su especial incumbencia el deber de procurarles los cuidados y educación adecuados. El poder público dispondrá según el caso, los auxilios pertinentes para suplir las deficiencias en la asitencia (sic) de sus progenitores, tanto como para ofrecer orientación conveniente a los menores desprotegidos.
+Es derecho correlativo a la calidad de padres, la determinación libre, informada y responsable, acerca del número y espaciamiento de los hijos. Constituirá su especial incumbencia el deber de procurarles los cuidados y educación adecuados. El poder público dispondrá, según el caso, los auxilios pertinentes para suplir las deficiencias en la asistencia de sus progenitores, tanto como para ofrecer orientación conveniente a los menores desprotegidos.
 
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+Toda persona tiene derecho al acceso, disposición y saneamiento de agua para consumo personal y doméstico en forma suficiente, salubre, aceptable y asequible. El Estado garantizará este derecho y la ley definirá las bases, apoyos y modalidades para el acceso y uso equitativo y sustentable de los recursos hídricos, estableciendo su participación y la de los Municipios, así como la participación de la ciudadanía para la consecución de dichos fines.
 
-Toda persona tiene derecho individual y colectivamente a disfrutar de un medio ambiente en condiciones adecuadas para su desarrollo y bienestar, así como el deber de conservarlo en beneficio de las generaciones presentes y futuras.
+Toda persona tiene derecho a gozar individual y colectivamente de un medio ambiente sano para su desarrollo y bienestar, así como el deber de conservarlo en beneficio de las generaciones presentes y futuras.
 
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+Es una obligación fundamental del Estado, con la activa participación de la sociedad, garantizar que la población se desenvuelva en un ambiente sano. El Estado y los Municipios dictarán, en el ámbito de sus respectivas competencias, las medidas que deberán llevar a cabo las autoridades para garantizar su protección, preservación, restauración y mejoramiento.
 
-Es una obligación fundamental del Estado, con la activa participación de la sociedad, garantizar que la población se desenvuelva en un ambiente equilibrado. El Estado y los Municipios dictarán, en el ámbito de sus respectivas competencias, las medidas apropiadas que garanticen la preservación y restauración del equilibrio ecológico, la protección del medio ambiente y el aprovechamiento racional de los recursos naturales, con el fin de proteger y mejorar la calidad de vida de las personas, apoyándose en la indispensable solidaridad colectiva.
-
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
-
-Para quienes violen lo dispuesto en los párrafos anteriores en los términos que fije la Ley, se establecerán sanciones penales, o en su caso, administrativas, así como la obligación de reparar el daño.
+Para quienes violen lo dispuesto en el presente artículo en los términos que fije la Ley, se establecerán sanciones penales, o en su caso administrativas, así como la obligación de reparar el daño.
 
 > <small>(REFORMADO, P.O. 28 DE MAYO DE 2004)</small>
 
@@ -4292,3 +4288,7 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 29 DE ENERO DE 2013.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 21 DE FEBRERO DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
