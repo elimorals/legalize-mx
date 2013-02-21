@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-del-archivo-judicial-del-poder-judicial-del-69177"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-06-25"
-last_updated: "2009-06-25"
+last_updated: "2013-02-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69177&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # REGLAMENTO DEL ARCHIVO JUDICIAL DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSI
 
-REGLAMENTO DEL ARCHIVO JUDICIAL DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSI
+REGLAMENTO DEL ARCHIVO JUDICIAL DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL CUARTO TRANSITORIO DEL REGLAMENTO GENERAL DE ARCHIVOS DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ, PUBLICADO EN LA EDICIÓN EXTRAORDINARIA DEL P.O. DE 21 DE FEBRERO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 25 de junio de 2009.
 
@@ -153,7 +155,7 @@ El Archivo Judicial conducirá sus programas, proyectos y actividades conforme a
 
 ###### Artículo 10.
 
-EI Archivo Judicial proporcionará servicios de consulta conforme a lo establecido por la Ley Orgánica, las disposiciones aplicables en materia de transparencia y acceso a la información y este reglamento.
+El Archivo Judicial proporcionará servicios de consulta conforme a lo establecido por la Ley Orgánica, las disposiciones aplicables en materia de transparencia y acceso a la información y este reglamento.
 
 ###### Artículo 11.
 
@@ -458,3 +460,15 @@ Lic. Juan Miguel Chávez Vázquez.
 Secretario Ejecutivo de Pleno y Carrera Judicial del Consejo de la Judicatura.
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE FEBRERO DE 2013.
+
+PRIMERO. Publíquese el presente reglamento en el Periódico Oficial del Estado.
+
+SEGUNDO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+TERCERO. El Pleno emitirá la normatividad necesaria para darle cumplimiento al presente Reglamento, incluyendo los lineamientos y políticas que regulen el servicio de préstamo y consulta de documentos.
+
+CUARTO. Se abrogan: el Reglamento del Archivo Judicial publicado en edición extraordinaria del Periódico Oficial del Estado el 25 veinticinco de junio del 2009 dos mil nueve; el Acuerdo General Cuadragésimo Primero que crea el Comité de Información y desaparece la Comisión de Transparencia y Acceso a la Información, ambos del Poder Judicial del Estado, publicado el 31 de mayo del 2008; el Acuerdo General Quincuagésimo Segundo, por el cual se dota de atribuciones a la Coordinación de Archivos del Poder Judicial del Estado, del 7 de abril de 2009; Acuerdo General Quincuagésimo Noveno que establece los criterios para la depuración del acervo documental del Archivo Judicial, publicado el 24 de septiembre del 2009; el Acuerdo CJPJESLP 1049/2010 que modifica el Acuerdo General Quincuagésimo Noveno, publicado el 22 de julio de 2010; el Acuerdo General Septuagésimo Séptimo del Pleno del Consejo de la Judicatura del Poder Judicial del Estado de San Luis Potosí, que establece los criterios básicos para identificar y dictaminar el carácter de documentos históricos en los Archivos del Poder Judicial del Estado., aprobado en sesión de 24 de mayo del 2011; el Acuerdo General Octogésimo Sexto del Pleno del Consejo de la Judicatura, que establece los criterios para la depuración documental del Poder Judicial del Estado, aprobado en sesión de 3 de julio del 2012. Así como todas aquellas disposiciones administrativas que se opongan a lo contenido en el presente.
