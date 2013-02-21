@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-penales-para-el-estado-de-mexico-67092
 country: "mx"
 rank: "codigo"
 publication_date: "2009-02-09"
-last_updated: "2012-08-24"
+last_updated: "2013-02-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "MEX"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE MEXICO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN LA G.G. DE 28 DE FEBRERO DE 2013, NÚMERO 41, SECCIÓN OCTAVA, PÁGINAS 1 Y 2; DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE MÉXICO
 
 > <small>N. DE E. DE CONFORMIDAD CON EL DECRETO NO. 4 PUBLICADO EN LA G.G. DE 30 DE SEPTIEMBRE DE 2009, EL SISTEMA PROCESAL PENAL ACUSATORIO ADVERSARIAL Y ORAL HA SIDO INCORPORADO EN EL PRESENTE ORDENAMIENTO, Y ENTRARÁ EN VIGOR EN LOS SIGUIENTES PLAZOS Y DISTRITOS: 1) EL PRIMERO DE OCTUBRE DE DOS MIL NUEVE, EN LOS DISTRITOS JUDICIALES DE TOLUCA, LERMA, TENANCINGO Y TENANGO DEL VALLE; 2) EL PRIMERO DE ABRIL DE DOS MIL DIEZ, EN LOS DISTRITOS JUDICIALES DE CHALCO, OTUMBA Y TEXCOCO; 3) EL PRIMERO DE OCTUBRE DE DOS MIL DIEZ, EN LOS DISTRITOS JUDICIALES DE NETZAHUALCÓYOTL, EL ORO, IXTLAHUACA, SULTEPEC Y TEMASCALTEPEC; 4) EL PRIMERO DE ABRIL DE DOS MIL ONCE, EN LOS DISTRITOS JUDICIALES DE TLALNEPANTLA, CUAUTITLÁN Y ZUMPANGO; 5) EL PRIMERO DE OCTUBRE DE DOS MIL ONCE, EN LOS DISTRITOS JUDICIALES DE ECATEPEC DE MORELOS, JILOTEPEC Y VALLE DE BRAVO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 24 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE FEBRERO DE 2013.
 
 Código publicado en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el lunes 9 de febrero de 2009.
 
@@ -1073,9 +1075,9 @@ Procedencia
 
 Procederán los acuerdos reparatorios en los delitos culposos; aquellos en los que proceda el perdón de la víctima u ofendido; los de contenido patrimonial que se hayan cometido sin violencia sobre las personas; y en aquellos que tengan señalada una pena cuyo término medio aritmético no exceda de cinco años de prisión.
 
-> <small>(REFORMADO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.G. 21 DE FEBRERO DE 2013)</small>
 
-Se exceptúan de esta disposición el robo de vehículo automotor, robo a interior de casa habitación, los homicidios culposos producidos en accidentes de tránsito bajo el influjo de sustancias que alteren la capacidad de conducir vehículos o con motivo de la conducción de vehículo de motor de transporte público de pasajeros, de personal o escolar en servicio, cuando se ocasionen lesiones que pongan en peligro la vida a más de tres personas o se cause la muerte de dos o más personas.
+Se exceptúan de esta disposición la extorsión, el robo de vehículo automotor, robo a interior de casa habitación, los homicidios culposos producidos en accidentes de tránsito bajo el influjo de sustancias que alteren la capacidad de conducir vehículos o con motivo de la conducción de vehículo de motor de transporte público de pasajeros, de personal o escolar en servicio, cuando se ocasionen lesiones que pongan en peligro la vida a más de tres personas o se cause la muerte de dos o más personas.
 
 Si el delito afecta intereses difusos o colectivos, el ministerio público asumirá la representación para efectos del acuerdo reparatorio, cuando no se haya apersonado como víctima alguno de los sujetos autorizados en este código.
 
@@ -3997,6 +3999,8 @@ También, podrá formular la solicitud el imputado siempre y cuando se reúnan l
 
 La existencia de coimputados no impide la aplicación de estas reglas a alguno de ellos. Se escuchará a la víctima u ofendido de domicilio conocido, a pesar de que no se haya constituido como acusador coadyuvante, pero su criterio no será vinculante. La incomparecencia de la víctima u ofendido a la audiencia no impedirá que se resuelva sobre la apertura del procedimiento abreviado y, en su caso, se dicte la sentencia respectiva.
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN LA G.G. DE 28 DE FEBRERO DE 2013, NÚMERO 41, SECCIÓN OCTAVA, PÁGINAS 1 Y 2; DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 Oportunidad
 
 ###### Artículo 389.
@@ -4009,9 +4013,9 @@ El ministerio público manifestará su deseo de aplicar el procedimiento abrevia
 
 En caso de dictarse sentencia de condena, se aplicarán las penas mínimas previstas por la ley para el delito cometido, reducidas en un tercio, sin perjuicio de cualquier otro beneficio que proceda en términos del código penal.
 
-> <small>(REFORMADO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.G. 21 DE FEBRERO DE 2013)</small>
 
-Tratándose de los delitos de secuestro, homicidio doloso con modificativas que lo califiquen o lo agraven, el homicidio culposo de dos o más personas, violación, robo que ocasione la muerte, robo de vehículo automotor con violencia y robo cometido a interior de casa habitación con violencia, solamente se aplicarán las penas mínimas previstas por la ley para el delito cometido, con exclusión de cualquier otro beneficio.
+Tratándose de los delitos de extorsión, secuestro, homicidio doloso con modificativas que lo califiquen o lo agraven, el homicidio culposo de dos o más personas, violación, robo que ocasione la muerte, robo de vehículo automotor con violencia y robo cometido a interior de casa habitación con violencia, solamente se aplicarán las penas mínimas previstas por la ley para el delito cometido, con exclusión de cualquier otro beneficio.
 
 Verificación del juez
 
@@ -5140,3 +5144,11 @@ DECRETO NÚMERO 501, POR EL QUE SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 121 DEL
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+G.G. 21 DE FEBRERO DE 2013.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
