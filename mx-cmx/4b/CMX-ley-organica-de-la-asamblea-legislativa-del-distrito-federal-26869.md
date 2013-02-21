@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-asamblea-legislativa-del-distrito-federal-26
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-12-19"
-last_updated: "2013-01-03"
+last_updated: "2013-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26869&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-12-05"
 
 LEY ORGÁNICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 3 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 21 DE FEBRERO DE 2013.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 19 de diciembre de 2002.
 
@@ -1044,9 +1044,11 @@ XXVIII.- Salud y Asistencia Social;
 
 XXIX.- Seguridad Pública;
 
-> <small>(REFORMADA, G.O. 22 DE OCTUBRE DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XXX.- Transporte y Vialidad;
+> <small>(REFORMADA, G.O. 21 DE FEBRERO DE 2013)</small>
+
+XXX.- Movilidad, Transporte y Vialidad.
 
 > <small>(REFORMADA, G.O. 22 DE OCTUBRE DE 2009)</small>
 
@@ -1923,3 +1925,11 @@ Primero.- El presente Decreto entrará en vigor al día siguiente de su aprobaci
 Segundo.- Se derogan las disposiciones que contravengan al presente Decreto.
 
 Tercero.- Remítase al Jefe de Gobierno del Distrito Federal, para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+G.O. 21 DE FEBRERO DE 2013.
+
+Primero.- Los artículos PRIMERO y SEGUNDO del presente Decreto entrarán en vigor treinta días después de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
+
+Segundo.- El artículo TERCERO entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Tercero.- Remítase el presente decreto al Jefe de Gobierno del Distrito Federal para el efecto de su publicación respecto de los artículos PRIMERO y SEGUNDO, y para su promulgación y publicación respecto del artículo TERCERO, en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
