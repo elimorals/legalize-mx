@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-municipal-del-estado-de-baja-california-3580"
 country: "mx"
 rank: "ley"
 publication_date: "1953-12-31"
-last_updated: "2012-06-01"
+last_updated: "2013-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3580&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2013.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1953.
 
@@ -83,6 +83,12 @@ VI.- Fianza de persona física o moral que acredite su idoneidad y solvencia y s
 
 Los ingresos del Municipio se dividen en ordinarios y extraordinarios. Son ordinarios los impuestos, derechos, productos y aprovechamientos que prevean las Leyes de Ingresos. Son extraordinarios los que se decreten excepcionalmente para proveer el pago de gastos eventuales o imprevistos.
 
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2013)</small>
+
+ARTICULO 7 BIS.- Las contribuciones que perciban los Organismos Descentralizados, Concesionarios, Empresas de Participación Municipal o Paramunicipales, por la prestación de un servicio público, ya sea de los establecidos como Derechos o cualquier otra denominación hacendaria, se fijarán mediante cuotas o tarifas que en su caso corresponda. Ninguna contribución mencionada en el presente artículo podrá recaudarse si no está prevista en la Ley de Ingresos Municipal respectiva, o por una ley posterior que lo establezca.
+
+Asimismo, deberán incluir las Entidades mencionadas en el párrafo anterior, todos los servicios que generen una obligación de cobro.
+
 ###### ARTICULO 8.
 
 Son impuestos las prestaciones en dinero o en especie que se fijen unilateralmente y con carácter obligatorio a todos aquellos individuos cuya situación coincida con las que en las Leyes fiscales se señalen como generadoras del crédito fiscal.
@@ -100,6 +106,10 @@ Son productos los ingresos que percibe el Ayuntamiento por actividades que no co
 ###### ARTICULO 11.
 
 Son Aprovechamientos los demás ingresos ordinarios que no puedan ser clasificados como impuestos, derechos o productos, o bien que aunque procedan de dichas fuentes sean enterados en ejercicio fiscal posterior a aquel en que fueron originados, recibiendo en este caso el nombre de "rezagos". Quedarán clasificados también como aprovechamientos los ingresos que se perciben por concepto de participaciones del Gobierno del Estado o del Gobierno Federal.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2013)</small>
+
+ARTICULO 11 BIS.- Los ingresos que perciba el Municipio a través de sus Organismos Descentralizados, Concesionarios, Empresas de Participación Municipal o Paramunicipales por concepto de los denominados "rezagos", se deberán sujetar a lo establecido en el artículo 7 Bis del presente ordenamiento.
 
 ###### ARTICULO 12.
 
@@ -2402,3 +2412,13 @@ P.O. 1 DE JUNIO DE 2012.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Los Ayuntamientos del Estado de Baja California deberán realizar las adecuaciones conducentes a sus respectivas Leyes de Ingresos, a efecto de la correcta aplicación de la presente reforma.
+
+P.O. 22 DE FEBRERO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes Reformas de Ley entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Túrnese las presentes Reformas de Ley al Titular del Poder Ejecutivo del Estado para los efectos de publicación en el Periódico Oficial del Estado de Baja California.
