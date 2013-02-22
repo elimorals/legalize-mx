@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-del-estado-de-baja-california-3578"
 country: "mx"
 rank: "ley"
 publication_date: "1972-12-31"
-last_updated: "2012-12-21"
+last_updated: "2013-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2013.
 
 Ley publicada en la Sección Décimo Tercera del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1972.
 
@@ -60,6 +60,14 @@ Los ingresos se dividen en ordinarios y extraordinarios. Son ordinarios los ingr
 Ninguna contribución podrá recaudarse si no está prevista por la Ley anual de ingresos correspondiente, o por una ley posterior que lo establezca. Las obligaciones fiscales derivadas de la Ley de Ingresos o de otras leyes, se originarán cuando se realicen las situaciones que coincidan con las que las leyes señalen, aún cuando dichas situaciones constituyan infracciones a otras disposiciones legales.
 
 En este último caso, la exigibilidad o cumplimiento de las obligaciones fiscales no legitimará esos hechos o circunstancias.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2013)</small>
+
+###### ARTICULO 4
+
+1.- Las contribuciones que perciban los Organismos Descentralizados, Concesionarios, Empresas de Participación Estatal o Paraestatales, por la prestación de un servicio público, ya sea de los establecidos como Derechos o cualquier otra denominación hacendaria, se fijarán mediante cuotas o tarifas que en su caso corresponda. Ninguna contribución mencionada en el presente artículo podrá recaudarse si no está prevista por la Ley anual de ingresos correspondiente, o por una ley posterior que lo establezca.
+
+Asimismo, deberán incluir las Entidades mencionadas en el párrafo anterior, todos los servicios que generen una obligación de cobro.
 
 ## TITULO II. IMPUESTOS
 
@@ -2285,11 +2293,19 @@ IV. Registrar la obligación de pago del presente impuesto y los establecimiento
 
 Los servicios que el Gobierno del Estado proporcione en forma directa o a través de sus organismos descentralizados o concesionarios, al realizar una actividad de interés público, obligan a quien los reciba, al pago de los derechos correspondientes.
 
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2013)</small>
+
+En el caso de los Organismos Descentralizados, Concesionarios, Empresas de Participación Estatal o Paraestatales, deberán sujetarse a lo establecido en el artículo 4-1 del presente ordenamiento.
+
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 158.
 
 Los derechos se causarán y pagarán de conformidad con las tasas, cuotas y tarifas que establezca la Ley de Ingresos del Estado.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2013)</small>
+
+Para la recaudación del pago de Derechos por los Organismos Descentralizados, Concesionarios, Empresas de Participación Estatal o Paraestatales, deberán sujetarse a lo establecido en el artículo 4-1 del presente ordenamiento.
 
 ###### ARTICULO 159.
 
@@ -3140,3 +3156,9 @@ P.O. 5 DE OCTUBRE DE 2012.
 P.O. 21 DE DICIEMBRE DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado".
+
+P.O. 22 DE FEBRERO DE 2013.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Túrnese las presentes reformas de Ley al Titular del Poder Ejecutivo del Estado para los efectos de publicación en el Periódico Oficial del Estado de Baja California.
