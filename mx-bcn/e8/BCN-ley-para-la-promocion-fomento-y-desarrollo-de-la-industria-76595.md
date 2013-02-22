@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-la-promocion-fomento-y-desarrollo-de-la-industria-7659
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-20"
-last_updated: "2010-09-20"
+last_updated: "2013-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76595&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY PARA LA PROMOCIÓN, FOMENTO Y DESARROLLO DE LA INDUSTRIA CINEMATOGRÁFICA Y AUDIOVISUAL DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el lunes 20 de septiembre de 2010.
 
@@ -67,15 +67,19 @@ IV.- Estado: Estado Libre y Soberano de Baja California.
 
 V.- Guía del Productor: El documento oficial emitido por la Secretaría, que informe y explique de manera clara los trámites, autoridades, requisitos, plazos, costos y beneficios de los procedimientos exigidos para filmar en el Estado. Esta Guía, además de contener la información aquí especificada, deberá incluir el Directorio de Proveedores Especializados.
 
-VI.- Ley: Ley para la Promoción, Fomento y Desarrollo de la Industria Cinematográfica y Audiovisual del Estado de Baja California.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE FEBRERO DE 2013)</small>
 
-VII.- Producción: El proceso sistemático que se sigue para la creación de cualquier obra cinematográfica o audiovisual, el cual se divide en las siguientes etapas: Desarrollo, preproducción, producción, post-producción, distribución y mercadotecnia.
+VI.- Instituto: Instituto de Cultura de Baja California.
 
-VIII.- Registro de áreas de Rodaje o Locaciones: El inventario elaborado por la Secretaría, que contiene los Bienes del Dominio Público y Privado de la Federación, del Estado y de los Municipios, sitios, bellezas naturales, inmuebles creados exprofeso, eventos, festivales, tradiciones y otras manifestaciones culturales susceptibles de utilizarse en obras o productos cinematográficos o audiovisuales.
+VII.- Ley: Ley para la Promoción, Fomento y Desarrollo de la Industria Cinematográfica y Audiovisual del Estado de Baja California.
 
-IX.- Registro de Productores: La relación de los profesionales del sector Cinematográfico y Audiovisual del Estado, trátese de personas físicas o morales, nacionales o extranjeras, elaborado por la Secretaría.
+VIII.- Producción: El proceso sistemático que se sigue para la creación de cualquier obra cinematográfica o audiovisual, el cual se divide en las siguientes etapas: Desarrollo, preproducción, producción, post-producción, distribución y mercadotecnia.
 
-X. Secretaría: Secretaría de Turismo del Estado de Baja California.
+IX.- Registro de áreas de Rodaje o Locaciones: El inventario elaborado por la Secretaría, que contiene los Bienes del Dominio Público y Privado de la Federación, del Estado y de los Municipios, sitios, bellezas naturales, inmuebles creados exprofeso, eventos, festivales, tradiciones y otras manifestaciones culturales susceptibles de utilizarse en obras o productos cinematográficos o audiovisuales.
+
+X.- Registro de Productores: La relación de los profesionales del sector Cinematográfico y Audiovisual del Estado, trátese de personas físicas o morales, nacionales o extranjeras, elaborado por la Secretaría.
+
+XI.- Secretaría: Secretaría de Turismo del Estado de Baja California.
 
 ### CAPÍTULO SEGUNDO. DE LAS AUTORIDADES
 
@@ -211,15 +215,25 @@ VIII.- Un representante de la Facultad de Turismo y Mercadotecnia de la Universi
 
 IX.- El Presidente de la Asociación de Cineastas de Baja California, A.C.;
 
-X.- Un representante de los estudios cinematográficos radicados en el Estado, y
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2013)</small>
 
-XI.- Un representante por la Asociación de Hoteles y Moteles de la Costa Oriente del Estado y otro por la Zona Costa del Occidente del Estado.
+X.- Un representante de los estudios cinematográficos radicados en el Estado,
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2013)</small>
+
+XI.- Un representante por la Asociación de Hoteles y Moteles de la Costa Oriente del Estado y otro por la Zona Costa del Occidente del Estado; y
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2013)</small>
+
+XII.- Un representante del Instituto.
 
 Previa aprobación por mayoría simple de sus miembros, podrán formar parte integrante de este Consejo las Instituciones de Educación Superior radicadas en el Estado que impartan carreras especializadas en cinematografía y audiovisuales, así como los representantes de productores, directores, y en general de organismos cuya principal ocupación la constituya la realización de obras cinematográficas o audiovisuales en el Estado o aquellas que pugnen por su desarrollo.
 
 Los Consejeros del sector gubernamental serán Consejeros durante el tiempo que estén en su cargo; y los Consejeros ciudadanos durante el tiempo que les defina el organismo que representan. Su participación en el Consejo será de carácter honorifico, por lo que no recibirán ninguna contraprestación económica o material y sus servicios no originarán ninguna relación laboral con la Secretaría o el Consejo.
 
-Cada Consejero Propietario del sector gubernamental designara a su suplente, quienes podrán asistir a las sesiones del Consejo en ausencia de los primeros, con todas las facultades y derechos que a éstos correspondan. También podrán asistir cuando esté presente el Consejero Propietario, a título de oyentes, sin voz ni voto.
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2013)</small>
+
+Cada Consejero Propietario del Sector Gubernamental designará a su suplente, quienes podrán asistir a las sesiones del Consejo en ausencia de los primeros, con todas las facultades y derechos que a éstos correspondan. También podrán asistir cuando esté presente el Consejero Propietario, a título de oyentes, sin voz ni voto.
 
 El Consejo contará con un Secretario Técnico que será designado y removido por la Secretaría.
 
@@ -261,6 +275,24 @@ El Presidente del Consejo, de forma particular o a petición de uno de sus miemb
 
 Los invitados o participantes temporales y permanentes, únicamente contarán con derecho de voz.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE FEBRERO DE 2013)</small>
+
+### CAPÍTULO SEXTO. DE LOS CORTOMETRAJES
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2013)</small>
+
+###### Artículo 21.
+
+Para los efectos de esta Ley, se entiende por cortometraje a toda producción audiovisual o cinematográfica que dura menos de treinta minutos, que se realiza con fines artísticos, académicos o de exhibición en festivales, foros o concursos.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2013)</small>
+
+###### Artículo 22.
+
+El Instituto establecerá anualmente un programa de acciones para incentivar la producción de cortometrajes que preferentemente tengan valor artístico o cultural para la entidad o difundan su imagen; así como para financiar el envío de las obras para su presentación o exposición en festivales nacionales y extranjeros; así como apoyar a los productores y realizadores para que asistan a certámenes, foros y encuentros internacionales, lo anterior bajo los requisitos que establezca el reglamento de la Ley.
+
+Para lo anterior, el Instituto podrá coordinarse con las diversas dependencias, autoridades e instituciones públicas y privadas que considere conveniente.
+
 ## ARTÍCULOS TRANSITORIOS
 
 PRIMERO.- La presente Ley entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
@@ -272,3 +304,11 @@ TERCERO.- Los Ayuntamientos dictarán, o en su caso, adecuarán los Bandos de Po
 CUARTO.- A partir de la entrada en vigor de la presente Ley la Secretaría, en un término que no exceda de ciento veinte días, deberá lanzar la convocatoria para la instalación del Consejo Consultivo Estatal de Filmaciones.
 
 QUINTO.- Dentro de los sesenta días siguientes a la instalación del Consejo Consultivo Estatal de Filmaciones, se deberá expedir el reglamento en el que se establezcan las normas de organización y operación interna.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE FEBRERO DE 2013.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- El Ejecutivo del Estado tendrá un término de noventa días a partir de la entrada en vigor de la presente reforma, para hacer las adecuaciones reglamentarias correspondientes.
