@@ -4,7 +4,7 @@ identifier: "MEX-ley-del-agua-para-el-estado-de-mexico-y-municipios-82309"
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-22"
-last_updated: "2011-11-25"
+last_updated: "2013-02-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82309&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # LEY DEL AGUA PARA EL ESTADO DE MEXICO Y MUNICIPIOS
 
-LEY DEL AGUA PARA EL ESTADO DE MEXICO Y MUNICIPIOS
+LEY DEL AGUA PARA EL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL GACETA DEL GOBIERNO: 25 DE NOVIEMBRE DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DE LA LEY DEL AGUA PARA EL ESTADO DE MÉXICO Y MUNICIPIOS, PUBLICADA EN LA SECCIÓN TERCERA DE LA G.G. DE 22 DE FEBRERO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: ABROGADA.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 22 de julio de 2011.
 
@@ -2555,7 +2557,7 @@ LIC. LUIS ENRIQUE MIRANDA NAVA
 
 (RUBRICA).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 G.G. 4 DE NOVIEMBRE DE 2011.
 
@@ -2572,3 +2574,17 @@ G.G. 25 DE NOVIEMBRE DE 2011.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 22 DE FEBRERO DE 2013.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se abroga la Ley del Agua para el Estado de México y Municipios, publicada en el Periódico Oficial "Gaceta del Gobierno" el 22 de julio de 2011.
+
+CUARTO. El Gobernador del Estado expedirá el Reglamento de esta Ley dentro de los ciento ochenta días hábiles posteriores a la publicación del presente Decreto.
+
+QUINTO. La Comisión Técnica del Agua del Estado de México se constituirá dentro de los ciento ochenta días hábiles posteriores a la publicación del Reglamento de esta Ley.
+
+SEXTO. Se derogan todas las disposiciones que se opongan al presente decreto.
