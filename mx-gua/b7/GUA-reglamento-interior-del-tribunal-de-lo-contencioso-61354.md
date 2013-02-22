@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-del-tribunal-de-lo-contencioso-61354"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-04-29"
-last_updated: "2011-10-04"
+last_updated: "2013-02-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61354&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2013.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 29 de abril de 2008.
 
@@ -93,11 +93,11 @@ El Consejo determinará mediante acuerdo, el personal que registrará de asisten
 
 En la Secretaría General de Acuerdos se llevarán, entre otros, los siguientes registros:
 
-l. De actas del Pleno foliadas, en forma consecutiva del año;
+I. De actas del Pleno foliadas, en forma consecutiva del año;
 
-ll. De correspondencia;
+II. De correspondencia;
 
-lll. De cédulas profesionales;
+III. De cédulas profesionales;
 
 IV. De juicios;
 
@@ -111,11 +111,11 @@ VII. Los demás que sean necesarios.
 
 Cada Sala llevará los siguientes registros:
 
-l. Juicios y recursos;
+I. Juicios y recursos;
 
-ll. De la correspondencia recibida; y
+II. De la correspondencia recibida; y
 
-lll. Los demás que sean necesarios.
+III. Los demás que sean necesarios.
 
 Dichos registros estarán bajo la responsabilidad del secretario de estudio y cuenta de cada Sala.
 
@@ -145,11 +145,11 @@ De todas las sesiones, se levantará acta circunstanciada en la que se haga cons
 
 Además de las atribuciones que le otorga el artículo 16 de la Ley, corresponde al Pleno:
 
-l. Vigilar que la impartición de justicia se realice de manera pronta, completa, imparcial y gratuita, emitiendo los acuerdos y circulares que para tal efecto se requieran;
+I. Vigilar que la impartición de justicia se realice de manera pronta, completa, imparcial y gratuita, emitiendo los acuerdos y circulares que para tal efecto se requieran;
 
-ll. Evaluar cuatrimestralmente el funcionamiento de las Salas, con base en sus informes mensuales;
+II. Evaluar cuatrimestralmente el funcionamiento de las Salas, con base en sus informes mensuales;
 
-lll. Crear las comisiones de trabajo del Tribunal que estime pertinentes el magistrado que las presida en su caso;
+III. Crear las comisiones de trabajo del Tribunal que estime pertinentes el magistrado que las presida en su caso;
 
 IV. Auxiliarse del personal del Tribunal, para emitir opiniones jurídicas y llevar el registro de éstas a través de la Secretaría General de Acuerdos;
 
@@ -169,11 +169,11 @@ IX. Realizar la evaluación del desempeño de los magistrados e informar sobre e
 
 El Pleno para aprobar los criterios del Tribunal, deberá de tomar en consideración, lo siguiente:
 
-l. Ser asunto relevante;
+I. Ser asunto relevante;
 
-ll. Ser asunto novedoso; y
+II. Ser asunto novedoso; y
 
-lll. Se derive de la interpretación de ley
+III. Se derive de la interpretación de ley
 
 ### CAPÍTULO SEGUNDO. DEL PRESIDENTE
 
@@ -181,21 +181,21 @@ lll. Se derive de la interpretación de ley
 
 La designación de Presidente será en sesión solemne, la que se desarrollará de la siguiente manera:
 
-l. La sesión será presidida por un magistrado distinto al presidente en funciones, conforme al orden de su adscripción de forma rotativa;
+I. La sesión será presidida por un magistrado distinto al presidente en funciones, conforme al orden de su adscripción de forma rotativa;
 
-ll. La votación para la designación de Presidente, será secreta. En caso de empate se deberá hacer otra votación y de persistir, el Presidente tendrá voto de calidad; y
+II. La votación para la designación de Presidente, será secreta. En caso de empate se deberá hacer otra votación y de persistir, el Presidente tendrá voto de calidad; y
 
-lll. Una vez electo el Presidente rendirá la protesta de ley en los siguientes términos: "Protesto cumplir y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Guanajuato, las leyes que de ellas emanen y en particular las que rigen a este Órgano de Justicia, y si así no lo hiciere que este Órgano Jurisdiccional me lo demande".
+III. Una vez electo el Presidente rendirá la protesta de ley en los siguientes términos: "Protesto cumplir y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Guanajuato, las leyes que de ellas emanen y en particular las que rigen a este Órgano de Justicia, y si así no lo hiciere que este Órgano Jurisdiccional me lo demande".
 
 ###### Artículo 14.
 
 Son atribuciones del Presidente, además de las previstas en el artículo 18 de la Ley, las siguientes:
 
-l. Convocar y presidir las sesiones de Pleno y de Consejo, fijar el orden del día de las sesiones, dirigir los debates y conservar el orden en las mismas;
+I. Convocar y presidir las sesiones de Pleno y de Consejo, fijar el orden del día de las sesiones, dirigir los debates y conservar el orden en las mismas;
 
-ll. Dar cuenta al Pleno y al Consejo, en su caso, de las excusas, recusaciones, excitativas de justicia y demás asuntos relevantes para el Tribunal;
+II. Dar cuenta al Pleno y al Consejo, en su caso, de las excusas, recusaciones, excitativas de justicia y demás asuntos relevantes para el Tribunal;
 
-lll. Tramitar los asuntos de la competencia del Consejo y turnar los expedientes entre sus integrantes para que formulen los proyectos de resolución;
+III. Tramitar los asuntos de la competencia del Consejo y turnar los expedientes entre sus integrantes para que formulen los proyectos de resolución;
 
 IV. Presentar al Consejo para su aprobación la cuenta pública trimestral correspondiente y darle a conocer las observaciones y recomendaciones que formulen el Órgano de Fiscalización Superior o la Contraloría Interna;
 
@@ -227,7 +227,7 @@ V. Gestionar el apoyo administrativo necesario para el debido funcionamiento de 
 
 VI. Remitir al Presidente por escrito, dentro de los primeros cinco días hábiles del mes siguiente, por conducto de la Secretaría General de Acuerdos, los informes mensual y anual de las labores y las principales resoluciones dictadas por la Sala, en los formatos aprobados por el Pleno para tales efectos;
 
-Vll. Proponer los criterios de la sala al Pleno;
+VII. Proponer los criterios de la sala al Pleno;
 
 VIII. Instrumentar, aplicar y vigilar el Sistema;
 
@@ -239,15 +239,17 @@ X. Las demás que señale el Pleno.
 
 #### SECCIÓN PRIMERA. DE LA SECRETARÍA GENERAL DE ACUERDOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 17.
 
-Corresponde a la Secretaría General de Acuerdos, además de lo que señala el artículo 23 de la Ley:
+Corresponde al Secretario General de Acuerdos, además de lo que señala el artículo 23 de la Ley:
 
-l. Auxiliar al Presidente en el cumplimiento de las atribuciones;
+I. Auxiliar al Presidente en el cumplimiento de las atribuciones;
 
-ll. Registrar las demandas y recursos, recibidos por orden numérico progresivo, con la expresión de si se adjuntaron o no copias y documentos;
+II. Registrar las demandas y recursos, recibidos por orden numérico progresivo, con la expresión de si se adjuntaron o no copias y documentos;
 
-lll. Turnar las demandas y recursos dentro de las 24 veinticuatro horas siguientes al día de su recepción a las Salas respectivas;
+III. Turnar las demandas y recursos dentro de las 24 veinticuatro horas siguientes al día de su recepción a las Salas respectivas;
 
 IV. Tramitar los recursos de reclamación en los términos de la Ley;
 
@@ -257,7 +259,13 @@ VI. Recibir y procesar información rendida por las Salas, elaborando cuatrimest
 
 VII. Estar a cargo del Sistema en forma conjunta con la Coordinación de Informática;
 
-VIII. Las que le encomiende el Pleno y el Presidente.
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2013)</small>
+
+VIII. Expedir certificaciones de las actas, actuaciones, acuerdos y resoluciones relativos a las sesiones del Pleno, así como de cualquier otro documento que obre en los archivos del Tribunal y cuya expedición no esté encomendada a otro servidor público de este Órgano Jurisdiccional.
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2013)</small>
+
+IX. Las que le encomiende el Pleno y el Presidente.
 
 #### SECCIÓN SEGUNDA. DE LOS SECRETARIOS DE ESTUDIO Y CUENTA
 
@@ -265,11 +273,11 @@ VIII. Las que le encomiende el Pleno y el Presidente.
 
 Corresponde a los Secretarios de Estudio y Cuenta además de las atribuciones conferidas en el artículo 24 de la Ley:
 
-l. Dar cuenta al magistrado de la Sala de su adscripción, a más tardar al día siguiente de su presentación con las demandas, contestaciones y promociones que presenten las partes, así como proyectar los autos y acuerdos que procedan;
+I. Dar cuenta al magistrado de la Sala de su adscripción, a más tardar al día siguiente de su presentación con las demandas, contestaciones y promociones que presenten las partes, así como proyectar los autos y acuerdos que procedan;
 
-ll. Llevar el control de los procesos en trámite turnados a la Sala de su adscripción y verificar que los expedientes sean debidamente foliados, sellados y rubricados;
+II. Llevar el control de los procesos en trámite turnados a la Sala de su adscripción y verificar que los expedientes sean debidamente foliados, sellados y rubricados;
 
-lll. Realizar la certificación de los días transcurridos a la presentación del recurso de reclamación;
+III. Realizar la certificación de los días transcurridos a la presentación del recurso de reclamación;
 
 IV. Permitir a los interesados la consulta de los expedientes que estén bajo su resguardo, conforme a los artículos 10 y 11 del Código, tomando las precauciones pertinentes para evitar la pérdida o sustracción de las actuaciones o pruebas;
 
@@ -297,11 +305,11 @@ El Pleno y cada una de las Salas contarán con el número de proyectistas que de
 
 Corresponde a los proyectistas, además de las atribuciones contenidas en el artículo 25 de la Ley:
 
-l. Formular los proyectos de las resoluciones definitivas, dentro de los siete días siguientes a la celebración de la audiencia, y de las interlocutorias dentro de los tres días siguientes al desahogo de la vista;
+I. Formular los proyectos de las resoluciones definitivas, dentro de los siete días siguientes a la celebración de la audiencia, y de las interlocutorias dentro de los tres días siguientes al desahogo de la vista;
 
-ll. Elaborar los proyectos de resolución del recurso de revisión, dentro de los siete días siguientes del desahogo de la vista;
+II. Elaborar los proyectos de resolución del recurso de revisión, dentro de los siete días siguientes del desahogo de la vista;
 
-lll. Suplir las ausencias temporales de otros Proyectistas que determine el Consejo;
+III. Suplir las ausencias temporales de otros Proyectistas que determine el Consejo;
 
 IV. Asistir cuando menos dos veces al año, a las reuniones a que convoque el Pleno, a fin de establecer las bases y lineamientos necesarios para formular los criterios jurídicos del Tribunal, así como para la metodología de formulación de proyectos de resoluciones y sentencias;
 
@@ -313,11 +321,11 @@ VI. Registrar en el Sistema, las resoluciones aprobadas por las Salas o el Pleno
 
 Para la elaboración de los proyectos de criterios jurídicos, se deberá de tornar en consideración lo siguiente:
 
-l. Contener un rubro, un texto, datos de identificación del juicio correspondiente y, en su caso, los precedentes respectivos;
+I. Contener un rubro, un texto, datos de identificación del juicio correspondiente y, en su caso, los precedentes respectivos;
 
-ll. Tratarse de un tema novedoso;
+II. Tratarse de un tema novedoso;
 
-lll. Contener un sólo criterio de interpretación;
+III. Contener un sólo criterio de interpretación;
 
 IV. Deberá reflejar un asunto relevante;
 
@@ -333,11 +341,11 @@ VII. Revisar que los datos de identificación de la fuente del criterio contenga
 
 Además de las atribuciones conferidas en el artículo 26 de la Ley, corresponde a los actuarios:
 
-l. Recibir del secretario general de acuerdos y de los secretarios de estudio y cuenta, las resoluciones para su notificación, conforme al Código;
+I. Recibir del secretario general de acuerdos y de los secretarios de estudio y cuenta, las resoluciones para su notificación, conforme al Código;
 
-ll. Practicar las diligencias que les sean encomendadas por el Pleno;
+II. Practicar las diligencias que les sean encomendadas por el Pleno;
 
-lll. Realizar las notificaciones, en los días y horas que se habiliten para tal efecto, asentando la razón respectiva;
+III. Realizar las notificaciones, en los días y horas que se habiliten para tal efecto, asentando la razón respectiva;
 
 IV. Recabar la firma de recibido del secretario general de acuerdos y de los secretarios de estudio y cuenta, al entregar los expedientes y las constancias de notificaciones;
 
@@ -357,7 +365,7 @@ Los actuarios en las diligencias y notificaciones que practiquen, deberán condu
 
 El Consejo se integrará por los Magistrados en funciones y será necesaria la presencia de la mayoría para tomar sus decisiones.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 25.
 
@@ -383,11 +391,11 @@ Las resoluciones del Consejo que deban notificarse, se harán personalmente a la
 
 Son atribuciones del Consejo, además de las señaladas en el artículo 28 de la Ley, las siguientes:
 
-l. Aplicar y vigilar que se cumplan con las disposiciones de la Ley para el Ejercicio y Control de los Recursos Públicos para el Estado y los Municipios de Guanajuato, y de la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Sector Público en el Estado de Guanajuato y demás disposiciones legales;
+I. Aplicar y vigilar que se cumplan con las disposiciones de la Ley para el Ejercicio y Control de los Recursos Públicos para el Estado y los Municipios de Guanajuato, y de la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Sector Público en el Estado de Guanajuato y demás disposiciones legales;
 
-ll. Ejecutar sus propios acuerdos, a través de las unidades administrativas;
+II. Ejecutar sus propios acuerdos, a través de las unidades administrativas;
 
-lll. Calificar los impedimentos de sus miembros;
+III. Calificar los impedimentos de sus miembros;
 
 IV. Determinar el número y la circunscripción territorial de las Defensorías Regionales de Oficio;
 
@@ -411,13 +419,13 @@ XIII. Las demás que le señalen la Ley y otros ordenamientos jurídicos.
 
 ### CAPÍTULO SEXTO. DE LA UNIDAD DE DEFENSORÍA DE OFICIO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 30.
 
 La Unidad de Defensoría de Oficio se integrará con:
 
-l. Un Coordinador, auxiliado por el personal administrativo que requiera el servicio; y
+I. Un Coordinador, auxiliado por el personal administrativo que requiera el servicio; y
 
 > <small>(REFORMADA, P.O. 4 DE OCTUBRE DE 2011)</small>
 
@@ -433,11 +441,11 @@ El Coordinador de la Unidad de Defensoría de Oficio, deberá reunir los mismos 
 
 Son atribuciones del Coordinador:
 
-l. Organizar, dirigir y supervisar las actividades jurídicas y administrativas desarrolladas, en la Unidad, dictando las medidas que considere conducentes para mejorar el servicio;
+I. Organizar, dirigir y supervisar las actividades jurídicas y administrativas desarrolladas, en la Unidad, dictando las medidas que considere conducentes para mejorar el servicio;
 
-ll. Formular el Programa Anual de Actividades, así como el Programa de Difusión de Procuración de Justicia Administrativa de la Unidad, para aprobación del Consejo;
+II. Formular el Programa Anual de Actividades, así como el Programa de Difusión de Procuración de Justicia Administrativa de la Unidad, para aprobación del Consejo;
 
-lll. Realizar inspecciones a cada Defensoría para observar su funcionamiento, levantándose un acta circunstanciada ante dos testigos, permitiendo la intervención en la misma del Defensor correspondiente, y, en su caso, dictar las medidas preventivas o correctivas que considere pertinentes para mejorar el servicio;
+III. Realizar inspecciones a cada Defensoría para observar su funcionamiento, levantándose un acta circunstanciada ante dos testigos, permitiendo la intervención en la misma del Defensor correspondiente, y, en su caso, dictar las medidas preventivas o correctivas que considere pertinentes para mejorar el servicio;
 
 IV. Auxiliar a las Defensorías para el desarrollo de sus funciones;
 
@@ -457,15 +465,15 @@ X. Las demás que le confiera el Consejo y el Presidente, así como las que resu
 
 Son funciones de los Defensores, además de las previstas en el artículo 30 de la Ley, las siguientes:
 
-l. Dirigir las actividades de la Defensoría de su adscripción, así como mantener el orden y la disciplina en la misma;
+I. Dirigir las actividades de la Defensoría de su adscripción, así como mantener el orden y la disciplina en la misma;
 
-ll. Proporcionar orientación jurídica general y canalizar a las instancias competentes a los particulares cuya problemática no incida en el quehacer de la Defensoría;
+II. Proporcionar orientación jurídica general y canalizar a las instancias competentes a los particulares cuya problemática no incida en el quehacer de la Defensoría;
 
-lll. Asesorar y elaborar escritos respecto a gestiones que los particulares deban realizar ante las autoridades administrativas, fuera de proceso o como actos preparatorios del mismo;
+III. Asesorar y elaborar escritos respecto a gestiones que los particulares deban realizar ante las autoridades administrativas, fuera de proceso o como actos preparatorios del mismo;
 
 IV. Hacer uso de la conciliación, como alternativa para la solución de los litigios administrativo, cuando el caso concreto lo permita y el gobernado la autorice;
 
-\/. Tener bajo su responsabilidad el registro de las consultas y conciliaciones que brinden a los particulares;
+V. Tener bajo su responsabilidad el registro de las consultas y conciliaciones que brinden a los particulares;
 
 VI. Participar en la conformación y ejecución del Programa Anual de Actividades, así como el Programa de Difusión de la Procuración de justicia Administrativa de la Unidad;
 
@@ -489,11 +497,11 @@ El personal jurídico, será nombrado por el Consejo a propuesta del coordinador
 
 Son causas para negar, suspender o dar por terminada la prestación de los servicios que brinden los Defensores, las siguientes:
 
-l. Cuando los usuarios se asesoren o se hagan representar conjuntamente por abogados particulares;
+I. Cuando los usuarios se asesoren o se hagan representar conjuntamente por abogados particulares;
 
-ll. Cuando los particulares acudan mediante gestores de negocios a recibir los servicios que presta la Unidad; quedando exceptuados de esta hipótesis el cónyuge o los familiares de las personas de la tercera edad o enfermas a quienes les resulte imposible o muy difícil acudir personalmente con el Defensor o a los que se encuentren en otra causa justificad análoga;
+II. Cuando los particulares acudan mediante gestores de negocios a recibir los servicios que presta la Unidad; quedando exceptuados de esta hipótesis el cónyuge o los familiares de las personas de la tercera edad o enfermas a quienes les resulte imposible o muy difícil acudir personalmente con el Defensor o a los que se encuentren en otra causa justificad análoga;
 
-lll. Cuando el usuario del servicio incurra en faltas al respeto o ejerza violencia física o moral hacia el personal de la Unidad; y
+III. Cuando el usuario del servicio incurra en faltas al respeto o ejerza violencia física o moral hacia el personal de la Unidad; y
 
 IV. Cuando el particular oculte, falsee o modifique información o documentos relativos al caso en que se le atienda.
 
@@ -509,11 +517,11 @@ La Dirección Administrativa del Tribunal contará con un titular que se denomin
 
 La Dirección Administrativa, además de las previstas en el artículo 33 de la Ley tendrá las siguientes atribuciones:
 
-l. Acordar con el Presidente los asuntos de las Coordinaciones adscritas a su responsabilidad;
+I. Acordar con el Presidente los asuntos de las Coordinaciones adscritas a su responsabilidad;
 
-ll. Proponer al Consejo las políticas, sistemas y procedimientos para la óptima administración de los recursos humanos, materiales y financieros, así como de las disposiciones que regulen los procesos internos de programación y presupuestación;
+II. Proponer al Consejo las políticas, sistemas y procedimientos para la óptima administración de los recursos humanos, materiales y financieros, así como de las disposiciones que regulen los procesos internos de programación y presupuestación;
 
-lll. Proponer, de acuerdo con los lineamientos generales fijados por el Consejo, la adquisición de bienes y la contratación de servicios, para satisfacer las necesidades administrativas del Tribunal;
+III. Proponer, de acuerdo con los lineamientos generales fijados por el Consejo, la adquisición de bienes y la contratación de servicios, para satisfacer las necesidades administrativas del Tribunal;
 
 IV. Suscribir, de manera conjunta con el Presidente, los convenios y contratos que celebre el Tribunal, conforme a la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Sector Público en el Estado de Guanajuato y su Reglamento;
 
@@ -531,7 +539,9 @@ X. Vigilar el cumplimiento de la legislación en la materia de adquisiciones, ar
 
 XI. Proveer lo necesario para el control, conservación, mantenimiento y en general el buen uso y servicio de los inmuebles destinados al Tribunal, así como planear y prever los requerimientos inmobiliarios;
 
-XII. Expedir cuando proceda, constancias y certificaciones de los documentos de carácter administrativo presupuestal que obren en los archivos del Tribunal;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2013)</small>
+
+XII. Expedir certificaciones de las actas, actuaciones, acuerdos y resoluciones relativos a las sesiones del Consejo Administrativo.
 
 XIII. Coordinar el establecimiento y operación del Programa Interno de Protección Civil para el personal, instalaciones y bienes del Tribunal;
 
@@ -555,15 +565,15 @@ La Coordinación de Recursos Humanos tendrá las siguientes atribuciones:
 
 I. Operar los sistemas de nómina y de administración de recursos humanos del Tribunal;
 
-ll. Mantener actualizados el manual de organización y el tabulador de sueldos del Tribunal;
+II. Mantener actualizados el manual de organización y el tabulador de sueldos del Tribunal;
 
-lll. Proponer políticas y normas para atender los requerimientos de personal y realizar las acciones relativas al nombramiento; contratación; pago de remuneraciones; prestaciones; incentivos; estímulos; ubicación, reubicación y control de personal; entre otras;
+III. Proponer políticas y normas para atender los requerimientos de personal y realizar las acciones relativas al nombramiento; contratación; pago de remuneraciones; prestaciones; incentivos; estímulos; ubicación, reubicación y control de personal; entre otras;
 
 IV. Realizar la adecuada aplicación de la normatividad laboral del Tribunal;
 
 V. Participar en la elaboración del anteproyecto de programas y presupuesto anual del Tribunal en lo que corresponde a servicios personales;
 
-Vl. Instruir los procedimientos y en su caso ejecutar las sanciones de carácter laboral determinadas por el pleno;
+VI. Instruir los procedimientos y en su caso ejecutar las sanciones de carácter laboral determinadas por el pleno;
 
 VII. Administrar los programas ele servicio socia/ y prácticas profesionales de pasantes que se realicen en el Tribunal;
 
@@ -577,7 +587,7 @@ XI. Llevar el control de expedientes del personal, cuidar su permanente actualiz
 
 XII. Auxiliar en la programación de las campañas de difusión y medios informativos del Tribunal; y
 
-XIll. Las demás que le atribuyan expresamente las disposiciones legales y las que le encomiende la Dirección Administrativa, el Presidente y el Consejo.
+XIII. Las demás que le atribuyan expresamente las disposiciones legales y las que le encomiende la Dirección Administrativa, el Presidente y el Consejo.
 
 #### SECCIÓN SEGUNDA. DE LA COORDINACIÓN DE PRESUPUESTO Y CONTABILIDAD
 
@@ -585,11 +595,11 @@ XIll. Las demás que le atribuyan expresamente las disposiciones legales y las q
 
 La Coordinación de Presupuesto y Contabilidad tendrá las siguientes atribuciones:
 
-l. Operar la contabilidad presupuestaria y patrimonial del Tribunal de conformidad con las normas y procedimientos aplicables, así como verificar su cumplimiento, consolidar y mantener actualizados los registros contables; elaborar los estados financieros y demás informes internos y externos que se requieran; y, conciliar y depurar las cuentas;
+I. Operar la contabilidad presupuestaria y patrimonial del Tribunal de conformidad con las normas y procedimientos aplicables, así como verificar su cumplimiento, consolidar y mantener actualizados los registros contables; elaborar los estados financieros y demás informes internos y externos que se requieran; y, conciliar y depurar las cuentas;
 
-ll. Auxiliar en la integración del anteproyecto del programa y presupuesto anual del Tribunal, de conformidad con las normas aplicables;
+II. Auxiliar en la integración del anteproyecto del programa y presupuesto anual del Tribunal, de conformidad con las normas aplicables;
 
-lll. Revisar las solicitudes de compras y contratación de servicios verificando la disponibilidad presupuestal y realizar en su caso los pagos correspondientes;
+III. Revisar las solicitudes de compras y contratación de servicios verificando la disponibilidad presupuestal y realizar en su caso los pagos correspondientes;
 
 IV. Operar y registrar las ampliaciones, transferencias y modificaciones al presupuesto aprobadas por el Pleno;
 
@@ -609,11 +619,11 @@ IX. Las demás que le atribuyan las disposiciones legales y administrativas y la
 
 La Coordinación de Recursos Materiales y Servicios Generales tendrá las siguientes atribuciones:
 
-l. Programar y operar el sistema de administración de bienes muebles e inmuebles, adquisiciones, arrendamientos, obras, mantenimiento, servicios generales y administrativos;
+I. Programar y operar el sistema de administración de bienes muebles e inmuebles, adquisiciones, arrendamientos, obras, mantenimiento, servicios generales y administrativos;
 
-ll. Operar y administrar los procesos de licitaciones públicas, de invitación restringida y de adjudicaciones directas, relativos a la adquisición de recursos materiales, la prestación de servicios generales y a la realización de obras y servicios relacionados con éstas y ejecutar los actos jurídicos y de administración inherentes y derivados de ella;
+II. Operar y administrar los procesos de licitaciones públicas, de invitación restringida y de adjudicaciones directas, relativos a la adquisición de recursos materiales, la prestación de servicios generales y a la realización de obras y servicios relacionados con éstas y ejecutar los actos jurídicos y de administración inherentes y derivados de ella;
 
-lll. Proponer, y aplicar en su caso, las políticas y criterios para la construcción, adquisición, arrendamiento, ocupación y aprovechamiento de inmuebles destinados al Tribunal, así como para la administración y funcionamiento de los equipos e instalaciones con que cuentan;
+III. Proponer, y aplicar en su caso, las políticas y criterios para la construcción, adquisición, arrendamiento, ocupación y aprovechamiento de inmuebles destinados al Tribunal, así como para la administración y funcionamiento de los equipos e instalaciones con que cuentan;
 
 IV. Realizar el mantenimiento, la conservación, adaptación y el acondicionamiento de los bienes inmuebles que ocupa el Tribunal;
 
@@ -637,11 +647,11 @@ XI. Las demás que le atribuyan las disposiciones legales y administrativas y la
 
 La Coordinación de Informática tendrá las siguientes atribuciones:
 
-l. Diseñar y operar el Sistema;
+I. Diseñar y operar el Sistema;
 
-ll. Brindar soporte integral a los usuarios en equipos, aplicaciones y comunicaciones;
+II. Brindar soporte integral a los usuarios en equipos, aplicaciones y comunicaciones;
 
-lll. Proponer al Consejo a través de la Dirección Administrativa, el diseño y actualización de la página electrónica del Tribunal;
+III. Proponer al Consejo a través de la Dirección Administrativa, el diseño y actualización de la página electrónica del Tribunal;
 
 IV. Analizar y validar para proponer al Consejo, a través de la Dirección Administrativa, la adquisición de equipo, consumibles y tecnología adecuada para el soporte óptimo de las funciones del Tribunal;
 
@@ -669,11 +679,11 @@ El Instituto, dependerá del Presidente y contará con las siguientes Coordinaci
 
 El Director del Instituto tendrá las siguientes atribuciones:
 
-l. Presentar para aprobación del Consejo el programa anual de actividades del Instituto, acompañado de su anteproyecto de presupuesto, pronóstico de ingresos, políticas de condonaciones, descuentos y becas y someter a su conocimiento la evaluación de los resultados de su ejecución;
+I. Presentar para aprobación del Consejo el programa anual de actividades del Instituto, acompañado de su anteproyecto de presupuesto, pronóstico de ingresos, políticas de condonaciones, descuentos y becas y someter a su conocimiento la evaluación de los resultados de su ejecución;
 
-ll. Planear, coordinar, operar y evaluar la impartición de cursos y programas de formación y superación del personal jurídico y jurisdiccional del Tribunal;
+II. Planear, coordinar, operar y evaluar la impartición de cursos y programas de formación y superación del personal jurídico y jurisdiccional del Tribunal;
 
-lll. Formular, para aprobación del Consejo, el Estatuto Académico, las convocatorias, programas particulares y contenidos temáticos correspondientes a los cursos, programas académicos y diplomados que se impartan;
+III. Formular, para aprobación del Consejo, el Estatuto Académico, las convocatorias, programas particulares y contenidos temáticos correspondientes a los cursos, programas académicos y diplomados que se impartan;
 
 IV. Tramitar permisos y autorizaciones ante las autoridades competentes para realizar las funciones correspondientes;
 
@@ -681,7 +691,7 @@ V. Presentar ante el Consejo, para su aprobación y operación, los programas de
 
 VI. Someter a la aprobación del Consejo el programa de conferencias y cursos a otras instituciones, órganos jurisdiccionales y universidades en las materias de la competencia del Tribunal;
 
-Vll. Proponer ante el Consejo las publicaciones que edite el Tribunal, así como los materiales didácticos y de cualquier otra índole necesarios para sus funciones;
+VII. Proponer ante el Consejo las publicaciones que edite el Tribunal, así como los materiales didácticos y de cualquier otra índole necesarios para sus funciones;
 
 VIII. Proponer al Pleno la planeación del Sistema del Servicio Administrativo de Carrera y operarlo conforme al Reglamento que para tal efecto se expida;
 
@@ -733,7 +743,7 @@ e) Aplicar el reglamento de uso interno de la biblioteca.
 
 III. Las demás que le encomiende, el Consejo, el Presidente o el Director del Instituto.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE OCTUBRE DE 2011)</small>
 
 #### SECCIÓN TERCERA. DE LA COORDINACIÓN DE ADMINISTRACIÓN, DOCENCIA Y SERVICIO ADMINISTRATIVO DE CARRERA
 
@@ -793,21 +803,21 @@ En apoyo a la Unidad, el Consejo podrá crear las coordinaciones que resulten ne
 
 Para ocupar el cargo de Contra lar Interno se requiere:
 
-l. Ser ciudadano mexicano en pleno uso de sus derechos civiles y políticos;
+I. Ser ciudadano mexicano en pleno uso de sus derechos civiles y políticos;
 
-ll. Contar con grado universitario de nivel superior en alguna de las áreas económica, contable, jurídica o administrativa; y
+II. Contar con grado universitario de nivel superior en alguna de las áreas económica, contable, jurídica o administrativa; y
 
-lll. Contar con experiencia profesional de cuando menos tres años en su ejercicio e igual término en actividades relacionadas con el controlo fiscalización de recursos.
+III. Contar con experiencia profesional de cuando menos tres años en su ejercicio e igual término en actividades relacionadas con el controlo fiscalización de recursos.
 
 ###### Artículo 51.
 
 El Contralor Interno además de las funciones que le encomienda el artículo 38 de la Ley, tendrá las siguientes:
 
-l. Proponer al Consejo y aplicar las normas y criterios en materia de control, fiscalización y evaluación que deban observarse para el mejor desempeño del Tribunal;
+I. Proponer al Consejo y aplicar las normas y criterios en materia de control, fiscalización y evaluación que deban observarse para el mejor desempeño del Tribunal;
 
-ll. Presentar al Consejo el programa anual de trabajo de la Unidad para su aprobación e informar mensualmente de sus actividades al Presidente;
+II. Presentar al Consejo el programa anual de trabajo de la Unidad para su aprobación e informar mensualmente de sus actividades al Presidente;
 
-lll. Revisar que las diversas áreas jurisdiccionales y administrativas cumplan con los lineamientos, programas y metas establecidos en los programas;
+III. Revisar que las diversas áreas jurisdiccionales y administrativas cumplan con los lineamientos, programas y metas establecidos en los programas;
 
 IV. Verificar que los procedimientos, actos y contratos de adquisición de bienes y servicios, así como la enajenación de bienes se lleven a cabo de conformidad con las Leyes de la materia;
 
@@ -881,7 +891,7 @@ Lic. Yolanda García Castillo
 
 Secretaria General de Acuerdos
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 11 DE FEBRERO DE 2011.
 
@@ -890,3 +900,7 @@ P.O. 11 DE FEBRERO DE 2011.
 P.O. 4 DE OCTUBRE DE 2011.
 
 ÚNICO.- El presente Acuerdo entrará en vigor al cuarto día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 22 DE FEBRERO DE 2013.
+
+ÚNICO.- El presente Acuerdo entrará en vigor al cuarto día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado.
