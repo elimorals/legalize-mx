@@ -4,7 +4,7 @@ identifier: "MEX-codigo-financiero-del-estado-de-mexico-y-municipios-13951"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-03-09"
-last_updated: "2013-01-24"
+last_updated: "2013-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # CODIGO FINANCIERO DEL ESTADO DE MEXICO Y MUNICIPIOS
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE FEBRERO DE 2013 EN LA G.G., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE ENERO DE 2013.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO EL 24 DE ENERO DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE FEBRERO DE 2013.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el martes 9 de marzo de 1999.
 
@@ -947,7 +947,7 @@ Cuando no se pague alguna parcialidad en la fecha establecida, el contribuyente 
 
 > <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
-Tratándose del pago diferido, el monto a diferir será el resultado de restar el pago correspondiente al 20% señalado en el primer párrafo de este artículo al total del monto adeudado, dicho monto se cubrirá en una sola exhibición a más tardar en la fecha de pago especificada por el propio deudor, incluyendo los recargos por prórroga antes citados.
+Tratándose del pago diferido, el monte a diferir será el resultado de restar el pago correspondiente al 20% señalado en el primer párrafo de este artículo al total del monto adeudado, dicho monto se cubrirá en una sola exhibición a más tardar en la fecha de pago especificada por el propio deudor, incluyendo los recargos por prórroga antes citados.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -4031,9 +4031,9 @@ Tratándose de hipotecas para garantizar créditos obtenidos para la construcci�
 
 (REFORMADO, G.G. 22 DE DICIEMBRE DE 2004) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
 
-#### SECCION DECIMA PRIMERA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR EL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO
+#### SECCION DECIMA PRIMERA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR EL INSTITUTO DE SALUD DEL ESTADO DE MÉXICO
 
-(ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
+> <small>(REFORMADO [N. DE E. ADICIONADO Y REUBICADO], G.G. 22 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 78.
 
@@ -4081,9 +4081,9 @@ actos contenidos en este artículo $1,451
 
 (REFORMADO, G.G. 22 DE DICIEMBRE DE 2004) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
 
-#### SECCION PRIMERA. DEL IMPUESTO PREDIAL
+#### SECCIÓN DÉCIMA SEGUNDA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR EL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO Y REUBICADO, G.G. 22 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 79.
 
@@ -4151,9 +4151,9 @@ Las microindustrias que se encuentren registradas en el Padrón Nacional de la M
 
 (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
 
-#### SECCION SEGUNDA. DEL IMPUESTO SOBRE ADQUISICION DE INMUEBLES Y OTRAS OPERACIONES TRASLATIVAS DE DOMINIO DE INMUEBLES
+#### SECCION PRIMERA. DEL IMPUESTO PREDIAL
 
-> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 81.
 
@@ -4229,7 +4229,7 @@ IV. Otras resoluciones. $1,454
 
 (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
 
-#### SECCION TERCERA. DEL IMPUESTO SOBRE CONJUNTOS URBANOS
+#### SECCION SEGUNDA. DEL IMPUESTO SOBRE ADQUISICION DE INMUEBLES Y OTRAS OPERACIONES TRASLATIVAS DE DOMINIO DE INMUEBLES
 
 > <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
@@ -4321,13 +4321,13 @@ Cuando los servicios a que aluden las fracciones I, incisos C) y D), V, VII, VII
 
 (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
 
+#### SECCION TERCERA. DEL IMPUESTO SOBRE CONJUNTOS URBANOS
+
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
 #### SECCION CUARTA. DEL IMPUESTO SOBRE ANUNCIOS PUBLICITARIOS
 
 > <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-#### SECCION QUINTA. DEL IMPUESTO SOBRE DIVERSIONES, JUEGOS Y ESPECTACULOS PUBLICOS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 84.
 
@@ -4335,9 +4335,9 @@ Por la calificación de los documentos, cuando se devuelvan sin haberse practica
 
 (F. DE E., G.G. 13 DE ENERO DE 2010) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
 
-#### SECCION SEXTA. DEL IMPUESTO SOBRE LA PRESTACION DE SERVICIOS DE HOSPEDAJE
+#### SECCION QUINTA. DEL IMPUESTO SOBRE DIVERSIONES, JUEGOS Y ESPECTACULOS PUBLICOS
 
-> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 85.
 
@@ -4367,9 +4367,9 @@ Tratándose de instituciones y organizaciones de crédito y seguros, las inscrip
 
 (REFORMADO PRIMER PÁRRAFO, G.G. 24 DE DICIEMBRE DE 1999) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
 
-#### SECCION PRIMERA. DE LOS DERECHOS DE AGUA POTABLE, DRENAJE, ALCANTARILLADO, RECEPCION DE LOS CAUDALES DE AGUAS RESIDUALES PARA SU TRATAMIENTO O MANEJO Y CONDUCCION
+#### SECCION SEXTA. DEL IMPUESTO SOBRE LA PRESTACION DE SERVICIOS DE HOSPEDAJE
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 88.
 
@@ -5111,7 +5111,9 @@ VIII. (DEROGADA, G.G. 19 DE DICIEMBRE DE 2012)
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 1 DE ENERO DE 2013)</small>
 
-#### SECCION SEGUNDA. DE LOS DERECHOS DEL REGISTRO CIVIL
+#### SECCION PRIMERA. DE LOS DERECHOS DE AGUA POTABLE, DRENAJE, ALCANTARILLADO, RECEPCION DE LOS CAUDALES DE AGUAS RESIDUALES PARA SU TRATAMIENTO O MANEJO Y CONDUCCION
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 94.
 
@@ -6495,19 +6497,43 @@ F). Las copias certificadas que se expidan para la substanciación de cualquier 
 
 (DEROGADO, G.G. 30 DE JUNIO DE 2006)
 
-#### SECCION TERCERA. DE LOS DERECHOS DE DESARROLLO URBANO Y OBRAS PUBLICAS
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 22 DE FEBRERO DE 2013)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+#### SECCION SEGUNDA. DE LOS DERECHOS DEL REGISTRO CIVIL
 
 ###### Artículo 105.
 
-(DEROGADO, G.G. 30 DE JUNIO DE 2006)
+Por los servicios prestados por el Instituto de Salud del Estado de México, se pagarán los derechos conforme a la siguiente:
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 24 DE DICIEMBRE DE 1999)</small>
+TARIFA
 
-#### SECCIÓN CUARTA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR AUTORIDADES FISCALES, ADMINISTRATIVAS Y DE ACCESO A LA INFORMACIÓN PÚBLICA
+CONCEPTO Número de Salarios Mínimos
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE DICIEMBRE DE 2005)</small>
+Generales Vigentes del Área
+
+Geográfica que Corresponda
+
+Expedición del permiso sanitario 100
+
+previo al refrendo que realicen
+
+los Municipios respecto de las
+
+licencias de funcionamiento
+
+con giros comerciales de venta
+
+de bebidas alcohólicas, en
+
+botella cerrada para el consumo
+
+inmediato o al copeo.
+
+> <small>(ADICIONADA, G.G. 22 DE FEBRERO DE 2013)</small>
+
+#### SECCION TERCERA. DE LOS DERECHOS DE DESARROLLO URBANO Y OBRAS PUBLICAS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 106.
 
@@ -6515,19 +6541,21 @@ Por certificados expedidos por el Tribunal de lo Contencioso Administrativo se p
 
 No se pagarán estos derechos ni los establecidos en el artículo 70 Bis, cuando se expidan:
 
-I. Para la sustanciación del juicio de amparo.
+I. Para la sustanciación del juicio de amparo;
 
-II. Para integrar los testimonios en la sustanciación de recursos.
+II. Para integrar los testimonios en la sustanciación de recursos; y
 
 III. Para la sustanciación de procedimientos penales y familiares.
 
-#### SECCION QUINTA. DE LOS DERECHOS POR SERVICIOS DE RASTROS
+#### SECCIÓN CUARTA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR AUTORIDADES FISCALES, ADMINISTRATIVAS Y DE ACCESO A LA INFORMACIÓN PÚBLICA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
 ## TITULO CUARTO. DE LOS INGRESOS DE LOS MUNICIPIOS
 
 ### CAPITULO PRIMERO. DE LOS IMPUESTOS
 
-#### SECCION SEXTA. DE LOS DERECHOS POR CORRAL DE CONCEJO, E IDENTIFICACION DE SEÑALES DE SANGRE, TATUAJES, ELEMENTOS ELECTROMAGNETICOS Y FIERROS PARA MARCAR GANADO Y MAGUEYES
+#### SECCION QUINTA. DE LOS DERECHOS POR SERVICIOS DE RASTROS
 
 ###### Artículo 107.
 
@@ -6667,11 +6695,7 @@ Respecto de los créditos fiscales derivados del Impuesto Predial que no hayan s
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
-#### SECCION SEPTIMA. DE LOS DERECHOS POR USO DE VIAS Y AREAS PUBLICAS PARA EL EJERCICIO DE ACTIVIDADES COMERCIALES O DE SERVICIOS
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008) (REPUBLICADO PRIMER PÁRRAFO, G.G. 19 DE DICIEMBRE DE 2012)
+#### SECCION SEXTA. DE LOS DERECHOS POR CORRAL DE CONCEJO, E IDENTIFICACION DE SEÑALES DE SANGRE, TATUAJES, ELEMENTOS ELECTROMAGNETICOS Y FIERROS PARA MARCAR GANADO Y MAGUEYES
 
 ###### Artículo 113.
 
@@ -6897,7 +6921,11 @@ Si las adquisiciones se hacen constar en documentos privados, el cálculo y ente
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 6 DE DICIEMBRE DE 2002)</small>
 
-#### SECCION OCTAVA. DE LOS DERECHOS POR SERVICIOS DE PANTEONES
+#### SECCION SEPTIMA. DE LOS DERECHOS POR USO DE VIAS Y AREAS PUBLICAS PARA EL EJERCICIO DE ACTIVIDADES COMERCIALES O DE SERVICIOS
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008) (REPUBLICADO PRIMER PÁRRAFO, G.G. 19 DE DICIEMBRE DE 2012)
 
 ###### Artículo 118.
 
@@ -7007,9 +7035,7 @@ Grupo B.- Comprenderá los municipios no incluidos en el grupo A.
 
 II. Los montos determinados de conformidad con lo previsto en este artículo, se pagarán ante la tesorería correspondiente, dentro de los noventa días siguientes contados a partir de la fecha de publicación en el periódico oficial, del acuerdo de autorización del conjunto urbano o de las subdivisiones de predios de que se trate, o de sus modificaciones.
 
-#### SECCION NOVENA. DE LOS DERECHOS DE ESTACIONAMIENTO EN LA VIA PUBLICA Y DE SERVICIO PUBLICO
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+#### SECCION OCTAVA. DE LOS DERECHOS POR SERVICIOS DE PANTEONES
 
 ###### Artículo 120.
 
@@ -7091,9 +7117,9 @@ No se pagará este impuesto, por aquellos anuncios que tengan como única finali
 
 Para efectos de este artículo se entenderá como anuncio luminoso, aquél que sea alumbrado por una fuente de luz distinta de la natural, en su interior o exterior.
 
-#### SECCION DECIMA. DE LOS DERECHOS POR LA EXPEDICION O REFRENDO ANUAL DE LICENCIAS PARA LA VENTA DE BEBIDAS ALCOHOLICAS AL PUBLICO
+#### SECCION NOVENA. DE LOS DERECHOS DE ESTACIONAMIENTO EN LA VIA PUBLICA Y DE SERVICIO PUBLICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 122.
 
@@ -7141,9 +7167,9 @@ Las máquinas de entretenimiento de audio, vídeo, vídeo juegos, eléctricas y 
 
 Los contribuyentes que habitualmente realicen actividades por las que se cause este impuesto lo pagarán dentro de los primeros diecisiete días de cada mes; y quienes realicen actividades que lo causen de manera temporal lo deberán pagar diario en la tesorería.
 
-#### SECCION DECIMA PRIMERA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR AUTORIDADES DE SEGURIDAD PUBLICA
+#### SECCION DECIMA. DE LOS DERECHOS POR LA EXPEDICION O REFRENDO ANUAL DE LICENCIAS PARA LA VENTA DE BEBIDAS ALCOHOLICAS AL PUBLICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 125.
 
@@ -7185,7 +7211,9 @@ Artículo 128 Bis B.- El Órgano Superior de Fiscalización del Estado de Méxic
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 16 DE DICIEMBRE DE 2011)</small>
 
-#### SECCION DECIMA SEGUNDA. DE LOS DERECHOS POR SERVICIOS DE ALUMBRADO PUBLICO
+#### SECCION DECIMA PRIMERA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR AUTORIDADES DE SEGURIDAD PUBLICA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 129.
 
@@ -8039,7 +8067,7 @@ Grupo 4.- Comprenderá el resto de los municipios del Estado no incluidos en los
 
 (DEROGADO, G.G. 30 DE DICIEMBRE DE 2003)
 
-#### SECCION DECIMA TERCERA. DE LOS DERECHOS POR SERVICIOS DE LIMPIEZA DE LOTES BALDIOS, RECOLECCION, TRASLADO Y DISPOSICION FINAL DE RESIDUOS SOLIDOS INDUSTRIALES Y COMERCIALES
+#### SECCION DECIMA SEGUNDA. DE LOS DERECHOS POR SERVICIOS DE ALUMBRADO PUBLICO
 
 ###### Artículo 142.
 
@@ -8233,9 +8261,7 @@ En los casos de desastres como heladas, inundaciones, epidemias, sismos o de cam
 
 Los municipios podrán convenir con el Estado, para que éste sea quien preste los servicios del Registro Civil, y reciba el pago de los derechos correspondientes.
 
-#### SECCION DECIMA CUARTA. DE LOS DERECHOS POR LOS SERVICIOS PRESTADOS POR LAS AUTORIDADES DE CATASTRO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE DICIEMBRE DE 2003)</small>
+#### SECCION DECIMA TERCERA. DE LOS DERECHOS POR SERVICIOS DE LIMPIEZA DE LOTES BALDIOS, RECOLECCION, TRASLADO Y DISPOSICION FINAL DE RESIDUOS SOLIDOS INDUSTRIALES Y COMERCIALES
 
 ###### Artículo 143.
 
@@ -8657,11 +8683,9 @@ Para los efectos de esta Sección, se atenderá a la clasificación de municipio
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
-#### SECCION PRIMERA. DE LOS ELEMENTOS DE LAS TABLAS DE VALOR
+#### SECCION DECIMA CUARTA. DE LOS DERECHOS POR LOS SERVICIOS PRESTADOS POR LAS AUTORIDADES DE CATASTRO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 147.
 
@@ -8837,11 +8861,11 @@ B). Por cada metro o fracción
 
 excedente, por día. 1.0
 
-#### SECCION SEGUNDA. DEL PROCEDIMIENTO PARA LA INTEGRACION Y ACTUALIZACION DE LAS TABLAS DE VALOR
+#### SECCION PRIMERA. DE LOS ELEMENTOS DE LAS TABLAS DE VALOR
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 150.
 
@@ -8921,9 +8945,11 @@ por cabeza, o cada una. 0.0051
 
 El pago de este derecho se efectuará mensualmente en la tesorería, presentando una relación del número de cabezas sacrificadas por especie, en el mes anterior.
 
-#### SECCION TERCERA. DE LA DETERMINACION DEL VALOR CATASTRAL
+#### SECCION SEGUNDA. DEL PROCEDIMIENTO PARA LA INTEGRACION Y ACTUALIZACION DE LAS TABLAS DE VALOR
 
-> <small>(REFORMADO, G.G. 27 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 152.
 
@@ -8951,9 +8977,9 @@ Por el registro anual de instrumentos para la identificación de señales de san
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
-#### SECCION PRIMERA. DE LAS DISPOSICIONES GENERALES
+#### SECCION TERCERA. DE LA DETERMINACION DEL VALOR CATASTRAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 154.
 
@@ -9015,7 +9041,9 @@ Por la expedición y renovación anual de la cédula para puestos fijos, semifij
 
 Para el cobro del derecho a que se refiere el presente artículo, la autoridad municipal deberá emitir el reglamento relativo a las modalidades, requisitos y características que deberán tener las cédulas, como son, entre otros, los datos que permitan la identificación del comercio, la persona a quien se expide la cédula, la vigencia de la misma y su carácter no transferible.
 
-#### SECCION SEGUNDA. DEL PROCEDIMIENTO PARA LA DETERMINACION DE LAS APORTACIONES
+#### SECCION PRIMERA. DE LAS DISPOSICIONES GENERALES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 155.
 
@@ -9189,7 +9217,7 @@ Por la evaluación de la prestación del servicio de panteones concesionados, el
 
 El pago de este derecho se efectuará mensualmente en la tesorería, presentando una relación de las inhumaciones efectuadas el mes anterior.
 
-#### SECCION TERCERA. DE LA ORGANIZACION DE LOS BENEFICIARIOS
+#### SECCION SEGUNDA. DEL PROCEDIMIENTO PARA LA DETERMINACION DE LAS APORTACIONES
 
 ###### Artículo 157.
 
@@ -9255,9 +9283,7 @@ El permisionario podrá establecer una cuota fija por tiempo libre o cobrar el s
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
-#### SECCION CUARTA. DE LA FORMA DE PAGO
-
-> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+#### SECCION TERCERA. DE LA ORGANIZACION DE LOS BENEFICIARIOS
 
 ###### Artículo 159.
 
@@ -9505,11 +9531,9 @@ Cuando la expedición de la licencia no se autorice en el primer mes del ejercic
 
 El refrendo deberá pagarse dentro de los primeros tres meses de cada año.
 
-#### SECCION PRIMERA. DE LAS DISPOSICIONES GENERALES
+#### SECCION CUARTA. DE LA FORMA DE PAGO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 160.
 
@@ -9543,7 +9567,7 @@ VIII. Primer
 
 comandante. 9.64
 
-#### SECCION SEGUNDA. DEL REGISTRO CONTABLE Y PRESUPUESTAL
+#### SECCION PRIMERA. DE LAS DISPOSICIONES GENERALES
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -9569,11 +9593,11 @@ Tratándose de microindustrias ubicadas en los inmuebles de referencia y que est
 
 Los ayuntamientos podrán acordar la aplicación del derecho en aquellas zonas que no tengan un grado relativo de existencia del servicio, a solicitud de los habitantes del área específica del municipio, o por convenio expreso entre éstos y el ayuntamiento, cuando los importes de su recaudación se destinen precisamente a la introducción o ampliación en su caso, de las redes de alumbrado público faltantes o insuficientes, respectivamente.
 
-#### SECCION TERCERA. DE LA INFORMACION CONTABLE, PRESUPUESTAL Y FINANCIERA
+#### SECCION SEGUNDA. DEL REGISTRO CONTABLE Y PRESUPUESTAL
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 16 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 163.
 
@@ -9640,6 +9664,10 @@ Se consideran residuos sólidos industriales y comerciales, los que así conside
 Por uso del relleno sanitario, se deberán cubrir por concepto de derechos 0.776 días de salario mínimo general vigente en el área geográfica que corresponda, por m3 o fracción.
 
 #### SECCION TERCERA. DE LA INFORMACION CONTABLE, PRESUPUESTAL Y FINANCIERA
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 16 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 166.
 
@@ -16130,6 +16158,22 @@ G.G. 1 DE ENERO DE 2013.
 Primero.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
 
 Segundo.- Hágase del conocimiento de las Dependencias de la Administración Pública del Gobierno del Estado de México, y de las Unidades Administrativas de la Subsecretaría de Ingresos.
+
+G.G. 22 DE FEBRERO DE 2013.
+
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DE REFORMA QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Los Ayuntamientos en el ámbito de su competencia, proveerán lo necesario para dar cumplimiento al presente Decreto, expidiendo al efecto, las disposiciones respectivas.
+
+CUARTO.- Los Ayuntamientos realizarán el refrendo a más tardar el 30 de abril de 2013, en el cual, autorizarán el horario de funcionamiento en los términos de este Decreto, únicamente por lo que corresponde a este año, ya que los subsecuentes años deberá de hacerse dentro de los primeros tres meses.
+
+.
+
+SEXTO.- Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo dispuesto por el presente Decreto.
 
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE DA A CONOCER EL MANUAL GRÁFICO PARA EL USO DE UNIFORMES, DIVISAS Y EQUIPO DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS”.]
 
