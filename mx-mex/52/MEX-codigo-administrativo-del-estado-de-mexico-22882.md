@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2012-12-19"
+last_updated: "2013-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE FEBRERO DE 2013 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE FEBRERO DE 2013.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -2041,73 +2043,21 @@ V. El tratamiento, rehabilitación y reinserción social de los adictos, mediant
 
 37.- El Programa de Prevención y Atención a las Adicciones del Estado de México, abarcará a la población abierta, ubicará las zonas o sectores tanto urbanos, suburbanos o rurales que se identifiquen como sitios de riesgo o generador de adicciones; propiciará la participación de la familia y de la sociedad en la detección de los factores de riesgo y de protección, e impulsará también acciones tendientes a prevenir, reducir y evitar el consumo de sustancias psicoactivas.
 
+> <small>(ADICIONADO, G.G. 22 DE FEBRERO DE 2013)</small>
+
+###### Artículo 2.
+
+37 Bis.- En los establecimientos mercantiles donde se vendan o suministren bebidas alcohólicas, se prohíbe su venta o suministro a menores de edad, por lo que se pedirá identificación oficial vigente, para verificar que se trate de un mayor de 18 años.
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE FEBRERO DE 2013 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+> <small>(ADICIONADO, G.G. 22 DE FEBRERO DE 2013)</small>
+
+###### Artículo 2.
+
+37 Ter.- El establecimiento mercantil donde se venden o suministren bebidas alcohólicas, deberá contar con la licencia de funcionamiento vigente que le autorice la venta de bebidas alcohólicas, la cual, se deberá colocar en un lugar visible dentro del propio establecimiento.
+
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
-
-###### Artículo 2.
-
-38.- Son Autoridades encargadas de la aplicación del presente capítulo:
-
-I. El Ejecutivo del Estado;
-
-II. La Secretaría de Salud;
-
-III. La Secretaría de Educación;
-
-IV. La Procuraduría General de Justicia del Estado de México;
-
-V. El Sistema para el Desarrollo Integral de la Familia del Estado de México;
-
-VI. La Agencia de Seguridad Estatal;
-
-VII. La Comisión de Derechos de Humanos del Estado de México;
-
-VIII. Los ayuntamientos del Estado de México, dentro del ámbito de su competencia; y
-
-IX. Las Dependencias, Entidades y Organismos de la Administración Pública Estatal, en los asuntos de su competencia conforme a lo dispuesto en este capítulo.
-
-> <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
-
-###### Artículo 2.
-
-39.- Para los efectos de este capítulo, la Secretaría de Salud tendrá las siguientes atribuciones:
-
-I. Cumplir con los lineamientos, medidas y acciones que dicte el Titular del Ejecutivo, en materia de prevención y atención de las adicciones;
-
-II. Coordinar con las Dependencias y Organismos Auxiliares de la Administración Pública Estatal, el diseño y la ejecución de programas y campañas específicas para la preservación de la salud pública;
-
-III. Instrumentar mecanismos para la adecuada prestación de los servicios de orientación y atención a las personas con problemas de adicción;
-
-IV. Llevar a cabo programas y acciones encaminadas a la prevención y atención del consumo de sustancias psicoactivas;
-
-V. Vigilar en su caso, el cumplimiento de las disposiciones jurídicas en materia de prevención y atención de las adicciones por parte de quienes brinden los servicios especializados en la materia;
-
-VI. Promover la formación y capacitación de recursos humanos especializados para la prevención y atención de las adicciones;
-
-> <small>(REFORMADA, G.G. 9 DE AGOSTO DE 2012)</small>
-
-VII. Crear y actualizar permanentemente el padrón de instituciones y organismos que realicen actividades de prevención, atención y reinserción social en materia de adicciones;
-
-VIII. Proporcionar asistencia técnica y apoyo a los establecimientos de rehabilitación y atención privados y sociales, con base en los lineamientos que fije el Ejecutivo del Estado;
-
-> <small>(REFORMADA, G.G. 9 DE AGOSTO DE 2012)</small>
-
-IX. Realizar actividades en materia de investigación científica respecto al uso, abuso y dependencia de sustancias psicoactivas. Para este fin podrá celebrar acuerdos de colaboración con los centros de estudios superiores, las universidades u organismos de investigación;
-
-X. Llevar a cabo, a través del Instituto Mexiquense contra las Adicciones, los programas o acciones encaminadas a la prevención, atención del uso, abuso y dependencia de sustancias psicoactivas, así como su seguimiento y evaluación.
-
-> <small>(ADICIONADA, G.G. 9 DE AGOSTO DE 2012)</small>
-
-XI. Atender los reportes de la autoridad ministerial para promover la correspondiente orientación médica o de prevención; o bien, brindar el tratamiento al farmacodependiente, en términos de lo establecido en los artículos 193 Bis y 478 de la Ley General de Salud;
-
-> <small>(ADICIONADA, G.G. 9 DE AGOSTO DE 2012)</small>
-
-XII. Crear centros especializados en tratamiento, atención y rehabilitación, con base en sistemas modernos de tratamiento y rehabilitación, fundamentados en el respeto a la integridad y a la libre decisión del farmacodependiente, de conformidad con el artículo 192 Quáter de la Ley General de Salud; y
-
-> <small>(ADICIONADA, G.G. 9 DE AGOSTO DE 2012)</small>
-
-XIII. Crear indicadores y bases de datos que permitan identificar zonas, sectores y grupos de alto riesgo en materia de farmacodependencia.
-
-> <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
 
 #### SECCIÓN TERCERA. De las Autoridades
 
@@ -2168,6 +2118,78 @@ Asimismo, y para el cumplimiento de las atribuciones a que se refiere el artícu
 ###### Artículo 36.
 
 El Estado Mayor General de la Armada es el órgano asesor operativo del Alto Mando responsable de la preparación, planeación, coordinación y supervisión de las operaciones navales que se establezcan, requeridas para el cumplimiento de la misión y atribuciones de la Armada de México.
+
+###### Artículo 2.
+
+38.- Son Autoridades encargadas de la aplicación del presente capítulo:
+
+I. El Ejecutivo del Estado;
+
+II. La Secretaría de Salud;
+
+III. La Secretaría de Educación;
+
+IV. La Procuraduría General de Justicia del Estado de México;
+
+V. El Sistema para el Desarrollo Integral de la Familia del Estado de México;
+
+VI. La Agencia de Seguridad Estatal;
+
+VII. La Comisión de Derechos de Humanos del Estado de México;
+
+VIII. Los ayuntamientos del Estado de México, dentro del ámbito de su competencia; y
+
+IX. Las Dependencias, Entidades y Organismos de la Administración Pública Estatal, en los asuntos de su competencia conforme a lo dispuesto en este capítulo.
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE FEBRERO DE 2013 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+> <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
+
+###### Artículo 2.
+
+39.- Para los efectos de este capítulo, la Secretaría de Salud tendrá las siguientes atribuciones:
+
+I. Cumplir con los lineamientos, medidas y acciones que dicte el Titular del Ejecutivo, en materia de prevención y atención de las adicciones;
+
+II. Coordinar con las Dependencias y Organismos Auxiliares de la Administración Pública Estatal, el diseño y la ejecución de programas y campañas específicas para la preservación de la salud pública;
+
+III. Instrumentar mecanismos para la adecuada prestación de los servicios de orientación y atención a las personas con problemas de adicción;
+
+IV. Llevar a cabo programas y acciones encaminadas a la prevención y atención del consumo de sustancias psicoactivas;
+
+V. Vigilar en su caso, el cumplimiento de las disposiciones jurídicas en materia de prevención y atención de las adicciones por parte de quienes brinden los servicios especializados en la materia;
+
+VI. Promover la formación y capacitación de recursos humanos especializados para la prevención y atención de las adicciones;
+
+> <small>(REFORMADA, G.G. 9 DE AGOSTO DE 2012)</small>
+
+VII. Crear y actualizar permanentemente el padrón de instituciones y organismos que realicen actividades de prevención, atención y reinserción social en materia de adicciones;
+
+> <small>(ADICIONADA, G.G. 22 DE FEBRERO DE 2013)</small>
+
+VII Bis. Crear y actualizar el registro de establecimientos mercantiles en donde se expida el permiso sanitario para la solicitud o renovación de licencia de funcionamiento de un establecimiento mercantil con venta o suministro de bebidas alcohólicas, en botella cerrada, para el consumo inmediato o al copeo;
+
+VIII. Proporcionar asistencia técnica y apoyo a los establecimientos de rehabilitación y atención privados y sociales, con base en los lineamientos que fije el Ejecutivo del Estado;
+
+> <small>(REFORMADA, G.G. 9 DE AGOSTO DE 2012)</small>
+
+IX. Realizar actividades en materia de investigación científica respecto al uso, abuso y dependencia de sustancias psicoactivas. Para este fin podrá celebrar acuerdos de colaboración con los centros de estudios superiores, las universidades u organismos de investigación;
+
+X. Llevar a cabo, a través del Instituto Mexiquense contra las Adicciones, los programas o acciones encaminadas a la prevención, atención del uso, abuso y dependencia de sustancias psicoactivas, así como su seguimiento y evaluación.
+
+> <small>(ADICIONADA, G.G. 9 DE AGOSTO DE 2012)</small>
+
+XI. Atender los reportes de la autoridad ministerial para promover la correspondiente orientación médica o de prevención; o bien, brindar el tratamiento al farmacodependiente, en términos de lo establecido en los artículos 193 Bis y 478 de la Ley General de Salud;
+
+> <small>(ADICIONADA, G.G. 9 DE AGOSTO DE 2012)</small>
+
+XII. Crear centros especializados en tratamiento, atención y rehabilitación, con base en sistemas modernos de tratamiento y rehabilitación, fundamentados en el respeto a la integridad y a la libre decisión del farmacodependiente, de conformidad con el artículo 192 Quáter de la Ley General de Salud; y
+
+> <small>(ADICIONADA, G.G. 9 DE AGOSTO DE 2012)</small>
+
+XIII. Crear indicadores y bases de datos que permitan identificar zonas, sectores y grupos de alto riesgo en materia de farmacodependencia.
+
+> <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 2.
 
@@ -2257,32 +2279,6 @@ V. Las demás que señalen las leyes y disposiciones de la materia.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
 
-###### Artículo 2.
-
-45.- En materia de prevención y atención a las adicciones, los municipios del Estado de México tendrán las atribuciones siguientes:
-
-I. Realizar acciones que tiendan a la prevención del consumo de sustancias psicoactivas, en congruencia con los programas nacional y estatal;
-
-II. Coadyuvar a través de las corporaciones de tránsito, protección y seguridad pública municipales, con las autoridades de procuración de justicia y seguridad pública estatales, en la identificación de los lugares y sitios de distribución y venta de sustancias psicoactivas, para los efectos legales procedentes;
-
-III. Denunciar ante las Procuradurías General de la República y General de Justicia del Estado de México, en el ámbito de sus competencias, respectivamente, sobre la existencia de conductas que pueden constituir delitos contra la salud;
-
-IV. Establecer programas preventivos de control del uso y abuso de sustancias psicoactivas, en la esfera de sus atribuciones, con elementos médico-científicos;
-
-V. Conformar una red preventiva ciudadana para prevenir el uso y abuso de sustancias psicoactivas;
-
-VI. Realizar un diagnóstico sobre el estado que guarda el consumo de drogas a nivel municipal; y
-
-VII. Promover la creación de Unidades de Prevención y Tratamiento de las adicciones, en términos de las disposiciones legales correspondientes.
-
-> <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
-
-###### Artículo 2.
-
-46.- La Secretaría de Salud, por conducto del Instituto Mexiquense contra las Adicciones, implementará acciones conjuntas con los ayuntamientos para la prevención, el tratamiento y la rehabilitación de personas que sufren problemas de adicciones.
-
-> <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
-
 #### SECCIÓN CUARTA. De la participación municipal en la prevención y atención a las adicciones
 
 > <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
@@ -2321,7 +2317,67 @@ Para sancionar las faltas graves en contra de la disciplina naval, la Armada de 
 
 ###### Artículo 2.
 
+45.- En materia de prevención y atención a las adicciones, los municipios del Estado de México tendrán las atribuciones siguientes:
+
+I. Realizar acciones que tiendan a la prevención del consumo de sustancias psicoactivas, en congruencia con los programas nacional y estatal;
+
+II. Coadyuvar a través de las corporaciones de tránsito, protección y seguridad pública municipales, con las autoridades de procuración de justicia y seguridad pública estatales, en la identificación de los lugares y sitios de distribución y venta de sustancias psicoactivas, para los efectos legales procedentes;
+
+III. Denunciar ante las Procuradurías General de la República y General de Justicia del Estado de México, en el ámbito de sus competencias, respectivamente, sobre la existencia de conductas que pueden constituir delitos contra la salud;
+
+IV. Establecer programas preventivos de control del uso y abuso de sustancias psicoactivas, en la esfera de sus atribuciones, con elementos médico-científicos;
+
+V. Conformar una red preventiva ciudadana para prevenir el uso y abuso de sustancias psicoactivas;
+
+VI. Realizar un diagnóstico sobre el estado que guarda el consumo de drogas a nivel municipal; y
+
+VII. Promover la creación de Unidades de Prevención y Tratamiento de las adicciones, en términos de las disposiciones legales correspondientes.
+
+> <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
+
+###### Artículo 2.
+
+46.- La Secretaría de Salud, por conducto del Instituto Mexiquense contra las Adicciones, implementará acciones conjuntas con los ayuntamientos para la prevención, el tratamiento y la rehabilitación de personas que sufren problemas de adicciones.
+
+> <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
+
+###### Artículo 2.
+
 47.- Los ayuntamientos, para prevenir las adicciones, podrán restringir el expendio y consumo de bebidas alcohólicas y tabaco, en las distintas instalaciones recreativas y deportivas, o con motivo de la realización de festejos populares o tradicionales.
+
+> <small>(ADICIONADO, G.G. 22 DE FEBRERO DE 2013)</small>
+
+###### Artículo 2.
+
+47 Bis.- Los ayuntamientos sólo permitirán el funcionamiento de establecimientos mercantiles cuyo giro contemple la venta y/o distribución de bebidas alcohólicas en envase abierto y/o al copeo para su consumo en el interior, dentro de los horarios siguientes:
+
+I. Bares, cantinas y restaurantes bar, de las 11:00 a las 02:00 horas del día siguiente;
+
+II. Discotecas y video bares con pista de baile, de las 17:00 a las 02:00 horas del día siguiente;
+
+III. Pulquerías, de las 15:00 a las 23:00 horas;
+
+IV. Centros nocturnos y cabarets, de las 20:00 a las 02:00 horas del día siguiente;
+
+V. Bailes públicos, de las 17:00 a las 02:00 horas del día siguiente; y
+
+VI. Centros botaneros, cerveceros y salones de baile, de las 15:00 a las 22:00 horas.
+
+Los horarios a los que se hace referencia en las fracciones anteriores, por ningún motivo podrán ser ampliados.
+
+Cuando por su denominación algún establecimiento no se encuentre comprendido en las clasificaciones anteriores, se ubicará en aquel que por sus características les sea más semejante.
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE FEBRERO DE 2013 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+> <small>(ADICIONADO, G.G. 22 DE FEBRERO DE 2013)</small>
+
+###### Artículo 2.
+
+47 Ter.- Queda prohibida la contratación de menores de edad en los giros mercantiles citados en el artículo anterior; además será requisito para su operación, los siguientes:
+
+I. Contar con un aparato que mida el nivel de alcohol de sus clientes, mismo que deberá cumplir con las especificaciones establecidas en la Norma Oficial Mexicana, expedida para tal efecto, para que al observarles notoriamente alcoholizados, ofreciéndoles llamar a un taxi y exhortándoles a no conducir; y
+
+II. Contar con publicidad escrita visible que indique: "El abuso en el consumo de bebidas alcohólicas es dañino para la salud", "El consumo de bebidas alcohólicas está prohibido a menores de edad", "La licencia de funcionamiento vigente, que autorice la venta de bebidas alcohólicas deberá estar en lugar visible dentro del propio establecimiento", "La venta de bebidas alcohólicas sin licencia es un delito", “Por tu seguridad, propon un conductor designado”, “Está prohibida la venta, suministro y consumo de bebidas alcohólicas fuera de este establecimiento”.
 
 > <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
 
@@ -2427,6 +2483,10 @@ Queda estrictamente prohibido el uso de aislantes de sonido que pongan en riesgo
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 2.35], G.G. 30 DE SEPTIEMBRE DE 2010)
 
+### CAPITULO PRIMERO. Disposiciones generales
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 2.30], G.G. 30 DE SEPTIEMBRE DE 2010)
+
 ###### Artículo 2.
 
 54.- Los residuos sólidos municipales deben tratarse conforme a lo previsto en las normas técnicas estatales, de tal manera que no signifiquen un peligro para la salud y por ningún motivo se manipularán antes de su tratamiento o disposición final.
@@ -2446,36 +2506,6 @@ En caso de animales muertos abandonados el Instituto de Salud del Estado de Méx
 56.- El Instituto de Salud del Estado de México realizará análisis periódicos de la potabilidad de las aguas, conforme a lo previsto en las normas oficiales mexicanas.
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 2.38], G.G. 30 DE SEPTIEMBRE DE 2010)
-
-###### Artículo 2.
-
-57.- Las localidades del Estado deben contar con sistemas para el desagüe rápido e higiénico de sus desechos, preferentemente por medio de alcantarillado o fosas sépticas.
-
-Queda prohibido que los desechos o líquidos que conduzcan los drenajes sean vertidos en ríos, arroyos, acueductos, corrientes o canales por donde fluyan aguas destinadas al consumo humano.
-
-(REUBICADO [N. DE E. ANTES ARTÍCULO 2.39], G.G. 30 DE SEPTIEMBRE DE 2010)
-
-### CAPITULO PRIMERO. Disposiciones generales
-
-(REUBICADO [N. DE E. ANTES ARTÍCULO 2.30], G.G. 30 DE SEPTIEMBRE DE 2010)
-
-###### Artículo 2.
-
-58.- Los sitios de cría y producción de animales domésticos deben localizarse fuera de las áreas urbanas y urbanizables.
-
-(REUBICADO [N. DE E. ANTES ARTÍCULO 2.40], G.G. 30 DE SEPTIEMBRE DE 2010)
-
-###### Artículo 2.
-
-59.- Las personas que realicen actividades o presten servicios de salubridad local sujetos al control sanitario del Instituto de Salud del Estado de México, que no requieran autorización sanitaria conforme al Capítulo siguiente, deben dar aviso por escrito al Instituto del inicio de sus operaciones.
-
-(REUBICADO [N. DE E. ANTES ARTÍCULO 2.41], G.G. 30 DE SEPTIEMBRE DE 2010)
-
-###### Artículo 2.
-
-60.- Cuando las construcciones, terrenos, edificios o locales representen un peligro para la población por su insalubridad, el Instituto de Salud del Estado de México podrá ordenar al propietario o poseedor la realización de las obras que estime necesarias para evitar el peligro o, en su defecto, ordenar la ejecución de las obras con cargo al omiso.
-
-(REUBICADO [N. DE E. ANTES ARTÍCULO 2.42], G.G. 30 DE SEPTIEMBRE DE 2010)
 
 ### CAPITULO SEGUNDO. De las autorizaciones sanitarias
 
@@ -2523,45 +2553,35 @@ Las inconformidades se regularán conforme a las disposiciones reglamentarias re
 
 ###### Artículo 2.
 
+57.- Las localidades del Estado deben contar con sistemas para el desagüe rápido e higiénico de sus desechos, preferentemente por medio de alcantarillado o fosas sépticas.
+
+Queda prohibido que los desechos o líquidos que conduzcan los drenajes sean vertidos en ríos, arroyos, acueductos, corrientes o canales por donde fluyan aguas destinadas al consumo humano.
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 2.39], G.G. 30 DE SEPTIEMBRE DE 2010)
+
+###### Artículo 2.
+
+58.- Los sitios de cría y producción de animales domésticos deben localizarse fuera de las áreas urbanas y urbanizables.
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 2.40], G.G. 30 DE SEPTIEMBRE DE 2010)
+
+###### Artículo 2.
+
+59.- Las personas que realicen actividades o presten servicios de salubridad local sujetos al control sanitario del Instituto de Salud del Estado de México, que no requieran autorización sanitaria conforme al Capítulo siguiente, deben dar aviso por escrito al Instituto del inicio de sus operaciones.
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 2.41], G.G. 30 DE SEPTIEMBRE DE 2010)
+
+###### Artículo 2.
+
+60.- Cuando las construcciones, terrenos, edificios o locales representen un peligro para la población por su insalubridad, el Instituto de Salud del Estado de México podrá ordenar al propietario o poseedor la realización de las obras que estime necesarias para evitar el peligro o, en su defecto, ordenar la ejecución de las obras con cargo al omiso.
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 2.42], G.G. 30 DE SEPTIEMBRE DE 2010)
+
+###### Artículo 2.
+
 61.- Todo cambio de propietario de un establecimiento, de razón social o denominación o, en su caso, la suspensión de actividades, trabajos o servicios, debe ser comunicado al Instituto de Salud del Estado de México.
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 2.43], G.G. 30 DE SEPTIEMBRE DE 2010)
-
-###### Artículo 2.
-
-62.- Los proyectos de abastecimiento de agua potable deben ser sometidos a la consideración del Instituto de Salud del Estado de México para la aprobación del sistema adoptado.
-
-Los proyectos para la implantación de sistemas de alcantarillado deben ser estudiados y aprobados por el Instituto.
-
-###### Artículo 2.
-
-63.- La autorización sanitaria es el acto administrativo mediante el cual el Instituto de Salud del Estado de México permite a una persona física o moral, pública o privada, la realización de actividades relacionadas con la salud humana, en los casos y con los requisitos y modalidades que determinen este Título y su reglamento.
-
-Las autorizaciones sanitarias tendrán el carácter de licencias y permisos.
-
-(REUBICADO [N. DE E. ANTES ARTÍCULO 2.45], G.G. 30 DE SEPTIEMBRE DE 2010)
-
-###### Artículo 2.
-
-64.- Los panteones y crematorios requieren de licencia sanitaria, que deben exhibir en un lugar visible. Cuando los crematorios cambien de ubicación, requerirán nueva licencia.
-
-(REUBICADO [N. DE E. ANTES ARTÍCULO 2.46], G.G. 30 DE SEPTIEMBRE DE 2010)
-
-###### Artículo 2.
-
-65.- Requieren de permiso sanitario previo:
-
-I. El inicio y ocupación de las obras de construcción, reconstrucción, modificación o acondicionamiento de establecimientos, excepto aquellos de salud;
-
-II. El comercio de alimentos y bebidas en la vía pública; y
-
-III. El traslado de cadáveres de seres humanos a distancias mayores a cien kilómetros dentro del Estado.
-
-La Secretaría de Salud emitirá normas técnicas en materia de ingeniería sanitaria, tratándose de obras de construcción, reconstrucción, modificación o acondicionamiento de establecimientos.
-
-El Instituto de Salud del Estado de México, con base en las normas a que se refiere el párrafo anterior y a través de disposiciones de carácter general, señalará los casos en que se eximirá de los permisos sanitarios de inicio y ocupación de obras.
-
-(REUBICADO [N. DE E. ANTES ARTÍCULO 2.47], G.G. 30 DE SEPTIEMBRE DE 2010)
 
 #### SECCION SEGUNDA. De las medidas de seguridad sanitaria
 
@@ -2693,6 +2713,50 @@ Las escalas de los cuerpos técnico profesional están integradas por el persona
 
 ###### Artículo 2.
 
+62.- Los proyectos de abastecimiento de agua potable deben ser sometidos a la consideración del Instituto de Salud del Estado de México para la aprobación del sistema adoptado.
+
+Los proyectos para la implantación de sistemas de alcantarillado deben ser estudiados y aprobados por el Instituto.
+
+###### Artículo 2.
+
+63.- La autorización sanitaria es el acto administrativo mediante el cual el Instituto de Salud del Estado de México permite a una persona física o moral, pública o privada, la realización de actividades relacionadas con la salud humana, en los casos y con los requisitos y modalidades que determinen este Título y su reglamento.
+
+Las autorizaciones sanitarias tendrán el carácter de licencias y permisos.
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 2.45], G.G. 30 DE SEPTIEMBRE DE 2010)
+
+###### Artículo 2.
+
+64.- Los panteones y crematorios requieren de licencia sanitaria, que deben exhibir en un lugar visible. Cuando los crematorios cambien de ubicación, requerirán nueva licencia.
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 2.46], G.G. 30 DE SEPTIEMBRE DE 2010)
+
+###### Artículo 2.
+
+65.- Requieren de permiso sanitario previo:
+
+I. El inicio y ocupación de las obras de construcción, reconstrucción, modificación o acondicionamiento de establecimientos, excepto aquellos de salud;
+
+II. El comercio de alimentos y bebidas en la vía pública; y
+
+III. El traslado de cadáveres de seres humanos a distancias mayores a cien kilómetros dentro del Estado.
+
+> <small>(ADICIONADA, G.G. 22 DE FEBRERO DE 2013)</small>
+
+IV. La autorización y el refrendo que realice el Ayuntamiento de la licencia de funcionamiento de un establecimiento mercantil con venta o suministro de bebidas alcohólicas, en botella cerrada para el consumo inmediato o al copeo. En estos supuestos, la Secretaría de Salud a través del Consejo Rector de Impacto Sanitario emitirá el Dictamen de Factibilidad; su integración y funcionamiento se establecerán en la reglamentación correspondiente.
+
+El permiso sanitario que se expida, tendrá la vigencia de un año, es de carácter personal e intransferible. Se otorgará a favor de las personas físicas, jurídicas o entes colectivos solicitantes previo cumplimiento de los requisitos.
+
+La realización de giros adicionales exigidos para el desarrollo del giro originalmente autorizado, requerirá de la emisión de una nueva Autorización Municipal.
+
+La Secretaría de Salud emitirá normas técnicas en materia de ingeniería sanitaria, tratándose de obras de construcción, reconstrucción, modificación o acondicionamiento de establecimientos.
+
+El Instituto de Salud del Estado de México, con base en las normas a que se refiere el párrafo anterior y a través de disposiciones de carácter general, señalará los casos en que se eximirá de los permisos sanitarios de inicio y ocupación de obras.
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 2.47], G.G. 30 DE SEPTIEMBRE DE 2010)
+
+###### Artículo 2.
+
 66.- El Instituto de Salud del Estado de México revocará las autorizaciones que haya otorgado en los casos siguientes:
 
 I. Por incumplimiento de las disposiciones de este Libro y su reglamentación;
@@ -2708,6 +2772,10 @@ V. Cuando el interesado no se ajuste a los términos, condiciones y requisitos e
 Cuando la revocación de una autorización se funde en los riesgos o daños a la salud, se hará del conocimiento de las dependencias y organismos auxiliares que tengan atribuciones de orientación al consumidor.
 
 La revocación surtirá efectos de clausura, prohibición de uso y de ejercicio de las actividades que hubiesen sido autorizadas.
+
+#### SECCION TERCERA. De las sanciones
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 2.52], G.G. 30 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 2.
 
@@ -2737,7 +2805,13 @@ VIII. La desocupación o desalojo de casas, edificios, establecimientos y, en ge
 
 IX. La prohibición de actos de uso, que es la determinación mediante la cual se ordena a los poseedores, encargados u ocupantes la utilización de los aparatos, equipos, sustancias, productos terminados, recipientes o cualquier otro implemento empleado en procesos de producción de bienes y servicios o para la prestación de servicios; y
 
-X. Las demás que determinen las autoridades sanitarias que tiendan a evitar riesgos o daños a la salud.
+> <small>(REFORMADA, G.G. 22 DE FEBRERO DE 2013)</small>
+
+X. La suspensión temporal hasta por noventa días a establecimientos con venta de bebidas alcohólicas, que no cuenten con la licencia de funcionamiento o el permiso sanitario, incumplan el horario autorizado, contraten, vendan o suministren bebidas alcohólicas a menores de edad, así como por incumplir lo establecido por las fracciones I y II del artículo 2.47 Ter;
+
+> <small>(ADICIONADA, G.G. 22 DE FEBRERO DE 2013)</small>
+
+XI. Las demás que determinen las autoridades sanitarias que tiendan a evitar riesgos o daños a la salud.
 
 Estas medidas serán de inmediata ejecución, durarán el tiempo estrictamente necesario para que desaparezca el peligro y se aplicarán sin perjuicio de las sanciones correspondientes.
 
@@ -2781,9 +2855,9 @@ Si el dictamen reporta que el bien asegurado no es nocivo para la salud o cumple
 
 Si del dictamen resulta que el bien asegurado es nocivo para la salud, se podrá someter a un tratamiento que haga posible su aprovechamiento por el interesado o determinar su destrucción.
 
-#### SECCION TERCERA. De las sanciones
+## TITULO PRIMERO. Disposiciones generales
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 2.52], G.G. 30 DE SEPTIEMBRE DE 2010)
+### CAPITULO TERCERO. De la vigilancia
 
 ###### Artículo 2.
 
@@ -2811,6 +2885,26 @@ III. Con multa equivalente de doscientas cincuenta a dos mil veces el salario m�
 
 IV. Con multa equivalente de mil a cuatro mil veces el salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción, en caso de no contar con la licencia a que se refiere el artículo 2.64.
 
+> <small>(ADICIONADO, G.G. 22 DE FEBRERO DE 2013)</small>
+
+###### Artículo 2.
+
+72 Bis.- Las infracciones a lo previsto en este Libro serán sancionadas por los ayuntamientos en los términos siguientes:
+
+I. Con multa equivalente de doscientos cincuenta a quinientas veces de salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción a quien contando con autorización vigente incumpla con el horario autorizado;
+
+II. Con multa equivalente de dos mil a dos mil quinientas veces el salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción y la suspensión definitiva, por el incumplimiento a lo dispuesto en la fracción V del artículo 2.47 Bis;
+
+III. Con multa equivalente de quinientas a mil veces el salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción, y la clausura definitiva por el incumplimiento a lo dispuesto en el artículo 2.37 Ter; y
+
+IV. Con multa equivalente de quinientas a dos mil veces el salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción, y la clausura definitiva por el incumplimiento a lo dispuesto en los artículos 2.37 Bis y 2.47 Ter primer párrafo.
+
+> <small>(ADICIONADO, G.G. 22 DE FEBRERO DE 2013)</small>
+
+###### Artículo 2.
+
+72 Ter.- Además de lo señalado en el artículo anterior, como medida de seguridad, los ayuntamientos, a través de la autoridad competente, estarán facultados para suspender temporalmente, hasta por noventa días, el funcionamiento de estos establecimientos, mientras se lleve a cabo el procedimiento administrativo y con el objeto de preservar el interés público y la salud.
+
 (REUBICADO [N. DE E. ANTES ARTÍCULO 2.54], G.G. 30 DE SEPTIEMBRE DE 2010)
 
 ###### Artículo 2.
@@ -2824,10 +2918,6 @@ IV. Con multa equivalente de mil a cuatro mil veces el salario mínimo general v
 74.- En caso de reincidencia se duplicará el monto de la multa que corresponda. Se entiende por reincidencia que el infractor cometa la misma violación a las disposiciones de este Título dos o más veces dentro del periodo de un año, contado a partir de la fecha en que se le hubiera notificado la sanción inmediata anterior.
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 2.56], G.G. 30 DE SEPTIEMBRE DE 2010)
-
-## TITULO PRIMERO. Disposiciones generales
-
-### CAPITULO TERCERO. De la vigilancia
 
 ###### Artículo 2.
 
@@ -5989,7 +6079,7 @@ XXV. Las demás que le confieren este Libro y las demás disposiciones legales a
 
 ### CAPITULO PRIMERO. Disposiciones generales
 
-> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, G.G. 22 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 6.
 
@@ -6195,6 +6285,14 @@ Una vez concluidas las construcciones derivadas del uso del suelo a que se refie
 
 La reglamentación de este Libro establecerá las actividades que requieren autorización.
 
+> <small>(ADICIONADO, G.G. 22 DE FEBRERO DE 2013)</small>
+
+###### Artículo 6.
+
+25 Bis.- Previo a la expedición de la licencia de funcionamiento de establecimiento mercantil que venda bebidas alcohólicas para su consumo, en envase cerrado o al copeo, que otorgue la autoridad municipal, deberá la Secretaría de Seguridad Ciudadana, a través de la Dirección General de Protección Civil, emitir el dictamen de viabilidad de mediano o alto riesgo.
+
+Corresponde a los Municipios emitir dictamen de viabilidad de bajo riesgo, incluyendo a los establecimientos mercantiles que vendan bebidas alcohólicas para su consumo, en envase cerrado o al copeo.
+
 > <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 6.
@@ -6225,13 +6323,13 @@ El Registro Estatal de Protección Civil, es obligatorio e integrará de manera 
 
 > <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
+## TITULO CUARTO. De los simulacros y señalizaciones
+
 ###### Artículo 6.
 
 29.- Las declaratorias previstas en este Título deberán ser publicadas en la Gaceta del Gobierno, sin perjuicio de que se difundan a través de los medios de comunicación masiva. Las declaratorias podrán publicarse en el Periódico Oficial "Gaceta del Gobierno" con posterioridad a las acciones de protección civil.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE DICIEMBRE DE 2012)</small>
-
-## TITULO CUARTO. De los simulacros y señalizaciones
 
 ###### Artículo 6.
 
@@ -6249,23 +6347,23 @@ El Registro será público, no tendrá efectos constitutivos, ni surtirá efecto
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
-###### Artículo 6.
-
-32.- Corresponde a la Secretaría de Seguridad Ciudadana, a través de la Dirección General de Protección Civil, el ejercicio de las atribuciones de vigilancia y aplicación de medidas de seguridad y sanciones, tratándose de generadores de bajo, mediano o alto riesgo.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE DICIEMBRE DE 2012)</small>
-
 ## TITULO QUINTO. De las autorizaciones, registros y dictámenes
 
 > <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 6.
 
-33.- En case de riesgo inminente, sin perjuicio de la declaratoria de emergencia, la Secretaría de Seguridad Ciudadana, la Dirección General de Protección Civil y los municipios, dictarán de inmediato las medidas de seguridad conducentes a efecto de proteger la vida de la población y sus bienes, la planta productiva y el ambiente, así como para garantizar el funcionamiento de los servicios esenciales de la comunidad. El Secretario de Seguridad Ciudadana, informará de manera inmediata al Titular del Ejecutivo del Estado, las medidas de seguridad que fueron aplicadas.
+32.- Corresponde a la Secretaría de Seguridad Ciudadana, a través de la Dirección General de Protección Civil, el ejercicio de las atribuciones de vigilancia y aplicación de medidas de seguridad y sanciones, tratándose de generadores de mediano y alto riesgo. Corresponde a los municipios los de bajo riesgo.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE DICIEMBRE DE 2012)</small>
+
+## TITULO SEXTO. De las declaratorias de emergencia y desastre
 
 > <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
-## TITULO SEXTO. De las declaratorias de emergencia y desastre
+###### Artículo 6.
+
+33.- En case de riesgo inminente, sin perjuicio de la declaratoria de emergencia, la Secretaría de Seguridad Ciudadana, la Dirección General de Protección Civil y los municipios, dictarán de inmediato las medidas de seguridad conducentes a efecto de proteger la vida de la población y sus bienes, la planta productiva y el ambiente, así como para garantizar el funcionamiento de los servicios esenciales de la comunidad. El Secretario de Seguridad Ciudadana, informará de manera inmediata al Titular del Ejecutivo del Estado, las medidas de seguridad que fueron aplicadas.
 
 > <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
@@ -6311,6 +6409,10 @@ Se podrá imponer una o más sanciones de las previstas en este artículo por un
 
 > <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
+## TITULO SÉPTIMO. Del sistema estatal de información de protección civil y registro estatal de protección civil
+
+> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
+
 ###### Artículo 6.
 
 37.- Serán sancionadas con multa las infracciones siguientes:
@@ -6334,10 +6436,6 @@ III. De cuatro mil uno a cinco mil días de salario mínimo general vigente del 
 > <small>N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 278, PUBLICADO EN LA G.G. DE 31 DE MARZO DE 2011, SE MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE LIBRO.</small>
 
 > <small>(REFORMADO, G.G. 31 DE MARZO DE 2011)</small>
-
-## TITULO SÉPTIMO. Del sistema estatal de información de protección civil y registro estatal de protección civil
-
-> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 ## TITULO OCTAVO. De la vigilancia
 
@@ -12691,7 +12789,7 @@ XI. Las demás que por cualquier causa se encuentren impedidas para ello por dis
 
 ### CAPITULO TERCERO. De las obligaciones de los concesionarios y permisionarios
 
-> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 16.
 
@@ -12903,15 +13001,17 @@ En las materias reguladas en el presente Libro no procederá el recurso administ
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
 
-### CAPITULO TERCERO. Del Sistema de Transporte Masivo del Estado de México
+### CAPÍTULO TERCERO. Del Sistema de Transporte Masivo y Teleférico del Estado de México
 
-> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, G.G. 22 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 17.
 
 1.- Este Libro tiene por objeto regular las comunicaciones de jurisdicción local.
 
-Las comunicaciones de jurisdicción local comprenden la infraestructura vial primaria y los sistemas de transporte masivo o de alta capacidad, incluyendo las estaciones de transferencia modal, junto con su correspondiente derecho de vía y zona de seguridad.
+> <small>(REFORMADO, G.G. 22 DE FEBRERO DE 2013)</small>
+
+Las comunicaciones de jurisdicción local comprenden la infraestructura vial primaria y los sistemas de transporte masivo o de alta capacidad y de teleférico, incluyendo las estaciones de transferencia modal, junto con su correspondiente derecho de vía, zona de seguridad y zona de influencia, así como el sistema de elementos estructurales, mecánicos y eléctricos que integran el sistema del teleférico, como son, entre otros, cables, sistema de apoyos, anclajes, sistema motriz y eléctrico.
 
 Son de jurisdicción local las comunicaciones, vialidades, carreteras, caminos de cualquier naturaleza transferidas bajo cualquier título por el Gobierno Federal al Gobierno Estatal con base en la legislación aplicable.
 
@@ -12923,9 +13023,13 @@ Son de jurisdicción local las comunicaciones, vialidades, carreteras, caminos d
 
 l. Que se cuente con las comunicaciones necesarias y seguras para la integración del Estado y los municipios al desarrollo estatal y nacional;
 
-II. Que se cuente con un transporte masivo o de alta capacidad, seguro, eficiente y de calidad; y
+> <small>(REFORMADA, G.G. 22 DE FEBRERO DE 2013)</small>
 
-III. Que se cuente con estaciones de transferencia modal, cómodas y eficientes que permitan a los usuarios la transición segura para los diferentes modos de transporte.
+II. Que se cuente con sistemas de transporte masivo o de alta capacidad y de teleférico seguro, eficiente y de calidad; y
+
+> <small>(REFORMADA, G.G. 22 DE FEBRERO DE 2013)</small>
+
+III. Que se cuente con estaciones de transferencia modal, que permitan a los usuarios la transición segura para los diferentes modos de transporte; así como terminales de abordaje origen-destino e intermedias necesarias para el sistema de teleférico, todas ellas seguras, cómodas y eficientes.
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -12935,7 +13039,9 @@ III. Que se cuente con estaciones de transferencia modal, cómodas y eficientes 
 
 Para la construcción, conservación, rehabilitación y mantenimiento de las comunicaciones de jurisdicción local, no se requiere licencia de construcción.
 
-El transporte de pasajeros de alta capacidad o masivo, constituye un servicio público cuya prestación corresponde al Gobierno del Estado, quien puede prestarlo directamente o a través de concesiones, que se otorguen en términos del presente Libro y del Reglamento de la materia.
+> <small>(REFORMADO, G.G. 22 DE FEBRERO DE 2013)</small>
+
+Los sistemas de transporte de pasajeros de alta capacidad o masivo y teleférico, constituyen servicios públicos cuya prestación corresponde al Gobierno del Estado, quien puede prestarlos directamente o a través de concesiones, que se otorguen en términos del presente Libro y del Reglamento de la materia.
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -12961,7 +13067,19 @@ VI. Publicidad Exterior.- A toda forma de difusión de mensajes mediante el uso 
 
 VII. Secretaría.- A la Secretaría de Comunicaciones del Estado de México;
 
+> <small>(ADICIONADA, G.G. 22 DE FEBRERO DE 2013)</small>
+
+VII Bis. Sistema Teleférico.- Conjunto de cables, sistema de apoyos, anclajes, sistema motriz y eléctrico que requiere el transporte teleférico;
+
 VIII. Transporte Masivo o de Alta Capacidad.- Al que se presta en vías específicas y/o confinadas, con equipos electrónicos de recaudo y despacho centralizado, con rodamiento técnico especializado y/o con equipo vehicular capaz de transportar a más de cien personas a la vez; incluyendo los accesos, vestíbulos, líneas de conducción, andenes, trenes, autobuses de alta capacidad, equipos electromecánicos, vías, carril confinado, talleres, depósitos de vehículos, locales técnicos, sistemas electrónicos de recaudo y despacho y demás construcciones e instalaciones destinadas al servicio público de transporte de alta capacidad;
+
+> <small>(ADICIONADA, G.G. 22 DE FEBRERO DE 2013)</small>
+
+VIII Bis. Transporte Teleférico.- El que se presta a través de un sistema elevado de elementos estructurales, mecánicos y eléctricos que integran el sistema del teleférico y que por consiguiente no utiliza camino terrestre de rodadura, en la mayor parte de su recorrido;
+
+> <small>(ADICIONADA, G.G. 22 DE FEBRERO DE 2013)</small>
+
+VIII Ter. Zona de Influencia.- Es la extensión, que en relación al teleférico, se determinará en cada caso, atendiendo a la topografía y a la naturaleza geológica del terreno, a las peculiares instalaciones del teleférico y a las características de utilización pública o privada de la zona afectada; y
 
 IX. Zona de Seguridad.- Al predio lindante con el derecho de vía de anchura variable determinada en las normas técnicas que emita la Secretaría de Comunicaciones, cuya preservación y restricción de uso, son necesarios para evitar riesgos a los usuarios de la infraestructura vial.
 
@@ -12969,7 +13087,7 @@ IX. Zona de Seguridad.- Al predio lindante con el derecho de vía de anchura var
 
 ### CAPITULO CUARTO. Del registro estatal de comunicaciones
 
-> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, G.G. 22 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 17.
 
@@ -12983,7 +13101,9 @@ III. La Junta de Caminos del Estado de México;
 
 IV. El Sistema de Autopistas, Aeropuertos, Servicios Conexos y Auxiliares del Estado de México;
 
-V. El Sistema de Transporte Masivo del Estado de México; y
+> <small>(REFORMADA, G.G. 22 DE FEBRERO DE 2013)</small>
+
+V. El Sistema de Transportes Masivo y Teleférico del Estado de México; y
 
 VI. Los municipios.
 
@@ -13003,11 +13123,11 @@ La intervención durará mientras subsista la causa que la motivó, para el sól
 
 Para los efectos de este artículo la Secretaría contará con un registro de vías y en él se indicarán aquellas en las que el tránsito se restringirá.
 
-> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, G.G. 22 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 17.
 
-8.- El Estado podrá operar, construir, explotar, conservar, rehabilitar y dar mantenimiento a la infraestructura vial de su competencia y a la infraestructura de los sistemas de transporte masivo, incluyendo las estaciones de transferencia modal, directamente o a través de particulares, mediante el otorgamiento de concesiones y contratos.
+8.- El Estado podrá operar, construir, explotar, conservar, rehabilitar y dar mantenimiento a la infraestructura vial de su competencia y a la infraestructura de los sistemas de transporte masivo y teleférico, incluyendo las estaciones de transferencia modal, directamente o a través de particulares, mediante el otorgamiento de concesiones y contratos.
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -13377,7 +13497,9 @@ Declarada desierta una licitación pública, se podrá adjudicar la concesión a
 
 41.- La Secretaría podrá cancelar el procedimiento de otorgamiento de la concesión por causas de interés público, caso fortuito o de fuerza mayor; asimismo, podrá cancelarlo cuando existan circunstancias debidamente justificadas que extingan de la necesidad pública que le dio origen; y que, en caso de continuarse con el procedimiento, se pudiera ocasionar un daño o perjuicio al Estado.
 
-Las concesiones y permisos en materia de transporte masivo no otorgan exclusividad d los concesionarios en la prestación del servicio. La autoridad podrá negar las concesiones cuando puedan originar acaparamiento o acumulación, o contravenir las disposiciones en materia de competencia económica.
+> <small>(REFORMADO, G.G. 22 DE FEBRERO DE 2013)</small>
+
+Las concesiones y permisos en materia de transportes masivo y teleférico no otorgan exclusividad a los concesionarios en la prestación del servicio. La autoridad podrá negar las concesiones cuando puedan originar acaparamiento o acumulación, o contravenir las disposiciones en materia de competencia económica.
 
 La Secretaría establecerá mediante disposiciones administrativas de carácter general, las previsiones necesarias para evitar el acaparamiento o acumulación de las concesiones.
 
@@ -13417,7 +13539,7 @@ II. Los costos futuros de ampliación y mejoramiento; y
 
 III. Las demás proyecciones financieras y operativas que considere la rentabilidad de la concesión.
 
-> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO PRIMERO. De las licencias de construcción
 
@@ -13425,11 +13547,17 @@ III. Las demás proyecciones financieras y operativas que considere la rentabili
 
 ###### Artículo 17.
 
-45.- Tratándose de concesiones para el servicio público de transporte de alta capacidad o masivo, la vigencia y su prórroga se determinarán considerando:
+45.- Tratándose de concesiones para el servicio público de transporte de alta capacidad o masivo y teleférico, la vigencia y su prórroga se determinarán considerando:
+
+> <small>(ADICIONADA, G.G. 31 DE MARZO DE 2011)</small>
 
 l. El monto de la inversión;
 
+> <small>(ADICIONADA, G.G. 31 DE MARZO DE 2011)</small>
+
 II. El tiempo para su recuperación; y
+
+> <small>(ADICIONADA, G.G. 31 DE MARZO DE 2011)</small>
 
 III. La obligación del concesionario para renovar, conservar y mantener en buen estado de funcionamiento las vías, instalaciones, equipo y flota vehicular con que se preste el servicio, apegándose entre otras normas a la normatividad de protección al ambiente.
 
@@ -13437,19 +13565,29 @@ III. La obligación del concesionario para renovar, conservar y mantener en buen
 
 ###### Artículo 17.
 
-46.- Son obligaciones de los concesionarios y permisionarios de la infraestructura vial y de los sistemas de transporte masivo:
+46.- Son obligaciones de los concesionarios y permisionarios de la infraestructura vial y de los sistemas de transporte masivo y teleférico:
+
+> <small>(ADICIONADA, G.G. 31 DE MARZO DE 2011)</small>
 
 l. En todos los casos:
 
-a) Diseñar, proyectar, explotar y operar la infraestructura vial y los sistemas de transporte masivo, o realizar la construcción, conservación, rehabilitación y adaptación correspondiente en términos de la concesión o permiso otorgado;
+> <small>(REFORMADO, G.G. 22 DE FEBRERO DE 2013)</small>
 
-b) Acatar las normas técnicas correspondientes;
+a) Diseñar, proyectar, explotar y operar la infraestructura vial y los sistemas de transporte masivo y teleférico, o realizar la construcción, conservación, rehabilitación y adaptación correspondiente en términos de la concesión o permiso otorgado;
+
+> <small>(REFORMADO, G.G. 22 DE FEBRERO DE 2013)</small>
+
+b) Acatar las normas técnicas correspondientes con el propósito de mantener, en todo momento, los más altos estándares de seguridad para el usuario y los operadores del transporte;
 
 c) Presentar aviso a la autoridad competente en caso de enfrentar dificultades que pongan en riesgo el cumplimiento de las obligaciones contenidas en el título de concesión o permiso;
 
-d) Vigilar y preservar el derecho de vía y coadyuvar en la preservación de su zona de seguridad, así como dar aviso a la autoridad sobre cualquier anomalía, invasión o daño que le afecte;
+> <small>(REFORMADO, G.G. 22 DE FEBRERO DE 2013)</small>
 
-e) Vigilar que el personal a su cargo cumpla con las disposiciones legales en materia de infraestructura vial y de sistemas de transporte masivo, y las contenidas o derivadas del título de concesión o permiso y de aquellas que emita, en su caso, la autoridad en materia de comunicaciones;
+d) Vigilar y preservar el derecho de vía y coadyuvar en la preservación de su zona de seguridad, o zona de influencia, según sea el caso, así como dar aviso a la autoridad sobre cualquier anomalía, invasión o daño que le afecte;
+
+> <small>(REFORMADO, G.G. 22 DE FEBRERO DE 2013)</small>
+
+e) Vigilar que el personal a su cargo cumpla con las disposiciones legales en materia de infraestructura vial, de sistemas de transporte masivo y teleférico, y las contenidas o derivadas del título de concesión o permiso y de aquellas que emita, en su caso, la autoridad en materia de comunicaciones;
 
 f) Proporcionar en todo tiempo a la autoridad competente los datos, informes y documentos que le sean solicitados relacionados con el objeto de la concesión o permiso, y otorgar las facilidades necesarias a dicha autoridad para la realización de visitas de verificación, inspección y calificación;
 
@@ -13459,9 +13597,13 @@ h) Constituir en tiempo y forma las garantías, seguros y fianzas en los términ
 
 i) Las demás que se señalen en este Libro y en el título de concesión respectivo.
 
+> <small>(ADICIONADA, G.G. 31 DE MARZO DE 2011)</small>
+
 II. Además de lo anterior, los concesionarios deberán:
 
-a) Atender las instrucciones y recomendaciones que en su caso, realice la autoridad competente respecto de las tarifas y la operación de la infraestructura y de los sistemas de transporte masivo concesionados;
+> <small>(REFORMADO, G.G. 22 DE FEBRERO DE 2013)</small>
+
+a) Atender las instrucciones y recomendaciones que en su caso, realice la autoridad competente respecto de las tarifas y la operación de la infraestructura y de los sistemas de transporte masivo y teleférico concesionados; buscando su integración y desarrollo a un sistema de transporte en todas las regiones de la entidad;
 
 b) Presentar aviso por la terminación de la obra, con el objeto de que la autoridad competente constate que su construcción se ajusta al proyecto y especificaciones aprobadas y que cuenta con los señalamientos establecidos en la norma técnica correspondiente;
 
@@ -13479,19 +13621,21 @@ II. En ningún caso se podrán ceder, ni en forma alguna gravar, transferir o en
 
 III. Requerirán autorización previa para la constitución de garantías. Bajo ninguna circunstancia se podrán gravar los bienes del dominio público objeto de la concesión, lo cual se hará constar en las escrituras públicas correspondientes;
 
-IV. Tratándose de concesiones sobre la infraestructura vial o transporte de alta capacidad o masivo de personas:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE FEBRERO DE 2013)</small>
+
+IV. Tratándose de concesiones sobre la infraestructura vial, transporte de alta capacidad o masivo y teleférico de personas:
 
 a) Se podrán celebrar contratos de obras y de prestación de servicios con personas físicas o jurídico colectivas, previa autorización de la autoridad. En este caso, los concesionarios serán los únicos responsables por las obligaciones establecidas en la concesión;
 
 b) Al término de la concesión o sus modificaciones, los bienes objeto de la concesión o afectos al servicio, pasarán al dominio del Estado sin costo alguno y libre de todo gravamen.
 
-> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, G.G. 22 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 17.
 
-48.- El servicio público de transporte masivo o de alta capacidad deberá ser prestado de manera regular y uniforme, mediante retribución de los usuarios. Las concesiones obligan a sus titulares a la prestación directa del servicio.
+48.- El servicio público de transporte masivo o de alta capacidad y teleférico, deberá ser prestado de manera regular y uniforme, mediante retribución de los usuarios. Las concesiones obligan a sus titulares a la prestación directa del servicio.
 
-> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE FEBRERO DE 2013)</small>
 
 ### CAPITULO SEGUNDO. De los permisos de obra
 
@@ -13499,55 +13643,97 @@ b) Al término de la concesión o sus modificaciones, los bienes objeto de la co
 
 ###### Artículo 17.
 
-49.- Son obligaciones de los concesionarios del servicio de transporte masivo o de alta capacidad:
+49.- Son obligaciones de los concesionarios del servicio de transporte masivo o de alta capacidad y teleférico:
+
+> <small>(ADICIONADA, G.G. 31 DE MARZO DE 2011)</small>
 
 l. Prestar el servicio en los términos del presente Libro, de su reglamento y de la concesión;
 
+> <small>(ADICIONADA, G.G. 31 DE MARZO DE 2011)</small>
+
 II. Prestar el servicio obligatoriamente cuando lo requiera la Secretaría en casos de riesgo o desastre, con arreglo a las disposiciones del Libro Sexto de este Código;
+
+> <small>(ADICIONADA, G.G. 31 DE MARZO DE 2011)</small>
 
 III. Vigilar que sus conductores y personal relacionado con el servicio cumpla con las disposiciones legales en materia de infraestructura vial y transporte;
 
+> <small>(ADICIONADA, G.G. 31 DE MARZO DE 2011)</small>
+
 IV. Proporcionar en todo tiempo a la Secretaría los datos, informes y documentos que le sean solicitados relacionados con la operación de la concesión o permiso, y otorgarle las facilidades necesarias para la realización de las visitas de verificación e inspección;
+
+> <small>(ADICIONADA, G.G. 31 DE MARZO DE 2011)</small>
 
 V. Proporcionar capacitación continua y permanente al personal a su cargo, conforme a los programas autorizados por la Secretaría;
 
+> <small>(ADICIONADA, G.G. 31 DE MARZO DE 2011)</small>
+
 VI. Resarcir a los usuarios y a los terceros, de los daños que se les causen con motivo de la concesión;
+
+> <small>(ADICIONADA, G.G. 31 DE MARZO DE 2011)</small>
 
 VII. Constituir en tiempo y forma las garantías en los términos establecidos en las disposiciones reglamentarias de este Libro y en el título de concesión;
 
+> <small>(ADICIONADA, G.G. 31 DE MARZO DE 2011)</small>
+
 VIII. Prestar el servicio con vehículos que reúnan las condiciones de peso, dimensión, capacidad y otras especificaciones, así como controles gráficos o electrónicos de velocidad máxima establecidos en las normas oficiales correspondientes;
+
+> <small>(ADICIONADA, G.G. 31 DE MARZO DE 2011)</small>
 
 IX. Someter los vehículos a la revisión físico-mecánica con la periodicidad y en los términos que señalen las disposiciones secundarias;
 
+> <small>(ADICIONADA, G.G. 31 DE MARZO DE 2011)</small>
+
 X. Para estos efectos, los concesionarios que cuenten con los elementos técnicos conforme a la norma oficial respectiva, podrán realizar la verificación, en términos de las disposiciones técnicas correspondientes;
+
+> <small>(ADICIONADA, G.G. 31 DE MARZO DE 2011)</small>
 
 XI. Mantener los vehículos en condiciones de seguridad, comodidad e higiene para el servicio;
 
+> <small>(ADICIONADA, G.G. 31 DE MARZO DE 2011)</small>
+
 XII. Cumplir con la cromática y demás elementos de identificación de los vehículos, en términos de las disposiciones reglamentarias y administrativas;
+
+> <small>(ADICIONADA, G.G. 31 DE MARZO DE 2011)</small>
 
 XIII. Abstenerse de realizar actos que impliquen competencia desleal respecto de otros concesionarios;
 
+> <small>(ADICIONADA, G.G. 31 DE MARZO DE 2011)</small>
+
 XIV. Respetar las tarifas, rutas, itinerarios, recorridos, horarios y frecuencias autorizados por la Secretaría;
+
+> <small>(ADICIONADA, G.G. 31 DE MARZO DE 2011)</small>
 
 XV. Las demás que señalen este Libro y otras disposiciones legales, reglamentarias y administrativas.
 
-> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 17.
 
-50.- Cualquier persona puede hacer uso del transporte, masivo o de alta capacidad, previo pago de la tarifa en vigor, accediendo a éste a través de los sistemas, medios y dispositivos que sean determinados y aprobados; y, en consecuencia, los concesionarios estarán obligados a prestarlo, salvo cuando el solicitante:
+50.- Cualquier persona puede hacer uso del transporte, masivo o de alta capacidad y teleférico previo pago de la tarifa en vigor, accediendo a éste a través de los sistemas, medios y dispositivos que sean determinados y aprobados; y en consecuencia, los concesionarios estarán obligados a prestarlo salvo cuando el solicitante:
+
+> <small>(ADICIONADA, G.G. 31 DE MARZO DE 2011)</small>
 
 l. Se encuentre en notorio estado de ebriedad o bajo el influjo de estupefacientes o psicotrópicos;
 
+> <small>(ADICIONADA, G.G. 31 DE MARZO DE 2011)</small>
+
 II. Ejecute o haga ejecutar a bordo de los vehículos actos que atenten contra la tranquilidad, seguridad e integridad de los usuarios; y
+
+> <small>(ADICIONADA, G.G. 31 DE MARZO DE 2011)</small>
 
 III. En general, pretenda que la prestación del servicio se haga contraviniendo las disposiciones legales aplicables o sus reglamentos.
 
-> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
+> <small>(ADICIONADO, G.G. 22 DE FEBRERO DE 2013)</small>
+
+La Secretaría podrá celebrar convenios con los concesionarios, para que exceptúen del pago a los adultos mayores, personas con discapacidad y alumnos con credencial vigente y niños menores de 4 años.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 17.
 
-51.- En las concesiones de transporte masivo o de alta capacidad, los concesionarios serán solidariamente responsables con sus conductores de los daños que causen con motivo de la prestación del servicio.
+51.- En las concesiones de transporte masivo o de alta capacidad y teleférico, los concesionarios serán solidariamente responsables con sus conductores y/u operadores de los daños que causen con motivo de la prestación del servicio.
+
+> <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
 La Secretaría emitirá las disposiciones reglamentarias aplicables; en las que establecerá las medidas y el procedimiento para garantizar la adecuada reparación de dichos daños.
 
@@ -13625,7 +13811,9 @@ IX. No otorgar o no mantener en vigor la garantía de daños contra terceros;
 
 X. Incumplir reiteradamente cualquiera de las obligaciones o condiciones establecidas en este Libro, las disposiciones que de él emanen o la concesión o permiso;
 
-XI. Por carecer, no renovar o reemplazar los vehículos, equipo e instalaciones con las que se preste el servicio, en los plazos señalados en las concesiones de los sistemas de transporte masivo o de alta capacidad;
+> <small>(REFORMADA, G.G. 22 DE FEBRERO DE 2013)</small>
+
+XI. Por carecer, no renovar o reemplazar los vehículos, equipo e instalaciones con las que se preste el servicio, en los plazos señalados en las concesiones de los sistemas de transporte masivo o de alta capacidad y teleférico;
 
 XII. No proporcionar la información requerida por la autoridad o impedir o dificultar las visitas de verificación e inspección; y
 
@@ -13851,11 +14039,11 @@ V. Los bienes que reviertan a favor del Estado de México con motivo de las conc
 
 Los ingresos del Sistema, así como los productos e instrumentos financieros autorizados serán destinados y aplicados a las actividades señaladas en los programas aprobados por el consejo directivo.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 22 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 17.
 
-76.- El Sistema de Transporte Masivo del Estado de México, es un organismo público descentralizado, con personalidad jurídica y patrimonio propios, que tiene por objeto coordinar los programas y acciones relacionados con la infraestructura y operación del transporte de alta capacidad, y las estaciones de transferencia modal, así como efectuar investigaciones y estudios que permitan al Gobierno del Estado sustentar las solicitudes de concesiones o permisos ante las autoridades federales para la administración, operación, explotación y, en su caso, construcción de transporte de alta capacidad en territorio estatal.
+76.- El Sistema de Transporte Masivo y Teleférico del Estado de México, es un organismo público descentralizado, con personalidad jurídica y patrimonio propios, que tiene por objeto la planeación, la coordinación de los programas y acciones relacionados con la infraestructura y operación de los sistemas de transporte de alta capacidad y teleférico, las estaciones de transferencia modal y las de origen-destino e intermedias que se requieren para el eficiente funcionamiento del teleférico, así como efectuar investigaciones y estudios que permitan al Gobierno del Estado sustentar las solicitudes de concesiones o permisos ante las autoridades federales para la administración, operación, explotación y, en su caso, construcción de transporte de alta capacidad en territorio estatal.
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -13863,39 +14051,65 @@ Los ingresos del Sistema, así como los productos e instrumentos financieros aut
 
 77.- El Sistema, para el cumplimiento de su objeto, tiene las atribuciones siguientes:
 
-l. Proponer y ejecutar planes, programas, proyectos y acciones para el diseño, construcción, operación, administración, explotación, conservación, rehabilitación y mantenimiento del transporte de alta capacidad y las estaciones de transferencia modal;
+> <small>(REFORMADA, G.G. 22 DE FEBRERO DE 2013)</small>
 
-II. Promover y fomentar la participación de la iniciativa privada en la construcción, administración, operación, explotación, mantenimiento, rehabilitación y conservación de infraestructura y operación de transporte de alta capacidad y de estaciones de transferencia modal;
+l. Proponer y ejecutar planes, programas, proyectos y acciones para el diseño, construcción, operación, administración, explotación, conservación, rehabilitación y mantenimiento de los sistemas de transporte de alta capacidad y teleférico, de las estaciones de transferencia modal, así como de las de origen-destino e intermedias que se requieren para el eficiente funcionamiento del teleférico;
+
+> <small>(REFORMADA, G.G. 22 DE FEBRERO DE 2013)</small>
+
+II. Promover y fomentar la participación de la iniciativa privada en la construcción, administración, operación, explotación, mantenimiento, rehabilitación y conservación de infraestructura y operación de transporte de alta capacidad, de estaciones de transferencia modal, así como del sistema de transporte teleférico y las estaciones de origen-destino e intermedias que se requieren para su eficiente funcionamiento;
 
 III. Presentar a consideración del Secretario de Comunicaciones, para su autorización y firma, en su caso:
 
-a) Proyectos para otorgar o ampliar el plazo de las concesiones y contratos para la construcción, administración, operación, explotación, rehabilitación, mantenimiento y conservación de la infraestructura y operación de transporte de alta capacidad, así como estaciones de transferencia modal; y
+> <small>(REFORMADO, G.G. 22 DE FEBRERO DE 2013)</small>
+
+a) Proyectos para otorgar o ampliar el plazo de las concesiones y contratos para la construcción, administración, operación, explotación, rehabilitación, mantenimiento y conservación de la infraestructura y operación de transporte de alta capacidad y teleférico, así como estaciones de transferencia modal y las estaciones de origen-destino e intermedias que se requieren para el eficiente funcionamiento del teleférico; y
 
 b) Proyectos sustentados en los que se proponga la terminación anticipada, revocación o rescate de las concesiones o contratos.
 
-IV. Llevar a cabo, previa autorización del Secretario de Comunicaciones, los procedimientos de licitación pública hasta la publicación del fallo, para el otorgamiento de concesiones y contratos para la construcción, administración, operación, explotación, rehabilitación, mantenimiento y conservación de la infraestructura y operación de transporte de alta capacidad, así como de las estaciones de transferencia modal;
+> <small>(REFORMADA, G.G. 22 DE FEBRERO DE 2013)</small>
 
-V. Proyectar y diseñar en coordinación con la Secretaría de Transporte, las rutas alimentadoras para el transporte de alta capacidad y coadyuvar en su puesta en operación;
+IV. Llevar a cabo, previa autorización del Secretario de Comunicaciones, los procedimientos de licitación pública hasta la publicación del fallo, para el otorgamiento de concesiones y contratos para la construcción, administración, operación, explotación, rehabilitación, mantenimiento y conservación de la infraestructura y operación de transporte de alta capacidad y teleférico, así como estaciones de transferencia modal y las estaciones de origen-destino e intermedias que se requieren para el eficiente funcionamiento del teleférico;
 
-VI. Otorgar y declarar la terminación de permisos para el aprovechamiento y explotación de la infraestructura y operación del derecho de vía del transporte de alta capacidad;
+> <small>(REFORMADA, G.G. 22 DE FEBRERO DE 2013)</small>
 
-VII. Efectuar el cobro de derechos conforme a la ley, por la expedición de permisos para la utilización de la infraestructura, administración, explotación y operación del derecho de vía del transporte de alta capacidad;
+V. Proyectar y diseñar en coordinación con la Secretaría de Transporte, las rutas alimentadoras para el transporte de alta capacidad y teleférico y coadyuvar en su puesta en operación;
 
-VIII. Efectuar las calificaciones de operación y conservación de la infraestructura y operación del transporte de alta capacidad y estaciones de transferencia modal;
+> <small>(REFORMADA, G.G. 22 DE FEBRERO DE 2013)</small>
 
-IX. Autorizar las tarifas, así como los ajustes y supervisar la correcta aplicación de las mismas al transporte de alta capacidad y a los servicios que se presten en las estaciones de transferencia modal;
+VI. Otorgar y declarar la terminación de permisos para el aprovechamiento y explotación de la infraestructura y operación del derecho de vía de los Sistemas de transporte masivo o de alta capacidad y teleférico de su competencia;
+
+> <small>(REFORMADA, G.G. 22 DE FEBRERO DE 2013)</small>
+
+VII. Efectuar el cobro de derechos conforme a la ley, por la expedición de permisos para la utilización de la infraestructura, administración, explotación y operación del derecho de vía del transporte masivo o de alta capacidad y teleférico;
+
+> <small>(REFORMADA, G.G. 22 DE FEBRERO DE 2013)</small>
+
+VIII. Efectuar las calificaciones de operación y conservación de la infraestructura y operación del transporte masivo o de alta capacidad y teleférico; y estaciones de transferencia modal;
+
+> <small>(REFORMADA, G.G. 22 DE FEBRERO DE 2013)</small>
+
+IX. Autorizar las tarifas, así como los ajustes y supervisar la correcta aplicación de las mismas al transporte masivo o de alta capacidad y teleférico y a los servicios que se presten en las estaciones de transferencia modal, así como en las estaciones de origen-destino e intermedias del teleférico;
 
 X. Contratar financiamiento, empréstitos y créditos con cargo a su patrimonio, para aplicarlos al cumplimiento de su objeto;
 
-XI. Realizar visitas de inspección, supervisar y vigilar las concesiones y contratos del transporte de alta capacidad, su derecho de vía, así como la prestación de servicios en las estaciones de transferencia modal y emitir las recomendaciones correspondientes;
+> <small>(REFORMADA, G.G. 22 DE FEBRERO DE 2013)</small>
 
-XII. Evaluar el cumplimiento de las concesiones, contratos y permisos y, en su caso, calificar las infracciones y aplicar las sanciones a que se hagan acreedores los prestadores del servicio público de transporte de alta capacidad y en las estaciones de transferencia modal;
+XI. Realizar visitas de inspección, supervisar y vigilar las concesiones y contratos del transporte masivo o de alta capacidad y teleférico, su derecho de vía, así como la prestación de servicios en las estaciones de transferencia modal y en las estaciones de origen-destino e intermedias relativas al sistema del teleférico y emitir las recomendaciones correspondientes;
 
-XIII. Adquirir y enajenar los inmuebles necesarios para la implementación del transporte de alta capacidad, su derecho de vía, estaciones de transferencia modal, así como sus instalaciones y equipamiento;
+> <small>(REFORMADA, G.G. 22 DE FEBRERO DE 2013)</small>
+
+XII. Evaluar el cumplimiento de las concesiones, contratos y permisos y, en su caso, calificar las infracciones y aplicar las sanciones a que se hagan acreedores los prestadores del servicio público de transporte masivo o de alta capacidad y teleférico, en las estaciones de transferencia modal y en las estaciones de origen-destino e intermedias relativas al sistema del teleférico;
+
+> <small>(REFORMADA, G.G. 22 DE FEBRERO DE 2013)</small>
+
+XIII. Adquirir y enajenar los inmuebles necesarios para la implementación del transporte masivo o de alta capacidad y teleférico, su derecho de vía, estaciones de transferencia modal, en las estaciones de origen-destino e intermedias relativas al sistema del teleférico, así como sus instalaciones y equipamiento;
 
 XIV. Proporcionar, en el ámbito de su competencia, asesoría a los municipios que lo soliciten;
 
-XV. Coadyuvar con las empresas operadoras y constructoras en la facilitación de trámites ante autoridades federales, estatales y municipales, respecto de afectaciones, autorizaciones y permisos, relacionados con el transporte de alta capacidad y estaciones de transferencia modal; y
+> <small>(REFORMADA, G.G. 22 DE FEBRERO DE 2013)</small>
+
+XV. Coadyuvar con las empresas operadoras y constructoras en la facilitación de trámites ante autoridades federales, estatales y municipales, respecto de afectaciones, autorizaciones y permisos, relacionados con el transporte masivo o de alta capacidad y teleférico, estaciones de transferencia modal y en las estaciones de origen-destino e intermedias relativas al sistema del teleférico; y
 
 XVI. Las demás que se señalen en este Libro y otras disposiciones.
 
@@ -13929,7 +14143,9 @@ La organización y funcionamiento del Sistema se rige por el Reglamento Interno 
 
 81.- El patrimonio del Sistema se integra con:
 
-l. Los bienes y recursos que obtenga con motivo de las concesiones, permisos y contratos que se otorguen o celebren en materia de infraestructura de transporte de alta capacidad y de estaciones de transferencia modal;
+> <small>(REFORMADA, G.G. 22 DE FEBRERO DE 2013)</small>
+
+l. Los bienes y recursos que obtenga con motivo de las concesiones, permisos y contratos que se otorguen o celebren en materia de infraestructura de transportes de alta capacidad, teleférico, así como de estaciones de transferencia modal y en las estaciones de origen-destino e intermedias relativas al sistema del teleférico;
 
 II. Los bienes, instalaciones, derechos y activos que le aporten los gobiernos federal, estatal y municipales, o los particulares;
 
@@ -13945,7 +14161,7 @@ Los ingresos del Sistema, así como los productos e instrumentos financieros aut
 
 ###### Artículo 17.
 
-82.- El Registro Estatal de Comunicaciones tiene por objeto integrar la información relacionada con la infraestructura vial y los sistemas de transporte masivo.
+82.- El Registro Estatal de Comunicaciones tiene por objeto integrar la información relacionada con la infraestructura vial y los sistemas de transporte masivo y teleférico.
 
 > <small>(ADICIONADO, G.G. 31 DE MARZO DE 2011)</small>
 
@@ -13987,7 +14203,9 @@ El Registro Estatal de Comunicaciones será público y tendrá efectos declarati
 
 l. Amonestación;
 
-II. Multa hasta de un siete por ciento del monto total de la inversión de la obra o instalaciones, en el entendido de que tratándose de obras o instalaciones hechas en el derecho de vía y su zona de seguridad en contravención a lo dispuesto en el presente Libro incluyendo los casos de Publicidad Exterior, la multa será por el cincuenta por ciento del valor de la obra o instalación;
+> <small>(REFORMADA, G.G. 22 DE FEBRERO DE 2013)</small>
+
+II. Multa hasta de un siete por ciento del monto total de la inversión de la obra o instalaciones, en el entendido de que tratándose de obras o instalaciones hechas en el derecho de vía y su zona de seguridad o de influencia en contravención a lo dispuesto en el presente Libro incluyendo los casos de Publicidad Exterior, la multa será por el cincuenta por ciento del valor de la obra o instalación;
 
 III. Demolición de la obra o retiro de las instalaciones a costa del infractor, en caso de que se ponga en riesgo la seguridad de los usuarios o se interrumpa la prestación del servicio;
 
@@ -16366,3 +16584,31 @@ TERCERO.- Se abroga el Decreto Número 524 de la H. "LVII" Legislatura del Estad
 CUARTO.- Para el ejercicio fiscal 2013, el presupuesto de egresos del Estado de México, incluirá una partida especial para el Fondo para la atención de desastres y siniestros ambientales o antropogénicos acorde a la suficiencia presupuestal del Estado.
 
 QUINTO.- El Ejecutivo Estatal deberá expedir el reglamento respectivo a este título, dentro de los noventa días siguientes a la entrada en vigor de este decreto.
+
+G.G. 22 DE FEBRERO DE 2013.
+
+DECRETO NÚMERO 53, POR EL QUE SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 2.68 Y EL ARTÍCULO 6.32 Y SE ADICIONAN LOS ARTÍCULOS 2.37 BIS, 2.37 TER, LA FRACCIÓN VII BIS AL 2.39, 2.47 BIS, 2.47 TER, LA FRACCIÓN IV AL 2.65, LA FRACCIÓN XI AL 2.68, 2.72 BIS, 2.72 TER Y 6.25 BIS DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno''.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico oficial "Gaceta del Gobierno".
+
+TERCERO.- Los Ayuntamientos en el ámbito de su competencia, proveerán lo necesario para dar cumplimiento al presente Decreto, expidiendo al efecto, las disposiciones respectivas.
+
+CUARTO.- Los Ayuntamientos realizarán el refrendo a más tardar el 30 de abril de 2013, en el cual, autorizarán el horario de funcionamiento en los términos de este Decreto, únicamente por lo que corresponde a este año, ya que los subsecuentes años deberá de hacerse dentro de los primeros tres meses.
+
+QUINTO.- Para dar cumplimiento a lo establecido por las fracciones I y ll del artículo 2.47 Ter del Código Administrativo del Estado de México, los propietarios o poseedores de establecimientos mercantiles donde se vendan o suministren bebidas alcohólicas, contarán con un plazo máximo que no deberá exceder del 30 de junio de 2013.
+
+SEXTO.- Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo dispuesto por el presente Decreto.
+
+G.G. 22 DE FEBRERO DE 2013.
+
+DECRETO NÚMERO 54, POR EL QUE SE REFORMAN LOS ARTÍCULOS 17.1 EN SU SEGUNDO PÁRRAFO, 17.2 EN SUS FRACCIONES II Y III, 17.3 EN SU TERCER PÁRRAFO, 17.5 EN SU FRACCIÓN V, 17.8, 17.41 EN SU SEGUNDO PÁRRAFO, 17.45 EN SU PRIMER PÁRRAFO, 17.46 EN SU PRIMER PÁRRAFO Y EN LOS INCISOS A), B), D) Y E) DE SU FRACCIÓN I Y EN EL INCISO A) DE SU FRACCIÓN II, 17.47 FRACCIÓN IV, EN SU PRIMER PÁRRAFO, 17.48, 17.49 EN SU PRIMER PÁRRAFO, 17.50 EN SU PRIMER PÁRRAFO, 17.51 EN SU PRIMER PÁRRAFO, 17.56 EN SU FRACCIÓN XI, LA DENOMINACIÓN DEL CAPÍTULO TERCERO DEL TÍTULO CUARTO, 17.76, 17.77 EN SUS FRACCIONES I, II, EN EL INCISO A) DE SU FRACCIÓN III, IV, V, VI, VII, VIII, IX, XI, XII, XIII Y XV, 17.81 EN SU FRACCIÓN I, 17.82 Y 17.86 EN SU FRACCIÓN II; Y SE ADICIONAN LAS FRACCIONES VII BIS, VIII BIS Y VIII TER AL ARTÍCULO 17.4 Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 17.50 DEL LIBRO DÉCIMO SÉPTIMO DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- El Titular del Ejecutivo del Estado proveerá en la esfera administrativa, la exacta observancia del presente Decreto, expidiendo al efecto, las órdenes y disposiciones administrativas conducentes.
+
+CUARTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
