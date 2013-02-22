@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2012-11-26"
+last_updated: "2013-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE FEBRERO DE 2013.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -75,9 +75,7 @@ MUNICIPIO CABECERA MUNICIPAL
 
 > <small>(REFORMADO, G.G. 26 DE NOVIEMBRE DE 2012)</small>
 
-ACAMBAY DE RUIZ VILLA DE ACAMBAY DE RUIZ CASTAÑEDA
-
-CASTAÑEDA
+ACAMBAY DE RUIZ CASTAÑEDA VILLA DE ACAMBAY DE RUIZ CASTAÑEDA
 
 ACOLMAN ACOLMAN DE
 
@@ -1069,7 +1067,9 @@ V. Convocar a sesiones ordinarias y extraordinarias a los integrantes del ayunta
 
 VI. Proponer al ayuntamiento los nombramientos de secretario, tesorero y titulares de las dependencias y organismos auxiliares de la administración pública municipal;
 
-VI Bis. (DEROGADA, G.G. 1 DE DICIEMBRE DE 2004)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 22 DE FEBRERO DE 2013)</small>
+
+VI. Bis. Expedir, previo acuerdo del Ayuntamiento, la licencia del establecimiento mercantil que autorice o permita la venta de bebidas alcohólicas;
 
 VII. Presidir las comisiones que le asigne la ley o el ayuntamiento;
 
@@ -1108,6 +1108,10 @@ XIV. Vigilar que se integren y funcionen los consejos de participación ciudadan
 XV. Informar por escrito al ayuntamiento, dentro de los primeros tres días hábiles del mes de diciembre de cada año, en sesión solemne de cabildo, del estado que guarda la administración pública municipal y de las labores realizadas durante el ejercicio;
 
 XVI. Cumplir y hacer cumplir dentro de su competencia, las disposiciones contenidas en las leyes y reglamentos federales, estatales y municipales, así como aplicar, a los infractores las sanciones correspondientes o remitirlos, en su caso, a las autoridades correspondientes;
+
+> <small>(ADICIONADA, G.G. 22 DE FEBRERO DE 2013)</small>
+
+XVI. Bis. Vigilar, a través de la autoridad competente que los establecimientos mercantiles con venta o suministro de bebidas alcohólicas en botella cerrada para el consumo inmediato, o al copeo, cuenten con la correspondiente licencia de funcionamiento y que además, cumplan en todo momento, con las especificaciones y condiciones contempladas en la misma y con lo señalado en el Libro Segundo del Código Administrativo del Estado de México, en caso contrario ordenará a quien corresponda a fin de que se suspenda provisionalmente el funcionamiento del establecimiento y en su momento se proceda a la clausura definitiva de éste, independientemente de la obligación de dar vista al Ministerio Público por la posible comisión de algún delito;
 
 > <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
 
@@ -3698,3 +3702,17 @@ G.G. 26 DE NOVIEMBRE DE 2012.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 22 DE FEBRERO DE 2013.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Los Ayuntamientos en el ámbito de su competencia, proveerán lo necesario para dar cumplimiento al presente Decreto, expidiendo al efecto, las disposiciones respectivas.
+
+CUARTO.- Los Ayuntamientos realizarán el refrendo a más tardar el 30 de abril de 2013, en el cual, autorizarán el horario de funcionamiento en los términos de este Decreto, únicamente por lo que corresponde a este año, ya que los subsecuentes años deberá de hacerse dentro de los primeros tres meses.
+
+QUINTO.- Para dar cumplimiento a lo establecido por las fracciones I y II del artículo 2.47 Ter del Código Administrativo del Estado de México, los propietarios o poseedores de establecimientos mercantiles donde se vendan o suministren bebidas alcohólicas, contarán con un plazo máximo que no deberá exceder del 30 de junio de 2013.
+
+SEXTO.- Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo dispuesto por el presente Decreto.
