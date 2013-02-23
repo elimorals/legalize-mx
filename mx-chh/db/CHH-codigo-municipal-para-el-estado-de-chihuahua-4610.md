@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2013-02-02"
+last_updated: "2013-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2013.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -2179,11 +2179,13 @@ Los derechos de tránsito, vistas, luces y otros semejantes se regirán por las 
 
 Al otorgamiento, ejecución, terminación y en general al régimen jurídico de las concesiones para el aprovechamiento de los bienes del dominio municipal, les serán aplicables en los (sic) conducente, las disposiciones de este Código, relativas a los contratos de obra y las concesiones de servicio público.
 
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE FEBRERO DE 2013)</small>
 
 ###### ARTICULO 110.
 
-Los bienes inmuebles destinados a oficinas de gobierno, así como las áreas culturales, deportivas y parques públicos municipales, que cuenten con infraestructura y estén en uso, requieren para su enajenación, la previa desafectación del régimen de dominio público decretada por el Congreso del Estado.
+Los bienes inmuebles destinados a oficinas de gobierno, así como las áreas culturales, deportivas y parques públicos municipales, que cuenten con infraestructura y estén en uso, requieren para su enajenación, la previa desafectación del régimen de dominio público decretada por el Congreso del Estado. No podrán desafectarse los bienes de dominio público del Municipio, dentro de los últimos seis meses de la Administración.
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2006)</small>
 
 En los demás casos, los bienes de dominio público de los municipios podrán ser enajenados cumpliendo previamente con lo que dispone la fracción XX del artículo 28 de este Código, siempre y cuando se observe el siguiente procedimiento:
 
@@ -2199,11 +2201,15 @@ d) La justificación para incorporarlo, desincorporarlo o cambiar su destino.
 
 II.- Así mismo, el Síndico Municipal emitirá un dictamen sobre la factibilidad o no de la desincorporación, en cumplimiento de las atribuciones de vigilancia que le corresponden.
 
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2006)</small>
+
 Los bienes inmuebles donados al municipio, previstos en los artículos 165 y 166 de la ley de Desarrollo Urbano del Estado, además de cumplir con los requisitos antes señalados, será necesario la anuencia de las dos terceras partes de los propietarios de las casas o terrenos que conformen el fraccionamiento, a excepción de los constructores o fraccionadores.
 
 > <small>(ADICIONADO, P.O. 18 DE NOVIEMBRE DE 2006)</small>
 
 No será necesaria la anuencia señalada en el párrafo anterior, cuando la enajenación sea destinada única y exclusivamente a servicios básicos como escuelas, mercados, dispensarios, templos, parques, jardines y demás áreas públicas.
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2006)</small>
 
 Los bienes municipales a que hacen referencia la Ley del Patrimonio Cultural y la Ley Ecológica, ambas del Estado de Chihuahua, se regularán de conformidad con lo previsto en dichos ordenamientos.
 
@@ -2233,9 +2239,9 @@ Para el caso de establecimientos de centros industriales, agropecuarios, educati
 
 Para la venta de bienes muebles del dominio privado municipal se requerirá el acuerdo del Ayuntamiento cuando su valor sea superior a doscientos cincuenta veces el salario mínimo general vigente en la zona económica de que se trate; cuando su importe sea menor, bastará el acuerdo por escrito del Presidente Municipal.
 
-> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2000)</small>
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2013)</small>
 
-Queda estrictamente prohibido la enajenación de bienes muebles, durante los últimos seis meses de la Administración, salvo que los bienes tengan un año de haberse inutilizado o bien se encuentren inservibles, para lo cual el Secretario deberá certificar el estado que guardan los bienes a enajenarse.
+Queda prohibido enajenar bienes muebles e inmuebles, durante los últimos seis meses de la Administración, salvo que los bienes muebles tengan un año de haberse inutilizado o bien se encuentren inservibles, para lo cual el Secretario deberá certificar el estado que guardan los bienes a enajenarse.
 
 ### CAPITULO UNICO
 
@@ -4340,3 +4346,9 @@ P.O. 2 DE FEBRERO DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto surtirá vigencia un día después de la entrada en vigor de la reforma constitucional al artículo 130 de la Constitución Política del Estado, contenida en el Decreto No. 316/2011 II P.O.
+
+P.O. 23 DE FEBRERO DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
