@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-de-la-secretaria-del-trabajo-y-24988"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-05-28"
-last_updated: "2011-09-24"
+last_updated: "2013-02-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24988&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,9 @@ state: "JAL"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DEL TRABAJO Y PREVISION SOCIAL
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DEL TRABAJO Y PREVISION SOCIAL
+REGLAMENTO INTERIOR DE LA SECRETARÍA DEL TRABAJO Y PREVISIÓN SOCIAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2013.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Jalisco, el martes 28 de mayo de 2002.
 
@@ -114,11 +114,17 @@ A) Dirección de Vinculación Laboral;
 
 B) Dirección de Capacitación Laboral; y
 
-C) Dirección de Control y Supervisión; y (sic)
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2013)</small>
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 24 DE SEPTIEMBRE DE 2011)</small>
+C) Dirección de Control y Supervisión;
 
-VI. Las demás áreas que sean indispensables para el ejercicio de las atribuciones de la Secretaría, de conformidad con el Presupuesto de Egresos del Estado.
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2013)</small>
+
+VI. Dirección General de Planeación e Innovación; y
+
+> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2013)</small>
+
+VII. Las demás áreas que sean indispensables para el ejercicio de las atribuciones de la Secretaría, de conformidad con el Presupuesto de Egresos del Estado.
 
 ###### Artículo 5°.
 
@@ -532,7 +538,7 @@ Artículo 33 bis.- El titular de la Coordinación General Administrativa represe
 
 El Servicio Nacional de Empleo Jalisco estará a cargo de un Director General cuyo nombramiento será expedido por el Secretario del Trabajo y Previsión Social.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 35.
 
@@ -554,7 +560,7 @@ VII. Promover la superación de los trabajadores mediante la concertación de ac
 
 VIII. Las demás que le confiera su superior jerárquico y las que le señalen otros ordenamientos jurídicos aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 36.
 
@@ -588,9 +594,65 @@ III. Promover, coordinar y vigilar las acciones de mejoramiento, modernización 
 
 IV. Las demás que le confiera su superior jerárquico y las que le señalen otros ordenamientos jurídicos aplicables.
 
-### Capítulo Único
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE FEBRERO DE 2013)</small>
+
+### Capítulo V. De la Dirección General de Planeación e Innovación
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2013)</small>
+
+###### Artículo 38-A.
+
+Para el mejor despacho de los asuntos de su competencia, la Dirección General de Planeación e Innovación contará con la Dirección de informática.
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2013)</small>
+
+###### Artículo 38-B.
+
+La Dirección General de Planeación e Innovación está a cargo de un Director General quien tiene las siguientes atribuciones:
+
+I. Planear, programar, dirigir, controlar y supervisar el trabajo de la Dirección General a su cargo;
+
+II. Elaborar y promover la aplicación de los lineamientos en materia de planeación, modernización e innovación gubernamental de la Secretaría;
+
+III. Verificar los Programas Operativos Anuales de las áreas que integran la Secretaría y entregar sus resultados al Secretario;
+
+IV. Asesorar, proyectar e implementar en las unidades administrativas de la Secretaría la modernización, calidad e innovación de los procesos;
+
+V. Coordinar la elaboración, integración y actualización de los manuales administrativos de procesos de las áreas de la Secretaría;
+
+VI. Promover y obtener la certificación de calidad y mejora en las áreas de la Secretaría;
+
+VII. Fomentar la modernización de políticas, normas, estructuras y documentos que optimicen la organización y funcionamiento de la Secretaría;
+
+VIII. Promover y efectuar la automatización de los trámites y procesos internos de la Secretaría;
+
+IX. Realizar estudios administrativos a fin de sugerir medidas correctivas en los procesos de la Secretaría; y
+
+X. Las demás que se establezcan en las disposiciones legales aplicables y las que le encomiende el Secretario.
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2013)</small>
+
+###### Artículo 38-C.
+
+La Dirección de Informática tiene las atribuciones siguientes:
+
+I. Proponer y establecer políticas y normas de sistematización de procesos administrativos y operativos de la Secretaría;
+
+II. Proponer y establecer políticas de crecimiento y homologación del equipo de cómputo, software, bases de datos y sistemas de comunicación, supervisando el buen uso y aprovechamiento de estos equipos;
+
+III. Proporcionar a las dependencias la infraestructura de comunicaciones de voz y datos, plataformas tecnológicas de hardware, software y bases de datos;
+
+IV. Coordinar los cursos de capacitación a personal, así como el soporte en lo relativo a la educación computacional y operación de aquellos equipos, programas y sistemas realizados por el área de desarrollo de esta Dirección o adquiridos;
+
+VII (SIC). Dar mantenimiento preventivo y correctivo al equipo de cómputo y a los implementos utilizados en las diversas formas de comunicación;
+
+VIII. Proponer políticas para la modernización y el desarrollo tecnológico, informático y de telecomunicaciones de la Secretaría, así como velar por la seguridad informática; y
+
+XV (SIC). Las demás que le determinen el Director General de Planeación y las disposiciones legales aplicables.
 
 ## TÍTULO TERCERO. Disposiciones Complementarias
+
+### Capítulo Único
 
 ###### Artículo 39.
 
@@ -634,11 +696,11 @@ LIC. LUIS VICENTE CORTÉS BAEZA
 
 SECRETARIO DEL TRABAJO Y PREVISIÓN SOCIAL
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 22 DE OCTUBRE DE 2005.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL ACUERDO DE REFORMAS QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL ACUERDO DE REFORMAS QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
 
 PRIMERO.- Publíquese en el Periódico Oficial "El Estado de Jalisco" el presente Acuerdo, que iniciará su vigencia a partir del día que entre en vigor el Decreto 20,867, relativo a la Ley de Transparencia e Información Pública del Estado de Jalisco.
 
@@ -651,3 +713,7 @@ P.O. 24 DE SEPTIEMBRE DE 2011.
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. El cambio de nomenclatura del Servicio Estatal de Empleo a Servicio Nacional de Empleo Jalisco, no implicará un cambio de nivel salarial ni movimiento de plantilla de personal.
+
+P.O. 23 DE FEBRERO DE 2013.
+
+ÚNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
