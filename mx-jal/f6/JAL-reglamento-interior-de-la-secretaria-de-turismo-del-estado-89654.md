@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-de-la-secretaria-de-turismo-del-estado-8965
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-10-06"
-last_updated: "2012-10-06"
+last_updated: "2013-02-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89654&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE TURISMO DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2013.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el sábado 6 de octubre de 2012.
 
@@ -190,9 +190,17 @@ XIII. Representar al Secretario, a través de su Titular, en el Comité de Clasi
 
 XIV. Elaborar, y en su caso, validar los convenios, contratos y demás instrumentos jurídicos que celebre la Secretaría con otras dependencias, instituciones y organismos;
 
-XV. Apoyar al titular de la dependencia en el desahogo de los procedimientos en materia de responsabilidad que se llegasen a presentar; y
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2013)</small>
 
-XVI. Las demás que le confiera el Secretario y las que establezcan otras disposiciones legales aplicables.
+XV. Apoyar al titular de la dependencia en el desahogo de los procedimientos en materia de responsabilidad que se llegasen a presentar;
+
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2013)</small>
+
+XVI. Fungir como órgano de control disciplinario para la instauración del procedimiento administrativo de responsabilidad laboral, de conformidad a lo establecido en la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios; y
+
+> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2013)</small>
+
+XVII. Las demás que le confiera el Secretario y las que establezcan otras disposiciones legales aplicables.
 
 #### Sección Tercera. De la Dirección General de Fomento a Zonas Estratégicas
 
@@ -395,3 +403,9 @@ AURELIO LÓPEZ ROCHA
 Secretario de Turismo
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE FEBRERO DE 2013.
+
+ÚNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
