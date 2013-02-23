@@ -4,7 +4,7 @@ identifier: "COL-ley-de-aguas-para-el-estado-de-colima-antes-ley-para-18298"
 country: "mx"
 rank: "ley"
 publication_date: "1995-07-22"
-last_updated: "2012-01-28"
+last_updated: "2013-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18298&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE AGUAS PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2013.
 
 Ley publicada en el Suplemento del Periódico Oficial "El Estado de Colima", el sábado 22 de julio de 1995.
 
@@ -45,7 +45,7 @@ DECRETO No. 109
 
 Se aprueba la Ley para Regular la Prestación del Servicio Público de Agua Potable, Alcantarillado y Saneamiento para el Estado de Colima, en los siguientes términos:
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
 
 LEY DE AGUAS PARA EL ESTADO DE COLIMA
 
@@ -101,7 +101,7 @@ IV.- Organismos privados como concesionarios.
 
 Los organismos señalados en las fracciones I y III del presente artículo formarán, respectivamente, parte de la administración paramunicipal y de la administración paraestatal, a efecto de prestar los servicios objeto de esta ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2005)</small>
 
 ARTICULO 3o BIS.- Los servicios públicos objeto de esta Ley serán prestados en condiciones que aseguren su continuidad, regularidad, calidad y cobertura, de manera que se logre la satisfacción de las necesidades de los usuarios y la protección del medio ambiente.
 
@@ -141,7 +141,7 @@ VI. - Usuario, al propietario o poseedor de un predio que cuenta con los servici
 
 VII.- Prestadores de servicios, a las empresas privadas o contratistas de obra a quienes se concesione la prestación de los servicios públicos o la ejecución de obras de infraestructura hidráulica para la prestación de los mismos.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
 
 ### CAPITULO II. SISTEMA ESTATAL DEL AGUA
 
@@ -187,7 +187,7 @@ El Gobernador del Estado y los Ayuntamientos deberán coordinarse para su partic
 
 La administración descentralizada estatal y municipal participarán en dicho Sistema, en los términos previstos en la presente ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
 
 ###### ARTICULO 7o.
 
@@ -273,7 +273,7 @@ XXVII.- Las demás que esta y otras leyes le confieran.
 
 Las atribuciones anteriores la podrá ejercer el Gobernador por si mismo o a través de la Comisión Estatal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
 
 ###### ARTICULO 9o.
 
@@ -281,7 +281,7 @@ Las autoridades estatales y municipales se podrán coordinar con las autoridades
 
 Igualmente, se podrá convenir entre autoridades estatales y municipales la asistencia técnica que aquéllas les presten a éstas o a sus organismos operadores.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
 
 ###### ARTICULO 10.
 
@@ -309,7 +309,7 @@ Salvo el uso doméstico que siempre tendrá preferencia en relación a los demá
 
 Con el objeto de reducir la contaminación y atender la degradación de la calidad original de las aguas dentro del sistema, las autoridades estatales y municipales, la Comisión Estatal y los organismos operadores a que se refiere esta ley, en el ámbito de su competencia promoverán el establecimiento de sistemas de potabilización y de tratamiento de aguas residuales y manejo de lodos, así como el fomento de sistemas alternos que sustituyan al alcantarillado sanitario, cuando éste no pueda construirse; y la realización de acciones necesarias para conseguir y mantener un adecuado nivel de calidad de las aguas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 12.
 
@@ -425,7 +425,7 @@ Los organismos operadores municipales contratarán directamente los créditos qu
 
 #### SECCION SEGUNDA. ATRIBUCIONES Y PATRIMONIO DE LOS ORGANISMOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
 
 ###### ARTICULO 20.
 
@@ -793,7 +793,7 @@ El organismo operador intermunicipal se regirá por las normas de este Capítulo
 
 El Director General del Organismo intermunicipal será designado por el Consejo de Administración, a propuesta del Gobernador del Estado, debiendo observarse los requisitos que señala la fracción III del artículo 24 de la presente ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
 
 ###### ARTICULO 36.
 
@@ -811,7 +811,7 @@ Los Regidores y Diputados se considerarán por cada uno de los ayuntamientos y d
 
 Lo dispuesto en este capítulo será independiente de que el Congreso del Estado resuelva lo conducente, cuando por causa de interés público o para la más eficiente prestación del servicio se requiera que cree un organismo intermunicipal, estableciendo su estructura y operación, en los términos de la presente Ley.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
 
 ### CAPITULO III. COMISION ESTATAL DEL AGUA DE COLIMA
 
@@ -1019,7 +1019,7 @@ El Consejo Consultivo se integrará con los representantes de los sectores socia
 
 En lo no previsto en este capítulo, se aplicará en lo conducente, lo dispuesto en la presente Ley.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 1996)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 1996)</small>
 
 ### CAPITULO IV. DE LA INTERVENCION A LOS ORGANISMOS OPERADORES
 
@@ -1243,7 +1243,7 @@ Los organismos operadores, con el apoyo de la Comisión Estatal, realizarán per
 
 En el caso de que los servicios de agua potable, alcantarillado y saneamiento se presten por parte de la Comisión Estatal o por un organismo operado por el Gobierno del Estado, la solicitud a que se refiere el párrafo anterior será turnada al Gobernador y será éste quien envíe la iniciativa correspondiente al Congreso del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 74.
 
@@ -1421,7 +1421,7 @@ El usuario podrá enterar previamente por escrito al organismo operador de ausen
 
 Las visitas se limitarán exclusivamente al objeto indicado en la orden respectiva, salvo que se descubra accidentalmente flagrante infracción a las disposiciones de esta Ley, en cuyo caso el inspector lo hará constar en el acta respectiva.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE SEPTIEMBRE DE 1997)</small>
 
 ###### ARTICULO 90.
 
@@ -1497,15 +1497,21 @@ V.- Los medios indirectos de investigación económica o de cualquier otra clase
 
 El organismo operador o, en su defecto, la Comisión Estatal, determinarán y exigirán el pago con base en la determinación estimativa del volumen.
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE FEBRERO DE 2013)</small>
 
 ###### ARTICULO 99.
 
-Quedan facultados los organismos operadores o, en su defecto, la Comisión Estatal, para obstruir o cerrar la posibilidad de descargar aguas residuales a las redes de drenaje y alcantarillado mediante el cierre o clausura del registro que impida la descarga a la red de drenaje correspondiente, a aquellos usuarios que incumplan con el pago de los derechos por la prestación de los servicios públicos de agua potable, alcantarillado y saneamiento, causados durante seis bimestres.
+Quedan facultados los organismos operadores o, en su defecto, la Comisión Estatal, para impedir, obstruir o cerrar la posibilidad de descargar aguas residuales a las redes de drenaje y alcantarillado, a aquellos usuarios de actividades productivas que incumplan con el pago respectivo conforme a lo dispuesto en esta Ley, con excepción de los casos en que por razones de salud pública o seguridad no sea conveniente proceder conforme a lo anterior.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2005)</small>
 
 La obstrucción señalada en el párrafo anterior será determinada mediante resolución debidamente fundada y motivada, la cual será expedida por el titular del organismo operador o, en su defecto, de la Comisión Estatal y notificada al usuario incumplido, otorgándosele un plazo de diez días naturales para comprobar el pago, en su caso, o alegar lo que a su derecho convenga.
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2005)</small>
+
 Del mismo modo, la obstrucción señalada en el primer párrafo de este artículo podrá darse en colaboración con las autoridades ecológicas competentes, cuando las descargas no cumplan con lo dispuesto en la legislación de equilibrio ecológico y protección al ambiente, así como cuando exista un riesgo inminente de daño a la población o al medio ambiente por el tipo de descargas que se estén vertiendo.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2005)</small>
 
 En este último supuesto se estará a lo dispuesto por la Ley de la materia.
 
@@ -1704,3 +1710,7 @@ P.O. 20 DE ENERO DE 2012.
 P.O. 28 DE ENERO DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 23 DE FEBRERO DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
