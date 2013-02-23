@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-de-la-secretaria-de-educacion-del-80339"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-03-10"
-last_updated: "2011-03-10"
+last_updated: "2013-02-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80339&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE EDUCACION DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2013.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 10 de marzo de 2011.
 
@@ -94,6 +94,8 @@ Al frente de cada unidad administrativa habrá un titular designado por el Secre
 
 Las unidades administrativas ejercerán sus facultades ajustándose al presente Reglamento, los lineamientos, normas y políticas que fije el Secretario y las demás disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 7°.
 
 Para el cumplimiento de sus atribuciones, la Secretaría contará con las siguientes unidades administrativas:
@@ -126,13 +128,13 @@ b) Dirección General de Educación Primaria:
 
 2. Dirección de Proyectos Educativos de Educación Primaria;
 
-c) Dirección General de Educación Secundaria:
+c) Dirección General de Educación Secundaría:
 
 1. Dirección de Secundaria General;
 
 2. Dirección de Secundaria Técnica; y
 
-3. Dirección de Educación Tele Secundaria;
+3. Dirección de Educación Tele Secundaría;
 
 d) Dirección General de Educación para la Equidad y Formación Integral:
 
@@ -142,9 +144,11 @@ d) Dirección General de Educación para la Equidad y Formación Integral:
 
 3. Dirección de Educación Indígena;
 
-4. Dirección de Educación Física y Deporte; y
+4. Dirección de Educación Física y Deporte;
 
-5. Dirección de Psicopedagogía;
+5. Dirección de Psicopedagogía; y
+
+6. Dirección de Articulación para la Equidad y Prevención de la Violencia;
 
 e) Dirección General de Programas Estratégicos:
 
@@ -152,11 +156,9 @@ e) Dirección General de Programas Estratégicos:
 
 2. Dirección de Programas de Acompañamiento Pedagógico;
 
-3. Dirección de Programas para el Desarrollo y Bienestar Escolar;
+3. Dirección de Programas para el Desarrollo y Bienestar Escolar; y
 
-4. Dirección de Programas Compensatorios y de Apoyo; y
-
-5. Dirección de Mantenimiento a la Infraestructura Tecnológica en las Escuelas;
+4. Dirección de Programas Compensatorios y de Apoyo;
 
 f) Dirección de Seguimiento y Evaluación de la Gestión;
 
@@ -164,29 +166,25 @@ III. Coordinación de Educación Media Superior, Superior y Tecnológica:
 
 a) Dirección General de Educación Media Superior:
 
-1. Dirección de Enlace de Organismos Públicos Descentralizados de Educación Media Superior;
+1. Dirección de Enlace de Organismos Públicos Descentralizados de Educación Media Superior; y
 
-2. Dirección de Supervisión de Programas Académicos; y
-
-3. Dirección Académica de Educación Media Superior;
+2. Dirección Académica de Educación Media Superior;
 
 b) Dirección General de Educación Superior:
 
-1. Dirección de Universidades Tecnológicas e Incorporadas;
+1. Dirección de Educación Superior Tecnológica; y
 
-2. Dirección de Institutos Tecnológicos Superiores; y
+2. Dirección de Investigación Científica y Desarrollo Tecnológico;
 
-3. Dirección de Investigación Científica y Desarrollo Tecnológico;
+c) Dirección General de Vinculación, Emprendurismo e Innovación Tecnológica:
 
-c) Dirección General de Vinculación y Emprendurismo:
+1. Dirección de Vinculación con Dependencias y Organismos Públicos Descentralizados y Capacitación;
 
-1. Dirección de Vinculación con Dependencias y Organismos Públicos Descentralizados;
-
-2. Dirección de Vinculación con el Sector Privado;
+2. Dirección de Centros Sectoriales de Innovación y Transferencia de Tecnología;
 
 3. Dirección de Articulación y Gestión Programática; y
 
-4. Dirección de Sistema Estatal de Emprendurismo;
+4. Dirección del Sistema Estatal de Emprendurismo e Incubación;
 
 d) Dirección de Gestión Estratégica de Educación Media Superior, Superior y Tecnológica;
 
@@ -200,17 +198,15 @@ a) Dirección General de Educación Normal:
 
 b) Dirección General de Formación Continua para Profesionales de la Educación:
 
-1. Dirección de Desarrollo Académico;
+1. Dirección de Desarrollo Académico; y
 
-2. Dirección de Gestión y Evaluación de Profesionales de la Educación; y
-
-3. Dirección de Vinculación y Articulación con Programas de Formación Continua;
+2. Dirección de Gestión y Evaluación de Profesionales de la Educación;
 
 c) Dirección General de Unidades de la Universidad Pedagógica Nacional e Instituciones de Posgrado:
 
 1. Dirección de Unidades de la Universidad Pedagógica Nacional; y
 
-2. Dirección de Posgrado;
+2. Dirección de Posgrado.
 
 V. Dirección General de Educación Permanente:
 
@@ -240,7 +236,7 @@ b) Dirección General de Evaluación Educativa:
 
 c) Dirección General de Acreditación, Incorporación y Revalidación Educativa:
 
-1. Dirección de Control Escolar de Educación Básica y Media Superior;
+1. Dirección de Control Escolar de Educación Básica y Medía Superior;
 
 2. Dirección de Control Escolar de Educación Normal y Superior; y
 
@@ -266,11 +262,11 @@ a) Dirección General de Personal:
 
 b) Dirección General de Recursos Materiales y Servicios Generales:
 
-Dirección de Control de Bienes Muebles e Inmuebles;
+1. Dirección de Control de Bienes Muebles e Inmuebles;
 
-Dirección de Servicios Generales; y
+2. Dirección de Servicios Generales; y
 
-Dirección de Adquisiciones;
+3. Dirección de Adquisiciones;
 
 c) Dirección General de Contabilidad y Recursos Financieros:
 
@@ -278,13 +274,15 @@ c) Dirección General de Contabilidad y Recursos Financieros:
 
 2. Dirección de Ingresos y Egresos;
 
-d) Dirección de Centros de Atención y Servicios;
+d) Dirección General de Tecnologías de Información:
 
-e) Dirección de Coordinación de Carrera Magisterial;
+1. Dirección de Mantenimiento a la Infraestructura Tecnológica en las Escuelas;
 
-f) Dirección Operativa del Centro de Capacitación;
+e) Dirección de Centros de Atención y Servicios;
 
-g) Dirección de Desarrollo Tecnológico Institucional;
+f) Dirección de Coordinación de Carrera Magisterial;
+
+g) Dirección Operativa del Centro de Capacitación;
 
 h) Dirección de Organización y Normatividad; y
 
@@ -320,7 +318,7 @@ a) Dirección General de Servicios Educativos Regionales:
 
 13. Delegación Centro Dos; y
 
-14. Delegación Centro Tres;
+14. Delegación Centro Tres.
 
 IX. Dirección General de Asuntos Jurídicos:
 
@@ -330,7 +328,7 @@ b) Dirección de lo Administrativo, Laboral e Infracciones Administrativas;
 
 c) Dirección de lo Contencioso; y
 
-d) Dirección de lo Consultivo;
+d) Dirección de lo Consultivo; y
 
 X. Dirección General de la Contraloría:
 
@@ -562,7 +560,7 @@ VI. Coadyuvar y buscar las soluciones de los conflictos que se presenten derivad
 
 VII. Llevar control y seguimiento de las acciones de negociación entre la Secretaría y las diferentes secciones sindicales, informando de los acuerdos tomados a las unidades administrativas competentes;
 
-VIII. Participar en las comisiones mixtas de escalafón y supervisar la promoción en la asignación de plazas, de conformidad con las disposiciones legales aplicables en la materia;
+VIII. (DEROGADA, P.O. 23 DE FEBRERO DE 2013)
 
 IX. Representar al Secretario en el Comité de Clasificación de Información Pública de la Secretaría; y
 
@@ -630,7 +628,7 @@ XII. Desarrollar estrategias de capacitación sobre metodología de enseñanza d
 
 XIII. Desarrollar eventos educativos en los que se presenten académicos o funcionarios extranjeros;
 
-XIV. Atender a la población educativa migrante en sus necesidades de acceso a las escuelas de nivel básico y medio superior; y
+XIV. (DEROGADA, P.O. 23 DE FEBRERO DE 2013)
 
 XV. Las demás que le otorguen otras disposiciones legales o el Secretario.
 
@@ -674,9 +672,17 @@ IV. Verificar que la información solicitada al Secretario, se proporcione de ac
 
 V. Fungir como Unidad de Transparencia de la Secretaría, así como tramitar y resolver los procedimientos administrativos en materia de información pública que sean competencia de la misma, de conformidad con la legislación aplicable;
 
-VI. Participar, a través de su titular, como miembro del Comité de Clasificación de Información Pública de la Secretaría; y
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2013)</small>
 
-VII. Las demás que le otorguen otras disposiciones legales o el Secretario.
+VI. Participar, a través de su titular, como miembro del Comité de Clasificación de Información Pública de la Secretaría;
+
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2013)</small>
+
+VII. Expedir las copias certificadas de aquellos documentos originales que obran bajo el resguardo de la unidad administrativa a su cargo y que son destinados a cumplir requerimientos del Instituto de Transparencia e Información Pública del Estado de Jalisco, así como de aquéllos que sirvan de prueba en los medios de impugnación que se ventilen ante dicho Instituto en contra de la Secretaría, y
+
+> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2013)</small>
+
+VIII. Las demás que le otorguen otras disposiciones legales o el Secretario.
 
 ### Capítulo IV. De la Coordinación de Educación Básica
 
@@ -748,7 +754,17 @@ XXX. Diseñar estrategias y líneas de acción encaminadas a fomentar las activi
 
 XXXI. Diseñar e implementar los programas de educación en derechos humanos y cultura de la legalidad;
 
-XXXII. Establecer y, en su caso, aplicar las acciones para la prevención de adicciones, discriminación y conductas de riesgo dentro de los planteles educativos; Las demás que le señalen otras disposiciones legales o el Secretario.
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2013)</small>
+
+XXXII. Establecer y, en su caso, aplicar las acciones para la prevención de adicciones, discriminación y conductas de riesgo dentro de los planteles educativos;
+
+> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2013)</small>
+
+XXXIII. Generar estrategias que garanticen el acceso de la población migrante a las escuelas de educación básica en el Estado; y
+
+> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2013)</small>
+
+XXXIV. Las demás que le señalen otras disposiciones legales o el Secretario.
 
 #### Sección Segunda. De las Direcciones Generales de Educación Preescolar, de Educación Primaria y de Educación Secundaria
 
@@ -1032,7 +1048,9 @@ III. Participar en el diseño de propuestas técnico-pedagógicas;
 
 IV. Coordinar el trabajo del equipo técnico-pedagógico de la modalidad no escolarizada;
 
-V. Supervisar que se cumpla con la normatividad tanto por los Centros de Desarrollo Infantil oficiales como por las instituciones educativas particulares incorporadas, reportando las anomalías o las propuestas de mejora operativa y normativa a la Dirección General de Educación para la Equidad y la For (sic)
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2013)</small>
+
+V. Supervisar que se cumpla con la normatividad tanto por los Centros de Desarrollo Infantil oficiales como por las instituciones educativas particulares incorporadas, reportando las anomalías o las propuestas de mejora operativa y normativa a la Dirección General de Educación para la Equidad y la Formación Integral;
 
 VI. Verificar la capacidad instalada en cada Centro de Desarrollo Infantil, con el fin de atender la mayor demanda;
 
@@ -1152,6 +1170,38 @@ V. Investigar y elaborar proyectos innovadores que respondan a la problemática 
 
 VI. las demás que le señalen otras disposiciones legales o sus superiores jerárquicos.
 
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2013)</small>
+
+###### Artículo 32 Bis.
+
+Son atribuciones de la Dirección de Articulación para la Equidad y Prevención de la Violencia, las siguientes:
+
+I. Promover el desarrollo de competencias en los docentes de educación básica para prevenir, detectar y atender la creación de estereotipos, discriminación y violencia a través de acciones formativas y de apoyo;
+
+II. Promover acciones para sensibilizar al personal docente y de apoyo de los diferentes niveles educativos sobre la igualdad de oportunidades y prevención de la violencia mediante talleres, previa autorización de la Dirección General de Educación para la Equidad y Formación Integral;
+
+III. Presentar, para la aprobación de la Dirección General de Educación para la Equidad y Formación Integral, propuestas de talleres basados en la metodología "equidad de género y prevención de la violencia" destinados a la comunidad educativa de los planteles escolares que son atendidos por la Dirección de Articulación para la Equidad y Prevención de la Violencia;
+
+IV. Crear acciones que estimulen las capacidades, habilidades y actitudes de los docentes mediante su participación en talleres, eventos y demás acciones correlacionadas;
+
+V. Generar acciones que permitan la integración de planteles de educación básica a jomadas extraescolares sabatinas en donde se realicen actividades que promuevan la tolerancia y equidad de género donde tenga participación la comunidad educativa;
+
+VI. Promover la participación de instituciones especializadas, artistas y la comunidad educativa en acciones que contribuyan en la construcción de una cultura de no violencia de género y permita el incremento de la matrícula y permanencia en el sistema educativo;
+
+VII. Crear redes de gestión que permitan la identificación y atención de la problemática socio-educativa presentada en los planteles de educación básica;
+
+VIII. Colaborar para la atención y canalización de personas en situación de violencia detectadas a través de los programas orientados a la equidad y que son proporcionados en los planteles de educación básica atendidos por la Dirección de Articulación para la Equidad y Prevención de la Violencia;
+
+IX. Generar y mantener actualizada la base de datos con la información generada en los programas orientados a la prevención de la violencia y equidad de género operados por las unidades administrativas adscritas a la Dirección General de Educación para la Equidad y Formación Integral;
+
+X. Promover la suscripción de convenios de colaboración con instancias gubernamentales y no gubernamentales, organizaciones nacionales e internacionales y sociedad civil en temas de equidad y prevención de la violencia;
+
+XI. Crear equipos de trabajo especializados en materia de equidad para realizar propuestas en el diseño y elaboración de material didáctico, de difusión, talleres y cursos ofertados a la comunidad educativa y personal técnico-pedagógico;
+
+XII. Generar alternativas y propuestas de temáticas para la sensibilización sobre equidad y prevención de la violencia que se incluyan en el desarrollo de la capacitación de docentes por las unidades administrativas competentes; y
+
+XIII. Las demás que le señalen otras disposiciones legales o sus superiores jerárquicos.
+
 #### Sección Cuarta. De la Dirección General de Programas Estratégicos
 
 ###### Artículo 33.
@@ -1160,7 +1210,7 @@ Son atribuciones de la Dirección General de Programas Estratégicos, las siguie
 
 I. Elaborar y proponer a la Coordinación de Educación Básica las políticas y lineamientos para el funcionamiento de programas estratégicos de acuerdo a los instrumentos rectores de la política educativa nacional y local;
 
-II. Coordinar los trabajos de planeación correspondientes a la infraestructura tecnológica destinados a los planteles de educación básica;
+II. (DEROGADA, P.O. 23 DE FEBRERO DE 2013)
 
 III. Coordinar, con las instancias competentes, la operación de los programas compensatorios y de apoyo;
 
@@ -1170,7 +1220,7 @@ V. Implementar programas de apoyo que promuevan el desarrollo del docente y que 
 
 VI. Evaluar el padrón de beneficiarios de los programas de ayuda social y comunitaria escolar;
 
-VII. Participar en los programas oficiales de becas de los niveles y modalidades asignados a estudiantes de educación básica inscritos en los planteles educativos públicos o particulares incorporados a la Secretaría;
+VII. (DEROGADA, P.O. 23 DE FEBRERO DE 2013)
 
 VIII. Coordinar las estrategias y líneas de acción en el fomento de las actividades artísticas y culturales, principalmente reforzando la identidad nacional y la local y el respeto por la cultura y las tradiciones autóctonas;
 
@@ -1182,7 +1232,7 @@ XI. Coordinar las líneas de acción para la prevención de adicciones y conduct
 
 XII. Apoyar en temas de salud, bienestar y seguridad de los escolares;
 
-XIII. Diseñar las acciones y programas para la prevención y eliminación de la discriminación;
+XIII. (DEROGADA, P.O. 23 DE FEBRERO DE 2013)
 
 XIV. Establecer los mecanismos de aplicación de las estrategias tendientes a compensar la inequidad del sistema educativo estatal;
 
@@ -1190,7 +1240,7 @@ XV. Desarrollar los mecanismos para el fortalecimiento de la enseñanza de las m
 
 XVI. Promover el diseño y aplicación de capacitación y asesoría en el uso de la tecnología para docentes, directivos, personal de apoyo y asistencia;
 
-XVII. Consolidar la red escolar;
+XVII. (DEROGADA, P.O. 23 DE FEBRERO DE 2013)
 
 XVIII. Diseñar y proponer las políticas y lineamientos para la función de acompañamiento didáctico, a la Coordinación de Educación Básica;
 
@@ -1212,7 +1262,7 @@ Son atribuciones de la Dirección de Programas de Tecnología en el Aula, las si
 
 l. Coordinarse con las unidades administrativas competentes para fortalecer el uso de nuevas tecnologías en el proceso de enseñanza y el desarrollo de capacidades y habilidades de alumnos y docentes en el uso de las tecnologías de información y comunicación;
 
-II. Impulsar, operar y evaluar los programas nacionales y estatales que incorporen el uso de recursos tecnológicos a los procesos educativos en el aula, remitiendo los resultados de la operación y los indicadores de gestión que se establezcan, a la Dirección General de Programas Estratégicos;
+II. (DEROGADA, P.O. 23 DE FEBRERO DE 2013)
 
 III. Promover y desarrollar con las unidades administrativas competentes, los mecanismos para el fortalecimiento de la enseñanza de las matemáticas y las ciencias naturales en el nivel de secundaria, a través de equipos de cómputo y otras tecnologías aplicadas;
 
@@ -1226,9 +1276,29 @@ VII. Establecer relaciones de colaboración con instituciones y organizaciones g
 
 VIII. Proponer a la Dirección General de Programas Estratégicos la celebración de convenios con organizaciones no gubernamentales e instituciones privadas que produzcan o distribuyan material educativo, equipo y tecnología educacional;
 
-IX. Elaborar y mantener actualizado el inventario de convergencia de programas que utilicen tecnologías en el aula, proponiendo a la Dirección General de Programas Estratégicos las políticas y lineamientos para una asignación equitativa de los mismos; y
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2013)</small>
 
-X. Las demás que le señalen otras disposiciones legales o sus superiores jerárquicos.
+IX. Elaborar y mantener actualizado el inventario de convergencia de programas que utilicen tecnologías en el aula, proponiendo a la Dirección General de Programas Estratégicos las políticas y lineamientos para una asignación equitativa de los mismos;
+
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2013)</small>
+
+X. Llevar el control de los proyectos desarrollados con recursos multimedia, diseño gráfico, ilustración, diseño editorial, fotografía, escultura y diseño web, así como productos de audio y video y software educativo en la Dirección de Programas de Tecnología en el Aula;
+
+> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2013)</small>
+
+XI. Efectuar ante las autoridades competentes los registros de derechos de autor de los materiales multimedia generados por la Dirección de Programas de Tecnología en el Aula;
+
+> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2013)</small>
+
+XII. Evaluar los recursos multimedia generados por la Dirección de Programas de Tecnología en el Aula, a fin de conocer su impacto y uso en los planteles escolares;
+
+> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2013)</small>
+
+XIII. Contribuir con la Coordinación de Educación Básica, produciendo los materiales audiovisuales y de video, necesarios en la labor educativa; y
+
+> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2013)</small>
+
+XIV. Las demás que le señalen otras disposiciones legales o sus superiores jerárquicos.
 
 ###### Artículo 35.
 
@@ -1264,7 +1334,7 @@ III. Proporcionar atención a los alumnos que padecen debilidad visual;
 
 IV. Integrar los catálogos de servicios y proponerlos a la Dirección General de Programas Estratégicos con el objetivo de apoyar a los docentes en los temas de salud que mejoren las condiciones de bienestar de los escolares, en concordancia con los programas que a nivel federal y estatal se instauren;
 
-V. Participar con las instancias competentes en el otorgamiento de becas escolares en sus diferentes modalidades dirigidas a los alumnos inscritos en los centros educativos públicos;
+V. (DEROGADA, P.O. 23 DE FEBRERO DE 2013)
 
 VI. Diseñar proyectos de respeto a los derechos humanos en general y, en específico, de los valores, de la preservación y mejoramiento de la salud, del medio ambiente, prevención de riesgos psicosociales, prevención y eliminación de la discriminación y de fomento a la cultura de la transparencia y la legalidad;
 
@@ -1304,25 +1374,7 @@ XII. Las demás que le señalen otras disposiciones legales o sus superiores jer
 
 ###### Artículo 38.
 
-Son atribuciones de la Dirección de Mantenimiento a la Infraestructura Tecnológica en las Escuelas, las siguientes:
-
-l. Proponer a la Dirección General de Programas Estratégicos, las políticas y lineamientos para el mantenimiento preventivo y correctivo de la infraestructura tecnológica existente en los planteles de Educación Básica;
-
-II. Elaborar y proponer a la Dirección General de Programas Estratégicos la planeación de inversión correspondiente a la infraestructura tecnológica a los planteles de educación básica, supervisando su correcta asignación;
-
-III. Organizar y calendarizar las actividades concernientes a la atención del mantenimiento preventivo y correctivo, así como la aplicación de los recursos autorizados para la instalación de la infraestructura tecnológica;
-
-IV. Participar en las acciones de carácter administrativo para la contratación de servicios externos de mantenimiento a la infraestructura tecnológica que permitan la utilización óptima de los recursos;
-
-V. Administrar y actualizar el inventario de la infraestructura tecnológica en las escuelas, apegado a la normatividad aplicable;
-
-VI. Supervisar la intervención de los prestadores externos de servicios que brinden apoyo en las escuelas;
-
-VII. Proponer a la Dirección General de Programas Estratégicos, alternativas de mejora tecnológica que permita incrementar el grado de impacto en el proceso de enseñanza-aprendizaje;
-
-VIII. Dar seguimiento y atender los reportes de servicios programados y eventuales sobre el mantenimiento de la infraestructura tecnológica; y
-
-IX. Las demás que le señalen otras disposiciones legales o sus superiores jerárquicos.
+(DEROGADO, P.O. 23 DE FEBRERO DE 2013)
 
 ###### Artículo 39.
 
@@ -1368,13 +1420,13 @@ VI. Implementar estrategias para promover programas de emprendedores en los serv
 
 VII. Implementar estrategias para promover los programas de apoyo social que prestan los organismos públicos descentralizados de educación media superior, superior y tecnológica, así como de capacitación para el trabajo;
 
-VIII. Colaborar con las instancias competentes para otorgar, negar o retirar a los particulares el reconocimiento de validez oficial de estudios de educación media superior y superior, de conformidad con las disposiciones legales aplicables;
+VIII. (DEROGADA, P.O. 23 DE FEBRERO DE 2013)
 
-IX. Autorizar planes y programas de estudio, material didáctico, reglamentos, personal docente y administrativo a los particulares que solicitan o cuentan son (sic) reconocimiento de validez oficial de estudios de educación media superior y superior ante la Secretaría, de conformidad con el Reglamento de la Ley de Educación del Estado de Jalisco en materia de Otorgamiento, Refrendo y Revocación de Incorporación de Instituciones Particulares al Sistema Educativo Estatal;
+IX. (DEROGADA, P.O. 23 DE FEBRERO DE 2013)
 
 X. Convocar a reuniones informativas o de trabajo con representantes de instituciones educativas particulares e instituciones diversas que solicitan o cuentan con reconocimiento de validez oficial de estudios de educación media superior y superior ante la Secretaría;
 
-XI. Informar a la Coordinación de Planeación y Evaluación Educativa el incumplimiento de las obligaciones recaídas en los particulares que prestan servicios de educación media superior y superior con reconocimiento de validez oficial de estudios ante la Secretaría;
+XI. (DEROGADA, P.O. 23 DE FEBRERO DE 2013)
 
 XII. Proponer al Secretario la celebración de convenios con el sector empresarial y otras instancias, para impulsar la educación media superior, superior y tecnológica, así como de capacitación para el trabajo en cualquiera de sus modalidades;
 
@@ -1392,7 +1444,7 @@ XVIII. Coordinar la implantación y asesoría de las acciones de planeación, ej
 
 XIX. Verificar que las instituciones educativas particulares cuenten con el reconocimiento de validez oficial de estudios;
 
-XX. Coordinar la supervisión de las instituciones educativas particulares que cuenten con el reconocimiento de validez oficial de estudios de Educación Media Superior y Superior, e inspeccionar el cumplimiento de las obligaciones que la Ley impone a las personas o instituciones que impartan servicios educativos sin autorización ni reconocimiento de validez oficial de estudios;
+XX. (DEROGADA, P.O. 23 DE FEBRERO DE 2013)
 
 XXI. Fomentar, impulsar y apoyar la investigación e innovación científica y tecnológica de Educación Superior en los Organismos Públicos Descentralizados; y
 
@@ -1410,9 +1462,9 @@ III. Apoyar a los organismos públicos descentralizados en la solución de probl
 
 IV. Procurar y coordinar la capacitación y actualización del personal de los organismos públicos descentralizados, a fin de mejorar sus estándares de desempeño;
 
-V. Supervisar e inspeccionar, en el ámbito de su competencia, a instituciones que ofrezcan estudios de educación media superior y superior, a fin de que se cumpla con la normatividad correspondiente;
+V. (DEROGADA, P.O. 23 DE FEBRERO DE 2013)
 
-VI. Practicar, en su ámbito de competencia, visitas de inspección a los particulares que imparten servicios educativos, de conformidad con el Reglamento de la Ley de Educación del Estado de Jalisco en materia de Otorgamiento, Refrendo y Revocación de Incorporación de Instituciones Particulares al Sistema Educativo Estatal;
+VI. (DEROGADA, P.O. 23 DE FEBRERO DE 2013)
 
 VII. Atender las solicitudes y quejas presentada por alumnos, padres de familia, docentes y personal administrativo de los organismos públicos descentralizados y de instituciones educativas particulares de estudios de nivel medio superior y superior;
 
@@ -1436,9 +1488,9 @@ IV. Apoyar a la Coordinación de Educación Media Superior, Superior y Tecnológ
 
 V. Supervisar y vigilar la correcta aplicación de la metodología establecida en el proceso enseñanza-aprendizaje, en las instituciones educativas particulares, de conformidad con las disposiciones legales aplicables;
 
-VI. Colaborar con las instancias competentes en los procesos para otorgar, negar y retirar a los particulares, el reconocimiento de validez oficial de estudios, emitiendo el dictamen correspondiente;
+VI. (DEROGADA, P.O. 23 DE FEBRERO DE 2013)
 
-VII. Autorizar el calendario de supervisiones a instituciones educativas particulares de Educación Media Superior;
+VII. (DEROGADA, P.O. 23 DE FEBRERO DE 2013)
 
 VIII. Coadyuvar en las políticas de trabajo de los organismos públicos descentralizados promoviendo la calidad, cobertura y la mejora continua, sugiriendo sistemas e indicadores de gestión y control;
 
@@ -1446,7 +1498,7 @@ IX. Realizar los estudios para detectar la oferta y la demanda de la educación 
 
 X. Coadyuvar en la elaboración del anteproyecto de presupuesto anual de los organismos públicos descentralizados;
 
-XI. Otorgar o negar el refrendo anual del reconocimiento de validez oficial de estudios a las instituciones educativas particulares que ofrecen estudios de educación media superior; y
+XI. (DEROGADA, P.O. 23 DE FEBRERO DE 2013)
 
 XII. Las demás que le señalen otras disposiciones legales o sus superiores jerárquicos.
 
@@ -1468,27 +1520,7 @@ VI. las demás que le señalen otras disposiciones legales o sus superiores jer�
 
 ###### Artículo 44.
 
-Son atribuciones de la Dirección de Supervisión de Programas Académicos, las siguientes:
-
-l. Verificar que las instituciones educativas particulares de Educación Media Superior, cumplan con las normas y leyes vigentes;
-
-II. Elaborar y proponer a la Dirección General de Educación Media Superior, el calendario de supervisión a las instituciones educativas particulares de Educación Medía Superior;
-
-III. Supervisar a las instituciones educativas particulares de educación media superior que cuentan con el reconocimiento de validez oficial de estudios o aquellos que lo soliciten ante la Secretaría, de conformidad con el programa de calendarización previamente establecido;
-
-IV. Colaborar con la unidad administrativa responsable, en la obtención de las estadísticas de inicio y fin del ciclo escolar de las instituciones educativas particulares incorporadas;
-
-V. Autorizar las propuestas de planes y programas de estudio de instituciones educativas particulares de Educación Media Superior que soliciten el reconocimiento de validez oficial de estudios, elaborando el proyecto de dictamen a la Dirección General de Educación Media Superior;
-
-VI. Verificar y aprobar que el personal docente propuesto por las instituciones educativas particulares reúna el perfil requerido, de acuerdo a la normatividad vigente;
-
-VII. Asesorar a las instituciones educativas particulares de educación media superior que cuenten con el reconocimiento de validez oficial de estudios;
-
-VIII. Gestionar los convenios de participación con los colegios de profesionistas, instituciones educativas, organismos y asociaciones, entre otros, con el objeto de contar con su participación en la revisión de los planes y programas de estudio de las instituciones de educación particulares;
-
-IX. Dar seguimiento tanto a las observaciones generadas por las supervisiones que se realicen a las instituciones educativas particulares, así como al procedimiento que se pudiese instaurar; y
-
-X. Las demás que le señalen otras disposiciones legales o sus superiores jerárquicos.
+(DEROGADO, P.O. 23 DE FEBRERO DE 2013)
 
 ###### Artículo 45.
 
@@ -1524,7 +1556,7 @@ III. Participar en las reformas curriculares de los planes y programas de estudi
 
 IV. Apoyar a la Coordinación de Educación Media Superior, Superior y Tecnológica, en los trabajos relacionados con el Consejo Estatal para la Planeación de la Educación Superior en el Estado de Jalisco, y participar en éste;
 
-V. Colaborar con las instancias competentes en los procesos para otorgar, negar o retirar el reconocimiento de validez oficial de estudios a las instituciones educativas particulares de educación superior, emitiendo el dictamen correspondiente;
+V. (DEROGADA, P.O. 23 DE FEBRERO DE 2013)
 
 VI. Proponer a la Coordinación de Educación Media Superior, Superior y Tecnológica, las acciones necesarias que desarrollen la mejora de la educación superior dando seguimiento a dichas acciones;
 
@@ -1540,55 +1572,39 @@ XI. Colaborar con las instancias correspondientes de la Secretaría y con los Or
 
 XII. Fomentar, impulsar y apoyar la investigación e innovación científica y tecnológica de educación superior en las instituciones de educación superior sectorizadas;
 
-XIII. Otorgar o negar el refrendo anual del reconocimiento de validez oficial de estudios a las instituciones educativas particulares que ofrecen estudios de educación superior; y
+XIII. (DEROGADA, P.O. 23 DE FEBRERO DE 2013)
 
 XIV. Las demás que le señalen otras disposiciones legales o sus superiores jerárquicos.
 
 ###### Artículo 47.
 
-Son atribuciones de la Dirección de Universidades Tecnológicas e Incorporadas, las siguientes:
+(DEROGADO, P.O. 23 DE FEBRERO DE 2013)
 
-l. Consolidar a las Universidades sectorizadas a la Secretaría, mediante el trabajo colegiado de comités interinstitucionales enfocados al desarrollo económico, cultural y educativo de la región en que se encuentran;
-
-II. Establecer estrategias que contribuyan a la disminución de la deserción y reprobación de las Universidades sectorizadas de la Secretaría;
-
-III. Opinar sobre la creación de nuevas carreras en las Universidades sectorizadas la Secretaría que sean pertinentes a las necesidades y acordes al desarrollo de la región donde se encuentran;
-
-IV. Evaluar los planes y programas de estudio que las instituciones educativas particulares de educación superior presentan para obtener el reconocimiento de validez oficial de estudios, así como las instalaciones y plantillas docentes propuestas;
-
-V. Supervisar y evaluar a las instituciones educativas particulares de educación superior, con reconocimiento de validez oficial de estudios respecto al cumplimiento de los lineamientos y normatividad en la materia;
-
-VI. Proponer la actualización de metodologías de las evaluaciones y supervisiones aplicables a las Universidades sectorizadas y a los particulares que ofrecen educación superior;
-
-VII. Establecer mecanismos que permitan la elaboración, seguimiento y adecuación a los programas operativos de las Universidades sectorizadas, de acuerdo con los instrumentos de planeación, así como su acompañamiento para el cumplimiento de los compromisos trazados;
-
-VIII. Propiciar la creación de comisiones interinstitucionales en las Universidades sectorizadas a la Secretaría, y todas aquellas que tengan como finalidad apoyar el desarrollo del nivel educativo y su operatividad, siguiendo las metas establecidas en el Plan Sectorial de Educación; y
-
-IX. Las demás que le señalen otras disposiciones legales o sus superiores jerárquicos.
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 48.
 
-Son atribuciones de la Dirección de Institutos Tecnológicos Superiores, las siguientes:
+Son atribuciones de la Dirección de Educación Superior Tecnológica, las siguientes:
 
-I. Consolidar a los institutos tecnológicos superiores en sus regiones;
+I. Consolidar a los institutos y universidades tecnológicas superiores en sus regiones:
 
-II. Incrementar la cobertura de educación superior tecnológica entre los diferentes grupos sociales y la población con rezago educativo del Estado;
+II. Generar estrategias que disminuyan la deserción y reprobación;
 
-III. Crear mecanismos de evaluación y seguimiento sobre el desempeño de los institutos tecnológicos superiores;
+III. Incrementar la cobertura de educación superior tecnológica entre los diferentes grupos sociales y la población con rezago educativo del Estado;
 
-IV. Proponer las acciones de los institutos tecnológicos superiores encaminadas a formar profesionistas competentes que abastezcan el requerimiento del sector laboral;
+IV. Validar las solicitudes de ampliación a la infraestructura existente que son elaboradas por los institutos y universidades tecnológicas superiores, revisando su viabilidad;
 
-V. Difundir las actividades culturales, deportivas y de valores en los institutos tecnológicos superiores;
+V. Promover la diversificación de la oferta educativa en razón de las necesidades de cada región;
 
-VI. Generar estrategias que disminuyan la deserción y reprobación;
+VI. Crear mecanismos de evaluación y seguimiento sobre el desempeño de los institutos y universidades tecnológicas superiores;
 
 VII. Vincular la labor de las instituciones de educación media superior y las instituciones de educación superior en cada región que aseguren el incremento del nivel educativo;
 
 VIII. Apoyar en los trabajos del Consejo Estatal de Planeación de la Educación Superior en el Estado de Jalisco;
 
-IX. Promover la diversificación de la oferta educativa en razón de las necesidades de cada región;
+IX. Proponer las acciones de los institutos y universidades tecnológicas superiores encaminadas a formar profesionistas competentes que abastezcan el requerimiento del sector laboral;
 
-X. Validar las solicitudes de ampliación a la infraestructura existente que son elaboradas por los Institutos Tecnológicos Superiores, revisando su viabilidad; y
+X. Difundir las actividades culturales, deportivas y de valores en los institutos y universidades tecnológicas superiores; y
 
 XI. Las demás que le señalen otras disposiciones legales o sus superiores jerárquicos.
 
@@ -1622,11 +1638,15 @@ XII. Establecer mecanismos para la obtención de información sobre la investiga
 
 XIII. las demás que le señalen otras disposiciones legales o sus superiores jerárquicos.
 
-#### Sección Cuarta. De la Dirección General de Vinculación y Emprendurismo
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE FEBRERO DE 2013)</small>
+
+#### Sección Cuarta. De la Dirección General de Vinculación, Emprendurismo e Innovación Tecnológica
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 50.
 
-Son atribuciones de la Dirección General de Vinculación y Emprendurismo, las siguientes:
+Son atribuciones de la Dirección General de Vinculación, Emprendurismo e Innovación Tecnológica, las siguientes:
 
 l. Establecer canales de comunicación con los diversos sectores socioeconómicos e instituciones educativas para vincular la demanda laboral con la oferta educativa a través de la gestión y propuesta de convenios y acuerdos;
 
@@ -1664,51 +1684,67 @@ XVII. Impulsar la certificación y evaluación de competencia laboral y profesio
 
 XVIII. Las demás que le señalen otras disposiciones legales o sus superiores jerárquicos.
 
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 51.
 
-Son atribuciones de la Dirección de Vinculación con Dependencias y Organismos Públicos Descentralizados, las siguientes:
+Son atribuciones de la Dirección de Vinculación con Dependencias y Organismos Públicos Descentralizados y Capacitación, las siguientes:
 
-l. Apoyar las acciones de planeación y ejecución de los programas para la promoción de la matrícula escolar de los organismos públicos descentralizados;
+I. Apoyar las acciones de planeación y ejecución de los programas para la promoción de la matrícula escolar de los organismos públicos descentralizados;
 
 II. Coordinar y supervisar la asignación y validación del servicio social, prácticas profesionales, estadías y condiciones de seguridad de los alumnos, conforme a la normatividad vigente;
 
-III. Promover el apoyo de recursos financieros a favor de los alumnos que prestan servicio social, estadías o prácticas profesionales, por parte de las entidades receptoras así como de los programas oficiales destinados a este fin;
+III. Promover el apoyo de recursos financieros a favor de los alumnos que prestan servicio social, estadías o prácticas profesionales, por parte de las entidades receptoras, así como de los programas oficiales destinados a este fin;
 
-IV. Promover, coadyuvar y difundir, en el ámbito de sus atribuciones, los programas y campañas de apoyo a la sociedad en los que participen los organismos públicos descentralizados;
+IV. Propiciar la suscripción de convenios de colaboración en materia de servicio social, prácticas profesionales, estadías, intercambio y capacitación;
 
 V. Orientar a los organismos públicos descentralizados sectorizados a la Secretaría, en el desarrollo de actividades de sus patronatos o comités de vinculación;
 
 VI. Promover ante los organismos públicos descentralizados, los beneficios de la vinculación educación-empresa, propiciando mecanismos para acceder a nuevos esquemas más eficientes de cooperación;
 
-VII. Coordinarse con instituciones gubernamentales para la realización de eventos o trabajos en materia de vinculación con el sector productivo;
+VII. Canalizar, en el ámbito de su competencia, los indicadores generados a través del sistema de seguimiento de egresados de los organismos públicos descentralizados sectorizados a la Secretaría, para la realización de diagnósticos, estudios y evaluaciones de las carreras pertinentes a las demandas regionales del sector productivo;
 
-VIII. Propiciar la suscripción de convenios de colaboración en materia de servicio social, prácticas profesionales, estadías, intercambio y capacitación;
+VIII. Promover, coadyuvar y difundir, en el ámbito de sus atribuciones, los programas y campañas de apoyo a la sociedad en los que participen los organismos públicos descentralizados;
 
-IX. Promover la celebración de convenios de vinculación, intercambio académico de investigación y de servicios, entre los organismos públicos descentralizados sectorizados a la Secretaría con instituciones de educación media superior, superior y tecnológica en el ámbito local, nacional e internacional, tanto públicas como privadas;
+IX. Elaborar proyectos y programas de vinculación entre el sector privado y las instituciones de educación media superior y superior, que promuevan el equilibrio entre la oferta educativa y la demanda laboral;
 
-X. Canalizar, en el ámbito de su competencia, los indicadores generados a través del sistema de seguimiento de egresados de los organismos públicos descentralizados sectorizados a la Secretaría, para la realización de diagnósticos, estudios y evaluaciones de las carreras pertinentes a las demandas regionales del sector productivo; y
+X. Coordinarse con instituciones gubernamentales para la realización de eventos o trabajos en materia de vinculación con el sector productivo;
 
-XI. Las demás que le señalen otras disposiciones legales o sus superiores jerárquicos.
+XI. Promover candidatos del sector privado para la integración de los comités de vinculación y patronatos de los diferentes organismos públicos descentralizados sectorizados a la Secretaría;
+
+XII. Identificar las áreas de oportunidad en el ámbito empresarial que generen empleos de calidad, vinculándolas con los jóvenes egresados de educación media superior y superior;
+
+XIII. Establecer contacto permanente con cámaras o cúpulas empresariales, empresas e instituciones educativas, para la planeación de proyectos que incidan en el desarrollo sustentable del Estado;
+
+XIV. Promover la celebración de convenios de vinculación, intercambio académico de investigación y de servicios, entre los organismos públicos descentralizados sectorizados a la Secretaría con instituciones de educación media superior, superior y tecnológica en el ámbito local, nacional e internacional, tanto públicas como privadas;
+
+XV. Sensibilizar al sector empresarial para que apoye la capacitación de su personal a través de programas de continuidad y actualización que brindan los organismos públicos descentralizados de educación media superior y superior sectorizados a la Secretaría;
+
+XVI. Coadyuvar con el órgano responsable de la promoción y coordinación de las normas técnicas aplicables para la certificación y evaluación en materia de competencia laboral y profesional en el Estado; y
+
+XVII. Las demás que le señalen otras disposiciones legales o sus superiores jerárquicos.
+
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 52.
 
-Son atribuciones de la Dirección de Vinculación con el Sector Privado, las siguientes:
+Son atribuciones de la Dirección de Centros Sectoriales de Innovación y Transferencia de Tecnología, las siguientes:
 
-l. Elaborar proyectos y programas de vinculación entre el sector privado y las instituciones de educación media superior y superior, que promuevan el equilibrio entre la oferta educativa y la demanda laboral;
+I. Generar estrategias que produzcan desarrollo tecnológico e innovación entre las instituciones educativas del nivel medio superior y superior, ya sean públicas o privadas, haciendo partícipes de éstas a los sectores productivos del Estado;
 
-II. Coadyuvar en la detección, promoción y seguimiento de convenios de vinculación entre el sector productivo y las instituciones de educación, en el marco de escuela-empresa;
+II. Establecer contacto permanente con cámaras, cúpulas empresariales, empresas e instituciones educativas, para la planeación de proyectos que incidan en el desarrollo sustentable del Estado;
 
-III. Proponer espacios para la realización de foros, seminarios, congresos o conferencias, relacionadas al tema de la vinculación escuela-empresa;
+III. Identificar las áreas de oportunidad en el ámbito empresarial que generen empleos, vinculándolas con los jóvenes egresados de Educación Media Superior y Superior;
 
-IV. Promover candidatos del sector privado para la integración de los comités de vinculación y patronatos de los diferentes organismos públicos descentralizados sectorizados a la Secretaría;
+IV. Organizar la asignación de recursos provenientes de apoyos para la gestión de las actividades desarrolladas en los centros sectoriales de innovación;
 
-V. Identificar las áreas de oportunidad en el ámbito empresarial que generen empleos, vinculándolas con los jóvenes egresados de educación media superior y superior;
+V. Realizar acciones que promocionen los beneficios de crear centros sectoriales de innovación en las instituciones educativas del Estado, vinculándolos con el sector productivo;
 
-VI. Establecer contacto permanente con cámaras o cúpulas empresariales, empresas e instituciones educativas, para la planeación de proyectos que incidan en el desarrollo sustentable del Estado;
+VI. Promover una cultura de protección a los derechos de autor y propiedad intelectual en los proyectos y productos desarrollados en las instituciones educativas de nivel medio superior y superior, que cuenten con centros de emprendurismo, innovación y transferencia de tecnología;
 
-VII. Sensibilizar al sector empresarial para que apoye la capacitación de su personal a través de programas de continuidad y actualización que brindan los organismos públicos descentralizados de educación media superior y superior sectorizados a la Secretaría;
+VII. Generar mecanismos apoyados en herramientas tecnológicas, que faciliten la transferencia de tecnología y conocimiento en las instituciones de educación media superior y superior del Estado;
 
-VIII. Coadyuvar con el órgano responsable de la promoción y coordinación de las normas técnicas aplicables para la certificación y evaluación en materia de competencia laboral y profesional en el Estado; y
+VIII. Proponer y dirigir eventos autorizados orientados a la promoción y fomento de la oferta educativa y la tecnología en la educación media superior y superior en el Estado; y
 
 IX. Las demás que le señalen otras disposiciones legales o sus superiores jerárquicos.
 
@@ -1742,25 +1778,33 @@ XII. Coordinar la formación de facilitadores en emprendurismo, incrementando la
 
 XIII. Las demás que le señalen otras disposiciones legales o sus superiores jerárquicos.
 
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 54.
 
-Son atribuciones de la Dirección del Sistema Estatal de Emprendurismo, las siguientes:
+Son atribuciones de la Dirección del Sistema Estatal de Emprendurismo e Incubación, las siguientes:
 
-l. Coordinar la implementación y adaptación de talleres curriculares, cocurriculares o extracurriculares de formación para emprendedores, en las instituciones educativas u otros organismos gubernamentales y no gubernamentales;
+I. Coordinar la implementación y adaptación de talleres curriculares, cocurriculares o extracurriculares de formación para emprendedores, en las instituciones educativas u otros organismos gubernamentales y no gubernamentales;
 
-II. Detectar los proyectos viables de ser desarrollados, provenientes de los talleres de formación para emprendedores, coordinándose a través de los centros y módulos de emprendurismo, cooperativismo e incubación, para la atención y seguimientos de los mismos;
+II. Detectar los proyectos viables de ser desarrollados, provenientes de los talleres de formación para emprendedores, coordinándose a través de los centros y módulos de Emprendurismo, Cooperativismo e Incubación, para la atención y seguimiento de los mismos;
 
-III. Estructurar y coordinar el sistema de evaluación e indicadores para la medición y el monitoreo de los resultados;
+III. Vigilar que en la creación de los centros de emprendurismo e incubación, la transferencia de la metodología Jalisco Emprende se realice atendiendo las acciones establecidas por las reglas de operación vigentes;
 
-IV. Coordinar la inclusión del uso de tecnologías de la información y comunicación a las actividades de los centros de emprendurismo, cooperativismo e incubación;
+IV. Estructurar y coordinar el sistema de evaluación e indicadores para la medición y el monitoreo de los resultados;
 
-V. Coordinar la evaluación de proyectos viables de ser desarrollados en los centros de emprendurismo, cooperativismo e incubación, implementando a la vez la inclusión de los usos de tecnologías de la información y comunicación y la adaptación, mantenimiento y actualización, acorde a la metodología de los diferentes programas de la materia, estructurando para ello grupos de trabajo que generen el desarrollo y seguimiento de los mismos;
+V. Coordinar la inclusión del uso de tecnologías de la información y comunicación a las actividades de los centros de Emprendurismo, Cooperativismo e Incubación;
 
-VI. Diseñar, coordinar y mantener la obtención de la acreditación de los programas y centros de emprendurismo, cooperativismo e incubación en el Sistema Nacional de Incubación y Emprendedores;
+VI. Coordinar la evaluación de proyectos de emprendurismo, cooperativismo e incubación, considerando el uso de tecnologías de la información y comunicación, de acuerdo con la metodología de los programas destinados para ello;
 
-VII. Estructurar y coordinar la implementación de equipos evaluadores y comités técnicos de selección en los centros y módulos de Emprendurismo, Cooperativismo e Incubación; y
+VII. Vigilar las acciones orientadas a la obtención y conservación de la acreditación tanto de los programas como de los centros de emprendurismo, cooperativismo e incubación;
 
-VIII. Las demás que le señalen otras disposiciones legales o sus superiores jerárquicos.
+VIII. Coordinar la instalación y operación de los equipos evaluadores y comités técnicos que participan en los centros de emprendurismo, cooperativismo e incubación;
+
+IX. Desarrollar estrategias de vinculación que permitan una mayor participación entre las instituciones educativas y los sectores productivos en los eventos de fomento al emprendurismo;
+
+X. Generar una vinculación entre los proyectos desarrollados en los centros de emprendurismo con las estrategias de fomento y promoción de la innovación, el desarrollo tecnológico, la propiedad intelectual y la transferencia de tecnología con la finalidad de alcanzar los máximos resultados; y
+
+XI. Las demás que señalen otras disposiciones legales o sus superiores jerárquicos.
 
 ###### Artículo 55.
 
@@ -1992,23 +2036,7 @@ VIII. Las demás que le señalen otras disposiciones legales o sus superiores je
 
 ###### Artículo 63.
 
-Son atribuciones de la Dirección de Vinculación y Articulación con Programas de Formación Continua, las siguientes:
-
-l. Revisar y analizar información para el establecimiento y operación de propuestas en agendas de trabajo oficial, convenios, acuerdos, reglamentos y otros, que en materia de formación continua establezca la Dirección General de Formación Continua para Profesionales de la Educación en las negociaciones que realice con dependencias tanto internas como externas;
-
-II. Elaborar los informes de los servicios de actualización y capacitación de la Dirección General de Formación Continua para Profesionales de la Educación;
-
-III. Promover la difusión del Programa Estatal de Formación Continua y Superación Profesional y la oferta anual de actualización, capacitación y de servicio;
-
-IV. Colaborar en la creación de redes de apoyo a los servicios de formación continua;
-
-V. Proponer y actualizar, en coordinación con las unidades administrativas competentes, estándares de desempeño de los prestadores de servicios de formación continua;
-
-VI. Promover la investigación para el desarrollo y supervisión de los programas de estudios y servicios estatales de formación continua;
-
-VII. Concentrar la base de datos en relación a la participación histórica de los docentes en las diversas acciones de formación continua, que se genera desde la Dirección General de Formación Continua para Profesionales de la Educación; y
-
-VIII. Las demás que le señalen otras disposiciones legales o sus superiores jerárquicos.
+(DEROGADO, P.O. 23 DE FEBRERO DE 2013)
 
 #### Sección Cuarta. De la Dirección General de Unidades de la Universidad Pedagógica Nacional e Instituciones de Posgrado
 
@@ -2148,11 +2176,11 @@ VII. Realizar investigaciones y evaluaciones que permitan obtener información s
 
 VIII. Autorizar contenidos, planes y programas de estudio, así como materiales didácticos regionales y locales en materia de educación de jóvenes y adultos o de capacitación para el trabajo, de conformidad con las disposiciones legales aplicables en la materia;
 
-IX. Emitir el dictamen técnico pedagógico para la incorporación de escuelas particulares de capacitación para el trabajo;
+IX. (DEROGADA, P.O. 23 DE FEBRERO DE 2013)
 
-X. Colaborar con las instancias competentes en los procesos para otorgar, negar o retirar a los Centros de Capacitación para el Trabajo, el reconocimiento de validez oficial de estudios;
+X. (DEROGADA, P.O. 23 DE FEBRERO DE 2013)
 
-XI. Otorgar o negar el refrendo anual del reconocimiento de validez oficial de estudios a los Centros de Capacitación para el Trabajo;
+XI. (DEROGADA, P.O. 23 DE FEBRERO DE 2013)
 
 XII. Emitir opinión pedagógica en relación a sistemas viables de acreditación y certificación de estudios para jóvenes y adultos;
 
@@ -2182,15 +2210,15 @@ III. Proponer a la Dirección General de Educación Permanente la ubicación o r
 
 IV. Evaluar en forma permanente y colegiada el rendimiento de cada misión para poder valorar los avances;
 
-V. Proponer a la Dirección General de Educación Permanente, la programación de las supervisiones a los Centros de Capacitación para el Trabajo tanto oficiales como particulares;
+V. (DEROGADA, P.O. 23 DE FEBRERO DE 2013)
 
 VI. Orientar a los particulares con estudios de mercadeo que vayan encaminados al desarrollo regional, adicionando nuevas opciones educativas con mayor expectativa laboral y de crecimiento económico;
 
 VII. Proponer a la Dirección General de Educación Permanente, opinión técnica en relación a sistemas viables de acreditación y certificación de estudios para jóvenes y adultos que no cursaron o concluyeron la educación básica;
 
-VIII. Practicar, en el ámbito de su competencia, visitas de inspección a los particulares que imparten servicios educativos o que están en proceso de incorporación, de conformidad con las disposiciones legales aplicables;
+VIII. (DEROGADA, P.O. 23 DE FEBRERO DE 2013)
 
-IX. Evaluar los planes y programas de estudio que los centros de capacitación presenten para obtener el reconocimiento de validez oficial de estudios, así como las instalaciones y plantillas docentes propuestas, de conformidad con las disposiciones legales aplicables; y
+IX. (DEROGADA, P.O. 23 DE FEBRERO DE 2013)
 
 X. Las demás que le señalen otras disposiciones legales o sus superiores jerárquicos.
 
@@ -2200,7 +2228,7 @@ Son atribuciones de la Dirección de Atención al Rezago Educativo, las siguient
 
 l. Proponer a la Dirección General metas para cada ciclo escolar, acordes a las necesidades de la educación de jóvenes y adultos;
 
-II. Dar seguimiento al calendario de actividades académicas y de supervisión tanto de los centros oficiales como de los particulares, donde se imparte educación básica para jóvenes y adultos;
+II. (DEROGADA, P.O. 23 DE FEBRERO DE 2013)
 
 III. Apoyar el desarrollo de actividades, talleres y cursos en el proceso de enseñanza-aprendizaje de los docentes y estudiantes jóvenes y adultos, además de diagnosticar las necesidades de capacitación y actualización del personal docente y directivo;
 
@@ -2352,7 +2380,9 @@ IV. Vigilar el cumplimiento de las normas y lineamientos en las acciones de capt
 
 V. Asignar claves de centros de trabajo tanto oficiales como particulares, observando las normas establecidas por la autoridad educativa federal;
 
-VI. Proponer a la Dirección General de Planeación Educativa la creación o modificación de las zonas escolares de educación b (sic)
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2013)</small>
+
+VI. Proponer a la Dirección General de Planeación Educativa la creación o modificación de las zonas escolares de educación básica;
 
 VII. Dictaminar las propuestas de asignación de nombre a escuelas particulares en proceso de incorporación; Así como tramitar la asignación de nombre a escuelas oficiales de nueva creación;
 
@@ -2544,9 +2574,17 @@ X. Vigilar la aplicación de la normatividad relativa al control escolar, incorp
 
 XI. Diseñar los manuales normativos para el control escolar en los tipos educativos de media superior y superior;
 
-XII. Diseñar instructivos de procedimientos, formatos de apoyo al control escolar y documentos oficiales de certificación de estudios de los diferentes tipos educativos; y
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2013)</small>
 
-XIII. Las demás que le señalen otras disposiciones legales o sus superiores jerárquicos.
+XII. Diseñar instructivos de procedimientos, formatos de apoyo al control escolar y documentos oficiales de certificación de estudios de los diferentes tipos educativos;
+
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2013)</small>
+
+XIII. Autorizar planes y programas de estudio, material didáctico, reglamentos, personal docente y administrativo a los particulares que solicitan o cuentan con reconocimiento de validez oficial de estudios de educación medía superior, superior y capacitación para el trabajo ante la Secretaría, de conformidad con el Reglamento de la Ley de Educación del Estado de Jalisco en materia de Otorgamiento, Refrendo y Revocación de Incorporación de Instituciones Particulares al Sistema Educativo Estatal; y
+
+> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2013)</small>
+
+XIV. Las demás que le señalen otras disposiciones legales o sus superiores jerárquicos.
 
 ###### Artículo 81.
 
@@ -2588,9 +2626,11 @@ VII. Supervisar el desarrollo, capacitación y operación del Sistema de Control
 
 VIII. Las demás que le señalen otras disposiciones legales o sus superiores jerárquicos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 83.
 
-Son atribuciones de la Dirección de Incorporación, Revalidación y Equivalencia de Estudios, las siguientes:
+Son atribuciones de la Dirección de Incorporación, Revalidación y Equivalencia, las siguientes:
 
 l. Ejecutar las actividades y controlar los procesos para las revalidaciones, equivalencias, incorporaciones, así como la gestión de registro de títulos y derechos de autor, para la expedición de cédula profesional, conjuntamente con las Delegaciones Regionales, de conformidad con las disposiciones legales aplicables;
 
@@ -2598,9 +2638,45 @@ II. Vigilar la correcta aplicación de la normatividad de incorporación, revali
 
 III. Otorgar la revalidación y la equivalencia de estudios, de conformidad con las disposiciones legales aplicables;
 
-IV. Supervisar el desarrollo, capacitación y operación del sistema de incorporación, revalidación y equivalencia, en las Delegaciones Regionales; y
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2013)</small>
 
-V. Las demás que le señalen otras disposiciones legales o sus superiores jerárquicos.
+IV. Supervisar el desarrollo, capacitación y operación del sistema de incorporación, revalidación y equivalencia, en las Delegaciones Regionales;
+
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2013)</small>
+
+V. Otorgar o negar el refrendo anual del reconocimiento de validez oficial de estudios a las instituciones educativas particulares que ofrecen estudios de educación media superior, superior y de capacitación para el trabajo;
+
+> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2013)</small>
+
+VI. Supervisar a las instituciones educativas particulares que cuenten con el reconocimiento de validez oficial de estudios de Educación Media Superior, Superior y de capacitación para el trabajo, e inspeccionar el cumplimiento de las obligaciones que la Ley impone a las personas o instituciones que impartan servicios educativos sin autorización ni reconocimiento de validez oficial de estudios;
+
+> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2013)</small>
+
+VII. Elaborar y proponer a la Dirección General de Acreditación, Incorporación y Revalidación Educativa, el calendario de supervisión a las instituciones educativas particulares de Educación Media Superior, Superior y de capacitación para el trabajo;
+
+> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2013)</small>
+
+VIII. Convocar a reuniones informativas o de trabajo con representantes de instituciones educativas particulares e instituciones diversas que solicitan o cuentan con reconocimiento de validez oficial de estudios de educación media superior, superior y de capacitación para el trabajo, ante la Secretaría;
+
+> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2013)</small>
+
+IX. Colaborar con la Dirección de Estadística y Sistemas de Información en la obtención de las estadísticas de inicio y fin del ciclo escolar de las instituciones educativas particulares incorporadas de educación media superior, superior y de capacitación para el trabajo;
+
+> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2013)</small>
+
+X. Gestionar los convenios de participación con los colegios de profesionistas, instituciones educativas, organismos y asociaciones, entre otros, con el objeto de contar con su participación en la revisión de los planes y programas de estudio de las instituciones de educación particulares;
+
+> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2013)</small>
+
+XI. Emitir el dictamen técnico pedagógico para la incorporación de escuelas particulares de educación media superior, superior y de capacitación para el trabajo;
+
+> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2013)</small>
+
+XII. Dictaminar sobre planes y programas de estudio, material didáctico, reglamentos, personal docente y administrativo a los particulares que solicitan o cuentan son (sic) reconocimiento de validez oficial de estudios de educación media superior y superior y capacitación para el trabajo, ante la Secretaría, de conformidad con el Reglamento de la Ley de Educación del Estado de Jalisco en materia de Otorgamiento, Refrendo y Revocación de Incorporación de Instituciones Particulares al Sistema Educativo Estatal; y
+
+> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2013)</small>
+
+XIII. Las demás que le señalen otras disposiciones legales o sus superiores jerárquicos.
 
 ###### Artículo 84.
 
@@ -2654,7 +2730,9 @@ X. Autorizar las políticas de capacitación para el personal administrativo y d
 
 XI. Ofrecer en coordinación con la Secretaría de Administración y otras instancias, programas de capacitación específicos para mejorar la calidad en el servicio de apoyo y asistencia a la educación;
 
-XII. Supervisar y controlar el Programa de Carrera Magisterial en el Estado, de conformidad con las normas, políticas, sistemas y procedimientos que r (sic)
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2013)</small>
+
+XII. Supervisar y controlar el Programa de Carrera Magisterial en el Estado, de conformidad con las normas, políticas, sistemas y procedimientos que regulan la materia;
 
 XIII. Autorizar el pago a proveedores de bienes y servicios menores en los términos de la legislación aplicable, así como las solicitudes de aprovisionamiento, conforme a las necesidades del servicio educativo;
 
@@ -2668,9 +2746,17 @@ XVII. Otorgar a través de la Unidad Médico Odontológica, atención médica me
 
 XVIII. Coordinar la elaboración y actualización de los reglamentos y manuales administrativos que mejoren la estructura y distribución de funciones de los (sic) unidades administrativas de la Secretaría;
 
-XIX. Coadyuvar con los programas nacionales y estatales de protección civil estableciendo las unidades internas en las unidades administrativas de la Secretaría; y
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2013)</small>
 
-XX. Las demás que le señalen otras disposiciones legales o el Secretario.
+XIX. Coadyuvar con los programas nacionales y estatales de protección civil estableciendo las unidades internas en las unidades administrativas de la Secretaría;
+
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2013)</small>
+
+XX. Autorizar la validación para la implementación y soporte técnico en los equipos tecnológicos y software educativo ubicado en los planteles escolares de educación básica concernientes a los programas tecnológicos, ya sean éstos de recursos federales o estatales; y
+
+> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2013)</small>
+
+XXI. Las demás que le señalen otras disposiciones legales o el Secretario.
 
 #### Sección Segunda. De la Dirección General de Personal
 
@@ -2848,11 +2934,15 @@ Son atribuciones de la Dirección General de Recursos Materiales y Servicios Gen
 
 l. Formular, en coordinación con las unidades administrativas responsables, el programa anual de adquisiciones, arrendamientos y contratación de servicios de la Secretaría, con base a las necesidades y con sujeción al presupuesto previamente autorizado;
 
-II. Dictaminar, en coordinación con la Dirección de Desarrollo Tecnológico Institucional, las solicitudes de adquisiciones de bienes y servicios, arrendamientos, reubicaciones, mantenimiento y modificaciones de equipos, instalaciones de sistemas de informática y tecnología en general, así como controlar y administrar el uso de herramientas de acceso electrónico de la Secretaría, de conformidad con la legislación aplicable;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2013)</small>
+
+II. Dictaminar, en coordinación con la Dirección General de Tecnologías de Información, las solicitudes de adquisiciones de bienes y servicios, arrendamientos, reubicaciones, mantenimiento y modificaciones de equipos, instalaciones de sistemas de informática y tecnología en general, así como controlar y administrar el uso de herramientas de acceso electrónico de la Secretaría, de conformidad con la legislación aplicable;
 
 III. Realizar, previa autorización del Coordinador de Administración, las adquisiciones de bienes y servicios de acuerdo a la legislación aplicable, así como las adquisiciones correspondientes a la aplicación del fondo revolvente, según el Manual de Adquisiciones y Administración de Almacenes emitido por la Secretaría de Administración;
 
-IV. Realizar las adquisiciones y suministro de equipamiento tecnológico, en coordinación con la Dirección de Desarrollo Tecnológico Institucional, con base a la detección de necesidades que ésta dictamine y previa autorización del Coordinador de Administración, de conformidad con las disposiciones legales aplicables;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2013)</small>
+
+IV. Realizar las adquisiciones y suministro de equipamiento tecnológico, en coordinación con la Dirección General de Tecnologías de Información, con base a la detección de necesidades que ésta dictamine y previa autorización del Coordinador de Administración, de conformidad con las disposiciones legales aplicables;
 
 V. Controlar los activos fijos de la Secretaría mediante altas, bajas y transferencias de bienes muebles, así como vigilar su uso y utilización de acuerdo a las normas aplicables;
 
@@ -2996,6 +3086,86 @@ VIII. Tramitar ante la Secretaría de Finanzas, las solicitudes de recursos para
 
 IX. Las demás que le señalen otras disposiciones legales o sus superiores jerárquicos.
 
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 23 DE FEBRERO DE 2013)</small>
+
+#### Sección Quinta. De la Dirección General de Tecnologías de Información
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2013)</small>
+
+###### Artículo 99 Bis.
+
+Son atribuciones de la Dirección General de Tecnologías de Información, las siguientes:
+
+I. Consolidar una estructura tecnológica avanzada adecuada a las necesidades de la Secretaría, manteniendo a los usuarios en constante actualización de las herramientas informáticas para el desempeño óptimo de sus funciones, promoviendo a la vez la cultura del uso y explotación de los recursos y servicios tecnológicos;
+
+II. Definir mecanismos orientados a la detección oportuna de necesidades de equipamiento que detonen el desarrollo tecnológico e informático;
+
+III. Definir, actualizar y dar seguimiento al catálogo de servicios informáticos;
+
+IV. Facilitar a los usuarios el acceso a la información almacenada en las bases de datos, a través de herramientas informáticas, portales educativos y repositorios de información, actualizando mecanismos y procedimientos de alcance institucional para la distribución, entrega e instalación de bienes y servicios informáticos;
+
+V. Definir y aplicar directrices, metodologías y estándares en materia de desarrollo de software, servicios web, procesamiento y almacenamiento de la información institucional, internet, telecomunicaciones, telefonía, soporte técnico, administración de proyectos tecnológicos, equipamiento a usuarios y de correo electrónico incluyendo su administración y proveyendo a todas las áreas que conforman la estructura administrativa o de gestión de dichos servicios, de conformidad con las disposiciones legales aplicables;
+
+VI. Definir, difundir y ejecutar el plan de desarrollo tecnológico institucional que facilite la detonación de proyectos de tecnología, orientados a las estrategias federales y estatales que se definan en materia educativa;
+
+VII. Proporcionar orientación y realizar las validaciones técnicas sobre proyectos relacionados con las tecnologías de la información y las telecomunicaciones, así como coordinar, junto con la Dirección General de Recursos Materiales y Servicios Generales, previa autorización del Coordinador de Administración, las adquisiciones y suministros de equipamiento tecnológico;
+
+VIII. Asignar el equipamiento tecnológico a las diferentes unidades administrativas, coordinándose para su entrega y resguardo con la Dirección General de Recursos Materiales y Servicios Generales;
+
+IX. Participar con las unidades administrativas competentes en los procesos de planeación de la inversión de infraestructura tecnológica destinados a los programas compensatorios y de apoyo;
+
+X. Definir y coordinar mecanismos de vinculación tecnológica, con todas las instancias externas que así lo demanden y que tengan relación con proyectos, iniciativas y convenios destinados al desarrollo tecnológico, tanto para fines administrativos como educativos;
+
+XI. Definir y coordinar los mecanismos y estrategias de administración de software institucional y resguardar de manera integral y centralizada las bases de datos de la Secretaría y de toda aquella información que se genere a partir de los recursos y procesos institucionales;
+
+XII. Automatizar y sistematizar los procesos institucionales que las diferentes unidades administrativas requieran, para cumplir con sus funciones y responsabilidades;
+
+XIII. Definir los mecanismos de auditoría informática y planeación estratégica de la Dirección de Desarrollo Tecnológico Institucional;
+
+XIV. Desarrollar estrategias que permitan atender los requerimientos tecnológicos generados por los planteles escolares de educación básica inscritos tanto en los programas tecnológicos estatales como federales;
+
+XV. Coordinar con las unidades administrativas públicas o privadas los trabajos de planeación correspondientes a la infraestructura tecnológica destinados a los planteles de educación básica;
+
+XVI. Administrar los proyectos de capacitación derivados de la inclusión de los programas tecnológicos de recursos, ya sea federales y estatales, atendiendo sus reglas de operación;
+
+XVII. Participar con la Dirección de Programas de Tecnología en el Aula, en los procesos de implementación de herramientas y mantenimiento de equipo tecnológico en los planteles de educación básica;
+
+XVIII. Generar estrategias de difusión a fin de dar a conocer a los usuarios los beneficios del uso del equipo tecnológico instalado en los planteles educativos de educación básica;
+
+XIX. Realizar las gestiones necesarias para la realización de nuevos vínculos de colaboración que permitan el intercambio de información sobre nuevas tecnologías educativas;
+
+XX. Generar y Promover los convenios celebrados con instancias que producen o distribuyen material educativo con nuevas aplicaciones tecnológicas;
+
+XXI. Realizar evaluaciones sobre las pruebas de nuevas tecnologías educativas aplicadas en los planteles escolares de educación básica; y
+
+XXII. Las demás que le señalen otras disposiciones legales o sus superiores jerárquicos.
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2013)</small>
+
+###### Articulo 99 Ter.
+
+Son atribuciones de la Dirección de Mantenimiento a la Infraestructura Tecnológica en las Escuelas, las siguientes:
+
+I. Realizar las acciones necesarias a fin de brindar el soporte técnico al equipamiento tecnológico ubicado en los planteles escolares de educación básica, inscritos en los programas tecnológicos provenientes de recursos tanto federales como estatales;
+
+II. Proponer a la Dirección General de Tecnologías de Información, las políticas y lineamientos para el mantenimiento preventivo y correctivo de la infraestructura tecnológica existente en los planteles de educación básica;
+
+III. Elaborar y proponer a la Dirección General de Tecnologías de Información la planeación de inversión correspondiente a la infraestructura tecnológica a los planteles de educación básica, supervisando su correcta asignación;
+
+IV. Organizar y calendarizar las actividades concernientes a la atención del mantenimiento preventivo y correctivo, así como la aplicación de los recursos autorizados para la instalación de la infraestructura tecnológica;
+
+V. Participar en las acciones de carácter administrativo para la contratación de servicios externos de mantenimiento a la infraestructura tecnológica que permitan la utilización óptima de los recursos;
+
+VI. Administrar y actualizar el inventario de la infraestructura tecnológica en las escuelas, apegado a la normatividad aplicable;
+
+VII. Supervisar la intervención de los prestadores externos de servicios que brinden apoyo en las escuelas;
+
+VIII. Proponer a la Dirección General de Tecnologías de Información, alternativas de mejora tecnológica que permita incrementar el grado de impacto en el proceso de enseñanza-aprendizaje;
+
+IX. Dar seguimiento y atender los reportes de servicios programados y eventuales sobre el mantenimiento de la infraestructura tecnológica; y
+
+X. Las demás que le señalen otras disposiciones legales o sus superiores jerárquicos.
+
 ###### Artículo 100.
 
 Son atribuciones de la Dirección de Centros de Atención y Servicios, las siguientes:
@@ -3058,35 +3228,7 @@ IV. Las demás que les señalen otras disposiciones legales o sus superiores jer
 
 ###### Artículo 103.
 
-Son atribuciones de la Dirección de Desarrollo Tecnológico Institucional, las siguientes:
-
-I. Consolidar una estructura tecnológica avanzada adecuada a las necesidades de la Secretaría, manteniendo a los usuarios en constante actualización de las herramientas informáticas para el desempeño óptimo de sus funciones, promoviendo a la vez la cultura del uso y explotación de los recursos y servicios tecnológicos;
-
-II. Definir mecanismos orientados a la detección oportuna de necesidades de equipamiento que detonen el desarrollo tecnológico e informático;
-
-III. Definir, actualizar y dar seguimiento al catálogo de servicios informáticos;
-
-IV. Facilitar a los usuarios el acceso a la información almacenada en las bases de datos a través de herramientas informáticas, portales educativos y repositorios de información, actualizando mecanismos y procedimientos de alcance institucional para la distribución, entrega e instalación de bienes y servicios informáticos;
-
-V. Definir y aplicar directrices, metodologías y estándares en materia de desarrollo de software, servicios web procesamiento y almacenamiento de la información institucional, internet, las telecomunicaciones, telefonía, soporte técnico, administración de proyectos tecnológicos, equipamiento a usuarios y de correo electrónico incluyendo su administración y proveyendo a todas las áreas que conforman la estructura administrativa o de gestión de dichos servicios, de conformidad con las disposiciones legales aplicables;
-
-VI. Definir, difundir y ejecutar el plan de desarrollo tecnológico institucional que facilite la detonación de proyectos de tecnología, orientados a las estrategias federales y estatales que se definan en materia educativa;
-
-VII. Proporcionar orientación y realizar las validaciones técnicas sobre proyectos relacionados con las tecnologías de la información y las telecomunicaciones, así como coordinar, junto con la Dirección General de Recursos Materiales y Servicios Generales, previa autorización del Coordinador de Administración, las adquisiciones y suministros de equipamiento tecnológico;
-
-VIII. Asignar el equipamiento tecnológico a las diferentes unidades administrativas, coordinándose para su entrega y resguardo con la Dirección General de Recursos Materiales y Servicios Generales;
-
-IX. Participar con las unidades administrativas competentes en los procesos de planeación de la inversión de infraestructura tecnológica destinados a los programas compensatorios y de apoyo;
-
-X. Definir y coordinar mecanismos de vinculación tecnológica, con todas las instancias externas que así lo demanden y que tengan relación con proyectos, iniciativas y convenios destinados al desarrollo tecnológico, tanto para fines administrativos como educativos;
-
-XI. Definir y coordinar los mecanismos y estrategias de administración de software institucional y resguardar de manera integral y centralizada las bases de datos de la Secretaría y de toda aquella información que se genere a partir de los recursos y procesos institucionales;
-
-XII. Automatizar y sistematizar los procesos institucionales que las diferentes unidades administrativas requieran, para cumplir con sus funciones y responsabilidades;
-
-XIII. Definir los mecanismos de auditoría informática y planeación estratégica de la Dirección de Desarrollo Tecnológico Institucional; y
-
-XIV. Las demás que le señalen otras disposiciones legales o sus superiores jerárquicos.
+(DEROGADO, P.O. 23 DE FEBRERO DE 2013)
 
 ###### Artículo 104.
 
@@ -3206,7 +3348,9 @@ VI. Coadyuvar con las unidades administrativas de la Secretaría en la realizaci
 
 VII. Coadyuvar en la operación de los procesos de preinscripción, inscripción, reinscripción, acreditación, regularización y certificación de los alumnos que cursan la Educación Básica y Normal en escuelas oficiales e instituciones educativas particulares con autorización, con base a los lineamientos establecidos por la Coordinación de Planeación y Evaluación Educativa;
 
-VIII. Apoyar a los centros educativos orientando y promoviendo la constitución de las Asociaciones de Padres de Familia y los Consejos Escolares de Participación Social en la Educaci (sic)
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2013)</small>
+
+VIII. Apoyar a los centros educativos orientando y promoviendo la constitución de las Asociaciones de Padres de Familia y los Consejos Escolares de Participación Social en la Educación;
 
 IX. Coadyuvar con la Coordinación de Planeación y Evaluación Educativa de manera directa en la organización y desarrollo de los procesos de evaluación escolar;
 
@@ -3246,21 +3390,53 @@ XXVI. Proponer a la Dirección General de Servicios Educativos Regionales, accio
 
 XXVII. Coadyuvar con la Dirección General de Asuntos Jurídicos, a través de la Dirección de Inmuebles, para llevar a cabo las acciones necesarias para regularizar la situación jurídica sobre la posesión o propiedad de los inmuebles en que operan u operarán los planteles educativos dependientes de la Secretaría, de conformidad con las disposiciones legales aplicables;
 
-XXVIII. Coordinar las acciones en la entrega de becas y apoyos económicos a los alumnos de Educación Básica y Normal;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2013)</small>
 
-XXIX. Apoyar en las acciones de los diferentes programas de apoyo educativo tanto federales como estatales cuando así se requiera;
+XXVIII. Apoyar a la Dirección General de Asuntos Jurídicos, en su función como Órgano de Control Disciplinario, en la integración de los procedimientos administrativos de responsabilidad laboral, que ésta inicie en contra de los servidores públicos de la Secretaría, en términos de lo dispuesto por la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios;
 
-XXX. Integrar y validar la programación detallada de los diferentes niveles escolares;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2013)</small>
 
-XXXI. Canalizar a la Dirección de Planeación y Programas de Infraestructura las propuestas de inversión escolar;
+XXIX. Apoyar al Secretario en el desahogo de los procedimientos sancionatorios que éste inicie en contra de servidores públicos a quienes se les impute responsabilidad administrativa, en términos de lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco;
 
-XXXII. Recibir la documentación referente a los estados financieros de los Centros de Atención y Servicios de las escuelas de Educación Básica, donde reportan los movimientos de ingresos y egresos generados, para ser canalizados a la Dirección de Centros de Atención y Servicios;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2013)</small>
 
-XXXIII. Expedir las copias certificadas de aquellos documentos originales que obran bajo el resguardo de la Delegación o Sub Delegación;
+XXX. Coordinar las acciones en la entrega de becas y apoyos económicos a los alumnos de Educación Básica y Normal;
 
-XXXIV. Coadyuvar con la Dirección de Coordinación de Carrera Magisterial en la validación y operación de sus programas; y
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2013)</small>
 
-XXXV. Las demás que le señalen otras disposiciones legales o el Secretario.
+XXXI. Apoyar en las acciones de los diferentes programas de apoyo educativo tanto federales como estatales cuando así se requiera;
+
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2013)</small>
+
+XXXII. Integrar y validar la programación detallada de los diferentes niveles escolares;
+
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2013)</small>
+
+XXXIII. Canalizar a la Dirección de Planeación y Programas de Infraestructura las propuestas de inversión escolar;
+
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2013)</small>
+
+XXXIV. Recibir la documentación referente a los estados financieros de los Centros de Atención y Servicios de las escuelas de Educación Básica, donde reportan los movimientos de ingresos y egresos generados, para ser canalizados a la Dirección de Centros de Atención y Servicios;
+
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2013)</small>
+
+XXXV. Expedir las copias certificadas de aquellos documentos originales que obran bajo el resguardo de la Delegación o Sub Delegación;
+
+> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2013)</small>
+
+XXXVI. Coadyuvar con la Dirección de Coordinación de Carrera Magisterial en la validación y operación de sus programas;
+
+> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2013)</small>
+
+XXXVII. Apoyar a la Dirección General de Contraloría en la recepción de quejas y denuncias que, como Órgano de Control Disciplinario, en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco, deba conocer, investigar y documentar;
+
+> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2013)</small>
+
+XXXVIII. Coadyuvar con la Dirección General de Contraloría en la investigación de quejas y denuncias, cuando ésta, como Órgano de Control Disciplinario, inicie el procedimiento de investigación administrativa en contra de servidores públicos de la Secretaría, en términos de lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco; y
+
+> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2013)</small>
+
+XXXIX. Las demás que le señalen otras disposiciones legales o el Secretario.
 
 ### Capítulo XI. De la Dirección General de Asuntos Jurídicos
 
@@ -3304,9 +3480,17 @@ XI. Coadyuvar con la Coordinación de Planeación y Evaluación Educativa respec
 
 XII. Elaborar y poner a consideración del Secretario el proyecto de resolución del recurso de revisión interpuesto conforme a la Ley de Educación del Estado de Jalisco;
 
-XIII. Vigilar la dictaminación jurídica de la construcción de los nuevos planteles educativos u obras nuevas, en los ya existentes; y
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2013)</small>
 
-XIV. Las demás que le señalen otras disposiciones legales o el Secretario.
+XIII. Vigilar la dictaminación jurídica de la construcción de los nuevos planteles educativos u obras nuevas, en los ya existentes;
+
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2013)</small>
+
+XIV. Fungir, para efectos de la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios, como Órgano de Control Disciplinario de la Secretaría, desempeñando las funciones y ejerciendo las atribuciones que como tal le confiere dicha Ley; y
+
+> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2013)</small>
+
+XV. Las demás que le señalen otras disposiciones legales o el Secretario.
 
 ###### Artículo 110.
 
@@ -3330,19 +3514,27 @@ VII. Las demás que le señalen otras disposiciones legales o sus superiores jer
 
 Son atribuciones de la Dirección de Administrativos (sic), Laboral e Infracciones Administrativas, las siguientes:
 
-l. Sustanciar en representación del Secretario, el procedimiento administrativo contemplado en la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios en contra de servidores públicos a los que se les impute responsabilidad laboral;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2013)</small>
 
-II. Sustanciar en representación del Secretario, el procedimiento de responsabilidad administrativa contemplado en la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco, en contra de servidores públicos a los que se les impute responsabilidad;
+I. Apoyar a la Dirección General de Asuntos Jurídicos, en su calidad de Órgano de Control Disciplinario, en la instrucción de los procedimientos administrativos de responsabilidad laboral que, conforme a la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios, se inicien en contra de servidores públicos de la Secretaría a los que se les impute responsabilidad laboral;
+
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2013)</small>
+
+II. Apoyar al Secretario en el desahogo de los procedimientos sancionatorios que conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco, se inicien en contra de servidores públicos de la Secretaría a los que se les impute responsabilidad administrativa;
 
 III. Asesorar a la Coordinación de Planeación y Evaluación Educativa respecto al sustento y resolución de los procedimientos de infracción administrativa en contra de las instituciones educativas particulares;
 
 IV. Sustanciar el recurso de revisión que interpongan los particulares conforme a la Ley de Educación del Estado de Jalisco;
 
-V. Practicar diligencias a planteles educativos y unidades administrativas de la Secretaría, en los que se gesten movimientos que impidan brindar el servicio público;
+V. (DEROGADA, P.O. 23 DE FEBRERO DE 2013)
 
-VI. Coordinar en conjunto con las Delegaciones Regionales la substanciación e instrucción de los procedimientos administrativos y de responsabilidad administrativa que se ventilen ante éstas;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2013)</small>
 
-VII. Elaborar los informes que requiera la Contraloría del Estado, respecto a las sanciones impuestas a servidores públicos de la Secretaría, dentro de los procedimientos administrativos y de responsabilidad administrativa, y
+VI. Coordinar, en conjunto con las Delegaciones Regionales, la substanciación e instrucción de los procedimientos administrativos de responsabilidad laboral y sancionatorios que se ventilen ante éstas;
+
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2013)</small>
+
+VII. Elaborar los informes que requiera la Contrataría del Estado respecto a las sanciones impuestas a servidores públicos de la Secretaría, dentro de los procedimientos de responsabilidad laboral y los procedimientos sancionatorios; y
 
 VIII. Las demás que le señalen otras disposiciones legales o sus superiores jerárquicos.
 
@@ -3394,7 +3586,9 @@ IV. Informar al Secretario el resultado de las auditorías practicadas a las uni
 
 V. Proponer al Secretario acciones a desarrollar para optimizar la regulación y control de los procesos administrativos de las unidades administrativas, planteles educativos y órganos desconcentrados de la Secretaría, y verificar que éstas sean implementadas y observadas;
 
-VI. Conocer e investigar las irregularidades denunciadas en contra de servidores públicos adscritos a la Secretaría y, en su caso, hacerlo del conocimiento de la Dirección General de Asuntos Jurídicos a efecto de que se instaure el procedimiento correspondiente;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2013)</small>
+
+VI. Fungir, para efectos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco, como Órgano de Control Disciplinario de la Secretaría, desempeñando las funciones y ejerciendo las atribuciones que como tal le confiere dicha Ley;
 
 VII. Promover entre los servidores públicos obligados adscritos a la Secretaria, cumplan con la presentación de la Declaración de Situación Patrimonial ante Contraloría del Estado;
 
@@ -3406,7 +3600,9 @@ X. Participar, a través de su titular, como miembro del Comité de Clasificaci�
 
 XI. Coadyuvar con los órganos de control y fiscalización estatales y federales en la aplicación y solventación de auditorías realizadas a la Secretaría;
 
-XII. Remitir a la Dirección General de Asuntos Jurídicos las constancias en las que se desprendan las irregularidades y la falta de solventación de las observaciones de una auditoría;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2013)</small>
+
+XII. Remitir a la Dirección General de Asuntos Jurídicos, mediante acuerdo, lo actuado en los procedimientos de investigación administrativa, cuando se determine dar vista al Secretario para el inicio del procedimiento sancionatorio;
 
 XIII. Fomentar en conjunto con la Unidad de Transparencia e Información la cultura de la legalidad, transparencia y rendición de cuentas; y
 
@@ -3438,7 +3634,9 @@ l. Dar seguimiento a las auditorías practicadas a los planteles educativos, uni
 
 II. Implementar un sistema integral de información oportuna y confiable de las auditorías, quejas y denuncias atendidas por la Dirección General de la Contraloría;
 
-III. Atender quejas y denuncias presentadas ante la Dirección General de la Contraloría, en contra de servidores públicos adscritos a la Secretaría;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2013)</small>
+
+III. Apoyar a la Dirección General de Contraloría, en su calidad de Órgano de Control Disciplinario en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco, en la atención e investigación administrativa que se deba llevar a cabo en torno a las quejas y denuncias presentadas en contra de servidores públicos de la Secretaría que presumiblemente incurran en responsabilidad administrativa;
 
 IV. Evaluar los avances y resultados de las auditorías realizadas;
 
@@ -3454,9 +3652,17 @@ IX. Mantener vinculación con la Contraloría del Estado, en el seguimiento y ap
 
 X. Participar con los órganos de control y fiscalización estatales y federales en la aplicación y solventación de auditorías realizadas a la Secretaría;
 
-XI. Vigilar que las unidades administrativas, planteles educativos y órganos desconcentrados de la Secretaría, solventen las observaciones determinadas en el informe de auditoría, notificando en caso contrario a la Dirección General de Contraloría el incumplimiento; y
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2013)</small>
 
-XII. Las demás que le señalen otras disposiciones legales o sus superiores jerárquicos.
+XI. Vigilar que las unidades administrativas, planteles educativos y órganos desconcentrados de la Secretaría, solventen las observaciones determinadas en el informe de auditoría, notificando en caso contrario a la Dirección General de Contraloría el incumplimiento;
+
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2013)</small>
+
+XII. Practicar diligencias a planteles educativos y unidades administrativas de la Secretaría, en los que se gesten movimientos que impidan brindar el servicio público; y
+
+> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2013)</small>
+
+XIII. Las demás que le señalen otras disposiciones legales o sus superiores jerárquicos.
 
 ## TÍTULO TERCERO. DISPOSICIONES COMPLEMENTARIAS
 
@@ -3523,3 +3729,15 @@ ING. JOSÉ ANTONIO GLORIA MORALES
 Secretario de Educación
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE FEBRERO DE 2013.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Se derogan todas las disposiciones reglamentarias y administrativas que se opongan al presente Acuerdo.
+
+TERCERO. Los asuntos en trámite serán atendidos por la misma unidad administrativa que lo ha venido haciendo, no obstante el cambio de denominación llevado a cabo mediante el presente Acuerdo.
+
+En caso de que dichos asuntos se encuentren en trámite en unidades administrativas eliminadas mediante el presente Acuerdo y cuyas funciones no sean asumidas por otra distinta, serán desahogados por la unidad administrativa superior jerárquicamente.
