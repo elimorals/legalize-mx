@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2013-02-22"
+last_updated: "2013-02-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE FEBRERO DE 2013.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -2326,6 +2326,12 @@ II. Coadyuvar a través de las corporaciones de tránsito, protección y segurid
 III. Denunciar ante las Procuradurías General de la República y General de Justicia del Estado de México, en el ámbito de sus competencias, respectivamente, sobre la existencia de conductas que pueden constituir delitos contra la salud;
 
 IV. Establecer programas preventivos de control del uso y abuso de sustancias psicoactivas, en la esfera de sus atribuciones, con elementos médico-científicos;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, G.G. 25 DE FEBRERO DE 2013)</small>
+
+IV Bis. Implementar y ejecutar medidas y programas permanentes, de forma aleatoria y sin previo aviso o necesidad de publicidad para combatir el alcoholismo, y cuando así cuenten con elementos médico-científicos, en el ámbito de su competencia, así mismo prevenir accidentes viales y salvaguardar la integridad física y bienes de los conductores, sus familias y de la comunidad en general;
 
 V. Conformar una red preventiva ciudadana para prevenir el uso y abuso de sustancias psicoactivas;
 
@@ -7797,6 +7803,16 @@ II. Coordinar y ejecutar las acciones y medidas de auxilio que se adopten en rel
 
 III. Ordenar medidas de seguridad para prevenir daños con motivo de la circulación de vehículos.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, G.G. 25 DE FEBRERO DE 2013)</small>
+
+IV. Implementar y ejecutar medidas y programas permanentes, con fines de prevención de accidentes en materia vial para salvaguardar la integridad física y bienes de los conductores, sus familias y de la comunidad en general en términos de las disposiciones del Libro Segundo y de este Libro.
+
+Las autoridades deberán presentar a los conductores ante el Oficial Calificador respectivo, cuando los hechos constituyan una falta administrativa; y al Ministerio Público, cuando el hecho sea constitutivo de delito, según corresponda.
+
+Una vez expedidos los programas a que se refiere esta fracción, por las autoridades correspondientes, deberán ser publicados en el Periódico Oficial “Gaceta del Gobierno”, en los medios oficiales de los municipios y en un diario de mayor circulación en esta Entidad Federativa.
+
 ### CAPITULO SEGUNDO. De la comercialización
 
 ###### Artículo 8.
@@ -7909,13 +7925,33 @@ k) Efectuar carreras o arrancones en la vía pública;
 
 l) Obstruir los accesos y espacios destinados a las personas con discapacidad.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.G. 25 DE FEBRERO DE 2013)</small>
+
 ### CAPITULO TERCERO. De la investigación, transferencia de tecnología y capacitación
+
+###### Artículo 8.
+
+16 Bis.- Además de las señaladas en el artículo anterior, los conductores de vehículos de motor tendrán las obligaciones siguientes:
+
+I. Conducir vehículos automotores por la vía pública, sin tener una cantidad de alcohol en la sangre superior a 0.8 gramos por litro, o de alcohol, en aire espirado superior a 0.4 miligramos por litro.
+
+Si se trata de vehículos destinados al servicio de transporte de pasajeros o de transporte de carga o mixto, sus conductores no deben presentar ninguna cantidad de alcohol en la sangre o en aire espirado, o síntomas simples de aliento alcohólico, ni deben presentar síntomas simples de estar bajo el influjo de enervantes, estupefacientes o sustancias psicotrópicas o tóxicas; en caso de presentarlos, el conductor será remitido al Oficial Calificador correspondiente; si el médico de dicha Oficialía, determina el consumo de alcohol y/o las sustancias referidas, sin perjuicio de las sanciones que procedan, se dará aviso inmediato a la autoridad correspondiente, para que proceda a la cancelación de la licencia de conducir en los términos de la Ley;
+
+II. Detener la marcha de su vehículo cuando la autoridad establezca y lleve a cabo operativos o programas de control y preventivos de ingestión de alcohol u otras substancias tóxicas para conductores de vehículos; y
+
+III. Someterse a las pruebas para la detección del grado de intoxicación que determine este Libro, a través del médico adscrito a la Oficialía Calificadora ante el cual sean presentados, cuando muestren síntomas de que conducen en estado de ebriedad o bajo el influjo de enervantes, estupefacientes o sustancias psicotrópicas o tóxicas.
 
 ###### Artículo 8.
 
 17.- Los municipios podrán otorgar permisos para el establecimiento de estacionamientos de servicio al público, los cuales tendrán las instalaciones necesarias para la seguridad de las personas y de los vehículos, respondiendo por los daños que a los mismos se ocasionen.
 
 Para efectos del párrafo anterior, se consideran estacionamientos de servicio al público, los locales destinados a la prestación al público del servicio de recepción, guarda y protección de vehículos a cambio del pago de una tarifa autorizada.
+
+## TITULO CUARTO. De las infracciones y sanciones
+
+### CAPITULO CUARTO. De la Protectora de Bosques del Estado de México
 
 ###### Artículo 8.
 
@@ -7925,13 +7961,25 @@ Para efectos del párrafo anterior, se consideran estacionamientos de servicio a
 
 l. En materia de tránsito, con las multas establecidas en los reglamentos correspondientes, las que no podrán exceder por cada infracción de 20 días de salario mínimo vigente en el área geográfica de que se trate al momento de la misma, sin que en su conjunto exceda de 50 días de salarios mínimos, que aplicará la autoridad competente.
 
-II. En materia de estacionamientos, la multa se calculará multiplicando el número o rango de cajones por la tarifa al usuario.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.G. 25 DE FEBRERO DE 2013)</small>
+
+II. Con arresto administrativo inconmutable de 12 a 36 horas al conductor que conduzca un vehículo de motor, bajo cualquiera de los supuestos previstos en el artículo 8.16 Bis.
+
+En caso de reincidencia, el conductor, deberá inscribirse en alguno de los programas de rehabilitación para personas alcohólicas en las instituciones que el Gobierno del Estado o los municipios tiene convenio.
+
+El Oficial Calificador, será la autoridad encargada para determinar la temporalidad del arresto, de acuerdo a la concentración de alcohol que reporten los elementos medico-científicos y cuando viajen menores de doce años;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, G.G. 25 DE FEBRERO DE 2013)</small>
+
+III. En materia de estacionamientos, la multa se calculará multiplicando el número de rango o cajones por la tarifa al usuario.
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, G.G. 31 DE DICIEMBRE DE 2007)</small>
 
-## TITULO CUARTO. De las infracciones y sanciones
-
-### CAPITULO CUARTO. De la Protectora de Bosques del Estado de México
+### CAPITULO QUINTO. De los apoyos y estímulos
 
 ###### Artículo 8.
 
@@ -7967,8 +8015,6 @@ Los agentes de tránsito del Estado y los municipios están facultados para ejer
 
 > <small>(ADICIONADO [N. DE E. REFORMADO, G.G. 31 DE AGOSTO DE 2012)</small>
 
-### CAPITULO QUINTO. De los apoyos y estímulos
-
 ###### Artículo 8.
 
 19 Bis.- Las autoridades de tránsito contarán con agentes de:
@@ -7976,6 +8022,28 @@ Los agentes de tránsito del Estado y los municipios están facultados para ejer
 I. Tránsito: serán mujeres facultadas para imponer las sanciones a que se refiere este Libro y las disposiciones reglamentarias respectivas, quienes también se someterán a las disposiciones de control de confianza, en términos de las disposiciones aplicables; contarán con la terminal electrónica y se distinguirán por los uniformes y vehículos color negro y vivos naranja;
 
 II. Vialidad: serán aquellos responsables de vigilar que en el tránsito de vehículos automotores, los conductores cumplan con las obligaciones establecidas en este Libro y en los reglamentos respectivos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.G. 25 DE FEBRERO DE 2013)</small>
+
+###### Artículo 8.
+
+19 Ter.- Además de las señaladas en el artículo 8.19 las autoridades de tránsito tendrán las atribuciones siguientes:
+
+l. Detener la marcha de un vehículo, cuando la autoridad correspondiente establezca y lleve a cabo operativos o programas de control y preventivos de ingestión de alcohol u otras substancias tóxicas para conductores de vehículos;
+
+II. Someter a los conductores a las pruebas para la detección del grado de intoxicación, a través de los médicos adscritos a la Oficialía Calificadora, con aparatos médico-científicos de detección de alcohol y otras substancias tóxicas que establezca este Libro;
+
+III. Entregar un ejemplar del comprobante de los resultados de la prueba al conductor, inmediato a su realización;
+
+IV. Presentar de inmediato, ante el Oficial Calificador correspondiente, al conductor que presente una cantidad de alcohol en la sangre superior a 0.8 gramos por litro, o de alcohol en aire espirado superior a 0.4 miligramos por litro. Así como, a entregar un ejemplar del comprobante de los resultados de la prueba al Oficial Calificador, documento que constituirá prueba fehaciente de la cantidad de alcohol u otra sustancia tóxica encontrada y servirá de base para el dictamen del Médico adscrito a la Oficialía Calificadora que determine el tiempo probable de recuperación;
+
+V. Informar de inmediato a la Secretaría de Transporte del Estado de México, de las infracciones a las disposiciones reglamentarias de tránsito, para que se registren en la correspondiente base de datos; y
+
+VI. Remitir al depósito más cercano el vehículo para su resguardo.
+
+Para el caso de que el conductor vaya acompañado de algún familiar o persona sobria y disponga de la debida licencia de conducir, se le entregará a ella el vehículo, dejando constancia de ello.
 
 ###### Artículo 8.
 
@@ -10723,7 +10791,7 @@ Es aplicable a las enajenaciones lo dispuesto en las fracciones I, III, IV, V, V
 
 ### CAPITULO II. De la dirección del periódico oficial
 
-> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
+> <small>(REFORMADO, G.G. 25 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 13.
 
@@ -10791,7 +10859,7 @@ V. El proveedor suministrará los bienes y servicios en las cantidades y fechas 
 
 ### CAPITULO IV. Del procedimiento de publicación y circulación
 
-> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
+> <small>(REFORMADO, G.G. 25 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 13.
 
@@ -11829,7 +11897,7 @@ Las publicaciones en el Periódico Oficial “Gaceta del Gobierno”, se realiza
 
 ###### Artículo 15.
 
-8.- La Secretaría General de Gobierno, es la dependencia del Poder Ejecutivo encargada de ordenar la organización, administración, edición, publicación y circulación del Periódico Oficial del Gobierno del Estado de México.
+8.- La Consejería Jurídica, es la dependencia del Poder Ejecutivo encargada de ordenar la organización, administración, edición, publicación y circulación del Periódico Oficial del Gobierno del Estado de México.
 
 > <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
 
@@ -11873,11 +11941,11 @@ III. Control de ejemplares que se doten a dependencias y entidades públicas; y
 
 IV. Donaciones a instituciones privadas.
 
-> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
+> <small>(REFORMADO, G.G. 25 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 15.
 
-11.- El Secretario General de Gobierno provocará lo necesario a fin de que se publiquen los documentos en estricto apego a lo que establece el presente libro.
+11.- El Consejero Jurídico proveerá lo necesario a fin de que se publiquen los documentos en estricto apego a lo que establece el presente libro.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 5 DE ENERO DE 2006)</small>
 
@@ -11945,13 +12013,13 @@ Por motivos técnicos, en la publicación del documento se podrá omitir la impr
 
 ###### Artículo 15.
 
-17.- La Secretaría General de Gobierno al recibir los documentos cuya publicación se solicite, acusará el recibo correspondiente, en el que consiste el día y hora de su recepción.
+17.- La Consejería Jurídica al recibir los documentos cuya publicación se solicite, acusará el recibo correspondiente, en el que conste el día y hora de su recepción.
 
-> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
+> <small>(REFORMADO, G.G. 25 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 15.
 
-18.- Los documentos serán publicados dentro de los cinco días hábiles siguientes a la fecha de su recepción en la Secretaría General de Gobierno.
+18.- Los documentos serán publicados dentro de los cinco días hábiles siguientes a la fecha de su recepción en la Consejería Jurídica.
 
 > <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
 
@@ -16612,3 +16680,31 @@ SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicac
 TERCERO.- El Titular del Ejecutivo del Estado proveerá en la esfera administrativa, la exacta observancia del presente Decreto, expidiendo al efecto, las órdenes y disposiciones administrativas conducentes.
 
 CUARTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
+
+G.G. 25 DE FEBRERO DE 2013.
+
+DECRETO NÚMERO 57, POR EL QUE SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 8.18 DEL LIBRO OCTAVO; SE ADICIONA LA FRACCIÓN IV BIS AL ARTÍCULO 2.45 DEL LIBRO SEGUNDO, LA FRACCIÓN IV AL ARTÍCULO 8.10, EL ARTÍCULO 8.16 BIS, LA FRACCIÓN III DEL ARTÍCULO 8.18, EL ARTÍCULO 8.19 TER DEL LIBRO OCTAVO, TODOS DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente de (sic) Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor a los treinta días siguientes al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- El Ejecutivo del Estado y los Ayuntamientos proveerán lo necesario para implementar las medidas y programas necesarios para combatir el alcoholismo y la prevención de accidentes viales, en un plazo no mayor a tres meses contados a partir de la entrada en vigor del presente Decreto.
+
+CUARTO.- La Secretaría de Seguridad Ciudadana, o en su caso el Ayuntamiento, deberán emitir en un término de sesenta días hábiles los protocolos que regirán para la aplicación de estos programas, dictados en el artículo 245 fracción IV Bis.
+
+QUINTO.- El Ejecutivo del Estado y los Ayuntamientos proveerán en la esfera administrativa el cumplimiento del presente Decreto.
+
+SEXTO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+G.G. 25 DE FEBRERO DE 2013.
+
+DECRETO NÚMERO 59, POR EL QUE SE REFORMAN LOS ARTÍCULOS 15.8, 15.11, 15.17 Y 15.18 DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
+
+CUARTO.- El Gobernador del Estado, al presentar la Cuenta Pública del Gobierno del estado de México y Organismos Auxiliares del Ejercicio Fiscal 2013, informará de los recursos ejercidos por la Consejería Jurídica.
