@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "2012-11-26"
+last_updated: "2013-02-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2013.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -285,9 +285,17 @@ Toda persona tiene derecho a un medio ambiente sano para su desarrollo y bienest
 
 Toda persona tiene derecho al acceso, disposición y saneamiento de agua para consumo personal y domestico en forma suficiente, salubre, aceptable y asequible. El Estado garantizará este derecho y la Ley definirá las bases, apoyos y modalidades para el acceso y uso equitativo y sustentable de los recursos hídricos, estableciendo la participación de la Federación, el Estado y los municipios, así como la participación de la ciudadanía para la consecución de dichos fines.
 
+> <small>(ADICIONADO, P.O. 25 DE FEBRERO DE 2013)</small>
+
+Toda persona tiene derecho al acceso a la cultura y al disfrute de los bienes y servicios que presta el Estado en la materia, así como el ejercicio de sus derechos culturales. Las autoridades Estatales y Municipales promoverán los medios para la difusión y desarrollo de la cultura, atendiendo a la diversidad cultural en todas sus manifestaciones y expresiones con pleno respeto a la libertad creativa. La ley establecerá los mecanismos para el acceso y participación a cualquier manifestación cultural.
+
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 Toda persona tiene derecho a la cultura física y a la práctica del deporte. Corresponde a las autoridades estatales y municipales su estimulo, fomento, desarrollo, fortalecimiento, protección y garantía conforme a las leyes en la materia.
+
+> <small>(ADICIONADO, P.O. 25 DE FEBRERO DE 2013)</small>
+
+La juventud tiene derecho a su desarrollo integral, el cual se alcanzará mediante la protección de los Derechos Humanos y las Garantías Individuales reconocidas en la Constitución Política de los Estados Unidos Mexicanos, en los Tratados Internacionales de los que nuestro país sea parte, así como en esta Constitución.
 
 > <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
 
@@ -322,6 +330,22 @@ Todos los habitantes del Estado tienen derecho a la alimentación nutritiva, suf
 ###### Artículo 8° Bis.
 
 Todas y todos los habitantes de la Entidad tienen derecho a la educación que imparta el Estado, la cual será pública, gratuita, laica y democrática, considerando a la democracia no solamente como una estructura jurídica y un régimen político, sino como un sistema de vida fundado en el constante, mejoramiento económico, social y cultural del pueblo. Tenderá a desarrollar armónicamente todas las facultades del ser humano y fomentar en él, el amor a la patria el respeto a los derechos humanos y la conciencia de la solidaridad social en lo Estatal, Nacional y en lo Internacional, dentro de la independencia y la justicia.
+
+> <small>(ADICIONADO, P.O. 25 DE FEBRERO DE 2013)</small>
+
+Además, contribuirá a la mejor convivencia humana, a fin de fortalecer el aprecio y respeto por la diversidad cultural, la dignidad de la persona, la integridad de la familia, la convicción del interés general de la sociedad, los ideales de fraternidad e igualdad de derechos de todos, evitando los privilegios de razas, de religión, de grupos, de sexos o de individuos.
+
+> <small>(ADICIONADO, P.O. 25 DE FEBRERO DE 2013)</small>
+
+El Estado impartirá educación preescolar, primaria, secundaria y media superior. La educación preescolar, primaria y secundaria conforman la educación básica; ésta y la media superior serán obligatorias.
+
+> <small>(ADICIONADO, P.O. 25 DE FEBRERO DE 2013)</small>
+
+La educación en el Estado de Hidalgo se ajustará estrictamente a las disposiciones del Artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones en la materia.
+
+> <small>(ADICIONADO, P.O. 25 DE FEBRERO DE 2013)</small>
+
+El Estado apoyará la investigación científica, el desarrollo tecnológico y su aplicación práctica a través de la innovación, lo que permitirá ser más competitivo y la posibilidad de incorporar a los hidalguenses a la sociedad del conocimiento.
 
 El Estado procurará el acceso a programas de becas para los alumnos más destacados en su desempeño académico dentro de las instituciones de educación pública, así como de aquellos que su condición económica les impida la conclusión de estudios profesionales.
 
@@ -429,15 +453,21 @@ II. Contribuir a los gastos públicos del Estado y del Municipio en que residan 
 
 III. Contribuir a que los satisfactores y servicios que se generen en la Entidad, se destinen preferentemente a resolver las necesidades del Estado;
 
+> <small>(ADICIONADA, P.O. 25 DE FEBRERO DE 2013)</small>
+
+IV. Hacer que sus hijos o pupilos concurran a las escuelas públicas o privadas, para obtener la educación preescolar, primaria, secundaria y media superior y reciban la militar, en los términos que establezca la Ley.
+
 > <small>(REFORMADA, P.O. 16 DE ENERO DE 1987)</small>
 
-IV. Tener un modo honesto de vivir;
+V. Tener un modo honesto de vivir;
 
-> <small>(REFORMADA, P.O. 16 DE ENERO DE 1987)</small>
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2013)</small>
 
-V. Dar auxilio a las autoridades en caso de urgencia, o cuando éstas lo requieran y sea necesario;
+VI. Dar auxilio a las autoridades en caso de urgencia, o cuando éstas lo requieran y sea necesario; y
 
-VI. Si son extranjeros, contribuir a los gastos públicos de la manera que dispongan las Leyes, obedecer y respetar a las instituciones, leyes y autoridades del Estado, sujetándose a los fallos y sentencias de los Tribunales competentes, absteniéndose de invocar o intentar el uso de otros recursos que los que se concedan a los mexicanos.
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2013)</small>
+
+VII. Si son extranjeros, contribuir a los gastos públicos de la manera que dispongan las Leyes, obedecer y respetar a las instituciones, Leyes y autoridades del Estado, sujetándose a los fallos y sentencias de los Tribunales competentes, absteniéndose de invocar o intentar el uso de otros recursos que los que se concedan a los mexicanos.
 
 > <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
@@ -1055,9 +1085,7 @@ XI. Conceder a los Diputados, Gobernador, Auditor Superior, Magistrados, Conseje
 
 XII. Expedir las leyes que rijan el patrimonio del Estado y el de los Municipios;
 
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
-
-XIII. Resolver los conflictos que se susciten entre dos o más municipios del Estado, así como entre los Ayuntamientos y el Ejecutivo del Estado, exceptuando los de carácter judicial;
+XIII. (DEROGADA, P.O. 25 DE FEBRERO DE 2013)
 
 XIV. Dar posesión a los Diputados Suplentes en caso de inhabilitación o licencia de los Diputados Propietarios;
 
@@ -1641,9 +1669,13 @@ El Estado programará, planeará, conducirá, coordinará y orientará la activi
 
 En el desarrollo estatal concurrirán con responsabilidad, los sectores público, social y privado. Así mismo, el sector público del Estado podrá participar por sí o con los otros, de acuerdo con la Ley, para impulsar y organizar las áreas prioritarias de desarrollo del Estado, de conformidad con la legislación correspondiente.
 
-(F. DE. E., P.O. 30 DE DICIEMBRE DE 1987)
+> <small>(ADICIONADO, P.O. 25 DE FEBRERO DE 2013)</small>
 
-La Federación podrá concurrir al desarrollo de la Entidad, en forma coordinada con el Estado, en los términos que señalen los convenios correspondientes y los Objetivos Nacionales y Estatales.
+Serán consideradas como áreas prioritarias del estado, la inversión y fortalecimiento permanente y sostenido de las actividades científicas, tecnológicas y de innovación, con el objeto de contribuir al desarrollo económico del Estado, elevar la competitividad Estatal en el plano Nacional e Internacional, y promover la formación de capital humano especializado en estas materias.
+
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2013)</small>
+
+La Federación podrá concurrir al desarrollo de la Entidad, en forma coordinada en (sic) el Estado en los términos que señalen los convenios correspondientes y los Objetivos Nacionales y Estatales.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1987)</small>
 
@@ -1940,6 +1972,10 @@ XI. Conocer de las acusaciones o quejas que se presenten en contra del President
 > <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2001)</small>
 
 XII. Resolver los conflictos de carácter judicial que surjan entre los municipios, entre éstos y el Congreso y entre aquéllos y el Ejecutivo estatal y
+
+> <small>(ADICIONADA, P.O. 25 DE FEBRERO DE 2013)</small>
+
+XII Bis.- Resolver los conflictos sobre límites territoriales que se susciten entre dos o más Municipios del Estado, así como entre los Ayuntamientos y el Ejecutivo del Estado.
 
 XIII. Las demás que le confieran esta Constitución y las leyes que de ella emanen.
 
@@ -3534,3 +3570,13 @@ P.O. 26 DE NOVIEMBRE DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 25 DE FEBRERO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- En cuanto a la obligatoriedad del Estado de garantizar la educación media superior, se realizará de manera gradual y creciente hasta lograr la cobertura total en sus diversas modalidades en el Estado a más tardar en el ciclo escolar 2021-2022, con la concurrencia presupuestal de la Federación y del Estado y en los términos establecidos en los instrumentos del Sistema Nacional y los Sistemas Estatales de Planeación Democrática del Desarrollo.
+
+TERCERO.- Para dar cumplimiento al principio de obligatoriedad, en los presupuestos Estatal y de los Municipios, se incluirán los recursos necesarios; asimismo, se establecerán los mecanismos para impulsar la implementación de presupuestos plurianuales que aseguren a largo plazo los recursos económicos crecientes para infraestructura de la educación media superior.
+
+CUARTO.- Respecto de la reforma al Artículo 99, realícense las correspondientes reformas a los ordenamientos secundarios en un plazo de hasta un año a partir de la entrada en vigor del presente Decreto.
