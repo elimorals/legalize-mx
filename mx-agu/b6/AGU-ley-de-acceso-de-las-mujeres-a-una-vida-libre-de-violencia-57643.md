@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5764
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2012-03-05"
+last_updated: "2013-02-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57643&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2013.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 26 de noviembre de 2007.
 
@@ -699,9 +699,21 @@ V. Instalar módulos de información en sus oficinas en el Estado sobre las caus
 
 VI. Promover modificaciones a esta Ley cuando así se requiera;
 
-VII. Rendir un informe bimensual a la Coordinación General del Consejo de las actividades realizadas; y
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2013)</small>
 
-VIII. Las demás que le asigne el Programa.
+VII. Rendir un informe bimensual a la Coordinación General del Consejo de las actividades realizadas;
+
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2013)</small>
+
+VIII. Realizar estudios estadísticos e investigaciones referentes al acceso a la justicia de las mujeres víctimas de violencia, así como de las causas y sentencias que se dictan en contra de las mujeres responsables de delitos;
+
+> <small>(ADICIONADA, P.O. 25 DE FEBRERO DE 2013)</small>
+
+IX. Especializar a las y los agentes del Ministerio Público, peritos, personal adscritos a la Procuraduría General de Justicia del Estado que atiende a víctimas a través de programas y cursos permanentes en: derechos humanos y género, perspectiva de género para la debida diligencia en la conducción de averiguaciones previas y procesos judiciales relacionados con discriminación, y violencia, incorporación de la perspectiva de género en los servicios periciales, eliminación de estereotipos sobre el rol social de las mujeres, entre otros; y
+
+> <small>(ADICIONADA, P.O. 25 DE FEBRERO DE 2013)</small>
+
+X. Las demás que le asigne el Programa.
 
 ###### Artículo 56.
 
@@ -763,7 +775,9 @@ VIII. Las demás que le asigne el Programa.
 
 Corresponde a la Procuraduría General de Justicia del Estado:
 
-I. Promover la atención especializada en los casos de violencia de género contra las mujeres;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2013)</small>
+
+l. Promover, entre sus servidores públicos la atención especializada en los casos de violencia de género. Asimismo, capacitar por lo menos una vez al año al personal adscrito a la Procuraduría General de Justicia del Estado; en el trato digno y manejo adecuado de las y los denunciantes, para evitar su re victimización.
 
 II. Implementar de manera permanente procesos de especialización sobre violencia de género contra las mujeres, dirigidos a los diversos niveles jerárquicos de su personal;
 
@@ -771,9 +785,21 @@ III. Incorporar la perspectiva de género en todos los cursos que se impartan a 
 
 IV. Diseñar y ejecutar campañas de difusión para promover la denuncia de los hechos de violencia de género contra las mujeres;
 
-V. Rendir un informe bimensual a la Coordinación General del Consejo de las actividades realizadas; y
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2013)</small>
 
-VI. Las demás que le asigne el Programa.
+V. Rendir un informe bimensual a la Coordinación General del Consejo de las actividades realizadas;
+
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2013)</small>
+
+VI. Elaborar y aplicar protocolos especializados con perspectiva de género en la búsqueda inmediata de mujeres, niñas y niños desaparecidos, para la investigación de homicidios y violencia sexual contra este sector de la población;
+
+> <small>(ADICIONADA, P.O. 25 DE FEBRERO DE 2013)</small>
+
+VII. Crear y administrar un sistema de registro público de los delitos que atenten contra la vida y la salud, así como la libertad sexual, seguridad sexual y libre desarrollo psicosexual, cometidos en contra de algún particular y en el cual se integre la estadística criminal y victimal, para definir políticas en materia de prevención del delito y procuración de justicia que incluya la clasificación de los hechos de los que tenga conocimiento, lugar en que ocurrieron, especificando su tipología, características de la víctima y del sujeto activo, móviles, diligencias básicas a realizar, así como las dificultades para la práctica de diligencias y determinaciones; los índices de incidencia y reincidencia, consignación, sanción y reparación del daño; y
+
+> <small>(ADICIONADA, P.O. 25 DE FEBRERO DE 2013)</small>
+
+VIII. Las demás que le asigne el Programa.
 
 ###### Artículo 61.
 
@@ -1096,3 +1122,9 @@ P.O. 5 DE MARZO DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el periódico Oficial del Estado.
+
+P.O. 25 DE FEBRERO DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su Publicación en el Periódico Oficial del Estado.
