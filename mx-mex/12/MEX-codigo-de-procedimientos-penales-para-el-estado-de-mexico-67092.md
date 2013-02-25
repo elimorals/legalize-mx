@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-penales-para-el-estado-de-mexico-67092
 country: "mx"
 rank: "codigo"
 publication_date: "2009-02-09"
-last_updated: "2013-02-22"
+last_updated: "2013-02-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE MÉXICO
 
 > <small>N. DE E. DE CONFORMIDAD CON EL DECRETO NO. 4 PUBLICADO EN LA G.G. DE 30 DE SEPTIEMBRE DE 2009, EL SISTEMA PROCESAL PENAL ACUSATORIO ADVERSARIAL Y ORAL HA SIDO INCORPORADO EN EL PRESENTE ORDENAMIENTO, Y ENTRARÁ EN VIGOR EN LOS SIGUIENTES PLAZOS Y DISTRITOS: 1) EL PRIMERO DE OCTUBRE DE DOS MIL NUEVE, EN LOS DISTRITOS JUDICIALES DE TOLUCA, LERMA, TENANCINGO Y TENANGO DEL VALLE; 2) EL PRIMERO DE ABRIL DE DOS MIL DIEZ, EN LOS DISTRITOS JUDICIALES DE CHALCO, OTUMBA Y TEXCOCO; 3) EL PRIMERO DE OCTUBRE DE DOS MIL DIEZ, EN LOS DISTRITOS JUDICIALES DE NETZAHUALCÓYOTL, EL ORO, IXTLAHUACA, SULTEPEC Y TEMASCALTEPEC; 4) EL PRIMERO DE ABRIL DE DOS MIL ONCE, EN LOS DISTRITOS JUDICIALES DE TLALNEPANTLA, CUAUTITLÁN Y ZUMPANGO; 5) EL PRIMERO DE OCTUBRE DE DOS MIL ONCE, EN LOS DISTRITOS JUDICIALES DE ECATEPEC DE MORELOS, JILOTEPEC Y VALLE DE BRAVO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE FEBRERO DE 2013.
 
 Código publicado en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el lunes 9 de febrero de 2009.
 
@@ -335,17 +335,19 @@ Es competente para conocer de un hecho considerado como delito el juez o tribuna
 
 Por razón de seguridad; atendiendo a las características del hecho imputado, circunstancias personales del inculpado u otras que impidan el desarrollo adecuado del procedimiento, podrá ser juez competente, el que corresponda al centro de reclusión que el ministerio público o el juez estime apropiado.
 
-> <small>(REFORMADO, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.G. 25 DE FEBRERO DE 2013)</small>
 
-El Tribunal de Juicio Oral se integrará colegiadamente por tres jueces y conocerá de la etapa de juicio tratándose de los delitos consumados o tentados siguientes:
+El Tribunal de Juicio Oral se integrará colegiadamente por tres jueces y conocerá de la etapa de juicio tratándose de los delitos consumados o tentados en los que ejerza la facultad de atracción.
 
-I. Violación, secuestro, robo en interior de casa habitación con violencia, robo que ocasione la muerte, robo de vehículo automotor o de la mercancía transportada a bordo de aquél, el de trata de personas, sedición, motín, los cometidos en contra de menores de edad a que se refiere el artículo 205;
+I. (DEROGADA, G.G. 25 DE FEBRERO DE 2013)
 
-II. Los dolosos de homicidio, deterioro al área natural protegida y el de lesiones previsto en el artículo 238 fracción V del Código Penal del Estado; y
+II. (DEROGADA, G.G. 25 DE FEBRERO DE 2013)
 
-III. Aquellos en los que se ejerza la facultad de atracción.
+III. (DEROGADA, G.G. 25 DE FEBRERO DE 2013)
 
-De los demás delitos conocerá unitariamente, el juez de juicio oral.
+> <small>(REFORMADO, G.G. 25 DE FEBRERO DE 2013)</small>
+
+El Juzgado de Juicio Oral se integrará por un solo juez y será competente para conocer de la etapa de juicio en todos los delitos, salvo en los que el Tribunal de Juicio Oral ejerza la facultad de atracción.
 
 Las facultades que señale este código para el juez de juicio oral, las ejercerá unitariamente el juez que presida el tribunal de juicio oral.
 
@@ -2629,6 +2631,158 @@ Autorización para practicar diligencias sin conocimiento del indiciado
 
 Las diligencias de investigación que, de conformidad con este código requirieren de autorización judicial previa, podrán ser solicitadas por el ministerio público aún antes de la formulación de la imputación. Si el ministerio público requiriere que ellas se llevaren a cabo sin previa comunicación al indiciado, el juez autorizará que se proceda en la forma solicitada, cuando la gravedad de los hechos o la naturaleza de la diligencia de que se tratare, permitan presumir que dicha circunstancia resulta indispensable para su éxito.
 
+> <small>(ADICIONADO, G.G. 25 DE FEBRERO DE 2013)</small>
+
+Técnicas de investigación
+
+###### Artículo 251.
+
+1. En el desarrollo de la investigación de los delitos de delincuencia organizada, homicidio doloso, violación, secuestro, trata de personas, feminicidio y extorsión, el Ministerio Público podrá emplear las técnicas de investigación autorizadas en el presente Código.
+
+Para los efectos conducentes, se entenderá por técnicas de investigación a los procedimientos de investigación e inteligencia que se utilizan para prevenir y detectar los delitos sancionados por la Ley.
+
+> <small>(ADICIONADO, G.G. 25 DE FEBRERO DE 2013)</small>
+
+Clasificación de las técnicas de investigación
+
+###### Artículo 251.
+
+2. Se reconocen y autorizan como técnicas de investigación las siguientes:
+
+I. Entregas vigiladas, consistentes en la identificación y, en su caso, la intercepción en tránsito de bienes o recursos que sean objeto, instrumento o producto del delito, a efecto de retirarlos o sustituirlos parcialmente, según sea el caso, para luego permitir, bajo vigilancia, su envío, distribución o transportación dentro del territorio del Estado, con el fin de investigar el hecho delictivo, así como identificar y, en su caso, detener, con el empleo de los avances tecnológicos necesarios, a las personas u organizaciones involucradas en su comisión.
+
+La entrega vigilada o controlada, también tendrá alcances respecto de remesas de dinero, documentos o títulos representativos de un determinado valor económico;
+
+II. Operaciones encubiertas, en sus diferentes modalidades:
+
+a) La disposición y utilización de medios tecnológicos consistentes en el conjunto de aparatos y dispositivos para el tratamiento de datos, georeferenciación, localizadores, voz o imagen, bajo el control del agente del Ministerio Público responsable de la investigación, con el objeto de descubrir cualquier actividad vinculada directa o indirectamente con hechos delictivos, así como la identidad de los probables responsables del delito; y
+
+b) La infiltración de agentes, que serán policías en función de investigación de los delitos, peritos o agentes del Ministerio Público, con el objeto de actuar bajo una identidad supuesta en un determinado ambiente criminal para prevenir y reprimir acciones delictivas, y para descubrir a los integrantes de alguna organización criminal.
+
+III. Vigilancia electrónica de lugares privados, consistente en la colocación de micrófonos, cámaras, localizadores y utilización de imágenes satelitales de manera estratégica a fin de acopiar información y pruebas respecto a la comisión del delito que se investiga y a la responsabilidad penal de sus autores;
+
+IV. Arrepentido, es la persona condenada, imputada o investigada por un delito, que coopera de manera voluntaria, oportuna y eficaz con la autoridad pública en la persecución penal de los delitos graves, a fin de obtener reducción o extinción de la pena y/o reducción o eliminación de los cargos formulados;
+
+V. Empleo de informante, es la persona que como testigo puede aportar datos a la investigación, es decir, permite que una persona sin tener el carácter de servidor público, coopere en la investigación de delitos, protegiendo en todo momento su identidad y su integridad por los medios que lo permitan;
+
+VI. Ofrecimiento de recompensas, relativa a la compensación pecuniaria destinada a ser ofrecida a personas que sin haber intervenido en el delito, brinden información útil, oportuna y eficaz para esclarecer el hecho, lograr la identificación y/o aprehensión de quienes hubieran tomado parte en la comisión del mismo o la localización de la víctima;
+
+VII. Colaboración con la justicia, se considera colaborador con la justicia a toda persona que sin ser autor o participe en la comisión de algún delito, aporte datos para la investigación y persecución de los delitos cuyas aportaciones sean útiles para la localización y detención de miembros delictivos, así como la localización de bienes, objeto o productos de delitos, bienes propiedad del probable responsable de la comisión de un delito o de los que se conduzca como dueño o la localización de víctimas;
+
+VIII. Intervención de comunicaciones privadas.
+
+El Procurador General de Justicia solicitará a la autoridad federal la intervención de cualquier comunicación privada en los términos de lo previsto en el artículo 16 de la Constitución Federal, excepto cuando se trate de materias de carácter electoral, fiscal, mercantil, civil, laboral, administrativo, cuestiones exclusivamente políticas o de comunicaciones del detenido con su defensor;
+
+IX. Extracción de información, relativa a la obtenida de archivos electrónicos de aparatos que procesen información; y
+
+X. Programa de denuncia anónima, a efecto de que se resguarde la identidad del denunciante.
+
+Las declaraciones de las personas a que hacen referencia las fracciones IV y V serán valoradas por el juez.
+
+> <small>(ADICIONADO, G.G. 25 DE FEBRERO DE 2013)</small>
+
+Control judicial
+
+###### Artículo 251.
+
+3. Las técnicas de investigación a que se refieren las fracciones II inciso a), III, IV, y IX del artículo 251.2, requerirán de autorización judicial, a solicitud del Procurador o algún Subprocurador.
+
+Respecto a las técnicas de investigación enunciadas en las fracciones I, II inciso b), V, VI, VII y X del artículo 251.2 serán autorizadas por el Procurador o algún Subprocurador.
+
+> <small>(ADICIONADO, G.G. 25 DE FEBRERO DE 2013)</small>
+
+Autorización del Titular del Ministerio Público
+
+###### Artículo 251.
+
+4. Para el empleo de las técnicas de investigación a que se refiere el artículo 251.2, se requiere de la autorización previa del Procurador General de Justicia del Estado de México o algún subprocurador, y su aplicación se realizará bajo la orden y supervisión del agente del Ministerio Público responsable, en los términos autorizados.
+
+La ejecución de las técnicas de investigación autorizadas en este Código se ajustarán a los protocolos que para tal efecto emita la Procuraduría General de Justicia del Estado de México, los cuales tendrán la calidad de información confidencial en términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de México y Municipios y de la Ley de Seguridad del Estado de México, en tal razón, no podrán ser difundidos o publicados bajo ningún concepto.
+
+> <small>(ADICIONADO, G.G. 25 DE FEBRERO DE 2013)</small>
+
+Postergación del aseguramiento
+
+###### Artículo 251.
+
+5. Para las entregas vigiladas y las operaciones encubiertas, el agente del Ministerio Público, previa autorización del Procurador General de Justicia del Estado de México o algún subprocurador, podrá posponer el aseguramiento de bienes o recursos y la detención de probables responsables, con el propósito de identificar a los sujetos responsables de los delitos, su forma de operación o ámbito de actuación, sistemas contables y de administración.
+
+> <small>(ADICIONADO, G.G. 25 DE FEBRERO DE 2013)</small>
+
+Colaboración personal e interinstitucional
+
+###### Artículo 251.
+
+6. El Procurador General de Justicia del Estado de México o algún subprocurador, podrá solicitar a instituciones públicas o privadas, en el ámbito de su competencia, su colaboración en la ejecución de las técnicas de investigación previstas en este Código.
+
+El Titular del Ministerio Público podrá suscribir con la Federación y las entidades federativas, convenios de colaboración para realizar operaciones conjuntas en la ejecución de las técnicas de investigación.
+
+Asimismo, cuando sea indispensable para el éxito de la investigación, los particulares podrán colaborar en la ejecución de las técnicas de investigación, siempre que consientan en ello.
+
+> <small>(ADICIONADO, G.G. 25 DE FEBRERO DE 2013)</small>
+
+De los agentes infiltrados
+
+###### Artículo 251.
+
+7. El Procurador General de Justicia del Estado de México o algún subprocurador, podrán autorizar a agentes de la policía en funciones de investigación de delitos, agentes del Ministerio Público y peritos actuar bajo identidad supuesta para infiltrarse en la organización delictiva, o adquirir y transportar los objetos, instrumentos o productos del delito, que en su momento, deberá retenerlos y ponerlos a disposición del agente del Ministerio Público.
+
+La identidad supuesta será otorgada por el tiempo indispensable para cumplir con la investigación. Los agentes infiltrados deberán desenvolverse jurídica y socialmente bajo tal identidad.
+
+La autorización que obre en la investigación deberá contemplar la identidad supuesta con la que actuará en el caso concreto el agente infiltrado, la verdadera identidad será reservada y deberá conservarse fuera de las actuaciones con la debida seguridad.
+
+> <small>(ADICIONADO, G.G. 25 DE FEBRERO DE 2013)</small>
+
+Obligación de los agentes infiltrados
+
+###### Artículo 251.
+
+8. Los agentes infiltrados, de conformidad con este Código y demás disposiciones aplicables, proporcionarán al agente del Ministerio Público responsable de la investigación, la información, los documentos, registros, grabaciones y todo aquello que sirva de dato de prueba o indicio sobre el delito que se investigue.
+
+Las actividades que lleven a cabo los agentes infiltrados, se sujetaran a lo dispuesto por este Código y demás disposiciones aplicables, así como a los términos, limitaciones, modalidades y condiciones de la autorización correspondiente, atendiendo la naturaleza de la investigación de que se trate.
+
+> <small>(ADICIONADO, G.G. 25 DE FEBRERO DE 2013)</small>
+
+Cumplimiento del deber
+
+###### Artículo 251.
+
+9. A los agentes infiltrados, servidores públicos y demás personas que intervengan en la preparación y ejecución de las técnicas de investigación que refiere este Código, se les considerará que actúan en cumplimiento de un deber y, por tanto, no se procederá penalmente en su contra, siempre que cumplan los requisitos siguientes:
+
+a) Que se haya tratado de una técnica autorizada legalmente;
+
+b) Que durante su realización, haya rendido legalmente sus informes;
+
+c) Que se haya sujetado a los lineamientos de la autorización;
+
+d) Que la conducta realizada por el agente infiltrado haya sido ineludible y con el exclusivo propósito de preservar su integridad, su cobertura o la propia investigación;
+
+e) Que se hayan entregado oportunamente todos los recursos, bienes o información obtenidos en la realización de éstas; y
+
+f) Que se hayan tomado las medidas necesarias, conforme a sus posibilidades, para evitar al máximo la producción de daños.
+
+A los servidores públicos que realicen alguna de las técnicas de investigación, o quienes tengan participación en ellas, se les prohíbe instigar o inducir a cualquier persona a cometer algún delito, así como participar en los hechos delictuosos que se investigan, en caso contrario se sujetarán a la responsabilidad penal correspondiente.
+
+> <small>(ADICIONADO, G.G. 25 DE FEBRERO DE 2013)</small>
+
+De la confidencialidad
+
+###### Artículo 251.
+
+10. Las autorizaciones para la aplicación de técnicas de investigación que emita el Procurador General de Justicia del Estado o algún subprocurador, serán confidenciales; su aplicación y ejecución se realizará por conducto de los agentes del Ministerio Público y demás servidores públicos que se determine, quienes deberán guardar estricta reserva de su contenido.
+
+Durante el procedimiento penal, todos los documentos e información relacionados con las técnicas de investigación, así como los objetos, registros de voz e imágenes, cuentas u objetos que estén relacionados con éstas, serán estrictamente confidenciales.
+
+La información obtenida con motivo del desarrollo de alguna técnica de investigación, que no tenga relación con el delito que se investiga, deberá ser destruida, salvo que de ella se desprendan elementos de algún delito diverso, en este caso deberá ser materia de una investigación por separado.
+
+> <small>(ADICIONADO, G.G. 25 DE FEBRERO DE 2013)</small>
+
+De la responsabilidad
+
+###### Artículo 251.
+
+11. Toda actuación que implique desapego a instrucciones o infiltraciones no autorizadas serán sancionadas en términos de lo dispuesto en la legislación aplicable.
+
 #### SECCIÓN CUARTA. INSPECCIONES, REGISTROS Y ASEGURAMIENTO
 
 Inspección y registro del lugar del hecho
@@ -2949,6 +3103,10 @@ Al concluir la entrevista del testigo o el informe del perito, la policía o el 
 
 Si al hacerse la prevención prevista en el párrafo anterior, el testigo o perito manifiestan la imposibilidad de concurrir a la audiencia de debate de juicio oral, por tener que ausentarse a larga distancia, vivir en el extranjero o exista motivo que hiciere temer su muerte, su incapacidad física o mental que le impidiese declarar, o algún otro obstáculo semejante, las partes podrán solicitar al juez de control o al de juicio oral, que se reciba su declaración anticipadamente.
 
+> <small>(ADICIONADO, G.G. 25 DE FEBRERO DE 2013)</small>
+
+También se recibirá la declaración anticipada, cuando el Ministerio Público advierta que por la naturaleza del hecho delictuoso que se investiga, el testigo o víctima corren riesgo en su vida o integridad física, al tratarse de delitos que ameritan prisión preventiva oficiosa.
+
 Procedimiento para prueba anticipada
 
 ###### Artículo 280.
@@ -3129,11 +3287,15 @@ Valor de las actuaciones
 
 Los antecedentes de la investigación y los datos de prueba anunciados en la audiencia de vinculación a proceso, que sirvan como base para la emisión del auto de plazo constitucional y de las medidas cautelares, carecen de valor probatorio para fundar la sentencia definitiva.
 
+> <small>(REFORMADO, G.G. 25 DE FEBRERO DE 2013)</small>
+
 Plazo judicial para el cierre de la investigación
 
 ###### Artículo 298.
 
-El juez de control, de oficio o a solicitud de parte, al resolver sobre la vinculación del imputado a proceso, fijará un plazo para el cierre de la investigación, tomando en cuenta la naturaleza de los hechos atribuidos y la complejidad de la misma, sin que pueda ser mayor a dos meses, en caso de que el delito merezca pena máxima que no exceda de dos años de prisión, o de hasta seis meses, si la pena excede de ese tiempo.
+El juez de control, de oficio o a solicitud de parte, al resolver sobre la vinculación del imputado a proceso, fijará la fecha de la audiencia para el cierre de la investigación, tomando en cuenta la naturaleza de los hechos atribuidos y la complejidad de la misma. El plazo de la investigación no podrá ser mayor a dos meses, en caso de que la pena máxima del delito no exceda de dos años de prisión; ni de seis meses, si la pena excede de ese tiempo.
+
+Las partes podrán solicitar al juez, de común acuerdo y en cualquier momento, el cierre anticipado de la investigación.
 
 Oportunidad de aplicación de formas anticipadas
 
@@ -3143,25 +3305,45 @@ Durante esta etapa y hasta antes del dictado del auto de apertura a juicio se po
 
 #### SECCIÓN DÉCIMA PRIMERA. CIERRE DE LA ETAPA DE INVESTIGACIÓN
 
-Plazo para declarar el cierre de la investigación
+> <small>(REFORMADO, G.G. 25 DE FEBRERO DE 2013)</small>
+
+Audiencia para el cierre de la investigación
 
 ###### Artículo 300.
 
-Transcurrido el plazo para la investigación, el ministerio público deberá cerrarla.
+En la audiencia, el juez escuchará a las partes y podrá determinar el cierre de la investigación o la ampliación del plazo hasta por quince días, cuando:
 
-Si el ministerio público no declara cerrada la investigación en el plazo fijado, el imputado, la víctima u ofendido podrán solicitar al juez de control que aperciba al ministerio público para que proceda a su cierre en el plazo de tres días, y de no hacerlo, el juez de control la ordenará de plano.
+I. El Ministerio Público tenga pendiente la práctica de diligencias de investigación.
 
-Cierre de la investigación
+II. Las partes reiteren al juez, la solicitud de diligencias precisas de investigación que oportunamente hayan formulado durante ésta y que el Ministerio Público hubiere rechazado.
+
+El juez señalará nueva fecha para la audiencia de cierre de investigación, cuando haya decretado la ampliación del plazo de la investigación.
+
+El juez no decretará ni renovará aquellas diligencias que en su oportunidad se hubieren ordenado a petición de las partes y no se hubieren cumplido por negligencia o hecho imputable a ellos, ni tampoco las que fueren manifiestamente impertinentes, las que tuvieren por objeto acreditar hechos públicos y notorios ni todas aquellas que hubieren sido solicitadas con fines puramente dilatorios.
+
+> <small>(REFORMADO EN SU RUBRO, G.G. 25 DE FEBRERO DE 2013)</small>
+
+Efectos del cierre de la investigación
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 25 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 301.
 
-Cerrada la investigación, el ministerio público dentro de los diez días siguientes, podrá:
+Decretado el cierre de la investigación, en la audiencia respectiva, el juez señalará a las partes, el inicio y fin de los diez días siguientes en los que el Ministerio Público deberá:
 
 I. Solicitar el sobreseimiento de la causa;
 
 II. Pedir la suspensión del proceso; o
 
 III. Formular acusación.
+
+> <small>(ADICIONADO, G.G. 25 DE FEBRERO DE 2013)</small>
+
+Si el Ministerio Público no procede en los términos antes señalados, el juez impondrá una multa de cien a ciento cincuenta días de salario mínimo vigente en la área geográfica que corresponda al Ministerio Público omiso e informará al Procurador General de Justicia del Estado, para que en el plazo de diez días, a través del subprocurador correspondiente, realice alguna de las acciones establecidas en las fracciones anteriores. Sin perjuicio de la responsabilidad penal o administrativa del agente del Ministerio Público a cargo de la investigación.
+
+> <small>(ADICIONADO, G.G. 25 DE FEBRERO DE 2013)</small>
+
+Si el subprocurador no promueve en el plazo establecido, el juez declarará extinguida la acción penal y decretará el sobreseimiento.
 
 Sobreseimiento
 
@@ -3217,13 +3399,7 @@ Reapertura de la investigación
 
 ###### Artículo 306.
 
-Hasta antes de que concluya la audiencia intermedia, las partes podrán reiterar la solicitud de diligencias precisas de investigación que oportunamente hayan formulado durante ésta y que el ministerio público hubiere rechazado.
-
-Si el juez estima fundada la solicitud, ordenará al ministerio público reabrir la investigación y proceder a la práctica de las diligencias, en un plazo que no podrá exceder de quince días según lo determine aquél. En dicha audiencia, el ministerio público podrá, por una sola vez, solicitar la ampliación del plazo.
-
-El juez no decretará ni renovará aquellas diligencias que en su oportunidad se hubieren ordenado a petición de las partes y no se hubieren cumplido por negligencia o hecho imputable a ellos, ni tampoco las que fueren manifiestamente impertinentes, las que tuvieren por objeto acreditar hechos públicos y notorios ni todas aquellas que hubieren sido solicitadas con fines puramente dilatorios.
-
-Vencido el plazo o su ampliación, o aun antes de ello si se hubieren cumplido las diligencias, el ministerio público cerrará nuevamente la investigación conforme se establece en esta sección.
+(DEROGADO, G.G. 25 DE FEBRERO DE 2013)
 
 Contenido de la acusación
 
@@ -3867,17 +4043,31 @@ Podrán incorporarse al juicio oral, previa su lectura o reproducción, los regi
 
 I. Existan testimonios y dictámenes de peritos que se hayan recibido conforme a las reglas de la prueba anticipada, sin perjuicio de que las partes exijan la comparecencia personal del testigo o perito, cuando sea posible; y
 
-II. Las partes lo soliciten y el juez lo estime procedente, por lectura en la parte conducente:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 25 DE FEBRERO DE 2013)</small>
+
+II. Las partes lo soliciten y el juez lo estime procedente, por lectura o reproducción del registro respectivo, en la parte conducente:
 
 a) La prueba documental o de informes y las actas de inspección, cateos, aseguramientos y los reconocimientos a los que el testigo aluda en su declaración durante el debate;
 
-b) Las actas sobre declaraciones de sentenciado, autores o partícipes del hecho punible objeto del debate, Desahogadas legalmente ante el juez, sin perjuicio de que declaren en el debate;
+> <small>(REFORMADO, G.G. 25 DE FEBRERO DE 2013)</small>
+
+b) Las declaraciones de coimputados, sustraídos de la acción de la justicia, o sentenciados del hecho punible objeto del debate, desahogadas legalmente, sin perjuicio de que declaren en el debate;
 
 c) Las declaraciones o dictámenes producidos por exhorto, rogatoria o informe, cuando el acto se haya producido o hecho constar por escrito, previa autorización legal, y el órgano de prueba no pueda hacerse comparecer al debate;
 
-d) Las declaraciones que consten por escrito de testigos o peritos que hayan fallecido, estén fuera del país, se ignore su residencia actual, siempre que esas declaraciones hayan sido recibidas conforme a las reglas de los actos definitivos e irreproducibles; y
+> <small>(REFORMADO, G.G. 25 DE FEBRERO DE 2013)</small>
+
+d) Las declaraciones de coimputados, testigos o peritos que hayan fallecido, perdido la razón o la capacidad para declarar en juicio, estén fuera del país, se ignore su residencia actual y por eso no hubiese sido posible solicitar su desahogo anticipado;
 
 e) Las actas, registros o dictámenes existentes por escrito, que las partes acuerden incorporar al juicio durante el debate, con aprobación del juez.
+
+> <small>(ADICIONADO, G.G. 25 DE FEBRERO DE 2013)</small>
+
+f) Las declaraciones del imputado rendidas ante el juez de control; y
+
+> <small>(ADICIONADO, G.G. 25 DE FEBRERO DE 2013)</small>
+
+g) Las declaraciones de testigos, víctimas, peritos o coimputados, cuando por la gravedad de los hechos delictuosos, se advierta la negativa de aquéllos.
 
 Lectura para apoyo de memoria y superación de contradicciones
 
@@ -5158,3 +5348,25 @@ G.G. 22 DE FEBRERO DE 2013.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 25 DE FEBRERO DE 2013.
+
+DECRETO NÚMERO 56, POR EL QUE SE REFORMAN LOS ARTÍCULOS 30 EN SU TERCER Y CUARTO PÁRRAFO, 298, 300, 301 EN SU PRIMER PÁRRAFO, 374 EN SU FRACCIÓN II E INCISOS B) Y D); SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 279, UN SEGUNDO Y TERCER PÁRRAFOS AL ARTÍCULO 301, LOS INCISOS F) Y G) A LA FRACCIÓN II DEL ARTÍCULO 374; Y SE DEROGAN LAS FRACCIONES I, II Y III DEL PÁRRAFO TERCERO DEL ARTÍCULO 30, EL ARTÍCULO 306; DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE MÉXICO.
+
+PRIMERO. Publíquese este Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO. Los procesos penales en los que a la entrada en vigor de este Decreto, se haya fijado el plazo para el cierre de la investigación continuarán con su trámite conforme a las disposiciones relativas que se reforman o derogan por este Decreto.
+
+Los asuntos que hayan sido radicados ante el Tribunal de Juicio Oral a la entrada en vigor de este Decreto, seguirán siendo competencia de aquél hasta su conclusión.
+
+G.G. 25 DE FEBRERO DE 2013.
+
+DECRETO NÚMERO 60, POR EL QUE SE ADICIONAN LOS ARTÍCULOS 251.1, 251.2, 251.3, 251.4, 251.5, 251.6, 251.7, 251.8, 251.9, 251.10 Y 251.11 AL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE MÉXICO.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. La Procuraduría General de Justicia del Estado de México emitirá los Protocolos en materia de técnicas de investigación en un plazo no mayor a seis meses contados a partir de la entrada en vigor del presente Decreto.
