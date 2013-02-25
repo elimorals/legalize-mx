@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-medalla-al-merito-civico-eduardo-neri-66365"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-02-17"
-last_updated: "2009-02-17"
+last_updated: "2013-02-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66365&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2009-02-12"
 ---
 # REGLAMENTO DE LA MEDALLA AL MERITO CIVICO "EDUARDO NERI, LEGISLADORES DE 1913"
 
-REGLAMENTO DE LA MEDALLA AL MERITO CIVICO "EDUARDO NERI, LEGISLADORES DE 1913"
+REGLAMENTO DE LA MEDALLA AL MÉRITO CÍVICO "EDUARDO NERI, LEGISLADORES DE 1913"
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE FEBRERO DE 2013.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 17 de febrero de 2009.
 
@@ -55,9 +55,11 @@ Secretario: Secretario de la Mesa Directiva de la Cámara de Diputados.
 
 La Medalla, se otorgará al ciudadano o ciudadana cuyos actos cívicos o políticos se distingan por servir a la colectividad nacional y a la República.
 
+> <small>(REFORMADO, D.O.F. 25 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 4.
 
-La Medalla tiene un solo grado y se otorgará, de acuerdo con el Decreto de su creación, en sesión solemne de la Cámara, el día 9 de octubre del último año de ejercicio de cada legislatura. La Cámara podrá acordar que la sesión solemne para entregar la Medalla se celebre un día distinto, pero siempre deberá ser en el mes de octubre del año señalado en este artículo.
+La Medalla tiene un solo grado y se otorgará, de acuerdo con el Decreto de su creación, en sesión solemne de la Cámara, el día 9 de octubre del segundo y tercer año de ejercicio de cada legislatura. La Cámara podrá acordar que la sesión solemne para entregar la Medalla se celebre un día distinto, pero siempre deberá ser en el mes de octubre de los años señalados en este artículo.
 
 ###### Artículo 5.
 
@@ -67,13 +69,25 @@ La Comisión, de acuerdo a la facultad que le otorga el artículo 40 de la Ley O
 
 La Comisión, en sus decisiones, se guiará por los más altos criterios para evaluar los actos o hechos éticos, políticos y de valor cívico, en cualquier ámbito, que tengan o hayan tenido repercusión nacional, de aquellos mexicanos y mexicanas que puedan ser distinguidos.
 
+> <small>(REFORMADO, D.O.F. 25 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 7.
 
-La Cámara deberá expedir la convocatoria respectiva, a través de su Mesa Directiva, en el segundo periodo ordinario de sesiones, del segundo año de ejercicio de cada legislatura.
+La Cámara deberá expedir la Convocatoria respectiva, a través de su Mesa Directiva y usando los medios de comunicación social disponibles:
+
+I. Al iniciar la legislatura, en el mes de septiembre y el otorgamiento de la Medalla se realizará, a más tardar, en el mes de diciembre;
+
+II. En los siguientes dos años de ejercicio, en el segundo periodo ordinario de sesiones, durante el mes de octubre, preferentemente el día 9 del mes.
+
+> <small>(REFORMADO, D.O.F. 25 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 8.
 
-La recepción de candidaturas estará comprendida, entre el último día hábil del segundo periodo ordinario de sesiones, del segundo año de ejercicio de la legislatura y el último día hábil del segundo año de ejercicio de la legislatura que corresponda.
+Los plazos para la recepción de candidaturas, serán los siguientes:
+
+I. Al iniciar la legislatura comprenderá los meses de octubre y noviembre;
+
+II. Para el segundo y tercer año de ejercicio, el plazo abarcará los meses de abril a septiembre.
 
 ###### Artículo 9.
 
@@ -189,27 +203,35 @@ Los expedientes cuya inscripción y registro queden firmes pasarán a la etapa d
 
 A los candidatos que pasen a la etapa de resolución y no resulten electos para recibir la Medalla se les reconocerá su participación en el proceso, a través de un documento por escrito. La Mesa Directiva podrá organizar un evento en el que se les entregue el reconocimiento y serán invitados a la sesión solemne en la que se otorgará la Medalla.
 
+> <small>(REFORMADO, D.O.F. 25 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 29.
 
-La Medalla que entregue la Cámara, se otorgará por acuerdo tomado en sesión pública, durante el primer periodo ordinario de sesiones, del tercer año de ejercicio de la legislatura, en atención al dictamen que presente la Comisión.
+El pleno de la Cámara, previo dictamen de la Comisión, aprobará el decreto por que se conferirá la Medalla al ciudadano o ciudadana que se haya distinguido de manera relevante, sirviendo a la colectividad nacional, a la República y a la humanidad.
+
+> <small>(REFORMADO, D.O.F. 25 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 30.
 
-Cada legislatura, durante el mes de septiembre, del último año de ejercicio, la Mesa Directiva encargará a la Casa de Moneda de la Nación la elaboración de dos ejemplares de la Medalla que vaya a entregarse. Uno de los ejemplares será el que se entregue al homenajeado y el otro será para el acervo histórico de la Cámara.
+Durante el mes de septiembre de cada año de ejercicio, la Mesa Directiva encargará a la Casa de Moneda de la Nación la elaboración de dos ejemplares de la Medalla que vaya a entregarse. Uno de los ejemplares será el que se entregue a la persona galardonada y el otro será para el acervo histórico de la Cámara.
 
 ###### Artículo 31.
 
 El Decreto que acredita el otorgamiento de la Medalla estará autorizado con las firmas del Presidente y los Secretarios de la Cámara.
 
+> <small>(REFORMADO, D.O.F. 25 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 32.
 
-La Medalla, el Pergamino con el dictamen de la Comisión, un ejemplar original del Decreto de la Cámara y la suma de dinero respectivos, serán entregados en sesión solemne que celebre la Cámara de Diputados para tal efecto, en la fecha prevista en el artículo 4 de este Reglamento.
+La Medalla, el Pergamino alusivo al dictamen de la Comisión, un ejemplar original del Decreto de la Cámara y la suma de dinero respectivos, serán entregados en sesión solemne que celebre la Cámara de Diputados para tal efecto, en la fecha prevista en el artículo 4 de este Reglamento.
 
 I. En la sesión podrán hacer uso de la palabra un diputado miembro de la Comisión, la persona homenajeada y el Presidente de la Mesa Directiva.
 
 II. La Junta de Coordinación Política propondrá al Pleno un acuerdo que señale los tiempos y el orden en que intervendrán los oradores.
 
 III. La Mesa Directiva determinará el protocolo de la sesión.
+
+IV. El Comité Editorial de la Cámara, en coordinación con la Biblioteca, publicará un folleto o un libro sobre la sesión solemne, ya sea a través de edición de la Cámara o en coedición con otra casa editorial.
 
 ###### Artículo 33.
 
@@ -230,3 +252,11 @@ Tercero.- El presente Reglamento abroga el Acuerdo de la Mesa Directiva de la Co
 Cuarto.- El presente Reglamento no puede ser modificado, derogado o abrogado, en ningún caso, por acuerdos parlamentarios. Cuando surja un hecho o acto no previsto por este Reglamento, la Mesa Directiva podrá acordar lo conducente para dar certeza al proceso.
 
 SALON DE SESIONES DE LA CAMARA DE DIPUTADOS DEL HONORABLE CONGRESO DE LA UNION.- México, D.F., a 12 de febrero de 2009.- Dip. César Horacio Duarte Jáquez, Presidente.- Dip. Rosa Elia Romero Guzman, Secretaria.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 25 DE FEBRERO DE 2013.
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- A la entrada en vigor del presente Decreto, la entrega de la Medalla correspondiente al Primer Año de Ejercicio Legislativo de la LXII Legislatura, se llevará a cabo durante el Segundo Periodo Ordinario de Sesiones.
