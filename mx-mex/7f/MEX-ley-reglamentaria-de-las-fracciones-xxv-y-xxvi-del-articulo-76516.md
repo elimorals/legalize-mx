@@ -4,7 +4,7 @@ identifier: "MEX-ley-reglamentaria-de-las-fracciones-xxv-y-xxvi-del-articulo-765
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-03"
-last_updated: "2010-09-03"
+last_updated: "2013-02-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76516&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY REGLAMENTARIA DE LAS FRACCIONES XXV Y XXVI DEL ARTÍCULO 61 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2013.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 3 de septiembre de 2010.
 
@@ -163,7 +163,9 @@ La Comisión Estatal es un órgano técnico y de consulta del Poder Ejecutivo en
 
 La Comisión estará integrada por:
 
-I. Un Presidente que será el Subsecretario de Asuntos Jurídicos;
+> <small>(REFORMADA, G.G. 25 DE FEBRERO DE 2013)</small>
+
+I. Un Presidente que será el Consejero Jurídico;
 
 II. Un Coordinador General que será designado por el Gobernador;
 
@@ -598,3 +600,15 @@ EL SECRETARIO GENERAL DE GOBIERNO
 LIC. LUIS ENRIQUE MIRANDA NAVA
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 25 DE FEBRERO DE 2013.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
+
+CUARTO.- El Gobernador del Estado, al presentar la Cuenta Pública del Gobierno del estado de México y Organismos Auxiliares del Ejercicio Fiscal 2013, informará de los recursos ejercidos por la Consejería Jurídica.
