@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "2012-12-19"
+last_updated: "2013-02-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE FEBRERO DE 2013.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -1511,11 +1511,13 @@ XXIII. Brindar asesoría y apoyo técnico a los órganos de control interno del 
 
 XXIV. Las demás que le señalen las Leyes y Reglamentos vigentes en el Estado.
 
-> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 25 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 38 Ter.
 
-La Consejería Jurídica es la Dependencia encargada de planear, programar, dirigir, resolver, controlar y evaluar las funciones del registro civil, del notariado, las relativas a la demarcación y conservación de los límites del Estado y sus municipios, en coordinación con las autoridades competentes, de la función registral, de la defensoría pública así como de la especializada para víctimas y ofendidos del delito, de los asuntos religiosos, administración de la publicación del Periódico Oficial "Gaceta del Gobierno”, las relativas al reconocimiento, promoción, atención y defensa de los derechos humanos desde el Poder Ejecutivo, de información de los ordenamientos legales, coordinarse con los responsables de las unidad de asuntos jurídicos de cada Dependencia de la Administración Pública Estatal, en materia jurídica de las dependencias, y demás disposiciones de observancia general en el Estado.
+La Consejería Jurídica es la Dependencia encargada de planear, programar, dirigir, resolver, controlar y evaluar las funciones del registro civil, del notariado, las relativas a la demarcación y conservación de los límites del Estado y sus municipios, en coordinación con las autoridades competentes, de la función registral, legalizaciones y apostillamiento, de la defensoría pública así como de la especializada para víctimas y ofendidos del delito, de los asuntos religiosos, administración de la publicación del Periódico Oficial "Gaceta del Gobierno", las relativas al reconocimiento, promoción, atención y defensa de los derechos humanos desde el poder Ejecutivo, de información de los ordenamientos legales, coordinarse con los responsables de las unidades de asuntos jurídicos de cada Dependencia de la Administración Pública Estatal, en materia jurídica de las dependencias, y demás disposiciones de observancia general en el Estado.
+
+> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 A la Consejería Jurídica le corresponde el despacho de los siguientes asuntos:
 
@@ -1581,9 +1583,17 @@ XXX. Administrar y publicar el periódico oficial "Gaceta del Gobierno";
 
 XXXI. Coordinar y asesorar las áreas jurídicas de las diversas dependencias de la Administración Pública Estatal;
 
-XXXII. Definir las directrices y dictar los lineamientos que en materia jurídica deberán seguir las dependencias de la Administración Pública Estatal; y
+> <small>(REFORMADA, G.G. 25 DE FEBRERO DE 2013)</small>
 
-XXXIII. Las demás que le confieran otras disposiciones legales y aquellas que le encomiende el Gobernador.
+XXXII. Definir las directrices y dictar los lineamientos que en materia jurídica deberán seguir las dependencias de la Administración Pública Estatal;
+
+> <small>(REFORMADA, G.G. 25 DE FEBRERO DE 2013)</small>
+
+XXXIII. Llevar el registro de autógrafos, legalizar y certificar las firmas de los funcionarios estatales, de los presidentes y secretarios municipales y de los demás funcionarios a quienes esté encomendada la fe pública; y
+
+> <small>(ADICIONADA, G.G. 25 DE FEBRERO DE 2013)</small>
+
+XXXIV. Las demás que le confieran otras disposiciones legales y aquellas que le encomiende el Gobernador.
 
 > <small>(REFORMADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
@@ -2322,6 +2332,16 @@ CUARTO.- Las atribuciones y facultades que se otorgan a la Consejería Jurídica
 QUINTO.- Los recursos humanos, materiales y financieros de la Subsecretaría de Asuntos Jurídicos, serán transferidos a partir de la entrada en vigor del presente Decreto a la Consejería Jurídica del Ejecutivo Estatal.
 
 SEXTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
+
+G.G. 25 DE FEBRERO DE 2013.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
+
+CUARTO.- El Gobernador del Estado, al presentar la Cuenta Pública del Gobierno del estado de México y Organismos Auxiliares del Ejercicio Fiscal 2013, informará de los recursos ejercidos por la Consejería Jurídica.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 158 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA, LA LEY ORGÁNICA DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS, LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA Y LA LEY DE GOBIERNO MUNICIPAL, TODAS DEL ESTADO DE SINALOA”.]
 
