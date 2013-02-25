@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2013-02-22"
+last_updated: "2013-02-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE FEBRERO DE 2013.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -2547,6 +2547,10 @@ Este delito se perseguirá por querella.
 
 Al que provoque públicamente a cometer un delito, o haga la apología de éste o de algún vicio, si el delito no se ejecutare, se le impondrán de tres a seis meses de prisión y de treinta a sesenta días multa. En caso contrario, se impondrá la pena que le corresponda como instigador del delito cometido.
 
+> <small>(ADICIONADO, G.G. 25 DE FEBRERO DE 2013)</small>
+
+Se excluye de este delito, al servidor público que en cumplimiento de su deber realice alguna de las técnicas de investigación reconocidas en el Código de Procedimientos Penales para el Estado de México, siempre y cuando ejerza su función en términos de las disposiciones jurídicas aplicables.
+
 SUBTITULO QUINTO
 
 DELITOS CONTRA LA FAMILIA
@@ -4860,6 +4864,14 @@ DECRETO NÚMERO 55, POR EL QUE SE ADICIONA LA FRACCIÓN IV AL ARTÍCULO 166 TER 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 25 DE FEBRERO DE 2013.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- La Procuraduría General de Justicia del Estado de México emitirá los Protocolos en materia de técnicas de investigación en un plazo no mayor a seis meses contados a partir de la entrada en vigor del presente Decreto.
 
 ###### ARTÍCULO PRIMERO.
 
