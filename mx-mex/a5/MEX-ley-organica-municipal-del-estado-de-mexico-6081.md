@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2013-02-22"
+last_updated: "2013-02-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE FEBRERO DE 2013 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE FEBRERO DE 2013.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -2527,6 +2529,34 @@ En el municipio donde residan permanentemente los Poderes del Estado, el mando d
 
 Los cuerpos de seguridad pública, bomberos y tránsito municipales se coordinarán en lo relativo a su organización, función y aspectos técnicos con la Dirección General de Seguridad Pública y Tránsito del Estado.
 
+> <small>(ADICIONADO, G.G. 25 DE FEBRERO DE 2013)</small>
+
+###### Artículo 144 Bis.
+
+Para el personal de protección civil, el municipio podrá implementar el servicio profesional de carrera y un régimen complementario de seguridad social.
+
+> <small>(ADICIONADO, G.G. 25 DE FEBRERO DE 2013)</small>
+
+###### Artículo 144 Ter.
+
+Los Municipios generarán con cargo a sus presupuestos un régimen complementario de seguridad social; reconocimientos y estímulos para Bomberos.
+
+El régimen de estímulos, es el mecanismo por el cual se otorga el reconocimiento público por actos de servicio meritorio o por trayectoria ejemplar, con el objeto de fomentar la calidad y efectividad en el desempeño del servicio para incrementar las posibilidades de promoción y fortalecer la identidad institucional.
+
+> <small>(ADICIONADO, G.G. 25 DE FEBRERO DE 2013)</small>
+
+###### Artículo 144 Quater.
+
+El Servicio Profesional de Carrera para Bomberos y personal de Protección Civil, es el sistema de administración y control del personal que promueve su profesionalización, desarrollo y permanencia, asegurando la igualdad de oportunidades, ingreso, ascensos, estímulos y beneficios con base en el mérito y la experiencia.
+
+El Servicio Profesional de Carrera para Bomberos y Protección Civil comprende el grado, la antigüedad, las insignias, condecoraciones, estímulos y reconocimientos obtenidos, el resultado de los procesos de promoción, así como el registro de las correcciones disciplinarias y sanciones que, en su caso, haya acumulado el integrante.
+
+> <small>(ADICIONADO, G.G. 25 DE FEBRERO DE 2013)</small>
+
+###### Artículo 144 Quinquies.
+
+Los municipios en uso de su autonomía hacendaria, podrán convenir con instituciones públicas o privadas, un sistema de ahorro para la obtención de vivienda, a favor de los Bomberos, Protección Civil y de los cuerpos de seguridad pública.
+
 ### CAPITULO PRIMERO. De las Oficialías Mediadora-Conciliadoras y de las Oficialías Calificadoras Municipales
 
 > <small>(REFORMADO, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
@@ -2713,7 +2743,11 @@ II. De los Oficiales Calificadores:
 
 a) (DEROGADO, G.G. 24 DE AGOSTO DE 2012)
 
-b) Conocer, calificar e imponer las sanciones administrativas municipales que procedan por faltas o infracciones al bando municipal, reglamentos y demás disposiciones de carácter general contenidas en los ordenamientos expedidos por los ayuntamientos, excepto las de carácter fiscal;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.G. 25 DE FEBRERO DE 2013)</small>
+
+b) Conocer, calificar e imponer las sanciones administrativas municipales que procedan por faltas o infracciones al bando municipal, reglamentos y demás disposiciones de carácter general contenidas en los ordenamientos expedidos por los ayuntamientos, y aquellas que deriven con motivo de la aplicación del Libro Octavo del Código Administrativo del Estado de México, excepto las de carácter fiscal;
 
 c) Apoyar a la autoridad municipal que corresponda, en la conservación del orden público y en la verificación de daños que, en su caso, se causen a los bienes propiedad municipal, haciéndolo saber a quien corresponda;
 
@@ -3716,3 +3750,31 @@ CUARTO.- Los Ayuntamientos realizarán el refrendo a más tardar el 30 de abril 
 QUINTO.- Para dar cumplimiento a lo establecido por las fracciones I y II del artículo 2.47 Ter del Código Administrativo del Estado de México, los propietarios o poseedores de establecimientos mercantiles donde se vendan o suministren bebidas alcohólicas, contarán con un plazo máximo que no deberá exceder del 30 de junio de 2013.
 
 SEXTO.- Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo dispuesto por el presente Decreto.
+
+G.G. 25 DE FEBRERO DE 2013.
+
+DECRETO NÚMERO 57 POR EL QUE SE REFORMA EL INCISO B) DE LA FRACCIÓN II DEL ARTÍCULO 150 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente de (sic) Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor a los treinta días siguientes al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- El Ejecutivo del Estado y los Ayuntamientos proveerán lo necesario para implementar las medidas y programas necesarios para combatir el alcoholismo y la prevención de accidentes viales, en un plazo no mayor a tres meses contados a partir de la entrada en vigor del presente Decreto.
+
+CUARTO.- La Secretaría de Seguridad Ciudadana, o en su caso el Ayuntamiento, deberán emitir en un término de sesenta días hábiles los protocolos que regirán para la aplicación de estos programas, dictados en el artículo 245 fracción IV Bis.
+
+QUINTO.- El Ejecutivo del Estado y los Ayuntamientos proveerán en la esfera administrativa el cumplimiento del presente Decreto.
+
+SEXTO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+G.G. 25 DE FEBRERO DE 2013.
+
+DECRETO NÚMERO 58 POR EL QUE SE ADICIONAN LOS ARTÍCULOS 144 BIS, 144 TER, 144 QUÁTER Y 144 QUINQUIES A LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día 1 de marzo de 2013.
+
+TERCERO.- Los Municipios en donde exista o programe la instalación de un H. Cuerpo de Bomberos, contarán con noventa días para el establecimiento del régimen complementario de seguridad social.
+
+CUARTO.- Los Programas de Profesionalización y de Reconocimientos y Estímulos para Bomberos que al efecto se aprueben por el respectivo Cabildo, serán publicados a más tardar en noventa días naturales a la entrada en vigor del presente Decreto.
