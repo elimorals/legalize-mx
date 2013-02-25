@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-defensoria-publica-del-estado-de-mexico-73111"
 country: "mx"
 rank: "ley"
 publication_date: "2010-02-03"
-last_updated: "2011-10-26"
+last_updated: "2013-02-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73111&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # LEY DE DEFENSORIA PUBLICA DEL ESTADO DE MEXICO
 
-LEY DE DEFENSORIA PUBLICA DEL ESTADO DE MEXICO
+LEY DE DEFENSORÍA PÚBLICA DEL ESTADO DE MÉXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE FEBRERO DE 2013.
 
 Ley publicada en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el miércoles 3 de febrero de 2010.
 
@@ -51,6 +51,10 @@ Para los efectos de esta Ley se entiende por:
 
 I. Consejo Técnico: al Consejo Técnico del Instituto de la Defensoría Pública del Estado de México;
 
+> <small>(ADICIONADA, G.G. 25 DE FEBRERO DE 2013)</small>
+
+I Bis. Consejero: al Consejero Jurídico;
+
 II. Defensor Público: al servidor público que preste el servicio de Defensa Pública, en términos de esta Ley;
 
 III. Defensor Público Especializado: al servidor público que preste el servicio de Defensa Pública, en materia de justicia para adolescentes;
@@ -65,13 +69,15 @@ VII. Ley: a la Ley de la Defensoría Pública del Estado de México;
 
 VIII. Reglamento: al Reglamento Interior del Instituto de la Defensoría de (sic) Pública del Estado de México;
 
-IX. Secretario: al Secretario General de Gobierno;
+IX. (DEROGADA, G.G. 25 DE FEBRERO DE 2013)
 
 X. Usuario: al destinatario del servicio público que presta el Instituto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 25 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 3.
 
-El Instituto es un órgano desconcentrado de la Secretaría General de Gobierno con autonomía técnica y operativa, cuyo objeto es operar, coordinar, dirigir y controlar la Defensoría Pública del Estado de México, consistente en proporcionar orientación jurídica y defensa en materia penal, así como patrocinio civil, familiar, mercantil, de amparo y de justicia para adolescentes en cualquier etapa del procedimiento legal aplicable, a las personas que lo soliciten, en los términos que señala esta Ley.
+El Instituto es un órgano desconcentrado de la Consejería Jurídica con autonomía técnica y operativa, cuyo objeto es operar, coordinar, dirigir y controlar la Defensoría Pública del Estado de México, consistente en proporcionar orientación jurídica y defensa en materia penal, así como patrocinio civil, familiar, mercantil, de amparo y de justicia para adolescentes en cualquier etapa del procedimiento legal aplicable, a las personas que lo soliciten, en los términos que señala esta Ley.
 
 Los servidores públicos del Instituto deberán regirse bajo los siguientes principios:
 
@@ -115,7 +121,7 @@ Para los efectos del párrafo anterior, el Instituto podrá actuar en coordinaci
 
 VI. El patrocinio a la parte actora en materia civil, se autorizará previo estudio socioeconómico, excepcionalmente en los casos de extrema pobreza, ignorancia o indigencia, así como a adultos mayores, sin medio comprobable de subsistencia o dependencia de familiares directos;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, G.G. 26 DE OCTUBRE DE 2011)</small>
 
@@ -165,9 +171,11 @@ Los servidores públicos del Instituto no percibirán retribución alguna de los
 
 El Instituto estará integrado por un Director General, las unidades administrativas, la plantilla de defensores públicos, peritos y trabajadores sociales que se requieran.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 25 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 12.
 
-El Instituto estará a cargo de un Director, nombrado por el Secretario.
+El Instituto estará a cargo de un Director, nombrado por el Consejero.
 
 El Director del Instituto deberá reunir para su designación, los requisitos siguientes:
 
@@ -225,7 +233,9 @@ I. Considerar los acuerdos del Consejo Técnico, dictando las medidas necesarias
 
 II. Autorizar con su firma los actos de autoridad que el Instituto ordene, pudiendo delegar esta facultad en subalternos servidores públicos;
 
-III. Designar y remover, previo acuerdo con el Secretario, a los servidores públicos del Instituto y expedir, en su caso, los nombramientos respectivos;
+> <small>(REFORMADA, G.G. 25 DE FEBRERO DE 2013)</small>
+
+III. Designar y remover, previo acuerdo con el Consejero, a los servidores públicos del Instituto y expedir, en su caso, los nombramientos respectivos;
 
 IV. Administrar, dirigir, organizar, planear, controlar y evaluar los servicios del Instituto, así como el funcionamiento del mismo;
 
@@ -237,15 +247,21 @@ VII. Determinar la circunscripción y organización de las coordinaciones region
 
 VIII. Calificar los casos en que proceda el patrocinio en asuntos civiles, familiares, mercantiles y en materia de amparo, así como las excusas de los defensores públicos;
 
-IX. Suscribir, previo acuerdo con el Secretario, los convenios, contratos o acuerdos con dependencias o entidades de la Administración Pública Federal, Estatal, Municipal y con organismos del sector público, privado y social;
+> <small>(REFORMADA, G.G. 25 DE FEBRERO DE 2013)</small>
 
-X. Presentar al Secretario, para su conocimiento y aprobación, los planes de trabajo, presupuesto, informes de actividades y estados financieros anuales del Instituto;
+IX. Suscribir, previo acuerdo con el Consejero, los convenios, contratos o acuerdos con dependencias o entidades de la Administración Pública Federal, Estatal, Municipal y con organismos del sector público, privado y social;
+
+> <small>(REFORMADA, G.G. 25 DE FEBRERO DE 2013)</small>
+
+X. Presentar al Consejero, para su conocimiento y aprobación, los planes de trabajo, presupuesto, informes de actividades y estados financieros anuales del Instituto;
 
 XI. Establecer los sistemas necesarios para supervisar, vigilar y controlar a los defensores públicos, peritos y trabajadores sociales, así como conocer de las quejas que se presenten contra éstos, con la finalidad de corroborar que cumplan con las obligaciones establecidas en esta Ley;
 
 XII. Propugnar en todo momento porque los defensores públicos tengan los espacios necesarios en sus adscripciones para el desempeño de sus funciones y donde atiendan con respeto y dignidad a los usuarios;
 
-XIII. Proponer al Secretario el otorgamiento de estímulos y recompensas a los servidores públicos del Instituto y la aplicación de sanciones disciplinarias;
+> <small>(REFORMADA, G.G. 25 DE FEBRERO DE 2013)</small>
+
+XIII. Proponer al Consejero el otorgamiento de estímulos y recompensas a los servidores públicos del Instituto y la aplicación de sanciones disciplinarias;
 
 XIV. Conceder licencias a los servidores públicos del Instituto para separarse temporalmente de sus funciones, en términos de las disposiciones legales;
 
@@ -255,7 +271,9 @@ XVI. Llevar las estadísticas del Instituto;
 
 XVII. Proveer, en el ámbito administrativo, lo necesario para el mejor desarrollo de las funciones del Instituto;
 
-XVIII. Las demás que le señalen las disposiciones legales aplicables y el Secretario.
+> <small>(REFORMADA, G.G. 25 DE FEBRERO DE 2013)</small>
+
+XVIII. Las demás que le señalen las disposiciones legales aplicables y el Consejero.
 
 ### CAPÍTULO VI. DE LAS CAUSAS DE RETIRO DEL PATROCINIO
 
@@ -445,7 +463,7 @@ LIC. LUIS ENRIQUE MIRANDA NAVA
 
 (RUBRICA).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 G.G. 6 DE MARZO DE 2010.
 
@@ -504,3 +522,13 @@ La Secretaría General de Gobierno, la Secretaría de Finanzas y la Secretaría 
 ###### ARTÍCULO QUINTO.
 
 El Titular del Ejecutivo del Estado y la Legislatura, expedirán las disposiciones reglamentarias y reformas a otros ordenamientos jurídicos, respectivamente, que se derivan de esta Ley, en un plazo no mayor a tres meses, posteriores a la entrada en vigor del presente Decreto.
+
+G.G. 25 DE FEBRERO DE 2013.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
+
+CUARTO.- El Gobernador del Estado, al presentar la Cuenta Pública del Gobierno del estado de México y Organismos Auxiliares del Ejercicio Fiscal 2013, informará de los recursos ejercidos por la Consejería Jurídica.
