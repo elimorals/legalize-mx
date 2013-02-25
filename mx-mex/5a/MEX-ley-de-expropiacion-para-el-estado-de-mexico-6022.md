@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-expropiacion-para-el-estado-de-mexico-6022"
 country: "mx"
 rank: "ley"
 publication_date: "1996-01-17"
-last_updated: "2008-12-30"
+last_updated: "2013-02-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6022&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE EXPROPIACIÓN PARA EL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE DICIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE FEBRERO DE 2013.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el miércoles 17 de enero de 1996.
 
@@ -149,9 +149,11 @@ II. Los ayuntamientos y sus organismos auxiliares en el ámbito de su competenci
 
 III. Las organizaciones de ciudadanos constituidas en términos de ley, a través del ayuntamiento del municipio respectivo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 25 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 7.
 
-El escrito por el que se solicite la expropiación, deberá dirigirse al Gobernador del Estado por conducto de la Secretaría General de Gobierno y contendrá los siguientes requisitos:
+El escrito por el que se solicite la expropiación, deberá dirigirse al Gobernador del Estado por conducto de la Consejería Jurídica y contendrá los siguientes requisitos:
 
 I. Nombre y domicilio del solicitante;
 
@@ -173,9 +175,11 @@ VIII. El plazo máximo en el que se deberá destinar el bien expropiado a la cau
 
 Cuando la solicitud de expropiación recaiga en bienes de ausentes, menores o incapacitados, el procedimiento administrativo se entenderá con los representantes que se designen en términos de las disposiciones legales respectivas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 25 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 9.
 
-La Secretaría General de Gobierno, por conducto de la Dirección Jurídica y Consultiva, sustanciará el trámite respectivo y pedirá a las dependencias u organismos auxiliares competentes los informes, dictámenes, peritajes y demás elementos para acreditar la idoneidad material y técnica del bien de que se trate o la existencia del valor histórico, artístico o cultural, así como la causa de utilidad pública en que se sustente.
+La Consejería Jurídica, por conducto de la Dirección General Jurídica y Consultiva, sustanciará el trámite respectivo y pedirá a las dependencias u organismos auxiliares competentes los informes, dictámenes, peritajes y demás elementos para acreditar la idoneidad material y técnica del bien de que se trate o la existencia del valor histórico, artístico o cultural, así como la causa de utilidad pública en que se sustente.
 
 > <small>(ADICIONADO, G.G. 30 DE DICIEMBRE DE 2008)</small>
 
@@ -231,9 +235,11 @@ Los Tribunales Judiciales y Administrativos del Estado auxiliarán a las autorid
 
 ### CAPITULO III. DE LA EJECUCION DEL DECRETO EXPROPIATORIO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 25 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 14.
 
-Decretada la expropiación, la Secretaría General de Gobierno, por conducto de la Dirección General de Gobernación, procederá a la ejecución, conforme al siguiente procedimiento:
+Decretada la expropiación, la Secretaría General de Gobierno, por conducto de la Dirección General de Gobierno que corresponda, en coordinación con la Consejería Jurídica, procederá a la ejecución, conforme al siguiente procedimiento:
 
 > <small>(REFORMADA, G.G. 30 DE DICIEMBRE DE 2008)</small>
 
@@ -243,7 +249,9 @@ II. Se levantará acta de posesión y de deslinde cuando se trate de bienes inmu
 
 III. Cuando se trate de bienes inmuebles, se fijarán con precisión los amojonamientos de acuerdo con el plano que al efecto se hubiere elaborado; y
 
-IV. En caso de oposición a la diligencia la Dirección General de Gobernación podrá solicitar el auxilio de la fuerza pública para ejecutar el decreto respectivo.
+> <small>(REFORMADA, G.G. 25 DE FEBRERO DE 2013)</small>
+
+IV. En caso de oposición a la diligencia, la Dirección General de Gobierno que corresponda podrá solicitar el auxilio de la fuerza pública para ejecutar el decreto respectivo.
 
 > <small>(ADICIONADO, G.G. 30 DE DICIEMBRE DE 2008)</small>
 
@@ -305,11 +313,11 @@ Si el titular de la propiedad expropiada está de acuerdo con el monto de la ind
 
 Cuando el titular del bien expropiado se rehúse a recibir el importe del pago de la indemnización, se le notificará que ésta queda a su disposición en la Secretaría de Finanzas donde podrá ser reclamada en un plazo de 5 años a partir de ser notificado. Si en este plazo no es reclamada ésta pasará a beneficio del Estado y éste podrá disponer de la misma libremente y sin responsabilidad.
 
-(REFORMADO, G.G. 30 DE DICIEMBRE DE 2008) (F. DE E., G.G. 27 DE ENERO DE 2009)
+> <small>(REFORMADO, G.G. 25 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 20.
 
-Cuando haya controversia respecto al valor del bien mueble expropiado, el expediente se turnará a la Secretaría General de Gobierno la que representará al Ejecutivo ante el Tribunal de lo Contencioso Administrativo en el juicio pericial en que se determine el valor definitivo.
+Cuando haya controversia respecto al valor del bien mueble expropiado, el expediente se turnará a la Consejería Jurídica, la que representará al Ejecutivo ante el Tribunal de lo Contencioso Administrativo en el juicio pericial en que se determine el valor definitivo.
 
 ###### Artículo 21.
 
@@ -349,7 +357,9 @@ a) El bien expropiado no es destinado a la causa de utilidad pública dentro del
 
 b) Se le dé un uso distinto al bien expropiado.
 
-Aprobada la reversión del bien, el afectado deberá reintegrar a la Tesorería del Estado el monto pagado como indemnización, a valor actualizado. La Secretaría ordenará la devolución de bien y la cancelación de su inscripción en el Instituto de la Función Registral del Estado de México, y en el Registro Administrativo de la Propiedad Pública.
+> <small>(REFORMADO, G.G. 25 DE FEBRERO DE 2013)</small>
+
+Aprobada la reversión del bien, el afectado deberá reintegrar a la Tesorería del Estado el monto pagado como indemnización, a valor actualizado. La Consejería Jurídica ordenará la devolución del bien y la cancelación de su inscripción en el Instituto de la Función Registral del Estado de México, y en el Registro Administrativo de la Propiedad Pública.
 
 ###### Artículo 28.
 
@@ -498,3 +508,13 @@ Los procedimientos de expropiación iniciados antes de la vigencia de este Decre
 ###### ARTÍCULO CUARTO.
 
 Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 25 DE FEBRERO DE 2013.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
+
+CUARTO.- El Gobernador del Estado, al presentar la Cuenta Pública del Gobierno del estado de México y Organismos Auxiliares del Ejercicio Fiscal 2013, informará de los recursos ejercidos por la Consejería Jurídica.
