@@ -4,7 +4,7 @@ identifier: "MEX-codigo-financiero-del-estado-de-mexico-y-municipios-13951"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-03-09"
-last_updated: "2013-02-22"
+last_updated: "2013-02-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE FEBRERO DE 2013.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el martes 9 de marzo de 1999.
 
@@ -947,7 +947,7 @@ Cuando no se pague alguna parcialidad en la fecha establecida, el contribuyente 
 
 > <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
-Tratándose del pago diferido, el monte a diferir será el resultado de restar el pago correspondiente al 20% señalado en el primer párrafo de este artículo al total del monto adeudado, dicho monto se cubrirá en una sola exhibición a más tardar en la fecha de pago especificada por el propio deudor, incluyendo los recargos por prórroga antes citados.
+Tratándose del pago diferido, el monto a diferir será el resultado de restar el pago correspondiente al 20% señalado en el primer párrafo de este artículo al total del monto adeudado, dicho monto se cubrirá en una sola exhibición a más tardar en la fecha de pago especificada por el propio deudor, incluyendo los recargos por prórroga antes citados.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -3469,7 +3469,15 @@ SUBSECCION PRIMERA
 
 DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA DIRECCION TECNICA Y DEL PERIODICO OFICIAL "GACETA DEL GOBIERNO"
 
-(ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
+#### SECCIÓN PRIMERA BIS. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA CONSEJERÍA JURÍDICA
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.G. 25 DE FEBRERO DE 2013)</small>
+
+SUBSECCIÓN PRIMERA
+
+DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA DIRECCIÓN TÉCNICA Y DEL PERIÓDICO OFICIAL "GACETA DEL GOBIERNO"
+
+> <small>(ADICIONADO, G.G. 25 DE FEBRERO DE 2013)</small>
 
 #### SECCION SEGUNDA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DE FINANZAS
 
@@ -3489,19 +3497,15 @@ DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA DIRECCION TECNICA Y DEL PERIODICO
 
 (REFORMADO PRIMER PÁRRAFO, G.G. 18 DE DICIEMBRE DE 2008) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
 
-#### SECCION SEXTA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DE LA CONTRALORIA
-
-(ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
-
 ### CAPITULO SEGUNDO. DE LOS DERECHOS
 
 DISPOSICIONES GENERALES
 
 (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
 
-#### SECCION SEPTIMA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DE COMUNICACIONES
+#### SECCION SEXTA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DE LA CONTRALORIA
 
-(REPUBLICADO, G.G. 1 DE ENERO DE 2010) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
+(ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
 
 ###### Artículo 70.
 
@@ -3575,51 +3579,7 @@ La actualización que en su caso se realice conforme a lo previsto en el present
 
 ###### Artículo 71.
 
-Por los servicios prestados por la Dirección Técnica y del Periódico Oficial "Gaceta del Gobierno" se pagarán derechos conforme a la siguiente:
-
-TARIFA
-
-CONCEPTO
-
-I. Legalización de firmas autógrafas de servidores públicos estatales y municipales:
-
-A). Por cada legalización de firmas de servidores públicos del Poder Ejecutivo:
-
-1. De Educación:
-
-a). Programas de estudio. $76
-
-b). Boletas de Calificaciones. $76
-
-c). Certificados de estudio. $76
-
-d). Títulos profesionales. $225
-
-2. Del Registro Civil. $76
-
-3. De otros servidores públicos del Poder Ejecutivo. $76
-
-B). Por cada legalización de firmas de servidores públicos del
-
-Poder Judicial. $76
-
-C). Por cada legalización de firmas de servidores públicos
-
-municipales. $76
-
-II. Apostillamiento de documentos públicos para presentarse
-
-en países firmantes de la Convención de La Haya. $225
-
-III. Por certificación de cada ejemplar agotado del Periódico
-
-Oficial "Gaceta del Gobierno". $37
-
-IV. Por autorización de folios de los volúmenes de protocolo ordinario y libros de cotejos.
-
-A). Folios de protocolo ordinario, por volumen. $225
-
-B). Folios de libros de cotejos, por volumen. $376
+(DEROGADO, G.G. 25 DE FEBRERO DE 2013)
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -3635,9 +3595,9 @@ DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA AGENCIA DE SEGURIDAD ESTATAL
 
 (DEROGADO, G.G. 30 DE DICIEMBRE DE 2003)
 
-#### SECCION OCTAVA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DE TRANSPORTE
+#### SECCION SEPTIMA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DE COMUNICACIONES
 
-(REFORMADO PRIMER PÁRRAFO, G.G. 26 DE DICIEMBRE DE 2007) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
+(REPUBLICADO, G.G. 1 DE ENERO DE 2010) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
 
 ###### Artículo 74.
 
@@ -3645,9 +3605,9 @@ DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA AGENCIA DE SEGURIDAD ESTATAL
 
 (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
 
-#### SECCION NOVENA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DEL MEDIO AMBIENTE
+#### SECCION OCTAVA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DE TRANSPORTE
 
-(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE DICIEMBRE DE 2005) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
+(REFORMADO PRIMER PÁRRAFO, G.G. 26 DE DICIEMBRE DE 2007) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
 
 ###### Artículo 75.
 
@@ -3713,9 +3673,9 @@ DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA DIRECCION GENERAL DE PROTECCION C
 
 (REFORMADO, G.G. 24 DE DICIEMBRE DE 1999) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
 
-#### SECCION DECIMA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA PROCURADURIA GENERAL DE JUSTICIA
+#### SECCION NOVENA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DEL MEDIO AMBIENTE
 
-(F. DE E., G.G. 25 DE MARZO DE 1999) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
+(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE DICIEMBRE DE 2005) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
 
 ###### Artículo 76.
 
@@ -3873,17 +3833,169 @@ SUBSECCION CUARTA
 
 DE LOS DERECHOS POR SERVICIOS PRESTADOS POR EL INSTITUTO DE LA FUNCION REGISTRAL DEL ESTADO DE MEXICO
 
-(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
-
 ###### Artículo 77.
+
+(DEROGADO, G.G. 25 DE FEBRERO DE 2013)
+
+#### SECCION DECIMA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA PROCURADURIA GENERAL DE JUSTICIA
+
+(F. DE E., G.G. 25 DE MARZO DE 1999) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
+
+###### Artículo 78.
+
+(DEROGADO, G.G. 25 DE FEBRERO DE 2013)
+
+#### SECCION DECIMA PRIMERA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR EL INSTITUTO DE SALUD DEL ESTADO DE MÉXICO
+
+> <small>(REFORMADO [N. DE E. ADICIONADO Y REUBICADO], G.G. 22 DE FEBRERO DE 2013)</small>
+
+###### Artículo 79.
+
+(DEROGADO, G.G. 25 DE FEBRERO DE 2013)
+
+###### Artículo 80.
+
+(DEROGADO, G.G. 10 DE DICIEMBRE DE 2009)
+
+#### SECCIÓN DÉCIMA SEGUNDA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR EL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO
+
+> <small>(REFORMADO Y REUBICADO, G.G. 22 DE FEBRERO DE 2013)</small>
+
+###### Artículo 81.
+
+(DEROGADO, G.G. 25 DE FEBRERO DE 2013)
+
+###### Artículo 82.
+
+(DEROGADO, G.G. 25 DE FEBRERO DE 2013)
+
+#### SECCION PRIMERA. DEL IMPUESTO PREDIAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+
+###### Artículo 83.
+
+(DEROGADO, G.G. 25 DE FEBRERO DE 2013)
+
+#### SECCION SEGUNDA. DEL IMPUESTO SOBRE ADQUISICION DE INMUEBLES Y OTRAS OPERACIONES TRASLATIVAS DE DOMINIO DE INMUEBLES
+
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
+#### SECCION TERCERA. DEL IMPUESTO SOBRE CONJUNTOS URBANOS
+
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
+###### Artículo 84.
+
+(DEROGADO, G.G. 25 DE FEBRERO DE 2013)
+
+#### SECCION CUARTA. DEL IMPUESTO SOBRE ANUNCIOS PUBLICITARIOS
+
+> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+
+###### Artículo 85.
+
+(DEROGADO, G.G. 25 DE FEBRERO DE 2013)
+
+###### Artículo 86.
+
+(DEROGADO, G.G. 10 DE DICIEMBRE DE 2009)
+
+###### Artículo 87.
+
+(DEROGADO, G.G. 25 DE FEBRERO DE 2013)
+
+###### Artículo 87 Bis.
+
+(DEROGADO, G.G. 30 DE JUNIO DE 2006)
+
+#### SECCION QUINTA. DEL IMPUESTO SOBRE DIVERSIONES, JUEGOS Y ESPECTACULOS PUBLICOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+
+###### Artículo 88.
+
+(DEROGADO, G.G. 25 DE FEBRERO DE 2013)
+
+###### Artículo 89.
+
+(DEROGADO, G.G. 25 DE FEBRERO DE 2013)
+
+SUBSECCION QUINTA
+
+DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA DIRECCION GENERAL DEL REGISTRO CIVIL
+
+###### Artículo 90.
+
+(DEROGADO, G.G. 25 DE FEBRERO DE 2013)
+
+> <small>(ADICIONADA CON SUBSECCIÓN Y ARTÍCULO QUE LA INTEGRA, G.G. 25 DE FEBRERO DE 2013)</small>
+
+###### Artículo 90 Bis.
+
+Por los servicios prestados por la Dirección Técnica y del Periódico Oficial "Gaceta del Gobierno" se pagarán derechos conforme a la siguiente:
+
+TARIFA
+
+CONCEPTO
+
+I. Legalización de firmas autógrafas de servidores públicos estatales y municipales:
+
+A) Por cada legalización de firmas de servidores públicos del Poder Ejecutivo:
+
+1. De Educación:
+
+a). Programas de estudio. $72
+
+b). Boletas de Calificaciones. $72
+
+c). Certificados de estudio. $72
+
+d). Títulos profesionales. $215
+
+2. Del Registro Civil. $72
+
+3. De otros servidores públicos del Poder Ejecutivo. $72
+
+B) Por cada legalización de firmas de servidores públicos del
+
+Poder Judicial. $72
+
+C) Por cada legalización de firmas de servidores públicos
+
+municipales. $72
+
+II. Apostillamiento de documentos públicos para presentarse
+
+en países firmantes de la convención de La Haya. $215
+
+III. Por certificación de cada ejemplar agotado del Periódico
+
+Oficial "Gaceta del Gobierno". $35
+
+IV. Por autorización de folios de los volúmenes de protocolo ordinario y libros de cotejos.
+
+A) Folios de Protocolo ordinario, por volumen. $215
+
+B) Folios de libros de cotejos, por volumen. $359
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 25 DE FEBRERO DE 2013)</small>
+
+SUBSECCIÓN SEGUNDA
+
+DE LOS DERECHOS POR SERVICIOS PRESTADOS POR EL INSTITUTO DE LA FUNCIÓN REGISTRAL DEL ESTADO DE MÉXICO
+
+> <small>(ADICIONADO, G.G. 25 DE FEBRERO DE 2013)</small>
+
+###### Artículo 90 Ter.
 
 Por inscripción de documentos o actos relativos a bienes inmuebles se pagarán los siguientes derechos:
 
 I. Por inscripciones relativas a la propiedad o posesión originaria de bienes inmuebles:
 
-A). Apeo y deslinde judicial. $536
+A). Apeo y deslinde judicial. $511
 
-B). Capitulaciones matrimoniales sobre inmuebles. $536
+B). Capitulaciones matrimoniales sobre inmuebles. $511
 
 C). La declaración, reconocimiento, adquisición o transmisión de la propiedad o posesión de inmuebles o derechos sobre los mismos por cualquier título.
 
@@ -3891,33 +4003,23 @@ Se considera que existe transmisión o cesión de derechos de fideicomitente o f
 
 En el caso de la permuta de derechos se cobrarán por cada uno de los inmuebles.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
-
 Los títulos expedidos por el Registro Agrario Nacional.
 
 D). La compraventa a plazos, con reserva de dominio o cualquier otra condición resolutoria o suspensiva y la constitución de fideicomiso traslativo de dominio.
 
 E). La promesa cuyo contrato definitivo deba ser inscrito por disposición de Ley.
 
-Tratándose del registro de actos que constituyan compraventa a plazos, con reserva de dominio o cualquier otra condición resolutoria o suspensiva, constitución de fideicomiso traslativo de dominio, transmisión de dominio en ejecución de fideicomiso, promesa de venta y transmisión de propiedad o posesión relacionados con viviendas de interés social, social progresiva o popular, se pagarán por concepto de derechos $60.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(DEROGADO TERCER PÁRRAFO, G.G. 16 DE DICIEMBRE DE 2011)</small>
+Tratándose del registro de actos que constituyan compraventa a plazos, con reserva de dominio o cualquier otra condición resolutoria o suspensiva, constitución de fideicomiso traslativo de dominio, transmisión de dominio en ejecución de fideicomiso, promesa de venta y transmisión de propiedad o posesión, relacionados con viviendas de interés social, social progresiva o popular, se pagarán por concepto de derechos $57.
 
 F). La inmatriculación judicial o administrativa de inmuebles, por cada predio.
 
-Por las inmatriculaciones administrativas por las que se regularice la tenencia de la tierra en programas o campañas promovidas por el Estado o por los Ayuntamientos y cuya superficie no rebase los 1,000 m2 de superficie, se pagará por concepto de derechos $531.
+Por las inmatriculaciones administrativas por las que se regularice la tenencia de la tierra en programas o campañas promovidas por el Estado o por los Ayuntamientos y cuya superficie no rebase los 1,000 m2 de superficie, se pagará por concepto de derechos $507.
 
-G). Constitución de régimen de propiedad en condominio, división de la copropiedad, fusión, fraccionamiento, lotificación, relotificación, subdivisión de predios, por cada unidad privativa, fracción, lote resultante o fusionada se pagarán por concepto de derechos $805.
+G). Constitución de régimen de propiedad en condominio, división de la copropiedad, fusión, fraccionamiento, lotificación, relotificación, subdivisión de predios, por cada unidad privativa, fracción, lote resultante o fusionada se pagarán por concepto de derechos $768.
 
 H). Otros actos inscribibles o anotables.
 
-> <small>(REFORMADO, G.G. 1 DE ENERO DE 2013)</small>
-
-Por las inscripciones o anotaciones de régimen de propiedad en condominio, fraccionamiento, lotificación, relotificación o subdivisión de predios relacionados con vivienda de interés social, social progresiva o popular, se pagarán por concepto de derechos $126, por lote o vivienda resultante siempre y cuando conste de manera fehaciente la autorización expresa de que en los lotes o fracciones resultantes se construirán este tipo de viviendas, o que el condominio en su totalidad tendrá esa naturaleza.
+Por las inscripciones o anotaciones de régimen de propiedad en condominio, fraccionamiento, lotificación, relotificación o subdivisión de predios relacionados con vivienda de interés social, social progresivo o popular, se pagarán por concepto de derechos $120, por lote o vivienda resultante siempre y cuando conste de manera fehaciente la autorización expresa de que en los lotes o fracciones resultantes se construirán este tipo de viviendas, o que el condominio en su totalidad tendrá esa naturaleza.
 
 Por las inscripciones de los actos a que se refieren los incisos C), D), E), F) y H), se pagarán derechos, conforme a la siguiente:
 
@@ -3925,35 +4027,23 @@ TARIFA
 
 CONCEPTO
 
-1. Cuando los actos a inscribir no tengan valor determinado
+1. Cuando los actos a inscribir no tengan valor determinado o éste sea hasta de $205,997. $1,384
 
-o éste sea hasta de $215,885. $1,451
+2. Cuando el valor de los actos a inscribir sea de más de $205,997 y hasta de $257,497. $4,156
 
-2. Cuando el valor de los actos a inscribir sea de más de
+3. Cuando el valor de los actos a inscribir sea de más de $257,497 y hasta de $308,996. $6,928
 
-$215,885 y hasta de $269,857. $4,355
+4. Cuando el valor de los actos a inscribir sea de más de $308,996 y hasta de $360,496. $9,698
 
-3. Cuando el valor de los actos a inscribir sea de más de
-
-$269,857 y hasta de $323,828. $7,260
-
-4. Cuando el valor de los actos a inscribir sea de más de
-
-$323,828 y hasta de $377,800. $10,163
-
-> <small>(F. DE E., G.G. 24 DE ENERO DE 2013)</small>
-
-5. Cuando el valor de los actos a inscribir sea de más de
-
-$377,800 y hasta de $431,773. $13,096
+5. Cuando el valor de los actos a inscribir sea de más de $360,496 y hasta de $411,997. $ 12,469
 
 6. Cuando el valor de los actos a inscribir sea de más de
 
-$431,773. $14,548
+$411,997. $ 13,882
 
-Por las inscripciones a que se refiere el inciso C), D), E) y H) se tomará como valor el que resulte mayor entre el inserto o declarado en la operación, el catastral o el de avalúo, para la ubicación del rango correspondiente de la tarifa anterior. Tratándose de las adquisiciones que hagan los arrendatarios financieros al ejercer la opción de compra, se tomará como valor el que se haya concertado en el contrato de arrendamiento financiero respectivo. Cuando el objeto del acto jurídico sean dos o más inmuebles se deberá expresar, en el documento respectivo, el valor de cada uno de ellos a fin de ubicarlos en el rango correspondiente en forma individual.
+Por las inscripciones a que se refieren los incisos C), D), E) y H), se tomará como valor el que resulte mayor entre el inserto o declarado en la operación, el catastral o el de avalúo, para la ubicación del rango correspondiente de la tarifa anterior. Tratándose de las adquisiciones que hagan los arrendatarios financieros al ejercer la opción de compra, se tomará como valor el que se haya concertado en el contrato de arrendamiento financiero respectivo. Cuando el objeto del acto jurídico sean dos o más inmuebles se deberá expresar, en el documento respectivo, el valor de cada uno de ellos a fin de ubicarlos en el rango correspondiente en forma individual.
 
-La cancelación por revocación, rescisión, mandato judicial o a solicitud de parte interesada de las inscripciones a que se refiere esta fracción $573.
+La cancelación por revocación, rescisión, mandato judicial o a solicitud de parte interesada de las inscripciones a que se refiere esta fracción $547.
 
 II. Por inscripciones o anotaciones de actos o mandamientos judiciales que limiten, graven el derecho de propiedad o posesión o prohíban la enajenación de la propiedad o posesión original de bienes inmuebles, se pagarán por concepto de derechos, conforme a la siguiente:
 
@@ -3961,81 +4051,45 @@ TARIFA
 
 CONCEPTO
 
-1. Cuando los actos a inscribir no tengan valor determinado
+1. Cuando los actos a inscribir no tengan valor determinado o éste sea hasta de $205,997. $1,384
 
-o éste sea hasta de $215,885. $1,451
+2. Cuando el valor de los actos a inscribir sea de más de $205,997 y hasta de $257,497. $4,156
 
-2. Cuando el valor de los actos a inscribir sea de más de
+3. Cuando el valor de los actos a inscribir sea de más de $257,497 y hasta de $308,996. $6,928
 
-$215,885 y hasta de $269,857. $4,355
+4. Cuando el valor de los actos a inscribir sea de más de $308,996 y hasta de $360,496. $9,698
 
-3. Cuando el valor de los actos a inscribir sea de más de
-
-$269,857 y hasta de $323,828. $7,260
-
-4. Cuando el valor de los actos a inscribir sea de más de
-
-$323,808 y hasta de $377,800. $10,163
-
-5. Cuando el valor de los actos a inscribir sea de más de
-
-$377,800 y hasta de $431,773. $13,068
+5. Cuando el valor de los actos a inscribir sea de más de $360,496 y hasta de $411,997. $12,469
 
 6. Cuando el valor de los actos a inscribir sea de más de
 
-$431.773. $14,548
+$411,997. $13,882
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Tratándose de cédula hipotecaria, se tomará como base la cantidad adeudada, para cada inmueble que sea objeto de anotación.
 
-> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2011)</small>
+Por la inscripción de la división de hipoteca, se pagarán $1,321 por cada inmueble.
 
-Tratándose de cédula hipotecaria se tomará como base la cantidad adeudada, para cada inmueble que sea objeto de anotación.
+Por la inscripción de hipotecas, en las que intervengan el Fondo Instituido en Relación a la Agricultura o la Financiera Rural, se pagará por concepto de derechos $755.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Por la inscripción de hipotecas, para garantizar el crédito principal y refinanciamiento para la construcción y adquisición de viviendas de interés social, social progresiva o popular, se pagarán $120.
 
-(REFORMADO, G.G. 16 DE DICIEMBRE DE 2011) (F. DE E., G.G. 24 DE ENERO DE 2013)
-
-Por la inscripción de la división de hipoteca se pagarán $1,385 por cada inmueble.
-
-Por la inscripción de hipotecas en las que intervengan el Fondo Instituido en Relación a la Agricultura o la Financiera Rural, se pagará por concepto de derechos $792.
-
-Por la inscripción de hipotecas para garantizar el crédito principal y refinanciamiento para la construcción y adquisición de viviendas de interés social, social progresiva o popular, se pagarán $125.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-(REFORMADO, G.G. 16 DE DICIEMBRE DE 2011) (F. DE E., G.G. 24 DE ENERO DE 2013)
-
-Para cada cancelación de inscripción o anotación relativa a los actos anteriores se pagará $1,148, a excepción de las cancelaciones que se realicen a favor de los beneficiarios de los programas promotores, respecto de inmuebles destinados a viviendas de interés social, social progresiva o popular, en cuyo caso se pagará un derecho equivalente a $60, así como en el caso de cancelación de inscripciones o anotaciones que se relacionen con créditos en los que intervengan el Fondo Instituido en relación con la Agricultura o la Financiera Rural.
+Para cada cancelación de inscripción o anotación relativa a los actos anteriores se pagará $1,095, a excepción de las cancelaciones que se realicen a favor de los beneficiarios de los programas promotores, respecto de inmuebles destinados a viviendas de interés social, social progresiva o popular, en cuyo caso se pagará un derecho equivalente a $58, así como en el caso de cancelación de inscripciones o anotaciones que se relacionen con créditos en los que intervenga el Fondo Instituido en relación con la Agricultura o la Financiera Rural.
 
 Cuando en un solo documento se contengan dos o más contratos a inscribir, el monto de cada uno de ellos se ubicará en el rango correspondiente en forma individual, para efectos de la aplicación de la tarifa de esta fracción.
 
-III. Por la inscripción de actos o documentos cuyo registro sea necesario como acto previo, para la inscripción de títulos traslativos de dominio, se pagarán por cada uno de ellos $536.
+III. Por la inscripción de actos o documentos cuyo registro sea necesario como acto previo, para la inscripción de títulos traslativos de dominio, se pagarán por cada uno de ellos $511.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Para efectos del párrafo anterior, los contratos privados de compraventa no se considerarán como un acto previo, independientemente de la denominación que se les dé.
 
-> <small>(ADICIONADO, G.G. 16 DE DICIEMBRE DE 2011)</small>
+Por la cancelación de la inscripción a que alude esta fracción, ordenada por la autoridad judicial o cuando así lo soliciten las partes que intervienen en el acto o documento, siempre y cuando no se haya realizado la inscripción definitiva, se pagarán $232.
 
-Para efectos del párrafo anterior, los contratos privados de compraventa no se consideraran como un acto previo, independientemente de la denominación que se les dé.
+Para la aplicación de los derechos previstos en este artículo referidos a viviendas de interés social, social progresivo o popular, nueva o usada, su transmisión deberá llevarse a cabo directamente por el constructor de la vivienda, por la Federación, Estado o Municipio, a través de los organismos públicos correspondientes, o bien con recursos proporcionados por éstos, por instituciones de banca múltiple, sociedades financieras de objeto limitado o sociedades financieras de objeto múltiple cuando la transmisión se haga entre particulares, debiendo acreditarse fehacientemente la naturaleza de las viviendas y el origen de sus recursos y además que su valor al término de la construcción o adquisición no exceda los valores que establece la fracción XL del artículo 3 de este Código para cada tipo de vivienda.
 
-Por la cancelación de la inscripción a que alude esta fracción, ordenada por la autoridad judicial o cuando así lo soliciten las partes que intervienen en el acto o documento, siempre y cuando no se haya realizado la inscripción definitiva, se pagarán $244.
+Tratándose de hipotecas para garantizar créditos obtenidos para la construcción o adquisición de viviendas de interés social, social progresiva o popular, se aplicarán los derechos referidos a este tipo de viviendas, aun cuando la suma del capital e intereses garantizados superen el monto del valor de las mismas conforme a los criterios anteriores.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+> <small>(ADICIONADO, G.G. 25 DE FEBRERO DE 2013)</small>
 
-> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
-
-Para la aplicación de los derechos previstos en este artículo referidos a viviendas de interés social, social progresiva o popular, nueva o usada, su transmisión deberá llevarse a cabo directamente por el constructor de la vivienda, por la Federación, Estado o municipio, a través de los organismos públicos correspondientes, o bien con recursos proporcionados por éstos, por instituciones de banca múltiple, sociedades financieras de objeto limitado o sociedades financieras de objeto múltiple cuando la transmisión se haga entre particulares, debiendo acreditarse fehacientemente la naturaleza de las viviendas y el origen de sus recursos y además que su valor al término de la construcción o adquisición no exceda los valores que establece la fracción XL del artículo 3 de este Código para cada tipo de vivienda.
-
-> <small>(ADICIONADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
-
-Tratándose de hipotecas para garantizar créditos obtenidos para la construcción o adquisición de viviendas de interés social, social progresiva o popular, se aplicarán los derechos referidos a este tipo de viviendas, aún cuando la suma del capital e intereses garantizados superen el monto del valor de las mismas conforme a los criterios anteriores.
-
-(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
-
-#### SECCION DECIMA PRIMERA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR EL INSTITUTO DE SALUD DEL ESTADO DE MÉXICO
-
-> <small>(REFORMADO [N. DE E. ADICIONADO Y REUBICADO], G.G. 22 DE FEBRERO DE 2013)</small>
-
-###### Artículo 78.
+###### Artículo 90 Quáter.
 
 Por inscripciones de actos relativos a bienes muebles, se pagarán los siguientes derechos:
 
@@ -4051,115 +4105,63 @@ TARIFA
 
 CONCEPTO
 
-1. Cuando los actos a inscribir no tengan valor determinado
+1. Cuando los actos a inscribir no tengan valor determinado o éste sea hasta de $205,997. $1,384
 
-o éste sea hasta de $215,885. $1,451
+2. Cuando el valor de los actos a inscribir sea de más de $205,997 y hasta de $257,497. $4,156
 
-2. Cuando el valor de los actos a inscribir sea de más de
+3. Cuando el valor de los actos a inscribir sea de más de $257,497 y hasta de $308,996. $6,928
 
-$215,885 y hasta de $269,857. $4,355
+4. Cuando el valor de los actos a inscribir sea de más de $308,996 y hasta de $360,496. $9,698
 
-3. Cuando el valor de los actos a inscribir sea de más de
-
-$269,857 y hasta de $323,828. $7,260
-
-4. Cuando el valor de los actos a inscribir sea de más de
-
-$323,828 y hasta de $377,800. $10,163
-
-5. Cuando el valor de los actos a inscribir sea de más de
-
-$377,800 y hasta de $431,773. $13,068
+5. Cuando el valor de los actos a inscribir sea de más de $360,496 y hasta de $411,997. $12,469
 
 6. Cuando el valor de los actos a inscribir sea de más de
 
-$431,773. $14,548
+$411,997. $13,882
 
-IV. Por la cancelación de cualquiera de los
+IV. Por cancelación de cualquiera de los actos contenidos
 
-actos contenidos en este artículo $1,451
+en este artículo. $1,384
 
-(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
+> <small>(ADICIONADO, G.G. 25 DE FEBRERO DE 2013)</small>
 
-#### SECCIÓN DÉCIMA SEGUNDA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR EL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO
-
-> <small>(REFORMADO Y REUBICADO, G.G. 22 DE FEBRERO DE 2013)</small>
-
-###### Artículo 79.
+###### Artículo 90 Quinquies.
 
 Por inscripciones de documentos o actos relativos a personas jurídicas colectivas, se pagarán los siguientes derechos:
 
-I. Escrituras constitutivas de personas
+I. Escrituras constitutivas de personas jurídicas colectivas o aumento de capital social. $1,371.
 
-jurídicas colectivas o aumento de capital social. $1,437
+II. Actas de asambleas de socios o de juntas de administradores de conformidad a la legislación aplicable. $1,371.
 
-II. Actas de asambleas de socios o de juntas
+III. Otorgamiento o sustitución de poderes generales, nombramientos, revocación y renuncia de los mismos conferidos a gerentes, administradores y cualesquiera otros mandatarios, se pagarán $564.
 
-de administradores de conformidad a la legislación
+IV. Emisiones de acciones, cédulas, obligaciones o
 
-aplicable. $1,437
+certificados de participación. $1,371.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+V. Fianzas de corredores, se pagarán $768.
 
-> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2010)</small>
+VI. Depósito de la firma en facsímil de los administradores,
 
-III. Otorgamiento o sustitución de poderes
+se pagarán $1,384.
 
-generales, nombramientos, revocación y
+VII. Depósito de copia autorizada por balance, se pagarán $1,384.
 
-renuncia de los mismos conferidos
+VIII. Cancelación, por mandato judicial, de cualquier acto
 
-a gerentes, administradores y cualesquiera
+que sea inscribible de acuerdo con este artículo $1,021.
 
-otros mandatarios, se pagarán $591.
+IX. Otros actos inscribibles o anotables $1,371.
 
-IV. Emisiones de acciones, cédulas, obligaciones
+Las microindustrias que se encuentren registradas en el Padrón Nacional de la Microindustria, previa comprobación de su registro, pagarán por concepto de derechos establecidos en el artículo $105.
 
-o certificados de participación. $1,437.
+> <small>(ADICIONADO, G.G. 25 DE FEBRERO DE 2013)</small>
 
-V. Fianzas de corredores, se pagarán $805.
-
-VI. Depósito de la firma en facsímil de los
-
-administradores, se pagarán $1,451.
-
-VII. Depósito de copia autorizada por
-
-balance, se pagarán $1,451.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
-
-> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2010)</small>
-
-VIII. Cancelación, por mandato judicial, de cualquier
-
-acto que sea inscribible de acuerdo con este
-
-artículo. $1,070.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
-
-(ACTUALIZADA EN SU TARIFA, G.G. 21 DE DICIEMBRE DE 2010)
-
-IX. Otros actos inscribibles o anotables. $1,437.
-
-Las microindustrias que se encuentren registradas en el Padrón Nacional de la Microindustria, previa comprobación de su registro, pagarán por concepto de derechos establecidos en el artículo $110.
-
-###### Artículo 80.
-
-(DEROGADO, G.G. 10 DE DICIEMBRE DE 2009)
-
-(ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
-
-#### SECCION PRIMERA. DEL IMPUESTO PREDIAL
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-###### Artículo 81.
+###### Artículo 90 Sexies.
 
 Por inscripciones de actos o contratos mercantiles, se pagarán los siguientes derechos:
 
-I. Corresponsalía, $806.
+I. Corresponsalía, $770.
 
 II. Compra-venta con reserva de dominio.
 
@@ -4167,9 +4169,9 @@ III. Créditos refaccionarios, de habilitación o avío y en cuenta corriente.
 
 IV. Embargos.
 
-V. Cancelaciones de los actos o contratos señalados en las fracciones I, II, III y IV, $1,140.
+V. Cancelaciones de los actos o contratos señalados en las fracciones I, II, III y IV, $1,088.
 
-VI. Registros o matrículas que acrediten la calidad de personas físicas comerciantes, $573.
+VI. Registros o matriculas que acrediten la calidad de personas físicas comerciantes, $547.
 
 VII. Arrendamiento financiero.
 
@@ -4181,37 +4183,25 @@ TARIFA
 
 CONCEPTO
 
-1. Cuando los actos a inscribir no tengan valor determinado o
+1. Cuando los actos a inscribir no tengan valor determinado o éste sea hasta de $205,997. $1,384
 
-éste sea hasta de $215,885. $1,451
+2. Cuando el valor de los actos a inscribir sea de más de $205,997 y hasta de $257,497. $4,156
 
-2. Cuando el valor de los actos a inscribir sea de más de
+3. Cuando el valor de los actos a inscribir sea de más de $257,497 y hasta de $308,996. $6,928
 
-$215,885 y hasta de $269,857. $4,355
+4. Cuando el valor de los actos a inscribir sea de más de $308,996 y hasta de $360,496. $9,698
 
-3. Cuando el valor de los actos a inscribir sea de más de
-
-$269,857 y hasta de $323,828. $7,260
-
-4. Cuando el valor de los actos a inscribir sea de más de
-
-$323,828 y hasta de $377,800. $10,163
-
-5. Cuando el valor de los actos a inscribir sea de más de
-
-$377,800 y hasta de $431,773. $13,068
+5. Cuando el valor de los actos a inscribir sea de más de $360,496 y hasta de $411,997. $12,469
 
 6. Cuando el valor de los actos a inscribir sea de más de
 
-$431,773. $14,548
+$411,997. $13,882
 
-> <small>(REFORMADO, G.G. 1 DE ENERO DE 2013)</small>
+Por la inscripción de créditos refaccionarios y de habilitación o avío en que intervengan el Fondo Instituido en Relación a la Agricultura o la Financiera Rural, se pagará por concepto de derecho, $755.
 
-Por la inscripción de créditos refaccionarios y de habilitación o avío en que intervengan el Fondo Instituido en Relación a la Agricultura o la Financiera Rural, se pagará por concepto de derechos $792.
+> <small>(ADICIONADO, G.G. 25 DE FEBRERO DE 2013)</small>
 
-(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
-
-###### Artículo 82.
+###### Artículo 90 Septies.
 
 Por las inscripciones o anotaciones de resoluciones judiciales que contengan actos mercantiles, se pagarán derechos:
 
@@ -4219,21 +4209,17 @@ TARIFA
 
 CONCEPTO
 
-I. Providencias precautorias. $1,451
+I. Providencias precautorias. $1,384
 
-II Suspensión de pagos. $1,454
+II. Suspensión de pagos. $1,387
 
-III. Quiebras. $1,454
+III. Quiebras. $1,387
 
-IV. Otras resoluciones. $1,454
+IV. Otras resoluciones. $1,387
 
-(ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
+> <small>(ADICIONADO, G.G. 25 DE FEBRERO DE 2013)</small>
 
-#### SECCION SEGUNDA. DEL IMPUESTO SOBRE ADQUISICION DE INMUEBLES Y OTRAS OPERACIONES TRASLATIVAS DE DOMINIO DE INMUEBLES
-
-> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
-
-###### Artículo 83.
+###### Artículo 90 Octies.
 
 Por la expedición de certificados y copias certificadas, se pagarán derechos conforme a la siguiente:
 
@@ -4243,257 +4229,127 @@ CONCEPTO
 
 I. Expedición de certificados:
 
-A). De no inscripción. $684
+A). De no inscripción. $652
 
-B). De no propiedad. $55
+B). De no propiedad. $53
 
-C). De inscripción. $677
+C). De inscripción. $646
 
-D). De libertad o de existencia de gravámenes. $788
+D). De libertad o de existencia de gravámenes. $752
 
-Tratándose de la expedición de certificados de
+Tratándose de la expedición de certificados de libertad o existencia de gravámenes relacionados con la adquisición de viviendas de interés social, social progresiva o popular. $131
 
-libertad o existencia de gravámenes relacionados
-
-con la adquisición de viviendas de interés social,
-
-social progresiva o popular. $137
-
-Tratándose de terrenos en donde se construyan
-
-Viviendas de interés social, social progresiva o
-
-popular. $342
+Tratándose de terrenos en donde se construyan viviendas de interés social, social progresiva o popular. $326
 
 Los derechos a que se refiere esta fracción, se pagarán por cada fracción de terreno, lote o vivienda.
 
-II. (DEROGADA, G.G. 18 DE DICIEMBRE DE 2008)
+II. Por expedición de informes sobre la existencia o inexistencia
 
-III. (DEROGADA, G.G. 18 DE DICIEMBRE DE 2008)
+de testamentos. $547
 
-IV. (DEROGADA, G.G. 18 DE DICIEMBRE DE 2008)
+III. Por compulsa de documentos. $53
 
-V. Por expedición de informes sobre la existencia o
+IV. Expedición de copias literales de asientos registrales, o de las copias certificadas de la carátula de los folios reales electrónicos. $652
 
-inexistencia de testamentos. $573
+V. Por la expedición del certificado de una secuencia registral de un inmueble o asiento registral, por cada asiento que se certifique. $552
 
-VI. Por compulsa de documentos. $55
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
-
-VII. Expedición de copias literales de asientos registrales,
-
-o de las copias certificadas de la carátula de los folios reales
-
-electrónicos. $684
-
-VIII. Por la expedición del certificado de una
-
-secuencia registral de un inmueble o asiento
-
-registral, por cada asiento que se certifique. $578
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
-
-> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2010)</small>
-
-IX. Por la búsqueda y expedición, sin certificación, de
-
-informes contenidos en los libros, partidas o folios
-
-electrónicos del Registro Público de la Propiedad
-
-de antecedentes registrales. $301
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+VI. Por la búsqueda y expedición, sin certificación, de informes contenidos en los libros, partidas o folios electrónicos del Registro Público de la Propiedad de antecedentes registrales. $287
 
 En el caso de los certificados a que hace referencia la fracción I y tratándose de programas o campañas de regularización de la tenencia de la tierra llevadas a cabo por los organismos reguladores del Estado o de los municipios, quedarán exentos del pago de derechos, siempre y cuando el Instituto de la Función Registral del Estado de México sea parte en los convenios suscritos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+Cuando los servicios a que aluden las fracciones I, incisos C) y D), y, VII, VIII y IX de este artículo no se expidan, porque la solicitud contenga errores u omisiones y los derechos hayan sido cubiertos previamente, una vez subsanados los errores u omisiones, se extenderá la documentación solicitada, haciendo válido el pago efectuado.
 
-> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(ADICIONADO, G.G. 25 DE FEBRERO DE 2013)</small>
 
-Cuando los servicios a que aluden las fracciones I, incisos C) y D), V, VII, VIII y IX de este artículo no se expidan, porque la solicitud contenga errores u omisiones y los derechos hayan sido cubiertos previamente, una vez subsanados los errores u omisiones, se extenderá la documentación solicitada, haciendo válido el pago efectuado.
+###### Artículo 90 Nonies.
 
-(ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
+Por la calificación de los documentos, cuando se devuelvan sin haberse practicado el registro o anotación correspondiente por carencia u omisión de requisitos, impedimento legal, por no cubrir los derechos dentro del plazo que señala el presente Código o a petición del interesado, se pagará por concepto de derechos $415.
 
-#### SECCION TERCERA. DEL IMPUESTO SOBRE CONJUNTOS URBANOS
+> <small>(ADICIONADO, G.G. 25 DE FEBRERO DE 2013)</small>
 
-> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+###### Artículo 90 Decies.
 
-#### SECCION CUARTA. DEL IMPUESTO SOBRE ANUNCIOS PUBLICITARIOS
+Por cotejo de documentos no autentificados que deban destinarse al apéndice, se pagarán por concepto de derechos $107.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(ADICIONADO, G.G. 25 DE FEBRERO DE 2013)</small>
 
-###### Artículo 84.
+Artículo 90 Undecies.- Cuando un mismo título o documento origine dos o más inscripciones, los derechos se pagarán por cada una de ellas.
 
-Por la calificación de los documentos, cuando se devuelvan sin haberse practicado el registro o anotación correspondiente por carencia u omisión de requisitos, impedimento legal, por no cubrir los derechos dentro del plazo que señala el presente Código o a petición del interesado, se pagará por concepto de derechos $435.
-
-(F. DE E., G.G. 13 DE ENERO DE 2010) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
-
-#### SECCION QUINTA. DEL IMPUESTO SOBRE DIVERSIONES, JUEGOS Y ESPECTACULOS PUBLICOS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
-
-###### Artículo 85.
-
-Por cotejo de documentos no autentificados que deban destinarse al apéndice, se pagarán por concepto de derechos $112.
-
-###### Artículo 86.
-
-(DEROGADO, G.G. 10 DE DICIEMBRE DE 2009)
-
-(ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
-
-###### Artículo 87.
-
-Cuando un mismo título o documento origine dos o más inscripciones, los derechos se pagarán por cada una de ellas.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-(REFORMADO, G.G. 16 DE DICIEMBRE DE 2011) (F. DE E., G.G. 24 DE ENERO DE 2013)
-
-Por inscripción o anotación de modificaciones o rectificaciones relativas a inscripciones principales que no constituyan novación de contrato, se pagará un derecho de $363, por cada una de ellas.
+Por inscripción o anotación de modificaciones o rectificaciones relativas a inscripciones principales que no constituyan novación de contrato, se pagará un derecho de $346, por cada una de ellas.
 
 Tratándose de instituciones y organizaciones de crédito y seguros, las inscripciones que deban hacerse pagarán los mismos derechos.
 
-###### Artículo 87 Bis.
+> <small>(ADICIONADO, G.G. 25 DE FEBRERO DE 2013)</small>
 
-(DEROGADO, G.G. 30 DE JUNIO DE 2006)
-
-(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE DICIEMBRE DE 1999) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
-
-#### SECCION SEXTA. DEL IMPUESTO SOBRE LA PRESTACION DE SERVICIOS DE HOSPEDAJE
-
-> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
-
-###### Artículo 88.
-
-Por los servicios prestados por el Archivo General de Notarías, se pagarán derechos conforme a la siguiente:
+Artículo 90 Duodecies.- Por los servicios prestados por el Archivo General de Notarías, se pagarán derechos conforme a la siguiente:
 
 TARIFA
 
 CONCEPTO
 
-I. Expedición de testimonios, incluida la autorización,
+I. Expedición de Testimonios, incluida la autorización, por
 
-por cada hoja. $55
+cada hoja. $53
 
-II. Expedición de copias certificadas de planos que obran
-
-en el apéndice por cada foja, Incluida la autorización. $112
+II. Expedición de copias certificadas de planos que obran en el apéndice por cada foja, incluida la autorización. $107
 
 III. Expedición de testimonio de escrituras mecanografiadas,
 
-por hoja. $73
+por hoja. $70
 
-IV. Informe sobre existencia o inexistencia de testamento. $554
+IV. Informe sobre existencia o inexistencia de testamento. $529
 
-V. Búsqueda de antecedentes notariales. $55
+V. Búsqueda de antecedentes notariales. $53
 
-VI. Autorización definitiva de las escrituras o actas
+VI. Autorización definitiva de las escrituras o actas notariales de valor determinado que no contengan cuota especial en este Código. $1,016
 
-notariales de valor determinado que no contengan
+VII. Derechos por autorización definitiva, para cuando se trate de actas o escrituras de valor indeterminado. $1,085
 
-cuota especial en este Código. $1,065
+VIII. Por la cancelación de la disposición del patrimonio familiar. $511
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+IX. Por revocación, extinción y sustitución de poderes que se asienten en nota complementaria dentro del acto jurídico que corresponda. $523
 
-> <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2011)</small>
-
-VII. Derechos por autorización definitiva,
-
-para cuando se trate de actas o escrituras
-
-de valor indeterminado. $1,137
-
-VIII. Por la cancelación de la disposición del patrimonio
-
-familiar. $536
-
-IX. Por revocación, extinción y sustitución de poderes
-
-que se asienten en nota complementaria dentro del acto
-
-jurídico que corresponda. $548
-
-X. Depósito de aviso de testamento, incluyendo
-
-el que se realiza por vía correo electrónico por cada uno. $55
+X. Depósito de aviso de testamento, incluyendo el que se realiza por vía correo electrónico, por cada uno. $52
 
 Por la autorización definitiva de escrituras que contengan diversos contratos o actos, los derechos se fijarán en su totalidad por cada uno de los actos o contratos principales, y en una mitad por los accesorios o complementarios.
 
-(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2013)
+> <small>(ADICIONADO, G.G. 25 DE FEBRERO DE 2013)</small>
 
-###### Artículo 89.
+Artículo 90 Terdecies.- Los notarios públicos, deberán efectuar el pago de los derechos correspondientes conforme a lo establecido en esta subsección, directamente y bajo su responsabilidad ante las instituciones bancarias o por conducto del SEITS en los términos de la Ley de Medios Electrónicos y su Reglamento, utilizando los formatos autorizados para tal efecto por el Instituto de la Función Registral. Al presentar para su inscripción el testimonio respectivo, agregarán al mismo la comprobación correspondiente a los derechos ya cubiertos y el registrador de la propiedad calificará, posteriormente, el pago efectuado, conforme a sus atribuciones legales, determinando cantidades a favor o en contra.
 
-Los notarios públicos deberán efectuar el pago de los derechos correspondientes, conforme a lo establecido en esta subsección, directamente y bajo su responsabilidad ante las instituciones bancarias o por conducto del SEITS en los términos de la Ley de Medios Electrónicos y su Reglamento, utilizando los formatos autorizados para tal efecto por el Instituto de la Función Registral. Al presentar para su inscripción el testimonio respectivo, agregarán al mismo la comprobación correspondiente a los derechos ya cubiertos y el registrador de la propiedad calificará, posteriormente, el pago efectuado, conforme a sus atribuciones legales, determinando cantidades a favor o en contra.
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.G. 25 DE FEBRERO DE 2013)</small>
 
-SUBSECCION QUINTA
+SUBSECCIÓN TERCERA
 
-DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA DIRECCION GENERAL DEL REGISTRO CIVIL
+DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA DIRECCIÓN GENERAL DEL REGISTRO CIVIL
 
-(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004) (ACTUALIZADO EN SUS CUOTAS Y TARIFAS, G.G. 1 DE ENERO DE 2012)
+> <small>(ADICIONADO, G.G. 25 DE FEBRERO DE 2013)</small>
 
-###### Artículo 90.
+Artículo 90 Quaterdecies.- Por los servicios prestados por la Dirección General del Registro Civil, se pagarán los siguientes derechos:
 
-Por los servicios prestados por la Dirección General del Registro Civil, se pagarán los siguientes derechos:
+I. Expedición de copias certificadas en papel bond del apéndice de los procedimientos administrativos y de la documentación concentrada en la Dirección General del Registro Civil. $74
 
-I. Expedición de copia certificada en papel bond
+II. Expedición de copia certificada del Registro Civil en papel bond para acuerdos de aclaración de actas, concentradas en la Dirección General y oficinas regionales del Registro Civil. $27
 
-del apéndice de los procedimientos administrativos
+III. Expedición de copia certificada en papel seguridad, de las actas de los actos y/o hechos del estado civil concentradas en la Dirección General. $55
 
-y de la documentación concentrada en la Dirección
+IV. Por el dictamen de procedencia del divorcio administrativo. $1,023
 
-General del Registro Civil. $78
+V. Búsqueda en los libros y archivos sistematizados del Registro Civil que se encuentren concentrados en la Dirección General, subdirecciones y oficinas regionales, cuando no se señale fecha de registro, por cada
 
-II. Expedición de copia certificada del Registro Civil en
+año o fracción. $14
 
-papel bond para acuerdos de aclaración de actas,
+VI. Por el trámite de aclaración de acta por vía administrativa y el asentamiento de la anotación marginal correspondiente. $80
 
-concentradas en la Dirección General y oficinas regionales
-
-del Registro Civil. $28
-
-III. Expedición de copia certificada en papel seguridad de
-
-las actas de los actos y/o hechos del estado civil
-
-concentradas en la Dirección General. $57
-
-IV. Por el dictamen de procedencia del divorcio administrativo. $1,072
-
-V. Búsqueda en los libros y archivos sistematizados del
-
-Registro Civil que se encuentren concentrados en la
-
-Dirección General, subdirecciones y oficinas regionales,
-
-cuando no se señale fecha de registro, por cada año o
-
-fracción. $15
-
-VI. Por el trámite de aclaración de acta por vía administrativa
-
-y el asentamiento de la anotación marginal correspondiente. $83
-
-VII. Por certificación de constancia de inexistencia de registro. $57
+VII. Por certificación de constancia de inexistencia de registro. $55
 
 VIII. Por cada hoja de papel seguridad para copia certificada. $3
 
-IX. Por juego de formato para el asentamiento de hechos y
+IX. Por juego de formato para el asentamiento de hechos
 
-actos del estado civil. $5
+y actos del estado civil. $5
 
-X. Por el servicio de encuadernación o rehabilitación de los
-
-libros de Oficialía de las diversas actas de los actos y hechos
-
-del estado civil, por libro. $258
+X. Por el servicio de encuadernación o rehabilitación de los libros de Oficialía de las diversas actas de los actos y hechos del estado civil, por libro. $246
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
@@ -5111,9 +4967,9 @@ VIII. (DEROGADA, G.G. 19 DE DICIEMBRE DE 2012)
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 1 DE ENERO DE 2013)</small>
 
-#### SECCION PRIMERA. DE LOS DERECHOS DE AGUA POTABLE, DRENAJE, ALCANTARILLADO, RECEPCION DE LOS CAUDALES DE AGUAS RESIDUALES PARA SU TRATAMIENTO O MANEJO Y CONDUCCION
+#### SECCION SEXTA. DEL IMPUESTO SOBRE LA PRESTACION DE SERVICIOS DE HOSPEDAJE
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 94.
 
@@ -6499,7 +6355,9 @@ F). Las copias certificadas que se expidan para la substanciación de cualquier 
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 22 DE FEBRERO DE 2013)</small>
 
-#### SECCION SEGUNDA. DE LOS DERECHOS DEL REGISTRO CIVIL
+#### SECCION PRIMERA. DE LOS DERECHOS DE AGUA POTABLE, DRENAJE, ALCANTARILLADO, RECEPCION DE LOS CAUDALES DE AGUAS RESIDUALES PARA SU TRATAMIENTO O MANEJO Y CONDUCCION
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 105.
 
@@ -6531,9 +6389,7 @@ inmediato o al copeo.
 
 > <small>(ADICIONADA, G.G. 22 DE FEBRERO DE 2013)</small>
 
-#### SECCION TERCERA. DE LOS DERECHOS DE DESARROLLO URBANO Y OBRAS PUBLICAS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+#### SECCION SEGUNDA. DE LOS DERECHOS DEL REGISTRO CIVIL
 
 ###### Artículo 106.
 
@@ -6547,15 +6403,17 @@ II. Para integrar los testimonios en la sustanciación de recursos; y
 
 III. Para la sustanciación de procedimientos penales y familiares.
 
-#### SECCIÓN CUARTA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR AUTORIDADES FISCALES, ADMINISTRATIVAS Y DE ACCESO A LA INFORMACIÓN PÚBLICA
+#### SECCION TERCERA. DE LOS DERECHOS DE DESARROLLO URBANO Y OBRAS PUBLICAS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 ## TITULO CUARTO. DE LOS INGRESOS DE LOS MUNICIPIOS
 
 ### CAPITULO PRIMERO. DE LOS IMPUESTOS
 
-#### SECCION QUINTA. DE LOS DERECHOS POR SERVICIOS DE RASTROS
+#### SECCIÓN CUARTA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR AUTORIDADES FISCALES, ADMINISTRATIVAS Y DE ACCESO A LA INFORMACIÓN PÚBLICA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 107.
 
@@ -6695,7 +6553,7 @@ Respecto de los créditos fiscales derivados del Impuesto Predial que no hayan s
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
-#### SECCION SEXTA. DE LOS DERECHOS POR CORRAL DE CONCEJO, E IDENTIFICACION DE SEÑALES DE SANGRE, TATUAJES, ELEMENTOS ELECTROMAGNETICOS Y FIERROS PARA MARCAR GANADO Y MAGUEYES
+#### SECCION QUINTA. DE LOS DERECHOS POR SERVICIOS DE RASTROS
 
 ###### Artículo 113.
 
@@ -6921,11 +6779,7 @@ Si las adquisiciones se hacen constar en documentos privados, el cálculo y ente
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 6 DE DICIEMBRE DE 2002)</small>
 
-#### SECCION SEPTIMA. DE LOS DERECHOS POR USO DE VIAS Y AREAS PUBLICAS PARA EL EJERCICIO DE ACTIVIDADES COMERCIALES O DE SERVICIOS
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008) (REPUBLICADO PRIMER PÁRRAFO, G.G. 19 DE DICIEMBRE DE 2012)
+#### SECCION SEXTA. DE LOS DERECHOS POR CORRAL DE CONCEJO, E IDENTIFICACION DE SEÑALES DE SANGRE, TATUAJES, ELEMENTOS ELECTROMAGNETICOS Y FIERROS PARA MARCAR GANADO Y MAGUEYES
 
 ###### Artículo 118.
 
@@ -7035,7 +6889,11 @@ Grupo B.- Comprenderá los municipios no incluidos en el grupo A.
 
 II. Los montos determinados de conformidad con lo previsto en este artículo, se pagarán ante la tesorería correspondiente, dentro de los noventa días siguientes contados a partir de la fecha de publicación en el periódico oficial, del acuerdo de autorización del conjunto urbano o de las subdivisiones de predios de que se trate, o de sus modificaciones.
 
-#### SECCION OCTAVA. DE LOS DERECHOS POR SERVICIOS DE PANTEONES
+#### SECCION SEPTIMA. DE LOS DERECHOS POR USO DE VIAS Y AREAS PUBLICAS PARA EL EJERCICIO DE ACTIVIDADES COMERCIALES O DE SERVICIOS
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008) (REPUBLICADO PRIMER PÁRRAFO, G.G. 19 DE DICIEMBRE DE 2012)
 
 ###### Artículo 120.
 
@@ -7117,9 +6975,7 @@ No se pagará este impuesto, por aquellos anuncios que tengan como única finali
 
 Para efectos de este artículo se entenderá como anuncio luminoso, aquél que sea alumbrado por una fuente de luz distinta de la natural, en su interior o exterior.
 
-#### SECCION NOVENA. DE LOS DERECHOS DE ESTACIONAMIENTO EN LA VIA PUBLICA Y DE SERVICIO PUBLICO
-
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+#### SECCION OCTAVA. DE LOS DERECHOS POR SERVICIOS DE PANTEONES
 
 ###### Artículo 122.
 
@@ -7167,9 +7023,9 @@ Las máquinas de entretenimiento de audio, vídeo, vídeo juegos, eléctricas y 
 
 Los contribuyentes que habitualmente realicen actividades por las que se cause este impuesto lo pagarán dentro de los primeros diecisiete días de cada mes; y quienes realicen actividades que lo causen de manera temporal lo deberán pagar diario en la tesorería.
 
-#### SECCION DECIMA. DE LOS DERECHOS POR LA EXPEDICION O REFRENDO ANUAL DE LICENCIAS PARA LA VENTA DE BEBIDAS ALCOHOLICAS AL PUBLICO
+#### SECCION NOVENA. DE LOS DERECHOS DE ESTACIONAMIENTO EN LA VIA PUBLICA Y DE SERVICIO PUBLICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 125.
 
@@ -7211,9 +7067,9 @@ Artículo 128 Bis B.- El Órgano Superior de Fiscalización del Estado de Méxic
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 16 DE DICIEMBRE DE 2011)</small>
 
-#### SECCION DECIMA PRIMERA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR AUTORIDADES DE SEGURIDAD PUBLICA
+#### SECCION DECIMA. DE LOS DERECHOS POR LA EXPEDICION O REFRENDO ANUAL DE LICENCIAS PARA LA VENTA DE BEBIDAS ALCOHOLICAS AL PUBLICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
 ###### Artículo 129.
 
@@ -8067,7 +7923,9 @@ Grupo 4.- Comprenderá el resto de los municipios del Estado no incluidos en los
 
 (DEROGADO, G.G. 30 DE DICIEMBRE DE 2003)
 
-#### SECCION DECIMA SEGUNDA. DE LOS DERECHOS POR SERVICIOS DE ALUMBRADO PUBLICO
+#### SECCION DECIMA PRIMERA. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR AUTORIDADES DE SEGURIDAD PUBLICA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 142.
 
@@ -8261,7 +8119,7 @@ En los casos de desastres como heladas, inundaciones, epidemias, sismos o de cam
 
 Los municipios podrán convenir con el Estado, para que éste sea quien preste los servicios del Registro Civil, y reciba el pago de los derechos correspondientes.
 
-#### SECCION DECIMA TERCERA. DE LOS DERECHOS POR SERVICIOS DE LIMPIEZA DE LOTES BALDIOS, RECOLECCION, TRASLADO Y DISPOSICION FINAL DE RESIDUOS SOLIDOS INDUSTRIALES Y COMERCIALES
+#### SECCION DECIMA SEGUNDA. DE LOS DERECHOS POR SERVICIOS DE ALUMBRADO PUBLICO
 
 ###### Artículo 143.
 
@@ -8683,9 +8541,7 @@ Para los efectos de esta Sección, se atenderá a la clasificación de municipio
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
-#### SECCION DECIMA CUARTA. DE LOS DERECHOS POR LOS SERVICIOS PRESTADOS POR LAS AUTORIDADES DE CATASTRO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE DICIEMBRE DE 2003)</small>
+#### SECCION DECIMA TERCERA. DE LOS DERECHOS POR SERVICIOS DE LIMPIEZA DE LOTES BALDIOS, RECOLECCION, TRASLADO Y DISPOSICION FINAL DE RESIDUOS SOLIDOS INDUSTRIALES Y COMERCIALES
 
 ###### Artículo 147.
 
@@ -8861,11 +8717,9 @@ B). Por cada metro o fracción
 
 excedente, por día. 1.0
 
-#### SECCION PRIMERA. DE LOS ELEMENTOS DE LAS TABLAS DE VALOR
+#### SECCION DECIMA CUARTA. DE LOS DERECHOS POR LOS SERVICIOS PRESTADOS POR LAS AUTORIDADES DE CATASTRO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 150.
 
@@ -8945,11 +8799,11 @@ por cabeza, o cada una. 0.0051
 
 El pago de este derecho se efectuará mensualmente en la tesorería, presentando una relación del número de cabezas sacrificadas por especie, en el mes anterior.
 
-#### SECCION SEGUNDA. DEL PROCEDIMIENTO PARA LA INTEGRACION Y ACTUALIZACION DE LAS TABLAS DE VALOR
+#### SECCION PRIMERA. DE LOS ELEMENTOS DE LAS TABLAS DE VALOR
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 152.
 
@@ -8977,9 +8831,11 @@ Por el registro anual de instrumentos para la identificación de señales de san
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
-#### SECCION TERCERA. DE LA DETERMINACION DEL VALOR CATASTRAL
+#### SECCION SEGUNDA. DEL PROCEDIMIENTO PARA LA INTEGRACION Y ACTUALIZACION DE LAS TABLAS DE VALOR
 
-> <small>(REFORMADO, G.G. 27 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 154.
 
@@ -9041,9 +8897,9 @@ Por la expedición y renovación anual de la cédula para puestos fijos, semifij
 
 Para el cobro del derecho a que se refiere el presente artículo, la autoridad municipal deberá emitir el reglamento relativo a las modalidades, requisitos y características que deberán tener las cédulas, como son, entre otros, los datos que permitan la identificación del comercio, la persona a quien se expide la cédula, la vigencia de la misma y su carácter no transferible.
 
-#### SECCION PRIMERA. DE LAS DISPOSICIONES GENERALES
+#### SECCION TERCERA. DE LA DETERMINACION DEL VALOR CATASTRAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 155.
 
@@ -9217,7 +9073,9 @@ Por la evaluación de la prestación del servicio de panteones concesionados, el
 
 El pago de este derecho se efectuará mensualmente en la tesorería, presentando una relación de las inhumaciones efectuadas el mes anterior.
 
-#### SECCION SEGUNDA. DEL PROCEDIMIENTO PARA LA DETERMINACION DE LAS APORTACIONES
+#### SECCION PRIMERA. DE LAS DISPOSICIONES GENERALES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 157.
 
@@ -9283,7 +9141,7 @@ El permisionario podrá establecer una cuota fija por tiempo libre o cobrar el s
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
-#### SECCION TERCERA. DE LA ORGANIZACION DE LOS BENEFICIARIOS
+#### SECCION SEGUNDA. DEL PROCEDIMIENTO PARA LA DETERMINACION DE LAS APORTACIONES
 
 ###### Artículo 159.
 
@@ -9531,9 +9389,7 @@ Cuando la expedición de la licencia no se autorice en el primer mes del ejercic
 
 El refrendo deberá pagarse dentro de los primeros tres meses de cada año.
 
-#### SECCION CUARTA. DE LA FORMA DE PAGO
-
-> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
+#### SECCION TERCERA. DE LA ORGANIZACION DE LOS BENEFICIARIOS
 
 ###### Artículo 160.
 
@@ -9567,11 +9423,9 @@ VIII. Primer
 
 comandante. 9.64
 
-#### SECCION PRIMERA. DE LAS DISPOSICIONES GENERALES
+#### SECCION CUARTA. DE LA FORMA DE PAGO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 161.
 
@@ -9593,7 +9447,7 @@ Tratándose de microindustrias ubicadas en los inmuebles de referencia y que est
 
 Los ayuntamientos podrán acordar la aplicación del derecho en aquellas zonas que no tengan un grado relativo de existencia del servicio, a solicitud de los habitantes del área específica del municipio, o por convenio expreso entre éstos y el ayuntamiento, cuando los importes de su recaudación se destinen precisamente a la introducción o ampliación en su caso, de las redes de alumbrado público faltantes o insuficientes, respectivamente.
 
-#### SECCION SEGUNDA. DEL REGISTRO CONTABLE Y PRESUPUESTAL
+#### SECCION PRIMERA. DE LAS DISPOSICIONES GENERALES
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -9663,11 +9517,11 @@ Se consideran residuos sólidos industriales y comerciales, los que así conside
 
 Por uso del relleno sanitario, se deberán cubrir por concepto de derechos 0.776 días de salario mínimo general vigente en el área geográfica que corresponda, por m3 o fracción.
 
-#### SECCION TERCERA. DE LA INFORMACION CONTABLE, PRESUPUESTAL Y FINANCIERA
+#### SECCION SEGUNDA. DEL REGISTRO CONTABLE Y PRESUPUESTAL
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 16 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 166.
 
@@ -10244,6 +10098,12 @@ Cuando no se inscriba un inmueble, no se manifieste su valor o las modificacione
 ### CAPITULO CUARTO. DE LAS TABLAS DE VALOR
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 31 DE DICIEMBRE DE 2001)</small>
+
+#### SECCION TERCERA. DE LA INFORMACION CONTABLE, PRESUPUESTAL Y FINANCIERA
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 16 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 185.
 
@@ -14191,7 +14051,9 @@ IX. Resistirse por cualquier medio a las visitas de verificación; no proporcion
 
 X. No verificar la presentación del aviso de dictamen y del dictamen sobre la determinación de la base del Impuesto Predial en las enajenaciones de inmuebles objeto de dictaminación, de conformidad con el artículo 47 Bis-1, cuarto párrafo de este Código, lo cual se sancionará con una multa de cien y hasta doscientos días de salario mínimo general del área geográfica "A".
 
-Cuando en el ejercicio de sus facultades las autoridades fiscales impongan sanciones a los notarios públicos, deberán informarlo a la Secretaría General de Gobierno.
+> <small>(REFORMADO, G.G. 25 DE FEBRERO DE 2013)</small>
+
+Cuando en el ejercicio de sus facultades las autoridades fiscales impongan sanciones a los notarios públicos, deberán informarlo a la Consejería Jurídica.
 
 > <small>(ADICIONADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
@@ -16174,6 +16036,16 @@ CUARTO.- Los Ayuntamientos realizarán el refrendo a más tardar el 30 de abril 
 .
 
 SEXTO.- Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo dispuesto por el presente Decreto.
+
+G.G. 25 DE FEBRERO DE 2013.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
+
+CUARTO.- El Gobernador del Estado, al presentar la Cuenta Pública del Gobierno del estado de México y Organismos Auxiliares del Ejercicio Fiscal 2013, informará de los recursos ejercidos por la Consejería Jurídica.
 
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE DA A CONOCER EL MANUAL GRÁFICO PARA EL USO DE UNIFORMES, DIVISAS Y EQUIPO DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS”.]
 
