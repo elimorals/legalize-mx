@@ -4,7 +4,7 @@ identifier: "MEX-ley-del-notariado-del-estado-de-mexico-23258"
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-03"
-last_updated: "2013-02-21"
+last_updated: "2013-02-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23258&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY DEL NOTARIADO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 21 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 25 DE FEBRERO DE 2013.
 
 Ley publicada en la Gaceta del Gobierno, el 3 de enero de 2002.
 
@@ -55,7 +55,9 @@ Son autoridades para la aplicación de esta Ley:
 
 I. El Gobernador del Estado;
 
-II. La Secretaría General de Gobierno.
+> <small>(REFORMADA, G.G. 25 DE FEBRERO DE 2013)</small>
+
+II. La Consejería Jurídica del Ejecutivo Estatal.
 
 ###### Artículo 3.
 
@@ -69,7 +71,9 @@ III. Ley, a la Ley del Notariado del Estado de México;
 
 IV. Reglamento, al Reglamento de la Ley del Notariado del Estado de México;
 
-V. Secretaría, a la Secretaría General de Gobierno del Estado de México.
+> <small>(REFORMADA, G.G. 25 DE FEBRERO DE 2013)</small>
+
+V. Consejería, a la Consejería Jurídica del Ejecutivo Estatal.
 
 ###### Artículo 4.
 
@@ -113,9 +117,11 @@ II. Estimaciones sobre las necesidades notariales de la población;
 
 III. Condiciones socioeconómicas de la población del lugar propuesto como residencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 25 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 10.
 
-La Secretaría requerirá a los notarios de la entidad, a través del Colegio, para que realicen las funciones inherentes a su cargo en programas públicos de regularización de la tenencia de la tierra, de escrituración de vivienda de interés social progresiva y popular y otros que satisfagan necesidades colectivas, así como para prestar sus servicios en los casos y términos establecidos en la legislación electoral.
+La Consejería requerirá a los Notarios de la entidad, a través del Colegio, para que realicen las funciones inherentes a su cargo en programas públicos de regularización de la tenencia de la tierra, de escrituración de vivienda de interés social progresiva y popular y otros que satisfagan necesidades colectivas, así como para prestar sus servicios en los casos y términos establecidos en la legislación electoral.
 
 Las autoridades estatales y municipales auxiliarán a los notarios del Estado, para el eficaz desempeño de estas funciones.
 
@@ -153,7 +159,9 @@ XI. Aprobar el examen para aspirante a notario en los términos de esta Ley y su
 
 Solo los aspirantes podrán participar en los exámenes de oposición para obtener el nombramiento de notario.
 
-Se exime de la obligación de presentar examen de aspirante a quien se haya desempeñado como notario interino o provisional en el Estado de México, siempre y cuando cumpla con los requisitos enunciados en el artículo anterior, si resulta aprobatoria la evaluación que practiquen la Secretaría y el Colegio, estando en ese caso, en posibilidad de presentar el examen de oposición.
+> <small>(REFORMADO, G.G. 25 DE FEBRERO DE 2013)</small>
+
+Se exime de la obligación de presentar examen de aspirante, a quien se haya desempeñado como Notario interino o provisional en el Estado de México, siempre y cuando cumpla con los requisitos enunciados en el artículo anterior; siempre que resulte aprobatoria la evaluación que practiquen la Consejería y el Colegio, estando en ese caso, en posibilidad de presentar el examen de oposición.
 
 #### SECCION SEGUNDA. DEL NOMBRAMIENTO DE NOTARIO
 
@@ -171,19 +179,25 @@ III. Aprobar el examen de oposición que para el efecto se realice.
 
 En las notarías de nueva creación o a las que se encuentren vacantes, en tanto se realiza el nombramiento del titular, el Gobernador del Estado podrá nombrar a un notario provisional de entre aquellos que hayan acreditado el examen para aspirante o se hayan desempeñado como notario interino o provisional en el Estado de México.
 
-Si después de transcurrido un año demuestra experiencia, capacidad y eficiencia en el desempeño de la función, evaluado a satisfacción de la Secretaría y el Colegio, el Gobernador del Estado lo podrá nombrar notario titular.
+> <small>(REFORMADO, G.G. 25 DE FEBRERO DE 2013)</small>
+
+Si después de transcurrido un año, demuestra experiencia, capacidad y eficiencia en el desempeño de la función, habiendo sido evaluado a satisfacción de la Consejería y el Colegio; el Gobernador del Estado lo podrá nombrar Notario titular.
 
 ###### Artículo 15.
 
 Cuando una o más notarías se encuentren vacantes, el Gobernador del Estado emitirá una convocatoria a examen de oposición para ocuparlas, la que se publicará en el periódico oficial "Gaceta del Gobierno" y en dos diarios de mayor circulación en la entidad, de conformidad a las disposiciones previstas en el Reglamento.
 
+> <small>(REFORMADO, G.G. 25 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 16.
 
-Los nombramientos de notarios serán expedidos por el Gobernador del Estado, mediante acuerdo que contenga los siguientes datos: nombre y apellidos de la persona a quien se confiere, lugar de residencia, número de notaría que le corresponda y fecha del nombramiento, el cual surtirá sus efectos a partir de su publicación en el periódico oficial "Gaceta del Gobierno" y en dos diarios de mayor circulación en la entidad, y se registrará en la Secretaría, en el Archivo y ante el Colegio.
+Los nombramientos de Notarios, serán expedidos por el Gobernador del Estado, mediante acuerdo que contenga los siguientes datos: nombre y apellidos de la persona a quien se confiere, lugar de residencia, número de Notaría que le corresponda y fecha del nombramiento, el cual surtirá sus efectos a partir de su publicación en el periódico oficial "Gaceta del Gobierno" y en dos diarios de mayor circulación en la Entidad, y se registrará en la Consejería, en el Archivo y ante el Colegio.
+
+> <small>(REFORMADO, G.G. 25 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 17.
 
-En la Secretaría, en el Archivo y en el Colegio habrá un expediente de cada notario, para su control correspondiente.
+En la Consejería, en el Archivo y en el Colegio habrá un expediente de cada Notario, para su control correspondiente.
 
 ###### Artículo 18.
 
@@ -195,7 +209,9 @@ II. Otorgar depósito en efectivo ante el Colegio para integrarlo al Fondo de Ga
 
 III. Proveerse a su costa del protocolo y sello de autorizar;
 
-IV. Registrar el sello de autorizar y su firma anta la Secretaría, el Archivo y el Colegio;
+> <small>(REFORMADA, G.G. 25 DE FEBRERO DE 2013)</small>
+
+IV. Registrar el sello de autorizar y su firma ante la Consejería, el Archivo y el Colegio;
 
 V. Establecer la notaría en el lugar de su residencia e iniciar funciones dentro de los noventa días hábiles siguientes a su protesta, dando aviso a las autoridades que señala el Reglamento, al Colegio y a la comunidad, mediante publicación a su costa en el periódico oficial "Gaceta del Gobierno" y en dos diarios de mayor circulación en el Estado de México.
 
@@ -233,7 +249,9 @@ Son obligaciones de los notarios:
 
 I. Ejercer la función notarial con probidad, diligencia, eficiencia e imparcialidad, constituyéndose en consejero de quienes solicitan sus servicios;
 
-II. Guardar secreto de los actos pasados ante ellos, salvo de los que requieran la Secretaría, las autoridades jurisdiccionales o el Ministerio Público;
+> <small>(REFORMADA, G.G. 25 DE FEBRERO DE 2013)</small>
+
+II. Guardar secreto de los actos pasados ante ellos, salvo de los que requieran la Consejería, las autoridades jurisdiccionales o el Ministerio Público;
 
 III. Ejercer sus funciones cuando sean solicitados o requeridos, siempre que no exista para ello algún impedimento o motivo de excusa;
 
@@ -265,7 +283,9 @@ Este impedimento se entenderá para el notario suplente, asociado e interino, cu
 
 IV. Recibir dinero o documentos a su nombre que representen numerario, a menos que se trate de honorarios o del monto de los impuestos y derechos que deban pagar con motivo del ejercicio de sus funciones;
 
-V. Establecer oficina en local diverso al registrado ante la Secretaría, para atender al público en trámites relacionados con la notaría a su cargo;
+> <small>(REFORMADA, G.G. 25 DE FEBRERO DE 2013)</small>
+
+V. Establecer oficina en local diverso al registrado ante la Consejería, para atender al público en trámites relacionados con la Notaría a su cargo;
 
 VI. Los demás que establezcan otros ordenamientos.
 
@@ -291,11 +311,15 @@ VI. Patrocinar a los interesados en el trámite para obtener el registro de test
 
 Dentro de los treinta días hábiles siguientes al de su protesta, los notarios de una misma residencia deberán celebrar convenios para suplirse recíprocamente en sus faltas temporales. Cuando sólo haya un notario, el convenio lo celebrará con los de las residencias más cercanas.
 
-Si los notarios no celebran convenios de suplencia dentro del plazo que se les concede, la Secretaría determinará la forma de llevarla a cabo y quiénes deberán suplirse entre sí. No se podrá suplir a más de un notario a la vez.
+> <small>(REFORMADO, G.G. 25 DE FEBRERO DE 2013)</small>
+
+Si los Notarios no celebran convenios de suplencia dentro del plazo que se les concede, la Consejería determinará la forma de llevarla a cabo y quiénes deberán suplirse entre sí. No se podrá suplir a más de un Notario a la vez.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 25 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 24.
 
-Los notarios podrán separarse del ejercicio de su función hasta por quince días hábiles consecutivos o alternados cada seis meses, debiendo dar aviso por escrito de su separación y su regreso a la Secretaría y a quien deba suplirlos.
+Los Notarios podrán separarse del ejercicio de su función hasta por quince días hábiles consecutivos o alternados cada seis meses, debiendo dar aviso por escrito de su separación y su regreso a la Consejería y a quien deba suplirlos.
 
 No podrán acumularse los quince días de un semestre con los del siguiente, debiendo mediar entre ambos un período de por lo menos treinta días hábiles en el ejercicio de la función.
 
@@ -317,17 +341,23 @@ Cuando se haya obtenido esta licencia, no podrán solicitar otra igual hasta des
 
 EL Gobernador del Estado concederá licencia por el tiempo que sea necesario cuando el notario sea designado para el desempeño de cargos de elección popular.
 
-Los notarios deberán separarse temporalmente del ejercicio de la función notarial, cuando participen como candidatos en procesos electorales, a partir de la fecha de su registro como tales ante la autoridad electoral correspondiente, dando aviso por escrito a la Secretaría, para lo cual entrará en funciones el suplente.
+> <small>(REFORMADO, G.G. 25 DE FEBRERO DE 2013)</small>
 
-Concluido el período para el que el notario fue electo o designado, se reincorporará al desempeño de la función notarial, previo aviso por escrito a la Secretaría.
+Los Notarios deberán separarse temporalmente del ejercicio de la función notarial, cuando participen como candidatos en procesos electorales, a partir de la fecha de su registro como tales ante la autoridad electoral correspondiente, dando aviso por escrito a la Consejería, para lo cual entrará en funciones el suplente.
+
+> <small>(REFORMADO, G.G. 25 DE FEBRERO DE 2013)</small>
+
+Concluido el período para el que el Notario fue electo o designado, se reincorporará al desempeño de la función notarial, previo aviso por escrito a la Consejería.
 
 ###### Artículo 29.
 
 En los casos de separación de los notarios por licencia o suspensión, el Gobernador del Estado, al conceder aquélla u ordenar ésta, designará notario de entre los aspirantes o a quien se haya desempeñado como notario interino o provisional, para que se haga cargo interinamente de la notaría de que se trate.
 
+> <small>(REFORMADO, G.G. 25 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 30.
 
-En caso de que un notario se separe temporalmente del desempeño de su función por enfermedad u otra razón imprevista, su suplente entrará de inmediato en funciones, previo aviso por escrito que cualquiera de los dos presente a la Secretaría. La suplencia se referirá al desempeño de la función notarial, sin que el suplente deba tomar a su cargo responsabilidades pecuniarias.
+En caso de que un Notario se separe temporalmente del desempeño de su función por enfermedad u otra razón imprevista, su suplente entrará de inmediato en funciones, previo aviso por escrito que cualquiera de los dos presente a la Consejería. La suplencia se referirá al desempeño de la función notarial, sin que el suplente deba tomar a su cargo responsabilidades pecuniarias.
 
 #### SECCION TERCERA. DE LA ASOCIACION DE NOTARIOS Y DE LA PERMUTA DE NOTARIAS
 
@@ -335,11 +365,13 @@ En caso de que un notario se separe temporalmente del desempeño de su función 
 
 Dos notarios titulares de un mismo lugar de residencia o de la residencia más cercana cuando haya uno solo, podrán asociarse por el tiempo que convengan, para actuar indistintamente en el protocolo del notario con mayor antigüedad en el ejercicio notarial. Cada notario usará su propio sello en sus actuaciones, quedando prohibida la intervención de ambos en un mismo acto.
 
+> <small>(REFORMADO, G.G. 25 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 32.
 
-El convenio de asociación entre notarios deberá presentarse a la Secretaría para su aprobación.
+El convenio de asociación entre Notarios, deberá presentarse a la Consejería para su aprobación.
 
-Aprobado el convenio de asociación, la Secretaría con intervención de un representante del Colegio, asentará la razón de clausura extraordinaria a la que se refiere el artículo 74, haciendo constar que actuarán asociadamente cada uno en el protocolo del más antiguo.
+Aprobado el convenio de asociación, la Consejería con intervención de un representante del Colegio, asentará la razón de clausura extraordinaria a la que se refiere el artículo 74, haciendo constar que actuarán asociadamente cada uno en el protocolo del más antiguo.
 
 ###### Artículo 33.
 
@@ -375,9 +407,13 @@ La celebración y la terminación del convenio de asociación deberán publicars
 
 Los convenios de permuta se celebrarán únicamente entre dos notarios titulares, quienes recibirán nuevo nombramiento, debiendo cumplir los requisitos señalados en el artículo 18 de esta Ley.
 
-Artículos 39.- En la permuta de notarías, la Secretaría con la intervención de un representante de Colegio, asentará en los protocolos de los notarios permutantes la razón de clausura extraordinaria y realizará la entrega recepción de ambas notarías.
+> <small>(REFORMADO, G.G. 25 DE FEBRERO DE 2013)</small>
 
-Los sellos de los notarios permutantes, serán recogidos por la Secretaría y remitidos en el término de cinco días hábiles al Archivo, para su destrucción.
+###### Artículo 39.
+
+En la permuta de notarías, la Consejería con la intervención de un representante de Colegio, asentará en los protocolos de los Notarios permutantes la razón de clausura extraordinaria y realizará la entrega recepción de ambas notarías.
+
+Los sellos de los Notarios permutantes, serán recogidos por la Consejería y remitidos en el término de cinco días hábiles al Archivo, para su destrucción.
 
 #### SECCION CUARTA. DE LA SUSPENSIÓN DE NOTARIOS Y DE LA TERMINACION DEL NOMBRAMIENTO
 
@@ -405,39 +441,53 @@ IV. Sentencia ejecutoriada que imponga una pena privativa de libertad por la com
 
 V. Resolución del Gobernador del Estado, en los términos y condiciones de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 25 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 42.
 
-En los supuestos previstos en las fracciones II del artículo 40 y III del artículo 41, tan luego como el Gobernador del Estado tenga conocimiento de que un notario está imposibilitado para ejercer la función notarial, solicitará a la Procuraduría General de Justicia la designación de dos peritos médicos, teniendo el notario derecho a nombrar dos peritos médicos, quienes practicarán exámenes físicos y psicométricos al notario, en presencia de un representante de la Secretaría y otro del Colegio y dictaminarán sobre el padecimiento, su duración, y si éste lo imposibilita para ejercer la función notarial, ajustándose a los términos y condiciones establecidos en el Reglamento.
+En los supuestos previstos en las fracciones II del artículo 40 y III del artículo 41, tan luego como el Gobernador del Estado tenga conocimiento de que un Notario está imposibilitado para ejercer la función notarial, solicitará a la Procuraduría General de Justicia la designación de dos peritos médicos, teniendo el Notario el derecho de nombrar a dos peritos médicos, quienes practicarán exámenes físicos y psicométricos al Notario, en presencia de un representante de la Consejería y otro del Colegio y dictaminarán sobre el padecimiento, su duración, y si éste lo imposibilita para ejercer la función notarial, ajustándose a los términos y condiciones establecidos en el Reglamento.
 
 El dictamen será remitido al Gobernador del Estado, quien resolverá la suspensión o la terminación, en su caso, haciéndolo del conocimiento del Colegio.
 
+> <small>(REFORMADO, G.G. 25 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 43.
 
-Los oficiales del Registro Civil y el Colegio, cuando conozcan del fallecimiento de un notario, lo deberán comunicar inmediatamente a la Secretaría.
+Los oficiales del Registro Civil y el Colegio, cuando conozcan del fallecimiento de un Notario, lo deberán comunicar inmediatamente a la Consejería.
+
+> <small>(REFORMADO, G.G. 25 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 44.
 
-Cuando un juez declare la interdicción de un notario, lo comunicará a la Secretaría y al Colegio, para los efectos de la fracción II del artículo 40.
+Cuando un juez declare la interdicción de un Notario, lo comunicará a la Consejería y al Colegio, para los efectos de la fracción II del artículo 40.
+
+> <small>(REFORMADO, G.G. 25 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 45.
 
-El juez que inicie proceso en contra de algún notario por delito doloso, remitirá inmediatamente a la Secretaría y al Colegio copia certificada del auto de formal prisión o de sujeción a proceso y, en su oportunidad, de la sentencia ejecutoriada, para los efectos de los artículos 40 fracción I o 41 fracción IV de esta Ley.
+El juez que inicie proceso en contra de algún Notario por delito doloso, remitirá inmediatamente a la Consejería y al Colegio copia certificada del auto de formal prisión o de sujeción a proceso y, en su oportunidad, de la sentencia ejecutoriada, para los efectos de los artículos 40 fracción I o 41 fracción IV de esta Ley.
+
+> <small>(REFORMADO, G.G. 25 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 46.
 
-La declaratoria de terminación de la función de un notario y de los interinatos, la hará el Gobernador del Estado, quien ordenará su publicación por una sola vez en el periódico oficial "Gaceta del Gobierno" y en uno de los periódicos de mayor circulación en la entidad. La Secretaría lo comunicará a las instancias a que se refiere el artículo 18 fracción V de la Ley.
+La declaratoria de terminación de la función de un Notario y de los interinatos, la hará el Gobernador del Estado, quien ordenará su publicación por una sola vez en el periódico oficial "Gaceta del Gobierno" y en uno de los periódicos de mayor circulación en la entidad. La Consejería lo comunicará a las instancias a que se refiere el artículo 18 fracción V de la Ley.
 
 ## TITULO SEGUNDO. DEL SELLO DE AUTORIZAR Y DEL PROTOCOLO
 
 ### CAPITULO PRIMERO. DEL SELLO DE AUTORIZAR
 
+> <small>(REFORMADO, G.G. 25 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 47.
 
-El notario recabará autorización de la Secretaría para obtener su sello, que será de forma circular, con un diámetro de cuatro centímetros, con el Escudo Nacional en el centro e inscrito en rededor el nombre y apellidos del notario, número de la notaría y residencia.
+El Notario recabará autorización de la Consejería para obtener su sello, que será de forma circular, con un diámetro de cuatro centímetros, con el Escudo Nacional en el centro e inscrito en rededor el nombre y apellidos del notario, número de la notaría y residencia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 25 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 48.
 
-En caso de extravío, alteración o destrucción del sello, el notario lo comunicara inmediatamente a la Secretaría, solicitando autorización para proveerse de otro a su costa, tomando en consideración las disposiciones que al respecto señale el Reglamento.
+En caso de extravío, alteración o destrucción del sello, el Notario lo comunicará inmediatamente a la Consejería, solicitando autorización para proveerse de otro a su costa, tomando en consideración las disposiciones que al respecto señale el Reglamento.
 
 Tratándose de extravío o robo, se presentará denuncia ante el Ministerio Público, dentro de las cuarenta y ocho horas siguientes al hecho.
 
@@ -459,11 +509,15 @@ En todos los casos anteriores, el Titular del Archivo hará constar en acta tal 
 
 Protocolo es el libro o conjunto de libros que se forman con los folios separados y numerados progresivamente en los que el notario asienta y autentifica, con las formalidades de ley, los actos y hechos jurídicos otorgados ante su fe, así como los libros de cotejos y sus correspondientes apéndices e índices.
 
-La Secretaría asentará en los folios entregados por el Colegio, en una hoja en blanco, razón que contenga el lugar y la fecha de autorización; el número de folios entregados y el volumen o volúmenes a los que correspondan; el nombre y apellidos del notario; el número de la notaría y su lugar de residencia; así como la expresión de que esos folios solamente deben ser utilizados por el notario para quien se autorizan, por su asociado o por quien legalmente lo sustituya en sus funciones.
+> <small>(REFORMADO, G.G. 25 DE FEBRERO DE 2013)</small>
+
+La Consejería asentará en los folios entregados por el Colegio, en una hoja en blanco, razón que contenga el lugar y la fecha de autorización; el número de folios entregados y el volumen o volúmenes a los que correspondan; el nombre y apellidos del notario; el número de la notaría y su lugar de residencia; así como la expresión de que esos folios solamente deben ser utilizados por el notario para quien se autorizan, por su asociado o por quien legalmente lo sustituya en sus funciones.
 
 La hoja en que conste esta razón deberá encuadernarse al principio de cada volumen autorizado.
 
-La Secretaría comunicará al Archivo la fecha de autorización de los folios para su control correspondiente.
+> <small>(REFORMADO, G.G. 25 DE FEBRERO DE 2013)</small>
+
+La Consejería comunicará al Archivo la fecha de autorización de los folios para su control correspondiente.
 
 ###### Artículo 51.
 
@@ -481,7 +535,9 @@ Los folios de protocolo tendrán a los lados un espacio en blanco de 3 centímet
 
 II. Llevarán impreso en el ángulo superior derecho del anverso el número del folio, que será del 1 al 150; el número del volumen; el número de la notaría y la residencia;
 
-III. Serán autorizados cada uno por la Secretaría.
+> <small>(REFORMADA, G.G. 25 DE FEBRERO DE 2013)</small>
+
+III. Serán autorizados cada uno por la Consejería.
 
 ###### Artículo 53.
 
@@ -493,9 +549,11 @@ La numeración progresiva será a partir de la primera de la notaría, sin que s
 
 El notario no podrá autorizar acto alguno sin que lo haga constar en los folios que forman el protocolo, salvo los que deban constar en el libro de cotejos.
 
+> <small>(REFORMADO, G.G. 25 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 54.
 
-Al iniciar la formación de un libro, el notario asentará en una hoja en blanco, una razón con su sello y firma, la que deberá encuadernarse después de la autorización de la Secretaría, en la que hará constar la fecha en que se inicia, el número que le corresponda y la mención de que el libro se formará con las escrituras y actas notariales autorizadas por el notario o por quien legalmente lo sustituya.
+Al iniciar la formación de un libro, el Notario asentará en una hoja en blanco, una razón con su sello y firma, la que deberá encuadernarse después de la autorización de la Consejería, en la que hará constar la fecha en que se inicia, el número que le corresponda y la mención de que el libro se formará con las escrituras y actas notariales autorizadas por el notario o por quien legalmente lo sustituya.
 
 ###### Artículo 55.
 
@@ -547,9 +605,11 @@ Los notarios tendrán obligación de llevar por duplicado y por cada juego de li
 
 Al entregar el libro o juego de libros al Archivo, el notario acompañará un ejemplar de su índice y el otro lo conservará en la notaría.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 25 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 65.
 
-Los notarios llevarán además un protocolo que se denominará especial, autorizado por la Secretaría para operaciones en que los Gobiernos Federal y Estatal y los municipios sean parte, en el que se consignarán los actos siguientes:
+Los Notarios llevarán además un protocolo que se denominará especial, autorizado por la Consejería para operaciones en que los Gobiernos Federal y Estatal y los municipios sean parte, en el que se consignarán los actos siguientes:
 
 I. Los celebrados con la finalidad de fomentar y constituir vivienda de interés social y popular progresiva;
 
@@ -583,9 +643,11 @@ En el protocolo especial federal se estará a lo dispuesto en esta Ley, en lo qu
 
 Los notarios, al autorizar un instrumento, certificarán una copia de éste que deberá ser fiel reproducción de los folios y la agregaran al apéndice, a efecto de que conste fehacientemente su otorgamiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 25 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 71.
 
-La pérdida o destrucción total o parcial de algún folio o libro del protocolo deberá ser comunicada inmediatamente por el notario a la Secretaría, quien autorizará su reposición y la restitución de los instrumentos en ellos contenidos en papel ordinario.
+La pérdida o destrucción total o parcial de algún folio o libro del protocolo deberá ser comunicada inmediatamente por el Notario a la Consejería, quien autorizará su reposición y la restitución de los instrumentos en ellos contenidos en papel ordinario.
 
 En caso de pérdida o robo, el notario presentará denuncia ante el Ministerio Público, dentro de las cuarenta y ocho horas siguientes.
 
@@ -613,17 +675,21 @@ Cuando el notario considere que ya no puede dar cabida a otro instrumento más e
 
 La razón se asentará en hoja en blanco que se encuadernará al final del volumen y será autorizada con su firma y sello, además se inutilizarán por medio de líneas diagonales los folios en blanco.
 
+> <small>(REFORMADO, G.G. 25 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 74.
 
-Cuando un notario se separe de su notaría por alguna de las causas señaladas en esta Ley, así como en el caso de asociación o reubicación de notarios y permuta de notarías, con intervención de un representante de la Secretaría y otro del Colegio se asentará razón de clausura extraordinaria en el folio siguiente al último utilizado de los volúmenes en uso, asentando los mismos datos que en la clausura ordinaria y agregando todas las circunstancias que estimen convenientes, firmando los que intervengan.
+Cuando un Notario se separe de su notaría por alguna de las causas señaladas en esta Ley, así como en el caso de asociación o reubicación de notarios y permuta de notarías, con intervención de un representante de la Consejería y otro del Colegio se asentará razón de clausura extraordinaria en el folio siguiente al último utilizado de los volúmenes en uso, asentando los mismos datos que en la clausura ordinaria y agregando todas las circunstancias que estimen convenientes, firmando los que intervengan.
 
 ###### Artículo 75.
 
 El notario suspendido o el que deje de serlo, asistirá, en su caso, a la clausura del protocolo y a la entrega de la notaría.
 
+> <small>(REFORMADO, G.G. 25 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 76.
 
-En los casos de terminación del nombramiento de notario, en tanto no sea designado otro, la Secretaría remitirá para su guarda al Archivo la documentación de la notaría de que se trate, conforme al inventario realizado.
+En los casos de terminación del nombramiento de Notario, en tanto no sea designado otro, la Consejería remitirá para su guarda al Archivo la documentación de la notaría de que se trate, conforme al inventario realizado.
 
 ###### Artículo 77.
 
@@ -1033,9 +1099,11 @@ El Colegio coordinará a los notarios que desempeñen la función de arbitro o m
 
 ### CAPITULO PRIMERO. DEL ARCHIVO GENERAL DE NOTARIAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 25 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 131.
 
-El Archivo tiene a su cargo la custodia, conservación y reproducción de los documentos contenidos en los protocolos y sus apéndices, así como la guarda de los sellos y demás documentos que en él se depositen; dependerá de la Secretaría y tendrá su sede en la capital del Estado, pudiendo establecer oficinas regionales de acuerdo a las necesidades del servicio.
+El Archivo tiene a su cargo la custodia, conservación y reproducción de los documentos contenidos en los protocolos y sus apéndices, así como la guarda de los sellos y demás documentos que en él se depositen; dependerá de la Consejería y tendrá su sede en la capital del Estado, pudiendo establecer oficinas regionales de acuerdo a las necesidades del servicio.
 
 El Archivo conservará el patrimonio histórico contenido en los protocolos notariales.
 
@@ -1081,9 +1149,13 @@ XI. Dar apoyo a las autoridades judiciales y administrativas en el cumplimiento 
 
 XII. Integrar expedientes de las notarías y de los notarios en lo que corresponda, así como los registros de los actos relacionados con la función notarial que deban ser objeto de control;
 
-XIII. Informar a la Secretaría las irregularidades en los protocolos que entreguen los notarios;
+> <small>(REFORMADA, G.G. 25 DE FEBRERO DE 2013)</small>
 
-XIV. Las demás que señale esta Ley, su Reglamento, otros ordenamientos legales y las que le confiera la Secretaría.
+XIII. Informar a la Consejería las irregularidades en los protocolos que entreguen los Notarios;
+
+> <small>(REFORMADA, G.G. 25 DE FEBRERO DE 2013)</small>
+
+XIV. Las demás que señale esta Ley, su Reglamento, otros ordenamientos legales y las que le confiera la Consejería.
 
 ### CAPITULO SEGUNDO. DEL COLEGIO DE NOTARIOS
 
@@ -1099,11 +1171,15 @@ I. Promover la superación profesional de sus miembros y otorgarles reconocimien
 
 II. Preservar los valores jurídicos y éticos tutelados por la Ley;
 
-III. Auxiliar al Gobernador del Estado y a la Secretaría en la vigilancia del cumplimiento de esta Ley, su Reglamento y las disposiciones notariales que dicte;
+> <small>(REFORMADA, G.G. 25 DE FEBRERO DE 2013)</small>
+
+III. Auxiliar al Gobernador del Estado y a la Consejería en la vigilancia del cumplimiento de esta Ley, su Reglamento y las disposiciones notariales que dicte;
 
 IV. Asesorar en materia notarial al Gobierno del Estado;
 
-V. Estudiar y opinar sobre los asuntos que le encomiende el Gobernador del Estado y la Secretaría;
+> <small>(REFORMADA, G.G. 25 DE FEBRERO DE 2013)</small>
+
+V. Estudiar y opinar sobre los asuntos que le encomiende el Gobernador del Estado y la Consejería;
 
 VI. Resolver las consultas que le formulen los notarios referentes al ejercicio de sus funciones;
 
@@ -1153,7 +1229,9 @@ El Fondo de Garantía será administrado y operado por un Comité.
 
 El Presidente, el Secretario, el Tesorero y los vocales del Comité serán los del Consejo Directivo, todos con derechos a voz y voto, teniendo el primero, voto de calidad.
 
-La Secretaría designará un representante para que funja como vocal ante el propio Comité.
+> <small>(REFORMADO, G.G. 25 DE FEBRERO DE 2013)</small>
+
+La Consejería designará un representante para que funja como vocal ante el propio Comité.
 
 ###### Artículo 142.
 
@@ -1175,9 +1253,11 @@ IV. Otros que señale el Reglamento.
 
 ### CAPITULO PRIMERO. DE LA SUPERVISION NOTARIAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 25 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 144.
 
-Para ejercer la supervisión de la función notarial, la Secretaría tendrá a su cargo las atribuciones siguientes:
+Para ejercer la supervisión de la función notarial, la Consejería tendrá a su cargo las atribuciones siguientes:
 
 I. Practicar inspecciones ordinarias y especiales a las notarías del Estado;
 
@@ -1195,13 +1275,17 @@ VII. Tramitar los asuntos relacionados con el notariado del Estado;
 
 VIII. Las demás que le señalen esta Ley y otros ordenamientos.
 
+> <small>(REFORMADO, G.G. 25 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 145.
 
-Para vigilar que el funcionamiento de las notarías se realice con apego a la ley, la Secretaría podrá ordenar en cualquier tiempo la práctica de visitas de inspección.
+Para vigilar que el funcionamiento de las notarías se realice con apego a la ley, la Consejería podrá ordenar en cualquier tiempo la práctica de visitas de inspección.
+
+> <small>(REFORMADO, G.G. 25 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 146.
 
-La Secretaría ordenará inspecciones ordinarias, que deberán practicarse obligatoriamente por lo menos dos veces al año; y especiales, cuando tenga conocimiento, por queja o por cualquier otro medio, de que un notario ha incurrido en una probable contravención a la ley.
+La Consejería ordenará inspecciones ordinarias, que deberán practicarse obligatoriamente por lo menos dos veces al año; y especiales, cuando tenga conocimiento, por queja o por cualquier otro medio, de que un notario ha incurrido en una probable contravención a la ley.
 
 ###### Artículo 147.
 
@@ -1245,17 +1329,21 @@ Los notarios serán civilmente responsables de los daños y perjuicios que ocasi
 
 Los notarios podrán ser responsables penalmente, si como consecuencia de una sentencia ejecutoriada se declara la nulidad de un instrumento público otorgado ante su fe, por causas que le sean imputables y que puedan ser constitutivas de delito.
 
+> <small>(REFORMADO, G.G. 25 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 149.
 
-El Ministerio Público comunicará a la Secretaría y al Colegio, el inicio de cualquier averiguación previa radicada en el territorio del Estado, en contra de algún notario de la entidad.
+El Ministerio Público comunicará a la Consejería y al Colegio, el inicio de cualquier averiguación previa radicada en el territorio del Estado, en contra de algún Notario de la entidad.
 
 ###### Artículo 150.
 
 Los notarios tendrán la obligación de enterar oportunamente el monto de las contribuciones a cargo de terceros que les haya sido entregado para tal efecto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 25 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 151.
 
-El Gobernador del Estado por conducto de la Secretaría, determinará la responsabilidad administrativa en que incurran los notarios por contravenir los preceptos de esta Ley y su Reglamento y, atendiendo a su gravedad, podrá aplicar las sanciones siguientes:
+El Gobernador del Estado por conducto de la Consejería, determinará la responsabilidad administrativa en que incurran los notarios por contravenir los preceptos de esta Ley y su Reglamento y, atendiendo a su gravedad, podrá aplicar las sanciones siguientes:
 
 I. Amonestación;
 
@@ -1265,9 +1353,11 @@ III. Suspensión;
 
 IV. Revocación del nombramiento.
 
+> <small>(REFORMADO, G.G. 25 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 152.
 
-Para aplicar las sanciones a que se refiere el artículo anterior, la Secretaría fundará y motivará su resolución, tomando en cuenta las circunstancias, la gravedad del caso y los antecedentes del notario.
+Para aplicar las sanciones a que se refiere el artículo anterior, la Consejería fundará y motivará su resolución, tomando en cuenta las circunstancias, la gravedad del caso y los antecedentes del notario.
 
 ###### Artículo 153.
 
@@ -1283,7 +1373,9 @@ IV. No cumplir las obligaciones establecidas en el artículo 10 de esta Ley;
 
 V. No otorgar las facilidades necesarias a los inspectores en el ejercicio de sus atribuciones;
 
-VI. No atender los requerimientos formulados por la Secretaría para tratar asuntos relativos al ejercicio de su función, sin que medie causa justificada;
+> <small>(REFORMADA, G.G. 25 DE FEBRERO DE 2013)</small>
+
+VI. No atender los requerimientos formulados por la Consejería para tratar asuntos relativos al ejercicio de su función, sin que medie causa justificada;
 
 VII. Incurrir en actos u omisiones que puedan ser subsanados;
 
@@ -1339,7 +1431,9 @@ Para los efectos de la presente disposición se entenderá que el notario ha inc
 
 b). Permitir la suplantación de su persona o el uso por un tercero de su sello de autorizar o su firma.
 
-c). Rendir informes falsos a la Secretaría, autoridades jurisdiccionales o al Ministerio Público.
+> <small>(REFORMADO, G.G. 25 DE FEBRERO DE 2013)</small>
+
+c). Rendir informes falsos a la Consejería, autoridades jurisdiccionales o al Ministerio Público.
 
 d). Reincidir en el supuesto establecido en la fracción III del artículo anterior.
 
@@ -1389,9 +1483,11 @@ Se aplicará la pena que corresponda al delito de falso testimonio previsto en e
 
 ### CAPITULO UNICO. DEL ARANCEL
 
+> <small>(REFORMADO, G.G. 25 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 161.
 
-La Secretaría expedirá y publicará anualmente en el periódico oficial "Gaceta del Gobierno" el Arancel al que los notarios sujetarán el cobro de sus honorarios, el cual se determinará conforme al salario mínimo.
+La Consejería expedirá y publicará anualmente en el periódico oficial "Gaceta del Gobierno" el Arancel al que los Notarios deberán sujetar el cobro de sus honorarios, el cual se determinará conforme al salario mínimo.
 
 ###### Artículo 162.
 
@@ -1448,3 +1544,13 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 25 DE FEBRERO DE 2013.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
+
+CUARTO.- El Gobernador del Estado, al presentar la Cuenta Pública del Gobierno del estado de México y Organismos Auxiliares del Ejercicio Fiscal 2013, informará de los recursos ejercidos por la Consejería Jurídica.
