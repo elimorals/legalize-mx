@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-procuraduria-general-de-justicia-del-67783"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-03-20"
-last_updated: "2012-12-19"
+last_updated: "2013-02-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67783&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE FEBRERO DE 2013.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 20 de marzo de 2009.
 
@@ -392,6 +392,20 @@ IV. Informar al Ministerio Público de la Federación del inicio de las investig
 V. Ejecutar las técnicas de investigación que establece el artículo 180 Bis del Código Federal de Procedimientos Penales en los casos de los delitos previstos en el Capítulo VII del Título Décimo Octavo de la Ley General de Salud, cuya competencia sea local, en los términos del artículo 474 del mismo ordenamiento, conforme a las bases que acuerde el Titular de la Institución con las autoridades federales competentes; y
 
 VI. Las demás que establezcan las normas aplicables.
+
+> <small>(ADICIONADO, G.G. 25 DE FEBRERO DE 2013)</small>
+
+E. En materia de técnicas de investigación:
+
+I. Solicitar al Juez de Control, la autorización para realizar las técnicas de investigación que requieren control judicial y que se encuentran contenidas en el Código de Procedimientos Penales para el Estado de México;
+
+II. Aplicar las técnicas de investigación que no requieren control judicial, en términos del Código de Procedimientos Penales de la entidad, los programas y protocolos que al efecto se emitan y demás disposiciones aplicables;
+
+III. Solicitar al Procurador o algún subprocurador, mediante escrito fundado y motivado la autorización para emplear las técnicas de investigación o bien para solicitar la autorización del órgano jurisdiccional según corresponda;
+
+IV. La información que se genere con las técnicas de investigación, es de estricta confidencialidad, cuya revelación no autorizada será sancionada con las disposiciones penales aplicables; y
+
+V. El servidor público involucrado en las técnicas de investigación a que se refiere esta Ley, deberá contar con la correspondiente certificación de control de confianza, establecida en el Sistema Nacional de Seguridad Pública.
 
 ### CAPITULO IV. Aplicación de la ley
 
@@ -1160,3 +1174,11 @@ CUARTO.- Las atribuciones y facultades que se otorgan a la Consejería Jurídica
 QUINTO.- Los recursos humanos, materiales y financieros de la Subsecretaría de Asuntos Jurídicos, serán transferidos a partir de la entrada en vigor del presente Decreto a la Consejería Jurídica del Ejecutivo Estatal.
 
 SEXTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
+
+G.G. 25 DE FEBRERO DE 2013.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- La Procuraduría General de Justicia del Estado de México emitirá los Protocolos en materia de técnicas de investigación en un plazo no mayor a seis meses contados a partir de la entrada en vigor del presente Decreto.
