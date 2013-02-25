@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-trabajadores-al-servicio-de-los-gobiernos-12047"
 country: "mx"
 rank: "ley"
 publication_date: "1987-12-31"
-last_updated: "2012-12-10"
+last_updated: "2013-02-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12047&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS ESTATAL Y MUNICIPALES, ASÍ COMO DE LOS ORGANISMOS DESCENTRALIZADOS, DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 31 de diciembre de 1987.
 
@@ -43,21 +43,21 @@ LEY DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS ESTATAL Y MUNICIPALES, ASI 
 
 La presente ley es reglamentaria de la fracción XXII del artículo 56 de la Constitución Política del Estado y sus disposiciones son de observancia general para los titulares y los trabajadores de base de los Poderes Ejecutivo, Legislativo y Judicial y de los organismos descentralizados de la Administración Pública, así como para los titulares y los trabajadores de los Ayuntamientos, en el Estado de Hidalgo.
 
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2013)</small>
+
 ###### ARTICULO 2o.
 
-Para los efectos de esta ley tienen el carácter de titulares:
+Para los efectos de esta Ley tienen el carácter de titulares:
 
-I. En el Poder Ejecutivo, el Gobernador del Estado, quien podrá actuar por conducto del Oficial Mayor, así como de los Secretarios de despacho según sus respectivas atribuciones;
+I.- En el Poder Ejecutivo, el Gobernador del Estado, quién podrá actuar por conducto del Secretario encargado del ramo, en términos de sus facultades legalmente encomendadas;
 
-En el caso del Tribunal Fiscal Administrativo del Estado, tendrá el carácter de titular el Presidente de dicho órgano;
+II.- En el Poder Legislativo, el Presidente de la Junta de Gobierno; en términos de lo dispuesto por el Artículo 101 fracción X de la Ley Orgánica del Poder Legislativo;
 
-II. En el Poder Legislativo, el Presidente del Congreso, quien actuará por conducto del Coordinador General;
+III.- En el Poder Judicial, el Presidente del Tribunal Superior de Justicia y Presidente del Consejo de la Judicatura, en términos de lo dispuesto por el Artículo 20 de la Ley Orgánica del Poder Judicial;
 
-III. En el Poder Judicial, el Tribunal Superior de Justicia, en Pleno, el que podrá actuar por conducto de su Presidente o de su Director de Administración;
+IV.- En los Organismos Descentralizados de la Administración Pública del Estado, quienes ejerzan su representación; y
 
-IV. En los organismos descentralizados de la Administración Pública del Estado, quienes ejerzan su representación;
-
-V. En los Ayuntamientos, los respectivos Presidentes Municipales y los Síndicos, en la esfera de sus atribuciones.
+V.- En los Ayuntamientos, los Presidentes Municipales en la esfera de sus atribuciones.
 
 ###### ARTICULO 3o.
 
@@ -391,6 +391,8 @@ VIII. Asistir a los institutos de capacitación para mejorar su preparación y e
 
 ### CAPITULO UNICO. ESCALAFON
 
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2013)</small>
+
 ###### ARTICULO 39.
 
 La suspensión temporal de los efectos del nombramiento de un trabajador no significa el cese del mismo.
@@ -455,15 +457,17 @@ Si a juicio del Titular procede demandar ante el Tribunal Estatal de Conciliaci�
 
 ###### ARTICULO 42.
 
-Se entiende por escalafón el sistema organizado en cada Poder, organismo o Municipio, conforme a las bases establecidas en este título, para efectuar las promociones de ascensos de los trabajadores y autorizar las permutas.
+Se entiende por escalafón el sistema organizado en cada Poder o Ayuntamiento, conforme a las bases establecidas en este título, para efectuar las promociones de ascensos de los trabajadores y autorizar las permutas.
 
 ###### ARTICULO 43.
 
 Tienen derecho a participar en los concursos para ser ascendidos, todos los trabajadores de base con un mínimo de seis meses en la plaza del grado inmediato inferior.
 
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2013)</small>
+
 ###### ARTICULO 44.
 
-Cada titular expedirá un Reglamento de Escalafón conforme a las bases establecidas en este título, oyendo la opinión del sindicato respectivo.
+Los titulares de los Poderes Ejecutivo, Legislativo, Judicial y de los Ayuntamientos expedirán un Reglamento de Escalafón conforme a las bases establecidas en este título, oyendo la opinión de los sindicatos respectivos.
 
 ###### ARTICULO 45.
 
@@ -1182,3 +1186,17 @@ P.O. 10 DE DICIEMBRE DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 25 DE FEBRERO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los titulares de los Poderes Ejecutivo, Legislativo y Judicial y de los 84 Ayuntamientos del Estado de Hidalgo, contarán con 180 días naturales a partir del día siguiente de su publicación, para dar expedir el Reglamento de Escalafón correspondiente.
