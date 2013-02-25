@@ -4,7 +4,7 @@ identifier: "HID-ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-3600
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-31"
-last_updated: "2003-12-31"
+last_updated: "2013-02-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 31 de diciembre de 2003.
 
@@ -401,11 +401,17 @@ IV.- Desahogadas las pruebas, la Contraloría dictará resolución en un términ
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2013)</small>
+
 ###### ARTICULO 32.
 
-Las adquisiciones, arrendamientos y servicios, se llevarán a cabo, a través de licitaciones públicas mediante Convocatoria Pública, para que libremente se presenten propuestas solventes en sobres cerrados en los términos del Artículo 41 de esta Ley, que serán abiertos públicamente, a fin de asegurar a las Dependencias, Entidades o Ayuntamientos, las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes.
+Las adquisiciones, arrendamientos y servicios se llevarán a cabo, a través de Licitaciones Públicas mediante Convocatoria Pública, para que libremente se presenten propuestas solventes en sobres cerrados en los términos del Artículo 41 de ésta Ley, que serán abiertos públicamente, a fin de asegurar a las Dependencias, Entidades o Ayuntamientos, las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad, crecimiento económico, generación de empleo, eficiencia energética, uso responsable de agua, optimización y uso sustentable de los recursos, así como la protección del medio ambiente y demás circunstancias pertinentes, de acuerdo con lo que establece la presente Ley.
 
-En la adjudicación de las adquisiciones, arrendamientos y servicios, las Dependencias, Entidades y Ayuntamientos, preferirán en igualdad de circunstancias, a los licitantes que cuenten con domicilio fiscal en el Estado de Hidalgo. Al efecto en las bases de licitación, se podrán establecer porcentajes diferenciales de precio a favor de los mismos, los cuales no excederán al dos por ciento, previa justificación ante el Comité respectivo.
+Tratándose de adquisiciones de madera, muebles y suministros de oficina fabricados con madera, preferentemente, deberán requerirse certificados otorgados por terceros previamente registrados ante la Secretaría del Medio Ambiente y Recursos Naturales, que garanticen el origen y el manejo sustentable de los aprovechamientos forestales de donde proviene dicha madera. En cuanto a los suministros de oficina fabricados con madera, se estará a lo dispuesto en el Reglamento de la presente Ley.
+
+En las adquisiciones de papel para el uso de oficina, preferentemente, éste, deberá contener un mínimo de cincuenta por ciento de fibras de material reciclado o de fibras naturales no derivadas de la madera o de materiales provenientes de aprovechamientos forestales manejados de manera sustentable en el territorio nacional que se encuentren certificadas conforme a los (sic) dispuesto en el párrafo anterior o de sus combinaciones y elaborados en procesos con blanqueado libre de cloro.
+
+En la adjudicación de las adquisiciones, arrendamientos y servicios, las Dependencias, Entidades y Ayuntamientos preferirán en igualdad de circunstancias, a los licitantes que cuenten con domicilio fiscal en el Estado de Hidalgo. Al efecto en las bases de licitación, se podrán establecer porcentajes diferenciales de precio a favor de los mismos, los cuales no excederán al dos por ciento, previa justificación ante el Comité respectivo.
 
 ###### ARTICULO 33.
 
@@ -1044,3 +1050,9 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MANUEL ANGEL NUÑEZ SOTO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE FEBRERO DE 2013.
+
+PRIMERO (SIC).- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
