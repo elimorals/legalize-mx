@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-crea-el-organismo-publico-descentralizado-58347"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-03"
-last_updated: "2010-05-12"
+last_updated: "2013-02-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58347&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO INSTITUTO DE LA FUNCIÓN REGISTRAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE MAYO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE FEBRERO DE 2013.
 
 Ley publicada en la Sección Tercera a la Gaceta del Gobierno del Estado de México, el lunes 3 de diciembre de 2007.
 
@@ -45,9 +45,11 @@ LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO INSTITUTO DE LA FU
 
 ### CAPÍTULO PRIMERO. NATURALEZA Y OBJETO
 
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 1.
 
-Se crea el Instituto de la Función Registral del Estado de México como un organismo público descentralizado con personalidad jurídica y patrimonio propios, sectorizado a la Secretaria General de Gobierno, el cual se regirá por lo dispuesto en la presente Ley y en su reglamento interior, así como en los demás ordenamientos legales aplicables.
+Se crea el Instituto de la Función Registral del Estado de México como un organismo público descentralizado, con personalidad jurídica y patrimonio propios, sectorizado a la Consejería Jurídica, el cual se regirá por lo dispuesto en la presente Ley y en su reglamento interior; así como en los demás ordenamientos legales aplicables.
 
 ###### Artículo 2.
 
@@ -161,7 +163,9 @@ El órgano de gobierno del Instituto de la Función Registral del Estado de Méx
 
 El Consejo Directivo será la máxima autoridad del Instituto de la Función Registral del Estado de México y estará integrado por:
 
-I. Un Presidente, quien será el Secretario General de Gobierno;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2013)</small>
+
+I. Un Presidente, quien será el Consejero Jurídico;
 
 II. Un Secretario, quien será designado por el Consejo Directivo a propuesta de su Presidente, pudiendo recaer dicho cargo en el Director General del Instituto de la Función Registral del Estado de México;
 
@@ -265,7 +269,9 @@ En los casos de ausencias temporales, será sustituido por quien designe el Cons
 
 Para ser Director General se requiere:
 
-I. Tener título de licenciado en derecho, legalmente registrado;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2013)</small>
+
+I. Tener título de licenciatura;
 
 II. No haber sido condenado por delito doloso;
 
@@ -281,7 +287,9 @@ I. Administrar y representar legalmente al Instituto de la Función Registral de
 
 II. Delegar la representación jurídica del Instituto de la Función Registral del Estado de México en los juicios, procedimientos y demás actos en los que éste sea parte, previa autorización del Consejo Directivo;
 
-III. Resolver los recursos y demás procedimientos que le correspondan, de conformidad con los ordenamientos legales aplicables;
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2013)</small>
+
+III. Resolver los recursos y demás procedimientos que le correspondan, de conformidad con los ordenamientos legales aplicables, que serán tramitados, substanciados y puestos en estado de resolución por el área jurídica del Instituto de la Función Registral del Estado de México.
 
 IV. Ejecutar los acuerdos y disposiciones del Consejo Directivo, dictando las medidas necesarias para su cumplimiento;
 
@@ -514,3 +522,13 @@ SEXTO.- En caso de que se modifique posteriormente la Ley que Crea el Organismo 
 SÉPTIMO.- En caso de que el patrimonio que sea afectado por el Instituto de la Función Registral del Estado de México al fideicomiso que se constituya de conformidad con el presente Decreto se revierta por cualquier motivo al patrimonio del Estado o sea asignado o reincorporado a otra entidad de la administración pública centralizada o de la administración pública paraestatal que sustituya al Instituto de la Función Registral del Estado de México, los derechos y las obligaciones que se deriven de los convenios, contratos, afectaciones, transmisiones y financiamientos celebrados por el Instituto de la Función Registral del Estado de México o bien, por el fiduciario del fideicomiso a que se refiere el presente Decreto, con respecto a dicho patrimonio y el fideicomiso, subsistirán en sus términos hasta en tanto se liquiden o sean cumplidas las obligaciones adquiridas con ese respecto. En este sentido, los acreedores del fideicomiso al cual se hubiere afectado una parte o la totalidad de los ingresos del Instituto de la Función Registral del Estado de México, seguirán teniendo el derecho a recibir el pago de las obligaciones que corresponda, de conformidad con los contratos que al efecto se hubieren celebrado, como si dicha reversión, asignación o reincorporación no hubiere tenido lugar.
 
 OCTAVO.- El Instituto de la Función Registral del Estado de México, deberá presentar a la Legislatura, por conducto de las Comisiones Legislativas de Planeación y Gasto Público, y de Finanzas Públicas, en un plazo que no excederá de treinta días hábiles, contados a partir de la entrada en vigor del presente decreto, un informe de las metas e indicadores de desempeño del programa de modernización del Instituto de la Función Registral del Estado de México, para los próximos tres años.
+
+P.O. 25 DE FEBRERO DE 2013
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
+
+CUARTO.- El Gobernador del Estado, al presentar la Cuenta Pública del Gobierno del estado de México y Organismos Auxiliares del Ejercicio Fiscal 2013, informará de los recursos ejercidos por la Consejería Jurídica.
