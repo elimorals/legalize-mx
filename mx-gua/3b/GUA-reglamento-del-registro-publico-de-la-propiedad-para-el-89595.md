@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-del-registro-publico-de-la-propiedad-para-el-89595"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-09-25"
-last_updated: "2012-09-25"
+last_updated: "2013-02-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89595&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO DEL REGISTRO PÚBLICO DE LA PROPIEDAD PARA EL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE FEBRERO DE 2013.
 
 Reglamento publicado en la Quinta Parte del Periódico Oficial del Estado del Guanajuato, el martes 25 de septiembre de 2012.
 
@@ -1091,9 +1091,11 @@ Abrogación del Reglamento vigente
 
 Artículo Segundo. Se abroga el Reglamento del Registro Público de la Propiedad del Estado de Guanajuato, contenido en el Decreto Gubernativo número 40, publicado en el Periódico Oficial del Gobierno del Estado, número 76 Tercera Parte, el 20 de septiembre de 1996.
 
+> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2013)</small>
+
 Obligatoriedad de medios electrónicos
 
-Artículo Tercero. La obligatoriedad de la presentación electrónica del testimonio o documento y anexos, debidamente escaneados y firmados electrónicamente, así como el Registrador de incorporar las imágenes escaneadas a la base de datos registral, será exigible a partir del 1º. de marzo de 2013.
+Artículo Tercero. La obligatoriedad de la presentación electrónica del testimonio o documento y anexos, debidamente escaneados y firmados electrónicamente, así como del Registrador de incorporar las imágenes escaneadas a la base de datos registral, será exigible a partir del 1o. de julio de 2013.
 
 Plazo de publicación de Lineamientos
 
@@ -1110,3 +1112,9 @@ HÉCTOR GERMÁN RENÉ LÓPEZ SANTILLANA
 EL SECRETARIO DE GOBIERNO
 
 ROMÁN CINFUENTES NEGRETE
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE FEBRERO DE 2013.
+
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 2 DEL CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO VIGENTE.
