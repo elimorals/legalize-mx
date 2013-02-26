@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-85674"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2012-02-03"
-last_updated: "2013-01-23"
+last_updated: "2013-02-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85674&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2012-01-26"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE FEBRERO DE 2013.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 3 de febrero de 2012.
 
@@ -3125,7 +3125,9 @@ VI. Nombre de la institución que expidió el titulo profesional, número de reg
 
 VII. Número y fecha de expedición de la cédula profesional; y
 
-VIII. Nivel y grado académico registrado ante la Secretaría de Educación Pública distinto al de licenciatura, con efectos de patente en alguna rama del Derecho en la que desempeña su actividad profesional, si contare con ellos.
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA Y ADICIONA EL DIVERSO ACUERDO QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 26 DE FEBRERO DE 2013)</small>
+
+VIII. Nivel y grado académico registrado ante la Secretaría de Educación Pública, o bien ante la institución análoga de las entidades federativas, con efectos de patente en alguna rama del Derecho en la que desempeña su actividad profesional.
 
 > <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2012)</small>
 
@@ -3137,13 +3139,25 @@ I.- El abogado postulante deberá solicitar por escrito y bajo protesta de decir
 
 II.- Con la solicitud presentará el original de la cédula profesional del abogado postulante, así como dos copias simples, tanto de la cédula como de los documentos señalados en las fracciones III y IV del artículo anterior;
 
-III.- El servidor público para llevar a cabo el registro deberá verificar los datos contenidos en la cédula profesional en la página web correspondiente de la Dirección General de Profesiones de la Secretaría de Educación Pública y, en caso de que los datos de la cédula sean coincidentes, procederá a ingresar al sistema los datos proporcionados por el abogado postulante en la solicitud y a registrar la cédula en el sistema computarizado; el servidor público que realice el registro debe asentar su nombre, cargo y órgano jurisdiccional de adscripción;
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA Y ADICIONA EL DIVERSO ACUERDO QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 26 DE FEBRERO DE 2013)</small>
+
+III.- EI servidor público para llevar a cabo el registro deberá verificar los datos contenidos en la cédula profesional en la página web correspondiente de la Dirección General de Profesiones de la Secretaría de Educación Pública; o bien de la institución análoga de las entidades federativas; y, en caso de que los datos de la cédula sean coincidentes, procederá a ingresar al sistema los datos proporcionados por el abogado postulante en la solicitud y a registrar la cédula en el sistema computarizado; el servidor público que realice el registro debe asentar su nombre, cargo y órgano jurisdiccional de adscripción;
 
 IV.- Se hará entrega del original de la cédula, de la identificación exhibida y del comprobante de domicilio; del acuse de recibo generado por el sistema al interesado, quien a su vez firmará de recibido y de conformidad, después de que el servidor público que realizó el registro certifique las copias simples exhibidas;
 
 V.- El órgano jurisdiccional en donde se lleve a cabo el registro conservará para su resguardo un tanto de las copias certificadas y de la solicitud correspondiente, y remitirá el otro tanto a la Secretaría Ejecutiva de Vigilancia Información y Evaluación; y
 
-VI.- En caso de que los datos de la cédula profesional que exhiba el abogado postulante no sean coincidentes con los contenidos en la página web de la Dirección General de Profesiones, el servidor público deberá dar cuenta al titular del órgano jurisdiccional de su adscripción, levantará un acta en la que haga constar esta situación y certificará las copias que le fueron exhibidas, haciendo la devolución de los documentos al interesado. Un tanto de las copias certificadas se enviarán a la Secretaría Ejecutiva de Vigilancia, Información y Evaluación para que lleve a cabo ante la Dirección General mencionada, la validación correspondiente y de resultar que no existen antecedentes en sus registros de la cédula respectiva, la Secretaría Ejecutiva le enviará la copia certificada de los documentos para los efectos que estime pertinentes.
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA Y ADICIONA EL DIVERSO ACUERDO QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 26 DE FEBRERO DE 2013)</small>
+
+VI.- En caso de que los datos de la cédula profesional que exhiba el abogado postulante no sean coincidentes con los contenidos en la página web de la Dirección General de Profesiones, o en la correspondiente a su similar de las entidades federativas, el servidor público deberá dar cuenta al titular del órgano jurisdiccional de su adscripción, levantará un acta en la que haga constar esta situación y certificará las copias que le fueron exhibidas, haciendo la devolución de los documentos al interesado. Un tanto de las copias certificadas se enviarán a la Secretaría Ejecutiva de Vigilancia, Información y Evaluación para que lleve a cabo ante la Dirección General mencionada o bien en la institución análoga de las entidades federativas, la validación correspondiente y de resultar que no existen antecedentes en sus registros de la cédula respectiva, la Secretaría Ejecutiva le enviara la copia certificada de los documentos para los efectos que estime pertinentes.
+
+> <small>(ADICIONADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA Y ADICIONA EL DIVERSO ACUERDO QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 26 DE FEBRERO DE 2013)</small>
+
+VII.- De no ser posible el registro del litigante por causas no imputables al servidor público encargado de realizar su inscripción, ya sea debido a la imposibilidad de acceder a la base de datos de la Dirección General de Profesiones, de la Secretaría de Educación Pública, o de sus homólogas en las entidades federativas cuando cuenten con ellas, para verificar la información de la cédula profesional proporcionada por el solicitante; o, en caso de que no exista un sistema de consulta pública en internet perteneciente a la dependencia o unidad administrativa que hubiere expedido la cédula con efectos de patente sometida a registro, el servidor público notificará tal situación al litigante que lo haya solicitado e inmediatamente, remitirá a la Secretaría Ejecutiva de Vigilancia, Información y Evaluación, la documentación en que consten tales hechos para que, dentro del marco de sus atribuciones, ésta lleve a cabo la verificación respectiva haciendo uso de mecanismos alternos. Hecha la verificación de validez, la Secretaría Ejecutiva de Vigilancia, Información y Evaluación notificará el resultado obtenido al órgano jurisdiccional que le hubiere remitido la documentación, para que, atendiendo al mismo, efectúe el registro del litigante.
+
+> <small>(ADICIONADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA Y ADICIONA EL DIVERSO ACUERDO QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 26 DE FEBRERO DE 2013)</small>
+
+VIII.- Lo anterior en ningún sentido menoscaba el derecho de los litigantes para ser autorizados en los términos de las leyes aplicables.
 
 ###### Artículo 185.
 
@@ -3604,3 +3618,11 @@ PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta y en el portal de Internet del Consejo.
 
 TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá incorporar el texto de este instrumento, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la organización y funcionamiento del propio Consejo.
+
+D.O.F. 26 DE FEBRERO DE 2013.
+
+PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la organización y funcionamiento del propio Consejo.
