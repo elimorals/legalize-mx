@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-derechos-del-estado-de-oaxaca-84808"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-24"
-last_updated: "2012-12-15"
+last_updated: "2013-02-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84808&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "OAX"
 ---
 # LEY ESTATAL DE DERECHOS DEL ESTADO DE OAXACA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE FEBRERO DE 2013 EN EL P.O. DEL ESTADO OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY ESTATAL DE DERECHOS DEL ESTADO DE OAXACA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2012.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 27 DE FEBRERO DE 2013.</small>
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 24 de diciembre de 2011.
 
@@ -41,15 +41,13 @@ LEY ESTATAL DE DERECHOS
 
 ## Título Primero. Disposiciones Generales
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE FEBRERO DE 2013 EN EL P.O. DEL ESTADO OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2012) (F. DE E., P.O. 27 DE FEBRERO DE 2013)
 
 ###### Artículo 1.
 
-Los derechos que establece esta Ley, se pagarán por el uso, goce o aprovechamiento de los bienes de dominio púbico (sic), así como por recibir servicios que prestan el Poder Legislativo, Poder Judicial, Órganos Autónomos, Dependencias y Entidades del Poder Ejecutivo en sus funciones de derecho público.
+Los derechos que establece esta Ley, se pagarán por el uso, goce o aprovechamiento de los bienes de dominio público, así como por recibir servicios que presten el Poder Legislativo, Poder Judicial, Órganos Autónomos, Dependencias y entidades del Poder Ejecutivo en sus funciones de derecho público.
 
 Los derechos por la prestación de servicios que establece esta Ley deberán estar relacionados con el costo total del servicio, incluso el financiero.
 
@@ -61,15 +59,15 @@ La Secretaría de Finanzas elaborará y distribuirá el contenido de esta Ley en
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2012) (F. DE E., P.O. 27 DE FEBRERO DE 2013)
 
 La interpretación de esta Ley, para efectos administrativos y exclusivamente en el ámbito de competencia del Ejecutivo Estatal, corresponde a la Secretaría de Finanzas, sin menoscabo de la interpretación que realicen los órganos jurisdiccionales estatales o federales. El Código Fiscal para el Estado de Oaxaca y su Reglamento y las demás disposiciones aplicables serán supletorios de esta ley en lo conducente.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2012) (F. DE E., P.O. 27 DE FEBRERO DE 2013)
 
-La prestación de servicios continuos así como el otorgamiento del uso, goce o aprovechamiento de bienes de dominio púbico (sic) del Estado, en todos los casos tendrán el carácter de administrativos y se perfeccionarán en instrumentos de la misma naturaleza.
+La prestación de servicios continuos así como el otorgamiento del uso, goce o aprovechamiento de bienes de dominio público del Estado, en todos los casos tendrán el carácter de administrativos y se perfeccionarán en instrumentos de la misma naturaleza.
 
 ###### Artículo 2.
 
