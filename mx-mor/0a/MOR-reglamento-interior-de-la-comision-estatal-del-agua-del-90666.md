@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-comision-estatal-del-agua-del-90666"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-12-12"
-last_updated: "2012-12-12"
+last_updated: "2013-02-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90666&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL DEL AGUA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 12 de diciembre del 2012.
 
@@ -142,7 +142,9 @@ XI. Las demás inherentes a su competencia, de conformidad con las diversas disp
 
 El máximo órgano de gobierno de la Comisión es la Junta de Gobierno, y se integrará por:
 
-I. El Gobernador del Estado o el representante que designe, quien la presidirá;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2013)</small>
+
+I. El Gobernador del Estado quien la presidirá por sí o por el Secretario de Desarrollo Sustentable;
 
 II. El Secretario encargado del ramo de Hacienda;
 
@@ -394,9 +396,13 @@ XXXI. Aplicar las reglas de operación de los programas federalizados;
 
 XXXII. Informar y acordar con el Secretario Ejecutivo los asuntos de su competencia;
 
-XXXIII. Tramitar ante las autoridades correspondientes y conforme a las normas aplicables, las asignaciones para la explotación, uso o aprovechamiento de aguas nacionales, así como los permisos de descarga a cuerpos de agua nacionales, y
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2013)</small>
 
-XXXIV. Las demás que les confieran otras disposiciones jurídicas aplicables o le delegue el Secretario Ejecutivo.
+XXXIII. Coordinar con la participación de las áreas ejecutoras la elaboración de las bases de concursos y expedientes técnicos para las licitaciones públicas o sus excepciones conforme a las disposiciones jurídicas de la materia;
+
+XXXIV. Tramitar ante las autoridades correspondientes y conforme a las normas aplicables, las asignaciones para la explotación, uso o aprovechamiento de aguas nacionales, así como los permisos de descarga a cuerpos de agua nacionales, y
+
+XXXV. Las demás que les confieran otras disposiciones jurídicas aplicables o le delegue el Secretario Ejecutivo.
 
 ### CAPÍTULO V
 
@@ -574,9 +580,13 @@ XIX. Coordinar con las Subsecretarías Ejecutivas la información base para las 
 
 XX. Coordinar y apoyar al Secretario Ejecutivo en la atención y respuesta a las auditorías realizadas por los organismos de fiscalización locales y federales;
 
-XXI. Intervenir en la atención y solución de problemas y conflictos por la explotación, uso o aprovechamiento o conservación de las aguas de competencia estatal, y
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2013)</small>
 
-XXII. Las demás que le delegue el Secretario Ejecutivo y las que le señalen otras disposiciones jurídicas aplicables.
+XXI. Coordinar, administrar y conservar al acervo documental que en ejercicio de sus facultades se genere en la CEA, así como la responsable de implementar los instrumentos de sistematización de los archivos de gestión e histórico en los términos que marca la Ley Estatal de Documentación y Archivos de Morelos.
+
+XXII. Intervenir en la atención y solución de problemas y conflictos por la explotación, uso o aprovechamiento o conservación de las aguas de competencia estatal, y
+
+XXIII. Las demás que le delegue el Secretario Ejecutivo y las que le señalen otras disposiciones jurídicas aplicables.
 
 ### CAPÍTULO VII. DEL ÓRGANO DE VIGILANCIA
 
@@ -598,7 +608,9 @@ IV. Informar periódicamente a la Secretaría de la Contraloría del Poder Ejecu
 
 V. Intervenir en los procesos de entrega recepción de los servidores públicos de mandos medios y superiores de la Comisión;
 
-VI. Validar con su firma los convenios, contratos, acuerdos que se celebren con la Federación, los Ayuntamientos, los sectores social y privado en el ámbito de competencia de la Comisión;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2013)</small>
+
+VI. Tomar conocimiento de los convenios, contratos, acuerdos que se celebren con la Federación, los Ayuntamientos, los sectores social y privado en el ámbito de su competencia de la Comisión;
 
 VII. Verificar que se dé cumplimiento a la obligatoriedad de realizar la declaración de situación patrimonial a los servidores públicos que les competa, por inicio y término del cargo así como la anual;
 
@@ -700,9 +712,13 @@ XXVIII. Programar y realizar, directamente o a través de terceros, el monitoreo
 
 XXIX. Conceder audiencias al público y recibir en acuerdo a cualquier servidor público subalterno, conforme a los Manuales administrativos que expida el Secretario Ejecutivo;
 
-XXX. Desarrollar y optimizar el manejo de los recursos de las áreas a su cargo, y
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2013)</small>
 
-XXXI. Las demás que le delegue el Secretario Ejecutivo, la persona titular de la Subsecretaría de su adscripción y le confieran otras disposiciones jurídicas aplicables.
+XXX. Elaborar en su carácter de área ejecutora, con la participación de las áreas que requiera, las bases de concursos y expedientes técnicos, para las licitaciones públicas o sus excepciones, conforme a las disposiciones jurídicas en la materia;
+
+XXXI. Desarrollar y optimizar el manejo de los recursos de las áreas a su cargo, y
+
+XXXII. Las demás que le delegue el Secretario Ejecutivo, la persona titular de la Subsecretaría de su adscripción y le confieran otras disposiciones jurídicas aplicables.
 
 ### CAPÍTULO X. DE LAS ATRIBUCIONES ESPECÍFICAS DE LAS DIRECCIONES GENERALES
 
@@ -878,9 +894,13 @@ XVI. Llevar el registro presupuestal y contable de las operaciones financieras y
 
 XVII. Proponer la contratación de los servicios externos necesarios para el adecuado funcionamiento de la Unidad Administrativa a su cargo;
 
-XVIII. Expedir credenciales de identificación al personal de la Comisión, y
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2013)</small>
 
-XIX. Las demás que le delegue el Secretario Ejecutivo y le confieran otras disposiciones jurídicas aplicables.
+XVIII. Certificar, previo cotejo y expedir copias certificadas de los documentos que obren en sus archivos y de aquellos que expidan, en el ejercicio de sus funciones, los servidores públicos que les estén subordinados;
+
+XIX. Expedir credenciales de identificación al personal de la Comisión, y
+
+XX. Las demás que le delegue el Secretario Ejecutivo y le confieran otras disposiciones jurídicas aplicables.
 
 ###### Artículo 41.
 
@@ -888,7 +908,9 @@ Corresponde a la Dirección General Jurídica:
 
 I. Representar y asesorar legalmente a la Comisión en toda clase de juicios en que sea parte, intervenir en los arbitrajes y reclamaciones de carácter jurídico que puedan afectar sus intereses e interponer los recursos legales contra sentencias y resoluciones definitivas;
 
-II. Formular las denuncias y querellas ante el Ministerio Público competente y coadyuvar con éste en los procesos penales de los hechos delictuosos en que la Comisión resulte ofendida;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2013)</small>
+
+II. Formular denuncias y querellas ante el Ministerio Público competente y, en su caso, ratificarlas, así como otorgar perdón cuando proceda, y previo acuerdo con el Secretario Ejecutivo de la CEA, asistir a comparecencias, solicitar la práctica de diligencias de integración de las averiguaciones previas o investigaciones; y la solicitud de sobreseimiento; promover inconformidad en contra de los acuerdos de no ejercicio de la acción penal, la no vinculación a proceso o la solicitud de sobreseimiento; y coadyuvar con el Ministerio Público en los procesos penales de los hechos delictuosos en que la CEA resulte ofendida;
 
 III. Revisar las bases y requisitos legales a que deben sujetarse los contratos, convenios, acuerdos, concesiones, autorizaciones, bases de coordinación, dictámenes o permisos que realice o expida la Comisión;
 
@@ -920,9 +942,65 @@ XVI. Solicitar formalmente a la Consejería Jurídica del Poder Ejecutivo del Es
 
 XVII. Expedir constancias y oficios de comisión o acreditación al personal de la Comisión, para efectuar notificaciones, visitas domiciliarias, inspección y verificación, pudiendo en su caso habilitar días y horas inhábiles para su realización;
 
-XVIII. Llevar a cabo el registro de obras hidráulicas, y
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2013)</small>
 
-XIX. Las demás que le delegue el Secretario Ejecutivo, y le confieran otras disposiciones jurídicas aplicables.
+XVIII. Recibir, estudiar y determinar, en su caso, la competencia y procedencia de las denuncias ciudadanas recibidas en materia de agua, de conformidad con las disposiciones legales aplicables;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2013)</small>
+
+XIX. Substanciar y proyectar las resoluciones correspondientes en los recursos administrativos que se interpongan en contra de actos o resoluciones de las unidades administrativas adscritas a la CEA y proponerlas a su titular;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2013)</small>
+
+XXI (SIC). Brindar asesoría jurídica al Secretario Ejecutivo de la CEA y a sus unidades administrativas en la concertación, negociación y gestión para la realización de acciones, programas y proyectos relacionados con la suscripción de convenios y contratos de la CEA, así como establecer los aspectos jurídicos de dichos instrumentos y de cualquier otro de naturaleza análoga;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2013)</small>
+
+XXII. Elaborar y proponer los informes previos y justificados en juicios de amparo en los que sean señalados como autoridades responsables los servidores públicos de la CEA, intervenir cuando ésta tenga el carácter de tercero perjudicado, y formular las promociones, incidentes y medios de defensa procedentes en dicho juicio, en términos de las disposiciones legales aplicables;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2013)</small>
+
+XXIV (SIC). Suplir, en sus ausencias, a los servidores públicos del Organismo, en los juicios de amparo en los que sean señalados como autoridades responsables, en lo concerniente, a los informes previos, con justificación, recursos y cualquier otra actuación que dichas autoridades deban realizar conforme a la ley de la materia;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2013)</small>
+
+XXV. Defender, rendir informes, ofrecer, objetar y desahogar todo tipo de pruebas, absolver posiciones, comparecer a diligencias, desahogar requerimientos, promover incidentes, interponer todo tipo de recursos, incluso el juicio de amparo, formular alegatos, dar seguimiento al cumplimiento de las ejecutorias, y realizar en general, todas las promociones que se requieran en juicios de nulidad, civiles, mercantiles, agrarios, administrativos, contencioso administrativos, laborales, penales, y en cualquier otro procedimiento, conforme a las disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2013)</small>
+
+XXVI. Solicitar a las unidades administrativas de la CEA, la información, documentación y apoyo necesarios para la atención debida a la actualización de la página de información pública, de las consultas, procedimientos administrativos y jurisdiccionales a su cargo;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2013)</small>
+
+XXVII. Designar peritos o solicitar su designación a las unidades administrativas competentes en instancias y procedimientos administrativos o jurisdiccionales en los que deba participar;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2013)</small>
+
+XXVIII. Ordenar, en auxilio del Secretario Ejecutivo, y realizar inspecciones y dictámenes sobre quejas y denuncias en materia de agua, la instauración de procedimientos administrativos, así como emitir las resoluciones o recomendaciones destinadas a particulares o autoridades competentes, a fin de aplicar la normatividad en materia de agua;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2013)</small>
+
+XXIX. Vigilar el cumplimiento de la legislación, normas, criterios y programas en materia de agua;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2013)</small>
+
+XXX. Imponer las medidas de seguridad, de apremio, control y sanciones correspondientes por violaciones a las materias que regula (sic) las leyes estatales en materia de Agua, y sus Reglamentos;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2013)</small>
+
+XXXI. Sancionar a quienes infrinjan las disposiciones legales que en materia de agua, se expidan en el Estado;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2013)</small>
+
+XXXII. Realizar inspecciones a las obras o actividades que en materia de agua se realicen en el Estado;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2013)</small>
+
+XXXIII. Coordinar y dirigir la Unidad de Información Pública de la CEA, así como por su conducto ser el responsable de recibir solicitudes de información y verificar su remisión por parte de éste a las unidades administrativas competentes, así como el seguimiento y cumplimiento de dichas solicitudes, sus estadísticas, resultados y costos;
+
+XXXIV. Llevar a cabo el registro de obras hidráulicas, y
+
+XXXV. Las demás que le delegue el Secretario Ejecutivo, y le confieran otras disposiciones jurídicas aplicables.
 
 ### CAPÍTULO XI. DE LA SUPLENCIA DE LOS FUNCIONARIOS
 
@@ -1103,3 +1181,9 @@ PRESIDENTE MUNICIPAL CONSTITUCIONAL DE EMILIANO ZAPATA, MORELOS E INTEGRANTE DE 
 C. ALBERTO FIGUEROA VALLADARES
 
 SIN RÚBRICA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE FEBRERO DE 2013.
+
+ÚNICO. Las presentes modificaciones entrarán en vigor al día siguiente de su publicación en Periódico Oficial "Tierra y Libertad".
