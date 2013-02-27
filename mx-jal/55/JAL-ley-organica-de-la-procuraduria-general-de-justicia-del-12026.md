@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-de-la-procuraduria-general-de-justicia-del-12026"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-02-05"
-last_updated: "2012-09-01"
+last_updated: "2013-02-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12026&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,15 @@ state: "JAL"
 ---
 # LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE JALISCO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE FEBRERO DE 2013 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SÉPTIMO TRANSITORIO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE JALISCO, PUBLICADA EN EL P.O. 27 DE FEBRERO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEXTO DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO, PUBLICADA EN EL P.O. DE 27 DE FEBRERO DE 2013, LAS FUNCIONES, FACULTADES, DERECHOS Y OBLIGACIONES ESTABLECIDAS A CARGO DE LAS DEPENDENCIAS QUE CAMBIAN SU DENOMINACIÓN O NATURALEZA DERIVADO DEL PRESENTE DECRETO, O DE SUS TITULARES, EN CUALQUIER ORDENAMIENTO LEGAL O REGLAMENTARIO, ASÍ COMO EN CONTRATOS, CONVENIOS O ACUERDOS CELEBRADOS CON DEPENDENCIAS O ENTIDADES DE GOBIERNO DEL ESTADO, O CON DEPENDENCIAS O ENTIDADES DE LA ADMINISTRACIÓN PÚBLICA FEDERAL, Y DE LOS MUNICIPIOS, ASÍ COMO CON CUALQUIER PERSONA FÍSICA O JURÍDICA, SERÁN ASUMIDOS POR LAS NUEVAS DEPENDENCIAS, O SU TITULAR.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de febrero de 1998.
 
@@ -820,3 +826,193 @@ QUINTO. Todos los asuntos que se encuentren en etapa de averiguación previa, pr
 SEXTO. La constitución de la Comisión Interinstitucional deberá realizarse en un plazo máximo de 90 días naturales a partir de la entrada en vigor de la ley; así como la designación del Secretario Técnico de ésta.
 
 La Comisión Interinstitucional deberá aprobar en un plazo máximo de sesenta días naturales a partir de su constitución el Programa Estatal para Prevenir, Combatir y Erradicar la Trata de personas y remitir a la Secretaria General de Gobierno para su publicación.
+
+P.O. DE 27 DE FEBRERO DE 2013
+
+PRIMERO. El presente decreto entrará en vigor el primero de marzo de dos mil trece, previa su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. El titular del Poder Ejecutivo del Estado deberá presentar al Congreso del Estado la iniciativa de decreto al presupuesto de egresos vigente para su aprobación definitiva de las modificaciones y adecuaciones reglamentarias, presupuestales, administrativas y de plantilla de personal necesarias para el debido cumplimiento de la (sic) presente decreto.
+
+TERCERO. En el proceso de creación e instalación de las Dependencias del Poder Ejecutivo del Estado a que se refiere el presente decreto, serán respetados los derechos laborales de los servidores públicos y trabajadores en los términos de ley.
+
+De igual forma serán respetados los derechos de los ministerios públicos, secretarios y actuarios del Misterio Público, los peritos y los elementos operativos de las instituciones policiales se regirán por la fracción XIII del apartado B, del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General del Sistema Nacional de Seguridad Pública y demás disposiciones legales aplicables.
+
+CUARTO. Los recursos económicos, humanos y materiales, así como los derechos, valores, fondos y obligaciones de las dependencias que se modifican, fusionan, escinden o extinguen en los términos de la presente ley pasarán a las nuevas Dependencias, de conformidad con el presente Decreto y en los términos que determine el Gobernador del Estado.
+
+QUINTO. Los asuntos en trámite ante las dependencias que se modifican, fusionan, escinden o extinguen en los términos de la presente ley pasarán a las nuevas dependencias, de conformidad con el presente Decreto o en los términos que determine el Gobernador del Estado.
+
+SEXTO. El Titular del Poder Ejecutivo Estatal presentará al Congreso del Estado de Jalisco la iniciativa de reformas que resulten necesarias para adecuar el marco jurídico estatal a las nuevas denominaciones y atribuciones de las dependencias de la Administración Pública Estatal. En tanto esto tiene lugar, las funciones, facultades, derechos y obligaciones establecidos a cargo de las dependencias que cambian su denominación o naturaleza derivado del presente Decreto, o de sus titulares, en cualquier ordenamiento legal o reglamentario, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades de Gobierno del Estado, o con dependencias o entidades de la Administración Pública Federal, y de los municipios, así como con cualquier persona física o jurídica, serán asumidos por las nuevas dependencias, o su titular, conforme a la siguiente tabla:
+
+ANTERIOR NUEVO
+
+Secretaría de Finanzas Secretaría de Planeación,
+
+Administración y Finanzas
+
+Secretaría de Planeación; Secretaría de Planeación,
+
+Administración y Finanzas
+
+Secretaría de Secretaría de Planeación,
+
+Administración; Administración y Finanzas
+
+Secretaría de Seguridad Fiscalía General del Estado
+
+Pública, Prevención y
+
+Reinserción Social
+
+Procuraduría General de Fiscalía General del Estado
+
+Justicia
+
+Secretaría de Promoción Secretaría de Desarrollo
+
+Económica Económico
+
+Secretaría de Desarrollo Secretaría de Desarrollo e
+
+Humano Integración Social
+
+Secretaría de Medio Secretaría de Medio Ambiente
+
+Ambiente para el Desarrollo y Desarrollo Territorial
+
+Sustentable
+
+Secretaría de Desarrollo Secretaría de Medio Ambiente
+
+Urbano (Tratándose de y Desarrollo Territorial
+
+ordenamiento territorial,
+
+planeación urbana y fomento
+
+a la vivienda)
+
+Secretaría de Desarrollo Secretaría de Infraestructura
+
+Urbano (Tratándose de y Obra Pública
+
+ejecución y adjudicación de
+
+obra pública)
+
+Secretaría de Desarrollo Secretaría de Infraestructura
+
+Rural (Tratándose de y Obra Pública
+
+infraestructura rural)
+
+Secretaría de Desarrollo Secretaría de Medio Ambiente
+
+Rural (Tratándose de y Desarrollo Territorial
+
+materia forestal, áreas
+
+naturales protegidas, así
+
+como de desarrollo regional)
+
+Secretaría de Desarrollo Secretaría de Desarrollo Rural
+
+Rural
+
+(Excepto en materia forestal,
+
+áreas naturales protegidas,
+
+así como infraestructura
+
+rural y desarrollo regional)
+
+Secretaría de Educación Secretaría de Educación
+
+(Excepto en materia de
+
+educación superior y
+
+tecnológica, así como en
+
+materia de investigación)
+
+Secretaría de Educación Secretaría de Innovación, Ciencia y
+
+(En materia de educación Tecnología
+
+superior y tecnológica, así
+
+como en materia de
+
+investigación)
+
+Secretaría de Salud Secretaría de Infraestructura
+
+(Exclusivamente en materia y Obra Pública
+
+de ejecución y adjudicación
+
+de obras de infraestructura
+
+para el sector salud)
+
+Secretaría de Salud Secretaría de Salud
+
+(Excepto en materia de
+
+ejecución y adjudicación de
+
+obras de infraestructura para
+
+el sector salud)
+
+Secretaría de Vialidad y Secretaría de Infraestructura
+
+Transporte (Exclusivamente y Obra Pública
+
+en materia de ejecución y
+
+adjudicación de obras de
+
+infraestructura vial)
+
+Secretaría de Vialidad y Secretaría de Movilidad
+
+Transporte (Excepto en
+
+materia de ejecución y
+
+adjudicación de obras de
+
+infraestructura vial y policía
+
+vial)
+
+Secretaría de Vialidad y Fiscalía General del Estado
+
+Transporte (Exclusivamente
+
+en materia de policía vial)
+
+Secretaría General de Fiscalía General del Estado
+
+Gobierno
+
+(Exclusivamente en materia
+
+de protección civil y
+
+bomberos)
+
+SÉPTIMO. Se abrogan las siguientes leyes:
+
+I. La Ley Orgánica del Poder Ejecutivo del Estado de Jalisco, expedida mediante el decreto número 13570, publicado en el periódico oficial El Estado de Jalisco el 28 de febrero de 1989, así como todas sus reformas y adiciones; y
+
+II. la Ley Orgánica de la Procuraduría General de Justicia del Estado de Jalisco, expedida mediante el decreto número 17161, publicado en el periódico oficial El Estado de Jalisco el 5 de febrero de 1998, así como todas sus reformas y adiciones.
+
+OCTAVO. Las disposiciones reglamentarias vigentes, seguirán aplicándose en tanto no se opongan al presente decreto.
+
+NOVENO. El Gobernador del Estado deberá presentar su propuesta de Fiscal General ante el Congreso del Estado, dentro de los veinte días siguientes a la entrada en vigor del presente decreto.
+
+DÉCIMO. Los ayuntamientos que lo consideren necesario podrán celebrar convenios con el Gobierno del Estado para que, a través de la policía vial a cargo de la Fiscalía General del Estado, se lleve a cabo la función de la policía vial a cargo de los municipios en los términos de artículo 115 de la Constitución Política de los Estados Unidos Mexicanos y los artículos 79 fracción IX y 81 de la Constitución Política del Estado de Jalisco.
