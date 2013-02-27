@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-desarrollo-urbano-del-estado-de-sinaloa-40761"
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-01"
-last_updated: "2004-09-01"
+last_updated: "2013-02-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40761&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2013.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Sinaloa, el miércoles 1 de septiembre de 2004.
 
@@ -1409,6 +1409,38 @@ El Municipio podrá emitir las licencias, autorizaciones y permisos que correspo
 
 Tratándose de licencias para usos que generen impactos significativos en el centro de población, éstas se otorgarán en función de la manifestación de impacto urbano y de la potencialidad que tenga la zona para desarrollar el uso previsto, sin causar efectos negativos en la zona.
 
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2013)</small>
+
+###### Artículo 105 Bis.
+
+En el ordenamiento territorial, que comprende la zonificación de las áreas y los usos del suelo, destinos y reservas territoriales en el Estado de Sinaloa, se determinarán los polígonos para la ubicación de estaciones de servicio denominadas gasolineras, sujetándose a las siguientes condiciones:
+
+I. Los predios para el establecimiento de gasolineras o estaciones de servicio deberán estar localizados sobre accesos a carreteras, autopistas, libramientos, vías primarias o principales, colectoras, así como en aquellos predios cuya ubicación sea compatible y conforme a los Programas Municipales de Desarrollo Urbano;
+
+II. Las estaciones de servicio con venta directa al público o de autoconsumo, cumplirán con las disposiciones en materia de protección civil, ambiental, de seguridad y demás legislación aplicable, y deberán ubicarse a una distancia de cuando menos 1,500 metros en forma radial una de otra, dentro de zona urbana, y de 5,000 metros cuando su ubicación sea áreas rurales;
+
+III. En zonas de carreteras federales la distancia entre una estación de servicio y otra deberá ser al menos de 20,000 metros radiales;
+
+IV. En zonas de carreteras vecinales y rurales la distancia entre una estación de servicio y otra deberá ser al menos de 5,000 metros radiales;
+
+V. El predio deberá ubicarse a una distancia mínima de resguardo de 300 metros radiales de escuelas, hospitales, centros de desarrollo infantil o guarderías y de 150 metros radiales, respecto de mercados, cines, teatros, centros de culto religioso, auditorios, edificios públicos, así como en cualquier otro sitio en el que exista una concentración de cien o más personas de manera habitual;
+
+VI. El predio debe localizarse a una distancia mínima de 150 metros radiales de industrias de alto riesgo que empleen soldadura, fundición, entre otros y de comercios que empleen gas de sistema estacionario con capacidad de almacenamiento mayor de 500 litros;
+
+VII. El predio donde se pretenda ubicar la estación de servicio debe localizarse a una distancia mínima de resguardo de 1000 metros radiales con respecto a una planta de almacenamiento y distribución de combustibles, gas en cualquiera de sus formas y otras sustancias altamente flamables, tomando como referencia la bocatoma localizada dentro de dicha planta;
+
+VIII. Los tanques de almacenamiento deberán ubicarse a una distancia mínima de resguardo de 30 metros con respecto a líneas eléctricas de alta tensión, ya sean aéreas o subterráneas, vías férreas y ductos que transporten productos derivados del petróleo, así como de gas en cualquiera de sus formas;
+
+IX. El predio deberá estar alejado como mínimo una distancia de 100 metros de los inmuebles de tipo habitacional más cercanos; dicha distancia se tomara a partir de la bocatoma de los tanques de la estación de servicio, al lindero más cercano del inmueble;
+
+X. Cuando el predio en el que se pretenda instalar una estación de servicio se ubique entre dos vialidades, las maniobras de abastecimiento serán única y exclusivamente por la parte frontal a la vialidad de mayor jerarquía;
+
+XI. No podrán ubicarse estaciones de servicio dentro de las áreas consideradas como reserva ecológica; y,
+
+XII. Las demás que se consideren pertinentes a juicio de cada Ayuntamiento, en tanto no se opongan a lo establecido en los criterios normativos anteriormente relacionados.
+
+Previo a las obras de edificación, licencia, permiso o autorización, quienes pretendan llevar a cabo los proyectos de estaciones de servicio, deberán obtener dictamen favorable de la autoridad competente en materia de protección civil y ambiental.
+
 ###### Artículo 106.
 
 Conforme a lo previsto en esta Ley, corresponde a la autoridad municipal autorizar las fusiones, subdivisiones, relotificaciones, fraccionamientos y conjuntos urbanos que se promuevan respecto de los lotes o predios ubicados en el territorio del Municipio de que se trate. En todo caso, deberá contarse con el dictamen favorable de las instancias competentes en materia de infraestructura y servicios urbanos.
@@ -2670,3 +2702,11 @@ Cenovio Ruiz Zazueta.
 El Secretario de Comunicaciones y Obras Públicas
 
 Francisco Javier Rubio Pulido.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE FEBRERO DE 2013.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Los Ayuntamientos, dentro de un plazo de noventa días contados a partir del inicio de vigencia del presente Decreto, deberán realizar las adecuaciones reglamentarias conducentes.
