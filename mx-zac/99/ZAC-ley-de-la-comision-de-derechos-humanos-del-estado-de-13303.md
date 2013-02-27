@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-la-comision-de-derechos-humanos-del-estado-de-13303"
 country: "mx"
 rank: "ley"
 publication_date: "1993-01-27"
-last_updated: "2011-03-02"
+last_updated: "2013-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MARZO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE FEBRERO DE 2013.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el miércoles 27 de enero de 1993.
 
@@ -95,21 +95,17 @@ LEY DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE ZACATECAS
 
 Esta ley es de orden público, y de aplicación en todo el territorio del Estado de Zacatecas en materia de derechos humanos, respecto de los mexicanos y extranjeros que se encuentren en la Entidad, en los términos establecidos por la Constitución Política del Estado.
 
-> <small>(REFORMADO, P.O. 2 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2013)</small>
 
-###### ARTICULO 2°.
+###### ARTICULO 2.
 
-La Ley es igual para todos. La Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales en materia de derechos humanos de los que el Estado Mexicano sea parte y esta Constitución son la Ley Suprema del Estado.
+En el Estado de Zacatecas todas las personas gozarán de los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales de los cuales el Estado Mexicano sea parte, y los señalados en esta Constitución y las leyes que de ella emanen, así como de las garantías para su protección cuya vigencia no podrá suspenderse ni restringirse sino en los casos y mediante los procedimientos que los respectivos ordenamientos determinen.
 
-> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+Las autoridades en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos, bajo los principios de universalidad, interdependencia, indivisibilidad y progresividad. En consecuencia, el Estado deberá prevenir, investigar, sancionar y reparar en los términos que establezca esta ley.
 
-Las facultades que la Constitución Política de los Estados Unidos Mexicanos no otorgan expresamente a la Federación, se entienden reservadas para el Estado de Oaxaca en el ámbito de su competencia.
+Las normas y procedimientos relativos a los derechos humanos se interpretarán y resolverán de conformidad con el principio pro persona favoreciendo en todo momento la protección más amplia.
 
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 1990)</small>
-
-El Poder Público y sus Representantes sólo pueden hacer lo que la Ley les autoriza y deben hacer, lo que la Ley les ordena. Los particulares pueden hacer lo que la Ley no les prohibe y deben hacer, lo que la Ley les ordena.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2015)</small>
+En el Estado de Zacatecas queda prohibida toda forma de discriminación motivada por el origen étnico, nacional o regional, el género, la raza, el color de piel, las características físicas, el idioma, el estado civil, la edad, la profesión, el trabajo desempeñado, la condición social o económica, las discapacidades, las condiciones de salud, el estado de embarazo, las costumbres, las preferencias sexuales, las ideologías o creencias religiosas, la calidad migratoria o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
 ###### ARTICULO 2o.
 
@@ -123,19 +119,13 @@ Se crea la Comisión de Derechos Humanos del Estado de Zacatecas como un organis
 
 La sede general de la Comisión de Derechos Humanos del Estado de Zacatecas, es la Ciudad Capital del Estado o la zona conurbada, sin perjuicio del establecimiento de Visitadurías en Distritos Judiciales o en Cabeceras Municipales.
 
-###### ARTICULO 4°.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2013)</small>
 
-Nadie debe ser juzgado por leyes privativas ni por tribunales especiales; son necesarias leyes expedidas con anterioridad al hecho y tribunales previamente establecidos por la ley.
+###### ARTICULO 4.
 
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 2024)</small>
+La Comisión de Derechos Humanos del Estado de Zacatecas es competente para conocer de quejas y denuncias relacionadas con la presunta violación de los derechos humanos, cuando éstas fueran imputables a autoridades y servidores públicos de carácter estatal y municipal; y por lo que hace a los del Poder Judicial y autoridades electorales, sólo se admitirán o conocerán cuando se trate de actos u omisiones administrativas de carácter procesal que no diriman controversia alguna.
 
-En el Estado queda prohibida la esclavitud y la discriminación con motivo del origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, la condición de migrante, la orientación sexual, identidad, expresiones de género y características sexuales, la vestimenta, el estado civil, el estado de indigencia y situación de calle o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o reducir derechos y libertades de los individuos.
-
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
-
-Las autoridades del Estado, en su respectiva esfera de atribuciones, tienen el deber de garantizar las condiciones necesarias para que los individuos gocen de los derechos que establece esta Constitución; así como de proteger los que se reserve el pueblo de Oaxaca mediante el juicio de protección de derechos humanos. La violación de los mismos implicará la sanción correspondiente y, en su caso, la reparación del daño, en términos de Ley.
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE MARZO DE 2018)</small>
+La Comisión por ningún motivo podrá examinar cuestiones jurisdiccionales de fondo, ni podrá pronunciarse sobre la culpabilidad o no del procesado o sentenciado.
 
 ###### ARTICULO 4o.
 
@@ -161,23 +151,25 @@ Por superior jerárquico se entiende al titular de la dependencia correspondient
 
 ### CAPITULO PRIMERO. DE LA INTEGRACION Y FACULTADES
 
-###### ARTICULO 7°.
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2013)</small>
 
-Ninguna detención ante autoridad judicial podrá exceder del plazo de setenta y dos horas, a partir de que el imputado sea puesto a su disposición, sin que se justifique con un auto de vinculación al proceso en el que se expresará: el delito que se le impute, el lugar, tiempo y circunstancias de ejecución, así como los datos que establezcan que se ha cometido un hecho que la ley señale como delito y que exista la probabilidad de que el imputado lo cometió o participó en su comisión.
+###### ARTICULO 7.
 
-Salvo los casos que señale la ley para la prisión preventiva oficiosa, el Ministerio público sólo podrá solicitar al juez la prisión preventiva cuando otras medidas cautelares no sean suficientes para garantizar la comparecencia del imputado en el proceso, el desarrollo de la investigación, la protección de la víctima, de los testigos o de la comunidad, así como cuando el imputado esté siendo procesado o haya sido sentenciado previamente por la comisión de un delito doloso de la misma naturaleza.
+La Comisión se integrará por:
 
-La Ley determinará los casos en los cuales el juez podrá revocar la libertad de las personas vinculadas a proceso.
+I. El Presidente;
 
-El plazo para dictar el auto de vinculación a proceso podrá prorrogarse únicamente a petición del imputado o su defensor, en la forma que señala (sic) Ley.
+II. Un Secretario Ejecutivo;
 
-La prolongación de la detención en su perjuicio será sancionada por la ley penal. La autoridad responsable del establecimiento en el que se encuentre internado el imputado, que dentro del plazo antes señalado no reciba copia autorizada del auto de vinculación a proceso o del que decrete prisión preventiva o de la solicitud de prórroga del plazo constitucional, deberá llamar la atención del juez sobre dicho particular en el acto mismo de concluir el plazo y, si no recibe la constancia mencionada dentro de las tres horas siguientes, pondrá al imputado en libertad.
+III. Un Coordinador de Visitadores;
 
-Todo proceso se seguirá forzosamente por el hecho o hechos delictivos señalados en el auto de vinculación a proceso. Si en la secuela de un proceso apareciera que se ha cometido un delito distinto al que se persigue, deberá ser objeto de investigación separada, sin perjuicio de que después pueda decretarse la acumulación, si fuere conducente.
+IV. Cinco visitadores, por lo menos, de los cuales uno será para la atención a migrantes y otro para quejas de actos administrativos de carácter laboral;
 
-Todo mal tratamiento en la aprehensión o en las prisiones, toda molestia que se infiera sin motivo legal, toda gabela o contribución, en las cárceles o centros de reinserción social, son abusos que serán corregidos por las leyes y castigados por las autoridades competentes.
+V. Las unidades técnicas y administrativas contempladas en el Reglamento y que autorice su presupuesto; y
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2009)</small>
+VI. El personal profesional, técnico y administrativo necesario para la realización de sus funciones.
+
+La Comisión para el mejor desempeño de sus responsabilidades contará con un Consejo Consultivo.
 
 ###### ARTICULO 7o.
 
@@ -231,17 +223,25 @@ B) Por actos u omisiones de servidores públicos de organismos descentralizados,
 
 C) Cuando los particulares o alguna persona moral cometan ilícitos con la tolerancia o anuencia de algún servidor público o autoridad, o bien cuando estos últimos se nieguen infundadamente a ejercer las atribuciones que legalmente les correspondan en relación con dichos ilícitos.
 
-VIII. Formular recomendaciones públicas autónomas no vinculatorias, y denuncias y quejas ante las autoridades respectivas, en los términos establecidos por el artículo 102, inciso b) de la Constitución General de la República;
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2013)</small>
 
-IX. Turnar a la Comisión Nacional de Derechos Humanos, para que conozca y decida en última instancia, las inconformidades que se presenten respecto de las recomendaciones y acuerdos de la Comisión del Estado. Asimismo, las inconformidades por omisiones en que incurra la propia Comisión del Estado y por insuficiencia en el cumplimiento de sus recomendaciones por parte de las autoridades locales, en términos señalados por la ley;
+D) Cuando a petición del Gobernador o la Legislatura del Estado aquellos hechos que por sus características puedan constituir violaciones graves de derechos humanos. En el desarrollo de este procedimiento la Comisión de Derechos Humanos del Estado de Zacatecas ejercerá facultades de autoridad investigadora en los términos de ley, sin que autoridad alguna pueda negarle la información que requiera. La Comisión mantendrá la reserva de la información que se le proporcione con ese carácter. Cuando así proceda, presentará las denuncias ante la autoridad competente;
+
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2013)</small>
+
+VIII. Formular recomendaciones públicas, no vinculatorias, denuncias y quejas ante las autoridades respectivas, en los términos establecidos por el artículo 102 apartado B de la Constitución Política de los Estados Unidos Mexicanos. Asimismo, solicitar a la Legislatura del Estado o en sus recesos a la Comisión Permanente, citen a comparecer a las autoridades o servidores públicos responsables para explicar el motivo de la negativa a aceptar o cumplir las recomendaciones de la Comisión de Derechos Humanos del Estado de Zacatecas;
+
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2013)</small>
+
+IX. Turnar a la Comisión Nacional de los Derechos Humanos, para que conozca y decida en última instancia, las inconformidades que se presenten respecto de las recomendaciones y acuerdos de la Comisión de Derechos Humanos del Estado de Zacatecas. Asimismo, las inconformidades por omisiones en que incurra la propia Comisión y por insuficiencia en el cumplimiento de sus recomendaciones por parte de las autoridades locales, en términos señalados por la ley;
 
 X. Procurar la conciliación entre los quejosos y las autoridades señaladas como responsables, así como la inmediata solución del conflicto planteado, cuando la naturaleza del caso lo permita;
 
 XI. Elaborar y ejecutar programas para difundir la enseñanza y la promoción de los derechos humanos;
 
-> <small>(REFORMADA, P.O. 27 DE ENERO DE 2010)</small>
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2013)</small>
 
-XII. Supervisar el respeto a los derechos humanos en los centros de Readaptación Social del Estado y en el Centro de Internamiento y Atención Integral Juvenil;
+XII. Supervisar el respeto a los derechos humanos en los Centros de Reinserción Social del Estado, Centros de Internamiento y Atención Integral Juvenil, separos preventivos, casas institucionalizadas, centros de rehabilitación, asilos de ancianos, instancias de albergue temporal o definitivos y de apoyo a migrantes en tránsito, o las destinadas a grupos en situación de vulnerabilidad;
 
 XIII. Formular programas y proponer acciones en coordinación con las dependencias competentes que impulsen el cumplimiento, dentro del territorio estatal, de los tratados, convenciones y acuerdos internacionales signados y ratificados por México en materia de derechos humanos;
 
@@ -249,19 +249,29 @@ XIII. Formular programas y proponer acciones en coordinación con las dependenci
 
 XIV. Proponer a los Poderes del Estado, ayuntamientos y organismos públicos descentralizados y autónomos, los instrumentos Jurídicos, Administrativos, Sociales, Educativos, Culturales o de naturaleza análoga que tengan por propósito promover, prevenir y salvaguardar en el Estado los derechos humanos;
 
-XV. Expedir su Reglamento Interior, y manuales de organización y de procedimientos;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2013)</small>
 
-XVI. La Comisión pondrá especial interés en la asistencia y protección de los Sectores Sociales más desprotegidos. En particular de los menores, mujeres, ancianos y discapacitados. La defensa del Sistema Ecológico así como los derechos de los campesinos y etnias serán igualmente prioritarios;
+XV. Expedir su Reglamento y manuales de organización y de procedimientos;
+
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2013)</small>
+
+XVI. La Comisión pondrá especial interés en la asistencia y protección de los Sectores Sociales más desprotegidos. En particular de los menores, mujeres, ancianos y discapacitados. La defensa del Sistema Ecológico así como los derechos de los campesinos, etnias y grupos de identidad serán igualmente prioritarios;
 
 > <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
 
 XVII. Procurar las instancias necesarias de vinculación y convenir mecanismos jurídicos y de apoyo recíproco con la Comisión de Asuntos Migratorios y Tratados Internacionales de la Legislatura del Estado, las Comisiones Locales Fronterizas, el Instituto Estatal de Migración, las direcciones u oficinas de atención a migrantes en los ayuntamientos del estado, las comisiones de Población, Fronteras y Asuntos Migratorios y la Comisión de Población y Desarrollo de las Cámaras, de Diputados y Senadores, respectivamente, la delegación federal del Instituto Nacional de Migración y otras dependencias y entidades públicas y privadas con tareas relacionadas, para la adecuada defensa de los derechos humanos de los migrantes nacionales y extranjeros;
 
-> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2013)</small>
 
-XVIII. Supervisar que a las personas que se encuentren privadas de su libertad en los diversos establecimientos de detención o reclusión como separos municipales, establecimientos penitenciarios distritales, separos de la Policía Ministerial, Centros de Readaptación Social y Centro de Internamiento y Atención Integral Juvenil, les sean respetados sus derechos constitucionales y se garantice la plena vigencia de sus derechos humanos;
+XVIII. Supervisar que a las personas que se encuentren privadas de su libertad en los diversos establecimientos de detención o reclusión como separos preventivos de las Policías Ministerial o Municipal, Centros de Reinserción Social, Centros de Internamiento y Atención Integral Juvenil, les sean respetados sus derechos humanos. Asimismo, podrá solicitar el reconocimiento médico, físico y psicológico de los detenidos, cuando se presuma que han sufrido malos tratos o tortura, comunicando a las autoridades competentes los resultados de las revisiones practicadas, para que se tomen las medidas conducentes;
 
-XIX. Las demás que le otorgue la presente Ley y otros ordenamientos legales.
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2013)</small>
+
+XIX. Vigilar que el sistema penitenciario se organice sobre las bases del respeto a los derechos humanos, del trabajo, la capacitación para el mismo, la educación, la salud y el deporte, como medios para lograr la reinserción del sentenciado a la sociedad y procurar que no vuelva a delinquir, observando los beneficios que para él prevé la ley; y
+
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2013)</small>
+
+XX. Las demás que le otorgue la presente ley y otros ordenamientos legales.
 
 ###### ARTICULO 9o.
 
@@ -269,9 +279,11 @@ La Comisión no podrá conocer de los asuntos relativos a:
 
 I. Resoluciones de organismos y autoridades electorales;
 
-II. Resoluciones de fondo de carácter jurisdiccional;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2013)</small>
 
-III. Resoluciones de conflictos de carácter laboral; y, (sic)
+II. Resoluciones de carácter jurisdiccional;
+
+III. (DEROGADA, P.O. 27 DE FEBRERO DE 2013)
 
 IV. Consultas formuladas por autoridades, particulares y otras entidades, sobre interpretación de las disposiciones constitucionales y legales;
 
@@ -281,29 +293,55 @@ V. Resoluciones de carácter legislativo emitidas por la Legislatura del Estado.
 
 ### CAPITULO SEGUNDO. DEL NOMBRAMIENTO Y FACULTADES DEL PRESIDENTE DE LA COMISION
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2013)</small>
+
 ###### ARTICULO 10.
 
-El Presidente de la Comisión Estatal de Derechos Humanos no estará sujeto a mandato imperativo de autoridad alguna y desempeñará sus atribuciones con autonomía, sin más restricciones que las que señalan las Constituciones Federal y Local, las leyes que de ellas emanen, y, en especial, el artículo 50 de esta Ley.
+El Presidente de la Comisión de Derechos Humanos del Estado de Zacatecas, no estará sujeto a mandato imperativo de autoridad alguna y desempeñará sus atribuciones con autonomía, sin más restricciones que las que señalan las Constituciones Federal y Local, las leyes que de ellas emanen, y, en especial, el artículo 50 de esta Ley.
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2013)</small>
 
 ###### ARTICULO 11.
 
 El Presidente de la Comisión deberá reunir los siguientes requisitos:
 
-a) Ser Ciudadano Mexicano, mayor de 35 años, con una residencia efectiva en la Entidad de por lo menos cinco años.
+I. Ser ciudadano mexicano, mayor de 35 años, con una residencia efectiva en la Entidad de por lo menos cinco años;
 
-b) Tener preferentemente Título de Licenciado en Derecho y haberse distinguido en la defensa y promoción de los Derechos Humanos.
+II. Tener grado de licenciatura, preferentemente título de Licenciado en Derecho, al menos dos años de experiencia en la defensa y promoción de los derechos humanos reconocidos en las leyes federales, estatales e instrumentos jurídicos internacionales;
 
-c) Ser de reconocida honorabilidad y no haber sido condenado por delito doloso.
+III. Ser de reconocida honorabilidad y no haber sido condenado por delito doloso;
 
-d) No tener parentesco de consanguinidad hasta el tercer grado, con el Gobernador, Magistrados del Tribunal Superior de Justicia en el Estado, ni con el Procurador General de Justicia.
+IV. No tener parentesco de consanguinidad hasta el tercer grado, con el Gobernador, Magistrados del Tribunal Superior de Justicia en el Estado, ni con el Procurador General de Justicia;
 
-e) No haber sido Dirigente de Partido Político, ni Ministro de Culto Religioso alguno, en los últimos cinco años anteriores a la elección.
+V. No haber sido dirigente de partido político, ni ministro de culto religioso alguno, en los últimos dos años anteriores a la elección; y
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 1999)</small>
+VI. No haber rechazado o incumplido, de manera infundada, una recomendación en materia de derechos humanos, con el carácter de superior jerárquico del funcionario sancionado.
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2013)</small>
 
 ###### ARTICULO 12.
 
-El Presidente de la Comisión, será designado por la Legislatura, de una terna que le formulen las fracciones parlamentarias representadas en la propia Legislatura.
+El Presidente de la Comisión, será designado por la Legislatura conforme un procedimiento de consulta pública, para lo cual observará las siguientes bases:
+
+I. Emitir una convocatoria dentro de un plazo de sesenta días previos a la conclusión del periodo para el cual fue electo el Presidente en funciones;
+
+II. Dirigir la convocatoria a toda persona interesada, en especial a los colegios de profesionistas, las organizaciones representativas de los distintos sectores de la sociedad, así como los organismos públicos y privados promotores o defensores de los derechos humanos;
+
+III. Especificar en la convocatoria:
+
+a) Requisitos para el cargo de Presidente de la Comisión conforme el artículo 11 de esta ley;
+
+b) Las bases generales del procedimiento de consulta pública y elección;
+
+c) Fecha para dar a conocer la lista oficial de los aspirantes al cargo;
+
+d) Fecha día y hora para efectuar la comparecencia pública;
+
+e) Fecha para conocer los resultados;
+
+IV. Turnar a la Comisión legislativa correspondiente para efectos de calificar y determinar las personas idóneas a ocupar el cargo. El día de la comparecencia pública, se dará el uso de la voz a cada aspirante a efecto de conocer los motivos, perfiles, méritos y la propuesta de un programa mínimo de trabajo; y
+
+V. Fundar y motivar en un dictamen de la Comisión legislativa correspondiente, los criterios que determinaron la conformación de la terna que se presentará ante el Pleno de la Legislatura para elegir al Presidente.
 
 > <small>(REFORMADO, P.O. 14 DE JUNIO DE 2006)</small>
 
@@ -317,11 +355,11 @@ El Presidente de la Comisión durará en sus funciones tres años, pudiendo ser 
 
 Las funciones del Presidente, del Secretario, del Coordinador de Visitadores y de los Visitadores son incompatibles con el desempeño de cualquier otro cargo, empleo o comisión de la Federación, del Estado, los Municipios o de organismos privados, o con el desempeño de su profesión, exceptuando las actividades académicas.
 
-> <small>(REFORMADO, P.O. 2 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2013)</small>
 
 ###### ARTICULO 15.
 
-El Presidente de la Comisión, el Coordinador de Visitadores y los Visitadores no podrán ser privados de su libertad, ni sujetos a responsabilidad civil, penal o administrativa, por las opiniones y recomendaciones que formulen, o por los actos que realicen en ejercicio de las atribuciones que les asigna esta ley.
+El Presidente de la Comisión, el Secretario Ejecutivo, el Coordinador de Visitadores, los Visitadores Generales, Regionales, Itinerantes y Adjuntos no podrán ser privados de su libertad, ni sujetos a responsabilidad civil, penal o administrativa, por las opiniones y recomendaciones que formulen, o por los actos que realicen en ejercicio de las atribuciones que les asigna esta ley.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MARZO DE 1999)</small>
 
@@ -355,9 +393,9 @@ VIII. Dictar las medidas específicas que juzgue convenientes para el mejor dese
 
 IX. Distribuir y delegar funciones al Coordinador de Visitadores y a los Visitadores en los términos del Reglamento interno;
 
-> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2006)</small>
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2013)</small>
 
-X. Rendir anualmente un informe escrito, a la Legislatura del Estado; sin perjuicio de informar cada cuatro meses a la Comisión Legislativa de Derechos Humanos, sobre el desarrollo y funcionamiento de la Comisión, estos informes serán públicos y abiertos;
+X. Rendir anualmente un informe por escrito a los tres Poderes del Estado; sin perjuicio de informar cada cuatro meses a la Comisión Legislativa de Derechos Humanos, sobre el desarrollo y funcionamiento de la Comisión, estos informes serán públicos y abiertos;
 
 XI. Celebrar, en los términos de la legislación aplicable, acuerdos, bases de coordinación y convenios de colaboración con autoridades y organismos de defensa de los derechos humanos, así como con instituciones académicas y asociaciones culturales, para el mejor cumplimiento de sus fines;
 
@@ -365,37 +403,49 @@ XII. Formular las propuestas generales conducentes a una mejor protección de lo
 
 XIII. Elaborar el presupuesto anual de egresos de la Comisión y el respectivo informe sobre su ejercicio para su aprobación por el Consejo Consultivo; y,
 
-> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2011)</small>
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2013)</small>
 
-XIV. Elaborar y proponer conjuntamente con el Secretario Ejecutivo para su aprobación al Consejo Consultivo, el Reglamento interno;
+XIV. Elaborar con conocimiento del Consejo Consultivo y proponer conjuntamente con el Secretario Ejecutivo, las Iniciativas de Ley a la Legislatura del Estado. Asimismo elaborar y proponer al Consejo Consultivo el Reglamento para su aprobación;
 
-> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2011)</small>
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2013)</small>
 
-XV. Proponer al Consejo Consultivo para su designación al titular del órgano interno de control; y
+XV. Proponer al Consejo Consultivo para su designación al titular del órgano de control interno;
 
-XVI. Las demás que le señalen la presente Ley y otros ordenamientos.
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2013)</small>
 
-> <small>(REFORMADO, P.O. 2 DE MARZO DE 2011)</small>
+XVI. Solicitar a la Legislatura del Estado o en sus recesos a la Comisión Permanente, citen a comparecer a las autoridades o servidores públicos responsables para explicar el motivo de la negativa a aceptar o cumplir las recomendaciones de la Comisión de Derechos Humanos del Estado de Zacatecas;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2013)</small>
+
+XVII. Promover las acciones de inconstitucionalidad, en contra de leyes de carácter estatal que vulneren los derechos humanos reconocidos en la Constitución y en los tratados internacionales de los que México sea parte; y
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2013)</small>
+
+XVIII. Las demás que le señalen la presente ley y otros ordenamientos.
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2013)</small>
 
 ###### ARTICULO 18.
 
-El Presidente, el Secretario Ejecutivo, el Coordinador de Visitadores y los Visitadores de la Comisión, en sus actuaciones tendrán fe pública para certificar la veracidad de los hechos en relación con las quejas presentadas ante la Comisión.
+El Presidente, el Secretario Ejecutivo, el Coordinador de Visitadores, los Visitadores Generales, Regionales, Itinerantes y Adjuntos de la Comisión, en sus actuaciones tendrán fe pública en materia de derechos humanos, para certificar la veracidad de los hechos relacionados con las quejas presentadas ante la Comisión.
 
-### CAPITULO TERCERO. DE LA INTEGRACION, NOMBRAMIENTO Y FACULTADES DEL CONSEJO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE FEBRERO DE 2013)</small>
+
+### CAPITULO TERCERO. INTEGRACIÓN, NOMBRAMIENTO Y FACULTADES DEL CONSEJO CONSULTIVO
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2013)</small>
 
 ###### ARTICULO 19.
 
-El Consejo Consultivo estará integrado, además del Presidente, por siete personas de reconocida solvencia moral, mexicanos, en pleno ejercicio de sus derechos ciudadanos y que no desempeñen cargo o comisión como servidores públicos.
+El Consejo Consultivo estará integrado, además del Presidente, por siete personas zacatecanas, de reconocida solvencia moral, en pleno ejercicio de sus derechos ciudadanos, y que no desempeñen cargo o comisión como servidores públicos, salvo la docencia. Cuando provengan de la representación popular o del servicio público, no haber rechazado o incumplido, de manera infundada, una recomendación en materia de derechos humanos, con el carácter de superior jerárquico del funcionario público sancionado.
 
-> <small>(REFORMADO, P.O. 2 DE MARZO DE 2011)</small>
+A excepción de su Presidente, los cargos de miembros del Consejo Consultivo serán honorarios, y durarán en su encargo tres años, pudiendo ser ratificados para otro periodo igual. Recibirán única y exclusivamente una dieta mensual, que en ningún caso excederá el monto de 200 cuotas de salario mínimo general vigente en el Estado, incluidos bonos y prestaciones en especie de cualquier naturaleza, de acuerdo a los lineamientos que se establezcan en el Reglamento de la Comisión y con cargo al presupuesto que anualmente le destine la Legislatura del Estado.
 
-A excepción de su Presidente, los cargos de miembros del Consejo serán honorarios, y durarán en su encargo tres años, pudiendo ser ratificados para otro periodo igual. Recibirán única y exclusivamente una dieta mensual, que en ningún caso excederá el monto de 200 cuotas de salario mínimo general vigente en el Estado, incluidos bonos y prestaciones en especie de cualquier naturaleza, de acuerdo a los lineamientos que se establezcan en el Reglamento Interno de la Comisión Estatal y con cargo al presupuesto que anualmente le destine la Legislatura del Estado.
-
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 1999)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2013)</small>
 
 ###### ARTICULO 20.
 
-La designación de los miembros del Consejo será hecha por la Legislatura a propuesta que le formulen los coordinadores de las fracciones parlamentarias representadas en la propia Legislatura.
+La designación de los miembros del Consejo Consultivo, será hecha por la Legislatura conforme el procedimiento de consulta pública establecido en el artículo 12 de esta ley.
 
 ###### ARTICULO 21.
 
@@ -413,33 +463,45 @@ II. Proponer a la Legislatura del Estado, a través de la Comisión Legislativa 
 
 III. Establecer los lineamientos generales para la actuación de la Comisión, en relación a las políticas sobre Derechos Humanos;
 
-> <small>(REFORMADA, P.O. 2 DE MARZO DE 2011)</small>
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2013)</small>
 
-IV. Aprobar el reglamento interno de la Comisión y sus manuales operativos, que someta a su consideración el Presidente y el Secretario Ejecutivo;
+IV. Aprobar el Reglamento de la Comisión que sometan a su consideración el Presidente y el Secretario Ejecutivo;
 
-V. Aprobar las normas de carácter interno relacionadas con la Comisión;
+V. (DEROGADA, P.O. 27 DE FEBRERO DE 2013)
 
-VI. Opinar sobre el proyecto de informe anual que el Presidente de la Comisión presente a la Legislatura y al Gobernador del Estado;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2013)</small>
+
+VI. Opinar sobre el proyecto de informe anual que el Presidente de la Comisión presente a la Legislatura, al Ejecutivo del Estado y al Poder Judicial;
 
 VII. Solicitar al Presidente de la Comisión información adicional sobre los asuntos que se encuentren en trámite o haya resuelto la Comisión;
 
 VIII. Aprobar el presupuesto de egresos de la Comisión para su remisión a la Legislatura;
 
-IX. Conocer el informe del Presidente de la Comisión respecto al ejercicio presupuestal; y, (sic)
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2013)</small>
 
-> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2011)</small>
+IX. Conocer el informe del Presidente de la Comisión respecto al ejercicio presupuestal;
 
-X. Designar al titular del órgano interno de control, respecto de la terna que someta a su consideración el Presidente; y
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2013)</small>
+
+X. Designar al titular del órgano de control interno, respecto de la terna que someta a su consideración el Presidente; y
 
 XI. Las demás que señale esta Ley y otros ordenamientos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2013)</small>
+
 ###### ARTICULO 22.
 
-El Consejo funcionará en sesiones ordinarias y extraordinarias y tomará sus decisiones por mayoría de votos de sus miembros presentes. En caso de empate, el Presidente tendrá voto de calidad. Las sesiones ordinarias se verificarán cuando menos una vez al mes.
+El Consejo Consultivo funcionará en sesiones ordinarias y extraordinarias y tomará sus decisiones por mayoría de votos de sus miembros presentes. En caso de empate, el Presidente tendrá voto de calidad. Las sesiones ordinarias se verificarán cuando menos una vez al mes.
 
 Las sesiones extraordinarias podrán convocarse por el Presidente de la Comisión o mediante solicitud que a aquél formulen por lo menos tres miembros del Consejo, cuando se estime que haya razones de importancia para ello.
 
-### CAPITULO CUARTO. DEL NOMBRAMIENTO Y FACULTADES DEL TITULAR DE LA SECRETARIA EJECUTIVA
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2013)</small>
+
+Las sesiones del Consejo Consultivo serán presididas por el Presidente, sólo en casos especiales y por causas de fuerza mayor, habiendo asuntos urgentes, el Presidente comunicará al Consejo Consultivo las razones de su ausencia, para que las conduzca el Secretario Ejecutivo.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE FEBRERO DE 2013)</small>
+
+### CAPITULO CUARTO. NOMBRAMIENTO Y FACULTADES DE LOS TITULARES DE LA SECRETARÍA EJECUTIVA Y DEL COORDINADOR DE VISITADORES
 
 ###### ARTICULO 23.
 
@@ -461,7 +523,9 @@ I. Elaborar, con el Presidente de la Comisión, la propuesta al Consejo Consulti
 
 II. Promover y fortalecer las relaciones de la Comisión con organismos públicos, sociales o privados, nacionales e internacionales, en materia de derechos humanos;
 
-III. Realizar estudios sobre convenios y acuerdos en materia de derechos humanos;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2013)</small>
+
+III. Realizar estudios sobre convenios, contratos y acuerdos en materia de derechos humanos y firmar conjuntamente los que suscriba el Presidente;
 
 IV. Preparar, con el Presidente, los anteproyectos de iniciativas de leyes y reglamentos que la Comisión acuerde, así como los estudios que los sustenten;
 
@@ -471,7 +535,13 @@ VI. Enriquecer, mantener y custodiar el acervo documental de la Comisión;
 
 VII. Dar seguimiento de oficio a las quejas recibidas, hasta su ejecución; y,
 
-VIII. Las demás que le sean conferidas por el Consejo o la Ley.
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2013)</small>
+
+VIII. Coordinar con acuerdo del Presidente, las acciones de transparencia como titular de la Unidad de Enlace de Acceso a la Información Pública; y
+
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2013)</small>
+
+IX. Las demás que le sean conferidas por el Presidente, el Consejo Consultivo o la ley.
 
 > <small>(ADICIONADO, P.O. 2 DE MARZO DE 2011)</small>
 
@@ -505,15 +575,27 @@ VI. Presentar conjuntamente con el Visitador responsable para su aprobación al 
 
 VII. Las demás que le sean conferidas por la presente Ley y ordenadas por el Consejo Consultivo.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE MARZO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE FEBRERO DE 2013)</small>
 
 ###### ARTICULO 25.
 
-Los Visitadores serán nombrados por el Consejo Consultivo de la Comisión y deberán reunir los mismos requisitos que el Artículo 23 en sus fracciones I, II y III exige para el titular de la Secretaría Ejecutiva y ser preferentemente Licenciado en Derecho.
+Los Visitadores Generales, Regionales e Itinerantes serán nombrados por el Consejo Consultivo de la Comisión y deberán reunir los requisitos que establece el artículo 23 en sus fracciones I, II y III de esta ley, asimismo, deberán contar con cédula profesional y título de Licenciado en Derecho. Los Visitadores Adjuntos deberán tener el grado de licenciatura, de preferencia en Derecho.
+
+Corresponde a la Coordinación de Visitadurías, organizar y coordinar el trabajo que se desarrolle en las Visitadurías Generales, Regionales e Itinerantes. Las resoluciones y recomendaciones que éstas emitan, serán puestas a su consideración, tanto para exponerlas ante el Consejo Consultivo como para la firma del Presidente.
+
+La Comisión establecerá con acuerdo del Consejo Consultivo el número de Visitadurías Regionales que se requieran, incorporando a éstas los municipios para su atención, teniendo como referencia las condiciones geográficas y de comunicación que los relacionen entre sí.
+
+Por cada Visitaduría General, Regional e Itinerante, el Presidente designará el número de Visitadores Adjuntos que se requieran. Contarán además con el número de Visitadores Auxiliares que sean necesarios para el mejor desempeño de sus funciones, mismas que serán apoyar en todo lo concerniente al trámite de quejas, y aquello que les encomienden sus superiores jerárquicos.
+
+La creación de cada Visitaduría, precederá del estudio y dictamen que se le presente al Consejo Consultivo para la consideración presupuestal.
+
+Cuando por su naturaleza geográfica o por circunstancias especiales o temporales, algunos municipios de la Entidad requieran de una atención especial por parte de la Comisión, el Presidente apoyado en la Coordinación de Visitadurías, establecerá la presencia de una Visitaduría Itinerante, para que acuda directamente, reciba, tramite y en su momento resuelva en derecho las quejas o asuntos que se presenten en aquellos lugares.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2013)</small>
 
 ###### ARTICULO 26.
 
-Los Visitadores tendrán las siguientes facultades y obligaciones:
+Los Visitadores tendrán las siguientes:
 
 I. Iniciar a petición de parte la investigación de las quejas que le sean presentadas, o de oficio y discrecionalmente aquéllas sobre denuncias o violación a los derechos humanos que aparezcan en los medios de comunicación;
 
@@ -525,7 +607,9 @@ III. Realizar las investigaciones y estudios necesarios para formular los proyec
 
 IV. Visitar, a propuesta del Coordinador de Visitadores, los Municipios de la entidad, para atender las denuncias de posibles violaciones a los derechos humanos y dar cuenta al Presiente de la Comisión;
 
-V. Visitar los Centros de Readaptación Social, dialogar con los internos y atender sus demandas que puedan constituir violaciones a los derechos humanos, y orientarlos en aquéllas que no lo sean o no competan a la Comisión;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2013)</small>
+
+V. Visitar los Centros de Reinserción Social y Centros de Internamiento y Atención Integral Juvenil para dialogar con los internos y atender las demandas que puedan constituir violaciones a los derechos humanos, y orientarlos en aquéllas que no lo sean o no competan a la Comisión;
 
 VI. Verificar la eficiencia, diligencia y honestidad en los servicios de defensoría de oficio que presta el Estado en materia penal y familiar, y hacer del conocimiento de los titulares de dicha defensoría y de los bufetes sociales, los resultados de la labor realizada;
 
@@ -535,7 +619,9 @@ VII. Las demás que le señale la presente Ley, el Reglamento respectivo, el Pre
 
 > <small>(ADICIONADO, P.O. 2 DE MARZO DE 2011)</small>
 
-### CAPITULO QUINTO. DEL NOMBRAMIENTO Y FACULTADES DEL COORDINADOR DE VISITADORES Y LOS VISITADORES
+### CAPITULO QUINTO. NOMBRAMIENTO Y FACULTADES DE LOS VISITADORES GENERALES, REGIONALES, ITINERANTES Y ADJUNTOS
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2013)</small>
 
 ###### ARTICULO 26
 
@@ -543,9 +629,11 @@ BIS.- La Visitaduría para la Atención a Migrantes, tendrá las facultades y ob
 
 ### CAPITULO SEXTO. PATRIMONIO Y PRESUPUESTO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2013)</small>
+
 ###### ARTICULO 27.
 
-El patrimonio de la Comisión Estatal de Derechos Humanos, se integra por:
+El patrimonio de la Comisión de Derechos Humanos del Estado de Zacatecas, se integra por:
 
 I. Los bienes muebles e inmuebles que el Gobierno del Estado disponga para este fin;
 
@@ -584,6 +672,10 @@ Ningún procedimiento podrá exceder del término de cuatro meses, contados a pa
 Toda persona física o moral podrá presentar por sí o por conducto de terceros ante las oficinas de la Comisión, las quejas o denuncias por presuntas violaciones a los derechos humanos, sin distinción alguna por razón de raza, sexo, idioma, religión, situación migratoria, opinión política, posición económica, o cualquiera otra condición.
 
 Cuando los interesados estén privados de su libertad o por sus condiciones físicas, mentales, económicas y culturales, no tengan capacidad efectiva o se desconozca su paradero, los hechos se podrán denunciar por los parientes o vecinos de los afectados, inclusive por menores a partir de los diez años de edad.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2013)</small>
+
+La Comisión puede iniciar de oficio las quejas por indicios de violaciones a derechos humanos publicadas en notas periodísticas.
 
 ###### ARTICULO 31.
 
@@ -701,19 +793,21 @@ IV. Citar a las personas que deban comparecer como peritos o testigos; y,
 
 V. Efectuar todas las demás acciones que conforme a derecho juzgue convenientes para el mejor conocimiento del asunto.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2013)</small>
 
 ###### ARTICULO 47.
 
-El Coordinador de Visitadores o los Visitadores tendrán la facultad de solicitar a las autoridades competentes que se tomen las medidas precautorias necesarias para evitar la consumación irreparable de las violaciones denunciadas, o la producción de daños de difícil reparación, así como requerir que aquéllas se modifiquen cuando existan circunstancias que lo justifiquen.
+El Coordinador de Visitadores, los Visitadores Generales y Regionales tendrán la facultad de solicitar a las autoridades competentes que se tomen las medidas precautorias necesarias para evitar la consumación irreparable de las violaciones denunciadas, o la producción de daños de difícil reparación, así como requerir que aquéllas se modifiquen cuando existan circunstancias que lo justifiquen.
 
 Dichas medidas pueden ser de conservación o restitutorias, según lo indique la naturaleza del asunto.
 
 ### CAPITULO TERCERO. DE LAS PRUEBAS
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2013)</small>
+
 ###### ARTICULO 48.
 
-Podrá ofrecerse como prueba todo lo que pueda constituirla, siempre y cuando guarde relación con los hechos en estudio, no sea contraria a derecho o a la moral y tienda a fundar o desvirtuar los hechos en que se basa la denuncia o la queja.
+Podrá ofrecerse como prueba todo lo que pueda constituirla, siempre y cuando guarde relación con los hechos en estudio, no sea contraria a derecho y tienda a fundar o desvirtuar los hechos en que se basa la denuncia o queja. Las notas periodísticas no constituyen por sí mismas valor probatorio pleno, para resolver o dirimir el fondo de una queja o denuncia.
 
 ###### ARTICULO 49.
 
@@ -727,9 +821,11 @@ En el caso de que sean insuficientes para acreditar los actos violatorios, se re
 
 Una vez que se hayan valorado las pruebas, si a juicio de la Presidencia de la Comisión no hiciere falta realizar otras diligencias para el esclarecimiento de los hechos, se procederá a dictar la resolución correspondiente en un plazo no mayor de quince días hábiles. La Legislatura del Estado o la Comisión Permanente en su caso, a solicitud del interesado, podrá dirigir una excitativa al Presidente de la Comisión, cuando no se dicte la Resolución en el plazo señalado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2013)</small>
+
 ###### ARTICULO 51.
 
-Concluida la investigación, el Visitador formulará un proyecto de recomendación, o de acuerdo de no responsabilidad, en los cuales se incluirá el análisis de los hechos, los argumentos y pruebas, así como los elementos de convicción y las diligencias practicadas.
+Concluida la investigación, el Visitador formulará un proyecto de recomendación, o acuerdo de no responsabilidad o los previstos en el Reglamento, en los cuales se incluirá el análisis de los hechos, los argumentos y pruebas, así como los elementos de convicción y las diligencias practicadas.
 
 En el proyecto de recomendación se señalarán las medidas que procedan para la efectiva restitución en sus derechos a los afectados, y si procede, para la reparación de los daños y perjuicios que se hubiesen ocasionado.
 
@@ -743,11 +839,25 @@ En caso de que no se comprueben las violaciones de derechos humanos imputadas, l
 
 La recomendación será pública y autónoma, no tendrá carácter imperativo para la autoridad o servidor público y, en consecuencia, no podrá por sí misma, anular, modificar o dejar sin efecto las resoluciones o actos contra los cuales se hubiere presentado la queja o denuncia.
 
-Recibida la recomendación, la autoridad o servidor público de que se trate informará, dentro de los 15 días hábiles siguientes a su notificación, si acepta dicha recomendación. Entregará, en su caso, en otros 15 días adicionales, las pruebas correspondientes de que ha cumplido con la recomendación. Dicho plazo podrá ser ampliado cuando la naturaleza de la recomendación así lo amerite.
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2013)</small>
+
+Recibida la recomendación, la autoridad o servidor público de que se trate informará, dentro de los quince días hábiles siguientes a su notificación, si acepta dicha recomendación. Entregará, en su caso, en otros quince días adicionales, las pruebas correspondientes de que se ha cumplido con la recomendación. Dicho plazo podrá ser ampliado cuando la naturaleza de la recomendación lo amerite, mediante acuerdo motivado, fundado y autorizado por el Presidente.
 
 > <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2006)</small>
 
 La recomendación se notificará al superior jerárquico del o los servidores públicos responsables de violentar derechos humanos y a la Contraloría Interna del Estado o del municipio de que se trate, para los efectos legales de su competencia, con excepción de lo establecido en el párrafo segundo del artículo 39 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2013)</small>
+
+Cuando las recomendaciones emitidas no sean aceptadas o cumplidas, se procederá conforme a lo siguiente:
+
+I. La autoridad o servidor público deberá fundar, motivar y hacer pública su negativa, y atender los llamados de la Legislatura del Estado o en sus recesos de la Comisión Permanente, a comparecer para aplicar el motivo de su negativa;
+
+II. La Comisión determinará, previa consulta con los órganos legislativos referidos en la fracción anterior, si la fundamentación y motivación presentadas son suficientes, y notificará dicha circunstancia por escrito a la propia autoridad o servidor público y, en su caso, a sus superiores jerárquicos, para los efectos de la siguiente fracción;
+
+III. Las autoridades o servidores públicos, a quienes se les hubiese notificado la insuficiencia de la fundamentación y motivación de la negativa, informarán dentro de los quince días hábiles siguientes a la notificación del escrito referido en la fracción anterior, si persisten o no en la posición de no aceptar o no cumplir la recomendación; y
+
+IV. Si persiste la negativa, la Comisión podrá denunciar ante el Ministerio Público o la autoridad administrativa que corresponda a los servidores públicos señalados en la recomendación como responsables.
 
 ###### ARTICULO 54.
 
@@ -771,7 +881,11 @@ La Comisión notificará inmediatamente a los quejosos los resultados de la inve
 
 El Presidente de la Comisión hará del conocimiento público, en su totalidad o en forma resumida las recomendaciones y los acuerdos de no responsabilidad de la Comisión; excepcionalmente podrá determinar si sólo deban comunicarse a los interesados considerando las circunstancias del caso.
 
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2013)</small>
+
 ###### ARTICULO 59.
+
+El Presidente de la Comisión de Derechos Humanos del Estado de Zacatecas presentará un informe anual sobre las actividades realizadas en el período del 1 de enero al 31 de diciembre del año inmediato anterior. Al efecto, comparecerá en el mes de enero ante el Pleno de la Comisión Permanente de la Legislatura; posteriormente, presentará el informe ante el Ejecutivo del Estado y ante el Pleno del Poder Judicial del Estado. Dicho informe será difundido en la forma más amplia posible para conocimiento de la sociedad.
 
 Los informes anuales del Presidente de la Comisión, deberán comprender una descripción del número y características de las quejas y denuncias que se hayan prsentado (sic); los efectos de la labor de conciliación; las investigaciones realizadas; las recomendaciones y los acuerdos de no responsabilidad que se hubiesen formulado; los resultados obtenidos así como las estadísticas, los programas desarrollados y demás datos que se considere convenientes.
 
@@ -809,6 +923,10 @@ En los casos a que se refiere el segundo párrafo del artículo 3o. de la Ley de
 
 Las autoridades o servidores públicos a los que se les solicite información o documentación que se estime de carácter reservado, lo comunicarán a la Comisión y expresarán las razones para considerarlo así. En ese supuesto, los Visitadores de la Comisión tendrán la facultad de hacer la calificación definitiva sobre la reserva, y solicitar que se les proporcione la información o documentación que se manejará con la más estricta confidencialidad.
 
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2013)</small>
+
+A su vez la Comisión, tratándose del trámite de expedientes relativos a problemas graves de seguridad, en los que el manejo de la información ponga en riesgo la integridad física del personal de la Comisión y servidores públicos involucrados en el trámite de quejas, tanto los documentos como la información contenida en el expediente, será clasificada como reservada o confidencial, de conformidad con la Ley de Transparencia y Acceso a la Información Pública del Estado de Zacatecas.
+
 ###### ARTICULO 65.
 
 La Comisión podrá celebrar convenios o acuerdos con autoridades, servidores públicos. Organizaciones Sociales y Particulares interesados en la defensa y lucha de los Derechos Humanos para que puedan actuar en forma honoraria como receptores de quejas y denuncias.
@@ -837,6 +955,10 @@ Además de las denuncias sobre los delitos y faltas administrativas en que pueda
 
 ## TITULO QUINTO. DEL REGIMEN LABORAL
 
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2013)</small>
+
+### CAPITULO UNICO. DISPOSICIONES LABORALES
+
 > <small>(REFORMADO, P.O. 27 DE MARZO DE 1999)</small>
 
 ###### ARTICULO 70.
@@ -849,73 +971,37 @@ Los integrantes de la Comisión se consideran trabajadores de confianza, debido 
 
 El Presidente de la Comisión, el Secretario Ejecutivo, el Coordinador de Visitadores y los Visitadores serán remunerados con los criterios que establezca la Legislatura Local, en concordancia con la Fracción II del Articulo 27 de esta misma Ley.
 
-## TÍTULO SEXTO. DE LOS ÓRGANOS AUTÓNOMOS DEL ESTADO
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE FEBRERO DE 2013)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE SEPTIEMBRE DE 2021)</small>
+## TITULO SEXTO. RECONOCIMIENTO A LOS DEFENSORES DE LOS DERECHOS HUMANOS
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE FEBRERO DE 2013)</small>
+
+### CAPITULO UNICO. PREMIO ESTATAL DE DERECHOS HUMANOS
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2013)</small>
 
 ###### ARTICULO 72.
 
-Las faltas absolutas del Gobernador serán cubiertas con arreglo a las disposiciones siguientes:
+El Premio Estatal de Derechos Humanos es el máximo reconocimiento que entrega la Comisión de Derechos Humanos del Estado de Zacatecas, para enaltecer el trabajo de las personas físicas o morales, que mediante sus actividades académicas, altruistas y humanitarias, se destaquen en la promoción y defensa de los derechos fundamentales, así como en el apoyo a las personas que por diferentes razones, se vean afectadas en su integridad personal y en su condición de seres humanos.
 
-> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 1978)</small>
-
-I. Si la falta ocurriere estando reunido el Congreso en período ordinario o extraordinario de sesiones, inmediatamente procederá a la elección de Gobernador Interino Constitucional por el voto de las dos terceras partes de la Asamblea. Se considerarán, como falta absoluta, los siguientes casos:
-
-A). Muerte, incapacidad grave y abandono del cargo por más de treinta días;
-
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
-
-B). Cargos de responsabilidad oficial, revocación de mandato o delitos del orden común calificados por el Congreso del Estado, erigido en Gran Jurado;
-
-C). Haber solicitado licencia por más de seis meses, salvo que ocupe otra función en el Gobierno Federal;
-
-D). Renuncia expresa por causa grave que será calificada por el Congreso del Estado;
-
-> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2011)</small>
-
-E). Por virtud de una resolución de destitución emitida por la Cámara de Senadores del Congreso de la Unión;
-
-II. Si la falta ocurriere estando la Legislatura en receso, se reunirá a más tardar dentro de los siete días siguientes, sin necesidad de convocatoria, y sólo para el efecto de hacer la elección en los términos de la fracción anterior; presidirá las sesiones el Presidente de la Diputación Permanente;
-
-> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 1978)</small>
-
-III. El Gobernador Constitucional Electo conforme a la fracción I, convocará a elecciones de manera que el nuevamente electo para completar el término legal, tome posesión a más tardar a los seis meses de ocurrida la falta;
-
-> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 1978)</small>
-
-IV. Si la falta se presentare en los últimos tres años del período constitucional, se elegirá Gobernador Constitucional en los términos de la Fracción Primera, el que deberá terminar el período respectivo;
-
-V. Si por cualquiera circunstancia, no pudieren reunirse la Legislatura o la Diputación Permanente y desaparecieren los Poderes Legislativo y Ejecutivo, el Presidente del Tribunal Superior de Justicia o el Magistrado que lo substituya, se hará cargo del Ejecutivo del Estado y convocará a elecciones de diputados y Gobernador, las cuales se efectuarán a los treinta días de que se haya producido la desaparición; los diputados electos instalarán la Legislatura a los quince días de efectuadas las elecciones, y el Gobernador tomará posesión a los quince días de instalada la Legislatura;
-
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1940)</small>
-
-VI. Si hubiere completa desaparición de Poderes del Estado, asumirá el cargo de Gobernador Provisional cualquiera de los dos Senadores, en funciones, electos por el Estado, a juicio de la Cámara de Senadores del Congreso de la Unión, en los términos de la parte conducente de la fracción V del artículo 76 de la Constitución General de la República. El Gobernador Provisional electo tomará posesión del cargo tan pronto como tenga conocimiento de su designación y procederá a la integración de los Poderes en la forma establecida en la fracción anterior, debiendo tomar posesión los Magistrados del Tribunal Superior de Justicia, el mismo día en que lo haga el Gobernador;
-
-VII. Si no obstante las prevenciones anteriores, se presentare el caso previsto por la fracción V del artículo 76 de la Constitución Federal, el Gobernador Provisional que nombre el Senado deberá convocar a elecciones de diputados al día siguiente de que tome posesión del cargo; estas elecciones deberán efectuarse a los treinta días de la convocatoria, y la Legislatura deberá quedar instalada dentro de los veinte días siguientes; y una vez en funciones la Legislatura, procederá como está prevenido en la fracción primera de este artículo.
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2013)</small>
 
 ###### ARTICULO 73.
 
-El ciudadano electo por la Legislatura del Estado para suplir las faltas absolutas del Gobernador, deberá reunir los requisitos señalados en el artículo sesenta y ocho de la presente Constitución.
+El Premio Estatal de Derechos Humanos consta de una presea de plata y un pergamino, podrá incorporarse un estímulo económico por la cantidad que se programe dentro del ejercicio presupuestal de la Comisión.
 
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 1983)</small>
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2013)</small>
 
 ###### ARTICULO 74.
 
-En los casos a que se refieren las fracciones I y II del Artículo 72, inmediatamente que ocurra la falta asumirá el cargo de Gobernador el Secretario General de Gobierno, sin necesidad de requisito previo.
+El Consejo Consultivo emitirá la convocatoria respectiva durante el mes de octubre de cada año. Recibirá las propuestas que formulen los ciudadanos, las organizaciones representativas de los distintos sectores de la sociedad, así como los organismos públicos y privados promotores o defensores de los derechos humanos, en las que se aporten elementos para considerar a las personas propuestas como merecedoras del reconocimiento.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2013)</small>
 
 ###### ARTICULO 75.
 
-El ciudadano que substituyere al Gobernador Constitucional, en caso de falta absoluta de éste, aun cuando fuere nombrado por el Senado, no podrá ser electo Gobernador para el período inmediato. Tampoco podrá ser reelecto Gobernador para el período inmediato el ciudadano que fuere nombrado interino en las faltas temporales de (sic) Gobernador Constitucional.
-
-> <small>(ADICIONADO, P.O. 29 DE OCTUBRE DE 1990)</small>
-
-El ciudadano que haya ocupado el cargo de Gobernador del Estado, por elección ordinaria o extraordinaria o con el carácter de interino, provisional o sustituto, en ningún caso y por ningún motivo podrá volver a ocupar el cargo de Gobernador en cualquiera de sus modalidades.
-
-> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2017)</small>
-
-Una vez concluido su periodo, la persona que haya ocupado el cargo de Gobernador no tendrá derecho a haber de retiro alguno, así como tampoco a prestaciones o beneficios humanos, materiales o económicos provenientes del erario estatal.
-
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 1983)</small>
+El Consejo Consultivo emitirá el dictamen correspondiente cuyo fallo será inapelable. El premio se entregará en la ceremonia de la Declaración Universal de los Derechos Humanos.
 
 ## TITULO SEPTIMO
 
@@ -996,6 +1082,16 @@ Artículo tercero.- Dentro de los ciento veinte días siguientes a la entrada en
 Artículo cuarto.- Dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto, el Consejo Consultivo nombrará al Coordinador de Visitadores y a los titulares de la Visitaduría para la Atención a Migrantes y del órgano interno de control.
 
 Artículo quinto.- Quedan derogadas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE FEBRERO DE 2013.
+
+Artículo Primero.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones que contravengan al presente decreto.
+
+Artículo Tercero.- Dentro del término de noventa días, contados a partir de la publicación de este decreto, la Legislatura del Estado, reformará la Ley Orgánica del Poder Legislativo del Estado de Zacatecas y su Reglamento General, de conformidad a la presente reforma.
+
+Artículo Cuarto.- En un plazo que no exceda de noventa días, contados a partir de la publicación del presente decreto, se deberán realizar las adecuaciones que correspondan al Reglamento de la Comisión, los manuales de organización y de procedimientos.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1384.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
 
