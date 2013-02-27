@@ -4,7 +4,7 @@ identifier: "CHH-codigo-civil-del-estado-de-chihuahua-9882"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2013-02-02"
+last_updated: "2013-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2013.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -2223,7 +2223,9 @@ IV.- Los ebrios consuetudinarios, y los que habitualmente hacen uso inmoderado d
 
 437.- Cuando fallezca una persona que ejerza la patria potestad sobre un incapacitado a quien deba nombrarse tutor, su ejecutor testamentario y en caso de intestado los parientes y personas con quienes haya vivido, están obligados a dar parte del fallecimiento al Juez de Primera Instancia o de lo Familiar, dentro de ocho días, a fin de que se provea la tutela; la omisión motivará la aplicación de una sanción que podrá ser de diez a cien veces el salario mínimo de multa.
 
-438.- La tutela es testamentaria, legítima o dativa.
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2013)</small>
+
+438.- La tutela es testamentaria, legítima, autodesignada o dativa.
 
 439.- Ninguna tutela puede conferirse sin que previamente se declare en los términos que disponga el Código de Procedimientos Civiles, el estado de incapacidad de la persona que va a quedar sujeta a ella.
 
@@ -2236,6 +2238,12 @@ IV.- Los ebrios consuetudinarios, y los que habitualmente hacen uso inmoderado d
 Si al cumplirse ésta continuare el impedimento, el incapaz se sujetará a nueva tutela, previo juicio de interdicción, en el cual serán oídos el tutor y el curador anteriores.
 
 442.- Los hijos menores de un incapacitado quedarán bajo la patria potestad del ascendiente que corresponda conforme a la ley; y no habiéndolo, se les proveerá de tutor.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2013)</small>
+
+442 BIS.- La persona mayor de edad capaz puede designar al tutor o tutores que deberán encargarse de su persona y, en su caso, de su patrimonio, en previsión de ser declarada en estado de incapacidad natural o legal.
+
+La designación del tutor o tutores debe hacerse en escritura pública ante notario o ante el Juez Competente, a través de una jurisdicción voluntaria que contenga expresamente el consentimiento de ambas partes y todas las reglas a las cuales deberá sujetarse el tutor, y es revocable en cualquier momento mediante la misma formalidad.
 
 > <small>(REFORMADO, P.O. 23 DE JULIO DE 2011)</small>
 
@@ -2281,7 +2289,9 @@ La madre, en su caso, podrá hacer el nombramiento de que trata este artículo.
 
 459.- Ha lugar a tutela legítima:
 
-I.- Cuando no hay quien ejerza la patria potestad ni tutor testamentario;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2013)</small>
+
+I.- Cuando no hay quien ejerza la patria potestad ni tutor testamentario o autodesignado.
 
 II.- Cuando deba nombrarse tutor por causa de divorcio.
 
@@ -2359,7 +2369,9 @@ En caso de adopción, deberá oírse a los directores o encargados de los establ
 
 472.- La tutela dativa tiene lugar:
 
-I.- Cuando no hay tutor testamentario ni persona a quien conforme a la ley corresponda la tutela legítima;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2013)</small>
+
+I. Cuando no hay tutor autodesignado, testamentario, ni persona a quien conforme a la ley corresponda la tutela legítima.
 
 II.- Cuando el tutor testamentario esté impedido temporalmente de ejercer su cargo, y no hay ningún pariente de los designados en el artículo 460.
 
@@ -2937,13 +2949,21 @@ IV.- Con la posesión provisional.
 
 ### CAPITULO II. DE LA DECLARACION DE AUSENCIA
 
-644.- Pasados dos años desde el día en que haya sido nombrado el representante, habrá acción para pedir la declaración de ausencia.
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2013)</small>
 
-645.- En caso de que el ausente haya dejado o nombrado apoderado general para la administración de sus bienes, no podrá pedirse la declaración de ausencia sino pasados tres años que se contarán desde la desaparición del ausente, si en este período no se tuvieren ningunas noticias suyas, o desde la fecha en que se hayan tenido las últimas.
+644.- Pasado un año desde el día en que haya sido nombrado el representante, habrá acción para pedir la declaración de ausencia.
 
-646.- Lo dispuesto en el artículo anterior se observará aun cuando el poder se haya conferido por más de tres años.
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2013)</small>
 
-647.- Pasados dos años, que se contarán del modo establecido en el artículo 645, el Ministerio Público y las personas que designa el artículo siguiente, pueden pedir que el apoderado garantice, en los mismos términos en que debe hacerlo el representante. Si no lo hiciere se nombrará representante de acuerdo con lo dispuesto en los artículos 632, 633 y 634.
+645.- En caso de que el ausente haya dejado o nombrado apoderado general para la administración de sus bienes, no podrá pedirse la declaración de ausencia sino pasados dos años que se contarán desde la desaparición del ausente, si en este período no se tuvieren ningunas noticias suyas, o desde la fecha en que se hayan tenido las últimas.
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2013)</small>
+
+646.- Lo dispuesto en el artículo anterior se observará aun cuando el poder se haya conferido por más de un año.
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2013)</small>
+
+647.- Pasado un año, que se contará del modo establecido en el artículo 645, el Ministerio Público y las personas que designa el artículo siguiente, pueden pedir que el apoderado garantice, en los mismos términos en que debe hacerlo el representante. Si no lo hiciere se nombrará representante de acuerdo con lo dispuesto en los artículos 632, 633 y 634.
 
 648.- Pueden pedir la declaración de ausencia:
 
@@ -2957,11 +2977,15 @@ IV.- El Ministerio Público.
 
 649.- Si el Juez encuentra fundada la demanda, dispondrá que se publique durante tres meses, con intervalos de quince días, en el Periódico Oficial y en los principales del último domicilio del ausente y la remitirá a los cónsules, conforme al artículo 625.
 
-650.- Pasados cuatro meses desde la fecha de la última publicación, si no hubiere noticias del ausente ni oposición de algún interesado, el Juez declarará en forma la ausencia.
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2013)</small>
+
+650.- Pasados tres meses desde la fecha de la última publicación, si no hubiere noticias del ausente ni oposición de algún interesado, el juez declarará en forma la ausencia.
 
 651.- Si hubiere algunas noticias u oposición el Juez no declarará la ausencia sin repetir las publicaciones que establece el artículo 649, y hacer la averiguación por los medios que el oponente proponga, y por los que el mismo Juez crea oportunos.
 
-652.- La declaración de ausencia se publicará tres veces en los periódicos mencionados con intervalo de quince días, remitiéndose a los cónsules como está prevenido respecto de los edictos. Ambas publicaciones se repetirán cada dos años, hasta que se declare la presunción de muerte.
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2013)</small>
+
+652.- La declaración de ausencia se publicará tres veces en los periódicos mencionados con intervalo de quince días, remitiéndose a los cónsules como está prevenido respecto de los edictos. Ambas publicaciones se repetirán cada año, hasta que se declare la presunción de muerte.
 
 653.- El fallo que se pronuncie en el juicio de declaración de ausencia podrá impugnarse mediante la interposición del recurso de apelación que se admitirá en ambos efectos.
 
@@ -3029,9 +3053,15 @@ Si hubiere legatarios, el cónyuge, los descendientes y ascendientes darán la g
 
 ### CAPITULO V. DE LA PRESUNCION DE MUERTE DEL AUSENTE
 
-680.- Cuando hayan transcurrido seis años desde la declaración de ausencia, el Juez, a instancia de parte interesada, declarará la presunción de muerte.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2013)</small>
+
+680.- Cuando hayan transcurrido tres años desde la declaración de ausencia, el juez, a instancia de parte interesada, declarará la presunción de muerte.
 
 Respecto de los individuos que hayan desaparecido al tomar parte en una guerra, encontrándose a bordo de un buque que naufrague, o al verificarse una explosión, incendio, terremoto, inundación u otro siniestro semejante, bastará que hayan transcurrido dos años, contados desde su desaparición para que pueda hacerse la declaración de presunción de muerte, sin que en esos casos sea necesario que previamente se declare su ausencia; pero si se tomarán las medidas provisionales autorizadas por el capítulo I de este Título.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2013)</small>
+
+Cuando la desaparición sea consecuencia de la comisión de delitos en materia de secuestro, así como en el caso de miembros de corporaciones de seguridad pública o de las Fuerzas Armadas que sean sustraídos con motivo del ejercicio de sus funciones, bastará el transcurso de un año, contado a partir de la fecha en que se tuvo noticia de su paradero por última ocasión, para que se declare la presunción de muerte.
 
 681.- Declarada la presunción de muerte, se abrirá el testamento del ausente, si no estuviere ya publicado, conforme al artículo 655; los poseedores provisionales darán cuenta de su administración en los términos prevenidos en el artículo 669, y los herederos y demás interesados entrarán en la posesión definitiva de los bienes, sin garantía alguna, la que según la ley se hubiere dado quedará cancelada.
 
@@ -12842,3 +12872,23 @@ P.O. 2 DE FEBRERO DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE FEBRERO DE 2013.
+
+DECRETO NÚMERO 819/2012 II P.O., POR EL QUE SE REFORMAN LOS ARTÍCULOS 644, 645, 646, 647, 650, 652 Y 680, PRIMER PÁRRAFO; Y SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 680, TODOS DEL CÓDIGO CIVIL DEL ESTADO.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE FEBRERO DE 2013.
+
+DECRETO NÚMERO 899/2012 I P.O. POR EL QUE SE REFORMA EL ARTÍCULO 438; LA FRACCIÓN I, DEL ARTÍCULO 459, Y LA FRACCIÓN I, DEL ARTÍCULO 472; ASÍ MISMO, SE ADICIONA UN ARTÍCULO 442 BIS, TODOS DEL CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
