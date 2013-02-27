@@ -4,7 +4,7 @@ identifier: "SIN-codigo-penal-para-el-estado-de-sinaloa-6529"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-10-28"
-last_updated: "2012-04-25"
+last_updated: "2013-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CÓDIGO PENAL PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2013.
 
 Código publicado en la Sección Primera del Periódico Oficial del Estado de Sinaloa, el miércoles 28 de octubre de 1992.
 
@@ -1937,13 +1937,17 @@ IV.- En contra de una oficina recaudatoria u otra en que se conserven caudales, 
 
 V.- Recayendo en expedientes o documentos, con la afectación de alguna función o servicios públicos;
 
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2013)</small>
 
-VI.- Quebrantando la confianza o seguridad derivada de una relación de servicio, trabajo u hospitalidad; o
+VI.- Quebrantando la confianza o seguridad derivada de una relación de servicio, trabajo u hospitalidad;
 
-> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2013)</small>
 
-VII.- Recayendo sobre equipaje o valores de viajeros en cualquier lugar durante el viaje.
+VII.- Recayendo sobre equipaje o valores de viajeros en cualquier lugar durante el viaje; o
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2013)</small>
+
+VIII.- Recayendo sobre vales o cualquier dispositivo electrónico en forma de tarjeta plástica, emitidos por personas morales, destinados al canje de bienes y servicios.
 
 ###### ARTICULO 205.
 
@@ -2145,9 +2149,21 @@ IV.- Siendo patrón, no pague a sus trabajadores al menos los salarios mínimos 
 
 V.- Enajene o traspase una negociación, sin autorización de los acreedores de ella o sin que el nuevo adquirente se comprometa a responder de los créditos, siempre que estos últimos resulten insolutos;
 
-VI.- Por sí o por interpósita persona, cause perjuicio al fraccionar y transferir la propiedad, la posesión o cualquier otro derecho sobre un terreno urbano o rústico, con o sin construcciones, sin previo permiso de las autoridades administrativas competentes, o cuando existiendo éste no se hayan satisfecho los requisitos en él señalados. La sanción se aplicará aún en el caso de falta de pago total o parcial del precio de la cosa o del derecho transmitido; o
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2013)</small>
 
-VII.- Al que sin estar autorizado para hacerlo, ofrezca al público en general pagarle intereses más altos que los cubiertos por las instituciones financieras legalmente establecidas, logrando que mediante la celebración de uno o más actos jurídicos de cualquier naturaleza, cinco o más personas le entreguen dinero en efectivo y no cumpla sus compromisos en los plazos estipulados, se le aplicarán de diez a quince años de prisión y de quinientos a mil días multa. Si la conducta descrita es realizada por una persona moral, dichas penas se impondrán a sus administradores, gerentes y, en general, representantes legales, sin perjuicio de aplicar a la persona jurídica colectiva cualquiera de las consecuencias previstas en el artículo 70 de este Código.
+VI.- Por sí o por interpósita persona, cause perjuicio al fraccionar y transferir la propiedad, la posesión o cualquier otro derecho sobre un terreno urbano o rústico, con o sin construcciones, sin previo permiso de las autoridades administrativas competentes, o cuando existiendo éste no se hayan satisfecho los requisitos en él señalados. La sanción se aplicará aún en el caso de falta de pago total o parcial del precio de la cosa o del derecho transmitido;
+
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2013)</small>
+
+VII.- Al que sin estar autorizado para hacerlo, ofrezca al público en general pagarle intereses más altos que los cubiertos por las instituciones financieras legalmente establecidas, logrando que mediante la celebración de uno o más actos jurídicos de cualquier naturaleza, cinco o más personas le entreguen dinero en efectivo y no cumpla sus compromisos en los plazos estipulados, se le aplicarán de diez a quince años de prisión y de quinientos a mil días multa. Si la conducta descrita es realizada por una persona moral, dichas penas se impondrán a sus administradores, gerentes y, en general, representantes legales, sin perjuicio de aplicar a la persona jurídica colectiva cualquiera de las consecuencias previstas en el artículo 70 de este Código;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2013)</small>
+
+VIII.- Venda o intercambie por algún otro bien, vales o cualquier dispositivo electrónico en forma de tarjeta plástica, utilizados para canjear bienes y servicios, con conocimiento de que son falsos; o
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2013)</small>
+
+IX.- Haga efectivos vales o cualquier dispositivo electrónico en forma de tarjeta plástica, utilizados para canjear bienes o servicios, ante las tiendas o establecimientos que los aceptan, con conocimiento de que son falsos.
 
 ### CAPITULO III. TRAFICO DE MENORES
 
@@ -2653,13 +2669,21 @@ II. Adquiera con propósito de lucro indebido, utilice, posea o detente, sin cau
 
 III. Altere los medios de identificación electrónica, o cualquiera de los objetos a que se refiere la fracción I.
 
-IV. Acceda a los equipos electromagnéticos de las instituciones emisoras de tarjetas, títulos o documentos para el pago de bienes y servicios o para disposición de efectivo.
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2013)</small>
 
-V. Adquiera, utilice o posea equipos electromagnéticos o electrónicos para sustraer la información contenida en la cinta o banda magnética de tarjetas, títulos o documentos, para el pago de bienes o servicios o para disposición de efectivo, así como a quien posea o utilice la información sustraída, de esta forma;
+IV. Acceda a los equipos electromagnéticos de las instituciones emisoras de tarjetas, títulos, vales o documentos para el pago de bienes y servicios o para disposición de efectivo;
 
-VI. Utilice indebidamente información confidencial o reservada de las instituciones o personas que legalmente esté facultada para emitir tarjetas, títulos o documentos utilizados para el pago de bienes y servicios, o de los titulares de dichos instrumentos o documentos; y,
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2013)</small>
 
-VII. Produzca, imprima, enajene, distribuya, altere, o falsifique vales utilizados para canjear bienes y servicios.
+V. Adquiera, utilice o posea equipos electromagnéticos o electrónicos para sustraer la información contenida en la cinta o banda magnética de tarjetas, títulos, vales o documentos, para el pago de bienes y servicios o para disposición en efectivo, así como a quien posea o utilice la información sustraída, de esta forma;
+
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2013)</small>
+
+VI. Utilice indebidamente información confidencial reservada de las instituciones o persona que esté facultada para emitir tarjetas, títulos, vales o documentos utilizados para el pago de bienes y servicios, o de los titulares de dichos instrumentos o documentos; o,
+
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2013)</small>
+
+VII. Produzca, imprima, enajene, distribuya, altere, o falsifique vales o cualquier dispositivo electrónico en forma de tarjeta plástica, utilizados para canjear bienes y servicios.
 
 En los casos de las fracciones VI y VII, si el sujeto activo es empleado o dependiente del ofendido, las penas se aumentarán hasta en una mitad.
 
@@ -3267,7 +3291,7 @@ No justifica la tortura que se invoquen o existan circunstancias excepcionales, 
 
 ###### ARTICULO 331.
 
-En el momento que lo solicite cualquier detenido o reo, deberá ser reconocido por perito médico legista o por un facultativo médico de su elección. El que haga el reconocimiento queda obligado a expedir, de inmediato, el certificado del mismo, y en caso de apreciar que se han inflijidon (sic) dolores o sufrimientos, de los comprendidos en el primer párrafo del artículo 328 deberá comunicarlo a la autoridad competente.
+En el momento que lo solicite cualquier detenido o reo, deberá ser reconocido por perito médico legista o por un facultativo médico de su elección. El que haga el reconocimiento queda obligado a expedir, de inmediato, el certificado del mismo, y en caso de apreciar que se han inflijido (sic) dolores o sufrimientos, de los comprendidos en el primer párrafo del artículo 328 deberá comunicarlo a la autoridad competente.
 
 La solicitud de reconocimiento médico puede formularla el defensor del detenido o reo, o un tercero.
 
@@ -3803,7 +3827,7 @@ Artículo Único.- El presente Decreto entrará en vigor el día siguiente de su
 
 P.O. 3 DE OCTUBRE DE 2007.
 
-DECRETO NÚMERO 648, POR EL QUE SE REFORMA EL ARTÍCULO 75 Y SE ADICIONA EL ARTÍCULO 75 BIS AL CÓDIGO PENAL PARA EL ESTADO DE SINALOA.
+DECRETO NUMERO 648
 
 ###### ARTÍCULO ÚNICO.
 
@@ -3811,7 +3835,7 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 3 DE OCTUBRE DE 2007.
 
-DECRETO NÚMERO 649, POR EL QUE SE REFORMAN LOS ARTÍCULOS 242, PRIMER PÁRRAFO; 243, PRIMER PÁRRAFO; 273; 274 BIS, PRIMER Y ÚLTIMO PÁRRAFOS; 274 BIS A; 274 BIS B; 274 BIS C; Y SE ADICIONA UN ARTÍCULO 274 BIS D AL CÓDIGO PENAL PARA EL ESTADO DE SINALOA.
+DECRETO NUMERO 649
 
 ###### ARTÍCULO ÚNICO.
 
@@ -3926,3 +3950,9 @@ P.O. 25 DE ABRIL DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 27 DE FEBRERO DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
