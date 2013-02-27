@@ -4,7 +4,7 @@ identifier: "CHH-codigo-de-procedimientos-civiles-del-estado-de-chihuahua-9883"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2013-02-20"
+last_updated: "2013-02-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9883&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CHH"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2013.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 20 DE FEBRERO DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2013.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -609,7 +607,11 @@ Contra la resolución que ordene que se haga uso de un medio de apremio, cabrá 
 
 ### CAPITULO V. De los términos judiciales
 
-111.- Los términos que este Código establece salvo los casos de excepción por él mismo determinados, son improrrogables, y se contarán a partir del día siguiente a aquél en que se hubiere hecho el emplazamiento, citación o notificación.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2013)</small>
+
+111.- Los términos que este Código establece salvo los casos de excepción por él mismo determinados, son improrrogables, y se contarán a partir del día siguiente a aquél en que se hubiere hecho el emplazamiento, citación, notificación o de la fecha del acuse de recibo en el caso de notificaciones por correo electrónico o, en su caso, mediante consulta remota.
 
 Cuando fueren varias las partes y el término común, éste comenzará a contarse desde el día siguiente a la última notificación. Se entenderá que el término es común, siempre que la ley o su propia naturaleza no lo determinen como individual.
 
@@ -641,6 +643,18 @@ b).- Tres días para todos los demás casos.
 
 Cuando un litigante cambiare de domicilio, deberá designar el nuevo; y mientras no lo hiciere, las notificaciones personales se le seguirán haciendo en el domicilio que conste en autos. Esto mismo se aplicará a todas las demás personas que con cualquier carácter diverso del de partes, intervenga en el litigio, salvo cuando se trate de autoridades.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2013)</small>
+
+Cualesquiera de las partes podrá autorizar que a través de correo electrónico o, en su caso, mediante consulta remota, se les realicen las notificaciones, aun las de carácter personal que así considere el tribunal, para tal efecto el plazo correrá desde el momento en que se tenga por hecha la notificación, para lo cual el tribunal emisor contará con los medios necesarios para justificar la entrega en tiempo y forma de dicha notificación elaborando un registro que contendrá los datos necesarios que otorguen certeza a dicho medio de notificación, la cual se tendrá por legalmente practicada surtiendo sus efectos en los términos previstos por el artículo 111 de este Código.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2013)</small>
+
+Se excluyen de la anterior forma de notificación, el emplazamiento y todas aquellas que el tribunal considere.
+
 119.- Se notificará personalmente en el domicilio del interesado:
 
 a).- El emplazamiento del demandado y la primera notificación en el juicio, aunque sean diligencias preparatorias o se trate de terceros extraños al juicio.
@@ -661,7 +675,23 @@ f).- En los demás casos que la ley lo disponga.
 
 120.- Si se tratare de la notificación de la demanda y a la primera busca no se encontrare al demandado, cerciorado el que debe hacer la notificación de que el interesado vive en dicha casa, se le dejará cita para hora fija dentro del día hábil siguiente, haciendo constar en el citatorio el nombre de la persona a quien se cita, el día y la hora en que debe esperar la notificación, y pondrá en el mismo el sello del juzgado autorizándose el citatorio por el notificador. Si la persona que debe ser notificada no esperase a que se le haga la notificación, ésta se le hará por medio de instructivo que se entregará a los parientes o domésticos del interesado o a cualquiera otra persona que viva en la casa y, en caso de no atender nadie, se fijará en la puerta del domicilio donde se actúa, de todo lo cual se asentará razón en las diligencias. Cuando no sea forzoso entregar las copias del traslado, en el instructivo se hará una relación sucinta de la demanda y de la resolución que se notifica y, en todo caso, la designación del juicio y el nombre del promovente.
 
-Las demás notificaciones personales se harán al interesado, o a su representante o procurador, en la casa designada al efecto; y no encontrándolo el notificador, sin necesidad de nueva búsqueda, le dejará un instructivo en el que hará constar la fecha y hora en que la entrega, el nombre y apellido del promovente, el Tribunal que manda practicar la diligencia, la determinación que se manda notificar y el nombre y apellido de la persona a quien se entrega, recogiéndole la firma en la razón que asentará del acto. Si ésta no supiere, o no pudiere o no quisiere firmar, se hará constar esta circunstancia.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2013)</small>
+
+Las demás notificaciones personales se harán al interesado, o a su representante o procurador, por correo electrónico o, en su caso, mediante consulta remota, o bien, de manera personal en la casa designada al efecto; y no encontrándolo el notificador, sin necesidad de nueva búsqueda, le dejará un instructivo en el que hará constar la fecha y hora en que la entrega, el nombre y apellido del promovente, el Tribunal que manda practicar la diligencia, la determinación que se manda notificar y el nombre y apellido de la persona a quien se entrega, recogiéndole la firma en la razón que asentará del acto. Si ésta no supiere, o no pudiere o no quisiere firmar, se hará constar esta circunstancia.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2013)</small>
+
+El Poder Judicial del Estado establecerá en su reglamento la notificación mediante correo electrónico o, en su caso, consulta remota, conforme lo establecido en la Ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2013)</small>
+
+Para efectos de las notificaciones a las que se hacen referencia en el párrafo anterior, se entiende por correo electrónico, el sistema de comunicación a través de las redes informáticas señaladas por las partes en el juicio, mientras que la consulta remota, es aquella que se realice a un expediente por un medio oficial electrónico, a través del cual el tribunal da a conocer las actuaciones.
 
 121.- Sin perjuicio de lo dispuesto en el artículo anterior, cuando después de cerciorado el notificador de que la persona por notificar vive en la casa y se encontrare ausente de ella, y la persona con quien se entiende la notificación se niegue a recibir ésta, la notificación podrá hacerse en el lugar en que habitualmente trabaje la persona que debe ser notificada, sin necesidad de que el Tribunal dicte providencia especial para ello.
 
@@ -5116,3 +5146,9 @@ DECRETO No. 1133/2012, POR EL QUE SE REFORMA EL ARTÍCULO 120 Y SE DEROGAN LOS I
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE FEBRERO DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a los 180 días después de su publicación en el Periódico Oficial del Estado.
