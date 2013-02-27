@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "2012-08-28"
+last_updated: "2013-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2013.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -637,9 +637,9 @@ V. No ser Presidente o Consejero ciudadano de la Comisión Estatal de Derechos H
 
 VI. No estar en servicio activo en el Ejército Nacional, ni tener mando en la policía o en cuerpo de seguridad pública en el distrito en que se pretenda su elección, cuando menos sesenta días antes de ella;
 
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2013)</small>
 
-VII. No ser Secretario General de Gobierno o quien haga sus veces, Secretario del Despacho del Poder Ejecutivo, Procurador Social del Estado, Magistrado del Supremo Tribunal de Justicia, del Tribunal de lo Administrativo, integrante del Consejo de la Judicatura o Magistrado del Tribunal de Arbitraje y Escalafón. Los servidores públicos comprendidos en esta fracción podrán ser electos siempre que, al efectuarse la elección, tengan cuando menos noventa días de estar separados de sus cargos; y (sic)
+VII. No ser Secretario General de Gobierno o quien haga sus veces, Secretario del Despacho del Poder Ejecutivo, Fiscal General, Procurador Social del Estado, Magistrado del Supremo Tribunal de Justicia, del Tribunal de lo Administrativo, integrante del Consejo de la Judicatura o Magistrado del Tribunal de Arbitraje y Escalafón. Los servidores públicos comprendidos en esta fracción podrán ser electos siempre que, al efectuarse la elección, tengan cuando menos noventa días de estar separados de sus cargos;
 
 > <small>(REFORMADA, P.O. 13 DE ENERO DE 2007)</small>
 
@@ -899,9 +899,9 @@ XVI. Conceder o negar licencias a los diputados y al Gobernador del Estado para 
 
 XVII. Conceder o negar las licencias para ausentarse de sus cargos que, por más de dos meses, soliciten los magistrados del Poder Judicial, los consejeros electorales del Instituto Electoral del Estado, el Presidente y consejeros del Instituto de Transparencia e Información Pública de Jalisco, así como el Presidente y los consejeros ciudadanos de la Comisión Estatal de Derechos Humanos, en los términos que establezca la ley;
 
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2013)</small>
 
-XVIII. Ratificar al Procurador General de Justicia del Estado;
+XVIII. Ratificar al Fiscal General en los términos de esta Constitución; y al Contralor del Estado por el voto de cuando menos cincuenta por ciento más uno de los diputados integrantes del Congreso;
 
 > <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -1073,7 +1073,9 @@ f) No haber sido condenado por delito doloso que amerite pena corporal de más d
 
 g) No ser ministro de alguna asociación religiosa, a menos de que se separe formal, material y definitivamente de su ministerio en la forma y con la anticipación que establece la Ley de Asociaciones Religiosas y Culto Público, reglamentaria de los artículos 24 y 130 de la Constitución Política de los Estados Unidos Mexicanos;
 
-h) No haber sido titular de alguna de las secretarías de despacho del Ejecutivo, Procurador General de Justicia, Magistrado del Poder Judicial integrante del Consejo General del Poder Judicial, Magistrado del Tribunal de Arbitraje y Escalafón, Encargado de Hacienda Municipal, Diputado o titular de algún ente auditable durante los dos años previos al de su designación, y tener sus cuentas públicas aprobadas;
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2013)</small>
+
+h) No haber sido titular de alguna de las secretarías de despacho del Ejecutivo, Fiscal General, Magistrado del Poder Judicial, integrante del Consejo General del Poder Judicial, Magistrado del Tribunal de Arbitraje y Escalafón, Encargado de Hacienda Municipal, Diputado o titular de algún ente auditable durante los dos años previos al de su designación, y tener sus cuentas públicas aprobadas;
 
 i) No haber sido Secretario de Estado, Procurador General de la República, Senador o Diputado federal, a menos que se separe de su cargo dos años antes al día en que tenga verificativo su designación;
 
@@ -1121,7 +1123,9 @@ III. Ser nativo del Estado o avecindado en él, cuando menos, cinco años inmedi
 
 IV. No estar en servicio activo en el Ejército Nacional ni en las fuerzas de seguridad pública del Estado, cuando menos noventa días anteriores a la elección, y
 
-V. No ser Secretario General de Gobierno o Secretario del Despacho del Poder Ejecutivo, a no ser que se separe del cargo cuando menos noventa días antes de la elección.
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2013)</small>
+
+V. No ser Secretario General de Gobierno, Fiscal General o Secretario del Despacho del Poder Ejecutivo, a no ser que se separe del cargo cuando menos noventa días antes de la elección.
 
 > <small>(REFORMADO, P.O. 5 DE JULIO DE 2008)</small>
 
@@ -1349,17 +1353,23 @@ Ninguna persona podrá hacerse justicia por sí misma ni ejercer violencia para 
 
 Toda persona tiene derecho a que se le administre justicia por tribunales que estarán expeditos para impartirla en los plazos y términos que fijen las leyes, los cuales deberán emitir sus resoluciones de manera pronta, completa e imparcial. Su servicio será gratuito, quedando en consecuencia prohibidas las costas judiciales.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2013)</small>
 
 ###### Art. 53.
 
-La imposición de las penas es propia y exclusiva de la autoridad judicial. La investigación y persecución ante los tribunales, de los delitos del fuero común, incumbe al Ministerio Público estatal, el cual se auxiliará con una corporación policial que estará bajo su autoridad y mando inmediato.
+La imposición de las penas, su modificación y duración son propias y exclusivas de la autoridad judicial.
 
-La ley organizará al Ministerio Público, el cual estará presidido por un Procurador General de Justicia, designado por el Titular del Poder Ejecutivo y ratificado por el Congreso con el voto de cuando menos el sesenta y uno por ciento de los diputados presentes. El ciudadano que, habiendo sido designado por el Gobernador, no hubiere sido ratificado, no podrá volver a ser propuesto dentro del término de un año.
+La investigación de los delitos del fuero común y concurrentes y la persecución ante los tribunales de los responsables en su comisión corresponden al Ministerio Público a cargo del Fiscal General, quien se auxiliará de las policías, las que estarán bajo su mando inmediato, en los términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos.
 
-Las resoluciones del Ministerio Público sobre el no ejercicio y desistimiento de la acción penal, podrán ser impugnadas por vía jurisdiccional, en los términos que establezca la ley.
+La ley organizará al Ministerio Público, el cual estará presidido por un Fiscal General, designado por el titular del Poder Ejecutivo y ratificado por el Congreso mediante el voto de dos terceras partes de los diputados presentes en la sesión del Congreso del Estado. El ciudadano que, habiendo sido designado por el Gobernador, no hubiere sido ratificado, no podrá volver a ser propuesto dentro del término de un año.
 
-Para ser Procurador se requiere cumplir con los mismos requisitos que esta Constitución exige para los magistrados del Supremo Tribunal de Justicia. El Procurador podrá ser removido libremente por el Gobernador del Estado.
+El titular del Poder Ejecutivo deberá enviar una nueva propuesta al Congreso del Estado dentro de los siguientes quince días hábiles.
+
+Las resoluciones del Ministerio Público sobre el no ejercicio y desistimiento de la acción penal podrán ser impugnados por vía jurisdiccional, en los términos que establezca la ley.
+
+Para ser Fiscal General se requiere cumplir con los mismos requisitos que esta Constitución exige para los magistrados del Supremo Tribunal de Justicia, además de cumplir y aprobar los exámenes de control de confianza en los términos de la ley, previo a su designación. El Fiscal General podrá ser libremente removido por el Gobernador del Estado.
+
+El personal de la Fiscalía General del Estado será nombrado por el Fiscal General, previo cumplimiento de los requisitos establecidos en las leyes aplicables.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -1453,9 +1463,9 @@ III. Poseer el día de la elección, con antigüedad mínima de diez años, tít
 
 IV. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;
 
-> <small>(REFORMADA, P.O. 13 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2013)</small>
 
-V. No haber sido Gobernador, titular de alguna de las secretarías de despacho del Ejecutivo, jefe de departamento administrativo, Procurador General de Justicia, integrante del Consejo (sic) la Judicatura, Diputado local, Presidente, Síndico o Regidor de Ayuntamiento, durante el año previo al día de la elección; y
+V. No haber sido Gobernador, titular de alguna de las secretarías de despacho del Ejecutivo, jefe de departamento administrativo, Fiscal General, integrante del Consejo de la Judicatura, Diputado local, Presidente, Síndico o Regidor de Ayuntamiento durante el año previo al día de la elección, y
 
 VI. No haber sido Secretario de Estado o jefe de departamento administrativo de la Federación, Procurador General de la República, Senador o Diputado federal, a menos que se separe de su cargo un año antes al día en que tenga verificativo la elección.
 
@@ -2161,9 +2171,9 @@ En los juicios del orden civil no hay fuero ni inmunidad.
 
 El procedimiento del juicio político se regirá conforme a las siguientes prevenciones:
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2007)</small>
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2013)</small>
 
-I. Serán sujetos de juicio político, los diputados del Congreso del Estado; los magistrados del Poder Judicial y jueces de primera instancia; los titulares de las secretarías dependientes del Poder Ejecutivo del Estado, el Contralor del Estado, el Procurador General de Justicia y el Procurador Social; los integrantes del Consejo General del Poder Judicial, los consejeros electorales del Instituto Electoral del Estado; el Presidente y los consejeros de la Comisión Estatal de Derechos Humanos; el Presidente y consejeros del Instituto de Transparencia e Información Pública de Jalisco; el Auditor Superior del Estado; los presidentes, regidores, síndicos o concejales; los funcionarios encargados de la Secretaria General de los ayuntamientos; los funcionarios encargados de las haciendas municipales; así como los titulares de organismos públicos descentralizados y empresas de participación estatal y municipal mayoritaria;
+I. Serán sujetos de juicio político los diputados del Congreso del Estado; los magistrados del Poder Judicial y jueces de primera instancia; los titulares de las secretarías dependientes del Poder Ejecutivo del Estado; el Contralor del Estado, el Fiscal General y el Procurador Social; los integrantes del Consejo General del Poder Judicial; los consejeros electorales del Instituto Electoral del Estado; el Presidente y los consejeros de la Comisión Estatal de Derechos Humanos; el Presidente y consejeros del Instituto de Transparencia e Información Pública de Jalisco; el Auditor Superior del Estado; los presidentes, regidores, síndicos o concejales; los funcionarios encargados de la Secretaría General de los ayuntamientos; los funcionarios encargados de las haciendas municipales; así como los titulares de organismos públicos descentralizados y empresas de participación estatal y municipal mayoritaria;
 
 II. Se determinará la responsabilidad de los servidores públicos mediante juicio político, cuando en el ejercicio de sus funciones incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho;
 
@@ -2203,11 +2213,11 @@ La comisión de delitos por parte de cualquier servidor público será perseguid
 
 Las leyes determinarán los casos y las circunstancias en los que se deba sancionar penalmente por causa de enriquecimiento ilícito, a los servidores públicos que, durante el tiempo de su encargo o por motivos del mismo, por sí o por interpósita persona, aumenten substancialmente su patrimonio, adquieran bienes o se conduzcan como dueños sobre ellos, sin que puedan demostrar su procedencia lícita. La ley sancionará con el decomiso y con la privación de la propiedad de dichos bienes, sin que se pueda considerar confiscatoria, además de las otras penas que correspondan.
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2013)</small>
 
 ###### Art. 100.
 
-Para actuar penalmente contra los diputados al Congreso del Estado; los titulares de las secretarías del Poder Ejecutivo, el Procurador General de Justicia y el Procurador Social; los magistrados del Poder Judicial del Estado; el Presidente y los consejeros ciudadanos de la Comisión Estatal de Derechos Humanos; consejeros electorales del Instituto Electoral del Estado; el Presidente y consejeros del Instituto de Transparencia e Información Pública de Jalisco; el Auditor Superior del Estado; los presidentes municipales, regidores, síndicos y concejales de los ayuntamientos concejos municipales, se requerirá establecer la procedencia de acuerdo a las siguientes normas:
+Para actuar penalmente contra los diputados al Congreso del Estado; los titulares de las secretarías del Poder Ejecutivo; el Fiscal General y el Procurador Social; los magistrados del Poder judicial del Estado; el Presidente y los consejeros ciudadanos de la Comisión Estatal de Derechos Humanos; consejeros electorales del Instituto Electoral del Estado; el Presidente y consejeros del Instituto de Transparencia e Información Pública de Jalisco; el Auditor Superior del Estado; los presidentes municipales, regidores, síndicos y concejales de los ayuntamientos o concejos municipales, se requerirá establecer la procedencia de acuerdo con las siguientes normas:
 
 > <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -3044,3 +3054,15 @@ SEGUNDO. Notifíquese y envíese el presente decreto a los ayuntamientos del est
 P.O. 28 DE AGOSTO DE 2012.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 27 DE FEBRERO DE 2013.
+
+PRIMERO. El presente decreto entrará en vigor el primero de marzo de dos mil trece, previa su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Durante el tiempo que dure el procedimiento de ratificación del Fiscal General, el Gobernador del Estado designará libre y directamente a quien deba encargarse del despacho de la Fiscalía General del Estado; la persona designada deberá cumplir los requisitos constitucionales para ser magistrado y acreditar, previo a su designación, los exámenes de control de confianza, de conformidad con la ley.
+
+TERCERO. En el proceso de creación e instalación de la Fiscalía General del Estado serán respetados los derechos laborales de los servidores públicos y trabajadores, en los términos de ley.
+
+De igual forma serán respetados los derechos de los ministerios públicos, secretarios y actuarios del Ministerio Público; los peritos y los elementos operativos de las instituciones policiales se regirán por la fracción XIII del apartado b del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General del Sistema Nacional de Seguridad Pública y demás disposiciones legales aplicables.
+
+CUARTO. No podrá ser Magistrado del Poder Judicial del Estado quien hubiere ocupado el cargo de Procurador General de Justicia del Estado durante el año previo a la designación, en términos del párrafo tercero de la fracción III del artículo 116 de la Constitución Política de los Estados Unidos Mexicanos.
