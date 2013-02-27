@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-de-la-junta-local-de-conciliacion-y-arbitraje-en-702
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-09-09"
-last_updated: "2009-09-09"
+last_updated: "2013-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70287&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 REGLAMENTO DE LA JUNTA LOCAL DE CONCILIACIÓN Y ARBITRAJE EN EL ESTADO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 9 de septiembre de 2009.
 
@@ -69,15 +69,21 @@ V. Pleno: El Pleno de la Junta Local de Conciliación y Arbitraje;
 
 VI. Presidente de la Junta: El Presidente de la Junta Local de Conciliación y Arbitraje en el Estado;
 
-VII. Presidentes de Juntas Especiales: Los Presidentes de las Juntas Especiales de la Local de Conciliación y Arbitraje; y,
+VII. Presidentes de Juntas Especiales: Los Presidentes de las Juntas Especiales de la Local de Conciliación y Arbitraje; y, (sic)
 
 VIII. Secretaría: La Secretaría del Trabajo.
 
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2013)</small>
+
+IX. Servicio: Al Servicio Público de Conciliación.
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 4°.
 
-El Presidente de la Junta Local de Conciliación y Arbitraje será designado por el Titular del Poder Ejecutivo del Estado, y los Presidentes de las Juntas Especiales y Locales de Conciliación, Auxiliares, Secretarios, Actuarios y personal administrativo que se requiera serán designados por el Secretario del Trabajo.
+El Presidente de la Junta local de Conciliación y Arbitraje y los presidentes de las juntas Especiales, serán designados por el Titular del Poder Ejecutivo del Estado, y los Auxiliares, Secretarios, Actuarios, Funcionarios Conciliadores y personal administrativo que se requiera serán designados por el Secretario del Trabajo.
 
-Para la contratación del personal señalados en el párrafo anterior, será indispensable que tanto para el ingreso como permanencia del mismo, deberán someterse a la aplicación y aprobación de Exámenes de Confianza.
+Para la contratación del personal señalado en el párrafo anterior, será indispensable que tanto para el ingreso como permanencia del mismo, deberán someterse a la aplicación y aprobación de exámenes de confianza y a lo establecido en los artículos 625, 626, 627, 627-A, 627-B, 627-C, 628, 629 y 630 de la Ley.
 
 ###### Artículo 5°.
 
@@ -89,7 +95,9 @@ II. Presidente de la Junta
 
 III. Presidentes de Juntas Especiales
 
-IV. Presidentes de las Juntas Locales de Conciliación
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2013)</small>
+
+IV. Servicio Público de Conciliación
 
 V. Secretaría General de Acuerdos y Conflictos Colectivos
 
@@ -106,6 +114,10 @@ X. Dictaminadores
 XI. Actuarios
 
 XII. Archivistas
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2013)</small>
+
+XII (SIC). Funcionarios Conciliadores
 
 El personal jurídico de la Junta, contarán con las facultades de decisión o dirección inherente a su cargo, como lo establece la Ley.
 
@@ -369,45 +381,25 @@ XII. Apoyar la actualización y capacitación concerniente a la materia de ampar
 
 XIII. Las demás que le asigne el Presidente de la Junta, relacionadas con sus funciones.
 
-### Capítulo IX. De las Juntas Locales de Conciliación
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2013)</small>
+
+### Capítulo IX. De las juntas locales de Conciliación
 
 ###### Artículo 25.
 
-Funcionarán Juntas Locales de Conciliación ubicadas en los municipios de Comitán de Domínguez, Motozintla, Palenque, Pichucalco, San Cristóbal de Las Casas, Tonalá y Villaflores, y podrán instalarse o suprimirse en municipios o zonas económicas que determine el Ejecutivo del Estado.
+(DEROGADO, P.O. 27 DE FEBRERO DE 2013)
 
 ###### Artículo 26.
 
-Las Juntas Locales de Conciliación contaran con el personal necesario para su funcionamiento.
+(DEROGADO, P.O. 27 DE FEBRERO DE 2013)
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2013)</small>
 
 ### Capítulo X. De los Presidentes de las Juntas Locales de Conciliación
 
 ###### Artículo 27.
 
-Los presidentes de las Juntas Locales de Conciliación tienen las facultades y obligaciones siguientes:
-
-I. Asumir la responsabilidad y la vigilancia del orden y la disciplina del personal de la Junta Local de Conciliación que corresponda;
-
-II. Vigilar e intervenir en la tramitación de los asuntos que se ventilen en sus respectivas Juntas Locales de Conciliación;
-
-III. Informar al Presidente de la Junta a través del Secretario General de aquellos conflictos que por su naturaleza jurídica, económica o social ameriten una atención inmediata;
-
-IV. Turnar los expedientes en un término de 24 horas para el trámite que corresponda;
-
-V. Rendir los informes de los amparos que se interpongan en contra de las resoluciones dictadas por la Junta Local de Conciliación;
-
-VI. Acatar y vigilar rigurosamente que el personal de la Junta Local de Conciliación, observe y aplique los criterios adoptados por el Pleno de la Junta;
-
-VII. Informar al Presidente de la Junta, por conducto del Secretario General, de las deficiencias que se observe en el funcionamiento de la Junta Local de Conciliación y sugerir las medidas convenientes para corregirlas;
-
-VIII. Solicitar la intervención de la Procuraduría de la Defensa del Trabajo, en los asuntos donde los trabajadores o sus beneficiarios deseen iniciar el procedimiento Arbitral y carezcan de representación o en los casos que la Ley señale dicha intervención;
-
-IX. Remitir de inmediato a la Sección de Archivo de la Junta Local de Conciliación los expedientes concluidos;
-
-X. Efectuar las actuaciones que le encomiende el Presidente de la Junta o Presidentes de las Juntas Especiales; y aquellas que la Ley le permita realizar;
-
-XI. Vigilar que el personal de la Junta Local de Conciliación, realicen las funciones que les correspondan por disposición de la Ley o por habérseles encomendado; y,
-
-XII. Las demás que le confiere la Ley y el presente Reglamento.
+(DEROGADO, P.O. 27 DE FEBRERO DE 2013)
 
 ### Capítulo XI. De los Presidentes de las Juntas Especiales
 
@@ -559,13 +551,19 @@ XVIII. Elaborar para su firma, el acuerdo que deba recaer al proveído de los Tr
 
 XIX. Enviar el expediente correspondiente, cuando fuere necesario junto con el informe justificado a la autoridad judicial que conozca del amparo, debiendo formar un cuadernillo con todos los datos de identificación y copias certificadas de las constancias necesarias;
 
-XX. Cumplir las instrucciones e indicaciones del Presidente de la Junta, del Presidente de la Junta Local y Especial, encaminadas al mejor desempeño de sus funciones; y,
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2013)</small>
 
-XXI. Entregar al Presidente de la Junta, de la Local y la Especial el último día hábil de la semana una lista de las Audiencias que se celebrarán la semana siguiente.
+XX. Cumplir las instrucciones e indicaciones del Presidente de la Junta, o del Presidente de la Junta Especial, encaminadas al mejor desempeño de sus funciones; y
+
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2013)</small>
+
+XXI. Entregar al Presidente de la Junta, y de la Junta Especial el último día hábil de la semana una lista de las Audiencias que se celebrarán la semana siguiente.
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 33.
 
-En la Junta, en las Juntas Locales y Especiales, se asignará el número de Actuarios necesarios para el eficaz funcionamiento de las mismas y serán asignados por el Presidente de la Junta.
+En la Junta y en las juntas Especiales, se asignará el número de Actuarios necesarios para el eficaz funcionamiento de las mismas y serán asignados por el Presidente de la Junta.
 
 ###### Artículo 34.
 
@@ -579,15 +577,21 @@ III. Practicar las diligencias que se le ordene, en la fecha, hora y lugar indic
 
 IV. Recibir por motivo de la ejecución de un Laudo, cantidades en efectivo, títulos de crédito o valores, asentando en el acta respectiva tal circunstancia y remitirlos en forma inmediata al Presidente de la Junta para que provea lo necesario;
 
-V. Acatar las instrucciones del Presidente de la Junta, Juntas Locales y Especiales, Secretarios Generales, Secretarios Auxiliares o de los Jefes de las Áreas a las que estén asignados; y,
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2013)</small>
 
-VI. Rendir un informe mensual de las diligencias y notificaciones practicadas al Presidente de la Junta, Junta Local y Especial, o cuando estos lo requieran.
+V. Acatar las instrucciones del Presidente de la Junta y de las juntas Especiales, Secretarios Generales, Secretarios Auxiliares o de los jefes de las Áreas a las que estén asignados; y,
+
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2013)</small>
+
+VI. Rendir un informe mensual de las diligencias y notificaciones practicadas al Presidente de la Junta y de las juntas Especiales, o cuando estos lo requieran.
 
 ### Capítulo XIV. De la sección de Archivo y Correspondencia
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 35.
 
-La Junta, Las Juntas Locales y las Especiales contarán con su propia sección de Archivo y correspondencia, y dependerán del Presidente de la Junta de que se trate y tendrá bajo su más estricta responsabilidad, lo siguiente:
+La Junta y las juntas Especiales, contarán con su propia sección de Archivo y correspondencia, y dependerán del Presidente de la Junta de que se trate y tendrá bajo su más estricta responsabilidad, lo siguiente:
 
 a) Sección de Archivo, es el área que tendrá bajo su resguardo:
 
@@ -599,7 +603,9 @@ III. Los expedientes que se integren con los informes y diligencias que proporci
 
 IV. Los expedientes que se formen en la Secretaría General de Acuerdos y Conflictos Colectivos;
 
-V. La documentación relativa a la elección de los Representantes Obreros y Patronales que integra la Junta, las Juntas Locales y las Especiales;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2013)</small>
+
+V. La documentación relativa a la elección de los Representantes Obreros y Patronales que integra la Junta y las juntas Especiales;
 
 VI. Los expedientes relativos a los Contratos Colectivos de Trabajo;
 
@@ -607,11 +613,17 @@ VII. Los expedientes que contengan la documentación correspondiente a los Sindi
 
 VIII. Los Reglamentos Interiores de Trabajo;
 
-IX. Los libros de gobierno y de registro de las secciones de la Junta, Junta Local y Especial, inactivos y definitivamente concluidos;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2013)</small>
 
-X. Los convenios celebrados y aprobados por la Junta, las Juntas Locales y Especiales; y,
+IX. Los libros de gobierno y de registro de las secciones de la Junta y las juntas Especiales, inactivos y definitivamente concluidos;
 
-XI. Los expedientes formados con las copias de la correspondencia despachada por la Junta, las Juntas Locales y Especiales.
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2013)</small>
+
+X. Los convenios celebrados y aprobados por la Junta y las juntas Especiales; y,
+
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2013)</small>
+
+XI. Los expedientes formados con las copias de la correspondencia despachada por la Junta y las juntas Especiales.
 
 b) La Sección de Correspondencia, es el área encargada de la recepción, despacho y control de la correspondencia, así como del seguimiento de los libros de gobierno, y que serán los siguientes:
 
@@ -641,21 +653,27 @@ XII. Procedimientos paraprocesales; y,
 
 XIII. Promociones en General.
 
-###### Artículo 36.
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2013)</small>
 
-Los libros de gobierno, serán aperturados por el Presidente de la Junta, el último día hábil del mes de diciembre de cada año, para su inicio el primer día hábil del mes de enero y concluidos el último día hábil de actividades de la Junta, de las Juntas Locales y Especiales, que deberán contener entre otros, los siguientes datos: el nombre de las partes, número de expediente, fecha de recepción del documento, fecha del turno y observaciones.
+###### Articulo 36.
 
-En caso de cambio ó remoción del Presidente de la Junta, Juntas Locales y Especiales, se deberán hacer los cierres y aperturas correspondientes.
+Los libros de gobierno, serán aperturados por el Presidente de la Junta, el último día hábil del mes de diciembre de cada año, para su inicio el primer día hábil del mes de enero y concluidos el último día hábil de actividades de la Junta y de las juntas Especiales, que deberán contener entre otros, los siguientes datos: el nombre de las partes, número de expediente, fecha de recepción del documento, fecha del turno y observaciones.
+
+En caso de cambio o remoción del Presidente de la Junta y juntas Especiales, se deberán hacer los cierres y aperturas correspondientes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 37.
 
-La lista y consulta de los expedientes será dentro del local de la Junta, Juntas Locales y Especiales, y sólo podrá permitirse a las partes cuya personalidad estén debidamente reconocidas en autos.
+La lista y consulta de los expedientes será dentro del local de la Junta y juntas Especiales, y sólo podrá permitirse a las partes cuya personalidad estén debidamente reconocidas en autos.
 
 El responsable del archivo cuidará que no tengan acceso al interior de éste, personas no autorizadas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 38.
 
-Queda prohibido al personal de la Junta, de las Juntas Locales Especiales, alterar, sustituir, reproducir ó sustraer total o parcialmente expedientes o documentos del archivo; la reproducción antes referida, sólo podrá otorgarse previo acuerdo o autorización según corresponda; el incumplimiento a estas disposiciones originará la aplicación de las sanciones y responsabilidades establecidas en la normatividad aplicable.
+Queda prohibido al personal de la Junta y de las juntas Especiales, alterar, sustituir, reproducir o sustraer total o parcialmente expedientes o documentos del archivo; la reproducción antes referida, sólo podrá otorgarse previo acuerdo o autorización según corresponda; el incumplimiento a estas disposiciones originará la aplicación de las sanciones y responsabilidades establecidas en la normatividad aplicable.
 
 Se establece la entrada y salida de los expedientes del archivo, a través del registro oficial que se implemente para tal efecto.
 
@@ -675,11 +693,17 @@ Cuando sea necesario remitir el original de un expediente a una autoridad distin
 
 El archivista tiene las obligaciones siguientes:
 
-I. Proporcionar oportunamente a los servidores públicos de la Junta, de la Junta Local y Especial, los expedientes que le soliciten para la práctica de diligencias. Previo a la entrega de los mismos deberá efectuar el registro y recabar la firma de dicho servidor público;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2013)</small>
 
-II. Guardar y custodiar bajo su más estricta responsabilidad los expedientes concluidos y aquellos que se encuentren en trámite en la Junta, Juntas Locales y Especiales;
+I. Proporcionar oportunamente a los servidores públicos de la Junta y de las juntas Especiales, los expedientes que le soliciten para la práctica de diligencias. Previo a la entrega de los mismos deberá efectuar el registro y recabar la firma de dicho servidor público;
 
-III. Recibir los expedientes, los escritos y demás correspondencia que le sea turnada por las Autoridades de la Junta o por la Oficialía de Partes y en su caso, asignar conforme a la agenda electrónica los expedientes a los Secretarios Auxiliares de la Junta Local y Especial, quienes firmarán por su recibo en el registro oficial que se llevará al efecto, salvo en los casos en que así lo acuerde el Presidente de la Junta, el de la Junta Local o Especial, que se turne algún expediente a un Secretario Auxiliar determinado;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2013)</small>
+
+II. Guardar y custodiar bajo su más estricta responsabilidad los expedientes concluidos y aquellos que se encuentren en trámite en la Junta y juntas Especiales;
+
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2013)</small>
+
+III. Recibir los expedientes, los escritos y demás correspondencia que le sea turnada por las Autoridades de la Junta o por la Oficialía de Partes y en su caso, asignar conforme a la agenda electrónica los expedientes a los Secretarios Auxiliares de la Junta y juntas Especiales, quienes firmarán por su recibo en el registro oficial que se llevará al efecto, salvo en los casos en que así lo acuerde el Presidente de la Junta, o de las juntas Especiales, que se turne algún expediente a un Secretario Auxiliar determinado;
 
 IV. Entregar al Secretario Auxiliar que corresponda, los expedientes relativos a las promociones recibidas, para su acuerdo al día siguiente hábil a su recepción;
 
@@ -707,9 +731,11 @@ La documentación y las promociones de las partes deben presentarse por escrito 
 
 Los Secretarios Auxiliares recibirán las promociones y documentos turnados y emitirán el acuerdo respectivo engrosándolo al expediente.
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 47.
 
-Las audiencias serán públicas y deberán celebrarse estrictamente el día y hora fijados previamente por la Junta, siempre que se encuentren satisfechos los requisitos legales para su verificación. Para este efecto, los Secretarios Auxiliares verificarán que el reloj de la Junta, Junta Local y Especial marque exactamente la hora acordada para la diligencia.
+Las audiencias serán públicas y deberán celebrarse estrictamente el día y hora fijados previamente por la Junta, siempre que se encuentren satisfechos los requisitos legales para su verificación. Para este efecto, los Secretarios Auxiliares verificarán que el reloj de la Junta o juntas Especiales, marque exactamente la hora acordada para la diligencia.
 
 ###### Artículo 48.
 
@@ -753,9 +779,11 @@ La práctica de audiencias y diligencias se deberán efectuar en días y horas h
 
 ### Capítulo XVI. Quejas, Denuncias y Responsabilidades
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 57.
 
-El titular del área de Quejas, Denuncias y Responsabilidades de la Junta, deberá de tramitar las quejas en contra del personal jurídico y administrativo de la Junta, Junta Local y Especial presentadas ante la misma, desde su inicio hasta su conclusión.
+El titular del área de Quejas, Denuncias y Responsabilidades de la Junta, deberá de tramitar las quejas en contra del personal jurídico y administrativo de la Junta y juntas Especiales, presentadas ante la misma, desde su inicio hasta su conclusión.
 
 El procedimiento comprenderá la recepción de la queja, su radicación y citación a una audiencia de pruebas y alegatos.
 
@@ -775,9 +803,13 @@ V. Si se trata de responsabilidades administrativas que impliquen la imposición
 
 VI. Si se trata de responsabilidades administrativas mayores o consideradas como graves que impliquen responsabilidad penal se dará cuenta al Presidente de la Junta y a la autoridad correspondiente para conocer del ilícito, observándose lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos y las Leyes aplicables;
 
-VII. Llevar el registro de servidores públicos sancionados por el área de Quejas remitiendo copia certificada a la Secretaría, tratándose de inhabilitación se remitirá copia certificada a la Secretaría de la Contraloría;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2013)</small>
 
-VIII. Requerir a las Juntas Locales, Especiales y a las unidades administrativas de la Junta la información necesaria para el cumplimiento de sus funciones;
+VII. Llevar el registro de servidores públicos sancionados por el área de Quejas remitiendo copia certificada a la Secretaría, tratándose de inhabilitación se remitirá copia certificada a la Secretaría de la Función Pública;
+
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2013)</small>
+
+VIII. Requerir a las Juntas Especiales y a las unidades administrativas de la Junta la información necesaria para el cumplimiento de sus funciones;
 
 IX. Informar mensualmente al Presidente de la Junta del resultado de las actividades de su área;
 
@@ -825,9 +857,13 @@ El personal jurídico y administrativo adscrito a la Junta, tendrá la obligaci�
 
 ### Capítulo XVIII. Del Sistema de Control Informático
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 68.
 
-El Sistema Informático está diseñado para administrar las funciones, procesos, seguimiento y control de la Junta, Juntas Locales y Especiales, así como para establecer todas las actividades que deban realizar, desde la recepción de un juicio ordinario hasta su culminación, siendo responsable de su funcionamiento la unidad de informática de la Secretaría.
+El Sistema Informático está diseñado para administrar las funciones, procesos, seguimiento y control de la Junta y juntas Especiales, así como para establecer todas las actividades que deban realizar, desde la recepción de un juicio ordinario hasta su culminación, siendo responsable de su funcionamiento la Unidad de Informática de la Secretaría.
+
+Así mismo el Sistema Informático servirá para publicar los registros de sindicatos, contratos colectivos de trabajo, reglamentos interiores de trabajo y las actuaciones de las partes en términos del Título Catorce de la Ley Federal del Trabajo.
 
 ###### Artículo 69.
 
@@ -843,43 +879,85 @@ Los servidores públicos de las Juntas, que hagan uso indebido de este Sistema, 
 
 ### Capítulo XIX. Del Boletín Laboral
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 72.
 
-La Junta publicará un boletín laboral, el cual contendrá entre otros, los criterios que emita la Junta, las Juntas Locales y Especiales, en los diversos juicios, así como cualquier otra publicación que estime conveniente.
+La Junta publicará un boletín laboral, el cual contendrá entre otros, los criterios que emitan la Junta y las juntas Especiales, en los diversos juicios, así como cualquier otra publicación que estime conveniente.
 
 ### Capítulo XX·. Transparencia
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 73.
 
-Es pública la información que tiene bajo su resguardo la Junta, Juntas Locales y Especiales, con las salvedades establecidas en la Ley que Garantiza la Transparencia y Acceso a la Información Pública para el Estado de Chiapas.
+Es pública la información que tiene bajo su resguardo la Junta, y juntas Especiales, con las salvedades establecidas en la Ley que Garantiza la Transparencia y el Derecho a la Información Pública para el Estado de Chiapas.
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 74.
 
-Por conducto del órgano correspondiente, y atendiendo a los criterios fijados por la Comisión correspondiente, la Junta, Juntas Locales y Especiales pondrán a disposición del público la información que precisa la Ley que Garantiza la Transparencia y Acceso a la Información Pública para el Estado de Chiapas.
+Por conducto del órgano correspondiente, y atendiendo a los criterios fijados por la Comisión correspondiente, la Junta y juntas Especiales pondrán a disposición del público la información que precisa la Ley que Garantiza la Transparencia y el Derecho a la Información Pública para el Estado de Chiapas.
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 75.
 
-Los expedientes de asuntos concluidos de la Junta, Juntas Locales y Especiales podrán ser consultados por cualquier persona en los locales en que se encuentren y en las horas de labores, cumpliendo con los requisitos que garanticen la integridad de la documentación que contienen, los cuales serán fijados por las respectivas Comisiones de Transparencia.
+Los expedientes de asuntos concluidos de la Junta y juntas Especiales, podrán ser consultados por cualquier persona en los locales en que se encuentren y en las horas de labores, cumpliendo con los requisitos que garanticen la integridad de la documentación que contienen, los cuales serán fijados por las respectivas Comisiones de Transparencia.
 
-De las constancias que obren en los expedientes de asuntos concluidos que se encuentren bajo resguardo de la Junta, Juntas Locales y Especiales, sólo podrán considerarse reservadas o confidenciales las aportadas por las partes siempre y cuando les hayan atribuido expresamente tal carácter al momento de allegarlas al juicio y tal clasificación se base en lo dispuesto en algún tratado internacional o en una Ley expedida por el Congreso de la Unión o las legislaturas de los Estados.
+De las constancias que obren en los expedientes de asuntos concluidos que se encuentren bajo resguardo de la Junta y juntas Especiales, sólo podrán considerarse reservadas o confidenciales las aportadas por las partes siempre y cuando les hayan atribuido expresamente tal carácter al momento de allegarlas al juicio y tal clasificación se base en lo dispuesto en algún tratado internacional o en una Ley expedida por el Congreso de la Unión o las legislaturas de los Estados.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 76.
 
-Las sentencias ejecutorias y las demás resoluciones públicas podrán consultarse una vez que se emitan y los términos en que se conceda el acceso a ellas serán determinados, inicialmente, por los respectivos módulos de acceso.
+Los Laudos ejecutoriados y las demás resoluciones públicas podrán consultarse una vez que se emitan y los términos en que se conceda el acceso a ellas serán determinados, inicialmente, por los respectivos módulos de acceso.
 
-Tratándose de las resoluciones públicas dictadas cuando aún no se emite la respectiva sentencia ejecutoria, el módulo de acceso solicitará a la Junta, Juntas Locales y Especiales, una versión electrónica de aquéllas, siendo obligación de dicho módulo suprimir de ésta, en su caso, los datos personales de las partes.
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2013)</small>
+
+Tratándose de las resoluciones públicas dictadas cuando aún no se emite la respectiva sentencia ejecutoria, el módulo de acceso solicitará a la Junta y juntas Especiales, una versión electrónica de aquéllas, siendo obligación de dicho módulo suprimir de ésta, en su caso, los datos personales de las partes.
 
 El análisis sobre la naturaleza pública, reservada o confidencial de las pruebas y demás constancias que obren en un expediente judicial, podrá realizarse una vez que la sentencia respectiva haya causado estado.
 
 Cuando en un expediente se encuentren pruebas y demás constancias aportadas por las partes que contengan información legalmente considerada como reservada o confidencial, no podrá realizarse la consulta física de aquél, pero se tendrá acceso a una versión impresa o electrónica del resto de la documentación contenida en el mismo.
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2013)</small>
+
 ###### Artículo 77.
 
-Si las partes ejercen en cualquier instancia seguida ante la Junta, Juntas Locales y Especiales el derecho que les confiere la Ley que Garantiza la Transparencia y Acceso a la Información Pública para el Estado de Chiapas para oponerse a la publicación de sus datos personales, cuando se presente una solicitud de acceso a alguna de las resoluciones públicas o a las pruebas y demás constancias que obren en el expediente respectivo, la unidad administrativa que lo tenga bajo su resguardo determinará si tal oposición puede surtir efectos, tomando en cuenta si la resolución solicitada, las pruebas o las demás constancias contienen información considerada como reservada en términos previstos por la Ley que Garantiza la Transparencia y Acceso a la Información Pública para el Estado de Chiapas; de ser así, a la versión pública de la sentencia ejecutoria, de las demás resoluciones públicas y, en su caso, de los documentos contenidos en el expediente que no sean reservados o confidenciales, se suprimirán los datos personales de las partes, salvo su nombre, en la medida en que no se impida conocer el criterio sostenido por el respectivo órgano jurisdiccional.
+Si las partes ejercen en cualquier instancia seguida ante la Junta y juntas Especiales el derecho que les confiere la Ley que Garantiza la Transparencia y el Derecho a la Información Pública para el Estado de Chiapas para oponerse a la publicación de sus datos personales, cuando se presente una solicitud de acceso a alguna de las resoluciones públicas o a las pruebas y demás constancias que obren en el expediente respectivo, la unidad administrativa que lo tenga bajo su resguardo determinará si tal oposición puede surtir efectos, tomando en cuenta si la resolución solicitada, las pruebas o las demás constancias contienen información considerada como reservada en términos previstos por la Ley que Garantiza la Transparencia y el Derecho a la Información Pública para el Estado de Chiapas; de ser así, a la versión pública del laudo ejecutoriado, de las demás resoluciones públicas y, en su caso, de los documentos contenidos en el expediente que no sean reservados o confidenciales, se suprimirán los datos personales de las partes, salvo su nombre, en la medida en que no se impida conocer el criterio sostenido por el respectivo órgano jurisdiccional.
 
-Aun cuando las partes no hayan ejercido la oposición a que se refiere la Ley que Garantiza la Transparencia y Acceso a la Información Pública para el Estado de Chiapas, las sentencias ejecutorias y las demás resoluciones públicas dictadas en expedientes de asuntos de cualquier materia que por disposición legal o por su naturaleza puedan afectar de algún modo la dignidad personal o causar un daño irreparable y, en su caso, los documentos que obren en ellos y no sean reservados o confidenciales, se difundirán en una versión impresa o electrónica de la que se supriman los datos personales de las partes, salvo su nombre, y en la medida en que no impidan conocer el criterio sustentado por el juzgador.
+Aun cuando las partes no hayan ejercido la oposición a que se refiere la Ley que Garantiza la Transparencia y el (sic) Ley que Garantiza la Transparencia y el Derecho a la Información Pública para el Estado de Chiapas, los laudos ejecutoriados y las demás resoluciones públicas dictadas en expedientes de asuntos de cualquier materia que por disposición legal o por su naturaleza puedan afectar de algún modo la dignidad personal o causar un daño irreparable y, en su caso, los documentos que obren en ellos y no sean reservados o confidenciales, se difundirán en una versión impresa o electrónica de la que se supriman los datos personales de las partes, salvo su nombre, y en la medida en que no impidan conocer el criterio sustentado por el juzgador.
 
-Las determinaciones adoptadas en relación con la supresión de datos personales de las partes también podrán impugnarse por el solicitante mediante el recurso de revisión previsto en la Ley que Garantiza la Transparencia y Acceso a la Información Pública para el Estado de Chiapas.
+Las determinaciones adoptadas en relación con la supresión de datos personales de las partes también podrán impugnarse por el solicitante mediante el recurso de revisión previsto en la Ley que Garantiza la Transparencia y el Derecho a la Información Pública para el Estado de. Chiapas.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE FEBRERO DE 2013)</small>
+
+### Capítulo XXI. Servicio Público de Conciliación
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2013)</small>
+
+###### Artículo 78.
+
+El Servicio Público de Conciliación se llevará a cabo mediante servidores públicos que se denominarán funcionarios conciliadores, los cuales serán designados por el Secretario del Trabajo.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2013)</small>
+
+###### Artículo 79.
+
+Los funcionarios conciliadores tienen las facultades y obligaciones siguientes:
+
+I. Privilegiar en toda la fase del proceso la conciliación como forma de solución en los· conflictos colectivos e individuales;
+
+II. Invitar a las partes en cualquier parte del procedimiento hasta antes de· dictarse laudo a que resuelvan el conflicto mediante la conciliación;
+
+III. Apoyar a las juntas Especiales a llevar a cabo pláticas entre las partes para resolver el conflicto mediante las conciliación;
+
+IV. Vigilar que todas las personas que intervienen en las pláticas conciliatorias guarden la compostura y respeto debidos;
+
+V. Rendir informe mensual y anual de sus actividades al Secretario del Trabajo a través del Presidente de la Junta para los efectos de control estadístico; y,
+
+VI. Las demás que le señalen otros ordenamientos legales aplicables.
 
 T r a n s i t o r i o s
 
@@ -890,3 +968,11 @@ Segundo.- Se derogan todos los acuerdos y disposiciones plenarias que se opongan
 El presente Reglamento fue aprobado en la sesión Extraordinaria celebrada el día 10 de julio de 2009, por el Pleno de la Junta Local de Conciliación y Arbitraje en el Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas.
 
 Lic. Fernando Buenrostro Silva, Presidente de la Junta Local de Conciliación y Arbitraje en el Estado.- L.A.E. José David Cruz Vargas, Representante del Capital.- C. José Arbelio Galdámez Cruz, Representante del Trabajo.- Lic. Cristina Moreno Zuart, en funciones de Secretaria General de Acuerdos.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE FEBRERO DE 2013.
+
+Artículo Primero.- Las reformas, adiciones y derogaciones al presente Reglamento entrarán en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a las presentes modificaciones del Reglamento.
