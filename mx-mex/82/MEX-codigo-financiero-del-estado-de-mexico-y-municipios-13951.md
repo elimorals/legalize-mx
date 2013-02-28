@@ -4,7 +4,7 @@ identifier: "MEX-codigo-financiero-del-estado-de-mexico-y-municipios-13951"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-03-09"
-last_updated: "2013-02-25"
+last_updated: "2013-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # CODIGO FINANCIERO DEL ESTADO DE MEXICO Y MUNICIPIOS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE FEBRERO DE 2013 EN LA G.G., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE FEBRERO DE 2013.
+
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN LA G.G. EL 28 DE FEBRERO DE 2013 NO APLICA AL ARTICULADO DEL DECRETO 53 PUBLICADO EN LA G.G. DE 22 DE FEBRERO DE 2013.</small>
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el martes 9 de marzo de 1999.
 
@@ -311,7 +311,7 @@ Las leyes, reglamentos y demás disposiciones financieras de observancia general
 
 Para cubrir el gasto público y demás obligaciones a su cargo, el Estado y los Municipios percibirán en cada ejercicio fiscal los impuestos, derechos, aportaciones de mejoras, productos, aprovechamientos, ingresos derivados de la coordinación hacendaria, e ingresos provenientes de financiamientos, establecidos en la Ley de Ingresos. Tratándose del Estado, también percibirá las aportaciones y cuotas de seguridad social.
 
-La Ley de Ingresos del Estado se elaborará con base en el Marco de Referencia para las Finanzas Públicas Estatales y/o en los criterios generales de política económica emitidos por el Gobierno Federal y, en su caso, con la última información económica publicada por el Banco de México y la Secretaría de Hacienda y Crédito Público, y deberá ser congruente con el Plan de Desarrollo del Estado y los programas que de él deriven.
+La Ley de Ingresos del Estado se elaborará con base en el Marco de Referencia para las Finanzas Públicas Estatales y/o en los criterios generales de política económica emitidos por el Gobierno Federal y, en su caso, con la última información económica publicada por el Banco de México y la Secretaria de Hacienda y Crédito Público, y deberá ser congruente con el Plan de Desarrollo del Estado y los programas que de él deriven.
 
 ###### Artículo 8.
 
