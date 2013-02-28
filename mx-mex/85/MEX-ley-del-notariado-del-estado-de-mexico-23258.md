@@ -4,7 +4,7 @@ identifier: "MEX-ley-del-notariado-del-estado-de-mexico-23258"
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-03"
-last_updated: "2013-02-25"
+last_updated: "2013-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23258&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # LEY DEL NOTARIADO DEL ESTADO DE MEXICO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE FEBRERO DE 2013 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DEL NOTARIADO DEL ESTADO DE MÉXICO
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 25 DE FEBRERO DE 2013.
+
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN LA G.G. EL 28 DE FEBRERO DE 2013, NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN LA G.G. DE 21 DE FEBRERO DE 2013.</small>
 
 Ley publicada en la Gaceta del Gobierno, el 3 de enero de 2002.
 
