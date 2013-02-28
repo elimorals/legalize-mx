@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2013-02-25"
+last_updated: "2013-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # CODIGO PENAL DEL ESTADO DE MEXICO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS, EL 28 DE FEBRERO DE 2013 MEDIANTE DECRETOS 51, 53 Y 55 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE FEBRERO DE 2013.
+
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN LA G.G. EL 28 DE FEBRERO DE 2013 MEDIANTE DECRETO 55, NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN LA G.G. DE 22 DE FEBRERO DE 2012.</small>
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -843,13 +843,11 @@ En caso de concurso se impondrá la pena correspondiente al delito que merezca l
 
 ### CAPITULO VI. CASOS DE REINCIDENCIA Y HABITUALIDAD
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE FEBRERO DE 2013, MEDIANTE DECRETO 51 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE FEBRERO DE 2013)</small>
+(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE FEBRERO DE 2013) (F. DE E., G.G. 28 DE FEBRERO DE 2013)
 
 ###### Artículo 69.
 
-La reincidencia y habitualidad referida en los artículos 19 y 20 será tomada en cuenta para la individualización de la pena y para el otorgamiento o no de los beneficios o de los sustantivos penales que la ley prevé. No se otorgarán beneficios sustantivos, ni la suspensión de la pena de prisión cuando se trate de delitos de extorsión, secuestro, homicidio doloso con modificativas que lo califiquen o lo agraven, violación y robo que cause la muerte.
+La reincidencia y habitualidad referida en los artículos 19 y 20 será tomada en cuenta para la individualización de la pena y para el otorgamiento o no de los beneficios o de los sustitutivos penales que la ley prevé. No se otorgarán beneficios, sustitutivos, ni la suspensión de la pena de prisión cuando se trate de delito de extorsión, secuestro, homicidio doloso con modificativas que lo califiquen o lo agraven, violación y robo que cause la muerte.
 
 > <small>(ADICIONADO, G.G. 18 DE MARZO DE 2011)</small>
 
@@ -2167,8 +2165,6 @@ A quienes participen habitual u ocasionalmente en una agrupación de tres o más
 
 ### CAPITULO I. DE LAS PERSONAS MENORES DE EDAD Y QUIENES NO TIENEN LA CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE FEBRERO DE 2013 MEDIANTE DECRETO 53 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 > <small>(REFORMADO, G.G. 28 DE DICIEMBRE DE 2007)</small>
 
 ### CAPITULO II. UTILIZACION DE IMAGENES Y/O VOZ DE PERSONAS MENORES DE EDAD O PERSONAS QUE NO TIENEN LA CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO PARA LA PORNOGRAFIA
@@ -2425,7 +2421,9 @@ Comete el delito contra las personas menores de edad y quienes no tienen la capa
 
 l. Al consumo de bebidas alcohólicas, narcóticos o sustancias tóxicas, se le impondrá pena de tres a seis años de prisión y de doscientos a dos mil días multa.
 
-La pena señalada en el párrafo anterior, se aumentará hasta en una mitad a quien venda bebidas alcohólicas a menores de edad, ya sea en envases cerrados, abiertos o para consumo por copeo;
+> <small>(F. DE E., G.G. 28 DE FEBRERO DE 2013)</small>
+
+La pena señalada en el párrafo anterior, se aumentará hasta en una mitad a quien venda alguna bebida alcohólica a menores de edad, ya sea en envase cerrado, abierto o para consumo por copeo;
 
 II. A formar parte de una asociación delictuosa o de delincuencia organizada, se le impondrá pena de cinco a diez años de prisión y de quinientos a dos mil días multa.
 
