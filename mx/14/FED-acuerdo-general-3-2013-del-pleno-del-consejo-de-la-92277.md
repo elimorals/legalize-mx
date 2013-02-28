@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2013-02-15"
+last_updated: "2013-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE FEBRERO DE 2013.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -215,7 +215,7 @@ XII. DECIMOSEGUNDO CIRCUITO:
 
 3. Diez juzgados de Distrito en el Estado de Sinaloa: cuatro con residencia en Culiacán, tres con sede en Los Mochis y tres con residencia en Mazatlán.
 
-4. Un Juzgado de Distrito del Complejo Penitenciario Islas Marías.
+4. (DEROGADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 8/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE FEBRERO DE 2013)
 
 XIII. DECIMOTERCER CIRCUITO:
 
@@ -413,9 +413,13 @@ X. DECIMO CIRCUITO: Estado de Tabasco y los municipios de Acayucan, Agua Dulce, 
 
 XI. DECIMOPRIMER CIRCUITO: Estado de Michoacán.
 
-XII. DECIMOSEGUNDO CIRCUITO: Los tribunales colegiados es el Estado de Sinaloa y el Distrito Judicial conformado por el Archipiélago de las Islas Marías.
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 8/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE FEBRERO DE 2013)</small>
 
-En los tribunales unitarios con residencia en Mazatlán, su jurisdicción será igual a la establecida para los juzgados de Distrito en el Estado de Sinaloa, con residencia en esa misma ciudad, en Los Mochis y la establecida para el Juzgado de Distrito del Complejo Penitenciario Islas Marías.
+XII. DECIMOSEGUNDO CIRCUITO: Respecto de los tribunales colegiados es el Estado de Sinaloa y el Distrito Judicial conformado por el Archipiélago de las Islas Marías.
+
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 8/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE FEBRERO DE 2013)</small>
+
+En los tribunales unitarios con residencia en Mazatlán, su jurisdicción será igual a la establecida para los juzgados de Distrito en el Estado de Sinaloa, con residencia en esa misma ciudad, en Los Mochis y la establecida para el Juzgado Octavo de Distrito del Centro Auxiliar de la Quita (sic) Región, con residencia en Mazatlán, Sinaloa, en cuanto al Distrito Judicial conformado por el territorio del Archipiélago de las Islas Marías.
 
 El tribunal unitario con residencia en Culiacán, tendrá la misma que la establecida para los juzgados de Distrito en el Estado de Sinaloa, con sede en la citada ciudad.
 
@@ -571,7 +575,7 @@ Los juzgados de Distrito en el Estado de Sinaloa, con residencia en Los Mochis, 
 
 Los juzgados de Distrito en el Estado de Sinaloa, con residencia en Mazatlán, ejercerán jurisdicción territorial en el distrito judicial conformado por los municipios de: Concordia, Cosalá, Elota, Escuinapa, Mazatlán, Rosario y San Ignacio.
 
-El Juzgado de Distrito del Complejo Penitenciario Islas Marías, ejercerá jurisdicción territorial en el Distrito Judicial conformado por el territorio del archipiélago de las Islas Marías, en el Océano Pacífico.
+> <small>(DEROGADO CUARTO PÁRRAFO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 8/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE FEBRERO DE 2013)</small>
 
 XIII. DECIMOTERCER CIRCUITO:
 
@@ -697,7 +701,9 @@ QUINTO. Centros Auxiliares Regionales:
 
 4. El Centro Auxiliar de la Cuarta Región, con residencia en Xalapa, Veracruz, el cual se integrará por dos tribunales colegiados Auxiliares y cinco juzgados de Distrito Auxiliares.
 
-5. El Centro Auxiliar de la Quinta Región, se integrará por cinco tribunales colegiados de Circuito auxiliares, tres con residencia en Culiacán, Sinaloa, uno en Los Mochis, Sinaloa y uno en La Paz, Baja California Sur; dos tribunales unitarios de Circuito auxiliares, ambos con sede en Culiacán, Sinaloa, y siete juzgados de Distrito Auxiliares, con residencia en Culiacán, Sinaloa.
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO GENERAL 8/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE FEBRERO DE 2013)</small>
+
+5. El Centro Auxiliar de la Quinta Región, se integrará por cinco tribunales colegiados de Circuito Auxiliares, tres con residencia en Culiacán, Sinaloa, uno en Los Mochis, Sinaloa, y uno en La Paz, Baja California Sur, dos tribunales unitarios de Circuito Auxiliares, ambos con sede en Culiacán, Sinaloa, y ocho juzgados de Distrito Auxiliares, siete con residencia en Culiacán, Sinaloa, y uno con sede en Mazatlán, Sinaloa.
 
 6. El Centro Auxiliar de la Sexta Región, con residencia en Chihuahua, Chihuahua, se integrará por un tribunal colegiado de Circuito Auxiliar, un tribunal unitario de Circuito Auxiliar y un juzgado de Distrito Auxiliar.
 
@@ -742,3 +748,19 @@ PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de la reforma, al Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Distritos y Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los tribunales de Circuito y de los juzgados de Distrito. Asimismo, la reforma al Acuerdo General 18/2008, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Auxiliar de la Tercera Región, con residencia en Guanajuato, Guanajuato, así como los órganos jurisdiccionales que lo integrarán.
 
 TERCERO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 28 DE FEBRERO DE 2013.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. El Coordinador Técnico "A" adscrito a la Administración Regional en Mazatlán y que funge como enlace con las autoridades del Complejo Penitenciario Islas Marías, seguirá ejerciendo las funciones administrativas y de coordinación logística que le fueron asignadas, percibiendo el sobresueldo autorizado al residir en Islas Marías.
+
+CUARTO. Quedan sin efecto las disposiciones dictadas con anterioridad, en lo que se opongan a este acuerdo.
+
+QUINTO. El Instituto Federal de Defensoría Pública, determinará lo conducente respecto al personal que se adscriba al Juzgado Octavo de Distrito del Centro Auxiliar de la Quinta Región, con residencia en Mazatlán, Sinaloa, y a la Oficina de Enlace y Notificaciones del Poder Judicial de la Federación en el Complejo Penitenciario Islas Marías.
+
+SEXTO. La Dirección General de Tecnologías de la Información, garantizará la operación adecuada y permanente de los servicios de telecomunicación entre la Oficina de Enlace y Notificaciones del Poder Judicial de la Federación en Islas Marías y el órgano jurisdiccional auxiliar con sede en Mazatlán, Sinaloa, estableciendo una infraestructura adecuada para la trasmisión de voz, datos y video.
+
+SEPTIMO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de las reformas, a los Acuerdos Generales del Pleno del Consejo de la Judicatura Federal 15/2010, relativo a la denominación, residencia, competencia, jurisdicción territorial, domicilio y fecha de inicio de funcionamiento del Juzgado de Distrito del Complejo Penitenciario Islas Marías y Auxiliar en toda la República; Acuerdo General 3/2013, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito; así como al Acuerdo General 52/2008, por el que se crea el Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa, así como los órganos jurisdiccionales que lo integrarán.
