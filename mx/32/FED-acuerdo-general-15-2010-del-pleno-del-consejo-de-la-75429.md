@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-15-2010-del-pleno-del-consejo-de-la-75429"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2010-06-28"
-last_updated: "2012-02-22"
+last_updated: "2013-02-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75429&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2010-06-18"
 
 ACUERDO GENERAL 15/2010, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONAMIENTO DEL JUZGADO DE DISTRITO DEL COMPLEJO PENITENCIARIO ISLAS MARÍAS Y AUXILIAR EN TODA LA REPÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE FEBRERO DE 2013.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 28 de junio de 2010.
 
@@ -47,87 +47,95 @@ En consecuencia, con fundamento en los artículos constitucionales y legales inv
 
 ACUERDO
 
-> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 4/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 8/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE FEBRERO DE 2013)</small>
 
-PRIMERO. El nuevo órgano jurisdiccional se denominará Juzgado de Distrito del Complejo Penitenciario Islas Marías, tendrá competencia mixta y ejercerá jurisdicción sobre el Distrito Judicial conformado por el territorio del archipiélago de las Islas Marías. El órgano de que se trata iniciará funciones el uno de julio de dos mil diez y en virtud de resultar más expedita la comunicación que actualmente existe entre las Islas Marías y la ciudad de Mazatlán, Sinaloa, el nuevo juzgado de Distrito estará adscrito al Decimosegundo Circuito Judicial.
+PRIMERO. A partir del uno de marzo de dos mil trece, el Juzgado de Distrito del Complejo Penitenciario Islas Marías se denominará Juzgado Octavo de Distrito del Centro Auxiliar de la Quinta Región, con residencia en Mazatlán, Sinaloa, y cambia su residencia a la ciudad antes citada. Dicho órgano jurisdiccional tendrá competencia mixta y jurisdicción territorial en toda la República, así como para tramitar y resolver los asuntos originados en el Distrito Judicial conformado por el territorio del Archipiélago de las Islas Marías.
 
-El domicilio del juzgado de Distrito se ubicará dentro del Complejo Penitenciario Islas Marías, con domicilio conocido. En consecuencia, desde la fecha señalada, toda la correspondencia, trámites y diligencias relacionados con los asuntos de la competencia de ese órgano jurisdiccional, deberán dirigirse y realizarse ante este.
+En consecuencia, toda la correspondencia dirigida al citado órgano jurisdiccional deberá remitirse en adelante a su nuevo domicilio ubicado en Calle Río Baluarte número 1000, segundo y tercer nivel, Fraccionamiento Tellería, C. P. 82017 en la Ciudad de Mazatlán, Sinaloa.
 
-SEGUNDO. El nuevo órgano jurisdiccional iniciará funciones con la plantilla autorizada. Su titular se mantendrá en esa adscripción por el plazo de un año, prorrogable por uno más, según las necesidades del servicio.
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 8/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE FEBRERO DE 2013)</small>
 
-Los secretarios del juzgado, quienes deberán de contar con más de treinta años de edad, se alternarán para suplir al titular del Juzgado de Distrito durante sus ausencias, conforme lo dispuesto en la Ley Orgánica del Poder Judicial de la Federación.
+SEGUNDO. El titular del ahora denominado Juzgado Octavo de Distrito del Centro Auxiliar de la Quinta Región, con residencia en Mazatlán, Sinaloa, asistido de uno de los secretarios de juzgado, levantará en los libros de gobierno del Juzgado de Distrito del Complejo Penitenciario Islas Marías, la certificación correspondiente al cambio de denominación, residencia, competencia, jurisdicción territorial y domicilio, según se ordena en el presente acuerdo, y continuará registrando en éstos los asuntos que correspondan.
 
-> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 4/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 8/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE FEBRERO DE 2013)</small>
 
-TERCERO. El Juzgado de Distrito del Complejo Penitenciario Islas Marías continuará con el trámite que corresponda de todos los asuntos que, a la fecha señalada en el punto primero de este acuerdo, se encuentren radicados ante el Juzgado Mixto de Primera Instancia en Islas Marías, perteneciente al Tribunal Superior Justicia del Distrito Federal, y proveerá cualquier diligencia o actuación relacionada con los expedientes que se encuentren en el archivo definitivo.
+TERCERO. A partir de uno de marzo de dos mil trece iniciará funciones la Oficina de Enlace y Notificaciones del Poder Judicial de la Federación en Islas Marías, la cual será atendida, conforme al rol de turnos fijado más adelante en este acuerdo, por cuatro secretarios de juzgado, ocho oficiales judiciales y un oficial de servicios y mantenimiento pertenecientes a la plantilla del ahora denominado Juzgado Octavo de Distrito del Centro Auxiliar de la Quinta Región, con residencia en Mazatlán, Sinaloa, fungiendo uno de los secretarios que designe el titular del juzgado como encargado de la misma. La oficina formará parte del referido órgano jurisdiccional y tendrá su domicilio en las instalaciones que ocupó el Juzgado de Distrito del Complejo Penitenciario Islas Marías dentro del referido Complejo.
 
-El Juzgado de Distrito del Complejo Penitenciario Islas Marías proporcionará el auxilio procesal necesario a los órganos jurisdiccionales del fuero común de las diversas entidades federativas, para la diligenciación de las comunicaciones procesales que deban practicarse en su jurisdicción. Las autoridades del fuero común deberán tomar en consideración los tiempos naturales de retraso que existen, tanto para la entrega de los asuntos así como para su eventual devolución, derivado de las dificultades de comunicación que existen actualmente entre ese archipiélago y el continente.
+La oficina tendrá como función el facilitar a los justiciables y autoridades con residencia en las Islas Marías la presentación y el envío de los asuntos que tengan su origen en ese archipiélago y sean competencia del hoy denominado Juzgado Octavo de Distrito del Centro Auxiliar de la Quinta Región, con residencia en Mazatlán, Sinaloa, así como la notificación de las resoluciones judiciales que se dicten y la práctica de diligencias diversas que hayan de realizarse en esa residencia, ordenadas por el propio Juzgado de Distrito Auxiliar o que deban realizarse en apoyo de otros órganos jurisdiccionales del fuero común o federal.
 
-CUARTO. En la fecha señalada en el punto primero del presente acuerdo el titular del nuevo Juzgado de Distrito, con asistencia de uno de sus secretarios levantará acta formal de entrega-recepción de todos los expedientes, valores, objetos y demás anexos relativos a los asuntos que se encuentren tanto en trámite como en archivo pertenecientes al Juzgado Mixto de Primera Instancia en Islas Marías del Tribunal Superior de Justicia del Distrito Federal, y que le sean entregados por su personal. Copias certificadas del acta respectiva deberán enviarse a la Secretaría Ejecutiva de Carrera Judicial, Adscripción y Creación de Nuevos Organos y a la Dirección General de Estadística y Planeación Judicial, para su conocimiento.
+Para el desahogo de las comunicaciones que deban practicarse en Islas Marías a solicitud de otros órganos jurisdiccionales y autoridades, deberá privilegiarse el uso de la videoconferencia como método para el desahogo de diligencias judiciales, o en su caso, proveer en sus requerimientos la prudente ampliación de los plazos establecidos para su cumplimentación, atendiendo a las restricciones físicas y de carácter administrativo que existen en la comunicación marítima para el envío y devolución de documentos entre Mazatlán, Sinaloa, y el Complejo Penitenciario Islas Marías.
 
-> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 4/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 8/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE FEBRERO DE 2013)</small>
 
-El titular del Juzgado de Distrito del Complejo Penitenciario Islas Marías con asistencia de un secretario deberá autorizar el uso de libros de gobierno nuevos, conforme lo dispuesto en el Acuerdo General 34/2000 del Pleno del Consejo de la Judicatura Federal, en los que se registrarán aquellos expedientes en trámite que hayan recibido del Juzgado Mixto de Primera Instancia en Islas Marías, así como los asuntos de nuevo ingreso que sean presentados en su oficialía de partes; destacando, en su caso, en la columna de observaciones correspondiente el número que tenían asignado ante aquél.
+CUARTO. Se modifica y adiciona la plantilla laboral del ahora denominado Juzgado Octavo de Distrito del Centro Auxiliar de la Quinta Región, con residencia en Mazatlán, Sinaloa, para quedar como sigue:
 
-> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 4/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE FEBRERO DE 2012)</small>
+> <small>N. DE E. VÉASE TABLA EN LA PRIMERA SECCIÓN DEL D.O.F. DE 28 DE FEBRERO DE 2013, PAGINA 63.</small>
 
-QUINTO. Se modifica el Acuerdo General 11/2011, del Pleno del Consejo de la Judicatura Federal, Relativo a la Determinación del Numero y Límites Territoriales de los Circuitos en que se divide la República Mexicana; y al Número, a la Jurisdicción Territorial y Especialización por Materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito, publicado el doce de mayo de dos mil once en el Diario Oficial de la Federación, en el punto PRIMERO, apartado XII. DECIMOSEGUNDO CIRCUITO, a fin de incluir al Archipiélago de las Islas Marías dentro de la circunscripción territorial del Decimosegundo Circuito, para quedar como sigue:
+La Plantilla anterior se fija sin perjuicio de que por las necesidades del servicio sea necesario modificarla con posterioridad.
 
-'PRIMERO.- El territorio de la República se divide en treinta y dos circuitos, cuya circunscripción territorial es la siguiente:
+Solo aquéllos funcionarios judiciales que laboren en la oficina de enlace y notificaciones en Islas Marías, continuarán percibiendo el sobresueldo por residir en dicho Archipiélago.
 
-…
+Los secretarios de juzgado quedan habilitados para desempeñar también las funciones de actuario.
 
-XII.- DECIMOSEGUNDO CIRCUITO: Estado de Sinaloa y Archipiélago de las Islas Marías'.
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 8/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE FEBRERO DE 2013)</small>
 
-Se modifica también el punto SEGUNDO, apartado XII. DECIMOSEGUNDO CIRCUITO, del referido Acuerdo General 11/2011, para incluir al nuevo órgano jurisdiccional en la enumeración de los Juzgados de Distrito que conforman al Decimosegundo Circuito, para quedar como sigue:
+QUINTO. La Oficina de Enlace y Notificaciones del Poder Judicial de la Federación en Islas Marías, se encargará de gestionar el envío de los asuntos y promociones competencia del órgano jurisdiccional al cual presta servicio, que le sean entregados por las partes en esa residencia, los cuales remitirá para su trámite y resolución que corresponda al Juzgado Octavo de Distrito del Centro Auxiliar de la Quinta Región, con residencia en Mazatlán, Sinaloa.
 
-'SEGUNDO.- Cada uno de los Circuitos a que se refiere el punto primero comprenderá los tribunales colegiados y unitarios de Circuito y los juzgados de Distrito que a continuación se precisan:
+Los asuntos se tendrán por presentados el día y la hora en que se reciban ante la oficina de enlace y notificaciones antes citada, y su tramitación tendrá lugar una vez que efectivamente se reciban por el órgano jurisdiccional con sede en Mazatlán, Sinaloa.
 
-…
+Sin perjuicio de lo anterior, el Juzgado Octavo de Distrito del Centro Auxiliar de la Quinta Región, con residencia en Mazatlán, Sinaloa, contará con su propia oficialía de partes para la recepción de asuntos.
 
-XII. DECIMOSEGUNDO CIRCUITO:
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 8/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE FEBRERO DE 2013)</small>
 
-1. …
+SEXTO. La Oficina de Enlace y Notificaciones del Poder Judicial de la Federación en Islas Marías, funcionará los días hábiles de lunes a viernes en el horario que permitan las normas de seguridad del Complejo Penitenciario Islas Marías. Para el registro y control de los asuntos se contará con un sistema de cómputo, el cual diseñará e implementará la Dirección General de Estadística Judicial en coordinación con la Dirección General de Tecnologías de la Información.
 
-2. …
+Los asuntos urgentes que se susciten fuera del horario y días de labores autorizados, se presentarán en el domicilio del secretario que se encuentre autorizado para esos efectos.
 
-3. Diez juzgados de Distrito en el Estado de Sinaloa: cuatro con residencia en Culiacán, tres con sede en Los Mochis y tres con residencia en Mazatlán.
+La Dirección General de Tecnologías de la Información proporcionará al Juzgado Octavo de Distrito del Centro Auxiliar de la Quinta Región, con residencia en Mazatlán, Sinaloa, y a la Oficina de Enlace y Notificaciones del Poder Judicial de la Federación en Islas Marías, todo el apoyo, asistencia técnica y equipo que se requiera para asegurar la permanente y expedita comunicación entre las dos residencias.
 
-4. Un Juzgado de Distrito del Complejo Penitenciario Islas Marías'.
+Los Secretarios de Juzgado que conforman la Oficina de Enlace y Notificaciones del Poder Judicial de la Federación en Islas Marías, deberán realizar las notificaciones y demás diligencias que correspondan respecto de los asuntos que le sean remitidos para ello por el Juzgado Octavo de Distrito del Centro Auxiliar de la Quinta Región, con residencia en Mazatlán, Sinaloa, devolviendo a éste las constancias respectivas una vez desahogadas las diligencias que correspondan.
 
-Por otra parte, se modifica el Acuerdo General 11/2011, del Pleno del Consejo de la Judicatura Federal, en el punto TERCERO, apartado XII. DECIMOSEGUNDO CIRCUITO, para quedar como sigue:
+Tratándose de los asuntos urgentes éstos deberán remitirse por la Oficina de Enlace y Notificaciones del Poder Judicial de la Federación en Islas Marías al órgano jurisdiccional para la atención que proceda, empleando para ello los medios más expeditos disponibles y asegurándose de su debida recepción. Una vez realizadas por el Juzgado de Distrito las actuaciones que correspondan, éstas se devolverán a la Oficina de Enlace y Notificaciones, utilizando también los medios de comunicación más expeditos, para que ésta, por conducto del secretario que corresponda practique de inmediato las certificaciones y notificaciones que correspondan a las partes y autoridades con residencia en las Islas Marías, informando de sus resultados al titular del órgano jurisdiccional.
 
-'TERCERO. La jurisdicción territorial de los tribunales colegiados y unitarios de Circuito es la que enseguida se indica:
+El Juez Octavo de Distrito del Centro Auxiliar de la Quinta Región, con residencia en Mazatlán, Sinaloa, establecerá guardias semanales para la recepción de asuntos urgentes entre los secretarios de su juzgado y los que conformen la Oficina de Enlace y Notificaciones del Poder Judicial de la Federación en Islas Marías, a fin de facilitar el pronto despacho y remisión de los asuntos de esa clase que se reciban, informando de ello a la Secretaría Ejecutiva de Vigilancia, Información y Evaluación, para los efectos del Acuerdo General 77/2006.
 
-…
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 8/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE FEBRERO DE 2013)</small>
 
-XII. DECIMOSEGUNDO CIRCUITO: Respecto de los tribunales colegiados es el Estado de Sinaloa y el Distrito Judicial conformado por el Archipiélago de las Islas Marías.
+SEPTIMO. El titular del Juzgado Octavo de Distrito del Centro Auxiliar de la Quinta Región, con residencia en Mazatlán, Sinaloa, establecerá con su plantilla laboral autorizada, un rol de turno para la atención continua de la Oficina de Enlace y Notificaciones del Poder Judicial de la Federación en Islas Marías, conforme se ilustra en el siguiente calendario:
 
-En relación con los dos tribunales unitarios con residencia en Mazatlán, será igual a la establecida para los juzgados de Distrito en el Estado de Sinaloa, con residencia en esa misma ciudad, en Los Mochis y la establecida para el Juzgado de Distrito del Complejo Penitenciario Islas Marías.
+Calendario de Periodos de Vacaciones y de descanso del Personal que se encuentre adscrito en las Islas Marías.
 
-Por lo que hace al tribunal unitario con residencia en Culiacán, será la misma que la establecida para los juzgados de Distrito en el Estado de Sinaloa, con sede en la citada ciudad'.
+La Secretaría I estará integrada por el Secretario I y los oficiales A y B
 
-Así también, se modifica el punto CUARTO, apartado XII. DECIMOSEGUNDO CIRCUITO del referido Acuerdo General 11/2011, para señalar la jurisdicción territorial que corresponderá al nuevo órgano jurisdiccional, para quedar como sigue:
+La Secretaría II estará integrada por el Secretario II y los oficiales C y D
 
-'CUARTO. La jurisdicción territorial de los juzgados de Distrito es la siguiente:
+La Secretaría III estará integrada por el Secretario III y los oficiales E y F
 
-…
+La Secretaría IV estará integrada por el Secretario IV y los oficiales G y H
 
-XII. DECIMOSEGUNDO CIRCUITO:
+> <small>N. DE E. VÉASE TABLA EN LA PRIMERA SECCIÓN DEL D.O.F. DE 28 DE FEBRERO DE 2013, PÁGINA 64.</small>
 
-…
+Y así sucesivamente conforme se muestra en el cuadro.
 
-…
+El titular del Juzgado de Distrito y su personal que resida en Mazatlán, Sinaloa, gozarán de sus dos periodos vacacionales conforme lo dispuesto en la Ley Orgánica del Poder Judicial de la Federación, de tal manera que no se interrumpa el funcionamiento del órgano jurisdiccional. Para lo anterior, los secretarios de juzgado que residan en Mazatlán, Sinaloa, deberán contar con más de treinta años de edad a fin de suplir al titular del juzgado durante sus ausencias.
 
-…
+> <small>(ADICIONADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 8/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE FEBRERO DE 2013)</small>
 
-El Juzgado de Distrito del Complejo Penitenciario Islas Marías, ejercerá jurisdicción territorial en el Distrito Judicial conformado por el territorio del archipiélago de las Islas Marías, en el Océano Pacífico”.
+OCTAVO. El titular del Juzgado Octavo de Distrito del Centro Auxiliar de la Quinta Región, con residencia en Mazatlán, Sinaloa, se trasladará con la regularidad que sea necesaria a las Islas Marías, a efecto de dirigir las audiencias y demás actos procesales que requieran su presencia. Para ello preparará con oportunidad los expedientes para que las actuaciones procesales puedan verificarse sin contratiempos dentro de las fechas y horarios programados para sus visitas. Para lo anterior, requerirá el apoyo de las autoridades del Complejo Penitenciario Islas Marías y de la Secretaría de Gobernación a fin de que por su conducto sean presentados en las instalaciones de la Oficina de Enlace y Notificaciones los reos y demás personas que deban comparecer en los días y horas que sean señalados.
 
-SEXTO. La Secretaría Ejecutiva de Obra, Recursos Materiales y Servicios Generales proveerá todo lo que sea menester para dotar de manera oportuna al nuevo órgano jurisdiccional de la infraestructura física y de comunicaciones necesaria para su instalación y el correcto desempeño cotidiano de sus labores, tomando en consideración las características y situación geográfica que presenta esa residencia.
+Sin perjuicio de lo anterior, el Juez de Distrito podrá solicitar a la Secretaría de Gobernación la presentación de los reos en el domicilio del Juzgado Octavo de Distrito del Centro Auxiliar de la Quinta Región, con residencia en Mazatlán, Sinaloa, para la práctica de las diligencias procesales que estime pertinentes.
 
-Así también, la citada secretaría ejecutiva se coordinará con las autoridades administrativas competentes para el traslado, ingreso y eventual salida de los funcionarios judiciales que sean adscritos al nuevo órgano jurisdiccional, procurando, además, se proporcionen a éstos condiciones adecuadas de vivienda.
+A efecto de lograr que los interesados estén informados de los asuntos que se van a tratar, el día, horario y demás aspectos inherentes, las visitas que el Juez Octavo de Distrito del Centro Auxiliar de la Quinta Región, con residencia en Mazatlán, Sinaloa, realice al Complejo Penitenciario Islas Marías, se comunicarán con la debida anticipación a las partes, al Ministerio Publico, al defensor y demás personas que deben comparecer para el desahogo de las actuaciones, según sea el caso. Además se anunciarán las fechas de las visitas y la lista de los asuntos que se tratarán durante ella, mediante avisos que se fijarán con anticipación en las puertas del referido Juzgado, y en la Oficina de Enlace y Notificaciones del Poder Judicial de la Federación en Islas Marías.
 
-SEPTIMO. El Pleno y las Comisiones de Creación de Nuevos Organos y de Administración del Consejo de la Judicatura Federal, en el ámbito de sus respectivas competencias, resolverán cualquier cuestión administrativa que pudiera suscitarse con motivo de la aplicación e interpretación del presente acuerdo.
+> <small>(ADICIONADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 8/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE FEBRERO DE 2013)</small>
+
+NOVENO. Las inspecciones que practique la Visitaduría Judicial del Consejo de la Judicatura Federal al Juzgado Octavo de Distrito del Centro Auxiliar de la Quinta Región, con residencia en Mazatlán, Sinaloa, comprenderán también el funcionamiento de la Oficina de Enlace y Notificaciones del Poder Judicial de la Federación en Islas Marías.
+
+(ADICIONADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 8/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE FEBRERO DE 2013).
+
+DECIMO. La Oficialía Mayor del Consejo de la Judicatura Federal con sus respectivas áreas apoyará en todo lo necesario para realizar el traslado periódico de los funcionarios judiciales entre las dos residencias referidas, para lo cual tomará conocimiento del calendario establecido, conforme a los puntos séptimo y octavo del presente acuerdo, y se coordinará con el titular y personal del Juzgado, a fin de programar con toda anticipación la agenda correspondiente para el ingreso y salida oportuna de los funcionarios judiciales, expedientes y demás.
+
+Cualquier maltrato a los funcionarios judiciales durante su traslado, ingreso, estancia y salida del Complejo Penitenciario Islas Marías por parte de las autoridades administrativas, situación que vulnere la independencia y el decoro del Poder Judicial de la Federación o que atente contra el debido y oportuno desempeño de las funciones jurisdiccionales federales en esa residencia, será comunicado de inmediato al Pleno del Consejo de la Judicatura Federal para los efectos legales a que haya lugar.
 
 ## TRANSITORIOS
 
@@ -150,3 +158,19 @@ PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de la reforma, a los Acuerdos Generales 15/2010 y 11/2011 del Pleno del Consejo de la Judicatura Federal, respectivamente.
 
 TERCERO. Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 28 DE FEBRERO DE 2013.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. El Coordinador Técnico "A" adscrito a la Administración Regional en Mazatlán y que funge como enlace con las autoridades del Complejo Penitenciario Islas Marías, seguirá ejerciendo las funciones administrativas y de coordinación logística que le fueron asignadas, percibiendo el sobresueldo autorizado al residir en Islas Marías.
+
+CUARTO. Quedan sin efecto las disposiciones dictadas con anterioridad, en lo que se opongan a este acuerdo.
+
+QUINTO. El Instituto Federal de Defensoría Pública, determinará lo conducente respecto al personal que se adscriba al Juzgado Octavo de Distrito del Centro Auxiliar de la Quinta Región, con residencia en Mazatlán, Sinaloa, y a la Oficina de Enlace y Notificaciones del Poder Judicial de la Federación en el Complejo Penitenciario Islas Marías.
+
+SEXTO. La Dirección General de Tecnologías de la Información, garantizará la operación adecuada y permanente de los servicios de telecomunicación entre la Oficina de Enlace y Notificaciones del Poder Judicial de la Federación en Islas Marías y el órgano jurisdiccional auxiliar con sede en Mazatlán, Sinaloa, estableciendo una infraestructura adecuada para la trasmisión de voz, datos y video.
+
+SEPTIMO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de las reformas, a los Acuerdos Generales del Pleno del Consejo de la Judicatura Federal 15/2010, relativo a la denominación, residencia, competencia, jurisdicción territorial, domicilio y fecha de inicio de funcionamiento del Juzgado de Distrito del Complejo Penitenciario Islas Marías y Auxiliar en toda la República; Acuerdo General 3/2013, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito; así como al Acuerdo General 52/2008, por el que se crea el Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa, así como los órganos jurisdiccionales que lo integrarán.
