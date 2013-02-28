@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2013-02-25"
+last_updated: "2013-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE FEBRERO DE 2013 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE FEBRERO DE 2013.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA G.G. DE 28 DE FEBRERO DE 2013.</small>
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -2049,13 +2049,11 @@ V. El tratamiento, rehabilitación y reinserción social de los adictos, mediant
 
 37 Bis.- En los establecimientos mercantiles donde se vendan o suministren bebidas alcohólicas, se prohíbe su venta o suministro a menores de edad, por lo que se pedirá identificación oficial vigente, para verificar que se trate de un mayor de 18 años.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE FEBRERO DE 2013 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
-> <small>(ADICIONADO, G.G. 22 DE FEBRERO DE 2013)</small>
+(ADICIONADO, G.G. 22 DE FEBRERO DE 2013) (F. DE E., G.G. 28 DE FEBRERO DE 2013)
 
 ###### Artículo 2.
 
-37 Ter.- El establecimiento mercantil donde se venden o suministren bebidas alcohólicas, deberá contar con la licencia de funcionamiento vigente que le autorice la venta de bebidas alcohólicas, la cual, se deberá colocar en un lugar visible dentro del propio establecimiento.
+37 Ter.- El establecimiento mercantil donde se vendan o suministren bebidas alcohólicas, deberá contar con la licencia de funcionamiento vigente que le autorice la venta de bebidas alcohólicas, la cual, se deberá colocar en un lugar visible dentro del propio establecimiento.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
 
@@ -2141,8 +2139,6 @@ VIII. Los ayuntamientos del Estado de México, dentro del ámbito de su competen
 
 IX. Las Dependencias, Entidades y Organismos de la Administración Pública Estatal, en los asuntos de su competencia conforme a lo dispuesto en este capítulo.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE FEBRERO DE 2013 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 > <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 2.
@@ -2165,9 +2161,9 @@ VI. Promover la formación y capacitación de recursos humanos especializados pa
 
 VII. Crear y actualizar permanentemente el padrón de instituciones y organismos que realicen actividades de prevención, atención y reinserción social en materia de adicciones;
 
-> <small>(ADICIONADA, G.G. 22 DE FEBRERO DE 2013)</small>
+(ADICIONADA, G.G. 22 DE FEBRERO DE 2013) (F. DE E., G.G. 28 DE FEBRERO DE 2013)
 
-VII Bis. Crear y actualizar el registro de establecimientos mercantiles en donde se expida el permiso sanitario para la solicitud o renovación de licencia de funcionamiento de un establecimiento mercantil con venta o suministro de bebidas alcohólicas, en botella cerrada, para el consumo inmediato o al copeo;
+VII Bis. Crear y actualizar el registro de establecimientos mercantiles que cuenten con el permiso sanitario para la solicitud o renovación de licencia de funcionamiento de un establecimiento mercantil con venta o suministro de bebidas alcohólicas, en botella cerrada, para el consumo inmediato o al copeo;
 
 VIII. Proporcionar asistencia técnica y apoyo a los establecimientos de rehabilitación y atención privados y sociales, con base en los lineamientos que fije el Ejecutivo del Estado;
 
@@ -2373,15 +2369,15 @@ Los horarios a los que se hace referencia en las fracciones anteriores, por ning
 
 Cuando por su denominación algún establecimiento no se encuentre comprendido en las clasificaciones anteriores, se ubicará en aquel que por sus características les sea más semejante.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE FEBRERO DE 2013 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 > <small>(ADICIONADO, G.G. 22 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 2.
 
 47 Ter.- Queda prohibida la contratación de menores de edad en los giros mercantiles citados en el artículo anterior; además será requisito para su operación, los siguientes:
 
-I. Contar con un aparato que mida el nivel de alcohol de sus clientes, mismo que deberá cumplir con las especificaciones establecidas en la Norma Oficial Mexicana, expedida para tal efecto, para que al observarles notoriamente alcoholizados, ofreciéndoles llamar a un taxi y exhortándoles a no conducir; y
+> <small>(F. DE E., G.G. 28 DE FEBRERO DE 2013)</small>
+
+I. Contar con un aparato que mida el nivel de alcohol de sus clientes, mismo que deberá cumplir con las especificaciones establecidas en la Norma Oficial Mexicana, expedida para tal efecto, para que al observarles notoriamente alcoholizados, les ofrezcan llamar a un taxi, exhortándoles a no conducir; y
 
 II. Contar con publicidad escrita visible que indique: "El abuso en el consumo de bebidas alcohólicas es dañino para la salud", "El consumo de bebidas alcohólicas está prohibido a menores de edad", "La licencia de funcionamiento vigente, que autorice la venta de bebidas alcohólicas deberá estar en lugar visible dentro del propio establecimiento", "La venta de bebidas alcohólicas sin licencia es un delito", “Por tu seguridad, propon un conductor designado”, “Está prohibida la venta, suministro y consumo de bebidas alcohólicas fuera de este establecimiento”.
 
