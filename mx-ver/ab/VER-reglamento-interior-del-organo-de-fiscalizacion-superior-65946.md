@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interior-del-organo-de-fiscalizacion-superior-65946"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-01-19"
-last_updated: "2009-01-19"
+last_updated: "2013-02-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65946&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "VER"
 
 REGLAMENTO INTERIOR DEL ORGANO DE FISCALIZACION SUPERIOR DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL ÓRGANO DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADO EN LA G.O. DE 28 DE FEBRERO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Extraordinario a la Gaceta Oficial del Estado de Veracruz, el lunes 19 de enero de 2009.
 
@@ -1092,3 +1094,39 @@ C. P. C. Mauricio Martín Audirac Murillo
 Auditor General del Órgano de Fiscalización Superior del Estado de Veracruz de Ignacio de la Llave
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 28 DE FEBRERO DE 2013.
+
+Primero. El presente Reglamento entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se abroga el Reglamento Interior del Órgano de Fiscalización Superior del Estado de Veracruz de Ignacio de la Llave, publicado en la Gaceta Oficial del estado el diecinueve de enero del año dos mil nueve.
+
+Tercero. Por esta ocasión, las Unidades Administrativas del Órgano presentarán su Programa Operativo Anual dos mil trece, ajustado a las nuevas previsiones reglamentarias, dentro del plazo de treinta días hábiles contados a partir de la entrada en vigor del presente Reglamento.
+
+Cuarto. Los recursos financieros, presupuestales y materiales, así como el personal de las Unidades Administrativas, con pleno respeto a sus derechos laborales, pasarán a formar parte de sus equivalentes en los términos siguientes:
+
+a) Los de la Auditoría Especial de Legalidad y Planeación a la Auditoría Especial de Legalidad y Transparencia en Municipios;
+
+i) Los de la Dirección de Planeación a la Dirección de Evaluación Normativa y de Legalidad en Municipios;
+
+ii) Los de la Dirección de Informática a la Dirección General del Centro de Información para la Fiscalización Superior.
+
+b) Los de la Auditoría Especial Social a la Auditoría Especial de Evaluación y Atención Ciudadana;
+
+i) Los de la Dirección de Auditoría Social a la Dirección de Promoción, Difusión y Contraloría Social;
+
+ii) Los de la Dirección de Registro y Control de Programas a la Dirección de Seguimiento a Planes y Programas de Gobierno.
+
+c) Los de la Auditoría Especial de Gestión Financiera a la Auditoría Especial de Fiscalización a Cuentas Públicas;
+
+i) Los de la Dirección Auditoría Financiera Presupuestal a las Direcciones de Auditoría Financiera a Poderes Estatales y a la de Auditoría Financiera a Municipios.
+
+Las Subdirecciones, Unidades, Departamentos que se crean al interior de la estructura, operarán con los recursos con los que cuentan las unidades presupuestales.
+
+Quinto. Se instruye a la Dirección General de Administración y Finanzas para que en uso de sus atribuciones realice los estudios correspondientes respecto a reasignaciones, determinación y aplicación de ahorros presupuestales, y previa autorización del Auditor General, asigne los recursos humanos, financieros y materiales, necesarios para la operación de la Dirección de Evaluación de Transparencia Municipal, la Dirección de Desarrollo para la Gestión Pública, así como de la Coordinación del Banco de Información Social, Económica y Financiera (BISEF), y de la oficina del Director General del Centro de Información para la Fiscalización Superior.
+
+Las Unidades Administrativas previstas en el Reglamento que abroga el artículo Segundo Transitorio anterior y que no cambian de denominación, conservarán los recursos a que se refiere el primer párrafo del artículo anterior, para desempeñar las atribuciones que les otorga el presente Reglamento.
+
+Sexto. Los actos y procedimientos administrativos iniciados por las Unidades Administrativas que cambian de denominación o adscripción continuarán su trámite, hasta su conclusión, por las Unidades Administrativas de nueva denominación y de atribuciones equivalentes.
