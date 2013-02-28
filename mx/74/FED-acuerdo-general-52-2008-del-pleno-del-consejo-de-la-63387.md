@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-52-2008-del-pleno-del-consejo-de-la-63387"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2008-10-03"
-last_updated: "2012-01-18"
+last_updated: "2013-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63387&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-09-10"
 
 ACUERDO GENERAL 52/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE CREA EL CENTRO AUXILIAR DE LA QUINTA REGIÓN, ASÍ COMO LOS ÓRGANOS JURISDICCIONALES QUE LO INTEGRARÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE FEBRERO DE 2013.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 3 de octubre de 2008.
 
@@ -57,9 +57,15 @@ En consecuencia, con fundamento en los artículos Constitucionales y legales inv
 
 ACUERDO
 
-> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 43/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO CUARTO DEL ACUERDO GENERAL 8/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE FEBRERO DE 2013)</small>
 
-PRIMERO. CONFORMACION, COMPETENCIA y DENOMINACION. Se crea el Centro Auxiliar de la Quinta Región, conformado por cinco tribunales colegiados de Circuito auxiliares, tres con residencia en Culiacán, Sinaloa, uno con sede en Los Mochis, Sinaloa, y uno con residencia en La Paz, Baja California Sur; dos tribunales unitarios de Circuito auxiliares, ambos con sede en Culiacán, Sinaloa, y siete juzgados de Distrito auxiliares, con residencia en Culiacán, Sinaloa, los cuales tendrán jurisdicción en toda la República y competencia mixta para apoyar en el dictado de sentencias.
+PRIMERO. CONFORMACION, COMPETENCIA y DENOMINACION. Se crea el Centro Auxiliar de la Quinta Región, conformado por cinco tribunales colegiados de Circuito auxiliares, tres con residencia en Culiacán, Sinaloa, uno con sede en Los Mochis, Sinaloa, y uno con residencia en La Paz, Baja California Sur; dos tribunales unitarios de Circuito auxiliares, ambos con sede en Culiacán, Sinaloa, y ocho juzgados de Distrito auxiliares, siete con residencia en Culiacán, Sinaloa, y uno con sede en Mazatlán, Sinaloa, los cuales tendrán jurisdicción en toda la República y competencia mixta para apoyar en el dictado de sentencias.
+
+> <small>(ADICIONADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL 8/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE FEBRERO DE 2013)</small>
+
+Aunado a lo anterior, el Juzgado Octavo de Distrito del Centro Auxiliar de la Quinta Región, con sede en Mazatlán, Sinaloa, tendrá competencia mixta y jurisdicción territorial en el Distrito Judicial conformado por el territorio del Archipiélago de las Islas Marías.
+
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 43/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
 
 Los tribunales colegiados se denominarán:
 
@@ -73,11 +79,15 @@ Cuarto Tribunal Colegiado de Circuito del Centro Auxiliar de la Quinta Región, 
 
 Quinto Tribunal Colegiado de Circuito del Centro Auxiliar de la Quinta Región, con residencia en La Paz, Baja California Sur.
 
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 43/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
+
 Los tribunales unitarios se denominarán:
 
 Primer Tribunal Unitario de Circuito del Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa.
 
 Segundo Tribunal Unitario de Circuito del Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa.
+
+> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 43/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
 
 Los juzgados de Distrito se denominarán:
 
@@ -95,15 +105,19 @@ Juzgado Sexto de Distrito del Centro Auxiliar de la Quinta Región, con residenc
 
 Juzgado Séptimo de Distrito del Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa.
 
+> <small>(ADICIONADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL 8/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE FEBRERO DE 2013)</small>
+
+Juzgado Octavo de Distrito del Centro Auxiliar de la Quinta Región, con residencia en Mazatlán, Sinaloa.
+
 SEGUNDO. INICIO DE FUNCIONES. El Pleno del Consejo de la Judicatura Federal determinará la fecha de inicio de funciones de los órganos jurisdiccionales que integrarán el Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa.
 
 TERCERO. LIBROS DE GOBIERNO. A manera de mecanismos de control de los asuntos de sus respectivas competencias y como auxiliar en la supervisión de los órganos jurisdiccionales Auxiliares que formarán parte del Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa, se contará con libros electrónicos de registro que se les implementará en el Sistema Integral de Seguimiento de Expedientes (SISE), que tiene a su cargo la Dirección General de Estadística y Planeación Judicial.
 
 Dichos libros electrónicos de registro se formarán automáticamente con la captura de los datos y registros que el personal correspondiente de los órganos jurisdiccionales, lleve a cabo en el mencionado Sistema Integral de Seguimiento de Expedientes (SISE).
 
-> <small>(REFORMADO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 43/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL 8/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE FEBRERO DE 2013)</small>
 
-CUARTO. OFICINA DE CORRESPONDENCIA COMUN. El Centro Auxiliar de la Quinta Región contará con una Oficina de Correspondencia Común la cual se denominará Oficina de Correspondencia Común del Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa, que se integrará con el personal que al efecto determine el área administrativa correspondiente del Consejo de la Judicatura Federal; misma que prestará servicio a los órganos jurisdiccionales auxiliares con residencia en esa ciudad, incluso al Tercer Tribunal Colegiado de nueva creación; y respecto del Cuarto y Quinto Tribunales Colegiados del Centro Auxiliar de la Quinta Región, con residencia en los Mochis, Sinaloa y La Paz, Baja California Sur, respectivamente, al ser órganos únicos en esas sedes, recibirán los asuntos por conducto de sus propias Oficialías de Partes.
+CUARTO. OFICINA DE CORRESPONDENCIA COMUN. El Centro Auxiliar de la Quinta Región contará con una Oficina de Correspondencia Común la cual se denominará Oficina de Correspondencia Común del Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa, que se integrará con el personal que al efecto determine el área administrativa correspondiente del Consejo de la Judicatura Federal; misma que prestará servicio a los órganos jurisdiccionales auxiliares con residencia en esa ciudad, incluso al Tercer Tribunal Colegiado de nueva creación. Respecto del Cuarto y Quinto Tribunales Colegiados del Centro Auxiliar de la Quinta Región, con residencia en los Mochis, Sinaloa y La Paz, Baja California Sur, respectivamente, así como del Juzgado Octavo de Distrito del Centro Auxiliar de la Quinta Región, con sede en Mazatlán, Sinaloa, al ser órganos únicos en esas sedes, recibirán los asuntos por conducto de sus propias Oficialías de Partes.
 
 QUINTO. FUNCIONAMIENTO. La Comisión de Creación de Nuevos Organos, mediante los dictámenes que elaborará la Secretaría Ejecutiva de Carrera Judicial, Adscripción y Creación de Nuevos Organos, determinará los juzgados de Distrito y tribunales de Circuito que recibirán el apoyo en el dictado de sentencias por el Centro Auxiliar de la Quinta Región. Asimismo, la Comisión determinará el tiempo, número y cualidad de los asuntos que se enviarán a los órganos jurisdiccionales auxiliares, lo cual se dará a conocer por medio de Acuerdos de la propia Comisión.
 
@@ -139,11 +153,13 @@ La Secretaría Ejecutiva de Obra, Recursos Materiales y Servicios Generales, med
 
 Los titulares o presidentes de los órganos jurisdiccionales comisionarán, de su personal, al responsable de la elaboración de un acta circunstanciada cada vez que entreguen expedientes para el dictado de su sentencia, o reciban los ya fallados; documento que suscribirán en compañía de uno de los secretarios.
 
-> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO SEGUNDO DEL ACUERDO GENERAL 43/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO POR EL PUNTO CUARTO DEL ACUERDO GENERAL 8/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 28 DE FEBRERO DE 2013)</small>
 
-SEXTO. PLANTILLAS. Con excepción de los Tribunales Colegiados de Circuito con sede en Los Mochis, Sinaloa y La Paz, Baja California, Sur, que contarán cada uno con un oficial administrativo de más que se encargará de la Oficialía de Partes de cada órgano, las plantillas de los órganos jurisdiccionales serán las siguientes:
+SEXTO. Con excepción de los Tribunales Colegiados de Circuito con sede en Los Mochis, Sinaloa y La Paz, Baja California, Sur, que contarán cada uno con un oficial administrativo de más que se encargará de la Oficialía de Partes de cada órgano, las plantillas de los órganos jurisdiccionales serán las siguientes:
 
-(VEASE ARCHIVO ANEXO)
+> <small>N. DE E. VÉASE TABLA EN LA PRIMERA SECCIÓN DEL D.O.F. DE 28 DE FEBRERO DE 2013, PAGINA 67.</small>
+
+La plantilla laboral del Juzgado Octavo de Distrito del Centro Auxiliar de la Quinta Región, con sede en Mazatlán, Sinaloa, se determinará por el Pleno del Consejo de la Judicatura Federal.
 
 SEPTIMO. ESTADISTICA E INFORMES. Los titulares de los órganos jurisdiccionales que integran el Centro Auxiliar de la Quinta Región, deberán enviar dentro de los primeros cinco días de cada mes, su reporte estadístico mensual a la Dirección General de Estadística y Planeación Judicial y a la Secretaría Ejecutiva de Carrera Judicial, Adscripción y Creación de Nuevos Organos.
 
@@ -198,3 +214,19 @@ PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, a los Acuerdos Generales 10/2008, 18/2008, 27/2008, 52/2008, 53/2008, 54/2008, 20/2009, 51/2009, 54/2009, 32/2010 y 33/2011, relativos a la Creación de cada uno de los once Centros Auxiliares Regionales.
+
+D.O.F. 28 DE FEBRERO DE 2013.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. El Coordinador Técnico "A" adscrito a la Administración Regional en Mazatlán y que funge como enlace con las autoridades del Complejo Penitenciario Islas Marías, seguirá ejerciendo las funciones administrativas y de coordinación logística que le fueron asignadas, percibiendo el sobresueldo autorizado al residir en Islas Marías.
+
+CUARTO. Quedan sin efecto las disposiciones dictadas con anterioridad, en lo que se opongan a este acuerdo.
+
+QUINTO. El Instituto Federal de Defensoría Pública, determinará lo conducente respecto al personal que se adscriba al Juzgado Octavo de Distrito del Centro Auxiliar de la Quinta Región, con residencia en Mazatlán, Sinaloa, y a la Oficina de Enlace y Notificaciones del Poder Judicial de la Federación en el Complejo Penitenciario Islas Marías.
+
+SEXTO. La Dirección General de Tecnologías de la Información, garantizará la operación adecuada y permanente de los servicios de telecomunicación entre la Oficina de Enlace y Notificaciones del Poder Judicial de la Federación en Islas Marías y el órgano jurisdiccional auxiliar con sede en Mazatlán, Sinaloa, estableciendo una infraestructura adecuada para la trasmisión de voz, datos y video.
+
+SEPTIMO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de las reformas, a los Acuerdos Generales del Pleno del Consejo de la Judicatura Federal 15/2010, relativo a la denominación, residencia, competencia, jurisdicción territorial, domicilio y fecha de inicio de funcionamiento del Juzgado de Distrito del Complejo Penitenciario Islas Marías y Auxiliar en toda la República; Acuerdo General 3/2013, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito; así como al Acuerdo General 52/2008, por el que se crea el Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa, así como los órganos jurisdiccionales que lo integrarán.
