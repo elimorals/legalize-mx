@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-penales-para-el-estado-de-mexico-67092
 country: "mx"
 rank: "codigo"
 publication_date: "2009-02-09"
-last_updated: "2013-02-25"
+last_updated: "2013-02-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "MEX"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE MEXICO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EN LA G.G. DE 28 DE FEBRERO DE 2013, NÚMERO 41, SECCIÓN OCTAVA, PÁGINAS 1, 2, Y 3 RESPECTIVAMENTE; DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE MÉXICO
 
 > <small>N. DE E. DE CONFORMIDAD CON EL DECRETO NO. 4 PUBLICADO EN LA G.G. DE 30 DE SEPTIEMBRE DE 2009, EL SISTEMA PROCESAL PENAL ACUSATORIO ADVERSARIAL Y ORAL HA SIDO INCORPORADO EN EL PRESENTE ORDENAMIENTO, Y ENTRARÁ EN VIGOR EN LOS SIGUIENTES PLAZOS Y DISTRITOS: 1) EL PRIMERO DE OCTUBRE DE DOS MIL NUEVE, EN LOS DISTRITOS JUDICIALES DE TOLUCA, LERMA, TENANCINGO Y TENANGO DEL VALLE; 2) EL PRIMERO DE ABRIL DE DOS MIL DIEZ, EN LOS DISTRITOS JUDICIALES DE CHALCO, OTUMBA Y TEXCOCO; 3) EL PRIMERO DE OCTUBRE DE DOS MIL DIEZ, EN LOS DISTRITOS JUDICIALES DE NETZAHUALCÓYOTL, EL ORO, IXTLAHUACA, SULTEPEC Y TEMASCALTEPEC; 4) EL PRIMERO DE ABRIL DE DOS MIL ONCE, EN LOS DISTRITOS JUDICIALES DE TLALNEPANTLA, CUAUTITLÁN Y ZUMPANGO; 5) EL PRIMERO DE OCTUBRE DE DOS MIL ONCE, EN LOS DISTRITOS JUDICIALES DE ECATEPEC DE MORELOS, JILOTEPEC Y VALLE DE BRAVO.</small>
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE FEBRERO DE 2013.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 28 DE FEBRERO DE 2013, NÚMERO 41, SECCIÓN OCTAVA, PÁGINA 3.</small>
 
 Código publicado en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el lunes 9 de febrero de 2009.
 
@@ -39,7 +39,7 @@ DECRETO NÚMERO 266
 
 LA H. "LVI" LEGISLATURA DEL ESTADO DE MÉXICO DECRETA:
 
-CÓDIGO DE PROCEDIMIENTOS PENALES PARA El ESTADO DE MÉXICO
+CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE MÉXICO
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -4189,8 +4189,6 @@ También, podrá formular la solicitud el imputado siempre y cuando se reúnan l
 
 La existencia de coimputados no impide la aplicación de estas reglas a alguno de ellos. Se escuchará a la víctima u ofendido de domicilio conocido, a pesar de que no se haya constituido como acusador coadyuvante, pero su criterio no será vinculante. La incomparecencia de la víctima u ofendido a la audiencia no impedirá que se resuelva sobre la apertura del procedimiento abreviado y, en su caso, se dicte la sentencia respectiva.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EN LA G.G. DE 28 DE FEBRERO DE 2013, NÚMERO 41, SECCIÓN OCTAVA, PÁGINAS 1, 2, Y 3 RESPECTIVAMENTE; DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 Oportunidad
 
 ###### Artículo 389.
@@ -4203,9 +4201,9 @@ El ministerio público manifestará su deseo de aplicar el procedimiento abrevia
 
 En caso de dictarse sentencia de condena, se aplicarán las penas mínimas previstas por la ley para el delito cometido, reducidas en un tercio, sin perjuicio de cualquier otro beneficio que proceda en términos del código penal.
 
-> <small>(REFORMADO, G.G. 22 DE FEBRERO DE 2013)</small>
+(REFORMADO, G.G. 22 DE FEBRERO DE 2013) (F. DE E., G.G. 28 DE FEBRERO DE 2013)
 
-Tratándose de los delitos de secuestro, homicidio doloso con modificativas que lo califiquen o lo agraven, el homicidio culposo de dos o más personas, violación, robo que ocasione la muerte, robo de vehículo automotor con violencia, robo cometido a interior de casa habitación con violencia y delitos contra el correcto funcionamiento de las instituciones de seguridad pública y órganos jurisdiccionales, y de la seguridad de los servidores públicos y particulares, solamente se aplicarán las penas mínimas previstas por la ley para el delito cometido, con exclusión de cualquier otro beneficio.
+Tratándose de los delitos de extorsión, secuestro, homicidio doloso con modificativas que lo califiquen o lo agraven, el homicidio culposo de dos o más personas, violación, robo que ocasione la muerte, robo de vehículo automotor con violencia, robo cometido a interior de casa habitación con violencia y delitos contra el correcto funcionamiento de las instituciones de seguridad pública y órganos jurisdiccionales, y de la seguridad de los servidores públicos y particulares, solamente se aplicarán las penas mínimas previstas por la ley para el delito cometido, con exclusión de cualquier otro beneficio.
 
 Verificación del juez
 
