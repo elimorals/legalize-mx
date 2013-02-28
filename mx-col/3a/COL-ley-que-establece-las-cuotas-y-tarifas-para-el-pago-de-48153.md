@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-48153"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2010-12-25"
+last_updated: "2013-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48153&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "COL"
 ---
 # LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PUBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE ARMERIA, COLIMA
 
-LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PUBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE ARMERIA, COLIMA
+LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE ARMERÍA, COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 31 de diciembre de 2005.
 
@@ -101,7 +101,7 @@ POTABLE
 
 II.- REGIMEN DE SERVICIO MEDIDO:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 ###### ARTICULO 4.
 
@@ -119,7 +119,7 @@ Por el servicio comercial de agua potable, alcantarillado y saneamiento se pagar
 
 I.- REGIMEN DE CUOTA FIJA:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 a).- Los Comercios que a continuación se mencionan se describen como “Comercial Bajo Consumo” y pagaran la cuota de:
 
@@ -131,7 +131,7 @@ POTABLE
 
 Abarrotes con venta de bebidas alcohólicas, agencia de viajes, almacenes de ropa, boutiques, bufetes, consultorios, despachos, oficinas, carpinterías en pequeño, cerrajerías, venta de dulces, editoriales y/o venta de libros, venta de periódicos y/o revistas, estacionamientos, estanquillos, farmacias, ferreterías en pequeño, florerías, foto estudios, funerarias, fabricación y/o venta de huaraches, imprentas, jugueterías, licorerías, venta de material para construcción, mini súper, misceláneas, mueblerías, panaderías (industria y expendio), papelerías, pastelerías, peluquerías, laminado y pintura de vehículos, expendio de pinturas, refaccionarías, relojerías, reparación de aparatos electrodomésticos, reparación de llantas, sastrerías, servicio de transporte y/o flete (sin lavado), fábrica y/o venta de sombreros, tapicerías, taquerías, talleres, venta de telas, templos, tiendas de regalos, tiendas naturistas, tiendas de semillas y cereales, tlapalerías, alquiler de videocasetes, videojuegos, vidrierías y zapaterías.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 b).- Los Comercios que a continuación se mencionan se describen como “Comercial Consumo Medio” y pagaran la cuota de:
 
@@ -635,7 +635,7 @@ POTABLE
 
 II.- REGIMEN DE SERVICIO MEDIDO:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 ###### ARTICULO 6.
 
@@ -959,13 +959,13 @@ vegetal provenientes de fosas desgrasadoras de
 
 restaurantes y giros similares) 1.601
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTÍCULO 17.
 
 Para recibir los servicios señalados en el artículo anterior, los solicitantes deberán celebrar contrato de prestación de servicios para el ejercicio fiscal correspondiente con el Organismo y pagar un derecho de: 10.200
 
-Las empresas dedicadas a la renta de sanitarios portátiles, limpieza de fosas sépticas y desgrasadotas mencionadas deberán presentar a el Organismo, el registro y permiso vigente de la autoridad competente, como requisito para la celebración de contrato de servicio que refiere la presente ley.
+Las empresas dedicadas a la renta de sanitarios portátiles, limpieza de fosas sépticas y desgrasadoras mencionadas deberán presentar a el Organismo, el registro y permiso vigente de la autoridad competente, como requisito para la celebración de contrato de servicio que refiere la presente ley.
 
 Los usuarios que suscriban el contrato a que se refiere este artículo estarán obligados a descargar las aguas residuales recolectadas de sanitarios portátiles y fosas sépticas en el punto que el Organismo señale al efecto.
 
@@ -1047,7 +1047,7 @@ I.- 4 por ciento de descuento a los usuarios de cuota fija que paguen el servici
 
 II.- 8 por ciento de descuento a los usuarios de cuota fija que paguen el servicio de agua potable, alcantarillado y saneamiento por anualidad durante los meses de enero y febrero.
 
-> <small>(REFORMADA PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2010)</small>
 
 III.- Los usuarios que acrediten ser ciudadanos mexicanos y tener la calidad de pensionados o jubilados tendrán derecho a un descuento del 50 por ciento en el pago de los derechos por servicios públicos de agua potable, alcantarillado y saneamiento, respecto de-la casa que habitan, siempre y cuando se cubra de manera anticipada todo el año en los meses de enero a abril o en pago puntual, para lo cual deberán exhibir a el Organismo previamente los siguientes documentos:
 
@@ -1087,11 +1087,11 @@ El presente Decreto entrará en vigor el día 1° de enero del año 2006, previa
 
 Los créditos fiscales que se causaron antes de la entrada en vigor de la presente Ley, se seguirán y concluirán en la forma y los términos previstos por la ley o acuerdo que los creo.
 
-> <small>(REFORMADO, P.O. 9 DE MAYO DE 2009)</small>
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2013)</small>
 
 ###### ARTICULO TERCERO.
 
-Para el ejercicio fiscal 2009, el beneficio a que se refiere el artículo 22 de ésta Ley, se amplia hasta el 31 de mayo del citado año, además de no generar los recargos correspondientes en dicha prórroga.
+Para el ejercicio fiscal 2013, el beneficio a que se refiere el artículo 22 de esta Ley, se amplía hasta el 30 de abril del citado año, además de no generar los recargos correspondientes en dicha prórroga.
 
 El Gobernador del Estado dispondrá se publique, circule y observe."
 
@@ -1105,7 +1105,7 @@ Dado en Palacio de Gobierno, a los 31 días del mes de diciembre del año dos mi
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. JESÚS SILVERIO CAVAZOS CEBALLOS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. JUAN JOSÉ SEVILLA SOLÓRZANO. Rúbrica. EL SECRETARIO DE FINANZAS, ING. HUGO A. VÁZQUEZ MONTES. Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 4 DE ABRIL DE 2006.
 
@@ -1136,3 +1136,7 @@ P.O. 9 DE MAYO DE 2009.
 P.O. 25 DE DICIEMBRE DE 2010.
 
 ÚNICO.- El presente Decreto entrará en vigor el 1° de enero de 2011, previa su publicación en el Periódico Oficial "EL Estado de Colima".
+
+P.O. 28 DE FEBRERO DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
