@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-procuraduria-general-de-justicia-del-76520"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-09-02"
-last_updated: "2012-12-18"
+last_updated: "2013-02-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76520&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 2 de septiembre de 2010.
 
@@ -169,9 +169,9 @@ A) En la etapa de la averiguación previa:
 
 19. Prestar apoyo a los particulares en la captación de comunicaciones en las que estos participen, cuando los mismos lo soliciten para su aportación a la investigación;
 
-> <small>(REFORMADO, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2013)</small>
 
-20. Proponer a las partes a someterse voluntariamente a los procedimientos alternativos de solución de conflictos en los casos en que proceda, a fin de llegar a acuerdos reparatorios, explicándoles el procedimiento de mediación o conciliación disponible y sus efectos, emitiendo el acuerdo correspondiente y dejando constancia de ello en el expediente respectivo;
+20. Proponer a las partes a someterse voluntariamente a los procedimientos alternativos de solución de conflictos en los casos en que proceda, a fin de llegar a acuerdos reparatorios;
 
 21. Acordar la incompetencia y, en su caso, remitir el asunto a la autoridad que deba conocerlo;
 
@@ -2105,9 +2105,9 @@ El debido cumplimiento de lo acordado en el convenio respectivo, impedirá el ej
 
 La conciliación es propia de las autoridades de procuración de justicia que conozcan de un conflicto, y previo al inicio de un procedimiento penal deberá proponerse a las partes en los casos en que proceda.
 
-Se entiende por conciliación el proceso en el que uno o más conciliadores asisten a las partes en conflicto, para facilitar las vías de diálogo, proponiendo alternativas y soluciones.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 28 DE FEBRERO DE 2013)</small>
 
-Una vez iniciado un procedimiento penal, las partes podrán someter su conflicto a conciliación, sujetándose a los términos previstos en las leyes adjetivas correspondientes.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 28 DE FEBRERO DE 2013)</small>
 
 > <small>(REFORMADO, P.O. DE 1 DE SEPTIEMBRE DE 2011)</small>
 
@@ -2401,7 +2401,7 @@ El Instituto Tamaulipeco de Atención a las Víctimas de los Delitos no generar�
 
 El Instituto Tamaulipeco de Atención a las Víctimas de los Delitos deberá quedar conformado a más tardar 180 días después de la publicación del presente Decreto.
 
-P.O. DE 1 DE SEPTIEMBRE DE 2011.
+P.O. 1 DE SEPTIEMBRE DE 2011.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -2538,3 +2538,17 @@ Los procedimientos ante la Junta de Honor y Justicia, que se hayan iniciado con 
 ###### ARTÍCULO SÉPTIMO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE FEBRERO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procedimientos de mediación y conciliación que con anterioridad a la entrada en vigor del presente Decreto se hayan iniciado por parte de los Agentes del Ministerio Público del Estado y los mediadores de la Procuraduría General de Justicia del Estado, deberán concluir conforme al procedimiento con el que se hayan iniciado.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones que se opongan el presente Decreto.
