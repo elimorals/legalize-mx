@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-procedimientos-penales-para-el-estado-de-7994"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-17"
-last_updated: "2012-07-04"
+last_updated: "2013-02-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7994&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE TAMAULIPAS
 
 > <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS TRANSITORIOS PRIMERO Y SEGUNDO DEL CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE TAMAULIPAS, PUBLICADO EN EL P.O. DE 4 DE JULIO DE 2012, EL PRESENTE ORDENAMIENTO QUEDARÁ ABROGADO EN LA FECHA Y ÁMBITO ESPACIAL Y TEMPORAL DE VALIDEZ EN QUE DETERMINEN LOS DECRETOS A QUE ALUDE EL ARTÍCULO PRIMERO TRANSITORIO DEL ORDENAMIENTO EN MENCIÓN.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2013.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 17 de enero de 1987.
 
@@ -115,11 +115,9 @@ VIII.- Ejercitar la acción penal y solicitar la reparación del daño;
 
 IX.- Conceder y en su caso revocar o negar el beneficio de la libertad provisional bajo caución al indiciado cuando así proceda, de acuerdo a los términos, requisitos y limitaciones que este Código establece;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
-
-X.- Procurar la conciliación entre el ofendido o la víctima y el inculpado, en los delitos que se persiguen por querella necesaria, y en los perseguibles de oficio cuando el perdón del ofendido o la víctima sea causa de extinción de la acción penal;
+X.- Promover los mecanismos alternativos de solución de conflictos entre el ofendido o la víctima y el inculpado, en los delitos que se persiguen por querella necesaria, y en los perseguibles de oficio cuando el perdón del ofendido o la víctima sea causa de extinción de la acción penal, en términos de lo dispuesto por el artículo 3 Bis de este Código. En materia penal, los mecanismos alternativos de solución de conflictos aplicables son la mediación y la conciliación;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -150,6 +148,42 @@ XIV.- Rendir los informes que en delitos contra la salud en materia de narcomenu
 (REUBICADA, P.O. 16 DE DICIEMBRE DE 2010)
 
 XV.- Las demás que señalen las leyes.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2013)</small>
+
+###### ARTICULO 3 Bis.
+
+Se entenderá que el Ministerio Público ha cumplido con la promoción de los mecanismos alternativos de solución de conflictos que señala la fracción X del artículo anterior, cuando en los delitos que se persiguen por querella necesaria, y en los perseguibles de oficio en que opera el perdón del ofendido y esto sea causa de extinción de la acción penal, proceda de la manera siguiente:
+
+I.- Tratándose de denuncias o querellas se deberá remitir a la víctima u ofendido al mediador respectivo, en donde éste le brindará la información que la ley prevé sobre los mecanismos alternativos de solución de conflictos;
+
+II.- Si el querellante, la víctima u ofendido, expresa su anuencia para que alguno de estos mecanismos tenga lugar, tal circunstancia se asentará en un acta por parte del mediador que brindó la explicación del servicio, y se dará inicio al procedimiento de acuerdo con las normas que señala la Ley de Mediación del Estado; de no aceptar el querellante, la víctima o el ofendido, someterse al procedimiento alternativo, esto quedará asentado en un acta elaborada por el mediador, remitiendo dicha acta y al querellante, víctima u ofendido con el Agente del Ministerio Público que corresponda, para que se inicie o continúe el trámite de averiguación previa;
+
+III.- El derecho de la víctima u ofendido para acceder a los mecanismos alternativos de solución de conflictos se puede hacer valer en cualquier etapa del procedimiento penal, sin que la negativa inicial le impida solicitarlo durante el trámite del mismo;
+
+IV.- Cuando por las circunstancias del caso se hubiere iniciado la averiguación previa para realizar las primeras diligencias, el Agente del Ministerio Público deberá proceder en los términos que señala la fracción I del presente artículo, con excepción de los casos en que el indiciado se encuentre detenido, situación en la que no procede la utilización de los mecanismos alternativos de solución de conflictos;
+
+V.- La participación en los mecanismos alternativos de solución de conflictos para acceder a la reparación del daño es un derecho inherente a la víctima u ofendido; la negativa de éstos de participar en los mecanismos señalados dará por concluido su trámite, continuando con la averiguación previa correspondiente.
+
+Cuando el indiciado proponga un mecanismo alternativo de solución de conflictos al Ministerio Público que conozca del caso, éste ultimo deberá consultar a la víctima u ofendido su deseo de participar en este mecanismo, que de aceptarlo suspenderá el procedimiento de averiguación previa y remitirá a las partes al mediador que corresponda; en caso de negativa por parte de la víctima u ofendido de participar en el mecanismo propuesto, se continuará con el trámite de la averiguación previa.
+
+La aceptación o negativa a que se refiere el párrafo anterior deberá quedar asentada en un acta que se integrará al expediente de averiguación previa;
+
+VI.- Si las partes no llegan a un acuerdo satisfactorio, tendrán sus derechos a salvo y se continuará el procedimiento de averiguación previa. La información que se genere en los mecanismos alternativos de solución de conflictos no podrá ser utilizada en perjuicio de las partes dentro del procedimiento penal;
+
+VII.- El plazo fijado para el cumplimiento de las obligaciones pactadas en el convenio suspenderá la averiguación previa y, consecuentemente, la prescripción de la acción penal. Si el imputado incumple sin justa causa las obligaciones pactadas dentro del término que fijan las partes o, en caso de no establecerlo, dentro de tres meses contados a partir del día siguiente de la ratificación del acuerdo respectivo, el procedimiento penal continuará como si no se hubiera arribado a acuerdo alguno;
+
+VIII.- Cumplido el convenio respectivo, la víctima u ofendido deberá acudir ante el Ministerio Público que conoció del caso para otorgar el perdón al inculpado. Se entenderá que se encuentra debidamente cumplido el convenio, cuando se hayan satisfecho todos los acuerdos alcanzados por las partes;
+
+IX.- El cumplimiento de lo pactado por las partes en el acuerdo que resulte del procedimiento alternativo a que se refiere este artículo, sustanciado antes de iniciar la averiguación previa, tendrá el efecto de perdón del ofendido, trayendo como consecuencia el archivo definitivo de la denuncia o querella;
+
+X.- El inicio de un mecanismo alternativo de solución de conflictos suspende el término de la prescripción; al concluir el procedimiento por cualquiera de sus causas, se continuará su cómputo;
+
+XI.- La aceptación o negativa de la víctima u ofendido de participar en uno de los mecanismos alternativos de solución de conflictos excluye la obligación de participar en algún otro, salvo manifestación en contrario de aquellos;
+
+XII.- El incumplimiento del convenio resultado de un mecanismo alternativo de solución de conflictos imposibilita a las partes para volver a realizar otro procedimiento durante la averiguación previa, con excepción de lo que refiere la Ley de Mediación del Estado respecto a la remediación; y
+
+XIII.- En los municipios en que no exista un mediador o un Centro de Mediación, el Ministerio Público sustanciará los mecanismos alternativos de solución de conflictos en los términos de las fracciones anteriores.
 
 ###### ARTICULO 4.
 
@@ -1243,21 +1277,13 @@ II.- Asentar los datos generales para la identificación de la persona; en todo 
 
 III.- Comprobar su personalidad para los efectos legales.
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2011)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 28 DE FEBRERO DE 2013)</small>
 
-Igualmente, el Ministerio Público, antes de iniciar la averiguación previa o durante ésta y sin perjuicio de acordar las primeras medidas, procurará la conciliación entre el ofendido o víctima y el inculpado, en los delitos que se persiguen por querella necesaria, y en los perseguibles de oficio cuando el perdón del ofendido o la víctima sea causa de extinción de la acción penal.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 28 DE FEBRERO DE 2013)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE AGOSTO DE 2011)</small>
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 28 DE FEBRERO DE 2013)</small>
 
-El Ministerio Público, por los conductos debidos y cubriendo las formalidades establecidas en la ley para las notificaciones, citara a las partes para que comparezcan a la audiencia de conciliación. La inasistencia de cualquiera de las partes implicará su negativa respecto de aceptar dicho medio alternativo de solución.
-
-> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2003)</small>
-
-En convenio conciliatorio producirá los efectos de suspender la averiguación previa penal y el plazo de la prescripción de la acción penal en términos del artículo 134 del Código Penal. Deberá contener el término en que deberá cumplirse.
-
-> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2003)</small>
-
-Para que la conciliación pueda ser motivo de extinción de la acción penal, será necesario que el convenio se cumpla o se formule perdón del ofendido o víctima. El incumplimiento del convenio dará lugar a que se inicie la averiguación o que ésta se continúe.
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 28 DE FEBRERO DE 2013)</small>
 
 ###### ARTICULO 119.
 
@@ -5086,3 +5112,17 @@ Ninguna norma del presente ordenamiento se podrá aplicar a los procesos que deb
 Legislación de transición
 
 Antes de la entrada en vigor de este Código, deberán reformarse las leyes que regulen la competencia y estructura de los órganos judiciales, de la Defensoría Pública, del Ministerio Público, de los Cuerpos de Seguridad Pública, así como toda aquella que sea necesaria para su implementación.
+
+P.O. 28 DE FEBRERO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procedimientos de mediación y conciliación que con anterioridad a la entrada en vigor del presente Decreto se hayan iniciado por parte de los Agentes del Ministerio Público del Estado y los mediadores de la Procuraduría General de Justicia del Estado, deberán concluir conforme al procedimiento con el que se hayan iniciado.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones que se opongan el presente Decreto.
