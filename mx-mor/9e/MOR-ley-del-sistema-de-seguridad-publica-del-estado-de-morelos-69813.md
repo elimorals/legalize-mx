@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-sistema-de-seguridad-publica-del-estado-de-morelos-6981
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-24"
-last_updated: "2012-12-19"
+last_updated: "2013-03-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69813&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MOR"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2012.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 19 DE DICIEMBRE DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el lunes 24 de agosto de 2009.
 
@@ -175,11 +173,13 @@ I. El Gobernador del Estado, quien lo presidirá;
 
 II. El Secretario de Gobierno;
 
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2013)</small>
 
-III. El Secretario Ejecutivo, cargo que ocupa el Secretario de Seguridad Pública;
+III. El Secretario;
 
-IV. (DEROGADA, P.O. 24 DE OCTUBRE DE 2012)
+> <small>(REFORMADA (N. DE E. ADICIONADA], P.O. 1 DE MARZO DE 2013)</small>
+
+IV. El Secretario Ejecutivo;
 
 V. El Procurador General de Justicia;
 
@@ -225,9 +225,9 @@ La designación de los consejeros a que se refiere la fracción XV de este artí
 
 El Presidente del Consejo y el Secretario Ejecutivo podrán invitar a especialistas en la materia, quienes no serán considerados como miembros del Consejo y únicamente tendrán derecho a voz.
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2013)</small>
 
-El cargo de consejero será honorífico.
+La función de consejero será honorífica.
 
 La mecánica para tener una participación ordenada, incluyente y eficiente en las sesiones del Consejo Estatal, será definida en las disposiciones que determine el Secretario Ejecutivo.
 
@@ -479,13 +479,25 @@ El Estado y los Municipios se integrarán al Sistema Nacional, mediante instanci
 
 El Secretariado Ejecutivo es el órgano desconcentrado de la Secretaría de Seguridad Pública del Poder Ejecutivo del Estado de Morelos, operativo del Sistema Estatal de Seguridad Pública, gozará de autonomía técnica, de gestión presupuestal, y se integrará por las unidades administrativas y operativas, el personaltécnico (sic), administrativo, de asesoría y apoyo que se requiera para el cumplimiento de su pluralidad funcional y dada su naturaleza, de conformidadconel (sic) presupuesto autorizado.
 
-Dependerá directamente del titular del Ejecutivo del Estado. Su organización y procedimientos específicos se establecerán en el reglamento interno que para tal efecto se expida, el cual invariablemente deberá considerar como parte de su estructura orgánica a la unidad académica encargada de capacitar, evaluar y certificar a las instituciones y auxiliares de la seguridad pública.
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2013)</small>
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2012)</small>
+El órgano desconcentrado estará a cargo del Secretario Ejecutivo quien será designado por el Gobernador del Estado; durante sus ausencias temporales o indefinidas, la función será asumida, de manera integral, por el titular de la Secretaría de Seguridad Pública. Su organización y procedimientos específicos se establecerán en el Reglamento Interno que para tal efecto se expida, el cual invariablemente deberá considerar como parte de su estructura orgánica a la unidad académica encargada de capacitar, evaluar y certificar a las instituciones y auxiliares de la Seguridad Pública.
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2013)</small>
 
 ###### Artículo 23.
 
-Elcargo (sic) de Secretario Ejecutivo recaerá en el Secretario de Seguridad Pública Estatal, quien, para la operación del Secretariado Ejecutivo contará con el Servidor Público que designe la normatividad interna.
+El Secretario Ejecutivo será nombrado y removido libremente por el Gobernador del Estado y deberá cumplir con los siguientes requisitos:
+
+I. Ser ciudadano mexicano por nacimiento, que no tenga otra nacionalidad y este en pleno goce de sus derechos civiles y políticos;
+
+II. Tener más de treinta años de edad;
+
+III. Contar con título profesional de nivel Licenciatura debidamente registrado;
+
+IV. Tener reconocida capacidad y probidad; y
+
+V. No haber sido sentenciado por delito doloso o inhabilitado como servidor público.
 
 ###### Artículo 24.
 
@@ -531,17 +543,29 @@ XIX. Promover la celebración de convenios de coordinación y colaboración con 
 
 XX. Dar seguimiento a las quejas y denuncias presentadas en las unidades de asuntos internos estatales y municipales, hasta su conclusión definitiva;
 
-XXI. Dar seguimiento y evaluar la atención brindada a las denuncias anónimas recibidas a través del Sistema Nacional de Atención de Denuncia Anónima 089 en el Estado de Morelos; y
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2013)</small>
+
+XXI. Dar seguimiento y evaluar la atención brindada a las denuncias anónimas recibidas a través del Sistema Nacional de Atención de Denuncia Anónima 089 en el Estado de Morelos;
 
 XXII. Informar periódicamente al Consejo Estatal de sus actividades;
 
-XXIII. Coadyuvar y en su caso proponer las medidas pertinentes y necesarias para eficientar la seguridad del Ejecutivo.
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2013)</small>
 
-XXIV. Las demás que le confieran las normas jurídicas aplicables, que le asignen el Consejo Estatal o instruya el Presidente y las que sean necesarias para el cumplimiento de sus funciones.
+XXIII. Coadyuvar y en su caso proponer las medidas pertinentes y necesarias para eficientar la seguridad del Ejecutivo;
 
-> <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2012)</small>
+> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2013)</small>
 
-Artículo 24 bis.- Para la fiscalización de los recursos financieros a que se refiere la fracción VI del artículo precedente, el Secretariado Ejecutivo contará con un Comisario Público designado por la Secretaría de la Contraloría del Estado, que quedará a cargo de la Unidad de Control del órgano desconcentrado, teniendo las atribuciones y funciones que se señalen en el Reglamento Interior de la Secretaría de la Contraloría del Estado; el Comisario Público contará con el auxilio de personal especializado en la materia.
+XXIV. Coadyuvar en la instrumentación, preparación, ejecución y evaluación del Mando Único Policial en el Estado, atendiendo las indicaciones que le transmita el Gobernador del Estado, el Secretario de Gobierno o el Secretario de Seguridad Pública; y
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2013)</small>
+
+XXV. Las demás que le confieren las normas jurídicas aplicables, que le asignen el Consejo Estatal o aquellas que le sean instruidas y las que sean necesarias para el cumplimiento de sus funciones.
+
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2013)</small>
+
+Artículo 24 bis.- Para la fiscalización de los recursos financieros que le sean asignados el Secretariado Ejecutivo contará con un Comisario Público designado por la Secretaría de la Contraloría del Estado, que quedará a cargo de la Unidad de Control del órgano desconcentrado, teniendo las atribuciones y funciones que se señalen en el Reglamento Interior de la Secretaría de la Contraloría del Estado; el Comisario Público contará con el auxilio de personal especializado en la materia.
+
+La vigilancia de los recursos procedentes de fondos federales o locales, destinados al Estado o a los Municipios, a que se refiere la fracción VI del artículo precedente, será atendida por la unidad administrativa que en la reglamentación se determine.
 
 ###### Artículo 25.
 
@@ -803,13 +827,15 @@ a) El Gobernador;
 
 b) El Secretario de Gobierno;
 
-(REFORMADO, P.O. 24 DE OCTUBRE DE 2012) (F. DE E., P.O. 19 DE DICIEMBRE DE 2012)
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2013)</small>
 
-c) El Secretario de Seguridad Pública, con ese carácter y en su calidad de titular del Secretariado Ejecutivo del Sistema;
+c) El Secretario de Seguridad Pública
 
 d) El Procurador General de Justicia;
 
-e) (DEROGADO, P.O. 24 DE OCTUBRE DE 2012)
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE MARZO DE 2013)</small>
+
+e) El Secretario Ejecutivo del Sistema;
 
 II. Municipales:
 
@@ -2797,9 +2823,9 @@ Se derogan todas las disposiciones de igual o menor rango que se opongan al pres
 
 P.O. 12 DE SEPTIEMBRE DE 2011.
 
-Primero.- Aprobado que sea el presente decreto túrnese al titular del Poder Ejecutivo para su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
+Primero.- Aprobado que sea el presente decreto túrnese al titular del Poder Ejecutivo para su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
 
-Segundo.- Este decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”.
+Segundo.- Este decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
 
 Tercero.- La comisión permanente que el Consejo Estatal de Seguridad Pública debe conformar en términos del artículo 14 de la Ley del Sistema de Seguridad Pública del Estado de Morelos, por virtud de lo establecido en el artículo 130-B, adicionado en ese ordenamiento por efecto del presente decreto, habrá de ser establecida para iniciar sus labores a más tardar en cuarenta y cinco días hábiles contados a partir de la entrada en vigor de esta reforma.
 
@@ -2816,3 +2842,11 @@ PRIMERA.- Remítase el presente Decreto al Gobernador Constitucional del Estado,
 SEGUNDA.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Estado.
 
 TERCERA.- En un plazo de no mayor de treinta días hábiles, deberá ser designado el Comisario Público del Secretariado Ejecutivo del Consejo Estatal de Seguridad Pública.
+
+P.O. 1 DE MARZO DE 2013.
+
+PRIMERO.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Estado.
+
+TERCERO.- Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan al presente decreto.
