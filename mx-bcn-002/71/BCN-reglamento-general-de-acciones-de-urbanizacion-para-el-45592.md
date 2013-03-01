@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-general-de-acciones-de-urbanizacion-para-el-45592"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-11-16"
-last_updated: "2012-09-07"
+last_updated: "2013-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO GENERAL DE ACCIONES DE URBANIZACIÓN PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2013.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 16 de noviembre de 2001.
 
@@ -437,7 +437,9 @@ El urbanizador o promotor inmobiliario también podrá proponer a la Dirección,
 
 La Dirección podrá aceptar la propuesta de menor superficie pero con edificación o infraestructura siempre y cuando cuente con los siguientes elementos:
 
-I.- Un dictamen técnico en el que se determine la necesidad del equipamiento especifico para la zona, emitido por la misma Dirección o por la dependencia o entidad del gobierno municipal que tenga injerencia en la administración de dicha obra o equipamiento, y aprobado por el Ayuntamiento;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2013)</small>
+
+I.- Un dictamen técnico en el que se determine la necesidad de equipamiento específico para la zona, emitido por la misma Dirección o por la dependencia o entidad del gobierno municipal que tenga injerencia en la administración de dicha obra o equipamiento, y aprobado por el Ayuntamiento, o un dictamen técnico por el cual la Dirección de Administración Urbana en coordinación de (sic) con la Dirección de Desarrollo Social Municipal autoricen un proyecto de edificación susceptible a ser asignado y administrado por el Comité de Desarrollo Social que corresponda a dicho fraccionamiento conforme norma el Reglamento de Participación Ciudadana y vecinal para el Municipio de Mexicali, Baja California.
 
 > <small>(REFORMADA, P.O. 5 DE MARZO DE 2010)</small>
 
@@ -1206,3 +1208,7 @@ P.O. 7 DE SEPTIEMBRE DE 2012.
 SE TRANSCRIBE EL PUNTO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.
 
 SEGUNDO.- EL PRESENTE ACUERDO ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA.
+
+P.O. 1 DE MARZO DE 2013.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
