@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-interior-de-la-comision-de-transparencia-del-41348"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-05-30"
-last_updated: "2009-07-27"
+last_updated: "2013-03-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41348&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "QUE"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION DE TRANSPARENCIA DEL MUNICIPIO DE QUERETARO
 
-REGLAMENTO INTERIOR DE LA COMISION DE TRANSPARENCIA DEL MUNICIPIO DE QUERETARO
+REGLAMENTO INTERIOR DE LA COMISIÓN DE TRANSPARENCIA DEL MUNICIPIO DE QUERÉTARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JULIO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2013.
 
 Reglamento publicado en la Gaceta Municipal del Municipio de Querétaro, el jueves 30 de mayo de 2002.
 
@@ -83,7 +83,7 @@ El presente reglamento es de orden público e interés social y tiene por objeto
 
 La Comisión de Transparencia del Municipio de Querétaro, es el órgano de consulta y participación ciudadana, encargado de auxiliar a la Secretaría de la Contraloría Municipal, en la vigilancia de los recursos humanos y materiales, a fin de salvaguardar los principios de legalidad, imparcialidad, lealtad, eficiencia y honradez en la Administración Pública Municipal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JULIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2009)</small>
 
 ###### Artículo 3.
 
@@ -139,9 +139,9 @@ V. Promover estudios e investigación que aporten medios, métodos de control e 
 
 VI. Realizar acciones, sondeos y encuestas con los habitantes del Municipio que permitan conocer aquellos índices que afecten el desarrollo de las funciones de la Administración Pública Municipal;
 
-VII. Organizar y trabajar en subcomisiones permanentes o transitorias para el estudio, examen y propuestas de solución a los asuntos que les sean turnados;
+VII. (DEROGADA, P.O. 1 DE MARZO DE 2013)
 
-VIII. Resolver respecto de los proyectos de acuerdo que presenten las subcomisiones;
+VIII. (DEROGADA, P.O. 1 DE MARZO DE 2013)
 
 IX. Remover a los miembros de la Comisión de Transparencia del Municipio de Querétaro, cuando incurran en cualquiera de los supuestos del artículo 13 del presente reglamento; y (sic)
 
@@ -237,17 +237,23 @@ XIII. Las demás que le sean conferidas por el H. Ayuntamiento, el presente orde
 
 La Comisión de Transparencia del Municipio de Querétaro estará integrada por:
 
-I. El Presidente Municipal de Querétaro o el servidor público de la Administración Municipal, designado por él para que lo represente, en cualquier caso el asistente tendrá derecho a voz y voto;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2013)</small>
+
+I. Un represente de la Administración Municipal, que será designado por el Presidente Municipal de Querétaro, y tendrá derecho a voz y voto;
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 27 DE JULIO DE 2009)</small>
 
 II. Dos regidores integrantes del H. Ayuntamiento, con derecho a voz y voto;
 
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2009)</small>
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2013)</small>
 
-III. Un Secretario Ejecutivo, que será el Secretario de la Contraloría Municipal, con derecho a voz y voto; y
+III. Un Secretario Ejecutivo, que será Titular de la Unidad de Información Gubernamental, con derecho a voz sin voto; y
 
-IV. Cuatro ciudadanos propietarios pertenecientes al sector privado, social o académico, de entre los cuales la Comisión en pleno designará al Presidente de la misma, todos con derecho a voz y voto.
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2013)</small>
+
+IV. Cinco ciudadanos propietarios pertenecientes al sector privado, social o académico, de entre los cuales el Ayuntamiento designará al Presidente de la misma, todos con derecho a voz y voto
+
+De los cinco integrantes ciudadanos, no podrá haber más de tres del mismo género.
 
 > <small>(ADICIONADO, P.O. 7 DE JULIO DE 2008)</small>
 
@@ -259,7 +265,7 @@ El Presidente de la Comisión de Transparencia del Municipio de Querétaro, esta
 
 Los titulares de las dependencias de la Administración Pública Municipal, podrán participar en las sesiones que realice la Comisión de Transparencia del Municipio de Querétaro, con derecho a voz, previa invitación que al efecto expida el Secretario Ejecutivo por acuerdo de la Comisión o del Presidente de la misma.
 
-Asimismo deberán participar en los trabajos de las subcomisiones de la Comisión de Transparencia del Municipio de Querétaro, cuando por la naturaleza del asunto que se trate se relacione con su área, previa invitación que al efecto emita el coordinador de cada subcomisión.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 1 DE MARZO DE 2013)</small>
 
 ###### Artículo 10.
 
@@ -297,7 +303,7 @@ Sin perjuicio de lo anterior, los ciudadanos que integren la Comisión continuar
 
 La Comisión de Transparencia del Municipio de Querétaro, deberá ser instalada en el mes de julio del segundo año de la gestión pública municipal que corresponda.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2005)</small>
 
 ###### Artículo 13.
 
@@ -305,7 +311,17 @@ La Comisión de Transparencia del Municipio de Querétaro, aprobará la remoció
 
 I. Para los servidores públicos, cualquiera de las establecidas en la Ley de Responsabilidades de los Servidores Públicos del Estado de Querétaro;
 
-II. Los integrantes ciudadanos, cuando en el ejercicio de sus funciones generen violaciones graves y sistemáticas a las garantías individuales y sociales, faltando a los principios por los cuales se instituye la Comisión de Transparencia del Municipio de Querétaro; y (sic)
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2013)</small>
+
+II. Para los integrantes ciudadanos,
+
+a) Cuando en el ejercicio de sus funciones generen violaciones graves y sistemáticas a los derechos humanos, faltando a los principios por los cuales se instituye la Comisión de Transparencia del Municipio de Querétaro;
+
+b) Faltar por tres ocasiones consecutivas sin justificación a las sesiones que se convoquen debidamente para los trabajos del Pleno de la Comisión de Transparencia del Municipio de Querétaro;
+
+c) Por renuncia expresa de los ciudadanos integrantes, incluyendo al Presidente de la Comisión, para dejar de participar definitivamente en ella;
+
+d) Conozcan de cualquier asunto en el que tuviesen interés personal y no lo hayan manifestado previamente conforme a lo estipulado por el párrafo último del artículo 35 del presente reglamento.
 
 III. Faltar por tres ocasiones consecutivas sin justificación a las sesiones que se convoquen debidamente para los trabajos del Pleno de la Comisión de Transparencia del Municipio de Querétaro;
 
@@ -379,9 +395,11 @@ El Secretario Ejecutivo de la Comisión antes de iniciar la sesión de trabajo, 
 
 Una vez leído un proyecto de acuerdo o documento incluido en el Orden del Día, será sometido a discusión del Pleno por el Secretario Ejecutivo.
 
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2013)</small>
+
 ###### Artículo 22.
 
-Durante la discusión de un asunto en Pleno, los integrantes de la Comisión de Transparencia del Municipio de Querétaro, podrán hacer uso de la palabra hasta por dos ocasiones, sin excederse en cada intervención de tres minutos. Los representantes integrantes de la Subcomisión autora del documento podrán hacer uso de la palabra en la discusión cuantas veces sea necesario.
+Durante la discusión de un asunto en Pleno, los integrantes de la Comisión de Transparencia del Municipio de Querétaro, podrán hacer uso de la palabra hasta por dos ocasiones, sin excederse en cada intervención de tres minutos.
 
 ###### Artículo 23.
 
@@ -473,69 +491,51 @@ Las resoluciones o acuerdos de la Comisión de Transparencia del Municipio de Qu
 
 Si finaliza la exposición de un asunto y nadie solicita el uso de la palabra o se hubiere agotado el número de oradores, o bien, cuando se considere suficientemente discutido el asunto a juicio de quien presida la sesión, este será sometido a votación.
 
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2013)</small>
+
+Si algún integrante de la Comisión de Transparencia del Municipio de Querétaro, tuviere interés personal en algún asunto, dejará de conocer inmediatamente de éste, debiendo excusarse mediante escrito presentado ante el Secretario Ejecutivo.
+
 ### CAPÍTULO SEXTO. DE LAS SUBCOMISIONES
 
 ###### Artículo 36.
 
-La Comisión de Transparencia del Municipio de Querétaro, para el mejor desempeño de sus funciones se organizará en subcomisiones permanentes o transitorias.
+(DEROGADO, P.O. 1 DE MARZO DE 2013)
 
 ###### Artículo 37.
 
-Dentro de los siguientes 30 días a la instalación de la Comisión de Transparencia del Municipio de Querétaro, sus miembros se constituirán en subcomisiones permanentes, para el estudio, examen y resolución de los asuntos que les sean turnados.
-
-Las subcomisiones transitorias se constituirán por acuerdo del Pleno de la Comisión de Transparencia del Municipio de Querétaro, por las dos terceras partes de sus integrantes.
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE JULIO DE 2009)</small>
+(DEROGADO, P.O. 1 DE MARZO DE 2013)
 
 ###### Artículo 38.
 
-Cada Subcomisión estará integrada por miembros de la Comisión de Transparencia del Municipio de Querétaro que sean designados por el Pleno de la misma, quienes deberán nombrar un coordinador.
-
-Atendiendo a la naturaleza de los asuntos a tratar, y previo acuerdo de la mayoría de los integrantes de cada subcomisión, se podrán integrar a los trabajos de la misma, funcionarios de la Administración Pública Municipal.
+(DEROGADO, P.O. 1 DE MARZO DE 2013)
 
 ###### Artículo 39.
 
-Los integrantes de la Comisión de Transparencia del Municipio de Querétaro deberán formar parte de por lo menos una subcomisión.
+(DEROGADO, P.O. 1 DE MARZO DE 2013)
 
 ###### Artículo 40.
 
-Las subcomisiones permanentes, serán las siguientes:
-
-I. De diagnóstico y planeación estratégica; cuya competencia será elaborar los mecanismos para la detección y corrección de deficiencias y problemas en las diferentes áreas de la Administración Pública Municipal;
-
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 27 DE JULIO DE 2009)</small>
-
-II. De difusión institucional; cuya competencia será buscar y proponer los mecanismos óptimos para dar a conocer a los habitantes del Municipio de Querétaro, los avances y resultados del Plan de Fortalecimiento de la Transparencia Municipal; y
-
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 27 DE JULIO DE 2009)</small>
-
-III. De supervisión; cuya competencia será promover los métodos de control y evaluación para el cumplimiento del Plan de Fortalecimiento de la Transparencia Municipal.
+(DEROGADO, P.O. 1 DE MARZO DE 2013)
 
 ###### Artículo 41.
 
-Los asuntos que hayan sido turnados a las subcomisiones deberán ser presentados para su votación al Pleno de la Comisión de Transparencia del Municipio de Querétaro, en un plazo no mayor de 30 días hábiles contados a partir del día siguiente al de la celebración de la reunión de trabajo de la Subcomisión respectiva.
-
-En el caso de que los asuntos tengan el carácter de urgente resolución, serán analizados y resueltos dentro de la sesión en que sean presentados.
+(DEROGADO, P.O. 1 DE MARZO DE 2013)
 
 ###### Artículo 42.
 
-Si algún integrante de la Comisión de Transparencia del Municipio de Querétaro, o de las subcomisiones tuviere interés personal en algún asunto, dejará de conocer inmediatamente de éste, debiendo excusarse mediante escrito presentado ante el Secretario Ejecutivo.
-
-El Secretario Ejecutivo informará dicho asunto en la siguiente sesión a la Comisión de Transparencia del Municipio de Querétaro.
+(DEROGADO, P.O. 1 DE MARZO DE 2013)
 
 ###### Artículo 43.
 
-Cuando un asunto por su naturaleza, involucre la competencia de dos o más subcomisiones, el Presidente de la Comisión de Transparencia del Municipio de Querétaro, determinará cuál de ellas será la convocante para el desahogo de los trabajos.
-
-Las subcomisiones involucradas deberán celebrar las reuniones necesarias para mejor proveer el asunto, previa convocatoria.
+(DEROGADO, P.O. 1 DE MARZO DE 2013)
 
 ###### Artículo 44.
 
-Las subcomisiones fundamentarán por escrito sus proyectos con proposiciones claras y precisas.
+(DEROGADO, P.O. 1 DE MARZO DE 2013)
 
 ###### Artículo 45.
 
-Ningún acuerdo de las subcomisiones tendrá carácter ejecutivo, todos sus proyectos de acuerdo serán sometidos a votación al Pleno de la Comisión de Transparencia del Municipio de Querétaro.
+(DEROGADO, P.O. 1 DE MARZO DE 2013)
 
 ## TRANSITORIOS
 
@@ -561,7 +561,7 @@ LIC. ARTURO MAXIMILIANO GARCÍA PÉREZ,
 
 SECRETARIO DEL AYUNTAMIENTO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 8 DE OCTUBRE DE 2004.
 
@@ -598,3 +598,11 @@ PRIMERO: Publíquese por una sola ocasión en la Gaceta Municipal.
 SEGUNDO: Las presentes reformas y adiciones entrarán en vigor el día siguiente al de su publicación en la Gaceta Municipal.
 
 TERCERO: Comuníquese a la Secretaría de la Contraloría Municipal.
+
+P.O. 1 DE MARZO DE 2013.
+
+PRIMERO. Publíquese en la Gaceta Municipal del Municipio de Querétaro y en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+SEGUNDO. La presente reforma entrará en vigor el día siguiente al de su publicación.
+
+TERCERO. Se derogan todas aquellas disposiciones legales de igual o menor jerarquía que se opongan al presente Reglamento.
