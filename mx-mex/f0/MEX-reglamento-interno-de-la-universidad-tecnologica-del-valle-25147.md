@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-de-la-universidad-tecnologica-del-valle-2514
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-06-14"
-last_updated: "2009-03-26"
+last_updated: "2013-03-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25147&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 REGLAMENTO INTERNO DE LA UNIVERSIDAD TECNOLÓGICA DEL VALLE DE TOLUCA, ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE MARZO DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DEL REGLAMENTO INTERNO DE LA UNIVERSIDAD TECNOLÓGICA DEL VALLE DE TOLUCA, PUBLICADO EN EL G.G. DE 1 DE MARZO DE 2013., EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: ABROGADO.
 
 Reglamento publicado en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el viernes 14 de junio de 2002.
 
@@ -516,3 +518,13 @@ G.G. 26 DE MARZO DE 2009.
 PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 1 DE MARZO DE 2013.
+
+PRIMERO.- Publíquese el presente Reglamento en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se abrogan las disposiciones del Reglamento Interno de la Universidad Tecnológica del Valle de Toluca, publicado en el Periódico Oficial "Gaceta del Gobierno" de fecha 14 de junio de 2002, así como las modificaciones al mismo.
+
+CUARTO.- Se derogan las disposiciones de igual o menor jerarquía jurídica que se opongan a lo establecido en el presente ordenamiento jurídico.
