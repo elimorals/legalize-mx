@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-el-funcionamiento-de-establecimientos-para-2175
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-07-13"
-last_updated: "2006-03-10"
+last_updated: "2013-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21754&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO PARA EL FUNCIONAMIENTO DE ESTABLECIMIENTOS PARA EVENTOS SOCIALES O FIESTAS EN EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 13 de julio de 2001.
 
@@ -59,9 +59,13 @@ La aplicación de las disposiciones contenidas en el presente Reglamento corresp
 
 I.- El Secretario del Ayuntamiento;
 
-II.- El Jefe del Departamento de Reglamentos de la Secretaría del Ayuntamiento;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2013)</small>
 
-III.- El Director de Desarrollo Urbano y Ecología, a través del Jefe del Departamento de Control Urbano;
+II.- El Jefe del Departamento de Supervisión y Permisos de la Secretaría del Ayuntamiento;
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2013)</small>
+
+III.- El Director de Administración Urbana, a través del Jefe del Departamento de Control Urbano.
 
 IV.- Los Delegados municipales, en sus respectivas delegaciones, en tanto no actúe directamente la Secretaría del Ayuntamiento; y
 
@@ -81,9 +85,13 @@ IV.- Reglamento: El Reglamento para el funcionamiento de establecimientos para e
 
 V.- Secretaría: La Secretaría del Ayuntamiento de Mexicali;
 
-VI.- Departamento: El Departamento de Reglamentos de la Secretaría del Ayuntamiento de Mexicali;
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2013)</small>
 
-VII.- Dirección: La Dirección de Desarrollo Urbano y Ecología del Ayuntamiento de Mexicali;
+VI.- Departamento: El Departamento de Supervisión y permisos de la Secretaría del Ayuntamiento de Mexicali;
+
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2013)</small>
+
+VII.- Dirección: La Dirección de Administración Urbana del Ayuntamiento de Mexicali.
 
 VIII.- Municipio: El Municipio de Mexicali, Baja California;
 
@@ -488,3 +496,9 @@ IV. La Secretaría y la Dirección informarán a las comisiones de Gobernación 
 P.O. 10 DE MARZO DE 2006.
 
 EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.
+
+P.O. 1 DE MARZO DE 2013.
+
+> <small>N. DE E. SE TRANSCRIBE EL PUNTO DEL ACUERDO QUE SE RELACIONA CON LA REFORMA DEL ORDENAMIENTO.</small>
+
+SEGUNDO.- EL PRESENTE ACUERDO ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA.
