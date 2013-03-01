@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-fiscalizacion-superior-del-estado-de-guanajuato-34577"
 country: "mx"
 rank: "ley"
 publication_date: "2003-11-11"
-last_updated: "2012-09-11"
+last_updated: "2013-03-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2013.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el 11 de noviembre de 2003.
 
@@ -825,17 +825,15 @@ Asimismo, contará con las coordinaciones, unidades y servidores públicos estri
 
 En caso de falta absoluta, renuncia o remoción del Auditor General, se procederá de conformidad con el artículo 56 de esta Ley. En tanto se hace la designación, el Director General de Planeación, Programación, Control y Seguimiento fungirá en calidad de encargado del despacho.
 
-> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Artículo 60 A.- El Auditor General sólo podrá ausentarse para la atención de una comisión oficial o por motivos personales.
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 2013)</small>
 
-Si la ausencia por motivos personales es superior a tres días hábiles deberá contar previamente con la autorización del Órgano de Gobierno.
+Artículo 60 A.- El Auditor General sólo podrá ausentarse de sus funciones por motivos personales que se encuentren justificados a juicio del Órgano de Gobierno.
 
-Cuando la ausencia sea para atender una comisión oficial deberá previamente dar aviso por escrito al Órgano de Gobierno, expresando el motivo de dicha comisión y le informará por escrito a su regreso el resultado de la misma. La omisión de dicho aviso por parte del Auditor General se considerará falta grave en términos de lo dispuesto por la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios.
+Si la ausencia por motivos personales es de tres o más días hábiles deberá contar previamente con la autorización del Órgano de Gobierno. La ausencia del Auditor General, sin contar con la autorización previa del Órgano de Gobierno, se considerará falta grave en términos de lo dispuesto por la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios. Si la ausencia se prolongara por más de quince días naturales, sin contar con autorización, se entenderá como abandono del cargo.
 
-Se entenderá por comisión oficial, la atención de los asuntos concernientes a las facultades del Órgano de Fiscalización Superior que requieran su traslado fuera de la capital del Estado; la asistencia a eventos académicos u oficiales nacionales o internacionales vinculados con la función de fiscalización o para la celebración de acuerdos o convenios con la Auditoría Superior de la Federación o las entidades de fiscalización de los estados.
-
-La ausencia del Auditor General por motivos personales por más de tres días hábiles, sin contar con la autorización previa del Órgano de Gobierno, se considerará falta grave en términos de lo dispuesto por la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios. Si la ausencia fuera mayor a quince días naturales, sin contar con la referida autorización se entenderá como abandono del cargo.
+El Auditor General, deberá previamente dar aviso por escrito al Órgano de Gobierno, para atender una comisión oficial fuera del estado de Guanajuato y cuyo cumplimiento requiera de tres o más días hábiles, expresando el motivo de dicha comisión. El Auditor General informará de su resultado por el mismo medio, cuando concluya aquélla. La omisión de dicho aviso por parte del Auditor General se considerará falta grave en términos de lo dispuesto por la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios.
 
 > <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1088,3 +1086,7 @@ Artículo Segundo. Los indicadores de resultados a que se refieren el inciso c) 
 Artículo Tercero. El Órgano de Fiscalización Superior practicará las auditorías sobre el desempeño a partir del año 2015.
 
 Artículo Cuarto. El término de siete años en el encargo del titular del Órgano de Fiscalización Superior del Congreso del Estado que señala el primer párrafo del artículo 55 de esta Ley será aplicable a partir de la designación de un nuevo titular del Órgano de Fiscalización Superior del Congreso del Estado, a la conclusión de la designación del actual titular, o en su caso, si es el supuesto de designar un nuevo titular, por cualquiera de las causas señaladas en la Constitución Política para el Estado de Guanajuato y en esta Ley.
+
+P.O. 1 DE MARZO DE 2013.
+
+Único. El presente decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
