@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-hacienda-de-los-municipios-del-estado-de-queretaro-64860
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-02"
-last_updated: "2012-12-18"
+last_updated: "2013-03-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64860&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el martes 2 de diciembre de 2008.
 
@@ -163,13 +163,37 @@ III. Predio rústico: el que se ubique fuera del límite de un centro de poblaci
 
 IV. Predio urbano edificado: el predio que contenga construcciones permanentes o en proceso, cuyo valor catastral de dichas construcciones represente por lo menos un diez por ciento del valor catastral del terreno. No se considerarán como construcción, para efectos de este artículo, las bardas perimetrales;
 
+IV. Predio urbano edificado: ...
+
+> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2013)</small>
+
+Para efectos de esta fracción, también se consideran predios urbanos edificados, independientemente de la superficie de construcción que tengan, los que se destinen y así se acredite, para los siguientes fines:
+
+a) Campos o instalaciones deportivas permanentes.
+
+b) Actividades agrícolas, pecuarias o piscícolas permanentes.
+
+c) Actividades industriales, comerciales o de prestación (sic) servicios permanentes, que cuenten con licencia de funcionamiento municipal vigente para esa actividad.
+
+d) Casa habitación permanente.
+
+e) Unidades sujetas a régimen de condominio;
+
 > <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2012)</small>
 
 V. Predio baldío: el predio urbano que carezca de construcciones o tenga únicamente bardas perimetrales, así como los predios que contengan construcciones cuyo valor catastral represente menos del diez por ciento del valor catastral del terreno, sin incluir bardas perimetrales;
 
-VI. Predio de fraccionamiento en proceso de ejecución: es el predio o fracción de él, constituido como fraccionamiento en los términos del Código Urbano del Estado de Querétaro, cuya autorización provisional de venta de lotes o la definitiva de fraccionamiento ha sido publicada en el Periódico Oficial del Gobierno del Estado “La Sombra de Arteaga” y que el propietario o copropietarios cuenten con el reconocimiento de causahabiencia. Esta clasificación se conserva hasta que se haga entrega de las obras de urbanización al Municipio correspondiente, en los términos del ordenamiento antes mencionado o se tenga más del sesenta por ciento de la superficie vendible enajenada; y
+VI. Predio de fraccionamiento en proceso de ejecución: es el predio o fracción de él, constituido como fraccionamiento en los términos del Código Urbano del Estado de Querétaro, cuya autorización provisional de venta de lotes o la definitiva de fraccionamiento ha sido publicada en el Periódico Oficial del Gobierno del Estado “La Sombra de Arteaga” y que el propietario o copropietarios cuenten con el reconocimiento de causahabiencia. Esta clasificación se conserva hasta que se haga entrega de las obras de urbanización al Municipio correspondiente, en los términos del ordenamiento antes mencionado o se tenga más del sesenta por ciento de la superficie vendible enajenada; y (sic)
 
-VII. Predio de reserva urbana: el que se encuentre fuera del límite de un centro de población y, de conformidad a las disposiciones en materia de desarrollo urbano, le corresponda un uso de suelo urbano o que la autoridad municipal competente le haya autorizado el uso de suelo urbano.
+> <small>(REFORMADA, P.O. 1 DE MARZO DE 2013)</small>
+
+VII. Predio de reserva urbana: el predio urbano que no cuente con frente a vialidades y sistemas de infraestructura urbana, que se encuentre fuera del límite de la mancha urbana y que, de conformidad a las disposiciones en materia de desarrollo urbano, le corresponda un uso de suelo urbano o que la autoridad municipal competente le haya autorizado el uso de suelo urbano.
+
+Se entiende por límite de la mancha urbana, el polígono que se forma por las áreas que en las localidades del Estado cuentan con algún sistema de infraestructura urbana o con vialidades urbanas, de acuerdo a la cartografía existente en la Dirección de Catastro o en la Dirección Municipal de Catastro que corresponda.
+
+> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2013)</small>
+
+VIII. Predio de producción agrícola con dominio pleno que provenga de ejido: la parcela de origen ejidal que cuente con dominio pleno, que permanezca en propiedad del ejidatario y que sea destinada permanentemente a la agricultura, independientemente de que cuente con infraestructura urbana.
 
 ###### Artículo 20.
 
@@ -401,7 +425,7 @@ que provenga de ejido Tarifa Única
 
 Los municipios acordarán cuál de las dos tarifas se aplicará para cada año, incorporándolo en su respectiva Iniciativa de Ley de Ingresos, debiendo estar dentro de los parámetros establecidos en la tabla anterior y ser aprobadas por el ayuntamiento correspondiente, expresando los criterios técnicos que utilizaron para la determinación de las mismas, debiendo anexar copia certificada del acta de cabildo a la Iniciativa de Ley de Ingresos respectiva para ser dictaminada por la Legislatura. De no anexar los criterios técnicos, la Legislatura del Estado aprobará en la Ley de Ingresos correspondiente la tarifa B establecida en el presente artículo.
 
-Se entiende por predio de producción agrícola, con dominio pleno que provenga de ejido, a aquél que se destine a la agricultura independientemente de que cuente con infraestructura urbana.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 1 DE MARZO DE 2013)</small>
 
 ###### Artículo 42.
 
@@ -2014,3 +2038,13 @@ P.O. 18 DE DICIEMBRE DE 2012.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas las disposiciones legales de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 1 DE MARZO DE 2013.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Los efectos de esta Ley serán retroactivos al primero de enero de dos mil trece, en todo lo que beneficie a la ciudadanía.
+
+Artículo Tercero. A partir del mes de mayo y concluyendo en el mes de octubre del año dos mil trece, la Comisión de Hacienda de la Quincuagésima Séptima Legislatura del Estado de Querétaro, realizará los estudios y análisis técnicos necesarios para los efectos precisados en el considerando 11 de la presente Ley; en ello se tomará en cuenta a los sectores político, económico y social del Estado, a efecto de implementar una reforma integral hacendaria municipal.
+
+Artículo Cuarto. Se derogan todas las disposiciones de igual o menor jerarquía a la presente Ley.
