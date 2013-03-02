@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-del-h-congreso-del-estado-libre-y-7786"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-08-28"
-last_updated: "2002-02-02"
+last_updated: "2013-03-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7786&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 REGLAMENTO INTERIOR DEL H. CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2002.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2013.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 28 de agosto de 1993.
 
@@ -383,9 +383,11 @@ En los dictámenes o informes que emitan las Comisiones Permanentes, sus integra
 
 Cuando de un mismo asunto deban de conocer más de una Comisión, lo harán en forma unida, emitiendo un sólo dictamen.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MARZO DE 2013)</small>
+
 ###### ARTICULO 63.
 
-Las Comisiones Permanentes que a continuación se señalan, tendrán las facultades y obligaciones siguientes:
+Las Comisiones Orgánicas que a continuación se señalan, tendrán las facultades y obligaciones siguientes:
 
 I. (DEROGADA, P.O. 2 DE FEBRERO DE 2002)
 
@@ -669,11 +671,25 @@ a) Conocerá de todos las asuntos referentes a las relaciones obrero-patronales,
 
 b) Promoverá el equilibrio entre los factores de la producción, de conformidad con las disposiciones legales vigentes.
 
-XIV. (DEROGADA, P.O. 2 DE FEBRERO DE 2002)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE MARZO DE 2013)</small>
 
-> <small>(REFORMADA [N. DE E. REPUBLICADO] PRIMER PÁRRAFO, P.O. 2 DE FEBRERO DE 2002)</small>
+XIV.- Recursos Hidráulicos:
 
-XV. Asuntos Agropecuarios, Recursos Hidráulicos, Forestales y Pesqueros:
+A) Conocer, analizar y dictaminar sobre los asuntos legislativos relacionados con los recursos hidráulicos del Estado de Tabasco;
+
+B) Solicitar en el ámbito de su competencia información, documentos o la comparecencia de los titulares de las Secretarías del Gobierno del Estado, Presidentes Municipales, Concejos Municipales, Directores y Administradores de los Organismos Descentralizados y Órganos Desconcentrados Estatales o de las Empresas de Participación Estatal Mayoritaria;
+
+C) Realizar reuniones de trabajo, con las Comisiones afines de los Congresos de los Estados de la República Mexicana, en especial con los Congresos de las Entidades Federativas que forman parte de la región sur-sureste de nuestro País, para tratar, analizar y atender temas de interés común relativos al recurso agua;
+
+D) En el ámbito de competencia estatal, establecer enlaces institucionales con las Comisiones correlativas de la Cámara de Diputados y de la Cámara de Senadores para tratar temas en materia hídrica que beneficien al Estado de Tabasco;
+
+E) Establecer reuniones de trabajo y una relación de comunicación con las Secretarias de Ordenamiento Territorial y Obras Públicas, y de Energía, Recursos Naturales y Protección Ambiental; así como la Comisión Estatal de Agua y Saneamiento, la Comisión Nacional del Agua, dependencias, organismos, descentralizados u órganos desconcentrados de carácter estatal y federal para tratar, analizar y atender temas relacionados con el recurso agua en el Estado; y
+
+F) Fomentar el establecimiento de una cultura del agua en la población de la Entidad, a través de la realización de campañas con el apoyo de cuadros técnicos, científicos y académicos que tengan que ver con el derecho de las personas a acceder a este recurso, el cuidado y protección del mismo, así como las medidas y acciones a realizar en caso de presentarse desastres relacionados con el agua.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MARZO DE 2013)</small>
+
+XV.- Asuntos Agropecuarios, Forestales y Pesqueros:
 
 a) Conocer de los programas, métodos y procedimientos técnicos, encaminados a obtener un mejor rendimiento en la agricultura, silvicultura, ganadería, avicultura, apicultura y pesca, a efecto de promover los créditos destinados al sector por las diversas instancias de Gobierno;
 
@@ -787,7 +803,7 @@ A T R I B U C I O N E S
 
 > <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2002)</small>
 
-a) Estudiar y dictaminar en relación al desarrollo sustentable, a la protección del ambiente, buscando siempre Ia preservación del equilibrio ecológico en lo que corresponde al ámbito estatal;
+a) Estudiar y dictaminar en relación al desarrollo sustentable, a la protección del ambiente, buscando siempre la preservación del equilibrio ecológico en lo que corresponde al ámbito estatal;
 
 > <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2002)</small>
 
@@ -1714,3 +1730,9 @@ P.O. 2 DE FEBRERO DE 2002.
 PRIMERO. El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+P.O. 2 DE MARZO DE 2013.
+
+###### ARTÍCULO ÚNICO
+
+El presente decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Gobierno del Estado.
