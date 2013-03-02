@@ -4,7 +4,7 @@ identifier: "COL-codigo-penal-para-el-estado-de-colima-4240"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-07-27"
-last_updated: "2012-09-22"
+last_updated: "2013-03-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4240&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CÓDIGO PENAL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2013.
 
 Código publicado en el Periódico Oficial del Estado de Colima, el sábado 27 de julio de 1985.
 
@@ -313,9 +313,9 @@ VII.- Prohibición de ir a una circunscripción territorial determinada o de res
 
 VIII.- Amonestación;
 
-> <small>(ADICIONADA, P.O. 9 DE JULIO DE 1994)</small>
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2013)</small>
 
-IX.- Trabajo en favor de la comunidad; y
+IX.- Trabajar a favor de la comunidad;
 
 X.- Sanciones aplicables a las personas morales:
 
@@ -323,9 +323,11 @@ a).- Prohibición de realizar determinadas operaciones;
 
 b).- Disolución;
 
-> <small>(F. DE E., P.O. 24 DE AGOSTO DE 1985)</small>
+c).- (DEROGADO, P.O. 2 DE MARZO DE 2013)
 
-c).- Las demás que este Código prevenga.
+> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2013)</small>
+
+XI.- Las demás que este Código prevenga.
 
 B).- MEDIDAS DE SEGURIDAD:
 
@@ -2655,21 +2657,9 @@ IX.- Que la autoridad realice o deje de hacer un acto de cualquier índole.
 
 Si el agente espontáneamente pone en libertad a la víctima dentro de los dos días siguientes a la comisión del delito, podrá disminuirse la pena hasta la mitad.
 
-### CAPÍTULO IV. DESAPARICIÓN FORZADA DE PERSONAS
+### CAPITULO III.
 
-> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2011)</small>
-
-ARTICULO 202 BIS.- Al servidor público del Estado de Colima o sus Municipios que con motivo de sus atribuciones, detenga y mantenga oculta a una o varias personas, o bien autorice, apoye o consienta que otros lo hagan sin reconocer la existencia de tal privación o niegue información sobre su paradero, impidiendo con ello el ejercicio de los recursos legales y las garantías procesales procedentes, se le impondrá de quince a cuarenta años de prisión, y de trescientos a mil unidades de multa, e inhabilitación para el desempeño de cualquier cargo, empleo o comisión público hasta por quince años.
-
-Al particular que por orden, autorización o con el apoyo de un servidor público participe en los actos descritos en el párrafo anterior, se le impondrán de ocho a quince años de prisión y de 150 a 500 unidades de multa.
-
-La oposición, negativa o desacato hacia la autoridad competente luego de haber sido requerido por ésta para tener libre e inmediato acceso al lugar donde haya motivos para creer que se pueda encontrar a una persona desaparecida, por parte del servidor público responsable del mismo, será sancionada con la inhabilitación de su cargo, comisión o empleo públicos, sin perjuicio de la aplicación de las penas por los demás delitos en que pudiera incurrir con motivo de su conducta.
-
-Las sanciones previstas en los párrafos precedentes se disminuirán en una tercera parte, cuando el sujeto activo suministre información que permita esclarecer los hechos y, en una mitad, cuando contribuya a lograr la aparición con vida de la víctima o víctimas.
-
-> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2011)</small>
-
-ARTICULO 202 BIS 1.- Se equipara al delito de desaparición forzada de personas, la ocultación de familiares de víctimas de este delito o nacidos de una madre víctima de desaparición forzada, durante el cautiverio.
+RAPTO.
 
 ###### ARTICULO 199.
 
@@ -2753,11 +2743,21 @@ Si espontáneamente se pone en libertad a la persona antes de veinticuatro horas
 
 ARTICULO 199 BIS.- Comete el delito de secuestro exprés la persona que, para ejecutar los delitos de robo o extorsión, prive de la libertad a otra. La pena será de ocho a dieciséis años de prisión y multa de hasta 300 unidades. Lo anterior, con independencia de las demás sanciones que conforme a este Código le correspondan por otros delitos que de su conducta resulten.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE OCTUBRE DE 2011)</small>
+### CAPÍTULO IV. DESAPARICIÓN FORZADA DE PERSONAS
 
-### CAPITULO III.
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2011)</small>
 
-RAPTO.
+ARTICULO 202 BIS.- Al servidor público del Estado de Colima o sus Municipios que con motivo de sus atribuciones, detenga y mantenga oculta a una o varias personas, o bien autorice, apoye o consienta que otros lo hagan sin reconocer la existencia de tal privación o niegue información sobre su paradero, impidiendo con ello el ejercicio de los recursos legales y las garantías procesales procedentes, se le impondrá de quince a cuarenta años de prisión, y de trescientos a mil unidades de multa, e inhabilitación para el desempeño de cualquier cargo, empleo o comisión público hasta por quince años.
+
+Al particular que por orden, autorización o con el apoyo de un servidor público participe en los actos descritos en el párrafo anterior, se le impondrán de ocho a quince años de prisión y de 150 a 500 unidades de multa.
+
+La oposición, negativa o desacato hacia la autoridad competente luego de haber sido requerido por ésta para tener libre e inmediato acceso al lugar donde haya motivos para creer que se pueda encontrar a una persona desaparecida, por parte del servidor público responsable del mismo, será sancionada con la inhabilitación de su cargo, comisión o empleo públicos, sin perjuicio de la aplicación de las penas por los demás delitos en que pudiera incurrir con motivo de su conducta.
+
+Las sanciones previstas en los párrafos precedentes se disminuirán en una tercera parte, cuando el sujeto activo suministre información que permita esclarecer los hechos y, en una mitad, cuando contribuya a lograr la aparición con vida de la víctima o víctimas.
+
+> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2011)</small>
+
+ARTICULO 202 BIS 1.- Se equipara al delito de desaparición forzada de personas, la ocultación de familiares de víctimas de este delito o nacidos de una madre víctima de desaparición forzada, durante el cautiverio.
 
 ###### ARTICULO 200.
 
@@ -2782,6 +2782,8 @@ Por el sólo hecho de no haber cumplido dieciocho años de edad, la persona que 
 ###### ARTICULO 202.
 
 Este delito sólo se perseguirá por querella necesaria.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE OCTUBRE DE 2011)</small>
 
 ### CAPITULO I.
 
@@ -4090,5 +4092,9 @@ P.O. 8 DE SEPTIEMBRE DE 2012.
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 P.O. 22 DE SEPTIEMBRE DE 2012.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 2 DE MARZO DE 2013.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
