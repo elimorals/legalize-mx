@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-del-poder-legislativo-del-estado-de-tabasco-7828"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-01-02"
-last_updated: "2006-09-13"
+last_updated: "2013-03-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7828&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAB"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE TABASCO
 
-LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE TABASCO
+LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE SEPTIEMBRE DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2013.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Tabasco, el sábado 2 de enero de 1993.
 
@@ -85,7 +85,7 @@ El Congreso del Estado elaborará, aprobará y ejercerá su presupuesto anual de
 
 El Congreso del Estado tendrá las facultades y atribuciones que le señale la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, esta Ley y disposiciones legales que de ellas emanen.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE MARZO DE 1998)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE MARZO DE 1998)</small>
 
 ### CAPITULO II. DE LA JUNTA PREPARATORIA
 
@@ -133,7 +133,7 @@ Acto seguido, el Presidente de la Mesa Directiva electa hará la declaración de
 
 El mismo procedimiento se seguirá en caso de constituirse en junta previa.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE MARZO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 1998)</small>
 
 ###### ARTICULO 17.
 
@@ -317,7 +317,7 @@ A la apertura y clausura de los períodos ordinarios de sesiones, se invitarán 
 
 En los períodos ordinarios de sesiones, el Congreso se ocupará preferentemente de expedir, reformar, adicionar, derogar y abrogar leyes y decretos para la mejor administración del Estado, así como revisar y calificar la cuenta pública.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE MARZO DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MARZO DE 1995)</small>
 
 ###### ARTICULO 39.
 
@@ -405,7 +405,7 @@ El Coordinador de la Fracción Parlamentaria Mayoritaria podrá convocar a los d
 
 Las Fracciones Parlamentarias dispondrán de local adecuado o de oficinas para sus Diputados en las instalaciones del Congreso, así como de los elementos materiales necesarios para el cumplimiento de sus funciones, de acuerdo a las posibilidades presupuestales de la Legislatura.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 26 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE FEBRERO DE 2005)</small>
 
 ### CAPITULO IX. DE LA JUNTA DE COORDINACION POLITICA
 
@@ -563,11 +563,11 @@ La Legislatura podrá remover temporal o definitivamente a los integrantes de la
 
 Los Diputados además de formar parte de las Comisiones para las que fueren designados, podrán participar en las demás, salvo que exista causa justificada para no admitirlos a juicio de la Asamblea.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MARZO DE 2013)</small>
 
 ###### ARTICULO 65.
 
-la Junta de Coordinación Política propondrá, por lo menos, las siguientes comisiones permanentes:
+la Junta de Coordinación Política propondrá, por lo menos las siguientes comisiones permanentes:
 
 I. (DEROGADA, P.O. 26 DE ENERO DE 2002)
 
@@ -609,9 +609,13 @@ XII. Desarrollo Urbano, Vivienda y Obras Públicas;
 
 XIII. Trabajo y Previsión Social;
 
-XIV. (DEROGADA, P.O. 26 DE ENERO DE 2002)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE MARZO DE 2013)</small>
 
-XV. Asuntos Agropecuarios, Recursos Hidráulicos, Forestales y Pesqueros;
+XIV. Recursos Hidráulicos
+
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2013)</small>
+
+XV. Asuntos Agropecuarios, Forestales y Pesqueros;
 
 XVI. Derechos Humanos;
 
@@ -1073,7 +1077,7 @@ Para su integración, funcionamiento y competencia, estas dependencias se regir�
 
 (DEROGADO, P.O. 4 DE MARZO DE 1998)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE MARZO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 1998)</small>
 
 ###### ARTICULO 134.
 
@@ -1149,7 +1153,7 @@ LIC. ENRIQUE PRIEGO OROPEZA.
 
 SECRETARIO DE GOBIERNO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 30 DE NOVIEMBRE DE 1994.
 
@@ -1157,7 +1161,7 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 
 P.O. 8 DE MARZO DE 1995.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO SEXTO DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE TABASCO.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO SEXTO DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE TABASCO.
 
 P.O. 25 DE MARZO DE 1995.
 
@@ -1165,11 +1169,11 @@ UNICO.- El presente Decreto surtirá sus efectos legales a partir de su publicac
 
 P.O. 5 DE ABRIL DE 1995.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO SEXTO DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE TABASCO.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO SEXTO DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE TABASCO.
 
 P.O. 22 DE ABRIL DE 1995.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO SEXTO DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE TABASCO.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO SEXTO DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE TABASCO.
 
 P.O. 19 DE OCTUBRE DE 1996.
 
@@ -1254,3 +1258,9 @@ P.O. 13 DE SEPTIEMBRE DE 2006.
 PRIMERO.- El presente Decreto entrará en vigor desde el momento de su aprobación, debiéndose publicar en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+P.O. 2 DE MARZO DE 2013.
+
+###### ARTÍCULO ÚNICO
+
+El presente decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Gobierno del Estado.
