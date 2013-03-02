@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-derechos-del-estado-de-oaxaca-84808"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-24"
-last_updated: "2013-02-27"
+last_updated: "2013-03-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84808&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE DERECHOS DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2012.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 27 DE FEBRERO DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2013.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 24 de diciembre de 2011.
 
@@ -3081,13 +3079,15 @@ carga tipo general de alto tonelaje y
 
 especializada: 198.00
 
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2013)</small>
+
 XIII Por la expedición de títulos de concesión
 
 de cualquier modalidad y tipo de unidad, por
 
-cesión de derechos entre particulares, causa
+cesión de derechos entre particulares,
 
-hereditaria e invalidez: 100.00
+por causa hereditaria o invalidez: 40.00
 
 XIV Por la expedición de permisos para
 
@@ -4207,13 +4207,11 @@ IV Autorización de cambio de propietario de centro de
 
 verificación de vehículos: 550.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MARZO DE 2013)</small>
 
 ###### Artículo 54.
 
-Los concesionarios del servicio de verificación de vehículos, causarán y pagarán derechos por los conceptos y cuotas siguientes:
+Las personas físicas y morales causarán y pagarán derechos por la verificación de emisiones a la atmosfera, conforme a las siguientes cuotas:
 
 Número de salarios
 
@@ -4285,9 +4283,7 @@ Procederá la ministración de los montos recaudados en esta sección siempre qu
 
 #### Sección Segunda. De las Constancias
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MARZO DE 2013)</small>
 
 ###### Artículo 57.
 
@@ -4483,23 +4479,39 @@ II Pago de Inscripción a cursos semestrales: 11.55
 
 ###### Artículo 67.
 
-Las personas físicas o morales que soliciten servicios a cargo de la Secretaría, causarán y pagarán derechos conforme lo siguiente:
+Las personas físicas, morales o unidades económicas que soliciten servicios a cargo de la Secretaría de Finanzas, causarán y pagarán derechos conforme a los conceptos y cuotas siguientes:
 
 Número de salarios
 
 mínimos
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
 I Por la expedición de constancias de no
 
 adeudo fiscal: 1.50
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO++ TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
 II Por certificación de pago de contribuciones
 
 o, por declaración fiscal: 1.00
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
 III Por búsqueda de documentos en los
 
 archivos de la Secretaría: 0.50
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
 IV Cancelación por recibo único de pago
 
@@ -4515,9 +4527,15 @@ ajenas a la voluntad de quien efectúa el
 
 cobro del servicio.
 
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2013)</small>
+
 V Por la expedición de constancias de no
 
-adeudo patrimonial y financiero: 3.00
+adeudo financiero: 1.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
 VI Por la expedición de copias certificadas
 
@@ -4525,9 +4543,17 @@ de documentos, por hoja tamaño carta u
 
 oficio: 0.18
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
 VII Por la expedición de copias simples de
 
 documentos, por hoja tamaño carta u oficio: 0.02
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
 VIII Expedición de permiso para la
 
@@ -4541,6 +4567,10 @@ de contratos de mutuo con interés y
 
 garantía prendaria: 275.00
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
 IX Revalidación de permiso para la
 
 apertura, instalación y funcionamiento
@@ -4552,6 +4582,10 @@ actividad ofertar al público la celebración
 de contratos de mutuo con interés
 
 y garantía prendaria: 165.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
 X Por el estudio y análisis de la
 
@@ -4571,6 +4605,10 @@ con interés y garantía prendaria: 15.00
 
 Pesos
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
 XI Por cada día de almacenaje de
 
 mercancías en depósito en recintos
@@ -4583,7 +4621,15 @@ b) Bienes muebles distintos del inciso a): $5.00
 
 Los contenedores vacíos se considerarán mercancías.
 
-Para efectos de la fracción X, cuando se trate de objetos cuyas dimensiones sean por fracción de la medida establecida, se cobrará en proporción al espacio que se ocupe.
+> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2013)</small>
+
+XII Por la expedición de constancias
+
+a que alude la Ley de Deuda Pública: 5.00
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2013)</small>
+
+Para efectos de la fracción XI, cuando se trate de objetos cuyas dimensiones sean por fracción de la medida establecida, se cobrará en proporción al espacio que ocupe.
 
 #### Sección Segunda. Por el suministro de agua potable
 
@@ -5282,6 +5328,12 @@ VI Por la expedición de permisos para
 El establecimiento de comercio informal
 
 por mes: 2.00
+
+> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2013)</small>
+
+VII Por la expedición de constancias de no
+
+adeudo patrimonial: 1.00
 
 ###### Artículo 79.
 
@@ -7790,3 +7842,7 @@ PRIMERO: El presente Decreto entrará en vigor a partir del día uno de enero de
 SEGUNDO: Se deroga el Artículo quinto transitorio del decreto número 92 por el que se expidió la Ley de Agua Potable y Alcantarillado del Estado de Oaxaca publicado en el Periódico Oficial del Estado, en la sección número 7 del día 13 de febrero de 1993, y las demás disposiciones que señalen cuotas o tarifas en materia de agua potable y saneamiento.
 
 TERCERO: El Ejecutivo Estatal a través de la Dirección del Registro Público de la Propiedad y del Comercio deberá establecer un programa de capacitación y lineamientos para la aplicación de los conceptos y cuotas relacionadas con los servicios públicos que presta, a fin de definir criterios uniformes en todos y cada uno de los servidores públicos que laboran en dicha dependencia y con esto garantizar los principios de certeza jurídica a favor de los oaxaqueños.
+
+P.O. 2 DE MARZO DE 2013.
+
+ÚNICO: El presente Decreto entrará en vigor a partir del día de su publicación, en el Periódico Oficial del Gobierno del Estado.
