@@ -4,7 +4,7 @@ identifier: "MOR-ley-estatal-de-responsabilidades-de-los-servidores-publicos-573
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-24"
-last_updated: "2012-05-16"
+last_updated: "2013-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57337&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ESTATAL DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 24 de octubre de 2007.
 
@@ -307,15 +307,19 @@ El Consejero Jurídico del Poder Ejecutivo, el Oficial Mayor del Poder Ejecutivo
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
+
 ###### ARTÍCULO 26.
 
-La responsabilidad administrativa de los servidores públicos tendrá lugar con motivo de las faltas cometidas en el desempeño de sus funciones lo que podrá ser concomitante con las demás responsabilidades previstas en esta Ley así como en la legislación común.
+Los Servidores Públicos en el desempeño de sus funciones, deberán cumplir con sus obligaciones bajo los principios de legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño del empleo, cargo o comisión.
+
+La responsabilidad administrativa de los Servidores Públicos, tendrá lugar con motivo de las faltas cometidas en el desempeño de sus funciones, lo que podrá ser concomitante con las demás responsabilidades previstas en esta Ley así como en la legislación común.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. Y REUBICADO, ANTES SEGUNDO PÁRRAFO], P.O. 4 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 27.
 
-Son obligaciones de los servidores públicos salvaguardar legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño del empleo, cargo o comisión.
-
-Dará origen a responsabilidades administrativas el incumplimiento de los siguientes deberes:
+Dará origen a responsabilidades administrativas el incumplimiento de las siguientes obligaciones:
 
 I. Cumplir con diligencia el servicio que tenga encomendado y abstenerse de cualquier acto u omisión que cause la suspensión o deficiencia de dicho servicio o implique el ejercicio indebido de un empleo, cargo o comisión;
 
@@ -342,6 +346,14 @@ XI. Presentar ante la autoridad competente, con oportunidad y veracidad la decla
 XII. Abstenerse, durante el ejercicio de sus funciones de solicitar, aceptar o recibir por sí o por interpósita persona, dinero u objetos, mediante enajenación a su favor, o en precio notoriamente inferior a aquel al que el bien de que se trate tenga en el mercado ordinario, o cualquier donación, empleo, cargo o comisión para sí, o para las personas a que se refiere la fracción IX, y que procedan de cualquier persona física o moral cuyas actividades profesionales, comerciales o industriales se encuentren directamente vinculadas, reguladas o supervisadas por el Servidor Público de que se trate en el desempeño de su empleo, cargo o comisión y que implique intereses en conflicto. Esta prevención es aplicable hasta un año después de que se haya retirado del empleo, cargo o comisión;
 
 XIII. Atender con diligencia las instrucciones, requerimientos o resoluciones que reciba de otras autoridades o de los titulares de las áreas de auditoría;
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2013)</small>
+
+XIII-A.- Responder las recomendaciones que le presente el Organismo Protector de los Derechos Humanos, y en el supuesto de que decida no aceptar o no cumplir las recomendaciones, deberá hacer pública su negativa, fundándola y motivándola en términos de lo dispuesto por la Constitución Federal, la Constitución Local y la Ley de Comisión de Derechos Humanos.
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2013)</small>
+
+XIII-B.- Atender los llamados que a solicitud del Organismo de Protección de los Derechos Humanos, realice el Pleno del Congreso, o en sus recesos de la Diputación Permanente, a comparecer ante dichos Órganos Legislativos, a efecto de que expliquen el motivo de su negativa a aceptar o cumplir las recomendaciones del Organismo Protector de los Derechos Humanos, en términos de lo dispuesto por la Constitución Federal, la Constitución Local y la Ley de la Comisión de Derechos Humanos del Estado de Morelos.
 
 XIV. Denunciar por escrito ante la autoridad sancionadora, los actos u omisiones que en ejercicio de sus funciones cometa algún servidor público, que pueda constituir responsabilidad política, administrativa o de cualquier otra naturaleza, en los términos de esta Ley y otros ordenamientos aplicables;
 
@@ -972,3 +984,17 @@ Primero.- Aprobado que sea el presente Decreto, túrnese al Titular del Poder Ej
 Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
 
 Tercero.- Los procedimientos de responsabilidad administrativa que se encuentren en trámite, así como las causas que los originaron, deberán ajustarse por lo que convenga a los servidores públicos implícitos a las nuevas reglas de la prescripción previstas por la legislación vigente hasta su conclusión definitiva.
+
+P.O. 4 DE MARZO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indica el artículo 44 y la fracción XVII, del artículo 70, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+Este Decreto iniciará su vigencia el día siguiente de la fecha de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
