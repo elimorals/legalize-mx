@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2013-02-18"
+last_updated: "2013-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2013.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -3903,7 +3903,7 @@ Cuando por necesidades del servicio se requiera que un vehículo automotor cambi
 
 Para la expedición de permisos de circulación fuera del territorio del Municipio, las áreas solicitantes deberán sujetarse al siguiente procedimiento:
 
-l. Solicitar por escrito con 48 horas de anticipación ante Control Patrimonial el permiso para circular con los siguientes datos:
+I. Solicitar por escrito con 48 horas de anticipación ante Control Patrimonial el permiso para circular con los siguientes datos:
 
 a. Descripción del vehículo.
 
@@ -12659,7 +12659,7 @@ El proyecto constará básicamente de dos documentos: la memoria de cálculo y l
 
 la Memoria de Cálculo deberá cubrir, con el suficiente grado de detalle como para poder ser revisada (sic) evaluada por un profesionista ajeno al proyecto, los siguientes aspectos:
 
-l. Descripción general del proyecto y del tipo de estructura a utilizarse;
+I. Descripción general del proyecto y del tipo de estructura a utilizarse;
 
 II. Resistencia y calidad de los materiales estructurales a utilizarse;
 
@@ -16717,7 +16717,9 @@ En el caso de reincidencia de los fabricantes de anuncios, arrendatarios o rotul
 
 La Coordinación General de Verificación Única Administrativa ejercerá la facultad de verificación en materia de anuncios, observando en todo momento las disposiciones que en esta materia disponga el Código Municipal y la demás legislación aplicable.
 
-### CAPÍTULO I. De los Requisitos para Obtener Licencias para la venta de bebidas alcohólicas, sustancias o medicamentos de efectos psicotrópicos o enervantes
+### CAPÍTULO I. Disposiciones Generales
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 1289.
 
@@ -16739,279 +16741,1215 @@ El desahogo del procedimiento referido en este capítulo, no excederá de quince
 
 # LIBRO SÉPTIMO. DE LAS ACTIVIDADES COMERCIALES, INDUSTRIALES Y DE PRESTACIÓN DE SERVICIOS
 
-## TÍTULO PRIMERO. DE LA NORMATIVIDAD DE LAS LICENCIAS REGLAMENTADAS Y ESPECIALES
+> <small>N. DE E. DE CONFORMIDAD CON LAS REFORMAS Y ADICIONES APROBADAS POR EL AYUNTAMIENTO DE AGUASCALIENTES, PUBLICADAS EN EL P.O. DE 4 DE MARZO DE 2013, SE MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE TÍTULO.</small>
 
-### CAPÍTULO II. De la Venta y Consumo de Bebidas Alcohólicas
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE MARZO DE 2013)</small>
+
+## TÍTULO PRIMERO. DE LA NORMATIVIDAD DE LAS LICENCIAS REGLAMENTADAS, ESPECIALES Y PERMISOS
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE MARZO DE 2013)</small>
+
+### CAPÍTULO II. De las Autoridades
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 1293.
 
-Cualquier interesado en obtener una licencia para un establecimiento, que se dedique a la venta de bebidas alcohólicas, sustancias o medicamentos de efectos psicotrópicos o enervantes, deberá presentar ante la Dirección General de Gobierno, solicitud escrita, la que deberá contener lo siguiente:
+Las disposiciones del presente Título, tienen por objeto normar y regular la venta y/o consumo de las bebidas alcohólicas en sus diferentes tipos y modalidades, así como de las actividades de todos los lugares o establecimientos mercantiles donde se vendan, expendan o consuman bebidas alcohólicas en el Municipio de Aguascalientes.
 
-I. Nombre y fotografía reciente del solicitante, y domicilio para notificaciones.
+El H. Ayuntamiento, asimismo regulará los espectáculos públicos, deportivos, musicales y cualquier otra actividad relacionada con entretenimientos o eventos públicos, que sean de interés general o de orden público.
 
-II. Tratándose de personas morales, el documento notarial que acredite su existencia y la representación legal del solicitante.
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2013)</small>
 
-III. Constancia o comprobante de domicilio del solicitante, en esta ciudad.
+ARTÍCULO 1293 BIS.- Para los efectos del presente Título se entenderá por:
 
-IV. Ubicación exacta del lugar en donde pretende establecer el negocio de que se trate, acompañando la escritura que lo acredite como propietario, o el documento que le otorgue la posesión derivada sobre dicho inmueble.
+I. Alternancia.- Conductas que realizan las personas subordinadas a la persona titular de la licencia o que laboran en los establecimientos mercantiles o lugares dedicados a la venta y consumo de bebidas alcohólicas; tales como: bailar, compartir mesa o bebidas con la clientela, entre otras;
 
-V. Mencionar el giro específico, respecto del cual solicita la licencia.
+II. Aforo.- Es el número de personas que pueden ingresar y permanecer en un establecimiento mercantil o lugar. La autoridad municipal competente, establecerá los procedimientos o formas para determinar el número o capacidad máxima de personas, según las dimensiones y estructuras de los inmuebles, para garantizar una segura estancia de quienes asistan al lugar o evento;
 
-> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2011)</small>
+III. Aseguramiento.- Medida provisional de seguridad, adoptada por la autoridad municipal para conservar y poner bajo su resguardo temporalmente bienes objeto de un procedimiento de verificación, derivado de la contravención al Libro Séptimo del Código Municipal de Aguascalientes y demás ordenamientos jurídicos aplicables a la materia;
 
-VI. Acompañar constancia expedida por la Secretaría de Medio Ambiente y Desarrollo Sustentable, en la que señale que no se afecta el equilibrio ecológico o el medio ambiente con la operación del negocio.
+IV. Autorización.- Acto administrativo por medio del cual el Municipio, permite y confiere a una persona física o moral, el derecho para ejercer alguna actividad de competencia municipal, en relación con la explotación de un giro donde se vendan y/o consuman bebidas alcohólicas, con las condiciones o modalidades que para ese efecto se establezca y que requiere licencia y/o permiso para su funcionamiento;
 
-VII. Acompañar constancia de alineamiento y compatibilidad de uso del suelo expedidos por la Secretaría de Desarrollo Urbano, y en su caso proyecto de cambio de uso del suelo. La carencia de cualquiera de los requisitos que señala el presente artículo, dará lugar a que no se de trámite y se rechace la solicitud de que se trate.
+V. Ayuntamiento.- Al Honorable Ayuntamiento del Municipio de Aguascalientes;
+
+VI. Barra Libre u Hora Feliz.- Venta u ofrecimiento ilimitado o por tiempo determinado de bebidas alcohólicas, que se ofrecen en un lugar o establecimiento en forma gratuita o mediante el cobro de una determinada cantidad de dinero;
+
+VII. Bebida Adulterada.- Bebida alcohólica cuya naturaleza o composición no corresponda a aquellas con que se etiquete, anuncie, expenda, suministre o cuando no coincida con las especificaciones de su autorización o haya sufrido manipulación que disimule su alteración, se oculten defectos en su proceso de elaboración o en la calidad sanitaria;
+
+VIII. Bebida Alcohólica.- Los líquidos potables que a la temperatura de 15°C tengan una graduación alcohólica igual o mayor de 2°G.L., y que se puedan consumir e ingerir por el ser humano;
+
+IX. Bebida Alterada.- Bebida alcohólica cuyo contenido o materia prima que por la acción de cualquier causa, haya sufrido modificaciones en su composición intrínseca que reduzcan su poder nutritivo o terapéutico, lo conviertan en nocivo para la salud o modifiquen sus características, siempre que éstas tengan repercusión en la calidad sanitaria de los mismos;
+
+X. Bebida Contaminada.- Bebida alcohólica cuyo contenido o materia prima contenga microorganismos, hormonas, bacteriostáticos, plaguicidas, partículas radioactivas, materia extraña, así como cualquier otra sustancia en cantidades que rebasen los límites permisibles por la Secretaría de Salud del Estado;
+
+XI. Bebida Energizante.- Bebida embotellada que contiene taurina, cafeína, glucoronolactona o sustancias similares, que se utilizan para la preparación de bebidas alcohólicas, entre otras;
+
+XII. Bebida Preparada.- Bebida alcohólica que se compone de la mezcla de una o varias bebidas alcohólicas ya sea entre sí o combinadas con bebidas no alcohólicas como agua, jugos, refrescos u otras;
+
+XIII. Botana.- Frituras, platos con frutas, plato con pequeñas cantidades de comida para la clientela, frutos secos o similares en cualquier presentación, aunque éstos sean preparados dentro del mismo establecimiento;
+
+XIV. Comisión.- La Comisión permanente de Control Reglamentario y Espectáculos;
+
+XV. Clausura Temporal.- Sanción impuesta por la Autoridad Municipal competente, por un determinado tiempo en términos de los ordenamientos jurídicos aplicables;
+
+XVI. Clausura Definitiva.- Sanción final impuesta por la Autoridad Municipal competente, en términos de los ordenamientos jurídicos aplicables, que ya no permitirá la apertura del establecimiento o lugar;
+
+XVII. Degustación.- Expender de forma gratuita bebidas alcohólicas, con la finalidad de promocionarlas en cantidades mínimas y por una sola ocasión de manera individual a la persona en lugares públicos;
+
+XVIII. Enseres en Vía pública.- Aquellos objetos necesarios para la prestación del servicio de los establecimientos mercantiles, como sombrillas, mesas, sillas o cualquier instalación desmontable que estén colocados en la vía pública, mismos que deben contar con la autorización de la autoridad municipal competente para su colocación;
+
+XIX. Establecimiento Mercantil.- Local comercial donde habitualmente se venden y/o consumen bebidas alcohólicas al público, en sus diferentes modalidades o tipos, ya sea como actividad principal, accesoria o complementaria de otros servicios;
+
+XX. Expender.- Acto por el cual se despachan o entregan bebidas alcohólicas ya sea de manera onerosa o gratuita en un establecimiento mercantil o lugar;
+
+XXI. Giro.- Denominación que adopta un establecimiento mercantil o lugar donde se comercializa con o sin alimentos y/o con venta y/o consumo de bebidas alcohólicas de cualquier tipo o modalidad y que debe contar con licencia o permiso especial que se otorgue para tal efecto, conforme a las disposiciones del presente Código;
+
+XXII. Giro Complementario.- Actividad o actividades compatibles al giro principal, que se desarrollen en un establecimiento mercantil, el cual requerirá autorización correspondiente para el funcionamiento integral;
+
+XXIII. G.L.- Grados Gay Lussac;
+
+XXIV. Horario.- Tiempo establecido y autorizado por la autoridad municipal, para el funcionamiento de los establecimientos mercantiles o lugares; para los efectos e interpretación del presente Libro, se atenderá al formato universal de veinticuatro horas, iniciando el día a las 00:00 horas y concluyendo a las 23:59:59 horas;
+
+XXV. Infracción.- Sanción aplicable por la contravención a las disposiciones jurídicas plasmadas en el presente Título y demás ordenamientos jurídicos aplicables a la materia;
+
+XXVI. Ley.- Ley que Regula la Venta y Consumo de Bebidas Alcohólicas para el Estado de Aguascalientes;
+
+XXVII. Ley Seca.- Prohibición de expender y/o permitir el consumo de bebidas alcohólicas de cualquier tipo o modalidad en los establecimientos mercantiles y/o lugares que regula el presente Código, cuando así lo determine (sic) las disposiciones jurídicas aplicables o la autoridad competente;
+
+XXVIII. Legislación de Salud.- Ordenamientos jurídicos aplicables y demás disposiciones administrativas de carácter general en materia de salud;
+
+XXIX. Licencia.- Autorización por escrito que expide el Municipio de Aguascalientes, para que un establecimiento o lugar, en el que se vende y/o consumen bebidas alcohólicas, pueda funcionar en los términos del presente Código;
+
+XXX. Libre Acceso a la Autoridad.- Total libertad de ingreso a la autoridad municipal competente a todo el establecimiento mercantil, sin que para ello medie interrupción, demora o restricción de paso, previa identificación de los servidores públicos municipales;
+
+XXXI. Mayoría de Edad.- Las personas que tengan dieciocho años de edad o más y que puedan acreditarlo con identificación oficial vigente con fotografía;
+
+XXXII. Municipio.- Al Municipio de Aguascalientes;
+
+XXXIII. Perímetro Ferial.- Área Urbana en la cual se ubican las diversas instalaciones de la "Feria Nacional de San Marcos", por determinado tiempo, previamente autorizado por el H. Ayuntamiento de Aguascalientes;
+
+XXXIV. Permiso.- Acto Administrativo por el cual el Municipio, autoriza la actividad del giro para el funcionamiento de un establecimiento mercantil o lugar, con la vigencia que éste le señale, el cual se expedirá a través de la Dirección de Reglamentación;
+
+XXXV. Reincidencia.- Comisión de una conducta de manera reiterada violando las disposiciones del presente Código dos o más veces, dentro de un periodo de seis meses, contados a partir de la fecha en que se le hubiera notificado la sanción inmediata anterior;
+
+XXXVI. Reglamento.- Reglamento de Verificación Única Administrativa del Municipio de Aguascalientes;
+
+XXXVII. Titular de Licencia y/o Permiso.- Persona física o moral a quien se le haya expedido a su nombre una licencia o permiso para ejercer cualquier actividad de las establecidas en el Libro Séptimo del presente Código; y
+
+XXXVIII. Zona de Tolerancia.- Área urbana delimitada, donde se ejerce la prostitución.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2013)</small>
+
+ARTÍCULO 1293 TER.- La autoridad municipal en uso de sus facultades y atribuciones, deberá garantizar y vigilar la tranquilidad, seguridad y bienestar de las personas, cuidando que no se altere el orden público o las buenas costumbres, anteponiendo cualquier interés particular que se oponga al bienestar colectivo, para una sana convivencia y un desarrollo armónico.
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 1294.
 
-Recibida la solicitud, la Dirección General de Gobierno, solicitará dentro de los tres días siguientes a las dependencias municipales competentes, que rindan dictámenes técnicos que deberán contener:
+Queda estrictamente prohibido vender y/o permitir el consumo de bebidas alcohólicas a personas menores de edad.
 
-I. Que el inmueble en el que se pretende establecer el giro correspondiente, reúna las características que establece la reglamentación municipal en materia constructiva.
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2013)</small>
 
-II. Que el inmueble cumpla con los requisitos de seguridad, salubridad, comodidad e higiene.
+ARTÍCULO 1294 BIS.- Sólo podrá realizarse, la venta y/o consumo y/o promoción de bebidas alcohólicas, en los establecimientos o lugares que señale el presente Código, previa autorización de la autoridad municipal correspondiente mediante la licencia o permiso respectivo.
 
-III. Que su ubicación no afecte la vialidad en el perímetro circundante al lugar del establecimiento.
-
-IV. Que no exista institución educativa o centro deportivo, en un radio de acción de ciento cincuenta metros. Las distancias referidas se establecerán tomando en cuenta el acceso principal de los lugares en cuestión.
-
-En las comunidades rurales la distancia requerida se reducirá a solamente cincuenta metros.
-
-V. Que cuente con las instalaciones de acústica, que evite ruidos o sonidos excesivos, que causen molestias a los vecinos.
-
-Las dependencias a quienes se solicite los dictámenes deberán rendirlo dentro del término de diez días contados a partir de la fecha en que reciban la solicitud, si no es entregado en tal plazo se deberá entender que se cumplen los requisitos respecto de la materia del peritaje o dictamen.
-
-El Cabildo mediante declaratoria que se publique en el Periódico Oficial del Estado puede decretar el establecimiento de zonas comerciales, y que consistirán en lugares determinados en los cuales para fomento del turismo y la actividad comercial se eximirá del cumplimiento de la fracción cuarta del presente artículo y se podrán ofrecer estímulos para el establecimiento de negocios.
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 1295.
 
-Si de los dictámenes técnicos se desprende que no se cubre alguno de los requisitos señalados en el artículo anterior, el Director General de Gobierno, negará la licencia y lo hará saber al solicitante en el domicilio señalado en su solicitud.
+Las personas titulares, de las licencias o permisos que se expiden conforme a las disposiciones del presente Título, serán responsables directos de sus: establecimientos, personal contratado, terceras personas con una relación de subordinación con su titular; por las contravenciones que realicen a las disposiciones del presente Código, por lo cual se sujetarán a las sanciones y procedimientos que se establezcan en el presente Código y demás ordenamientos jurídicos aplicables a la materia.
+
+A ninguna persona se le podrá obligar para que pertenezca a alguna organización, asociación o empresa, pague cuotas o aportaciones, pague sumas por cualquier concepto a persona o empresa alguna o se obligue a vender o no vender en favor de algún interés, como condición o requisito para que pueda disfrutar o explotar una licencia o permiso que regula el presente Libro.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2013)</small>
+
+ARTÍCULO 1295 BIS.- La autoridad municipal competente, determinará a través de la Dirección de Reglamentación, los giros y las características especiales para su clasificación, para efectos del Título Primero, del Libro Séptimo del presente Código.
+
+La clasificación de los establecimientos mercantiles que se realiza en el presente Libro es enunciativa, mas no limitativa. Cualquier establecimiento sea cual fuere su clasificación, por el sólo hecho de vender o permitir el consumo de bebidas alcohólicas, se sujetará a lo dispuesto por el presente Código y los ordenamientos jurídicos aplicables a la materia.
+
+Para tal efecto, dichos establecimientos mercantiles, de acuerdo con el giro o actividad que exploten o realicen, serán equiparables a los mencionados en el presente Código, según sea el caso.
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 1296.
 
-Si el dictamen técnico determina que se cubren la totalidad de los requisitos señalados para el otorgamiento de la licencia, se someterá la propuesta al Presidente Municipal, para el análisis de su viabilidad y en su caso aprobación.
+Las licencias y permisos que se otorguen al amparo de este Código, son personales por lo tanto son intransferibles y sólo podrán ser ejercidas por las personas que sean titulares en los establecimientos mercantiles o lugares autorizados, en consecuencia no podrán ser objeto de comercio, arrendamiento, venta, donación, comodato o cesión por concepto alguno, por parte de las personas titulares; con excepción de los supuestos previstos por la Ley de Ingresos del Municipio de Aguascalientes, correspondiente al ejercicio fiscal vigente, el presente Código y demás disposiciones legales aplicables en la materia.
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 1297.
 
-Aprobada la licencia por el Presidente Municipal, se expedirá el documento correspondiente por la Dirección General de Gobierno, la Secretaría de Finanzas Públicas, previo pago de las contribuciones municipales y exhibición de fianza que determine la Secretaría de Finanzas Públicas, con el objeto de que garantice el cumplimiento de las obligaciones que le establece a su titular el presente Código. Negada la aprobación del giro correspondiente por el Presidente Municipal, se notificará al solicitante y se dará por concluido el trámite.
+Es facultad potestativa y exclusiva del Presidente Municipal, expedir, suspender, cancelar o autorizar cualquier trámite o explotación de las licencias o permisos a que se refiere el presente Libro, quien la ejercerá a través de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno o de la Dirección de Reglamentación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ENERO DE 2012)</small>
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2013)</small>
 
-### CAPÍTULO III. De las Farmacias, Droguerías, Tlapalerías o Similares
+ARTÍCULO 1297 BIS.- El Presidente Municipal en uso de sus facultades o atribuciones, dictará las disposiciones administrativas necesarias para el cumplimiento, interpretación o resolución de lo no previsto en el presente Título.
 
-###### ARTICULO 1298.
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2013)</small>
 
-Son obligaciones de los titulares de las licencias o permisos a que se refiere el capítulo anterior las siguientes:
+ARTÍCULO 1297 TER.- Se atenderán todas las quejas ciudadanas y asimismo se tomarán en consideración las aportaciones que se realicen a la autoridad municipal para la comprobación del quebrantamiento de las disposiciones del presente Título, cuando se realicen de manera fehaciente o mediante documentales que expidan las personas que faculte la ley para dar fe pública.
 
-I. Tener a la vista la licencia o permiso, que le otorgue la Dirección General de Gobierno.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE MARZO DE 2013)</small>
 
-II. Exhibir en lugares visibles, al público y en forma legible, la lista de precios autorizados para la venta de sus productos.
+### CAPÍTULO III. De la Clasificación de los Establecimientos o Lugares para la Venta y/o consumo de Bebidas Alcohólicas
 
-III. Destinar el local exclusivamente al giro o giros señalados en la licencia o permiso.
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
 
-IV. Impedir el acceso a personas en estado de ebriedad o bajo el influjo de estupefacientes.
+###### ARTÍCULO 1298.
 
-V. Negar el acceso o estancia a personas armadas, con excepción de los miembros de los cuerpos de seguridad, que por razones de servicio deben ingresar a estos establecimientos.
+Son autoridades administrativas competentes para la aplicación y vigilancia del presente título las siguientes:
 
-VI. Prohibir dentro del establecimiento las conductas que tiendan a la mendicidad y la prostitución y evitar que las mujeres cobren por bailar o perciban comisión por el consumo que hagan los asistentes.
+I. El H. Ayuntamiento;
 
-VII. Prohibir la celebración de apuestas de cualquier tipo, dentro del establecimiento.
+II. El Presidente Municipal;
 
-VIII. Respetar el horario autorizado por este Código, evitando que los clientes permanezcan en el interior después de dicho horario.
+III. La Comisión Permanente de Control Reglamentario y Espectáculos;
 
-IX. Colocar en lugares visibles letreros que indiquen al público las áreas de trabajo, zonas restringidas o de peligro, salidas de emergencia y servicios sanitarios.
+IV. La Secretaría del H. Ayuntamiento y Dirección General de Gobierno;
 
-X. Abstenerse de utilizar la vía pública para la realización de la (sic) actividades propias del giro.
+V. La Secretaría de Finanzas Públicas;
 
-XI. Negar la venta o consumo a menores de edad, policías o militares uniformados.
+VI. La Secretaría del Medio Ambiente y Desarrollo Sustentable;
 
-XII. Abstenerse de recibir armas o cualquier objeto en prenda o garantía de pago de las bebidas que vendan.
+VII. La Secretaría de Seguridad Pública;
 
-XIII. Abstenerse de utilizar los colores y símbolos nacionales, en la decoración de sus establecimientos, así como retratos o estatuas de héroes nacionales.
+VIII. La Secretaría de Desarrollo Urbano;
 
-> <small>(REFORMADA, P.O. 9 DE ENERO DE 2012)</small>
+IX. La Dirección de Reglamentación;
 
-XIV. Permitir el libre acceso de los verificadores adscritos a la Coordinación General de Verificación Única Administrativa para la realización de sus funciones.
+X. La Coordinación General de Verificación Única Administrativa;
 
-XV. Renovar anualmente, a más tardar el treinta y uno de Marzo, el permiso o licencia correspondiente, cumpliendo con las obligaciones que le señala este Código.
+XI. Las Delegaciones Municipales;
 
-XVI. Evitar que en sus establecimientos se atente contra la moral, buenas costumbres o se altere el orden público.
+XII. Los Comisarios Municipales; y
 
-XVII. Respetar cualquiera de las limitaciones que le impone este capítulo, al giro de que se trate, así como las demás que se desprendan de la Ley.
+XIII. Los servidores públicos municipales a quienes se les deleguen facultades expresas para la aplicación y cumplimiento del presente Título.
 
-> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
 
-###### ARTÍCULO 1298
+ARTÍCULO 1298 BIS.- Son facultades y atribuciones del H. Ayuntamiento, las siguientes:
 
-BIS.- En todos los establecimientos que el H. Ayuntamiento determine expedir licencia de funcionamiento o conceder permiso provisional de funcionamiento, se deberán modificar los patrones socioculturales de conducta de mujeres y hombres para contrarrestar prejuicios, costumbres y todo tipo de prácticas que se basen en la premisa de la superioridad o inferioridad de cualquiera de los géneros o en los papeles estereotipados para la mujer y el hombre que legitimasen o exacerben la discriminación y la violencia contra las mujeres.
+I. Regular estrategias, programas anuales preventivos y campañas permanentes de difusión e información en materia de combate en el abuso del consumo de alcohol;
 
-### CAPÍTULO IV. De los hoteles, moteles, casas de huéspedes, mesones y otros establecimientos similares
+II. Aprobar y expedir la reglamentación y demás disposiciones administrativas de carácter general necesarias para el funcionamiento y regulación de los establecimientos mercantiles o lugares en los que se venda y/o expenda y/o consuma bebidas alcohólicas;
+
+III. Regular la coordinación de las diferentes áreas integrantes de la Administración Pública Municipal para el debido cumplimiento de las disposiciones del presente Título;
+
+IV. Implementar los programas y políticas temporales de regularización de licencias;
+
+V. Promover la participación de las instituciones públicas y privadas en el ámbito de su competencia, para la planeación, programación y ejecución de acciones de naturaleza preventiva y correctiva en el abuso del consumo del alcohol;
+
+VI. Impulsar programas o alternativas de sano esparcimiento;
+
+VII. Expedir acuerdos, cuando se altere el orden público y el interés general, decretando las medidas o procedimientos, que se realizarán para restablecerlos; y
+
+VIII. Las demás que señalen, el presente Código y los ordenamientos jurídicos aplicables.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2013)</small>
+
+ARTÍCULO 1298 TER - Son facultades y atribuciones del Presidente Municipal, las siguientes:
+
+I. Ejecutar los acuerdos que emita el H. Ayuntamiento, para salvaguardar el orden público e interés general del Municipio de Aguascalientes;
+
+II. Determinar conforme a su facultad potestativa la autorización de las licencias, que se sometan a su consideración por conducto de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno;
+
+III. Ordenar a la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, conforme a su facultad potestativa, en cualquier momento la cancelación de las licencias y/o permisos expedidos en el Municipio de Aguascalientes, por causa de interés general, bienestar colectivo o alteración grave del orden público y de conformidad con la normatividad aplicable;
+
+IV. Dictar las disposiciones administrativas necesarias para el cumplimiento del presente Título;
+
+V. Coordinar y girar las instrucciones necesarias a las autoridades competentes, para el debido cumplimiento de las presentes disposiciones;
+
+VI. Establecer y regular los horarios no previstos en el presente Libro, a través de la Dirección de Reglamentación;
+
+VII. Delegar facultades a los servidores públicos, conforme al artículo 98 del presente Código y demás disposiciones jurídicas aplicables, para el cumplimiento del presente ordenamiento; y
+
+VIII. Las demás que le confieran el presente Código y los ordenamientos jurídicos aplicables.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2013)</small>
+
+ARTÍCULO 1298 QUATER.- Son facultades y atribuciones de la Comisión Permanente de Control Reglamentario y Espectáculos, las siguientes:
+
+I. Vigilar que se cumpla con la aplicación de la normatividad correspondiente a los giros reglamentados establecidos en el Municipio;
+
+II. Vigilar el buen funcionamiento de las áreas municipales respectivas, para el cumplimiento de las disposiciones del presente Título;
+
+III. Solicitar por conducto de la Presidencia de la Comisión, información de las dependencias municipales relativas al cumplimiento de las disposiciones del presente Título;
+
+IV. Supervisar el manejo y destino de los aseguramientos que realizan las autoridades municipales correspondientes; y
+
+V. Las demás que le confieran el presente Código y los ordenamientos jurídicos aplicables.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2013)</small>
+
+ARTÍCULO 1298 QUINQUIES.- Son facultades y atribuciones de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, las siguientes:
+
+I. Dar seguimiento a los acuerdos expedidos por el H. Cabildo y/o las instrucciones giradas por el Presidente Municipal, sobre cualquier licencia o permiso regulados por el presente Título;
+
+II. Emitir y firmar los dictámenes correspondientes, respecto de las solicitudes para el otorgamiento de licencias y/o permisos que sean puestos a su consideración;
+
+III. Ejecutar la Cancelación de las licencias o permisos del presente Título, conforme a las instrucciones del Presidente Municipal, por alteración del orden público e interés general o por contravención al presente Código;
+
+IV. Ordenar visitas de verificación a los establecimientos mercantiles o lugares comprendidos en el presente Título;
+
+V. Vigilar el debido cumplimiento de las dependencias municipales, para la observancia de las disposiciones del presente Título;
+
+VI. Coordinar con la Secretaría de Finanzas Públicas los procedimientos y medidas de seguridad que deberán contener las licencias expedidas por el Municipio;
+
+VII. Recibir a través de la Dirección de Reglamentación las solicitudes para la expedición de las licencias y permisos especiales y reglamentados, previo cumplimiento de los requisitos establecidos para tal efecto;
+
+VIII. Coordinar y vigilar los programas temporales de regularización de licencias, que se emitan conforme a la Ley de Ingresos del Municipio de Aguascalientes, correspondiente al ejercicio fiscal vigente y al presente Título;
+
+IX. Recibir a través de la Dirección de Reglamentación las solicitudes de cambios de titular, de domicilio de las licencias especiales o reglamentadas, conforme a la Ley de Ingresos del Municipio de Aguascalientes, correspondiente al ejercicio fiscal vigente, al presente Código y demás disposiciones jurídicas aplicables;
+
+X. Llevar a través de la Dirección de Reglamentación, el control y registro de todas las licencias y permisos que se expiden conforme al presente Título;
+
+XI. Emitir por instrucción del Presidente Municipal, los criterios de interpretación o procedimientos necesarios para el cumplimiento del presente Título;
+
+XII. Establecer en temporada de feria o en eventos especiales los giros no previstos, procurando homologarlos con los existentes en los ordenamientos jurídicos aplicables a la materia; y
+
+XIII. Las demás que le señalen el presente Código y los ordenamientos jurídicos aplicables.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2013)</small>
+
+ARTÍCULO 1298 SEXIES.- Son facultades y atribuciones de la Secretaría de Finanzas Públicas, las siguientes:
+
+I. Expedir las licencias Municipales de funcionamiento de los establecimientos mercantiles, autorizadas por la Secretaría del H. Ayuntamiento y Dirección General de Gobierno;
+
+II. Rubricar conjuntamente con la persona titular de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, las licencias de funcionamiento;
+
+III. Expedir constancias de no adeudos fiscales municipales, así como llevar un control y registro para tales efectos;
+
+IV. Establecer en coordinación con la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, los procedimientos y mecanismos de seguridad para la expedición y entrega de las licencias que otorga el Municipio;
+
+V. Entregar la licencia sólo a la persona titular o a su representante legal debidamente acreditado mediante instrumento notarial original, debiéndose llevar un registro de la entrega con acuse de recibo;
+
+VI. Realizar el cobro por la expedición de cualquier licencia, permiso, autorizaciones, constancias o registros, conforme a las disposiciones jurídicas aplicables;
+
+VII. Recibir cualquier pago, por concepto de sanción económica que se imponga por la contravención a las disposiciones del presente Código o demás disposiciones jurídicas aplicables;
+
+VIII. Ejecutar el procedimiento económico-coactivo en contra de los infractores, por las sanciones derivadas del incumplimiento al presente Libro y demás disposiciones legales aplicables; y
+
+IX. Las demás que determine el presente Código y los ordenamientos jurídicos aplicables.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2013)</small>
+
+ARTÍCULO 1298 SEPTIES.- Son facultades y atribuciones de la Secretaría del Medio Ambiente y Desarrollo Sustentable, las siguientes:
+
+I. Vigilar las áreas que correspondan a la competencia del Municipio de Aguascalientes, para prevenir la contaminación atmosférica, generada por fuentes fijas o naturales de giros comerciales, industriales o de prestación de servicios;
+
+II. Emitir dictámenes en el ámbito de su competencia que le soliciten las autoridades municipales para efectos del presente título, para prevenir la contaminación ambiental; y
+
+III. Las que le otorguen el presente Código y demás disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2013)</small>
+
+ARTÍCULO 1298 OCTIES.- Son facultades y atribuciones de la Secretaría de Seguridad Pública, las siguientes:
+
+I. Vigilar los establecimientos mercantiles o lugares, que cuenten con licencia o permiso para la venta y/o consumo de bebidas alcohólicas, en el ámbito de su competencia para que éstos no contravengan el orden público o las buenas costumbres;
+
+II. Llevar un control de las quejas ciudadanas que se reciban con motivo de la contravención a las disposiciones de vialidad, en zonas comerciales, establecimientos mercantiles y/o lugares en los que se realice la venta y/o consumo de bebidas alcohólicas;
+
+III. Vigilar y establecer los mecanismos adecuados para que no se ocupe la vía pública, como estacionamiento de los establecimientos mercantiles;
+
+IV. Rendir informes a la Presidencia Municipal y a la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, de las quejas ciudadanas relacionadas con motivo de la contravención del Libro Séptimo del presente Código;
+
+V. Otorgar el apoyo oportuno y necesario de las personas operativas de la Secretaría de Seguridad Pública, para el cumplimiento de las disposiciones del presente Código y demás disposiciones jurídicas aplicables; y
+
+VI. Las demás que le otorgue el presente Código y las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2013)</small>
+
+ARTÍCULO 1298 NONIES.- Son facultades y atribuciones de la Secretaría de Desarrollo Urbano las siguientes:
+
+I. Solicitar el cumplimiento de los requisitos para la expedición de la Constancia de Alineamiento y Compatibilidad Urbanística, para efectos de aplicación del Libro Séptimo, del presente ordenamiento, previniendo con ello que no se altere el orden público y el bienestar social;
+
+II. Emitir el Dictamen correspondiente al cálculo de aforo para la capacidad máxima de personas que pueden permanecer en el establecimiento mercantil o lugar que solicita la Constancia de Alineamiento y Compatibilidad Urbanística;
+
+III. Previo a la expedición de la Constancia de Alineamiento y Compatibilidad Urbanística, solicitar se realicen las verificaciones necesarias para constatar que se cumplen con todos los requisitos y supuestos previstos en las normatividades jurídicas aplicables; y
+
+IV. Las demás que le señalen las disposiciones jurídicas aplicables; (sic)
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2013)</small>
+
+ARTÍCULO 1298 DECIES.- Son facultades y atribuciones de la Dirección de Reglamentación, las siguientes:
+
+I. Recibir, analizar y tramitar las solicitudes para el otorgamiento de las licencias o permisos que se establecen en el presente Libro;
+
+II. Recibir las solicitudes de las personas físicas o morales para los cambios de: titular de la licencia, domicilio, aumento y/o disminución de giro, suspensión de actividades o su respectiva corrección de las licencias expedidas por el Municipio, así como las cancelaciones voluntarias de las licencias;
+
+III. Integrar los expedientes correspondientes, previo cumplimiento de los requisitos establecidos en el presente Libro;
+
+IV. Ordenar que se coteje y se deje copia fotostática de toda documentación que se deba presentar en original, para la integración de los expedientes así como su digitalización;
+
+V. Autorizar las degustaciones de cualquier tipo de bebidas alcohólicas en lugares públicos;
+
+VI. Solicitar dictámenes y demás requerimientos a las autoridades municipales correspondientes, para el cumplimiento de los requisitos de las solicitudes de licencias y/o permisos;
+
+VII. Autorizar y suscribir los permisos para eventos públicos y/o privados que se desarrollen en lugares públicos, en términos de lo establecido en el presente Título;
+
+VIII. Autorizar y suscribir las ampliaciones y anticipaciones de horarios de los establecimientos mercantiles y/o lugares a que se refiere el presente Título;
+
+IX. Sancionar y ordenar su ejecución a través de la Coordinación General de Verificación Única Administrativa, mediante clausura temporal o definitiva a los establecimientos mercantiles o lugares y la imposición o reimposición de sellos de clausura, conforme a las disposiciones jurídicas aplicables;
+
+X. Llevar un registro y control de licencias y permisos otorgados por el Municipio y regulados por el presente Título y de los cambios que le sean autorizados;
+
+XI. Recibir y calificar las actas de verificación y en su caso determinar y aplicar todas aquellas sanciones y/o medidas de seguridad por la contravención a las disposiciones del presente Libro y, en su caso remitirlas a la Secretaría de Finanzas para su cobro;
+
+XII. Determinar, en su caso, la improcedencia de las sanciones de las actas de verificación que le sean remitidas para su calificación;
+
+XIII. Ordenar a la Coordinación General de Verificación Única Administrativa, el retiro de sellos de clausura una vez que se hayan pagado las multas y/o subsanado las observaciones de la autoridad municipal competente;
+
+XIV. Solicitar a la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, que expida a través de la Dirección de Asuntos Jurídicos, los dictámenes de cancelación de las licencias que regula el presente Libro, cuando proceda, a excepción de los dictámenes que se realizan por cancelación voluntaria;
+
+XV. Coordinarse con la Dirección de Tecnologías de la Información y Comunicación, para que se elabore y actualice un sistema informático del padrón de licencias y permisos, con los datos y herramientas necesarias para su consulta, en los términos de los ordenamientos jurídicos de acceso a la información;
+
+XVI. Remitir a la Secretaría del H. Ayuntamiento y Dirección General de Gobierno los expedientes debidamente integrados para la expedición de licencias;
+
+XVII. Expedir y firmar conjuntamente con la persona titular de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, la acreditación de las personas que tiene a su cargo, para desarrollar las actividades de vigilancia que establecen los ordenamientos jurídicos aplicables, en materia de espectáculos públicos, deportivos u otros;
+
+XVIII. Expedir y firmar la acreditación correspondiente a todas aquellas personas que individualmente o en grupo se dediquen a las actividades musicales u otras en la materia y hagan de ella su modo de vida;
+
+XIX. Las que sean inherentes a su función y necesarias para el cumplimiento del presente Libro;
+
+XX. Rendir el informe correspondiente en forma mensual a la Comisión Permanente de Control Reglamentario y Espectáculos o cuando así lo requiera la Comisión; y
+
+XXI. Las que le confiera el presente Libro y demás disposiciones jurídicas aplicables.
+
+ADICIONADO, P.O. 4 DE MARZO DE 2013)
+
+ARTÍCULO 1298 UNDECIES.- Son atribuciones y facultades de la Coordinación General de Verificación Única Administrativa, las siguientes:
+
+I. Llevar a cabo las labores de verificación a solicitud de las autoridades competentes, en los establecimientos mercantiles o lugares regulados por el presente Libro, para comprobar que se cumpla con las disposiciones del presente Código y demás disposiciones jurídicas aplicables a la materia;
+
+II. Retirar los sellos de clausura cuando así proceda y que le sean indicados por la Dirección de Reglamentación;
+
+III. Rendir un informe semanal y mensual, de los aseguramientos realizados y de su destino, a la Presidencia Municipal, Comisión Permanente de Control Reglamentario y Espectáculos, Secretaría del H. Ayuntamiento y Dirección General de Gobierno, Contraloría Municipal y Dirección de Reglamentación;
+
+IV. Solicitar y recibir el apoyo del uso de la fuerza pública, en caso necesario para el debido cumplimiento de las disposiciones jurídicas aplicables;
+
+V. Ejecutar las sanciones que emita la Secretaría del H. Ayuntamiento y Dirección General de Gobierno o la Dirección de Reglamentación;
+
+VI. Remitir los bienes que con motivo de la contravención al presente Código sean asegurados a los infractores al lugar que designe la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, anexando copia del acta e inventario del aseguramiento; y
+
+VII. Las demás que le sean conferidas por el Reglamento de Verificación Administrativa del Municipio de Aguascalientes, el presente Código y demás disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2013)</small>
+
+ARTÍCULO 1298 DUODECIES.- Son atribuciones y facultades de las Delegaciones Municipales y Comisarías Municipales las siguientes:
+
+I. En el ámbito de su competencia, realizar la vigilancia del cumplimiento de la Ley, el presente Título y demás disposiciones jurídicas aplicables;
+
+II. Realizar un reporte a la Secretada del H. Ayuntamiento y Dirección General de Gobierno, de las anomalías detectadas en sus delegaciones o comunidades en relación con la aplicación del presente Título; y
+
+III. Las demás que le confieran las disposiciones jurídicas aplicables.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE MARZO DE 2013)</small>
+
+### CAPÍTULO IV. De los Horarios
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 1299.
 
-Son objeto de regulación de acuerdo a este Código, los establecimientos comerciales, industriales y de servicios que vendan bebidas alcohólicas que contengan más del dos por ciento de alcohol, y las sustancias de efecto psicotrópico señaladas en la Ley Federal de Salud y en el Código Penal Federal, así como todos aquellos productos cuyo inhalación produce o puede producir efectos psicotrópicos o similares.
+Todos los establecimientos mercantiles o lugares regulados por el presente Título, deberán ser independientes de cualquier casa-habitación y no podrán iniciar operaciones sin autorización previa y por escrito de la autoridad municipal competente.
+
+Si el establecimiento mercantil se encontrase en el mismo predio de una casa-habitación, la persona solicitante o titular de la licencia deberá realizarlas modificaciones o adecuaciones necesarias relativas a la construcción, autorizadas por la autoridad competente, a fin de que éste no tenga comunicación directa con el interior de la vivienda.
+
+La autoridad municipal tendrá la facultad potestativa de autorizar o negar licencias, a los establecimientos mercantiles que tengan como actividad accesoria la venta de bebidas alcohólicas en envase cerrado, cuando no cumplan con lo previsto en el presente artículo, otorgando un tiempo considerable para realizar las adecuaciones o mejoras necesarias para su funcionamiento, en atención la situación económica del solicitante y su ubicación.
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 1300.
 
-Los establecimientos dedicados a la venta y consumo de bebidas alcohólicas suspenderán sus actividades los días en los que se establezca "Ley Seca", siendo obligatorio el cierre en tales días por razones de interés público, y que a saber son el dieciséis de septiembre, y el veinte de noviembre; los días en que haya elecciones federales, estatales o municipales incluso desde un día antes de la elección y todos aquellos días en que en forma especial así lo determine el Honorable Ayuntamiento.
+Los establecimientos mercantiles o lugares destinados a la venta y/o consumo de bebidas alcohólicas, se clasifican en:
 
-### CAPÍTULO V. De los billares, boliches, máquinas de juegos, videojuegos, juegos electrónicos y renta de equipos de cómputo
+I. Establecimientos mercantiles dedicados específicamente a la venta y consumo de bebidas alcohólicas:
+
+a) Bar: Es un establecimiento dedicado a la venta y consumo de bebidas alcohólicas que debe contar con un espacio para baile y música adecuada para ello. Se permitirán los juegos de mesa siempre y cuando sean legales y sin apuestas; pueden instalarse aparatos de radio, televisores, fotoeléctricos o similares, siempre que funcionen a un volumen moderado, no excediendo los límites establecidos por la norma oficial mexicana aplicable a la materia;
+
+b) Cabaret: Es el establecimiento que por reunir determinadas condiciones de construcción, seguridad y mobiliario, se dedica a la venta y consumo de bebidas alcohólicas, podrá contar con pista de baile, música en vivo o grabada y en el que pueden ofrecerse espectáculos o representaciones artísticas, previamente autorizadas por la autoridad municipal correspondiente. Siempre se ubicará en la zona de tolerancia;
+
+c) Cantina: Es todo establecimiento, que cuentan con barra y contrabarra, dedicado específicamente a la venta y consumo de bebidas alcohólicas donde se podrá expender botanas y tabaco. Se podrá de manera accesoria ofrecer de manera gratuita juegos de mesa y de salón, siempre que sean legales y no medien apuestas, pueden instalarse aparatos de radio, televisores y similares, siempre funcionando a un volumen moderado y que no perturbe el orden público;
+
+d) Centro Nocturno: Es todo establecimiento que constituye un centro de reunión, donde se venden bebidas alcohólicas en envase abierto o al copeo, cuentan con un conjunto u orquesta permanente, presentando sólo espectáculos autorizados por la Dirección de Reglamentación, de los denominados variedades y con espacio para que bailen los concurrentes, siendo optativo el servicio de restaurante;
+
+e) Cervecería: Es el establecimiento en el que de manera exclusiva se venda cerveza en envase abierto o se expenda mediante máquinas u otro medio, de cualquier clase o presentación o en el que se preparan bebidas a base de cerveza de cualquier tipo o modalidad, para su consumo; podrá incluir la venta de comida, botanas o refrescos;
+
+f) Discoteca: Es todo establecimiento que ofrece al público eventos musicales en cualquiera de sus modalidades para bailar, que opera con juego de luces y sonido, grabaciones, pista de baile, en ella pueden venderse bebidas alcohólicas en envase abierto o al copeo de cualquier graduación;
+
+g) Merendero: Todo establecimiento destinado de manera primordial a la venta y/o consumo de bebidas alcohólicas al copeo y que de manera secundaria ofrecen al público comida y/o botanas preparadas. Se permitirá el ingreso a personas menores de edad, acompañados de sus padres y/o tutor debidamente comprobado y su permanencia será hasta las veintidós horas; y
+
+h) Pulquería: Todo establecimiento dedicado a la venta de pulque al menudeo, ya sea de barril o envasado, para consumirse en el interior del local.
+
+Se prohíbe la entrada a personas menores de edad en todos los establecimientos señalados en los incisos anteriores de la fracción I del presente artículo, salvo en el inciso g), con su limitante.
+
+II. Establecimientos mercantiles que en forma accesoria puedan vender y consumir bebidas alcohólicas:
+
+a) Centros Turísticos y Balnearios: Aquellos lugares que por sus bellezas naturales, adaptaciones arquitectónicas, tradición u otras condiciones semejantes a juicio de la autoridad municipal, constituyan sitios de atracción, reunión, esparcimiento o descanso en el que se puedan vender bebidas alcohólicas, únicamente con alimentos, para consumirse dentro de sus instalaciones;
+
+b) Baños Públicos: Aquellos establecimientos en los que se brinde el servicio de regaderas o vapor a los clientes, en el cual se podrá vender cerveza con las medidas de seguridad adecuadas, con botana, para consumirse en el establecimiento. Queda prohibida la entrada de personas menores de edad, salvo acompañado con sus padres o tutores debidamente comprobado;
+
+c) Billares: Todo establecimiento que cuenta con mesas de billar y de juegos de mesa para rentar con costo por tiempo y se podrá vender y consumir cerveza exclusivamente, pudiéndose acompañar de botanas y alimentos. Queda prohibida la entrada a personas menores de edad;
+
+d) Cafetería: Es todo establecimiento en el que se realizan actividades de carácter artístico y cultural, con venta de café preparado en diferente modalidades y en forma accesoria cerveza, licores o vinos generosos al copeo únicamente con alimentos, para consumir dentro del establecimiento;
+
+e) Birrieria, Cenaduría, Fonda, Lonchería, Marisquería, Ostionería, Rosticerías, Pizzerías, Taquería o similares: Aquellos establecimientos, en los que de forma accesoria a la venta de sus alimentos preparados se vende y consume cerveza o vinos de mesa dentro del mismo local;
+
+f) Casino o Centro de Apuestas: Establecimientos que cuentan con autorización de la autoridad federal, para realizar juegos y sorteos con apuestas y donde se podrán vender y consumir bebidas alcohólicas en envase abierto o al copeo en el interior del mismo y que además podrán contar con el servicio de restaurant previa autorización de la autoridad municipal. Queda prohibida la entrada a personas menores de edad;
+
+g) Club Social y Otros Similares: Aquellos centros de reunión que se sostengan con la cooperación de sus accionistas; sean de uso exclusivo de los mismos y realicen actividades sociales recreativas. Podrán contar con un área especial para el consumo de bebidas alcohólicas y con el servicio de restaurant previa autorización de la autoridad municipal. Se podrá permitir la celebración de banquetes en que se haga consumo de bebidas alcohólicas, aunque intervengan personas que no sean accionistas, siempre y cuando ello no desvirtúe el objeto social del mismo;
+
+h) Hotel, Motel y Similares: Establecimiento cuya finalidad principal es la de brindar el servicio de renta de habitaciones y en los cuales, complementariamente podrán venderse y consumirse bebidas alcohólicas para lo que deberán organizarse y establecerse áreas o secciones independientes de tal modo que no interfieran o impidan el funcionamiento de la actividad principal, siempre que se obtenga la autorización municipal correspondiente;
+
+i) Peña: Todo establecimiento destinado de manera primordial a la presentación de música cultural en vivo, con presencia de trovadores y cantantes, sólo cuando sean contratados por el mismo establecimiento, que de manera secundaria ofrecen al público venta y consumo de bebidas alcohólicas mediante copeo que deberán ser acompañadas de comida y/o botanas preparadas. Las peñas no deberán contar con espacio para baile ni música propio para ello. Se permitirá el acceso de personas menores de edad, acompañados de sus padres y/o tutores, debidamente comprobado y su permanencia será hasta las veintitrés horas;
+
+j) Restaurante: Lugar destinado para el consumo preferente y predominantemente de alimentos, como actividad principal, en el que podrá venderse y consumirse bebidas alcohólicas exclusivamente acompañadas de aquellos. Se establecen las siguientes modalidades:
+
+A. Se podrá vender y consumir vinos y licores en envase abierto o al copeo y/o cerveza;
+
+B. Se podrá vender y consumir cerveza y vinos generosos únicamente; y
+
+C. Se podrá vender y consumir cerveza únicamente.
+
+k) Salón y Jardín para Fiestas y Banquetes: Establecimientos destinados para celebrar fiestas familiares, eventos sociales y/o populares dentro del cual podrán consumirse bebidas alcohólicas, podrá contar con una pista para bailar ya sea con música en vivo o grabada.
+
+En los salones de fiestas y/o jardines infantiles no podrá consumirse bebidas alcohólicas y tendrán un horario diferente a los salones para fiestas y banquetes; y
+
+l) Parián: Conjunto de instalaciones debidamente adecuadas y definidas para promocionar artesanías, gastronomía, productos agroindustriales, folklore y música, en donde se podrán vender y consumir bebidas alcohólicas, en los términos y supuestos del presente título y que en cada caso fije la autoridad municipal.
+
+III. Lugares en donde se puede autorizar la venta y consumo de bebidas alcohólicas, en forma eventual y transitoria:
+
+a) Arena: Local acondicionado para competencias o entrenamientos de box, lucha libre, artes marciales o similares;
+
+b) Centro de Espectáculos: Local acondicionado para la presentación de eventos de entretenimiento, grupos musicales o actos masivos;
+
+c) Campos Deportivos o Predios: Lugares de acceso público, destinados a la realización de prácticas deportivas a nivel amateur;
+
+d) Estadio: Local acondicionado para la realización de partidos deportivos profesionales o la realización de eventos públicos masivos;
+
+e) Feria: Evento en el cual se reúnen diversos espectáculos, juegos mecánicos, exposiciones, eventos culturales entre otras actividades;
+
+f) Kermés o Verbena: Fiesta popular, al aire libre, con bailes, rifas, concursos, en el cual se ofrecen a la venta diversos artículos y alimentos, en donde se podrá vender y consumir cerveza o bebidas alcohólicas preparadas;
+
+g) Lienzo Charro: Inmueble acondicionado para las suertes charras y jaripeo;
+
+h) Palenque: Local acondicionado para la realización de peleas de gallos, en el que también se presenten artistas o grupos musicales;
+
+i) Plaza de Toros: Local acondicionado para la presentación de espectáculos taurinos o eventos masivos; y
+
+j) Terraza: Local instalado provisionalmente en ferias o fiestas públicas, en el que se presenten artistas y/o grupos musicales, y que puedan contar con pista de baile.
+
+IV. Establecimientos mercantiles en donde pueda venderse bebidas alcohólicas, sólo en botella o envase cerrado, quedando prohibido su consumo en el interior del establecimiento mercantil:
+
+a) Abarrotes con Venta de Cerveza: Establecimientos que predominantemente venden comestibles, artículos de limpieza y otros artículos básicos y que además venden cerveza;
+
+b) Abarrotes con Venta de Cerveza, Vinos y Licores: Establecimientos que predominantemente venden comestibles, artículos de limpieza y otros artículos básicos y que además venden cerveza, vinos y licores;
+
+c) Agencias: Establecimientos que venden exclusivamente al mayoreo cerveza en envase cerrado, que cuenten con instalaciones de bodegas, oficinas y servicio de distribución;
+
+d) Almacenes: Establecimientos que venden exclusivamente al mayoreo bebidas alcohólicas, y/o cerveza en envase cerrado, que cuenten con instalaciones de bodegas, oficinas y servicio de distribución;
+
+e) Expendio de vinos y licores o ultramarinos.- Establecimientos que se dedican a la venta al menudeo de cerveza y/o vinos y licores y otros productos enlatados no alcohólicos;
+
+f) Fabricante o Distribuidor Mayoritario.- Establecimiento que produce bebidas alcohólicas y/o cerveza y los pone a la venta por cualquier medio. Se incluye en esta categoría a quienes distribuyan por mayoreo bebidas alcohólicas y/o cerveza;
+
+g) Minisuper.- Establecimiento cuyo giro comercial es la venta predominantemente de artículos de abarrotes, revistas, productos cárnicos, lácteos y artículos básicos, además de bebidas alcohólicas al menudeo;
+
+h) Servicar.- Establecimiento al cual tienen acceso y servicio los clientes en vehículos automotores y que predominantemente comercializan artículos básicos, latería, carnes frías, botana, además de cerveza y bebidas alcohólicas;
+
+i) Supermercados.- Establecimientos cuyo giro comercial lo constituye la venta de bienes de distintas clases tales como abarrotes, comestibles, productos cárnicos, ropa, calzado, electrónica, línea blanca, auto-accesorios, además podrán vender bebidas alcohólicas; y
+
+j) Tienda de Conveniencia.- Establecimiento perteneciente a una cadena comercial o grupo de franquicia local, nacional o internacional, que se dedica a la venta de artículos diversos de abarrotes, bebidas, dulces, cigarros, enlatados, congelados, conservas, comida rápida que se prepara en el mismo lugar, farmacéuticos básicos y de venta libre, periódicos, revistas, productos de uso domestico y para la higiene personal, entre otros, teniendo una variedad menor de productos que los supermercados, pudiendo ser proveedor de algunos servicios, tales como cajeros automáticos de bancos o instituciones financieras o pagos diversos a favor de empresas públicas o privadas, además de la venta de bebidas alcohólicas.
+
+V. Establecimientos mercantiles en donde puede venderse alcohol industrial o con fines terapéuticos o medicinales, pero no a granel ni para el consumo humano:
+
+a) Ferreterías, Tlapalerías o Expendios de Pintura.- Establecimientos que se dedican a la venta de productos y enseres para usos domésticos y de consumo industrial; y
+
+b) Farmacias, Boticas o Similares.- Establecimientos destinados a la venta de medicamentos, productos de perfumería, enseres para uso doméstico, en el que se podrá expender alcohol para usos medicinales o terapéuticos sin que sea para su consumo humano.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE MARZO DE 2013)</small>
+
+### CAPÍTULO V. De la Expedición de las Licencias y Permisos para la Venta de Bebidas Alcohólicas, Sustancias o Medicamentos de efecto Psicotrópico o Enervantes
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 1301.
 
-Las licencias y permisos que se otorguen al amparo de este Código, en cualquier momento pueden ser objeto de revisión, para determinar que cumplen los requisitos que el mismo les señala y que no se afecta el interés público o social; estando facultada la Presidencia Municipal a través de la Dirección General de Gobierno para reubicar aquellos establecimientos que no cumplan con lo señalado con anterioridad o cancelarlas de ser necesario. Se requiere permiso especial para degustaciones, regalos y rifas de bebidas alcohólicas en lugares públicos.
+Todos los establecimientos mercantiles o lugares de cualquier giro, cuyas actividades incluyan vender, consumir o expender bebidas alcohólicas, que se encuentren dentro del Municipio de Aguascalientes, sólo podrán dar los servicios de venta y/o consumo de bebidas alcohólicas en los siguientes horarios:
+
+ESTABLECIMIENTO HORARIO
+
+I. AGENCIA O CENTRO Diariamente de las 9:00 horas
+
+DE DISTRIBUCIÓN hasta las 22:00 horas;
+
+II. BAR Diariamente de las 12:00 horas
+
+hasta las 2:00 horas, del día siguiente;
+
+III. BILLARES Diariamente de las 9:00 horas
+
+hasta las 24:00 horas;
+
+IV. CENTRO Diariamente de las 19:00 horas hasta
+
+NOCTURNO las 3:00 horas, del día siguiente;
+
+V. CABARET Diariamente de las 16:00 horas hasta
+
+las 7:00 horas del día siguiente; queda
+
+restringida la ampliación de horario
+
+para este giro.
+
+VI. CAFETERÍA Diariamente de las 9:00 horas
+
+hasta las 24:00 horas;
+
+VII. CANTINA Diariamente de las 10:00 horas
+
+a las 24:00 horas;
+
+VIII. CASINO, Diariamente de las 8:00 horas hasta
+
+CLUB SOCIAL U las 2:00 horas, del día siguiente;
+
+OTRO SIMILAR
+
+IX. CENADURÍAS Diariamente de las 18:00 horas hasta
+
+las 2:00 horas, del día siguiente;
+
+X. CERVECERÍA Diariamente de las 10:00 horas hasta
+
+las 22:00 horas;
+
+XI. MERENDERO Diariamente de las 12:00 horas hasta
+
+las 24:00 horas;
+
+XII. ALMACEN Diariamente de las 9:00 horas hasta
+
+DE CERVEZA O las 22:00 horas;
+
+DE VINOS Y
+
+LICORES
+
+XIII. DISCOTECA Diariamente de las 19:00 horas
+
+hasta las 2:00 horas, del día siguiente;
+
+XIV. HOTEL, MOTEL O Funcionaran 24 horas, sin embargo
+
+SIMILAR si cuenta con algún giro complementario
+
+se regulará su funcionamiento conforme
+
+al presente artículo;
+
+XV. KERMÉS Diariamente de las 9:00 horas
+
+a las 21:00 horas;
+
+XVI. MARISQUERÍAS, Diariamente de las 9:00 horas
+
+OSTIONERÍA O a las 21:00 horas;
+
+SIMILARES
+
+XVII. PARIÁN Diariamente de las 10:00 horas
+
+a las 21:00 horas;
+
+XVIII. RESTAURANTE Diariamente de las 7:00 horas
+
+a las 2:00 horas, del día siguiente;
+
+XIX. SALÓN O JARDÍN Diariamente de las 8:00 horas
+
+PARA FIESTAS a las 22:00 horas;
+
+INFANTILES
+
+XX. SALÓN PARA FIESTAS Diariamente de las 8:00 horas
+
+Y BANQUETES. a las 2:00 horas, del día siguiente;
+
+XXI. TIENDAS Diariamente de las 9:00 horas
+
+DE ABARROTES a las 22:00 horas;
+
+XXII. SUPERMERCADOS, Diariamente de las 9:00 horas
+
+TIENDAS DE a las 22:00 horas;
+
+AUTOSERVICIO Y
+
+ULTRAMARINOS
+
+XXIII. VERBENA Diariamente de las 16:00 horas
+
+a las 23:00 horas;
+
+XXIV. TIENDA DE Diariamente de las 9:00 horas
+
+CONVENIENCIA a las 22:00 horas;
+
+XXV. PEÑA Diariamente de las 16:00 horas
+
+a las 24:00 horas;
+
+XXVI. PULQUERÍA Diariamente de las 10:00 horas
+
+a las 20:00 horas;
+
+XXVII. PERMISOS La autoridad municipal establecerá
+
+ESPECIALES O los horarios a que se sujetarán; y
+
+POR TEMPORADA
+
+XXVIII. Otros. La Dirección de Reglamentación
+
+los determinará.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2013)</small>
+
+ARTÍCULO 1301 BIS.- Los horarios de los establecimientos mercantiles o lugares con venta y/o consumo de bebidas alcohólicas, que no estén previstos por el artículo anterior, en atención a su funcionalidad y características especiales, serán establecidos por la autoridad municipal, con otros giros semejantes.
+
+Los establecimientos mercantiles o lugares que tengan restricción para la entrada de personas menores de edad, podrán solicitar a la Dirección Reglamentación, la realización de eventos especiales privados fuera de su horario de funcionamiento, sin venta y/o consumo de bebidas alcohólicas, con las condiciones y modalidades que la autoridad municipal le establezca y que podrá autorizarle de manera discrecional.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2013)</small>
+
+ARTÍCULO 1301 TER.- Para la autorización de cualquier espectáculo público, en el que se permita la venta y/o consumo de bebidas alcohólicas, previa licencia o permiso, ésta deberá realizarse en vaso de plástico desechable o de cualquier material similar que pueda ser reciclado, que no implique peligro para quienes acudan al evento o espectáculo, prohibiéndose los vasos de vidrio, metal o de barro. Se deberán respetar los horarios previstos en el presente capítulo o en el que determine la autoridad municipal.
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 1302.
 
-Los permisos y licencias que se otorguen al amparo de este capítulo, son de carácter personal, quedando prohibidos los cambios de propietario y de giro; se extinguirán o cancelarán tratándose de disolución de personas morales. Se exceptúa de lo anterior los casos de muerte del titular en los que podrá transmitirse vía sucesión legítima o testamentaria.
+Los establecimientos mercantiles dedicados a la venta y/o consumo de bebidas alcohólicas suspenderán sus actividades los días en los que se establezca "Ley Seca", quedando estrictamente prohibido expender, vender y/o permitir el consumo de bebidas alcohólicas de cualquier tipo o modalidad en el Municipio de Aguascalientes, cuando: se realicen elecciones federales, estatales o municipales; los demás días que establezca la autoridad municipal, en razón de actos cívicos, fiestas patrias, situaciones de emergencia, riesgo o cualquier otra causa de seguridad pública e interés general. La autoridad municipal establecerá los días y los horarios conducentes para su respectiva observancia.
 
-### CAPÍTULO VI
+Para los efectos del presente artículo los establecimientos mercantiles y lugares que tenga como actividad o giro secundario la venta y/o consumo de bebidas alcohólicas, podrán abrir sus establecimientos, tomando todas las medidas necesarias y precautorias para que no se expendan y/o consuman bebidas alcohólicas en sus establecimientos, siendo responsables y acreedores a las sanciones correspondientes por tal incumplimiento.
 
-De los establecimientos dedicados a la renta de películas, videos, cintas, discos compactos, salas de cine y cualquier otro equipo que transmita sonido o imágenes
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2013)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2009)</small>
+ARTÍCULO 1302 BIS.- Los establecimientos mercantiles y/o lugares a que se refiere el presente Título, podrán solicitar autorización para la ampliación de horario, hasta por dos horas más de su horario autorizado. Asimismo podrán solicitar la anticipación de su horario en atención a los eventos que se realicen.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2013)</small>
+
+ARTÍCULO 1302 TER.- Para los efectos de la ampliación o anticipación de horario, se deberán cumplir los siguientes requisitos:
+
+I. Presentar solicitud por escrito en la Dirección de Reglamentación por cada evento y señalar el horario solicitado;
+
+II. Realizar el pago correspondiente en la Secretaría de Finanzas Públicas, que establezca la Ley de Ingresos del Municipio de Aguascalientes correspondiente al ejercicio fiscal vigente;
+
+III. No contar con más de tres sanciones en un periodo de seis meses;
+
+IV. Atender los criterios y lineamientos que establezca la autoridad municipal; y
+
+V. Los demás necesarios para evitar alterar el orden público, las buenas costumbres y el bienestar colectivo.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2013)</small>
+
+ARTÍCULO 1302 QUATER.- Reunidos los requisitos correspondientes, la Dirección de Reglamentación tendrá la facultad potestativa para otorgar o negar el permiso para la ampliación y/o anticipación de horario.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2013)</small>
+
+ARTÍCULO 1302 QUINQUIES.- En el caso de la ampliación de horario, la autoridad municipal podrá autorizarlo hasta por dos horas más de su horario establecido; y sólo aplicará los días jueves, viernes, sábados y domingos.
+
+Para el día jueves aplicará a partir de las 22:00 horas y el domingo sólo se podrá otorgar permiso hasta las 05:00 horas.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2013)</small>
+
+ARTÍCULO 1302 SEXIES.- En el caso de las anticipaciones de horario, se atenderá a los itinerarios y circunstancias, siendo el caso de Juegos Olímpicos, Copa Mundial de Fútbol, o cualquier otro evento de importancia y de gran interés general, por lo cual la autoridad municipal, podrá autorizar la apertura y funcionamiento de los establecimientos o lugares, fuera de su horario común a que se refiere este Título.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2013)</small>
+
+ARTÍCULO 1302 SEPTIES.- La autoridad municipal competente, podrá suspender la ampliación o anticipación del horario a los establecimientos mercantiles o lugares en cualquier momento, en el caso de que se altere el orden público e interés general o que contravengan las disposiciones establecidas en el presente título, además de aplicarse las sanciones correspondientes a que se hagan acreedores.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE MARZO DE 2013)</small>
+
+### CAPÍTULO VI. De la Pérdida, Extravío o Robo de la Licencia
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 1303.
 
-Los establecimientos en los cuales se desarrolle la venta de los productos señalados en el presente capítulo, deberán contar con licencia previa, expedida por la Presidencia Municipal y cumplir con los requisitos de higiene, salubridad, seguridad y protección a la moral pública, que la Dirección General de Gobierno determine mientras se encuentra operando; y demás requisitos que establezca el presente Código. Se podrá expedir licencias múltiples, que consiste en que una sola licencia ampare varios giros, cuando la persona física o moral desarrolle en un solo predio varias actividades.
+Son objeto de regulación de acuerdo a este Título, los establecimientos mercantiles, industriales y de servicios, que vendan bebidas alcohólicas que contengan más del dos por ciento de alcohol G.L., y las sustancias de efecto psicotrópico señaladas en la Ley Federal de Salud y en el Código Penal Federal, la Ley que regula la Venta y Consumo de Bebidas Alcohólicas en el Estado de Aguascalientes y demás ordenamientos jurídicos aplicables; así como todos aquellos productos cuya inhalación produzcan o puedan producir efectos psicotrópicos o similares.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2013)</small>
+
+ARTÍCULO 1303 BIS.- El pago de los derechos por el otorgamiento o renovación de licencia o permiso para el funcionamiento de los giros o actividades reguladas en el presente Título, se pagarán de conformidad con la Ley de Ingresos del Municipio de Aguascalientes correspondiente al ejercicio fiscal vigente.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2013)</small>
+
+ARTÍCULO 1303 TER.- Es facultad exclusiva y potestativa de la autoridad municipal, otorgar licencias y permisos que se regulan en el presente Libro, por lo cual será nulo de pleno derecho, cualquier cesión o enajenación que realicen los particulares con las licencias y permisos otorgados por el Municipio y que no sean autorizados por la autoridad municipal, además de la sanción que corresponda por tal incumplimiento.
+
+Las licencias y permisos que se otorguen al amparo de este Código, en cualquier momento podrán ser objeto de revisión por la autoridad municipal competente, para determinar que cumplen con los requisitos que el presente ordenamiento establece y que no afecte el interés público general; estando facultada la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, para ordenar la reubicación de aquellos establecimientos mercantiles que no cumplan con lo señalado con anterioridad, decidir sobre su clausura o cancelación de ser necesario.
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 1304.
 
-Los lugares destinados a la venta de bebidas alcohólicas, se clasifican en:
+Toda licencia es personal, podrá solicitarse cambio de titular en los casos de muerte de la persona titular en los que podrá transmitirse vía sucesión legítima o testamentaria, así como en caso de que la persona titular solicite a favor de su cónyuge o ascendientes y descendientes en línea recta; siempre que lo señale y permita la autoridad municipal de conformidad con los ordenamientos jurídicos aplicables a la materia, previo cumplimiento de los requisitos legales establecidos para tal fin. En el supuesto de la disolución de personas morales, los permisos y/o licencias se extinguirán y se procederá a su cancelación.
 
-I. Establecimientos destinados específicamente a la venta y consumo de bebidas alcohólicas: cantinas, merenderos, cervecerías, bares, centros nocturnos, cabaret, discotecas y pulquerías.
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2013)</small>
 
-II. Establecimientos que en forma accesoria puedan vender y consumir bebidas alcohólicas: restaurantes, centros turísticos, clubes sociales, fondas, loncherías, taquerías, cenadurías, balnearios, baños públicos, cafeterías, rosticerías, establecimientos dedicados a la venta de pescados, mariscos, billares, peñas y similares.
+ARTÍCULO 1304 BIS.- Los permisos y licencias que se otorguen conforme a las disposiciones del presente Título, serán de duración temporal. Las licencias especiales o reglamentadas tendrán una vigencia anual y los permisos durante el tiempo especificado por la autoridad para tal efecto.
 
-III. Lugares en donde se puede autorizar la venta y consumo de bebidas alcohólicas, en forma eventual y transitoria: kermesses, ferias, espectáculos y bailes públicos.
-
-IV. Establecimientos en donde puedan venderse bebidas alcohólicas, sólo en botella cerrada: depósitos o expendios, tiendas de abarrotes, supermercados, misceláneas.
-
-V. Comercios en donde puede venderse alcohol, pero no a granel ni para consumir: boticas, droguerías, farmacias y similares.
-
-En los establecimientos señalados en la fracción primera de este artículo, así como en los bailes públicos y billares, queda estrictamente prohibida la entrada a menores de edad, así como su contratación para trabajar en dichos lugares, salvo lo previsto en el artículo 1307 de este ordenamiento.
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 1305.
 
-Cantina es todo establecimiento dedicado específicamente a la venta y consumo de bebidas al copeo. En ella podrán expenderse bebidas embriagantes, tabaco y botanas, la cual funcionará en un horario de las diez horas a la una del día siguiente.
+Todas las licencias reglamentadas deberán ser renovadas anualmente a más tardar el treinta y uno de marzo de cada año calendario siguiente, en caso de no renovarse en el plazo señalado, se procederá a la suspensión provisional por lo que se refiere a la venta y/o consumo de bebidas alcohólicas, hasta en tanto no regularice sus adeudos. Se exceptúa de lo anterior las personas titulares de las licencias, que hubiesen realizado convenio con la Secretaría de Finanzas Públicas en tiempo y forma una vez autorizado por la dependencia.
 
-En las cantinas se permitirán los juegos de mesa siempre y cuando sean legales y sin apuestas; pueden instalarse aparatos de radio, televisores, fonoeléctricos y similares, siempre que funcionen a un volumen de sonido moderado. Se permitirá el libre acceso a trovadores y músicos que cuenten con el permiso correspondiente.
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2013)</small>
+
+ARTÍCULO 1305 BIS.- Para la realización de cambio de domicilio del establecimiento mercantil, industrial o de servicios reglamentados o especiales, la persona interesada debe cumplir con todos y cada uno de los requisitos necesarios como si se tratase de una solicitud de licencia nueva, realizar el pago de los derechos correspondientes y contar con la autorización de la autoridad municipal competente.
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 1306.
 
-Peña es todo establecimiento destinado de manera primordial a la presentación de música viva cultural, con presencia de trovadores y cantantes sólo cuando sean contratados por el mismo establecimiento, que de manera secundaria ofrecen al público venta y consumo de bebidas embriagantes al copeo que podrán ser acompañadas de comida y/o botanas preparadas. Las peñas no podrán contar con un espacio para baile ni música propia para ello, su horario será de las dieciséis a las dos horas, del día siguiente. A las peñas se permitirá el ingreso a menores sólo cuando fueren acompañados de un adulto hasta las veintiun horas o de su padre o madre hasta las tres horas del día siguiente.
+Cualquier persona interesada en obtener una licencia para un establecimiento mercantil que se dedique a la venta y/o consumo de bebidas alcohólicas; sustancias o medicamentos de efectos psicotrópicos o enervantes, deberá presentar ante la Dirección de Reglamentación, los siguientes requisitos:
+
+I. Formato de solicitud por escrito, que expide la Secretaría de Finanzas Públicas, debidamente complementada y firmada con los datos generales de la persona interesada o representante legal;
+
+II. Identificación oficial con fotografía vigente de la persona solicitante;
+
+III. Fotografía tipo pasaporte, reciente y sin retoque de la persona solicitante;
+
+IV. Tratándose de personas morales, copia certificada en original del documento notarial que acredite la existencia de la misma y la representación legal de la persona solicitante;
+
+V. Señalar domicilio para oír y recibir notificaciones dentro del municipio, así como la constancia o comprobante de domicilio vigente de la persona solicitante en el Municipio de Aguascalientes;
+
+VI. Registro Federal de Contribuyentes expedido por el Servicio de Administración Tributaria, de la Secretaría de Hacienda y Crédito Público;
+
+VII. Que el inmueble donde se pretenda instalar el establecimiento mercantil no sea casa-habitación y en el caso que se encuentren en el mismo predio, que no tenga ningún tipo de acceso a ésta u otros locales comerciales, debiéndose contar con las modificaciones estructurales para que se cumpla este supuesto;
+
+VIII. Croquis de ubicación exacta del lugar en donde se pretende establecer el negocio de que se trate y acompañado de la escritura que lo acredite como persona propietaria o el documento que le otorgue la posesión derivada de dicho inmueble;
+
+IX. Acompañar constancia de Alineamiento y Compatibilidad Urbanística expedida por la Secretaría de Desarrollo Urbano o en su caso proyecto de cambio del uso del suelo;
+
+X. Que el inmueble y/o la persona solicitante, estén al corriente con sus obligaciones fiscales con el Municipio de Aguascalientes;
+
+XI. Firmas de por lo menos diez vecinos inmediatos del lugar en caso de que existan éstos, las cuales deberán ser recabadas con los vecinos de la parte frontal, anterior y laterales, en el cual se pretende operar la licencia, manifestando su conformidad, en el formato que para tal efecto expedirá la Dirección de Reglamentación;
+
+XII. Fotografías del exterior y del interior del establecimiento; y
+
+XIII. Que el acceso del establecimiento mercantil sea independiente y por la vía pública.
+
+Además del cumplimiento de los requisitos anteriores, para los establecimientos mercantiles señalados en la fracción I, II, III y IV incisos c), d), f), j) y k) del artículo 1300 del presente Código, que tengan una capacidad de aforo mayor a cien personas, deberán cumplir con los siguientes requisitos:
+
+I. Dictamen o peritaje del local, expedido por la autoridad competente, en el cual se señale que el establecimiento mercantil, tiene la construcción o adecuaciones estructurales necesarias para no contaminar el medio ambiente con sonidos estridentes, generados en su interior;
+
+II. Constancia emitida por la Dirección Municipal de Protección Civil, Bomberos y Atención a Emergencia Prehospitalarias, en la que conste que cumple con las condiciones de seguridad, que señala el presente Código y demás disposiciones aplicables en la materia;
+
+III. Constancia de la Secretaría de Salud, en la que se señale que el establecimiento reúne las condiciones sanitarias adecuadas para su funcionamiento, en el caso que aplique según la normatividad aplicable;
+
+IV. Acreditar el servicio de seguridad pública o privada, mediante el recibo de pago expedido por la Secretaría de Finanzas Públicas o convenio correspondiente que acredite tal servicio con empresa legalmente registrada, por el periodo de un año, éste requisito sólo aplicará para los establecimientos mercantiles dedicados a la venta y consumo de bebidas alcohólicas; y
+
+V. Cualquier otro que considere oportuno la autoridad municipal únicamente para salvaguardar el orden público e interés general.
+
+La autoridad municipal solicitará a los establecimientos mercantiles que se dediquen a la venta y consumo de bebidas alcohólicas, que cuenten con un seguro de responsabilidad civil por daños a terceros, en relación a la capacidad de aforo de cada establecimiento.
+
+La carencia de cualquiera de los requisitos que señala el presente artículo, dará lugar a que no se dé trámite y se rechace la solicitud de que se trate.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2013)</small>
+
+ARTÍCULO 1306 BIS.- Recibida la solicitud, la Secretaría del H. Ayuntamiento y Dirección General de Gobierno solicitará a través de la Dirección de Reglamentación a las dependencias municipales competentes, que remitan los dictámenes correspondientes en el término de cinco días hábiles, los cuales deberán indicar:
+
+I. Si el inmueble en el que se pretende establecer el giro correspondiente, reúne o no las características que establece la reglamentación municipal en materia de construcciones;
+
+II. Si el inmueble cumple o no con la normatividad aplicable en materia de: seguridad, salubridad, comodidad e higiene;
+
+III. Si el inmueble no afecta las vialidades públicas, por causa de: enseres en vía pública, por causa de estacionamiento o por cualquier otra;
+
+IV. La ubicación en la que se demuestre fehacientemente si existe o no, institución educativa o centro deportivo, en un radio de acción de ciento cincuenta metros en relación con el establecimiento mercantil;
+
+V. Si el inmueble cuenta con las instalaciones de acústica que evite sonidos estridentes o excesivos, que causen molestias a los vecinos; y
+
+VI. Cualquier otro necesario para la comprobación de los requisitos y disposiciones que señale el presente Código.
+
+Las distancias referidas se establecerán tomando en cuenta el acceso principal de los lugares de referencia.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2013)</small>
+
+ARTÍCULO 1306 TER.- El H. Cabildo mediante acuerdo aprobado, que se publique en el Periódico Oficial del Estado, puede decretar el establecimiento de zonas comerciales, que consistirán en lugares determinados en los cuales para el fomento del turismo y la actividad comercial se eximirá a los establecimientos mercantiles del cumplimiento de la fracción cuarta del artículo anterior y se podrán ofrecer estímulos para el establecimiento de negocios.
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 1307.
 
-Merendero es todo establecimiento destinado de manera primordial a la venta y consumo de bebidas al copeo y que de manera secundaria ofrecen al público comida y/o botanas preparadas y funcionará de las doce a las veinticuatro horas, se permitirá el ingreso a menores acompañados de un adulto y su permanencia será hasta las veintidós horas.
+El expediente se integrará hasta que la persona solicitante cubra todos los requisitos que señala el presente Código y éstos sean revisados y aprobados por la Dirección de Reglamentación. Una vez integrado se tendrá que resolver sobre la procedencia o improcedencia de la solicitud, en el término de cuarenta y cinco días hábiles y en el supuesto de no resolver al respecto en el lapso señalado se considerará en sentido negativo.
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 1308.
 
-Bar es un establecimiento dedicado a la venta y consumo de bebidas al copeo que debe contar con un espacio para baile y música adecuada para ello, su horario será de las doce horas a las dos horas, del día siguiente.
+Si de los dictámenes técnicos de las autoridades se desprende que no se cubre alguno de los requisitos señalados por el presente Código, la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, negará la licencia y lo hará saber a la persona solicitante en el domicilio señalado en su solicitud.
 
-En los bares se permitirán los juegos de mesa siempre y cuando sean legales y sin apuestas; pueden instalarse aparatos de radio, televisores, fonoeléctricos y similares, siempre que funcionen a un volumen de sonido moderado. Se permitirá el libre acceso a trovadores y músicos que cuenten con el permiso correspondiente de la autoridad municipal y tengan la autorización del propietario o responsable del establecimiento.
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 1309.
 
-Cervecería es el establecimiento en el que, de manera exclusiva se venda cerveza, de cualquier clase o presentación, para su consumo inmediato; se requerirá permiso especial para incluir la venta de comida, botanas o refrescos y podrá funcionar en un horario de las diez a las veintiun horas, en ella se permitirá el acceso a los trovadores y músicos que cuenten con el permiso correspondiente de la autoridad municipal y tengan la autorización del propietario o responsable del establecimiento.
+Si el dictamen técnico emitido por la Dirección de Reglamentación, determina que se cubren la totalidad de los requisitos señalados para el otorgamiento de la licencia, se someterá la propuesta al Presidente Municipal, para el análisis de su viabilidad y en su caso aprobación.
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 1310.
 
-Centro nocturno o cabaret es el local para diversión, en donde se expenden bebidas alcohólicas al copeo, cuenten con un conjunto u orquesta permanente, presentando sólo espectáculos autorizados por la Dirección General de Gobierno de los denominados variedades, y espacio para que bailen los concurrentes, siendo optativo dar el servicio de restaurante, el cual podrá funcionar en un horario de las veinte a las tres horas del día siguiente.
+Aprobada la licencia por el Presidente Municipal, se expedirá el documento correspondiente por la Secretaría del H. Ayuntamiento y Dirección General de Gobierno y la Secretaría de Finanzas Públicas, previo pago de las contribuciones municipales. Negada la aprobación del giro correspondiente por el Presidente Municipal, se notificará a la persona solicitante y se dará por concluido el trámite.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2013)</small>
+
+ARTÍCULO 1310 BIS.- Se podrá expedir licencia múltiple, que consiste en que una sola licencia ampare varios giros, cuando la persona física o moral desarrolle en un solo inmueble varias actividades, siempre y cuando éstas sean compatibles entre sí y previo pago de los derechos correspondientes. No se podrán otorgar varias licencias en un mismo inmueble.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2013)</small>
+
+ARTÍCULO 1310 TER.- Las licencias que se expidan para el funcionamiento de un establecimiento mercantil deberán contener lo siguiente:
+
+a) Nombre y datos de la persona titular de la licencia;
+
+b) Ubicación del establecimiento, señalando domicilio completo;
+
+c) Giro autorizado;
+
+d) Horario de funcionamiento;
+
+e) Nombre, denominación o razón social del establecimiento;
+
+f) Vigencia y fecha de refrendo de la licencia;
+
+g) Número de folio progresivo, sello oficial, holograma o marca de seguridad, código de barras y cualquier otro dato que permita su identificación oficial que impida su reproducción;
+
+h) Nombre, cargo y firma de las autoridades que la expidan:
+
+i) Lugar y fecha de expedición: y
+
+j) Cualquier otro dato que disponga la autoridad municipal.
+
+En el caso de reposición de licencias, deberán llevar la leyenda que es copia de original y número progresivo de reposición correspondiente, entregándose sólo a la persona titular de la licencia o al representante legal que se acredite mediante documento notarial.
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 1311.
 
-Discoteca es el lugar que opera con juego de luces y sonido, grabaciones y pista de baile, en ella pueden expenderse bebidas alcohólicas al copeo, de cualquier graduación y podrá funcionar en un horario de las veinte a las tres horas del día siguiente.
+La autoridad municipal competente, no otorgarán licencias o permisos a las personas solicitantes por:
+
+a) Ser persona menor de edad;
+
+b) Haber sido sancionado en forma reiterada por el incumplimiento de las disposiciones establecidas en el presente Libro:
+
+c) Tener sentencia condenatoria por la comisión de delitos dolosos; y
+
+d) Por causa de preservar el orden público y el bienestar general.
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 1312.
 
-Pulquería es el establecimiento dedicado a la venta de pulque para su consumo inmediato, pudiendo funcionar en un horario de las diez a las veinte horas, en ellas tendrán acceso los trovadores y músicos que cuenten con el permiso correspondiente de la autoridad municipal y tengan la autorización del propietario o responsable del establecimiento.
+La expedición de permisos para la realización de eventos artísticos, tradicionales, deportivos, festividades cívicas, ferias, verbenas, eventos especiales u ocasionales, en los que se pretenda vender bebidas alcohólicas, la persona interesada deberá solicitar con un mínimo de tres días hábiles de anticipación a la fecha de realización al evento, cumpliendo con los siguientes requisitos:
 
-### CAPÍTULO VII
+a) Presentar solicitud ante la Dirección de Reglamentación, dirigida a la persona titular de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, en el formato establecido;
 
-De los establecimientos dedicados a la renta de salones para fiestas infantiles, jardines y salones para fiestas y banquetes.
+b) Datos generales de la persona solicitante;
+
+c) Lugar donde se realizará el evento;
+
+d) Especificar la actividad o giro reglamentado que pretende realizar;
+
+e) Anexar croquis que ubique el lugar en el que se va a instalar;
+
+f) Motivo del evento o celebración:
+
+g) Horario pretendido;
+
+h) Calcular el Aforo del lugar, en su caso;
+
+i) Tener contratado para el día del evento, servicio de seguridad pública;
+
+j) Que cumpla con las medidas de seguridad aplicables a la materia; y
+
+k) Los demás que determine y solicite la Dirección de Reglamentación, para el cumplimiento de las disposiciones del presente Libro.
+
+La Dirección de Reglamentación, determinará los casos en que aplicará el inciso i); La Secretaría de Seguridad Pública Municipal determinará el número de integrantes operativos que se requieran para el evento en atención al aforo que se pretende.
+
+Reunidos los requisitos correspondientes, la autoridad municipal tendrá la facultad potestativa para otorgar o negar el permiso correspondiente.
+
+Una vez autorizado el evento, la persona solicitante deberá realizar el pago correspondiente en las cajas recaudadoras autorizadas por la Secretaría de Finanzas Públicas del Municipio de Aguascalientes.
+
+Los lugares en los que se vayan a realizar cualquiera de los eventos a que se refiere este artículo deberán contar con las medidas de seguridad que determine las autoridades competentes de conformidad con las leyes y reglamentos aplicables a la materia.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2013)</small>
+
+ARTÍCULO 1312 BIS.- En todos los establecimientos mercantiles que el Municipio determine expedir licencia de funcionamiento o conceder permiso provisional de funcionamiento, se deberá procurar un correcto orden en los patrones socioculturales de conducta de mujeres y hombres para contrarrestar prejuicios, costumbres y todo tipo de prácticas que se basen en la premisa de la superioridad o inferioridad de cualquiera de los géneros o en los papeles estereotipados para la mujer y el hombre que legitimen o exacerben la discriminación y la violencia contra las mujeres.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE MARZO DE 2013)</small>
+
+### CAPÍTULO VII. De la Renovación de la Licencia
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 1313.
 
-En el caso de los bares, centros nocturnos y discotecas se establecerá el cupo técnico de personas, el cual se incluirá en la licencia respectiva, y cualquier sobrecupo será motivo de sanción.
+Si la persona titular de una licencia regulada en el presente Título, se encuentra en los siguientes supuestos de: robo, extravío o destrucción por cualquier circunstancia, deberá formular denuncia ante la autoridad competente y con la copia certificada de la misma podrá solicitar ante la Secretaría del H. Ayuntamiento y Dirección General de Gobierno la reposición de su licencia original, mediante un escrito, en el cual se señalará bajo protesta de decir verdad el motivo de la solicitud de reposición y las causas que la originaron.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2013)</small>
+
+ARTÍCULO 1313 BIS.- Una vez autorizada la reposición, la persona interesada deberá realizar el pago oportuno que establece la Ley de Ingresos del Municipio de Aguascalientes correspondiente al ejercicio fiscal vigente; al otorgársela deberá ser apercibida e indicarle que en caso de falsedad o mal uso, la autoridad municipal tiene la facultad potestativa de cancelar en definitiva su licencia.
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 1314.
 
-Las tiendas de abarrotes, misceláneas, ultramarinos, minisuper y supermercados, depósitos de cerveza, depósitos de vinos y licores, podrán vender bebidas alcohólicas, previa licencia que expida la Presidencia Municipal por conducto de la Dirección General de Gobierno, únicamente en botella cerrada.
+La autoridad entregará un permiso provisional para que el establecimiento mercantil siga funcionando, hasta que le sea otorgada la copia original de reposición de licencia, la cual deberá llevar la leyenda que es copia del original o reposición de licencia, con su respectivo número progresivo de reposición.
 
-> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2010)</small>
-
-Tienda de convivencia es el establecimiento perteneciente a una cadena comercial o grupo de franquicias local, nacional o internacional, que puede funcionar las veinticuatro horas, durante todos los días del año y expender bebida alcohólicas de cualquier graduación de las nueve a las veintidós horas, cuyo giro comercial sea la venta de artículos diversos de abarrotes, bebidas, dulces, cigarros, enlatados, congelados, conservas, comida rápida que se prepara en el mismo lugar, farmacéuticos básicos y de venta libre, periódicos, revistas, productos de uso doméstico y para la higiene personal, entre otros, teniendo una variedad menor de productos que los supermercados, pudiendo ser proveedor de algunos servicios, tales como cajeros automáticos de bancos o instituciones financieras o pagos diversos a favor de empresas públicas o privadas.
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 1315.
 
-En los establecimientos referidos en el artículo anterior estará prohibido el consumo dentro del establecimiento y su horario de funcionamiento de manera general será de las nueve a las veintidós horas para venta de dichos productos, los giros de abarrotes con venta de cerveza, vinos y licores deberán tener predominantemente abarrotes.
+Cuando se presuma que los hechos revisten carácter delictivo, se procederá a formular denuncia ante la Agencia del Ministerio Público correspondiente.
 
-### CAPÍTULO VIII. De las personas que se dediquen a la venta de revistas y periódicos en estanquillos, kioscos o locales
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE MARZO DE 2013)</small>
+
+### CAPÍTULO VIII. De la Venta Clandestina de Bebidas Alcohólicas
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 1316.
 
-Los restaurantes, loncherías y cenadurías, previa licencia, podrán expender bebidas alcohólicas de cualquier graduación sólo con alimentos, en un horario de las siete a las dos horas del día siguiente (sic) los primeros, las loncherías de nueve a veintiuna horas y las cenadurías de dieciocho a las dos horas del día siguiente.
+Para la renovación de la licencia, la persona titular deberá presentar los siguientes requisitos:
 
-En las fondas, loncherías, cenadurías y en los restaurantes, será potestativo del propietario el autorizar acceso a los músicos y trovadores.
+I. Acudir la persona titular y/o su representante legal que lo acredite mediante documento notarial y suscribir la solicitud preestablecida por la Dirección de Reglamentación;
 
-### CAPÍTULO IX. De la Actividad Musical en Vía Pública
+II. Credencial o identificación oficial con fotografía vigente;
 
-> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2009)</small>
+III. Anexar la licencia original contribuyente del año anterior o en el supuesto de extravío o robo, presentar el acta informativa correspondiente expedida por el Agente del Ministerio Público;
+
+IV. Realizar el pago de los derechos oportunos, conforme lo establezca la Ley de Ingresos del Municipio de Aguascalientes correspondiente al año vigente;
+
+V. Haber cumplido satisfactoriamente con todas las observaciones o mejoras solicitadas por la autoridad municipal competente según sea el caso;
+
+VI. Copia de la constancia de Alineamiento y Compatibilidad Urbanística, en su caso; y
+
+VII. Que el inmueble y/o la persona solicitante, estén al corriente con sus obligaciones fiscales con el Municipio de Aguascalientes.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2013)</small>
+
+ARTÍCULO 1316 BIS.- En caso de no cumplir con los requisitos establecidos en el artículo anterior y/o por causa de orden público e interés general, según los antecedentes del establecimiento mercantil la autoridad podrá negar la renovación de la licencia, procediendo a su cancelación.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2013)</small>
+
+ARTÍCULO 1316 TER.- Una vez presentados todos los requisitos y realizado el pago, la Secretaría de Finanzas Públicas del Municipio de Aguascalientes, procederá a la expedición de la renovación de la licencia.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE MARZO DE 2013)</small>
+
+### CAPÍTULO IX. Del Aseguramiento
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 1317.
 
-Los centros sociales, clubes deportivos, de servicio y similares, previa licencia, podrán habilitar una área especial para cantina, en el horario que para la misma señala este Código.
+Se realizará venta y/o consumo en forma clandestina de bebidas alcohólicas, cuando se realicen por cualquier medio actos o conductas furtivas, tendientes a evitar la regulación de la autoridad y que contravienen horarios, pagos de derechos, licencia o permisos y demás disposiciones aplicables en Libro Séptimo del presente Código.
 
-### CAPÍTULO X. De los Espectáculos Públicos
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2013)</small>
+
+ARTÍCULO 1317 BIS.- Para los efectos del presente Código, la venta y/o consumo en forma clandestina se realizará en los siguientes supuestos:
+
+I. Vender y/o permitir el consumo de bebidas alcohólicas sin contar con permiso expedido por la autoridad competente, en los términos de las leyes aplicables;
+
+II. Permitir que en un establecimiento o lugar se vendan y/o consuman bebidas alcohólicas en días y horarios prohibidos; y
+
+III. Vender bebidas alcohólicas a personas menores de edad y/o que le permita el consumo de éstas dentro del establecimiento o lugar.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2013)</small>
+
+ARTÍCULO 1317 TER.- Para efectos de imponer las sanciones del presente capítulo se atenderá a lo dispuesto por los artículos 1555, 1556, 1557, 1573 y 1587 del presente Código y la autoridad municipal competente podrá duplicar las sanciones previstas por estos numerales.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE MARZO DE 2013)</small>
+
+### CAPÍTULO X. De las Obligaciones y Prohibiciones
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 1318.
 
-Las cafeterías que tengan autorizado en su giro la música viva, deberán contar con licencia de funcionamiento y sujetarse a un horario de las nueve a las veinticuatro horas.
+El aseguramiento que realice la autoridad municipal, derivado de la contravención a las disposiciones jurídicas aplicables y con motivo de las visitas de verificación, tendrán por objeto poner bajo el debido resguardo de ésta, los bienes relacionados con la acción u omisión de las conductas que originaron la contravención a las disposiciones jurídicas aplicables y en consecuencia la imposición de la medida de seguridad, con la finalidad de preservar el orden público, la salud y la integridad de las personas.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2013)</small>
+
+ARTÍCULO 1318 BIS.- La Secretaría del H Ayuntamiento y Dirección General de Gobierno, establecerá un lugar determinado, el cual deberá reunir las características físicas y de seguridad adecuadas, para almacenar los bienes asegurados.
+
+Asimismo, nombrará una persona responsable del almacén, quien llevará un registro e inventario detallado de las mercancías que ingresen, cotejándolo debidamente con el acta de verificación en la cual se detalla el aseguramiento.
+
+De igual manera se registrará la salida o destino final de los bienes asegurados, debiendo enviar un informe a la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, semanalmente o en cualquier momento en que le sea requerido.
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 1319.
 
-En los bailes públicos y ferias, la Presidencia Municipal podrá otorgar, por conducto de la Dirección General de Gobierno, autorización para la venta y consumo de bebidas alcohólicas, de cualquier graduación, con las limitaciones que se establezcan en el permiso respectivo.
+Una vez cumplida la sanción impuesta por quien cometió la infracción, los bienes asegurados serán devueltos a la persona titular de éstos, debiéndose de realizar mediante un acta circunstanciada en la que conste la entrega de los bienes que será firmada de conformidad por la persona interesada y quien realiza la entrega. Se exceptúa de lo anterior los aseguramientos realizados por motivo de clandestinaje.
+
+Si la autoridad municipal recibe quejas, reclamaciones o anomalías en cuanto al manejo y resguardo de los bienes asegurados, se procederá de conformidad con la Ley de Responsabilidades de los Servidores Públicos para el Estado de Aguascalientes o en su caso se dará vista al Agente del Ministerio Público.
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 1320.
 
-En los espectáculos públicos, la Presidencia Municipal podrá permitir, por conducto de la Dirección General de Gobierno, la venta de bebidas alcohólicas, previa licencia, en envase de cartón, plástico o en cualquier otro material que sea reciclable, y que no represente peligro para los asistentes o al medio ambiente.
+Todas las bebidas alcohólicas aseguradas con motivo de clandestinaje, no serán devueltas a sus titulares, siendo su destino final la destrucción total mediante el procedimiento designado en el presente capítulo y con los criterios o disposiciones administrativas que determine la Contraloría Municipal.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2013)</small>
+
+ARTÍCULO 1320 BIS.- Los bienes asegurados que no sean reclamados en el período de treinta días naturales a partir de la fecha en que fueron asegurados, se considerarán abandonados y se procederá a su destrucción como destino final. El Municipio no le podrá otorgar otro destino o uso a los bienes asegurados, previstos en el presente Título.
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 1321.
 
-Queda prohibido, en cualquiera de los establecimientos referidos en este capítulo, que los meseros o empleados alternen con los clientes, en las mesas o lugares interiores de los establecimientos, se entiende por alternancia el que los empleados compartan la mesa, bebida o comida con los clientes.
+El proceso a seguir para la destrucción de los bienes asegurados como destino final se realizará de la siguiente manera:
 
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2008)</small>
+I. La destrucción de bienes asegurados se realizará de manera trimestral o cuando lo determine la autoridad municipal competente, previo cotejo del inventario realizado por la autoridad encargada y aprobado por la Secretaría del H. Ayuntamiento y Dirección General de Gobierno y la Contraloría Municipal;
 
-### CAPÍTULO I. Disposiciones Generales
+II. La Secretaría del H. Ayuntamiento y Dirección General de Gobierno, destinará un lugar para la destrucción de los bienes asegurados;
+
+III. Se elaborará acta circunstanciada, en la que se haga constar los bienes asegurados que se van a destruir, la cual deberán firmar las autoridades municipales que asistan;
+
+IV. La destrucción se deberá realizar en presencia de:
+
+a) El Presidente Municipal o la persona que lo represente para tal efecto;
+
+b) La Comisión Permanente de Control Reglamentario y Espectáculos;
+
+c) Titular de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno;
+
+d) Titular de la Contraloría Municipal;
+
+e) Titular de la Dirección de Reglamentación;
+
+f) Titular de la Coordinación General de Verificación Única Administrativa;
+
+g) Responsable del almacén aseguramientos; y
+
+h) Podrá solicitarse la presencia de un Notario Público.
+
+V. Se anexará al acta circunstanciada las fotografías, el video o cualquier otro medio probatorio, que se registre del evento para quedar como prueba de la destrucción realizada.
+
+El proceso de destrucción se realizará independientemente de la asistencia de las autoridades señaladas anteriormente, con excepción del Presidente Municipal y/o su representante, titular de la Controlaría, titular de la Coordinación General de Verificación Única Administrativa y la persona encargada del almacén de aseguramientos.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE MARZO DE 2013)</small>
+
+### CAPÍTULO XI. De las Farmacias, Droguerías, Tlapalerías o Similares
 
 ###### ARTÍCULO 1322.
 
-La Dirección General de Gobierno podrá autorizar la ampliación de horario los días jueves, viernes y sábado, así como en fechas conmemorativas o celebraciones especiales, hasta por dos horas más, previo pago de los derechos correspondientes. Se exceptúa de lo anterior los casos en que se decrete Ley Seca. Así mismo, se podrá autorizar que farmacias, supermercados y similares funcionen las veinticuatro horas, suspendiendo la venta de bebidas alcohólicas en los horarios señalados en este capítulo.
+Son obligaciones de las personas titulares de las licencias o permisos a que se refiere el presente Título las siguientes:
 
-### CAPÍTULO II. De los Mercados y las Actividades Comerciales
+I. Tener licencia o permiso expedido por la autoridad municipal competente y cumplir con los requisitos y ordenamientos jurídicos aplicables en materia de salud y seguridad para su funcionamiento;
+
+II. Tener a la vista y mostrar en toda verificación la licencia original o copia certificada del establecimiento mercantil o permiso original que le otorgó la Secretaría del H. Ayuntamiento y Dirección General de Gobierno y/o Secretaría de Finanzas Públicas;
+
+III. Deberán colocar anuncios dentro del establecimiento mercantil en lugares visibles, que contengan la leyenda de: "EL ABUSO EN EL CONSUMO DEL ALCOHOL ES NOCIVO PARA LA SALUD", atendiendo a los criterios de medidas y colocación que establezca la autoridad municipal correspondiente;
+
+IV. Pagar y estar al corriente de todas las contribuciones municipales a que este obligado a realizar la persona titular de la licencia y/o permiso;
+
+V. Destinar el local exclusivamente al giro o giros señalados en la licencia o permiso;
+
+VI. Respetar y cumplir el horario autorizado por este Código;
+
+VII. Colocar en lugares visibles letreros que indiquen al público las áreas de trabajo, zonas restringidas o de peligro, salidas de emergencia o siniestros, áreas de fumar o su prohibición y servicios sanitarios;
+
+VIII. Evitar la discriminación, por origen étnico, género, condición social, religión o preferencia para la entrada a los establecimientos mercantiles;
+
+IX. Contar con las instalaciones adecuadas para el acceso y libre tránsito de personas con discapacidad, cumpliendo las disposiciones de la normatividad aplicable;
+
+X. Permitir el libre e inmediato acceso de los verificadores adscritos a la Coordinación General de Verificación Única Administrativa, para la realización de sus funciones. Quienes obstaculicen la entrada o inspección de los verificadores serán detenidos por elementos de la Secretaría de Seguridad Pública y puestos a disposición de un Juez Municipal;
+
+XI. Retirar a las personas que se encuentren en notorio estado de ebriedad dentro del establecimiento mercantil y que no guarden compostura o alteren de manera grave el orden público; en caso necesario se podrán solicitar el auxilio de la fuerza pública;
+
+XII. Solicitar previo al acceso, credencial o identificación oficial con fotografía a personas que se presuma son menores de edad y en presencia de su titular constatarlo y realizar su devolución inmediata sin dilación alguna;
+
+XIII. Renovar anualmente, a más tardar el treinta y uno de Marzo, el permiso o licencia correspondiente, cumpliendo con las obligaciones y requisitos que les señala este Código;
+
+XIV. Colaborar con las autoridades municipales para la realización de eventos, programas, campañas de difusión e información para la prevención del abuso en el consumo de bebidas alcohólicas;
+
+XV. Vigilar la seguridad de su establecimiento mercantil, no permitiendo riñas dentro ni fuera del acceso inmediato a su establecimiento;
+
+XVI. Atender y solucionar con los medios a su alcance, todas las observaciones que realice la autoridad municipal, por motivo de quejas y/o denuncias ciudadanas o bien derivadas de la visita de verificación en relación a la cuestión operativa de su establecimiento;
+
+XVII. Solicitar en la Dirección de Reglamentación, el permiso correspondiente para aquellos establecimientos o lugares que no cuenten con la autorización de tener música en vivo, cuando se realice de manera temporal o continua;
+
+XVIII. Solicitar el permiso correspondientes (sic) en la Dirección de Reglamentación, para tener karaoke, sinfonola, rockola o similares; y
+
+XIX. Respetar cualquiera de las limitaciones que le impone este Título, al giro de que se trate, así como las demás que se desprendan de la Ley o que determine la autoridad municipal.
+
+Todo Centro Comercial, tiene la obligación de contar con el servicio de seguridad; por lo cual deberá contratar el servicio de seguridad privada y/o pagar los derechos por los servicios que presta la Secretaría de Seguridad Pública del Municipio de Aguascalientes; por lo cual deberá tener el número suficiente de integrantes operativos y en su caso de los vehículos necesarios para otorgar el servicio de vigilancia, garantizando la seguridad de las personas y de sus bienes al interior del inmueble.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2013)</small>
+
+ARTÍCULO 1322 BIS.- Son prohibiciones de las personas titulares de las licencias o permisos a que se refiere el presente Título las siguientes:
+
+I. Funcionar en dos establecimientos mercantiles con el mismo número de folio de licencia o permiso;
+
+II. Realizar funciones de operación en otro domicilio o lugar diferente al autorizado en la licencia;
+
+III. Realizar venta y/o permitir el consumo clandestino de bebidas alcohólicas;
+
+IV. Permitir el acceso al establecimiento mercantil a personas con notorio estado de ebriedad o bajo el influjo de estupefacientes;
+
+V. Permitir la entrada de personas menores de edad a los establecimientos mercantiles con venta y consumo de bebidas alcohólicas como giro principal, con excepción de los casos mencionados en el presente Código, donde se permita su acceso en compañía de sus padres y/o tutores debidamente acreditado;
+
+VI. Permitir el acceso a personas armadas, con excepción de los integrantes operativos de los cuerpos de seguridad pública, que por razones de servicio deberán ingresar a los establecimientos en forma inmediata y sin dilación alguna;
+
+VII. Permitir dentro del establecimiento mercantil las conductas que tiendan a la mendicidad, la alternancia y la prostitución;
+
+VIII. Permitir la celebración de apuestas de cualquier tipo, dentro del establecimiento mercantil;
+
+IX. Permitir el ingreso o permanencia de la clientela en el establecimiento mercantil o lugar después del horario autorizado;
+
+X. Utilizar la vía pública para la realización de las actividades propias del giro, salvo autorización de la autoridad municipal competente;
+
+XI. Permitir el consumo de bebidas alcohólicas en los enseres de los establecimientos mercantiles colocados en vía pública, salvo la autorización de la Dirección de Reglamentación;
+
+XII. Realizar venta o permitir consumo de bebidas alcohólicas a personas con uniforme escolar, policías o militares uniformados; y
+
+XIII. Dar mal uso a los colores y símbolos nacionales así como retratos o estatuas de héroes nacionales, en la decoración de sus establecimientos mercantiles.
+
+> <small>(ADICIONADO [N. DE E. REUBICADA SU DENOMINACIÓN ANTES EN EL CAPÍTULO III], P.O. 4 DE MARZO DE 2013)</small>
+
+### CAPÍTULO XII. De los Hoteles, Moteles, Casas de Huéspedes, Mesones y Otros Establecimientos Similares
 
 ###### ARTÍCULO 1323.
 
 Los lugares destinados a la venta de sustancias de efecto psicotrópico se clasifican en: ferreterías, supermercados, tlapalerías, empresas industriales, farmacias, boticas, droguerías y cualquier establecimiento similar que expenda cualquiera de los productos señalados en el presente libro, quedando prohibida su venta a menores de edad.
 
-Deberán llevar un libro de registro en el que señalen: nombre, domicilio, edad, oficio y copia del documento con el que se identificó el comprador, así como la descripción y cantidad del producto que se le vendió y la fecha de venta.
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
+
+Deberán llevar un libro de registro en el que señalen los datos del comprador siendo: nombre, domicilio, edad, oficio y copia del documento vigente con el que se identificó la persona que realizó la compra, así como la descripción y cantidad del producto que se le vendió y la fecha de venta.
 
 Para efecto de garantizar el cumplimiento de las disposiciones en materia de comercialización y destino de sustancias de efecto psicotrópico y con el propósito de lograr una adecuada coordinación entre las autoridades municipales y los titulares de las licencias de estos establecimientos, deberán observar lo siguiente:
 
-I. Comprobar y remitir mensualmente a la Dirección General de Gobierno, mediante documentación fehaciente, especificando la línea o líneas de productos, la cantidad de compra que realizan los establecimientos para su venta de sustancias de efecto psicotrópico.
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2013)</small>
 
-La información requerida en las fracciones anteriores es con el fin de elaborar una estadística que permita realizar un proceso de planeación para el control, destino y cantidades de sustancias de efecto psicotrópico que circulan en el Municipio.
+I. Comprobar y remitir semestralmente a la Dirección General de Gobierno, mediante documentación fehaciente, especificando la línea o líneas de productos, la cantidad de compra que realizan los establecimientos para su venta de sustancias de efecto psicotrópico;
 
-II. Remitir mensualmente a la Dirección General de Gobierno, el libro de registro con las identificaciones correspondientes, para verificar el destino y cantidad de venta.
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2013)</small>
+
+II. Remitir semestralmente a la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, el libro de registro con las identificaciones correspondientes, para verificar el destino y cantidad de venta;
 
 III. Cuando se trate de personas físicas que por prescripción médica requieran del uso de estas sustancias, agregaran al libro de registro además de lo establecido, el comprobante o documento del profesional que prescribió dichas sustancias.
 
-IV. Cuando se trate de personas físicas que requieran del uso de dichas sustancias, acreditarán con la credencial correspondiente su actividad y solamente se le podrá vender como máximo, la cantidad de una sustancia líquida o sólida que no rebase un kilo o litro; cuando acredite que debido a su actividad requiere de mayor cantidad, comprobará mediante una constancia que contenga el nombre, domicilio y firma, que expida ya sea la persona física o moral que se acredite legalmente, solicitante del servicio o actividad, para lo cual efectuará una estimación de los productos que utilizará para la realización de la misma y que se harán constar en el libro correspondiente.
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2013)</small>
+
+IV. Cuando se trate de personas físicas que requieran del uso de dichas sustancias, acreditarán con la credencial vigente su actividad preponderante y solamente se le podrá vender como máximo, la cantidad de una sustancia líquida o sólida que no rebase un kilo o litro; cuando acredite que debido a su actividad requiere de mayor cantidad, comprobará mediante una constancia que contenga el nombre, domicilio y firma, que expida ya sea la persona física o moral que se acredite legalmente, solicitante del servicio o actividad, para lo cual efectuará una estimación de los productos que utilizará para la realización de la misma y que se harán constar en el libro correspondiente; y
 
 V. Cuando sea persona moral la que requiera éstos productos, para el desarrollo de su actividad, lo solicitará mediante constancia que contenga los datos específicos de la misma, así como copia certificada del instrumento mediante el cual acredite su personalidad, en la que se determine, así mismo la cantidad de sustancias que requiera, y contendrá la firma del solicitante.
 
-La información requerida en las fracciones anteriores es con el fin de elaborar una estadistica que permita realizar un proceso de planeación para el control, destino y cantidades de sustancias de efecto sicotrópico que circulan en el Municipio.
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
+
+La información requerida en las fracciones anteriores, tiene la finalidad de elaborar una estadística que permita realizar un proceso de planeación para el control, destino y cantidades de sustancias de efecto psicotrópico que circulan en el Municipio.
 
 ###### ARTÍCULO 1324.
 
@@ -17057,31 +17995,43 @@ VIII. Tres representantes que de común acuerdo sean nombrados por los titulares
 
 Se podrá invitar a las sesiones del Consejo, a los representantes de instituciones públicas federales o estatales.
 
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
+
 ###### ARTÍCULO 1326.
 
-Todo cambio de razón social o denominación, de domicilio, cesión de derechos, de productos o, en su caso, la suspensión de actividades, trabajos o servicios, deberán ser comunicados a la Dirección General de Gobierno, en un plazo no mayor de treinta días hábiles a partir de la fecha en que se hubiese realizado.
+Todo cambio de razón social o denominación, de domicilio, cesión de derechos, de productos o en su caso, la suspensión de actividades, trabajos o servicios, deberán ser comunicados a la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, en un plazo no mayor de tres días hábiles anteriores a la fecha en que se pretende realizar.
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 1327.
 
-Queda prohibida la venta de sustancias de efecto psicotrópico a menores de edad, a personas físicas o morales que no acrediten el trabajo o actividad en términos de este título.
+Queda prohibida la venta de sustancias de efecto psicotrópico a personas menores de edad, a personas físicas o morales que no acrediten el trabajo o actividad en términos de este capítulo.
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 1328.
 
-Queda prohibido que los desechos o residuos de las sustancias sean vertidos en los drenajes, ríos, arroyos, acueductos, corrientes o canales, en todo caso deberán ser tratados y cumplir con las disposiciones legales en materia de contaminación.
+Queda prohibido que los desechos o residuos de las sustancias sean vertidos en los drenajes, ríos, arroyos, acueductos, corrientes o canales, en todo caso deberán ser tratados y cumplir con las disposiciones legales en materia de equilibrio ecológico y medio ambiente.
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 1329.
 
-La Dirección General de Gobierno, podrá formular un padrón de farmacias para establecer los turnos relativos al servicio de veinticuatro horas del día, que serán ininterrumpidos por los días del año, al cuál están obligados todos los establecimientos respectivos.
+La Secretaría del H. Ayuntamiento y Dirección General de Gobierno, podrá formular un padrón de farmacias para establecer los turnos relativos al servicio de veinticuatro horas del día, ininterrumpidos en todos los días del año, al cual están obligados todos los establecimientos respectivos. De igual manera, los establecimientos que se dediquen a la venta de sustancias psicotrópicas.
 
-De igual manera, los establecimientos que se dediquen a la venta de sustancias psicotrópicas.
+> <small>(ADICIONADO [N. DE E. REUBICADA SU DENOMINACIÓN ANTES EN EL CAPÍTULO IV], P.O. 4 DE MARZO DE 2013)</small>
 
-### CAPÍTULO III. De las Autoridades que Reglamentan el Comercio en la Vía Pública
+### CAPÍTULO XIII. De los Billares, Boliches, Máquinas de Juegos, Videojuegos, Juegos Electrónicos y Renta de Equipos de Cómputo
 
 ###### ARTÍCULO 1330.
 
 Los administradores o encargados de hoteles, moteles, casa de huéspedes, mesones y otros establecimientos similares, tienen la obligación de requerir a todo huésped el equipaje correspondiente y sus datos personales que deberán anotarse en el libro de registro e independientemente de lo anterior, se prohíbe el ingreso de parejas menores de edad o en su caso de personas con uniforme escolar sin acompañarse de sus padres o familiares. La violación a las obligaciones anteriores será materia de sanción, en los términos de este Código.
 
-### CAPÍTULO IV. Disposiciones Especiales para los Tianguistas
+> <small>(ADICIONADO [N. DE E. REUBICADA SU DENOMINACIÓN ANTES EN EL CAPÍTULO V], P.O. 4 DE MARZO DE 2013)</small>
+
+### CAPÍTULO XIV. De las Salas de Cine y los Establecimientos Dedicados a la Venta, Renta y/o Intercambio de Fonogramas o Videogramas
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 1331.
 
@@ -17095,7 +18045,9 @@ I. Contar con licencia que expida la autoridad municipal y colocarla en lugar vi
 
 II. Cumplir con las normas de higiene, ventilación e iluminación, así como las demás normas de protección civil.
 
-III. Prohibir el consumo y venta de bebidas alcohólicas, tabaco y demás sustancias no permitidas por la Ley en el establecimiento.
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2013)</small>
+
+III. Prohibir el consumo y venta de bebidas alcohólicas, tabaco y demás sustancias no permitidas por la Ley en el establecimiento mercantil.
 
 IV. Abstenerse de ofrecer al público el uso de máquinas o programas que presenten imágenes de actos sexuales, desnudos y semidesnudos eróticos, así como aquellos que promuevan la falta de respeto a las autoridades mexicanas, la violación de los derechos humanos y la discriminación de cualquier tipo.
 
@@ -17115,9 +18067,11 @@ XI. Colocar en lugar visible mensajes en el que se señalen las prohibiciones qu
 
 XII. Cumplir con las disposiciones que establece el presente Código y demás que resulten aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2013)</small>
+
 ###### ARTÍCULO 1333.
 
-Los establecimientos dedicados a la renta de equipos de cómputo para el uso de Internet y cualquier programa computacional, deberán contar con licencia especial de funcionamiento y deben cumplir con las siguientes obligaciones:
+Los establecimientos mercantiles dedicados a la renta de equipos de cómputo para el uso de Internet y cualquier programa computacional, deberán contar con licencia especial de funcionamiento y deben cumplir con las siguientes obligaciones:
 
 I. Sujetarse a un horario de las siete a las veintitrés horas.
 
@@ -17137,11 +18091,31 @@ VIII. Las demás que determine la autoridad.
 
 Los requisitos para el otorgamiento de esta licencia de carácter especial serán: uso del suelo que emitirá la autoridad correspondiente, identificación oficial con fotografía, contrato de arrendamiento en caso de no ser propietario u otro documento que acredite la legal posesión del mismo, comprobante del domicilio particular actual del solicitante, fotografías del exterior y de las instalaciones del negocio, constancia del número de equipos de cómputo que se registren ante la Dirección de Reglamentación.
 
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2013)</small>
+
+ARTÍCULO 1333 BIS.- Los requisitos para el otorgamiento de esta licencia de carácter especial son los siguientes:
+
+I. Uso del suelo que emitirá la autoridad correspondiente;
+
+II. Identificación oficial con fotografía;
+
+III. Contrato de arrendamiento en caso de no ser propietario u otro documento que acredite la legal posesión del mismo;
+
+IV. Comprobante del domicilio particular actual del solicitante;
+
+V. Comprobar que cuentan con contrato de suministro de Internet;
+
+VI. Fotografías del exterior y de las instalaciones del negocio; y
+
+VII. Constancia del número de equipos de cómputo que se registren ante la Dirección de Reglamentación.
+
 ###### ARTÍCULO 1334.
 
 Los establecimientos dedicados a la renta de equipos de cómputo para Internet o programas computacionales, no podrán alquilar éstos para el uso de video-juegos; en todo caso deberán solicitar licencia reglamentada para renta de maquinas de video-juegos y sujetarse a lo establecido en el artículo 1332 del presente Código.
 
-### CAPÍTULO V. De los Permisos para el Comercio en la Vía Pública
+> <small>(ADICIONADO [N. DE E. REFORMADA Y REUBICADA SU DENOMINACIÓN ANTES EN EL CAPÍTULO VI], P.O. 4 DE MARZO DE 2013)</small>
+
+### CAPÍTULO XV. De los Establecimientos Dedicados a la Renta de Salones Para Fiestas Infantiles, Jardines y Salones Para Fiestas y Banquetes
 
 ###### ARTÍCULO 1335.
 
@@ -17173,25 +18147,35 @@ BIS.- Los establecimientos dedicados a la venta, renta y/o intercambio de fonogr
 
 En cualquier momento, la Dirección de Reglamentación podrá solicitar el auxilio de la Secretaría de Seguridad Pública para la realización de las diligencias en donde se impongan y ejecuten las sanciones previstas en el párrafo anterior.
 
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
+
 ###### ARTÍCULO 1336.
 
-Las salas de cine deberán contar con licencia vigente, y permitir la entrada de las personas de acuerdo a la edad según la clasificación de las películas. Deberán además anunciar la clasificación de cada película que exhiban.
+Las salas de cine deberán contar con licencia vigente, y permitir la entrada de las personas de acuerdo a la edad según la clasificación de las películas, además deberán anunciar la clasificación de cada película que exhiban. Los complejos cinematográficos que tengan autorizada la venta de bebidas alcohólicas, deberán abstenerse de vender o permitir el consumo a los menores de edad y fuera del área destinada para tal fin.
 
-### CAPÍTULO VI. De la Expedición de Permisos para el Comercio en la Vía Pública
+> <small>(ADICIONADO [N. DE E. REUBICADA SU DENOMINACIÓN ANTES EN EL CAPÍTULO VII], P.O. 4 DE MARZO DE 2013)</small>
+
+### CAPÍTULO XVI. De Las Personas que se Dediquen a La Venta de "Revistas y Periódicos en Estanquillos, Kioscos o Locales
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 1337.
 
 Los establecimientos dedicados a la renta de salones para fiestas infantiles, jardines y salones para fiestas y banquetes, deberán contar con licencia para funcionamiento y sujetarse a un horario, los dos primeros de las ocho a las veintidós horas, el tercero con un horario de las ocho horas a las dos horas del día siguiente. En los salones para fiestas infantiles no se permitirá la venta o consumo de bebidas alcohólicas. Los dueños de estos establecimientos no tendrán que solicitar permiso cada vez que haya un evento, pero sí deberán de dar aviso por escrito a la Dirección General de Gobierno con un mínimo de tres días hábiles antes del evento por escrito deberán evitar que el ruido ocasionado rebase los límites permitidos por la Norma Oficial Mexicana respectiva.
 
-### CAPÍTULO VII. Derechos y Obligaciones de los Comerciantes en la Vía Pública
+> <small>(ADICIONADO [N. DE E. REUBICADA SU DENOMINACIÓN ANTES EN EL CAPÍTULO VIII], P.O. 4 DE MARZO DE 2013)</small>
 
-###### ARTÍCULO 1338.
-
-Las personas que se dediquen a la venta de revistas y periódicos en estanquillos, kioscos o locales, deberán exhibir las revistas con contenido señalado para adultos en los lugares menos visibles, y limitar su venta a mayores de dieciocho años.
+### CAPÍTULO XVII. De la Actividad Musical en Vía Pública
 
 > <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2009)</small>
 
-### CAPÍTULO VIII. De los aseadores de calzado y vehículos en la vía pública
+###### ARTÍCULO 1338.
+
+Las personas que se dediquen a la venta de revistas y periódicos en estanquillos, kioscos o locales, deberán exhibir las revistas con contenido señalado para adultos en los lugares menos visibles y prohibir la venta de estas revistas a menores de edad.
+
+> <small>(ADICIONADO [N. DE E. REUBICADA SU DENOMINACIÓN ANTES EN EL CAPÍTULO IX], P.O. 4 DE MARZO DE 2013)</small>
+
+### CAPÍTULO XVIII. De los Espectáculos Públicos
 
 ###### ARTÍCULO 1339.
 
@@ -17355,15 +18339,19 @@ Será potestativo del propietario de cualquier establecimiento, en cualquiera de
 
 Será potestativo del propietario de cualquier establecimiento, mientras dure la actuación de los ejecutantes de actividades musicales, apagar los aparatos electrónicos musicales que operen en el local, así como prestar todas las facilidades para el desarrollo de la actividad musical.
 
-### CAPÍTULO IX. De los Estacionamientos y Pensiones
+> <small>(ADICIONADO [N. DE E. REUBICADA SU DENOMINACIÓN ANTES EN EL CAPÍTULO X], P.O. 4 DE MARZO DE 2013)</small>
+
+### CAPÍTULO I. Disposiciones Generales
 
 ###### ARTÍCULO 1348.
 
 Se entiende por espectáculo público todo evento de carácter, musical, cultural, o de cualquier otro tipo dirigido a la diversión o entretenimiento del público en general.
 
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
+
 ###### ARTÍCULO 1349.
 
-La Dirección General de Gobierno, previo cumplimiento de los requisitos que establece este Código, autorizará los espectáculos públicos y los precios de entrada, de acuerdo con la categoría de los mismos y la calidad de los locales, a fin de proteger el interés público.
+La Secretaría del H. Ayuntamiento y Dirección General de Gobierno, previo cumplimiento de los requisitos que establece este Código, autorizará los espectáculos públicos y los precios de entrada, de acuerdo con la categoría de los mismos y la calidad de los locales, a fin de proteger el interés público.
 
 ###### ARTÍCULO 1350.
 
@@ -17381,9 +18369,13 @@ Todo centro de espectáculos que funcione en espacios cerrados, deberá contar c
 
 Se requiere permiso para la realización de todo tipo de espectáculos públicos, debiendo respetar los niveles máximos de ruidos permitidos por la Norma Oficial Mexicana correspondiente.
 
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
+
 ###### ARTÍCULO 1354.
 
-La Dirección General de Gobierno podrá suspender en cualquier momento una diversión pública, si se llegase a alterar el orden, se pusiera en peligro la seguridad de los asistentes o no se respetaran las limitaciones que establece este Código o las que se establecieran al espectáculo de que se trate.
+La Secretaría del H. Ayuntamiento y Dirección General de Gobierno podrá suspender en cualquier momento un espectáculo público, si se llegase a alterar el orden, se pusiera en peligro la seguridad de los asistentes o no se respetaran las limitaciones que establece este Código o las que se establecieran al espectáculo de que se trate.
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 1355.
 
@@ -17391,7 +18383,7 @@ Los espectadores que originen falsas alarmas infundiendo pánico en el público 
 
 ## TÍTULO SEGUNDO. DE LOS MERCADOS, ESTACIONAMIENTOS, COMERCIO Y OTRAS ACTIVIDADES EN LA VÍA PÚBLICA
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO II. De los Mercados y las Actividades Comerciales
 
 ###### ARTÍCULO 1356.
 
@@ -17491,7 +18483,7 @@ XIV. Local: Lugar o espacio asignado al titular de una licencia dentro del merca
 
 XV. Zonificación de Giros: Agrupamiento de locatarios que en un área del mercado comercialicen productos o mercancías similares.
 
-### CAPITULO II. De la Autoridad
+### CAPÍTULO III. De las Autoridades que Reglamentan el Comercio en la Vía Pública
 
 ###### ARTÍCULO 1359.
 
@@ -17653,7 +18645,7 @@ XII. Venta de artículos prohibidos por la Ley.
 
 XIII. Expender bebidas embriagantes. No se considerarán para los efectos de ésta disposición como bebidas embriagantes el aguamiel, jerez y rompope que se utilice para preparar bebidas típicas, atendiendo los usos y la costumbre.
 
-### CAPÍTULO III. De las Características de las Plazas de Toros
+### CAPÍTULO IV. Disposiciones Especiales para los Tianguistas
 
 ###### ARTÍCULO 1371.
 
@@ -17761,7 +18753,7 @@ VII. Respetar los horarios de carga y descarga de mercancías que determine la a
 
 VIII. En caso de que se utilice un vehículo para el ejercicio del comercio, sus dimensiones no podrán ser mayores a tres metros de largo por un metro cincuenta centímetros de ancho. Sin perjuicio de lo dispuesto anteriormente, el Comité Dictaminador podrá a petición de la dirección o del propio interesado analizar el caso concreto, y de considerarlo viable autorizar una medida superior a la referida anteriormente, valorando en todo momento las circunstancias especiales del caso tales como las molestias que se pudieran generar a los vecinos y la dimensión, tránsito vehicular y peatonal de la vialidad propuesta.
 
-### CAPÍTULO IV. De las Clases de Espectáculos Taurinos y de los Requisitos para su Organización y Celebración
+### CAPÍTULO V. De los Permisos para el Comercio en la Vía Pública
 
 ###### ARTÍCULO 1374.
 
@@ -17861,7 +18853,7 @@ La Coordinación General de Verificación Única Administrativa será la faculta
 
 El H. Ayuntamiento proporcionará la seguridad en los tianguis a través de la Secretaría de Seguridad Pública.
 
-### CAPÍTULO V. Derechos y Obligaciones de los Espectadores
+### CAPÍTULO VI. De la Expedición de Permisos para el Comercio en la Vía Pública
 
 ###### ARTÍCULO 1383.
 
@@ -17871,7 +18863,7 @@ Todos los comerciantes tienen los mismos derechos y obligaciones ante la Direcci
 
 No se podrá otorgar permiso para comerciantes en vía pública en la zona que sea considerada por acuerdo de Cabildo como centro histórico de la Ciudad de Aguascalientes. Para los ya existentes se respetará en sus términos otorgados.
 
-### CAPÍTULO VI. De las Reses de Lidia
+### CAPÍTULO VII. Derechos y Obligaciones de los Comerciantes en la Vía Pública
 
 ###### ARTÍCULO 1385.
 
@@ -17911,7 +18903,7 @@ III. El pago también podrá ser hasta por todo el año calendario sin que ello 
 
 IV. El comerciante queda obligado a exhibir los comprobantes de pago a los verificadores y autoridades municipales acreditados, que así se lo solicite.
 
-### CAPÍTULO VII. De la Cuadra de Caballos
+### CAPÍTULO VIII. De los aseadores de calzado y vehículos en la vía pública
 
 ###### ARTÍCULO 1388.
 
@@ -17995,7 +18987,7 @@ Los puestos que se instalen en un tianguis, en donde se expenda comida, deberán
 
 Su inobservancia será motivo de infracción y en su caso de clausura, hasta en tanto se cumpla con tales disposiciones y las directrices que se implanten como obligatorias, tanto en materia de seguridad por el uso de combustibles, como de higiene y sanidad.
 
-### CAPÍTULO VIII. De los Actos Previos a la Lidia
+### CAPÍTULO IX. De los Estacionamientos y Pensiones
 
 ###### ARTÍCULO 1395.
 
@@ -18047,7 +19039,7 @@ Las violaciones a cualquiera de las obligaciones de este capítulo, se sancionar
 
 El Cabildo determinará y modificará las tarifas a que deberán ajustarse los aseadores de calzado y de vehículos así como los términos de vigencia de éstas.
 
-### CAPÍTULO IX. Del Desarrollo de la Lidia
+### CAPÍTULO I. Disposiciones Generales
 
 ###### ARTÍCULO 1401.
 
@@ -18069,7 +19061,7 @@ El Cabildo determinará y modificará las tarifas a que deberán ajustarse los a
 
 ## TITULO PRIMERO. DE LOS FESTEJOS TAURINOS
 
-### CAPÍTULO X. Del Rejoneo y los Forcados
+### CAPITULO II. De la Autoridad
 
 ###### ARTÍCULO 1405.
 
@@ -18131,7 +19123,7 @@ XXV. Derecho de apartado: la venta anticipada de localidades para una serie de e
 
 XXVI. Salario Mínimo: El Salario Mínimo General Vigente en el Estado de Aguascalientes el día que fuera cometida la infracción.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO III. De las Características de las Plazas de Toros
 
 ###### ARTÍCULO 1407.
 
@@ -18263,7 +19255,7 @@ En las plazas de segunda categoría, que no cuenten con un local adecuado para e
 
 La empresa proveerá de todo lo necesario para el buen funcionamiento de los servicios médicos de plaza.
 
-### CAPÍTULO I. Del Ámbito de Aplicaciones y Principios Generales
+### CAPÍTULO IV. De las Clases de Espectáculos Taurinos y de los Requisitos para su Organización y Celebración
 
 ###### ARTÍCULO 1417.
 
@@ -18335,7 +19327,7 @@ Habrá suficiente número de taquillas o expendios de boletos, en donde en letre
 
 Las plazas de toros, quedarán sujetas por lo que se refiere a sus condiciones de seguridad y buen aspecto, a la estricta vigilancia de las Secretarías de Desarrollo Urbano y Servicios Públicos.
 
-### CAPÍTULO II. De la Nulidad y Eficacia del Acto Administrativo
+### CAPÍTULO V. Derechos y Obligaciones de los Espectadores
 
 ###### ARTÍCULO 1425.
 
@@ -18447,7 +19439,7 @@ La empresa deberá cuidar todos los utensilios que le corresponda proporcionar y
 
 Las empresas deberán acatar todos los acuerdos y disposiciones que dicten las autoridades encargadas de la aplicación de este Código.
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO VI. De las Reses de Lidia
 
 ###### ARTÍCULO 1436.
 
@@ -18493,9 +19485,7 @@ II. Para poder vender el derecho de apartado o abono deberá anunciarse completo
 
 III. Para garantizar las obligaciones que se contraigan con motivo de la celebración de las corridas de una temporada formal con el Municipio, así como el pago de las multas por violaciones a este Código, la empresa por cada temporada serial de corridas, novilladas o festejos, deberá constituir una fianza, misma que será fijada por el Municipio y a favor de la Secretaría de Finanzas Públicas Municipales.
 
-### CAPÍTULO II. De la Capacidad de los Interesados
-
-> <small>(REFORMADO, P.O. 9 DE ENERO DE 2012)</small>
+### CAPÍTULO VII. De la Cuadra de Caballos
 
 ###### ARTÍCULO 1439.
 
@@ -18559,7 +19549,7 @@ Las reses que vayan a lidiarse deberán estar en los corrales de la plaza, cuand
 
 La anterior disposición estará sujeta a las condicionantes que pueda autorizar el Municipio en el supuesto caso que por el número de corridas no existan corrales suficientes.
 
-### CAPÍTULO III. De las Excusas y Recusaciones
+### CAPÍTULO VIII. De los Actos Previos a la Lidia
 
 ###### ARTÍCULO 1446.
 
@@ -18593,7 +19583,7 @@ El estribo derecho de la montadura, deberá estar siempre debidamente forrado a 
 
 Los caballos que resulten con heridas graves a juicio de los Veterinarios, en el curso de la lidia, no podrán continuar participando en ella, atendiéndolos de emergencia los veterinarios de plaza, dependientes del Municipio, cuyos emolumentos dependen de ésta misma, acordes a su nombramiento; la empresa proporcionará los materiales de curación para emergencias, los que estarán disponibles desde veinticuatro horas antes del espectáculo, conforme a la solicitud de los veterinarios. La subsecuente atención será por cuenta del propietario de estos animales, y estarán en libertad de asignar quien los atienda. Los que presenten heridas penetrantes de vientre serán inmediatamente apuntillados por orden de los veterinarios.
 
-### CAPÍTULO IV. De los Términos
+### CAPÍTULO IX. Del Desarrollo de la Lidia
 
 ###### ARTÍCULO 1450.
 
@@ -18673,7 +19663,7 @@ Además de las banderillas ordinarias deberá haber doce pares de banderillas ne
 
 Queda prohibido el uso simultáneo de los colores verde, blanco y rojo en el adorno de las banderillas.
 
-### CAPÍTULO V. De las Notificaciones
+### CAPÍTULO X. Del Rejoneo y los Forcados
 
 ###### ARTÍCULO 1460.
 
@@ -18873,9 +19863,7 @@ Se prohíbe la realización de colectas en cualquier lugar de la plaza durante l
 
 Durante la lidia estará prohibida la venta de cualquier mercancía. Entre una res y otra, será permitida la venta de golosinas y refrescos, los cuales serán servidos en envases reciclables que no sean de vidrio y por ningún motivo se dejará el envase de los mismos a los compradores. Los vendedores únicamente circularán por los pasillos o andadores de la plaza. Se permitirá el alquiler de cojines. Queda prohibido el acceso y venta de periódicos, así como la distribución de volantes y cualquier tipo de propaganda no autorizada.
 
-### CAPÍTULO I. Disposiciones Generales
-
-> <small>(REFORMADO, P.O. 9 DE ENERO DE 2012)</small>
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 1490.
 
@@ -18961,9 +19949,7 @@ Los toros para forcados podrán estar sin puntas, embolados o cubrir los cuernos
 
 ## TÍTULO SEGUNDO. DE LOS ESPECTÁCULOS DEPORTIVOS
 
-### CAPÍTULO II. De la Determinación de Imposición de Sanciones y Medidas de Seguridad
-
-> <small>(REFORMADO, P.O. 9 DE ENERO DE 2012)</small>
+### CAPÍTULO I. Del Ámbito de Aplicaciones y Principios Generales
 
 ###### ARTÍCULO 1505.
 
@@ -18979,7 +19965,7 @@ El inspector autoridad podrá solicitar el auxilio de la fuerza pública cuando 
 
 ## TÍTULO PRIMERO. DEL ACTO ADMINISTRATIVO MUNICIPAL
 
-### CAPÍTULO III. De las Reglas para la Imposición de Sanciones y Medidas de Seguridad
+### CAPÍTULO II. De la Nulidad y Eficacia del Acto Administrativo
 
 ###### ARTÍCULO 1507.
 
@@ -19011,7 +19997,7 @@ IX. Tratándose de actos administrativos que sean recurribles, deberá de hacer 
 
 Para efectos de lo anterior, se consideran autoridades municipales el H. Ayuntamiento, las secretarías, las direcciones, los departamentos y demás órganos que integren la administración pública municipal.
 
-### CAPÍTULO I. De las Sanciones en Materia de Servicios Públicos
+### CAPÍTULO I. Disposiciones Generales
 
 ###### ARTÍCULO 1510.
 
@@ -19037,7 +20023,9 @@ La nulidad será sustanciada conforme a las reglas del procedimiento del recurso
 
 ## TÍTULO SEGUNDO. DEL PROCEDIMIENTO ADMINISTRATIVO
 
-### CAPÍTULO II. De las Sanciones en Materia de Protección Civil
+### CAPÍTULO II. De la Capacidad de los Interesados
+
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2012)</small>
 
 ###### ARTÍCULO 1515.
 
@@ -19097,7 +20085,7 @@ Los interesados de un procedimiento administrativo municipal, en cualquier momen
 
 Los interesados podrán solicitar les sea expedida copia certificada a su costa de los documentos contenidos en algún expediente en el que actúe, salvo lo dispuesto en el artículo anterior.
 
-### CAPÍTULO III. De las Sanciones en Materia de Construcción
+### CAPÍTULO III. De las Excusas y Recusaciones
 
 ###### ARTÍCULO 1524.
 
@@ -19117,7 +20105,7 @@ Cuando en una solicitud, escrito o comunicación fungieren varios interesados, l
 
 En ningún trámite administrativo se admitirá la gestión de negocios.
 
-### CAPÍTULO IV. De las Sanciones en Materia de Actividades Comerciales, Industriales y de Prestación de Servicios
+### CAPÍTULO IV. De los Términos
 
 ###### ARTÍCULO 1527.
 
@@ -19133,7 +20121,7 @@ IV. Tenga relación de servicio, o dependa del servidor por razones laborales.
 
 V. Cualquier otra prevista en el presente Código.
 
-### CAPÍTULO V. De las Sanciones en Materia de Espectáculos Públicos
+### CAPÍTULO V. De las Notificaciones
 
 ###### ARTÍCULO 1528.
 
@@ -19165,7 +20153,9 @@ A falta de términos o plazos establecidos en los reglamentos o actos administra
 
 Los términos fijados en días por disposiciones generales, o por autoridades municipales se computarán sólo los días hábiles.
 
-### CAPÍTULO VI. De las Sanciones en Materia de Espectáculos Taurinos
+### CAPÍTULO I. Disposiciones Generales
+
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2012)</small>
 
 ###### ARTÍCULO 1535.
 
@@ -19231,9 +20221,11 @@ En caso de que alguna notificación no haya sido realizada de conformidad con el
 
 (REUBICADO, P.O. 9 DE ENERO DE 2012)
 
-## TÍTULO TERCERO. DEL PROCEDIMIENTO DE VERIFICACIÓN
+## TITULO TERCERO. DEL PROCEDIMIENTO DE VERIFICACIÓN E INSPECCIÓN
 
-### CAPÍTULO VII. De las Sanciones en Materia de Comercio en la Vía Pública
+### CAPÍTULO II. De la Determinación de Imposición de Sanciones y Medidas de Seguridad
+
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2012)</small>
 
 ###### ARTÍCULO 1542.
 
@@ -19257,7 +20249,7 @@ V. Aplicar las medidas de seguridad que establece este Código y demás disposic
 
 VI. Las demás que señale el presente Código y demás legislación aplicable.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE ENERO DE 2012)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 1543.
 
@@ -19381,7 +20373,7 @@ Cuando se trate de segunda o posterior verificación, para cerciorarse del cumpl
 
 Los verificadores deberán evitar en todo momento el hostigamiento o actos de molestia innecesaria, limitándose a la vigilancia o en su caso el (sic) procedimiento establecido en este capítulo para el ejercicio de su función.
 
-### CAPÍTULO I. Del Recurso de Revisión
+### CAPÍTULO III. De las Reglas para la Imposición de Sanciones y Medidas de Seguridad
 
 ###### ARTÍCULO 1552.
 
@@ -19403,7 +20395,7 @@ En el supuesto de que los verificadores detecten actividades contrarias y violat
 
 En caso de clausura provisional como medida de seguridad, esta podrá prolongarse, hasta que sean cubiertas las sanciones que importen cantidad liquida.
 
-### CAPÍTULO II. De la Suspensión del Acto
+### CAPÍTULO I. De las Sanciones en Materia de Servicios Públicos
 
 ###### ARTÍCULO 1555.
 
@@ -19416,6 +20408,10 @@ II La capacidad económica del infractor.
 III. La magnitud del daño ocasionado.
 
 IV. Naturaleza y tipo del giro o actividad del establecimiento o del infractor.
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2013)</small>
+
+V. Analizar los hechos imputados y determinar sobre la procedencia o improcedencia de la infracción; (sic)
 
 ###### ARTÍCULO 1556.
 
@@ -19525,9 +20521,11 @@ e) Usar como combustible cualquier tipo de material de desecho que genere deteri
 
 f) Por no separar los desechos que se deben de incinerar; asimismo no separar los residuos peligrosos no incinerables y que no son entregados a las instancias correspondientes para su confinamiento y son depositados en los contenedores colocados en la vía pública, para deposito de residuos sólidos domésticos o en cualquier otra área dentro de la circunscripción territorial del Municipio de Aguascalientes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2013)</small>
+
 ###### ARTÍCULO 1562.
 
-Procede la cancelación del permiso o licencia, cuando:
+La autoridad municipal podrá proceder a la cancelación del permiso o licencia, por:
 
 I. El titular no inicie actividades del establecimiento o del giro o no utilice sus derechos que se desprendan de su permiso o licencia, en un término de noventa días.
 
@@ -19537,7 +20535,33 @@ III. La falta de aviso previo a la reanudación de actividades.
 
 IV. Por cambiar el giro de la licencia o del permiso autorizado.
 
-V. Por falta de pago de la revalidación anual.
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2013)</small>
+
+V. Por falta de pago de la renovación anual;
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2013)</small>
+
+VI. Por incurrir en alguna de las prohibiciones establecidas, en el Título Primero del Libro Séptimo del presente Código;
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2013)</small>
+
+VII. Enajenar la licencia o permiso que le fue otorgada al titular en términos del presente Código, sin la autorización previa de la autoridad municipal correspondiente;
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2013)</small>
+
+VIII. No realizar los pagos correspondientes de los adeudos existentes con el Municipio de Aguascalientes;
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2013)</small>
+
+IX. Reincidir en la contravención a las disposiciones del presente Código y que éstas conductas hayan sido sancionadas previamente por la autoridad municipal;
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2013)</small>
+
+X. Por causas de poner en riesgo la integridad física de las personas o su vida; y
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2013)</small>
+
+XI. Por causa de interés general, orden público o bienestar colectivo.
 
 ###### ARTÍCULO 1563.
 
@@ -19579,11 +20603,17 @@ Cuando una persona resulte responsable de dos o más violaciones a las leyes del
 
 Cuando la determinación de imposición de alguna sanción o medidas de seguridad implique el pago de una cantidad mínima, en la misma resolución se les notificará que tiene el término de cinco días para hacer el pago, con el apercibimiento de que en caso de no hacerlo se abrirá procedimiento de ejecución económico coactivo, remitiéndole copia de la resolución a la Secretaría de Finanzas Públicas para hacerla efectiva.
 
-## TÍTULO CUARTO. DE LA INDIVIDUALIZACIÓN DE SANCIONES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE MARZO DE 2013)</small>
+
+## TÍTULO CUARTO. DE LA INDIVIDUALIZACIÓN DE LA (SIC) SANCIONES
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 1573.
 
-Para toda violación a las normas y disposiciones municipales previstas en el presente Código y cuya individualización no esté prevista en los artículos subsecuentes se aplicará una sanción de cinco a mil veces el salario mínimo independientemente de la medida de seguridad y arresto atendiendo a la gravedad de la falta que en su caso proceda.
+Para toda violación a las normas y disposiciones municipales previstas en el presente Código y cuya individualización no éste prevista en los artículos subsecuentes se aplicará una sanción de uno a tres mil veces el salario mínimo general vigente en el Estado de Aguascalientes, independientemente de la medida de seguridad y arresto atendiendo a la gravedad de la falta que en su caso proceda.
+
+### CAPÍTULO II. De las Sanciones en Materia de Protección Civil
 
 ###### ARTÍCULO 1574.
 
@@ -19693,6 +20723,8 @@ IV.- Suspensión de actividades y revocación de los permisos, licencias o autor
 
 3.- Los casos de reincidencia, criterios de calificación de la sanción, gravedad de la conducta y demás disposiciones relativas a la imposición de las sanciones administrativas por violación a las disposiciones que en materia ambiental establezca el presente ordenamiento, será facultad exclusiva de la Secretaría del Medio Ambiente y Desarrollo Sustentable.
 
+### CAPÍTULO III. De las Sanciones en Materia de Construcción
+
 ###### ARTÍCULO 1575.
 
 (DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DEL REGLAMENTO DE PROTECCIÓN CIVIL PARA EL MUNICIPIO DE AGUASCALIENTES, P.O. 21 DE SEPTIEMBRE DE 2009)
@@ -19708,6 +20740,10 @@ IV.- Suspensión de actividades y revocación de los permisos, licencias o autor
 ###### ARTÍCULO 1578.
 
 (DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DEL REGLAMENTO DE PROTECCIÓN CIVIL PARA EL MUNICIPIO DE AGUASCALIENTES, P.O. 21 DE SEPTIEMBRE DE 2009)
+
+### CAPÍTULO IV. De las Sanciones en Materia de Actividades Comerciales, Industriales y de Prestación de Servicios
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 1579.
 
@@ -19823,47 +20859,73 @@ III. Se hayan emitido por autoridad incompetente, y acatando disposición judici
 
 IV. La revocación de licencia será pronunciada por la autoridad que haya emitido el acto o resolución de que se trate o en su caso, por el superior jerárquico de dicha autoridad.
 
+### CAPÍTULO V. De las Sanciones en Materia de Espectáculos Públicos
+
 ###### ARTÍCULO 1587.
 
-En materia de actividades comerciales, industriales y de prestación de servicios, se impondrá:
+En materia de actividades comerciales, industriales y prestación de servicios, se impondrá:
 
-I. Sanción de UNO A CINCO DÍAS DE SALARIO MÍNIMO POR:
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2013)</small>
 
-a) No exhibir en un lugar visible la licencia de funcionamiento, así como el permiso o comprobante de pago para la venta de bebidas alcohólicas o similares.
+I.- Sanción de uno a diez días de salario mínimo general vigente en el Estado por:
 
-b) Funcionar sin revalidar su licencia anual o permiso correspondiente.
+a) No exhibir en un lugar visible la licencia de funcionamiento, así como el permiso o comprobante de pago para la venta de bebidas alcohólicas o similares;
 
-II. Sanción de SEIS A TREINTA VECES DE SALARIO MÍNIMO POR:
+b) No colocar en lugares visibles letreros que indiquen al público las áreas de trabajo, zonas restringidas, salidas de emergencia, áreas de no fumar o área de fumar y servicios sanitarios.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2013)</small>
+
+II. Sanción de diez a treinta días de salario mínimo general vigente en el Estado por:
 
 a) Permitir que en el interior de sus establecimientos comerciales y de servicios se fijen leyendas, anuncios impresos o propaganda que sean atentatorias a la moral o a las buenas costumbres.
 
-b) Permitir el consumo de bebidas alcohólicas dentro del establecimiento, tratándose de abarrotes o misceláneas.
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
 
-c) No tener a la vista del público las tarifas de precios de los servicios que se proporcionen.
+b) Permitir el consumo de bebidas alcohólicas dentro de los establecimientos mercantiles, que únicamente tengan autorizada la venta de bebidas alcohólicas en envase cerrado;
 
-III. Sanción de DIEZ A CIENTO CINCUENTA VECES DE SALARIO MÍNIMO POR:
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
 
-a) Permitir el acceso a menores de edad a diversiones o espectáculos sólo para mayores de edad, tales como: centros nocturnos, bares, cabarets, discotecas, billares, cines, teatros, máquinas de video que funcionan mediante fichas o monedas y similares, así como la renta o exhibición a menores de edad, de películas clasificadas para adultos que exhiban pornografía, independientemente del pago de impuestos correspondientes.
+c) No colocar anuncios visibles que contengan la leyenda de: "El abuso en el consumo del alcohol es nocivo para la salud"; y (sic)
 
-b) Restaurantes, loncherías y similares que sirvan bebidas alcohólicas sin alimentos, así como permitir que las meseras y empleadas compartan la cerveza o vinos con la clientela. El acceso a menores en estos lugares agrava la falta.
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2013)</small>
 
-c) Restaurantes, bares, loncherías, billares, discotecas, centros nocturnos y todo tipo de establecimientos al público que no respeten el horario previamente autorizado.
+III. Sanción de treinta a ciento cincuenta días de salario mínimo general vigente en el Estado por:
 
-d) Expendios de vino que permanezcan operando al público después del horario estipulado.
+a) Realizar la venta de bebidas alcohólicas sin alimentos, en aquellos giros que en forma accesoria puedan vender y/o consumir bebidas alcohólicas, tales como: restaurantes, loncherías o similares;
 
-e) Giros mayores de cinco millones de pesos que operen sin la licencia debidamente revalidada, realicen actividad diversa a la permitida o cambiar de domicilio sin previa autorización.
+b) Permitir la alternancia dentro del establecimiento de cualquier tipo;
 
-IV. Sanción de VEINTE A SETECIENTAS CINCUENTA VECES DE SALARIO MÍNIMO POR:
+c) No respetar el horario de funcionamiento autorizado para los establecimientos mercantiles;
 
-a) Operar restaurantes, bares, billares, loncherías, centros nocturnos y en general todo tipo de comercio o establecimiento al público que operen sin tener licencia debidamente reglamentada.
+d) Permitir después del horario autorizado el ingreso y/o permanencia a personas que no laboren en los establecimientos mercantiles a que se refiere la fracción I, del artículo 1300 del presente Código;
 
-b) Todas la (sic) empresas o personas que operen en lugares al público tales como: restaurantes, bares, discotecas, billares, loncherías, centros nocturnos, cines, salones de baile, entre otros, que permitan la permanencia de personas ebrias en exceso o que escandalicen y alteren el orden moral y público.
+e) Funcionar sin renovar la licencia en tiempo y forma, de conformidad con los ordenamientos jurídicos aplicables a la materia;
 
-c) Tiendas de autoservicio, expendios de vino, restaurantes, loncherías, centros nocturnos, entre otros, que no acaten las disposiciones tendientes a evitar la venta y consumo de cerveza o bebidas alcohólicas, en términos de este Código.
+f) Realizar actividad diferente al giro autorizado y que sea inherente a otro giro reglamentado el cual requiera permiso o licencia; y
 
-d) Vender cerveza o bebidas alcohólicas en los billares, boliches y otros lugares similares, sin el permiso correspondiente o por convertir las salas de juego en garitos.
+g) Cambiar de domicilio sin la previa autorización de la autoridad municipal correspondiente.
 
-e) Giros que cambien de domicilio sin previa autorización de la autoridad municipal.
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2013)</small>
+
+IV. Sanción de cincuenta a quinientos días de salario mínimo general vigente en el Estado por:
+
+a) Permitir el acceso a personas menores de edad a diversiones o espectáculos públicos, en los que sólo esté autorizado el acceso a personas mayores de edad, tales como: centros nocturnos, bares, cabarets, discotecas, billares, cines, teatros, lugares que tengan máquinas tragamonedas o similares, así como la renta o exhibición a menores de edad, de películas clasificadas para adultos que exhiban pornografía;
+
+b) Permitir la permanencia de personas con notorio estado de ebriedad que escandalicen o alteren el orden público o las buenas costumbres, dentro de los establecimientos mercantiles o lugares que se dediquen a explotar un giro reglamentado con venta de bebidas alcohólicas y/o consumo;
+
+c) Vender cerveza o bebidas alcohólicas en los billares, boliches y otros lugares similares, sin el permiso correspondiente o por convertir las salas de juego en garitos;
+
+d) Permitir en los establecimientos mercantiles la venta de bebidas alcohólicas y/o consumo de éstas y que operen sin tener licencia o permiso debidamente autorizado;
+
+e) Realizar venta o permitir el consumo de bebidas alcohólicas, en los días que se establezca "Ley Seca".
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2013)</small>
+
+V. Sanción de quinientos a mil días de salario mínimo general vigente en el Estado por:
+
+a) Vender bebidas alcohólicas a personas menores de edad y/o permitirles el consumo de éstas dentro del establecimiento mercantil o lugar; y
+
+b) Realizar o permitir la venta y/o consumo de bebidas alcohólicas de manera clandestina en cualquiera de sus modalidades o formas.
 
 ###### ARTÍCULO 1588.
 
@@ -19890,6 +20952,8 @@ a) Cuando se realice la venta de las sustancias en contravención a las disposic
 b) Cuando resulten falsos los datos o documentos proporcionados por el titular de la licencia.
 
 c) Por incumplimiento grave de las disposiciones de este Código y demás normatividad aplicable.
+
+### CAPÍTULO VI. De las Sanciones en Materia de Espectáculos Taurinos
 
 ###### ARTÍCULO 1589.
 
@@ -19941,6 +21005,8 @@ b) A las empresas que operen en lugares al público o de espectáculos que propi
 
 c) No comenzar el espectáculo a la hora señalada o presentar una variedad distinta a la ofrecida al público.
 
+### CAPÍTULO VII. De las Sanciones en Materia de Comercio en la Vía Pública
+
 ###### ARTÍCULO 1590.
 
 Las infracciones que se cometan en materia de espectáculos taurinos el juez de plaza podrá imponer las sanciones previstas por este Código y adicionalmente se podrán aplicar las siguientes:
@@ -19976,6 +21042,8 @@ En los casos de suspensión, cancelación de la licencia de funcionamiento de un
 ###### ARTÍCULO 1593.
 
 Para efectos de la aplicación de sanciones, empresarios y ganaderos son solidariamente responsables de que las reses de lidia cumplan los requisitos establecidos en el libro Octavo del presente Código.
+
+### CAPÍTULO I. Del Recurso de Revisión
 
 ###### ARTÍCULO 1594.
 
@@ -20056,6 +21124,8 @@ Cuando se trate de locales o puestos que se encuentren sin operar por más de tr
 ###### ARTÍCULO 1601.
 
 Se procederá a la reubicación del comerciante, cuando la estructura del puesto o establecimiento, remolque o vehículo contamine la imagen de la Ciudad, pero acorde a lo establecido en el artículo 1384 de este Código.
+
+### CAPÍTULO II. De la Suspensión del Acto
 
 ## TITULO QUINTO. DEL RECURSO
 
@@ -20760,3 +21830,15 @@ CUARTO.- Las anteriores disposiciones jurídicas entrarán en vigor al día sigu
 P.O. 18 DE FEBRERO DE 2013.
 
 PRIMERO.- Las presentes reformas y adiciones entrarán en vigor el día hábil siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 4 DE MARZO DE 2013.
+
+PRIMERO.- Las presentes reformas y adiciones entrarán en vigor al día hábil siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- Se derogan todas las disposiciones reglamentarias que se opongan a las presentes reformas y adiciones al Libro Séptimo y Noveno del Código Municipal de Aguascalientes.
+
+TERCERO.- Se concederá un plazo de seis meses a partir de la fecha de su publicación, para que todos los establecimientos mercantiles o lugares, que se rijan bajo las disposiciones del Libro Séptimo y Noveno del Código Municipal de Aguascalientes, regularicen su situación conforme a las presentes reformas y adiciones.
+
+CUARTO.- Para el cumplimiento de lo dispuesto por el artículo transitorio anterior, la autoridad municipal tomará en consideración las condiciones socioeconómicas, los usos, costumbres y legislación aplicable al momento en que se otorgaron las licencias y/o permisos de los establecimientos mercantiles y/o lugares, para exigir el cumplimiento de las presentes disposiciones o eximirles de su obligatoriedad.
+
+QUINTO.- Las autoridades municipales señaladas en el presente Dictamen, deberán de implementar las acciones tendientes para el debido cumplimiento de las reformas y adiciones al Libro Séptimo y Noveno del Código Municipal de Aguascalientes.
