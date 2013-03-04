@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-la-entrega-recepcion-de-la-administracion-29720
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-03-05"
-last_updated: "2011-10-12"
+last_updated: "2013-03-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29720&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO PARA LA ENTREGA-RECEPCIÓN DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE GUADALUPE, N.L.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2013.
 
 Reglamento publicado en el Sumario del Periódico Oficial del Estado de Nuevo León, el miércoles 05 de marzo de 2003.
 
@@ -53,9 +53,9 @@ Para los efectos del presente Reglamento se entenderá por:
 
 I. R. Ayuntamiento.- El cuerpo colegiado, deliberante y autónomo que gobierna al Municipio;
 
-> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2013)</small>
 
-II. Contraloría Municipal.- La Secretaría de la Contraloría y Desarrollo Administrativo;
+II. Contraloría Municipal.- La Secretaría de Contraloría y Defensa Ciudadana;
 
 III. Dependencias.- Las señaladas en el articulo 12 del Reglamento Orgánico de la Administración Pública Municipal de Guadalupe, N.L.;
 
@@ -119,7 +119,7 @@ Los Servidores Públicos involucrados en la ejecución de los trabajos de la Ent
 
 > <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2011)</small>
 
-###### Artículo 7.
+###### Articulo 7.
 
 Para integrar los libros de Anexos del Acta de Entrega-Recepción, los Titulares de las Dependencias, Unidades Administrativas y Organismos Descentralizados de la Administración Pública Municipal de Guadalupe, Nuevo León; son en conjunto con los Coordinadores Administrativos los directamente responsables de preparar los anexos y autorizarlos con su firma, dichos anexos contendrán entre otros elementos, la situación de los asuntos y recursos de organización, financieros, humanos, materiales, obras y programas, jurídicos, plan municipal de desarrollo y generales bajo su responsabilidad, correspondientes al último ejercicio fiscal.
 
@@ -149,7 +149,9 @@ II. El Presidente Municipal entrante,
 
 III. Los Síndicos Primero y Segundo, salientes y entrantes respectivamente, y
 
-IV. Los Secretarios de Contraloría y Desarrollo Administrativo, saliente y entrante en calidad de testigos
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2013)</small>
+
+IV. Los Secretarios de Contraloría y Defensa Ciudadana, saliente y entrante en calidad de testigos.
 
 En el caso que el Presidente Municipal saliente no asista al Acto de Entrega-Recepción, se estará a lo dispuesto por lo señalado en la Ley Orgánica de la Administración Pública Municipal del Estado de Nuevo León. Tratándose de la inasistencia de los Síndicos Primero y/o Segundo saliente y/o entrante respectivamente, únicamente se anotará en el Acta de Entrega-Recepción la leyenda “No asistió”.
 
@@ -163,9 +165,11 @@ II. Presidente Municipal saliente, y
 
 III. Archivo de la Contraloría Municipal
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2013)</small>
+
 ###### Artículo 11.
 
-Una vez concluida la ceremonia oficial de Entrega-Recepción de la Administración Pública Municipal de Guadalupe, Nuevo León, los Titulares de las Dependencias, Unidades Administrativas y Organismos Descentralizados que sean removidos, se separen del cargo o se haya expedido un nombramiento en favor de otra persona, se harán acompañar de cuando menos un testigo y se trasladarán a sus respectivos despachos para llevar a cabo la Entrega-Recepción de los asuntos y recursos de esa Dependencia, Unidad Administrativa u Organismo Descentralizado, ante la presencia de un Representante de la Contraloría Municipal o de la persona que ésta última designe.
+Una vez concluida la ceremonia oficial de Entrega-Recepción de la Administración Pública Municipal de Guadalupe, Nuevo León, los Titulares de las Dependencias, Unidades Administrativas y Organismos Descentralizados que sean removidos, se separen del cargo o se haya expedido un nombramiento en favor de otra persona se harán acompañar de cuando menos un testigo y se trasladarán a sus respectivos despachos para llevar a cabo la Entrega-Recepción de los asuntos y recursos de esa Dependencia, Unidad Administrativa u Organismo Descentralizado, ante la presencia de un Representante de la Contraloría Municipal o de la persona que ésta última comisione.
 
 Los Ciudadanos que sean designados por el Presidente Municipal entrante para ocupar la Titularidad de algún empleo, cargo o comisión, deberán esperar dentro de las siguientes 24-veinticuatro horas después de concluida la ceremonia oficial de Entrega-Recepción de la Administración Pública Municipal de Guadalupe, Nuevo León, a efecto de que tengan sus nombramientos en tiempo y forma y les sea tomada la Protesta de Ley para iniciar el Proceso de Entrega-Recepción en compañía de cuando menos un testigo en el despacho de la Dependencia o Unidad Administrativa.
 
@@ -227,13 +231,15 @@ V. Secretario de Finanzas y Tesorero Municipal,
 
 VI. El Secretario de Administración, y
 
-VII. Secretario de Contraloría y Desarrollo Administrativo
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2013)</small>
+
+VII. Secretario de Contraloría y Defensa Ciudadana
 
 Las funciones que asuman los integrantes de esta Comisión no podrán ser delegadas.
 
-> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
 
-La Secretaría de Contraloría y Desarrollo Administrativo, será la encargada de coordinar los trabajos que realizará la Comisión de Transición de la Administración Pública en función.
+La Secretaría de Contraloría y Defensa Ciudadana, será la encargada de coordinar los trabajos que realizará la Comisión de Transición de la Administración Pública en función.
 
 ###### Artículo 20.
 
@@ -265,9 +271,11 @@ La Comisión de Transición entrante no podrá ejercer mas atribuciones que las 
 
 Los Titulares de las Dependencias, Unidades Administrativas y Organismos Descentralizados que durante la gestión constitucional del Gobierno Municipal sean removidos, se separen del cargo o se haya expedido un nombramiento en favor de otra persona y para cumplir con lo dispuesto en el artículo 50 fracción XXIV de la Ley de Responsabilidades de tos Servidores Públicos del Estado y Municipios de Nuevo León, deberán preparar en conjunto con los Coordinadores Administrativos la Entrega-Recepción del despacho, instalaciones y asuntos a quienes los sustituyan en sus atribuciones, precisando la situación que guardan los asuntos y recursos de organización, financieros, humanos, materiales, obras y programas, jurídicos, plan municipal de desarrollo y generales asignados para el ejercicio de sus funciones en un libro que contenga los datos relativos al despacho a su cargo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2013)</small>
+
 ###### Artículo 26.
 
-La Entrega-Recepción de los Titulares de las Dependencias, Unidades Administrativas y Organismos Descentralizados a que se refiere el artículo anterior se efectuará mediante Acta Administrativa de Entrega-Recepción que será firmada por el Titular saliente y entrante, quienes se harán acompañar de un testigo cada uno y ante la presencia de un representante de la Contraloría Municipal.
+La Entrega-Recepción de los Titulares de las Dependencias, Unidades Administrativas y Organismos Descentralizados a que se refiere el artículo anterior se efectuará mediante Acta Administrativa de Entrega-Recepción que será firmada por el Titular saliente y entrante, quienes se harán acompañar de un testigo cada uno y ante la presencia de un comisionado de la Contraloría Municipal.
 
 La Entrega-Recepción se efectuará al tomar posesión del empleo, cargo o comisión el Servidor Público entrante, previa protesta que deberá rendir en los términos de la Constitución Política local.
 
@@ -297,23 +305,21 @@ En caso de fallecimiento o incapacidad física, o en el supuesto de que el Servi
 
 Si no existe nombramiento o designación del Titular entrante, la Entrega-Recepción se hará al Servidor Público designado por el Presidente Municipal o el Titular de la Dependencia u Organismo Descentralizado de adscripción.
 
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
+
 ###### Artículo 30.
 
-En caso que el Servidor Público saliente o entrante se negase a firmar el Acta Administrativa de Entrega-Recepción se asentarán los hechos sucedidos en un Acta Circunstanciada en presencia de un representante de la Contraloría Municipal, de la Dirección Jurídica y dos personas en calidad de testigos.
+En caso que el Servidor Público saliente o entrante se negase a firmar el Acta Administrativa de Entrega-Recepción se asentarán los hechos sucedidos en un Acta Circunstanciada en presencia de un representante de la Contraloría Municipal, de la Dirección Jurídica y dos personas en calidad de testigos. Cuando el servidor público saliente no proceda a la entrega del informe de los asuntos y recursos a su cargo en los términos de este Reglamento, será requerido por la Contraloría Municipal, para que en un lapso no mayor de 5-cinco días hábiles contados a partir de la fecha de su separación del empleo, cargo o comisión cumpla con esta obligación.
 
-Cuando el servidor público saliente no proceda a la entrega del informe de los asuntos y recursos a su cargo en los términos de este Reglamento, será requerido por la Contraloría Municipal, para que en un lapso no mayor de 5-cinco días hábiles contados a partir de la fecha de su separación del empleo, cargo o comisión cumpla con esta obligación.
-
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2009)</small>
-
-En caso de incumplimiento con la obligación del párrafo anterior el servidor público entrante al tomar posesión, o en su caso el que quede de encargado del despacho, levantara un acta circunstanciada con la asistencia de 2 testigos, dejando constancia del estado en que se encuentran los asuntos y lo hará del conocimiento de su superior jerárquico y de la Contraloría Municipal, en un termino no mayor de 15-quince días hábiles para los efectos que correspondan.
+En caso de incumplimiento con la obligación del párrafo anterior el servidor público entrante al tomar posesión, o en su caso el que quede de encargado del despacho, levantará un acta circunstanciada con la asistencia de 2 testigos, dejando constancia del estado en que se encuentran los asuntos y lo hará del conocimiento de su superior jerárquico y de la Contraloría Municipal, en un término no mayor de 15- quince días hábiles para los efectos que correspondan
 
 ###### Artículo 31.
 
 La verificación física o revisión que lleve a cabo el Servidor Público entrante de los diferentes Anexos incluidos en el Acta de Entrega-Recepción, se realizará dentro de los 30-treinta días naturales siguientes a la firma del Acta.
 
-> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
 
-En los casos en que el Servidor Público Entrante, requiera una prorroga, deberá solicitarlo mediante escrito a la Secretaría de Contraloría y Desarrollo Administrativo con 5 días naturales de antelación a la fecha del vencimiento del plazo, dicha prorroga solo se concederá por una sola vez, y hasta por un periodo 30 (sic) días naturales.
+En los casos en que el Servidor Público Entrante, requiera una prórroga para la verificación física de los anexos, deberá solicitarlo mediante escrito a la Secretaría de Contraloría y Defensa Ciudadana con 5 días naturales de antelación a la fecha del vencimiento del plazo, dicha prorroga solo se concederá por una sola vez, y hasta por un periodo 30 (sic) días naturales.
 
 > <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2011)</small>
 
@@ -398,3 +404,9 @@ P.O. 12 DE OCTUBRE DE 2011.
 PRIMERO.- Las presentes reformas por adición al Reglamento para la Entrega - Recepción de la Administración Pública Municipal de Guadalupe, Nuevo León, entraran en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 SEGUNDO.- Se abrogan todas las disposiciones, reglamentarias, circulares, acuerdos y normas que contravengan al contenido de las presentes reformas por adición al Reglamento para la Entrega - Recepción de la Administración Pública Municipal de Guadalupe, Nuevo León
+
+P.O. 4 DE MARZO DE 2013.
+
+PRIMERO: Las presentes reformas al Reglamento para la Entrega-Recepción de la Administración Pública Municipal de Guadalupe. Nuevo León, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO: Gírese el presente al Presidente Municipal, a fin de que instruya al Secretario de Ayuntamiento para que remita su publicación en el Periódico Oficial del Estado, en la Gaceta Municipal y en el Sitio Oficial de Internet del Municipio.
