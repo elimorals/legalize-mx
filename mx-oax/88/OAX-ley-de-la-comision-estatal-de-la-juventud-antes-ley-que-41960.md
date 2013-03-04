@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-la-comision-estatal-de-la-juventud-antes-ley-que-41960"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-04"
-last_updated: "2005-01-12"
+last_updated: "2013-03-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41960&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "OAX"
 
 LEY DE LA COMISIÓN ESTATAL DE LA JUVENTUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ENERO DE 2005.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE CREA EL INSTITUTO DE LA JUVENTUD DEL ESTADO DE OAXACA, PUBLICADA EN EL P.O. DE 4 DE MARZO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 4 de diciembre de 2004
 
@@ -153,13 +155,13 @@ f).- Conocer y opinar sobre la asignación de recursos para los fines de "LA COM
 
 El patrimonio de la COMISION estará integrado por:
 
-I.- Los bienes muebles e inmuebles, que adquiera con motivo de sus funciones y que estén enfocados específicamente al cumplimiento de sus objetivos;
+I.- Los bienes muebles e inmuebles, que adquiera con motivo de sus funciones y que están enfocados específicamente al cumplimiento de sus objetivos;
 
 II.- Los derechos y obligaciones que le transmitan los Gobiernos Federal, Estatal o Municipales o cualquier otra Entidad Pública o particulares;
 
 III.- Las donaciones, herencias, legados y aportaciones que otorguen los particulares o cualquier institución pública o privada, nacional o internacional;
 
-IV.- Las acciones, derechos o productos que por cualquier título legal adquiera; y
+IV.- Las acciones, derechos o productos de que por cualquier título legal adquiera; y
 
 V.- Los ingresos de "LA COMISION", los cuales se integran por:
 
@@ -171,7 +173,7 @@ c).- Los recursos que se obtengan por la comercialización o ejecución de sus p
 
 d).- Las cuotas, tasas y tarifas que correspondan por el uso de las instalaciones deportivas que se encuentren bajo su administración, los cuales no se considerarán derechos; y
 
-e).- Los demás bienes, derechos y aprovechamientos que le fijen las Leyes y Reglamentos o que provengan de otros fondos o aportaciones de instituciones deportivas o particulares;
+e).- Los demás bienes, derechos y aprovechamientos que le fijen las Leyes y Reglamentos o que provengan de otros fondos o aportaciones de o instituciones deportivas o particulares;
 
 f).- Los bienes y derechos que constituyan el patrimonio de la COMISION, se equiparán a los del dominio público por lo que serán inalienables, imprescriptibles, inembargables y solo podrán gravarse previa autorización de la Junta Directiva y bajo el más estricto cumplimiento de las disposiciones aplicables.
 
@@ -408,3 +410,31 @@ NOTA: Las presentes firmas corresponden al DECRETO NUM. 6, aprobado por la Quinc
 P.O. 12 DE ENERO DE 2005.
 
 UNICO.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado. Se derogan todas las disposiciones de igual o menor rango que se opongan a la presente Ley.
+
+P.O. 4 DE MARZO DE 2013.
+
+PRIMERO. La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se abroga el Decreto número 6, publicado con fecha 4 de diciembre de 2004, en el Periódico Oficial del Gobierno del Estado, por el que se crea la Comisión Estatal de la Juventud.
+
+TERCERO. Los Servidores públicos de la Comisión Estatal de la Juventud que por virtud de este Decreto se extingue, deberán realizar la entrega recepción de los asuntos en trámite al Instituto de la Juventud del Estado de Oaxaca, quien a partir de la entrada en vigor de este Decreto será la responsable del Despacho de dichos asuntos.
+
+CUARTO. Los bienes muebles e inmuebles, recursos financieros, presupuestarios y demás activos y pasivos, que la Comisión Estatal de la Juventud, tenía a cargo y que por virtud del presente Decreto se extingue, pasarán a formar parte del Instituto de la Juventud del Estado de Oaxaca.
+
+QUINTO. Los acuerdos, convenios y cualquier acto jurídico celebrado por la Comisión Estatal de la Juventud, seguirán surtiendo sus efectos y se entenderán celebrados por el Instituto de la Juventud del Estado de Oaxaca, hasta cumplir con su objetivo. Cuando en diversas disposiciones legales y reglamentarias se mencione a la Comisión Estatal de la Juventud, se entenderá referida el área correspondiente del Instituto de la Juventud del Estado de Oaxaca.
+
+SEXTO. El personal de base adscrito a la Comisión Estatal de la Juventud, pasará a formar parte de la estructura del Instituto de la Juventud del Estado de Oaxaca.
+
+(El presente Artículo fue observado por el titular del Poder Ejecutivo, de conformidad con el artículo 53, fracciones III y VI, y 79, fracción II, de la Constitución Política del Estado Libre y Soberano de Oaxaca, por oficio fechado el 27 de agosto de 2012 y recibido en el Poder Legislativo en la misma fecha).
+
+SÉPTIMO. La operación del Instituto, deberá contemplarse a más tardar en el Presupuesto de Egresos del Gobierno del Estado de Oaxaca del año 2012.
+
+(El presente artículo fue observado por el titular del Poder Ejecutivo, de conformidad con el artículo 53, fracciones III y VI, y 79, fracción II, de la Constitución Política del Estado Libre y Soberano de Oaxaca, por oficio fechado el 27 de agosto de 2012 y recibido en el Poder Legislativo en la misma fecha).
+
+OCTAVO. El Reglamento Interior del Instituto, deberá expedirse dentro de los 60 días naturales, siguientes a la designación de los miembros del Instituto.
+
+(El presente artículo fue observado por el titular del Poder Ejecutivo, de conformidad con el artículo 53, fracciones III y VI, y 79, fracción II, de la Constitución Política del Estado Libre y Soberano de Oaxaca, por oficio fechado el 27 de agosto de 2012 y recibido en el Poder Legislativo en la misma fecha).
+
+NOVENO. Las disposiciones contenidas en el presente decreto prevalecerán, en caso de conflicto, sobre aquellas de igual o menor rango que se le opongan, aun cuando no estén expresamente derogadas o abrogadas.
+
+(El presente artículo fue observado por el titular del Poder Ejecutivo, de conformidad con el artículo 53, fracciones III y VI, y 79, fracción II, de la Constitución Política del Estado Libre y Soberano de Oaxaca, por oficio fechado el 27 de agosto de 2012 y recibido en el Poder Legislativo en la misma fecha).
