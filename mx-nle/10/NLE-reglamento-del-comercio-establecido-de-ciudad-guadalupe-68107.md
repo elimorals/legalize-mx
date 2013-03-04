@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-del-comercio-establecido-de-ciudad-guadalupe-68107"
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-01-20"
-last_updated: "2009-03-25"
+last_updated: "2013-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68107&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # REGLAMENTO DEL COMERCIO ESTABLECIDO DE CIUDAD GUADALUPE, NUEVO LEON
 
-REGLAMENTO DE COMERCIO ESTABLECIDO DE CIUDAD GUADALUPE, NUEVO LEON
+REGLAMENTO DE COMERCIO ESTABLECIDO DE CIUDAD GUADALUPE, NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MARZO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 20 de enero 1997.
 
@@ -77,13 +77,13 @@ Las disposiciones del presente Reglamento son de orden público y de interés so
 
 Para los efectos de este Reglamento, se entiende por Comercio Establecido, aquel establecimiento en el que se realizan transacciones de compra y venta de mercancías o de servicios. Se aplicará a aquéllos que contempla la Ley de Hacienda para los Municipios en el Estado vigente establecidos en el territorio de Ciudad Guadalupe, Nuevo León.
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
 
 ###### ARTICULO 4.
 
-Para el expendio y consumo de cerveza, vinos y licores y otras bebidas alcohólicas, los horarios que regirán al Comercio establecido en Ciudad Guadalupe, Nuevo León, se sujetarán a las disposiciones del REGLAMENTO DE LA VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS Y DE PREVENCIÓN Y COMBATE AL ABUSO DEL CONSUMO DE ALCOHOL DE GUADALUPE, NUEVO LEÓN.
+Para el expendio y consumo de cerveza, vinos y licores y otras bebidas alcohólicas, los horarios que regirán al Comercio establecido en Ciudad Guadalupe, Nuevo León, se sujetarán a las disposiciones del Reglamento para la Prevención y Combate al Abuso del Alcohol y de Regulación de su Venta, Expendio y Consumo en el Municipio de Guadalupe, Nuevo León.
 
-Asimismo para conocer o (sic) relativo al Comercio Móvil, Semifijo, Popular y Domiciliario; se deberán consultar las disposiciones aplicables en el REGLAMENTO DE MERCADOS
+Asimismo para conocer lo relativo al Comercio Móvil, Semifijo, Popular y Domiciliario; se deberán consultar las disposiciones aplicables en el Reglamento de Mercados del Municipio de Guadalupe, Nuevo León.
 
 ### CAPITULO 2. DE LAS AUTORIDADES COMPETENTES Y DE SUS FACULTADES
 
@@ -95,7 +95,9 @@ I.- El C. Presidente Municipal.
 
 II.- La Secretaría del R. Ayuntamiento.
 
-III.- La Tesorería Municipal.
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2013)</small>
+
+III.- La Secretaría de Finanzas y Tesorería Municipal.
 
 IV.- Los C. Inspectores Municipales.
 
@@ -113,7 +115,9 @@ IV.- Revocar los permisos otorgados, para el ejercicio del comercio en este Muni
 
 V.- Vigilar la correcta aplicación de este Reglamento, y proponer los medios necesarios tendientes al mejoramiento de la actividad comercial regulada en este ordenamiento.
 
-VI.- Establecer la declaratoria de áreas restringidas, precisando los límites y colindancias; de acuerdo al Plan Parcial de Desarrollo Urbano de este Municipio (1994-2010).
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2013)</small>
+
+VI.- Establecer la declaratoria de áreas restringidas, precisando los límites y colindancias; de acuerdo al Plan Parcial de Desarrollo Urbano vigente en el Municipio.
 
 VII.- Elaborar y ejecutar los convenios que celebren éstos con los comercios.
 
@@ -155,11 +159,11 @@ En su caso, deberá tramitarse una solicitud de renovación con un mínimo de 10
 
 III.- Son permisos PROVISIONALES, aquéllos expedidos por la Secretaría del Ayuntamiento a aquellos negocios que estén finiquitando los trámites requeridos en otras dependencias Municipales.
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
 
 ###### ARTICULO 10.
 
-La expedición de un Permiso de Operación estará sujeta a la obtención de un Permiso de Uso de Suelo que le corresponde expedir al Centro de de Desarrollo Urbano y Ecología Municipal.
+La expedición de un Permiso de Operación estará sujeta a la obtención de un Permiso de Uso de Suelo que será expedido por la dependencia municipal que el Reglamento Orgánico de la Administración Pública Municipal vigente, establezca como responsable del área Desarrollo Urbano y Ecología.
 
 ###### ARTICULO 11.
 
@@ -183,11 +187,11 @@ Los horarios señalados en este Reglamento para la apertura y cierre de establec
 
 DE LOS ESTABLECIMIENTOS COMERCIALES CON HORARIO ABIERTO LAS 24 HORAS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE MARZO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2013)</small>
 
 ###### ARTICULO 14.
 
-Se les permitirá operar las 24-veinticuatro horas del días (sic), siendo su responsabilidad la seguridad de sus negocios y la de sus clientes; y además acaten las disposiciones del REGLAMENTO DE LA VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS Y DE PREVENCIÓN Y COMBATE AL ABUSO DEL CONSUMO DE ALCOHOL DE GUADALUPE, NUEVO LEÓN, demás Leyes y Reglamentos Municipales aplicables a los establecimientos siguientes:
+Se les permitirá operar las 24-veinticuatro horas del días (sic), siendo su responsabilidad la seguridad de sus negocios y la de sus clientes; y además acaten las disposiciones del Reglamento para la Prevención y Combate al Abuso del Alcohol y de Regulación de su Venta, Expendio y Consumo en el Municipio de Guadalupe, Nuevo León y demás Leyes y Reglamentos Municipales aplicables a los establecimientos siguientes:
 
 I.- Los establecimientos detallistas de ropa, calzado, sombreros, mueblerías, mercerías, cristalerías, jugueterías, tiendas de regalos, tiendas de música, artículos deportivos, artículos fotográficos, estudios fotográficos, muebles y equipo para oficina, aparatos para el hogar, tiendas de artículos para damas, caballeros y niños, agencias de máquinas de coser, relojerías, joyerías, ópticas, alfarerías, armerías, florerías (se incluyen coronas) vidrierías y espejos, revisterías, agencias de publicaciones, tabaquerías, sastrerías y todos los establecimientos dedicados a ramos similares a los detallados.
 
@@ -285,9 +289,9 @@ III.- Realizar el pago de los derechos que señala la Ley de Hacienda para los M
 
 IV.- Presentar su baja ante la Dirección de Ingresos Municipal, aquellos contribuyentes que den por terminadas las actividades de sus negocios; de lo contrario las contribuciones que se generen en ésta no se suspenderán.
 
-> <small>(REFORMADA, P.O. 25 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2013)</small>
 
-V.- Acatar las disposiciones de los Reglamentos Municipales de Tránsito y Vialidad, Ecología, Policía y Buen Gobierno, Limpia, del REGLAMENTO DE LA VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS Y DE PREVENCIÓN Y COMBATE AL ABUSO DEL CONSUMO DE ALCOHOL DE GUADALUPE, NUEVO LEÓN y demás ordenamientos de las Leyes y Reglamentos vigentes.
+V.- Acatar las disposiciones de los Reglamentos Municipales de Tránsito y Vialidad, Ecología, Policía y Buen Gobierno, Limpia, Reglamento para la Prevención y Combate al Abuso del Alcohol y de Regulación de su Venta, Expendio y Consumo en el Municipio de Guadalupe, Nuevo León y demás ordenamientos de las Leyes y Reglamentos vigentes.
 
 VI.- Las demás que les sean señaladas en este Reglamento, y en otras Leyes o Reglamentos aplicables.
 
@@ -337,9 +341,11 @@ Las sanciones económicas que se apliquen, podrán consistir en el pago de una m
 
 Se entenderá como cuota, el equivalente a 1-un día de Salario Mínimo General vigente en la Zona Económica a la que corresponda a este Municipio.
 
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
+
 ###### ARTICULO 32.
 
-En caso de reincidencia, se duplicará el monto de la multa que corresponda. Se entiende como reincidentes a quienes incurran por segunda ocasión en la misma falta.
+En caso de reincidencia, se duplicara el monto de la multa que corresponda. Se entiende como reincidentes a quienes incurren por segunda ocasión en alguna de las falta (sic) establecidas en el presente Reglamento
 
 ###### ARTICULO 33.
 
@@ -428,3 +434,9 @@ ACUERDO QUE REFORMA EL ARTICULO 10 DEL REGLAMENTO DE COMERCIO ESTABLECIDO DE CIU
 PRIMERO.- Estas modificaciones entrarán en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se remita el presente Acuerdo al C. Encargado del Despacho de la Presidencia Municipal, a fin de que tenga a bien instruir al C. Secretario del R. Ayuntamiento, para que proceda a su debida publicación en el Periódico Oficial del Estado y en la Gaceta Municipal.
+
+P.O. 4 DE MARZO DE 2013.
+
+PRIMERO: Las presentes reformas al Reglamento de Comercio Establecido de Ciudad Guadalupe, Nuevo León, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO: Gírese el presente al Presidente Municipal para que instruya al Secretario de Ayuntamiento para que remita su publicación en el Periódico Oficial del Estado, en la Gaceta Municipal y en el Sitio Oficial de Internet del Municipio.
