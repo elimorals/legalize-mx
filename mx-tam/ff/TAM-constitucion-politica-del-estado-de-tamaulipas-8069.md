@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2012-11-08"
+last_updated: "2013-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2013.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -1061,11 +1061,11 @@ VII. Hacer lo demás que prohibe esta Constitución.
 
 ### CAPITULO IV. De la Diputación Permanente
 
-(REFORMADO, P.O. 23 DE JUNIO DE 1928) (REUBICADO, P.O. 5 DE JULIO DE 1986)
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2013)</small>
 
 ###### Art. 60.
 
-El día anterior al de la clausura de cada período de sesiones ordinarias el Congreso nombrará una Comisión que se denominará Diputación Permanente compuesta de tres Diputados, un Presidente y dos Secretarios, nombrará igualmente un suplente.
+En la última sesión de cada período ordinario de sesiones, el Congreso nombrará una Comisión que se denominará Diputación Permanente, compuesta de tres Diputados, un Presidente y dos Secretarios, nombrará igualmente un Suplente.
 
 (REUBICADO, P.O. 5 DE JULIO DE 1986)
 
@@ -4054,6 +4054,16 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 El actual titular de la presidencia y los miembros del Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Tamaulipas, continuarán en su cargo hasta el término del periodo para el cual fueron electos.
+
+P.O. 5 DE MARZO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+La reforma efectuada al artículo 60 de la Constitución Política del Estado de Tamaulipas, establecida en el artículo primero del presente Decreto, surtirá efectos a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La reforma concerniente al artículo 53 párrafo 1 de la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado de Tamaulipas, establecida en el artículo segundo del presente Decreto, entrará en vigor una vez que surta efectos la reforma efectuada al artículo 60 de la Constitución Política del Estado de Tamaulipas, contenida en este Decreto, debiéndose publicar en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO QUINTO.
 
