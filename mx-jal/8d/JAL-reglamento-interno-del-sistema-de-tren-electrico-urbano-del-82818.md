@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interno-del-sistema-de-tren-electrico-urbano-del-828
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-09-10"
-last_updated: "2011-09-10"
+last_updated: "2013-03-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,9 @@ state: "JAL"
 ---
 # REGLAMENTO INTERNO DEL SISTEMA DE TREN ELECTRICO URBANO DEL ESTADO DE JALISCO
 
-REGLAMENTO INTERNO DEL SISTEMA DE TREN ELECTRICO URBANO DEL ESTADO DE JALISCO
+REGLAMENTO INTERNO DEL SISTEMA DE TREN ELÉCTRICO URBANO DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2013.
 
 Reglamento publicado en la Sección IV del Periódico Oficial del Estado de Jalisco, el sábado 10 de septiembre de 2011.
 
@@ -346,7 +346,9 @@ TESORERÍA
 
 Tesorería tendrá las siguientes atribuciones:
 
-I. Vigilar la administración de los sistemas y programas relacionados con el registro contable; la formulación y aplicación de los presupuestos de ingresos y egresos autorizados por el Consejo y el seguimiento al ejercicio presupuestal; la formulación y análisis de los estados financieros y de resultados; el resguardo, dotación, recolección y depósito de los ingresos por peaje; la gestión de las inversiones financieras y sus productos; la planeación y el pago oportuno a los proveedores de los adeudos contraídos por el Sistema; la operación de la caja general y los fondos revolventes;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2013)</small>
+
+I. Vigilar la administración de los sistemas y programas relacionados con el registro contable; la formulación y aplicación de los presupuestos de ingresos y egresos autorizados por el Consejo y el seguimiento al ejercicio presupuestal; la formulación y análisis de los estados financieros y de resultados; el resguardo, dotación, recolección y depósito de los ingresos por peaje; la gestión de las inversiones financieras y sus productos; la planeación y el pago oportuno a los proveedores de los adeudos contraídos por el Sistema así como a los concesionarios del Sistema Macrobús, de acuerdo con lo determinado por las áreas de la Dirección de Macrobús encargadas de la operatividad de los títulos de Concesión y el fideicomiso del Sistema Macrobús; la operación de la caja general y los fondos revolventes;
 
 II. Determinar las políticas sobre la aplicación financiera, fiscal, de costos e inventarios;
 
@@ -392,7 +394,9 @@ GERENCIA DE RECURSOS FINANCIEROS
 
 La Gerencia de Recursos Financieros tendrá las siguientes atribuciones:
 
-I. Administrar los sistemas y programas relacionados con el registro de las operaciones contables; la formulación y aplicación de los presupuestos de ingresos y egresos autorizados por el Consejo y el seguimiento al ejercicio presupuestal; la formulación y análisis de los estados financieros y de resultados; el resguardo, dotación, recolección y depósito de los ingresos por peaje; la gestión de las inversiones financieras y sus productos; la planeación y el pago oportuno a los proveedores de los adeudos contraídos por el Sistema; así como la operación de la caja general y los fondos revolventes;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2013)</small>
+
+I. Administrar los sistemas y programas relacionados con el registro de las operaciones contables; la formulación y aplicación de los presupuestos de ingresos y egresos autorizados por el Consejo y el seguimiento al ejercicio presupuestal; la formulación y análisis de los estados financieros y de resultados; el resguardo, dotación, recolección y depósito de los ingresos por peaje; la gestión de las inversiones financieras y sus productos; la planeación y el pago oportuno a los proveedores de los adeudos contraídos por el Sistema, así como a los concesionarios del Sistema Macrobús, de acuerdo con lo determinado por las áreas de la Dirección de Macrobús encargadas de la operatividad de los títulos de concesión y el fideicomiso del Sistema Macrobús, así como la operación de la caja general y los fondos revolventes;
 
 II. Proponer a la Tesorería las estrategias fiscales más convenientes al SITEUR, para el mejor cumplimiento de las normas contables y las disposiciones jurídicas de la materia;
 
@@ -418,31 +422,17 @@ XII. Administrar de manera eficiente el personal y los materiales asignados a es
 
 XIII. Las demás que sean necesarias para el cumplimiento de las leyes, reglamentos, ordenamientos, acuerdos y convenios, y aquellas que le sean asignadas o delegadas por la Dirección General y/o la Tesorería.
 
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2013)</small>
+
+XIV. Registro de las transacciones y operaciones del Fideicomiso del Sistema Macrobús.
+
 La Gerencia de Recursos Financieros para el ejercicio de sus funciones contará con las jefaturas, coordinaciones o secciones así como con el personal técnico y administrativo que las necesidades del servicio requieran y se consigne en la plantilla y en el presupuesto de egresos autorizados por el Consejo.
 
 COORDINACIÓN ESPECILIZADA (SIC) DE VINCULACIÓN CON CONCESIONARIOS
 
 ###### Artículo 18.
 
-La Coordinación Especializada de Vinculación con Concesionarios tendrá las siguientes atribuciones:
-
-l. Administrar los sistemas y registro de las transacciones del Fideicomiso para el pago de los concesionarios del Sistema Macrobús.
-
-II. Determinar los lineamientos y realizar los cálculos correspondientes para cubrir los montos de la operación de los concesionarios del Sistema Macrobús.
-
-III. Establecer las gestiones correspondientes para asegurar el abasto por parte de los Concesionarios, de combustible en los autobuses que operan en el Sistema Macrobús.
-
-IV. Vigilar el cumplimiento de las obligaciones de los concesionarios contraídas en los títulos de concesión.
-
-V. Sancionar los incumplimientos de la operación por parte de los concesionarios. Coordinar y realizar las gestiones necesarias ante las diferentes entidades que aseguren la correcta operación del Sistema Macrobús.
-
-VI. Elaborar los informes y reportes mensuales y anuales relativos el (sic) comportamiento del gasto y pago a concesionarios para presentarlos al Tesorero.
-
-VII. Administrar de manera eficiente el personal y los materiales asignados a la Coordinación.
-
-VIII. Las demás que sean necesarias para el cumplimiento de las leyes, reglamentos, ordenamientos, acuerdos y convenios, y aquellas que le sean asignadas o delegadas por la Tesorería.
-
-La Coordinación Especializada de Vinculación con Concesionarios para el ejercicio de sus funciones contará con las jefaturas, secciones o coordinaciones así como con el personal técnico y administrativo que las necesidades del servicio requieran y se establezcan en la plantilla y en el presupuesto de egresos autorizados por el Consejo.
+(DEROGADO, P.O. 5 DE MARZO DE 2013)
 
 ### CAPÍTULO V. DIRECCIÓN DE TREN ELÉCTRICO
 
@@ -656,7 +646,9 @@ La Gerencia de Ingeniería para el ejercicio de sus funciones contará con las j
 
 La Dirección de Macrobús tendrá las siguientes atribuciones:
 
-I. Administrar el Servicio Público de Transporte Masivo de Pasajeros como Alimentadores del Sistema de Tren Eléctrico que el organismo otorgue a través de concesiones;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2013)</small>
+
+I. Administrar el Servicio Público de Transporte Masivo de Pasajeros como Alimentadores del Sistema de Tren Eléctrico que el organismo otorgue a través de concesiones para asegurar el cumplimiento de los objetivos, planes y programas que le dieron origen.
 
 II. Formular y proponer a la Dirección General los proyectos estratégicos para el mediano y largo plazo que competan a su tramo de control y coadyuvar en los estudios de viabilidad y factibilidad de dichos proyectos;
 
@@ -664,9 +656,13 @@ III. Proponer a la Dirección General reglas de operación de terminales y estac
 
 IV. Proponer a la Dirección General las acciones orientadas para la mejora continua del Sistema;
 
-V. Realizar inspecciones para garantizar el correcto funcionamiento del Sistema de Transporte Masivo concesionado;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2013)</small>
 
-VI. Ejercer las demás facultades y responsabilidades que les confieran las disposiciones jurídicas aplicables o le sean delegadas por el Consejo de Administración y el Director General;
+V. Vigilar el correcto funcionamiento y administración de las concesiones otorgadas para el Sistema de Transporte Masivo concesionado Macrobús.
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2013)</small>
+
+VI. Administrar la infraestructura de equipo y estaciones asignadas al sistema, así como realizar el mantenimiento preventivo y correctivo necesario para su adecuada conservación y funcionamiento.
 
 VII. Asistir a las sesiones del Consejo cuando sea invitado, así como el Director del Tren y el Director Administrativo serán invitados cuando se traten asuntos de su competencia en la sesión correspondiente;
 
@@ -680,9 +676,13 @@ I. Gerencia de Operación de Macrobús;
 
 II. Gerencia de Control y Tecnologías;
 
-III. Gerencia de Programas Especiales; y
+III. Gerencia de Programas Especiales; y (sic)
 
 IV. Gerencia de Planeación de Transporte.
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2013)</small>
+
+V. Coordinación de Vinculación con Concesionarios
 
 GERENCIA DE OPERACIÓN DE MACROBÚS
 
@@ -791,6 +791,28 @@ XI. Medir la capacidad y el posicionamiento del sistema Macrobús ante la socied
 XII. Las demás que sean necesarias para el cumplimiento de las leyes, reglamentos, ordenamientos, acuerdos y convenios, y aquellas que le sean asignadas o delegadas por la Dirección General y/o el Director de Macrobús.
 
 La Gerencia de Planeación de Transporte para el ejercicio de sus funciones contará con las jefaturas, coordinaciones o secciones así como con el personal técnico y administrativo que las necesidades del servicio requieran y se consigne en la plantilla y en el presupuesto de egresos autorizados por el Consejo.
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2013)</small>
+
+###### Artículo 34 Bis.
+
+La coordinación Especializada de Vinculación con Concesionarios tendrá las siguientes atribuciones:
+
+I. Realizar los cálculos correspondientes para cubrir los montos de la operación de los concesionarios del Sistema Macrobús de acuerdo a los lineamientos establecidos en el Titulo de Concesión, anexos y adendums respectivos.
+
+II. Vigilar el cumplimiento de las obligaciones de los concesionarios contraídas en los títulos de concesión a través de auditorias y demás procedimientos necesarios.
+
+III. Coordinar y realizar las gestiones necesarias ante las diferentes entidades que aseguren la correcta operación del Sistema Macrobús
+
+IV. Establecer lineamientos para la correcta fundamentación y soporte de las evidencias de los incumplimientos.
+
+V. Sancionar los incumplimientos de la operación por parte de los concesionarios.
+
+VI. Elaborar los informes y reportes semanales, mensuales y anuales relativos al comportamiento del Sistema.
+
+VII. Administrar de manera eficiente el personal y los materiales asignados a la Gerencia.
+
+VIII. Las demás que sean necesarias para el cumplimiento de las leyes, reglamentos, ordenamientos, acuerdos y convenios y aquellas que le sean asignadas o delegadas por el Director de Macrobús.
 
 ### CAPÍTULO VII. DIRECCIÓN ADMINISTRATIVA
 
@@ -1191,3 +1213,9 @@ Director del Sistema de Tren Eléctrico Urbano
 Lic. Rodolfo Pérez Mercado
 
 Secretario de Actas
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 5 DE MARZO DE 2013.
+
+LAS MODIFICACIONES CON ANTELACIÓN CITADAS, NO SEÑALAN DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL FEDERAL VIGENTE.
