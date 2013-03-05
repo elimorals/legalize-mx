@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimientos-penales-para-el-estado-de-4832"
 country: "mx"
 rank: "codigo"
 publication_date: "1959-04-02"
-last_updated: "2011-08-12"
+last_updated: "2013-03-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "GUA"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE GUANAJUATO
 
-CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE GUANAJUATO
+CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE GUANAJUATO
 
-> <small>N. DE E. EL PRESENTE ORDENAMIENTO SERA ABROGADO PROGRESIVAMENTE POR LOS ARTICULOS PRIMERO Y TERCERO TRANSITORIOS DE LA LEY DEL PROCESO PENAL PARA EL ESTADO DE GUANAJUATO, PUBLICADA EN EL P.O. DE 3 DE SEPTIEMBRE DE 2010, POR LO QUE SE SUGIERE CONSULTARLOS AL FINAL DE ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EL PRESENTE ORDENAMIENTO SERÁ ABROGADO PROGRESIVAMENTE POR LOS ARTÍCULOS PRIMERO Y TERCERO TRANSITORIOS DE LA LEY DEL PROCESO PENAL PARA EL ESTADO DE GUANAJUATO, PUBLICADA EN EL P.O. DE 3 DE SEPTIEMBRE DE 2010, POR LO QUE SE SUGIERE CONSULTARLOS AL FINAL DE ESTE ORDENAMIENTO.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2013.
 
 Código publicado en el Anexo del Periódico Oficial del Estado de Guanajuato, el 2 de abril de 1959.
 
@@ -125,7 +125,7 @@ Las órdenes deberán ser notificadas de inmediato al generador de violencia y s
 
 En caso de que el inculpado quebrante las órdenes dictadas, se le sancionará en los términos de los artículos 255 y 256 del Código Penal para el Estado de Guanajuato.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Art. 4o.
 
@@ -177,25 +177,25 @@ Es Tribunal competente para conocer de un delito, el del lugar en que se cometa.
 
 Si conforme a lo dispuesto por el Artículo 2 del Código Penal resultaran competentes dos o más Tribunales del Estado, conocerá del proceso el que haya prevenido.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2009)</small>
 
 También será competente para conocer, un Juez distinto al del lugar de comisión del delito, si por razones de seguridad relacionadas con las características del hecho imputado o las circunstancias personales del inculpado o cualquier otra que impida garantizar el desarrollo adecuado del proceso, el Ministerio. Público sustenta debidamente la necesidad de llevar el ejercicio de la acción penal ante aquél.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2009)</small>
 
 De igual forma será competente dicho Juez para los casos en que, por las mismas razones, la autoridad judicial, de oficio o a petición de parte, estime necesario trasladar a un procesado a algún otro centro de reclusión.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 9 DE JUNIO DE 2009)</small>
 
 En el caso anterior, el Juez dará vista a las partes por el término de tres días para que expongan lo que estimen conveniente, transcurridos los cuales emitirá su fallo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 9 DE JUNIO DE 2009)</small>
 
@@ -245,7 +245,7 @@ Formalidades.
 
 Las actuaciones podrán practicarse a toda hora y aún en días inhábiles, sin necesidad de previa habilitación, y en cada una de ellas se expresará la hora, día, mes y año en que se practiquen.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Art. 14.
 
@@ -283,7 +283,7 @@ Los secretarios deberán dar cuenta, dentro del término de veinticuatro horas, 
 
 Para el efecto, se hará constar en los expedientes el día y hora en que se presenten las promociones por escrito y se hagan las verbales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
 
 ###### Art. 20.
 
@@ -295,7 +295,7 @@ El Ministerio Público firmará al calce y, si lo estima conveniente, también a
 
 Si antes de que se pongan las firmas o huellas, los comparecientes hicieren alguna modificación o rectificación, se hará constar inmediatamente, expresándose los motivos que dijeron tener para hacerla. Si fuere después, pero antes de retirarse los interesados, se asentará la modificación o rectificación en acta que se levantará inmediatamente después de la anterior y que firmarán los que hayan intervenido en la diligencia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
 
 ###### Art. 21.
 
@@ -313,7 +313,7 @@ Las otras partes podrán imponerse de los autos en la Secretaría del Tribunal.
 
 El Juez tomará las medidas necesarias para que los expedientes no se substraigan, alteren o destruyan.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
 
 ###### Art. 22.
 
@@ -335,7 +335,7 @@ Las actuaciones deberán ser autorizadas inmediatamente por los funcionarios a q
 
 La infracción de las disposiciones contenidas en los artículos 15, 16, 17, 19, 20, 21, 23 y 24 se sancionará con una corrección disciplinaria, sin perjuicio de dar vista al Ministerio Público cuando pudiere resultar la existencia de un delito.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE AGOSTO DE 2011)</small>
 
 ### CAPITULO III.
 
@@ -393,7 +393,7 @@ Las fianzas que deban otorgarse ante los tribunales se sujetarán a las disposic
 
 En materia penal no se pagarán costas. El empleado que las cobrare o recibiere, aunque sea a título de gratificación, será destituido de su empleo, sin perjuicio de dar vista al Ministerio Público.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
 
 ###### Art. 34.
 
@@ -407,7 +407,7 @@ Cuando cambiare el personal de un tribunal no se proveerá auto alguno haciendo 
 
 Cuando no tenga que dictarse resolución alguna anterior a la sentencia, sí se hará saber el cambio de personal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE JUNIO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 1999)</small>
 
 ###### Art. 36.
 
@@ -665,7 +665,7 @@ Las citaciones podrán hacerse en forma verbal en la diligencia, electrónicamen
 
 Cuando la citación sea por medio electrónico, se imprimirá la copia de recepción y se agregará al expediente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
 
 ###### Art. 69.
 
@@ -759,7 +759,7 @@ En el supuesto a que se refiere el artículo 26 de este Código, no podrán llev
 
 Si los defensores no cumplen con las obligaciones que les impone este precepto, el Tribunal les aplicará una corrección disciplinaria.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
 
 ###### Art. 82.
 
@@ -935,7 +935,7 @@ Averiguación previa.
 
 Iniciación del procedimiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE AGOSTO DE 1991)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE AGOSTO DE 1991)</small>
 
 ###### Art. 105.
 
@@ -1011,13 +1011,13 @@ Este artículo se aplicará también en lo conducente, cuando se tache de falso 
 
 Bis.- (DEROGADO, P.O. 30 DE AGOSTO DE 1994)
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE AGOSTO DE 1994)</small>
 
 ### CAPITULO II.
 
 Reglas especiales para la práctica de diligencias y levantamiento de actas de averiguación previa.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
 
 ###### Art. 115.
 
@@ -1039,7 +1039,7 @@ Solo el Ministerio Público puede, con sujeción a dichos preceptos, acordar qu�
 
 En el caso del artículo anterior, se procederá a levantar el acta correspondiente, que contendrá la hora, fecha y modo en que se tenga conocimiento de los hechos; el nombre y carácter de la persona que dió noticia de ellos, y su declaración, así como la de los testigos cuyos dichos sean más importantes, y la del inculpado, si se encontrare presente; la descripción de lo que haya sido objeto de inspección ocular; los nombres y domicilios de los testigos que no se hayan podido examinar; el resultado de la observación de las particularidades que se hayan notado a raíz de ocurridos los hechos, en las personas que en ellos intervengan; las medidas y providencias que se hayan tomado para la investigación de los hechos, así como los demás datos y circunstancias que se estime necesario hacer constar.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
 
 ###### Art. 116 Bis.
 
@@ -1055,7 +1055,7 @@ El Juez, en su caso, de oficio o a petición de parte, verificará que perdure e
 
 El Ministerio Público podrá citar para que declaren sobre los hechos que se averigüen, a las personas, que por cualquier concepto participen en ellos o aparezca tengan datos sobre los mismos. En el acta se hará constar quién mencionó a la persona que haya de citarse, por qué motivo el funcionario que practique las diligencias estimó conveniente hacer la citación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
 
 ###### Art. 117 Bis.
 
@@ -1075,7 +1075,7 @@ Cuando una autoridad distinta del Ministerio Público practique diligencias de a
 
 Cuando se presentare al funcionario o agente que hubiere iniciado una averiguación, un funcionario del Ministerio Público, éste podrá continuar por sí mismo la averiguación, en cuyo caso el primero cerrará el acta en el estado en que se encuentre, y la entregará a dicho funcionario, así como los detenidos y los objetos que se hayan recogido, comunicándole todos los demás datos de que tenga noticia; pero si el Ministerio Público lo estima conveniente para el éxito de la averiguación, podrá encomendar a quien la haya iniciado, que la continúe bajo su dirección, debiendo el funcionario o agente comisionado acatar sus instrucciones y hacer constar esa intervención en el acta.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 1994)</small>
 
 ###### Art. 119
 
@@ -1151,7 +1151,7 @@ Cuando la policía realice inspecciones de personas o de vehículos, colectiva o
 
 Cuando se determine la internación de alguna persona a un hospital u otro establecimiento similar, deberá indicarse el carácter con que sea su ingreso, lo que se comunicará a los encargados del establecimiento respectivo; si no se hiciere esa indicación, se entenderá que sólo ingresa para su curación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 1994)</small>
 
 ###### Art. 122.
 
@@ -1195,7 +1195,7 @@ En caso de que la detención de cualquier persona exceda los términos señalado
 
 En el pliego de consignación, el Ministerio Público hará expreso señalamiento de los datos reunidos durante la averiguación previa que, a su juicio, puedan ser considerados para los efectos previstos en el artículo 20 fracción I de la Carta Magna, y en los preceptos de este Código relativos a la libertad provisional bajo caución, tanto en lo referente a la determinación de los elementos del tipo penal y la probable responsabilidad penal, como por lo que respecta a los que deban tomarse en cuenta para fijar el monto de la garantía.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 1994)</small>
 
 ###### Art. 126.
 
@@ -1205,7 +1205,7 @@ Al recibir el Ministerio Público diligencias de averiguación previa, si hubier
 
 El Ministerio Público dispondrá la libertad provisional del inculpado, sujetándose a los principios y reglas contenidas en el Artículo 20, apartado A, fracción I de la Constitución Política de los Estados Unidos Mexicanos. La caución que se fije deberá ser suficiente para garantizar que el detenido no se sustraerá a la acción de la justicia y para cubrir el pago de la reparación de los daños y perjuicios que pudieran serle exigidos. Cuando el delito merezca pena alternativa o no privativa de libertad, se dispondrá la libertad sin necesidad de caución.
 
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 16 DE MAYO DE 2003)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 16 DE MAYO DE 2003)</small>
 
 ## TITULO TERCERO.
 
@@ -1213,7 +1213,7 @@ El Ministerio Público dispondrá la libertad provisional del inculpado, sujetá
 
 Acción penal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
 
 ###### Art. 127.
 
@@ -1297,7 +1297,7 @@ Cuando la decisión de aplicar un criterio de oportunidad adquiera firmeza, se e
 
 En los casos de la fracción III del artículo 129 Bis de este Código, se suspenderá el ejercicio de la acción penal en relación con los hechos o las personas en cuyo favor se aplicó el criterio de oportunidad. Dicha suspensión se mantendrá hasta quince días después de que quede firme la sentencia respectiva, a fin de que el Ministerio Público o el juez, en su caso, resuelva definitivamente sobre la extinción de la acción penal. En caso de que la colaboración sea falsa, haya sido proporcionada con el propósito de obstaculizar la investigación u obtener un beneficio, cuando no resultare útil o idónea, el Ministerio Público la reanudará o solicitará la reanudación del proceso en cualquier momento. La suspensión mencionada no constituye obstáculo para la aplicación o continuación de medidas precautorias ni la de prisión preventiva.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
 
 ###### Art. 130.
 
@@ -1341,7 +1341,7 @@ I.- Concluido el plazo señalado para interponer el recurso previsto en el artí
 
 II.- El juez competente al resolver el recurso, confirme el no ejercicio o desistimiento de la acción penal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
 
 ###### Art. 132.
 
@@ -1447,7 +1447,7 @@ Tratándose de delitos graves se le aplicarán de las tres cuartas partes de la 
 
 Declaración preparatoria del inculpado y nombramiento del defensor.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE JUNIO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 1999)</small>
 
 ###### Art. 144.
 
@@ -1525,7 +1525,7 @@ No pueden ser defensores quienes se encuentren procesados. Tampoco podrán serlo
 
 Autos de formal prisión, de sujeción a proceso y de libertad por falta de elementos para proceder.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE JUNIO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 1999)</small>
 
 ###### Art. 151.
 
@@ -1571,7 +1571,7 @@ Cuando el delito cuya existencia se haya comprobado no merezca privación de lib
 
 Los autos a que se refieren los dos artículos anteriores se dictarán por el delito que aparezca comprobado, aun cuando con ello se cambie la apreciación legal que de los hechos se haya expresado en promociones o resoluciones anteriores.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
 
 ###### Art. 154.
 
@@ -1597,7 +1597,7 @@ Si dentro del término legal no se reúnen los requisitos necesarios para dictar
 
 Disposiciones comunes a la averiguación previa y a la instrucción.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE JUNIO DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE JUNIO DE 1999)</small>
 
 ### CAPITULO I.
 
@@ -1711,7 +1711,7 @@ Si el delito fuere de falsificación de documento, además de la minuciosa descr
 
 Atención médica a los lesionados.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
 
 ###### Art. 177.
 
@@ -1781,9 +1781,9 @@ III.- Que por razón de la hora, lugar o circunstancia, no pueda ocurrir ante au
 
 La violación de esta disposición hará penalmente responsable al Ministerio Público que decrete indebidamente la detención y el sujeto será puesto en inmediata libertad.
 
-> <small>(DEROGADO PENULTIMO PARRAFO POR ARTICULO QUINTO TRANSITORIO DEL CODIGO PENAL PARA EL ESTADO DE GUANAJUATO, P.O. 2 DE NOVIEMBRE DEL 2001)</small>
+> <small>(DEROGADO PENÚLTIMO PÁRRAFO POR ARTÍCULO QUINTO TRANSITORIO DEL CÓDIGO PENAL PARA EL ESTADO DE GUANAJUATO, P.O. 2 DE NOVIEMBRE DE 2001)</small>
 
-> <small>(DEROGADO ULTIMO PARRAFO POR ARTICULO QUINTO TRANSITORIO DEL CODIGO PENAL PARA EL ESTADO DE GUANAJUATO, P.O. 2 DE NOVIEMBRE DEL 2001)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO POR ARTÍCULO QUINTO TRANSITORIO DEL CÓDIGO PENAL PARA EL ESTADO DE GUANAJUATO, P.O. 2 DE NOVIEMBRE DE 2001)</small>
 
 > <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 1994)</small>
 
@@ -2209,7 +2209,7 @@ Cuando tuviere que ausentarse del lugar en que se practiquen las diligencias alg
 
 El funcionario que practique las diligencias podrá dictar las providencias necesarias para que los testigos no se comuniquen entre sí, ni por medio de otra persona, antes de que rindan su declaración.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE AGOSTO DE 2011)</small>
 
 ### CAPITULO VI.
 
@@ -2325,7 +2325,7 @@ Con este objeto se le mostrarán originales y se le dejará ver todo el document
 
 Cuando el Ministerio Público estime que puedan encontrarse pruebas del delito que motiva la instrucción en la correspondencia que se dirija al inculpado, pedirá al tribunal y éste ordenará que dicha correspondencia se recoja.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
 
 ###### Art. 262.
 
@@ -2347,7 +2347,7 @@ Cuando, a solicitud de parte, el tribunal mande sacar testimonio de documentos p
 
 En caso de resistencia del tenedor del documento, el tribunal, oyendo a aquél y a las partes presentes, resolverá de plano si debe hacerse la exhibición.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
 
 ###### Art. 266.
 
@@ -2519,7 +2519,7 @@ VII.- Cuando existan pruebas que acrediten fehacientemente la inocencia del acus
 
 VIII.- Cuando, tratándose de los delitos previstos por los artículos 143 y 210 del Código Penal, cometidos culposamente, se haya cubierto la reparación del daño causado a la víctima u ofendido, y el activo no hubiere actuado bajo el influjo de bebidas alcohólicas, estupefacientes, psicotrópicos u otras sustancias semejantes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 1994)</small>
 
 ###### Art. 287.
 
@@ -2567,7 +2567,7 @@ En la audiencia podrán interrogar al acusado sobre los hechos materia del juici
 
 Contra la resolución que niegue o admita la repetición de las diligencias de prueba, no procede recurso alguno.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 7 DE AGOSTO DE 1987)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE AGOSTO DE 1987)</small>
 
 ### CAPITULO II.
 
@@ -2931,7 +2931,7 @@ Si se declarare mal admitida la apelación, se devolverá el proceso al tribunal
 
 Si las partes no impugnan el recurso conforme al artículo anterior, se podrá declarar de oficio, después de la celebración de la vista, que fué mal admitida la apelación, y sin revisarse la resolución apelada, se devolverá el expediente, en su caso, al tribunal de su origen.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 1994)</small>
 
 ###### Art. 364.
 
@@ -3091,9 +3091,11 @@ Todo inculpado tendrá derecho durante la averiguación previa o el proceso a se
 
 I.- Que garantice el monto estimado de la reparación del daño.
 
-> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Tratándose de delitos que afecten la vida o la integridad corporal, y a falta de pruebas específicas respecto al daño causado, el tribunal o el Ministerio Público tomará como base el cuádruplo del salario mínimo general vigente en el estado al momento del hecho y las disposiciones que sobre riesgos de trabajo establezca la Ley Federal del Trabajo;
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2013)</small>
+
+Tratándose de delitos que afecten la vida o la integridad corporal, y a falta de pruebas específicas respecto al daño causado, el tribunal o el Ministerio Público tomará como base el salario mínimo general vigente en el estado al momento del hecho y las disposiciones que sobre riesgos de trabajo establezca la Ley Federal del Trabajo;
 
 II.- Que caucione el cumplimiento de las obligaciones a su cargo, que la Ley establece en razón del proceso; y
 
@@ -3183,7 +3185,7 @@ Las fianzas de que habla este capítulo se extenderán en la misma pieza de auto
 
 El fiador, excepto cuando se trate de las empresas mencionadas en el artículo 395, declarará ante el Juzgador, bajo protesta de decir verdad, si ha otorgado con anterioridad alguna otra fianza judicial y, en su caso, la cuantía y circunstancia de la misma, para que esa declaración se tome en cuenta al calificar su solvencia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE OCTUBRE DE 1988)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE OCTUBRE DE 1988)</small>
 
 ###### Art. 399.
 
@@ -3193,7 +3195,7 @@ También se le harán saber las causas de revocación de la libertad caucional.
 
 En la notificación se hará constar que se hicieron saber al acusado las anteriores obligaciones y las causas de revocación, pero la omisión de este requisito no librará de ellas ni de sus consecuencias al inculpado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 1994)</small>
 
 ###### Art. 400.
 
@@ -3217,7 +3219,7 @@ VI.- Cuando en el proceso cause ejecutoria la sentencia condenatoria dictada en 
 
 VII.- Cuando el inculpado no cumpla con alguna de las obligaciones a que se refiere el artículo 399.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 1994)</small>
 
 ###### Art. 401.
 
@@ -3231,7 +3233,7 @@ III.- Cuando, con posterioridad, se demuestre la insolvencia del fiador;
 
 IV.- En el caso del artículo 404.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 1994)</small>
 
 ###### Art. 402.
 
@@ -3239,7 +3241,7 @@ En los casos de las fracciones I y VII del artículo 400 de este Código, se man
 
 En los casos de las fracciones II, III, V y VI del mismo artículo y III del artículo 401 se ordenará la reaprehensión del inculpado. En los de las fracciones IV del artículo 400 y II del 401, se remitirá al inculpado al establecimiento que corresponda.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE OCTUBRE DE 1988)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE OCTUBRE DE 1988)</small>
 
 ###### Art. 403.
 
@@ -3295,7 +3297,7 @@ Será igualmente puesto en libertad bajo protesta el inculpado, sin los requisit
 
 El auto en que se conceda la libertad bajo protesta no surtirá sus efectos hasta que el inculpado proteste formalmente presentarse ante el tribunal que conozca del asunto, siempre que se le ordene.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE AGOSTO DE 1981)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE AGOSTO DE 1981)</small>
 
 ###### Art. 409.
 
@@ -3755,7 +3757,7 @@ Cuando varios tribunales conocieren de procesos cuya separación se hubiere decr
 
 Reparación del daño exigible a persona distinta del inculpado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
 
 ###### Art. 476.
 
@@ -3791,7 +3793,7 @@ Incidentes no especificados.
 
 Los incidentes cuya tramitación no se detalle en este Código y que, a juicio del tribunal, no puedan resolverse de plano y sean de aquellos que no deban suspender el curso del procedimiento, se substanciarán por separado y del modo siguiente: se dará vista de la promoción del incidente a las partes, para que contesten en el acto de la notificación o a más tardar al día siguiente: Si el tribunal lo creyere necesario o alguna de las partes lo pidiere, se abrirá un término de prueba que no exceda de cinco días, después de los cuales se citará para una audiencia que se verificará dentro de los tres siguientes. Concurran o no las partes, el tribunal fallará desde luego el incidente.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE MAYO DE 1978)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE MAYO DE 1978)</small>
 
 TITULO DECIMOSEGUNDO
 
@@ -3925,7 +3927,7 @@ Condena condicional.
 
 (DEROGADO, P.O. 14 DE MAYO DE 1978)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2011)</small>
 
 ###### Art. 499.
 
@@ -3935,7 +3937,7 @@ Cuando por encontrarse en el supuesto previsto en el artículo 107 del Código P
 
 Si la causa fuere la comisión de un nuevo delito durante el término a que se refiere el Artículo 107 del Código Penal, deberá acreditarse siempre con testimonio de la sentencia irrevocable pronunciada en el segundo proceso.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE MAYO DE 1978)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE MAYO DE 1978)</small>
 
 ### CAPITULO III.
 
@@ -4001,7 +4003,7 @@ Retención.
 
 (DEROGADO, P.O. 23 DE AGOSTO DE 1991)
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE MAYO DE 1978)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE MAYO DE 1978)</small>
 
 ### CAPITULO V.
 
@@ -4029,7 +4031,7 @@ El procedimiento para la sustitución o reducción de la pena se sujetará a lo 
 
 En los casos del Artículo 5 del Código Penal, el Tribunal que conozca del proceso decretará de plano la libertad del inculpado.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE AGOSTO DE 2011)</small>
 
 ### CAPITULO VI.
 
@@ -4247,7 +4249,7 @@ El Secretario General del Gobierno.
 
 Lic. RAMON ACEVEDO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 14 DE MAYO DE 1978.
 
@@ -4385,7 +4387,7 @@ Artículo Único.- El presente decreto entrará en vigor el cuarto día siguient
 
 P.O. 2 DE NOVIEMBRE DEL 2001.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CÓDIGO.
 
 Artículo Primero.- Este Código entrará en vigor el 1º primero de enero del 2002 dos mil dos, previa publicación, junto con su dictamen, en el Periódico Oficial del Gobierno del Estado.
 
@@ -4417,7 +4419,7 @@ Artículo Único. El presente decreto entrará en vigor a los ciento veinte día
 
 P.O. 3 DE SEPTIEMBRE DE 2010.
 
-DECRETO NUMERO 73, POR EL QUE SE REFORMAN LOS ARTICULOS 4o., PARRAFOS PRIMERO, SEGUNDO Y TERCERO, ASI COMO LA FRACCION I; 14 PRIMER PARRAFO; 183 FRACCION I; 183-BIS SEGUNDO PARRAFO; 184 TERCER PARRAFO; 185; 186; 275 ULTIMO PARRAFO; Y 387 FRACCION III, DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE GUANAJUATO.
+DECRETO NÚMERO 73, POR EL QUE SE REFORMAN LOS ARTÍCULOS 4o., PÁRRAFOS PRIMERO, SEGUNDO Y TERCERO, ASÍ COMO LA FRACCIÓN I; 14 PRIMER PÁRRAFO; 183 FRACCIÓN I; 183-BIS SEGUNDO PÁRRAFO; 184 TERCER PÁRRAFO; 185; 186; 275 ÚLTIMO PÁRRAFO; Y 387 FRACCIÓN III, DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE GUANAJUATO.
 
 Artículo Primero. Este Decreto entrará en vigor al cuarto día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
 
@@ -4425,7 +4427,7 @@ Artículo Segundo. Las autoridades e instituciones del Estado, a más tardar el 
 
 P.O. 3 DE SEPTIEMBRE DE 2010.
 
-DECRETO NUMERO 80, POR EL CUAL SE EXPIDE LA LEY DEL PROCESO PENAL PARA EL ESTADO DE GUANAJUATO.
+DECRETO NÚMERO 80, POR EL CUAL SE EXPIDE LA LEY DEL PROCESO PENAL PARA EL ESTADO DE GUANAJUATO.
 
 Inicio de vigencia progresiva
 
@@ -4447,7 +4449,7 @@ Artículo Segundo. Las disposiciones de esta ley se aplicarán a hechos que ocur
 
 Vigencia del Código de Procedimientos Penales para el Estado de Guanajuato
 
-> <small>(REFORMADO POR DECRETO NUMERO 178 DE LA LEY DEL POCESO PENAL PARA EL ESTADO DE GUANAJUATO, P.O. 12 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO POR DECRETO NÚMERO 178 DE LA LEY DEL POCESO PENAL PARA EL ESTADO DE GUANAJUATO, P.O. 12 DE AGOSTO DE 2011)</small>
 
 Artículo Tercero. El Código de Procedimientos Penales para el Estado de Guanajuato, contenido en el Decreto Legislativo número 180, expedido por la Cuadragésima Segunda Legislatura, publicado en el Periódico Oficial del Gobierno del Estado de fecha 2 de abril de 1959, seguirá rigiendo para los hechos cometidos y los procedimientos iniciados con anterioridad a la vigencia de la presente ley.
 
@@ -4463,7 +4465,7 @@ Artículo Quinto. No procederá la acumulación de procesos sobre hechos delictu
 
 Retroactividad
 
-> <small>(REFORMADO POR DECRETO NUMERO 178 DE LA LEY DEL POCESO PENAL PARA EL ESTADO DE GUANAJUATO, P.O. 12 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO POR DECRETO NÚMERO 178 DE LA LEY DEL POCESO PENAL PARA EL ESTADO DE GUANAJUATO, P.O. 12 DE AGOSTO DE 2011)</small>
 
 Artículo Sexto. Siempre que sea oportuno dentro del trámite procesal, deberán aplicarse dentro del curso del procedimiento regido por el Código de Procedimientos Penales para el Estado de Guanajuato, las disposiciones de la presente ley que se refieran a: a) Indemnización al sentenciado injustamente condenado; b) Aplicación de los criterios de oportunidad en el ejercicio de la acción penal; c) Imposición de medidas cautelares personales; d) Acuerdos reparatorios y suspensión condicional del proceso; e) Mecanismos alternativos de solución de controversias o justicia restaurativa; f) Procedimiento abreviado; y g) Procedimiento especial para inimputables y por incapacidad sobrevenida.
 
@@ -4473,13 +4475,13 @@ Artículo Séptimo. El Poder Legislativo realizará las acciones conducentes, pa
 
 Normatividad a aplicar para diligencias
 
-> <small>(REFORMADO POR DECRETO NUMERO 178 DE LA LEY DEL POCESO PENAL PARA EL ESTADO DE GUANAJUATO, P.O. 12 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO POR DECRETO NÚMERO 178 DE LA LEY DEL POCESO PENAL PARA EL ESTADO DE GUANAJUATO, P.O. 12 DE AGOSTO DE 2011)</small>
 
 Artículo Octavo. Las diligencias que se realicen en alguna región en que conforme al artículo primero transitorio aun no opere el sistema penal acusatorio, deberán desahogarse conforme la Ley del Proceso Penal para el Estado de Guanajuato, si derivan de un proceso donde ya se aplique ésta.
 
 Cuestiones competenciales
 
-> <small>(REFORMADO POR DECRETO NUMERO 178 DE LA LEY DEL POCESO PENAL PARA EL ESTADO DE GUANAJUATO, P.O. 12 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO POR DECRETO NÚMERO 178 DE LA LEY DEL POCESO PENAL PARA EL ESTADO DE GUANAJUATO, P.O. 12 DE AGOSTO DE 2011)</small>
 
 Artículo Noveno. Cuando un procedimiento se inicie en una región y se hubiesen desahogado diligencias en esta, el proceso se seguirá conforme a las normas que se atendieron al inicio de la investigación, independientemente que por razón de competencia correspondiere a otra región cuyo sistema procesal penal sea diferente.
 
@@ -4487,7 +4489,7 @@ Cuando el asunto provenga de otra entidad federativa, se sustanciará conforme a
 
 P.O. 12 DE AGOSTO DE 2011.
 
-DECRETO No. 176 POR EL QUE SE REFORMAN DIVERSOS ARTICULOS DEL CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE GUANAJUATO.
+DECRETO No. 176 POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE GUANAJUATO.
 
 Artículo Primero. El presente Decreto entrará en vigencia el 1 de septiembre del año 2011, previa publicación en el Periódico Oficial del Gobierno del Estado.
 
@@ -4495,6 +4497,10 @@ Artículo Segundo. El Poder Judicial y la Procuraduría General de Justicia inte
 
 P.O. 12 DE AGOSTO DE 2011.
 
-DECRETO No. 178 POR EL QUE SE REFORMAN DIVERSOS ARTICULOS DE LA LEY DEL PROCESO PENAL PARA EL ESTADO DE GUANAJUATO.
+DECRETO No. 178 POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DEL PROCESO PENAL PARA EL ESTADO DE GUANAJUATO.
 
 Artículo Único. El presente Decreto entrará en vigencia el 1 de septiembre del año 2011, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 5 DE MARZO DE 2013.
+
+Artículo Único. El presente Decreto entrará en vigencia al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
