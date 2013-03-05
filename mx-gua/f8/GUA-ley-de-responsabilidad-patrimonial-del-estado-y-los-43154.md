@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-responsabilidad-patrimonial-del-estado-y-los-43154"
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-07"
-last_updated: "2005-01-07"
+last_updated: "2013-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43154&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2013.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 7 de enero de 2005
 
@@ -131,9 +131,11 @@ IV.- Se cubrirán entre un treinta por ciento a un sesenta por ciento, las indem
 
 El monto del daño material se sujetará a la práctica de un avalúo, que tenderá a establecer el valor comercial, los frutos que en su caso hubiere podido producir la cosa objeto del avalúo y todas las circunstancias que puedan influir en la determinación del valor comercial.
 
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2013)</small>
+
 ###### Artículo 13.
 
-Cuando el daño se cause a las personas y produzca la muerte, incapacidad total permanente, parcial permanente, total temporal o parcial temporal, el grado de ella se determinará atendiendo a lo dispuesto por la Ley Federal del Trabajo. Para calcular la indemnización que corresponda se tomará como base el cuádruplo del salario mínimo general vigente en la Entidad y se atenderá al número de días que para cada una de las incapacidades mencionadas señala la Ley Federal del Trabajo. En caso de muerte, la presentación de la reclamación de la indemnización, así como su disfrute corresponderá a los herederos legítimos de la víctima.
+Cuando el daño se cause a las personas y produzca la muerte, incapacidad total permanente, parcial permanente, total temporal o parcial temporal, el grado de ella se determinará atendiendo a lo dispuesto por la Ley Federal del Trabajo. Para calcular la indemnización que corresponda se tomará como base el salario mínimo general vigente en la Entidad y se atenderá al número de días que para cada una de las incapacidades mencionadas señala la Ley Federal del Trabajo. En caso de muerte, la presentación de la reclamación de la indemnización, así como su disfrute corresponderá a los herederos legítimos de la víctima.
 
 ###### Artículo 14.
 
@@ -482,3 +484,9 @@ JUAN CARLOS ROMERO HICKS
 EL SECRETARIO DE GOBIERNO
 
 RICARDO TORRES ORIGEL
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 5 DE MARZO DE 2013.
+
+Artículo Único. El presente Decreto entrará en vigencia al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
