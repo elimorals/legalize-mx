@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2012-04-19"
+last_updated: "2013-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2013.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -771,7 +771,11 @@ Todo diputado podrá asistir a las reuniones de las comisiones ordinarias y espe
 
 ###### ARTICULO 53.
 
-1. La Diputación Permanente es el órgano del Congreso a cargo de la vigencia del Poder Legislativo en la vida constitucional del Estado durante los recesos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2013)</small>
+
+1. La Diputación Permanente es el órgano del Congreso a cargo de la vigencia del Poder Legislativo en la vida constitucional del Estado durante los recesos, la cual será nombrada en la última sesión de cada período ordinario de sesiones.
 
 2. La Diputación Permanente se integra en los términos dispuestos por la Constitución Política del Estado y ejerce las atribuciones que la misma le otorga.
 
@@ -2387,7 +2391,7 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 P.O. 30 DE MAYO DE 2006.
 
-DECRETO No. LIX-548
+DECRETO No. LIX-548 POR EL QUE SE ADICIONA UN PÁRRAFO 4 AL ARTÍCULO 53; SE ADICIONA EL INCISO I), PASANDO EL ACTUAL INCISO I) A SER INCISO J) Y SE ADICIONA UN PÁRRAFO 2 AL ARTÍCULO 82; Y SE ADICIONA EL CONTENIDO DEL PÁRRAFO 6 DEL ARTÍCULO 83 DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO.
 
 ###### ARTICULO UNICO.
 
@@ -2395,7 +2399,7 @@ El presente Decreto entrará en vigor a partir de su publicación en el Periódi
 
 P.O. 30 DE MAYO DE 2006.
 
-DECRETO No. LIX-551
+DECRETO No. LIX-551 POR EL QUE SE REFORMA EL ARTÍCULO 35, PÁRRAFO 2 INCISO P) DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS.
 
 ###### ARTICULO UNICO.
 
@@ -2403,7 +2407,7 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 P.O. 1 DE NOVIEMBRE DE 2006.
 
-DECRETO No. LIX-622
+DECRETO No. LIX-622 POR EL QUE SE REFORMA EL INCISO F) DEL PÁRRAFO 2, DEL ARTÍCULO 35 DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -2411,7 +2415,7 @@ El presente Decreto entrará en vigor a partir de su expedición y deberá publi
 
 P.O. 1 DE NOVIEMBRE DE 2006.
 
-DECRETO No. LIX-637
+DECRETO No. LIX-637 POR EL QUE SE REFORMAN LOS INCISOS E) Y I) DEL PÁRRAFO 2, DEL ARTÍCULO 35 DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -2530,3 +2534,13 @@ El artículo décimo tercero del presente Decreto surtirá efectos jurídicos a 
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE MARZO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+La reforma efectuada al artículo 60 de la Constitución Política del Estado de Tamaulipas, establecida en el artículo primero del presente Decreto, surtirá efectos a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La reforma concerniente al artículo 53 párrafo 1 de la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado de Tamaulipas, establecida en el artículo segundo del presente Decreto, entrará en vigor una vez que surta efectos la reforma efectuada al artículo 60 de la Constitución Política del Estado de Tamaulipas, contenida en este Decreto, debiéndose publicar en el Periódico Oficial del Estado.
