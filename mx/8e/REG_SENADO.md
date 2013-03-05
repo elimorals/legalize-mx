@@ -4,7 +4,7 @@ identifier: "REG_SENADO"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-06-04"
-last_updated: "2011-12-20"
+last_updated: "2013-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75171&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "REG_SENADO"
 
 REGLAMENTO DEL SENADO DE LA REPÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE MARZO DE 2013.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 4 de junio de 2010.
 
@@ -620,11 +620,27 @@ I. Conmemorar alguna efeméride;
 
 II. Tributar homenaje a personajes ilustres;
 
-III. Recibir a invitados distinguidos, nacionales o extranjeros; o
+> <small>(REFORMADA POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO POR EL QUE SE CREA EL RECONOCIMIENTO “ELVIA CARRILLO PUERTO”, D.O.F. 5 DE MARZO DE 2013)</small>
 
-IV. Imponer la Medalla de Honor Belisario Domínguez.
+III. Recibir a invitados distinguidos, nacionales o extranjeros;
+
+> <small>(REFORMADA POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO POR EL QUE SE CREA EL RECONOCIMIENTO “ELVIA CARRILLO PUERTO”, D.O.F. 5 DE MARZO DE 2013)</small>
+
+IV. Imponer la Medalla de Honor Belisario Domínguez, o
+
+> <small>(ADICIONADA POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO POR EL QUE SE CREA EL RECONOCIMIENTO “ELVIA CARRILLO PUERTO”, D.O.F. 5 DE MARZO DE 2013)</small>
+
+V. Otorgar el Reconocimiento “Elvia Carrillo Puerto”.
 
 2. El formato y realización de las sesiones solemnes se ajusta a lo que disponen este Reglamento y las disposiciones en materia de ceremonial y protocolo.
+
+> <small>(ADICIONADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO POR EL QUE SE CREA EL RECONOCIMIENTO "ELVIA CARRILLO PUERTO", D.O.F. 5 DE MARZO DE 2013)</small>
+
+Artículo 56 Bis
+
+La ciudadana acreedora al reconocimiento “Elvia Carrillo Puerto” será elegida por el voto de las dos terceras partes de las senadoras y los senadores presentes, de la Cámara de Senadores.
+
+La Comisión para la Igualdad de Género, de la Cámara de Senadores, previa auscultación de los sectores académicos, sociales y culturales, propondrá la terna de candidatas al reconocimiento al Pleno de la Cámara de Senadores, conforme al reglamento del reconocimiento.
 
 Artículo 57
 
@@ -3188,7 +3204,7 @@ CUARTO. Se derogan las Reglas Provisionales y disposiciones económicas del Sena
 
 Dado en el salón de sesiones de la Cámara de Senadores a los veintidós días del mes de abril de dos mil diez.- Sen. Carlos Navarrete Ruiz, Presidente.- Rúbrica.- Sen. Francisco Arroyo Vieyra, Vicepresidente.- Rúbrica.- Sen. Ricardo García Cervantes, Vicepresidente.- Rúbrica.- Sen. Arturo Núñez Jiménez, Vicepresidente.- Rúbrica.- Sen. Martha Leticia Sosa Govea, Secretaria.- Rúbrica.- Sen. Renán Cleominio Zoreda Novelo, Secretario.- Rúbrica.- Sen. Adrián Rivera Pérez, Secretario.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 D.O.F. 20 DE DICIEMBRE DE 2010.
 
@@ -3207,3 +3223,7 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. La Mesa Directiva, a través de la Secretaría General de Servicios Administrativos, dictará las medidas administrativas correspondientes y realizará las previsiones presupuestales necesarias para garantizar el adecuado funcionamiento del Centro.
 
 TERCERO. La estructura, organización, facultades y funcionamiento del Centro de Estudios Internacionales Gilberto Bosques, serán establecidos en el Estatuto para los Servicios Parlamentarios, Administrativos y Técnicos del Senado de la República.
+
+D.O.F. 5 DE MARZO DE 2013.
+
+ÚNICO.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
