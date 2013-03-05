@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-aguas-del-estado-de-tamaulipas-50116"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-15"
-last_updated: "2011-06-16"
+last_updated: "2013-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50116&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE AGUAS DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 15 de febrero de 2006.
 
@@ -107,7 +107,7 @@ VII. Aguas residuales tratadas: Las aguas residuales después de haber recibido 
 
 VIII. Alcantarillado Sanitario: El servicio público que permite desalojar las aguas residuales de los predios.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -383,7 +383,7 @@ IV. Reglamentar el uso y aprovechamiento de las aguas de jurisdicción estatal;
 
 V. Expedir y evaluar las políticas que orienten el fomento y el desarrollo hidráulico equilibrado y sustentable en el Estado;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -473,7 +473,7 @@ XXVI. Ser instancia de atención y trámite de requerimientos y asesoría a usua
 
 XXVII. Coordinarse con las instancias federales, estatales, municipales e internacionales para participar, en el ámbito de su competencia, en la evaluación y, en su caso, autorización de los programas, proyectos y ejecución de las obras que incidan en el uso, manejo, control, explotación, aprovechamiento del agua, tratamiento y reuso de las aguas residuales y residuales tratadas;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -509,7 +509,7 @@ XLII. Impulsar la autosuficiencia técnica, administrativa y financiera de los o
 
 > <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2009)</small>
 
-XLlII. Fungir como árbitro en las posibles controversias entre los prestadores de servicios por derechos y obligaciones derivadas de los servicios que presten;
+XLIII. Fungir como árbitro en las posibles controversias entre los prestadores de servicios por derechos y obligaciones derivadas de los servicios que presten;
 
 > <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
 
@@ -2245,7 +2245,7 @@ f. Por la elaboración de proyectos; y (sic)
 
 g. Por el mantenimiento correctivo a la infraestructura hidráulica o sanitaria cuando el daño haya sido imputable al usuario;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -2253,7 +2253,7 @@ h. Por los servicios ambientales proporcionados por los elementos del ciclo hidr
 
 ###### Artículo 141.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NÚMERO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -2261,15 +2261,15 @@ h. Por los servicios ambientales proporcionados por los elementos del ciclo hidr
 
 2. Todos los usuarios, tanto del sector público, social y privado, están obligados al pago de los servicios públicos conforme a los precios y tarifas que se establezcan y actualicen en los términos de esta ley por el prestador de dichos servicios.
 
-> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2013)</small>
 
-3. Se otorgarán bonificaciones del 50% en el pago de las contribuciones por esos servicios, a jubilados, pensionados, adultos mayores de 60 años y discapacitados hasta un consumo máximo de 20 metros cúbicos, cuando se trate del domicilio donde vivan y el servicio esté registrado a su nombre, previa comprobación de dicha circunstancia.
+3. Se otorgarán bonificaciones del 50% en el pago de las contribuciones por esos servicios, a jubilados, pensionados, adultos mayores de 60 años y discapacitados hasta un consumo máximo de 20 metros cúbicos, cuando se trate del domicilio donde vivan y el servicio esté registrado a su nombre, previa comprobación de dicha circunstancia. Cuando el consumo sea mayor a los 20 metros cúbicos, el usuario deberá pagar el excedente conforme al costo del rango de consumo que corresponde a cada caso específico, sin demérito de la bonificación previamente establecida.
 
 > <small>(ADICIONADO, P.O. 7 DE JULIO DE 2009)</small>
 
 4. La autoridad u organismo operador a cargo de la prestación y cobro del servicio del agua, actualizará anualmente las tarifas conforme a la variación del Índice Nacional de Precios al Consumidor emitido por el Banco de México al mes de diciembre del año anterior.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -2293,7 +2293,7 @@ h. Por los servicios ambientales proporcionados por los elementos del ciclo hidr
 
 Para cobrar el servicio de agua residual se establecerán precios por cada metro cúbico de agua servido.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -2525,7 +2525,7 @@ La Comisión, en coordinación con las autoridades federales, estatales y munici
 
 2. La Comisión también coadyuvará con la Federación, estados y municipios, en el ámbito de sus facultades, para hacer cumplir el respeto de la vocación de los suelos, las zonas federales y las áreas de conservación natural, por considerarse fundamentales para la prevención de desastres provocados por fenómenos naturales.
 
-> <small>(REFORMADA SU DENOMINACION [N. DE E. ADICIONADO], P.O. 15 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADO], P.O. 15 DE OCTUBRE DE 2009)</small>
 
 ## TITULO NOVENO. DE LOS SERVICIOS DE SUMINISTRO DE AGUA EN BLOQUE
 
@@ -2547,11 +2547,11 @@ La Comisión, en coordinación con las autoridades federales, estatales y munici
 
 7. A fin de implementar las afectaciones a que hace referencia este artículo, los municipios podrán constituir fideicomisos o utilizar cualquier otro instrumento legal de acuerdo con la legislación aplicable.
 
-> <small>(ADICIONADO [N. DE E. REUBICADO, ANTES TITULO NOVENO], P.O. 15 DE OCTUBRE DE 2009)</small>
+> <small>(ADICIONADO [N. DE E. REUBICADO, ANTES TÍTULO NOVENO], P.O. 15 DE OCTUBRE DE 2009)</small>
 
 ## TITULO DECIMO. DE LAS INSPECCIONES, INFRACCIONES, SANCIONES Y RECURSOS
 
-### CAPITULO I. DE LA INSPECCION y VERIFICACION DEL USO Y APROVECHAMIENTO DE LAS AGUAS DE JURISDICCION ESTATAL
+### CAPITULO I. DE LA INSPECCION Y VERIFICACION DEL USO Y APROVECHAMIENTO DE LAS AGUAS DE JURISDICCION ESTATAL
 
 ###### Artículo 171.
 
@@ -2911,7 +2911,7 @@ Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estad
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EUGENIO HERNANDEZ FLORES.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- ANTONIO MARTINEZ TORRES.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 22 DE AGOSTO DE 2007.
 
@@ -2966,3 +2966,9 @@ El Ejecutivo del Estado, por conducto de la Comisión Estatal del Agua, dispondr
 ###### ARTÍCULO TERCERO.
 
 Previo a incluir en el precio de cada metro cubico de agua el porcentaje relativo a servicios ambientales, el organismo operador deberá presentar el Programa correspondiente ante el Consejo Directivo respectivo.
+
+P.O. 5 DE MARZO DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
