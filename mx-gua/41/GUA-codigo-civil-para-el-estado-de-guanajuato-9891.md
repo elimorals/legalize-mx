@@ -4,7 +4,7 @@ identifier: "GUA-codigo-civil-para-el-estado-de-guanajuato-9891"
 country: "mx"
 rank: "codigo"
 publication_date: "1967-05-14"
-last_updated: "2012-09-11"
+last_updated: "2013-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9891&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2013.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Guanajuato, el 14 de mayo de 1967.
 
@@ -3343,7 +3343,7 @@ La patria potestad sobre los hijos de matrimonio se ejerce por el padre y la mad
 
 I. Cuando haya abuelos por ambas líneas, el juez los escuchará y decidirá lo que sea más conveniente a los menores, tomando en cuenta la mayor identificación afectiva, las condiciones físicas y morales de los abuelos, su estabilidad económica y siempre que fuere posible, la opinión del menor. El ejercicio de la acción respectiva corresponde a cualquiera de los abuelos y en su defecto al ministerio público.
 
-En cuanto tenga conocimiento del asunto, el juez tomará las medidas necesarias en relación a la custodia de los menores, mientras se decide sobre la patria potestad;
+En cuanto atenga conocimiento del asunto el juez tomará las medidas necesarias en relación a la custodia de los menores, mientras se decide sobre la patria potestad;
 
 > <small>(REFORMADA, P.O. 10 DE JUNIO DE 2005)</small>
 
@@ -7219,7 +7219,7 @@ Si este lugar es calificado de la misma manera que el primero, el Juez señalar�
 
 ###### Art. 1198.
 
-Si hubiere varios predios por donde pueda darse el paso a la vía pública, el obligado a la servidumbre será aquel por donde fuere más corta la distancia, siempre que no resulte muy incómodo y costoso el paso por ese lugar. Si la distancia fuere igual, el Juez designará cuál de los dos predios ha de dar el paso
+Si hubiere varios predios por donde pueda darse el paso a la vía pública, el obligado a la servidumbre será aquel por donde fuere más corta la distancia, siempre que no resulte muy incómodo y costoso el paso por ese lugar. Si la distancia fuere igual, el Juez designará cuál de los dos predios ha de dar el paso.
 
 ###### Art. 1199.
 
@@ -7525,9 +7525,7 @@ La prescripción corre desde el día en que fueron entregados los objetos, si la
 
 III. La acción de los dueños de hoteles y casas de huéspedes para cobrar el importe del hospedaje; y la de éstos y la de los fondistas para cobrar el precio de los alimentos que ministren. La prescripción corre desde el día en que debió ser pagado el hospedaje, o desde aquel en que se ministraron los alimentos;
 
-IV. La responsabilidad civil por injurias, ya sean hechas de palabra o por escrito, y la que nace del daño causado por personas o animales, y que la ley impone al representante de aquéllas o al dueño de éstos.
-
-La prescripción comienza a correr desde el día en que se recibió o fue conocida la injuria o desde aquel en que se causó el daño;
+IV. La responsabilidad civil por injurias, ya sean hechas de palabra o por escrito, y la que nace del daño causado por personas o animales, y que la ley impone al representante de aquéllas o al dueño de éstos. La prescripción comienza a correr desde el día en que se recibió o fue conocida la injuria o desde aquel en que se causó el daño;
 
 V. La responsabilidad civil proveniente de actos ilícitos que no constituyen delitos.
 
@@ -8287,7 +8285,9 @@ Cuando sin el empleo de mecanismos, instrumentos, etc., a que se refiere el art�
 
 La reparación del daño debe consistir, a elección del ofendido, en el restablecimiento de la situación anterior, cuando ello sea posible, o en el pago de daños y perjuicios.
 
-Cuando el daño se cause a las personas y produzca la muerte, incapacidad total permanente, parcial permanente, total temporal o parcial temporal, el grado de ella se determinará atendiendo a lo dispuesto por la Ley Federal del Trabajo. Para calcular la indemnización que corresponda se tomará como base el cuádruplo del salario mínimo diario más alto que esté en vigor en la entidad y se entenderá al número de días que para cada una de las incapacidades mencionadas señala la Ley Federal del Trabajo. En caso de muerte la indemnización corresponderá a los herederos legítimos de la víctima.
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2013)</small>
+
+Cuando el daño se cause a las personas y produzca la muerte, incapacidad total permanente, parcial permanente, total temporal o parcial temporal, el grado de ella se determinará atendiendo a lo dispuesto por la Ley Federal del Trabajo. Para calcular la indemnización que corresponda se tomará como base el salario mínimo general vigente en la Entidad y se atenderá al número de días que para cada una de las incapacidades mencionadas señala la Ley Federal del Trabajo. En caso de muerte la indemnización corresponderá a los herederos legítimos de la víctima.
 
 Los créditos por indemnización cuando la víctima fuere un asalariado son intransferibles, y se cubrirán preferentemente en una sola exhibición, salvo convenio entre las partes.
 
@@ -8907,7 +8907,7 @@ Si tiene contra el cedente un crédito todavía no exigible cuando se hace la ce
 
 ###### Art. 1524.
 
-En los casos a que se refiere el artículo 1521, para que el cesionario pueda ejercitar sus derechos contra el deudor, deberá hacer a éste la notificación de la cesión, ya sea judicialmente, ya en lo extrajudicial, ante dos testigos o ante Notario.
+En los casos a que se refiere el artículo 1521, para que el cesionario pueda ejercitar sus derechos contra el deudor, deberá hacer a éste la notificación de la cesión, ya sea judicialmente, ya en lo extrajudicial, ante dos testigos o anteNotario.
 
 ###### Art. 1525.
 
@@ -12079,7 +12079,7 @@ Las acciones que nacen del transporte, sean en pro o en contra de los porteadore
 
 ###### Art. 2177.
 
-Si la cosa transportada fuere de naturaleza peligrosa, de mala calidad o no estuviere convenientemente empacada o envasada y el daño proviniere de alguna de estas circunstancias, la responsabilidad será del dueño del transporte, si tuvo conocimiento de ellas; en caso contrario, la responsabilidad será del que contrató con el porteador, tanto por el daño que se causen en la cosa, como por el que reciban el medio de transporte u otras personas u objetos.
+Si la cosa transportada fuere de naturaleza peligrosa, de mala calidad o no estuviere convenientemente empacada o envasada y el daño proviniere de alguna de estas circunstancias, la responsabilidad será del dueño del transporte, si tuvo conocimiento de ellas; en caso contrario, la responsabilidad será del que contrató el porteador, tanto por el daño que se causen en la cosa, como por el que reciban el medio de transporte u otras personas u objetos.
 
 ###### Art. 2178.
 
@@ -14145,7 +14145,7 @@ Cuando toda la herencia se distribuyere en legados, los legatarios serán consid
 
 ###### Art. 2543.
 
-Si el autor de la herencia y sus herederos o legatarios perecieran en el mismo desastre o en el mismo día, sin que se pueda averiguar a ciencia cierta quienes murieron antes, se tendrán todos por muertos al mismo tiempo, y no habrá lugar entre ellos a la transmisión de la herencia o legado.
+Si el autor de la herencia y sus herederos o legatarios perecieran en el mismo desastre o en el mismo día, sin que se pueda averiguar a ciencia cierta quiénes murieron antes, se tendrán todos por muertos al mismo tiempo, y no habrá lugar entre ellos a la transmisión de la herencia o legado.
 
 ###### Art. 2544.
 
@@ -14609,7 +14609,7 @@ Aunque el testador nombre algunos herederos individualmente y a otros colectivam
 
 ###### Art. 2640.
 
-Si el testador instituye a sus hermanos, y los tiene solo de padre, sólo de madre, o de padre y madre, se dividirá la herencia como en el caso de intestado.
+Si el testador instituye a sus hermanos, y los tiene sólo de padre, solo de madre, o de padre y madre, se dividirá la herencia como en el caso de intestado.
 
 ###### Art. 2641.
 
@@ -15251,8 +15251,6 @@ Si el testador no puede o no sabe leer, dictará en su idioma el testamento al i
 
 En este caso, el intérprete podrá intervenir, además, como testigo de conocimiento.
 
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2005)</small>
-
 ###### Art. 2774.
 
 Las formalidades expresadas en este capítulo se practicarán en un solo acto que comenzará con la lectura del testamento y el notario dará fe de haberse llenado aquéllas.
@@ -15260,6 +15258,8 @@ Las formalidades expresadas en este capítulo se practicarán en un solo acto qu
 ###### Art. 2775.
 
 Faltando algunas de las referidas formalidades, quedará el testamento sin efecto; el Notario será responsable de los daños y perjuicios y, según la gravedad del caso, podrá decretarse la pérdida del oficio.
+
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2005)</small>
 
 ### Capítulo V. Del testamento ológrafo
 
@@ -15503,7 +15503,7 @@ Al otorgarse el testamento privado se observarán en su caso las disposiciones c
 
 ###### Art. 2826.
 
-El testamento privado sólo surtirá sus efectos si el testador fallece de la enfermedad o en el peligro en que se hallaba, o dentro de un mes después que aquella o éste hayan cesado.
+El testamento privado sólo surtirá sus efectos si el testador fallece de la enfermedad o en el peligro en que se hallaba, o dentro de un mes después que aquélla o éste hayan cesado.
 
 ###### Art. 2827.
 
@@ -16423,7 +16423,7 @@ Si el testador hubiere legado alguna pensión o renta vitalicia, sin gravar con 
 
 ###### Art. 3013.
 
-En el proyecto de partición se expresará la parte que del capital o fondo afecto a la pensión, corresponderá a cada uno de los herederos luego que aquella se extinga.
+En el proyecto de partición se expresará la parte que del capital o fondo afecto a la pensión, corresponderá a cada uno de los herederos luego que aquélla se extinga.
 
 ###### Art. 3014.
 
@@ -16499,7 +16499,7 @@ Por los créditos incobrables no hay responsabilidad.
 
 ###### Art. 3030.
 
-El heredero cuyos bienes hereditarios fueren embargados, o contra quien se pronunciare sentencia en juicio por causa de ellos, tiene derecho de pedir que sus coherederos caucionen la responsabilidad que pueda resultarles y, en caso contrario, que se les prohiba enajenar los bienes que recibieron.
+El heredero cuyos bienes hereditarios fueren embargados, o contra quien se pronunciare sentencia en juicio por causa de ellos, tiene derecho de pedir que sus coherederos caucionen la responsabilidad que pueda resultarles y, en caso contrario, que se les prohíba enajenar los bienes que recibieron.
 
 ###### Art. 3031.
 
@@ -16922,3 +16922,7 @@ DECRETO No. 280 POR EL QUE SE REFORMAN LOS ARTÍCULOS 103 EN SU PRIMER PÁRRAFO 
 Artículo Primero. La reforma al artículo 103 contenida en el presente Decreto entrará en vigencia el uno de enero de 2013, previa su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo. La reforma al artículo 477 contenida en el presente Decreto entrará en vigencia al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 5 DE MARZO DE 2013.
+
+Artículo Único. El presente Decreto entrará en vigencia al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
