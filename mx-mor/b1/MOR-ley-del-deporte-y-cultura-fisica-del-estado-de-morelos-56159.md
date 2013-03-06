@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-deporte-y-cultura-fisica-del-estado-de-morelos-56159"
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-04"
-last_updated: "2008-12-12"
+last_updated: "2013-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56159&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # LEY DEL DEPORTE Y CULTURA FISICA DEL ESTADO DE MORELOS
 
-LEY DEL DEPORTE Y CULTURA FISICA DEL ESTADO DE MORELOS
+LEY DEL DEPORTE Y CULTURA FÍSICA DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 4 de julio de 2007.
 
@@ -225,31 +225,33 @@ Los deportistas, agrupaciones y organismos deportivos para integrarse al Sistema
 
 Se crea el Consejo Consultivo Estatal del Deporte y Cultura Física como un órgano de consulta, propuesta y vigilancia de las políticas, acciones y programas implementados, conforme a la presente Ley y su Reglamento.
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2013)</small>
+
 ###### ARTÍCULO 16.
 
 El Consejo se integrará por:
 
 a) El titular del Ejecutivo Estatal, quien lo presidirá;
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+b) El Secretario de Desarrollo Social;
 
-b) El Secretario de Desarrollo Humano y Social;
-
-c) El Secretario de Salud;
+c) El Secretario de salud;
 
 d) El Director del Instituto del Deporte y Cultura Física del Estado, quien fungirá como Secretario Técnico;
 
-e) El Director del Instituto Morelense de la Juventud;
+e) Un representante de la Comisión del Deporte del Congreso del Estado;
 
-f) Por once Coordinadores Municipales del Deporte, designados por el Instituto de Desarrollo y Fortalecimiento Municipal de Morelos;
+f) El Director del Instituto Morelense de la Juventud;
 
-g) Por un representante de las Agrupaciones y Organismos Deportivos, inscritos en el Registro Estatal del Deporte, designados en asamblea, de cada una de las siguientes disciplinas: Deporte de Combate; Deporte de Conjunto; Deporte Adaptado; Deporte Acuático; Deporte Individual y Deporte Extremo o de Alto Riesgo;
+g) Once Coordinadores Municipales del Deporte, designados por el Instituto de Desarrollo y Fortalecimiento Municipal de Morelos;
 
-h) Un representante del Consejo Coordinador Empresarial del Estado;
+h) Un representante de las Agrupaciones y Organismos Deportivos, inscritos en el Registro Estatal del Deporte, designados en asamblea, de cada una de las siguientes disciplinas: Deporte de Combate; Deporte de Conjunto; Deporte Adaptado; Deporte Acuático; Deporte individual y Deporte extremo o de Alto Riesgo.
 
-i) Un representante de los trabajadores, acreditado ante la Junta Local de Conciliación y Arbitraje del Estado; y
+i) Un representante del Consejo Coordinador Empresarial del Estado;
 
-j) Los representantes en el Estado del Consejo Nacional del Deporte Estudiantil de la Educación Básica, Media Superior y Superior.
+j) Un representante de los trabajadores, acreditado ante la Junta de Conciliación y Arbitraje del Estado; y
+
+k) Los representantes en el Estado del Consejo Nacional del Deporte Estudiantil de la Educación Básica, Media Superior y Superior.
 
 ###### ARTÍCULO 17.
 
@@ -1401,7 +1403,7 @@ LIC. SERGIO ALVAREZ MATA
 
 RÚBRICAS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 12 DE DICIEMBRE DE 2008.
 
@@ -1414,3 +1416,13 @@ TERCERO. Los órganos de gobierno de los organismos públicos descentralizados a
 CUARTO. Se derogan todas aquellas disposiciones que contravengan a lo dispuesto al presente Decreto.
 
 QUINTO. Remítase al Poder Ejecutivo para su correspondiente publicación.
+
+P.O. 6 DE MARZO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Expídase el decreto respectivo y remítase al Titular del Poder Ejecutivo del Estado, para los efectos a que haya lugar; y posteriormente para su publicación en el Periódico Oficial "Tierra y Libertad".
+
+###### ARTÍCULO SEGUNDO.
+
+El decreto que al efecto se expida, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
