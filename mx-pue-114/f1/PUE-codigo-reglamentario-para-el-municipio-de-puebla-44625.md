@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2013-02-11"
+last_updated: "2013-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2013.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -20709,7 +20709,7 @@ Los titulares de Permisos Publicitarios no podrán:
 
 I. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2008)
 
-II. Instalar anuncios en los vehículos que presten el servicio de transporte de carga;
+II. Instalar anuncios en los vehículos que presten el servicio de transporte privado de carga;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -20731,7 +20731,7 @@ IX. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2008)
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-X. Instalar o dar mantenimiento a anuncios en vehículos de transporte privado en la vía pública; y
+X. Instalar o dar mantenimiento a anuncios en vehículos de transporte en la vía pública; y
 
 XI. Instalar anuncios con movimiento al interior o exterior del vehículo.
 
@@ -25305,7 +25305,7 @@ Para hacer uso de estos cajones, los usuarios deberán portar las placas en su v
 
 ###### Artículo 1683 Ter.
 
-En caso de estacionamiento de vehículos de carga, para efecto de llevar a cabo las maniobras de carga y descarga de los mismos, deberán llevarse a cabo de acuerdo al Capítulo de Seguridad Vial y Tránsito Municipal del presente Código para no entorpecer la circulación en la vía pública.
+En caso de estacionamiento de vehículos de carga, para efecto de llevar a cabo las maniobras de carga y descarga de los mismos, deberán llevarse a cabo (sic) de acuerdo al Capítulo de Seguridad Vial y Tránsito Municipal del presente Código para no entorpecer la circulación en la vía pública.
 
 > <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2007)</small>
 
@@ -31393,7 +31393,7 @@ X. Empresa: Persona moral legalmente constituida, y que cuenta con medios propio
 
 XI. Promotor: Persona física que deberá contar con licencia legalmente expedida por la Comisión que autorice dentro del Municipio permanente o eventualmente, a promover espectáculos de Box y Lucha Libre profesional, considerados como empleados de las empresas, y en consecuencia éstas serán responsables directas de cualquier falta o infracción que cometan;
 
-XII. Representante: Persona física que deberá contar con licencia legalmente expedida por la Comisión que les autorice actuar dentro del Municipio, y que tiene bajo su responsabilidad el impulso e imagen de un boxeador o luchador con la finalidad de buscar el mejor desempeño deportivo y que resditúe en beneficios económicos para los mismos;
+XII. Representante: Persona física que deberá contar con licencia legalmente expedida por la Comisión que les autorice actuar dentro del Municipio, y que tiene bajo su responsabilidad el impulso e imagen de un boxeador o luchador con la finalidad de buscar el mejor desempeño deportivo y que reditúe en beneficios económicos para los mismos;
 
 XIII. Manejador: Persona física que deberá contar con licencia legalmente expedida por la Comisión que le autorice actuar dentro del Municipio, y que será la encargada de cuidar la forma y condición física de los boxeadores y luchadores, proporcionándoles el adiestramiento técnico necesario;
 
@@ -31755,7 +31755,7 @@ En funciones de lucha libre, podrá autorizar el Comisionado en turno la substit
 
 ###### Artículo 2134 Ter.
 
-No podrá ser cambiada la pelea o estrella alguno de los boxeadores que participen en la misma después de aprobado el programa por la Comisión, y de que este se haya hecho del conocimiento del público, por anuncios, programas de mano o por cualquier otro medio publicitario.
+No podrá ser cambiada la pelea estrella o alguno de los boxeadores que participen en la misma después de aprobado el programa por la Comisión, y de que este se haya hecho del conocimiento del público, por anuncios, programas de mano o por cualquier otro medio publicitario.
 
 Solamente en casos de excepción, y por circunstancias perfectamente justificadas, podrán autorizarse los cambios a que se refiere él párrafo anterior, con setenta y dos horas de anticipación contadas a partir de aquélla en que deba efectuarse el peso de los boxeadores que van a tomar parte en la función correspondiente.
 
@@ -32265,7 +32265,7 @@ Para ser representante de boxeadores o luchadores, se requiere ser mayor de edad
 
 ###### Artículo 2171.
 
-Todo representante que se encuentre suspendido por la Comisión Municipal de Box y Lucha Libre o por cualquier otra Comisión o Consejo de Box o Lucha Libre Nacional o Extranjera, con la cual la primera tenga relaciones de reciprocidad, no podrá actuar por sí o a través de otra persona, dentro del boxeo o lucha libre profesional, mientras dure el término de la suspensión.
+Todo representante que se encuentre suspendido por la Comisión Municipal de Box y Lucha Libre o por cualquiera otra Comisión o Consejo de Box o Lucha Libre Nacional o Extranjera, con la cual la primera tenga relaciones de reciprocidad, no podrá actuar por sí o a través de otra persona, dentro del boxeo o lucha libre profesional, mientras dure el término de la suspensión.
 
 > <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
@@ -34077,45 +34077,59 @@ IV. El titular de la Secretaría de Desarrollo Social y del Instituto Municipal 
 
 DEL PREMIO MUNICIPAL DEL DEPORTE
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2013)</small>
 
 ###### Artículo 2315.
 
-El Premio Municipal del Deporte, será entregado a los deportistas poblanos que sobresalgan en las diferentes disciplinas deportivas, por su conducta y dedicación considerándoles como un ejemplo alentador para el resto de los deportistas mexicanos.
+El Premio Municipal del Deporte, será entregado a las y los deportistas y entrenadores poblanos que sobresalgan en las diferentes disciplinas deportivas por su conducta y dedicación, considerándoles como un ejemplo alentador para el resto de los deportistas y entrenadores mexicanos.
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2013)</small>
 
 ###### Artículo 2316.
 
-El Premio Municipal del Deporte, consistirá en un Diploma el cual se entregará cada año durante el mes de abril dentro de los festejos conmemorativos al día internacional del deporte, en Acto Protocolario de Cabildo. La convocatoria será dada a conocer durante el mes de febrero.
+El Premio Municipal del Deporte, consistirá en un Diploma el cual se entregará cada año en el mes de noviembre, en acto protocolario de Cabildo. La convocatoria será dada a conocer durante el mes de septiembre.
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2013)</small>
 
 ###### Artículo 2317.
 
-Podrán participar los deportistas, que destaquen en alguno de los siguientes rubros:
+Podrán participar las y los deportistas y entrenadores que destaquen en alguno de los siguientes rubros:
 
-I. Convencional.- Atletas en proceso de desarrollo, medallistas de Olimpiada Nacional, con participación en competencias internacionales oficiales y con trayectoria académica sobresaliente;
+I. Deportistas:
 
-II. Con Discapacidad.- Atletas en proceso de desarrollo, medallistas de Paralimpiada Nacional 2011 con participación en competencias internacionales oficiales y con trayectoria académica sobresaliente;
+a. Convencional nacional: Atletas en proceso de desarrollo con participación y logros en competencias nacionales oficiales.
 
-III. Deporte convencional.- Entrenadores que por su trayectoria comprueben el desarrollo de su disciplina deportiva con más de dos atletas con resultados nacionales e internacionales; y
+b. Convencional internacional: Atletas en proceso de desarrollo con participación y logros en competencias internacionales oficiales.
 
-IV. Deporte con discapacidad.- Entrenadores que por su trayectoria comprueben el desarrollo de su disciplina deportiva con más de dos atletas con resultados nacionales e internacionales.
+c. Con capacidades diferentes nacional: Atletas en proceso de desarrollo con participación y logros en competencias nacionales oficiales.
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
+d. Con capacidades diferentes internacional: Atletas en proceso de desarrollo con participación y logros en competencias internacionales oficiales.
+
+II. Entrenadores:
+
+a. Deporte convencional nacional: Entrenadores que por su trayectoria comprueben el desarrollo de su disciplina deportiva con más de dos atletas con resultados nacionales en competencias oficiales, durante el año inmediato anterior.
+
+b. Deporte convencional internacional: Entrenadores que por su trayectoria comprueben el desarrollo de su disciplina deportiva con más de dos atletas con resultados internacionales en competencias oficiales, durante el año inmediato anterior.
+
+c. Deporte con capacidades diferentes nacional: Entrenadores que por su trayectoria comprueben el desarrollo de su disciplina deportiva con más de dos atletas con resultados nacionales en competencias oficiales, durante el año evaluado.
+
+d. Deporte con capacidades diferentes internacional: Entrenadores que por su trayectoria comprueben el desarrollo de su disciplina deportiva con más de dos atletas con resultados internacionales en competencias oficiales, durante el año evaluado.
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2013)</small>
 
 ###### Artículo 2318.
 
 El Consejo de Premiación para la entrega del Premio Municipal del Deporte estará integrado por:
 
-I. El Presidente Municipal, quien fungirá como Presidente, con voz y voto, quien tendrá voto de calidad en caso de empate;
+I. El Presidente Municipal, quien fungirá como Presidente Honorario, quien tendrá voto de calidad en caso de empate;
 
-II. El Secretario del Ayuntamiento, quien fungirá como Secretario Ejecutivo, con voz y voto;
+II. El Secretario del Ayuntamiento, quien fungirá como Presidente Ejecutivo;
 
-III. La Directora General del Instituto Municipal del Deporte de Puebla, quien fungirá como Secretaria Técnica del Consejo, con voz y voto; y
+III. El Director General del Instituto Municipal del Deporte de Puebla, quien fungirá como Secretario; y
 
-IV. Los Regidores integrantes de la Comisión o Comisiones permanentes del Ayuntamiento que atiendan los temas de Juventud, Deporte y Sociales, quienes fungirán como Vocales, con voz y voto.
+IV. Los Regidores integrantes de la Comisión o Comisiones permanentes del Honorable Ayuntamiento que atiendan los temas de actividades deportivas y sociales, quienes fungirán como Vocales.
+
+Cada integrante del Consejo de Premiación tendrá voz y voto, y cada uno podrá nombrar mediante oficio a un suplente, mismo que contará con las facultades de su Titular en ausencia de éste, excepto el Presidente Honorario, quien será sustituido por el Presidente Ejecutivo.
 
 > <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
 
@@ -35114,6 +35128,12 @@ CUARTO.- Las casas de empeño, de compra venta de oro, cobre, monedas y metales;
 QUINTO.- Los licenciatarios que tengan vigente la licencia de joyería y relojería y compra venta de oro; compra y venta de monedas y metales; y otros servicios financieros (casas de empeño) tendrán 90 días naturales para modificar su licencia de funcionamiento de conformidad con las presentes reformas, derogaciones y adiciones. En caso de no hacerlo se aplicará las sanciones establecidas por el artículo 638 Ter del Código Reglamentario para el Municipio de Puebla.
 
 SEXTO.- La Secretaría de Administración y Tecnologías de la Información, elaborará el Manual de Operación al que se hace referencia en el artículo 632 Bis, en un plazo no mayor a 30 días naturales a partir de la publicación de las presentes reformas, adiciones y derogaciones en el Periódico Oficial del Estado.
+
+P.O. 6 DE MARZO DE 2013.
+
+PRIMERO.- Las presentes reformas entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se contrapongan a las presentes reformas.
 
 ## [N. DE E. TRANSITORIOS DE LA “MODIFICACIÓN AL ESTATUTO ORGÁNICO DEL SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA, PUBLICADO EL 5 DE DICIEMBRE DE 2019”.]
 
