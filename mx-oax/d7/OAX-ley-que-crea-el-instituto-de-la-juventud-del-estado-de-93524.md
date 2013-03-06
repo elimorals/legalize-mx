@@ -4,7 +4,7 @@ identifier: "OAX-ley-que-crea-el-instituto-de-la-juventud-del-estado-de-93524"
 country: "mx"
 rank: "ley"
 publication_date: "2013-03-04"
-last_updated: "2013-03-04"
+last_updated: "2013-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93524&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY QUE CREA EL INSTITUTO DE LA JUVENTUD DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el lunes 4 de marzo de 2013.
 
@@ -381,21 +381,17 @@ CUARTO. Los bienes muebles e inmuebles, recursos financieros, presupuestarios y 
 
 QUINTO. Los acuerdos, convenios y cualquier acto jurídico celebrado por la Comisión Estatal de la Juventud, seguirán surtiendo sus efectos y se entenderán celebrados por el Instituto de la Juventud del Estado de Oaxaca, hasta cumplir con su objetivo. Cuando en diversas disposiciones legales y reglamentarias se mencione a la Comisión Estatal de la Juventud, se entenderá referida el área correspondiente del Instituto de la Juventud del Estado de Oaxaca.
 
-SEXTO. El personal de base adscrito a la Comisión Estatal de la Juventud, pasará a formar parte de la estructura del Instituto de la Juventud del Estado de Oaxaca.
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2013)</small>
 
-(El presente artículo fue observado por el titular del Poder Ejecutivo, de conformidad con el artículo 53, fracciones III y VI, y 79, fracción II, de la Constitución Política del Estado Libre y Soberano de Oaxaca, por oficio fechado el 27 de agosto de 2012 y recibido en el Poder Legislativo en la misma fecha).
+SEXTO. El personal de base y de confianza incluyendo a su titular, adscrito a la Comisión Estatal de la Juventud pasará a formar parte de la estructura del Instituto de la Juventud del Estado de Oaxaca.
 
-SÉPTIMO. La operación del Instituto, deberá contemplarse a más tardar en el Presupuesto de Egresos del Gobierno del Estado de Oaxaca del año 2012.
+(REFORMADO Y REUBICADO (N. DE E. ANTES OCTAVO), P.O. 6 DE MARZO DE 2013)
 
-(El presente artículo fue observado por el titular del Poder Ejecutivo, de conformidad con el artículo 53, fracciones III y VI, y 79, fracción II, de la Constitución Política del Estado Libre y Soberano de Oaxaca, por oficio fechado el 27 de agosto de 2012 y recibido en el Poder Legislativo en la misma fecha).
+SÉPTIMO. El Reglamento Interior del Instituto deberá expedirse dentro de los 60 días naturales posteriores a la entrada en vigor de la presente ley.
 
-OCTAVO. El Reglamento Interior del Instituto, deberá expedirse dentro de los 60 días naturales, siguientes a la designación de los miembros del Instituto.
+(REFORMADO Y REUBICADO (N. DE E. ANTES NOVENO), P.O. 6 DE MARZO DE 2013)
 
-(El presente artículo fue observado por el titular del Poder Ejecutivo, de conformidad con el artículo 53, fracciones III y VI, y 79, fracción II, de la Constitución Política del Estado Libre y Soberano de Oaxaca, por oficio fechado el 27 de agosto de 2012 y recibido en el Poder Legislativo en la misma fecha).
-
-NOVENO. Las disposiciones contenidas en el presente decreto prevalecerán, en caso de conflicto, sobre aquellas de igual o menor rango que se le opongan, aun cuando no estén expresamente derogadas o abrogadas.
-
-(El presente artículo fue observado por el titular del Poder Ejecutivo, de conformidad con el artículo 53, fracciones III y VI, y 79, fracción II, de la Constitución Política del Estado Libre y Soberano de Oaxaca, por oficio fechado el 27 de agosto de 2012 y recibido en el Poder Legislativo en la misma fecha).
+OCTAVO. Las disposiciones contenidas en el presente decreto prevalecerán, en caso de conflicto, sobre aquellas de igual o menor rango que se le opongan, aun cuando no estén expresamente derogadas o abrogadas.
 
 Lo tendrá entendido el Gobernador del Estado y hará que se publique y se cumpla.
 
@@ -440,3 +436,9 @@ Tlalixtac de Cabrera, Centro, Oax., a 10 de agosto del 2012.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 C.P.A. JESÚS EMILIO MARTÍNEZ ÁLVAREZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 6 DE MARZO DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
