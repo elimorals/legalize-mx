@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-deporte-y-cultura-fisica-del-estado-de-morelos-56159"
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-04"
-last_updated: "2008-12-12"
+last_updated: "2013-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56159&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,879 +21,1329 @@ state: "MOR"
 ---
 # LEY DEL DEPORTE Y CULTURA FISICA DEL ESTADO DE MORELOS
 
-LEY DEL DEPORTE Y CULTURA FISICA DEL ESTADO DE MORELOS
+REGLAMENTO PARA LA LIQUIDACIÓN DEL PATRIMONIO DE LOS PARTIDOS POLÍTICOS LOCALES DE LA CIUDAD DE MÉXICO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 2008.
+TEXTO ORIGINAL.
 
-Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 4 de julio de 2007.
+Reglamento publicado en el Número 171 de la Gaceta Oficial de la Ciudad de México, el lunes 3 de octubre de 2016.
 
-Al margen izquierdo un Escudo del Estado de Morelos que dice: "Tierra y Libertad".- La Tierra volverá a quienes la trabajan con sus manos.
+INSTITUTO ELECTORAL
 
-DR. MARCO ANTONIO ADAME CASTILLO, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS A SUS HABITANTES SABED:
+Acuerdo del Consejo General del Instituto Electoral del Distrito Federal, por el que se aprueba el Reglamento para la Liquidación del Patrimonio de los Partidos Políticos Locales de la Ciudad de México.
 
-Que el H. Congreso del Estado se ha servido enviarme para su promulgación lo siguiente:
+A n t e c e d e n t e s:
 
-LA QUINCUAGÉSIMA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LAS FACULTADES QUE LE OTORGA EL ARTÍCULO 40, FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA LOCAL, Y,
+I. El 20 de diciembre de 2010, se publicó en la otrora Gaceta Oficial del Distrito Federal (Gaceta Oficial), el Decreto por el que se expidió el Código de Instituciones y Procedimientos Electorales del Distrito Federal.
 
-CONSIDERANDO
+II. El 25 de mayo de 2011, mediante el Acuerdo ACU-37-11, el Consejo General del Instituto Electoral del Distrito Federal (Consejo General), aprobó el Reglamento para la Liquidación del Patrimonio de las Asociaciones Políticas en el Distrito Federal, mismo que fue publicado en la Gaceta Oficial el 8 de junio de 2011.
 
-.
+III. El 10 de febrero de 2014, se publicó en el Diario Oficial de la Federación (Diario Oficial) el Decreto por el que se reformaron, adicionaron y derogaron diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos (Constitución), en materia política-electoral.
 
-LEY DEL DEPORTE Y CULTURA FÍSICA DEL ESTADO DE MORELOS
+IV. El 27 de junio de 2014, se publicó en el Diario Oficial, el Decreto por el que se reformaron, adicionaron y derogaron diversas disposiciones del Estatuto de Gobierno del Distrito Federal (Estatuto de Gobierno).
 
-## TÍTULO PRIMERO
+V. El 27 y 30 de junio de 2014, se publicaron en la Gaceta Oficial, los Decretos por los que se reformaron, adicionaron y derogaron diversas disposiciones del Código de Instituciones y Procedimientos Electorales del Distrito Federal (Código).
 
-### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
+VI. El 30 de septiembre de 2014, mediante Acuerdo INE/CG165/2014, el Consejo General del Instituto Nacional Electoral (INE), en uso de sus facultades aprobó la designación del Consejero Presidente, Consejeras y Consejeros Electorales del Consejo General del Instituto Electoral del Distrito Federal (Instituto Electoral).
 
-###### ARTÍCULO 1.
+VII. El 7 de octubre de 2014, el Consejo General mediante Acuerdo ACU-52-14, aprobó la integración de las Comisiones Permanentes de este Instituto Electoral, dentro de las que se encuentra la Comisión Permanente de Fiscalización, cuya integración quedó conformada de la siguiente manera:
 
-Las disposiciones contenidas en la presente Ley son de orden público e interés social y tienen por objeto normar las actividades tendientes a fomentar y desarrollar el deporte y la cultura física en el Estado de Morelos; a establecer el Sistema Estatal del Deporte y Cultura Física, así como, a constituir las bases generales de coordinación y colaboración entre el Estado y los Municipios, la concertación para la participación de los sectores social y privado, en materia del deporte y la cultura física.
+Consejera Electoral Gabriela Williams Salazar (Presidenta).
 
-###### ARTÍCULO 2.
+Consejero Electoral Yuri Gabriel Beltrán Miranda (Integrante).
 
-La función social del deporte y de la cultura física es la de fortalecer y fomentar la interacción e integración del ser humano con la sociedad, para desarrollar de manera armónica las capacidades intelectuales, afectivas y motrices de las personas y contribuir a promover la solidaridad como valor social y elevar el nivel cultural, de competición y de competitividad deportiva de los morelenses en todas sus manifestaciones y expresiones, garantizando la igualdad de oportunidades dentro de los programas y acciones que en materia del deporte y la cultura física se implementen en el Estado.
+Consejera Electoral Dania Paola Ravel Cuevas (Integrante).
 
-###### ARTÍCULO 3.
+VIII. El 23 de diciembre de 2014, mediante el Acuerdo INE/CG350/2014, el Consejo General del INE modificó el diverso INE/CG263/2014, por el que se expidió el Reglamento de Fiscalización y se abrogó el Reglamento de Fiscalización aprobado el 4 de julio de 2011 por el Consejo General del entonces Instituto Federal Electoral mediante el Acuerdo CG201/2011, en acatamiento a la Sentencia de la Sala Superior del Tribunal Electoral del
 
-Son sujetos de la presente Ley: todos los individuos, agrupaciones y organismos deportivos de los sectores público, privado y social en el Estado, que por su naturaleza y funciones sean susceptibles de integrarse al Sistema.
+Poder Judicial de la Federación (Sala Superior) recaída al recurso de apelación SUP-RAP-207/2014 y acumulados.
 
-###### ARTÍCULO 4.
+IX. El 30 de octubre de 2015, el Consejo General del INE aprobó mediante Acuerdo INE/CG909/2015, el Estatuto del Servicio Profesional Electoral Nacional y Personal de la Rama Administrativa (Estatuto del SPEN), el cual se publicó en el Diario Oficial el 15 de enero de 2016.
 
-Se reconoce el derecho de los morelenses al conocimiento, difusión, práctica, integración y asociación en las actividades y desarrollo del deporte y la cultura física.
+X. El 6 de noviembre de 2015, el Consejo General del INE, mediante el Acuerdo INE/CG938/2015, aprobó las reglas generales en relación con el procedimiento de liquidación de los partidos políticos nacionales que no obtuvieron el porcentaje mínimo de la votación establecido en la ley para conservar su registro, en acatamiento a la sentencia dictada por la Sala Superior en el recurso de apelación SUP-RAP-697/2015 y acumulados.
 
-###### ARTÍCULO 5.
+XI. El 16 de diciembre de 2015, mediante el Acuerdo INE/CG1047/2015, el Consejo General del INE reformó y adicionó diversas disposiciones al Reglamento de Fiscalización.
 
-Corresponde al Ejecutivo Estatal, ser el órgano rector de la política deportiva y la cultura física, a través del Instituto del Deporte y Cultura Física; para ello, contará con las facultades que le otorga esta Ley, así como, otras disposiciones normativas para el mejor desarrollo de estas acciones en el Estado de Morelos.
+XII. El 29 de enero de 2016, se publicó en el Diario Oficial el Decreto por el que se reformaron y derogaron diversas disposiciones de la Constitución, en materia política de la Ciudad de México, en cuyo artículo DÉCIMO CUARTO transitorio se previó que a partir de su entrada en vigor (al día siguiente de su publicación), todas las referencias que en la Constitución y demás ordenamientos jurídicos se hagan al Distrito Federal deberán entenderse hechas a la Ciudad de México.
 
-El Gobierno Estatal y los Gobiernos Municipales, fomentarán y promoverán el adecuado ejercicio del derecho de todos los morelenses, a la práctica del deporte y la cultura física en el ámbito de sus respectivas competencias, de conformidad con las bases de coordinación previstas en esta Ley y demás ordenamientos normativos aplicables.
+XIII. El 6 de abril de 2016, la Sala Superior al resolver el recurso de apelación SUP-RAP-19/2016, modificó el Acuerdo INE/CG1047/2015, emitido por el Consejo General del INE, por el cual se reformaron y adicionaron diversas disposiciones del Reglamento de Fiscalización.
 
-###### ARTÍCULO 6.
+XIV. El 31 de mayo de 2016, el Consejo General del INE, aprobó el Acuerdo INE/CG454/2016, por el cual se modifica el artículo Séptimo Transitorio del Estatuto del SPEN, a fin de ampliar hasta el 30 de junio el plazo para que los Organismos Públicos Locales comuniquen al INE la adecuación de su estructura orgánica funcional en los términos dispuestos por el propio Estatuto del SPEN y el Catálogo del Servicio.
 
-Para efectos de la presente Ley y su reglamento, se entiende por:
+XV. El 28 de junio de 2016, el Consejo General mediante el Acuerdo ACU-42-16, aprobó las modificaciones a la estructura orgánica funcional del Instituto Electoral, en acatamiento a lo previsto en el Estatuto del Servicio Profesional Electoral Nacional y del personal de la Rama Administrativa.
 
-I. Sistema: Al Sistema del Deporte y Cultura Física del Estado de Morelos;
+XVI. El 29 de julio de 2016, el Consejo General del Instituto Electoral, mediante Acuerdo ACU-48-16, en cumplimiento a los Acuerdos identificados con las claves ACU-41-16 y ACU- 42-16 respectivamente, se aprobaron reformas al Reglamento Interior; Reglamento de Sesiones del Consejo General y Comisiones; así como al Reglamento en Materia de Transparencia y Acceso a la Información Pública, todos ellos de este Instituto Electoral.
 
-II. Consejo: Al Consejo Estatal del Deporte y Cultura Física;
+XVII. En ese contexto, de conformidad con lo dispuesto en el artículo 90 del Código en relación con el artículo 199, numeral 1, inciso b) de la Ley General de Instituciones y Procedimientos Electorales (Ley General), la Unidad Técnica Especializada de Fiscalización (UTEF), elaboró el Anteproyecto de Reglamento para la Liquidación del Patrimonio de los Partidos Políticos Locales de la Ciudad de México, mismo que de forma integral con su anexo fue sometido a la consideración de la Comisión Permanente de Fiscalización para los efectos conducentes.
 
-III. Instituto: Al Instituto del Deporte y Cultura Física del Estado de Morelos;
+XVIII. El 25 de agosto de 2016, en su Octava Sesión Ordinaria, la Comisión Permanente de Fiscalización del Consejo General aprobó el Proyecto de Reglamento para la Liquidación del Patrimonio de los Partidos Políticos Locales de la Ciudad de México y someterlo a la consideración de dicho órgano superior de dirección, en términos del anexo que se acompaña.
 
-IV. Programa Estratégico: Documento que contiene la misión, visión, líneas estratégicas, objetivos y metas que persigue el deporte y la cultura física de Morelos;
+C o n s i d e r a n d o :
 
-V. Programa: Documento que establece los lineamientos referente a los objetivos y acciones que se llevarán a cabo, para el logro de los mismos;
+1. Que conforme a los artículos 41, párrafo segundo, Base V, Apartado C, numeral 11 de la Constitución; 3, inciso h); 98, numerales 1 y 2 de la Ley General; 123, párrafo primero; 124, párrafo primero y 127, párrafo primero, numerales 10 y 11 del Estatuto de Gobierno, así como 15, 16 y 20 del Código, el Instituto Electoral es un organismo público local, de carácter permanente, autoridad en materia electoral, profesional en su desempeño, que goza de autonomía presupuestal en su funcionamiento e independencia en sus decisiones, tiene personalidad jurídica y patrimonio propios.
 
-VI. Deporte: La práctica sistemática de actividades físicas e intelectuales que se realicen de manera individual o en conjunto, con propósitos de competencia, competitividad o de esparcimiento en apego a su reglamentación y tendientes al desarrollo y mejoramiento de las capacidades del individuo;
+2. Que en términos de lo dispuesto por los artículos 41, párrafo segundo, Base V, Apartado C, numerales 10 y 11 de la Constitución y 127, numerales 10 y 11 del Estatuto de Gobierno, el Instituto Electoral tendrá a su cargo en forma integral y directa, todas las actividades no reservadas al INE y las que determinen la propia Constitución y las leyes.
 
-VII. Deportista: Persona física que realice actividades de orden de competencia, competitivo o esparcimiento, bajo la reglamentación establecida;
+3. Que el artículo 116, fracción IV, inciso g) de la Constitución, señala que de conformidad con las bases establecidas en esa Constitución y las leyes generales en la materia, las Constituciones y leyes de los Estados en materia electoral, garantizarán entre otras cosas, que los partidos políticos reciban, en forma equitativa, financiamiento público para sus actividades ordinarias permanentes y las tendientes a la obtención del voto durante los procesos electorales. Del mismo modo se establezca el procedimiento para la liquidación de los partidos que pierdan su registro y el destino de sus bienes y remanentes.
 
-VIII. Educación Física: La sistematización de conductas motrices para conseguir objetivos educativos, por medio del cual se adquiere, transmite y acrecienta la cultura física, la competencia motriz y las bases del deporte, mismas que se contemplan y se definen en los Programas de Educación del Estado y en el Programa Estatal del Deporte;
+4. Que el artículo 122, fracción XI del Estatuto de Gobierno, establece que con relación a los partidos políticos, la ley señalará el procedimiento para la liquidación de los partidos locales que pierdan su registro y el destino de sus bienes y remanentes.
 
-IX. Cultura Física: Manifestación de valores sociales, conocimientos, investigaciones, habilidades y recursos orientados en beneficio de todos los sectores de la población;
+5. Que de conformidad a lo señalado en el artículo 1, párrafos primero y segundo, fracciones ll y VIII del Código, las disposiciones contenidas en dicho ordenamiento son de orden público y observancia general en la Ciudad de México y tienen como finalidad reglamentar las normas de la Constitución y del Estatuto de Gobierno, relativas a las prerrogativas y obligaciones de, entre otros, de los partidos políticos locales, así como las atribuciones del Instituto Electoral.
 
-X. Deporte Popular: El que tiene como objetivo contribuir al bienestar individual y social de la población, poniendo a su alcance, la práctica de actividades físicas y deportivas;
+6. Que atento al artículo 3, párrafos primero y segundo del Código, y de conformidad con las disposiciones contenidas en la Constitución, la Ley General y la Ley General de Partidos Políticos, el Instituto Electoral está facultado para aplicar e interpretar, en su ámbito competencial las normas establecidas en la legislación electoral local, atendiendo a los criterios gramatical, sistemático y funcional, conforme a los derechos humanos reconocidos en la Constitución, favoreciendo en todo tiempo a las personas con la protección más amplia. A falta de disposición expresa, se aplicarán los principios generales del derecho, de acuerdo con lo dispuesto en el último párrafo del artículo 14 de la Constitución.
 
-XI. Deporte Estudiantil: Aquel que agrupa a los deportistas que pertenecen al Sistema Educativo Estatal de conformidad a la Ley de Educación del Estado incluyendo a cualquier nivel, modalidad y subsistema educativo;
+7. Que de acuerdo con los artículos 120, párrafo segundo del Estatuto de Gobierno y 3, párrafo tercero del Código, para el debido cumplimiento de sus atribuciones, el Instituto Electoral rige su actuación en los principios de certeza, imparcialidad, independencia, legalidad, máxima publicidad, transparencia y objetividad.
 
-XII. Deporte Asociado: Aquel que está formado por ligas estatales, municipales, regionales o filiales de la misma disciplina deportiva, clubes, equipos o deportistas, que se integran de manera legal con el objetivo de realizar competencias entre sí o bien, para seleccionar deportistas o equipos representativos del Estado y que se rigen por estatutos o reglamentos de cada deporte en vigor y de cada asociación;
+8. Que en términos de los artículos 16 y 17 del Código, el Instituto Electoral tiene su domicilio en la Ciudad de México y se rige para su organización, funcionamiento y control por las disposiciones contenidas en la Constitución, las Leyes Generales en la materia, el Estatuto de Gobierno, la Ley Procesal Electoral para el Distrito Federal y el propio Código. Asimismo, sin vulnerar su autonomía, le son aplicables las disposiciones relativas de la Ley de Presupuesto y Gasto Eficiente del Distrito Federal.
 
-XIII. Deporte de Alto Rendimiento: El que tiene como objetivo desarrollar de manera eficiente y eficaz cada uno de los patrones de movimiento que cumplan con el nivel competitivo determinado, para poder participar en competencias nacionales, internacionales, mundiales u olímpicas en las diferentes disciplinas;
+9. Que de conformidad con el artículo 18, fracciones I y ll del Código, para el debido cumplimiento de sus funciones y de acuerdo con su ámbito de competencia establecido en la Constitución, Leyes Generales, Estatuto de Gobierno y el Código, el Instituto Electoral debe observar los principios rectores de la función electoral, así como velar por la estricta observancia y cumplimiento de las disposiciones electorales, debiendo sancionar en el ámbito de sus atribuciones cualquier violación a las mismas.
 
-XIV. Deporte Adaptado: Se entiende por deporte adaptado, la práctica de actividades deportivas enfocadas a las personas con algún tipo de discapacidad;
+10. Que el artículo 20, párrafos primero, fracciones II y IX, tercero, inciso a) y quinto, incisos a) y q) del Código, en relación con el 104, numeral 1, incisos a) y r) de la Ley General, disponen que el Instituto Electoral gozará de autonomía en su funcionamiento e independencia en sus decisiones de acuerdo a lo previsto en las Leyes Generales de la materia, el propio Código y la Ley de Participación Ciudadana del Distrito Federal. Sus fines y acciones se orientan, entre otros aspectos, a fortalecer el régimen de asociaciones políticas y a contribuir al desarrollo y adecuado funcionamiento de la institucionalidad democrática, teniendo a su cargo las atribuciones de aplicar dentro del ámbito de su competencia las disposiciones generales, reglas, lineamientos, criterios y formatos que, en ejercicio de las facultades que le confiere la Constitución y la Ley General, establezca el INE, así como las demás atribuciones que establezcan las leyes locales no reservadas expresamente a dicha autoridad nacional.
 
-XV. Deporte Remunerado: Aquel que se practica con el objeto de obtener un lucro por la actividad realizada o presentada como espectáculo público;
+11. Que el artículo 21, fracciones I y III del Código, dispone que el Instituto Electoral se integra por diversos órganos, entre los que se encuentra el Consejo General como órgano superior de dirección, el Secretario Ejecutivo y las Direcciones Ejecutivas.
 
-XVI. Deporte Extremo o de Alto Riesgo: Aquella actividad deportiva que puede implicar un mayor peligro para la integridad física de la persona que lo practica, y que por ello requiere de una serie de conocimientos, protecciones y equipo especializado, que permitan desarrollar la actividad con seguridad;
+12. Que según lo previsto en los artículos 124, párrafo segundo del Estatuto de Gobierno y 25, párrafos primero, segundo y tercero del Código, el Consejo General es el órgano superior de dirección del Instituto Electoral, integrado por siete Consejeras y Consejeros Electorales con derecho a voz y voto, uno de los cuales funge como su Presidente. Asimismo, son integrantes de dicho colegiado sólo con derecho a voz, el Secretario Ejecutivo, quien es Secretario del Consejo y un representante por cada partido político, así mismo, acudirán como invitados permanentes solo con derecho a voz, un Diputado por cada Grupo Parlamentario de la Asamblea Legislativa del Distrito Federal.
 
-XVII. Agrupación Deportiva: Conjunto de personas físicas o morales que cuenten o no con personalidad jurídica, conformadas con el propósito de practicar algún deporte;
+13. Que el artículo 32, párrafos primero, segundo y tercero del Código, dispone que el Consejo General funciona de manera permanente y en forma colegiada, mediante la celebración de sesiones públicas de carácter ordinario o extraordinario, convocadas por el Consejero Presidente. Sus determinaciones se asumen por mayoría de votos, salvo los asuntos que expresamente requieran votación por mayoría calificada, y éstas revisten la forma de acuerdo o resolución, según sea el caso.
 
-XVIII. Organismo Deportivo: Agrupación formada libremente por individuos o personas morales de los sectores público, privado o social, tales como:
+14. Que en términos del artículo 35 fracciones I, II, inciso c), XIII, XX y XXXIX del Código, el Consejo General tiene entre sus facultades las de implementar las acciones conducentes para que pueda ejercer las atribuciones conferidas en la Constitución, el Estatuto de Gobierno, las Leyes Generales y el Código; aprobar, con base en la propuesta que le presenten los órganos competentes del Instituto Electoral, entre otros, el reglamento de liquidación de las Asociaciones Políticas; aprobar o rechazar los dictámenes, proyectos de acuerdo o de resolución que le propongan las Comisiones y la UTEF, vigilar que las Asociaciones Políticas cumplan las obligaciones a que están sujetas y las demás señaladas en ese ordenamiento.
 
-a) Equipos y Clubes;
+15. Que conforme a los artículos 36 y 43, fracción V del Código, el Consejo General cuenta con el auxilio de Comisiones Permanentes para el desempeño de sus atribuciones y supervisión del adecuado desarrollo de las actividades de los órganos ejecutivos y técnicos del Instituto Electoral, entre las que se encuentra la de Fiscalización.
 
-b) Ligas;
+16. Que el artículo 37 del Código, define a las Comisiones como instancias colegiadas con facultades de deliberación, opinión y propuesta, las cuales se integran por el Consejero Presidente y dos Consejeros Electorales, todos ellos con derecho a voz y voto. Adicionalmente, serán integrantes con derecho a voz los representantes de los partidos políticos y candidatos independientes, a partir de su registro y exclusivamente durante el proceso electoral, con excepción de las Comisiones de Asociaciones Políticas y Fiscalización, y no conformarán quórum. La presidencia de cada una de las Comisiones se determinará por acuerdo del Consejo General. Además, contarán con un Secretario Técnico sólo con derecho a voz, designado por sus integrantes a propuesta de su Presidente y tendrán el apoyo y colaboración de los órganos ejecutivos y técnicos del Instituto Electoral.
 
-c) Asociaciones Deportivas;
+17. Que según con lo previsto por el artículo 187 del Código, en el ámbito local se reconocen como Asociaciones Políticas, las siguientes: Agrupaciones Políticas Locales, Partidos Políticos Locales y Partidos Políticos Nacionales.
 
-d) Uniones Deportivas;
+18. Que en términos del artículo 206, fracciones I y II del Código, existen dos tipos de partidos políticos: los nacionales, que son aquellos que obtienen y conservaron vigente su registro ante el INE; y, los locales, que son los que obtienen su registro como tales ante el Instituto Electoral, en los términos de la normativa electoral.
 
-e) Asociaciones u organismos de árbitros o jueces;
+19. Que de conformidad al artículo 272 del Código, los partidos políticos nacionales o locales, que de acuerdo con la legislación aplicable, pierdan su registro, estarán a lo dispuesto en la Constitución, las Leyes Generales, el Estatuto de Gobierno y el Código. De igual manera, establece que los partidos políticos locales perderán su registro por alguna de las siguientes causas: l. No participar en un proceso electoral local ordinario; Il. No obtener en la última elección local ordinaria, por lo menos el tres por ciento de la votación válida emitida en alguna de las elecciones de Jefe de Gobierno, Diputados a la Asamblea Legislativa o de Titulares de las demarcaciones territoriales de la Ciudad de México; III. Haber dejado de cumplir con los requisitos necesarios para obtener su registro; IV. Haberse fusionado con otro partido político en los términos de este Código; V. Incumplir de manera grave y sistemática, a juicio del Instituto Electoral, con las obligaciones señaladas en la normatividad electoral; y, VI. Haber sido declarado disuelto por acuerdo de sus miembros conforme a lo establecido en sus estatutos.
 
-f) Asociaciones u organismos de educadores físicos o entrenadores deportivos;
+Asimismo, señala que la declaratoria de pérdida de registro de un partido político local deberá ser emitida por el Consejo General, fundando y motivando las causas de la misma y será publicada en la Gaceta Oficial; que el partido político que pierda su registro le será cancelado el mismo y perderá todos los derechos y prerrogativas que establece el Código o las leyes locales respectivas, según corresponda; y, por último, que la cancelación o pérdida del registro extinguirá la personalidad jurídica del partido, pero quienes hayan sido sus dirigentes y/o candidatos deberán cumplir las obligaciones que en materia de fiscalización establezca la normativa en la materia, hasta la conclusión de los procedimientos respectivos y de liquidación de su patrimonio.
 
-g) Asociaciones u organismos de profesionistas con especialidad en medicina deportiva;
+20. Que en términos del artículo 273 del Código, el Instituto Electoral llevará a cabo la liquidación del patrimonio de las organizaciones de ciudadanos que hubieren perdido su registro como partidos políticos locales, una vez hecha la declaración de pérdida del registro por el Consejo General.
 
-h) Asociaciones u organismos de profesionales en materia deportiva;
+De igual manera, establece que el procedimiento de liquidación de patrimonio de los partidos políticos locales se llevará a cabo por conducto del área de fiscalización competente, para que sean adjudicados al Gobierno de la Ciudad de México, los recursos y bienes remanentes de los partidos que pierdan su registro legal y deberá ser regulado por el reglamento que al efecto expida el Consejo General, el cual se sujetará a las siguientes bases:
 
-i) Comités Municipales del Deporte;
+- Si de los cómputos que realicen los consejos distritales del Instituto Electoral se desprende que un partido político local no obtuvo el porcentaje mínimo de votos establecido en la fracción II del artículo 272 del Código, el área de fiscalización competente designará de inmediato a un interventor responsable del control y vigilancia directos del uso y destino de los recursos y bienes del partido de que se trate. Lo mismo será aplicable en el caso de que el Consejo General declare la pérdida de registro legal por cualquier otra causa de las establecidas en el Código;
 
-j) Cuerpos Colegiados o Gubernamentales;
+- La designación del interventor será notificada de inmediato al partido por conducto de su representante ante el Consejo General y en ausencia de éste, la notificación se hará en el domicilio social del partido afectado o, en caso extremo, por estrados;
 
-k) Consejos Estudiantiles;
+- A partir de su designación, el interventor tendrá las más amplias facultades para actos de administración y dominio sobre el conjunto de bienes y recursos del partido político que no haya alcanzado el porcentaje mínimo de votación, por lo que todos los gastos que realice el partido deberán ser autorizados expresamente por el interventor. No podrán enajenarse, gravarse o donarse los bienes muebles e inmuebles que integren el patrimonio del partido político;
 
-l) Consejos Ciudadanos, en lo conducente;
+- Una vez que el Consejo General haya declarado y publicado en la Gaceta Oficial la resolución sobre la cancelación del registro legal de un partido político local por cualquiera de las causas establecidas en este Código, el interventor designado deberá:
 
-m) Consejo Estatal del Deporte y Cultura Física;
+I. Emitir aviso de liquidación del partido político de que se trate, mismo que deberá publicarse en la Gaceta Oficial para los efectos procedentes;
 
-n) Registro Estatal del Deporte;
+II. Determinar las obligaciones laborales, fiscales y con proveedores o acreedores, a cargo del partido político en liquidación;
 
-o) Comité Antidopaje;
+III. Determinar el monto de recursos o valor de los bienes susceptibles de ser utilizados para el cumplimiento de las obligaciones a que se refiere la fracción anterior;
 
-p) Comisión Estatal de Apelación y Arbitraje.
+IV. Ordenar lo necesario para cubrir las obligaciones que la ley determina en protección y beneficio de los trabajadores del partido político en liquidación; realizado lo anterior, deberán cubrirse las obligaciones fiscales que correspondan; si quedasen recursos disponibles, se atenderán otras obligaciones contraídas y debidamente documentadas con proveedores y acreedores del partido político en liquidación, aplicando en lo conducente las leyes en esta materia;
 
-XIX. Fondo: El Fondo para el Desarrollo del Deporte y la Cultura Física del Estado de Morelos;
+V. Formulará un informe de lo actuado que contendrá el balance de bienes y recursos remanentes después de establecer las previsiones necesarias a los fines antes indicados; el informe será sometido a la aprobación del Consejo General. Una vez aprobado el informe con el balance de liquidación del partido de que se trate, el interventor ordenará lo necesario a fin de cubrir las obligaciones determinadas, en el orden de prelación antes señalado;
 
-XX. Evento o Competencia Oficial: El avalado por el Instituto del Deporte y Cultura Física del Estado.
+VI. Si realizado lo anterior quedasen bienes o recursos remanentes, los mismos serán adjudicados íntegramente al Gobierno de la Ciudad de México; y
 
-## TÍTULO SEGUNDO. DEL SISTEMA ESTATAL DEL DEPORTE Y CULTURA FÍSICA
+VII. En todo tiempo deberá garantizarse al partido político de que se trate el ejercicio de las garantías que la Constitución y las leyes establecen para estos casos. Los acuerdos del Consejo General serán impugnables.
 
-### CAPÍTULO PRIMERO. DE LA ORGANIZACIÓN
+21. Que en consonancia, el artículo 380 BIS, numeral 4 del Reglamento de Fiscalización del lNE, señala que la liquidación de partidos políticos locales les corresponde a los Organismos Públicos Locales.
 
-###### ARTÍCULO 7.
+22. Que con relación a ese precepto, el Consejo General del INE aprobó, mediante el Acuerdo INE/CG938/2015, las reglas generales en relación con el procedimiento de liquidación de los partidos políticos nacionales que no obtuvieron el porcentaje mínimo de la votación establecido en la ley para conservar su registro, en acatamiento a la sentencia SUP-RAP-697/2015 y acumulados, en cuyo artículo 1, párrafo segundo, establece que a los Organismos Públicos Locales les corresponde la liquidación de partidos políticos locales.
 
-Se establece el Sistema Estatal del Deporte y Cultura Física, mismo que estará constituido por el conjunto de organismos públicos, privados y de individuos que se encuentran ordenadamente relacionados entre sí, y que contribuyen a planear, organizar, coordinar, fomentar, conservar, mejorar, difundir, promover, investigar, desarrollar, ejecutar, apoyar y aprovechar los recursos humanos, materiales y financieros para el adecuado ejercicio del derecho de todos los morelenses a la práctica del deporte y la cultura física en el ámbito de sus respectivas competencias, conforme a las acciones, instrumentos, procedimientos y programas aprobados para tales efectos.
+23. Que el artículo 90 del Código, dispone que son atribuciones de la UTEF, en lo que resulte aplicable, las mismas que establece la Ley General para la Unidad Técnica de Fiscalización de la Comisión de Fiscalización del INE. En ese orden, el artículo 199, numeral 1, inciso i) de la Ley General, señala que la UTEF junto con la Comisión de Fiscalización de este Instituto Electoral, son las responsables de los procedimientos de liquidación de los partidos políticos locales que pierdan su registro. A su vez, el artículo 28, fracción III del Reglamento Interior del Instituto Electoral, prevé que la UTEF tiene la atribución de informar de manera periódica y detallada a la Comisión de Fiscalización, respecto del procedimiento de liquidación del patrimonio de las asociaciones políticas que hubieren perdido su registro, entre las que se encuentran los partidos políticos locales.
 
-###### ARTÍCULO 8.
+24. Que el Acuerdo ACU-42-16, del Consejo General en su considerando 40, contiene las propuestas de adecuación a la estructura orgánica funcional de este Instituto Electoral, estableciéndose que a la Secretaría Ejecutiva estará adscrita, entre otras, la Oficina de Fiscalización.
 
-Las principales funciones a desarrollar dentro del Sistema son:
+Al respecto, se establece que dicha modificación obedece a que en términos de lo dispuesto por el artículo 32, numeral 1, fracción VI de la Ley General, corresponde al INE la atribución de fiscalizar los ingresos y egresos de los partidos políticos y candidatos. Mientras que a este Instituto Electoral corresponde la fiscalización de las agrupaciones políticas locales, de las organizaciones de ciudadanos que pretendan constituirse como partido político local, de las organizaciones de observación electoral, de la liquidación de los partidos políticos locales que pierdan su registro y de la liquidación de las asociaciones civiles constituidas por candidatos independientes.
 
-I. Proponer, formular y ejecutar políticas que fomenten y desarrollen el deporte y la cultura física a través del mismo;
+Asimismo, se señala que la Oficina referida brindará asesoría y capacitación a partidos políticos locales, asociaciones políticas y candidatos independientes en lo que hace al registro contable de sus ingresos y egresos.
 
-II. Establecer procedimientos de coordinación en materia deportiva con los Gobiernos Federal, Estatal y Municipal de la entidad, así como, con organismos y agrupaciones deportivas;
+Lo anterior guarda relación con lo establecido en el considerando 45 y el punto de acuerdo Segundo, ambos del acuerdo ACU-42-16, los cuales refieren, entre otras cosas, que las adecuaciones que deriven de la transformación de la UTEF a la Oficina de Fiscalización se sujetarán a lo señalado por el propio acuerdo; y, dado que actualmente la UTEF se encuentra realizando diversos trabajos, resulta necesario que permanezca en funciones en las condiciones vigentes que se encuentra hasta el 31 de agosto del 2016, y en caso de mantenerse algún trabajo pendiente, éste será atendido por la Oficina de Fiscalización, que estará adscrita a la Secretaría Ejecutiva.
 
-III. Determinar las necesidades y requerimientos de equipamiento y organización para la práctica y desarrollo del deporte en todas sus modalidades, a fin de planificar y programar los medios para su satisfacción;
+25. Que derivado de las reformas a diversos ordenamientos, entre ellos, al Reglamento Interior de este Instituto Electoral, aprobadas mediante el acuerdo ACU-48-16, se determinó que dentro de las nuevas atribuciones de la Secretaría Ejecutiva, se encuentran las relacionadas en materia de fiscalización, siendo de acuerdo al artículo 21, fracción XVIII las siguientes:
 
-IV. Promover la conjunción de esfuerzos en materia deportiva entre los sectores público, privado y social;
+- La fiscalización relacionada con el origen y destino de los recursos de:
 
-V. Formular el Programa Estratégico del Deporte y Cultura Física en el Estado de Morelos y llevar a cabo las acciones que se deriven del mismo;
+I. Las Agrupaciones Políticas Locales y de las organizaciones de ciudadanas y ciudadanos interesadas en constituirse como partidos políticos locales, utilizados para el desarrollo de actividades tendentes a la obtención del registro legal, y
 
-VI. Propiciar la participación de las organizaciones, organismos deportivos y de los deportistas en la determinación y ejecución de las políticas a que se refiere la fracción I, estableciendo los procedimientos para ello;
+ll. Las organizaciones de observación electoral respecto del financiamiento que obtengan para el desarrollo de sus actividades relacionadas directamente con su función.
 
-VII. Diseñar, establecer y operar estrategias para fomentar la práctica deportiva entre adultos mayores, personas con discapacidades, poblaciones indígenas o rurales, así como, en los organismos o sectores obrero-patronales, con la finalidad de contribuir a mejorar su desarrollo personal, e integración plena con la sociedad;
+- En caso de delegación, la fiscalización sobre el origen y destino de los recursos de los partidos políticos, aspirantes a candidaturas independientes y candidaturas observando las disposiciones que para el efecto emita el INE;
 
-VIII. Establecer políticas y programas educativos dirigidos a niños y jóvenes para fomentar en ellos el hábito del deporte y la cultura física, enfatizando la atención en los sectores de la educación en sus niveles básico, medio, medio superior, y superior con sus respectivas modalidades, conforme a la Ley de Educación del Estado de Morelos;
+- Informar de manera periódica y detallada a la Comisión de Fiscalización, respecto del procedimiento de liquidación del patrimonio de los partidos políticos locales y Agrupaciones Políticas Locales que hubieren perdido su registro;
 
-IX. Formular programas a efecto de propiciar y promover la formación, capacitación, actualización y desarrollo profesional permanente de todo el personal técnico y administrativo del deporte en las diferentes disciplinas y de la cultura física;
+- Generar medidas preventivas, orientadas a favorecer el adecuado registro contable y presentación de informes de los partidos políticos locales, Agrupaciones Políticas Locales, aspirantes y candidaturas independientes y a promover entre ellas la cultura de la rendición de cuentas, en su vertiente de origen, monto y destino de los recursos que emplean, y
 
-X. Proponer lineamientos para la promoción y difusión de campañas con el objeto de prevenir y combatir el uso de estimulantes, sustancias o métodos prohibidos y restringidos dentro de la práctica deportiva; y
+- Sustanciar, junto con la Comisión de Fiscalización, los procedimientos de fiscalización en el supuesto de que el INE delegue dicha facultad.
 
-XI. Las demás que se determinen en la presente Ley y su reglamento.
+26. Que dada la transformación de la UTEF a la Oficina de Fiscalización, es dable concluir que esta última tendrá las mismas facultades y atribuciones que en dicha materia conserva este Instituto Electoral, por lo que las referencias hechas a la UTEF deberán entenderse dirigidas a la Secretaría Ejecutiva o a su Oficina de Fiscalización, según corresponda. Asimismo, de conformidad con las consideraciones vertidas, este Consejo General, garante de la aplicación y cumplimiento de las disposiciones establecidas en la Constitución, las Leyes Generales, el Código, los Reglamentos y los Acuerdos emitidos por el INE, expide el Reglamento para la Liquidación del Patrimonio de los Partidos Políticos Locales de la Ciudad de México, con la finalidad de otorgar mayor certeza y claridad a las disposiciones en materia de liquidación de los partidos políticos locales que han perdido o les sea cancelado su registro.
 
-###### ARTÍCULO 9.
+En razón de lo expuesto y con fundamento en lo dispuesto por los artículos 41, párrafo segundo, Base V, Apartado C, numerales 10 y 11, así como el 116, fracción IV, inciso g) de la Constitución; 98, numerales 1 y 2, 104, numeral 1, incisos a) y r), 199, numeral 1, incisos b) e i) de la Ley General; 120, párrafo segundo, 122, fracción XI,123 párrafo primero, 124, párrafos primero y segundo y 127, párrafo primero, numerales 10 y 11 del Estatuto de Gobierno; 1, párrafos primero y segundo, fracciones II y VIII, 3, párrafos primero, segundo y tercero, 15, 16, 17, 18, fracciones I y II, 20, párrafo primero, fracciones II y IX, tercero, inciso a) y quinto, inciso a) y q), 21, fracciones I y III, 25, párrafos primero, segundo y tercero, 32, párrafos primero, segundo y tercero, 35 fracciones I, II, inciso c); XIII, XX y XXXIX, 36, 37, 43, fracción V, 90, 187, 206, fracciones I y II, 272 y 273 del Código; 28, fracción III del Reglamento Interior del Instituto Electoral del Distrito Federal; así como el artículo 380 BIS, numeral 4 del Reglamento de Fiscalización del INE y el Acuerdo INE/CG938/2015, aprobado por el Consejo General del INE; el Consejo General en ejercicio de sus facultades constitucionales, legales y reglamentarias, emite el siguiente:
 
-El Sistema y el Programa Estatal del Deporte y Cultura Física, se ajustarán a los lineamientos establecidos en el Sistema y el Programa Nacional del Deporte. Previo acuerdo de por medio, establecerán además, los mecanismos de coordinación para integrar en ellos las actividades que realicen otras instituciones relacionadas con el deporte.
+A c u e r d o :
 
-### CAPÍTULO SEGUNDO. DE LA INTEGRACIÓN DEL SISTEMA ESTATAL DEL DEPORTE Y CULTURA FÍSICA
+PRIMERO. Se aprueba el Reglamento para la Liquidación del Patrimonio de los Partidos Políticos Locales de la Ciudad de México, conforme al Anexo que se acompaña al presente, el cual forma parte integral del mismo.
 
-###### ARTÍCULO 10.
+SEGUNDO. Se deroga el Reglamento del Instituto Electoral del Distrito Federal para la Liquidación del Patrimonio de las Asociaciones Políticas en el Distrito Federal, aprobado por el Consejo General, el veinticinco de mayo de dos mil once, mediante Acuerdo ACU-37-11, en lo concerniente a la liquidación de los partidos políticos locales, así como las disposiciones que se opongan al Reglamento que se aprueba mediante este Acuerdo.
 
-Son integrantes del Sistema Estatal del Deporte y Cultura Física:
+TERCERO. El presente Acuerdo y su Anexo entrarán en vigor al día siguiente de su publicación en los estrados de las oficinas centrales de este Instituto Electoral.
 
-I. Deportista;
+CUARTO. Publíquese este Acuerdo y su Anexo de manera inmediata a su aprobación, en los estrados del Instituto Electoral, en la sede central, en sus cuarenta Direcciones Distritales, y en la página de internet www.iedf.org.mx
 
-II. Agrupaciones deportivas;
+QUINTO. Notifíquese personalmente este Acuerdo y su Anexo, a los partidos políticos locales con registro vigente ante este Instituto Electoral, dentro de los diez días hábiles siguientes a su entrada en vigor.
 
-III. Organismos deportivos;
+SEXTO. Se instruye a la Unidad Técnica de Comunicación Social, Transparencia y Protección de Datos Personales, para que de manera inmediata a la aprobación de este Acuerdo, y en el ámbito de su competencia, realice las adecuaciones que sean procedentes por virtud de la determinación asumida por el Consejo General, en el apartado de Transparencia del sitio www.iedf.org.mx, y con la finalidad de tener un mayor alcance en la difusión, publíquese un extracto del mismo en las redes sociales del Instituto Electoral.
 
-IV. El Consejo Estatal del Deporte y Cultura Física;
+SÉPTIMO. Remítase el presente Acuerdo y su Anexo, a la Gaceta Oficial de la Ciudad de México para su publicación, dentro del plazo de diez días hábiles siguientes a su aprobación.
 
-V. El Instituto del Deporte y Cultura Física del Estado de Morelos;
+Así lo aprobaron por unanimidad de votos de las Consejeras y los Consejeros Electorales del Instituto Electoral presentes, con la ausencia de la Consejera Electoral Gabriela Williams Salazar, en sesión pública el siete de septiembre de dos mil dieciséis, firmando al calce el Consejero Presidente y el Secretario del Consejo General, quien da fe de lo actuado, de conformidad con lo dispuesto en los artículos 58, fracción VIII y 60, fracción V, del Código de Instituciones y Procedimientos Electorales del Distrito Federal. El Consejero Presidente, Mtro. Mario Velázquez Miranda.- El Secretario Ejecutivo, Lic. Rubén Geraldo Venegas (Firmas).
 
-VI. El Registro Estatal del Deporte;
+REGLAMENTO PARA LA LIQUIDACIÓN DEL PATRIMONIO DE LOS PARTIDOS POLÍTICOS LOCALES DE LA CIUDAD DE MÉXICO
 
-VII. El Comité Antidopaje; y
+Septiembre, 2016
 
-VIII. La Comisión de Apelación y Arbitraje del Deporte.
+ÍNDICE
 
-###### ARTÍCULO 11.
+## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-Son también integrantes del Sistema, los deportistas profesionales del Estado de Morelos que conforme a la reglamentación deportiva internacional, sean susceptibles de ostentar la representación Estatal o Nacional.
+### CAPÍTULO I. GENERALIDADES
 
-###### ARTÍCULO 12.
+###### Artículo 1.
 
-Podrán pertenecer al Sistema, los organismos que constituyan agrupaciones de individuos que tengan por objeto el desarrollo de actividades vinculadas al deporte y la cultura física, aún cuando su fin no implique necesariamente la competición deportiva.
+Objeto del Reglamento.
 
-###### ARTÍCULO 13.
+El presente Reglamento es de orden público, de observancia general y obligatoria en la Ciudad de México y tiene por objeto establecer el procedimiento de liquidación del patrimonio de los Partidos Políticos Locales de la Ciudad de México, derivado de la pérdida o cancelación de su registro ante el Instituto Electoral del Distrito Federal.
 
-Los deportistas, las organizaciones y agrupaciones deportivas contarán con un sistema de atención médica especializada que será proporcionada a través de las instituciones públicas de salud de la entidad, cuando el deportista se lesione en competencia o evento oficial.
+El procedimiento de liquidación tendrá la finalidad de preservar el interés público y los derechos de terceros.
 
-###### ARTÍCULO 14.
+###### Artículo 2.
 
-Los deportistas, agrupaciones y organismos deportivos para integrarse al Sistema y gozar de los estímulos y apoyos de la Ley, deberán solicitar su registro y obtener su inscripción en el Registro Estatal del Deporte.
+Glosario.
 
-### CAPÍTULO TERCERO. DEL CONSEJO CONSULTIVO ESTATAL DEL DEPORTE Y CULTURA FÍSICA
+Para efectos del presente Reglamento, se entenderá por:
 
-###### ARTÍCULO 15.
+A) En cuanto a los ordenamientos legales:
 
-Se crea el Consejo Consultivo Estatal del Deporte y Cultura Física como un órgano de consulta, propuesta y vigilancia de las políticas, acciones y programas implementados, conforme a la presente Ley y su Reglamento.
+I. Código: Código de Instituciones y Procedimientos Electorales del Distrito Federal, y
 
-###### ARTÍCULO 16.
+II. Reglamento: El presente ordenamiento.
 
-El Consejo se integrará por:
+B) En cuanto a los órganos y autoridades:
 
-a) El titular del Ejecutivo Estatal, quien lo presidirá;
+I. Consejo General: Consejo General del Instituto Electoral;
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+II. Comisión de Fiscalización: Comisión Permanente de Fiscalización del Consejo General;
 
-b) El Secretario de Desarrollo Humano y Social;
+III. Instituto Electoral: Instituto Electoral del Distrito Federal;
 
-c) El Secretario de Salud;
+IV. Instituto Nacional: Instituto Nacional Electoral;
 
-d) El Director del Instituto del Deporte y Cultura Física del Estado, quien fungirá como Secretario Técnico;
+V. Oficina de Fiscalización: Oficina de Fiscalización adscrita a la Secretaría Ejecutiva del Instituto Electoral;
 
-e) El Director del Instituto Morelense de la Juventud;
+VI. Secretaría Ejecutiva: Órgano Ejecutivo del Instituto Electoral, al cual se encuentra adscrita la Oficina de Fiscalización;
 
-f) Por once Coordinadores Municipales del Deporte, designados por el Instituto de Desarrollo y Fortalecimiento Municipal de Morelos;
+VII. Titular de la Secretaría Administrativa: Funcionaria o funcionario que ocupa el cargo en el Instituto Electoral, y
 
-g) Por un representante de las Agrupaciones y Organismos Deportivos, inscritos en el Registro Estatal del Deporte, designados en asamblea, de cada una de las siguientes disciplinas: Deporte de Combate; Deporte de Conjunto; Deporte Adaptado; Deporte Acuático; Deporte Individual y Deporte Extremo o de Alto Riesgo;
+VIII. Titular de la Secretaría Ejecutiva: Órgano Ejecutivo del Instituto Electoral.
 
-h) Un representante del Consejo Coordinador Empresarial del Estado;
+C) En cuanto a los términos:
 
-i) Un representante de los trabajadores, acreditado ante la Junta Local de Conciliación y Arbitraje del Estado; y
+I. Créditos Fiscales: Ingresos que tiene derecho a percibir el Estado en sus funciones de derecho público que provengan de contribuciones, entre otras: Impuesto Sobre la Renta, Impuesto al Valor Agregado, Impuesto Sobre Nóminas, Aprovechamientos o de sus accesorios, recargos y multas;
 
-j) Los representantes en el Estado del Consejo Nacional del Deporte Estudiantil de la Educación Básica, Media Superior y Superior.
+II. Dinero: Es el conjunto de activos propiedad del Partido Político con registro otorgado por el Consejo General regularmente utilizado como medio de pago, que está disponible de inmediato para su operación, tales como las monedas, billetes, divisas extranjeras, metales preciosos amonedados, depósitos bancarios en sus cuentas de cheques, transferencias electrónicas, giros bancarios, cheques, remesas en tránsito y tarjetas de débito, entre otros;
 
-###### ARTÍCULO 17.
+III. Disolución: Acto por el cual los miembros de un Partido Político con registro otorgado por el Consejo General, por su propia voluntad, deciden que aquel pierda esa calidad jurídica frente a las instancias correspondientes;
 
-El Consejo durará en su encargo seis años a partir de que inicie la administración estatal, se reunirá en sesión ordinaria cuando menos una vez cada tres meses y en sesión extraordinaria cuantas veces sea necesario con la asistencia de la mayoría de sus integrantes. Todos los integrantes del Consejo tendrán derecho a voz y voto respecto de los asuntos que se traten, los acuerdos se tomarán por mayoría de votos; en caso de empate, el presidente tendrá voto de calidad. El cargo de consejero será honorífico.
+IV. Grupo de Trabajo: Personal adscrito a la Oficina de Fiscalización comisionado para apoyar los trabajos derivados de la aplicación de este Reglamento;
 
-El Consejo, cuando así lo considere, podrá invitar a sus sesiones, a titulares de las dependencias y entidades de la administración pública federal, estatal y municipal, que no se encuentren considerados como integrantes permanentes, así como, a otras personas que se hayan distinguido en actividades deportivas y de educación o cultura física, quienes tendrán voz, pero no voto.
+V. Interventor: La o el servidor público adscrito a la Oficina de Fiscalización, propuesto por la Secretaría Ejecutiva y designado por la Comisión de Fiscalización, quien será responsable desde el periodo de prevención, del control y vigilancia del uso y destino de los recursos y bienes del Partido Político con registro otorgado por el Consejo General que pierda o le sea cancelado su registro;
 
-###### ARTÍCULO 18.
+VI. Liquidación: Procedimiento por medio del que se concluyen las operaciones del Partido Político con registro otorgado por el Consejo General que pierda o le sea cancelado su registro; se cobran los créditos, se pagan los adeudos, se cumplen obligaciones y se otorga un destino cierto a los bienes y recursos que integran su patrimonio, de conformidad con el orden de prelación establecido en el presente Reglamento;
 
-Las atribuciones del Consejo serán emitir propuestas sobre políticas, proyectos, programas y acciones, en materia del deporte y cultura física, así como, su vigilancia y, las que se establezcan en la presente ley, su reglamento y el reglamento interior del Instituto.
+VII. Medidas de Apremio: Es el conjunto de instrumentos a través de los cuales el Titular de la Secretaría Ejecutiva, podrá hacer cumplir las determinaciones emanadas con motivo de la aplicación de este Reglamento, contra quienes se nieguen a proporcionar la información y documentación que les sea requerida, la entreguen en forma incompleta o con datos falsos, o bien, fuera de los plazos establecidos en el requerimiento;
 
-###### ARTÍCULO 19.
+VIII. NIF: Normas de Información Financiera;
 
-El Consejo procurará que en los eventos deportivos que se desarrollen conforme al Programa Estratégico del Sistema, se evite la publicidad y venta de productos nocivos para la salud.
+IX. Notificación: Es el acto formal, mediante el cual se hace del conocimiento del destinatario los actos o determinaciones emitidos por las autoridades competentes dentro de las etapas del procedimiento contenido en este Reglamento;
 
-###### ARTÍCULO 20.
+X. Partido Político Local: Partido político al cual el Consejo General le otorgó el registro para tener tal carácter;
 
-Independientemente del pago de la licencia respectiva de quienes realicen la venta de alimentos, bebidas, productos, publicidad y otros, en eventos deportivos, podrán realizar una aportación adicional por esta comercialización; dicho ingreso será destinado al Fondo, para aplicarlo en beneficio de las instalaciones deportivas del Estado o del Municipio que otorgó la licencia correspondiente.
+XI. Patrimonio: Totalidad de bienes y derechos susceptibles de liquidación y que se considera entre otras, las cuentas bancarias e inversiones utilizadas para la administración de sus recursos, así como los bienes muebles e inmuebles que el Partido Político Local haya adquirido con financiamiento público y/o privado de conformidad con el Código y las prerrogativas del financiamiento público pendientes de cobro;
 
-En caso de que la autoridad estatal o municipal dé en arrendamiento instalaciones deportivas para fines de lucro, procurará destinar al Fondo una aportación adicional, para los efectos establecidos en el párrafo anterior; así mismo, se fijará una fianza que garantice la reparación de los desperfectos que pudieran ocasionarse en las instalaciones deportivas; la autoridad correspondiente informará y acreditará en su cuenta pública el destino de los recursos captados.
+XII. Pérdida de Registro: Declaratoria o resolución que emite el Consejo General sobre la pérdida o cancelación del registro como Partido Político Local, por haberse actualizado alguna de las causales establecidas en el Código;
 
-La autoridad correspondiente, deberá de remitir el ingreso percibido al Fondo dentro de los 45 días posteriores a la fecha en que se realizó la aportación.
+XIII. Prevención: Periodo previo a las etapas de reserva y liquidación cuyo objeto es realizar las acciones precautorias necesarias para proteger el patrimonio del Partido Político Local y, por ende, garantizar el interés público y los derechos de terceros frente a éste;
 
-### CAPÍTULO CUARTO. DEL REGISTRO ESTATAL DEL DEPORTE
+XIV. Representante: Representante del Partido Político Local ante el Consejo General del Instituto Electoral;
 
-###### ARTÍCULO 21.
+XV. Reserva: Periodo que transcurre entre la declaratoria o resolución de la perdida de registro del Partido Político Local por el Consejo General, hasta el momento en que esta cause estado o sea revocada;
 
-El Registro Estatal del Deporte forma parte del Sistema y es responsabilidad del Instituto implementarlo y actualizarlo conforme a sus facultades; comprenderá las inscripciones relativas a los programas, eventos, deportistas, jueces, árbitros, técnicos, instructores, entrenadores, guías e instructores en deportes extremos o de alto riesgo, organizaciones y agrupaciones deportivas, así como, el censo e inventario de las instalaciones para la práctica del deporte y los eventos deportivos en la entidad y las demás que determine el Reglamento de esta Ley.
+XVI. Responsable: Persona(s) responsable(s) de la obtención y administración de los recursos generales y del patrimonio del Partido Político Local y/o Apoderado(s) Legal(es) del mismo, o aquella persona que designe el partido en términos de sus normas estatutarias;
 
-El Instituto organizará y desarrollará un sistema de información derivado del Registro, con el objeto de generar, procesar y obtener la información necesaria para la planeación y evaluación de las actividades e infraestructura deportiva. Los integrantes del Sistema, deberán proporcionar al Instituto la información que les requiera.
+XVII. UMA: Unidad de Medida y Actualización publicada por el Instituto Nacional de Estadística y Geografía, y
 
-###### ARTÍCULO 22.
+XVIII. Valor de Mercado: Es el importe neto que razonablemente podría recibir un oferente por el intercambio de un bien o servicio en la fecha de valoración, mediante una comercialización adecuada, y suponiendo que existe al menos un demandante con potencial económico.
 
-La inscripción en el Registro Estatal del Deporte podrá ser individual o colectiva, gratuita y es condición indispensable para integrarse y tener derecho a ser considerado para obtener los estímulos y apoyos que otorga el Sistema. Quedan exceptuados de recibir los estímulos o apoyos económicos, las personas físicas o morales que con fines lucrativos se dediquen a la explotación de actividades deportivas en cualquiera de sus expresiones o modalidades; sin embargo, para la obtención de la correspondiente licencia de funcionamiento municipal, es obligatoria su inscripción en el Registro.
+###### Artículo 3.
 
-###### ARTÍCULO 23.
+Criterios de interpretación.
 
-La inscripción será registrada en un libro debidamente foliado y en el sistema de cómputo que para tal efecto se diseñe; la autoridad expedirá la Credencial Única del Deporte, la cual contendrá entre otros datos, número de folio, así mismo, en su caso, se expedirá Constancia de Inscripción a los organismos o agrupaciones deportivas.
+La interpretación de las disposiciones contenidas en este Reglamento, corresponde a la Comisión de Fiscalización, y se hará conforme a los criterios gramatical, sistemático y funcional, y a los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, favoreciendo en todo tiempo a las personas con la protección más amplia. A falta de disposición expresa, se aplicarán los principios generales del derecho, de acuerdo con lo dispuesto en el último párrafo del artículo 14 del citado ordenamiento.
 
-### CAPÍTULO QUINTO. DE LOS DERECHOS Y LAS OBLIGACIONES
+###### Artículo 4.
 
-###### ARTÍCULO 24.
+Supletoriedad.
 
-Los derechos de los integrantes del Sistema son:
+A falta de disposición expresa, para el procedimiento de liquidación que regula el presente Reglamento, se aplicarán supletoriamente los siguientes ordenamientos:
 
-I. Participar en el deporte o deportes de su elección;
+a) Ley General de Instituciones y Procedimientos Electorales;
 
-II. Asociarse para la práctica del deporte y en su caso, para la defensa de los derechos que ampara la presente Ley;
+b) Ley General de Partidos Políticos;
 
-III. Utilizar las instalaciones deportivas del Sistema de acuerdo con la normatividad establecida;
+c) Código de Comercio;
 
-IV. Recibir asistencia y entrenamiento deportivo, así como servicios médicos adecuados en competencias oficiales;
+d) Ley de Concursos Mercantiles;
 
-V. Participar en eventos deportivos reglamentarios u oficiales, avalados por el Sistema;
+e) Ley Procesal Electoral para el Distrito Federal;
 
-VI. Desempeñar cargos directivos dentro del Sistema y en su caso participar en la elección de éstos en la rama o especialización deportiva que le corresponda;
+f) Código;
 
-VII. Recibir toda clase de estímulos en apoyos, becas, premios, reconocimientos y recompensas en dinero o especie, en los términos de la presente Ley;
+g) Código Civil para el Distrito Federal; y
 
-VIII. Recibir apoyo logístico en las competencias que se desarrollen bajo los lineamientos del Sistema, informando oportunamente a la institución respectiva la cual lo brindará según sus posibilidades;
+h) Reglamento de Fiscalización del Instituto Nacional Electoral.
 
-IX. Ser registrado y recibir la acreditación correspondiente como deportista o integrante de alguna agrupación u organismo deportivo;
+###### Artículo 5.
 
-X. Participar en las campañas para prevenir y combatir el uso de estimulantes, sustancias o métodos prohibidos y restringidos en el deporte;
+Aplicación del Reglamento.
 
-XI. Representar al País, al Estado, Municipio, localidad, asociación u organización deportiva en competiciones oficiales si fuere seleccionado para ello, conforme a la reglamentación correspondiente;
+Corresponde al Consejo General por conducto de la Comisión de Fiscalización con el apoyo de la Secretaría Ejecutiva, a través de su Oficina de Fiscalización la liquidación del patrimonio de los Partidos Políticos Locales.
 
-XII. Elaborar, entregar y registrar ante el Instituto, los programas de actividades oficiales anuales, dentro de los meses de septiembre y octubre de cada año; y
+La aplicación de este Reglamento es independiente a cualquier otro procedimiento a que haya lugar, con motivo de las responsabilidades que, en su caso, se deriven por el incumplimiento de las obligaciones que presenten compromisos pecuniarios, antes, durante y después del procedimiento de liquidación de los bienes frente a otras autoridades, cometidas por los dirigentes, el Responsable, simpatizantes o militantes del Partido Político Local en liquidación.
 
-XIII. Las demás que le otorgue la presente ley u otros ordenamientos.
+Los gastos generados con motivo de la aplicación del presente Reglamento, serán cubiertos con los recursos del Partido Político Local de que se trate.
 
-###### ARTÍCULO 25.
+###### Artículo 6.
 
-Son obligaciones de los integrantes del Sistema:
+Cómputo y plazos.
 
-I. Cumplir con los estatutos y reglamentos del deporte, especialidad o actividad que practiquen;
+Las actuaciones relacionadas con el presente Reglamento se practicarán en días y horas hábiles, salvo en los casos que se señalen expresamente en días naturales, los plazos se computarán de momento a momento y si están señalados por días, éstos se considerarán de veinticuatro horas incluyendo el día de vencimiento.
 
-II. Respetar los lineamientos del Sistema y del Programa Estratégico del Deporte del Estado de Morelos;
+Se entenderán por días hábiles, todos los días con excepción de los sábados y domingos y los no laborables en términos de la normativa aplicable y aquéllos en los que no haya actividad en el Instituto Electoral. Asimismo, por horas hábiles se entenderán aquéllas comprendidas dentro del horario laboral aprobado por la Junta Administrativa del Instituto Electoral al momento del inicio de los procedimientos establecidos en el presente Reglamento.
 
-III. Cuidar y vigilar que la infraestructura deportiva utilizada en sus prácticas se conserve en buen estado, conforme a lo establecido en las disposiciones normativas aplicables;
+Una vez iniciada la diligencia de que se trate, el Interventor, previo consenso con el Responsable, con quien se esté entendiendo, podrá habilitar días y horas hasta la conclusión de la misma, haciéndolo constar en el acta correspondiente.
 
-IV. Informar a la institución competente sobre el uso de los apoyos materiales o financieros recibidos, de conformidad con los ordenamientos en la materia;
+## TÍTULO SEGUNDO. DE LA LIQUIDACIÓN DEL PATRIMONIO DE PARTIDOS POLÍTICOS LOCALES
 
-V. Fomentar la participación organizada de la sociedad a través del deporte;
+CÁPITULO I
 
-VI. Participar en el desarrollo de la cultura física y del deporte conforme a lo dispuesto en la presente Ley;
+DEL PERIODO DE PREVENCIÓN
 
-VII. Asistir a competencias cuando hayan sido seleccionados para tal efecto, estando comprendidos entre quienes reciban apoyos o estímulos de becas, en dinero o en especie por parte del Estado o Municipios; o en su caso, haber competido con ese objeto, representando dignamente a su club, asociación, organización, localidad, municipio, al Estado o al País;
+### CAPÍTULO II. DEL CÓMPUTO Y DE LOS PLAZOS
 
-VIII. Coadyuvar y en su caso cooperar en los muestreos que se deban realizar para detectar posibles casos de uso de sustancias prohibidas o restringidas en la práctica del deporte;
+###### Artículo 7.
 
-IX. Fomentar la práctica del deporte y el juego limpio entre sus compañeros y la sociedad en general;
+Tipos de medidas de apremio.
 
-X. Conducir su actividad deportiva con honorabilidad y educación dentro y fuera de las instalaciones deportivas, a fin de poder ser un ejemplo para la niñez, juventud y la sociedad morelense;
+Son medidas de apremio, las siguientes:
 
-XI. Respetar dentro y fuera de las instalaciones deportivas, a sus compañeros, adversarios, público, árbitros, comité organizador y cuerpo técnico;
+I. Apercibimiento;
 
-XII. Elaborar, entregar y registrar ante el Instituto, los programas de actividades oficiales anuales, dentro de los meses de septiembre y octubre de cada año, para tener derecho a los beneficios establecidos en la presente Ley; y
+II. Amonestación privada;
 
-XIII. Las demás que les confieran las disposiciones normativas aplicables y esta Ley.
+III. Amonestación pública;
 
-## TÍTULO TERCERO
+IV. Multa de cincuenta hasta doscientas veces la UMA. En caso de reincidencia se podrá aplicar el doble de la cantidad señalada. La multa se cobrará de conformidad con lo dispuesto en el artículo 375 del Código; y
 
-### CAPÍTULO PRIMERO. DEL INSTITUTO DEL DEPORTE Y CULTURA FÍSICA DEL ESTADO DE MORELOS
+V. Auxilio de la fuerza pública.
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+###### Artículo 8.
 
-###### ARTÍCULO 26.
+Omisión de las autoridades de proporcionar información.
 
-El Instituto del Deporte y Cultura Física del Estado de Morelos es un organismo público descentralizado del Gobierno del Estado, con personalidad jurídica y patrimonio propio, sectorizado a la Secretaría de Desarrollo Humano y Social, con residencia en la ciudad de Cuernavaca, Morelos.
+Cuando las autoridades de la Ciudad de México no proporcionen en tiempo y forma la información que les sea requerida, una vez conocida la infracción, se integrará un expediente que será remitido al superior jerárquico de la autoridad infractora, para que éste proceda en los términos de ley. El superior jerárquico deberá comunicar en un término no mayor a cinco días al Instituto Electoral, las medidas que haya adoptado en el caso, así como ordenar la entrega inmediata de la información requerida.
 
-### CAPÍTULO SEGUNDO. DEL OBJETO Y ATRIBUCIONES DEL INSTITUTO DEL DEPORTE Y CULTURA FÍSICA DEL ESTADO DE MORELOS
+###### Artículo 9.
 
-###### ARTÍCULO 27.
+Notificación.
 
-El Instituto del Deporte y Cultura Física del Estado de Morelos, tendrá por objeto la promoción, planeación, organización, coordinación, fomento, desarrollo, implementación, ejecución y evaluación del deporte en todas sus disciplinas y niveles.
+Las notificaciones se realizarán en días y horas hábiles y surtirán sus efectos el mismo día en que se practiquen. Por regla general, la notificación se entenderá efectuada en la fecha asentada en el acta correspondiente.
 
-###### ARTÍCULO 28.
+### CAPÍTULO III. DE LAS MEDIDAS DE APREMIO
 
-El Instituto tendrá las siguientes facultades:
+###### Artículo 10.
 
-I. Elaborar y llevar a cabo los programas de fomento y desarrollo del deporte y la cultura física;
+Tipos de notificaciones.
 
-II. Apoyar la coordinación de las actividades que realicen las distintas dependencias y entidades federales, estatales y municipales, así como, las entidades del sector social y los particulares, con sujeción a las disposiciones normativas aplicables, convenios y acuerdos de coordinación;
+Las notificaciones, según se requiera para la eficacia del acto a notificar, se podrán hacer:
 
-III. Crear, administrar y operar establecimientos e instalaciones y equipamiento destinado al deporte, que sean de su competencia;
+I. Personal, cuando así se determine, pero en todo caso, lo serán las siguientes:
 
-IV. Proponer y gestionar la construcción, conservación, adecuación, uso y mejoramiento de instalaciones destinadas al deporte en sus diferentes disciplinas;
+a. El inicio del periodo de prevención, y en su caso, del procedimiento de liquidación.
 
-V. Proporcionar en su caso, apoyo financiero, técnico y material a las organizaciones de deportistas dentro de esquemas de autogestión;
+b. Los requerimientos realizados al o los responsables.
 
-VI. Proporcionar conforme a las disposiciones presupuestales, asistencia para la organización y funcionamiento de agrupaciones de deportistas en las escuelas, con la intervención que corresponda a las autoridades educativas;
+c. Los acuerdos o determinaciones que pongan fin al procedimiento.
 
-VII. Otorgar reconocimientos a deportistas de alta calidad y mérito que se hayan distinguido en el desarrollo de alguna actividad deportiva;
+II. Por estrados, cuando no sea posible notificar personalmente al interesado, atendiendo a lo establecido en el artículo 11, incisos e. y f. del presente Reglamento.
 
-VIII. Otorgar los estímulos a deportistas cuando reúnan los requisitos que, con tal fin, se establezcan;
+La notificación por estrados se llevará a cabo en las oficinas centrales del Instituto Electoral, debiendo fijarse el acto, documento o resolución respectiva por un plazo de setenta y dos horas, mediante razones de fijación y retiro.
 
-IX. Promover investigaciones y publicaciones respecto a las distintas ramas y disciplinas deportivas, particularmente la medicina deportiva;
+Para que la notificación por estrados tenga validez y eficacia, es necesario que en el lugar destinado para la práctica de dicha diligencia se fije copia o se transcriba el acto, documento o resolución a notificarse.
 
-X. Fomentar la capacitación y el mejoramiento de los deportistas, así como la formación, capacitación, actualización y superación profesional de profesores, instructores, entrenadores y técnicos;
+III. Por oficio, será la vía por la cual se realizarán todas las notificaciones dirigidas a las autoridades.
 
-XI. Estimular la participación ciudadana en la elaboración y ejecución de los programas, y en la realización de eventos deportivos, así como, en la construcción, conservación, operación y funcionamiento de las instalaciones;
+###### Artículo 11.
 
-XII. Cooperar en los programas de salud, cultura, recreación y educación, que lleven a cabo otras dependencias, entidades, organizaciones sociales y privadas, así como los particulares;
+Procedimiento de las notificaciones personales.
 
-XIII. Fomentar y ordenar a las asociaciones, sociedades, grupos, clubes y otras formas de organización ciudadana estatales y municipales que actúen en el campo del deporte, que se constituyan conforme a las disposiciones de la presente Ley;
+Las notificaciones personales se efectuarán con la persona interesada o con las que éste haya autorizado para tal efecto. En la práctica, se deberá observar el procedimiento siguiente:
 
-XIV. Colaborar con la Comisión Nacional de Cultura Física y Deporte en la ejecución del Programa Nacional de la Materia;
+a) El notificador deberá cerciorarse, por todos los medios posibles de encontrase (sic) en el domicilio de la persona que deba ser notificada y practicará la diligencia entregando al interesado o a cualquiera de las personas autorizadas por éste, el documento original, copia certificada o autorizada del mismo, según corresponda, y deberá solicitar la firma autógrafa de recibido e identificación oficial de la persona que atienda la diligencia, procediendo a elaborar la cédula de notificación respectiva.
 
-XV. Promover en coordinación con las organizaciones o asociaciones de los sectores social y privado, la práctica del deporte de sus integrantes;
+b) En caso de no encontrarse al interesado en el domicilio o, en su caso, a las personas autorizadas, el notificador levantará un acta en la que se asentarán las circunstancias de tiempo, modo y lugar correspondientes, detallando las razones por las cuales no fue posible notificar al interesado personalmente, procediendo a dejar un citatorio con cualquier persona que allí se encuentre, siempre que dicha persona sea mayor de edad y no muestre signos de incapacidad, a fin de realizar la notificación de manera personal al siguiente día hábil.
 
-XVI. Apoyar material y financieramente a las asociaciones u organizaciones estatales deportivas, reconocidas por las autoridades competentes y con base en los programas anuales de actividades que aquellas presenten; sujetándose siempre a la capacidad presupuestal del Instituto;
+c) En el supuesto que la persona que se encuentre en el domicilio se niegue a recibir el citatorio o no hubiera nadie en el lugar, éste deberá fijarse en la puerta de entrada y realizará la notificación conforme a lo previsto en la fracción II del artículo 10 de este Reglamento, levantándose acta circunstanciada de lo actuado.
 
-XVII. Fomentar la práctica del deporte entre el personal de las diversas dependencias de los tres niveles de Gobierno y la sociedad en general;
+d) En el caso de que el domicilio señalado por la persona a quien va dirigida la notificación no resulte cierto o no exista, la notificación se practicará por estrados, levantándose acta circunstanciada de lo actuado.
 
-XVIII. Fomentar la práctica del deporte en los organismos de los sectores obrero-patronales;
+e) En el día y hora fijada en el citatorio, el notificador se constituirá nuevamente en el domicilio para practicar la diligencia y si el interesado o, en su caso, las personas autorizadas, se negaran a recibir la notificación o no se encontraran en ese momento, el documento a notificar deberá entregarse a cualquier persona que se encuentre en el domicilio, siempre que sea mayor de edad y no muestre signos de incapacidad, indicando su relación con el interesado o, en su caso, que se negó a proporcionarla.
 
-XIX. Registrar a los deportistas, jueces, árbitros, técnicos, instructores, entrenadores, guías e instructores en deportes extremos o de alto riesgo, organizaciones y asociaciones deportivas, así como, el censo e inventario de las instalaciones para la práctica del deporte y los eventos deportivos, y los programas anuales que presenten los integrantes del sistema;
+f) En los casos que las personas que se encuentren en el domicilio se rehusaran a recibir la notificación o no haya persona alguna con quien pueda entenderse la diligencia, se fijará la cédula y copia del documento a notificar en la puerta de entrada del domicilio y se levantará acta circunstanciada con la razón de lo actuado. Asimismo, la notificación se publicará en los estrados de las oficinas centrales del Instituto Electoral.
 
-XX. Difundir en los medios masivos de comunicación las políticas, programas y acciones implementadas en materia del deporte y la cultura física;
+###### Artículo 12.
 
-XXI. Administrar y aplicar el Fondo para el Desarrollo del Deporte y la Cultura Física, del Estado de Morelos, conforme a los lineamientos que se establezcan en la reglamentación de esta Ley;
+Requisitos mínimos del citatorio, cédula de notificación y acta circunstanciada.
 
-XXII. Concertar las acciones necesarias con la Secretaría de Salud, a efecto de otorgar los servicios médicos y hospitalarios en las competiciones oficiales a que convoque;
+Los requisitos que deberán de contener las constancias de notificación a que se refiere el artículo anterior, serán al menos los siguientes:
 
-XXIII. Avalar los eventos o competiciones oficiales que se encuentren contemplados en el programa estatal y los municipales aprobados por las autoridades competentes;
+a) El citatorio:
 
-XXIV. Apoyar, asesorar y dar las directrices mínimas a los ayuntamientos del estado que así lo soliciten en la elaboración de sus programas del Deporte y Cultura Física; y
+I. La descripción del acto que se pretende notificar;
 
-XXV. Las demás que sean afines a las anteriores y contribuyan a la realización del objeto del Instituto.
+II. Datos referentes al órgano que dictó el acto;
 
-### CAPÍTULO TERCERO. DEL PATRIMONIO DEL INSTITUTO DEL DEPORTE Y CULTURA FÍSICA DEL ESTADO DE MORELOS
+III. Datos que den certeza respecto a que el notificador se cercioró de estar en el domicilio correcto;
 
-###### ARTÍCULO 29.
+IV. Día y hora en que se deja el citatorio y, en su caso, el nombre de la persona a la que se le entrega, indicando su relación con el interesado, o bien, que se negó a proporcionarla;
 
-El patrimonio del Instituto, estará constituido por:
+V. Fundamentación y motivación;
 
-I. La partida presupuestal que se le asigne en el Presupuesto de Egresos respectivo;
+VI. El señalamiento del día y la hora en la que el interesado deberá esperar al notificador;
 
-II. Los bienes muebles e inmuebles que le destinen o adquiera para su servicio;
+VII. Nombre, acreditación y firma del notificador;
 
-III. Los ingresos propios que genere;
+VIII. El apercibimiento al interesado que de no atender el citatorio, la notificación se realizará con cualquier persona que se encuentre en el domicilio; y
 
-IV. Los créditos que el propio Instituto del Deporte y Cultura Física obtenga para el cumplimiento de sus fines;
+IX. Nombre y firma, en su caso, de la persona con quien se entendió la diligencia.
 
-V. Las donaciones, herencias, legados y demás aportaciones que en su favor se realicen, y
+b) La cédula de notificación personal:
 
-VI. Otros recursos, bienes y derechos que adquiera o reciba por cualquier título legal.
+I. La descripción del acto que se notifica;
 
-### CAPÍTULO CUARTO. DE LA ORGANIZACIÓN DEL INSTITUTO DEL DEPORTE Y CULTURA FÍSICA DEL ESTADO DE MORELOS
+II. Datos referentes al órgano que dictó el acto;
 
-###### ARTÍCULO 30.
+III. Lugar, hora y fecha en que se practica;
 
-El Instituto contará para el cumplimiento de sus atribuciones con:
+IV. Descripción de los medios por los que el notificador se cerciora del domicilio del interesado;
 
-I. Una Junta de Gobierno;
+V. Fundamentación y motivación;
 
-II. Un Director General; y
+VI. Nombre, acreditación y firma del notificador;
 
-III. Un Consejo Consultivo, que será el Consejo Estatal del Deporte y Cultura Física.
+VII. Nombre y firma de la persona con quien se entienda la diligencia, indicando su relación con el interesado o, en su caso, que se negó a proporcionarla;
 
-###### ARTÍCULO 31.
+VIII. Señalamiento de requerir a la persona a notificar, así como la indicación que la persona con la cual se entiende la diligencia es la misma a la que se va a notificar;
 
-La Junta de Gobierno es el órgano máximo del Instituto y se integrará por los siguientes miembros propietarios:
+IX. Señalamiento, en su caso, de la negativa a recibir la notificación, o bien, que no se encuentre persona alguna en el domicilio con quien se pueda entender la diligencia, así como las indicaciones de que se fijará la cédula respectiva en la puerta principal del inmueble, y se publicará el acto a notificar en los estrados del Instituto Electoral; y
 
-> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+X. En su caso, la razón que en derecho corresponda.
 
-I. El Secretario de Desarrollo Humano y Social, como titular de la dependencia coordinadora del sector, quien la presidirá por sí o por el servidor que éste designe;
+c). El acta circunstanciada:
 
-II. El titular de la Secretaría de Finanzas y Planeación;
+I. Lugar, fecha y hora de realización;
 
-III. El titular de la Oficialía Mayor;
+II. Datos que hagan del conocimiento que se cercioró de estar en el domicilio correcto;
 
-IV. El titular de la Secretaría de Salud;
+III. Señalamiento de que se requirió la presencia de la persona a notificar;
 
-V. El Titular de la Secretaría de Desarrollo Urbano y Obras Públicas;
+IV. Fundamentación y motivación;
 
-VI. El Titular de la Secretaría de Desarrollo Económico;
+V. Hechos referentes a que la persona a notificar no se encontraba en ese momento en el domicilio;
 
-VII. El Rector de la Universidad Autónoma del Estado de Morelos; y
+VI. Manifestación de haber dejado citatorio requiriendo la espera de la persona a notificar en hora y día hábiles, a fin de llevar a cabo la notificación; y
 
-VIII. Órgano de Vigilancia.
+VII. Referencia de lazo familiar o relación de la persona con quien se entiende la diligencia y la persona a notificar.
 
-Por cada propietario habrá un suplente que actuará en caso de faltas temporales del titular, en los términos que señale el Reglamento Interior del Instituto.
+###### Artículo 13.
 
-Para el funcionamiento la Junta de Gobierno contará con un Secretario Técnico, quién será el Director General del Instituto, quien participará con derecho a voz, pero no a voto.
+Notificación por comparecencia.
 
-Los nombramientos de los miembros de la Junta de Gobierno serán honoríficos y no devengarán retribución alguna como integrantes de este órgano de gobierno.
+Las notificaciones personales podrán realizarse por comparecencia del interesado, de su representante o de su autorizado. En tales casos, se deberá elaborar la razón de la comparecencia y agregarse una copia simple de la identificación oficial con la cual se haya identificado el compareciente, y en su caso, copia simple del documento que acredite la personería con la que se ostenta.
 
-###### ARTÍCULO 32.
+###### Artículo 14.
 
-La Junta de Gobierno sesionará válidamente con la asistencia de la mitad más uno, de la totalidad de sus miembros, y siempre que la mayoría de los asistentes sean representantes de la Administración Pública Estatal.
+Lugar para la práctica de las notificaciones personales.
 
-Los acuerdos y resoluciones se tomarán por mayoría de votos de los asistentes y el Presidente tendrá voto de calidad en caso de empate. De cada sesión se deberá levantar acta circunstanciada, la cual deberá firmarse por quienes hayan participado en la misma.
+Las notificaciones personales se practicarán en el domicilio del Partido Político Local, o bien, en el que haya proporcionado el Responsable.
 
-La Junta sesionará de manera ordinaria cada dos meses y de manera extraordinaria cuando la convoque su presidente, o por causa justificada e imprevista.
+### CAPÍTULO IV. DE LAS NOTIFICACIONES
 
-Cuando la Junta de Gobierno así lo considere podrá invitar con voz pero sin voto, a quienes puedan coadyuvar con sus opiniones al mejor desarrollo del organismo.
+###### Artículo 15.
 
-###### ARTÍCULO 33.
+Plazo para notificación de práctica de diligencias.
 
-El Director General será nombrado y removido por el Titular del Ejecutivo Estatal y durará en su cargo tres años, pudiendo ser designado por un período más.
+Cuando el acto a notificar entrañe una citación o un plazo para la práctica de una diligencia se notificará personalmente, al menos con tres días hábiles de anticipación al día y hora en que se haya de celebrar la actuación, salvo disposición legal expresa en contrario.
 
-###### ARTÍCULO 34.
+###### Artículo 16.
 
-Para ser Director General, deberán reunirse los siguientes requisitos:
+Autorización de personal para la práctica de diligencias.
 
-I. Ser preferentemente ciudadano morelense y acreditar tener conocimiento en la materia para el buen desempeño de su función;
+El Titular de la Secretaría Ejecutiva podrá autorizar al personal que considere necesario para que realice las diligencias derivadas de los requerimientos, acuerdos y determinaciones emitidas en el procedimiento regulado por este Reglamento.
 
-II. Estar en pleno ejercicio de sus derechos y no tener alguno de los impedimentos señalados en el artículo 30 fracciones I, III y IV de la Ley de los Organismos Auxiliares de la Administración Pública del Estado de Morelos;
+###### Artículo 17.
 
-III. Contar preferentemente con Título y Cédula Profesional a nivel Licenciatura en cualquiera de las siguientes especialidades: Educación Física, Entrenamiento deportivo, Cultura Física, Administración Deportiva, además tener experiencia y liderazgo en gestión administrativa, deportiva y social; y
+Objeto del periodo de prevención.
 
-IV. Ser mayor de veinticinco años.
+Previo al procedimiento de liquidación del patrimonio de los Partidos Políticos Locales, tendrá lugar el periodo de prevención, que tiene como finalidad tomar las providencias precautorias necesarias para proteger los bienes y recursos remanentes del Partido Político Local en liquidación, los intereses y los derechos de orden público, así como los derechos de terceros.
 
-###### ARTÍCULO 35.
+###### Artículo 18.
 
-El Consejo Consultivo Estatal del Deporte estará integrado conforme se establece en el artículo 16 de la presente Ley y su actuación se normará conforme a la misma y demás disposiciones reglamentarias.
+Inicio del periodo de prevención.
 
-### CAPÍTULO QUINTO. DE LAS ATRIBUCIONES DE LA JUNTA DE GOBIERNO Y DEL DIRECTOR GENERAL
+El periodo de prevención dará inicio según corresponda:
 
-###### ARTÍCULO 36.
+I. En caso de que el Partido Político Local no efectúe el registro de la plataforma electoral, a partir del día siguiente del vencimiento del plazo establecido en el Código;
 
-La Junta de Gobierno tendrá las siguientes atribuciones y facultades no delegables, además de las señaladas en la Ley de Organismos Auxiliares de la Administración Pública del Estado de Morelos:
+II. A partir del día siguiente de celebradas las sesiones del Consejo General o de los Consejos Distritales del Instituto Electoral para el registro de las candidaturas señaladas en el Código, cuando implique la no participación del Partido Político Local en el proceso electoral ordinario en la Ciudad de México;
 
-I. Aprobar las acciones de planificación y programación deportiva que le presente el Director General;
+III. A partir del día siguiente de que, derivado de los cómputos que realicen los Consejos Distritales del Instituto Electoral se desprenda que el Partido Político Local, no obtuvo el 3% de la votación total emitida en alguna de las elecciones de que se trate;
 
-II. Aprobar el presupuesto de ingresos y egresos, así como sus modificaciones, conforme a las disposiciones normativas aplicables;
+IV. A partir del día siguiente a aquel en que el Partido Político Local notifique al Titular de la Secretaria Ejecutiva su decisión de disolverse o fusionarse con otro Partido Político Local; o
 
-III. Aprobar las acciones que someta a su consideración el Director General, necesarias para la ejecución de las funciones que transfiera la Federación al Gobierno del Estado a través de los convenios de colaboración o coordinación que celebren;
+V. A partir del día siguiente en que el Consejo General haya impuesto al Partido Político Local la sanción de cancelación de registro, prevista en el Código.
 
-IV. Fijar y ajustar las propuestas de cuotas de recuperación;
+El Titular de la Secretaría Ejecutiva, deberá Informar por escrito a las y los Consejeros Electorales integrantes de la Comisión de Fiscalización, al Titular de la Secretaría Administrativa y al Representante del inicio del periodo de prevención.
 
-V. Emitir opinión sobre disposiciones jurídicas y proyectos de éstas, en materia deportiva;
+El periodo de prevención concluirá una vez que inicie la etapa de reserva prevista en el artículo 28 del presente Reglamento.
 
-VI. Aprobar el proyecto de desarrollo del Instituto del Deporte y Cultura Física que le presente el Director General y supervisar que se actualice periódicamente;
+###### Artículo 19.
 
-VII. Autorizar la solicitud, conforme a la legislación aplicable, de los créditos que sean necesarios para la prestación de los servicios públicos de fomento al deporte;
+Requisitos del aviso de la disolución y fusión de un partido político.
 
-VIII. Aprobar los proyectos de inversión del Instituto del Deporte y Cultura Física;
+El Partido Político Local que por acuerdo de sus miembros haya declarado su disolución o fusión deberá hacerlo del conocimiento, por escrito, al Instituto Electoral, por conducto de su Representante, dentro de las 72 horas siguientes de haber tomado dicha determinación, debiendo anexar a su escrito la siguiente documentación:
 
-IX. Aprobar anualmente con base en el informe de los comisarios y dictamen de los auditores externos, los estados financieros del Organismo;
+I. Un tanto del acta en la que se haga constar el acuerdo de los miembros del Partido Político Local para su disolución;
 
-X. Autorizar el otorgamiento de becas a deportistas, así como de reconocimientos a los mismos; de acuerdo a los procedimientos y reglas aplicables;
+II. En su caso, un tanto del convenio celebrado entre los partidos políticos a fusionarse, en el que invariablemente se establecerán las características de la fusión;
 
-XI. Aprobar el Reglamento Interior del Instituto del Deporte y Cultura Física, así como los Manuales de Organización, de Procedimientos y de Servicios al público, así como las reformas y adiciones;
+III. Los estados financieros del Partido Político Local, con cifras del primero de enero a la fecha en que se tomó la decisión de la disolución o fusión;
 
-XII. Establecer las bases esenciales de la estructura básica de la organización del Instituto y sus modificaciones que procedan a la misma;
+IV. Una relación de sus acreedores en la que se indique lo siguiente:
 
-XIII. Aprobar el calendario anual de sesiones, y
+1. Monto de las operaciones, así como los nombres y domicilios correspondientes;
 
-XIV. Las demás que expresamente disponga la presente Ley y la normatividad aplicable.
+2. La fecha de vencimiento de los créditos;
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+3. El grado con que estima se les debe reconocer, indicando las características particulares de esos créditos; y
 
-###### ARTÍCULO 37.
+4. Las garantías que, en su caso, hubieran otorgado.
 
-El Instituto, por conducto del Director General, rendirá anualmente a la Secretaría de Desarrollo Humano y Social, un informe general de labores realizadas durante el ejercicio, previamente aprobado por la Junta de Gobierno y apegado a su proyecto de desarrollo.
+V. Un inventario físico de todos sus bienes muebles e inmuebles debidamente valuado, títulos, valores y derechos de cualquier especie;
 
-###### ARTÍCULO 38.
+VI. Una relación de los juicios en que sea parte, precisando los datos de identificación, su tipo, estado procesal y autoridad ante quien se sustancia; y
 
-El Director General tendrá las siguientes facultades y obligaciones, además de las señaladas en la Ley de los Organismos Auxiliares de la Administración Pública del Estado de Morelos:
+VII. Una relación de las cuentas por cobrar que indiquen monto, nombres, concepto, domicilios, la fecha de vencimiento y los documentos con los cuales se avalen.
 
-I. Representar al Instituto en las actividades de coordinación y concertación con cualquier órgano que tenga relación con los asuntos del deporte;
+###### Artículo 20.
 
-II. Representar al Instituto en los comités y eventos deportivos;
+Procedimiento en la designación del Interventor.
 
-III. Nombrar y remover a los funcionarios y demás personal de apoyo del Instituto del Deporte y Cultura Física, que no sean de mandos medios;
+La designación del Interventor se realizará atendiendo al principio de transparencia, conforme al procedimiento siguiente:
 
-IV. Tener la representación legal del Instituto del Deporte y Cultura Física en los términos y condiciones señalados en la Ley de Organismos Auxiliares para la Administración Pública del Estado de Morelos;
+I. Dentro de las 48 horas siguientes a que inicie el periodo de prevención, la Secretaría Ejecutiva deberá proponer, de entre el personal adscrito a la Oficina de Fiscalización, una terna a la Comisión de Fiscalización;
 
-V. Elaborar el Proyecto de Desarrollo del Instituto del Deporte y Cultura Física, actualizarlo periódicamente y someterlo a la aprobación de la Junta de Gobierno;
+II. La Comisión de Fiscalización, deberá convocar a una sesión extraordinaria a efecto de aprobar la terna propuesta y declararse en sesión permanente;
 
-VI. Supervisar el cumplimiento del Proyecto de Desarrollo, aprobado por la Junta de gobierno;
+III. Aprobada la terna, la Secretaría Ejecutiva citará al Representante, a las y los Consejeros Electorales integrantes de la Comisión de Fiscalización, y a la o el Titular de la Contraloría General del Instituto Electoral a la reunión donde tendrá verificativo el proceso de insaculación, mediante el que se seleccionará al Interventor para la liquidación;
 
-VII. Coordinar y supervisar las actividades técnicas, administrativas y financieras del Instituto del Deporte y Cultura Física, para lograr una mayor eficiencia y eficacia en el cumplimiento de sus objetivos;
+IV. En presencia de los asistentes a la reunión se desplegará un sistema informático desarrollado por el Instituto Electoral para la insaculación del Interventor. El Titular de la Oficina de Fiscalización dará lectura en voz alta al nombre de la persona que resulte insaculada por el sistema informático;
 
-VIII. Celebrar los actos jurídicos de dominio y administración que sean necesarios para el funcionamiento del organismo;
+V. La Secretaría Ejecutiva, informará, por escrito y de inmediato, a la Presidencia de la Comisión de Fiscalización el nombre de la persona insaculada, para que convoque a la reanudación de la sesión permanente, a efecto de acordar la designación del Interventor e instruir a la Secretaría Ejecutiva a que lo haga de conocimiento del Representante y el Responsable, del titular de la Secretaría Administrativa, así como a la persona designada; y
 
-IX. Autorizar las erogaciones correspondientes del presupuesto, y someter a la aprobación de la Junta de Gobierno, las erogaciones extraordinarias;
+VI. La Secretaría Ejecutiva informará al Responsable de las obligaciones y prohibiciones, establecidas en los artículos 36 y 37 del presente Reglamento.
 
-X. Ejecutar todos los acuerdos de la Junta de Gobierno;
+### CAPÍTULO II. DE LA DESIGNACIÓN Y FACULTADES DEL INTERVENTOR
 
-XI. Establecer relaciones de coordinación con las autoridades federales, estatales y municipales de la administración pública descentralizada o paraestatal y las personas de los sectores social y privado para el trámite y atención de asuntos de interés común;
+###### Artículo 21.
 
-XII. Realizar las actividades que se requieran para lograr la óptima realización de los servicios deportivos a la comunidad;
+Facultades del Interventor.
 
-XIII. Someter a la aprobación de la Junta de Gobierno, el Reglamento Interno del Instituto del Deporte y Cultura Física y sus modificaciones;
+A partir de su designación el Interventor tendrá las más amplias facultades para actos de administración y dominio sobre el conjunto de bienes, obligaciones, recursos y remanentes del Partido Político Local, por lo que todos los gastos que éste realice, deberán ser autorizados expresamente por el Interventor. No podrán enajenarse, gravarse o donarse los bienes muebles e inmuebles que integren el patrimonio del Partido Político Local hasta en tanto quede firme la resolución o declaratoria de pérdida de registro correspondiente.
 
-XIV. Someter a la aprobación de la Junta de Gobierno el Programa Operativo Anual y el Proyecto de Presupuesto Anual de Ingresos y Egresos del Instituto del Deporte y Cultura Física;
+###### Artículo 22.
 
-XV. Ejercer el presupuesto anual de egresos del Instituto del Deporte y Cultura Física, de conformidad con los ordenamientos y disposiciones normativas aplicables;
+Presentación del Interventor en las oficinas del Partido Político Local.
 
-XVI. Elaborar el proyecto de Manual General de Organización y Funciones, los Manuales de Políticas y procedimientos, y demás instrumentos de apoyo administrativo, necesarios para el funcionamiento del Instituto del Deporte y Cultura Física, los cuales deberán mantenerse permanentemente actualizados y presentar a la Junta de Gobierno para su análisis y aprobación;
+Una vez que el Interventor sea designado, éste se presentará junto con el Grupo de Trabajo, en las instalaciones del Partido Político Local, o bien, en las instalaciones del Órgano de Finanzas para reunirse con el Responsable y asumir las funciones encomendadas en este Reglamento.
 
-XVII. Supervisar y vigilar la debida observancia del presente ordenamiento y demás disposiciones que rijan al Instituto del Deporte y Cultura Física;
+###### Artículo 23.
 
-XVIII. Suscribir, en su caso, los contratos que regulen las relaciones laborales del Instituto con sus trabajadores;
+Informe del Responsable al Interventor.
 
-XIX. Proponer a la Junta de Gobierno las normas y bases para cancelar adeudos a cargo de terceros y a favor del Instituto, cuando fuere notoria la imposibilidad práctica de su cobro, sin invadir las atribuciones de la dependencia facultada por la Ley para dichos efectos;
+El Responsable deberá rendir al Interventor un informe del inventario de bienes y recursos que integran el patrimonio del Partido Político Local, debiendo de contener por lo menos lo siguiente:
 
-XX. Someter a la aprobación de la Junta de Gobierno las bases y programas generales que regulen los contratos, convenios o acuerdos que deba celebrar el Instituto en las materias de obras públicas, adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles, de conformidad con las disposiciones normativas aplicables;
+a) La relación de los bienes muebles e inmuebles en propiedad y posesión del Partido Político Local;
 
-XXI. Celebrar contratos, convenios o acuerdos con terceros, tratándose de obras públicas, adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles e inmuebles, bajo su responsabilidad y con sujeción a las disposiciones normativas aplicables, y a las políticas, bases y programas generales aprobados por la Junta de Gobierno;
+b) El importe del efectivo con el que se cuenta, saldo en cuentas bancarias, inversiones y fideicomisos, así como los fondos revolventes;
 
-XXII. Proponer a la Junta de Gobierno, las modificaciones que procedan a la estructura básica de la organización del Instituto;
+c) La documentación original expedida a nombre del Partido Político Local: facturas, títulos de propiedad que amparan los bienes, estados de cuenta y detalle de movimientos bancarios;
 
-XXIII. Establecer las instancias de asesoría, de coordinación y de consulta que estime necesarias para el adecuado funcionamiento del Instituto;
+d) El inventario con las características y condiciones físicas de los bienes; y
 
-XXIV. Celebrar y suscribir convenios de coordinación, colaboración y concertación inherentes a los objetivos del Instituto y del Sistema y Programa Estatales del Deporte y Cultura Física;
+e) La situación jurídica en que se encuentren los bienes.
 
-XXV. Proponer políticas en materia deportiva y la cultura física;
+Derivado de dicho acto, se levantará un acta circunstanciada firmada por los involucrados de la que se dará cuenta en el informe que en su momento presente el Interventor a la Comisión de Fiscalización.
 
-XXVI. Elaborar proyectos de programas relativos al deporte y la cultura física y la recreación con base en la normatividad vigente en materia de planeación y someterlos a la consideración y aprobación de la autoridad competente;
+### CAPÍTULO III. DE LAS ETAPAS DEL PROCEDIMIENTO DE LIQUIDACIÓN
 
-XXVII. Elaborar el diagnóstico de las instalaciones deportivas en la entidad, y el proyecto de programa anual de construcción de obra destinada al deporte y la cultura física, así como el de mantenimiento y conservación de estos inmuebles e instalaciones;
+###### Artículo 24.
 
-XXVIII. Ejecutar los programas de descentralización y desconcentración de los servicios de deporte en el Estado, así como promover el acceso de estos a toda la población y primordialmente a los integrantes del Sistema Estatal del Deporte y Cultura Física;
+Acceso del Interventor y del Grupo de Trabajo a la contabilidad.
 
-XXIX. Coadyuvar en la organización y fomento de la enseñanza y la práctica de los deportes y la cultura física en el Estado, así como la realización de eventos deportivos en colaboración con los organismos respectivos;
+El Interventor y el Grupo de Trabajo tendrán acceso a los libros de contabilidad, registros y balanzas de comprobación del Partido Político Local, así como a cualquier otro documento o medio electrónico de almacenamiento de datos que le sean útiles para llevar a cabo sus funciones. Asimismo, podrán realizar verificaciones directas de bienes y operaciones.
 
-XXX. Implementar y mantener actualizado el Registro Estatal del Deporte;
+###### Artículo 25.
 
-XXXI. Vigilar, administrar y aplicar de acuerdo a los programas aprobados para tal efecto el Fondo para el Desarrollo del Deporte y la Cultura Física;
+Obligación de proporcionar información al Interventor y al Grupo de Trabajo.
 
-XXXII. Gestionar permanentemente recursos federales para la infraestructura deportiva de la Entidad; y
+El Partido Político Local, sus representantes, empleados o terceros que por razón de sus actividades deban proporcionar datos y documentos, estarán obligados a colaborar con el Interventor y el Grupo de Trabajo; y en caso de oposición u obstaculización en el ejercicio de sus funciones, el Interventor podrá solicitar a la Secretaría Ejecutiva, la aplicación de alguna de las medidas de apremio previstas en el presente Reglamento.
 
-XXXIII. Las demás que le señale, confiera y delegue la Junta de Gobierno, así como las establecidas para el Instituto en el presente ordenamiento y los ordenamientos aplicables y que sean de su competencia.
+El Interventor informará inmediatamente a la Oficina de Fiscalización, quien a su vez hará del conocimiento de la Secretaría Ejecutiva, las irregularidades que encuentre en el desempeño de sus funciones.
 
-###### ARTÍCULO 39.
+## TÍTULO TERCERO. DE LAS ATRIBUCIONES DE LOS ÓRGANOS DEL INSTITUTO ELECTORAL
 
-El Director será sustituido en sus impedimentos, excusas o ausencias temporales por el servidor público del Instituto que designe la Junta Directiva.
+### CAPÍTULO IV. DE LA RESERVA
 
-### CAPÍTULO SEXTO. DEL ÓRGANO DE VIGILANCIA
+###### Artículo 26.
 
-###### ARTÍCULO 40.
+Etapas del procedimiento de liquidación.
 
-El Instituto contará con un Órgano de Vigilancia, que se integrará por un Comisario designado por la Secretaría de la Contraloría del Estado.
+El procedimiento de liquidación del patrimonio de los Partidos Políticos Locales comprenderá las siguientes etapas:
 
-###### ARTÍCULO 41.
+I. Etapa de reserva, y
 
-El Comisario sin perjuicio de las facultades que le confieran otras disposiciones normativas, tendrá las siguientes atribuciones:
+II. Etapa de liquidación.
 
-I. Vigilar el cumplimiento de las disposiciones y lineamientos relativos al sistema de control y evaluación gubernamental;
+Tales etapas se sujetarán a las disposiciones establecidas en este Reglamento.
 
-II. Vigilar la instrumentación y funcionamiento de los sistemas de programación y presupuesto del Instituto del Deporte y Cultura Física;
+### CAPÍTULO V. DE LAS OBLIGACIONES Y PROHIBICIONES DEL RESPONSABLE
 
-III. Evaluar el desempeño general y por funciones del Instituto del Deporte y Cultura Física;
+###### Artículo 27.
 
-IV. Rendir informes a la Junta de Gobierno sobre las actividades del Instituto del Deporte y Cultura Física, precisando los aspectos preventivos y correctivos; y
+Pérdida de capacidad del Partido Político Local.
 
-V. Solicitar a la Junta de Gobierno o al Director General información que requiera para el desarrollo de sus funciones.
+El Partido Político Local al que le hubiera sido cancelado o pierda su registro, se sujetará al procedimiento de liquidación de su patrimonio, perderá su capacidad para cumplir con sus fines constitucionales y legales, sólo subsistirá con personalidad jurídica para que, a través del Interventor, cumpla las obligaciones contraídas.
 
-### CAPÍTULO SÉPTIMO. DE LAS RELACIONES LABORALES
+###### Artículo 28.
 
-###### ARTÍCULO 42.
+Inicio de la etapa de reserva.
 
-Las relaciones laborales entre el Instituto y sus trabajadores, se regirán por la Ley del Servicio Civil del Estado de Morelos.
+La etapa de reserva tendrá por objeto establecer las previsiones necesarias para salvaguardar los bienes y recursos del Partido Político Local, así como los intereses de orden público y los derechos de terceros.
 
-## TÍTULO TERCERO. DE LA PARTICIPACIÓN DE LOS SECTORES
+La etapa de reserva previa a la liquidación del patrimonio del Partido Político Local, dará inicio por alguna de las causas siguientes:
 
-### CAPÍTULO PRIMERO. DEL SECTOR PÚBLICO ESTATAL
+I. A partir de que el Consejo General emita la declaratoria de pérdida de registro como Partido Político Local;
 
-###### ARTÍCULO 43.
+II. A partir de que el Consejo General emita la resolución mediante la cual imponga al Partido Político Local la sanción de pérdida de su registro; o
 
-La participación en el Sistema es obligatoria para la administración pública estatal y municipal.
+III. A partir de que el Consejo General dé a conocer que el Partido Político Local ha perdido su registro con motivo de la declaración de disolución o fusión por acuerdo de sus miembros conforme a lo establecido en sus estatutos.
 
-###### ARTÍCULO 44.
+### CAPÍTULO VI. DE LAS OBLIGACIONES DEL INTERVENTOR
 
-Con el fin de fomentar y desarrollar el deporte conforme al Sistema Nacional del Deporte, el Ejecutivo Estatal promoverá la coordinación de los integrantes del Sistema.
+###### Artículo 29.
 
-###### ARTÍCULO 45.
+Inicio de reserva ante pérdida de registro.
 
-La incorporación del Estado de Morelos al Sistema Nacional del Deporte se realizará por conducto de las instituciones competentes mediante la celebración de convenios de coordinación que definan específicamente las áreas de responsabilidad, dentro de su ámbito de competencia.
+Dentro de las veinticuatro horas siguientes a la emisión de la declaratoria o resolución de pérdida de registro del Partido Político Local por el Consejo General, el Titular de la Secretaría Ejecutiva, mediante oficio deberá:
 
-###### ARTÍCULO 46.
+I. Informar del inicio de la etapa de reserva al Consejero Presidente del Consejo General, a la Comisión de Fiscalización y al Interventor; y
 
-El Ejecutivo Estatal promoverá la participación de los sectores público, privado y social, así como de los organismos deportivos con el fin de integrarlos al Sistema, mediante convenios de concertación que para tal efecto celebren.
+II. Notificar el inicio de la etapa de reserva al Responsable, mismo que fungirá como enlace para la entrega de la información y documentación que le requiera la Secretaría Ejecutiva a través de su Oficina de Fiscalización y el Interventor durante dicha etapa.
 
-El Ejecutivo del Estado, preverá anualmente, dentro del presupuesto de Egresos de cada ejercicio, los recursos necesarios para el desarrollo de las metas de sus programas deportivos, de conformidad con la disponibilidad presupuestal, mismo que será independiente del gasto corriente. El ejercicio de estos recursos estará sujeto a la normatividad establecida en la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Morelos.
+### CAPÍTULO VII. DE LA PRESENTACIÓN DE LA INFORMACIÓN FINACIERA (SIC)
 
-### CAPÍTULO SEGUNDO. DEL SECTOR PÚBLICO MUNICIPAL
+###### Artículo 30.
 
-###### ARTÍCULO 47.
+Efectos de la pérdida o cancelación del registro.
 
-Cada municipio deberá contar, de conformidad con sus ordenamientos, con un órgano que en coordinación y colaboración con el Instituto, administre, organice, promueva, estimule, fomente y vigile el desarrollo del deporte y la cultura física, estableciendo para ello sistemas del deporte y de la cultura física en sus distintos ámbitos de competencia.
+Recibido el oficio a que hace alusión la fracción I del artículo anterior, la o el Consejero Presidente del Instituto Electoral convocará a la brevedad posible a sesión extraordinaria del Consejo General a efecto de que, mediante acuerdo, apruebe lo siguiente:
 
-Los Sistemas Municipales serán los encargados de promover, estimular y fomentar el desarrollo del deporte y de la cultura física en los municipios y se integraran por las autoridades municipales, organismos e instituciones públicas, privadas, agrupaciones y deportistas, que en el ámbito de su competencia, tengan como objeto, generar las acciones de financiamiento y programas necesarios para la coordinación, fomento, apoyo, promoción, difusión y desarrollo del deporte y la cultura física, así como el óptimo desarrollo de los recursos humanos, financieros y materiales.
+I. Instruir a la Secretaría Administrativa la cancelación de la entrega de las ministraciones mensuales por concepto de financiamiento público para el sostenimiento de actividades ordinarias permanentes, así como el correspondiente a las actividades específicas como entidad de interés público del Partido Político Local, a partir de la aprobación del acuerdo. La cantidad a pagar por concepto de las ministraciones mensuales al Partido Político Local corresponderá hasta el día en que el Consejo General instruya por acuerdo su cancelación o pérdida de su registro;
 
-###### ARTÍCULO 48.
+II. Solicitar al Representante, entregue a la Secretaría Administrativa las instalaciones, bienes muebles y demás materiales asignados para el desarrollo de sus actividades como integrante del Consejo General; y
 
-El órgano municipal correspondiente recibirá solicitudes de inscripción y gestionará, y en su caso entregará las acreditaciones que el Registro Estatal del Deporte otorgue, así mismo, una vez otorgado el registro correspondiente, la autoridad municipal, lo inscribirá en el registro municipal de acuerdo a la disciplina y categoría deportiva respectiva.
+III. Declarar que el Partido Político Local deja de formar parte del Consejo General.
 
-El registro a que se refiere el párrafo anterior, será requisito obligatorio e indispensable para su integración a los respectivos sistemas.
+###### Artículo 31.
 
-###### ARTÍCULO 49.
+Otorgamiento de poderes notariales al Interventor.
 
-Los responsables del deporte y la cultura física se regirán por sus propios ordenamientos sin contravenir lo dispuesto en la presente Ley y la Ley General de Cultura Física y Deporte, cumpliendo en todo momento con cada una de las obligaciones que como miembros del Sistema les corresponde.
+El Partido Político Local deberá otorgar al Interventor poderes notariales para que cuente con las más amplias facultades de representación para actos generales, pleitos y cobranzas, administración y dominio, con todas las cláusulas especiales que requiera, así como las necesarias para suscribir títulos y operaciones de crédito y apertura de cuentas bancarias, respecto del patrimonio del Partido Político Local, así como revocar los poderes del Responsable, lo cual deberá acreditarse con la escritura correspondiente.
 
-###### ARTÍCULO 50.
+###### Artículo 32.
 
-Los sistemas municipales coordinarán obligatoriamente sus actividades para aplicar las políticas y programas que en materia de deporte y la cultura física se adopte por el Sistema Estatal del Deporte.
+Presentación de información durante la etapa de reserva.
 
-###### ARTÍCULO 51.
+Dentro de la etapa de reserva, tendrá lugar lo siguiente:
 
-Los Ayuntamientos tendrán las facultades y obligaciones siguientes:
+I. La presentación de la información financiera y administrativa del Partido Político Local, así como la elaboración del inventario físico de bienes en los términos de los artículos 43, 44 y 45 así como los formatos establecidos en el presente Reglamento;
 
-I. Promover y organizar en sus respectivas circunscripciones, actividades y prácticas físico-deportivas;
+II. La información financiera presentada, se someterá al procedimiento de revisión respectivo establecido en el artículo 46 de este ordenamiento;
 
-II. Constituir un Comité Municipal del Deporte, presidido preferentemente por un Licenciado en cualquiera de las siguientes especialidades: Educación Física, Organización Deportiva, Entrenamiento Deportivo o Administración del Deporte, conformado por los integrantes del Sistema Municipal del Deporte;
+III. La presentación por parte de la Secretaría Ejecutiva del informe a la Comisión de Fiscalización respecto a la situación financiera y el inventario físico de los bienes muebles e inmuebles del Partido Político Local, de conformidad con el artículo 47 de este Reglamento; y
 
-III. Participar en el Consejo Estatal del Deporte y Cultura Física;
+IV. Las acciones conducentes para el cobro a los deudores y del reconocimiento de los acreedores del Partido Político Local, siguiendo las reglas previstas en el Capítulo XI, Título Segundo del presente Reglamento.
 
-IV. Coordinarse con los comités, asociaciones y ligas municipales en todas sus promociones deportivas que no sean de carácter profesional;
+###### Artículo 33.
 
-V. Facilitar la plena utilización de las instalaciones deportivas en su circunscripción, de conformidad con la reglamentación establecida;
+Conclusión de la etapa de reserva.
 
-VI. Apegarse a los lineamientos establecidos en el Sistema y Programa Estratégico;
+La etapa de reserva concluirá una vez que la declaratoria o la resolución de pérdida de registro cause estado o, en su caso, fuera revocada por la autoridad jurisdiccional electoral correspondiente.
 
-VII. Prever anualmente, dentro del presupuesto autorizado, los recursos necesarios para el desarrollo de las metas de sus programas deportivos debidamente etiquetados, mismo que será independiente del gasto corriente, en términos de la legislación aplicable. El ejercicio de estos recursos estará sujeto a la normatividad establecida en la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Morelos;
+En el supuesto de que la declaratoria o la resolución de pérdida de registro quede firme, previo a que concluya el procedimiento de revisión de la información financiera, la etapa de reserva concluirá una vez que la Secretaría Ejecutiva presente el Informe respectivo a la Comisión de Fiscalización.
 
-VIII. Registrar y actualizar el inventario municipal de instalaciones deportivas;
+###### Artículo 34.
 
-IX. Contemplar las adecuaciones necesarias en la normatividad para la práctica y desarrollo del deporte que realizan personas con discapacidad y adultos mayores.
+Efectos de la revocación de la pérdida o cancelación del registro.
 
-X. Participar activamente en el Sistema; y
+En caso de revocarse la resolución o declaración en la que se determinó la pérdida o cancelación del registro del Partido Político Local y tenga el carácter de firme, el Partido Político Local podrá reanudar sus operaciones habituales respecto a la administración y manejo de sus bienes y recursos que formen su patrimonio.
 
-XI. Las demás que les confieran las disposiciones legales y reglamentarias aplicables.
+Asimismo, el Interventor deberá rendir un informe a la Secretaría Ejecutiva, a la Comisión de Fiscalización y al Responsable sobre el estado financiero y de los actos que se hubiese (sic) desarrollado junto con el Grupo de Trabajo durante el periodo en que haya permanecido en el cargo.
 
-### CAPÍTULO TERCERO. DE LA COORDINACIÓN Y COLABORACIÓN ENTRE LOS INTEGRANTES DEL SISTEMA
+###### Artículo 35.
 
-###### ARTÍCULO 52.
+Conservación de la calidad de Responsable.
 
-El Instituto ejercerá las funciones que la presente Ley le confiere, para ello, se coordinará con los comités municipales del deporte, asociaciones, ligas, deportistas en general y en su caso, concertará acciones con el sector social y privado que puedan beneficiar directamente los intereses generales del deporte y la cultura física en el Estado.
+El Responsable conservará esa calidad durante las etapas de prevención, reserva y liquidación; así también, respecto de las operaciones realizadas que estén en contravención a lo previsto por el Código, este Reglamento y demás leyes aplicables.
 
-###### ARTÍCULO 53.
+Asimismo, conservará dicho nombramiento independientemente de que el Partido Político Local pierda su estatus jurídico ante la autoridad competente.
 
-Las autoridades competentes en el Estado y los municipios se coordinarán entre sí o con instituciones del sector social y privado para:
+### CAPÍTULO VIII. DEL INVENTARIO FÍSICO DE LOS BIENES
 
-I. Establecer en sus respectivos ámbitos de competencia el Sistema Estatal y los Municipales del Deporte y Cultura Física;
+###### Artículo 36.
 
-II. Promover el deporte y la cultura física, en la rehabilitación y en la población en general, en todas sus manifestaciones y expresiones;
+Obligaciones del Responsable.
 
-III. Ejecutar y dar seguimiento al Programa Estratégico del Deporte y Cultura Física en el Estado de Morelos;
+El Responsable tendrá las obligaciones siguientes:
 
-IV. Promover la construcción, adecuación, conservación y aprovechamiento óptimo de la infraestructura para el deporte y la cultura física, en coordinación con las respectivas asociaciones deportivas estatales y de acuerdo con las normas oficiales que para tal efecto expida la dependencia correspondiente;
+I. Dentro de los diez días siguientes a la notificación del inicio de la etapa de reserva, presentar a la Oficina de Fiscalización el informe de ingresos y gastos, en los términos y formatos establecidos en el presente
 
-V. Dar seguimiento y ejecutar las políticas y programas aprobados por el Sistema, y
+Reglamento; informe que se someterá al procedimiento de revisión respectivo;
 
-VI. Establecer procedimientos de promoción en materia de deporte y la cultura física.
+II. Adjunto a dicho informe, remitirá copia del último Informe anual ordinario en materia de fiscalización presentado al Instituto Nacional, los oficios de notificación de errores u omisiones emitidos por dicha autoridad, así como los oficios de respuesta respectivos;
 
-###### ARTÍCULO 54.
+III. El Partido Político Local deberá ceder al Interventor durante la etapa de reserva todos los poderes necesarios para ejercer actos de dominio, administración, pleitos y cobranzas, con todas las cláusulas especiales que requiera, así como las necesarias para suscribir títulos y operaciones de crédito y apertura de cuentas bancarias, respecto del patrimonio del Partido Político Local y, además deberá revocar todos los otorgados con anterioridad, ante notario público;
 
-La coordinación a que se refiere el artículo anterior, se realizará a través de convenios de coordinación, colaboración y concertación que celebren las autoridades competentes del Estado y los municipios, entre sí o con instituciones del sector social y privado.
+IV. Deberá recuperar los préstamos, anticipos y depósitos otorgados;
 
-### CAPÍTULO CUARTO. DE LOS SECTORES PRIVADO Y SOCIAL
+V. Deberá suspender los pagos respecto de las obligaciones contraídas con anterioridad, con excepción de aquéllas de carácter laboral, fiscal y en las que se haya otorgado garantía y establezcan penas convencionales, en tanto el Interventor asume sus funciones;
 
-###### ARTÍCULO 55.
+VI. Deberá realizar solo aquellas operaciones indispensables para el sostenimiento ordinario del Partido Político Local, exclusivamente los pagos por concepto de: rentas, agua, luz, teléfono, internet, papelería, gasolina, pasajes en la Ciudad de México, servicios de mantenimiento y vigilancia, así como los necesarios para el cumplimiento de las obligaciones establecidas en el Código;
 
-Los sectores privado y social, participarán en el Sistema, en términos del artículo 53 de la presente Ley.
+VII. Desempeñar el cargo o comisiones que le fueron asignados;
 
-###### ARTÍCULO 56.
+VIII. Atender las solicitudes y requerimientos del Interventor, el Grupo de Trabajo y de la Secretaría Ejecutiva;
 
-Los convenios a que se refiere el artículo 54 del presente ordenamiento, deberán tener como objetivo fundamental el fomento y desarrollo del deporte, mismos que deberán prever:
+IX. Deberá dar respuesta a las solicitudes de información en materia de transparencia, hasta la conclusión del procedimiento de liquidación; y
 
-I. La forma en que se desarrollarán las actividades deportivas que se realicen dentro del Sistema;
+X. Todas aquellas que fueran necesarias para cumplir con el objeto establecido por el artículo 1 del presente Reglamento.
 
-II. Los apoyos que en su caso, le sean destinados para el desarrollo y fomento del deporte, comprendiendo las actividades científicas y técnicas que se relacionen con el mismo; y
+###### Artículo 37.
 
-III. Las acciones y recursos que aporten para la promoción y fomento del deporte, así como el uso de su infraestructura.
+Prohibiciones del Responsable.
 
-###### ARTÍCULO 57.
+El Responsable tendrá las prohibiciones siguientes:
 
-Las personas físicas que realicen actividades deportivas podrán participar en el Sistema en lo individual o mediante agrupaciones u organismos deportivos, en los términos que señale el Reglamento de la presente Ley.
+I. No podrá enajenar, donar, ceder, cancelar o dar de baja ningún activo, con independencia de que el Interventor determine providencias precautorias de naturaleza análoga a dichas obligaciones;
 
-## TÍTULO CUARTO
+II. No podrá realizar transferencias de cualquier recurso o valor a favor de sus dirigentes, militantes, simpatizantes o a terceros;
 
-### CAPÍTULO ÚNICO. DEL PROGRAMA ESTRATÉGICO DEL DEPORTE Y CULTURA FÍSICA
+III. No podrá realizar ningún movimiento financiero, contable y fiscal, sin la autorización expresa y por escrito del Interventor; y
 
-###### ARTÍCULO 58.
+IV. Abstenerse de impedir u obstaculizar el ejercicio de las funciones del Interventor y del Grupo de Trabajo.
 
-El Programa Estratégico del Deporte y Cultura Física será el instrumento rector de la política y norma deportiva en el Estado y deberá ser elaborado con la participación de los integrantes del Sistema Estatal del Deporte y Cultura Física y mediante la coordinación del Consejo Estatal del Deporte y Cultura Física, conforme a los lineamientos establecidos en el Sistema y Programa Nacional del Deporte.
+###### Artículo 38.
 
-###### ARTÍCULO 59.
+Aplicación de medidas de apremio por incumplimiento del Responsable.
 
-El Programa estratégico establecerá diagnósticos, objetivos, lineamientos y acciones, así como la participación de los sectores público, privado y social, con el fin de ordenar la planificación, organización y desarrollo del deporte y la cultura física a través de su práctica, y de manera específica contendrá:
+En caso de incumplimiento del Responsable de alguna de las obligaciones y prohibiciones señaladas en el presente capítulo, podrá dar lugar a la aplicación de las medidas de apremio que determine la Secretaría Ejecutiva, establecidas en este Reglamento.
 
-I. La política del deporte y de la cultura física;
+###### Artículo 39.
 
-II. Los objetivos estratégicos, metas y acciones para el desarrollo del deporte y la cultura física en el Estado, acordes a las características propias de la entidad, así como con el Plan Nacional de Desarrollo y los programas sectoriales correspondientes;
+Obligaciones del Interventor.
 
-III. Los proyectos y acciones específicas, en virtud de los cuales se instrumentará la ejecución de los programas y del proyecto del Instituto;
+El Interventor tendrá las obligaciones siguientes:
 
-IV. Las acciones que cada uno de los integrantes del Sistema deberá realizar de acuerdo al ámbito de su competencia y naturaleza;
+I. Durante el tiempo que dure su encargo:
 
-V. Medidas de seguridad;
+a) Ejercer con probidad y diligencia las funciones que el presente Reglamento le encomiende;
 
-VI. Esquemas y acciones sobre prevención, atención y tratamiento en medicina del deporte;
+b) Supervisar y vigilar el correcto desempeño de las personas que lo auxilien en la realización de sus funciones;
 
-VII. Indicadores de desempeño en por lo menos, los siguientes rubros:
+c) Rendir los informes que la Secretaría Ejecutiva, y demás autoridades electorales competentes determinen;
 
-a) Formación, actualización, capacitación y superación profesional a instructores y entrenadores deportivos;
+d) Abstenerse de divulgar o utilizar en beneficio propio o de terceros la información que obtenga en el ejercicio de sus funciones;
 
-b) Deporte popular;
+e) Administrar el patrimonio del Partido Político Local en liquidación de la forma más eficiente posible, evitando cualquier menoscabo en su valor, tanto al momento de liquidarlo como durante el tiempo en que los bienes, derechos y obligaciones estén bajo su responsabilidad; y
 
-c) Deporte estudiantil;
+f) Cumplir con las demás obligaciones que el Código y este Reglamento determinen, así como las que emanen de las autoridades competentes.
 
-d) Deporte asociado;
+II. Durante la etapa de prevención y reserva:
 
-e) Deporte de talentos y de alto rendimiento;
+a) Realizar el inventario físico de los bienes muebles e inmuebles, conforme al procedimiento establecido en este Reglamento;
 
-f) Deportes para personas discapacitadas;
+b) Tomar posesión de los bienes y derechos correspondientes del Partido Político Local, así como el control de las cuentas bancarias y de inversiones;
 
-g) Deportes para adultos mayores;
+c) Administrar el patrimonio del Partido Político Local en forma eficiente, evitando cualquier menoscabo en su valor, durante el tiempo en que esté bajo su responsabilidad, así como al momento de su liquidación;
 
-h) Deportes para poblaciones especiales;
+d) Autorizar todos los gastos que realice el Partido Político Local;
 
-i) Charrería;
+e) Transferir, en su caso, los saldos de las cuentas bancarias y de inversiones del Partido Político Local a una sola cuenta bancaria concentradora;
 
-j) Deportes extremos o de alto riesgo; e
+f) Formular, en su caso, la lista de deudores, depósitos en garantía y cualquier otro derecho a favor del Partido Político Local, especificando los montos y antigüedad de los saldos, separando aquellos casos en los que exista garantía otorgada a favor del mismo;
 
-k) Instalaciones deportivas.
+g) Ordenar, en su caso, lo necesario para cubrir las obligaciones que la ley determina en protección y beneficio de los prestadores de servicios del Partido Político Local;
 
-## TÍTULO QUINTO. DEL FOMENTO, ESTÍMULO AL DEPORTE Y A LA CULTURA FÍSICA Y SU INFRAESTRUCTURA
+h) Formular las listas de acreedores, así como la de reconocimiento, cuantía, gradación y prelación de créditos, conforme a lo establecido en este Reglamento; y
 
-### CAPÍTULO PRIMERO. DEL FONDO PARA EL DESARROLLO DEL DEPORTE Y LA CULTURA FÍSICA DEL ESTADO DE MORELOS
+i) Elaborar el Informe de lo actuado que contendrá, además, el balance de bienes y recursos remanentes, después de establecer las provisiones necesarias para el pago de las obligaciones señaladas en los incisos anteriores.
 
-###### ARTÍCULO 60.
+III. Durante la etapa de liquidación:
 
-El Ejecutivo Estatal constituirá el Fondo para el Desarrollo del Deporte y la Cultura Física del Estado de Morelos, con la participación de los sectores públicos, privados y sociales. Dicho Fondo tendrá como finalidad captar recursos financieros y materiales que permitan alcanzar las metas establecidas en el Programa Estratégico.
+a) Liquidar a los acreedores del Partido Político Local conforme a la prelación establecida;
 
-El Fondo estará constituido por los recursos financieros que le sean asignados en el presupuesto de egresos de acuerdo al artículo 46 de este ordenamiento, así como los que se haga allegar por cualquier medio lícito conforme a la presente ley y su reglamento. El Fondo será administrado y aplicado por el Instituto del Deporte y Cultura Física del Estado de Morelos, de acuerdo a la reglamentación respectiva, al presupuesto y al Programa Estratégico y bajo los lineamientos de la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Morelos.
+b) Responder por cualquier menoscabo, daño o perjuicio que por su negligencia se cause al patrimonio del Partido Político Local, con independencia de otras responsabilidades en las que pudiera incurrir;
 
-Las aportaciones que personas físicas o morales realicen al Fondo serán deducibles de impuestos en los términos que se establezcan para tal efecto en la legislación aplicable. Para lograr su participación, el Instituto, realizará campañas de fomento y estímulo al deporte entre los sectores obrero- patronales.
+c) Abstenerse de divulgar o utilizar en beneficio propio o de terceros la información que está en su poder o que obtenga en el ejercicio de sus funciones; y
 
-El Instituto deberá aplicar el Fondo, de acuerdo al Plan Estatal de Desarrollo y a los programas registrados y aprobados, tomando en consideración las necesidades o prioridades de cada uno de ellos.
+d) Cumplir con las demás obligaciones que este Reglamento determine y las que otras leyes establezcan.
 
-### CAPÍTULO SEGUNDO. DE LOS ESTÍMULOS
+### CAPÍTULO IX. DE LA REVISIÓN DE LA INFORMACIÓN FINANCIERA
 
-###### ARTÍCULO 61.
+###### Artículo 40.
 
-Las personas físicas o morales, que realizan actividades destinadas al desarrollo, fomento e impulso del deporte, así como los integrantes del Sistema que se encuentren inscritos en el Registro Estatal del Deporte, podrán gozar de los estímulos que se otorguen; éstos se proporcionarán con base en los criterios que defina el Consejo Estatal del Deporte y Cultura Física y serán aplicados por el Poder Ejecutivo del Gobierno del Estado por conducto del Instituto, conforme a los recursos del Fondo y en su caso de la partida presupuestal correspondiente.
+Apoyo del Interventor para el cumplimiento de sus obligaciones.
 
-Los integrantes de Sistema podrán solicitar entre otros, los siguientes estímulos:
+En todo momento y para el adecuado cumplimiento de sus obligaciones, el Interventor podrá solicitar el apoyo del Titular de la Secretaría Ejecutiva, la Oficina de Fiscalización y del Titular de la Secretaría Administrativa, según su ámbito de competencia.
 
-I. Apoyo económico;
+###### Artículo 41.
 
-II. Material deportivo;
+Cuenta bancaria concentradora.
 
-III. Uso de las instalaciones deportivas que sean propiedad estatal o municipal integrados al Sistema Estatal del Deporte y Cultura Física;
+El Interventor, deberá abrir una cuenta bancaria concentradora que será administrada con firmas mancomunadas por él y el Titular de la Secretaría Ejecutiva, o la persona que designe, la cual se utilizará para el manejo y control de los recursos destinados a las operaciones derivadas de las actividades en las etapas de reserva y liquidación.
 
-IV. Becas académicas;
+El Responsable deberá transferir en el mismo momento en el que el Interventor le notifique de la existencia de la cuenta bancaria concentradora, la totalidad de los recursos disponibles del Partido Político Local, mismo que será sujeto de responsabilidad respecto de los recursos no transferidos.
 
-V. Becas económicas;
+Una vez transferidos la totalidad de los recursos a la cuenta bancaria concentradora, el Responsable llevará a cabo los trámites necesarios para la cancelación de las cuentas bancarias que venía utilizando.
 
-VI. Capacitación de recursos humanos;
+### CAPÍTULO X. DEL INFORME A LA COMISIÓN DE FISCALIZACIÓN
 
-VII. Asesoría técnica;
+###### Artículo 42.
 
-VIII. Asistencia médica y servicios hospitalarios a cargo de los servicios de salud pública del Estado, en los eventos oficiales selectivos a que sean convocados;
+Revocación del nombramiento al Interventor y designación de uno nuevo.
 
-IX. Los demás que les otorguen esta Ley y su Reglamento.
+En caso de que el Interventor incumpla con las obligaciones establecidas en el presente Reglamento, la Secretaría Ejecutiva procederá a informarlo a la Comisión de Fiscalización para los efectos conducentes.
 
-###### ARTÍCULO 62.
+En caso de que la Comisión de Fiscalización determine la revocación del cargo al Interventor, se procederá a designar uno nuevo, del resto de los integrantes de la terna inicialmente presentada.
 
-El Consejo y el Instituto gestionarán el patrocinio de actividades deportivas, promoviendo para este fin la participación de los sectores público, social y privado.
+## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-###### ARTÍCULO 63.
+### CAPÍTULO XI. DEL COBRO A LOS DEUDORES Y DEL RECONOCIMIENTO DE LOS ACREEDORES
 
-Se instituye el Premio al Merito Deportivo, que se entregará anualmente por los titulares de los tres Poderes del Gobierno del Estado, conforme a los lineamientos establecidos en el acuerdo del Ejecutivo Estatal que para tal fin se expida.
+###### Artículo 43.
 
-### CAPÍTULO TERCERO. DEL DEPORTE Y LA CULTURA FÍSICA
+Reglas para la presentación de la información financiera.
 
-###### ARTÍCULO 64.
+El Responsable deberá presentar a la Oficina de Fiscalización un informe, en el que se incluirán los ingresos y gastos totales que el Partido Político Local haya recibido y aplicado durante el periodo comprendido del primero de enero hasta la fecha de la declaración de la pérdida o cancelación de registro, del año de que se trate, atendiendo a lo siguiente:
 
-El deporte, es la práctica del ejercicio físico y/o mental como hábito de vida saludable. La cultura física es igualmente manifestación de valores sociales, conocimientos, investigaciones, habilidades y recursos orientados en beneficio de todos los sectores de la población.
+I. Será presentado a más tardar dentro de los diez días siguientes a que se le notifique el inicio de la etapa de reserva, en los formatos establecidos para el efecto;
 
-###### ARTÍCULO 65.
+II. Dicho Informe incluirá el saldo inicial, el cual corresponderá a la suma total de los saldos finales de las cuentas de caja, bancos e inversiones reportados en la contabilidad del Partido Político Local al cierre del ejercicio inmediato anterior;
 
-Los integrantes del Sistema, deberán fomentar el deporte y la cultura física y promover su difusión a través de los distintos medios de comunicación, en especial y de forma permanente el Instituto lo hará en los canales de televisión y en las estaciones de radio operadas por el Gobierno del Estado o ayuntamientos; para tal efecto, el Instituto gestionará ante las autoridades competentes la suscripción de los convenios respectivos, en los que se establezcan los tiempos de transmisión. En esta área se destacarán los beneficios y valores del deporte y la cultura física, propiciarán un conocimiento especializado, así como un manejo objetivo en apoyo a la información y formación de la sociedad.
+III. La información referida deberá presentarse en los formatos establecidos en el presente Reglamento, RIE, RI1, RI2, RI3, RI4, RI5, CF-RADM, CF-RAEM, CF-RADS, CF-RAES y CEA;
 
-###### ARTÍCULO 66.
+IV. Deberá anexar al Informe, en lo que resulte aplicable, la siguiente información y documentación:
 
-En el Programa Estratégico y en los programas, se establecerán acciones que promuevan su cultura, impulsen la investigación y capacitación de las disciplinas y ciencias que fomenten el deporte popular o amateur y en general todas aquellas disciplinas deportivas.
+a) Estados Financieros, Balanza de Comprobación acumulada y los registros auxiliares contables acumulados por el periodo sujeto a revisión;
 
-###### ARTÍCULO 67.
+b) Inventario físico valuado de los bienes muebles e inmuebles (LIFAV);
 
-La cultura del deporte en el Estado de Morelos se asociará a la participación social, a la libre y respetuosa manifestación de las ideas y a la convivencia del compromiso colectivo y a la superación personal.
+c) Detalle del pasivo debidamente integrado, el cual deberá contener nombres, conceptos, fechas, montos y domicilios, señalando aquellos en los que se ofreció alguna garantía (DP);
 
-###### ARTÍCULO 68.
+d) Contratos y relación de todo el personal adscrito al Partido Político Local, la cual deberá contener el nombre y cargo de la persona, monto total de los pagos realizados, sueldo diario, forma de contratación y antigüedad (RP);
 
-Toda persona que asesore, se dedique a impartir clases, técnicas o prácticas de cualquier actividad deportiva en forma pública o privada, deberá contar con el reconocimiento oficial de estudios que avale la actividad a desempeñar.
+e) Relación de las cuentas por cobrar, que deberá contener nombres, conceptos, montos, documentos con los cuales se avale el préstamo o derecho y fechas de vencimiento (CXC);
 
-###### ARTÍCULO 69.
+f) Copia de los contratos de apertura de las cuentas bancarias, así como del registro de firmas;
 
-Los propietarios de centros de entrenamiento o formación en cualquier disciplina deportiva, para su legal funcionamiento deberán ser o contar con personal profesionista por actividad, de conformidad con el artículo anterior, a efecto de garantizar a sus usuarios la adecuada práctica del deporte respectivo dentro o fuera de sus instalaciones.
+g) Copia del último Informe Anual Ordinario en materia de fiscalización presentado al Instituto Nacional, y de la Balanza de comprobación con cifras al 31 de diciembre del año inmediato anterior;
 
-Los Ayuntamientos de la Entidad para expedir licencias de funcionamiento o en su caso de refrendo de las mismas deberán exigir a los propietarios comprueben tener la asesoría o ser profesionistas en la materia, mediante la certificación del registro en el sistema, así mismo, deberán estar avalados por un profesionista médico, de preferencia en la rama de la Medicina del Deporte.
+h) Toda la documentación que el Partido Político Local presente a la Oficina de Fiscalización deberá ser relacionada en el formato LPL 17-DD, establecido en el presente Reglamento; y
 
-###### ARTÍCULO 70.
+i) La revisión documental se llevará a cabo en las instalaciones del Partido Político Local o en las de la Oficina de Fiscalización; en este último caso, deberá remitir todas las pólizas originales de diario, ingresos y egresos, con su soporte documental.
 
-Los administradores de instalaciones deportivas y las asociaciones son corresponsables de que sus instructores, entrenadores y técnicos que impartan clases y seminarios cuenten con el reconocimiento oficial que acredite su preparación para ejercer como tales.
+###### Artículo 44.
 
-### CAPÍTULO CUARTO. DEL JUEGO LIMPIO
+Inventario físico de los bienes.
+
+El Interventor realizará, dentro de los diez días siguientes a su nombramiento, un inventario físico de los bienes muebles e inmuebles, que se encuentren en los registros contables o en posesión del mismo al momento de elaborarlo.
+
+Para la realización del inventario físico, el Interventor deberá ajustarse al procedimiento y formatos establecidos (LIFAV) en este Reglamento, y deberá de tomar en cuenta lo reportado en el ejercicio anterior, así como las adquisiciones del ejercicio vigente.
+
+El Interventor deberá informar a la Oficina de Fiscalización por escrito, y cuando menos con tres días de anticipación a la fecha en que se realice el inventario físico, para que ésta designe al Grupo de Trabajo que lo apoyará en el levantamiento correspondiente.
+
+###### Artículo 45.
+
+Presunción en la propiedad de los bienes.
+
+La propiedad de los bienes se acreditará con las facturas o los títulos de propiedad respectivos. Los bienes muebles e inmuebles que estén en posesión del Partido Político Local se presumirán propiedad del mismo, salvo prueba en contrario.
+
+###### Artículo 46.
+
+Reglas en la revisión de la información financiera.
+
+Presentada la información financiera a que hace referencia el artículo 43, corresponderá a la Oficina de Fiscalización revisarla para corroborar la veracidad de las cifras reportadas, conforme a las siguientes reglas:
+
+I. La Oficina de Fiscalización contará con treinta días para revisar la información financiera presentada y para comprobar la veracidad de lo señalado tanto en el Informe de Ingresos y Egresos como en la información financiera, la Secretaría Ejecutiva tendrá en todo momento la facultad de requerir al Responsable la documentación necesaria;
+
+II. La Secretaría Ejecutiva informará por escrito al Responsable los nombres de los auditores que se encargarán de la verificación documental y contable correspondiente;
+
+III. Si durante la revisión de la información financiera se advierte la existencia de errores u omisiones, se notificará al Partido Político Local, a través del Responsable para que en un plazo no mayor a diez días presente las aclaraciones o rectificaciones que estime pertinentes;
+
+IV. Al vencimiento de los plazos señalados anteriormente, la Oficina de Fiscalización dispondrá de un plazo de quince días para elaborar un informe de los resultados de la revisión de la información financiera, mismo que contendrá lo siguiente:
+
+a) La verificación de la existencia del dinero y las inversiones temporales, así como la determinación de su disponibilidad inmediata o restricciones;
+
+b) La autenticidad de las cuentas por cobrar, el monto de las cuentas de dudosa recuperación y los de recuperación;
+
+c) La comprobación de la existencia física del inventario y que sean propiedad del Partido Político Local;
+
+d) Verificar que la depreciación se haya realizado de acuerdo con métodos aceptados y bases razonables;
+
+e) Corroborar que todos los pasivos que muestra la información financiera son reales y que proceden de operaciones del Partido Político Local, cuyos bienes o servicios fueron recibidos;
+
+f) Verificar el cálculo de las indemnizaciones de los trabajadores del Partido Político Local, los que deberán ser considerados como pasivos de los mismos; y
+
+g) Detalle de todos los impuestos federales, locales y de contribuciones de seguridad social que se encuentren pendientes de pago, así como las multas impuestas por las autoridades electorales.
+
+V. En el supuesto de que la Oficina de Fiscalización determine adeudos derivados de operaciones relacionadas con las actividades específicas desarrolladas durante la vigencia de su registro como Partido Político Local y los recursos disponibles en la cuenta aperturada para tal propósito fueran insuficientes, lo informará a la Secretaría Ejecutiva para que solicite a la Secretaría Administrativa, previa opinión de la Comisión de Fiscalización, deposite dentro de los tres días siguientes, en la cuenta bancaria concentradora los recursos correspondientes a este tipo de financiamiento pendientes de entregar en el ejercicio de que se trate;
+
+VI. En caso de que se determinaran adeudos derivados de operaciones de campaña, la Secretaría Ejecutiva por conducto de su Oficina de Fiscalización lo informará al Interventor, para que éste traspase a la cuenta concentradora los recursos remanentes de las cuentas de campaña, hasta por un monto igual al de los adeudos; y
+
+VII. Dentro de los tres días siguientes a la conclusión del plazo previsto en el inciso IV, la Secretaría Ejecutiva, presentará al Interventor el Informe del resultado de la revisión de la información financiera.
+
+### CAPÍTULO XII. DEL PROCEDIMIENTO DE LIQUIDACIÓN DEL PATRIMONIO
+
+###### Artículo 47.
+
+Contenido del informe a la Comisión de Fiscalización.
+
+Con base en el informe que le presente la Secretaría Ejecutiva y el inventario físico de los bienes muebles e inmuebles, dentro de los diez días siguientes de recibido el informe referido, el Interventor presentará a la Comisión de Fiscalización, un informe detallado que contendrá cuando menos lo siguiente:
+
+I. Relación de las operaciones realizadas por el Partido Político Local durante el periodo comprendido desde el inicio del periodo de reserva y hasta el de presentación del informe;
+
+II. El inventario físico de los bienes muebles e inmuebles;
+
+III. La relación de la documentación con la que se acredite fehacientemente la propiedad de los bienes del Partido Político Local;
+
+IV. Relación de las cuentas por cobrar en la que se indique el nombre o razón social de cada deudor, concepto y el monto correspondiente;
+
+V. Relación de las cuentas por pagar, indicando el nombre o razón social de cada acreedor o proveedor, concepto, el monto correspondiente y la fecha de vencimiento de pago;
+
+VI. Los cálculos y la estimación de las obligaciones laborales que, en su caso, procedan por concepto de finiquito y/o indemnización;
+
+VII. Los estados financieros que integren la información detallada, y
+
+VIII. Los recursos depositados en la cuenta concentradora.
+
+En la determinación de obligaciones se establecerán las previsiones necesarias para salvaguardar los derechos laborales, fiscales, administrativos, así como con proveedores y acreedores.
+
+###### Artículo 48.
+
+Cobro a deudores.
+
+La Comisión de Fiscalización, con base en el informe que presente el Interventor, lo instruirá para que proceda a realizar las acciones conducentes a efecto de llevar a cabo el cobro a los deudores.
+
+###### Artículo 49.
+
+Requerimiento de pagos y garantías.
+
+El Interventor procederá a realizar las acciones necesarias para ubicar a los deudores del Partido Político Local a efecto de requerir el pago correspondiente.
+
+En caso de existir alguna garantía otorgada por el deudor y se niegue al pago respectivo, el Interventor procederá a hacer efectiva la misma, de no existir garantía alguna, podrá demandar el pago por la vía judicial, para lo cual contará con el apoyo de la Secretaría Ejecutiva.
+
+En el supuesto de que algún deudor del Partido Político Local fuera también trabajador del mismo y existieran servicios pendientes de pago, el Interventor procederá a disminuir el importe del adeudo al momento del pago del finiquito.
+
+Por ningún motivo, el Instituto Electoral responderá de los créditos, adeudos y obligaciones contraídas por el Partido Político Local con terceros.
+
+###### Artículo 50.
+
+Principios de universalidad, colectividad e igualdad en la liquidación.
+
+En la liquidación del patrimonio del Partido Político Local se observarán los principios de universalidad, colectividad e igualdad, de tal manera que la totalidad de los bienes serán liquidados para pagar a los acreedores, en la proporción y en el orden que, conforme a la naturaleza de los créditos de los que sean titulares o la causa por la que se originaron, les corresponda.
+
+###### Artículo 51.
+
+Orden de prelación de créditos, deudas y sanciones.
+
+El patrimonio en liquidación del Partido Político Local se destinará en orden de prelación, para:
+
+I. Garantizar los finiquitos y/o indemnizaciones a los trabajadores del Partido Político Local, considerando las pensiones alimenticias;
+
+II. Cubrir créditos fiscales Federales;
+
+III. Cubrir créditos fiscales de la Ciudad de México;
+
+IV. Cubrir las sanciones administrativas de carácter económico impuestas al Partido Político Local por la autoridad administrativa o jurisdiccional de que se trate;
+
+V. Cubrir las deudas adquiridas por el Partido Político Local hasta el día en que se declaró la pérdida del registro; y
+
+VI. En su caso, reintegrar a la Secretaría de Finanzas del Gobierno de la Ciudad de México los bienes o remanentes, una vez cubiertas las condiciones establecidas en las fracciones anteriores.
+
+### CAPÍTULO XIII. DE LA SUBASTA PÚBLICA DE LOS BIENES
+
+###### Artículo 52.
+
+Graduación de acreedores.
+
+Para los efectos de la fracción V del artículo anterior, los acreedores se graduarán, según la naturaleza de sus créditos, conforme a lo siguiente:
+
+I. Acreedores con garantía real, aquellos cuyas garantías estén debidamente constituidas conforme a las disposiciones que resulten aplicables, encontrándose los hipotecarios y los provistos de garantía prendaria;
+
+II. Acreedores con privilegio especial, todos los que, según el Código de Comercio o el Código Civil para el Distrito Federal, tengan un privilegio especial o derecho de prelación; y
+
+III. Acreedores comunes, todos los que no estén considerados en las fracciones anteriores y cobrarán a prorrata sin distinción de fechas y origen de los créditos.
+
+Para el pago a los referidos acreedores, se aplicará en lo conducente, lo establecido en la Ley de Concursos Mercantiles.
+
+###### Artículo 53.
+
+Reconocimiento de acreedores.
+
+El procedimiento para reconocer y ubicar a los diversos acreedores, se realizará conforme a lo siguiente:
+
+I. El Interventor formulará una lista de acreedores que remitirá a la Oficina de Fiscalización para su validación, con base en los registros contables del Partido Político Local y en la documentación que permita determinar el pasivo;
+
+II. Validada la lista de acreedores, la Secretaría Ejecutiva instruirá a las instancias competentes para su difusión en el portal de Internet y en los estrados del Instituto Electoral; asimismo, solicitará se publique en la Gaceta Oficial de la Ciudad de México para darle publicidad, con la finalidad de que aquellas personas que consideren que les asiste un derecho y no hubiesen sido incluidas en dicha lista, acudan ante el Interventor para presentar la solicitud de reconocimiento de crédito en un plazo de quince días hábiles contados a partir de la publicación;
+
+III. Las solicitudes de reconocimiento de crédito deberán contener lo siguiente:
+
+a) Nombre completo, firma y domicilio del acreedor;
+
+b) Concepto y cuantía del crédito;
+
+c) Las garantías, condiciones y términos del crédito, entre ellas el tipo de documento que lo acredita, en original o copia certificada;
+
+d) Datos que identifiquen, en su caso, cualquier procedimiento administrativo, laboral, y judicial que se haya iniciado y que tengan relación directa con el crédito que se trate; y
+
+e) En caso de que dichas personas carezcan de los documentos comprobatorios, deberán indicar el lugar donde se encuentren y demostrar documentalmente haber iniciado el trámite para obtenerlo.
+
+IV. Transcurrido el plazo dispuesto en la fracción II, el interventor solicitará a la Secretaría Ejecutiva, se difunda en el portal de Internet y en los estrados de las oficinas centrales del Instituto Electoral, así como su publicación en la Gaceta Oficial de la Ciudad de México, para darle publicidad, a la lista definitiva que contenga el reconocimiento, cuantía, gradación y prelación de créditos establecidos en el presente Reglamento.
+
+###### Artículo 54.
+
+Inicio de la etapa de liquidación.
+
+Una vez que tenga el carácter de firme la resolución o declaratoria que determinó la pérdida o cancelación del registro del Partido Político Local, y realizada la publicación a que se refiere la fracción IV del artículo que antecede, la Secretaría Ejecutiva, mediante oficio informará al Consejero Presidente del Consejo General, a la Comisión de Fiscalización y al Interventor la conclusión de la etapa de prevención y el inicio de la etapa de liquidación.
+
+### CAPÍTULO XIV. DEL PAGO A LOS ACREEDORES
+
+###### Artículo 55.
+
+Obligaciones del Interventor al inicio de la etapa de liquidación.
+
+En la etapa de inicio de liquidación el Interventor deberá:
+
+I. En un plazo no mayor a cinco días, determinar el valor de los bienes o monto de los recursos para cubrir las obligaciones laborales, fiscales, con proveedores y acreedores a cargo del Partido Político Local de que se trate;
+
+II. Realizado lo anterior, dentro de los cinco días siguientes formulará un informe que contendrá el balance de bienes y recursos remanentes después de establecer las previsiones necesarias para cubrir las obligaciones a cargo del Partido Político Local de que se trate;
+
+III. Una vez concluido el plazo a que se refiere la fracción anterior, lo presentará a la Comisión de Fiscalización para su aprobación; y
+
+IV. Aprobado el informe mencionado, con el balance de liquidación, dentro de los cinco días siguientes el Interventor cubrirá las obligaciones determinadas, en la prelación establecida en el artículo 52 del presente Reglamento.
+
+###### Artículo 56.
+
+Obligaciones del Interventor en la conclusión de la etapa de liquidación.
+
+Dentro de la etapa de conclusión de la liquidación, conforme al presente Reglamento, el Interventor deberá:
+
+I. Liquidar el total de los adeudos del Partido Político Local, en el supuesto de que los recursos en dinero sean superiores al monto de los pasivos;
+
+II. Liquidar a los acreedores del Partido Político Local en la prelación establecida en el artículo 52 de este Reglamento, en el caso de que los recursos en dinero sean insuficientes para cubrir el monto de los pasivos y este no cuente con bienes para subastar;
+
+III. Cuando los recursos en dinero no sean suficientes para cubrir el monto de los pasivos, podrá solicitar un avalúo de los bienes muebles en propiedad del Partido Político Local para subastarlos en términos del Capítulo XII del presente Reglamento;
+
+IV. Realizar, en su caso, las acciones conducentes para subastar los bienes del Partido Político Local a efecto de pagar a sus acreedores, en la prelación establecida en el artículo 52 de este Reglamento; y
+
+V. Elaborar y presentar el dictamen de liquidación.
+
+###### Artículo 57.
+
+Enajenación de bienes.
+
+La enajenación de los bienes del Partido Político Local se hará en moneda nacional, conforme al valor de mercado. El Interventor determinará su valor en el mercado, pudiéndose auxiliar para ello de peritos valuadores en la materia o por el promedio obtenido del cálculo de cuando menos tres cotizaciones.
+
+## TÍTULO SEGUNDO. DE LA LIQUIDACIÓN DEL PATRIMONIO DE LOS PARTIDOS POLÍTICOS LOCALES
+
+### CAPÍTULO XV. DEL DICTAMEN DE CIERRE DE LA LIQUIDACIÓN
+
+###### Artículo 58.
+
+Publicación de la convocatoria para subastar los bienes.
+
+Cuando el Interventor cuente con el valor de mercado de los bienes muebles propiedad del Partido Político Local, informará mediante oficio a la Secretaría Ejecutiva y a la Comisión de Fiscalización, para que la primera mediante su Oficina de Fiscalización y con apoyo de la Secretaría Administrativa, elaboren y procedan a la publicación de la convocatoria pública para subastar bienes suficientes a efecto de contar con los recursos necesarios para liquidar a los acreedores.
+
+###### Artículo 59.
+
+Actuaciones de la Secretaría Ejecutiva en la subasta de bienes.
+
+Corresponderá a la Secretaría Ejecutiva con el apoyo de la Oficina de Fiscalización, llevar a cabo los actos relacionados con la subasta pública de los bienes del Partido Político Local, aplicando lo siguiente:
+
+I. Publicar la convocatoria para la subasta conforme a las disposiciones generales que emita la Comisión de Fiscalización;
+
+II. Vigilar que la convocatoria que para el efecto se publique contenga, cuando menos, lo siguiente:
+
+a) Descripción de los bienes de la misma especie o calidad que se pretende enajenar;
+
+b) El precio mínimo que servirá de referencia para determinar la publicación de los bienes subastados;
+
+c) Requisitos que deberán cubrir los postores, así como los impedimentos para participar en la subasta;
+
+d) Fecha, lugar y hora en las que los interesados podrán conocer, visitar o examinar los bienes de que se traten; así como los datos en los que se propone llevar a cabo la subasta; y
+
+e) La forma de desahogar la subasta.
+
+III. Recibir desde el día en que se haga la publicación de la convocatoria y hasta el día inmediato anterior a la subasta, las posturas en sobre cerrado por todos los bienes objeto de la subasta, mismas que serán presentadas por cualquier interesado en participar en la subasta en los formatos establecidos para el efecto anexando la garantía en los términos que se determine en la convocatoria;
+
+IV. Prever el pago en efectivo, transferencia electrónica o depósito bancario a la cuenta bancaria concentradora a que hacen referencia el artículo 41 del presente Reglamento;
+
+Cuando el monto del pago sea superior a los (sic) doscientas veces la UMA, se deberá realizar mediante cheque o transferencia electrónica de la cuenta personal del postor y ser depositado en la cuenta bancaria concentradora. En la ficha de depósito se deberá asentar el nombre y la firma del depositante.
+
+En todo caso, el Interventor deberá conservar la ficha de depósito original para efectos de comprobación del pago y deberá llevar una relación de los bienes subastados. Los ingresos en efectivo deberán relacionarse y estar sustentados con la documentación original correspondiente.
+
+V. Vigilar que los postores u oferentes presenten escrito, bajo protesta de decir verdad en el que señalen no tener vínculos familiares hasta en tercer grado con el Interventor, dirigentes y trabajadores del Partido Político Local o personal de la Oficina de Fiscalización o cualquier otra persona que por sus funciones hayan tenido acceso a la información relacionada con el procedimiento de liquidación; y
+
+VI. El Titular de la Secretaría Ejecutiva o la persona que él designe, en compañía del Interventor presidirán la subasta en la fecha, hora y lugar establecido.
+
+Cualquier acto o enajenación que se realice en contravención a lo dispuesto en la convocatoria respectiva y el presente artículo, será nulo de pleno derecho.
+
+## TÍTULO TERCERO. DE LAS ATRIBUCIONES DE LOS ÓRGANOS DEL INSTITUTO ELECTORAL
+
+### CAPÍTULO ÚNICO
+
+### CAPÍTULO ÚNICO
+
+ANEXOS:
+
+- LPL1 - RIE. REPORTE DE INGRESOS Y EGRESOS
+
+- LPL2 - RI1 DETALLE DE APORTACIONES DE MILITANTES Y ORGANIZACIONES ADHERENTES
+
+- LPL3 - RI2 DETALLE DE APORTACIONES DE SIMPATIZANTES
+
+- LPL4 - RI3 DETALLE DE INGRESOS POR AUTOFINANCIAMIENTO
+
+- LPL5 - RI4 DETALLE DE INGRESOS POR RENDIMIENTOS FINANCIEROS, FONDOS Y FIDEICOMISOS
+
+- LPL6 - RI5 DETALLE DE TRANSFERENCIAS
+
+- LPL7 - CF-RADM CONTROL DE FOLIOS DE RECIBOS DE APORTACIONES EN DINERO DE MILITANTES
+
+- LPL8 - CF-RAEM CONTROL DE FOLIOS DE RECIBOS DE APORTACIONES EN ESPECIE DE MILITANTES
+
+- LPL9 - CF-RADS CONTROL DE FOLIOS DE RECIBOS DE APORTACIONES EN DINERO DE SIMPATIZANTES
+
+- LPL10 - CF-RAES CONTROL DE FOLIOS DE RECIBOS DE APORTACIONES EN ESPECIE DE SIMPATIZANTES
+
+- LPL11 - CEA CONTROL DE EVENTOS DE AUTOFINANCIAMIENTO
+
+- LPL12 - LIFAV LEVANTAMIENTO DEL INVENTARIO FÍSICO DE ACTIVO FIJO ACTUALIZADO Y VALUADO
+
+- LPL13 – DP DETALLE DE PASIVO
+
+- LPL14 - RP RELACIÓN DE PERSONAL
+
+- LPL15 - CXC RELACIÓN DE LAS CUENTAS POR COBRAR
+
+- LPL16 - IBSE INFORME DE BIENES SUBASTADOS Y ENTREGADOS
+
+- LPL17 - DD.- DETALLE DE DOCUMENTACIÓN
+
+PROYECTO DE REGLAMENTO PARA LA LIQUIDACIÓN DEL PATRIMONIO DE LOS PARTIDOS POLÍTICOS LOCALES DE LA CIUDAD DE MÉXICO
+
+###### Artículo 60.
+
+Impedimento para participar en la subasta.
+
+No podrán participar en la subasta pública de los bienes del Partido Político Local, los servidores públicos del Instituto Electoral ni sus familiares hasta en tercer grado, los peritos valuadores, dirigentes o trabajadores del Partido Político Local.
+
+### CAPÍTULO I. GENERALIDADES
+
+###### Artículo 61.
+
+Pago a Acreedores.
+
+Concluida la subasta pública y depositados los recursos obtenidos en la cuenta concentradora, el Interventor procederá a:
+
+I. Realizar la entrega jurídica y material de los bienes subastados dentro de los tres días posteriores a su enajenación;
+
+II. Elaborar, dentro de los tres días siguientes contados a partir de la entrega de los bienes, un informe a la Comisión de Fiscalización, el cual deberá contener cuando menos lo siguiente:
+
+a) La descripción de los bienes subastados;
+
+b) El nombre de las personas a las que se adjudicaron los bienes; y
+
+c) La cantidad recibida como pago por cada uno de los bienes.
+
+III. Liquidar a los acreedores del Partido Político Local, conforme a lo establecido en los artículos 51 y 52 de este Reglamento; y
+
+IV. Realizar el inventario de bienes muebles e inmuebles en el supuesto de que no hubieran sido enajenados en la subasta pública o en la oferta de compra.
+
+###### Artículo 62.
+
+Depósito de prerrogativas en la cuenta bancaria concentradora.
+
+En el caso de que los recursos de la cuenta concentradora, una vez ingresados los provenientes de la subasta pública, fueran insuficientes para efectuar el pago a los acreedores, la Secretaría Ejecutiva, solicitará por escrito a la Secretaría Administrativa, previa opinión de la Comisión de Fiscalización, que deposite en la cuenta bancaria concentradora los recursos correspondientes a las prerrogativas ordinarias pendientes del ejercicio de que se trate, para liquidar aquéllas obligaciones y gastos contraídos por el Partido Político Local.
+
+La Secretaría Administrativa deberá depositar en la cuenta bancaria concentradora los recursos dentro de los tres días siguientes a la recepción de la solicitud de la Secretaría Ejecutiva.
+
+Cuando los recursos sean insuficientes para liquidar a los acreedores, aún y cuando se realice la subasta pública de todos los bienes del Partido Político Local y, en su caso, se haya ejercido la partida presupuestal a que se refiere el primer párrafo del presente artículo, los afectados podrán ejercer acción legal ante la autoridad judicial competente contra el deudor.
+
+### CAPÍTULO XV. DEL DICTAMEN DE CIERRE DE LA LIQUIDACIÓN
+
+###### Artículo 63.
+
+Elaboración del Dictamen de cierre de la liquidación.
+
+Cerrada la etapa de liquidación, la Secretaría Ejecutiva a través de su Oficina de Fiscalización elaborará, dentro de los quince días hábiles siguientes un Dictamen el cual deberá contener como mínimo:
+
+I. Motivo que originó la liquidación;
+
+II. Las operaciones realizadas;
+
+III. Las circunstancias relevantes del proceso;
+
+IV. El destino final de los bienes y recursos;
+
+V. La debida fundamentación y motivación;
+
+VI. El resultado y las conclusiones de revisión;
+
+VII. En su caso la mención de los errores o irregularidades encontradas en la revisión; y
+
+VIII. El nombre del Responsable del Partido Político Local que participó en el procedimiento de liquidación.
+
+### CAPÍTULO II. DEL CÓMPUTO Y DE LOS PLAZOS
+
+###### Artículo 64.
+
+Presentación del Dictamen a la Comisión de Fiscalización.
+
+La Secretaría Ejecutiva someterá a la consideración de la Comisión de Fiscalización el Dictamen de liquidación del patrimonio del Partido Político Local.
+
+###### Artículo 65.
+
+Presentación del Dictamen al Consejo General.
+
+Una vez aprobado el Dictamen, por parte de la Comisión de Fiscalización, el Secretario Ejecutivo lo pondrá a consideración del Consejo General en la próxima sesión ordinaria
+
+###### Artículo 66.
+
+Remanentes.
+
+En el supuesto de que una vez liquidados los diversos acreedores, existan recursos remanentes o bienes muebles e inmuebles, el Consejo General instruirá al Interventor para que los entregue junto con el Dictamen de liquidación a la Secretaría de Finanzas del Gobierno de la Ciudad de México para los efectos conducentes.
+
+Hecho lo anterior, el Interventor cancelará la cuenta bancaria concentradora y solicitará, por escrito, a las autoridades competentes la cancelación de Registro Federal de Contribuyentes y del Registro Patronal ante el Instituto Mexicano del Seguro Social del Partido Político Local liquidado, haciéndolo del conocimiento de la Comisión de Fiscalización.
+
+Una vez hecho lo anterior, la Comisión de Fiscalización solicitará a la Secretaría Ejecutiva notifique al Interventor el término de su designación.
+
+###### Artículo 67.
+
+Facultades de la Comisión de Fiscalización.
+
+La Comisión de Fiscalización, por conducto de la Secretaría Ejecutiva tendrá a su cargo la vigilancia de la actuación del Interventor, en las etapas de prevención, reserva y liquidación del patrimonio del Partido Político Local, respecto a la administración de sus recursos y adicionalmente tendrá las siguientes facultades:
+
+I. Solicitar al Interventor la información por escrito sobre las cuestiones relativas a su desempeño;
+
+II. En caso de que la Comisión de Fiscalización tenga conocimiento de una situación que pueda implicar una trasgresión a ordenamientos ajenos a su competencia derivado del procedimiento de liquidación del patrimonio del Partido Político Local, solicitará la intervención del Secretario Ejecutivo para que éste proceda a dar parte a las autoridades competentes; y
+
+III. Las demás que le confiera el Código y el presente Reglamento.
+
+###### Artículo 68.
+
+Facultades de la Secretaría Ejecutiva.
+
+La Secretaría Ejecutiva tendrá las siguientes facultades:
+
+I. Recibir y revisar por conducto de la Oficina de Fiscalización los informes que presenten los Partidos Políticos Locales que pierdan su registro;
+
+II. Solicitar al Responsable cualquier medio de almacenamiento de datos que el Partido Político Local utilice;
+
+III. Solicitar al Interventor toda la información o documentación necesaria para el correcto desarrollo de sus tareas;
+
+IV. Vigilar la actuación del Interventor, en las etapas de prevención y liquidación del patrimonio del Partido Político Local. Si en el ejercicio de sus facultades, la Secretaría Ejecutiva o la Oficina de Fiscalización advierten que el Interventor incumplió con cualesquiera de sus obligaciones, independientemente de resarcir el daño ocasionado al patrimonio del Partido Político Local, informará inmediatamente a la Comisión de Fiscalización y a la Contraloría General del Instituto Electoral, para que determinen lo que en derecho proceda;
+
+V. En caso de que tenga conocimiento de una situación que implique alguna trasgresión a ordenamientos ajenos a su competencia derivado de la liquidación del patrimonio del Partido Político Local, la Secretaría Ejecutiva determinara lo conducente; y
+
+VI. Las demás que le confiera el Código y el presente Reglamento.
+
+###### Artículo 69.
+
+Atención a requerimientos por parte de la Secretaría Ejecutiva.
+
+La Secretaría Ejecutiva, adicionalmente a los informes que presente a la Comisión de Fiscalización, atenderá todos los requerimientos de información sobre la situación que guarden el periodo de prevención y el procedimiento de liquidación del Partido Político Local, que realice la Comisión de Fiscalización o el Consejo General.
+
+###### Artículo 70.
+
+Facultad de la Comisión de Fiscalización ante lo no previsto.
+
+Todo lo no previsto en el presente Reglamento, será resuelto por la Comisión de Fiscalización, siempre y cuando no implique el ejercicio de la facultad reglamentaria, pues en este caso únicamente corresponde al Consejo General.
+
+> <small>[N. DE E. VÉASE RIE. REPORTE DE INGRESOS Y EGRESOS, EN LA G.O. DE 3 DE OCTUBRE DE 2016, PÁGINAS DE LA 70 A LA 71.]</small>
+
+> <small>[N. DE E. VÉASE RI1. DETALLE DE APORTACIONES DE MILITANTES Y ORGANIZACIONES ADHERENTES, EN LA G.O. DE 3 DE OCTUBRE DE 2016, PÁGINAS DE LA 72 A LA 73.]</small>
+
+> <small>[N. DE E. VÉASE RI2. DETALLE DE APORTACIONES DE SIMPATIZANTES, EN LA G.O. DE 3 DE OCTUBRE DE 2016, PÁGINA 74.]</small>
+
+> <small>[N. DE E. VÉASE RI3. DETALLE DE INGRESOS POR AUTOFINANCIAMIENTO, EN LA G.O. DE 3 DE OCTUBRE DE 2016, PÁGINAS DE LA 75 A LA 76.]</small>
+
+> <small>[N. DE E. VÉASE RI4. DETALLE DE INGRESOS POR RENDIMIENTOS FINANCIEROS, FONDOS Y FIDEICOMISOS, EN LA G.O. DE 3 DE OCTUBRE DE 2016, PÁGINAS DE LA 77 A LA 78.]</small>
+
+> <small>[N. DE E. VÉASE RI5. DETALLE DE TRANSFERENCIAS, EN LA G.O. DE 3 DE OCTUBRE DE 2016, PÁGINA 79.]</small>
+
+> <small>[N. DE E. VÉASE CF-RADM CONTROL DE FOLIOS DE RECIBOS DE APORTACIONES EN DINERO DE MILITANTES, EN LA G.O. DE 3 DE OCTUBRE DE 2016, PÁGINAS DE LA 80 A LA 81.]</small>
+
+> <small>[N. DE E. VÉASE CF-RAEM CONTROL DE FOLIOS DE RECIBOS DE APORTACIONES EN ESPECIE DE MILITANTES, EN LA G.O. DE 3 DE OCTUBRE DE 2016, PÁGINAS DE LA 82 A LA 83.]</small>
+
+> <small>[N. DE E. VÉASE CF-RADS CONTROL DE FOLIOS DE RECIBOS DE APORTACIONES EN DINERO DE SIMPATIZANTES, EN LA G.O. DE 3 DE OCTUBRE DE 2016, PÁGINAS DE LA 84 A LA 85.]</small>
+
+> <small>[N. DE E. CF-RAES CONTROL DE FOLIOS DE RECIBOS DE APORTACIONES EN ESPECIE DE SIMPATIZANTES, EN LA G.O. DE 3 DE OCTUBRE DE 2016, PÁGINAS DE LA 86 A LA 87.]</small>
+
+> <small>[N. DE E. VÉASE CEA CONTROL DE EVENTOS DE AUTOFINANCIAMIENTO, EN LA G.O. DE 3 DE OCTUBRE DE 2016, PÁGINAS DE LA 88 A LA 89.]</small>
+
+> <small>[N. DE E. VÉASE LIFAV.- LEVANTAMIENTO DEL INVENTARIO FÍSICO DE ACTIVO FIJO ACTUALIZADO Y VALUADO, EN LA G.O. DE 3 DE OCTUBRE DE 2016, PÁGINAS DE LA 90 A LA 91.]</small>
+
+> <small>[N. DE E. VÉASE LPL13 - DP DETALLE DE PASIVO, EN LA G.O. DE 3 DE OCTUBRE DE 2016, PÁGINAS DE LA 92 A LA 93.]</small>
+
+> <small>[N. DE E. VÉASE LPL14 - RP RELACIÓN DE PERSONAL, EN LA G.O. DE 3 DE OCTUBRE DE 2016, PÁGINAS DE LA 94 A LA 95.]</small>
+
+> <small>[N. DE E. VÉASE LPL15 - CXC RELACIÓN DE LAS CUENTAS POR COBRAR, EN LA G.O. DE 3 DE OCTUBRE DE 2016, PÁGINA 95.]</small>
+
+> <small>[N. DE E. VÉASE LPL16 -AC-IBSE INFORME DE BIENES SUBASTADOS Y ENTREGADOS, EN LA G.O. DE 3 DE OCTUBRE DE 2016, PÁGINA 96.]</small>
+
+> <small>[N. DE E. VÉASE LPL17 - DD.- DETALLE DE DOCUMENTACIÓN, EN LA G.O. DE 3 DE OCTUBRE DE 2016, PÁGINA 97.]</small>
+
+### CAPÍTULO III. DE LAS MEDIDAS DE APREMIO
 
 ###### ARTÍCULO 71.
 
@@ -917,7 +1367,7 @@ VI. Observar acciones ejemplares durante el desempeño de la práctica deportiva
 
 Las faltas al juego limpio se sancionarán conforme a las disposiciones de esta Ley y su reglamento.
 
-### CAPÍTULO QUINTO. INICIACIÓN DEPORTIVA Y DEL CENTRO DE TALENTOS DEPORTIVOS
+### CAPÍTULO IV. DE LAS NOTIFICACIONES
 
 ###### ARTÍCULO 73.
 
@@ -937,7 +1387,7 @@ Las instituciones educativas, asociaciones, organismos, ligas y clubes apoyarán
 
 En el Fondo y en los presupuestos de egresos municipales deberán contemplarse los recursos económicos, de conformidad con la disponibilidad presupuestal, que se ejercerán cada año para dar cumplimiento al desarrollo del Programa de Talentos Deportivos, mismo que se establecerá por parte del Instituto y los ayuntamientos de la entidad, coordinándose a efecto de dar cumplimiento a lo establecido en el párrafo segundo del artículo 74 de la presente Ley.
 
-### CAPÍTULO SEXTO. DE LAS INSTALACIONES DEPORTIVAS
+### CAPÍTULO I. DEL PERIODO DE PREVENCIÓN
 
 ###### ARTÍCULO 77.
 
@@ -969,11 +1419,11 @@ El Instituto y la dependencia municipal respectiva procurarán que las instalaci
 
 En la construcción de instalaciones deportivas deberán de tomarse en cuenta las que sean necesarias para el deporte infantil, mismas que contarán con las especificaciones técnicas y arquitectónicas para su desarrollo.
 
-### CAPÍTULO PRIMERO. DE LAS ACTIVIDADES DEPORTIVAS REMUNERADAS
+### CAPÍTULO II. DE LA DESIGNACIÓN Y FACULTADES DEL INTERVENTOR
 
 ## TÍTULO SEXTO. ACTIVIDADES DEPORTIVAS ESPECIALES
 
-### CAPÍTULO SEGUNDO. DEL DEPORTE DE ALTO RENDIMIENTO
+### CAPÍTULO III. DE LAS ETAPAS DEL PROCEDIMIENTO DE LIQUIDACIÓN
 
 ###### ARTÍCULO 84.
 
@@ -991,7 +1441,7 @@ Conforme al artículo 1º de esta Ley y demás disposiciones aplicables derivada
 
 El Reglamento de esta Ley especificará las normas aplicables al deporte remunerado Estatal.
 
-### CAPÍTULO TERCERO. DEL DEPORTE ADAPTADO
+### CAPÍTULO IV. DE LA RESERVA
 
 ###### ARTÍCULO 88.
 
@@ -1013,7 +1463,7 @@ El Instituto proporcionará o gestionará los recursos económicos para la prepa
 
 El Instituto proporcionará y/o gestionará el uso de instalaciones públicas o privadas para entrenamiento de los deportistas de alto rendimiento.
 
-### CAPÍTULO CUARTO. DE LOS DEPORTES EXTREMOS O DE ALTO RIESGO
+### CAPÍTULO V. DE LAS OBLIGACIONES Y PROHIBICIONES DEL RESPONSABLE
 
 ###### ARTÍCULO 93.
 
@@ -1057,7 +1507,7 @@ El Instituto y con el apoyo de los integrantes del Sistema, promoverá la captac
 
 Se establece un Programa de Becas para los deportistas con discapacidad: sobresalientes, activos o retirados, así como, un Programa de Becas para los deportistas considerados como nuevos valores, mismos que serán proporcionados de acuerdo a la disponibilidad presupuestal del Fondo.
 
-### CAPÍTULO PRIMERO. DEL SERVICIO MÉDICO EN EL DEPORTE
+### CAPÍTULO VI. DE LAS OBLIGACIONES DEL INTERVENTOR
 
 ###### ARTÍCULO 103.
 
@@ -1095,7 +1545,7 @@ XI. Los demás que se establezcan en el reglamento o representen peligro directo
 
 ## TÍTULO SÉPTIMO. DE LA PREVENCIÓN, ATENCIÓN Y VIGILANCIA DEL DEPORTE EN MATERIA DE SALUD Y MEDIDAS DE SEGURIDAD
 
-### CAPÍTULO SEGUNDO. DEL ANTIDOPAJE
+### CAPÍTULO VII. DE LA PRESENTACIÓN DE LA INFORMACIÓN FINANCIERA
 
 ###### ARTÍCULO 105.
 
@@ -1115,7 +1565,7 @@ Las instituciones del sector público estatal, promoverán programas de atenció
 
 Las asociaciones, organismos o ligas, procurarán contar con un fondo para sufragar parte o la totalidad de los gastos médicos que el deportista erogue con motivo de una lesión producida en la práctica del deporte correspondiente y dentro de la competición sancionada, avalada u organizada por aquellas.
 
-### CAPÍTULO TERCERO. DE LAS MEDIDAS DE SEGURIDAD
+### CAPÍTULO VIII. DEL INVENTARIO FÍSICO DE LOS BIENES
 
 ###### ARTÍCULO 109.
 
@@ -1239,7 +1689,7 @@ Cuando sea evidente que algún participante en justas deportivas caiga en casos 
 
 Las sanciones en el ámbito deportivo son independientes de la responsabilidad civil o penal a que dé lugar el uso de substancias o métodos tipo dopaje.
 
-### CAPÍTULO PRIMERO. DE LAS SANCIONES ADMINISTRATIVAS
+### CAPÍTULO IX. DE LA REVISIÓN DE LA INFORMACIÓN FINANCIERA
 
 ###### ARTÍCULO 129.
 
@@ -1249,11 +1699,11 @@ Corresponde a las autoridades en materia de seguridad pública, tránsito y prot
 
 Los deportistas, integrantes del cuerpo técnico de los equipos o deportistas y en su caso los organizadores, serán sancionados conforme a la presente Ley y su Reglamento, sin perjuicio de las sanciones a que se hagan acreedores conforme a otras disposiciones reglamentarias municipales o estatales, así como por la responsabilidad civil, administrativa o penal en que incurran de acuerdo a la legislación aplicable.
 
-### CAPÍTULO SEGUNDO. DE LOS RECURSOS EN EL DEPORTE
+### CAPÍTULO X. DEL INFORME A LA COMISIÓN DE FISCALIZACIÓN
 
 ## TÍTULO OCTAVO. DE LAS SANCIONES ADMINISTRATIVAS Y DE LOS RECURSOS EN EL DEPORTE
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO XI. DEL COBRO A LOS DEUDORES Y DEL RECONOCIMIENTO DE LOS ACREEDORES
 
 ###### ARTÍCULO 130.
 
@@ -1309,6 +1759,10 @@ Celebrada la audiencia, en un lapso que no deberá excederse de diez días hábi
 
 Las infracciones a lo dispuesto por la presente Ley las determinará el Ejecutivo Estatal en el Reglamento que normará la aplicación y procedimientos de las violaciones a la misma.
 
+### CAPÍTULO XII. DEL PROCEDIMIENTO DE LIQUIDACIÓN DEL PATRIMONIO
+
+### CAPÍTULO XIII. DE LA SUBASTA PÚBLICA DE LOS BIENES
+
 ###### ARTÍCULO 136.
 
 Las resoluciones que impongan sanciones, podrán impugnarse mediante el recurso de reconsideración que se tramitará ante la instancia sancionadora dentro de los cinco días hábiles posteriores a la notificación, resolviéndose en el término de diez días hábiles de haberse recibido.
@@ -1334,6 +1788,8 @@ Contra las resoluciones que resuelvan el recurso administrativo de revocación, 
 En el mismo escrito de interposición del recurso de apelación, se anunciarán las pruebas, siendo en el caso admisibles, únicamente las denominadas como supervenientes si las hubiere, mismas que solamente podrán ser promovidas por el recurrente.
 
 ## TÍTULO NOVENO. DE LA COMISIÓN DE APELACIÓN Y ARBITRAJE DEL DEPORTE
+
+### CAPÍTULO XIV. DEL PAGO A LOS ACREEDORES
 
 ###### ARTÍCULO 140.
 
