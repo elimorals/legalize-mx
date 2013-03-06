@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-finanzas-y-80756"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-04-06"
-last_updated: "2012-05-02"
+last_updated: "2013-03-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80756&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS Y PLANEACION DEL ESTADO DE MORELOS
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS Y PLANEACION DEL ESTADO DE MORELOS
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS Y PLANEACIÓN DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON LA SEGUNDA DISPOSICIÓN TRANSITORIA DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE HACIENDA, PUBLICADO EN EL P.O. DE 6 DE MARZO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de abril de 2011.
 
@@ -1274,3 +1276,13 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. La Secretaría de Finanzas y Planeación deberá emitir o actualizar sus manuales de organización y de políticas y procedimientos, en un plazo no mayor a 90 días hábiles; y en tanto se realiza dicha modificación seguirán vigentes los actuales.
 
 TERCERO. Se derogan las disposiciones de igual o menor rango que contravengan el presente Decreto.
+
+P.O. 6 DE MARZO DE 2013.
+
+PRIMERA. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado.
+
+SEGUNDA. Se abroga el Reglamento Interior de la Secretaría de Finanzas y Planeación publicado en el Periódico Oficial "Tierra y Libertad", número 4884, de fecha seis de abril de dos mil once.
+
+TERCERA. Se derogan todas aquellas disposiciones reglamentarias o administrativas de igual o menor rango jerárquico normativo que se opongan a lo establecido por el presente Reglamento.
+
+CUARTA. La Secretaría de Hacienda deberá emitir o actualizar sus Manuales de Organización, y de Políticas y Procedimientos, en un plazo no mayor a noventa días hábiles; y en tanto se realiza dicha modificación serán aplicables los que se encuentren vigentes en lo que no resulte contrario al presente ordenamiento. Para estos efectos se atenderá, en los casos aplicables, a los lineamientos que fije la Secretaría de Administración.
