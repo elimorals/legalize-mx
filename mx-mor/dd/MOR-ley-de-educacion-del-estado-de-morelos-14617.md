@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-educacion-del-estado-de-morelos-14617"
 country: "mx"
 rank: "ley"
 publication_date: "1996-08-26"
-last_updated: "2012-09-05"
+last_updated: "2013-03-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE EDUCACIÓN DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el día 26 de agosto de 1996.
 
@@ -504,6 +504,10 @@ La educación física especial procurará atender a los educandos de manera adec
 ###### ARTICULO 45.
 
 La educación especial se ofrecerá en planteles educativos estatales, municipales y particulares con autorización o reconocimiento de validez oficial de estudios.
+
+> <small>(ADICIONADO, P.O. 6 DE MARZO DE 2013)</small>
+
+Las Autoridades Educativas Locales, dentro de la planeación presupuestaria, incorporarán de manera obligatoria mayor presupuesto, para desarrollar acciones que propicien que en todas las instituciones de educación en las que se imparta la educación especial, incluyendo los Centros de Atención Psicopedagógica de Educación Preescolar, dispongan de infraestructura, mobiliario y medios tanto materiales como técnicos, acordes a las necesidades de los educandos, teniendo como principal finalidad lograr el máximo desarrollo personal de los mismos. Evitando en todo momento cualquier acto de discriminación que impida su desarrollo integral.
 
 ###### ARTICULO 46.
 
@@ -1366,3 +1370,9 @@ PRIMERO.- Aprobado que sea el presente decreto en términos del artículo 147 de
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de Difusión del Gobierno del Estado de Morelos.
 
 TERCERO.- La autoridad educativa vigilará lo dispuesto en la fracción IV del artículo 93 bis a efecto de que se efectúe el cambio de la Mesa Directiva de la Asociación Estatal de Padres de Familia y la creación del Consejo a que se refiere el segundo párrafo inciso b) de la fracción II del mismo artículo 93 bis, en un término no mayor a 60 días naturales.
+
+P.O. 6 DE MARZO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos a que se refiere el artículo 44 de la Constitución Política del Estado de Morelos.
