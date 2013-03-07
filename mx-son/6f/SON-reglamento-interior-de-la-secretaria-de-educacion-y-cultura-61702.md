@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-de-la-secretaria-de-educacion-y-cultura-617
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-06-12"
-last_updated: "2008-06-12"
+last_updated: "2013-03-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61702&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SON"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE EDUCACION Y CULTURA DEL ESTADO DE SONORA
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE EDUCACION Y CULTURA
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE EDUCACIÓN Y CULTURA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 7 DE MARZO DE 2013.
 
 Reglamento publicado en la Sección IV del Boletín Oficial del Estado de Sonora, el jueves 12 de junio de 2008.
 
@@ -41,57 +41,63 @@ La Secretaría de Educación y Cultura, como Dependencia del Poder Ejecutivo, ti
 
 Para efectos del presente Reglamento se entenderá por Secretaría, como la Secretaría de Educación y Cultura y por Secretario, a su Titular.
 
+> <small>(REFORMADO, B.O. 7 DE MARZO DE 2013)</small>
+
 ###### Artículo 3°.
 
 Para la atención, estudio, planeación y resolución de los asuntos de su competencia, la Secretaría contará con las siguientes unidades administrativas y órganos desconcentrados:
 
-- Secretario;
+I.- Unidades Administrativas:
 
-- Subsecretaría de Educación Básica;
+a) Oficina del Secretario;
 
-- Subsecretaría de Educación Media Superior;
+b) Subsecretaría de Educación Básica;
 
-- Subsecretaría de Planeación y Administración;
+c) Subsecretaría de Educación Media Superior y Superior;
 
-- Dirección General de Educación Elemental;
+d) Subsecretaría de Planeación y Administración;
 
-- Dirección General de Educación Primaria;
+e) Unidad de Ciencia y Tecnología;
 
-- Dirección General de Educación Secundaria;
+f) Dirección General de Educación Elemental;
 
-- Coordinación General de Salud Escolar y Seguridad Escolar;
+g) Dirección General de Educación Primaria;
 
-- Dirección General de Tecnología Educativa;
+h) Dirección General de Educación Secundaria;
 
-- Dirección General de Vinculación y Participación Social;
+i) Coordinación General de Salud y Seguridad Escolar;
 
-- Dirección General de Educación Media Superior y Superior;
+j) Dirección General de Vinculación y Participación Social;
 
-- Dirección General de Intercambios y Asuntos Internacionales;
+k) Dirección General de Educación Media Superior y Superior;
 
-- Dirección General de Planeación;
+l) Dirección General de Intercambios y Asuntos Internacionales;
 
-- Dirección General de Recursos Humanos;
+m) Dirección General de Planeación;
 
-- Dirección General de Administración y Finanzas;
+n) Dirección General de Recursos Humanos;
 
-- Coordinación General de Programas Compensatorios;
+o) Dirección General de Administración y Finanzas;
 
-- Dirección General de Servicios Regionales;
+p) Coordinación General de Programas Compensatorios;
 
-- Dirección General de Informática;
+q) Dirección General de Servicios Regionales;
 
-- Coordinación General de Carrera Magisterial;
+r) Dirección General de Informática;
 
-- Unidad de Enlace de Comunicación Social; y
+s) Coordinación General de Carrera Magisterial;
 
-- Unidad de asuntos Jurídicos;
+t) Dirección General de Tecnología Educativa;
 
-Órganos Desconcentrados:
+u) Dirección General de Innovación y Desarrollo Tecnológico;
 
-- Coordinación General de Registro, Certificación y Servicio a Profesionistas.
+v) Unidad de Enlace de Comunicación Social; y
 
-Se anexa organigrama estructural.
+w) Unidad de Asuntos Jurídicos.
+
+II.- Órganos desconcentrados:
+
+a) Coordinación General de Registro, Certificación y Servicios a Profesionistas.
 
 ###### Artículo 4°.
 
@@ -157,7 +163,9 @@ XXIV.- Reformar, modificar, revocar, nulificar o revisar, de acuerdo a la normat
 
 XXV.- Intervenir en la elaboración de los convenios, acuerdos y anexos de ejecución que, en materia de su competencia, celebre el Gobernador del Estado;
 
-XXVI.- Autorizar con su firma los convenios que la Secretaría celebre con otras dependencias o entidades de la Administración Pública Estatal, así como suscribir los documentos relativos al ejercicio de sus atribuciones;
+> <small>(REFORMADA, B.O. 7 DE MARZO DE 2013)</small>
+
+XXVI.- Autorizar con su firma los contratos, convenios, actos jurídicos, administrativos y financieros que la Secretaría celebre con otras dependencias o entidades de la Administración Pública Federal, Estatal o Municipal, o con particulares, así como suscribir los documentos relativos al ejercicio de sus atribuciones;
 
 XXVII.- Recibir en acuerdo a los funcionarios y empleados de la Secretaría y conceder audiencias a los particulares, de conformidad con las políticas establecidas al respecto;
 
@@ -217,17 +225,31 @@ LIV.- Publicar el informe de resultados de la evaluación educativa, a través d
 
 LV.- Implementar las acciones necesarias para el cumplimiento del Sistema Integral de Archivos de acuerdo a la normatividad en la materia;
 
-LVI.- Coordinar la Implementación de programas para la mejora continua y calidad de los procesos de la Unidades Administrativas de la Secretaría; y
+> <small>(REFORMADA, B.O. 7 DE MARZO DE 2013)</small>
 
-LVII.- Las demás que las disposiciones legales le confieran expresamente, así como aquellas otras que le confiera el Gobernador del Estado.
+LVI.- Coordinar la implementación de programas para la mejora continua y calidad de los procesos de las Unidades Administrativas de la Secretaría;
 
-El Secretario podrá delegar, sin perjuicio de su ejercicio en forma directa, las atribuciones contenidas en las fracciones II, III, IV, V, IX, XVII, XIX, XXIII, XXV, XXVII, XXVIII, XXIX, XXXI, XXXII XXXIII, XXXV, XXXVII, XXXVIII, XXXIX, XL, XLI, XLV, XLVI, XLVII, XLIX, L, LII, LIII y LVI de este artículo, expidiendo los acuerdos relativos que deberán publicarse en el Boletín Oficial del Gobierno del Estado.
+> <small>(REFORMADA, B.O. 7 DE MARZO DE 2013)</small>
 
-### CAPÍTULO III. DE LAS ATRIBUCIONES GENÉRICAS DE LAS SUBSECRETARÍAS
+LVII.- Promover el desarrollo de las actividades de la educación impulsando la investigación científica, el desarrollo tecnológico, la transferencia de tecnología y la innovación en el Estado, procurando su vinculación con los sectores productivos; y
+
+> <small>(ADICIONADA, B.O. 7 DE MARZO DE 2013)</small>
+
+LVIII.- Las demás que las disposiciones legales le confieran expresamente, así como aquellas otras que le confiera el Gobernador del Estado.
+
+> <small>(REFORMADO, B.O. 7 DE MARZO DE 2013)</small>
+
+El Secretario podrá delegar, sin perjuicio de su ejercicio en forma directa, las atribuciones contenidas en las fracciones II, III, IV, V, IX, XVII, XIX, XXIII, XXV, XXVI, XXVII, XXVIII, XXIX, XXXI, XXXII, XXXIII, XXXV, XXXVII, XXXVIII, XXXIX, XL, XLI, XLV, XLVI, XLVII, XLIX, L, LII, LIII y LVI de este artículo, expidiendo los acuerdos relativos que deberán publicarse en el Boletín Oficial del Gobierno del Estado.
+
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 7 DE MARZO DE 2013)</small>
+
+### CAPÍTULO III. DE LAS ATRIBUCIONES GENÉRICAS DE LAS SUBSECRETARÍAS Y DE LA UNIDAD DE CIENCIA Y TECNOLOGÍA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 7 DE MARZO DE 2013)</small>
 
 ###### Artículo 7°.
 
-Al frente de cada Subsecretaría habrá un Subsecretario, quien tendrá las siguientes atribuciones genéricas:
+Al frente de cada Subsecretaría habrá un Subsecretario, y al frente de la Unidad de Ciencia y Tecnología estará un Coordinador Ejecutivo, quienes tendrán las siguientes atribuciones genéricas:
 
 I.- Planear, programar, organizar, dirigir, controlar y evaluar el funcionamiento de las unidades administrativas que se le adscriban, de acuerdo con los lineamientos que fije el Secretario;
 
@@ -269,7 +291,9 @@ XIX.- Formular y proponer al Secretario, en el ámbito de su competencia, las es
 
 XX.- Las demás que le señale el Secretario o le confieran las disposiciones legales aplicables.
 
-### CAPÍTULO IV. DE LAS ATRIBUCIONES ESPECÍFICAS DE LAS SUBSECRETARÍAS
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 7 DE MARZO DE 2013)</small>
+
+### CAPÍTULO IV. DE LAS ATRIBUCIONES ESPECÍFICAS DE LAS SUBSECRETARIAS Y DE LA UNIDAD DE CIENCIA Y TECNOLOGÍA
 
 ###### Artículo 8º.
 
@@ -297,7 +321,9 @@ A la Subsecretaría de Educación Básica le corresponden las siguientes atribuc
 
 I.- Coordinar y dirigir la educación inicial, primaria y secundaria que se imparta en el Estado;
 
-II.- Dirigir la incorporación y uso de las tecnologías en el proceso educativo, para ampliar la cobertura y mejorar la calidad de la educación;
+> <small>(REFORMADA, B.O. 7 DE MARZO DE 2013)</small>
+
+II.- Apoyar en la incorporación y uso de las tecnologías en el proceso educativo, para ampliar la cobertura y mejorar la calidad de la educación;
 
 III.- Gestionar en el Sistema de Educación Básica las acciones necesarias en materia de salud y seguridad escolar;
 
@@ -318,6 +344,52 @@ IV.- Coordinar los sistemas de registro y certificación de la educación básic
 V.- Promover, conjuntamente con las instituciones de educación media superior y superior establecidas en el Estado, políticas para la mejora continua de los niveles de titulación y certificación profesional de sus egresados así como la certificación de instituciones y los programas académicos que estas ofrezcan; y
 
 VI.- Las demás que le confieran las disposiciones legales aplicables y el Secretario dentro de la esfera de sus atribuciones.
+
+> <small>(ADICIONADO, B.O. 7 DE MARZO DE 2013)</small>
+
+###### Artículo 10 Bis.
+
+La Unidad de Ciencia y Tecnología estará adscrita al Secretario y tendrá las siguientes atribuciones:
+
+I.- Fomentar la investigación científica, el desarrollo tecnológico, la transferencia de tecnología y la innovación en la educación del Estado, procurando su vinculación con los sectores productivos;
+
+II.- Dirigir la incorporación y uso de las tecnologías en el proceso educativo, para ampliar la cobertura y mejorar la calidad de la educación;
+
+III.- Representar al Secretario cuando así se le designe, en los diversos eventos y actos relacionados con la ciencia y la tecnología que permitan el enriquecimiento y/o promoción de los planes y programas de la Secretaría;
+
+IV.- Operar planes y programas de promoción y difusión de la ciencia y la tecnología en ámbito educativo;
+
+V.- Promover la realización de foros, congresos, seminarios y talleres para tratar diversos temas científicos y tecnológicos de interés social para obtener propuestas valiosas aplicables al desarrollo de la educación en nuestro Estado y para fomentar la cultura científica y tecnológica;
+
+VI.- Apoyar las acciones de los sectores público, privado y académico que promuevan y consoliden el conocimiento científico y tecnológico;
+
+VII.- Conocer y analizar la situación actual de la oferta y la demanda de investigación, desarrollo tecnológico e innovación del Estado para su correcta y mutua satisfacción en el sector educativo;
+
+VIII.- Fomentar entre los sonorenses la cultura del conocimiento, para que lo reconozcan como factor de desarrollo;
+
+IX.- Apoyar, en el ámbito de su competencia, con financiamiento, vinculación, difusión, organización, estructuración, según sea el caso, en proyectos científicos y tecnológicos que se adecuen a las áreas prioritarias de desarrollo del sector educativo;
+
+X.- Incorporar, mediante la promoción de redes de innovación tecnológica, la asesoría nacional e internacional de todos aquellos actores de la ciencia y la tecnología, buscando por medio de ellos el enriquecimiento de los planes y programas de la Secretaría;
+
+XI.-Impulsar la realización de los programas de investigación científica y tecnológica, vinculados a los objetivos de desarrollo académico en el Estado;
+
+XII.- Coordinar mediante la investigación científica y tecnológica la búsqueda de mejores alternativas de solución los problemas del desarrollo de la educación, y en su caso, la elaboración de los diagnósticos necesarios;
+
+XIII.- Promover la capacitación, especialización y actualización de conocimientos en ciencia y tecnología, aprovechando al máximo los recursos de las instituciones de Educación Superior y centros de investigación en el Estado;
+
+XIV.- Promover la vinculación entre las instituciones de Educación Superior y centros de investigación y de éstos con los usuarios de los sectores público, privado y social, preferentemente del Estado;
+
+XV.- Asesorar a instituciones de Educación Superior y centros de investigación, en la gestión y obtención de recursos de fondos nacionales o locales para la realización de proyectos de ciencia y tecnología, y desarrollo tecnológico e innovación en el ámbito de la educación;
+
+XVI.- Coordinar y promover convenios con dependencias y organismos de la Administración Pública Federal, Estatal o Municipal, instituciones u organismos nacionales y extranjeros, para el cumplimiento de sus objetivos;
+
+XVII.- Desarrollar y coordinar estudios, políticas, programas y acciones que tengan por objeto la modernización y transformación integral de la Secretaría, en cuanto a sus modelos, estructuras, métodos, procesos, profesionalización de los servidores públicos y uso estratégico de tecnologías de la información y comunicaciones, con el fin de incrementar la eficiencia de su operación y funcionamiento;
+
+XVIII.- Coordinar, supervisar y promover el buen uso de las tecnologías de la información y comunicaciones en toda la Secretaría, incluyendo los centros de trabajo adscritos a ésta, con el fin de optimizar la utilización de las mismas como parte de un solo proceso integral de modernización;
+
+XIX.- Coordinar y promover programas de difusión y divulgación de la ciencia y tecnología en el sector educativo, enfocados específicamente a la niñez y juventud en el Estado; y
+
+XX.- Las demás que le señale el Secretario o le confieran las disposiciones legales aplicables.
 
 ### CAPÍTULO V. DE LAS ATRIBUCIONES GENÉRICAS DE LAS DIRECCIONES GENERALES, COORDINACIONES GENERALES Y UNIDADES
 
@@ -615,33 +687,7 @@ XVII.- Las demás que le confieran las disposiciones legales aplicables, y el su
 
 ###### Artículo 16.
 
-La Dirección General de Tecnología Educativa estará adscrita a la Subsecretaría de Educación Básica y tendrá las siguientes atribuciones:
-
-I.- Fomentar en todos los niveles educativos, y en apoyo de las unidades administrativas competentes, la innovación y el desarrollo educativo, recuperando y difundiendo experiencias orientadas a fortalecer la educación y a mejorar los procesos y sus resultados;
-
-II.- Impulsar, coordinar, supervisar y evaluar la incorporación y uso de las tecnologías, de manera permanente, en el proceso educativo para ampliar la cobertura y mejorar la calidad de la educación;
-
-III.- Impulsar y orientar la integración y funcionamiento de los organismos técnico-pedagógicos y/o academias en los diversos niveles educativos, en coordinación con las unidades administrativas competentes;
-
-IV.- Organizar, promover y coordinar la difusión de acciones estratégicas a través de la integración tecnológica de medios informáticos al servicio de los programas y proyectos de las unidades educativas;
-
-V.- Promover, organizar e implementar, por conducto de la Unidad Administrativa correspondiente, actividades de capacitación y sensibilización al personal directivo y docente relacionados con el uso de las nuevas tecnologías de la información y la comunicación;
-
-VI.- Coordinar, promover y supervisar los programas y proyectos de Educación a Distancia que se desarrollan en el Estado;
-
-VII.- Supervisar el uso y mantenimiento de equipos de cómputo y de televisión y proporcionar servicios de instalación, asesoría y soporte técnico a las escuelas y sus aulas de medios;
-
-VIII.- Diseñar y aplicar políticas de uso de las aulas de medios por parte de la población escolar y la comunidad, en su caso;
-
-IX.- Planear, desarrollar, promover y evaluar campañas de difusión tendientes a promover el uso de las tecnologías en el fomento a la educación permanente y la disminución del rezago educativo;
-
-X.- Promover, conjuntamente con las unidades administrativas competentes, la vinculación con las instituciones de Educación Superior para ampliar el servicio social de estudiantes y prácticas profesionales, en apoyo a las aulas de medios en el Estado y proyectos estratégicos que utilizan tecnología;
-
-XI.- Evaluar los procesos relativos al uso de las tecnologías en la educación y proponer investigación educativa aplicada a los programas emprendidos en la materia;
-
-XII.- Desarrollar, conjuntamente con el sector magisterial, métodos, proyectos y planes de trabajo para promover el uso de los medios electrónicos como herramienta didáctica en el aula; y
-
-XIII.- Las demás que le confieran las disposiciones legales aplicables, y el superior jerárquico, dentro de la esfera de sus atribuciones.
+(DEROGADO, B.O. 7 DE MARZO DE 2013)
 
 ###### Artículo 17.
 
@@ -961,6 +1007,84 @@ X.- Difundir los lineamientos generales del Programa a la comunidad docente con 
 
 XII (sic).- Las demás que le confieran las disposiciones legales aplicables, y el superior jerárquico, dentro de la esfera de sus atribuciones.
 
+> <small>(ADICIONADO, B.O. 7 DE MARZO DE 2013)</small>
+
+###### Artículo 26 Bis.
+
+La Dirección General de Tecnología Educativa estará adscrita a la Unidad de Ciencia y Tecnología, y tendrá las siguientes atribuciones:
+
+I.- Fomentar en todos los niveles educativos, y en apoyo de las unidades administrativas competentes, la innovación y el desarrollo educativo, recuperando y difundiendo experiencias orientadas a fortalecer la educación ya mejorar los procesos y sus resultados;
+
+II.- Impulsar, coordinar, supervisar y evaluar la incorporación y uso de las tecnologías, de manera permanente, en el proceso educativo para ampliar la cobertura y mejorar la calidad de la educación;
+
+III.- Impulsar y orientar la integración y funcionamiento de los organismos técnico-pedagógicos y/o academias en los diversos niveles .educativos en coordinación con las unidades administrativas competentes;
+
+IV.- Organizar, promover y coordinar la difusión de acciones estratégicas a través de la integración tecnológica de medios informáticos y telecomunicaciones al servicio de los programas y proyectos de las unidades educativas;
+
+V.- Promover, organizar e implementar, por conducto de la Unidad Administrativa correspondiente, actividades de capacitación y sensibilización al personal directivo y docente relacionados con el uso de las nuevas tecnologías de la información y la comunicación;
+
+VI.- Coordinar, promover y supervisar los programas y proyectos de Educación a Distancia que se desarrollan en el Estado;
+
+VII.- Supervisar el uso y mantenimiento de equipos de cómputo de televisión, así como los servicios de instalación, asesoría y soporte técnico a las escuelas y sus aulas de medios;
+
+VIII.- Diseñar y aplicar políticas de uso de las aulas de medios por parte de la población escolar y la comunidad, en su caso;
+
+IX.- Planear, desarrollar, promover y evaluar campañas de difusión tendientes a promover el uso de las tecnologías en el fomento a la educación permanente y la disminución del rezago educativo;
+
+X.- Promover, conjuntamente con las unidades administrativas competentes, la vinculación con las instituciones de Educación Superior para ampliar el servicio social de estudiantes y prácticas profesionales, en apoyo a las aulas de medios en el Estado y proyectos estratégicos que utilizan tecnología;
+
+XI.- Evaluar los procesos relativos al uso de las tecnologías en la educación y proponer investigación educativa aplicada a los programas emprendidos en la materia;
+
+XII.- Desarrollar, conjuntamente con el sector magisterial, métodos, proyectos y planes de trabajo para promover el uso de los medios electrónicos como herramienta didáctica en el aula; y
+
+XIII.- Las demás que le confieran las disposiciones legales aplicables y el superior jerárquico dentro de la esfera de sus atribuciones.
+
+> <small>(ADICIONADO, B.O. 7 DE MARZO DE 2013)</small>
+
+Artículo 26 Bis A.- La Dirección General de Innovación y Desarrollo Tecnológico estará adscrita a la Unidad de Ciencia y Tecnología, y tendrá las siguientes atribuciones:
+
+I.- Establecer y mantener relaciones con los dirigentes de las cámaras empresariales y las organizaciones de la sociedad civil, con el propósito de impulsar el desarrollo e innovación tecnológica en la educación;
+
+II.- Establecer relación con miembros estratégicos de docencia, para conocer sus avances de innovación y tecnologías de la información y comunicación, así como para acordar apoyos mutuos entre instituciones;
+
+III.- Coordinar la realización de eventos en las instituciones de Educación Superior, para motivar la participación de sus estudiantes en la resolución de problemas ciudadanos específicos mediante la aplicación innovadora de la tecnología;
+
+IV.- Integrar una base de datos en la que se consolide la información de los principales actores de la ciencia y la tecnología, asimismo de medios de comunicación estatales, instituciones de Educación Superior, centros de investigación en el Estado, Líderes de opinión, Cámaras Empresariales, Colegios de Profesionistas, de los principales sindicatos, y de organizaciones no gubernamentales, y de toda aquella instancia que promueva las redes de innovación tecnológica en la educación;
+
+V.- Impulsar la utilización estratégica de tecnologías para la información y comunicaciones, con el fin de hacer más competitiva la operación y funcionamiento de las estructuras públicas educativas;
+
+VI.- Promover políticas eficaces en materia de innovación, para impulsar la competitividad del Estado en los ámbitos del desarrollo educativo;
+
+VII.- Apoyar la integración de estudios y análisis en materia de innovación educativa, tomando en consideración los lineamientos y políticas señalados en el Plan Estatal de Desarrollo y en el Programa Estatal de Educación;
+
+VIII.- Promover el uso de las tecnologías de la información y la comunicación en los procesos educativos en las escuelas de Educación Básica, Media Superior y Superior de Sonora, conforme a las políticas educativas vigentes;
+
+IX.- Planificar y desarrollar proyectos para fortalecer, extender y operar las propuestas nacionales y estatales relacionadas con el uso de tecnologías de la información y la comunicación en el ámbito educativo;
+
+X.- Impulsar la participación en los programas nacionales y estatales relacionados con el uso de las tecnologías de la información y comunicación en Educación Básica, Media Superior y Superior;
+
+XI.- Realizar acciones en coordinación con las diferentes áreas operativas e instancias educativas sobre el uso de las tecnologías de la información y la comunicación para mejorar el servicio educativo;
+
+XII.- Impulsar la consolidación de la plataforma tecnológica educativa, para ofrecer a través de ésta, asesoría y propuestas para el diseño de proyectos educativos, así como la difusión de acciones estratégicas en apoyo al quehacer educativo;
+
+XIII.- Diseñar y promover propuestas de formación continua, por conducto de la Unidad Administrativa de la Secretaría correspondiente, dirigidas al personal directivo y docente relacionadas con el uso de las tecnologías de la información y comunicación;
+
+XIV.- Promover la difusión de productos y materiales educativos relacionados con el uso de las tecnologías de la información y la comunicación, y el desarrollo científico a través de los diversos medios de comunicación e información;
+
+XV.- Planear, desarrollar y producir materiales educativos relacionados con el uso de las tecnologías de la información y la comunicación, y el desarrollo científico, en apoyo curricular a los planes y programas de estudio de Educación Básica, Media Superior y Superior;
+
+XVI.- Recuperar y difundir productos educativos relacionados con las tecnologías de la información y la comunicación, y de investigación científica, desarrollados en las escuelas equipadas con tecnología;
+
+XVII.- Realizar eventos, congresos y reuniones que promuevan el intercambio de experiencias educativas con el uso de las tecnologías de la información y la comunicación, y el desarrollo científico y de innovación entre las escuelas de Educación Básica, Media Superior y Superior;
+
+XVIII.- Evaluar los procesos relativos al uso de las tecnologías en Educación Básica, Media Superior y Superior;
+
+XIX.- Asegurar y controlar que toda acción, producto y/o servicio desarrollado para fomentar el uso e incorporación de las tecnologías de la información y la comunicación realizado por esta Unidad Administrativa, sea manejado de acuerdo a estándares de calidad, en beneficio de los clientes o usuarios;
+
+XX.- Apoyar al fomento del uso educativo de las tecnologías de la información y la comunicación de las áreas que integran a la Unidad de Ciencia y Tecnología, a fin de fortalecer las acciones, programas y proyectos encomendados por los superiores jerárquicos, así como los estipulados en los programas educativos estatales y nacionales; y
+
+XXI.- Las demás que le confieran las disposiciones legales aplicables, y el superior jerárquico, dentro de la esfera de sus atribuciones.
+
 ###### Artículo 27.
 
 La Unidad de Enlace de Comunicación Social estará adscrita al Secretario y tendrá las siguientes atribuciones:
@@ -995,11 +1119,15 @@ La Unidad de Asuntos Jurídicos estará adscrita al Secretario y tendrá las sig
 
 I.- Realizar los estudios y emitir las opiniones y dictámenes derivados de las consultas de carácter jurídico que le sean formuladas por el Secretario, o por los responsables de las unidades administrativas de la Secretaría;
 
-II.- Fijar, sistematizar y difundir los criterios de interpretación y aplicación de las disposiciones jurídicas que regulan el funcionamiento de la Secretaría, de conformidad con las normas, lineamientos y criterios específicos que determine el Secretario;
+> <small>(REFORMADA, B.O. 7 DE MARZO DE 2013)</small>
+
+II.- Fijar y difundir los criterios de interpretación y aplicación de las disposiciones jurídicas que regulan el funcionamiento de la Secretaría, de conformidad con las normas, lineamientos y criterios específicos que determine el Secretario;
 
 III.- Coadyuvar en la elaboración y revisión, en su caso, de los anteproyectos de leyes, reglamentos y decretos de competencia de la Secretaría, de conformidad con los lineamientos específicos que determine el Secretario;
 
-IV.- Representar legalmente al Secretario, a la Secretaría, a sus servidores públicos y a sus unidades administrativas en asuntos jurisdiccionales, contencioso-administrativo y ante toda clase de autoridades administrativas y judiciales, en los procesos o procedimientos de toda índole, cuando se requiera su intervención y para formular y absolver posiciones y presentar, ofrecer y desahogar todo tipo de pruebas en tales procesos o procedimientos, así como atender los asuntos de orden jurídico que le correspondan a la Secretaría. El Director General de la Unidad de Asuntos Jurídicos mediante oficio podrá conferir dicha representación en servidores públicos subalternos y sustituir o revocar dichas facultades;
+> <small>(REFORMADA, B.O. 7 DE MARZO DE 2013)</small>
+
+IV.- Representar legalmente al Secretario, a la Secretaría, a sus servidores públicos y a sus unidades administrativas en asuntos jurisdiccionales, contencioso-administrativos y ante toda clase de tribunales y juzgados federales o locales, en los procesos o procedimientos de toda índole, cuando se requiera su intervención y para formular y absolver posiciones y presentar, ofrecer y desahogar todo tipo de pruebas en tales procesos o procedimientos, así como atender los asuntos de orden jurídico que le corresponda a la Secretaría. El Director General de la Unidad de Asuntos Jurídicos mediante oficio podrá conferir dicha representación en servidores públicos subalternos y sustituir o revocar dichas facultades;
 
 V.- Substanciar y resolver los procedimientos administrativos de nulidad, revocación, cancelación, reconsideración, revisión y, en general, todos aquellos que tiendan a modificar o excepción de aquellos que hubiesen sido encomendados a otras unidades administrativas de la misma;
 
@@ -1007,17 +1135,25 @@ VI.- Elaborar y proponer lo (sic) informes previos y justificados que en materia
 
 VII.- Revisar y emitir opinión respecto de los convenios, acuerdos, circulares, contratos e instrumentos públicos en los que deba intervenir la Secretaría, y emitir opinión respecto de la formulación, modificación, anulación o rescisión de los contratos o convenios que celebre la Secretaría;
 
-VIII.- Recopilar los convenios, acuerdos y contratos en los que participe la Secretaría y los organismos descentralizados del sector educativo, remitiéndolos a la Secretaría de la Contraloría General para los efectos previstos en los ordenamientos legales aplicables;
+> <small>(REFORMADA, B.O. 7 DE MARZO DE 2013)</small>
+
+VIII.- Revisar los convenios, acuerdos y contratos en los que participe la Secretaría y los organismos descentralizados del sector educativo y, en su caso, en coordinación con la Secretaría de Hacienda para los efectos previstos en los ordenamientos legales aplicables;
 
 IX.- Coordinarse con las unidades de asesoría o de apoyo técnico del Ejecutivo Estatal en materia jurídica, para la atención de aquellos asuntos que por su trascendencia así lo requieran;
 
 X.- Opinar sobre la procedencia de las sanciones que pretendan imponer al personal a su servicio los responsables de las unidades administrativas de la Secretaría, por incumplimiento o violación de las disposiciones legales y reglamentarias aplicables en materia laboral;
 
-XI.- Expedir copias certificadas de las constancias existentes en los archivos de la Secretaría;
+> <small>(REFORMADA, B.O. 7 DE MARZO DE 2013)</small>
 
-XII.- Mantener actualizado el registro de ordenamientos jurídicos en materia educativa;
+XI.- Expedir copias certificadas de documentos existentes en los archivos de la Secretarías, para uso de los mismos en juicios y asuntos jurídicos y administrativos en los que intervenga ésta;
 
-XIII.- Compilar las normas jurídicas que conforman el marco legal de la Secretaría, e informar a las unidades administrativas correspondientes de las adecuaciones al marco legal, según su ámbito de competencia;
+> <small>(REFORMADA, B.O. 7 DE MARZO DE 2013)</small>
+
+XII.- Rendir los informes que requieran las Comisiones Nacional y Estatal de Derechos Humanos;
+
+> <small>(REFORMADA, B.O. 7 DE MARZO DE 2013)</small>
+
+XIII.- Mantener actualizadas las normas jurídicas que conforman el manco legal de la Secretaría, e informar a las unidades administrativas correspondientes de las adecuaciones al marco legal, según su ámbito de competencia;
 
 XIV.- Establecer comunicación y coordinación con las dependencias y entidades del sector público, así como con los sectores social y privado, en asuntos relacionados con la legislación en materia de educación;
 
@@ -1029,7 +1165,9 @@ XVII.- Presentar denuncias de hechos, querellas, desistimientos y otorgar perdon
 
 XVIII.- Presentar denuncias o quejas ante la unidad administrativa competente de la Secretaría de la Contraloría General, respecto de hechos imputables a los trabajadores de la educación y demás servidores públicos adscritos a la Secretaría, que puedan vulnerar lo dispuesto por los ordenamientos vigentes respecto de las obligaciones que, para salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de su empleo, cargo o comisión, deben observar los servidores públicos del Estado y de los municipios; o bien que redunden en perjuicio de los interes (sic) públicos fundamentales o de su buen despacho, o puedan constituir ilícitos en los que el Estado resulte ofendido;
 
-XIX.- Atender las resoluciones que pronuncien las autoridades jurisdiccionales, exigiendo su cumplimiento a las unidades administrativas de la Secretaría y prestando a éstas la asesoría necesaria, así como rendir los informes que requieran las Comisiones Nacional y Estatal de Derechos Humanos;
+> <small>(REFORMADA, B.O. 7 DE MARZO DE 2013)</small>
+
+XIX.- Atender las resoluciones que pronuncien las autoridades jurisdiccionales, exigiendo su cumplimiento a las unidades administrativas de la Secretaría y prestando a éstas la asesoría necesaria;
 
 XX.- Auxiliar y asesorar al Secretario y a las unidades administrativas de la Secretaría, respecto de la substanciación y resolución de los procedimientos por los que impongan sanciones a los particulares que impartan adecuación (sic) en todos los niveles, tipos y modalidades, o se revoque la autorización o retire el reconocimiento de validez oficial a los mismos para impartir estudios; y
 
@@ -1184,3 +1322,47 @@ de Registro,
 Certificación y
 
 Servicios a Profesionistas
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 7 DE MARZO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Para dar cumplimiento al artículo 4 del Acuerdo que Establece Lineamientos de Ahorro y Austeridad, y artículos transitorios del acuerdo que Deroga Diversas Disposiciones del Acuerdo que Establece las Atribuciones de las Unidades de Apoyo Directamente Adscritas al Titular del Poder Ejecutivo del Estado, expedidos por el Ejecutivo Estatal, los recursos humanos, financieros y materiales asignados a la Oficina de Innovación Gubernamental, serán transferidos a la Secretaría de Educación y Cultura, a través de la Unidad de Ciencia y Tecnología, para cubrir las necesidades para el objeto de esta Unidad.
+
+###### ARTÍCULO CUARTO.
+
+Los recursos financieros y materiales asignados a las unidades administrativas y/o áreas que desaparecen o modifican su adscripción y/o competencia por virtud del presente Decreto, serán reasignados en primer término a cubrir las necesidades de los planteles de Educación Básica con mayores necesidades; en segundo lugar, a las unidades que asumen nuevas atribuciones, y por último, al fortalecimiento de los programas estratégicos de la Secretaría de Educación y Cultura que determine su Titular.
+
+Para la ejecución de lo previsto en el párrafo que antecede, el Secretario de Educación y Cultura establecerá las líneas generales de reasignación, designará las instancias responsables de la misma, definirá tiempos y plazos de ejecución, y emitirá las instrucciones que procedan, conforme a la normatividad aplicable y, en su caso, una vez obtenidas las autorizaciones de las dependencias competentes.
+
+###### ARTÍCULO QUINTO.
+
+Los titulares de las unidades administrativas que modifican su adscripción y/o competencia por virtud del presente Decreto, harán la entrega-recepción a los titulares de las unidades administrativas que asumen las nuevas atribuciones o al funcionario que el Secretario de Educación y Cultura designe para tal efecto. El funcionario que reciba será responsable de atender, o en su caso, distribuir a las áreas competentes los asuntos que se encontraban en trámite ante tales unidades.
+
+###### ARTÍCULO SEXTO.
+
+Para el cumplimiento y seguimiento de los compromisos y contrataciones adquiridas en su momento por la Oficina de Innovación Gubernamental derivados de los programas relativos a Municipios Digitales, Automatización de la Gestión, Escuela de Gobierno, Calidad Gubernamental, Red Dorsal Estatal, Un Nuevo Futuro, y de todos aquellos asuntos pendientes fuera del ámbito educativo, la Secretaría de Hacienda, dependiendo de la naturaleza de los asuntos, determinará si la Secretaría de la Contraloría General y/o la Oficina del Ejecutivo absorberán dichas responsabilidades.
+
+La Secretaría de Educación y Cultura solamente dará seguimiento a los programas y asuntos pendientes dentro del ámbito de su competencia en materia educativa y disponibilidad presupuestal, por conducto de la Unidad de Ciencia y Tecnología.
+
+Las funciones que desempeñe la Unidad de Ciencia y Tecnología se fundamentarán en las atribuciones que se establezcan dentro del presente Ordenamiento, las cuales enmarcan el límite de la competencia dé dicha Unidad en relación a las responsabilidades de los asuntos pendientes al entrar en vigor este Decreto adquiridas por la Oficina de Innovación Gubernamental.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los asuntos pendientes al entrar envigar este Decreto y que conforme al mismo deban pasar de una unidad administrativa a otra u otras, continuarán su trámite y serán resueltos por aquella o aquellas unidades a las que se les haya atribuido la competencia correspondiente en este Decreto.
+
+En tal virtud, los asuntos pendientes al entrar en vigor el presente Decreto de la Dirección General de Tecnología Educativa; continuarán su trámite y serán resueltos por ésta misma pero como unidad administrativa adscrita a la Unidad de Ciencia y Tecnología, o según su naturaleza por la Dirección General de Innovación y Desarrollo Tecnológico.
+
+###### ARTICULO OCTAVO.
+
+Las Secretarías de Hacienda, de la Contraloría General y de Educación y Cultura, así como la Oficina del Ejecutivo, harán las previsiones necesarias y realizarán lo conducente a efecto de cumplir a la brevedad con lo señalado en los presentes artículos transitorios.
