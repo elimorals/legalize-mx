@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-seguridad-publica-para-el-estado-de-durango-45761"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-24"
-last_updated: "2012-12-06"
+last_updated: "2013-03-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45761&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "DUR"
 ---
 # LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE DURANGO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE MARZO DE 2013 EN EL P.O. DEL ESTADO DE DURANGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE DURANGO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2012.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 7 DE MARZO DE 2013.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 24 de julio de 2005.
 
@@ -829,11 +829,9 @@ La Seguridad Penitenciaria, se conformará como la función de carácter operati
 
 El Cuerpo de Policía asignado para el efecto, deberá apoyar la labor de la autoridad judicial en los procedimientos relativos a la justicia penal y la aplicación de medidas de seguridad que se determinen en el Código de la materia.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE MARZO DE 2013 EN EL P.O. DEL ESTADO DE DURANGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2012) (F. DE E., P.O. 7 DE MARZO DE 2013)
 
-> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2012)</small>
-
-(SIC) Cada establecimiento penitenciario contará con equipos que permitan bloquear o anular las señales de telefonía celular, de radiocomunicación, o de transmisión de datos o imagen dentro del perímetro de centros de readaptación social y de menores infractores.
+ARTÍCULO 44 BIS.- Cada establecimiento penitenciario contará con equipos que permitan bloquear o anular las señales de telefonía celular, de radiocomunicación, o de transmisión de datos o imagen dentro del perímetro de centros de readaptación social y de menores infractores.
 
 Dichos equipos serán operados por autoridades distintas a las de los establecimientos penitenciarios y de menores infractores en centros remotos, contarán con sistemas automáticos que envíen señales de alarma ante cualquier interrupción en su funcionalidad y serán monitoreados por el Sistema Nacional de Seguridad Pública, con la colaboración de los concesionarios de redes públicas de telecomunicaciones.
 
