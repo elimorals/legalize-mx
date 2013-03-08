@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2012-12-07"
+last_updated: "2013-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "BCN"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2012.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 7 DE DICIEMBRE DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2013.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -2347,7 +2345,7 @@ Querella.- El delito previsto en este capítulo solamente se perseguirá a petic
 
 ### CAPITULO II. SUSTRACCION DE MENORES O INCAPACES
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2013)</small>
 
 ###### Artículo 218.
 
@@ -2445,7 +2443,7 @@ Requisitos de procedibilidad.- Los delitos a que se refiere el presente capítul
 
 ### CAPITULO III. TRAFICO DE MENORES
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2013)</small>
 
 ###### Artículo 224.
 
@@ -2747,29 +2745,45 @@ El delito previsto en este artículo se perseguirá por querella de parte ofendi
 
 ###### Artículo 237.
 
-Tipo y punibilidad.- Al que sin tener relación familiar o de parentesco sustraiga a un menor de doce años o a un incapaz, sin el consentimiento de quien legítimamente tenga su custodia o guarda, o lo retenga con, la finalidad de violar derechos de familia, se le impondrá prisión de cuatro a diez años.
+Tipo y punibilidad.- Al que sin tener relación familiar o de parentesco sustraiga a un menor de 18 años de edad o a un incapaz, sin el consentimiento de quien legítimamente tenga su custodia o guarda, o lo retenga con la finalidad de violar derechos de familia, se le impondrá prisión de cinco a diez años.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
 Cuando el delito lo cometa un familiar del menor que no ejerza sobre él la patria potestad ni la tutela, la prisión será de uno a tres años.
 
-Si el agente devuelve al menor o incapaz espontáneamente, dentro de los cinco días siguientes a la consumación del delito, se le aplicará una tercera parte de las penas arriba señaladas.
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2013)</small>
+
+Si el agente devuelve al menor o incapaz espontáneamente, dentro de las cuarenta y ocho horas siguientes a la consumación del delito, se le aplicará una tercera parte de las penas arriba señaladas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2013)</small>
+
+Artículo 237 BIS.- Al padre o la madre que sustraiga a su hijo menor de 18 años o incapaz, respecto del cual no ejerza la patria potestad o la custodia, privando de este derecho a quien legítimamente lo tenga, se le impondrá una pena de uno a tres años de prisión y multa de doscientos a quinientos salarios mínimos.
+
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2013)</small>
+
+Si el agente devuelve al menor o incapaz espontáneamente, dentro de las cuarenta y ocho horas siguientes a la consumación del delito, se le aplicará una tercera parte de las penas señaladas.
 
 > <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2007)</small>
-
-Artículo 237 BIS.- Al padre o la madre que sustraiga a su hijo menor de doce años de edad o incapaz, respecto del cual no ejerza la patria potestad o la custodia, privando de este derecho a quien legítimamente lo tenga, se le impondrá una pena de uno a tres años de prisión y multa de cien a quinientos salarios mínimos.
-
-Si el agente devuelve al menor o incapaz espontáneamente, dentro de los cinco días siguientes a la consumación del delito, se le aplicará una tercera parte de las penas señaladas.
 
 Además de las penas señaladas, se privará de los derechos de la patria potestad, tutela o custodia, así como de los derechos de familia, en su caso, a quienes teniendo el ejercicio de éstos en relación con el ofendido, cometa el delito a que se refiere el presente artículo.
 
-> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2013)</small>
 
-Artículo 237 TER.- Las mismas penas señaladas en el artículo anterior, se impondrán al padre o la madre que retenga a su hijo menor de doce años de edad o incapaz, con el fin de:
+Artículo 237 TER.- Las mismas penas señaladas en el artículo anterior, se impondrán al padre o la madre que retenga a su hijo menor de 18 años de edad o incapaz, con el fin de:
+
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2007)</small>
 
 I.- Impedir que el otro ascendiente ejerza el derecho a convivir con su hijo menor de edad o incapaz en los términos decretado por resolución o convenio judicial.
 
+> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2007)</small>
+
 II.- Impedir la guarda y custodia compartida en los términos de la resolución o convenio judicial.
 
-Si el agente devuelve al menor o incapaz espontáneamente, dentro de los cinco días siguientes a la consumación del delito, se le aplicará una tercera parte de las penas arriba señaladas.
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2013)</small>
+
+Si el agente devuelve al menor o incapaz espontáneamente, dentro de las cuarenta y ocho horas siguientes a la consumación del delito, se le aplicará una tercera parte de las penas arriba señaladas.
+
+> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2007)</small>
 
 Además de las penas señaladas, se privará de los derechos de la patria potestad, tutela o custodia, así como de los derechos de familia, en su caso, a quienes teniendo el ejercicio de éstos en relación con el ofendido, cometa el delito a que se refiere el presente artículo.
 
@@ -2785,15 +2799,25 @@ Artículo 237 QUATER.- Persecución oficiosa.- El delito de sustracción de meno
 
 ###### Artículo 238.
 
-Tipo y punibilidad.- Al que con el consentimiento de un ascendiente que ejerza la patria potestad o de quien tenga a su cargo la custodia de un menor, aunque ésta no haya sido declarada, ilegítimamente lo entregue a un tercero para su custodia definitiva a cambio de un beneficio económico, se le aplicará prisión de cuatro a doce años y de cien a quinientos días multa.
+Tipo y punibilidad.- Al que con el consentimiento de un ascendiente que ejerza la patria potestad o de quien tenga a su cargo la custodia de un menor de 18 años, aunque ésta no haya sido declarada, ilegítimamente lo entregue a un tercero para su custodia definitiva, a cambio de un beneficio económico, se le aplicará prisión de cinco a doce años y de doscientos a quinientos días multa.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
 Las mismas penas se aplicarán a los que otorguen el consentimiento a que se refiere este artículo y al tercero que reciba al menor.
 
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
 Si la entrega definitiva del menor se hace sin la finalidad de obtener un beneficio económico, la pena aplicable al que lo entregue será de uno a tres años de prisión.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
 Si se acredita que quien recibió al menor lo hizo para incorporarlo a su núcleo familiar y otorgarle los beneficios propios de tal incorporación, la pena aplicable será de seis meses a un año de prisión y hasta cien días multa.
 
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
+
 Cuando en la comisión del delito no exista el consentimiento a que se refiere el párrafo inicial, la pena se aumentará hasta el doble de las previstas en aquél.
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
 Además de las penas señaladas, se privará de los derechos de la patria potestad, tutela o custodia, así como de los derechos de familia, en su caso, a quienes teniendo el ejercicio de éstos en relación con el ofendido, cometa el delito a que se refiere el presente artículo.
 
@@ -4940,3 +4964,7 @@ DECRETO No. 336, POR EL QUE SE APRUEBA LA REFORMA AL ARTÍCULO 201 DEL CÓDIGO P
 PRIMERO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se procesarán bajo las disposiciones contenidas por el Artículo 201 únicamente aquellos delitos que se comentan a partir de la entrada en vigencia del referido numeral.
+
+P.O. 8 DE MARZO DE 2013.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
