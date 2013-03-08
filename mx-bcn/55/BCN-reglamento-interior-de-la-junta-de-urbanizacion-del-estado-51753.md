@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-de-la-junta-de-urbanizacion-del-estado-5175
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-09-01"
-last_updated: "2011-03-25"
+last_updated: "2013-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCN"
 ---
 # REGLAMENTO INTERIOR DE LA JUNTA DE URBANIZACION DEL ESTADO
 
-REGLAMENTO INTERIOR DE LA JUNTA DE URBANIZACION DEL ESTADO DE BAJA CALIFORNIA
+REGLAMENTO INTERIOR DE LA JUNTA DE URBANIZACIÓN DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MARZO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 1 de septiembre de 2006.
 
@@ -251,7 +251,7 @@ b. Departamento Jurídico; y
 
 c. Unidad de Contraloría Interna.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MARZO DE 2011)</small>
 
 ###### Artículo 22.
 
@@ -301,7 +301,7 @@ XI. Promover la protocolización notarial de actos relativos a las facultades de
 
 XII. Las demás atribuciones que le confiera el Director General y las disposiciones aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MARZO DE 2011)</small>
 
 ###### Artículo 24.
 
@@ -441,9 +441,73 @@ III. Realizar los trabajos concernientes a las estimaciones, desde su recepción
 
 IV. Verificar que las obras que se ejecuten cumplan con el proyecto, lineamientos, normas generales de control de calidad y especificaciones con las que fueron contratadas por la Junta;
 
-V. Participar en las juntas de coordinación con diferentes autoridades y organismos que intervienen en la realización de las obras que realice la Junta; y,
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2013)</small>
 
-VI. Las demás atribuciones que le confieran el superior inmediato y las disposiciones aplicables.
+V. Revisar la factibilidad de las propuestas de obras a ejecutar por el organismo en la zona costa, para evaluar las áreas donde se ejecutarán las obras de acuerdo a las prioridades de las zonas;
+
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2013)</small>
+
+VI. Coordinar a los promotores para la entrega de acuerdos de aprobación en diferentes áreas de la zona costa;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE MARZO DE 2013)</small>
+
+VII. Coordinar con el área de Participación Ciudadana y los comités de obra, la generación de un padrón de asistentes beneficiados por las obras, así como sus requerimientos adicionales en el área de la misma;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE MARZO DE 2013)</small>
+
+VIII. Coordinar con el área de Obras y Proyectos una vez alcanzado el porcentaje, el arranque de las obras para avisar a los vecinos en tiempo y forma;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE MARZO DE 2013)</small>
+
+IX. Coordinar con el área de Participación Ciudadana la conformación de los expedientes adjuntando la documentación necesaria de acreditación de beneficiarios de las obras para elaborar los acuerdos de aprobación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE MARZO DE 2013)</small>
+
+X. Atender y canalizar al área de Recaudación a los beneficiados de las obras para que puedan ser sujetos de los apoyos con los que cuenta como los estudios socioeconómicos, descuentos, plazos y solicitudes para otorgar descuentos a adultos mayores o el incremento en los plazos de pago para los beneficiados por las obras;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE MARZO DE 2013)</small>
+
+XI. Coordinar los operativos de traslado de la caja móvil a las colonias con el área de Recaudación en la Coordinación de Recuperación de Cartera y con los comités de obra;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE MARZO DE 2013)</small>
+
+XII. Informar en la reunión de vecinos en coordinación con el área de Obras de la zona, los cuidados que los ejecutores de la obra y los beneficiarios de la misma deben tener al realizarse la obra, así como difundir y explicar las obligaciones y derechos previstos en las disposiciones aplicables;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE MARZO DE 2013)</small>
+
+XIII. Canalizar y atender las quejas de los beneficiados de las obras para dar seguimiento oportuno;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE MARZO DE 2013)</small>
+
+XIV. Integrar los reportes sobre los avances en los procesos de aprobación de las obras en coordinación con las áreas de Recaudación, Participación Ciudadana y de Obras y Proyectos para su entrega semanal y mensual al Director General;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE MARZO DE 2013)</small>
+
+XV. Coordinarse con las dependencias que corresponda, en todos los aspectos que se relacionen con los procesos de aprobación de recursos y cierre programático y presupuestal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE MARZO DE 2013)</small>
+
+XVI. Actualizar en el Sistema de Inversión Pública los avances físicos de los proyectos y obras aprobados a la Junta de Urbanización en la zona costa;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE MARZO DE 2013)</small>
+
+XVII. Coordinar la elaboración de acuerdos de aprobación con la Coordinación de Derramas y validar los proyectos concluidos que elabore el organismo de las obras;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE MARZO DE 2013)</small>
+
+XVIII. Dar seguimiento a la ejecución de los proyectos de las obras y coordinar todos los trabajos que se realizan en la zona costa relacionados con los supervisores de obra, contratistas, fichas técnicas, estimaciones, convenios de diferimiento y adicionales, así como realizar reportes semanales y mensuales en porcentaje de avance, tanto en el área de Obras y Proyectos, como con el área de Participación Ciudadana;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE MARZO DE 2013)</small>
+
+XIX. Integrar los informes mensuales y en su caso justificaciones del programa operativo anual de las acciones correspondientes a la zona costa;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE MARZO DE 2013)</small>
+
+XX. Participar en las juntas de coordinación con diferentes autoridades y organismos que intervienen en la realización de las obras que realice la Junta; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE MARZO DE 2013)</small>
+
+XXI. Las demás atribuciones que le confieran el superior inmediato y las disposiciones aplicables.
 
 #### SECCIÓN III. DE LA SUBDIRECCIÓN DE RECAUDACIÓN
 
@@ -499,7 +563,7 @@ Corresponde a la Coordinación de Participación Ciudadana la atención y trámi
 
 I. Implementar los procesos de participación ciudadana, en estricto apego a lo previsto en la Ley;
 
-II. Atender las peticiones de los beneficiarios de las obras y, en su caso, canalizarlas a la Subdirección de Recaudación o área de apoyo correspondiente;
+II. (DEROGADA, P.O. 8 DE MARZO DE 2013)
 
 III. Diseñar e instrumentar acciones de apoyo y mejoramiento en las áreas de participación social, para lograr ejecución de las obras que lleve a cabo la Junta; y,
 
@@ -785,10 +849,16 @@ SECRETARIO DE INFRAESTRUCTURA Y DESARROLLO URBANO
 
 ARTURO ESPINOZA JARAMILLO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 25 DE MARZO DE 2011.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- En tanto no se modifiquen los manuales administrativos de conformidad a este Decreto, el Director General de la Junta de Urbanización del Estado de Baja California, queda facultado para resolver los asuntos que conforme a dichos manuales se deban regular.
+
+P.O. 8 DE MARZO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- En tanto no se modifiquen los manuales administrativos de conformidad a este Reglamento, el Director General queda facultado para resolver los asuntos que conforme a dichos manuales se deban regular.
