@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2013-02-21"
+last_updated: "2013-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2013.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -1737,15 +1737,15 @@ El Poder Judicial del Estado, tendrá la obligación de proporcionar a los parti
 
 El Sistema de Justicia Indígena se ejercerá por las autoridades, de acuerdo con los usos y costumbres de los pueblos y comunidades indígenas, en los términos que disponga la ley de la materia.
 
-> <small>(REFORMADO, P.O. 2 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2013)</small>
 
 ###### ARTICULO 98.
 
-El Tribunal Superior de Justicia se integra por nueve Magistrados Numerarios y el número de Supernumerarios que determine la Ley Orgánica del Poder Judicial.
+El Tribunal Superior de Justicia se integra por nueve magistrados numerarios y el número de supernumerarios que determine la Ley Orgánica del Poder Judicial.
 
-El Pleno del Tribunal se integrará solamente con los Magistrados Numerarios, con la excepción señalada en el párrafo tercero del Artículo 110 y la salvedad de lo establecido en el primer párrafo del Artículo 99 de esta Constitución.
+El Pleno del Tribunal se integrará solamente con los magistrados numerarios, con la excepción señalada en el párrafo tercero del Artículo 110 y la salvedad de lo establecido en el primer párrafo del Artículo 99 de esta Constitución.
 
-Las Salas se organizarán por materia o por circuito, y se integrarán con tres Magistrados cada una, a excepción de la Sala Constitucional y Administrativa, la que se integrará con un Magistrado Numerario. Las Salas tendrán la competencia y jurisdicción que establezca la Ley Orgánica del Poder Judicial del Estado.
+Las salas se organizarán por materia o por circuito y se integrarán con tres magistrados cada una, a excepción de la Sala Constitucional y Administrativa, la que se integrará con un Magistrado Numerario. Las apelaciones en los Juicios de Oralidad Familiar, serán resueltas por los magistrados de número, con excepción del Magistrado que integra la Sala Constitucional y Administrativa, del Magistrado Consejero y del propio Presidente del Tribunal Superior de Justicia. Las Salas tendrán la competencia y jurisdicción que establezca la Ley Orgánica del Poder Judicial del Estado.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JULIO DE 2008)</small>
 
@@ -2369,7 +2369,7 @@ REFORMADA, P.O. 9 DE MARZO DE 2010)
 
 VI.- MUNICIPIO DE BENITO JUÁREZ, con cabecera en Cancún: Al Norte, partiendo de la costa del Mar Caribe, de acuerdo a la siguiente tabla:
 
-(VEASE ARCHIVO ANEXO)
+(VÉASE ARCHIVO ANEXO)
 
 Al Sur, el Municipio de Solidaridad y el Mar Caribe. Al Este, el Mar Caribe y al Oeste, el Municipio de Lázaro Cárdenas. Quedan en su jurisdicción la Isla de Cancún y Cayos adyacentes.
 
@@ -3889,19 +3889,19 @@ P.O. 17 DE DICIEMBRE DE 2007.
 
 P.O. 18 DE MARZO DE 2008.
 
-DECRETO NUM. 292, POR EL QUE SE REFORMA EL PARRAFO CUARTO DEL ARTICULO 97 DE LA CONSTITUCION POLITICA DEL ESTADO.
+DECRETO NUM. 292, POR EL QUE SE REFORMA EL PÁRRAFO CUARTO DEL ARTÍCULO 97 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO.
 
 UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 P.O. 18 DE MARZO DE 2008.
 
-DECRETO NUM. 293, POR EL QUE SE REFORMA LA FRACCION I DEL ARTICULO 80 DE LA CONSTITUCION POLITICA DEL ESTADO.
+DECRETO NUM. 293, POR EL QUE SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 80 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO.
 
 UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roa.
 
 P.O. 19 DE MAYO DE 2008.
 
-DECRETO NUM. 008, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTICULOS 127, 128, 134 Y 135 DE LA CONSTITUCION POLITICA DEL ESTADO DE QUINTANA ROO.
+DECRETO NUM. 008, POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 127, 128, 134 Y 135 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUINTANA ROO.
 
 PRIMERO.- El presente Decreto entrará en vigor a los diez días de su publicación en el Periódico Oficial del Estado de Quintana Roo y se observarán las previsiones contenidas en los artículos siguientes:
 
@@ -3947,7 +3947,7 @@ DÉCIMO.- Los Programas de Desarrollo Urbano y los proyectos de inversión para 
 
 P.O. 19 DE MAYO DE 2008.
 
-DECRETO NUM. 009, POR EL QUE SE ADICIONAN EL ARTICULO 21 DE LA CONSTITUCION POLITICA DEL ESTADO DE QUINTANA ROO.
+DECRETO NUM. 009, POR EL QUE SE ADICIONAN EL ARTÍCULO 21 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUINTANA ROO.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
@@ -4290,5 +4290,9 @@ P.O. 29 DE ENERO DE 2013.
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 P.O. 21 DE FEBRERO DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 8 DE MARZO DE 2013.
 
 ÚNICO.- El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
