@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-ejecucion-de-penas-y-medidas-judiciales-para-el-76984"
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-08"
-last_updated: "2011-07-01"
+last_updated: "2013-03-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76984&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCN"
 ---
 # LEY DE EJECUCION DE PENAS Y MEDIDAS JUDICIALES PARA EL ESTADO DE BAJA CALIFORNIA
 
-LA LEY DE EJECUCION DE PENAS Y MEDIDAS JUDICIALES PARA EL ESTADO DE BAJA CALIFORNIA
+LA LEY DE EJECUCIÓN DE PENAS Y MEDIDAS JUDICIALES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2013.
 
 Ley publicada en la Sección I al Periódico Oficial del Estado de Baja California, el viernes 8 de octubre de 2010.
 
@@ -821,7 +821,7 @@ En los casos de beneficios de libertad anticipada señalados en la fracción II 
 
 Tratándose de las facultades del Juez de Ejecución que se contienen en las otras fracciones del artículo 112, se atenderá lo dispuesto en el párrafo anterior en lo que resulte aplicable.
 
-> <small>(REFORMADO PRIMER PARRAFO [N. DE E. REPUBLICADO], P.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 112.
 
@@ -843,7 +843,7 @@ VI. Notificar a la Dirección de Ejecución, de todas las resoluciones en materi
 
 VII. Las demás atribuciones que esta Ley y otros ordenamientos le asignen.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 113.
 
@@ -945,9 +945,17 @@ II.- Tratándose de penas distintas a la privativa de la libertad, remitir copia
 
 La pena privativa de la libertad será compurgada en los Centros que designe el Ejecutivo del Estado por conducto de la Subsecretaría.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2013)</small>
+
 ###### ARTÍCULO 128.
 
-El sitio para el cumplimiento de las penas privativas de la libertad será distinto y completamente separado de aquél destinado a la prisión preventiva. Las mujeres quedarán recluidas en lugares separados de los destinados para hombres.
+El sitio para el cumplimiento de las penas privativas de la libertad será distinto y completamente separado de aquél destinado a la prisión preventiva.
+
+Las mujeres estarán recluidas en lugares separados de los destinados para los hombres, estos lugares deberán contar con la infraestructura, información y personal capacitado para el cuidado de sus menores hijos que permanezcan con ellas, así como para el desarrollo pleno de sus actividades.
+
+Los menores hijos dispondrán de los espacios que aseguren su desarrollo integral, incluyendo los servicios de alimentación, salud y educación, hasta los seis años de edad, cuando así lo determine el personal capacitado, con opinión de la madre y considerando el interés superior del menor.
 
 ###### ARTÍCULO 129.
 
@@ -1047,7 +1055,7 @@ La suspensión condicional de la ejecución de la pena, así como la sustitució
 
 Ante el incumplimiento de las obligaciones y condiciones impuestas en la sentencia, en los casos previstos en el artículo anterior, se estará a lo dispuesto en el Código Penal para el Estado de Baja California.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 144.
 
@@ -1117,7 +1125,7 @@ IV.- Sujetarse a las medidas de orientación y supervisión que se le fijen, y a
 
 La Dirección de Ejecución y el Director, revisarán, de oficio o a petición de parte, periódicamente los expedientes y solicitarán al Consejo Técnico emita el dictamen correspondiente de quienes hayan cumplido, o estén próximos a cumplir, las tres quintas partes de su condena.
 
-> <small>(REFORMADO PRIMER PARRAFO [N. DE E. REPUBLICADO], P.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 1 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 150.
 
@@ -1381,8 +1389,12 @@ CUAUHTÉMOC CARDONA BENAVIDES
 
 SECRETARIO GENERAL DE GOBIERNO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 1 DE JULIO DE 2011.
 
 ÚNICO.- Las presentes reformas entrarán en vigor el día de su publicación en el periódico Oficial de Estado.
+
+P.O. 8 DE MARZO DE 2013.
+
+ÚNICO.- La presente reforma entrará en vigor el día primero de enero del año dos mil catorce.
