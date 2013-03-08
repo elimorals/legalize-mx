@@ -4,7 +4,7 @@ identifier: "PUE-constitucion-politica-del-estado-libre-y-soberano-de-puebla-751
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-02"
-last_updated: "2013-01-09"
+last_updated: "2013-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "PUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEXTO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 28 DE NOVIEMBRE DE 2012, LAS REFERENCIAS QUE A LA ENTRADA EN VIGOR DE ESTE DECRETO SE HAGAN EN TODO INSTRUMENTO LEGAL, JURÍDICO O ADMINISTRATIVO Y NORMA EN SENTIDO FORMAL O MATERIAL AL ÓRGANO DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE PUEBLA Y A SU TITULAR, RESPECTIVAMENTE; SE ENTENDERÁN HECHAS A LA AUDITORÍA SUPERIOR DEL ESTADO DE PUEBLA Y A SU RESPECTIVO TITULAR.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2013.
 
 Constitución publicada en el Periódico Oficial del Estado de Puebla, el martes 2 de octubre de 1917.
 
@@ -34,6 +32,8 @@ ALFONSO CABRERA, Gobernador Constitucional del Estado Libre y Soberano de Puebla
 S A B E D :
 
 Que la Legislatura del Estado ha decretado lo siguiente:
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEXTO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 28 DE NOVIEMBRE DE 2012, LAS REFERENCIAS QUE A LA ENTRADA EN VIGOR DE ESTE DECRETO SE HAGAN EN TODO INSTRUMENTO LEGAL, JURÍDICO O ADMINISTRATIVO Y NORMA EN SENTIDO FORMAL O MATERIAL AL ÓRGANO DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE PUEBLA Y A SU TITULAR, RESPECTIVAMENTE; SE ENTENDERÁN HECHAS A LA AUDITORÍA SUPERIOR DEL ESTADO DE PUEBLA Y A SU RESPECTIVO TITULAR.</small>
 
 CONSTITUCION POLITICA DEL ESTADO L. y S. de Puebla
 
@@ -1873,13 +1873,21 @@ El Plan Estatal de Desarrollo considerará los principios del desarrollo sustent
 
 Los recursos económicos de que dispongan el Estado, los Municipios y sus entidades, así como los organismos autónomos, se administrarán con eficiencia, eficacia, economía, transparencia y honradez, para satisfacer los objetivos a que estén destinados.
 
-(REFORMADO, P.O. 17 DE DICIEMBRE DE 2001) (REPUBLICADO, P.O. 20 DE FEBRERO DE 2002)
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2013)</small>
+
+Los resultados del ejercicio de dichos recursos serán evaluados por las instancias técnicas que establezcan respectivamente, los Poderes, organismos autónomos y Municipios, con el objeto de propiciar que los recursos económicos se asignen en los respectivos presupuestos en los términos del párrafo anterior. Lo anterior sin menoscabo de lo dispuesto en los artículos 113 fracción IV y 114 de esta Constitución.
+
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2013)</small>
 
 Las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, la prestación de servicios de cualquier naturaleza y la contratación de obra que realicen, se adjudicarán o llevarán a cabo, por regla general, a través de licitaciones públicas mediante convocatoria abierta, para que libremente se presenten proposiciones solventes en pliego o sobre cerrado, que será abierto públicamente, con el fin de procurar imparcialidad a los licitantes y asegurar al Estado y a los Municipios las mejores condiciones disponibles en cuanto a oferta, precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes.
 
-(REFORMADO, P.O. 17 DE DICIEMBRE DE 2001) (REPUBLICADO, P.O. 20 DE FEBRERO DE 2002)
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2013)</small>
 
 Las leyes limitarán los supuestos de excepción a las licitaciones públicas, establecerán las bases, procedimientos, reglas, requisitos y demás elementos idóneos para acreditar la economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado y los Municipios, y determinarán la responsabilidad de los servidores públicos que intervengan en cualquier acto de adjudicación y contratación.
+
+> <small>(ADICIONADO, P.O. 8 DE MARZO DE 2013)</small>
+
+El manejo de los recursos federales y estatales por los Poderes, organismos autónomos, Municipios y sus entidades, se sujetará a lo dispuesto por este artículo y a las leyes de la materia. La evaluación sobre el ejercicio de dichos recursos se realizará por las instancias técnicas a que se refiere el párrafo segundo de este artículo.
 
 ### CAPITULO II. DE LA HACIENDA PUBLICA
 
@@ -3060,5 +3068,13 @@ P.O. 9 DE ENERO DE 2013.
 PRIMERO.- El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que estas reformas han sido aprobadas en términos de las disposiciones constitucionales aplicables y forman parte de la Constitución Política del Estado Libre y Soberano de Puebla.
 
 SEGUNDO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado y no aplicará para el proceso electoral que inició en la segunda semana de noviembre del año dos mil doce.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE MARZO DE 2013.
+
+PRIMERO.- El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que estas reformas y adiciones han sido aprobadas en términos de las disposiciones constitucionales aplicables y forma parte de la Constitución Política del Estado Libre y Soberano de Puebla.
+
+SEGUNDO.- El Presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
