@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-de-la-administracion-publica-del-estado-de-17112"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-09-08"
-last_updated: "2011-12-19"
+last_updated: "2013-03-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17112&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 8 de septiembre de 2000.
 
@@ -145,9 +145,9 @@ II.- Secretaría de Planeación y Desarrollo Regional;
 
 III.- Secretaría de Hacienda;
 
-> <small>(REFORMADA, P.O. 15 DE MARZO DE 2011)</small>
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2013)</small>
 
-IV.- Secretaría de Desarrollo Urbano;
+IV.- Secretaría de Desarrollo Urbano y Vivienda;
 
 V.- Secretaría de Desarrollo Económico;
 
@@ -173,19 +173,19 @@ XII. Oficialía Mayor;
 
 XIII. Procuraduría General de Justicia del Estado;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
 XIV. Secretaría de Infraestructura y Transporte;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
 XV. Secretaría de Seguridad Pública; y (sic)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
@@ -339,23 +339,23 @@ XV. Intervenir y colaborar, en su caso, de manera coordinada con las autoridades
 
 XVI. Formular, normar, coordinar y vigilar las políticas de apoyo a la participación de la mujer en los diversos ámbitos del desarrollo, así como propiciar la coordinación interinstitucional para la realización de programas específicos, vinculados con la política interior del Estado;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 XVII. (DEROGADA, P.O. 12 DE DICIEMBRE DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 XVIII. (DEROGADA, P.O. 12 DE DICIEMBRE DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 XIX. (DEROGADA, P.O. 12 DE DICIEMBRE DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 XX. (DEROGADA, P.O. 12 DE DICIEMBRE DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 XXI. (DEROGADA, P.O. 12 DE DICIEMBRE DE 2008)
 
@@ -377,9 +377,9 @@ XXVIII. (DEROGADA, P.O. 17 DE MARZO DE 2005)
 
 XXIX. (DEROGADA, P.O. 17 DE MARZO DE 2005)
 
-> <small>(REFORMADA, P.O. 15 DE MARZO DE 2011)</small>
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2013)</small>
 
-XXX. Participar con la Secretaría de Desarrollo Urbano, en la formulación de recomendaciones vinculadas con sus atribuciones en la planeación, el transporte de pasajeros y carga, de los proyectos y en el seguimiento al proceso de ejecución de las mismas;
+XXX. Participar con la Secretaría de Desarrollo Urbano y Vivienda, en la formulación de recomendaciones vinculadas con sus atribuciones en la planeación, el transporte de pasajeros y carga, de los proyectos y en el seguimiento al proceso de ejecución de las mismas;
 
 XXXI. Atender los asuntos de política interior vinculados con la observancia y aplicación de la Ley de Tránsito, Transporte y Explotación de Vías y Carreteras del Estado y su Reglamento, en lo concerniente a la vialidad y al transporte de carga y de pasajeros;
 
@@ -559,53 +559,97 @@ XXV. Intervenir en la autorización de contratos y convenios en los que se afect
 
 XXVI. Las demás que le encomienden expresamente las leyes y reglamentos;
 
-> <small>(REFORMADO, P.O. 15 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MARZO DE 2013)</small>
 
 ###### ARTICULO 34.
 
-A la Secretaría de Desarrollo Urbano le corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Desarrollo Urbano y Vivienda le corresponde el despacho de los siguientes asuntos:
+
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2011)</small>
 
 I. Formular, instrumentar, conducir y evaluar, de manera coordinada con la Secretaría de Ecología y Medio Ambiente, las políticas y programas sectoriales de ordenamiento territorial y desarrollo urbano, en congruencia con el Plan Estatal de Desarrollo y con base en las disposiciones constitucionales y legales, y las normas y lineamientos que determine el Ejecutivo del Estado, sin perjuicio de las competencias que correspondan a la Federación o a los municipios de la entidad;
 
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2011)</small>
+
 II. Concertar, coordinar, instrumentar y evaluar la ejecución de los programas de ordenamiento territorial, desarrollo urbano, asentamientos humanos, vivienda, agua potable y saneamiento, en coordinación con las dependencias y entidades de la Administración Pública del Estado, respetando las competencias de los municipios;
+
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2011)</small>
 
 III. Promover y vigilar en coordinación con los Ayuntamientos del Estado, el ordenamiento territorial y el desarrollo equilibrado de los asentamientos humanos del Estado;
 
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2011)</small>
+
 IV. Promover y ejecutar las acciones tendientes al mejoramiento urbano de las zonas marginadas;
+
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2011)</small>
 
 V. Coadyuvar con los municipios en la formulación de sus planes, programas y normas técnicas, relacionadas con el ordenamiento territorial, el desarrollo urbano y la vivienda;
 
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2011)</small>
+
 VI. Promover y vigilar, en coordinación con los municipios correspondientes, que el desarrollo y equipamiento urbano de las diversas comunidades y centros de población del Estado, guarden congruencia con las previsiones y planes respectivos;
+
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2011)</small>
 
 VII. Promover, proponer, conducir y evaluar la realización de los programas de desarrollo urbano, vivienda y los relacionados con los servicios de agua potable y saneamiento en coordinación con los gobiernos municipales e instituciones públicas competentes;
 
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2011)</small>
+
 VIII. Determinar en los períodos que señalen las disposiciones legales, las características de la propiedad raíz en el Estado en coordinación con la Secretaría de Hacienda y establecer los métodos para darle el valor más cercano al real, de acuerdo a esas características. En su caso, proporcionar la información resultante a los municipios, para determinar los avalúos de los predios dentro de su jurisdicción;
+
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2011)</small>
 
 IX. Establecer y vigilar el cumplimiento de los programas relacionados con las reservas territoriales en el Estado, con la participación que corresponda al Instituto del Patrimonio Inmobiliario de la Administración Pública del Estado;
 
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2011)</small>
+
 X. Expedir las licencias, constancias y autorizaciones que en materia de fraccionamientos, desarrollo urbano y asentamientos humanos establezcan las disposiciones legales aplicables;
+
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2011)</small>
 
 XI. Elaborar los anteproyectos de decretos de expropiación, ocupación temporal y limitación de dominio, en los casos de utilidad pública en materia de desarrollo urbano y promoverlos para su aprobación y posterior promulgación ante la Secretaría de Gobierno;
 
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2011)</small>
+
 XII. Promover estudios para el mejoramiento del ordenamiento territorial, de los asentamientos humanos y del desarrollo urbano y la vivienda en la Entidad e impulsar proyectos para su financiamiento;
+
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2011)</small>
 
 XIII. Aplicar las sanciones previstas en las disposiciones legales en las materias de su competencia; dar seguimiento a la aplicación de las que correspondan a otras autoridades, y resolver los recursos y quejas que formulen los particulares de conformidad con las disposiciones aplicables;
 
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2011)</small>
+
 XIV. Participar de manera conjunta con los gobiernos estatales y municipales, en la ordenación y regulación de centros de población del territorio estatal, que constituyan o tiendan a constituir una conurbación con centros de población ubicados en el territorio de un Estado vecino;
+
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2011)</small>
 
 XV. Proponer criterios y acciones para la regulación y mejoramiento de los asentamientos humanos;
 
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2011)</small>
+
 XVI. Coadyuvar con los Gobiernos Federal y Municipal, en el sistema tendiente a satisfacer las necesidades de tierra para vivienda y para el desarrollo urbano;
+
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2011)</small>
 
 XVII. Coadyuvar en la vigilancia del cumplimiento de las declaraciones de usos, destinos, reservas y provisiones de predios que se expidan en el Estado, en coordinación con las autoridades competentes;
 
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2011)</small>
+
 XVIII. Programar de manera coordinada con las autoridades federales, estatales y municipales competentes, la inversión pública y la realización de acciones de desarrollo urbano que se ejecuten en la Entidad y evaluar sus resultados;
+
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2011)</small>
 
 XIX. Promover, formular y presentar de manera coordinada con la Secretaría de Cultura y autoridades municipales, proyectos de rescate de edificaciones con valor arquitectónico y urbano en los centros históricos de las localidades del Estado;
 
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2011)</small>
+
 XX. Supervisar y vigilar de manera coordinada con la Secretaría de Ecología y Medio Ambiente, que la preservación ecológica constituya una línea conductora de la programación del desarrollo urbano y regional;
 
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2011)</small>
+
 XXI. Vigilar de manera conjunta con las demás autoridades competentes, el cumplimiento de las normas oficiales mexicanas aplicables al desarrollo urbano; y
+
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2011)</small>
 
 XXII. Las demás que le encomienden expresamente las leyes y reglamentos.
 
@@ -697,7 +741,9 @@ XVI. Fomentar y conducir estudios, trabajos y servicios meteorológicos del Esta
 
 XVII. Formular, actualizar, ejecutar y hacer valer el Programa de Ordenamiento Ecológico del Estado, programas regionales y locales con la participación de los municipios;
 
-XVIII. Regular y fomentar, en coordinación con la Secretaría de Desarrollo Urbano, las actividades de minimización, recolección, tratamiento y disposición final de desechos sólidos, establecer los sitios destinados a la disposición final, restaurar sitios contaminados, así como definir los sistemas de reciclamiento y tratamiento de aguas residuales y residuos sólidos;
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2013)</small>
+
+XVIII. Regular y fomentar, en coordinación con la Secretaría de Desarrollo Urbano y Vivienda, las actividades de minimización, recolección, tratamiento y disposición final de desechos sólidos, establecer los sitios destinados a la disposición final, restaurar sitios contaminados, así como definir los sistemas de reciclamiento y tratamiento de aguas residuales y residuos sólidos;
 
 XIX. Promover y fomentar el desarrollo y uso de energías, tecnologías y combustibles alternativos, así como la investigación ambiental;
 
@@ -719,7 +765,7 @@ XXVI. Autorizar el establecimiento de Coordinaciones de la Procuraduría de Prot
 
 XXVII. Las demás que le encomienden expresamente las leyes y reglamentos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
@@ -799,7 +845,7 @@ XXXV.- Proponer y establecer el marco de actuación y normatividad de los centro
 
 XXXVI.- Las demás que le atribuyan expresamente las Leyes y Reglamentos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
@@ -969,7 +1015,7 @@ XXXVII. Cooperar y apoyar, con las dependencias y autoridades federales y munici
 
 XXXVIII. Las demás que le encomienden expresamente las leyes y reglamentos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2007)</small>
 
 ###### ARTICULO 37.
 
@@ -1561,7 +1607,7 @@ Para resolver los conflictos que se presenten en las relaciones laborales entre 
 
 La Junta Local de Conciliación y Arbitraje es un Tribunal Administrativo con plena autonomía jurisdiccional, que imparte la justicia laboral en los términos de la competencia que le atribuye el Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, la Ley Federal del Trabajo y demás disposiciones aplicables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
@@ -1609,7 +1655,7 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. JOSE N. IRABIEN MEDINA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 15 DE FEBRERO DE 2002.
 
@@ -1774,3 +1820,7 @@ Los traspasos que por motivo de este Decreto deban realizarse de una dependencia
 ###### ARTICULO CUARTO.
 
 Se derogan y quedan sin efecto todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 8 DE MARZO DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
