@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-procuraduria-general-de-justicia-del-71067"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-11-13"
-last_updated: "2013-01-25"
+last_updated: "2013-03-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71067&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2013.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 13 de noviembre de 2009.
 
@@ -323,13 +323,21 @@ XVII.- Coadyuvar en la definición y aplicación de la política criminal del Es
 
 XVIII.- Conceder audiencias al público que lo solicite para tratar asuntos relativos a la procuración de justicia.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2013)</small>
 
-XIX.- Promover y encabezar de manera conjunta con el Procurador para la Defensa de los Menores y la Familia, en coordinación con las autoridades federales, estatales y municipales correspondientes, la implementación de programas, mecanismos y protocolos de seguridad en la búsqueda de menores desaparecidos, solicitando la participación de la sociedad y de los medios masivos de comunicación, para la atención de este tipo de casos; y
+XIX.- Promover y encabezar de manera conjunta con el Procurador para la Defensa de los Menores y la Familia, en coordinación con las autoridades federales, estatales y municipales correspondientes, la implementación de programas, mecanismos y protocolos de seguridad en la búsqueda de menores desaparecidos, solicitando la participación de la sociedad y de los medios masivos de comunicación, para la atención de este tipo de casos;
 
-> <small>(ADICIONADA [REFORMADA], P.O. 28 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 8 DE MARZO DE 2013)</small>
 
-XX.- Las demás que le encomiende el Gobernador del Estado, así como las que establezcan las leyes y reglamentos.
+XX. Publicitar en cualquier medio de comunicación, principalmente en su portal de internet, los datos generales de las personas reportadas como desaparecidas, con el objeto de que la población se encuentre en posibilidades de aportar cualquier tipo de información o indicio que permita localizar su paradero. La información a que se refiere la presente fracción deberá actualizarse de manera permanente;
+
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2013)</small>
+
+XXI.- Impulsar la colaboración de los Poderes y Ayuntamientos del Estado; organismos autónomos, así como del sector privado, para que dentro de sus respectivos portales de internet difundan los datos generales de las personas reportadas como desaparecidas, que para tal efecto proporcione la Procuraduría, con el fin de lograr un efecto multiplicador en la divulgación de la información a que se refiere la fracción anterior; y
+
+> <small>(ADICIONADA, P.O. 8 DE MARZO DE 2013)</small>
+
+XXII.- Las demás que le encomiende el Gobernador del Estado, así como las que establezcan las leyes y reglamentos.
 
 ###### ARTÍCULO 16.
 
@@ -557,17 +565,17 @@ b) La remoción.
 
 La separación del servicio de carrera de procuración de justicia, por el incumplimiento de los requisitos de permanencia, se realizará como sigue:
 
-I. El superior jerárquico deberá presentar queja fundada y motivada ante la Visitaduría General, en la cual deberá señalar el requisito de permanencia que presuntamente haya sido incumplido por el miembro del servicio de carrera de procuración de justicia de que se trate; en el escrito de queja ofrecerá las pruebas y, en su caso, indicará los nombres de testigos y peritos y señalarán los archivos para la compulsa de aquellos documentos que no tuviere en su poder;
+I.- El superior jerárquico deberá presentar queja fundada y motivada ante la Visitaduría General, en la cual deberá señalar el requisito de permanencia que presuntamente haya sido incumplido por el miembro del servicio de carrera de procuración de justicia de que se trate; en el escrito de queja ofrecerá las pruebas y, en su caso, indicará los nombres de testigos y peritos y señalarán los archivos para la compulsa de aquellos documentos que no tuviere en su poder;
 
-II. La Visitaduría General notificará la queja al miembro del servicio de carrera de procuración de justicia de que se trate y lo citará a una audiencia para que manifieste lo que a su derecho convenga y ofrezca pruebas, indicando los nombres de testigos y peritos y señalando los archivos para la compulsa de aquellos documentos que no tuviere en su poder. La Visitaduría General señalará fecha para que tenga verificativo la audiencia de desahogo de pruebas y alegatos;
+II.- La Visitaduría General notificará la queja al miembro del servicio de carrera de procuración de justicia de que se trate y lo citará a una audiencia para que manifieste lo que a su derecho convenga y ofrezca pruebas, indicando los nombres de testigos y peritos y señalando los archivos para la compulsa de aquellos documentos que no tuviere en su poder. La Visitaduría General señalará fecha para que tenga verificativo la audiencia de desahogo de pruebas y alegatos;
 
-III. La Visitaduría General podrá suspender al miembro del servicio de carrera de procuración de justicia hasta en tanto resuelva lo conducente;
+III.- La Visitaduría General podrá suspender al miembro del servicio de carrera de procuración de justicia hasta en tanto resuelva lo conducente;
 
-IV. Una vez celebrada la audiencia, agotadas las fases probatoria y de alegatos, la Visitaduría General resolverá sobre la queja respectiva, y
+IV.- Una vez celebrada la audiencia, agotadas las fases probatoria y de alegatos, la Visitaduría General resolverá sobre la queja respectiva, y
 
 Cuando se resuelva la separación del servicio de carrera, se procederá a la cancelación del certificado del servidor público, debiéndose hacer la anotación respectiva en el Registro Nacional de Personal de Seguridad Pública.
 
-V. Contra la resolución de la Visitaduría General procederá el recurso de inconformidad ante el Procurador, el cual se substanciará en los términos que disponga el Reglamento.
+V.- Contra la resolución de la Visitaduría General procederá el recurso de inconformidad ante el Procurador, el cual se substanciará en los términos que disponga el Reglamento.
 
 ###### ARTÍCULO 37.
 
@@ -798,3 +806,7 @@ P.O. 25 DE ENERO DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- Los dictámenes, certificaciones y constancias periciales y demás actuaciones que se hayan realizado con anterioridad a la abrogación de la Ley del Instituto de Ciencias Forenses del Estado de Baja California en auxilio y apoyo técnico del Instituto de Ciencias Forenses del Estado, tendrán plena validez jurídica.
+
+P.O. 8 DE MARZO DE 2013.
+
+ÚNICO: Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
