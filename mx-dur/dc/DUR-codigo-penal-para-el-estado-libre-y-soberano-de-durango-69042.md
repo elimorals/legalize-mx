@@ -4,7 +4,7 @@ identifier: "DUR-codigo-penal-para-el-estado-libre-y-soberano-de-durango-69042"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-06-14"
-last_updated: "2012-12-30"
+last_updated: "2013-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69042&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
 > <small>N. DE E. DE CONFORMIDAD CON LA FRACCIÓN II DEL ARTICULO SEGUNDO Y PRIMERO TRANSITORIO DEL DECRETO No. 420, POR EL QUE SE EXPIDE LA DECLARATORIA DE ADOPCIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO EN EL PRIMER DISTRITO JUDICIAL DEL ESTADO DE DURANGO, PUBLICADO EN EL P.O. DE 10 DE DICIEMBRE DE 2009, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EN EL PRIMER DISTRITO JUDICIAL DEL ESTADO DE DURANGO A PARTIR DE LAS CERO HORAS DEL DÍA 14 DE DICIEMBRE DE 2009.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2013.
+
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 10 DE MARZO DE 2013, NO APLICA AL ARTICULADO DEL DECRETO No. 470 PUBLICADO EN EL P.O. DE 10 DE MARZO DE 2013.</small>
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 14 de junio de 2009.
 
@@ -1679,7 +1681,7 @@ IV. El cuerpo de la víctima sea expuesto, depositado o arrojado en un lugar pú
 
 V. La víctima haya sido incomunicada sin ánimo de obtención de lucro, cualquiera que sea el tiempo previo a su fallecimiento.
 
-No comete feminicidio quien, en ejercicio de sus funciones como autoridad de la fuerza pública del Estado, prive de la vida a una mujer que se encuentra cometiendo delito en flagrancia.
+> <small>(REFORMADO [N. DE E. DEROGADO] ÚLTIMO PÁRRAFO, P.O. 10 DE MARZO DE 2013)</small>
 
 ### CAPÍTULO IV. ABORTO
 
@@ -2631,9 +2633,17 @@ VIII. Proporcione a sus superiores información diferente a la que conozca acerc
 
 IX. Conduzca o guíe las actividades de cualquier miembro de la delincuencia organizada o asociación delictuosa;
 
-X. Ponga en libertad a cualquier miembro de la delincuencia organizada o asociación delictuosa o proteja o facilite su fuga; y,
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2013)</small>
 
-XI. Proporcione servicios distintos a los señalados en las fracciones anteriores a favor de cualquier miembro de la delincuencia organizada o asociación delictuosa.
+X. Ponga en libertad a cualquier miembro de la delincuencia organizada o asociación delictuosa o proteja o facilite su fuga;
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2013)</small>
+
+XI. Proporcione servicios distintos a los señalados en las fracciones anteriores a favor de cualquier miembro de la delincuencia organizada o asociación delictuosa; y,
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2013)</small>
+
+XII. Porte o utilice durante el servicio o comisión, uno o varios teléfonos móviles, radiofrecuencias, radiotransmisiones o cualquier aparato de comunicación que no sea de aquellos que les hubieren proporcionado por la dependencia o corporaciones correspondientes para el ejercicio de su cargo.
 
 Las penas previstas en este capítulo se impondrán además de las que correspondan a los delitos que resulten cometidos por las actividades del individuo u organización delictiva de que se trate.
 
@@ -2644,6 +2654,10 @@ Artículo 228 bis. Al que con objeto de planear o ejecutar un delito, u obstruir
 Además de lo anterior, cuando el sujeto activo sea miembro, funcionario, trabajador o servidor público, de cualquiera de las instituciones de seguridad pública del Municipio o del Estado, de procuración de justicia y de ejecución de las penas estatal, o haya pertenecido a cualquiera de éstas, o sea agente o trabajador de seguridad privada que realice actividades de custodia o vigilancia hacia servidores públicos, se le impondrá de cinco a quince años de prisión y multa de hasta ochocientos días de salario.
 
 Además de la pena y sanción que corresponda por la realización de la conducta descrita en los dos párrafos anteriores, el servidor público será destituido del empleo, cargo o comisión, e inhabilitado por el mismo tiempo de la pena de prisión impuesta.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2013)</small>
+
+Cuando el que realice esta conducta, utilice para ello algún vehículo del servicio público de transporte de pasajeros u otro que preste un servicio similar o que en sus características exteriores sea similar en apariencia a los vehículos antes señalados, además de las penas previstas en el párrafo anterior, se impondrá desde un tercio hasta una mitad más de sanción privativa de libertad que le corresponda.
 
 ### CAPÍTULO VII. PRESCRIPCIÓN O SUMINISTRO DE MEDICINAS NOCIVAS O INAPROPIADAS
 
@@ -4690,3 +4704,9 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones legales en lo que se opongan al presente decreto.
+
+P.O. 10 DE MARZO DE 2013.
+
+PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales en lo que se opongan al presente decreto.
