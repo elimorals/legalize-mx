@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-de-la-benemerita-y-centenaria-escuela-normal-5009"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1977-07-03"
-last_updated: "1987-09-06"
+last_updated: "2013-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5009&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "DUR"
 ---
 # LEY ORGANICA DE LA BENEMERITA Y CENTENARIA ESCUELA NORMAL DEL ESTADO DE DURANGO - ANTES LEY ORGANICA DE LA ESCUELA NORMAL DEL ESTADO DE DURANGO -
 
-LEY ORGÁNICA DE LA ESCUELA NORMAL DEL ESTADO DE DURANGO
+LEY ORGÁNICA DE LA BENEMÉRITA Y CENTENARIA ESCUELA NORMAL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 1987.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2013.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 3 de julio de 1977.
 
@@ -43,333 +43,535 @@ DECRETO NUMERO 175
 
 LA H. LIII LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE DURANGO, A NOMBRE DEL PUEBLO DECRETA LA SIGUIENTE:
 
-LEY ORGANICA DE LA ESCUELA NORMAL DEL ESTADO DE DURANGO.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE MARZO DE 2013)</small>
 
-### CAPITULO I. PERSONALIDAD Y FINES DE LA ESCUELA NORMAL DEL ESTADO
+LEY ORGÁNICA DE LA BENEMÉRITA Y CENTENARIA ESCUELA NORMAL DEL ESTADO DE DURANGO
 
-> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 1987)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE MARZO DE 2013)</small>
+
+### CAPÍTULO I. PERSONALIDAD Y FINES DE LA BENEMÉRITA Y CENTENARIA ESCUELA NORMAL DEL ESTADO
+
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2013)</small>
 
 ###### ARTICULO 1.
 
-La Escuela Normal del Estado de Durango es un organismo público con personalidad jurídica propia y capacidad para adquirir y administrar bienes, cuyo objeto es satisfacer los fines educativos a que se refiere esta Ley y estará establecida en la Ciudad de Durango y será sostenida fundamentalmente por el Gobierno del Estado.
+La Benemérita y Centenaria Escuela Normal del Estado de Durango es un organismo público descentralizado, con personalidad jurídica y patrimonio propio, con domicilio en la ciudad de Durango, Dgo., como una institución de educación sectorizada a la Secretaría de Educación del Estado.
+
+Para efectos de la presente Ley, en las disposiciones jurídicas subsiguientes la Benemérita y Centenaria Escuela Normal del Estado de Durango se denominará la ByCENED.
 
 ###### ARTICULO 2.
 
 La Enseñanza que se imparta en la Escuela Normal del Estado seguirá los lineamientos marcados por el Artículo Tercero de la Constitución Política de los Estados Unidos Mexicanos, el Artículo cuarto de la Constitución Política del Estado, así como por las Leyes y Reglamentos que de ellas emanen.
 
-> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 1987)</small>
+ARTICULO 2 BIS.- (DEROGADO, P.O. 10 DE MARZO DE 2013)
 
-###### ARTICULO 2o. Bis.
-
-En la Escuela Normal del Estado de Durango, se establece el Bachillerato Pedagógico, la carrera de Profesora de Educación Preescolar, las Licenciaturas en Educación Primaria y Educación Preescolar; así como Licenciaturas en Educación Especial, Postgrados y demás carreras cortas de tipo profesional o sub-profesional que de acuerdo a las necesidades en educación, decrete el Ejecutivo del Estado.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MARZO DE 2013)</small>
 
 ###### ARTICULO 3.
 
-Además de todas las finalidades generales prescritas por la Educación en México, que concede especial atención a la persona como elemento social, la Escuela Normal:
+La ByCENED tendrá por objeto satisfacer los fines educativos a que se refiere esta Ley, todas las finalidades generales prescritas por la Educación en México, además:
 
-I.- Procurará permanentemente para los alumnos un ambiente propicio al desarrollo integral de su personalidad, mediante el empleo de los mejores procedimientos científicos de enseñanza y el cultivo de los valores consagrados por la cultura Universal.
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2013)</small>
 
-II.- Pugnará porque la instrucción que se imparta esté encausada a la formación integral de sus alumnos mediante la adquisición de una cultura general, conjuntamente con una preparación pedagógica que fortalezca los acontecimientos que posteriormente trasmitirán en su desempeño como Maestros de Educación Primaria.
+I.- Procurará permanentemente para los estudiantes un ambiente propicio al desarrollo integral de su personalidad, mediante el empleo de los mejores procedimientos científicos de enseñanza y el cultivo de los valores consagrados por la cultura Universal;
 
-III.- Será un Centro de investigación y estudio de problemas relacionados con la Educación, como Institución de Cultura Superior, para lo cual coadyuvará con los organismos correspondientes.
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2013)</small>
+
+II.- Pugnará porque la instrucción que se imparta esté encausada a la formación integral de sus estudiantes mediante la adquisición de una cultura general, conjuntamente con una preparación pedagógica que fortalezca los conocimientos que posteriormente trasmitirán en su desempeño como profesionales de la educación;
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2013)</small>
+
+III.- Será un Centro de investigación y estudio de problemas relacionados con la Educación, como Institución de Educación Superior, para lo cual coadyuvará con los organismos correspondientes; y
 
 IV.- Organizará cursos y actividades que tiendan al mejoramiento profesional de los maestros en servicio.
 
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2013)</small>
+
 ###### ARTICULO 4.
 
-El Gobierno de la Entidad, para que la Escuela Normal del Estado cumpla debidamente con sus fines, le prestará toda clase de ayuda material y moral.
+En la ByCENED se establece la educación media superior, las Licenciaturas en Educación Preescolar, Educación Primaria, Educación Secundaria, Educación Especial y Postgrados que de acuerdo a las necesidades en educación, decrete el Ejecutivo del Estado, tomando en consideración la demanda social.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MARZO DE 2013)</small>
 
 ###### ARTICULO 5.
 
-La Escuela Normal del Estado tiene las siguientes facultades:
+La ByCENED tiene las siguientes facultades:
 
-I.- Expedir Certificados de Estudios, Diplomas, constancias y otros documentos relativos a la enseñanza que imparta.
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2013)</small>
 
-II.- Registrar los Títulos Profesionales que expida el Gobierno del Estado a los Maestros que terminen sus Estudios en la propia Institución.
+I.- Impartir estudios de nivel medio superior, superior y postgrado para la formación de profesionales de la educación y expedir Certificados de Estudios, Diplomas, constancias y otros documentos relativos a la enseñanza que imparta;
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2013)</small>
+
+II.- Registrar los Títulos Profesionales que expida el Gobierno del Estado a quienes terminen sus estudios en la propia Institución;
 
 III.- Revalidar estudios y reconocer Títulos expedidos por otras Instituciones, conforme lo establece el Reglamento respectivo.
 
-IV.- Organizar los planes de estudio de acuerdo con sus fines.
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2013)</small>
 
-V.- Conceder premios y distinciones a sus profesores y alumnos en los términos que establezca el Reglamento.
+IV.- Formular, modificar y evaluar sus planes y programas de estudio, sometiéndolos, en su caso, a la aprobación de las autoridades educativas correspondientes;
 
-VI.- Administrar libremente su patrimonio.
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2013)</small>
 
-VII.- Establecer requisitos para la Titulación de sus Alumnos, conforme lo establezca el Reglamento.
+V.- Conceder premios y distinciones a sus profesores y estudiantes en los términos que establezca el Reglamento;
 
-VIII.- Nombrar su personal con aviso al Ejecutivo para los efectos legales procedentes.
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2013)</small>
 
-### CAPITULO II. ORGANIZACION DE LA ESCUELA NORMAL
+VI.- Administrar libremente su patrimonio, con sujeción al marco legal que le impone su carácter de Organismo Público Descentralizado;
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2013)</small>
+
+VII.- Establecer requisitos para la Titulación de sus Estudiantes, conforme lo establezca el Reglamento;
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2013)</small>
+
+VIII.- Concertar acuerdos y convenios de colaboración con instituciones educativas, públicas y privadas, nacionales y extranjeras para realizar estudios y proyectos de investigación en áreas de su competencia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE MARZO DE 2013)</small>
+
+IX.- Proponer a la autoridad educativa competente modificaciones a los contenidos regionales de los planes y programas de estudio;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE MARZO DE 2013)</small>
+
+X.- Establecer los requisitos y procedimientos de ingreso a la Escuela que los estudiantes habrán de cumplir, así como las normas para su permanencia, promoción y egreso;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE MARZO DE 2013)</small>
+
+XI.- Establecer los procedimientos de ingreso, permanencia y promoción del personal académico, técnico y administrativo, de acuerdo a los perfiles profesionales establecidos en la normatividad correspondiente y a la disponibilidad presupuestal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE MARZO DE 2013)</small>
+
+XII.- Celebrar convenios, acuerdos y compromisos con otras instituciones de educación superior, para la realización de proyectos educativos específicos en materia de formación profesional y continúa de profesores;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE MARZO DE 2013)</small>
+
+XIII.- Promover y realizar actividades culturales y deportivas que contribuyan a la formación integral de los estudiantes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE MARZO DE 2013)</small>
+
+XIV.- Expedir las disposiciones normativas internas necesarias para la realización de su objeto y las funciones sustantivas que le corresponden, conforme a esta Ley y demás normatividad aplicable;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE MARZO DE 2013)</small>
+
+XV.- Realizar los actos jurídicos y las acciones necesarias para el cumplimiento de su objeto y el ejercicio de sus atribuciones;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE MARZO DE 2013)</small>
+
+XVI.- Las demás que le confiera esta Ley, el Reglamento Interior y demás disposiciones normativas aplicables.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE MARZO DE 2013)</small>
+
+### CAPÍTULO II. ORGANIZACION DE LA ByCENED
+
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2013)</small>
 
 ###### ARTICULO 6.
 
-Para su funcionamiento la Escuela Normal del Estado estará integrada por Autoridades, Personal Docente, Personal Auxiliar, Personal Administrativo, Personal de Intendencia y Alumnado.
+Para el debido y eficiente cumplimiento de sus funciones, la ByCENED, tendrá la siguiente estructura orgánica:
+
+I.- Junta Directiva;
+
+II.- La Dirección General;
+
+III.- Órganos Auxiliares de la ByCENED.
+
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2013)</small>
 
 ###### ARTICULO 7.
 
-La Escuela Normal del Estado contará con una o varias Escuelas Primarias anexas, destinadas a la práctica docente de los Alumnos.
+La ByCENED contará con una o varias Escuelas anexas de educación básica destinadas a la práctica docente de los estudiantes.
 
-### CAPITULO III. DE LAS AUTORIDADES DE LA ESCUELA NORMAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE MARZO DE 2013)</small>
+
+### CAPÍTULO III. DE LA JUNTA DIRECTIVA
+
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2013)</small>
 
 ###### ARTICULO 8.
 
-Son autoridades de la Escuela:
+La Junta Directiva es el máximo órgano de gobierno de la ByCENED y tendrá las atribuciones que le señalen en la presente ley, el Reglamento Interior y demás disposiciones normativas. Estará constituida por los miembros siguientes:
 
-a).- La Junta Directiva;
+I. El Gobernador Constitucional del Estado de Durango, quien será el Presidente;
 
-b).- El Director;
+II. Como vocales:
 
-c).- El Subdirector Secretario.
+a) El Secretario de Educación del Estado de Durango;
+
+b) El Secretario General de Gobierno del Estado de Durango;
+
+c) El Secretario de Finanzas y de Administración del Estado de Durango;
+
+d) El Coordinador de educación media superior y superior de la Secretaría de Educación;
+
+e) El Coordinador de Escuelas Normales de la Secretaría de Educación;
+
+f) Un representante de la Secretaría de Educación Pública federal;
+
+g) Cuatro representantes del personal académico de base de la propia ByCENED, seleccionados por Asamblea;
+
+h) Dos estudiantes de los estudiantes de la ByCENED seleccionados por Asamblea.
+
+Los representantes de los docentes y estudiantes deberán ser electos al inicio de cada ciclo escolar.
+
+El Director de la ByCENED fungirá como Secretario Técnico en las reuniones de este órgano de gobierno, participando en ellas con voz pero sin derecho a voto.
+
+Se contará con un Comisario Público designado por la Secretaría de Contraloría y Modernización Administrativa, para el ejercicio de las funciones que le competen
+
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2013)</small>
 
 ###### ARTICULO 9.
 
-De acuerdo con el Artículo anterior, ninguna otra persona moral o física u organismo de cualquier índole no especificados en esta Ley, podrá intervenir en el aspecto académico y administrativo de la Institución.
+Cada miembro titular de la Junta Directiva deberá tener un suplente que cubrirá sus ausencias y tendrá las mismas facultades del titular. Los cargos de los integrantes de la Junta Directiva serán honoríficos; por tanto no recibirán retribución económica por el desempeño de sus funciones.
 
-### CAPITULO IV. INTEGRACION Y FACULTADES DE LA JUNTA DIRECTIVA
+La Junta Directiva será convocada de manera formal por el Presidente para su instalación y la ratificación de sus integrantes y su propuesta de programa de trabajo. En la sesión de instalación cada integrante deberá designar a su suplente como se señala en el párrafo primero de este artículo.
+
+Las sesiones de la Junta Directiva serán ordinarias y extraordinarias, en la forma y término que establezca el reglamento interior y serán convocadas por el Presidente, por conducto del Secretario Técnico. Los acuerdos se tomarán por mayoría de votos, en caso de empate, el que preside tendrá voto de calidad.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE MARZO DE 2013)</small>
+
+### CAPÍTULO IV. DE FACULTADES DE LA JUNTA DIRECTIVA
+
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2013)</small>
 
 ###### ARTICULO 10.
 
-La Junta Directiva que es la máxima autoridad de la Institución, estará integrada por:
+Son facultades de la Junta Directiva de la ByCENED:
 
-a).- El director que será el Presidente y tendrá voto de calidad.
+I.- Establecer las políticas y lineamientos generales para el desarrollo de las funciones y actividades de la ByCENED, de conformidad con las disposiciones generales expedidas por la Secretaría de Educación Pública del Gobierno Federal y por la Secretaría de Educación del Estado;
 
-b).- El Subdirector Secretario que será el Secretario de la Junta.
+II.- Analizar y aprobar, en su caso, las propuestas del Plan de Desarrollo Institucional y de los programas académicos a realizar por la ByCENED que la Dirección General deba presentarle, así como los que surjan de la propia Junta Directiva;
 
-c).- Todos los Catedráticos y el Director o Directores de las Escuelas Anexas.
+III.- Aprobar y, en su caso, modificar los proyectos de planes y programas de estudio, mismos que deberán someterse a la autorización de la Secretaría de Educación;
 
-d).- La representación estudiantil integrada por el Presidente de la Sociedad de Alumnos y dos estudiantes por cada grado.
+IV.- Aprobar la estructura básica de la organización de la ByCENED y las modificaciones que procedan a la misma, en base a la propuesta que presente el Director General y a la normatividad aplicable;
 
-### CAPITULO V. DEL DIRECTOR
+V.- Aprobar y, en su caso, modificar los reglamentos, manuales de organización, instructivos, acuerdos y demás disposiciones generales, que normen las funciones sustantivas, adjetivas y administrativas de la ByCENED, y que le sean propuestos por el Director General;
+
+VI.- Nombrar y remover a propuesta del Director General a los titulares de las Secretarías Académica, Administrativa y a los directores o coordinadores de área;
+
+VII.- Revisar, modificar y, en su caso, aprobar el Programa Anual de Actividades, así como el presupuesto de ingresos y egresos correspondiente al periodo fiscal de que se trate, y que le sea presentado por el Director General;
+
+VIII.- Aprobar los estados financieros anuales de la ByCENED, previo informe emitido por el Comisario Público y el dictamen de los auditores externos;
+
+IX.- Autorizar los actos jurídicos que se celebren en nombre de la ByCENED por el Director General, de conformidad con la Ley de Entidades Paraestatales del Estado de Durango y los reglamentos aplicables;
+
+X.- Autorizar las cuotas de inscripción y recuperación, así como las aportaciones propuestas por el Director General, por concepto de los servicios que preste la ByCENED, atendiendo a los lineamientos establecidos;
+
+XI.- Conocer y aprobar en su caso, el Informe Anual de Actividades, que presente el Director General de la ByCENED;
+
+XII.- Proponer al Titular del Poder Ejecutivo, por conducto del Secretario de Educación, la creación de Unidades Académicas de la ByCENED, en los casos en que los estudios de factibilidad realizados así lo recomienden;
+
+XIII.- Aprobar la constitución de reservas y aplicación de excedentes financieros, de conformidad con la normatividad vigente;
+
+XIV.- Observar los lineamientos que dicten las autoridades competentes en materia de manejo de disponibilidades financieras;
+
+XV.- Aprobar el Reglamento Interior de la ByCENED y los demás que sean necesarios para el funcionamiento de la misma, a partir de las propuestas que realice el Director de la institución;
+
+XVI.- Nombrar las comisiones que estime pertinente;
+
+XVII.- Organizar el aspecto académico de la institución, con sujeción a las disposiciones que dicten las autoridades competentes;
+
+XVIII.- Proponer al ejecutivo del Estado, para que a su vez promueva ante la Legislatura Local, las reformas y adiciones a la presente ley, en los casos que así lo ameriten; y
+
+XIX.- Las demás que establezcan la Ley de Entidades Paraestatales del Estado de Durango, el Reglamento Interior y aquellas disposiciones normativas de las Escuelas establecidas para su funcionamiento eficiente.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE MARZO DE 2013)</small>
+
+### CAPÍTULO V. DE LA DIRECCION GENERAL
+
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2013)</small>
 
 ###### ARTICULO 11.
 
-Son facultades de la Junta Directiva de la Escuela Normal:
+La Dirección General es el órgano académico - administrativo de la ByCENED y estará a cargo de un Director General, a quien corresponde la representación legal, así como la coordinación académica técnica y administrativa de la misma.
 
-I.- Organizar el aspecto Docente de la Institución.
+Para el desempeño de sus funciones se apoyará en los órganos auxiliares establecidos en esta Ley y en el Reglamento Interior.
 
-II.- Formular la terna que se presente al Ejecutivo para designar Director.
-
-III.- Nombrar Catedráticos y Personal auxiliar a propuesta del Director.
-
-IV.- Conceder Licencias al Director, al Personal Docente, y personal auxiliar, de acuerdo con lo establecido en el Artículo 80, de la Ley de Educación en el Estado, en lo conducente.
-
-V.- Sancionar y suspender al personal Docente y Auxiliar según lo amerite el caso.
-
-VI.- Nombrar Director o Directores de las Escuelas Anexas a propuesta del Director de la Escuela Normal.
-
-VII.- Aprobar y modificar planes y programas de estudio.
-
-VIII.- Conocer y dictaminar sobre el informe anual del Director.
-
-IX.- Aprobar el Calendario Escolar.
-
-X.- Conocer de la renuncia del Director.
-
-XI.- Nombrar las comisiones que estime pertinentes.
-
-XII.- Aprobar los Proyectos de inversión que presente el Patronato de la Escuela.
-
-XIII.- Proponer al Ejecutivo del Estado, para que a su vez promueva ante la Legislatura Local, las Reformas y adiciones a la presente Ley en los casos en que así lo ameriten.
-
-XIV.- Fijar las cuotas de inscripción y las demás que se juzgue necesario.
-
-XV.- Establecer y conceder los diferentes tipos de exámenes y los requisitos para presentarlos.
-
-XVI.- Suspender hasta por un año o en forma definitiva a los alumnos que cometan faltas graves, de acuerdo con el Reglamento.
-
-XVII.- Previo estudio, proponer al Ejecutivo del Estado, la creación de Escuelas de diverso nivel en el Campo Pedagógico.
-
-XVIII.- Los demás que el Reglamento señale.
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2013)</small>
 
 ###### ARTICULO 12.
 
-Para ser Director de la Escuela Normal se requiere:
+Para ser Director General de la ByCENED se requiere:
 
-a).- Ser Duranguense.
+I.- Ser mexicano por nacimiento;
 
-b).- Ser Profesor Normalista Titulado de Escuela Normal Urbana preferentemente de la Escuela Normal del Estado de Durango.
+II.- Tener una edad mínima de 30 años;
 
-c).- Tener como mínimo cinco años de servicios en Escuelas Primarias y cinco o más impartiendo cátedra en la Institución.
+III.- Poseer como mínimo grado de maestría en cualquiera de las disciplinas afines al campo educativo;
 
-d).- Tener Estudios de Normal Superior de preferencia en Pedagogía.
+IV.- Tener una destacada trayectoria académica en la educación superior, preferentemente de carácter pedagógico;
 
-e).- Ser persona de reconocida Honorabilidad y prudencia.
+V.- Ser egresado de la ByCENED del Estado de Durango;
+
+VI.- Tener como mínimo cinco años de servicio en la ByCENED; y
+
+VII.- Ser persona de reconocida honorabilidad y prudencia.
+
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2013)</small>
 
 ###### ARTICULO 13.
 
-El Director será nombrado por el Ejecutivo del Estado de terna propuesta por la Junta Directiva, en los términos de la Fracción II, del artículo 11 de esta Ley.
+El Director General de la ByCENED será nombrado y removido por el Titular del Poder Ejecutivo del Estado.
+
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2013)</small>
 
 ###### ARTICULO 14.
 
-El Director durará en su encargo seis años pudiendo la Junta Directiva proponerlo para un nuevo y último período de igual duración.
+El Director General durará en su encargo 6 años. Las ausencias del Director de hasta 30 días naturales serán cubiertas por el Secretario Académico; las mayores a este tiempo y hasta un año por quien designe la Junta Directiva. En las ausencias definitivas será sustituido por quien designe el Gobernador del Estado.
+
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2013)</small>
 
 ###### ARTICULO 15.
 
-Serán facultades del Director:
+Serán facultades del Director General:
 
-I.- Cumplir y hacer que se cumplan los acuerdos de la Junta Directiva.
+I.- Dirigir y coordinar las funciones académicas, técnicas y administrativas de la ByCENED, estableciendo las medidas pertinentes a fin de que éstas se lleven a cabo de manera articulada, con criterios de eficiencia y apego a la normatividad;
 
-II.- Ejercer la administración del Plantel por sí o por las personas que él designe.
+II.- Representar legalmente a la ByCENED para celebrar y otorgar toda clase de actos y documentos inherentes a su objeto; así mismo para ejercer las más amplias facultades de administración, pleitos y cobranzas, aún de aquellas que requieran de autorización especial según otras disposiciones legales o reglamentarias con apego a la Ley de Entidades Paraestatales del Estado de Durango y demás ordenamientos jurídicos aplicables;
 
-III.- Nombrar y remover libremente al Subdirector Secretario.
+III.- Proponer a la Junta Directiva las políticas y lineamientos generales para el desarrollo integral y articulado de las funciones y actividades de la ByCENED;
 
-IV.- Nombrar y remover al personal administrativo y de intendencia.
+IV.- Elaborar y proponer a la Junta Directiva para su análisis y aprobación, en su caso, las propuestas del Plan de Desarrollo Institucional y de los programas y proyectos académicos y de trabajo a realizar por la ByCENED;
 
-V.- Nombrar Catedráticos sustitutos hasta por treinta días.
+V.- Presentar a la Junta Directiva, para su aprobación o modificación, en su caso, los proyectos de planes y programas de estudio para la creación de nuevas carreras profesionales, así como de posgrados; de igual manera, aquellos que deban someterse a la autorización de la autoridad educativa competente;
 
-VI.- Proponer a la Junta Directiva Catedráticos Propietarios e Interinos por un tiempo mayor al que marca la anterior Fracción.
+VI.- Proponer a la Junta Directiva la estructura orgánica básica de la ByCENED, así como las modificaciones necesarias para su funcionamiento eficiente; una vez aprobadas éstas, deberán incorporarse al Reglamento Interior y al Manual de Organización;
 
-VII.- Ejercer la inspección Técnica y Administrativa de la Escuela o Escuela de Prácticas.
+VII.- Elaborar y someter a la aprobación de la Junta Directiva los proyectos de reglamento interior y de otros reglamentos requeridos para el funcionamiento eficiente de la ByCENED, así como el Manual de Organización, a fin de que su objeto se realice de manera articulada, congruente y eficaz;
 
-VIII.- Impartir Cátedra de su especialidad hasta por doce horas semanariamente.
+VIII.- Presentar a la Junta Directiva, para su aprobación, en su caso, las propuestas de nombramiento de los titulares de las Secretarías Académica y Administrativa, de los directores o coordinadores de área, así como de aquéllos funcionarios que señale el Reglamento Interior, y firmar los nombramientos correspondientes;
 
-IX.- La Representación y la organización de la Escuela y la aplicación de aquellas medidas y orientaciones pedagógicas que dicte la Junta Directiva.
+IX.- Designar y remover a los Jefes de Departamento y de las demás unidades orgánicas de la ByCENED que establezca el Reglamento Interior, y expedir los nombramientos correspondientes;
 
-X.- Nombrar el personal de la Escuela o Escuelas Anexas en los términos del Artículo 27 de esta Ley.
+X.- Nombrar, remover y adscribir al personal administrativo y de apoyo, de conformidad con lo establecido en la presente ley y en el Reglamento Interior;
 
-XI.- Suspender hasta por 15 días a maestros y alumnos en casos graves de indisciplina.
+XI.- Contratar personal profesional, para la realización de proyectos especiales, relativos a las funciones sustantivas de la ByCENED, conforme al Reglamento Interior; dicho personal dependerá directamente de la Dirección General;
 
-XII.- Las demás que le fije el Reglamento.
+XII.- Contratar los servicios de personal especializado, para la realización de determinados trabajos que requiera la ByCENED, en los términos del Reglamento Interior;
 
-### CAPITULO VI. DEL SUBDIRECTOR SECRETARIO
+XIII.- Gestionar ante los órganos competentes los recursos financieros y materiales que los gobiernos Federal, Estatal y Municipal asignen a la Escuela y ejercerlos conforme a la normatividad correspondiente;
+
+XIV.- Presentar a la Junta Directiva, para su aprobación, en su caso, el Programa Anual de Actividades y el Presupuesto de Ingresos y Egresos del periodo fiscal correspondiente;
+
+XV.- Presentar a la Junta Directiva los estados financieros anuales de la Escuela para su análisis por parte del Comisario Público y dictamen por parte de los auditores externos;
+
+XVI.- Acreditar y certificar los estudios realizados en la ByCENED, expidiendo la documentación correspondiente de conformidad con la normatividad aplicable;
+
+XVII.- Establecer comisiones técnicas especiales o grupos de trabajo dependientes de la Dirección General, para apoyar su gestión y el funcionamiento eficiente de la ByCENED;
+
+XVIII.- Establecer sistemas para la administración del personal, de los recursos financieros y de los bienes y servicios que aseguren la prestación eficiente y el óptimo aprovechamiento de los servicios educativos;
+
+XIX.- Presentar a la Junta Directiva para su evaluación y aprobación, en su caso, y a la comunidad escolar para su conocimiento, un informe anual de actividades, en los términos del Reglamento Interior de la ByCENED;
+
+XX.- Establecer un sistema institucional para la supervisión y evaluación del desarrollo y debido cumplimiento de los planes y programas de estudio; de los proyectos académicos de la Escuela contenidos en el Plan de Desarrollo Institucional, así como de la aplicación de las disposiciones que normen el funcionamiento de la ByCENEP, y expedir las disposiciones administrativas complementarias;
+
+XXI.- Cumplir con los acuerdos de la Junta Directiva e informarle de los resultados obtenidos;
+
+XXII.- Otorgar, sustituir y revocar poderes generales y especiales con las facultades que les competan, entre ellas las que requieran autorización o cláusula especial;
+
+XXIII.- Establecer y mantener un sistema de información y estadística que permita determinar los indicadores educativos y de gestión de la ByCENED;
+
+XXIV.- Proporcionar la información y dar acceso a la documentación que le soliciten la Secretaría de Finanzas y de Administración, así como la Secretaría de Contraloría o el Auditor Externo;
+
+XXV. En su caso y de acuerdo al reglamento correspondiente suspender a los maestros y alumnos en los casos de indisciplina; y
+
+XXVI.- Las demás que le confieran este decreto, el Reglamento Interior, las que otorgue la Junta Directiva y otras disposiciones legales aplicables.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE MARZO DE 2013)</small>
+
+### CAPÍTULO VI. DEL PATRIMONIO DE LA ByCENED
+
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2013)</small>
 
 ###### ARTICULO 16.
 
-Para ser Subdirector Secretario serán necesarios los mismos requisitos que para ser Director.
+El Patrimonio de la ByCENED estará constituido por:
+
+I.- Los bienes muebles e inmuebles que posee y los que adquiera por cualquier título legal para el cumplimiento de su objeto;
+
+II.- Los recursos financieros proporcionados por el Gobierno Federal y por el Gobierno del Estado, por conducto de la Secretaría de Finanzas y de Administración;
+
+III.- Los legados y donaciones otorgados en su favor así como los bienes que reciba como fideicomisario;
+
+IV.- Los demás recursos financieros y materiales que adquiera de otras fuentes de financiamiento.
+
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2013)</small>
 
 ###### ARTICULO 17.
 
-Serán facultades y obligaciones del Subdirector Secretario:
+Los bienes inmuebles que formen parte del Patrimonio de la ByCENED serán inalienables e imprescriptibles y en ningún caso podrán constituirse gravámenes sobre ellos.
 
-I.- Substituír al Director hasta por un período de tres meses con todas las fadultades (sic) inherentes al cargo.
-
-II.- Fungir como Secretario en las sesiones de la Junta Directiva.
-
-III.- Colaborar con el Director en la Organización Técnica y Administrativa de la Escuela.
-
-IV.- Firmar en unión del Director, los Certificados Diplomas y Documentos que así lo requieran.
-
-V.- Todas las demás facultades que le señale el Reglamento respectivo.
+A solicitud del Titular del Poder Ejecutivo, corresponderá al H. Congreso del Estado emitir declaratoria de desafectación de algún inmueble, patrimonio de la Escuela, cuando éste dejare de estar sujeto a la prestación de servicios educativos, a fin de que sea inscrita su protocolización en el registro público de la propiedad.
 
 ### CAPITULO VII. DEL PERSONAL DOCENTE Y AUXILIAR
 
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2013)</small>
+
 ###### ARTICULO 18.
 
-El personal Docente de la Escuela Normal del Estado estará integrado por:
+El personal Docente de la ByCENED estará integrado por:
 
-a).- Maestros de tiempo completo.
+I.- Profesores de tiempo completo;
 
-b).- Maestros de medio tiempo.
+II.- Profesores de medio tiempo;
 
-c).- Maestros por hora.
+III.- Profesores por hora;
 
-d).- Laboratoristas.
+IV.- Laboratoristas; y
+
+V.- Especialistas.
+
+El ingreso, promoción y permanencia de todo el personal académico de base de la ByCENED, se sujetará a la normatividad establecida en el reglamento Interior en concordancia con la expedida por la autoridad educativa competente, pero en todos los casos, el ingreso será mediante exámen de oposición; la promoción será por evaluación. Tanto el exámen como la evaluación, las deberá realizar una Comisión Académica Dictaminadora. Las normas y procedimientos establecidos en el reglamento Interior para regular los concursos de oposición y de evaluación del personal académico, deberán asegurar el ingreso y la promoción de personas profesionales altamente calificado. La permanencia del personal académico se sujetará a la normatividad señalada en el propio Reglamento Interior.
 
 ###### ARTICULO 19.
 
 El personal auxiliar lo integrarán:
 
-a).- Investigadores.
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2013)</small>
 
-b).- Prefectos de Disciplina.
+I.- Investigadores.
 
-c).- Bibliotecarios.
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2013)</small>
 
-d).- Todos aquellos a quienes la Junta Directiva les conceda tal carácter.
+II.- Prefectos de disciplina.
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2013)</small>
+
+III.- Bibliotecarios.
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2013)</small>
+
+IV.- Todos aquellos a quienes la Junta Directiva les conceda tal carácter.
+
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2013)</small>
 
 ###### ARTICULO 20.
 
-Para ser Catedrático de la Escuela Normal se requerirá:
+Para ser Catedrático de la ByCENED se requerirá:
 
-a).- Ser ciudadano Mexicano en pleno uso de sus derechos.
+I.- Ser ciudadano Mexicano en pleno uso de sus derechos.
 
-b).- Ser Profesor con Título de Normal Urbana y tener por los menos cinco años de práctica docente en Primaria.
+II.- Ser Profesor con Título de Normal y tener por los menos cinco años de práctica docente en Primaria;
 
-c).- Tener Especialización en la Materia que imparta. En caso de que este requisito no se reúna, es facultad de la Junta Directiva dispensarlo, considerando los méritos y capacidad del interesado.
+III.- Tener Especialización en la Materia que imparta;
 
-d).- Tener Solvencia Moral y Profesional.
+IV.- Tener Solvencia Moral y Profesional.
 
 ###### ARTICULO 21.
 
 Para pertenecer al Personal auxiliar se requerirá:
 
-a).- Acreditar la preparación propia en cada caso.
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2013)</small>
 
-b).- Tener solvencia moral y profesional.
+I.- Acreditar la preparación propia en cada caso;
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2013)</small>
+
+II.- Tener solvencia moral y profesional.
 
 ###### ARTICULO 22.
 
-Para ser Maestro de Idiomas y de adiestramiento (actividades tecnológicas, artísticas, de educación física, etc.), no serán indispensables los requerimientos que señalan los incisos b) y c) del Artículo 20.
+(DEROGADO, P.O. 10 DE MARZO DE 2013)
 
 ###### ARTICULO 23.
 
 Tanto el Personal Docente como el auxiliar, serán nombrados por la Junta Directiva a propuesta del Director y tendrán los derechos y obligaciones que señala esta Ley y su reglamento.
 
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2013)</small>
+
 ###### ARTICULO 24.
 
-Todo el personal que labore en la Escuela Normal o en sus Escuelas de prácticas anexas, gozará de las mismas prestaciones que reciban los trabajadores de la educación al servicio del Gobierno del Estado.
+Todo el Personal que labore en la ByCENED o en sus Escuelas de prácticas anexas, gozará de las mismas prestaciones que reciban los trabajadores de la educación al servicio del Gobierno del Estado.
 
 ### CAPITULO VIII. DE LAS ESCUELAS ANEXAS
 
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2013)</small>
+
 ###### ARTICULO 25.
 
-El Plan de Estudios de las Escuelas Anexas a la Normal, será el fijado por la Sría. de Educación Pública para la Educación Primaria, exceptuándose en aquellos casos en que este Ordenamiento Legal y su Reglamento prescriban otras prácticas docentes.
+El Plan de Estudios de las Escuelas Anexas a la Normal, será el fijado por la autoridad educativa competente para la educación básica, exceptuándose en aquellos casos en que la normatividad aplicable prescriban otras prácticas docentes.
+
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2013)</small>
 
 ###### ARTICULO 26.
 
-El Director de la Escuela o Escuelas de Prácticas Anexas a la Normal, será nombrado por la Junta Directiva a propuesta del Director de la Escuela Normal.
+El Director de la Escuela o Escuelas de Prácticas Anexas a la Normal, será nombrado por la Junta Directiva a propuesta del Director General de la Escuela.
 
 ###### ARTICULO 27.
 
 Para ser Director de la Escuela de Prácticas se requerirá:
 
-a).- Ser ciudadano Mexicano en pleno uso de sus derechos.
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2013)</small>
 
-b).- Ser Titulado en Escuela Normal Urbana.
+I.- Ser ciudadano mexicano en pleno uso de sus derechos;
 
-c).- Tener por lo menos 5 años de servicio en las Escuelas de Prácticas Anexas.
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2013)</small>
+
+II.- Tener grado de Profesor o Licenciado en educación;
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2013)</small>
+
+III.- Tener por lo menos 5 años de servicio en las Escuelas de Prácticas Anexas.
+
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2013)</small>
 
 ###### ARTICULO 28.
 
-El Director de la Escuela Normal oyendo a los Directores de las Escuelas Anexas, nombrará a los Profesores de éstas.
+El ingreso del personal académico de las Escuelas anexas deberá sujetarse a la normatividad aplicable establecida por la autoridad educativa competente para el ingreso al servicio de educación básica.
+
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2013)</small>
 
 ###### ARTICULO 29.
 
-Para ser Profesor de Escuelas Anexas, se requerirá ser Titulado en Escuela Normal Urbana y para Jardín de Niños el Título de Educadora preferentemente. Las obligaciones y derechos del personal de las escuelas Anexas, se sujetará a lo prescrito por esta Ley y su Reglamento.
+Para ser Profesor de Escuelas Anexas, se requerirá tener grado de licenciatura en educación.
 
-### CAPITULO IX. DEL PERSONAL ADMINISTRATIVO Y DE INTENDENCIA
+Las obligaciones y derechos del personal de las escuelas Anexas, se sujetará a lo prescrito por esta ley y su Reglamento.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE MARZO DE 2013)</small>
+
+### CAPITULO IX. DEL PERSONAL ADMINISTRATIVO Y DE APOYO
+
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2013)</small>
 
 ###### ARTICULO 30.
 
-El personal Administrativo y de intendencia será nombrado por el Director de la Escuela Normal y constará del número de personas que se requiera. Las obligaciones y derechos de este Personal también se sujetarán a lo prescrito por esta Ley y su Reglamento.
+Las obligaciones y derechos de este Personal, se sujetarán a lo establecido en el Reglamento Interior y demás reglamentos de la ByCENED.
 
-### CAPITULO X. DE LOS ALUMNOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE MARZO DE 2013)</small>
+
+### CAPÍTULO X. DE LOS ESTUDIANTES
+
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2013)</small>
 
 ###### ARTICULO 31.
 
-Serán requisitos para ingresar como alumno:
+Serán requisitos para ingresar como estudiante:
 
-a).- Justificar la edad de 18 años cumplidos como máximo.
+I.- Presentar certificado original de secundaria o bachillerato según corresponda y carta de buena conducta;
 
-b).- Presentar certificado original de Secundaria, Certificado Médico y carta de buena conducta.
+II.- Haber sido seleccionado en las pruebas de admisión a que fuere sometido;
 
-c).- Haber sido seleccionado en las pruebas de admisión a que fuere sometido.
+III.- Pagar la cuota de inscripción.
 
-d).- Pagar la cuota de inscripción.
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2013)</small>
 
 ###### ARTICULO 32.
 
-Los alumnos de la Escuela Normal del Estado podrán organizarse en la forma que crean conveniente, sin intervención de las Autoridades y personal de la Institución, pero observando los derechos y obligaciones que tienen respecto a la presente Ley y su Reglamento.
+Los estudiantes de la ByCENED podrán organizarse en la forma que crean conveniente, sin intervención de las autoridades y personal de la Institución, pero observando los derechos y obligaciones que tienen respecto a la presente Ley y su Reglamento.
 
 ### CAPITULO XI. RESPONSABILIDADES Y SANCIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MARZO DE 2013)</small>
+
 ###### ARTICULO 33.
 
-Serán causas generales de responsabilidad por parte de Autoridades, Maestros, Empleados, y Alumnos de la Escuela Normal los siguientes:
+Serán causas generales de responsabilidad por parte de autoridades, personal académico, administrativo y de apoyo, así como de los estudiantes de la ByCENED los siguientes:
 
 I.- Los actos u omisiones graves que pongan en peligro la existencia de la Escuela, los que atenten contra el decoro de la misma y contra los fines que le son privativos.
 
-II.- La utilización del Patrimonio de la Escuela para fines distintos de los que señale la Junta Directiva.
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2013)</small>
+
+II.- La utilización del Patrimonio de la ByCENED para fines distintos de los que señale la Junta Directiva;
 
 III.- El incumplimiento de obligaciones que les son propias.
 
@@ -377,9 +579,11 @@ IV.- La Comisión de actos contrarios a la moral que desprestigien a la Instituc
 
 V.- La inobservancia de las normas que establece esta Ley, su Reglamento y las que dimanen de las autoridades de la Institución.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MARZO DE 2013)</small>
+
 ###### ARTICULO 34.
 
-Las sanciones con que se castigará las faltas a que se refiere el Artículo anterior, serán las siguientes:
+Las sanciones que se aplicarán a las faltas a que se refiere el artículo anterior, serán las siguientes:
 
 I.- Amonestación privada.
 
@@ -393,13 +597,17 @@ V.- Suspensión temporal.
 
 VI.- Suspensión definitiva.
 
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2013)</small>
+
 ###### ARTICULO 35.
 
-Los alumnos podrán ser amonestados por el personal docente, Director, Subdirector-Secretario y Celadores: el personal docente por el Director; y el personal administrativo por el Director y Sub-Director Secretario: conforme esta Ley y sus Reglamentos.
+Los estudiantes podrán ser amonestados por el personal docente, directivo, auxiliar; por el Director; y el personal administrativo por el Director y Secretario Académico, conforme esta Ley y sus Reglamentos.
+
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2013)</small>
 
 ###### ARTICULO 36.
 
-La Sanción en efectivo, reparación del daño y la suspensión temporal se impondrán a los alumnos, personal docente y administrativo, solamente por el Director y Junta Directiva, conforme a esta Ley y su Reglamento.
+La sanción pecuniaria, la reparación del daño y la suspensión temporal se impondrán a los estudiantes, personal docente, auxiliar y administrativo, solamente por el Director y la Junta Directiva, conforme a esta Ley y su Reglamento.
 
 ###### ARTICULO 37.
 
@@ -438,3 +646,21 @@ Los efectos de este Decreto serán aplicables a las generaciones egresadas de la
 ###### ARTICULO SEGUNDO.
 
 El presente Decreto surtirá sus efectos a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE MARZO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales y reglas que se opongan al presente decreto.
+
+###### ARTÍCULO TERCERO.
+
+Una vez concluido el nombramiento del actual Director el Gobernador del Estado nombrará al nuevo 3Director (sic) General de la ByCENED.
+
+###### ARTÍCULO CUARTO.
+
+En un plazo no mayor a 90 días posteriores a la entrada en vigor del presente decreto la Junta Directiva aprobará el Reglamento Interior de la ByCENED, o los reglamentos necesarios, los que deberán incluir por lo menos todo lo referente a la aplicación de los exámenes de los estudiantes, así como a las expulsiones y sanciones de los mismos y del personal docente.
