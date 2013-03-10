@@ -4,7 +4,7 @@ identifier: "DUR-codigo-penal-para-el-estado-libre-y-soberano-de-durango-39705"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-04-29"
-last_updated: "2012-12-30"
+last_updated: "2013-03-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39705&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
 > <small>N. DE E. DE CONFORMIDAD CON LOS ARTICULOS PRIMERO, SEGUNDO Y OCTAVO TRANSITORIOS DEL CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO, PUBLICADO EN EL P.O. DE 14 DE JUNIO DE 2009, EL PRESENTE ORDENAMIENTO ABROGADO EN LO QUE SE OPONGA AL CONTENIDO DEL NUEVO CODIGO, HASTA EN TANTO SE PUBLIQUE EN EL P.O. DEL ESTADO LA DECLARATORIA QUE EMITA EL CONGRESO DEL ESTADO O LA COMISION PERMANENTE A SOLICITUD EXPRESA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO, RESPECTO DE LA VIGENCIA DEL REFERIDO INSTRUMENTO, POR LO QUE LAS DISPOSICIONES DEL PRESENTE CODIGO SE APLICARAN PARA INVESTIGAR Y JUZGAR LOS DELITOS COMETIDOS DURANTE LA VIGENCIA DEL MISMO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2013.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 10 DE MARZO DE 2013.</small>
 
 Código publicado en el Periódico Oficial del Estado de Durango, el jueves 29 de abril de 2004.
 
@@ -2265,9 +2267,17 @@ VIII. Proporcione a sus superiores información diferente a la que conozca acerc
 
 IX. Conduzca o guíe las actividades de cualquier miembro de la delincuencia organizada o asociación delictuosa;
 
-X. Ponga en libertad a cualquier miembro de la delincuencia organizada o asociación delictuosa o proteja o facilite su fuga; y,
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2013)</small>
 
-XI. Proporcione servicios distintos a los señalados en las fracciones anteriores a favor de cualquier miembro de la delincuencia organizada o asociación delictuosa.
+X. Ponga en libertad a cualquier miembro de la delincuencia organizada o asociación delictuosa o proteja o facilite su fuga;
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2013)</small>
+
+XI. Proporcione servicios distintos a los señalados en las fracciones anteriores a favor de cualquier miembro de la delincuencia organizada o asociación delictuosa; y,
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2013)</small>
+
+XII. Porte o utilice durante el servicio o comisión, uno o varios teléfonos móviles, radiofrecuencias, radiotransmisiones o cualquier aparato de comunicación que no sea de aquellos que les hubieren proporcionado por la dependencia o corporaciones correspondientes para el ejercicio de su cargo.
 
 Las penas previstas en este capítulo se impondrán además de las que correspondan a los delitos que resulten cometidos por las actividades del individuo u organización delictiva de que se trate.
 
@@ -2280,6 +2290,10 @@ ARTÍCULO 262 bis 1.- Al que con objeto de planear o ejecutar un delito, u obstr
 Además de lo anterior, cuando el sujeto activo sea miembro, funcionario, trabajador o servidor público, de cualquiera de las instituciones de seguridad pública del Municipio o del Estado, de procuración de justicia y de ejecución de las penas estatal, o haya pertenecido a cualquiera de éstas, o sea agente o trabajador de seguridad privada que realice actividades de custodia o vigilancia hacia servidores públicos, se le impondrá de cinco a quince años de prisión y multa de hasta ochocientos días de salario.
 
 Además de la pena y sanción que corresponda por la realización de la conducta descrita en los dos párrafos anteriores, el servidor público será destituido del empleo, cargo o comisión, e inhabilitado por el mismo tiempo de la pena de prisión impuesta.
+
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 10 DE MARZO DE 2013)</small>
+
+Cuando el que realice esta conducta, utilice para ello algún vehículo del servicio público de transporte de pasajeros u otro que preste un servicio similar o que en sus características exteriores sea similar en apariencia a los vehículos antes señalados, además de las penas previstas en el párrafo anterior, se impondrá desde un tercio hasta una mitad más de sanción privativa de libertad que le corresponda.
 
 SUBTÍTULO SEGUNDO
 
@@ -2841,9 +2855,15 @@ Para la aplicación de las penas dentro de los mínimos y máximos señalados, s
 
 Se impondrá de diez a quince años de prisión y de cien a quinientos días multa, al inculpado de homicidio simple intencional.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 10 DE MARZO DE 2013)</small>
+
 ###### ARTÍCULO 331.
 
-A quien cometa homicidio calificado se le impondrá de quince a cincuenta años de prisión.
+A quien cometa homicidio calificado se le impondrá de veinte a cincuenta años de prisión y multa de mil cuatrocientos cuarenta a tres mil seiscientos días de salario.
+
+Cuando el homicidio tenga características propias de feminicidio se impondrá de veinte a sesenta años de prisión y de mil quinientos días a cuatro mil días multa.
+
+En el caso de feminicidio, si entre el activo y la víctima existió una relación sentimental, afectiva o de confianza; de parentesco, laboral, docente o cualquiera que implique subordinación o superioridad, se impondrán de treinta a sesenta años de prisión y multa de dos mil ciento setenta a cuatro mil seiscientos veinte días de salario.
 
 ###### ARTÍCULO 332.
 
@@ -2931,37 +2951,27 @@ El duelo atañe a la pendencia cuyo desarrollo está sujeto a reglas previamente
 
 Se impondrá además de la pena que corresponda al homicidio o las lesiones una tercera parte de la pena, a quien lesione o prive de la vida a un elemento del cuerpo de seguridad en ejercicio de sus funciones o con motivo de ellas.
 
-###### ARTÍCULO 344.
+(REFORMADO, P.O. 10 DE MARZO DE 2013) (F. DE E., P.O. 10 DE MARZO DE 2013)
 
-El homicidio y las lesiones son calificadas cuando se cometan con: premeditación, ventaja, traición, alevosía, retribución, por el medio empleado, saña, estado de alteración voluntaria, o brutal ferocidad.
+###### Articulo 344.
 
-I.- Existe premeditación: Cuando se comete el delito después de haber reflexionado sobre su ejecución.
+El Homicidio y las lesiones son calificadas cuando se cometan con: premeditación, ventaja, traición, alevosía, retribución, por el medio empleado, saña, estado de alteración voluntaria, o brutal ferocidad. De igual manera, se considerará que son calificados el homicidio, lesiones, cuando en su ejecución existan algunas de las causas previstas por el artículo 344 Bis de este Código.
 
-II.- Existe ventaja:
+I a la IX... (SIC)
 
-a) Cuando el agente es superior en fuerza física al ofendido y éste no se halla armado;
+> <small>(F. DE E., P.O. 10 DE MARZO DE 2013)</small>
 
-b) Cuando es superior por las armas que emplea, por su mayor destreza en el manejo de ellas, por su manifiesta habilidad o destreza en la pelea cuerpo a cuerpo o por el número de los que intervengan con él;
+Artículo 344 Bis Se entiende que hay feminicidio cuando se presentan, algunas de las circunstancias siguientes:
 
-c) Cuando el agente se vale de algún medio que debilita la defensa del ofendido; o
+I. El cuerpo de la víctima presente signos de violencia sexual de cualquier tipo;
 
-d) Cuando éste se halla inerme o caído y aquél armado o de pie.
+II. A la víctima se le hayan inferido lesiones infamantes, degradantes o mutilaciones, antes o después de haberla privado de la vida;
 
-La ventaja no se tomará en consideración en los tres primeros casos, si el que la tiene obrase en defensa legítima, ni en el cuarto, si el que se halla armado o de pie fuere el agredido y además hubiere corrido peligro su vida por no aprovechar esa circunstancia.
+III. Existan datos que establezcan que se han cometido, amenazas, acoso, violencia o lesiones del sujeto activo en contra de la víctima;
 
-III.- Existe traición: Cuando el agente realiza el hecho quebrantando la confianza o seguridad que expresamente le había prometido al ofendido, o las mismas que en forma tácita debía éste esperar de aquél por las relaciones de confianza real y actual que existen entre ambos;
+IV. El cuerpo de la víctima sea expuesto, depositado o arrojado en un lugar público; o
 
-IV.- Existe alevosía: Cuando el agente realiza el hecho sorprendiendo intencionalmente a alguien de improviso, o empleando acechanza u otro medio que no le dé lugar a defenderse ni evitar el mal que se le quiera hacer;
-
-V.- Existe retribución: Cuando el agente lo cometa por pago o prestación prometida o dada;
-
-VI.- Por los medios empleados: Se causen por inundación, incendio, minas, bombas o explosivos, o bien por envenenamiento, asfixia, tormento o por medio de cualquier otra sustancia nociva para la salud;
-
-VII.- Existe saña: Cuando el agente actúe con crueldad o con fines depravados;
-
-VIII. Existe estado de alteración voluntaria: Cuando el agente lo comete en estado de ebriedad o bajo el influjo de estupefacientes o psicotrópicos u otras sustancias que produzcan efectos similares y sin que para ello medie prescripción medica; y
-
-IX.- Existe brutal ferocidad: Cuando el agente lo comete sin ningún motivo, y teniendo dominada la situación, sigue agrediendo a la víctima.
+V. La víctima haya sido incomunicada sin ánimo de obtención de lucro, cualquiera que sea el tiempo previo a su fallecimiento.
 
 ### CAPÍTULO PRIMERO. PELIGRO DE CONTAGIO
 
@@ -4280,3 +4290,9 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales en lo que se opongan al presente decreto.
+
+P.O. 10 DE MARZO DE 2013.
+
+PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales en lo que se opongan al presente decreto.
