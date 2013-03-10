@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-seguridad-publica-para-el-estado-de-durango-45761"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-24"
-last_updated: "2013-03-07"
+last_updated: "2013-03-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45761&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "DUR"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2012.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 7 DE MARZO DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 24 de julio de 2005.
 
@@ -1199,11 +1197,11 @@ VII.- Abstenerse de proporcionar información a los medios de comunicación soci
 
 VIII.- Cumplir dentro del marco de la ley, las órdenes del Ministerio Público que libre con ocasión de la investigación y persecución de los delitos y las que, durante la tramitación del proceso, les dirijan los jueces, sin perjuicio de la autoridad administrativa a la que estén sometidos la autoridad administrativa no podrá revocar, alterar o retardar una orden emitida por el Ministerio Público o por los jueces.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 53 Bis 1.
 
-(DEROGADO, P.O. 11 DE JULIO DE 2011)
+Los miembros de la Policía Estatal, Policía Preventiva, Policía de Tránsito y Vialidad, y miembros de la seguridad penitenciaria, tienen estrictamente prohibido llevar consigo durante el pase de lista o al momento de su llegada a la (sic) las instalaciones policiales al inicio de su turno y dentro de este, uno o varios teléfonos móviles, radiofrecuencias o cualesquier aparato de comunicación que no sea de aquellos que se les hubieran proporcionado por la dependencia correspondiente para el desempeño de sus funciones.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIOS PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -3185,7 +3183,7 @@ SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente 
 
 P.O. 10 DE DICIEMBRE DE 2009.
 
-DECRETO No. 416, POR EL QUE SE REFORMAN DIVERSOS ARTICULOS DE LA LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE DURANGO.
+DECRETO No. 416, POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE DURANGO.
 
 Artículo Primero.- El presente decreto se publicará en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
 
@@ -3195,7 +3193,7 @@ Artículo Tercero.- Se derogan todas las disposiciones que se opongan al present
 
 P.O. 10 DE DICIEMBRE DE 2009.
 
-DECRETO No. 420, POR EL QUE SE PUBLICA LA DECLARATORIA DE ADOPCION DEL SISTEMA PROCESAL PENAL ACUSATORIO.
+DECRETO No. 420, POR EL QUE SE PUBLICA LA DECLARATORIA DE ADOPCIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO.
 
 PRIMERO.- Publíquese la presente Declaratoria en el Periódico Oficial del Gobierno Constitucional del Estado de Durango para que surta efectos a partir de las cero horas del día 14 de diciembre de 2009 según las prevenciones establecidas en la misma.
 
@@ -3203,7 +3201,7 @@ SEGUNDO.- Remítase para su conocimiento, a las Cámaras que componen el Honorab
 
 TERCERO.- Hágase del conocimiento al pueblo de Durango la presente declaratoria mediante Bando Solemne suscrito por Titular del Poder Ejecutivo, el Magistrado Presidente del Tribunal Superior de Justicia y el Presidente de la Gran Comisión del H. Congreso del Estado.
 
-DEBIDO A SU IMPORTANCIA, SE TRANSCRIBEN LOS ARTICULOS DE LA DECLARATORIA DE ADOPCION DEL SISTEMA PROCESAL PENAL ACUSATORIO.
+DEBIDO A SU IMPORTANCIA, SE TRANSCRIBEN LOS ARTÍCULOS DE LA DECLARATORIA DE ADOPCIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO.
 
 Artículo Primero.- En el Estado Libre y Soberano de Durango, se declara adoptado el Sistema Procesal Penal Acusatorio contenido en el Decreto por el que se reforman y adicionan los artículos 16, 17, 18, 19, 20, 21, y 22; las fracciones XXI y XXIII del artículo 73, la fracción VII del articulo 115 y la fracción XIII del apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación de fecha 18 de Junio de 2008, mediante la modalidad y prevenciones previstas en la presente Declaratoria e incorporado en los ordenamientos enunciados en la misma. En consecuencia, las garantías consagradas por la reforma constitucional anteriormente citada, empezarán a regular la forma y términos en que se substanciarán los procedimientos penales.
 
@@ -3281,7 +3279,7 @@ P.O. 17 DE MARZO DE 2011.
 
 PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
 
-SEGUNDO.- Dentro de los 30 días posteriores a la publicación del presente Decreto, el Ejecutivo del Estado, expedirá las disposiciones reglamentarias a que se refieren los artículos 128 quater, 128 quater1 y 128 quater2 del artículo segundo del presente decreto.
+SEGUNDO.- Dentro de los 30 días posteriores a la publicación del presente Decreto, el Ejecutivo del Estado, expedirá las disposiciones reglamentarias a que se refieren los artículos 128 quater, 128 quater 1 y 128 quater 2 del artículo segundo del presente decreto.
 
 El reglamento deberá contener entre otras disposiciones lo siguiente:
 
@@ -3336,6 +3334,16 @@ TERCERO. Una vez instaurado el Consejo Directivo, este tendrá 30 días para la 
 CUARTO. Se derogan las disposiciones que se opongan al presente decreto.
 
 P.O. 6 DE DICIEMBRE DE 2012.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a las contenidas en este decreto.
+
+P.O. 10 DE MARZO DE 2013.
 
 ###### ARTÍCULO PRIMERO.
 
