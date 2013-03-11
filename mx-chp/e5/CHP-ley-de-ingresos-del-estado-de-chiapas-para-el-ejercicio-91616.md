@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-ingresos-del-estado-de-chiapas-para-el-ejercicio-91616"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2012-12-31"
-last_updated: "2012-12-31"
+last_updated: "2013-03-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91616&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE INGRESOS DEL ESTADO DE CHIAPAS PARA EL EJERCICIO FISCAL 2013
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el lunes 31 de diciembre de 2012.
 
@@ -377,6 +377,18 @@ Tratándose de las personas que tengan como actividad ofertar al público la cel
 
 Las disposiciones señaladas en el presente Capítulo no limitan la potestad de las autoridades hacendarias para que, en términos de la legislación de la materia, otorguen o autoricen los beneficios y estímulos fiscales necesarios para el cumplimiento de los planes y programas institucionales de gobierno.
 
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2013)</small>
+
+###### Artículo 11.
+
+Se otorgará un descuento del 20% durante los meses de enero y febrero, 10% en el mes de marzo y 5% en el mes de abril, para aquellas personas físicas, sujetas al pago del Impuesto Estatal sobre Tenencia o Uso de Vehículos.
+
+Para la aplicación del beneficio establecido en el párrafo anterior, no se generarán actualizaciones, recargos y multas.
+
+Para hacerse acreedor al beneficio fiscal antes referido, las personas físicas sujetas al pago de este impuesto, no deberán contar con adeudos y/o créditos fiscales a su cargo.
+
+La aplicación del presente beneficio fiscal dará lugar a la devolución o compensación, del monto porcentual enunciado en el primer párrafo del presente artículo, previo cumplimiento de lo dispuesto en el Código de la Hacienda Pública para el Estado de Chiapas para tales efectos, a aquellas personas físicas que en el presente ejercicio fiscal hayan realizado el pago del Impuesto Estatal sobre Tenencia o Uso de Vehículos, a excepción de aquellas personas físicas propietarias de vehículos de más de 9 años de antigüedad que hayan liquidado sus impuestos fiscales en materia vehicular antes de la entrada en vigor del presente Decreto.
+
 ## TRANSITORIOS
 
 Artículo Primero.- La presente Ley entrará en vigor a partir del día primero de enero del dos mil trece, y su vigencia será hasta el día treinta y uno de diciembre del dos mil trece.
@@ -398,3 +410,11 @@ Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Chi
 De conformidad con la fracción I del artículo 44 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas, a los treinta y un días del mes de diciembre del año dos mil doce.
 
 Manuel Velasco Coello, Gobernador del Estado de Chiapas.- Noé Castañón León, Secretario General de Gobierno.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 11 DE MARZO DE 2013.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial.
+
+Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
