@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-municipal-que-regula-la-venta-y-consumo-de-41725"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-05-28"
-last_updated: "1993-05-28"
+last_updated: "2013-03-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41725&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO MUNICIPAL QUE REGULA LA VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS Y CERVEZA EN EL MUNICIPIO DE PESQUERIA, NUEVO LEON
 
-REGLAMENTO MUNICIPAL QUE REGULA LA VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS Y CERVEZA EN EL MUNICIPIO DE PESQUERIA, NUEVO LEON
+REGLAMENTO MUNICIPAL QUE REGULA LA VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS Y CERVEZA EN EL MUNICIPIO DE PESQUERIA, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DEL REGLAMENTO QUE REGULA LOS ESTABLECIMIENTOS DE VENTA, EXPENDIO Y/O CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL MUNICIPIO DE PESQUERIA, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 11 DE MARZO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: DEROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 28 de mayo de 1993.
 
@@ -750,3 +752,13 @@ C. Rogelio González Guajardo
 C. SECRETARIO DEL AYUNTAMIENTO
 
 Lic. Jesús M. Lizárraga Lozano
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 11 DE MARZO DE 2013.
+
+Primero.- El presente REGLAMENTO PARA LA PREVENCIÓN Y COMBATE AL ABUSO DEL ALCOHOL Y DE REGULACIÓN DE SU VENTA, EXPENDIO Y CONSUMO EN EL MUNICIPIO DE PESQUERIA, NUEVO LEÓN, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se abroga el presente Reglamento que Regula los Establecimientos de Venta, Expendio y/o Consumo de Bebidas Alcohólicas del Municipio de Pesquería, Nuevo León, el cual es aprobado en Sesión Ordinaria de Cabildo No. 7, de fecha 20 de Febrero del 2013, por lo tanto se manda imprimir, publicar y circular para su debido cumplimiento.
+
+Tercero.- Se Deroga el Reglamento que regula la Venta y consumo de Bebidas Alcohólicas y Cerveza de Pesquería, Nuevo León, publicada el 28 de Mayo de 1995 (sic).
