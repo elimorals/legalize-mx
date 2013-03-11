@@ -4,7 +4,7 @@ identifier: "HID-reglamento-interior-de-la-secretaria-del-trabajo-y-84883"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-12-26"
-last_updated: "2011-12-26"
+last_updated: "2013-03-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84883&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DEL TRABAJO Y PREVISIÓN SOCIAL DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2013.
 
 Reglamento publicado en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 26 de diciembre de 2011.
 
@@ -57,35 +57,45 @@ IV.- SECRETARIO: El titular de la Secretaría del Trabajo y Previsión Social; y
 
 V.- REGLAMENTO: El presente Reglamento Interior de la Secretaría del Trabajo y Previsión Social; (sic)
 
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2013)</small>
+
 ###### ARTÍCULO 4.
 
-La Secretaría, a través de sus unidades administrativas, órganos desconcentrados y organismos descentralizados de la Administración Pública Estatal y por conducto de sus servidores públicos, realizará sus actividades en forma programada, conforme a los objetivos Estatales, estrategias, prioridades y programas contenidos en el Plan Estatal de Desarrollo, el programa sectorial respectivo y las políticas que para el despacho de los asuntos establezca el Gobernador del Estado, en coordinación, en su caso, con otras dependencias y entidades de la Administración Pública Federal y Estatal.
+La Secretaría, a través de sus unidades administrativas y órganos desconcentrados, realizará sus actividades en forma programada, conforme a los objetivos Estatales, estrategias, prioridades y programas contenidos en el Plan Estatal de Desarrollo, el programa sectorial respectivo y a las políticas que para el despacho de los asuntos establezca el Gobernador, en coordinación, en su caso, con otras Dependencias y Entidades de la Administración Pública Federal y Estatal.
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 5.
 
-La Secretaría, para el ejercicio de las funciones y despacho de los asuntos que le competen, contará con las unidades administrativas y Organismos Descentralizados de la Administración Pública Estatal, siguientes:
+La Secretaría, para el estudio, planeación, organización, programación, presupuestación, dirección, coordinación, control, supervisión, evaluación, ejercicio de las funciones y despacho de los asuntos que le competen, contará con los servidores públicos, las unidades administrativas y órganos desconcentrados, siguientes:
 
-I.- Dirección General del Trabajo y Previsión Social;
+I.- Secretario
 
-II.- Dirección General de Administración;
+II.- Dirección General del Trabajo y Previsión Social;
 
-III.- Dirección General del Servicio Nacional de Empleo Hidalgo;
+III.- Dirección General de Administración;
 
-IV.- Junta Local de Conciliación y Arbitraje;
+IV.- Dirección General del Servicio Nacional de Empleo Hidalgo;
 
-V.- Tribunal Estatal de Conciliación y Arbitraje;
+V.- Dirección General de Planeación y Evaluación;
 
-VI.- Procuraduría de la Defensa del Trabajo; y
+VI.- Junta local de Conciliación y Arbitraje;
 
-VII.- Organismos Públicos Descentralizados que le correspondan como Dependencia Coordinadora de Sector, por disposición legal o por determinación del Titular del Poder Ejecutivo Estatal.
+VII.- Tribunal Estatal de Conciliación y Arbitraje; y
+
+VIII.- Órganos Desconcentrados.
+
+a.- Procuraduría Estatal de la Defensa del Trabajo; (sic)
 
 ### CAPÍTULO II
 
 DE LAS FACULTADES DEL SECRETARIO.
 
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2013)</small>
+
 ###### ARTÍCULO 6.
 
-El titular de la Secretaría para el ejercicio de sus facultades se auxiliará de los Directores Generales, Junta Local de Conciliación y Arbitraje, Tribunal de Arbitraje, Directores de Área y de la estructura orgánica autorizada.
+El titular de la Secretaría para el ejercicio de sus facultades se auxiliará de los Directores Generales, Junta Local de Conciliación y Arbitraje, Tribunal Estatal de Conciliación y Arbitraje, Directores de Área y de la estructura orgánica autorizada.
 
 ###### ARTÍCULO 7.
 
@@ -93,9 +103,15 @@ La representación, trámite y resolución de los asuntos competencia de la Secr
 
 I.- Conferir sus facultades delegables a servidores públicos subalternos, sin perjuicio de su ejercicio directo;
 
-II.- Autorizar a servidores públicos subalternos para que atiendan comisiones, realicen actos y suscriban documentos que formen parte del ejercicio de las facultades que tengan el carácter de delegables; y
+II.- Autorizar a servidores públicos subalternos para que atiendan comisiones, realicen actos y suscriban documentos que formen parte del ejercicio de las facultades que tengan el carácter de delegables; y (sic)
 
-III.- Resolver recursos administrativos e imponer sanciones administrativas.
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2013)</small>
+
+III.- Tramitar y resolver los recursos administrativos que le correspondan; y
+
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 2013)</small>
+
+IV.- Aplicar las sanciones administrativas que correspondan a los patrones y trabajadores, por violación a la legislación laboral, en términos de la Ley Federal del Trabajo, Ley Orgánica de la Administración Pública para el Estado de Hidalgo, Reglamentos y Normatividad aplicables.
 
 ###### ARTÍCULO 8.
 
@@ -111,7 +127,9 @@ IV.- Fijar, conducir y evaluar las políticas laborales de la Secretaría; coord
 
 V.- Proponer y formular al Gobernador del Estado las políticas y programas del sector productivo de conformidad con los objetivos, políticas y líneas de acción del Plan Estatal de Desarrollo;
 
-VI.- Someter al acuerdo del Gobernador del Estado, los asuntos encomendados a la Secretaría, e informarle sobre el desarrollo de las actividades de las dependencias adscritas a esta;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2013)</small>
+
+VI.- Someter al acuerdo del Gobernador, los asuntos encomendados a la Secretaría, e informarle sobre el desarrollo de las actividades de las unidades administrativas adscritas a esta;
 
 VII.- Desempeñar las comisiones y funciones especiales que el Gobernador del Estado le confiera, e informarle oportunamente sobre el desarrollo de las mismas;
 
@@ -123,13 +141,19 @@ X.- Ejercer en el ámbito Estatal las atribuciones que en materia laboral le cor
 
 XI.- Coordinar la integración y establecimiento de la Junta Local de Conciliación y Arbitraje, las Especiales y las Comisiones que se formen para regular las relaciones obrero-patronales que sean de jurisdicción Estatal, así como vigilar su funcionamiento;
 
-XII.- Dirigir y coordinar la Procuraduría de la Defensa del Trabajo y prestar a través de ella asistencia jurídica gratuita a los sindicatos o trabajadores que lo soliciten, y representarlos ante los Tribunales del Trabajo;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2013)</small>
+
+XII.- Dirigir y coordinar la Procuraduría Estatal de la Defensa del Trabajo y prestar a través de ella asistencia jurídica gratuita a los sindicatos o trabajadores que lo soliciten, y representarlos ante los Tribunales del Trabajo;
 
 XIII.- Expedir los manuales de organización, de procedimientos de la Secretaría; y de atención al público en general;
 
-XIV.- Proponer al Ejecutivo Estatal la creación, modificación, fusión o extinción de unidades administrativas, así como aprobar la creación de plazas de la Secretaría;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2013)</small>
 
-XV.- Ordenar la creación y presidir, en su caso, las Juntas de Gobierno, las comisiones o comités, permanentes o transitorios necesarios para la mejor atención de los asuntos a su cargo, así como designar a los representantes de la Secretaría que deban integrarlos;
+XIV.- Proponer al Ejecutivo Estatal la creación, modificación, fusión o extinción de unidades administrativas;
+
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2013)</small>
+
+XV.- Establecer y presidir, las comisiones o comités, permanentes o transitorios necesarios para la mejor atención de los asuntos a su cargo, así como designar a los representantes de la Secretaría que deban integrarlos;
 
 XVI.- Designar representantes de la Secretaría en las comisiones, consejos, congresos, organizaciones, entidades e instituciones nacionales e internacionales en que participe la misma;
 
@@ -155,15 +179,19 @@ XXVI.- Establecer los lineamientos, normas y políticas mediante las cuales prop
 
 XXVII.- Determinar los lineamientos que habrán de regir para la difusión de las actividades y funciones propias de la Secretaria, a través del área de Comunicación Social de Gobierno del Estado; y
 
-XXVIII.- Las demás que con ese carácter le confieran las disposiciones legales, el presente Reglamento y el titular del Ejecutivo Estatal.
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2013)</small>
+
+XXVIII.- Las demás que con ese carácter le confieran las disposiciones legales aplicables, el presente Reglamento y el titular del Ejecutivo Estatal.
 
 ### CAPÍTULO III
 
 DE LAS FACULTADES GENÉRICAS DE LAS DIRECCIONES GENERALES.
 
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2013)</small>
+
 ###### ARTÍCULO 9.
 
-Las Direcciones Generales se auxiliarán de Direcciones y Subdirecciones de Área, Encargados de Departamento así como personal técnico y administrativo que se determine en el manual de organización y que las necesidades del servicio requieran conforme al presupuesto autorizado.
+Al frente de cada Unidad Administrativa y Órgano Desconcentrado habrá un Director General, con la denominación que en cada caso se señale en este Reglamento, se auxiliarán de Direcciones y Subdirecciones de Área, Encargados de Departamento, así como, del personal técnico y administrativo que las necesidades del servicio requieran y se determinen conforme al presupuesto autorizado, con las funciones que en el manual de organización se estipulen.
 
 ###### ARTÍCULO 10.
 
@@ -185,7 +213,9 @@ VII.- Proponer el nombramiento y remoción de su personal de apoyo, así como de
 
 VIII.- Suscribir los documentos relativos al ejercicio de sus facultades;
 
-IX.- Proponer al Secretario la delegación de sus facultades en servidores públicos subalternos;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2013)</small>
+
+IX.- Delegar sus facultades en servidores públicos subalternos, de acuerdo a las necesidades y para el mejor funcionamiento de la Dirección a su cargo;
 
 X.- Proporcionar información, datos y la cooperación técnica que se (sic) le sea requerida internamente por otras dependencias, de acuerdo a las políticas establecidas a este respecto;
 
@@ -207,11 +237,15 @@ XVII.- Las demás que le señalen el Secretario y otras disposiciones legales ap
 
 DE LAS ATRIBUCIONES ESPECÍFICAS DE LAS DIRECCIONES GENERALES.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MARZO DE 2013)</small>
+
 ###### ARTÍCULO 11.
 
-La Dirección General del Trabajo y Previsión Social, tendrá las siguientes atribuciones:
+La Dirección General del Trabajo y Previsión Social, tendrá las siguientes facultades:
 
-I.- Vigilar la observancia y aplicación de las disposiciones en materia laboral contenidas en la Constitución Política de Los Estados Unidos Mexicanos, en la Constitución Política del Estado Libre y Soberano de Hidalgo, en Ley (sic) Federal del Trabajo y en la Ley de los Trabajadores al Servicio de los Gobiernos Estatal y Municipales, así como de los Organismos Descentralizados para el Estado de Hidalgo y demás reglamentos y normas aplicables;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2013)</small>
+
+I.- Vigilar la observancia y aplicación de las disposiciones en materia laboral contenidas en la Constitución Política de los Estados Unidos Mexicanos, en la Constitución Política del Estado Libre y Soberano de Hidalgo, en la Ley Federal del Trabajo y en la Ley de los Trabajadores al Servicio de los Gobiernos Estatal y Municipales, así como de los Organismos Descentralizados para el Estado de Hidalgo y demás Reglamentos y normas aplicables;
 
 II.- Servir de enlace en conflictos con las autoridades laborales en el Estado;
 
@@ -221,19 +255,27 @@ IV.- Elaborar y mantener actualizado un padrón de sindicatos de trabajadores, p
 
 V.- Asistir en representación de la Secretaría, a las sesiones del Sector Laboral Federal, de la Comisión Consultiva Estatal de Seguridad e Higiene en el Trabajo y el Consejo para el Diálogo con los Sectores Productivos;
 
-VI.- Vigilar que en los centros de trabajo de su competencia se cumplan con las Condiciones Generales de Trabajo y de Seguridad e Higiene, contenidas en la Constitución Política de los Estados Unidos Mexicanos, en la Ley Federal del Trabajo y en sus Reglamentos, normas oficiales mexicanas, instructivos, convenios, acuerdos y contratos de trabajo, así como de todas aquellas disposiciones dictadas por la Secretaría en ejercicio de sus facultades, y solicitar por escrito, directa o indirectamente, a los patrones, trabajadores e integrantes de las comisiones mixtas, se le envíe la información y documentación necesaria para vigilar dicho cumplimiento;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2013)</small>
+
+VI.- Vigilar, que los centros de trabajo de competencia local ubicados dentro del territorio del Estado, cumplan con las Condiciones Generales de Trabajo, Seguridad e Higiene y Capacitación y Adiestramiento, contenidas en la Constitución Política de los Estados Unidos Mexicanos, en la Ley Federal del Trabajo y en sus Reglamentos, normas oficiales mexicanas, instructivos, convenios, acuerdos y contratos de trabajo, así como de todas aquellas disposiciones dictadas por la Secretaría en ejercicio de sus facultades, y solicitar por escrito, directa o indirectamente, a los patrones, trabajadores e integrantes de las comisiones mixtas a que se refiere la Ley de la Materia, se le envíe la información y documentación necesaria para vigilar dicho cumplimiento.
 
 VII.- Ejercer por delegación del Secretario y en el ámbito estatal, las atribuciones que le correspondan en materia de administración laboral, con apego a lo dispuesto en la Ley Federal del Trabajo;
 
-VIII.- Facilitar información técnica y asesorar a los trabajadores y a los patrones sobre la manera más efectiva de cumplir las normas de trabajo, de previsión social y las contractuales de carácter laboral, así como procurar la obtención de promesas de cumplimiento voluntario en materia de Seguridad e Higiene en el Trabajo y de Condiciones Generales de Trabajo;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2013)</small>
 
-IX.- Asesorar y orientar a trabajadores y patrones, mediante visitas directas a los centros de trabajo ubicados en el Estado, sobre Condiciones Generales de Trabajo y de Seguridad e Higiene para facilitar el cumplimiento voluntario en los casos que estime pertinente;
+VIII.- Facilitar información técnica y asesorar a los trabajadores y a los patrones sobre la manera más efectiva de cumplir las normas de trabajo, de previsión social y las contractuales de carácter laboral, así como procurar la obtención de promesas de cumplimiento voluntario en materia de Seguridad e Higiene en el Trabajo, Capacitación y Adiestramiento y de Condiciones Generales de Trabajo;... (sic)
+
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2013)</small>
+
+IX.- Asesorar y orientar a trabajadores y patrones, mediante visitas directas a los centros de trabajo ubicados en el Estado, sobre Condiciones Generales de Trabajo, de Seguridad e Higiene y Capacitación y Adiestramiento, para facilitar el cumplimiento voluntario en los casos que estime pertinente; … (sic)
 
 X.- Capacitar y asesorar a los integrantes de las comisiones de Seguridad e Higiene cuando así lo soliciten;
 
 XI.- Vigilar y asesorar a los patrones para que contribuyan al fomento de las actividades educativas, culturales y deportivas entre sus trabajadores y proporcionen a éstos, los equipos y útiles indispensables para el desarrollo de tales actividades;
 
-XII.- Programar, ordenar, practicar y firmar las inspecciones iníciales, periódicas, de comprobación, extraordinarias en materia laboral, en los establecimientos y centros de trabajo competencia de las autoridades estatales del trabajo, para verificar el cumplimiento de la normatividad laboral, así como las visitas de supervisión a los hechos asentados por los Inspectores Estatales del Trabajo en las actas de inspección; dichas inspecciones podrán ser programadas, ordenadas, practicadas y firmadas por el Director de Normatividad Laboral.
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2013)</small>
+
+XII.- Programar, ordenar y practicar por conducto de los Inspectores Estatales del Trabajo las inspecciones ordinarias y extraordinarias o de cualquier otra modalidad en materia laboral, sobre Condiciones Generales de Trabajo, a los establecimientos y centros de trabajo de competencia local, y sobre Seguridad e Higiene y Capacitación y Adiestramiento, en auxilio de las autoridades federales del ramo, para verificar el cumplimiento de la normatividad laboral, así como, las visitas de supervisión a los hechos asentados por los Inspectores Estatales del Trabajo en las actas de inspección.
 
 XIII.- Vigilar, capacitar y asesorar el funcionamiento de las Comisiones de Seguridad e Higiene en los centros de trabajo;
 
@@ -241,13 +283,19 @@ XIV.- Dictaminar las actas levantadas por los Inspectores Estatales del Trabajo;
 
 XV.- Notificar los plazos en que deban cumplirse las medidas de seguridad e higiene, contenidas en las actas levantadas por los inspectores. En caso de peligro inminente, podrá ordenar la adopción de medidas de aplicación inmediata, incluyendo las relativas al funcionamiento de empresas, establecimientos, de maquinaria, instalaciones y equipo, así como de áreas y métodos de trabajo;
 
-XVI.- Instaurar el Procedimiento Administrativo para el cumplimiento de Condiciones Generales de Trabajo y las contractuales, así como las de los convenios que en materia laboral hayan sido celebrados por el Estado. La instauración, substanciación y firma de los acuerdos y resoluciones derivadas de dicho procedimiento, serán responsabilidad del titular de la Dirección General del Trabajo y Previsión Social;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2013)</small>
 
-XVII.- Aplicar las sanciones que correspondan a los centros de trabajo que, previo el Procedimiento Administrativo Sancionador, no acreditaron el cumplimiento de las Condiciones Generales de Trabajo, conforme a la Ley Federal del Trabajo y el Reglamento de Inspección correspondiente;
+XVI.- Instaurar, sustanciar y resolver el Procedimiento Administrativo para la Aplicación de Sanciones por Violaciones a la Legislación Laboral en materia de Condiciones Generales de Trabajo; por violaciones a las demás normas de trabajo, de previsión social, las contractuales de carácter laboral, así como, las de los convenios que en materia laboral hayan sido celebrados por el Estado, normas oficiales mexicanas, las de los tratados y convenios internacionales en materia laboral ratificados por México de su competencia;
+
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2013)</small>
+
+XVII.- Aplicar las sanciones que correspondan a los patrones o a los trabajadores que, previo el Procedimiento Administrativo para la Aplicación de Sanciones por Violaciones a la Legislación Laboral, respectivo, no acreditaron el cumplimiento de las Condiciones Generales de Trabajo, conforme a lo establecido en la Ley Federal del Trabajo, el Reglamento General para la Inspección y Aplicación de Sanciones por Violaciones a la Legislación Laboral, y demás disposiciones aplicables;
 
 XVIII.- Practicar las diligencias de notificación derivadas de las inspecciones y de la aplicación de sanciones por violaciones a la legislación laboral.
 
-XIX.- Remitir a la autoridad competente, para los efectos legales procedentes, las actuaciones de las que se desprendan presuntas violaciones a la legislación laboral;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2013)</small>
+
+XIX.- Remitir a las autoridades del trabajo competentes, las actas levantadas por los inspectores estatales del trabajo en auxilio de las autoridades laborales de la federación, y demás actuaciones, de las que se desprendan presuntas violaciones a la legislación laboral; en materia de Seguridad e Higiene y Capacitación y Adiestramiento, para los efectos legales procedentes.
 
 XX.- Denunciar ante el Ministerio Público, los hechos que se susciten o se conozcan con motivo de las diligencias de inspección, cuando los mismos puedan configurar la comisión de un delito;
 
@@ -259,15 +307,25 @@ XXIII.- Vigilar el cumplimiento de las normas que regulan el trabajo de las muje
 
 XXIV.- Llevar a cabo los trámites y registros que se deriven de las actividades que realicen los inspectores del trabajo;
 
-XXV.- Proponer los programas anuales de capacitación especializada en materia de Inspección Laboral, en coordinación con la Dirección General Administrativa; y
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2013)</small>
 
-XXVI.- Las demás que le sean encomendadas por el Secretario, le confiera el Reglamento y otras disposiciones legales vigentes.
+XXV.- Proponer los programas anuales de capacitación especializada en materia de Inspección del trabajo, en coordinación con la Dirección General Administrativa.
+
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2013)</small>
+
+XXVI.- Remitir a la Secretaría de Finanzas y Administración del Estado de Hidalgo, las constancias o actuaciones administrativas respectivas, para el efecto de que ejecute, por conducto de la Unidad Administrativa que corresponda, el cobro de las sanciones impuestas a los patrones o trabajadores por incumplimiento o violación a la normatividad laboral; y
+
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 2013)</small>
+
+XXVII.- Las demás que le sean encomendadas por el Secretario, le confiera el Reglamento y otras disposiciones legales aplicables.
 
 #### SECCIÓN II. DE LA DIRECCIÓN GENERAL DE ADMINISTRACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MARZO DE 2013)</small>
+
 ###### ARTÍCULO 12.
 
-Corresponde a la Dirección General de Administración, administrar los recursos humanos, materiales, financieros y servicios necesarios para el funcionamiento de la Secretaría, conforme a los procedimientos y políticas establecidas, buscar niveles de excelencia en la prestación de los servicios respectivos, así como;
+Corresponde a la Dirección General de Administración, administrar los recursos humanos, materiales, financieros y servicios necesarios para el funcionamiento de la Secretaría, conforme a los procedimientos y políticas establecidas;
 
 I.- Coordinar el trámite de dotaciones y reposiciones financieras de las unidades administrativas y órgano desconcentrado a que se refiere el Artículo 5 de este reglamento;
 
@@ -285,19 +343,19 @@ VII.- Tramitar ante la Dirección General de Administración y Desarrollo de Per
 
 VIII.- Vigilar el cumplimiento de las políticas y lineamientos para el ejercicio, control y registro en materia de servicios personales, recursos materiales, servicios del despacho y unidades administrativas a la Secretaría;
 
-IX.- Coordinar la elaboración y entrega del informe de actividades desarrolladas por las unidades administrativas, órgano desconcentrado y organismos descentralizados de la administración pública estatal que como coordinadora de sector le corresponda a la Secretaría, para la formulación del informe del Gobernador;
+IX.- (DEROGADA, P.O. 11 DE MARZO DE 2013)
 
 X.- Coordinar con los titulares de las unidades administrativas y órganos desconcentrados dependientes de la Secretaría, la elaboración de los manuales de organización interna y de procedimientos, necesarios para el despacho eficiente de los asuntos competencia de la Secretaría;
 
-XI.- Establecer los sistemas de control necesarios para alcanzar las metas y objetivos propuestos;
+XI.- (DEROGADA, P.O. 11 DE MARZO DE 2013)
 
 XII.- Servir como enlace de la Secretaría con las Dependencias y Entidades del Poder Ejecutivo;
 
 XIII.- Apoyar al Despacho de la Secretaría en las actividades de gestión ante los sectores social, académico y empresarial, a fin de estrechar su relación con ellos;
 
-XIV.- Brindar apoyo al Despacho de la Secretaría con la provisión de sistemas y herramental técnico que le permitan mejorar sus procesos y eficientar sus actividades;
+XIV.- (DEROGADA, P.O. 11 DE MARZO DE 2013)
 
-XV.- Construir, actualizar y administrar la información estadística del sector para brindar elementos al Despacho de la Secretaría en la toma de decisiones; y
+XV.- (DEROGADA, P.O. 11 DE MARZO DE 2013)
 
 XVI.- Las demás que le sean conferidas por el Secretario, las Leyes y Reglamentos vigentes.
 
@@ -363,69 +421,129 @@ XXVII.- Participar como integrante en los consejos mixtos, que directamente inci
 
 XXVIII.- Las demás que le sean encomendadas por el Secretario del Trabajo, le confiera el reglamento y otras disposiciones legales vigentes.
 
-#### SECCIÓN I. DE LOS ÓRGANOS DESCONCENTRADOS
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 2013)</small>
+
+#### SECCIÓN IV. DE LA DIRECCIÓN GENERAL DE PLANEACIÓN Y EVALUACIÓN
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 14.
 
-La Junta Local de Conciliación y Arbitraje en el Estado de Hidalgo, es un Tribunal con plena jurisdicción, integrado por igual número de representantes de trabajadores y patrones y uno de gobierno, atento a lo dispuesto por el Artículo 123 apartado A fracción XX de la Constitución Política de los Estados Unidos Mexicanos, cuya función primordial es la tramitación y resolución de los conflictos de trabajo que se susciten entre trabajadores y patrones, solo entre aquellos o solo entre estos, afines con sus relaciones individuales o colectivas de trabajo o de aquellos hechos íntimamente relacionados con ellas, de conformidad con la competencia derivada de los Artículos 123 apartado A fracción XXXI y 124 constitucionales.
+Corresponde a la Dirección General de Planeación y Evaluación impulsar las políticas, lineamientos, criterios, acciones y etapas del proceso de planeación dentro de la Secretaría, así como:
 
-#### SECCION II. DE LOS ORGANISMOS DESCENTRALIZADOS
+I.- Coordinar las políticas, lineamientos, criterios, acciones y establecer las metas relativas a la prestación de servicios de información y estadística, que contribuyan al óptimo y oportuno desarrollo de las funciones y actividades de la dependencia.
+
+II.- Coordinar y vigilar que se lleven a cabo correctamente las etapas de planeación, programación, presupuestación y evaluación del proceso de planeación integral para diseñar acciones estratégicas preventivas y correctivas de corto, mediano y largo plazo dentro de la Secretaría;
+
+III.- Coordinar en el ámbito de su competencia la elaboración, ejecución, seguimiento y evaluación del apartado correspondiente al sector laboral en el Plan Estatal de Desarrollo;
+
+IV.- Coordinar la elaboración de los programas sectoriales, institucionales y especiales que correspondan al Sector Laboral Estatal;
+
+V.- Coordinar los trabajos de diseño, revisión y actualización de los planes y programas del sector laboral del estado, conforme lo señalado, en su caso, por los Sistemas Nacional, Estatal y Municipal de Planeación;
+
+VI.- Coordinar la elaboración del Programa Operativo Anual con las demás unidades administrativas que integran a la Secretaría, de acuerdo a las necesidades del sector con base en los lineamientos y criterios de austeridad y eficiencia del gasto;
+
+VII.- Elaborar en coordinación con las unidades administrativas que integran a la Secretaría los informes de labores con periodicidad anual, trimestral y/o mensual, de acuerdo a los requerimientos del Ejecutivo Estatal;
+
+VIII.- Diseñar, operar y fortalecer las acciones de identificación de necesidades de los agentes laborales, análisis estadístico y elaboración de políticas del mercado laboral, como mecanismo de orden sectorial alineado a sus similares nacionales e internacionales;
+
+IX.- Diseñar e implementar un modelo de evaluación de las acciones de identificación de necesidades de los agentes laborales, análisis estadístico y elaboración de políticas del mercado laboral, como instrumento que permitirá realizar los ajustes y modificaciones necesarias para su mejor operación y aprovechamiento;
+
+X.- Establecer, operar y actualizar los mecanismos de evaluación de las unidades administrativas que integran a la Secretaría, a fin de determinar su funcionalidad en estricto apego a la normatividad vigente;
+
+XI.- Diseñar, construir y actualizar bases de datos locales, nacionales e internacionales sobre variables de incidencia directa e indirecta en el tema de empleo, convirtiéndolas en una fuente de datos veraz, objetiva, puntual y precisa para la toma de decisiones estratégicas del sector;
+
+XII.- Proporcionar información sobre la situación que guarda el empleo y la ocupación, que sea requerida de forma oficial, así como difundir dicha información para el desarrollo económico del Estado;
+
+XIII.- Analizar las publicaciones del orden laboral que sirvan de apoyo a las unidades administrativas de la Secretaría en el desarrollo de sus actividades;
+
+XIV.- Coordinar la integración de la información para las comparecencias del titular de la Secretaría ante el H. Congreso del Estado;
+
+XV.- Integrar las presentaciones ejecutivas para el titular de la Secretaría que sean expuestas en foros cuya temática sea propia del sector laboral;
+
+XVI.- Participar en las comisiones, comités y subcomités de información, planeación y estadística, cuyo fin sea la generación de estadísticas e indicadores que proporcionen un conocimiento amplio de la situación del sector laboral en el estado; y
+
+XVII.- Las demás que le sean encomendadas por el Secretario, le confiera el Reglamento y otras disposiciones legales vigentes.
+
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 2013)</small>
+
+#### SECCIÓN V. DE LA JUNTA LOCAL DE CONCILIACIÓN Y ARBITRAJE EN EL ESTADO DE HIDALGO
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 15.
 
-Las facultades y atribuciones de la Junta Local de Conciliación y Arbitraje en el Estado y de la Especial que conoce de los conflictos suscitados entre los trabajadores de la Universidad Autónoma del Estado de Hidalgo están comprendidas y son las que están debidamente consignadas en la Constitución Política de los Estados Unidos Mexicanos, la Ley Federal del Trabajo, la Ley Orgánica de la Administración Pública del Estado, su Reglamento Interior y Manual de Procedimientos.
+La Junta Local de Conciliación y Arbitraje en el Estado de Hidalgo, es un Tribunal con plena jurisdicción, integrado por igual número de representantes de trabajadores y ·patrones y uno de Gobierno, atento a lo dispuesto por el Artículo 123 apartado A fracción XX de la Constitución Política de los Estados Unidos Mexicanos, cuya función primordial es la tramitación y resolución de los conflictos de trabajo que se susciten entre trabajadores y patrones, solo entre aquellos o solo entre estos, afines con sus relaciones individuales o colectivas de trabajo o de aquellos hechos íntimamente relacionados con ellas, de conformidad con la competencia derivada de los Artículos 123 apartado A fracción XXXI y 124 Constitucionales.
 
-DEL TRIBUNAL ESTATAL DE CONCILIACIÓN Y ARBITRAJE EN EL ESTADO DE HIDALGO
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 16.
 
-El Tribunal Estatal de Conciliación y Arbitraje en el Estado de Hidalgo, es un Tribunal con plena jurisdicción, integrado tripartitamente con un magistrado representante del Gobierno del Estado, un magistrado representante de los trabajadores designado por la mayoría de representantes de los trabajadores al servicio del Estado y un magistrado designado por los magistrados previamente citados o en su defecto por el Gobernador del Estado, y es competente para resolver los conflictos de trabajo que surjan de las relaciones laborales entre los trabajadores al servicio de los Gobiernos Estatal, Municipales y Organismos Descentralizados de dichos Gobiernos, de conformidad con lo dispuesto por los Artículos 73 fracción X, 115, 116 y 124 de la Constitución Política de los Estados Unidos Mexicanos, 114 y tercero transitorio de la Ley de los Trabajadores al Servicio de los Gobiernos Estatal y Municipales, así como de los Organismos Descentralizados del Estado de Hidalgo.
+Las facultades y atribuciones de la Junta Local de Conciliación y Arbitraje en el Estado y de la Especial que conoce de los conflictos suscitados entre los trabajadores de la Universidad Autónoma del Estado de Hidalgo están comprendidas y son las que están debidamente consignadas en la Constitución Política de los Estados Unidos Mexicanos, la Ley Federal del Trabajo, la Ley Orgánica de la Administración Pública para el Estado de Hidalgo, su Reglamento Interior y Manual de Procedimientos.
+
+> <small>(ADICIONADA, P.O. 11 DE MARZO DE 2013)</small>
+
+#### SECCIÓN VI. DEL TRIBUNAL ESTATAL DE CONCILIACIÓN Y ARBITRAJE EN EL ESTADO DE HIDALGO
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 17.
 
-La competencia del Tribunal Estatal de Conciliación y Arbitraje, se encuentra prevista en la Ley de los Trabajadores al Servicio de los Gobiernos Estatal y Municipales, así como de los Organismos Descentralizados del Estado de Hidalgo y las facultades y atribuciones se encuentran en sus respectivos manuales de organización y procedimientos.
+El Tribunal Estatal de Conciliación y Arbitraje en el Estado de Hidalgo, es un Tribunal con plena jurisdicción, integrado tripartitamente con un magistrado representante del Gobierno del Estado, un magistrado representante de los trabajadores designado por la mayoría de representantes de los trabajadores al servicio del Estado y un magistrado designado por los magistrados previamente citados o en su defecto por el Gobernador del Estado, y es competente para resolver los conflictos de trabajo que surjan de las relaciones laborales entre los trabajadores al servicio de los Gobiernos Estatal, Municipales y Organismos Descentralizados de dichos Gobiernos, de conformidad con lo dispuesto por los Artículos 73 fracción X, 115, 116 y 124 de la Constitución Política de los Estados Unidos Mexicanos, 114 y tercero transitorio de la Ley de los Trabajadores al Servicio de los Gobiernos Estatal y Municipales, así como de los Organismos Descentralizados del Estado de Hidalgo.
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 18.
 
-Para el despacho de los asuntos de su competencia, la Secretaría contará con Órganos Administrativos Desconcentrados que le estarán jerárquicamente subordinados y con facultades específicas para conocer y resolver sobre la materia que se les asigna o para la prestación de los servicios que se les encomiende.
+La competencia del Tribunal Estatal de Conciliación y Arbitraje, se encuentra prevista en la Ley de los Trabajadores al Servicio de los Gobiernos Estatal y Municipales, así como de los Organismos Descentralizados del Estado de Hidalgo y las facultades y atribuciones se encuentran en sus respectivos manuales de organización y procedimientos.
 
-### CAPÍTULO IV
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE MARZO DE 2013)</small>
 
-DE LA JUNTA LOCAL DE CONCILIACIÓN Y ARBITRAJE EN EL ESTADO DE HIDALGO.
+### CAPÍTULO IV. DE LOS ÓRGANOS DESCONCENTRADOS
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 19.
 
-Los Órganos Administrativos Desconcentrados y sus titulares tendrán las facultades que este Reglamento les confiera y, en su caso, las específicas que les señale el instrumento jurídico que los cree o regule, así como también los acuerdos de delegación de facultades que emita el Secretario.
+Para el despacho de los asuntos de su competencia, la Secretaría contará con Órganos Administrativos Desconcentrados que le estarán jerárquicamente subordinados y con facultades específicas para conocer y resolver sobre la materia que se les asigna o para la prestación de los servicios que se les encomiende.
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 20.
 
-La Procuraduría de la Defensa del Trabajo es un órgano desconcentrado de la Secretaría, que tiene a su cargo el cumplimiento, en el ámbito Estatal, de las funciones que le confieren los Artículos 530 a 536 de la Ley Federal del Trabajo, el presente Reglamento, el Reglamento interior de la misma y el manual de procedimientos.
+Los Órganos Administrativos Desconcentrados y sus titulares tendrán las facultades que este Reglamento les confiera y, en su caso, las específicas que les señale el instrumento jurídico que los cree o regule, así como también los acuerdos de delegación de facultades que emita el Secretario.
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 21.
 
-Para el despacho de los asuntos de su competencia, la Secretaría contará con Organismos Descentralizados de la Administración Pública Estatal, con personalidad jurídica y patrimonio propios y con facultades específicas que le determine su decreto de creación y estatuto orgánico.
+La Procuraduría Estatal de la Defensa del Trabajo es un órgano desconcentrado de la Secretaría, que tiene a su cargo el cumplimiento, en el ámbito Estatal, de las funciones que le confiere la .ley Federal del Trabajo, el presente Reglamento, el Reglamento Interior de la Procuraduría y el manual de procedimientos.
 
-La Secretaría como coordinadora de sector, tendrá las atribuciones que al efecto le señala la Ley de Entidades Paraestatales del Estado de Hidalgo, el Acuerdo de Sectorización y demás ordenamientos legales aplicables.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE MARZO DE 2013)</small>
 
-### CAPÍTULO V. DE LOS ÓRGANOS DESCONCENTRADOS Y ORGANISMOS DESCENTRALIZADOS
+### CAPÍTULO V. DEL ÓRGANO INTERNO DE CONTROL
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 22.
 
-La Secretaría contará con un Órgano de Control Interno que será designado en términos de la Ley Orgánica de la Administración Pública del Estado de Hidalgo.
+La Secretaría contará con un Órgano Interno de Control que será designado en términos de la Ley Orgánica de la Administración Pública para el Estado de Hidalgo.
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 23.
 
-Para el debido cumplimiento de las atribuciones a cargo del titular del Órgano de Control Interno, los servidores públicos de la Secretaría estarán obligados a proporcionarles el auxilio que les sea requerido.
+Para el debido cumplimiento de las atribuciones a cargo del titular del Órgano Interno de Control , los servidores públicos de la Secretaría estarán obligados a proporcionarles el auxilio que les sea requerido.
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 24.
 
-Los servidores públicos a que se refiere el Artículo anterior, ejercerán en el ámbito de sus respectivas competencias, las facultades previstas en la Ley Orgánica de la Administración Pública del Estado de Hidalgo, en la Ley de Responsabilidades de los Servidores Públicos para el Estado de Hidalgo y demás ordenamientos legales y administrativos aplicables, conforme al Reglamento Interior de la Secretaria de la Contraloría y Transparencia Gubernamental.
+Los servidores públicos a que se refiere el Artículo anterior, ejercerán en el ámbito de sus respectivas competencias, las facultades previstas en la Ley Orgánica de la Administración Pública para el Estado de Hidalgo, en la Ley de Responsabilidades de los Servidores Públicos para el Estado de Hidalgo y demás ordenamientos legales y administrativos aplicables, conforme al Reglamento Interior de la Secretaria de la Contraloría y Transparencia Gubernamental.
 
-DE LA SUPLENCIA DE LOS SERVIDORES PUBLICOS DE LA SECRETARÍA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE MARZO DE 2013)</small>
 
-### CAPÍTULO ÚNICO
-
-### CAPÍTULO VI. DE LA CONTRALORÍA INTERNA
+### CAPÍTULO VI. DE LA SUPLENCIA DE LOS SERVIDORES PÚBLICOS DE LA SECRETARÍA
 
 ###### ARTÍCULO 25.
 
@@ -444,3 +562,9 @@ Dado en la residencia del Poder Ejecutivo del Estado, en la ciudad de Pachuca de
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 
 LICENCIADO JOSÉ FRANCISCO OLVERA RUIZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 11 DE MARZO DE 2013.
+
+ÚNICO.- EI presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
