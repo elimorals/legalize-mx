@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-interior-de-la-policia-preventiva-y-transito-del-747
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-05-07"
-last_updated: "2010-12-17"
+last_updated: "2013-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74799&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "SIN"
 ---
 # REGLAMENTO INTERIOR DE LA POLICIA PREVENTIVA Y TRANSITO DEL MUNICIPIO DE AHOME, SINALOA
 
-REGLAMENTO INTERIOR DE LA POLICIA PREVENTIVA Y TRANSITO DEL MUNICIPIO DE AHOME DEL ESTADO DE SINALOA
+REGLAMENTO INTERIOR DE LA POLICÍA PREVENTIVA Y TRÁNSITO DEL MUNICIPIO DE AHOME DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el viernes 7 de mayo de 2010.
 
@@ -115,7 +115,7 @@ XXIII. Sistema Nacional de Información de Seguridad Pública: Registro de infor
 
 XXIV. Titular de la Institución: Director General de Seguridad Pública y Tránsito Municipal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE OCTUBRE DE 2010)</small>
 
 ###### ARTÍCULO 6.
 
@@ -1027,7 +1027,7 @@ III. Suspensión del servicio; y,
 
 IV. Baja.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE OCTUBRE DE 2010)</small>
 
 ###### ARTÍCULO 49.
 
@@ -1789,7 +1789,7 @@ Insuficiente 59 ó menos puntos.
 
 ## TÍTULO QUINTO. DEL SERVICIO POLICIAL DE CARRERA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 127.
 
@@ -2155,11 +2155,11 @@ Vencido el plazo establecido en el artículo anterior, los miembros de la corpor
 
 El tiempo que duren separados de su empleo y categoría, no se considerará como tiempo efectivo para los ascensos y promociones.
 
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2013)</small>
+
 ###### ARTÍCULO 166.
 
-Para el caso de muerte por causa de riesgo de trabajo, se otorgará pensión a los beneficiarios del agente fallecido, independientemente de la antigüedad, equivalente al cien por ciento del sueldo básico que hubiese percibido al momento de ocurrir el fallecimiento.
-
-Los servicios médicos se les seguirán otorgando a los beneficiarios de los agentes fallecidos por causa de riesgo de trabajo por el tiempo establecido y en las condiciones pactadas en el régimen de asistencia social que gocen.
+Para el caso de muerte por causa de riesgo de trabajo se otorgará pensión a los beneficiarios del agente fallecido, independientemente de la antigüedad, equivalente al 100% del sueldo base que hubiese percibido al momento de ocurrir el fallecimiento, y en los casos en que el agente haya sido privado de su vida sin portar el uniforme y por lo tanto el Instituto Mexicano del Seguro Social lo registra como no riesgo de trabajo, el gobierno municipal, deberá complementar al 100% la pensión de la viuda e hijos, logrando así obtener el mismo sueldo que percibía el agente en el desarrollo de su trabajo, los servicios médicos se le seguirán otorgando a los beneficiarios de los agentes fallecidos por causa de riesgo de trabajo por el tiempo establecido y en las condiciones pactadas en el régimen de asistencia social que gocen. La complementación de salario por parte del Municipio no aplicará para el caso en que el agente haya incurrido en actos contra la sociedad.
 
 ###### ARTÍCULO 167.
 
@@ -2299,7 +2299,7 @@ Quienes asistan a las sesiones deberán guardar la confidencialidad debida respe
 
 ### CAPÍTULO V. DE LAS FACULTADES DEL CONSEJO DE PARTICIPACIÓN CIUDADANA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 185.
 
@@ -2377,7 +2377,7 @@ LIC. BETHOVEN PACHECO GUTIERREZ.
 
 SECRETARIO DEL AYUNTAMIENTO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 27 DE OCTUBRE DE 2010.
 
@@ -2400,3 +2400,7 @@ DECRETO MUNICIPAL NO. 112
 ###### ARTÍCULO UNICO.
 
 El presente Decreto comenzará a surtir sus efectos a partir del día de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 11 DE MARZO DE 2013.
+
+Artículo Único.- El presente decreto entrará en vigor el día siguiente de su publicación, en el Periódico Oficial" El Estado de Sinaloa".
