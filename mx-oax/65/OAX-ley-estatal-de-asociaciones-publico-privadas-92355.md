@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-asociaciones-publico-privadas-92355"
 country: "mx"
 rank: "ley"
 publication_date: "2013-02-09"
-last_updated: "2013-02-09"
+last_updated: "2013-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92355&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "OAX"
 ---
 # LEY ESTATAL DE ASOCIACIONES PUBLICO PRIVADAS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE MARZO DE 2013 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY ESTATAL DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE OAXACA
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 11 DE MARZO 2013.</small>
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de febrero de 2013.
 
@@ -131,8 +131,6 @@ Los Municipios, dentro de sus respectivas jurisdicciones y por lo que se refiere
 
 ### Capítulo Primero. Del Administrador de los Proyectos
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE MARZO DE 2013 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 5.
 
 Para implementar un Proyecto en los términos de esta Ley se requiere:
@@ -143,21 +141,37 @@ II. La celebración de un Contrato en el que se establezcan los derechos y oblig
 
 III. Que el Contrato a través del cual se implemente el Proyecto cumpla con los requisitos siguientes:
 
-Sea celebrado por escrito y de conformidad con lo previsto en esta Ley;
+> <small>(F. DE E., P.O. 11 DE MARZO DE 2013)</small>
 
-El servicio que se obligue a prestar el Desarrollador tenga por objeto permitir a la Entidad Contratante cumplir o dar un mejor cumplimiento a sus funciones u objetivos institucionales;
+a) Sea celebrado por escrito y de conformidad con lo previsto en esta Ley;
 
-El Desarrollador asuma la responsabilidad de llevar a cabo el diseño, la construcción, la renovación, el suministro, el equipamiento, la rehabilitación, la operación, la conservación o el mantenimiento de la infraestructura y los demás activos que deban ser desarrollados para prestar el servicio contratado y, en su caso, de proveer servicios auxiliares para el aprovechamiento de esos activos;
+> <small>(F. DE E., P.O. 11 DE MARZO DE 2013)</small>
 
-El Desarrollador asuma la responsabilidad de obtener los recursos necesarios, sean propios o de terceros, para desarrollar los activos y para proveer los servicios auxiliares a que se refiere el inciso inmediato anterior, así como para prestar el servicio contratado;
+b) El servicio que se obligue a prestar el Desarrollador tenga por objeto permitir a la Entidad Contratante cumplir o dar un mejor cumplimiento a sus funciones u objetivos institucionales;
 
-Que la actividad que se obligue a desempeñar el Desarrollador para prestar el servicio contratado no constituya una función o un servicio público reservado en forma exclusiva al Estado por disposición constitucional o legal, respecto de los cuales no sea posible otorgar concesión alguna;
+> <small>(F. DE E., P.O. 11 DE MARZO DE 2013)</small>
 
-El plazo pactado para la prestación del servicio contratado no exceda de treinta años;
+c) El Desarrollador asuma la responsabilidad de llevar a cabo el diseño, la construcción, la renovación, el suministro, el equipamiento, la rehabilitación, la operación, la conservación o el mantenimiento de la infraestructura y los demás activos que deban ser desarrollados para prestar el servicio contratado y, en su caso, de proveer servicios auxiliares para el aprovechamiento de esos activos;
 
-La inversión necesaria para prestar el servicio contratado sea igual o superior al monto mínimo que determine el Reglamento, y
+> <small>(F. DE E., P.O. 11 DE MARZO DE 2013)</small>
 
-El pago de la contraprestación que tenga derecho a recibir el Desarrollador deba ser calculado en función de la disponibilidad y calidad del servicio efectivamente prestado, así como del resultado alcanzado, de acuerdo a los indicadores de desempeño pactados en el Contrato.
+d) El Desarrollador asuma la responsabilidad de obtener los recursos necesarios, sean propios o de terceros, para desarrollar los activos y para proveer los servicios auxiliares a que se refiere el inciso inmediato anterior, así como para prestar el servicio contratado;
+
+> <small>(F. DE E., P.O. 11 DE MARZO DE 2013)</small>
+
+e) Que la actividad que se obligue a desempeñar el Desarrollador para prestar el servicio contratado no constituya una función o un servicio público reservado en forma exclusiva al Estado por disposición constitucional o legal, respecto de los cuales no sea posible otorgar concesión alguna;
+
+> <small>(F. DE E., P.O. 11 DE MARZO DE 2013)</small>
+
+f) El plazo pactado para la prestación del servicio contratado no exceda de treinta años;
+
+> <small>(F. DE E., P.O. 11 DE MARZO DE 2013)</small>
+
+g) La inversión necesaria para prestar el servicio contratado sea igual o superior al monto mínimo que determine el Reglamento, y
+
+> <small>(F. DE E., P.O. 11 DE MARZO DE 2013)</small>
+
+h) El pago de la contraprestación que tenga derecho a recibir el Desarrollador deba ser calculado en función de la disponibilidad y calidad del servicio efectivamente prestado, así como del resultado alcanzado, de acuerdo a los indicadores de desempeño pactados en el Contrato.
 
 IV. Cuando así sea necesario, el otorgamiento de uno o varios permisos, licencias o concesiones para la explotación o aprovechamiento de los bienes del dominio del Estado o del Municipio, para la prestación de un servicio público, o para ambas.
 
@@ -325,8 +339,6 @@ En las bases de licitación del Proyecto de que se trate se podrá prever que pa
 
 ### Capítulo Quinto. De la Aprobación del Congreso del Estado
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE MARZO DE 2013 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 18.
 
 Una vez validado o autorizado el desarrollo de un Proyecto conforme a lo previsto en el Capítulo Cuarto anterior, el Proyecto deberá hacerse del conocimiento del Congreso del Estado por conducto del Gobernador del Estado, si es un Proyecto Estatal o el Ayuntamiento si es un Proyecto Municipal, con el fin de obtener la aprobación de la ejecución del proyecto y las erogaciones plurianuales para el cumplimiento de las obligaciones de pago derivadas de los proyectos de inversión en infraestructura pública o de prestación de servicios públicos.
@@ -337,11 +349,17 @@ I. La justificación de la conveniencia del Proyecto;
 
 II. La descripción general del Proyecto, que deberá incluir:
 
-Análisis sobre el régimen de distribución de los riesgos inherentes al Proyecto, en el que se señale la forma de determinar las contraprestaciones que reciban las partes y la manera como el objeto del proyecto incide en el cumplimiento de los objetivos de la entidad contratante, tratándose de sus planes y programa;
+> <small>(F. DE E., P.O. 11 DE MARZO DE 2013)</small>
 
-El plazo de vigencia del Proyecto, así como el destino de los activos generados durante el desarrollo del proyecto; y
+a) Análisis sobre el régimen de distribución de los riesgos inherentes al Proyecto, en el que se señale la forma de determinar las contraprestaciones que reciban las partes y la manera como el objeto del proyecto incide en el cumplimiento de los objetivos de la entidad contratante, tratándose de sus planes y programa;
 
-El proyecto del modelo de Contrato, que debe contener: la descripción detallada de los servicios que prestará el Desarrollador, duración del contrato, riesgos y mecanismos de control que asumirá la Entidad Contratante y el Desarrollador, la manera como se evaluará el desempeño del proyecto, la contratación de seguros, situación jurídica de los activos con los que se presta el servicio por parte del desarrollador, obligaciones de pago derivados de una terminación anticipada.
+> <small>(F. DE E., P.O. 11 DE MARZO DE 2013)</small>
+
+b) El plazo de vigencia del Proyecto, así como el destino de los activos generados durante el desarrollo del proyecto; y
+
+> <small>(F. DE E., P.O. 11 DE MARZO DE 2013)</small>
+
+c) El proyecto del modelo de Contrato, que debe contener: la descripción detallada de los servicios que prestará el Desarrollador, duración del contrato, riesgos y mecanismos de control que asumirá la Entidad Contratante y el Desarrollador, la manera como se evaluará el desempeño del proyecto, la contratación de seguros, situación jurídica de los activos con los que se presta el servicio por parte del desarrollador, obligaciones de pago derivados de una terminación anticipada.
 
 III. La estimación de las erogaciones plurianuales necesarias para hacer frente a las obligaciones de pago durante los ejercicios fiscales que abarque el Contrato;
 
@@ -373,8 +391,6 @@ Cualquier cambio relevante a los términos y condiciones del modelo de Contrato 
 
 ### Capítulo Séptimo. De los Permisos, Licencias y Concesiones
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE MARZO DE 2013 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 22.
 
 Cuando en un Proyecto la explotación o aprovechamiento de bienes del dominio público del Estado o del Municipio, o la prestación de un servicio público por parte del Desarrollador requiera de permisos, licencias o concesiones en los términos de la Ley de Obras Públicas y Servicios Relacionados del Estado de Oaxaca, la Ley de Bienes pertenecientes al Estado de Oaxaca u otra ley expedida por el Congreso, los permisos, licencias o concesiones correspondientes se otorgarán conforme a las disposiciones que los regulen, con las salvedades siguientes:
@@ -383,9 +399,13 @@ I. Su otorgamiento se realizará a través del procedimiento de adjudicación pr
 
 II. Su vigencia se sujetará a lo siguiente:
 
-Cuando el plazo inicial máximo que establezca el ordenamiento que los regule sea menor o igual al plazo de treinta años, aplicará éste último, y
+> <small>(F. DE E., P.O. 11 DE MARZO DE 2013)</small>
 
-Su duración, con las prórrogas que en su caso se otorguen conforme al ordenamiento que los regule e independientemente del plazo inicial por el que se otorgue, no podrá exceder el plazo máximo señalado en el inciso a) inmediato anterior.
+a) Cuando el plazo inicial máximo que establezca el ordenamiento que los regule sea menor o igual al plazo de treinta años, aplicará éste último, y
+
+> <small>(F. DE E., P.O. 11 DE MARZO DE 2013)</small>
+
+b) Su duración, con las prórrogas que en su caso se otorguen conforme al ordenamiento que los regule e independientemente del plazo inicial por el que se otorgue, no podrá exceder el plazo máximo señalado en el inciso a) inmediato anterior.
 
 ###### Artículo 23.
 
@@ -473,17 +493,19 @@ a) Devolverá al Promotor los estudios que éste haya presentado; o bien,
 
 b) Podrá ofrecer al Promotor adquirirlos de conformidad con lo previsto en la fracción II y último párrafo del artículo 28 de esta Ley.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE MARZO DE 2013 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 30.
 
 En caso de que el Proyecto propuesto por un Promotor sea aprobado por SINFRA, la Secretaría o el Ayuntamiento, según corresponda, y las erogaciones plurianuales para el cumplimiento de las obligaciones de pago derivadas de los proyectos de inversión en infraestructura pública o prestación de servicios estén debidamente autorizadas por el Congreso del Estado, la adjudicación del Contrato correspondiente se realizará conforme a lo previsto en el Título Quinto de esta Ley y las disposiciones siguientes:
 
 I. Antes de iniciar el proceso de contratación, el Promotor deberá suscribir una declaración unilateral de voluntad, irrevocable, en la que se obligue a:
 
-Otorgar sin limitación alguna toda la información relativa al Proyecto que le sea solicitada por la Entidad del Sector Público competente, incluyendo hojas de trabajo y demás documentos conceptuales, y
+> <small>(F. DE E., P.O. 11 DE MARZO DE 2013)</small>
 
-Ceder los derechos y otorgar las autorizaciones en materia de derechos de autor y propiedad industrial, así como cualquier otro para que el Proyecto pueda desarrollarse si el Promotor no resulta ser, directa o indirectamente, el adjudicatario del Contrato correspondiente;
+a) Otorgar sin limitación alguna toda la información relativa al Proyecto que le sea solicitada por la Entidad del Sector Público competente, incluyendo hojas de trabajo y demás documentos conceptuales, y
+
+> <small>(F. DE E., P.O. 11 DE MARZO DE 2013)</small>
+
+b) Ceder los derechos y otorgar las autorizaciones en materia de derechos de autor y propiedad industrial, así como cualquier otro para que el Proyecto pueda desarrollarse si el Promotor no resulta ser, directa o indirectamente, el adjudicatario del Contrato correspondiente;
 
 II. Si el proceso de contratación no se lleva a cabo o es declarado desierto por causas imputables al Promotor, éste perderá en favor de la Entidad del Sector Público competente todos sus derechos sobre los estudios presentados y se procederá a cancelar el certificado a que se refiere la fracción III del artículo 28 de esta Ley;
 
@@ -507,8 +529,6 @@ I. Entidad Contratante que suscriba de manera coordinada o consolidada de confor
 
 II. Un Desarrollador, que necesariamente debe ser una sociedad mercantil mexicana de propósito específico cuyo objeto social consista exclusivamente en realizar las actividades necesarias para desarrollar el Proyecto respectivo. Los documentos que rijan el proceso de contratación señalarán el capital mínimo sin derecho a retiro, las limitaciones estatutarias y los demás requisitos que dicha sociedad deberá cumplir
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE MARZO DE 2013 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 32.
 
 Los Contratos deberán contener, como mínimo, los siguientes requisitos:
@@ -527,17 +547,29 @@ VI. La descripción del servicio contratado y de las actividades que deberá rea
 
 VII. La contraprestación que tendrá derecho a recibir el Desarrollador por la prestación del servicio contratado, para lo cual será necesario establecer:
 
-El monto de las contraprestaciones periódicas que tendrá derecho a recibir el Desarrollador y la manera para calcularlo;
+> <small>(F. DE E., P.O. 11 DE MARZO DE 2013)</small>
 
-Los indicadores de desempeño que se utilizarán para evaluar los resultados y la calidad del servicio efectivamente prestado;
+a) El monto de las contraprestaciones periódicas que tendrá derecho a recibir el Desarrollador y la manera para calcularlo;
 
-El régimen de deducciones y penalizaciones que se utilizará para determinar el monto de las contraprestaciones periódicas;
+> <small>(F. DE E., P.O. 11 DE MARZO DE 2013)</small>
 
-La fuente de pago de las contraprestaciones periódicas y las garantías o fuentes alternas que en su caso hayan sido otorgadas o constituidas para ello;
+b) Los indicadores de desempeño que se utilizarán para evaluar los resultados y la calidad del servicio efectivamente prestado;
 
-La compensación económica que recibirá el Desarrollador en caso de rescisión o terminación anticipada del Contrato; y
+> <small>(F. DE E., P.O. 11 DE MARZO DE 2013)</small>
 
-En general, los demás elementos que constituyan o formen parte del régimen financiero del Contrato.
+c) El régimen de deducciones y penalizaciones que se utilizará para determinar el monto de las contraprestaciones periódicas;
+
+> <small>(F. DE E., P.O. 11 DE MARZO DE 2013)</small>
+
+d) La fuente de pago de las contraprestaciones periódicas y las garantías o fuentes alternas que en su caso hayan sido otorgadas o constituidas para ello;
+
+> <small>(F. DE E., P.O. 11 DE MARZO DE 2013)</small>
+
+e) La compensación económica que recibirá el Desarrollador en caso de rescisión o terminación anticipada del Contrato; y
+
+> <small>(F. DE E., P.O. 11 DE MARZO DE 2013)</small>
+
+f) En general, los demás elementos que constituyan o formen parte del régimen financiero del Contrato.
 
 VIII. La relación de los inmuebles, bienes y derechos necesarios para la realización del Proyecto y su destino a la terminación del Contrato así como la determinación del procedimiento de entrega de dichos bienes en los casos que proceda;
 
@@ -627,17 +659,19 @@ El Contrato deberá prever si esos activos serán adquiridos o no por la Entidad
 
 En los Contratos se establecerán los supuestos en los cuales el incumplimiento de las obligaciones de las partes constituirá una causal de rescisión del Contrato, tomando en cuenta la gravedad del mismo y la posibilidad técnica y económica de regularización, así como los derechos del Desarrollador a recibir un pago compensatorio por las inversiones realizadas que no sean recuperables.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE MARZO DE 2013 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 40.
 
 La Entidad Contratante podrá dar por terminado anticipadamente el Contrato cuando:
 
 I. Concurran razones de interés general;
 
-II. Se presenten eventos de caso fortuito o fuerza mayor que afecten la prestación del servicio o bien, de conformidad con lo señalado con el Contrato.
+> <small>(F. DE E., P.O. 11 DE MARZO DE 2013)</small>
 
-III. Cuando se extinga la necesidad del servicio contratado.
+II. Se presenten eventos de caso fortuito o fuerza mayor que afecten la prestación del servicio o bien, de conformidad con lo señalado con el Contrato;
+
+> <small>(F. DE E., P.O. 11 DE MARZO DE 2013)</small>
+
+III. Cuando se extinga la necesidad del servicio contratado;
 
 IV. Se cancele, abandone o retrase la ejecución de la obra, en los supuestos previstos en el propio contrato;
 
@@ -747,8 +781,6 @@ En el supuesto del artículo anterior, la Entidad Contratante podrá encargarse 
 
 ### Capítulo Séptimo. De la Solución de Controversias
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE MARZO DE 2013 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 53.
 
 Las controversias que surjan con motivo de la aplicación o interpretación de los Contratos serán resueltas por las partes de mutuo acuerdo y, en caso contrario, deberán resolverse a través de los mecanismos o procedimientos para la solución de controversias que las partes hayan pactado en el Contrato, los cuales se sujetarán a lo siguiente:
@@ -759,13 +791,21 @@ II. Los Desarrolladores tendrán derecho a acudir ante la Contraloría a present
 
 III. Las partes podrán convenir un procedimiento arbitral de estricto derecho en términos de lo dispuesto en el Título Cuarto del Libro Quinto del Código de Comercio cumpliendo con lo siguiente:
 
-Los procedimientos de contratación, así como los de rescisión y terminación anticipada de los Contratos, y las resoluciones emitidas con motivo de los mismos, no podrán ser, en ningún caso, objeto de arbitraje;
+> <small>(F. DE E., P.O. 11 DE MARZO DE 2013)</small>
 
-El arbitraje deberá resolverse en estricto apego a lo dispuesto en el Contrato correspondiente, en esta Ley, su Reglamento y demás disposiciones legales aplicables;
+a) Los procedimientos de contratación, así como los de rescisión y terminación anticipada de los Contratos, y las resoluciones emitidas con motivo de los mismos, no podrán ser, en ningún caso, objeto de arbitraje;
 
-El lugar del arbitraje será dentro del territorio de los Estados Unidos Mexicanos y el idioma que se utilizará para efectos del procedimiento será el español, y
+> <small>(F. DE E., P.O. 11 DE MARZO DE 2013)</small>
 
-El laudo arbitral deberá ser sometido para su ejecución a las instancias jurisdiccionales competentes conforme a la legislación aplicable.
+b) El arbitraje deberá resolverse en estricto apego a lo dispuesto en el Contrato correspondiente, en esta Ley, su Reglamento y demás disposiciones legales aplicables;
+
+> <small>(F. DE E., P.O. 11 DE MARZO DE 2013)</small>
+
+c) El lugar del arbitraje será dentro del territorio de los Estados Unidos Mexicanos y el idioma que se utilizará para efectos del procedimiento será el español, y
+
+> <small>(F. DE E., P.O. 11 DE MARZO DE 2013)</small>
+
+d) El laudo arbitral deberá ser sometido para su ejecución a las instancias jurisdiccionales competentes conforme a la legislación aplicable.
 
 IV. Las controversias que puedan ser objeto de arbitraje también podrán ser objeto de cualquier otro procedimiento de mediación o conciliación no previsto en esta Ley, siempre y cuando el mismo no sea vinculante, con independencia de que las partes acuerden que sea necesario sustanciarlo antes de acudir al arbitraje o a las instancias jurisdiccionales, y
 
@@ -825,8 +865,6 @@ Los medios de identificación electrónica que se usen con las características 
 
 ### Capítulo Segundo. De la Convocatoria y Bases de Licitación
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE MARZO DE 2013 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 59.
 
 La convocatoria para una licitación púbica (sic) contendrá, por lo menos, los elementos siguientes:
@@ -843,9 +881,9 @@ V. Los lugares, fechas y horarios en que los interesados podrán adquirir las ba
 
 La publicación de la convocatoria se realizará en el Periódico Oficial del Estado, en alguno de los diarios de mayor circulación en el Estado, a través de la página de difusión electrónica de la Convocante y en cualquier otro medio que la Entidad Contratante considere idóneo.
 
-La adquisición de las bases será requisito indispensable para participar en el concurso
+> <small>(F. DE E., P.O. 11 DE MARZO DE 2013)</small>
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE MARZO DE 2013 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+La adquisición de las bases será requisito indispensable para participar en el concurso.
 
 ###### Artículo 60.
 
@@ -853,9 +891,13 @@ Las bases que emita la Convocante para la licitación pública, contendrán, por
 
 I. Los necesarios para que los Licitantes estén en posibilidad de elaborar sus propuestas, que comprenderán, por lo menos:
 
-Las características y especificaciones técnicas, así como los índices de desempeño que serán utilizados para determinar la calidad y el resultado del servicio a prestar, y
+> <small>(F. DE E., P.O. 11 DE MARZO DE 2013)</small>
 
-En su caso, las características y especificaciones técnicas de los activos que será necesario desarrollar para prestar el servicio contratado.
+a) Las características y especificaciones técnicas, así como los índices de desempeño que serán utilizados para determinar la calidad y el resultado del servicio a prestar, y
+
+> <small>(F. DE E., P.O. 11 DE MARZO DE 2013)</small>
+
+b) En su caso, las características y especificaciones técnicas de los activos que será necesario desarrollar para prestar el servicio contratado.
 
 II. El modelo de Contrato;
 
@@ -1021,8 +1063,6 @@ Si el Licitante ganador hubiese realizado los pagos a que se refiere la fracció
 
 Las propuestas desechadas durante la licitación podrán destruirse o ser devueltas a los Licitantes que lo soliciten una vez transcurridos (sic) el plazo señalado en las bases de licitación, salvo que exista algún procedimiento en trámite, en cuyo caso procederá su destrucción o devolución después de la total conclusión de dicho procedimiento En todo caso, la Convocante deberá conservar durante un periodo de 5 años contados a partir de la fecha del fallo, las propuestas presentadas a través de medios electrónicos.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE MARZO DE 2013 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 77.
 
 Los medios de defensa, ordinarios o extraordinarios, mediante los cuales se pretenda impugnar el fallo, solamente suspenderán la adjudicación o la ejecución del Contrato, cuando concurran los requisitos siguientes:
@@ -1031,9 +1071,13 @@ I. Que la solicite el agraviado;
 
 II. Que no se encuentren satisfechos los requisitos legales, que no se afecte el interés social, ni se contravengan disposiciones de orden público, entendiéndose que se siguen esos perjuicios o se realizan esas contravenciones, entre otros casos, cuando:
 
-El proyecto involucre la prestación de un servicio público de necesidad inminente, o
+> <small>(F. DE E., P.O. 11 DE MARZO DE 2013)</small>
 
-Se ponga en riesgo la rentabilidad social del Proyecto o su ejecución misma; y,
+a) El Proyecto involucre la prestación de un servicio público de necesidad inminente, o
+
+> <small>(F. DE E., P.O. 11 DE MARZO DE 2013)</small>
+
+b) Se ponga en riesgo la rentabilidad social del Proyecto o su ejecución misma; y,
 
 III. Que sean de difícil reparación los daños o perjuicios que se causen al agraviado con la ejecución del acto.
 
@@ -1129,8 +1173,6 @@ Todos los Contratos deberán inscribirse en el Registro Único de Obligaciones y
 
 ### Capítulo Primero. De la Información y Supervisión
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE MARZO DE 2013 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 89.
 
 Las Entidades Contratantes deberán remitir a la Contraloría, en el caso de Entidades Estatales, y a sus órganos internos de control, en el caso de Entidades Municipales, la información relativa a los actos y Contratos materia de esta Ley que, en el ámbito de sus atribuciones, les soliciten.
@@ -1141,9 +1183,9 @@ Corresponderá a la Contraloría o al órgano de control interno municipal, seg�
 
 Después de la aprobación de la ejecución del proyecto Estatal o Municipal por el Congreso del Estado; SINFRA y la Contraloría, o el Ayuntamiento serán responsables de convocar la integración de un Comité Social de carácter honorifico, que estará conformado por cinco miembros en términos del Reglamento de la presente Ley, el cual en representación de la sociedad civil desempeñará acciones de vigilancia y supervisión hasta la conclusión del proyecto.
 
-Si como consecuencia de las visitas de supervisión o, por cualquier otro medio, la Contraloría o el órgano de control interno municipal determina que algún servidor (sic)
+> <small>(F. DE E., P.O. 11 DE MARZO DE 2013)</small>
 
-Público incurrió en alguna violación a lo dispuesto por esta Ley, procederá a imponer una multa equivalente a una cantidad de mil a cinco mil veces el salario mínimo general vigente en el Estado, en la fecha de la infracción. (sic)
+Si como consecuencia de las visitas de supervisión o, por cualquier otro medio, la Contraloría o el órgano de control interno municipal determina que algún servidor Público incurrió en alguna violación a lo dispuesto por esta Ley, procederá a imponer una multa equivalente a una cantidad de mil a cinco mil veces el salario mínimo general vigente en el Estado, en la fecha de la infracción.
 
 ###### Artículo 90.
 
@@ -1171,13 +1213,11 @@ II. Quienes promuevan alguna inconformidad con el propósito de retrasar o entor
 
 III. Quienes no proporcionen la documentación o información que les requiera la Contraloría en ejercicio de sus facultades de supervisión o verificación.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE MARZO DE 2013 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 11 DE MARZO DE 2013)</small>
 
 ###### Artículo 93.
 
-Sin perjuicio de la intervención que otras disposiciones legales asignen a distintas dependencias, además de la sanción a que se refiere el artículo anterior, la Contraloría o los órganos internos de control del municipio, según corresponda, podrán vetar o inhabilitar temporalmente y hasta por dos años para participar en procedimientos de contratación o para celebrar Contratos, a las personas que infrinjan las disposiciones o incumplan con alguna obligación adquirida en virtud de un Contrato y dicho incumplimiento cause un daño o perjuicio grave a la Entidad Contratante, a otra Entidad del Sector Público o a los usuarios del servicio.
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE MARZO DE 2013 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+Sin perjuicio de la intervención que otras disposiciones legales asignen a distintas dependencias, además de la sanción a que se refiere el artículo anterior, la Contraloría o los órganos internos de control del municipio, según corresponda, podrán vetar o inhabilitar temporalmente y hasta por dos años para participar en procedimientos de contratación o para celebrar Contratos, a las personas que infrinjan las disposiciones o incumplan con alguna obligación adquirida en virtud de un Contrato y dicho incumplimiento cause un daño o perjuicio grave, a la Entidad Contratante, a otra Entidad del Sector Público o a los usuarios del servicio.
 
 ###### Artículo 94.
 
@@ -1189,7 +1229,9 @@ II. El carácter intencional o no de la acción u omisión constitutiva de la in
 
 III. La gravedad de la infracción;
 
-IV. La condición económica del infractor.
+> <small>(F. DE E., P.O. 11 DE MARZO DE 2013)</small>
+
+IV. La condición económica del infractor;
 
 V. Si se trata de reincidencia;
 
@@ -1235,8 +1277,6 @@ IX. Domicilio en el que recibirá las notificaciones personales. Debiendo señal
 
 El escrito inicial se presentará en original y en copias suficientes para la Contraloría y los órganos internos de control del municipio y el o los terceros interesados. La manifestación de hechos falsos se sancionará de conformidad con las disposiciones de esta Ley y las demás que resulten aplicables.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE MARZO DE 2013 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 97.
 
 El recurso de inconformidad será improcedente en los siguientes casos:
@@ -1245,7 +1285,9 @@ I. Contra actos distintos a los señalados en el artículo 95 de esta Ley;
 
 II. Contra actos consentidos expresa o tácitamente;
 
-III. Cuando el acto impugnado no pueda surtir efecto legal o material alguno por haber dejado de existir el objeto o la materia del procedimiento de contratación del cual deriva.
+> <small>(F. DE E., P.O. 11 DE MARZO DE 2013)</small>
+
+III. Cuando el acto impugnado no pueda surtir efecto legal o material alguno por haber dejado de existir el objeto o la materia del procedimiento de contratación del cual deriva;
 
 IV. Contra actos que sean materia de otro recurso y que se encuentre pendiente de resolución, promovido por el mismo recurrente y por el propio acto impugnado;
 
