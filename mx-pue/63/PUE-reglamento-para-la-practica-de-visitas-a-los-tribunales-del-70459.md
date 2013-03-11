@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-para-la-practica-de-visitas-a-los-tribunales-del-704
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-09-23"
-last_updated: "2011-09-26"
+last_updated: "2013-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70459&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "PUE"
 ---
 # REGLAMENTO PARA LA PRACTICA DE VISITAS A LOS TRIBUNALES DEL ESTADO
 
-REGLAMENTO PARA LA PRACTICA DE VISITAS A LOS TRIBUNALES DEL ESTADO
+REGLAMENTO PARA LA PRÁCTICA DE VISITAS A LOS TRIBUNALES DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2013.
 
 Reglamento publicado en la Quinta Sección del Periódico Oficial del Estado de Puebla, el miércoles 23 de septiembre de 2009.
 
@@ -45,7 +45,7 @@ REGLAMENTO PARA LA PRÁCTICA DE VISITAS A LOS TRIBUNALES DEL ESTADO
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 1.
 
@@ -277,6 +277,10 @@ A).- Revisión de los aspectos administrativos.
 
 5.- Verificar que los expedientes se encuentren debidamente ordenados en el archivo, conforme a las disposiciones reglamentarias aplicables.
 
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2013)</small>
+
+6.- Supervisar que los procesos de valoración, depuración, destrucción, transferencia y digitalización de los Tribunales del Estado, se realicen conforme a las disposiciones reglamentarias aplicables; debiendo remitir los resultados a la Junta de Administración, para su conocimiento y realice las acciones pertinentes.
+
 B).- Revisión de libros y registros.
 
 1.- Verificar la actualización, orden y limpieza de:
@@ -355,17 +359,21 @@ Al inicio de la supervisión el Magistrado Visitador, previa identificación, ha
 
 El resultado de la inspección se mantendrá en reserva hasta en tanto el Pleno resuelva lo conducente.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 26 DE SEPTIEMBRE DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE SEPTIEMBRE DE 2011)</small>
 
 ### CAPÍTULO VIII BIS. DE LAS VISITAS DISCRECIONALES
 
-> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MARZO DE 2013)</small>
 
 ###### Artículo 23 Bis.
 
-El Magistrado Visitador, tendrá la facultad de determinar la práctica de visitas discrecionales.
+El Magistrado Visitador, tendrá la facultad de determinar la práctica de visitas discrecionales a los Tribunales del Estado, debiendo proponerlas al Pleno para su aprobación y para casos urgentes bastará con la autorización del Presidente del Tribunal Superior de Justicia, para en acto posterior dar vista al Pleno.
 
-Las visitas discrecionales se practicarán en días y horas hábiles, sin que sea necesaria la comunicación previa al Titular del Juzgado o Dependencia del Poder Judicial del Estado.
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2013)</small>
+
+Las visitas discrecionales se practicarán en días y horas hábiles; quedando a consideración del Pleno o del Presidente del Tribunal Superior de Justicia, la comunicación previa y el plazo en el que se le deberá notificar al Titular del Juzgado o dependencia del Poder Judicial del Estado, el que no será menor de veinticuatro horas.
+
+> <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2011)</small>
 
 El Magistrado Visitador al inicio de la visita de supervisión discrecional, previa identificación, hará saber al Titular del Juzgado o Dependencia, la práctica de la misma y para su desarrollo se observará lo dispuesto en el artículo 25 de este Reglamento.
 
@@ -419,10 +427,16 @@ CUARTO.- Para su exclusiva y mayor difusión, se ordena su publicación en la Re
 
 Al pie un sello con el Escudo Nacional y una leyenda que dice: Estados Unidos Mexicanos.- H. Tribunal Superior de Justicia del Estado de Puebla- Secretaría.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 26 DE SEPTIEMBRE DE 2011.
 
 PRIMERO.- El presente Acuerdo deberá Publicarse en el Periódico Oficial del Estado de Puebla, y entrará en vigor el día siguiente de su publicación.
+
+SEGUNDO.- Para su exclusiva y mayor difusión se ordena la publicación en la Revista Jurídica del Poder Judicial del Estado.
+
+P.O. 11 DE MARZO DE 2013.
+
+PRIMERO.- El presente Acuerdo deberá publicarse en el Periódico Oficial del Estado de Puebla, y entrará en vigor el día siguiente de su publicación.
 
 SEGUNDO.- Para su exclusiva y mayor difusión se ordena la publicación en la Revista Jurídica del Poder Judicial del Estado.
