@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-atencion-y-sancion-de-la-violencia-familiar-75077"
 country: "mx"
 rank: "ley"
 publication_date: "2010-05-24"
-last_updated: "2010-05-24"
+last_updated: "2013-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75077&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA ATENCIÓN Y SANCIÓN DE LA VIOLENCIA FAMILIAR PARA EL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 24 de mayo de 2010.
 
@@ -99,11 +99,17 @@ Estará libre de prejuicios de género, raza, condición socioeconómica, religi
 
 I.- Especializada e integral;
 
-II.- Psicojurídica;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2013)</small>
+
+II.- Médica y psicojurídica;
 
 III.- Protectora de los receptores de violencia; y
 
 IV.- Reeducativa en relación a los generadores de violencia.
+
+(ADICIONANDO, P.O. 11 DE MARZO DE 2013)
+
+La atención médica y psicológica que se proporcione a las víctimas de violencia familiar, se realizará a través de Instituciones Públicas de Salud, que deberán contar con personal capacitado para su atención.
 
 ###### ARTÍCULO 6.
 
@@ -474,3 +480,9 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MIGUEL ÁNGEL OSORIO CHONG
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 11 DE MARZO DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor, al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
