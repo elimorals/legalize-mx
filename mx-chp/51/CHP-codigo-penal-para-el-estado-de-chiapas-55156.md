@@ -4,7 +4,7 @@ identifier: "CHP-codigo-penal-para-el-estado-de-chiapas-55156"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-03-14"
-last_updated: "2012-11-28"
+last_updated: "2013-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55156&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CÓDIGO PENAL PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2013.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 14 de marzo de 2007.
 
@@ -3785,6 +3785,16 @@ Al que cometa ultraje o delitos en contra de servidores públicos en el acto de 
 
 Por ultrajes se entenderá, la realización de conductas típicas o atípicas que atenten contra la investidura del servidor público o de la institución que representa, o lo denigren o lo exhiban al odio o rechazo público, o inciten a la violencia en contra de ellos, aunque aquella no llegue a generarse.
 
+(NOTA: EL 7 DE JULIO DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 11/2013, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 8 DE SEPTIEMBRE DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2013)</small>
+
+###### Artículo 398 Bis.
+
+Se impondrá una pena de dos a quince años de prisión y multa de doscientos a cuatrocientos días de salario mínimo, a quien realice actos tendientes para obtener información de los cuerpos de seguridad pública, de persecución o sanción del delito o la ejecución de penas, sobre su ubicación, actividades, operativos o sus labores, en general.
+
+Las penas señaladas en este artículo se aumentarán desde un tercio hasta una mitad más de la pena que le corresponda, y se impondrá además destitución del cargo o comisión e inhabilitación de tres a diez años para ocupar otro, cuando el delito sea cometido por servidores públicos o por ex servidores públicos de las fuerzas armadas, instituciones de seguridad pública o de procuración de justicia.
+
 ## Título Décimo Octavo. Delitos Cometidos por Servidores Públicos
 
 ### Capítulo XIII. Cohecho
@@ -5242,3 +5252,9 @@ P.O. 28 DE NOVIEMBRE DE 2012.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 11 DE MARZO DE 2013.
+
+Artículo Primero.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
