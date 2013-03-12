@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-salud-del-estado-de-mexico-25202"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-03-13"
-last_updated: "2008-04-15"
+last_updated: "2013-03-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25202&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DE SALUD DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 15 DE ABRIL DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE MARZO DE 2013.
 
 Reglamento publicado en la Sección Séptima de la Gaceta del Gobierno del Estado de México, el miércoles 13 de marzo de 2002.
 
@@ -792,6 +792,12 @@ Los permisos sanitarios expedidos al comercio de alimentos y bebidas en la vía 
 ###### Artículo 112.
 
 Los permisos a los que se refiere la fracción III del artículo 2.46 del Código, deberán tramitarse en el formato oficial previo a la actividad y tendrá vigencia durante las cuarenta y ocho horas posteriores a la defunción o veinticuatro de la exhumación.
+
+> <small>(ADICIONADO, G.G. 12 DE MARZO DE 2013)</small>
+
+###### Artículo 112 Bis.
+
+Los permisos sanitarios a que se refiere la fracción IV del artículo 2.65 del Código, se expedirán previo Dictamen de Factibilidad favorable que emita la Secretaría a través del Consejo Rector de Impacto Sanitario y tendrá la vigencia y condiciones que el Código establezca.
 
 ### CAPITULO VI. DE LA REVOCACION DE AUTORIZACIONES SANITARIAS
 
@@ -2057,6 +2063,220 @@ Para la prestación de los servicios de atención médica a su cargo, los organi
 
 Los organismos públicos descentralizados prestarán los servicios de atención médica, preferentemente a la población que no se encuentre en algún régimen de seguridad social.
 
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 12 DE MARZO DE 2013)</small>
+
+## TÍTULO DÉCIMO OCTAVO
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 12 DE MARZO DE 2013)</small>
+
+### CAPÍTULO I. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, G.G. 12 DE MARZO DE 2013)</small>
+
+###### Artículo 311.
+
+El Consejo Rector de Impacto Sanitario es el órgano colegiado de la Secretaría, facultado para emitir el Dictamen de Factibilidad para la autorización y el refrendo, que a su vez, requieren del permiso sanitario, a que se refiere el artículo 2.65 fracción IV del Código.
+
+> <small>(ADICIONADO, G.G. 12 DE MARZO DE 2013)</small>
+
+###### Artículo 312.
+
+El Consejo Rector de Impacto Sanitario tendrá como objeto:
+
+I. Emitir el dictamen de factibilidad, necesario para que los ayuntamientos y autoridades sanitarias de la Entidad, expidan, dentro de sus atribuciones y competencias, las licencias y permisos que deben obtener los establecimientos mercantiles con venta o suministro de bebidas alcohólicas, para su debido funcionamiento.
+
+II. Documentarse y hacer el diagnóstico de la situación que prevalece en materia del funcionamiento de establecimientos mercantiles con venta o suministro de bebidas alcohólicas en la Entidad, y su impacto sanitario en la comunidad.
+
+III. Proponer programas y acciones tendientes a combatir el alcoholismo, su adicción y violencia que su consumo genera, principalmente entre jóvenes y menores de edad, y apoyar su ejecución.
+
+IV. Solicitar la colaboración de las dependencias del Ejecutivo del Estado, organismos auxiliares de carácter estatal y municipal, y de los sectores social y privado, para el fomento de una nueva cultura para combatir al alcoholismo y sus efectos sociales.
+
+V. Proponer la actualización del marco jurídico de la materia.
+
+VI. Crear grupos de apoyo regionales, para atender los asuntos relacionados con el otorgamiento de licencias o permisos que deban otorgarse a los establecimientos mercantiles para su debido funcionamiento, una vez que estos han cumplido cabalmente con los requisitos y medidas para ese efecto.
+
+VII. Tomar los acuerdos que se consideren necesarios para orientar las acciones que den cumplimiento a los fines del Consejo Rector de Impacto Sanitario.
+
+VIII.- Realizar la demás acciones necesarias para el cumplimiento de su objeto.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 12 DE MARZO DE 2013)</small>
+
+### CAPÍTULO II. DE LA INTEGRACIÓN Y FUNCIONAMIENTO
+
+> <small>(ADICIONADO, G.G. 12 DE MARZO DE 2013)</small>
+
+###### Artículo 313.
+
+El Consejo Rector de Impacto Sanitario se integrará de la siguiente forma:
+
+I. Un Presidente, que será el titular de la Coordinación de Regulación Sanitaria del Instituto de Salud del Estado de México.
+
+II. Un Secretario Técnico, que será nombrado por el Presidente.
+
+III. Nueve Vocales, quienes serán:
+
+- Dos empresarios.
+
+- Tres académicos.
+
+- Dos asociaciones civiles interesada en el tema.
+
+- Un miembro de una asociación de colonos.
+
+- Un visitador o persona relacionada con el tema de derechos humanos.
+
+Para seleccionar a los vocales que integren el Consejo Rector de Impacto Sanitario, el Secretario Técnico, a propuesta del Secretario de Salud, invitará de entre los directores de escuelas de medicina de instituciones académicas de nivel superior, a dos vocales; de entre las asociaciones civiles interesadas en el tema, a dos vocales; de entre las asociaciones de colonos, a dos vocales; a dos expertos de regulación sanitaria de la Secretaría de Salud; e invitará a participar como tal, a un visitador o persona relacionada con el tema de derechos humanos.
+
+El cargo de miembro del Consejo Rector de Impacto Sanitario será honorifico y habrá un suplente que integre el Consejo en caso de ausencias de los titulares.
+
+Las determinaciones del Consejo Rector de Impacto Sanitario se acordarán por mayoría de votos, para lo cual, el Secretario Técnico contará únicamente con voz. El Presidente, en caso de empate, contará con voto de calidad.
+
+> <small>(ADICIONADO, G.G. 12 DE MARZO DE 2013)</small>
+
+###### Artículo 314.
+
+El Consejo Rector de Impacto Sanitario sesionará de manera ordinaria y extraordinaria, previa convocatoria emitida para tal efecto, cuando se tenga quórum legal, encontrándose presentes, necesariamente, el Presidente y el Secretario y que además, exista mayoría simple de sus miembros.
+
+Para el caso de que en la sesión ordinaria o extraordinaria de que se trate, no exista el Quórum a que alude el párrafo que antecede, el Presidente, por conducto del Secretario, realizará una segunda convocatoria para que se celebre a la misma hora del día siguiente, considerándose legalmente instalada la sesión.
+
+La convocatoria a las sesiones ordinarias la realizará el Presidente por conducto del Secretario, debiendo éste adjuntar a la convocatoria la carpeta que contenga el orden del día y en su caso la documentación necesaria que apoye los puntos a tratar, cuando menos con cinco días naturales de anticipación.
+
+Tratándose de sesiones extraordinarias, la convocatoria la realizará el Presidente, a través del Secretario, adjuntando el orden del día y la carpeta del punto a tratar.
+
+> <small>(ADICIONADO, G.G. 12 DE MARZO DE 2013)</small>
+
+###### Artículo 315.
+
+La carpeta de sesión ordinaria o extraordinaria según el caso, se integrará con lo siguiente:
+
+I. La indicación del número de la sesión ordinaria o extraordinaria a realizarse.
+
+II. La fecha, lugar y hora en que se realizará la sesión.
+
+III. Orden del día.
+
+IV. Lista de asistencia y declaración de quórum.
+
+V. Acta de la sesión anterior.
+
+VI. Asuntos a tratar.
+
+VII. Asuntos en cartera.
+
+VIII. Asuntos generales.
+
+En el desarrollo de las sesiones se observará:
+
+I. Iniciar con la lista de asistencia y la declaración del quórum legal, hecho lo cual se procederá al desahogo del orden del día.
+
+II. Los debates se ajustarán a los asuntos previstos en el orden del día. Los integrantes del Consejo Rector de Impacto Sanitario, podrán analizar o discutir cualquier asunto no especificado en la convocatoria cuando así lo aprueben.
+
+III. El Secretario redactará el acta de cada sesión.
+
+El acta de sesión deberá contener:
+
+I. La sesión de que se trate.
+
+II. El lugar, fecha y hora de su inicio.
+
+II. El desahogo de los puntos del orden del día y los acuerdos tomados, señalando si fueron tomados por mayoría de lotes o por unanimidad.
+
+IV. La hora de conclusión.
+
+V. Los nombres, cargos y firmas de los integrantes titulares o suplentes que hayan asistido a la sesión de que se trate.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 12 DE MARZO DE 2013)</small>
+
+###### Artículo 316.
+
+El Presidente tendrá como funciones:
+
+I. Representar al Consejo Rector de Impacto Sanitario.
+
+II. Presidir y conducir las sesiones ordinarias y extraordinarias.
+
+III. Concertar y celebrar convenios y acuerdos con los sectores públicos del Estado y Municipios, y con los del sector social y privado.
+
+IV. Rendir ante el Consejo Rector de Impacto Sanitario, informe por escrito de sus actividades al término de su gestión.
+
+V. Conocer de los nombramientos de los suplentes integrantes del Consejo Rector de Impacto Sanitario.
+
+VI. Convocar a los integrantes del Consejo Rector de Impacto Sanitario, a las sesiones ordinarias y extraordinarias.
+
+VII. Invitar a las sesiones, solo con derecho a voz, a personas que sean académicos e investigadores especialistas en la materia, y de organismos no gubernamentales, del sector empresarial o cualquier otra del sector público o privado que juzgue conveniente.
+
+VIII. Validar el contenido de las carpetas de las sesiones, que le sean presentadas para su consideración por parte del Secretario.
+
+IX. Recibir las mociones de orden planteadas por los integrantes del Consejo Rector de Impacto Sanitario y decidir la procedencia o no de las mismas.
+
+X. Resolver las diferencias de opinión que se presenten entre los integrantes del Consejo Rector de Impacto Sanitario.
+
+XI. Emitir voto de calidad en caso de empate, en los asuntos sometidos a la aprobación del Consejo Rector de Impacto Sanitario.
+
+XII. Verificar que el Secretario técnico dé cabal cumplimiento de los acuerdos tomados por el Consejo Rector de Impacto Sanitario.
+
+XIII. Declarar la existencia del quórum legal en las sesiones ordinarias y extraordinarias.
+
+XIV. Firmar las actas de cada sesión.
+
+XV. Informar de manera bimestral o cuando se considere necesario, al Secretario de Salud, de las actividades realizadas por el Consejo Rector de Impacto Sanitario.
+
+XVI. Las demás que estén relacionadas con los fines y objetivos del Consejo Rector de Impacto Sanitario y que le confieran otros ordenamientos legales.
+
+> <small>(ADICIONADO, G.G. 12 DE MARZO DE 2013)</small>
+
+Artículo 317, Los vocales del Consejo Rector de Impacto Sanitario, tendrán como funciones:
+
+I. Asistir a las sesiones ordinarias y extraordinarias que convoque el Presidente.
+
+II. Proponer al Secretario aquellos asuntos que consideren deban incluirse en el orden del día de las sesiones del Consejo Rector de Impacto Sanitario.
+
+III. Participar con voz y voto en las sesiones del Órgano.
+
+IV. Proponer al Presidente, los lineamientos y Procedimientos que consideren necesarios para el adecuado funcionamiento del Órgano.
+
+V. Dar cumplimiento a los acuerdos tomados en las sesiones e informar sobre los mismos al Presidente.
+
+VI. Firmar las actas de las sesiones.
+
+VII. Las demás que estén relacionadas con los fines y objetivos del Consejo Rector de Impacto Sanitario y que, en tal caso, les confieran otros ordenamientos legales.
+
+> <small>(ADICIONADO, G.G. 12 DE MARZO DE 2013)</small>
+
+### CAPÍTULO III. DE LAS FUNCIONES DE LOS INTEGRANTES DEL CONSEJO RECTOR DE IMPACTO SANITARIO
+
+> <small>(ADICIONADO, G.G. 12 DE MARZO DE 2013)</small>
+
+###### Artículo 318.
+
+El Secretario Técnico tendrá como atribuciones:
+
+I. Ejecutar las acciones que le instruya el Presidente para el adecuado funcionamiento del Consejo Rector de Impacto Sanitario.
+
+II. Integrar y entregar las carpetas de la sesión correspondiente a los integrantes del Consejo Rector de Impacto Sanitario.
+
+III. Asistir a las sesiones ordinarias y extraordinarias.
+
+IV. Verificar la lista de asistencia e informar al Presidente la existencia de quórum.
+
+V. Realizar el escrutinio de votos durante las sesiones.
+
+VI. Elaborar el acta de cada sesión.
+
+VII. Dar seguimiento a los acuerdos generados en las sesiones ordinarias y extraordinarias del Consejo Rector de Impacto Sanitario, para verificar su cumplimiento.
+
+VIII. Presentar al Consejo Rector de Impacto Sanitario, para su aprobación, en la última sesión del ejercicio, el calendario para la celebración de las sesiones ordinarias del ejercicio siguiente.
+
+IX. Diseñar y establecer un sistema que permita alimentar la información generada por los integrantes del Consejo Rector de Impacto Sanitario, informando de los resultados obtenidos al Presidente.
+
+X. Crear y mantener actualizado el directorio de los integrantes titulares y suplentes del Consejo Rector de Impacto Sanitario.
+
+XI. Brindar asesoría técnica a los Integrantes del Consejo Rector de Impacto Sanitario que así lo requieran.
+
+XII. Resguardar las actas de las sesiones y de toda la documentación inherente a las actividades que realice el Consejo Rector de Impacto Sanitario.
+
+XIII. Las demás que estén relacionadas con sus fines y objetivos, y que le confieran otros ordenamientos legales.
+
 T R A N S I T O R I O S
 
 PRIMERO. Publíquese el presente Reglamento en el periódico oficial "Gaceta del Gobierno".
@@ -2096,3 +2316,17 @@ G.G. 15 DE ABRIL DE 2008.
 PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- Este Acuerdo entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 12 DE MARZO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO TERCERO.
+
+Se establece un término no mayor a quince días naturales posteriores a la entrada en vigor del presente Acuerdo, para que se instale el Consejo Rector de Impacto Sanitario y pueda sesionar, debiendo la Secretaria de Salud proveer de lo necesario para tal efecto.
