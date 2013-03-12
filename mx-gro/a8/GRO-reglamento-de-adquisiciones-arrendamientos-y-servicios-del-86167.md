@@ -4,7 +4,7 @@ identifier: "GRO-reglamento-de-adquisiciones-arrendamientos-y-servicios-del-8616
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-01-31"
-last_updated: "2012-01-31"
+last_updated: "2013-03-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86167&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL INSTITUTO ELECTORAL DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Guerrero, el martes 31 de enero de 2012.
 
@@ -189,9 +189,11 @@ III. Las personas físicas, jurídicas y/o morales que por causas imputables a e
 
 ### Capítulo I. Integración del Comité
 
-###### Artículo 12.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MARZO DE 2013)</small>
 
-El Comité para el control de las adquisiciones, arrendamientos y servicios del Instituto Electoral del Estado de Guerrero, es de carácter permanente, funcionará como órgano de consulta, decisión y vigilancia en el cumplimiento de las disposiciones del presente Reglamento, que tendrá como objeto determinar las acciones conducentes para la optimización de los recursos destinados a las adquisiciones, arrendamientos y prestación de servicios.
+###### Articulo 12.
+
+Se crea con carácter permanente, el Comité para el control de las adquisiciones, arrendamientos y servicios del Instituto Electoral del Estado de Guerrero, como órgano de consulta, decisión y vigilancia en el cumplimiento de las disposiciones del presente reglamento, que tendrá como objeto determinar las acciones conducentes para la optimización de los recursos destinados a las adquisiciones, arrendamientos y prestación de servicios.
 
 El Comité será responsable de definir, conducir y aplicar los lineamientos en materia de adquisiciones, contratos y arrendamientos a que se refiere el artículo 1° de este Reglamento y deberá integrarse por:
 
@@ -205,7 +207,9 @@ IV. Los Directores Ejecutivos del Instituto Electoral, con derecho a voz y voto.
 
 V. El Contralor Interno del Instituto Electoral, con derecho a voz.
 
-VI. Un representante de los partidos políticos con derecho a voz.
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2013)</small>
+
+VI. Los representantes de los partidos políticos con derecho a voz.
 
 ###### Artículo 13.
 
@@ -746,3 +750,15 @@ SEGUNDO. La Comisión de Administración y los integrantes del Comité de Adquis
 TERCERO. Se derogan las disposiciones administrativas de igual o menor jerarquía que se opongan al presente Reglamento.
 
 Dado en la sede del Instituto Electoral del Estado de Guerrero, en la ciudad de Chilpancingo de los Bravo, Guerrero a los 15 días del mes de enero del año dos mil doce.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 12 DE MARZO DE 2013.
+
+ACUERDO
+
+PRIMERO. Se aprueba la modificación al artículo 12, segundo párrafo, fracción VI del Reglamento de Adquisiciones, Arrendamientos y Servicios del Instituto Electoral del Estado de Guerrero, en términos del considerando VIII del presente acuerdo; en el que se contempla la inclusión de los representantes de los partidos políticos al Comité de Adquisiciones del Instituto Electoral.
+
+SEGUNDO. La modificación antes mencionada, entrara en vigor al día siguiente de su aprobación por el Pleno de este Consejo General, para quedar en los términos del punto que antecede para los efectos legales a que haya lugar.
+
+TERCERO. Publíquese el presente acuerdo en el Periódico Oficial del Gobierno del Estado de Guerrero, para su conocimiento general.
