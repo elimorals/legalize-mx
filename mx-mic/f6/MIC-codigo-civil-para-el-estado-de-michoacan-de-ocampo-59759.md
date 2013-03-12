@@ -4,7 +4,7 @@ identifier: "MIC-codigo-civil-para-el-estado-de-michoacan-de-ocampo-59759"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-02-11"
-last_updated: "2012-02-03"
+last_updated: "2013-03-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59759&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO CIVIL PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2013.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Michoacán, el lunes 11 de febrero de 2008.
 
@@ -1425,6 +1425,8 @@ El usufructuario, antes de entrar en el goce de los bienes, está obligado:
 
 I. A formar a sus expensas, con citación del dueño un inventario de todos ellos, haciendo tasar los muebles y constar el estado en que se hallen los inmuebles;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 12 DE MARZO DE 2013)</small>
+
 II. A dar la correspondiente fianza de que disfrutará de las cosas con moderación, y las restituirá al propietario con sus accesiones, al extinguirse el usufructo, no empeoradas ni deterioradas por su negligencia, salvo lo dispuesto en el Título Noveno, Capítulo III, del Código Familiar para el Estado de Michoacán de Ocampo.
 
 ###### Artículo 279.
@@ -2273,9 +2275,11 @@ Cuando el último día sea feriado, no se tendrá por completa la prescripción,
 
 ## TÍTULO PRIMERO. DISPOSICIONES PRELIMINARES
 
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2013)</small>
+
 ###### Artículo 452.
 
-Herencia es la sucesión en todos los bienes del difunto y en todos sus derechos y obligaciones que se extinguen por la muerte.
+Herencia es la sucesión en todos los bienes del difunto y en todos sus derechos y obligaciones que no se extinguen por la muerte.
 
 ###### Artículo 453.
 
@@ -3329,9 +3333,11 @@ Si la identidad del testador no puede ser verificada, se hará constar esta circ
 
 En el caso del artículo que precede, no tendrá validez el testamento mientras no se justifique la identidad del testador.
 
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2013)</small>
+
 ###### Artículo 679.
 
-Se prohíbe a los notarios y a cualesquiera otras personas que hayan de redactar testamentos, dejar hojas en blanco y servirse de abreviaturas o cifras bajo la pena de veinte días de salario mínimo de multa a los notarios y de cien los que no lo fueren.
+Se prohíbe a los notarios y a cualesquiera otras personas que hayan de redactar testamentos, dejar hojas en blanco y servirse de abreviaturas o cifras. La infracción a lo anterior se sancionará con multa de doscientos a mil días de salario mínimo a los notarios y de diez a veinte días de salario mínimo a los que no lo fueren.
 
 > <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2009)</small>
 
@@ -3435,9 +3441,11 @@ Si al hacer la presentación del testamento no pudiere firmar el testador lo har
 
 Los que no saben o no pueden leer son inhábiles para hacer testamento cerrado.
 
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2013)</small>
+
 ###### Artículo 702.
 
-El sordomudo podrá hacer testamento cerrado con tal de que esté todo él escrito, fechado y firmado de su propia mano y que al presentarlo al notario ante cinco testigos, escriba a presencia de todos sobre la cubierta que en aquél pliego se contiene su última voluntad y va escrita y firmada por él. El notario declarará en el acta de la cubierta que el testador lo escribió así, observándose lo dispuesto en los artículos 696, 697, y 698.
+Las personas con discapacidad de la comunidad sorda, podrán hacer testamento cerrado con tal de que esté todo el escrito, fechado y firmado de su propia mano y que al presentarlo al notario ante cinco testigos, escriba a presencia de todos sobre la cubierta que en aquél pliego se contiene su última voluntad y va escrita y firmada por él. En caso de que la persona con discapacidad de la comunidad sorda no supiere escribir se auxiliará de un intérprete en Lengua de Señas Mexicana certificado que podrá depender de una institución pública u organización de la sociedad civil especialista o bien, en caso extraordinario, de una persona de su confianza que deberá ser oyente y saber leer y escribir. El notario declarará en el acta de la cubierta que el testador lo escribió así, observándose lo dispuesto en los artículos 696, 698, y 699 de este Código.
 
 ###### Artículo 703.
 
@@ -3451,9 +3459,11 @@ El testamento cerrado que carezca de alguna de las formalidades sobredichas, que
 
 Cerrado y autorizado el testamento se depositará en el Archivo General de Notarías, y el notario previamente, pondrá razón en el protocolo del lugar, hora, día, mes y año en que el testamento fue autorizado. Al margen de esa razón anotará el día en que fue entregado a dicho Archivo.
 
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2013)</small>
+
 ###### Artículo 706.
 
-Por la infracción del artículo anterior, no se anulará el testamento, pero el notario incurrirá en una multa de doscientos días de salario mínimo general vigente.
+Por la infracción del artículo anterior, no se anulará el testamento, pero el notario incurrirá en una multa de cien a doscientos días de salario mínimo general vigente.
 
 ###### Artículo 707.
 
@@ -5587,9 +5597,11 @@ En el caso del artículo anterior, si la elección es del deudor éste designar�
 
 En los casos de los dos artículos que preceden, el acreedor está obligado al pago de los daños y perjuicios.
 
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2013)</small>
+
 ###### Artículo 1143.
 
-Si el obligado a prestar una cosa o ejecutar un hecho se rehusare a hacer lo segundo y la elección es del acreedor, éste podrá exigir la cosa o la ejecución del hecho por un tercero, en los términos del artículo 1188. Si la elección es del deudor, éste cumple entregando la cosa.
+Si el obligado a prestar una cosa o ejecutar un hecho se rehusare a hacer lo segundo y la elección es del acreedor, éste podrá exigir la cosa o la ejecución del hecho por un tercero, en los términos del artículo 1192 de este Código. Si la elección es del deudor, éste cumple entregando la cosa.
 
 ###### Artículo 1144.
 
@@ -9431,9 +9443,11 @@ El obligado a dar fiador debe presentar persona que tenga capacidad para obligar
 
 En las obligaciones a plazo o de prestación periódica, el acreedor podrá exigir fianza aún cuando en el contrato no se haya constituido, si después de celebrado el deudor sufre menoscabo en sus bienes o pretende ausentarse del lugar en que deba hacerse el pago.
 
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2013)</small>
+
 ###### Artículo 1939.
 
-Si el fiador viniere a estado de insolvencia puede el acreedor pedir otro que reúna las cualidades exigidas por el artículo 1933.
+Si el fiador viniere a estado de insolvencia puede el acreedor pedir otro que reúna las cualidades exigidas por el artículo 1937 de este Código.
 
 ###### Artículo 1940.
 
@@ -10744,3 +10758,7 @@ SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su public
 P.O. 3 DE FEBRERO DE 2012.
 
 LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE MICHOACÁN.
+
+P.O. 12 DE MARZO DE 2013.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
