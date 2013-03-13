@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-salud-del-estado-de-815
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-06-03"
-last_updated: "2012-09-26"
+last_updated: "2013-03-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81586&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE SALUD DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el viernes 3 de junio de 2011.
 
@@ -39,15 +39,17 @@ REGLAMENTO INTERIOR DE LA SECRETARÍA DE SALUD
 
 ### CAPÍTULO PRIMERO. COMPETENCIA Y ORGANIZACIÓN
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2013)</small>
+
 ###### Artículo 1.
 
-La Secretaría de Salud del Poder Ejecutivo del Estado, tiene a su cargo el despacho de los asuntos que le encomiendan la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos y las demás disposiciones jurídicas vigentes.
+La Secretaría de Salud del Poder Ejecutivo del Estado, tiene a su cargo el despacho de los asuntos que le encomiendan la Ley Orgánica de la Administración Pública del Estado de Morelos y las demás disposiciones jurídicas vigentes.
 
 ###### Artículo 2.
 
 Para el despacho de los asuntos de su competencia, la Secretaría contará con los servidores públicos y las unidades administrativas que enseguida se refieren:
 
-l. Secretario;
+I. Secretario;
 
 II. Subsecretario de Salud;
 
@@ -63,7 +65,9 @@ VI. Dirección General de Coordinación y Supervisión, y
 
 VII. Dirección General de Vinculación y Participación Social.
 
-Las unidades administrativas estarán integradas por los titulares respectivos, Subdirectores, Jefes de Departamento, Jefes de Oficina y demás servidores públicos que se señalen en los Manuales de Organización y en las disposiciones jurídicas aplicables, en términos de su suficiencia presupuestal.
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2013)</small>
+
+Las unidades administrativas estarán integradas por los titulares respectivos, Directores de Área, Subdirectores, Jefes de Departamento, Jefes de Oficina y demás servidores públicos que se señalen en los Manuales de Organización y en las disposiciones jurídicas aplicables, en términos de su suficiencia presupuestal.
 
 ###### Artículo 3.
 
@@ -75,11 +79,13 @@ La Secretaría de Salud planeará y conducirá sus actividades con sujeción a l
 
 La representación de la Secretaría, así como el trámite y resolución de los asuntos de su competencia, corresponden originalmente al titular de la misma, quien para la mejor atención y despacho de los mismos podrá delegar sus facultades en servidores públicos subalternos, sin perjuicio de su ejercicio directo, excepto aquellas que por disposición de la Ley o de este Reglamento, deban ser ejercidas directamente por él.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2013)</small>
+
 ###### Artículo 5.
 
-El titular de la Secretaría tendrá las atribuciones que le confieren la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos y las demás disposiciones jurídicas y administrativas aplicables, las cuales ejercerá conforme a las necesidades del servicio, pero no podrá delegar en servidores públicos subalternos las siguientes:
+El titular de la Secretaría tendrá las atribuciones que le confieren la Ley Orgánica de la Administración Pública del Estado de Morelos y las demás disposiciones jurídicas y administrativas aplicables, las cuales ejercerá conforme a las necesidades del servicio, pero no podrá delegar en servidores públicos subalternos las siguientes:
 
-l. Establecer, dirigir y controlar la política interna de la Secretaría, así como la correspondiente a las entidades paraestatales adscritas a su coordinación;
+I. Establecer, dirigir y controlar la política interna de la Secretaría, así como la correspondiente a las entidades paraestatales adscritas a su coordinación;
 
 II. Expedir, previo acuerdo del ttular (sic) del Ejecutivo, las políticas en materia de salud en el Estado de Morelos;
 
@@ -131,7 +137,7 @@ Al frente de la Subsecretaría de Salud habrá un titular, quien para el trámit
 
 El titular de la Subsecretaría de Salud tendrá las siguientes atribuciones genéricas:
 
-l. Coordinar las actividades de las Direcciones Generales adscritas;
+I. Coordinar las actividades de las Direcciones Generales adscritas;
 
 II. Planear, programar, controlar y evaluar las actividades que tengan encomendadas las Direcciones Generales adscritas, de conformidad con las disposiciones legales lineamientos, normas, políticas y procedimientos aplicables;
 
@@ -449,11 +455,11 @@ XX. Las demás que le confieran otras disposiciones jurídicas o le delegue el o
 
 ### CAPÍTULO SEXTO. ÓRGANOS ADMINISTRATIVOS DESCONCENTRADOS
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2013)</small>
+
 ###### Artículo 17.
 
-La Secretaría podrá contar con órganos administrativos desconcentrados que le estarán jerárquicamente subordinados. A éstos se les otorgarán las facultades específicas que se determinen en cada caso, de acuerdo con lo dispuesto en el artículo 18 de la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos.
-
-Las facultades de los órganos administrativos desconcentrados se establecerán en el decreto o acuerdo de creación que para tal efecto se expida, mismo que deberá ser publicado en el Periódico Oficial “Tierra y Libertad”, órgano informativo del Gobierno del Estado.
+La Secretaría podrá contar con órganos administrativos desconcentrados que le estarán jerárquicamente subordinados. Éstos tendrán las facultades específicas que se determinen, en cada caso y de conformidad con lo dispuesto en la Ley Orgánica de la Administración Pública del Estado de Morelos, en el decreto o acuerdo de creación que para tal efecto se expida, mismo que deberá ser publicado en el Periódico Oficial “Tierra y Libertad”, órgano informativo del Gobierno del Estado.
 
 ###### Artículo 18.
 
@@ -461,9 +467,11 @@ La Secretaría contará con un órgano administrativo desconcentrado que se deno
 
 ### CAPÍTULO SÉPTIMO. COMISIONES Y COMITÉS DE LA SECRETARÍA
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2013)</small>
+
 ###### Artículo 19.
 
-La Secretaría podrá contar con las comisiones y comités que determine el Ejecutivo Estatal o el titular de la Secretaría, según proceda. A éstos se les otorgarán las facultades y funciones que se determinen en cada caso en el Acuerdo de creación respectivo.
+La Secretaría podrá contar con las comisiones y comités que determine el Ejecutivo Estatal de conformidad con lo establecido en el artículo 5 de la Ley Orgánica de la Administración Pública del Estado de Morelos. A éstos se les otorgarán las facultades y funciones que se determinen en cada caso en el Acuerdo de creación respectivo.
 
 ###### Artículo 20.
 
@@ -471,19 +479,31 @@ Las comisiones y comités existentes a la fecha y que por sus objetivos y funcio
 
 ### CAPÍTULO OCTAVO. SUPLENCIA DE LOS TITULARES DE LA SECRETARÍA, SUBSECRETARÍA Y DIRECCIONES GENERALES
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2013)</small>
+
 ###### Artículo 21.
 
-Las ausencias temporales del titular de la Secretaría, se cubrirán por el titular de la Subsecretaría de Salud, y a falta de éste por la o el Director General que designe el titular de la Secretaría.
+Las ausencias temporales menores a quince días naturales del titular de la Secretaría, se cubrirán por el titular de la Subsecretaría de Salud, y a falta de éste por la o el Director General que designe el titular de la Secretaría.
 
-En los asuntos judiciales, administrativas o del trabajo y, en general, para cualquier trámite, juicio, procedimiento, proceso, averiguación o investigación, la suplencia del titular de la Secretaría recaerá en el titular de la Dirección General Jurídica.
+En los asuntos judiciales, administrativas (sic) o del trabajo y, en general, para cualquier trámite, juicio, procedimiento, proceso, averiguación o investigación, la suplencia del titular de la Secretaría recaerá en el titular de la Dirección General Jurídica.
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2013)</small>
 
 ###### Artículo 22.
 
-Las ausencias temporales del titular de la Subsecretaría de Salud se cubrirán por la Dirección General que designe el titular de la Secretaría a propuesta del propio titular de la Subsecretaría.
+Las ausencias temporales no mayores a noventa días naturales del titular de la Subsecretaría de Salud se cubrirán por la Dirección General que designe el titular de la Secretaría a propuesta del propio titular de la Subsecretaría.
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2013)</small>
 
 ###### Artículo 23.
 
-Las ausencias temporales de las o los Directores Generales se cubrirán por el Servidor Público de inmediata jerarquía inferior, que designe el titular de la Secretaría o Subsecretaría, según corresponda.
+Las ausencias temporales por un período menor de noventa días naturales de las o los Directores Generales se cubrirán por el Servidor Público de inmediata jerarquía inferior, que designe el titular de la Secretaría o Subsecretaría, según corresponda.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2013)</small>
+
+###### Artículo 24.
+
+Cuando por cualquier motivo no exista titular en alguna de las Subsecretarías y Direcciones Generales, el Secretario podrá delegar las funciones propias del cargo que temporalmente se encuentra vacante, y que originalmente le pertenecen, en el servidor público de jerarquía inmediata inferior que corresponda, quien no dejará de desempeñar el cargo que originalmente ostenta pero será designado como Encargado de Despacho por un plazo no mayor de noventa días, debiendo desempeñar legalmente las atribuciones que originalmente corresponderían al servidor público que se tenga que suplir, sin que ello genere mayores derechos o prestaciones de los que legalmente le corresponden por su cargo original.
 
 ## TRANSITORIOS
 
@@ -522,3 +542,9 @@ RÚBRICAS.
 P.O. 26 DE SEPTIEMBRE DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+P.O. 13 DE MARZO DE 2013.
+
+PRIMERA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+SEGUNDA. Se derogan todas las disposiciones del igual o inferior nivel jerárquico normativo que se opongan al presente Decreto.
