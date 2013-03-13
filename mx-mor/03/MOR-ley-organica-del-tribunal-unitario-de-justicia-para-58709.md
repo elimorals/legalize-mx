@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-del-tribunal-unitario-de-justicia-para-58709"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-12-19"
-last_updated: "2012-08-08"
+last_updated: "2013-03-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58709&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA DEL TRIBUNAL UNITARIO DE JUSTICIA PARA ADOLESCENTES Y JUZGADOS ESPECIALIZADOS DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 19 de diciembre de 2007.
 
@@ -47,21 +47,25 @@ LEY ORGÁNICA DEL TRIBUNAL UNITARIO DE JUSTICIA PARA ADOLESCENTES Y JUZGADOS ESP
 
 DISPOSICIONES GENERALES.
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2013)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés social y tiene por objeto regular la organización, funcionamiento y atribuciones del Tribunal Unitario de Justicia para Adolescentes, así como de los Juzgados de Garantía y de Juicio Oral especializados en la materia en el Estado de Morelos.
+La presente Ley es de orden público e interés social y tiene por objeto regular la organización, estructura, funcionamiento y atribuciones del Tribunal Unitario de Justicia para Adolescentes, así como del juzgado especializado que forma parte de éste.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2013)</small>
 
 ###### Artículo 2.
 
-El sistema Integral de Justicia para Adolescentes se integra por un Tribunal Unitario de Justicia para Adolescentes, por los Juzgados de Garantía y de Juicio Oral especializados en la materia, por los Juzgados Especializados que determine la Ley de Justicia para Adolescentes del Estado de Morelos, por las unidades especializadas del Ministerio Público, de la Defensoría Pública y por la Dirección de Ejecución de Medidas para Adolescentes.
+El Sistema Integral de Justicia para Adolescentes se integra, por un Tribunal Unitario de Justicia para Adolescentes, por el Juzgado Especializado para Adolescentes, por las unidades especializadas del Ministerio Público, de la Defensoría Pública y por la Dirección de Ejecución de Medidas para Adolescentes.
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2013)</small>
 
 ###### Artículo 3.
 
-El Tribunal Unitario de Justicia para Adolescentes estará integrado por un Magistrado titular y uno suplente.
+El Tribunal Unitario de Justicia para Adolescentes estará integrado por un Magistrado titular y un suplente.
 
-Los Juzgados de Garantía y de Juicio Oral estarán integrados por el número de Jueces especializados que se requiera para su adecuado funcionamiento, según lo exija un buen servicio público y lo autorice el presupuesto.
+El Juzgado Especializado contará con Jueces de Control, de Juicio Oral y de Ejecución de Sanciones, en el número que se requiera para su adecuado funcionamiento, según lo exija un buen servicio público y lo autorice el presupuesto.
 
 ###### Artículo 4.
 
@@ -85,11 +89,15 @@ III. Reglamento: Reglamento Interior del Tribunal Unitario de Justicia para Adol
 
 IV. Tribunal: Tribunal Unitario de Justicia para Adolescentes;
 
-V. Juzgados especializados: Juzgados de Garantías y Juzgados de Juicio Oral especializados en justicia para adolescentes;
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2013)</small>
+
+V. Juzgado Especializado: el conformado por los Jueces de Control, de Juicio Oral y de Ejecución de Sanciones Especializados en Justicia para Adolescentes;
 
 VI. Magistrado: Magistrado titular del Tribunal Unitario de Justicia para Adolescentes, y
 
-VII. Jueces especializados: Jueces de Garantía y Jueces de Juicio Oral especializados en justicia para adolescentes.
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2013)</small>
+
+VII. Jueces especializados: los Jueces de Control, de Juicio Oral y de Ejecución de Sanciones, especializados en Justicia para Adolescentes.
 
 ### CAPÍTULO II. DEL TRIBUNAL UNITARIO DE JUSTICIA PARA ADOLESCENTES
 
@@ -99,7 +107,9 @@ VII. Jueces especializados: Jueces de Garantía y Jueces de Juicio Oral especial
 
 El Magistrado conocerá de los recursos de apelación, casación y revisión, previstos por la Ley; resolverá las recusaciones, excusas y los conflictos de competencia de los Jueces especializados.
 
-Tratándose de la ejecución de las sentencias que dicte el Tribunal, ejercerá las atribuciones que le señala la Ley de Justicia para Adolescentes del Estado de Morelos.
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2013)</small>
+
+La ejecución de las sentencias que dicte el Tribunal, será competencia del Juez de Ejecución en los términos que señala la Ley de Justicia para Adolescentes del Estado de Morelos.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2008)</small>
 
@@ -135,9 +145,11 @@ Dentro de los primeros diez días del mes de septiembre de cada año, el Magistr
 
 De este informe remitirá copia al Presidente del Tribunal Superior de Justicia del Estado para su conocimiento.
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2013)</small>
+
 ###### Artículo 14.
 
-La residencia del Tribunal será en la ciudad de Cuernavaca, estado de Morelos.
+La residencia del Tribunal será preferentemente en la Capital del Estado, pero podrá ubicarse según lo determine el Magistrado Unitario, en cualquier otro lugar dentro del Estado de Morelos, para un adecuado funcionamiento y buen servicio público.
 
 ###### Artículo 15.
 
@@ -173,15 +185,19 @@ XII. Las demás que determinen las Leyes.
 
 Cuando así lo justifique una mejor y más adecuada prestación del servicio, en el supuesto que establece la fracción XI del artículo 15 de la presente Ley, el Magistrado podrá acordar la conformación de juzgados integrados cada uno de ellos, por los jueces que sean necesarios y que autorice el presupuesto, quienes actuarán en forma unitaria de conformidad con lo dispuesto en la Ley, en estos casos, el Magistrado designará a uno de los jueces en calidad de Coordinador.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2013)</small>
+
 ###### Artículo 17.
 
-Los Jueces especializados serán nombrados, mediante convocatoria pública a examen de oposición, por el Magistrado titular del Tribunal Unitario y ejercerán sus funciones, previa protesta legal que otorgarán ante éste. Durarán en su encargo tres años, prorrogables únicamente por otro período igual.
+Los Jueces especializados serán nombrados, mediante convocatoria pública a examen de oposición, por el Magistrado titular del Tribunal Unitario y ejercerán sus funciones, previa protesta legal que otorgarán ante éste. Una vez nombrados tienen los mismos derechos, obligaciones y prerrogativas que los demás jueces pertenecientes al Poder Judicial del Estado de Morelos.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2013)</small>
 
 ###### Artículo 18.
 
-Los Jueces de Garantía especializados en Justicia para Adolescentes, ejercerán las funciones asignadas al juez en la etapa de investigación y etapa intermedia y los jueces de Juicio Oral especializados, aquellas relativas a la etapa de juicio, conforme lo señala la ley.
+Los Jueces de Control especializados en Justicia para Adolescentes, ejercerán las funciones a que se refiere el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos, en la etapa de investigación y etapa intermedia y los jueces de Juicio Oral especializados, aquellas relativas a la etapa de juicio, conforme lo señala la ley.
 
 ###### Artículo 19.
 
@@ -225,7 +241,7 @@ El Tribunal y los Juzgados especializados contarán con el personal auxiliar adm
 
 Las relaciones laborales entre el Tribunal, los Juzgados especializados y el personal auxiliar administrativo a su respectivo cargo, se regirán conforme a lo dispuesto por la Ley del Servicio Civil del Estado de Morelos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 24.
 
@@ -323,7 +339,7 @@ LIC. SERGIO ALVAREZ MATA
 
 RÚBRICAS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 10 DE DICIEMBRE DE 2008.
 
@@ -340,3 +356,23 @@ SEGUNDO. Los asuntos de carácter federal que a la entrada en vigor del presente
 TERCERO. Ante las circunstancias particulares del caso, se faculta a la Magistrada Titular del Tribunal Unitario de Justicia para Adolescentes, para que, previa la evaluación correspondiente, nombre bajo su responsabilidad al Juez Especializado en Justicia Para Adolescentes que conocerá de los asuntos del orden penal federal, aplicando el procedimiento previsto en las leyes federales respectivas, en los términos que señala el presente Decreto.
 
 CUARTO. La Magistrada Titular del Tribunal Unitario de Justicia para Adolescentes deberá efectuar el nombramiento a que se refiere el Transitorio Tercero de este Decreto, en un plazo no mayor a diez días hábiles contados a partir de que el presente Decreto inicie su vigencia.
+
+P.O. 13 DE MARZO DE 2013.
+
+PRIMERO.- Aprobada la reforma al artículo 109 Ter, de la Constitución Política del Estado Libre y Soberano de Morelos remítase a los treinta y tres Ayuntamientos del Estado, para los efectos de los artículos 147 y 148 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- Cumplidos los requisitos señalados en el artículo transitorio anterior, remítase el presente al Titular del Poder Ejecutivo del Estado, para los efectos de lo previsto en los artículos 44 y 70 fracción VII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+TERCERO.- Cumplido con lo señalado en los artículos transitorios primero y segundo, el decreto de la reforma constitucional inicia su vigencia a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado.
+
+CUARTO.- La reforma al artículo 17 de la Ley Orgánica del Tribunal Unitario de Justicia para Adolescentes y Juzgados Especializados, entrará en vigor en la misma fecha de la reforma al artículo 109 Ter de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+QUINTO.- Con la excepción a que se refiere el artículo transitorio anterior, las reformas y adiciones a la Ley de Justicia para Adolescentes del Estado de Morelos y a la Ley Orgánica del Tribunal Unitario de Justicia para Adolescentes y Juzgados Especializados, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado Libre y Soberano de Morelos.
+
+SEXTO.- La reforma al artículo 109 Ter de la Constitución Política del Estado Libre y Soberano de Morelos, una vez que inicie su vigencia se aplicará a los Jueces que actualmente se encuentran en funciones en el Tribunal Unitario de Justicia para Adolescentes, que hayan sido previamente reelectos para un período adicional, conforme a las disposiciones vigentes.
+
+SÉPTIMO.- Las conductas antisociales del orden común o federal, cometidas con antelación a la entrada en vigor del presente Decreto, no podrán ser objeto de las medidas sancionadas en los términos que las señala la reforma a los artículos 109 y Séptimo Transitorio de la Ley de Justicia para Adolescentes del Estado de Morelos, debiéndose aplicar aquellas vigentes en la fecha de comisión de la conducta antisocial de la que se trate.
+
+OCTAVO.- El seguimiento de la ejecución de las sentencias dictadas por los Jueces Especializados o por el Magistrado del Tribunal, previo a la entrada en vigor del presente decreto, corresponderá a los Jueces de Ejecución que al efecto nombre el Magistrado titular del Tribunal Unitario de Justicia para Adolescentes, en el ejercicio de sus atribuciones.
+
+NOVENO.- Con el objeto de no dilatar la impartición de justicia, por esta única vez se faculta al Magistrado del Tribunal Unitario de Justicia para Adolescentes a nombrar al juez o jueces de ejecución que sean necesarios, previo examen de oposición, o ratificar los que hubiese nombrado conforme al artículo DÉCIMO PRIMERO transitorio de la LEY DE REINSERCIÓN SOCIAL Y SEGUIMIENTO DE MEDIDAS CAUTELARES.
