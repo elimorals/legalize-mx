@@ -4,7 +4,7 @@ identifier: "VER-reglamento-de-operacion-de-la-unidad-de-acceso-a-la-87721"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-04-16"
-last_updated: "2012-04-16"
+last_updated: "2013-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87721&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 REGLAMENTO DE OPERACIÓN DE LA UNIDAD DE ACCESO A LA INFORMACIÓN PÚBLICA Y EL COMITÉ DE INFORMACIÓN DE ACCESO RESTRINGIDO DE LA OFICINA DEL GOBERNADOR DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE MARZO DE 2013.
 
 Reglamento publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el lunes 16 de abril de 2012.
 
@@ -73,9 +73,11 @@ La Unidad de Acceso, respetará el derecho de acceso a la información que ejerz
 
 La Unidad de Acceso es la instancia administrativa encargada de la recepción de las peticiones de información y de su trámite, conforme a lo señalado en la Ley, este Reglamento, Lineamientos y demás disposiciones aplicables, sin perjuicio de que las atribuciones anteriores las ejerza directamente el Gobernador o a quien de manera directa designe para tal efecto.
 
+> <small>(REFORMADO, G.O. 13 DE MARZO DE 2013)</small>
+
 ###### Artículo 5.
 
-La Unidad de Acceso a la Información, estará a cargo de un Jefe de la Unidad, recayendo la designación en el Titular de la Coordinación de Asuntos Legales de la Oficina del Gobernador, cuyo nombramiento, en uso de las facultades que le confiere el decreto de creación de la Unidad de Acceso, lo expedirá mediante oficio el Secretario Particular del Titular del Poder Ejecutivo.
+La Unidad de Acceso a la Información, estará a cargo de un Jefe de la Unidad, recayendo la designación en el titular de la Consejería de Asuntos Legales de la Oficina del Gobernador, cuyo nombramiento, será expedido por el C. Gobernador, en uso de las facultades que le confiere el Acuerdo de creación de la Unidad de Acceso.
 
 ###### Artículo 6.
 
@@ -482,3 +484,11 @@ Dr. Javier Duarte de Ochoa
 Gobernador del Estado
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 13 DE MARZO DE 2013.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Publíquese en la Página Web de la Oficina del Gobernador: www.veracruz.gob.mx.
