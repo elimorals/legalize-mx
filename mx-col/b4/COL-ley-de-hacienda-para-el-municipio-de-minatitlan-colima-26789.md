@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-minatitlan-colima-26789"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2012-12-29"
+last_updated: "2013-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE MINATITLÁN DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2013.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -379,7 +379,7 @@ En todo caso, los bienes inmuebles objeto del impuesto garantizarán preferentem
 
 ###### ARTICULO 25.
 
-Será base de este impuesto el valor que resulte mayor entre el valor catastral, el de avalúo comercial y el señalado como precio de la transmisión vigente, en el momento en que se realice la operación objeto del impuesto.
+Será base de este impuesto el valor que resulte mayor entre el valor catastral, el de avalúo comercial y el señalado como precio de la transmisión vigentes, en el momento en que se realice la operación objeto del impuesto.
 
 A petición del contribuyente se pondrá el valor de la transacción, siempre y cuando éste sea mayor al valor catastral.
 
@@ -3389,11 +3389,11 @@ BASE 100% 80% 60%
 
 Lo dispuesto en este TRANSITORIO, no es aplicable cuando el contribuyente y la Tesorería Municipal celebren convenio para pago en parcialidades.
 
-> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO OCTAVO.
 
-Para el Ejercicio fiscal 2009, el plazo a que se refieren los artículos 80, párrafo segundo y 81, último párrafo de ésta Ley se amplía hasta el 31 de mayo.
+Para el ejercicio fiscal 2013, el plazo a que se refieren los artículos 80, párrafo segundo y 81, último párrafo de esta ley se amplía hasta el 30 de abril.
 
 El Gobernador del Estado dispondrá se imprima, publique, circule y observe.
 
@@ -3494,3 +3494,7 @@ P.O. 14 DE JULIO DE 2012.
 P.O. 29 DE DICIEMBRE DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor el día 1° de enero del año 2013, previa su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 13 DE MARZO DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
