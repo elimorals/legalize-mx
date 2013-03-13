@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2013-01-23"
+last_updated: "2013-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2013.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -2462,7 +2462,9 @@ Ninguna persona que haya sido nombrada magistrado y haya procedido su designaci�
 
 El Magistrado del Tribunal Unitario de Justicia para Adolescentes administrará sus recursos y propondrá su presupuesto de egresos al Titular del Poder Judicial, quien lo integrará al presupuesto de egresos de dicho poder. La fiscalización de sus recursos estará a cargo de la Auditoría Superior de Fiscalización del Congreso del Estado.
 
-Habrá un Magistrado titular y suplente, así como el número de Jueces especializados que señale la Ley Orgánica que para tal efecto se expida. Tendrán competencia exclusiva para administrar justicia a los adolescentes a quienes se atribuya la realización de una conducta tipificada como delito por las leyes penales del Estado. Serán nombrados por el Magistrado del Tribunal Unitario de Justicia para Adolescentes, mediante convocatoria a examen de oposición, y durarán en su encargo tres años, pudiendo ser reelecto únicamente por otro periodo igual.
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2013)</small>
+
+Habrá un Magistrado titular y un suplente, así como el número de Jueces especializados que señale la Ley Orgánica que para tal efecto se expida. Tendrán competencia exclusiva para administrar justicia a los adolescentes a quienes se atribuya la realización de una conducta tipificada como delito por las leyes del Estado de Morelos. Los Jueces Especializados serán nombrados por el Magistrado del Tribunal Unitario de Justicia para Adolescentes, mediante convocatoria a examen de oposición calificado por el Centro Nacional de Evaluación Superior (CENEVAL), designando en el cargo a quienes obtengan las más altas evaluaciones en dicho examen. Una vez nombrados tienen los mismos derechos, obligaciones y prerrogativas que los demás jueces pertenecientes al Poder Judicial del Estado de Morelos.
 
 > <small>N. DE E. DE CONFORMIDAD CON EL DECRETO NÚMERO 824, PUBLICADO EN EL P.O. 16 DE JULIO DE 2008, LOS ANTERIORES PENÚLTIMO Y ÚLTIMO PÁRRAFOS, QUEDAN INTEGRADOS EN UNO.</small>
 
@@ -4283,3 +4285,23 @@ DECRETO No. 269, POR EL QUE SE ADICIONA UN PÁRRAFO ULTIMO AL ARTICULO 42 DE LA 
 Artículo Primero.- Aprobado que sea el presente decreto, en términos de los numerales 147 y 148 de la Constitución Política del Estado Libre y Soberano de Morelos, remítase al Poder Ejecutivo para su promulgación y publicación en el Periódico Oficial "Tierra y Libertad".
 
 Artículo Segundo.- El presente decreto entrará en vigor a partir de que se haga la declaratoria.
+
+P.O. 13 DE MARZO DE 2013.
+
+PRIMERO.- Aprobada la reforma al artículo 109 Ter, de la Constitución Política del Estado Libre y Soberano de Morelos remítase a los treinta y tres Ayuntamientos del Estado, para los efectos de los artículos 147 y 148 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- Cumplidos los requisitos señalados en el artículo transitorio anterior, remítase el presente al Titular del Poder Ejecutivo del Estado, para los efectos de lo previsto en los artículos 44 y 70 fracción VII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+TERCERO.- Cumplido con lo señalado en los artículos transitorios primero y segundo, el decreto de la reforma constitucional inicia su vigencia a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado.
+
+CUARTO.- La reforma al artículo 17 de la Ley Orgánica del Tribunal Unitario de Justicia para Adolescentes y Juzgados Especializados, entrará en vigor en la misma fecha de la reforma al artículo 109 Ter de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+QUINTO.- Con la excepción a que se refiere el artículo transitorio anterior, las reformas y adiciones a la Ley de Justicia para Adolescentes del Estado de Morelos y a la Ley Orgánica del Tribunal Unitario de Justicia para Adolescentes y Juzgados Especializados, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado Libre y Soberano de Morelos.
+
+SEXTO.- La reforma al artículo 109 Ter de la Constitución Política del Estado Libre y Soberano de Morelos, una vez que inicie su vigencia se aplicará a los Jueces que actualmente se encuentran en funciones en el Tribunal Unitario de Justicia para Adolescentes, que hayan sido previamente reelectos para un período adicional, conforme a las disposiciones vigentes.
+
+SÉPTIMO.- Las conductas antisociales del orden común o federal, cometidas con antelación a la entrada en vigor del presente Decreto, no podrán ser objeto de las medidas sancionadas en los términos que las señala la reforma a los artículos 109 y Séptimo Transitorio de la Ley de Justicia para Adolescentes del Estado de Morelos, debiéndose aplicar aquellas vigentes en la fecha de comisión de la conducta antisocial de la que se trate.
+
+OCTAVO.- El seguimiento de la ejecución de las sentencias dictadas por los Jueces Especializados o por el Magistrado del Tribunal, previo a la entrada en vigor del presente decreto, corresponderá a los Jueces de Ejecución que al efecto nombre el Magistrado titular del Tribunal Unitario de Justicia para Adolescentes, en el ejercicio de sus atribuciones.
+
+NOVENO.- Con el objeto de no dilatar la impartición de justicia, por esta única vez se faculta al Magistrado del Tribunal Unitario de Justicia para Adolescentes a nombrar al juez o jueces de ejecución que sean necesarios, previo examen de oposición, o ratificar los que hubiese nombrado conforme al artículo DÉCIMO PRIMERO transitorio de la LEY DE REINSERCIÓN SOCIAL Y SEGUIMIENTO DE MEDIDAS CAUTELARES.
