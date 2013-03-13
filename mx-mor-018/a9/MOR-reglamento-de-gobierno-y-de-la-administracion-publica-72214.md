@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-gobierno-y-de-la-administracion-publica-72214"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-01-20"
-last_updated: "2010-01-20"
+last_updated: "2013-03-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72214&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "MOR"
 ---
 # REGLAMENTO DE GOBIERNO Y DE LA ADMINISTRACION PUBLICA MUNICIPAL DE TEMIXCO, MORELOS
 
-REGLAMENTO DE GOBIERNO Y DE LA ADMINISTRACION PUBLICA MUNICIPAL DE TEMIXCO, MORELOS
+REGLAMENTO DE GOBIERNO Y DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DE TEMIXCO, MORELOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE GOBIERNO Y DE LA ADMINISTRACIÓN PÚBLICA DEL MUNICIPIO DE TEMIXCO, MORELOS, PUBLICADO EN EL P.O. 13 DE MARZO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 20 de enero de 2010.
 
@@ -3522,3 +3524,17 @@ FERNANDO GUTIÉRREZ NAVA
 EL C. SECRETARIO DEL AYUNTAMIENTO
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE MARZO DE 2013.
+
+PRIMERO.- El presente Reglamento entrará en vigor el día primer de marzo del año dos mil trece, independientemente de la fecha de su publicación en el Periódico Oficial "Tierra y Libertad", del Gobierno del Estado de Morelos.
+
+SEGUNDO.- Se abroga el Reglamento de Gobierno y Administración, del municipio de Temixco, Morelos, publicado en el Periódico Oficial "Tierra y Libertad", del Gobierno del Estado de Morelos número 4772, de fecha 20 de Enero del año 2010.
+
+TERCERO.- En tanto se expiden los reglamentos y manuales de organización que regulen la organización de las dependencias de la administración que se citan en el presente Reglamento, el Presidente Municipal, o el Cabildo en su caso, quedan facultados para resolver las cuestiones que surjan con motivo de su aplicación.
+
+CUARTO.- Se faculta a la tesorería municipal a efectuar las transferencias de recursos que sean necesarias para ajustar el presupuesto aprobado por el Cabildo para el ejercicio fiscal 2013 a la estructura orgánica prevista en este Reglamento.
+
+QUINTO.- Se derogan las disposiciones municipales que se opongan al contenido del presente ordenamiento.
