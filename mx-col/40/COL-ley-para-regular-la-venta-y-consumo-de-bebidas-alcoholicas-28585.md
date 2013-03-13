@@ -4,7 +4,7 @@ identifier: "COL-ley-para-regular-la-venta-y-consumo-de-bebidas-alcoholicas-2858
 country: "mx"
 rank: "ley"
 publication_date: "2003-01-11"
-last_updated: "2011-02-19"
+last_updated: "2013-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28585&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY PARA REGULAR LA VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE FEBRERO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2013.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 11 de enero de 2003.
 
@@ -387,7 +387,7 @@ V. Vender cualquier clase de bebidas alcohólicas o cualquier sustancia que cont
 
 VI. En general, la violación a cualquiera de las disposiciones contempladas en esta Ley o en los Reglamentos Municipales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE ABRIL DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 2005)</small>
 
 ###### ARTICULO 38.
 
@@ -399,7 +399,7 @@ En el caso de infracción a lo dispuesto por la fracción II, se impondrá una s
 
 A quienes infrinjan a lo dispuesto por las fracciones IV y V del artículo anterior se les impondrá una multa, cuyo importe no será menor al equivalente a 50 ni mayor de 250 días de salario mínimo vigente al momento de cometerse la infracción. En caso de reincidencia se procederá a la clausura definitiva del establecimiento y se le revocará su licencia municipal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE ABRIL DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 2005)</small>
 
 ###### ARTICULO 39.
 
@@ -425,9 +425,9 @@ TERCERO.- En tanto se establecen los órganos de lo contencioso-administrativos 
 
 CUARTO.- Los Ayuntamientos expedirán los reglamentos municipales a que se refiere esta Ley, en un plazo que no excederá de 90 días naturales, contados a partir de la entrada en vigor del presente Decreto.
 
-> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2013)</small>
 
-QUINTO.- Para el Ejercicio fiscal 2009, el plazo a que se refiere el artículo 14 de esta Ley se amplía hasta el 31 de mayo.
+QUINTO.- Para el Ejercicio fiscal 2013, el plazo a que se refiere el artículo 14 de esta Ley se amplía hasta el 30 de abril.
 
 El Gobernador del Estado dispondrá se publique, circule y observe.
 
@@ -441,7 +441,7 @@ Dado en Palacio de Gobierno a los 10 días del mes de enero de 2003.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO MORENO PEÑA.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. JORGE HUMBERTO SILVA OCHOA.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 30 DE ABRIL DE 2005.
 
@@ -476,5 +476,9 @@ SEGUNDO.- En un término no mayor de 90 días naturales a partir de la entrada e
 TERCERO.- Los propietarios, poseedores o titulares de los establecimientos comprendidos en el presente Decreto, tendrán como plazo máximo el 1° de marzo de 2011, para dar debido cumplimiento a las obligaciones contenidas en el mismo.
 
 P.O. 19 DE FEBRERO DE 2011.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 13 DE MARZO DE 2013.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
