@@ -4,7 +4,7 @@ identifier: "NAY-codigo-penal-para-el-estado-de-nayarit-6812"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-11-29"
-last_updated: "2012-12-28"
+last_updated: "2013-03-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6812&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "NAY"
 
 CÓDIGO PENAL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2012.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 28 DE DICIEMBRE DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2013.
 
 Código publicado en la Quinta Sección del Periódico Oficial del Estado de Nayarit, el sábado 29 de noviembre de 1986.
 
@@ -521,17 +519,21 @@ III. La indemnización del daño material y moral causado a la víctima o a las 
 
 IV. El resarcimiento de los perjuicios ocasionados, o
 
-V. El pago de los salarios o percepciones correspondientes, cuando por lesiones se cause incapacidad para trabajar en oficio, arte o profesión, de conformidad a lo dispuesto en la Ley Federal del Trabajo.
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2013)</small>
+
+V. El pago de los salarios o percepciones correspondientes, cuando por lesiones se cause incapacidad temporal para trabajar en oficio, arte o profesión, de conformidad a lo dispuesto en la Ley Federal del Trabajo.
+
+Si el ofendido no percibía utilidad o salario, o no pudiere determinarse éste, el monto de la reparación del daño se fijará teniendo en cuenta el salario mínimo vigente en la Entidad.
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2013)</small>
 
 ###### ARTICULO 42.
 
-La reparación será fijada por los Jueces, de acuerdo con las pruebas obtenidas en el proceso, atendiendo tanto al daño causado como a la capacidad económica del obligado a pagarla.
+La reparación será fijada por los jueces, de acuerdo a las pruebas obtenidas en el proceso y atendiendo al daño causado, la afectación del desarrollo integral de la víctima y a la capacidad económica del obligado a pagarla.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2004)</small>
+Cuando el daño se cause a las personas y ocasione incapacidad total o parcial permanente, a falta de pruebas, en la cuantía de la reparación del daño, se tomará como base la tabulación que como indemnización para estos casos, prevé la Ley Federal del Trabajo.
 
-Cuando el daño se cause a las personas y produzca la muerte, incapacidad total permanente, parcial permanentemente, total temporal o parcial temporal, a falta de pruebas, la cuantía de la reparación del daño, se tomará como base el triple del salario mínimo general vigente en la entidad, atendiendo a las disposiciones que sobre riesgo establezca la Ley Federal del Trabajo.
-
-Si el ofendido no percibía utilidad o salario, o no pudiere determinarse éste, el monto de la reparación del daño se fijará teniendo en cuenta el salario mínimo vigente.
+Si el daño causado a una persona trae como consecuencia la muerte de ésta, a falta de pruebas, en la cuantía de la reparación del daño, se tomará como base la cantidad equivalente al importe de dos mil quinientos días de salario mínimo vigente en la entidad.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -559,9 +561,11 @@ En el caso de concurrencia serán preferidos en su orden, las personas que figur
 
 Cuando se trate de exigir la reparación del daño a personas distintas a los procesados, deberá hacerse en los términos que señalan las Leyes Civiles, para las obligaciones que nacen de los actos ilícitos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2013)</small>
+
 ###### ARTICULO 45.
 
-La obligación de pagar el importe de la sanción pecuniaria es preferente y se cubrirá primero que cualquier otra de las obligaciones personales que se hubieren contraído con posterioridad al delito
+Salvo lo dispuesto en el artículo 41 de este código, la obligación de pagar el importe de la sanción pecuniaria es preferente y se cubrirá primero que cualquier otra de las obligaciones personales que se hubieren contraído con posterioridad al delito.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -3177,11 +3181,11 @@ Salvo el caso de la fracción IX del artículo 325 de este código, al responsab
 
 La riña es la contienda de obra con el ánimo de dañarse recíprocamente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO PRIMAR PÁRRAFO, P.O. 23 DE ABRIL DE 2011)</small>
 
 ###### ARTICULO 325.
 
-Se entiende que el homicidio y las lesiones son calificadas:
+Se entiende que el homicidio y las lesiones son calificados:
 
 I.- Caundo (sic) se cometan con premeditación, alevosía, ventaja o traición.
 
@@ -4414,3 +4418,7 @@ P.O. 20 DE NOVIEMBRE DE 2012.
 P.O. 10 DE DICIEMBRE DE 2012.
 
 Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 13 DE MARZO DE 2013.
+
+Único. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
