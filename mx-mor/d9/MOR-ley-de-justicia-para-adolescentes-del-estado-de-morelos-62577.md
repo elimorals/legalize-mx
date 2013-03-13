@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-justicia-para-adolescentes-del-estado-de-morelos-62577"
 country: "mx"
 rank: "ley"
 publication_date: "2008-08-18"
-last_updated: "2012-08-08"
+last_updated: "2013-03-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el lunes 18 de agosto de 2008.
 
@@ -247,11 +247,15 @@ Jurisdicción.
 
 El Poder Judicial contará con un Tribunal Unitario de Justicia para Adolescentes, integrado por un Magistrado y los jueces especializados que se requieran, quienes tendrán competencia en todo el Estado para administrar justicia a los adolescentes a quienes se les atribuya la realización de una conducta tipificada como delito por las leyes penales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2013)</small>
+
 ###### Artículo 24.
 
-De los jueces de garantía.
+De los Jueces de Control.
 
-Corresponde a los Jueces de Garantía especializados en adolescentes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2013)</small>
+
+Corresponde a los Jueces de Control especializados en adolescentes:
 
 I. Conocer de las causas instauradas en contra de las personas a las que se refiere esta Ley;
 
@@ -292,6 +296,16 @@ II. Declarar la responsabilidad o inocencia del adolescente sometido a juicio;
 III. Imponer las medidas sancionadoras, atendiendo a los principios de responsabilidad limitada, proporcionalidad y racionalidad, así como a las circunstancias, gravedad de la conducta, características y necesidades de los adolescentes; y
 
 IV. Las demás que le confieran las leyes.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2013)</small>
+
+###### Artículo 25 Bis.
+
+Del Juez de Ejecución:
+
+El Juez de Ejecución es la autoridad judicial responsable del control y supervisión de la legalidad de la aplicación y ejecución de las medidas impuestas a los adolescentes; vigilará el respeto a las finalidades constitucionales y legales de la sanción impuesta y de las medidas de seguridad.
+
+En lo que no contravenga los principios que rigen el Sistema de Justicia para Adolescentes, el Juez de Ejecución tendrá las atribuciones previene la Ley de Reinserción Social y Seguimiento de Medidas Cautelares vigente en el Estado y la Ley de Justicia para Adolescentes del Estado de Morelos.
 
 ###### Artículo 26.
 
@@ -341,13 +355,19 @@ IX. Representar a las víctimas u ofendidos, cuando éstas se lo soliciten y no 
 
 X. Procurar las formas alternativas de justicia, a fin de cumplir con los principios de mínima intervención y de subsidiariedad;
 
-XI. Someter a la aprobación del Juez de Garantía los acuerdos reparatorios que el adolescente y la víctima u ofendido hayan alcanzado;
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2013)</small>
 
-XII. Solicitar al Juez de Garantía las ordenes de aprehensión y comparecencia del adolescente cuando procediere;
+XI. Someter a la aprobación del Juez de Control los acuerdos reparatorios que el adolescente y la víctima u ofendido hayan alcanzado;
+
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2013)</small>
+
+XII. Solicitar al Juez de Control las ordenes de aprehensión y comparecencia del adolescente cuando procediere;
 
 XIII. Solicitar, en los casos que resulte procedente, la suspensión condicional del proceso a prueba;
 
-XIV. Ejercitar la acción penal y poner inmediatamente al adolescente a disposición del Juez de Garantía, en los casos en que resulte procedente;
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2013)</small>
+
+XIV. Ejercitar la acción penal y poner inmediatamente al adolescente a disposición del Juez de Control, en los casos en que resulte procedente;
 
 XV. Decretar el archivo provisional o definitivo de la investigación;
 
@@ -461,7 +481,9 @@ El proceso especial para adolescentes tiene por objeto establecer la existencia 
 
 Comprobación de edad e identidad.
 
-El acta de nacimiento emitida por el Registro Civil correspondiente es el instrumento válido para la acreditación de la edad de las personas y, ante la inexistencia de ésta, podrá recurrirse a otros medios probatorios. En caso de que sea necesario, el Juez de Garantía podrá ordenar, a solicitud de parte interesada, las diligencias para la identificación física, estudios médicos, en las cuales se utilizarán los datos personales conocidos, las impresiones dactilares y señas particulares. También se podrá ordenar la identificación mediante testigos u otros medios idóneos.
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2013)</small>
+
+El acta de nacimiento emitida por el Registro Civil correspondiente es el instrumento válido para la acreditación de la edad de las personas y, ante la inexistencia de ésta, podrá recurrirse a otros medios probatorios. En caso de que sea necesario, el Juez de Control podrá ordenar, a solicitud de parte interesada, las diligencias para la identificación física, estudios médicos, en las cuales se utilizarán los datos personales conocidos, las impresiones dactilares y señas particulares. También se podrá ordenar la identificación mediante testigos u otros medios idóneos.
 
 Las insuficiencias, duda o error sobre los datos personales del adolescente, no alterará el curso del proceso y los errores podrán ser corregidos en cualquier momento, aún durante la etapa de ejecución de las sanciones. Estas diligencias podrán aplicarse aún contra la voluntad del adolescente, respetando sus derechos fundamentales. En ningún caso se podrá decretar la privación de la libertad para comprobar la edad del adolescente.
 
@@ -517,7 +539,9 @@ No será aplicable el procedimiento abreviado para los sujetos que esta ley prev
 
 Recusaciones y Excusas.
 
-De las recusaciones y excusas de los jueces de garantía y de juicio oral, conocerá el Magistrado del Tribunal Unitario de Justicia para Adolescentes.
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2013)</small>
+
+De las recusaciones y excusas de los jueces de control y de juicio oral, conocerá el Magistrado del Tribunal Unitario de Justicia para Adolescentes.
 
 El Magistrado no es recusable pero debe excusarse del conocimiento de los asuntos en que ocurra alguno de los impedimentos previstos en la Ley aplicable, expresando concretamente la causa que funde su falta de capacidad subjetiva.
 
@@ -573,7 +597,9 @@ Todo adolescente tiene derecho a establecer una comunicación efectiva, por vía
 
 Garantías de la detención.
 
-Todo adolescente tiene derecho a ser presentado inmediatamente y sin demora ante el Juez de garantía o el Ministerio Público, siempre dentro de los plazos que establece esta ley, así como a no ser conducido o apresado por la comunidad de modo que se afecte su dignidad o se le exponga a algún peligro.
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2013)</small>
+
+Todo adolescente tiene derecho a ser presentado inmediatamente y sin demora ante el Juez de Control o el Ministerio Público, siempre dentro de los plazos que establece esta ley, así como a no ser conducido o apresado por la comunidad de modo que se afecte su dignidad o se le exponga a algún peligro.
 
 Por ningún motivo el adolescente podrá ser retenido en los mismos lugares destinados para la retención de los adultos.
 
@@ -595,7 +621,9 @@ Derecho de abstenerse de declarar.
 
 Todo adolescente tiene derecho a abstenerse de declarar y a no auto-incriminarse. Su silencio no puede ser valorado en su contra.
 
-Si consintiera en prestar declaración, deberá hacerlo ante el Juez de Garantía en presencia de su defensor y previa entrevista en privado con éste.
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2013)</small>
+
+Si consintiera en prestar declaración, deberá hacerlo ante el Juez de control en presencia de su defensor y previa entrevista en privado con éste.
 
 Está prohibido el uso de cualquier medio para hacerle declarar en su contra, o en contra de otra persona, ni podrán formulársele cargos evidentemente improcedentes con el propósito de obtener una confesión.
 
@@ -631,7 +659,9 @@ La víctima podrá participar en el proceso é interponer los recursos correspon
 
 La víctima deberá ser informada del trámite del proceso en caso de que así lo solicite desde su primera intervención o en las sucesivas.
 
-Toda decisión sobre el no ejercicio de la acción penal o sobreseimiento podrá ser impugnada por la víctima ante el Juez de Garantía.
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2013)</small>
+
+Toda decisión sobre el no ejercicio de la acción penal o sobreseimiento podrá ser impugnada por la víctima ante el Juez de Control.
 
 El Ministerio Público deberá hacer saber a la víctima u ofendido las garantías que consagra la Constitución Política de los Estados Unidos Mexicanos, así como los derechos que la amparan.
 
@@ -673,11 +703,13 @@ Uso prioritario.
 
 Las autoridades aplicarán prioritariamente las formas alternativas de justicia contenidas expresamente en ésta y demás leyes aplicables.
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2013)</small>
+
 ###### Artículo 60.
 
 Obligaciones del Ministerio Público y del Juez.
 
-Desde su primera intervención, el Ministerio Público o, en su caso, el Juez de Garantía, exhortará a los interesados a utilizar las formas alternativas de justicia en los casos en que procedan, y les explicará los efectos y los mecanismos disponibles.
+Desde su primera intervención, el Ministerio Público o, en su caso, el Juez de Control, exhortará a los interesados a utilizar las formas alternativas de justicia en los casos en que procedan, y les explicará los efectos y los mecanismos disponibles.
 
 ###### Artículo 61.
 
@@ -689,7 +721,9 @@ Después de dictada la sentencia definitiva y una vez que ésta cause ejecutoria
 
 No procederán las formas alternativas de justicia cuando la conducta tipificada como delito sea de las previstas en los artículos 106, excepto que se trate de homicidio imprudencial, 107, 109, 140, 152, 153, 154, 156, 174 en relación con el 176 apartado A, fracciones I, II y V, apartado B, y 176-Bis del Código Penal para el Estado de Morelos.
 
-En los delitos cometidos en perjuicio de menores de edad, en los de carácter sexual y en los casos de violencia intrafamiliar, dependiendo de las particularidades del caso, el Juez de Garantía o el Ministerio Público valorarán si procuran el acuerdo reparatorio entre las partes.
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2013)</small>
+
+En los delitos cometidos en perjuicio de menores de edad, en los de carácter sexual y en los casos de violencia intrafamiliar, dependiendo de las particularidades del caso, el Juez de Control o el Ministerio Público valorarán si procuran el acuerdo reparatorio entre las partes.
 
 ###### Artículo 62.
 
@@ -717,17 +751,21 @@ La práctica para llegar a acuerdos reparatorios se rige por los principios de v
 
 Trámite.
 
-El Ministerio Público, desde el momento del inicio de la investigación, o el Juez de Garantía después de haber dictado el auto de vinculación a proceso, convocarán al adolescente, y a la victima u ofendido, a una audiencia en donde les expondrán la posibilidad de someter el conflicto a algún Procedimiento Alternativo, exhortando a las partes a avenirse mediante un acuerdo; si éstas así lo solicitan se les brindará el asesoramiento y el auxilio de personas o entidades especializadas para procurar acuerdos reparatorios entre las partes en conflicto.
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2013)</small>
+
+El Ministerio Público, desde el momento del inicio de la investigación, o el Juez de Control después de haber dictado el auto de vinculación a proceso, convocarán al adolescente, y a la víctima u ofendido, a una audiencia en donde les expondrán la posibilidad de someter el conflicto a algún Procedimiento Alternativo, exhortando a las partes a avenirse mediante un acuerdo; si éstas así lo solicitan se les brindará el asesoramiento y el auxilio de personas o entidades especializadas para procurar acuerdos reparatorios entre las partes en conflicto.
 
 Los facilitadores deberán guardar secreto sobre lo que conozcan en las deliberaciones y discusiones de las partes. No se podrá invocar, dar lectura, ni incorporar como medio de prueba ningún antecedente que tenga relación con la proposición, discusión, aceptación, procedencia, rechazo o revocación de un acuerdo reparatorio.
 
 Si una o ambas partes rechazan someterse a los Procedimientos Alternativos, continuará el proceso judicial, sin perjuicio de que manifiesten posteriormente, su voluntad de someterse a un procedimiento alternativo para resolver el conflicto, siempre que sea antes del dictado del auto de apertura a juicio oral.
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2013)</small>
+
 ###### Artículo 66.
 
 Aprobación.
 
-Todo acuerdo reparatorio deberá ser aprobado por el Juez de Garantía, el Juez no aprobará los acuerdos reparatorios cuando tenga fundados motivos para estimar que alguno de los intervinientes no está en condiciones de igualdad para negociar o ha actuado bajo coacción o amenaza.
+Todo acuerdo reparatorio deberá ser aprobado por el Juez de Control, el Juez no aprobará los acuerdos reparatorios cuando tenga fundados motivos para estimar que alguno de los intervinientes no está en condiciones de igualdad para negociar o ha actuado bajo coacción o amenaza.
 
 ###### Artículo 67.
 
@@ -735,7 +773,9 @@ Suspensión del proceso y del plazo para la prescripción.
 
 El procedimiento para lograr el acuerdo no podrá extenderse por más de treinta días naturales, éste suspende el proceso y la prescripción de la acción penal.
 
-Si a juicio del agente del Ministerio Público o del Juez de Garantía existen actuaciones urgentes o inaplazables, éstas se realizarán siempre que no impliquen un acto de molestia que sea relevante para el adolescente.
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2013)</small>
+
+Si a juicio del agente del Ministerio Público o del Juez de Control existen actuaciones urgentes o inaplazables, éstas se realizarán siempre que no impliquen un acto de molestia que sea relevante para el adolescente.
 
 ###### Artículo 68.
 
@@ -755,11 +795,13 @@ Procedencia.
 
 En los casos en que el auto de vinculación a proceso se haya dictado por una conducta tipificada como delito, no prevista en el artículo 61 de ésta Ley, el adolescente no haya sido condenado por conductas dolosas, no tenga o haya tenido otro proceso suspendido condicionalmente, y no exista oposición fundada del Ministerio Público, la víctima u ofendido, procederá la suspensión condicional del proceso a solicitud del adolescente o del Ministerio Público con acuerdo de aquél.
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2013)</small>
+
 ###### Artículo 70.
 
 Oportunidad.
 
-La suspensión condicional del proceso podrá solicitarse por el adolescente o del Ministerio Público con acuerdo de aquel, ante el Juez de Garantía, en cualquier momento hasta antes de acordarse la apertura a juicio. Si efectuada la petición aún no existe acusación, se estará a los hechos precisados en el auto de vinculación a proceso.
+La suspensión condicional del proceso podrá solicitarse por el adolescente o del Ministerio Público con acuerdo de aquel, ante el Juez de Control, en cualquier momento hasta antes de acordarse la apertura a juicio. Si efectuada la petición aún no existe acusación, se estará a los hechos precisados en el auto de vinculación a proceso.
 
 ###### Artículo 71.
 
@@ -769,7 +811,9 @@ La solicitud deberá contener un plan de reparación del daño causado por la co
 
 El plan podrá consistir en una indemnización equivalente a la reparación del daño que en su caso pudiera llegar a imponerse o una reparación simbólica, inmediata o por cumplir a plazos.
 
-El juez de garantía resolverá en audiencia sobre la solicitud de suspensión condicional del proceso. La víctima u ofendido serán citados a la misma, pero su incomparecencia no impedirá que el juez resuelva sobre la solicitud. Si la solicitud de suspensión condicional del proceso es planteada antes de resolverse sobre la vinculación del adolescente a proceso, el Juez, en su caso, decidirá sobre la misma inmediatamente después de decretar la vinculación del adolescente a proceso.
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2013)</small>
+
+El Juez de Control resolverá en audiencia sobre la solicitud de suspensión condicional del proceso. La víctima u ofendido serán citados a la misma, pero su incomparecencia no impedirá que el juez resuelva sobre la solicitud. Si la solicitud de suspensión condicional del proceso es planteada antes de resolverse sobre la vinculación del adolescente a proceso, el Juez, en su caso, decidirá sobre la misma inmediatamente después de decretar la vinculación del adolescente a proceso.
 
 La resolución fijará las condiciones bajo las cuales se suspende el proceso o se rechaza la solicitud, y aprobará o modificará el plan de reparación propuesto, conforme a criterios de razonabilidad. La sola falta de recursos económicos por parte del adolescente no podrá aducirse para rechazar la posibilidad de suspensión del proceso a prueba.
 
@@ -871,7 +915,9 @@ Los supuestos de flagrancia serán los previstos por el Código de Procedimiento
 
 La detención se notificará inmediatamente a su padre, a su madre o a su representante, siempre que ello sea posible.
 
-En el caso de adolescentes detenidos en flagrancia o caso urgente, el Ministerio Público deberá ponerlo a disposición del Juez de Garantía en un plazo máximo de treinta y seis horas, atender el procedimiento de la audiencia de control de detención y en su caso formular la imputación.
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2013)</small>
+
+En el caso de adolescentes detenidos en flagrancia o caso urgente, el Ministerio Público deberá ponerlo a disposición del Juez de Control en un plazo máximo de treinta y seis horas, atender el procedimiento de la audiencia de control de detención y en su caso formular la imputación.
 
 Cuando se detenga a una persona por un hecho que requiera querella de parte ofendida, se informará inmediatamente a quien pueda presentarla, y si ésta no lo hace dentro de las 12 horas siguientes en ese momento, el adolescente será puesto en libertad de inmediato.
 
@@ -899,9 +945,9 @@ Si el detenido es menor de doce años, el Ministerio Público lo pondrá inmedia
 
 Calificación de la detención.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2013)</small>
 
-Inmediatamente de que el adolescente detenido en flagrancia o caso urgente sea puesto a disposición del juez de garantía, éste deberá convocar a una audiencia en la que le informará de sus derechos constitucionales y legales sino (sic) se le hubiese informado de los mismos con anterioridad y procederá a calificar la detención, ratificándola en caso de encontrarse ajustada a la ley o decretando la libertad con las reservas de ley. Si se ordena la libertad del imputado y el Ministerio Público desea formularle imputación, ésta podrá llevarse a cabo de forma inmediata.
+Inmediatamente de que el adolescente detenido en flagrancia o caso urgente sea puesto a disposición del Juez de Control, éste deberá convocar a una audiencia en la que le informará de sus derechos constitucionales y legales sino se le hubiese informado de los mismos con anterioridad y procederá a calificar la detención, ratificándola en caso de encontrarse ajustada a la ley o decretando la libertad con las reservas de ley. Si se ordena la libertad del imputado y el Ministerio Público desea formularle imputación, ésta deberá llevarse a cabo en audiencia diversa.
 
 A esta audiencia deberá concurrir el Ministerio Público quien deberá justificar ante el juez los motivos de la detención. La ausencia injustificada del Ministerio Público en la audiencia dará lugar a la liberación del adolescente.
 
@@ -911,7 +957,9 @@ Cuando el adolescente haya sido aprehendido después de habérsele formulado la 
 
 Formulación de la imputación.
 
-En el caso de adolescentes detenidos, el Ministerio Público deberá ponerlos a disposición del Juez de Garantía en turno, dentro del término de treinta y seis horas.
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2013)</small>
+
+En el caso de adolescentes detenidos, el Ministerio Público deberá ponerlos a disposición del Juez de Control en turno, dentro del término de treinta y seis horas.
 
 Previa calificación de legal de la detención, se celebrará la audiencia de garantía, en la cual el Ministerio Público deberá formular la imputación, y en caso de que el adolescente renuncie al plazo establecido en el artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, solicitará la vinculación a proceso, así como la aplicación de las medidas cautelares que considere procedentes. En esta audiencia, si el adolescente desea hacerlo, se le recibirá su declaración preparatoria.
 
@@ -941,11 +989,13 @@ Orden de presentación en los casos en los que la conducta que se investiga no m
 
 Orden de detención, ejecutada por la fuerza pública, cuando la conducta que se investiga merezca medida de internamiento y exista una presunción razonable, por apreciación de las circunstancias del caso particular, de que el adolescente podría no someterse al proceso u obstaculizaría la averiguación de la verdad, o se estime que el adolescente puede cometer un delito doloso contra la propia víctima, alguno de los testigos que depongan en su contra, servidores públicos que intervengan en el proceso o contra algún tercero.
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2013)</small>
+
 ###### Artículo 85.
 
 Fijación de plazo.
 
-Antes de concluir la audiencia de vinculación a proceso el Juez de Garantía de oficio ó a petición de parte fijará un plazo no mayor a sesenta días naturales para que el Ministerio Público cierre la investigación y las partes identifiquen los elementos de convicción que se proponen ofrecer en juicio.
+Antes de concluir la audiencia de vinculación a proceso el Juez de Control de oficio ó a petición de parte fijará un plazo no mayor a sesenta días naturales para que el Ministerio Público cierre la investigación y las partes identifiquen los elementos de convicción que se proponen ofrecer en juicio.
 
 ###### Artículo 86.
 
@@ -981,13 +1031,17 @@ Condiciones de la declaración.
 
 En todo momento se garantizará plenamente el derecho del adolescente a ser escuchado, y su declaración deberá ser, bajo pena de nulidad:
 
-a) Rendida únicamente ante el Juez de Garantía especializado para adolescentes;
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2013)</small>
+
+a). Rendida únicamente ante el Juez de Control especializado para adolescentes;
 
 El adolescente deberá estar asistido por su defensor con antelación a la realización de la audiencia, y realizarse en presencia de este; y
 
 b) Voluntaria, de manera que sólo se puede realizar si presta su consentimiento explícito después de consultarlo con su defensor.
 
-El defensor podrá solicitar la asistencia de un profesional capaz de detectar fenómenos de ansiedad, fatiga o daño psicológico producidos por la declaración. El Juez de Garantía resolverá sobre la procedencia de la solicitud y, en su caso, suspenderá la audiencia, reanudándola a la brevedad posible.
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2013)</small>
+
+El defensor podrá solicitar la asistencia de un profesional capaz de detectar fenómenos de ansiedad, fatiga o daño psicológico producidos por la declaración. El Juez de Control resolverá sobre la procedencia de la solicitud y, en su caso, suspenderá la audiencia, reanudándola a la brevedad posible.
 
 Las mismas reglas se observarán, en lo aplicable, en las entrevistas que voluntariamente sostenga el adolescente con el Ministerio Público. Los datos recogidos en dichas entrevistas carecen por sí mismos de valor probatorio para la sentencia definitiva, aunque podrán ser utilizadas por el Ministerio Público para acreditar los elementos que hagan probables el hecho y la responsabilidad del adolescente o la necesidad de imponer alguna medida cautelar.
 
@@ -1223,7 +1277,9 @@ La privación de la libertad en régimen semi-abierto consiste en la obligación
 
 Privación de libertad en un centro especializado de internamiento.
 
-La privación de libertad en un centro especializado de internamiento se utilizará sólo como medida extrema y por el tiempo más breve que proceda y se aplicará únicamente a los adolescentes mayores de catorce años de edad, por la comisión de las conductas tipificadas como delito expresamente previstas en este artículo.
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2013)</small>
+
+La privación de libertad en un centro especializado de internamiento se utilizará sólo como medida extrema y por el tiempo más breve que proceda y se aplicará únicamente a los adolescentes mayores de catorce años de edad, por la comisión de las conductas tipificadas como delito expresamente previstas en este artículo o por aquellas conductas que sean calificadas como graves en leyes federales que otorguen competencia a los órganos jurisdiccionales del orden común.
 
 Se ejecutará en centros exclusivamente destinados para adolescentes o, en su caso, en las áreas que dichos centros tenga destinadas para adultos jóvenes.
 
@@ -1249,7 +1305,9 @@ h) Corrupción de personas menores de edad y de personas que no tengan la capaci
 
 i) Utilización de imágenes y/o voz de personas menores de edad y de personas que no tengan la capacidad para comprender el significado del hecho para la pornografía, contemplada en el artículo 212;
 
-En estos casos la privación de libertad no podrá exceder los tres años.
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2013)</small>
+
+En estos casos la privación de libertad no podrá ser menor de un año ni exceder de cinco años, excepto en los casos de homicidio doloso, violación y secuestro en que podrá imponerse una sanción privativa de libertad de hasta siete años.
 
 II. Cuando se trate de los sujetos comprendidos en el artículo 6, fracción III de esta ley, y fueran encontrados responsables de las conductas mencionadas en la fracción anterior, además de las siguientes:
 
@@ -1259,7 +1317,9 @@ b) Terrorismo, establecido en el artículo 263, y
 
 c) Tortura, prevista por el artículo 3, en relación con el artículo 5 párrafo segundo de la Ley para Prevenir y Sancionar la Tortura en el Estado de Morelos.
 
-En estos casos la pena privativa de la libertad será de hasta cinco años.
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2013)</small>
+
+En estos casos la pena privativa de la libertad no podrá ser menor de un año ni exceder de siete años, excepto en los casos de homicidio doloso, violación y secuestro en que podrá imponerse una sanción privativa de libertad de hasta nueve años.
 
 En los supuestos de tentativa punible de los delitos incluidos en las fracciones anteriores de este artículo, también puede aplicarse medida sancionadora de privación de la libertad en centros especializados de ejecución de medidas privativas de libertad para adolescentes.
 
@@ -1285,19 +1345,27 @@ Definición.
 
 La etapa de aplicación y ejecución de las medidas comprende todas las acciones destinadas a asegurar su cumplimiento y lograr el fin que con su aplicación se persigue, así como todo lo relativo al trámite y resolución de los incidentes que se presenten durante esta fase.
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2013)</small>
+
 ###### Artículo 113.
 
 Competencia.
 
-El Magistrado del Tribunal Unitario es la autoridad judicial responsable del control y supervisión de la legalidad de la aplicación y ejecución de las medidas; debe por tanto resolver los incidentes que se presenten durante esta fase, así como vigilar y garantizar el cumplimiento de los objetivos fijados por esta Ley.
+El Juez de Ejecución del Tribunal Unitario es competente para resolver los incidentes que se presenten durante la fase de aplicación y ejecución de las medidas impuestas, así como para vigilar y garantizar el cumplimiento de los objetivos fijados por esta Ley.
 
-En los términos de las leyes aplicables, incurre en responsabilidad la autoridad administrativa que no cumpla las órdenes del Magistrado del Tribunal Unitario de Justicia para Adolescentes.
+En el ejercicio de sus atribuciones podrá hacer comparecer ante sí a los adolescentes sentenciados y a las víctimas u ofendidos, con fines de vigilancia y control de la ejecución.
+
+En la substanciación y resolución de los incidentes a que se refiere este artículo, serán aplicables las reglas procedimentales previstas por la Ley de Reinserción Social y Seguimiento de Medidas Cautelares vigente.
+
+En los términos de las leyes aplicables, incurre en responsabilidad la autoridad administrativa que no cumpla las órdenes del Juez de Ejecución del Tribunal Unitario de Justicia para Adolescentes.
 
 ###### Artículo 114.
 
 Ejecución de la sentencia.
 
-Una vez ejecutoriada la sentencia, si esta es condenatoria, el Juez de Juicio Oral que la emitió deberá notificarla de inmediato al Magistrado y a la Dirección General de Ejecución de Medidas para Adolescentes, a fin de que se inicie el procedimiento de ejecución de la medida impuesta. El Magistrado del Tribunal Unitario de Justicia para Adolescentes, establecerá las condiciones y la forma en que el adolescente deberá cumplirla.
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2013)</small>
+
+Una vez ejecutoriada la sentencia, si esta es condenatoria, el Juez de Juicio Oral que la emitió deberá notificarla de inmediato al Juez de Ejecución y a la Dirección General de Ejecución de Medidas para Adolescentes, a fin de que se inicie el procedimiento de ejecución de la medida impuesta. El Juez de Ejecución, establecerá las condiciones y la forma en que el adolescente deberá cumplirla.
 
 En ningún caso autoridades administrativas o diferentes a las del Tribunal Unitario de Justicia para Adolescentes, podrán decretar la modificación, sustitución o el cumplimiento anticipado de la medida impuesta.
 
@@ -1309,11 +1377,13 @@ Para la ejecución de las medidas sancionadoras que ameriten seguimiento deberá
 
 Este programa comprenderá sus aptitudes personales, circunstancias familiares, socioculturales y de género, de modo que establezca objetivos o metas reales para la ejecución de la medida sancionadora. Deberá estar listo a más tardar dentro de los siete días siguientes a que se haya dictado el cumplimiento de ésta.
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2013)</small>
+
 ###### Artículo 116.
 
 Aprobación del Programa individualizado de ejecución.
 
-El Magistrado aprobará el contenido del programa individualizado de ejecución, sus objetivos y consecuencias, asegurándose de que no limiten derechos o añadan obligaciones que excedan lo estrictamente determinado en la sentencia. En los casos en que no ocurriera así, ordenará a la Dirección General de Ejecución de Medidas para Adolescentes las modificaciones a las que haya lugar.
+El Juez de Ejecución aprobará el contenido del programa individualizado de ejecución, sus objetivos y consecuencias, asegurándose de que no limiten derechos o añadan obligaciones que excedan lo estrictamente determinado en la sentencia. En los casos en que no ocurriera así, ordenará a la Dirección General de Ejecución de Medidas para Adolescentes las modificaciones a las que haya lugar.
 
 ###### Artículo 117.
 
@@ -1341,39 +1411,55 @@ VI. Fomentar, cuando sea posible y conveniente, los vínculos familiares y socia
 
 VII. Promover los contactos abiertos entre el adolescente y la comunidad local.
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2013)</small>
+
 ###### Artículo 119.
 
 Inicio de la ejecución.
 
-El Magistrado hará constar, en acta circunstanciada, la fecha, hora y lugar en que se inicie el cumplimiento de la medida. En ese momento le informará personalmente al adolescente los derechos y garantías que le asisten durante dicho cumplimiento, así como sus deberes y obligaciones.
+El Juez de Ejecución hará constar, en acta circunstanciada, la fecha, hora y lugar en que se inicie el cumplimiento de la medida. En ese momento le informará personalmente al adolescente los derechos y garantías que le asisten durante dicho cumplimiento, así como sus deberes y obligaciones.
 
 ###### Artículo 120.
 
 Cumplimiento de las medidas.
 
-La Dirección General de Ejecución de Medidas para Adolescentes y los responsables de los centros de internamiento, tomarán las decisiones administrativas necesarias para garantizar el cumplimiento de las medidas, pero no podrán hacerlo cuando se involucren cambios en la situación jurídica de los adolescentes sujetos a éstas, ni cuando se comprometan sus derechos. El Magistrado vigilará el adecuado cumplimiento de esta disposición.
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2013)</small>
 
-Todas las decisiones que tomen las autoridades administrativas referidas en este artículo, deberán estar debidamente fundadas y motivadas; deberán ser notificadas inmediatamente a la persona sujeta a la medida, a su defensor y al Magistrado y surtirán efecto hasta que queden firmes.
+La Dirección General de Ejecución de Medidas para Adolescentes y los responsables de los centros de internamiento, tomarán las decisiones administrativas necesarias para garantizar el cumplimiento de las medidas, pero no podrán hacerlo cuando se involucren cambios en la situación jurídica de los adolescentes sujetos a éstas, ni cuando se comprometan sus derechos. El Juez de Ejecución vigilará el adecuado cumplimiento de esta disposición.
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2013)</small>
+
+Todas las decisiones que tomen las autoridades administrativas referidas en este artículo, deberán estar debidamente fundadas y motivadas; deberán ser notificadas inmediatamente a la persona sujeta a la medida, a su defensor y al Juez de Ejecución y surtirán efecto hasta que queden firmes.
 
 Los centros para la privación de la libertad en tiempo libre no requerirán de seguridad extrema. Deberán contar con personal especializado, áreas y condiciones adecuadas para el cumplimiento de esta medida y deberán ubicarse en los lugares más cercanos a la comunidad donde reside el adolescente.
 
-El titular de la Dirección de Ejecución de Medidas para Adolescentes deberá supervisar continuamente que estos centros cumplan con los fines de la medida. Asimismo, deberá informar mensualmente al Magistrado sobre su cumplimiento.
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2013)</small>
+
+El titular de la Dirección de Ejecución de Medidas para Adolescentes deberá supervisar continuamente que estos centros cumplan con los fines de la medida. Asimismo, deberá informar mensualmente al Juez de Ejecución sobre su cumplimiento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2013)</small>
 
 ###### Artículo 121.
 
-Evaluación periódica del programa individualizado de ejecución e informes al Magistrado.
+Evaluación periódica del programa individualizado de ejecución e informes al Juez de Ejecución.
 
 El programa individual de ejecución debe ser evaluado mensualmente por el área competente de la Dirección General de Ejecución de Medidas para Adolescentes.
 
-Ésta deberá informar al Magistrado trimestralmente sobre los avances u obstáculos para el cumplimiento del programa individual de ejecución así como el ambiente familiar y social en que el adolescente se desarrolla.
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2013)</small>
 
-En caso de ser necesario, el Magistrado podrá ordenar al organismo encargado de la ejecución de la medida que adopte las acciones necesarias para el efectivo cumplimiento de los programas establecidos en el programa individualizado de ejecución.
+Ésta deberá informar al Juez de Ejecución trimestralmente sobre los avances u obstáculos para el cumplimiento del programa individual de ejecución así como el ambiente familiar y social en que el adolescente se desarrolla.
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2013)</small>
+
+En caso de ser necesario, el Juez de Ejecución podrá ordenar al organismo encargado de la ejecución de la medida que adopte las acciones necesarias para el efectivo cumplimiento de los programas establecidos en el programa individualizado de ejecución.
 
 ###### Artículo 122.
 
 Intervención de quienes ejercen la patria potestad o custodia de los adolescentes sentenciados.
 
-El Magistrado del Tribunal Unitario podrá conminar a los padres, familiares, responsables, tutores, o a quienes ejerzan la patria potestad o custodia, para que brinden apoyo y asistencia al adolescente durante el cumplimiento de las medidas impuestas. Para estos efectos la Dirección de Ejecución de Medidas procurará lo necesario para que se cuente con:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2013)</small>
+
+El Juez de Ejecución del Tribunal Unitario podrá conminar a los padres, familiares, responsables, tutores, o a quienes ejerzan la patria potestad o custodia, para que brinden apoyo y asistencia al adolescente durante el cumplimiento de las medidas impuestas. Para estos efectos la Dirección de Ejecución de Medidas procurará lo necesario para que se cuente con:
 
 I. Programas de capacitación para padres, tutores, familiares, responsables, o quienes ejerzan la patria potestad o custodia de los adolescentes sentenciados;
 
@@ -1503,11 +1589,15 @@ SEXTO.- En tanto se expide la Ley Federal de Justicia para Adolescentes, el Mini
 
 SÉPTIMO.- En los casos en que el Tribunal Unitario de Justicia para Adolescentes conozca de las infracciones a las leyes penales federales cometidas por menores de dieciocho años, en términos de lo dispuesto por el artículo 500 del Código Federal de Procedimientos Penales, se observaran las siguientes disposiciones:
 
-I. Para los efectos de esta Ley, en los casos de delitos del orden federal, se considerará Conducta Antisocial Grave a aquella tipificada como delito grave en la legislación federal aplicable;
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2013)</small>
+
+I. Para los efectos de esta Ley, en los casos de delitos del orden federal, se considerará Conducta Antisocial Grave a aquella tipificada como delito grave en la legislación federal aplicable; en este supuesto no procederá la aplicación de las formas alternativas de justicia.
 
 II. La acción prescribirá transcurrido un término igual al medio aritmético resultante de la suma de las sanciones mínima y máxima de la pena señalada en el Código Penal Federal para la conducta tipificada como delito que se atribuye al adolescente. En ningún caso el término de la prescripción podrá exceder el plazo máximo de cinco años;
 
-III. Cuando se trate de conductas antisociales graves, del orden federal, la medida sancionadora de privación de la libertad será hasta de tres años a los adolescentes a que se refiere la fracción II del artículo 6° y hasta de cinco años a los adolescentes a que se refiere la fracción III del artículo 6° de esta Ley;
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2013)</small>
+
+III. Cuando se trate de conductas antisociales graves, del orden federal, la medida sancionadora de privación de la libertad no podrá ser menor de un año ni exceder de cinco años, a los adolescentes a que se refiere la fracción II del artículo 6º, pudiendo imponerse hasta siete años para el caso de los delitos contemplados por la Ley General de Salud y la Ley Federal de Armas de Fuego y Explosivos que tengan el carácter de graves. A los adolescentes a que se refiere la fracción III del artículo 6º de esta Ley, la sanción privativa de libertad no podrá ser menor de un año ni exceder de siete años, pudiendo imponerse hasta nueve años cuando se traten de los delitos graves antes mencionados.
 
 > <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2012)</small>
 
@@ -1588,3 +1678,23 @@ SEGUNDO. Los asuntos de carácter federal que a la entrada en vigor del presente
 TERCERO. Ante las circunstancias particulares del caso, se faculta a la Magistrada Titular del Tribunal Unitario de Justicia para Adolescentes, para que, previa la evaluación correspondiente, nombre bajo su responsabilidad al Juez Especializado en Justicia Para Adolescentes que conocerá de los asuntos del orden penal federal, aplicando el procedimiento previsto en las leyes federales respectivas, en los términos que señala el presente Decreto.
 
 CUARTO. La Magistrada Titular del Tribunal Unitario de Justicia para Adolescentes deberá efectuar el nombramiento a que se refiere el Transitorio Tercero de este Decreto, en un plazo no mayor a diez días hábiles contados a partir de que el presente Decreto inicie su vigencia.
+
+P.O. 13 DE MARZO DE 2013.
+
+PRIMERO.- Aprobada la reforma al artículo 109 Ter, de la Constitución Política del Estado Libre y Soberano de Morelos remítase a los treinta y tres Ayuntamientos del Estado, para los efectos de los artículos 147 y 148 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- Cumplidos los requisitos señalados en el artículo transitorio anterior, remítase el presente al Titular del Poder Ejecutivo del Estado, para los efectos de lo previsto en los artículos 44 y 70 fracción VII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+TERCERO.- Cumplido con lo señalado en los artículos transitorios primero y segundo, el decreto de la reforma constitucional inicia su vigencia a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado.
+
+CUARTO.- La reforma al artículo 17 de la Ley Orgánica del Tribunal Unitario de Justicia para Adolescentes y Juzgados Especializados, entrará en vigor en la misma fecha de la reforma al artículo 109 Ter de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+QUINTO.- Con la excepción a que se refiere el artículo transitorio anterior, las reformas y adiciones a la Ley de Justicia para Adolescentes del Estado de Morelos y a la Ley Orgánica del Tribunal Unitario de Justicia para Adolescentes y Juzgados Especializados, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado Libre y Soberano de Morelos.
+
+SEXTO.- La reforma al artículo 109 Ter de la Constitución Política del Estado Libre y Soberano de Morelos, una vez que inicie su vigencia se aplicará a los Jueces que actualmente se encuentran en funciones en el Tribunal Unitario de Justicia para Adolescentes, que hayan sido previamente reelectos para un período adicional, conforme a las disposiciones vigentes.
+
+SÉPTIMO.- Las conductas antisociales del orden común o federal, cometidas con antelación a la entrada en vigor del presente Decreto, no podrán ser objeto de las medidas sancionadas en los términos que las señala la reforma a los artículos 109 y Séptimo Transitorio de la Ley de Justicia para Adolescentes del Estado de Morelos, debiéndose aplicar aquellas vigentes en la fecha de comisión de la conducta antisocial de la que se trate.
+
+OCTAVO.- El seguimiento de la ejecución de las sentencias dictadas por los Jueces Especializados o por el Magistrado del Tribunal, previo a la entrada en vigor del presente decreto, corresponderá a los Jueces de Ejecución que al efecto nombre el Magistrado titular del Tribunal Unitario de Justicia para Adolescentes, en el ejercicio de sus atribuciones.
+
+NOVENO.- Con el objeto de no dilatar la impartición de justicia, por esta única vez se faculta al Magistrado del Tribunal Unitario de Justicia para Adolescentes a nombrar al juez o jueces de ejecución que sean necesarios, previo examen de oposición, o ratificar los que hubiese nombrado conforme al artículo DÉCIMO PRIMERO transitorio de la LEY DE REINSERCIÓN SOCIAL Y SEGUIMIENTO DE MEDIDAS CAUTELARES.
