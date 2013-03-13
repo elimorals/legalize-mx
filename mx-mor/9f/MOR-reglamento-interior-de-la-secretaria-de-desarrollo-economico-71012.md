@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-desarrollo-economico-71
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-18"
-last_updated: "2009-11-18"
+last_updated: "2013-03-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO ECONOMICO
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO ECONOMICO
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO ECONÓMICO DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE ECONOMÍA DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. 13 DE MARZO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el 18 de noviembre de 2009.
 
@@ -608,3 +610,15 @@ EL SECRETARIO DE DESARROLLO ECONÓMICO
 DR. RAFAEL TAMAYO FLORES.
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE MARZO DE 2013.
+
+PRIMERA. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de Difusión Oficial del Gobierno del Estado de Morelos.
+
+SEGUNDA. Se abroga el Reglamento Interior de la Secretaría de Desarrollo Económico, publicado en el Periódico Oficial "Tierra y Libertad", número 4755, de fecha dieciocho de noviembre de dos mil nueve.
+
+TERCERA. La Secretaría de Economía tendrá un plazo de noventa días hábiles contados a partir de la entrada en vigor de este instrumento, para elaborar los Manuales de Organización, y de Políticas y Procedimientos, en tanto sean actualizados, serán aplicables los que se encuentren vigentes en lo que no resulte contrario al presente ordenamiento. La persona titular de la Secretaría resolverá las cuestiones de interpretación, procedimiento y operación que se originen por la aplicación del presente Reglamento.
+
+CUARTA. Se derogan todas las disposiciones normativas de igual o menor rango jerárquico normativo que se opongan al presente ordenamiento jurídico.
