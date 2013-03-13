@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-participacion-ciudadana-del-municipio-de-74538"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-03-12"
-last_updated: "2010-03-12"
+last_updated: "2013-03-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74538&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 ---
 # REGLAMENTO DE PARTICIPACION CIUDADANA DEL MUNICIPIO DE GUADALUPE, NUEVO LEON
 
-REGLAMENTO DE PARTICIPACION CIUDADANA DEL MUNICIPIO DE GUADALUPE, NUEVO LEON
+REGLAMENTO DE PARTICIPACIÓN CIUDADANA DEL MUNICIPIO DE GUADALUPE, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 12 de marzo de 2010.
 
@@ -57,17 +57,23 @@ REGLAMENTO DE PARTICIPACIÓN CIUDADANA DEL MUNICIPIO DE GUADALUPE, NUEVO LEÓN.
 
 ## TITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2013)</small>
+
 ###### ARTÍCULO 1.
 
-El presente reglamento es de orden público y observancia general y tiene como objeto normar las facultades de la Dirección de Participación Ciudadana y sus Coordinaciones para coadyuvar con la administración municipal contemplando la comunicación directa y constante del municipio con la ciudadanía.
+El presente reglamento es de orden público y observancia general y tiene como objeto normar las facultades de la Dirección General de Participación Ciudadana y sus Coordinaciones para coadyuvar con la administración municipal contemplando la comunicación directa y constante del municipio con la ciudadanía.
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 2.
 
-De conformidad con lo establecido en el Reglamento Orgánico de la Administración Pública del Municipio de Guadalupe, Nuevo León, se crea la Dirección de Participación Ciudadana, de quien dependerán las siguientes Coordinaciones: Delegaciones y Jueces Auxiliares, Políticas y Programas a la Ciudadanía; Estadísticas, Consultas y Sondeos Ciudadanos y Relaciones Intramunicipales.
+De conformidad con lo establecido en el Reglamento Orgánico de la Administración Pública del Municipio de Guadalupe, Nuevo León, se crea la Dirección General de Participación Ciudadana, de quien dependerán las siguientes Coordinaciones: Delegaciones y Jueces Auxiliares, Políticas y Programas a la Ciudadanía; Estadísticas, Consultas y Sondeos Ciudadanos y Relaciones Intramunicipales.
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 3.
 
-Las normas contenidas en el presente Reglamento servirán como base y sustento para regular las funciones que deberá desarrollar la Dirección de Participación Ciudadana con sus coordinaciones, para coadyuvar en la solución de los problemas y gestiones de los habitantes del municipio en apoyo de las autoridades del mismo y en colaboración de las autoridades Federales y Estatales, con sujeción a las disposiciones consignadas en la Ley Orgánica de la Administración Pública Municipal del Estado de Nuevo León y las respectivas de la Federación, el Estado y el Municipio.
+Las normas contenidas en el presente Reglamento servirán como base y sustento para regular las funciones que deberá desarrollar la Dirección General de Participación Ciudadana con sus coordinaciones para coadyuvar en la solución de los problemas y gestiones de los habitantes del municipio en apoyo de las autoridades del mismo y en colaboración de las autoridades Federales y Estatales, con sujeción a las disposiciones consignadas en la Ley Orgánica de la Administración Pública Municipal del Estado de Nuevo León y las respectivas de la Federación, el Estado y el Municipio.
 
 ###### ARTICULO 4.
 
@@ -95,7 +101,9 @@ VII.- Vigilar el cumplimiento de las áreas a su cargo y del ejercicio de las mi
 
 IX.- Convocar a la Asamblea mensual de Jueces Auxiliares.
 
-X.- Rendir un informe mensual a la Dirección de Participación Ciudadana referente a las principales actividades realizadas por su coordinación.
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2013)</small>
+
+X.- Rendir un informe mensual a la Dirección General de Participación Ciudadana referente a las principales actividades realizadas por su coordinación.
 
 XI.- Las demás que le señalen de su competencia las leyes, reglamentos y otras disposiciones jurídicas vigentes, así como lo que le encomiende el C. Presidente Municipal.
 
@@ -119,9 +127,11 @@ IV. Coordinar las acciones de la prestación de Servicios Públicos en el área 
 
 Para los efectos del presente Reglamento, se reconocen como coadyuvantes de la Administración Municipal a los Jueces Auxiliares, quienes contaran con las figuras de propietario y suplente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2013)</small>
+
 ###### ARTÍCULO 8.
 
-Los Jueces Auxiliares propietario y suplente serán elegidos por la asamblea de vecinos de su colonia, fraccionamiento comunidad, sector y asentamiento, previa convocatoria emitida por la Dirección de Participación Ciudadana a través de la Coordinación de Delegaciones y Jueces Auxiliares, la cual deberá publicarse con diez días de anticipación a la elección, fijándose en lugares visibles, estratégicos y comunes, buscando siempre hacer extensiva la convocatoria a la mayoría de los vecinos por los medios mas convenientes, debiendo señalarse en la misma el lugar a donde acudirán a registrarse a partir de la fecha de la publicación de la convocatoria, entendiéndose entonces que tienen el término de diez días para realizar su registro.
+Los Jueces Auxiliares propietario y suplente serán elegidos por la asamblea de vecinos de su colonia, fraccionamiento comunidad, sector y asentamiento, previa convocatoria emitida por la Dirección General de Participación Ciudadana a través de la Coordinación de Delegaciones y Jueces Auxiliares la cual deberá publicarse con diez días de anticipación a la elección, fijándose en lugares visibles, estratégicos y comunes, buscando siempre hacer extensiva la convocatoria a la mayoría de los vecinos por los medios mas convenientes, debiendo señalarse en la misma el lugar a donde acudirán a registrarse a partir de la fecha de la publicación de la convocatoria, entendiéndose entonces que tienen el término de diez días para realizar su registro.
 
 La convocatoria para la asamblea deberá contener los siguientes requisitos:
 
@@ -133,7 +143,9 @@ Lugar, fecha y hora de la elección.
 
 El procedimiento de la elección.
 
-En caso de empate en la misma asamblea, sólo se dará oportunidad a los candidatos a hacer uso de la palabra por no más de cinco minutos y posteriormente se procederá a realizar una segunda votación por la Dirección de Participación Ciudadana
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2013)</small>
+
+En caso de empate en la misma asamblea, sólo se dará oportunidad a los candidatos a hacer uso de la palabra por no más de cinco minutos y posteriormente se procederá a realizar una segunda votación por la Dirección General de Participación Ciudadana
 
 En caso de destitución del Juez propietario, el suplente entrará en funciones temporalmente, y se convocará por la Coordinación de Jueces Auxiliares a nuevas elecciones para designar al propietario; pudiendo contender para el puesto el mismo suplente en funciones, de ser así este deberá notificar a la Coordinación de Delegaciones y Jueces Auxiliares, su interés para participar en la elección respectiva, esto con la finalidad de estar en tiempo y forma de emitir la convocatoria para la designación del propietario y del suplente.
 
@@ -211,13 +223,17 @@ XII.- Denunciar ante las autoridades competentes la existencia de industrias, es
 
 XIII.- Coadyuvaran con las autoridades estatales denunciando los actos u omisiones que impliquen violación a los Derechos Humanos.
 
-XIV.- Asistir a las reuniones que sean convocadas por la Dirección de Participación Ciudadana y/o Presidencia Municipal.
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2013)</small>
+
+XIV.- Asistir a las reuniones que sean convocadas por la Dirección General de Participación Ciudadana y/o Presidencia Municipal;
 
 XV.- Conforme al artículo 70 del Código de Procedimientos Civiles vigente en el Estado de Nuevo León, deberá para enterarse recibir copia de instructivo de las autoridades judiciales.
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2013)</small>
+
 ###### ARTÍCULO 13.
 
-Los Jueces Auxiliares en el ejercicio de sus atribuciones, no traspasarán los límites de su colonia y sector asignado, mismos que les serán delimitados en su nombramiento, y en caso de conflicto, éste se turnará a la Dirección de Participación Ciudadana para su debida resolución.
+Los Jueces Auxiliares en el ejercicio de sus atribuciones, no traspasarán los límites de su colonia y sector asignado, mismos que les serán delimitados en su nombramiento, y en caso de conflicto, éste se turnará a la Dirección General de Participación Ciudadana para su debida resolución.
 
 ###### ARTÍCULO 14.
 
@@ -257,7 +273,9 @@ V.- Incurrir en la comisión de cualquier tipo de delito intencional, por el cua
 
 VI.- Haber sido designado funcionario público, dirigente o miembro directivo de algún partido político ó cargo de carácter religioso;
 
-VII.- El Director de Participación Ciudadana, tendrá la facultad de destituir a los jueces, y en los casos en que exista alguna inconformidad por parte del juez destituido, ésta se resolverá conforme a lo previsto en el Capítulo VIII del Recurso de Inconformidad de este Reglamento.
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2013)</small>
+
+VII.- El Director General de Participación Ciudadana, tendrá la facultad de destituir a los jueces, y en los casos en que exista alguna inconformidad por parte del juez destituido, ésta se resolverá conforme a lo previsto en el Capítulo VIII del Recurso de Inconformidad de este Reglamento.
 
 VIII.- La ausencia mayor a 30 días naturales consecutivos, sin causa justificada, será motivo de separación del cargo.
 
@@ -281,6 +299,8 @@ b) Comisión de 5 Regidores nombrados por el Republicano Ayuntamiento, a propues
 
 c) Secretario del Ayuntamiento o su representante;
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 13 DE MARZO DE 2013)</small>
+
 d) Director de Participación Ciudadana;
 
 e) Coordinador de Delegaciones y Jueces Auxiliares;
@@ -303,15 +323,21 @@ b) Resolver sobre las controversias que existan en cuanto a las destituciones de
 
 c) Informar al R. Ayuntamiento sobre situaciones graves que merezcan atención especial por parte de dicho cuerpo colegiado;
 
-d) Recibir del Director de Participación Ciudadana los expedientes de destitución para conocimiento y valoración de los mismos;
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2013)</small>
 
-e) Amonestar mediante resolución fundada y motivada al Director de Participación Ciudadana en caso de observar irregularidades en los expedientes de destitución, por lo que en caso de reunir tres o más amonestaciones durante el período de su encargo, de conformidad a la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipio de Nuevo León, se solicitará al superior jerárquico se inicie el procedimiento de responsabilidad administrativa.
+d) Recibir del Director General de Participación Ciudadana los expedientes de destitución para conocimiento y valoración de los mismos;
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2013)</small>
+
+e) Amonestar mediante resolución fundada y motivada al Director General de Participación ciudadana en caso de observar irregularidades en los expedientes de destitución por lo que en caso de reunir tres o más amonestaciones durante el período de su encargo, de conformidad a la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipio de Nuevo León, se solicitará al superior jerárquico se inicie el procedimiento de responsabilidad administrativa.
 
 ### CAPITULO VI. DE LAS SANCIONES
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2013)</small>
+
 ###### ARTÍCULO 25.
 
-En caso de que el juez auxiliar propietario o suplente no cumpla con las funciones que el presente reglamento le exige, será amonestado por el Director de Participación Ciudadana, y en caso de reincidencia será destituido de su cargo, y en el supuesto de que exista alguna inconformidad contra esta resolución se turnará el caso al Consejo Consultivo quien previo derecho de audiencia ratificara o revocara la resolución del director.
+En caso de que el juez auxiliar propietario o suplente no cumpla con las funciones que el presente reglamento le exige, será amonestado por el Director General de Participación Ciudadana, y en caso de reincidencia será destituido de su cargo, y en el supuesto de que exista alguna inconformidad contra esta resolución se turnará el caso al Consejo Consultivo quien previo derecho de audiencia ratificara o revocara la resolución del director.
 
 ###### ARTÍCULO 26.
 
@@ -347,7 +373,9 @@ IV. Fomentar la cultura de los valores de tolerancia y el respeto entre los ciud
 
 V. Participar en la organización de las visitas de trabajo que realice el Presidente Municipal o funcionarios, a las colonias, fraccionamientos comunidades, sectores y asentamientos del Municipio.
 
-VI. Rendir un informe mensual a la Dirección de Participación Ciudadana referente a las principales actividades realizadas por su coordinación.
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2013)</small>
+
+VI. Rendir un informe mensual a la Dirección General de Participación Ciudadana referente a las principales actividades realizadas por su coordinación.
 
 ## TÍTULO IV. DE LA COORDINACIÓN DE ESTADÍSTICAS, CONSULTAS Y SONDEOS CIUDADANOS
 
@@ -361,7 +389,9 @@ II. Establecer reuniones periódicas con los vecinos, con base a un programa de 
 
 III. Realizar sondeos en las diferentes colonias, fraccionamientos, comunidades, sectores y asentamientos del Municipio de Guadalupe, Nuevo León, con la finalidad de llevar una estadística de las necesidades de la comunidad, para canalizar a las dependencias correspondientes, así como darle seguimiento a las mismas.
 
-IV. Rendir un informe mensual a la Dirección de Participación Ciudadana referente a las principales actividades realizadas por su coordinación.
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2013)</small>
+
+IV. Rendir un informe mensual a la Dirección General de Participación Ciudadana referente a las principales actividades realizadas por su coordinación.
 
 ## TÍTULO V. DE LA COORDINACIÓN DE RELACIONES INTRAMUNICIPALES
 
@@ -377,7 +407,9 @@ III. Participar conjuntamente con la Secretaría de Bienestar Social y Desarroll
 
 IV. Participar conjuntamente con la Dirección del Sistema DIF Guadalupe a través de las Delegaciones de Desarrollo y Servicios, brindando el apoyo necesario para el desarrollo de los programas orientados al mejoramiento del bienestar de los niños, ancianos, desvalidos, menores en estado de abandono, indigentes y mujeres maltratadas.
 
-V. Coadyuvar permanente con la Secretaría de Obras Públicas y Vialidad, y el Centro de Desarrollo Urbano y Ecología, para sugerir y proponer las acciones correctivas para mejorar la prestación de los servicios y la ejecución de la obra pública autorizada, cuidando en todo momento el entorno ecológico.
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2013)</small>
+
+V. Coadyuvar permanente (sic) con la Secretaría de Desarrollo Urbano y Obras Públicas, y la Dirección General de Desarrollo Urbano y Ecología, para sugerir y proponer las acciones correctivas para mejorar la prestación de los servicios y la ejecución de la obra pública autorizada, cuidando en todo momento el entorno ecológico.
 
 VI. Coadyuvar permanentemente con la Secretaría de Servicios Públicos para sugerir y proponer las acciones para mejorar la prestación de los servicios públicos.
 
@@ -385,7 +417,41 @@ VII. Canalizar a las distintas áreas de la Administración Municipal las quejas
 
 VIII. Mantener contacto con los diferentes municipios del Estado de Nuevo León, con la finalidad de intercambiar propuestas en beneficio de la comunidad guadalupense.
 
-IX. Rendir un informe mensual a la Dirección de Participación Ciudadana referente a las principales actividades realizadas por su coordinación.
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2013)</small>
+
+IX. Rendir un informe mensual a la Dirección General de Participación Ciudadana referente a las principales actividades realizadas por su coordinación.
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2013)</small>
+
+X. Promover la creación en las colonias localizadas en el municipio de los Comités de Participación Ciudadana mismos que se integraran de la siguiente manera:
+
+1) Un Presidente
+
+2) Un Secretario
+
+3) Vocal
+
+4) Vocal
+
+Y sus respectivos suplentes
+
+Las funciones de los Comités de Participación Ciudadana son las siguientes:
+
+1) .-
+
+Los Comités de Participación Ciudadana serán elegidos por planillas mediante asamblea de vecinos de su colonia, fraccionamiento comunidad, sector y asentamiento, previa convocatoria emitida por la Dirección General de Participación Ciudadana a través de la Coordinación de Relaciones Intramunicipales, la cual deberá publicarse con diez días de anticipación a la elección, fijándose en lugares visibles, estratégicos y comunes, buscando siempre hacer extensiva la convocatoria a la mayoría de los vecinos por los medios más convenientes, debiendo señalarse en la misma el lugar a donde acudirán a registrarse a partir de la fecha de la publicación de la convocatoria, entendiéndose entonces que tienen el término de diez días para realizar su registro.
+
+La convocatoria para la asamblea deberá contener los siguientes requisitos:
+
+- Orden del día.
+
+- Requisitos para ser registrar (sic) las Planillas
+
+- Lugar, fecha y hora de la elección.
+
+- El procedimiento de la elección.
+
+En caso de empate en la misma asamblea, sólo se dará oportunidad a un representante de cada una de las Planilla (sic) a hacer uso de la palabra por no más de cinco minutos y posteriormente se procederá a realizar una segunda votación por la Dirección General de Participación Ciudadana.
 
 ARTÍCULOS TRANSITORIOS:
 
@@ -410,3 +476,13 @@ C. Presidenta Municipal.
 LIC. GABRIEL TLÁLOC CANTÚ CANTÚ.
 
 C. Secretario del Ayuntamiento.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE MARZO DE 2013.
+
+PRIMERO.- Las presentes reformas al Reglamento de Participación Ciudadana del Municipio de Guadalupe, Nuevo León, entraran en vigor a partir de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Instrúyase a la Dirección General de Participación Ciudadana para que a la brevedad inicie el proceso de conformación de los Comités de Participación Ciudadana.
+
+TERCERO.- Instrúyase por parte del Presidente Municipal al Secretario de Ayuntamiento para que remita el presente acuerdo para su publicación en el Periódico Oficial del Estado, en la Gaceta Municipal, y en el Sitio Oficial de Internet del Municipio.
