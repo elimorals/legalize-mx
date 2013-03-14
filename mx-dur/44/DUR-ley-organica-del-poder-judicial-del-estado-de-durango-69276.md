@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-poder-judicial-del-estado-de-durango-69276"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-07-02"
-last_updated: "2012-12-23"
+last_updated: "2013-03-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69276&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 2 de julio de 2009.
 
@@ -111,7 +111,7 @@ XVI. Los mediadores, conciliadores y árbitros, en los casos y términos estable
 
 XVII. Todos los demás a quienes las leyes les confiera ese carácter.
 
-Los auxiliares están obligados a cumplir las órdenes de las autoridades y servidores públicos de la administración de justicia, a excepción de los presidentes municipales y los comprendidos en las fracciones IV y XVI de este artículo, quienes deberán colaborar con las autoridades antes señaladas y en los términos que se les soliciten.
+Los auxiliares están obligados a cumplir las órdenes de las autoridades y servidores públicos, de la administración de justicia, a excepción de los presidentes municipales y los comprendidos en las fracciones IV y XVI de este artículo, quienes deberán colaborar con las autoridades antes señaladas y en los términos que se les soliciten.
 
 ## TÍTULO SEGUNDO. DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
@@ -179,7 +179,9 @@ VI. Admitir los medios de impugnación y, en su caso, los escritos de terceros i
 
 VII. Someter a la consideración de sus respectivos órganos, cuando proceda, la acumulación de las impugnaciones y la conexidad, en los términos de las leyes aplicables;
 
-VIII. Participar en los programas de capacitación y actualización del Instituto de Especialización Judicial;
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2013)</small>
+
+VIII. Participar en los programas de capacitación, actualización y posgrado de la Universidad Judicial;
 
 IX. Remitir periódicamente al Presidente, la estadística respectiva de los asuntos turnados para su conocimiento;
 
@@ -1369,7 +1371,9 @@ El Consejo de la Judicatura contará con los siguientes órganos auxiliares:
 
 I. Dirección del Fondo Auxiliar para la Administración de Justicia;
 
-II. Instituto de Especialización Judicial;
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2013)</small>
+
+II. Universidad Judicial;
 
 III. Dirección de Visitaduría Judicial;
 
@@ -1391,7 +1395,25 @@ X. Dirección Administrativa de juzgados de Control, de Tribunal de Juicio Oral 
 
 Cada uno de estos órganos contará con un Director, quien deberá tener título profesional afín a las funciones que deba desempeñar, de reconocida probidad y experiencia mínima profesional de cinco años, con excepción de la Visitaduría Judicial, que será de diez años, gozar de buena reputación y no haber sido condenado por delito intencional con sanción privativa de libertad mayor de un año. Los órganos auxiliares contarán, además, con el personal que permita el presupuesto.
 
-#### SECCIÓN TERCERA. DEL INSTITUTO DE ESPECIALIZACIÓN JUDICIAL
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2013)</small>
+
+La Universidad Judicial tendrá un Rector, quien será designado por el Consejo de la Judicatura, durará en el cargo cuatro años, el cual podrá ser reelecto.
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2013)</small>
+
+Para ser Rector, se requiere:
+
+I. Ser ciudadano duranguense, en pleno ejercicio de sus derechos, con residencia efectiva dentro del territorio de la Entidad, de cuando menos tres años, anteriores al día de su propuesta por el Presidente del Consejo;
+
+II. Tener cuando menos treinta años cumplidos, al día de la designación;
+
+III. Poseer grado de Maestro o Doctor en Derecho, expedido por institución legalmente facultada para ello y registrado ante las autoridades correspondientes; y
+
+IV. Gozar de buena reputación y no haber sido condenado por delito que amerite pena privativa de libertad, de más de un año de prisión, pero si se tratase de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama, en el concepto público, le inhabilitará para el cargo, cualquiera que haya sido la pena.
+
+#### SECCIÓN TERCERA. DE LA UNIVERSIDAD JUDICIAL
+
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 94.
 
@@ -1437,51 +1459,113 @@ V. Los casos previstos por el artículo 212 de esta Ley.
 
 Para la erogación relacionada con los destinos a que se refiere esta disposición, se requerirá el acuerdo del Pleno del Tribunal Superior de Justicia. La omisión de este requisito o su indebido asiento contable, dará lugar a que se finquen las responsabilidades correspondientes a quienes hayan ordenado o ejecutado los actos o las erogaciones no autorizadas.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE MARZO DE 2013)</small>
+
 #### SECCIÓN CUARTA. DE LA DIRECCIÓN DE VISITADURÍA JUDICIAL
 
 ###### ARTÍCULO 98.
 
-El. Instituto de Especialización Judicial es el órgano encargado de la formación, capacitación y actualización de los integrantes del Poder Judicial del Estado y de quienes aspiran a pertenecer a éste; su funcionamiento, facultades y obligaciones se regirán por las normas o acuerdos que expida el Consejo de la Judicatura y las que dicte el Tribunal Superior de Justicia.
+La Universidad Judicial es la institución de estudios superiores especializados del Poder Judicial del Estado de Durango, con autonomía técnica y operativa, cuyas atribuciones se regirán por esta ley, el Reglamento, las normas y los acuerdos que expida el Consejo de la Judicatura.
 
-Podrá establecer extensiones regionales y coordinarse con instituciones universitarias, asociaciones de juristas, facultades de derecho y organismos similares, para la impartición de conferencias y celebración de cursos específicos; o bien, para que conjuntamente, realicen actividades relacionadas con las tareas afines a los propósitos mencionados en el párrafo anterior.
+La Universidad Judicial tiene como misión, formar, profesionalizar, capacitar y actualizar a los servidores públicos del Poder Judicial y a quienes aspiran a pertenecer a éste. Su visión es lograr el desarrollo humano y el perfeccionamiento en el campo del derecho y de la impartición de justicia.
 
-Para los aspirantes a ingresar a la carrera judicial, así como para los servidores públicos del Poder Judicial, en los casos que así lo determine el Consejo de la Judicatura, será obligatoria la asistencia a los cursos que imparta el Instituto de Especialización Judicial.
+Para el logro de los fines anteriores, ofrecerá estudios de posgrado, educación continua e investigación, a quienes cubran los requisitos de ingreso que se determinen en el reglamento respectivo.
 
-Este Instituto contará con un área de investigación, la cual tendrá como función primordial, la realización de los estudios necesarios para el desarrollo y mejoramiento de las funciones de impartición de justicia.
+Las atribuciones que en materia académica le correspondan a la Rectoría serán ejecutadas por la Secretaría Académica.
+
+Podrá establecer extensiones regionales y coordinarse con instituciones universitarias, asociaciones de juristas, facultades de derecho y organismos similares, para la impartición de conferencias y celebración de cursos específicos; o bien, para que conjuntamente, realicen actividades relacionadas con las tareas afines a los propósitos mencionados.
+
+La Universidad Judicial contará con los siguientes órganos:
+
+I. La Rectoría;
+
+II. El Consejo Académico;
+
+III. La Secretaría Académica;
+
+IV. La Secretaría Administrativa; y
+
+V. El Instituto de Investigaciones Jurisdiccionales
+
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 99.
 
-El Instituto de Especialización Judicial tendrá un Comité Académico presidido por un Coordinador General, que se integrará con los miembros que permita su presupuesto y serán designados por el Consejo de la Judicatura para ejercer, durante un periodo no menor de dos ni mayor de cuatro años, de entre personas con reconocida experiencia profesional o académica que pertenezcan o hayan pertenecido al Poder Judicial del Estado. En caso de considerarlo conveniente, el Consejo de la Judicatura podrá ratificarlos para un nuevo periodo.
+La Rectoría será la máxima autoridad académica y administrativa de la Universidad y estará a cargo de un rector quien tendrá las siguientes facultades y obligaciones:
+
+I. Dirigir y coordinar las funciones académicas y administrativas de la Universidad, estableciendo las medidas pertinentes, a fin de que se realicen de manera articulada, congruente y eficaz;
+
+II. Proponer para su aprobación al Consejo Académico los planes y programas Académicos de la Universidad, para su presentación ante la Secretaría de Educación;
+
+III. Proponer al Consejo Académico las políticas y lineamientos generales para el desarrollo integral de la Universidad;
+
+IV. Ejecutar con las Direcciones y Áreas de la Universidad las acciones y estrategias que contribuyan al logro de los objetivos de la misma;
+
+V. Gestionar los convenios de colaboración, previa autorización del Consejo de la Judicatura, con instituciones similares y de educación superior, tanto nacionales como extranjeras, que serán firmados en conjunto con su Presidente;
+
+VI. Presentar al Consejo Académico propuestas de los candidatos para incorporarse a laborar en la Universidad, como investigadores y/o docentes;
+
+VII. Velar por el cumplimiento de las obligaciones del personal administrativo y académico de la Universidad;
+
+VIII. Expedir y firmar, en unión del Presidente, constancias diplomas, reconocimientos y grados que otorgue la Universidad;
+
+IX. Rendir los informes de actividades que le requiera el Consejo de la Judicatura;
+
+X. Favorecer el intercambio académico de los servidores públicos judiciales, tanto en instituciones afines como en instituciones de educación superior nacionales e internacionales; y,
+
+XI. Las demás que le confiera el reglamento respectivo.
+
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 100.
 
-El Comité Académico y su Coordinador General, elaborarán e incorporarán al programa anual de actividades del Consejo de la Judicatura, lo relativo a la formación y actualización de los servidores públicos de carácter jurisdiccional y los de defensoría y asesoría jurídica del Poder Judicial del Estado, lo cual deberá estar sustentado en los cursos básicos y de especialización, señalando los mecanismos de evaluación, el proyecto del Reglamento y lo relacionado con los exámenes de oposición, para su promoción e ingreso.
+La Universidad Judicial tendrá un Consejo Académico que será el órgano académico que se integrará por:
+
+I. El Presidente del Tribunal Superior de Justicia;
+
+II. Los Consejeros de la Judicatura;
+
+III. El Rector; y
+
+IV. Tres Académicos, designados por el Consejo de la Judicatura.
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2013)</small>
+
+ARTÍCULO 100 BIS. El Consejo Académico será responsable de:
+
+I. Aprobar los proyectos y programas de formación, capacitación, actualización, Especialización, Maestría y Doctorado que se impartan;
+
+II. Integrar la lista del cuerpo docente y de investigación que le sean propuestos por el Rector, así como revisar su permanencia;
+
+III. Fijar los requisitos de ingreso y permanencia de los alumnos de la Universidad;
+
+IV. Establecer los requerimientos académicos y administrativos necesarios para la instrumentación de los programas de actualización, preparación e investigación.
+
+V. Resolver de las faltas graves a las disposiciones que rigen la organización y funcionamiento de las actividades de la Universidad cometidas por alumnos, profesores e investigadores; y
+
+VI. Las demás que señale el reglamento respectivo.
+
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 101.
 
-El Instituto de Especialización Judicial tendrá bajo su cuidado la biblioteca, la cual tiene por finalidad, proporcionar el servicio de consulta sobre los documentos que integran su acervo bibliográfico y demás material disponible, a todos los órganos que integran el Poder Judicial del Estado y al público en general, pero sólo los magistrados, jueces y secretarios de la administración de justicia podrán solicitar en préstamo, los libros, bajo recibo firmado y por un término que no exceda de diez días. Se podrá autorizar a los litigantes o a cualquier otra persona para consultar libros o documentos en el recinto de la biblioteca.
+La Secretaría Académica será responsable de llevar a cabo la ejecución de los planes y programas de estudios en coordinación con el Consejo Académico.
 
-El encargado de la biblioteca será el Director del Instituto y tendrá las siguientes obligaciones:
+La Secretaría Administrativa será encargada del buen funcionamiento, mantenimiento de instalaciones y custodia del equipo y patrimonio de la Universidad y lo demás que el reglamento le asigne.
 
-I. Mantener actualizado el inventario alfabético por autores de todos los libros y documentos, así como del mobiliario y equipo;
-
-II. Clasificar y ordenar las obras, formar el catálogo y fichero respectivo;
-
-III. Conservar, asegurar y custodiar el acervo bibliográfico;
-
-IV. Formular anualmente una relación de obras para su adquisición y de las que requieran trabajos de conservación, enviándola junto con el presupuesto respectivo para su aprobación, al Pleno del Consejo de la Judicatura, por conducto de su Presidente;
-
-V. Llevar la estadística de asistencia a usuarios; y
-
-VI. Presidir el Comité de Biblioteca y distribuir las labores.
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 102.
 
-La Biblioteca tendrá un Comité presidido por el Director del Instituto, el cual se integrará con especialistas en biblioteconomía, destacados juristas o ciudadanos con alto prestigio moral, quienes tendrán el carácter de honoríficos, y su finalidad será exclusivamente la conservación, promoción y enriquecimiento del acervo de ésta.
+El Instituto de Investigaciones Jurisdiccionales, tendrá como función realizar investigaciones enfocadas al mejoramiento y desarrollo de la ciencia jurídica en relación con la justicia.
+
+El mismo tendrá a su cargo la divulgación de los temas relacionados con la función jurisdiccional, de defensoría pública y los que se consideren relevantes, a través de la revista del Poder Judicial.
+
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 103.
 
-El Instituto de Especialización Judicial tendrá a su cargo la divulgación, de los temas relacionados con la función jurisdiccional, de defensoría pública y los que se consideren relevantes, a través de la revista del Poder Judicial, misma que se publicará, cuando menos, una vez al año.
+La Universidad Judicial contará un centro de información dependiente de la Secretaría Administrativa que tendrá por finalidad, proporcionar el servicio de consulta en los términos del reglamento respectivo; para lo cual, realizará acciones de adquisición, preservación, acopio y difusión de sus acervos bibliográfico, videográfico, fotográfico y digital.
 
 #### SECCIÓN QUINTA. DE LA DIRECCIÓN DE ARCHIVO
 
@@ -1747,7 +1831,9 @@ a) El desempeño en el Poder Judicial del Estado, tanto en la función jurisdicc
 
 b) La antigüedad en cargos jurisdiccionales y/o administrativos;
 
-c) Los cursos que haya realizado o impartido el sustentante en el Instituto de Especialización Judicial, así como en otras universidades e instituciones en el área de derecho;
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2013)</small>
+
+c) Los cursos que haya realizado o impartido el sustentante en la Universidad Judicial, así como en otras universidades e instituciones en el área de derecho;
 
 d) El desempeño profesional general, el que incluirá, entre otros aspectos, las actividades docentes y de investigación, así como la obra publicada;
 
@@ -1777,13 +1863,17 @@ I. Un integrante del Consejo de la Judicatura, quien lo presidirá;
 
 II. Un Juez ratificado; y
 
-III. Una persona designada por el Instituto de Especialización Judicial, de entre los integrantes de su comité académico.
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2013)</small>
+
+III. Una persona designada por la Universidad Judicial, de entre sus académicos.
 
 Por cada titular, se nombrará un suplente, en los términos del Reglamento correspondiente.
 
 A los integrantes del jurado les serán aplicables los impedimentos establecidos por esta ley, los cuales serán calificados por el propio jurado.
 
-Los cuestionarios escritos y los elementos necesarios para los casos prácticos, serán elaborados por un comité, integrado por un Consejero, un Juez y un especialista nombrado por el Instituto de Especialización Judicial.
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2013)</small>
+
+Los cuestionarios escritos y los elementos necesarios para los casos prácticos, serán elaborados por un comité, integrado por un Consejero, un Juez y un especialista nombrado por la Universidad Judicial.
 
 ###### ARTÍCULO 130.
 
@@ -1791,9 +1881,11 @@ En los concursos internos de oposición para la plaza de Juez, únicamente podr�
 
 De igual manera, podrán participar, previa aprobación del Consejo de la Judicatura, aquellos servidores públicos que cuenten con méritos suficientes debido a cargos desempeñados en los Poderes Judiciales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MARZO DE 2013)</small>
+
 ###### ARTÍCULO 131.
 
-Para acceder a las categorías señaladas en las fracciones de la III a la VI del artículo 127 de esta ley, se requerirá el acreditamiento de un examen de aptitud, que estará a cargo del Instituto de Especialización Judicial, que se sujetará a las bases que determine el Consejo de la Judicatura, de conformidad con lo que disponen esta ley y el Reglamento respectivo. Este último órgano podrá determinar en el Reglamento respectivo, que el llevar a cabo el curso que realice el citado Instituto correspondiente a la categoría inmediata superior de la carrera judicial, se equipara al examen de aptitud.
+Para ser secretario de acuerdos de sala, secretario proyectista, secretario de juzgado y actuario judicial, se requerirá el acreditamiento de un examen de aptitud, que se sujetará a las bases que determine el Consejo de la Judicatura, de conformidad con lo que disponen esta Ley y el Reglamento respectivo; este órgano determinará en el acuerdo respectivo los casos en que la acreditación del curso tiene los efectos del examen de aptitud.
 
 Los exámenes de aptitud se realizarán a convocatoria del Consejo de la Judicatura o a petición del titular del órgano que deba llevar a cabo la correspondiente designación, debiendo preferir a quienes se encuentren en las categorías inmediatas inferiores. Igualmente podrán solicitar que se practique un examen de aptitud a las personas interesadas en ingresar a las categorías señaladas en el primer párrafo de este artículo, quienes de aprobarlo, serán consideradas en la lista que deba integrar el Consejo de la Judicatura, para ser tomados en cuenta en caso de presentarse una vacante en alguna de las categorías contempladas en las propias fracciones de la III a la VI del artículo 127 de esta ley. Cuando haya dicha vacante el propio Consejo de la Judicatura dispondrá se ponga en conocimiento del titular del órgano donde ésta se presente. En el caso del curso que se equipara al examen de aptitud, sólo integrarán la lista a que se refiere con antelación los aspirantes que obtengan las calificaciones aprobatorias que se establezcan en la convocatoria.
 
@@ -1807,7 +1899,9 @@ Antes de designar a la persona que deba ocupar el cargo, el Pleno del Tribunal S
 
 Para el cambio de adscripción de los jueces que haga el Pleno del Consejo de la Judicatura, se tomarán en cuenta los siguientes elementos de juicio:
 
-I. Los cursos de enseñanza y capacitación que hayan realizado en el Instituto de Especialización Judicial;
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2013)</small>
+
+I. Los cursos de capacitación, actualización y estudios de posgrado que hayan realizado en la Universidad Judicial;
 
 II. La antigüedad en el Poder Judicial del Estado;
 
@@ -2697,7 +2791,9 @@ VIII. Imponer las sanciones que correspondan a los servidores del Tribunal Elect
 
 IX. Ejercer las partidas del presupuesto de egresos del Tribunal Electoral del Poder Judicial del Estado;
 
-X. Proponer ante el Instituto de Especialización Judicial, por conducto del Consejo de la Judicatura, los programas relativos;
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2013)</small>
+
+X. Proponer ante la Universidad Judicial, los programas relativos a la formación, capacitación, especialización y posgrado de los servidores públicosdel (sic)Tribunal de Electoral del Poder Judicial del Estado;
 
 XI. Vigilar que los servidores de la Sala cumplan en tiempo y forma con la presentación de las declaraciones de situación patrimonial;
 
@@ -2973,7 +3069,9 @@ VIII. Imponer las sanciones que correspondan a los servidores del Tribunal para 
 
 IX. Ejercer las partidas del presupuesto de egresos del Tribunal para Menores Infractores del Poder Judicial del Estado;
 
-X. Proponer ante el Instituto de Especialización Judicial, por conducto del Consejo de la Judicatura, los programas relativos a la capacitación del personal del Tribunal para Menores Infractores del Poder Judicial del Estado;
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2013)</small>
+
+X. Proponer ante la Universidad Judicial, los programas relativos a la formación, capacitación, especialización y posgrado de los servidores públicos del Tribunal para Menores Infractores del Poder Judicial del Estado;
 
 XI. Vigilar que los servidores del Tribunal para Menores Infractores del Poder Judicial del Estado cumplan en tiempo y forma con la presentación de las declaraciones de situación patrimonial;
 
@@ -3023,9 +3121,9 @@ Para el adecuado ejercicio de las funciones que tiene encomendadas, la Comisión
 
 Para efectos de revisión, supervisión e inspección de las conductas del personal de la Sala, Juzgados y demás órganos del Tribunal para Menores Infractores se auxiliará de la Visitaduría Judicial, Órgano Auxiliar del Consejo de la Judicatura del Poder Judicial.
 
-> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2013)</small>
 
-Igualmente se auxiliará del Instituto de Especialización Judicial del propio Consejo de la Judicatura para efectos de la formación, capacitación y especialización de los servidores del Tribunal para Menores Infractores.
+Igualmente se auxiliará de la Universidad Judicial del propio Consejo de la Judicatura para efectos de la formación, capacitación y especialización de los servidores del Tribunal para Menores infractores.
 
 > <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2010)</small>
 
@@ -3187,7 +3285,9 @@ VIII. Conocer de las irregularidades o faltas en que incurran en el desempeño d
 
 IX. Ejercer las partidas del presupuesto de egresos del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado;
 
-X. Proponer ante el Instituto de Especialización Judicial, por conducto del Consejo de la Judicatura, los programas relativos a la capacitación del personal del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado;
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2013)</small>
+
+X. Proponer ante la Universidad Judicial, los programas relativos a la formación, capacitación, especialización y posgrado de los servidores públicos del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado;
 
 XI. Vigilar que los servidores del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado cumplan en tiempo y forma con la presentación de las declaraciones de situación patrimonial;
 
@@ -3229,7 +3329,9 @@ Para el adecuado ejercicio de las funciones que tiene encomendadas, la Comisión
 
 Para efectos de revisión, supervisión e inspección de las conductas del personal de las Salas, y demás órganos del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado se auxiliará de la Visitaduría Judicial, Órgano Auxiliar del Consejo de la Judicatura del Poder Judicial.
 
-Igualmente se auxiliará del Instituto de Especialización Judicial del propio Consejo de la Judicatura para efectos de la formación, capacitación y especialización de los servidores del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado.
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2013)</small>
+
+Igualmente se auxiliará de la Universidad Judicial del propio consejo de la Judicatura para efectos de la formación, capacitación y especialización de los servidores del Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado.
 
 En ambos supuestos se aplicarán las disposiciones de esta ley relativas a estos órganos, en lo conducente.
 
@@ -3452,3 +3554,17 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones legales en lo que se opongan al presente decreto.
+
+P.O. 14 DE MARZO DE 2013.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al contenido del presente; los actos jurídicos, efectuados por el Instituto de Especialización Judicial, se entenderán efectuados ante la Universidad Judicial, para no afectar los derechos adquiridos de los alumnos que cursaron los estudios en el mismo.
+
+TERCERO. A partir de la entrada en vigor del presente, se deberán expedir o reformar los acuerdos y ordenamientos jurídicos necesarios para la continuidad de las labores que ejercía el Instituto, así como para la obtención de los diplomas, certificados de estudios, títulos de grado y cédulas profesionales que acrediten haber concluido los estudios correspondientes, que se expedirán bajo la denominación de Universidad Judicial.
+
+CUARTO. El Consejo de la Judicatura propondrá al Pleno del Tribunal Superior de Justicia las transferencias presupuestales a efecto de que la Universidad Judicial cumpla con sus objetivos.
+
+QUINTO. En tanto se autorice la modificación del registro del Instituto de Especialización Judicial a Universidad Judicial, por la Autoridad educativa correspondiente, aquel continuará ejerciendo las funciones y obligaciones que actualmente tiene encomendadas
+
+SEXTO. Se respetarán los derechos laborales de los servidores públicos del Instituto de Especialización Judicial, mismos que se incorporarán a las funciones dentro de la Universidad Judicial que sean compatibles con su perfil académico.
