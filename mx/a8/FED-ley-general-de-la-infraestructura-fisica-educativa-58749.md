@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-la-infraestructura-fisica-educativa-58749"
 country: "mx"
 rank: "ley_general"
 publication_date: "2008-02-01"
-last_updated: "2008-02-01"
+last_updated: "2013-03-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58749&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2008-01-31"
 ---
 # LEY GENERAL DE LA INFRAESTRUCTURA FISICA EDUCATIVA
 
-LEY GENERAL DE LA INFRAESTRUCTURA FISICA EDUCATIVA
+LEY GENERAL DE LA INFRAESTRUCTURA FÍSICA EDUCATIVA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE MARZO DE 2013.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 1 de febrero de 2008.
 
@@ -135,9 +135,11 @@ Los usuarios de los servicios educativos podrán solicitar los documentos que ac
 
 Las autoridades en la materia establecerán acciones para atender a los grupos y regiones con mayor rezago educativo según parámetros estatales y nacionales, mediante la creación de programas compensatorios tendentes a ampliar la cobertura y calidad de la infraestructura física educativa.
 
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 2013)</small>
+
 ###### Artículo 11.
 
-En la planeación de los programas y proyectos para la construcción, equipamiento, mantenimiento, rehabilitación, reforzamiento, reconstrucción y habilitación de la INFE deberán cumplirse las disposiciones de la Ley Federal de las Personas con Discapacidad y las leyes en la materia de las entidades federativas. Asimismo, atenderá las necesidades de las comunidades indígenas y las comunidades con escasa población o dispersa, y tomará en cuenta las condiciones climáticas y la probabilidad de contingencias ocasionadas por desastres naturales, tecnológicos o humanos, procurando la satisfacción de las necesidades individuales y sociales de la población.
+En la planeación de los programas y proyectos para la construcción, equipamiento, mantenimiento, rehabilitación, reforzamiento, reconstrucción y habilitación de la INFE deberán cumplirse las disposiciones de la Ley Federal de las Personas con Discapacidad y las leyes en la materia de las entidades federativas. Asimismo, se atenderán las necesidades de las comunidades indígenas y las comunidades con escasa población o dispersa, se asegurará la aplicación de sistemas y tecnologías sustentables, y se tomarán en cuenta las condiciones climáticas y la probabilidad de contingencias ocasionadas por desastres naturales, tecnológicos o humanos, procurando la satisfacción de las necesidades individuales y sociales de la población.
 
 ###### Artículo 12.
 
@@ -454,3 +456,9 @@ Artículo Décimo Tercero. Se derogan todas las demás disposiciones que se opon
 México, D.F., a 13 de diciembre de 2007.- Dip. Ruth Zavaleta Salgado, Presidenta.- Sen. Santiago Creel Miranda, Presidente.- Dip. Santiago Gustavo Pedro Cortes, Secretario.- Sen. Adrián Rivera Pérez, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a treinta y uno de enero de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Juan Camilo Mouriño Terrazo.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 14 DE MARZO DE 2013.
+
+Primero (sic).- El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
