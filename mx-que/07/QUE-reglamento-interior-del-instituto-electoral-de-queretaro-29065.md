@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-interior-del-instituto-electoral-de-queretaro-29065"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-02-14"
-last_updated: "2012-08-10"
+last_updated: "2013-03-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29065&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 14 de febrero de 2003.
 
@@ -263,15 +263,23 @@ III. Control Interno;
 
 IV. Fortalecimiento del Régimen de Partidos;
 
-V. Editorial y Biblioteca; y
+V. Editorial y Biblioteca; y (sic)
 
 VI. Jurídica.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2010)</small>
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2013)</small>
+
+VII. Comisión de Trasparencia (sic) y Acceso a la Información.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MARZO DE 2013)</small>
 
 ###### Artículo 27.
 
-Las comisiones permanentes serán integradas por tres Consejeros Electorales y dos representantes de partidos políticos o coaliciones, debiendo elegirse un presidente, un secretario y un vocal, sin que puedan recaer dichos cargos en representantes de partidos políticos o coaliciones, quienes sólo tendrán derecho a voz. En el caso de la Comisión de Fortalecimiento del Régimen de Partidos, durante el período de proceso electoral se integrará por todos los representantes de los partidos políticos o coaliciones, debiendo elegirse de entre los tres Consejeros Electorales un presidente y dos vocales; el Coordinador de Información y Medios fungirá como Secretario Técnico, quien concurrirá con voz informativa.
+Las comisiones permanentes serán integradas por tres Consejeros Electorales y dos representantes de partidos políticos o coaliciones, debiendo elegirse un presidente, un secretario y un vocal, sin que puedan recaer dichos cargos en representantes de partidos políticos o coaliciones, quienes sólo tendrán derecho a voz. En el caso de la Comisión de Fortalecimiento del Régimen de Partidos, durante el periodo de proceso electoral se integrará por todos los representantes de los partidos políticos o coaliciones, debiendo elegirse de entre los tres Consejeros Electorales un presidente y dos vocales; el Coordinador de Información y Medios fungirá como Secretario Técnico, quien concurrirá con voz informativa.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2013)</small>
+
+Por lo que respecta a la Comisión de Trasparencia (sic) y Acceso a la Información, contará con un Secretario Técnico, que será el titular de la Coordinación jurídica, concurriendo con voz informativa.
 
 > <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2009)</small>
 
@@ -483,6 +491,40 @@ VII. Elaborar y rendir al Consejo, por conducto de la Secretaría Ejecutiva, los
 
 VIII. (DEROGADA, P.O. 6 DE FEBRERO DE 2009)
 
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2013)</small>
+
+###### Artículo 39 Bis.
+
+La Comisión de Transparencia y Acceso a la Información tiene competencia para:
+
+I. Expedir su reglamento, enviándolo a la Secretaría Ejecutiva para la integración del archivo del Consejo;
+
+II. Supervisar el desarrollo de las actividades de la Unidad de Información Gubernamental, relativas a los programas aprobados por el Consejo; que tenga asignados;
+
+III. Vigilar el cumplimiento de los programas aprobados por el Consejo en la materia, que tenga a su cargo la Unidad de Información Gubernamental;
+
+IV. Hacer del conocimiento al Presidente el incumplimiento de los programas en que incurra la Unidad de Información Gubernamental;
+
+V. Emitir las recomendaciones necesarias para el buen funcionamiento de la Unidad de Información Gubernamental, relativas a los programas que tenga asignados;
+
+VI. Elaborar y rendir al Consejo, por conducto de la Secretaría Ejecutiva, los proyectos de dictamen derivados del ejercicio de sus funciones;
+
+VII. Impulsar acciones de difusión de los proyectos y programas del Instituto;
+
+VIII. Emitir los lineamientos en materia de Transparencia y Acceso a la Información en que participe el Instituto, sometiéndolos a consideración del Consejo;
+
+IX. Dictaminar la información que debe ser reservada y confidencial;
+
+X. Vigilar el cumplimiento de las obligaciones que establezca la Ley Estatal en la materia;
+
+XI. Solicitar a los funcionarios del Instituto la información que sea necesaria para el ejercicio de su competencia;
+
+XII. Vigilar con los medios que tenga a su alcance que la información del Instituto tenga su máxima publicidad;
+
+XIII. Dictar los lineamientos para la conservación, manejo, organización y catalogación de los documentos que genere y resguarde el Instituto, sometiéndolos a la consideración del Consejo;
+
+XIV. Las demás que le señale la Ley, el reglamento, los lineamientos y los acuerdos del Consejo.
+
 ###### Artículo 40.
 
 Para la realización y desahogo de los asuntos de su competencia, las Comisiones celebrarán sesiones ordinarias por lo menos una vez cada trimestre y las extraordinarias que sean necesarias. Las sesiones de las Comisiones serán públicas.
@@ -667,21 +709,25 @@ III. Apoyar a la Secretaría Ejecutiva para prestar al Consejo General, Presiden
 
 IV. Establecer los mecanismos de coordinación con las dependencias, entidades o instancias con las que por necesidades del servicio y sus programas específicos, obliguen a relacionarse, previo acuerdo con el Secretario Ejecutivo;
 
-(REFORMADA, P.O. 11 DE FEBRERO DE 2011) (REPUBLICADA, P.O. 18 DE MARZO DE 2011)
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2013)</small>
 
-V. Fungir como unidad de información y enlace a que hacen referencia los artículos 3 y 21 de la Ley Estatal de Acceso a la Información Gubernamental en el Estado de Querétaro;
+V. Fungir como Unidad de Información Gubernamental en materia de transparencia y acceso a la información, de conformidad con la Ley Estatal en la materia;
 
-VI. Implementar la defensa jurídica y el soporte a la Representación Legal en los asuntos de interés institucional;
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2013)</small>
 
-VII. Participar con la Dirección General y los órganos operativos en los programas de modernización, simplificación y desconcentración, así como en el diseño de medidas de mejoramiento de la administración;
+VI. Desempeñar el cargo de Secretaría Técnica de la Comisión de Transparencia y Acceso a la Información;
 
-VIII. Coadyuvar en la elaboración de los instrumentos jurídicos necesarios para el buen funcionamiento del Instituto;
+VII. Implementar la defensa jurídica y el soporte a la Representación Legal en los asuntos de interés institucional;
 
-IX. Desarrollar, en su caso, conjuntamente con instituciones de investigación jurídica, estudios y análisis sobre derecho electoral nacional y comparado;
+VIII. Participar con la Dirección General y los órganos operativos en los programas de modernización, simplificación y desconcentración, así como en el diseño de medidas de mejoramiento de la administración;
 
-X. Acordar con el Secretario Ejecutivo los asuntos de su competencia; y
+IX. Coadyuvar en la elaboración de los instrumentos jurídicos necesarios para el buen funcionamiento del Instituto;
 
-XI. Las demás que le confiera el presente Reglamento y el Secretario Ejecutivo.
+X. Desarrollar, en su caso, conjuntamente con instituciones de investigación jurídica, estudios y análisis sobre derecho electoral nacional y comparado;
+
+XI. Acordar con el Secretario Ejecutivo los asuntos de su competencia; y
+
+XII. Las demás que le confiera el presente Reglamento y el Secretario Ejecutivo.
 
 (ADICIONADO, P.O. 11 DE FEBRERO DE 2011) (REPUBLICADO, P.O. 18 DE MARZO DE 2011)
 
@@ -1019,9 +1065,11 @@ Contará con una Coordinación Administrativa, a cuyo frente estará un coordina
 
 La Coordinación Administrativa tendrá la estructura que el Consejo apruebe, a propuesta del Director y auxiliará a éste en la conducción administrativa del Instituto y en el ejercicio presupuestal del mismo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MARZO DE 2013)</small>
+
 ###### Artículo 117.
 
-Corresponden a la Coordinación Administrativa las atribuciones siguientes:
+Corresponde a la Coordinación Administrativa las atribuciones siguientes;
 
 I. Coadyuvar en la elaboración anual del Anteproyecto de Presupuesto de Egresos del Instituto;
 
@@ -1031,7 +1079,9 @@ III. Emitir las circulares y los manuales para establecer y aplicar las polític
 
 IV. Coadyuvar en el ejercicio del presupuesto del Instituto, aplicando los lineamientos administrativos que al efecto apruebe el Consejo;
 
-V. Llevar el archivo de la Dirección General y de los órganos operativos del Instituto;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2013)</small>
+
+V. Atender los lineamientos para la conservación, manejo, organización y catalogación de los documentos que genere y resguarde el Instituto;
 
 VI. Efectuar las adquisiciones, enajenaciones, arrendamientos y contratación de servicios necesarios para el buen funcionamiento del Instituto que en su caso autorice el Consejo, el Comité o el Director;
 
@@ -1230,3 +1280,11 @@ CUARTO. Los asuntos que se encuentren en trámite, a la entrada en vigor del pre
 P.O. 10 DE AGOSTO DE 2012.
 
 > <small>N. DE E. EL ACUERDO DEL REGLAMENTO CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL PARA EL ESTADO DE QUERÉTARO.</small>
+
+P.O. 15 DE MARZO DE 2013.
+
+1°. Las presentes reformas y adiciones entrarán en vigor al día siguiente de su aprobación.
+
+2°. Se derogan todas aquellas disposiciones reglamentarias internas que contravengan las reformas y adiciones aprobadas.
+
+3°. En tanto el Consejo General no conozca de los Lineamientos en Materia de Transparencia y Acceso a la Información, la Coordinación Jurídica sustanciará los procedimientos relativos a las solicitudes de acceso a la información pública que se promuevan.
