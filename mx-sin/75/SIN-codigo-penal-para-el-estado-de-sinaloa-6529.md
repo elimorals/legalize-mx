@@ -4,7 +4,7 @@ identifier: "SIN-codigo-penal-para-el-estado-de-sinaloa-6529"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-10-28"
-last_updated: "2013-02-27"
+last_updated: "2013-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CÓDIGO PENAL PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2013.
 
 Código publicado en la Sección Primera del Periódico Oficial del Estado de Sinaloa, el miércoles 28 de octubre de 1992.
 
@@ -1673,7 +1673,9 @@ La sanción será de uno a cuatro años de prisión si el sujeto activo tiene re
 
 Los delitos de este Título, se perseguirán por querella.
 
-### CAPITULO I. DIFAMACION
+### CAPÍTULO I. DISCRIMINACIÓN
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE MARZO DE 2013)</small>
 
 ## TITULO SEPTIMO. DELITO CONTRA LA INVIOLABILIDAD DEL SECRETO
 
@@ -1819,17 +1821,29 @@ En el caso de la fracción II de este artículo, además de la pena prevista, se
 
 La reparación del daño, con excepción del delito de abuso sexual, comprenderá el pago de alimentos a la mujer y a los hijos si los hubiere con motivo del delito y se hará en la forma y términos que fija la Ley Civil para los casos de divorcio.
 
-> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE MARZO DE 2013)</small>
 
-## TITULO NOVENO. DELITOS CONTRA EL HONOR
+## TITULO NOVENO. DELITOS CONTRA LA DIGNIDAD DE LAS PERSONAS
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE MARZO DE 2013)</small>
 
 ### CAPITULO VIII. DAÑOS
 
 ###### ARTICULO 189.
 
-(DEROGADO, P.O. 27 DE AGOSTO DE 2007)
+Se impondrán de uno a tres años de prisión y multa de cincuenta a doscientos días, a quien por razón de edad, sexo, embarazo, estado civil, raza, idioma, religión, ideología, orientación sexual, color de la piel, nacionalidad, origen, posición social, trabajo, profesión, posición económica, carácter físico, discapacidad o estado de salud:
+
+l. Provoque o incite al odio o a la violencia contra una o mas personas;
+
+II. Niegue a una persona un servicio o una prestación que se ofrece al público en general;
+
+III. Veje o excluya a alguna persona o grupo de personas; y
+
+IV. Niegue o restrinja derechos laborales.
+
+Si estas conductas son cometidas por un servidor público en ejercicio de su función, la pena establecida para este delito se aumentará hasta en una mitad más.
+
+Igual pena se impondrá al servidor público que incurra en estas conductas negando o retrasando a una persona un trámite o servicio al que tenga derecho.
 
 ### CAPITULO IX. EXTORSION
 
@@ -3956,3 +3970,7 @@ P.O. 27 DE FEBRERO DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 15 DE MARZO DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa.
