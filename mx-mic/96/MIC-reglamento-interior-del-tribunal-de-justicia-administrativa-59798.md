@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-interior-del-tribunal-de-justicia-administrativa-597
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-12"
-last_updated: "2008-02-12"
+last_updated: "2013-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59798&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MIC"
 ---
 # REGLAMENTO INTERIOR DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DE MICHOACAN DE OCAMPO
 
-REGLAMENTO INTERIOR DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DE MICHOACAN DE OCAMPO
+REGLAMENTO INTERIOR DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2013.
 
 Reglamento publicado en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el martes 12 de febrero de 2008.
 
@@ -331,6 +331,8 @@ En el caso de resoluciones, se consignarán los puntos resolutivos o un extracto
 
 ### CAPÍTULO SEXTO. DE LOS SECRETARIOS DE ACUERDOS, SECRETARIOS DE ESTUDIO Y CUENTA Y ACTUARIOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 15 DE MARZO DE 2013)</small>
+
 ###### ARTÍCULO 27.
 
 Los Secretarios de Acuerdos tienen fe pública y les corresponde:
@@ -359,9 +361,17 @@ XI. Controlar los sellos de la ponencia, que están bajo su cargo;
 
 XII. Vigilar que el archivo de la ponencia, previa depuración, remita al Archivo General del Tribunal los expedientes que se encuentren totalmente concluidos, conforme a las normas que al efecto se dicten;
 
-XIII. Las que le sean encomendadas por el Magistrado de su adscripción; y,
+XIII. Las que le sean encomendadas por el Magistrado de su adscripción; y, (sic)
 
-XIV. Las demás que señale el Código, este Reglamento, los Acuerdos de la Sala y demás disposiciones legales.
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2013)</small>
+
+XIV. Las que establece el artículo 28 del presente Reglamento; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE MARZO DE 2013)</small>
+
+XV. Las demás que señale el Código, este Reglamento, los Acuerdos de la Sala y demás disposiciones legales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 15 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 28.
 
@@ -373,9 +383,15 @@ II. Formular los ante proyectos de resolución y, en su caso, las correspondient
 
 III. Auxiliar en el engrose de las sentencias correspondientes;
 
-IV. Las que le sean encomendadas por el Magistrado de su adscripción; y,
+IV. Las que le sean encomendadas por el Magistrado de su adscripción; y, (sic)
 
-V. Las demás que señale el Código, este Reglamento, los Acuerdos de la Sala y demás disposiciones legales.
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2013)</small>
+
+V. Las que establece el artículo 27 del presente Reglamento; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE MARZO DE 2013)</small>
+
+VI. Las demás que señale el Código, este Reglamento, los Acuerdos de la Sala y demás disposiciones legales.
 
 ###### ARTÍCULO 29.
 
@@ -1026,3 +1042,9 @@ LA SECRETARIA GENERAL DE ACUERDOS DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DE MIC
 C E R T I F I C A
 
 QUE EL PRESENTE REGLAMENTO INTERIOR DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DE MICHOACÁN DE OCAMPO, FUE APROBADO POR EL PLENO DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DE MICHOACÁN DE OCAMPO, EN SESIÓN DEL DÍA 1° PRIMERO DE FEBRERO DE 2008 DOS MIL OCHO, POR UNANIMIDAD DE VOTOS DE LOS MAGISTRADOS ARTURO BUCIO IBARRA, MARÍA DEL CARMEN GONZÁLEZ VÉLEZ ALDANA Y SERGIO FLORES NAVARRO.- MORELIA, MICHOACÁN DE OCAMPO, A 1° PRIMERO DE FEBRERO DE 2008 DOS MIL OCHO.- CONSTE. (Firmado).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE MARZO DE 2013.
+
+EL ACUERDO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE MICHOACÁN DE OCAMPO.
