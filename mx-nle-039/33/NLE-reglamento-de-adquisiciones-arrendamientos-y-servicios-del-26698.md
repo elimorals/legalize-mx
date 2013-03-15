@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-adquisiciones-arrendamientos-y-servicios-del-2669
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-11-08"
-last_updated: "2002-11-08"
+last_updated: "2013-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26698&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL GOBIERNO MUNICIPAL DE MONTERREY
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes el 8 de noviembre de 2002.
 
@@ -141,15 +141,91 @@ El citado programa será de carácter informativo, no implicará compromiso algu
 
 Para efectos informativos, la Secretaría de Administración integrará y difundirá los programas anuales de adquisiciones, arrendamientos y servicios.
 
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2013)</small>
+
 ###### Artículo 15.
 
-El Comité es un órgano auxiliar del municipio, de consulta, de análisis, opinión y orientación, que tiene por objeto intervenir como instancia administrativa en el proceso de adquisiciones, arrendamientos y prestación de servicios, a fin de determinar las acciones necesarias que permitan optimizar los recursos que se destinen a las operaciones que regula este reglamento, coadyuvando a la observancia de las mismas.
+El Comité de Adquisiciones es un órgano auxiliar del Municipio, de consulta, análisis, opinión y orientación, que tiene por objeto intervenir en el proceso de adquisiciones, arrendamientos y prestación de servicios, a fin de optimizar los recursos que se destinen a las operaciones que regula este Reglamento, coadyuvando a la observancia del mismo.
 
-El Comité de Adquisiciones se integra por: El Síndico Primero, el Síndico Segundo, un Regidor de mayoría, un Regidor de la primera minoría, un Representante de la Secretaría de la Tesorería, un Representante de la Secretaría de Administración, un Representante de la Secretaría del Ayuntamiento, un Representante de la Secretaría de la Contraloría, un Representante, en su caso, de la dependencia directamente involucrada con la adquisición o arrendamiento del bien o servicio respectivo y un Representante Ciudadano. Los dos últimos únicamente tendrán derecho a voz y su asistencia e inasistencia no afectará el quórum. El Representante de la Contraloría solo tendrá derecho a voz y su asistencia o inasistencia si afectará el quórum. Los Regidores y el Representante Ciudadano será designado a propuesta del Presidente Municipal, y aprobados por el R. Ayuntamiento.
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2013)</small>
 
-El Representante Ciudadano ejercerá su función de manera honorífica y su designación será por un período de un año pudiendo ser ratificado por períodos de igual tiempo.
+Artículo 15 BIS. El Comité de Adquisiciones se integra por:
 
-Para que las sesiones del Comité sean válidas, se requiere que sean citados por escrito o en forma indubitable todos los miembros del Comité y se constituya el quórum por lo menos con la mitad más uno de sus integrantes. Los acuerdos se tomarán por mayoría de los presentes en sesión, teniendo el representante de la Secretaría de Administración voto de calidad en caso de empate. La persona facultada para convocar y presidir las sesiones es el Representante de la Secretaría de la Administración. El Comité contará con el personal necesario, para realizar sus actividades y funciones encomendadas por la ley y demás disposiciones aplicables.
+I. El Síndico Primero, con derecho a voz y voto;
+
+II. El Síndico Segundo, con derecho a voz y voto;
+
+III. Un Regidor de mayoría, con derecho a voz y voto;
+
+IV. Un Regidor de la primera minoría, con derecho a voz y voto;
+
+V. Un Representante de la Secretaría de la Tesorería, con derecho a voz y voto;
+
+VI. Un Representante de la Secretaría de Administración, con derecho a voz y voto;
+
+VII. Un Representante de la Secretaría del Ayuntamiento, con derecho a voz y voto;
+
+VIII. Tres representantes ciudadanos, con derecho a voz y voto.
+
+IX. Un representante de la dependencia directamente involucrada con la adquisición o arrendamiento del bien o contratación del servicio respectivo, en su caso, con derecho a voz;
+
+X. Un Representante de la Secretaría de la Contraloría, con derecho a voz;
+
+Los Regidores serán designados a propuesta del Presidente Municipal, y aprobados por el Ayuntamiento.
+
+La persona facultada para convocar y presidir las sesiones es el Representante de la Secretaría de la Administración.
+
+Los representantes ciudadanos ejercerán su función de manera honorífica y su designación será por un período de tres años.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2013)</small>
+
+Artículo 15 BIS I. Para que las sesiones del Comité sean válidas, se requiere que sean citados por escrito o·en forma indubitable todos los miembros del Comité y (sic) se constituya el quórum por lo menos con la mitad más uno de sus integrantes.
+
+Los acuerdos se tomarán por mayoría de los presentes en sesión, teniendo el representante de la Secretaría de Administración voto de calidad en caso de empate.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2013)</small>
+
+Artículo 15 BIS II. El Ayuntamiento designará a los ciudadanos a que se refiere la fracción VIII del artículo 15 bis, previa convocatoria que se publicará en el Periódico Oficial del Estado de Nuevo León, en la Gaceta Municipal y en un periódico de mayor circulación en el Municipio, los representantes ciudadanos deberán cumplir con los siguientes requisitos:
+
+I. Ser mexicano, en pleno goce de sus derechos, con residencia no menor a cinco años en el Municipio de Monterrey;
+
+II. Tener por lo menos veinticinco años de edad;
+
+III. No haber desempeñado en un periodo de seis años anteriores a su designación, ningún cargo público en la Federación, las entidades federativas y municipios, con excepción de aquellos relacionados con la docencia;
+
+IV. No haber sido inhabilitado para el ejercicio del servicio público;
+
+V. No haber sido condenado por delito intencional mediante sentencia ejecutoría;
+
+VI. No haber sido miembro de algún partido político o asociación política en un periodo de cinco años anteriores a su designación;
+
+VII. No ser ministro o dirigente de algún culto o asociación religiosa:
+
+VIII. No tener lazo de parentesco por consanguinidad o afinidad hasta el cuarto grado o por afinidad hasta el segundo con el Presidente Municipal, los integrantes del Ayuntamiento y los titulares de las dependencias o entidades municipales.
+
+La convocatoria a que se refiere este artículo establecerá el procedimiento y criterios de selección de los ciudadanos y la documentación con la cual se acreditará cada uno de los requisitos señalados.
+
+Una vez que haya concluido el período de registro de los ciudadanos interesados, los expedientes serán turnados a la Comisión de Gobernación y Reglamentación para su análisis, dictaminación y posterior aprobación del Ayuntamiento.
+
+En caso de que no se registren participantes o ninguno cumpla con los requisitos establecidos en la convocatoria, se lanzará una segunda convocatoria. En el supuesto de que por segunda ocasión no se registren participantes o ninguno cumpla con los requisitos establecidos, la designación de los representantes ciudadanos se aprobará por el Ayuntamiento a propuesta del Presidente Municipal.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2013)</small>
+
+Artículo 15 BIS III. Serán causas de terminación del cargo de los representantes ciudadanos integrantes del Comité de Adquisiciones, Arrendamientos y Servicios, las siguientes:
+
+I. La remoción del cargo por dejar de reunir, durante el periodo de su ejercicio, cualquiera de los requisitos a que se refieren las diversas fracciones del artículo 16 del presente Reglamento; y
+
+II. La remoción del cargo por dejar de asistir a tres juntas del Comité en forma sucesiva o a cinco alternas durante un año, sin causa justificada;
+
+III. La separación voluntaria por escrito;
+
+IV. La conclusión del periodo para el cual fueron designados; y
+
+V. La muerte.
+
+La remoción será determinada por el Comité de Adquisiciones, de lo cual se informará al Ayuntamiento, para dar inicio al procedimiento de designación del o los representantes correspondientes, en los términos establecidos en el artículo 15 bis II del presente Reglamento.
+
+La falta de nuevas designaciones de ciudadanos integrantes del Comité de Adquisiciones, no afectará el funcionamiento del mismo y la celebración de sesiones se sujetará a lo dispuesto por los artículos 15 bis y 15 bis I de este Reglamento.
 
 ###### Artículo 16.
 
@@ -748,3 +824,13 @@ LIC. FELIPE DE JESÚS CANTÚ RODRÍGUEZ
 EL. C. SECRETARIO DEL R. AYUNTAMIENTO
 
 C.P. ROBERTO RAMÍREZ VILLARREAL
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE MARZO DE 2013.
+
+Artículo Primero. Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Artículo Segundo. La designación de los representantes ciudadanos deberá realizarse dentro de los sesenta días naturales siguientes a la publicación de las presentes reformas en el Periódico Oficial del Estado de Nuevo León.
+
+El Comité sesionará con los integrantes de acuerdo a las disposiciones vigentes al momento de expedición de las presentes reformas, en tanto se designan los representantes ciudadanos en el plazo aludido.
