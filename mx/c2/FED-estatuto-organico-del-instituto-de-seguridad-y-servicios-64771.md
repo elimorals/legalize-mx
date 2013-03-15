@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-de-seguridad-y-servicios-64771"
 country: "mx"
 rank: "estatuto"
 publication_date: "2008-12-31"
-last_updated: "2012-11-14"
+last_updated: "2013-03-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64771&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "2008-06-26"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE OCTUBRE DE 2012.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL D.O.F. EL 14 DE NOVIEMBRE DE 2012 NO APLICA AL ARTICULADO DEL ACUERDO 47.1334.2012 PUBLICADO EN EL D.O.F. DE 29 DE OCTUBRE DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE MARZO DE 2013.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 31 de diciembre de 2008.
 
@@ -1197,6 +1195,10 @@ I. Planear, normar, coordinar, supervisar y evaluar los servicios jurídicos y l
 
 II. Representar al Instituto para su defensa jurídica en todo tipo de gestiones judiciales, extrajudiciales y administrativas, y ante todo tipo de autoridades federales, estatales y municipales, en los términos de los poderes otorgados, quedando en las Delegaciones del Instituto dicha defensa a cargo del titular de la Unidad Jurídica respectiva, sin perjuicio de que el área central lo realice cuando así lo considere conveniente;
 
+> <small>(ADICIONADA, D.O.F. 15 DE MARZO DE 2013)</small>
+
+II. Bis.- Representar al Director General y a las Unidades Administrativas Centrales del Instituto en todos los trámites establecidos por la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, en los que sean parte o en los que sin ser parte sea requerida su intervención. En el caso de las Delegaciones Estatales y Regionales del Instituto, la representación en esta materia estará a cargo del titular de la Unidad Jurídica respectiva, salvo los casos en que la Dirección Jurídica determine asumir dicha representación.
+
 III. Supervisar y evaluar las actividades de las áreas jurídicas de las Unidades Administrativas Desconcentradas del Instituto que cuenten con ellas;
 
 IV. Asesorar jurídicamente a los Organos de Gobierno y Unidades Administrativas Centrales y Desconcentradas del Instituto;
@@ -1894,3 +1896,7 @@ UNICO.- La presente reforma entrará en vigor el día siguiente al de su publica
 D.O.F. 29 DE OCTUBRE DE 2012.
 
 UNICO.- La reforma a que se refiere este Acuerdo entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 15 DE MARZO DE 2013.
+
+UNICO.- La reforma a que se refiere este Acuerdo entrará en vigor al día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
