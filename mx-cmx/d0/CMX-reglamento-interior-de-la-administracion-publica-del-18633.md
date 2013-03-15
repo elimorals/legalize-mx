@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2013-02-15"
+last_updated: "2013-03-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE MARZO DE 2013.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -146,19 +146,27 @@ C) La Subsecretaría de Coordinación Metropolitana y Enlace Gubernamental, a la
 
 1. Dirección General de Regularización Territorial;
 
-2. Coordinación General de Proyectos Estratégicos y Enlace Gubernamental;
+> <small>(REFORMADO, G.O. 15 DE MARZO DE 2013)</small>
 
-3. Dirección General de Asuntos Agrarios del Distrito Federal, y (sic)
+2. Dirección General de Asuntos Agrarios del Distrito Federal, y
 
-4. Coordinación General de Enlace Institucional con los Gobiernos de los Estados;
+> <small>(REFORMADO, G.O. 15 DE MARZO DE 2013)</small>
 
-> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2008)</small>
+3. Coordinación General de Enlace Institucional con los Gobiernos de los Estados.
 
-5. Coordinación General de Planeación y Seguimiento.
+> <small>(REFORMADO, G.O. 15 DE MARZO DE 2013)</small>
+
+4. Coordinación General de Planeación y Seguimiento.
+
+> <small>(REFORMADO, G.O. 15 DE MARZO DE 2013)</small>
+
+5. Dirección Ejecutiva de Proyectos Estratégicos.
 
 D) La Subsecretaría de Programas Delegacionales y Reordenamiento de la Vía Pública.
 
-E) (DEROGADO, G.O. 22 DE AGOSTO DE 2012)
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 15 DE MARZO DE 2013)</small>
+
+E) Coordinación General de Reordenamiento de la Vía Pública del Centro Histórico.
 
 > <small>(ADICIONADO, G.O. 22 DE AGOSTO DE 2012)</small>
 
@@ -2606,13 +2614,9 @@ XII. Realizar recorridos y vistas periódicas a los Órganos Político-Administr
 
 (DEROGADO, G.O. 28 DE FEBRERO DE 2007)
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 15 DE MARZO DE 2013)</small>
+
 ###### Artículo 48.
-
-(DEROGADO, G.O. 28 DE FEBRERO DE 2007)
-
-> <small>(ADICIONADO, G.O. 19 DE ENERO DE 2007)</small>
-
-###### Artículo 48 Bis.
 
 Corresponde a la Dirección General de Asuntos Agrarios del Distrito Federal fungir como una unidad de consulta, coordinación, concertación y ejecución de acciones, para la inmediata atención de asuntos y conflictos en materia agraria, así como la realización de estudios y acciones que permitan la promoción de políticas que fomenten la actividad agraria en el Distrito Federal y cuenta con las siguientes atribuciones:
 
@@ -2642,39 +2646,23 @@ XII. Elaborar estudios para realizar el diagnóstico de las necesidades de organ
 
 XIII. Analizar la problemática a la que se enfrenten los grupos y núcleos agrarios del Distrito Federal y emitir opinión sobre alternativas de solución.
 
-###### Artículo 48 Ter.
+> <small>(REFORMADO, G.O. 15 DE MARZO DE 2013)</small>
 
-(DEROGADO, G.O. 28 DE FEBRERO DE 2007)
+###### Artículo 48 Bis.
 
-> <small>(ADICIONADO, G.O. 19 DE ENERO DE 2007)</small>
-
-Artículo 48 Cuater (SIC).- Corresponde al titular de la Coordinación General de Proyectos Estratégicos y Enlace Gubernamental:
-
-I. Establecer los enlaces institucionales entre las diferentes autoridades de la Administración Pública y los organismos empresariales, asociaciones religiosas y organizaciones sociales, para fortalecer las relaciones con la Administración Pública del Distrito Federal;
-
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
-
-II. Fortalecer los enlaces institucionales con las diferentes autoridades y coadyuvar con el gobierno federal, al desarrollo de programas especiales y estratégicos para dar seguimiento a los asuntos de carácter relevante;
-
-III. Establecer una coordinación interinstitucional con las diversas dependencias de la Administración Pública del Distrito Federal y Órganos Desconcentrados, para el seguimiento de los asuntos de su competencia;
-
-IV. Establecer una relación interinstitucional para realizar el seguimiento de los proyectos estratégicos, con las dependencias que corresponda.
-
-> <small>(ADICIONADO, G.O. 28 DE FEBRERO DE 2007)</small>
-
-Artículo 48 Quintus.- Coordinación General de Enlace Institucional con los Gobiernos de los Estados:
+Coordinación General de Enlace Institucional con los Gobiernos de los Estados:
 
 I. Fortalecer los enlaces institucionales con las diferentes autoridades y coadyuvar con el gobierno federal, los gobiernos estatales, al desarrollo de programas especiales y estratégicos para dar seguimiento a los asuntos de carácter relevante;
 
 II. Llevar a cabo las acciones necesarias para la debida atención de los Gobernadores de los Estados en sus visitas al Jefe de Gobierno del Distrito Federal;
 
-III. Desempeñar las comisiones y funciones que el Jefe de Gobierno del Distrito Federal y el Secretario de Gobierno le confieran, comunicando el desarrollo y cumplimiento de las mismas;
+III. Desempeñar las comisiones y funciones que el Jefe de Gobierno del Distrito Federal y el Secretario de Gobierno le confieran, comunicando el desarrollo y cumplimiento de las mismas.
 
-IV. Intervenir por acuerdo del Jefe de Gobierno del Distrito Federal en las comisiones, congresos, conferencias y exposiciones nacionales e internacionales y participar en los organismos e institutos en que el Gobierno del Distrito Federal forme parte e intervengan los gobiernos estatales;
+IV. Intervenir por acuerdo del Jefe de Gobierno del Distrito Federal en las comisiones, congresos, conferencias y exposiciones nacionales e internacionales y participar en los organismos e institutos en que el Gobierno del Distrito Federal forme parte e intervengan los gobiernos estatales.
 
-V. Proveer de información y análisis de los acontecimientos más importantes que sucedan en las entidades federativas, que tengan repercusión en el ámbito del Distrito Federal;
+V. Proveer de información y análisis de los acontecimientos más importantes que sucedan en las entidades federativas, que tengan repercusión en el ámbito del Distrito Federal.
 
-VI. Promover a través de la vinculación institucional ante las instancias nacionales e internacionales, los programas y acciones de gobierno de la Ciudad de México para atraer inversiones que coadyuven al desarrollo de las zonas marginadas;
+VI. Promover a través de la vinculación institucional ante las instancias nacionales e internacionales, los programas y acciones de gobierno de la Ciudad de México para atraer inversiones que coadyuven al desarrollo de las zonas marginadas.
 
 VII. Coadyuvar con las dependencias y organismos auxiliares de la Administración Pública del Distrito Federal para establecer vínculos de cooperación con los representantes y las autoridades de los gobiernos de los estados;
 
@@ -2682,33 +2670,71 @@ VIII. Proponer al titular del ejecutivo Estatal que se trate, los estudios y pro
 
 IX. Someter a consideración del Secretario de Gobierno la realización de programas de intercambio y fomento tecnológico y cultural en materia de administración pública con la federación, los estados y sus representaciones en el Distrito Federal;
 
-X. Llevar a cabo el seguimiento, análisis, opinión e informes de los diversos asuntos que se tratan en las comisiones de la Conferencia Nacional de Gobernadores;
+X. Llevar a cabo el seguimiento, análisis, opinión e informes de los diversos asuntos que se tratan en las comisiones de la Conferencia Nacional de Gobernadores.
 
 XI. Las demás que le confieran el Jefe de Gobierno y el Secretario de Gobierno del Distrito Federal.
 
-> <small>(ADICIONADO, G.O. 19 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 15 DE MARZO DE 2013)</small>
 
-Artículo 48 Sextus.- Corresponde a la Coordinación General de Planeación y Seguimiento:
+###### Artículo 48 Ter.
+
+Corresponde a la Coordinación General de Planeación y Seguimiento:
 
 I. Acordar con el titular de la Subsecretaría de Coordinación Metropolitana y Enlace Gubernamental, el despacho de los asuntos de su ámbito de competencia en materia de planeación y evaluación;
 
 II. Proponer las líneas generales de planeación y el proyecto de programa de trabajo anual, mismo que se presentará para su aprobación al titular de la misma;
 
-II (SIC). Participar, dentro del ámbito de competencia de la Subsecretaría de Coordinación Metropolitana y Enlace Gubernamental, en los mecanismos de atención y seguimiento del Programa General de Desarrollo del Distrito Federal, así como emitir opinión en el ámbito de su competencia, en los programas sectoriales y delegacionales;
+III. Participar, dentro del ámbito de competencia de la Subsecretaría de Coordinación Metropolitana y Enlace Gubernamental, en los mecanismos de atención y seguimiento del Programa General de Desarrollo del Distrito Federal, así como emitir opinión en el ámbito de su competencia, en los programas sectoriales y delegacionales;
 
-III. Opinar sobre la integración de los programas regionales y metropolitanos, y en aquellos del ámbito de los asuntos agrarios así como de los de regularización de la tenencia de la tierra;
+IV. Opinar sobre la integración de los programas regionales y metropolitanos, y en aquellos del ámbito de los asuntos agrarios así como de los de regularización de la tenencia de la tierra;
 
-IV. Proponer estudios e investigaciones así como promover la realización y ejecución de proyectos en el ámbito regional y metropolitano;
+V. Proponer estudios e investigaciones así como promover la realización y ejecución de proyectos en el ámbito regional y metropolitano;
 
-V. Promover la integración de los planes y programas regionales y los convenios de colaboración con los gobiernos estatales, para facilitar su consulta y con ello la planeación y seguimiento al cumplimiento de los convenios;
+VI. Promover la integración de los planes y programas regionales y los convenios de colaboración con los gobiernos estatales, para facilitar su consulta y con ello la planeación y seguimiento al cumplimiento de los convenios;
 
-VI. Proponer mecanismos de coordinación interinstitucional para atender los asuntos que requiera la Asamblea Legislativa del Distrito Federal;
+VII. Proponer mecanismos de coordinación interinstitucional para atender los asuntos que requiera la Asamblea Legislativa del Distrito Federal;
 
-VII. Recopilar clasificar y archivar los informes remitidos a los órganos legislativos en materia de asuntos agrarios, regularización territorial, vinculación con las entidades federativas y desarrollo regional y metropolitano, a fin de dar un seguimiento puntual al cumplimiento de las obligaciones contraídas con dichos órganos;
+VIII. Recopilar clasificar y archivar los informes remitidos a los órganos legislativos en materia de asuntos agrarios, regularización territorial, vinculación con las entidades federativas y desarrollo regional y metropolitano, a fin de dar un seguimiento puntual al cumplimiento de las obligaciones contraídas con dichos órganos;
 
-VIII. Llevar puntual seguimiento respecto del cumplimiento del programa de trabajo de la Subsecretaría de Coordinación Metropolitana y Enlace Gubernamental; y
+IX. Llevar puntual seguimiento respecto del cumplimiento del programa de trabajo de la Subsecretaría de Coordinación Metropolitana y Enlace Gubernamental; y
 
-IX. Las demás que le atribuyan otras disposiciones legales y administrativas.
+X. Las demás que le atribuyan otras disposiciones legales y administrativas.
+
+> <small>(REFORMADO, G.O. 15 DE MARZO DE 2013)</small>
+
+###### Artículo 48 Quater.
+
+Corresponde al titular de la Dirección Ejecutiva de Proyectos Estratégicos:
+
+I. Establecer los enlaces institucionales entre las diferentes autoridades de la Administración Pública y los organismos empresariales, asociaciones religiosas y organizaciones sociales, para fortalecer las relaciones con la Administración Pública del Distrito Federal.
+
+II. Fortalecer los enlaces institucionales con las diferentes autoridades y coadyuvar con el gobierno federal, al desarrollo de programas especiales y estratégicos para dar seguimiento a los asuntos de su competencia.
+
+III. Coordinar con las diversas dependencias de la Administración Pública del Distrito Federal y Órganos Desconcentrados, para el seguimiento de los asuntos de su competencia.
+
+IV. Realizar el seguimiento de los proyectos estratégicos, que se requieran con las diferentes Áreas de la Institución.
+
+> <small>(REFORMADO, G.O. 15 DE MARZO DE 2013)</small>
+
+Artículo 48 Quintus.- Corresponde a la Coordinación General de Reordenamiento de la Vía Pública del Centro Histórico:
+
+I. Acordar con el Secretario de Gobierno el despacho de los asuntos relacionados con el seguimiento de las acciones realizadas en el Centro Histórico de la Ciudad.
+
+II. Planear, reorganizar y hacer propuestas de acciones tendientes a reordenar las actividades que se realizan en la vía pública del Centro Histórico.
+
+III. Coordinar las acciones interinstitucionales con las demás dependencias, unidades administrativas, Órganos Político Administrativos y órganos desconcentrados de la Administración Pública, local y federal, así como organizaciones sociales.
+
+IV. Determinar junto con las diversas unidades administrativas las medidas y acciones necesarias para el uso adecuado de la vía pública en los Perímetros “A” y “B” del Centro Histórico de la Ciudad de México.
+
+V. Coordinar con las unidades administrativas que regulan el uso de la vía pública y los espectáculos mercantiles en la elaboración de proyectos y actividades que permitan el uso del espacio público.
+
+VI. Participar en la Comisión de Reordenamiento del Comercio en Vía Pública a fin de elaborar planteamientos que permitan implementar medidas para el adecuado desarrollo de las actividades que se llevan a cabo en los Perímetros “A” y “B” del Centro Histórico.
+
+VII. Recopilar y mantener actualizada la información de los locatarios y de quienes realizan actividades públicas en el Centro Histórico.
+
+VIII. Participar y opinar sobre las propuestas de Reglamentos, disposiciones jurídicas y administrativas en coordinación con la Secretaría de Gobierno, Órgano Político Administrativo, Autoridad del Centro Histórico en materia de asuntos relativos a la vía pública de los Perímetros “A” y “B” del Centro Histórico.
+
+Artículo 48 Sextus.- (DEROGADO, G.O. 15 DE MARZO DE 2013)
 
 #### SECCION III
 
@@ -15907,3 +15933,13 @@ DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN LOS ARTÍCULOS 6, 7, 33, 57,
 PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 15 DE MARZO DE 2013.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO.- Los recursos humanos, materiales, técnicos y, en su caso, financieros, así como los asuntos que se encuentren en trámite en la Coordinación General de Proyectos Estratégicos y Enlace Gubernamental, se transferirán a la Dirección Ejecutiva de Proyectos Estratégicos en la parte que resulte correspondiente, esto de conformidad con las disposiciones administrativas aplicables.
+
+CUARTO.- La Secretaría de Gobierno deberá actualizar su Manual Administrativo y de Procedimientos en los términos establecidos por la normatividad aplicable.
