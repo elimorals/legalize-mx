@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-interior-de-la-secretaria-de-salud-54920"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-03-23"
-last_updated: "2007-03-23"
+last_updated: "2013-03-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54920&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SIN"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE SALUD
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE SALUD, PUBLICADO EN EL P.O. DE 15 DE MARZO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el viernes 23 de marzo de 2007.
 
@@ -896,3 +898,19 @@ El Secretario de Salud
 Héctor Ponce Ramos
 
 La presente hoja de firmas corresponde al Reglamento Interior de la Secretaría de Salud.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE MARZO DE 2013.
+
+Artículo Primero.- El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Artículo Segundo.- Se abroga el Reglamento Interior de la Secretaría de Salud, publicado en el Periódico Oficial "El Estado de Sinaloa", el día 23 de Marzo de 2007.
+
+Artículo Tercero.- Los asuntos que se encuentran pendientes de resolución a la fecha en que entre en vigor el presente Reglamento, se turnaran a la unidad administrativa correspondiente, hasta concluir la tramitación de los mismos.
+
+Artículo Cuarto.- Los derechos laborales del personal que, en virtud a lo establecido en el presente reglamento, se reubiquen de una unidad o área administrativa a otra dentro de la Secretaría o en el organismo público descentralizado denominado; Servicios de Salud de Sinaloa, se respetarán conforme a las disposiciones legales aplicables.
+
+Artículo Quinto.- Los expedientes en trámite, así como sus archivos, de las unidades o áreas administrativas existentes antes de la entrada en vigor del presente reglamento, pasarán a las nuevas unidades o áreas competentes, tanto de la Secretaría como del organismo público descentralizado denominado; Servicios de Salud de Sinaloa; con respecto al personal adscrito a las anteriores, se buscarán los mecanismos e instrumentos que resulten más prácticos para realizar las transferencias y comisiones del personal que resulte involucrado, pero, atendiendo a los acuerdos que establezca el Secretario y las organizaciones sindicales a que correspondan; en cuanto al mobiliario y el equipo en general, serán determinados con base en los criterios que determine o, en su caso, establezca el titular de la Secretaría.
+
+Artículo Sexto.- Cada Director formulará dentro de un plazo de sesenta días naturales contados a partir de la entrada en vigor de este Reglamento, su manual de organización, de procedimientos y de servicios al público, y los someterá a la consideración del Secretario.
