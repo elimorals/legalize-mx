@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-interior-de-la-comision-de-transparencia-del-41348"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-05-30"
-last_updated: "2013-03-01"
+last_updated: "2013-03-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41348&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 REGLAMENTO INTERIOR DE LA COMISIÓN DE TRANSPARENCIA DEL MUNICIPIO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2013.
 
 Reglamento publicado en la Gaceta Municipal del Municipio de Querétaro, el jueves 30 de mayo de 2002.
 
@@ -139,9 +139,9 @@ V. Promover estudios e investigación que aporten medios, métodos de control e 
 
 VI. Realizar acciones, sondeos y encuestas con los habitantes del Municipio que permitan conocer aquellos índices que afecten el desarrollo de las funciones de la Administración Pública Municipal;
 
-VII. (DEROGADA, P.O. 1 DE MARZO DE 2013)
+VII. (DEROGADA, P.O. 1 DE MARZO DE 2013) (DEROGADA [N. DE E. REPUBLICADA], P.O. 15 DE MARZO DE 2013)
 
-VIII. (DEROGADA, P.O. 1 DE MARZO DE 2013)
+VIII. (DEROGADA, P.O. 1 DE MARZO DE 2013) (DEROGADA [N. DE E. REPUBLICADA], P.O. 15 DE MARZO DE 2013)
 
 IX. Remover a los miembros de la Comisión de Transparencia del Municipio de Querétaro, cuando incurran en cualquiera de los supuestos del artículo 13 del presente reglamento; y (sic)
 
@@ -237,21 +237,21 @@ XIII. Las demás que le sean conferidas por el H. Ayuntamiento, el presente orde
 
 La Comisión de Transparencia del Municipio de Querétaro estará integrada por:
 
-> <small>(REFORMADA, P.O. 1 DE MARZO DE 2013)</small>
+(REFORMADA, P.O. 1 DE MARZO DE 2013) (REFORMADA [N. DE E. REPUBLICADA], P.O. 15 DE MARZO DE 2013)
 
-I. Un represente de la Administración Municipal, que será designado por el Presidente Municipal de Querétaro, y tendrá derecho a voz y voto;
+I. Un represente (sic) de la Administración Municipal, que será designado por el Presidente Municipal de Querétaro, y tendrá derecho a voz y voto;
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 27 DE JULIO DE 2009)</small>
 
 II. Dos regidores integrantes del H. Ayuntamiento, con derecho a voz y voto;
 
-> <small>(REFORMADA, P.O. 1 DE MARZO DE 2013)</small>
+(REFORMADA, P.O. 1 DE MARZO DE 2013) (REFORMADA [N. DE E. REPUBLICADA], P.O. 15 DE MARZO DE 2013)
 
 III. Un Secretario Ejecutivo, que será Titular de la Unidad de Información Gubernamental, con derecho a voz sin voto; y
 
-> <small>(REFORMADA, P.O. 1 DE MARZO DE 2013)</small>
+(REFORMADA, P.O. 1 DE MARZO DE 2013) (REFORMADA [N. DE E. REPUBLICADA], P.O. 15 DE MARZO DE 2013)
 
-IV. Cinco ciudadanos propietarios pertenecientes al sector privado, social o académico, de entre los cuales el Ayuntamiento designará al Presidente de la misma, todos con derecho a voz y voto
+IV. Cinco ciudadanos propietarios pertenecientes al sector privado, social o académico, de entre los cuales el Ayuntamiento designará al Presidente de la misma, todos con derecho a voz y voto.
 
 De los cinco integrantes ciudadanos, no podrá haber más de tres del mismo género.
 
@@ -265,7 +265,7 @@ El Presidente de la Comisión de Transparencia del Municipio de Querétaro, esta
 
 Los titulares de las dependencias de la Administración Pública Municipal, podrán participar en las sesiones que realice la Comisión de Transparencia del Municipio de Querétaro, con derecho a voz, previa invitación que al efecto expida el Secretario Ejecutivo por acuerdo de la Comisión o del Presidente de la misma.
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 1 DE MARZO DE 2013)</small>
+(DEROGADO SEGUNDO PÁRRAFO, P.O. 1 DE MARZO DE 2013) (DEROGADO SEGUNDO PÁRRAFO [N. DE E. REPUBLICADA DEROGACIÓN], P.O. 15 DE MARZO DE 2013)
 
 ###### Artículo 10.
 
@@ -311,7 +311,7 @@ La Comisión de Transparencia del Municipio de Querétaro, aprobará la remoció
 
 I. Para los servidores públicos, cualquiera de las establecidas en la Ley de Responsabilidades de los Servidores Públicos del Estado de Querétaro;
 
-> <small>(REFORMADA, P.O. 1 DE MARZO DE 2013)</small>
+(REFORMADA, P.O. 1 DE MARZO DE 2013) (REFORMADA [N. DE E. REPUBLICADA], P.O. 15 DE MARZO DE 2013)
 
 II. Para los integrantes ciudadanos,
 
@@ -395,7 +395,7 @@ El Secretario Ejecutivo de la Comisión antes de iniciar la sesión de trabajo, 
 
 Una vez leído un proyecto de acuerdo o documento incluido en el Orden del Día, será sometido a discusión del Pleno por el Secretario Ejecutivo.
 
-> <small>(REFORMADO, P.O. 1 DE MARZO DE 2013)</small>
+(REFORMADO, P.O. 1 DE MARZO DE 2013) (REFORMADO [N. DE E. REPUBLICADO], P.O. 15 DE MARZO DE 2013)
 
 ###### Artículo 22.
 
@@ -491,7 +491,7 @@ Las resoluciones o acuerdos de la Comisión de Transparencia del Municipio de Qu
 
 Si finaliza la exposición de un asunto y nadie solicita el uso de la palabra o se hubiere agotado el número de oradores, o bien, cuando se considere suficientemente discutido el asunto a juicio de quien presida la sesión, este será sometido a votación.
 
-> <small>(ADICIONADO, P.O. 1 DE MARZO DE 2013)</small>
+(ADICIONADO, P.O. 1 DE MARZO DE 2013) (ADICIONADO [N. DE E. REPUBLICADO], P.O. 15 DE MARZO DE 2013)
 
 Si algún integrante de la Comisión de Transparencia del Municipio de Querétaro, tuviere interés personal en algún asunto, dejará de conocer inmediatamente de éste, debiendo excusarse mediante escrito presentado ante el Secretario Ejecutivo.
 
@@ -499,43 +499,43 @@ Si algún integrante de la Comisión de Transparencia del Municipio de Querétar
 
 ###### Artículo 36.
 
-(DEROGADO, P.O. 1 DE MARZO DE 2013)
+(DEROGADO, P.O. 1 DE MARZO DE 2013) (DEROGADO [N. DE E. REPUBLICADA DEROGACIÓN], P.O. 15 DE MARZO DE 2013)
 
 ###### Artículo 37.
 
-(DEROGADO, P.O. 1 DE MARZO DE 2013)
+(DEROGADO, P.O. 1 DE MARZO DE 2013) (DEROGADO [N. DE E. REPUBLICADA DEROGACIÓN], P.O. 15 DE MARZO DE 2013)
 
 ###### Artículo 38.
 
-(DEROGADO, P.O. 1 DE MARZO DE 2013)
+(DEROGADO, P.O. 1 DE MARZO DE 2013) (DEROGADO [N. DE E. REPUBLICADA DEROGACIÓN], P.O. 15 DE MARZO DE 2013)
 
 ###### Artículo 39.
 
-(DEROGADO, P.O. 1 DE MARZO DE 2013)
+(DEROGADO, P.O. 1 DE MARZO DE 2013) (DEROGADO [N. DE E. REPUBLICADA DEROGACIÓN], P.O. 15 DE MARZO DE 2013)
 
 ###### Artículo 40.
 
-(DEROGADO, P.O. 1 DE MARZO DE 2013)
+(DEROGADO, P.O. 1 DE MARZO DE 2013) (DEROGADO [N. DE E. REPUBLICADA DEROGACIÓN], P.O. 15 DE MARZO DE 2013)
 
 ###### Artículo 41.
 
-(DEROGADO, P.O. 1 DE MARZO DE 2013)
+(DEROGADO, P.O. 1 DE MARZO DE 2013) (DEROGADO [N. DE E. REPUBLICADA DEROGACIÓN], P.O. 15 DE MARZO DE 2013)
 
 ###### Artículo 42.
 
-(DEROGADO, P.O. 1 DE MARZO DE 2013)
+(DEROGADO, P.O. 1 DE MARZO DE 2013) (DEROGADO [N. DE E. REPUBLICADA DEROGACIÓN], P.O. 15 DE MARZO DE 2013)
 
 ###### Artículo 43.
 
-(DEROGADO, P.O. 1 DE MARZO DE 2013)
+(DEROGADO, P.O. 1 DE MARZO DE 2013) (DEROGADO [N. DE E. REPUBLICADA DEROGACIÓN], P.O. 15 DE MARZO DE 2013)
 
 ###### Artículo 44.
 
-(DEROGADO, P.O. 1 DE MARZO DE 2013)
+(DEROGADO, P.O. 1 DE MARZO DE 2013) (DEROGADO [N. DE E. REPUBLICADA DEROGACIÓN], P.O. 15 DE MARZO DE 2013)
 
 ###### Artículo 45.
 
-(DEROGADO, P.O. 1 DE MARZO DE 2013)
+(DEROGADO, P.O. 1 DE MARZO DE 2013) (DEROGADO [N. DE E. REPUBLICADA DEROGACIÓN], P.O. 15 DE MARZO DE 2013)
 
 ## TRANSITORIOS
 
@@ -606,3 +606,11 @@ PRIMERO. Publíquese en la Gaceta Municipal del Municipio de Querétaro y en el 
 SEGUNDO. La presente reforma entrará en vigor el día siguiente al de su publicación.
 
 TERCERO. Se derogan todas aquellas disposiciones legales de igual o menor jerarquía que se opongan al presente Reglamento.
+
+P.O. 15 DE MARZO DE 2013.
+
+PRIMERO. Publíquese en la Gaceta Municipal del Municipio de Querétaro y en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+SEGUNDO. La presente reforma entrará en vigor al día siguiente al de su publicación.
+
+TERCERO. Se derogan todas aquellas disposiciones legales de igual o menor jerarquía que se opongan al presente Reglamento"
