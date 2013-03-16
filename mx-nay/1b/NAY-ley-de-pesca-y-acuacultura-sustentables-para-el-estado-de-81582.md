@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-pesca-y-acuacultura-sustentables-para-el-estado-de-81582
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-25"
-last_updated: "2011-05-25"
+last_updated: "2013-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81582&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE PESCA Y ACUACULTURA SUSTENTABLES PARA EL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2013.
 
 Ley publicada en le Sección Cuarta del Periódico Oficial del Estado de Nayarit, el miércoles 25 de Mayo de 2011.
 
@@ -133,7 +133,9 @@ XXXI. Sanidad acuícola: Es el conjunto de prácticas y medidas establecidas en 
 
 XXXII. Sanitización: Tratamiento especial por el cual se elimina la contaminación microbiológica en determinado producto;
 
-XXXIII. Secretaría: Secretaría de Desarrollo Rural del Gobierno del Estado de Nayarit;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2013)</small>
+
+XXXIII. Secretaría: Secretaría de Agricultura, Ganadería, Desarrollo Rural y Pesca;
 
 XXXIV. SENASICA: Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria;
 
@@ -149,7 +151,9 @@ XXXVII. Zona de escasa prevalencia: Área geográfica determinada en donde se pr
 
 Son competentes para aplicar y vigilar el cumplimiento de esta ley, en sus respectivos ámbitos:
 
-I. La Secretaría de Desarrollo Rural;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2013)</small>
+
+I. La Secretaría de Agricultura, Ganadería, Desarrollo Rural y Pesca;
 
 II. La Secretaría del Medio Ambiente;
 
@@ -217,7 +221,9 @@ El Consejo se integrará por:
 
 I. El Titular del Poder Ejecutivo, o la persona que este designe, quien lo presidirá;
 
-II. El Secretario de Desarrollo Rural del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2013)</small>
+
+II. El Secretario de Agricultura, Ganadería, Desarrollo Rural y Pesca;
 
 III. El Titular de la Dirección de Pesca y Acuacultura de la Secretaría, como secretario técnico.
 
@@ -535,9 +541,19 @@ i) La aplicación de estímulos fiscales, económicos y de apoyo financiero nece
 
 j) Favorecer la creación de figuras organizativas para la promoción comercial de los productos pesqueros y acuícolas en los mercados nacional e internacional.
 
-IV. Podrá enajenar los productos obtenidos de la reproducción de especies generadas en sus centros acuícolas, de conformidad con las leyes aplicables, y
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2013)</small>
 
-V. Promoverá el ordenamiento de la pesca y la acuacultura y diseñará estructuras y mecanismos para el otorgamiento de créditos a sus beneficiarios y su capacitación, así como para instrumentar servicios de comercialización de productos, investigación y adaptación al cambio tecnológico.
+IV. Podrá enajenar los productos obtenidos de la reproducción de especies generadas en sus centros acuícolas, de conformidad con las leyes aplicables;
+
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2013)</small>
+
+V. Promoverá el ordenamiento de la pesca y la acuacultura y diseñará estructuras y mecanismos para el otorgamiento de créditos a sus beneficiarios y su capacitación, así como para instrumentar servicios de comercialización de productos, investigación y adaptación al cambio tecnológico, y
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2013)</small>
+
+VI. Otorgará un seguro de vida a los productores pesqueros y acuícolas de la entidad, de escasos recursos económicos que siendo jefes de familia soliciten ese apoyo, según lo disponga el Reglamento de esta Ley.
+
+Para el otorgamiento de este apoyo, se tomará en cuenta la disponibilidad presupuestal, la gradualidad en su implementación, así como el acreditamiento de la calidad de productor pesquero o acuícola, en términos de las Reglas de Operación que al efecto emita la Secretaría, conforme al Reglamento de esta Ley.
 
 ###### Artículo 32.
 
@@ -1630,3 +1646,9 @@ D A D O en la Sala de Sesiones "Lic. Benito Juárez García" recinto oficial del
 Dip. J. Dolores Salvador Galindo Flores, Presidente.- Rúbrica.- Dip. Roberto Contreras Cantabrana, Secretario.- Rúbrica.- Dip. Juan José Castellanos Franco, Secretario.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto en Fracción II del Articulo 69 de Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit en Tepic su capital, a los veinticinco días del mes de mayo del año dos mil once.- Lic. Ney González Sánchez.- Rúbrica.- La Secretaria General de Gobierno.- Lic. Angélica Patricia Sánchez Medina.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 16 DE MARZO DE 2013.
+
+Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
