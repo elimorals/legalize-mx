@@ -4,7 +4,7 @@ identifier: "NAY-ley-para-el-desarrollo-agricola-sustentable-del-estado-de-89295
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-11"
-last_updated: "2012-08-11"
+last_updated: "2013-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89295&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY PARA EL DESARROLLO AGRÍCOLA SUSTENTABLE DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2013.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el sábado 11 de agosto de 2012.
 
@@ -117,7 +117,9 @@ XXI.- Proceso Productivo: La articulación de fases componentes, medios de produ
 
 XXII.- Programas de Financiamiento Rural: Créditos que son otorgados a productores rurales para la adquisición de bienes de capital o capital de trabajo para la producción primaria o transformación, traslado y comercialización de productos agrícolas;
 
-XXIII.- Productor: La persona física o moral que directa o indirectamente se dedica a la producción, transformación, industrialización, comercialización y traslado de productos y subproductos agrícolas;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2013)</small>
+
+XXIII.- Productor agrícola: La persona física que directa o indirectamente se dedica a la producción y comercialización primaria de productos y subproductos agrícolas;
 
 XXIV.- Programa Especial Concurrente: El Programa Especial Concurrente para el Desarrollo Rural Sustentable que incluye un conjunto de programas sectoriales relacionados con las materias motivos de esta ley;
 
@@ -127,7 +129,9 @@ XXVI.- Sanidad Vegetal: Los actos que competen a la SAGARPA, orientados a la pre
 
 XXVII.- SAGARPA: La Secretaría de Agricultura, Ganadería. Desarrollo Rural, Pesca y Alimentación del Gobierno Federal;
 
-XXVIII.- Secretaría: La Secretaría de Desarrollo Rural del Estado de Nayarit;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2013)</small>
+
+XXVIII.- Secretaría: La Secretaría de Agricultura, Ganadería, Desarrollo Rural y Pesca;
 
 XXIX.- SNICS: El Servicio Nacional de Inspección y Certificación de Semillas, órgano desconcentrado de la Secretaría de Agricultura Ganadería, Desarrollo Rural, Pesca y Alimentación, encargado de inspeccionar, vigilar y verificar el cumplimiento de las disposiciones legales en materia de semillas y variedades vegetales para siembras;
 
@@ -159,7 +163,9 @@ I.- Autoridades Estatales:
 
 a).- El Gobernador del Estado;
 
-b).- La Secretaría de Desarrollo Rural;
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2013)</small>
+
+b).- La Secretaría de Agricultura, Ganadería, Desarrollo Rural y Pesca;
 
 c).- La Secretaría de Desarrollo Económico;
 
@@ -663,7 +669,7 @@ Para las regiones que se dedican a la agricultura de temporal, se fomentará la 
 
 ###### Artículo 54.
 
-El Gobierno Estatal, a través de las dependencias y entidades competentes, en coordinación con las autoridades federales y municipales, así como con la participación de los productores beneficiarios, promoverá la construcción, rehabilitación y el desarrollo de los caminos rurales y saca-cosechas, para el mejoramiento de las condiciones de vida de los habitantes del medio rural y de la Infraestructura productiva del campo.
+El Gobierno Estatal, a través de las dependencias y entidades competentes, en coordinación con las autoridades federales y municipales, así como con la participación de los productores beneficiarios, promoverá la construcción, rehabilitación y el desarrollo de los caminos rurales y saca-cosechas, para el mejoramiento de las condiciones de vida de los habitantes del medio rural y de la infraestructura productiva del campo.
 
 La rehabilitación y acondicionamiento de los caminos saca-cosechas en las áreas rurales será considerada actividad prioritaria en la entidad, a fin de facilitar el transporte de los insumos y productos agrícolas dentro y fuera de los predios agrícolas.
 
@@ -727,11 +733,23 @@ V.- Los productores que participen en el establecimiento de parcelas demostrativ
 
 La Secretaría otorgará a los productores agrícolas que cumplan con alguno de los supuestos a los que se refiere el artículo anterior, los apoyos siguientes:
 
-I.- Se les gestionará preferentemente con cargo a los programas en concurrencia con la SAGARPA, la autorización para recibir la asesoría técnica específica ó integral, en base al tipo de programa o proyecto a desarrollar;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2013)</small>
 
-II.- Se les dará preferencia a los productores que participen en los programas de interés del estado, con los apoyos que se manejan en concurrencia con la SAGARPA y Programas Estatales, y
+I.- Se les gestionará preferentemente a su favor y con cargo a los programas en concurrencia con la SAGARPA, la autorización para recibir la asesoría técnica específica o integral, en base al tipo de programa o proyecto a desarrollar.
 
-III.- Garantías líquidas a los productores que participen en los programas de interés del Estado, para que éstos tengan acceso a los financiamientos bancarios.
+En este rubro, se dará preferencia a los productores que participen en los programas de interés del estado, con los apoyos que se manejan en concurrencia con la SAGARPA y los programas estatales.
+
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2013)</small>
+
+II.- Garantías líquidas a los productores que participen en los programas de interés del Estado, para que éstos tengan acceso a los financiamientos bancarios, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 16 DE MARZO DE 2013)</small>
+
+III.- El otorgamiento de un seguro de vida a los productores agrícolas de la entidad de escasos recursos económicos que sean jefes de familia, según lo disponga el Reglamento Ley.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2013)</small>
+
+En todo caso, para el otorgamiento de este apoyo, se tomará en cuenta la disponibilidad presupuestal, la gradualidad en su implementación, así como el acreditamiento de la calidad de productor del campo en términos de las Reglas de Operación que al efecto emita la Secretaría, conforme al Reglamento de esta Ley.
 
 ###### Artículo 63.
 
@@ -1232,3 +1250,9 @@ DADO en la Sala de Sesiones "Lic. Benito Juárez García" recinto oficial del Ho
 Dip. Fernando Ornelas Salas, Presidente.- Rúbrica.- Dip. Miguel Ángel Arce Montiel, Secretario.- Rúbrica.- Dip. Leonor Naya Mercado, Secretaria.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Articulo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit en Tepic su capital, a los once días del mes de agosto del año dos mil doce.- ROBERTO SANDOVAL CASTAÑEDA.- Rúbrica.- El Secretario General de Gobierno.- Lic. José Trinidad Espinoza Vargas.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 16 DE MARZO DE 2013.
+
+Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
