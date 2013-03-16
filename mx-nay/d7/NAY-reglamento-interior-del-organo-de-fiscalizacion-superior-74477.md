@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-del-organo-de-fiscalizacion-superior-74477"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-03-10"
-last_updated: "2013-02-16"
+last_updated: "2013-03-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74477&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # REGLAMENTO INTERIOR DEL ORGANO DE FISCALIZACION SUPERIOR DEL ESTADO DE NAYARIT
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE JUNIO DE 2013 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 REGLAMENTO INTERIOR DEL ÓRGANO DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2013.
 
 Reglamento publicado en la Sección Quinta del Periódico Oficial del Estado de Nayarit, el miércoles 10 de marzo de 2010.
 
@@ -275,7 +277,9 @@ IV. Presentar un informe trimestral al Auditor General de sus trabajos y activid
 
 V. Asistir al Auditor General en la tramitación y resolución de los recursos administrativos que se interpongan en contra de los actos del Órgano;
 
-VI. Suscribir los instrumentos relativos al ejercicio de sus atribuciones, así como de aquellos que le sean señalados por delegación o le correspondan por suplencia;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2013)</small>
+
+VI. Suscribir los documentos que se generen en el proceso de fiscalización, hasta la notificación del pliego de observaciones; los instrumentos necesarios para el ejercicio de sus atribuciones, así como aquellos que le sean señalados por delegación o le correspondan por suplencia.
 
 VII. Coadyuvar con las demás unidades administrativas, para eficientar el proceso de fiscalización y realizar conjuntamente en su caso, auditorías integrales;
 
@@ -328,6 +332,8 @@ XXX. Asistir y participar en los comités, comisiones o grupos de trabajo que le
 XXXI. Compilar, ordenar y sistematizar la normatividad que emitan los gobiernos federal, estatal o municipal, para el mejor desarrollo de la práctica de auditorías a los sujetos de fiscalización; y
 
 XXXII. Las demás, que en el ámbito de su competencia les establezcan las disposiciones jurídicas aplicables o les encomiende el Auditor General.
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE JUNIO DE 2013 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 > <small>(REFORMADO, P.O. 24 DE MARZO DE 2012)</small>
 
@@ -389,11 +395,15 @@ VIII. Coadyuvar con las demás unidades administrativas para complementar, conju
 
 IX.- Participar y coordinar en el ámbito de su competencia las auditorías integrales a los entes fiscalizables, consistentes en evaluación multidisciplinaria y con enfoque de sistemas del grado y forma de cumplimiento de los objetivos del ente fiscalizable respecto a sus operaciones, así como con su entorno. En la forma, plazos y condiciones del calendario de auditorías programadas por el Órgano.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 14.
 
-El Director General de Evaluación de Desempeño tendrá las siguientes atribuciones específicas:
+El Director General de Evaluación del Desempeño, tendrá las siguientes atribuciones:
+
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2013)</small>
+
+A. Sin perjuicio de su ejercicio directo por el Auditor General:
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE MARZO DE 2012)</small>
 
@@ -425,7 +435,83 @@ IV. Informar al Auditor General, sobre el avance en la solventación de las obse
 
 > <small>(ADICIONADA, P.O. 16 DE FEBRERO DE 2013)</small>
 
-V.- Participar y coordinar en el ámbito de su competencia las auditorías integrales a los entes fiscalizables, consistentes en evaluación multidisciplinaria y con enfoque de sistemas del grado y forma de cumplimiento de los objetivos del ente fiscalizable respecto a sus operaciones, así como con su entorno. En la forma, plazos y condiciones del calendario de auditorías programadas por el Órgano.
+V. Participar y coordinar en el ámbito de su competencia las auditorías integrales a los entes fiscalizables, consistentes en evaluación multidisciplinaria y con enfoque de sistemas del grado y forma de cumplimiento de los objetivos del ente fiscalizable respecto a sus operaciones, así como con su entorno. En la forma, plazos y condiciones del calendario de auditorías programadas por el Órgano.
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2013)</small>
+
+VI. Requerir a los sujetos de fiscalización y a los terceros que hubieren celebrado operaciones con aquéllos la información y documentación que sea necesaria para realizar la función de fiscalización, en cumplimiento al Programa Anual de Auditorías;
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2013)</small>
+
+VII. Designar a los inspectores, visitadores o auditores encargados de practicar las visitas, inspecciones y auditorías a su cargo;
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2013)</small>
+
+VIII. Formular el proyecto de recomendaciones y los pliegos de observaciones que deriven de los resultados de revisión y de las Auditorias, visitas o investigaciones y proponérselos al Auditor General;
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2013)</small>
+
+IX. Recabar e integrar la documentación necesaria para ejercitar por conducto de la Unidad Jurídica las acciones legales que procedan como resultado de las irregularidades que se detecten en la revisión, auditorias o visitas que practiquen, y previo acuerdo del Auditor General, remitir a la Unidad Jurídica los expedientes para la substanciación de los procedimientos para el fincamiento de las responsabilidades resarcitorias y administrativas a que den lugar las irregularidades detectadas por el Órgano en el ejercicio de sus atribuciones de fiscalización.
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2013)</small>
+
+X. Formular el proyecto de Informe del Resultado de la revisión de la Cuenta Pública, así como de los demás documentos que se le indiquen; participar en la revisión, análisis y evaluación de la información reportada en los Informes de Avance de Gestión Financiera y de la Cuenta Pública, y demás informes que generen los Sujetos de Fiscalización;
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2013)</small>
+
+XI. Coordinar la planeación, programación y ejecución de los programas aprobados por el Auditor General, así como las actividades del personal a su cargo y la elaboración de los análisis temáticos que sirvan de insumos para la preparación del Informe del Resultado de la Revisión y Fiscalización de la Cuenta Pública;
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2013)</small>
+
+XII. Suscribir los documentos que se generen en el proceso de fiscalización, hasta la notificación del pliego de observaciones; los instrumentos necesarios para el ejercicio de sus atribuciones, así como aquellos que le sean señalados por delegación o le correspondan por suplencia.
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2013)</small>
+
+B. Atribuciones específicas:
+
+I. Coordinarse con los Auditores Especiales; con el director general de la Unidad Jurídica y con el director de la Unidad de Administración para el mejor desempeño de sus atribuciones.
+
+II. Coordinar y supervisar las auditorías, visitas e inspecciones practicadas por la dirección a su cargo.
+
+III. Obtener durante el desarrollo de las auditorías copia de los documentos originales que tenga a la vista y certificarlas, cuando así se requiera, mediante cotejo con sus originales.
+
+Igualmente podrá expedir copias certificadas de las constancias que obren en sus archivos, con las limitaciones que señalan los ordenamientos jurídicos en materia de reserva, confidencialidad, secrecía y de acceso a la información pública gubernamental;
+
+IV. Formular y proponer al Auditor General el Programa Anual de Auditorías para la fiscalización de la Cuenta Pública, así como el Programa Operativo Anual que contenga los proyectos de los programas que realizará durante el ejercicio fiscal siguiente y las modificaciones a los mismos, para tal efecto asumirán el modelo, criterios y/o lineamientos que determine el Auditor General a través de la Coordinación General de Planeación;
+
+V. Aportar la información que le corresponda para formular el proyecto de presupuesto anual del Órgano, así como integrar la información correspondiente a las áreas a su cargo;
+
+VI. Presentar un informe trimestral al Auditor General de sus trabajos y actividades realizadas en ese período;
+
+VII. Informar al Auditor General del despacho de los asuntos de su competencia, así como de los programas cuya coordinación se les hubiere asignado;
+
+VIII. Solicitar a las instancias de control competentes, en el ámbito de sus atribuciones, copia de los informes y dictámenes de las auditorías por ellas practicadas o a través de despachos externos;
+
+IX. Verificar que las auditorías a su cargo incluyan el examen relativo al establecimiento por parte de los sujetos fiscalizados, de los mecanismos adecuados para medir e informar sobre los resultados y la eficacia de las acciones, así como sobre la adopción de las prácticas más convenientes para la gestión pública;
+
+X. Proponer la actualización del marco normativo general y de los criterios para la fiscalización de la Cuenta Pública, a cargo del Órgano, así como de las demás reglas, lineamientos, directrices, estándares y cualquier otra disposición de carácter interno;
+
+XI. Verificar el cumplimiento de las normas que regulan los procedimientos para la práctica de auditorías a su cargo y proponer al Auditor General su actualización;
+
+XII. Autorizar el proyecto de Pliego de Observaciones e Informe del Resultado de la Fiscalización de la Cuenta Pública formulados por las áreas a su cargo, para su presentación oficial al Auditor General por conducto de la Coordinación General de Planeación;
+
+XIII. Autorizar y suscribir el dictamen técnico que integre la documentación necesaria para promover las responsabilidades que procedan, como resultado de las irregularidades que se detecten en las auditorías que se practiquen;
+
+XIV. Coordinar el seguimiento de las recomendaciones y acciones promovidas ante las entidades fiscalizadas para propiciar prácticas de buen gobierno;
+
+XV. Participar en la preparación de estudios y proyectos que competan al Órgano, en la forma que determine el Auditor General;
+
+XVI. Desempeñar las comisiones que el Auditor General le encomiende y mantenerlo informado sobre el desarrollo de sus actividades;
+
+XVII. Asistir y participar en los comités, comisiones o grupos de trabajo que les correspondan dentro del ámbito de su competencia;
+
+XVIII. Vigilar el cumplimiento de la normativa aplicable al funcionamiento de las direcciones a su cargo y en su caso, proponer al Auditor General las modificaciones que estimen convenientes;
+
+XIX. Promover y dar seguimiento a la imposición de las sanciones que procedan al personal a su cargo, cuando incurran en responsabilidades administrativas en el desempeño de sus funciones;
+
+XX. Compilar, ordenar y sistematizar la normatividad que emitan los gobiernos federal, estatal o municipal, para el mejor desarrollo de la práctica de auditorías a los sujetos de fiscalización; y
+
+XXI. Las demás, que en el ámbito de su competencia le establezcan las disposiciones jurídicas aplicables o le encomiende el Auditor General.
 
 ### CAPÍTULO V
 
@@ -659,7 +745,7 @@ d. Mantener actualizado, en el ámbito de su competencia, el sistema electrónic
 
 e. Proponer y utilizar técnicas especializadas en reproducción y conservación de documentos, para efectos de seguridad, sustitución de documentos o facilidad de consulta así como aquellos que tengan que ver con la destrucción de documentación que se estime procedente;
 
-f. Organizar el archivo general histórico del Órgano, y proponer el procedimiento de destrucción de documentos obsoletos;
+f. (DEROGADA, P.O. 16 DE MARZO DE 2013)
 
 g. Informar a las áreas competentes, sobre el estado que guarda la presentación de los avances de gestión financiera y cuenta pública por parte de los sujetos obligados;
 
@@ -672,6 +758,10 @@ b. Recibir de las áreas auditoras la documentación relativa al archivo permane
 c. Implementar el proceso de digitalización del archivo permanente, y mantener actualizado en el ámbito de su competencia, el sistema electrónico para consulta interna;
 
 d. Proponer la depuración de la documentación que no tenga mobilidad (sic) y/o que no se encuentra sujeta a consulta, para ser remitida al archivo general que coordina la oficialia de partes;
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2013)</small>
+
+e. Organizar el archivo general histórico del Órgano, y proponer el procedimiento de destrucción de documentos susceptibles de depuración;
 
 XIX.- Dar trámite y seguimiento a los asuntos que acuerde (sic) el Consejo Consultivo y/o el Auditor General, y en su caso, notificar los acuerdos respectivos a las áreas y unidades administrativas que correspondan;
 
@@ -1245,11 +1335,11 @@ En los casos de las ausencias no estipuladas, el despacho y la resolución de lo
 
 DE LA CERTIFICACIÓN DE DOCUMENTOS.
 
-> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 39.
 
-El Auditor General, Auditor Especial de Gestión Financiera, Auditor Especial de Infraestructura y Director General de Evaluación de Desempeño, el Director General de la Unidad Jurídica, Director de la Unidad de Administración, Titular de Coordinación General de Planeación, Titular de la Contraloría Interna, dentro del ámbito de sus respectivas competencias, podrán expedir certificaciones de los documentos que obren en sus archivos o bien aquellos documentos originales que tengan a la vista con motivo de las auditorías o investigaciones que practiquen y que éstos lo consideren como relevante para el objeto de la revisión.
+El Auditor General, el Auditor Especial de Gestión Financiera, el Auditor Especial de Infraestructura, el Director General de Evaluación del Desempeño, el Director General de la Unidad Jurídica, Director de la Unidad de Administración, Titular de la Coordinación General de Planeación, Titular de la Contraloría Interna y los directores de área, dentro del ámbito de sus respectivas competencias podrán certificar los documentos que obren en sus archivos o bien aquellos que tengan a la vista con motivo de las auditorías, investigaciones o procedimientos de responsabilidad que practiquen y que éstos consideren como relevante para su objeto, de acuerdo a sus atribuciones conferidas.
 
 ###### ARTÍCULO 40.
 
@@ -1320,3 +1410,9 @@ Artículo Único.- El presente acuerdo entrará en vigor al día siguiente de su
 P.O. 16 DE FEBRERO DE 2013.
 
 Artículo Único.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial Órgano de Difusión del Gobierno del Estado.
+
+P.O. 16 DE MARZO DE 2013.
+
+Artículo Primero.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo Segundo.- Con relación al artículo 14, a partir de la entrada en vigor de esta reforma y respecto a la obligación de realizar la remisión de expedientes de auditoría para la substanciación de los procedimientos para el fincamiento de responsabilidades resarcitorias y administrativas a que den lugar las irregularidades detectadas por el Órgano de Fiscalización Superior en el ejercicio de sus atribuciones de fiscalización, que se encuentren en proceso y pendientes de realizar; así como cuando un acuerdo u otro instrumento jurídico refieran a obligaciones que debe atender el Auditor Especial de Evaluación del Desempeño, se entenderá que deben ser atendidas por el Director General de Evaluación del Desempeño.
