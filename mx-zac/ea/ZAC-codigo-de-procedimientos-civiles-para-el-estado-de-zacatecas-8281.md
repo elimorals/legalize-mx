@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-de-procedimientos-civiles-para-el-estado-de-zacatecas-82
 country: "mx"
 rank: "codigo"
 publication_date: "1966-03-02"
-last_updated: "2007-10-03"
+last_updated: "2013-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8281&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2013.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el 2 de marzo de 1966.
 
@@ -3545,6 +3545,10 @@ XI.- Las que tengan por objeto la constitución, ampliación, división, registr
 
 XII.- Los demás negocios para los que la ley determine de una manera especial la vía sumaria.
 
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2013)</small>
+
+XIII.- La pérdida de la patria potestad observando las reglas especiales establecidas en el capítulo correspondiente.
+
 498.- El procedimiento en el juicio sumario se ajustará a las reglas establecidas para el ordinario, con las siguientes modificaciones:
 
 I.- El término para el traslado de la compensación (sic) y reconvención será de tres días. No serán admisibles sino cuando proceda también tramitarla en juicio sumario;
@@ -4183,7 +4187,9 @@ IX.- El tribunal podrá dictar de oficio o a petición de parte, en cualquier es
 
 594.- Cuando la pérdida de la patria potestad no se derive de sentencia dictada en juicio penal o civil que condene expresamente a la pérdida de ese derecho, sólo podrá decretarse mediante sentencia declarativa que se dicte en juicio contradictorio.
 
-El juicio contradictorio se tramitará en la vía ordinaria, con intervención del Ministerio Público, en el que tendrán aplicación, en lo conducente, las reglas establecidas para los juicios de paternidad y filiación.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2013)</small>
+
+El juicio contradictorio se tramitará en la vía sumaria, con intervención del Ministerio Público, en el que tendrán aplicación, en lo conducente, las reglas establecidas para los juicios de paternidad y filiación, corriéndole traslado de la demanda a quienes ejercen la patria potestad; asimismo, a los abuelos paternos y maternos, con el apercibimiento de que en caso de no contestar se tendrá hecha en sentido negativo a la demanda.
 
 La sentencia que se dicte es apelable en el efecto suspensivo, y no tendrá lugar la revisión de oficio.
 
@@ -4195,7 +4201,11 @@ La resolución que se dicte no es apelable.
 
 ### CAPITULO VII. De la adopción
 
-596.- Para que se autorice la adopción, el que pretenda adoptar a alguna persona, deberá acreditar:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2013)</small>
+
+###### Artículo 596.
+
+Para que se autorice la adopción, el que pretenda adoptar a alguna persona deberá acreditar:
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2007)</small>
 
@@ -4211,15 +4221,19 @@ IV.- Que el adoptante o adoptantes tienen medios bastantes para promover a la su
 
 V.- Que el adoptante o adoptantes acrediten que están en aptitud de adoptar.
 
-En la petición inicial deberá manifestarse el nombre y edad de la persona a quien se va adoptar, y si es menor o incapacitado, el nombre y domicilio de quienes ejerzan sobre él la patria potestad o la tutela, o de las personas o instituciones de beneficencia que lo hayan acogido. Si el adoptado es menor o incapacitado y no está sujeto a patria potestad o tutela, se le proveerá de tutor especial para que lo represente.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2013)</small>
+
+En la petición inicial deberá manifestarse el nombre y edad de la persona a quien se va adoptar, y si es menor o incapacitado, el nombre y domicilio de quienes ejerzan sobre él la patria potestad o la tutela, o de las personas o instituciones de beneficencia que lo hayan acogido. Si el adoptado es menor o incapacitado y no está sujeto a patria potestad o tutela, se le proveerá de tutor especial para que lo represente. En la misma petición se deberán anexar las pruebas que cumplan los requisitos exigidos en el Código Familiar del Estado en relación a la adopción en esta entidad federativa y respecto de la adopción internacional, además de acreditarse las exigidas en el presente artículo.
 
 > <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 596 BIS.- Para tramitar la Adopción Internacional se acreditarán los requisitos para ser adoptante que señala el Código Familiar del Estado y los tratados internacionales en la materia.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2013)</small>
 
-597.- Rendidas las justificaciones que se exigen en el artículo anterior, y obtenido el consentimiento de las personas que deben darlo conforme a los artículos 359 y 360 del Código Familiar del Estado, el juez resolverá lo que corresponda, dentro del tercer día.
+###### Artículo 597.
+
+Rendidas las justificaciones que se exigen en los artículos anteriores, y obtenido el consentimiento de las personas que deben darlo conforme a los artículos 359 y 360 del Código Familiar del Estado, el juez resolverá lo que corresponda, dentro del tercer día siguiente al auto de radicación.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
@@ -6288,3 +6302,11 @@ Artículo segundo.- Se derogan las disposiciones que contravengan este decreto.
 Artículo tercero.- La titular del Ejecutivo dentro de los noventa días siguientes a la entrada en vigor de este instrumento legislativo, deberá publicar en el Periódico Oficial, Órgano del Gobierno del Estado, las reformas al Reglamento del Registro Civil.
 
 Artículo cuarto.- Los juicios iniciados con anterioridad a la vigencia del presente decreto, deberán concluirse de conformidad con las disposiciones vigentes al momento de su interposición.
+
+P.O. 16 DE MARZO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO.- Los procedimientos de presunción de muerte que iniciaron su trámite antes de la entrada en vigor de la presente reforma se regirán por lo dispuesto en el presente Decreto.
+
+TERCERO.- Se derogan todas las disposiciones que contravengan el presente Decreto.
