@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-familiar-del-estado-de-zacatecas-8211"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-10"
-last_updated: "2009-12-19"
+last_updated: "2013-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ZAC"
 ---
 # CODIGO FAMILIAR DEL ESTADO DE ZACATECAS
 
-CODIGO FAMILIAR DEL ESTADO DE ZACATECAS
+CÓDIGO FAMILIAR DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2013.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 10 de mayo de 1986.
 
@@ -107,7 +107,7 @@ CODIGO FAMILIAR DEL ESTADO DE ZACATECAS
 
 ### CAPITULO UNICO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 1.
 
@@ -333,7 +333,7 @@ Si el padre o la madre no pudieren concurrir ni tuvieren apoderado, podrán proc
 
 En las actas de nacimiento por ningún concepto se asentarán palabras que califiquen a la persona registrada. En cualquier acta de nacimiento que contenga dicha nota se testarán de oficio dichas palabras por quien tenga a su cargo el levantamiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 43.
 
@@ -637,9 +637,7 @@ El Jefe de cualquier puesto o destacamento militar tiene la obligación de dar p
 
 ### CAPITULO UNICO
 
-## TITULO CUARTO. DE LA INSCRIPCION DE LAS EJECUTORIAS JUDICIALES RELATIVAS
-
-A LA INCAPACIDAD LEGAL DE ADMINISTRAR BIENES, A LA AUSENCIA O PRESUNCION DE MUERTE
+## TITULO CUARTO. DE LA INSCRIPCION DE LAS EJECUTORIAS JUDICIALES RELATIVAS A LA INCAPACIDAD LEGAL DE ADMINISTRAR BIENES, A LA AUSENCIA O PRESUNCION DE MUERTE
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -701,7 +699,7 @@ La aclaración de las actas del estado civil procede cuando en el registro exist
 
 ### CAPITULO SEGUNDO. DE LOS REQUISITOS PARA CONTRAER MATRIMONIO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 100.
 
@@ -771,9 +769,7 @@ Si el ascendiente o tutor que ha firmado o ratificado la solicitud de matrimonio
 
 El Juez que hubiere autorizado a un menor para contraer matrimonio, no podrá revocar el consentimiento una vez que lo haya otorgado, sino por causa superveniente.
 
-### CAPITULO CUARTO. DE LOS DERECHOS Y OBLIGACIONES QUE NACEN
-
-DEL MATRIMONIO
+### CAPITULO CUARTO. DE LOS DERECHOS Y OBLIGACIONES QUE NACEN DEL MATRIMONIO
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
@@ -1213,7 +1209,7 @@ III. La revocación por la única causa prevista en este artículo, sólo proced
 
 IV. La donación entre consortes se perfecciona con la muerte del donante o cuando transcurran tres años contados a partir de la fecha del otorgamiento de la escritura.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ### CAPITULO DECIMO PRIMERO. DEL DIVORCIO
 
@@ -1231,7 +1227,7 @@ III. Que se haya celebrado en contravención a las solemnidades y formalidades s
 
 La acción de nulidad que nace del error, sólo puede deducirse por el cónyuge engañado; pero si éste no denuncia el error dentro del término de treinta días después de conocerlo, se tiene por ratificado el consentimiento, y queda subsistente el matrimonio, a no ser que exista algún otro impedimento que lo anule.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 185.
 
@@ -1277,7 +1273,7 @@ En uno y en otro casos, la acción debe intentarse dentro de los seis meses sigu
 
 La acción de nulidad proveniente del atentado contra la vida de alguno de los cónyuges para casarse con el que queda libre, puede ser deducida por los hijos del cónyuge víctima del atentado, o por el Ministerio Público, dentro del término de seis meses, contados desde que se celebró el nuevo matrimonio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 193.
 
@@ -1571,7 +1567,7 @@ Cuando un cónyuge haya pedido el divorcio o la nulidad del matrimonio que no ha
 
 El cónyuge ofendido por una causal de divorcio necesario deberá ejercitar la acción correspondiente dentro del término de un año contado a partir de la fecha en que tuvo conocimiento del hecho, o causa que lo motiva, salvo las excepciones señaladas por esta ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 234.
 
@@ -1911,7 +1907,7 @@ Las pensiones alimenticias decretadas por sentencia ejecutoria, aumentarán ipso
 
 Por lo tanto, bastará con que el interesado acredite ante el Juez del conocimiento el incremento del salario mínimo, para que aquél, de plano requiera al obligado aumente la pensión alimenticia decretada en los términos señalados en el artículo que antecede.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE FEBRERO DE 2006)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE FEBRERO DE 2006)</small>
 
 ### CAPITULO TERCERO. DE LA FlLIACION DE LOS HIJOS
 
@@ -2027,7 +2023,7 @@ No puede haber sobre la filiación transacción o compromiso de árbitros.
 
 Puede haber transacción o arbitraje sobre los derechos pecuniarios que de la filiación legalmente adquirida pudieran derivarse, sin que las concesiones que se hagan al que se dice hijo, importen la condición de estado de hijo de matrimonio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 305.
 
@@ -2039,7 +2035,7 @@ l. Los nacidos en cualquier momento desde que inició la vida en común;
 
 II. Los nacidos dentro de los trescientos días siguientes al en que cesó, la vida en común entre el concubinario y la concubina.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ### CAPITULO SEPTIMO. DE LA ADOPCION
 
@@ -2059,7 +2055,7 @@ A falta de acta o si ésta fuera defectuosa, incompleta, o si hubiese en ella om
 
 En defecto de esa posesión de estado son admisibles todos los medios ordinarios de prueba que la ley autoriza; en todos los supuestos de hechos jurídicos en que haya dudas, presunciones, afirmaciones falsas, hechos contradictorios o que no han ocurrido, u otros de naturaleza semejante sobre la filiación, la maternidad o paternidad, dentro o fuera del matrimonio o por concubinato o cualquier otro supuesto jurídico semejante, se podrán realizar las pruebas científicas correspondientes, para resolver la controversia de los sujetos involucrados en los conflictos señalados. Quienes no acepten someterse a las pruebas citadas, se tendrán por ciertos los hechos que se les imputen, con todos los alcances legales, como si las pruebas se hubieran realizado y hubieren resultado positivas.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ### CAPITULO OCTAVO. DE LA ADOPCION INTERNACIONAL
 
@@ -2117,7 +2113,7 @@ La posesión de hijo no puede perderse sino por sentencia ejecutoriada, la cual 
 
 Si el que está en posesión de los derechos de padre o de hijo fuere despojado de ellos o perturbado en su ejercicio sin que preceda sentencia por la cual deba perderlos, podrá usar de las acciones que establecen las leyes para que se le ampare o restituya en la posesión.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE OCTUBRE DE 2007)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ### CAPITULO PRIMERO. DE LOS EFECTOS DE LA PATRIA POTESTAD RESPECTO DE LOS HIJOS
 
@@ -2147,7 +2143,7 @@ Si el que está en posesión de los derechos de padre o de hijo fuere despojado 
 
 (DEROGADO, P.O. 3 DE OCTUBRE DE 2007)
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ### CAPITULO SEGUNDO. DE LOS EFECTOS DE LA PATRIA POTESTAD RESPECTO DE LOS BIENES DEL HIJO
 
@@ -2299,7 +2295,7 @@ El hecho de dar alimentos constituye por sí solo una presunción juris-tantum d
 
 Las acciones de investigación de paternidad o maternidad sólo pueden intentarse en vida de los padres. Si los padres hubieren fallecido durante la menor edad de los hijos, éstos tienen derecho de intentar la acción en todo tiempo, siendo imprescriptible para ellos y sus herederos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 349.
 
@@ -2379,7 +2375,19 @@ IV. El Ministerio Público del lugar del domicilio del adoptado cuando éste no 
 
 V. Si el menor fuere expósito cuyos padres no sean localizados deberá otorgar su consentimiento al Consejo Estatal de los Derechos del Niño; en los demás casos bastará la opinión del mismo.
 
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2013)</small>
+
+VI.- La Procuraduría de la Defensa del Menor, la Mujer y la Familia o el Sistema para el Desarrollo Integral de la Familia, cuando no hubiere las personas a que se refieren las fracciones anteriores.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2013)</small>
+
+En su caso, estas instituciones pedirán la opinión de la persona que lo hayan acogido durante seis meses anteriores a la solicitud de adopción y lo trate como un hijo.
+
 Si el menor que se va a adoptar tiene más de catorce años, también se necesita su consentimiento para la adopción.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2013)</small>
+
+El consentimiento podrá hacerse ante la Procuraduría de la Defensa del Menor, la Mujer y la Familia y deberá ratificarse ante Juez, ante el Ministerio Público o ante Notario Público, cuando se trate de menores que se encuentren albergados en instituciones públicas o privadas.
 
 ###### ARTICULO 360.
 
@@ -2449,7 +2457,7 @@ En el caso de revocación por ingratitud, ésta deja de producir efectos desde q
 
 Las resoluciones que dicten los Jueces aprobando la revocación, se comunicarán al Oficial del Registro Civil del lugar en que aquélla se hizo para que cancele el acta de adopción. Igualmente al Consejo Estatal de los Derechos del Niño para los efectos del seguimiento de su situación.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 3 DE OCTUBRE DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ### CAPITULO TERCERO. DE LA TUTELA LEGITIMA DE LOS MENORES
 
@@ -2497,7 +2505,7 @@ Los menores de edad no emancipados están bajo la patria potestad, mientras exis
 
 La patria potestad se ejerce sobre la persona y los bienes de los hijos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 373.
 
@@ -2565,13 +2573,15 @@ Cuando llegue al conocimiento del Juez que quienes ejercen la patria potestad no
 
 Las personas señaladas en las fracciones II y III del artículo 374 de este Código, que no se encuentren ejerciendo la patria potestad, tendrán derecho a la comunicación y convivencia con el menor; en todo caso, podrán informar al Juez y al Ministerio Público de cualquier falta a los deberes de quienes la ejerzan.
 
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2013)</small>
+
+Además del Ministerio Público tiene acción para demandar la pérdida de la patria potestad, la Procuraduría de la Defensa del Menor, la Mujer y la Familia.
+
 ###### ARTICULO 383.
 
 El que está sujeto a la patria potestad no puede comparecer en Juicio, ni contraer obligación alguna, sin expreso consentimiento del que o de los que ejerzan aquel derecho.
 
-### CAPITULO QUINTO. DE LA TUTELA LEGITIMA DE LOS MENORES ABANDONADOS Y DE LOS ACOGIDOS POR ALGUNA PERSONA, O DE LOS PROTEGIDOS
-
-EN ESTABLECIMIENTOS DE BENEFICENCIA
+### CAPITULO QUINTO. DE LA TUTELA LEGITIMA DE LOS MENORES ABANDONADOS Y DE LOS ACOGIDOS POR ALGUNA PERSONA, O DE LOS PROTEGIDOS EN ESTABLECIMIENTOS DE BENEFICENCIA
 
 ###### ARTICULO 384.
 
@@ -2681,9 +2691,9 @@ II. En los casos de divorcio, teniendo en cuenta lo establecido al efecto por es
 
 III. Cuando por las costumbres depravadas de quienes la ejerzan, violencia familiar, incumplimiento de las obligaciones alimentarias o abandono de sus deberes, pueda comprometerse la seguridad o la salud física o mental de los menores, aun cuando estos hechos no cayeren bajo la sanción de la ley penal; tomando en cuenta lo dispuesto por la legislación de los derechos del niño;
 
-> <small>(REFORMADA, P.O. 29 DE MARZO DE 2000)</small>
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2013)</small>
 
-IV. La exposición por los que la ejercen; o los dejen abandonados por más de seis meses, si quedaran a cargo de alguna persona, considerando lo señalado en la fracción V del artículo 359 de este Código.
+IV. La exposición por los que la ejercen; o los dejen abandonados por más de tres meses naturales, o dejen de asistir injustificadamente a convivir, si el menor quedara a cargo de alguna persona, considerando lo señalado en la fracción V del artículo 359 de este Código, o a cargo de una institución pública o privada de asistencia social. El abandono se actualizará, aunque no se comprometa la seguridad o salud física o mental de los menores.
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
@@ -2909,9 +2919,7 @@ Si por un nombramiento condicional de tutor, o por cualquier otro motivo, faltar
 
 El adoptante que ejerza la patria potestad tiene derecho de nombrar tutor testamentario a su hijo adoptivo; aplicando a esta tutela lo dispuesto en los artículos anteriores.
 
-### CAPITULO NOVENO. DE LA GARANTIA QUE DEBEN PRESTAR LOS TUTORES
-
-PARA ASEGURAR SU MANEJO
+### CAPITULO NOVENO. DE LA GARANTIA QUE DEBEN PRESTAR LOS TUTORES PARA ASEGURAR SU MANEJO
 
 ###### ARTICULO 440.
 
@@ -2945,7 +2953,7 @@ Si hubiere varios parientes del mismo grado, el Juez elegirá entre ellos al que
 
 La falta temporal del tutor legítimo se suplirá en los términos establecidos en los dos artículos anteriores.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 15 DE JULIO DE 1992)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE JULIO DE 1992)</small>
 
 ### CAPITULO DECIMO. DEL DESEMPEÑO DE LA TUTELA
 
@@ -3787,9 +3795,7 @@ Los menores de edad no pueden alegar la nulidad en las obligaciones que hubieren
 
 ## TITULO SEXTO
 
-### CAPITULO SEXTO. DE LOS EFECTOS DE LA AUSENCIA RESPECTO
-
-DE LOS DERECHOS EVENTUALES DEL AUSENTE
+### CAPITULO SEXTO. DE LOS EFECTOS DE LA AUSENCIA RESPECTO DE LOS DERECHOS EVENTUALES DEL AUSENTE
 
 ###### ARTICULO 601.
 
@@ -4111,6 +4117,18 @@ Cuando hayan transcurrido tres años desde la declaración de ausencia, el Juez,
 
 Respecto de los individuos que hayan desaparecido al tomar parte en una guerra, encontrándose a bordo de cualquier medio de transporte que sufra un siniestro, o al verificarse una explosión, incendio, terremoto, inundación u otro siniestro semejante, bastará que haya transcurrido un año, contado desde su desaparición, para que pueda hacerse la declaración de presunción de muerte, sin que en estos casos sea necesario que previamente se declare su ausencia; pero sí se tomarán las medidas provisionales autorizadas por este Título.
 
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2013)</small>
+
+Tratándose de personas no localizadas por actos presumiblemente atribuibles a la delincuencia organizada, en los casos de secuestro y desaparición forzada, bastará que hayan transcurrido dos años, contados desde el día de su desaparición, para que pueda hacerse la declaración de presunción de muerte, sin que sea necesaria la declaración de ausencia; no obstante, se tomarán las medidas provisionales autorizadas por el Capítulo Primero del Título Séptimo. En estos supuestos, el Juez acordará la declaración de presunción de muerte y ordenará su publicación en el Periódico Oficial, Órgano de Gobierno del Estado y en un periódico de circulación en el Estado.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2013)</small>
+
+El Ministerio Público, mediante acuerdo, con base en las evidencias recabadas, determinará los actos que se presuman atribuibles a la delincuencia organizada.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2013)</small>
+
+Cuando el Ministerio Público conozca de los hechos citados en el presente artículo, podrá promover ante la autoridad judicial competente el inicio del procedimiento que corresponda.
+
 ###### ARTICULO 665.
 
 Hecha la declaración de presunción de muerte se abrirá el testamento del ausente, si no estuviere ya publicado conforme a las disposiciones de esta ley; los poseedores provisionales darán cuenta de su administración en los términos prevenidos en este Título; y los herederos y demás interesados entrarán en posesión definitiva de los bienes, sin garantía alguna. La que según la ley se hubiere dado, quedará cancelada.
@@ -4305,7 +4323,7 @@ Sólo puede constituirse el patrimonio de familia con bienes sitos en el lugar d
 
 Cada familia sólo puede constituir un patrimonio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 694.
 
@@ -4535,7 +4553,7 @@ Cuando los Consejos de Familia tengan conocimiento, de que un cónyuge abandonó
 
 Los Consejos de Familia vigilarán la integración familiar, mediante programas de orientación, dando a conocer a las autoridades competentes la existencia de algún problema.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 728.
 
@@ -4647,7 +4665,7 @@ Y para que llegue a conocimiento de todos y se le dé el debido cumplimiento, ma
 
 Dado en el Despacho del Poder Ejecutivo del Estado a los cinco días del mes de Mayo de mil novecientos ochenta y seis.- El Gobernador Constitucional del Estado.- José Guadalupe Cervantes Corona.- Rúbrica.- El Secretario de Gobierno.- Roberto Almanza Félix.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 15 DE JULIO DE 1992.
 
@@ -4735,4 +4753,12 @@ Artículo segundo.- Se derogan todas aquellas disposiciones que contravengan est
 
 P.O. 19 DE DICIEMBRE DE 2009.
 
-LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 4o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE ZACATECAS.
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 4o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE ZACATECAS.
+
+P.O. 16 DE MARZO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO.- Los procedimientos de presunción de muerte que iniciaron su trámite antes de la entrada en vigor de la presente reforma se regirán por lo dispuesto en el presente Decreto.
+
+TERCERO.- Se derogan todas las disposiciones que contravengan el presente Decreto.
