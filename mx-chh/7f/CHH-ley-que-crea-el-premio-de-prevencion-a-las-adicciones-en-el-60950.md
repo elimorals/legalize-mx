@@ -4,7 +4,7 @@ identifier: "CHH-ley-que-crea-el-premio-de-prevencion-a-las-adicciones-en-el-609
 country: "mx"
 rank: "ley"
 publication_date: "2008-04-26"
-last_updated: "2009-12-05"
+last_updated: "2013-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60950&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHH"
 ---
 # LEY QUE CREA EL PREMIO DE PREVENCION A LAS ADICCIONES EN EL ESTADO DE CHIHUAHUA
 
-LEY QUE CREA EL PREMIO DE PREVENCION A LAS ADICCIONES
+LEY QUE CREA EL PREMIO DE PREVENCIÓN A LAS ADICCIONES DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE DICIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el sábado 26 de abril de 2008.
 
@@ -65,9 +65,9 @@ e).- Proyectos de campañas publicitarias sobre uso indebido y reducción del co
 
 f).- Cualquier proyecto distinto a los anteriores que contengan medidas de prevención al consumo de tabaco, alcohol y otras sustancias que puedan provocar adicción.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 3.
 
@@ -77,9 +77,11 @@ a).- Se presentarán por triplicado, a doble espacio, en papel tamaño carta y p
 
 b).- Los participantes deberán enviar su proyecto en sobre cerrado con la identificación del autor, su domicilio, número telefónico, el título y área de su proyecto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2013)</small>
+
 ###### ARTÍCULO 4.
 
-El "Premio de Prevención a las Adicciones" será entregado anualmente por el Presidente del H Congreso del Estado, en una sesión ordinaria y consistirá en un primer premio de 1000 salarios mínimos, una medalla y un diploma y, en un segundo premio de 600 salarios mínimos, una medalla y un diploma. Todos los participantes se harán acreedores a un diploma por su participación y colaboración.
+El “Premio de Prevención a las Adicciones" será entregado anualmente por el Presidente del H. Congreso del Estado, en una sesión ordinaria del mes de marzo y consistirá en un primer premio de 1000 salarios mínimos, una medalla y un diploma y, en un segundo premio de 600 salarios mínimos, una medalla y un diploma. Todos Los participantes se harán acreedores a un diploma por su participación y colaboración.
 
 El salario mínimo será el que rija en la Capital del Estado.
 
@@ -87,17 +89,15 @@ El salario mínimo será el que rija en la Capital del Estado.
 
 Las propuestas deberán ser inéditas, originales, no premiadas anteriormente y enfocadas exclusivamente a la prevención de las adicciones.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 6.
 
-El Honorable Congreso del Estado, en coordinación con la Secretaría de Salud, emitirá la convocatoria respectiva a más tardar el día 15 de octubre de cada año. Darán amplia difusión al certamen y serán los encargados de la organización y seguimiento del mismo. El certamen quedará abierto a partir de la publicación de la convocatoria, cerrándose el día 31 de octubre del año correspondiente.
+El Honorable Congreso del Estado, en coordinación con la Secretaría de Salud, emitirá la convocatoria respectiva a más tardar el día 15 de octubre de cada año. Darán amplia difusión al certamen y serán los encargados de la organización y seguimiento del mismo. El certamen quedará abierto a partir de la publicación de la convocatoria, cerrándose el día 30 de noviembre del año correspondiente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 7.
 
@@ -129,6 +129,8 @@ En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los veintiocho día
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. JOSE REYES BAEZA TERRAZAS. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. LIC. SERGIO GRANADOS PINEDA. Rúbrica.
 
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
 P.O. 5 DE DICIEMBRE DE 2009.
 
 PRIMERO.- El presente Decreto entrará en vigor el primer día del mes de enero del año dos mil diez, con las modalidades que se señalan en los artículos subsecuentes.
@@ -150,3 +152,9 @@ OCTAVO.- Todos los actos, procedimientos y recursos administrativos relacionados
 NOVENO.- Las autorizaciones que se hubieren expedido con anterioridad a la fecha de entrada en vigor de las reformas a la Ley Estatal de Salud, tendrán vigencia hasta su vencimiento. Las autorizaciones que se expidan a partir de la vigencia de este Decreto, se otorgarán de acuerdo a sus disposiciones.
 
 DÉCIMO.- En tanto se expidan los Reglamentos y Normas Técnicas que se deriven de la Ley Estatal de Salud, seguirán aplicándose los Reglamentos Federales y Estatales, así como las Normas Técnicas que la Autoridad Sanitaria Federal haya expedido.
+
+P.O. 16 DE MARZO DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
