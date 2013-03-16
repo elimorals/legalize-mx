@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-ejecucion-de-penas-y-medidas-judiciales-antes-ley-de-529
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-09"
-last_updated: "2013-02-09"
+last_updated: "2013-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52982&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DE EJECUCIÓN DE PENAS Y MEDIDAS JUDICIALES
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO No. 859/2012 VII P.E., PUBLICADO EN EL P.O. 26 DE SEPTIEMBRE DE 2012, CUANDO EN CUALQUIER OTRO INSTRUMENTO JURÍDICO SE HAGA REFERENCIA A LA SECRETARÍA DE FOMENTO SOCIAL, SE ENTENDERÁ CITADA A LA SECRETARÍA DE DESARROLLO SOCIAL SIN QUE ELLO AFECTE SU COMPETENCIA, DERECHOS U OBLIGACIONES QUE HAYA CONTRAÍDO CON ANTELACIÓN A LA ENTRADA EN VIGOR DEL CITADO DECRETO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2013.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 9 de diciembre de 2006.
 
@@ -1023,7 +1023,7 @@ Tratamiento en semilibertad.
 
 El tratamiento en semilibertad comprende la alternancia de períodos de privación de la libertad y tratamiento en libertad, como una modalidad de la pena de prisión con fines laborales, educativos o de salud, que establezcan los estudios sobre personalidad que emita la Fiscalía, que conduzcan a la reinserción social y podrá consistir en:
 
-l.- Internamiento de fin de semana;
+I.- Internamiento de fin de semana;
 
 II.- Internamiento durante la semana;
 
@@ -1353,7 +1353,13 @@ I.- Que el interno haya observado durante su estancia en prisión buena conducta
 
 II.- Que participe regularmente en las actividades educativas, deportivas o de otra índole que se organicen en el establecimiento; y,
 
-III.- Que con base en los estudios de personalidad que practique el Consejo, pueda determinarse la viabilidad de su reinserción social. Este será el factor determinante para la concesión o negativa de la remisión parcial de la pena
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2013)</small>
+
+III.- Que con base en los estudios de personalidad que practique el Consejo, pueda determinarse la viabilidad de su reinserción social.
+
+> <small>(ADICIONADA, P.O. 16 DE MARZO DE 2013)</small>
+
+IV.- Que haya sido cubierta la Reparación del Daño.
 
 > <small>(REFORMADO, P.O. 7 DE MAYO DE 2011)</small>
 
@@ -1545,7 +1551,7 @@ La rehabilitación de los derechos será ordenada por el Juez de Ejecución de P
 
 ### CAPÍTULO V. CONDENA CONDICIONAL
 
-> <small>N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTICULO TERCERO DEL DECRETO NO. 298/2011 II P.O., PUBLICADO EN EL P.O. DE 7 DE MAYO DE 2011, SE MODIFICO DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE ARTICULO.</small>
+> <small>N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTÍCULO TERCERO DEL DECRETO NO. 298/2011 II P.O., PUBLICADO EN EL P.O. DE 7 DE MAYO DE 2011, SE MODIFICO DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE ARTÍCULO.</small>
 
 ###### Artículo 97.
 
@@ -1559,11 +1565,11 @@ I. La pena de prisión impuesta no exceda de tres años, ni se trate de alguno d
 
 > <small>(REFORMADA, P.O. 7 DE MAYO DE 2011)</small>
 
-Il. El beneficiado no haya cometido delito doloso en los seis años anteriores a los hechos por los cuales se le juzga.
+II. El beneficiado no haya cometido delito doloso en los seis años anteriores a los hechos por los cuales se le juzga.
 
 > <small>(REFORMADA, P.O. 7 DE MAYO DE 2011)</small>
 
-IIl. El sentenciado haya observado buena conducta durante la tramitación del proceso, incluyendo la observancia de las medidas cautelares Si el sentenciado estuvo sujeto a prisión preventiva, esta condición se acreditará con los informes que debe rendir la Fiscalía.
+III. El sentenciado haya observado buena conducta durante la tramitación del proceso, incluyendo la observancia de las medidas cautelares Si el sentenciado estuvo sujeto a prisión preventiva, esta condición se acreditará con los informes que debe rendir la Fiscalía.
 
 > <small>(ADICIONADO, P.O. 7 DE MAYO DE 2011)</small>
 
@@ -2077,7 +2083,7 @@ Modalidades en el trabajo.
 
 El trabajo que realicen los internos, dentro o fuera de los establecimientos penitenciarios, estará comprendido en alguna de las siguientes modalidades:
 
-l. Estudio y formación académica, a las que la administración penitenciaria dará carácter preferente;
+I. Estudio y formación académica, a las que la administración penitenciaria dará carácter preferente;
 
 II. Producción de bienes y servicios, mediante cooperativas o similares, de acuerdo con la legislación vigente;
 
@@ -2712,3 +2718,9 @@ Los encargados de la ejecución de todas las sentencias firmes, dictadas en proc
 ###### ARTÍCULO TERCERO.
 
 Todos los asuntos relacionados con la ejecución de penas y medidas de seguridad, que se encuentren en trámite al inicio de la entrada en vigor del presente Decreto, deberán remitirse sin dilación alguna al Juez de Ejecución de Penas al que corresponda legalmente el conocimiento de los mismos.
+
+P.O. 16 DE MARZO DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
