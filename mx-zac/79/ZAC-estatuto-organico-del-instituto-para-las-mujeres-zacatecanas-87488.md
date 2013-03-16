@@ -4,7 +4,7 @@ identifier: "ZAC-estatuto-organico-del-instituto-para-las-mujeres-zacatecanas-87
 country: "mx"
 rank: "estatuto"
 publication_date: "2012-04-18"
-last_updated: "2012-04-18"
+last_updated: "2013-03-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO PARA LAS MUJERES ZACATECANAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE LAS MUJERES, PUBLICADO EN EL P.O. DE 16 DE MARZO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Estatuto publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 18 de abril de 2012.
 
@@ -1166,3 +1168,19 @@ Tercero. Se derogan las disposiciones administrativas que contravengan este Esta
 Cuarto. Dentro del término de ciento ochenta días naturales contados a partir de la entrada en vigor del presente Estatuto Orgánico, deberán expedirse y publicarse en el Periódico Oficial, Órgano del Gobierno del Estado los manuales correspondientes.
 
 Aprobado por la Junta de Gobierno del Instituto para las Mujeres Zacatecanas, en sesión celebrada en la Ciudad de Zacatecas, Capital del Estado del mismo nombre a los dieciocho días de enero del dos mil doce.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 16 DE MARZO DE 2013.
+
+Primero.- El presente Reglamento Interior entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Segundo.- Se Abroga el Estatuto Orgánico del Instituto para las Mujeres (sic) Zacatecas, publicado en el Suplemento al Periódico Oficial, Órgano de Gobierno del Estado, número 31, de fecha 18 de abril de 2012.
+
+Tercero.- Se derogan las disposiciones que contravengan este Ordenamiento.
+
+Cuarto.- Los asuntos que se encuentren en trámite a cargo de direcciones o áreas administrativas que se modifican o cambian de adscripción, los continuará y resolverá el área administrativa que el presente Reglamento señalan como competentes.
+
+Quinto.- Cuando la competencia de alguna de las Unidades Administrativas establecidas con anterioridad a la vigencia de este Reglamento, deberá ser ejercida por otra u otras áreas que en el mismo se disponen, los recursos materiales y financieros con los que contaban y que fueren necesarios, pasarán al áreas competente, distribuyéndose en su caso, de conformidad con el ámbito de atribuciones que a cada una corresponda.
+
+Sexto.- Dentro del término de 30 días naturales, contados a partir de la entrada en vigor del presente Reglamento Interior, deberá expedirse el Manual de Organización y 180 días naturales el Manual de Procedimientos y publicarse en el Periódico Oficial, Órgano del Gobierno del Estado.
