@@ -4,7 +4,7 @@ identifier: "NAY-ley-ganadera-para-el-estado-de-nayarit-56226"
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-04"
-last_updated: "2007-07-04"
+last_updated: "2013-03-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56226&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY GANADERA PARA EL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Nayarit, el miércoles 4 de julio de 2007.
 
@@ -77,71 +77,73 @@ X. El funcionamiento de las asociaciones ganaderas legalmente constituidas y sus
 
 Quedan sujetos a esta ley, los ganaderos, comerciantes de ganado, apicultores, avicultores, las industrias pecuarias, peleteros, curtidores y toda persona que habitual o accidentalmente, efectúen actos relacionados con la ganadería, productos y subproductos; así como a las autoridades responsables de su aplicación.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2013)</small>
+
 ###### ARTÍCULO 5.
 
-Para los efectos de esta ley se entiende por:
+Para los efectos de esta ley se entiende por.
 
-Animales de peletería.- Conejos, chinchillas y martas;
+I. Animales de peletería.- Conejos, chinchillas y martas;
 
-Apicultura.- Las actividades relativas a la cría, explotación y mejoramiento genético de las abejas, así como la industrialización y comercialización de sus productos y subproductos;
+II. Apicultura.- Las actividades relativas a la cría, explotación y mejoramiento genético de las abejas, así como la industrialización y comercialización de sus productos y subproductos;
 
-Arete SINIIGA.- Dispositivo de identificación Individual que utiliza el Sistema Nacional de Identificación Individual de Ganado que se aplica en las orejas del ganado bovino cuyas especificaciones técnicas y modo de aplicación lo determinará la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación y que sirve para identificar la propiedad y origen del ganado;
+III. Arete SINIIGA.- Dispositivo de identificación Individual que utiliza el Sistema Nacional de Identificación Individual de Ganado que se aplica en las orejas del ganado bovino cuyas especificaciones técnicas y modo de aplicación lo determinará la Secretaria de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación y que sirve para identificar la propiedad y origen del ganado;
 
-Arillo de identidad.- Cinta metálica que se fija generalmente en el ala o en la pata de las aves;
+IV. Arillo de identidad.- Cinta metálica que se fija generalmente en el ala o en la pata de las aves;
 
-Asociación.- a (sic) la Asociación Ganadera local y general;
+V. Asociación.- a la Asociación Ganadera local y general;
 
-Avicultura.- La cría, reproducción, mejoramiento y explotación de las especies y variedades de aves utilizadas en la alimentación humana, así como para el aprovechamiento de sus productos y subproductos;
+VI. Avicultura.- La cría, reproducción, mejoramiento y explotación de las especies y variedades de aves utilizadas en la alimentación humana, así como para el aprovechamiento de sus productos y subproductos;
 
-Comisión.- Comisión Estatal de Fomento Ganadero;
+VII. Comisión.- Comisión Estatal de Fomento Ganadero;
 
-Criador.- Quien se dedique a la cría, reproducción y explotación de ganado de su propiedad con registro en las asociaciones de criadores respectiva;
+VIII. Criador.- Quien se dedique a la cría, reproducción y explotación de ganado de su propiedad con registro en las asociaciones de criadores respectiva;
 
-Especies diversas.- Las especies que constituyen una explotación zootécnica económica no numerada;
+IX. Especies diversas.- Las especies que constituyen una explotación zootécnica económica no numerada;
 
-Fierro.- Instrumento para marcar el ganado;
+X. Fierro.- Instrumento para marcar el ganado;
 
-Ganadero.- Toda persona física o moral que se dedique a la producción, reproducción, cría, engorda o comercialización de cualquier especie animal explotable;
+XI. Ganadero.- Toda persona física o moral que se dedique a la producción, reproducción, cría, engorda o comercialización de cualquier especie animal explotable;
 
-Ganado diversificado.- Avestruces, ñandú, venados, aves exóticas, etc.;
+XII. Ganado diversificado.- Avestruces, ñandú, venados, aves exóticas, etc.;
 
-Ganado Mayor.- Bovino y Equino;
+XIII. Ganado Mayor.- Bovino y Equino;
 
-Ganado Menor.- Ovinos, caprinos y Porcinos;
+XIV. Ganado Menor.- Ovinos, caprinos y Porcinos;
 
-Identificación electrónica.- Elemento electromagnético que se implanta en vía subcutánea en el animal y contiene los datos de identidad del mismo y del dueño;
+XV. Identificación electrónica.- Elemento electromagnético que se implanta en vía subcutánea en el animal y contiene los datos de identidad del mismo y del dueño;
 
-Inspector.- Inspector Auxiliar de Ganadería;
+XVI. Inspector.- Inspector Auxiliar de Ganadería;
 
-Marca.- Dibujo que se graba en el cuarto trasero izquierdo del ganado conocido también como lado del criador, con fuego, pintura indeleble, ácido corrosivo o en frío;
+XVII. Marca.- Dibujo que se graba en el cuarto trasero izquierdo del ganado conocido también como lado del criador, con fuego, pintura indeleble, ácido corrosivo o en frío;
 
-Mostrenquero.- Persona que se encarga del cuidado de los animales mostrencos;
+XVIII. Mostrenquero.- Persona que se encarga del cuidado de los animales mostrencos;
 
-Movilización.- Embarque, transporte o arreo de animales y cambio de agostadero, así como el transporte de productos, subproductos y desechos de origen animal, cuyo desplazamiento se haga hacia el interior o exterior del Estado, de un municipio a otro, así como de un ejido o comunidad a otra;
+XIX. Movilización.- Embarque, transporte o arreo de animales y cambio de agostadero, así como el transporte de productos, subproductos y desechos de origen animal, cuyo desplazamiento se haga hacia el interior o exterior del Estado, de un municipio a otro, así como de un ejido o comunidad a otra;
 
-NOM´s.- Normas Oficiales Mexicanas;
+XX. NOM's.- Normas Oficiales Mexicanas;
 
-Orejano.- Animal sin ninguna marca o señal que permita identificar a su propietario;
+XXI. Orejano.- Animal sin ninguna marca o señal que permita identificar a su propietario;
 
-Productor diversificado.- Toda persona física o moral que (Quien perteneciendo a alguno de los anteriores) utiliza sus instalaciones o terreno con actividades de tipo cinegético, ecológico, educativo o turístico;
+XXII. Productor diversificado.- Toda persona física o moral que (Quien perteneciendo a alguno de los anteriores) utiliza sus instalaciones o terreno con actividades de tipo cinegético, ecológico, educativo o turístico;
 
-Recuentos, corridas o realeos.- La reunión que el ganadero hace del ganado que se encuentra dentro de su propiedad, con fines propios de la actividad pecuaria;
+XXIII. Recuentos, corridas o realeos.- La reunión que el ganadero hace del ganado que se encuentra dentro de su propiedad, con fines propios de la actividad pecuaria;
 
-SEDER.- Secretaría de Desarrollo Rural;
+XXIV. Secretaría.- Secretaría de Agricultura, Ganadería, Desarrollo Rural y Pesca;
 
-Señal de Sangre.- Cortadas, incisiones o perforaciones que se hacen en las orejas o pliegues naturales del ganado;
+XXV. Señal de Sangre.- Cortadas, incisiones o perforaciones que se hacen en las orejas o pliegues naturales del ganado;
 
-SINIIGA.- Sistema Nacional de Identificación Individual de Ganado;
+XXVI. SINIIGA.- Sistema Nacional de Identificación Individual de Ganado;
 
-Tarjeta SINIIGA.- Documento que contiene la clave del arete SINIIGA y toda la información relativa al animal en forma individual referente a la propiedad, origen, fecha de nacimiento, características genealógicas, de movilización, nombre del propietario y otras características que apruebe la SEDER;
+XXVII. Tarjeta SINIIGA.- Documento que contiene la clave del arete SINIIGA y toda la información relativa al animal en forma individual referente a la propiedad, origen, fecha de nacimiento, características genealógicas, de movilización, nombre del propietario y otras características que apruebe la Secretaría;
 
-Tatuajes.- La impresión de dibujos, letras o números indelebles en la oreja, belfos o pliegue inguinal;
+XXVIII. Tatuajes.- La impresión de dibujos, letras o números indelebles en la oreja, belfos o pliegue inguinal;
 
-Terrenos de agostadero.- Los cubiertos con vegetación nativa o mejorada, constituye fuente de forraje para el pastoreo extensivo de animales domésticos y fauna silvestre y que por su naturaleza, ubicación, potencial y aptitud, no son susceptibles de explotación agrícola;
+XXIX. Terrenos de agostadero.- Los cubiertos con vegetación nativa o mejorada, constituye fuente de forraje para el pastoreo extensivo de animales domésticos y fauna silvestre y que por su naturaleza, ubicación, potencial y aptitud, no son susceptibles de explotación agrícola;
 
-Unión.- a (sic) la Unión Ganadera Regional;
+XXX. Unión.- a la Unión Ganadera Regional, y
 
-Vías pecuarias.- Los caminos, veredas y en general todas las rutas establecidas por la costumbre, que siguen los ganados para llegar a los abrevaderos de uso común, a los embarcaderos, y en general las que siguen en su movilización de una zona ganadera a otra o bien a los centros de acopio, sacrificio y consumo.
+XXXI. Vías pecuarias.- Los caminos, veredas y en general todas las rutas establecidas por la costumbre, que siguen los ganados para llegar a los abrevaderos de uso común, a los embarcaderos, y en general las que siguen en su movilización de una zona ganadera a otra o bien a los centros de acopio, sacrificio y consumo.
 
 ###### ARTÍCULO 6.
 
@@ -163,7 +165,9 @@ V. Ley Municipal del Estado de Nayarit.
 
 Son competentes para aplicar esta ley:
 
-I. El Titular del Poder Ejecutivo por conducto de la SEDER, y demás dependencias en el ámbito de sus respectivas competencias;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2013)</small>
+
+I. El Titular del Poder Ejecutivo por conducto de la Secretaría, y demás dependencias en el ámbito de sus respectivas competencias;
 
 II. La autoridad municipal correspondiente;
 
@@ -229,9 +233,11 @@ XVII. Las demás que ésta y otras disposiciones legales establezcan.
 
 La Comisión es un órgano de naturaleza consultiva y tiene como propósito coadyuvar en la realización de planes y programas para el desarrollo de la ganadería.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2013)</small>
+
 ###### ARTÍCULO 11.
 
-La Comisión será presidida por el Secretario de la SEDER y de ella formarán parte las instituciones y dependencias del sector público y privado, organismos científicos, educativos y organizaciones que tengan injerencia en el subsector pecuario.
+La Comisión será presidida por el Titular de la Secretaría y de ella formarán parte las instituciones y dependencias del sector público y privado, organismos científicos, educativos y organizaciones que tengan injerencia en el subsector pecuario.
 
 ###### ARTÍCULO 12.
 
@@ -303,9 +309,13 @@ IX. Representar ante las autoridades administrativas y judiciales los intereses 
 
 X. Procurar la transformación e industrialización de los productos pecuarios, así como fomentar: empacadoras, pasteurizadoras, frigoríficos, peleterías, etc.;
 
-XI. Coadyuvar con la SEDER en la elaboración, implementación y ejecución de programas ganaderos;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2013)</small>
 
-XII. Registrarse ante la SEDER, con el acta constitutiva correspondiente, y proporcionar la información actualizada del número de miembros que la integran, el censo ganadero, así como todo lo demás relacionado con su actividad;
+XI. Coadyuvar con la Secretaría en la elaboración, implementación y ejecución de programas ganaderos;
+
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2013)</small>
+
+XII. Registrarse ante la Secretaría, con el acta constitutiva correspondiente, y proporcionar la información actualizada del número de miembros que la integran, el censo ganadero, así como todo lo demás relacionado con su actividad;
 
 XIII. Vigilar el cumplimiento de las disposiciones en materia de sanidad animal e intervenir en los casos que ésta u otras señalen; y
 
@@ -314,6 +324,12 @@ XIV. Participar en cualquier actividad que contemple el mejoramiento de las cond
 ###### ARTÍCULO 18.
 
 El Gobierno del Estado destinará apoyos específicos con recursos de los diversos programas que ejecute en beneficio de la ganadería del Estado.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2013)</small>
+
+ARTÍCULO 18 BIS.- Todo ganadero de la entidad de escasos recursos económicos que sea jefe de familia, tendrá derecho al otorgamiento de un seguro de vida, según lo disponga el Reglamento.
+
+En todo caso, para el otorgamiento de este apoyo, se tomará en cuenta la disponibilidad presupuestal, la gradualidad en su implementación, así como el acreditamiento de la calidad de ganadero en términos de las Reglas de Operación que al efecto emita la Secretaría, conforme al Reglamento de esta Ley.
 
 ## TÍTULO TERCERO. DE LA ORGANIZACIÓN, MANEJO Y EXPLOTACIÓN PECUARIA
 
@@ -349,11 +365,13 @@ En caso de que el criador de ganado de registro, encontrare dentro de sus terren
 
 Los dueños de los terrenos debidamente acotados en que encuentren animales ajenos, tienen derecho a encerrarlos en los corrales de sus fincas, avisando al inspector o a la autoridad municipal para levantar constancia de hechos y al propietario para que se presente a recogerlos y pagar las pasturas que hubieren consumido. Si dentro de las cuarenta y ocho horas siguientes al momento en que haya dado el aviso, no se presentare el dueño o encargado a reclamarlos, el propietario del terreno afectado remitirá los animales al depósito de mostrencos, para que se proceda de acuerdo con las disposiciones de esta ley.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2013)</small>
+
 ###### ARTÍCULO 24.
 
-El Inspector podrá inspeccionar cualquier predio ganadero, ya sea particular o ejidal, así como efectuar los recuentos y realeos de ganado que ordene la SEDER o sean solicitados por la Unión o Asociaciones, previo aviso al poseedor del terreno.
+El Inspector podrá inspeccionar cualquier predio ganadero, ya sea particular o ejidal, así como efectuar los recuentos y realeos de ganado que ordene la Secretaría o sean solicitados por la Unión o Asociaciones, previo aviso al poseedor del terreno.
 
-Una vez llevado a cabo el realeo, se comunicará a la SEDER el número total de cabezas que fueron objeto del mismo, detallando la especie, raza, arete, tatuaje, sexo y fierros con que están marcados. En caso de encontrarse ganado extraño o que sobrepase la carga animal óptima, se procederá a sancionar al infractor.
+Una vez llevado a cabo el realeo, se comunicará a la Secretaría el número total de cabezas que fueron objeto del mismo, detallando la especie, raza, arete, tatuaje, sexo y fierros con que están marcados. En caso de encontrarse ganado extraño o que sobrepase la carga animal óptima, se procederá a sancionar al infractor.
 
 ###### ARTÍCULO 25.
 
@@ -365,9 +383,11 @@ a) Que se acredite con documentación legal o previo acreditamiento de la legít
 
 b) Se cubra el pago de gastos y multa que determine la autoridad competente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2013)</small>
+
 ###### ARTÍCULO 26.
 
-En los recuentos y realeos de ganado que realice el Inspector, ordenará y vigilará la separación de los ganados ajenos al predio en que se está efectuando el realeo y cuya legal tenencia o permanencia no sea acreditada, poniéndolos a disposición de la autoridad municipal. Asimismo, comunicará a la Unión, a la Asociación y a la SEDER, de los animales con marcas desconocidas, y aquellos cuyas marcas o señales estén desfiguradas y de los recientemente herrados, si no se encuentran al lado de su madre, a menos que se compruebe su posesión legal.
+En los recuentos y realeos de ganado que realice el Inspector, ordenará y vigilará la separación de los ganados ajenos al predio en que se está efectuando el realeo y cuya legal tenencia o permanencia no sea acreditada, poniéndolos a disposición de la autoridad municipal. Asimismo, comunicará a la Unión, a la Asociación y a la Secretaría, de los animales con marcas desconocidas, y aquellos cuyas marcas o señales estén desfiguradas y de los recientemente herrados, si no se encuentran al lado de su madre, a menos que se compruebe su posesión legal.
 
 De cada inspección, recuento o realeo que realice el Inspector, levantará acta asentando las incidencias de su actuación, misma que firmará junto con el poseedor del predio. Si éste se niega a firmar, el inspector asentará los motivos de su negativa.
 
@@ -443,9 +463,11 @@ III. Cuando se trate de un predio ganadero en zona agrícola, el propietario del
 
 IV. En caso de un arrendador de un potrero para el aprovechamiento de esquilmos en zonas agrícolas, será responsabilidad del dueño del ganado, los daños que se ocasionen a terceros.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2013)</small>
+
 ###### ARTÍCULO 40.
 
-Esta prohibido el pastoreo de ganado, en parques, áreas de recreo, áreas de uso y tránsito público, tales como: boulevares, calles, carreteras y caminos vecinales, en caso de violación a lo antes expresado, le corresponderá al inspector o a la autoridad municipal asegurar dichos animales, avisar a su dueño y dar parte a la SEDER para que aplique la multa correspondiente.
+Está prohibido el pastoreo de ganado, en parques, áreas de recreo, áreas de uso y tránsito público, tales como: boulevares, calles, carreteras y caminos vecinales, en caso de violación a lo antes expresado, le corresponderá al inspector o a la autoridad municipal asegurar dichos animales, avisar a su dueño y dar parte a la Secretaría para que aplique la multa correspondiente.
 
 ###### ARTÍCULO 41.
 
@@ -471,13 +493,17 @@ III. Pradera: cuando el agostadero ha sido creado mediante la siembra y cultivo 
 
 La Comisión, dando prioridad a la producción estatal, propondrá las medidas necesarias tendientes a garantizar las necesidades del consumo y autenticidad de la leche y sus derivados en el Estado.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2013)</small>
+
 ###### ARTÍCULO 45.
 
-El Gobierno del Estado a través de la SEDER, controlará, vigilará y registrará las explotaciones, distribuidores e industrias lecheras foráneas y locales para garantizar y coadyuvar en el cumplimiento de la NOM vigente en la materia.
+El Gobierno del Estado a través de la Secretaria, controlará, vigilará y registrará las explotaciones, distribuidores e industrias lecheras foráneas y locales para garantizar y coadyuvar en el cumplimiento de la NOM vigente en la materia.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 46.
 
-Para llevar el control y vigilancia a que se refiere el artículo anterior, la SEDER, está facultada para expedir los permisos de introducción de leche y sus derivados, quedando obligados todos los introductores de los mismos, a solicitar por escrito, las autorizaciones correspondientes, mismos que deberán renovarse cada quince días, cualquier omisión a lo aquí prescrito dará lugar a sancionar al infractor.
+Para llevar el control y vigilancia a que se refiere el artículo anterior, la Secretaría, está facultada para expedir los permisos de introducción de leche y sus derivados, quedando obligados todos los introductores de los mismos, a solicitar por escrito, las autorizaciones correspondientes, mismos que deberán renovarse cada quince días, cualquier omisión a lo aquí prescrito dará lugar a sancionar al infractor.
 
 ###### ARTÍCULO 47.
 
@@ -487,9 +513,11 @@ La Comisión, podrá participar en la vigilancia y control de la leche y sus der
 
 Se prohíbe todo tipo de explotaciones pecuarias dentro de los centros de población.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2013)</small>
+
 ###### ARTÍCULO 49.
 
-La SEDER y la Comisión, promoverán el establecimiento de explotaciones, plantas pasteurizadoras e infraestructura de apoyo para impulsar el desarrollo de esta actividad económica a favor de los ganaderos.
+La Secretaría y la Comisión, promoverán el establecimiento de explotaciones, plantas pasteurizadoras e infraestructura de apoyo para impulsar el desarrollo de esta actividad económica a favor de los ganaderos.
 
 ###### ARTÍCULO 50.
 
@@ -499,9 +527,11 @@ Con el objeto de preservar la salud pública, toda explotación lechera deberá 
 
 Los establos que cuenten con más de 50 vientres de ordeña, deberán contar con un Médico Veterinario responsable, para los efectos y cumplimientos de las leyes sanitarias y su reglamento.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2013)</small>
+
 ###### ARTÍCULO 52.
 
-Para los efectos del artículo anterior, el médico veterinario zootecnista responsable de la explotación deberá acreditarse ante la SEDER, para cumplir y hacer cumplir con lo enunciado en la presente ley.
+Para los efectos del artículo anterior, el médico veterinario zootecnista responsable de la explotación deberá acreditarse ante la Secretaría, para cumplir y hacer cumplir con lo enunciado en la presente ley.
 
 ### CAPÍTULO VI. GANADERÍA DIVERSIFICADA O ALTERNATIVA
 
@@ -509,9 +539,11 @@ Para los efectos del artículo anterior, el médico veterinario zootecnista resp
 
 Se considera como productor de ganadería diversificada o alternativa, para los efectos de esta ley, a la persona física o moral que se dedique a la cría y explotación de especies como avestruces, venados, aves exóticas, y al aprovechamiento de sus productos y sea propietario de diez o más animales.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2013)</small>
+
 ###### ARTÍCULO 54.
 
-En lo referente a productores de ganadería alternativa y diversificada, tendrán la obligación de registrarse ante la SEDER aportando datos como: nombre del propietario, ubicación tipo y sistema de explotación, superficie e infraestructura, raza y tipo de ganado registrado, fierros marcas, señal de sangre, aretes, tatuajes y cualquier otro medio de identificación, declarando la fecha de inscripción y demás datos que caracterizan los registros; dicha dependencia dará aviso a la asociación ganadera correspondiente.
+En lo referente a productores de ganadería alternativa y diversificada, tendrán la obligación de registrarse ante la Secretaría aportando datos como: nombre del propietario, ubicación tipo y sistema de explotación, superficie e infraestructura, raza y tipo de ganado registrado, fierros marcas, señal de sangre, aretes, tatuajes y cualquier otro medio de identificación, declarando la fecha de inscripción y demás datos que caracterizan los registros; dicha dependencia dará aviso a la asociación ganadera correspondiente.
 
 ### CAPÍTULO VII. DE LA APICULTURA
 
@@ -519,9 +551,11 @@ En lo referente a productores de ganadería alternativa y diversificada, tendrá
 
 Se considera como apicultor para los efectos de esta Ley, a la persona física o moral que se dedique a la cría y explotación de abejas y al aprovechamiento de sus productos y sea propietario de diez o más colmenas.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2013)</small>
+
 ###### ARTÍCULO 56.
 
-Todo apicultor está obligado a registrar su actividad y una marca de herrar ante la SEDER. Las autoridades del Estado apoyarán a los productores en las gestiones que realicen ante la federación a fin de que se incluya a la apicultura en los programas de fomento de los procesos de producción, comercialización e industrialización de sus productos.
+Todo apicultor está obligado a registrar su actividad y una marca de herrar ante la Secretaría. Las autoridades del Estado apoyarán a los productores en las gestiones que realicen ante la federación a fin de que se incluya a la apicultura en los programas de fomento de los procesos de producción, comercialización e industrialización de sus productos.
 
 ###### ARTÍCULO 57.
 
@@ -559,9 +593,11 @@ Las facturas que amparen la propiedad de segundas o terceras personas serán exp
 
 La propiedad de las pieles se acredita con la declaración de sacrificio firmada por el médico veterinario o el administrador del rastro y previa cancelación de la factura, la cual deberá conservarse en la administración del rastro; la declaración quedará en posesión del propietario del animal sacrificado. En caso de haberse sacrificado en el campo, deberá acreditarse para su venta o transporte con la autorización por escrito del inspector.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2013)</small>
+
 ###### ARTÍCULO 61.
 
-Están obligados a registrarse ante las autoridades municipales correspondientes; los comerciantes, dueños de saladeros y curtidurías dedicadas a la industrialización de pieles y no podrán adquirir los productos sin que previamente se recabe la documentación correspondiente; la autoridad notificará a la SEDER la apertura de tales establecimientos.
+Están obligados a registrarse ante las autoridades municipales correspondientes; los comerciantes, dueños de saladeros y curtidurías dedicadas a la industrialización de pieles y no podrán adquirir los productos sin que previamente se recabe la documentación correspondiente; la autoridad notificará a la Secretaría la apertura de tales establecimientos.
 
 ### CAPÍTULO II. MARCA DEL GANADO
 
@@ -569,13 +605,17 @@ Están obligados a registrarse ante las autoridades municipales correspondientes
 
 Todos los dueños de ganado tienen la obligación de herrar, marcar, señalar, tatuar, poner anillo, aretes SINIIGA o cualquier identificación para justificar su propiedad, a los animales que por costumbre no se les realice tal práctica, deberá justificarse con la tarjeta de identificación a la que se refiere el artículo 58 fracción II de ésta ley.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2013)</small>
+
 ###### ARTÍCULO 63.
 
-Para registrar un fierro, marca, señal de sangre, registro electrónico, tatuaje o tarjeta de identificación, se presentará solicitud acompañada de los requisitos correspondientes ante la SEDER. Cada solicitud deberá acompañarse con tres dibujos posibles con el fin de cotejarse con los ya existentes y evitar repetirlos.
+Para registrar un fierro, marca, señal de sangre, registro electrónico, tatuaje o tarjeta de identificación, se presentará solicitud acompañada de los requisitos correspondientes ante la Secretaría. Cada solicitud deberá acompañarse con tres dibujos posibles con el fin de cotejarse con los ya existentes y evitar repetirlos.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 64.
 
-La SEDER, llevará un registro general de los fierros por orden de municipios en el que se anotará un diseño de los mismos incluyendo nombre, asiento de producción, domicilio de los dueños, fecha de alta y número de registro; de igual manera, cada Asociación mantendrá, un registro vigente de los correspondientes a su jurisdicción.
+La Secretaría, llevará un registro general de los fierros por orden de municipios en el que se anotará un diseño de los mismos incluyendo nombre, asiento de producción, domicilio de los dueños, fecha de alta y número de registro; de igual manera, cada Asociación mantendrá, un registro vigente de los correspondientes a su jurisdicción.
 
 ###### ARTÍCULO 65.
 
@@ -593,9 +633,11 @@ Queda estrictamente prohibido herrar con plancha, alambre, gancho, argolla y fie
 
 Todos los fierros o identificaciones correspondientes deberán ser registrados por los interesados o sus representantes dentro del término de 30 días naturales siguientes a la fecha en que se establezca su negocio.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2013)</small>
+
 ###### ARTÍCULO 69.
 
-La expedición de los títulos de fierro de herrar los realizará la SEDER, previa solicitud presentada por el ganadero.
+La expedición de los títulos de fierro de herrar los realizará la Secretaría, previa solicitud presentada por el ganadero.
 
 ###### ARTÍCULO 70.
 
@@ -615,9 +657,11 @@ Todos (sic) las autoridades municipales deberán tener registrado su título de 
 
 ### CAPÍTULO III. CANCELACIÓN Y TRASPASOS DE LOS TÍTULOS DE FIERRO DE HERRAR
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2013)</small>
+
 ###### ARTÍCULO 74.
 
-La SEDER, de oficio o a petición de (sic) interesado y previa audiencia del perjudicado, cancelará los títulos de marca de herrar, señal de sangre, tatuaje o cualquier otro medio de identificación de la propiedad del ganado en los casos siguientes:
+La Secretaría, de oficio o a petición de interesado y previa audiencia del perjudicado, cancelará los títulos de marca de herrar, señal de sangre, tatuaje o cualquier otro medio de identificación de la propiedad del ganado en los casos siguientes:
 
 I. Luego de dos periodos normales sin revalidar;
 
@@ -637,9 +681,11 @@ Lo previsto en las (sic) fracción V sin perjuicio de la sanción que esta ley e
 
 Quien use una marca de herrar o medio de identificación de la cual no sea su titular, para marcar o señalar ganado propio o ajeno, se hará acreedor a las sanciones previstas en esta ley, sin perjuicio de la imposición de otro tipo de sanciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2013)</small>
+
 ###### ARTÍCULO 76.
 
-Los traspasos de título de fierro de herrar que realicen los dueños de los mismos a otra persona se harán por escrito ante la SEDER para su registro.
+Los traspasos de título de fierro de herrar que realicen los dueños de los mismos a otra persona se harán por escrito ante la Secretaría para su registro.
 
 Las personas que careciendo de título de fierro de herrar, adquieran la totalidad o la mayoría del ganado, marcado o señalado conforme a un título, con el fin de dedicarse a la ganadería tendrán preferencia para solicitar tal registro, conforme lo establecido en esta ley.
 
@@ -647,9 +693,11 @@ Las personas que careciendo de título de fierro de herrar, adquieran la totalid
 
 En todo traspaso, cambio de titular, cambio de domicilio, de figura, de tatuaje, señal de sangre o cuando se extravíe el título original se expedirá uno nuevo con el correspondiente pago que genere.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2013)</small>
+
 ###### ARTÍCULO 78.
 
-El propietario que quiera cancelar su título de fierro de herrar deberá hacerlo por escrito ante la SEDER haciendo constar que no existen animales de su propiedad que ostenten tal marca, lo cual deberá ser validado por el inspector.
+El propietario que quiera cancelar su título de fierro de herrar deberá hacerlo por escrito ante la Secretaría haciendo constar que no existen animales de su propiedad que ostenten tal marca, lo cual deberá ser validado por el inspector.
 
 ###### ARTÍCULO 79.
 
@@ -669,19 +717,25 @@ Se consideran mostrencos, los animales abandonados, orejanos, los perdidos cuyo 
 
 También se consideran mostrencos, los animales que se encuentren pastando en las áreas verdes de las ciudades, poblaciones, el derecho de vía de las carreteras, vías del ferrocarril con excepción de los callejones de acceso a terrenos de labor o terrenos de pastoreo, siempre que no estén vigilados por sus dueños.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2013)</small>
+
 ###### ARTÍCULO 83.
 
-La autoridad municipal controlará y aprobará a los mostrenqueros, quienes serán propuestos en asamblea por los ganaderos de cada localidad, lo cual deberá notificarse a la SEDER, quien llevará el registro en el Estado.
+La autoridad municipal controlará y aprobará a los mostrenqueros, quienes serán propuestos en asamblea por los ganaderos de cada localidad, lo cual deberá notificarse a la Secretaría, quien llevará el registro en el Estado.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 84.
 
-La autoridad municipal tiene la obligación de indagar la identificación de los animales considerados como mostrencos, para lo cual, solicitará a la SEDER revise el libro de registros estatal; cuando sea posible identificar al dueño se le notificará que pase a recogerlo en un plazo no mayor de 5 días. El dueño estará obligado a pagar los gastos correspondientes.
+La autoridad municipal tiene la obligación de indagar la identificación de los animales considerados como mostrencos, para lo cual, solicitará a la Secretaría revise el libro de registros estatal; cuando sea posible identificar al dueño se le notificará que pase a recogerlo en un plazo no mayor de 5 días. El dueño estará obligado a pagar los gastos correspondientes.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 85.
 
-En caso de no obtenerse la identificación a que se refiere el artículo anterior, la autoridad municipal o la SEDER, darán aviso a las autoridades circunvecinas y a la Asociación en la que estén registrados los ganaderos, adjuntándoles la reseña de los animales a efecto de que, en un plazo no mayor de ocho días informen si pueden o no hacer la identificación.
+En caso de no obtenerse la identificación a que se refiere el artículo anterior, la autoridad municipal o la Secretaría, darán aviso a las autoridades circunvecinas y a la Asociación en la que estén registrados los ganaderos, adjuntándoles la reseña de los animales a efecto de que, en un plazo no mayor de ocho días informen si pueden o no hacer la identificación.
 
-En el caso de no encontrase dueño; se procederá conforme a lo dispuesto por el artículo 765 del Código Civil del Estado de Nayarit.
+En el caso de no encontrarse dueño; se procederá conforme a lo dispuesto por el artículo 765 del Código Civil del Estado de Nayarit.
 
 ###### ARTÍCULO 86.
 
@@ -695,9 +749,11 @@ El legítimo propietario tendrá un plazo de 5 días posteriores a la venta para
 
 Las ventas que se realicen, deberán ser en efectivo y en una sola exhibición, debiendo marcar los animales con el fierro de herrar del municipio, extendiendo la autoridad municipal la factura correspondiente debidamente autorizada por el inspector.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2013)</small>
+
 ###### ARTÍCULO 89.
 
-Realizada la venta se levantará acta en original y tres copias, asentándose la fecha, el lugar, la hora, nombre y puesto de los participantes, compradores y reseña de los animales. El acta y las copias deberán firmarlas los asistentes con sello de la Presidencia Municipal y del inspector, las copias se enviarán: a la SEDER, a la Asociación correspondiente y al adquiriente del ganado.
+Realizada la venta se levantará acta en original y tres copias, asentándose la fecha, el lugar, la hora, nombre y puesto de los participantes, compradores y reseña de los animales. El acta y las copias deberán firmarlas los asistentes con sello de la Presidencia Municipal y del inspector, las copias se enviarán: a la Secretaría, a la Asociación correspondiente y al adquiriente del ganado.
 
 ###### ARTÍCULO 90.
 
@@ -705,9 +761,11 @@ Queda prohibido a las autoridades estatales, municipales o sus representantes as
 
 Toda venta hecha en contravención a lo dispuesto en este artículo, será nula de pleno derecho, sin declaración judicial. La infracción dará lugar al fincamiento de la responsabilidad correspondiente.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2013)</small>
+
 ###### ARTÍCULO 91.
 
-La autoridad municipal llevará un libro de registro de los animales mostrencos vendidos en donde se asentarán los datos relativos a los semovientes tales como: lugar donde se encontraron los animales, persona que los reportó, fecha de venta, especies, edad aproximada, sexo, color, raza, marcas y señales si los tuviese, nombre de los compradores y precio de su venta. De lo anterior deberá enviar copia a la SEDER, quien tendrá a su cargo el registro estatal.
+La autoridad municipal llevará un libro de registro de los animales mostrencos vendidos en donde se asentarán los datos relativos a los semovientes tales como: lugar donde se encontraron los animales, persona que los reportó, fecha de venta, especies, edad aproximada, sexo, color, raza, marcas y señales si los tuviese, nombre de los compradores y precio de su venta. De lo anterior deberá enviar copia a la Secretaría, quien tendrá a su cargo el registro estatal.
 
 ###### ARTÍCULO 92.
 
@@ -721,7 +779,9 @@ a) En la fecha y hora que se señale en el edicto, se realizará la venta y adju
 
 b) Del sobrante se entregará un 25% al que lo hubiere entregado;
 
-c) En caso de que el legítimo propietario no reclame su derecho de propiedad en el plazo que refiere el artículo 87, ésta cantidad se entregará a la SEDER y a la Asociación correspondiente en partes iguales.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2013)</small>
+
+c) En caso de que el legitimo propietario no reclame su derecho de propiedad en el plazo que refiere el artículo 87, ésta cantidad se entregará a la Secretaría y a la Asociación correspondiente en partes iguales.
 
 ###### ARTÍCULO 94.
 
@@ -773,11 +833,13 @@ VII. Los demás casos en los que se requiera.
 
 ### CAPÍTULO II. LOS INSPECTORES
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2013)</small>
+
 ###### ARTÍCULO 98.
 
-La SEDER para mantener el control de la actividad ganadera dentro del Estado, previa convocatoria emitida por ésta, acreditará inspectores a propuesta de los ganaderos de la localidad, los que tendrán carácter de honoríficos.
+La Secretaría para mantener el control de la actividad ganadera dentro del Estado, previa convocatoria emitida por ésta, acreditará inspectores a propuesta de los ganaderos de la localidad, los que tendrán carácter de honoríficos.
 
-Por cada inspector propietario habrá un suplente. Su competencia será únicamente en la localidad a la que se encuentren adscritos y quedarán bajo el control de la SEDER.
+Por cada inspector propietario habrá un suplente. Su competencia será únicamente en la localidad a la que se encuentren adscritos y quedarán bajo el control de la Secretaría.
 
 ###### ARTÍCULO 99.
 
@@ -791,7 +853,9 @@ III. No tener antecedentes penales;
 
 IV. No ser tablajero, introductor, acopiador o comerciante en ganado por sí o por interpósita persona;
 
-V. Contar con escolaridad mínima de primaria, acreditando ante la SEDER los conocimientos necesarios; y
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2013)</small>
+
+V. Contar con escolaridad mínima de primaria, acreditando ante la Secretaría los conocimientos necesarios; y
 
 VI. No ser directivo de uniones o asociaciones.
 
@@ -801,7 +865,9 @@ Son facultades y obligaciones de los inspectores:
 
 I. Inspeccionar el ganado y las explotaciones ganaderas que se lleven a cabo en la localidad de su jurisdicción;
 
-II. Reportar a la SEDER, las irregularidades o problemas que observe en las actividades pecuarias, como la posible comisión del delito de abigeato, la aparición de epizootias y de otras enfermedades contagiosas que se presenten en la región;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2013)</small>
+
+II. Reportar a la Secretaria, las irregularidades o problemas que observe en las actividades pecuarias, como la posible comisión del delito de abigeato, la aparición de epizootias y de otras enfermedades contagiosas que se presenten en la región;
 
 III. Inspeccionar las pieles que sean trasladadas de un lugar a otro, exigiendo los documentos que comprueben su legal procedencia;
 
@@ -815,7 +881,9 @@ VII. Verificar que el sacrificio de ganado se realice en rastros o establecimien
 
 VIII. Inspeccionar, constatar, certificar, y dejar en depósito los animales mostrencos y dar fe de los remates o ventas de tales animales;
 
-IX. Dar aviso a la SEDER o autoridades sanitarias competentes más cercanas de la sospecha o aparición de cualquier enfermedad y condiciones que pongan en riesgo la salud pública y la sanidad animal en su área de influencia;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2013)</small>
+
+IX. Dar aviso a la Secretaría o autoridades sanitarias competentes más cercanas de la sospecha o aparición de cualquier enfermedad y condiciones que pongan en riesgo la salud pública y la sanidad animal en su área de influencia;
 
 X. Ejecutar y dar a conocer las medidas que sean acordadas por las autoridades competentes con el objeto de evitar el comercio ilícito del ganado, sus productos y subproductos;
 
@@ -831,7 +899,9 @@ XV. Intervenir conciliando, en los conflictos que se presenten en las diversas a
 
 XVI. Vigilar el estricto cumplimiento de la presente ley y su reglamento, dando aviso inmediato a las autoridades competentes de las violaciones o faltas que se cometan;
 
-XVII. Levantar anualmente el padrón de productores e inventario ganadero correspondiente y entregarlo a la SEDER y organizaciones de ganaderos legalmente registradas que lo requieran;
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2013)</small>
+
+XVII. Levantar anualmente el padrón de productores e inventario ganadero correspondiente y entregarlo a la Secretaría y organizaciones de ganaderos legalmente registradas que lo requieran;
 
 XVIII. Cuando se trasmita el derecho de propiedad del ganado, deberá de exigir se expida el certificado de inspección legal, factura fiscal, guía de tránsito y trasmitir la tarjeta de identidad SINIIGA, que amparen la traslación de dominio de semoviente; y
 
@@ -873,9 +943,11 @@ Las guías de tránsito y los certificados de inspección legal deberán contene
 
 Para la expedición de certificados zoosanitarios y permisos de movilización fuera del Estado, se requiere que el propietario presente ante el Centro de Certificación Zoosanitaria los certificados de inspección legal, en original, que ampare la legal procedencia del ganado, sus productos y subproductos.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2013)</small>
+
 ###### ARTÍCULO 108.
 
-Toda especie, productos y subproductos que provengan de otra entidad federativa o del extranjero para su comercialización en el Estado, deberán acompañarse con la documentación que acredite la propiedad y haberse cumplido con los requisitos del lugar de procedencia; así mismo, sus propietarios están obligados a cumplir, ante la SEDER, con los requisitos de la presente ley para obtener la autorización de introducción al Estado, la que se expedirá para efectos de control.
+Toda especie, productos y subproductos que provengan de otra entidad federativa o del extranjero para su comercialización en el Estado, deberán acompañarse con la documentación que acredite la propiedad y haberse cumplido con los requisitos del lugar de procedencia; así mismo, sus propietarios están obligados a cumplir, ante la Secretaría, con los requisitos de la presente ley para obtener la autorización de introducción al Estado, la que se expedirá para efectos de control.
 
 ###### ARTÍCULO 109.
 
@@ -933,9 +1005,11 @@ Las personas físicas y/o colectivas que se dediquen a comercializar, almacenar 
 
 ### CAPÍTULO I. SACRIFICIO DEL GANADO
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2013)</small>
+
 ###### ARTÍCULO 121.
 
-Para efectos de inspección y vigilancia ganadera, la SEDER, llevará el registro de los rastros que funcionan en el Estado, así como de sus condiciones sanitarias.
+Para efectos de inspección y vigilancia ganadera, la Secretaría, llevará el registro de los rastros que funcionan en el Estado, así como de sus condiciones sanitarias.
 
 ###### ARTÍCULO 122.
 
@@ -967,9 +1041,11 @@ Los administradores de los rastros están obligados a llevar un libro autorizado
 
 Los libros de registros de los rastros y empacadoras, podrán ser revisados en cualquier tiempo por la autoridad municipal o por los inspectores, pudiendo hacer cualquiera de ellos las gestiones que procedan para remediar las irregularidades.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2013)</small>
+
 ###### ARTÍCULO 129.
 
-La autoridad municipal por conducto del administrador del rastro municipal, tiene la obligación de reportar mensualmente a la SEDER, el movimiento de ganado y sacrificios registrados con los datos de registro y estado de salud.
+La autoridad municipal por conducto del administrador del rastro municipal, tiene la obligación de reportar mensualmente a la Secretaría, el movimiento de ganado y sacrificios registrados con los datos de registro y estado de salud.
 
 ###### ARTÍCULO 130.
 
@@ -989,57 +1065,71 @@ Las tintas empleadas serán iguales para todos los rastros, debiendo ser indeleb
 
 ### CAPÍTULO II. ESTABLECIMIENTOS DE DISTRIBUCIÓN
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2013)</small>
+
 ###### ARTÍCULO 133.
 
-Los propietarios de los establecimientos de distribución de productos o subproductos de origen animal, están obligados a manifestar ante el Ayuntamiento y la autoridad sanitaria competente, la apertura y clausura de los mismos, contando con un plazo de 10 días anteriores a la apertura y 10 posteriores a la clausura, para tal efecto; además, deberán solicitar ante la SEDER el registro correspondiente, mismo que debe refrendarse al término de un año.
+Los propietarios de los establecimientos de distribución de productos o subproductos de origen animal, están obligados a manifestar ante el Ayuntamiento y la autoridad sanitaria competente, la apertura y clausura de los mismos, contando con un plazo de 10 días anteriores a la apertura y 10 posteriores a la clausura, para tal efecto; además, deberán solicitar ante la Secretaría el registro correspondiente, mismo que debe refrendarse al término de un año.
 
 ###### ARTÍCULO 134.
 
 En todo local comercial dedicado a expendio de productos cárnico, deberán apegarse a lo que indican las NOM's en la materia.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2013)</small>
+
 ###### ARTÍCULO 135.
 
-Las carnes que se localicen en los establecimientos comerciales fijos, semifijos o ambulantes que carezcan de sello autorizado, serán decomisadas por la SEDER o por las Autoridades Municipales.
+Las carnes que se localicen en los establecimientos comerciales fijos, semifijos o ambulantes que carezcan de sello autorizado, serán decomisadas por la Secretaría o por las Autoridades Municipales.
 
 ## TÍTULO OCTAVO. DE LA CLASIFICACIÓN Y COMERCIALIZACIÓN DE LOS PRODUCTOS PECUARIOS
 
 ### CAPÍTULO I. CLASIFICACIÓN
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2013)</small>
+
 ###### ARTÍCULO 136.
 
-La SEDER promoverá la clasificación de los productos pecuarios de acuerdo a su origen, calidad nutricional, caducidad y presentación que deberá identificar al producto.
-
-Los productos y subproductos pecuarios, serán clasificados conforme al reglamento que se expida para tal efecto, sin perjuicio de las normas que en clasificación de carnes, o grados de calidad, establezca la Secretaría de Economía o cualquier otra autoridad de orden federal.
+La Secretaría promoverá la clasificación de los productos pecuarios de acuerdo a su origen, calidad nutricional, caducidad y presentación que deberá identificar al producto.
 
 ###### ARTÍCULO 137.
 
 Con el propósito de prevenir riesgos para la salud humana, se prohíbe la fabricación, comercialización, utilización y el uso en la alimentación de animales de productos que contengan residuos tóxicos, químicos, microbiológicos o biológicos en los productos y subproductos de origen animal.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2013)</small>
+
 ###### ARTÍCULO 138.
 
-La SEDER, acreditará a los profesionales que se harán responsables de clasificar los productos y subproductos antes de su comercialización, así como la reglamentación correspondiente.
+La Secretaría, acreditará a los profesionales que se harán responsables de clasificar los productos y subproductos antes de su comercialización, así como la reglamentación correspondiente.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 139.
 
-La SEDER tendrá la facultad de revisar periódicamente que la calidad de los productos se conserve.
+La Secretaría tendrá la facultad de revisar periódicamente que la calidad de los productos se conserve.
 
 ###### ARTÍCULO 140.
 
 Los profesionales de la clasificación de productos y subproductos de origen animal deberán renovar su acreditación anualmente ante el Colegio Estatal de Médicos Veterinarios Zootecnistas, revisando y actualizando el proceso a medida que se promuevan cambios en las NOM's en la materia.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2013)</small>
+
 ###### ARTÍCULO 141.
 
-Los usuarios del servicio de clasificación, cubrirán el costo del proceso en una transacción directa con el profesional, y el pago del derecho por el aval de la certificación por parte de la SEDER.
+Los usuarios del servicio de clasificación, cubrirán el costo del proceso en una transacción directa con el profesional, y el pago del derecho por el aval de la certificación por parte de la Secretaría.
 
 ### CAPÍTULO II. LA COMERCIALIZACIÓN
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2013)</small>
+
 ###### ARTÍCULO 142.
 
-El gobierno del Estado por conducto de la SEDER, diseñará proyectos de comercialización de los productos pecuarios del Estado en los mercados nacionales y extranjeros; otorgará permisos de carne clasificada conforme a la calidad de los productos que se comercialicen, en la inteligencia de que almacenarán y comercializarán únicamente, la clase de carne que señale la autorización concedida.
+El gobierno del Estado por conducto de la Secretaría, diseñará proyectos de comercialización de los productos pecuarios del Estado en los mercados nacionales y extranjeros; otorgará permisos de carne clasificada conforme a la calidad de los productos que se comercialicen, en la inteligencia de que almacenarán y comercializarán únicamente, la clase de carne que señale la autorización concedida.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 143.
 
-La SEDER en coordinación con las organizaciones de productores, promoverán la formación de grupos de interés económico de acuerdo a la transformación de los productos y de conformidad con la demanda del mercado nacional e internacional.
+La Secretaría en coordinación con las organizaciones de productores, promoverán la formación de grupos de interés económico de acuerdo a la transformación de los productos y de conformidad con la demanda del mercado nacional e internacional.
 
 ## TÍTULO NOVENO. DE LA VIGILANCIA DEL GANADO
 
@@ -1073,13 +1163,17 @@ En las zonas de agostadero que se pretenda explotar como agrícolas, los agricul
 
 ### CAPÍTULO ÚNICO. LAS MEDIDAS DE CONTROL
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2013)</small>
+
 ###### ARTÍCULO 149.
 
-La SEDER y las autoridades municipales aplicarán las medidas zoosanitarias adecuadas para proteger las especies animales comprendidas en esta ley contra las enfermedades o plagas que los afecten y determinará los medios para la prevención, diagnostico, tratamiento y erradicación de estos males, fijando en cada caso la vigencia que tendrán en el área geográfica correspondiente.
+La Secretaría y las autoridades municipales aplicarán las medidas zoosanitarias adecuadas para proteger las especies animales comprendidas en esta ley contra las enfermedades o plagas que los afecten y determinará los medios para la prevención, diagnóstico, tratamiento y erradicación de estos males, fijando en cada caso la vigencia que tendrán en el área geográfica correspondiente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 150.
 
-En materia de Sanidad Animal, la SEDER, ejercerá las siguientes atribuciones:
+En materia de Sanidad Animal, la Secretaría, ejercerá las siguientes atribuciones:
 
 I.- Destinar recursos para proporcionar servicios e implementar las acciones que se requieran para preservar la salud animal de las actividades pecuarias del Estado, así como para alcanzar y mantener mayores niveles de sanidad;
 
@@ -1095,13 +1189,17 @@ Se habrá de considerar de interés publico, la continuidad y mejora en el estab
 
 VI.- En el caso de semovientes bovinos, exigir en hatos con cuarentena definitiva por tuberculosis bovina, que los semovientes sean marcados en su totalidad con la figura de herrar SR (Sacrificio Rastro) o CN (Consumo Nacional) en la palomilla del lado derecho.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2013)</small>
+
 ###### ARTÍCULO 151.
 
-Toda persona que tenga conocimiento de la aparición de cualquier plaga o enfermedad que afecte el ganado, deberá comunicarlo de inmediato al inspector, a la presidencia municipal o a las organizaciones ganaderas, a fin de que estos lo hagan del conocimiento de la SEDER para que se tomen las medidas pertinentes.
+Toda persona que tenga conocimiento de la aparición de cualquier plaga o enfermedad que afecte el ganado, deberá comunicarlo de inmediato al inspector, a la presidencia municipal o a las organizaciones ganaderas, a fin de que estos lo hagan del conocimiento de la Secretaría para que se tomen las medidas pertinentes.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 152.
 
-En los casos de aparición o sospecha de una enfermedad contagiosa en los animales, la SEDER deberá intervenir de inmediato a fin de controlar y erradicar tal enfermedad.
+En los casos de aparición o sospecha de una enfermedad contagiosa en los animales, la Secretaría deberá intervenir de inmediato a fin de controlar y erradicar tal enfermedad.
 
 ###### ARTÍCULO 153.
 
@@ -1127,9 +1225,11 @@ Queda prohibida la entrada y salida por cualquiera de los límites del Estado, d
 
 Para la movilización de todo tipo de ganado, se deberá aplicar lo establecido en las NOM's en la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2013)</small>
+
 ###### ARTÍCULO 159.
 
-Se declara obligatoria la vacunación de ganado, para prevenir enfermedades infecto-contagiosas y otras que lo ameriten a juicio de la autoridad competente. La vacunación deberá ser realizada de preferencia por médicos veterinarios zootecnistas titulados. Cuando la realice el ganadero, éste deberá contar con la certificación respectiva de la SEDER.
+Se declara obligatoria la vacunación de ganado, para prevenir enfermedades infecto-contagiosas y otras que lo ameriten a juicio de la autoridad competente. La vacunación deberá ser realizada de preferencia por médicos veterinarios zootecnistas titulados. Cuando la realice el ganadero, éste deberá contar con la certificación respectiva de la Secretaría.
 
 De no cumplir el propietario con lo antes señalado, la autoridad municipal o el inspector correspondiente verificarán que se vacune el ganado a cuenta de su dueño, sin perjuicio de la sanción a que se haga acreedor por infringir lo dispuesto en el párrafo anterior.
 
@@ -1137,21 +1237,27 @@ De no cumplir el propietario con lo antes señalado, la autoridad municipal o el
 
 Los médicos veterinarios o practicantes avalados por un Médico veterinario titulado, deberán extender un certificado en el que se haga constar el nombre del propietario del ganado, la especie de éste, el número de cabezas y la enfermedad contra la que se haya aplicado la vacunación respectiva.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2013)</small>
+
 ###### ARTÍCULO 161.
 
-Los Colegios de Médicos Veterinarios, Zootecnistas, Instituciones de Investigación Pecuaria, Instituciones de Nivel Superior y Asociaciones de profesionistas relacionadas con la actividad pecuaria en el Estado, coadyuvarán con la SEDER, en la atención de cualquier reporte sobre la aparición de enfermedades y plagas, así como en la determinación de acciones y medidas necesarias para su control y erradicación.
+Los Colegios de Médicos Veterinarios, Zootecnistas, Instituciones de Investigación Pecuaria, Instituciones de Nivel Superior y Asociaciones de profesionistas relacionadas con la actividad pecuaria en el Estado, coadyuvarán con la Secretaría, en la atención de cualquier reporte sobre la aparición de enfermedades y plagas, así como en la determinación de acciones y medidas necesarias para su control y erradicación.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 162.
 
-Cuando se trate de combatir enfermedades zoonóticas, la SEDER, se coordinará con los Servicios Coordinados de Salud Pública en el Estado quien fijará las normas a seguir.
+Cuando se trate de combatir enfermedades zoonóticas, la Secretaría, se coordinará con los Servicios Coordinados de Salud Pública en el Estado quien fijará las normas a seguir.
 
 ###### ARTÍCULO 163.
 
 El Gobierno del Estado, podrá celebrar convenios o acuerdos de coordinación con la federación y los municipios para la realización de acciones conjuntas en materia de protección de sanidad pecuaria en la entidad.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2013)</small>
+
 ###### ARTÍCULO 164.
 
-La SEDER, tiene la obligación de apoyar la integración y operación del Dispositivo Nacional de Emergencia de Sanidad Animal, y propiciará el cumplimiento de las NOM's que establezcan las medidas de seguridad que deberán aplicarse al caso particular, en el que se diagnostiquen la presencia de una enfermedad o plaga exótica en las distintas especies pecuarias en la entidad. Para el mejor cumplimiento de dicha responsabilidad, acordará con el Gobierno Federal y organizaciones de productores pecuarios, la creación de uno o varios fondos de contingencia para hacer frente con agilidad a las emergencias zoosanitarias que pongan en peligro el patrimonio pecuario del Estado,
+La Secretaría, tiene la obligación de apoyar la integración y operación del Dispositivo Nacional de Emergencia de Sanidad Animal, y propiciará el cumplimiento de las NOM's que establezcan las medidas de seguridad que deberán aplicarse al caso particular, en el que se diagnostiquen la presencia de una enfermedad o plaga exótica en las distintas especies pecuarias en la entidad. Para el mejor cumplimiento de dicha responsabilidad, acordará con el Gobierno Federal y organizaciones de productores pecuarios, la creación de uno o varios fondos de contingencia para hacer frente con agilidad a las emergencias zoosanitarias que pongan en peligro el patrimonio pecuario del Estado.
 
 Queda prohibido el uso del Clembuterol, quien contravenga esta disposición, será sancionado en los términos de esta ley.
 
@@ -1159,15 +1265,19 @@ Queda prohibido el uso del Clembuterol, quien contravenga esta disposición, ser
 
 ### CAPÍTULO I. LA FABRICACIÓN DE SELLOS
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2013)</small>
+
 ###### ARTÍCULO 165.
 
-La fabricación de sellos oficiales, registradores, fechadores, con cualquier leyenda y del material que sean relacionadas con esta ley, sólo podrá ser ordenada por la SEDER; por lo tanto queda prohibido a toda persona física o colectiva, fabricar sellos para uso oficial de las características que se indican. Salvo en lo concerniente a los establecimientos de sacrificio de animales.
+La fabricación de sellos oficiales, registradores, fechadores. Con cualquier leyenda y del material que sean relacionadas con esta ley, sólo podrá ser ordenada por la Secretaría; por lo tanto queda prohibido a toda persona física o colectiva, fabricar sellos para uso oficial de las características que se indican. Salvo en lo concerniente a los establecimientos de sacrificio de animales.
 
 ###### ARTÍCULO 166.
 
 Toda persona física o colectiva queda obligada a denunciar a las personas que les ordenen la confección de uno o más sellos de los que se indican en el artículo anterior de esta ley, cuando no les entregue la orden correspondiente a que se refiere dicho precepto.
 
-La SEDER y las autoridades municipales girarán circulares a las imprentas fabricantes de sellos, haciéndoles saber que en caso de desobediencia, serán considerados como autores de delito, correspondiéndole una sanción de 3 a 6 años de prisión y multa de 100 a 500 días de salario mínimo vigente en la entidad.
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2013)</small>
+
+La Secretaría y las autoridades municipales girarán circulares a las imprentas fabricantes de sellos, haciéndoles saber que en caso de desobediencia, serán considerados como autores de delito, correspondiéndole una sanción de 3 a 6 años de prisión y multa de 100 a 500 días de salario mínimo vigente en la entidad.
 
 ### CAPÍTULO II. EJERCICIO DE LA MEDICINA VETERINARIA Y ZOOTECNIA
 
@@ -1187,9 +1297,11 @@ Las funciones del Médico Veterinario Zootecnista para los efectos de esta ley s
 
 ### CAPÍTULO ÚNICO. LAS SANCIONES Y SU APLICACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2013)</small>
+
 ###### ARTÍCULO 170.
 
-La SEDER aplicará las sanciones aquí previstas por violaciones a esta ley, en los siguientes términos:
+La Secretaría aplicará las sanciones aquí previstas por violaciones a esta ley, en los siguientes términos:
 
 I. Apercibimiento;
 
@@ -1215,17 +1327,23 @@ Las sanciones serán impuestas, independientemente de las que resulten de la apl
 
 En caso de reincidencia, se podrá aplicar una multa hasta por el doble de las cantidades señaladas en el artículo que antecede.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2013)</small>
+
 ###### ARTÍCULO 172.
 
-Para la imposición de sanciones, la SEDER, tomará en cuenta la gravedad de la infracción, los daños y perjuicios causados, al igual que los antecedentes, circunstancias personales y situación socioeconómica del infractor, debiendo conceder previamente audiencia al interesado en los términos que establezca el reglamento de esta ley.
+Para la imposición de sanciones, la Secretaría, tomará en cuenta la gravedad de la infracción, los daños y perjuicios causados, al igual que los antecedentes, circunstancias personales y situación socioeconómica del infractor, debiendo conceder previamente audiencia al interesado en los términos que establezca el reglamento de esta ley.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 173.
 
-En los casos en que esta ley no prevea una sanción específica, la SEDER podrá imponer una multa de 10 a 300 días de salario mínimo o arresto administrativo hasta por treinta y seis horas.
+En los casos en que esta ley no prevea una sanción específica, la Secretaría podrá imponer una multa de 10 a 300 días de salario mínimo o arresto administrativo hasta por treinta y seis horas.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 174.
 
-Contra las resoluciones dictadas por la SEDER, con fundamento en esta ley, se podrá interponer el recurso de inconformidad por escrito ante la misma dependencia o el juicio ante el Tribunal de Justicia Administrativa del Estado, de conformidad a lo previsto por la Ley de Justicia y Procedimientos Administrativos del Estado de Nayarit.
+Contra las resoluciones dictadas por la Secretaría, con fundamento en esta ley, se podrá interponer el recurso de inconformidad por escrito ante la misma dependencia o el juicio ante el Tribunal de Justicia Administrativa del Estado, de conformidad a lo previsto por la Ley de Justicia y Procedimientos Administrativos del Estado de Nayarit.
 
 ## TRANSITORIOS
 
@@ -1250,3 +1368,9 @@ Dip. Luis Alberto Acebo Gutiérrez, Presidente.- Rúbrica.- Dip. Silvia Cortés 
 Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la
 
 Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit, en Tepic su capital, a los veinticinco días del mes de junio del año dos mil siete.- Lic. Ney González Sánchez.- Rúbrica.- La Secretaria General de Gobierno, Profa. Cora Cecilia Pinedo Alonso.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 16 DE MARZO DE 2013.
+
+Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
