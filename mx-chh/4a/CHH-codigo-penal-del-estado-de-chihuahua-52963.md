@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2013-02-09"
+last_updated: "2013-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2013.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -3035,6 +3035,12 @@ Se le impondrá de seis meses a tres años de prisión a quien por medio de la v
 
 La pena será de uno a cinco años de prisión, cuando la desobediencia o resistencia sea a un mandato judicial o al cumplimiento a una sentencia.
 
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2013)</small>
+
+###### Artículo 278 Bis.
+
+A quien en los supuestos de los artículos 277 y 278 se oponga mediante disparos realizados con arma de fuego, se le impondrán de cinco a diez años de prisión y de cien a doscientos cincuenta días multa, además de la que le corresponda por el delito cometido.
+
 ###### Artículo 279.
 
 Cuando la ley autorice el empleo de medidas de apremio para hacer efectivos los mandatos de la autoridad, la consumación de los delitos de desobediencia y resistencia de particulares, se producirá en el momento en que se agote el empleo de tales medidas de apremio.
@@ -4250,3 +4256,9 @@ Los encargados de la ejecución de todas las sentencias firmes, dictadas en proc
 ###### ARTÍCULO TERCERO.
 
 Todos los asuntos relacionados con la ejecución de penas y medidas de seguridad, que se encuentren en trámite al inicio de la entrada en vigor del presente Decreto, deberán remitirse sin dilación alguna al Juez de Ejecución de Penas al que corresponda legalmente el conocimiento de los mismos.
+
+P.O. 16 DE MARZO DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
