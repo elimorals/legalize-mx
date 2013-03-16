@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-seguridad-escolar-para-el-estado-de-chihuahua-40693"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-31"
-last_updated: "2011-09-07"
+last_updated: "2013-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40693&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE SEGURIDAD ESCOLAR PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el sábado 31 de julio de 2004.
 
@@ -63,13 +63,39 @@ III. Establecer las bases de coordinación entre los diversos niveles de autorid
 
 IV. Regular las acciones, proyectos y programas en la materia de corto, mediano y largo plazo, que permitan su seguimiento y evaluación constante, así como una eventual rectificación; en todo caso, se dará prioridad a su implementación en las zonas de alta incidencia de inseguridad pública.
 
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2013)</small>
+
 ###### Artículo 3.
 
-La prevención y adopción de medidas y acciones en materia de seguridad escolar son responsabilidad del Estado y corresponde atenderlas al gobierno y a los ayuntamientos de la Entidad, de acuerdo a su ámbito de competencia, con la participación de los sectores público, privado, social y en general de sus habitantes, en los términos de esta Ley y de los reglamentos que de ella se deriven.
+La prevención de la violencia en el entorno escolar, así como la adopción de medidas y acciones en materia de seguridad escolar son responsabilidad del Estado y corresponde atenderlas al gobierno y a los ayuntamientos de la Entidad, de acuerdo a su ámbito de competencia, con la participación de los sectores público, privado, social y en general de sus habitantes, en los términos de esta Ley y de los reglamentos que de ella se deriven.
+
+A través de la prevención se propone brindar las habilidades psicosociales necesarias que contribuyan a desarrollar una armoniosa convivencia pacífica entre las y los miembros de la comunidad educativa, además de revertir los factores de riesgo y los que influyen en la generación de la violencia en el entorno escolar y de maltrato escolar realizando acciones que desarrollen una cultura de la paz y fortalezcan la cohesión comunitaria.
+
+En los servicios educativos será obligatorio que el personal docente, directivos escolares y personal administrativo cursen los programas de capacitación que la Secretaría diseñe a partir de los manuales de buenas prácticas, para conocer, atender y prevenir el maltrato entre escolares.
+
+> <small>(REFORMADO, P.O. 16 DE MARZO DE 2013)</small>
 
 ###### Artículo 4.
 
-Los programas y acciones de enlace escolar y de seguridad pública, tenderán principalmente a modificar las actitudes y formar hábitos y valores de los alumnos a efecto de prevenir la inseguridad.
+Los programas y acciones de enlace escolar y de seguridad pública, tenderán principalmente a modificar las actitudes y formar hábitos y valores en los alumnos, a efecto de coadyuvar a eliminar toda clase de violencia en el entorno escolar, que permitan a las autoridades cumplir con los principios rectores señalados en la presente ley y su reglamento, teniendo como objetivo:
+
+I. Detectar, evitar y dar aviso del consumo de drogas, alcohol y tabaco en el interior de los planteles educativos.
+
+II. Detectar factores generadores de violencia que se den o pudiesen darse en los diferentes centros escolares, para implementar las medidas que se llevarán a cabo, con la finalidad de brindar seguridad a la comunidad escolar en general.
+
+III. Analizar las diferentes situaciones que se pudiesen dar en cada centro escolar para que, basadas en éstas, se planteen acciones que reduzcan el riesgo de peligro y garanticen la seguridad de la comunidad escolar.
+
+IV. Crear conciencia en la sociedad y en la comunidad escolar sobre la necesidad de implementar medidas tendientes a la prevención, autoprotección y denuncia de conductas ilícitas y consumos nocivos para la salud dentro de los planteles educativos.
+
+V. Promover una cultura de colaboración, participación y solidaridad escolar.
+
+VI. Involucrar al personal docente y administrativo de las escuelas, padres de familia, alumnos y vecinos de las instituciones escolares, con el objeto de fomentar acciones y lograr un verdadero ambiente de seguridad y sanidad en el entorno escolar.
+
+VII. Coordinar las acciones con la participación de las diversas instituciones sociales para la realización de conferencias, pláticas y foros para la prevención, detección y canalización oportuna de factores de riesgo de la comunidad escolar y, en general, organizar actividades escolares y extraescolares, tendientes a acrecentar un interés por el deporte, el arte y la cultura en los estudiantes.
+
+VIII. Fomentar la resolución no violenta de conflictos a través de mecanismos alternativos para dirimir controversias en materia de seguridad escolar.
+
+IX. Los demás objetivos que en la materia sean emitidos por las autoridades competentes de acuerdo a las necesidades que se vayan suscitando.
 
 ###### Artículo 5.
 
@@ -139,7 +165,7 @@ II. Celebrar convenios de coordinación y ejecución a fin de cumplir los objeti
 
 III. Las demás atribuciones que conforme a ésta y las demás disposiciones legales aplicables le correspondan.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 9.
 
@@ -457,7 +483,7 @@ SEGUNDO.- El Poder Ejecutivo del Estado cuenta con un plazo de ciento ochenta d�
 
 TERCERO.- A partir de la expedición del reglamento de la presente ley, los centros escolares cuentan con ciento ochenta días para que se adecue la reglamentación interior de los centros escolares a la presente ley y su reglamento.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 19 DE ENERO DE 2005.
 
@@ -482,3 +508,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 El Ejecutivo del Estado, en el término de sesenta días contados a partir de la publicación del presente Decreto, expedirá el Reglamento de la Coordinación Estatal de Seguridad Escolar, en el que se definan las atribuciones de ésta.
+
+P.O. 16 DE MARZO DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
