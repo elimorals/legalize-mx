@@ -4,7 +4,7 @@ identifier: "FED-codigo-de-conducta-de-los-servidores-publicos-del-ejercito-6211
 country: "mx"
 rank: "codigo"
 publication_date: "2008-08-11"
-last_updated: "2008-08-11"
+last_updated: "2013-03-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62113&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -18,9 +18,11 @@ scjn_last_update: "2013-03-19"
 ---
 # CODIGO DE CONDUCTA DE LOS SERVIDORES PUBLICOS DEL EJERCITO Y FUERZA AEREA MEXICANOS
 
-CODIGO DE CONDUCTA DE LOS SERVIDORES PUBLICOS DEL EJERCITO Y FUERZA AEREA MEXICANOS
+CÓDIGO DE CONDUCTA DE LOS SERVIDORES PÚBLICOS DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL CÓDIGO DE CONDUCTA DE LOS SERVIDORES PÚBLICOS DE LA SECRETARÍA DE LA DEFENSA NACIONAL, PUBLICADO EN EL D.O.F. DE 19 DE MARZO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: ABROGADO.
 
 Código publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 11 de agosto de 2008.
 
@@ -467,3 +469,11 @@ ACCIONES ESPECIFICAS.
 El conocimiento y la aplicación constante de los principios antes referidos, nos permitirán hacer de ellos un hábito, lo cual contribuirá a robustecer la cultura ética y de servicio que históricamente el Instituto Armado ha abrazado, sumándose así, de manera solidaria a los esfuerzos del Ejecutivo Federal en materia de gestión pública, con el único propósito de proporcionar a la ciudadanía certidumbre en cuanto a las actividades de las instituciones de gobierno, a la calidad de los servicios y principalmente a generar el cambio de actitud del servidor público, garantizando su profesionalización y honestidad en el ejercicio de sus funciones.
 
 Lomas de Sotelo, D.F., a 22 de julio de 2008.- Autorizó: el General Secretario de la Defensa Nacional, Guillermo Galván Galván.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 19 DE MARZO DE 2013.
+
+SE TRANSCRIBE ÚNICAMENTE LA PARTE FINAL DEL CÓDIGO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.
+
+El presente Código abroga el "CODIGO DE CONDUCTA DE LOS SERVIDORES PUBLICOS DEL EJERCITO Y FUERZA AEREA MEXICANOS", publicado en el Diario Oficial de la Federación, el 11 de agosto del 2008.
