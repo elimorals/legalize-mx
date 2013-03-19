@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-para-la-proteccion-de-los-no-fumadores-en-el-74681"
 country: "mx"
 rank: "reglamento"
 publication_date: "1991-05-08"
-last_updated: "1991-05-08"
+last_updated: "2013-03-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74681&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO PARA LA PROTECCION DE LOS NO FUMADORES EN EL ESTADO DE MEXICO
 
-REGLAMENTO PARA LA PROTECCION DE LOS NO FUMADORES EN EL ESTADO DE MEXICO
+REGLAMENTO PARA LA PROTECCIÓN DE LOS NO FUMADORES EN EL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE LA LEY DE PREVENCIÓN DEL TABAQUISMO Y DE PROTECCIÓN ANTE LA EXPOSICIÓN AL HUMO DE TABACO EN EL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 19 DE MARZO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: ABROGADO.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 8 de mayo de 1991.
 
@@ -256,3 +258,13 @@ LIC. HUMBERTO LIRA MORA
 EL DIRECTOR GENERAL DEL INSTITUTO DE SALUD DEL ESTADO DE MÉXICO
 
 DR. GUSTAVO A. BARRERA ECHEVERRI
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 19 DE MARZO DE 2013.
+
+PRIMERO. Publíquese el presente Reglamento en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se abroga el Reglamento para la Protección de los no Fumadores en el Estado de México, publicado el 8 de mayo de 1991 en el Periódico Oficial "Gaceta del Gobierno.
