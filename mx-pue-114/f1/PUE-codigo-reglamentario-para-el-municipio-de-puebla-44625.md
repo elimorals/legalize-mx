@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2013-03-06"
+last_updated: "2013-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2013.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -8597,7 +8597,7 @@ XIII. Los establecimientos a que hace referencia las fracciones I, II y XV del a
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-XlV. Elaborar un registro del personal que labora en el establecimiento, así como de los guardias de seguridad privada o auxiliar, en caso de que se contraten para la vigilancia;
+XIV. Elaborar un registro del personal que labora en el establecimiento, así como de los guardias de seguridad privada o auxiliar, en caso de que se contraten para la vigilancia;
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -8735,7 +8735,7 @@ I. BILLARES CON VENTA DE BEBIDAS ALCOHÓLICAS EN BOTELLA ABIERTA;
 
 > <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2006)</small>
 
-II. BOLICHE CON VENTA DE CERVEZA Y BEBIDAS REFRESCANTES CON UNA GRADUAClÓN ALCOHÓLlCA DE 6º GL EN ENVASE ABIERTO;
+II. BOLICHE CON VENTA DE CERVEZA Y BEBIDAS REFRESCANTES CON UNA GRADUACIÓN ALCOHÓLlCA DE 6º GL EN ENVASE ABIERTO;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -10303,7 +10303,7 @@ XVII. Producto cárnico: Se entenderá por éste lo contemplado en el artículo 
 
 XVIII. Reinspección: Revisión para constatar el cumplimiento de las disposiciones de este Código y demás ordenamientos legales aplicables en la materia; de las canales o subproductos que ya fueron sujetos a inspección por un rastro distinto del Municipal;
 
-XIX. Resello: Sello que se coloca con la leyenda "Inspeccionado y Aprobado" en la carne comercializada en el Municipio de Puebla que presenta alguna alteración en el sello original, como estar borroso o presumirse de dudosa procedencia; y
+XIX. Resello: Sello que se coloca con la leyenda “Inspeccionado y Aprobado” en la carne comercializada en el Municipio de Puebla que presenta alguna alteración en el sello original, como estar borroso o presumirse de dudosa procedencia; y
 
 XX. Subproducto: Derivado del producto cárnico, como jamón, tocino, queso de puerco, pastel de pollo, longaniza, chorizo, mortadela, salami, carne adobada, carne seca, cecina, tasajo, chicharrón, frituras, toda clase de embutidos, y cualquier otro semejante.
 
@@ -10533,7 +10533,7 @@ DE LAS SANCIONES
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
-Artículo 639 Octodecies.- Las autoridades sanitarias municipales determinarán, calificarán e impondrán a quienes infrinjan las disposiciones establecidas en el Subtítulo "De la Comercialización de Productos Cárnicos y/o Subproductos y Aves Muertas", y los que resulten aplicables en la materia, indistintamente las sanciones señalas (sic) en el artículo 1671 de este ordenamiento.
+Artículo 639 Octodecies.- Las autoridades sanitarias municipales determinarán, calificarán e impondrán a quienes infrinjan las disposiciones establecidas en el Subtítulo “De la Comercialización de Productos Cárnicos y/o Subproductos y Aves Muertas”, y los que resulten aplicables en la materia, indistintamente las sanciones señalas (sic) en el artículo 1671 de este ordenamiento.
 
 Para la aplicación de dichas sanciones se considerará como infracciones administrativas las contempladas en el artículo 1671 Bis fracciones I, II, III, IV, V y VI del presente Código. La reincidencia será sancionada con multa por el doble de las cantidades señaladas.
 
@@ -16087,7 +16087,7 @@ En el análisis de los estados límite de falla se considerará la subpresión h
 
 ###### Artículo 1037.
 
-RESISTENCIAS: La seguridad de las cimentaciones contra los estados límite de faIla se valuarán en término de las capacidades de carga netas.
+RESISTENCIAS: La seguridad de las cimentaciones contra los estados límite de falla se valuarán en término de las capacidades de carga netas.
 
 La capacidad de carga de los suelos de cimentación se calcularán por métodos analíticos o empíricos suficientemente apoyados en evidencias experimentales o se harán en pruebas de carga. La capacidad de carga de la base de cualquier cimentación, se calculará a partir de la resistencia media del estrato más débil que gobierne el mecanismo de falla más probable. Además:
 
@@ -16615,11 +16615,9 @@ Todo el equipo e instalaciones mencionados en este apartado, deberán ser aproba
 
 Se llevará bitácora mensual respectiva de los equipos e instalaciones contra incendios de los inmuebles mencionados en el artículo 1103, las cuales serán presentadas durante las visitas e inspecciones que se realicen a los inmuebles.
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
-
 ###### Artículo 1115.
 
-La Unidad Operativa Municipal de Protección Civil y el Departamento de Bomberos de Puebla, están facultados para indicar las protecciones contra incendio adicionales a las previstas en el presente apartado, según las condiciones especiales de los inmuebles y las actividades que en ellos se realicen.
+La Unidad Municipal de Protección Civil y el Departamento de Bomberos de Puebla, están facultados para indicar las protecciones contra incendio adicionales a las previstas en el presente apartado, según las condiciones especiales de los inmuebles y las actividades que en ellos se realicen.
 
 ###### Artículo 1116.
 
@@ -18941,7 +18939,7 @@ XLIV. Zona de Monumentos: A la Zona descrita en el Capítulo de Construcciones d
 
 > <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2011)</small>
 
-XLV. Zonas Publicitarias: Los Corredores Urbanos CAl (Corredor de Alto Impacto) y CUMS (Corredor de Servicios y Uso Mixto), en donde la Autoridad correspondiente autorizará la colocación de anuncios.
+XLV. Zonas Publicitarias: Los Corredores Urbanos CAI (Corredor de Alto Impacto) y CUMS (Corredor de Servicios y Uso Mixto), en donde la Autoridad correspondiente autorizará la colocación de anuncios.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -19059,7 +19057,9 @@ X. Presentar póliza de seguro de responsabilidad civil y daños causados a terc
 
 XI. Utilizar la Licencia, Permiso y/o Permiso Publicitario otorgado por la Agencia en el (los) lugar(es) en el (los) cual(es) fue autorizado, en razón de lo anterior queda estrictamente prohibido la utilización de postes de concreto y de madera pertenecientes a entidades paraestatales, paramunicipales, sociedades o cualquier otra persona física o jurídica de derecho público o privado, árboles, marquesinas, peldaños, cercas, bardas, mobiliario urbano o cualquier otro lugar que no sea autorizado;
 
-XII. Que el texto y contenidos de los anuncios no resulten agresivos y obscenos para la población;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2013)</small>
+
+XII. Que el texto, ideas, imágenes, figuras o contenidos de los anuncios, redactados en idioma español o distinto a éste, no inciten a la violencia, promuevan o provoquen conductas ilícitas o faltas administrativas, discriminación de razas, grupos o condición social, contengan mensajes o lenguajes sexistas o discriminatorios por razón de género; que atenten contra los derechos humanos;
 
 XIII. Regularizarse cuando se encuentren fuera del marco legal que los rige, sin perjuicio de las sanciones a que haya lugar; y
 
@@ -19117,7 +19117,7 @@ VII. La placa o folio que contendrá el número de Licencia, Permiso y/o Permiso
 
 > <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2011)</small>
 
-Dicha placa deberá permanecer en un lugar visible del anuncio y se colocará en aquellos anuncios señalados en las fracciones I, siempre que se trate de anuncios autosoportados de propaganda en espacios exteriores; lII; Vl, cuando se trate de anuncios espectaculares de propaganda en espacios exteriores; VII, X, XI y XII del Artículo 1299 del presente ordenamiento, así como en aquellos que se encuentren fijados a un vehículo.
+Dicha placa deberá permanecer en un lugar visible del anuncio y se colocará en aquellos anuncios señalados en las fracciones I, siempre que se trate de anuncios autosoportados de propaganda en espacios exteriores; III; VI, cuando se trate de anuncios espectaculares de propaganda en espacios exteriores; VII, X, XI y XII del Artículo 1299 del presente ordenamiento, así como en aquellos que se encuentren fijados a un vehículo.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -20709,7 +20709,7 @@ Los titulares de Permisos Publicitarios no podrán:
 
 I. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2008)
 
-II. Instalar anuncios en los vehículos que presten el servicio de transporte privado de carga;
+II. Instalar anuncios en los vehículos que presten el servicio de transporte de carga;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -20731,7 +20731,7 @@ IX. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2008)
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-X. Instalar o dar mantenimiento a anuncios en vehículos de transporte en la vía pública; y
+X. Instalar o dar mantenimiento a anuncios en vehículos de transporte privado en la vía pública; y
 
 XI. Instalar anuncios con movimiento al interior o exterior del vehículo.
 
@@ -23313,7 +23313,7 @@ XXVII. Secretaría: A la Secretaría de Gestión Urbana y Obra Pública para el 
 
 > <small>(ADICIONADA, P.O. 11 DE FEBRERO DE 2011)</small>
 
-XXVII.I Subdirección: A la Subdirección de Atención a Servicios Públicos, dependiente de la Agencia de Protección al Ambiente y Desarrollo Sustentable del Municipio de Puebla;
+XXVII.I (SIC). Subdirección: A la Subdirección de Atención a Servicios Públicos, dependiente de la Agencia de Protección al Ambiente y Desarrollo Sustentable del Municipio de Puebla;
 
 XXVIII. Tiempo Cumplido: Exhumación que se realiza transcurridos siete años para el caso del ataúd de madera y 10 años para el caso de ataúd metálico;
 
@@ -23937,7 +23937,7 @@ III. Las condiciones socioeconómicas del infractor.
 
 ###### Artículo 1614.
 
-Para que la Dirección General de la Agencia proceda a imponer las sanciones, el Departamento deberá levantar las actas en las que se haga constar Ias violaciones y responsabilidades en que haya incurrido el infractor, mismas que se harán efectivas por conducto de la Tesorería Municipal si se trata de sanciones pecuniarias.
+Para que la Dirección General de la Agencia proceda a imponer las sanciones, el Departamento deberá levantar las actas en las que se haga constar las violaciones y responsabilidades en que haya incurrido el infractor, mismas que se harán efectivas por conducto de la Tesorería Municipal si se trata de sanciones pecuniarias.
 
 ###### Artículo 1615.
 
@@ -24007,7 +24007,7 @@ XII.- Inspección postmortem: Es la que se realiza a los productos cárnicos y s
 
 XIII.- Lepóridos: Conejos y liebres;
 
-XlV.- Normas Mexicanas: Normas de referencia, de observancia voluntaria, que emiten los organismos nacionales de normalización, en los términos de la Ley Federal sobre Metrología y Normalización;
+XIV.- Normas Mexicanas: Normas de referencia, de observancia voluntaria, que emiten los organismos nacionales de normalización, en los términos de la Ley Federal sobre Metrología y Normalización;
 
 XV.- Normas Oficiales: Normas Oficiales Mexicanas que expide la Secretaría en materia de sanidad animal, de carácter obligatorio, elaboradas en los Comités Consultivos Nacionales de Normalización de acuerdo con lo establecido en la Ley Federal sobre Metrología y Normalización;
 
@@ -24279,7 +24279,7 @@ XII.- Realizar el decomiso de los productos cárnicos que no tengan la documenta
 
 > <small>(ADICIONADA, P.O. 23 DE MAYO DE 2007)</small>
 
-XlII.- Las que les confiera el Tesorero Municipal.
+XIII.- Las que les confiera el Tesorero Municipal.
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
@@ -25227,7 +25227,7 @@ DEL REFRENDO Y DE LA CESIÓN DE DERECHOS
 
 (REUBICADO Y REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MARZO DE 2009)
 
-###### Articulo 1680 Bis.
+###### Artículo 1680 Bis.
 
 El prestador del servicio refrendará anualmente la licencia de estacionamiento, y podrá ceder sus derechos sobre dicho servicio.
 
@@ -25305,7 +25305,7 @@ Para hacer uso de estos cajones, los usuarios deberán portar las placas en su v
 
 ###### Artículo 1683 Ter.
 
-En caso de estacionamiento de vehículos de carga, para efecto de llevar a cabo las maniobras de carga y descarga de los mismos, deberán llevarse a cabo (sic) de acuerdo al Capítulo de Seguridad Vial y Tránsito Municipal del presente Código para no entorpecer la circulación en la vía pública.
+En caso de estacionamiento de vehículos de carga, para efecto de llevar a cabo las maniobras de carga y descarga de los mismos, deberán llevarse a cabo de acuerdo al Capítulo de Seguridad Vial y Tránsito Municipal del presente Código para no entorpecer la circulación en la vía pública.
 
 > <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2007)</small>
 
@@ -30357,7 +30357,7 @@ Los beneficiarios del jubilado fallecido, para cobrar el importe por la extinci�
 
 I.- Solicitud de Pago de Extinción de Jubilación;
 
-ll.- Acta de defunción;
+II.- Acta de defunción;
 
 III.- Acta de Nacimiento del Beneficiario;
 
@@ -32807,7 +32807,7 @@ IV. Camiseta (top) y calzón de boxeo;
 
 V. Calcetas;
 
-VI. ZapatilIas profesionales de boxeo;
+VI. Zapatillas profesionales de boxeo;
 
 VII. Bata o similar (opcional), y
 
@@ -34899,7 +34899,7 @@ TERCERO.- Para el caso de los Jueces Calificadores, Secretarios, Supervisores y 
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE FEBRERO DE 2011)</small>
 
-CUARTO.- Las Zonas Publicitarias que se señalan en el artículo 1254 fracción XLV del Código Reglamentario para el Municipio de Puebla, se componen por los corredores urbanos CAl (Corredor de Alto Impacto) y CUMS (Corredor de Servicios y Uso Mixto), mismos que a continuación se detallan.
+CUARTO.- Las Zonas Publicitarias que se señalan en el artículo 1254 fracción XLV del Código Reglamentario para el Municipio de Puebla, se componen por los corredores urbanos CAI (Corredor de Alto Impacto) y CUMS (Corredor de Servicios y Uso Mixto), mismos que a continuación se detallan.
 
 (VÉASE ARCHIVO ANEXO)
 
@@ -34961,12 +34961,6 @@ La presente adición entrará en vigor al día siguiente de su publicación en e
 
 Las prestaciones anteriores que se hubiesen otorgado y que sean compatibles con la presente adición se reconocen plenamente.
 
-P.O. 14 DE DICIEMBRE DE 2009.
-
-PRIMERO. Las presentes reformas y adiciones surtirán sus efectos al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-SEGUNDO. Se derogan las disposiciones que se opongan a lo establecido en el presente Dictamen.
-
 P.O. 22 DE ENERO DE 2010.
 
 PRIMERO.- Las presentes reformas, derogaciones y adiciones surtirán sus efectos al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
@@ -35022,6 +35016,12 @@ P.O. 11 DE FEBRERO DE 2011.
 PRIMERO.- Las presentes reformas, adiciones y derogaciones surtirán sus efectos al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente Dictamen.
+
+P.O. 14 DE DICIEMBRE DE 2009.
+
+PRIMERO. Las presentes reformas y adiciones surtirán sus efectos al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a lo establecido en el presente Dictamen.
 
 P.O. 12 DE AGOSTO DE 2011.
 
@@ -35134,6 +35134,16 @@ P.O. 6 DE MARZO DE 2013.
 PRIMERO.- Las presentes reformas entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se contrapongan a las presentes reformas.
+
+P.O. 20 DE MARZO DE 2013.
+
+DICTAMEN
+
+PRIMERO.- Se aprueba la reforma de la fracción XII del artículo 1255 del Capítulo 18 "Anuncios" del Código Reglamentario para el Municipio de Puebla, en los términos establecidos en el Considerando XXVII del presente Dictamen.
+
+SEGUNDO.- Se instruye a la Secretaria del Honorable Ayuntamiento para que en el ámbito de sus atribuciones, realice las acciones y trámites pertinentes a fin de que el presente Dictamen se envíe a la Secretaría General de Gobierno para su publicación en el Periódico Oficial del Estado.
+
+TERCERO.- Las reformas entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial Estado (sic).
 
 ## [N. DE E. TRANSITORIOS DE LA “MODIFICACIÓN AL ESTATUTO ORGÁNICO DEL SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA, PUBLICADO EL 5 DE DICIEMBRE DE 2019”.]
 
