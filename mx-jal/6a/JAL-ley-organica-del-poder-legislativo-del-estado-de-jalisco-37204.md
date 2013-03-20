@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-37204"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-02-07"
-last_updated: "2012-09-27"
+last_updated: "2013-03-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2013.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 2004.
 
@@ -495,9 +495,11 @@ III. El acta en la que conste el nombre del Diputado que haya sido designado o e
 
 3. La mesa directiva del Congreso del Estado, con base en las comunicaciones de los coordinadores de las Fracciones o Grupos Parlamentarios, establece un registro del número de integrantes de cada uno de ellos y sus modificaciones.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2013)</small>
+
 ###### Artículo 27.
 
-1. De acuerdo con la representación de cada Fracción o Grupos Parlamentarios, la Comisión de Administración acuerda la asignación de recursos y oficinas adecuadas a cada uno de ellos. Adicionalmente a dicha asignación, dispone una subvención mensual para cada Fracción o Grupo Parlamentario, integrada por una suma fija de carácter general y otra variable, en función del número de diputados que las conformen, mismas que deben cumplir con lo dispuesto en la ley y encontrarse en el Presupuesto de Egresos del Poder Legislativo.
+1. De acuerdo con la representación de cada fracción o grupo parlamentario y, en su caso, de diputados independientes, la Comisión de Administración acuerda la asignación de recursos y oficinas adecuadas a cada uno de ellos. Adicionalmente a dicha asignación, dispone una subvención mensual para cada fracción o grupo parlamentario, integrada por una suma fija de carácter general y otra variable, en función del número de diputados que las conformen, mismas que deben cumplir con lo dispuesto en la ley y encontrarse en el Presupuesto de Egresos del Poder Legislativo.
 
 ###### Artículo 28.
 
@@ -505,11 +507,15 @@ III. El acta en la que conste el nombre del Diputado que haya sido designado o e
 
 2. La asignación definitiva de las áreas que correspondan a las Fracciones o Grupos Parlamentarios está a cargo de la Junta de Coordinación Política del Congreso del Estado.
 
-(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2004) (F. DE E., P.O. 19 DE FEBRERO DE 2005)
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2013)</small>
 
 ###### Artículo 28 Bis.
 
-I. Los grupos parlamentarios a través de sus coordinadores, deberán entregar a la Comisión de Administración un informe trimestral sobre la aplicación de los recursos económicos y materiales que les son asignados a los grupos parlamentarios, anexando la documentación comprobatoria que justifique las erogaciones realizadas; los cuales deberán ser publicados en la página de internet del Congreso del Estado.
+1. Los grupos parlamentarios a través de sus coordinadores o los diputados independientes deberán entregar a la Secretaría General, con copia para su conocimiento a la Comisión de Administración, un informe mensual sobre la aplicación de los recursos económicos y materiales que les son asignados, anexando la documentación comprobatoria que justifique las erogaciones realizadas, los cuales deberán ser publicados en la página de Internet del Congreso del Estado.
+
+2. La falta del informe a que se refiere el párrafo anterior, dará lugar a la suspensión de la ministración siguiente hasta en tanto no sea entregado.
+
+3. En caso de que al finalizar el ejercicio fiscal correspondiente las fracciones parlamentarias o los diputados independientes no hubieren entregado las comprobaciones relativas a los gastos ejercidos, la Secretaría General descontará las cantidades no comprobadas de la dieta de quienes las hayan ejercido, una vez agotado el esquema de comprobación.
 
 ## TÍTULO CUARTO. ÓRGANOS DE DIRECCIÓN
 
@@ -4162,5 +4168,9 @@ P.O. 6 DE SEPTIEMBRE DE 2012.
 ÚNICO. El presente decreto entrará en vigor al día siguiente al de su publicación en el periódico oficial El Estado de Jalisco.
 
 P.O. 27 DE SEPTIEMBRE DE 2012.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 20 DE MARZO DE 2013.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
