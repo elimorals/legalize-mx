@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "2013-02-27"
+last_updated: "2013-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2013.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -1367,7 +1367,9 @@ El titular del Poder Ejecutivo deberá enviar una nueva propuesta al Congreso de
 
 Las resoluciones del Ministerio Público sobre el no ejercicio y desistimiento de la acción penal podrán ser impugnados por vía jurisdiccional, en los términos que establezca la ley.
 
-Para ser Fiscal General se requiere cumplir con los mismos requisitos que esta Constitución exige para los magistrados del Supremo Tribunal de Justicia, además de cumplir y aprobar los exámenes de control de confianza en los términos de la ley, previo a su designación. El Fiscal General podrá ser libremente removido por el Gobernador del Estado.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2013)</small>
+
+Para ser Fiscal General se requiere cumplir con los mismos requisitos que esta Constitución exige en su artículo 59 para ser magistrado del Supremo Tribunal de Justicia, con excepción de lo dispuesto en su fracción V en lo referente a haber sido Secretario del Despacho o jefe de departamento administrativo, además de cumplir y aprobar los exámenes de control de confianza en los términos de la ley, previo a su designación. El Fiscal General podrá ser libremente removido por el Gobernador del Estado.
 
 El personal de la Fiscalía General del Estado será nombrado por el Fiscal General, previo cumplimiento de los requisitos establecidos en las leyes aplicables.
 
@@ -3066,3 +3068,7 @@ TERCERO. En el proceso de creación e instalación de la Fiscalía General del E
 De igual forma serán respetados los derechos de los ministerios públicos, secretarios y actuarios del Ministerio Público; los peritos y los elementos operativos de las instituciones policiales se regirán por la fracción XIII del apartado b del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General del Sistema Nacional de Seguridad Pública y demás disposiciones legales aplicables.
 
 CUARTO. No podrá ser Magistrado del Poder Judicial del Estado quien hubiere ocupado el cargo de Procurador General de Justicia del Estado durante el año previo a la designación, en términos del párrafo tercero de la fracción III del artículo 116 de la Constitución Política de los Estados Unidos Mexicanos.
+
+P.O. 20 DE MARZO DE 2013.
+
+ÚNICO. El presente decreto entrará en vigor el día de su publicación en el periódico oficial El Estado de Jalisco.
