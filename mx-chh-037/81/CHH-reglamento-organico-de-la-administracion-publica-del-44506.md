@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-organico-de-la-administracion-publica-del-44506"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-02-09"
-last_updated: "2013-02-27"
+last_updated: "2013-03-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44506&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "CHH"
 
 REGLAMENTO ORGÁNICO DE LA ADMINISTRACIÓN PÚBLICA DEL MUNICIPIO DE JUÁREZ, ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2012.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 27 DE FEBRERO DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2013.
 
 Reglamento publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 9 de febrero de 2005.
 
@@ -1367,9 +1365,19 @@ V. Coordinar a los comités deportivos del Municipio para la práctica de sus ac
 
 VI. Gestionar ante instituciones públicas, sociales y privadas la aportación de recursos para mantener en adecuadas condiciones la infraestructura deportiva municipal, y su utilización por la población;
 
-VII. Las conducentes para el fomento del deporte, en beneficio de la comunidad que le encargue el Presidente; y
+VII. Las conducentes para el fomento del deporte, en beneficio de la comunidad que le encargue el Presidente; y (sic)
 
-VIII. Las demás que señalen las leyes, reglamentos y manuales de organización.
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2013)</small>
+
+VIII.- Elaborar los programas para la capacitación y obtener la certificación en el Sistema de Registro de Deportistas Municipales Asociados (SIREDEM);
+
+> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2013)</small>
+
+IX.- Realizar los exámenes psicológicos a que se refiere el artículo 17 Bis 1 del Reglamento Interior de las Ligas Deportivas Municipales, y
+
+> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2013)</small>
+
+X.- Las demás que señalen las leyes, reglamentos y manuales de organización.
 
 ###### Artículo 92.
 
@@ -1692,3 +1700,7 @@ P.O. 20 DE JUNIO DE 2012.
 P.O. 8 DE DICIEMBRE DE 2012.
 
 ÚNICO.- La presente reforma del Reglamento Orgánico de la Administración Pública del Municipio de Juárez, Estado de Chihuahua, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Chihuahua.
+
+P.O. 20 DE MARZO DE 2013.
+
+ÚNICO.- Las presentes reformas al Reglamento Orgánico de la Administración Pública del Municipio de Juárez, Estado de Chihuahua, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Chihuahua.
