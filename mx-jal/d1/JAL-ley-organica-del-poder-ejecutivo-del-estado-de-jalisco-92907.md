@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-ejecutivo-del-estado-de-jalisco-92907"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2013-02-27"
-last_updated: "2013-02-28"
+last_updated: "2013-03-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 28 DE FEBRERO DE 2013 NO APLICA AL ARTICULADO DEL PRESENTE ORDENAMIENTO.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco el miércoles 27 de febrero de 2013.
 
@@ -1053,7 +1051,9 @@ La Fiscalía General del Estado es la responsable de la Seguridad Pública y la 
 
 El titular de la Fiscalía General del Estado es unipersonal y se denomina Fiscal General.
 
-Para ser Fiscal General se requiere cumplir con los mismos requisitos para ser Magistrado del Supremo Tribunal de Justicia del Estado y acreditar los exámenes de control de confianza.
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2013)</small>
+
+Para ser Fiscal General se requiere cumplir con los mismos requisitos que la Constitución Política del Estado de Jalisco exige en su artículo 59 para ser magistrado del Supremo Tribunal de Justicia, con excepción de lo dispuesto en su fracción V en lo referente a haber sido secretario del despacho o jefe de departamento administrativo, y acreditar los exámenes de confianza.
 
 El Fiscal General es designado por el Gobernador del Estado, y debe ser ratificado por el Congreso del Estado por el voto de cuando menos de las dos terceras partes de los diputados presentes en la sesión correspondiente. El Fiscal General puede ser removido libremente por el Gobernador del Estado.
 
@@ -1928,3 +1928,9 @@ El Secretario General de Gobierno
 VÍCTOR MANUEL GONZÁLEZ ROMERO
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 20 DE MARZO DE 2013.
+
+ÚNICO. El presente decreto entrará en vigor el día de su publicación en el periódico oficial El Estado de Jalisco.
