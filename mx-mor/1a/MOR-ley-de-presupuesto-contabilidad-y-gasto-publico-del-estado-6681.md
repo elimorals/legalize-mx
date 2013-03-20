@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-presupuesto-contabilidad-y-gasto-publico-del-estado-6681
 country: "mx"
 rank: "ley"
 publication_date: "1995-02-08"
-last_updated: "2013-01-23"
+last_updated: "2013-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6681&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 8 de febrero de 1995.
 
@@ -391,6 +391,18 @@ La presupuestación y la clasificación del gasto derivado de contratos de colab
 
 Toda erogación o Gasto Público deberá contar con saldo suficiente en la partida del Presupuesto de Egresos respectivo, y se sujetará a las reglas que determinen, en su caso, la Secretaría de Hacienda en el Poder Ejecutivo; la comisión de Hacienda, Presupuesto y Cuenta Pública del Congreso del Estado en el Poder Legislativo; el Consejo de la Judicatura en el Poder Judicial; el órgano de gobierno en los Organismos del Estado y las Tesorerías Municipales en los Ayuntamientos.
 
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2013)</small>
+
+Asimismo, con cargo a sus respectivos presupuestos y de conformidad con las disposiciones generales aplicables, deberán cubrir las contribuciones federales, estatales y municipales correspondientes, así como las obligaciones de cualquier índole que se deriven de resoluciones definitivas emitidas por autoridad competente.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2013)</small>
+
+Las adecuaciones presupuestarias que, en su caso, sean necesarias para el pago de las obligaciones a que se refiere la parte final del párrafo anterior, no podrán afectar el cumplimiento de los objetivos y las metas de los programas prioritarios aprobados en el Presupuesto de Egresos.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2013)</small>
+
+Las dependencias y entidades que no puedan cubrir la totalidad de las obligaciones conforme a lo previsto en el párrafo anterior, presentarán ante la autoridad competente un programa de cumplimiento de pago que deberá ser considerado para todos los efectos legales en vía de ejecución respecto de la resolución que se hubiese emitido, con la finalidad de cubrir las obligaciones hasta por un monto que no afecte los objetivos y metas de los programas prioritarios, sin perjuicio de que el resto de la obligación deberá pagarse en los ejercicios fiscales subsecuentes conforme a dicho programa.
+
 > <small>(REFORMADO, P.O. 23 DE ENERO DE 2013)</small>
 
 ###### ARTÍCULO 32.
@@ -684,3 +696,11 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto en el artículo 44 de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto
+
+P.O. 20 DE MARZO DE 2013.
+
+Primero.- Remítase al Titular del Poder Ejecutivo, para su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del gobierno del Estado de Morelos.
+
+Segundo.- El presente decreto entrará en vigor al día siguiente de su publicación.
+
+Tercero.- Se derogan todas las disposiciones que se opongan a la presente reforma.
