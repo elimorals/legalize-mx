@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-sistema-estatal-de-proteccion-civil-34529"
 country: "mx"
 rank: "ley"
 publication_date: "2003-09-29"
-last_updated: "2003-09-29"
+last_updated: "2013-03-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # LEY DEL SISTEMA ESTATAL DE PROTECCION CIVIL
 
-LEY DEL SISTEMA ESTATAL DE PROTECCION CIVIL
+LEY DEL SISTEMA ESTATAL DE PROTECCIÓN CIVIL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DEL SISTEMA ESTATAL DE PROTECCIÓN CIVIL, PUBLICADA EN EL P.O. DE 20 DE MARZO DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2013 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el Lunes 29 de Septiembre de 2003.
 
@@ -1128,3 +1130,15 @@ Los asuntos que se encuentren en trámite o en proceso ante las instancias compe
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los treinta y un días del mes de julio de dos mil tres.- Diputado Presidente.- JAVIER LÓPEZ ZAVALA.- Rúbrica.- Diputado Vicepresidente.- GERMÁN JAVIER HICKMAN Y MORALES.- Rúbrica.- Diputado Secretario.- MARTÍNEZ GUEVARA NÚÑEZ.- Rúbrica.- Diputado Secretario.- GREGORIO RAÚL FLORES ROSAS.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los treinta y un días del mes de julio del año dos mil tres.- El Gobernador Constitucional del Estado.- LICENCIADO MELQUIADES MORALES FLORES.- Rúbrica.- El Secretario de Gobernación.- MAESTRO EN DERECHO CARLOS ARREDONDO CONTRERAS.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 20 DE MARZO DE 2013.
+
+PRIMERO.- La presente Ley deberá publicarse en el Periódico Oficial del Estado y entrará al día siguiente de su publicación. (sic)
+
+SEGUNDO.- Se abroga la Ley del Sistema Estatal de Protección Civil, publicada en el Periódico Oficial del Estado el día veintinueve de septiembre de dos mil tres.
+
+TERCERO.- El Titular del Poder Ejecutivo del Estado deberá expedir el Reglamento de la presente Ley.
+
+CUARTO.- En tanto se expide el Reglamento a que se refiere el párrafo anterior, continuará aplicándose, en lo conducente, el Reglamento de la Ley del Sistema de Protección Civil para el Estado de Puebla, publicado en el Periódico Oficial del Estado el día 1 de julio de 1998.
