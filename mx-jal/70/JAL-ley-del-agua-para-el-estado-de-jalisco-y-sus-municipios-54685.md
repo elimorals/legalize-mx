@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-agua-para-el-estado-de-jalisco-y-sus-municipios-54685"
 country: "mx"
 rank: "ley"
 publication_date: "2007-02-24"
-last_updated: "2012-11-06"
+last_updated: "2013-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54685&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 LEY DEL AGUA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2012.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL EL 6 DE NOVIEMBRE DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2013.
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el sábado 24 de febrero de 2007.
 
@@ -115,7 +113,7 @@ XIX. Dilución. Combinación de aguas claras de primer uso con aguas residuales,
 
 XX. Económico: Condiciones determinadas que implican el menor precio, siempre que se considere la totalidad de los recursos financieros necesarios que aseguren la operación, mantenimiento y administración de las obras, equipos, instalaciones y personal correspondiente, en los términos de la Ley.
 
-XXI. Factores económicos. Condiciones determinar los que implican el menor precio, siempre que se considere de la totalidad de los recursos financieros necesarios que aseguren la operación, mantenimiento y administración de las obras, equipos, instalaciones y personal correspondiente, en los términos de la Ley;
+XXI. Factores económicos. Condiciones determinadas que implican el menor precio, siempre que se considere la totalidad de los recursos financieros necesarios que aseguren la operación, mantenimiento y administración de las obras, equipos, instalaciones y personal correspondiente, en los términos de la Ley;
 
 XXII. Gasto Ecológico. Caudal. o volumen mínimo necesario en cuerpos receptores, incluyendo corrientes de diversa índole o embalses, o el caudal mínimo de descarga natural de un acuífero, que debe conservarse para proteger las condiciones ambientales y el equilibrio ecológico del sistema, de acuerdo a las especificaciones técnicas que fije la autoridad competente;
 
@@ -125,7 +123,7 @@ XXIII. Red o instalación domiciliaria o privada. Las obras que requiere el usua
 
 XXIV. Ley. Ley del Agua para el Estado de Jalisco y sus Municipios;
 
-XXV. Obras Hidráulicas. Conjunto de obras, equipamientos, instalaciones y mecanismos construidos para el aprovechamiento, control o regulación del agua para cualquiera de los usos, así corno para la prestación de los servicios a que se refiere la presente Ley;
+XXV. Obras Hidráulicas. Conjunto de obras, equipamientos, instalaciones y mecanismos construidos para el aprovechamiento, control o regulación del agua para cualquiera de los usos, así como para la prestación de los servicios a que se refiere la presente Ley;
 
 XXVI. Orden de Prelación. Antelación o preferencia con que un uso de agua debe ser atendido respecto de otro uso;
 
@@ -207,7 +205,7 @@ LIV. Usuario. Las personas físicas, los condominios y otras personas jurídicas
 
 > <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
 
-LV. Zona o área de protección o restricción. La franja de terreno inmediata contigua a los cauces y depósitos de los cuerpos y corrientes naturales o artificiales de propiedad federal, estatal y municipal, incluyendo los terrenos inmediatos y contiguos de las presas y demás obras hídricas a cargo del Gobierno del Estado, para su protección, operación, rehabilitación, mantenimiento y vigilancia, en la extensión que en cada caso determinen las normas aplicables.
+LV. Zona o área de protección o restricción. La franja de terreno inmediata y contigua a los cauces y depósitos de los cuerpos y corrientes naturales o artificiales de propiedad federal, estatal y municipal, incluyendo los terrenos inmediatos y contiguos de las presas y demás obras hídricas a cargo del Gobierno del Estado, para su protección, operación, rehabilitación, mantenimiento y vigilancia, en la extensión que en cada caso determinen las normas aplicables.
 
 (SE DEROGA ÚLTIMO PÁRRAFO, P.O. 18 DE AGOSTO DE 2012)
 
@@ -297,7 +295,7 @@ V. La elaboración, negociación y propuesta de políticas públicas, estrategia
 
 VI. La proposición de políticas públicas, estrategias, programas, proyectos y acciones para hacer eficiente el uso del agua en riego, en otros los usos agropecuarios y en la acuicultura;
 
-VII. La proposición de políticas públicas, estrategia, programas, proyectos y acciones para la conservación de las cuentas hidrológicas, los acuíferos, los bosques y el fomento a la reforestación de las cuencas a fin de restablecer el equilibrio ecológico de las mismas;
+VII. La proposición de políticas públicas, estrategias, programas, proyectos y acciones para la conservación de las cuencas hidrológicas, los acuíferos, los bosques y el fomento a la reforestación de las cuencas a fin de restablecer el equilibrio ecológico de las mismas;
 
 VIII. La proposición de políticas públicas, estrategias, programas, proyectos para el manejo y conservación de la infraestructura hidráulica ubicada en el Estado;
 
@@ -335,7 +333,7 @@ I. Establecer la coordinación entre los diversos sectores e instituciones vincu
 
 II. Definir los mecanismos específicos de generación de recursos financieros que contribuyan a alcanzar el desarrollo sustentable del recurso hídrico;
 
-III. Valorar el agua en términos sociales, económicos, financieros y ambientales, reflejar el verdadero valor del agua y. promover la corresponsabilidad social que conlleva sugestión integrada con equidad y sustentabilidad;
+III. Valorar el agua en términos sociales, económicos, financieros y ambientales, reflejar el verdadero valor del agua y promover la corresponsabilidad social que conlleva su gestión integrada con equidad y sustentabilidad;
 
 IV. Generar los elementos que permitan determinar los montos que deberán pagarse bajo la figura de derechos de uso y explotación del agua en las cuencas hidrológicas, con el propósito de sustentar el mejoramiento de la gestión de los recursos hídricos para contribuir al bienestar social y al crecimiento económico en un entorno de sustentabilidad;
 
@@ -411,7 +409,7 @@ En el reglamento de esta Ley, se establecen los términos y reglas para la parti
 
 ###### Artículo 15.
 
-Los principios que orientarán la programación hidráulica del Estado son:
+Los principios que orientarán la programación hídrica del Estado son:
 
 I. El agua es un recurso natural limitado, dotado de valor económico y su acceso para las actividades vitales constituye un derecho de todos los habitantes de Jalisco;
 
@@ -423,7 +421,7 @@ IV. La gestión del agua se hará en forma integrada a partir de la cuenca o sub
 
 V. El que contamine el agua será responsable de su tratamiento ya sea a través de medidas que adopte directamente o bajo el pago de costos de recuperación en condiciones que no afecten el medio ambiente e impliquen su reutilización.
 
-VI. La participación informada y responsable de los usuarios del agua y de la sociedad, será la base para la programación de la gestión del recurso hídrico Y (sic) favorecerá la formación de una cultura del agua acorde con los principios contenidos en la presente Ley.
+VI. La participación informada y responsable de los usuarios del agua y de la sociedad, será la base para la programación de la gestión del recurso hídrico Y favorecerá la formación de una cultura del agua acorde con los principios contenidos en la presente Ley.
 
 VII. En todos los casos se debe pagar por el uso del recurso hídrico o por el pago por vertidos en cuerpos receptores y por su tratamiento respectivo.
 
@@ -437,7 +435,7 @@ I. La integración y actualización del inventario de:
 
 a) Las aguas nacionales asignadas o concesionadas en el Estado por autoridad competente,
 
-b) Las aguas que formen parte de reservas constituidas conforme a las leyes en la materia, y
+b) Las aguas que formen parte de reservas constituidas conforme a las leyes en la materia, y (sic)
 
 c) Las aguas de jurisdicción estatal y sus bienes públicos inherentes,
 
@@ -459,13 +457,13 @@ IV. La aprobación del Gobernador del Estado del Programa Hídrico Estatal, para
 
 V. La programación hídrica del Estado, cuando así lo determine el Gobierno Federal, se constituirá en el subprograma específico por entidad, correspondiente al Estado de Jalisco, a que se refiere la Ley de Aguas Nacionales y su reglamento;
 
-VI. La medición sistemática de la ocurrencia del agua y su aprovechamiento, así como de las características de cantidad y calidad de los vertidos procedentes de cada use en los cuerpos receptores en la entidad; y
+VI. La medición sistemática de la ocurrencia del agua y su aprovechamiento, así como de las características de cantidad y calidad de los vertidos procedentes de cada uso en los cuerpos receptores en la entidad; y
 
 VII. La coordinación con las autoridades federales competentes para el efecto de que el Sistema Estatal tome en consideración los lineamientos emanados de la Comisión Nacional, así como para que el Gobierno Federal pueda proporcionar, en su caso, la asistencia técnica que le solicite el Gobierno Estatal en relación con los proyectos de las obras de los servicios públicos de agua.
 
 ###### Artículo 17.
 
-En la formulación e integración de la programación hídrica estatal a que se refiere este capitulo, se tendrán en cuenta los criterios necesarios para garantizar el desarrollo integral sustentable y la debida consideración a la cuota natural de renovación de las aguas que la Comisión determine con apego a las normas oficiales mexicanas en la materia y con apoyo en los estudios que al efecto realice, en el marco de las cuencas hidrológicas y acuíferos, como unidades básicas para la gestión del recurso hidráulico del Estado.
+En la formulación e integración de la programación hídrica estatal a que se refiere este capitulo, se tendrán en cuenta los criterios necesarios para garantizar el desarrollo integral sustentable y la debida consideración a la cuota natural de renovación de las aguas que la Comisión determine con apego a las normas oficiales mexicanas en la materia y con apoyo en los estudios que al efecto realice, en el marco de las cuencas hidrológicas y acuíferos, como unidades básicas para la gestión del recurso hídrico del Estado.
 
 ###### Artículo 18.
 
@@ -483,7 +481,7 @@ Las previsiones de la programación hídrica estatal a que se refieren los artí
 
 Son autoridades responsables de vigilar la observancia de la presente Ley, en el ámbito de sus respectivas competencias, conforme a las atribuciones que establece el presente ordenamiento y las leyes que rigen su funcionamiento y facultades:
 
-I. Comisión;
+I. La Comisión;
 
 II. La Secretaría de Medio Ambiente para el Desarrollo Sustentable;
 
@@ -525,7 +523,7 @@ X. Expedir, en los términos que establezcan los convenios materia de la Fracci�
 
 XI. Conciliar y, en su caso, fungir a petición de los usuarios, como árbitro en la prevención, mitigación y solución de conflictos relacionados con el agua y su gestión, en los términos de los reglamentos de esta ley;
 
-XII. Coordinarse en la gestión de los recursos económicos y financieros que genere el agua y su gestión bajo el principio de que “el agua paga el agua”, conforme al marco jurídico en la materia, con el propósito de financiar las actividades, y sustantivas de la Comisión y del sector hídrico estatal con los recursos correspondientes;
+XII. Coordinarse en la gestión de los recursos económicos y financieros que genere el agua y su gestión bajo el principio de que “el agua paga el agua”, conforme al marco jurídico en la materia, con el propósito de financiar las actividades, sustantivas de la Comisión y del sector hídrico estatal con los recursos correspondientes;
 
 XIII. Proponer la aplicación de los avances científicos y tecnológicos en el establecimiento y conservación de la infraestructura hidráulica, así como en la prestación de los servicios públicos de agua. Incluyendo la determinación y normalización de índices de gestión que permiten evaluar los avances en la materia;
 
@@ -549,13 +547,13 @@ XXII. Participar en coordinación con la Comisión Nacional y escuchando al Cons
 
 XXIII. Intervenir en el ámbito de su competencia y de conformidad con la legislación aplicable, en la supervisión y validación de los programas de obras de agua potable, alcantarillado y saneamiento de carácter público o privado que se realicen en el Estado;
 
-XXIV. Formular en coordinación con a Secretaría de Finanzas, la Secretaría de Desarrollo Urbano, la Secretaría de Desarrollo Rural, los Ayuntamientos de la Entidad y el COPLADE, los programas anuales de inversión del sector público en obras hidráulicas, de agua potable, alcantarillado y saneamiento en el Estado;
+XXIV. Formular en coordinación con la Secretaría de Finanzas, la Secretaría de Desarrollo Urbano, la Secretaría de Desarrollo Rural, los Ayuntamientos de la Entidad y el COPLADE, los programas anuales de inversión del sector público en obras hidráulicas, de agua potable, alcantarillado y saneamiento en el Estado;
 
 XXV. Proponer, aplicar y dar seguimiento a criterios y políticas de asignación de apoyos estatales para el estudio, proyecto, diseño, construcción, rehabilitación, mejoramiento y operación de los sistemas de agua potable, alcantarillado, tratamiento y disposición de aguas residuales;
 
 XXVI. Proyectar, construir y supervisar, en coordinación con las instituciones públicas estatales y municipales competentes, los sistemas públicos de agua potable, alcantarillado y saneamiento y las obras públicas consideradas en los convenios celebrados con los Municipios del Estado y con la Federación o aquellas que le fueran asignadas directamente;
 
-XXVII. Promover la potabilización del agua, el tratamiento de aguas residuales y su disposición, así como el manejo de Iodos u otros sólidos resultantes del tratamiento o adecuación de las aguas servidas;
+XXVII. Promover la potabilización del agua, el tratamiento de aguas residuales y su disposición, así como el manejo de lodos u otros sólidos resultantes del tratamiento o adecuación de las aguas servidas;
 
 > <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
 
@@ -597,7 +595,7 @@ XLII. Promover, apoyar y, en su caso, gestionar ante las dependencias, instancia
 
 XLIII. Conocer de todos los asuntos que en forma general o específica interesen al buen funcionamiento de los servicios públicos de agua;
 
-XLlV. Emitir opinión sobre el contenido de disposiciones jurídicas y proyectos de éstas relativas a los recursos hídricos y a la prestación de los servicios públicos correspondientes;
+XLIV. Emitir opinión sobre el contenido de disposiciones jurídicas y proyectos de éstas relativas a los recursos hídricos y a la prestación de los servicios públicos correspondientes;
 
 XLV. Determinar de acuerdo a la legislación vigente las cuotas y tarifas de conformidad con lo establecido en esta ley cuando preste servicios públicos de agua;
 
@@ -635,7 +633,7 @@ e) El titular o representante de la Secretaría de Promoción Económica;
 
 f) El titular o representante de la Secretaría de Finanzas;
 
-g) Et titular o representante de la Contraloría del Estado;
+g) El titular o representante de la Contraloría del Estado;
 
 h) Dos representantes de los municipios del Estado designados por mayoría de votos de los presidentes municipales;
 
@@ -665,7 +663,7 @@ La Junta de Gobierno sesionará ordinariamente cada tres meses y extraordinariam
 
 ###### Artículo 29.
 
-Para que las sesiones sean válidas, se requiere la asistencia de la mitad más uno de los miembros de la Junta de Gobierno. En caso que no se reúna el quórum para sesionar, se realizará una segunda convocatoria, la cual será firmada por los presentes, para sesionar después de transcurridas al menos veinticuatro horas en relación con la primer convocatoria, en la fecha y hora que señale !a mayoría de los miembros presentes. En caso que nuevamente no exista quórum, después de treinta minutos de espera, la sesión se realizará en forma válida con los miembros que se encuentren presentes.
+Para que las sesiones sean válidas, se requiere la asistencia de la mitad más uno de los miembros de la Junta de Gobierno. En caso que no se reúna el quórum para sesionar, se realizará una segunda convocatoria, la cual será firmada por los presentes, para sesionar después de transcurridas al menos veinticuatro horas en relación con la primer convocatoria, en la fecha y hora que señale la mayoría de los miembros presentes. En caso que nuevamente no exista quórum, después de treinta minutos de espera, la sesión se realizará en forma válida con los miembros que se encuentren presentes.
 
 ###### Artículo 30.
 
@@ -681,7 +679,7 @@ La Junta de Gobierno tiene las siguientes facultades:
 
 I. Tomar las resoluciones, dictar los acuerdos y realizar los actos necesarios para el cumplimiento de las funciones que correspondan a la Comisión;
 
-II. Revisar los presupuestos de ingresos y egresos de 'la' Comisión y aprobarlos, en su caso;
+II. Revisar los presupuestos de ingresos y egresos de la Comisión y aprobarlos, en su caso;
 
 III. Revisar y aprobar, en su caso, los programas que le sean sometidos a su consideración por el Director General de la Comisión;
 
@@ -691,7 +689,7 @@ V. Aprobar y emitir las normas técnicas relativas a la prestación de los servi
 
 VI. Autorizar al Director General, para que tramite, conforme a la legislación aplicable, la contratación de créditos necesarios para la prestación de los servicios que le correspondan a la Comisión, así como para la realización de obras, condicionando los empréstitos a la aprobación de la mayoría calificada de sus integrantes, para su posterior aprobación por el Congreso del Estado.
 
-VII. Aprobar los proyectos de inversión del patrimonio de la' Comisión Estatal; y
+VII. Aprobar los proyectos de inversión del patrimonio de la Comisión Estatal; y
 
 VIII. Nombrar a su representante ante el Consejo Estatal del Agua.
 
@@ -699,7 +697,7 @@ VIII. Nombrar a su representante ante el Consejo Estatal del Agua.
 
 Son facultades del Presidente de la Junta de Gobierno:
 
-l. Presidir las sesiones de la Junta de Gobierno;
+I. Presidir las sesiones de la Junta de Gobierno;
 
 II. Convocar, a través del Secretario Técnico, a las sesiones de la Junta de Gobierno;
 
@@ -721,7 +719,7 @@ Son facultades del Director General:
 
 > <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2007)</small>
 
-I. Representar la Comisión como apoderado general para pleitos y cobranzas y para actos de administración, con todas las facultades generales y las que requieran cláusula especial de acuerdo con la ley, sin perjuicio de que la Junta de Gobierno otorgue otros poderes a diversas personas. Para ejercer actos de dominio, requerirá autorización expresa de la Junta de Gobierno, a la legislación aplicable; también podrá delegar la representación de apoderado con todas las facultades referidas o limitadas, según sea necesario;
+I. Representar a la Comisión como apoderado general para pleitos y cobranzas y para actos de administración, con todas las facultades generales y las que requieran cláusula especial de acuerdo con la ley, sin perjuicio de que la Junta de Gobierno otorgue otros poderes a diversas personas. Para ejercer actos de dominio, requerirá autorización expresa de la Junta de Gobierno, a la legislación aplicable; también podrá delegar la representación de apoderado con todas las facultades referidas o limitadas, según sea necesario;
 
 II. Ejecutar los acuerdos de la Junta de Gobierno;
 
@@ -831,7 +829,7 @@ En el cumplimiento de sus funciones la Secretaría de Desarrollo Rural deberá:
 
 I. Vigilar el cumplimiento de las obligaciones de las asociaciones de usuarios a que se refiere el artículo anterior, con sujeción a las disposiciones legales aplicables en materia de agua;
 
-II. Integrar el padrón de usuarios precisando los tipos y derechos al uso del agua, incorporándolo al Sistema Estatal de Información del Agua; y
+II. Integrar el padrón de usuarios precisando los tipos y derechos al uso del agua, incorporándolo al Sistema Estatal de Información del Agua; y (sic)
 
 III. Asistir técnicamente a las unidades, distritos de riego, Consejos Locales y Consejo Estatal de Usuarios del agua, así como asesorar a los usuarios de los mismos en la entidad, a efecto de propiciar un aprovechamiento racional del agua.
 
@@ -893,7 +891,7 @@ V. Ser corresponsables con los organismos operadores de:
 
 a) La calidad del agua potable suministrada, para que cumpla con las normas oficiales establecidas;
 
-b) la vigilancia del tratamiento de sus aguas residuales,
+b) La vigilancia del tratamiento de sus aguas residuales,
 
 c) La reutilización y recirculación de las aguas servidas; y
 
@@ -1067,7 +1065,7 @@ La Comisión estará encargada de establecer la normatividad de los servicios de
 
 Para los efectos de lo dispuesto en los artículos 15 y 18 de la Ley, la Comisión promoverá la organización y la participación plena de los usuarios del agua, la participación de la sociedad organizada mediante el registro y acreditación de las organizaciones constituidas cuyos objetivos estén relacionados o interesados en la gestión del agua y de los particulares cuyos intereses y capacidad puedan aportar beneficios a la gestión del agua en el Estado.
 
-Para los efectos de los articulas 4°, 12, 13 y 16 de la Ley, la Comisión promoverá las acciones necesarias para que los usuarios del agua, la sociedad organizada y los particulares acreditados participen en forma activa en los términos del artículo 57.
+Para los efectos de los articulos 4°, 12, 13 y 16 de la Ley, la Comisión promoverá las acciones necesarias para que los usuarios del agua, la sociedad organizada y los particulares acreditados participen en forma activa en los términos del artículo 57.
 
 > <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2012)</small>
 
@@ -1085,7 +1083,7 @@ Para lo dispuesto en materia de programación hídrica estatal y de acuerdo con 
 
 Para los efectos de la presente Ley, en cada una de las cuencas hidrológicas a que se refiere el artículo anterior, la Comisión promoverá la constitución de un Consejo Local de usuarios del agua en cuyo seno participen:
 
-l. Los usuarios con derechos de agua en la cuenca correspondiente;
+I. Los usuarios con derechos de agua en la cuenca correspondiente;
 
 II. Los representantes de las dependencias estatales y municipales involucradas;
 
@@ -1152,8 +1150,6 @@ V. En todos los casos, los consejeros en su calidad de integrantes del Consejo T
 (NOTA: EL 17 DE JUNIO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 99/2012 DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 [En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE NOVIEMBRE DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 > <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2012)</small>
 
@@ -1247,7 +1243,7 @@ Será pública la información sobre la administración del agua y aquella conte
 
 Los integrantes de los sectores privado y social en los términos de la presente Ley, la Ley del Gobierno y la Administración Pública Municipal del Estado de Jalisco, la Ley de Obra Pública del Estado de Jalisco, la Ley del Procedimiento Administrativo del Estado de Jalisco y sus Municipios y demás leyes aplicables, así como sus reglamentos, podrán participar de forma individual o colectiva en:
 
-l. La ejecución de obras de infraestructura hidráulica y proyectos relacionados con los servicios públicos;
+I. La ejecución de obras de infraestructura hidráulica y proyectos relacionados con los servicios públicos;
 
 II. El financiamiento de obras, instalaciones y equipamiento para la gestión de los recursos hídricos y para la prestación de servicios de aguas rurales y urbanos;
 
@@ -1257,7 +1253,7 @@ III. La prestación de los servicios públicos de suministro de agua potable, al
 
 > <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
 
-IV. la administración, operación y mantenimiento parcial de los sistemas destinados a la prestación de los servicios públicos de agua potable, alcantarillado y tratamiento de aguas residuales, así como la reutilización de éstas; y
+IV. La administración, operación y mantenimiento parcial de los sistemas destinados a la prestación de los servicios públicos de agua potable, alcantarillado y tratamiento de aguas residuales, así como la reutilización de éstas; y
 
 V. Las demás actividades que se convengan con la Comisión, los ayuntamientos o sus Organismos Operadores, en el ámbito de sus respectivas competencias.
 
@@ -1317,7 +1313,7 @@ Los servicios públicos municipales de agua potable, drenaje, alcantarillado, tr
 
 I. La explotación de aguas asignadas o concesionadas, recepción de agua en bloque, potabilización, conducción y distribución de agua potable, así como la recolección de las aguas residuales;
 
-II. El tratamiento de las aguas residuales, su disposición final y la de los Iodos u otros residuos resultantes;
+II. El tratamiento de las aguas residuales, su disposición final y la de los lodos u otros residuos resultantes;
 
 III. Operación, control y mantenimiento del alcantarillado sanitario;
 
@@ -1333,7 +1329,7 @@ VI. La instalación de medidores para la cuantificación de la extracción, cons
 
 > <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
 
-VII. La determinación, emisor, y cobro de cuotas, taritas y otras aportaciones que se causen en pago por la prestación de los servicios correspondientes; y
+VII. La determinación, emisión, y cobro de cuotas, tarifas y otras aportaciones que se causen en pago por la prestación de los servicios correspondientes; y
 
 > <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2012)</small>
 
@@ -1347,7 +1343,7 @@ Los Municipios y organismos operadores de los servicios se encontrarán obligado
 
 ###### Artículo 84.
 
-Serán principios rectores en materia servicios de agua potable, alcantarillado y saneamiento, garantizar a los usuarios el suministro de un servicio de calidad aceptable al costo más económico posible, a efecto de promover y hacer efectivo el derecho al agua potable y el saneamiento como un derecho humano esencial para el pleno disfrute de la vida y de todos los derechos humanos, mediante:
+Serán principios rectores en materia (sic) servicios de agua potable, alcantarillado y saneamiento, garantizar a los usuarios el suministro de un servicio de calidad aceptable al costo más económico posible, a efecto de promover y hacer efectivo el derecho al agua potable y el saneamiento como un derecho humano esencial para el pleno disfrute de la vida y de todos los derechos humanos, mediante:
 
 I. La distribución justa y equitativa de los beneficios y costos que generan los servicios de agua potable y saneamiento; y
 
@@ -1363,7 +1359,7 @@ II. Asegurar objetivos colectivos de salud pública y preservación del medio am
 
 III. Asegurar la generación de información técnica y administrativa que garantice la confiabilidad en la determinación de costos de los servicios;
 
-IV. Dimensional y limitar la participación de los sectores, garantizando igualdad de condiciones para organismos operadores públicos y privados, estableciendo bases claras y orientando las resoluciones hacia soluciones de largo plazo que beneficien a los usuarios; y
+IV. Dimensionar y limitar la participación de los sectores, garantizando igualdad de condiciones para organismos operadores públicos y privados, estableciendo bases claras y orientando las resoluciones hacia soluciones de largo plazo que beneficien a los usuarios; y
 
 V. Para el riego de áreas verdes públicas.
 
@@ -1413,7 +1409,7 @@ IV. Los establecimientos dedicados al lavado de autos;
 
 V. La agricultura; y
 
-VI. Les demás que determinen otras disposiciones legales o. reglamentarias.
+VI. Las demás que determinen otras disposiciones legales o. reglamentarias.
 
 ###### Artículo 87.
 
@@ -1429,7 +1425,7 @@ IV. Programa de inversiones, de corto, mediano y largo plazo;
 
 V. Asignaciones de agua a favor del municipio por parte de la autoridad competente en términos de Ley;
 
-VI. Fuentes de abastecimiento de agua, sus condiciones de uso, calidad, y desarrollo potencial de las mismas; y
+VI. Fuentes de abastecimiento de agua, sus condiciones de uso, calidad, y desarrollo potencial de las mismas; y (sic)
 
 VII. Condiciones de la distribución y colecta de aguas en cuanto a. volumen y calidad.
 
@@ -1437,7 +1433,11 @@ VIII. Así como cualquier otra información que se estime pertinente para su int
 
 ### CAPÍTULO II. De los derechos y obligaciones de los usuarios de servicios públicos
 
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 20 DE MARZO DE 2013)</small>
+
 ###### Artículo 88.
+
+Toda persona en el Estado de Jalisco, tiene derecho al acceso suficiente de agua potable para su uso personal y habitacional.
 
 Los usuarios tendrán la obligación de cuidar que el agua se utilice con eficiencia a la vez que deberán evitar contaminarla fuera de los parámetros que se establezcan en las leyes, reglamentos, normas oficiales mexicanas, normas mexicanas, y normas oficiales estatales.
 
@@ -1459,9 +1459,13 @@ II. Recibir los avisos de cobro y reclamar los errores que contengan tales aviso
 
 III. Interponer recursos legales en contra de actos o resoluciones de las autoridades competentes en materia de agua potable, alcantarillado y saneamiento de conformidad con lo que señala esta ley y su reglamento;
 
-IV. Recibir información sobre los servicios públicos de agua, incluyendo los cambios a las cuotas y tarifas a efecto de hacer valer sus derechos como usuario y ser informados con anticipación de los cortes de servicios públicos de agua a que se refiere el artículo anterior; y
+IV. Recibir información sobre los servicios públicos de agua, incluyendo los cambios a las cuotas y tarifas a efecto de hacer valer sus derechos como usuario y ser informados con anticipación de los cortes de servicios públicos de agua a que se refiere el artículo anterior; y (sic)
 
 V. Denunciar ante la autoridad competente cualquier acción u omisión relacionada con los servicios públicos de agua potable, alcantarillado y saneamiento, cometida por terceras personas que pudieran afectar sus derechos.
+
+> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2013)</small>
+
+VI. Exigir a las autoridades el suministro de agua potable, única y exclusivamente para uso habitacional, de quienes se encuentren en el supuesto previsto en el artículo anterior, mediante la dotación gratuita a través de pipas, carros tanques, hidrantes provisionales o públicos distribuidos en las demarcaciones territoriales del Estado de Jalisco, en aquellos municipios que cuenten con organismos operadores del agua contemplados en la ley, conforme a criterios poblacionales, geográficos, viales, de accesibilidad y de equidad determinados por el Sistema Estatal del Agua, salvaguardando, en todo momento, el derecho al acceso de agua para uso habitacional, considerando la disponibilidad de los recursos del Ayuntamiento u Organismo Operador del agua correspondiente.
 
 ###### Artículo 91.
 
@@ -1507,7 +1511,7 @@ En los términos de la Ley y su reglamento, las autoridades competentes y los or
 
 El sistema de cuotas y tarifas por los servicios públicos de agua potable, drenaje, alcantarillado, tratamiento y disposición final de las aguas residuales deberá propiciar:
 
-l. La sostenibilidad de los servicios públicos;
+I. La sostenibilidad de los servicios públicos;
 
 II. La adecuación de la demanda de los servicios a los requerimientos suficientes para satisfacer las necesidades vitales y sanitarias;
 
@@ -1551,7 +1555,7 @@ IV. Cuando no sea posible efectuar la medición de consumo de agua por falta del
 
 ###### Artículo 97.
 
-Las cuotas y tarifas por la prestación de los servicios públicos de agua potable, drenaje, alcantarillado, tratamiento v disposición final de las aguas residuales comprenderán:
+Las cuotas y tarifas por la prestación de los servicios públicos de agua potable, drenaje, alcantarillado, tratamiento y disposición final de las aguas residuales comprenderán:
 
 I. Expedición de certificados de factibilidad;
 
@@ -1942,3 +1946,7 @@ II. Formular y aprobar los instrumentos administrativos necesarios para adecuars
 > <small>(F. DE E., P.O. 6 DE NOVIEMBRE DE 2012)</small>
 
 SEXTO. A partir de la fecha cuando el Ayuntamiento y sus dependencias u organismos asuman la administración de los servicios públicos de agua potable y saneamiento en los términos de las reformas y adiciones que se autorizan, se derogarán todas las disposiciones que se opongan a lo establecido en el presente Decreto, en el ámbito de aplicación correspondiente a ese Municipio.
+
+P.O. 20 DE MARZO DE 2013.
+
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL FEDERAL.
