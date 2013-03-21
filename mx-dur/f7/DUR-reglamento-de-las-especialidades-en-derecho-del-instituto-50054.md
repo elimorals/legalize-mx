@@ -4,7 +4,7 @@ identifier: "DUR-reglamento-de-las-especialidades-en-derecho-del-instituto-50054
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-03-16"
-last_updated: "2006-03-16"
+last_updated: "2013-03-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50054&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # REGLAMENTO DE LAS ESPECIALIDADES EN DERECHO DEL INSTITUTO DE ESPECIALIZACION JUDICIAL DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE DURANGO
 
-ACUERDO GENERAL 3/2006 QUE CONTIENE EL REGLAMENTO DE LAS ESPECIALIDADES EN DERECHO DEL INSTITUTO DE ESPECIALIZACION JUDICIAL DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE DURANGO
+ACUERDO GENERAL 3/2006 QUE CONTIENE EL REGLAMENTO DE LAS ESPECIALIDADES EN DERECHO DEL INSTITUTO DE ESPECIALIZACIÓN JUDICIAL DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA UNIVERSIDAD JUDICIAL, PUBLICADO EN EL P.O. DE 21 DE MARZO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Durango, el jueves 16 de marzo de 2006.
 
@@ -432,3 +434,21 @@ TERCERO. Para efectos de cumplir con el principio de publicidad de los actos a q
 CUARTO. De conformidad con lo dispuesto por el artículo 73 de la Ley Orgánica del Poder Judicial del Estado el Consejo de la Judicatura dispone que el presente Reglamento se publique por una sola vez en el Periódico Oficial del Gobierno Constitucional del Estado.
 
 Así lo acuerdan y firman los Consejeros integrantes del Pleno del Consejo de la Judicatura del Poder Judicial del Estado, DR. MIGUEL ÁNGEL RODRÍGUEZ VÁZQUEZ (Magistrado Presidente), LIC. JOSÉ ISMAEL RIVERA ALVARADO, LIC. MOISÉS MORENO ARMENDÁRIZ, LIC. SUSANA PACHECO RODRÍGUEZ y LIC. FRANCISCO LUIS QUIÑONES RUIZ, en la sesión ordinaria celebrada el 20 de febrero de 2006, ante el LIC. MARIO R. VALERO SALAS, Secretario Ejecutivo del Pleno, Carrera Judicial y Disciplina del Consejo de la Judicatura, que da fe.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE MARZO DE 2013.
+
+PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Con la entrada en vigor del presente acuerdo, quedan abrogados los siguientes: 2/2006 que contiene el "Reglamento Interior del Instituto de Especialización Judicial del Consejo de la Judicatura del Poder Judicial del Estado de Durango"; 3/2006 que contiene el "Reglamento de las Especialidades en Derecho del Instituto de Especialización Judicial del Consejo de la Judicatura del Poder Judicial del Estado de Durango"; 05/2006, que "Autoriza la Remisión de la Constancia de Asistencia o Inasistencia a los Cursos Organizados por el Instituto de Especialización Judicial al Departamento de Recursos Humanos para que sea agregada al expediente personal de los servidores públicos del Poder Judicial"; 7/2006, que modifica el Reglamento Interior del Instituto de Especialización Judicial del Consejo de la Judicatura del Poder Judicial del Estado de Durango; 10/2006, "por el que se regula la participación de los Magistrados, Jueces, Secretarios, Actuarios y demás servidores públicos del Poder Judicial en las actividades docentes del Instituto de Especialización Judicial"; y el 1/2012, a través del cual se emitió el "Reglamento de Estudios de Posgrado del Instituto de Especialización Judicial del Consejo de la Judicatura del Poder Judicial del Estado de Durango".
+
+TERCERO. Los estudios efectuados en el marco de los Acuerdos Generales del Consejo de la Judicatura 2, 3, 5, 7, y 10 todos del año 2006, así como el 1/2012, ante el Director del Instituto de Especialización Judicial, se entenderán hechos y validados por el Rector de la Universidad Judicial.
+
+CUARTO. Por única ocasión la designación a que se refiere el artículo 10 del presente Reglamento, recaerá en el Director del Instituto de Especialización Judicial, para no afectar los derechos adquiridos por los alumnos que ingresaron cuando estaba en vigor el Acuerdo 1/2012.
+
+QUINTO. A partir de la entrada en vigor de este Reglamento, se deberán efectuar los trámites relativos para la obtención de los diplomas, títulos y grados que acrediten haber concluido los estudios de Especialidad, Maestría y Doctorado, mismos que se expedirán bajo la denominación de Universidad, y serán firmados por las autoridades que determina el presente.
+
+SEXTO. Para efectos de cumplir con el principio de publicidad de los actos a que hace referencia en los artículos 8 en su tercer párrafo, 10 en la fracción II del inciso A, y en la fracción III del artículo 11 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Durango, se ordena su publicación en la página Web del Poder Judicial del Estado de Durango.
+
+SEPTIMO. De conformidad con lo dispuesto por el artículo 78 de la Ley Orgánica del Poder Judicial del Estado, el Consejo de la Judicatura dispone que el presente Reglamento se publique por una sola vez en el Periódico Oficial del Gobierno del Estado.
