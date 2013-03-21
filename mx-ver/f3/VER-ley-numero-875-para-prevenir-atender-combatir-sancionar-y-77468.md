@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-875-para-prevenir-atender-combatir-sancionar-y-77468
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-05"
-last_updated: "2010-11-05"
+last_updated: "2013-03-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77468&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "VER"
 
 LEY PARA PREVENIR, ATENDER, COMBATIR, SANCIONAR Y ERRADICAR LA TRATA DE PERSONAS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 821 PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADA EN LA G.O. DE 21 DE MARZO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: DEROGADA.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz, el viernes 5 de noviembre de 2010.
 
@@ -544,3 +546,21 @@ Licenciado Fidel Herrera Beltrán
 Gobernador del Estado
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 21 DE MARZO DE 2013.
+
+Primero. La presente Ley entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se deroga la Ley para Prevenir, Atender, Combatir, Sancionar y Erradicar la Trata de Personas para el Estado de Veracruz de Ignacio de la Llave, publicada en la Gaceta Oficial del estado el día 5 de noviembre de 2010.
+
+Tercero. El Gobernador del Estado emitirá, en un plazo de noventa días a partir de la publicación de esta Ley, el Reglamento de la misma.
+
+Cuarto. La Procuraduría contará con un término de hasta trescientos sesenta días para la instalación y puesta en marcha de la Subprocuraduría Especializada a que se refiere el Artículo 3 de la presente Ley.
+
+Quinto. La Secretaría procederá a la integración de la Comisión en un término de noventa días, a partir de la publicación de la presente Ley.
+
+Sexto. La Secretaría deberá emitir los lineamientos para la vigilancia y monitoreo de los anuncios clasificados en un plazo no mayor a noventa días hábiles posteriores a la publicación de esta Ley.
+
+Séptimo. La presente Ley deroga los delitos objeto de la misma, señalados en el Código Penal.
