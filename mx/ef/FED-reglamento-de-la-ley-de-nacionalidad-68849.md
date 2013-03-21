@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-nacionalidad-68849"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-06-17"
-last_updated: "2009-06-17"
+last_updated: "2013-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68849&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-06-16"
 
 REGLAMENTO DE LA LEY DE NACIONALIDAD
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE MARZO DE 2013.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 17 de junio de 2009.
 
@@ -165,11 +165,17 @@ IX.- Manifestar bajo protesta de decir verdad que la información proporcionada 
 
 X.- Presentar el comprobante del pago de derechos correspondiente, en original.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE MARZO DE 2013)</small>
+
 ###### ARTÍCULO 17.
 
-En los supuestos previstos en la fracción I del artículo 20 de la Ley, el interesado deberá además de cumplir con los requisitos mencionados en el artículo anterior, con excepción de la residencia de cinco años señalada en la fracción III, los siguientes, según corresponda:
+En los supuestos previstos en la fracción I del artículo 20 de la Ley, el interesado deberá además de cumplir con los requisitos mencionados en el artículo 16 del presente Reglamento, con excepción de la residencia de cinco años señalada en la fracción III, los siguientes, según corresponda:
 
 I.- El extranjero descendiente en línea recta de un mexicano por nacimiento, deberá demostrar la filiación con la copia certificada del acta de nacimiento expedida por la oficina del registro civil mexicano u oficina consular mexicana, del ascendiente, y exhibir original del documento migratorio vigente, expedido por la Secretaría de Gobernación, con el que acredite la legal estancia y, en consecuencia, la residencia en el país durante dos años inmediatos anteriores a la fecha de la solicitud, el cual deberá tener una vigencia mínima de seis meses, posteriores a la presentación de la solicitud, del que se desprenda la Clave Única de Registro de Población;
+
+> <small>(ADICIONADO, D.O.F. 21 DE MARZO DE 2013)</small>
+
+De conformidad con lo dispuesto por el segundo párrafo del inciso a) de la fracción I del artículo 20 de la Ley, quedarán exentos de comprobar la residencia que establece dicha fracción, aquellos descendientes en línea recta en segundo grado de un mexicano por nacimiento, siempre que no cuenten con otra nacionalidad al momento de la solicitud; o bien no les sean reconocidos los derechos adquiridos a partir de su nacimiento. En este caso, además de acreditar la filiación, deberán comprobar que el Estado en el que tuvo lugar su nacimiento no los considera como sus nacionales ni cualquier otro Estado del que pudiera inferirse que los considera como tales, mediante la presentación de una constancia expedida por la autoridad competente, debidamente legalizada o apostillada y traducida al español.
 
 II.- El extranjero que tenga hijos mexicanos por nacimiento, deberá demostrar la filiación con éstos, mediante la copia certificada del acta de nacimiento expedida por la oficina del registro civil mexicano u oficina consular mexicana, y exhibir original del documento migratorio vigente, expedido por la Secretaría de Gobernación, con el que acredite la legal estancia y, en consecuencia, la residencia en el país durante dos años inmediatos anteriores a la fecha de la solicitud, el cual deberá tener una vigencia mínima de seis meses, posteriores a la presentación de la solicitud, del que se desprenda la Clave Única de Registro de Población;
 
@@ -430,3 +436,9 @@ CUARTO.- Los cambios en la estructura y en los programas que sean necesarios par
 QUINTO.- La Secretaría de Relaciones Exteriores mediante disposiciones administrativas fijará las formalidades necesarias para que los particulares efectúen los trámites y cumplan con los requisitos previstos en el presente Reglamento.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dieciséis de junio de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Fernando Francisco Gómez Mont Urueta.- Rúbrica.- La Secretaria de Relaciones Exteriores, Patricia Espinosa Cantellano.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 21 DE MARZO DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
