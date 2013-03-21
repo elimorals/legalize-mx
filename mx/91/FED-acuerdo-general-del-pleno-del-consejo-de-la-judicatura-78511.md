@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-78511"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2011-01-24"
-last_updated: "2012-07-13"
+last_updated: "2013-03-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78511&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2010-11-03"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE MARZO DE 2013.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el lunes 24 de enero de 2011.
 
@@ -695,9 +695,13 @@ Si en el dictamen se concluye que no existen elementos suficientes para advertir
 
 ### Capítulo III: Inicio del procedimiento
 
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EL ARTÍCULO 74 DEL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 21 DE MARZO DE 2013)</small>
+
 ###### Artículo 74.
 
-El procedimiento de responsabilidad administrativa inicia por oficio, queja o denuncia presentada por cualquier persona, por el servidor público que tenga conocimiento de los hechos o por el agente del Ministerio Público Federal. Las denuncias que se formulen deberán estar apoyadas en pruebas documentales o elementos probatorios suficientes para establecer la existencia de la infracción y presumir la responsabilidad del servidor público denunciado.
+El procedimiento de responsabilidad administrativa inicia por oficio, queja o denuncia presentada bajo protesta de decir verdad, por cualquier persona, por el servidor público que tenga conocimiento de los hechos o por el agente del Ministerio Público Federal. Las denuncias o quejas que se formulen deberán estar apoyadas en pruebas documentales o elementos probatorios suficientes para establecer la existencia de la infracción y presumir la responsabilidad del servidor público denunciado.
+
+En el supuesto en que se cuestione la autenticidad de la suscripción de dichos escritos, y a fin de evitar alteración, falsificación o suplantación de la personalidad, el órgano competente podrá requerir al promovente para que, previa identificación, ratifique el contenido del ocurso presentado a su nombre, lo que de no acontecer, generará que sea desechado de plano.
 
 ###### Artículo 75.
 
@@ -2300,3 +2304,11 @@ PRIMERO. El presente acuerdo entrará en vigor a los treinta días siguientes de
 SEGUNDO. Publíquese este Acuerdo General en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, y en las páginas de Internet e Intranet del Consejo de la Judicatura Federal.
 
 TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar inmediatamente el texto de este acuerdo al diverso Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta el procedimiento de responsabilidad administrativa y el seguimiento de la situación patrimonial.
+
+D.O.F. 21 DE MARZO DE 2013.
+
+PRIMERO.- El presente acuerdo entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en las páginas de Internet e Intranet del Consejo de la Judicatura Federal.
+
+TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta el procedimiento de responsabilidad administrativa y el seguimiento de la situación patrimonial.
