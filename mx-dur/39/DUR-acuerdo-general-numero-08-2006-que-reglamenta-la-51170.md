@@ -4,7 +4,7 @@ identifier: "DUR-acuerdo-general-numero-08-2006-que-reglamenta-la-51170"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-06-22"
-last_updated: "2006-08-24"
+last_updated: "2013-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51170&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 ACUERDO GENERAL NÚMERO 08/2006 QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2013.
 
 Acuerdo publicado en el Periódico Oficial del Estado de Durango, el jueves 22 de junio del 2006.
 
@@ -55,7 +55,9 @@ IV. Consejeros: Consejeros de la Judicatura del Poder Judicial del Estado de Dur
 
 V. Consejo: Consejo de la Judicatura del Poder Judicial del Estado de Durango;
 
-VI. Consejo Académico: Consejo Académico del Instituto de Especialización Judicial del Consejo de la Judicatura;
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2013)</small>
+
+VI. Consejo Académico: Consejo Académico de la Universidad Judicial;
 
 VII. Constitución: Constitución Política del Estado Libre y Soberano de Durango;
 
@@ -75,7 +77,9 @@ XIV. Ley de Responsabilidades: Ley de Responsabilidades de los Servidores Públi
 
 XV. Órganos Administrativos: Órganos Administrativos que integran el Poder Judicial del Estado conformados por el Consejo de la Judicatura del Estado y sus Órganos Auxiliares, los Secretarios Ejecutivos y los Secretarios Técnicos;
 
-XVI. Órganos Auxiliares: Fondo Auxiliar para la Administración de Justicia, Instituto de Especialización Judicial, Visitaduría Judicial, Dirección de Informática, Dirección de Archivo y Acceso a la Información Pública, Dirección de Estadística y Dirección de Auditoría Interna;
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2013)</small>
+
+XVI. Órganos Auxiliares: Fondo Auxiliar para la Administración de Justicia, Universidad Judicial, Visitaduría Judicial, Dirección de Informática, Dirección de Archivo y Acceso a la Información Pública, Dirección de Estadística y Dirección de Auditoría Interna;
 
 XVII. Órganos Jurisdiccionales: Salas y Juzgados del Poder Judicial del Estado de Durango;
 
@@ -135,7 +139,9 @@ V. Los Órganos Auxiliares siguientes:
 
 a) Fondo Auxiliar;
 
-b) Instituto de Especialización Judicial;
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2013)</small>
+
+b) Universidad Judicial;
 
 c) Visitaduría Judicial;
 
@@ -623,13 +629,17 @@ VII. Proponer al Pleno los lineamientos para la designación de los servidores p
 
 VIII. Proponer al Presidente la celebración de convenios con instituciones académicas para promover e incentivar el ascenso en la carrera judicial;
 
-IX. Proponer al Pleno la realización de cursos de capacitación, actualización, especialidad y maestría, así como supervisar que se lleven a cabo por parte del Instituto de Especialización Judicial;
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2013)</small>
+
+IX. Proponer al Pleno la realización de cursos de capacitación y actualización, estudios de especialidad, maestría y doctorado, así como supervisar que se lleven a cabo por parte de la Universidad Judicial;
 
 X. Remitir al Pleno, propuestas de publicaciones del Consejo en términos de la normatividad que aquél emita;
 
 XI. Aprobar la lista anual con los nombres de las personas que puedan fungir como peritos ante los órganos del Poder Judicial, ordenándolas por ramas, especialidades y distritos judiciales;
 
-XII. Coordinar y supervisar el funcionamiento del Instituto de Especialización Judicial;
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2013)</small>
+
+XII. Coordinar y supervisar el funcionamiento de la Universidad Judicial;
 
 XIII. Hacer propuestas al Pleno en cuanto a la política informática;
 
@@ -1307,9 +1317,11 @@ Para el ejercicio de sus funciones, el Consejo contará con aquellos Órganos Au
 
 Para el adecuado y eficaz funcionamiento de los Órganos Auxiliares, existirán Direcciones, a fin de ejecutar las funciones administrativas, de control, informáticas y todas aquellas que considere el Pleno.
 
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2013)</small>
+
 ###### Artículo 84.
 
-El funcionamiento del Fondo Auxiliar, del Instituto de Especialización Judicial, de la Visitaduría Judicial, de la Dirección de Informática, de la Dirección de Archivo y Acceso a la Información Pública, de la Dirección de Estadística y de la Dirección de Auditoría Interna se regirán por lo dispuesto en la Ley, el presente Acuerdo, sus respectivos reglamentos internos y los manuales de organización.
+El funcionamiento del Fondo Auxiliar, de la Universidad Judicial, de la Visitaduría Judicial, de la Dirección de Informática, de la Dirección de Archivo y Acceso a la Información Pública, de la Dirección de Estadística y de la Dirección de Auditoría Interna se regirán por lo dispuesto en la Ley, el presente Acuerdo, sus respectivos reglamentos internos y los manuales de organización.
 
 ### CAPÍTULO VII. DE LAS DIRECCIONES
 
@@ -1431,55 +1443,53 @@ XXII. Establecer el plazo para la permanencia en el secreto del juzgado de las c
 
 XXIII. Las demás que le confieran su reglamento, el Pleno, el Presidente y las Comisiones.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE MARZO DE 2013)</small>
+
 SECCIÓN 3ª
 
-DE LA DIRECCIÓN DEL INSTITUTO DE ESPECIALIZACIÓN JUDICIAL
+DE LA UNIVERSIDAD JUDICIAL
+
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2013)</small>
 
 ###### Artículo 89.
 
-La Dirección del Instituto de Especialización Judicial tendrá las atribuciones siguientes:
+La Universidad Judicial tendrá las atribuciones siguientes:
 
-I. Establecer programas específicos de capacitación, formación, actualización, especialización y maestría de los servidores públicos del Poder Judicial que contribuyan a profesionalizar, mejorar la función de impartir justicia, a desarrollar la vocación de servicio y el ejercicio de los valores y principios éticos inherentes a la función judicial;
+I. Establecer programas específicos de capacitación, formación, actualización, especialización, maestría y doctorado de los servidores públicos del Poder Judicial y de quienes aspiren a pertenecer a éste, que contribuyan a profesionalizar, mejorar la función de impartir justicia, a desarrollar la vocación de servicio y el ejercicio de los valores y principios éticos inherentes a la función judicial;
 
-II. Realizar los exámenes de aptitud para quienes aspiren a ascender a la categoría inmediata superior de la carrera judicial;
+II. Realizar los exámenes de aptitud para quienes aspiren a ascender a la carrera judicial;
 
-III. Participar en los concursos de oposición, en los términos que determine la Ley;
+III. Organizar y desarrollar los concursos de oposición, en los términos que determine la Ley y el Consejo de la Judicatura;
 
 IV. Proponer los planes y programas de estudio que de manera integral contribuyan al desarrollo de la función jurisdiccional;
 
-V. Fijar los procedimientos eficientes y oportunos para el fortalecimiento de la promoción, selección, formación y evaluación de la carrera judicial, así como orientados a la ampliación de sus categorías tradicionales, de acuerdo a los rangos de especialización que requiere la impartición de justicia;
+V. Fijar los procedimientos académicos para la formación y capacitación de los alumnos;
 
-VI. Establecer los mecanismos que procuren el fortalecimiento de programas de difusión de la cultura jurídica y de extensión de los servicios, propiciando mecanismos de corresponsabilidad y colaboración;
+VI. Establecer las acciones que procuren el fortalecimiento de programas de difusión de la cultura jurídica y de extensión de los servicios, propiciando mecanismos de corresponsabilidad y colaboración;
 
-VII. Impartir permanentemente cursos para el ingreso a la carrera judicial y de actualización para las distintas categorías de la misma;
+VII. Impartir cursos para el ingreso a la carrera judicial y de actualización para las distintas categorías de la misma;
 
-VIII. Establecer los mecanismos para la publicación, divulgación y distribución de revistas, trabajos y obras jurídicas de investigación, legislación, doctrina y jurisprudencia;
+VIII. Establecer las acciones para la publicación, divulgación y distribución de revistas, trabajos y obras jurídicas de investigación, legislación, doctrina y jurisprudencia;
 
-IX. Fijar las bases de cooperación para proyectos de docencia e investigación con instituciones similares del país y del extranjero;
+IX. Presentar ante el Consejo a través de la Comisión de Carrera Judicial, en el mes de enero el programa anual de actividades de la Universidad:
 
-X. Coordinar las reuniones del Comité Académico;
+X. Rendir por escrito, en la primera quincena del mes de diciembre, un informe anual de actividades ante el Consejo, a través de la Comisión de Carrera Judicial.
 
-XI. Presentar ante el Consejo a través de la Comisión de Carrera Judicial, en el mes de enero el programa anual de actividades del Instituto, que incluya los cursos de formación para el ciclo siguiente;
+XI. Ejecutar los acuerdos y dictámenes que emanen del Consejo;
 
-XII. Rendir por escrito, en el último mes del año, un informe anual de actividades ante el Consejo;
+XII. Dar seguimiento a los proyectos e iniciativas del Consejo Académico.
 
-XIII. Ejecutar los acuerdos y dictámenes que emanen del Consejo y del Tribunal Superior de Justicia;
+XIII. Expedir los diplomas, certificados, constancias, títulos y grados correspondientes;
 
-XIV. Dar seguimiento a los proyectos e iniciativas del Comité Académico;
+XIV. Proponer al Pleno del Consejo los candidatos para incorporarse a laborar en la Universidad como investigadores, docentes o trabajadores administrativos:
 
-XV. Expedir los diplomas, certificados y constancias de estudio correspondientes;
+XV. Signar convenios de colaboración con instituciones de educación superior nacionales y extranjeras;
 
-XVI. Proponer al Presidente, para que éste a su vez ponga a consideración del Consejo Académico y éste del Pleno, los candidatos para incorporarse a laborar en el Instituto como investigadores, docentes o trabajadores administrativos;
+XVI. Desarrollar las actividades docentes, de investigación y de difusión conforme a los planes y programas de estudio;
 
-XVII. Gestionar convenios de colaboración con instituciones similares y de educación superior, tanto nacionales como extranjeras;
+XVII Presentar el proyecto anual presupuestal, y
 
-XVIII. Vigilar que las actividades docentes, de investigación y de difusión se realicen conforme a la normatividad vigente en cumplimiento de los planes y programas de estudio y a las decisiones del Consejo;
-
-XIX. Instrumentar y ejecutar las decisiones del Consejo en lo relativo al Instituto;
-
-XX. Elaborar el proyecto anual presupuestal del Instituto, y
-
-XXI. Las demás que le confieran su reglamento, el Pleno, el Presidente y las Comisiones.
+XVIII. Las demás que le confiera el Pleno del Consejo de la Judicatura.
 
 SECCIÓN 4ª
 
@@ -1537,7 +1547,9 @@ V. Elaborar el anteproyecto de presupuesto anual en materia de informática y te
 
 VI. Efectuar en el ámbito de su competencia y en coordinación con la Secretaría Ejecutiva de Administración, las estimaciones para el programa de capacitación informática del personal del Poder Judicial;
 
-VII. Efectuar la planeación, el diseño, la programación y la ejecución de los cursos de capacitación y actualización en materia de informática, que requieran los órganos del Poder Judicial, a fin de asegurar la correcta operación y el aprovechamiento de los bienes y sistemas informáticos coordinándose para tal efecto con el Instituto de Especialización Judicial;
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2013)</small>
+
+VII. Efectuar la planeación, el diseño, la programación y la ejecución de los cursos de capacitación y actualización en materia de informática, que requieran los órganos del Poder Judicial, a fin de asegurar la correcta operación y el aprovechamiento de los bienes y sistemas informáticos coordinándose para tal efecto con la Universidad Judicial;
 
 VIII. Llevar a cabo la planeación, análisis, diseño, programación e implantación de los sistemas informáticos que requiera el Consejo y sus órganos auxiliares, así como otros servicios o proyectos específicos;
 
@@ -1577,7 +1589,9 @@ XXV. Participar en los comités y grupos de trabajo que el Pleno determine;
 
 XXVI. Diseñar, proponer y difundir las normas, disposiciones y mecanismos que salvaguarden la información del Poder Judicial;
 
-XXVII. Mantener actualizada, en coordinación con la Unidad para el Acceso a la Información Pública del Poder Judicial, la información que se presente en el sitio Web de conformidad con las disposiciones de la Ley de Acceso a la Información Pública y el Reglamento para el Acceso a la Información Pública del Poder Judicial, y
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2013)</small>
+
+XXVII. Mantener actualizada, en coordinación con la Unidad para el Acceso a la Información Pública del Poder Judicial, la información que se presente en el sitio Web de conformidad con las disposiciones de la Ley de Transparencia y Acceso a la Información Pública y el Reglamento para el Acceso a la Información Pública del Poder Judicial, y
 
 XXVIII. Las demás que le confieran el Pleno, el Presidente o las Comisiones.
 
@@ -1779,7 +1793,9 @@ VII. Suscribir los contratos y convenios en los casos en que sea instruida por e
 
 VIII. Participar, estudiar y formular, en su caso, proyectos para la elaboración de reglamentos, circulares, acuerdos generales y demás normas administrativas, necesarios para el adecuado ejercicio de las atribuciones del Poder Judicial;
 
-IX. Compilar las leyes, reglamentos, decretos, acuerdos y circulares relacionadas con el ejercicio de las atribuciones del Tribunal Superior de Justicia y del Consejo, y ponerlos a disposición del Instituto de Especialización Judicial para su divulgación.
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2013)</small>
+
+IX. Compilar las leyes, reglamentos, decretos, acuerdos y circulares relacionadas con el ejercicio de las atribuciones del Tribunal Superior de Justicia y del Consejo, y ponerlos a disposición de la Universidad Judicial para su divulgación.
 
 X. Participar, con carácter de asesor jurídico, en los procedimientos de adjudicación que celebren las unidades administrativas del Consejo para las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios de cualquier naturaleza y contratación de obra;
 
@@ -1863,9 +1879,11 @@ XV. Las demás que le confiera el presidente de la Comisión, la propia Comisió
 
 ### CAPÍTULO I. GENERALIDADES
 
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2013)</small>
+
 ###### Artículo 108.
 
-La Comisión de Carrera Judicial auxiliada por el Instituto de Especialización Judicial velará por el respeto a la carrera judicial y su impulso a través de los cursos de capacitación, actualización, especialización y maestría mediante la celebración de convenios con instituciones académicas, la realización de congresos, seminarios, talleres y conferencias, así como de todas aquellas actividades que contribuyan a la excelencia y profesionalismo de los servidores públicos.
+La Comisión de Carrera Judicial auxiliada por la Universidad Judicial velará por el respeto a la carrera judicial y su impulso a través de los cursos de capacitación, actualización, especialización y maestría mediante la celebración de convenios con instituciones académicas, la realización de congresos, seminarios, talleres y conferencias, así como de todas aquellas actividades que contribuyan a la excelencia y profesionalismo de los servidores públicos.
 
 ###### Artículo 109.
 
@@ -1921,9 +1939,11 @@ Los titulares de los Órganos Jurisdiccionales, con objeto de no afectar el func
 
 Los titulares de los juzgados en donde existan vacantes podrán remitir a la Secretaría Ejecutiva del Pleno y Carrera Judicial las propuestas de nombramiento de actuarios y de secretarios, sin necesidad de someter a los aspirantes a exámenes de aptitud, cuando éstos hayan sido designados para desempeñar el mismo cargo por virtud de un examen anterior, siempre y cuando no hayan interrumpido el desempeño de la función por más de seis meses.
 
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2013)</small>
+
 ###### Artículo 122.
 
-Los exámenes de aptitud serán practicados por el Instituto de Especialización Judicial, de conformidad con las bases que determine el Consejo a través de los Acuerdos Generales respectivos y de acuerdo a lo dispuesto por la Ley.
+Los exámenes de aptitud serán aplicados por la Universidad Judicial, de conformidad con las bases que determine el Consejo a través de los Acuerdos Generales respectivos y de acuerdo a lo dispuesto por la Ley.
 
 ### CAPÍTULO III. DE LOS ESTÍMULOS
 
@@ -1951,9 +1971,11 @@ III. Tener la antigüedad dentro del Poder Judicial que se determine en la convo
 
 Además de que se cumpla con lo anterior, el Consejo tomará en cuenta los puestos desempeñados en la carrera judicial, su preparación académica, su desempeño sobresaliente y honorable, así como su colaboración con el Poder Judicial.
 
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2013)</small>
+
 ###### Artículo 125.
 
-La Comisión Organizadora estará integrada por los titulares de las Comisiones de Carrera Judicial, Administración y de Disciplina, así como por el Director del Instituto de Especialización Judicial. Para la entrega de los premios, con excepción del Premio al Mérito Judicial, elegirá hasta cinco candidatos que reúnan los requisitos anteriores de acuerdo a las bases fijadas en la convocatoria, para cada una de las categorías, y los someterá a la consideración del Pleno, para que éste designe, por unanimidad o por mayoría calificada de cuatro Consejeros, a los servidores públicos que se hagan acreedores a la distinción, misma que será entregada en una ceremonia solemne, en la fecha y hora que para tal efecto señale el mismo Pleno.
+La Comisión Organizadora estará integrada por los titulares de las Comisiones de Carrera Judicial, Administración y de Disciplina, así como por el Rector de la Universidad Judicial. Para la entrega de los premios, con excepción del Premio al Mérito Judicial, elegirá hasta cinco candidatos que reúnan los requisitos anteriores de acuerdo a las bases fijadas en la convocatoria, para cada una de las categorías, y los someterá a la consideración del Pleno, para que éste designe, por unanimidad o por mayoría calificada de cuatro Consejeros, a los servidores públicos que se hagan acreedores a la distinción, misma que será entregada en una ceremonia solemne, en la fecha y hora que para tal efecto señale el mismo Pleno.
 
 ###### Artículo 126.
 
@@ -1981,7 +2003,9 @@ II. No hayan sido sancionados por falta grave, con motivo de un procedimiento ad
 
 III. Hayan tenido resultados satisfactorios, en términos generales, en las visitas de inspección que se les hubiesen practicado;
 
-IV. Hayan participado satisfactoriamente en las actividades docentes, ya sea como profesores o alumnos, de investigación o de difusión del Instituto de Especialización Judicial, y
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2013)</small>
+
+IV. Hayan participado satisfactoriamente en las actividades docentes, ya sea como profesores o alumnos, de investigación o de difusión de la Universidad Judicial, y
 
 V. Se encuentren al corriente en el despacho de sus asuntos, lo que acreditarán mediante la estadística correspondiente.
 
@@ -2053,7 +2077,9 @@ Las becas serán otorgadas en el porcentaje que permitan los recursos presupuest
 
 I. Estar al corriente en el despacho de sus asuntos, lo que se acreditará, si se refiere a un Juez o al Director del Centro Estatal de Justicia Alternativa, mediante la estadística correspondiente, si es algún servidor público jurisdiccional diferente, a través de escrito del superior correspondiente;
 
-II. Haber realizado al menos un curso de los impartidos por el Instituto de Especialización del Poder Judicial o haber participado como docente;
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2013)</small>
+
+II. Haber realizado al menos un curso de los impartidos por la Universidad Judicial o haber participado como docente;
 
 III. Tener por lo menos cinco años de antigüedad en el Poder Judicial;
 
@@ -2123,15 +2149,19 @@ El Pleno podrá acordar el otorgamiento de otro tipo de estímulos a los servido
 
 ### CAPÍTULO IV. DEL INGRESO A L A CARRERA JUDICIAL
 
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2013)</small>
+
 ###### Artículo 154.
 
-La Comisión de Carrera Judicial establecerá anualmente un programa de meritorios que deberán ser estudiantes de derecho que cursen a partir del sexto semestre de la carrera, con promedio mínimo de ocho, y contar con el visto bueno del Instituto de Especialización Judicial, que se otorgará previa entrevista. Aquellos que cumplan con estos requisitos serán asignados al órgano jurisdiccional de la materia de su preferencia, siempre y cuando exista disponibilidad y anuencia del titular respectivo. Para tal efecto, los titulares manifestarán si desean participar o no en el programa. El Instituto verificará que se cumplan con los requisitos anteriores y, en su caso, solicitará la autorización del titular, quien podrá a su vez realizar una entrevista al estudiante, si así lo estima conveniente.
+La Comisión de Carrera Judicial establecerá anualmente un programa de práctica institucional a cargo de estudiantes regulares de derecho que hayan cursado el cincuenta por ciento de la matrícula curricular, con promedio mínimo de ocho, y tener el visto bueno de la Universidad Judicial, que se otorgará previa entrevista. Aquellos que cumplan con estos requisitos serán asignados al órgano jurisdiccional, siempre y cuando exista disponibilidad y anuencia del titular respectivo. Para tal efecto, los titulares manifestarán si desean participar o no en el programa. La Universidad Judicial, verificará que se cumplan con los requisitos anteriores y, en su caso, solicitará la autorización del titular, quien podrá a su vez realizar una entrevista al estudiante, si así lo estima conveniente.
 
-El Consejo no contraerá la obligación de contratar ni de efectuar pago alguno a los meritorios.
+El Consejo no contraerá la obligación de contratar ni de efectuar pago alguno a los participantes de la práctica institucional.
+
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2013)</small>
 
 ###### Artículo 155.
 
-La Comisión de Carrera Judicial, con auxilio del Instituto de Especialización Judicial y los órganos que el Pleno determine, llevará a cabo los concursos de oposición a que se refiere el artículo 116 de la Ley (sic) el Reglamento del Instituto de Especialización Judicial. Los exámenes de aptitud se realizarán por el Instituto de Especialización Judicial de conformidad con su Reglamento y los acuerdos que emita el Consejo.
+La Comisión de Carrera Judicial, con auxilio de la Universidad Judicial y los órganos que el Pleno determine, llevará a cabo los concursos de oposición a que se refiere la Ley y el Reglamento de la Universidad Judicial. Los exámenes de aptitud se realizarán por la Universidad Judicial de conformidad con el Reglamento y los acuerdos que emita el Consejo.
 
 ###### Artículo 156.
 
@@ -2800,3 +2830,13 @@ P.O. 24 DE AGOSTO DE 2006.
 Primero. Este Acuerdo entrará en vigor el día de su aprobación de conformidad con la fracción III del artículo 264 del Acuerdo General 08/2006, que contiene el Reglamento del Consejo de la Judicatura del Poder Judicial del Estado de Durango.
 
 Segundo. Se ordena su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, así como en la página Web del Poder Judicial del Estado de Durango, de conformidad con el artículo 73 de la Ley Orgánica del Poder Judicial del Estado de Durango, por ser de interés general, y en términos del artículo señalado en el transitorio anterior.
+
+P.O. 21 DE MARZO DE 2013.
+
+PRIMERO. El presente Acuerdo entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. En tanto se autorice la modificación del registro del Instituto de Especialización a Universidad Judicial, por la autoridad educativa correspondiente, aquél continuará ejerciendo las funciones y obligaciones que actualmente tiene encomendadas.
+
+TERCERO. Para efectos de cumplir con el principio de publicidad de los actos a que hace referencia en los artículos 8 en su tercer párrafo, 10 en la fracción II del inciso A, y en la fracción III del artículo 11 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Durango, se ordena su publicación en la página Web del Poder Judicial del Estado de Durango.
+
+CUARTO. De conformidad con lo dispuesto por el artículo 78 de la Ley Orgánica del Poder Judicial del Estado, el Consejo de la Judicatura dispone que el presente Reglamento se publique por una sola vez en el Periódico Oficial del Gobierno del Estado.
