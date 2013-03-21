@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-85674"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2012-02-03"
-last_updated: "2013-02-26"
+last_updated: "2013-03-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85674&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2012-01-26"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE MARZO DE 2013.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 3 de febrero de 2012.
 
@@ -1461,9 +1461,13 @@ XXIV. Recibir las quejas o denuncias formuladas a través de los buzones físico
 
 XXV. Conocer de aquellas quejas o denuncias, provenientes de las diversas áreas del Consejo de la Judicatura Federal, en las que por no colmar los requisitos legales, no se hubiere ordenado el trámite del procedimiento de responsabilidad respectivo; y
 
-> <small>(ADICIONADA, D.O.F. 12 DE JULIO DE 2012)</small>
+> <small>(REFORMADA POR EL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ADICIONA Y MODIFICA EL ARTÍCULO 79 DEL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 21 DE MARZO DE 2013)</small>
 
-XXVI. Las demás que establezcan el Pleno y las comisiones.
+XXVI. Para el cumplimiento de lo ordenado en las fracciones XXIII, XXIV y XXV, del presente artículo, la Secretaría Ejecutiva de Vigilancia, Información y Evaluación, aplicará en lo conducente, las normas procesales establecidas en el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta el procedimiento de responsabilidad administrativa y el seguimiento de la situación patrimonial, para el efecto de tramitar las quejas y denuncias formuladas a través del centro de atención telefónica o comparecencias; los procedimientos de corroboración y constatación de información, así como de hechos denunciados, y además aquellas quejas y denuncias provenientes de otras áreas del Consejo; y
+
+> <small>(ADICIONADA POR EL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ADICIONA Y MODIFICA EL ARTÍCULO 79 DEL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 21 DE MARZO DE 2013)</small>
+
+XXVII. Las demás que establezcan el Pleno y las comisiones.
 
 ###### Artículo 80.
 
@@ -3626,3 +3630,11 @@ PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
 
 TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la organización y funcionamiento del propio Consejo.
+
+D.O.F. 21 DE MARZO DE 2013.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta y en el portal de Internet del Consejo.
+
+TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá incorporar el texto de este instrumento, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la organización y funcionamiento del propio Consejo.
