@@ -4,7 +4,7 @@ identifier: "FED-ley-para-el-aprovechamiento-de-energias-renovables-y-el-64076"
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-28"
-last_updated: "2012-01-12"
+last_updated: "2013-03-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64076&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-11-27"
 
 LEY PARA EL APROVECHAMIENTO DE ENERGÍAS RENOVABLES Y EL FINANCIAMIENTO DE LA TRANSICIÓN ENERGÉTICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE MARZO DE 2013.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 28 de noviembre de 2008.
 
@@ -133,9 +133,15 @@ IV. Observar los compromisos internacionales adquiridos por México en materia d
 
 V. Observar lo establecido en los programas nacionales en materia de mitigación del cambio climático;
 
-VI. Establecer y actualizar el Inventario Nacional de las Energías Renovables, con programas a corto plazo y planes y perspectivas a mediano y largo plazo comprendidas en el Programa Especial para el Aprovechamiento de Energías Renovables y en la Estrategia Nacional para la transición energética y el aprovechamiento sustentable de la energía, y
+> <small>(REFORMADA, D.O.F. 21 DE MARZO DE 2013)</small>
 
-VII. Las demás que en esta materia le otorguen esta Ley u otros ordenamientos.
+VI. Establecer y actualizar el Inventario Nacional de las Energías Renovables, con programas a corto plazo y planes y perspectivas a mediano y largo plazo comprendidas en el Programa Especial para el Aprovechamiento de Energías Renovables y en la Estrategia Nacional para la Transición Energética y el Aprovechamiento Sustentable de la Energía;
+
+> <small>(ADICIONADA, D.O.F. 21 DE MARZO DE 2013)</small>
+
+VII. Elaborar y publicar el atlas nacional de zonas factibles para desarrollar proyectos generadores de energías renovables, y
+
+VIII. Las demás que en esta materia le otorguen esta Ley u otros ordenamientos.
 
 ###### Artículo 7o.
 
@@ -378,3 +384,7 @@ D.O.F. 12 DE ENERO DE 2012.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Para efectos del artículo 1o. fracción II, inciso b), solamente se considerarán los embalses ya existentes a la fecha de entrada en vigor del presente Decreto.
+
+D.O.F. 21 DE MARZO DE 2013.
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
