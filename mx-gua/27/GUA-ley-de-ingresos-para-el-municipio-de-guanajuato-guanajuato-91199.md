@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-ingresos-para-el-municipio-de-guanajuato-guanajuato-9119
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2012-12-26"
-last_updated: "2012-12-26"
+last_updated: "2013-03-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91199&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY DE INGRESOS PARA EL MUNICIPIO DE GUANAJUATO, GUANAJUATO, PARA EL EJERCICIO FISCAL DEL 2013
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2013.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el miércoles 26 de diciembre de 2012.
 
@@ -1925,9 +1925,13 @@ T R A N S I T O R I O S
 
 Artículo Primero. La presente Ley entrará en vigor a partir del 1 de enero del año 2013, previa publicación en el Periódico Oficial del Gobierno del Estado.
 
-Artículo Segundo. El artículo correspondiente a la sección segunda relativa al servicio de alumbrado público, del Capítulo Quinto de las Contribuciones Especiales, estará en vigor del 1 de enero al 31 de marzo del 2013.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2013)</small>
 
-Artículo Tercero. La tarifa aplicable por la prestación del servicio de alumbrado público, que estará vigente a partir del 1 de abril del 2013, se determinará por el Municipio conforme a las disposiciones previstas en la Ley de Hacienda para los Municipios del Estado de Guanajuato, y su liquidación atenderá, además, a los convenios que se suscriban con la empresa suministradora de energía eléctrica.
+Artículo Segundo. El artículo correspondiente a la Sección Segunda, relativa al servicio de alumbrado público, del Capítulo Quinto denominado De las Contribuciones Especiales, estará en vigor del 1 de enero al 31 de agosto de 2013.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2013)</small>
+
+Artículo Tercero. La tarifa aplicable por la prestación del servicio de alumbrado público, que estará vigente a partir del 1 de septiembre de 2013, se determinará por el Municipio conforme a las disposiciones previstas en la Ley de Hacienda para los Municipios del Estado de Guanajuato, y su liquidación atenderá, además, a los convenios que se suscriban con la empresa suministradora de energía eléctrica.
 
 Dicha tarifa deberá ser aprobada por el Ayuntamiento y publicada en el Periódico Oficial del Gobierno del Estado, de conformidad con lo dispuesto por el artículo 61 de la Constitución Política para el Estado de Guanajuato.
 
@@ -1948,3 +1952,9 @@ EL SECRETARIO DE GOBIERNO
 ANTONIO SALVADOR GARCÍA LÓPEZ
 
 MIGUEL MÁRQUEZ MÁRQUEZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE MARZO DE 2013.
+
+Artículo Único. El presente decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
