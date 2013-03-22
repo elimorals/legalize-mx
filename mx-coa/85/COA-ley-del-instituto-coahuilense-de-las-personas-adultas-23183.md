@@ -4,7 +4,7 @@ identifier: "COA-ley-del-instituto-coahuilense-de-las-personas-adultas-23183"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-11"
-last_updated: "2009-05-12"
+last_updated: "2013-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL INSTITUTO COAHUILENSE DE LAS PERSONAS ADULTAS MAYORES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 11 de diciembre de 2001.
 
@@ -201,65 +201,45 @@ II. Una Dirección General.
 
 El Instituto contará con un órgano de apoyo que se denominará Consejo Consultivo y, como órgano de vigilancia, con una Comisaría.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2013)</small>
+
 ###### ARTÍCULO 7°.
 
 El Consejo Directivo será el órgano superior de gobierno del Instituto y se integrará por:
 
-I. Una Presidencia, que estará a cargo de la o el titular del Ejecutivo del Estado.
+I. Una presidencia, a cargo del titular de la Secretaría de Desarrollo Social;
 
-II. Una Vicepresidencia, a cargo de la o el titular de la Secretaría de Gobierno.
+II. Una Secretaría Técnica, que estará a cargo del o la titular de la Dirección General del Instituto;
 
-III. Una Secretaria Técnica, que estará a cargo del Director General o de la Directora General del Instituto.
+II. Vocales, que serán:
 
-IV. Vocales, que serán:
+A) Por el sector público, los o las titulares de:
 
-A) Por el sector público:
+1) La Secretaría de Salud;
 
-1) La o el titular de la Secretaría de Salud.
+2) La Secretaría de Gobierno;
 
-2) La o el titular de la Secretaría de Educación Pública del Estado.
+3) La Dirección General del Sistema para el Desarrollo Integral de la Familia;
 
-3) La o el titular de la Secretaría de Finanzas.
+B) Por el sector ciudadano: cinco personas adultas mayores que representaran a cada una de las regiones Norte, Carbonífera, Centro, Sureste y Región Laguna del Estado y que pertenezcan a organizaciones de la sociedad civil cuyas actividades guarden relación con el objeto del Instituto.
 
-4) La o el titular de la Secretaría de Planeación y Desarrollo.
+Además habrá un comisario que será designado por la Secretaría de Fiscalización y Rendición de Cuentas con voz, pero sin voto.
 
-5) La o el titular de la Secretaría de Desarrollo Social.
+Como invitados permanentes participarán dos integrantes del Poder Judicial y dos del Poder Legislativo.
 
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2009)</small>
-
-6) La o el titular de la Fiscalía General del Estado.
-
-7) La o el titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia.
-
-8) La o el titular del Patronato del Sistema para el Desarrollo Integral de la Familia.
-
-9) La o el titular de la Procuraduría de la Familia.
-
-10) La o el titular de la Secretaría Ejecutiva del Voluntariado de Coahuila.
-
-11) La o el titular de la Dirección General del Instituto Coahuilense de Cultura.
-
-12) La titular de la Dirección General del Instituto Coahuilense de las Mujeres.
-
-13) La o el titular de la Dirección General del Instituto Coahuilense de Ecología.
-
-14) La o el Director General del Instituto Estatal de Turismo.
-
-15) La o el titular de la Dirección General del Servicio Estatal de Empleo.
-
-16) La o el Director General del Instituto Estatal del Deporte en Coahuila.
-
-B) Por el sector ciudadano: cinco personas adultas mayores representantes de organizaciones de la sociedad civil cuyas actividades guarden relación con el objeto del Instituto.
+Cuando la convocatoria y el orden del día previstos para el desarrollo de una sesión contengan temas específicos de cualquier ramo de la administración pública que no se encuentre representado como vocal o invitado, podrá ser convocado quien el o la titular de la dependencia del sector correspondiente con voz y voto.
 
 En el reglamento interior del Instituto que para el efecto se expida se fijarán los mecanismos para la selección de la representación ciudadana.
 
-Cada uno o una de las y los integrantes del Consejo Directivo podrá designar a una persona suplente que le sustituirá en sus ausencias, con excepción de la o el Presidente quien será sustituido o sustituida por el Vicepresidente o la Vicepresidenta.
+Quienes integren el Consejo Directivo podrán designar a una persona suplente que le sustituirá en sus ausencias, con excepción de la o el presidente quien será sustituido por quien éste designe.
 
-Los cargos que desempeñen los y las integrantes del Consejo Directivo serán honoríficos. Por este motivo no percibirán remuneración alguna.
+Los cargos del Consejo Directivo serán honoríficos si los desempeñan servidores públicos o personas de los sectores ciudadano o social, por lo que sus integrantes no percibirán remuneración alguna por su desempeño.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 8°.
 
-El Consejo Directivo celebrará sesiones ordinarias cada cuatro meses y las extraordinarias que sean necesarias en cualquier tiempo para la eficaz marcha del Instituto, previa convocatoria de la Presidencia o, en su caso, de la Vicepresidencia.
+El Consejo Directivo celebrará sesiones ordinarias cada tres meses y las extraordinarias que sean necesarias en cualquier tiempo para la eficaz marcha del Instituto, previa convocatoria de la presidencia o, en su caso, de la secretaría técnica.
 
 Las sesiones del Consejo Directivo se sujetarán a las bases siguientes:
 
@@ -341,13 +321,15 @@ XVIII. Las demás que le confiera esta ley u otras disposiciones legales aplicab
 
 Son facultades de la Presidencia del Consejo Directivo:
 
-I. Convocar, por conducto de la Secretaria Técnica del Consejo Directivo, a las o los integrantes del mismo, a la Comisaria o al Comisario y demás personas invitadas a las sesiones que se desarrollarán conforme al orden del día que, para tal efecto, se elabore.
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2013)</small>
+
+I. Convocar, por conducto de la secretaria técnica del Consejo Directivo, a sus integrantes, al o la titular de la comisaría y demás personas invitadas a las sesiones que se desarrollarán conforme al orden del día que para tal efecto se elabore;
 
 II. Dirigir las sesiones del Consejo Directivo y declarar resueltos los asuntos en el sentido de las votaciones.
 
-III. Resolver bajo su más estricta responsabilidad aquellos asuntos de los que deba conocer el Consejo Directivo, que no admitan demora. En estos casos, deberá el Consejo Directivo reunirse cuanto antes, para conocer las medidas tomadas y adoptar las necesarias.
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2013)</small>
 
-La atribución a que se refiere esta fracción podrá ser delegada en la Vicepresidencia.
+III. Resolver bajo su más estricta responsabilidad aquellos asuntos de los que deba conocer el Consejo Directivo, que no admitan demora. En estos casos, el Consejo Directivo deberá reunirse cuanto antes, para conocer las medidas tomadas y adoptar las necesarias.
 
 IV. Autorizar y suscribir, en unión de la Secretaria Técnica, las actas que se levanten de las sesiones del Consejo Directivo.
 
@@ -355,19 +337,7 @@ V. Las demás que le confiera la presente ley u otras disposiciones aplicables, 
 
 ###### ARTÍCULO 12.
 
-Son facultades de la Vicepresidencia del Consejo Directivo:
-
-I. Sustituir a la o el titular de la Presidencia del Consejo Directivo en casos de ausencia o cuando el propio titular así lo acuerde, asumiendo plenamente todas sus atribuciones.
-
-II. Asistir con voz y voto a las sesiones que celebre el Consejo Directivo.
-
-III. Proponer a los miembros del Consejo Directivo el análisis de los asuntos que estime necesarios.
-
-IV. Emitir las opiniones que le sean solicitadas, así como proporcionar la información que, para el cumplimiento del objeto del Instituto, resulte necesaria.
-
-V. Supervisar, evaluar y vigilar, en la esfera de su competencia, todas las acciones que le competen al Instituto.
-
-VI. Las demás que le confiera esta ley u otras disposiciones aplicables.
+(DEROGADO, P.O. 22 DE MARZO DE 2013)
 
 ###### ARTÍCULO 13.
 
@@ -427,7 +397,9 @@ IV. Otorgar poderes generales para pleitos y cobranzas, con todas las facultades
 
 V. Realizar por sí o a través de sus áreas correspondientes, los actos de administración del Instituto.
 
-VI. Proponer ante el Ejecutivo del Estado o, en su caso, ante la Secretaría de Gobierno, las acciones o medidas que se tengan que adoptar en casos urgentes o en otros casos, para el buen funcionamiento del Instituto.
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2013)</small>
+
+VI. Proponer ante el ejecutivo del estado o, en su caso, ante la Secretaría de Desarrollo Social, las acciones o medidas que se tengan que adoptar en casos urgentes o en otros casos, para el buen funcionamiento del Instituto.
 
 VII. Celebrar toda clase de contratos y convenios con los sectores público, social y privado e instituciones educativas y de investigación, para la ejecución de acciones relacionadas con el objeto del propio Instituto.
 
@@ -479,15 +451,21 @@ El Consejo Consultivo se definirá bajo las siguientes bases:
 
 I. Se integrará por:
 
-1) Una Presidencia Ejecutiva, a cargo de la persona que sea designada por el o la titular del Ejecutivo Estatal a propuesta del Consejo Directivo.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2013)</small>
+
+1) Una presidencia, a cargo de la persona que sea designada por el titular del ejecutivo estatal.
 
 2) Una Secretaría de Acuerdos y Actas a cargo de la persona que sea designada de entre y por los integrantes del Consejo Consultivo.
 
-3) Cinco personas adultas mayores, hombres o mujeres, de reconocido prestigio social y/o académico en la promoción y defensa de los derechos de las personas adultas mayores, que serán designadas, a propuesta del Consejo Directivo, por el o la titular del Ejecutivo Estatal.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2013)</small>
+
+3) Cinco personas adultas mayores, hombres o mujeres, de reconocido prestigio social o académico en la promoción y defensa de los derechos de las personas adultas mayores, que representaran a cada una de las regiones Norte, Carbonífera, Centro, Sureste y Región Laguna del Estado, mismas que serán designadas, a propuesta del Consejo Directivo, o por quien sea titular del ejecutivo estatal.
 
 II. Los integrantes del Consejo Consultivo durarán en su cargo un periodo de tres años, que podrá renovarse por periodos iguales, previa ratificación de la o el titular del Ejecutivo.
 
-III. La Presidencia Ejecutiva tendrá las atribuciones necesarias para cumplir con el objeto del Consejo Consultivo.
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2013)</small>
+
+III. La presidencia tendrá las atribuciones necesarias para cumplir con el objeto del Consejo Consultivo.
 
 IV. Los cargos que desempeñen los o las integrantes del Consejo Consultivo serán honoríficos. Sus integrantes por ese motivo no percibirán remuneración alguna.
 
@@ -497,9 +475,13 @@ V. Los nombramientos para integrar el Consejo Consultivo son incompatibles con l
 
 Para el cumplimiento del objeto señalado en el artículo 17 de esta ley, el Consejo Consultivo tendrá como atribuciones:
 
-I. La de elaborar proyectos, investigaciones y estudios en la materia.
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2013)</small>
 
-II. La de apoyar el cumplimiento de las políticas públicas a través de las medidas, programas y proyectos y, en general, todas las actividades que beneficien a las personas adultas mayores.
+I. Elaborar proyectos, investigaciones y estudios en la materia;
+
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2013)</small>
+
+II. Apoyar la ejecución de las políticas públicas a través de medidas, programas y proyectos y, en general, todas las actividades que beneficien a las personas adultas mayores;
 
 III. Sugerir medidas y acciones que fortalezcan el cumplimiento de los compromisos estatales a nivel internacional, nacional, estatal y municipal concernientes a la atención de las personas adultas mayores.
 
@@ -509,9 +491,13 @@ V. Analizar en su conjunto los objetivos del Programa Estatal de las Personas Ad
 
 El Consejo Consultivo ejercerá las atribuciones necesarias para el cumplimiento de su objeto, siempre que no se opongan a las que corresponda ejercer al Consejo Directivo del Instituto. En todo caso, deberá propiciarse una colaboración y coordinación estrecha entre ambos órganos.
 
-Todo conflicto de competencia será resuelto por la o el titular del Ejecutivo del Estado, a través de la Secretaría de Gobierno.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2013)</small>
 
-La organización y el funcionamiento del Consejo Consultivo se definirán en el reglamento que se elabore. El reglamento del Consejo Consultivo deberá ser elaborado y aprobado por el Consejo Directivo.
+Todo conflicto de competencia será resuelto por el titular del ejecutivo del estado, a través de la Secretaría de Desarrollo Social.
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2013)</small>
+
+La organización y el funcionamiento del Consejo Consultivo se definirán en el reglamento correspondiente.
 
 ###### ARTÍCULO 20.
 
@@ -519,11 +505,15 @@ Para el efecto de establecer mecanismos de coordinación y sin perjuicio de las 
 
 #### SECCIÓN QUINTA. LA COMISARÍA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2013)</small>
+
 ###### ARTÍCULO 21.
 
-El Instituto contará con una Comisaria o un Comisario que se designará por la o el titular de la Secretaría de la Contraloría y Modernización Administrativa.
+El Instituto contará con una comisaría cuyo titular será designado por el o la titular de la Secretaría de Fiscalización y Rendición de Cuentas.
 
-La Comisaria o el Comisario tendrá las atribuciones siguientes:
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2013)</small>
+
+El o la titular de la comisaría tendrá las atribuciones siguientes:
 
 I. Vigilar que la administración de los recursos que integran el patrimonio del Instituto, se realice de acuerdo con lo que dispongan la ley, los programas y directrices aprobados.
 
@@ -543,9 +533,9 @@ VIII. Vigilar ilimitadamente y en cualquier tiempo las operaciones del Instituto
 
 IX. Las demás que le confiera esta ley u otras disposiciones aplicables.
 
-Los emolumentos que reciba la Comisario (sic) o el Comisario del Instituto serán con cargo a la partida correspondiente a la Secretaría de la Contraloría y Modernización Administrativa prevista en el Presupuesto de Egresos del Estado, conforme a las disposiciones aplicables.
+> <small>(DEROGADO PENÚLTIMO PÁRRAFO, P.O. 22 DE MARZO DE 2013)</small>
 
-La Comisaria o el Comisario para el debido cumplimiento de sus atribuciones, se podrá auxiliar del personal técnico que requiera conforme a la autorización del correspondiente presupuesto de egresos.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 22 DE MARZO DE 2013)</small>
 
 ### CAPÍTULO CUARTO. EL PROGRAMA ESTATAL DE LAS PERSONAS ADULTAS MAYORES
 
@@ -690,3 +680,13 @@ Subprocurador de Control de Procesos y Legalidad: Fiscal de Control de Procesos 
 Subprocurador Jurídico de Profesionalización y de Proyectos: Fiscal Jurídico, de Profesionalización y de Proyectos.
 
 CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE MARZO DE 2013.
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El Instituto Coahuilense de las Personas Adultas Mayores, no pierde el carácter de organismos públicos descentralizados de la Administración Pública Estatal, con personalidad jurídica y patrimonio propios, en los términos de la ley que los crea.
+
+TERCERO. En un plazo de 120 días el Consejo Directivo reformara lo conducente a los reglamentos interiores del instituto que refiere el presente decreto, Hasta en tanto los cargos previstos en los mismos se entenderán conferidos en los términos y bajo la denominación que el presente decreto les confiere.
+
+CUARTO. Se derogan las disposiciones que se opongan al presente decreto.
