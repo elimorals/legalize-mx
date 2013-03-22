@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-que-crea-la-comision-de-honor-y-justicia-de-los-7101
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-10-16"
-last_updated: "2009-10-16"
+last_updated: "2013-03-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71017&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,6 +24,8 @@ state: "NLE"
 # REGLAMENTO QUE CREA LA COMISION DE HONOR Y JUSTICIA DE LOS CUERPOS DE SEGURIDAD PUBLICA, POLICIA, TRANSITO Y PROTECCION CIVIL DEL MUNICIPIO DE APODACA, NUEVO LEON
 
 REGLAMENTO QUE CREA LA COMISIÓN DE HONOR Y JUSTICIA DE LOS CUERPOS DE SEGURIDAD PÚBLICA, POLICÍA, TRANSITO Y PROTECCIÓN CIVIL DEL MUNICIPIO DE APODACA NUEVO LEÓN
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2013.
 
 Reglamento publicado en Periódico Oficial del Estado de Nuevo León, el viernes 16 de octubre del 2009.
 
@@ -47,13 +49,17 @@ El presente reglamento es de orden público y de aplicación en el Municipio de 
 
 Se crea la Comisión de Honor y Justicia de los Cuerpos de Seguridad Pública, Policía, Tránsito y Protección Civil del Municipio de Apodaca, Nuevo León como órgano desconcentrado de la Administración Municipal que tiene por objeto conocer, tramitar, resolver los procesos y aplicar las sanciones de responsabilidad administrativa, así como el fincamiento de responsabilidades con sanciones económicas y su ejecución, al personal que labora dentro de las dependencias municipales encargadas de la Seguridad Pública, Policía, Tránsito y Protección Civil del Municipio de Apodaca, Nuevo León.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE MARZO DE 2013)</small>
+
 ### Capítulo II.
 
-INTEGRACIÓN DE LA COMISIÓN.
+DE LA INTEGRACIÓN DE LA COMISIÓN.
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 3.
 
-La Comisión estará integrada por un Presidente que será el Regidor encargado de la Comisión de Seguridad Pública, un Secretario, el cual será el que ocupe el cargo de Secretario de Administración de la Secretaría del Ayuntamiento y tres Vocales designados por el C. Presidente Municipal, designándose para cada uno de estos sus respectivos suplentes, siendo el Secretario de la Comisión quien convocará por escrito a sus integrantes, para reunir al cuerpo colegiado cada vez que se requiera resolver o desahogar algún asunto relacionado con sus atribuciones.
+La Comisión estará integrada por un Presidente que será el Regidor encargado de la Comisión de Seguridad Pública, Tránsito, Vialidad y Reclutamiento, un Secretario y tres vocales los cuales serán designados por el presidente municipal designándose para cada uno de estos sus respectivos suplentes, siendo el Secretario de la Comisión quien convocará por escrito a sus integrantes, para reunir al cuerpo colegiado cada vez que se requiera resolver o desahogar algún asunto relacionado con sus atribuciones.
 
 ###### ARTÍCULO 4.
 
@@ -77,9 +83,11 @@ Las propuestas de nombramientos y remociones de la Comisión serán presentadas 
 
 Los integrantes de la Comisión desempeñarán su función de forma honorífica, pudiendo ser estos Servidores Públicos Municipales.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2013)</small>
+
 ###### ARTÍCULO 9.
 
-El cargo de comisionado, tendrá la duración de dos años, y será sustituido por el funcionario que sea designado por el C. Presidente Municipal, con excepción del Presidente de la Comisión de Honor y Justicia.
+El cargo de los integrantes de la Comisión de Honor y Justicia, será por los periodos constitucionales de la Administración Pública Municipal correspondiente, mismos que podrán ser sustituidos por el funcionario que sea designado por el C. Presidente Municipal.
 
 ###### ARTÍCULO 10.
 
@@ -320,3 +328,11 @@ ING. JESÚS RODRIGO GARCÍA VILLARREAL
 Secretario del R. Ayuntamiento
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE MARZO DE 2013.
+
+> <small>N. DE E. SE TRANSCRIBE EL PUNTO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.</small>
+
+SEGUNDO.- Que se giren instrucciones para que se publique en el Periódico Oficial del Estado, para iniciar si vigencia.
