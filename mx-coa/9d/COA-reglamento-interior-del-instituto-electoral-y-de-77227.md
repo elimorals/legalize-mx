@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-del-instituto-electoral-y-de-77227"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-10-29"
-last_updated: "2012-12-18"
+last_updated: "2013-03-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77227&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DE COAHUILA, PUBLICADO EN EL P.O. DE 22 DE MARZO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 29 de octubre de 2010.
 
@@ -936,3 +938,11 @@ SECRETARIA EJECUTIVA
 P.O. 18 DE DICIEMBRE DE 2012.
 
 Único. La modificación del artículo 32 del presente Reglamento Interior entrará en vigor a partir de su aprobación por el Consejo General del Instituto.
+
+P.O. 22 DE MARZO DE 2013.
+
+Primero.- El presente reglamento entrará en vigor a partir de su aprobación por el Consejo General del Instituto.
+
+Segundo.- Se abroga el Reglamento Interior aprobado por el Consejo General mediante acuerdo número 68/2010, en sesión ordinaria de fecha 21 de octubre de 2010.
+
+Tercero.- Publíquese el presente Reglamento en el Periódico Oficial del Gobierno del Estado y difúndase a través de la página electrónica del Instituto.
