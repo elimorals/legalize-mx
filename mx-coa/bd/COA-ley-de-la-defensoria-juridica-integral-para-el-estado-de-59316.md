@@ -4,7 +4,7 @@ identifier: "COA-ley-de-la-defensoria-juridica-integral-para-el-estado-de-59316"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-11"
-last_updated: "2012-10-19"
+last_updated: "2013-03-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59316&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE LA DEFENSORÍA JURÍDICA INTEGRAL PARA EL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2013.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 11 de diciembre de 2007.
 
@@ -311,7 +311,7 @@ X. Elaborar un informe mensual de los asuntos que tenga a su cargo así como de 
 
 XI. Las demás que señale esta ley, su reglamento y otras disposiciones aplicables.
 
-#### SECCIÓN II. ATRlBUCIONES EN MATERIA DE JUSTICIA PARA ADOLESCENTES
+#### SECCIÓN II. ATRIBUCIONES EN MATERIA DE JUSTICIA PARA ADOLESCENTES
 
 ###### ARTÍCULO 22.
 
@@ -604,3 +604,15 @@ TERCERO.- En tanto se concluye el proceso de transferencia a que se refieren las
 CUARTO.- En la incorporación de los demás servidores públicos de la Defensoría Jurídica Integral, del Poder Ejecutivo al Poder Judicial, se respetarán todos sus derechos laborales, no perderán su antigüedad laboral; sus prestaciones y nivel jerárquico o laboral, y no podrán ser disminuidas respecto a las que tienen derecho al momento en que entre en vigor el presente Decreto.
 
 QUINTO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 22 DE MARZO DE 2013.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 192.- LEY DEL INSTITUTO ESTATAL DE DEFENSORÍA PÚBLICA DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- La presente ley entrará en vigor al día siguiente de su publicación en el periódico oficial del Gobierno del Estado.
+
+SEGUNDO.- Todos los procedimientos y asuntos pendientes de la Defensoría Jurídica Integral, serán tramitados y resueltos por el Instituto Estatal de Defensoría Pública de conformidad con las leyes y reglamentos vigentes en el tiempo de inicio de las averiguaciones previas penales, expedientes o trámites correspondientes.
+
+TERCERO.- Todas las disposiciones contenidas en esta ley que se relacionen con el nuevo sistema penal acusatorio, tendrán aplicación una vez que éste se implemente.
+
+CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
