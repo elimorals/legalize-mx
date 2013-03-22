@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-de-la-secretaria-de-educacion-y-cultura-560
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-06-12"
-last_updated: "2011-02-01"
+last_updated: "2013-03-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56019&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE EDUCACIÓN Y CULTURA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE EDUCACIÓN, PUBLICADO EN EL P.O. DE 22 DE MARZO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Primera Sección al Periódico Oficial del Estado de Coahuila, el martes 12 de junio de 2007.
 
@@ -2398,3 +2400,21 @@ PRIMERO.- El presente Decreto entrará en vigor al dia siguiente de su publicaci
 SEGUNDO.- El Titular de la Secretaría de Educación y Cultura, asignará y distribuirá a las unidades administrativas creadas por virtud del presente Decreto, los recursos humanos y materiales necesarios para su funcionamiento, respetándose los derechos laborales adquiridos por los trabajadores.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE MARZO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente reglamento interior entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Secretaría de Educación y Cultura, publicado en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza, en fecha 12 de junio de 2007.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga el Acuerdo por el que se crea la Unidad de Acceso a la Información, así como el Comité de Información de la Secretaría de Educación Pública de Coahuila, publicado en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza, en fecha 28 de diciembre de 2004.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones que se opongan al presente reglamento interior.
