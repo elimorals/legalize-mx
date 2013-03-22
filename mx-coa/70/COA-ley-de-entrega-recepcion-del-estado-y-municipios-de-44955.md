@@ -4,7 +4,7 @@ identifier: "COA-ley-de-entrega-recepcion-del-estado-y-municipios-de-44955"
 country: "mx"
 rank: "ley"
 publication_date: "2005-04-29"
-last_updated: "2007-12-28"
+last_updated: "2013-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44955&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ENTREGA-RECEPCION DEL ESTADO Y MUNICIPIOS DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 29 de abril del 2005.
 
@@ -45,7 +45,9 @@ EL ÁMBITO DE VALIDEZ FORMAL Y EL OBJETO DE LA LEY. Esta ley es de orden públic
 
 Esta ley tiene por objeto dar certeza jurídica, histórica y física del patrimonio documental del Estado, así como asegurar la continuidad de las acciones y dejar soporte de las metas y objetivos alcanzados de conformidad con lo señalado en el artículo 7° de la Constitución Política del Estado de Coahuila de Zaragoza.
 
-Esta ley determina la obligación para los servidores públicos que administren fondos, bienes y valores públicos, de entregar a quienes los sustituyan, al término de su empleo, cargo o comisión, los asuntos de su competencia, así como los recursos humanos, materiales, financieros y demás que les hayan sido asignados, y en general, toda aquella documentación e información que debidamente ordenada, clasificada, legalizada y protocolizada, haya sido generada en el ejercicio del quehacer gubernamental.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2013)</small>
+
+Esta ley determina la obligación para los servidores públicos que administren recursos públicos, de entregar a quienes los sustituyan, al término de su empleo, cargo o comisión, los asuntos de su competencia, así como los recursos humanos, materiales, financieros y demás que les hayan sido asignados, y en general, toda aquella documentación e información que debidamente ordenada, clasificada, legalizada y protocolizada, haya sido generada en el ejercicio del quehacer gubernamental.
 
 ###### ARTÍCULO 2°.
 
@@ -69,13 +71,19 @@ VII. El Acta Administrativa de Entrega-Recepción. Documento en el que se hace c
 
 VIII. Los Formatos. Los documentos donde consta la relación de los conceptos sujetos a entrega-recepción.
 
-IX. Órgano Interno de Control. A la Secretaría de la Contraloría y Modernización Administrativa del Estado, a las Contralorías Internas Municipales y a los Órganos de Control de los Poderes Legislativo y Judicial, en el ámbito de su competencia.
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2013)</small>
+
+IX. Órgano Interno de Control: A la Secretaría de Fiscalización y Rendición de Cuentas del Estado, a las Contralorías Internas Municipales y a los Órganos de Control de los Poderes Legislativo y Judicial, en el ámbito de su competencia.
 
 X. Las Unidades Administrativas. Aquella que está integrada por los empleados de un área o varias de ellas, que en el desempeño de sus funciones tienen propósitos y objetivos comunes.
 
 Se consideran como tales, aquéllas unidades de carácter unipersonal que tenga a su cargo un programa o proyecto específico.
 
 XI. Manual de Entrega-Recepción de la Administración Pública. Al manual que para tal efecto en uso de sus facultades y en el ámbito de sus respectivas competencias expidan los Poderes Legislativo, Ejecutivo y Judicial, y los gobiernos municipales, a través de sus órganos autorizados.
+
+> <small>(ADICIONADA, P.O. 22 DE MARZO DE 2013)</small>
+
+XII. Enlace: El servidor público que funge como vinculo entre las unidades administrativas de una dependencia o entidad y el Órgano Interno de Control.
 
 ###### ARTÍCULO 3°.
 
@@ -93,7 +101,9 @@ IV. En los Gobiernos Municipales a: el Presidente Municipal electo, interino o s
 
 V. En los Organismos Públicos Autónomos a: el titular del mismo y los servidores públicos adscritos a éste, de conformidad con la ley o decreto de su creación.
 
-Corresponderá a los titulares de las dependencias y entidades mencionadas en las fracciones anteriores, determinar en sus respectivas áreas de competencia, los servidores públicos que por la naturaleza e importancia de las funciones públicas a su cargo, quedarán sujetos a las disposiciones de esta ley, situación que se deberá hacer del conocimiento del órgano de control correspondiente.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2013)</small>
+
+Corresponderá a los titulares de las dependencias y entidades mencionadas en las fracciones anteriores, determinar en sus respectivas áreas de competencia, los servidores públicos, así como las unidades administrativas bajo su responsabilidad que por la naturaleza e importancia de las funciones públicas a su cargo, quedarán sujetos a las disposiciones de esta ley, situación que se deberá hacer del conocimiento del órgano de control correspondiente.
 
 ###### ARTÍCULO 4°.
 
@@ -125,21 +135,29 @@ II. Los Presidentes Municipales electos, interinos o sustitutos, los titulares d
 
 III. Cualquier servidor público de los Ayuntamientos, en caso que se declare la suspensión o revocación de su mandato, y
 
-IV. Los titulares de las entidades, las secretarías, direcciones y organismos descentralizados en el caso que se declare la suspensión o revocación del mandato o bien, sean removidos o se separen del cargo o se haya expedido un nombramiento en favor de otra persona.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2013)</small>
+
+IV. Los titulares de las entidades, las secretarías, subsecretarías, direcciones y organismos descentralizados y, en general, de aquellas unidades administrativas que tengan a su cargo personal y/o tengan dentro de sus funciones la responsabilidad de administrar, aplicar o comprobar recursos públicos, en el caso que se declare la suspensión o revocación del mandato o bien, sean removidos o se separen del cargo o se haya expedido un nombramiento en favor de otra persona.
 
 En los Organismos Públicos Autónomos para considerar el término del período se estará a las disposiciones de su creación.
 
-B. ENTREGA INDIVIDUAL. Aquélla que se realiza cuando un servidor público deja su empleo, cargo o comisión, independientemente del motivo de conclusión;
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2013)</small>
 
-Esta disposición es aplicable hasta el nivel jerárquico correspondiente a jefe de departamento o su equivalente.
+B. ENTREGA INDIVIDUAL. Aquélla que se realiza cuando un servidor público que no tiene unidades administrativas a su cargo, deja su empleo, cargo o comisión, independientemente del motivo de conclusión;
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 22 DE MARZO DE 2013)</small>
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 7°.
 
-LA ENTREGA EN LA RATIFICACIÓN DEL CARGO DEL SERVIDOR PÚBLICO. Los servidores públicos que en los términos de esta ley se encuentren obligados a realizar la entrega-recepción y que al término de su ejercicio sean ratificados en su cargo, deberán realizar dicho procedimiento ante su superior jerárquico y con la intervención del Órgano Interno de Control, rindiendo un informe que contenga de manera general la situación que guarda el área a su cargo.
+LA ENTREGA EN LA RATIFICACIÓN DEL CARGO DEL SERVIDOR PÚBLICO. Los servidores públicos que en los términos de esta ley se encuentren obligados a realizar la entrega-recepción y que al término de su ejercicio sean ratificados en su cargo, deberán realizar dicho procedimiento ante su superior, rindiendo un informe que contenga de manera general la situación que guarda el área a su cargo ante el Órgano Interno de Control.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 8°.
 
-LOS ACUERDOS DE LOS PODERES LEGISLATIVO Y JUDICIAL EN LA ENTREGA-RECEPCIÓN. Los Poderes Legislativo y Judicial y las entidades, en el ámbito de sus respectivas competencias, establecerán mediante reglamentos o acuerdos de carácter general, los órganos, criterios y procedimientos para realizar la entrega-recepción de conformidad con los principios que establece este ordenamiento.
+LOS ACUERDOS DE LOS PODERES LEGISLATIVO Y JUDICIAL EN LA ENTREGA-RECEPCIÓN. Los Poderes Legislativo y Judicial y sus entidades, en el ámbito de sus respectivas competencias, establecerán mediante reglamentos o acuerdos de carácter general, los órganos, criterios y procedimientos para realizar la entrega-recepción de conformidad con los principios que establece este ordenamiento.
 
 En el ámbito municipal, las atribuciones quedarán encomendadas al respectivo Órgano Interno de Control de cada Municipio.
 
@@ -165,9 +183,13 @@ II. Mantener actualizados los registros, los archivos, la documentación y la qu
 
 III. Dar cuenta de los bienes patrimoniales y de los recursos humanos y financieros de la administración pública estatal, de los ayuntamientos y de las entidades.
 
-IV. En caso de renuncia voluntaria al cargo, empleo o comisión, solicitar por escrito al superior jerárquico, se designe día y hora para llevar a cabo la entrega-recepción de forma individual.
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2013)</small>
 
-En este supuesto el superior jerárquico deberá comunicar por escrito al servidor público que entrega, el nombre de la persona con quien se entenderá la entrega-recepción, así como la fecha y hora para que tenga verificativo la misma. Esta comunicación deberá de hacerse del conocimiento al Órgano Interno de Control.
+IV. En caso de renuncia voluntaria al cargo, empleo o comisión, solicitar por escrito al superior jerárquico, se designe día y hora para llevar a cabo la entrega-recepción de forma individual o general, según corresponda.
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2013)</small>
+
+En este supuesto el superior jerárquico deberá comunicar por escrito, asistido por el enlace, al servidor público que entrega, el nombre de la persona con quien se tratará la entrega-recepción, así como la fecha y hora para que tenga verificativo la misma. Esta comunicación deberá de hacerse del conocimiento al Órgano Interno de Control.
 
 El incumplimiento de estas obligaciones será sancionado como falta administrativa de conformidad con la Ley de Responsabilidades.
 
@@ -177,9 +199,11 @@ LA OBLIGATORIEDAD EN LA ENTREGA. Ningún servidor público que se encuentre suje
 
 ### CAPÍTULO TERCERO. DEL PROCEDIMIENTO DE ENTREGA-RECEPCIÓN
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2013)</small>
+
 ###### ARTÍCULO 13.
 
-LOS SUJETOS DE LA ENTREGA-RECEPCIÓN. En el acto de entrega-recepción intervendrán necesariamente el servidor público saliente, el servidor público que recibe, un testigo por cada parte y un representante del Órgano Interno de Control.
+LOS SUJETOS DE LA ENTREGA-RECEPCIÓN. En el acto de entrega-recepción intervendrán necesariamente el servidor público saliente, el servidor público que recibe, un testigo por cada parte, el enlace y un representante del Órgano Interno de Control.
 
 ###### ARTÍCULO 14.
 
@@ -207,7 +231,9 @@ II. Las que tengan por objeto la capacitación para la preparación y desarrollo
 
 III. Las que tengan por objeto la preparación y actualización de los inventarios de bienes, de los registros y archivos y de la documentación de la administración en general que será objeto de la entrega.
 
-De igual forma, tendrán la obligación de notificar a los servidores públicos a que se refiere el artículo 13 de esta ley así como a las personas que fungirán como testigos, la hora, fecha y lugar de celebración del acto de entrega-recepción.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2013)</small>
+
+De igual forma, tendrán la obligación de notificar a los servidores públicos a que se refiere el artículo 13 de esta ley así como a las personas que fungirán como testigos, con al menos cinco días hábiles de anticipación, la hora, fecha y lugar de celebración del acto de entrega-recepción.
 
 ###### ARTÍCULO 16.
 
@@ -313,7 +339,9 @@ En general los aspectos relacionados con la situación administrativa, desarroll
 
 La documentación a que se refiere este artículo deberá contener toda la información necesaria y suficiente para determinar, ubicar e identificar con facilidad la situación y estado en que se encuentre.
 
-Lo anterior con base en el Manual de Entrega-Recepción de la Administración Pública y los formatos emitidos y autorizados por la Contraloría.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2013)</small>
+
+Lo anterior con base en el Manual de Entrega-Recepción de la Administración Pública y los formatos emitidos y autorizados por el Órgano Interno de Control.
 
 ###### ARTÍCULO 18.
 
@@ -335,9 +363,11 @@ VII. La relación de las rentas y productos de todos los bienes municipales; y
 
 VIII. La documentación normativa que regula la actividad municipal.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2013)</small>
+
 ###### ARTÍCULO 19.
 
-LA FORMALIDAD EN LA ENTREGA. Para llevar a cabo la entrega-recepción de la Administración Pública del Estado y municipal en sus diferentes niveles, los titulares salientes deberán llevar a cabo un acto formal, en el que se haga entrega de la documentación a que se refieren los artículos 17 y 18 de la presente ley, según corresponda, a los titulares entrantes, elaborando para tal efecto, el acta de entrega-recepción y sus anexos correspondientes.
+LA FORMALIDAD EN LA ENTREGA. Para llevar a cabo la entrega-recepción de la Administración Pública del Estado y municipal en sus diferentes niveles, los titulares salientes deberán llevar a cabo un acto formal, en el que se haga entrega de la documentación a que se refieren los artículos 17 y 18 de la presente ley, según corresponda, a los titulares entrantes, elaborando para tal efecto, el acta de entrega-recepción y sus formatos correspondientes.
 
 ###### ARTÍCULO 20.
 
@@ -351,7 +381,9 @@ III. Especificar el asunto u objeto principal del acto o evento del cual se va a
 
 IV. Debe ser circunstanciada, es decir, debe relacionar por escrito y a detalle, el conjunto de hechos que el procedimiento de entrega-recepción comprende, así como las situaciones que acontezcan durante su desarrollo, situación que deberá manifestarse bajo protesta de decir verdad;
 
-V. Debe realizarse en presencia de dos personas que funjan como testigos de ley;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2013)</small>
+
+V. Debe realizarse en presencia de dos personas que funjan como testigos de ley, el enlace y un representante del Órgano Interno de Control;
 
 VI. Debe especificar el número, tipo y contenido de los documentos que se anexan y complementan el acta;
 
@@ -373,11 +405,19 @@ XIV. Las cantidades deben ser asentadas en número y letra; y
 
 XV. Las hojas que integren el Acta Administrativa de Entrega-Recepción, así como los anexos, deben foliarse en forma consecutiva.
 
-El Acta de Entrega-Recepción con sus anexos se presentarán en carpetas o medios magnéticos en su caso, que serán integrados por triplicado, y que corresponderán un tanto para el servidor público entrante, otro para el servidor público saliente y el tercero para el representante del Órgano Interno de Control.
+> <small>(ADICIONADA, P.O. 22 DE MARZO DE 2013)</small>
+
+XVI. Deberá señalarse domicilio para oír y recibir notificaciones y requerimientos del servidor público saliente y entrante.
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2013)</small>
+
+El Acta de Entrega-Recepción con sus anexos se presentarán en carpetas o medios magnéticos en su caso, que serán integrados por cuadruplicado, y que corresponderán un tanto para el servidor público entrante, otro para el servidor público saliente, el tercero para el enlace y el cuarto para el representante del Órgano Interno de Control.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 21.
 
-LA FORMALIDAD DEL ACTA. El servidor público saliente y el entrante al tomar posesión, o en su caso, el que quede encargado del despacho, firmarán el acta circunstanciada con asistencia de dos testigos que ellos mismos designen y del representante del Órgano Interno de Control, conforme a las atribuciones que les otorga la ley respectiva, dando éstos constancia del documento sobre el estado en que se encuentran los asuntos y recursos, recabando un ejemplar de toda la información que ampare la entrega-recepción.
+LA FORMALIDAD DEL ACTA. El servidor público saliente y el entrante al tomar posesión, o en su caso, el que quede encargado del despacho, firmarán el acta circunstanciada con asistencia de dos testigos que ellos mismos designen y del representante del Órgano Interno de Control y el enlace, conforme a las atribuciones que les otorga la ley respectiva, dando éstos constancia del documento sobre el estado en que se encuentran los asuntos y recursos, recabando un ejemplar de toda la información que ampare la entrega-recepción.
 
 Los servidores públicos que en este acto participan deberán suscribir en forma autógrafa el acta administrativa de entrega - recepción.
 
@@ -403,7 +443,9 @@ En caso de los servidores públicos entrantes de los municipios y entidades para
 
 EL INICIO DE LA ENTREGA GENERAL. Al término e inicio de un ejercicio constitucional, el procedimiento de entrega-recepción podrá iniciarse a partir de que el servidor público entrante estatal o municipal haya sido legalmente reconocido por el Instituto Electoral y de Participación Ciudadana.
 
-El Gobernador o Presidente Municipal reconocido legalmente electo, podrá nombrar una comisión receptora quien podrá tomar conocimiento de la situación que guarda la administración, desarrollo y cumplimiento de los programas y proyectos, y en su caso, obras públicas en proceso, de tal manera que al momento de concretarse el relevo en la titularidad de los cargos, se continúe de manera segura y eficiente la marcha de la actividad pública correspondiente.
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2013)</small>
+
+El Gobernador o Presidente Municipal reconocido legalmente electo, podrá nombrar una comisión de enlace quien podrá tomar conocimiento de la situación que guarda la administración saliente, desarrollo y cumplimiento de los programas y proyectos, y en su caso, obras públicas en proceso, de tal manera que al momento de concretarse el relevo en la titularidad de los cargos, se continúe de manera segura y eficiente la marcha de la actividad pública correspondiente.
 
 ###### ARTÍCULO 25.
 
@@ -415,9 +457,15 @@ LOS DESPACHOS DE LOS TITULARES. El Gobernador del Estado y los presidentes munic
 
 Asimismo deberán realizar la entrega-recepción de su despacho, al funcionario público entrante o al órgano interno de control administrativo correspondiente, los magistrados del Poder Judicial; en el caso de los diputados del Congreso del Estado, por licencia, o por el término de su encargo.
 
+> <small>(ADICIONADO, P.O. 22 DE MARZO DE 2013)</small>
+
+Lo previsto en este artículo aplicará en el proceso de entrega-recepción que realicen estos servidores públicos al término de su empleo, cargo o comisión, con independencia de la causa que lo genere.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2013)</small>
+
 ###### ARTÍCULO 27.
 
-LA COMISIÓN DE ENLACE. Para los efectos del artículo 24 de la presente ley y con salvedad a lo establecido en el último párrafo de dicho artículo, una vez reconocido legal y definitivamente por la autoridad electoral competente, la autoridad entrante estatal o municipal, podrá constituir una comisión de enlace, para que en coordinación con la autoridad estatal o municipal saliente, a través del Órgano Interno de Control, preparen la transferencia de información sobre el estado que guardan los asuntos y recursos financieros, humanos, materiales, obras y programas, jurídicos y generales, sin que esto implique la entrega de documentación alguna.
+LA COMISIÓN DE ENLACE. Para los efectos del artículo 24 de la presente ley y con salvedad a lo establecido en el último párrafo de dicho artículo, una vez reconocido legal y definitivamente por la autoridad electoral competente, la autoridad entrante estatal o municipal, podrá constituir una comisión saliente que será el enlace, para que en coordinación con la autoridad estatal o municipal saliente, a través del Órgano Interno de Control, preparen la transferencia de información sobre el estado que guardan los asuntos y recursos financieros, humanos, materiales, obras y programas, jurídicos y generales, sin que esto implique la entrega de documentación alguna.
 
 En todo caso, los nombres de las personas que integrarán las comisiones correspondientes, así como las áreas en donde estarán asignados los mismos, deberán ser notificados por escrito a los interesados. En caso de que se realice algún cambio en tales designaciones, este hecho deberá ser notificado con toda oportunidad.
 
@@ -431,9 +479,11 @@ En caso que no se haya designado a un servidor público titular que reciba, el G
 
 LA OBLIGATORIEDAD DE BRINDAR INFORMACIÓN. Los titulares de las dependencias, ayuntamientos y entidades, estarán obligados a brindar la información correspondiente en el ámbito de su competencia, una vez que el Gobernador del Estado o el Presidente Municipal en funciones les dé a conocer los nombres de las personas integrantes de la comisión de enlace entrante referida en el artículo anterior.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2013)</small>
+
 ###### ARTÍCULO 29.
 
-LA ACLARACIÓN DE LA INFORMACIÓN. Los servidores públicos salientes de las dependencias, ayuntamientos y entidades, estarán obligados a proporcionar a los servidores públicos entrantes y a los órganos internos de control, la información que requieran y hacer las aclaraciones que les soliciten durante los siguientes 30 días hábiles contados a partir del acto de entrega. Para estos efectos tratándose de los ayuntamientos se estará al plazo establecido en el Código Municipal.
+LA ACLARACIÓN DE LA INFORMACIÓN. Los servidores públicos salientes de las dependencias, ayuntamientos y entidades, estarán obligados a proporcionar a los servidores públicos entrantes y a los órganos internos de control, la información que requieran y hacer las aclaraciones sobre los recursos e información sujeta al proceso de entrega-recepción que les soliciten durante los siguientes 30 días hábiles contados a partir del acto de entrega. Para estos efectos tratándose de los ayuntamientos se estará al plazo establecido en el Código Municipal.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
@@ -516,3 +566,9 @@ P.O. 28 DE DICIEMBRE DE 2007.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan las disposiciones legales, administrativas y reglamentarias que se opongan al presente decreto.
+
+P.O. 22 DE MARZO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Los procesos de entrega-recepción que a la publicación del presente Decreto se encuentren pendientes, deberá adecuarse y seguir las formalidades previstas en el mismo.
