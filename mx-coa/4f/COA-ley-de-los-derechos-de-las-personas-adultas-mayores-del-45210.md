@@ -4,7 +4,7 @@ identifier: "COA-ley-de-los-derechos-de-las-personas-adultas-mayores-del-45210"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-10"
-last_updated: "2009-05-12"
+last_updated: "2013-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MAYO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 10 de junio del 2005.
 
@@ -73,11 +73,13 @@ Las dependencias y entidades Estatales y de los Municipios, así como, en su cas
 
 Las dependencias y entidades encargadas de la aplicación, seguimiento y vigilancia de ésta Ley, en los términos de las disposiciones conducentes, organizarán, operarán, supervisarán y evaluarán la prestación de los servicios básicos de asistencia que se proporcionen a las personas adultas mayores, así como, en los términos previstos por esta Ley, aquellos que realicen las personas físicas o morales de los sectores social y privado, para lo cual deberán, en su caso, desarrollar programas de apoyo financiero y social, así como fomentar la participación de la sociedad en acciones a favor de las personas adultas mayores.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2013)</small>
+
 ###### Artículo 4.
 
-El Sistema Estatal para el Desarrollo Integral de la Familia coordinará el diseño, la implementación y la ejecución de las acciones que realice a favor de las personas adultas mayores con aquellas que lleven a cabo las dependencias y entidades del Estado y de los Municipios, a efecto de que los programas que estos diseñen y ejecuten para las personas adultas mayores resulten congruentes con las políticas públicas estatales, los principios contenidos en esta Ley y tiendan a los objetivos previstos en la misma. Para tal efecto, propiciará la intervención de los sectores social y privado en los servicios de asistencia a este sector de la población.
+La Secretará (sic) de Desarrollo Social coordinará el diseño, instrumentación y ejecución de las acciones que realice a favor de las personas adultas mayores con aquellas que lleven a cabo las dependencias y entidades del Estado y de los municipios, a efecto de que los programas que estos diseñen y ejecuten para las personas adultas mayores resulten congruentes con las políticas públicas estatales, los principios contenidos en esta ley y tiendan a los objetivos previstos en la misma. Para tal efecto, propiciará la intervención de los sectores social y privado en los servicios de asistencia a este sector de la población.
 
-Asimismo, el Sistema Estatal para el Desarrollo Integral de la Familia promoverá, ejecutará y coordinará con los distintos órdenes de gobierno la suscripción de convenios de colaboración, con el objeto de implementar programas preventivos hacia las personas adultas mayores, brindar información gerontológica en los ámbitos médico, jurídico, social, cultural y/o económico, entre otros, con el objeto de incrementar la cultura de las personas adultas mayores.
+Asimismo, la Secretará (sic) de Desarrollo Social promoverá, ejecutará y coordinará con los distintos órdenes de gobierno la suscripción de convenios de colaboración, con el objeto de implementar programas preventivos hacia las personas adultas mayores, brindar información gerontológica en los ámbitos médico, jurídico, social, cultural y económico, entre otros, con el objeto de incrementar la cultura de las personas adultas mayores.
 
 ###### Artículo 5.
 
@@ -787,7 +789,7 @@ De igual forma, promoverá ante la Secretaría de Educación y Cultura la coordi
 
 El Instituto Coahuilense de Cultura en coordinación con el Instituto, diseñará programas para promover el esparcimiento y la participación de las personas adultas en las diversas manifestaciones de la cultura. Asimismo para efectuar concursos en los que participen exclusivamente personas adultas mayores, otorgando a los ganadores los reconocimientos y premios correspondientes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ENERO DE 2007)</small>
 
 ###### Artículo 60.
 
@@ -817,7 +819,7 @@ En la formulación y ejecución de los programas que implementen las dependencia
 
 La Secretaría de Desarrollo Social del Estado fomentará la participación de los sectores social y privado en la creación, promoción, seguimiento y financiamiento de los programas de atención a las personas adultas mayores y suscribirá convenios de colaboración con instituciones y organismos sociales y privados para el establecimiento de acciones dirigidas a la atención de las personas adultas mayores.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ENERO DE 2007)</small>
 
 ###### Artículo 66.
 
@@ -919,9 +921,11 @@ El órgano rector en materia de promoción y defensa de los derechos de las pers
 
 Para el cumplimiento de su objeto, el Instituto promoverá la integración de Unidades de Coordinación Municipal de las Personas Adultas Mayores. Estas unidades de coordinación estarán representadas por Coordinadores Municipales, quienes serán los titulares de los Sistemas Municipales para el Desarrollo Integral de la Familia, los cuales desempeñarán el cargo de manera honorífica y llevarán a cabo funciones de asesoría, auxilio y apoyo en la realización de los programas que se implementen a favor de las personas adultas mayores.
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2013)</small>
+
 ###### Artículo 73.
 
-Asimismo, las Unidades de Coordinación Municipal, conjuntamente con el Instituto y el Sistema Estatal para el Desarrollo Integral de la Familia, coordinarán acciones a favor de las personas adultas mayores, promoviendo la unificación de los criterios de las Instituciones que les den servicio social, elaborando conjuntamente planes, proyectos y programas para brindarles apoyo integral, evitando la duplicidad de servicios con otras instituciones y procurando siempre una correcta aplicación de los recursos públicos que se destinen para este fin.
+Las Unidades de Coordinación Municipal, conjuntamente con la Secretaria de Desarrollo Social y el Sistema para el Desarrollo Integral de la Familia, coordinarán acciones a favor de las personas adultas mayores, promoviendo la unificación de los criterios de las instituciones que les den servicio social, elaborando conjuntamente planes, proyectos y programas para brindarles apoyo integral, evitando la duplicidad de servicios con otras instituciones y procurando siempre una correcta aplicación de los recursos públicos que se destinen para este fin.
 
 ###### Artículo 74.
 
@@ -1137,7 +1141,7 @@ DIPUTADO PRESIDENTE.
 
 JESÚS DE LEÓN TELLO.
 
-(RÚRBRICA)
+(RÚBRICA)
 
 DIPUTADO SECRETARIO.
 
@@ -1197,17 +1201,17 @@ C.P. IGNACIO DIEGO MUÑOZ
 
 (RÚBRICA)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 26 DE ENERO DE 2007.
 
-DECRETO NUMERO 89
+DECRETO NÚMERO 89 POR EL QUE SE REFORMA EL ARTÍCULO 102 DE LA LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
 
 ÚNICO.- Esta reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 26 DE ENERO DE 2007.
 
-DECRETO NUMERO 90
+DECRETO NUMERO 90 POR EL QUE SE REFORMAN LOS ARTÍCULOS 10 FRACCIÓN IV, INCISO 2; 58, PÁRRAFO SEGUNDO; 60, PÁRRAFO PRIMERO Y 66, PÁRRAFO PRIMERO DE LA LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
@@ -1226,3 +1230,13 @@ Subprocurador de Control de Procesos y Legalidad: Fiscal de Control de Procesos 
 Subprocurador Jurídico de Profesionalización y de Proyectos: Fiscal Jurídico, de Profesionalización y de Proyectos.
 
 CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE MARZO DE 2013.
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El Instituto Coahuilense de las Personas Adultas Mayores, no pierde el carácter de organismos públicos descentralizados (sic) de la Administración Pública Estatal, con personalidad jurídica y patrimonio propios, en los términos de la ley que los crea.
+
+TERCERO. En un plazo de 120 días el Consejo Directivo reformara lo conducente a los reglamentos interiores del instituto que refiere el presente decreto, Hasta en tanto los cargos previstos en los mismos se entenderán conferidos en los términos y bajo la denominación que el presente decreto les confiere.
+
+CUARTO. Se derogan las disposiciones que se opongan al presente decreto.
