@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-de-la-secretaria-de-medio-ambiente-del-6946
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-07-17"
-last_updated: "2009-07-17"
+last_updated: "2013-03-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE MEDIO AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE MEDIO AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADO EN EL P.O. DE 22 DE MARZO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 17 de julio de 2009.
 
@@ -1284,3 +1286,11 @@ EL SECRETARIO DE MEDIO AMBIENTE
 ING. JUAN FRANCISCO MARTÍNEZ ÁVALOS
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE MARZO DE 2013.
+
+PRIMERO. El presente reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría de Medio Ambiente de fecha 13 de julio del año dos mil nueve y publicado en el Periódico Oficial del Gobierno del Estado el diecisiete de julio del año dos mil nueve.
