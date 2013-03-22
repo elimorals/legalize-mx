@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-de-la-secretaria-de-desarrollo-social-67886
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-06-07"
-last_updated: "2007-03-23"
+last_updated: "2013-03-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67886&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SOCIAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MARZO DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL CUARTO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SOCIAL DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADO EN LA PRIMERA SECCIÓN DEL P.O. DE 22 DE MARZO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el miércoles 7 de junio de 2006.
 
@@ -311,7 +313,7 @@ VI.- Asignar y coordinar al personal de la Secretaría para cubrir los eventos e
 
 VII.- Las demás que le confiera el Secretario y otras disposiciones legales aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE MARZO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2007)</small>
 
 ###### ARTÍCULO 14.
 
@@ -573,7 +575,7 @@ X.- Asistir a los consejos derivados de los programas asignados a la unidad, de 
 
 XI.- Las demás funciones que le sean conferidas por el Secretario y por las disposiciones legales aplicables.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE MARZO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE MARZO DE 2007)</small>
 
 ### CAPÍTULO SEXTO. DE LAS SUBSECRETARÍAS POR REGIÓN Y SUS COORDINACIONES REGIONALES
 
@@ -955,10 +957,20 @@ LIC. JORGE TORRES LÓPEZ
 
 (RÚBRICA)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 23 DE MARZO DE 2007.
 
 PRIMERO: El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO: Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE MARZO DE 2013.
+
+PRIMERO. El presente reglamento entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Los asuntos pendientes al entrar en vigor este reglamento que conforme al mismo deban pasar de una unidad administrativa a otra, continuarán su trámite conforme a la normativa que los originó y serán resueltos por la unidad administrativa que este reglamento designe competente.
+
+TERCERO. La Secretaría de Desarrollo Social en un término de 90 días a partir de la entrada en vigor del presente reglamento, deberá formular y emitir los manuales de organización correspondientes en los que se precisarán la estructura orgánica y funciones operativas de las unidades administrativas de dicha dependencia.
+
+CUARTO. Se abroga el Reglamento Interior de la Secretaría de Desarrollo Social del Estado de Coahuila de Zaragoza. Publicado en el Periódico Oficial del Gobierno del Estado N° 45, fecha 7 de junio de 2006, así como su reforma publicada en el Periódico Oficial del Gobierno del Estado N° 24, de fecha 23 de marzo de 2007.
