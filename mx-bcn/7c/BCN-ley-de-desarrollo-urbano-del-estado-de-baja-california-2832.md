@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-desarrollo-urbano-del-estado-de-baja-california-2832"
 country: "mx"
 rank: "ley"
 publication_date: "1994-06-24"
-last_updated: "2012-06-22"
+last_updated: "2013-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2013.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 24 de junio de 1994.
 
@@ -292,6 +292,12 @@ XXVI. Zona Conurbada o Metropolitana Interestatal: Aquella zona conurbada o metr
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE FEBRERO DE 2011)</small>
 
 XXVII. Polígonos: Es la unidad urbanística constituida por una superficie de terreno, delimitada para fines de valoración catastral, ordenación urbana, planificación industrial, comercial, residencial.
+
+> <small>(ADICIONADA, P.O. 22 DE MARZO DE 2013)</small>
+
+XXVIII.- Vivienda Digna: Se considerará vivienda digna y decorosa la que cumpla con las disposiciones jurídicas aplicables en materia de asentamientos humanos y construcción, habitabilidad, salubridad, cuente con los servicios básicos y brinde a sus ocupantes seguridad jurídica en cuanto a su propiedad o legítima posesión, y contemple criterios para la prevención de desastres y la protección física de sus ocupantes ante los elementos naturales potencialmente agresivos.
+
+Para efectos de lo dispuesto en esta fracción, la vivienda deberá contar con espacios habitables y de higiene suficiente, adecuada iluminación y ventilación, servicios públicos básicos de agua potable, drenaje, alcantarillado, energía eléctrica y acceso a vías de comunicación así como condiciones de seguridad estructural y la adecuación al clima con criterios de sustentabilidad y eficiencia energética.
 
 ### CAPITULO SEGUNDO. De la concurrencia y competencia de las autoridades y órganos auxiliares
 
@@ -2674,3 +2680,7 @@ SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan a lo establecid
 P.O. 22 DE JUNIO DE 2012.
 
 Primero.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE MARZO DE 2013.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
