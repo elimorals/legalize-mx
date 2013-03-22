@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-hacienda-para-los-municipios-del-estado-de-guanajuato-53
 country: "mx"
 rank: "ley"
 publication_date: "1989-12-26"
-last_updated: "2012-12-21"
+last_updated: "2013-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5355&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2013.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 26 de diciembre de 1989.
 
@@ -2085,13 +2085,17 @@ ARTICULO 228 G.- La (sic) autoridades municipales regularán en sus reglamentos 
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
-ARTICULO 228 H.- El objeto de este derecho será el servicio de alumbrado público que se preste en las calles, plazas, jardines y todos aquellos lugares de uso común, y los ingresos que se perciban por su recaudación se destinarán al pago de dicho servicio y en su caso, a su mantenimiento y mejoramiento, en colaboración con los contribuyentes beneficiados.
+###### ARTICULO 228-H.
+
+El objeto de este derecho será el servicio de alumbrado público que se preste en las calles, plazas, jardines y todos aquellos lugares de uso común, y los ingresos que se perciban por su recaudación se destinarán al pago de dicho servicio y en su caso, a su mantenimiento y mejoramiento, en colaboración con los contribuyentes beneficiados.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
-ARTICULO 228 i.- La tarifa mensual correspondiente al derecho de alumbrado público, será la obtenida como resultado de dividir el costo anual global actualizado erogado por el municipio en la prestación de este servicio, entre el número de usuarios registrados ante la Comisión Federal de Electricidad y el número de predios rústicos o urbanos detectados que no están registrados en la Comisión Federal de Electricidad. El resultado será dividido entre doce y el importe que resulte de esta operación será el que se cobre en cada recibo que expida la Comisión Federal de Electricidad.
+###### ARTICULO 228-I.
+
+La tarifa mensual correspondiente al derecho de alumbrado público, será la obtenida como resultado de dividir el costo anual global actualizado erogado por el municipio en la prestación de este servicio, entre el número de usuarios registrados ante la Comisión Federal de Electricidad y el número de predios rústicos o urbanos detectados que no están registrados en la Comisión Federal de Electricidad. El resultado será dividido entre doce y el importe que resulte de esta operación será el que se cobre en cada recibo que expida la Comisión Federal de Electricidad.
 
 Las facilidades administrativas de cobro deberán preverse en las leyes de ingresos municipales.
 
@@ -2103,19 +2107,25 @@ Se entiende como «costo anual global actualizado erogado» la suma que resulte 
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
-ARTICULO 228 J.- El derecho de alumbrado público se causará mensualmente. El pago se hará dentro de los primeros diez días siguientes al mes en que se cause el pago, cuando se haga en las oficinas de la Tesorería Municipal o en las instituciones autorizadas para tal efecto.
+###### ARTICULO 228-J.
+
+El derecho de alumbrado público se causará mensualmente. El pago se hará dentro de los primeros diez días siguientes al mes en que se cause el pago, cuando se haga en las oficinas de la Tesorería Municipal o en las instituciones autorizadas para tal efecto.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
-ARTICULO 228 K.- Para efectos del cobro de este derecho los ayuntamientos podrán celebrar convenios con la compañía o empresa suministradora del servicio de energía eléctrica en el municipio. En estos casos se deberá incluir el importe de este derecho, en el documento que para tal efecto expida la compañía o la empresa, debiéndose pagar conjuntamente con el consumo de energía eléctrica, en el plazo y en las oficinas autorizadas por esta última.
+###### ARTICULO 228-K.
+
+Para efectos del cobro de este derecho los ayuntamientos podrán celebrar convenios con la compañía o empresa suministradora del servicio de energía eléctrica en el municipio. En estos casos se deberá incluir el importe de este derecho, en el documento que para tal efecto expida la compañía o la empresa, debiéndose pagar conjuntamente con el consumo de energía eléctrica, en el plazo y en las oficinas autorizadas por esta última.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
-ARTICULO 228 L.- Son sujetos de este derecho los propietarios o poseedores de predios urbanos o rústicos ubicados en el área territorial municipal.
+###### ARTICULO 228-L.
+
+Son sujetos de este derecho los propietarios o poseedores de predios urbanos o rústicos ubicados en el área territorial municipal.
 
 ## TITULO SEXTO. DE LAS OBLIGACIONES ESPECIALES
 
@@ -2565,6 +2575,14 @@ Artículo Único.- El presente decreto entrará en vigor el cuarto día siguient
 
 P.O. 21 DE DICIEMBRE DE 2012.
 
-Artículo Primero. El presente Decreto entrará en vigencia el uno de abril de dos mil trece, previa publicación en el Periódico Oficial del Gobierno del Estado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2013)</small>
+
+Artículo Primero. El presente Decreto entrará en vigencia el 1 de septiembre de 2013, previa publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
 
 Artículo Segundo. El Poder Ejecutivo del Estado establecerá conjuntamente con los municipios de la Entidad, convenios con la Comisión Federal de Electricidad para el cobro del servicio de alumbrado público, que garantice la equidad y trato igual a los mismos, así como para establecer un programa de reducción de costos por la prestación del servicio.
+
+P.O. 22 DE MARZO DE 2013.
+
+Artículo Único. El presente decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
