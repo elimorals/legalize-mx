@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-obras-publicas-y-servicios-relacionados-con-las-46972"
 country: "mx"
 rank: "ley"
 publication_date: "2005-11-19"
-last_updated: "2007-01-03"
+last_updated: "2013-03-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ENERO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2013.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 19 de noviembre de 2005.
 
@@ -153,7 +153,9 @@ X. Reglamento: El Reglamento de la presente Ley;
 
 XI. Reglamento de Construcción: El Reglamento de Construcción del Estado de Zacatecas;
 
-XII. Secretaría: La Secretaría de Obras Públicas del Estado; y
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+XII. Secretaría: La Secretaría de Infraestructura; y
 
 XIII. Sector: El agrupamiento definido de entidades que se realice a través de la dependencia que designe el Ejecutivo Estatal o el Ayuntamiento como coordinadora del sector respectivo.
 
@@ -283,11 +285,13 @@ La Secretaría como cabeza de sector y la Contraloría, en el ámbito de sus res
 
 La Contraloría dictará las disposiciones administrativas que sean estrictamente necesarias para el adecuado cumplimiento de esta Ley, tomando en cuenta la opinión de las dependencias, entidades y municipios.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 22.
 
-Atendiendo a las disposiciones de esta Ley y a las demás que de ella emanen, la Secretaría de Desarrollo Económico dictará las reglas que deban observar las dependencias, entidades y municipios, derivadas de programas que tengan por objeto promover la participación de las empresas del Estado, especialmente de las micro, pequeñas y medianas.
+Atendiendo a las disposiciones de esta Ley y a las demás que de ella emanen, la Secretaría de Economía dictará las reglas que deban observar las dependencias, entidades y municipios, derivadas de programas que tengan por objeto promover la participación de las empresas del Estado, especialmente de las micro, pequeñas y medianas.
 
-Para la expedición de las reglas a que se refiere el párrafo anterior, la Secretaría de Desarrollo Económico tomará en cuenta la opinión de las dependencias, entidades y municipios, así como de la Contraloría.
+Para la expedición de las reglas a que se refiere el párrafo anterior, la Secretaría de Economía tomará en cuenta la opinión de las dependencias, entidades y municipios, así como de la Contraloría.
 
 ###### Artículo 23.
 
@@ -297,9 +301,11 @@ En materia de obras públicas y de prestación de servicios, los titulares de la
 
 ### CAPÍTULO I. De la planeación de la obra pública
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 24.
 
-Los entes públicos deben remitir al Comité de Planeación para el Desarrollo del Estado, por conducto de la dependencia coordinadora del sector al que pertenezcan o directamente, en su caso, sus planes, programas y presupuestos de obra pública, en los tiempos y forma que señale el Reglamento, a fin de verificar la eficiencia en la consecución de los objetivos y metas, y su congruencia con los planes de desarrollo, antes del treinta y uno de marzo de cada año.
+Los entes públicos deben remitir a la Unidad de Planeación del Titular del Poder Ejecutivo, por conducto de la dependencia coordinadora del sector al que pertenezca o directamente, en su caso, sus planes, programas y presupuestos de obra pública, en los tiempos y forma que señale el Reglamento, a fin de verificar la eficiencia en la consecución de los objetivos y metas, y su congruencia con los planes de desarrollo, antes del treinta y uno de marzo de cada año.
 
 Para la elaboración de los planes de obra pública podrán realizarse consultas públicas ciudadanas en los lugares beneficiados o afectados por la realización de la misma, a efecto de conocer las necesidades prioritarias de la población, mediante el procedimiento que establezca el Reglamento.
 
@@ -1213,9 +1219,11 @@ En caso de que no se rindan las aclaraciones solicitadas o no se corrijan las vi
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 132.
 
-La Secretaría y la Secretaría de Planeación y Desarrollo Regional podrán constituir Comités Consultivos de Obra Pública.
+La Secretaría y la Unidad de Planeación del Titular del Poder Ejecutivo podrán constituir Comités Consultivos de Obra Pública.
 
 Cuando se estime conveniente, los demás entes públicos podrán establecer dichos Comités, con el carácter de permanentes o eventuales.
 
@@ -1546,3 +1554,21 @@ P.O. 3 DE ENERO DE 2007.
 ###### ARTÍCULO ÚNICO.
 
 El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 23 DE MARZO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, el Ejecutivo del Estado deberá actualizar la reglamentación de conformidad con el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, los Ayuntamientos deberán establecer su Gaceta Municipal.
+
+###### ARTÍCULO CUARTO.
+
+Los Ayuntamientos, en el término de ciento veinte días naturales a partir de la vigencia del presente Decreto, deberán publicar en sus Gacetas Municipales y en el Periódico Oficial, Órgano del Gobierno del Estado, todas las disposiciones normativas de carácter general que hayan sido generadas antes de la entrada en vigor del presente Decreto. Remitiendo en medio impreso y de forma magnética los instrumentos jurídicos a la Coordinación General Jurídica del Gobierno del Estado para su trámite de publicación.
