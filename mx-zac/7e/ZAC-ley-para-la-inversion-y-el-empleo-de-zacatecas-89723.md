@@ -4,7 +4,7 @@ identifier: "ZAC-ley-para-la-inversion-y-el-empleo-de-zacatecas-89723"
 country: "mx"
 rank: "ley"
 publication_date: "2012-09-29"
-last_updated: "2012-09-29"
+last_updated: "2013-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89723&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY PARA LA INVERSIÓN Y EL EMPLEO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2013.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 29 de septiembre de 2012.
 
@@ -61,7 +61,9 @@ a. El Gobernador del Estado;
 
 b. El Secretario de Finanzas;
 
-c. El Secretario de Desarrollo Económico; y
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
+c. El Secretario de Economía; y
 
 d. Las demás autoridades que determinen las leyes, reglamentos y acuerdos del Gobernador del Estado.
 
@@ -89,7 +91,9 @@ b. El Código Fiscal del Estado de Zacatecas;
 
 c. El Reglamento Interior de la Secretaría de Finanzas; y
 
-d. El Reglamento Interior de la Secretaría de Desarrollo Económico.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
+d. El Reglamento Interior de la Secretaría de Economía.
 
 II. En el ámbito municipal:
 
@@ -141,7 +145,9 @@ XVIII. Programa: Programa Estatal para la Inversión y el Empleo de Zacatecas.
 
 XIX. Reglamento: Reglamento de la Ley para la Inversión y el Empleo de Zacatecas.
 
-XX. Secretaría: Secretaría de Desarrollo Económico.
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+XX. Secretaría: Secretaría de Economía.
 
 ###### Artículo 6.
 
@@ -255,9 +261,11 @@ VII. Las representaciones estratégicas en otros estados de la República Mexica
 
 La Junta de Participación Ciudadana del Consejo conocerá y opinará del Programa y sus actualizaciones antes de su aprobación.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 16.
 
-La Secretaría, en coordinación con la Secretaría de Planeación y Desarrollo Regional, será responsable de la elaboración, ejecución, evaluación y actualización del Programa, garantizando la participación de representantes de las dependencias y entidades estatales involucradas, de los municipios y de los sectores social y privado.
+La Secretaría, en coordinación con la Unidad de Planeación del Titular del Poder Ejecutivo, será responsable de la elaboración, ejecución, evaluación y actualización del Programa, garantizando la participación de representantes de las dependencias y entidades estatales involucradas, de los municipios y de los sectores social y privado.
 
 ###### Artículo 17.
 
@@ -407,9 +415,11 @@ r. Las demás que considere necesarias para alcanzar los objetivos que establece
 
 El Gobernador del Estado acordará la creación de los consejos, comités, juntas o comisiones de coordinación y seguimiento que estime necesarios para promover y realizar los estudios, estrategias y acciones a que refiere este capítulo.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 32.
 
-La Secretaría, en coordinación con la Secretaria General de Gobierno y con la Secretaria de Educación y Cultura, tutelará la realización de los estudios, estrategias y acciones a que refiere este capítulo.
+La Secretaría, en coordinación con la Secretaría General de Gobierno y con la Secretaría de Educación, tutelará la realización de los estudios, estrategias y acciones a que refiere este capítulo.
 
 ## TÍTULO TERCERO. INSTANCIAS DE CONCERTACIÓN
 
@@ -421,9 +431,11 @@ La Secretaría, en coordinación con la Secretaria General de Gobierno y con la 
 
 Se crea el Consejo Estatal de Desarrollo Económico como un Organismo Público Descentralizado con participación de la sociedad civil, con personalidad jurídica, patrimonio propio y autonomía técnica y de gestión para el cumplimiento de los objetivos y atribuciones que le asigna la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 34.
 
-El Consejo tiene como objeto general planear, proponer, ejecutar y evaluar acciones en materia de desarrollo económico en el Estado, en coordinación con la Secretaría de Desarrollo Económico, a fin impulsar la competitividad, la atracción de inversiones productivas, la generación de empleos y el logro de los objetivos de la presente Ley. El Consejo tendrá, a través de sus órganos competentes las siguientes atribuciones:
+El Consejo tiene como objeto general planear, proponer, ejecutar y evaluar acciones en materia de desarrollo económico en el Estado, en coordinación con la Secretaría de Economía, a fin impulsar la competitividad, la atracción de inversiones productivas, la generación de empleos y el logro de los objetivos de la presente Ley. El Consejo tendrá, a través de sus órganos competentes las siguientes atribuciones:
 
 I. Ejercer su personalidad jurídica y disponer de su patrimonio conforme a la Ley;
 
@@ -505,9 +517,13 @@ IV. Cuatro vocales del sector público:
 
 a. El Titular de la Secretaría de Finanzas;
 
-b. El Titular de la Secretaría de Educación y Cultura;
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
-c. El Titular de la Secretaría de Desarrollo Agropecuario;
+b. El Titular de la Secretaría de Educación;
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
+c. El Titular de la Secretaría del Campo;
 
 d. El Titular de la Secretaría de Turismo; (sic)
 
@@ -731,9 +747,11 @@ XVI. Las demás que le asigne la presente Ley, el Reglamento, el Reglamento Inte
 
 #### SECCIÓN SEXTA. COMISARIO
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 66.
 
-A propuesta de la Contraloría Interna el Gobernador del Estado designará y removerá a un Comisario del Consejo, quien deberá llevar a cabo las funciones de vigilancia y control interno del Consejo.
+A propuesta de la Secretaría de la Función Pública del Gobierno del Estado designará y removerá a un Comisario del Consejo, quien deberá llevar a cabo las funciones de vigilancia y control interno del Consejo.
 
 ###### Artículo 67.
 
@@ -741,9 +759,13 @@ El Comisario tendrá las siguientes atribuciones:
 
 I. Vigilar que los gastos, cuentas y administración de los recursos del Consejo se encaminen adecuadamente para el cumplimiento de sus objetivos, ajustándose en todo momento a lo que dispone esta Ley, los planes y presupuestos aprobados, así como otras disposiciones aplicables;
 
-II. Solicitar la información y documentación y efectuar los actos que se requieran para el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que le encomiende la Contraloría Interna del Estado;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
 
-III. Rendir un Informe anual tanto a la Junta de Gobierno como a la Contraloría Interna del Estado;
+II. Solicitar la información y documentación y efectuar los actos que se requieran para el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que le encomiende la Secretaría de la Función Pública del Gobierno del Estado;
+
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+III. Rendir un Informe anual tanto a la Junta de Gobierno como a la· Secretaría de la Función Pública del Gobierno del Estado;
 
 IV. Recomendar a la Junta de Gobierno y al Director General del Consejo las medidas preventivas y correctivas que sean convenientes para el mejoramiento de la organización y funcionamiento del Consejo;
 
@@ -911,7 +933,9 @@ IV. Tres vocales con derecho a voz:
 
 a. En su caso, el Titular de la Secretaría del ramo del sector que corresponda;
 
-b. El Titular de la Contraloría Interna; y
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
+b. El Titular de la Secretaría de la Función Pública del Gobierno del Estado; y
 
 c. El Presidente Ciudadano Ejecutivo de la Junta de Participación Ciudadana del Consejo.
 
@@ -1109,7 +1133,9 @@ VI. La Secretaria comunicará al Inversionista la resolución para que manifiest
 
 VII. De aceptarse los incentivos por parte del Inversionista se firmará un convenio de colaboración entre la Secretaría y el Inversionista estableciendo los compromisos de ambas partes, señalando el tipo, monto, plazos, términos y condiciones de los incentivos otorgados.
 
-VIII. En ningún caso se dará respuesta al Inversionista en un plazo mayor a los 30 días hábiles, contados a partir de que el Inversionista haya entregado satisfactoriamente toda la información que se le haya requerido por la Secretaría. La Contraloría Interna del Estado vigilará el cumplimiento de esta obligación.
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+VIII. En ningún caso se dará respuesta al Inversionista en un plazo mayor a los 30 días hábiles, contados a partir de que el Inversionista haya entregado satisfactoriamente toda la información que se le haya requerido por la Secretaría. La Secretaría de la Función Pública del Gobierno del Estado vigilará el cumplimiento de esta obligación.
 
 ###### Artículo 109.
 
@@ -1532,3 +1558,23 @@ ESAÚ HERNÁNDEZ HERRERA.
 SECRETARIO DE DESARROLLO ECONÓMICO
 
 C. EDUARDO LÓPEZ MUÑOZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE MARZO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, el Ejecutivo del Estado deberá actualizar la reglamentación de conformidad con el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, los Ayuntamientos deberán establecer su Gaceta Municipal.
+
+###### ARTÍCULO CUARTO.
+
+Los Ayuntamientos, en el término de ciento veinte días naturales a partir de la vigencia del presente Decreto, deberán publicar en sus Gacetas Municipales y en el Periódico Oficial, Órgano del Gobierno del Estado, todas las disposiciones normativas de carácter general que hayan sido generadas antes de la entrada en vigor del presente Decreto. Remitiendo en medio impreso y de forma magnética los instrumentos jurídicos a la Coordinación General Jurídica del Gobierno del Estado para su trámite de publicación.
