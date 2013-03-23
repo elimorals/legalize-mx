@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-seguridad-y-servicios-sociales-de-los-trabajadores-13310
 country: "mx"
 rank: "ley"
 publication_date: "1986-08-27"
-last_updated: "2009-12-19"
+last_updated: "2013-03-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13310&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2013.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el miércoles 27 de agosto de 1986.
 
@@ -657,7 +657,7 @@ En caso de muerte del trabajador o servidor público, la devolución de sus coti
 
 El Instituto en cualquier tiempo, podrá comprobar y verificar la autenticidad de los documentos y de los hechos fundatorios de la acción de devolución de las cotizaciones. En caso de presunción de algún delito, se procederá a denunciar los hechos al Ministerio Público.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE ABRIL DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE ABRIL DE 2001)</small>
 
 #### SECCION QUINTA. LAS POLIZAS DE DEFUNCION Y ORFANDAD
 
@@ -781,9 +781,9 @@ a) El Director General, quien fungirá como Presidente de la misma y será nombr
 
 b) El Secretario de Finanzas del Gobierno del Estado;
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
-c) El Oficial Mayor del Gobierno del Estado;
+c) El Secretario de Administración;
 
 d) Un Representante Sindical de los trabajadores al servicio del Estado, municipios e instituciones descentralizadas del Estado;
 
@@ -795,9 +795,9 @@ f) Un representante del Sindicato Independiente de Trabajadores de Telesecundari
 
 II. La Comisión de Vigilancia la formarán:
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
-a) El Contralor Interno del Estado, que tendrá el carácter de Presidente;
+a) El titular de la Secretaría de la Función Pública del Gobierno del Estado, quien tendrá el carácter de Presidente;
 
 b) Un Representante de la Secretaría de Finanzas del Gobierno del Estado;
 
@@ -925,7 +925,7 @@ XII. Formular el calendario oficial del Instituto y autorizar, en casos extraord
 
 XIII. Vigilar las labores del personal administrativo, pudiendo imponer las correcciones disciplinarias que sean de su competencia, previstas en la Ley de Responsabilidades o en el Reglamento Interior, cuando no contradiga a aquélla;
 
-XIV. Convocar a sus sesiones ordinarias y extraordinarias a los miembros de la Junta Directiva, cuando lo estime necesario par resolver los asuntos del Instituto, conforme a la Ley o por petición de alguno de sus miembros;
+XIV. Convocar a sus sesiones ordinarias y extraordinarias a los miembros de la Junta Directiva, cuando lo estime necesario para resolver los asuntos del Instituto, conforme a la Ley o por petición de alguno de sus miembros;
 
 XV. Presentar a la Junta Directiva, en el mes de enero de cada año, un informe pormenorizado del estado que guarda la institución;
 
@@ -993,11 +993,11 @@ Todo acto, contrato o documento que indique obligación o derecho inmediato o ev
 
 Los ingresos por cuotas y los egresos por prestaciones y gastos de administración, deberán contabilizarse en forma separada por cada concepto.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2013)</small>
 
 ###### ARTICULO 122.
 
-Las cuentas del Instituto quedarán sujetas a la revisión de la Secretaría de Finanzas, quien le practicará auditoría anual, así como al control, evaluación, auditoría y fiscalización de la Contraloría Interna del Estado.
+Las cuentas del Instituto quedarán sujetas a la revisión de la Secretaría de Finanzas, quien le practicará auditoría anual, así como al control, evaluación, auditoría y fiscalización de la Secretaría de la Función Pública del Gobierno del Estado.
 
 ### CAPITULO III. DE LA PRESCRIPCION
 
@@ -1105,7 +1105,9 @@ EL SECRETARIO DE GOBIERNO
 
 LIC. ROBERTO ALMANZA FELIX.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS</small>
+
+DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
 
 P.O. 18 DE ABRIL DE 2001.
 
@@ -1124,3 +1126,21 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Los procedimientos laborales burocráticos que iniciaron bajo la vigencia de la Ley, previas las reformas y adiciones y que continúen en trámite, serán regulados por las disposiciones que regían hasta antes de la entrada en vigor del presente Decreto.
+
+P.O. 23 DE MARZO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, el Ejecutivo del Estado deberá actualizar la reglamentación de conformidad con el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, los Ayuntamientos deberán establecer su Gaceta Municipal.
+
+###### ARTÍCULO CUARTO.
+
+Los Ayuntamientos, en el término de ciento veinte días naturales a partir de la vigencia del presente Decreto, deberán publicar en sus Gacetas Municipales y en el Periódico Oficial, Órgano del Gobierno del Estado, todas las disposiciones normativas de carácter general que hayan sido generadas antes de la entrada en vigor del presente Decreto. Remitiendo en medio impreso y de forma magnética los instrumentos jurídicos a la Coordinación General Jurídica del Gobierno del Estado para su trámite de publicación.
