@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6613
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-17"
-last_updated: "2009-01-17"
+last_updated: "2013-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66134&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2013.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 17 de enero de 2009.
 
@@ -121,11 +121,15 @@ Il. DIF Estatal: El Sistema Estatal para el Desarrollo Integral de la Familia;
 
 III. DIF municipales: A los Sistemas para el Desarrollo Integral de la Familia de los municipios del Estado;
 
-IV. Instituto: El Instituto para las Mujeres Zacatecanas;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+IV. Secretaría: La Secretaría de las Mujeres;
 
 V. La persona Titular del Ejecutivo: La Gobernadora o el Gobernador del Estado;
 
-VI. Ley: La presente Ley de Acceso a las Mujeres a una Vida libre de Violencia para el Estado de Zacatecas;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+VI. Ley: La presente Ley de Acceso de las Mujeres a una Vida libre de Violencia para el Estado de Zacatecas;
 
 VII. Ley General: La Ley General de Acceso de las Mujeres a una Vida Libre de Violencia;
 
@@ -287,23 +291,35 @@ I. La persona Titular del Ejecutivo, quien tendrá la Presidencia;
 
 II. La Secretaría General de Gobierno, quien tendrá la Vicepresidencia;
 
-III. La Secretaría de Educación y Cultura;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
 
-IV. La Secretaría de Planeación y Desarrollo Regional;
+III. La Secretaría de Educación;
 
-V. La Secretaría de Desarrollo Agropecuario;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+IV. La Unidad de Planeación del Titular del Poder Ejecutivo;
+
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+V. La Secretaría del Campo;
 
 VI. La Procuraduría General de Justicia del Estado;
 
-VII. El Instituto, quien tendrá la Secretaría Técnica;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+VII. La Secretaría de las Mujeres, quien tendrá la Secretaría Técnica;
 
 VIII. Los Servicios de Salud del Estado;
 
 IX. El DIF Estatal;
 
-X. La Comisión Estatal para la Integración Social de las Personas con Discapacidad;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
 
-XI. El Instituto de la Juventud del Estado;
+X. La Subsecretaría de las Personas con Discapacidad;
+
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+XI. La Subsecretaría de la Juventud;
 
 XII. El Servicio Estatal del Empleo;
 
@@ -311,7 +327,9 @@ XIII. La Legislatura del Estado, a través de la Comisión de Equidad entre los 
 
 XIV. El Tribunal Superior de Justicia del Estado, por conducto de un representante designado por el Pleno;
 
-XV. La Comisión Estatal de Derechos Humanos;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+XV. La Comisión de Derechos Humanos del Estado de Zacatecas;
 
 XVI. La Comisión Estatal para los Adultos en Plenitud;
 
@@ -483,9 +501,11 @@ La persona Titular del Ejecutivo y los Ayuntamientos, preverán en los presupues
 
 Elaboración
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 32.
 
-El Programa Estatal será elaborado por el Instituto, y previa opinión del Sistema Estatal, será aprobado por la persona Titular del Ejecutivo, en términos de la Ley de Planeación para el Desarrollo del Estado, y será publicado en el Periódico Oficial, Órgano del Gobierno del Estado.
+El Programa Estatal será elaborado por la Secretaría, y previa opinión del Sistema Estatal, será aprobado por la persona Titular del Ejecutivo, a través de la Unidad de Planeación del Titular del Poder Ejecutivo y será publicado en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 El desarrollo, seguimiento, evaluación y modificación del Programa Estatal se hará por el Sistema Estatal, en términos de su Reglamento Interno.
 
@@ -573,7 +593,9 @@ VII. Canalizar a las víctimas de violencia, a instituciones que les presten asi
 
 VIII. Informar oportunamente a la Presidencia, cuando detecte en el ejercicio de sus funciones, un aumento alarmante de la incidencia de violencia contra las mujeres en determinada región del Estado;
 
-IX. Canalizar el personal a su cargo al Instituto, para que sea capacitado con perspectiva de género, para el desempeño de su labor, en materia de la presente Ley, y
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+IX. Canalizar el personal a su cargo a la Secretaría, para que sea capacitado con perspectiva de género, para el desempeño de su labor, en materia de la presente Ley;
 
 X. Rendir un informe semestral a la Secretaría Técnica de las actividades realizadas en el cumplimiento de las finalidades de la presente Ley y de los objetivos del Programa Estatal, y
 
@@ -593,11 +615,15 @@ III. Establecer, realizar, supervisar y mantener todos los instrumentos y accion
 
 IV. Las demás que le asigne la presente Ley y los ordenamientos aplicables.
 
-Atribuciones (sic) la Secretaría de Planeación y Desarrollo Regional
+> <small>(REFORMADO ACÁPITE, P.O. 23 DE MARZO DE 2013)</small>
+
+Atribuciones de la Secretaría de Desarrollo Social
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### Artículo 37.
 
-Son atribuciones de la Secretaría de Planeación y Desarrollo Regional:
+Son atribuciones de la Secretaría de Desarrollo Social:
 
 I. Fomentar el desarrollo integral y sustentable del Estado, desde la visión de respeto y protección de los derechos humanos de las mujeres, para garantizarles una vida libre de violencia;
 
@@ -611,17 +637,23 @@ V. Promover políticas de igualdad de condiciones y oportunidades entre mujeres 
 
 VI. Las demás previstas en esta Ley y las disposiciones aplicables.
 
-Atribuciones de la Secretaría de Desarrollo Agropecuario
+> <small>(REFORMADO ACÁPITE, P.O. 23 DE MARZO DE 2013)</small>
+
+Atribuciones de la Secretaría del Campo
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### Artículo 38.
 
-Son atribuciones de la Secretaría de Desarrollo Agropecuario:
+Son atribuciones de la Secretaría del Campo:
 
 I. Incorporar la perspectiva de género, los principios de igualdad, equidad y no discriminación, el respeto pleno a los derechos humanos de las mujeres, y la cultura de prevención, denuncia y erradicación de la violencia contra las mujeres en sus políticas, programas y acciones;
 
 II. Impulsar y fomentar proyectos de inversión en donde se canalicen recursos a proyectos destinados a las mujeres del ámbito rural;
 
-III. Canalizar al personal a su cargo al Instituto, para que sea capacitado con perspectiva de género, para el desempeño de su labor, en materia de la presente Ley, y
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+III. Canalizar al personal a su cargo a la Secretaría para que sea capacitado con perspectiva de género, para el desempeño de su labor, en materia de la presente Ley, y
 
 IV. Las demás previstas en esta Ley y las disposiciones aplicables.
 
@@ -655,11 +687,15 @@ XI. Diseñar y ejecutar campañas de difusión para promover la cultura de denun
 
 XII. Las demás que le asigne la presente Ley y los ordenamientos aplicables.
 
-Atribuciones del Instituto
+> <small>(REFORMADO ACÁPITE, P.O. 23 DE MARZO DE 2013)</small>
+
+Atribuciones de la Secretaría
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### Artículo 40.
 
-Son atribuciones del Instituto:
+Son atribuciones de la Secretaría:
 
 A. En materia de prevención y erradicación:
 
@@ -707,7 +743,9 @@ I. Capacitar con perspectiva de género a las diferentes instituciones de los se
 
 II. Coordinar la formación de promotores y capacitadores comunitarios cuya función básica será estimular los programas de prevención y erradicación de la violencia contra las mujeres, en centros urbanos, poblaciones o comunidades rurales, así como en instituciones educativas, o centros laborales, recreativos, deportivos o culturales;
 
-III. Establecer como un requisito de contratación, para todo el personal del Instituto, que no cuente con antecedentes de violencia contra las mujeres;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+III. Establecer como un requisito de contratación, para todo el personal de la Secretaría, que no cuente con antecedentes de violencia contra las mujeres;
 
 IV. Implementar un programa especial para proporcionar tratamiento terapéutico al personal encargado de la atención de las mujeres víctimas de violencia, y
 
@@ -767,7 +805,9 @@ III. Brindar asistencia y protección social, así como asesoría jurídica y ps
 
 IV. Elaborar y desarrollar programas integrales y acciones de asistencia, atención y reeducación, que permitan a las víctimas y persona agresoras participar activamente en la vida pública, privada y social;
 
-V. Establecer, en coordinación con el Instituto, una línea de atención telefónica que sirva de medio de información y canalización para atender a las mujeres víctimas de violencia, y
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+V. Establecer, en coordinación con la Secretaría, una línea de atención telefónica que sirva de medio de información y canalización para atender a las mujeres víctimas de violencia, y
 
 VI. Promover la participación de los sectores social y privado en la asistencia a las víctimas de violencia.
 
@@ -783,15 +823,19 @@ IV. Implementar un programa especial para proporcionar tratamiento terapéutico 
 
 V. Establecer en todos los centros, refugios y unidades a su cargo, una base de datos sobre los casos atendidos, tramitados o canalizados, edad, número de víctimas, tipos y modalidades de la violencia, causas, daños y recursos erogados, la cual será proporcionada a las instituciones encargadas de realizar el diagnóstico estatal y demás investigaciones relativas, y formará parte del Banco Estatal;
 
-VI. Instalar módulos de información en sus oficinas, así como promover su instalación en los DIF municipales, y diseñar y ejecutar, en coordinación con el Instituto, campañas de difusión e información, encaminadas a sensibilizar a la población en general, sobre los tipos y modalidades de la violencia contra las mujeres, sus efectos, así como las formas de prevenirla, atenderla, sancionarla y erradicarla, y
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+VI. Instalar módulos de información en sus oficinas, así como promover su instalación en los DIF municipales, y diseñar y ejecutar, en coordinación con la Secretaría, campañas de difusión e información, encaminadas a sensibilizar a la población en general, sobre los tipos y modalidades de la violencia contra las mujeres, sus efectos, así como las formas de prevenirla, atenderla, sancionarla y erradicarla, y
 
 VII. Las demás previstas en esta Ley y las disposiciones aplicables.
 
 Atribuciones del sector de desarrollo social
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 43.
 
-Son atribuciones de la Comisión Estatal para la Integración Social de las Personas con Discapacidad, del Instituto de la Juventud del Estado, y del Consejo Consultivo de las Personas Adultas Mayores:
+Son atribuciones de la Secretaría de Desarrollo Social a través de la Subsecretaría de las Personas con Discapacidad, de la Subsecretaría de la Juventud y del Consejo Consultivo de las Personas Adultas Mayores:
 
 I. Incorporar la perspectiva de género, los principios de igualdad, equidad y no discriminación, el respeto pleno a los derechos humanos de las mujeres, y la cultura de prevención, denuncia y erradicación de la violencia contra las mujeres en sus políticas, programas, modelos, acciones y campañas;
 
@@ -803,9 +847,11 @@ IV. Las demás previstas en esta Ley y demás disposiciones aplicables.
 
 Atribuciones del sector educativo
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 44.
 
-Son atribuciones de la Secretaría de Educación y Cultura, y de las instituciones de educación básica, media superior y superior:
+Son atribuciones de la Secretaría de Educación, y de las instituciones de educación básica, media superior y superior:
 
 I. Incluir en las políticas y programas educativos del Estado o de las instituciones de educación media superior y superior, según sea el caso, la perspectiva de género, los principios de igualdad, equidad y no discriminación, el respeto pleno a los derechos humanos de las mujeres, y la cultura de prevención, denuncia y erradicación de la violencia contra las mujeres;
 
@@ -913,9 +959,11 @@ V. Las demás previstas en esta Ley y las disposiciones aplicables.
 
 Atribuciones de la Comisión de Derechos Humanos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 49.
 
-Son atribuciones de la Comisión Estatal de Derechos Humanos:
+Son atribuciones de la Comisión de Derechos Humanos del Estado de Zacatecas:
 
 I. Institucionalizar en sus funciones, actividades, políticas, programas, modelos, acciones y campañas, la perspectiva de género, los principios de igualdad, equidad y no discriminación, el respeto pleno a los derechos humanos de las mujeres, y la cultura de prevención, denuncia y erradicación de la violencia contra las mujeres;
 
@@ -1019,9 +1067,13 @@ La Declaratoria de Alerta de Violencia podrá ser solicitada por cualquier munic
 
 La persona Titular del Ejecutivo, por conducto de la Secretaría General de Gobierno, emitirá debidamente fundada y motivada, previa aprobación de la Legislatura del Estado, la Declaratoria de Alerta de Violencia.
 
-Para estos efectos, deberá tomarse en cuenta la opinión de la Comisión Estatal de los Derechos Humanos.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
-El Instituto coordinará, evaluará y dará el seguimiento correspondiente a las acciones que deberán implementarse en virtud a la Declaratoria de Alerta de Violencia.
+Para estos efectos, deberá tomarse en cuenta la opinión de la Comisión de Derechos Humanos del Estado de Zacatecas.
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
+La Secretaría coordinará, evaluará y dará el seguimiento correspondiente a las acciones que deberán implementarse en virtud a la Declaratoria de Alerta de Violencia.
 
 Facultad de los municipios
 
@@ -1069,9 +1121,13 @@ La Secretaría General de Gobierno, en un término que no deberá exceder de 30 
 
 Una vez realizadas las diligencias señaladas en el párrafo anterior, y acreditada fehacientemente la existencia de la Alerta de Violencia, en un término no mayor a 15 días naturales después de efectuada la última diligencia de acreditación de la Alerta de Violencia, la Secretaría General de Gobierno emitirá la Declaratoria correspondiente y la enviará a la Legislatura del Estado para su aprobación, en su caso.
 
-La Legislatura podrá efectuar las diligencias que considere necesarias para determinar la procedencia de dicha Declaratoria, dentro de un término no mayor de 15 días hábiles después de haberla recibido por parte de la Secretaría General de Gobierno. Si encuentra debidamente acreditada la Alerta de Violencia, aprobará su Declaratoria y, en su caso, especificará claramente sus alcances, y la remitirá a la persona Titular del Ejecutivo para su expedición y al Instituto para su ejecución.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
-Para decretar la Alerta de Violencia, deberá escucharse a la Comisión Estatal de Derechos Humanos, lo cual, podrá hacerse en cualquiera de las etapas necesarias para acreditar su procedencia. El procedimiento para escuchar a la Comisión Estatal de Derechos Humanos, quedará establecido en el Reglamento de esta Ley.
+La Legislatura podrá efectuar las diligencias que considere necesarias para determinar la procedencia de dicha Declaratoria, dentro de un término no mayor de 15 días hábiles después de haberla recibido por parte de la Secretaría General de Gobierno. Si encuentra debidamente acreditada la Alerta de Violencia, aprobará su Declaratoria y, en su caso, especificará claramente sus alcances, y remitirá a la persona Titular del Ejecutivo para su expedición y a la Secretaría para su ejecución.
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
+Para decretar la Alerta de Violencia, deberá escucharse a la Comisión de Derechos Humanos del Estado de Zacatecas, lo cual, podrá hacerse en cualquiera de las etapas necesarias para acreditar su procedencia. El procedimiento para escuchar a la Comisión Estatal de Derechos Humanos, quedará establecido en el Reglamento de esta Ley.
 
 En caso de que la Secretaría General de Gobierno, o la Legislatura del Estado, según corresponda, no encuentren fehacientemente acreditada la Alerta de Violencia, no procederá su declaratoria o aprobación, respectivamente.
 
@@ -1245,9 +1301,11 @@ XII. Las demás que señalen otras disposiciones aplicables.
 
 Instituciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 76.
 
-La atención y asistencia se realizarán a través de los centros de atención, y refugios que para ese efecto tengan el DIF Estatal, el Instituto, las autoridades municipales, o los centros o unidades que los sectores social, académico y privado establezcan para ese efecto.
+La atención y asistencia se realizarán a través de los centros de atención, y refugios que para ese efecto tengan el DIF Estatal, la Secretaría, las autoridades municipales, o los centros o unidades que los sectores social, académico y privado establezcan para ese efecto.
 
 El DIF Estatal y los DIF municipales, podrán desarrollar programas integrales de reeducación de personas agresoras con el objeto de modificar conductas violentas y discriminatorias.
 
@@ -1287,7 +1345,9 @@ Mediación y conciliación
 
 En materia de violencia familiar no se someterá a la víctima y a la persona agresora a procedimientos de mediación o conciliación, o cualquier otro medio alternativo de justicia, excepto cuando la mujer esté en condiciones plenas y aptas para comparecer en un nivel de igualdad ante la persona agresora.
 
-La condición de aptitud para comparecer, la determinará el área de psicología o de trabajo social, adscrita al Instituto o DIF Estatal o municipal, según corresponda.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
+La condición de aptitud para comparecer, la determinará el área de psicología o de trabajo social, adscrita a la Secretaría o DIF Estatal o municipal, según corresponda.
 
 ### Capítulo VI. Refugios
 
@@ -1385,11 +1445,13 @@ VII. Las demás que otorgue el Sistema Estatal, esta Ley, sus reglamentos y las 
 
 ### Capítulo I. Autoridad competente
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 89.
 
-Las autoridades competentes para la imposición de sanciones administrativas en materia de esta Ley son el Instituto y las instancias municipales de atención a las mujeres.
+Las autoridades competentes para la imposición de sanciones administrativas en materia de esta Ley son la Secretaría y las instancias municipales de atención a las mujeres.
 
-Las corporaciones policiales estatales o municipales, según sea el caso, coadyuvarán a la ejecución de las resoluciones y sanciones establecidas por el Instituto.
+Las corporaciones policiales estatales o municipales, según sea el caso, coadyuvarán a la ejecución de las resoluciones y sanciones establecidas por la Secretaría.
 
 ### Capítulo II. Infracciones y sanciones
 
@@ -1439,9 +1501,13 @@ III. Los datos que permitan identificar a la persona presunta agresora, y
 
 IV. Las pruebas que en su caso ofrezca la persona denunciante.
 
-Podrá formularse la denuncia por vía telefónica, a través de la línea de atención telefónica gratuita que operen el Instituto o los DIF Estatal o municipales.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
-La servidora o el servidor público que reciba la denuncia, levantará acta circunstanciada con los datos establecidos en el presente artículo y las remitirá de inmediato al Instituto, o en su caso, a las instancias municipales de atención a las mujeres, para su trámite correspondiente.
+Podrá formularse la denuncia por vía telefónica, a través de la línea de atención telefónica gratuita que operen la Secretaría o los DIF Estatal o municipales.
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
+La servidora o el servidor público que reciba la denuncia, levantará acta circunstanciada con los datos establecidos en el presente artículo y las remitirá de inmediato a la Secretaría, o en su caso, a las instancias municipales de atención a las mujeres, para su trámite correspondiente.
 
 Si la denunciante solicita a la autoridad correspondiente guardar secreto respecto de su identidad, por razones de seguridad o interés particular, ésta llevará a cabo el seguimiento de la denuncia conforme a las atribuciones que la presente Ley y demás disposiciones jurídicas aplicables le otorgan.
 
@@ -1566,3 +1632,23 @@ AMALIA D. GARCÍA MEDINA.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. CARLOS PINTO NÚÑEZ.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE MARZO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, el Ejecutivo del Estado deberá actualizar la reglamentación de conformidad con el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, los Ayuntamientos deberán establecer su Gaceta Municipal.
+
+###### ARTÍCULO CUARTO.
+
+Los Ayuntamientos, en el término de ciento veinte días naturales a partir de la vigencia del presente Decreto, deberán publicar en sus Gacetas Municipales y en el Periódico Oficial, Órgano del Gobierno del Estado, todas las disposiciones normativas de carácter general que hayan sido generadas antes de la entrada en vigor del presente Decreto. Remitiendo en medio impreso y de forma magnética los instrumentos jurídicos a la Coordinación General Jurídica del Gobierno del Estado para su trámite de publicación.
