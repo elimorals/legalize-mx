@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-becas-estimulos-educativos-y-apoyos-financieros-del-7395
 country: "mx"
 rank: "ley"
 publication_date: "2010-02-03"
-last_updated: "2010-02-03"
+last_updated: "2013-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE BECAS, ESTÍMULOS EDUCATIVOS Y APOYOS FINANCIEROS DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2013.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 3 de febrero de 2010.
 
@@ -55,9 +55,11 @@ Esta Ley comprende y regula becas, estímulos educativos y apoyos financieros de
 
 Competencia
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### ARTÍCULO 2.
 
-La vigilancia y aplicación de la presente Ley es competencia de quien funja como Titular del Poder Ejecutivo a través de la Secretaría de Educación y Cultura.
+La vigilancia y aplicación de la presente Ley es competencia de quien funja como Titular del Poder Ejecutivo a través de la Secretaría de Educación.
 
 Finalidades
 
@@ -93,7 +95,9 @@ II. Apoyo financiero: El apoyo económico otorgado por el Gobierno del Estado, e
 
 III. Becario: La o el alumno, estudiante o persona beneficiada con alguna beca, estímulo educativo o apoyo financiero;
 
-IV. Beca: Apoyo económico otorgado por el Gobierno del Estado, durante el ciclo escolar, así como el porcentaje que las instituciones educativas particulares que cuenten con autorización o reconocimiento de validez oficial de estudios otorgados por la Secretaría de Educación y Cultura, en términos de la legislación aplicable, deban reducir de las colegiaturas que cobren durante el ciclo escolar, con el objeto de promover y coadyuvar a su formación académica;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+IV. Beca: Apoyo económico otorgado por el Gobierno del estado, durante el ciclo escolar, así como el porcentaje que las instituciones educativas particulares que cuenten con autorización o reconocimiento de validez oficial de estudios otorgados por la Secretaría de Educación, en términos de la legislación aplicable, deban reducir de las colegiaturas que cobren durante el ciclo escolar, con el objeto de promover y coadyuvar a su formación académica;
 
 V. Comisión: Comisión para la Administración de las Becas, Estímulos Educativos y Apoyos Financieros del Estado de Zacatecas;
 
@@ -109,7 +113,9 @@ X. Federación: La Secretaría de Educación Pública;
 
 XI. Ley: La Ley de Becas, Estímulos Educativos y Apoyos Financieros del Estado de Zacatecas;
 
-XII. Secretaría: La Secretaría de Educación y Cultura;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+XII. Secretaría: La Secretaría de Educación;
 
 XIII. SIBEZ: Al Sistema de Becas del Estado de Zacatecas, donde se encuentran dados de alta los programas de becas y las y los becarios del Estado, y
 
@@ -223,9 +229,13 @@ a) La persona titular de la Secretaría de Finanzas del Estado;
 
 b)Tres representantes de la Secretaría, uno de educación básica, otro de media superior y uno de superior; quienes serán designados y removidos por la Secretaría y durarán en su cargo hasta tres años, pudiendo ser reelectos una sola vez, y
 
-VI. Una o un representante de la Contraloría Interna.
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
 
-La o el Presidente, Secretaria o Secretario, Coordinadores, así como las y los vocales tendrán derecho a voz y voto y el representante de la Contraloría solo tendrá derecho a voz. Por cada miembro titular del Consejo, se hará respectivamente el nombramiento de una o un suplente, quien gozará de los mismos derechos y contará con las mismas obligaciones que la o el propietario correspondiente en la ausencia de éste.
+VI. Una o un representante de la Secretaría de la Función Pública del Gobierno del Estado.
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
+La o el Presidente, Secretaria o Secretario, Coordinadores, así como las y los vocales, tendrán derecho a voz y voto y el representante de la Secretaría de la Función Pública del· Gobierno del Estado sólo tendrá derecho a voz. Por cada miembro titular del Consejo, se hará respectivamente el nombramiento de una o un suplente, quien gozará de los mismos derechos y contará con las mismas obligaciones que la o el propietario correspondiente en la ausencia de éste.
 
 El cargo de miembro del Consejo será honorífico.
 
@@ -275,7 +285,9 @@ Integración de la Comisión Estatal de Becas
 
 La Comisión Estatal se integra por:
 
-I. Una o un Coordinador Estatal, que será la o el Secretario de Educación y Cultura;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+I. Una o un Coordinador Estatal, que será la o el Secretario de Educación;
 
 II. Una o un Secretario, que será la o el Subsecretario de Planeación y Apoyos a la Educación, y (sic)
 
@@ -1220,3 +1232,23 @@ CARLOS PINTO NUÑEZ.
 SECRETARIA DE EDUCACIÓN Y CULTURA
 
 PROFRA. MA. DE LA LUZ MEDINA LOMELÍ.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE MARZO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, el Ejecutivo del Estado deberá actualizar la reglamentación de conformidad con el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, los Ayuntamientos deberán establecer su Gaceta Municipal.
+
+###### ARTÍCULO CUARTO.
+
+Los Ayuntamientos, en el término de ciento veinte días naturales a partir de la vigencia del presente Decreto, deberán publicar en sus Gacetas Municipales y en el Periódico Oficial, Órgano del Gobierno del Estado, todas las disposiciones normativas de carácter general que hayan sido generadas antes de la entrada en vigor del presente Decreto. Remitiendo en medio impreso y de forma magnética los instrumentos jurídicos a la Coordinación General Jurídica del Gobierno del Estado para su trámite de publicación.
