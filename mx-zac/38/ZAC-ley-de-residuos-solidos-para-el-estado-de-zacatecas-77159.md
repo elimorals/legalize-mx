@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-residuos-solidos-para-el-estado-de-zacatecas-77159"
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-16"
-last_updated: "2010-10-16"
+last_updated: "2013-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77159&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DE RESIDUOS SOLIDOS PARA EL ESTADO DE ZACATECAS
 
 > <small>N. DE E. ESTE ORDENAMIENTO ES UNA REIMPRESION ACTUALIZADA DE LA PUBLICACION DEL PERIODICO OFICIAL No. 83 SUPLEMENTO DE FECHA 16 DE OCTUBRE DE 2010.</small>
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2013.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 16 de octubre de 2010.
 
@@ -49,9 +49,11 @@ LEY DE RESIDUOS SÓLIDOS PARA EL ESTADO DE ZACATECAS.
 
 ### Capítulo I. De las Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 1.
 
-La presente Leyes de observancia general en el Estado de Zacatecas, sus disposiciones son de orden público e interés social y tiene por objeto regular la generación, aprovechamiento y gestión integral de los residuos sólidos urbanos y de manejo especial, de conformidad con lo que establece la Ley General para la Prevención y Gestión Integral de los Residuos así como la prevención de la contaminación y la remediación de suelos contaminados con residuos; a fin de propiciar el desarrollo sustentable en el Estado; su aplicación corresponde al Ejecutivo del Estado por conducto del Instituto de Ecología y Medio Ambiente del Estado de Zacatecas.
+La presente Ley es de observancia general en el Estado de Zacatecas, sus disposiciones son de orden público e interés social y tiene por objeto regular la generación, aprovechamiento y gestión integral de los residuos sólidos urbanos y de manejo especial, de conformidad con lo que establece la Ley General para la Prevención y Gestión Integral de los Residuos así como la prevención de la contaminación y la remediación de suelos contaminados con residuos; a fin de propiciar el desarrollo sustentable en el Estado; su aplicación corresponde al Ejecutivo del Estado por conducto de la Secretaría del Agua y Medio Ambiente.
 
 ###### Artículo 2.
 
@@ -167,7 +169,9 @@ III. Centro de acopio: Instalación debidamente autorizada por la autoridad esta
 
 IV. Compostaje: Tratamiento mediante biodegradación que permite el aprovechamiento de los residuos sólidos orgánicos como mejoradores de suelos o fertilizantes;
 
-V. Instituto: Instituto de Ecología y Medio Ambiente del Estado de Zacatecas;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+V. Secretaría: Secretaría del Agua y Medio Ambiente;
 
 VI. Disposición Final: Acción de depositar o confinar permanentemente residuos en sitios e instalaciones cuyas características permitan prevenir su liberación al ambiente y las consecuentes afectaciones a la salud de la población y a los ecosistemas y sus elementos;
 
@@ -223,9 +227,11 @@ XXXI. Vulnerabilidad: Conjunto de condiciones que limitan la capacidad de defens
 
 ### Capítulo II. De la distribución de competencias y coordinación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 8.
 
-Corresponde al Ejecutivo Estatal, a través del Instituto, las siguientes atribuciones:
+Corresponde al Ejecutivo Estatal, a través de la Secretaría, las siguientes atribuciones:
 
 I. Formular, conducir, aplicar y evaluar la política de residuos sólidos y de manejo especial del Estado de Zacatecas, así como el Programa General de Residuos Sólidos;
 
@@ -335,9 +341,11 @@ El director del organismo operador, además de cumplir con los requisitos que es
 
 El organismo operador intermunicipal o municipal deberá expedir el reglamento de recolección, transporte, almacenamiento, transferencia y disposición final, para la prestación del servicio público de participantes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 13.
 
-El Instituto podrá suscribir convenios o acuerdos de coordinación o colaboración con la Federación y con los Ayuntamientos:
+La Secretaría podrá suscribir convenios o acuerdos de coordinación o colaboración con la Federación y con los Ayuntamientos:
 
 I. Para autorizar y controlar las actividades realizadas por los microgeneradores de residuos, de conformidad con la normatividad aplicable, y establecer y actualizar los registros que correspondan e imponer las sanciones aplicables, y
 
@@ -361,7 +369,9 @@ V. Contendrán las demás estipulaciones que las partes consideren necesarias pa
 
 Los municipios del Estado, previo convenio entre sus ayuntamientos, se podrán coordinar para la prestación de los servicios del manejo integral, a través de un organismo operador intermunicipal. Dicho convenio surtirá sus efectos a partir de la publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
 
-Posteriormente al convenio entre los Ayuntamientos, éstos deberán celebrar convenio con el Instituto, en el que se establezca que con el carácter de intermunicipal, proporcionarán, el o los servicios de limpia, recolección, acopio, almacenamiento, traslado, tratamiento y disposición final.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
+Posteriormente al convenio entre los Ayuntamientos, éstos deberán celebrar convenio con la Secretaría, en el que se establezca que con el carácter de intermunicipal, proporcionarán, el o los servicios de limpia, recolección, acopio, almacenamiento, traslado, tratamiento y disposición final.
 
 ###### Artículo 16.
 
@@ -373,9 +383,11 @@ II. Que su objeto derive de la falta de capacidad para proporcionar el servicio,
 
 III. Que la organización y operación del organismo público que se constituya, se sujete a lo establecido en la presente Ley.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 17.
 
-Los convenios mencionados en este capítulo, previa aprobación de la Legislatura del Estado, podrán ser de vigencia indefinida y sólo podrán darse por terminados por causas extraordinarias o imprevisibles, así como por casos fortuitos o de fuerza mayor y previa la celebración del convenio respectivo con el Instituto, una vez que el Ayuntamiento así lo determine en la sesión de Cabildo respectiva (sic).
+Los convenios mencionados en este capítulo, previa aprobación de la Legislatura del Estado, podrán ser de vigencia indefinida y sólo podrán darse por terminados por causas extraordinarias o imprevisibles, así como por casos fortuitos o de fuerza mayor y previa la celebración del convenio respectivo con la Secretaría, una vez que el Ayuntamiento así lo determine en la sesión de Cabildo respectiva.
 
 ###### Artículo 18.
 
@@ -391,9 +403,11 @@ La presidencia del órgano de gobierno de los organismos operadores intermunicip
 
 ### Capítulo IV. De la participación social
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 21.
 
-El Ejecutivo del Estado, a través del Instituto, y los Ayuntamientos, en la esfera de su competencia, promoverán la participación de todos los sectores de la sociedad en la prevención de la generación, valorización y gestión integral de residuos, para:
+El Ejecutivo del Estado, a través de la Secretaría, y los Ayuntamientos, en la esfera de su competencia, promoverán la participación de todos los sectores de la sociedad en la prevención de la generación, valorización y gestión integral de residuos, para:
 
 I. Fomentar y apoyar la conformación, consolidación y operación de grupos intersectoriales interesados en participar en el diseño e instrumentación de políticas y programas correspondientes, así como para prevenir la contaminación de sitios con materiales y residuos y llevar a cabo su remediación;
 
@@ -479,9 +493,11 @@ En la planeación de la política de residuos y la realización de las acciones 
 
 #### Sección Segunda. De los programas sobre residuos sólidos urbanos y de manejo especial
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 26.
 
-El Instituto, en coordinación con las autoridades competentes, elaborará el Programa de Manejo Integral de Residuos Sólidos y de Manejo Especial del Estado de Zacatecas, el cual deberá contener los objetivos, criterios, lineamientos, estrategias y metas de la gestión de residuos. Así mismo, los municipios elaborarán el programa municipal correspondiente, con base en el programa expedido por el Ejecutivo Estatal, que incluya los lineamientos particulares y específicos de cada municipio:
+La Secretaría, en coordinación con las autoridades competentes, elaborará el Programa de Manejo Integral de Residuos Sólidos y de Manejo Especial del Estado de Zacatecas, el cual deberá contener los objetivos, criterios, lineamientos, estrategias y metas de la gestión de residuos. Así mismo, los municipios elaborarán el programa municipal correspondiente, con base en el programa expedido por el Ejecutivo Estatal, que incluya los lineamientos particulares y específicos de cada municipio.
 
 Se promoverá la participación de la sociedad y los distintos grupos sociales en la elaboración de los programas de manejo de residuos.
 
@@ -501,11 +517,13 @@ VI. La asistencia técnica que en su caso brinden las autoridades correspondient
 
 #### Sección Tercera. De los planes de manejo integral de residuos sólidos urbanos y de manejo especial
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 27.
 
-El Ejecutivo Estatal a través del Instituto en coordinación con los ayuntamientos, y en el ámbito de su competencia, promoverá la elaboración de planes de manejo integral de residuos sólidos urbanos y de manejo especial correspondientes a los generadores obligados.
+El Ejecutivo Estatal a través de la Secretaría en coordinación con los ayuntamientos, y en el ámbito de su competencia, promoverá la elaboración de planes de manejo integral de residuos sólidos urbanos y de manejo especial correspondientes a los generadores obligados.
 
-El Instituto aprobará el plan de manejo integral sólo si cumple con lo que dispone esta Ley y podrá proponer modificaciones o emitir recomendaciones para que vuelva a ser sujeto de autorización.
+La Secretaría aprobará el plan de manejo integral sólo si cumple con lo que dispone esta Ley y podrá proponer modificaciones o emitir recomendaciones para que vuelva a ser sujeto de autorización.
 
 ###### Artículo 28.
 
@@ -579,11 +597,15 @@ III. Que se trate de residuos de alto volumen de generación, producidos por un 
 
 IV. Que se trate de residuos que, por sus características o volúmenes, no puedan manejarse como el resto de los residuos que involucren los servicios que señala esta Ley y demás normatividad aplicable.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 33.
 
-Los planes de manejo serán presentados por los generadores, al Instituto, quien contará con un plazo de 30 días hábiles a partir de la recepción, para someter la propuesta a la aprobación del Ayuntamiento correspondiente a fin de que ambas autoridades realicen comentarios u observaciones sobre su contenido.
+Los planes de manejo serán presentados por los generadores, a la Secretaría, quien contará con un plazo de 30 días hábiles a partir de la recepción, para someter la propuesta a la aprobación del Ayuntamiento correspondiente a fin de que ambas autoridades realicen comentarios u observaciones sobre su contenido.
 
-El Ayuntamiento contará con 10 días hábiles para presentar sus observaciones al Instituto y consultarán grupos interdisciplinarios e interinstitucionales, para la evaluación de los planes de manejo integral de residuos sujetos a su aprobación.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
+El Ayuntamiento contará con 10 días hábiles para presentar sus observaciones a la Secretaría y consultarán grupos interdisciplinarios e interinstitucionales, para la evaluación de los planes de manejo integral de residuos sujetos a su aprobación.
 
 Si transcurrido el plazo señalado en el párrafo anterior, las autoridades no entregan sus observaciones, se entenderá que el plan de manejo integral fue aprobado.
 
@@ -619,9 +641,11 @@ V. La disposición en forma ambientalmente adecuada de lo que no puede ser reint
 
 Los programas de manejo de residuos deberán fortalecer acciones en materia educativa que incluirán campañas de educación sobre reducción de la cantidad y peligrosidad de los residuos sólidos, recuperación, separación y reciclaje de residuos, comercialización de productos reciclables y alternativas de procesamiento y disposición ambientalmente adecuada, así como establecer indicadores de desempeños para evaluar la adecuada aplicación de los programas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 37.
 
-El Ejecutivo Estatal a través del Instituto, deberá apoyar divulgación, uso, conocimiento y prácticas tecnológicas en materia de manejo integral de residuos y la difusión de la información necesaria que impulse la cultura de la valorización y aprovechamiento de los residuos sólidos urbanos y de manejo especial.
+El Ejecutivo Estatal a través de la Secretaría, deberá apoyar divulgación, uso, conocimiento y prácticas tecnológicas en materia de manejo integral de residuos y la difusión de la información necesaria que impulse la cultura de la valorización y aprovechamiento de los residuos sólidos urbanos y de manejo especial.
 
 Impulsará, además, el reconocimiento público a quienes practiquen las anteriores acciones en el ámbito particular.
 
@@ -631,9 +655,11 @@ Impulsará, además, el reconocimiento público a quienes practiquen las anterio
 
 Las autoridades competentes establecerán condiciones para generar un beneficio económico, en favor de aquellas personas o entidades que desarrollen acciones de minimización, segregación de materiales para su reaprovechamiento, o de inversión en tecnología y utilización de prácticas, métodos o procesos que coadyuven a mejorar el manejo de los residuos en los sectores económicos y actividades vinculadas con su generación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 39.
 
-El Ejecutivo Estatal, a través del Instituto, promoverá la participación del sector privado y académico en la investigación, desarrollo tecnológico, adquisición de equipos, así como en la construcción de infraestructura de tratamiento, transferencia o disposición final de residuos sólidos.
+El Ejecutivo Estatal, a través de la Secretaría, promoverá la participación del sector privado y académico en la investigación, desarrollo tecnológico, adquisición de equipos, así como en la construcción de infraestructura de tratamiento, transferencia o disposición final de residuos sólidos.
 
 Es obligación de las autoridades competentes adoptar medidas y disposiciones que incentiven la inversión privada y fomenten la investigación en estas actividades.
 
@@ -673,9 +699,11 @@ X. El desarrollo de mecanismos especiales de financiamiento, y
 
 XI. La promoción de la cultura, la educación continua y capacitación en materia de manejo integral de los residuos y la investigación, el desarrollo tecnológico, la divulgación científica y la transferencia del conocimiento y tecnologías, fomentando los mecanismos de vinculación entre los académicos o investigadores y los usuarios de los servicios y el uso de las investigaciones.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 43.
 
-El Ejecutivo Estatal a través de la Secretaría de Desarrollo Económico promoverá la creación de subsidios para pequeños y grandes generadores de residuos sólidos urbanos y de manejo especial, a fin de dar cumplimiento a la presente Ley.
+El Ejecutivo Estatal a través de la Secretaría de Economía promoverá la creación de subsidios para pequeños y grandes generadores de residuos sólidos urbanos y de manejo especial, a fin de dar cumplimiento a la presente Ley.
 
 #### Sección Sexta. De la información sobre residuos sólidos
 
@@ -701,9 +729,11 @@ Además, elaborarán un registro de los sitios donde se han abandonado clandesti
 
 Los responsables del transporte, plantas de transferencia, tratamiento o de disposición final de residuos deberán presentar, mensualmente a la autoridad correspondiente, un informe sobre los servicios prestados.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 49.
 
-El Instituto está facultado para solicitar a la autoridad federal competente, toda la información sobre el manejo y transporte de residuos peligrosos en el territorio del Estado de Zacatecas.
+La Secretaría está facultada para solicitar a la autoridad federal competente, toda la información sobre el manejo y transporte de residuos peligrosos en el territorio del Estado de Zacatecas.
 
 ## TÍTULO SEGUNDO. DEL MANEJO INTEGRAL DE RESIDUOS SÓLIDOS URBANOS Y DE MANEJO ESPECIAL
 
@@ -757,7 +787,9 @@ Los centros de acopio o almacenamiento, comercializadores y generadores de resid
 
 I. Contar con la Evaluación de Manifestación de Impacto Ambiental;
 
-II. Obtener el registro como generadores ante el Instituto;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+II. Obtener el registro como generadores ante la Secretaría;
 
 III. Identificar, clasificar y separar los residuos sólidos urbanos y de manejo especial;
 
@@ -801,7 +833,9 @@ En el caso de transporte, éste se hará exclusivamente dentro de la caja de los
 
 Los establecimientos para el reciclado, tratamiento y disposición final de residuos deberán:
 
-I. Obtener registro para realizar dichas actividades ante el Instituto;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+I. Obtener registró para realizar dichas actividades ante la Secretaría;
 
 II. Ubicarse en zonas apropiadas de conformidad con lo dispuesto en el ordenamiento territorial y planes de desarrollo urbano, y en lugares que reúnan los criterios que establezcan la normatividad aplicable;
 
@@ -933,9 +967,11 @@ d) Residuos de papel sanitario.
 
 Los residuos se entregarán a los servicios de recolección o a los centros de acopio según corresponda y de conformidad con lo que establezcan los programas municipales correspondientes.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 65.
 
-El Instituto y los ayuntamientos instrumentarán campañas permanentes para fomentar la separación de residuos sólidos desde su fuente, para contribuir en el sistema de manejo de dichos residuos.
+La Secretaría y los ayuntamientos instrumentarán campañas permanentes para fomentar la separación de residuos sólidos desde su fuente, para contribuir en el sistema de manejo de dichos residuos.
 
 ###### Artículo 66.
 
@@ -1053,9 +1089,11 @@ Para las tecnologías o procesos innovadores sobre los que no exista experiencia
 
 A I final de la vida útil de los rellenos sanitarios, las instalaciones para la disposición o tratamiento final de los residuos, se cerrarán de acuerdo con la ley de la materia y demás normatividad correspondiente y, en su caso, mediante la aplicación de garantías financieras que por obligación deben de adoptarse para hacer frente a ésta y otras eventualidades.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 86.
 
-El Ejecutivo del Estado a través del Instituto, vigilará la operación de depósitos especiales u hornos incineradores de instituciones públicas o privadas, mismos que deberán cumplir con las condiciones de seguridad e higiene que establecen la Ley General, la Ley Estatal, y demás normatividad aplicable.
+El Ejecutivo del Estado a través de la Secretaría, vigilará la operación de depósitos especiales u hornos incineradores de instituciones públicas o privadas, mismos que deberán cumplir con las condiciones de seguridad e higiene que establecen la Ley General, la Ley Estatal, y demás normatividad aplicable.
 
 ### Capítulo X. De la concesión del manejo de residuos sólidos
 
@@ -1101,9 +1139,11 @@ La entidad pública o privada encargada de la prestación de alguna o de todas l
 
 Asimismo, tienen la obligación de contemplar medidas de emergencia en caso de fallas provocadas por cualquier circunstancia, y que impidan de una manera u otra la prestación del servicio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 90.
 
-Las personas interesadas en prestar los servicios de manejo integral de residuos, deberán contar con la autorización del Instituto para:
+Las personas interesadas en prestar los servicios de manejo integral de residuos, deberán contar con la autorización de la Secretaría para:
 
 I. La instalación y operación de centros de acopio;
 
@@ -1135,9 +1175,11 @@ La contraprestación que reciban los ayuntamientos o, en su caso, los organismos
 
 La fijación de la tarifa será anual y no deberá de rebasar el 70% del salario mínimo vigente en el Estado de Zacatecas.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 94.
 
-El derecho a la fijación de tarifas en el servicio público de limpia por parte de los municipios deberá contar con un plan de manejo integral de residuos sólidos urbanos, un programa municipal de gestión integral de residuos o un sistema de gestión integral de residuos sólidos urbanos y de manejo especial, aprobado por el Instituto.
+El derecho a la fijación de tarifas en el servicio público de limpia por parte de los municipios deberá contar con un plan de manejo integral de residuos sólidos urbanos, un programa municipal de gestión integral de residuos o un sistema de gestión integral de residuos sólidos urbanos y de manejo especial, aprobado por la Secretaría.
 
 ### Capítulo XII. De la prevención, contaminación y remediación
 
@@ -1195,7 +1237,9 @@ Los propietarios o poseedores de predios de dominio privado y los titulares de �
 
 Las personas que transfieran a terceros los inmuebles que hubieran sido contaminados por materiales o residuos de cualquier especie, en virtud de las actividades que en ellos se realizaron, deberán informar de ello a quienes les transmitan la propiedad o posesión de dichos bienes.
 
-El Instituto vigilará que se lleven a cabo las acciones correctivas de sitios o zonas donde se declare la contaminación ambiental, de los recursos naturales o a la biodiversidad dentro de su competencia.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
+La Secretaría vigilará que se lleven a cabo las acciones correctivas de sitios o zonas donde se declare la contaminación ambiental, de los recursos naturales o a la biodiversidad dentro de su competencia.
 
 Estas acciones deberán garantizar dentro de los avances científicos y tecnológicos, la aplicación de la metodología o técnica más adecuada para corregir el problema de que se trate. Además de la remediación, quienes resulten responsables de la contaminación de un sitio se harán acreedores a las sanciones penales y administrativas correspondientes.
 
@@ -1223,9 +1267,11 @@ Las acciones en materia de remediación de sitios contaminados que no sean de la
 
 ### Capítulo I. De la denuncia popular
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 109.
 
-Toda persona física o jurídico colectiva podrá denunciar ante el Instituto o ante los ayuntamientos, en el ámbito de sus respectivas competencias, las conductas, hechos u omisiones en materia de residuos que produzcan o puedan producir desequilibrios ecológicos o daños al ambiente o a la salud, o que contravengan las disposiciones de la presente Ley y demás normatividad que regule la prevención, generación y manejo integral de residuos.
+Toda persona física o jurídico colectiva podrá denunciar ante la Secretaría o ante los ayuntamientos, en el ámbito de sus respectivas competencias, las conductas, hechos u omisiones en materia de residuos que produzcan o puedan producir desequilibrios ecológicos o daños al ambiente o a la salud, o que contravengan las disposiciones de la presente Ley y demás normatividad que regule la prevención, generación y manejo integral de residuos.
 
 ###### Artículo 110.
 
@@ -1233,17 +1279,21 @@ Una vez presentada la denuncia popular, la autoridad competente, realizará los 
 
 ### Capítulo II. De la inspección y vigilancia
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 111.
 
-El Instituto y los ayuntamientos, en el ámbito de su competencia, podrán realizar actos de inspección y vigilancia en materia de residuos sólidos, con el objeto de verificar el cumplimiento de lo dispuesto por esta Ley, la Ley General de Residuos y demás normatividad correspondiente.
+La Secretaría y los ayuntamientos, en el ámbito de su competencia, podrán realizar actos de inspección y vigilancia en materia de residuos sólidos, con el objeto de verificar el cumplimiento de lo dispuesto por esta Ley, la Ley General de Residuos y demás normatividad correspondiente.
 
 ###### Artículo 112.
 
 Si como resultado de la inspección se detecta la comisión de un delito, se hará la denuncia correspondiente ante la autoridad competente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 113.
 
-Cuando exista riesgo de desequilibrio ecológico o de daño o deterioro de los recursos naturales, casos de contaminación con repercusiones irreparables o de difícil reparación para los ecosistemas, sus componentes o la salud pública de manera fundada y motivada, el Instituto podrá ordenar una o más de las medidas de seguridad siguientes:
+Cuando exista riesgo de desequilibrio ecológico o de daño o deterioro de los recursos naturales, casos de contaminación con repercusiones irreparables o de difícil reparación para los ecosistemas, sus componentes o la salud pública de manera fundada y motivada, la Secretaría podrá ordenar una o más de las medidas de seguridad siguientes:
 
 I. La clausura temporal, total o parcial, de las fuentes contaminantes, así como de las instalaciones en que se generan, manejen o dispongan finalmente los residuos;
 
@@ -1257,9 +1307,11 @@ V. Acciones que impidan que los residuos ocasionen efectos dañinos.
 
 ### Capítulo III. De las infracciones y sanciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 114.
 
-Las violaciones que se cometan a las disposiciones de la presente Ley, su reglamento y demás normatividad aplicable, constituyen infracciones que serán sancionadas administrativamente por el Instituto o por los ayuntamientos, según corresponda, sin perjuicio de las responsabilidades penales que resulten de conformidad con los ordenamientos aplicables, mismas (sic) que serán sancionadas con:
+Las violaciones que se cometan a las disposiciones de la presente Ley, su reglamento y demás normatividad aplicable, constituyen infracciones que serán sancionadas administrativamente por la Secretaría o por los ayuntamientos, según corresponda, sin perjuicio de las responsabilidades penales que resulten de conformidad con los ordenamientos aplicables, mismos que serán sancionadas con:
 
 I. Amonestación por escrito con apercibimiento;
 
@@ -1331,9 +1383,11 @@ XVI. Omitir la recolección y limpia de las heces fecales de sus animales, en la
 
 XVII. Las demás conductas que contravengan las disposiciones de esta Ley, su reglamento y demás normatividad relativa.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 117.
 
-Las sanciones que sean impuestas por el Instituto, o en su caso por los Municipios, en el ámbito de su competencia, por las infracciones señaladas en el artículo anterior serán:
+Las sanciones que sean impuestas por la Secretaría, o en su caso por los Municipios, en el ámbito de su competencia, por las infracciones señaladas en el artículo anterior serán:
 
 I. Multa que se determinará en los casos y montos siguientes:
 
@@ -1347,9 +1401,11 @@ c) Con el equivalente de 1,001 a 10,000 cuotas de salario mínimo general vigent
 
 Si una vez concluido el plazo concedido por la autoridad para subsanar la o las infracciones que se hubieren cometido aún subsisten, podrá imponerse una multa por cada día que transcurra sin acatar el mandato, sin que el total de las multas exceda del máximo permitido.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 119.
 
-El Instituto o la autoridad municipal competente, con la plena y debida fundamentación y motivación de su decisión, podrá otorgar al infractor, cuando no haya comisión de delitos, la opción de pagar la multa o realizar trabajos o inversiones equivalentes en materia de regularización o restauración de sitios contaminados con residuos, que no sean de competencia de la Federación siempre y cuando se garanticen las obligaciones del infractor, que no sea reincidente y no se trate de irregularidades que impliquen la existencia de riesgo inminente de daño o deterioro grave de los ecosistemas.
+La Secretaría o la autoridad municipal competente, con la plena y debida fundamentación y motivación de su decisión, podrá otorgar al infractor, cuando no haya comisión de delitos, la opción de pagar la multa o realizar trabajos o inversiones equivalentes en materia de regularización o restauración de sitios contaminados con residuos, que no sean de competencia de la Federación siempre y cuando se garanticen las obligaciones del infractor, que no sea reincidente y no se trate de irregularidades que impliquen la existencia de riesgo inminente de daño o deterioro grave de los ecosistemas.
 
 Cuando se determine la comisión de dos o más infracciones a las que se refiere este Capítulo, se tomará en cuenta la más alta. Cuando en una sola acta de inspección aparezca que se han cometido diversas infracciones, deberán ser sancionadas individualmente. Las actas que se levanten en casos de flagrancia, deberán hacer constar con precisión ésta circunstancia.
 
@@ -1405,9 +1461,11 @@ La prescripción de las responsabilidades establecidas en este capítulo es de c
 
 ### Capítulo V. De las medidas de seguridad
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 127.
 
-Se consideran medidas de seguridad, las disposiciones que dicten el Instituto o los ayuntamientos, en el ámbito de su competencia, de conformidad con los preceptos de esta Ley y demás normatividad aplicable, para proteger el ambiente o la salud de la población. Las medidas de seguridad se aplicarán sin perjuicio de las sanciones que en su caso correspondan.
+Se consideran medidas de seguridad, las disposiciones que dicten la Secretaría o los ayuntamientos, en el ámbito de su competencia, de conformidad con los preceptos de esta Ley y demás normatividad aplicable, para proteger el ambiente o la salud de la población. Las medidas de seguridad se aplicarán sin perjuicio de las sanciones que en su caso correspondan.
 
 ###### Artículo 128.
 
@@ -1423,17 +1481,21 @@ IV. La suspensión temporal, parcial o total del aprovechamiento o de las activi
 
 V. Las demás que determinen la autoridad competente con el objeto de evitar que se causen o continúen causando riesgos o daños al ambiente o a la salud.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 129.
 
-Cuando el Instituto y el Municipio impongan las medidas de seguridad previstas en esta Ley, se indicarán, en su caso, las acciones que deberán llevar a cabo para subsanar las irregularidades que las motivaron, así como los plazos para revisarlas, a fin de que una vez satisfechas éstas, se ordene el retiro de las mismas.
+Cuando la Secretaría y el Municipio impongan las medidas de seguridad previstas en esta Ley, se indicarán, en su caso, las acciones que deberán llevar a cabo para subsanar las irregularidades que las motivaron, así como los plazos para revisarlas, a fin de que una vez satisfechas éstas, se ordene el retiro de las mismas.
 
 ## TÍTULO CUARTO. DE LOS RECURSOS
 
 ### Capítulo Único. Juicio de Nulidad
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 130.
 
-Las resoluciones emitidas por el Instituto podrán ser impugnadas ante el Tribunal de lo Contencioso Administrativo del Estado y Municipios de Zacatecas.
+Las resoluciones emitidas por la Secretaría podrán ser impugnadas ante el Tribunal de lo Contencioso Administrativo del Estado y Municipios de Zacatecas.
 
 T R A N S I T O R I O S
 
@@ -1476,3 +1538,23 @@ ESAU HERNÁNDEZ HERRERA
 DIRECTOR GENERAL DEL INSTITUTO DE ECOLOGÍA Y MEDIO AMBIENTE
 
 M. en C. JULIO CESAR NAVA DE LA RIVA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE MARZO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, el Ejecutivo del Estado deberá actualizar la reglamentación de conformidad con el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, los Ayuntamientos deberán establecer su Gaceta Municipal.
+
+###### ARTÍCULO CUARTO.
+
+Los Ayuntamientos, en el término de ciento veinte días naturales a partir de la vigencia del presente Decreto, deberán publicar en sus Gacetas Municipales y en el Periódico Oficial, Órgano del Gobierno del Estado, todas las disposiciones normativas de carácter general que hayan sido generadas antes de la entrada en vigor del presente Decreto. Remitiendo en medio impreso y de forma magnética los instrumentos jurídicos a la Coordinación General Jurídica del Gobierno del Estado para su trámite de publicación.
