@@ -4,7 +4,7 @@ identifier: "ZAC-ley-para-prevenir-y-erradicar-toda-forma-de-discriminacion-5150
 country: "mx"
 rank: "ley"
 publication_date: "2006-07-29"
-last_updated: "2006-07-29"
+last_updated: "2013-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51502&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY PARA PREVENIR Y ERRADICAR TODA FORMA DE DISCRIMINACIÓN EN EL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2013.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 29 de julio de 2006.
 
@@ -91,15 +91,21 @@ II. Al Tribunal Superior de Justicia, en el ámbito de su competencia a efecto d
 
 III. A la Legislatura del Estado, en el ámbito de su competencia a efecto de imponer las sanciones administrativas que correspondan a los servidores públicos del Poder Legislativo y de los ayuntamientos;
 
-IV. A la Contraloría Interna del Gobierno del Estado, en el ámbito de su competencia a efecto de imponer las sanciones administrativas que correspondan a los servidores públicos del Poder Ejecutivo;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+IV. A la Secretaría de la Función Pública del Gobierno del Estado, en el ámbito de su competencia a efecto de imponer las sanciones administrativas que correspondan a los servidores públicos del Poder Ejecutivo;
 
 V. A las dependencias, entidades y órganos que conforman la administración pública estatal;
 
 VI. A los ayuntamientos del Estado; y
 
-VII. A la Comisión Estatal de Derechos Humanos.
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
 
-Compete a la Comisión Estatal de Derechos Humanos integrar y resolver los expedientes de quejas sobre la materia, con base en sus atribuciones, principios y procedimientos, proporcionando además la asesoría necesaria suficiente y los medios idóneos para hacer prevalecer el respeto a los derechos y libertades consagrados en la Constitución Política de los Estados Unidos Mexicanos.
+VII. A la Comisión de Derechos Humanos del Estado de Zacatecas.
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
+Compete a la Comisión de Derechos Humanos del Estado de Zacatecas integrar y resolver los expedientes de quejas sobre la materia, con base en sus atribuciones, principios y procedimientos, proporcionando además la asesoría necesaria suficiente y los medios idóneos para hacer prevalecer el respeto a los derechos y libertades consagrados en la Constitución Política de los Estados Unidos Mexicanos.
 
 En la interpretación de esta Ley se deberán tomar en cuenta las disposiciones de la Constitución Política de los Estados Unidos Mexicanos, la Política del Estado, la Declaración Universal de los Derechos Humanos, el Pacto Internacional de Derechos Civiles y Políticos, la Convención Americana sobre Derechos Humanos, la Convención sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer y demás instrumentos internacionales suscritos y ratificados por el Estado Mexicano y la interpretación que de los mismos hayan realizado los órganos internacionales especializados. En todo caso, se deberá favorecer el principio de protección eficaz de las personas o grupos vulnerables.
 
@@ -575,25 +581,37 @@ El Consejo Estatal para Prevenir y Erradicar toda Forma de Discriminación, esta
 
 I. El titular del Poder Ejecutivo, quien lo presidirá;
 
-II. El Secretario de Planeación y Desarrollo Regional, quien fungirá como Vicepresidente;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+II. El Secretario de Desarrollo Social, quien fungirá como Vicepresidente;
 
 III. El Secretario General de Gobierno;
 
 IV. El Director de los Servicios de Salud en el Estado;
 
-V. El Secretario de Educación y Cultura;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+V. El Secretario de Educación;
 
 VI. El Director del Sistema Estatal para el Desarrollo Integral de la Familia;
 
-VII. El Director de la Comisión Estatal para la Integración Social de las personas con Discapacidad;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
 
-VIII. La Directora del Instituto para la Mujer Zacatecana;
+VII. El Subsecretario de las Personas con Discapacidad;
 
-IX. El titular de la Contraloría Interna;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+VIII. La titular de la Secretaría de las Mujeres;
+
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+IX. El titular de la Secretaría de la Función Pública del Gobierno del Estado;
 
 X. El Presidente de la Comisión de Desarrollo Social de la Legislatura del Estado;
 
-XI. El Presidente de la Comisión Estatal de Derechos Humanos;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+XI. El Presidente de la Comisión de Derechos Humanos del Estado de Zacatecas;
 
 XII. El Coordinador General Jurídico;
 
@@ -655,33 +673,47 @@ El Consejo difundirá periódicamente los avances, resultados e impactos de las 
 
 ## TÍTULO TERCERO. DE LOS ÓRGANOS DE EJECUCIÓN
 
-### CAPÍTULO I. De la Comisión Estatal de Derechos Humanos
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE MARZO DE 2013)</small>
+
+### CAPÍTULO I. De la Comisión de Derechos Humanos del Estado de Zacatecas
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### Artículo 35.
 
-Corresponde a la Comisión Estatal de Derechos Humanos realizar acciones para prevenir y erradicar toda forma de discriminación e intolerancia.
+Corresponde a la Comisión de Derechos Humanos del Estado de Zacatecas realizar acciones para prevenir y erradicar toda forma de discriminación e intolerancia.
 
 La Comisión conocerá de los procedimientos de queja que se presenten con motivo de conductas o prácticas discriminatorias realizadas por autoridad estatal o municipal.
 
 Los procedimientos para el cumplimiento de la presente Ley se ceñirán a los establecidos para la actuación de la Comisión, en el ordenamiento que la rige.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 36.
 
-La Comisión Estatal de Derechos Humanos, independientemente de sus funciones, ejercerá las acciones necesarias en torno a la prevención y erradicación de toda forma de discriminación o intolerancia, debiendo integrar en forma sistemática la información sobre las quejas, casos, prácticas y actos discriminatorios que le sean presentados por la ciudadanía o por el Consejo Estatal para Prevenir y Erradicar toda Forma de Discriminación.
+La Comisión de Derechos Humanos del Estado de Zacatecas, independientemente de sus funciones, ejercerá las acciones necesarias en torno a la prevención y erradicación de toda forma de discriminación o intolerancia, debiendo integrar en forma sistemática la información sobre las quejas, casos, prácticas y actos discriminatorios que le sean presentados por la ciudadanía o por el Consejo Estatal para Prevenir y Erradicar toda Forma de Discriminación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### Artículo 37.
 
-La Comisión Estatal de Derechos Humanos proporcionará a las personas que presuntamente hayan sido discriminadas, asesoría respecto de los derechos que les asisten y los medios para hacerlos valer.
+La Comisión de Derechos Humanos del Estado de Zacatecas proporcionará a las personas que presuntamente hayan sido discriminadas, asesoría respecto de los derechos que les asisten y los medios para hacerlos valer.
 
 Siempre que las partes en conflicto manifiesten su conformidad, se procurará la conciliación de intereses.
 
-En caso de no prosperar la conciliación, se continuará la investigación hasta su conclusión, procediéndose conforme a la Ley de la Comisión de Derechos Humanos del Estado.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
-### CAPÍTULO II. De la Contraloría Interna
+En caso de no prosperar la conciliación, se continuará la investigación hasta su conclusión, procediéndose conforme a la Ley de la Comisión de Derechos Humanos del Estado de Zacatecas.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE MARZO DE 2013)</small>
+
+### CAPÍTULO II. De la Secretaría de la Función Pública
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### Artículo 38.
 
-Corresponde a la Contraloría Interna de Gobierno del Estado resolver las quejas presentadas por particulares. En el caso de que las conductas o prácticas discriminatorias sean imputables a las autoridades estatales, servidores públicos u organismos públicos estatales; se aplicarán los procedimiento (sic) de investigación y atención de quejas, de conformidad a la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios, vigente, siempre y cuando se llegue a demostrar que dichos servidores incurrieron en responsabilidad administrativa.
+Corresponde a la Secretaría de la Función Pública del Gobierno del Estado resolver las quejas presentadas por particulares. En el caso de que las conductas o prácticas discriminatorias sean imputables a las autoridades estatales, servidores públicos u organismos públicos estatales; se aplicarán los procedimientos de investigación y atención de quejas, de conformidad a la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios, vigente, siempre y cuando se llegue a demostrar que dichos servidores incurrieron en responsabilidad administrativa.
 
 ### CAPÍTULO III. De los Ayuntamientos
 
@@ -779,15 +811,19 @@ La interposición del recurso de revisión será optativa para el interesado, an
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 51.
 
-El Consejo Estatal para Prevenir y Erradicar toda Forma de Discriminación y la Comisión de (sic) Estatal de Derechos Humanos dispondrán la adopción de las siguientes medidas administrativas para prevenir y erradicar la discriminación:
+El Consejo Estatal para Prevenir y Erradicar toda Forma de Discriminación y la Comisión de Derechos Humanos del Estado de Zacatecas dispondrán la adopción de las siguientes medidas administrativas para prevenir y erradicar la discriminación:
 
 I. Todas las autoridades o particulares que sean objeto de una recomendación o sanción, estarán obligadas a tomar cursos o seminarios que promuevan la igualdad de oportunidades;
 
 II. La fijación de carteles en cualquier establecimiento de quienes incumplan alguna disposición de esta Ley, en los que se promueva la modificación de las conductas discriminatorias;
 
-III. La supervisión y presencia del personal propuesto por el Consejo y la Comisión Estatal de Derechos Humanos para promover y verificar la adopción de medidas a favor de la igualdad de oportunidades y la eliminación de toda forma de discriminación en cualquier establecimiento, por el tiempo que disponga la determinación correspondiente;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+III. La supervisión y presencia del personal propuesto por el Consejo y la Comisión de Derechos Humanos del Estado de Zacatecas para promover y verificar la adopción de medidas a favor de la igualdad de oportunidades y la eliminación de toda forma de discriminación en cualquier establecimiento, por el tiempo que disponga la determinación correspondiente;
 
 IV. La publicación íntegra de la recomendación emitida en el órgano de difusión de la Comisión; y
 
@@ -844,3 +880,23 @@ AMALIA D. GARCÍA MEDINA.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LUIS GERARDO ROMO FONSECA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE MARZO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, el Ejecutivo del Estado deberá actualizar la reglamentación de conformidad con el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, los Ayuntamientos deberán establecer su Gaceta Municipal.
+
+###### ARTÍCULO CUARTO.
+
+Los Ayuntamientos, en el término de ciento veinte días naturales a partir de la vigencia del presente Decreto, deberán publicar en sus Gacetas Municipales y en el Periódico Oficial, Órgano del Gobierno del Estado, todas las disposiciones normativas de carácter general que hayan sido generadas antes de la entrada en vigor del presente Decreto. Remitiendo en medio impreso y de forma magnética los instrumentos jurídicos a la Coordinación General Jurídica del Gobierno del Estado para su trámite de publicación.
