@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-adquisiciones-arrendamientos-y-prestacion-de-8204"
 country: "mx"
 rank: "ley"
 publication_date: "1988-05-25"
-last_updated: "2007-01-03"
+last_updated: "2013-03-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ZAC"
 ---
 # LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACION DE SERVICIOS RELACIONADOS CON BIENES MUEBLES DEL ESTADO DE ZACATECAS
 
-LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACION DE SERVICIOS RELACIONADOS CON BIENES MUEBLES DEL ESTADO DE ZACATECAS
+LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS RELACIONADOS CON BIENES MUEBLES DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ENERO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2013.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el miércoles 25 de mayo de 1988
 
@@ -67,9 +67,13 @@ II. Los actos y contratos que lleven a cabo y celebren las dependencias y entida
 
 Para los efectos de la presente Ley, se entenderá por:
 
-I. Oficialía Mayor: La Oficialía Mayor de Gobierno,
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
 
-II. Planeación y Contraloría: La Secretaría de Planeación y Contraloría,
+I. Secretaría: Secretaría de Administración,
+
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+II. Unidad: La Unidad de Planeación del Titular del Poder Ejecutivo,
 
 III. Finanzas: La Secretaría de Finanzas,
 
@@ -81,9 +85,11 @@ VI. Sector: El agrupamiento de entidades coordinado por la Dependencia que en ca
 
 VII. Dependencias Coordinadoras de Sector: Las dependencias a que se refiere la fracción anterior.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### ARTICULO 3.
 
-La aplicación de esta ley queda a cargo de la Oficialía Mayor, la Secretaría de Planeación y Contraloría y la Secretaría de Finanzas en lo conducente a sus atribuciones mismas que integrarán la Comisión de Gasto-Financiamiento de Gobierno del Estado. Queden facultadas las mencionadas dependencias para interpretar esta ley y dictar las disposiciones administrativas que requiera la adecuada aplicación de la misma y sus disposiciones reglamentarias.
+La aplicación de esta ley queda a cargo de la Secretaría, la Secretaría de la Función Pública del Gobierno del Estado, la Secretaría de Finanzas y la Unidad en lo conducente a sus atribuciones mismas que integrarán la Comisión de Gasto-Financiamiento de Gobierno del Estado. Quedan facultadas las mencionadas dependencias para interpretar esta ley y dictar las disposiciones administrativas que requiera la adecuada aplicación de la misma y sus disposiciones reglamentarias.
 
 ###### ARTICULO 4.
 
@@ -107,7 +113,9 @@ II. Promover la efectiva delegación de facultades en servidores públicos subal
 
 III. Racionalizar y simplificar las estructuras con que cuenten a efecto de utilizar los recursos estrictamente indispensables para llevar a cabo sus operaciones.
 
-La Secretaría de Planeación y Contraloría vigilará y comprobará la aplicación de los criterios a que se refiere este artículo.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
+La Secretaría de la Función Pública del Gobierno del Estado vigilará y comprobará la aplicación de los criterios a que se refiere este artículo.
 
 ###### ARTICULO 8.
 
@@ -115,17 +123,21 @@ Las adquisiciones, arrendamientos y servicios con cargo total o parcial a fondos
 
 Para estos efectos y tratándose de responsabilidades se pactará lo conducente en los mencionados convenios, con la participación que, en su caso, corresponda a los H. Ayuntamientos e instituciones interesadas.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### ARTICULO 9.
 
-Las entidades que no se encuentren agrupadas en sector alguno cumplirán, directamente ante la Oficialía Mayor, con las obligaciones que esta Ley señala a las entidades sectorizadas para con sus respectivas coordinadoras de sector.
+Las entidades que no se encuentren agrupadas en sector alguno cumplirán, directamente ante la Secretaría, con las obligaciones que esta Ley señala a las entidades sectorizadas para con sus respectivas coordinadoras de sector.
 
 ###### ARTICULO 10.
 
 Sin perjuicio de la observancia de las disposiciones que resulten aplicables, las adquisiciones, arrendamientos y servicios de procedencia extranjera para ser utilizados en el Estado se regirán por esta Ley.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### ARTICULO 11.
 
-Las adquisiciones de bienes muebles que deban incorporarse, adherirse o destinarse a un inmueble, necesarios para la realización de las obras públicas por administración directa, o los que suministren las dependencias y entidades de acuerdo a lo pactado en los contratos de obra, deberán realizarse conforme a lo establecido en esta Ley y, en las normas que de ella se deriven, remitiendo su documentación a la Oficialía Mayor para el control.
+Las adquisiciones de bienes muebles que deban incorporarse, adherirse o destinarse a un inmueble, necesarios para la realización de las obras públicas por administración directa, o los que suministren las dependencias y entidades de acuerdo a lo pactado en los contratos de obra, deberán realizarse conforme a lo establecido en esta Ley y, en las normas que de ella se deriven, remitiendo su documentación a la Secretaría para el control.
 
 ## TITULO SEGUNDO. DE LAS ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS
 
@@ -165,27 +177,35 @@ En la presupuestación de sus adquisiciones, arrendamientos y servicios, las dep
 
 Las entidades remitirán sus programas y presupuestos de adquisiciones, arrendamientos y servicios, a la dependencia coordinadora de sector en la fecha que ésta señale.
 
-Las dependencias y entidades enviarán a la Oficialía Mayor los programas y presupuestos mencionados en la fecha que ésta determine, para verificar la relación que guarden dichos programas con los objetivos y prioridades del Plan y los programas de desarrollo estatal.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
+Las dependencias y entidades enviarán a la Secretaría los programas y presupuestos mencionados en la fecha que ésta determine, para verificar la relación que guarden dichos programas con los objetivos y prioridades del Plan y los programas de desarrollo estatal.
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### ARTICULO 15.
 
-Las dependencias y entidades deberán determinar las acciones tendientes a la optimización de recursos que se destinen a las adquisiciones, arrendamientos y servicios, coadyuvando a la observancia de esta Ley y demás disposiciones aplicables, así como para que se cumplan las metas establecidas. Al efecto, se normarán bajo los procedimientos que estipule el Comité Estatal de Compras, a conformarse por representantes de la Oficialía Mayor y las Secretarías de Finanzas y de Planeación y Contraloría.
+Las dependencias y entidades deberán determinar las acciones tendientes a la optimización de recursos que se destinen a las adquisiciones, arrendamientos y servicios, coadyuvando a la observancia de esta Ley y demás disposiciones aplicables, así como para que se cumplan las metas establecidas. Al efecto, se normarán bajo los procedimientos que estipule el Comité Estatal de Compras, a conformarse por representantes de la Secretaría, las Secretarías de Finanzas y de la Función Pública del Gobierno del Estado.
 
 ###### ARTICULO 16.
 
 El Ejecutivo Estatal, por conducto del Comité Estatal de Compras, determinará que dependencias estatales deberán instalar Comisiones Mixtas de Abastecimiento en función del volumen e importancia de las adquisiciones, arrendamientos y servicios. Dichas Comisiones tendrán por objeto propiciar y fortalecer la comunicación de las propias dependencias y entidades con proveedores.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### ARTICULO 17.
 
-El Ejecutivo Estatal, a través de la Oficialía Mayor establecerá las bases de integración y funcionamiento del Comité y las Comisiones a que se refieren los artículos 15 y 16 precedentes.
+El Ejecutivo Estatal, a través de la Secretaría establecerá las bases de integración y funcionamiento del Comité, y las Comisiones a que se refieren los artículos 15 y 16 precedentes.
 
 ###### ARTICULO 18.
 
 Las dependencias y entidades estarán obligadas a mantener los bienes adquiridos o arrendados en condiciones apropiadas de operación, mantenimiento y conservación, así como vigilar que los mismos se destinen al cumplimiento de los programas y acciones previamente determinados; pactarán asimismo, el suministro oportuno por parte del proveedor, de las piezas, repuestos, refacciones y, en general, los elementos necesarios para mantener en operación permanente los bienes adquiridos o arrendados.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### ARTICULO 19.
 
-La Oficialía Mayor, escuchando la opinión de la Secretaría de Planeación y Contraloría, mediante disposiciones de carácter general, podrán determinar los bienes y servicios de uso generalizado, cuya adquisición o contratación, en forma consolidada, llevarán a cabo directamente las dependencias y entidades, con objeto de ejercer el poder de compra del sector público, apoyar las áreas prioritarias del desarrollo y obtener las mejores condiciones en cuanto a precio y oportunidad.
+La Secretaría, escuchando la opinión de la Secretaría de la Función Pública del Gobierno del Estado, mediante disposiciones de carácter general, podrán determinar los bienes y servicios de uso generalizado, cuya adquisición o contratación, en forma consolidada, llevarán a cabo directamente las dependencias y entidades, con objeto de ejercer el poder de compra del sector público, apoyar las áreas prioritarias del desarrollo y obtener las mejores condiciones en cuanto a precio y oportunidad.
 
 ### CAPITULO II. DEL PADRON DE PROVEEDORES DE GOBIERNO DEL ESTADO
 
@@ -193,15 +213,19 @@ La Oficialía Mayor, escuchando la opinión de la Secretaría de Planeación y C
 
 Para los fines de esta Ley, se entiende por proveedor a la persona física o moral que satisfaga los requisitos establecidos en el artículo 22 de la presente Ley.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### ARTICULO 21.
 
-La Secretaría de Planeación y Contraloría será la entidad responsable de establecer y mantener actualizado el Padrón de Proveedores del Gobierno del Estado, el cual se forma con las personas físicas o morales que satisfagan los requisitos para enajenar mercancías, materias primas y bienes muebles o bien arrendar o prestar servicios respecto de dichoso bienes.
+La Secretaría de la Función Pública del Gobierno del Estado será la entidad responsable de establecer y mantener actualizado el Padrón de Proveedores del Gobierno del Estado, el cual se forma con las personas físicas o morales que satisfagan los requisitos para enajenar mercancías, materias primas y bienes muebles o bien arrendar o prestar servicios respecto de dichos bienes.
 
 ###### ARTICULO 22.
 
 Para ser registrados en el Padrón de Proveedores, los interesados deberán satisfacer los siguientes requisitos:
 
-I. Solicitarlo en los formatos que apruebe la Secretaría Planeación y Contraloría;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+I. Solicitarlo en los formatos que apruebe la Secretaría de la Función Pública del Gobierno del Estado;
 
 II. Cuando se trate de personas físicas, deberán presentar copia simple (fotostática) del acta de nacimiento respectiva. Lo conducente harán las personas morales, quienes presentarán copia simple de la escritura o acta constitutiva y las modificaciones, en su caso y se deberá acreditar la personalidad del representante legal;
 
@@ -211,21 +235,29 @@ IV. Acreditar haber cumplido con las inscripciones y registros que exijan las di
 
 V. Pagar los derechos que en lo conducente establezca la Ley de Ingresos del Estado, y
 
-VI. Proporcionar la información complementaria que exijan la Secretaría de Planeación y Contraloría y la Oficialía Mayor.
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+VI. Proporcionar la información complementaria que exijan la Secretaría de la Función Pública del Gobierno del Estado y la Secretaría.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### ARTICULO 23.
 
-La Secretaría dentro del término de quince días hábiles siguientes al de la presentación de la solicitud, resolverá si otorga el registro en el padrón de proveedores de Gobierno del Estado.
+La Secretaría de la Función Pública del Gobierno del Estado dentro del término de quince días hábiles siguientes al de la presentación de la solicitud, resolverá si otorga el registro en el Padrón de Proveedores de Gobierno del Estado.
 
 Transcurrido dicho plazo sin que haya respuesta, se tendrá por registrado al solicitante o por revalidado el registro. En caso de negativa, ésta será debidamente fundada y motivada.
 
-Si la solicitud fuese confusa o incompleta, la Secretaría de Planeación y Contraloría podrá solicitar dentro del término de diez días hábiles que se aclare o se complemente.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
+Si la solicitud fuese confusa o incompleta, la Secretaría de la Función Pública del Gobierno del Estado podrá solicitar dentro del término de diez días hábiles que se aclare o se complemente.
 
 Si el proveedor no presentare la información requerida dentro del plazo concedido, que podrá ser hasta por treinta días hábiles, se tendrá por no presentada la solicitud.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### ARTICULO 24.
 
-El registro en el padrón de proveedores de Gobierno del Estado, tendrá vigencia de un año a partir de la fecha de su expedición. Los proveedores dentro de los noventa días posteriores al vencimiento de su registro presentarán su solicitud de revalidación. La falta de presentación de la solicitud para obtener el refrendo o la negativa de éste, traerá como consecuencia la cancelación del registro a su vencimiento, sin perjuicio del derecho del interesado de formular nueva solicitud para obtenerlo. El refrendo del registro se solicitará en los formatos que apruebe la Secretaría de Planeación y Contraloría y causarán los derechos que establezca la tarifa respectiva y señalada en la ley de ingresos vigente en el Estado.
+El registro en el Padrón de Proveedores de Gobierno del Estado, tendrá vigencia de un año a partir de la fecha de su expedición. Los proveedores dentro de los noventa días posteriores al vencimiento de su registro presentarán su solicitud de revalidación. La falta de presentación de la solicitud para obtener el refrendo o la negativa de éste, traerá como consecuencia la cancelación del registro a su vencimiento, sin perjuicio del derecho del interesado de formular nueva solicitud para obtenerlo. El refrendo del registro se solicitará en los formatos que apruebe la Secretaría de la Función Pública del Gobierno del Estado y causarán los derechos que establezca la tarifa respectiva y señalada en la Ley de Ingresos vigente en el Estado.
 
 ###### ARTICULO 25.
 
@@ -233,15 +265,21 @@ Procederá la suspensión de los efectos del registro hasta por el término de d
 
 I. No entregue los bienes materiales del pedido o contrato en las condiciones pactadas;
 
-II. Se negare a dar facilidades necesarias para que la Secretaría de Planeación y Contraloría ejerza sus funciones de verificación, inspección y vigilancia;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+II. Se negare a dar facilidades necesarias para que la Secretaría de la Función Pública del Gobierno del Estado ejerza sus funciones de verificación, inspección y vigilancia;
 
 III. Se negare a reponer las mercancías que no reúnan los requisitos de calidad estipulados.
 
-Cuando desaparezcan las causas que hubieren motivado la suspensión del registro, el proveedor lo acreditará ante la Secretaría, la que dispondrá lo conducente a fin de que el registro del interesado vuelva a surtir todos sus efectos legales, previo pago de daños y perjuicios por los actos u omisiones imputables al proveedor si éstos se hubieren originado.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
+Cuando desaparezcan las causas que hubieren motivado la suspensión del registro, el proveedor lo acreditará ante la Secretaria de la Función Pública del Gobierno del Estado, la que dispondrá lo conducente a fin de que el registro del interesado vuelva a surtir todos sus efectos legales, previo pago de daños y perjuicios por los actos u omisiones imputables al proveedor si éstos se hubieren originado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### ARTICULO 26.
 
-Planeación y Contraloría está facultada para cancelar el registro del proveedor, sin perjuicio de exigir las responsabilidades correspondientes por la vía que proceda, cuando:
+La Secretaría de la Función Pública del Gobierno del Estado está facultada para cancelar el registro del proveedor, sin perjuicio de exigir las responsabilidades correspondientes por la vía que proceda, cuando:
 
 I. La información que hubiere proporcionado para la inscripción resultare falsa o haya actuado con dolo o mala fe en alguna licitación para la adjudicación del pedido o contrato, en su celebración o en su cumplimiento;
 
@@ -257,9 +295,11 @@ VI. Se le declare incapacitado legalmente para celebrar actos o contratos de los
 
 VII. Deje de reunir los requisitos necesarios para estar registrado en el padrón de proveedores.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### ARTICULO 27.
 
-Para negar la inscripción o modificación de la especialidad, o determinar la suspensión o cancelación del registro en el padrón de proveedores, la Secretaría observará el procedimiento establecido en el artículo 65 de esta Ley.
+Para negar la inscripción o modificación de la especialidad, o determinar la suspensión o cancelación del registro en el padrón de proveedores, la Secretaría de la Función Pública del Gobierno del Estado observara el procedimiento establecido en el artículo 65 de esta Ley.
 
 En contra de las resoluciones de negativa, suspensión o cancelación, el interesado podrá interponer recursos de revocación en los términos de esta Ley.
 
@@ -287,7 +327,9 @@ IV. La fecha límite para la inscripción en el concurso. Para este efecto deber
 
 V. La fecha, hora y lugar de celebración del acto de apertura de proposiciones.
 
-En el ejercicio de sus respectivas atribuciones, la Secretaría de Planeación y Contraloría y las dependencias coordinadoras de sector podrán intervenir en todo el proceso de adjudicación del pedido o contrato; en el caso de obras municipales la Contaduría y los Ayuntamientos intervendrán de conformidad a las disposiciones de esta Ley.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
+En el ejercicio de sus respectivas atribuciones, la Secretaría de la Función Pública del Gobierno del Estado y las dependencias coordinadoras de sector podrán intervenir en todo el proceso de adjudicación del pedido o contrato; en el caso de obras municipales la Auditoría Superior del Estado y los Ayuntamientos intervendrán de conformidad a las disposiciones de esta Ley.
 
 ###### ARTICULO 30.
 
@@ -299,13 +341,17 @@ Todo interesado que satisfaga los requisitos de la convocatoria, las bases y las
 
 En el acto de apertura de ofertas se procederá a dar lectura en voz alta de las propuestas presentadas por cada uno de los interesados informándose de aquéllas que, en su caso, se desechen o hubieren sido desechadas y las causas que motiven tal determinación.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### ARTICULO 32.
 
-La Oficialía a fin de obtener las mejores condiciones en cuanto a precios o importes de los bienes y servicios relativos a las operaciones que regula esta Ley, podrán gestionar ante las autoridades federales, la expedición de criterios generales que le sirvan de orientación.
+La Secretaría a fin de obtener las mejores condiciones en cuanto a precios o importes de los bienes y servicios relativos a las operaciones que regula esta Ley, podrá gestionar ante las autoridades federales, la expedición de criterios generales que le sirvan de orientación.
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### ARTICULO 33.
 
-Las dependencias y entidades, previamente al establecimiento de compromisos para la adquisición de bienes de procedencia extranjera, ya sea de importación directa o de compra en el país, deberán solicitar previamente la aprobación de las Secretarías de Planeación y Contraloría y la de Finanzas, y una vez cubierto este requisito, solicitar los permisos de importación correspondiente, ante las autoridades federales respectivas.
+Las dependencias y entidades, previamente al establecimiento de compromisos para la adquisición de bienes y procedencia extranjera, ya sea de importación directa o de compra en el país, deberán solicitar previamente la aprobación de las Secretarías de la Función Pública del Gobierno del Estado y la de Finanzas, y una vez cubierto este requisito, solicitar los permisos de importación correspondiente, ante las autoridades federales respectivas.
 
 ###### ARTICULO 34.
 
@@ -381,7 +427,9 @@ IX. Cuando se trate de adquisiciones, arrendamientos o servicios cuya contrataci
 
 Para los casos previstos en las fracciones anteriores, se convocarán a la o a las personas que cuenten con la capacidad de respuesta inmediata y los recursos que sean necesarios.
 
-El titular de la dependencia o entidad o, si éste lo autoriza, la Comisión, que en su caso, llegare a establecerse conforme al artículo 16 de esta Ley, en un plazo que no excederá de veinte días hábiles, contados a partir de la fecha en que se hubiere autorizado la operación, lo hará del conocimiento de la Secretaría de Planeación y Contraloría, acompañando la documentación que justifique la autorización.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
+El titular de la dependencia o entidad o, si éste lo autoriza, la Comisión, que en su caso llegare a establecerse conforme al artículo 16 de esta Ley, en un plazo que no excederá de veinte días hábiles, contados a partir de la fecha en que se hubiere autorizado la operación, lo hará del conocimiento de la Secretaría de la Función Pública del Gobierno del Estado, acompañado (sic) la documentación que justifique la autorización.
 
 ###### ARTICULO 40.
 
@@ -461,11 +509,13 @@ Las dependencias y entidades deberán pagar el precio estipulado en el contrato 
 
 Los proveedores quedarán obligados ante las dependencias o entidades a responder de los defectos y vicios ocultos de los bienes y de la calidad de los servicios y de cualquier otra responsabilidad en que hubieren incurrido, en los términos señalados en el pedido o contrato respectivo, en esta Ley y el Código Civil aplicable en el Estado.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### ARTICULO 48.
 
-Los proveedores que hubieren participado en las licitaciones, podrán inconformarse por escrito, indistintamente, ante la convocante o ante Planeación y Contraloría, dentro de los 10 días naturales siguientes al fallo del concurso, actos o irregularidades cometidas con anterioridad al propio fallo en cualquier etapa o fase del concurso.
+Los proveedores que hubieren participado en las licitaciones, podrán inconformase por escrito, indistintamente ante la convocante o ante la Secretaría de la Función Pública del Gobierno del Estado, dentro de los diez días naturales siguientes al fallo del concurso, actos o irregularidades cometidas con anterioridad al propio fallo en cualquier etapa o fase del concurso.
 
-Transcurrido dicho plazo, precluye para los proveedores el derecho a inconformarse, sin perjuicio de que las convocantes o Planeación y Contraloría puedan actuar en cualquier tiempo en los términos de los artículos 49 y 50 de esta Ley.
+Transcurrido dicho plazo, precluye para los proveedores el derecho a inconformarse, sin perjuicio de que las convocantes o la Secretaría de la Función Pública del Gobierno del Estado puedan actuar en cualquier tiempo en los términos de los artículos 49 y 50 de esta Ley.
 
 ###### ARTICULO 49.
 
@@ -481,33 +531,45 @@ Asimismo, podrán darse por terminados los actos mencionados, cuando concurran r
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### ARTICULO 51.
 
-Las dependencias y entidades deberán remitir a Oficialía Mayor en la forma y términos que ésta señala la información relativa a los pedidos y contratos que regula esta Ley.
+Las dependencias y entidades deberán remitir a la Secretaría en la forma y términos que ésta señala la información relativa a los pedidos y contratos que regula esta Ley.
 
 Para los efectos del párrafo anterior, las dependencias y entidades conservarán en forma ordenada y sistemática toda la documentación que justifique y compruebe la realización de las operaciones reguladas por esta Ley, por un término no menor de cinco años contados a partir de la fecha en que se hubiesen recibido los bienes o prestado el servicio.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### ARTICULO 52.
 
-Las dependencias y entidades controlarán los procedimientos, actos y contratos que en materia de adquisiciones, arrendamientos y servicios lleven a cabo. Para tal efecto establecerán los medios y procedimientos de control que requieran, de acuerdo con las normas que dicte el ejecutivo estatal, a través de la Oficialía Mayor.
+Las dependencias y entidades controlarán los procedimientos, actos y contratos que en materia de adquisiciones, arrendamientos y servicios lleven a cabo. Para tal efecto establecerán los medios y procedimientos de control que requieran, de acuerdo con las normas que dicte el Ejecutivo Estatal, a través de la Secretaría.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### ARTICULO 53.
 
-La Oficialía Mayor y las dependencias coordinadoras de sector, podrán realizar las visitas e inspecciones que estimen pertinentes a las dependencias y entidades que celebren actos de los regulados por esta Ley, así como solicitar de los servidores públicos de las mismas y de los proveedores en su caso, todos los datos e informes relacionados con las adquisiciones, arrendamientos y servicios.
+La Secretaría y las dependencias coordinadoras de sector, podrán realizar las visitas e inspecciones que estimen, pertinentes a las dependencias y entidades que celebren actos de los regulados por esta Ley, así como solicitar de los servidores públicos de las mismas y de los proveedores en su caso, todos los datos e informes relacionados con las adquisiciones, arrendamientos y servicios.
 
-Planeación y Contraloría en el ejercicio de sus facultades, podrá verificar en cualquier tiempo que las adquisiciones, arrendamientos y servicios, se realicen conforme a lo establecido por esta Ley, o en las disposiciones que de ella se deriven y a los programas y presupuestos autorizados.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
+La Secretaría de la Función Pública del Gobierno del Estado en el ejercicio de sus facultades, podrá verificar en cualquier tiempo que las adquisiciones, arrendamientos y servicios, se realicen conforme a lo establecido por esta Ley, o en las disposiciones que de ella se deriven a los programas y presupuestos autorizados.
 
 Para los efectos de lo dispuesto en este artículo, las dependencias y entidades proporcionarán todas las facilidades necesarias a fin de que las dependencias mencionadas puedan realizar el seguimiento y control de las adquisiciones, arrendamientos y servicios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### ARTICULO 54.
 
-La comprobación de la calidad de las especificaciones de los bienes muebles, se harán en los laboratorios que determine la Oficialía Mayor y que podrán ser aquéllos con los que cuente la dependencia o entidad adquiriente o cualquier tercero con la capacidad necesaria para practicar la comprobación a que se refiere este artículo.
+La comprobación de la calidad de las especificaciones de los bienes muebles, se harán en los laboratorios que determine la Secretaría y que podrán ser aquéllos con los que cuente la dependencia o entidad adquiriente o cualquier tercero con la capacidad necesaria para practicar la comprobación a que se refiere este artículo.
 
 El resultado de las comprobaciones se hará constar en un dictamen que será firmado por quien haya hecho la comprobación, así como por el proveedor y el representante de la dependencia o entidad adquiriente si hubieren intervenido.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### ARTICULO 55.
 
-Planeación y Contraloría, las dependencias y entidades, de oficio o en atención a las inconformidades a que se refiere el artículo 48, realizarán las investigaciones correspondientes, en un plazo que no excederá de cuarenta y cinco días naturales contados a partir de la fecha en que se inicien, y resolverán lo conducente para efectos de los artículos 49 y 50 de esta Ley.
+La Secretaría de la Función Pública del Gobierno del Estado, las dependencias y entidades, de oficio o en atención a las inconformidades a que se refiere el artículo 48, realizarán las investigaciones correspondientes, en un plazo que no excederá de cuarenta y cinco días naturales contados a partir de la fecha en que se inicien, y resolverán lo conducente para efectos de los artículos 49 y 50 de esta Ley.
 
 ###### ARTICULO 56.
 
@@ -521,39 +583,51 @@ II. Cuando con ella no se siga perjuicio al interés social y no se contravengan
 
 Tomando la resolución a que se refiere el artículo 55 y sin perjuicio de la responsabilidad que proceda respecto de los servidores que hayan intervenido, las dependencias y entidades deberán proceder en los términos de los artículos 36 y 39 fracción VII de esta Ley.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### ARTICULO 58.
 
-La Oficialía Mayor, en coordinación con Planeación y Contraloría, determinará la información que le deberán enviar las dependencias y entidades, respecto de los bienes y servicios que determine dicha dependencia, con el fin de ejercer sus atribuciones y orientar las políticas de precios y adquisiciones de la administración pública estatal.
+La Secretaría, en coordinación con la Secretaría de la Función Pública del Gobierno del Estado, determinará la información que le deberán enviar las dependencias y entidades, respecto de los bienes y servicios que determine dicha dependencia, con el fin de ejercer sus atribuciones y orientar las políticas de precios y adquisiciones de la administración pública estatal.
 
-Los proveedores de estos bienes y servicios deberán informar con la debida oportunidad a las dependencias y entidades y a la Oficialía Mayor los precios vigentes para la venta de sus productos y servicios, en la forma y términos que la misma establezca.
+Los proveedores de estos bienes y servicios deberán informar con la debida oportunidad a las dependencias y entidades y a la Secretaría los precios vigentes para la venta de sus productos y servicios, en la forma y términos que la misma establezca.
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### ARTICULO 59.
 
-Con base en el análisis y evaluación a que se refiere el artículo anterior, la Oficialía Mayor dictaminará las circunstancias en que se hubiere celebrado la operación en cuanto al tipo de bienes, precio, características, especificaciones, tiempo de entrega o suministro, calidad y demás condiciones y hará las observaciones que procedan a la dependencia o entidad y al proveedor de que se trate, a efecto de que se apliquen las medidas correctivas que se requieran.
+Con base en el análisis y evaluación a que se refiere el artículo anterior, la Secretaría dictaminará las circunstancias en que se hubiere celebrado la operación en cuanto al tipo de bienes, precio, características, especificaciones, tiempo de entrega o suministro, calidad y demás condiciones y hará las observaciones que procedan a la dependencia o entidad y al proveedor de que se trate, a efecto de que se apliquen las medidas correctivas que se requieran.
 
-Sin perjuicio de lo previsto en este artículo, la Oficialía Mayor hará del conocimiento de Planeación y Contraloría, las observaciones que hubiere efectuado respecto de los pedidos o contratos correspondientes para que ésta proceda conforme a sus atribuciones en los términos de esta Ley.
+Sin perjuicio de lo previsto en este artículo, la Secretaría hará del conocimiento de la Secretaría de la Función Pública del Gobierno del Estado, las observaciones que hubiere efectuado respecto de los pedidos o contratos correspondientes para que ésta proceda conforme a sus atribuciones en los términos de esta Ley.
 
 ## TITULO CUARTO. DE LAS INFRACCIONES Y SANCIONES
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### ARTICULO 60.
 
-Quienes infrinjan las disposiciones contenidas en esta Ley o las normas que con base en ella se dicten, con excepción de las consignadas en los artículos 58 y 59 de esta Ley, podrán ser sancionados por Planeación y Contraloría, con multa equivalente hasta la cantidad de diez a mil veces el salario mínimo diario vigente en la capital del Estado, en la fecha de la infracción.
+Quienes infrinjan a las disposiciones contenidas en esta Ley o las normas que con base en ella se dicten, con excepción de las consignadas en los artículos 58 y 59 de esta Ley, podrán ser sancionados por la Secretaría de la Función Pública del Gobierno del Estado, con multa de diez a mil cuotas de salario mínimo diario vigente en el Estado, en la fecha de la infracción.
 
 Sin perjuicio de lo anterior, los proveedores que incurran en infracciones a esta Ley, según la gravedad del acto u omisión de que fueren responsables, podrán ser sancionados por la misma dependencia con la suspensión o cancelación de su registro en el Padrón de Proveedores del Gobierno del Estado.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### ARTICULO 61.
 
-Planeación y Contraloría queda facultada para sancionar a quienes infrinjan alguna disposición de las contenidas en los artículos 58 y 59 de esta Ley con multa equivalente hasta la cantidad de diez a mil veces el salario mínimo vigente en la capital del Estado, en la fecha de la infracción.
+La Secretaría de la Función Pública del Gobierno del Estado queda facultada para sancionar a quienes infrinjan alguna disposición de las contenidas en los artículos 58 y 59 de esta Ley con multa equivalente de diez a mil cuotas de salario mínimo diario vigente en el Estado, en la fecha de la infracción.
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### ARTICULO 62.
 
-A los servidores públicos que infrinjan las disposiciones de la presente Ley, Planeación y Contraloría aplicará, conforme a lo dispuesto por la Ley de Responsabilidades para los Servidores Públicos del Estado y Municipios, las sanciones que procedan.
+A los servidores públicos que infrinjan las disposiciones de la presente Ley, la Secretaría de la Función Pública del Gobierno del Estado aplicará, conforme a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Zacatecas, las sanciones que procedan.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### ARTICULO 63.
 
-Tratándose de multas, Planeación y Contraloría y la Oficialía Mayor, en los términos de los artículos 60 y 61, las impondrán conforme a los siguientes criterios:
+Tratándose de multas, la Secretaría de la Función Pública del Gobierno del Estado y la Secretaría, en los términos de los artículos 60 y 61, las impondrán conforme a los siguientes criterios:
 
 I. Se tomará en cuenta la importancia de la infracción, las condiciones del infractor y la conveniencia de eliminar prácticas tendientes a infringir en cualquier forma las disposiciones de esta Ley o las que se dicten con base en ella;
 
@@ -591,9 +665,11 @@ Las responsabilidades a que se refiere la presente Ley son independientes de las
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### ARTICULO 68.
 
-En contra de las resoluciones que dicten la Oficialía Mayor o Planeación y Contraloría en los términos de esta Ley, el interesado podrá interponer ante la que hubiere emitido el acto, recurso de revocación, dentro del término de quince días hábiles, contados a partir del día siguiente al de la notificación.
+En contra de las resoluciones que dicten la Secretaría o la Secretaría de la Función Pública del Gobierno del Estado en los términos de esta Ley, el interesado podrá interponer ante la que hubiere emitido el acto, recurso de revocación, dentro del término de quince días hábiles, contados a partir del día siguiente al de la notificación.
 
 ###### ARTICULO 69.
 
@@ -609,11 +685,17 @@ IV. Se tendrán por no ofrecidas las pruebas de documentos, si éstos no se acom
 
 V. La prueba pericial se desahogará con la presentación del dictamen a cargo del perito designado por la recurrente. De no presentarse el dictamen dentro del plazo de Ley, la prueba será declarada desierta;
 
-VI. Planeación y Contraloría o la Oficialía Mayor según el caso, podrán pedir que se les rindan los informes que estimen pertinentes por parte de quienes hayan intervenido en el acto reclamado;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
 
-VII. Planeación y Contraloría o la Oficialía Mayor según el caso, acordarán lo que proceda sobre la admisión del recurso y de las pruebas que el recurrente hubiere ofrecido, que deberán ser pertinentes e idóneas para dilucidar las cuestiones controvertidas. El desahogo de las mismas deberá ordenarse dentro del plazo de quince días hábiles, el que será improrrogable; y
+VI. La Secretaría de la Función Pública del Gobierno del Estado o la Secretaría según el caso, podrán pedir que se les rindan los informes que estimen pertinentes por parte de quienes hayan intervenido en el acto reclamado;
 
-VIII. Vencido el plazo para la rendición de las pruebas, la Secretaría de Planeación y Contraloría o la Oficialía Mayor, según el caso, dictarán resolución en un término que no excederá de treinta días hábiles.
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+VII. La Secretaría de la Función Pública del Gobierno del Estado o la Secretaría según el caso, acordarán lo que proceda sobre la admisión del recurso y de las pruebas que el recurrente hubiere ofrecido, que deberán ser pertinentes e idóneas para dilucidar las cuestiones controvertidas. El desahogo de las mismas deberá ordenarse dentro del plazo de quince días hábiles, el que será improrrogable; y
+
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+VIII. Vencido el plazo para la rendición de las pruebas, la Secretaría de la Función Pública del Gobierno del Estado o la Secretaría según el caso, dictarán resolución en un término que no excederá de treinta días hábiles.
 
 ## TRANSITORIOS
 
@@ -641,7 +723,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. ROGELIO HERNANDEZ QUINTERO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 5 DE JUNIO DE 2002.
 
@@ -650,3 +732,21 @@ UNICO.- EL PRESENTE DECRETO ENTRARA EN VIGOR EL DIA SIGUIENTE DE SU PUBLICACION 
 P.O. 3 DE ENERO DE 2007.
 
 ÚNICO.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 23 DE MARZO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, el Ejecutivo del Estado deberá actualizar la reglamentación de conformidad con el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, los Ayuntamientos deberán establecer su Gaceta Municipal.
+
+###### ARTÍCULO CUARTO.
+
+Los Ayuntamientos, en el término de ciento veinte días naturales a partir de la vigencia del presente Decreto, deberán publicar en sus Gacetas Municipales y en el Periódico Oficial, Órgano del Gobierno del Estado, todas las disposiciones normativas de carácter general que hayan sido generadas antes de la entrada en vigor del presente Decreto. Remitiendo en medio impreso y de forma magnética los instrumentos jurídicos a la Coordinación General Jurídica del Gobierno del Estado para su trámite de publicación.
