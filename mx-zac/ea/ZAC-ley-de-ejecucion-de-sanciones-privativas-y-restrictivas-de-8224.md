@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-ejecucion-de-sanciones-privativas-y-restrictivas-de-8224
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-10"
-last_updated: "2011-06-18"
+last_updated: "2013-03-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8224&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DE EJECUCIÓN DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD DEL ESTA
 
 > <small>N. DE E. EL PRESENTE ORDENAMIENTO SERÁ ABROGADO PROGRESIVAMENTE POR EL ARTÍCULO PRIMERO Y SEGUNDO TRANSITORIOS DE LA LEY DEL SISTEMA PENITENCIARIO Y DE EJECUCIÓN DE SANCIONES DEL ESTADO DE ZACATECAS, PUBLICADA EN EL P.O. DE 18 DE JUNIO DE 2011.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2013.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 10 de julio de 1993.
 
@@ -213,11 +213,17 @@ IV.- Ordenar y supervisar la identificación, distribución, custodia, vigilanci
 
 V.- Planear, dirigir, controlar y evaluar el trabajo de los internos. Al efecto, se estimulará la participación de los sectores público, social y privado para impulsar proyectos productivos que coadyuven al autofinanciamiento del sistema penitenciario;
 
-VI.- Establecer, en coordinación con la Secretaría de Educación y Cultura, el sistema educativo aplicable a los internos;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
 
-VII.- Implantar, en concertación con los Servicios Coordinados de Salud Pública en el Estado, el sistema de atención médica a los internos;
+VI.- Establecer, en coordinación con la Secretaría de Educación, el sistema educativo aplicable a los internos.; (sic)
 
-VIII.- Reclutar, seleccionar, capacitar y proponer al Ejecutivo del Estado, a través de Oficialía Mayor para su nombramiento, al personal idóneo administrativo, técnico, de servicios generales y de custodia, de los establecimientos penitenciarios;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+VII.- Implantar, en concertación con los Servicios de Salud, el sistema de atención médica a los internos;
+
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+VIII.- Reclutar, selección, capacitar y proponer al Ejecutivo del Estado, a través de la Secretaría de Administración para su nombramiento, al personal idóneo administrativo, técnico, de servicios generales y de custodia, de los establecimientos penitenciarios;
 
 IX.- Emitir opinión fundada ante el Ejecutivo del Estado, para el otorgamiento y ampliación de los beneficios del régimen de liberaciones establecido para los internos, siempre y cuando no contravenga a la del Consejo Técnico Interdisciplinario;
 
@@ -535,9 +541,11 @@ El pago de la reparación del daño realizado con el producto del trabajo contra
 
 La educación que se imparta en los centros y establecimientos penitenciarios del Estado, será científica y académica. Resaltará los valores cívicos, sociales, artísticos, éticos y de higiene física y mental, haciendo énfasis en el respeto y cultura de los derechos humanos y a los sistemas ecológicos.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 32.
 
-La enseñanza primaria y secundaria será obligatoria, por lo que la Secretaría de Educación y Cultura, instaurará en aquellos centros y establecimientos con más de veinte internos, que carezcan de instrucción elemental o secundaria, escuelas donde se impartirá tal enseñanza. En las instituciones con menor número de internos, se establecerá la modalidad de educación abierta.
+La enseñanza primaria y secundaria será obligatoria, por lo que la Secretaría de Educación, instaurará en aquellos centros y establecimientos con más de veinte internos, que carezcan de instrucción elemental o secundaria, escuelas donde se impartirá tal enseñanza. En las instituciones con menor número de internos, se establecerá la modalidad de educación abierta.
 
 ###### Artículo 33.
 
@@ -547,9 +555,11 @@ Se impartirán programas educativos especializados, donde tendrán atención la 
 
 Para los ancianos, enfermos mentales, sordomudos, invidentes o forma diversa de discapacitación, se establecerán regímenes educativos especiales, acordes a cada caso.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 35.
 
-La documentación de reconocimiento oficial de los estudios o capacitación realizados dentro de los centros o establecimientos penitenciarios, será expedida por la Secretaría de Educación y Cultura y por ningún motivo contendrá referencia o alusión a la institución penitenciaria.
+La documentación de reconocimiento oficial de los estudios o capacitación realizados dentro de los centros o establecimientos penitenciarios, será expedida por la Secretaría de Educación y por ningún motivo contendrá referencia o alusión a la institución penitenciaria.
 
 ###### Artículo 36.
 
@@ -982,3 +992,21 @@ Artículo Decimoprimero. En tanto el Pleno del Tribunal Superior de Justicia del
 Artículo Decimosegundo. El Ejecutivo del Estado enviará a esta Legislatura, en el término de 15 días posteriores a la vigencia de este decreto, la ampliación presupuestal del Poder Judicial del Estado de Zacatecas, que garantice la creación de los Juzgados de Ejecución de sentencias en los diferentes Distrito (sic) Judiciales.
 
 Artículo Decimotercero. Se derogan todas las disposiciones que contravengan esta Ley.
+
+P.O. 23 DE MARZO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, el Ejecutivo del Estado deberá actualizar la reglamentación de conformidad con el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, los Ayuntamientos deberán establecer su Gaceta Municipal.
+
+###### ARTÍCULO CUARTO.
+
+Los Ayuntamientos, en el término de ciento veinte días naturales a partir de la vigencia del presente Decreto, deberán publicar en sus Gacetas Municipales y en el Periódico Oficial, Órgano del Gobierno del Estado, todas las disposiciones normativas de carácter general que hayan sido generadas antes de la entrada en vigor del presente Decreto. Remitiendo en medio impreso y de forma magnética los instrumentos jurídicos a la Coordinación General Jurídica del Gobierno del Estado para su trámite de publicación.
