@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-proteccion-civil-para-el-estado-de-zacatecas-82646"
 country: "mx"
 rank: "ley"
 publication_date: "2011-08-20"
-last_updated: "2011-08-20"
+last_updated: "2013-03-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82646&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ZAC"
 ---
 # LEY DE PROTECCION CIVIL PARA EL ESTADO DE ZACATECAS
 
-LEY DE PROTECCION CIVIL PARA EL ESTADO DE ZACATECAS
+LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2013.
 
 Ley publicada en el suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 20 de agosto de 2011.
 
@@ -127,9 +127,33 @@ Los recursos económicos del Estado, los que obtenga la Dirección, así como po
 
 ### CAPÍTULO I. De la Política de Protección Civil
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 8.
 
-Para la formulación y conducción de la Política de Protección Civil, así como para la emisión de las normas técnicas complementarias y términos de referencia que prevé esta Ley, la Administración Pública Estatal y Municipal se sujetará a los siguientes principios rectores:
+Para la formulación y conducción de la Política de Protección Civil, la Administración Pública Estatal y Municipal se sujetará a lo siguiente:
+
+> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2013)</small>
+
+A. Principios rectores:
+
+l. Prioridad en la protección a la vida, la salud y la integridad de las personas;
+
+II. Inmediatez, equidad, profesionalismo, eficacia y eficiencia en la prestación del auxilio y entrega de recursos a la población en casos de emergencia, siniestro o desastre;
+
+III. Subsidiariedad, complementariedad, transversalidad y proporcionalidad en las funciones asignadas a las diversas instancias del gobierno;
+
+IV. Publicidad y participación social en todas las fases de la protección civil, pero particularmente en la de prevención;
+
+V. Establecimiento y desarrollo de una cultura de protección civil, con énfasis en la prevención en la población en general;
+
+VI. Legalidad, control, eficacia, racionalidad, equidad, transparencia y rendición de cuentas en la administración de cuentas de los recursos públicos; y
+
+VII. Honradez y respeto a los derechos humanos.
+
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+
+B. En la emisión de normas técnicas complementarias y términos de referencia que prevé esta Ley:
 
 I. Los criterios de protección civil se considerarán en el ejercicio de las atribuciones de la autoridad, conferidas éstas en los ordenamientos jurídicos para orientar, regular, promover, restringir, prohibir, sancionar y en general inducir las acciones del sector público y las de los particulares en esta materia;
 
@@ -271,17 +295,25 @@ a) Sistema Estatal de Desarrollo Integral de la Familia;
 
 b) Secretaría de Seguridad Pública;
 
-c) Secretaria de Obras Públicas;
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
+c) Secretaría de Infraestructura;
 
 d) Secretaría de Finanzas;
 
 e) Servicios de Salud;
 
-f) Secretaría de Fianzas;
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
-g) Secretaría de Educación y Cultura; e
+f) Secretaria de la Administración;
 
-h) Instituto de Ecología y Medio Ambiente;
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
+g) Secretaría de Educación; y
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
+h) Secretaria del Agua y Medio Ambiente;
 
 V. Un representante de las dependencias del Poder Ejecutivo Federal, a través de sus delegaciones en la Entidad:
 
@@ -295,9 +327,17 @@ d) Secretaría de Medio Ambiente y Recursos Naturales; y
 
 VI. Un representante de las siguientes organizaciones:
 
-a) El Delegado de la Cruz Roja Mexicana en el Estado; y
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
-b) Representante de grupos voluntarios;
+a) El Delegado de la Cruz Roja Mexicana en el Estado;
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
+b) Representante de grupos voluntarios; y
+
+> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2013)</small>
+
+c) Representante del sector privado.
 
 Los integrantes del Consejo Estatal a que se refiere la fracción VI participarán en la sesión con voz pero sin voto.
 
@@ -443,11 +483,15 @@ I. Elaborar y presentar para su aprobación al Consejo Estatal, por conducto del
 
 II. Identificar los riesgos que se presentan en la Entidad para elaborar, integrar y actualizar el Atlas Estatal de Riesgos e informar de sus avances al Consejo Estatal;
 
-III. Solicitar, asesorar, revisar y en su caso autorizar los programas internos de protección civil, programas internos de seguridad y emergencia escolar según corresponda.
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+III. Solicitar, asesorar, revisar y en su caso autorizar y registrar los programas internos de protección civil, programas internos de seguridad y emergencia escolar según corresponda;
 
 IV. Proveer lo necesario para la implementación de Programas de Hospital Seguro;
 
-V. Dictaminar sobre la seguridad interior y exterior de las edificaciones escolares, guarderías, estancias infantiles o de adultos mayores, asilos, sitios o lugares destinados a las concentraciones masivas, estaciones de servicio, tales como gasolineras, estaciones de carburación y plantas de almacenamiento de Gas L. P. depósitos de materiales o sustancias clasificadas como peligrosas de competencia estatal;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+V. Emitir opinión técnica, previa solicitud, sobre la seguridad interior y exterior de las edificaciones escolares, guarderías, estancias infantiles o de adultos mayores, asilos, sitios o lugares destinados a las concentraciones masivas, estaciones de servicio, tales como gasolineras, estaciones de carburación y plantas de almacenamiento de Gas L. P. depósitos de materiales o sustancias clasificadas como peligrosas de competencia estatal;
 
 VI. En colaboración con los municipios, practicar inspecciones y verificaciones conforme al procedimiento establecido en el reglamento de la presente Ley.
 
@@ -477,7 +521,9 @@ XVIII. Asesorar, solicitar y supervisar a las empresas, instituciones, organismo
 
 XIX. Llevar el registro, prestar asesoría y coordinar a los grupos voluntarios;
 
-XX. Llevar el registro y control de las empresas asesoras, capacitadoras y consultoras de estudio de riesgo-vulnerabilidad y prestadores de servicios para distribución y recarga de agentes extinguidores, a través de la expedición de registros de operación;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+XX. Llevar el registro de los instructores independientes, las empresas asesoras, capacitadoras y consultoras de estudio de riesgo-vulnerabilidad, terceros acreditados y prestadores de servicios para distribución y recarga de agentes extinguidores, a través de la expedición de registros de operación;
 
 XXI. Llevar el registro de los cuerpos de bomberos activos en la Entidad;
 
@@ -559,7 +605,9 @@ Los Consejos Municipales, estarán integrados por:
 
 I. El Presidente Municipal, quién lo presidirá;
 
-II. El Síndico Municipal, quién será el Secretario Ejecutivo;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+II. El Secretario del Ayuntamiento, quién será el Secretario Ejecutivo;
 
 IlI. El Titular de la Unidad Municipal de Protección Civil del Municipio, quién será el Secretario Técnico;
 
@@ -675,7 +723,9 @@ II. Cooperar con las autoridades correspondientes, en las acciones a ejecutar en
 
 III. Colaborar con las autoridades estatales, municipales y organismos intermedios en el debido cumplimiento de los programas de protección civil;
 
-IV. Elaborar y presentar ante la Dirección y la Unidad Municipal competente, para su aprobación y registro, los programas internos de protección civil y programas de prevención de accidentes, conforme a las disposiciones que establezcan los ordenamientos aplicables;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+IV. Elaborar y presentar ante la Dirección y la Unidad Municipal competente, para su registro, los programas internos de protección civil y programas de prevención de accidentes, conforme a las disposiciones que establezcan los ordenamientos aplicables;
 
 V. Formular los planes de contingencias, simulacros, rutas de evacuación y demás que sean necesarios para la prevención de situaciones de riesgo, así como aquellos que, conforme a las disposiciones aplicables, les requieran para tal efecto las autoridades competentes;
 
@@ -803,9 +853,11 @@ Los Programas Generales son un instrumento de planeación y operación que permi
 
 Los programas específicos, son un instrumento de operación que incluye una estructura de respuesta integrada, que permite atender una emergencia específica por la identificación previa que se hizo de un fenómeno con carácter extraordinario y latente.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 67.
 
-Los programas internos de protección civil son un instrumento de planeación obligatorio, circunscrito al ámbito de una dependencia, entidad, empresa, institución u organismo pertenecientes a los sectores público, privado y social del Estado por medio del cual se tienen identificados los fenómenos perturbadores a que está expuesto el inmueble y su población, las medidas a adoptar para que dichos fenómenos no se materialicen en un siniestro, la generación de fenómenos perturbadores adicionales con el fin de salvaguardar la integridad física de los empleados y de las personas que concurren a ellos, así como de proteger las instalaciones, bienes e información vital.
+Los programas internos de protección civil son un instrumento de planeación y operación, circunscrito al ámbito de una dependencia, entidad, empresa, institución u organismo pertenecientes a los sectores público, privado y social del Estado. Se compone por el plan operativo de la unidad interna de protección civil, el plan de continuidad de operaciones y el plan de contingencias, y tiene como propósito mitigar los riesgos previamente identificados y definir acciones preventivas y de respuesta para estar en condiciones de atender la eventualidad de alguna emergencia o desastre.
 
 ###### Artículo 68.
 
@@ -1089,7 +1141,9 @@ III. La clausura definitiva, temporal, parcial o total;
 
 IV. La determinación de resguardo o en su caso, destrucción o disposición final, de objetos, productos y substancias que puedan ocasionar desastre;
 
-V. Revocación del registro a organizaciones civiles, terceros acreditados y empresas capacitadoras, de consultoría y estudios riesgo vulnerabilidad; y
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+V. Revocación del registro a organizaciones civiles, terceros acreditados, los instructores independientes, empresas asesoras, capacitadoras, de consultoría y estudios riesgo vulnerabilidad, prestadores de servicio para distribución y recarga de agentes extinguidores, así como la revocación del registro del Programa Interno de Protección Civil; y
 
 VI. Las demás que sean necesarias para llevar a cabo la protección civil.
 
@@ -1228,3 +1282,23 @@ LIC. MIGUEL ALEJANDRO ALONSO REYES
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ESAÚ HERNÁNDEZ HERRERA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE MARZO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, el Ejecutivo del Estado deberá actualizar la reglamentación de conformidad con el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, los Ayuntamientos deberán establecer su Gaceta Municipal.
+
+###### ARTÍCULO CUARTO.
+
+Los Ayuntamientos, en el término de ciento veinte días naturales a partir de la vigencia del presente Decreto, deberán publicar en sus Gacetas Municipales y en el Periódico Oficial, Órgano del Gobierno del Estado, todas las disposiciones normativas de carácter general que hayan sido generadas antes de la entrada en vigor del presente Decreto. Remitiendo en medio impreso y de forma magnética los instrumentos jurídicos a la Coordinación General Jurídica del Gobierno del Estado para su trámite de publicación.
