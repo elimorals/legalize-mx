@@ -4,7 +4,7 @@ identifier: "ZAC-ley-para-honrar-la-memoria-de-las-personas-ilustres-del-13234"
 country: "mx"
 rank: "ley"
 publication_date: "1978-05-27"
-last_updated: "2008-11-08"
+last_updated: "2013-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13234&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY PARA HONRAR LA MEMORIA DE LAS PERSONAS ILUSTRES DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el sábado 27 de mayo de 1978.
 
@@ -37,11 +37,11 @@ EL H. CONGRESO DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS.
 
 DECRETA:
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE NOVIEMBRE DE 2008)</small>
 
 LEY PARA HONRAR LA MEMORIA DE LAS PERSONAS ILUSTRES DEL ESTADO DE ZACATECAS
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE NOVIEMBRE DE 2008)</small>
 
 ### CAPITULO PRIMERO. DE LOS RESTOS QUE PODRAN SER DEPOSITADOS EN EL MAUSOLEO DE LAS PERSONAS ILUSTRES
 
@@ -139,17 +139,17 @@ El Gobernador del Estado podrá suspender o diferir el traslado cuando se oponga
 
 ### CAPITULO CUARTO. DE LA CONSERVACION Y MANTENIMIENTO DEL MAUSOLEO Y ORGANIZACION DE ACTOS DIVERSOS EN EL MISMO
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
-###### ARTICULO 19o.
+###### ARTICULO 19.
 
-El mantenimiento, limpieza y mejoramiento del Mausoleo de las Personas Ilustres de esta ciudad que se llevará a cabo por medio de la Secretaría de Obras Públicas del Gobierno del Estado.
+El mantenimiento, limpieza y mejoramiento del Mausoleo de las Personas Ilustres de esta ciudad que se llevará a cabo por medio de la Secretaria de Infraestructura del Gobierno del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
 
-###### ARTICULO 20o.
+###### ARTICULO 20.
 
-La Secretaría de Educación y Cultura tendrá las siguientes atribuciones:
+La Secretaría de Educación tendrá las siguientes atribuciones:
 
 I. Organizar las ceremonias públicas, conjuntamente con las Instituciones que crea convenientes, para el depósito de los restos de cada una de las personas en favor de quienes, de acuerdo con la presente Ley, se dicierne (sic) tal honor.
 
@@ -191,7 +191,7 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. URIEL MARQUEZ VALERIO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 8 DE NOVIEMBRE DE 2008.
 
@@ -200,3 +200,21 @@ Primero.- El presente Decreto entrará en vigor al día siguiente al de su publi
 Segundo.- Dentro del término de sesenta días naturales a la entrada en vigor de este Decreto, el Ejecutivo del Estado en coordinación con el Ayuntamiento de Zacatecas, realizará las obras necesarias para que se sustituya el término "Hombres Ilustres" que se encuentra grabado en el Mausoleo ubicado en el Crestón del Cerro de la Bufa de la Ciudad de Zacatecas, por la expresión "Personas Ilustres".
 
 Tercero.- Se derogan las disposiciones que contravengan el presente Decreto.
+
+P.O. 23 DE MARZO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, el Ejecutivo del Estado deberá actualizar la reglamentación de conformidad con el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, los Ayuntamientos deberán establecer su Gaceta Municipal.
+
+###### ARTÍCULO CUARTO.
+
+Los Ayuntamientos, en el término de ciento veinte días naturales a partir de la vigencia del presente Decreto, deberán publicar en sus Gacetas Municipales y en el Periódico Oficial, Órgano del Gobierno del Estado, todas las disposiciones normativas de carácter general que hayan sido generadas antes de la entrada en vigor del presente Decreto. Remitiendo en medio impreso y de forma magnética los instrumentos jurídicos a la Coordinación General Jurídica del Gobierno del Estado para su trámite de publicación.
