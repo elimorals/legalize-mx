@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-municipio-22084"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-09-14"
-last_updated: "2012-10-06"
+last_updated: "2013-03-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22084&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY ORGÁNICA DEL MUNICIPIO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2013.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el viernes 14 de septiembre de 2001.
 
@@ -127,7 +127,9 @@ III. Los convenios y acuerdos que celebre el Estado por conducto del Poder Ejecu
 
 IV. Los convenios de coordinación y asociación entre Municipios; de colaboración intergubernamentales; de coordinación interinstitucionales, y de concertación con particulares; y
 
-V. Los presupuestos de egresos, reglamentos, bandos de policía y gobierno, acuerdos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, que aprueben los Ayuntamientos, siempre y cuando se publiquen en el Periódico Oficial, Organo del Gobierno del Estado.
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+V. Los presupuestos de egresos, reglamentos, bandos de policía y gobierno, acuerdos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, que aprueben los Ayuntamientos, siempre y cuando se publiquen en el Periódico Oficial, Órgano del Gobierno del Estado y en la Gacetas Municipal (sic).
 
 ### CAPÍTULO SEGUNDO. De la Organización Territorial
 
@@ -441,9 +443,13 @@ Corresponde a los Ayuntamientos el ejercicio de facultades y el cumplimiento de 
 
 En los términos de la presente ley, las facultades y atribuciones de los Ayuntamientos son las siguientes:
 
-I. Aprobar y publicar en el Periódico Oficial, Organo del Gobierno del Estado, dentro de los cuatro meses siguientes a la instalación del Ayuntamiento, el Plan Municipal de Desarrollo y derivar de éste los Programas Operativos Anuales que resulten necesarios para ejecutar las obras y prestar los servicios de su competencia;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
 
-II. Expedir y publicar en el Periódico Oficial, Organo del Gobierno del Estado, los bandos de policía y gobierno, reglamentos, circulares y demás disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, de acuerdo con lo dispuesto por ésta y demás leyes aplicables;
+I. Aprobar y publicar en el Periódico Oficial, Órgano del Gobierno del Estado así como en la Gaceta Municipal, dentro de los cuatro meses siguientes a la instalación del Ayuntamiento, el Plan Municipal de Desarrollo y derivar de éste los Programas Operativos Anuales que resulten necesarios para ejecutar las obras y prestar los servicios de su competencia;
+
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+II. Expedir y publicar en los órganos de publicidad mencionados en la fracción anterior, los bandos de policía y gobierno, reglamentos, circulares y demás disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, de acuerdo con lo dispuesto por ésta y demás leyes aplicables;
 
 III. Dividir políticamente el territorio municipal conforme a las disposiciones de esta ley y demás normas jurídicas aplicables;
 
@@ -485,7 +491,9 @@ Rendir a la Legislatura del Estado dentro del mes de Febrero siguiente a la conc
 
 Asimismo deberán remitir oportunamente la documentación e informes que les sean requeridos por la Auditoría Superior del Estado.
 
-Publicar trimestralmente en el tablero de avisos del Ayuntamiento y en algunos periódicos de circulación en el Municipio, el estado de origen y aplicación de los recursos públicos;
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
+Publicar trimestralmente en la Gaceta Municipal y en algunos periódicos de circulación en el municipio el estado de origen y aplicación de los recursos públicos;
 
 XVII. Celebrar convenios o actos jurídicos de colaboración y de coordinación con el Gobierno del Estado, y de asociación con otros Municipios del Estado o de otras entidades federativas, así como particulares, previa aprobación de la Legislatura, cuando así lo disponga la Constitución;
 
@@ -687,9 +695,13 @@ XII. En lo general, aquellos reglamentos que sean inherentes a las atribuciones 
 
 Las relaciones laborales entre los Municipios y sus trabajadores se regirán por la Ley del Servicio Civil del Estado y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 54.
 
-El bando y los reglamentos, para su vigencia, deberán publicarse en el Periódico Oficial, Organo del Gobierno del Estado.
+El bando de policía y gobierno, los reglamentos y las disposiciones de observancia general, sin excepción, que expida y promulgue el Ayuntamiento deberán ser publicados en la Gaceta Municipal, así como en el Periódico Oficial, Órgano del Gobierno del Estado para su validez y consecuente cumplimiento.
+
+La Gaceta Municipal es el Órgano Oficial de publicación y difusión del Municipio, de carácter permanente, cuya función consiste en dar publicidad a las disposiciones normativas, reglamentos, planes, programas, acuerdos, avisos y demás disposiciones de observancia general, para su validez y consecuente cumplimiento. Se editará tanto en forma impresa como electrónica, se imprimirá y distribuirá en el territorio del Municipio.
 
 ###### Artículo 55.
 
@@ -877,7 +889,9 @@ Emitido el decreto de revocación, la Legislatura llamará a los suplentes. Si f
 
 El Presidente Municipal es el ejecutor de las determinaciones del Ayuntamiento y tiene las siguientes facultades y obligaciones:
 
-I. Promulgar y publicar los Bandos de Policía y Gobierno, las normas de carácter general y los reglamentos municipales;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+I. Promulgar y publicar los Bandos de Policía y Gobierno, las normas de carácter general y los reglamentos municipales en su respectiva Gaceta Municipal y en el Periódico Oficial, Órgano del Gobierno del Estado;
 
 II. Convocar al Ayuntamiento a sesiones en la forma y términos que establezca esta ley y el reglamento interior respectivo, presidirlas y dirigirlas;
 
@@ -1205,7 +1219,13 @@ XVII. Formular el inventario de bienes muebles e inmuebles que formen el patrimo
 
 XVIII. Observar y hacer cumplir debidamente el Reglamento Interior del Ayuntamiento, procurando el pronto y eficaz despacho de los asuntos; y
 
-XIX. Las demás que le asigne el Ayuntamiento.
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+XIX. La edición, distribución y difusión de la Gaceta Municipal, así como gestionar las publicaciones en el Periódico Oficial, Órgano de Gobierno del Estado; y
+
+> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2013)</small>
+
+XX. Las demás que le asigne el Ayuntamiento.
 
 ###### Artículo 93.
 
@@ -1773,9 +1793,11 @@ En lo no previsto por este artículo, será aplicable de manera supletoria el C�
 
 Cuando la concesión del servicio público se extinga por causa imputable al concesionario se harán efectivas a favor del Municipio, las garantías señaladas en esta ley.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 129.
 
-La resolución de la extinción de las concesiones de servicios públicos, se publicarán en el Periódico Oficial, Órgano del Gobierno del Estado y en un periódico de mayor circulación en el Municipio.
+La resolución de la extinción de las concesiones de servicios públicos, se publicará en la Gaceta Municipal, en el Periódico Oficial, Órgano del Gobierno del Estado y en un periódico de mayor circulación en el Municipio.
 
 ###### Artículo 130.
 
@@ -2027,9 +2049,11 @@ VIII. Los beneficios que les corresponda de los proyectos empresariales en los q
 
 Los Ayuntamientos formularán y actualizarán el inventario general de los bienes inmuebles propiedad del Municipio y establecerán al efecto el Catálogo General de Inmuebles, el cual contendrá la expresión de sus valores, características para su identificación y su destino. El patrimonio inmueble de los Municipios deberá inscribirse en la sección correspondiente del Registro Público de la Propiedad y del Comercio.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 153.
 
-El Catálogo General de Bienes Inmuebles será público, para lo cual, cada Municipio publicará anualmente la relación de bienes inmuebles que lo integren, en el Periódico Oficial, Órgano del Gobierno del Estado. Los Ayuntamientos celebrarán convenios de coordinación con el Gobierno Estatal a fin de implementarlo y mantenerlo actualizado.
+El Catálogo General de Bienes Inmuebles será público, para lo cual, cada Municipio publicará anualmente la relación de bienes inmuebles que lo integren, en su respectiva Gaceta Municipal y en el Periódico Oficial, Órgano del Gobierno del Estado. Los Ayuntamientos celebrarán convenios de coordinación con el Gobierno Estatal a fin de implementarlo y mantenerlo actualizado.
 
 ###### Artículo 154.
 
@@ -2418,3 +2442,21 @@ P.O. 6 DE OCTUBRE DE 2012.
 Artículo Primero.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
 
 Artículo Segundo.- Se derogan las disposiciones que contravengan el presente Instrumento Legislativo.
+
+P.O. 23 DE MARZO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, el Ejecutivo del Estado deberá actualizar la reglamentación de conformidad con el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, los Ayuntamientos deberán establecer su Gaceta Municipal.
+
+###### ARTÍCULO CUARTO.
+
+Los Ayuntamientos, en el término de ciento veinte días naturales a partir de la vigencia del presente Decreto, deberán publicar en sus Gacetas Municipales y en el Periódico Oficial, Órgano del Gobierno del Estado, todas las disposiciones normativas de carácter general que hayan sido generadas antes de la entrada en vigor del presente Decreto. Remitiendo en medio impreso y de forma magnética los instrumentos jurídicos a la Coordinación General Jurídica del Gobierno del Estado para su trámite de publicación.
