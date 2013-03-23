@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-asistencia-social-del-estado-de-zacatecas-55018"
 country: "mx"
 rank: "ley"
 publication_date: "2007-04-04"
-last_updated: "2007-04-04"
+last_updated: "2013-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55018&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE ASISTENCIA SOCIAL DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2013.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el miércoles 4 de abril de 2007.
 
@@ -187,11 +187,15 @@ El Sistema Estatal de Asistencia Social, se integra por las siguientes dependenc
 
 I. Secretaría General de Gobierno;
 
-II. Secretaría de Planeación y Desarrollo Regional;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+II. Secretaría de Desarrollo Social;
 
 III. Servicios de Salud;
 
-IV. Secretaría de Educación y Cultura;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+IV. Secretaría de Educación;
 
 V. Secretaría de Finanzas;
 
@@ -393,7 +397,9 @@ Habrá quórum con la asistencia de siete de sus miembros, siempre y cuando se e
 
 La Junta de Gobierno estará integrada por:
 
-I. La o el Secretario de Planeación y Desarrollo Regional del Estado;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+I. La o el Secretario de Desarrollo Social;
 
 II. La Directora o Director de los Servicios de Salud, quien la presidirá;
 
@@ -403,11 +409,15 @@ IV. La Directora o Director del Organismo;
 
 V. El Secretario o Secretaria de Finanzas;
 
-VI. El Contralor o Contralora Interna del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+VI. La o el Secretario de la Función Pública del Gobierno del Estado;
 
 VII. El Procurador o Procuradora General de Justicia, y
 
-VIII. La Directora o Director de la Comisión de Integración Social al Desarrollo de las Personas con Discapacidad.
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+VIII. Subsecretaría de las Personas con Discapacidad.
 
 A propuesta de su Presidente, la Junta designará un Secretario, entre personas ajenas a la entidad, pudiendo recaer el nombramiento en un integrante del propio órgano de gobierno.
 
@@ -445,7 +455,9 @@ XI. Aprobar los programas de mediano plazo a que quedarán sujetos los servicios
 
 La Junta sesionará por lo menos una vez cada seis meses de manera ordinaria y extraordinariamente cuando se requiera, sus acuerdos se asentarán en el libro de actas correspondiente.
 
-Habrá quórum con la asistencia de la mayoría de sus miembros, siempre y cuando se encuentren presentes la Directora o Director de los Servicios de Salud, el Secretario o Secretaria de Planeación y Desarrollo Regional y la Presidenta o Presidente del Patronato del Organismo. Cada miembro gozará de un voto y el Presidente de la Junta tendrá además el de calidad.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
+Habrá quórum con la asistencia de la mayoría de sus miembros, siempre y cuando se encuentren presentes la Directora o Director de los Servicios de Salud, el Secretario o Secretaria de Desarrollo Social y la Presidenta o Presidente del Patronato del Organismo. Cada miembro gozará de un voto y el Presidente de la Junta tendrá además el de calidad.
 
 Los acuerdos se tomarán por mayoría de los votos presentes.
 
@@ -791,9 +803,11 @@ XIV. Las demás que establezca la presente Ley y su Reglamento.
 
 El Organismo contará con un órgano de consulta en lo relativo a la asistencia social privada, que se denominará Consejo Consultivo de las IASP.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 72.
 
-El órgano de consulta estará integrado por siete consejeros, que serán representantes de las IASP, uno por cada uno de los municipios de Zacatecas, Guadalupe y Jerez, y por cuatro ciudadanos de reconocido sentimiento filantrópico y honorabilidad; estará presidido por la o el Secretario de Planeación y Desarrollo Regional y tendrá una Vicepresidencia que recaerá en la Directora o Director del Organismo. El Consejo designará a su Secretario y sesionará de conformidad con su propio Reglamento Interno.
+El órgano de consulta estará integrado por siete consejeros, que serán representantes de las IASP, uno por cada uno de los municipios de Zacatecas, Guadalupe y Jerez, y por cuatro ciudadanos de reconocido sentimiento filantrópico y honorabilidad; estará presidido por la o el Secretario de Desarrollo Social y tendrá una Vicepresidencia que recaerá en la Directora o Director del Organismo. El Consejo designará a su Secretario y sesionará de conformidad con su propio Reglamento Interno.
 
 ###### Artículo 73.
 
@@ -1378,3 +1392,23 @@ AMALIA D. GARCÍA MEDINA.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LUIS GERARDO ROMO FONSECA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE MARZO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, el Ejecutivo del Estado deberá actualizar la reglamentación de conformidad con el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, los Ayuntamientos deberán establecer su Gaceta Municipal.
+
+###### ARTÍCULO CUARTO.
+
+Los Ayuntamientos, en el término de ciento veinte días naturales a partir de la vigencia del presente Decreto, deberán publicar en sus Gacetas Municipales y en el Periódico Oficial, Órgano del Gobierno del Estado, todas las disposiciones normativas de carácter general que hayan sido generadas antes de la entrada en vigor del presente Decreto. Remitiendo en medio impreso y de forma magnética los instrumentos jurídicos a la Coordinación General Jurídica del Gobierno del Estado para su trámite de publicación.
