@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-fomento-a-la-ganaderia-del-estado-de-zacatecas-50400"
 country: "mx"
 rank: "ley"
 publication_date: "2006-04-29"
-last_updated: "2006-04-29"
+last_updated: "2013-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ZAC"
 ---
 # LEY DE FOMENTO A LA GANADERIA DEL ESTADO DE ZACATECAS
 
-LEY DE FOMENTO A LA GANADERIA DEL ESTADO DE ZACATECAS
+LEY DE FOMENTO A LA GANADERÍA DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2013.
 
 Ley publicada en el Suplemento No. 2 al Periódico Oficial del Estado de Zacatecas, el sábado 29 de abril del 2006.
 
@@ -175,7 +175,9 @@ XXXIV. SAGARPA: Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca 
 
 XXXV. SANIDAD ANIMAL: La que tiene por objeto preservar la salud y prevenir las enfermedades y plagas de los animales, con excepción de los que tengan como hábitat el medio acuático;
 
-XXXVI. SECRETARIA: La Secretaria de Desarrollo Agropecuario;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+XXXVI. SECRETARIA: La Secretaría del Campo;
 
 XXXVII. SEMARNAT: Secretaría del Medio Ambiente y Recursos Naturales;
 
@@ -195,7 +197,9 @@ Son autoridades competentes para la aplicación de esta Ley:
 
 I. La o el Titular del Ejecutivo del Estado;
 
-II. La Secretaría de Desarrollo Agropecuario; y
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+II. La Secretaría; y
 
 III. Las Autoridades Municipales.
 
@@ -637,9 +641,11 @@ Todo propietario o poseedor de terreno colindante con carreteras federales, esta
 
 Los poseedores o propietarios de predios ganaderos colindantes entre sí, que carezcan de cercos divisorios por existir desacuerdo sobre el lindero en que deban construirse, podrán someterse al arbitraje de la Secretaría para que ésta resuelva en definitiva lo conducente.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 66.
 
-La Secretaría y los órganos auxiliares se coordinarán con la Junta Local de Caminos, si la carretera es estatal, y con la Secretaría de Comunicaciones y Transportes, si es federal, a efecto de mantener desmontadas las superficies ubicadas entre las carreteras y caminos vecinales y los cercos de los predios ganaderos colindantes, con el fin de proteger contra incendios tanto los propios cercos como la vegetación que exista en los agostaderos.
+La Secretaría y los órganos auxiliares se coordinará (sic) con la Secretaría de Infraestructura, si la carretera es estatal y con la Secretaría de Comunicaciones y Trasportes, si es federal, a efecto de mantener desmontadas las superficies ubicadas entre las carreteras y caminos vecinales y los cercos de los predios ganaderos colindantes, con el fin de proteger contra incendios tanto los propios cercos como la vegetación que exista en los agostaderos.
 
 ###### Artículo 67.
 
@@ -1484,3 +1490,23 @@ DADO en la Sala de Sesiones de la Honorable Quincuagésima Octava Legislatura de
 Y para que se llegue al conoci miento (sic) de todos y se le dé el debido cumplimiento, mando se imprima, publique y circule.
 
 DADO en el Despacho del Poder Ejecutivo, del Estado, el día veinticuatro del mes de Abril del año dos mil seis. Atentamente- "SUFRAGIO EFECTIVO. NO REELECCION".- La Gobernadora del Estado.- AMALIA D. GARCÍA MEDINA. El Secretario General de Gobierno.- LUIS GERARDO ROMO FONSECA. Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE MARZO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, el Ejecutivo del Estado deberá actualizar la reglamentación de conformidad con el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, los Ayuntamientos deberán establecer su Gaceta Municipal.
+
+###### ARTÍCULO CUARTO.
+
+Los Ayuntamientos, en el término de ciento veinte días naturales a partir de la vigencia del presente Decreto, deberán publicar en sus Gacetas Municipales y en el Periódico Oficial, Órgano del Gobierno del Estado, todas las disposiciones normativas de carácter general que hayan sido generadas antes de la entrada en vigor del presente Decreto. Remitiendo en medio impreso y de forma magnética los instrumentos jurídicos a la Coordinación General Jurídica del Gobierno del Estado para su trámite de publicación.
