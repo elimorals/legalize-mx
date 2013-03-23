@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-de-la-feria-nacional-de-la-ciudad-de-zacatecas-873
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-16"
-last_updated: "2007-09-13"
+last_updated: "2013-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8737&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY ORGÁNICA DE LA FERIA NACIONAL DE LA CIUDAD DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el miércoles 16 de septiembre de 1981.
 
@@ -77,15 +77,21 @@ b) Presidente Ejecutivo: La persona que presida el Sistema Estatal para el Desar
 
 c) Vocales:
 
-> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
-1. El Secretario de Finanzas del Gobierno del Estado;
+1. Secretario de Finanzas;
 
-2. El Oficial Mayor de Gobierno del Estado;
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
-3. El Secretario de Desarrollo Económico del Gobierno del Estado;
+2. El Secretario de Administración;
 
-4. El Secretario de Educación y Cultura del Gobierno del Estado;
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
+3. El Secretario de Economía;
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
+4. El Secretario de Educación;
 
 > <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2007)</small>
 
@@ -323,11 +329,11 @@ Los bienes muebles, inmuebles, instalaciones y derechos que integran el complejo
 
 El Estado y el Sistema Estatal para el Desarrollo Integral de la Familia celebrarán los contratos o convenios que sean necesarios para determinar las condiciones en que deba desarrollarse el usufructo y administración de los bienes muebles e inmuebles a que se refiere este Capítulo.
 
-> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### ARTICULO 23.
 
-El mantenimiento y conservación de los bienes muebles e inmuebles así como las instalaciones a que se refiere el Artículo 21, queda a cargo de la Secretaría de Obras Públicas y Oficialía Mayor de Gobierno.
+El mantenimiento y conservación de los bienes muebles e inmuebles así como las instalaciones a que se refiere el Artículo 21, queda a cargo de las Secretarías de Infraestructura y de Administración.
 
 ###### ARTICULO 24.
 
@@ -478,3 +484,21 @@ Artículo primero.- El presente Decreto entrará en vigor el mismo día de su ap
 Artículo segundo.- Publíquese en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo tercero.- Se derogan las disposiciones que contravengan este Decreto.
+
+P.O. 23 DE MARZO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, el Ejecutivo del Estado deberá actualizar la reglamentación de conformidad con el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, los Ayuntamientos deberán establecer su Gaceta Municipal.
+
+###### ARTÍCULO CUARTO.
+
+Los Ayuntamientos, en el término de ciento veinte días naturales a partir de la vigencia del presente Decreto, deberán publicar en sus Gacetas Municipales y en el Periódico Oficial, Órgano del Gobierno del Estado, todas las disposiciones normativas de carácter general que hayan sido generadas antes de la entrada en vigor del presente Decreto. Remitiendo en medio impreso y de forma magnética los instrumentos jurídicos a la Coordinación General Jurídica del Gobierno del Estado para su trámite de publicación.
