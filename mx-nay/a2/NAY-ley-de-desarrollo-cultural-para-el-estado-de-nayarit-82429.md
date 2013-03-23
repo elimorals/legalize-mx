@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-desarrollo-cultural-para-el-estado-de-nayarit-82429"
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-27"
-last_updated: "2011-11-23"
+last_updated: "2013-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82429&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DEL DESARROLLO CULTURAL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2013.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Nayarit, el miércoles 27 de julio de 2011.
 
@@ -63,31 +63,31 @@ V. Estimular, acrecentar y respetar toda manifestación cultural, producto tanto
 
 VI. Reafirmar la evolución natural que tienen tanto las culturas indígenas como populares, desarrollando su documentación, investigación y difusión;
 
-VIl. Respaldar la coordinación entre las distintas dependencias y entidades federales, estatales, municipales y de la sociedad civil en el ámbito cultural;
+VII. Respaldar la coordinación entre las distintas dependencias y entidades federales, estatales, municipales y de la sociedad civil en el ámbito cultural;
 
 VIII. Organizar y fomentar la participación ciudadana en la formulación de la política cultural en la Entidad, y
 
 IX. Apoyar el desarrollo y profesionalización de los productores y promotores culturales en el Estado.
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### Artículo 3.
 
-La ejecución de esta ley corresponde al titular del Poder Ejecutivo del Estado, y a los Ayuntamientos, los que ejercerán sus atribuciones de manera concurrente en el ámbito de sus respectivas competencias. En el caso de las que correspondan al titular del Poder Ejecutivo, se harán a través de la Secretaría de Cultura.
+La ejecución de esta ley corresponde al titular del Poder Ejecutivo del Estado y a los Ayuntamientos, los que ejercerán sus atribuciones de manera concurrente en el ámbito de sus respectivas competencias. En el caso de las que correspondan al titular del Poder Ejecutivo, se harán a través del CECAN.
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### Artículo 4.
 
-Para los efectos de la presente ley se entenderá por Secretaría a la Secretaría de Cultura del Poder Ejecutivo del Estado.
+Para los efectos de la presente ley se entenderá por CECAN al Consejo Estatal para la Cultura y las Artes de Nayarit.
 
 ### Capítulo II. Derechos Culturales
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### Artículo 5.
 
-Corresponde al titular del Poder Ejecutivo del Estado a través de la Secretaría, establecer las garantías para asegurar el derecho de acceso a la cultura, a los bienes y servicios culturales, así como el hacer efectivos los derechos culturales a todos los habitantes del Estado de Nayarit.
+Corresponde al titular del Poder Ejecutivo del Estado a través del CECAN, establecer las garantías para asegurar el derecho de acceso a la cultura, a los bienes y servicios culturales, así como hacer efectivos los derechos culturales a todos los habitantes del Estado de Nayarit.
 
 ###### Artículo 6.
 
@@ -109,7 +109,7 @@ V. Acceder a los valores testimoniales de los bienes tangibles e intangibles, in
 
 VI. Aceptar y respetar las diversas formas de expresión cultural y artística creadas por los niños, jóvenes, discapacitados, adultos y adultos mayores en el Estado;
 
-VIl. Participar en la protección del patrimonio natural y cultural, y
+VII. Participar en la protección del patrimonio natural y cultural, y
 
 VIII. La defensa, goce y disfrute de la creación intelectual, tanto de los ciudadanos en lo particular como de las comunidades indígenas.
 
@@ -139,11 +139,11 @@ Queda prohibida toda discriminación cultural motivada por origen étnico o naci
 
 Se confirma la coexistencia de las etnias y grupos que conforman la cultura nayarita: coras, huicholes, mexicaneros, tepehuanos, mestizos y otros grupos minoritarios que cohabitan el territorio estatal; cada uno con características culturales específicas.
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### Artículo 14.
 
-El titular del Poder Ejecutivo del Estado a través de la Secretaría, en colaboración con los Ayuntamientos, emprenderán acciones para el desarrollo cultural, tomando en consideración las que propongan las comunidades, individuos, gestores y promotores culturales, mismas que se instrumentarán atendiendo a la diversidad y propiciarán el respetuoso intercambio cultural buscando desarrollar relaciones de convivencia interculturales.
+El titular del Poder Ejecutivo del Estado a través del CECAN, en colaboración con los Ayuntamientos, emprenderán acciones para el desarrollo cultural, tomando en consideración las que propongan las comunidades, individuos, gestores y promotores culturales, mismas que se instrumentarán atendiendo a la diversidad y propiciarán el respetuoso intercambio cultural buscando desarrollar relaciones de convivencia interculturales.
 
 ### Capítulo IV. Identidad Cultural
 
@@ -159,17 +159,17 @@ Deberá difundirse la valoración y el fortalecimiento de la identidad cultural,
 
 La cultura, en sus expresiones diversas, materiales e inmateriales, sustenta la identidad de los individuos y de sus comunidades, conformando con ello la memoria cultura.
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### Artículo 18.
 
-La Secretaría promoverá entre las instituciones, organismos públicos, privados e investigadores, los trabajos que aborden temas relacionados con el pluralismo lingüístico, las nuevas identidades y los productos culturales que de ellas emanen.
+El CECAN promoverá entre las instituciones, organismos públicos privados e investigadores, los trabajos que aborden temas relacionados con el pluralismo lingüístico, las nuevas identidades y los productos culturales que de ellas emanen.
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### Artículo 19.
 
-La Secretaría llevará a cabo todo tipo de acciones que propicien el intercambio cultural entre los habitantes del Estado y los nayaritas radicados fuera de él, y en el extranjero, con la finalidad de estimular y fortalecer los lazos de identidad cultural.
+El CECAN llevará a cabo todo tipo de acciones que propicien el intercambio cultural entre los habitantes del Estado y los nayaritas radicados fuera de él y en el extranjero, con la finalidad de estimular y fortalecer los lazos de identidad cultural.
 
 ### Capítulo V. Entorno Cultural
 
@@ -205,19 +205,19 @@ IV. Zonas naturales protegidas como manglares, humedales, entre otros.
 
 Es infraestructura cultural el espacio físico, bienes inmuebles, equipamientos técnicos y servicios que son puntos de enlace, transformaciones y distribución de productos y servicios culturales que favorecen el intercambio simbólico de un grupo social, donde los individuos se encuentran para difundir conocimiento, representar, interactuar o intercambiar ideas, prácticas culturales y artísticas, como: teatros, auditorios, cines, escuelas de formación artística, museos, casas de cultura, casas de barrio, centros y organismos culturales, o cualquier otro lugar, dedicado a la promoción, formación o difusión, que otorguen servicios culturales a la población; de igual manera se consideran los espacios públicos, como plazas, calles, parques, jardines, templos o cualquiera otro lugar que sirva para detonar procesos de desarrollo cultural.
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### Artículo 25.
 
-La Secretaría incentivará la creación de espacios públicos culturales, con la finalidad de propiciar la reconfiguración del tejido social.
+El CECAN incentivara la creación de espacios públicos culturales, con la finalidad de propiciar la reconfiguración del tejido social.
 
 ### Capítulo II. Documentación Cultural
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### Artículo 26.
 
-El titular del Poder Ejecutivo del Estado, por conducto de la Secretaría, realizarán el registro de mecanismos hemerográficos, audiovisuales y documentales de la memoria histórica y cultural del estado, comprendiendo lo arqueológico, artístico, histórico, político, religioso, mismo que será permanentemente actualizado y deberá incluir:
+El titular del Poder Ejecutivo del Estado, por conducto del CECAN, realizará el registro de mecanismos hemerográficos, audiovisuales y documentales de la memoria histórica y cultural del estado, comprendiendo lo arqueológico, artístico, histórico, político y religioso, mismo que será permanentemente actualizado y deberá incluir:
 
 I. La elaboración del catálogo que contenga la descripción de los bienes culturales tangibles que se encuentren dentro de los inmuebles adscritos al patrimonio cultural;
 
@@ -235,41 +235,43 @@ En cada Ayuntamiento se contará con un Cronista, que deberá estar inscrito en 
 
 ### Capítulo I. Investigación Cultural
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### Artículo 28.
 
-El titular del Poder Ejecutivo del Estado a través de la Secretaría, establecerá las acciones que permitan el desarrollo de estudios e investigaciones en la materia, utilizando las nuevas técnicas y tecnologías, así como los recursos bibliográficos de los que se dispone.
+El titular del Poder Ejecutivo del Estado a través del CECAN, establecerá las acciones que permitan el desarrollo de estudios e investigaciones en la materia, utilizando las nuevas técnicas y tecnologías, así como los recursos bibliográficos de los que se dispone.
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### Artículo 29.
 
-La Secretaría impulsará la investigación de toda manifestación cultural popular y que tenga relevancia en los usos y costumbres o importancia para el desarrollo cultural del Estado, tendiente a incrementar el acervo cultural en todas sus áreas.
+El CECAN impulsará la investigación de toda manifestación cultural popular que tenga relevancia en los usos y costumbres o importancia para el desarrollo cultural del
+
+Estado, tendiente a incrementar el acervo cultural en todas sus áreas.
 
 ###### Artículo 30.
 
 La investigación relacionada con el patrimonio inmaterial, que por su naturaleza es susceptible al cambio o perdida, deberá contará (sic) con el apoyo de políticas públicas que propicie su salvaguarda.
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### Artículo 31.
 
-Corresponde al Titular del Ejecutivo del Estado a través de la Secretaría, establecer las relaciones de colaboración necesarias con las diferentes universidades, centro e institutos de investigación y documentación estatales, nacionales e internacionales a fin de garantizar el alcance de los objetivos que se plasman en la presente ley.
+Corresponde al Titular del Ejecutivo del Estado a través del CECAN, establecer las relaciones de colaboración necesarias con las diferentes universidades, centros e institutos de investigación y documentación estatales, nacionales e internacionales a fin de garantizar el alcance de los objetivos que se plasman en la presente ley.
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### Artículo 32.
 
-Para el cumplimiento de los fines de esta Ley y para la formación de investigadores en la cultura del estado, la Secretaría podrá contar con un Centro de Investigaciones Culturales donde se vincule a las instituciones educativas de nivel medio superior y superior de la Entidad.
+Para el cumplimiento de los fines de esta Ley y para la formación de investigadores en la cultura del estado, el CECAN podrá contar con un Centro de Investigaciones Culturales donde se vincule a las instituciones educativas de nivel medio superior y superior de la Entidad.
 
 ### Capítulo II. Productor Cultural
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### Artículo 33.
 
-Para los efectos de esta Ley, se considera productor cultural a toda persona o grupo de personas dedicadas a elaborar productos que recrean su identidad y entorno cultural, contribuyendo a conformar el patrimonio material e inmaterial del Estado. Para acreditar dicha condición, el productor deberá estar inscrito ante la Secretaría.
+Para los efectos de esta Ley, se considera productor cultural a toda persona o grupo de personas dedicadas a elaborar productos que recrean su identidad y entorno cultural, contribuyendo a conformar el patrimonio material e inmaterial del Estado. Para acreditar dicha condición, el productor deberá estar inscrito ante el CECAN.
 
 ###### Artículo 34.
 
@@ -287,7 +289,7 @@ V. Cronistas;
 
 VI. Curanderos;
 
-VIl. Distribuidores de productos culturales;
+VII. Distribuidores de productos culturales;
 
 VIII. Editores;
 
@@ -317,29 +319,29 @@ XX. Promotores culturales, y
 
 XXI. Toda aquella persona o grupo de personas que contribuyan en la producción, rescate y difusión de tradiciones y actividades culturales que fortalezcan la identidad cultural del Estado.
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### Artículo 35.
 
-La Secretaría llevará el registro de productores culturales, a fin de dar atención especial a cada una de las áreas.
+El CECAN llevará el registro de productores culturales, a fin de dar atención especial a cada una de las áreas.
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### Artículo 36.
 
-La Secretaría gestionará los apoyos necesarios ante las instancias de los gobiernos federal y municipal, para establecer un programa de estímulos a los productores culturales, para lo cual se contará con el Reglamento correspondiente.
+El CECAN gestionará los apoyos necesarios ante las instancias de los gobiernos federal y municipales, para establecer un programa de estímulos a los productores culturales, para lo cual se contará con el Reglamento correspondiente.
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### Artículo 37.
 
-La Secretaría en coordinación con las instancias correspondientes, dará apoyo para la organización de los productores culturales, brindándoles asistencia técnica, capacitación y búsqueda de estrategias, para el establecimiento de relaciones comerciales eficaces de sus productos.
+El CECAN en coordinación con las instancias correspondientes, dará apoyo para la organización de los productores culturales, brindándoles asistencia técnica, capacitación y búsqueda de estrategias para el establecimiento de relaciones comerciales eficaces de sus productos.
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### Artículo 38.
 
-El Estado y los municipios, a través de la Secretaría, convocarán para que dentro de los festivales se otorguen estímulos y reconocimientos a productores culturales.
+El Estado y los municipios, a través del CECAN, convocarán para que dentro de los festivales se otorguen estímulos y reconocimientos a productores culturales.
 
 ### Capítulo III. Producción Cultural
 
@@ -347,11 +349,11 @@ El Estado y los municipios, a través de la Secretaría, convocarán para que de
 
 La presente ley reconoce el valor cultural de los productos culturales, que son el resultado de la actividad artesanal, artística e intelectual.
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### Artículo 40.
 
-Cuando se trate de la comercialización de bienes o servicios culturales que produzcan, presten o distribuyan las entidades públicas o privadas, la Secretaría gestionará, ante las instancias o empresas correspondientes, mediante convenios, que se fijen los precios y cuotas de recuperación, los que como mínimo sean suficientes para cubrir los costos del material utilizado.
+Cuando se trate de la comercialización de bienes o servicios culturales que produzcan, presten o distribuyan las entidades públicas o privadas, el CECAN gestionará, ante las instancias o empresas correspondientes, mediante convenios, que se fijen los precios y cuotas de recuperación, los que como mínimo sean suficientes para cubrir los costos del material utilizado
 
 ###### Artículo 41.
 
@@ -363,11 +365,11 @@ La presente ley garantizará favorecer el acceso a todos los ciudadanos a los bi
 
 Se considera difusión cultural a las acciones de las instituciones públicas, privadas o independientes, tendientes a dar a conocer a los diversos sectores de la población, los productos y productores culturales, así como las distintas manifestaciones culturales.
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### Artículo 43.
 
-La Secretaría en coordinación con las autoridades federales y municipales, así como con las asociaciones civiles, realizará campañas permanentes de formación, difusión del conocimiento, respeto, conservación y enriquecimiento del patrimonio cultural de Nayarit.
+El CECAN en coordinación con las autoridades federales y municipales, así como con las asociaciones civiles, realizará campañas permanentes de formación, difusión del conocimiento, respeto, conservación y enriquecimiento del patrimonio cultural de Nayarit.
 
 ### Capítulo V. Eventos Culturales
 
@@ -391,7 +393,7 @@ V. Encuentros de medicina tradicional, artesanales y gastronómicos;
 
 VI. Exposiciones culturales;
 
-VIl. Ferias regionales;
+VII. Ferias regionales;
 
 VIII. Ferias del libro;
 
@@ -407,17 +409,17 @@ XIII. Muestras, foros y encuentros de artes escénicas, musicales y cinematográ
 
 XIV. Todas aquellas actividades que contribuyan al fomento de la cultura.
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### Artículo 46.
 
-Los municipios en coordinación con la Secretaría, formularán un calendario oficial de eventos culturales de carácter permanente.
+Los municipios en coordinación con el CECAN, formularán un calendario oficial de eventos culturales de carácter permanente.
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### Artículo 47.
 
-La Secretaría promoverá la participación de organizaciones de la sociedad civil, organizaciones independientes y organismos privados, en la realización de eventos culturales, en la que se incluya la participación de productores culturales del Estado.
+El CECAN promoverá la participación de organizaciones de la sociedad civil, independientes y organismos privados, en la realización de eventos culturales, en la que se incluya la participación de productores culturales del Estado.
 
 ### Capítulo VI. Empresas e Industrias Culturales
 
@@ -439,17 +441,17 @@ Se reconoce como empresa cultural el turismo dedicado a la promoción y difusió
 
 ### Capítulo VII. Capacitación Cultural
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### Artículo 52.
 
-La Secretaría promoverá acciones de capacitación constante y permanente para los productores culturales de las diferentes disciplinas para acrecentar sus conocimientos y habilidades.
+El CECAN promoverá acciones de capacitación constante y permanente para los productores culturales de las diferentes disciplinas para acrecentar sus conocimientos y habilidades.
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### Artículo 53.
 
-La Secretaría en coordinación con la Secretaría del Trabajo del Gobierno del Estado, realizarán programas de capacitación cultural en el sector laboral, procurando el desarrollo de las capacidades artísticas de los trabajadores.
+El CECAN en coordinación con la Secretaría del Trabajo de Gobierno del Estado, realizará programas de capacitación cultural en el sector laboral, procurando el desarrollo de las capacidades artísticas de los trabajadores.
 
 ### Capítulo VIII. Agentes Culturales
 
@@ -457,35 +459,39 @@ La Secretaría en coordinación con la Secretaría del Trabajo del Gobierno del 
 
 Son agentes culturales las personas de reconocido compromiso con la cultura que participan en la documentación, investigación, promoción, difusión o implementación de programas de intervención cultural.
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### Artículo 55.
 
-La Secretaría implementará los mecanismos que impulsen la participación de los agentes culturales en la elaboración de diagnósticos y la formulación de proyectos culturales, así como la evaluación y revisión permanente de las políticas, los instrumentos y las acciones que favorezcan el desarrollo cultural, sus resultados y su impacto en la población.
+. El CECAN implementará los mecanismos que impulsen la participación de los agentes culturales en la elaboración de diagnósticos y la formulación de proyectos culturales, así como la evaluación y revisión permanente de las políticas, los instrumentos y las acciones que favorezcan el desarrollo cultural, sus resultados y su impacto en la población.
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE MARZO DE 2013)</small>
 
-## Título Cuarto. De la Secretaría de Cultura
+## Título Cuarto. Del Consejo Estatal para la Cultura y las Artes de Nayarit
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### Artículo 56.
 
-La Secretaría promoverá la corresponsabilidad de los promotores y gestores culturales, así como de las asociaciones y consejos ciudadanos, en la ejecución de los programas y acciones que incidan en el desarrollo cultural del Estado y sus municipios.
+El CECAN promoverá la corresponsabilidad de los promotores y gestores culturales, así como de las asociaciones y consejos ciudadanos, en la ejecución de los programas y acciones que incidan en el desarrollo cultural del Estado y sus municipios.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### Artículo 57.
 
-La Secretaría será la encargada de diseñar y normar las políticas, programas y acciones previstas en la presente ley.
+El CECAN será el organismo encargado de diseñar y normar las políticas, programas y acciones previstas en la presente ley.
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### Artículo 58.
 
-El CECAN podrá acordar o convenir con la Federación, las demás Entidades Federativas y el Distrito Federal, el establecimiento de acciones específicas que permitan incrementar la participación de los órganos de apoyo e impulsar una mayor participación de la sociedad civil en el ámbito cultural.
+El CECAN podrá acordar o convenir con la Federación, las demás Entidades Federativas y el Distrito Federal, el establecimiento de acciones especificas que permitan incrementar la participación de los órganos de apoyo e impulsar una mayor participación de la sociedad civil en el ámbito cultural.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### Artículo 59.
 
-La Secretaría tendrá las siguientes atribuciones:
+El CECAN tendrá las siguientes atribuciones:
 
 A) En materia de Cultura:
 
@@ -501,7 +507,7 @@ V. Elaborar el programa operativo anual en el que establecerá las políticas de
 
 VI. Promover ante las autoridades competentes la construcción y asignación de instalaciones culturales;
 
-VIl. Tramitar apoyos financieros, materiales y técnicos con el gobierno federal, estatal y municipal para apoyar el cumplimiento de las metas y proyectos señalados en el Programa Estatal de Cultura;
+VII. Tramitar apoyos financieros, materiales y técnicos con el gobierno federal, estatal y municipal para apoyar el cumplimiento de las metas y proyectos señalados en el Programa Estatal de Cultura;
 
 VIII. Operar y evaluar, en coordinación con las instituciones correspondientes, los programas de intervención cultural;
 
@@ -529,7 +535,7 @@ V. Mantener actualizado el inventario de los espacios e infraestructura cultural
 
 VI. Organizar la participación de la comunidad en el uso, mantenimiento, conservación y disfrute de la infraestructura y los espacios culturales;
 
-VIl. Ejecutar proyectos de intervención cultural, independientes de la administración pública, no lucrativos, que impulsen y promuevan las actividades culturales y expresiones artísticas de todos los grupos o sectores sociales de la población;
+VII. Ejecutar proyectos de intervención cultural, independientes de la administración pública, no lucrativos, que impulsen y promuevan las actividades culturales y expresiones artísticas de todos los grupos o sectores sociales de la población;
 
 VIII. Fijar los lineamientos para la optimización de recursos financieros destinados a los espacios públicos, y
 
@@ -581,7 +587,7 @@ V. Apoyar con la difusión a los productores culturales individuales o colectivo
 
 VI. Utilizar los medios de comunicación del Gobierno del Estado, las redes sociales incorporadas a la tecnología de la comunicación, así como aquellos que se consideren pertinentes para la difusión de los programas y proyectos de Índole cultural que se implementen en Nayarit;
 
-VIl. Crear esquemas que acerquen actividades de animación y divulgación cultural, a aquéllas comunidades y núcleos urbanos alejados de los espacios y de la infraestructura cultural, y
+VII. Crear esquemas que acerquen actividades de animación y divulgación cultural, a aquéllas comunidades y núcleos urbanos alejados de los espacios y de la infraestructura cultural, y
 
 VIII. Difundir las creaciones de los productores culturales del Estado a través del desarrollo de programas y acciones de divulgación cultural estableciendo las bases para que las actividades culturales lleguen a todos los sectores de la población.
 
@@ -605,51 +611,47 @@ IV. Fijar acciones que permitan hacer crecer las industrias culturales, de confo
 
 ## Título Quinto. De los Órganos de Colaboración y de la Participación Social
 
-### Capítulo Único. Atribuciones
-
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+### Capítulo I. Relaciones de Colaboración
 
 ###### Artículo 60.
 
 Corresponde a las autoridades estatales y municipales que se vincules (sic) con el objeto de la presente ley, preservar, promover y difundir la cultura dentro y fuera del Estado.
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### Artículo 61.
 
-Para efectos del artículo anterior, la Secretaría suscribirá los acuerdos o convenios necesarios que definan las líneas de coordinación con el Consejo Nacional para la Cultura y las Artes, el Instituto Nacional de Bellas Artes y Literatura, con el Instituto Nacional de Antropología e Historia, con organismos, dependencias y entidades federales y estatales, así como de organismos internacionales, y la sociedad civil, a través de asociaciones, comités de acción ciudadana, y con particulares, todos como órganos de apoyo, para impulsar el Programa de Desarrollo Cultural en el Estado.
+Para efectos del artículo anterior, el CECAN suscribirá los acuerdos o convenios necesarios que definan las líneas de coordinación con el Consejo Nacional para la Cultura y las Artes, el Instituto Nacional de Bellas Artes y Literatura, con el Instituto Nacional de Antropología e Historia, con organismos, dependencias y entidades federales y estatales, así como de organismos internacionales, y la sociedad civil, a través de asociaciones, comités de acción ciudadana, y con particulares, todos como órganos de apoyo, para impulsar el Programa de Desarrollo Cultural en el Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### Artículo 62.
 
-La Secretaría incorporará a cronistas, gestores y promotores culturales en el diseño, implementación, ejecución y evaluación de programas y proyectos de intervención cultural, y colaborará de manera activa con las instituciones académicas, universidades y centros culturales a fin de incluirlos en los programas de desarrollo cultural.
+El CECAN incorporará a cronistas, gestores y promotores culturales en el diseño, implementación, ejecución y evaluación de programas y proyectos de intervención cultural, y colaborará de manera activa con las instituciones académicas, universidades y centros culturales a fin de incluirlos en los programas de desarrollo cultural.
 
-Para el caso de los cronistas, éstos deberán ser personas que se distingan por sus conocimientos en la historia y cultura de la ciudad, sean profesionales en el área y que tengan vocación por recopilar y sistematizar la información que permita la compresión de los fundamentos histórico-culturales de Nayarit.
-
-Cuando un cronista deje de fungir en los términos previstos por la presente ley, deberá entregar los archivos, documentos y equipos que estén bajo su custodia, así como los trabajos de investigación que haya realizado y formen parte del archivo que se encuentren pendientes por terminar.
-
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### Artículo 63.
 
-Cuando la Secretaría analice cuestiones culturales que por su relevancia requieran opiniones especializadas, podrá solicitar a través de su representante la opinión de las instituciones académicas de carácter público o privado, estatales, nacionales o internacionales
+Cuando el CECAN analice cuestiones culturales que por su relevancia requieran opiniones especializadas, podrá solicitar a través de su representante la opinión de las instituciones académicas de carácter público o privado, estatales, nacionales o internacionales.
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### Artículo 64.
 
-La Secretaría deberá estimular la participación de nuevas expresiones sociales que generen y difundan la creación cultural del Estado, propiciando los mecanismos adecuados que faciliten el acceso de la comunidad en las tareas y discusiones en materia del fomento y desarrollo cultural.
+El CECAN deberá estimular la participación de nuevas expresiones sociales que generen y difundan la creación cultural del Estado, propiciando los mecanismos adecuados que faciliten el acceso de la comunidad en las tareas y discusiones en materia del fomento y desarrollo cultural.
 
 ###### Artículo 65.
 
 Los sectores público, y privado, en el ejercicio de sus respectivas funciones en materia artística y cultural, deben sujetarse a los principios de colaboración responsable entre todos los interesados.
 
-### Capítulo I. Relaciones de Colaboración
+### Capítulo II. La Participación Social
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### Artículo 66.
 
-Se considera indispensable la participación social para el fomento y desarrollo cultural, la cual se manifiesta a partir de la opinión, discusión, proposición, creación, organización y vinculación de las actividades culturales por parte de los habitantes del Estado, por lo que la Secretaría establecerá relaciones de colaboración con:
+Se considera indispensable la participación social para el fomento y desarrollo cultural, la cual se manifiesta a partir de la opinión, discusión, proposición, creación, organización y vinculación de las actividades culturales por parte de los habitantes del Estado, por lo que el CECAN establecerá relaciones de colaboración con:
 
 I. Sociedades civiles constituidas con finalidades culturales o vinculadas a la cultura;
 
@@ -663,33 +665,33 @@ V. Consejos consultivos;
 
 VI. Juntas de protección y conservación del patrimonio cultural, y
 
-VIl. Patronatos locales.
+VII. Patronatos locales.
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### Artículo 67.
 
-La Secretaría, a partir de la vinculación y con base en los mecanismos a los que se refiere esta ley, propiciará los espacios que faciliten la incorporación de las aportaciones que genere la participación social en el mejoramiento de las actividades institucionales y de desarrollo cultural.
+El CECAN, a partir de la vinculación y con base en los mecanismos a los que se refiere esta ley, propiciará los espacios que faciliten la incorporación de las aportaciones que genere la participación social en el mejoramiento de las actividades institucionales y de desarrollo cultural.
 
 ###### Artículo 68.
 
 La sociedad civil podrá apoyar las actividades de investigación, formación, capacitación y divulgación relativas a la cultura y vinculadas a los diversos sectores sociales que intervienen en su ejecución. Dicha participación deberá ser en todo momento de carácter voluntario y honorífico.
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### Artículo 69.
 
-Los Municipios y el Estado a través de la Secretaría, favorecerán la incorporación de los ciudadanos y vecinos a las tareas o actividades de desarrollo cultural a efecto de definir, promover, organizar, desarrollar y financiar actos y unidades culturales como: bibliotecas, museos, teatros, foros, y otros lugares o actividades análogas.
+los Municipios y el Estado a través del CECAN, favorecerán la incorporación de los ciudadanos y vecinos a las tareas o actividades de desarrollo cultural a efecto de definir, promover, organizar, desarrollar y financiar actos y unidades culturales como: bibliotecas, museos, teatros, foros, y otros lugares o actividades análogas.
 
 ## Título Sexto. Política Cultural y Vinculación con el Sistema Educativo
 
-### Capítulo II. La Participación Social
+### Capítulo I. Política Cultural
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### Artículo 70.
 
-El titular del Ejecutivo del Estado a través de la Secretaría deberá implementar una política cultural que atienda a los siguientes principios:
+El titular del Poder Ejecutivo del Estado a través del CECAN deberá implementar una política cultural que atienda a los siguientes principios:
 
 I. Permita crear las condiciones necesarias que garanticen los derechos culturales para todos los ciudadanos;
 
@@ -703,7 +705,7 @@ V. Contenga propuestas para la edición de material bibliográfico, hemerográfi
 
 VI. Emita los criterios mediante los cuales la autoridad competente ejecutará y evaluará la política cultural del estado y que sirva como base para la elaboración de los planes y programas estatales en materia de cultura;
 
-VIl. Fomente la libertad de expresión cultural, estimule la formación, actualización y profesionalización de los trabajadores de la cultura, de los investigadores, promotores, creadores e intérpretes;
+VII. Fomente la libertad de expresión cultural, estimule la formación, actualización y profesionalización de los trabajadores de la cultura, de los investigadores, promotores, creadores e intérpretes;
 
 VIII. Incorpore la cultura como un elemento sustantivo para el desarrollo integral de la sociedad, y
 
@@ -717,19 +719,17 @@ La política cultural contendrá las directrices generales, y su vigencia tender
 
 Para la ejecución de la política cultural del Estado se diseñará e instrumentará el Programa de Desarrollo Cultural que será de observancia general para todas las dependencias y entidades estatales, municipales y ciudadanos que habiten en la Entidad.
 
-### Capítulo I. Política Cultural
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+### Capítulo II. De la Vinculación del Sistema Educativo y la Cultura
 
 ###### Artículo 73.
 
 Se reconoce la importancia de propiciar en el sistema educativo la formación cultural, por lo que, a quienes participen en el proceso enseñanza-aprendizaje se les deberá otorgar las herramientas necesarias para un mejor conocimiento y comprensión de los fenómenos culturales y artísticos en la entidad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### Artículo 74.
 
-El titular del Poder Ejecutivo Estatal a través de la Secretaría establecerá los mecanismos necesarios a fin de incorporar en los organismos e instituciones educativas los programas de desarrollo cultural, los cuales deberán atender a las siguientes prescripciones:
+El titular del Poder Ejecutivo Estatal a través del CECAN establecerá los mecanismos necesarios a fin de incorporar en los organismos e instituciones educativas los programas de desarrollo cultural, los cuales deberán atender a las siguientes prescripciones:
 
 I. Promover la realización de actividades que permitan dar a conocer los valores culturales y el fortalecimiento de la identidad;
 
@@ -743,11 +743,11 @@ V. Contener la formación de públicos y difusión cultural, que permita poner a
 
 VI. Respetar y difundir las diferentes culturas que cohabitan el territorio estatal;
 
-VIl. Emitir directrices en materia de educación cultural y artística a través del diseño de esquemas curriculares y extracurriculares de sensibilización al arte y la cultura dirigidas a profesores y estudiantes de todos los niveles educativos en el Estado, y
+VII. Emitir directrices en materia de educación cultural y artística a través del diseño de esquemas curriculares y extracurriculares de sensibilización al arte y la cultura dirigidas a profesores y estudiantes de todos los niveles educativos en el Estado, y
 
 VIII. Establecer y apoyar actividades de indagación cultural en el ámbito educativo en todos los niveles, a fin se (sic) sensibilizar a la población estudiantil sobre las manifestaciones culturales de su entorno, como base de su identidad y cohesión social.
 
-### Capítulo II. De la Vinculación del Sistema Educativo y la Cultura
+### Capítulo III. Intervención Cultural
 
 ###### Artículo 75.
 
@@ -768,8 +768,6 @@ Los programas de intervención cultural deberán implementarse tomando en cuenta
 ## Título Séptimo. De los Recursos Administrativos
 
 ### Capítulo Único. Recursos Administrativos
-
-### Capítulo III. Intervención Cultural
 
 ###### Artículo 79.
 
@@ -792,5 +790,9 @@ Y en cumplimiento a lo dispuesto en la Fracción II del Articulo 69 de la Consti
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 23 DE NOVIEMBRE DE 2011.
+
+Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, órgano del Gobierno del Estado de Nayarit.
+
+P.O. 23 DE MARZO DE 2013.
 
 Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, órgano del Gobierno del Estado de Nayarit.
