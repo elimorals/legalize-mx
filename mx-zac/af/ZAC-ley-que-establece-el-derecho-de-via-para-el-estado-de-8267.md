@@ -4,7 +4,7 @@ identifier: "ZAC-ley-que-establece-el-derecho-de-via-para-el-estado-de-8267"
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-28"
-last_updated: "1984-01-28"
+last_updated: "2013-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8267&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ZAC"
 ---
 # LEY QUE ESTABLECE EL DERECHO DE VIA PARA EL ESTADO DE ZACATECAS
 
-LEY QUE ESTABLECE EL DERECHO DE VIA PARA EL ESTADO DE ZACATECAS
+LEY QUE ESTABLECE EL DERECHO DE VÍA PARA EL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el sábado 28 de enero de 1984.
 
@@ -61,13 +61,17 @@ Para los efectos de esta Ley se entiende por derecho de vía el dominio y la fac
 
 La construcción de caminos vecinales, municipales, estatales o en cooperación con la Federación se realizarán en el terreno que corresponda al derecho de vía, el cual se adquirirá previamente a la ejecución de la obra, mediante los procedimientos legales establecidos o bien por expropiación por causa de utilidad pública.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### ARTICULO 5.
 
-El ancho mínimo en los derechos de vía en los caminos vecinales, estatales o municipales será el que fije el proyecto de la obra previo acuerdo de la Junta Local de Caminos con el Gobierno del Estado. En lo que se refiere a los caminos de vía en cooperación con la federación, será el que fije la Secretaría correspondiente, la Secretaría de Comunicaciones y Transportes y el Gobierno del Estado.
+El ancho mínimo en los derechos de vía en los caminos vecinales, estatales o municipales será el que fije el proyecto de la obra, previo acuerdo de la Secretaría de Infraestructura. En lo que se refiere a los caminos de vía en cooperación con la federación, será el que fije la Secretaría correspondiente, la Secretaría de Comunicaciones y Transportes y el Gobierno del Estado.
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### ARTICULO 6.
 
-Respecto de caminos estatales, municipales o vecinales, las Direcciones de Planeación y Desarrollo Urbano, de Programación y Fomento Económico, Comité de Planeación para el Desarrollo de Zacatecas, en coordinación con la Junta Local de Caminos, de acuerdo con los planes estatal y municipal de desarrollo, los estudios técnicos que se realicen, el Ejecutivo podrá fijar limitaciones a las construcciones que se lleven al cabo en fajas de diez metros de ancho a cada lado del derecho de vía a que se refiere el artículo anterior.
+Respecto de caminos estatales, municipales o vecinales, el Ejecutivo, a través de la Secretaría de Infraestructura, con base en los estudios técnicos que se realicen, podrá fijar limitaciones a las construcciones que se lleven a cabo en fajas de diez metros de ancho a cada lado del derecho de vía a que se refiere el artículo anterior.
 
 ###### ARTICULO 7.
 
@@ -130,3 +134,23 @@ LIC. JOSE GUADALUPE CERVANTES CORONA
 EL DIRECTOR GENERAL DE GOBIERNO
 
 LIC. RAUL RODRIGUEZ SANTOYO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE MARZO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, el Ejecutivo del Estado deberá actualizar la reglamentación de conformidad con el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, los Ayuntamientos deberán establecer su Gaceta Municipal.
+
+###### ARTÍCULO CUARTO.
+
+Los Ayuntamientos, en el término de ciento veinte días naturales a partir de la vigencia del presente Decreto, deberán publicar en sus Gacetas Municipales y en el Periódico Oficial, Órgano del Gobierno del Estado, todas las disposiciones normativas de carácter general que hayan sido generadas antes de la entrada en vigor del presente Decreto. Remitiendo en medio impreso y de forma magnética los instrumentos jurídicos a la Coordinación General Jurídica del Gobierno del Estado para su trámite de publicación.
