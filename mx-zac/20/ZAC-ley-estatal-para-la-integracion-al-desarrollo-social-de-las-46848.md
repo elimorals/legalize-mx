@@ -4,7 +4,7 @@ identifier: "ZAC-ley-estatal-para-la-integracion-al-desarrollo-social-de-las-468
 country: "mx"
 rank: "ley"
 publication_date: "2005-11-05"
-last_updated: "2012-08-04"
+last_updated: "2013-03-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46848&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY ESTATAL PARA LA INTEGRACIÓN AL DESARROLLO SOCIAL DE LAS PERSONAS CON DISCAP
 
 > <small>N. DE E. DE CONFORMIDAD CON EL DECRETO NÚMERO 378 POR EL QUE SE EXPIDE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE ZACATECAS, P.O. 4 DE AGOSTO DE 2012, Y CON RELACIÓN A LO DISPUESTO POR EL ARTÍCULO CUARTO TRANSITORIO; NO ES POSIBLE APLICAR CON EXACTITUD LA DEROGACIÓN AL CAPÍTULO TERCERO, TODA VEZ QUE NO ES PRECISO EN SEÑALAR A QUE TÍTULO CORRESPONDE.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2013.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 5 de noviembre de 2005.
 
@@ -143,7 +143,9 @@ III. Minusvalidez: incapacidad que constituye una desventaja para una persona, e
 
 Para los efectos de esta ley, se entenderá por:
 
-I. Comisión: La Comisión Estatal para la Integración Social de las Personas con Discapacidad;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+l. Subsecretaría: La Subsecretaría de las Personas con Discapacidad;
 
 II. Discapacidad Física: la que manifiesta alguna deficiencia que obstaculiza o impide realizar diferentes acciones o actividades habituales;
 
@@ -171,7 +173,9 @@ XIII. Barreras Arquitectónicas: obstáculos que dificultan, entorpecen o impide
 
 XIV. Educación Especial: conjunto de servicios, programas, orientación y recursos educativos especializados, que están a disposición de las personas con discapacidad;
 
-XV. Secretaria: Secretaría de Planeación y Desarrollo Regional;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+XV. Secretaría: Secretaría de Desarrollo Social;
 
 XVI. Convención Interamericana: La Convención Interamericana para la eliminación de todas las formas de discriminación contra las personas con discapacidad de la Organización de los Estados Americanos; y
 
@@ -237,7 +241,9 @@ III. Elaborar estudios e investigaciones en la materia;
 
 IV. Participar en la evaluación de políticas públicas relacionadas con las personas con discapacidad;
 
-V. Proponer a la Directora o Director General de la Comisión, planes, programas y proyectos para el cumplimiento de su objeto; y
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+V. Proponer a la Secretaría a través de la Subsecretaría, planes, programas y proyectos para el cumplimiento de su objeto; y
 
 VI. Las demás que la presente ley y su reglamento le confieran.
 
@@ -309,209 +315,69 @@ Las bases y modalidades del ejercicio coordinado de las atribuciones de los gobi
 
 El Ejecutivo del Estado, podrá celebrar convenios de coordinación y colaboración con los Gobiernos Federal, Estatales y con organizaciones sociales, públicas o privadas, en materia de asistencia para las personas con discapacidad.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE MARZO DE 2013)</small>
+
 ### CAPÍTULO III. De la Comisión Estatal para la Integración Social de las Personas con Discapacidad
 
 ### CAPÍTULO IV. Del Patrimonio de la Comisión
 
 ###### Artículo 16.
 
-La Comisión Estatal para la Integración Social de las Personas con Discapacidad, es un organismo público descentralizado de la administración pública estatal, con personalidad jurídica y patrimonio propio, con domicilio legal en la ciudad de Zacatecas. Tendrá a su cargo la aplicación y vigilancia de esta ley y coordinará a las instituciones públicas y a los organismos sociales de las personas con discapacidad, que persigan los fines que de esta normatividad se derivan, en concordancia con la Secretaria de Planeación y Desarrollo Regional. Dicha Comisión se conocerá por las siglas CEISD.
+(DEROGADO, P.O. 23 DE MARZO DE 2013)
 
 ###### Artículo 17.
 
-Son atribuciones y obligaciones de la Comisión, las siguientes:
-
-I. Planear y ejecutar programas de prevención, rehabilitación e inclusión social en coordinación con los sectores público, social y privado;
-
-II. Programar acciones de difusión masiva sobre la cultura, dignidad y respeto a los derechos de las personas con discapacidad;
-
-III. Promover actividades técnicas y científicas relacionadas con la promoción, prevención, rehabilitación e inclusión social;
-
-IV. Constituir el Padrón Estatal de las Personas con Discapacidad y vigilar su permanente actualización, así como el de las organizaciones e instituciones dedicadas a la habilitación y rehabilitación de personas con discapacidad;
-
-V. Evaluar la calidad de los servicios que se prestan en el Estado, a través de otras instituciones, proporcionando el informe a la Titular del Ejecutivo;
-
-VI. Coadyuvar en el diseño de las políticas públicas que en materia de discapacidad se deberán implementar en el Estado;
-
-VII. Opinar sobre la viabilidad de colocación de rampas y cajones de estacionamiento reservados para personas con discapacidad, apoyándose para ello en estándares internacionales;
-
-VIII. Vigilar las condiciones de accesibilidad en la vía pública, promoviendo la eliminación de barreras arquitectónicas;
-
-IX. Celebrar convenios de colaboración y coordinación con organismos internacionales, federales, estatales y municipales, así como con los sectores social y privado;
-
-X. Vigilar y hacer cumplir esta ley y denunciar su incumplimiento ante las autoridades competentes; y
-
-XI. Las demás que le confiera esta ley, su estatuto orgánico y demás disposiciones aplicables.
+(DEROGADO, P.O. 23 DE MARZO DE 2013)
 
 ###### Artículo 18.
 
-La Comisión contará con los órganos siguientes:
-
-I. Una Junta de Gobierno;
-
-II. Una Dirección General;
-
-III. Una Secretaría Técnica;
-
-IV. Un Comisariato; y
-
-V. Las unidades administrativas que señale el Estatuto Orgánico y autorice el presupuesto.
+(DEROGADO, P.O. 23 DE MARZO DE 2013)
 
 ###### Artículo 19.
 
-La Junta de Gobierno es el órgano superior de la Comisión y estará integrada de la siguiente manera:
-
-I. Una Presidenta o Presidente que será la Titular o el Titular de la SEPLADER;
-
-II. Una Secretaria o Secretario Técnico, que será la Directora o Director General de la Comisión; y
-
-III. Los siguientes vocales:
-
-a) La Presidenta o Presidente del Sistema Estatal para el Desarrollo Integral de la Familia;
-
-b) La Presidenta o Presidente del Consejo Estatal de las Personas con Discapacidad;
-
-c) El o la Titular de los Servicios de Salud;
-
-d) El Secretario o la Secretaria de Educación y Cultura;
-
-e) El Secretario o Secretaria de Obras Públicas;
-
-f) El Coordinador o la Coordinadora General del Centro de Rehabilitación Especial;
-
-g) El Director o Directora de Trabajo y Previsión Social;
-
-h) Un representante de los organismos de la iniciativa privada; y
-
-i) Dos representantes de las organizaciones no gubernamentales de personas con discapacidad, designados por el Consejo Estatal de Personas con Discapacidad.
-
-Se invitará en calidad de vocales, a las Delegadas o Delegados estatales de los Institutos Mexicano del Seguro Social y de Seguridad y Servicios Sociales para los Trabajadores del Estado, así como al Delegado o Delegada de la Secretaría de Desarrollo Social.
+(DEROGADO, P.O. 23 DE MARZO DE 2013)
 
 ###### Artículo 20.
 
-La Junta de Gobierno sesionará de conformidad con las bases que establezca el estatuto orgánico de la Comisión.
+(DEROGADO, P.O. 23 DE MARZO DE 2013)
 
 ###### Artículo 21.
 
-La Junta de Gobierno tendrá las siguientes funciones:
-
-I. Aprobar, de acuerdo a los planes y programas del sector de desarrollo social los programas de trabajo prioritarios, el manejo de sus finanzas y la administración general;
-
-II. Aprobar el proyecto de presupuesto anual de ingresos y egresos de la Comisión;
-
-III. Aprobar las cuotas de recuperación de aquellos servicios que así lo ameriten y los porcentajes de apoyo en la adaptación de ayudas técnicas;
-
-IV. Analizar y aprobar la utilización de recursos crediticios, internos y externos, para el financiamiento de la Comisión, sujetándose a la observancia de los lineamientos que dicten las autoridades competentes en materia financiera;
-
-V. Expedir las normas o bases generales conforme a las cuales la Directora o Director General pueda disponer, cuando fuere necesario, del activo fijo de la Comisión que no corresponda a las acciones objeto de la misma;
-
-VI. Aprobar anualmente los estados financieros de la Comisión, el informe del órgano de vigilancia y en su caso, el dictamen de las auditorías externas, ordenando la publicación de los mismos;
-
-VII. Aprobar los convenios, acuerdos o contratos que celebre la Comisión con terceros, en obra pública, adquisiciones, arrendamientos y prestaciones de servicios;
-
-VIII. Aprobar el estatuto orgánico de la Comisión;
-
-IX. Aprobar el monto de los sueldos y prestaciones de quienes laboren en la Comisión, autorizando los aumentos o modificaciones de los mismos, conforme a las disposiciones presupuestales;
-
-X. Conceder licencia a la Directora o Director General de la Comisión y a la Secretaria o Secretario de la misma;
-
-XI. Analizar y aprobar los informes periódicos que rinda la Directora o Director General;
-
-XII. Aprobar las normas y bases relativas a donativos y aportaciones, verificando su aplicación a los fines señalados por los donantes;
-
-XIII. Discutir y aprobar los requisitos y condiciones para cancelar adeudo a cargo de terceros a favor de la Comisión cuando fuera notoria la imposibilidad práctica de su cobro, rindiendo para ello, informe a la Secretaría de Finanzas y a la Contraloría Interna del Estado, por conducto de la Secretaría; y
-
-XIV. Las demás que le confiera esta ley, su estatuto orgánico y demás disposiciones aplicables.
+(DEROGADO, P.O. 23 DE MARZO DE 2013)
 
 ###### Artículo 22.
 
-La administración de la Comisión estará a cargo de:
-
-I. Una Directora o Director General, que será designado por el Ejecutivo del Estado de una terna propuesta por la Junta de Gobierno, nombramiento que preferentemente deberá recaer en una persona con discapacidad y que deberá reunir los requisitos establecidos en la Ley Orgánica de la Administración Pública del Estado; y
-
-II. Una Secretaria o Secretario Técnico, designado por la Junta de Gobierno a propuesta de la Directora o Director General, debiendo recaer el nombramiento en algún familiar de persona con discapacidad o bien en una persona destacada en el campo profesional o asociativo a favor de este sector.
+(DEROGADO, P.O. 23 DE MARZO DE 2013)
 
 ###### Artículo 23.
 
-Son facultades y obligaciones de la Directora o Director General de la Comisión, las siguientes:
-
-I. Asumir las funciones de administración y representación legal de la Comisión;
-
-II. Formular y presentar para la aprobación de la Junta de Gobierno, los planes y programas de la Comisión;
-
-III. Formular el proyecto de presupuesto anual de ingresos y egresos conforme a los objetivos trazados en el programa operativo anual, identificando los ingresos provenientes de las cuotas de recuperación y de aportaciones internas y externas, así como las asignaciones presupuestales estatales;
-
-IV. Administrar y ejercer, de acuerdo a las normas aprobadas por las instancias respectivas, los recursos asignados en el presupuesto de egresos;
-
-V. Ejecutar los acuerdos, convenios y contratos de obra pública, arrendamiento y servicios aprobados por la Junta de Gobierno;
-
-VI. Proponer a la Junta de Gobierno, el nombramiento y remoción del personal de confianza y a los trabajadores de base de acuerdo a la Ley del Servicio Civil del Estado de Zacatecas;
-
-VII. Establecer los mecanismos para la adecuada prestación de servicios con los diferentes organismos del Estado, instancias federales y privadas, ya sean propios o convenidos;
-
-VIII. Presentar el informe de actividades, avance de programas operativos y estados financieros, con las observaciones que se estimen pertinentes a la Junta de Gobierno para su aprobación;
-
-IX. Establecer mecanismos para evaluar la eficiencia y eficacia de los servicios que brinde la Comisión;
-
-X. Dar cumplimiento a los acuerdos que dicte la Junta de Gobierno;
-
-XI. Coordinar las acciones de los comisionados municipales; y
-
-XII. Las demás que le confiera esta ley y demás disposiciones aplicables.
+(DEROGADO, P.O. 23 DE MARZO DE 2013)
 
 ###### Artículo 24.
 
-Son facultades y obligaciones de la Secretaria o Secretario Técnico:
-
-I. Acordar con la Directora o Director General, los sistemas y procedimientos de trabajo que permitan eficientar en tiempo y forma sus actividades;
-
-II. Cumplir y dar seguimiento a las instrucciones giradas por la Directora o el Director General respecto al ejercicio de sus funciones;
-
-III. Fungir de enlace operativo entre la Directora o Director General y los demás servidores públicos de la Comisión;
-
-IV. Registrar los acuerdos que se suscriban en las reuniones de trabajo, tanto al interior como al exterior de la Comisión;
-
-V. Vigilar el eficaz funcionamiento de la Comisión en las ausencias de la Directora o Director General; y
-
-VI. Las demás que le confiera la Directora o Director General, el Estatuto Orgánico y demás disposiciones aplicables.
+(DEROGADO, P.O. 23 DE MARZO DE 2013)
 
 ###### Artículo 25.
 
-El Órgano de Vigilancia estará integrado por una Comisaría o Comisario propietario y un suplente, designados por la Contraloría Interna del Gobierno del Estado.
+(DEROGADO, P.O. 23 DE MARZO DE 2013)
 
 ###### Artículo 26.
 
-Son facultades del órgano de vigilancia:
+(DEROGADO, P.O. 23 DE MARZO DE 2013)
 
-I. Fiscalizar y evaluar el desempeño general y funciones de la Comisión;
-
-II. Efectuar o solicitar auditorias y evaluar el ejercicio presupuestal;
-
-III. Asistir con derecho a voz a las sesiones de la Junta de Gobierno;
-
-IV. Evaluar los informes presentados por la Directora o Director General; y
-
-V. Las demás que le asigne la Contraloría Interna del Gobierno del Estado.
-
-Para el cumplimiento de sus funciones, la Junta de Gobierno y la Directora o el Director General, deberán proporcionar la información que el Órgano de Vigilancia o los auditores externos soliciten.
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE MARZO DE 2013)</small>
 
 ### CAPÍTULO I. De las Áreas de Atención
 
 ###### Artículo 27.
 
-El patrimonio de la Comisión estará constituido por:
-
-I. Los bienes muebles e inmuebles, ingresos, derechos y servicios con que actualmente cuenta;
-
-II. Las aportaciones, subsidios, bienes muebles e inmuebles y demás ingresos, derechos y servicios que los gobiernos federal, estatal o municipales le otorguen o destinen;
-
-III. Los fondos que provengan de organismos no gubernamentales y organizaciones sociales en general; y
-
-IV. Los demás que adquiera por cualquier título legal.
+(DEROGADO, P.O. 23 DE MARZO DE 2013)
 
 ## TÍTULO CUARTO. Del Sistema Estatal de Prestación de Servicios
 
-### CAPÍTULO II. De los Ayuntamientos y Comisionados Municipales
+### CAPÍTULO II. De los Ayuntamientos y Unidades Administrativas Municipales
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### Artículo 28.
 
@@ -533,19 +399,25 @@ VII. Desarrollo y asistencia social; y
 
 VIII. Seguridad Jurídica.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE MARZO DE 2013)</small>
+
 ### CAPÍTULO III. Del Plan Estatal de Prevención
 
 ###### Artículo 29.
 
-Los ayuntamientos de los Municipios del Estado, procurarán la creación de una unidad administrativa encargada de la atención de las personas con discapacidad, designando a una Comisionada o Comisionado Municipal de la Comisión, quien preferentemente será una persona con discapacidad.
+Los Ayuntamientos de los Municipios del Estado, procurarán la creación de una Unidad Administrativa encargada de la atención de las personas con discapacidad. El titular de dicha Unidad deberá ser preferentemente una persona con discapacidad.
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### Artículo 30.
 
-La Comisionada o el Comisionado Municipal, deberá mantener vinculación directa con la Comisión, con la finalidad de acercar los servicios y beneficios de los programas para la integración de las personas con discapacidad en su Municipio.
+La Unidad Administrativa Municipal, deberá mantener vinculación directa con la Subsecretaría con la finalidad de acercar los servicios y beneficios de los programas para la integración de las personas con discapacidad en su Municipio.
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### Artículo 31.
 
-La Comisionada o Comisionado Municipal, tendrá a su cargo la operación de las estrategias y acciones específicas que dicte la Comisión, para dar atención a las necesidades identificadas de una manera adecuada y oportuna.
+La Unidad Administrativa Municipal, tendrá a su cargo la operación de las estrategias y acciones específicas que dicte la Subsecretaria, para dar atención a las necesidades identificadas de una manera adecuada y oportuna.
 
 ###### Artículo 32.
 
@@ -569,25 +441,35 @@ VIII. Difundir los programas que contribuyan al desarrollo integral de las perso
 
 IX. Proporcionar asistencia psicológica y asesoría jurídica, a través de los Sistemas Municipales para el Desarrollo Integral de la Familia;
 
-X. Integrar, actualizar y enviar los censos municipales de las personas con discapacidad a la Comisión y otros organismos que lo soliciten;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+X. Integrar, actualizar y enviar los censos municipales de las personas con discapacidad a la Secretaría a través de la Subsecretaría y otros organismos que lo soliciten;
 
 XI. Recibir y transmitir capacitación sobre los diversos temas relativos a la discapacidad;
 
-XII. Realizar, de acuerdo con su capacidad humana y de infraestructura, estudios socioeconómicos, investigaciones de campo y colaterales a las personas con discapacidad, con la finalidad de conseguir que, a través de la Comisión y otras instituciones, se otorgue atención y apoyos;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
 
-XIII. Operar los programas de atención y apoyo de conformidad con los lineamientos expedidos por la Comisión; y
+XII. Realizar, de acuerdo con su capacidad humana y de infraestructura, estudios socioeconómicos, investigaciones de campo y colaterales a las personas con discapacidad, con la finalidad de conseguir que, a través de la Subsecretaría y otras instituciones, se otorgue atención y apoyos;
+
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+XIII. Operar los programas de atención y apoyo de conformidad con los lineamientos expedidos por la Subsecretaría; y
 
 XIV. Las demás que determine esta ley y otras disposiciones aplicables.
 
 ### CAPÍTULO IV. Del Sistema Estatal para el Desarrollo Integral de la Familia
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 33.
 
 Para los efectos de esta ley, la prevención comprende tanto las medidas tendientes a evitar las causas de las deficiencias que pueden ocasionar discapacidad, como las destinadas a evitar su progresión o derivación en otras discapacidades.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 34.
 
-El Ejecutivo del Estado, a través de los Servicios de Salud, la Comisión y los organismos no gubernamentales, elaborará el Plan Estatal de Prevención de las Discapacidades, en el que deberán participar las dependencias y organismos de los gobiernos Estatal y Municipales.
+El Ejecutivo del Estado, a través de los Servicios de Salud, la Unidad de Planeación del Titular del Poder Ejecutivo, la Subsecretaría y los organismos no gubernamentales, elaborará el Plan Estatal de Prevención de las Discapacidades, en el que deberán participar las dependencias y organismos de los gobiernos Estatal y Municipales.
 
 ###### Artículo 35.
 
@@ -613,7 +495,7 @@ VIII. Se contemplarán de modo específico las acciones destinadas a las zonas r
 
 ###### Artículo 36.
 
-El Sistema Estatal para el Desarrollo Integral de la Familia en coordinación con la Comisión pondrá a disposición de las personas con discapacidad los servicios de asistencia social alimentaria, educativa, de apoyo especial, de rehabilitación, social, cultural y todos aquellos que favorezcan a su desarrollo pleno.
+El Sistema Estatal para el Desarrollo Integral de la Familia en coordinación con la Subsecretaría pondrá a disposición de las personas con discapacidad los servicios de asistencia social alimentaria, educativa, de apoyo especial, de rehabilitación, social, cultural y todos aquellos que favorezcan a su desarrollo pleno.
 
 ###### Artículo 37.
 
@@ -635,13 +517,17 @@ c) Educativo.- En el que se determinará el nivel de estudios alcanzados y los n
 
 d) Socioeconómico.- Para determinar las condiciones sociales y económicas, en que se encuentra la persona con discapacidad y el grado de apoyo que requiera para su rehabilitación e integración social.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 38.
 
-La Comisión, con base en el diagnóstico emitido por el Centro de Rehabilitación y Educación Especial (CREE) o los Servicios de Salud en el Estado, certificará la presunta discapacidad, determinará el tipo y grado de los beneficios y servicios que deban asignarse en cada caso. Lo anterior sin prejuicio de las que emitan otros organismos legalmente facultados para ello.
+La Subsecretaría, con base en el diagnóstico emitido por el Centro de Rehabilitación y Educación Especial (CREE) o los Servicios de Salud en el Estado, certificará la presunta discapacidad, determinará el tipo y grado de los beneficios y servicios que deban asignarse en cada caso. Lo anterior sin prejuicio de las que emitan otros organismos legalmente facultados para ello.
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### Artículo 39.
 
-La calificación y certificación de discapacidad que realice la Comisión, tendrá validez ante cualquier organismo público o privado del Estado de Zacatecas.
+La calificación y certificación de discapacidad que realice la Subsecretaría, tendrá validez ante cualquier organismo público o privado del Estado de Zacatecas.
 
 ### CAPÍTULO VI. De las Unidades Básicas de Rehabilitación
 
@@ -677,9 +563,11 @@ IV. Canalización hacia organismos especializados, ya sea públicos o privados, 
 
 V. Las demás que les otorgue esta ley y otras disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 42.
 
-Cada Unidad Básica de Rehabilitación (UBR), elaborará un programa de prestación de servicios de acuerdo con las condiciones y necesidades de su región, el cual se hará del conocimiento de la Comisión, la que deberá vigilar su cumplimiento.
+Cada Unidad Básica de Rehabilitación (UBR), elaborará un programa de prestación de servicios de acuerdo con las condiciones y necesidades de su región, el cual se hará del conocimiento de la Subsecretaría, la que deberá vigilar su cumplimiento.
 
 ### CAPÍTULO VIII. De la Orientación y Tratamiento Psicológico
 
@@ -727,17 +615,23 @@ El apoyo y orientación psicológica, tendrán en cuenta las características de
 
 La educación que imparta y regule el Estado deberá incluir a las personas con discapacidad, contribuyendo a su desarrollo integral y a potenciar y ejercer plenamente sus capacidades, habilidades y aptitudes.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 51.
 
-Con el fin de contribuir al desarrollo integral de las personas con discapacidad, en un adecuado ámbito educativo, la Secretaría de Educación y Cultura, deberá facilitar las condiciones necesarias para adecuar los espacios físicos de acceso y recreativos en las escuelas.
+Con el fin de contribuir al desarrollo integral de las personas con discapacidad, en un adecuado ámbito educativo, la Secretaría de Educación, deberá facilitar las condiciones necesarias para adecuar los espacios físicos de acceso y recreativos en las escuelas.
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### Artículo 52.
 
-La Secretaría de Educación y Cultura deberá atender a menores con discapacidad en los centros de desarrollo infantil y guarderías públicas y promover su inclusión en las privadas.
+La Secretaría de Educación deberá atender a menores con discapacidad en los centros de desarrollo infantil y guarderías públicas y promover su inclusión en las privadas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### Artículo 53.
 
-Serán responsabilidades de la Secretaría de Educación y Cultura, en materia de apoyo a las personas con discapacidad, las siguientes:
+Serán responsabilidades de la Secretaría de Educación, en materia de apoyo a las personas con discapacidad, las siguientes:
 
 I. Brindar educación básica para las personas con discapacidad, a través de la educación regular y especial;
 
@@ -821,13 +715,17 @@ El Estado y los ayuntamientos promoverán que a las personas con discapacidad, s
 
 El Estado y los ayuntamientos, a través de sus instituciones culturales, artísticas, deportivas y de recreación, elaborarán programas específicos que fomenten la participación de las personas con discapacidad. Estos programas deberán incluir la realización de encuentros deportivos, visitas guiadas, campamentos, talleres y cursos artísticos; así como el uso de lenguaje braille, lenguaje de señas y otros semejantes.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 65.
 
-La Secretaría de Educación y Cultura, el Instituto Zacatecano de Cultura "Ramón López Velarde", el Instituto de la Juventud y el Instituto del Deporte, en coordinación con la Comisión, serán los organismos encargados de crear y promover los programas específicos a que se refiere el presente capítulo.
+La Secretaría de Educación, el Instituto Zacatecano de Cultura “Ramón López Velarde”, la Secretaría de Desarrollo Social, el Instituto de Cultura Física y Deporte del Estado de Zacatecas, en coordinación con la Subsecretaría, serán los organismos encargados de crear y promover los programas específicos a que se refiere el presente capítulo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### Artículo 66.
 
-El Instituto Zacatecano de Cultura en coordinación con la Comisión, diseñará un Programa de Desarrollo Cultural para las personas con discapacidad, en el que se incluirán las siguientes acciones:
+El Instituto Zacatecano de Cultura “Ramón López Velarde” en coordinación con la Subsecretaría, diseñará un Programa de Desarrollo Cultural para las personas con discapacidad, en el que se incluirán las siguientes acciones:
 
 I. Implementación de talleres de capacitación artística en que se incluyan a personas con discapacidad;
 
@@ -835,9 +733,11 @@ II. Fortalecimiento de las actividades artísticas vinculadas con las personas c
 
 III. Promoción del uso de las tecnologías en cinematografía y teatro que faciliten la adecuada comunicación de su contenido a personas con discapacidad.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 67.
 
-El Instituto del Deporte de Zacatecas en coordinación con la Comisión y los gobiernos municipales deberán elaborar el Programa Estatal del Deporte Paralímpico.
+El Instituto de Cultura Física y Deporte del Estado de Zacatecas en coordinación con la Subsecretaría, la Unidad de Planeación del Titular del Poder Ejecutivo y los gobiernos municipales deberán elaborar el Programa Estatal del Deporte Paraolímpico.
 
 ### CAPÍTULO XII. De la Rehabilitación Socioeconómica
 
@@ -847,9 +747,13 @@ Con fundamento en la legislación laboral vigente, en la Convención Interameric
 
 I. Promover el establecimiento de políticas, en materia de trabajo encaminadas a la integración laboral de las personas con discapacidad;
 
-II. Fomentar con el apoyo de la Comisión la firma de convenios y acuerdos de cooperación e información sobre generación de empleo, capacitación, adiestramiento y financiamiento para las personas con discapacidad, ante otras instancias de gobierno y organizaciones de la sociedad civil;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
 
-III. Impulsar en coordinación con la Comisión el empleo, capacitación y adiestramiento de las personas con discapacidad, a través de:
+II. Fomentar con el apoyo de la Secretaría a través de la Subsecretaría la firma de convenios y acuerdos de cooperación e información sobre generación de empleo, capacitación, adiestramiento y financiamiento para las personas con discapacidad, ante otras instancias del gobierno y organizaciones de la sociedad civil;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+
+III. Impulsar en coordinación con la Secretaría a través de la Subsecretaría el empleo, capacitación y adiestramiento de las personas con discapacidad, a través de:
 
 a) La elaboración de programas estatales de empleo y capacitación para la población con discapacidad; y
 
@@ -863,11 +767,15 @@ VI. Capacitar en materia de discapacidad, a los sectores empresarial y comercial
 
 VII. Promover la incorporación de las personas con discapacidad en igualdad de circunstancias, conocimiento y experiencia, en las instancias de la administración pública estatal y municipal, hasta alcanzar por lo menos el 5% de la planta laboral;
 
-VIII. Establecer en coordinación con la Comisión, la Secretaría y las Secretarías de Finanzas y de Desarrollo Económico, así como con la colaboración de las Secretarías Federales de Desarrollo Social, del Trabajo y Previsión Social y de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, mecanismos de financiamiento, subsidio o inversión, para la ejecución de proyectos productivos y sociales, propuestos por las organizaciones civiles para las personas con discapacidad;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+VIII. Establecer en coordinación con la Secretaría a través de la Subsecretaría, la Secretaría, la Secretaría de Finanzas y la Secretaría de Economía, así como con la colaboración de las Secretarías Federales de Desarrollo Social, Del Trabajo y de Previsión Social y de Agricultura, Ganadería y Desarrollo Rural, Pesca y Alimentación, mecanismos de financiamiento, subsidio o inversión, para la ejecución de proyectos productivos y sociales, propuestos por las organizaciones civiles para las personas con discapacidad;
 
 IX. Vigilar y sancionar en su caso, que las condiciones en que las personas con discapacidad desempeñan su trabajo, no sean discriminatorias;
 
-X. Gestionar en colaboración con la Comisión, el otorgamiento de incentivos fiscales y subsidios a las personas físicas o morales, que contraten personas con discapacidad, así como beneficios adicionales para quienes en virtud de tales contrataciones, realicen adaptaciones, eliminen barreras físicas o rediseñen sus áreas de trabajo; y
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+X. Gestionar en colaboración con la Subsecretaría, el otorgamiento de incentivos fiscales y subsidios a las personas físicas o morales, que contraten personas con discapacidad, así como beneficios adicionales para quienes en virtud de tales contrataciones, realicen adaptaciones, eliminen barreras físicas y rediseñen sus áreas de trabajo, y
 
 XI. Las demás que le confieran esta ley y otros ordenamientos legales sobre la materia.
 
@@ -881,13 +789,17 @@ La finalidad primordial de la política de empleo a trabajadores con alguna disc
 
 Se fomentará el empleo de las personas con alguna discapacidad, mediante el establecimiento de sistemas que faciliten su integración laboral; éstos podrán consistir en subvenciones o préstamos para la adaptación de los centros de trabajo, la eliminación de accesos o barreras arquitectónicas que dificulten su movilidad en centros de producción y la posibilidad de establecerse como trabajadores autónomos.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 71.
 
-La Dirección de Trabajo y Previsión Social y la Comisión, así como los Municipios, a través de los Sistemas para el Desarrollo Integral de la Familia, diseñarán y ejecutarán programas de promoción de empleo, a través de una bolsa de trabajo.
+La Dirección de Trabajo y Previsión Social y la Subsecretaría, así como los Municipios, a través de los Sistemas para el Desarrollo Integral de la Familia, diseñarán y ejecutarán programas de promoción de empleo, a través de una bolsa de trabajo.
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### Artículo 72.
 
-Se crearán centros especiales de ocupación, cuyo objetivo principal será asegurar un empleo remunerado al garantizar trabajo productivo al personal con alguna discapacidad, cuya promoción y apoyo técnico dependerá de la Comisión.
+Se crearán centros especiales de ocupación, cuyo objetivo principal será asegurar un empleo remunerado al garantizar trabajo productivo al personal con alguna discapacidad, cuya promoción y apoyo técnico dependerá de la Subsecretaría.
 
 ###### Artículo 73.
 
@@ -901,17 +813,21 @@ Sin prejuicio de la función social que los centros especiales de empleo han de 
 
 Los centros especiales de empleo, podrán ser creados por la autoridad pública, o bien, por organismos o personas físicas interesadas en respaldar estos programas.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 76.
 
-Las personas con discapacidad que deseen ingresar a un centro especial de empleo, deberán inscribirse en las oficinas que para tal efecto señalen la Comisión y la Dirección de Trabajo y Previsión Social, las que clasificarán a los demandantes de empleo en razón al grado y tipo de discapacidad.
+Las personas con discapacidad que deseen ingresar a un centro especial de empleo, deberán inscribirse en las oficinas que para tal efecto señalen la Subsecretaría y la Dirección de Trabajo y Previsión Social, las que clasificarán a los demandantes de empleo en razón al grado y tipo de discapacidad.
 
 ###### Artículo 77
 
 El trabajo que realice la persona con discapacidad en los centros especiales de empleo, deberá ser productivo y remunerado, adecuado a las características individuales del trabajador, a fin de favorecer su adaptación personal y social y facilitar su posterior integración laboral en el mercado ordinario de trabajo.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 78.
 
-La Comisión promoverá acuerdos y convenios con posibles empleadores tendientes a facilitar la oferta de empleos.
+La Subsecretaría promoverá acuerdos y convenios con posibles empleadores tendientes a facilitar la oferta de empleos.
 
 ### CAPÍTULO XIV. Movilidad y Barreras Arquitectónicas
 
@@ -945,11 +861,15 @@ Los servicios de información pública, deberán facilitar a las personas con di
 
 Sin perjuicio de la aplicación de las medidas previstas con carácter general en la presente Ley, y cuando la gravedad de la afección lo hiciera necesario, las personas con discapacidad tendrán derecho a residir y ser asistidas en un centro especializado.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 84.
 
-Los servicios de albergues y centros comunitarios, tienen como objeto atender las necesidades básicas de aquellas personas con discapacidad carentes de hogar y familia, o con graves problemas de integración familiar. Estos albergues y centros comunitarios, deberán ser promovidos por la administración pública estatal, organizaciones privadas o por las propias personas con discapacidad y sus familias. En este último caso, recibirán apoyo especial de la Comisión.
+Los servicios de albergues y centros comunitarios, tienen como objeto atender las necesidades básicas de aquellas personas con discapacidad carentes de hogar y familia, o con graves problemas de integración familiar. Estos albergues y centros comunitarios, deberán ser promovidos por la administración pública estatal, organizaciones privadas o por las propias personas con discapacidad y sus familias. En este último caso, recibirán apoyo especial de la Subsecretaría.
 
 ### CAPÍTULO XV. Del Servicio Público de Transporte y de los Programas de Educación Vial
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### Articulo 85.
 
@@ -981,9 +901,11 @@ b) Las instalaciones para espectáculos públicos tales como teatros, cines, lie
 
 c) Los estacionamientos tendrán zonas preferentes para vehículos en los que viajen personas con discapacidad, tanto en la vía pública como en lugares de acceso público.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 88.
 
-Para los efectos de los artículos anteriores, la Secretaría de Obras Públicas y los ayuntamientos, en el ámbito de su competencia, establecerá las normas urbanísticas y arquitectónicas básicas a que deben ajustarse los proyectos públicos y privados de:
+Para los efectos de los artículos anteriores, la Secretaría de Infraestructura y los ayuntamientos, en el ámbito de su competencia, establecerá las normas urbanísticas y arquitectónicas básicas a que deben ajustarse los proyectos públicos y privados de:
 
 I. Urbanización, fraccionamiento y construcción que se sometan a su aprobación;
 
@@ -995,13 +917,17 @@ III. Los proyectos de construcción de conjuntos habitacionales que constituyan 
 
 Las barreras arquitectónicas en los inmuebles del servicio público estatal o municipal, deberán ser eliminadas o en su caso, adaptadas para brindar el libre acceso a las personas con discapacidad. Será responsabilidad del servidor público titular de cada dependencia o entidad, el vigilar que los espacios antiguos, actuales y de nueva creación, cuenten con dicha especificación.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 90.
 
-Será responsabilidad de la Secretaria de Obras Públicas, la celebración de convenios con los ayuntamientos, para que en las vialidades antiguas, actuales y nuevas, se cuente con la accesibilidad adecuada para personas con discapacidad.
+Será responsabilidad de la Secretaría de Infraestructura, la celebración de convenios con los ayuntamientos, para que en las vialidades antiguas, actuales y nuevas, se cuente con la accesibilidad adecuada para personas con discapacidad.
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### Artículo 91.
 
-El Ejecutivo del Estado, a través del Consejo Promotor de la Vivienda Popular, instrumentará un programa de vivienda especial para personas con discapacidad, incluyendo en los proyectos arquitectónicos las especificaciones necesarias. En este programa se otorgarán facilidades a las personas con discapacidad para recibir créditos o subsidios para la adquisición, construcción o remodelación de vivienda.
+El Ejecutivo del Estado, a través de la Dependencia correspondiente, instrumentará un programa de vivienda especial para personas con discapacidad, incluyendo en los proyectos arquitectónicos las especificaciones necesarias. En este programa se otorgarán facilidades a las personas con discapacidad para recibir créditos o subsidios para la adquisición, construcción o remodelación de vivienda.
 
 ###### Artículo 92.
 
@@ -1011,17 +937,19 @@ Los ayuntamientos deberán prever en sus planes de desarrollo municipal, la adap
 
 ###### Artículo 93.
 
-La Dirección de Transporte Público y Vialidad, será la encargada de promover entre las y los concesionarios de transporte público, la utilización de unidades adaptadas para personas con discapacidad, en cada una de las rutas de transporte urbano y suburbano.
+La Dirección de Transporte, Tránsito y Vialidad, será la encargada de promover entre las y los concesionarios de transporte público, la utilización de unidades adaptadas para personas con discapacidad, en cada una de las rutas de transporte urbano y suburbano.
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### Artículo 94.
 
-La Comisión es la única instancia facultada para dotar de calcomanía, con el símbolo universal de discapacidad, a los vehículos que sean conducidos por personas con discapacidad o que les den servicio, a fin de que puedan hacer uso de los estacionamientos a ellos reservados.
+La Secretaría a través de la Subsecretaría es la única instancia facultada para dotar de calcomanía, con el símbolo universal de discapacidad, a los vehículos que sean conducidos por personas con discapacidad o que les den servicio, a fin de que puedan hacer uso de los estacionamientos a ellos reservados.
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### Artículo 95.
 
-El Ejecutivo del Estado, a través de la Dirección de Transporte Público y Vialidad, deberá incluir en las concesiones para el servicio de transporte público, la obligación de los concesionarios de otorgar hasta un 50% de descuento en el pago de pasaje que del transporte público realicen las personas con discapacidad, identificándose para ello, con la credencial que para este fin expida la Comisión y de acuerdo al grado de incapacidad que en ésta se señale.
+El Ejecutivo del Estado, a través de la Dirección de Transporte, Tránsito y Vialidad, deberá incluir en las concesiones para el servicio de transporte público, la obligación de los concesionarios de otorgar hasta un 50% de descuento en el pago del pasaje que del transporte público realicen las personas con discapacidad, identificándose para ello, con la credencial que para este fin expida la Secretaría a través de la Subsecretaría y de acuerdo al grado de incapacidad que en ésta se señale.
 
 ###### Artículo 96.
 
@@ -1035,9 +963,11 @@ II. Se deberá facilitar el acceso a las personas invidentes con sus perros guí
 
 III. Se realizarán programas de difusión y capacitación a conductoras o conductores sensibilizándolos en la atención a personas con discapacidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 97.
 
-El Ejecutivo del Estado, a través del (sic) Comisión y la Dirección de Transporte Público y Vialidad promoverá, diseñará e instrumentará programas y campañas permanentes de educación vial, cortesía urbana y respeto hacia las personas con discapacidad, en su tránsito por la vía pública y en lugares de acceso al público, con la pretensión primordial de que la población en general, acepte a los mismos en las actividades sociales, económicas y políticas de la comunidad, evitando su marginación y discriminación.
+El Ejecutivo del Estado, a través de la Subsecretaría y la Dirección de Transporte, Tránsito y Vialidad promoverá, diseñará e instrumentará programas y campañas permanentes de educación vial, cortesía urbana y respeto hacia las personas con discapacidad, en su tránsito por la vía pública y en lugares de acceso al público, con la pretensión primordial de que la población en general, acepte a los mismos en las actividades sociales, económicas y políticas de la comunidad, evitando su marginación y discriminación.
 
 Estos programas y campañas se difundirán ampliamente por los medios masivos de comunicación existentes en la entidad.
 
@@ -1045,9 +975,11 @@ Estos programas y campañas se difundirán ampliamente por los medios masivos de
 
 La Dirección de Transporte Público y Vialidad, de conformidad con la Ley de Transporte, Tránsito y Vialidad del Estado, sancionará a los conductores que ocupen los cajones destinados a las personas con discapacidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 98.
 
-La Dirección de Transporte Público y Vialidad y la Contraloría Interna del Estado, promoverán y vigilarán que en las licitaciones de concesión del servicio de transporte público, las unidades incluyan especificaciones técnicas y antropométricas en materia de discapacidad.
+La Dirección de Transporte, Tránsito y Vialidad y la Secretaría de la Función Pública del Gobierno del Estado, promoverán y vigilarán que en las licitaciones de concesión del servicio de transporte público, las unidades incluyan especificaciones técnicas y antropométricas en materia de discapacidad.
 
 Igualmente, vigilará que los concesionarios realicen las adecuaciones a las unidades de manera progresiva hasta lograr que el total de los vehículos garanticen la accesibilidad, seguridad y comodidad del transporte a personas con discapacidad.
 
@@ -1059,19 +991,23 @@ El Ejecutivo del Estado, implementará un programa de estímulos fiscales a las 
 
 ### CAPÍTULO II. Sanciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 100.
 
 El Gobierno del Estado otorgará estímulos, beneficios y reconocimientos a aquellas personas o instituciones que se hayan distinguido por su apoyo a las personas con discapacidad, mismos que serán entregados en actos públicos con el propósito de promover dichas acciones.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 101.
 
-El Gobierno del Estado a través del Sistema Estatal para el Desarrollo Integral de la Familia y la Comisión, creará estímulos, premios y reconocimientos, a favor de aquellas personas con discapacidad, que se distingan en cualquier noble actividad, con el propósito que la sociedad les reconozca sus hechos y aptitudes, ya sea en la realización de acciones tendientes a superarse a sí mismos, en su trabajo, en el deporte, en la ciencia o en el arte.
+El Gobierno del Estado a través del Sistema Estatal para el Desarrollo Integral de la Familia y la Subsecretaría creará estímulos, premios y reconocimientos, a favor de aquellas personas con discapacidad, que se distingan en cualquier noble actividad, con el propósito que la sociedad les reconozca sus hechos y aptitudes, ya sea en la realización de acciones tendientes a superarse a sí mismos, en su trabajo, en el deporte, en la ciencia o en el arte.
 
 ### CAPÍTULO III. Del Recurso de Reconsideración
 
 ###### Artículo 102.
 
-Las autoridades competentes para conocer y resolver acerca de las infracciones a esta Ley cometidas por particulares, serán la Secretaría de Obras Públicas, la Dirección de Transporte Público y Vialidad y los Ayuntamientos.
+Las autoridades competentes para conocer y resolver acerca de las infracciones a esta Ley cometidas por particulares, serán la Secretaría de Infraestructura, la Dirección de Transporte, Tránsito y Vialidad y los Ayuntamientos.
 
 En el supuesto de incumplimiento de las autoridades responsables de la aplicación de esta ley a las obligaciones que este ordenamiento les imponga, se aplicará en lo conducente la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Zacatecas.
 
@@ -1175,7 +1111,7 @@ Y para que llegue al conocimiento de todos y se le dé el debido cumplimiento, m
 
 DADO en el Despacho del Poder Ejecutivo del Estado, el día veinticinco del mes de Octubre del año dos mil cinco.- Atentamente Sufragio Efectivo. No Reelección.- LA GOBERNADORA DEL ESTADO DE ZACATECAS.- AMALIA D. GARCIA MEDINA.- EL SECRETARIO GENERAL DE GOBIERNO.- LIC. TOMAS TORRES MERCADO. Rúbricas.
 
-N. DE EL A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 3 DE JUNIO DE 2006.
 
@@ -1240,3 +1176,21 @@ Artículo Décimo Quinto.- Las Secretaría (sic) de Finanzas, de la Función Pú
 Artículo Décimo Sexto.- Los asuntos competencia de alguna dependencia o entidad establecida con anterioridad a la vigencia del presente Decreto y que por disposición de éste, deban ser atendidos por otra u otras, deberán transferirse junto con los expedientes y archivos a la nueva dependencia o entidad, la cual deberá concluirlos.
 
 Artículo Décimo Séptimo.- Cuando otros ordenamientos legales den una denominación distinta a alguna dependencia, entidad o unidad administrativa contempladas en la presente Ley, la atribución o función se entenderá como conferida a la dependencia, entidad o unidad administrativa que determine el presente ordenamiento legal.
+
+P.O. 23 DE MARZO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, el Ejecutivo del Estado deberá actualizar la reglamentación de conformidad con el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, los Ayuntamientos deberán establecer su Gaceta Municipal.
+
+###### ARTÍCULO CUARTO.
+
+Los Ayuntamientos, en el término de ciento veinte días naturales a partir de la vigencia del presente Decreto, deberán publicar en sus Gacetas Municipales y en el Periódico Oficial, Órgano del Gobierno del Estado, todas las disposiciones normativas de carácter general que hayan sido generadas antes de la entrada en vigor del presente Decreto. Remitiendo en medio impreso y de forma magnética los instrumentos jurídicos a la Coordinación General Jurídica del Gobierno del Estado para su trámite de publicación.
