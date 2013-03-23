@@ -4,7 +4,7 @@ identifier: "ZAC-ley-para-la-igualdad-entre-mujeres-y-hombres-en-el-estado-61333
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-24"
-last_updated: "2008-05-24"
+last_updated: "2013-03-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61333&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2013.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 24 de mayo de 2008.
 
@@ -75,9 +75,11 @@ Las mujeres y los hombres son iguales en dignidad, así como en el goce de sus d
 
 Son sujetos de los derechos que establece esta Ley, las mujeres y los hombres que se encuentren en el territorio del Estado, que por razón de su sexo, independientemente de su edad, estado civil, profesión, cultura, origen étnico o nacional, condición social, salud, religión, opinión o discapacidad, se encuentren con algún tipo de desventaja ante la violación del principio de igualdad que esta Ley tutela.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 5.
 
-En lo no previsto en esta Ley, se aplicarán en forma supletoria y en lo conducente, las disposiciones de la Ley para Prevenir y Erradicar toda forma de Discriminación en el Estado; la Ley de la Comisión de Derechos Humanos del Estado; la Ley del Instituto para las Mujeres Zacatecanas; los tratados internacionales ratificados por el Estado Mexicano, y los demás ordenamientos aplicables en la materia.
+En lo previsto en esta Ley, se aplicarán en forma supletoria y en lo conducente, las disposiciones de la Ley para Prevenir y Erradicar toda forma de Discriminación en el Estado; la Ley de la Comisión de Derechos Humanos del Estado de Zacatecas; los tratos internacionales ratificados por el Estado Mexicano, y los demás ordenamientos aplicables en la materia.
 
 ###### Artículo 6.
 
@@ -87,7 +89,9 @@ Las disposiciones de este ordenamiento deberán interpretarse, para efectos de s
 
 Para los efectos de esta Ley se entenderá por:
 
-I. El Instituto: Al Instituto para las Mujeres Zacatecanas.
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+I. La Secretaría: A la Secretaría de las Mujeres;
 
 II. Acciones afirmativas.- Es el conjunto de medidas de carácter temporal encaminadas a acelerar la igualdad de hecho entre mujeres y hombres.
 
@@ -151,9 +155,13 @@ V. Proponer iniciativas y políticas de cooperación para el desarrollo de mecan
 
 VI. Suscribir convenios o acuerdos interinstitucionales con instancias nacionales e internacionales a través de la Titular del Ejecutivo;
 
-VII. Celebrar convenios entre el Instituto y las dependencias del Ejecutivo del Estado encargadas del adelanto de las mujeres, y
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
 
-VIII. Suscribir convenios entre el Instituto y los Municipios, a través de las instancias encargadas en materia de equidad de género.
+VII. Celebrar convenios entre la Secretaría y las dependencias del Ejecutivo del Estado encargadas del adelanto de las mujeres, y
+
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+VIII. Suscribir convenios entre la Secretaría y los Municipios, a través de las instancias encargadas en materia de equidad de género.
 
 ###### Artículo 14.
 
@@ -267,9 +275,11 @@ IV. La vigilancia en materia de igualdad entre mujeres y hombres en el Estado.
 
 En el diseño, elaboración, aplicación, evaluación y seguimiento de los instrumentos de la política de igualdad entre mujeres y hombres, se deberán observar los objetivos y principios previstos en esta Ley.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 21.
 
-El Instituto, tendrá a su cargo la coordinación del Sistema, así como la determinación de lineamientos para el establecimiento de políticas públicas en materia de igualdad entre mujeres y hombres, y las demás que sean necesarias para cumplir con los objetivos de la presente Ley.
+La Secretaría; tendrá a su cargo la coordinación del Sistema, así como la determinación de lineamientos para el establecimiento de políticas públicas en materia de igualdad entre mujeres y hombres, y las demás que sean necesarias para cumplir con los objeticos (sic) de la presente Ley.
 
 ### CAPÍTULO TERCERO. DEL SISTEMA PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO
 
@@ -281,17 +291,27 @@ El Sistema, es el conjunto orgánico y articulado de estructuras, relaciones fun
 
 El Sistema se integrará de la siguiente forma:
 
-I. La Secretaría de Planeación y Desarrollo Regional;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
 
-II. La Secretaría de Desarrollo Agropecuario;
+I. La Secretaría de Desarrollo Social;
 
-III. La Secretaría de Desarrollo Económico;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
 
-IV. La Secretaría de Educación y Cultura;
+II. La Secretaría del Campo;
+
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+III. La Secretaría de Economía;
+
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+IV. La Secretaría de Educación;
 
 V. La Procuraduría General de Justicia del Estado;
 
-VI. El Instituto para las Mujeres Zacatecanas, que fungirá como Secretaría Técnica del Sistema;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+VI. La Secretaría, que fungirá como Secretaría Técnica del Sistema;
 
 VII. La Secretaría Técnica del Consejo para Prevenir y Erradicar toda forma de Discriminación en el Estado;
 
@@ -301,7 +321,9 @@ IX. La Legislatura del Estado, representada por la Presidencia de la Comisión d
 
 X. El Tribunal Superior de Justicia del Estado, a través de un representante que designe el Pleno para tal efecto, y
 
-XI. La Comisión Estatal de Derechos Humanos.
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+XI. La Comisión de Derechos Humanos del Estado de Zacatecas.
 
 Así como dos representantes de organizaciones de la sociedad civil y dos académicas o académicos con participación destacada sobre el tema, a invitación expresa del Sistema.
 
@@ -309,9 +331,11 @@ Así como dos representantes de organizaciones de la sociedad civil y dos acadé
 
 El Sistema deberá sesionar al menos una vez cada tres meses y podrá celebrar las reuniones extraordinarias que considere convenientes para dar cumplimiento a la presente Ley.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 25.
 
-El Instituto coordinará las acciones que el Sistema genere, sin perjuicio de las atribuciones y funciones contenidas en su ordenamiento, y conforme al artículo anterior, expedirá las reglas para la organización y el funcionamiento del mismo, así como las medidas para vincularlo con otros de carácter nacional y municipal. Asimismo, supervisará la coordinación de los instrumentos de la Política de Igualdad.
+La Secretaría coordinará las acciones que el Sistema genere, sin perjuicio de las atribuciones y junciones (sic) contenidas en su ordenamiento, y conforme al artículo anterior, expedirá las reglas para la organización y el funcionamiento del mismo, así como las medidas para vincularlo con otros de carácter nacional y municipal. Asimismo, supervisará la coordinación de los instrumentos de la Política de Igualdad.
 
 ###### Artículo 26.
 
@@ -347,9 +371,11 @@ b) El Sistema será el encargado de llevar a cabo la evaluación de la informaci
 
 XIII. Las demás que se requieran para el cumplimiento de los objetivos del Sistema y las que determinen las disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 27.
 
-Los entes públicos, coadyuvarán, en el ámbito de sus respectivas competencias y en los términos de los convenios que celebren con el Instituto, a la consolidación y funcionamiento del Sistema.
+Los entes públicos, coadyuvarán, en el ámbito de sus respectivas competencias y en los términos de los convenios que celebren con la Secretaría a la consolidación y funcionamiento del Sistema.
 
 ###### Artículo 28.
 
@@ -361,17 +387,21 @@ II. Determinación de las acciones de orientación, estímulo y apoyo que dichos
 
 ### CAPÍTULO CUARTO. DEL PROGRAMA PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 29.
 
-El Programa será elaborado por el Instituto y aprobado por el Sistema, y tomará en cuenta las necesidades del Estado y sus Municipios, así como las particularidades específicas de la desigualdad en el medio rural y las zonas urbanas. Este Programa deberá integrarse a los instrumentos de planeación, programación y presupuestación contemplados en la Ley de Planeación para el Desarrollo del Estado.
+El Programa será elaborado por la Secretaría y aprobado por el Sistema, y tomará en cuenta las necesidades del Estado y sus Municipios, así como las particularidades específicas de la desigualdad en el medio rural y las zonas urbanas. Este Programa deberá integrarse a los instrumentos de planeación, programación y presupuestación contemplados en la Ley de Planeación para el Desarrollo del Estado.
 
 Este Programa, establecerá los objetivos, estrategias y líneas de acción prioritarias, tomando en cuenta lo establecido en la presente Ley.
 
 Con el objetivo de lograr la transversalidad, propiciará que los programas sectoriales, regionales y especiales, tomen en cuenta los criterios e instrumentos de esta Ley.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 30.
 
-El Instituto deberá revisar y evaluar anualmente el Programa.
+La Secretaría deberá revisar y evaluar anualmente el Programa.
 
 ###### Artículo 31.
 
@@ -591,9 +621,11 @@ III. Implementar la utilización de publicidad basada en la igualdad, que no con
 
 Toda persona tendrá derecho a que las autoridades y entes públicos del Estado, previo cumplimiento de los requisitos que la Ley de la materia establezca, pongan a su disposición la información que les soliciten sobre políticas, instrumentos y normas sobre igualdad entre mujeres y hombres.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 49.
 
-El Ejecutivo del Estado y los Ayuntamientos, por conducto del Instituto y órganos afines a nivel municipal, respectivamente, promoverán la participación de la sociedad en la planeación, diseño, formulación, ejecución y evaluación de los programas e instrumentos de la Política de Igualdad.
+El Ejecutivo del Estado y los Ayuntamientos, por conducto de la Secretaría y órganos afines a nivel municipal, respectivamente, promoverán la participación de la sociedad en la planeación, diseño, formulación, ejecución y evaluación de los programas e instrumentos de la Política de Igualdad.
 
 ###### Artículo 50.
 
@@ -603,13 +635,17 @@ Los convenios que en materia de igualdad celebren el Ejecutivo del Estado y sus 
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES PRELIMINARES
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 51.
 
-El Instituto, con base en lo mandatado en la presente Ley y sus mecanismos de coordinación, llevará a cabo el seguimiento, evaluación y monitoreo de la igualdad sustantiva entre mujeres y hombres en el Estado. Para el caso específico de las entidades públicas, lo hará a través de la implementación del Modelo de Equidad.
+La Secretaría, con base en lo mandatado en la presente Ley y sus mecanismos de coordinación, llevará a cabo el seguimiento, evaluación y monitoreo de la igualdad sustantiva entre mujeres y hombres en el Estado. Para el caso específico de las entidades públicas, lo hará a través de la implementación del Modelo de Equidad.
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### Artículo 52.
 
-El Instituto, contará con un sistema de información para conocer la situación que guarda la igualdad entre mujeres y hombres, y el efecto de las políticas públicas aplicadas en esta materia en el Estado.
+La Secretaría, contará con un sistema de información para conocer la situación que guarda la igualdad entre mujeres y hombres, y el efecto de las políticas públicas aplicadas en esta materia en el Estado.
 
 ###### Artículo 53.
 
@@ -664,3 +700,23 @@ AMALIA D. GARCÍA MEDINA.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 CARLOS PINTO NÚÑEZ.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE MARZO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, el Ejecutivo del Estado deberá actualizar la reglamentación de conformidad con el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, los Ayuntamientos deberán establecer su Gaceta Municipal.
+
+###### ARTÍCULO CUARTO.
+
+Los Ayuntamientos, en el término de ciento veinte días naturales a partir de la vigencia del presente Decreto, deberán publicar en sus Gacetas Municipales y en el Periódico Oficial, Órgano del Gobierno del Estado, todas las disposiciones normativas de carácter general que hayan sido generadas antes de la entrada en vigor del presente Decreto. Remitiendo en medio impreso y de forma magnética los instrumentos jurídicos a la Coordinación General Jurídica del Gobierno del Estado para su trámite de publicación.
