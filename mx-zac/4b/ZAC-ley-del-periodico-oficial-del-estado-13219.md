@@ -4,7 +4,7 @@ identifier: "ZAC-ley-del-periodico-oficial-del-estado-13219"
 country: "mx"
 rank: "ley"
 publication_date: "1988-11-23"
-last_updated: "1988-11-23"
+last_updated: "2013-03-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13219&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DEL PERIODICO OFICIAL DEL ESTADO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2013.
 
 Ley Publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el miércoles 23 de noviembre de 1988.
 
@@ -67,7 +67,9 @@ V. Los acuerdos de interés general emitidos por el Pleno del Tribunal Superior 
 
 VI. Los convenios que celebre el Gobierno del Estado con la Federación y sus Municipios;
 
-VII. Los acuerdos que emitan los H. Ayuntamientos Municipales y que sean de interés general;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+VII. Las disposiciones normativas, reglamentos, planes, programas, acuerdos y demás disposiciones que sean de interés general, que emitan los Ayuntamientos Municipales;
 
 VIII. Los actos y resoluciones que la Constitución y demás ordenamientos legales dispongan;
 
@@ -95,9 +97,11 @@ c) Indice del Contenido.
 
 El Periódico Oficial del Estado se publicará los días miércoles y sábados; sin perjuicio de que se publiquen los suplementos y anexos que se requieran.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### ARTICULO 8o.
 
-El Periódico Oficial del Estado será impreso y distribuido en cantidad suficiente, de tal manera que garantice la satisfacción de la demanda en todo el territorio del Estado.
+El Periódico Oficial del Estado se editará tanto en forma impresa como electrónica, además, se imprimirá y distribuirá en cantidad suficiente, de tal manera que garantice la satisfacción de la demanda en todo el territorio del Estado.
 
 ###### ARTICULO 9o.
 
@@ -115,9 +119,11 @@ La autoridad competente ordenará la publicación de un índice o sumario por ma
 
 Los Poderes del Estado y las autoridades municipales tendrá (sic) la obligación de dar a conocer el Periódico Oficial y coleccionarlo debidamente.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### ARTICULO 13o.
 
-La administración del Periódico Oficial del Estado tiene la obligación de llevar por triplicado colecciones empastadas de sus publicaciones, mismas que se custodiarán una en el Archivo General de Gobierno, otra en la Oficialía Mayor del Gobierno y una tercera, en la Dirección General de Asuntos Jurídicos.
+La administración del Periódico Oficial del Estado tiene la obligación de llevar por triplicado colecciones empastadas de sus publicaciones, mismas que se custodiarán una en el Archivo General de Gobierno, otra en la Secretaría de Administración y una tercera, en la Coordinación General Jurídica.
 
 ## TRANSITORIO
 
@@ -138,3 +144,23 @@ LIC. GENARO BORREGO ESTRADA
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. ROGELIO HERNANDEZ QUINTERO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE MARZO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, el Ejecutivo del Estado deberá actualizar la reglamentación de conformidad con el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, los Ayuntamientos deberán establecer su Gaceta Municipal.
+
+###### ARTÍCULO CUARTO.
+
+Los Ayuntamientos, en el término de ciento veinte días naturales a partir de la vigencia del presente Decreto, deberán publicar en sus Gacetas Municipales y en el Periódico Oficial, Órgano del Gobierno del Estado, todas las disposiciones normativas de carácter general que hayan sido generadas antes de la entrada en vigor del presente Decreto. Remitiendo en medio impreso y de forma magnética los instrumentos jurídicos a la Coordinación General Jurídica del Gobierno del Estado para su trámite de publicación.
