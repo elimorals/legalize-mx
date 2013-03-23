@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-desarrollo-forestal-sustentable-del-estado-de-52216"
 country: "mx"
 rank: "ley"
 publication_date: "2006-10-28"
-last_updated: "2009-04-15"
+last_updated: "2013-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52216&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ABRIL DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2013.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 28 de octubre de 2006.
 
@@ -147,7 +147,7 @@ VI. Erosión del suelo: Desprendimiento, arrastre y depósito de las partículas
 
 VII. Forestación: El establecimiento y desarrollo de vegetación forestal en terrenos preferentemente forestales o temporalmente forestales con propósitos de conservación, restauración o producción comercial;
 
-VIII. Instituto: El Instituto de Ecología y Medio Ambiente del Estado de Zacatecas;
+VIII. (DEROGADA, P.O. 23 DE MARZO DE 2013)
 
 IX. Leña: Materia prima maderable proveniente de la vegetación forestal que se utiliza como materia combustible y para carbonización, la cual puede ser en rollo o en raja;
 
@@ -167,7 +167,9 @@ XVI. Reforestación: Establecimiento inducido de vegetación forestal en terreno
 
 XVII. SAGARPA: La Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
 
-XVIII. Secretaría: La Secretaría de Desarrollo Agropecuario;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+XVIII. Secretaría: La Secretaría del Campo;
 
 XIX. SEMARNAT: La Secretaría de Medio Ambiente y Recursos Naturales, y
 
@@ -181,7 +183,9 @@ Las atribuciones gubernamentales en materia de conservación, protección, resta
 
 Para la coordinación de acciones, siempre que exista transferencia de atribuciones, el gobierno del Estado y los gobiernos municipales deberán celebrar convenios entre ellos, así como con la Federación, en los casos y las materias que se precisan en la Ley.
 
-La planeación y coordinación sobre desarrollo forestal se hará en el marco del Comité de Planeación para el Desarrollo del Estado de Zacatecas (COPLADEZ), el Consejo Estatal para el Desarrollo Rural Sustentable y los correspondientes programas especiales concurrentes, en el ámbito estatal y municipal.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
+La planeación y coordinación sobre desarrollo forestal se hará en el marco de lo que establezca la Unidad de Planeación del Titular del Poder Ejecutivo, el Consejo Estatal para el Desarrollo Rural Sustentable y los correspondientes programas especiales concurrentes, en el ámbito estatal y municipal.
 
 La Secretaria promoverá los acuerdos y decisiones necesarias para la aplicación de los recursos del desarrollo rural a las zonas y actividades del sector forestal.
 
@@ -199,7 +203,9 @@ II. La Secretaría General de Gobierno;
 
 III. La Secretaría, y
 
-IV. El Instituto.
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+IV. La Secretaría del Agua y Medio Ambiente.
 
 ###### ARTÍCULO 9.
 
@@ -341,9 +347,11 @@ VIII. Participar de conformidad con los acuerdos y convenios que se celebren con
 
 IX. Las demás facultades que le confieren esta Ley y los ordenamientos legales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### ARTÍCULO 14.
 
-Son atribuciones del Instituto:
+Son atribuciones de la Secretaría del Agua y Medio Ambiente:
 
 I. Coadyuvar en la elaboración de estudios para que en caso de que se afecten los ecosistemas forestales, se solicite a la federación el establecimiento de restricciones a la forestación y reforestación en el territorio del Estado;
 
@@ -1115,9 +1123,11 @@ VI. Promover los criterios de política forestal previstos en la presente Ley, y
 
 VII. Otras que sean de interés para desarrollar y fortalecer la cultura forestal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### ARTÍCULO 108.
 
-En materia de educación y capacitación, la Secretaría, en coordinación con la Secretaría de Educación y Cultura, y con las demás dependencias o entidades competentes, así como con los sectores social y privado, realizará las siguientes acciones:
+En materia de educación y capacitación, la Secretaría, en coordinación con la Secretaría de Educación, y con las demás dependencias o entidades competentes, así como con los sectores social y privado, realizará las siguientes acciones:
 
 I. Promover la formación, capacitación y superación de técnicos y profesionistas forestales para los ecosistemas forestales del Estado;
 
@@ -1167,7 +1177,9 @@ El Consejo Estatal se Integrará por:
 
 I. El Titular del Ejecutivo del Estado quien fungirá como Presidente;
 
-II. El Secretario de Desarrollo Agropecuario, quien fungirá como Presidente suplente;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+II. El titular de la Secretaría del Campo, quien fungirá como Presidente suplente;
 
 III. Un Secretario Técnico, designado por el Presidente;
 
@@ -1470,3 +1482,21 @@ P.O. 15 DE ABRIL DE 2009.
 Artículo primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo segundo.- Se derogan las disposiciones que contravengan esta Ley.
+
+P.O. 23 DE MARZO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, el Ejecutivo del Estado deberá actualizar la reglamentación de conformidad con el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, los Ayuntamientos deberán establecer su Gaceta Municipal.
+
+###### ARTÍCULO CUARTO.
+
+Los Ayuntamientos, en el término de ciento veinte días naturales a partir de la vigencia del presente Decreto, deberán publicar en sus Gacetas Municipales y en el Periódico Oficial, Órgano del Gobierno del Estado, todas las disposiciones normativas de carácter general que hayan sido generadas antes de la entrada en vigor del presente Decreto. Remitiendo en medio impreso y de forma magnética los instrumentos jurídicos a la Coordinación General Jurídica del Gobierno del Estado para su trámite de publicación.
