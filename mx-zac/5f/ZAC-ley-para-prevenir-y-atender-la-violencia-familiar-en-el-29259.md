@@ -4,7 +4,7 @@ identifier: "ZAC-ley-para-prevenir-y-atender-la-violencia-familiar-en-el-29259"
 country: "mx"
 rank: "ley"
 publication_date: "2003-02-19"
-last_updated: "2008-12-24"
+last_updated: "2013-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29259&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY PARA PREVENIR Y ATENDER LA VIOLENCIA FAMILIAR EN EL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el miércoles 19 de febrero de 2003.
 
@@ -79,7 +79,7 @@ LEY PARA PREVENIR Y ATENDER LA VIOLENCIA FAMILIAR EN EL ESTADO DE ZACATECAS
 
 Las disposiciones de la presente Ley son de orden público e interés social, tienen por objeto establecer las bases y procedimientos para prevenir y sancionar la violencia familiar en el Estado de Zacatecas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 2.
 
@@ -121,21 +121,39 @@ Corresponde la aplicación de esta Ley:
 
 I. Al Gobernador del Estado por conducto de la Secretaría General de Gobierno;
 
-II. A la Secretaría de Educación y Cultura;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
 
-III. A los Servicios de Salud del Estado;
+II. A la Secretaría de Educación;
 
-IV. Al Sistema Estatal para el Desarrollo Integral de la Familia y sus organismos municipales;
+> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2013)</small>
 
-V. Al Consejo Estatal para la Prevención y Atención de la Violencia Familiar;
+III. A la Unidad de Planeación del Titular del Poder Ejecutivo;
 
-VI. Al Instituto para la Mujer Zacatecana;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
 
-VII. A la Procuraduría General de Justicia del Estado;
+IV. A la Secretaría de las Mujeres;
 
-VIII. A la Dirección General de la Policía Estatal Preventiva;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
 
-IX. A la Policía Preventiva de los Municipios.
+V. A los Servicios de Salud del Estado;
+
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+VI. A la Procuraduría General de Justicia del Estado;
+
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+VII. Al Sistema Estatal para el Desarrollo Integral de la Familia y sus organismos municipales;
+
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+VIII. Al Consejo Estatal para la Prevención y Atención de la Violencia Familiar;
+
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+IX. A la Dirección General de la Policía Estatal Preventiva, y
+
+X. A la Policía Preventiva de los Municipios.
 
 ### CAPÍTULO II. DE LOS ÓRGANOS NORMATIVOS Y EJECUTIVOS
 
@@ -145,7 +163,7 @@ Se crea el Consejo Estatal para la Prevención y Atención de la Violencia Famil
 
 I. Secretaría General de Gobierno;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2008)</small>
 
@@ -153,13 +171,19 @@ II. Secretaria de Seguridad Pública;
 
 III. Sistema Estatal para el Desarrollo Integral de la Familia y sus Organismos Municipales.
 
-IV. Instituto para la Mujer Zacatecana;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+IV. Secretaría de las Mujeres;
 
 V. Servicios de Salud de Zacatecas;
 
-VI. Secretaría de Educación y Cultura;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
 
-VII. Secretaria de Planeación y Desarrollo Regional;
+VI. Secretaría de Educación;
+
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+VII. Unidad de Planeación del Titular del Poder Ejecutivo;
 
 VIII. Procuraduría General de Justicia en el Estado, y
 
@@ -223,7 +247,9 @@ VI. Organizar y desarrollar las funciones administrativas del Consejo Estatal;
 
 VII. Crear y mantener al día, el Banco de Datos Estatal en materia de violencia familiar;
 
-VIII. Encausar, en coordinación con el Instituto para la Mujer Zacatecana, las labores de las instituciones oficiales integrantes del Consejo Estatal para la promoción de acciones y programas de atención, prevención y sanción de la violencia familiar;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+VIII. Encausar, en coordinación con la Secretaría de las Mujeres, las labores de las instituciones oficiales integrantes del Consejo Estatal para la promoción de acciones y programas de atención, prevención y sanción de la violencia familiar;
 
 IX. Gestionar la creación de Unidades de Atención a la Violencia Familiar en cada uno de los municipios;
 
@@ -263,9 +289,9 @@ III. Aplicar, a los perpetradores de la violencia familiar, según la materia de
 
 IV. Llevar una estadística desagregada por sexos y edades, de los casos de violencia familiar en las materias penal y civil.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 13.
 
@@ -301,9 +327,11 @@ VI. Promover la creación y funcionamiento de albergues temporales, para víctim
 
 VII. Incluir en su anteproyecto de presupuesto de egresos, los recursos necesarios para el funcionamiento de las Unidades de Atención a la Violencia Familiar, y de los albergues temporales a que se refiere esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 15.
 
-Compete al Instituto para la Mujer Zacatecana:
+Compete a la Secretaría de las Mujeres:
 
 I. Elaborar, en coordinación con la Secretaria General Ejecutiva del Consejo, el anteproyecto de Programa Estatal para la prevención, atención y erradicación de la violencia familiar;
 
@@ -335,9 +363,11 @@ VII. Formar promotores de salud comunitarios para el desarrollo de programas y a
 
 VIII. Promover investigación cualitativa a fin de obtener mayor precisión sobre las causas y contextos en que se da la violencia familiar; la dinámica del abuso y comprender mejor la forma en que esta violencia afecta la salud y el desarrollo de cada uno de los miembros de la familia, en especial las mujeres, niños, y personas de edad avanzada o discapacitadas. Esta investigación deberá hacerse con perspectiva de género.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 17.
 
-Compete a la Secretaría de Educación y Cultura:
+Compete a la Secretaría de Educación:
 
 I. Desarrollar programas educativos, en todos los niveles de escolaridad, que fomenten la cultura de la no violencia en la familia, la paternidad y la maternidad responsables, la responsabilidad compartida entre hombres y mujeres, así como el respeto a la dignidad de todas las personas integrantes del núcleo familiar;
 
@@ -347,9 +377,11 @@ III. Desarrollar investigación multidisciplinaria encaminada a crear modelos de
 
 IV. Incorporar en los programas educativos de todos los niveles, el respeto a los derechos humanos, la protección a personas especialmente vulnerables y la no discriminación, así como contenidos educativos tendientes a modificar los modelos de conducta sociales y culturales que impliquen prejuicios y que estén basados en la idea de la inferioridad o superioridad de uno de los sexos y en funciones estereotipadas asignadas a las mujeres y los hombres.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 18.
 
-Compete a la Secretaría de Planeación y Desarrollo Regional:
+Compete a la Unidad de Planeación del Titular del Poder Ejecutivo:
 
 I. Supervisar la elaboración del anteproyecto del Programa Estatal para la prevención, atención y erradicación de la violencia familiar;
 
@@ -463,9 +495,11 @@ II. Basarse en modelos psicoterapéuticos adecuados y específicos para personas
 
 III. Rehabilitar a las víctimas de violencia familiar, facilitando la recuperación de su autoestima y su reinserción en la vida social.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 26.
 
-La atención a la que se refiere el artículo anterior se hará extensiva en los Centros de Readaptación Social y en el Consejo Tutelar para Menores, aplicándose a los internos relacionados con la violencia familiar, a quienes se procurará integrar al régimen educativo, con la participación de los servicios médicos y de trabajo social. Será obligatorio para dichos internos, sujetarse a los tratamientos necesarios como condición relevante para el otorgamiento, en su caso, de los beneficios preliberacionales.
+La atención a la que se refiere el artículo anterior se hará extensiva en los Centros de Reinserción Social del Estado y en el Centro de Internamiento y Atención Integral Juvenil, aplicándose a los internos relacionados con la violencia familiar, a quienes se procurará integrar al régimen educativo, con la participación de los servicios médicos y de trabajo social. Será obligatorio para dichos internos, sujetarse a los tratamientos necesarios como condición relevante para el otorgamiento, en su caso, de los beneficios preliberacionales.
 
 ### CAPÍTULO VI. DE LOS FUNCIONARIOS PÚBLICOS
 
@@ -613,7 +647,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. TOMAS TORRES MERCADO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 1 DE FEBRERO DE 2006.
 
@@ -640,3 +674,21 @@ Artículo sexto.- Dentro de los noventa días naturales siguientes a la publicac
 Artículo séptimo.- En el Presupuesto de Egresos del Estado para el ejercicio fiscal 2009, deberán incluirse las partidas correspondientes para el funcionamiento de la Secretaría de Seguridad Pública.
 
 Artículo octavo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE MARZO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, el Ejecutivo del Estado deberá actualizar la reglamentación de conformidad con el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, los Ayuntamientos deberán establecer su Gaceta Municipal.
+
+###### ARTÍCULO CUARTO.
+
+Los Ayuntamientos, en el término de ciento veinte días naturales a partir de la vigencia del presente Decreto, deberán publicar en sus Gacetas Municipales y en el Periódico Oficial, Órgano del Gobierno del Estado, todas las disposiciones normativas de carácter general que hayan sido generadas antes de la entrada en vigor del presente Decreto. Remitiendo en medio impreso y de forma magnética los instrumentos jurídicos a la Coordinación General Jurídica del Gobierno del Estado para su trámite de publicación.
