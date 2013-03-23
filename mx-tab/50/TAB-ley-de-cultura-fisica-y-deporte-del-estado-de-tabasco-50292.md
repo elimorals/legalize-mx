@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-cultura-fisica-y-deporte-del-estado-de-tabasco-50292"
 country: "mx"
 rank: "ley"
 publication_date: "2006-03-29"
-last_updated: "2013-02-14"
+last_updated: "2013-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50292&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2013.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Tabasco, el miércoles 29 de marzo de 2006.
 
@@ -123,9 +123,17 @@ XIV. Deporte para los Trabajadores, el que practican los servidores públicos y 
 
 XV. Equipo, a la organización de deportistas de una sola especialidad que compiten en forma programada y constante, usualmente a través de una liga deportiva;
 
-XVI. Liga deportiva, el organismo deportivo que en cada especialidad o disciplina, lleva a cabo la afiliación de clubes deportivos o equipos, con la finalidad de organizar y realizar competencias en forma programada y permanente; y
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
 
-XVII. Talento deportivo, deportista que se caracteriza por determinada combinación de las capacidades motoras y psicológicas, así como de aptitudes anatomofisiólogicas que crean, en conjunto, la posibilidad potencial para el logro de altos resultados deportivos en un deporte en concreto.
+XVI. Liga deportiva, el organismo deportivo que en cada especialidad o disciplina, lleva a cabo la afiliación de clubes deportivos o equipos, con la finalidad de organizar y realizar competencias en forma programada y permanente;
+
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+XVII. Talento deportivo, deportista que se caracteriza por determinada combinación de las capacidades motoras y psicológicas, así como de aptitudes anatomofisiológicas que crean, en conjunto, a la posibilidad potencial para el logro de altos resultados deportivos en un deporte en concreto; y,
+
+> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2013)</small>
+
+XVIII. Deporte charro, es el que se realiza conforme a los estatutos y reglamentos aprobados por la Federación Mexicana de Charrería y cuya práctica permite preservar, difundir y promover una de las representaciones simbólicas de lo mexicano.
 
 ###### Artículo 4.
 
@@ -147,7 +155,9 @@ VII. Entrenadores; y
 
 VIII. Árbitros.
 
-Para ser sujetos de esta ley, los interesados deberán estar inscritos en el Registro Municipal correspondiente, con excepción de los talentos deportivos y deportistas de alto rendimiento, que serán inscritos en el Registro Estatal.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
+Para ser sujetos de esta ley, los interesados deberán estar inscritos en el Registro municipal correspondiente, con excepción de los talentos deportivos y deportistas de alto rendimiento y asociaciones de charros, que serán inscritos en el Registro Estatal.
 
 ## TÍTULO SEGUNDO. DE LOS DERECHOS Y OBLIGACIONES DE LOS DEPORTISTAS
 
@@ -355,9 +365,17 @@ VII. Deporte para Adultos Mayores;
 
 VIII. Deporte para personas con capacidades diferentes;
 
-IX. Deporte para los Trabajadores; y
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
 
-X. La capacitación y formación de entrenadores, jueces y árbitros.
+IX. Deporte para los trabajadores;
+
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+X. Deporte charro; y,
+
+> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2013)</small>
+
+XI. La capacitación y formación de entrenadores, jueces y árbitros.
 
 ###### Artículo 28.
 
@@ -836,3 +854,9 @@ TERCERO.- La Secretarías de: Planeación y Finanzas, Administración, Contralor
 El personal que labora en el hasta hoy Instituto de la Juventud y el Deporte de Tabasco, será readscrito a cada uno de los nuevos Instituto del Deporte del Tabasco e Instituto de la Juventud de Tabasco, conforme a las necesidades del servicio en cada uno de ellos, sin perjuicio de sus derechos laborales.
 
 CUARTO. Los asuntos administrativos, que con motivo de este Decreto y los respectivos acuerdos de creación del Instituto del Deporte y del Instituto de la Juventud deban pasar a cada uno de ellos, permanecerán en el último trámite que hubieren alcanzado hasta las unidades administrativas que estén facultadas por esta Ley para conocer de los mismos reciban y asuman los asuntos en cuestión. Se exceptúan de esta disposición los asuntos urgentes o sujetos a plazos improrrogables que deberán atenderse con la inmediatez que se requiera.
+
+P.O. 23 DE MARZO DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
