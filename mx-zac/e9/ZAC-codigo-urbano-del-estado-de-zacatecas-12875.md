@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-urbano-del-estado-de-zacatecas-12875"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-09-11"
-last_updated: "2012-08-04"
+last_updated: "2013-03-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CÓDIGO URBANO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2013.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 11 de septiembre de 1996.
 
@@ -191,9 +191,9 @@ Para los efectos de este Código, se entenderá por:
 
 I.- El Código: al Código Urbano para el Estado;
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2001)</small>
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
 
-II.- La Secretaría: a la Secretaría de Obras Públicas;
+II. La Secretaría: a la Secretaría de Infraestructura;
 
 III.- El Ayuntamiento: al Ayuntamiento del Municipio en cuyo territorio se ejecute la correspondiente acción, obra o servicio en materia de desarrollo urbano y vivienda;
 
@@ -201,9 +201,7 @@ IV.- La Comisión Estatal: a la Comisión Estatal de Desarrollo Urbano;
 
 V.- La Comisión del Patrimonio Cultural: a la Comisión para la Preservación del Patrimonio Cultural del Estado;
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2001)</small>
-
-VI.- El Consejo: al Consejo Promotor de la Vivienda Popular;
+VI. (DEROGADA, P.O. 23 DE MARZO DE 2013)
 
 VII.- La Comisión Municipal: a la Comisión Municipal de Desarrollo Urbano;
 
@@ -365,9 +363,7 @@ III.- La Secretaría de Finanzas del Estado;
 
 IV.- El Ayuntamiento;
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2001)</small>
-
-V.- El Consejo;
+V.- (DEROGADA, P.O. 23 DE MARZO DE 2013)
 
 VI.- La Comisión del Patrimonio Cultural; y
 
@@ -451,9 +447,9 @@ III.- Coordinar con los ayuntamientos, la elaboración, modificación, ejecució
 
 IV.- Fungir como Vocalía Ejecutiva de la Comisión Estatal y de la Comisión del Patrimonio Cultural;
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2001)</small>
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
 
-V.- Promover y adquirir con base en los programas de desarrollo urbano y vivienda, las reservas territoriales por parte del Gobierno del Estado, en coordinación con el Consejo y, en su caso, conjuntamente con los ayuntamientos, para la ejecución de dichos programas;
+V. Promover y adquirir con base en los programas de desarrollo urbano y vivienda, las reservas territoriales por parte del Gobierno del Estado y, en su caso, conjuntamente con los ayuntamientos, para la ejecución de dichos programas;
 
 VI.- Participar de manera coordinada con los ayuntamientos, los Gobiernos de las Entidades Federativas y con la Federación, en la planeación y ordenación de los centros de población situados en el territorio de la Entidad y de otras Entidades vecinas, que constituyan o tiendan a constituir una conurbación interestatal;
 
@@ -467,15 +463,15 @@ X.- Expedir las constancias estatales de compatibilidad urbanística, de acuerdo
 
 XI.- Dictar, en coordinación con los ayuntamientos y la Federación en su caso, las medidas necesarias a que deban sujetarse los predios no urbanizables, por tratarse de áreas sujetas a conservación y mejoramiento, sean éstas arqueológicas, históricas, agropecuarias, mineras, rurales, forestales, áreas naturales protegidas, o de preservación del patrimonio cultural;
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2001)</small>
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
 
-XII.- Proponer los criterios y acciones ante las autoridades competentes, para el mejoramiento de los asentamientos humanos irregulares, promoviendo en su caso, la colaboración de sus habitantes para su aplicación y ejecución, en coordinación con los ayuntamientos, el Consejo y, en su caso, con la Federación;
+XII.- Proponer los criterios y acciones ante las autoridades competentes, para el mejoramiento de los asentamientos humanos irregulares, promoviendo en su caso, la colaboración de sus habitantes para su aplicación y ejecución, en coordinación con los ayuntamientos y, en su caso, con la Federación;
 
 XIII.- Vigilar, en coordinación con los ayuntamientos, el equilibrado desarrollo de las diversas regiones y centros de población del Estado, mediante una adecuada planificación y zonificación de los mismos;
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2001)</small>
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
 
-XIV.- Controlar y evaluar los programas de inversión pública, así como las acciones y obras en materia de desarrollo urbano y vivienda que el Gobierno del Estado ejecute en la Entidad por sí o en coordinación con los ayuntamientos, el Consejo y la Federación, para que sean compatibles con la legislación, Plan Estatal de Desarrollo, programas y declaratorias de desarrollo urbano aplicables;
+XIV. Controlar y evaluar los programas de inversión pública, así como las acciones y obras en materia de desarrollo urbano y vivienda que el Gobierno del Estado ejecute en la Entidad por sí o en coordinación con los ayuntamientos y la Federación, para que sean compatibles con la legislación, Plan Estatal de Desarrollo, programas y declaratorias de desarrollo urbano aplicables;
 
 XV.- Diseñar, implantar y operar los sistemas y registros que se requieran para controlar y evaluar el avance de los programas y proyectos de inversión en materia de desarrollo urbano, y vivienda del Gobierno del Estado, así como los convenidos con la Federación, los Municipios y los sectores social y privado de la Entidad;
 
@@ -487,13 +483,13 @@ XVIII.- Notificar y ejecutar con apoyo de los ayuntamientos, las resoluciones y 
 
 XIX.- Promover, gestionar y realizar las acciones e inversiones necesarias, para conservar y mejorar la ecología del Estado, en coordinación con los ayuntamientos y la Federación;
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2001)</small>
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
 
-XX.- Formular, conducir y evaluar conjuntamente con el Consejo y los ayuntamientos, la política estatal de vivienda, de conformidad con las disposiciones de este Código;
+XX. Formular, conducir y evaluar conjuntamente con los ayuntamientos, la política estatal de vivienda, de conformidad con las disposiciones de este Código;
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2001)</small>
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
 
-XXI.- Fomentar, en coordinación con el Gobierno Federal, el Consejo y los ayuntamientos, la constitución de organizaciones comunitarias, sociedades cooperativas y otras de esfuerzo solidario para la producción y mejoramiento de la vivienda;
+XXI. Fomentar, en coordinación con el Gobierno Federal y los ayuntamientos, la constitución de organizaciones comunitarias, sociedades cooperativas y otras de esfuerzo solidario para la producción y mejoramiento de la vivienda;
 
 XXII.- Ejercer las atribuciones que este Código le concede en los casos de ocupación irregular de predios destinados o susceptibles de destinarse a la vivienda o que sean para desarrollo urbano;
 
@@ -665,15 +661,17 @@ La Comisión Estatal se integra por:
 
 I.- Un Presidente, que será el Gobernador Constitucional del Estado;
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2001)</small>
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
 
-II.- Un Vocal Ejecutivo, que será el Secretario de Obras Públicas;
+II. Un Vocal Ejecutivo, que será el Secretario de Infraestructura;
 
 III.- Un Secretario Técnico, que será el Delegado de la Secretaría de Desarrollo Social en el Estado;
 
 IV.- Vocales permanentes:
 
-a) El Secretario de Educación y Cultura;
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
+a) El Secretario de Educación;
 
 > <small>(REFORMADO, P.O. 4 DE JULIO DE 2001)</small>
 
@@ -681,17 +679,17 @@ b) El Secretario de Finanzas;
 
 c) El Director General de Desarrollo Urbano y Ecología;
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2001)</small>
-
-d) El Director General del Consejo Promotor de la Vivienda Popular;
+d) (DEROGADO, P.O. 23 DE MARZO DE 2013)
 
 e) El Presidente de la Junta Estatal de Protección y Conservación de Monumentos y Zonas Típicas;
 
 f) El Director de Catastro y Registro Público;
 
-g) El Director General de la Comisión Estatal de Agua Potable y Alcantarillado de Zacatecas;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
 
-h) El Director de la Junta Estatal de Caminos;
+g) El Secretario del Agua y Medio Ambiente;
+
+h) (DEROGADO, P.O. 23 DE MARZO DE 2013)
 
 i) El Coordinador de la Secretaría de la Reforma Agraria;
 
@@ -785,17 +783,21 @@ La Comisión para la Preservación del Patrimonio Cultural del Estado, es un ór
 
 La Comisión del Patrimonio Cultural se integrará por:
 
-I.- Un Presidente, que será el Gobernador Constitucional del Estado;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2001)</small>
+I.- Un Presidente, que será el Gobernador del Estado;
 
-II.- Un Vocal Ejecutivo, que será el Secretario de Obras Públicas del Estado;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+II.- Un Vocal Ejecutivo, que será el Secretario de Infraestructura;
 
 III.- Un Secretario Técnico, que será el Presidente de la Junta Estatal de Protección y Conservación de Monumentos y Zonas Típicas;
 
 IV.- Los siguientes vocales permanentes:
 
-a) El Secretario de Educación y Cultura del Estado;
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
+a) El Secretario de Educación;
 
 b) El Director General de Desarrollo Urbano y Ecología;
 
@@ -875,31 +877,31 @@ La Junta Estatal de Protección y Conservación de Monumentos y Zonas Típicas, 
 
 ###### ARTICULO 36.
 
-(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE ZACATECAS, P.O. 4 DE AGOSTO DE 2012)
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE ZACATECAS, P.O. 4 DE AGOSTO DE 2012) (REPUBLICADO, P.O. 23 DE MARZO DE 2013)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 37.
 
-(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE ZACATECAS, P.O. 4 DE AGOSTO DE 2012)
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE ZACATECAS, P.O. 4 DE AGOSTO DE 2012) (REPUBLICADO, P.O. 23 DE MARZO DE 2013)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 38.
 
-(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE ZACATECAS, P.O. 4 DE AGOSTO DE 2012)
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE ZACATECAS, P.O. 4 DE AGOSTO DE 2012) (REPUBLICADO, P.O. 23 DE MARZO DE 2013)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 39.
 
-(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE ZACATECAS, P.O. 4 DE AGOSTO DE 2012)
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE ZACATECAS, P.O. 4 DE AGOSTO DE 2012) (REPUBLICADO, P.O. 23 DE MARZO DE 2013)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 40.
 
-(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE ZACATECAS, P.O. 4 DE AGOSTO DE 2012)
+(DEROGADO POR ARTÍCULO SEXTO TRANSITORIO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE ZACATECAS, P.O. 4 DE AGOSTO DE 2012) (REPUBLICADO, P.O. 23 DE MARZO DE 2013)
 
 ###### ARTICULO 41.
 
@@ -1355,9 +1357,9 @@ Las comisiones de conurbación intraestatales se integrarán por:
 
 I.- Un Presidente, que será el Gobernador del Estado;
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2001)</small>
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
 
-II.- Un Secretario Técnico, que será el Secretario de Obras Públicas del Estado; y
+II.- Un Secretario Técnico, que será el Secretario de Infraestructura; y
 
 III.- Los presidentes de los ayuntamientos de los municipios del Estado, en donde se localice la zona conurbada.
 
@@ -4922,3 +4924,23 @@ Artículo Décimo Quinto.- Las Secretaría (sic) de Finanzas, de la Función Pú
 Artículo Décimo Sexto.- Los asuntos competencia de alguna dependencia o entidad establecida con anterioridad a la vigencia del presente Decreto y que por disposición de éste, deban ser atendidos por otra u otras, deberán transferirse junto con los expedientes y archivos a la nueva dependencia o entidad, la cual deberá concluirlos.
 
 Artículo Décimo Séptimo.- Cuando otros ordenamientos legales den una denominación distinta a alguna dependencia, entidad o unidad administrativa contempladas en la presente Ley, la atribución o función se entenderá como conferida a la dependencia, entidad o unidad administrativa que determine el presente ordenamiento legal.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE MARZO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, el Ejecutivo del Estado deberá actualizar la reglamentación de conformidad con el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, los Ayuntamientos deberán establecer su Gaceta Municipal.
+
+###### ARTÍCULO CUARTO.
+
+Los Ayuntamientos, en el término de ciento veinte días naturales a partir de la vigencia del presente Decreto, deberán publicar en sus Gacetas Municipales y en el Periódico Oficial, Órgano del Gobierno del Estado, todas las disposiciones normativas de carácter general que hayan sido generadas antes de la entrada en vigor del presente Decreto. Remitiendo en medio impreso y de forma magnética los instrumentos jurídicos a la Coordinación General Jurídica del Gobierno del Estado para su trámite de publicación.
