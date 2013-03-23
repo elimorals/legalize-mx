@@ -4,7 +4,7 @@ identifier: "ZAC-ley-para-la-proteccion-y-bienestar-de-los-animales-en-el-56447"
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-25"
-last_updated: "2007-07-25"
+last_updated: "2013-03-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56447&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY PARA LA PROTECCION Y BIENESTAR DE LOS ANIMALES EN EL ESTADO Y MUNICIPIOS DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2013.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el miércoles 25 de julio de 2007.
 
@@ -107,11 +107,15 @@ VIII. Especie: Unidad básica de clasificación taxonómica, formada por un conj
 
 IX. Fauna silvestre: Las especies animales que subsisten sujetas a los procesos de selección natural; que se desarrollan libremente; que sus poblaciones se encuentran bajo control del hombre, así como los animales domésticos que por abandono se tornen salvajes y que por ello sean susceptibles de captura y apropiación;
 
-X. Instituto: Instituto de Ecología y Medio Ambiente del Estado de Zacatecas;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+X. Secretaría: Secretaría del Agua y Medio Ambiente;
 
 XI. Ley: Ley Para la Protección y Bienestar de los Animales en el Estado y Municipios de Zacatecas;
 
-XII. Normas Zoológicas: Los criterios técnicos de carácter obligatorio emitidos por el Instituto o los Servicios de Salud de Zacatecas, en función de las facultades que esta Ley y otros ordenamientos le confieren;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+XII. Normas Zoológicas: Los criterios técnicos de carácter obligatorio emitidos por la Secretaría o los Servicios de Salud de Zacatecas, en función de las facultades que esta Ley y otros ordenamientos le confieren;
 
 XIII. Refugio: Los lugares o instalaciones de alojamiento de animales ya sea temporal o definitivo, pertenecientes a las asociaciones protectoras de animales y demás organizaciones de la sociedad civil;
 
@@ -161,7 +165,9 @@ Corresponde la aplicación de esta Ley:
 
 I. Al Ejecutivo del Estado;
 
-II. Al Instituto de Ecología y Medio Ambiente del Estado;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+II. A la Secretaría;
 
 III. A los Servicios de Salud de Zacatecas, y
 
@@ -181,9 +187,11 @@ IV. Crear los instrumentos económicos adecuados para incentivar a las organizac
 
 V. Las demás que le confiera esta Ley, el Reglamento y las disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 10.
 
-Son facultades del Instituto:
+Son facultades de la Secretaría:
 
 I. Formular e implementar políticas públicas orientadas a garantizar el bienestar de los animales;
 
@@ -253,7 +261,9 @@ VIII. Establecer campañas de vacunación antirrábica, campañas sanitarias par
 
 IX. Implementar acciones tendientes a la regulación del crecimiento de poblaciones de aves, a través de sistemas que no dañen al medioambiente y, cuando sea el caso, y la especie lo amerite, lograr la reubicación pacífica de las parvadas cuando causen o puedan causar problemas a las estructuras, edificaciones, obras artísticas y demás análogas en áreas comunes;
 
-X. Asesorar y capacitar a las comunidades rurales en el desarrollo de actividades de protección a los animales, en coordinación con el Instituto;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+X. Asesorar y capacitar a las comunidades rurales en el desarrollo de actividades de protección a los animales, en coordinación con la Secretaría;
 
 XI. Constituir un patrón de médicos veterinarios voluntarios quienes serán acreditados para atender y, en su caso, practicar sacrificios a los animales, cuando así se justifique;
 
@@ -263,9 +273,11 @@ XIII. Las demás que le confiera esta Ley, el Reglamento y las disposiciones leg
 
 ### CAPÍTULO III. Participación social
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 13.
 
-El Instituto y la Autoridad Municipal, promoverán la participación de las personas, asociaciones protectoras de animales, organizaciones sociales legalmente constituidas e instituciones académicas y de investigación, en las acciones gubernamentales relacionadas con el trato digno y respetuoso a los animales, y podrán celebrar convenios de concertación con éstas.
+La Secretaría y la Autoridad Municipal, promoverán la participación de las personas, asociaciones protectoras de animales, organizaciones sociales legalmente constituidas e instituciones académicas y de investigación, en las acciones gubernamentales relacionadas con el trato digno y respetuoso a los animales, y podrán celebrar convenios de concertación con éstas.
 
 ###### Artículo 14.
 
@@ -273,15 +285,19 @@ Los municipios podrán celebrar convenios de concertación con las asociaciones 
 
 El Reglamento de la presente Ley o los reglamentos municipales, en cada caso, establecerán los requisitos y condiciones para la celebración de estos convenios, así como para su terminación.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 15.
 
-La Autoridad Municipal, el Instituto y los Servicios de Salud, según corresponda, podrán autorizar la presencia como observadores, de hasta dos representantes de las asociaciones protectoras de animales legalmente constituidas y registradas, que así lo soliciten, cuando se realicen actos de sacrificio de animales en las instalaciones públicas destinadas para dicho fin, así como cuando se realicen visitas de verificación a establecimientos que manejen animales.
+La Autoridad Municipal, la Secretaría y los Servicios de Salud de Zacatecas, según corresponda, podrán autorizar la presencia como observadores, de hasta dos representantes de las asociaciones protectoras de animales legalmente constituidas y registradas, que así lo soliciten, cuando se realicen actos de sacrificio de animales en las instalaciones públicas destinadas para dicho fin, así como cuando se realicen visitas de verificación a establecimientos que manejen animales.
 
 ### CAPÍTULO IV. Normas zoológicas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 16.
 
-El Instituto, en coordinación con los Servicios de Salud, emitirá, en el ámbito de su competencia, las normas zoológicas, como criterios generales de carácter obligatorio, las cuales tendrán por objeto establecer los requisitos, especificaciones, condiciones, parámetros y límites permisibles en el desarrollo de una actividad humana para:
+La Secretaría, en coordinación con los Servicios de Salud de Zacatecas, emitirá, en el ámbito de su competencia, las normas zoológicas, como criterios generales de carácter obligatorio, las cuales tendrán por objeto establecer los requisitos, especificaciones, condiciones, parámetros y límites permisibles en el desarrollo de una actividad humana para:
 
 I. El trato respetuoso de los animales en los centros de control animal;
 
@@ -299,9 +315,11 @@ El procedimiento para la elaboración de las Normas Zoológicas se definirá en 
 
 ### CAPÍTULO I. Fondo Estatal para la Protección y Bienestar de los Animales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 17.
 
-Se crea el Fondo Estatal para la Protección y Bienestar de los Animales del Estado, coordinado por el Instituto y cuyos recursos se destinarán a:
+Se crea el Fondo Estatal para la Protección y Bienestar de los Animales del Estado, coordinado por la Secretaría y cuyos recursos se destinarán a:
 
 I. El fomento de estudios e investigaciones para mejorar los mecanismos para la protección de los animales y especies de fauna silvestre;
 
@@ -309,9 +327,13 @@ II. La promoción de campañas de esterilización y control de heces fecales en 
 
 III. El desarrollo de programas de educación y difusión para el fomento de la cultura de protección de los animales;
 
-IV. La materialización de las acciones establecidas en los convenios que el Instituto establezca con los sectores social, académico, privado y de investigación en las materias de la presente Ley;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
 
-V. El apoyo a los proyectos de protección y bienestar animal que presenten las asociaciones protectoras de animales legalmente constituidas y registradas ante el Instituto, y
+IV. La materialización de las acciones establecidas en los convenios que la Secretaría establezca con los sectores social, académico, privado y de investigación en las materias de la presente Ley;
+
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+V. El apoyo a los proyectos de protección y bienestar animal que presenten las asociaciones protectoras de animales legalmente constituidas y registradas ante la Secretaría, y
 
 VI. Las demás que le confiera esta Ley, el Reglamento y las disposiciones legales.
 
@@ -333,13 +355,17 @@ IV. Los demás recursos económicos que se generen legalmente por cualquier otro
 
 ### CAPÍTULO II. Cultura para la protección y bienestar de los animales
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 20.
 
-El Instituto y la Autoridad Municipal, en el ámbito de sus respectivas facultades, promoverán, mediante programas y campañas de difusión, la cultura de protección y bienestar de los animales y las especies de fauna silvestre, consistente en valores y conductas de respeto por parte del ser humano hacia los animales, con base en las disposiciones establecidas en la presente Ley en materia de trato respetuoso.
+La Secretaría y la Autoridad Municipal, en el ámbito de sus respectivas facultades, promoverán, mediante programas y campañas de difusión, la cultura de protección y bienestar de los animales y las especies de fauna silvestre, consistente en valores y conductas de respeto por parte del ser humano hacia los animales, con base en las disposiciones establecidas en la presente Ley en materia de trato respetuoso.
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### Artículo 21.
 
-El Instituto promoverá ante las instituciones correspondientes y participará en la capacitación y actualización del personal en el manejo de animales y especies de fauna silvestre, y en actividades de inspección y vigilancia, a través de cursos, talleres, reuniones, publicaciones y demás proyectos y acciones que contribuyan a los objetivos del presente Capítulo.
+La Secretaría promoverá ante las instituciones correspondientes y participará en la capacitación y actualización del personal en el manejo de animales y especies de fauna silvestre, y en actividades de inspección y vigilancia, a través de cursos, talleres, reuniones, publicaciones y demás proyectos y acciones que contribuyan a los objetivos del presente Capítulo.
 
 ### CAPÍTULO III. Obligaciones en materia de protección animal
 
@@ -377,15 +403,19 @@ XIII. Solventar los daños que cause su mascota, en los términos de la legislac
 
 Los centros de control animal, refugios, clínicas veterinarias, escuelas de adiestramiento, instalaciones deportivas para animales y demás lugares creados para alojar temporal o permanentemente a los animales, deberán:
 
-I. Contar con autorización para tal fin por parte el (sic) Instituto o la Autoridad Municipal;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+I. Contar con autorización para tal fin por parte de la Secretaría o la Autoridad Municipal;
 
 II. Cumplir con esta Ley, el Reglamento, las normas oficiales mexicanas aplicables y las Normas Zoológicas, y
 
 III. Tener personal capacitado e instalaciones adecuadas.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 24.
 
-La posesión de una especie de fauna silvestre en cautiverio requiere de autorización del Instituto. Si su propietario, poseedor o encargado no cumple esta disposición o permite que deambule libremente en vía pública, sin tomar las medidas y precauciones a efecto de no causar daño físico a terceras personas, será sancionado en los términos que esta Ley y demás disposiciones legales aplicables.
+La posesión de una especie de fauna silvestre en cautiverio requiere de autorización de la Secretaría si su propietario, poseedor o encargado no cumple esta disposición o permite que deambule libremente en vía pública, sin tomar las medidas y precauciones a efecto de no causar daño físico a terceras personas, será sancionado en los términos que esta Ley y demás disposiciones legales aplicables.
 
 ### CAPÍTULO IV. Maltrato y sacrificio de animales
 
@@ -513,17 +543,25 @@ III. Nombre y domicilio del propietario, y
 
 IV. Las demás que establezca el Reglamento.
 
-Dichos establecimientos, se sujetarán a las disposiciones que para tal efecto emita el Instituto y los ayuntamientos, en el ámbito de sus respectivas competencias.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
-Asimismo, están obligados a otorgar al comprador un manual de cuidado autorizado por el Instituto correspondiente a la especie, albergue y dieta del animal adquirido, que incluya, además, los riesgos ambientales de su liberación al medio natural o urbano y las faltas a que están sujetos por el incumplimiento de las disposiciones de la presente Ley.
+Dichos establecimientos, se sujetarán a las disposiciones que para tal efecto emita la Secretaría y los ayuntamientos, en el ámbito de sus respectivas competencias.
 
-Las crías de los animales de circos y zoológicos públicos o privados no están sujetas al comercio abierto. Se debe notificar al Instituto, cuando sean enajenadas, intercambiadas, prestadas o donadas, a terceras personas, o trasladadas a otras instituciones.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
+Asimismo, están obligados a otorgar al comprador un manual de cuidado autorizado por la Secretaría correspondiente a la especie, albergue y dieta del animal adquirido, que incluya, además, los riesgos ambientales de su liberación al medio natural o urbano y las faltas a que están sujetos por el incumplimiento de las disposiciones de la presente Ley.
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
+Las crías de los animales de circos y zoológicos públicos o privados no están sujetas al comercio abierto. Se debe notificar a la Secretaría, cuando sean enajenadas, intercambiadas, prestadas o donadas, a terceras personas, o trasladadas a otras instituciones.
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### Artículo 39.
 
-Toda persona física o jurídico colectiva que se dedique a la cría, venta o adiestramiento de animales, está obligada a contar con la autorización expedida por el Instituto o la Autoridad Municipal, y a valerse de los procedimientos más adecuados para disponer de todos los medios necesarios, a fin de que los animales, en su desarrollo, reciban un trato digno y respetuoso de acuerdo con los adelantos científicos y puedan satisfacer el comportamiento natural de su especie y cumplir con las normas oficiales mexicanas correspondientes.
+Toda persona física o jurídico colectiva que se dedique a la cría, venta o adiestramiento de animales, está obligada a contar con la autorización expedida por la Secretaría o la Autoridad Municipal, y a valerse de los procedimientos más adecuados para disponer de todos los medios necesarios, a fin de que los animales, en su desarrollo, reciban un trato digno y respetuoso de acuerdo con los adelantos científicos y puedan satisfacer el comportamiento natural de su especie y cumplir con las normas oficiales mexicanas correspondientes.
 
-Toda persona que se dedique al adiestramiento de perros de seguridad deberá contar con un certificado expedido por el Instituto o la Autoridad Municipal, en los términos establecidos en el Reglamento.
+Toda persona que se dedique al adiestramiento de perros de seguridad deberá contar con un certificado expedido por la Secretaría o la Autoridad Municipal, en los términos establecidos en el Reglamento.
 
 ###### Artículo 40.
 
@@ -547,7 +585,9 @@ En caso de incumplimiento en lo establecido en el párrafo anterior con respecto
 
 El propietario, poseedor o encargado de animales para la monta, carga, tiro o espectáculo, debe contar con la autorización correspondiente, alimentar y cuidar apropiadamente a sus animales sin que sean sometidos a jornadas excesivas de trabajo conforme a lo establecido en la norma zoológica correspondiente; debe mantener las instalaciones de guarda en estado higiénico y en condiciones adecuadas de espacio, así como cumplir con lo establecido en el Reglamento y las normas oficiales mexicanas que correspondan.
 
-La prestación del servicio de monta recreativa requerirá autorización de la Autoridad Municipal, salvo en las áreas de valor ambiental o naturales protegidas, en cuyo caso corresponde al Instituto su autorización, mismas que se sujetarán a las disposiciones correspondientes que establece esta Ley, el Reglamento y demás disposiciones legales aplicables.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
+La prestación del servicio de monta recreativa requerirá autorización de la Autoridad Municipal, salvo en las áreas de valor ambiental o naturales protegidas, en cuyo caso corresponde a la Secretaría su autorización, mismas que se sujetarán a las disposiciones correspondientes que establece esta Ley, el Reglamento y demás disposiciones legales aplicables.
 
 ###### Artículo 44.
 
@@ -571,9 +611,11 @@ Ningún alumno de nivel primaria, secundaria o medio superior, podrá ser obliga
 
 Toda institución de educación superior que experimente con animales, deberá constituir un comité de bioética ante quien se solicitará la anuencia para efectuar este tipo de actividades.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 47.
 
-Los experimentos que se lleven a cabo con animales, se realizarán únicamente cuando estén plenamente justificados ante el Instituto o la Autoridad Municipal, y cuando tales actos sean imprescindibles para el estudio y avance de la ciencia, siempre y cuando esté demostrado que:
+Los experimentos que se lleven a cabo con animales, se realizarán únicamente cuando estén plenamente justificados ante la Secretaría o la Autoridad Municipal, y cuando tales actos sean imprescindibles para el estudio y avance de la ciencia, siempre y cuando esté demostrado que:
 
 I. Los experimentos serán realizados bajo la supervisión de una institución de educación superior o (sic) través del comité de bioética de la misma y que la persona que dirija el experimento cuente con los conocimientos y la acreditación necesaria;
 
@@ -637,7 +679,9 @@ IV. Gestionar los asuntos que se le formulen, en el ámbito de su competencia;
 
 V. Promover la creación de comités en esta materia;
 
-VI. Auxiliar a las unidades administrativas del Instituto, en casos de emergencia relacionada con la protección de los animales;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+VI. Auxiliar a las unidades administrativas de la Secretaría, en casos de emergencia relacionada con la protección de los animales;
 
 VII. Fomentar la investigación y los estudios científicos y tecnológicos, así como la divulgación y fomento de la cultura de protección de los animales, y
 
@@ -651,9 +695,11 @@ La integración, organización y funcionamiento interno, serán establecidos por
 
 ### CAPÍTULO I. Denuncia y vigilancia
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 55.
 
-Toda persona podrá denunciar ante el Instituto o la Autoridad Municipal, todo hecho, acto u omisión que contravenga a las disposiciones de la presente Ley y demás ordenamientos legales aplicables.
+Toda persona podrá denunciar ante la Secretaría o la Autoridad Municipal, todo hecho, acto u omisión que contravenga a las disposiciones de la presente Ley y demás ordenamientos legales aplicables.
 
 Si por la naturaleza de los hechos denunciados se trata de asuntos de competencia del orden federal, éstos deberán turnarse a la autoridad competente.
 
@@ -661,9 +707,11 @@ Si por la naturaleza de los hechos denunciados se trata de asuntos de competenci
 
 Para la presentación, trámite y resolución de las denuncia (sic), en lo que corresponda, se estará a lo dispuesto en el Capítulo VI, De la Denuncia Ciudadana, del Título Octavo de la Ley de Equilibrio Ecológico y la Protección al Ambiente del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 57.
 
-Corresponderá al Instituto, a los Servicios de Salud y la Autoridad Municipal, en el ámbito de sus respectivas competencias, ejercer las funciones de inspección, vigilancia y supervisión para lograr el cumplimiento de la presente Ley.
+Corresponderá a la Secretaría, a los Servicios de Salud y la Autoridad Municipal, en el ámbito de sus respectivas competencias, ejercer las funciones de inspección, vigilancia y supervisión para lograr el cumplimiento de la presente Ley.
 
 Las visitas de inspección y verificación que estas autoridades realicen deben sujetarse a lo que determine el Reglamento.
 
@@ -671,9 +719,11 @@ El personal designado al efecto se hará acompañar de un miembro del Comité re
 
 ### CAPÍTULO II. Medidas de seguridad
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 58.
 
-De existir riesgo inminente para los animales o se ponga en peligro su vida debido a actos de crueldad o maltrato hacia ellos, el Instituto o la Autoridad Municipal, en forma fundada y motivada, podrá ordenar inmediatamente alguna o algunas de las siguientes medidas de seguridad:
+De existir riesgo inminente para los animales o se ponga en peligro su vida debido a actos de crueldad o maltrato hacia ellos, la Secretaría o la Autoridad Municipal, en forma fundada y motivada, podrá ordenar inmediatamente alguna o algunas de las siguientes medidas de seguridad:
 
 I. Aseguramiento precautorio de los animales;
 
@@ -683,15 +733,21 @@ III. Clausura definitiva cuando exista reincidencia en los casos que hayan motiv
 
 IV. Cualquier acción legal análoga que permita la protección a los animales.
 
-El Instituto, la Autoridad Municipal o los Servicios de Salud, podrán ordenar la ejecución de alguna o algunas de las medidas de seguridad que se establezcan en otros ordenamientos, en relación con la protección a los animales.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
+La Secretaría, la Autoridad Municipal o los Servicios de Salud, podrán ordenar la ejecución de alguna o algunas de las medidas de seguridad que se establezcan en otros ordenamientos, en relación con la protección a los animales.
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### Artículo 59.
 
-El Instituto, la Autoridad Municipal o los Servicios de Salud, podrán ordenar o proceder a la vacunación, atención médica o, en su caso, al sacrificio de animales que puedan constituirse en transmisores de enfermedades graves que pongan en riesgo la salud del ser humano, en coordinación con las dependencias encargadas de la sanidad animal.
+La Secretaría, la Autoridad Municipal o los Servicios de Salud, podrán ordenar o proceder a la vacunación, atención médica o, en su caso, al sacrificio de animales que puedan constituirse en transmisores de enfermedades graves que pongan en riesgo la salud del ser humano, en coordinación con las dependencias encargadas de la sanidad animal.
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### Artículo 60.
 
-Cuando el Instituto, la Autoridad Municipal o los Servicios de Salud ordenen algunas de las medidas de seguridad previstas en esta Ley, el Reglamento y demás disposiciones jurídicas aplicables, indicará al interesado, cuando proceda, las acciones que deberá llevar a cabo para subsanar las irregularidades que motivaron la imposición de dichas medidas, así como los plazos para su realización, a fin de que una vez cumplidas éstas, se ordene al (sic) retiro de la medida de seguridad impuesta.
+Cuando la Secretaría, la Autoridad Municipal o los Servicios de Salud ordenen algunas de las medidas de seguridad previstas en esta Ley, el Reglamento y demás disposiciones jurídicas aplicables, indicará al interesado, cuando proceda, las acciones que deberá llevar a cabo para subsanar las irregularidades que motivaron la imposición de dichas medidas, así como los plazos para su realización, a fin de que una vez cumplidas éstas, se ordene el retiro de la medida de seguridad impuesta.
 
 ### CAPÍTULO III. Sanciones Administrativas
 
@@ -735,9 +791,11 @@ Las infracciones dispuestas en esta Ley, que no tengan señalada una pena especi
 
 En caso de que las infracciones señaladas en el párrafo anterior hayan sido cometidas por investigadores, docentes o estudiantes, en instituciones científicas o educativas, la multa será de cincuenta a ciento cincuenta cuotas de salario mínimo vigente en el Estado, sin perjuicio de las demás sanciones que proceden conforme a otras Leyes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 66.
 
-El Instituto o la Autoridad Municipal, fundará y motivará la resolución en la que se imponga una pena, para lo cual, tomará en cuenta los siguientes criterios:
+La Secretaría o la Autoridad Municipal, fundará y motivará la resolución en la que se imponga una pena, para lo cual, tomará en cuenta los siguientes criterios:
 
 I. Las condiciones económicas del infractor;
 
@@ -759,15 +817,19 @@ En el caso de haber reincidencia respecto de lo mencionado en las fracciones I y
 
 Para efectos de la presente Ley, se reincide cuando se comete otra u otras faltas contra los animales.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 69.
 
-De lo recaudado por concepto de multas derivadas de violaciones a esta Ley, las autoridades competentes destinarán el cincuenta por ciento de los montos recabados al Instituto y el restante a los municipios que emprendan acciones relacionadas con las atribuciones que esta Ley le confiere.
+De lo recaudado por concepto de multas derivadas de violaciones a esta Ley, las autoridades competentes destinarán el cincuenta por ciento de los montos recabados (sic) la Secretaría y el restante a los municipios que emprendan acciones relacionadas con las atribuciones que esta Ley le confiere.
 
 ### CAPÍTULO IV. Recurso Administrativo
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 70.
 
-Las resoluciones emitidas por el Instituto, la Autoridad Municipal o los Servicios de Salud, podrán ser impugnadas ante el Tribunal de lo Contencioso Administrativo del Estado y Municipios de Zacatecas.
+Las resoluciones emitidas por la Secretaría, la Autoridad Municipal o los Servicios de Salud, podrán ser impugnadas ante el Tribunal de lo Contencioso Administrativo del Estado y Municipios de Zacatecas.
 
 T R A N S I T O R I O S
 
@@ -802,3 +864,23 @@ AMALIA D. GARCÍA MEDINA.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LUIS GERARDO ROMO FONSECA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE MARZO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, el Ejecutivo del Estado deberá actualizar la reglamentación de conformidad con el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, los Ayuntamientos deberán establecer su Gaceta Municipal.
+
+###### ARTÍCULO CUARTO.
+
+Los Ayuntamientos, en el término de ciento veinte días naturales a partir de la vigencia del presente Decreto, deberán publicar en sus Gacetas Municipales y en el Periódico Oficial, Órgano del Gobierno del Estado, todas las disposiciones normativas de carácter general que hayan sido generadas antes de la entrada en vigor del presente Decreto. Remitiendo en medio impreso y de forma magnética los instrumentos jurídicos a la Coordinación General Jurídica del Gobierno del Estado para su trámite de publicación.
