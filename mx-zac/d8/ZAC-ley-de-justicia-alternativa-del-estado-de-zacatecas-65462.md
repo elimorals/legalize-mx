@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-justicia-alternativa-del-estado-de-zacatecas-65462"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-31"
-last_updated: "2008-12-31"
+last_updated: "2013-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65462&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE JUSTICIA ALTERNATIVA DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el miércoles 31 de diciembre de 2008.
 
@@ -1045,7 +1045,9 @@ Imposición de Sanciones Administrativas
 
 El Pleno del Tribunal Superior de Justicia es la instancia competente para la imposición de sanciones administrativas a los servidores públicos adscritos al Centro Estatal o a los Centros Regionales, en términos de la Ley Orgánica del Poder Judicial del Estado y de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Zacatecas.
 
-Corresponde a la Contraloría Interna de Gobierno del Estado de Zacatecas, la facultad de imponer sanciones administrativas a los servidores públicos adscritos a Instancias de Justicia Alternativa que establezca el Ejecutivo del Estado, en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Zacatecas y, de la Ley Orgánica de la Administración Pública del Estado.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
+Corresponde a la Secretaría de la Función Pública del Gobierno del Estado de Zacatecas, la facultad de imponer sanciones administrativas a los servidores públicos adscritos a Instancias de Justicia Alternativa que establezca el Ejecutivo del Estado, en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Zacatecas y, de la Ley Orgánica de la Administración Pública del Estado.
 
 Imposición de Sanciones a Especialistas Independientes
 
@@ -1130,3 +1132,23 @@ AMALIA D. GARCÍA MEDINA.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. CARLOS PINTO NÚÑEZ.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE MARZO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, el Ejecutivo del Estado deberá actualizar la reglamentación de conformidad con el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, los Ayuntamientos deberán establecer su Gaceta Municipal.
+
+###### ARTÍCULO CUARTO.
+
+Los Ayuntamientos, en el término de ciento veinte días naturales a partir de la vigencia del presente Decreto, deberán publicar en sus Gacetas Municipales y en el Periódico Oficial, Órgano del Gobierno del Estado, todas las disposiciones normativas de carácter general que hayan sido generadas antes de la entrada en vigor del presente Decreto. Remitiendo en medio impreso y de forma magnética los instrumentos jurídicos a la Coordinación General Jurídica del Gobierno del Estado para su trámite de publicación.
