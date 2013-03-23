@@ -4,7 +4,7 @@ identifier: "ZAC-ley-del-sistema-penitenciario-y-de-ejecucion-de-sanciones-81817
 country: "mx"
 rank: "ley"
 publication_date: "2011-06-18"
-last_updated: "2011-06-18"
+last_updated: "2013-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81817&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DEL SISTEMA PENITENCIARIO Y DE EJECUCIÓN DE SANCIONES DEL ESTADO DE ZACATEC
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO, VÉASE EL ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO NO. 188 PUBLICADO EN EL SUPLEMENTO 2 DEL P.O. DE 18 DE JUNIO DE 2011, EL CUAL SEÑALA QUE ENTRARA EN VIGOR DE MANERA SUCESIVA SEGÚN LAS SIGUIENTES PREVENCIONES: DE MANERA INTEGRAL, EN EL DISTRITO JUDICIAL DE LA CAPITAL; Y EN EL RESTO DE LOS DISTRITOS JUDICIALES, EN LAS FECHAS EN QUE ENTRE EN VIGOR EL NUEVO SISTEMA DE JUSTICIA PENAL EN LOS TÉRMINOS DEL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PROCESAL PENAL PARA EL ESTADO DE ZACATECAS.</small>
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2013.
 
 Ley publicada en el Suplemento 2 del Periódico Oficial del Estado de Zacatecas, el sábado 18 de junio de 2011.
 
@@ -1205,11 +1205,17 @@ III. La Secretaría de Finanzas;
 
 IV. Los Servicios de Salud;
 
-V. La Secretaría de Educación y Cultura;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
 
-VI. La Secretaría de Planeación y Desarrollo Regional;
+V. La Secretaría de Educación;
 
-VII. La Secretaría de Desarrollo Económico;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+VI. La Secretaría de Desarrollo Social;
+
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+VII. La Secretaría de Economía;
 
 VIII. El Instituto de la Defensoría Pública del Estado de Zacatecas;
 
@@ -1783,7 +1789,9 @@ En todos los casos, se remitirán junto con la notificación de la sentencia los
 
 Si se trata de suspensión, destitución o inhabilitación de funciones de un servidor público, el Juez de Ejecución notificará la resolución al titular de la dependencia o entidad del orden de gobierno correspondiente, a efecto de que materialmente ejecute la medida.
 
-Si se trata de suspensión, destitución o inhabilitación para el ejercicio de una profesión, se notificará a la Secretaría de Educación y Cultura del Estado, así como a la Dirección General de Profesiones de la Secretaría de Educación Pública Federal, para los efectos conducentes.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
+Si se trata de suspensión, destitución, o inhabilitación para el ejercicio de una profesión, se notificará a la Secretaría de Educación, así como a la Dirección General de Profesiones de la Secretaría de Educación Pública Federal, para los efectos conducentes.
 
 En este caso se remitirán, junto con la notificación de la resolución, los datos necesarios para la efectiva ejecución de la sanción y se podrán recabar del sentenciado, o de las autoridades correspondientes, los informes que se estimen necesarios para verificar el cumplimiento de la sanción.
 
@@ -1880,3 +1888,23 @@ GRAL. JESÚS PINTO ORTIZ.
 PROCURADOR GENERAL DE JUSTICIA DEL ESTADO.
 
 LIC. ARTURO NAHLE GARCÍA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE MARZO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, el Ejecutivo del Estado deberá actualizar la reglamentación de conformidad con el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, los Ayuntamientos deberán establecer su Gaceta Municipal.
+
+###### ARTÍCULO CUARTO.
+
+Los Ayuntamientos, en el término de ciento veinte días naturales a partir de la vigencia del presente Decreto, deberán publicar en sus Gacetas Municipales y en el Periódico Oficial, Órgano del Gobierno del Estado, todas las disposiciones normativas de carácter general que hayan sido generadas antes de la entrada en vigor del presente Decreto. Remitiendo en medio impreso y de forma magnética los instrumentos jurídicos a la Coordinación General Jurídica del Gobierno del Estado para su trámite de publicación.
