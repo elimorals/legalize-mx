@@ -4,7 +4,7 @@ identifier: "ZAC-ley-del-centro-de-investigaciones-bibliograficas-de-51503"
 country: "mx"
 rank: "ley"
 publication_date: "2006-07-12"
-last_updated: "2006-07-12"
+last_updated: "2013-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51503&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ZAC"
 ---
 # LEY DEL CENTRO DE INVESTIGACIONES BIBLIOGRAFICAS DE ZACATECAS
 
-LEY DEL CENTRO DE INVESTIGACIONES BIBLIOGRAFICAS DE ZACATECAS
+LEY DEL CENTRO DE INVESTIGACIONES BIBLIOGRÁFICAS DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2013.
 
 Ley publicada en el suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 12 de julio del 2006.
 
@@ -77,9 +77,11 @@ Son objetivos de esta Ley, la localización, adquisición, registro, organizaci�
 
 ### Capítulo II. Del Centro de Investigaciones Bibliográficas
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 4.
 
-Para lograr los objetivos de esta Ley, se crea el Centro de Investigaciones Bibliográficas de Zacatecas, como un organismo público descentralizado de la administración pública estatal, sectorizado a la Secretaría de Educación y Cultura, con personalidad jurídica y patrimonio propios. Su domicilio legal se establece en la capital del estado. Dicho centro se conocerá por siglas CIBILIZA.
+Para lograr los objetivos de esta Ley, se crea el Centro de Investigaciones Bibliográficas de Zacatecas, como un organismo público descentralizado de la administración pública estatal, sectorizado a la Secretaría de Educación, con personalidad jurídica y patrimonio propios. Su domicilio legal se establece en la capital del estado. Dicho centro se conocerá por siglas CIBILIZA.
 
 ###### Artículo 5.
 
@@ -137,7 +139,9 @@ III. Un Órgano de Vigilancia.
 
 La Junta de Gobierno es el órgano superior del CIBILIZA y estará integrada de la siguiente manera:
 
-I. Un Presidente, que será el titular de la Secretaría de Educación y Cultura;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+I. Un Presidente, que será el titular de la Secretaría de Educación;
 
 II. Un Secretario Técnico que será quien designe la propia Junta;
 
@@ -155,7 +159,9 @@ e) El Director de Asuntos Religiosos de la Secretaría General de Gobierno;
 
 f) El Presidente de la Asociación de Cronistas del Estado de Zacatecas; y
 
-g) El Contralor Interno del Gobierno del Estado.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
+g) El Secretario de la Función Pública del Gobierno del Estado.
 
 ###### ARTÍCULO 11.
 
@@ -241,9 +247,11 @@ XI. Establecer y mantener estrecha relación con las instituciones y organismos 
 
 XII. Las demás que señale esta Ley, el Estatuto Orgánico, disposiciones reglamentarias y otros ordenamientos legales aplicables.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 17.
 
-El Órgano de Vigilancia, tendrá a su cargo el control interno del CIBILIZA, estará integrado por un Comisario y su suplente, que serán designados por la Contraloría Interna del Gobierno del Estado.
+El Órgano de Vigilancia, tendrá a su cargo el control interno del CIBILIZA, estará integrado por un Comisario y su suplente, que serán designados por la Secretaría de la Función Pública del Gobierno del Estado.
 
 ###### Artículo 18.
 
@@ -257,7 +265,9 @@ III. Asistir con derecho a voz a las sesiones de la Junta de Gobierno;
 
 IV. Solicitar a la Dirección General la información necesaria para el cumplimiento de sus funciones; y
 
-V. Las demás que le asigne la Contraloría Interna del Gobierno del Estado.
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+V. Las demás que le asigne la Secretaría de de (sic) la Función Pública del Gobierno del Estado.
 
 ### Capítulo IV. Del patrimonio del CIBILIZA
 
@@ -364,3 +374,23 @@ AMALIA D. GARCÍA MEDINA.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LUIS GERARDO ROMO FONSECA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE MARZO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, el Ejecutivo del Estado deberá actualizar la reglamentación de conformidad con el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, los Ayuntamientos deberán establecer su Gaceta Municipal.
+
+###### ARTÍCULO CUARTO.
+
+Los Ayuntamientos, en el término de ciento veinte días naturales a partir de la vigencia del presente Decreto, deberán publicar en sus Gacetas Municipales y en el Periódico Oficial, Órgano del Gobierno del Estado, todas las disposiciones normativas de carácter general que hayan sido generadas antes de la entrada en vigor del presente Decreto. Remitiendo en medio impreso y de forma magnética los instrumentos jurídicos a la Coordinación General Jurídica del Gobierno del Estado para su trámite de publicación.
