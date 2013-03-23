@@ -4,7 +4,7 @@ identifier: "ZAC-ley-del-servicio-profesional-de-carrera-del-estado-y-68682"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-04"
-last_updated: "2004-08-04"
+last_updated: "2013-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68682&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DEL SERVICIO PROFESIONAL DE CARRERA DEL ESTADO Y MUNICIPIOS DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2013.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 4 de agosto de 2004.
 
@@ -81,11 +81,17 @@ X. Junta Directiva: Es el órgano superior del Instituto;
 
 XI. Dirección General: La Dirección General del Instituto;
 
-XII. Oficialía Mayor de Gobierno: Dependencia que fungirá como instancia responsable de la ejecución y desarrollo del Sistema;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
 
-XIII. Dirección: La Dirección de Administración de Personal de la Oficialía Mayor de Gobierno, la cual será el enlace con las instancias ejecutoras del Sistema;
+XII. Secretaría de Administración: Dependencia que fungirá como instancia responsable de la ejecución y desarrollo del Sistema;
 
-XIV. Contraloría: La Contraloría Interna, instancia supervisar (sic) el Sistema del Servicio Profesional de Carrera, así mismo conocerá de las quejas e inconformidades presentadas por los usuarios del Sistema;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+XIII. Dirección: La Dirección de Administración de Personal de la Secretaría de Administración, la cual será el enlace con las instancias ejecutoras del Sistema;
+
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+XIV. Secretaría de la Función Pública del Gobierno del Estado: Es la instancia encargada de supervisar el Sistema del Servicio Profesional de Carrera, así mismo conocerá de las quejas e inconformidades presentadas por los usuarios del Sistema;
 
 XV. Dependencia: Las unidades administrativas, entidades públicas, órganos desconcentrados de la administración centralizada y del sector paraestatal; administración pública centralizada de los gobiernos municipales y paramunicipales;
 
@@ -95,7 +101,9 @@ XVII. Puesto: La unidad impersonal de trabajo con deberes inherentes y determina
 
 XVIII. Plaza: La posición individual de trabajo ocupada por un servidor público de carrera, con adscripción determinada y que esta respaldada presupuestalmente;
 
-XIX. Catálogo General de Puestos: El integrado por las clasificaciones conjuntas, genéricas y específicas de los puestos de servicio civil, perfiles, niveles y puntuaciones de las dependencias y entidades de la administración pública centralizada y paraestatal, el cual será emitido por la Oficialía Mayor de Gobierno, y respecto de las dependencias y entidades de la administración municipal y paramunicipal, será emitido por el Secretario del Gobierno Municipal;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+XIX. Catálogo General de Puestos: El integrado por las clasificaciones conjuntas, genéricas y específicas de los puestos de servicio civil, perfiles, niveles y puntuaciones de las dependencias y entidades de la administración pública centralizada y paraestatal, el cual será emitido por la Secretaría de Administración, y respecto de las dependencias y entidades de la administración municipal y paramunicipal, será emitido por el Secretario del Gobierno Municipal;
 
 XX. Tabulador: Es el instrumento técnico en el que se especifican los niveles salariales a que tendrán acceso los servidores públicos de carrera;
 
@@ -133,7 +141,9 @@ III. Los Directores Generales de las entidades públicas paraestatales, Secretar
 
 IV. Los Magistrados del Tribunal de Conciliación y Arbitraje del Estado;
 
-V. Los miembros del magisterio al servicio de la Secretaría de Educación y Cultura;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+V. Los miembros del magisterio al servicio de la Secretaría de Educación;
 
 VI. Los docentes que laboren en instituciones educativas creadas con el carácter de entidades públicas paraestatales;
 
@@ -141,7 +151,9 @@ VII. El personal de base que labore dentro de la administración pública centra
 
 VIII. Los elementos que pertenezcan a la Policía Estatal Preventiva y a la Policía Ministerial;
 
-IX. El personal que desempeñe actividades de seguridad y custodia en la Dirección de Prevención y Readaptación Social y el Consejo Tutelar para menores;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+IX. El personal que desempeñe actividades de seguridad y custodia en la Dirección de Prevención y Reinserción Social y el Centro de Internamiento y Atención Integral Juvenil;
 
 X. Los trabajadores temporales por obra o tiempo determinado, así como los contratados mediante contrato de prestación de servicios profesionales;
 
@@ -179,9 +191,13 @@ I. El Consejo del Servicio Profesional de Carrera;
 
 II. El Instituto de Selección y Capacitación del Estado;
 
-III. La Oficialía Mayor de Gobierno;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
 
-IV. La Contraloría Interna.
+III. La Secretaría de Administración;
+
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+IV. La Secretaría de la Función Pública del Gobierno del Estado.
 
 ### CAPÍTULO II. Del Consejo del Servicio Profesional de Carrera
 
@@ -191,7 +207,9 @@ El Consejo es el máximo órgano de la estructura del Sistema, integrado por un 
 
 I. El Gobernador del Estado, quien fungirá como Presidente del Consejo;
 
-II. El Oficial Mayor de Gobierno, en su carácter de Vicepresidente;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+II. El Secretario de Administración, en su carácter de Vicepresidente;
 
 III. Y las siguientes Vocalías:
 
@@ -199,15 +217,19 @@ a). Un representante de la Legislatura del Estado;
 
 b). El Secretario de Finanzas;
 
-c). El Secretario de Planeación y Desarrollo Regional;
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
-d). El Contralor Interno;
+c) El Secretario de Desarrollo Social;
 
-e). Un representante del Sindicato Único de Trabajadores al Servicio del Estado, Municipios y Organismos Paraestatales, debiendo ser su Secretario General o persona designada por él;
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
-f). Un representante de la administración pública centralizada y paraestatal, que tenga el carácter de servidor público de carrera;
+d) El Secretario de la Función Pública del Gobierno del Estado;
 
-g). Un representante de los Ayuntamientos.
+e) Un representante del Sindicato Único de Trabajadores al Servicio del Estado, Municipios y Organismos Paraestatales, debiendo ser su Secretario General o persona designada por él;
+
+f) Un representante de la administración pública centralizada y paraestatal, que tenga el carácter de servidor público de carrera;
+
+g) Un representante de los Ayuntamientos.
 
 El Director de Administración de Personal fungirá como Secretario Técnico del Consejo, el cual tendrá derecho a voz pero no a voto.
 
@@ -269,9 +291,11 @@ A las sesiones del Consejo podrán ser invitados los titulares de las dependenci
 
 ### CAPÍTULO III. Del Instituto de Selección y Capacitación del Estado
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 17.
 
-Se crea el Instituto de Selección y Capacitación de Estado, como un organismo público descentralizado con personalidad jurídica y patrimonio propio, con domicilio legal en la Ciudad de Zacatecas, Capital, cuya coordinadora de sector será la Oficialía Mayor de Gobierno.
+Se crea el Instituto de Selección y Capacitación de Estado, como un organismo público descentralizado con personalidad jurídica y patrimonio propio, con domicilio legal en la Ciudad de Zacatecas, Capital, cuya coordinadora de sector será la Secretaría de Administración.
 
 El Instituto tendrá por objeto el reclutamiento, selección, y profesionalización de los servidores públicos a que se refiere el artículo 4 de la presente ley, así mismo otorgar capacitación a los servidores públicos de la administración publica estatal, municipal y paramunicipal.
 
@@ -297,11 +321,15 @@ Las demás que le señale el presente ordenamiento, el reglamento de esta ley, s
 
 La Junta Directiva es el órgano de gobierno del Instituto cuyo presidente es el Gobernador del Estado y se integra con las siguientes vocalías:
 
-I. El Oficial Mayor de Gobierno en su carácter de Vicepresidente;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+I. El Secretario de Administración en su carácter de Vicepresidente;
 
 II. El Secretario de Finanzas;
 
-III. El Secretario de Planeación y Desarrollo Regional;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+III. El titular de la Unidad de Planeación del Poder Ejecutivo;
 
 IV. Un representante del Sindicato Único de Trabajadores al Servicio del Estado, Municipios y organismos paraestatales debiendo ser su secretario general o persona designada por él;
 
@@ -333,17 +361,23 @@ VIII. Expedir los ordenamientos necesarios para la mejor organización y funcion
 
 IX. Las demás que le sean conferidas por la presente ley, su reglamento y demás disposiciones aplicables.
 
-### CAPÍTULO IV. De la Oficialía Mayor de Gobierno
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE MARZO DE 2013)</small>
+
+### CAPÍTULO IV. De la Secretaría de Administración
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### Artículo 21.
 
-La Oficialía Mayor de Gobierno, en ejercicio de las facultades que le confiere la Ley Orgánica de la Administración Pública del Estado en materia de administración de recursos humanos, fungirá como instancia responsable del Sistema de Servicio Profesional de Carrera.
+La Secretaría de Administración, en ejercicio de las facultades que le confiere la Ley Orgánica de la Administración Pública del Estado en materia de administración de recursos humanos, fungirá como instancia responsable del Sistema de Servicio Profesional de Carrera.
 
-La Oficialía Mayor de Gobierno y el Instituto, coordinarán esfuerzos para eficientar la capacitación y profesionalización de los servidores públicos, a fin de consolidar el eficaz funcionamiento del Sistema.
+La Secretaría de Administración y el Instituto, coordinarán esfuerzos para eficientar la capacitación y profesionalización de los servidores públicos, a fin de consolidar el eficaz funcionamiento del Sistema.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### Artículo 22.
 
-Son atribuciones de la Oficialía Mayor:
+Son atribuciones de la Secretaría de Administración:
 
 I. Elaborar el Tabulador del Sistema;
 
@@ -449,9 +483,11 @@ VII. Subsistema de separación y retiro.
 
 ### CAPÍTULO II. De la Planeación de los Recursos Humanos y Clasificación de Puestos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 27.
 
-La Oficialía Mayor en coordinación con las dependencias establecerá un sistema de planeación de los recursos humanos y de descripción y clasificación de los puestos para el eficiente ejercicio del sistema. Al respecto, procederá a lo siguiente:
+La Secretaría de Administración en coordinación con las dependencias establecerá un sistema de planeación de los recursos humanos y de descripción y clasificación de los puestos para el eficiente ejercicio del sistema. Al respecto, procederá a lo siguiente:
 
 I. Registrar y procesar la información necesaria para la definición de los perfiles y requerimientos de los cargos incluidos en el catálogo. No se autorizará ningún cargo que no este incluido y descrito en el catálogo.
 
@@ -509,7 +545,9 @@ Salvo las excepciones previstas en la presente ley no se expedirá ningún nombr
 
 I. El curso básico de inducción;
 
-II. Los cursos especiales o cualquier otra práctica que considere necesarios la dependencia y la Oficialía Mayor para la valoración de los aspirantes; y
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+II. Los cursos especiales o cualquier otra práctica que considere necesarios la dependencia y la Secretaría de Administración para la valoración de los aspirantes; y
 
 III. Los exámenes de ingreso que a efectos se dispongan.
 
@@ -521,9 +559,11 @@ El Instituto deberá emitir y publicar la convocatoria en un diario de mayor cir
 
 Los requisitos de la convocatoria se establecerán en el reglamento de la presente ley.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 37.
 
-La emisión del dictamen es la fase en la cual el Instituto con base en los resultados, propone a la Oficialía Mayor la lista de los aspirantes que son aptos a ocupar la plaza o plazas vacantes.
+La emisión del dictamen es la fase en la cual el Instituto con base en los resultados, propone a la Secretaría de Administración la lista de los aspirantes que son aptos a ocupar la plaza o plazas vacantes.
 
 ###### Artículo 38.
 
@@ -541,15 +581,17 @@ Los resultados de los dictámenes serán públicos.
 
 La emisión del nombramiento de carrera, es la fase mediante la cual se acredita al aspirante como servidor público de carrera.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 41.
 
-El nombramiento es el instrumento administrativo expedido por la Oficialía Mayor de Gobierno, que acredita la calidad de servidor público de carrera, es de carácter permanente y otorga los derechos establecidos en la presente ley.
+El nombramiento es el instrumento administrativo expedido por la Secretaría de Administración, que acredita la calidad de servidor público de carrera, es de carácter permanente y otorga los derechos establecidos en la presente ley.
 
-Este nombramiento es distinto al que se expide para efectos laborales.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### Artículo 42.
 
-La Oficialía Mayor de Gobierno informará al titular de la dependencia requirente, el dictamen emitido por el Instituto, a fin de que sea ocupada la plaza vacante por el triunfador de la oposición respectiva.
+La Secretaría de Administración informará al titular de la dependencia requirente, el dictamen emitido, a fin de que sea ocupada la plaza vacante por el triunfador de la oposición respectiva.
 
 ###### Artículo 43.
 
@@ -559,9 +601,11 @@ Los requisitos de los nombramientos se establecerán en el reglamento de la pres
 
 Los servidores públicos de carrera podrán solicitar licencias en las condiciones y términos que establece la presente ley y su reglamento, sin perder los beneficios que se derivan de su permanencia y desarrollo.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 45.
 
-La licencia es el documento mediante el cual la dependencia autoriza al servidor público de carrera separarse temporalmente del Servicio Profesional de Carrera, sin perder los derechos que la presente ley le confiere. Dicho documento será emitido por la Oficialía Mayor de Gobierno.
+La licencia es el documento mediante el cual la dependencia autoriza al servidor público de carrera separarse temporalmente del Servicio Profesional de Carrera, sin perder los derechos que la presente ley le confiere. Dicho documento será emitido por la Secretaría de Administración.
 
 ###### Artículo 46.
 
@@ -629,11 +673,13 @@ La acreditación de las fases y la evaluación de los objetivos están previstas
 
 ### CAPÍTULO VI. De la Evaluación, Permanencia y Desarrollo
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 59.
 
-Las dependencias con el apoyo del Instituto y de la Oficialía Mayor realizarán los procesos de evaluación de los servidores públicos de carrera.
+Las dependencias con el apoyo del Instituto y de la Secretaría de Administración realizarán los procesos de evaluación de los servidores públicos de carrera.
 
-La evaluación estará compuesta por un conjunto de procedimientos e instrumentos que la Oficialía Mayor con apoyo de la Secretaría de Planeación y Desarrollo Regional y la Contraloría Interna del Estado propondrán al Consejo, los que tendrán por objeto verificar el cumplimiento de las metas contenidas en el Plan Estatal de Desarrollo, el nivel de profesionalización de los servidores públicos de carrera y apoyar en la toma de decisiones relativas a la permanencia, la separación, la titularidad, promoción y ascenso, así como el otorgamiento o suspensión de incentivos.
+La evaluación estará compuesta por un conjunto de procedimientos e instrumentos que la Secretaría de Administración con apoyo de la Unidad de Planeación del Titular del Poder Ejecutivo y la Secretaría de la Función Pública del Gobierno del Estado propondrán al Consejo, los que tendrán por objeto verificar el cumplimiento de las metas contenidas en el Plan Estatal de Desarrollo, el nivel de profesionalización de los servidores públicos de carrera y apoyar en la toma de decisiones relativas a la permanencia, la separación, la titularidad, promoción y ascenso, así como el otorgamiento o suspensión de incentivos.
 
 ###### Artículo 60.
 
@@ -715,9 +761,11 @@ La separación definitiva del sistema, es el acto por el cual la dependencia, di
 
 ### CAPÍTULO II. Del Recurso de Inconformidad
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 74.
 
-En contra de las decisiones y dictámenes emitidos para la aplicación del Sistema, procederá el recurso de inconformidad, que se presentará ante la Oficialía Mayor de Gobierno, o ante el ayuntamiento, tratándose de servidores públicos del gobierno municipal o paramunicipal; dentro de los quince días hábiles siguientes a la notificación del acto o resolución que se impugna, cumpliendo con los requisitos siguientes:
+En contra de las decisiones y dictámenes emitidos para la aplicación del Sistema, procederá el recurso de inconformidad, que se presentará ante la Secretaría de Administración, o ante el ayuntamiento, tratándose de servidores públicos del gobierno municipal o paramunicipal; dentro de los quince días hábiles siguientes a la notificación del acto o resolución que se impugna, cumpliendo con los requisitos siguientes:
 
 I. Constar por escrito debidamente firmado;
 
@@ -741,13 +789,19 @@ III. Constancia de notificación del acto impugnado, excepto cuando el promovent
 
 IV. Las pruebas documentales que ofrezca.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 76.
 
-La Oficialía Mayor o en su caso el ayuntamiento, pedirán informes a las dependencias que corresponda, a efecto de integrar el expediente. Dichos informes deberán rendirse en un plazo que no excederá de diez días hábiles siguientes al de la notificación.
+La Secretaría de Administración o en su caso el ayuntamiento, pedirán informes a las dependencias que corresponda, a efecto de integrar el expediente. Dichos informes deberán rendirse en un plazo que no excederá de diez días hábiles siguientes al de la notificación.
 
-Transcurrido el plazo para recabar los informes, la Oficialía Mayor o el ayuntamiento citarán a una audiencia que deberá celebrarse dentro de los quince días hábiles siguientes, a efecto de que se desahoguen las pruebas y se formulen alegatos.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
-En un término que no excederá de treinta días hábiles posteriores a la celebración de la audiencia, la Oficialía Mayor o el ayuntamiento, dictarán resolución fundada y motivada.
+Transcurrido el plazo para recabar los informes, la Secretaria de Administración o el ayuntamiento citarán a una audiencia que deberá celebrarse dentro de los quince días hábiles siguientes, a efecto de que se desahoguen las pruebas y se formulen alegatos.
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
+En un término que no excederá de treinta días hábiles posteriores a la celebración de la audiencia, la Secretaría de Administración o el ayuntamiento, dictarán resolución fundada y motivada.
 
 Contra la resolución que ponga fina al recurso, el promovente podrá interponer juicio de nulidad ante el Tribunal de lo Contencioso Administrativo del Estado y Municipios.
 
@@ -814,3 +868,23 @@ DR. RICARDO MONREAL ÁVILA.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. JAIME ARTURO CASAS MADERO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE MARZO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, el Ejecutivo del Estado deberá actualizar la reglamentación de conformidad con el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, los Ayuntamientos deberán establecer su Gaceta Municipal.
+
+###### ARTÍCULO CUARTO.
+
+Los Ayuntamientos, en el término de ciento veinte días naturales a partir de la vigencia del presente Decreto, deberán publicar en sus Gacetas Municipales y en el Periódico Oficial, Órgano del Gobierno del Estado, todas las disposiciones normativas de carácter general que hayan sido generadas antes de la entrada en vigor del presente Decreto. Remitiendo en medio impreso y de forma magnética los instrumentos jurídicos a la Coordinación General Jurídica del Gobierno del Estado para su trámite de publicación.
