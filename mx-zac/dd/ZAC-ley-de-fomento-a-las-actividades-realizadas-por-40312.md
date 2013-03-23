@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-fomento-a-las-actividades-realizadas-por-40312"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-14"
-last_updated: "2004-07-14"
+last_updated: "2013-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40312&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE FOMENTO A LAS ACTIVIDADES REALIZADAS POR ORGANIZACIONES DE LA SOCIEDAD CIVIL EN EL ESTADO DE ZACATECAS Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2013.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el miércoles 14 de julio de 2004.
 
@@ -213,13 +213,19 @@ La Comisión se conformará por un representante, con rango de subsecretario o d
 
 I. Secretaría General de Gobierno;
 
-II. Secretaría de Planeación y Desarrollo Regional;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+II. Secretaría de Desarrollo Social;
 
 III. Secretaría de Finanzas;
 
-IV. Secretaría Desarrollo Económico, y
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
 
-V. Desarrollo Integral de la Familia.
+IV. Secretaría de Economía, y
+
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+V. Sistema Estatal para el Desarrollo Integral de la Familia.
 
 Las demás dependencias o entidades de la Administración Pública Estatal participarán a invitación de la Comisión, cuando se traten asuntos de su competencia.
 
@@ -490,3 +496,23 @@ DR. RICARDO MONREAL ÁVILA.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. JAIME ARTURO CASAS MADERO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE MARZO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, el Ejecutivo del Estado deberá actualizar la reglamentación de conformidad con el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, los Ayuntamientos deberán establecer su Gaceta Municipal.
+
+###### ARTÍCULO CUARTO.
+
+Los Ayuntamientos, en el término de ciento veinte días naturales a partir de la vigencia del presente Decreto, deberán publicar en sus Gacetas Municipales y en el Periódico Oficial, Órgano del Gobierno del Estado, todas las disposiciones normativas de carácter general que hayan sido generadas antes de la entrada en vigor del presente Decreto. Remitiendo en medio impreso y de forma magnética los instrumentos jurídicos a la Coordinación General Jurídica del Gobierno del Estado para su trámite de publicación.
