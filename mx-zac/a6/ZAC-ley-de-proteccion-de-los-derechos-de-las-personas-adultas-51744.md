@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-proteccion-de-los-derechos-de-las-personas-adultas-51744
 country: "mx"
 rank: "ley"
 publication_date: "2006-06-24"
-last_updated: "2006-06-24"
+last_updated: "2013-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51744&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2013.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 24 de junio de 2006.
 
@@ -95,7 +95,9 @@ IV. Los municipios de la entidad, en el ámbito de sus respectivas competencias 
 
 V. Las familias de las personas adultas mayores vinculadas por el parentesco, cualquiera que sea éste, de conformidad con lo dispuesto por el Código Familiar vigente en el Estado;
 
-VI. La Comisión Estatal de Derechos Humanos, en el ámbito de su competencia; y
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+VI. La Comisión de Derechos Humanos del Estado de Zacatecas, en el ámbito de su competencia; y
 
 VII. Los ciudadanos y la sociedad civil organizada, cualquiera que sea su forma o denominación, así como los sectores social y privado.
 
@@ -217,7 +219,9 @@ IV. A la educación, por tanto, se reconoce que tienen derecho a:
 
 a) Recibir educación de conformidad con lo establecido en (sic) artículo 3º de la Constitución Política de los Estados Unidos Mexicanos; y
 
-b) Que las instituciones educativas, públicas y privadas estatales y municipales, promuevan, por medio de la Secretaría de Educación y Cultura, que se incluyan en los planes y programas de estudios los conocimientos relacionados con las personas adultas mayores.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
+b) Que las instituciones educativas públicas, privadas estatales y municipales, promuevan por medio de la Secretaría de Educación, que se incluyan en los planes y programas de estudios de los conocimientos relacionados con las personas adultas mayores.
 
 V. Al trabajo, por tanto, se reconoce que tienen derecho a:
 
@@ -283,9 +287,11 @@ VI. Participar en la vida cívica, académica y productiva de la sociedad a la q
 
 Las dependencias y entidades del Estado y de los municipios así como los organismos no gubernamentales relacionados con esta materia, promoverán la difusión de esta Ley, con el fin de que la familia y la sociedad en general respeten a las personas adultas mayores e invariablemente otorguen el reconocimiento a su dignidad.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 9.
 
-La Comisión Estatal de los Derechos Humanos, en el ámbito de su competencia, difundirá aquellos derechos que correspondan a las personas adultas mayores.
+La Comisión de Derechos Humanos del Estado de Zacatecas, en el ámbito de su competencia, difundirá aquellos derechos que correspondan a las personas adultas mayores.
 
 ###### Artículo 10.
 
@@ -325,9 +331,11 @@ III. Descuentos o exenciones de pago en su caso, a las personas adultas mayores 
 
 IV. Las demás que le confiera esta Ley u otras disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 14.
 
-La Secretaría de Educación y Cultura garantizará a las personas adultas mayores:
+La Secretaría de Educación, garantizará a las personas adultas mayores:
 
 I. El acceso a la educación pública en todos sus niveles y modalidades y a cualquier otra actividad académica o cultural que contribuya a su desarrollo académico o intelectual;
 
@@ -341,13 +349,17 @@ V. El fomento de una cultura del envejecimiento, del respeto, igualdad, aprecio 
 
 VI. Las demás que disponga esta Ley y demás ordenamientos aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 15.
 
-Corresponderá a la Secretaría de Planeación y Desarrollo Regional:
+Corresponderá a la Secretaría de Desarrollo Social:
 
 I. Implementar los programas necesarios, a efecto de promover el empleo para las personas adultas mayores, tanto en el sector público como privado, atendiendo a su profesión u oficio, y a su experiencia y conocimientos teóricos y prácticos, sin más restricciones que su limitación física o mental;
 
-II. Impulsar, en coordinación con la Secretaría de Desarrollo Económico, programas de autoempleo para las personas adultas mayores, de acuerdo a su profesión u oficio, a través de apoyos financieros, de capacitación y la creación de redes de producción, distribución y comercialización; y
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+II. Impulsar, en coordinación con la Secretaría de Economía, programas de autoempleo para las personas adultas mayores, de acuerdo a su profesión u oficio, a través de apoyos financieros, de capacitación y la creación de redes de producción, distribución y comercialización; y
 
 III. Las demás que le confiera esta Ley y otras disposiciones aplicables.
 
@@ -585,7 +597,9 @@ I. La observación por escrito acerca de la violación o amenaza contra el derec
 
 II. Conminación para que cese de inmediato la situación que viola o pone en peligro el derecho en cuestión, cuando la persona llamada no se presente en el plazo conferido para tal efecto, o bien, cuando se haya presentado pero continúe en la misma situación perjudicial a la persona adulta mayor.
 
-Cuando la violación a los derechos de las personas adultas mayores provenga de autoridades administrativas, el Sistema DIF Estatal orientará al interesado para que interponga, en los términos de las disposiciones aplicables, queja ante la Comisión Estatal de los Derechos Humanos.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
+Cuando la violación a los derechos de las personas adultas mayores provenga de autoridades administrativas, el Sistema DIF Estatal orientará al interesado para que interponga, en los términos de las disposiciones aplicables, queja ante la Comisión de Derechos Humanos del Estado de Zacatecas.
 
 ### CAPÍTULO III. Del Programa Estatal de Atención a las Personas Adultas Mayores
 
@@ -655,11 +669,17 @@ a) Por el sector público:
 
 1. La o el titular de la Secretaría de Finanzas;
 
-2. La o el titular de la Secretaría de Educación y Cultura;
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
-3. La o el titular de la Secretaría de Planeación y Desarrollo Regional;
+2. La o el titular de la Secretaría de Educación;
 
-4. La o el titular de la Secretaría de Desarrollo Económico;
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
+3. La o el titular de la Secretaría de Desarrollo Social;
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
+4. La o el titular de la Secretaría de Economía;
 
 5. La o el titular de la Secretaría de Turismo;
 
@@ -667,17 +687,23 @@ a) Por el sector público:
 
 7. La o el Presidente del Patronato del Sistema DIF Estatal;
 
-8. La o el titular de la Comisión Estatal para la Integración Social de las Personas con Discapacidad;
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
+8. La o el titular de la Subsecretaría de las Personas con Discapacidad;
 
 9. La o el titular de la Coordinación General Jurídica;
 
 10. La o el titular del Instituto Zacatecano de Cultura “Ramón López Velarde”;
 
-11. La o el titular del Instituto de Ecología y Medio Ambiente del Estado;
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
+11. La o el titular de la Secretaría del Agua y Medio Ambiente;
 
 12. La o el titular del Instituto del Deporte del Estado;
 
-13. La titular del Instituto para la Mujer Zacatecana;
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
+13. La o el titular de la Secretaría de las Mujeres;
 
 14. La o el titular del Servicio Estatal de Empleo;
 
@@ -699,7 +725,9 @@ a. La o el Presidente de la Comisión Legislativa de Discapacitados y Tercera Ed
 
 b. La o el Presidente del Tribunal Superior de Justicia del Estado;
 
-c. La o el Presidente de la Comisión Estatal de Derechos Humanos;
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
+c. La o el Presidente de la Comisión de Derechos Humanos del Estado de Zacatecas;
 
 d. La o el Rector de la Universidad Autónoma de Zacatecas;
 
@@ -1210,3 +1238,23 @@ AMALIA D. GARCÍA MEDIAN.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LUIS GERARDO ROMO FONSECA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE MARZO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, el Ejecutivo del Estado deberá actualizar la reglamentación de conformidad con el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, los Ayuntamientos deberán establecer su Gaceta Municipal.
+
+###### ARTÍCULO CUARTO.
+
+Los Ayuntamientos, en el término de ciento veinte días naturales a partir de la vigencia del presente Decreto, deberán publicar en sus Gacetas Municipales y en el Periódico Oficial, Órgano del Gobierno del Estado, todas las disposiciones normativas de carácter general que hayan sido generadas antes de la entrada en vigor del presente Decreto. Remitiendo en medio impreso y de forma magnética los instrumentos jurídicos a la Coordinación General Jurídica del Gobierno del Estado para su trámite de publicación.
