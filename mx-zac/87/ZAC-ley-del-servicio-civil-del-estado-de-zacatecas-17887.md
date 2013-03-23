@@ -4,7 +4,7 @@ identifier: "ZAC-ley-del-servicio-civil-del-estado-de-zacatecas-17887"
 country: "mx"
 rank: "ley"
 publication_date: "1996-09-11"
-last_updated: "2009-12-19"
+last_updated: "2013-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DEL SERVICIO CIVIL DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el miércoles 11 de septiembre de 1996.
 
@@ -121,7 +121,7 @@ III.- Entidades públicas: los poderes del Estado, dependencias del Poder Ejecut
 
 Las y los trabajadores son todo servidor público que presta un trabajo personal subordinado, físico o intelectual, o de ambos géneros, en virtud de nombramiento expedido, o por figurar en las nóminas de salario de las y los trabajadores temporales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 4.
 
@@ -133,7 +133,7 @@ II.- De base; y
 
 III.- Temporales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 5.
 
@@ -157,7 +157,7 @@ VI.- Investigación científica, siempre que implique facultades para determinar
 
 VII.- Control de almacén, autorización de ingreso o salida de bienes o valores y su destino; o la alta y baja en inventarios.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 6.
 
@@ -173,7 +173,7 @@ II.- La o el Secretario de Despacho;
 
 III.- La o el Procurador General de Justicia del Estado;
 
-IV.- La o el Oficial Mayor;
+IV.- (DEROGADA, P.O. 23 DE MARZO DE 2013)
 
 V.- La o el Representante del Gobierno del Estado en el Distrito Federal;
 
@@ -221,7 +221,7 @@ XXVI.- La o el Cajero;
 
 XXVII.- La o el Auditor;
 
-XXVIII.- La o el Contralor;
+XXVIII. (DEROGADA, P.O. 23 DE MARZO DE 2013)
 
 XXIX.- La o el Supervisor;
 
@@ -241,7 +241,7 @@ En los casos no previstos en la enunciación anterior, la naturaleza del trabajo
 
 La clasificación de los puestos de confianza en cada una de las entidades públicas deberá formar parte del catálogo de puestos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 8.
 
@@ -249,7 +249,7 @@ Las y los trabajadores de confianza tendrán las siguientes prerrogativas:
 
 I.- Disfrutarán de las medidas de protección al salario y de la seguridad social;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 II.- Tendrán derecho a convertirse en trabajadoras o trabajadores de base, con opinión del sindicato, dentro de las disponibilidades del catálogo de puestos, cuando reúnan los siguientes requisitos:
 
@@ -351,7 +351,7 @@ Las y los mayores de dieciséis años y las personas con alguna discapacidad fí
 
 La omisión o falta de expedición del nombramiento es responsabilidad de la entidad pública.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 18.
 
@@ -401,7 +401,7 @@ IX.- Nombre, firma y cargo de quien lo expide.
 
 El nombramiento aceptado obliga a la o el trabajador a regir sus actos con el más alto concepto de profesionalismo, honestidad, rectitud y a cumplir con todos los deberes inherentes al cargo o empleo correspondiente y a las consecuencias que sean conforme a la ley, a la costumbre y a la buena fe.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 21.
 
@@ -435,15 +435,15 @@ En el caso de la fracción III de este artículo, la entidad en que labore la o 
 
 Cuando el cambio de la o el trabajador, determinado por la o el titular de la entidad pública, sea de adscripción, la o el trabajador conservará su mismo nivel salarial, categoría, plaza, antigüedad, derechos y prestaciones, pero de considerarse el cambio improcedente el trabajador podrá recurrir al Tribunal.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### Artículo 22.
 
-Las y los trabajadores del Gobierno del Estado se clasifican conforme a lo señalado en el catálogo general de puestos que para el efecto expida la Oficialía Mayor de Gobierno. Las y los trabajadores de las demás entidades sometidas al régimen de la presente ley, se clasifican conforme a sus propios catálogos que se establezcan dentro de su régimen interno. En la formulación, aplicación y actualización de los catálogos de puestos se escuchará la opinión de sus respectivos sindicatos.
+Las y los trabajadores del Gobierno del Estado se clasifican conforme a lo señalado en el catálogo general de puestos que para el efecto expida la Secretaría de Administración del Gobierno del Estado. Las y los trabajadores de las demás entidades sometidas al régimen de la presente ley, se clasifican conforme a sus propios catálogos que se establezcan dentro de su régimen interno. En la formulación, aplicación y actualización de los catálogos de puestos se escuchará la opinión de sus respectivos sindicatos.
 
 ### CAPITULO III. DE LA SUSPENSION DE LOS EFECTOS DE LA RELACION DE TRABAJO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 23.
 
@@ -519,7 +519,7 @@ VI.- En el caso de la fracción IX, desde la fecha en que se haya señalado como
 
 VII.- En el caso de la fracción X, desde la fecha en que la o el titular de la entidad pública tenga conocimiento de la irregularidad en que incurrió la o el trabajador.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 26.
 
@@ -575,13 +575,13 @@ Una parte de la relación laboral, en cualquier tiempo, podrá rescindir la rela
 
 Si fuere la o el titular de la entidad pública quien pretenda la rescisión, previamente deberá instaurar un procedimiento administrativo que respete las garantías de audiencia y de defensa y que sea substanciado en condiciones de igualdad procesal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 29.
 
 La o el titular de la entidad pública podrá rescindir la relación de trabajo a la o el trabajador, sin incurrir en responsabilidad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 Para ello, deberá substanciarse un procedimiento al que asistan la o el propio trabajador, la parte denunciante en caso de haberla y la parte sindical correspondiente para garantizar que exista igualdad de condiciones procesales. Lo anterior, siempre y cuando se produzca cualesquiera de las causales siguientes:
 
@@ -651,7 +651,7 @@ La notificación de la determinación del inicio del procedimiento de rescisión
 
 La falta de notificación a la o a el trabajador personalmente o por conducto del Tribunal, así como de las formalidades del procedimiento, serán suficientes para determinar la nulidad del inicio del procedimiento de la rescisión y, en consecuencia, la injustificación de la separación, si así lo hubiese determinado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE FEBRERO DE 2005)</small>
 
 ###### Artículo 32.
 
@@ -673,7 +673,7 @@ La o el trabajador que haya sido separado del empleo injustificadamente, a su el
 
 Si en el juicio no comprueba la entidad pública alguna causa de rescisión así como el procedimiento administrativo seguido, la o el trabajador tendrá derecho además, cualquiera que hubiese sido al acción intentada, a que se le paguen los salarios vencidos desde la fecha del despido hasta que se cumplimente el laudo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 34.
 
@@ -853,7 +853,7 @@ Para que los permisos o licencias se concedan es requisito previo la solicitud p
 
 Todas las servidoras y los servidores públicos que contraigan matrimonio o bien que sufran la pérdida de algún familiar hasta el segundo grado, tendrán derecho a cinco días de descanso.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 56.
 
@@ -959,7 +959,7 @@ Los trabajadores que no hayan cumplido un año de labores, tendrán derecho a qu
 
 ### CAPITULO VI. OBLIGACIONES Y PROHIBICIONES DE LAS ENTIDADES PUBLICAS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 69.
 
@@ -991,7 +991,7 @@ VI.- Hacer efectivas las deducciones de salarios que ordenen la autoridad judici
 
 VII.- Fomentar la educación, la capacitación, la cultura y el deporte entre sus trabajadoras y trabajadores, colaborando con las autoridades de trabajo y de educación, de conformidad con las leyes y reglamentos correspondientes;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 VIII.- Conceder licencias a sus trabajadoras y trabajadores, sin menoscabo de sus derechos y antigüedad y en los términos de las condiciones generales de trabajo, en los siguientes casos:
 
@@ -1029,7 +1029,7 @@ XIII.- Proporcionar la capacitación y adiestramiento a sus trabajadoras y traba
 
 XIV.- Acatar en sus términos los laudos que emita el Tribunal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 70.
 
@@ -1055,11 +1055,11 @@ VI.- Realizar cualquier acto que tenga por objeto impedir o dificultar que obten
 
 VII.- Distraer a sus trabajadoras y trabajadores para realizar actividades propias de partidos políticos dentro del horario de trabajo.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 ### CAPITULO VII. OBLIGACIONES Y PROHIBICIONES DE LAS Y LOS TRABAJADORES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 71.
 
@@ -1095,9 +1095,9 @@ X.- Custodiar y cuidar la documentación e información que por razón de su emp
 
 XI.- Comunicar por escrito a la titular o el titular de la entidad pública en la que presten sus servicios, el incumplimiento de las obligaciones establecidas o las dudas fundadas que les susciten la procedencia de las órdenes que reciban;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
 
-XII.- Atender las instrucciones, requerimientos y resoluciones que reciban de la Contraloría Interna del Estado o de las contralorías internas, conforme a la competencia de éstas;
+XII. Atender las instrucciones, requerimientos y resoluciones que reciban de la Secretaría de la Función Pública del Gobierno del Estado o de las contralorías internas, conforme a la competencia de éstas;
 
 XIII.- Restituir los materiales no usados y conservar en buen estado los instrumentos de trabajo, no siendo responsables por el deterioro que origine su uso normal, o por el ocasionado por caso fortuito, fuerza mayor o por su mala calidad;
 
@@ -1105,7 +1105,7 @@ XIV.- Someterse periódicamente a reconocimientos médicos, para comprobar que n
 
 XV.- Dar aviso de inmediato a su superior próximo, salvo caso fortuito o fuerza mayor, de las causas justificadas que le impidan concurrir a su trabajo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 72.
 
@@ -1205,7 +1205,7 @@ La capacitación y el adiestramiento se darán preferentemente durante la jornad
 
 La capacitación y el adiestramiento podrán darse dentro o fuera del lugar o lugares donde preste sus servicios la o el trabajador, por conducto de personal de la entidad pública o de instructores o instituciones especializados.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 79.
 
@@ -1325,7 +1325,7 @@ La vacante se otorgará a la o el trabajador de la categoría inmediata inferior
 
 En igualdad de condiciones se preferirá a la o el trabajador que tenga mayor tiempo de servicios prestados dentro de la misma entidad pública. Cuando existan varios en esta situación, se preferirá a la o el que demuestre que es la única fuente de ingresos de su familia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 96.
 
@@ -1359,7 +1359,7 @@ Cuando quien disfrute la licencia, pretenda reingresar anticipadamente al servic
 
 El procedimiento para resolver las permutas de empleos, así como las inconformidades de las y los trabajadores afectados por el trámite o movimientos escalafonarios, será previsto en los reglamentos. La autoridad competente para resolverlos será el Tribunal.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 ## TITULO CUARTO. DE LAS ORGANIZACIONES COLECTIVAS DE LAS Y LOS TRABAJADORES Y DE LAS CONDICIONES GENERALES DE TRABAJO
 
@@ -1377,7 +1377,7 @@ La ley reconoce la libertad de coalición de las y los trabajadores para constit
 
 Sindicato es la asociación de trabajadoras y trabajadores constituida para el estudio, mejoramiento y defensa de sus intereses, orientado invariablemente a mejores metas de justicia social.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 102.
 
@@ -1397,7 +1397,7 @@ Las y los trabajadores de confianza no podrán formar parte de los sindicatos.
 
 Cuando las y los trabajadores de base desempeñen un puesto de confianza, quedarán suspendidas todas sus obligaciones y derechos sindicales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 105.
 
@@ -1483,7 +1483,7 @@ f) la expulsión deberá ser aprobada por mayoría del total de los miembros del
 
 g) la expulsión sólo podrá decretarse por los casos expresamente consignados en los estatutos debidamente comprobados y exactamente aplicables al caso.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 VIII.- Forma de convocar a asamblea, época de celebración de las ordinarias y quórum requerido para sesionar. En el caso de que la directiva no convoque oportunamente a las asambleas previstas en los estatutos, las y los trabajadores que representen el treinta y tres por ciento del total de las y los miembros del sindicato o de la sección, por lo menos, podrán solicitar de la directiva que convoque a la asamblea y si no lo hace dentro de un término de diez días, podrán las y los solicitantes hacer la convocatoria, en cuyo caso, para que la asamblea pueda sesionar y adoptar resoluciones, se requiere que concurran las dos terceras partes del total de los miembros del sindicato o de la sección.
 
@@ -1629,7 +1629,7 @@ X.- Las correcciones disciplinarias y las formas de aplicarlas; y
 
 XI.- Las demás reglas que fueren convenientes para obtener mayor seguridad y eficacia en el servicio.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### Artículo 126.
 
@@ -1815,7 +1815,7 @@ Los conflictos de trabajo de su competencia serán resueltos por el Tribunal Loc
 
 El Tribunal será colegiado, funcionará en pleno y estará integrado por tres magistradas o magistrados, que durarán en su encargo seis años, pudiendo ser reelectas o reelectos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 148.
 
@@ -1885,7 +1885,7 @@ II.- Dos candidatas o candidatos designados por la o el Ejecutivo del Estado en 
 
 La designación de candidatas y candidatos se hará ante el Poder Legislativo, quien procederá al nombramiento de una o un magistrado representante propietario y un suplente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 154.
 
@@ -1893,7 +1893,7 @@ La o el Magistrado Presidente del Tribunal, será nombrado por el Poder Legislat
 
 De no haberse designado candidatos dentro de los plazos señalados en los artículos 148 y 150 de esta Ley, el nombramiento de Magistrados lo hará el Poder Legislativo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 155.
 
@@ -1901,7 +1901,7 @@ A falta de Magistradas o Magistrados representantes, asumirán el cargo la o los
 
 Faltando unos y otros, se harán nuevas designaciones en los términos de este capítulo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 156.
 
@@ -1957,7 +1957,7 @@ VII.- Conocer del recurso de revisión interpuesto en contra de las resoluciones
 
 VIII.- Las demás funciones que se derivan de esta ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 159.
 
@@ -2009,7 +2009,7 @@ Las y los magistrados deberán asistir a la audiencia de discusión y votación 
 
 Si no concurre la mayoría, la o el Magistrado Presidente señalará día y hora para que se celebre la audiencia, y si de nuevo no concurre la mayoría, integrarán pleno los magistrados suplentes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 162.
 
@@ -2023,7 +2023,7 @@ III.- Elaborar el proyecto de laudo en los asuntos que les sean asignados; y
 
 IV.- Las demás que señalen la presente ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 163.
 
@@ -2081,7 +2081,7 @@ IX. Demás personal de apoyo que sea necesario.
 
 El personal quedará sujeto a la presente ley, pero los conflictos que se susciten entre éstos y el Tribunal, serán resueltos por la Junta Local de Conciliación y Arbitraje.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 166.
 
@@ -2159,7 +2159,7 @@ Son partes en el proceso las o los titulares de las entidades públicas en donde
 
 Las y los trabajadores con dieciséis años cumplidos tienen capacidad plena para comparecer a juicio y para otorgar poderes. No obstante la o el Procurador de la Defensa de los Trabajadores al Servicio del Estado, les designará un representante legal. Lo mismo hará en tratándose de menores de dieciséis años.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 176.
 
@@ -2229,7 +2229,7 @@ Las faltas temporales del Secretario General de Acuerdos, serán suplidas por el
 
 El Tribunal sancionará las faltas de respeto que se le cometan, ya sea por escrito o en cualquiera forma. Las sanciones consistirán en amonestación, multa que no podrá exceder de quince veces el salario mínimo general vigente al momento en que se cometa la violación y expulsión del local del Tribunal; la persona que se resista a cumplir la orden, será desalojada del local con el auxilio de la fuerza pública y se impondrán por la o el Magistrado Presidente, mediante acuerdo fundado y motivado en términos de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 186.
 
@@ -2409,7 +2409,7 @@ I.- En el caso de la fracción I, del artículo anterior, no surtirá efecto alg
 
 II.- En los casos previstos por las fracciones II, III y IV del artículo anterior, los conflictos se resolverán por el mismo Tribunal en una sola resolución.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 204.
 
@@ -2487,7 +2487,7 @@ Cuando para continuar el trámite del juicio en los términos del artículo que 
 
 El requerimiento se notificará asimismo a la o el Procurador de la Defensa de los Trabajadores al Servicio del Estado, quien informará a la o el trabajador las consecuencias legales de la falta de promoción, brindándole la asesoría jurídica que proceda.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 209.
 
@@ -2537,7 +2537,7 @@ Toda autoridad o persona ajena al juicio que tenga conocimiento de hechos o docu
 
 Al momento que quede establecida la litis el Tribunal ordenará la apertura de la etapa de ofrecimiento y admisión de pruebas. Deberá eximir de ésta a la o el trabajador cuando por otros medios considere posible llegar al conocimiento de los hechos incluyendo informes y documentos de otras autoridades o de terceros, en los términos del artículo anterior o requiriendo al titular de la entidad pública para que exhiba los documentos que de acuerdo con las leyes tiene la obligación de conservar en la entidad, bajo el apercibimiento de que de no presentarlos, se presumirán ciertos los hechos alegados por la o el trabajador. Esta presunción será ponderada de tal manera que prevalecerá el buen juicio del Tribunal acerca de la viabilidad de los hechos que se pretende probar, resolviendo al respecto en conciencia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 219.
 
@@ -2579,7 +2579,7 @@ El Tribunal tomará en cuenta las actuaciones del juicio sin necesidad de que se
 
 Cada parte podrá solicitar se cite a su contraria para que concurra a absolver posiciones, también podrán solicitar que se cite a absolver posiciones personalmente a las directoras o directores, administradoras o administradores, y en general, a las personas que ejerzan funciones de dirección y administración en la entidad pública, así como a las o los miembros de la directiva de los sindicatos, cuando los hechos que dieron origen les sean propios, y que se les haya atribuido en la demanda o en la contestación, o bien, que por razones de sus funciones les deban ser conocidos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 222.
 
@@ -2631,7 +2631,7 @@ VII.- Si el documento que se ofrece obra en poder de alguna autoridad, el Tribun
 
 VIII.- Cuando los documentos públicos contengan declaraciones o manifestaciones expuestas por particulares, sólo prueban que las mismas fueron hechas ante la autoridad que expidió el documento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 227.
 
@@ -2667,7 +2667,7 @@ Si se ofrece la prueba testimonial, se ajustará a las reglas siguientes:
 
 I.- Sólo podrán ofrecerse un máximo de tres testigos por cada hecho controvertido que se pretenda probar;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 II.- La oferente indicará los nombres y domicilios de las y los testigos, cuando exista impedimento para presentarlos, en cuyo caso, pedirá al Tribunal que los cite, mencionando la causa o motivo del impedimento.
 
@@ -2729,7 +2729,7 @@ I.- Las y los peritos deben tener conocimiento en la ciencia, técnica o arte so
 
 II.- La prueba pericial se ofrecerá indicando la materia sobre la cual deba versar, exhibiendo el cuestionario respectivo, con copia para cada una de las partes;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 III.- El Tribunal nombrará las y los peritos que correspondan a la o el trabajador, en cualquiera de los casos siguientes:
 
@@ -3005,7 +3005,7 @@ VII.- Si el demandado reconviene a la o el actor, éste procederá a contestar d
 
 VIII.- Al concluir el periodo de demanda y excepciones, se pasará inmediatamente al de ofrecimiento y admisión de pruebas. Si las partes están de acuerdo con los hechos y la controversia queda reducida a un punto de derecho, se declarará cerrada la instrucción.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 257.
 
@@ -3075,7 +3075,7 @@ IV.- Las consideraciones que fundadas y motivadas se deriven, en su caso, de lo 
 
 V.- Los puntos resolutivos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 264.
 
@@ -3243,11 +3243,11 @@ Los laudos deben ejecutarse una vez que transcurra el plazo para que la parte co
 
 Siempre que en ejecución de laudo deba darse una suma de dinero o hacer efectivo un derecho de la o el trabajador, la o el Presidente cuidará que se le entregue personalmente la cantidad que corresponda o que en la misma forma se cumpla la obligación a la que la parte contraria haya sido condenada. En su caso, los laudos podrán cumplirse por exhorto.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### Artículo 285.
 
-Transcurrido el término señalado en el artículo 283, la o el Presidente, a petición de la parte que obtuvo, dictará auto de requerimiento de pago, apercibiendo a la o el deudor que de no efectuarlo, se le impondrá una multa de siete hasta quince veces el salario mínimo general vigente en la fecha de la diligencia; de no hacerlo en un nuevo requerimiento, se librará oficio a la Secretaría de Finanzas de (sic) Gobierno del Estado para que exhiba la cantidad de la condena ante la o el Presidente del Tribunal, quedando autorizada aquélla para deducir dicha cantidad del presupuesto o participación que corresponda a la entidad pública morosa.
+Transcurrido el término señalado en el artículo 283, la o el Presidente, a petición de la parte que obtuvo, dictará auto de requerimiento de pago, apercibiendo a la o el deudor que de no efectuarlo, se le impondrá una multa de hasta quince veces el salario mínimo general vigente en la fecha de la diligencia; de no hacerlo en un nuevo requerimiento, se librará oficio a la Secretaría de Finanzas para que exhiba la cantidad de la condena ante la o el Presidente del Tribunal, quedando autorizada aquélla para deducir dicha cantidad del presupuesto o participación que corresponda a la entidad pública morosa.
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
@@ -3261,7 +3261,7 @@ Si la condena consiste en una obligación de hacer, la o el Presidente verificar
 
 Se tramitarán conforme a las disposiciones de este capítulo, todos aquellos asuntos que, por mandato, por su naturaleza o a solicitud de parte interesada, requieran la intervención del Tribunal, sin que esté promovido jurisdiccionalmente conflicto alguno entre partes determinadas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 288.
 
@@ -3343,7 +3343,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 ESAU HERNANDEZ HERRERA
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 5 DE FEBRERO DE 2005.
 
@@ -3378,3 +3378,21 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Los procedimientos laborales burocráticos que iniciaron bajo la vigencia de la Ley, previas las reformas y adiciones y que continúen en trámite, serán regulados por las disposiciones que regían hasta antes de la entrada en vigor del presente Decreto.
+
+P.O. 23 DE MARZO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, el Ejecutivo del Estado deberá actualizar la reglamentación de conformidad con el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, los Ayuntamientos deberán establecer su Gaceta Municipal.
+
+###### ARTÍCULO CUARTO.
+
+Los Ayuntamientos, en el término de ciento veinte días naturales a partir de la vigencia del presente Decreto, deberán publicar en sus Gacetas Municipales y en el Periódico Oficial, Órgano del Gobierno del Estado, todas las disposiciones normativas de carácter general que hayan sido generadas antes de la entrada en vigor del presente Decreto. Remitiendo en medio impreso y de forma magnética los instrumentos jurídicos a la Coordinación General Jurídica del Gobierno del Estado para su trámite de publicación.
