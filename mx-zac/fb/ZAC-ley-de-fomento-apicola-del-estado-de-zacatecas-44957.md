@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-fomento-apicola-del-estado-de-zacatecas-44957"
 country: "mx"
 rank: "ley"
 publication_date: "2005-05-21"
-last_updated: "2005-05-21"
+last_updated: "2013-03-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44957&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ZAC"
 ---
 # LEY DE FOMENTO APICOLA DEL ESTADO DE ZACATECAS
 
-LEY DE FOMENTO APICOLA DEL ESTADO DE ZACATECAS
+LEY DE FOMENTO APÍCOLA DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2013.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 21 de mayo de 2005.
 
@@ -105,11 +105,15 @@ XVI. Asociación: Figuras asociativas integradas por apicultores;
 
 XVII. Unión: La Unión de Apicultores del Estado de Zacatecas, A.C. (Representación Legal de los Apicultores de la Entidad);
 
-XVIII. Secretaría: La Secretaría de Desarrollo Agropecuario del Poder Ejecutivo del Estado;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+XVIII. Secretaria: La Secretaría del Campo;
 
 XIX. Autoridad Federal: La Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
 
-XX. Dirección: La Dirección de Ganadería de la Secretaría de Desarrollo Agropecuario;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+XX. Dirección: La Dirección de Ganadería de la Secretaría del Campo;
 
 XXI. Director: El Director de Ganadería.
 
@@ -131,7 +135,9 @@ Las actividades establecidas en esta Ley, se desarrollarán procurando la preser
 
 Son autoridades competentes para la aplicación de la presente Ley:
 
-I. El Ejecutivo del Estado a través de la Secretaría de Desarrollo Agropecuario;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+I. El Ejecutivo del Estado a través de la Secretaría del Campo;
 
 II. La Delegación Estatal de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación; y
 
@@ -445,9 +451,11 @@ II. Confirmar que la ubicación de los apiarios, así como la movilización de l
 
 III. Los demás que se establezcan en esta Ley y su Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 53.
 
-El Director solicitará al Secretario de Desarrollo Agropecuario, el nombramiento o remoción de los inspectores apícolas. La relación de trabajo se regirá por lo previsto en la Ley del Servicio Civil de la Entidad.
+El Director solicitará al Secretario del Campo, el nombramiento o remoción de los inspectores apícolas. La relación de trabajo se regirá por lo previsto en la Ley del Servicio Civil de la Entidad.
 
 Los inspectores apícolas deberán acreditar su personalidad con la credencial correspondiente y con la orden en que se funde y motive la inspección.
 
@@ -630,3 +638,23 @@ AMALIA D. GARCÍA MEDINA.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. TOMÁS TORRES MERCADO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE MARZO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, el Ejecutivo del Estado deberá actualizar la reglamentación de conformidad con el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, los Ayuntamientos deberán establecer su Gaceta Municipal.
+
+###### ARTÍCULO CUARTO.
+
+Los Ayuntamientos, en el término de ciento veinte días naturales a partir de la vigencia del presente Decreto, deberán publicar en sus Gacetas Municipales y en el Periódico Oficial, Órgano del Gobierno del Estado, todas las disposiciones normativas de carácter general que hayan sido generadas antes de la entrada en vigor del presente Decreto. Remitiendo en medio impreso y de forma magnética los instrumentos jurídicos a la Coordinación General Jurídica del Gobierno del Estado para su trámite de publicación.
