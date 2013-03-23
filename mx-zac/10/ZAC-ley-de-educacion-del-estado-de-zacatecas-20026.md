@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-educacion-del-estado-de-zacatecas-20026"
 country: "mx"
 rank: "ley"
 publication_date: "1999-07-17"
-last_updated: "2009-06-13"
+last_updated: "2013-03-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20026&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ZAC"
 ---
 # LEY DE EDUCACION DEL ESTADO DE ZACATECAS
 
-LEY DE EDUCACION DEL ESTADO DE ZACATECAS
+LEY DE EDUCACIÓN DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JUNIO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2013.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 17 de julio de 1999.
 
@@ -143,7 +143,9 @@ V. Instituciones Educativas: las que tienen por función única o principal, pre
 
 VI. Los Particulares: personas físicas y morales con autorización o reconocimiento de validez oficial de los servicios educativos que presten, los que se sujetarán a los requisitos que establezca la ley; y
 
-VII. Secretaría: a la Secretaría de Educación y Cultura del Gobierno del Estado.
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+VII. Secretaría: a la Secretaría de Educación.
 
 #### SECCION SEGUNDA. El Estado y los Servicios Educativos
 
@@ -189,7 +191,7 @@ XV. Impulsar el desarrollo de la ciencia y la tecnología;
 
 XVI. Fortalecer la cultura de respeto a los derechos humanos, la autoestima de niños y niñas, y la concepción de la igualdad entre hombres y mujeres;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2009)</small>
 
@@ -219,7 +221,9 @@ VI. Presentar a la autoridad educativa estatal el anteproyecto de Presupuesto de
 
 VII. Ejercer el presupuesto asignado y rendir cuentas de su ejercicio;
 
-VIII. Prestar servicios de educación básica, especial, media superior, superior, normal y para la actualización de maestros;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+VIII. Otorgar y promover la educación preescolar, primaria, secundaria, media superior, especial, superior, normal, asimismo coordinar, unificar, fortalecer y desarrollar las acciones educativas de las instituciones públicas y de las privadas que presten servicios de educación media superior y superior, y prestar servicio de actualización de maestros;
 
 IX. Proponer a la Autoridad Educativa Federal los contenidos regionales para incluirse en programas de primaria, secundaria y normal;
 
@@ -389,13 +393,15 @@ VI. Crear organismos municipales de cultura; y
 
 VII. Las demás que le asigne la Ley, o la autoridad educativa estatal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 18.
 
-Corresponde además a la Secretaría en coordinación con el Instituto de la Juventud y el Deporte, ejercer las atribuciones siguientes:
+Corresponde además a la Secretaría en coordinación con la Subsecretaría de la Juventud y con el Instituto de Cultura Física y Deporte del Estado de Zacatecas, ejercer las atribuciones siguientes:
 
 I. Promover el establecimiento de centros deportivos y programas de recreación y esparcimiento en las comunidades;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 13 DE JUNIO DE 2009)</small>
 
@@ -411,13 +417,17 @@ VI. Otorgar becas y apoyos para alumnos y maestros destacados en el área deport
 
 VII. Crear espacios para el deporte y la recreación para las personas con discapacidad.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 19.
 
-La Secretaría, en coordinación con el Instituto de la Juventud y el Deporte fomentará y apoyará la celebración de eventos deportivos y la participación de representaciones deportivas locales en el país y en el extranjero, sin menoscabo de aquellos que organicen los planteles educativos.
+La Secretaría, en coordinación con la Subsecretaría de la Juventud y con el Instituto de Cultura Física y Deporte del Estado de Zacatecas fomentará y apoyará la celebración de eventos deportivos y la participación de representaciones deportivas locales en el país y en el extranjero, sin menoscabo de aquellos que organicen los planteles educativos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### Artículo 20.
 
-Para cumplir lo dispuesto en el artículo anterior, la Secretaría en coordinación con el Instituto de la Juventud y el Deporte, llevará a cabo las siguientes actividades:
+Para cumplir lo dispuesto en el artículo anterior, la Secretaría en coordinación con la Subsecretaría de la Juventud y con el Instituto de Cultura Física y Deporte del Estado de Zacatecas, llevará a cabo las siguientes actividades:
 
 I. Representar a la autoridad educativa estatal, ante todo tipo de organismos;
 
@@ -425,7 +435,7 @@ II. Proponer, elaborar, revisar y, en su caso, ejecutar los acuerdos o convenios
 
 III. Las demás que le señale la Ley o le asigne la autoridad educativa estatal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2009)</small>
 
@@ -449,7 +459,7 @@ III. SUPERIOR. Es el que se imparte después del bachillerato o de sus equivalen
 
 La educación básica tendrá las adaptaciones necesarias para atender a la población rural dispersa y a los grupos migratorios; así como en su caso responder a las características lingüísticas y culturales de grupos indígenas. Queda comprendida la educación especial, la educación para menores infractores y la educación para adultos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 13 DE JUNIO DE 2009)</small>
 
@@ -843,7 +853,7 @@ VII. Expedir certificados, constancias, diplomas o títulos a quienes no cumplan
 
 VIII. Realizar o permitir que se realice publicidad dentro del plantel, que fomente el consumo de productos nocivos para la salud, así como realizar o permitir la comercialización de bienes o servicios notoriamente ajenos al proceso educativo, distintos de alimentos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2009)</small>
 
@@ -861,15 +871,15 @@ XIII. Realizar o permitir que se realice propaganda política partidista dentro 
 
 XIV. Solicitar a los educandos aportaciones en efectivo o en especie;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 13 DE JUNIO DE 2009)</small>
 
 XV. Incumplir los demás preceptos de esta Ley, así como las disposiciones expedidas con fundamento en la misma, para lo cual se estará a lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Zacatecas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 13 DE JUNIO DE 2009)</small>
+> <small>(DEROGADO ULTIMO PÁRRAFO, P.O. 13 DE JUNIO DE 2009)</small>
 
 ###### Artículo 68.
 
@@ -1001,7 +1011,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 ING. RAYMUNDO CARDENAS HERNANDEZ
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 7 DE FEBRERO DE 2001.
 
@@ -1034,3 +1044,21 @@ Primero.- El presente Decreto entrará en vigor a los treinta días naturales si
 Segundo.- Dentro de los treinta días naturales subsecuentes a la entrada en vigor del presente, la Secretaría de Educación y Cultura en coordinación con los Servicios de Salud del Estado, emitirán las disposiciones normativas correspondientes relativas al tipo de productos que se puedan vender en las cooperativas escolares o cualesquiera otra denominación que se otorgue, a fin de controlar la higiene y, sobre todo el valor nutricional de los productos que ahí se ofrezcan, respetando la prohibición de que se vendan o comercialicen en las escuelas públicas o privadas de nivel básico, productos con pobre valor nutricional que contengan un alto contenido en azúcares o endulzantes artificiales o sodio, así como bebidas carbonatadas, o alimentos con un alto contenido en grasas trans, que puedan originar problemas de salud en la infancia o adolescencia.
 
 Tercero.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 23 DE MARZO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, el Ejecutivo del Estado deberá actualizar la reglamentación de conformidad con el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, los Ayuntamientos deberán establecer su Gaceta Municipal.
+
+###### ARTÍCULO CUARTO.
+
+Los Ayuntamientos, en el término de ciento veinte días naturales a partir de la vigencia del presente Decreto, deberán publicar en sus Gacetas Municipales y en el Periódico Oficial, Órgano del Gobierno del Estado, todas las disposiciones normativas de carácter general que hayan sido generadas antes de la entrada en vigor del presente Decreto. Remitiendo en medio impreso y de forma magnética los instrumentos jurídicos a la Coordinación General Jurídica del Gobierno del Estado para su trámite de publicación.
