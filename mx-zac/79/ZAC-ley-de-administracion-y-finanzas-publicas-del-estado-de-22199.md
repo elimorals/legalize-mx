@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-administracion-y-finanzas-publicas-del-estado-de-22199"
 country: "mx"
 rank: "ley"
 publication_date: "2001-09-19"
-last_updated: "2001-09-19"
+last_updated: "2013-03-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22199&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ZAC"
 ---
 # LEY DE ADMINISTRACION Y FINANZAS PUBLICAS DEL ESTADO DE ZACATECAS
 
-LEY DE ADMINISTRACION Y FINANZAS PUBLICAS DEL ESTADO DE ZACATECAS
+LEY DE ADMINISTRACIÓN Y FINANZAS PÚBLICAS DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2013.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el miércoles 19 de septiembre de 2001.
 
@@ -81,7 +81,9 @@ Objeto de la ley
 
 Las disposiciones de la presente ley tienen por objeto el fortalecimiento, confiabilidad y transparencia de la programación, presupuestación, ejercicio, contabilidad, control, vigilancia y evaluación del gasto público estatal, el archivo contable, los informes financieros y la cuenta pública, así como los procedimientos de coordinación para la generación de información en estas materias.
 
-Será interpretada para el Poder Ejecutivo, a través de la Secretaría, así como por la Contraloría en sus respectivas áreas de competencia; para los Poderes Legislativo y Judicial por los órganos o estructuras internas de gobierno que ejerzan las atribuciones en materia de gasto público.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
+Será interpretada para el Poder Ejecutivo, a través de la Secretaría así como por la Secretaría de la Función Pública del Gobierno del Estado en sus respectivas áreas de competencia; para los Poderes Legislativo y Judicial por los órganos o estructuras internas de gobierno que ejerzan las atribuciones en materia de gasto público.
 
 Significado de conceptos
 
@@ -97,11 +99,13 @@ III. "Municipio o Municipios", el o los Municipios que integran el Estado de Zac
 
 IV. "Secretaría", la Secretaría de Finanzas;
 
-V. "Contraloría", la Contraloría Interna del Estado;
+V. (DEROGADA, P.O. 23 DE MARZO DE 2013)
 
-VI. "Oficialía", la Oficialía Mayor del Gobierno del Estado de Zacatecas;
+VI. (DEROGADA, P.O. 23 DE MARZO DE 2013)
 
-VII. "Seplader", la Secretaría de Planeación y Desarrollo Regional;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+VII. "La Unidad", la Unidad de Planeación del Titular del Poder Ejecutivo;
 
 VIII. "Legislatura", la Legislatura del Estado; y,
 
@@ -125,23 +129,29 @@ V. Los tribunales administrativos con autonomía jurisdiccional que funcionen en
 
 Vínculo planeación - programación
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 4.
 
-La planeación y programación del gasto público se sustentará en las directrices, objetivos, políticas, estrategias y líneas de acción fijadas en el Plan Estatal de Desarrollo formulado por el Ejecutivo del Estado a través de la Seplader.
+La planeación y programación del gasto público se sustentará en las directrices, objetivos, políticas, estrategias y líneas de acción fijadas en el Plan Estatal de Desarrollo formulado por el Ejecutivo del Estado a través de la Unidad.
 
 Disposiciones particulares
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 5.
 
-El Titular del Ejecutivo del Estado, por conducto de la Secretaría y de la Contraloría, así como por la Oficialía, estará facultado para proveer en la esfera administrativa las disposiciones que, conforme a la presente ley, sean necesarias para asegurar su adecuado cumplimiento.
+El Titular del Ejecutivo del Estado, por conducto de la Secretaría y de la Secretaría de la Función Pública del Gobierno del Estado, así como por la Secretaría de Administración, estará facultado para proveer en la esfera administrativa las disposiciones que, conforme a la presente ley, sean necesarias para asegurar su adecuado cumplimiento.
 
 Atribución que será ejercida para los sujetos comprendidos en las fracciones III, IV y V del artículo 3 de esta ley.
 
 Responsabilidad en las fases del proceso presupuestario
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 6.
 
-La planeación, programación y presupuestación del gasto público, estará a cargo del Ejecutivo del Estado, bajo la coordinación de la Secretaría quien se apoyará en la Seplader en lo referente al gasto de inversión.
+La planeación, programación y presupuestación del gasto público estará a cargo del Ejecutivo del Estado, bajo la coordinación de la Secretaría quien se apoyará en la Unidad en lo referente al gasto de inversión.
 
 El control y evaluación que establece este artículo, serán responsabilidad de la misma Secretaría para los sujetos de las fracciones III, IV y V del artículo 3 de esta ley. Los señalados en las demás fracciones asumirán su responsabilidad dentro de sus respectivas competencias.
 
@@ -179,9 +189,11 @@ La Secretaría estará obligada a proporcionar, a solicitud de la Legislatura, t
 
 Compromisos excesivos, reconocimiento de adeudos y responsabilidades
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 12.
 
-La Contraloría vigilará que los sujetos de las fracciones III, IV y V del artículo 3 de esta ley no adquieran compromisos que rebasen el monto de su presupuesto autorizado.
+La Secretaría de la Función Pública del Gobierno del Estado vigilará que los sujetos de las fracciones III, IV y V del artículo 3 de esta ley no adquieran compromisos que rebasen el monto de su presupuesto autorizado.
 
 La Secretaría no reconocerá adeudos por cantidades reclamadas o erogaciones efectuadas en contravención a lo antes dispuesto.
 
@@ -341,9 +353,11 @@ El Ejecutivo, por conducto de la Secretaría, podrá disponer que los fondos y p
 
 Informe de deuda y pasivos de entidades
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 29.
 
-Las entidades informarán a la Secretaría, antes del día 15 del mes de diciembre de cada año, el monto y características de su deuda pública flotante y pasivo circulante del ejercicio vigente. A criterio de la Secretaría, revisados los informes se dará parte a la Contraloría cuando se presuma un incumplimiento a la normatividad relativa al gasto público.
+Las entidades informarán a la Secretaría, antes del día 15 del mes de diciembre de cada año, el monto y características de su deuda pública flotante y pasivo circulante del ejercicio vigente. A criterio de la Secretaría, revisados los informes se dará parte a la Secretaría de la Función Pública del Gobierno del Estado cuando se presuma un incumplimiento a la normatividad relativa al gasto público.
 
 Pasivo circulante
 
@@ -375,19 +389,23 @@ El Estado, en sus relaciones contractuales con particulares, no otorgará garant
 
 Responsabilidad del registro de personal civil
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 34.
 
-La Oficialía será responsable de que se lleve un registro del personal civil de las entidades que estén con cargo al gasto público del Estado y para tal efecto, estará facultada para dictar las normas que considere procedentes. Dicha dependencia informará a la Secretaría cuando ésta lo solicite, sobre el registro del personal a que se refiere el párrafo anterior.
+La Secretaría de Administración será responsable de que se lleve un registro del personal civil de las entidades que estén con cargo al gasto público del Estado y para tal efecto, estará facultada para dictar las normas que considere procedentes.
 
-La Secretaría y la Contraloría estarán facultadas para dictar las normas que consideren procedentes para el ejercicio y control del presupuesto relativo al personal del Poder Ejecutivo.
+La Secretaría y la Secretaría de la Función Pública del Gobierno del Estado estarán facultadas para dictar las normas que consideren procedentes para el ejercicio y control del presupuesto relativo al personal del Poder Ejecutivo.
 
 Compatibilidad de dos o más empleos
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 35.
 
-El Ejecutivo, por conducto de la Secretaría y la Oficialía, determinarán en forma expresa y general cuando proceda aceptar la compatibilidad para el desempeño de dos o más empleos o comisiones con cargo al presupuesto, sin perjuicio del estricto cumplimiento de las tareas, horarios y jornadas de trabajo que correspondan. En todo caso, los interesados podrán optar por el empleo o comisión que les convenga.
+El Ejecutivo, por conducto de la Secretaría y la Secretaría de la Administración, determinarán en forma expresa y general cuando proceda aceptar la compatibilidad para el desempeño de dos o más empleos o comisiones con cargo al presupuesto, sin perjuicio del estricto cumplimiento de las tareas, horarios y jornadas de trabajo que correspondan. En todo caso, los interesados podrán optar por el empleo o comisión que les convenga.
 
-En los casos que exista supuesta incompatibilidad en el desempeño de dos o más empleos o comisiones, la Oficialía notificará a la Contraloría para que ésta previo análisis y dictamen, finque en su caso las responsabilidades y solicite a la Oficialía y a la Secretaría, se suspenda el pago correspondiente.
+En los casos que exista supuesta incompatibilidad en el desempeño de dos o más empleos o comisiones, la Secretaría de la Administración notificará a la Secretaría de la Función Pública del Gobierno del Estado para que ésta previo análisis y dictamen, finque en su caso las responsabilidades y solicite a la Secretaría de Administración y a la Secretaría se suspenda el pago correspondiente.
 
 Prescripción de remuneraciones a personal civil
 
@@ -409,9 +427,11 @@ Cuando algún servidor público perteneciente a las entidades que señala el art
 
 Revisión del gasto público
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 38.
 
-Los sujetos de las fracciones III, IV y V del artículo 3 de esta ley que ejerzan gasto público estarán obligados a proporcionar a la Contraloría la información que se les solicite y permitirle a su personal, la práctica de visitas y auditorías para la comprobación del cumplimiento de las obligaciones derivadas de esta ley y de las disposiciones expedidas con base en ella.
+Los sujetos de las fracciones III, IV y V del artículo 3 de esta ley que ejerzan gasto público estarán obligados a proporcionar a la Secretaría de la Función Pública del Gobierno del Estado la información que se les solicite y permitirle a su personal, la práctica de visitas y auditorías para la comprobación del cumplimiento de las obligaciones derivadas de esta ley y de las disposiciones expedidas con base en ella.
 
 Marco institucional y atribuciones para emitir disposiciones
 
@@ -433,7 +453,9 @@ II. Proporcionar información financiera, presupuestal, programática y económi
 
 III. Detectar desviaciones si las hubiere, a efecto de corregirlas, haciendo la comunicación a la Contraloría y proporcionando los elementos requeridos por ésta para la delimitación de responsabilidades; y,
 
-IV. Proporcionar la información para la evaluación de los programas por parte de la Secretaría y la Seplader, para la planeación y programación del siguiente ejercicio.
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+IV. Proporcionar la información para la evaluación de los programas por parte de la Secretaría y la Unidad, para la planeación y programación del siguiente ejercicio.
 
 Obligación de llevar contabilidad
 
@@ -651,13 +673,19 @@ Adecuación de la información para efectos de consolidación y cuenta pública
 
 La Secretaría reclasificará, cuando sea necesario, la información que le proporcionen las entidades, para efectos de consolidación y presentación de la cuenta pública.
 
-Funciones de la Contraloría
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE MARZO DE 2013)</small>
+
+Funciones de la Secretaría de la Función Pública
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### Artículo 63.
 
-Los sujetos de las fracciones III, IV y V del artículo 3 de esta ley, establecerán órganos de control interno, que dependerán de la Contraloría con cargo al presupuesto de aquellos y cumplirán los programas mínimos que fije la propia Contraloría, quienes durarán en su encargo 4 años pudiendo ser ratificados una sola vez. La Contraloría a través de dichos Órganos, vigilará y exigirá que tales entidades lleven correctamente la contabilidad de sus operaciones y cumplan las funciones relativas que tengan encomendadas, para el efecto podrá revisar, compulsar y comprobar los movimientos de cuentas.
+Los sujetos de las fracciones III, IV y V del artículo 3 de esta Ley, establecerán órganos de control interno, que dependerán de la Secretaría de la Función Pública del Gobierno del Estado con cargo al presupuesto de aquellos y cumplirán los programas mínimos que ésta fije, quienes durarán en su encargo 4 años pudiendo ser ratificados una sola vez. Además, dicha Secretaría a través de dichos Órganos, vigilará y exigirá que tales entidades lleven correctamente la contabilidad de sus operaciones y cumplan las funciones relativas que tengan encomendadas, para el efecto podrá revisar, compulsar y comprobar los movimientos de cuentas.
 
-El Ejecutivo, por conducto de la Contraloría, podrá acordar que no se establezcan dichos órganos, en aquellas entidades que por la naturaleza de sus funciones o por la magnitud de sus operaciones, no se justifiquen.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
+El Ejecutivo, por conducto de la Secretaría de la Función Pública del Gobierno del Estado, podrá acordar que no se establezcan dichos órganos, en aquellas entidades que por la naturaleza de sus funciones o por la magnitud de sus operaciones, no se justifiquen.
 
 En el Poder Legislativo y en el Poder Judicial, así como en la Comisión de Derechos Humanos del Estado y el Instituto Electoral del Estado, sus órganos internos decidirán sobre la necesidad y conveniencia del auditor interno, y justificarán su aprobación o negativa ante la Auditoría Superior del Estado. En su caso, el Auditor Interno durará en su cargo un período de cuatro años, pudiendo ser ratificado en el mismo por una sola vez.
 
@@ -741,7 +769,9 @@ Atribuciones de las entidades
 
 Las atribuciones que se señalan en este capítulo se realizarán en los respectivos ámbitos de su competencia por los sujetos de esta ley, conforme a lo siguiente:
 
-I. Para los comprendidos en las fracciones III, IV y V del artículo 3 de esta ley, por la Secretaría y la Seplader respecto de la evaluación y por la Contraloría en lo que concierne a la vigilancia; y,
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+I. Para los comprendidos en las fracciones III, IV y V del artículo 3 de esta ley, por la Secretaría y la Unidad respecto de la evaluación y por la Secretaría de la Función Pública del Gobierno del Estado en lo que concierne a la vigilancia;
 
 II. Por los órganos internos de las entidades con independencia presupuestal que se señalan en las fracciones I y II del artículo 3 de esta ley.
 
@@ -763,29 +793,37 @@ Consolidación de informe trimestral
 
 Es competencia de la Secretaría consolidar el informe trimestral de los sujetos señalados en esta ley, para determinar el grado conjunto de cumplimiento de los objetivos y metas establecidos, así como analizar los efectos económicos que originen las inversiones realizadas por las entidades de la administración pública del Estado. Dicho informe debe hacerse público a más tardar en los cuarenta y cinco días siguientes a la fecha que corresponda y notificarse al Titular del Ejecutivo, y a los órganos que corresponda de los Poderes Legislativo, Judicial y a la Comisión de Derechos Humanos del Estado y el Instituto Electoral del Estado.
 
-Información adicional para la Contraloría
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
+Información adicional para la Secretaría de la Función Pública
 
 ###### Artículo 79.
 
-La Contraloría y la Secretaría, conjunta o separadamente, en sus ámbitos de competencia, podrán solicitar información adicional que estimen necesaria de los sujetos de la ley, dependiendo de la importancia y características propias de los programas a su cargo para el buen cumplimiento de las funciones que les atribuye el presente capítulo.
+La Secretaría de la Función Pública del Gobierno del Estado y la Secretaría, conjunta o separadamente, en sus ámbitos de competencia, podrán solicitar información adicional que estimen necesaria de los sujetos de la ley, dependiendo de la importancia y características propias de los programas a su cargo para el buen cumplimiento de las funciones que les atribuye el presente capítulo.
 
 Facultad para obtener información
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 80.
 
-En los casos en que las entidades a que se refiere las fracciones III, IV y V del artículo 3 de esta ley, no proporcionen la información solicitada por los medios establecidos, la Contraloría o la Secretaría estarán facultadas para obtener dicha información en los términos del artículo 38 de esta ley.
+En los casos en que las entidades a que se refiere las fracciones III, IV y V del artículo 3 de esta ley, no proporcionen la información solicitada por los medios establecidos, la Secretaría de la Función Pública del Gobierno del Estado o la Secretaría estarán facultadas para obtener dicha información en los términos del artículo 38 de esta ley.
 
 Suspensión de asignaciones presupuestales
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 81.
 
-La Secretaría o la Contraloría quedan facultadas para ordenar la suspensión de las asignaciones presupuestales cuando no se proporcione la información que se solicite en los términos del artículo 38 de esta ley o cuando se detecten desviaciones en las metas o en el destino del gasto.
+La Secretaría o la Secretaría de la Función Pública del Gobierno del Estado quedan facultadas para ordenar la suspensión de las asignaciones presupuestales cuando no se proporcione la información que se solicite en los términos del artículo 38 de esta ley o cuando se detecten desviaciones en las metas o en el destino del gasto.
 
 Facultades de verificación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 82.
 
-El examen, la verificación y la comprobación a que se refiere el artículo 38, se llevarán a cabo por la Contraloría, según corresponda en cada caso, pudiéndolo hacer a través de:
+El examen, la verificación y la comprobación a que se refiere el artículo 38, se llevarán a cabo por la Secretaría de la Función Pública del Gobierno del Estado, según corresponda en cada caso, pudiéndolo hacer a través de:
 
 a) Los órganos de control interno;
 
@@ -797,19 +835,25 @@ d) Los comisarios públicos.
 
 Medios de verificación
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 83.
 
-Los servidores públicos que recauden, manejen, administren o custodien fondos, valores o bienes de la propiedad o al cuidado de los sujetos contenidos en las fracciones III, IV y V del artículo 3 de esta ley, estarán sujetos a la vigilancia de la Contraloría, que se realizará por medio de visitas, verificaciones, intervenciones y otros actos.
+Los servidores públicos que recauden, manejen, administren o custodien fondos, valores o bienes de la propiedad o al cuidado de los sujetos contenidos en las fracciones III, IV y V del artículo 3 de esta ley, estarán sujetos a la vigilancia de la Secretaría de la Función Pública del Gobierno del Estado, que se realizará por medio de visitas, verificaciones, intervenciones y otros actos.
 
 ### CAPITULO VI. DE LAS RESPONSABILIDADES
 
 Aplicación de medidas administrativas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 84.
 
-La Contraloría dictará las medidas administrativas sobre las responsabilidades a que se refiere esta ley que afecten la hacienda pública estatal, así como las que se deriven del incumplimiento de las disposiciones contenidas en esta ley y de las que se hayan expedido con base en ella, y que se conozcan a través de:
+La Secretaría de la Función Pública del Gobierno del Estado dictará las medidas administrativas sobre las responsabilidades a que se refiere esta ley que afecten la hacienda pública estatal, así como las que se deriven del incumplimiento de las disposiciones contenidas en esta ley y de las que se hayan expedido con base en ella, y que se conozcan a través de:
 
-I. Visitas, auditorías o investigaciones que realice la propia Contraloría;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+I. Visitas, auditorías o investigaciones que realice la propia Secretaría de la Función Pública del Gobierno del Estado;
 
 II. Pliegos preventivos de responsabilidades que levanten:
 
@@ -831,23 +875,31 @@ Las responsabilidades se constituirán en primer término a las personas que dir
 
 Son solidariamente responsables con los servidores públicos y demás personal a que se refiere este artículo, los particulares en todos los casos en que hayan participado deliberadamente en la comisión de los actos que originen una responsabilidad.
 
-Los responsables garantizarán a través de embargo precautorio y en forma individual el importe de los pliegos preventivos a que se refiere el artículo anterior, en tanto la Contraloría determina la responsabilidad.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
-Las responsabilidades que se constituyan tendrán por objeto indemnizar por los daños y perjuicios ocasionados a la hacienda pública estatal, las que tendrán el carácter de créditos fiscales y se fijarán por el Ejecutivo en cantidad líquida, misma que se exigirá se cubra desde luego, sin perjuicio de que en su caso la Secretaría la haga efectiva, a través del procedimiento administrativo de ejecución e independientemente de que la Contraloría ejercite las acciones legales que correspondan.
+Los responsables garantizarán a través de embargo precautorio y en forma individual el importe de los pliegos preventivos a que se refiere el artículo anterior, en tanto la Secretaría de la Función Pública del Gobierno del Estado determina la responsabilidad.
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
+Las responsabilidades que se constituyan tendrán por objeto indemnizar los daños y perjuicios ocasionados a la hacienda pública estatal, las que tendrán el carácter de créditos fiscales y se fijarán por el Ejecutivo en cantidad líquida, misma que se exigirá se cubra desde luego, sin perjuicio de que en su caso la Secretaría la haga efectiva, a través del procedimiento administrativo de ejecución e independientemente de que la Secretaría de la Función Pública del Gobierno del Estado ejercite las acciones legales que correspondan.
 
 Del perdón de la irresponsabilidad no grave
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 86.
 
-El Ejecutivo del Estado por conducto de la Contraloría podrá dispensar las responsabilidades en que se incurra, siempre que los hechos que las constituyan no revistan un carácter delictuoso, ni se deban a culpa grave o descuido notorio del responsable y que los daños causados no excedan de cien veces el salario mínimo diario vigente en la capital del Estado.
+El Ejecutivo del Estado por conducto de la Secretaría de la Función Pública del Gobierno del Estado podrá dispensar las responsabilidades en que se incurra, siempre que los hechos que las constituyan no revistan un carácter delictuoso, ni se deban a culpa grave o descuido notorio del responsable y que los daños causados no excedan de cien veces el salario mínimo diario vigente en la capital del Estado.
 
 La Secretaría podrá cancelar los créditos derivados del fincamiento de responsabilidades que no excedan de cien veces el salario mínimo diario vigente en la capital del Estado, por incosteabilidad práctica de cobro. En los demás casos se propondrá su cancelación a la Legislatura al rendirse la cuenta anual correspondiente, previa fundamentación y motivación.
 
 De la imposición de correcciones
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 87.
 
-La Contraloría podrá imponer, indistintamente, las correcciones disciplinarias a los servidores públicos que en el desempeño de sus labores incurran en faltas que ameriten el fincamiento de responsabilidades; en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Zacatecas.
+La Secretaría de la Función Pública del Gobierno del Estado podrá imponer, indistintamente, las correcciones disciplinarias a los servidores públicos que en el desempeño de sus labores incurran en faltas que ameriten el fincamiento de responsabilidades; en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Zacatecas.
 
 Particulares como responsables solidarios
 
@@ -889,10 +941,30 @@ DADO en el Despacho del Poder Ejecutivo, a los seis días del mes de Septiembre 
 
 "SUFRAGIO EFECTIVO. NO REELECCION."
 
-EL GOBERNADOR DEL ESTADO DE ZATECAS
+EL GOBERNADOR DEL ESTADO DE ZACATECAS
 
 LIC. RICARDO MONREAL AVILA.
 
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. ARTURO NAHLE GARCIA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE MARZO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, el Ejecutivo del Estado deberá actualizar la reglamentación de conformidad con el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, los Ayuntamientos deberán establecer su Gaceta Municipal.
+
+###### ARTÍCULO CUARTO.
+
+Los Ayuntamientos, en el término de ciento veinte días naturales a partir de la vigencia del presente Decreto, deberán publicar en sus Gacetas Municipales y en el Periódico Oficial, Órgano del Gobierno del Estado, todas las disposiciones normativas de carácter general que hayan sido generadas antes de la entrada en vigor del presente Decreto. Remitiendo en medio impreso y de forma magnética los instrumentos jurídicos a la Coordinación General Jurídica del Gobierno del Estado para su trámite de publicación.
