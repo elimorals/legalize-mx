@@ -4,7 +4,7 @@ identifier: "ZAC-ley-del-ejercicio-profesional-en-el-estado-de-zacatecas-31965"
 country: "mx"
 rank: "ley"
 publication_date: "2003-06-07"
-last_updated: "2003-06-07"
+last_updated: "2013-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE EJERCICIO PROFESIONAL EN EL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el sábado 7 de junio de 2003.
 
@@ -49,7 +49,9 @@ A falta de disposición expresa en esta ley, se aplicará supletoriamente la Ley
 
 Para efectos de esta ley se entiende por:
 
-I.- Secretaría: La Secretaría de Educación y Cultura del Estado;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+I.- Secretaría: La Secretaria de Educación;
 
 II.- Ley: La Ley del Ejercicio Profesional en el Estado;
 
@@ -63,7 +65,9 @@ VI.- Título profesional: Es el documento expedido por instituciones públicas o
 
 VII.- Cédula Profesional: Es el documento de identidad con efectos de patente para el ejercicio profesional, que otorga la Secretaría de Educación Pública de la Administración Pública Federal, a través de la Dirección General de Profesiones, de conformidad con el convenio de coordinación respectivo;
 
-VIII.- Colegios de Profesionistas: Las asociaciones de profesionistas legalmente constituidas y debidamente registradas ante la Secretaría de educación y Cultura; y
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+VIII.- Colegios de Profesionistas: Las asociaciones de profesionistas legalmente constituidas y debidamente registradas ante la Secretaría; y
 
 IX.- Servicio Social Profesional: El que prestan los profesionistas en términos de lo dispuesto por el artículo 5° constitucional y las leyes de la materia.
 
@@ -337,11 +341,11 @@ VII. La defensa del patrimonio cultural.
 
 Todos los profesionistas tienen la obligación ineludible de regir su conducta conforme a los preceptos éticos de ésta ley, así como adecuarse a las disposiciones de los códigos de ética del correspondiente colegio de profesionistas.
 
-###### Articulo 30.
+###### Artículo 30.
 
 Esta ley rige la conducta de los profesionistas en sus relaciones profesionales con la sociedad, con sus clientes, con sus colegas, con los profesionistas de otras ramas del conocimiento; con sus alumnos y discípulos.
 
-###### Articulo 31.
+###### Artículo 31.
 
 Los profesionistas que desempeñen actividades distintas a la profesión propia, deberán además de cumplir con lo establecido por el presente capitulo, sujetar su conducta a las disposiciones legales que correspondan a la actividad que desarrollen.
 
@@ -712,3 +716,23 @@ DADO en la Sala de Sesiones de la Honorable Quincuagésima Séptima Legislatura 
 Y para que llegue al conocimiento de todos y se le dé debido cumplimiento, mando se imprima, publique y circule.
 
 DADO en el Despacho del Poder Ejecutivo del Estado, a los veintiséis días del mes de Mayo del año dos mil tres.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE MARZO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, el Ejecutivo del Estado deberá actualizar la reglamentación de conformidad con el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, los Ayuntamientos deberán establecer su Gaceta Municipal.
+
+###### ARTÍCULO CUARTO.
+
+Los Ayuntamientos, en el término de ciento veinte días naturales a partir de la vigencia del presente Decreto, deberán publicar en sus Gacetas Municipales y en el Periódico Oficial, Órgano del Gobierno del Estado, todas las disposiciones normativas de carácter general que hayan sido generadas antes de la entrada en vigor del presente Decreto. Remitiendo en medio impreso y de forma magnética los instrumentos jurídicos a la Coordinación General Jurídica del Gobierno del Estado para su trámite de publicación.
