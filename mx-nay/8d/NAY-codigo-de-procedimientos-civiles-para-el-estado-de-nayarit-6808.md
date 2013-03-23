@@ -4,7 +4,7 @@ identifier: "NAY-codigo-de-procedimientos-civiles-para-el-estado-de-nayarit-6808
 country: "mx"
 rank: "codigo"
 publication_date: "1992-11-21"
-last_updated: "2012-05-23"
+last_updated: "2013-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6808&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2013.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 21 de noviembre de 1992.
 
@@ -3389,7 +3389,13 @@ IV.- Suspensión temporal al agresor del régimen de visitas y convivencia con s
 
 V.- Obligación alimentaria provisional e inmediata;
 
-VI.- Cualquier otra a juicio del juez tendiente a proteger los intereses del núcleo familiar.
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+VI.- Reingreso de la víctima al domicilio o lugar que habite, una vez que se garantice su seguridad; o
+
+> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2013)</small>
+
+VII.- Cualquier otra que a consideración del juez sea tendiente a proteger los intereses del núcleo familiar.
 
 > <small>(ADICIONADO, P.O. 5 DE MAYO DE 2007)</small>
 
@@ -5154,5 +5160,9 @@ P.O. 15 DE JUNIO DE 2011.
 Artículo Único.- El presente Decreto entrará en vigor el día 22 de julio del 2011, y deberá publicarse en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 P.O. 23 DE MAYO DE 2012.
+
+Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 23 DE MARZO DE 2013.
 
 Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
