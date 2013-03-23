@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-desarrollo-metropolitano-del-estado-de-zacatecas-77749"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-04"
-last_updated: "2010-12-04"
+last_updated: "2013-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77749&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE DESARROLLO METROPOLITANO DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2013.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 4 de diciembre de 2010.
 
@@ -93,15 +93,23 @@ I. Un Presidente, que será el Titular del Poder Ejecutivo del Estado, o la pers
 
 Il. Una Secretaría, cuyo cargo ocuparán los presidentes municipales de los ayuntamientos que integren la Zona Metropolitana, en los términos previstos en la presente Ley;
 
-III. El Secretario de Desarrollo Económico del Estado;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+III. El Secretario de Economía;
 
 IV. El Secretario de Finanzas del Estado;
 
-V. El Secretario de Planeación y Desarrollo Regional del Estado;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
 
-VI. El Secretario de Obras Públicas del Estado;
+V. El titular de la Unidad de Planeación del Poder Ejecutivo;
 
-VII. El Director General del Instituto de Ecología y Medio Ambiente del Estado;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+VI. El Secretario de Infraestructura;
+
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+VII. El Secretario del Agua y Medio Ambiente;
 
 VIII. El Presidente de la Comisión de Fortalecimiento Municipal de la Legislatura del Estado;
 
@@ -187,7 +195,9 @@ XI. Promover la realización y ejecución de estudios o investigaciones sobre el
 
 XII. Proponer la elaboración y actualización de los planes y programas de desarrollo urbano;
 
-XIII. En coordinación con la Secretaría de Planeación y Desarrollo Regional, integrar y operar el banco de datos de la Zona Metropolitana, para una mejor toma de decisiones;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+XIII. En coordinación con la Unidad de Planeación del Titular del Poder Ejecutivo, integrar y operar el banco de datos de la Zona Metropolitana, para una mejor toma de decisiones;
 
 XIV. Organizar y participar en los foros de consulta para identificar necesidades en la Zona Metropolitana;
 
@@ -199,9 +209,11 @@ XVII. Las demás que establezca la presente Ley, su reglamento y demás disposic
 
 ### CAPÍTULO IV. DEL NOMBRAMIENTO Y FACULTADES DEL SECRETARIO TÉCNICO DEL CONSEJO
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 13.
 
-El Consejo contará con un Secretario Técnico, que será un servidor público de la Secretaría de Obras Públicas del Estado de Zacatecas, quien deberá tener rango de subsecretario.
+El Consejo contará con un Secretario Técnico, que será un servidor público de la Secretaría de Infraestructura del Estado de Zacatecas, quien deberá tener rango de subsecretario.
 
 ###### Artículo 14.
 
@@ -290,3 +302,23 @@ ESAÚ HERNÁNDEZ HERRERA.
 EL SECRETARIO DE OBRAS PÚBLICAS
 
 ARQ. LUIS ALFONSO PESCHARD BUSTAMANTE.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE MARZO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, el Ejecutivo del Estado deberá actualizar la reglamentación de conformidad con el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, los Ayuntamientos deberán establecer su Gaceta Municipal.
+
+###### ARTÍCULO CUARTO.
+
+Los Ayuntamientos, en el término de ciento veinte días naturales a partir de la vigencia del presente Decreto, deberán publicar en sus Gacetas Municipales y en el Periódico Oficial, Órgano del Gobierno del Estado, todas las disposiciones normativas de carácter general que hayan sido generadas antes de la entrada en vigor del presente Decreto. Remitiendo en medio impreso y de forma magnética los instrumentos jurídicos a la Coordinación General Jurídica del Gobierno del Estado para su trámite de publicación.
