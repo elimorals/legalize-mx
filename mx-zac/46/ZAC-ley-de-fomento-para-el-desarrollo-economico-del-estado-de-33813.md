@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-fomento-para-el-desarrollo-economico-del-estado-de-33813
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-16"
-last_updated: "2012-09-29"
+last_updated: "2013-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33813&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE FOMENTO PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2013.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 16 de agosto de 2003.
 
@@ -117,7 +117,7 @@ IV. Generar las condiciones para la formación y desarrollo de las micro, median
 
 V. Integrar las cadenas productivas en una dinámica en la que las empresas se fortalezcan entre sí, para hacer más efectiva la función de proveer insumos y servicios en beneficio de la rentabilidad económica y competitiva a favor de los consumidores de bienes y servicios;
 
-VI. (DEROGADA POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INVERSIÓN Y EL EMPLEO DE ZACATECAS, P.O. 29 DE SEPTIEMBRE DE 2012)
+VI. (DEROGADA POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INVERSIÓN Y EL EMPLEO DE ZACATECAS, P.O. 29 DE SEPTIEMBRE DE 2012) (REPUBLICADA, P.O. 23 DE MARZO DE 2013)
 
 VII. Generar una nueva cultura laboral y empresarial que entienda el desarrollo como un proceso que reclama la participación conjunta de las instituciones públicas y de los actores económicos privados y sociales, que revaloren el concepto de calidad y excelencia en la actividad económica;
 
@@ -141,7 +141,7 @@ XVI. Impulsar el desarrollo de ciudades medias y pequeñas de la entidad, con ba
 
 XVII. Impulsar la activación de las zonas económicamente deprimidas;
 
-XVIII. (DEROGADA POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INVERSIÓN Y EL EMPLEO DE ZACATECAS, P.O. 29 DE SEPTIEMBRE DE 2012)
+XVIII. (DEROGADA POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INVERSIÓN Y EL EMPLEO DE ZACATECAS, P.O. 29 DE SEPTIEMBRE DE 2012) (REPUBLICADA, P.O. 23 DE MARZO DE 2013)
 
 XIX. Promover el respeto a los ordenamientos jurídicos en materia ambiental;
 
@@ -175,9 +175,13 @@ II. Legislatura.- A la Asamblea de Diputados depositaria del Poder Legislativo d
 
 III. Ejecutivo del Estado.- Al Gobernador del Estado de Zacatecas;
 
-IV. Secretaría.- A la Secretaría de Desarrollo Económico;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
 
-V. Seplader.- A la Secretaría de Planeación y Desarrollo Regional;
+IV. Secretaría.- A la Secretaría de Economía;
+
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+V. Unidad.- A la Unidad de Planeación del Titular del Poder Ejecutivo del Estado;
 
 VI. Sector Público.- Dependencias y entidades de la Administración Pública Federal, Estatal y Municipal;
 
@@ -233,7 +237,9 @@ II. A la Secretaría;
 
 III. Al Consejo;
 
-IV. A la Contraloría Interna del Gobierno del Estado, y
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+IV. A la Secretaría de la Función Pública del Gobierno del Estado, y
 
 V. A las demás dependencias y organismos de las administraciones públicas estatal y municipales, de acuerdo a las atribuciones que les señale la ley.
 
@@ -265,19 +271,19 @@ Son funciones y facultades de la Secretaría:
 
 I. Definir estrategias prioritarias a corto, mediano y largo plazo para impulsar la actividad económica de Zacatecas;
 
-II. (DEROGADA POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INVERSIÓN Y EL EMPLEO DE ZACATECAS, P.O. 29 DE SEPTIEMBRE DE 2012)
+II. (DEROGADA POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INVERSIÓN Y EL EMPLEO DE ZACATECAS, P.O. 29 DE SEPTIEMBRE DE 2012) (REPUBLICADA, P.O. 23 DE MARZO DE 2013)
 
-III. (DEROGADA POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INVERSIÓN Y EL EMPLEO DE ZACATECAS, P.O. 29 DE SEPTIEMBRE DE 2012)
+III. (DEROGADA POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INVERSIÓN Y EL EMPLEO DE ZACATECAS, P.O. 29 DE SEPTIEMBRE DE 2012) (REPUBLICADA, P.O. 23 DE MARZO DE 2013)
 
 IV. Establecer criterios para reforzar la estructura de desarrollo económico del Estado;
 
-V. (DEROGADA POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INVERSIÓN Y EL EMPLEO DE ZACATECAS, P.O. 29 DE SEPTIEMBRE DE 2012)
+V. (DEROGADA POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INVERSIÓN Y EL EMPLEO DE ZACATECAS, P.O. 29 DE SEPTIEMBRE DE 2012) (REPUBLICADA, P.O. 23 DE MARZO DE 2013)
 
-VI. (DEROGADA POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INVERSIÓN Y EL EMPLEO DE ZACATECAS, P.O. 29 DE SEPTIEMBRE DE 2012)
+VI. (DEROGADA POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INVERSIÓN Y EL EMPLEO DE ZACATECAS, P.O. 29 DE SEPTIEMBRE DE 2012) (REPUBLICADA, P.O. 23 DE MARZO DE 2013)
 
-VII. Analizar y proponer para la competitividad y la promoción económica el programa de actividades en base a su presupuesto ante el Consejo;
+VII. (DEROGADA, P.O. 23 DE MARZO DE 2013)
 
-VIII. (DEROGADA POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INVERSIÓN Y EL EMPLEO DE ZACATECAS, P.O. 29 DE SEPTIEMBRE DE 2012)
+VIII. (DEROGADA POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INVERSIÓN Y EL EMPLEO DE ZACATECAS, P.O. 29 DE SEPTIEMBRE DE 2012) (REPUBLICADA, P.O. 23 DE MARZO DE 2013)
 
 IX. Aprobar la contratación de servicios externos especializados de alta calidad técnica o profesional, como apoyo a las funciones de investigación y planeación estratégica de la Secretaría;
 
@@ -315,13 +321,15 @@ El Consejo es el órgano colegiado que tiene por objeto la consulta, asesoría, 
 
 El Consejo estará integrado por:
 
-I. El Secretario de Desarrollo Económico. Quien será el Presidente
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
 
-del CEMPYME;
+I. El Secretario de Economía quien será el Presidente del CEMPYME;
 
 II. El Secretario de Finanzas;
 
-III. El titular de la Contraloría Interna del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+III. El Secretario de la Función Pública del Gobierno del Estado;
 
 IV. El Delegado de la Secretaría de Economía;
 
@@ -361,7 +369,7 @@ V. Promover el Servicio Estatal de Empleo, a efecto de contar con los servicios 
 
 VI. Coadyuvar en las acciones emprendidas por el Consejo Estatal para el Dialogo con los Sectores Productivos y del Comité Técnico del Servicio Estatal de Empleo.
 
-VII. (DEROGADA POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INVERSIÓN Y EL EMPLEO DE ZACATECAS, P.O. 29 DE SEPTIEMBRE DE 2012)
+VII. (DEROGADA POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INVERSIÓN Y EL EMPLEO DE ZACATECAS, P.O. 29 DE SEPTIEMBRE DE 2012) (REPUBLICADA, P.O. 23 DE MARZO DE 2013)
 
 VIII. Impulsar el desarrollo de ciudades medias y pequeñas de la entidad, con base en la prioridad diferencial que se les otorgue de acuerdo a la necesidad o marginalidad en el desarrollo, a fin de promover su consolidación para atraer inversiones;
 
@@ -373,7 +381,7 @@ XI. Promover la infraestructura agropecuaria, comercial, minera, de comunicacion
 
 XII. Fomentar esquemas de asesoría, integración y asociación que fortalezcan la productividad y la posición competitiva de las MIPYMES;
 
-XIII. (DEROGADA POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INVERSIÓN Y EL EMPLEO DE ZACATECAS, P.O. 29 DE SEPTIEMBRE DE 2012)
+XIII. (DEROGADA POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INVERSIÓN Y EL EMPLEO DE ZACATECAS, P.O. 29 DE SEPTIEMBRE DE 2012) (REPUBLICADA, P.O. 23 DE MARZO DE 2013)
 
 XIV. Promover la integración regional de las actividades y vocaciones productivas del Estado, en particular de las MIPYMES, así como las diversas formas de asociación productiva.
 
@@ -391,49 +399,53 @@ Para su operación y funcionamiento el Consejo expedirá su reglamento interior,
 
 ## TÍTULO SEGUNDO. DE LAS ACCIONES PARA FOMENTAR LA COMPETITIVIDAD DEL APARATO PRODUCTIVO
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE MARZO DE 2013)</small>
+
 ### CAPÍTULO I. DE LOS INCENTIVOS
 
 ###### ARTÍCULO 17.
 
-(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INVERSIÓN Y EL EMPLEO DE ZACATECAS, P.O. 29 DE SEPTIEMBRE DE 2012)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INVERSIÓN Y EL EMPLEO DE ZACATECAS, P.O. 29 DE SEPTIEMBRE DE 2012) (REPUBLICADO, P.O. 23 DE MARZO DE 2013)
 
 ###### ARTÍCULO 18.
 
-(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INVERSIÓN Y EL EMPLEO DE ZACATECAS, P.O. 29 DE SEPTIEMBRE DE 2012)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INVERSIÓN Y EL EMPLEO DE ZACATECAS, P.O. 29 DE SEPTIEMBRE DE 2012) (REPUBLICADO, P.O. 23 DE MARZO DE 2013)
 
 ###### ARTÍCULO 19.
 
-(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INVERSIÓN Y EL EMPLEO DE ZACATECAS, P.O. 29 DE SEPTIEMBRE DE 2012)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INVERSIÓN Y EL EMPLEO DE ZACATECAS, P.O. 29 DE SEPTIEMBRE DE 2012) (REPUBLICADO, P.O. 23 DE MARZO DE 2013)
 
 ###### ARTÍCULO 20.
 
-(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INVERSIÓN Y EL EMPLEO DE ZACATECAS, P.O. 29 DE SEPTIEMBRE DE 2012)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INVERSIÓN Y EL EMPLEO DE ZACATECAS, P.O. 29 DE SEPTIEMBRE DE 2012) (REPUBLICADO, P.O. 23 DE MARZO DE 2013)
 
 ###### ARTÍCULO 21.
 
-(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INVERSIÓN Y EL EMPLEO DE ZACATECAS, P.O. 29 DE SEPTIEMBRE DE 2012)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INVERSIÓN Y EL EMPLEO DE ZACATECAS, P.O. 29 DE SEPTIEMBRE DE 2012) (REPUBLICADO, P.O. 23 DE MARZO DE 2013)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE MARZO DE 2013)</small>
 
 ### CAPÍTULO II. DE LA FACULTAD DE OTORGAR Y EJECUTAR LOS INCENTIVOS
 
 ###### ARTÍCULO 22
 
-(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INVERSIÓN Y EL EMPLEO DE ZACATECAS, P.O. 29 DE SEPTIEMBRE DE 2012)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INVERSIÓN Y EL EMPLEO DE ZACATECAS, P.O. 29 DE SEPTIEMBRE DE 2012) (REPUBLICADO, P.O. 23 DE MARZO DE 2013)
 
 ###### ARTÍCULO 23.
 
-(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INVERSIÓN Y EL EMPLEO DE ZACATECAS, P.O. 29 DE SEPTIEMBRE DE 2012)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INVERSIÓN Y EL EMPLEO DE ZACATECAS, P.O. 29 DE SEPTIEMBRE DE 2012) (REPUBLICADO, P.O. 23 DE MARZO DE 2013)
 
 ###### ARTÍCULO 24.
 
-(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INVERSIÓN Y EL EMPLEO DE ZACATECAS, P.O. 29 DE SEPTIEMBRE DE 2012)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INVERSIÓN Y EL EMPLEO DE ZACATECAS, P.O. 29 DE SEPTIEMBRE DE 2012) (REPUBLICADO, P.O. 23 DE MARZO DE 2013)
 
 ###### ARTÍCULO 25.
 
-(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INVERSIÓN Y EL EMPLEO DE ZACATECAS, P.O. 29 DE SEPTIEMBRE DE 2012)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INVERSIÓN Y EL EMPLEO DE ZACATECAS, P.O. 29 DE SEPTIEMBRE DE 2012) (REPUBLICADO, P.O. 23 DE MARZO DE 2013)
 
 ###### ARTÍCULO 26.
 
-(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INVERSIÓN Y EL EMPLEO DE ZACATECAS, P.O. 29 DE SEPTIEMBRE DE 2012)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INVERSIÓN Y EL EMPLEO DE ZACATECAS, P.O. 29 DE SEPTIEMBRE DE 2012) (REPUBLICADO, P.O. 23 DE MARZO DE 2013)
 
 ### CAPÍTULO III. DE LAS ACCIONES DE DESREGULACIÓN DE LA ACTIVIDAD ECONÓMICA Y SIMPLIFICACIÓN ADMINISTRATIVA
 
@@ -555,7 +567,7 @@ La Secretaría promoverá con las instituciones de crédito y con el Sistema Est
 
 Las MIPYMES en la entidad se incorporarán al Esquema Nacional para el Desarrollo de la Competitividad de la micro, pequeña y mediana empresa, de conformidad con la ley en la materia, para así alcanzar además, el beneficio de las acciones que realice el Sector Público en sus tres niveles de gobierno.
 
-###### ARTÍCULO 38.
+###### ARTICULO 38.
 
 El Consejo deberá integrarse de conformidad con el artículo 13 de ésta ley, al cual se podrán incorporar las instituciones públicas y privadas que tengan en operación programas para las MIPYMES.
 
@@ -569,17 +581,21 @@ La Secretaría propiciará que las políticas de financiamiento alcancen a los g
 
 Para atender a esos sectores de la población se fortalecerá el Sistema Estatal de Fondos, para lo cual se considerará el establecimiento de un Comité Técnico que garantice el cuidado y la transparencia en la canalización y recuperación de los créditos.
 
-###### ARTÍCULO 41
+###### ARTÍCULO 41.
 
 El Comité Técnico aprobará de manera consensuada, previo análisis de factibilidad, las solicitudes de financiamiento que reciba.
 
 El Comité Técnico se integra con la representación de las siguientes dependencias y organismos:
 
-I. Secretaría de Desarrollo Económico;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+I. Secretaría de Economía;
 
 II. Secretaría de Finanzas;
 
-III. Contraloría Interna del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+III. Secretaría de la Función Pública del Gobierno del Estado;
 
 IV. Delegación de la Secretaría de Economía;
 
@@ -760,3 +776,21 @@ Los incentivos otorgados antes de la entrada en vigor de la presente Ley y las s
 ###### ARTÍCULO DÉCIMO.
 
 A partir de la entrada en vigor de la Ley Orgánica de la Administración Pública del Estado de Zacatecas, aprobada por esta Sexagésima Legislatura del Estado, en fecha a 31 de Mayo del 2012, el nombre de las dependencias citadas en el presente Instrumento Legislativo, se actualizaran de conformidad con el Ordenamiento antes invocado.
+
+P.O. 23 DE MARZO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, el Ejecutivo del Estado deberá actualizar la reglamentación de conformidad con el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, los Ayuntamientos deberán establecer su Gaceta Municipal.
+
+###### ARTÍCULO CUARTO.
+
+Los Ayuntamientos, en el término de ciento veinte días naturales a partir de la vigencia del presente Decreto, deberán publicar en sus Gacetas Municipales y en el Periódico Oficial, Órgano del Gobierno del Estado, todas las disposiciones normativas de carácter general que hayan sido generadas antes de la entrada en vigor del presente Decreto. Remitiendo en medio impreso y de forma magnética los instrumentos jurídicos a la Coordinación General Jurídica del Gobierno del Estado para su trámite de publicación.
