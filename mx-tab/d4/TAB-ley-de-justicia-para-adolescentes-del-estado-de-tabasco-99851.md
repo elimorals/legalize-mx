@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-justicia-para-adolescentes-del-estado-de-tabasco-99851"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-29"
-last_updated: "2012-08-29"
+last_updated: "2013-03-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99851&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE TABASCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON LA LEY NACIONAL DEL SISTEMA INTEGRAL DE JUSTICIA PENAL PARA ADOLESCENTES, PUBLICADA EN EL D.O.F. DE 16 DE JUNIO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO. TRANSITORIOS: ARTÍCULO PRIMERO. VIGENCIA PARA LOS EFECTOS SEÑALADOS EN EL PÁRRAFO TERCERO DEL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 18 DE JUNIO DE 2008, SE DECLARA QUE LA PRESENTE LEGISLACIÓN INCORPORA EL SISTEMA PROCESAL PENAL ACUSATORIO Y ENTRARÁ EN VIGOR EL 18 DE JUNIO DE 2016. LOS REQUERIMIENTOS NECESARIOS PARA LA PLENA OPERACIÓN DEL SISTEMA INTEGRAL DE JUSTICIA PENAL PARA ADOLESCENTES DEBERÁN ESTAR INCORPORADOS EN UN PLAZO NO MAYOR A TRES AÑOS A PARTIR DE LA FECHA DE ENTRADA EN VIGOR DEL PRESENTE DECRETO. ARTÍCULO SEGUNDO. ABROGACIÓN SE ABROGA LA LEY PARA EL TRATAMIENTO DE MENORES INFRACTORES PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL, PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 24 DE DICIEMBRE DE 1991 Y SUS POSTERIORES REFORMAS. SE ABROGAN TAMBIÉN LAS LEYES RESPECTIVAS DE LAS ENTIDADES FEDERATIVAS VIGENTES A LA ENTRADA EN VIGOR DEL PRESENTE DECRETO, PARA EFECTOS DE SU APLICACIÓN EN LOS PROCEDIMIENTOS PENALES PARA ADOLESCENTES INICIADOS POR HECHOS QUE OCURRAN A PARTIR DE LA ENTRADA EN VIGOR DE LA PRESENTE LEY. ARTÍCULO TERCERO. CARGA CERO LOS PROCEDIMIENTOS PENALES PARA ADOLESCENTES QUE A LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO SE ENCUENTREN EN TRÁMITE, CONTINUARÁN SU SUSTANCIACIÓN DE CONFORMIDAD CON LA LEGISLACIÓN APLICABLE EN EL MOMENTO DEL INICIO DE LOS MISMOS.]</small>
+
 LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2013.
 
 Ley publicada en el Suplemento 7302 del Periódico Oficial del Estado de Tabasco el miércoles 29 de agosto de 2012.
 
@@ -1041,7 +1043,11 @@ VIII. La separación inmediata del domicilio, si se trata de agresiones a mujere
 
 IX. El internamiento en centro de salud u hospital psiquiátrico, en los casos en que el estado de salud del adolescente así lo amerite;
 
-X. La internación en comunidades terapéuticas mediante el modelo de la Federación Mundial; y,
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+X. La internación en comunidades terapéuticas mediante el modelo avalado por organismos nacionales y/o internacionales que al efecto se determine; y,
 
 XI. El internamiento provisional.
 
@@ -2125,7 +2131,11 @@ IX. Obligación de asistir a un centro de educación formal o a otro lugar a rec
 
 X. Obligación de acudir a centros especializados en materia de adicciones de modo ambulatorio, en institución pública o privada;
 
-XI. Internación en comunidades terapéuticas mediante el modelo de la Federación Mundial;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+XI. Internación en comunidades terapéuticas mediante el modelo avalado por organismos nacionales y/o internacionales que al efecto se determine;
 
 XII. Obligación de recibir atención psicológica o psiquiátrica;
 
@@ -2271,7 +2281,11 @@ La duración de esta medida legal no podrá ser inferior a tres meses ni mayor a
 
 Internación en comunidades terapéuticas.
 
-La internación en comunidades terapéuticas consistirá en una atención educativa especializada o tratamiento específico dirigido a personas que padezcan adicción al alcohol, a las drogas, sustancias psicotrópicas, o bien, por las patologías psíquicas o problemas conductuales. Esta medida podrá aplicarse en régimen cerrado, semiabierto o abierto mediante el modelo de la Federación Mundial de Comunidades Terapéuticas.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
+La internación en comunidades terapéuticas consistirá en una atención educativa especializada o tratamiento específico dirigido a personas que padezcan adicción al alcohol, a las drogas, sustancias psicotrópicas, o bien, por las patologías psíquicas o problemas conductuales. Esta medida podrá aplicarse en régimen cerrado, semiabierto o abierto mediante el modelo avalado por organismos nacionales y/o internacionales que al efecto se determine.
 
 Esta medida procederá cuando el diagnóstico del Consejo Técnico Interdisciplinario, le permita al tribunal especializado determinar que el adolescente tiene la necesidad de recibir un tratamiento adecuado, debido a su adicción al alcohol, a las drogas, sustancias psicotrópicas, o bien, por las patologías psíquicas o problemas conductuales que presente, la cual se impondrá por el tiempo que sea necesario, pero no podrá exceder de tres años.
 
@@ -2742,3 +2756,15 @@ CONSEJERO JURÍDICO DEL PODER EJECUTIVO DEL ESTADO.
 LIC. RAFAEL MIGUEL GONZÁLEZ LASTRA
 
 SECRETARIO DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE MARZO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor a los 15 días a partir de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente decreto.
