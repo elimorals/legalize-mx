@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-mejora-regulatoria-del-estado-de-zacatecas-y-sus-35254"
 country: "mx"
 rank: "ley"
 publication_date: "2003-11-29"
-last_updated: "2003-11-29"
+last_updated: "2013-03-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35254&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE MEJORA REGULATORIA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2013.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 29 de noviembre de 2003
 
@@ -95,7 +95,9 @@ XI. Organismos paraestatales.- Entidades creadas por ley o decreto de la Legisla
 
 XII. Registro.- El Registro Estatal y Municipal de Trámites y Servicios; y
 
-XIII. Secretaría.- A la Secretaría de Desarrollo Económico.
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+XIII. Secretaría.- A la Secretaría de Economía.
 
 ### CAPÍTULO SEGUNDO. DE LAS AUTORIDADES COMPETENTES Y DE LA APLICACIÓN DE LA LEY
 
@@ -107,7 +109,9 @@ I. Al Ejecutivo del Estado;
 
 II. A la Secretaría;
 
-III. A la Contraloría Interna del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+III. A la Secretaría de la Función Pública del Gobierno del Estado;
 
 IV. A los Ayuntamientos;
 
@@ -131,7 +135,9 @@ IV. Aplicar las disposiciones de la presente ley por conducto de la Secretaría 
 
 La Secretaría tendrá a su cargo la coordinación de la Comisión y aplicará por su conducto las disposiciones de ésta ley.
 
-El enlace y la coordinación serán a través de la Comisión con los ayuntamientos y se realizará por conducto de la respectiva Dirección de Desarrollo Económico.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
+El enlace y la coordinación serán a través de la Comisión con los ayuntamientos y se realizará por conducto de la respectiva Dirección de la Secretaría.
 
 ###### ARTÍCULO 7.
 
@@ -207,7 +213,9 @@ a) La Secretaría General de Gobierno;
 
 b) La Secretaría, quien estará a cargo de la coordinación;
 
-c) La Contraloría Interna del Gobierno del Estado; y
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
+c) La Secretaría de la Función Pública del Gobierno del Estado; y
 
 III. Un Presidente Municipal, que será el Presidente de la Asociación Estatal de Presidente (sic) Municipales que corresponda.
 
@@ -352,3 +360,23 @@ DR. RICARDO MONREAL ÁVILA
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. TOMÁS TORRES MERCADO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE MARZO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, el Ejecutivo del Estado deberá actualizar la reglamentación de conformidad con el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, los Ayuntamientos deberán establecer su Gaceta Municipal.
+
+###### ARTÍCULO CUARTO.
+
+Los Ayuntamientos, en el término de ciento veinte días naturales a partir de la vigencia del presente Decreto, deberán publicar en sus Gacetas Municipales y en el Periódico Oficial, Órgano del Gobierno del Estado, todas las disposiciones normativas de carácter general que hayan sido generadas antes de la entrada en vigor del presente Decreto. Remitiendo en medio impreso y de forma magnética los instrumentos jurídicos a la Coordinación General Jurídica del Gobierno del Estado para su trámite de publicación.
