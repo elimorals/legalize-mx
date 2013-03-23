@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-los-sistemas-de-agua-potable-alcantarillado-y-14726"
 country: "mx"
 rank: "ley"
 publication_date: "1994-08-13"
-last_updated: "2012-08-04"
+last_updated: "2013-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14726&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DE LOS SISTEMAS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL ESTADO DE 
 
 > <small>N. DE E. DE CONFORMIDAD CON EL DECRETO NÚMERO 378 POR EL QUE SE EXPIDE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE ZACATECAS, P.O. 4 DE AGOSTO DE 2012, Y CON RELACIÓN A LO DISPUESTO POR EL ARTÍCULO QUINTO TRANSITORIO; NO ES POSIBLE APLICAR CON EXACTITUD LA DEROGACIÓN AL CAPÍTULO TERCERO DEL TÍTULO PRIMERO, YA QUE NO EXISTE EL CAPÍTULO EN COMENTO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2013.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 13 de agosto de 1994.
 
@@ -99,11 +99,15 @@ I. Organismos operadores municipales;
 
 II. Organismos operadores intermunicipales;
 
-III. Comisión Estatal de Agua Potable y Alcantarillado, o bien;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+III. Secretaría del Agua y Medio Ambiente, o bien;
 
 IV. Por particulares que cuenten con concesión o hayan celebrado el respectivo contrato de prestación de servicios u otro análogo.
 
-Los organismos señalados en las fracciones I y II, formarán parte de la administración paramunicipal de los Ayuntamientos y el organismo a que se refiere la fracción III de la administración paraestatal del Ejecutivo del Estado, a efectos de prestar los servicios objeto de esta Ley a través de una administración descentralizada.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
+Los organismos señalados en las fracciones I y II, formarán parte de la administración paramunicipal de los Ayuntamientos y la secretaría a que se refiere la fracción III de la administración centralizada del Ejecutivo del Estado, a efectos de prestar los servicios objeto de esta Ley.
 
 ### CAPITULO SEGUNDO. Sistemas de Agua Potable, Alcantarillado y Saneamiento del Estado
 
@@ -135,19 +139,21 @@ XI. La corresponsabilidad de la Administración Pública Estatal y Municipal y d
 
 XII. Llevar el intervalo y registro de las aguas que tienen el carácter de estatales, considerando como tales las que se localizan dentro de la jurisdicción territorial del Estado de Zacatecas y que no sean aguas nacionales en los términos del Artículo 27 de la Constitución Política de los Estados Unidos Mexicanos y de la Ley de Aguas Nacionales.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### ARTICULO 5o.
 
-El Gobierno del Estado y los Ayuntamientos de los Municipios deberán coordinarse en el seno de la Comisión Estatal de Agua Potable y Alcantarillado, para su participación en el establecimiento, conservación y desarrollo de los sistemas de agua potable, alcantarillado y saneamiento del Estado.
+El Gobierno del Estado y los Ayuntamientos de los Municipios deberán coordinarse en el seno de la Secretaría del Agua y Medio Ambiente, para su participación en el establecimiento, conservación y desarrollo de los sistemas de agua potable, alcantarillado y saneamiento del Estado.
 
-La administración descentralizada, tanto estatal como municipal, participará en dicho sistema, en los términos previstos en la presente Ley.
-
-Los particulares podrán participar en el sistema, conforme a lo previsto en este ordenamiento.
+Las administraciones centralizada y municipal, participarán en dicho sistema, en los términos previstos en la presente Ley.
 
 ###### ARTICULO 6o.
 
 Los Municipios del Estado tendrán a su cargo:
 
-I. Prestar los servicios de agua potable, alcantarillado y saneamiento en sus jurisdicciones, a través de los organismos operadores municipales respectivos o de los organismos que se constituyan en virtud de la coordinación y asociación de dos o más Municipios, o bien convenir con el Ejecutivo del Estado, para que éste los preste por conducto de la Comisión Estatal de Agua Potable y Alcantarillado;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+I. Prestar los servicios de agua potable, alcantarillado y saneamiento en sus jurisdicciones, a través de los organismos operadores municipales respectivos o de los organismos que se constituyan en virtud de la coordinación asociación de dos o más Municipios, o bien convenir con el Ejecutivo del Estado, para que éste los preste por conducto de la Secretaria del Agua y Medio Ambiente;
 
 II. Participar en coordinación con los Gobiernos Federal y Estatal en el establecimiento de las políticas, lineamientos y especificaciones técnicas conforme a los cuales deberá efectuarse la construcción, ampliación, rehabilitación, administración, operación, conservación, mejoramiento y mantenimiento de los sistemas de agua potable y alcantarillado;
 
@@ -177,7 +183,9 @@ VI. Ejecutar las obras de agua potable, alcantarillado, tratamiento y reutilizac
 
 VII. Las demás que ésta u otras leyes le confieran.
 
-Las atribuciones anteriores las podrá ejercitar el Gobierno del Estado a través de la Comisión Estatal de Agua Potable y Alcantarillado.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
+Las atribuciones anteriores las podrá ejercitar el Gobierno del Estado a través de la Secretaría del Agua y Medio Ambiente.
 
 ###### ARTICULO 8o.
 
@@ -227,9 +235,11 @@ Los usuarios de los servicios de agua potable, alcantarillado y saneamiento a qu
 
 Las autoridades y organismos competentes a que se refiere el artículo anterior, mediante acuerdo de carácter general publicado en el Periódico Oficial del Estado, podrán eximir por región, municipio o localidad del trámite y obtención del permiso a que se refiere el párrafo anterior.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### ARTICULO 13.
 
-La Comisión Estatal de Agua Potable y Alcantarillado, las autoridades municipales y los organismos a que se refiere la presente Ley, prestarán el auxilio y colaboración que les solicite el Gobierno Federal en la prevención, control y fiscalización de las actividades que se consideren altamente riesgosas conforme a la Ley General del Equilibrio Ecológico y la Protección del Medio Ambiente, que sean vertidos a los sistemas de drenaje o alcantarillado, mismos que se sujetan a dicha Ley Federal y a las normas técnicas, ecológicas y procedimientos que establezca dicha Secretaría.
+La Secretaría del Agua y Medio Ambiente, las autoridades municipales y los organismos a que se refiere la presente Ley, prestarán el auxilio y colaboración que les solicite el Gobierno Federal en la prevención, control y fiscalización de las actividades que se consideren altamente riesgosas conforme a la Ley General del Equilibrio Ecológico y la Protección del Medio Ambiente, que sean vertidos a los sistemas de drenaje o alcantarillado, mismos que se sujetan a dicha Ley Federal y a las normas técnicas, ecológicas y procedimientos que establezca dicha Secretaría.
 
 Los organismos operadores a que se refiere la presente Ley, a su vez, prestarán el auxilio y colaboración que les solicite la autoridad municipal, tratándose de actividades no consideradas altamente riesgosas que generan residuos una vez que sean vertidos a los sistemas de drenaje o alcantarillado de los centros de población mismos que se sujetarán a la regulación que al efecto expida el Municipio.
 
@@ -257,15 +267,19 @@ Se consideran de utilidad pública y quedan sujetas a las disposiciones que dict
 
 Los usuarios de los servicios de agua potable, alcantarillado y saneamiento participarán en la planeación, programación, administración, operación, supervisión o vigilancia de los sistemas de agua potable del Estado, en los términos de la presente Ley, a través de las organizaciones representativas dentro de la jurisdicción correspondiente, intervención que tendrán tanto en los órganos consultivos como en los de gobierno de los organismos operadores municipales o intermunicipales.
 
-## TITULO SEGUNDO. ADMINISTRACION DESCENTRALIZADA DE LOS SERVICIOS DE AGUA POTABLE Y ALCANTARILLADO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE MARZO DE 2013)</small>
+
+## TÍTULO SEGUNDO. ADMINISTRACIÓN DE LOS SERVICIOS DE AGUA POTABLE
 
 ### CAPITULO PRIMERO. Organismos Operadores Municipales
 
 #### SECCION PRIMERA. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### ARTICULO 16.
 
-Los servicios públicos de agua potable, alcantarillado y saneamiento, así como la construcción y operación de la infraestructura hidráulica correspondiente a cargo de los Municipios, se prestarán y realizarán por los organismos operadores respectivos o en su defecto, por la Comisión Estatal de Agua Potable y Alcantarillado, en los términos de la presente Ley.
+Los servicios públicos de agua potable, alcantarillado y saneamiento, así como la construcción y operación de la infraestructura hidráulica correspondiente a cargo de los Municipios, se prestarán y realizarán por los organismos operadores respectivos o en su defecto, por la Secretaría del Agua y Medio Ambiente, en los términos de la presente Ley.
 
 ###### ARTICULO 17.
 
@@ -275,9 +289,11 @@ Los organismos operadores municipales deberán instalarse mediante acuerdo del A
 
 Las relaciones laborales del organismo operador se regularán por el Estatuto de los Trabajadores al Servicio del Gobierno del Estado de Zacatecas, de sus Municipios y Organismos Descentralizados; asimismo, el personal estará incorporado en los términos que la propia Ley señale a los beneficios establecidos en la Ley de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Zacatecas.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### ARTICULO 18.
 
-Los organismos operadores municipales tendrán personalidad jurídica a partir de la publicación en el Periódico Oficial del Gobierno del Estado, del acuerdo expedido por el respectivo Ayuntamiento en el que se dé a conocer su instalación. En el acuerdo a que se refiere el párrafo anterior, se deberá señalar el convenio celebrado previamente por el Ayuntamiento con la Comisión Estatal de Agua Potable y Alcantarillado, en el entendido de que se incorporará a los sistemas de agua potable, alcantarillado y saneamiento del Estado, y que el servicio se puede prestar en forma descentralizada atendiendo a las condiciones territoriales, socioeconómicas, capacidad administrativa, técnica y financiera existentes en el caso concreto.
+Los organismos operadores municipales tendrán personalidad jurídica a partir de la publicación en el Periódico Oficial del Gobierno del Estado, del acuerdo expedido por el respectivo Ayuntamiento en el que se dé a conocer su instalación. En el acuerdo a que se refiere el párrafo anterior, se deberá señalar el convenio celebrado previamente por el Ayuntamiento con la Secretaría del Agua y Medio Ambiente, en el entendido de que se incorporará a los sistemas de agua potable, alcantarillado y saneamiento del Estado, y que el servicio se puede prestar en forma descentralizada atendiendo a las condiciones territoriales, socioeconómicas, capacidad administrativa, técnica y financiera existentes en el caso concreto.
 
 ###### ARTICULO 19.
 
@@ -393,7 +409,9 @@ Se propone que el Consejo Directivo se integre de la siguiente manera:
 
 I. El Presidente Municipal, quien lo presidirá;
 
-II. Un representante de la Comisión Estatal de Agua Potable y Alcantarillado, quien fungirá como Primer Vocal;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+II. Un representante de la Secretaría del Agua y Medio Ambiente, quien fungirá como Primer Vocal;
 
 III. Un representante de la Comisión Nacional del Agua, que fungirá como Segundo Vocal;
 
@@ -493,7 +511,9 @@ IV. Contratar para su ejecución las obras autorizadas y concursadas cuando así
 
 V. Vigilar que se practiquen en el Municipio en forma regular y periódica, muestras y análisis del agua; llevar estadísticas de sus resultados y tomar en consecuencia las medidas adecuadas para optimizar la calidad del agua que se distribuye a la población, así como la que una vez utilizada se vierta a la red de alcantarillado o drenaje, los cauces o vasos;
 
-VI. Realizar las acciones necesarias para que el organismo se ajuste al Capítulo II, Título Primero en los términos de la presente Ley y a la coordinación y normatividad que efectúe la Comisión Estatal de Agua Potable y Alcantarillado en los términos de la misma;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+VI. Realizar las acciones necesarias para que el organismo se ajuste al Capítulo II, Título Primero en los términos de la presente Ley y a la coordinación y normatividad que efectúe la Secretaría del Agua y Medio Ambiente en los términos de la misma;
 
 VII. Establecer relaciones de coordinación con las autoridades federales, estatales y municipales, la administración pública centralizada o paraestatal y las personas de los sectores social y privado, para el trámite y atención de asuntos de interés común;
 
@@ -517,7 +537,9 @@ XVI. Aplicar las sanciones que establece esta Ley por las infracciones que se co
 
 XVII. Celebrar los actos jurídicos de dominio, administración y pleitos y cobranzas, que sean necesarios para el funcionamiento del organismo;
 
-XVIII. Proporcionar a la Comisión Estatal de Agua Potable y Alcantarillado cuando lo solicite, la información técnica, operativa, financiera, programática y legal que se requiera; y
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+XVIII. Proporcionar a la Secretaría del Agua y Medio Ambiente cuando lo solicite, la información técnica, operativa, financiera, programática y legal que se requiera; y
 
 XIX. Las demás que le señale el Consejo Directivo, esta Ley, el instrumento de creación del organismo o su Reglamento Interior.
 
@@ -541,13 +563,17 @@ VII. Vigilar ilimitadamente en cualquier tiempo las operaciones del organismo op
 
 ### CAPITULO SEGUNDO. Organismos Operadores Intermunicipales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### ARTICULO 33.
 
-Los Municipios del Estado, previo acuerdo de sus Ayuntamientos, y con la opinión de la Comisión Estatal de Agua Potable y Alcantarillado, se podrán coordinar para la prestación de los servicios de agua potable, alcantarillado y saneamiento, a través de un organismo operador existente en alguno de los Municipios o de nueva creación.
+Los Municipios del Estado, previo acuerdo de sus Ayuntamientos, y con la opinión de la Secretaría del Agua y Medio Ambiente, se podrán coordinar para la prestación de los servicios de agua potable, alcantarillado y saneamiento, a través de un organismo operador existente en alguno de los Municipios o de nueva creación.
 
 A partir de la publicación del citado acuerdo en el Periódico Oficial del Estado, el organismo operador municipal respectivo, se transformará en organismo operador intermunicipal y los demás organismos operadores municipales que quedarán comprendidos en dicho acuerdo se extinguirán.
 
-Previamente al acuerdo entre los Ayuntamientos, el organismo operador municipal respectivo deberá contar con el convenio celebrado con la Comisión Estatal de Agua Potable y Alcantarillado. En dicho convenio se indicará su carácter de intermunicipal, y su incorporación a los sistemas de agua potable, alcantarillado y saneamiento del Estado; asimismo, se establecerá que el servicio descentralizado se puede prestar atendiendo a las condiciones territoriales, socioeconómicas, capacidad administrativa, técnica y financiera existentes en el caso concreto.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
+Previamente al acuerdo entre los Ayuntamientos, el organismo operador municipal respectivo deberá contar con el convenio celebrado con la Secretaría del Agua y Medio Ambiente En dicho convenio se indicará su carácter de intermunicipal, y su incorporación a los sistemas de agua potable, alcantarillado y saneamiento del Estado; asimismo, se establecerá que el servicio descentralizado se puede prestar atendiendo a las condiciones territoriales, socioeconómicas, capacidad administrativa, técnica y financiera existentes en el caso concreto.
 
 El organismo operador intermunicipal, por disposición de Ley, se subrogará en las responsabilidades y asumirá los derechos y obligaciones de los organismos operadores que se extinguen.
 
@@ -563,7 +589,9 @@ II. Que su objeto sea el expresado en el artículo anterior;
 
 III. Que la organización y operación del organismo público que se constituya, se sujete a lo establecido en la presente Ley;
 
-IV. Que se haya celebrado el convenio o se obtenga el acuerdo de la Comisión Estatal de Agua Potable y Alcantarillado en los términos de la presente Ley; y
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+IV. Que se haya celebrado el convenio o se obtenga el acuerdo de la Secretaría del Agua y Medio Ambiente en los términos de la presente Ley; y
 
 V. Que dicho convenio sea sancionado por el Congreso del Estado.
 
@@ -573,7 +601,9 @@ En la celebración de los convenios señalados podrán participar dos o más Mun
 
 Los convenios mencionados en este Capítulo se sujetarán a las siguientes bases:
 
-I. Su vigencia será indefinida y sólo podrán rescindirse o darse por terminados por causas extraordinarias o imprevisibles, así como por casos fortuitos o de fuerza mayor, previa celebración del convenio respectivo con la Comisión Estatal de Agua Potable y Alcantarillado;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+I. Su vigencia será indefinida y sólo podrán rescindirse o darse por terminados por causas extraordinarias o imprevisibles, así como por casos fortuitos o de fuerza mayor, previa celebración del convenio respectivo con la Secretaría del Agua y Medio Ambiente;
 
 II. Se perfeccionarán y producirán todos los efectos, hasta la entrada en vigor del convenio a que se refiere el Artículo 33; y
 
@@ -587,9 +617,11 @@ El patrimonio del organismo público que se constituya en los términos del pres
 
 El organismo operador intermunicipal tendrá los objetivos, atribuciones, estructura, administración y las reglas de operación a que se refiere el Capítulo anterior, con las modalidades que se señalan en el presente Capítulo, en relación a su nuevo ámbito de competencia municipal y prestará los servicios públicos de agua potable, alcantarillado y saneamiento, a los Municipios que comprenda, de acuerdo a las reglas y condiciones previstas en el convenio que celebren los respectivos Ayuntamientos municipales, en los términos de la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### ARTICULO 38.
 
-En el órgano de gobierno de los organismos operadores intermunicipales, concurrirán con el carácter de presidente, el Presidente Municipal del Municipio que se determine en el convenio respectivo; a falta de determinación, la presidencia será rotativa; y como vicepresidente, el director de la Comisión Estatal de Agua Potable y Alcantarillado, y como vocales el o los otros Presidentes Municipales de los otros Ayuntamientos que hubieran celebrado el respectivo convenio.
+En el órgano de gobierno de los organismos operadores intermunicipales, concurrirán con el carácter de presidente, el Presidente Municipal del Municipio que se determine en el convenio respectivo; a falta de determinación, la presidencia será rotativa; y como vicepresidente, el titular de la Secretaría del Agua y Medio Ambiente, y como vocales el o los otros Presidentes Municipales de los otros Ayuntamientos que hubieran celebrado el respectivo convenio.
 
 El presidente o los vicepresidentes tendrán sus respectivos suplentes.
 
@@ -601,165 +633,45 @@ El Comisario será designado por el Ejecutivo del Estado.
 
 Lo dispuesto en este Capítulo será independiente de que el Congreso del Estado resuelva lo conducente, cuando por causa de interés público o para la más eficiente prestación del servicio se requerirá que cree un organismo intermunicipal, estableciendo su estructura y operación, en los términos de la presente Ley.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE MARZO DE 2013)</small>
+
 ### CAPITULO TERCERO. La Comisión Estatal de Agua Potable y Alcantarillado
 
 ###### ARTICULO 40.
 
-Se crea la Comisión Estatal de Agua Potable y Alcantarillado, como organismo público descentralizado del Gobierno del Estado, con personalidad jurídica patrimonio propios, y con domicilio en la capital del Estado, y que podrá tener oficinas en cada uno de los Municipios del mismo.
+(DEROGADO, P.O. 23 DE MARZO DE 2013)
 
 ###### ARTICULO 41.
 
-La Comisión Estatal de Agua Potable y Alcantarillado tiene por objeto:
-
-I. Coordinar de conformidad con el Artículo 7o. de esta Ley, la planeación y presupuestación del sector hidráulico estatal;
-
-II. Ejecutar las políticas del gobierno del Estado en la coordinación de los sistemas de agua potable, alcantarillado y saneamiento del Estado;
-
-III. Asesorar, auxiliar y prestar servicios de apoyo y asistencia técnica, operativa o administrativa para la construcción, operación, mantenimiento, rehabilitación y ampliación de los sistemas de agua potable, alcantarillado y saneamiento, a los organismos operadores municipales e intermunicipales;
-
-IV. Asumir, previo acuerdo con el Ayuntamiento Municipal, con carácter transitorio, los servicios de agua potable, alcantarillado y saneamiento, en aquellos Municipios en donde no existan organismos operadores que los presten, o el Municipio no tenga todavía capacidad para hacerse cargo de ellos, realizando en este caso funciones de autoridad administrativa, mediante el ejercicio de las atribuciones que le confiere la presente Ley;
-
-V. Solicitar de las dependencias de la Federación, Estados y Municipios la asesoría técnica, administrativa y financiera que requiera para el cumplimiento de sus fines; y
-
-VI. Las demás que el Ejecutivo Estatal y la Ley le confieran.
+(DEROGADO, P.O. 23 DE MARZO DE 2013)
 
 ###### ARTICULO 42.
 
-La Comisión Estatal de Agua Potable y Alcantarillado, para alcanzar tales objetivos tendrá a su cargo:
-
-I. Participar y en su caso elaborar los programas derivados del Plan Estatal de Desarrollo, que se relacionen con el objeto del organismo y supervisar el cumplimiento de las prioridades y su ejecución;
-
-II. Formular y proponer el proyecto del Programa Estatal en materia de Agua Potable, Alcantarillado y Saneamiento;
-
-III. Promover el establecimiento y difusión de normas en lo referente a la realización de obras y a la construcción, operación, administración, conservación, y mantenimiento de los sistemas de captación, potabilización, conducción, almacenamiento y distribución de agua potable, alcantarillado y saneamiento;
-
-IV. Promover el desarrollo y autosuficiencia administrativa, técnica y financiera a que se refiere la presente Ley, vigilando que los organismos operadores cumplan con las normas técnicas o administrativas y especificaciones que establezca en coordinación con las autoridades competentes;
-
-V. Coordinar los sistemas de agua potable, alcantarillado y saneamiento del Estado;
-
-VI. Desarrollar programas de orientación a los usuarios, con el objeto de preservar la calidad del agua y propiciar su aprovechamiento racional;
-
-VII. Promover el tratamiento de aguas residuales y el reuso de las mismas, el manejo de lodos, y la potabilización del agua, en el ámbito de su competencia;
-
-VIII. Asesorar, auxiliar y dar asistencia técnica en los aspectos administrativos, operativos y financieros a los organismos operadores, así como prestarles los servicios de apoyo que le soliciten;
-
-IX. Promover adecuaciones a las cuotas y tarifas de los organismos operadores, atendiendo a la necesidad de autosuficiencia financiera y mejorar su capacidad técnica administrativa, así como la eficiencia del sistema;
-
-X. Coadyuvar con los organismos operadores en las gestiones de financiamiento y planeación de obras para los sistemas de captación, potabilización, conducción, almacenamiento, y distribución de agua potable y de alcantarillado, así como de tratamiento de aguas residuales y manejo de lodos;
-
-XI. Elaborar y mantener actualizado el inventario de los bienes y recursos de los sistemas de agua potable, alcantarillado y saneamiento del Estado, y de las reservas hidrológicas del mismo;
-
-XII. Operar y mantener actualizado el Sistema Estatal e información de los Servicios de Agua Potable y Alcantarillado, así como de tratamiento y desalojo de aguas residuales;
-
-XIII. Solicitar a las autoridades competentes la expropiación de bienes, en términos de Ley;
-
-XIV. Promover, apoyar y, en su caso, gestionar ante las dependencias y entidades federales, las asignaciones, concesiones y permisos correspondientes con objeto de dotar de agua a los centros de población y asentamientos humanos;
-
-XV. Promover convenios de coordinación y colaboración entre dos o más organismos operadores;
-
-XVI. Promover y difundir las actividades que se desarrollen en el sistema para el suministro de agua potable y alcantarillado, así como para el tratamiento de aguas residuales, reuso de las mismas y manejo de lodos;
-
-XVII. Celebrar con personas de los sectores públicos, social y privado los convenios y contratos necesarios para el cumplimiento de sus atribuciones;
-
-XVIII. Elaborar su programa y presupuesto anual de ingresos y egresos;
-
-XIX. Promover la capacitación y adiestramiento del personal de los organismos operadores, que estén a cargo de los sistemas de captación, potabilización, conducción, almacenamiento y distribución de agua potable y de los de alcantarillado y tratamiento de aguas residuales y manejo de lodos;
-
-XX. Tramitar y resolver los recursos o medios de impugnación que le competan, de acuerdo a lo establecido en la presente Ley;
-
-XXI. Expedir su Reglamento Interior;
-
-XXII. Conocer de todos los asuntos que en forma general o específica interesen al buen funcionamiento del sistema de agua potable y alcantarillado;
-
-XXIII. Actuar con las atribuciones y competencia que la presente Ley otorga a los organismos operadores, cuando preste directamente, en forma transitoria, los servicios públicos de agua potable y alcantarillado en alguno de los Municipios de la Entidad, a falta de organismo operador municipal o intermunicipal o cuando así se convenga con los Ayuntamientos respectivos, debiendo entre otras actividades:
-
-a). Tener a su cargo la construcción y aprovechamiento de la infraestructura hidráulica respectiva;
-
-b). Percibir y administrar los ingresos por los servicios que opere directamente, conforme a las tarifas o cuotas que autorice;
-
-c). Elaborar y mantener actualizado el padrón de usuarios respectivos;
-
-d). Cubrir oportunamente las contribuciones, derechos, aprovechamientos o productos que establezca la legislación fiscal aplicable; y
-
-e). Subrogarse en los derechos y obligaciones de los organismos que administre.
-
-XXIV. Cuidar que todos los ingresos que recaude, y los que obtenga y reciba, se utilicen exclusivamente en los servicios públicos de agua potable, alcantarillado y saneamiento, ya que en ningún caso podrán ser destinados a otro fin; y
-
-XXV. Los demás que le señale esta Ley, su instrumento de creación y reglamentación relativa.
+(DEROGADO, P.O. 23 DE MARZO DE 2013)
 
 ###### ARTICULO 43.
 
-El patrimonio de la Comisión Estatal de Agua Potable y Alcantarillado, estará constituido por:
-
-I. Los bienes muebles e inmuebles y activos que forman parte de la Comisión Estatal de Agua Potable y Alcantarillado, mismo que se autoriza al Ejecutivo del Estado;
-
-II. Las aportaciones federales, estatales y municipales que en su caso se realicen, así como las aportaciones que los organismos operadores o los organismos operadores intermunicipales lleven a cabo;
-
-III. Los ingresos propios;
-
-IV. Los créditos que obtengan para el cumplimiento de sus fines;
-
-V. Las donaciones, herencias, subsidios, adjudicaciones y demás aportaciones de los particulares;
-
-VI. Los remanentes, frutos, utilidades, productos, intereses, ventas que se obtengan de su propio patrimonio; y
-
-VII. Los demás bienes y derechos que formen parte de su patrimonio por cualquier título legal.
-
-Los bienes de la Comisión, afectados directamente en la prestación del servicio de agua potable y alcantarillado, serán inembargables e imprescriptibles.
-
-Los bienes muebles e inmuebles del organismo destinados directamente a la prestación de los servicios se considerarán bienes del dominio público del Estado.
+(DEROGADO, P.O. 23 DE MARZO DE 2013)
 
 ###### ARTICULO 44.
 
-La Comisión Estatal de Agua Potable y Alcantarillado estará integrada de la siguiente manera:
-
-I. Una Junta de Gobierno;
-
-II. Un Consejo Consultivo;
-
-III. Un Director General; y
-
-IV. Un Comisario.
+(DEROGADO, P.O. 23 DE MARZO DE 2013)
 
 ###### ARTICULO 45.
 
-La Junta de Gobierno se integra por los siguientes miembros:
-
-I. El Gobernador del Estado, quien lo presidirá;
-
-II. Un secretario y tres vocales que designará el Ejecutivo del Estado;
-
-III. Dos representantes de los organismos operadores municipales o intermunicipales, que serán designados por el presidente de la Junta, y que serán los presidentes de sus respectivos consejos directivos;
-
-IV. Un representante de la Comisión Nacional del Agua; y
-
-V. El presidente del Consejo Consultivo de la Comisión.
-
-Cada integrante de la Junta tendrá derecho a voz y voto, pudiendo hacerse representar por conducto de un suplente.
-
-El director general de la Comisión Estatal de Agua Potable y Alcantarillado acudirá a las reuniones con voz y voto.
-
-Se podrá invitar a las reuniones de la Junta, con derecho a voz, pero sin voto, a representantes de las dependencias federales, estatales y municipales, cuando se trate de algún asunto que por su competencia o jurisdicción deban participar, así como a representantes de los usuarios que formen parte del Consejo Consultivo.
+(DEROGADO, P.O. 23 DE MARZO DE 2013)
 
 ###### ARTICULO 46.
 
-La Junta de Gobierno y el Director General tendrán a su cargo, en el ámbito de su competencia, las atribuciones que se señalan respectivamente en los Artículos 26 y 31 de esta Ley.
-
-El presidente de la Junta nombrará y removerá al director general de la Comisión Estatal de Agua Potable y Alcantarillado.
-
-El Comisario lo designará el Ejecutivo del Estado.
-
-El Consejo Consultivo se integrará a nivel estatal con los representantes de la ciudadanía, los sectores sociales y de los usuarios de los servicios de agua potable y alcantarillado en el Estado.
-
-En su integración y funcionamiento se aplicará en lo conducente a lo dispuesto en la presente Ley; así como lo que señale al efecto el Reglamento Interior de la Comisión.
+(DEROGADO, P.O. 23 DE MARZO DE 2013)
 
 ###### ARTICULO 47.
 
-Las relaciones laborales de la Comisión Estatal de Agua Potable y Alcantarillado, se regirán por las disposiciones del Estatuto de los Trabajadores al Servicio de los Gobiernos del Estado de Zacatecas, sus Municipios y Organismos Descentralizados; asimismo, el personal de la Comisión estará incorporado en los términos que la propia Ley señala a los beneficios establecidos en la Ley de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Zacatecas.
+(DEROGADO, P.O. 23 DE MARZO DE 2013)
 
 ###### ARTICULO 48.
 
-Lo no previsto en este Capítulo, se aplicará a lo dispuesto en los Capítulos anteriores del presente Título.
+(DEROGADO, P.O. 23 DE MARZO DE 2013)
 
 ## TITULO TERCERO. PARTICIPACION DE LOS PARTICULARES EN EL SERVICIO PUBLICO DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO
 
@@ -779,11 +691,15 @@ IV. La captación, desalojo, tratamiento de aguas residuales y el manejo de lodo
 
 V. El servicio de conducción, potabilización, suministro, distribución o transporte de agua que se preste al público; y
 
-VI. Las demás que se convengan con los organismos operadores o la Comisión Estatal de Agua Potable y Alcantarillado.
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+VI. Las demás que se convengan con los organismos operadores o la Secretaría del Agua y Medio Ambiente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### ARTICULO 50.
 
-Para la participación de los particulares en los términos del artículo anterior, se podrá celebrar por el Municipio que corresponda, por los organismos operadores o por la Comisión Estatal de Agua Potable y Alcantarillado, en el ámbito de su competencia:
+Para la participación de los particulares en los términos del artículo anterior, se podrá celebrar por el Municipio que corresponda, por los organismos operadores o por la Secretaría del Agua y Medio Ambiente, en el ámbito de su competencia:
 
 I. Contrato de obra pública y de prestación o de suministro de servicios, debidamente concursado cuando así se requiera;
 
@@ -809,9 +725,11 @@ IV. La concesión para el proyecto, financiamiento, construcción, operación, c
 
 V. La concesión o autorización a particulares para prestar el servicio al público de conducción, potabilización, suministro, distribución o transporte de aguas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### ARTICULO 52.
 
-Los Ayuntamientos de los Municipios del Estado, podrán otorgar y revocar las concesiones y autorizaciones a que se refiere el acuerdo anterior. Los ayuntamientos podrán ejercitar dichas facultades, en forma directa o a través del organismo operador correspondiente, previo el acuerdo del Cabildo respectivo, la autorización del Congreso del Estado, y acorde a los lineamientos y políticas establecidas por la Comisión Estatal de Agua Potable y Alcantarillado en la materia.
+Los Ayuntamientos de los Municipios del Estado, podrán otorgar y revocar las concesiones y autorizaciones a que se refiere el acuerdo anterior. Los ayuntamientos podrán ejercitar dichas facultades, en forma directa o a través del organismo operador correspondiente, previo el acuerdo del Cabildo respectivo, la autorización del Congreso del Estado, y acorde a los lineamientos y políticas establecidas por la Secretaría del Agua y Medio Ambiente en la materia.
 
 Independientemente de quien otorgue o se reserve la facultad de revocar las concesiones y autorizaciones, en todo caso, corresponde a los organismos operadores respectivos la normatividad la asistencia técnica, el control, la inspección, la supervisión, la evaluación de los servicios, obras y bienes concesionados, así como las demás facultades inherentes y las que se acuerden por el Ayuntamiento.
 
@@ -911,7 +829,9 @@ III. De treinta días siguientes a la fecha de la apertura del giro comercial o 
 
 IV. Dentro de los quince días anteriores al inicio de una construcción, si existen los servicios.
 
-Dentro de los plazos anteriores los propietarios o poseedores de predios, giros o establecimientos, obligados a hacer uso del servicio de agua potable y alcantarillado, sanitario o pluvial, o sus legítimos representantes, deberán acudir a las oficinas del organismo operador del sistema o, en su caso a la Comisión Estatal de Agua Potable y Alcantarillado, a solicitar la instalación de los servicios.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
+Dentro de los plazos anteriores los propietarios o poseedores de predios, giros o establecimientos, obligados a hacer uso del servicio de agua potable y alcantarillado, sanitario o pluvial, o sus legítimos representantes, deberán acudir a las oficinas del organismo operador del sistema o, en su caso a la Secretaría del Agua y Medio Ambiente, a solicitar la instalación de los servicios.las (sic) oficinas del organismo operador del sistema o, en su caso a la Comisión Estatal de Agua Potable y Alcantarillado, a solicitar la instalación de los servicios.
 
 Cuando no se cumpla con la obligación que establece el presente artículo, independientemente de que se impongan las sanciones que procedan, el organismo operador o, en su caso, la Comisión citada, podrá instalar la toma de agua y la conexión de descarga de alcantarillado respectiva y su costo será a cargo del propietario o poseedor del predio de que se trate.
 
@@ -923,9 +843,11 @@ Al establecerse los servicios de agua potable y alcantarillado en los lugares qu
 
 A cada predio, giro o establecimiento corresponderá una toma de agua independiente y dos descargas, una de aguas negras y otra pluvial cuando estos sistemas deban estar separados, y una descarga cuando sean combinados; el organismo operador fijará las disposiciones a las que se sujetará el diámetro de las mismas y a su juicio podrá autorizar la derivación, de ser posible.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### ARTICULO 64.
 
-Los interesados en contratar los servicios de agua potable y alcantarillado deberán presentar sus solicitudes cumpliendo con los requisitos señalados por el organismo operador o, en su caso, por la Comisión Estatal de Agua Potable y Alcantarillado, en los términos que indica la presente Ley.
+Los interesados en contratar los servicios de agua potable y alcantarillado deberán presentar sus solicitudes cumpliendo con los requisitos señalados por el organismo operador o, en su caso, por la Secretaría del Agua y Medio Ambiente, en los términos que indica la presente Ley.
 
 Cuando la solicitud de los servicios de agua potable y alcantarillado no cumpla con los requisitos necesarios, se prevendrá a los interesados para que los satisfagan dentro del término de cinco días hábiles, contados a partir de la fecha en que reciban la comunicación.
 
@@ -943,27 +865,33 @@ III. Estimar el presupuesto que comprenderá el importe del material necesario y
 
 Las conexiones e instalaciones de tomas solicitadas se autorizarán en base al resultado de la inspección practicada de acuerdo con esta Ley, en un término de seis días computables a partir de la recepción del informe.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### ARTICULO 66.
 
-Firmado el contrato correspondiente y pagado el importe del costo de la instalación y conexión y de las cuotas que correspondan, el organismo operador o, en su caso, la Comisión Estatal de Agua Potable y Alcantarillado, ordenará la instalación de la toma y la conexión de las descargas de aguas negras y/o pluviales, lo cual deberá llevarse a cabo dentro de los treinta días siguientes a la fecha de pago en la oficina recaudadora.
+Firmado el contrato correspondiente y pagado el importe del costo de la instalación y conexión y de las cuotas que correspondan, el organismo operador o, en su caso, la Secretaría del Agua y Medio Ambiente, ordenará la instalación de la toma y la conexión de las descargas de aguas negras o pluviales, lo cual deberá llevarse a cabo dentro de los treinta días siguientes a la fecha de pago en la oficina recaudadora.
 
-Cuando se trate de tomas temporales solicitadas por giros o establecimientos, los solicitantes deberán otorgar, como requisito previo para la instalación, la garantía que fije el organismo operador o, en su caso, a la Comisión Estatal de Agua Potable y Alcantarillado.
+Cuando se trate de tomas temporales solicitadas por giros o establecimientos, los solicitantes deberán otorgar, como requisito previo para la instalación, la garantía que fije el organismo operador o, en su caso, a la Secretaría del Agua y Medio Ambiente.
 
 ###### ARTICULO 67.
 
 Es obligatoria la instalación de aparatos medidores para la verificación del consumo de agua del servicio público en predios, giros o establecimientos. Al efecto, las tomas deberán instalarse a las puertas de entrada de los predios, giros o establecimientos y los medidores en lugares accesibles, junto a dichas puertas, en forma tal que sin dificultad se puedan llevar a cabo las lecturas de consumo, las pruebas de funcionamiento de los aparatos cuando sea necesario, o el cambio de los mismos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### ARTICULO 68.
 
-Instalada la toma y hechas las conexiones respectivas, el organismo operador o, en su caso la Comisión Estatal de Agua Potable y Alcantarillado, comunicará al propietario o poseedor del predio, giro o establecimiento de que se trate, la fecha de conexión y la apertura de su cuenta para efectos de cobro.
+Instalada la toma y hechas las conexiones respectivas, el organismo operador o, en su caso la Secretaría del Agua y Medio Ambiente, comunicará al propietario o poseedor del predio, giro o establecimiento de que se trate, la fecha de conexión y la apertura de su cuenta para efectos de cobro.
 
 En los casos en que, con motivo de la instalación de una toma nueva o descarga, se destruya el pavimento, la guarnición y la banqueta, el organismo operador ordenará de inmediato su reparación, con cargo al usuario, hecha excepción de los casos de rehabilitación en los que la reparación se hará con cargo al organismo operador o al concesionario, en su caso en los términos de la presente Ley.
 
 Los trabajos deberán realizarse en un plazo que no exceda de diez días naturales contados a partir de la fecha en que se ordene su reparación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### ARTICULO 69.
 
-Cualquier modificación que se pretenda hacer en el inmueble, giro o establecimiento que afecte a las instalaciones de los servicios de agua potable y alcantarillado, obliga a los interesados a formular la solicitud correspondiente ante el organismo operador o, en su caso, la Comisión Estatal de Agua Potable y Alcantarillado, sujetándose a los plazos y procedimientos establecidos para la instalación o conexión de los servicios.
+Cualquier modificación que se pretenda hacer en el inmueble, giro o establecimiento que afecte a las instalaciones de los servicios de agua potable y alcantarillado, obliga a los interesados a formular la solicitud correspondiente ante el organismo operador o, en su caso, la Secretaría del Agua y Medio Ambiente, sujetándose a los plazos y procedimientos establecidos para la instalación o conexión de los servicios.
 
 En ningún caso el propietario o poseedor del predio podrá operar por sí mismo, el cambio del sistema, instalación, supresión o conexión de los servicios de agua y alcantarillado.
 
@@ -971,13 +899,17 @@ En ningún caso el propietario o poseedor del predio podrá operar por sí mismo
 
 Independientemente de los casos en que conforme a la Ley o este ordenamiento, proceda la suspensión o supresión de una toma de agua o de una descarga, el interesado podrá solicitar la suspensión o supresión respectiva, expresando las causas en que se funden las mismas.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### ARTICULO 71.
 
-La solicitud a que se refiere el artículo anterior, será resuelta por el organismo operador o, en su caso, la Comisión Estatal de Agua Potable y Alcantarillado en un término de diez días a partir de su presentación; de ser favorable el acuerdo, éste se cumplimentará dentro de los cinco días siguientes a la fecha de su notificación, corriendo por cuenta del solicitante todos los gastos inherentes a la suspensión o supresión.
+La solicitud a que se refiere el artículo anterior, será resuelta por el organismo operador o, en su caso, la Secretaría del Agua y Medio Ambiente en un término de diez días a partir de su presentación; de ser favorable el acuerdo, éste se cumplimentará dentro de los cinco días siguientes a la fecha de su notificación, corriendo por cuenta del solicitante todos los gastos inherentes a la suspensión o supresión.
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### ARTICULO 72.
 
-No deben existir derivaciones de toma de agua o de descarga de alcantarillado. Cualquier excepción estará sujeta a la autorización, proyecto o control en su ejecución por el organismo operador, debiendo en todo caso contarse con las condiciones necesarias para que el organismo operador o, en su caso, la Comisión Estatal de Agua Potable y Alcantarillado pueda cobrar las cuotas o tarifas que le correspondan por el suministro de dichos servicios.
+No deben existir derivaciones de toma de agua o de descarga de alcantarillado. Cualquier excepción estará sujeta a la autorización, proyecto o control en su ejecución por el organismo operador, debiendo en todo caso contarse con las condiciones necesarias para que el organismo operador o, en su caso, la Secretaría del Agua y Medio Ambiente pueda cobrar las cuotas o tarifas que le correspondan por el suministro de dichos servicios.
 
 ###### ARTICULO 73.
 
@@ -997,19 +929,25 @@ En lo relativo a los predios, giros o establecimientos, la forma en que otras au
 
 ### CAPITULO SEGUNDO. Corresponsabilidad de los Usuarios
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### ARTICULO 77.
 
-Todo usuario particular o del sector público, está obligado al pago de los servicios de agua potable, alcantarillado y tratamiento de aguas residuales que preste el organismo operador municipal, intermunicipal o, en su caso, la Comisión Estatal de Agua Potable y Alcantarillado, en base a las tarifas o cuotas autorizadas.
+Todo usuario particular o del sector público, está obligado al pago de los servicios de agua potable, alcantarillado y tratamiento de aguas residuales que preste el organismo operador municipal, intermunicipal o, en su caso, la Secretaría del Agua y Medio Ambiente, en base a las tarifas o cuotas autorizadas.
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### ARTICULO 78.
 
-Los usuarios deberán pagar el importe de la tarifa o cuota dentro de los plazos que en cada caso señale el recibo correspondiente y en las oficinas que determine el organismo operador municipal, intermunicipal o, en su caso, la Comisión Estatal de Agua Potable y Alcantarillado.
+Los usuarios deberán pagar el importe de la tarifa o cuota dentro de los plazos que en cada caso señale el recibo correspondiente y en las oficinas que determine el organismo operador municipal, intermunicipal o, en su caso, la Secretaría del Agua y Medio Ambiente.
 
 ###### ARTICULO 79.
 
 El propietario de un predio responderá ante los organismos operadores, por los adeudos que ante los mismos se generen en los términos de esta Ley.
 
-Cuando se transfiera la propiedad de un inmueble con sus servicios, el nuevo propietario se subroga en los derechos y obligaciones derivados de la contratación anterior, debiendo dar aviso al organismo operador municipal, intermunicipal, o en su defecto a la Comisión Estatal de Agua Potable y Alcantarillado.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
+Cuando se transfiera la propiedad de un inmueble con sus servicios, el nuevo propietario se subroga en los derechos y obligaciones derivados de la contratación anterior, debiendo dar aviso al organismo operador municipal, intermunicipal, o en su defecto a la Secretaría del Agua y Medio Ambiente.
 
 ###### ARTICULO 80.
 
@@ -1021,9 +959,11 @@ En los lugares donde no haya medidores por causa imputable al organismo, o mient
 
 Los usuarios que se surtan de servicios por medio de derivaciones autorizadas por los organismos operadores a que se refiere la presente Ley, deben contar con su medidor respectivo, de no ser así se les estimará su consumo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### ARTICULO 82.
 
-Por cada derivación, el usuario pagará al organismo operador municipal o intermunicipal, o en su defecto a la Comisión Estatal de Agua Potable y Alcantarillado, el importe de las cuotas de conexión que corresponda a una toma de agua directa, así como el servicio respectivo.
+Por cada derivación, el usuario pagará al organismo operador municipal o intermunicipal, o en su defecto a la Secretaría del Agua y Medio Ambiente, el importe de las cuotas de conexión que corresponda a una toma de agua directa, así como el servicio respectivo.
 
 Los usuarios que utilicen el suministro de agua potable para construir edificios se les cobrará de acuerdo a la tarifa industrial, mientras dure el proceso de construcción, adecuándose posteriormente al tipo de uso que se haga del líquido.
 
@@ -1037,15 +977,21 @@ En épocas de escasez de agua, comprobada o previsible, de acuerdo a las estadí
 
 ### CAPITULO TERCERO. Cuotas y Tarifas
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### ARTICULO 85.
 
-El consejo directivo del organismo operador municipal o intermunicipal respectivo o, en su defecto, la Comisión Estatal de Agua Potable y Alcantarillado, aprobarán las cuotas y tarifas de cada uno de los sistemas de agua potable y alcantarillado a su cargo.
+El consejo directivo del organismo operador municipal o intermunicipal respectivo o, en su defecto, la Secretaría del Agua y Medio Ambiente, aprobarán las cuotas y tarifas de cada uno de los sistemas de agua potable y alcantarillado a su cargo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### ARTICULO 86.
 
-Las cuotas o tarifas por los servicios incluirán los costos de operación, administración, conservación, mantenimiento y mejoramiento, así como los recursos necesarios para constituir un fondo que permita la rehabilitación, ampliación y mejoramiento de los sistemas, la recuperación del valor actualizado de las inversiones del organismo operador o, en su caso, de la Comisión Estatal de Agua Potable y Alcantarillado y el servicio de su deuda. Dicho fondo se constituirá y operará de conformidad con las reglas técnicas que apruebe el consejo directivo del organismo operador o, en su caso, la Comisión citada.
+Las cuotas o tarifas por los servicios incluirán los costos de operación, administración, conservación, mantenimiento y mejoramiento, así como los recursos necesarios para constituir un fondo que permita la rehabilitación, ampliación y mejoramiento de los sistemas, la recuperación del valor actualizado de las inversiones del organismo operador o, en su caso, de la Secretaría del Agua y Medio Ambiente y el servicio de su deuda. Dicho fondo se constituirá y operará de conformidad con las reglas técnicas que apruebe el consejo directivo del organismo operador o, en su caso, la Secretaría citada.
 
-La recuperación del valor actualizado de las inversiones de infraestructura hidráulica realizada por los organismos operadores municipales, intermunicipales o, en su defecto, por la Comisión Estatal de Agua Potable y Alcantarillado, por sí o por terceros, deberá tomarse en cuenta para incorporarse en la fijación de las tarifas o cuotas respectivas o para su cobro por separado a los directamente beneficiados por las mismas. Se podrán celebrar con los beneficiados convenios que garanticen la recuperación de la inversión.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
+La recuperación del valor actualizado de las inversiones de infraestructura hidráulica realizada por los organismos operadores municipales, intermunicipales o, en su defecto, por la Secretaría del Agua y Medio Ambiente, por sí o por terceros, deberá tomarse en cuenta para incorporarse en la fijación de las tarifas o cuotas respectivas o para su cobro por separado a los directamente beneficiados por las mismas. Se podrán celebrar con los beneficiados convenios que garanticen la recuperación de la inversión
 
 Se exceptúa de lo dispuesto en el párrafo anterior, cuando la recuperación de la inversión se esté efectuando a través de leyes de contribuciones, de mejoras por obras públicas hidráulicas en el Estado o Municipio, o una legislación fiscal similar.
 
@@ -1053,7 +999,9 @@ Se exceptúa de lo dispuesto en el párrafo anterior, cuando la recuperación de
 
 Se deberán revisar y ajustar las cuotas o tarifas a fin de actualizarlas; para cualquier modificación de éstas se deberá elaborar un estudio que justifique las nuevas cuotas y tarifas y se tomarán en cuenta las observaciones y sugerencias que realicen los usuarios, tales como el nivel socioeconómico de los mismos y cualquier otra que estime pertinente, a través de los consejos consultivos de los organismos descentralizados a que se refiere la presente Ley. Una vez aprobadas, se ordenará su publicación en el Periódico Oficial del Estado y en un diario de la localidad.
 
-Los organismos operadores, cuando lo consideren conveniente, podrán solicitar a la Comisión Estatal de Agua Potable y Alcantarillado, la elaboración de los estudios técnicos y financieros de apoyo para los incrementos de cuotas o tarifas. Igualmente, dicha Comisión podrá enviar a los organismos operadores los estudios que haya elaborado, que justifiquen o apoyen los incrementos de las cuotas o tarifas respectivas dentro de los sistemas de agua potable, alcantarillado y saneamiento del Estado.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
+Los organismos operadores, cuando lo consideren conveniente, podrán solicitar a la Secretaría del Agua y Medio Ambiente, la elaboración de los estudios técnicos y financieros de apoyo para los incrementos de cuotas o tarifas. Igualmente, dicha Secretaría podrá enviar a los organismos operadores los estudios que haya elaborado, que justifiquen o apoyen los incrementos de las cuotas o tarifas respectivas dentro de los sistemas de agua potable, alcantarillado y saneamiento del Estado.
 
 ###### ARTICULO 88.
 
@@ -1109,27 +1057,35 @@ El pago de las cuotas o tarifas a que se refiere el presente artículo, es indep
 
 Queda prohibido a los organismos descentralizados a que se refiere la presente Ley, la fijación de cuotas o tarifas por el uso o aprovechamiento de aguas nacionales, superficiales o del subsuelo.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### ARTICULO 90.
 
-Las cuotas o tarifas que cobran los organismos operadores municipales, intermunicipales o, en su defecto, la comisión de Agua Potable y Alcantarillado, serán independientes de los impuestos que se establezcan en la legislación fiscal.
+Las cuotas o tarifas que cobran los organismos operadores municipales, intermunicipales o, en su defecto, la Secretaría del Agua y Medio Ambiente, serán independientes de los impuestos que se establezcan en la legislación fiscal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### ARTICULO 91.
 
-La falta de pago de dos o más recibos, faculta al organismo operador municipal, intermunicipal o, en su defecto a la Comisión Estatal de Agua Potable y Alcantarillado o al concesionario, para suspender el servicio con aviso previo escrito al usuario con quince días naturales de anticipación, hasta que se regularice el pago; el costo que lo anterior origine será con cargo al usuario.
+La falta de pago de dos o más recibos, faculta al organismo operador municipal, intermunicipal o, en su defecto a la Secretaría del Agua y Medio Ambiente o al concesionario, para suspender el servicio con aviso previo escrito al usuario con quince días naturales de anticipación, hasta que se regularice el pago; el costo que lo anterior origine será con cargo al usuario.
 
 Igualmente quedan facultados dichos organismos descentralizados a suspender el servicio cuando se comprueben derivaciones no autorizadas, o un uso distinto al contratado o convenido.
 
 Lo anterior será independiente de poner en conocimiento de tal situación a las autoridades competentes.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### ARTICULO 92.
 
-Los adeudos a cargo de los usuarios y a favor de los organismos operadores municipales, intermunicipales o, en su defecto, la Comisión Estatal de Agua Potable y Alcantarillado, exclusivamente para efectos de cobro conforme a esta Ley, tendrán el carácter de créditos fiscales, para cuya recuperación el organismo operador solicitará en los términos de Ley, a las autoridades correspondientes, el ejercicio del procedimiento administrativo de ejecución, excepto cuando los servicios estén concesionados.
+Los adeudos a cargo de los usuarios y a favor de los organismos operadores municipales, intermunicipales o, en su defecto, la Secretaría del Agua y Medio Ambiente, exclusivamente para efectos de cobro conforme a esta Ley, tendrán el carácter de créditos fiscales, para cuya recuperación el organismo operador solicitará en los términos de Ley, a las autoridades correspondientes, el ejercicio del procedimiento administrativo de ejecución, excepto cuando los servicios estén concesionados.
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### ARTICULO 93.
 
-Cuando el usuario no esté de acuerdo, con el consumo expresado en su recibo o con los cobros que se le hagan, tendrá derecho de inconformarse por escrito, ante el organismo operador o, en su caso, ante la comisión Estatal de Agua Potable y Alcantarillado, dentro del mes en que deba efectuarse el pago correspondiente al consumo objetado.
+Cuando el usuario no esté de acuerdo, con el consumo expresado en su recibo o con los cobros que se le hagan, tendrá derecho de inconformarse por escrito, ante el organismo operador o, en su caso, ante la Secretaría del Agua y Medio Ambiente, dentro del mes en que deba efectuarse el pago correspondiente al consumo objetado.
 
-El organismo operador o, en su caso, la Comisión citada resolverá la inconformidad en un término de cinco días hábiles.
+El organismo operador o, en su caso, la Secretaría citada resolverá la inconformidad en un término de cinco días hábiles.
 
 ###### ARTICULO 94.
 
@@ -1143,11 +1099,15 @@ La violación a lo dispuesto en el párrafo anterior, hará responsable solidari
 
 Las autoridades de los Municipios del Estado, serán los responsables de vigilar el cumplimiento de las disposiciones de esta Ley y su Reglamento y el costo que esto genere será con cargo a quien preste los servicios.
 
-Los organismos operadores municipales, intermunicipales o, en su defecto, la Comisión Estatal de Agua Potable y Alcantarillado, contarán con el número de inspectores que se requiera, con base a su propio presupuesto, para la verificación de los servicios que prestan.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
+Los organismos operadores municipales, intermunicipales o, en su defecto, la Secretaría del Agua y Medio Ambiente, contarán con el número de inspectores que se requiera, con base a su propio presupuesto, para la verificación de los servicios que prestan.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### ARTICULO 96.
 
-Para dar cumplimiento a las disposiciones de esta Ley y la reglamentación respectiva, los organismos operadores municipales, intermunicipales o, en su defecto, la Comisión Estatal de Agua Potable y Alcantarillado, ordenarán que se realicen visitas de inspección, las que se efectuarán por personal debidamente autorizado.
+Para dar cumplimiento a las disposiciones de esta Ley y la reglamentación respectiva, los organismos operadores municipales, intermunicipales o, en su defecto, la Secretaría del Agua y Medio Ambiente, ordenarán que se realicen visitas de inspección, las que se efectuarán por personal debidamente autorizado.
 
 Las facultades de los inspectores, serán las que expresamente les otorga ésta su (sic) Reglamento.
 
@@ -1185,9 +1145,11 @@ La entrega del citatorio, se hará constar por medio de acuse de recibo, que fir
 
 En caso de resistencia a la práctica de la visita anunciada, ya sea de una manera franca o por medio de evasiva o aplazamientos injustificados, se levantará una acta de infracción.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### ARTICULO 101.
 
-El organismo operador o, en su caso, la Comisión Estatal de Agua Potable y Alcantarillado, notificará nuevamente al infractor, previniéndolo para que el día y hora que al efecto se señale, permita realizar la inspección, con el apercibimiento que de negarse a ella se procederá a la elaboración de la denuncia por el delito que tipifique su conducta.
+El organismo operador o, en su caso, la Secretaría del Agua y Medio Ambiente, notificará nuevamente al infractor, previniéndolo para que el día y hora que al efecto se señale, permita realizar la inspección, con el apercibimiento que de negarse a ella se procederá a la elaboración de la denuncia por el delito que tipifique su conducta.
 
 Si a pesar de la notificación anterior se impide la visita, se levantará nueva acta de infracción y se dará parte a la autoridad penal competente, independientemente de la aplicación de las sanciones que correspondan, y se llevará a cabo la inspección con auxilio de la fuerza pública.
 
@@ -1205,29 +1167,37 @@ En caso de infracción a las disposiciones de esta Ley, se levantará un acta en
 
 Cuando el infractor se niegue a firmar el acta respectiva, ésta deberá ser firmada por dos testigos que den fe de los hechos que constituyen la infracción.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### ARTICULO 105.
 
-Los usuarios están obligados a permitir el acceso al personal del organismo operador, en su defecto, al de la Comisión Estatal de Agua Potable y Alcantarillado, debidamente acreditado, al lugar o lugares donde se encuentran instalados lo (sic) medidores para que tomen lecturas de éstos.
+Los usuarios están obligados a permitir el acceso al personal del organismo operador, en su defecto, al de la Secretaría del Agua y Medio Ambiente, debidamente acreditado, al lugar o lugares donde se encuentran instalados los medidores para que tomen lecturas de éstos.
 
 La lectura de los aparatos medidores, para determinar el consumo de agua en cada toma o derivación se hará mensual, bimestral, semestralmente por personal autorizado, conforme la distribución de los usos en los términos de la reglamentación respectiva.
 
 El lecturista llenará un formato oficial, verificando que el número del medidor y el domicilio que se indique sean los correspondientes y expresará la lectura del medidor o la clave de no lectura en su caso.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### ARTICULO 106.
 
-Corresponde en forma exclusiva a los organismos operadores, a los concesionarios o en su defecto, a la Comisión Estatal de Agua Potable y Alcantarillado, instalar y operar los aparatos medidores, así como verificar su funcionamiento y su retiro cuando hayan sufrido daños.
+Corresponde en forma exclusiva a los organismos operadores, a los concesionarios o en su defecto, a la Secretaría del Agua y Medio Ambiente, instalar y operar los aparatos medidores, así como verificar su funcionamiento y su retiro cuando hayan sufrido daños.
 
 ###### ARTICULO 107.
 
 Los usuarios cuidarán que no se deterioren o destruyan los aparatos medidores; por lo que deberán ser protegidos contra robos, manipulaciones indebidas y toda posible causa de deterioro que esté a su alcance evitar.
 
-Los propietarios o poseedores de predios que cuenten con las instalaciones de aparatos medidores, están obligados a informar al organismo operador, a los concesionarios o, en su defecto, a la Comisión Estatal de Agua Potable y Alcantarillado a la brevedad posible, todo daño o perjuicio causado a los mismos.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
+Los propietarios o poseedores de predios que cuenten con las instalaciones de aparatos medidores, están obligados a informar al organismo operador, a los concesionarios o, en su defecto, a la Secretaría del Agua y Medio Ambiente a la brevedad posible, todo daño o perjuicio causado a los mismos.
 
 En los casos en que sea necesario, los organismos descentralizados o los concesionarios a que se refiere la presente Ley ordenará la revisión y el retiro del medidor, enviándolo a los talleres de reparación e instalando un medidor sustituto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### ARTICULO 108.
 
-Con el dictamen emitido por el organismo operador, los concesionarios o, en su defecto, la Comisión Estatal de Agua Potable y Alcantarillado, reparará o sustituirá el aparato.
+Con el dictamen emitido por el organismo operador, los concesionarios o, en su defecto, la Secretaría del Agua y Medio Ambiente, reparará o sustituirá el aparato.
 
 El propietario o poseedor del predio, pagará los gastos que origine la reparación o sustitución, excepto cuando el daño sea por defectos de fabricación.
 
@@ -1251,9 +1221,11 @@ IV. Otra información obtenida por los organismos operadores, en el ejercicio de
 
 V. Los medios indirectos de la investigación económica o cualquier otra clase.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### ARTICULO 111.
 
-Queda facultado el organismo operador municipal, intermunicipal, el concesionario o, en su defecto, la Comisión Estatal de Agua Potable y Alcantarillado a realizar las acciones necesarias para impedir, obstruir o cerrar la posibilidad de descargar aguas residuales a las redes de drenaje y alcantarillado, a aquellos usuarios que incumplen con el pago respectivo conforme a lo dispuesto en la presente Ley; o bien, en colaboración a las autoridades ecológicas competentes y con la Comisión Nacional del Agua, cuando las descargas no cumplan con lo dispuesto en la legislación de equilibrio ecológico y protección del ambiente y la Ley de Aguas Nacionales.
+Queda facultado el organismo operador municipal, intermunicipal, el concesionario o, en su defecto, la Secretaría del Agua y Medio Ambiente a realizar las acciones necesarias para impedir, obstruir o cerrar la posibilidad de descargar aguas residuales a las redes de drenaje y alcantarillado, a aquellos usuarios que incumplen con el pago respectivo conforme a lo dispuesto en la presente Ley; o bien, en colaboración a las autoridades ecológicas competentes y con la Comisión Nacional del Agua, cuando las descargas no cumplan con lo dispuesto en la legislación de equilibrio ecológico y protección del ambiente y la Ley de Aguas Nacionales.
 
 ## TITULO QUINTO. INFRACCIONES, SANCIONES Y RECURSOS ADMINISTRATIVOS
 
@@ -1305,9 +1277,11 @@ XX. El que en cualquier forma transgreda o incumpla lo dispuesto en esta Ley; y
 
 XXI. Se sancionará cualquier concesionario de los servicios que previene esta Ley que viole las disposiciones de la misma o de las que se determinen a su cargo en el título de concesión. En ningún caso la sanción podrá ser inferior al monto de los daños que ocasione el organismo operador al Municipio de que se trate, a los usuarios o a terceros.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### ARTICULO 113.
 
-Las infracciones a que se refiere el artículo anterior serán sancionadas administrativamente conforme a esta Ley, a su Reglamento y a juicio del organismo operador respectivo, o en su defecto, por la Comisión Estatal de Agua Potable y Alcantarillado, con multas equivalentes que van de diez a mil días de salario mínimo general vigente en el área geográfica en que se cometa.
+Las infracciones a que se refiere el artículo anterior serán sancionadas administrativamente conforme a esta Ley, a su Reglamento y a juicio del organismo operador respectivo, o en su defecto, por la Secretaría del Agua y Medio Ambiente, con multas equivalentes que van de diez a mil días de salario mínimo general vigente en el área geográfica en que se cometa.
 
 Para sancionar las faltas anteriores, se calificarán las infracciones tomando en consideración la gravedad de la falta, las condiciones económicas del infractor y la reincidencia.
 
@@ -1315,9 +1289,11 @@ Se entiende por reincidencia, para los efectos de esta Ley, cada una de las subs
 
 Cuando los hechos que contravengan las disposiciones de esta Ley y sus Reglamentos, constituyeren un delito, se formulará denuncia ante las autoridades competentes, sin perjuicio de aplicar las sanciones administrativas que procedan.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### ARTICULO 114.
 
-Las sanciones serán impuestas con base en las actas levantadas por personal del organismo operador, o en su defecto, por la Comisión Estatal de Agua Potable y Alcantarillado. En todo caso, las resoluciones que se emitan en materia de sanciones, deberán estar fundadas y motivadas con apego a derecho y tomando en consideración los criterios establecidos en el segundo párrafo del artículo anterior.
+Las sanciones serán impuestas con base en las actas levantadas por personal del organismo operador, o en su defecto, por la Secretaría del Agua y Medio Ambiente. En todo caso, las resoluciones que se emitan en materia de sanciones, deberán estar fundadas y motivadas con apego a derecho y tomando en consideración los criterios establecidos en el segundo párrafo del artículo anterior.
 
 ###### ARTICULO 115.
 
@@ -1333,9 +1309,11 @@ En el caso de clausura, el personal designado por el organismo operador para lle
 
 Tratándose de giros mercantiles, industriales o de servicios, se podrá solicitar al Gobierno del Estado su clausura por no efectuar la conexión y abastecimiento del servicio público de agua potable y alcantarillado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### ARTICULO 117.
 
-El organismo operador o, en su caso, la Comisión de Agua Potable y Alcantarillado del Estado de Zacatecas, solicitará a la autoridad competente la clausura o suspensión de la actividades que den origen a la descarga de aguas residuales de aquellos usuarios del alcantarillado o drenaje:
+El organismo operador o, en su caso, Secretaría del Agua y Medio Ambiente, solicitará a la autoridad competente la clausura o suspensión de las actividades que den origen a la descarga de aguas residuales de aquellos usuarios del alcantarillado o drenaje:
 
 I. Cuando no se cuente con el permiso de descarga de agua residual a que se refiere la presente Ley;
 
@@ -1345,23 +1323,31 @@ III. Cuando se efectúen o se puedan efectuar vertidos de materiales y residuos 
 
 IV. Cuando se deje de pagar la cuota o tarifa a que se refiere el artículo 88, fracción II, incisos g), h) e i) de esta Ley.
 
-La solicitud anterior será sin menoscabo del ejercicio de las atribuciones que conforme a la presente Ley tienen los organismos operadores y la Comisión antes citada.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
-El organismo operador o, en su caso la Comisión citada, en los caso (sic) previstos en las fracciones II y III del presente artículo, cuando en el ejercicio de sus facultades de fiscalización tengan conocimiento de que la descarga o vertido pueda ocasionar graves perjuicios a la salud o a la seguridad de la población, por causa de interés público podrá ordenar la suspensión provisional hasta por cinco días hábiles, de las actividades que den origen a la descarga o vertido, independientemente de poner en conocimiento a la autoridad competente.
+La solicitud anterior será sin menoscabo del ejercicio de las atribuciones que conforme a la presente Ley tienen los organismos operadores y la Secretaría antes citada.
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
+El organismo operador o, en su caso la Secretaría citada, en los casos previstos en las fracciones II y III del presente artículo, cuando en el ejercicio de sus facultades de fiscalización tengan conocimiento de que la descarga o vertido pueda ocasionar graves perjuicios a la salud o a la seguridad de la población, por causa de interés público podrá ordenar la suspensión provisional hasta por cinco días hábiles, de las actividades que den origen a la descarga o vertido, independientemente de poner en conocimiento a la autoridad competente.
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
 
 ###### ARTICULO 118.
 
-Las sanciones que correspondan por las faltas previstas en esta Ley, se impondrán sin menoscabo del pago de los daños y perjuicios causados, que el organismo operador o, en su caso, la Comisión de Agua Potable y Alcantarillado del Estado de Zacatecas, notificará al infractor, previa su cuantificación para que los cubra dentro del plazo que determine el propio organismo.
+Las sanciones que correspondan por las faltas previstas en esta Ley, se impondrán sin menoscabo del pago de los daños y perjuicios causados, que el organismo operador o, en su caso, la Secretaría del Agua y Medio Ambiente, notificará al infractor, previa su cuantificación para que los cubra dentro del plazo que determine el propio organismo.
 
-El organismo operador o, en su caso, la Comisión citada, notificará los adeudos que tengan las personas físicas o morales, con motivo de las obras o la destrucción de las mismas que por su cuenta tenga que realizar, ante el incumplimiento de las que originalmente le corresponderían realizar, en los términos de la presente Ley.
+El organismo operador o, en su caso, la Secretaría citada, notificará los adeudos que tengan las personas físicas o morales, con motivo de las obras o la destrucción de las mismas que por su cuenta tenga que realizar, ante el incumplimiento de las que originalmente le corresponderían realizar, en los términos de la presente Ley.
 
-Los ingresos a que se refiere el presente artículo, para efectos de cobro, en los términos de la presente Ley, tendrán carácter fiscal; para su recuperación el organismo operador o, en su defecto, la Comisión de Agua Potable y Alcantarillado del Estado de Zacatecas, solicitará a la autoridad competente la aplicación del procedimiento administrativo de ejecución.
+Los ingresos a que se refiere el presente artículo, para efectos de cobro, en los términos de la presente Ley, tendrán carácter fiscal; para su recuperación el organismo operador o, en su defecto, la Secretaría del Agua y Medio Ambiente, solicitará a la autoridad competente la aplicación del procedimiento administrativo de ejecución.
 
 ### CAPITULO SEGUNDO. Recursos Administrativos
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### ARTICULO 119.
 
-Contra resoluciones y actos de los organismos operadores y de la Comisión de Agua Potable y Alcantarillado del Estado de Zacatecas, que causen agravio a los particulares y que para su impugnación no tengan señalado trámite especial en esta Ley, procederá el recurso de reconsideración, el cual se tramitará en la forma y términos del presente capítulo.
+Contra resoluciones y actos de los organismos operadores y de la Secretaría del Agua y Medio Ambiente, que causen agravio a los particulares y que para su impugnación no tengan señalado trámite especial en esta Ley, procederá el recurso de reconsideración, el cual se tramitará en la forma y términos del presente capítulo.
 
 ###### ARTICULO 120.
 
@@ -1512,3 +1498,21 @@ Artículo Décimo Quinto.- Las Secretaría (sic) de Finanzas, de la Función Pú
 Artículo Décimo Sexto.- Los asuntos competencia de alguna dependencia o entidad establecida con anterioridad a la vigencia del presente Decreto y que por disposición de éste, deban ser atendidos por otra u otras, deberán transferirse junto con los expedientes y archivos a la nueva dependencia o entidad, la cual deberá concluirlos.
 
 Artículo Décimo Séptimo.- Cuando otros ordenamientos legales den una denominación distinta a alguna dependencia, entidad o unidad administrativa contempladas en la presente Ley, la atribución o función se entenderá como conferida a la dependencia, entidad o unidad administrativa que determine el presente ordenamiento legal.
+
+P.O. 23 DE MARZO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, el Ejecutivo del Estado deberá actualizar la reglamentación de conformidad con el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, los Ayuntamientos deberán establecer su Gaceta Municipal.
+
+###### ARTÍCULO CUARTO.
+
+Los Ayuntamientos, en el término de ciento veinte días naturales a partir de la vigencia del presente Decreto, deberán publicar en sus Gacetas Municipales y en el Periódico Oficial, Órgano del Gobierno del Estado, todas las disposiciones normativas de carácter general que hayan sido generadas antes de la entrada en vigor del presente Decreto. Remitiendo en medio impreso y de forma magnética los instrumentos jurídicos a la Coordinación General Jurídica del Gobierno del Estado para su trámite de publicación.
