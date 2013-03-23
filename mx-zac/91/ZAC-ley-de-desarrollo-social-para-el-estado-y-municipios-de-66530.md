@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-desarrollo-social-para-el-estado-y-municipios-de-66530"
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-17"
-last_updated: "2009-01-17"
+last_updated: "2013-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66530&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2013.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 17 de enero de 2009.
 
@@ -99,9 +99,11 @@ X. La promoción del establecimiento de instrumentos de acceso a la justicia, a 
 
 XI. La coordinación y armonización de la política estatal y municipal de desarrollo social, en el marco de la política nacional de desarrollo social.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 5.
 
-La aplicación de la presente Ley corresponde al Ejecutivo del Estado por conducto de la Secretaría de Planeación y Desarrollo Regional, el Consejo Estatal, los Consejos Regionales de Desarrollo Social, la Comisión Intersecretarial de Desarrollo Social, el Subcomité Sectorial de Desarrollo Social y a los Ayuntamientos, en el ámbito de sus respectivas competencias; así como las que les corresponden, de acuerdo a sus atribuciones a la Legislatura del Estado.
+La aplicación de la presente Ley corresponde al Ejecutivo del Estado por conducto de la Secretaría de Desarrollo Social, el Consejo Estatal, los Consejos Regionales de Desarrollo Social, la Comisión Intersecretarial de Desarrollo Social, el Subcomité Sectorial de Desarrollo Social y a los Ayuntamientos, en el ámbito de sus respectivas competencias; así como las que les corresponden, de acuerdo a sus atribuciones a la Legislatura del Estado.
 
 ###### Artículo 6.
 
@@ -121,7 +123,9 @@ VI. Desigualdad social: El resultado de una distribución inequitativa del ingre
 
 VII. Grupos sociales en situación de vulnerabilidad: Aquellos núcleos de población y personas que por diferentes factores o la combinación de ellos, enfrentan situaciones de riesgo o discriminación que les impiden alcanzar mejores niveles de vida y, requieren de la atención e inversión del gobierno para lograr su bienestar;
 
-VIII. Secretaría: La Secretaría de Planeación y Desarrollo Regional;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+VIII. Secretaría: La Secretaría de Desarrollo Social;
 
 IX. Sistema: El Sistema Estatal de Desarrollo Social;
 
@@ -129,9 +133,17 @@ X. Organizaciones: Las agrupaciones civiles y sociales, legalmente constituidas,
 
 XI. Programa: El Programa Estatal de Desarrollo Social;
 
-XII. Padrón: Relación oficial de beneficiarios que incluye a las personas atendidas por los programas estatales de desarrollo social, y
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
 
-XIII. Pobreza: La incapacidad de un individuo o un hogar de satisfacer de manera digna y suficiente sus necesidades básicas.
+XII. Padrón: Relación oficial de beneficiarios que incluye a las personas atendidas por los programas estatales de desarrollo social;
+
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+XIII. Pobreza: La incapacidad de un individuo o un hogar de satisfacer de manera digna y suficiente sus necesidades básicas, y
+
+> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2013)</small>
+
+XIV. Unidad: La Unidad de Planeación del Titular del Poder Ejecutivo.
 
 ###### Artículo 7.
 
@@ -255,9 +267,11 @@ V. Las demás que establezcan los programas de desarrollo social, así como otra
 
 Corresponde al Poder Ejecutivo del Estado, por conducto de la Secretaría y a los Ayuntamientos, por conducto de los presidentes municipales, en el ámbito de sus respectivas competencias, vigilar el cumplimiento de la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 17.
 
-La coordinación del Sistema compete a la Secretaría, con la concurrencia de las dependencias y entidades de la administración pública estatal y municipal, así como de las organizaciones. La Secretaría diseñará y ejecutará las políticas generales de desarrollo social. Al efecto, coordinará y promoverá la celebración de convenios en la materia.
+La coordinación del Sistema compete a la Secretaría, con la concurrencia de las dependencias y entidades de la administración pública estatal y municipal, así como de las organizaciones. La Secretaría diseñará y ejecutará, previa aprobación de la Unidad de Planeación del Titular del Poder Ejecutivo, las políticas generales de desarrollo social. Al efecto coordinará y promoverá la celebración de convenios en la materia.
 
 La Secretaría coordinará la correspondencia entre el Programa y los programas sectoriales, promoviendo que la planeación sea congruente, objetiva y participativa.
 
@@ -271,7 +285,9 @@ Corresponde al Poder Ejecutivo del Estado, por conducto de la Secretaría:
 
 I. Establecer, coordinar y operar el Sistema;
 
-II. Proyectar y coordinar la planeación estatal del desarrollo social;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+II. Proyectar la planeación estatal del desarrollo social;
 
 III. Formular y vigilar la ejecución del Programa, en coordinación con las dependencias y entidades de la administración pública estatal relacionadas con la materia;
 
@@ -287,7 +303,9 @@ VIII. Incluir anualmente en el proyecto de presupuesto de egresos del Estado, lo
 
 IX. Ejercer los fondos y recursos federales descentralizados o convenidos, así como informar a la Secretaría de Desarrollo Social del Gobierno Federal, sobre el avance y resultado de su ejercicio;
 
-X. Promover la realización de estudios sobre los problemas de marginación, vulnerabilidad y pobreza que se suscitan en el Estado, así como fomentar la participación de las instituciones académicas y de investigación en la planeación, ejecución y evaluación de la política estatal de desarrollo social;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+X. Promover la realización de estudios sobre los problemas de marginación, vulnerabilidad y pobreza que se suscitan en el Estado, así como fomentar la participación de las instituciones académicas y de investigación en la elaboración y ejecución de la política estatal de desarrollo social;
 
 XI. Generar y apoyar instrumentos de financiamiento popular y de proyectos productivos para el desarrollo social;
 
@@ -521,9 +539,11 @@ La publicidad e información de los programas de desarrollo social que emita la 
 
 Cuando en una comunidad se encuentre habitando una población indígena, aún y cuando sea de manera temporal, las autoridades municipales podrán, en caso de ser necesario, difundir en la lengua o dialecto respectivo, lo concerniente a los programas de desarrollo social que se estén implementando en el Municipio de que se trate.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 38.
 
-La Secretaría en coordinación con la Comisión Estatal para la Integración Social de las Personas con Discapacidad, promoverán la publicación en sistema braile, de los programas de desarrollo social y contarán con personal capacitado para dar asesoría sobre los mismos a las personas con discapacidad visual y auditiva.
+La Secretaría en coordinación con la Subsecretaría de las Personas con Discapacidad, promoverán la publicación en sistema braille, de los programas de desarrollo social y contarán con personal capacitado para dar asesoría sobre los mismos a las personas con discapacidad visual y auditiva.
 
 ## TÍTULO SÉPTIMO. DEL FOMENTO AL DESARROLLO SOCIAL
 
@@ -621,7 +641,9 @@ El Consejo Estatal de Desarrollo Social, es un órgano consultivo de participaci
 
 El Consejo Estatal estará integrado por:
 
-I. La o el Secretario de Planeación y Desarrollo Regional, quien lo presidirá;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+I. La o el Secretario de Desarrollo Social, quien lo presidirá;
 
 II. Una o un Secretario Técnico nombrado por el titular de la dependencia señalada en el párrafo anterior;
 
@@ -657,7 +679,9 @@ II. Emitir opiniones y formular propuestas sobre la aplicación y orientación d
 
 III. Opinar sobre los presupuestos de desarrollo social destinados a las dependencias y entidades estatales y municipales;
 
-IV. Proponer criterios para la planeación y ejecución de las políticas y programas de desarrollo social en los ámbitos estatal y municipal;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+IV. Proponer criterios para la instrumentación y ejecución de las políticas y programas de desarrollo social en los ámbitos estatal y municipal;
 
 V. Analizar y proponer esquemas alternativos de financiamiento para los programas de desarrollo social;
 
@@ -717,29 +741,53 @@ La Comisión Intersecretarial es el instrumento de coordinación, apoyo y vincul
 
 La Comisión Intersecretarial estará integrada por:
 
-I. La o el Ejecutivo del Estado, quien la presidirá;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
 
-II. La Secretaría, quien tendrá a cargo la coordinación ejecutiva y sustituirá al Ejecutivo en sus ausencias;
+I. El titular del Ejecutivo del Estado, quien la presidirá;
 
-III. La o el Secretario de Finanzas;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
 
-IV. La o el Secretario de Educación y Cultura;
+II. El titular de la Secretaría, quien tendrá a cargo la coordinación ejecutiva y sustituirá al Ejecutivo en sus ausencias;
 
-V. La o el Secretario de Obras Públicas;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
 
-VI. La o el Secretario de Desarrollo Agropecuario;
+III. El titular de la Secretaría de Finanzas;
 
-VII. La o el Secretario de Desarrollo Económico;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
 
-VIII. La o el Secretario de Turismo;
+IV. El titular de la Secretaría de Educación;
 
-IX. La o el Director General del Instituto Zacatecano de Cultura “Ramón López Velarde”;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
 
-X. La o el Director General de los Servicios de Salud del Estado;
+V. El titular de la Secretaría de Infraestructura;
 
-XI. La o el Director General del Instituto de la Juventud, y
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
 
-XII. La Directora General del Instituto para las Mujeres Zacatecanas.
+VI. El titular de la Secretaría del Campo;
+
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+VII. El titular de la Secretaría de Economía;
+
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+VIII. El titular de la Secretaría de Turismo;
+
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+IX. La titular de la Secretaría de las Mujeres;
+
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+X. El Director General del Instituto Zacatecano de Cultura "Ramón López Velarde";
+
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+XI. El Director General de los Servicios de Salud del Estado, y
+
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2013)</small>
+
+XII. El Subsecretario de la Juventud.
 
 Podrán ser invitados a participar, con derecho a voz, los titulares de otras dependencias y entidades de la administración pública estatal y federal. La Comisión Intersecretarial sesionará cuando menos una vez por bimestre.
 
@@ -853,9 +901,11 @@ Las organizaciones, en los términos de la Ley de Fomento a las Actividades real
 
 ### Capítulo II. De la denuncia ciudadana
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2013)</small>
+
 ###### Artículo 68.
 
-Las o los particulares, las o los beneficiarios, las organizaciones y las instituciones, podrán presentar denuncia popular ante la Contraloría Interna del Gobierno del Estado y las contralorías u instancias análogas de los municipios, sobre hechos, actos u omisiones, que produzcan o puedan producir daños al ejercicio de los derechos establecidos en la presente Ley o demás ordenamientos relacionados con el desarrollo social.
+Las o los particulares, las o los beneficiarios, las organizaciones y las instituciones, podrán presentar denuncia popular ante la Secretaría de la Función Pública del Gobierno del Estado y las contralorías u instancias análogas de los municipios, sobre hechos, actos u omisiones, que produzcan o puedan producir daños al ejercicio de los derechos establecidos en la presente Ley o demás ordenamientos relacionados con el desarrollo social.
 
 ###### Artículo 69.
 
@@ -894,6 +944,10 @@ TÍTULO DECIMOPRIMERO
 ###### Artículo 74.
 
 La evaluación de la política estatal de desarrollo social, estará a cargo del Consejo Estatal y tiene por objeto, revisar periódicamente el cumplimiento de los planes, programas y acciones de la política estatal de desarrollo social, para subsanarlos, modificarlos, adicionarlos o reorientarlos.
+
+> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2013)</small>
+
+La evaluación se llevará a cabo de conformidad a las disposiciones que emita la Unidad de Planeación del Titular del Poder Ejecutivo.
 
 Artículos 75.- El Consejo Estatal podrá emitir convocatorias para que organismos evaluadores independientes, que podrán ser instituciones de educación superior, de investigación científica u organizaciones de la sociedad civil, evalúen la política estatal de desarrollo social.
 
@@ -1038,3 +1092,23 @@ AMALIA D. GARCÍA MEDINA.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. CARLOS PINTO NÚÑEZ.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE MARZO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, el Ejecutivo del Estado deberá actualizar la reglamentación de conformidad con el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Dentro del término de noventa días naturales contados a partir de la vigencia del presente Decreto, los Ayuntamientos deberán establecer su Gaceta Municipal.
+
+###### ARTÍCULO CUARTO.
+
+Los Ayuntamientos, en el término de ciento veinte días naturales a partir de la vigencia del presente Decreto, deberán publicar en sus Gacetas Municipales y en el Periódico Oficial, Órgano del Gobierno del Estado, todas las disposiciones normativas de carácter general que hayan sido generadas antes de la entrada en vigor del presente Decreto. Remitiendo en medio impreso y de forma magnética los instrumentos jurídicos a la Coordinación General Jurídica del Gobierno del Estado para su trámite de publicación.
