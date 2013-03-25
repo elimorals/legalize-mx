@@ -4,7 +4,7 @@ identifier: "AGU-legislacion-penal-para-el-estado-de-aguascalientes-33238"
 country: "mx"
 rank: "otro"
 publication_date: "2003-07-21"
-last_updated: "2013-02-18"
+last_updated: "2013-03-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEGISLACIÓN PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2013.
 
 Legislación publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 21 de julio de 2003.
 
@@ -681,13 +681,21 @@ XIII. El objeto material del apoderamiento sean cables, conexiones u otros mater
 
 XIV.- El objeto material del apoderamiento sea cableado para conducir electricidad, transformadores de voltaje de energía eléctrica, equipos de bombeo o de alguno de sus componentes, siempre que sean parte del sistema de riego agrícola;
 
-> <small>(REFORMADA, P.O. 30 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2013)</small>
 
-XV.- Se lleve a cabo bajo los supuestos establecidos en las Fracciones I, II o III del Artículo 44 A; o
+XV.- Se lleve a cabo bajo los supuestos establecidos en las Fracciones I, II o III del Artículo 44 A;
 
-> <small>(ADICIONADA, P.O. 30 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2013)</small>
 
-XVI.- El objeto material del apoderamiento sean vales de papel o cualquier dispositivo electrónico en forma de tarjeta plástica, asociados a un sistema de pagos y prestaciones laborales, emitidos por persona moral, utilizados para intercambiar o canjear bienes y servicios.
+XVI.- El objeto material del apoderamiento sean vales de papel o cualquier dispositivo electrónico en forma de tarjeta plástica, asociados a un sistema de pagos y prestaciones laborales, emitidos por persona moral, utilizados para intercambiar o canjear bienes y servicios;
+
+> <small>(ADICIONADA, P.O. 25 DE MARZO DE 2013)</small>
+
+XVII.- Se lleve a cabo dentro de las instalaciones de templos o lugares destinados a culto religioso; o
+
+> <small>(ADICIONADA, P.O. 25 DE MARZO DE 2013)</small>
+
+XVIII.- El objeto del apoderamiento sea sustraído del interior de las instalaciones de instituciones educativas públicas o privadas, o sea parte integrante de ellas.
 
 Al responsable de Robo Calificado se le aplicará hasta en una mitad más de los mínimos y máximos previstos para el tipo penal de Robo.
 
@@ -4761,9 +4769,9 @@ XXV. El robo calificado, previsto en la Fracción III del Artículo 45, en relac
 
 XXVI. Trata de personas, previsto en el Artículo 43 B;
 
-> <small>(REFORMADA, P.O. 25 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2013)</small>
 
-XXVII. El robo calificado previsto en la Fracción VII del Artículo 45, en relación con el Artículo 44;
+XXVII.- El robo calificado previsto en las Fracciones VII, XVI y XVII del Artículo 45, en relación con el Artículo 44.
 
 > <small>(ADICIONADA, P.O. 25 DE JULIO DE 2011)</small>
 
@@ -6046,3 +6054,9 @@ P.O. 18 DE FEBRERO DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE MARZO DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
