@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-premios-que-otorga-el-congreso-del-estado-de-57668"
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2012-03-12"
+last_updated: "2013-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57668&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE PREMIOS QUE OTORGA EL CONGRESO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 26 de noviembre de 2007.
 
@@ -91,13 +91,17 @@ VII. Medalla “Manuel M. Ponce”;
 
 VIII. Medalla “César E. Chávez”;
 
-> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2012)</small>
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2013)</small>
 
-IX. Medalla “Saturnino Herrán”; y
+IX. Medalla “Saturnino Herrán”;
 
-> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2012)</small>
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2013)</small>
 
-X. Medalla “Jesús Terán Peredo”
+X. Medalla “Jesús Terán Peredo”; y
+
+> <small>(ADICIONADA, P.O. 25 DE MARZO DE 2013)</small>
+
+XI. Medalla “Al Merito Deportivo”.
 
 El Congreso del Estado podrá otorgar reconocimientos especiales propuestos por alguno de los Diputados integrantes de la Legislatura.
 
@@ -178,6 +182,14 @@ ARTÍCULO 12 TER.- Esta medalla se otorgará a la persona física o moral que se
 ARTÍCULO 12 QUATER.- Esta Medalla se otorgará a la persona física o moral que basando sus principios en la honestidad, la transparencia y la calidad, además de conducirse por políticas, programas y estrategias que favorecen el pleno desarrollo humano, busque la excelencia en el seno de la empresa, atendiendo con especial atención a las personas y sus condiciones de trabajo, así como a la calidad de sus procesos productivos, en el mismo sentido, promueva e impulse una cultura de competitividad responsable.
 
 Indistintamente se podrá otorgar esta presea a la persona física o moral que se haya dedicado a crear, desarrollar o consolidar una empresa a partir de una idea emprendedora, incluso con insuficiente experiencia empresarial, tecnológica y de financiamiento; además de tener como finalidad la generación de empleos en el Estado.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 25 DE MARZO DE 2013)</small>
+
+#### SECCIÓN XI. Medalla "Al Merito Deportivo"
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2013)</small>
+
+ARTÍCULO 12 QUINQUIES.- Esta medalla se otorgará a la persona física o moral que se distinga por su trayectoria, labor o aportaciones realizadas en México o en el extranjero, en materia deportiva y sea ejemplo para la niñez y la juventud de Aguascalientes.
 
 ### CAPÍTULO III. De La Comisión De Postulaciones
 
@@ -282,3 +294,9 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 P.O. 12 DE MARZO DE 2012.
 
 > <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.</small>
+
+P.O. 25 DE MARZO DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
