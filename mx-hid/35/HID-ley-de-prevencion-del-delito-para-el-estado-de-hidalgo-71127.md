@@ -4,7 +4,7 @@ identifier: "HID-ley-de-prevencion-del-delito-para-el-estado-de-hidalgo-71127"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-07"
-last_updated: "2009-12-07"
+last_updated: "2013-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71127&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PREVENCION DEL DELITO PARA EL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 7 de diciembre de 2009.
 
@@ -187,9 +187,17 @@ XI.- Llevar a cabo campañas y programas de sensibilización y proporcionar la i
 
 XII.- Celebrar convenios para la formación, capacitación, especialización y actualización de recursos humanos cuyas funciones incidan en la prevención del delito;
 
-XIII.- Fomentar, en coordinación con instituciones especializadas, la realización de investigaciones sobre el fenómeno delictivo, cuyos resultados servirán como insumos para diseñar políticas públicas para la prevención del delito; y
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2013)</small>
 
-XIV.- Las demás que establezcan otras disposiciones legales y el Presidente del Consejo.
+XIII.- Fomentar, en coordinación con instituciones especializadas, la realización de investigaciones sobre el fenómeno delictivo, cuyos resultados servirán como insumos para diseñar políticas públicas para la prevención del delito;
+
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2013)</small>
+
+XIV.- En base los (sic) estudios señalados en la fracción VII, elaborar mapas de riesgo sobre violencia y delincuencia, en colaboración con las dependencias en materia de Seguridad Pública Estatal y Municipales, correlacionándolos con las condiciones sociales, económicas y educativas de las localidades; y
+
+> <small>(ADICIONADA, P.O. 25 DE MARZO DE 2013)</small>
+
+XV.- Las demás que establezcan otras disposiciones legales y el Presidente del Consejo.
 
 ###### Art. 9.
 
@@ -322,3 +330,9 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MIGUEL ÁNGEL OSORIO CHONG.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE MARZO DE 2013
+
+ÚNICO.- El presente Decreto entrará en vigor, al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
