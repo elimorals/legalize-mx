@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-sistema-estatal-de-seguridad-publica-de-75717"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-02"
-last_updated: "2011-06-17"
+last_updated: "2013-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "AGU"
 ---
 # LEY DEL SISTEMA ESTATAL DE SEGURIDAD PUBLICA DE AGUASCALIENTES
 
-LEY DEL SISTEMA ESTATAL DE SEGURIDAD PUBLICA DE AGUASCALIENTES
+LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2013.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 2 de agosto de 2010.
 
@@ -177,23 +177,49 @@ El Consejo estará integrado por:
 
 I. El Gobernador del Estado, quien lo presidirá;
 
-II. El Secretario General de Gobierno del Estado;
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2013)</small>
 
-III. El Secretario de Seguridad Pública del Estado, quien desempeñará la función de Secretario Ejecutivo;
+II. El Jefe de Gabinete de Gobierno del Estado;
 
-IV. El Procurador General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2013)</small>
 
-V. El Comandante de la XIV Zona Militar;
+III. El Secretario de Gobierno del Estado;
 
-VI. El Delegado Estatal de la Procuraduría General de la República;
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2013)</small>
 
-VII. El Delegado Estatal de la Policía Federal; y
+IV. El Secretario de Seguridad Pública del Estado;
 
-VIII. Tres presidentes municipales designados por acuerdo de los municipios.
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2013)</small>
 
-Los cargos son honoríficos, por lo que no recibirán retribución, emolumento o compensación alguna por su desempeño. Son también personalísimos y no admitirán suplencias. La participación personal en las sesiones del Consejo será obligatoria.
+V. El Procurador General de Justicia del Estado;
 
-En ausencia del Presidente, el Secretario General de Gobierno presidirá el Consejo; los demás integrantes deberán asistir personalmente.
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2013)</small>
+
+VI. El Comandante de la XIV Zona Militar;
+
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2013)</small>
+
+VII. El Delegado Estatal de la Procuraduría General de la República;
+
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2013)</small>
+
+VIII. El Delegado Estatal de la Policía Federal;
+
+> <small>(ADICIONADA, P.O. 25 DE MARZO DE 2013)</small>
+
+IX. Tres presidentes municipales designados por acuerdo de los municipios; y
+
+> <small>(ADICIONADA, P.O. 25 DE MARZO DE 2013)</small>
+
+X. El Secretario Ejecutivo del Sistema Estatal de Seguridad Pública.
+
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2013)</small>
+
+Los cargos son honoríficos, por lo que no recibirán retribución, emolumento o compensación alguna por su desempeño con excepción del señalado en la Fracción X, siempre y cuando no desempeñe otro cargo en la administración pública. Son también personalísimos y no admitirán suplencias. La participación personal en las sesiones del Consejo será obligatoria.
+
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2013)</small>
+
+En ausencia del Presidente, el Jefe de Gabinete presidirá el Consejo; los demás integrantes deberán asistir personalmente.
 
 El funcionamiento y organización del Consejo será regulado en el reglamento.
 
@@ -435,9 +461,11 @@ La Secretaría, a través de la instancia que determine, será la titular de la 
 
 ### CAPÍTULO ÚNICO. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2013)</small>
+
 ###### Artículo 36.
 
-El Consejo tendrá un Secretario Ejecutivo, cargo que desempeñará el Secretario de Seguridad Pública del Estado de Aguascalientes.
+El Consejo tendrá un Secretario Ejecutivo, quien será designado por el Gobernador del Estado.
 
 ###### Artículo 37.
 
@@ -1655,7 +1683,7 @@ EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Juan Ángel José Pérez Talamantes.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 17 DE JUNIO DE 2011.
 
@@ -1698,3 +1726,13 @@ El Poder Ejecutivo del Estado deberá realizar las adecuaciones reglamentarias c
 ###### ARTÍCULO NOVENO.
 
 Se derogan todas las disposiciones que se opongan a la presente Decreto.
+
+P.O. 25 DE MARZO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El personal y el presupuesto con el que actualmente cuenta y opera el Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública se transfieren desde este momento a la Secretaría de Gobierno del Estado de Aguascalientes.
