@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-mediacion-y-conciliacion-del-estado-de-aguascalientes-42
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-27"
-last_updated: "2008-10-27"
+last_updated: "2013-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42040&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "AGU"
 ---
 # LEY DE MEDIACION Y CONCILIACION DEL ESTADO DE AGUASCALIENTES
 
-LEY DE MEDIACION Y CONCILIACION DEL ESTADO DE AGUASCALIENTES
+LEY DE MEDIACIÓN Y CONCILIACIÓN DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE OCTUBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2013.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 27 de diciembre de 2004.
 
@@ -131,9 +131,13 @@ El Director del Centro de Mediación procederá a integrar la investigación cor
 
 Habiéndose declarado procedente la queja, el mediador o conciliador responsable quedará inhabilitado permanentemente, para obtener la certificación y el registro del Centro de Mediación.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2013)</small>
+
 ###### Artículo 11.
 
-La cancelación del registro que se realice antes de la publicación anual de la lista correspondiente, se dará a conocer por la Presidencia del H. Supremo Tribunal de Justicia, mediante publicación en el Periódico Oficial y en los estrados del Tribunal.
+La cancelación del registro que se realice antes de la publicación anual de la lista correspondiente, se dará a conocer por el Poder Judicial, mediante publicación en el Periódico Oficial y en los estrados del Supremo Tribunal de Justicia.
 
 ###### Artículo 12.
 
@@ -187,9 +191,13 @@ Los mediadores y conciliadores oficiales estarán sujetos a la responsabilidad a
 
 ### CAPITULO TERCERO. Del Centro de Mediación del Poder Judicial
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2013)</small>
+
 ###### Artículo 18.
 
-El Centro de Mediación del Poder Judicial es un organismo auxiliar de la Presidencia del Supremo Tribunal de Justicia del Estado. Estará a cargo de un Director y contará con los mediadores, conciliadores y demás personal de apoyo que la Presidencia le asigne.
+El Centro de Mediación del Poder Judicial estará a cargo de un Director y contará con los mediadores, conciliadores y demás personal de apoyo que se establezca en el Reglamento.
 
 ###### Artículo 19.
 
@@ -227,7 +235,11 @@ VI. Coordinarse con el Instituto de Capacitación del Poder Judicial del Estado,
 
 VII. Expedir la certificación y registrar a los mediadores oficiales y privados que acrediten los requisitos que para tal efecto establece la presente ley;
 
-VIII. Adscribir a los mediadores y conciliadores del Poder Judicial, a las oficinas dependientes del Centro de Mediación instaladas en los lugares que señale la Presidencia del Supremo Tribunal de Justicia;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2013)</small>
+
+VIII. Adscribir a los mediadores y conciliadores del Poder Judicial, a las oficinas dependientes del Centro de Mediación instaladas en los lugares que señale el Supremo Tribunal de Justicia;
 
 > <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2008)</small>
 
@@ -235,9 +247,13 @@ IX. Vigilar que los mediadores y conciliadores dependientes del Centro a su carg
 
 X. Recibir las quejas que se presenten en contra de los mediadores o conciliadores Oficiales y Privados, practicar la investigación del caso, respetando el derecho de audiencia del interesado y tomar la resolución que corresponda, debiendo levantar al efecto las actas respectivas.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2013)</small>
+
 ###### Artículo 21.
 
-La Presidencia del Supremo Tribunal de Justicia del Estado formará, en la tercera semana del mes de enero de cada año, una lista de los mediadores y conciliadores que hayan sido certificados y registrados o cuyo registro haya sido refrendado por el Director de Mediación y la mandará publicar en el Periódico Oficial.
+El Supremo Tribunal de Justicia del Estado elaborará en la tercera semana del mes de enero de cada año, una lista de los mediadores y conciliadores que hayan sido certificados y registrados o cuyo registro haya sido refrendado por el Director de Mediación y la mandará publicar en el Periódico Oficial.
 
 ### CAPITULO CUARTO. Del Procedimiento ante el Centro de Mediación del Poder Judicial
 
@@ -333,6 +349,130 @@ Cuando en el convenio se imponga a una de las partes la obligación de otorgar e
 
 Tampoco podrá considerarse como reparación del daño, el apoyo psicoemocional que el Ejecutivo brinda a la víctima del delito y que disminuye el impacto de éste.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE MARZO DE 2013)</small>
+
+### CAPITULO SEXTO. De la Justicia Restaurativa
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2013)</small>
+
+###### Artículo 33.
+
+Por mecanismos de justicia restaurativa, se entenderá todo procedimiento no jurisdiccional al cual pueden recurrir las partes en búsqueda de una solución acordada para poner fin a su controversia, mediante la utilización de técnicas o instrumentos específicos aplicados por especialistas.
+
+El pacto entre la víctima u ofendido y el imputado, tiene como finalidad la solución del conflicto, ya se refiera a la reparación, restitución o resarcimiento del daño y/o perjuicios ocasionados por el delito. Así mismo, se extenderá a la realización o abstención de determinada conducta, prestación de servicio a la propia víctima u ofendido o a la comunidad, e incluso el pedimento de una disculpa o del perdón, mediante cualquier mecanismo idóneo para concluir el procedimiento.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2013)</small>
+
+###### Artículo 34.
+
+La justicia restaurativa se rige por los principios de voluntariedad de las partes, confidencialidad, flexibilidad; neutralidad, imparcialidad, equidad, legalidad y honestidad.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2013)</small>
+
+###### Artículo 35.
+
+El Centro de Mediación del Poder Judicial y las demás dependencias e instituciones que presten servicios alternativos de solución de conflictos, podrán conocer de aquellos asuntos que puedan resolverse mediante acuerdos reparatorios o suspensión condicional del procedimiento a que se refiere el Código de Procedimientos Penales para el Estado de Aguascalientes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2013)</small>
+
+###### Artículo 36.
+
+El Centro de Mediación del Poder Judicial y las demás dependencias e instituciones que presten medios alternativos de solución de conflictos, intervendrán en aquellos asuntos en que el Ministerio Público o Juez haya ordenado la intervención de un especialista en mediación o conciliación con la finalidad de resolver el conflicto buscando un resultado restaurativo, para lo cual remitirá los antecedentes del caso.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2013)</small>
+
+###### Artículo 37.
+
+Recibida la solicitud, se turnará a quien corresponda para que califique el conflicto, lo turne al especialista correspondiente que se ocupará del asunto, quien invitará a la víctima u ofendido y al imputado a una sesión que puede ser conjunta, o separada, que tendrá como finalidad clarificar el procedimiento y los efectos del mismo, para que una vez que hayan manifestado su voluntad de participar, puedan iniciar la búsqueda de acuerdos que permitan la elaboración del convenio.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2013)</small>
+
+###### Artículo 38.
+
+Si la víctima u ofendido no desea participar o decide no continuar con el procedimiento, se levantará el acta respectiva, se archivará el expediente y se informará a la autoridad que haya remitido el asunto, dejando a salvo los derechos de las partes, a fin de que los hagan valer conforme a derecho. Lo mismo ocurrirá si el imputado se niega a participar o decide no continuar con el procedimiento de justicia restaurativa.
+
+Se entiende que hay negativa a someterse a la justicia restaurativa, cuando la víctima u ofendido o el imputado no atienden a dos invitaciones consecutivas para las sesiones de justicia restaurativa.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2013)</small>
+
+###### Artículo 39.
+
+En los casos que sea procedente, el especialista se encargará de realizar las sesiones necesarias según amerite el caso, para que las partes puedan construir el convenio que resuelva la controversia.
+
+Las fechas, horarios y duración de las sesiones serán acordadas por las partes a petición del especialista, atendiendo al horario de éste y de los interesados las partes deberán conducirse con respeto y observar buen comportamiento durante el trámite de las sesiones de justicia restaurativa; en caso contrario, el especialista dará por terminado el procedimiento.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2013)</small>
+
+###### Artículo 40.
+
+Los especialistas podrán solicitar en cualquier momento el auxilio de un asesor en psicología para que atienda el caso, cuando el conflicto emotivo impida llegar a un acuerdo, o para que sirva de especialista adjunto, a fin de facilitar la comunicación entre las partes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2013)</small>
+
+###### Artículo 41.
+
+El Centro de Mediación del Poder Judicial y las demás dependencias e instituciones que presten medios alternativos de solución de conflictos, están obligados a remitir a la autoridad que haya turnado el caso, y a las partes que intervinieron, un tanto del convenio celebrado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2013)</small>
+
+###### Artículo 42.
+
+El especialista deberá registrar de un modo fidedigno o por escrito el convenio en el que se establezcan las obligaciones que se contraen, entre las cuales estarán, la reparación, restitución o resarcimiento del daño y/o perjuicios ocasionados por el hecho punible.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2013)</small>
+
+###### Artículo 43.
+
+Los convenios que hayan sido resultado de la aplicación de mecanismos alternativos de solución de controversia en materia penal en los cuales se establezcan obligaciones a futuro a cargo del imputado para cumplir con la reparación, restitución o resarcimiento del daño y/o perjuicios ocasionados a la víctima u ofendido, deberán ser sometidos a supervisión judicial.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2013)</small>
+
+###### Artículo 44.
+
+La supervisión judicial de los mecanismos alternativos de solución de controversias, tendrá como finalidad verificar que se trata de derechos susceptibles de someterse a dichos mecanismos y que se cubra la reparación del daño.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2013)</small>
+
+###### Artículo 45.
+
+La supervisión judicial estará a cargo del Juez encargado de la etapa en que se emita el convenio, para lo cual el Centro Estatal deberá remitir dentro de los dos días siguientes a la celebración del convenio respectivo, un ejemplar del mismo al Juez, quien implementará todas las medidas necesarias para verificar el cumplimiento o incumplimiento de los acuerdos tomados.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2013)</small>
+
+###### Artículo 46.
+
+En caso de que el Juez advierta que el convenio sujeto a supervisión judicial no se ha cumplido en los plazos establecidos, se procederá en los términos de lo dispuesto por el Código de Procedimientos Penales para el Estado de Aguascalientes. En caso de que los acuerdos celebrados se cumplan, se procederá a decretar el sobreseimiento en términos del mismo Código de Procedimientos Penales para el Estado de Aguascalientes.
+
 TRANSITORIOS:
 
 PRIMERO.- Esta ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
@@ -369,7 +509,7 @@ EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic Jorge Mauricio Martínez Estebanez
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 27 DE OCTUBRE DE 2008.
 
@@ -384,3 +524,19 @@ El personal que se encuentra ya en funciones de mediador o conciliador, contará
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las normas que se opongan al presente Decreto.
+
+P.O. 25 DE MARZO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigencia de conformidad con lo siguiente:
+
+I. EI 16 de junio del año 2014, en el quinto partido judicial con sede en Jesús María;
+
+II. El 5 de enero del año 2015, en el tercer y cuarto partidos judiciales con sede en Pabellón y Rincón de Romos; y
+
+III. EI 1o de junio del año 2015, en el primer y segundo partidos judiciales con sede en Aguascalientes y Calvillo.
+
+###### ARTÍCULO SEGUNDO.
+
+El Congreso del Estado proveerá lo necesario en la asignación de recursos presupuestales anuales a favor del Poder Judicial del Estado, a fin de que se cuente con los recursos humanos, materiales y financieros necesarios para dar cumplimiento a este Decreto.
