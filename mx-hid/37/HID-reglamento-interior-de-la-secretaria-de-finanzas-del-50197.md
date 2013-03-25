@@ -4,7 +4,7 @@ identifier: "HID-reglamento-interior-de-la-secretaria-de-finanzas-del-50197"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-03-27"
-last_updated: "2010-12-13"
+last_updated: "2013-03-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50197&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "HID"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS Y ADMINISTRACIÓN, PUBLICADO EN EL P.O. DE 25 DE MARZO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 27 de marzo de 2006.
 
@@ -1094,3 +1096,23 @@ P.O. 13 DE DICIEMBRE DE 2010.
 ###### ARTÍCULO PRIMERO.
 
 Las presentes modificaciones entrarán en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE MARZO DE 2013.
+
+PRIMERO.- El presente reglamento entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de Finanzas del Gobierno del Estado, de fecha 24 de marzo de 2006, publicado en el Periódico Oficial del Estado de Hidalgo, el 27 de marzo del mismo año.
+
+TERCERO.- Se abroga el Reglamento Interior de la Secretaría de Administración del Gobierno del Estado, de fecha 24 de marzo de 2006, publicado en el Periódico Oficial del Estado de Hidalgo, el 27 de marzo del mismo año.
+
+CUARTO.- Se derogan las demás disposiciones que se opongan al presente Reglamento.
+
+QUINTO.- Si alguna unidad administrativa, conforme al presente Reglamento, cambia de adscripción, contará con el término de sesenta días para operar en su nueva unidad. En tanto seguirá en el ejercicio de sus atribuciones en los términos de los reglamentos que se abrogan.
+
+SEXTO.- Cuando la competencia de alguna unidad administrativa, establecida con anterioridad a la vigencia del presente reglamento, deba ser ejercida por otra u otras de las que el mismo establece, en un término de sesenta días, pasarán los expedientes en trámite y el archivo a la unidad o unidades competentes, de conformidad con el ámbito de competencia que a cada una corresponda y los asuntos que se encuentren en trámite competerá a la nueva dependencia terminar la substanciación y dictar la resolución que corresponda.
+
+SÉPTIMO.- Continuarán en vigor los acuerdos y demás disposiciones de carácter general, dictados con apoyo en los Reglamentos Interiores de las anteriormente denominadas Secretaría de Finanzas y Secretaria de Administración que se abrogan, en lo que no se opongan al presente reglamento.
+
+OCTAVO.- Cuando el presente reglamento confiere atribuciones a unidades administrativas que se encuentran señaladas en otras disposiciones con distinta denominación se entenderá que corresponden a las previstas en este reglamento.
+
+NOVENO.- Los Manuales de Organización, Procedimientos y Servicios al Público, deberán expedirse a los 60 días posteriores a la publicación del presente Reglamento donde se establecerán las bases de organización, así como las facultades y funciones que correspondan a las distintas unidades administrativas que integren la Secretaría.
