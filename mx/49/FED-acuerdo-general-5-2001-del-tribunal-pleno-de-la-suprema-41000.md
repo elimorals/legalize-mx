@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-5-2001-del-tribunal-pleno-de-la-suprema-41000"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-06-29"
-last_updated: "2012-12-03"
+last_updated: "2013-03-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41000&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2001-06-21"
 ---
 # ACUERDO GENERAL 5/2001 DEL TRIBUNAL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION [RELATIVO A LA RESOLUCION Y EL ENVIO DE LOS DE SU COMPETENCIA ORIGINARIA A LAS SALAS Y A LOS TRIBUNALES COLEGIADOS DE CIRCUITO]
 
-ACUERDO GENERAL NUMERO 5/2001, DE VEINTIUNO DE JUNIO DE DOS MIL UNO, DEL TRIBUNAL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, RELATIVO A LA DETERMINACIÓN DE LOS ASUNTOS QUE CONSERVARA PARA SU RESOLUCIÓN Y EL ENVIÓ DE LOS DE SU COMPETENCIA ORIGINARIA A LAS SALAS Y A LOS TRIBUNALES COLEGIADOS DE CIRCUITO
+ACUERDO GENERAL NÚMERO 5/2001, DE VEINTIUNO DE JUNIO DE DOS MIL UNO, DEL TRIBUNAL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, RELATIVO A LA DETERMINACIÓN DE LOS ASUNTOS QUE CONSERVARÁ PARA SU RESOLUCIÓN Y EL ENVIÓ DE LOS DE SU COMPETENCIA ORIGINARIA A LAS SALAS Y A LOS TRIBUNALES COLEGIADOS DE CIRCUITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE MARZO DE 2013.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 29 de junio de 2001 y en el Semanario Judicial de la Federación y su Gaceta, Tomo XIV, Julio de 2001, página 1161.
 
@@ -253,17 +253,25 @@ El auto de radicación a que se refiere el Punto Décimo Cuarto de este Acuerdo 
 
 Las resoluciones que emitan el Pleno o las Salas de este Alto Tribunal en donde se determine reasumir competencia originaria atendiendo a las solicitudes precisadas en los párrafos que anteceden, así como la remisión de autos que realicen los Tribunales Colegiados de Circuito en cualquiera de los supuestos anteriores, deberán notificarse por medio de oficio a las autoridades responsables, así como al Tribunal Unitario de Circuito o Juzgado de Distrito del conocimiento, y personalmente al quejoso y al tercero perjudicado, en su caso.
 
-> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL VEINTIDÓS DE NOVIEMBRE DE DOS MIL DOCE, D.O.F. 3 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL CATORCE DE MARZO DE DOS MIL TRECE, D.O.F. 26 DE MARZO DE 2013)</small>
 
-DECIMO NOVENO.- En el caso de las inconformidades interpuestas en términos de lo previsto en los artículos 105 y 108 de la Ley de Amparo, derivadas de sentencias en las que se conceda el amparo, dictadas por Jueces de Distrito o por Tribunales Unitarios de Circuito, los Tribunales Colegiados de Circuito, en ejercicio de la competencia delegada, podrán:
+DECIMO NOVENO. En el caso de las inconformidades interpuestas en términos de lo previsto en el artículo 108 de la Ley de Amparo, los Tribunales Colegiados de Circuito, en ejercicio de la competencia delegada, podrán:
+
+> <small>(ADICIONADA POR EL PUNTO ÚNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL VEINTIDÓS DE NOVIEMBRE DE DOS MIL DOCE, D.O.F. 3 DE DICIEMBRE DE 2012)</small>
 
 I. Desecharlas, declararlas improcedentes o sin materia;
 
+> <small>(ADICIONADA POR EL PUNTO ÚNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL VEINTIDÓS DE NOVIEMBRE DE DOS MIL DOCE, D.O.F. 3 DE DICIEMBRE DE 2012)</small>
+
 II. Ordenar la reposición del procedimiento respectivo;
+
+> <small>(ADICIONADA POR EL PUNTO ÚNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL VEINTIDÓS DE NOVIEMBRE DE DOS MIL DOCE, D.O.F. 3 DE DICIEMBRE DE 2012)</small>
 
 III. Declararlas infundadas, o
 
-IV. Emitir dictamen en el que se consideren fundadas y, por ende, se remitan a la Suprema Corte de Justicia de la Nación para que se resuelva lo conducente.
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL CATORCE DE MARZO DE DOS MIL TRECE, D.O.F. 26 DE MARZO DE 2013)</small>
+
+IV. Emitir dictamen en el que se consideren fundadas y, por ende, se remitan a la Suprema Corte de Justicia de la Nación para que se resuelva lo conducente. Previamente a la remisión, se ordenará la notificación del dictamen a las partes por conducto del Juzgado de Distrito o del Tribunal Unitario de Circuito, según corresponda, recabando las constancias que lo acrediten.
 
 VIGESIMO.- (DEROGADO POR EL PUNTO ÚNICO DEL INSTRUMENTO NORMATIVO APROBADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL SEIS DE OCTUBRE DE DOS MIL ONCE, D.O.F. 18 DE OCTUBRE DE 2011)
 
@@ -344,3 +352,11 @@ D.O.F. 3 DE DICIEMBRE DE 2012.
 PRIMERO. El presente Instrumento Normativo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese este Instrumento Normativo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta y en medios electrónicos de consulta pública en términos de lo dispuesto en el artículo 7, fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, sin menoscabo de que la Secretaría General de Acuerdos difunda el texto íntegro del Acuerdo General Plenario 5/2001 en dichos medios electrónicos.
+
+D.O.F. 26 DE MARZO DE 2013.
+
+PRIMERO. El presente Instrumento Normativo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Las inconformidades interpuestas conforme a lo previsto en el artículo 105 de la Ley de Amparo, recibidas en la Suprema Corte de Justicia de la Nación antes de la entrada en vigor de este Instrumento Normativo, se resolverán por sus Salas.
+
+TERCERO. Publíquese el presente Instrumento Normativo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta y en medios electrónicos de consulta pública en términos de lo dispuesto en el artículo 7, fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, sin menoscabo de que la Secretaría General de Acuerdos difunda el texto íntegro del Acuerdo General Plenario 5/2001 en dichos medios electrónicos.
