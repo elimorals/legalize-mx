@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-interior-de-la-secretaria-general-de-gobierno-75393"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-05-05"
-last_updated: "2010-05-05"
+last_updated: "2013-03-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA GENERAL DE GOBIERNO DEL ESTADO DE ZACATECAS
 
-REGLAMENTO INTERIOR DE LA SECRETARIA GENERAL DE GOBIERNO DEL ESTADO DE ZACATECAS
+REGLAMENTO INTERIOR DE LA SECRETARÍA GENERAL DE GOBIERNO DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA GENERAL DE GOBIERNO, PUBLICADO EN EL P.O. DE 27 DE MARZO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 5 de mayo del 2010.
 
@@ -820,3 +822,17 @@ AMALIA D. GARCÍA MEDINA
 EL SECRETARIO GENERAL DEL GOBIERNO
 
 OCTAVIO MACÍAS SOLÍS
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE MARZO DE 2013.
+
+Primero.- El presente Reglamento Interior entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- Se derogan las disposiciones administrativas que se opongan a este ordenamiento.
+
+Tercero.- Se abroga el Reglamento Interior de la Secretaría General de Gobierno, publicado en el Periódico Oficial, Órgano del Gobierno del Estado el 05 de mayo del año 2010, en Suplemento al número 36.
+
+Cuarto.- Los asuntos que se encuentran en trámite a cargo de las unidades administrativas que se modifican o cambian de adscripción, los continuará y resolverá la unidad administrativa que este Reglamento Interior señalan como competentes.
+
+Quinto.- Se expedirá el Manual de Organización con término al 31 de marzo del presente año y 180 días naturales el Manual de Procedimientos para sus publicaciones en el Periódico Oficial, Órgano del Gobierno del Estado.
