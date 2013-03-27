@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-zonificacion-y-usos-de-suelo-del-municipio-de-645
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-11-17"
-last_updated: "2012-12-21"
+last_updated: "2013-03-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64546&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE ZONIFICACIÓN Y USOS DE SUELO DEL MUNICIPIO DE GUADALUPE, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 17 de noviembre de 2008.
 
@@ -385,9 +385,13 @@ Los Usos de Suelo y la Zonificación establecen lo siguiente:
 
 Los Usos de Suelo, se refieren a los fines particulares a los que podrán dedicarse los predios dentro de los límites jurídicos - administrativos del municipio de Guadalupe, mismos que se establecen en la Matriz de Compatibilidad de Usos de Suelo del Plan y se clasifican como permitidos, condicionados, compatibles y prohibidos de acuerdo a la legislación vigente en materia de Desarrollo Urbano del Estado de Nuevo León
 
-Quedan prohibidos dentro de los límites jurídicos - administrativos del municipio de Guadalupe los usos del suelo y uso de edificación para, centro de apuestas, salas de sorteos, casa de juego, casinos y similares.
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2013)</small>
 
-La prohibición de usos de suelo y uso de edificación para dichos establecimientos que se contempla en el Plan de Desarrollo Urbano de Guadalupe N. L., 2005 2025, y en el presente reglamento no podrá ser modificada sino en los estrictos términos establecidos por ley.
+Quedan prohibidos dentro de los limites jurídicos - administrativos del municipio de Guadalupe los usos del suelo y uso de edificación para: casinos, casas o lugares abiertos o cerrados en los que se lleven a cabo juegos de apuesta, juegos de mesa, cruce de apuestas, corredores de apuestas, sorteos y salas de sorteos de todo tipo, parimuto, sembrado, juegos de azar, artefactos y dispositivos electrónicos o electromecánicos, digitales, interactivos o de cualquier tecnología similar a la anterior, que se utilicen para que el usuario obtenga mediante el azar, o combinación de azar y destreza, la entrega inmediata o posterior de premios en efectivos o en especie. Así como todos aquellos usos de suelo y edificación que se asemejen o sean similares a los giros ya señalados o a los giros contemplados en la Ley Federal de Juegos y Sorteos y en el Reglamento de la Ley Federal de Juegos y Sorteos.
+
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2013)</small>
+
+Así como todos aquellos que queden establecidos como prohibidos por las disposiciones generales sobre usos y destinos de suelo en la ley De Desarrollo Urbano del Estado de Nuevo León vigente.
 
 ###### ARTICULO 28.
 
@@ -1232,3 +1236,11 @@ P.O. 21 DE DICIEMBRE DE 2012.
 PRIMERO.- Las presentes reformas al REGLAMENTO DE ZONIFICACIÓN Y USOS DE SUELO DEL MUNICIPIO DE GUADALUPE, NUEVO LEÓN, entrarán en vigor a partir de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Gírese el presente al Presidente Municipal para que instruya al Secretario de Ayuntamiento para que remita su publicación en el Periódico Oficial del Estado, en la Gaceta Municipal, y en el Sitio Oficial de Internet del Municipio.
+
+P.O. 27 DE MARZO DE 2013.
+
+PRIMERO.- La presente reforma por adición al segundo párrafo del artículo 27 del Reglamento de Zonificación y Usos de Suelo del Municipio de Guadalupe Nuevo León, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo león.
+
+SEGUNDO.- De conformidad y en coherencia a la prohibición de uso de suelo y edificación que establece la presente reforma por adición al segundo párrafo del artículo 27 del Reglamento de Zonificación y Usos de Suelo del Municipio de Guadalupe Nuevo León, se acuerda e instruye a las instancias municipales competentes a fin de que se lleve a cabo el proceso que de conformidad a lo establecido en la Ley de Desarrollo Urbano del Estado de Nuevo León ,así como en los reglamentos municipales aplicables se efectué la modificación del Plan de Desarrollo Urbano del Municipio de Guadalupe, N.L. 2005 .2025.
+
+TERCERO.- Gírese el presente al Presidente Municipal para que instruya al Secretario de Ayuntamiento para que remita su publicación en el Periódico Oficial del Estado de Nuevo León, en la Gaceta Municipal y en el Sitio Oficial de Internet del Municipio.
