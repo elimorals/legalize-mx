@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-del-consejo-estatal-de-seguridad-76563"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-08-04"
-last_updated: "2010-08-04"
+last_updated: "2013-03-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # REGLAMENTO INTERIOR DEL CONSEJO ESTATAL DE SEGURIDAD PUBLICA DEL ESTADO DE CHIAPAS
 
-REGLAMENTO INTERIOR DEL CONSEJO ESTATAL DE SEGURIDAD PUBLICA
+REGLAMENTO INTERIOR DEL CONSEJO ESTATAL DE SEGURIDAD PÚBLICA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO PUBLICADO EN EL P.O. DE 27 DE MARZO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 4 de agosto de 2010.
 
@@ -660,3 +662,13 @@ Artículo Tercero.- Las cuestiones no previstas en el presente Reglamento, respe
 Artículo Cuarto.- Para las cuestiones no previstas en el presente Reglamento, y en los que se presente controversia en cuanto a su aplicación, observancia e interpretación, el Secretario Ejecutivo resolverá lo conducente.
 
 Artículo Quinto.- En cumplimiento a lo dispuesto por el Artículo 8°, de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Reglamento en el Periódico Oficial.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE MARZO DE 2013.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que tengan igual o menor jerarquía al presente Decreto, y que se opongan al mismo.
+
+Artículo Tercero.- En cumplimiento a lo previsto en el artículo 8° de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Decreto en el Periódico Oficial.
