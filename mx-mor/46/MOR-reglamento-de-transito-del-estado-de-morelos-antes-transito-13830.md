@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-transito-del-estado-de-morelos-antes-transito-138
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-05-20"
-last_updated: "2008-08-13"
+last_updated: "2013-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13830&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # REGLAMENTO DE TRANSITO DEL ESTADO DE MORELOS -ANTES TRANSITO Y TRANSPORTES-
 
-REGLAMENTO DE TRANSITO DEL ESTADO DE MORELOS
+REGLAMENTO DE TRÁNSITO DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE AGOSTO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2013.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 20 de mayo de 1998.
 
@@ -71,9 +71,9 @@ Mención especial merece la fusión en una sola dependencia de los órganos admi
 
 Por todo lo anteriormente expuesto y fundado, la administración a mi cargo ha tenido a bien expedir el siguiente:
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE AGOSTO DE 2008)</small>
 
-REGLAMENTO DE TRANSITO DEL ESTADO DE MORELOS
+REGLAMENTO DE TRÁNSITO DEL ESTADO DE MORELOS
 
 > <small>(DEROGADO, P.O. 13 DE AGOSTO DE 2008)</small>
 
@@ -419,9 +419,17 @@ II.- Manifestación por escrito del propietario en que se obliga a responder sol
 
 III.- Documentación que acredite la propiedad del vehículo;
 
-IV.- Comprobante de pago de los derechos e impuestos correspondientes; y
+> <small>(ADICIONADA, P.O. 27 DE MARZO DE 2013)</small>
 
-V.- En su caso, el comprobante de baja correspondiente, cuando se trate de vehículos registrados fuera del Estado.
+IV. Contar con una póliza seguro de responsabilidad civil vigente y pagada con una compañía autorizada por la Comisión Nacional de Seguros y Fianzas; que ampare, cuando menos, los daños que se lleguen a ocasionar a terceros en su persona y en sus bienes con motivo de un accidente de tránsito, y con una cobertura que no sea inferior a la cantidad equivalente a un mil seiscientos treinta días de salario mínimo general vigente en la Entidad, sin incluir el concepto de defunción en accidente;
+
+V. Comprobante de pago de los derechos e impuestos correspondientes, y
+
+VI. En su caso, el comprobante de baja correspondiente, cuando se trate de vehículos registrados fuera del Estado.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2013)</small>
+
+Para que los vehículos transiten por las vías públicas de circulación del Estado, deberán disponer del contrato de seguro vigente a que se refiere la fracción IV que antecede, independientemente del momento en que hubieren sido registrados.
 
 ###### ARTICULO 31.
 
@@ -2203,7 +2211,7 @@ SECRETARIO GENERAL DE GOBIERNO.
 
 RÚBRICAS
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 17 DE NOVIEMBRE DE 1999.
 
@@ -2250,3 +2258,9 @@ SEXTO. Se derogan todas las disposiciones reglamentarias y administrativas que s
 SÉPTIMO. Los titulares de las concesiones otorgadas antes de la publicación del presente Reglamento, conservarán los derechos que sobre las mismas les ha otorgado la autoridad. Al vencimiento de éstas y para su renovación se sujetarán invariablemente a las condiciones y términos que en materia de concesiones señala este Reglamento.
 
 OCTAVO. El titular del Poder Ejecutivo, a través del Secretario de Gobierno, cuenta con un plazo de noventa días hábiles contados a partir de la publicación del presente Reglamento, para convocar a la instalación y apertura de las sesiones del Consejo Consultivo de Transportes.
+
+P.O. 27 DE MARZO DE 2013.
+
+PRIMERA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Decreto.
