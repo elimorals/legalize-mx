@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-en-materia-de-fiscalizacion-de-los-recursos-de-72405
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-12-19"
-last_updated: "2013-02-16"
+last_updated: "2013-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72405&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CHH"
 ---
 # REGLAMENTO EN MATERIA DE FISCALIZACION DE LOS RECURSOS DE LOS PARTIDOS POLITICOS Y AGRUPACIONES POLITICAS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE MARZO DE 2013 EN EL P.O. DEL ESTADO CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO EN MATERIA DE FISCALIZACIÓN DE LOS RECURSOS DE LOS PARTIDOS POLÍTICOS Y AGRUPACIONES POLÍTICAS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2013.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 27 DE MARZO DE 2013.</small>
 
 Reglamento publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 19 de diciembre del 2009.
 
@@ -77,8 +77,6 @@ REGLAMENTO EN MATERIA DE FISCALIZACIÓN DE LOS RECURSOS DE LOS PARTIDOS POLÍTIC
 
 ### CAPÍTULO I. DISPOSICIONES PRELIMINARES.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE MARZO DE 2013 EN EL P.O. DEL ESTADO CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 1.
 
 Glosario y objeto.
@@ -91,11 +89,11 @@ a) Constitución Federal: Constitución Política de los Estados Unidos Mexicano
 
 b) Constitución Estatal: Constitución Política del Estado Libre y Soberano de Chihuahua;
 
-c) Ley: Ley Electoral del Estado de Chihuahua;
+c) Ley: Ley Electoral del Estado de Chihuahua
 
 d) Reglamento: Reglamento en materia de fiscalización de los recursos de los partidos políticos y agrupaciones políticas;
 
-e) Periódico Oficial: Periódico Oficial del Estado de Chihuahua;
+e) Periódico Oficial: Periódico Oficial del Estado de Chihuahua.
 
 f) Instituto: Instituto Estatal Electoral;
 
@@ -105,9 +103,13 @@ h) Comisión de Fiscalización: Comisión de Fiscalización de los Recursos de l
 
 i) Partidos: Partidos políticos estatales y/o con registro nacional;
 
-j) Órgano de finanzas: Órgano responsable de la administración del patrimonio y recursos financieros y de la presentación de los informes, en términos del artículo 26, numeral 1, fracción IV, de la Ley Electoral del Estado de Chihuahua; y
+> <small>(F. DE E., P.O. 27 DE MARZO DE 2013)</small>
 
-r) (sic) Salario mínimo: Salario mínimo diario vigente en la capital del Estado de Chihuahua.
+j) Órgano de finanzas: Órgano responsable de la administración del patrimonio y recursos financieros y de la presentación de los informes, en términos del articulo 26, numeral 1, inciso c), fracción IV, de la Ley Electoral del Estado de Chihuahua; y
+
+> <small>(F. DE E., P.O. 27 DE MARZO DE 2013)</small>
+
+k) Salario mínimo: Salario mínimo diario vigente en la capital del Estado de Chihuahua.
 
 ###### Artículo 2.
 
@@ -535,13 +537,11 @@ b) Los pagos realizados a través de transferencias electrónicas de fondos en l
 
 7. Los comprobantes de los gastos efectuados en anuncios espectaculares en la vía pública, cuyo contenido no sea la promoción de candidatos durante procesos electorales, deberán incluir en hojas membretadas de la empresa que se anexen a cada factura, una relación de cada uno de los anuncios espectaculares que ampara la factura y el periodo en el que permanecieron en la vía pública. En las hojas membretadas deberá incluirse el valor unitario de todos y cada uno de los anuncios espectaculares. El importe y el número total de los anuncios espectaculares detallados en las hojas membretadas deberán coincidir con el valor y número de éstos que ampara la factura respectiva.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE MARZO DE 2013 EN EL P.O. DEL ESTADO CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 > <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 17
 
-BIS. Gastos de precampaña.
+Bis. Gastos de precampaña.
 
 1. Tratándose de ingresos en efectivo para el sostenimiento de precampañas políticas para Gobernador, diputados, ayuntamientos y síndicos, deberá abrirse una cuenta bancaria de cheques única para cada precampaña.
 
@@ -549,19 +549,27 @@ BIS. Gastos de precampaña.
 
 No están obligados a la apertura de la cuenta de cheques para el manejo de los recursos de aquellas precampañas para ayuntamiento y síndico, de los municipios cuya cabecera municipal no cuente con institución bancaria alguna.
 
-3. El órgano de finanzas de cada partido político deberá informar a la Comisión de Fiscalización, dentro de los quince días anteriores al inicio de las campañas, los casos que se sujeten a lo señalado en el párrafo anterior, con el fin de obtener de la misma la confirmación o rechazo dentro de los dos días siguientes a su recepción.
+> <small>(F. DE E., P.O. 27 DE MARZO DE 2013)</small>
 
-4. Las cuentas de cheques para el sostenimiento de precampañas políticas deberán abrirse a nombre del partido político, con las firmas mancomunadas. Los estados de cuenta servirán como base documental de los informes de campaña y deberán estar conciliados.
+3. El órgano de finanzas de cada partido político deberá informar a la Comisión de Fiscalización, dentro de los quince días anteriores al inicio de las precampañas, los casos que se sujeten a lo señalado en el párrafo anterior, con el fin de obtener de la misma la confirmación o rechazo dentro de los dos días siguientes a su recepción.
+
+> <small>(F. DE E., P.O. 27 DE MARZO DE 2013)</small>
+
+4. Las cuentas de cheques para el sostenimiento de precampañas políticas deberán abrirse a nombre del partido político, con las firmas mancomunadas. Los estados de cuenta servirán como base documental de los informes de precampaña y deberán estar conciliados.
 
 Todo pago que rebase la cantidad equivalente a setenta salarios mínimos vigentes en la capital del Estado, deberá realizarse mediante cheque nominativo a favor del proveedor o prestador del servicio.
 
-5. Las cuentas bancarias a que se refiere este artículo podrán tener movimientos hasta treinta días naturales previos al inicio de las precampañas electorales y hasta treinta días naturales posteriores a su conclusión, por lo que su apertura y cancelación deberán realizarse dentro de dichos límites. Si un partido lo desea, podrá solicitar por escrito la ampliación de dichos plazos a la Comisión de Fiscalización, justificando sus razones, la cual resolverá, fundada y motivadamente, sobre tal petición. La solicitud deberá hacerse antes del inicio o vencimiento, según sea el caso, del plazo correspondiente.
+> <small>(F. DE E., P.O. 27 DE MARZO DE 2013)</small>
+
+5. Las cuentas bancarias a que se refiere este artículo podrán tener movimientos hasta treinta días naturales previos al inicio de las precampañas electorales y hasta treinta días naturales posteriores a su conclusión, por lo que su apertura y cancelación deberán realizarse dentro de dichos límites. Si un partido lo desea, podrá solicitar por escrito la ampliación de dichos plazos a la Comisión de Fiscalización, justificando sus razones, la cual resolverá, fundada y motivadamente, sobre tal petición. Se incluyen en este supuesto, las cuentas de los precandidatos electos como candidatos que pretendan emplear la misma cuenta empleada en la precampaña. La solicitud deberá hacerse antes del inicio o vencimiento, según sea el caso, del plazo correspondiente
 
 6. Al finalizar el plazo señalado en el párrafo anterior, los remanentes que se encuentren depositados en las cuentas, deberán ser depositados en cuentas del partido, según sea el origen del recurso.
 
 7. Cuando se efectúen gastos de precampaña centralizados y las erogaciones involucren dos o más precampañas, deberán señalarse los criterios de prorrateo que se utilicen.
 
-Dichos criterios deberán hacerse del conocimiento de la Comisión de Fiscalización al momento de la presentación de los informes de campaña, y por ningún motivo podrán ser modificados con posterioridad salvo por observaciones de la Comisión. El partido deberá especificar los porcentajes de distribución aplicados a cada precampaña. Para la correcta aplicación del prorrateo, los comprobantes señalarán específicamente las precampañas electorales, la localidad o localidades beneficiadas con el gasto, anexando evidencias que indiquen la correcta aplicación a las precampañas electorales beneficiadas.
+> <small>(F. DE E., P.O. 27 DE MARZO DE 2013)</small>
+
+Dichos criterios deberán hacerse del conocimiento de la Comisión de Fiscalización al momento de la presentación de los informes de precampaña, y por ningún motivo podrán ser modificados con posterioridad salvo por observaciones de la Comisión. El partido deberá especificar los porcentajes de distribución aplicados a cada precampaña. Para la correcta aplicación del prorrateo, los comprobantes señalarán específicamente las precampañas electorales, la localidad o localidades beneficiadas con el gasto, anexando evidencias que indiquen la correcta aplicación a las precampañas electorales beneficiadas.
 
 8. Cuando los gastos de la propaganda susceptible de inventariarse sean amparados con facturas en las que se precise a un precandidato en específico, se deberá registrar directamente al gasto del precandidato beneficiado.
 
@@ -577,7 +585,9 @@ Los partidos deberán conservar, anexas a la documentación comprobatoria corres
 
 11. Los partidos podrán contratar publicidad considerada como anuncios espectaculares en la vía pública para sus precampañas electorales, ajustándose a las siguientes disposiciones contenidas en el artículo 18, numeral 11 del presente Reglamento.
 
-12. Los partidos llevarán una relación que detalle la ubicación y las medidas exactas de las bardas utilizadas en cada precampaña para la pinta de propaganda electoral, especificando los datos de la autorización para su fijación en inmuebles de propiedad privada o lugares de uso común, la descripción de los costos, el detalle de los materiales y mano de obra utilizados, la identificación del candidato, y la fórmula o campaña beneficiada con este tipo de propaganda, debiendo cumplir, en su caso, con lo dispuesto en este Reglamento respecto de los criterios de prorrateo. Dicha relación deberá conservarse anexa a las pólizas y documentación soporte correspondiente. El partido deberá conservar y presentar fotografías de la publicidad utilizada en bardas, indicando su ubicación exacta.
+> <small>(F. DE E., P.O. 27 DE MARZO DE 2013)</small>
+
+12. Los partidos llevarán una relación que detalle la ubicación y las medidas exactas de las bardas utilizadas en cada precampaña para la pinta de propaganda electoral, especificando los datos de la autorización para su fijación en inmuebles de propiedad privada o lugares de uso común, la descripción de los costos, el detalle de los materiales y mano de obra utilizados, la identificación del precandidato, y la fórmula o precampaña beneficiada con este tipo de propaganda, debiendo cumplir, en su caso, con lo dispuesto en este Reglamento respecto de los criterios de prorrateo. Dicha relación deberá conservarse anexa a las pólizas y documentación soporte correspondiente. El partido deberá conservar y presentar fotografías de la publicidad utilizada en bardas, indicando su ubicación exacta.
 
 13. En los Informes de precampaña deberán incluirse los contratos y facturas correspondientes a la propaganda que se exhiba en salas de cine, junto con los registros contables correspondientes.
 
@@ -585,11 +595,15 @@ Los partidos deberán conservar, anexas a la documentación comprobatoria corres
 
 15. Con los informes de precampaña los partidos deberán entregar a la autoridad electoral el registro del pasivo correspondiente sobre la propaganda que aún no haya sido pagada por el partido al momento de la presentación de sus informes, donde se incluya la consistente en diarios, revistas y otros medios impresos, gastos de producción de mensajes para radio y televisión, anuncios espectaculares y propaganda en salas de cine y en páginas de Internet, que haya sido publicada, colocada o exhibida durante el periodo de precampaña.
 
-16. Cuando una aportación en especie implique un beneficio directo o indirecto a una o más precampañas electorales, el partido deberá reportar el ingreso correspondiente en el informe o los informes de precampaña que correspondan. Asimismo, el beneficio obtenido por tal aportación en especie computara como gasto en la precampaña o las precampañas beneficiarias, lo cual el partido también deberá reportar en el o los informes de precampaña correspondientes.
+> <small>(F. DE E., P.O. 27 DE MARZO DE 2013)</small>
+
+16. Cuando una aportación en especie implique un beneficio directo o indirecto a una o más precampañas electorales, el partido deberá reportar el ingreso correspondiente en el informe o los informes de precampaña que correspondan. Asimismo, el beneficio obtenido por tal aportación en especie computará como gasto en la precampaña o las precampañas beneficiadas, lo cual el partido también deberá reportar en el o los informes de precampaña correspondientes.
 
 Tales gastos computarán para efectos de los topes de precampaña.
 
-17. Si, al término de las campañas electorales existen saldos en las cuentas por cobrar y pagar, deberán ser registrados en la contabilidad del partido.
+> <small>(F. DE E., P.O. 27 DE MARZO DE 2013)</small>
+
+17. Si al término de las precampañas electorales existen saldos en las cuentas por cobrar y pagar, deberán ser registrados en la contabilidad del partido.
 
 18. Por las aportaciones temporales de activo fijo para las precampañas, se deberá afectar el gasto mensual de precampaña, considerando los parámetros, indicados en el artículo 18, numeral 18 del presente Reglamento.
 
@@ -1047,13 +1061,13 @@ El funcionario que asista levantará un acta en la que detalle la actividad que 
 
 21. La falta de comprobación de las actividades realizadas, podrá traer como consecuencia que la actividad no sea considerada como susceptible de financiamiento público.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE MARZO DE 2013 EN EL P.O. DEL ESTADO CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 27.
 
 Desarrollo del liderazgo político de las mujeres.
 
-1. Por este concepto se podrán realizar actividades similares a las específicas, debiendo apegarse a las reglas establecidas para éstas y registrarse en una cuenta específica para este tipo de gastos.
+> <small>(F. DE E., P.O. 27 DE MARZO DE 2013)</small>
+
+1. Por este concepto se podrán realizar actividades similares a las específicas, debiendo apegarse a las reglas establecidas para éstas y registrarse en una cuenta específica para este tipo de gastos. Según lo establecido en el artículo 58, numeral 5, de la Ley, así como el artículo 26, en todos sus numerales, del presente Reglamento.
 
 2. los partidos procurarán que los gastos realizados por este concepto beneficien al mayor número de mujeres y que las actividades realizadas sean dirigidas a las mismas.
 
@@ -1070,6 +1084,24 @@ Los gastos ejercidos por este concepto habrán de sustentarse con documentación
 > <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2013)</small>
 
 5. En todo caso, a solicitud de la Comisión, los Partidos habrán de sustentar el criterio empleado para considerar que los gastos registrados por este concepto, cumplen con el objetivo de equidad de género, conforme lo establece el artículo 41, numeral 1, inciso a) de la Ley Electoral del Estado.
+
+> <small>(F. DE E., P.O. 27 DE MARZO DE 2013)</small>
+
+###### Artículo 27 Bis.
+
+Equidad de Género para quedar de la siguiente manera:
+
+> <small>(F. DE E., P.O. 27 DE MARZO DE 2013)</small>
+
+1. Los Partidos habrán de canalizar el 15% del financiamiento público recibido para actividades ordinarias, a desarrollar actividades con perspectiva de género.
+
+> <small>(F. DE E., P.O. 27 DE MARZO DE 2013)</small>
+
+2. Los gastos ejercidos por este concepto habrán de sustentarse con documentación comprobatoria original y registrarse en una cuenta contable específica para tal efecto.
+
+> <small>(F. DE E., P.O. 27 DE MARZO DE 2013)</small>
+
+3. En todo caso, a solicitud de la Comisión, los Partidos habrán de sustentar el criterio empleado para considerar que los gastos registrados por este concepto, cumplen con el objetivo de equidad de género, conforme lo establece el artículo 41, numeral 1, inciso a) de la Ley Electoral del Estado.
 
 ###### Artículo 28.
 
