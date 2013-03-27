@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-de-la-comision-para-el-acceso-a-la-49468"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-11-30"
-last_updated: "2011-09-14"
+last_updated: "2013-03-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49468&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DE LA COMISIÓN PARA EL ACCESO A LA INFORMACIÓN PÚBLICA DE LA ADMINISTRACIÓN PÚBLICA ESTATAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2011.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA COMISIÓN PARA EL ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL ESTADO, PUBLICADO EN EL P.O. DE 27 DE MARZO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Puebla, el miércoles 30 de noviembre de 2005.
 
@@ -389,11 +391,9 @@ XVIII. Promover que los Sujetos Obligados difundan la información que ya esté 
 
 XIX. Las demás que le confiera la Comisión.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
-
 ###### ARTÍCULO 16.
 
-La Dirección de la Unidad de Desarrollo Administrativo y Planeación asumirá las funciones de la Unidad Administrativa de Acceso a la Información de la Comisión.
+La Dirección de Capacitación y Vinculación Ciudadana asumirá las funciones de la Unidad Administrativa de Acceso a la Información de la Comisión.
 
 ### CAPÍTULO OCTAVO. DE LA DIRECCIÓN DE SISTEMAS Y SEGUIMIENTO
 
@@ -569,6 +569,12 @@ Por tanto se acuerda su expedición y se manda imprimir, publicar y circular par
 
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
-P.O. 14 DE SEPTIEMBRE DE 2011.
+P.O. 27 DE MARZO DE 2013.
 
-LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL FEDERAL VIGENTE.
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Reglamento abroga el Reglamento Interior de la Comisión para el Acceso a la Información Pública de la Administración Pública Estatal, publicado en el Periódico Oficial del Estado el día 30 de noviembre de 2005.
