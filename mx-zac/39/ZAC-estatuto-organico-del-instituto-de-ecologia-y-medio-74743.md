@@ -4,7 +4,7 @@ identifier: "ZAC-estatuto-organico-del-instituto-de-ecologia-y-medio-74743"
 country: "mx"
 rank: "estatuto"
 publication_date: "2010-03-31"
-last_updated: "2010-03-31"
+last_updated: "2013-03-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74743&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO DE ECOLOGIA Y MEDIO AMBIENTE DEL ESTADO DE ZACATECAS
 
-ESTATUTO ORGANICO DEL INSTITUTO DE ECOLOGIA Y MEDIO AMBIENTE DEL ESTADO DE ZACATECAS
+ESTATUTO ORGÁNICO DEL INSTITUTO DE ECOLOGÍA Y MEDIO AMBIENTE DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DEL AGUA Y MEDIO AMBIENTE, PUBLICADO EN EL P.O. DE 27 DE MARZO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Estatuto publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 31 de marzo de 2010.
 
@@ -752,3 +754,19 @@ Segundo.- Se abroga el Estatuto Orgánico del Instituto de Ecología y Medio Amb
 Tercero.- En un término que no excederá de 90 días naturales, posterior a la entrada en vigor de este Instrumento, deberán emitirse los Manuales de Organización y Procedimientos.
 
 Aprobado por Consejo Directivo del Instituto de Ecología y Medio Ambiente del Estado de Zacatecas, en sesión celebrada en la Cuidad de Zacatecas, Capital del Estado del mismo nombre, el veinticuatro de marzo del año dos mil diez.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE MARZO DE 2013.
+
+Primero.- El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- Se abrogan los siguientes instrumentos jurídicos:
+
+I. Estatuto Orgánico de la Comisión Estatal de Agua Potable y Alcantarillado, publicado en el Periódico Oficial, Órgano del Gobierno del Estado, el Suplemento al No. 27, de fecha 31 de marzo del 2004; y
+
+II. Estatuto Orgánico del Instituto de Ecología y Medio Ambiente,, (sic) publicado en el Periódico Oficial, Órgano del Gobierno del Estado, el Suplemento al No. 26, de fecha 31 de marzo del 2010.
+
+Tercero.- Se derogan las disposiciones administrativas que contravengan el presente instrumento.
+
+Cuarto.- Se expedirá el Manual de Organización con término al 31 de marzo del presente año y 180 días naturales el Manual de Procedimientos para sus publicaciones en el Periódico Oficial, Órgano del Gobierno del Estado.
