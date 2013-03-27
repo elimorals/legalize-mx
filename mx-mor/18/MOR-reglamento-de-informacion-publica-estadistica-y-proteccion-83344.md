@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-informacion-publica-estadistica-y-proteccion-8334
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-10-19"
-last_updated: "2011-11-23"
+last_updated: "2013-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83344&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,11 +20,9 @@ state: "MOR"
 ---
 # REGLAMENTO DE INFORMACION PUBLICA, ESTADISTICA Y PROTECCION DE DATOS PERSONALES DEL ESTADO DE MORELOS
 
-REGLAMENTO DE INFORMACION PUBLICA, ESTADISTICA Y PROTECCION DE DATOS PERSONALES DEL ESTADO DE MORELOS
+REGLAMENTO DE INFORMACIÓN PÚBLICA, ESTADÍSTICA Y PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 23 DE NOVIEMBRE DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 19 de octubre de 2011.
 
@@ -110,53 +108,17 @@ El Pleno expedirá lineamientos, criterios y emitirá recomendaciones para asegu
 
 La información pública a cargo de las entidades públicas es un bien público cuya titularidad corresponde a la sociedad, por lo mismo aplica en ella el principio de máxima publicidad, como un mecanismo de control directo de las personas sobre su gobierno.
 
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2013)</small>
+
 ###### Artículo 9.
 
 De manera enunciativa, se entienden de forma individual como entidad pública y partido político, según corresponda, a las siguientes:
 
-I.- En el Poder Ejecutivo Centralizado.
+I.- En el Poder Ejecutivo.
 
-A) La Secretaría de Gobierno;
+A) Respecto al Centralizado: cada una de las Secretarías, oficinas y dependencias, que integran el Gobierno del Estado de Morelos; y,
 
-B) Secretaría de Finanzas y Planeación;
-
-C) Secretaría de Desarrollo Económico;
-
-D) Secretaría de Turismo;
-
-E) Secretaría de Desarrollo Agropecuario;
-
-F) Secretaría de Desarrollo Urbano y Obras Públicas;
-
-G) Secretaría de Salud;
-
-H) Secretaría de Educación;
-
-I) Secretaría de Seguridad Pública;
-
-J) Secretaría de la Contraloría;
-
-K) Procuraduría General de Justicia;
-
-L) Consejería Jurídica;
-
-M) Secretaría de Gestión e Innovación Gubernamental;
-
-N) Secretaría del Trabajo y Productividad;
-
-Ñ) Secretaría de Desarrollo Humano y Social;
-
-O) Representación del Poder Ejecutivo del Gobierno del Estado de Morelos;
-
-P) Coordinación General de Comunicación Política;
-
-Q) Gubernatura;
-
-R) Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública;
-
-S) Aquellas que determine la oficina del Gobernador;
-
-T) Cada uno de los organismos que integran la administración pública paraestatal.
+B) Respecto de la administración pública paraestatal: cada uno de los organismos públicos descentralizados, las empresas de participación estatal mayoritaria y los fideicomisos públicos.
 
 II.- En el Poder Legislativo.
 
@@ -172,7 +134,7 @@ B) El Consejo de la Judicatura Estatal;
 
 C) El Tribunal Unitario de Justicia para Adolescentes;
 
-D) El Tribunal de lo Contencioso Administrativo;
+D) El Tribunal de lo Contencioso Administrativo; y,
 
 E) El Tribunal Estatal Electoral.
 
@@ -184,15 +146,15 @@ B) El Instituto Estatal Electoral;
 
 C) La Universidad Autónoma del Estado de Morelos;
 
-D) El Instituto de Desarrollo y Fortalecimiento Municipal del Estado de Morelos;
+D) El Instituto de Desarrollo y Fortalecimiento Municipal del Estado de Morelos; y,
 
 E) El Instituto Morelense de Información Pública y Estadística.
 
-V.- Cada uno de los Partidos Políticos, organizaciones o agrupaciones políticas que reciban recursos económicos del estado para su función pública.
+V.- Cada uno de los Partidos Políticos, organizaciones o agrupaciones políticas que reciban recursos económicos del Estado para su función pública.
 
 VI.- Ayuntamientos.
 
-A) La administración central de cada uno de los Ayuntamientos que integran al estado;
+A) La administración central de cada uno de los Ayuntamientos que integran al estado; y,
 
 B) Cada uno de los organismos que integren la administración pública paramunicipal.
 
@@ -924,11 +886,13 @@ Elaborado el proyecto de resolución respectivo, el Consejero Ponente deberá pr
 
 Si un proyecto de resolución es votado en contra por dos de los integrantes del Pleno, el Consejero Ponente deberá presentar otro proyecto en la siguiente sesión, ajustándose al sentido de la mayoría. El mismo plazo se aplicará en el caso de que un Consejero Ponente retire su proyecto para reelaborarlo.
 
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2013)</small>
+
 ###### Artículo 106.
 
-Aprobado un proyecto de resolución se procederá a su notificación correspondiente, tanto al recurrente como a la entidad pública o partido político obligado. El mismo Consejero Ponente se encargará de vigilar el curso y cumplimiento de la resolución emitida. Ante el incumplimiento a la resolución el Consejero Ponente lo hará de conocimiento al Pleno y propondrá la aprobación de los apercibimientos y sanciones que correspondan. Cuando de la instrucción del procedimiento se desprenda que algún servidor público incurrió en cualquiera de las conductas a que se refiere el Título Séptimo de la Ley, el Pleno del Instituto impondrá la sanción que corresponda específicamente a quien con su omisión o conducta hubiere dado motivo a la misma infracción.
+Aprobado un proyecto de resolución se procederá a su notificación correspondiente, tanto al recurrente como a la entidad pública o partido político obligado. El mismo Consejero Ponente se encargará de vigilar el curso de la resolución emitida. Ante el incumplimiento a la resolución el Consejero Ponente lo hará de conocimiento al Pleno y propondrá la aprobación de los apercibimientos y sanciones que correspondan. Cuando de la instrucción del procedimiento se desprenda que algún servidor público incurrió en cualquiera de las conductas a que se refiere el Título Séptimo de la Ley, el Pleno del Instituto impondrá la sanción que corresponda específicamente a quien con su omisión o conducta hubiere dado motivo a la misma infracción.
 
-Una vez cumplida la resolución, el Consejero Ponente presentará al Pleno el acuerdo de cumplimiento respectivo.
+Cuando el Consejero Ponente cuente con elementos suficientes para determinar que la entidad pública o partido político ha dado cabal cumplimiento a la resolución, presentará al Pleno para su aprobación el proyecto de cumplimiento correspondiente, en caso de ser votado en contra, los Consejeros deberán exponer sus argumentos debidamente fundados y se propondrán las acciones pertinentes para lograr el cumplimiento de la resolución.
 
 ###### Artículo 107.
 
@@ -977,3 +941,13 @@ Lic. Saúl Chavelas Bahena
 Director General Jurídico
 
 Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE MARZO DE 2013.
+
+PRIMERO. El Pleno del Consejo del Instituto Morelense de Información Pública y Estadística aprueba modificar los artículos 9 y 106 del Reglamento de Información Pública, Estadística y Protección de Datos Personales del Estado de Morelos.
+
+SEGUNDO. Las modificaciones aprobadas entrarán en vigor a partir de la publicación del presente acuerdo en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERO. Remítase el presente acuerdo por conducto del Secretario Ejecutivo de este Instituto a la Secretaría de Gobierno del Estado, para su publicación correspondiente en el Periódico Oficial "Tierra y Libertad".
