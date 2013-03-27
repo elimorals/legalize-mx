@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-del-registro-estatal-de-vehiculos-y-automotores-2656
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-11-13"
-last_updated: "2002-11-13"
+last_updated: "2013-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # REGLAMENTO DEL REGISTRO ESTATAL DE VEHICULOS Y AUTOMOTORES DEL ESTADO DE MORELOS
 
-REGLAMENTO DEL REGISTRO ESTATAL DE VEHICULOS Y AUTOMOTORES DEL ESTADO DE MORELOS
+REGLAMENTO DEL REGISTRO ESTATAL DE VEHÍCULOS Y AUTOMOTORES DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 13 de noviembre de 2002.
 
@@ -149,9 +149,17 @@ III. Documentación que acredite la titularidad del derecho sobre el vehículo a
 
 IV. Comprobante de pago de los derechos e impuestos correspondientes;
 
-V. En su caso, el comprobante de baja correspondiente, cuando se trate de vehículos registrados fuera del Estado, y
+> <small>(ADICIONADA, P.O. 27 DE MARZO DE 2013)</small>
 
-VI. En su caso la documentación que acredite la legal estancia en el país respecto de vehículos automotores de procedencia extranjera.
+V. Contar con una póliza seguro de responsabilidad civil vigente y pagada con una compañía autorizada por la Comisión Nacional de Seguros y Fianzas; que ampare, cuando menos, los daños que se lleguen a ocasionar a terceros en su persona y en sus bienes con motivo de un accidente de tránsito, y con una cobertura que no sea inferior a la cantidad equivalente a un mil seiscientos treinta días de salario mínimo general vigente en la Entidad, sin incluir el concepto de defunción en accidente;
+
+VI. En su caso, el comprobante de baja correspondiente, cuando se trate de vehículos registrados fuera del Estado, y
+
+VII. En su caso la documentación que acredite la legal estancia en el país respecto de vehículos automotores de procedencia extranjera.
+
+> <small>(ADICIONADO, P.O. 27 DE MARZO DE 2013)</small>
+
+Para que los vehículos transiten por las vías públicas de circulación del Estado, deberán disponer del contrato de seguro vigente a que se refiere la fracción IV que antecede, independientemente del momento en que hubieren sido registrados.
 
 ###### Artículo 11.
 
@@ -524,3 +532,11 @@ LA SECRETARIA DE HACIENDA
 LIC. CLAUDIA MARISCAL DE MARÍN
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE MARZO DE 2013.
+
+PRIMERA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Decreto.
