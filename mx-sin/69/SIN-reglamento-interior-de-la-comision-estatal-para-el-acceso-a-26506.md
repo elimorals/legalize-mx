@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-interior-de-la-comision-estatal-para-el-acceso-a-265
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-10-18"
-last_updated: "2002-10-18"
+last_updated: "2013-03-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26506&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SIN"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION ESTATAL PARA EL ACCESO A LA INFORMACION PUBLICA
 
-REGLAMENTO INTERIOR DE LA COMISION ESTATAL PARA EL ACCESO A LA INFORMACION PUBLICA
+REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL PARA EL ACCESO A LA INFORMACIÓN PÚBLICA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL PARA EL ACCESO A LA INFORMACIÓN PÚBLICA DE SINALOA, PUBLICADO EN EL P.O. DE 27 DE MARZO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el viernes 18 de octubre de 2002.
 
@@ -526,3 +528,11 @@ Comisionado
 Vicente Hernández Delgado
 
 Comisionado
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE MARZO DE 2013.
+
+Artículo primero. Este reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Artículo segundo. El presente reglamento abroga al Reglamento Interior de la Comisión Estatal para el Acceso a la Información Pública del Estado de Sinaloa, publicado en el Periódico Oficial "El Estado de Sinaloa" de fecha dieciocho de octubre de dos mil dos, así como el Reglamento de Derecho de Acceso a la Información Pública de la Comisión Estatal para el Acceso a la Información Pública del Estado de Sinaloa publicado en el Periódico Oficial "El Estado de Sinaloa" de fecha veinticinco de abril de dos mil tres.
