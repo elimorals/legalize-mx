@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-adquisiciones-arrendamientos-y-contratacion-de-51280"
 country: "mx"
 rank: "ley"
 publication_date: "2006-08-14"
-last_updated: "2010-12-03"
+last_updated: "2013-03-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51280&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NLE"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE NUEVO LEÓN, PUBLICADA EN EL P.O. DE 27 DE MARZO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 14 de agosto de 2006.
 
@@ -1588,3 +1590,29 @@ ALFREDO GERARDO GARZA DE LA GARZA
 P.O. 3 DE DICIEMBRE DE 2010.
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 27 DE MARZO DE 2013.
+
+Primero.- La presente Ley entrará en vigor a los noventa días naturales siguientes al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Las disposiciones contenidas en esta Ley relativas a los procedimientos de licitación pública e invitación restringida a través de medios electrónicos, entrarán en vigor al año siguiente al de la publicación de esta Ley en el Periódico Oficial del Estado.
+
+Tercero.- Se abroga la Ley de Adquisiciones Arrendamientos y Contratación de Servicios del Estado, publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 14 de Agosto de 2006.
+
+Cuarto.- La Legislatura del Estado, tendrá un plazo de noventa días a partir de la aprobación del presente Decreto, para adecuar el marco normativo a fin de que lo preceptuado en el Titulo Segundo, Capítulo Segundo, de la Sección Segunda de la Ley de Adquisiciones, Arrendamientos y Contratación de Servicios, relativo al Comité de Operaciones Inmobiliarias se incorpore a la Ley de Administración Financiera del Estado o a la normativa que corresponda.
+
+Quinto.- Las disposiciones administrativas expedidas en esta materia, vigentes al momento de la publicación de este ordenamiento, se seguirán aplicando en todo lo que no se oponga a la presente Ley, en tanto se expiden las que deban sustituirlas.
+
+Sexto.- El Gobernador del Estado expedirá el Reglamento de esta Ley en un plazo no mayor a 120 días naturales, contados a partir del día siguiente al que inicie la vigencia del presente ordenamiento. En tanto se expide el Reglamento, se aplicarán los lineamientos administrativos que expida la Tesorería del Estado, a los que se deberán sujetar las actuaciones reguladas por esta Ley. A falta de lineamientos, la Tesorería del Estado o, en su defecto, los comités de adquisiciones, resolverán lo conducente.
+
+Séptimo.- Los procedimientos de contratación, de aplicación de sanciones y de inconformidades, y los demás asuntos que se encuentren en curso o pendientes de resolución, se tramitarán y resolverán conforme a las disposiciones vigentes al momento en el que se iniciaron.
+
+Los contratos de adquisiciones, arrendamientos y prestación de servicios de cualquier naturaleza que se encuentren en curso al entrar en vigor esta Ley, continuarán rigiéndose por las disposiciones vigentes en el momento en que se celebraron.
+
+Octavo.- Las sanciones administrativas y la recisión de contratos que por causas imputables al proveedor se hayan determinado de acuerdo con lo dispuesto en la Ley de Adquisiciones Arrendamientos y Contratación de Servicios del Estado, continuarán vigentes.
+
+Noveno.- Los sujetos obligados señalados en las fracciones II a V del Artículo 1 de esta Ley, dispondrán de un plazo de hasta 60 días naturales posteriores a la entrada en vigencia del Reglamento de esta Ley, para reformar o adecuar a lo dispuesto por esta Ley y su Reglamento, su normativa interna en la materia.
+
+La Auditoría Superior del Estado verificara en los informes de Cuenta Pública del ejercicio correspondiente el cumplimiento de esta disposición.
+
+Décima.- Los epígrafes no forman parte del contenido de los Artículos, son de carácter indicativos y no limitativos.
