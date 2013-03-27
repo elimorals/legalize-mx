@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-interior-de-la-secretaria-de-desarrollo-87490"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-12-14"
-last_updated: "2012-03-17"
+last_updated: "2013-03-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87490&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "ZAC"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO ECONÓMICO DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE ECONOMÍA, PUBLICADO EN EL P.O. DE 27 DE MARZO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
 
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 17 DE MARZO DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 14 de diciembre de 2011.
 
@@ -940,3 +940,15 @@ Esaú Hernández Herrera
 El Secretario de Desarrollo Económico
 
 Eduardo López Muñoz
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE MARZO DE 2013.
+
+Primero.- El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- Se abroga el Reglamento Interior de la Secretaría de Desarrollo Económico, publicado en el Suplemento al Periódico Oficial, Órgano de Gobierno del Estado, número 100, de fecha 14 de diciembre del 2011.
+
+Tercero.- Los asuntos que se encuentren en trámite a cargo de direcciones o áreas administrativas que se modifican o cambian de adscripción, los continuará y resolverá el área administrativa que el presente Reglamento señalan como competentes.
+
+Cuarto.- Cuando la competencia de alguna de las unidades administrativas establecidas con anterioridad a la vigencia de este Reglamento, deba ser ejercida por otra u otras áreas que en el mismo se disponen, los recursos materiales y financieros con los que contaban y que fueren necesarios, pasarán al (sic) áreas competentes actualmente (sic), distribuyéndose en su caso, de conformidad con el ámbito de atribuciones que a cada una corresponda.
