@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-interior-de-la-contraloria-interna-de-gobierno-66156
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-01-17"
-last_updated: "2009-01-17"
+last_updated: "2013-03-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66156&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 REGLAMENTO INTERIOR DE LA CONTRALORÍA INTERNA DEL GOBIERNO DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA FUNCIÓN PÚBLICA, PUBLICADO EN EL P.O. DE 27 DE MARZO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 17 de enero de 2009.
 
@@ -642,3 +644,19 @@ CARLOS PINTO NUÑEZ.
 LA CONTRALORIA INTERNA DEL GOBIERNO DEL ESTADO
 
 NORMA JULIETA DEL RÍO VENEGAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE MARZO DE 2013.
+
+Primero.- El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- Se abroga el Reglamento Interior de la Contraloría Interna del Gobierno del Estado de Zacatecas, publicado mediante Suplemento al Número 5 del Periódico Oficial, Órgano del Gobierno del Estado, correspondiente al día 17 de Enero de 2009.
+
+Se derogan además, todas las disposiciones administrativas que se opongan al presente ordenamiento.
+
+Tercero.- Los asuntos que se encuentren en trámite a cargo de las diversas áreas administrativas que se modifican o cambian de adscripción, los continuará y resolverá, el área administrativa que el presente Reglamento señale como competente.
+
+Cuarto.- Cuando la competencia de alguna de las unidades administrativas establecidas con anterioridad a la vigencia de este Reglamento deba ser ejercida por otra u otras áreas que en el mismo se dispone, los recursos humanos, materiales y financieros con los que se contaban y que fueren necesarios, pasarán a la unidad o unidades competentes, distribuyéndose en su caso, de conformidad con el ámbito de atribuciones que a cada una corresponda, (sic)
+
+Quinto.- Con término al 31 del presente mes, deberá expedirse el Manual de Organización y 180 días naturales el Manual de Procedimientos y publicarse en el Periódico Oficial, Órgano del Gobierno del Estado.
