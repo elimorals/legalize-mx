@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-interior-de-la-secretaria-de-finanzas-del-estado-755
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-06-02"
-last_updated: "2010-06-02"
+last_updated: "2013-03-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75568&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS DEL ESTADO DE ZACATECAS
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS DEL ESTADO DE ZACATECAS
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS, PUBLICADO EN EL P.O. DE 27 DE MARZO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 2 de junio de 2010.
 
@@ -1202,3 +1204,15 @@ OCTAVIO MACÍAS SOLÍS
 EL SECRETARIO DE FINANZAS
 
 FRANCISCO JAVIER CALZADA VÁZQUEZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE MARZO DE 2013.
+
+Primero.- El presente Reglamento entrará en vigor al día de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Segundo.- Se abroga el Reglamento Interior de la Secretaría de Finanzas, publicado en el suplemento Número 3 al Número 44 de fecha 02 de junio de 2010 del Periódico Oficial, Órgano de Gobierno del Estado de Zacatecas.
+
+Tercero.- Se derogan las disposiciones administrativas que se opongan a este Reglamento.
+
+Cuarto.- Dentro del Término de noventa días naturales, contados a partir de la entrada en vigor del presente Reglamento Interior deberá expedirse el Manual de Organización y 180 días naturales el Manual de Procedimientos y publicarse en el Periódico Oficial, Órgano del Gobierno del Estado.
