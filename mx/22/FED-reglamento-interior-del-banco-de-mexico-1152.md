@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-banco-de-mexico-1152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-09-30"
-last_updated: "2013-01-31"
+last_updated: "2013-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1152&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-09-23"
 
 REGLAMENTO INTERIOR DEL BANCO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE MARZO DE 2013.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 1994.
 
@@ -69,7 +69,7 @@ La Junta de Gobierno y sus miembros, contarán con los asesores que la propia Ju
 
 Las actas de las sesiones de la Junta de Gobierno se conservarán en volúmenes anuales y serán firmadas por quien haya presidido la Junta y por el Secretario, así como por los miembros de la Junta de Gobierno asistentes que quieran hacerlo, debiéndose conservar en un apéndice un ejemplar de los documentos que hubieran sido relacionados en la sesión de que se trate.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE ENERO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MARZO DE 2013)</small>
 
 ###### ARTICULO 4o.
 
@@ -100,6 +100,8 @@ Dirección General Jurídica
 Dirección de Administración de Riesgos
 
 Dirección de Análisis Macroeconómico
+
+Dirección de Análisis sobre Precios, Economía Regional e Información
 
 Dirección de Apoyo a las Operaciones
 
@@ -147,8 +149,6 @@ Dirección de Sistemas de Pagos
 
 Dirección de Sistemas
 
-Dirección de Sistematización de Información Económica y Servicios
-
 Dirección de Vinculación Institucional
 
 Dirección Jurídica
@@ -160,8 +160,6 @@ Las Direcciones Generales y la Contraloría tendrán adscritas las Direcciones q
 > <small>(REFORMADO, D.O.F. 31 DE ENERO DE 2013)</small>
 
 Los Directores Generales, el Contralor, el Secretario de la Junta y los Directores se auxiliarán en el cumplimiento de sus funciones de los Gerentes, Cajeros Regionales, Subgerentes, Jefes de División, de Departamento, de Oficina, y por los demás empleados, previstos en la estructura correspondiente. Asimismo, las Direcciones Generales, la Contraloría y las Direcciones, podrán tener adscritas unidades de informática conforme a lo que se establezca en el Acuerdo de Adscripción de las Unidades Administrativas del Banco de México.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADO, D.O.F. 10 DE JUNIO DE 2009)</small>
 
@@ -182,8 +180,6 @@ En el caso de que el Gobernador acuerde la creación de un comité, podrá invit
 > <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
 El Banco contará con un Comité de Información para los efectos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y el Reglamento que sobre la materia expida la Junta de Gobierno. Dicho Comité tendrá las atribuciones que señala el artículo 31 del presente Reglamento y estará integrado por el Director de Vinculación Institucional, el Director de Coordinación de la Información y el Director de Disposiciones de Banca Central. No habrá miembros suplentes y podrá sesionar con la asistencia de dos de sus integrantes, debiendo reunirse cuando menos dos veces al año.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADO, D.O.F. 9 DE MAYO DE 2008)</small>
 
@@ -363,7 +359,9 @@ A esta Dirección General estarán adscritas las Direcciones de Sistemas de Pago
 
 La Dirección General de Investigación Económica tendrá las atribuciones señaladas en los artículos 21 a 24.
 
-A esta Dirección General estarán adscritas las Direcciones de Estudios Económicos, de Medición Económica, de Análisis Macroeconómico, de Asuntos Internacionales, de Precios, Salarios y Productividad, y de Sistematización de Información Económica y Servicios. Asimismo, estarán a su cargo las delegaciones regionales del Banco, que tendrán como atribuciones: recabar, procesar y divulgar información regional; auxiliar a la Dirección de Vinculación Institucional en la organización de los Consejos Regionales a que se refieren los artículos 47, fracción VII, y 48 de la Ley, así como en las actividades de comunicación del Banco. El personal que integre las delegaciones regionales no tendrá ninguna facultad de representación legal del Banco, por lo que no podrá practicarse ante dicho personal, ni en las oficinas que ocupen las mencionadas delegaciones, ninguna clase de notificaciones, interpelaciones, citaciones, requerimientos o emplazamientos, ni trabarse actos de ejecución, por parte de autoridades judiciales, administrativas o del trabajo, esta misma previsión se aplicará respecto de los fedatarios públicos.
+> <small>(REFORMADO, D.O.F. 27 DE MARZO DE 2013)</small>
+
+A esta Dirección General estarán adscritas las Direcciones de Estudios Económicos, de Medición Económica, de Análisis Macroeconómico, de Asuntos Internacionales, y de Análisis sobre Precios, Economía Regional e Información.
 
 > <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
@@ -829,11 +827,13 @@ III. Dar seguimiento al cumplimiento de los compromisos del Banco derivados de a
 
 IV. Coadyuvar con las autoridades financieras en la negociación y formalización de acuerdos internacionales, y en el ingreso a organismos multilaterales de cooperación económica internacional.
 
-> <small>(REFORMADO CONFORME AL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. DE 5 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 27 DE MARZO DE 2013)</small>
 
 ###### ARTICULO 24.
 
-La Dirección de Sistematización de Información Económica y Servicios estará facultada para establecer sistemas de procesamiento, manejo y diseminación de información económica y financiera, así como para recabar, procesar y divulgar información relacionada con los índices de precios, salarios, la evolución del mercado laboral del país y la productividad.
+La Dirección de Análisis sobre Precios, Economía Regional e Información estará facultada para establecer sistemas de procesamiento, manejo y diseminación de información económica y financiera, así como para recabar, procesar y divulgar información relacionada con los índices de precios, salarios, la evolución del mercado laboral del país y la productividad.
+
+Asimismo, estarán a su cargo las delegaciones regionales del Banco, que tendrán como atribuciones: recabar, procesar y divulgar información regional; auxiliar a la Dirección de Vinculación Institucional en la organización de los Consejos Regionales a que se refieren los artículos 47, fracción VII, y 48 de la Ley, así como en las actividades de comunicación del Banco. El personal que integre las delegaciones regionales no tendrá ninguna facultad de representación legal del Banco, por lo que no podrá practicarse ante dicho personal, ni en las oficinas que ocupen las mencionadas delegaciones, ninguna clase de notificaciones, interpelaciones, citaciones, requerimientos o emplazamientos, ni trabarse actos de ejecución, por parte de autoridades judiciales, administrativas o del trabajo, esta misma previsión se aplicará respecto de los fedatarios públicos.
 
 ARTICULO 24 BIS.- (DEROGADO, CONFORME AL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. DE 5 DE OCTUBRE DE 2010)
 
@@ -2034,5 +2034,13 @@ D.O.F. 31 DE ENERO DE 2013.
 PRIMERO. Las presentes modificaciones al Reglamento Interior del Banco de México, entrarán en vigor el 1 de febrero de 2013.
 
 SEGUNDO. Todas las referencias hechas en las disposiciones emitidas por el Banco de México a la Gerencia de Evaluación de Servicios Financieros, se entenderán hechas a la Dirección de Evaluación de Servicios Financieros.
+
+TERCERO. La totalidad de los actos jurídicos realizados durante la vigencia de los artículos modificados, conservarán todo su valor y fuerza legal.
+
+D.O.F. 27 DE MARZO DE 2013.
+
+PRIMERO. Las presentes modificaciones al Reglamento Interior del Banco de México, entrarán en vigor el 1 de abril de 2013.
+
+SEGUNDO. Todas las referencias hechas en las disposiciones emitidas por el Banco de México a la Dirección de Sistematización de Información Económica y Servicios se entenderán hechas a la Dirección de Análisis sobre Precios, Economía Regional e Información.
 
 TERCERO. La totalidad de los actos jurídicos realizados durante la vigencia de los artículos modificados, conservarán todo su valor y fuerza legal.
