@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-interior-de-la-coordinacion-general-juridica-del-753
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-05-05"
-last_updated: "2010-05-05"
+last_updated: "2013-03-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75394&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # REGLAMENTO INTERIOR DE LA COORDINACION GENERAL JURIDICA DEL ESTADO DE ZACATECAS
 
-REGLAMENTO INTERIOR DE LA COORDINACION GENERAL JURIDICA DEL ESTADO DE ZACATECAS
+REGLAMENTO INTERIOR DE LA COORDINACIÓN GENERAL JURÍDICA DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA COORDINACIÓN GENERAL JURÍDICA DEL GOBIERNO DEL ESTADO DE ZACATECAS, PUBLICADO EN EL P.O. DE 27 DE MARZO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 5 de mayo de 2010.
 
@@ -580,3 +582,13 @@ LIC. OCTAVIO MACIAS SOLIS
 EL COORDINADOR GENERAL JURÍDICO
 
 LIC. MIGUEL DE SANTIAGO REYES
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE MARZO DE 2013.
+
+Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- Se abroga el Reglamento Interior de la Coordinación General Jurídica del Gobierno del Estado de Zacatecas, publicado en el Suplemento del 2 al 36 del Periódico Oficial, Órgano del Gobierno del Estado de fecha 5 de Mayo del 2010.
+
+Tercero.- A la entrada en vigor de este Reglamento, deberán modificarse los manuales de la dependencia, y remitirse a la instancia correspondiente para su autorización; en tanto se realiza dicha actualización, continuarán en vigor los existentes.
