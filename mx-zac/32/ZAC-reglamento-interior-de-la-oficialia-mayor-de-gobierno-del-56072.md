@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-interior-de-la-oficialia-mayor-de-gobierno-del-56072
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-06-23"
-last_updated: "2012-03-31"
+last_updated: "2013-03-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56072&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 REGLAMENTO INTERIOR DE LA OFICIALÍA MAYOR DE GOBIERNO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE ADMINISTRACIÓN, PUBLICADO EN EL P.O. DE 27 DE MARZO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 23 de junio de 2007.
 
@@ -678,3 +680,13 @@ P.O. 31 DE MARZO DE 2012.
 Primero.- El presente Decreto Gubernativo que Reforma el Reglamento Interior de la Oficialía Mayor de Gobierno del Estado de Zacatecas, entrará en vigor al día siguiente de su publicación, en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Segundo.- Se derogan las disposiciones administrativas que contravengan el presente ordenamiento legal.
+
+P.O. 27 DE MARZO DE 2013.
+
+Primero.- El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- Se abroga el Reglamento Interior de la Oficialía Mayor de Gobierno del Estado, publicado en el Suplemento al número 50 del Periódico Oficial, Órgano del Gobierno del Estado, de fecha 23 de junio de 2007.
+
+Tercero.- Se derogan además las disposiciones administrativas que contravengan al presente Reglamento.
+
+Cuarto.- Con término al 31 del presente mes, deberá expedirse el Manual de Organización y 180 días naturales el Manual de Procedimiento s (sic) y publicarse en el Periódico Oficial, Órgano del Gobierno del Estado.
