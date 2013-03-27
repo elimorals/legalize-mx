@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-universidad-estatal-del-valle-de-8172
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-06-15"
-last_updated: "2011-06-15"
+last_updated: "2013-03-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81723&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DE LA UNIVERSIDAD ESTATAL DEL VALLE DE TOLUCA, ESTADO DE MEXICO
 
-REGLAMENTO INTERIOR DE LA UNIVERSIDAD ESTATAL DEL VALLE DE TOLUCA DEL ESTADO DE MEXICO
+REGLAMENTO INTERIOR DE LA UNIVERSIDAD ESTATAL DEL VALLE DE TOLUCA DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA UNIVERSIDAD ESTATAL DEL VALLE DE TOLUCA, PUBLICADO EN LA G.G. DE 27 DE MARZO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA DEL GOBIERNO: ABROGADO.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el miércoles 15 de junio de 2011.
 
@@ -310,3 +312,13 @@ MTRO. E. FRANCISCO LÓPEZ MILLÁN
 RECTOR DE LA UNIVERSIDAD ESTATAL DEL VALLE DE TOLUCA Y SECRETARIO DEL CONSEJO DIRECTIVO
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 27 DE MARZO DE 2013.
+
+PRIMERO.- Publíquese el presente Reglamento en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se abroga el Reglamento Interior de la Universidad Estatal del Valle de Toluca, publicado en el Periódico Oficial "Gaceta del Gobierno" el 15 de junio de 2011.
