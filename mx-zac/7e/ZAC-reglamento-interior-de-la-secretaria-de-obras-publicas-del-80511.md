@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-interior-de-la-secretaria-de-obras-publicas-del-8051
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-03-16"
-last_updated: "2011-03-16"
+last_updated: "2013-03-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80511&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE OBRAS PÚBLICAS DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE INFRAESTRUCTURA, PUBLICADO EN EL P.O. DE 27 DE MARZO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 16 de marzo de 2011.
 
@@ -1418,3 +1420,19 @@ ESAÚ HERNÁNDEZ HERRERA
 EL SECRETARIO DE OBRAS PÚBLICAS
 
 LUIS ALFONSO PESCHARD BUSTAMANTE
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE MARZO DE 2013.
+
+Primero.- El presente Reglamento Interior entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- Se abroga el Reglamento Interior de la Secretaría de Obras Públicas, publicado en Suplemento al número 22 del Periódico Oficial, Órgano del Gobierno del Estado, de fecha 16 de marzo de 2011.
+
+Tercero.- Se derogan las disposiciones administrativas que se opongan a este ordenamiento.
+
+Cuarto.- Los asuntos que se encuentren en trámite a cargo de Direcciones, Coordinaciones o Unidades Administrativas que se modifican o cambian de adscripción, los continuará y resolverá el área administrativa que el presente Reglamento señala como competente.
+
+Quinto.- Los recursos humanos, materiales y financieros de las Unidades Administrativas que se integran a la Secretaría de Infraestructura, pasarán a formar parte de ésta.
+
+Sexto.- Se expedirá el Manual de Organización con término al 31 de marzo del presente año y dentro del término de ciento ochenta días naturales siguientes el Manual de Procedimientos para sus publicaciones en el Periódico Oficial, Órgano del Gobierno del Estado.
