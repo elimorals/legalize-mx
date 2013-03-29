@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-interior-de-la-secretaria-de-hacienda-del-estado-811
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-03-25"
-last_updated: "2012-10-15"
+last_updated: "2013-03-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81128&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE HACIENDA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2013.
 
 Reglamento publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el viernes 25 de marzo de 2011.
 
@@ -89,6 +89,10 @@ Al frente de la Secretaría habrá un Titular a quien se le denominará Secretar
 
 1.1 Subsecretaría de Ingresos;
 
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2013)</small>
+
+1.1.0 Dirección Jurídica.
+
 1.1.1 Dirección General de Ingresos;
 
 1.1.1.1 (DEROGADO, P.O. 29 DE SEPTIEMBRE DE 2012)
@@ -116,6 +120,18 @@ Al frente de la Secretaría habrá un Titular a quien se le denominará Secretar
 > <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2012)</small>
 
 1.1.1.11 Recaudadora de Rentas en Bacalar.
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2013)</small>
+
+1.1.1.12 Dirección de Recaudación.
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2013)</small>
+
+1.1.1.13 Dirección de Cobranzas
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2013)</small>
+
+1.1.1.14 Dirección de Estrategias Fiscales
 
 1.1.2 Dirección General de Auditoría Fiscal;
 
@@ -457,6 +473,36 @@ XXV. Vigilar el exacto cumplimiento y aplicación de la Ley que establece las ba
 
 XXVI. Las demás disposiciones legales y las que le confiera el Secretario en el ámbito de su competencia.
 
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2013)</small>
+
+###### Artículo 13
+
+Bis. El titular de la Dirección Jurídica tendrá las siguientes facultades:
+
+I. Asesorar al Subsecretario de Ingresos, Director General de Ingresos o sus Unidades Administrativas, respecto a disposiciones fiscales de cualquier materia que se le requiera.
+
+II. Formular y proyectar la actualización permanente de las disposiciones fiscales.
+
+III. Recepcionar, sustanciar procedimientos y proyectar resoluciones derivadas de solicitudes de devolución de pago de lo indebido.
+
+IV. Recepcionar, sustanciar procedimientos y proyectar resoluciones, derivadas de los recursos de inconformidad que se interpongan en contra del Registro Público de la Propiedad y del Comercio del Estado.
+
+V. Tramitar y resolver los asuntos que requieran análisis jurídico de la Subsecretaría de Ingresos y Dirección General de Ingresos.
+
+VI. Formular y proyectar acuerdos y convenios del Poder Ejecutivo que sean responsabilidad de la Secretaría de Hacienda a través de la Subsecretaría de Ingresos y de la Dirección General de Ingresos.
+
+VII. Atender y dar seguimiento a los procedimientos de amparo en que tenga injerencia la Subsecretaría de Ingresos y Direcciones Generales que la integran, en los casos que no cuenten con personal jurídico y aún en este caso, en auxilio.
+
+VIII. Formular y proyectar los lineamientos normativos generales relativos a la operación de las oficinas Recaudadoras de Rentas en el Estado.
+
+IX. Analizar de manera constante las Leyes Fiscales y Reglamentos a fin de proponer las modificaciones correspondientes que faciliten su operatividad.
+
+X. Coordinar los trabajos de presentación ante el Congreso del Estado, relativos a la modificación de las Leyes Fiscales.
+
+XI. Las demás que le sean conferidas por el Secretario de Hacienda, Subsecretario de ingresos y Director General de Ingresos.
+
+Para el cumplimiento de las facultades anteriores, el Titular de la Dirección Jurídica se auxiliará de los Departamentos de su adscripción.
+
 ### CAPÍTULO II. DE LAS FACULTADES DEL TITULAR DE LA DIRECCIÓN GENERAL DE INGRESOS
 
 > <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2012)</small>
@@ -652,6 +698,116 @@ XXIX. Autorizar prórrogas y pagos en parcialidades de contribuciones omitidas, 
 XXX. Cancelar recibos de pago cuando sea procedente, conforme a los lineamientos que emita la Secretaría.
 
 XXXI. Las demás que le señalen otras disposiciones legales y las que le confiera el Secretario, el Subsecretario de Ingresos o el Director General de Ingresos en el ámbito de su competencia.
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2013)</small>
+
+###### Artículo 21
+
+Bis. El Titular de la Dirección de Recaudación tendrá las siguientes facultades:
+
+I. Recepcionar, controlar e informar los ingresos que se reciben de participaciones y fondos federales de aportación y su entero a la Tesorería General, así como conciliar las cuentas bancarias e integrar el soporte contable y reporte ante la Secretaría de Hacienda y Crédito Público.
+
+II. Implementar, actualizar y refrendar contratos con empresas prestadoras de servicios y bancos a través de las cuales se realice el cobro de las contribuciones estatales y federales por coordinación.
+
+III. Proyectar, analizar y definir la Ley de Ingresos del Estado y Programa Operativo anual.
+
+IV. Elaborar reportes estadísticos de recaudación, definir metas ajustadas de recaudación y de programas especiales de regularización.
+
+V. Integrar la contabilidad y Cuenta Comprobada Federal.
+
+VI. Consolidar los servicios en materia de atención a los contribuyentes a través de Bancos, internet y tiendas departamentales o de conveniencia.
+
+VII. Vigilar y controlar los procesos de cobro de contribuciones estatales y federales en oficinas Recaudadoras, apertura de cajas y cierres de oficinas, reportes diarios de recaudación, acciones de registro contable y financiero del ingreso en tiempo real para la armonización contable.
+
+VIII. Controlar y formular estadísticas de los resultados de producción de las áreas de atención al público.
+
+IX. Administrar y vigilar las estadísticas de los padrones de contribuyentes.
+
+X. Las demás que le sean conferidas por el Secretario de Hacienda, Subsecretario de Ingresos y Director General de Ingresos.
+
+Para el cumplimiento de las facultades anteriores, el Titular de la Dirección de Recaudación se auxiliará de los Departamentos de su adscripción.
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2013)</small>
+
+###### Artículo 21
+
+Ter. El titular de la Dirección de Estrategias Fiscales tendrá las siguientes facultades:
+
+I. Implementar técnicas de investigación que permitan obtener información sobre la operación de los grandes contribuyentes.
+
+II. Desarrollar programas y estrategias de trabajo que permitan gravar las operaciones que realicen los grandes contribuyentes y que mediante la planeación fiscal no están siendo considerados.
+
+III. Proponer modificaciones a las leyes fiscales.
+
+IV. Establecer convenios con las demás instancias del Gobierno Federal y Municipal, así como con los sectores de la iniciativa privada para combatir el uso de la información que permita una gestión más efectiva en las acciones de cobro de contribuciones mediante la compulsa y cruce de datos.
+
+V. Proponer las acciones y programas para el uso de la información derivada de los convenios que permitan ejercer un mayor control de fiscalización.
+
+VI. Implementar acciones y generar proyectos que mediante el uso de nuevas tecnologías permitan obtener una mayor presencia fiscal en los contribuyentes, a fin de promover el cumplimiento correcto y oportuno de las obligaciones fiscales.
+
+VII. Verificar y dar seguimiento a la revisión de las declaraciones de los contribuyentes, responsables solidarios y demás obligadas, así como el cumplimiento de sus obligaciones fiscales en materia de impuestos, derechos, productos, aprovechamientos y accesorios de carácter estatal y federal coordinados.
+
+VIII. Dar seguimiento a la confirmación y actualización de padrones de contribuyentes según sus obligaciones (licencias, nómina, hospedaje, vehicular, etc…)
+
+IX. Verificar el análisis y concentración de la información obtenida de los Municipios del Estado, respecto del cobro de los impuestos municipales y coordinados.
+
+X. Las demás que señalen otras disposiciones legales y las que le confiera el Subsecretario de Ingresos o el Director General de Ingresos.
+
+Para el cumplimiento de las facultades anteriores, el Titular de la Dirección de Estrategias Fiscales se auxiliará de los Departamentos de su adscripción.
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2013)</small>
+
+###### Artículo 21
+
+Quater. La Dirección de Cobranza tendrás (sic) las siguientes facultades:
+
+I. Establecer las acciones necesarias para abatir el nivel de morosidad de los padrones fiscales del Estado.
+
+II. Implementar sistemas de control automatizados para vigilar el cumplimiento oportuno de las obligaciones fiscales de los contribuyentes.
+
+III. Coordinar y organizar los trabajos de notificación de los créditos fiscales de contribuciones estatales y federales coordinados.
+
+IV. Imponer las multas a contribuyentes que incurran en infracción a las disposiciones fiscales.
+
+V. Hacer efectivos los créditos fiscales mediante la aplicación del Procedimiento Administrativo de Ejecución.
+
+VI. Realizar las acciones de vigilancia para la incorporación de contribuyentes no registrados en los padrones fiscales.
+
+VII. Efectuar el embargo de bienes o valores con el fin de garantizar créditos fiscales, así como desahogar el procedimiento de remate de dichos bienes.
+
+VIII. Administrar el recinto fiscal de la zona norte del Estado.
+
+IX. Coordinar y dar seguimiento a los reportes de créditos fiscales, efectuados por la Dirección de Ejecución y el Departamento de Control de Obligaciones al Departamento de Procedimiento Administrativo de Ejecución, adscritos a la Recaudadora de Rentas de Benito Juárez del Estado de Quintana Roo, aún cuando no sean exigibles, a cargo de contribuyentes cuyo estatus pudiere advertir como no localizado o probable insolvencia o que presuntamente autogenere actos en fraude de acreedores, para el desahogo de las investigaciones correspondientes que conduzcan al aseguramiento de bienes o negociación o a embargos precautorios o la cancelación o depuración de los créditos fiscales.
+
+X. Rendir informes de sus labores.
+
+XI. Dar seguimiento a las notificaciones de las resoluciones que determinan créditos fiscales, citatorios, requerimientos, solicitud de informes y otros actos administrativos.
+
+XII. Dar seguimiento a la determinación de la responsabilidad solidaria respecto de créditos fiscales de su competencia y hacerlos exigibles mediante la aplicación del Procedimiento Administrativo de Ejecución.
+
+XIII. Dar seguimiento a los trabajos de verificación e inspección a personas que cuenten con la obligación de estar inscritos en el Registro Estatal de Contribuyentes.
+
+XIV. Verificar la actualización del Registro Estatal de Contribuyentes de su circunscripción y los padrones que deriven del mismo.
+
+XV. Dar seguimiento a la depuración del Registro Estatal de Contribuyentes mediante bajas por acuerdo y de no localización del contribuyente previa autorización de la Dirección General de Ingresos.
+
+XVI. Dar seguimiento a la depuración y cancelación de los créditos fiscales a favor del Estado, observando los lineamientos y requisitos señalados por las autoridades competentes.
+
+XVII. Dar seguimiento a los avisos, manifestaciones y demás documentación de los contribuyentes a que obliguen las disposiciones fiscales y conforme a las mismas no deban presentarse ante otras autoridades fiscales.
+
+XVIII. Dar seguimiento y verificar la presentación de declaraciones, avisos y documentos, así como requerir las rectificaciones de errores u omisiones contenidos en las declaraciones, solicitudes, avisos y documentos.
+
+XIX. Verificar la inscripción al Registro Estatal de Contribuyentes y el trámite de las Licencias de funcionamiento correspondiente.
+
+XX. Verificar la orientación de los contribuyentes en su cumplimiento de obligaciones fiscales.
+
+XXI. Dar seguimiento a las consultas que presenten los contribuyentes y público en general en relación a sus obligaciones fiscales.
+
+XXII. Verificar el cumplimiento de las Leyes, Decretos y otros ordenamientos que en materia de ingresos hayan sido emitidos, tanto en el ámbito estatal como federal por coordinación.
+
+XXIII. Verificar la orden de decomiso de bebidas alcohólicas y la suscripción de los acuerdos para su destrucción, en los casos que señale la Ley en la materia y su reglamento.
+
+XXIV. Las demás que le señalen las disposiciones legales y las que le confiera el Subsecretario de Ingresos o el Director General de Ingresos.
 
 ### CAPÍTULO V. DE LAS FACULTADES DEL TITULAR DE LA DIRECCIÓN GENERAL DE AUDITORÍA FISCAL
 
@@ -1743,9 +1899,11 @@ XVI. Coordinar la actualización del Reglamento Interior y los Manuales Administ
 
 XVII. Atender en el ámbito de su competencia, las necesidades de las Unidades Administrativas en materia de espacio físico, adaptaciones, instalaciones, equipamiento y mantenimiento de bienes muebles e inmuebles.
 
-> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 29 DE MARZO DE 2013)</small>
 
-XVIII. Las demás que le señalen otras disposiciones legales y las que le confiera el Secretario en el ámbito de su competencia.
+XVIII. Expedir constancias o certificaciones oficiales relativos al ámbito de su competencia.
+
+XIX. Las demás que le señalen otras disposiciones legales y las que le confiera el Secretario en el ámbito de su competencia.
 
 ## TÍTULO DÉCIMO CUARTO. DE LOS ÓRGANOS DESCONCENTRADOS
 
@@ -1876,6 +2034,12 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se dejan sin efecto todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
 
 P.O. 15 DE OCTUBRE DE 2012.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se dejan sin efecto todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 29 DE MARZO DE 2013.
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
