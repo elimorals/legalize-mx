@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "2013-02-01"
+last_updated: "2013-03-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2013.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -51,21 +51,39 @@ El Estado de Querétaro es parte integrante de la Federación Mexicana, es libre
 
 Son ley suprema en la entidad, las disposiciones que establezcan la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales.
 
-(NOTA: EL 30 DE ABRIL DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y OCTAVO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 89/2009, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 6 DE MAYO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(NOTA: EL 30 DE ABRIL DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y OCTAVO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 89/2009, DECLARÓ LA INVALIDEZ DE LA REFORMA AL ARTÍCULO 2, PUBLICADA EN EL P.O. EL 18 DE SEPTIEMBRE DE 2009, INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE MAYO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 > <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 2.
 
-El Estado garantizará el respeto a la persona y a los derechos humanos, promoverá su defensa y proveerá las condiciones necesarias para su ejercicio.
+EL ESTADO GARANTIZARÁ EL RESPETO A LA PERSONA Y A LOS DERECHOS HUMANOS, PROMOVERÁ SU DEFENSA Y PROVEERÁ LAS CONDICIONES NECESARIAS PARA SU EJERCICIO.
 
-Toda persona gozará de los derechos que establecen la Constitución Política de los Estados Unidos Mexicanos, las leyes federales, los tratados internacionales con aprobación del Senado, esta Constitución y las leyes que de ella emanen.
+(NOTA: EL 30 DE ABRIL DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y OCTAVO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 89/2009, DECLARÓ LA INVALIDEZ DE LA REFORMA AL ARTÍCULO 2, PUBLICADA EN EL P.O. EL 18 DE SEPTIEMBRE DE 2009, INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE MAYO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-Tiene derecho, además, a estar informada y a manifestar libremente sus ideas, sin más límite que lo señalado por la Constitución Política de los Estados Unidos Mexicanos; el derecho de réplica será ejercido en los términos dispuestos por la ley.
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
 
-El Estado de Querétaro reconoce, protege y garantiza el derecho a la vida de todo ser humano, desde el momento de la fecundación, como un bien jurídico tutelado y se le reputa como nacido para todos los efectos legales correspondientes, hasta la muerte. Esta disposición no deroga las excusas absolutorias ya contempladas en la legislación penal.
+TODA PERSONA GOZARÁ DE LOS DERECHOS QUE ESTABLECEN LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, LAS LEYES FEDERALES, LOS TRATADOS INTERNACIONALES CON APROBACIÓN DEL SENADO, ESTA CONSTITUCIÓN Y LAS LEYES QUE DE ELLA EMANEN.
 
-Las autoridades del Estado salvaguardarán el régimen de los derechos y las libertades de todas las personas, por el sólo hecho de encontrarse en el territorio estatal. Los derechos fundamentales no podrán ser limitados o restringidos; en su interpretación se resolverá siempre a favor del gobernado.
+(NOTA: EL 30 DE ABRIL DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y OCTAVO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 89/2009, DECLARÓ LA INVALIDEZ DE LA REFORMA AL ARTÍCULO 2, PUBLICADA EN EL P.O. EL 18 DE SEPTIEMBRE DE 2009, INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE MAYO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
+
+TIENE DERECHO, ADEMÁS, A ESTAR INFORMADA Y A MANIFESTAR LIBREMENTE SUS IDEAS, SIN MÁS LÍMITE QUE LO SEÑALADO POR LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS; EL DERECHO DE RÉPLICA SERÁ EJERCIDO EN LOS TÉRMINOS DISPUESTOS POR LA LEY.
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2013)</small>
+
+La procuración y la administración de justicia en el Estado, se regirá por las disposiciones y principios contenidos en la Constitución Política de los Estados Unidos Mexicanos.
+
+(NOTA: EL 30 DE ABRIL DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y OCTAVO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 89/2009, DECLARÓ LA INVALIDEZ DEL PÁRRAFO QUINTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE MAYO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+EL ESTADO DE QUERÉTARO RECONOCE, PROTEGE Y GARANTIZA EL DERECHO A LA VIDA DE TODO SER HUMANO, DESDE EL MOMENTO DE LA FECUNDACIÓN, COMO UN BIEN JURÍDICO TUTELADO Y SE LE REPUTA COMO NACIDO PARA TODOS LOS EFECTOS LEGALES CORRESPONDIENTES, HASTA LA MUERTE. ESTA DISPOSICIÓN NO DEROGA LAS EXCUSAS ABSOLUTORIAS YA CONTEMPLADAS EN LA LEGISLACIÓN PENAL.
+
+(NOTA: EL 30 DE ABRIL DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y OCTAVO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 89/2009, DECLARÓ LA INVALIDEZ DE LA REFORMA AL ARTÍCULO 2, PUBLICADA EN EL P.O. EL 18 DE SEPTIEMBRE DE 2009, INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE MAYO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2009)</small>
+
+LAS AUTORIDADES DEL ESTADO SALVAGUARDARÁN EL RÉGIMEN DE LOS DERECHOS Y LAS LIBERTADES DE TODAS LAS PERSONAS, POR EL SÓLO HECHO DE ENCONTRARSE EN EL TERRITORIO ESTATAL. LOS DERECHOS FUNDAMENTALES NO PODRÁN SER LIMITADOS O RESTRINGIDOS; EN SU INTERPRETACIÓN SE RESOLVERÁ SIEMPRE A FAVOR DEL GOBERNADO.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -405,7 +423,7 @@ V. Cuando la falta absoluta ocurriera en los últimos tres años del período re
 
 VI. Si al iniciar el período constitucional no se presentara el Gobernador electo o la elección no estuviera hecha o declarada, cesarán las funciones del Gobernador cuyo período haya concluido y se elegirá al Gobernador Interino, procediéndose conforme a la fracción IV de este artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE ENERO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ENERO DE 2010)</small>
 
 ###### ARTÍCULO 22.
 
@@ -479,7 +497,17 @@ Todos los reglamentos, decretos y acuerdos del Gobernador, deberán ser firmados
 
 El Ministerio Público es la institución que tiene por objeto velar por el cumplimiento de las leyes, ejercer las acciones que procedan en contra de quienes las transgredan, hacer efectivos los derechos del Estado e intervenir en los juicios que afecten a las personas a quienes la ley otorga protección. Ejercerán las facultades del Ministerio Público, un Procurador General de Justicia y los Agentes que la ley determine.
 
-Para la investigación de los delitos y persecución de los delincuentes, la Procuraduría General de Justicia contará con un cuerpo policíaco de investigación, que estará bajo el mando directo del Ministerio Público.
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2013)</small>
+
+Tratándose de la comisión de conductas tipificadas como delitos no graves, el Ministerio Público no ejercitará la acción penal cuando la víctima o el ofendido y el imputado hayan conciliado y suscrito un convenio, que ponga fin a la controversia, observando para ello lo que al respecto disponga la ley.
+
+> <small>(ADICIONADO, P.O. 29 DE MARZO DE 2013)</small>
+
+Los particulares también podrán ejercer la acción penal ante la autoridad judicial, en los supuestos que contemple la ley de la materia.
+
+> <small>(REFORMADO, P.O. 29 DE MARZO DE 2013)</small>
+
+Para la investigación de los delitos la Procuraduría General de Justicia contará con un cuerpo policíaco de investigación, el cual contará bajo la conducción y mando de aquélla en el ejercicio de esta función.
 
 > <small>(ADICIONADA, P. O. 31 DE MARZO DE 2008)</small>
 
@@ -507,7 +535,7 @@ Compete al Poder Judicial la facultad de resolver controversias puestas a su con
 
 El Tribunal Superior de Justicia se compondrá cuando menos de doce Magistrados propietarios y ocho supernumerarios, electos para un periodo de tres años y podrán ser reelectos para un periodo inmediato de nueve años más. No se podrá ocupar el cargo como propietario en forma consecutiva, ni discontinua, por más de doce años; al vencimiento de dicho plazo o antes si el Magistrado llega a la edad de setenta años, cesará en sus funciones; tendrá derecho a un haber por retiro y será considerado Magistrado supernumerario. El Tribunal Superior de Justicia tendrá un Presidente, que será el representante legal del Poder Judicial.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCION.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -773,23 +801,23 @@ Dada en el Salón de Sesiones del H. Congreso, en Querétaro, a cuatro de septie
 
 Por tanto, mando se imprima, circule y publique por bando solemne, en todo el Estado, para su debido cumplimiento.- Dado en el Palacio de Gobierno, a nueve de septiembre de mil novecientos diez y siete.- El Gobernador Constitucional, ERNESTO PERUSQUIA.- El Srio. General de Gobierno, Lic. J. RODRIGUEZ DE LA FUENTE.
 
-N. DE E., A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.
+N. DE E., A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
 
 P.O. 9 DE NOVIEMBRE DE 1918
 
-N. DE. E., EL DECRETO DE REFORMAS CITADO CON ANTELACION, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO.
+N. DE. E., EL DECRETO DE REFORMAS CITADO CON ANTELACIÓN, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO.
 
 P.O. 21 DE MAYO DE 1921
 
-N. DE. E., EL DECRETO DE REFORMAS CITADO CON ANTELACION, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO.
+N. DE. E., EL DECRETO DE REFORMAS CITADO CON ANTELACIÓN, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO.
 
 P.O. 30 DE JUNIO DE 1923
 
-N. DE. E., EL DECRETO DE REFORMAS CITADO CON ANTELACION, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO.
+N. DE. E., EL DECRETO DE REFORMAS CITADO CON ANTELACIÓN, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO.
 
 P.O. 22 DE SEPTIEMBRE DE 1923
 
-N. DE. E., EL DECRETO DE REFORMAS CITADO CON ANTELACION, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO.
+N. DE. E., EL DECRETO DE REFORMAS CITADO CON ANTELACIÓN, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO.
 
 P.O. 8 DE DICIEMBRE DE 1927
 
@@ -847,7 +875,7 @@ P.O. 13 DE SEPTIEMBRE DE 1929
 
 P.O. 26 DE DICIEMBRE DE 1929
 
-N. DE. E. EL DECRETO DE REFORMAS CITADO CON ANTELACION, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO.
+N. DE. E. EL DECRETO DE REFORMAS CITADO CON ANTELACIÓN, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO.
 
 P.O. 9 DE ABRIL DE 1931
 
@@ -883,19 +911,19 @@ Todo el personal que integra la Administración de Justicia en el Estado, a exce
 
 P.O. 9 DE MARZO DE 1933
 
-N. DE. E. EL DECRETO DE REFORMAS CITADO CON ANTELACION, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO.
+N. DE. E. EL DECRETO DE REFORMAS CITADO CON ANTELACIÓN, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO.
 
 P.O. 18 DE OCTUBRE DE 1934
 
-N. DE. E., EL DECRETO DE REFORMAS CITADO CON ANTELACION, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO.
+N. DE. E., EL DECRETO DE REFORMAS CITADO CON ANTELACIÓN, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO.
 
 P.O. 11 DE JULIO DE 1935
 
-N. DE. E., EL DECRETO DE REFORMAS CITADO CON ANTELACION, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO.
+N. DE. E., EL DECRETO DE REFORMAS CITADO CON ANTELACIÓN, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO.
 
 P.O. 10 DE OCTUBRE DE 1935
 
-N. DE. E., EL DECRETO DE REFORMAS CITADO CON ANTELACION, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO.
+N. DE. E., EL DECRETO DE REFORMAS CITADO CON ANTELACIÓN, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO.
 
 P.O. 26 DE DICIEMBRE DE 1935
 
@@ -913,7 +941,7 @@ Esta Ley comenzará a surtir sus efectos legales, desde el día de su publicaci�
 
 P.O. 17 DE DICIEMBRE DE 1936
 
-N. DE. E., EL DECRETO DE REFORMAS CITADO CON ANTELACION, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO.
+N. DE. E., EL DECRETO DE REFORMAS CITADO CON ANTELACIÓN, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO.
 
 P.O. 28 DE OCTUBRE DE 1937
 
@@ -923,13 +951,13 @@ II.- La presente Ley entrará en vigor el día primero de noviembre de mil novec
 
 P.O. 23 DE FEBRERO DE 1939
 
-N. DE. E., EL DECRETO DE REFORMAS CITADO CON ANTELACION, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO.
+N. DE. E., EL DECRETO DE REFORMAS CITADO CON ANTELACIÍN, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO.
 
 P.O. 6 DE JULIO DE 1939
 
 ###### ARTICULO PRIMERO.
 
-Los nuevos Municipios tendrán los mismo limites que actualmente tienen como Delegaciones Municipales, y la cabecera de cada uno de ellos, será la población en que actualmente residen los Delegados Municipales.
+Los nuevos Municipios tendrán los mismos límites que actualmente tienen como Delegaciones Municipales, y la cabecera de cada uno de ellos, será la población en que actualmente residen los Delegados Municipales.
 
 ###### ARTICULO SEGUNDO.
 
@@ -1235,13 +1263,13 @@ Las reformas realizadas a los artículos 41 fracciones XV y XXV, 47 y 87 por la 
 
 P.O. 12 DE ENERO DE 2007.
 
-LEY QUE REFORMA LOS ARTICULOS 1, 2, 3, 4, 5, 6, 7, 9, 10, 11 Y 12 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUERETARO DE ARTEAGA.
+LEY QUE REFORMA LOS ARTÍCULOS 1, 2, 3, 4, 5, 6, 7, 9, 10, 11 Y 12 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO DE ARTEAGA.
 
 ÚNICO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 P.O. 12 DE ENERO DE 2007.
 
-LEY QUE REFORMA Y ADICIONA DIVERSOS ARTICULOS DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUERETARO DE ARTEAGA
+LEY QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO DE ARTEAGA
 
 ÚNICO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
@@ -1366,3 +1394,11 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su pub
 Artículo Segundo. Se derogan todas las disposiciones legales (sic) igual o menor jerarquía que se opongan a la presente Ley.
 
 Artículo Tercero. Dentro de los 30 días naturales siguientes al inicio de vigencia de la presente Ley, el Poder Ejecutivo del Estado, en coordinación con los Municipios respectivos, realizarán los actos conducentes a efecto de actualizar los datos del Registro previsto en la Ley de Deuda Pública del Estado de Querétaro. La información que contendrá el mencionado registro público deberá incluir todas las operaciones vigentes que conforme al concepto reformado de deuda pública sean considerados como tales independientemente de si en su origen se les dio tal carácter o no. Asimismo, la información deberá contener todas las enajenaciones, gravámenes y afectaciones vigentes de ingresos o derechos que hayan otorgado el Estado y los municipios en cualesquier operación financiera o de deuda pública.
+
+P.O. 29 DE MARZO DE 2013.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+Artículo Tercero. Atendiendo al criterio de gradualidad a que se refiere el segundo párrafo del Artículo Transitorio Segundo del Decreto de fecha 18 de junio de 2008, que reformó la Constitución Política de los Estados Unidos Mexicanos, la legislación secundaria adoptará la modalidad regional en que entrará en vigor el nuevo sistema de justicia penal y su gradualidad en los distritos judiciales en que se divide el Estado de Querétaro.
