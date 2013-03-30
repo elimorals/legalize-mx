@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-de-la-secretaria-de-comunicaciones-y-62027"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-06-18"
-last_updated: "2009-11-11"
+last_updated: "2013-03-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62027&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE COMUNICACIONES Y TRANSPORTES
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE TABASCO
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE COMUNICACIONES Y TRANSPORTES DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE NOVIEMBRE DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÁ DE COMUNICACIONES Y TRANSPORTES, PUBLICADO EN EL P.O. DE 30 DE MARZO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Tabasco, el miércoles 18 de junio de 2008.
 
@@ -903,7 +905,7 @@ VI. Participar con instructores en la implementación de los programas de capaci
 
 VII. Validar los expedientes de los solicitantes a conductores de vehículos del servicio público de transporte, con la documentación relativa al acreditamiento de participación en cursos de capacitación y exámenes médicos practicados, así como los dictámenes para la obtención de gafetes.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE NOVIEMBRE DE 2009)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE NOVIEMBRE DE 2009)</small>
 
 #### SECCIÓN V. DE LA DIRECCIÓN GENERAL TÉCNICA Y DE MODERNIZACIÓN, Y DE LA DIRECCIÓN DE ESTUDIOS TÉCNICOS Y DESARROLLO DE PROYECTOS DE MODERNIZACIÓN
 
@@ -1039,7 +1041,7 @@ XI. Hacer del conocimiento del Secretario, los hallazgos y observaciones de la r
 
 XII. Promover y difundir actividades de enseñanza y divulgación relacionadas con el Registro Estatal de Comunicaciones y Transportes, así como también adoptar mecanismos que coadyuven a la implementación de la tecnología de información del archivo documental.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE NOVIEMBRE DE 2009)</small>
 
 ### CAPÍTULO V. DE LA DIRECCIÓN OPERATIVA
 
@@ -1163,7 +1165,7 @@ SECRETARIO DE COMUNICACIONES
 
 Y TRANSPORTES.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 11 DE NOVIEMBRE DE 2009.
 
@@ -1174,3 +1176,13 @@ Las presentes reformas, adiciones y derogaciones entrarán en vigor al día sigu
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Acuerdo.
+
+P.O. 30 DE MARZO DE 2013.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría de Comunicaciones y Transportes, publicado en el Periódico Oficial número 6864 Suplemento "G", de fecha 18 de junio de 2008.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Reglamento.
+
+CUARTO. En tanto se realizan las adecuaciones a los manuales de organización y procedimientos, el Secretario quedará facultado para resolver sobre cuestiones de aplicación del presente reglamento.
