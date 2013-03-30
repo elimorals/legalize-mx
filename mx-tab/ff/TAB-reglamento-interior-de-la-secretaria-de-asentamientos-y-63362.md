@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-de-la-secretaria-de-asentamientos-y-63362"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-09-10"
-last_updated: "2012-10-20"
+last_updated: "2013-03-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63362&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAB"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE ASENTAMIENTOS Y OBRAS PÚBLICAS DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE ORDENAMIENTO TERRITORIAL Y OBRAS PÚBLICAS, PUBLICADO EN EL P.O. DE 30 DE MARZO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 10 de septiembre de 2008.
 
@@ -1143,7 +1145,7 @@ ING. HÉCTOR MANUEL LÓPEZ PERALTA
 
 SECRETARIO DE ASENTAMIENTOS Y OBRAS PÚBLICAS
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 22 DE SEPTIEMBRE DE 2010.
 
@@ -1156,3 +1158,15 @@ P.O. 20 DE OCTUBRE DE 2012.
 PRIMERO. Las presentes adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
+
+P.O. 30 DE MARZO DE 2013.
+
+PRIMERO. El presente Reglamento entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abrogan el Reglamento de la Secretaría de Asentamientos y Obras Públicas, publicado suplemento (sic) "C" al Periódico Oficial numero 6888 de fecha 10 de septiembre de 2008.
+
+TERCERO. Los asuntos pendientes al entrar en vigor este Reglamento, que conforme al mismo deban pasar de una Unidad Administrativa a otra, continuarán su trámite y serán resueltos por aquella o aquellas a las que se le haya otorgado la competencia en este Reglamento.
+
+CUARTO. Cuando en este Reglamento se dé una denominación nueva o distinta a alguna unidad o dirección establecida con anterioridad a la vigencia del mismo, aquella atenderá los asuntos a que se refiere este ordenamiento.
+
+QUINTO. En tanto no se expidan los manuales que este reglamento menciona, el Secretario queda facultado para resolver las cuestiones que conforme a los mismos se deban regular.
