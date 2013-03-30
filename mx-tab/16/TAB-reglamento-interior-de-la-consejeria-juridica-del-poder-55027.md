@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-de-la-consejeria-juridica-del-poder-55027"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-01-06"
-last_updated: "2010-06-26"
+last_updated: "2013-03-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55027&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # REGLAMENTO INTERIOR DE LA CONSEJERIA JURIDICA DEL PODER EJECUTIVO DEL ESTADO DE TABASCO
 
-REGLAMENTO INTERIOR DE LA CONSEJERIA JURIDICA DEL PODER EJECUTIVO DEL ESTADO DE TABASCO
+REGLAMENTO INTERIOR DE LA CONSEJERÍA JURÍDICA DEL PODER EJECUTIVO DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JUNIO DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA COORDINACIÓN GENERAL DE ASUNTOS JURÍDICOS, PUBLICADO EN EL P.O. DE 30 DE MARZO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 6 de enero de 2007.
 
@@ -816,3 +818,11 @@ P.O. 26 DE JUNIO DE 2010.
 PRIMERO. Las presentes reformas, adiciones y derogaciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. En tanto se expiden los manuales respectivos, el Consejero queda facultado para resolver las cuestiones de la aplicación de este ordenamiento legal para fines del orden administrativo.
+
+P.O. 30 DE MARZO DE 2013.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Consejería Jurídica del Poder Ejecutivo del Estado de Tabasco, publicado en el Periódico Oficial número 6713 Suplemento "E", de fecha 6 de enero de 2007.
+
+TERCERO. En tanto se expiden los manuales respectivos, el Coordinador queda facultado para resolver las cuestiones de la aplicación de este ordenamiento legal para fines del orden administrativo.
