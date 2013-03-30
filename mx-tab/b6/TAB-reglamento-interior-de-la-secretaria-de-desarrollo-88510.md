@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-de-la-secretaria-de-desarrollo-88510"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-06-06"
-last_updated: "2012-06-06"
+last_updated: "2013-03-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88510&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAB"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO AGROPECUARIO, FORESTAL Y PESCA DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO AGROPECUARIO, FORESTAL Y PESQUERO, PUBLICADO EN EL P.O. DE 30 DE MARZO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Suplemento al Periódico Oficial del Estado de Tabasco, el miércoles 6 de junio de 2012.
 
@@ -1042,3 +1044,15 @@ CONSEJERO JURÍDICO DEL PODER EJECUTIVO.
 ING. IGNACIO DE JESÚS LASTRA MARÍN
 
 SECRETARIO DE DESARROLLO AGROPECUARIO, FORESTAL Y PESCA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE MARZO DE 2013.
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría de Desarrollo Agropecuario, Forestal y Pesca, publicado en el Suplemento "B" al Periódico Oficial del Estado número 7278, de fecha 6 de junio de 2012, y se derogan todas las disposiciones que se opongan al presente Reglamento.
+
+TERCERO. Los asuntos que con motivo de este Reglamento deban transferirse de una unidad administrativa a otra, serán resueltos por la unidad administrativa competente conforme a las disposiciones del presente Reglamento.
+
+CUARTO. Para su mejor funcionamiento, las unidades administrativas u órganos deberán formular sus respectivos manuales de organización y en tanto no se expidan, en caso de duda sobre su interpretación, el Secretario resolverá lo conducente.
