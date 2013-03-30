@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-de-la-secretaria-de-recursos-naturales-6336
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-09-03"
-last_updated: "2012-08-25"
+last_updated: "2013-03-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAB"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE RECURSOS NATURALES Y PROTECCIÓN AMBIENTAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE ENERGÍA, RECURSOS NATURALES Y PROTECCIÓN AMBIENTAL, PUBLICADO EN EL P.O. DE 30 DE MARZO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 3 de septiembre de 2008.
 
@@ -1409,8 +1411,20 @@ PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicaci
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
 
-P.O. 25 DE AGOSTO DE 2012
+P.O. 25 DE AGOSTO DE 2012.
 
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
+
+P.O. 30 DE MARZO DE 2013.
+
+PRIMERO. El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría de Recursos Naturales y Protección Ambiental, publicado en Suplemento 6886 en el periódico oficial de fecha 03 de septiembre del 2008 y en consecuencia todas sus reformas.
+
+TERCERO. Para su mejor funcionamiento, las unidades administrativas deberán formular sus respectivos Manuales de Organización y de Procedimientos con base a su competencia.
+
+CUARTO. En tanto se expiden los manuales correspondientes el Titular queda facultando para resolver cualquier asunto con la aplicación de este ordenamiento legal para fines del orden administrativo.
+
+QUINTO. Se derogan todas las disposiciones jurídicas administrativas que se opongan al presente Reglamento Interior.
