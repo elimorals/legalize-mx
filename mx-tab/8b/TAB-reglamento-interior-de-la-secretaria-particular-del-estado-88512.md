@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-de-la-secretaria-particular-del-estado-8851
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-06-20"
-last_updated: "2012-06-20"
+last_updated: "2013-03-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88512&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA PARTICULAR DEL ESTADO DE TABASCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA PARTICULAR DEL ESTADO DE TABASCO, PUBLICADO EN EL PERIÓDICO OFICIAL DE 30 DE MARZO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA PARTICULAR DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2013 (ABROGADO).
 
 Reglamento publicado en el Suplemento H del Periódico Oficial del Estado de Tabasco, el miércoles 20 de junio de 2012.
 
@@ -850,3 +852,15 @@ CONSEJERO JURÍDICO DEL PODER EJECUTIVO.
 C. SANTOS DEL CAMPO GARCÍA
 
 SECRETARIO PARTICULAR.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO]</small>
+
+P.O. 30 DE MARZO DE 2013.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA PARTICULAR”.]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Secretaría Particular de la Gubernatura del Estado de Tabasco, publicado en el Periódico Oficial número 7282 Suplemento "H", de fecha 20 de junio de 2012.
+
+TERCERO. En tanto se expiden los manuales respectivos, el Secretario queda facultado para resolver las cuestiones de la aplicación de este ordenamiento legal para fines del orden administrativo.
