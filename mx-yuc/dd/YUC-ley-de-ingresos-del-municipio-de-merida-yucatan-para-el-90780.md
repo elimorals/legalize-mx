@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-ingresos-del-municipio-de-merida-yucatan-para-el-90780"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2012-12-28"
-last_updated: "2012-12-28"
+last_updated: "2013-03-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90780&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE INGRESOS DEL MUNICIPIO DE MÉRIDA, YUCATÁN, PARA EL EJERCICIO FISCAL 2013
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE MARZO DE 2013.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el viernes 28 de diciembre de 2012.
 
@@ -275,7 +275,15 @@ TOTAL APORTACIONES: $ 592,097,565.00
 
 El Municipio percibirá Ingresos Extraordinarios derivados de:
 
-I. Empréstitos. $ 0.00
+> <small>(REFORMADA, D.O. 30 DE MARZO DE 2013)</small>
+
+I. Empréstitos. $ 150,000,000.00
+
+Para el ejercicio fiscal 2013 el monto
+
+máximo de endeudamiento neto
+
+adicional será de $126,989,535.44
 
 II. Los recibidos del Estado y la Federación
 
@@ -303,11 +311,15 @@ IX. Por subsidios de organismos públicos y privados. $ 0.00
 
 X. Otros ingresos no especificados $ 0.00
 
-TOTAL INGRESOS EXTRAORDINARIOS: $ 33,439,231.00
+> <small>(REFORMADO, D.O. 30 DE MARZO DE 2013)</small>
+
+TOTAL INGRESOS EXTRAORDINARIOS: $ 183,439,231.00
+
+> <small>(REFORMADO, D.O. 30 DE MARZO DE 2013)</small>
 
 ###### Artículo 13.
 
-El Total de Ingresos para el Ejercicio Fiscal 2013 será de $ 2´008,421,795.00 son: dos mil ocho millones, cuatrocientos veintiún mil setecientos noventa y cinco pesos 00/100 Moneda Nacional.
+El total de ingresos para el ejercicio fiscal 2013 será de $ 2,158,421,795.00 (Dos mil ciento cincuenta y ocho millones cuatrocientos veintiún mil setecientos noventa y cinco pesos 00/100 m.n.).
 
 ###### Artículo 14.
 
@@ -400,3 +412,11 @@ SECRETARIO DE PLANEACIÓN Y PRESUPUESTO
 C. MIGUEL ANTONIO FERNÁNDEZ VARGAS
 
 SECRETARIO DE LA CONTRALORÍA GENERAL
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O. 30 DE MARZO DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+Este Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
