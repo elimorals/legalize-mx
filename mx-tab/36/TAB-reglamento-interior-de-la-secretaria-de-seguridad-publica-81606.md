@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-de-la-secretaria-de-seguridad-publica-81606
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-03-05"
-last_updated: "2011-08-13"
+last_updated: "2013-03-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81606&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "TAB"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 13 DE AGOSTO DE 2011.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2013.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 5 de marzo de 2011.
 
@@ -81,7 +79,7 @@ Para el despacho de los asuntos de su competencia, la Secretaría, contará con 
 
 1.8. Colegio de Policía y Tránsito
 
-1.9. Dirección General de Protección Civil
+1.9. (DEROGADO, P.O. 30 DE MARZO DE 2013)
 
 1.9.1. Dirección Operativa y Apoyo a la Población
 
@@ -169,15 +167,21 @@ Para desempeñar los cargos de subcoordinadores jefes de departamento y demás c
 
 Son facultades del Secretario:
 
-I. Intervenir en el marco del Sistema Estatal de Seguridad Pública, del Sistema Estatal de Protección Civil, y de las leyes aplicables, en lo concerniente a las materias de Seguridad Pública, prevención y reinserción social, protección civil, tránsito y vialidad del Estado;
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2013)</small>
+
+I. Intervenir en el marco del, Sistema Estatal de Seguridad Pública y de las leyes aplicables, en lo concerniente a las materias de Seguridad Pública, prevención y reinserción social, tránsito y vialidad del Estado;
 
 II. Ejercer el mando bajo las órdenes del Gobernador y proveer los servicios de seguridad pública en todo el territorio del Estado;
 
 III. Participar, en el marco del Sistema Estatal de Seguridad Pública, en las acciones de coordinación de los diversos cuerpos de seguridad pública, de tránsito y de los cuerpos auxiliares, en los niveles federal, estatal y municipal, conforme a la legislación aplicable y a los convenios y acuerdos en la materia, a fin de prevenir y combatir la delincuencia organizada, sistemática o circunstancial;
 
-IV. Coordinarse, y en su caso, celebrar convenios o acuerdos con las dependencias y entidades de la administración pública, federal, estatal y municipal, que tengan injerencia en los rubros de Seguridad Pública, prevención del delito, reinserción social, protección civil y tránsito del Estado;
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2013)</small>
 
-V. Formular y conducir en los términos de las disposiciones aplicables, las políticas relativas a seguridad pública, prevención y reinserción social, protección civil y tránsito del Estado;
+IV. Coordinarse, y en su caso, celebrar convenios o acuerdos con las dependencias y entidades de la administración pública, federal, estatal y municipal, que tengan injerencia en los rubros de Seguridad Pública, prevención del delito, reinserción social y tránsito del Estado;
+
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2013)</small>
+
+V. Formular y conducir en los términos de las disposiciones aplicables, las políticas relativas a seguridad pública, prevención y reinserción social y tránsito del Estado;
 
 VI. Expedir, suspender, revocar o cancelar la licencia o permiso de manejo a persona determinada, a través de la Dirección General de la Policía Estatal de Caminos, acorde a las disposiciones legales y reglamentarias en la materia;
 
@@ -209,13 +213,13 @@ XIX. Cumplir y hacer cumplir los reglamentos, acuerdos, órdenes, circulares y d
 
 XX. Proveer la vigilancia que en materia electoral le señalen las leyes aplicables, así como intervenir en términos de los convenios y acuerdos que para este efecto se celebren;
 
-XXI. Proponer, ejecutar y mantener actualizado el Programa Estatal de Protección Civil y conducir el sistema estatal en dicha materia;
+XXI. (DEROGADA, P.O. 30 DE MARZO DE 2013)
 
-XXII. Realizar y difundir programas de orientación y capacitación a los habitantes del Estado, en forma previa, durante y después de una emergencia. Así mismo elaborar, operar, evaluar y actualizar el Atlas de Riesgo y el Registro Estadístico Único de Situaciones de Emergencia, en materia de protección civil;
+XXII. (DEROGADA, P.O. 30 DE MARZO DE 2013)
 
 XXIII. Brindar seguridad y protección física de las personas así como sus bienes, procurando que sus actividades se desarrollen dentro de los límites de respeto a la vida privada, la paz y la moral pública;
 
-XXIV. Coordinar las acciones del cuerpo de bomberos y de los cuerpos de auxilio y de rescate en los términos de los reglamentos respectivos;
+XXIV. (DEROGADA, P.O. 30 DE MARZO DE 2013)
 
 XXV. Aprobar políticas y lineamientos conforme los cuales deberán prestarse las funciones de vigilancia, protección de los bienes y valores de los sectores bancarios, comerciales, empresariales e industriales, así como de dependencias y entidades públicas, ubicados en el Estado de Tabasco;
 
@@ -247,9 +251,11 @@ XXXVIII. Participar en su caso, en forma concurrente con la administración púb
 
 XXXIX. Colaborar con las autoridades federales, en los términos de las leyes relativas y los convenios que se celebren, en materia de: detonantes y pirotecnia, portación de armas, migración, prevención, y reinserción social;
 
-XL. Atender, oportuna y eficazmente, las denuncias y quejas ciudadanas con relación al ejercicio de sus atribuciones, y fomentar la participación ciudadana en los programas estatales de seguridad pública, prevención y reinserción social, protección civil y tránsito del estado;
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2013)</small>
 
-XLI. Participar en los términos de la normatividad aplicable en el Consejo de Protección Civil de Tabasco y representar a la Entidad, bajo la sujeción de las directrices del Gobernador, ante toda clase de autoridades e instituciones, nacionales e internacionales, en materia de protección civil;
+XL. Atender, oportuna y eficazmente, las denuncias y quejas ciudadanas con relación al ejercicio de sus atribuciones, y fomentar la participación ciudadana en los programas estatales de seguridad pública, prevención y reinserción social y tránsito del Estado;
+
+XLI. (DEROGADA, P.O. 30 DE MARZO DE 2013)
 
 XLII. Establecer la organización interna de la Secretaría y adscribir orgánicamente sus unidades administrativas;
 
@@ -281,7 +287,9 @@ A los Directores Generales, les corresponden las funciones genéricas siguientes
 
 I. Planear, programar, organizar, dirigir, controlar y evaluar el desempeño de las funciones de las áreas administrativas a su cargo;
 
-II. Ejecutar, dirigir y controlar en la esfera de su competencia y por acuerdo de la superioridad, las acciones de Seguridad Pública, Protección Civil, Prevención del Delito y Reinserción Social, que les corresponda, en los términos de lo dispuesto por la Ley Orgánica del Poder Ejecutivo del Estado, la Ley, este Reglamento y demás disposiciones legales aplicables;
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2013)</small>
+
+II. Ejecutar, dirigir y controlar en la esfera de su competencia y por acuerdo de la superioridad, las acciones de Seguridad Pública, Prevención del Delito y Reinserción Social, que les corresponda, en los términos de lo dispuesto por la Ley Orgánica del Poder Ejecutivo del Estado, la Ley, este Reglamento y demás disposiciones legales aplicables;
 
 III. Emitir los dictámenes, opiniones e informes que les sean solicitados por el Secretario;
 
@@ -409,7 +417,9 @@ III. Difundir los resultados de los programas y actividades de la Secretaría, e
 
 IV. Proponer y coordinar las campañas de difusión de las diferentes áreas que conforman la Secretaría para integrar los programas de información, difusión y relaciones públicas y solicitar la difusión de las mismas a la Coordinación General de Comunicación Social y Relaciones Públicas del Gobierno del Estado;
 
-V. Mantener informada a la ciudadanía de los dispositivos de Seguridad Pública y de Protección Civil implementados por la Secretaría;
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2013)</small>
+
+V. Mantener informada a la ciudadanía de los dispositivos de Seguridad Pública implementados por la Secretaria;
 
 VI. Formular y someter a consideración del Secretario el proyecto anual de presupuesto de la unidad y gestionar su aprobación ante las unidades normativas;
 
@@ -669,7 +679,7 @@ II. Determinar los criterios técnicos y de homologación de los registros y bas
 
 III. Evaluar y validar cualquier desarrollo de software que implique la creación de una base de datos;
 
-IV. Proponer y someter a consideración del Secretario, el proyecto anual del “Fondo de Aportaciones para la Seguridad Pública del Estado” (FASP) en el eje “Plataforma México” en coordinación con la Dirección de Planeación y Desarrollo Corporativo;
+IV. Proponer y someter a consideración del Secretario, el proyecto anual del "Fondo de Aportaciones para la Seguridad Pública del Estado" (FASP) en el eje "Plataforma México" en coordinación con la Dirección de Planeación y Desarrollo Corporativo;
 
 V. Realizar los trámites necesarios ante la Dirección General de Administración, para el mantenimiento, conservación rehabilitación, reparación y aprovechamiento de la infraestructura de comunicación, subcentros, casetas de repetición diseminadas en el Estado de Tabasco, y efectuar las gestiones necesarias para mantener la prestación de los servicios;
 
@@ -697,7 +707,9 @@ XVI. Coadyuvar en el fortalecimiento de la seguridad, estableciendo los procedim
 
 XVII. Planear, proponer y administrar la infraestructura y herramientas adecuadas para el Gobierno del Estado, en la atención de las llamadas telefónicas de emergencia y denuncia anónima reportadas por la población;
 
-XVIII. Establecer y avaluar (sic) los procesos de monitoreo, control, administración y seguimiento que permitan a las Instituciones de Seguridad Pública, Procuración de Justicia, Asistencia Social y Protección Civil, realizar su trabajo de forma más sencilla y eficaz;
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2013)</small>
+
+XVIII. Establecer y avaluar los procesos de monitoreo, control, administración y seguimiento que permitan a las instituciones de Seguridad Pública, Procuración de Justicia y Asistencia Social, realizar su trabajo de forma más sencilla y eficaz;
 
 XIX. Proporcionar a las distintas áreas de la Secretaría, así como a las diversas Instituciones de Seguridad Pública, estadísticas del sistema de recepción de llamadas sobre el tipo de incidencias;
 
@@ -819,249 +831,19 @@ XLII. Las demás que establezcan las disposiciones legales aplicables.
 
 ###### ARTÍCULO 28.
 
-Corresponde a la Dirección General de Protección Civil las siguientes funciones:
-
-I. Fungir como Coordinador General del Consejo Estatal de Protección Civil;
-
-II. Proponer al Coordinador General de las comisiones de fenómenos hidrometeorológicos y de fenómenos químicos;
-
-III. Diseñar el Programa Estatal de Protección Civil en acuerdo con el Secretario;
-
-IV. Coordinar la elaboración de las Normas Básicas de Protección Civil y de los programas internos, que contendrán las directrices esenciales para la elaboración de los planes territoriales y especiales;
-
-V. Identificar y diagnosticar los riesgos a los que está expuesta la entidad federativa y elaborar el Atlas Estatal de Riesgos, actualizado e identificando las zonas de alto riesgo;
-
-VI. Establecer el catálogo de las actividades de todo orden que se deben realizar en una situación de emergencia, así como de los centros, establecimientos y dependencias en que aquellas se realicen;
-
-VII. Con base en los acuerdos que celebre con las dependencias federales competentes, llevar un control sobre las empresas que, dentro del territorio del estado, realicen actividades con materiales peligrosos, con el fin de verificar que operen las unidades internas, para coordinar las acciones de prevención y rescate;
-
-VIII. Diseñar modelos formativos y elaborar soportes didácticos susceptibles de ser adaptados por las diferentes administraciones públicas;
-
-IX. Establecer las directrices generales y sustantivas para regular la autoprotección;
-
-X. Elaborar y establecer el Sistema Informático de Protección Civil fundamentado en la creación de una base de datos de ámbito estatal;
-
-XI. Establecer la operación de redes de comunicación disponibles en situaciones de normalidad para asegurar la eficacia de las mismas en situaciones de emergencia o desastre;
-
-XII. Proponer al Gobernador en coordinación con la Consejería Jurídica del Poder Ejecutivo la emisión de las declaratorias de emergencia en el ámbito estatal y activar los correspondientes Planes de Protección Civil;
-
-XIII. Dirigir y coordinar las acciones y los medios de ejecución de los Planes de Protección Civil;
-
-XIV. Instrumentar mecanismos de seguimiento y auto evaluación del Programa Estatal de Protección Civil e informar al Consejo Estatal sobre su funcionamiento y avance;
-
-XV. Promover la participación, integración y registro de las organizaciones voluntarias al Sistema Estatal de Protección Civil;
-
-XVI. Coordinar con carácter general la intervención de las fuerzas y cuerpos de seguridad y solicitar al Gobernador la colaboración de las fuerzas armadas;
-
-XVII. Participar en forma coordinada con las dependencias federales, estatales y municipales, así como con las instituciones privadas y del sector social, en la aplicación y distribución de la ayuda que se reciba en caso de alto riesgo, siniestro o desastre;
-
-XVIII. Promover el equipamiento de los cuerpos de respuesta;
-
-XIX. Diseñar en coordinación con la Dirección General de Administración el proyecto del presupuesto para el funcionamiento del Sistema Estatal de Protección Civil;
-
-XX. Administrar las instalaciones, equipos y materiales necesarios para el eficaz funcionamiento de la Dirección General, los cuales serán proporcionados por el gobierno del Estado, por dependencias o personas físicas o jurídicas, a través de los contratos y convenios que celebre para su adquisición o utilización;
-
-XXI. Presentar un informe anual; y
-
-XXII. Las demás que le confiera el Secretario.
+(DEROGADO, P.O. 30 DE MARZO DE 2013)
 
 ###### ARTÍCULO 29.
 
-Corresponde a la Dirección Operativa y Apoyo a la Población, el ejercicio de las siguientes atribuciones:
-
-I. Elaborar el proyecto del programa preventivo anual y presentarlo al Director General para su autorización; el cual deberá contener: Programa de Prevención y Auxilio para Fenómenos Hidrometeorológicos, Químicos, Sanitarios, Geológicos y Socio-Organizativos;
-
-II. Identificar los riesgos que se presentan en la entidad para integrar y actualizar el Atlas Estatal de Riesgos;
-
-III. Establecer y ejecutar los subprogramas básicos de prevención, auxilio y recuperación, restablecimiento y refugios temporales;
-
-IV. Elaborar y mantener actualizado el catálogo de recursos humanos y materiales de las dependencias del Sistema Estatal de Protección Civil, necesarios para ser utilizados en casos de emergencias, verificar su existencia y coordinar su utilización;
-
-V. Celebrar acuerdos para utilizar los recursos a que se refiera la fracción anterior;
-
-VI. Establecer y operar los centros de acopio para recibir y administrar ayuda a la población afectada por un siniestro o desastre;
-
-VII. En el ámbito de su competencia, practicar inspecciones de medidas de seguridad en inmuebles, a fin de vigilar el cumplimiento de las disposiciones estatales en materia de protección civil;
-
-VIII. Elaborar las supervisiones para determinar la posible causalidad que servirán de apoyo para programas preventivos y dictámenes en materia de protección civil;
-
-IX. Ejercer la inspección y vigilancia, para los efectos a que se refiere la fracción I del presente artículo, de los bienes muebles e inmuebles siguientes:
-
-a) Viviendas para cinco familias o más y edificaciones con habitaciones colectivas para más de veinte personas, como asilos, conventos, internados, fraternidades, hoteles, moteles, campamentos turísticos y centros vacacionales;
-
-b) Escuelas y centros de estudio superiores en general;
-
-c) Hospitales, maternidades, centros médicos, clínicas y puestos de socorro;
-
-d) Cinemas, teatros, auditorios, gimnasios, estadios, arenas, autódromos, plazas de toros, hipódromos y velódromos;
-
-e) Parques, plazas, centros o clubes sociales o deportivos y balnearios;
-
-f) Casinos, centros nocturnos, bares, discotecas o salones de baile;
-
-g) Museos, galerías de arte, centros de exposición, salas de conferencias y bibliotecas;
-
-h) Edificios destinados al culto religioso;
-
-i) Centros comerciales, supermercados, tiendas de departamentos y mercados;
-
-j) Oficinas de la administración pública estatal, incluyendo las correspondientes a organismos descentralizados y concesionarios de servicios públicos, así como las dedicadas a oficinas de administración privada, de profesionales, de la industria, de la banca y del comercio;
-
-k) Centrales y delegaciones de policía, centros penitenciarios, y demás edificios e instalaciones destinados a proporcionar y preservar la seguridad pública;
-
-l) Industrias, talleres y bodegas;
-
-m) Rastros de semovientes y aves, empacadoras, granjas para ganadería, porcicultura, avicultura, cunicultura y apicultura;
-
-n) Terminales y estaciones de ferrocarriles, de transportes de carga, de transportes de pasajeros urbanos y foráneos y aeropuertos;
-
-o) Edificios para estacionamiento de vehículos;
-
-p) Instalaciones destinadas a la exploración, producción, refinación y transformación de productos petroquímicos de la industria petrolera; y
-
-q) Otros establecimientos que por sus características y magnitud sean similares a los mencionados en los incisos anteriores.
-
-X. Elaborar y operar los planes y programas básicos de prevención, auxilio y apoyo ante la eventualidad de: frentes fríos; incendios forestales, inundaciones, huracanes, derrame de hidrocarburos e incendios en gasolineras; fugas y explosiones en gaseras, fenómenos sanitarios, fenómenos geológicos, y fenómenos socio-organizativos;
-
-XI. Supervisar y coordinar la administración de emergencias para el restablecimiento de la población afectada y el entorno;
-
-XII. Elaborar un programa calendarizado para supervisar e inspeccionar plantas almacenadoras de gas LP, transportes y depósitos en el Estado, en lo que se refiere al cumplimiento de las normas de seguridad, así como de sus respectivos planes de contingencias;
-
-XIII. Elaborar un programa calendarizado con el fin de supervisar las gasolineras y expendios en el Estado, en lo relativo a su implementación e instalación de equipo de seguridad, así como sus respectivos planes de contingencias y delegar la ejecución a la dependencia respectiva;
-
-XIV. Elaborar un programa calendarizado para detectar, supervisar y actualizar la relación de refugios y albergues; urbanos y rurales, así como su señalización;
-
-XV. Elaborar e implantar medidas de prevención para cada tipo de emergencia, de acuerdo al riesgo potencial de los inmuebles existentes en el Estado,
-
-XVI. Recomendar los equipos de seguridad que deben ser instalados en los inmuebles existentes en la entidad, para casos de emergencia o para las Unidades Internas de Protección Civil;
-
-XVII. Verificar la aplicación de la Norma Oficial Mexicana en materia de señales de protección civil;
-
-XVIII. Elaborar el manual sobre normas de seguridad para cada tipo de riesgo;
-
-XIX. Definir las áreas o zonas de seguridad en todos los inmuebles de las dependencias de los diferentes sectores;
-
-XX. Supervisar las fábricas, industrias, empresas y todo tipo de establecimientos de servicio público en lo referente a instalaciones y equipos de seguridad;
-
-XXI. En coordinación con la autoridad responsable, vigilar las acciones de inspección y supervisión preestablecidas con el fin de que los inmuebles que ocupan hoteles, moteles, tortillerías, mercados, molinos, panaderías y todo tipo de establecimientos de servicio al público, cumplan con lo relativo a la señalización, uso y manejo de gas LP y con todas las medidas de seguridad que exige la ley;
-
-XXII. Coordinar con las autoridades municipales los eventos de concurrencia masiva de personas en lo referente a medidas de prevención y seguridad;
-
-XXIII. Elaborar e implementar el Programa de Capacitación de Protección Civil;
-
-XXIV. Diseñar y proponer las directrices generales y sustantivas para regular la autoprotección;
-
-XXV. Realizar eventos de capacitación en los cuales se proporcionen conocimientos básicos que permitan el aprendizaje de conductas de autoprotección;
-
-XXVI. Promover, en los medios de comunicación campañas permanentes de difusión sobre temas de protección civil que contribuyan a avanzar en la conformación de la cultura de autoprotección y prevención;
-
-XXVII. Fomentar la integración de las unidades internas de protección civil en las dependencias y organismos de las dependencias del gobierno federal ubicadas en el Estado, en las instituciones de la administración pública estatal y municipal, así como de los sectores privado y social, y vigilar su operación;
-
-XXVIII. Proporcionar información, dar asesoría a las empresas, instituciones, organismos y asociaciones privadas y del sector social, para integrar sus unidades internas y promover su participación en las acciones de protección civil;
-
-XXIX. Verificar y concertar el cumplimiento de la elaboración los (sic) avisos y alertas para conocimiento de las directivas del Consejo Estatal de Protección Civil, así como del conocimiento de la ciudadanía en general por medio de los diferentes medios de comunicación;
-
-XXX. Establecer, fomentar y encauzar una nueva actitud, conciencia y cultura de la población ante la protección civil, para motivar en los momentos de alto riesgo, siniestro o desastre, una respuesta eficaz, amplia, responsable y participativa;
-
-XXXI. Diseñar y establecer el Sistema Informático de Protección Civil fundamentado en la creación de una base de datos de ámbito estatal;
-
-XXXII. Establecer la operación de redes de comunicación disponibles en situaciones de normalidad para asegurar la eficacia de las mismas en situaciones de emergencia o desastre;
-
-XXXIII. Supervisar y verificar, detectar, monitorear y dar seguimiento a los fenómenos hidrometeorológicos en el Mar Caribe, Golfo de México y porción media del Atlántico, que representen peligro potencial para el Estado, así como elaborar el boletín meteorológico, para ser transmitido a través de los medios de comunicación;
-
-XXXIV. Integrar la Red de Comunicación que permita reunir informes sobre condiciones de alto riesgo y alerta a la población;
-
-XXXV. Elaborar el programa de actualización en sistemas, redes y cómputo para personal adscrito a la Dirección General;
-
-XXXVI. Elaborar el programa de mantenimiento, soporte y actualización del sistema de redes de la Dirección General;
-
-XXXVII. Mantener vigente y actualizado el inventario del sistema de redes y cómputo de la Dirección General;
-
-XXXVIII. Administrar de manera eficiente y transparente los recursos que le sean asignados;
-
-XXXIX. Elaborar el Programa Operativo Anual de la Dirección e integrarlo al Programa de la Dirección General;
-
-XL. Presentar un informe anual; y
-
-XLI. Las demás que le confiera el Director General.
+(DEROGADO, P.O. 30 DE MARZO DE 2013)
 
 ###### ARTÍCULO 30.
 
-Corresponde a la Dirección de Planeación y Concertación Sectorial, el ejercicio de las siguientes atribuciones:
-
-I. Diseñar e integrar las estrategias, metas y acciones del Programa Operativo Anual de la Dirección General;
-
-II. Dar seguimiento a los planes y programas de protección civil;
-
-III. Estructurar y coordinar un adecuado proceso de planeación, programación y presupuestación, orientado al cumplimiento de las metas, así como al uso racional y eficiente de los recursos dispuestos en el Programa Operativo Anual;
-
-IV. Elaborar el anteproyecto de presupuesto de la Dirección General, con base en los programas y partidas presupuestales autorizadas, en los que deberán señalarse los objetivos, metas, las direcciones responsables de su ejecución, valuación estimada por programa, así como la información necesaria para su correcto análisis;
-
-V. Examinar que los costos para cada programa estén fundamentados en las necesidades de recursos contenidas en el anteproyecto de presupuesto;
-
-VI. Asesorar a las demás áreas de la Dirección General en la formulación de su anteproyecto de presupuesto y establecer en forma coordinada, las fechas de entrega de información para la oportuna formulación del anteproyecto de presupuesto de la Dirección General;
-
-VII. Impulsar una política de ahorro, eficiencia y transparencia en la utilización de los recursos;
-
-VIII. Diseñar el Programa de Formación, Capacitación y Actualización del personal adscrito a la Dirección General;
-
-IX. Fungir como enlace con la Dirección General de Administración;
-
-X. Coordinar las acciones de la programación detallada, los procedimientos de control, verificación y seguimiento, que permitan conocer con objetividad, precisión, oportunidad y regularidad el desarrollo de los proyectos del Sistema Estatal de Protección civil;
-
-XI. Realizar estudios micro y de mediana planeación, tendientes a generar propuestas que fortalezcan la labor de la Dirección General en particular y de la materia de protección civil en general;
-
-XII. Proponer las normas y procedimientos metodológicos pertinentes para la realización de estudios de factibilidad sobre la ampliación de la cobertura de los servicios de protección civil;
-
-XIII. Analizar, y en su caso, proponer las modificaciones y correcciones a los proyectos, programas, mecanismos y gastos de la Dirección General;
-
-XIV. Administrar de manera eficiente y transparente los recursos que le sean asignados;
-
-XV. Presentar un informe anual; y
-
-XVI. Las demás que le confiera el Director General.
+(DEROGADO, P.O. 30 DE MARZO DE 2013)
 
 ###### ARTÍCULO 31.
 
-Corresponde a la Dirección de Bomberos, las siguientes funciones:
-
-I. Prevenir y extinguir los incendios originados por cualquier causa;
-
-II. En situaciones de emergencia o desastre llevar a cabo el salvamento y rescate de personas atrapadas, o que no puedan desplazarse por si solas;
-
-III. Coordinarse con otras autoridades para rescatar a personas atrapadas en vehículos por accidentes de tránsito;
-
-IV. Llevar a cabo la búsqueda de cuerpos de personas que hayan perecido ahogadas en ríos o cuerpos de agua;
-
-V. Retirar árboles, postes o cualquier otro objeto que impida la circulación por la vía pública o que ponga en riesgo a la ciudadanía; así como, a los sistemas estratégicos de conducción de energía eléctrica;
-
-VI. Proporcionar rescate acuático en lugares inundados o comunidades asentadas a orillas de ríos o cuerpos de agua;
-
-VII. Atender a la población ante las emergencias provocadas por fugas o explosiones de los sistemas de transporte o almacenamiento de hidrocarburos;
-
-VIII. Auxiliar a la población, ante las emergencias que provocan el mal uso y manejo de sustancias y residuos peligrosos;
-
-IX. Atender las emergencias provocadas por fauna nociva, como enjambres de abejas o reptiles peligrosos;
-
-X. Atender y controlar las fugas de gas doméstico;
-
-XI. Auxiliar a la población para restablecer la normalidad en zonas afectadas por inundación;
-
-XII. Coadyuvar con las autoridades en la materia, respecto al reparto de agua potable cuando así sea necesario;
-
-XIII. Brindar resguardo en eventos públicos masivos, para evitar incendios y auxiliar a la población en caso de ser necesario;
-
-XIV. Dar continuidad permanente a los programas de mantenimiento preventivo de los equipos, instalaciones y herramientas de la Dirección;
-
-XV. En coordinación con la Dirección de (sic) Operativa y Apoyo a la Población, diseñar e implementar el programa de capacitación para el personal operativo y administrativo, de conformidad con las disposiciones aplicables;
-
-XVI. Administrar de manera eficiente y transparente los recursos que le sean asignados;
-
-XVII. Elaborar el Programa Operativo Anual de la Dirección e integrarlo al programa de la Dirección General;
-
-XVIII. Presentar un informe anual; y
-
-XIX. Las demás que le confiera el Secretario o el Director General.
+(DEROGADO, P.O. 30 DE MARZO DE 2013)
 
 ### CAPÍTULO VII. DE LA DIRECCIÓN GENERAL DE PREVENCIÓN Y REINSERCIÓN SOCIAL
 
@@ -1464,3 +1246,17 @@ SECRETARIO DE SEGURIDAD PÚBLICA DEL ESTADO
 LIC. MIGUEL ALBERTO ROMERO PÉREZ
 
 CONSEJERO JURÍDICO DEL PODER EJECUTIVO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE MARZO DE 2013.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO POR EL QUE “SE REFORMAN LOS ARTÍCULOS 10 FRACCIONES I, IV, V Y XL, 12 FRACCIÓN II, 16 FRACCIÓN V, 18 FRACCIÓN XVIII; SE DEROGAN LOS ARTÍCULOS 3 EN LO RELACIONADO AL PUNTO 1.9; 10 FRACCIONES XXI, XXII, XXIV Y XLI, 24, 28, 29, 30 Y 31, DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD PÚBLICA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones de igual rango o naturaleza que se opongan al presente Reglamento.
