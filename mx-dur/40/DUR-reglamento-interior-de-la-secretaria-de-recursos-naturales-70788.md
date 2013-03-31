@@ -4,7 +4,7 @@ identifier: "DUR-reglamento-interior-de-la-secretaria-de-recursos-naturales-7078
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-10-04"
-last_updated: "2009-10-04"
+last_updated: "2013-03-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "DUR"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE RECURSOS NATURALES Y MEDIO AMBIENTE
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE RECURSOS NATURALES Y MEDIO AMBIENTE
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE RECURSOS NATURALES Y MEDIO AMBIENTE DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Durango, el domingo 4 de octubre de 2009.
 
@@ -77,9 +77,13 @@ II. Subsecretaría de Medio Ambiente.
 
 A. Dirección de Medio Ambiente.
 
-III. Dirección General de Recursos Naturales.
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2013)</small>
 
-A. Dirección de Desarrollo Forestal.
+III. Subsecretaría de Recursos Naturales.
+
+A. Dirección General de Recursos Naturales.
+
+B. Dirección de Desarrollo Forestal.
 
 ###### ARTÍCULO 6.
 
@@ -389,19 +393,61 @@ XXIII. Promover e implementar los Ordenamientos Ecológicos como instrumentos de
 
 XXIV. Las demás que les confiera el presente reglamento y otras disposiciones legales aplicables.
 
-DE LA DIRECCIÓN GENERAL DE RECURSOS NATURALES
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2013)</small>
+
+DE LA SUBSECRETARÍA DE RECURSOS NATURALES
+
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 19.
 
-La Dirección General de Recursos Naturales, tendrá las atribuciones siguientes:
+Al frente de la Subsecretaría de Recursos Naturales habrá un Subsecretario, a quien corresponderá el trámite, resolución y seguimiento de los asuntos que le asignen conforme a la materia de su competencia, así como las demás que se señalen en el presente Reglamento, tendrá las siguientes atribuciones:
 
-I. Diseñar y promover, en el ámbito de competencia de la Secretaría, la coordinación con cada Dirección de los instrumentos de fomento y normatividad respecto del aprovechamiento sustentable, conservación y restauración de suelos, el agua, la biodiversidad terrestre y acuática, los bosques la flora y la fauna silvestre y su ecosistema, especialmente los sujetos a protección, y sus habitad critico, los recursos genéticos desarrollo sustentable, de las actividades del sector primario;
+I. Acordar con el Secretario, el despacho de los asuntos de las Unidades Adscritas a su responsabilidad.
+
+II. Cumplir y hacer cumplir los Acuerdos del Secretario.
+
+III. Formular, para aprobación del Secretario, el Programa y Presupuesto Anuales de la Subsecretaría.
+
+IV. Establecer las políticas, objetivos, planes y Programas de Trabajo de la Subsecretaría, así como vigilar su buena observancia.
+
+V. Planificar, dirigir y controlar la resolución y ejecución de los asuntos relacionados con las Unidades bajo su responsabilidad.
+
+VI. Coordinar, vigilar y evaluar la realización de los Planes y Programas de Trabajo asignados a cada una de las Unidades a su cargo.
+
+VII. Supervisar la adecuada utilización y aplicación de los fondos asignados a cada una de las Unidades a su cargo.
+
+VIII. Proponer al Secretario los proyectos de Acuerdo, instrucciones y órdenes en los asuntos de su competencia.
+
+IX. Dictar las medidas de mejoramiento administrativo en las Unidades adscritas a la Subsecretaría.
+
+X. Proporcionar la información o la cooperación que le sea requerida por otras Dependencias del Ejecutivo Estatal, previo Acuerdo con el Secretario.
+
+XI. Proponer al Secretario la designación, promoción o remoción de los servidores públicos responsables de las unidades administrativas a su cargo;
+
+XII. Proponer al Secretario en la materia de su competencia, las bases para la celebración de convenios y acuerdos con la Federación y los municipios y otras instituciones;
+
+XIII. Someter a consideración del Secretario, los estudios y proyectos de iniciativas de leyes, reglamentos, decretos y acuerdos que se relacionen con el ámbito de su competencia;
+
+XIV. Desempeñar las comisiones que el Secretario le encomiende y mantenerlo informado sobre el desarrollo de las mismas;
+
+XV. Proporcionar la información y asesoría en la materia de su competencia y establecer la coordinación necesaria con otras unidades administrativas de la Secretaría, así como con dependencias y entidades de los tres niveles de gobierno, de acuerdo con las políticas establecidas al respecto por el Secretario;
+
+XVI. Las demás que le señale el Secretario, las disposiciones legales relativas y todas las atribuciones que competan a las Unidades Administrativas de su adscripción.
+
+DE LA DIRECCIÓN GENERAL DE RECURSOS NATURALES
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2013)</small>
+
+ARTÍCULO 19 BIS 1.- La Dirección General de Recursos Naturales, tendrá las atribuciones siguientes:
+
+I. Diseñar y promover, en el ámbito de competencia de la Secretaría, la coordinación con cada Dirección de los instrumentos de fomento y normatividad respecto del aprovechamiento sustentable, conservación y restauración de suelos, el agua, la biodiversidad terrestre y acuática, los bosques la flora y la fauna silvestre y su ecosistema, especialmente los sujetos a protección, y sus habitad critico, los recursos genéticos y el desarrollo sustentable, de las actividades del sector primario;
 
 II. Determinar las causas, elementos y efectos de los problemas sobre el manejo y uso de los recursos naturales a través de estudios e investigaciones, con la participación de las autoridades correspondientes;
 
-III. Concertar con las instancias de los tres niveles de gobierno, organización (sic) no gubernamentales y organizaciones de productores y con instituciones de investigación de educación superior, análisis, diagnósticos, y propuestas sobre la problemática relacionada con las actividades de los recursos naturales;
+III. Concertar con las instancias de los tres niveles de gobierno, organización no gubernamentales y organizaciones de productores y con instituciones de investigación de educación superior, análisis, diagnósticos, y propuestas sobre la problemática relacionada con las actividades de los recursos naturales;
 
-IV. Realizar las funciones y comisiones especiales que el Secretario delegue y encomiende para su ejercicio directo:
+IV. Realizar las funciones y comisiones especiales que el Secretario delegue y encomiende para su ejercicio directo;
 
 V. Promover la participación de las comunidades rurales, propietarias y poseedoras de los recursos naturales, en el diseño e instrumentación de normas y programas de protección y fomento para lograr el desarrollo sustentable;
 
@@ -409,15 +455,13 @@ VI. Proponer estudios, proyectos, disposiciones y reglas de carácter general, n
 
 VII. Promover la coordinación técnica con las demás dependencias del Ejecutivo Federal, Estatal y Municipal, con el objeto de dar seguimiento a las metas y objetivos establecidos de programas a corto, mediano y largo plazo;
 
-VIII. Proporcionar la información, datos o la cooperación técnica que les sean requeridos por las dependencias y entidades del Ejecutivo Estatal, de acuerdo a las normas y políticas que hubiera expedido y señalado el Secretario;
+VIII. Proporcionar la Información, datos o la cooperación técnica que les sean requeridos por las dependencias y entidades del Ejecutivo Estatal, de acuerdo a las normas y políticas que hubiera expedido y señalado el Secretario;
 
 IX. Coordinarse con las demás direcciones para aprobar con la autorización del Secretario los proyectos, reglamentos y lineamientos y demás disposiciones que se elaboren en las diferentes direcciones operativas y áreas administrativas de la Secretaria y suscribir acuerdos de seguimiento y aplicación respecto a normas aplicables;
 
-X. Organizar y coadyuvar con las direcciones operativas y áreas administrativas de la Secretaría en la celebración de congresos, ferias, seminarios, foros, exposiciones, certámenes nacionales e internacionales que fomenten la cultura del desarrollo sustentable de las actividades del sector primario y el aprovechamiento sustentable de los recursos naturales:
+X. Organizar y coadyuvar con las direcciones operativas y áreas administrativas de la Secretaría en la celebración de congresos, ferias, seminarios, foros, exposiciones, certámenes nacionales e internacionales que fomenten la cultura del desarrollo sustentable de las actividades del sector primario y el aprovechamiento sustentable de los recursos naturales;
 
-XI. Asesorar al Secretario en asuntos de su competencia y coordinarse con los titulares de las demás direcciones operativas y áreas administrativas;
-
-XII. Las demás que le confiera el presente reglamento y otras disposiciones jurídicas aplicables.
+XI. Las demás que le confiera el presente reglamento y otras disposiciones jurídicas aplicables.
 
 DE LA DIRECCIÓN DE DESARROLLO FORESTAL
 
@@ -469,9 +513,11 @@ XXI. Las demás que les confiera el presente reglamento y otras disposiciones le
 
 ### CAPITULO V. DE LA SUPLENCIA DE LOS SERVIDORES PUBLICOS
 
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2013)</small>
+
 ###### ARTÍCULO 21.
 
-Durante las ausencias del Secretario, el despacho y resolución de los asuntos correspondientes a la dependencia estarán a cargo Subsecretario (sic) de Medio Ambiente.
+Durante las ausencias del Secretario, el despacho y resolución de los asuntos correspondientes a la dependencia estarán a cargo (sic) Subsecretario de Medio Ambiente y en caso de que este se encuentra asunte (sic)será el encargado el Subsecretario de Recursos Naturales.
 
 ###### ARTÍCULO 22.
 
@@ -502,3 +548,15 @@ LIC. JOSÉ OLIVERIO REZA CUELLAR
 SECRETARIO DE RECURSOS NATURALES Y MEDIO AMBIENTE
 
 ING. JOSÉ MARCOS DANIEL TRUJANO THOMÉ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 31 DE MARZO DE 2013.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los asuntos que hasta antes de la entrada en vigor del presente reglamento, se estuvieren substanciado en se turnará (sic) de inmediato a la unidad administrativa que resulte competente para la continuación del mismo.
