@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2012-12-31"
+last_updated: "2013-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE MARZO DE 2013.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -128,6 +128,18 @@ Toda medida o disposición protectoras de las familias y la niñez se consideran
 Las expropiaciones sólo podrán hacerse por causa de utilidad pública y mediante indemnización.
 
 Las autoridades estatales, asumirán el ejercicio de todas las atribuciones que le confiere el artículo 27 de la Constitución General de la República y sus disposiciones reglamentarias, en favor de los núcleos de población interesados.
+
+> <small>(ADICIONADO, B.O. 31 DE MARZO DE 2013)</small>
+
+En materia de Asentamientos Humanos y Desarrollo Urbano, contemplando el interés de la Sociedad en su conjunto, el Estado preverá el mejor uso del suelo y las aguas, cuidando su conservación y estableciendo adecuadas provisiones, usos, reservas territoriales, orientando el destino de tierras y aguas de jurisdicción estatal a fin de garantizar a la población un mejor desarrollo urbano, imponiendo a la propiedad privada las modalidades que dicte el interés Público determinándose que no estarán permitidos en el Estado los usos de suelo y edificaciones para establecerse ni funcionar ninguna casa, o lugar abierto o cerrado, en que se practiquen juegos con apuestas ni sorteos, de ninguna clase y similar.
+
+> <small>(ADICIONADO, B.O. 31 DE MARZO DE 2013)</small>
+
+El Ejecutivo Estatal deberá formular, aprobar y administrar el Programa Estatal de Desarrollo Urbano, así como participar conjunta y coordinadamente con los Municipios, en la planeación y regulación de las zonas conurbadas, en los términos que señale la legislación correspondiente. El Programa deberá establecer las prohibiciones que la presente Constitución y las Leyes que de ella emanan establecen.
+
+> <small>(ADICIONADO, B.O. 31 DE MARZO DE 2013)</small>
+
+Los Municipios del Estado deberán formular, aprobar y administrar los Planes y Programas Municipales de Desarrollo Urbano, de centros de población y los demás derivados de los mismos; así como, participar en la planeación y regulación de las zonas conurbadas, conjunta y coordinadamente con el Ejecutivo, conforme a la legislación correspondiente. Los programas deberán establecer las prohibiciones que la presente Constitución y las Leyes que de ella emanan establecen.
 
 15.- Las leyes locales organizarán el patrimonio familiar, determinando los bienes que deban constituirlo, sobre la base de que será inalienable y no estará sujeto a embargo ni gravamen alguno.
 
@@ -1769,9 +1781,11 @@ V.- Mantener los servicios de Seguridad Pública, Policía Preventiva y de Trans
 
 VI.- Establecer en el territorio del municipio las delegaciones y subdelegaciones que sean necesarias;
 
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, B.O. 31 DE MARZO DE 2013)</small>
 
-VII.- Formular, aprobar y administrar la zonificación y planes de Desarrollo Urbano Municipal, así como de los Asentamientos Humanos; en el ámbito de su competencia; proteger, preservar y restaurar el equilibrio ecológico conforme a los (sic) dispuesto en la Fracción XXIX-G del artículo 73 de la Constitución General de la República, así como su regularización de la tenencia de la tierra en el ámbito de su competencia, y otorgar licencias y permisos para construcciones.
+VII.- Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal, así como de los Asentamientos Humanos, debiendo establecer la prohibición de usos de suelo y uso de edificación para que no se pueda establecer ni funcionar ninguna casa, o lugar abierto o cerrado, en que se practiquen juegos con apuestas ni sorteos, de ninguna clase y similares; en el ámbito de su competencia; proteger, preservar y restaurar el equilibrio ecológico conforme a lo dispuesto en la Fracción XXIX-G del Artículo 73 de la Constitución General de la República, así como su regularización de la tenencia de la tierra en el ámbito de su competencia.
+
+Asimismo, otorgar licencias y permisos para construcciones. No estarán permitidos en el Estado los permisos o licencias de construcción para establecerse ni funcionar ninguna casa o lugar abierto o cerrado en que se practiquen juegos con apuestas ni sorteos de ninguna clase y similares.
 
 VIII.- Proceder conforme a la Ley sobre Monumentos y Zonas Arqueológicas, Artísticas e Históricas, con auxilio del Instituto correspondiente, para ordenar la suspensión provisional de las obras de restauración y conservación de bienes declarados monumentos, y que se ejecuten sin la autorización o permiso correspondiente;
 
@@ -2922,3 +2936,9 @@ B.O. 31 DE DICIEMBRE DE 2012.
 DECRETO No. 2041, POR EL QUE SE REFORMAN LOS ARTÍCULOS 28, FRACCIÓN V, 56, 57, PÁRRAFO PRIMERO Y FRACCIÓN I, 58, 61, 63 PRIMER PÁRRAFO, 64 FRACCIONES II, IV Y XXI, 65, 66 FRACCIONES III, IV, V Y X, 72, PÁRRAFO SEGUNDO Y TERCERO Y 111, Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 65, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR.
 
 Único.- El presente decreto entrará en vigor el día 01 de mayo del año 2013, previa su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE MARZO DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
