@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-48159"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2013-02-28"
+last_updated: "2013-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48159&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE Y ALCANTARILLADO DEL MUNICIPIO DE TECOMÁN, COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2013.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 31 de diciembre de 2005.
 
@@ -1583,11 +1583,11 @@ T R A N S I T O R I O S :
 
 El presente Decreto entrará en vigor el 1º de Enero de 2006, previa su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
 
-> <small>(REFORMADO, P.O. 9 DE MAYO DE 2009)</small>
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2013)</small>
 
 ###### ARTÍCULO SEGUNDO.
 
-Para el ejercicio fiscal 2009, el beneficio a que se refieren las fracciones I, II, y V del artículo 42 de ésta Ley, se amplía hasta el 31 de mayo del citado año con una tasa del 8%, además de no generar los recargos correspondientes en dichas prórrogas, inclusive los especificados en las fracciones III y IV de ese mismo artículo.
+Para el ejercicio fiscal 2013, el beneficio a que se refieren las fracciones I, II, y V del artículo 42 de esta Ley, se amplía hasta el 30 de abril del citado año con un descuento del 10%, además de no generar los recargos correspondientes en dichas prórrogas, ampliándose por el mismo periodo los descuentos especificados en las fracciones III y IV de ese mismo artículo.
 
 > <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2013)</small>
 
@@ -1662,3 +1662,7 @@ El presente Decreto entrará en vigor el día de su aprobación y deberá public
 P.O. 28 DE FEBRERO DE 2013.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 1 DE ABRIL DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor al momento de su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
