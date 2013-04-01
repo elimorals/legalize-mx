@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-turismo-del-estado-de-puebla-78436"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-31"
-last_updated: "2012-12-31"
+last_updated: "2013-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78436&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE TURISMO DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2013.
 
 Ley publicada en la Trigésima Segunda Sección del Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2010.
 
@@ -129,9 +129,21 @@ XVI.- Turismo: Actividad que se presenta cuando uno o más individuos se traslad
 
 XVII.- Turismo Accesible: Es aquel que brinda servicios que tienen las características para ser usados por personas con diferentes grados de habilidad, tomando en cuenta diferentes tipos de discapacidad;
 
-XVIII.- Zonas de Desarrollo Turístico Prioritario: Son aquellos municipios, regiones o lugares que por sus características geográficas, sociales, históricas o culturales, constituyen un atractivo turístico y son susceptibles de proporcionarles el apoyo para su desarrollo turístico preferente; y
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2013)</small>
+
+XVIII.- Zonas de Desarrollo Turístico Prioritario: Son aquellos municipios, regiones o lugares que por sus características geográficas, sociales, históricas o culturales, constituyen un atractivo turístico y son susceptibles de proporcionarles el apoyo para su desarrollo turístico preferente;
 
 XIX.- Zonas de Desarrollo Turístico Sustentable: Aquellas fracciones del territorio Estatal claramente ubicadas y delimitadas geográficamente, que por sus características naturales o culturales, constituyen un atractivo turístico así declarado mediante Decreto.
+
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2013)</small>
+
+XX.- Turismo de Salud: Actividad generada por las personas que se trasladan fuera de su lugar de residencia con el propósito de rehabilitarse o para mejorar su estado de salud a través de servicios terapéuticos, de recreación, relajación y tratamientos relacionados con la salud; y
+
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2013)</small>
+
+XXI.- Prestadores de Servicios relacionados con el Turismo de Salud: Todos aquéllos que a criterio de la Secretaría de Salud del Estado y de los Servicios de Salud del Estado de Puebla, brinden servicios terapéuticos como: Spa, masajes, medicina alópata y aguas termales. Estos Prestadores de Servicios deberán ser previamente certificados conjuntamente por la Secretaría, la Secretaría de Salud del Estado y por los Servicios de Salud del Estado de Puebla.
+
+Las certificaciones correspondientes se tramitarán de conformidad con la legislación aplicable.
 
 ###### Artículo 4.
 
@@ -587,6 +599,22 @@ La Secretaría, con el apoyo y en coordinación de las dependencias y entidades 
 
 La Secretaría deberá establecer los mecanismos de coordinación y participación con autoridades municipales que favorezcan el desarrollo del turismo gastronómico y promoverá la capacitación a los prestadores de servicios turísticos, con el propósito de buscar la calidad en el sector.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE ABRIL DE 2013)</small>
+
+### CAPÍTULO VIII TER. DEL TURISMO DE SALUD
+
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2013)</small>
+
+###### Artículo 41 Quinquies.
+
+La Secretaría, en coordinación con la Secretaría de Salud y con los Servicios de Salud del Estado de Puebla, impulsarán el Turismo de Salud, que comprende actividades que tengan como motivo principal o alterno recibir algún servicio de salud. De igual forma fomentarán la certificación de todos aquellos establecimientos que brinden servicios de calidad, donde los turistas se puedan relajar, curar o aliviar de ciertas dolencias. Las certificaciones correspondientes se tramitarán de conformidad con la legislación aplicable.
+
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2013)</small>
+
+###### Artículo 41 Sexies.
+
+Los prestadores de servicios relacionados con el Turismo de Salud se sujetarán a los lineamientos y disposiciones establecidos en la Ley General de Salud, Ley Estatal de Salud, Normas Oficiales Mexicanas y demás legislación sanitaria aplicable para tal efecto.
+
 > <small>(REFORMADA EN SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 ### CAPÍTULO IX. DE LA CULTURA TURÍSTICA Y DEL TURISMO CULTURAL
@@ -594,8 +622,6 @@ La Secretaría deberá establecer los mecanismos de coordinación y participaci�
 ### CAPÍTULO X. DEL ORDENAMIENTO TURÍSTICO DEL TERRITORIO
 
 ### CAPÍTULO XI. DE LAS ZONAS DE DESARROLLO TURÍSTICO SUSTENTABLE
-
-### CAPÍTULO XII. DE LAS ZONAS DE DESARROLLO TURÍSTICO PRIORITARIO
 
 ###### Artículo 42.
 
@@ -617,7 +643,7 @@ Turismo Cultural, es el viaje turístico motivado por conocer, comprender y disf
 
 La Secretaría, con el apoyo y en coordinación de las Dependencias y Entidades competentes, promoverán el turismo cultural a nivel nacional e internacional, como una atracción turística de nuestro Estado e implementarán programas que impulsen el desarrollo del mismo.
 
-### CAPÍTULO XIII. DE LA EVALUACIÓN
+### CAPÍTULO XII. DE LAS ZONAS DE DESARROLLO TURÍSTICO PRIORITARIO
 
 ###### Artículo 44.
 
@@ -671,7 +697,7 @@ IV.- Propiciará la participación de los prestadores de servicios en la elabora
 
 V.- En caso de que un programa de ordenamiento turístico local incluya una Zona de Desarrollo Turístico Sustentable, el programa será elaborado considerando las disposiciones legales y administrativas correspondientes.
 
-### CAPÍTULO ÚNICO. DE LA PROMOCIÓN Y FOMENTO AL TURISMO
+### CAPÍTULO XIII. DE LA EVALUACIÓN
 
 ###### Artículo 48.
 
@@ -693,7 +719,7 @@ En el Reglamento de la Ley se establecerán los lineamientos de coordinación pa
 
 La Secretaría y los Ayuntamientos, en coordinación con la Secretaría de Turismo Federal, formularán los programas de manejo correspondiente para cada zona.
 
-### CAPÍTULO I. DEL SISTEMA DE INFORMACIÓN TURÍSTICA ESTATAL
+### CAPÍTULO ÚNICO. DE LA PROMOCIÓN Y FOMENTO AL TURISMO
 
 ###### Artículo 53.
 
@@ -705,7 +731,7 @@ La Secretaría será la instancia competente para emitir las Declaratorias de la
 
 Toda área, municipio o región que haya sido declarada como Zona de Desarrollo Turístico Prioritario, recibirá los apoyos que contemple la Secretaría dentro del Programa Estatal de Turismo.
 
-### CAPÍTULO II. DEL REGISTRO DE PRESTADORES DE SERVICIOS TURÍSTICOS
+### CAPÍTULO I. DEL SISTEMA DE INFORMACIÓN TURÍSTICA ESTATAL
 
 ###### Artículo 55.
 
@@ -727,7 +753,7 @@ Evaluados los resultados de la aplicación de la política, programas y acciones
 
 ## TÍTULO TERCERO
 
-### CAPÍTULO III. DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS Y DE LOS TURISTAS
+### CAPÍTULO II. DEL REGISTRO DE PRESTADORES DE SERVICIOS TURÍSTICOS
 
 ###### Artículo 59.
 
@@ -813,7 +839,7 @@ Los recursos para integrar el fideicomiso podrán provenir de las aportaciones q
 
 ## TÍTULO CUARTO. DE LOS ASPECTOS OPERATIVOS
 
-### CAPÍTULO IV. DE LOS DERECHOS Y OBLIGACIONES DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
+### CAPÍTULO III. DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS Y DE LOS TURISTAS
 
 ###### Artículo 72.
 
@@ -839,7 +865,7 @@ VI.- Los demás aspectos que sean necesarios para contar con un sistema completo
 
 Para efectos de lo señalado en el artículo anterior, la Secretaría deberá integrar, analizar y difundir la información que recabe y, con base en ello, diseñará un programa permanente de difusión turística a nivel local, nacional e internacional.
 
-### CAPÍTULO V. DE LOS DERECHOS Y OBLIGACIONES DE LOS TURISTAS
+### CAPÍTULO IV. DE LOS DERECHOS Y OBLIGACIONES DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
 
 ###### Artículo 75.
 
@@ -857,7 +883,7 @@ La inscripción al Registro Nacional de Turismo será obligatoria para los prest
 
 La Secretaría podrá constatar a través de los medios legales que considere pertinentes la información que proporcionen los prestadores de servicios turísticos del Estado de Puebla, correspondiendo a la Secretaría de Turismo Federal la expedición del certificado respectivo, mediante el cual se acredite su carácter.
 
-### CAPÍTULO VI. DE LA COMPETITIVIDAD Y PROFESIONALIZACIÓN EN LA ACTIVIDAD TURÍSTICA
+### CAPÍTULO V. DE LOS DERECHOS Y OBLIGACIONES DE LOS TURISTAS
 
 ###### Artículo 79.
 
@@ -867,7 +893,7 @@ Las relaciones entre los prestadores de servicios turísticos y el turista se re
 
 Para operar los prestadores de servicios turísticos, deberán cumplir con los elementos y requisitos que determinen la Secretaría de Turismo Federal mediante las disposiciones reglamentarias correspondientes, y las Normas Oficiales Mexicanas, y de forma concurrente la Secretaría, sin perjuicio de las obligaciones establecidas en otras disposiciones aplicables.
 
-### CAPÍTULO VII. DE LA CAPACITACIÓN TURÍSTICA
+### CAPÍTULO VI. DE LA COMPETITIVIDAD Y PROFESIONALIZACIÓN EN LA ACTIVIDAD TURÍSTICA
 
 ###### Artículo 81.
 
@@ -959,7 +985,7 @@ Los prestadores de servicios turísticos, también están obligados a respetar l
 
 En caso de que el prestador del servicio turístico incumpla con uno de los servicios ofrecidos o pactados o con la totalidad de los mismos, tendrá la obligación de rembolsar, bonificar o compensar la suma correspondiente por el pago del servicio incumplido, o bien podrá prestar otro servicio de las mismas características o equivalencia al que hubiere incumplido, a elección del turista.
 
-### CAPÍTULO VIII. DE LA VERIFICACIÓN
+### CAPÍTULO VII. DE LA CAPACITACIÓN TURÍSTICA
 
 ###### Artículo 86.
 
@@ -1006,6 +1032,8 @@ IV.- Canalizar y dar seguimiento ante las autoridades competentes, sobre las que
 V.- Gestionar ante las autoridades competentes la oportuna y eficaz atención al turista en servicios de transportación, seguridad pública, salud, procuración de justicia y los demás servicios colaterales que requieren los turistas; y
 
 VI.- Las demás que sean necesarias para proteger eficientemente los derechos de los turistas.
+
+### CAPÍTULO VIII. DE LA VERIFICACIÓN
 
 ###### Artículo 89.
 
@@ -1092,5 +1120,11 @@ SEGUNDO.- Se deroga todas las disposiciones que se opongan al presente Decreto.
 P.O. 31 DE DICIEMBRE DE 2012.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE ABRIL DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
