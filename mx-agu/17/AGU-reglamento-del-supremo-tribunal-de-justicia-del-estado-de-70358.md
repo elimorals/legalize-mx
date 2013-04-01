@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-del-supremo-tribunal-de-justicia-del-estado-de-70358
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-10-05"
-last_updated: "2009-10-05"
+last_updated: "2013-04-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70358&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 REGLAMENTO DEL SUPREMO TRIBUNAL DE JUSTICIA DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2013.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 5 de octubre de 2009.
 
@@ -183,13 +183,17 @@ De cada sesión se deberá levantar un acta, la cual será aprobada o modificada
 
 #### SECCIÓN II. Del Haber de Retiro
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ABRIL DE 2013)</small>
+
 ###### Artículo 27.
 
-En términos de lo previsto por el artículo 56 párrafo cuarto de la Constitución, al vencimiento del periodo para el que fueron designados, los Magistrados tendrán derecho a un haber por retiro, equivalente a dos años de su última percepción.
+En términos de lo previsto por el artículo 56 de la Constitución, al vencimiento del periodo para el que fueron designados, los Magistrados tendrán derecho a un haber por retiro, equivalente a dos años de su última percepción.
 
-Igual derecho se tendrá en los casos de fallecimiento, incapacidad o jubilación anticipada.
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2013)</small>
 
-Tratándose de renuncia voluntaria, el haber de retiro se cubrirá en forma proporcional al tiempo transcurrido en el desempeño del cargo de Magistrado.
+Igual derecho se tendrá en los casos de fallecimiento, incapacidad, renuncia o cualquier tipo de jubilación.
+
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 1 DE ABRIL DE 2013)</small>
 
 El haber de retiro se entregará al Magistrado o a sus beneficiarios, a más tardar a los tres meses siguientes de la fecha de la separación del cargo.
 
@@ -572,3 +576,11 @@ aguascalientes, Ags., 29 de septiembre de 2009.
 El C. MAGISTRADO PRESIDENTE DEL H. SUPREMO TRIBUNAL DE JUSTICIA,
 
 Lic. Juan Arturo Muñiz Candelas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 1 DE ABRIL DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Acuerdo entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
