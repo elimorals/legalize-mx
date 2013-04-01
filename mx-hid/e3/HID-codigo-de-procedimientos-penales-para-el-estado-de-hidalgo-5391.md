@@ -4,7 +4,7 @@ identifier: "HID-codigo-de-procedimientos-penales-para-el-estado-de-hidalgo-5391
 country: "mx"
 rank: "codigo"
 publication_date: "1990-06-09"
-last_updated: "2011-03-31"
+last_updated: "2013-04-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5391&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "HID"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE HIDALGO
 
-CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE HIDALGO
+CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE HIDALGO
 
-> <small>N. DE E. DE CONFORMIDAD DEL TRANSITORIO SEXTO, EL CODIGO DE PROCEDIMIENTOS PENALES PROMULGADO EL 9 DE JUNIO DE 1990 SEGUIRA RIGIENDO, EN LO CONDUCENTE, EN LOS PROCEDIMIENTOS INICIADOS CON ANTERIORIDAD A LA APLICACION DEL NUEVO CODIGO PUBLICADO EN EL P.O. DE FECHA 14 DE MARZO DE 2011, Y QUEDARA ABROGADO EN LA MEDIDA EN QUE AQUELLOS QUEDEN AGOTADOS.</small>
+> <small>N. DE E. DE CONFORMIDAD DEL TRANSITORIO SEXTO, EL CÓDIGO DE PROCEDIMIENTOS PENALES PROMULGADO EL 9 DE JUNIO DE 1990 SEGUIRÁ RIGIENDO, EN LO CONDUCENTE, EN LOS PROCEDIMIENTOS INICIADOS CON ANTERIORIDAD A LA APLICACIÓN DEL NUEVO CÓDIGO PUBLICADO EN EL P.O. DE FECHA 14 DE MARZO DE 2011, Y QUEDARA ABROGADO EN LA MEDIDA EN QUE AQUELLOS QUEDEN AGOTADOS.</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MARZO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2013.
 
 Código publicado en el Periódico Oficial del Estado de Hidalgo, el sábado 9 de junio de 1990
 
@@ -49,7 +49,7 @@ Corresponde a los tribunales del ramo penal y a las autoridades administrativas 
 
 El procedimiento penal ordinario que regula este Código, comprende los siguientes períodos:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ENERO DE 2002)</small>
 
 I.- El de averiguación previa, que comprende de la denuncia o querella a la consignación de las diligencias ante el Juez competente, en caso de determinación de no ejercicio de la acción penal, hasta el último acto que se realice con motivo de ella.
 
@@ -60,6 +60,10 @@ Este periodo, tiene por objeto que el Ministerio Público en ejercicio de la fac
 > <small>(ADICIONADO, P.O. 22 DE MARZO DE 1999)</small>
 
 Sin perjuicio de lo anterior, cuando el ministerio público tenga conocimiento de un delito perseguible por querella, procurará la conciliación entre el ofendido y el inculpado, actuando por sí mismo o requiriendo la intervención de quien esté en condiciones de promover esa conciliación, en virtud de su autoridad moral y de la ascendencia que tenga sobre aquéllos. Si se trata de individuos pertenecientes a una etnia indígena, tomará en cuenta sus usos y costumbres para requerir la intervención del conciliador.
+
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2013)</small>
+
+Tratándose de los delitos previstos en el Título Quinto y Octavo del Libro Segundo del Código Penal del Estado de Hidalgo, no deberá realizarse algún procedimiento que implique conciliación cuando el sujeto pasivo del delito sea mujer o persona menor de edad.
 
 II.- El de averiguación procesal, que a su vez se subdivide en preinstrucción e instrucción.
 
@@ -129,11 +133,13 @@ En la ejecución, el Poder Ejecutivo del Estado, por conducto de la dependencia 
 
 ## TITULO SEGUNDO. PRINCIPIOS FUNDAMENTALES
 
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2013)</small>
+
 ###### ARTICULO 10.
 
-El individuo gozará de los derechos que le otorgan la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales, la Constitución y las leyes penales del Estado de Hidalgo y podrá ejercerlos desde el momento de que se inicie el procedimiento penal en su contra hasta su terminación.
+El individuo gozará de los derechos que le otorga la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales, la Constitución Política del Estado de Hidalgo y las leyes que de ellas emanen y podrá ejercerlos desde el momento de que se inicie el procedimiento penal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 1999)</small>
 
 ###### ARTICULO 11.
 
@@ -183,15 +189,15 @@ V.- A una defensa adecuada, por sí, por abogado o por persona de su confianza. 
 
 Si el procesado no quiere nombrar defensor, después de ser requerido para hacerlo al rendir su declaración preparatoria, el juez le nombrará uno de oficio. El procesado podrá nombrar defensor desde el momento en que sea aprehendido y puesto a disposición de la autoridad competente, teniendo derecho a que éste se halle presente en todos los actos del procedimiento, pero tendrá obligación de hacerlo comparecer cuantas veces se necesite.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 16.
 
 La investigación y persecución de los delitos incumbe al Ministerio Público y a los agentes de investigación, quienes actuarán bajo la conducción y mando de aquél, en el ejercicio de dicha función.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
@@ -435,7 +441,7 @@ Para los efectos de este Código, tiene carácter de inculpado la persona a quie
 
 El inculpado y su defensor gozarán de todos los derechos que establecen la Constitución Política de los Estados Unidos Mexicanos, la del Estado, este Código y demás leyes penales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 1999)</small>
 
 ###### ARTICULO 36.
 
@@ -517,7 +523,7 @@ Los defensores designados deberán manifestar si aceptan o no el cargo de defens
 
 El Inculpado podrá solicitar al juzgador que autorice a una persona, con título de licenciado en derecho o carta de pasante, para que se imponga del expediente, a fin de que pueda determinar si acepta o no asumir la defensa.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 1999)</small>
 
 ###### ARTICULO 40.
 
@@ -535,7 +541,7 @@ El defensor designado en la averiguación previa o en la declaración preparator
 
 Cuando en el proceso el juzgador notare que el defensor incumpla alguna de las obligaciones señaladas en el artículo 38 de este Código, podrá sin menoscabo de la posibilidad de defensa del inculpado, imponerle una corrección disciplinaria o denunciarlo al ministerio público, si procediere. Si el defensor fuere de oficio, el juzgador deberá, además, poner en conocimiento de los hechos al superior, señalándole el incumplimiento en que aquél hubiere incurrido. Las facultades que este precepto otorga al juzgador, serán independientes del derecho que pueda corresponder al inculpado para denunciar o reclamar la responsabilidad que, en su caso, resulte al defensor.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE MARZO DE 1999)</small>
 
 ### CAPITULO IV. EL OFENDIDO Y SU ASESOR JURIDICO
 
@@ -571,7 +577,7 @@ IX.- A formular conclusiones e interponer los recursos que prevé este Código e
 
 X.- Los demás que señalen las leyes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 44.
 
@@ -611,7 +617,7 @@ El juzgador y el ministerio público estarán acompañados, en todas las diligen
 
 En las diligencias podrán emplearse, según el caso y a juicio del funcionario que las practique, cualquier medio que tenga por objeto reproducir imágenes o sonidos, y el medio empleado se hará constar en el acta respectiva.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 1999)</small>
 
 ###### ARTICULO 48.
 
@@ -813,7 +819,7 @@ Los servidores públicos a quienes corresponda hacer las notificaciones que no s
 
 Cuando haya que notificarse a una persona fuera del lugar donde se instruye el procedimiento, pero dentro de la jurisdicción, la notificación podrá hacerse por medio de requisitoria. Si la diligencia hubiere de practicarse fuera del territorio del tribunal, se librará exhorto en la forma y términos que dispone este Código.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 80.
 
@@ -871,7 +877,7 @@ Cuando la citación se haga por correo certificado, se agregará al expediente e
 
 En el primer caso y cuando el citado no sea localizado en su domicilio o en el lugar de trabajo, podrá enviarse la cita por conducto de los auxiliares de la procuración o de la impartición de justicia, según de donde provenga la citación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
@@ -903,7 +909,7 @@ Las citaciones a los militares y servidores públicos, se hará mediante oficio 
 
 Cuando el encargado de hacer la citación no informase del resultado de ella, antes de la hora en que deba practicarse la diligencia respectiva, se le aplicará la corrección disciplinaria que de acuerdo con la gravedad del caso se estime procedente.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE MARZO DE 1999)</small>
 
 #### SECCION TERCERA. EXHORTOS, OFICIOS DE COLABORACION Y OTROS COMUNICADOS
 
@@ -979,7 +985,7 @@ Las providencias que se dicten para el cumplimiento de un exhorto u oficio de co
 
 ### CAPITULO V. AUDIENCIAS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 1999)</small>
 
 ###### ARTICULO 105.
 
@@ -987,7 +993,7 @@ Las audiencias judiciales serán públicas; previamente a su desahogo se citará
 
 Cuando se trate de un delito en contra de la moral o en el proceso se ataque a ésta de cualquier manera, el juzgador o el ministerio público en la averiguación previa, podrán disponer que la audiencia se lleve a cabo a puerta cerrada, en la que sólo intervendrán las personas que oficialmente deban concurrir. Para tal efecto, así deberá acordarse en autos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 106.
 
@@ -995,7 +1001,7 @@ No podrá celebrarse ninguna audiencia sin la presencia del ministerio publico y
 
 Si el faltista fuere el ministerio público o el defensor de oficio, se comunicará a su superior jerárquico, sin perjuicio de imponerles una corrección disciplinaria, salvo que exista causa justificada. Si fuere el defensor particular, se impondrá la corrección disciplinaria que se estime procedente, sin perjuicio de dar vista al ministerio público, si con su ausencia resulta la posible comisión de hechos delictuosos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
@@ -1027,7 +1033,7 @@ Si es el defensor o el asesor jurídico del ofendido, quienes alteran el orden, 
 
 Si es el agente del ministerio público quien altera el orden durante la audiencia, el juzgador lo apercibirá, en caso de que insista en su conducta, el juzgador impondrá al agente la corrección disciplinaria que estime pertinente, suspenderá la audiencia y pondrá los hechos, en conocimiento del Procurador General de Justicia del Estado, para lo que legalmente proceda.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
@@ -1121,7 +1127,9 @@ III.- No se pueda ocurrir ante la autoridad judicial por razón de la hora, luga
 
 Se califican como delitos graves, en atención a la importancia del bien jurídico tutelado y la grave afectación al orden social que su comisión implica, los tipos penales dolosos, contenidos en los artículos del Código Penal para el Estado de Hidalgo que a continuación se precisan:
 
-I.- El homicidio, cuando deba aplicarse la punibilidad prevista por los artículos 136, 137 o 138;
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2013)</small>
+
+I.- El homicidio, cuando deba aplicarse la punibilidad prevista por los Artículos 136, 137 ó 138, y el feminicidio previsto en el Artículo 139 Bis;
 
 II.- Las lesiones previstas por el artículo 141 fracciones IV, V y VI, cuando pongan en peligro la vida o concurra alguna de las agravantes o calificativas que prevén los numerales 142 y 147;
 
@@ -1143,7 +1151,7 @@ VII.- El robo calificado, cuando el monto de lo robado sea igualo mayor a quinie
 
 VIII.- El abigeato, previsto por el Artículo 208, fracción II, en relación al párrafo final del mismo numeral, así como los tipos penales que prevén las fracciones I, II y III del Artículo 209 y cuando este delito, se ejecute en términos de lo previsto por el Artículo 18 segundo párrafo;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2010)</small>
 
@@ -1151,7 +1159,7 @@ IX.- La extorsión en cualquiera de sus modalidades;
 
 X.- El despojo, cuando deba aplicarse la punibilidad prevista por el primer párrafo del artículo 220;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2010)</small>
 
@@ -1211,19 +1219,19 @@ El ministerio público evitará que el indiciado sea incomunicado, intimidado o 
 
 El ministerio público solicitará y el juez librará orden de aprehensión contra el inculpado, cuando estén reunidos los requisitos que señala el artículo 16 Constitucional y el numeral 398 de este Código.
 
-(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
+(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
 
 ###### ARTICULO 122.
 
 La autoridad que ejecute una orden de aprehensión, deberá poner al inculpado a disposición del juez, sin dilación alguna y bajo su más estricta responsabilidad, debiendo informar a éste acerca de la fecha, hora y lugar en que se efectuó.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
 Se entenderá que el inculpado queda a disposición del juzgador para los efectos constitucionales y legales correspondientes, desde el momento en que el agente de investigación, en cumplimiento de la orden respectiva, lo ponga a disposición de aquél en el centro de reclusión o de salud y le sea puesto en conocimiento lo anterior. El encargado asentará en el documento relativo a la orden de aprehensión ejecutada, que le presente el agente de investigación, el día y hora de recibido el detenido.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
@@ -1269,7 +1277,7 @@ La prisión preventiva no podrá exceder del máximo de la pena privativa de la 
 
 En toda pena privativa de la libertad que imponga una sentencia, se computará el tiempo en que el inculpado estuvo privado de la misma. También se computará en las penas substitutivas de la prisión.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
@@ -1277,7 +1285,7 @@ Los integrantes del sistema de seguridad pública, que estuvieren sujetos a pris
 
 ### CAPITULO III. ARRAIGO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 132.
 
@@ -1301,13 +1309,13 @@ En caso de que el indiciado quebrante el arraigo se considerará que existe ries
 
 Cuando el procesado no deba ser internado en prisión preventiva y existan motivos suficientes para temer que se sustraiga a la acción de la justicia, el ministerio público podrá solicitar al juez, o éste disponer de oficio, el arraigo del procesado con las características y por el tiempo que el juzgador señale, sin que en ningún caso pueda exceder del máximo establecido por el artículo 20 fracción VIII de la Constitución Federal. El juzgador resolverá, escuchando al ministerio público y al arraigado, sobre la subsistencia o el levantamiento del arriago (sic).
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### ARTICULO 134.
 
 (DEROGADO, P.O. 1 DE DICIEMBRE DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### ARTICULO 135.
 
@@ -1335,7 +1343,7 @@ El embargo también se levantará, si por cualquier causa se decreta la libertad
 
 El ofendido o sus legítimos representantes, podrán solicitar al ministerio público durante la averiguación previa, o al juzgador en el proceso, que dicte las providencias necesarias para asegurar sus derechos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 1999)</small>
 
 ###### ARTICULO 139.
 
@@ -1353,7 +1361,7 @@ Si por cualquier causa se decreta la libertad del inculpado, quedarán sin efect
 
 ### CAPITULO VI. CATEOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 1999)</small>
 
 ###### ARTICULO 140.
 
@@ -1501,7 +1509,7 @@ Cuando haya que examinar a un alto funcionario del Estado o de la Federación, q
 
 Para los efectos de este artículo, se consideran altos funcionarios a aquellos servidores públicos que puedan ser sujetos a juicio político conforme a la Constitución Federal y la del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 1999)</small>
 
 ###### ARTICULO 160.
 
@@ -1573,7 +1581,7 @@ El funcionario que practique las diligencias deberá dictar las providencias nec
 
 #### SECCION SEGUNDA. DOCUMENTAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 1999)</small>
 
 ###### ARTICULO 170.
 
@@ -1715,7 +1723,7 @@ El juzgador podrá ordenar que se repita el cotejo por otros peritos.
 
 #### SECCION CUARTA. INSPECCION
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 1999)</small>
 
 ###### ARTICULO 193.
 
@@ -1783,7 +1791,7 @@ Esta prueba podrá ser ofrecida, analizada y valorada, tanto para determinar la 
 
 Además de los señalados en la fracción IV del artículo 20 Constitucional, los careos procedimentales se practicarán cuando exista contradicción en las declaraciones de dos personas, pudiendo repetirse cuando la autoridad lo estime oportuno o cuando surjan nuevos puntos de contradicción.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 1999)</small>
 
 ###### ARTICULO 202.
 
@@ -1889,7 +1897,7 @@ Cuando hubiere versiones distintas acerca de la forma en que ocurrieron los hech
 
 #### SECCION CUARTA. CUMPULSA (SIC) DE DOCUMENTOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 1999)</small>
 
 ###### ARTICULO 217.
 
@@ -2169,7 +2177,7 @@ Si el funcionario recusado acepta que concurre en el impedimento, el superior ca
 
 En el caso de que el funcionario recusado, estime que no es cierta o que no es legal la causa alegada, prevendrá al recusante para que comparezca ante su superior, dentro de los tres días siguientes y en su caso, señale domicilio para oír y recibir notificaciones. Si el recusante no cumple con este requisito en el término señalado, se tendrá por precluído el derecho a recusar.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 1999)</small>
 
 ###### ARTICULO 258.
 
@@ -2211,7 +2219,7 @@ Deberá promoverse ante el juez penal que conozca del proceso, hasta antes de qu
 
 La demanda deberá expresar, clara y suscintamente (sic) los hechos o circunstancias que hubieren originado los daños y perjuicios, se fijará con precisión la cuantía de los mismos, así como los conceptos por los que proceda.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 1999)</small>
 
 ###### ARTICULO 264.
 
@@ -2353,7 +2361,7 @@ La nulidad no podrá ser invocada por quien dio lugar a ella.
 
 La nulidad de una actuación o de varias, se reclamará verbalmente en la actuación subsecuente en que se deba de intervenir, o por escrito dentro de los tres días siguientes a cualquier acto que implique conocimiento tácito o expreso de la carencia de formalidad. De lo contrario se tendrá por perdido el derecho para reclamarla, sin perjuicio de la valoración que proceda.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 284.
 
@@ -2387,11 +2395,11 @@ Transcurrido el plazo a que se refiere el párrafo anterior y recabadas las cons
 
 El responsable de la pérdida o sustracción de algún expediente o constancia del mismo, tendrá la obligación de pagar los daños y perjuicios que se hayan ocasionado. Además se le impondrá la corrección disciplinaria que se estime procedente, sin perjuicio de la responsabilidad penal en que incurriere.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE MARZO DE 1999)</small>
 
 ### CAPITULO IX. INCIDENTES DE REDUCCION DE CAUCION O AUMENTO DE LA GARANTIA DE LA REPARACION DE LOS DAÑOS Y PERJUICIOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 1999)</small>
 
 ###### ARTICULO 288.
 
@@ -2587,7 +2595,7 @@ En el caso de la fracción I de este artículo, se entenderá que el inculpado s
 
 En el caso de la fracción III de este artículo, el aviso de cambio de domicilio lo deberá realizar el inculpado en la fecha siguiente que le corresponda firmar en el libro de caucionados. Si no comunicara el cambio de domicilio o no lo hiciere oportunamente, el juez lo apercibirá que si incumple de nueva cuenta esta obligación se le revocará su libertad provisional y se harán efectivas la caución que otorgó para garantizar su libertad personal y la garantía de la reparación de los daños y perjuicios, en los términos previstos por este Código; si la caución o la garantía hubieran sido otorgadas por un tercero, también deberá notificarse a éste el apercibimiento.
 
-(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
+(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
 
 ###### ARTICULO 308.
 
@@ -2623,7 +2631,7 @@ VII.- En los demás casos expresamente previstos por la ley.
 
 Cuando por incumplimiento de la obligación estipulada por la fracción IV del artículo 307 de este Código, en virtud de haber dejado de ser suficiente la garantía o caución otorgadas, se le concederá al caucionado un plazo de hasta diez días para que satisfaga la suficiencia; en los casos previstos por las fracciones III y IV de este artículo, se le citará dentro del mismo plazo para que responda del proceso o de las penas impuestas. No satisfechos los requerimientos dentro del plazo fijado por el juez, se le revocará su libertad caucional y se ordenará su reaprehensión.
 
-(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
+(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
 
 ###### ARTICULO 309.
 
@@ -2675,7 +2683,7 @@ Cuando resulte condenado el inculpado que se encontraba gozando de su libertad c
 
 Cuando un tercero haya garantizado la libertad provisional bajo caución del inculpado y se resolviera su revocación por alguna de las causas procedentes a que se refiere el Artículo 310 de este Código, el juzgador requerirá al tercero concediéndole un plazo de hasta quince días para que presente al inculpado a responder del proceso o de las penas impuestas en los términos de este Código según corresponda. Transcurrido el plazo sin que el tercero haya presentado al inculpado, se ordenará hacer efectiva la garantía de la reparación de los daños y perjuicios y la caución personal, ordenándose la reaprehensión del inculpado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 313.
 
@@ -2817,7 +2825,7 @@ Las resoluciones judiciales serán impugnables sólo por los recursos y en los c
 
 Las impugnaciones, según el caso, tienen por objeto examinar, si en la resolución recurrida no se aplicó la ley correspondiente o se aplicó inexactamente, si se violaron los principios reguladores de la valoración de la prueba o si se alteraron los hechos.
 
-REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 1999)
+REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 1999)
 
 ###### ARTICULO 328.
 
@@ -2921,7 +2929,7 @@ VII.- Los autos que resuelvan las excepciones fundadas en alguna de las causas d
 
 VIII.- Las demás resoluciones que señale la ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 338.
 
@@ -2937,7 +2945,7 @@ Con motivo de la interposición del recurso de apelación, en ningún caso se su
 
 Si la apelación se interpone conforme a las disposiciones que establece este título, el juzgador deberá admitirla y señalar el efecto en que la admita; en caso contrario la desechará de plano. Contra el auto que admita la apelación no procede recurso alguno. En contra del auto que deseche la interposición del recurso de apelación, procederá el recurso de denegada apelación, conforme al artículo 347 de este Código.
 
-> <small>(REFORMADO PRIMER PARRAFO Y REUBICADO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO Y REUBICADO, P.O. 22 DE MARZO DE 1999)</small>
 
 ###### ARTICULO 340.
 
@@ -2971,7 +2979,7 @@ Recibida la causa original o el duplicado y el cuadernillo correspondiente, el T
 
 Cuando no existan pruebas para su desahogo, en el mismo auto de radicación se hará la citación para sentencia la cual será dictada en los términos del artículo 345 de este Código.
 
-> <small>(REFORMADO PRIMER PARRAFO Y REUBICADO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO Y REUBICADO, P.O. 22 DE MARZO DE 1999)</small>
 
 ###### ARTICULO 344.
 
@@ -3003,7 +3011,7 @@ El tribunal pronunciará el fallo correspondiente, dentro del plazo de quince d�
 
 Si al entrar al estudio de las constancias del proceso cuya sentencia condenatoria fue impugnada en apelación, es evidente alguno de los casos de reposición del procedimiento que prevé el Artículo 346 Bis de este Código, la Sala Penal ordenará de oficio la reposición del procedimiento, salvo que ello no sea necesario en virtud de ser suficiente la suplencia parcial o total de los agravios de la apelación para revocar o modificar la sentencia impugnada.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 22 DE MARZO DE 1999)</small>
 
 #### SECCION SEGUNDA. REPOSICION DEL PROCEDIMIENTO
 
@@ -3041,7 +3049,7 @@ El juez, sin substanciación alguna, deberá enviar a la sala penal del tribunal
 
 Si el tribunal declara admisible la apelación, ordenará al juez que le envíe el expediente original o duplicado del mismo, según proceda, a fin de tramitar el recurso, en caso contrario se archivará el toca respectivo y se dará el aviso correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 1999)</small>
 
 ###### ARTICULO 349.
 
@@ -3059,7 +3067,7 @@ El recurso de queja procede contra las conductas omisivas de los jueces que no e
 
 El recurso de queja deberá interponerse por escrito ante la Sala Penal del Tribunal Superior de Justicia, dentro de los cinco días siguientes contados a partir de que se produjo la situación que la motiva, expresando las razones en que se funde.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 1999)</small>
 
 ###### ARTICULO 351.
 
@@ -3119,7 +3127,7 @@ La averiguación previa consiste en la investigación de los hechos posiblemente
 
 Para efectos de este Código, denuncia o querella, son los medios de que pueden valerse las personas para hacer del conocimiento del ministerio público o de sus auxiliares, de hechos posiblemente delictuosos. La denuncia es suficiente para iniciar el procedimiento penal, en delitos que se persigan de oficio y la puede hacer cualquier persona. La querella constituye un requisito de procedibilidad y consiste en la solicitud o anuencia, para proceder penalmente en contra del probable responsable, en los delitos que sólo se pueden perseguir a petición de parte ofendida o de su representante legítimo.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE MARZO DE 1999)</small>
 
 ### CAPITULO II. DENUNCIA O QUERELLA
 
@@ -3153,7 +3161,7 @@ Cumplidos los catorce años de edad, el ofendido podrá querellarse por sí mism
 
 La querella formulada en representación de personas físicas o morales, se admitirá cuando el apoderado tenga poder especial o poder general con cláusula para formular querella, sin que sea necesario acuerdo, calificación del consejo de administración o de la asamblea de socios o accionistas, o poder especial para el caso determinado, ni instrucciones concretas del mandante.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 1999)</small>
 
 ###### ARTICULO 364.
 
@@ -3275,11 +3283,11 @@ Para el aseguramiento, decomiso, destrucción y pérdida de los objetos, instrum
 
 ### CAPITULO IV. ASISTENCIA A MENORES O ENFERMOS MENTALES
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2013)</small>
 
 ###### ARTICULO 383.
 
-Cuando el probable responsable de un delito, fuere ascendiente del ofendido o persona que ejercía autoridad sobre él, y éste es menor o enfermo mental, será trasladado a una casa de reconocida honradez o a una institución asistencial, si no hubiere familiares idóneos que se hagan cargo, dando aviso de esta medida a la Procuraduría de la Defensa del Menor y la Familia cuando se trate de menores, o a la institución de asistencia social que corresponda tratándose de enfermos mentales.
+Cuando el probable responsable de un delito, fuere ascendiente del ofendido o persona que ejercía autoridad sobre él, y éste es menor de edad o enfermo mental, será trasladado a un núcleo familiar viable, institución de asistencia social o a una institución de salud, según corresponda, si no hubiere familiares idóneos que se hagan cargo, dando aviso de esta medida a la Procuraduría de la Defensa del Menor y la Familia cuando se trate de menores, o a la institución de salud que corresponda tratándose de enfermos mentales.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE MARZO DE 1999)</small>
 
@@ -3295,7 +3303,7 @@ Cuando el probable responsable de un delito, fuere ascendiente del ofendido o pe
 
 El cuerpo del delito se integra por los elementos constitutivos de la conducta típica que se desprende de la descripción legal del delito que se trate, y se comprobará por cualquiera de los medios probatorios que permita la ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 1999)</small>
 
 ###### ARTICULO 385.
 
@@ -3365,13 +3373,13 @@ El Ministerio Público al ejercitar la acción penal o la autoridad judicial cua
 
 Para el ejercicio de la acción penal, el ministerio público, deberá tener por comprobado el cuerpo del delito y establecida la probable responsabilidad del indiciado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 1999)</small>
 
 ###### ARTICULO 388.
 
 Tan pronto como resulte que se ha comprobado el cuerpo del delito y la probable responsabilidad del indiciado, así como satisfechos los requisitos de procedibilidad cuando éstos sean exigibles, el ministerio público ejercitará la acción penal, solicitando del órgano jurisdiccional competente la orden de aprehensión o de comparecencia, según corresponda, del o de los probables responsables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2010)</small>
 
@@ -3421,7 +3429,7 @@ La determinación que resuelva el no ejercicio de la acción Penal, deberá ser 
 
 ### CAPITULO III. RESERVA Y ARCHIVO DEFINITIVO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2010)</small>
 
@@ -3431,9 +3439,9 @@ Cuando el Ministerio Público considere que de las diligencias practicadas no re
 
 En el caso de delitos graves así contemplados por la Ley, además, el Ministerio Público, al solicitar la autorización de reserva, deberá acreditar plenamente la imposibilidad de allegarse de más medios probatorios o que éstos son insuficientes para ejercitar la acción penal, así como que ha girado el oficio correspondiente ordenando a· la policía llevar a cabo investigaciones tendientes a lograr el esclarecimiento de los hechos, el término de la reserva en éstos, será el mismo término de la prescripción de la acción Penal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE AGOSTO DE 2010)</small>
 
 ###### ARTÍCULO 393.
 
@@ -3459,7 +3467,7 @@ Una vez notificada la autorización del archivo definitivo de una averiguación,
 
 #### SECCION PRIMERA. AUTO DE RADICACION
 
-(REFORMADO PRIMER PARRAFO, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
+(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE AGOSTO DE 1994) (REPUBLICADO, P.O. 6 DE FEBRERO DE 1996)
 
 ###### ARTICULO 396.
 
@@ -3505,7 +3513,7 @@ Si el juez niega la orden de aprehensión o comparecencia, o en su caso la negat
 
 Cuando la negativa de la orden de aprehensión se hubiere fundado en la incomprobación del cuerpo del delito, la investigación ministerial deberá continuarse hasta el término de la prescripción de la acción penal, salvo cuando se compruebe plenamente alguna causa que haga procedente la autorización del archivo definitivo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
@@ -3609,7 +3617,7 @@ El ministerio público, el coadyuvante o su asesor jurídico podrán intervenir 
 
 La prórroga del plazo deberá ser notificada de inmediato al Director del Centro de Readaptación Social, para los efectos previstos por el segundo párrafo del Artículo 19 Constitucional.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 1999)</small>
 
 ###### ARTICULO 409.
 
@@ -3697,7 +3705,7 @@ Los procesos de la competencia de los jueces mixtos menores, se tramitarán siem
 
 Si dentro del plazo constitucional de setenta y dos horas o en su caso de la prórroga del mismo, no se reúnen los requisitos necesarios para dictar el auto de formal procesamiento por no haberse comprobado la probable responsabilidad del inculpado, el juez dictará auto de libertad por falta de elementos para procesar, sin perjuicio de que por datos posteriores de prueba obtenidos en ejercicio de su función investigadora el ministerio público solicite nueva orden de aprehensión, siempre y cuando dicha solicitud sea realizada dentro del plazo de ciento ochenta días contados a partir de que surta efectos la notificación del auto o su confirmación por el Tribunal de Alzada.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 1999)</small>
 
 ###### ARTICULO 417.
 
@@ -3715,7 +3723,7 @@ Durante la instrucción, el juzgador deberá admitir, preparar y desahogar las p
 
 Además, el juzgador deberá tomar conocimiento directo del procesado, del ofendido y de las circunstancias del hecho, en la medida requerida para cada caso, teniendo amplias facultades para allegarse, de oficio, las pruebas que estime necesarias.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 1999)</small>
 
 ###### ARTICULO 419.
 
@@ -4025,7 +4033,7 @@ La vigilancia de la autoridad a que se refiere el artículo 69 del Código Penal
 
 # LIBRO QUINTO. PROCEDIMIENTOS ESPECIALES Y MEDIDAS DE TRATAMIENTO
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE MARZO DE 1999)</small>
 
 ## TITULO PRIMERO. PROCEDIMIENTO SUMARIO
 
@@ -4115,7 +4123,7 @@ El juzgador auxiliará a los peritos para que puedan interrogar a los parientes 
 
 El juzgador con vista en el dictamen o dictámenes y demás constancias de autos resolverá lo procedente, en un término de cinco días a partir del momento en que se hayan desahogado las pruebas ordenadas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 1999)</small>
 
 ###### ARTICULO 478.
 
@@ -4153,7 +4161,7 @@ Las resoluciones que se dicten con motivo de las medidas de seguridad consistent
 
 ## TITULO TERCERO. PROCEDIMIENTO PARA CIEGOS Y SORDOMUDOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 1999)</small>
 
 ###### ARTICULO 484.
 
@@ -4195,13 +4203,13 @@ Cuando el inculpado es ciego o sordomudo por causas de enfermedad sufrida en eda
 
 Las resoluciones que se dicten con motivo de las medidas de seguridad consistentes en tratamiento de carácter instructivo o curativo, no admitirán recurso alguno. Las que se dicten con motivo del procedimiento penal ordinario admitirán los recursos que establece este Código.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
-> <small>(REFORMADA, SU DENOMINACION, P.O. 9 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, SU DENOMINACIÓN, P.O. 9 DE AGOSTO DE 2010)</small>
 
 ## TÍTULO CUARTO. DISPOSICIONES EN MATERIA DE NARCOMENUDEO Y DELITOS GRAVES
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2010)</small>
 
@@ -4213,7 +4221,7 @@ La Averiguación Previa así como todos los documentos independientemente de su 
 
 Al servidor público que indebidamente quebrante el sigilo de las actuaciones o proporcione copias simples o certificadas de ellas o de los documentos, se le sujetará al procedimiento de responsabilidad administrativa o penal, según corresponda.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 > <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2010)</small>
 
@@ -4221,13 +4229,13 @@ Al servidor público que indebidamente quebrante el sigilo de las actuaciones o 
 
 En los casos de delitos Federales o contenidos en Leyes especiales que por competencia concurrente sean del conocimiento de las autoridades del fuero común, se estará al procedimiento previsto en este Código, salvo las excepciones previstas en dichos ordenamientos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### ARTICULO 490.
 
 (DEROGADO, P.O. 9 DE AGOSTO DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
 ###### ARTICULO 491.
 
@@ -4313,7 +4321,7 @@ LIC. ERNESTO GIL ELORDUY.
 
 Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
 P.O. 29 DE AGOSTO DE 1994.
 
@@ -4468,3 +4476,9 @@ Lo establecido en este artículo mantendrá su vigencia hasta que haya sido inst
 P.O. 31 DE MARZO DE 2011.
 
 ÚNICO.- El presente Decreto entrará en vigor, al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 1 DE ABRIL DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor, al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
