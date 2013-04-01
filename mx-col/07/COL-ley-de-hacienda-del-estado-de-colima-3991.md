@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-del-estado-de-colima-3991"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-26"
-last_updated: "2013-01-12"
+last_updated: "2013-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "COL"
 
 LEY DE HACIENDA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2012.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 12 DE ENERO DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2013.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1992.
 
@@ -4983,17 +4981,13 @@ PRIMERO.- La presente Ley entrará en vigor el día primero de enero de 1993, pr
 
 SEGUNDO.- Se abroga la Ley de Hacienda del Estado expedida el 23 de diciembre de 1981, y publicada en el Periódico Oficial "EL ESTADO DE COLIMA", el 26 del mismo mes y año, sus posteriores reformas y adiciones y todas las disposiciones y demás ordenamientos que se opongan a la presente Ley.
 
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2013)</small>
 
-TERCERO.- En el ejercicio fiscal 2012, el plazo señalado en el Artículo 41 Z BIS 12 de la Ley de Hacienda del Estado de Colima, para el pago del Impuesto Sobre Tenencia o Uso de Vehículos se amplía hasta el día 31 de julio.
+TERCERO.- En el ejercicio fiscal 2013, el plazo señalado en el Artículo 41 Z BIS 12 de la Ley de Hacienda del Estado de Colima, para el pago del Impuesto Sobre Tenencia o Uso de Vehículos se amplía hasta el día 19 de abril del mismo año.
 
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2013)</small>
 
-CUARTO.- En el ejercicio fiscal 2012, el plazo señalado en el Artículo 53, fracción IV, Segundo párrafo, de la Ley de Hacienda del Estado de Colima, para el pago del derecho por la renovación anual de la calcomanía fiscal vehicular se amplía hasta el día 31 de julio.
-
-> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2010)</small>
-
-En el ejercicio fiscal 2010, el pago de los derechos por la expedición o renovación anual de la calcomanía fiscal vehícular, prevista en el artículo 53, fracción IV, de la Ley de Hacienda del Estado de Colima, podrá efectuarse sin recargos ni multas hasta el 30 de abril del presente año.
+CUARTO.- En el ejercicio fiscal 2013, el plazo señalado en el Artículo 53, fracción IV, Segundo párrafo, de la Ley de Hacienda del Estado de Colima, para el pago del derecho por la renovación anual de la calcomanía fiscal vehicular se amplía hasta el día 19 de abril del mismo año.
 
 El Gobernador Constitucional del Estado dispondrá se publique, circule y observe.
 
@@ -5391,8 +5385,18 @@ a).- Impuestos, derechos y aprovechamientos estatales;
 
 b).- Impuestos, derechos y multas federales, administrados por el Gobierno del Estado de Colima en términos del Convenio de Colaboración Administrativa en Materia Fiscal Federal y sus Anexos; y
 
-II.- Que el pago de las contribuciones vehiculares correspondientes al ejercicio fiscal 2013 que resulte procedente se efectúe de enero a marzo de dicho año, si el vehículo fue inscrito en el Registro Público Vehicular del Estado antes de 2013 o durante el periodo aquí señalado.
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2013)</small>
 
-Respecto de los vehículos nuevos o importados que se inscriban en el Registro Público Vehicular del Estado entre el 01 de abril y el 31 de diciembre de 2013, se tendrá derecho al subsidio otorgado en los términos del presente transitorio, siempre que sus tenedores o usuarios cumplan con el requisito señalado en la fracción I, incisos a) y b).
+II.- Que el pago de las contribuciones vehiculares correspondientes al ejercicio fiscal 2013 que resulte procedente se efectúe a más tardar el 19 de abril de dicho año, si el vehículo fue inscrito en el Registro Público Vehicular del Estado antes de 2013.
+
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2013)</small>
+
+Respecto de los vehículos nuevos o importados que se inscriben en el Registro Público Vehicular del Estado entre el 20 de abril y el 31 de diciembre de 2013, se tendrá derecho al subsidio otorgado en los términos del presente transitorio, siempre que sus tenedores o usuarios cumplan con el requisito señalado en la fracción I, incisos a) y b).
 
 TERCERO.- Para los efectos del ajuste monetario en el pago de las contribuciones a que se refiere el artículo segundo transitorio del decreto de reformas a la Ley de Hacienda del Estado, publicado en el Periódico Oficial "El Estado de Colima" el 31 de diciembre de 1997 y en el caso concreto de los derechos que se causan por los servicios prestados en los Kioscos de Servicios Electrónicos, durante el año 2013 el monto se ajustará a la decena de pesos inferior más próxima.
+
+P.O. 1 DE ABRIL DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
