@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-interior-de-la-contraloria-interna-del-h-39706"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-05-31"
-last_updated: "2004-05-31"
+last_updated: "2013-04-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39706&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 REGLAMENTO INTERIOR DE LA CONTRALORÍA INTERNA DEL H. CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA CONTRALORÍA INTERNA DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO, PUBLICADO EN LA OCTAVA SECCIÓN DEL P.O. DE 1 DE ABRIL DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Michoacán, el lunes 31 de mayo de 2004.
 
@@ -318,3 +320,15 @@ TRANSITORIOS (SIC)
 Palacio del Poder Legislativo.- Morelia, Michoacán de Ocampo, al 1 primer días del mes de abril de 2004 dos mil cuatro.
 
 PRESIDENTE.- DIP. RAÚL MORÓN OROZCO.- PRIMER SECRETARIO.- DIP. RAFAEL RAMÍREZ SÁNCHEZ.- SEGUNDO SECRETARIO.- DIP. ESTEBAN ARROYO BLANCO.- TERCER SECRETARIO.- DIP. GILBERTO CORIA GUDIÑO. (Firmados).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 1 DE ABRIL DE 2013.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Contraloría Interna del H. Congreso del Estado de Michoacán de Ocampo, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, de fecha 31 de mayo de 2004.
+
+TERCERO. Todos los procedimientos administrativos iniciados previos a la aprobación de este Reglamento, continuarán su tramitación conforme a la disposición anterior.
+
+CUARTO. Remítase el presente Decreto al Gobernador del Estado, para que disponga su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
