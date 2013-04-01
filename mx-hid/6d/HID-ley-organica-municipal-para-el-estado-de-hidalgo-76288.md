@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-para-el-estado-de-hidalgo-76288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-08-09"
-last_updated: "2012-09-03"
+last_updated: "2013-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2013.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 9 de agosto de 2010.
 
@@ -123,7 +123,7 @@ Para dirimir las controversias que se generen entre la Administración Pública 
 
 ###### ARTÍCULO 10.
 
-El territorio del Estado, se integra con los 84 Municipios siguientes: 1.- Acatlán, 2.- Acaxochitlán, 3.- Actopan, 4.- Agua Blanca de Iturbide, 5.- Ajacuba, 6.- Alfajayucan, 7.- Almoloya, 8.- Apan, 9.- Atitalaquia, 10.- Atlapexco, 11.- Atotonilco El Grande, 12.- Atotonilco de Tula, 13.- Calnali, 14.- Cardonal, 15; Cuautepec de Hinojosa, 16.- Chapantongo, 17.- Chapulhuacán, 18.- Chilcuautla, 19.- El Arenal, 20.- Eloxochitlán, 21.- Emiliano Zapata, 22.- Epazoyucan, 23.- Francisco I. Madero, 24.- Huasca de Ocampo, 25.- Huautla, 26.- Huazalingo, 27.- Huehuetla, 28.- Huejutla de Reyes, 29.- Huichapan, 30.- Ixmiquilpan, 31.- Jacala de Ledezma, 32.- Jaltocán, 33.- Juárez Hidalgo, 34.- La Misión, 35.- Lolotla, 36.- Metepec, 37.- Metztitlán, 38.- Mineral del Chico, 39.- Mineral del Monte, 40.- Mineral de la Reforma, 41.- Mixquiahuala de Juárez, 42.- Molango de Escamilla, 43.- Nicolás Flores, 44.- Nopala de Villagrán, 45.- Omitlán de Juárez, 46.- Pacula, 47.- Pachuca de Soto, 48.- Pisaflores, 49.- Progreso de Obregón, 50.- San Agustín Metzquititlán 51.- San Agustín Tlaxiaca, 52.- San Bartolo Tutotepec, 53.- San Felipe Orizatlán, 54.- San Salvador, 55.- Santiago de Anaya, 56.- Santiago Tulantepec de Lugo Guerrero, 57.- Singuilucan, 58.- Tasquillo, 59.- Tecozautla, 60.- Tenango de Doria, 61.- Tepeapulco, 62.- Tepehuacán de Guerrero, 63.- Tepeji del Río de Ocampo, 64.- Tepetitlán, 65.- Tetepango, 66.- Tezontepec de Aldama, 67.- Tianguistengo, 68.- Tizayuca, 69.- Tlahuelilpan, 70.- Tlahuiltepa, 71.- Tlanalapa, 72.- Tlanchinol, 73.- Tlaxcoapan, 74.- Tolcayuca, 75.- Tula de Allende, 76.- Tulancingo de Bravo, 77.- Villa de Tezontepec, 78.- Xochiatipan, 79.- Xochicoatlán, 80.- Yahualica, 81.- Zacualtipán de Ángeles, 82.- Zapotlán de Juárez, 83.- Zempoala, 84.- Zimapán.
+El territorio del Estado, se integra con los 84 Municipios siguientes: 1.- Acatlán, 2.- Acaxochitlán, 3.- Actopan, 4.- Agua Blanca de Iturbide, 5.- Ajacuba, 6.- Alfajayucan; 7.- Almoloya, 8.- Apan, 9.- Atitalaquia, 10.- Atlapexco, 11.- Atotonilco El Grande, 12.- Atotonilco de Tula, 13.- Calnali, 14.- Cardonal, 15; Cuautepec de Hinojosa, 16.- Chapantongo, 17.- Chapulhuacán, 18.- Chilcuautla, 19.- El Arenal, 20.- Eloxochitlán, 21.- Emiliano Zapata, 22.- Epazoyucan, 23.- Francisco I. Madero, 24.- Huasca de Ocampo, 25.- Huautla, 26.- Huazalingo, 27.- Huehuetla, 28.- Huejutla de Reyes, 29.- Huichapan, 30.- Ixmiquilpan, 31.- Jacala de Ledezma, 32.- Jaltocán, 33.- Juárez Hidalgo, 34.- La Misión, 35.- Lolotla, 36.- Metepec, 37.- Metztitlán, 38.- Mineral del Chico, 39.- Mineral del Monte, 40.- Mineral de la Reforma, 41.- Mixquiahuala de Juárez, 42.- Molango de Escamilla, 43.- Nicolás Flores, 44.- Nopala de Villagrán, 45.- Omitlán de Juárez, 46.- Pacula, 47.- Pachuca de Soto, 48.- Pisaflores, 49.- Progreso de Obregón, 50.- San Agustín Metzquititlán 51.- San Agustín Tlaxiaca, 52.- San Bartolo Tutotepec, 53.- San Felipe Orizatlán, 54.- San Salvador, 55.- Santiago de Anaya, 56.- Santiago Tulantepec de Lugo Guerrero, 57.- Singuilucan, 58.- Tasquillo, 59.- Tecozautla, 60.- Tenango de Doria, 61.- Tepeapulco, 62.- Tepehuacán de Guerrero, 63.- Tepeji del Río de Ocampo, 64.- Tepetitlán, 65.- Tetepango, 66.- Tezontepec de Aldama, 67.- Tianguistengo, 68.- Tizayuca, 69.- Tlahuelilpan, 70.- Tlahuiltepa, 71.- Tlanalapa, 72.- Tlanchinol, 73.- Tlaxcoapan, 74.- Tolcayuca, 75.- Tula de Allende, 76.- Tulancingo de Bravo, 77.- Villa de Tezontepec, 78.- Xochiatipan, 79.- Xochicoatlán, 80.- Yahualica, 81.- Zacualtipán de Ángeles, 82.- Zapotlán de Juárez, 83.- Zempoala, 84.- Zimapán.
 
 La sede del Ayuntamiento residirá en la Cabecera Municipal, podrá ser reubicada temporalmente cuando las circunstancias así lo justifiquen, con la aprobación de la mayoría de sus integrantes y en caso de que sea definitiva, se requerirá la autorización del Congreso del Estado.
 
@@ -555,7 +555,13 @@ La falta de los regidores propietarios por defunción, inhabilitación, renuncia
 
 Cada Municipio podrá organizar actos cívicos en las fechas históricas tradicionales y desarrollar eventos o actividades que tiendan a fomentar la educación cívica y la superación cultural de sus habitantes.
 
-Los órganos que al efecto se conformen, se integrarán y funcionarán, en términos de los reglamentos correspondientes y en concordancia con el párrafo noveno del Artículo 4° de la Constitución Política de los Estados Unidos Mexicanos, básicamente al elaborar el diagnóstico y el programa Municipal de cultura, el catálogo de su patrimonio y el de sus principales manifestaciones culturales; podrán promover estas actividades alentando la participación social, fomentando la investigación y difusión de las manifestaciones culturales en el Municipio.
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2013)</small>
+
+Los órganos que al efecto se conformen, se integrarán y funcionarán, en términos de los reglamentos correspondientes y en concordancia con el párrafo décimo primero del Artículo 4° de la Constitución Política de los Estados Unidos Mexicanos, básicamente al elaborar el diagnóstico y el Programa Municipal de cultura, el catálogo de su patrimonio y el de sus principales manifestaciones culturales; podrán promover estas actividades alentando la participación social, fomentando la investigación y difusión de las manifestaciones culturales en el Municipio.
+
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2013)</small>
+
+ARTÍCULO 55 BIS.- En función del presupuesto destinado al rubro, en las bibliotecas públicas municipales se otorgarán servicios culturales complementarios, mediante la impartición permanente de exposiciones, conferencias, talleres o cursos de geografía, historia, literatura, poesía, música, filosofía, idiomas, fotografía, arte en sus distintas manifestaciones, así como aquellos que dispongan las Autoridades Municipales, los cuales se dirijan a promover el desarrollo cultura de los hidalguenses.
 
 ### CAPÍTULO SEXTO. FACULTADES Y OBLIGACIONES DE LOS PRESIDENTES MUNICIPALES
 
@@ -603,7 +609,7 @@ I).- Cuidar del mantenimiento y aseo de las calles, calzadas, avenidas, lugares 
 
 m).- Cuidar que las vías públicas se mantengan expeditas para el tránsito de peatones y vehículos;
 
-n) Auxiliar a las autoridades de la Federación y del Estado en las medidas que adopten para hacer cumplir las disposiciones del Artículo 28 de la Constitución Política de los Estados Unidos Mexicanos, en materia de monopolios;
+n).- Auxiliar a las autoridades de la Federación y del Estado en las medidas que adopten para hacer cumplir las disposiciones del Artículo 28 de la Constitución Política de los Estados Unidos Mexicanos, en materia de monopolios;
 
 o).- Administrar su patrimonio conforme a la Ley;
 
@@ -655,7 +661,7 @@ j).- Proceder conforme a Ley Sobre Monumentos y Zonas Arqueológicas, Artística
 
 k).- Regular, de acuerdo a su competencia, el funcionamiento de espectáculos y giros industriales, comerciales, turísticos y de servicios profesionales;
 
-l).- Normar el establecimiento de mercados, tianguis y ferias, en su ámbito de competencia;
+l).- Normar *el establecimiento de mercados, tianguis y ferias, en su ámbito de competencia;
 
 m).- Reglamentar, conforme a su competencia, las actividades mercantiles en la vía pública;
 
@@ -1021,9 +1027,11 @@ I.- La Comisión de Hacienda Municipal, vigilará la recaudación en todas las r
 
 II.- Cada comisión estará conformada de tres integrantes, a excepción de la Comisión de Hacienda Municipal, deberá estar integrada cuando menos por un Regidor de cada fracción y por el Síndico; en los casos de Municipios en que, de acuerdo a la Ley, tenga un solo Síndico será quien la presida; en el caso de que existan dos, le corresponderá al hacendario.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ABRIL DE 2013)</small>
+
 ###### ARTÍCULO 71.
 
-Los Ayuntamientos, contarán con comisiones permanentes o especiales, según sus necesidades y de conformidad con su Reglamento Interior.
+Los Ayuntamientos contarán con comisiones permanentes o especiales, según sus necesidades y de conformidad con su Reglamento Interior.
 
 Dichas comisiones podrán ser, entre otras, las siguientes:
 
@@ -1049,11 +1057,19 @@ i).- De Protección Civil;
 
 j).- De Comercio y Abasto;
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 1 DE ABRIL DE 2013)</small>
+
 k).- De igualdad y Género;
 
 l).- De adultos Mayores;
 
-m).- De Medio Ambiente.
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2013)</small>
+
+m).- De Medio Ambiente; y
+
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2013)</small>
+
+n).- De Desarrollo Económico.
 
 II.- Serán especiales, las que designe el Ayuntamiento, de acuerdo con las necesidades del Municipio.
 
@@ -2315,7 +2331,9 @@ Contra las resoluciones que versan sobre el fondo del asunto, procede el recurso
 
 Al interponerse el recurso, deberán expresarse los agravios y podrán ofrecerse las pruebas que se estimen pertinentes, escrito del que se dará vista a las otras partes si las hubiere, para que manifiesten lo que a su derecho convenga ante el superior jerárquico, a quien se remitirá el expediente al día hábil siguiente para que conozca del recurso y lo resuelva.
 
-ARTÍCULO.171.- El escrito con que se promueva un recurso, deberá contener:
+###### ARTÍCULO 171.
+
+El escrito con que se promueva un recurso, deberá contener:
 
 I.- El órgano administrativo a quien se dirige;
 
@@ -2548,3 +2566,7 @@ P.O. 3 DE SEPTIEMBRE DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 1 DE ABRIL DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su Publicación en el Periódico Oficial del Estado de Hidalgo.
