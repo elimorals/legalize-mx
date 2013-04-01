@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-78511"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2011-01-24"
-last_updated: "2013-03-21"
+last_updated: "2013-04-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78511&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2010-11-03"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE ABRIL DE 2013.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el lunes 24 de enero de 2011.
 
@@ -187,9 +187,11 @@ XXVIII. Secretaría: Secretaría Ejecutiva de Disciplina del Consejo de la Judic
 
 XXIX. Titular: magistrado de circuito o juez de distrito;
 
-> <small>(ADICIONADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-XXX. Tribunal Electoral: personal del Tribunal Electoral del Poder Judicial de la Federación considerado en el artículo 145 inciso c) del Acuerdo; y,
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 1 DE ABRIL DE 2013)</small>
+
+XXX. Tribunal Electoral: personal del Tribunal Electoral del Poder Judicial de la Federación considerado en el artículo 158, inciso c) del Acuerdo; y
 
 > <small>(ADICIONADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
 
@@ -641,7 +643,11 @@ El monto que se exija al servidor público por concepto del daño o perjuicio ca
 
 Para la ejecución de la sanción económica que se imponga, se ordenará a la Dirección General de Recursos Humanos que aplique los descuentos quincenales que correspondan, los que no podrán exceder del veinticinco por ciento del sueldo del servidor público respectivo, hasta en tanto se cubra el monto determinado por el Pleno.
 
-En caso que el sancionado ya no preste servicios en el Poder Judicial de la Federación, se estará a lo dispuesto por el artículo 106, fracción III, del Acuerdo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 1 DE ABRIL DE 2013)</small>
+
+En caso que el sancionado ya no preste servicios en el Poder Judicial de la Federación, se estará a lo dispuesto por el artículo 119, fracción III, del Acuerdo.
 
 ### Capítulo II: Investigación
 
@@ -795,9 +801,11 @@ Transcurrido el plazo para que el probable responsable rinda su informe, el órg
 
 Agotado el plazo anterior, no se le admitirán más pruebas, salvo aquellas que a juicio del órgano competente surjan de hechos supervenientes o que determinen la improcedencia del procedimiento de responsabilidad administrativa, en cuyo caso, podrán ofrecerse antes de la extinción del plazo para la presentación de alegatos.
 
-> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-En tratándose de los procedimientos de responsabilidad administrativa que se inicien con motivo de la declaración de situación patrimonial, si del informe rendido por el servidor público se advierte confesión expresa respecto de la irregularidad que se le atribuye o, en su caso, señale que no tiene pruebas que ofrecer, se procederá de inmediato a dictar la resolución correspondiente en los términos previstos por los artículos 92, 138 y 139 del presente Acuerdo.
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 1 DE ABRIL DE 2013)</small>
+
+En tratándose de los procedimientos de responsabilidad administrativa que se inicien con motivo de la declaración de situación patrimonial, si del informe rendido por el servidor público se advierte confesión expresa respecto de la irregularidad que se le atribuye o, en su caso, señale que no tiene pruebas que ofrecer, se procederá de inmediato a dictar la resolución correspondiente en los términos previstos por el artículo 92, 151 y 152, del presente Acuerdo.
 
 ###### Artículo 87.
 
@@ -859,7 +867,11 @@ I. Tratándose de procedimientos de responsabilidad administrativa en contra de 
 
 II. En todos los demás casos resolverá la Comisión.
 
-Lo anterior, salvo lo dispuesto en el artículo 138 del Acuerdo, relativo a los procedimientos de responsabilidad administrativa iniciados con motivo de la declaración de situación patrimonial.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 1 DE ABRIL DE 2013)</small>
+
+Lo anterior, salvo lo dispuesto en el artículo 151 del Acuerdo, relativo a los procedimientos de responsabilidad administrativa iniciados con motivo de la declaración de situación patrimonial.
 
 ###### Artículo 98.
 
@@ -1039,7 +1051,11 @@ II. Imponga sanción salvo las de destitución o inhabilitación a Titular.
 
 Este recurso lo admite y tramita el Presidente y lo resuelve el Pleno. El plazo para la interposición de la reconsideración será de cinco días hábiles y sesenta días hábiles para su resolución.
 
-Si el recurso de reconsideración se interpuso en contra de resolución emitida con fundamento en el artículo 61, primer párrafo, del Acuerdo, por la que se haya destituido o inhabilitado a servidor público que no sea Titular, la reconsideración no podrá resolverse hasta en tanto se decida, en su caso, la suerte del recurso constitucional de revisión administrativa.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 1 DE ABRIL DE 2013)</small>
+
+Si el recurso de reconsideración se interpuso en contra de resolución emitida con fundamento en el artículo 61 del Acuerdo, por la que se haya destituido o inhabilitado a servidor público que no sea Titular, la reconsideración no podrá resolverse hasta en tanto se decida, en su caso, la suerte del recurso constitucional de revisión administrativa.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -1273,17 +1289,25 @@ El interesado podrá obtener dichas constancias a través del sistema electróni
 
 ## TITULO CUARTO: Registro patrimonial de los servidores públicos
 
-### Capítulo I: Reglas generales. (REUBICADO [N. DE E. ANTES ARTÍCULO 128], D.O.F. 13 DE JULIO DE 2012)
+### Capítulo I: Reglas generales
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 1 DE ABRIL DE 2013)</small>
 
 ###### Artículo 141.
 
-Las declaraciones de situación patrimonial de los servidores públicos obligados deberán presentarse ante la Dirección de Registro Patrimonial de la Contraloría, en los módulos que al efecto se instalen, por correo certificado, mensajería o vía electrónica, en términos del Acuerdo.
+Las declaraciones de situación patrimonial de los servidores públicos obligados deberán presentarse ante la Dirección de Registro Patrimonial de la Contraloría, por vía electrónica, en términos del Acuerdo.
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 129], D.O.F. 13 DE JULIO DE 2012)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 1 DE ABRIL DE 2013)</small>
 
 ###### Artículo 142.
 
-Los formatos para las declaraciones de situación patrimonial deberán imprimirse de la página electrónica correspondiente y directamente por los servidores públicos obligados a presentarlas.
+Sólo por causa debidamente justificada que será calificada por la Dirección de Registro Patrimonial atendiendo al caso concreto, las declaraciones de situación patrimonial podrán presentarse por medio escrito sólo para efectos de oportunidad, para lo cual los formatos correspondientes deberán imprimirse de la página electrónica del Consejo directamente por los servidores públicos obligados a presentarlas.
+
+Lo anterior, en el entendido que una vez que cese la causa que impidió la presentación de la declaración de situación patrimonial respectiva por medios electrónicos, el servidor público obligado deberá proceder a su presentación por dichos medios.
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 130], D.O.F. 13 DE JULIO DE 2012)
 
@@ -1303,17 +1327,23 @@ Tratándose de la información referida en el artículo anterior correspondiente
 
 El personal que determine el titular de la Contraloría, proporcionará el asesoramiento y apoyo que soliciten los servidores públicos para la debida requisición de los formatos.
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 133], D.O.F. 13 DE JULIO DE 2012)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 1 DE ABRIL DE 2013)</small>
 
 ###### Artículo 146.
 
-La Dirección de Registro Patrimonial generará un comprobante al recibir las declaraciones de situación patrimonial, que contendrá el código de identificación electrónica y que podrá ser impreso del sistema correspondiente por los servidores públicos.
+La Dirección de Registro Patrimonial generará un comprobante electrónico al recibir las declaraciones de situación patrimonial.
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 134], D.O.F. 13 DE JULIO DE 2012)
+Para el caso de las declaraciones de situación patrimonial que se presenten por escrito en los términos precisados en el artículo 142 del presente Acuerdo, se generará un acuse de recibo provisional mientras se presente la referida declaración vía electrónica y para valorar la justificación que se haya formulado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 1 DE ABRIL DE 2013)</small>
 
 ###### Artículo 147.
 
-Si concluida la investigación prevista en el artículo 142, fracción V, del Acuerdo, los resultados obtenidos revelan alguna incongruencia con relación a los bienes que integran el patrimonio de un servidor público, en términos de lo previsto en el artículo 42 de la Ley de Responsabilidades, la Contraloría lo citará personalmente y le hará saber dichas incongruencias, para que dentro del plazo de treinta días hábiles contados a partir de la recepción del citatorio, formule las aclaraciones pertinentes, para lo que podrá ofrecer pruebas documentales.
+Si concluida la investigación prevista en el artículo 155, fracción V, del Acuerdo, los resultados obtenidos revelan alguna incongruencia con relación a los bienes que integran el patrimonio de un servidor público, en términos de lo previsto en el artículo 42 de la Ley de Responsabilidades, la Contraloría lo citará personalmente y le hará saber dichas incongruencias, para que dentro del plazo de treinta días hábiles contados a partir de la recepción del citatorio, formule las aclaraciones pertinentes, para lo que podrá ofrecer pruebas documentales.
 
 La Contraloría analizará las referidas aclaraciones y dentro de los quince días hábiles siguientes deberá concluir el informe respectivo el cual, en su caso, someterá a consideración del órgano que haya ordenado la investigación correspondiente.
 
@@ -1361,7 +1391,11 @@ I. El Pleno para ordenar el inicio de investigaciones y resolver los procedimien
 
 II. La Comisión para ordenar el inicio de investigaciones y resolver los procedimientos de responsabilidad administrativa que se lleven a cabo en contra de titulares de órganos jurisdiccionales y unidades administrativas, secretarios ejecutivos, coordinadores generales, secretarios técnicos de las comisiones del Consejo, visitadores judiciales, directores generales, secretarios técnicos de ponencia de consejero, secretarios particulares de consejero, y todos los servidores públicos de la Contraloría;
 
-III. La Contraloría para llevar el registro, control, análisis y seguimiento de la situación patrimonial de los servidores públicos considerados en el artículo 145 del Acuerdo, para ordenar el inicio de investigaciones, tramitar los procedimientos de responsabilidad administrativa de oficio o cuando así lo ordenen el Pleno o la Comisión, y resolver aquellos que se lleven a cabo en contra de los servidores públicos adscritos a órganos jurisdiccionales y unidades administrativas no considerados en las fracciones precedentes; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 1 DE ABRIL DE 2013)</small>
+
+III. La Contraloría para llevar el registro, control, análisis y seguimiento de la situación patrimonial de los servidores públicos considerados en el artículo 158 del Acuerdo, para ordenar el inicio de investigaciones, tramitar los procedimientos de responsabilidad administrativa de oficio o cuando así lo ordenen el Pleno o la Comisión, y resolver aquellos que se lleven a cabo en contra de los servidores públicos adscritos a órganos jurisdiccionales y unidades administrativas no considerados en las fracciones precedentes; y
 
 IV. La Secretaría para tramitar los procedimientos de responsabilidad administrativa que se lleven a cabo en contra de servidores públicos de la Contraloría.
 
@@ -1373,17 +1407,21 @@ Los procedimientos de responsabilidad administrativa que se inicien con motivo d
 
 Cuando la Contraloría observe incumplimiento por parte de los servidores públicos, emitirá el dictamen correspondiente, el que se someterá a la consideración del órgano competente para que determine lo procedente.
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 140], D.O.F. 13 DE JULIO DE 2012)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 1 DE ABRIL DE 2013)</small>
 
 ###### Artículo 153.
 
-En caso de incumplimiento de los servidores públicos considerados en el inciso c) del artículo 145 del Acuerdo, la Contraloría deberá informar a su similar del Tribunal Electoral y le remitirá la documentación correspondiente para que ésta proceda conforme a sus atribuciones.
+En caso de incumplimiento de los servidores públicos considerados en el inciso c) del artículo 158 del Acuerdo, la Contraloría deberá informar a su similar del Tribunal Electoral y le remitirá la documentación correspondiente para que ésta proceda conforme a sus atribuciones.
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 141], D.O.F. 13 DE JULIO DE 2012)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 1 DE ABRIL DE 2013)</small>
 
 ###### Artículo 154.
 
-El Pleno y la Comisión ejercerán en forma exclusiva y de conformidad con la competencia señalada en el artículo 138, fracciones I y II, del Acuerdo, las siguientes atribuciones y facultades:
+El Pleno y la Comisión ejercerán en forma exclusiva y de conformidad con la competencia señalada en el artículo 151, fracciones I y II, del Acuerdo, las siguientes atribuciones y facultades:
 
 I. Ordenar la práctica de investigaciones, auditorías y visitas de inspección, cuando los signos exteriores de riqueza son ostensible y notoriamente superiores a los ingresos lícitos que puede tener el servidor público;
 
@@ -1393,11 +1431,13 @@ III. Hacer declaratoria ante el Ministerio Público de la Federación de que el 
 
 IV. Ordenar el inicio de los procedimientos de responsabilidad administrativa, resolverlos y revisarlos en términos de lo previsto en el Título Tercero del Acuerdo.
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 142], D.O.F. 13 DE JULIO DE 2012)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 1 DE ABRIL DE 2013)</small>
 
 ###### Artículo 155.
 
-El titular de la Contraloría tendrá las siguientes atribuciones en materia de situación patrimonial, de conformidad con su competencia, señalada en el artículo 138, fracción III, del Acuerdo:
+El titular de la Contraloría tendrá las siguientes atribuciones en materia de situación patrimonial, de conformidad con su competencia, señalada en el artículo 151, fracción III, del Acuerdo:
 
 I. Ordenar la práctica de investigaciones y auditorías cuando del análisis de las declaraciones de situación patrimonial aparece causa justificada para ello;
 
@@ -1415,13 +1455,19 @@ VII. Informar semestralmente a la Comisión de los procedimientos de responsabil
 
 VIII. Llevar el registro de los bienes a que se refiere el artículo 45 de la Ley de Responsabilidades; y
 
-IX. Devolver las declaraciones de situación patrimonial, en términos de lo establecido en el párrafo segundo del artículo 153 del Acuerdo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 156], D.O.F. 13 DE JULIO DE 2012)
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 1 DE ABRIL DE 2013)</small>
 
-###### Artículo 143.
+IX. Solicitar a los servidores públicos, en cualquier tiempo, aclaren información en torno al contenido de sus declaraciones de situación patrimonial, en términos de lo establecido en el artículo 166 del Acuerdo.
 
-La Secretaría tendrá las siguientes atribuciones en materia de situación patrimonial, de conformidad con la competencia establecida en el artículo 138, fracción IV, del Acuerdo:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 1 DE ABRIL DE 2013)</small>
+
+###### Artículo 156.
+
+La Secretaría tendrá las siguientes atribuciones en materia de situación patrimonial, de conformidad con la competencia establecida en el artículo 151, del Acuerdo:
 
 I. Practicar investigaciones cuando así lo ordene la Comisión;
 
@@ -1430,10 +1476,6 @@ II. Tramitar los procedimientos de responsabilidad administrativa, previo acuerd
 III. Poner a consideración de la Comisión el proyecto de resolución; y
 
 IV. Remitir la información correspondiente a la Contraloría para efectos de control y registro.
-
-###### Artículo 156.
-
-Para los efectos del artículo anterior, se proporcionará a los servidores públicos obligados el código de identificación electrónica, conforme lo determine el Pleno a propuesta de la Contraloría.
 
 ### Capítulo III: Sujetos obligados. (REUBICADO [N. DE E. ANTES ARTÍCULO 144], D.O.F. 13 DE JULIO DE 2012)
 
@@ -1735,19 +1777,19 @@ La declaración de situación patrimonial se presentará bajo las modalidades de
 
 La Contraloría elaborará un padrón general de los servidores públicos que tienen obligación de presentar declaración patrimonial en los términos del Acuerdo, y lo mantendrá actualizado mediante la información que le proporcionen mensualmente la Dirección General de Recursos Humanos del Consejo y la Coordinación de Recursos Humanos y Enlace Administrativo del Tribunal Electoral.
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 148], D.O.F. 13 DE JULIO DE 2012)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 1 DE ABRIL DE 2013)</small>
 
 ###### Artículo 161.
 
-Los servidores públicos que ocupan cargos de los mencionados en el artículo 145 del Acuerdo, no estarán obligados a presentar declaración de situación patrimonial de inicio o conclusión del encargo en los siguientes casos:
+Los servidores públicos que ocupan cargos de los mencionados en el artículo 158 del Acuerdo, no estarán obligados a presentar declaración de situación patrimonial de inicio o conclusión del encargo en los siguientes casos:
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 1 DE ABRIL DE 2013)</small>
 
-I. Inicial, cuando ocupen el cargo por un plazo menor de tres meses, siempre que el nombramiento que se haya otorgado sea igual o menor a ese período.
+I. Inicial, cuando el nombramiento otorgado sea menor o igual a tres meses, excepto en el caso de que les sea otorgado otro nombramiento con el que excedan los tres meses en alguno de los cargos señalados en el artículo 158 de este Acuerdo, supuesto en el que sí estarán obligados a presentar la citada declaración.
 
 > <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
 
@@ -1769,9 +1811,11 @@ En caso de que los servidores públicos a los que se refiere este Título obteng
 
 Cuando los servidores públicos mencionados se reincorporen al cargo en el que se les otorgó la licencia deberán presentar la declaración inicial.
 
-> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-El plazo de 60 días naturales que establece el artículo 149, fracción III, para presentar la declaración patrimonial de conclusión, iniciará a partir de que inicie la licencia respectiva.
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 1 DE ABRIL DE 2013)</small>
+
+El plazo de 60 días naturales que establece el artículo 162, fracción III, para presentar la declaración patrimonial de conclusión, iniciará a partir de que inicie la licencia respectiva.
 
 > <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
 
@@ -1783,25 +1827,31 @@ En el supuesto de que algún servidor público sea suspendido por una investigac
 
 La declaración de situación patrimonial deberá presentarse en los siguientes plazos y términos:
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-I. Declaración inicial: dentro de los sesenta días naturales siguientes al en que el servidor público tome posesión de alguno de los cargos señalados en el artículo 145 del Acuerdo, con motivo del:
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 1 DE ABRIL DE 2013)</small>
+
+I. Declaración inicial: dentro de los sesenta días naturales siguientes al en que el servidor público tome posesión de alguno de los cargos señalados en el artículo 158 del Acuerdo, con motivo del:
 
 a) Ingreso por primera vez; y
 
 b) Reingreso, cuando hayan transcurrido más de sesenta días naturales de la conclusión de su último encargo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 17 DE ENERO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-II. Declaración de modificación patrimonial: durante el mes de mayo de cada año, salvo que en ese mismo año el servidor público haya iniciado uno de los cargos a que se refiere el artículo 145 de este Acuerdo. En caso de haber concluido su encargo antes del mes de mayo, estará obligado a presentarla en el momento que exhiba la de conclusión.
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 1 DE ABRIL DE 2013)</small>
 
-Los servidores públicos deberán acompañar a su declaración copia de la declaración del impuesto sobre la renta del año que corresponda, si están obligados a presentarla y, en su caso, de la constancia de percepciones y retenciones; lo anterior, salvo lo dispuesto por el artículo 158 del Acuerdo; y
+II. Declaración de modificación patrimonial: durante el mes de mayo de cada año, salvo que en ese mismo año se hubiese presentado la declaración de situación patrimonial a que se refieren las fracciones I y III de este artículo.
 
 III. Declaración de conclusión de encargo: dentro de los sesenta días naturales siguientes a la conclusión. Dicho plazo iniciará al día siguiente a que terminen los efectos del nombramiento otorgado.
 
 Cuando el último día del plazo sea inhábil la declaración podrá presentarse el día hábil siguiente.
 
-El plazo y término previstos en las fracciones I y II de este artículo, no quedarán sin efectos a causa del nombramiento en otro cargo de los considerados en el artículo 145 del Acuerdo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 1 DE ABRIL DE 2013)</small>
+
+El plazo y término previstos en las fracciones I y II de este artículo, no quedarán sin efectos a causa del nombramiento en otro cargo de los considerados en el artículo 158 del Acuerdo.
 
 #### Sección III: Contenido. (REUBICADO [N. DE E. ANTES ARTÍCULO 150], D.O.F. 13 DE JULIO DE 2012)
 
@@ -1835,25 +1885,41 @@ La Contraloría, a través de la Dirección de Registro Patrimonial, recibirá e
 
 Para el caso de que el servidor público presente la declaración de situación patrimonial con posterioridad a la notificación del inicio del procedimiento de responsabilidad administrativa, se le tendrá por omiso.
 
-Si la declaración de situación patrimonial no contiene los requisitos correspondientes, la Contraloría podrá devolverla al servidor público mediante oficio, a fin de que la subsane, y para lo cual otorgará un plazo de cinco días hábiles siguientes a la recepción del requerimiento que formule, el que podrá prorrogarse por un periodo igual a petición del interesado. En caso de incumplimiento la Contraloría determinará lo conducente.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-#### Sección V: Formatos. (REUBICADO [N. DE E. ANTES ARTÍCULO 154], D.O.F. 13 DE JULIO DE 2012)
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 1 DE ABRIL DE 2013)</small>
+
+Si la declaración de situación patrimonial no contiene la información correspondiente, la Contraloría podrá solicitarla al servidor público mediante oficio, a fin de que la proporcione, para lo cual otorgará un plazo de cinco días hábiles siguientes a la recepción del requerimiento que formule, el que podrá prorrogarse por un periodo igual a petición por escrito del interesado. En caso de incumplimiento la Contraloría determinará lo conducente”.
+
+#### Sección V: Formatos
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 1 DE ABRIL DE 2013)</small>
 
 ###### Artículo 167.
 
-Las declaraciones de situación patrimonial deberán ser presentadas a través de formatos impresos, medios magnéticos con formato impreso o medios remotos de comunicación electrónica, en este último caso se emplearán medios de identificación electrónica.
+Las declaraciones de situación patrimonial deberán ser presentadas a través de medios remotos de comunicación electrónica, para lo cual se emplearán medios de identificación electrónica.
 
 La Contraloría tendrá a su cargo el sistema de certificación de los medios de identificación electrónica que utilicen los servidores públicos y llevará el control de ellos.
 
-Asimismo, la Contraloría someterá a la aprobación del Pleno, los formatos impresos, en medios electrónicos y magnéticos, mediante los cuales los servidores públicos deberán presentar las declaraciones de situación patrimonial, así como los manuales e instructivos que establecen los datos de lo que es obligatorio declarar. La Contraloría difundirá entre los servidores públicos los beneficios que implica el uso de medios electrónicos remotos para cumplir con las referidas obligaciones.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-#### Sección VI: Declaración electrónica. (REUBICADO [N. DE E. ANTES ARTÍCULO 155], D.O.F. 13 DE JULIO DE 2012)
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 1 DE ABRIL DE 2013)</small>
+
+Asimismo, la Contraloría someterá a la aprobación del Pleno, los formatos mediante los cuales los servidores públicos deberán presentar las declaraciones de situación patrimonial, así como los manuales e instructivos de apoyo.
+
+#### Sección VI: Declaración electrónica
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 1 DE ABRIL DE 2013)</small>
 
 ###### Artículo 168.
 
-Los servidores públicos que decidan presentar sus declaraciones de situación patrimonial por medio de Intranet, deberán utilizar el formato localizado en la dirección electrónica correspondiente. La Contraloría, a través de la Dirección de Registro Patrimonial, no admitirá ni reconocerá el envío de declaraciones por medios electrónicos diversos al señalado.
+Para presentar sus declaraciones de situación patrimonial los servidores públicos deberán ingresar al sistema localizado en la dirección electrónica correspondiente. La Contraloría, a través de la Dirección de Registro Patrimonial, no admitirá ni reconocerá el envío de declaraciones por medios electrónicos diversos al señalado.
 
-El formato e instructivo de declaración de modificación patrimonial aludidos en el párrafo precedente, contendrán los mismos datos que los exigidos en el formato impreso, y en sustitución de la firma autógrafa se utilizarán medios de identificación electrónica.
+En sustitución de la firma autógrafa, se utilizarán medios de identificación electrónica.
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 156], D.O.F. 13 DE JULIO DE 2012)
 
@@ -1867,15 +1933,25 @@ Para los efectos del artículo anterior, se proporcionará a los servidores púb
 
 El uso de medios de identificación electrónica sujeta al servidor público a las siguientes condiciones:
 
-I. Reconocer como propia y auténtica la información que por Intranet envíe a la Contraloría por conducto de la Dirección; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-II. Utilizar el código de forma personal, ya que su uso es responsabilidad exclusiva de su titular.
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 1 DE ABRIL DE 2013)</small>
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 158], D.O.F. 13 DE JULIO DE 2012)
+I. Reconocer como propia y auténtica la información que por medios electrónicos envíe a la Contraloría por conducto de la Dirección; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 1 DE ABRIL DE 2013)</small>
+
+II. Utilizar dichos medios de identificación de forma personal, ya que su uso es responsabilidad exclusiva de su titular.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL DIVERSO ACUERDO GENERAL QUE REGLAMENTA EL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA Y EL SEGUIMIENTO DE LA SITUACIÓN PATRIMONIAL, D.O.F. 1 DE ABRIL DE 2013)</small>
 
 ###### Artículo 171.
 
-Los servidores públicos que presenten su declaración a través de Intranet no tendrán la obligación de exhibir copia de la declaración del impuesto sobre la renta del año que corresponda, ni la constancia de percepciones y retenciones.
+Los servidores públicos tendrán la obligación de exhibir copia de la declaración del impuesto sobre la renta del año que corresponda, si estuvieren obligados a presentarla conforme a la legislación fiscal, así como la constancia de percepciones y retenciones, únicamente cuando sea solicitada expresamente por la Contraloría.
 
 La Contraloría, a través de la Dirección de Registro Patrimonial, emitirá un acuse de recibo electrónico que contendrá un código de validación que acreditará la recepción de la declaración.
 
@@ -2310,5 +2386,13 @@ D.O.F. 21 DE MARZO DE 2013.
 PRIMERO.- El presente acuerdo entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en las páginas de Internet e Intranet del Consejo de la Judicatura Federal.
+
+TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta el procedimiento de responsabilidad administrativa y el seguimiento de la situación patrimonial.
+
+D.O.F. 1 DE ABRIL DE 2013.
+
+PRIMERO.- El presente Acuerdo entrará en vigor el uno de mayo de dos mil trece.
+
+SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta, y en el portal de Internet del Consejo de la Judicatura Federal.
 
 TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta el procedimiento de responsabilidad administrativa y el seguimiento de la situación patrimonial.
