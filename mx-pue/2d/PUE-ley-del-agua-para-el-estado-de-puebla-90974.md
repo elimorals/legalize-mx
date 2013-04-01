@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-agua-para-el-estado-de-puebla-90974"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-31"
-last_updated: "2012-12-31"
+last_updated: "2013-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90974&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL AGUA PARA EL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2013.
 
 Ley publicada en la Vigésima Segunda Sección del Periódico Oficial del Estado de Puebla, el lunes 31 de diciembre de 2012.
 
@@ -773,7 +773,9 @@ V. Los poseedores de inmuebles o las dependencias o entidades que utilicen, por 
 
 La obligación prevista en el artículo anterior, se establece respecto de los inmuebles por cuyo frente pasen tuberías de distribución, caso en el que deberá solicitarse ante el Prestador de Servicios Públicos la conexión de los Servicios Públicos previo contrato que deberá celebrarse:
 
-I. Dentro de los treinta días siguientes a la fecha en que se notifique que ha quedado instalada.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ABRIL DE 2013)</small>
+
+I. Dentro de los treinta días siguientes a la fecha en que se notifique que ha quedado instalada una nueva red de distribución de agua, o una nueva red de drenaje en aquellas zonas o lugares donde antes no existían.
 
 Al establecerse el servicio de Agua y Drenaje, el Prestador de Servicios Públicos notificará a los interesados por medio de publicación de edictos, realizada por tres ocasiones en el Periódico Oficial del Estado, o en el de mayor circulación o en los estrados de la Presidencia Municipal o de las Juntas Auxiliares de la Circunscripción;
 
@@ -2050,3 +2052,11 @@ Los Ayuntamientos, con la intervención que corresponda a los órganos internos 
 EL GOBERNADOR., hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los trece días del mes de diciembre de dos mil doce.- Diputado Presidente.- ENRIQUE NACER HERNÁNDEZ.- Rúbrica.- Diputado Vicepresidente.- RAMÓN FELIPE LÓPEZ CAMPOS.- Rúbrica.- Diputado Secretario.- JESÚS SALVADOR ZALDÍVAR BENAVIDES.- Rúbrica.- Diputado Secretario.- ALEJANDRO OAXACA CARREÓN.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los diecinueve días del mes de diciembre de dos mil doce.- El Gobernador Constitucional del Estado.- C. RAFAEL MORENO VALLE ROSAS.- Rúbrica.- El Secretario General de Gobierno.- C. FERNANDO LUIS MANZANILLA PRIETO.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 1 DE ABRIL DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
