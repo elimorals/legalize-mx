@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-seguridad-publica-74554
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-04-28"
-last_updated: "2012-05-18"
+last_updated: "2013-04-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74554&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2010-04-21"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE MAYO DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBERNACIÓN, PUBLICADO EN EL D.O.F. DE 2 DE ABRIL DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: ABROGADO.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 28 de abril de 2010.
 
@@ -1472,3 +1474,29 @@ SEGUNDO.- Se deroga el párrafo segundo del artículo 39 del Reglamento Interior
 TERCERO.- Dentro de los sesenta días hábiles siguientes a la entrada en vigor del presente Reglamento, el Centro y la Dirección General de Programación, Organización y Presupuesto de la Secretaría deberán realizar los trámites necesarios ante el Consejo Nacional de Ciencia y Tecnología, para constituir el fondo a que se refiere el artículo 5 del presente Reglamento, de conformidad con lo dispuesto en la Ley de Ciencia y Tecnología.
 
 CUARTO.- La Oficialía Mayor de la Secretaría realizará las transferencias de recursos humanos, financieros y materiales que correspondan para la operación de las unidades administrativas a que se refiere este Reglamento, mediante movimientos compensados con cargo al presupuesto aprobado para dicha dependencia. Las referidas acciones deberán cumplimentarse a más tardar dentro de los sesenta días hábiles siguientes a la publicación del presente Reglamento.
+
+D.O.F. 2 DE ABRIL DE 2013.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de Seguridad Pública, publicado en el Diario Oficial de la Federación el 28 de abril de 2010 y el Reglamento Interior de la Secretaría de Gobernación, publicado en el Diario Oficial de la Federación el 30 de julio de 2002, y se derogan todas aquellas disposiciones que se opongan al presente Reglamento.
+
+TERCERO.- Los asuntos en trámite ante las unidades administrativas que se extinguen en virtud de la entrada en vigor del presente Reglamento, serán atendidos y resueltos por las unidades administrativas a las que se les otorgan la competencia correspondiente en este Reglamento.
+
+Los procedimientos y asuntos que se encuentren en trámite o pendientes de resolución al momento de la entrada en vigor del presente Reglamento se tramitarán y resolverán conforme a las disposiciones vigentes al momento en el que se iniciaron.
+
+CUARTO.- En casos de duda respecto de la unidad administrativa u órgano administrativo desconcentrado que deba continuar con la atención de los asuntos, corresponderá al Secretario la determinación de la unidad administrativa competente, con la opinión de la Unidad General de Asuntos Jurídicos.
+
+QUINTO.- Las menciones y referencias que las leyes, reglamentos y demás disposiciones jurídicas hagan de servidores públicos, unidades administrativas u órganos administrativos desconcentrados de la extinta Secretaría de Seguridad Pública o de la Secretaría de Gobernación cuya denominación, funciones o atribuciones se vean modificadas con motivo de la entrada en vigor del presente Reglamento Interior, se entenderán referidas a los servidores públicos, unidades administrativas u órganos desconcentrados que, conforme al mismo, sean competentes en la materia que se trate.
+
+SEXTO.- Las modificaciones a la estructura orgánica y ocupacional que se requieren al interior de cada una de las unidades administrativas previstas en el Reglamento que se expide a través de este Decreto, deberán ser autorizadas por la Secretaría de Hacienda y Crédito Público y la Secretaría de la Función Pública, en el ámbito de sus respectivas competencias.
+
+Los ahorros presupuestarios que se generen con motivo de dichas modificaciones se deberán transferir a la Secretaría de Hacienda y Crédito Público en los términos de las disposiciones aplicables.
+
+SÉPTIMO.- Se abroga el Acuerdo a través del cual se crea la Comisión para el Diálogo con los Pueblos Indígenas de México, publicado en el Diario Oficial de la Federación el 13 de febrero de 2013.
+
+OCTAVO.- En las transferencias y readscripciones de personal, así como en las eventuales bajas, se respetarán en todo caso los derechos laborales de los servidores públicos.
+
+NOVENO.- Todas las modificaciones a la estructura orgánica de la Secretaría de Gobernación deberán realizarse mediante movimientos compensados, sin que representen incremento alguno en el presupuesto de servicios personales en el presente ejercicio fiscal, conforme a las disposiciones legales aplicables.
+
+DÉCIMO.- Se abroga el Reglamento del Centro de Investigación y Estudios en Seguridad, publicado en el Diario Oficial de la Federación el 18 de mayo de 2012.
