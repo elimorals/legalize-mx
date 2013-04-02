@@ -4,7 +4,7 @@ identifier: "FED-ley-de-amparo-reglamentaria-de-los-articulos-103-y-107-de-9"
 country: "mx"
 rank: "ley"
 publication_date: "1936-01-10"
-last_updated: "2011-06-24"
+last_updated: "2013-04-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "1935-12-30"
 ---
 # LEY DE AMPARO, REGLAMENTARIA DE LOS ARTICULOS 103 Y 107 DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS -ANTES LEY ORGANICA DE LOS ARTICULOS 103 Y 107 DE LA CONSTITUCION FEDERAL-
 
-LEY DE AMPARO, REGLAMENTARIA DE LOS ARTICULOS 103 Y 107 DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS 103 Y 107 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADA EN EL D.O.F. DE 2 DE ABRIL DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE JUNIO DE 2011.
+LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS 103 Y 107 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE ABRIL DE 2013 (ABROGADA).
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 10 de enero de 1936.
 
@@ -3002,3 +3004,37 @@ D.O.F. 17 DE JUNIO DE 2009.
 D.O.F. 24 DE JUNIO DE 2011.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 2 DE ABRIL DE 2013.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS 103 Y 107 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS".]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga la Ley de Amparo, Reglamentaria de los Artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, publicada en el Diario Oficial de la Federación el 10 de enero de 1936, y se derogan todas las disposiciones que se opongan a lo previsto en la presente Ley.
+
+TERCERO. Los juicios de amparo iniciados con anterioridad a la entrada en vigor de la presente Ley, continuarán tramitándose hasta su resolución final conforme a las disposiciones aplicables vigentes a su inicio, salvo lo que se refiere a las disposiciones relativas al sobreseimiento por inactividad procesal y caducidad de la instancia, así como al cumplimiento y ejecución de las sentencias de amparo.
+
+CUARTO. A las personas que hayan cometido un delito de los contemplados en la Ley de Amparo, Reglamentaria de los artículos 103 y 107 Constitucionales publicada en el Diario Oficial de la Federación de 10 de enero de 1936, incluidas las procesadas o sentenciadas, les serán aplicadas las disposiciones vigentes en el momento en que se haya cometido.
+
+QUINTO. Los actos a los que se refiere la fracción III del artículo 17 de esta Ley que se hubieren dictado o emitido con anterioridad a la entrada en vigor de la misma podrán impugnarse mediante el juicio de amparo dentro de los siete años siguientes a la entrada en vigor de la presente Ley.
+
+Los actos que se hubieren dictado o emitido con anterioridad a la presente Ley y que a su entrada en vigor no hubiere vencido el plazo para la presentación de la demanda de amparo conforme a la ley que se abroga en virtud del presente decreto, les serán aplicables los plazos de la presente Ley contados a partir del día siguiente a aquél en que surta efectos, conforme a la ley del acto, la notificación del acto o resolución que se reclame o a aquél que haya tenido conocimiento o se ostente sabedor del mismo o de su ejecución.
+
+SEXTO. La jurisprudencia integrada conforme a la ley anterior continuará en vigor en lo que no se oponga a la presente Ley.
+
+SÉPTIMO. Para la integración de la jurisprudencia por reiteración de criterios a que se refiere la presente Ley no se tomarán en cuenta las tesis aprobadas en los asuntos resueltos conforme a la ley anterior.
+
+OCTAVO. Las declaratorias generales de inconstitucionalidad no podrán ser hechas respecto de tesis aprobadas conforme a la ley anterior.
+
+NOVENO. La Suprema Corte de Justicia de la Nación y el Consejo de la Judicatura Federal en el ámbito de sus respectivas competencias podrán dictar las medidas necesarias para lograr el efectivo e inmediato cumplimiento de la presente Ley.
+
+DÉCIMO. Las referencias que la presente Ley realice al concepto de "auto de vinculación a proceso" le serán aplicables a los autos de formal prisión emitidos en aquellos órdenes normativos en que aún no hayan entrado en vigor en cumplimiento de los artículos transitorios del Decreto por el que se reforman y adicionan los artículos 16, 17, 18, 19, 20, 21 y 22; las fracciones XXI y XXIII del artículo 73; la fracción VII del artículo 115 y la fracción XIII del Apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el 18 de junio de 2008.
+
+En los casos donde no haya entrado en vigor el nuevo sistema de justicia penal a que se refiere la reforma constitucional referida en el párrafo anterior, la suspensión en materia penal seguirá rigiéndose conforme a la Ley de Amparo a que se refiere el artículo segundo transitorio de este Decreto.
+
+DÉCIMO PRIMERO. El Consejo de la Judicatura Federal expedirá el Reglamento a que hace referencia el artículo 3o del presente ordenamiento para la implementación del Sistema Electrónico y la utilización de la firma electrónica.
+
+Asimismo el Consejo de la Judicatura Federal dictará los acuerdos generales a que refieren los artículos 41 Bis y Bis 1 del presente decreto, para la debida integración y funcionamiento de los Plenos de Circuito.
+
+Las anteriores disposiciones deberán emitirse en un plazo de noventa días a partir de la entrada en vigor del presente Decreto.
