@@ -4,7 +4,7 @@ identifier: "LOCG"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-09-03"
-last_updated: "2012-12-24"
+last_updated: "2013-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14771&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOCG"
 
 LEY ORGÁNICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE ABRIL DE 2013.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 3 de septiembre de 1999.
 
@@ -328,9 +328,17 @@ m) Acordar con el titular de la Coordinación de Comunicación Social los asunto
 
 n) Requerir a los diputados que no asistan, a concurrir a las sesiones de la Cámara y comunicar al Pleno, en su caso, las medidas o sanciones que correspondan con fundamento en los artículos 63 y 64 constitucionales;
 
-o) Ordenar el auxilio de la fuerza pública en los casos que resulten necesarios; y
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2013)</small>
 
-p) Las demás que le atribuyan la Constitución General de la República, esta ley y los demás ordenamientos relativos a la actividad parlamentaria.
+o) Ordenar el auxilio de la fuerza pública en los casos que resulten necesarios;
+
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2013)</small>
+
+p) Solicitar al Presidente de la Suprema Corte de Justicia de la Nación la atención prioritaria de los juicios de amparo, controversias constitucionales o acciones de inconstitucionalidad, en términos de lo dispuesto por el artículo 94 de la Constitución Política de los Estados Unidos Mexicanos, y
+
+> <small>(ADICIONADO, D.O.F. 2 DE ABRIL DE 2013)</small>
+
+q) Las demás que le atribuyan la Constitución General de la República, esta ley y los demás ordenamientos relativos a la actividad parlamentaria..
 
 2. Asimismo, conforme a la declaración de Presidente Electo de los Estados Unidos Mexicanos que hubiere hecho el Tribunal Electoral del Poder Judicial de la Federación, corresponde al Presidente de la Cámara disponer la elaboración inmediata del Bando Solemne; darlo a conocer al Pleno en la sesión más próxima; ordenar su publicación en el Diario Oficial de la Federación; y tomar las medidas necesarias para que se difunda en los Periódicos Oficiales de las entidades federativas y se fije en las principales oficinas públicas de los Estados, del Distrito Federal y de los Municipios.
 
@@ -1136,9 +1144,17 @@ j) Requerir a los senadores faltistas a concurrir a las sesiones de la Cámara y
 
 k) Dirigir las tareas de las secretarías generales, la Tesorería, las unidades administrativas y el Centro de Capacitación y Formación Permanente del servicio civil de carrera, con objeto de asegurar su buen desempeño y acordar con sus titulares los asuntos de su competencia. El Presidente de la Mesa Directiva, podrá delegar en los vicepresidentes y secretarios el ejercicio de la facultad establecida en el presente inciso, señalando expresamente, e informando al Pleno, a cuál de los integrantes de la Mesa Directiva le corresponde la función delegada;
 
-l) Otorgar poderes para actos de administración y para representar a la Cámara ante los tribunales en los juicios de cualquier naturaleza en que ésta sea parte; y
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2013)</small>
 
-m) Las demás que le confieran esta Ley y el Reglamento.
+l) Otorgar poderes para actos de administración y para representar a la Cámara ante los tribunales en los juicios de cualquier naturaleza en que ésta sea parte;
+
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2013)</small>
+
+m) Solicitar al Presidente de la Suprema Corte de Justicia de la Nación la atención prioritaria de los juicios de amparo, controversias constitucionales o acciones de inconstitucionalidad, en términos de lo dispuesto en el artículo 94 de la Constitución Política de los Estados Unidos Mexicanos, y
+
+> <small>(ADICIONADO, D.O.F. 2 DE ABRIL DE 2013)</small>
+
+n) Las demás que le confieran esta Ley y el Reglamento.
 
 ###### ARTICULO 68.
 
@@ -2189,3 +2205,7 @@ D.O.F. 17 DE OCTUBRE DE 2012.
 D.O.F. 24 DE DICIEMBRE DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 2 DE ABRIL DE 2013.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
