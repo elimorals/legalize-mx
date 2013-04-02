@@ -4,7 +4,7 @@ identifier: "LRFIYII_ART105"
 country: "mx"
 rank: "ley"
 publication_date: "1995-05-11"
-last_updated: "1996-11-22"
+last_updated: "2013-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8654&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,9 @@ abbreviation: "LRFIYII_ART105"
 ---
 # LEY REGLAMENTARIA DE LAS FRACCIONES I Y II DEL ARTICULO 105 DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-LEY REGLAMENTARIA DE LAS FRACCIONES I Y II DEL ARTICULO 105 DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
+LEY REGLAMENTARIA DE LAS FRACCIONES I Y II DEL ARTÍCULO 105 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE NOVIEMBRE DE 1996.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE ABRIL DE 2013.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 11 de mayo de 1995.
 
@@ -87,6 +87,24 @@ Cuando las partes radiquen fuera del lugar de residencia de la Suprema Corte de 
 ###### ARTICULO 9o.
 
 Las multas previstas en esta ley se impondrán a razón de días de salario, sirviendo como base para calcularlas el mínimo general vigente en el Distrito Federal al momento de realizarse la conducta sancionada.
+
+> <small>(ADICIONADO, D.O.F. 2 DE ABRIL DE 2013)</small>
+
+ARTICULO 9o BIS. De manera excepcional, y sólo cuando exista urgencia atendiendo al interés social o al orden público, las Cámaras del Congreso de la Unión, a través de sus presidentes, o el Ejecutivo Federal, por conducto de su Consejero Jurídico, podrán solicitar al Presidente de la Suprema Corte de Justicia de la Nación que las controversias constitucionales o acciones de inconstitucionalidad sean substanciadas y resueltas de manera prioritaria, sin modificar de ningún modo los plazos previstos en la ley.
+
+La urgencia en los términos de este artículo se justificará cuando:
+
+I. Se trate de controversias constitucionales o acciones de inconstitucionalidad promovidas para la defensa de grupos vulnerables en los términos de la ley.
+
+II. Se trate de controversias constitucionales o acciones de inconstitucionalidad en materia de competencia económica, monopolios y libre concurrencia.
+
+III. Se trate de prevenir daños irreversibles al equilibrio ecológico en dichas controversias constitucionales o acciones de inconstitucionalidad.
+
+IV. En aquéllos casos que el Pleno de la Suprema Corte de Justicia de la Nación estime procedentes.
+
+Recibida la solicitud, el Presidente de la Suprema Corte de Justicia de la Nación, la someterá a consideración del Pleno, que resolverá de forma definitiva por mayoría simple. La resolución incluirá las providencias que resulten necesarias.
+
+Para la admisión, trámite y resolución de las solicitudes, así como las previsiones a que hace referencia este artículo, deberán observarse los acuerdos generales que al efecto emita la Suprema Corte de Justicia de la Nación.
 
 ## Título II. De las Controversias Constitucionales
 
@@ -334,9 +352,11 @@ En aquellas controversias respecto de normas generales en que no se alcance la v
 
 En todos los demás casos las resoluciones tendrán efectos únicamente respecto de las partes en la controversia.
 
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2013)</small>
+
 ###### ARTICULO 43.
 
-Las razones contenidas en los considerandos que funden los resolutivos de las sentencias aprobadas por cuando menos ocho votos, serán obligatorias para las Salas, tribunales unitarios y colegiados de circuito, juzgados de distrito, tribunales militares, agrarios y judiciales del orden común de los Estados y del Distrito Federal, y administrativos y del trabajo, sean éstos federales o locales.
+Las razones contenidas en los considerandos que funden los resolutivos de las sentencias aprobadas por cuando menos ocho votos, serán obligatorias para las Salas, Plenos de Circuito, tribunales unitarios y colegiados de circuito, juzgados de distrito, tribunales militares, agrarios y judiciales del orden común de los Estados y del Distrito Federal, y administrativos y del trabajo, sean éstos federales o locales.
 
 ###### ARTICULO 44.
 
@@ -365,6 +385,10 @@ Una vez transcurrido el plazo fijado en la sentencia para el cumplimiento de alg
 Cuando cualquiera autoridad aplique una norma general o acto declarado inválido, cualquiera de las partes podrá denunciar el hecho ante el Presidente de la Suprema Corte de Justicia de la Nación, quien dará vista a la autoridad señalada como responsable, para que en el plazo de quince días deje sin efectos el acto que se le reclame, o para que alegue lo que conforme a derecho corresponda.
 
 Si en los casos previstos anteriormente, las autoridades no dejan sin efectos los actos de que se trate, el Presidente de la Suprema Corte de Justicia de la Nación turnará el asunto al Ministro Ponente para que a la vista de los alegatos, si los hubiere, someta al Tribunal Pleno la resolución respectiva a esta cuestión. Si el Pleno declara que efectivamente hay una repetición o aplicación indebida de una norma general o acto declarado inválido, mandará que se cumpla con lo dispuesto por el último párrafo del artículo 105 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, D.O.F. 2 DE ABRIL DE 2013)</small>
+
+La persona que sin ser parte en la controversia constitucional respectiva, y que con posterioridad a que surtan los efectos de la declaración de invalidez de una norma general, se vea afectada con su aplicación, podrá denunciar dicho acto de conformidad con el procedimiento previsto para tal efecto en la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### ARTICULO 48.
 
@@ -502,7 +526,7 @@ En los procedimientos por acciones en contra de leyes electorales, los plazos a 
 
 La admisión de una acción de inconstitucionalidad no dará lugar a la suspensión de la norma cuestionada.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
 ###### ARTICULO 65.
 
@@ -564,6 +588,10 @@ Las sentencias que dicte la Suprema Corte de Justicia de la Nación sobre la no 
 
 Las resoluciones de la Suprema Corte de Justicia sólo podrán declarar la invalidez de las normas impugnadas, si fueren aprobadas por cuando menos ocho votos. Si no se aprobaran por la mayoría indicada, el Tribunal Pleno desestimará la acción ejercitada y ordenará el archivo del asunto.
 
+> <small>(ADICIONADO, D.O.F. 2 DE ABRIL DE 2013)</small>
+
+Si con posterioridad a la entrada en vigor de la declaratoria se aplicara la norma general declarada inválida, el afectado podrá denunciar dicho acto de conformidad con el procedimiento previsto para tal efecto en la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos.
+
 ###### ARTICULO 73.
 
 Las sentencias se regirán por lo dispuesto en los artículos 41, 43, 44 y 45 de esta ley.
@@ -582,10 +610,14 @@ México, D.F., a 24 de abril de 1995.- Sen. Martha Lara Alatorre, Presidenta.- D
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diez días del mes de mayo de mil novecientos noventa y cinco.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Esteban Moctezuma Barragán.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 22 DE NOVIEMBRE DE 1996.
 
 Primero.- Las reformas a la Ley Reglamentaria de las fracciones I y II del artículo 105 de la Constitución Política de los Estados Unidos Mexicanos a que se refiere el artículo SEGUNDO del presente Decreto, entrarán en vigor el día de su publicación en el Diario Oficial de la Federación.
 
 Segundo.- En cumplimiento del segundo párrafo del artículo SEGUNDO transitorio del Decreto de reformas y adiciones a diversos artículos de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el día 22 de agosto de 1996, el plazo para ejercitar las acciones de inconstitucionalidad en contra de las legislaciones electorales federal y locales, que se expidan antes del 1o. de abril de 1997, será de quince días naturales y serán resueltas de plano y en definitiva por la Suprema Corte de Justicia de la Nación sin sujetarse al procedimiento o plazos señalados en los artículos 64 al 70 de la ley que se reforma por el presente Decreto, en un plazo no mayor de quince días hábiles a partir de la presentación del escrito respectivo.
+
+D.O.F. 2 DE ABRIL DE 2013.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
