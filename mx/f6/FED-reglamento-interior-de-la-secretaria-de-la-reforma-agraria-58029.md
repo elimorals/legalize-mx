@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-la-reforma-agraria-5802
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-01-15"
-last_updated: "2012-11-16"
+last_updated: "2013-04-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58029&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2008-01-10"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA REFORMA AGRARIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE NOVIEMBRE DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO AGRARIO, TERRITORIAL Y URBANO, PUBLICADO EN EL D.O.F. DE 2 DE ABRIL DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: ABROGADO.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 15 de enero de 2008.
 
@@ -1000,3 +1002,41 @@ SEXTO.- Los derechos laborales del personal que, en virtud de lo dispuesto en el
 D.O.F. 16 DE NOVIEMBRE DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 2 DE ABRIL DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Secretaría de la Reforma Agraria, publicado en el Diario Oficial de la Federación el 15 de enero de 2008, y se derogan todas las disposiciones reglamentarias y administrativas que se opongan al presente Reglamento.
+
+###### ARTÍCULO TERCERO.
+
+En términos del Quinto Transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, publicado el 2 de enero de 2013 en el Diario Oficial de la Federación, las atribuciones conferidas a la Secretaría de la Reforma Agraria, así como las que en materia de ordenamiento territorial de los asentamientos humanos, planeación y regulación de los centros de población, vivienda y desarrollo regional y urbano se confiere a la Secretaría de Desarrollo Social, en leyes, reglamentos, decretos, acuerdos y demás disposiciones jurídicas se entenderán conferidas a la Secretaría de Desarrollo Agrario, Territorial y Urbano.
+
+De igual manera, las referencias realizadas a unidades administrativas en los programas sujetos a Reglas de Operación o Lineamientos que se transfieren a la Secretaría de Desarrollo Agrario, Territorial y Urbano, de las Secretarías de la Reforma Agraria y de Desarrollo Social, se entenderán realizadas a la Subsecretaría, Unidad, Coordinación o Dirección General a la que se le hubiera transferido la competencia en términos del presente Reglamento.
+
+###### ARTÍCULO CUARTO.
+
+Las transferencias de funciones, personas y recursos materiales y financieros, serán coordinadas y vigiladas por la Oficialía Mayor.
+
+Dichas transferencias incluirán las adecuaciones presupuestarias derivadas de las modificaciones a la estructura programática y financiera, a los calendarios financieros y de metas, así como a las de recursos humanos y de activos patrimoniales, según corresponda.
+
+La Oficialía Mayor, con la participación de las dependencias y entidades correspondientes, realizará dichas transferencias en los términos de las disposiciones aplicables.
+
+###### ARTÍCULO QUINTO.
+
+Los derechos laborales del personal transferido de otras dependencias y entidades a la Secretaría se respetarán conforme a la ley.
+
+###### ARTÍCULO SEXTO.
+
+Los asuntos que con motivo de este Reglamento deban pasar de alguna dependencia o entidad a la Secretaría de Desarrollo Agrario, Territorial y Urbano, se transferirán en el último trámite que hubieren alcanzado.
+
+Lo dispuesto en el párrafo anterior no aplicará en los casos en que exista riesgo de que se lesionen los intereses de la Federación, situación en la cual la dependencia o entidad que conoció del asunto, continuará su trámite hasta su total conclusión.
+
+###### ARTÍCULO SÉPTIMO.
+
+En relación a los expedientes, asuntos, procedimientos y recursos instaurados en la Secretaría de la Reforma Agraria, que serán asumidos por la Secretaría de Desarrollo Agrario, Territorial y Urbano, la publicación en el Diario Oficial de la Federación del presente Reglamento, hace las veces de notificación de que esta Secretaría continuará con el trámite y resolución de los mismos, para todos los efectos legales.
