@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-desarrollo-social-89130
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-08-24"
-last_updated: "2012-08-24"
+last_updated: "2013-04-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2012-08-21"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SOCIAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE ABRIL DE 2013.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 24 de agosto de 2012.
 
@@ -47,7 +47,9 @@ I. Subsecretarías de:
 
 1. Desarrollo Social y Humano;
 
-2. Desarrollo Urbano y Ordenación del Territorio, y
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2013)</small>
+
+2. Desarrollo Comunitario y Participación Social, y
 
 3. Prospectiva, Planeación y Evaluación.
 
@@ -61,13 +63,15 @@ III. Jefaturas de Unidad de:
 
 3. Microrregiones;
 
-4. Programas de Atención de la Pobreza Urbana;
+4. (DEROGADO, D.O.F. 2 DE ABRIL DE 2013)
 
 5. Abogado General y Comisionado para la Transparencia, y
 
 6. Planeación y Relaciones Internacionales.
 
-IV. Coordinación General de Modernización y Vinculación de los Registros Públicos de la Propiedad y Catastros.
+IV. (DEROGADA, D.O.F. 2 DE ABRIL DE 2013)
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2013)</small>
 
 V. Direcciones Generales de:
 
@@ -81,29 +85,23 @@ V. Direcciones Generales de:
 
 5. Seguimiento;
 
-6. Equipamiento e Infraestructura en Zonas Urbano-Marginadas;
+6. Programación y Presupuesto;
 
-7. Desarrollo Urbano y Suelo;
+7. Recursos Materiales;
 
-8. Desarrollo Territorial;
+8. Recursos Humanos;
 
-9. Programación y Presupuesto;
+9. Tecnologías de la Información y Comunicaciones;
 
-10. Recursos Materiales;
+10. Procesos y Estructuras Organizacionales;
 
-11. Recursos Humanos;
+11. Normatividad y Asuntos Contenciosos;
 
-12. Tecnologías de la Información y Comunicaciones;
+12. Evaluación y Monitoreo de los Programas Sociales;
 
-13. Procesos y Estructuras Organizacionales;
+13. Análisis y Prospectiva, y
 
-14. Normatividad y Asuntos Contenciosos;
-
-15. Evaluación y Monitoreo de los Programas Sociales;
-
-16. Análisis y Prospectiva, y
-
-17. Geoestadística y Padrones de Beneficiarios.
+14. Geoestadística y Padrones de Beneficiarios.
 
 B. ÓRGANOS ADMINISTRATIVOS DESCONCENTRADOS:
 
@@ -133,7 +131,9 @@ Corresponde originalmente al o a la Titular la representación de la Secretaría
 
 El o la Titular, tendrá las siguientes atribuciones no delegables:
 
-I. Formular y conducir la política general de desarrollo social, así como coordinar las actividades de las unidades administrativas y de los órganos administrativos desconcentrados de la Secretaría, así como de las entidades del Sector, de conformidad con los objetivos, estrategias, lineamientos, políticas y prioridades del Plan Nacional de Desarrollo y con los que determine el Presidente de la República;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2013)</small>
+
+I. Formular y conducir la política general de desarrollo social y combate efectivo a la pobreza, así como coordinar las actividades de las unidades administrativas y de los órganos administrativos desconcentrados de la Secretaría, así como de las entidades del Sector, de conformidad con los objetivos, estrategias, lineamientos, políticas y prioridades del Plan Nacional de Desarrollo y con los que determine el Presidente de la República;
 
 II. Someter al acuerdo del o de la Titular de la Presidencia de la República los asuntos encomendados a la Secretaría que así lo ameriten;
 
@@ -169,7 +169,7 @@ XVII. Autorizar donativos en dinero proveniente del presupuesto asignado a la Se
 
 XVIII. Representar al o a la Titular de la Presidencia de la República en las controversias constitucionales y acciones de inconstitucionalidad a que se refiere el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos y la Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, en los casos en que lo determine el o la Titular del Ejecutivo Federal, pudiendo ser suplido de conformidad con lo dispuesto en el artículo 49 del presente Reglamento;
 
-XIX. Resolver los recursos administrativos de su competencia;
+XIX. (DEROGADA, D.O.F. 2 DE ABRIL DE 2013)
 
 XX. Resolver las dudas que se susciten con motivo de la interpretación o aplicación del presente Reglamento, así como los casos no previstos en el mismo, y
 
@@ -225,37 +225,43 @@ XIX. Las demás que le señale el o la Titular de la Secretaría y las disposici
 
 Corresponde a la Subsecretaría de Desarrollo Social y Humano:
 
-I. Proponer al o a la Titular de la Secretaría las políticas para la atención de las personas, familias, hogares, grupos y comunidades en situación de pobreza, vulnerabilidad y exclusión social;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2013)</small>
+
+I. Proponer al Titular de la Secretaría las políticas para la atención de las personas, familias, hogares, grupos y comunidades en situación de pobreza, vulnerabilidad y exclusión social, en especial a quienes habitan en zonas áridas de las áreas rurales del país y en zonas marginadas de las áreas urbanas;
 
 II. Formular en el ámbito de su competencia las reglas de operación de los programas a su cargo, y verificar su difusión, así como que se asesore y capacite en esta materia a los operadores y ejecutores de dichos programas;
 
 III. Asignar los programas, proyectos y acciones de su competencia a las unidades administrativas a su cargo, y verificar que se operen de manera congruente con los objetivos institucionales, y
 
-IV. Revisar y determinar en el ámbito de su competencia las zonas de concentración de la pobreza y marginación que requieren atención prioritaria.
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2013)</small>
+
+IV. Revisar y determinar en el ámbito de su competencia las zonas de concentración de la pobreza y marginación que requieren atención prioritaria, y
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2013)</small>
+
+V. Diseñar, planear e impulsar mecanismos y programas de atención a los derechos de la niñez, de la juventud, de los adultos mayores y de las personas con discapacidad.
+
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2013)</small>
 
 ###### Artículo 8.
 
-Corresponde a la Subsecretaría de Desarrollo Urbano y Ordenación del Territorio:
+Corresponde a la Subsecretaría de Desarrollo Comunitario y Participación Social:
 
-I. Diseñar, planear, promover, proyectar, normar, coordinar y articular, en lo que compete a la Secretaría, las políticas de ordenación del territorio, de desarrollo urbano, de suelo y reservas territoriales, de desarrollo regional, de atención a la pobreza urbana, así como de prevención y atención de daños en materia de infraestructura urbana y vivienda causados por fenómenos naturales;
+I. Proponer al Titular de la Secretaría, las políticas de desarrollo comunitario, inclusión, cohesión y participación social de los sectores sociales más desprotegidos;
 
-II. Coordinar la elaboración y someter a la consideración del o de la Titular de la Secretaría el proyecto del Programa Nacional de Desarrollo Urbano, así como promover, controlar y evaluar su cumplimiento una vez aprobado por el o por la Titular de la Presidencia de la República;
+II. Establecer los mecanismos de articulación y control de acciones de desarrollo comunitario, inclusión, cohesión y participación social de los sectores sociales más desprotegidos;
 
-III. Proponer programas, proyectos y acciones en las distintas materias enunciadas en la fracción I de este artículo, establecer los criterios y lineamientos que deban regir su diseño e instrumentación, que impulsen el desarrollo urbano sostenible y llevar a cabo las actividades específicas encomendadas a la Subsecretaría;
+III. Promover la construcción de obras de infraestructura y equipamiento que fortalezcan el desarrollo comunitario y la inclusión social, en coordinación con las dependencias y entidades de la Administración Pública Federal, y los gobiernos de las entidades federativas y los municipios, así como con la participación de los sectores social y privado;
 
-IV. Identificar las zonas urbanas en las que se llevarán a cabo acciones para contribuir a su desarrollo social y urbano, considerando los criterios establecidos por el Consejo Nacional de Evaluación de la Política de Desarrollo Social;
+IV. Instrumentar mecanismos de coordinación y seguimiento de estrategias de participación, inclusión y cohesión social en todos los programas y acciones de la Secretaría, así como impulsar la articulación con las dependencias y entidades de la Administración Pública Federal, y de los gobiernos de las entidades federativas y los municipios;
 
-V. Promover, en el ámbito de su competencia, la construcción de infraestructura y equipamiento para el desarrollo urbano sostenible y bienestar social;
+V. Formular, en el ámbito de su competencia, las reglas de operación de los programas a su cargo, y verificar su difusión, así como que se asesore y capacite en esta materia a los operadores y ejecutores de dichos programas;
 
-VI. Asignar los programas, proyectos y acciones de su competencia, a las unidades administrativas a su cargo, y verificar que se operen de manera congruente con los objetivos institucionales;
+VI. Revisar y determinar las zonas de concentración de la pobreza y marginación que requieren atención en materia de desarrollo comunitario, inclusión y cohesión social;
 
-VII. Ejercer las atribuciones que confieren a la Secretaría, la Ley General de Asentamientos Humanos y demás disposiciones jurídicas, con respecto a las materias a que se refiere la fracción I de este artículo;
+VII. Fomentar acciones de desarrollo comunitario, inclusión y cohesión social con intervención de las dependencias y entidades de la Administración Pública Federal, los gobiernos de las entidades federativas y los municipios, así como de los sectores social y privado, y
 
-VIII. Promover y coordinar, con las entidades de la Administración Pública Federal, las entidades federativas y los municipios, la modernización de procedimientos y trámites administrativos en materia de desarrollo urbano, catastro y registro público de la propiedad, conforme a las disposiciones jurídicas aplicables;
-
-IX. Participar en la elaboración y revisión de los anteproyectos de las Normas Oficiales Mexicanas y Normas Mexicanas que correspondan, de acuerdo a su competencia y de conformidad a las disposiciones jurídicas aplicables, y
-
-X. Promover la constitución y operación de organismos de certificación, unidades de verificación y organismos nacionales de normalización, a fin de regular los aspectos de los procesos en materia de desarrollo urbano, así como de ordenación del territorio, de conformidad con las disposiciones aplicables.
+VIII. Asignar los programas, proyectos y acciones de su competencia, a las unidades administrativas a su cargo, y verificar que se operen de manera congruente con los objetivos institucionales.
 
 ###### Artículo 9.
 
@@ -265,7 +271,9 @@ I. Planear, diseñar y evaluar las estrategias, programas, proyectos y acciones 
 
 II. Formular los lineamientos generales para el diseño de las reglas de operación de los programas sociales, que tienen a su cargo las unidades administrativas y los órganos administrativos desconcentrados de la Secretaría, así como las entidades del Sector;
 
-III. Proponer a las instancias correspondientes, los criterios para la distribución de los recursos para el desarrollo social;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2013)</small>
+
+III. Proponer a las instancias correspondientes, los criterios para la distribución de los recursos para el desarrollo social, así como evaluar el uso de las transferencias de fondos a las entidades federativas y los municipios, y a los sectores social y privado para la realización de acciones en materia de desarrollo social;
 
 IV. Establecer los lineamientos para la elaboración y la actualización de los padrones de personas beneficiarias de los programas sociales e integrarlos al padrón de programas federales de desarrollo social, así como para la recolección de información socioeconómica, identificación de hogares e información social, estadística y georreferenciada;
 
@@ -327,7 +335,9 @@ XIX. Someter a la consideración del o de la Titular de la Secretaría, los prog
 
 XX. Ser el único conducto para gestionar la autorización, asignación y modificación de las partidas del ramo administrativo correspondiente al desarrollo social, del Presupuesto de Egresos de la Federación, ante la Secretaría de Hacienda y Crédito Público;
 
-XXI. Someter a la consideración del o de la Titular de la Secretaría el Reglamento Interior, los (sic) Manual de Organización General y el de Servicios al Público de la Secretaría, así como los manuales de organización específicos y de procedimientos de las unidades administrativas de su adscripción;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2013)</small>
+
+XXI. Someter a la consideración del Titular de la Secretaría el Reglamento Interior, los manuales de organización general y el de servicios al público de la Secretaría, así como los manuales de organización específicos y de procedimientos de las unidades administrativas de su adscripción;
 
 XXII. Definir y dirigir los estudios e investigaciones sobre las mejores prácticas de gobierno en materia de recursos presupuestales, humanos, materiales, organizacionales y tecnológicos;
 
@@ -345,19 +355,33 @@ XXVIII. Promover la mejora regulatoria y el control interno en la Secretaría y 
 
 XXIX. Autorizar los dictámenes de modificaciones de las estructuras orgánicas y ocupacionales, que promuevan las unidades administrativas de la Secretaría, así como canalizar las gestiones de los órganos administrativos desconcentrados y entidades del Sector ante las instancias competentes;
 
-XXX. Conducir las políticas y acciones institucionales relacionadas con los programas que contribuyan al desarrollo organizacional de la Dependencia, y
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2013)</small>
 
-XXXI. Coordinar el proceso de gasto y concentración de la información de consultorías, asesorías, estudios e investigaciones contratados por las unidades administrativas y órganos administrativos desconcentrados de la Secretaría.
+XXX. Conducir las políticas y acciones institucionales relacionadas con los programas que contribuyan al desarrollo organizacional de la Dependencia;
 
-### CAPÍTULO VI. DE LAS ATRIBUCIONES GENÉRICAS DE LAS UNIDADES, DE LAS COORDINACIONES GENERALES Y DE LAS DIRECCIONES GENERALES
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2013)</small>
+
+XXXI. Coordinar el proceso de gasto y concentración de la información de consultorías, asesorías, estudios e investigaciones contratados por las unidades administrativas y órganos administrativos desconcentrados de la Secretaría, y
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2013)</small>
+
+XXXII. Expedir los nombramientos de los Jefes de Unidad, Directores Generales y Directores Generales Adjuntos de la Secretaría.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 2 DE ABRIL DE 2013)</small>
+
+### CAPÍTULO VI. DE LAS ATRIBUCIONES GENÉRICAS DE LAS UNIDADES Y DE LAS DIRECCIONES GENERALES
+
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2013)</small>
 
 ###### Artículo 11.
 
-Las Unidades, Coordinaciones Generales y Direcciones Generales, estarán a cargo de un o de una Titular quien para el ejercicio de sus atribuciones se auxiliará por los servidores públicos que se precisan en este Reglamento y en el Manual de Organización General de la Secretaría, así como por el personal que se requiera para satisfacer las necesidades del servicio, de conformidad con las disposiciones aplicables.
+Las Unidades y Direcciones Generales, estarán a cargo de un Titular quien para el ejercicio de sus atribuciones se auxiliará por los servidores públicos que se precisan en este Reglamento y en el Manual de Organización General de la Secretaría, así como por el personal que se requiera para satisfacer las necesidades del servicio, de conformidad con las disposiciones aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE ABRIL DE 2013)</small>
 
 ###### Artículo 12.
 
-Al frente de cada unidad administrativa señalada en el artículo anterior, habrá un o una Titular en cada Jefatura de Unidad, Coordinación General y Dirección General, respectivamente, quienes tendrán las siguientes atribuciones genéricas:
+Los titulares de las Unidades y de las Direcciones Generales tendrán las siguientes atribuciones genéricas:
 
 I. Planear, programar, organizar, dirigir, coordinar, controlar y evaluar la operación y el desempeño de los programas, proyectos y acciones a su cargo;
 
@@ -479,27 +503,7 @@ IX. Promover la participación de las y los beneficiarios en los programas a su 
 
 ###### Artículo 16.
 
-La Unidad de Programas de Atención de la Pobreza Urbana tendrá las siguientes atribuciones:
-
-I. Proponer a su superior jerárquico las orientaciones generales, estrategias, programas, normatividad y acciones de la política de atención de la pobreza urbana, con la participación que corresponda a los gobiernos estatales y municipales;
-
-II. Coordinar la operación de los programas de atención de la pobreza urbana y autorizar, en los términos de las disposiciones jurídicas aplicables, el ejercicio de los subsidios federales a su cargo;
-
-III. Participar, en el ámbito su competencia, en la formulación, ejecución, seguimiento y evaluación del Plan Nacional de Desarrollo y de los programas nacionales, sectoriales y especiales que correspondan;
-
-IV. Participar en las negociaciones de los convenios y acuerdos de coordinación con los gobiernos de las entidades federativas y municipios para la asignación de los subsidios federales y la aportación de recursos económicos locales y operación de los programas de atención de la pobreza urbana;
-
-V. Promover la participación de las entidades sectorizadas de la Secretaría, así como de otras dependencias y entidades de la Administración Pública Federal, en los esfuerzos de superación de la pobreza urbana;
-
-VI. Diseñar e instrumentar programas de capacitación para el personal de la Secretaría, de los gobiernos locales y de las organizaciones de la sociedad civil, con el fin de apoyar la operación de los programas de atención de la pobreza urbana;
-
-VII. Solicitar a la Dirección General de Programación y Presupuesto la radicación de subsidios federales a las instancias ejecutoras de los programas de atención de la pobreza urbana, conforme a lo establecido en las disposiciones jurídicas aplicables, las reglas de operación y los instrumentos jurídicos de coordinación suscritos para tal efecto;
-
-VIII. Hacer del conocimiento de las Delegaciones de la Secretaría en las entidades federativas, los programas y presupuestos anuales aprobados en materia de atención de la pobreza urbana;
-
-IX. Diseñar y operar un sistema de información que contenga obras y acciones realizadas con recursos federales para la atención de la pobreza urbana, y
-
-X. Promover, impulsar y fomentar que en la ejecución de los programas de atención de la pobreza urbana, las autoridades de los tres órdenes de gobierno, conforme a su respectivo ámbito de competencia, apliquen sistemas o dispositivos de alta eficiencia energética en las obras públicas de infraestructura y equipamiento urbano, que contribuyan al desarrollo urbano sostenible.
+(DEROGADO, D.O.F. 2 DE ABRIL DE 2013)
 
 ###### Artículo 17.
 
@@ -573,7 +577,9 @@ VI. Apoyar técnicamente a las entidades federativas que lo soliciten en la plan
 
 VII. Proponer a su superior jerárquico, en materia de desarrollo social, estrategias, políticas, criterios, objetivos y metas para la Secretaría en el ámbito internacional;
 
-VIII. Establecer la metodología, las fuentes de información y los mecanismos de distribución para la asignación de los recursos del Ramo General de Aportaciones Federales para entidades federativas, relativos a la materia de desarrollo social y convenir con los gobiernos de las entidades federativas, la metodología y los mecanismos correspondientes para las asignaciones municipales, en la distribución de los recursos a que se refiere esta fracción, de acuerdo con la legislación vigente en la materia, en el ámbito de su competencia;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2013)</small>
+
+VIII. Establecer la metodología, las fuentes de información, así como los mecanismos de distribución para la asignación y evaluación de la aplicación de los recursos del Ramo General de Aportaciones Federales para entidades federativas, relativos a la materia de desarrollo social y convenir con los gobiernos de las entidades federativas, la metodología y los mecanismos correspondientes para las asignaciones municipales, en la distribución y seguimiento de los recursos a que se refiere esta fracción, de acuerdo con la legislación vigente en la materia, en el ámbito de su competencia;
 
 IX. Proponer y, en su caso, negociar y dar seguimiento a los acuerdos, convenios de colaboración y declaraciones conjuntas que el o la Titular de la Secretaría, así como los y las responsables de las unidades administrativas promuevan ante sus contrapartes de otros países y organismos internacionales, en coordinación con las dependencias competentes;
 
@@ -585,27 +591,13 @@ XII. Proponer a su superior jerárquico la postura oficial de la Secretaría en 
 
 XIII. Conocer y, en su caso, validar en el ámbito de su competencia las propuestas, modificaciones o adiciones a reglas de operación de los programas para el desarrollo social existentes, así como los proyectos de reglas de operación de nuevos programas que sean formulados por otras unidades administrativas de la Secretaría y sugerir lo correspondiente a las entidades del Sector.
 
-### CAPÍTULO VIII. DE LAS COORDINACIONES GENERALES
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 2 DE ABRIL DE 2013)</small>
+
+### CAPÍTULO VIII
 
 ###### Artículo 19.
 
-La Coordinación General de Modernización y Vinculación de los Registros Públicos de la Propiedad y Catastros, tendrá las siguientes atribuciones:
-
-I. Proponer proyectos para la modernización de los registros públicos de la propiedad a los gobiernos de las entidades federativas y de los catastros a los gobiernos municipales;
-
-II. Sugerir a las entidades federativas y sus municipios la implementación de programas, estrategias, lineamientos y normas técnicas dirigidas a que los registros públicos de la propiedad y de catastros proporcionen seguridad jurídica a los particulares en la información que contengan;
-
-III. Promover de manera coordinada con el Registro Agrario Nacional, los registros públicos de la propiedad y las instituciones catastrales, la celebración de convenios de coordinación entre los tres órdenes de gobierno; así como convenios y contratos de colaboración con asociaciones civiles e instituciones académicas, nacionales e internacionales;
-
-IV. Proponer a los gobiernos estatales y municipales, la conformación de una plataforma jurídica, operativa y tecnológica, estandarizada y homologada, para los registros públicos de la propiedad del país y las instituciones catastrales;
-
-V. Participar en el establecimiento de los mecanismos de colaboración interinstitucional que permitan alinear y controlar las acciones conjuntas de modernización registral y su vinculación con los catastros;
-
-VI. Proponer a su superior jerárquico, las modificaciones a las disposiciones jurídicas aplicables respecto del Programa de Modernización de los Registros Públicos de la Propiedad y Catastros;
-
-VII. Opinar y asesorar al Comité de Evaluación del Programa de Modernización de los Registros Públicos de la Propiedad y Catastros sobre el ejercicio de los recursos destinados a las entidades federativas, así como la autorización de los proyectos de modernización de registros públicos de la propiedad y los catastros en las entidades federativas, y
-
-VIII. Dar seguimiento a los acuerdos tomados por el Comité de Evaluación del Programa de Modernización de los Registros Públicos de la Propiedad y Catastros e informar de ello a su superior jerárquico.
+(DEROGADO, D.O.F. 2 DE ABRIL DE 2013)
 
 ### CAPÍTULO IX. DE LAS DIRECCIONES GENERALES
 
@@ -613,13 +605,15 @@ VIII. Dar seguimiento a los acuerdos tomados por el Comité de Evaluación del P
 
 La Dirección General de Vinculación Interinstitucional tendrá las siguientes atribuciones:
 
-I. Establecer y fomentar vínculos institucionales con las autoridades de las entidades federativas y de los municipios, en el ámbito de competencia de la Secretaría;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2013)</small>
+
+I. Establecer y fomentar vínculos institucionales con las autoridades de las entidades federativas y de los municipios, en el ámbito de competencia de la Secretaría y que no estén expresamente asignadas a otras unidades administrativas de la propia Dependencia;
 
 II. Instituir y desarrollar vínculos con el Poder Legislativo Federal, con sus órganos, comisiones y con los Grupos Parlamentarios que lo integran, en coordinación o a través de las dependencias competentes; a fin de apoyar al o a la Titular de la Secretaría y a las y los demás servidores públicos de la misma, en el ámbito de su competencia, atendiendo los requerimientos y solicitudes relacionadas con la política de desarrollo social y demás actos que, en términos del artículo 93 Constitucional y de las leyes aplicables, les formulen;
 
 III. Actuar como instancia de coordinación en las comparecencias y presentaciones del o de la Titular de la Secretaría y de otras y otros servidores públicos de la misma ante el Poder Legislativo Federal;
 
-IV. Analizar y opinar los proyectos e iniciativas de carácter legislativo, en materias de la competencia de la Secretaría y relacionadas con el objeto de sus entidades sectorizadas, en coordinación con la Unidad del Abogado General y Comisionado para la Transparencia;
+IV. (DEROGADA, D.O.F. 2 DE ABRIL DE 2013)
 
 V. Coordinar el registro, clasificación y seguimiento de los compromisos contraídos por el Ejecutivo Federal con grupos sociales, competencia de la Secretaría o de las entidades del Sector, así como recibir, clasificar, canalizar y dar seguimiento a la demanda social que corresponda atender a las unidades administrativas y los órganos administrativos desconcentrados de la Secretaría, así como las entidades del Sector;
 
@@ -657,7 +651,9 @@ I. Proponer a su superior jerárquico políticas, estrategias, programas, proyec
 
 II. Articular programas, proyectos y acciones con los sectores social y privado, las organizaciones de la sociedad civil, instituciones académicas, así como organismos internacionales para que contribuyan a la ejecución de los programas a su cargo;
 
-III. Promover la celebración de convenios entre la Secretaría, la sociedad, las organizaciones de la sociedad, instituciones académicas, así como organismos internacionales, que contribuyan al desarrollo de mujeres, hombres o grupos sociales en situación de vulnerabilidad;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2013)</small>
+
+III. Promover la celebración de convenios entre la Secretaría, la sociedad, las organizaciones de la sociedad, instituciones académicas, así como organismos internacionales, que contribuyan al desarrollo de los niños, personas o grupos sociales en situación de vulnerabilidad y a la integración familiar en coordinación con el Sistema Nacional para el Desarrollo Integral de la Familia.
 
 IV. Promover la formulación de convenios y acuerdos entre los tres órdenes de gobierno para coordinar sus respectivas acciones en materia de desarrollo social y humano dirigidas a las personas beneficiarias de los programas a su cargo;
 
@@ -707,145 +703,15 @@ V. Proponer a las áreas responsables, con base en los resultados del seguimient
 
 ###### Artículo 25.
 
-La Dirección General de Equipamiento e Infraestructura en Zonas Urbano-Marginadas tendrá las siguientes atribuciones:
-
-I. Diseñar normas, guías y lineamientos técnicos y operativos en materia de equipamiento, infraestructura y servicios municipales para ser propuestos a los gobiernos de las entidades federativas y los municipios;
-
-II. Participar, en el ámbito de su competencia, en la formulación, ejecución, seguimiento y evaluación del Plan Nacional de Desarrollo y de los programas nacionales, sectoriales y especiales que correspondan;
-
-III. Impulsar, desarrollar y normar programas de mejoramiento urbano y rescate de espacios públicos con la participación que corresponda a los gobiernos de las entidades federativas y los municipios;
-
-IV. Desarrollar programas, proyectos, estudios y acciones de asistencia técnica y capacitación a los administradores y a los técnicos de los organismos operadores de la infraestructura y el equipamiento básico, así como de los servicios públicos municipales;
-
-V. Desarrollar y promover esquemas y alternativas de financiamiento para servicios urbanos municipales, obras de infraestructura y equipamiento urbano con organismos financieros bilaterales y multilaterales, así como con el sector privado y las organizaciones de la sociedad civil, para el desarrollo de los centros de población del Sistema Urbano Nacional;
-
-VI. Articular estrategias conjuntas con las dependencias y entidades de la Administración Pública Federal para la ejecución de los programas a su cargo;
-
-VII. Proponer a su superior jerárquico las disposiciones normativas de los programas a su cargo;
-
-VIII. Instrumentar la operación de los programas a su cargo, supervisar el ejercicio de los recursos y, en su caso, autorizar propuestas de inversión, cancelar autorizaciones y ejercer los recursos correspondientes, de conformidad con las disposiciones aplicables;
-
-IX. Dar a conocer las disposiciones normativas y presupuestarias a las y a los operadores de los programas a su cargo;
-
-X. Capacitar y asesorar a las y a los operadores de los programas en la materia cuando así lo requieran y verificar que hagan lo propio entre las autoridades locales y las instancias ejecutoras;
-
-XI. Promover la participación de las y de los beneficiarios en los programas a su cargo, en la planeación, ejecución y vigilancia de las actividades de los mismos, y
-
-XII. Promover el uso de sistemas y tecnologías de eficiencia energética en las obras de infraestructura, equipamiento y servicios urbanos municipales, para coadyuvar al desarrollo urbano sostenible.
+(DEROGADO, D.O.F. 2 DE ABRIL DE 2013)
 
 ###### Artículo 26.
 
-La Dirección General de Desarrollo Urbano y Suelo tendrá las siguientes atribuciones:
-
-I. Proponer las orientaciones generales y estrategias de la política de desarrollo regional y urbana, así como de suelo y reservas territoriales con la participación que corresponda a los gobiernos de las entidades federativas y municipios, y a los sectores social y privado;
-
-II. Proponer el diseño y difusión de normas, sistemas, procedimientos y disposiciones técnicas que contribuyan a fortalecer la planeación, administración y capacidades para el desarrollo regional, metropolitano y urbano, así como en materia de suelo para el desarrollo urbano y la vivienda;
-
-III. Participar, en el ámbito de su competencia, en la formulación, ejecución, seguimiento y evaluación del Plan Nacional de Desarrollo y de los programas nacionales, sectoriales y especiales que correspondan;
-
-IV. Apoyar y asesorar a los gobiernos de las entidades federativas y municipios, cuando lo soliciten, en el diseño de mecanismos de planeación urbana y en la elaboración y actualización de los programas de desarrollo regional, de desarrollo urbano, de centros de población, de zonas metropolitanas y conurbadas, así como en la planeación e instrumentación de acciones en materia de suelo y reservas territoriales, incluido el diseño de instrumentos para ampliar la oferta de suelo con vocación para el desarrollo urbano y la vivienda;
-
-V. Llevar a cabo el inventario de suelo urbano apto para el desarrollo urbano y la vivienda;
-
-VI. Investigar, actualizar y documentar el estado que guarda el desarrollo de los centros de población y zonas metropolitanas del país en materia demográfica, de planeación urbana y regional, de suelo, vivienda, servicios y administración urbanos, de competitividad económica, de gobernabilidad urbana y de cohesión social y cultural, así como formular las sugerencias y recomendaciones que se derivan del desempeño de estas tareas a las instancias competentes de otras dependencias y entidades de la Administración Pública Federal, así como de los gobiernos de las entidades federativas y de los municipios;
-
-VII. Promover proyectos de infraestructura, equipamiento y servicios, así como la coordinación de acciones e inversiones que impulsen el desarrollo integral competitivo, equitativo y sustentable en las regiones, zonas metropolitanas, zonas conurbadas y centros de población, con la participación de las entidades federativas, municipios y de los sectores social y privado;
-
-VIII. Inducir el desarrollo urbano ordenado a través de la incorporación de suelo y la constitución de reservas territoriales;
-
-IX. Capacitar y brindar asistencia técnica a las y a los servidores públicos de las entidades federativas y municipios, así como a agentes del sector social, en materia de planificación y administración urbanas;
-
-X. Diseñar, integrar y administrar sistemas de información para el desarrollo urbano, regional y de suelo que facilite el control, seguimiento y evaluación de los procesos de planeación y administración urbanas;
-
-XI. Emitir, en su caso, dictamen técnico, con base en las disposiciones aplicables, concerniente a la integración del expediente de expropiación de tierras de origen ejidal y comunal y de desincorporación de propiedad federal y terrenos nacionales, para el desarrollo urbano y vivienda, así como de predios de propiedad particular que pasen a formar parte del patrimonio inmobiliario federal, en estricta observancia a las disposiciones legales vigentes;
-
-XII. Emitir dictámenes de uso del suelo a inmuebles de propiedad federal, así como otorgar las opiniones técnicas conducentes a las solicitudes que en materia de manifestaciones de impacto ambiental realice la Secretaría de Medio Ambiente y Recursos Naturales, y en materia de programas maestros de desarrollo portuario, realice la Secretaría de Comunicaciones y Transportes. Lo anterior a efecto de cumplir con la legislación en materia de desarrollo urbano y con los planes y programas de desarrollo urbano, metropolitano y regional aplicables;
-
-XIII. Coordinar con estados y municipios la promoción y el cumplimiento de las políticas de desarrollo urbano y de suelo y reservas territoriales, formulando y suscribiendo para tal efecto convenios de coordinación con los gobiernos de las entidades federativas y los municipios;
-
-XIV. Promover, en coordinación con las dependencias y entidades de la Administración Pública Federal, a través de la instrumentación de los respectivos programas a su cargo en los centros de población, el desarrollo urbano sustentable que cumpla las disposiciones en la materia, así como el fomento y la inducción de las mejores prácticas de planeación y administración urbanas;
-
-XV. Fortalecer la coordinación con las dependencias y entidades federal y local, que administran suelo y reservas territoriales, para promover el cumplimiento de los planes de desarrollo urbano, así como de las políticas, normas, acuerdos, convenios y disposiciones aplicables;
-
-XVI. Fortalecer la coordinación con las dependencias competentes de la Administración Pública Federal para promover que los programas a su cargo no autoricen operaciones contrarias a la legislación y a los planes o programas de desarrollo urbano;
-
-XVII. Articular una estrategia en común con las dependencias y entidades de la Administración Pública Federal para la ejecución de los programas a su cargo;
-
-XVIII. Proponer a su superior jerárquico las disposiciones normativas de los programas a su cargo;
-
-XIX. Instrumentar la operación de los programas a su cargo, supervisar el ejercicio de los recursos y, en su caso, autorizar propuestas de inversión, cancelar autorizaciones y ejercer los recursos correspondientes, de conformidad con las disposiciones aplicables;
-
-XX. Dar a conocer las disposiciones normativas y presupuestarias a las y a los operadores de los programas a su cargo;
-
-XXI. Capacitar y asesorar a las y a los operadores de los programas en la materia cuando así lo requieran y verificar que hagan lo propio entre las autoridades locales y las instancias ejecutoras;
-
-XXII. Promover la participación de las y de los beneficiarios en los programas a su cargo, en la planeación, ejecución y vigilancia de las actividades de los mismos;
-
-XXIII. Solicitar a la Dirección General de Programación y Presupuesto las transferencias de fondos que se realicen a favor de los gobiernos de las entidades federativas y municipales, fideicomisos y organizaciones de la sociedad civil, derivados de los convenios firmados por la Secretaría, de conformidad con las disposiciones jurídicas y presupuestales aplicables, y
-
-XXIV. Participar en colaboración con la Dirección General de Desarrollo Territorial, el Consejo Nacional de Población y el Instituto Nacional de Estadística y Geografía, en la definición de criterios y publicación de la delimitación de zonas metropolitanas en el país.
+(DEROGADO, D.O.F. 2 DE ABRIL DE 2013)
 
 ###### Artículo 27.
 
-La Dirección General de Desarrollo Territorial tendrá las siguientes atribuciones:
-
-I. Proponer las orientaciones generales y estrategias de la política nacional de ordenamiento territorial, prevención y atención de daños en materia de infraestructura vial urbana y vivienda causados por fenómenos naturales, con la participación que corresponda a los gobiernos de las entidades federativas y de los municipios;
-
-II. Promover y apoyar la elaboración de los programas de ordenamiento territorial nacionales, regionales estatales, de zonas metropolitanas, de zonas conurbadas y municipales; y la instrumentación de las acciones en la materia para propiciar la conjunción de esfuerzos, recursos y actividades, de acuerdo con la vocación territorial y a las necesidades de diversificación y sustentabilidad del territorio;
-
-III. Participar, en el ámbito de su competencia, en la formulación, ejecución, seguimiento y evaluación del Plan Nacional de Desarrollo y de los programas nacionales, sectoriales y especiales que correspondan;
-
-IV. Promover, coordinar y realizar tareas de capacitación y asistencia técnica, conjuntamente con las instancias competentes de otras dependencias, entidades federativas y municipios, en la elaboración de los estudios de riesgo, así como en materia de ordenamiento territorial;
-
-V. Elaborar y difundir manuales técnicos y lineamientos metodológicos que servirán de guía para la ejecución, seguimiento, evaluación y actualización de los programas de ordenamiento territorial;
-
-VI. Participar con otras dependencias y entidades de la Administración Pública Federal en el diseño, integración y operación de los sistemas de información para el desarrollo territorial;
-
-VII. Participar en la delimitación de zonas metropolitanas en el país en coordinación con la Dirección General de Desarrollo Urbano y Suelo, el Consejo Nacional de Población y el Instituto Nacional de Estadística y Geografía;
-
-VIII. Promover que los estudios especializados, los mapas de riesgo y los diagnósticos preventivos sean incorporados al marco regulatorio y prospectivo de los centros de población;
-
-IX. Promover la coordinación de acciones interinstitucionales entre la Administración Pública Federal, los gobiernos de las entidades federativas y municipios, que fortalezcan el desarrollo territorial sostenible de los asentamientos humanos y la gestión integral de riesgos;
-
-X. Elaborar y actualizar, con la participación que corresponda a los gobiernos estatales y municipales, los programas de ordenamiento territorial de las franjas fronterizas y regionales del país, así como promover la ejecución de acciones identificadas en dichos instrumentos;
-
-XI. Participar en la formulación de programas y fondos emergentes del Gobierno Federal, dirigidos a prevenir y atender los daños en materia de vivienda e infraestructura urbana causados por fenómenos naturales, así como en la creación y modificación de sus correspondientes reglas de operación;
-
-XII. Elaborar y difundir material didáctico para apoyar a los potenciales beneficiarios de los programas emergentes de vivienda;
-
-XIII. Promover el intercambio nacional e internacional de información, investigaciones y mejores prácticas en materia de prevención y atención de desastres;
-
-XIV. Fortalecer las acciones de capacitación y difusión de mejores prácticas y tecnologías que mejore la efectividad de las intervenciones en materia de prevención y atención de desastres naturales entre el personal de la Secretaría, de los gobiernos locales y de las organizaciones de la sociedad civil, en coordinación con las dependencias competentes;
-
-XV. Llevar a cabo programas y acciones dirigidas a mitigar los riesgos asociados a fenómenos naturales en los centros de población y municipios;
-
-XVI. Emitir recomendaciones en relación al impacto territorial sobre la procedencia de obras de infraestructura y equipamiento a las propuestas que se deriven de los estudios y programas de ordenamiento territorial;
-
-XVII. Promover mecanismos de financiamiento y cooperación que fortalezcan las acciones de prevención de riesgos relacionados con la ocurrencia de fenómenos naturales;
-
-XVIII. Propiciar la participación de empresas productoras y distribuidoras de materiales de construcción que garanticen el abasto y suministro oportuno en los programas emergentes de vivienda;
-
-XIX. Atender los daños en materia de vivienda e infraestructura vial urbana en zonas afectadas por desastres naturales, en coordinación con las dependencias y autoridades competentes de las entidades federativas y de los municipios, así como instrumentar los programas emergentes emprendidos por el Gobierno Federal;
-
-XX. Brindar asesoría y orientación técnica a la población para mejorar su vivienda y reducir su vulnerabilidad frente a la ocurrencia de fenómenos naturales, y promover la participación de los sectores público, privado y académico, en apoyo del sector social;
-
-XXI. Coordinar las actividades de medición y evaluación de daños en materia de vivienda e infraestructura vial urbana por la ocurrencia de fenómenos naturales, así como la elaboración de padrones de las personas beneficiarios (sic) de los programas emergentes de reconstrucción;
-
-XXII. Prevenir y, en su caso, atender con oportunidad los daños en materia de vivienda e infraestructura vial urbana provocados por fenómenos naturales, así como promover el intercambio de información entre las instancias que conforman el Sistema Nacional de Protección Civil y los sistemas estatales y municipales correspondientes;
-
-XXIII. Fomentar la participación de los tres órdenes de gobierno, de los sectores social, privado y de las instituciones académicas, así como la cooperación técnica internacional en las acciones de ordenamiento territorial derivadas de los planes y programas correspondientes que fortalezcan el desarrollo territorial en el país;
-
-XXIV. Articular una estrategia en común con las dependencias y entidades de la Administración Pública Federal para la ejecución de los programas a su cargo;
-
-XXV. Proponer a su superior jerárquico las disposiciones normativas de los programas a su cargo;
-
-XXVI. Instrumentar la operación de los programas a su cargo, supervisar el ejercicio de los recursos y, en su caso, autorizar propuestas de inversión, cancelar autorizaciones y ejercer los recursos correspondientes, de conformidad con las disposiciones aplicables;
-
-XXVII. Dar a conocer las disposiciones normativas y presupuestarias a las y a los operadores de los programas a su cargo;
-
-XXVIII. Capacitar y asesorar a las y a los operadores de los programas en la materia cuando así lo requieran y verificar que hagan lo propio entre las autoridades locales y las instancias ejecutoras, y
-
-XXIX. Promover la participación de las y de los beneficiarios en los programas a su cargo, en la planeación, ejecución y vigilancia de las actividades de los mismos.
+(DEROGADO, D.O.F. 2 DE ABRIL DE 2013)
 
 ###### Artículo 28.
 
@@ -953,7 +819,13 @@ La Dirección General de Recursos Humanos tendrá las siguientes atribuciones:
 
 I. Proponer e instrumentar los procesos y programas para el ingreso; capacitación; evaluación del desempeño; remuneraciones, y estímulos y recompensas del personal de la Secretaría, de conformidad con las disposiciones jurídicas aplicables;
 
-II. Tramitar y validar los nombramientos, contrataciones, promociones, comisiones, suspensiones, licencias, permisos y bajas del personal;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2013)</small>
+
+II. Tramitar y validar las contrataciones, promociones, comisiones, suspensiones, licencias, permisos y bajas del personal;
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2013)</small>
+
+II Bis. Expedir los nombramientos de los servidores públicos de la Secretaría de los niveles de Director de Área e inferiores;
 
 III. Administrar los sistemas internos de administración de personal, control y asistencia y mantener actualizado el acervo de datos del personal de la Secretaría, asegurando su resguardo en términos de las disposiciones jurídicas aplicables;
 
@@ -1049,7 +921,9 @@ I. Desahogar las consultas jurídicas que respecto del ámbito de su competencia
 
 II. Difundir los criterios de interpretación y de aplicación de las disposiciones jurídicas que normen el funcionamiento de las unidades administrativas y los órganos administrativos desconcentrados de la Secretaría, así como de las entidades del Sector;
 
-III. Coadyuvar con el Abogado General y Comisionado para la Transparencia, en la revisión y opinión a la o al Titular de la Secretaría, de los anteproyectos de leyes, reglamentos, decretos, acuerdos y demás anteproyectos de disposiciones jurídicas relacionadas con la competencia de la Secretaría, que elaboren las unidades administrativas y los órganos administrativos desconcentrados de la Secretaría, así como en la elaboración de los anteproyectos de dichos cuerpos normativos cuando lo instruya la o el Titular de la Secretaría;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2013)</small>
+
+III. Coadyuvar con el Titular de la Unidad del Abogado General y Comisionado para la Transparencia, en la revisión y opinión al Titular de la Secretaría, de los anteproyectos de leyes, reglamentos, decretos, acuerdos y demás anteproyectos de disposiciones jurídicas relacionadas con la competencia de la Secretaría y con el objeto de sus entidades del Sector, que elaboren las unidades administrativas y los órganos administrativos desconcentrados de la Secretaría y, en su caso, las propias entidades paraestatales, así como en la elaboración de los anteproyectos de dichos cuerpos normativos cuando lo instruya el Titular de la Secretaría;
 
 IV. Compilar y sistematizar los tratados internacionales, leyes, reglamentos, decretos, acuerdos, reglas de operación, normas oficiales mexicanas, órdenes y demás disposiciones jurídicas y administrativas, relacionadas con la competencia de la Secretaría;
 
@@ -1073,13 +947,25 @@ XIII. Opinar en los procedimientos administrativo-laborales y dictaminar la proc
 
 XIV. Intervenir en representación de la Secretaría, de su Titular, de los órganos administrativos desconcentrados y demás unidades administrativas de la misma, en los procesos jurisdiccionales, procedimientos administrativos y cualquier otro asunto de carácter legal en que tenga interés la Secretaría o que se refiera a hechos o actos susceptibles de causar daño o perjuicio a su patrimonio; presentar y contestar demanda, oponer excepciones y defensas, recusar, reconvenir a la contraparte, ejercer todo tipo de acciones legales y desistir de las mismas, ofrecer y rendir pruebas, interponer recursos y procurar la conciliación en beneficio de la Dependencia; formular denuncias y querellas, coadyuvar con el Ministerio Público en la fase indagatoria y durante los procedimientos penales y, en su caso, otorgar el perdón cuando proceda, así como formular, en general, todas las promociones y actos procesales que a dichos juicios y procedimientos se refieran;
 
-XV. Intervenir en los juicios de amparo en los que sean parte el o la Titular de la Secretaría, así como las y los titulares de subsecretarías, jefaturas de unidad, coordinaciones generales, direcciones generales, y órganos administrativos desconcentrados, así como demás funcionarios de la Secretaría;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2013)</small>
 
-XVI. Suscribir, en su caso, los oficios, escritos y demás promociones que exija el trámite de los procedimientos administrativos y jurisdiccionales, y cualquier otra controversia, no comprendidos en la fracción anterior, en representación del o de la Titular de la Secretaría, así como las y los titulares de subsecretarías, jefaturas de unidad, coordinaciones generales, direcciones generales y órganos administrativos desconcentrados de la Secretaría, sin menoscabo del ejercicio que, en su caso, corresponda a los responsables de las áreas jurídicas respectivas; desahogar los trámites, y asistir a las audiencias y diligencias convocadas por las autoridades correspondientes, y
+XV. Intervenir en los juicios de amparo en los que sean parte el Titular de la Secretaría, así como los titulares de subsecretarías, jefaturas de unidad, direcciones generales y órganos administrativos desconcentrados, y demás funcionarios de la Secretaría;
 
-XVII. Substanciar los procedimientos y recursos administrativos y emitir las resoluciones que procedan.
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2013)</small>
 
-Las Direcciones Generales Adjuntas de (sic) Consultiva y de Asuntos Contenciosos y de Normatividad y Convenios; las Direcciones de lo Contencioso, de Procesos y Amparos y de Estudios Jurídicos; y las Subdirecciones de Asuntos Civiles y Penales, de Asuntos Laborales, de Asuntos Administrativos y Agrarios y de Amparos y Asuntos Especiales, forman parte de la Dirección General de Normatividad y de Asuntos Contenciosos y podrán ejercer las facultades que se establecen en el presente artículo, en las áreas de su competencia, conforme a las disposiciones aplicables.
+XVI. Suscribir, en su caso, los oficios, escritos y demás promociones que exija el trámite de los procedimientos administrativos y jurisdiccionales, y cualquier otra controversia, no comprendidos en la fracción anterior, en representación del Titular de la Secretaría, así como de los titulares de subsecretarías, jefaturas de unidad, direcciones generales y órganos administrativos desconcentrados de la Secretaría, sin menoscabo del ejercicio que, en su caso, corresponda a los responsables de las áreas jurídicas respectivas; desahogar los trámites, y asistir a las audiencias y diligencias convocadas por las autoridades correspondientes;
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2013)</small>
+
+XVII. Substanciar los procedimientos y recursos administrativos y emitir las resoluciones que procedan, con excepción de aquellos cuyo conocimiento corresponda a las delegaciones derivados de la operación de los programas sociales a cargo de la Secretaría, y
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2013)</small>
+
+XVIII. Substanciar y resolver los procedimientos de rescisión derivados de la aplicación de la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y de la Ley de Obras Públicas y Servicios Relacionados con las Mismas.
+
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2013)</small>
+
+Las Direcciones Generales Adjuntas Consultiva y de Asuntos Contenciosos y de Normatividad y Convenios; las Direcciones de lo Contencioso, de Procesos y Amparos y de Estudios Jurídicos; y las Subdirecciones de Asuntos Civiles y Penales, de Asuntos Laborales, de Asuntos Administrativos y Agrarios y de Amparos y Asuntos Especiales, forman parte de la Dirección General de Normatividad y Asuntos Contenciosos y podrán ejercer las facultades que se establecen en el presente artículo, en las áreas de su competencia, conforme a las disposiciones aplicables.
 
 ###### Artículo 34.
 
@@ -1177,13 +1063,19 @@ XIV. Las demás que le señalen el o la Titular de la Secretaría, las disposici
 
 Los órganos administrativos desconcentrados y sus titulares tendrán las competencias y facultades que este Reglamento les confiere y las específicas que le señale el instrumento jurídico de su creación o que los regule o, en su caso, se establezcan en los acuerdos de delegación de facultades del o de la Titular de la Secretaría.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE ABRIL DE 2013)</small>
+
 ###### Artículo 39.
 
-Las delegaciones de la Secretaría en las entidades federativas tendrán las atribuciones siguientes:
+Las delegaciones de la Secretaría en los Estados y Distrito Federal, ejercerán en las respectivas entidades federativas de su residencia, las atribuciones siguientes:
 
-I. Coordinar la ejecución de los programas y acciones que competan a la Secretaría en el ámbito territorial de la entidad federativa correspondiente, con apego a las normas y lineamientos que determinen el o la Titular de la Secretaría, la Unidad de Coordinación de Delegaciones y las unidades administrativas centrales competentes, informándoles de los avances y resultados de su ejercicio;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2013)</small>
 
-II. Coadyuvar con el o con la Titular de la Secretaría en la coordinación de las entidades del Sector, en el ámbito de la entidad federativa;
+I. Coordinar la ejecución de los programas y acciones que competan a la Secretaría, con apego a las normas y lineamientos que determinen el Titular de la Secretaría, la Unidad de Coordinación de Delegaciones y las unidades administrativas centrales competentes, informándoles de los avances y resultados de su ejercicio;
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2013)</small>
+
+II. Coadyuvar con el Titular de la Secretaría en la coordinación de las entidades del Sector;
 
 III. Proporcionar la asesoría y el apoyo técnico que le soliciten las autoridades de las entidades federativas y de los municipios, en relación a los programas que opere la Secretaría;
 
@@ -1193,7 +1085,7 @@ V. Intervenir en la celebración, ejecución y supervisión de las obras públic
 
 VI. Integrar y mantener actualizado el inventario de obras de infraestructura y equipamiento para el desarrollo social realizadas en la entidad federativa con la participación del Gobierno Federal;
 
-VII. Emitir, con base en las disposiciones aplicables, dictamen técnico concerniente a la integración del expediente de expropiación de tierras de origen ejidal y comunal para el desarrollo urbano y vivienda, en estricta observancia a los ordenamientos legales vigentes;
+VII. (DEROGADA, D.O.F. 2 DE ABRIL DE 2013)
 
 VIII. Dar seguimiento a la aplicación de los apoyos financieros federales de los programas sociales, transferidos a la entidad federativa, a los municipios o a los sectores social y privado;
 
@@ -1235,9 +1127,19 @@ XXVI. Operar y mantener los bienes y servicios de tecnologías de la informació
 
 XXVII. Operar y mantener actualizados los registros contables para controlar y evaluar el ejercicio presupuestal de la Delegación y, en general, llevar su contabilidad, con base en las disposiciones jurídicas aplicables;
 
-XXVIII. Formular, presentar y ratificar denuncias o querellas de carácter penal, respecto de aquellos hechos probablemente constitutivos de delitos cometidos en contra de los intereses de la Secretaría y de sus bienes, y en su caso, previo acuerdo por escrito del o de la Titular de la Unidad del Abogado General y Comisionado para la Transparencia, desistirse y otorgar el perdón, cuando así proceda, y
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2013)</small>
 
-XXIX. Las demás que le encomiende el o la Titular de la Secretaría o le confieran otras disposiciones jurídicas aplicables.
+XXVIII. Formular, presentar y ratificar denuncias o querellas de carácter penal, respecto de aquellos hechos probablemente constitutivos de delitos cometidos en contra de los intereses de la Secretaría y de sus bienes, y en su caso, previo acuerdo por escrito del Titular de la Unidad del Abogado General y Comisionado para la Transparencia, desistirse y otorgar el perdón, cuando así proceda;
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2013)</small>
+
+XXIX. Iniciar, substanciar y resolver los procedimientos administrativos que se instrumenten derivado de la operación de los programas sociales a cargo de la Secretaría y tendientes a resolver sobre la baja definitiva de los beneficiarios, al colocarse en alguno de los supuestos previstos para ello en las respectivas reglas de operación.
+
+Lo anterior con excepción de los procedimientos administrativos derivados de la operación de los programas a cargo de la Coordinación Nacional del Programa de Desarrollo Humano Oportunidades, y
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2013)</small>
+
+XXX. Las demás que le encomiende el Titular de la Secretaría o le confieran otras disposiciones jurídicas aplicables.
 
 ###### Artículo 40.
 
@@ -1279,9 +1181,21 @@ XV. Promover, coordinar, realizar, publicar y difundir estudios, investigaciones
 
 XVI. Formular e impulsar proyectos de investigación, información, asesoría, apoyo técnico, comunicación y difusión en materia de desarrollo, participación y gestión social con instituciones académicas, de educación superior y de investigación, así como con organizaciones de la sociedad civil;
 
-XVII. Promover la integración en la perspectiva de género en los programas de desarrollo social, y
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2013)</small>
 
-XVIII. Elaborar la acreditación de las actividades de desarrollo social que, de conformidad a su objeto social, lleven a cabo las organizaciones de la sociedad civil.
+XVII. Promover la integración de la perspectiva de género en los programas de desarrollo social;
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2013)</small>
+
+XVIII. Elaborar la acreditación de las actividades de desarrollo social que, de conformidad a su objeto social, lleven a cabo las organizaciones de la sociedad civil;
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2013)</small>
+
+XIX. Diseñar y aplicar modelos que permitan combatir las causas estructurales que generan condiciones de mayor riesgo y vulnerabilidad frente a los delitos en materia de trata de personas con especial referencia a la pobreza, marginación y la desigualdad social, y
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2013)</small>
+
+XX. Fomentar el desarrollo social desde la visión de protección integral de los derechos humanos de las víctimas y coadyuvar en su promoción.
 
 ###### Artículo 42.
 
@@ -1327,9 +1241,21 @@ XIII. Participar en la selección y valoración del personal que estará a su ca
 
 XIV. Dirigir, capacitar, coordinar y supervisar el personal a su cargo para cumplir con los objetivos del área;
 
-XV. Mantener permanentemente informado al o a la Titular de la Coordinación Nacional y a la unidad administrativa correspondiente de la Coordinación Nacional del Programa de Desarrollo Humano Oportunidades, de todos los asuntos inherentes a la Delegación Estatal, y
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2013)</small>
 
-XVI. Realizar las demás actividades que señalen la o el Coordinador Nacional, su superior jerárquico, las disposiciones jurídicas aplicables y las necesarias para el cumplimiento de su objeto.
+XV. Mantener permanentemente informado al Titular de la Coordinación Nacional y a la unidad administrativa correspondiente de la Coordinación Nacional del Programa de Desarrollo Humano Oportunidades, de todos los asuntos inherentes a la Delegación Estatal;
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2013)</small>
+
+XVI. Expedir certificaciones de los documentos que obren en sus archivos;
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2013)</small>
+
+XVII. Iniciar, substanciar y resolver los procedimientos administrativos que se instrumenten derivado de la operación de los programas a su cargo y tendientes a resolver sobre la baja definitiva de los beneficiarios, al colocarse en alguno de los supuestos previstos para ello en las respectivas reglas de operación, y
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2013)</small>
+
+XVIII. Realizar las demás actividades que señalen el Coordinador Nacional, su superior jerárquico, las disposiciones jurídicas aplicables y las necesarias para el cumplimiento de su objeto.
 
 ### CAPÍTULO XI. DEL ÓRGANO INTERNO DE CONTROL
 
@@ -1349,13 +1275,17 @@ Las unidades administrativas y los órganos administrativos desconcentrados de l
 
 ### CAPÍTULO XII. DE LAS SUPLENCIAS
 
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2013)</small>
+
 ###### Artículo 49.
 
-Durante las ausencias del o de la Titular de la Secretaría, el despacho y resolución de los asuntos correspondientes a la Dependencia, estarán a cargo de las o los Subsecretarios de Desarrollo Social y Humano; de Desarrollo Urbano y Ordenación del Territorio; de Prospectiva, Planeación y Evaluación; del o de la Titular de la Oficialía Mayor, o de la Unidad del Abogado General y Comisionado para la Transparencia, en el orden mencionado.
+Durante las ausencias del Titular de la Secretaría, el despacho y resolución de los asuntos correspondientes a la Dependencia, estarán a cargo de los Subsecretarios de Desarrollo Social y Humano; de Desarrollo Comunitario y Participación Social; de Prospectiva, Planeación y Evaluación; del Titular de la Oficialía Mayor, o de la Unidad del Abogado General y Comisionado para la Transparencia, en el orden mencionado.
 
-En las ausencias de las o de los Titulares de las Subsecretarías, la Oficialía Mayor, la Unidad del Abogado General y Comisionado para la Transparencia y Jefaturas de Unidad, serán suplidos para el despacho de los asuntos de su correspondiente competencia, en su caso, por la o por el Titular de la Unidad, la o el Coordinador General, la o el Director General o Director adscrito en el área de su responsabilidad que ellos mismos designen por escrito.
+Las ausencias de los Titulares de las Subsecretarías, la Oficialía Mayor, la Unidad del Abogado General y Comisionado para la Transparencia y Jefaturas de Unidad, serán suplidas para el despacho de los asuntos de su correspondiente competencia, en su caso, por los servidores públicos del nivel jerárquico inmediato inferior que de ellos dependan y de acuerdo a la competencia del asunto.
 
-En las ausencias de las o los titulares de los órganos administrativos desconcentrados, serán suplidos por las o por los servidores públicos que determinen sus instrumentos de organización o, en su caso, por la o por el servidor público que designen por escrito. Las y los Directores Generales, Directores Generales Adjuntos, Directores de Área, Subdirectores y Jefes de Departamento, serán suplidos durante sus ausencias por las y por los servidores públicos de jerarquía inmediata inferior, según la naturaleza de los asuntos.
+Las ausencias de los titulares de los órganos administrativos desconcentrados, serán suplidas por los servidores públicos de nivel jerárquico inmediato inferior que de ellos dependan y de acuerdo a la competencia del asunto.
+
+Las ausencias de los Directores Generales, Directores Generales Adjuntos, Directores de Área, Subdirectores y Jefes de Departamento, serán suplidas por los servidores públicos del nivel jerárquico inmediato inferior que de ellos dependan y de acuerdo a la competencia del asunto.
 
 ## TRANSITORIOS
 
@@ -1374,3 +1304,15 @@ La Secretaría en los casos de creación y/o supresión de puestos deberá, con 
 SEXTO.- Los recursos financieros y materiales que estuvieren asignados a las unidades administrativas que desaparecen o modifican su competencia en virtud de lo dispuesto en el presente ordenamiento, serán reasignados a las unidades que asumen las correspondientes atribuciones con la intervención de la Oficialía Mayor y de conformidad a las instrucciones que al efecto imparta el Secretario.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintiuno de agosto de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Desarrollo Social, Jesús Heriberto Félix Guerra.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 2 DE ABRIL DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente ordenamiento.
+
+TERCERO.- Los asuntos pendientes a la entrada en vigor de este Decreto, que conforme al mismo deban pasar de una unidad administrativa a otra u otras, continuarán su trámite y serán resueltos por aquella o aquellas unidades a las que se les haya atribuido la competencia en este ordenamiento, mismas que pueden seguir utilizando la papelería en la que conste su anterior denominación hasta agotar su existencia, sin que ello afecte la validez de sus actos.
+
+CUARTO.- Las referencias que se hacen y las atribuciones que se otorgan en reglamentos, decretos, acuerdos, manuales y demás disposiciones a las unidades administrativas que cambian de denominación o desaparecen por virtud del presente Reglamento, se entenderán hechas o conferidas a las unidades administrativas que correspondan conforme a lo establecido en el mismo.
