@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-del-poder-judicial-de-la-federacion-2569"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-05-26"
-last_updated: "2012-12-27"
+last_updated: "2013-04-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2569&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOPJF"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE ABRIL DE 2013.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 26 de mayo de 1995.
 
@@ -82,9 +82,11 @@ SECCION 1a.
 
 DE SU INTEGRACION Y FUNCIONAMIENTO
 
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2013)</small>
+
 ###### ARTICULO 4o.
 
-El Pleno se compondrá de once ministros, pero bastará la presencia de siete miembros para que pueda funcionar, con excepción de los casos previstos en el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, fracción I penúltimo párrafo y fracción II, en los que se requerirá la presencia de al menos ocho ministros.
+El Pleno se compondrá de once ministros, pero bastará la presencia de siete miembros para que pueda funcionar, con excepción de los casos previstos en los artículos 105, fracción I, penúltimo párrafo y fracción II, y 107, fracción II, párrafo tercero, ambos de la Constitución Política de los Estados Unidos Mexicanos, en los que se requerirá la presencia de al menos ocho ministros.
 
 ###### ARTICULO 5o.
 
@@ -142,7 +144,9 @@ c) Cuando se trate de los casos comprendidos en las fracciones II y III del art�
 
 III. Del recurso de revisión contra sentencias que en amparo directo pronuncien los tribunales colegiados de circuito, cuando habiéndose impugnado la inconstitucionalidad de una ley federal, local, del Distrito Federal o de un tratado internacional, o cuando en los conceptos de violación se haya planteado la interpretación directa de un precepto de la Constitución Política de los Estados Unidos Mexicanos, dichas sentencias decidan u omitan decidir sobre tales materias, debiendo limitarse en estos casos la materia del recurso a la decisión de las cuestiones propiamente constitucionales;
 
-IV. Del recurso de queja interpuesto en el caso a que se refiere la fracción V del artículo 95 de la Ley de Amparo, siempre que el conocimiento de la revisión en el juicio de garantías en el que la queja se haga valer le haya correspondido al Pleno de la Suprema Corte de Justicia, en los términos del artículo 99, párrafo segundo, de la misma ley;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2013)</small>
+
+IV. Del recurso de queja en los casos y condiciones establecidas en la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos;
 
 V. Del recurso de reclamación contra las providencias o acuerdos del presidente de la Suprema Corte de Justicia, dictados durante la tramitación de los asuntos jurisdiccionales de la competencia del Pleno de la Suprema Corte de Justicia;
 
@@ -150,17 +154,21 @@ VI. De las excusas e impedimentos de los ministros, en asuntos de la competencia
 
 VII. De la aplicación de la fracción XVI del artículo 107 de la Constitución Política de los Estados Unidos Mexicanos;
 
-> <small>(REFORMADA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2013)</small>
 
-VIII. De las denuncias de contradicción entre tesis sustentadas por las Salas de la Suprema Corte de Justicia, por los tribunales colegiados de circuito cuando se trate de asuntos que por razón de la materia no sean de la competencia exclusiva de alguna de las Salas, o por el Tribunal Electoral en los términos de los artículos 236 y 237 de esta ley;
+VIII. De las denuncias de contradicción entre tesis sustentadas por las Salas de la Suprema Corte de Justicia, por el Tribunal Electoral en los términos de los artículos 236 y 237 de esta ley, o por los Plenos de Circuito de distintos Circuitos, por los Plenos de Circuito en materia especializada de un mismo Circuito y por los tribunales colegiados de circuito con diferente especialización, cuando se trate de asuntos que por razón de la materia no sean de la competencia exclusiva de alguna de las Salas;
 
 IX. De los conflictos de trabajo suscitados con sus propios servidores en términos de la fracción XII del apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, a partir del dictamen que le presente la Comisión Substanciadora Unica del Poder Judicial de la Federación, en términos de los artículos 152 a 161 de la Ley Federal de los Trabajadores al Servicio del Estado reglamentaria del apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, en lo conducente;
 
 X. De los juicios de anulación de la declaratoria de exclusión de los Estados del Sistema Nacional de Coordinación Fiscal, y de los juicios sobre cumplimiento de los convenios de coordinación celebrados por el Gobierno Federal con los Gobiernos de los Estados o el Distrito Federal, de acuerdo con lo establecido por la Ley de Coordinación Fiscal, en términos de lo dispuesto por la Ley Reglamentaria del artículo 105 de la Constitución Política de los Estados Unidos Mexicanos en lo que hace a las controversias constitucionales;
 
-XI. De cualquier otro asunto de la competencia de la Suprema Corte de Justicia, cuyo conocimiento no corresponda a las Salas, y
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2013)</small>
 
-XII. De las demás que expresamente le confieran las leyes.
+XI. De los procedimientos de declaratoria general de inconstitucionalidad, de conformidad con lo establecido en la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos;
+
+XII. De cualquier otro asunto de la competencia de la Suprema Corte de Justicia, cuyo conocimiento no corresponda a las Salas, y
+
+XIII. De las demás que expresamente le confieran las leyes.
 
 ###### ARTICULO 11.
 
@@ -202,13 +210,21 @@ XVII. Apercibir, amonestar e imponer multas hasta de ciento ochenta días del im
 
 XVIII. Ejercer las facultades previstas en los párrafos segundo y tercero del artículo 97 de la Constitución Política de los Estados Unidos Mexicanos;
 
-XIX. Reglamentar el funcionamiento de los órganos que realicen las labores de compilación y sistematización de tesis y ejecutorias, la publicación de las mismas, agrupándolas cuando formen jurisprudencia; la estadística e informática de la Suprema Corte de Justicia; y el centro de documentación y análisis que comprenderá la biblioteca central, el archivo histórico, el archivo central y los archivos de los tribunales federales foráneos, compilación de leyes y el archivo de actas; y cuando lo estime conveniente podrá el Pleno convenir con el Consejo de la Judicatura Federal las medidas necesarias para lograr una eficiente difusión de las publicaciones;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2013)</small>
+
+XIX. Reglamentar el funcionamiento de los órganos que realicen las labores de compilación, sistematización y publicación de las ejecutorias, tesis y jurisprudencias, así como de las sentencias en contrario que las interrumpan o las resoluciones que las sustituyan; la estadística e informática de la Suprema Corte de Justicia; y el centro de documentación y análisis que comprenderá la biblioteca central, el archivo histórico, el archivo central y los archivos de los tribunales federales foráneos, compilación de leyes y el archivo de actas; y cuando lo estime conveniente podrá el Pleno convenir con el Consejo de la Judicatura Federal las medidas necesarias para lograr una eficiente difusión de las publicaciones;
 
 XX. Para conocer sobre la interpretación y resolución de los conflictos que se deriven de contratos o cumplimiento de obligaciones contraídas por particulares o dependencias públicas con la Suprema Corte de Justicia o con el Consejo de la Judicatura Federal;
 
-XXI. Dictar los reglamentos y acuerdos generales en las materias de su competencia, y
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2013)</small>
 
-XXII. Las demás que determinen las leyes.
+XXI. Dictar los reglamentos y acuerdos generales en las materias de su competencia;
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2013)</small>
+
+XXII. Resolver, de forma definitiva e inatacable, las solicitudes a que se refiere el noveno párrafo del artículo 94 de la Constitución Política de los Estados Unidos Mexicanos, y
+
+XXIII. Las demás que determinen las leyes.
 
 ### CAPITULO III. DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA
 
@@ -264,9 +280,17 @@ XVIII. Nombrar al ministro o ministros que deban proveer los trámites en asunto
 
 XIX. Establecer las disposiciones generales necesarias para el ingreso, estímulos, capacitación, ascensos y promociones por escalafón y remoción del personal administrativo de la Suprema Corte de Justicia;
 
-XX. Establecer las sanciones a que se refiere la fracción XVII del artículo 11 de esta ley, siempre que las promociones se hubieren hecho ante él, y
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2013)</small>
 
-XXI. Las demás que le confieran las leyes, reglamentos interiores y acuerdos generales.
+XX. Realizar todos los actos tendientes a dar trámite al procedimiento de declaratoria general de inconstitucionalidad a que se refiere la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos;
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2013)</small>
+
+XXI. Atender la solicitud a que se refiere el noveno párrafo del artículo 94 de la Constitución Política de los Estados Unidos Mexicanos, para lo cual deberá someterla a consideración del Pleno para que resuelva de forma definitiva por mayoría simple;
+
+XXII. Establecer las sanciones a que se refiere la fracción XVII del artículo 11 de esta ley, siempre que las promociones se hubieren hecho ante él, y
+
+XXIII. Las demás que le confieran las leyes, reglamentos interiores y acuerdos generales.
 
 ### CAPITULO IV. DE LAS SALAS
 
@@ -330,9 +354,9 @@ a) Cuando habiéndose impugnado la constitucionalidad de un reglamento federal e
 
 b) De los amparos directos que por su interés y trascendencia así lo ameriten en uso de la facultad de atracción prevista en el segundo párrafo del inciso d) de la fracción V del artículo 107 de la Constitución Política de los Estados Unidos Mexicanos;
 
-> <small>(REFORMADA, D.O.F. 17 DE MAYO DE 2001)</small>
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2013)</small>
 
-IV. Del recurso de queja interpuesto en los casos a que se refieren las fracciones V, VII, VIII, IX y X del artículo 95 de la Ley de Amparo, siempre que el conocimiento del amparo en que la queja se haga valer sea competencia de una de las Salas, directamente o en revisión, en los términos del artículo 99, párrafos segundo y tercero, de la misma ley;
+IV. Del recurso de queja en los casos y condiciones establecidas en la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos;
 
 V. Del recurso de reclamación contra los acuerdos de trámite dictados por su presidente;
 
@@ -340,7 +364,9 @@ VI. De las controversias que por razón de competencia se susciten entre los tri
 
 VII. De las controversias que por razón de competencia se susciten entre tribunales colegiados de circuito; entre un juez de distrito y el tribunal superior de un Estado o del Distrito Federal, entre tribunales superiores de distintos Estados, o entre el tribunal superior de un Estado y el Tribunal Superior de Justicia del Distrito Federal, en los juicios de amparo a que se refieren los artículos 51, fracciones I y II, 52, fracción I, 53, fracciones I a VI, 54, fracción I y 55, de esta Ley;
 
-VIII. De las denuncias de contradicción entre tesis que sustenten dos o más tribunales colegiados de circuito, para los efectos a que se refiere la Ley Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2013)</small>
+
+VIII. De las denuncias de contradicción entre tesis que sustenten los Plenos de Circuito de distintos Circuitos, los Plenos de Circuito en materia especializada de un mismo Circuito o los tribunales colegiados de circuito con diferente especialización, para los efectos a que se refiere la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos;
 
 IX. De las controversias que se susciten con motivo de los convenios a los que se refiere el segundo párrafo del artículo 119 Constitucional;
 
@@ -478,25 +504,39 @@ c) En materia civil o mercantil, de sentencias o resoluciones respecto de las qu
 
 d) En materia laboral, de laudos o resoluciones dictados por juntas o tribunales laborales federales o locales;
 
-II. De los recursos que procedan contra los autos y resoluciones que pronuncien los jueces de distrito, tribunales unitarios de circuito o el superior del tribunal responsable, en los casos de las fracciones I, II y III del artículo 83 de la Ley de Amparo;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2013)</small>
 
-III. Del recurso de queja en los casos de las fracciones V a XI del artículo 95 de la Ley de Amparo, en relación con el artículo 99 de la misma Ley;
+II. Del recurso de revisión en los casos a que se refiere el artículo 81 de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos;
 
-IV. Del recurso de revisión contra las sentencias pronunciadas en la audiencia constitucional por los jueces de distrito, tribunales unitarios de circuito o por el superior del tribunal responsable en los casos a que se refiere el artículo 85 de la Ley de Amparo, y cuando se reclame un acuerdo de extradición dictado por el Poder Ejecutivo a petición de un gobierno extranjero, o cuando se trate de los casos en que el Pleno de la Suprema Corte de Justicia haya ejercitado la facultad prevista en el sexto párrafo del artículo 94 de la Constitución Política de los Estados Unidos Mexicanos;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2013)</small>
+
+III. Del recurso de queja en los casos y condiciones establecidas en la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos;
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2013)</small>
+
+IV. Del recurso de revisión contra las sentencias pronunciadas en la audiencia constitucional por los jueces de distrito, tribunales unitarios de circuito o por el superior del tribunal responsable en los casos a que se refiere el artículo 84 de la Ley de Amparo, y cuando se reclame un acuerdo de extradición dictado por el Poder Ejecutivo a petición de un gobierno extranjero, o cuando se trate de los casos en que el Pleno de la Suprema Corte de Justicia haya ejercitado la facultad prevista en el séptimo párrafo del artículo 94 de la Constitución Política de los Estados Unidos Mexicanos;
 
 V. De los recursos de revisión que las leyes establezcan en términos de la fracción I-B del artículo 104 de la Constitución Política de los Estados Unidos Mexicanos;
 
 VI. De los conflictos de competencia que se susciten entre tribunales unitarios de circuito o jueces de distrito de su jurisdicción en juicios de amparo. Cuando el conflicto de competencia se suscite entre tribunales unitarios de circuito o jueces de distrito de distinta jurisdicción, conocerá el tribunal colegiado que tenga jurisdicción sobre el órgano que previno;
 
-VII. De los impedimentos y excusas que en materia de amparo se susciten entre jueces de distrito, y en cualquier materia entre los magistrados de los tribunales de circuito, o las autoridades a que se refiere el artículo 37 de la Ley de Amparo. En estos casos conocerá el tribunal colegiado de circuito más cercano.
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2013)</small>
+
+VII. De los impedimentos y excusas que en materia de amparo se susciten entre jueces de distrito, y en cualquier materia entre los magistrados de los tribunales de circuito, o las autoridades a que se refiere el artículo 54, fracción III de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos. En estos casos conocerá el tribunal colegiado de circuito más cercano.
 
 Cuando la cuestión se suscitara respecto de un solo magistrado de circuito de amparo, conocerá su propio tribunal;
 
-VIII. De los recursos de reclamación previstos en el artículo 103 de la Ley de Amparo; y
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2013)</small>
+
+VIII. De los recursos de reclamación previstos en el artículo 104 de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos; y
 
 IX. Las demás que expresamente les encomiende la ley o los acuerdos generales emitidos por la Suprema Corte de Justicia funcionando en Pleno o las Salas de la misma.
 
 Los tribunales colegiados de circuito tendrán la facultad a que se refiere la fracción XVII del artículo 11 de esta ley, siempre que las promociones se hubieren hecho ante ellos.
+
+> <small>(ADICIONADO, D.O.F. 2 DE ABRIL DE 2013)</small>
+
+Cualquiera de los magistrados integrantes de los tribunales colegiados de circuito podrán denunciar las contradicciones de tesis ante el Pleno y las Salas de la Suprema Corte de Justicia y solicitar la sustitución de la jurisprudencia así como ante los Plenos de Circuito conforme a los procedimientos establecidos en la Ley de Amparo, Reglamentaria de los Artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### ARTICULO 38.
 
@@ -530,23 +570,95 @@ V. Firmar las resoluciones del tribunal, con el magistrado ponente y el secretar
 
 VI. Las demás que establezcan las leyes.
 
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 2 DE ABRIL DE 2013)</small>
+
+## TÍTULO TERCERO BIS. DE LOS PLENOS DE CIRCUITO
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 2 DE ABRIL DE 2013)</small>
+
+### CAPÍTULO I. DE SU INTEGRACIÓN Y FUNCIONAMIENTO
+
+> <small>(ADICIONADO, D.O.F. 2 DE ABRIL DE 2013)</small>
+
+###### ARTICULO 41
+
+BIS.- Los Plenos de Circuito son los órganos facultados para desarrollar las funciones señaladas en el artículo 107, fracción XIII de la Constitución Política de los Estados Unidos Mexicanos, que se compondrán por los magistrados adscritos a los Tribunales Colegiados del circuito respectivo o, en su caso, por sus presidentes, en los términos que establezcan los acuerdos generales que al efecto emita el Consejo de la Judicatura Federal, en los que además se establecerá el número, y en su caso especialización de los Plenos de Circuito, atendiendo a las circunstancias particulares de cada circuito judicial.
+
+> <small>(ADICIONADO, D.O.F. 2 DE ABRIL DE 2013)</small>
+
+###### ARTICULO 41
+
+BIS 1.- Los acuerdos generales a los que se refiere el artículo anterior deberán contener, entre otros aspectos, los siguientes:
+
+a) Número de integrantes y quórum necesario para sesionar;
+
+b) Los términos en que deberán emitirse las convocatorias ordinarias y extraordinarias, así como la forma o modalidad en que éstas podrán desarrollarse;
+
+c) Mínimo de sesiones ordinarias;
+
+d) Procedimiento y requisitos que deberán llenarse para la realización de sesiones extraordinarias;
+
+e) El procedimiento y requisitos que deberán llenarse para la formulación y publicación de votos particulares minoritarios;
+
+f) Los procedimientos para determinar la sustitución de sus integrantes en los casos de ausencias o impedimentos;
+
+g) Las medidas y apoyos administrativos que en su caso se requieran para el adecuado funcionamiento de los Plenos de Circuito.
+
+> <small>(ADICIONADO, D.O.F. 2 DE ABRIL DE 2013)</small>
+
+###### ARTICULO 41
+
+BIS 2.- Las decisiones de los Plenos de Circuito se tomarán por mayoría de votos de sus integrantes. En las resoluciones que emita el Pleno de Circuito deberá obrar el nombre y la firma, así como el sentido del voto de los magistrados que hayan participado en la decisión de que se trate.
+
+En caso de empate, el magistrado presidente del Pleno de Circuito tendrá voto de calidad.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 2 DE ABRIL DE 2013)</small>
+
+### CAPÍTULO II. DE SUS ATRIBUCIONES
+
+> <small>(ADICIONADO, D.O.F. 2 DE ABRIL DE 2013)</small>
+
+###### ARTICULO 41
+
+TER.- Con las salvedades a que se refieren los artículos 10 y 21 de esta Ley, son competentes los Plenos de Circuito para:
+
+I. Resolver las contradicciones de tesis de jurisprudencia sostenidas entre los tribunales colegiados del circuito correspondiente, determinando cuál de ellas debe prevalecer;
+
+II. Denunciar ante el pleno o las salas de la Suprema Corte de Justicia, según la materia, las contradicciones de tesis de jurisprudencia en las que contienda alguna tesis sostenida por ese Pleno de Circuito;
+
+III. Resolver las solicitudes de sustitución de jurisprudencia que reciban por parte de los tribunales colegiados del circuito correspondiente o de sus integrantes; y
+
+IV. Solicitar a la Suprema Corte de Justicia, conforme a los acuerdos generales que emita el Consejo de la Judicatura Federal, que inicie el procedimiento de declaratoria general de inconstitucionalidad cuando dentro de su circuito se haya emitido jurisprudencia derivada de amparos indirectos en revisión en la que se declare la inconstitucionalidad de una norma general.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 2 DE ABRIL DE 2013)</small>
+
+### CAPÍTULO III. DE SU PRESIDENTE
+
+> <small>(ADICIONADO, D.O.F. 2 DE ABRIL DE 2013)</small>
+
+###### ARTICULO 41
+
+QUÁTER.- Cada Pleno de Circuito tendrá a un magistrado presidente, quien será designado de manera rotativa conforme al decanato en el circuito, por período de un año. Para ser magistrado presidente del Pleno de Circuito se requiere poseer, al menos, antigüedad de un año en el circuito correspondiente.
+
+> <small>(ADICIONADO, D.O.F. 2 DE ABRIL DE 2013)</small>
+
+###### ARTICULO 41
+
+QUÁTER 1.- Son atribuciones de los magistrados presidentes de los Plenos de Circuito:
+
+I. Llevar la representación y la correspondencia oficial del Pleno de Circuito;
+
+II. Convocar a sesiones ordinarias o extraordinarias en los términos establecidos en esta Ley y en los acuerdos generales que al efecto emita el Consejo de la Judicatura Federal;
+
+III. Dictar los trámites que procedan en los asuntos de la competencia del Pleno de Circuito hasta ponerlos en estado de resolución;
+
+IV. Dirigir los debates y conservar el orden durante las sesiones; y
+
+V. Las demás que establezcan las leyes y los acuerdos generales que al efecto emita el Consejo de la Judicatura Federal.
+
 ## TITULO CUARTO. DE LOS JUZGADOS DE DISTRITO
 
 ### CAPITULO I. DE SU INTEGRACION Y FUNCIONAMIENTO
-
-### CAPITULO II. DE SUS ATRIBUCIONES
-
-### CAPITULO UNICO
-
-## TITULO QUINTO. DEL JURADO FEDERAL DE CIUDADANOS
-
-### CAPITULO I. DEL CONSEJO DE LA JUDICATURA FEDERAL
-
-SECCION 1a.
-
-DE SU INTEGRACION Y FUNCIONAMIENTO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
 ###### ARTICULO 42.
 
@@ -574,13 +686,7 @@ Los impedimentos de los jueces de distrito serán conocidos y resueltos en térm
 
 En los lugares en que no resida el juez de distrito o este servidor público no hubiere sido suplido en los términos que establecen los artículos anteriores, los jueces del orden común practicarán las diligencias que les encomienden las leyes en auxilio de la justicia federal.
 
-### CAPITULO II. DE LOS ORGANOS AUXILIARES
-
-SECCION 1a.
-
-DISPOSICIONES GENERALES
-
-> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 2000)</small>
+### CAPITULO II. DE SUS ATRIBUCIONES
 
 ###### ARTICULO 48.
 
@@ -716,9 +822,17 @@ Los jueces de distrito de amparo en materia penal conocerán:
 
 I. De los juicios de amparo que se promuevan contra resoluciones judiciales del orden penal; contra actos de cualquier autoridad que afecten la libertad personal, salvo que se trate de correcciones disciplinarias o de medios de apremio impuestos fuera de procedimiento penal, y contra los actos que importen peligro de privación de la vida, deportación, destierro o alguno de los prohibidos por el artículo 22 de la Constitución Política de los Estados Unidos Mexicanos;
 
-II. De los juicios de amparo que se promuevan conforme a la fracción VII del artículo 107 de la Constitución Política de los Estados Unidos Mexicanos, en los casos en que sea procedente contra resoluciones dictadas en los incidentes de reparación del daño exigible a personas distintas de los inculpados, o en los de responsabilidad civil, por los mismos tribunales que conozcan o hayan conocido de los procesos respectivos, o por tribunales diversos, en los juicios de responsabilidad civil, cuando la acción se funde en la comisión de un delito, y
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2013)</small>
 
-III. De los juicios de amparo que se promuevan contra leyes y demás disposiciones de observancia general en materia penal, en los términos de la Ley de Amparo.
+II. De los juicios de amparo que se promuevan conforme a la fracción VII del artículo 107 de la Constitución Política de los Estados Unidos Mexicanos, en los casos en que sea procedente contra resoluciones dictadas en los incidentes de reparación del daño exigible a personas distintas de los inculpados, o en los de responsabilidad civil, por los mismos tribunales que conozcan o hayan conocido de los procesos respectivos, o por tribunales diversos, en los juicios de responsabilidad civil, cuando la acción se funde en la comisión de un delito;
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2013)</small>
+
+III. De los juicios de amparo que se promuevan contra leyes y demás disposiciones de observancia general en materia penal, en los términos de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos; y
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2013)</small>
+
+IV. De las denuncias por incumplimiento a las declaratorias generales de inconstitucionalidad emitidas por la Suprema Corte de Justicia de la Nación respecto de normas generales en materia penal, en términos de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### ARTICULO 52.
 
@@ -730,9 +844,17 @@ II. De los juicios de amparo que se promuevan conforme a la fracción VII del ar
 
 III. De los juicios de amparo que se promuevan contra leyes y demás disposiciones de observancia general en materia administrativa, en los términos de la Ley de Amparo;
 
-IV. De los juicios de amparo que se promuevan contra actos de autoridad distinta de la judicial, salvo los casos a que se refieren las fracciones II del artículo 50 y III de artículo anterior en lo conducente, y
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2013)</small>
 
-V. De los amparos que se promuevan contra actos de tribunales administrativos ejecutados en el juicio, fuera de él o después de concluido, o que afecten a personas extrañas al juicio.
+IV. De los juicios de amparo que se promuevan contra actos de autoridad distinta de la judicial, salvo los casos a que se refieren las fracciones II del artículo 50 y III del artículo anterior en lo conducente;
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2013)</small>
+
+V. De los amparos que se promuevan contra actos de tribunales administrativos ejecutados en el juicio, fuera de él o después de concluido, o que afecten a personas extrañas a juicio; y
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2013)</small>
+
+VI. De las denuncias por incumplimiento a las declaratorias generales de inconstitucionalidad emitidas por la Suprema Corte de Justicia de la Nación respecto de normas generales en materia administrativa, en términos de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### ARTICULO 53.
 
@@ -772,9 +894,17 @@ Los jueces de distrito de amparo en materia civil conocerán:
 
 I. De los amparos que se promuevan contra resoluciones del orden civil, en los casos a que se refiere la fracción VII del artículo 107 de la Constitución Política de los Estados Unidos Mexicanos;
 
-II. De los juicios de amparo que se promuevan contra leyes y demás disposiciones de observancia general en materia civil, en los términos de la Ley de Amparo, y
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2013)</small>
 
-III. De los asuntos de la competencia de los juzgados de distrito en materia de amparo que no estén enumerados en los artículos 51, 52 y 55 de esta ley.
+II. De los juicios de amparo que se promuevan contra leyes y demás disposiciones de observancia general en materia civil, en los términos de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos;
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2013)</small>
+
+III. De los asuntos de la competencia de los juzgados de distrito en materia de amparo que no estén enumerados en los artículos 51, 52 y 55 de esta Ley; y
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2013)</small>
+
+IV. De las denuncias por incumplimiento a las declaratorias generales de inconstitucionalidad emitidas por la Suprema Corte de Justicia de la Nación respecto de normas generales en materia civil, en términos de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### ARTICULO 55.
 
@@ -784,13 +914,27 @@ I. De los juicios de amparo que se promuevan conforme a la fracción VII del art
 
 II. De los juicios de amparo que se promuevan contra leyes y demás disposiciones de observancia general en materia de trabajo, en términos de la Ley de Amparo;
 
-III. De los juicios de amparo que se promuevan en materia de trabajo, contra actos de autoridad distinta de la judicial, y
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2013)</small>
 
-IV. De los amparos que se promuevan contra actos de tribunales de trabajo ejecutados en el juicio, fuera de él o después de concluido, o que afecten a personas extrañas al juicio.
+III. De los juicios de amparo que se promuevan en materia de trabajo, contra actos de autoridad distinta de la judicial;
 
-## TITULO SEXTO. DE LOS ORGANOS ADMINISTRATIVOS DEL PODER JUDICIAL DE LA FEDERACION
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2013)</small>
 
-### CAPITULO I. DEL INGRESO A LA CARRERA JUDICIAL
+IV. De los amparos que se promuevan contra actos de tribunales de trabajo ejecutados en el juicio, fuera de él o después de concluido, o que afecten a personas extrañas al juicio; y
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2013)</small>
+
+V. De las denuncias por incumplimiento a las declaratorias generales de inconstitucionalidad emitidas por la Suprema Corte de Justicia de la Nación respecto de normas generales en materia de trabajo, en términos de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, D.O.F. 2 DE ABRIL DE 2013)</small>
+
+###### ARTICULO 55
+
+BIS.- Los jueces de distrito podrán denunciar las contradicciones de tesis ante el Pleno y las Salas de la Suprema Corte de Justicia, así como ante los Plenos de Circuito; conforme a los procedimientos establecidos en la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos.
+
+## TITULO QUINTO. DEL JURADO FEDERAL DE CIUDADANOS
+
+### CAPITULO UNICO
 
 ###### ARTICULO 56.
 
@@ -878,11 +1022,23 @@ Las excusas serán alegadas ante el presidente de debates, el que las calificar�
 
 Los jurados que asistan a las audiencias recibirán la remuneración que determine el presupuesto, y los que falten sin causa justificada les serán aplicables las sanciones que señale la ley.
 
-### CAPITULO II. DE LA ADSCRIPCION Y RATIFICACION
+### CAPITULO I. DEL CONSEJO DE LA JUDICATURA FEDERAL
 
-## TITULO SEPTIMO. DE LA CARRERA JUDICIAL
+SECCION 1a.
 
-### CAPITULO III. DEL RECURSO DE REVISION ADMINISTRATIVA
+DE SU INTEGRACION Y FUNCIONAMIENTO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+
+## TITULO SEXTO. DE LOS ORGANOS ADMINISTRATIVOS DEL PODER JUDICIAL DE LA FEDERACION
+
+### CAPITULO II. DE LOS ORGANOS AUXILIARES
+
+SECCION 1a.
+
+DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 2000)</small>
 
 ###### ARTICULO 68.
 
@@ -974,7 +1130,13 @@ III. Fijar las bases, convocar y realizar el procedimiento de insaculación para
 
 IV. Determinar el número y los límites territoriales de los circuitos en que se divida el territorio de la República;
 
-V. Determinar el número y, en su caso, especialización por materia de los tribunales colegiados y unitarios en cada uno de los circuitos a que se refiere la fracción anterior;
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2013)</small>
+
+IV Bis. Determinar la integración y funcionamiento de los Plenos de Circuito en los términos previstos en el Título Tercero Bis de esta ley;
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2013)</small>
+
+V. Determinar el número y, en su caso, especialización por materia de los tribunales colegiados y unitarios en cada uno de los circuitos a que se refiere la fracción IV de este artículo;
 
 VI. Determinar el número, límites territoriales y, en su caso, especialización por materia, de los juzgados de distrito en cada uno de los circuitos;
 
@@ -1002,7 +1164,9 @@ XVI. Nombrar, a propuesta que haga su presidente, a los secretarios ejecutivos, 
 
 XVII. Emitir las bases mediante acuerdos generales, para que las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra que realice el Poder Judicial de la Federación, a excepción de la Suprema Corte de Justicia, en ejercicio de su presupuesto de egresos, se ajuste a los criterios contemplados en el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos;
 
-XVIII. Establecer la normatividad y los criterios para modernizar las estructuras orgánicas, los sistemas y procedimientos administrativos internos, así como los de servicios al público;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2013)</small>
+
+XVIII. Establecer la normatividad y los criterios para modernizar las estructuras orgánicas, los sistemas y procedimientos administrativos internos, así como los de servicios al público. Para tal efecto, deberá emitir la regulación suficiente, por medio de reglas y acuerdos generales, para la presentación de escritos y la integración de expedientes en forma electrónica mediante el empleo de tecnologías de la información que utilicen la Firma Electrónica, de conformidad con lo estipulado en la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos.
 
 XIX. Establecer las disposiciones generales necesarias para el ingreso, estímulos, capacitación, ascensos y promociones por escalafón y remoción del personal administrativo de los tribunales de circuito y juzgados de distrito;
 
@@ -1144,7 +1308,7 @@ Los secretarios ejecutivos contarán con las atribuciones que determine el Pleno
 
 Los secretarios técnicos deberán tener título profesional expedido en alguna materia afín a las competencias del Consejo de la Judicatura Federal, experiencia mínima de tres años, gozar de buena reputación y no haber sido condenado por delito intencional con sanción privativa de libertad mayor de un año.
 
-### CAPITULO UNICO
+### CAPITULO I. DEL INGRESO A LA CARRERA JUDICIAL
 
 ###### ARTICULO 88.
 
@@ -1286,7 +1450,7 @@ IV. Inspeccionar y vigilar el cumplimiento de las normas y disposiciones relativ
 
 V. Las demás que determinen las leyes, los reglamentos y acuerdos generales correspondientes.
 
-## TITULO OCTAVO. DE LA RESPONSABILIDAD
+## TITULO SEPTIMO. DE LA CARRERA JUDICIAL
 
 ###### ARTICULO 105.
 
@@ -1356,7 +1520,7 @@ X. Actuario del Poder Judicial de la Federación.
 
 El Consejo de la Judicatura Federal establecerá, de acuerdo con su presupuesto y mediante disposiciones generales, un sistema de estímulos para aquellas personas comprendidas en las categorías señaladas en el artículo anterior. Dicho sistema podrá incluir estímulos económicos y tomará en cuenta el desempeño en el ejercicio de su función, los cursos realizados dentro del Instituto de la Judicatura, la antigüedad, grado académico, arraigo y los demás que el propio Consejo estime necesarios. Adicionalmente, y tratándose de magistrados de circuito y jueces de distrito, el Consejo de la Judicatura Federal podrá autorizar años sabáticos, siempre que el interesado presente un proyecto de trabajo que redunde en su formación académica y profesional y sea de interés para el Poder Judicial de la Federación, así como también becas para estudios e investigación en el extranjero dentro de las posibilidades de orden presupuestal.
 
-### CAPITULO I. DE LA DIVISION TERRITORIAL
+### CAPITULO II. DE LA ADSCRIPCION Y RATIFICACION
 
 ###### ARTICULO 112.
 
@@ -1436,7 +1600,7 @@ Por cada miembro titular se nombrará un suplente designado en los términos que
 
 A los miembros del jurado les serán aplicables los impedimentos establecidos en el artículo 146 de esta ley, los cuales serán calificados por el propio jurado.
 
-### CAPITULO II. DE LOS IMPEDIMENTOS
+### CAPITULO III. DEL RECURSO DE REVISION ADMINISTRATIVA
 
 ###### ARTICULO 118.
 
@@ -1490,7 +1654,7 @@ IV. No haber sido sancionado por falta grave, con motivo de una queja de caráct
 
 V. Los demás que estime pertinentes, siempre que consten en acuerdos generales publicados con seis meses de anticipación a la fecha de la ratificación.
 
-### CAPITULO III. DE LA PROTESTA CONSTITUCIONAL
+### CAPITULO UNICO
 
 ###### ARTICULO 122.
 
@@ -1534,7 +1698,7 @@ La nulidad del acto que se reclame no producirá la invalidez de las actuaciones
 
 La interposición de la revisión administrativa no interrumpirá en ningún caso, los efectos de la resolución impugnada.
 
-## TITULO NOVENO. DE LA FACULTAD DE ATRACCION EN LAS CONTROVERSIAS ORDINARIAS
+## TITULO OCTAVO. DE LA RESPONSABILIDAD
 
 ###### ARTICULO 129.
 
@@ -1666,9 +1830,9 @@ Si el Pleno de la Suprema Corte de Justicia, el Consejo de la Judicatura Federal
 
 Las resoluciones por las que el Pleno del Consejo de la Judicatura Federal imponga sanciones administrativas consistentes en la destitución del cargo de magistrados de circuito y juez de distrito, podrán ser impugnadas por el servidor público ante el Pleno de la Suprema Corte de Justicia mediante el recurso de revisión administrativa.
 
-## TITULO DECIMO. DE LAS DISPOSICIONES GENERALES
+## TITULO NOVENO. DE LA FACULTAD DE ATRACCION EN LAS CONTROVERSIAS ORDINARIAS
 
-### CAPITULO IV. DE LAS ACTUACIONES JUDICIALES
+### CAPITULO I. DE LA DIVISION TERRITORIAL
 
 ###### ARTICULO 141.
 
@@ -1696,23 +1860,23 @@ En contra de las resoluciones dictadas por el ministro a quien conforme a lo dis
 
 Cuando el recurso de reclamación se interponga sin motivo, se impondrá al recurrente o a su representante, a su abogado o a ambos, una multa de diez a ciento veinte días de salario.
 
-## TITULO DECIMO SEGUNDO. DEL FONDO DE APOYO A LA ADMINISTRACION DE JUSTICIA
+## TITULO DECIMO. DE LAS DISPOSICIONES GENERALES
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 14 DE FEBRERO DE 2006)</small>
-
-### CAPITULO V. DE LAS VACACIONES Y DIAS INHABILES
+### CAPITULO II. DE LOS IMPEDIMENTOS
 
 ###### ARTICULO 144.
 
 Para los efectos de esta ley, el territorio de la República se dividirá en el número de circuitos que mediante acuerdos generales determine el Consejo de la Judicatura Federal.
 
-En cada uno de los circuitos el Consejo de la Judicatura Federal establecerá mediante acuerdos generales, el número de tribunales colegiados y unitarios de circuito y de juzgados de distrito, así como su especialización y límites territoriales.
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2013)</small>
+
+En cada uno de los circuitos el Consejo de la Judicatura Federal establecerá mediante acuerdos generales, el número de Plenos de Circuito, tribunales colegiados y unitarios de circuito y de juzgados de distrito, así como su especialización y límites territoriales.
 
 ###### ARTICULO 145.
 
 Cada uno de los circuitos a que se refiere el artículo anterior comprenderá los distritos judiciales cuyo número y límites territoriales determine el Consejo de la Judicatura Federal mediante acuerdos generales. En cada distrito deberá establecerse cuando menos un juzgado.
 
-### CAPITULO VI. DE LAS LICENCIAS
+### CAPITULO III. DE LA PROTESTA CONSTITUCIONAL
 
 ###### ARTICULO 146.
 
@@ -1770,7 +1934,7 @@ Los visitadores y los peritos estarán impedidos para actuar cuando se encuentre
 
 Además de los servidores públicos previstos en el artículo 101 de la Constitución Política de los Estados Unidos Mexicanos, los actuarios, los visitadores, no podrán aceptar o desempeñar empleo o encargo de la Federación, de los Estados, del Distrito Federal o de particulares, salvo los cargos no remunerados en asociaciones científicas, docentes, literarias o de beneficencia.
 
-### CAPITULO VII. DE LA JURISPRUDENCIA
+### CAPITULO IV. DE LAS ACTUACIONES JUDICIALES
 
 ###### ARTICULO 150.
 
@@ -1796,7 +1960,7 @@ Los secretarios y empleados de los tribunales de circuito y de los juzgados de d
 
 La protesta a que se refiere este capítulo se prestará en los términos siguientes: ¿Protestáis desempeñar leal y patrióticamente el cargo de (el que se confiera al interesado) que se os ha conferido; guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos y las leyes que de ella emanen, mirando en todo por el bien y prosperidad de la Unión? El interesado responderá: Sí protesto. La autoridad que tome la protesta añadirá: Si no lo hiciéreis así, la nación os lo demande.
 
-### CAPITULO VIII. DEL PERSONAL DEL PODER JUDICIAL DE LA FEDERACION
+### CAPITULO V. DE LAS VACACIONES Y DIAS INHABILES
 
 ###### ARTICULO 156.
 
@@ -1818,9 +1982,7 @@ Fuera de la residencia de los juzgados de distrito, las diligencias podrán prac
 
 En los asuntos del orden penal los jueces de distrito podrán autorizar a los jueces del orden común en términos del artículo 47 de esta ley y cuando dichos jueces ordenen la práctica de diligencias para que resuelvan sobre la formal prisión, la sujeción a proceso o la libertad por falta de méritos para procesar, según fuere procedente, y para practicar las demás diligencias en los términos que disponga el Código Federal de Procedimientos Penales.
 
-### CAPITULO I. DE SU INTEGRACION Y FUNCIONAMIENTO
-
-> <small>(ADICIONADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+### CAPITULO VI. DE LAS LICENCIAS
 
 ###### ARTICULO 159.
 
@@ -1848,15 +2010,7 @@ Los magistrados de circuito y los jueces de distrito otorgarán a los secretario
 
 En los órganos del Poder Judicial de la Federación, se considerarán como días inhábiles los sábados y domingos, el 1o. de enero, 5 de febrero, 21 de marzo, 1o. de mayo, 16 de septiembre y 20 de noviembre, durante los cuales no se practicarán actuaciones judiciales, salvo en los casos expresamente consignados en la Ley.
 
-### CAPITULO II. DE LA SALA SUPERIOR
-
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
-
-SECCION 1A.
-
-DE SU INTEGRACION Y FUNCIONAMIENTO
-
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
+### CAPITULO VII. DE LA JURISPRUDENCIA
 
 ###### ARTICULO 164.
 
@@ -1914,9 +2068,7 @@ Las licencias de los demás empleados de los tribunales unitarios de circuito y 
 
 Las licencias de los servidores públicos y empleados no contemplados en los artículos anteriores, serán concedidas por el órgano facultado para ello en los términos de los reglamentos y acuerdos generales correspondientes y a falta de disposición expresa por quien haya conocido de su nombramiento.
 
-### CAPITULO III. DEL PRESIDENTE DEL TRIBUNAL ELECTORAL
-
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
+### CAPITULO VIII. DEL PERSONAL DEL PODER JUDICIAL DE LA FEDERACION
 
 ###### ARTICULO 177.
 
@@ -1930,15 +2082,9 @@ La Coordinación de Compilación y Sistematización de Tesis, será el órgano c
 
 En términos de la fracción XIX del artículo 11 de esta ley, la Suprema Corte de Justicia, cuidará que las publicaciones del Semanario Judicial de la Federación se realicen con oportunidad y llevará a cabo todas aquellas tareas que fueren necesarias para la adecuada distribución y difusión de las tesis y jurisprudencias que hubieren emitido los órganos competentes del Poder Judicial de la Federación.
 
-### CAPITULO IV. DE LAS SALAS REGIONALES
+### CAPITULO I. DE SU INTEGRACION Y FUNCIONAMIENTO
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
-
-SECCION 1A.
-
-DE SU INTEGRACION Y FUNCIONAMIENTO
-
-> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
+> <small>(ADICIONADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
 ###### ARTICULO 180.
 
@@ -1970,13 +2116,13 @@ DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
-### CAPITULO V. DE LOS MAGISTRADOS ELECTORALES
+### CAPITULO II. DE LA SALA SUPERIOR
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
 SECCION 1A.
 
-DEL PROCEDIMIENTO PARA SU ELECCION
+DE SU INTEGRACION Y FUNCIONAMIENTO
 
 > <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
 
@@ -2064,15 +2210,9 @@ X.- Las demás que le señalen las leyes.
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
-### CAPITULO VI. DEL SECRETARIO GENERAL DE ACUERDOS Y SUBSECRETARIO GENERAL DE ACUERDOS
+### CAPITULO III. DEL PRESIDENTE DEL TRIBUNAL ELECTORAL
 
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
-
-SECCION 1A.
-
-DE SU INTEGRACION Y FUNCIONAMIENTO EN LA SALA SUPERIOR.
-
-> <small>(ADICIONADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 187.
 
@@ -2198,13 +2338,13 @@ La determinación que emita la Sala Superior respecto de ejercer o no la faculta
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
-### CAPITULO VII. DE LOS SECRETARIOS GENERALES DE SALA REGIONAL
+### CAPITULO IV. DE LAS SALAS REGIONALES
 
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
 SECCION 1A.
 
-DE SU INTEGRACION Y FUNCIONAMIENTO EN LAS SALAS REGIONALES
+DE SU INTEGRACION Y FUNCIONAMIENTO
 
 > <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
 
@@ -2282,15 +2422,15 @@ XXVII.- Las demás que señalen las leyes, el Reglamento Interno o aquellas que 
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
-### CAPITULO VIII. DE LA COMISION DE ADMINISTRACION
+### CAPITULO V. DE LOS MAGISTRADOS ELECTORALES
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
 SECCION 1A.
 
-DE SU INTEGRACION Y FUNCIONAMIENTO
+DEL PROCEDIMIENTO PARA SU ELECCION
 
-> <small>(ADICIONADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 192.
 
@@ -2432,13 +2572,13 @@ XVI.- Las demás que sean necesarias para el correcto funcionamiento de la Sala 
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
-### CAPITULO IX. DISPOSICIONES ESPECIALES
+### CAPITULO VI. DEL SECRETARIO GENERAL DE ACUERDOS Y SUBSECRETARIO GENERAL DE ACUERDOS
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
 SECCION 1A.
 
-DE LOS REQUISITOS PARA OCUPAR EL CARGO.
+DE SU INTEGRACION Y FUNCIONAMIENTO EN LA SALA SUPERIOR.
 
 > <small>(ADICIONADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
@@ -2502,9 +2642,15 @@ Cada magistrado de la Sala Superior y de las Salas Regionales contará permanent
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
-### CAPITULO I. DE LA ORGANIZACION
+### CAPITULO VII. DE LOS SECRETARIOS GENERALES DE SALA REGIONAL
 
-> <small>(ADICIONADO, D.O.F. 14 DE FEBRERO DE 2006)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+
+SECCION 1A.
+
+DE SU INTEGRACION Y FUNCIONAMIENTO EN LAS SALAS REGIONALES
+
+> <small>(REFORMADO, D.O.F. 1 DE JULIO DE 2008)</small>
 
 ###### ARTICULO 200.
 
@@ -2558,9 +2704,15 @@ El subsecretario general de acuerdos auxiliará y apoyará al secretario general
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
-### CAPITULO II. DE LA INTEGRACION
+### CAPITULO VIII. DE LA COMISION DE ADMINISTRACION
 
-> <small>(ADICIONADO, D.O.F. 14 DE FEBRERO DE 2006)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+
+SECCION 1A.
+
+DE SU INTEGRACION Y FUNCIONAMIENTO
+
+> <small>(ADICIONADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
 ###### ARTICULO 203.
 
@@ -2608,9 +2760,15 @@ XII.- Las demás que les señalen las leyes.
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
-### CAPITULO III. DE LA ADMINISTRACION Y OPERACION
+### CAPITULO IX. DISPOSICIONES ESPECIALES
 
-> <small>(ADICIONADO, D.O.F. 14 DE FEBRERO DE 2006)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
+
+SECCION 1A.
+
+DE LOS REQUISITOS PARA OCUPAR EL CARGO.
+
+> <small>(ADICIONADO, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
 ###### ARTICULO 205.
 
@@ -2768,7 +2926,7 @@ La Comisión de Administración contará con una Secretaría Administrativa y co
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
-### CAPITULO IV. DEL DESTINO
+### CAPITULO I. DE LA ORGANIZACION
 
 > <small>(ADICIONADO, D.O.F. 14 DE FEBRERO DE 2006)</small>
 
@@ -3152,11 +3310,23 @@ Los servidores del Tribunal que sean destituidos podrán apelar tal decisión an
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 14 DE FEBRERO DE 2006)</small>
 
+## TITULO DECIMO SEGUNDO. DEL FONDO DE APOYO A LA ADMINISTRACION DE JUSTICIA
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 14 DE FEBRERO DE 2006)</small>
+
+### CAPITULO II. DE LA INTEGRACION
+
+> <small>(ADICIONADO, D.O.F. 14 DE FEBRERO DE 2006)</small>
+
 ###### ARTICULO 242.
 
 El Poder Judicial de la Federación se auxiliará para el mejor desempeño de sus funciones de un fondo económico para el mejoramiento de la administración de justicia y administrar los recursos financieros que integren el mismo.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 14 DE FEBRERO DE 2006)</small>
+
+### CAPITULO III. DE LA ADMINISTRACION Y OPERACION
+
+> <small>(ADICIONADO, D.O.F. 14 DE FEBRERO DE 2006)</small>
 
 ###### ARTICULO 243.
 
@@ -3177,6 +3347,10 @@ IV. Los ingresos que se produzcan por la administración de valores o los depós
 Los recursos con los que se integre y opere el Fondo serán diferentes de aquellos que comprenda el presupuesto anual aprobado a favor del Poder Judicial de la Federación, y no afectarán las partidas que sean autorizadas mediante dicho presupuesto.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 14 DE FEBRERO DE 2006)</small>
+
+### CAPITULO IV. DEL DESTINO
+
+> <small>(ADICIONADO, D.O.F. 14 DE FEBRERO DE 2006)</small>
 
 ###### ARTICULO 245.
 
@@ -3507,3 +3681,7 @@ SÉPTIMO. Para efectos de la aplicación de la fuerza física sobre los adolesce
 OCTAVO. El Congreso de la Unión realizará las modificaciones que correspondan a la presente Ley dentro de los seis meses siguientes a la entrada en vigor en el ámbito federal del sistema de justicia penal acusatorio, previsto en los artículos 16, párrafos segundo y decimotercero; 17, párrafos tercero, cuarto y sexto; 19; 20 y 21, párrafo séptimo, de la Constitución Política de los Estados Unidos Mexicanos.
 
 NOVENO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 2 DE ABRIL DE 2013.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
