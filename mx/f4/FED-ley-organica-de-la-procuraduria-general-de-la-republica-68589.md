@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-de-la-procuraduria-general-de-la-republica-68589"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-05-29"
-last_updated: "2012-12-27"
+last_updated: "2013-04-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68589&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-05-27"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE LA REPÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE ABRIL DE 2013.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 29 de mayo de 2009.
 
@@ -335,7 +335,9 @@ II. Intervenir en las controversias y acciones a que se refiere el artículo 105
 
 III. Formular petición a la Suprema Corte de Justicia de la Nación para que conozca de los amparos directos o en revisión que por su interés y trascendencia así lo ameriten, de conformidad con el artículo 107, fracciones V y VIII, de la Constitución Política de los Estados Unidos Mexicanos;
 
-IV. Denunciar ante la Suprema Corte de Justicia de la Nación la sustentación de tesis que estime contradictorias con motivo de los juicios de amparo de la competencia de las Salas de la Suprema Corte de Justicia de la Nación o de los Tribunales Colegiados de Circuito, de acuerdo con lo dispuesto en el artículo 107, fracción XIII, de la Constitución Política de los Estados Unidos Mexicanos;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2013)</small>
+
+IV. Denunciar las contradicciones de tesis ante el Pleno y las Salas de la Suprema Corte de Justicia, así como ante los Plenos de Circuito; conforme a los procedimientos establecidos en la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos.
 
 V. Proponer al Ejecutivo Federal los proyectos de iniciativas de ley o de reformas legislativas para la exacta observancia de la Constitución Política de los Estados Unidos Mexicanos y que estén vinculadas con las materias que sean competencia de la Procuraduría General de la República, de conformidad con las disposiciones aplicables;
 
@@ -1426,3 +1428,7 @@ SÉPTIMO. Para efectos de la aplicación de la fuerza física sobre los adolesce
 OCTAVO. El Congreso de la Unión realizará las modificaciones que correspondan a la presente Ley dentro de los seis meses siguientes a la entrada en vigor en el ámbito federal del sistema de justicia penal acusatorio, previsto en los artículos 16, párrafos segundo y decimotercero; 17, párrafos tercero, cuarto y sexto; 19; 20 y 21, párrafo séptimo, de la Constitución Política de los Estados Unidos Mexicanos.
 
 NOVENO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 2 DE ABRIL DE 2013.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
