@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-educacion-del-estado-de-guerrero-num-158-5131"
 country: "mx"
 rank: "ley"
 publication_date: "1995-04-21"
-last_updated: "2012-09-07"
+last_updated: "2013-04-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE EDUCACIÓN DEL ESTADO DE GUERRERO NUM. 158
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 21 de abril de 1995.
 
@@ -112,6 +112,10 @@ La educación que el Estado imparta será laica y por tanto, se mantendrá por c
 ###### ARTICULO 6o.
 
 La educación que el Estado imparta será gratuita, las donaciones destinadas a dicha educación en ningún caso se entenderán como contraprestaciones del servicio educativo.
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2013)</small>
+
+Queda prohibido el cobro obligatorio de cuotas escolares, de inscripción y de cualquier tipo que tenga que ver con las necesidades de las escuelas públicas.
 
 ###### ARTICULO 7o.
 
@@ -1020,3 +1024,11 @@ Comuníquese al Titular del Poder Ejecutivo para los efectos legales correspondi
 ###### ARTÍCULO TERCERO.
 
 Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, para el conocimiento general.
+
+P.O. 2 DE ABRIL DE 2013.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Remítase al Titular del Poder Ejecutivo del Estado de Guerrero para los efectos legales correspondientes.
+
+TERCERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Guerrero.
