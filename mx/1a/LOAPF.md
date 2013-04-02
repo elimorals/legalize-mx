@@ -4,7 +4,7 @@ identifier: "LOAPF"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-29"
-last_updated: "2013-01-02"
+last_updated: "2013-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=370&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOAPF"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE ABRIL DE 2013.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 29 de diciembre de 1976.
 
@@ -1806,9 +1806,15 @@ VIII.- Participar, junto con las demás dependencias competentes, en la actualiz
 
 IX.- Prestar apoyo y asesoría en materia técnico jurídica a las entidades federativas que lo soliciten, sin perjuicio de la competencia de otras dependencias;
 
-X.- Representar al Presidente de la República, cuando éste así lo acuerde, en las acciones y controversias a que se refiere el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, así como en los demás juicios en que el titular del Ejecutivo Federal intervenga con cualquier carácter. La representación a que se refiere esta fracción comprende el desahogo de todo tipo de pruebas, y
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2013)</small>
 
-XI.- Las demás que le atribuyan expresamente las leyes y reglamentos.
+X.- Representar al Presidente de la República, cuando éste así lo acuerde, en las acciones y controversias a que se refiere el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, así como en los demás juicios en que el titular del Ejecutivo Federal intervenga con cualquier carácter. La representación a que se refiere esta fracción comprende el desahogo de todo tipo de pruebas;
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2013)</small>
+
+XI.- Ejercer, cuando así se lo haya solicitado algún Secretario de Estado, y atendiendo a las leyes reglamentarias y a los acuerdos generales que al efecto emita el Presidente de la República, la facultad a que se refiere el noveno párrafo del artículo 94 de la Constitución Política de los Estados Unidos Mexicanos, solicitando al Presidente de la Suprema Corte de Justicia de la Nación la atención prioritaria de los juicios de amparo, controversias constitucionales o acciones de inconstitucionalidad, y
+
+XII.- Las demás que le atribuyan expresamente las leyes y reglamentos.
 
 > <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 1996)</small>
 
@@ -2359,3 +2365,7 @@ Décimo.- La Secretaría de Desarrollo Agrario, Territorial y Urbano será la de
 Décimo Primero.- La Secretaría de Gobernación resolverá sobre los aspectos de adscripciones, integraciones de órganos y definición de competencias no previstos en el presente régimen transitorio. La Secretaría de Hacienda y Crédito Público resolverá sobre los aspectos administrativos no contemplados en el régimen mencionado.
 
 Décimo Segundo.- El Congreso de la Unión expedirá la legislación sobre el uso legítimo de la fuerza en un plazo no mayor de seis meses a partir de la entrada en vigor del presente Decreto.
+
+D.O.F. 2 DE ABRIL DE 2013.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
