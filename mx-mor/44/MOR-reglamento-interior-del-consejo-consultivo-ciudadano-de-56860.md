@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-del-consejo-consultivo-ciudadano-de-56860"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-07-18"
-last_updated: "2007-07-18"
+last_updated: "2013-04-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56860&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DEL CONSEJO CONSULTIVO CIUDADANO DE CUERNAVACA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO DEL CONSEJO CONSULTIVO MUNICIPAL DE CUERNAVACA, MORELOS, PUBLICADO EN EL P.O. DE 3 DE ABRIL DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 19 de julio de 2007.
 
@@ -440,3 +442,15 @@ C. ERIKA CORTÉS MARTÍNEZ
 SECRETARIA DEL AYUNTAMIENTO
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 3 DE ABRIL DE 2013.
+
+PRIMERO.- El presente reglamento, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano informativo del Gobierno del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- Se abroga el Reglamento Interior del Consejo Consultivo Ciudadano, aprobado con fecha 12 de abril de 2007 y publicado en el Periódico Oficial "Tierra y Libertad" número 4545 Sección Segunda de fecha 18 de julio de 2007.
+
+TERCERO.- En un plazo máximo de siete días, contados a partir de la fecha en que se determine el número de miembros del Consejo, el Presidente Municipal deberá proponer al Cabildo, su propuesta de integrantes del Consejo Consultivo, para su aprobación y expedición del Bando respectivo.
+
+CUARTO.- El Consejo Consultivo deberá instalarse en un plazo máximo de quince días contados a partir de la fecha en que se publique el Bando correspondiente.
