@@ -4,7 +4,7 @@ identifier: "NAY-codigo-civil-para-el-estado-de-nayarit-6805"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-08-22"
-last_updated: "2012-05-25"
+last_updated: "2013-04-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CÓDIGO CIVIL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2013.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 22 de Agosto de 1981.
 
@@ -7607,13 +7607,13 @@ Cuando sin el empleo de mecanismos, instrumentos, etc., a que se refiere el art�
 
 La reparación del daño debe consistir a elección del ofendido, en el restablecimiento de la situación anterior, cuando ello sea posible, o en el pago de daños y perjuicios.
 
-> <small>(REFORMADO, P.O. 5 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2013)</small>
 
-Cuando el daño se cause a las personas y produzca la muerte, incapacidad total permanente, parcial permanente, total temporal, o parcial temporal, el grado de reparación se determinará atendiendo a lo dispuesto por la Ley Federal del Trabajo.
+Cuando el daño se cause a las personas y produzca incapacidad total permanente, parcial permanente, total temporal, o parcial temporal; el grado de reparación y el cálculo de la indemnización correspondiente se determinarán atendiendo a lo dispuesto por la Ley Federal del Trabajo.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2013)</small>
 
-Para calcular la indemnización que corresponda se tomará como base el triple del salario mínimo diario más alto que esté en vigor en la región y se extenderá al número de días que para cada una de las incapacidades mencionadas señala la Ley Federal del Trabajo. En caso de muerte la indemnización se integrará a la masa hereditaria de la víctima, en los términos de la legislación de la materia.
+Si el daño ocasionado trae como consecuencia la muerte, se tomará como base el equivalente a dos mil quinientos salarios mínimos vigentes en la entidad; misma que se integrará a la masa hereditaria de la víctima, en los términos de la legislación de la materia.
 
 Los créditos por indemnización cuando la víctima fuere un asalariado son intransferibles y se cubrirán preferentemente en una sola exhibición, salvo convenio entre las partes.
 
@@ -16248,3 +16248,7 @@ Artículo Único.- El presente decreto entrará en vigor al día siguiente de su
 P.O. 25 DE MAYO DE 2012.
 
 ÚNICO El presente decreto entrará en vigor a los sesenta días de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 3 DE ABRIL DE 2013.
+
+Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
