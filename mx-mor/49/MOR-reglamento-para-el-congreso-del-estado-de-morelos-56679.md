@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-para-el-congreso-del-estado-de-morelos-56679"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-07-25"
-last_updated: "2013-01-16"
+last_updated: "2013-04-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO PARA EL CONGRESO DEL ESTADO DE MORELOS.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 25 de julio de 2007
 
@@ -549,6 +549,10 @@ Las Comisiones tendrán las siguientes atribuciones:
 
 I. Conocer, estudiar y dictaminar en un plazo no mayor a sesenta días naturales, los asuntos que le sean turnados por el Presidente de la Mesa Directiva del Congreso o por la Diputación Permanente en su caso y someterlos a consideración del Pleno;
 
+> <small>(ADICIONADO, P.O. 3 DE ABRIL DE 2013)</small>
+
+En iniciativas preferentes, a más tardar dentro de los cuarenta días naturales la iniciativa deberá ser discutida y votada por el Pleno, por lo que la comisión o comisiones competentes deberán llevar a cabo el respectivo proceso de dictaminación dentro de dicho plazo, tomando las previsiones necesarias para remitir el dictamen a la Conferencia para la Dirección y Programación de los Trabajos Legislativos, en tiempo y forma, a efecto de que pueda ser listado en el orden del día de la sesión que corresponda o que al efecto se convoque, y cuidando en todo momento no rebasar el término establecido en el artículo 42 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
 II. Valorar las iniciativas que la legislatura anterior haya dejado pendientes por dictaminar, en un término no mayor a sesenta días hábiles;
 
 III. Realizar foros, consultas y otras actividades en relación con sus funciones, previa autorización de la Conferencia;
@@ -612,6 +616,10 @@ La Comisión, podrá solicitar por escrito la ampliación o la prórroga del té
 ###### ARTÍCULO 62.
 
 Si mediare excitativa del Presidente, formulada por sí o a solicitud de dos o más diputados, para la presentación de un dictamen, el presidente de la comisión o su secretario explicarán al Pleno del Congreso, las razones de la demora.
+
+> <small>(ADICIONADO, P.O. 3 DE ABRIL DE 2013)</small>
+
+El Presidente del Congreso cinco días antes de que venza el plazo de cuarenta días naturales que señala el artículo 42 de la Constitución Política del Estado Libre y Soberano de Morelos, realizará por escrito una prevención a la comisión o comisiones respectivas.
 
 ###### ARTÍCULO 63.
 
@@ -889,6 +897,10 @@ Las iniciativas de leyes y decretos, serán presentadas por escrito y en medio m
 
 Las propuestas para modificar la Constitución Política de los Estados Unidos Mexicanos o leyes federales, deberán cumplir, en lo conducente lo previsto en el presente capítulo y con respecto a su procedencia, estarán sujetas a lo estipulado en el artículo 104 del presente reglamento.
 
+> <small>(ADICIONADO, P.O. 3 DE ABRIL DE 2013)</small>
+
+Al inicio de cada período ordinario de sesiones el Poder Ejecutivo estatal, podrá presentar como preferente hasta dos iniciativas o solicitar con ese carácter dos que hubiera presentado en periodos anteriores y que no cuenten con dictamen.
+
 ###### ARTÍCULO 96.
 
 Toda iniciativa que presenten los diputados deberá contener preferentemente y en lo conducente lo siguiente:
@@ -1004,6 +1016,10 @@ La iniciativa deberá dictaminarse en el periodo ordinario de sesiones en que se
 > <small>(ADICIONADO, P.O. 7 DE MAYO DE 2008)</small>
 
 Toda iniciativa, decreto o acuerdo parlamentario que no sea dictaminado durante la Legislatura en la cual fue presentado, al término de la misma será remitida por el Presidente de la Comisión respectiva al archivo legislativo.
+
+> <small>(ADICIONADO, P.O. 3 DE ABRIL DE 2013)</small>
+
+En el caso que las iniciativas preferentes no sean dictaminadas oportunamente, dos días antes de que esté por vencer el plazo constitucional, el Presidente del Congreso de inmediato ordenará la publicación de la Iniciativa en la Gaceta Legislativa en los términos en que fue presentada por el Poder Ejecutivo estatal, para que los Diputados puedan conocer sus términos, así como se asegurará que sea incluida en primer lugar de los asuntos del orden del día de la sesión del Pleno correspondiente o de la que al efecto se convoque, para su inmediata discusión y votación dentro del término a que alude el artículo 42 de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 ### CAPÍTULO QUINTO. DE LOS DICTÁMENES
 
@@ -2040,3 +2056,9 @@ P.O. 16 DE ENERO DE 2013.
 PRIMERO.- La presente reforma entrará en vigor al momento de su aprobación.
 
 SEGUNDO.- Remítase al Ejecutivo del Estado para los efectos de su divulgación en el Periódico Oficial "Tierra y Libertad" Órgano de Difusión del Estado de Morelos.
+
+P.O. 3 DE ABRIL DE 2013.
+
+###### ARTÍCULO ÚNICO
+
+La vigencia de este Decreto iniciará al momento de su aprobación, y remítase al Ejecutivo del Estado para su publicación en el Periódico Oficial "Tierra y Libertad".
