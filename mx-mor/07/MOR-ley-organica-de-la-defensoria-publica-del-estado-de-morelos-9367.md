@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-de-la-defensoria-publica-del-estado-de-morelos-936
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-01-22"
-last_updated: "1992-01-22"
+last_updated: "2013-04-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # LEY ORGANICA DE LA DEFENSORIA PUBLICA DEL ESTADO DE MORELOS
 
-LEY ORGANICA DE LA DEFENSORIA PUBLICA DEL ESTADO DE MORELOS
+LEY ORGÁNICA DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LA TERCERA DISPOSICIÓN TRANSITORIA DE LA LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE MORELOS, PUBLICADA EN EL P.O. DE 3 DE ABRIL DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 22 de enero de 1992.
 
@@ -442,3 +444,21 @@ EL SECRETARIO GENERAL DE GOBIERNO
 ALFREDO DE LA TORRE Y MARTINEZ
 
 Rúbricas
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 3 DE ABRIL DE 2013.
+
+PRIMERA. La presente Ley iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA. Remítase la presente Ley al Gobernador Constitucional del Estado, para los efectos a que se refieren los artículos 44 y 70 fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+TERCERA. Se abroga la Ley Orgánica de la Defensoría Pública del Estado de Morelos, publicada en el Periódico Oficial "Tierra y Libertad" número 3571, de fecha 22 de enero de 1992 y se derogan las demás disposiciones normativas de igual o mejor rango que se opongan a la presente Ley.
+
+CUARTA. Se autoriza al Gobernador Constitucional del Estado para que, por conducto de los titulares de las Secretarías de Gobierno, de Hacienda, de Administración y de la Contraloría, realicen todos los trámites necesarios para que los recursos humanos, materiales y financieros destinados a la Dirección General de la Defensoría Pública, sean transferidos al Instituto de la Defensoría Pública del Estado de Morelos.
+
+QUINTA.- En un plazo no mayor a treinta días hábiles, contados a partir de la entrada en vigor de la presente Ley, deberá instalarse la Junta de Gobierno del Organismo Público Descentralizado que por virtud de esta Ley se crea, la que contará con un plazo de treinta días hábiles, a partir de la fecha de su instalación, para aprobar el Estatuto Orgánico del Instituto de la Defensoría Pública del Estado de Morelos.
+
+SEXTA. El Gobernador Constitucional del Estado deberá emitir el Reglamento de la presente Ley en un plazo no mayor de noventa días hábiles, contados a partir de la entrada en vigor de la presente Ley; en tanto, continuará vigente el Reglamento de la Defensoría Pública del Estado de Morelos, publicado en el Periódico Oficial "Tierra y Libertad" número 4905, de fecha 20 de Julio de 2011.
+
+SÉPTIMA. Una vez publicado el Estatuto Orgánico del Instituto de la Defensoría Pública del Estado de Morelos, se procederá a su inscripción en el Registro Público de los Organismos Descentralizados del Estado de Morelos.
