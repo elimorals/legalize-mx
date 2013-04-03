@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-participacion-ciudadana-del-distrito-federal-39363"
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-17"
-last_updated: "2011-11-11"
+last_updated: "2013-04-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39363&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2004-05-14"
 ---
 # LEY DE PARTICIPACION CIUDADANA DEL DISTRITO FEDERAL
 
-LEY DE PARTICIPACION CIUDADANA DEL DISTRITO FEDERAL
+LEY DE PARTICIPACIÓN CIUDADANA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 11 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 3 DE ABRIL DE 2013.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 17 de mayo de 2004.
 
@@ -236,7 +236,13 @@ IV. Presentar quejas y denuncias por la incorrecta prestación de servicios púb
 
 V. Emitir opinión y formular propuestas para la solución de los problemas de interés público o general y para el mejoramiento de las normas que regulan las relaciones en la comunidad, mediante los instrumentos de participación ciudadana previstos en esta Ley, y
 
-VI. Ser informados sobre la realización de obras y servicios de la Administración Pública del Distrito Federal mediante la Difusión Pública y el Derecho a la Información.
+> <small>(REFORMADA, G.O. 3 DE ABRIL DE 2013)</small>
+
+VI. Ser informados y tener acceso a toda la información relacionada con la realización de obras y servicios de la Administración Pública del Distrito Federal, las cuales serán publicadas en los sitios de internet de cada delegación, y proporcionados a través de los mecanismos de información pública establecidos en la Ley de Transparencia y Acceso a la Información Publica del Distrito Federal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 3 DE ABRIL DE 2013)</small>
+
+Los preceptos contenidos en el presente artículo serán aplicables en el ejercicio del presupuesto participativo.
 
 > <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
 
@@ -769,6 +775,10 @@ La autoridad tendrá un plazo no mayor de 15 días naturales para aceptar, recha
 ###### Artículo 54.
 
 Los habitantes de la Ciudad tienen el derecho de recibir de las autoridades señaladas en las fracciones I a III del artículo 14 de esta Ley, los informes generales y específicos acerca de la gestión de éstas y, a partir de ellos, evaluar la actuación de sus servidores públicos. Asimismo, las autoridades locales del gobierno rendirán informes por lo menos una vez al año y al final de su gestión para efectos de evaluación sobre su desempeño por parte de los habitantes del Distrito Federal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 3 DE ABRIL DE 2013)</small>
+
+Cuando se trate de la aplicación de los recursos públicos establecidos en los artículos 83 y 84 de la presente ley, los órganos político administrativos deberán enviar a cada comité ciudadano y consejo de los pueblos a través de su coordinador, un informe pormenorizado sobre el ejercicio del presupuesto participativo, el cual deberá ser enviado en un plazo no mayor a treinta días naturales posterior a su ejecución.
 
 Los informes generales y específicos a que se refiere este artículo se harán del conocimiento de los Comités y Consejos Ciudadanos.
 
@@ -2852,7 +2862,9 @@ La distribución de recursos entre las colonias tendrá que ser proporcional seg
 
 II. Indicar en los programas operativos y anteproyectos anuales de presupuestos de egresos los rubros en que en cada colonia de la Delegación se aplicarán los recursos del presupuesto participativo.
 
-La determinación de los rubros en que se aplicará el presupuesto participativo en cada colonia, se sustentará en los resultados de las consultas ciudadanas que establece el inciso a) del párrafo primero del artículo 84 de esta Ley.
+> <small>(REFORMADO, G.O. 3 DE ABRIL DE 2013)</small>
+
+La determinación de los rubros en que se aplicará el presupuesto participativo en cada colonia, se sustentará en los resultados de las consultas ciudadanas que establece el inciso a) del párrafo primero del artículo 84 de esta Ley, así como permitir el acceso a toda la información relacionada con la realización de obras y servicios, las cuales serán publicadas en los sitios de internet de cada delegación, y proporcionados a través de los mecanismos de información pública establecidos en la Ley de Transparencia y Acceso a la Información Publica del Distrito Federal.
 
 III. Participar en coordinación con las demás autoridades y con los Comités Ciudadanos en las consultas ciudadanas que establece el artículo 84 de la presente Ley.
 
@@ -3690,7 +3702,7 @@ Recinto de la Asamblea Legislativa del Distrito Federal, a los treinta días del
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67 fracción II del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los catorce días del mes de mayo del dos mil cuatro.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, LIC. ANDRÉS MANUEL LÓPEZ OBRADOR.- FIRMA.- EL SECRETARIO DE GOBIERNO, ALEJANDRO ENCINAS RODRÍGUEZ.- FIRMA.- LA SECRETARIA DE DESARROLLO SOCIAL, RAQUEL SOSA ELIZAGA.- FIRMA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 G.O. 28 DE ENERO DE 2005.
 
@@ -4015,3 +4027,13 @@ Primero.- Remítase al Jefe de Gobierno para su publicación en la Gaceta Oficia
 Segundo.- La reforma entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 Tercero.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+G.O. 3 DE ABRIL DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase al Jefe de Gobierno del Distrito Federal para su respectiva promulgación y publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
