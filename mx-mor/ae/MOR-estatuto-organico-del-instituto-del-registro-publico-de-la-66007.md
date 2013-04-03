@@ -4,7 +4,7 @@ identifier: "MOR-estatuto-organico-del-instituto-del-registro-publico-de-la-6600
 country: "mx"
 rank: "estatuto"
 publication_date: "2009-01-07"
-last_updated: "2010-08-18"
+last_updated: "2013-04-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66007&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS
 
-ESTATUTO ORGANICO DEL INSTITUTO DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS
+ESTATUTO ORGÁNICO DEL INSTITUTO DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL COMERCIO DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE AGOSTO DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ESTATUTO ORGÁNICO DEL INSTITUTO DE SERVICIOS REGISTRALES Y CATASTRALES DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. 3 DE ABRIL DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: DEROGADO.
 
 Estatuto publicado en el Periódico Oficial del Estado de Morelos, el miércoles 7 de enero de 2009.
 
@@ -525,8 +527,16 @@ LIC. SERGIO ALVAREZ MATA
 
 RÚBRICAS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 18 DE AGOSTO DE 2010.
 
 ÚNICO.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 3 DE ABRIL DE 2013.
+
+PRIMERA. El presente Estatuto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado.
+
+SEGUNDA. Se deroga el Estatuto Orgánico del Instituto del Registro Público de la Propiedad y del Comercio del Estado de Morelos, publicado en el periódico oficial "Tierra y Libertad" número 4672, de fecha siete de enero del año dos mil nueve, así como las demás disposiciones administrativas que se opongan al presente.
+
+TERCERA. Se otorga un término de sesenta días naturales para la modificación de los Manuales de Organización, y de Políticas y Procedimientos respectivos.
