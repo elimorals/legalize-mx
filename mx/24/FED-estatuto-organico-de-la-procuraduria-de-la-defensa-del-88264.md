@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-procuraduria-de-la-defensa-del-88264"
 country: "mx"
 rank: "estatuto"
 publication_date: "2012-06-20"
-last_updated: "2012-06-20"
+last_updated: "2013-04-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88264&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2012-05-30"
 
 ESTATUTO ORGÁNICO DE LA PROCURADURÍA DE LA DEFENSA DEL CONTRIBUYENTE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGÁNICO DE LA PROCURADURÍA DE LA DEFENSA DEL CONTRIBUYENTE, PUBLICADO EN EL D.O.F. DE 3 DE ABRIL DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: ABROGADO.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 20 de junio de 2012.
 
@@ -1704,3 +1706,17 @@ Las ausencias y vacantes del Titular del Organo Interno de Control, así como la
 UNICO.- El presente Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 México, D.F., a 30 de mayo de 2012.- La Procuradora de la Defensa del Contribuyente, Diana Rosalía Bernal Ladrón de Guevara.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 3 DE ABRIL DE 2013.
+
+PRIMERO.- El presente Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Estatuto Orgánico de la Procuraduría de la Defensa del Contribuyente publicado en el Diario Oficial de la Federación el 20 de junio de 2012, en cumplimiento al acuerdo número SO1/OG/ST/04/2013-A, tomado en la primera sesión ordinaria, celebrada el día seis de marzo de dos mil trece, por el Organo de Gobierno de la Procuraduría de la Defensa del Contribuyente.
+
+TERCERO.- Se deja sin efecto cualquier acuerdo o disposición interna que se oponga a lo previsto en el presente Estatuto Orgánico.
+
+CUARTO.- El nombramiento del Titular de la Unidad de Auditoría Preventiva de la Procuraduría de la Defensa del Contribuyente se llevará a cabo en el plazo y con las condiciones que determine la Secretaría de Hacienda y Crédito Público o en su caso, la Secretaría de la Función Pública.
+
+QUINTO.- La estructura orgánica prevista en el presente Estatuto Orgánico deberá presentarse para su autorización y registro ante las Secretarías de la Función Pública y de Hacienda y Crédito Público.
