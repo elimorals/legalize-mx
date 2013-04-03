@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-oficina-de-la-presidencia-de-la-republica-9344
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-04-02"
-last_updated: "2013-04-02"
+last_updated: "2013-04-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93441&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2013-03-27"
 ---
 # REGLAMENTO DE LA OFICINA DE LA PRESIDENCIA DE LA REPUBLICA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE ABRIL DE 2013 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO DE LA OFICINA DE LA PRESIDENCIA DE LA REPÚBLICA
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 3 DE ABRIL DE 2013.</small>
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 2 de abril de 2013.
 
@@ -99,13 +99,13 @@ VIII. Dirigir y organizar las unidades de apoyo técnico a su cargo y establecer
 
 IX. Las demás inherentes a sus funciones y las que le encomiende el Presidente.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE ABRIL DE 2013 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 5.
 
 Para el despacho de los asuntos de la Jefatura de la Oficina de la Presidencia, ésta contará con las unidades de apoyo técnico siguientes:
 
-I. Secretaría Técnica de Gabinete;
+> <small>(F. DE E., D.O.F. 3 DE ABRIL DE 2013)</small>
+
+I. Secretaría Técnica del Gabinete;
 
 II. Coordinación de Opinión Pública;
 
@@ -123,11 +123,11 @@ Al frente de cada una de las unidades de apoyo técnico habrá un titular que se
 
 Las unidades de apoyo técnico se auxiliarán del personal que requieran para el eficaz despacho de sus asuntos, de conformidad con las disposiciones aplicables.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE ABRIL DE 2013 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., D.O.F. 3 DE ABRIL DE 2013)</small>
 
 ###### Artículo 6.
 
-Corresponde a la Secretaría Técnica de Gabinete:
+Corresponde a la Secretaría Técnica del Gabinete:
 
 I. Atender las acciones de apoyo técnico que le encomiende el Jefe de la Oficina de la Presidencia;
 
@@ -383,9 +383,9 @@ Al frente de la Secretaría Técnica del Consejo de Seguridad Nacional habrá un
 
 El Secretario Técnico del Consejo será nombrado y removido libremente por el Presidente, y contará con un equipo técnico especializado en los términos de las disposiciones aplicables.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE CAPÍTULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE ABRIL DE 2013 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., D.O.F. 3 DE ABRIL DE 2013)</small>
 
-### CAPÍTULO SEXTO (SIC). DISPOSICIONES COMPLEMENTARIAS
+### CAPÍTULO SÉPTIMO. DISPOSICIONES COMPLEMENTARIAS
 
 ###### Artículo 20.
 
