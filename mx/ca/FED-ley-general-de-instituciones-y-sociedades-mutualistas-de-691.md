@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-instituciones-y-sociedades-mutualistas-de-691"
 country: "mx"
 rank: "ley_general"
 publication_date: "1935-08-31"
-last_updated: "2008-06-20"
+last_updated: "2013-04-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=691&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1935-08-26"
 
 LEY GENERAL DE INSTITUCIONES Y SOCIEDADES MUTUALISTAS DE SEGUROS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE JUNIO DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA PRIMERA DE LA LEY DE INSTITUCIONES DE SEGUROS Y DE FIANZAS, PUBLICADA EN EL D.O.F. DE 4 DE ABRIL DE 2013, EL PRESENTE ORDENAMIENTO QUEDARÁ ABROGADO A LOS SETECIENTOS TREINTA DÍAS NATURALES SIGUIENTES A SU PUBLICACIÓN.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE ABRIL DE 2013.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de agosto de 1935.
 
@@ -31,19 +33,19 @@ Al margen un sello que dice: Poder Ejecutivo Federal.- Estados Unidos Mexicanos.
 
 Que en el ejercicio de las facultades extraordinarias de que me hallo investido para legislar en materia de Seguros, por Decreto del H. Congreso de la Unión, de fecha 29 de diciembre de 1934, he tenido a bien expedir la siguiente
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 3 DE ENERO DE 1990)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 3 DE ENERO DE 1990)</small>
 
 LEY GENERAL DE INSTITUCIONES Y SOCIEDADES MUTUALISTAS DE SEGUROS
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO DEL DECRETO DE REFORMAS A LA PRESENTE LEY, PUBLICADO EN EL D.O.F. DE 3 DE ENERO DE 1990, CUANDO SE HAGA MENCION A LA COMISION NACIONAL BANCARIA Y DE SEGUROS SE DEBERA SUSTITUIR POR EL DE "COMISION NACIONAL DE SEGUROS Y FIANZAS"; MOTIVO POR EL CUAL, SE MODIFICAN DIVERSOS ARTICULOS DE ESTE ORDENAMIENTO NO SEÑALADOS EN EL ARTICULO PRIMERO DEL CITADO DECRETO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO DEL DECRETO DE REFORMAS A LA PRESENTE LEY, PUBLICADO EN EL D.O.F. DE 3 DE ENERO DE 1990, CUANDO SE HAGA MENCIÓN A LA COMISIÓN NACIONAL BANCARIA Y DE SEGUROS SE DEBERA SUSTITUIR POR EL DE "COMISIÓN NACIONAL DE SEGUROS Y FIANZAS"; MOTIVO POR EL CUAL, SE MODIFICAN DIVERSOS ARTÍCULOS DE ESTE ORDENAMIENTO NO SEÑALADOS EN EL ARTÍCULO PRIMERO DEL CITADO DECRETO.</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA] SU DENOMINACION, D.O.F. 7 DE ENERO DE 1981)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA] SU DENOMINACIÓN, D.O.F. 7 DE ENERO DE 1981)</small>
 
 ## TITULO PRELIMINAR. Disposiciones Generales
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 1°.
 
@@ -57,7 +59,7 @@ Las instituciones nacionales de seguros se regirán por sus leyes especiales y, 
 
 Esta Ley reconoce a los Fondos de Aseguramiento Agropecuario y Rural, los cuales se sujetarán en su operación al artículo 13 de esta Ley y serán regulados, para efectos de su organización, funcionamiento y actividades, por la Ley de Fondos de Aseguramiento Agropecuario y Rural.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 2°.
 
@@ -71,7 +73,7 @@ Competerá exclusivamente a la mencionada Secretaría de Hacienda y Crédito Pú
 
 En la aplicación de la presente Ley, la Secretaría de Hacienda y Crédito Público con la intervención, que en su caso, corresponda a la Comisión Nacional de Seguros y Fianzas, deberá procurar un desarrollo equilibrado del sistema asegurador, y una competencia sana entre las instituciones de seguros que lo integran.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 2°. Bis.
 
@@ -155,7 +157,7 @@ No se considerará operación activa de seguros la comercialización a futuro de
 
 La Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional de Seguros y Fianzas, podrá establecer criterios de aplicación general conforme a los cuales se precise si una operación, para efectos de este artículo, se considera operación activa de seguros, y deberá resolver las consultas que al efecto se le formulen;
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
 II.- Se prohíbe contratar con empresas extranjeras:
 
@@ -223,7 +225,7 @@ Para organizarse y funcionar como institución o sociedad mutualista de seguros 
 
 El Gobierno Federal por conducto de la Secretaría de Hacienda y Crédito Público, podrá otorgar autorización para que las instituciones de seguros realicen operaciones de reafianzamiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 7°.
 
@@ -375,7 +377,7 @@ II Bis.- Por reaseguro financiero, el contrato en virtud del cual una empresa de
 
 III.- Por contraseguro, el convenio en virtud del cual una empresa de seguros se obliga a reintegrar al contratante las primas o cuotas satisfechas o cubiertas, cuando se cumplan determinadas condiciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 11.
 
@@ -521,7 +523,7 @@ Se exceptúa de la aplicación del párrafo anterior, a los intermediarios, ajus
 
 Queda prohibido el uso de la palabra “nacional” en la denominación de las empresas de seguros que no tengan ese carácter.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 21.
 
@@ -577,7 +579,7 @@ Los agentes de seguros deberán reunir los requisitos que exija el Reglamento re
 
 Los agentes de las instituciones de seguros darán aviso a la Comisión Nacional de Seguros y Fianzas, por lo menos con diez días de anticipación, del establecimiento, cambio de ubicación y clausura de sus oficinas. De igual manera se dará el aviso a los asegurados.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 24.
 
@@ -599,7 +601,7 @@ Para el ejercicio de la actividad de ajustador de seguros se requerirá autoriza
 
 Las actividades que realicen los ajustadores de seguros se sujetarán a las disposiciones de esta Ley. Las Instituciones en ningún caso designarán como ajustador, a una persona que por su posición o cualquier circunstancia pueda actuar en contra de las prácticas profesionales generalmente aceptadas, afectando los resultados del ajuste.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 26.
 
@@ -613,7 +615,7 @@ Los intermediarios a que se refiere este artículo, ajustarán sus actividades a
 
 En ningún caso podrá autorizarse a quienes, por su posición o por cualquier circunstancia, puedan ejercer coacción para contratar reaseguros.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 27.
 
@@ -639,7 +641,7 @@ La inscripción en el Registro podrá ser cancelada discrecionalmente por la Sec
 
 Para que una institución de seguros celebre contrato de reaseguro con alguna reaseguradora del exterior, será necesario que esta última se encuentre inscrita en el Registro General a que se refiere el presente artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE JULIO DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE JULIO DE 1993)</small>
 
 ###### ARTICULO 28.
 
@@ -657,11 +659,11 @@ La Secretaría de Hacienda y Crédito Público podrá revocar discrecionalmente 
 
 ## TITULO PRIMERO. De las instituciones de seguros
 
-(REUBICADO Y REFORMADA SU DENOMINACION, D.O.F. 7 DE ENERO DE 1981)
+(REUBICADO Y REFORMADA SU DENOMINACIÓN, D.O.F. 7 DE ENERO DE 1981)
 
 ### CAPITULO I. De la organización
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE JULIO DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE JULIO DE 1993)</small>
 
 ###### ARTICULO 29.
 
@@ -711,7 +713,7 @@ No podrán participar en forma alguna en el capital de las instituciones de segu
 
 II.- Tratándose de las instituciones a que se refiere el inciso a) de la fracción I Bis, de este artículo:
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 18 DE JULIO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE JULIO DE 2006)</small>
 
 1.- No podrán participar en su capital social pagado, directamente o a través de interpósita persona, instituciones de crédito, sociedades mutualistas de seguros, casas de bolsa, organizaciones auxiliares del crédito, sociedades operadoras de sociedades de inversión, entidades de ahorro y crédito popular, administradoras de fondos para el retiro, ni casas de cambio.
 
@@ -1055,7 +1057,7 @@ El nombramiento de comisarios sólo podrá recaer en personas que cumplan con lo
 
 (DEROGADO, D.O.F. 7 DE ENERO DE 1981)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE JULIO DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE JULIO DE 1993)</small>
 
 ###### ARTICULO 33.
 
@@ -1073,7 +1075,7 @@ Las reservas técnicas quedarán afectas a cada departamento, y en operaciones d
 
 Lo dispuesto en este artículo no será aplicable a las instituciones de seguros autorizadas para practicar exclusivamente el reaseguro.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
 ### CAPITULO I BIS. De las Filiales de Instituciones Financieras del Exterior
 
@@ -1175,7 +1177,7 @@ d) La demás documentación conexa que requiera la Secretaría de Hacienda y Cr�
 
 III.- (DEROGADA, D.O.F. 16 DE ENERO DE 2002)
 
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 16 DE ENERO DE 2002)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 16 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 33-J.
 
@@ -1203,7 +1205,7 @@ III.- El presidente del consejo deberá elegirse de entre los consejeros propiet
 
 El órgano de vigilancia de las Filiales estará integrado por lo menos por un comisario designado por los accionistas de la Serie “E” y, en su caso, un comisario nombrado por los accionistas de la Serie “M”, y sus respectivos suplentes.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 33-N.
 
@@ -1251,7 +1253,7 @@ III.- Administrar las sumas que por concepto de dividendos o indemnizaciones les
 
 III Bis.- Administrar las reservas correspondientes a contratos de seguros que tengan como base planes de pensiones relacionados con la edad, jubilación o retiro de personas a que se refiere el segundo párrafo de la fracción I del artículo 8o. de esta Ley;
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE JUNIO DE 2003)</small>
 
 IV.- Actuar como institución fiduciaria en negocios directamente vinculados con las actividades que les son propias. Al efecto, se considera que están vinculados a las actividades propias de las instituciones de seguros los fideicomisos de administración en que se afecten recursos relacionados con el pago de primas por los contratos de seguros que se celebren.
 
@@ -1441,7 +1443,7 @@ Las cantidades que inviertan las instituciones de seguros en la construcción o 
 
 XVI.- Las operaciones que realicen las instituciones de seguros para la inversión de sus recursos se sujetará, en su caso, a los límites máximos que señale la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general, respecto al plazo de tales operaciones y a las tasas de interés y demás cargos que puedan aplicar para los financiamientos que otorguen;
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE JUNIO DE 2003)</small>
 
 XVI Bis.- Las operaciones de fideicomiso a que se refiere la fracción IV del artículo 34 de esta Ley se sujetarán a lo dispuesto en esta Ley y a las siguientes bases:
 
@@ -1507,7 +1509,7 @@ h).- Cuando se trate de operaciones de fideicomiso que constituya el Gobierno Fe
 
 En lo no previsto por lo anterior, a las instituciones de seguros fiduciarias les será aplicable lo establecido en la Ley General de Títulos y Operaciones de Crédito, y
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 13 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE JUNIO DE 2003)</small>
 
 XVII.- Las operaciones a que se refieren las fracciones II a III Bis y V a XIV del artículo 34 de esta Ley, se sujetarán a las reglas de carácter general que dicte la Secretaría de Hacienda y Crédito Público.
 
@@ -1537,7 +1539,7 @@ III.- Prever que las estipulaciones contenidas en la documentación contractual 
 
 IV.- Indicar de manera clara y precisa, en la documentación contractual de las operaciones de seguros y la relacionada con éstas, el alcance, términos, condiciones, exclusiones, limitantes, franquicias o deducibles y cualquier otra modalidad que se establezca en las coberturas o planes que ofrezca la institución de seguros así como los derechos y obligaciones de los contratantes, asegurados o beneficiarios. De igual manera, se deberá procurar claridad y precisión en la comunicación individual o colectiva que por cualquier medio realicen las instituciones de seguros con sus asegurados, contratantes y beneficiarios o con el público en general;
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE ENERO DE 2002)</small>
 
 V.- En el caso de las instituciones de seguros que operan el ramo de salud, deberán contar con un Contralor Médico nombrado por el Consejo de Administración y ratificado por la Secretaría de Salud de acuerdo a los criterios que emita dicha Secretaría en donde se tomarán en cuenta, entre otros requisitos, la experiencia y conocimientos médicos, no tener parentesco por consanguinidad hasta el segundo grado, o afinidad, con el Director General de la institución, y no encontrarse en ninguno de los supuestos a que se refieren los incisos b), c), d), e), f), g) y h) del numeral 3 de la fracción VII Bis, del artículo 29 de esta Ley.
 
@@ -1667,7 +1669,7 @@ El uso de los medios de identificación que se establezcan conforme a lo previst
 
 La instalación y el uso de los equipos y medios señalados en el primer párrafo de este artículo se sujetarán a las disposiciones de carácter general que en su caso, emita la Comisión Nacional de Seguros y Fianzas.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ENERO DE 1997)</small>
 
 ###### ARTICULO 37.
 
@@ -1731,7 +1733,7 @@ Con el objeto de efectuar la comparación de las primas de tarifa de estos produ
 
 Las instituciones de seguros deberán diversificar los conductos de colocación de seguros, a fin de evitar situaciones de dependencia o coacción de un agente, intermediario, contratante, asegurado o beneficiario.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 14 DE JULIO DE 1993)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 14 DE JULIO DE 1993)</small>
 
 > <small>(REFORMADO, D.O.F. 14 DE JULIO DE 1993)</small>
 
@@ -1895,7 +1897,7 @@ Si durante dos años consecutivos, el interés medio neto percibido de las inver
 
 Las reservas para obligaciones pendientes de cumplir serán:
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE ENERO DE 1985)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE ENERO DE 1985)</small>
 
 I.- Por pólizas vencidas, por siniestros ocurridos, y por repartos periódicos de utilidades, el importe total de las sumas que deba desembolsar la institución, al verificarse la eventualidad prevista en el contrato, debiendo estimarse conforme a las bases siguientes:
 
@@ -2059,7 +2061,7 @@ En las operaciones de reaseguro, practicadas con instituciones del país o del e
 
 La retención a que se refiere el párrafo anterior será considerada como depósito a cargo de las instituciones cedentes y la inversión correspondiente se tendrá hecha por cuenta de los reaseguradores a quienes se les deberá reintegrar dicho depósito y los rendimientos respectivos de acuerdo a lo que se convenga.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE JULIO DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE JULIO DE 1993)</small>
 
 ###### ARTICULO 55.
 
@@ -2077,7 +2079,7 @@ II.- Las reservas para obligaciones pendientes de cumplir a que se refieren las 
 
 III.- La inversión de las reservas y de los incrementos periódicos, deberá ajustarse a las proporciones y demás requisitos que exige esta Ley, y efectuarse en el término que al efecto señale la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ENERO DE 1997)</small>
 
 ###### ARTICULO 56.
 
@@ -2127,7 +2129,7 @@ La propia Comisión podrá disminuir la sanción a que se refiere este artículo
 
 La Secretaría de Hacienda y Crédito Público, cuando así se justifique, otorgará plazos adecuados que en ningún caso serán mayores a 90 días para que las instituciones ajusten sus inversiones a las disposiciones que dicte. Con independencia de las sanciones a que se refiere este artículo, cuando las instituciones presenten faltantes en la cobertura de sus reservas técnicas se procederá de acuerdo a lo dispuesto en el artículo 74 de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ENERO DE 1997)</small>
 
 ###### ARTICULO 58.
 
@@ -2183,7 +2185,7 @@ III.- El apropiado nivel de recursos patrimoniales, en relación a los riesgos f
 
 IV.- La determinación de los supuestos y de los recursos de capital que las instituciones deberán mantener con el propósito de hacer frente a situaciones de carácter excepcional que pongan en riesgo su solvencia o estabilidad, derivadas tanto de la operación particular de las instituciones como de condiciones de mercado.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 61.
 
@@ -2283,7 +2285,7 @@ Cuando una institución reciba en pago de adeudos o por adjudicación en remate 
 
 Expirados los plazos o, en su caso, las renovaciones que de ellos se concedan, la Comisión Nacional de Seguros y Fianzas sacará administrativamente a remate los bienes, derechos, títulos o valores que no hubieren sido vendidos;
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE JULIO DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE JULIO DE 1993)</small>
 
 XII.- Celebrar operaciones en virtud de las cuales resulten o puedan resultar deudores de la institución, los directores generales o sus equivalentes y las personas que ocupen cargos con las dos jerarquías inferiores a las de aquéllos, salvo que correspondan a prestaciones de carácter laboral otorgadas de manera general; los comisarios propietarios o suplentes, estén o no en funciones; los auditores externos de la institución; o los ascendientes o descendientes en primer grado o cónyuges de las personas anteriores.
 
@@ -2405,7 +2407,7 @@ En caso de que las instituciones de seguros participen en el capital de las soci
 
 Las actividades que lleven a cabo las sociedades previstas en este artículo relacionadas con los seguros del artículo 8o., fracción II de esta Ley estarán sujetas a la inspección y vigilancia de la Comisión Nacional de Seguros y Fianzas.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 70.
 
@@ -2593,7 +2595,7 @@ El contralor normativo deberá dar seguimiento a la instrumentación del program
 
 Si como resultado de los informes del contralor normativo o de las labores de inspección y vigilancia de la Comisión Nacional de Seguros y Fianzas, ésta determina que no se subsanaron las irregularidades o incumplimientos objeto del programa de autocorrección en el plazo previsto, la Comisión, con independencia de que aplique las sanciones que correspondan, solicitará a la institución un plan de regularización en los términos establecidos en el artículo 74 Bis de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 16 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 75.
 
@@ -2705,11 +2707,11 @@ Las instituciones de seguros autorizadas para practicar exclusivamente el reaseg
 
 (DEROGADO, D.O.F. 7 DE ENERO DE 1981)
 
-(REUBICADO Y REFORMADA SU DENOMINACION, D.O.F. 7 DE ENERO DE 1981)
+(REUBICADO Y REFORMADA SU DENOMINACIÓN, D.O.F. 7 DE ENERO DE 1981)
 
 ## TITULO SEGUNDO. De las sociedades mutualistas de seguros
 
-(REUBICADO Y REFORMADA SU DENOMINACION, D.O.F. 7 DE ENERO DE 1981)
+(REUBICADO Y REFORMADA SU DENOMINACIÓN, D.O.F. 7 DE ENERO DE 1981)
 
 ### CAPITULO I. De la organización
 
@@ -2785,7 +2787,7 @@ XVII.- La liquidación administrativa de la sociedad deberá efectuarse de acuer
 
 Los gastos de establecimiento y primera organización de las sociedades mutualistas de seguros, estarán limitados al monto del fondo dedicado a este objeto por el contrato social; deberán aparecer en las cuentas en renglón distinto y serán amortizados, cuando más, en diez años, a contar de la fecha de la constitución definitiva de la sociedad, por fracciones anuales iguales. Los gastos de desarrollo ulterior se tratarán en la misma forma que los anteriores, a no ser que la asamblea imponga una contribución especial a los mutualizados.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 80.
 
@@ -2795,7 +2797,7 @@ Cuando una sociedad mutualista de seguros practique varias de las operaciones a 
 
 Las reservas técnicas quedarán afectas a cada departamento, y en operaciones de daños a cada ramo, y no podrán servir para garantizar obligaciones contraídas por pólizas emitidas en otras operaciones y en su caso, en otros ramos.
 
-(REUBICADO Y REFORMADA SU DENOMINACION, D.O.F. 7 DE ENERO DE 1981)
+(REUBICADO Y REFORMADA SU DENOMINACIÓN, D.O.F. 7 DE ENERO DE 1981)
 
 ### CAPITULO II. Del funcionamiento
 
@@ -2889,7 +2891,7 @@ Las cantidades que inviertan las sociedades mutualistas de seguros en la constru
 
 XIII.- Las operaciones que realicen las sociedades mutualistas de seguros para la inversión de sus recursos se sujetarán, en su caso, a los límites máximos que señale la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general, respecto al plazo de tales operaciones y a las tasas de interés y demás cargos que las sociedades puedan aplicar por los financiamientos que otorguen; y
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 XIV.- Las operaciones a que se refieren las fracciones II a XI del artículo 81 de esta Ley, se sujetarán a las reglas de carácter general que dicte la Secretaría de Hacienda y Crédito Público.
 
@@ -3041,7 +3043,7 @@ Las sociedades mutualistas de seguros, sujetándose a los requisitos que para ta
 
 Para proporcionar servicio al público, las sociedades mutualistas de seguros sólo podrán establecer, además de sus oficinas principales, sucursales u oficinas de servicio. Estas últimas sujetarán sus operaciones y funcionamiento a las reglas de carácter general que para el efecto expida la Secretaría de Hacienda y Crédito Público.
 
-(REUBICADO Y REFORMADA SU DENOMINACION, D.O.F. 7 DE ENERO DE 1981)
+(REUBICADO Y REFORMADA SU DENOMINACIÓN, D.O.F. 7 DE ENERO DE 1981)
 
 ### CAPITULO III. Disposiciones generales
 
@@ -3101,11 +3103,11 @@ Es aplicable a las sociedades mutualistas de seguros, lo dispuesto por el Capít
 
 En caso de reclamaciones de los mutualizados contra la sociedad, con motivo del contrato de seguro, deberán observarse las disposiciones del Capítulo II del Título V de esta Ley.
 
-(REUBICADO Y REFORMADA SU DENOMINACION, D.O.F. 7 DE ENERO DE 1981)
+(REUBICADO Y REFORMADA SU DENOMINACIÓN, D.O.F. 7 DE ENERO DE 1981)
 
 ## TITULO TERCERO. De la contabilidad, inspección y vigilancia
 
-(REUBICADO Y REFORMADA SU DENOMINACION, D.O.F. 7 DE ENERO DE 1981)
+(REUBICADO Y REFORMADA SU DENOMINACIÓN, D.O.F. 7 DE ENERO DE 1981)
 
 ### CAPITULO I. De la contabilidad
 
@@ -3117,11 +3119,11 @@ La Comisión Nacional de Seguros y Fianzas fijará las bases para la estimación
 
 I.- Se estimarán por su valor nominal los créditos y documentos mercantiles pendientes de vencimiento o renovados en los términos de esta Ley;
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ENERO DE 1997)</small>
 
 II.- Los bonos, obligaciones y otros títulos de naturaleza análoga, se valuarán tomando en consideración, entre otros elementos, la tasa de rendimiento, el plazo de su vencimiento y su liquidez;
 
-> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 3 DE ENERO DE 1997)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 3 DE ENERO DE 1997)</small>
 
 III.- Las acciones se valuarán de acuerdo con los procedimientos que para tal efecto establezca la Comisión Nacional de Seguros y Fianzas;
 
@@ -3129,7 +3131,7 @@ IV.- Cuando los precios de mercado a fin de ejercicio sean excepcionalmente favo
 
 V.- Los bienes o mercancías que tengan un mercado regular se estimarán por su cotización;
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 VI.- Los inmuebles urbanos se estimarán por el promedio de avalúos que conforme a las siguientes bases practiquen peritos de instituciones de crédito o corredores públicos designados por las instituciones o sociedades mutualistas de seguros:
 
@@ -3229,11 +3231,11 @@ Las instituciones de seguros no podrán pagar los dividendos decretados por sus 
 
 Los repartos efectuados en contravención a lo dispuesto en el párrafo anterior, deberán ser restituidos a la sociedad. Serán solidariamente responsables a este respecto los accionistas o mutualizados que los hayan recibido y los administradores y funcionarios que los hayan pagado.
 
-(REUBICADO Y REFORMADA SU DENOMINACION, D.O.F. 7 DE ENERO DE 1981)
+(REUBICADO Y REFORMADA SU DENOMINACIÓN, D.O.F. 7 DE ENERO DE 1981)
 
 ### CAPITULO II. De la inspección y vigilancia
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE JULIO DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE JULIO DE 1993)</small>
 
 ###### ARTICULO 106.
 
@@ -3275,7 +3277,7 @@ El uso de los medios de identificación que se establezcan conforme a lo previst
 
 En el ejercicio de sus funciones de inspección y vigilancia, la Comisión Nacional de Seguros y Fianzas dará a conocer información relativa a la situación financiera de las instituciones, así como al cumplimiento de los requerimientos sobre sus reservas técnicas, capital mínimo de garantía y capital mínimo pagado, en la forma y términos que la propia Comisión señale mediante disposiciones de carácter general.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE JULIO DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE JULIO DE 1993)</small>
 
 ###### ARTICULO 108.
 
@@ -3381,7 +3383,7 @@ VI.- Demás servidores públicos necesarios.
 
 Las Delegaciones Regionales de la Comisión podrán realizar dentro del área de su jurisdicción geográfica, las funciones que se determinen en su Reglamento Interior.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE MAYO DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE MAYO DE 1996)</small>
 
 ###### ARTICULO 108-B.
 
@@ -3427,7 +3429,7 @@ La asistencia y defensa legal se proporcionará con cargo a los recursos con los
 
 Para tales efectos, la Secretaría de Hacienda y Crédito Público oyendo la opinión de la Comisión, establecerá los mecanismos necesarios para cubrir los gastos que deriven de la asistencia y defensa legal previstos en este artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 109.
 
@@ -3521,7 +3523,7 @@ XX.- Representar con las más amplias facultades a la Comisión Nacional de Segu
 
 XXI.- Las demás que le sean atribuidas por esta Ley y otros ordenamientos legales.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ENERO DE 1997)</small>
 
 ###### ARTICULO 110.
 
@@ -3611,7 +3613,7 @@ Cuando la Comisión Nacional de Seguros y Fianzas acuerde levantar la intervenci
 
 (DEROGADO, D.O.F. 7 DE ENERO DE 1981)
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 16 DE ENERO DE 2002)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 16 DE ENERO DE 2002)</small>
 
 ## TITULO CUARTO. Del concurso mercantil y de la liquidación administrativa de las instituciones y sociedades mutualistas de seguros
 
@@ -3687,7 +3689,7 @@ Transcurrido el término de seis meses concedido a los acreedores para recibir e
 
 Si la liquidación no puede practicarse dentro del plazo primitivamente concedido, podrá extenderse por una mitad más el término original. Si dentro de la ampliación anterior, el liquidador no concluye las operaciones relativas, la Secretaría de Hacienda designará un nuevo liquidador y exigirá al primeramente nombrado las responsabilidades en que hubiere incurrido en el desempeño de su comisión. La Secretaría fijará al nuevo liquidador un término prudente para la terminación de las operaciones de liquidación.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE MAYO DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE MAYO DE 1996)</small>
 
 ###### ARTICULO 129.
 
@@ -3709,11 +3711,11 @@ Los liquidadores que se designen de acuerdo con los preceptos de este capítulo,
 
 Sus honorarios serán fijados en el momento de su designación por la Secretaría de Hacienda y Crédito Público con cargo a las instituciones afectadas. Las faltas temporales o definitivas de los liquidadores, serán cubiertas por designación inmediata hecha por la Secretaría de Hacienda y Crédito Público. Su designación puede ser revocada. Los liquidadores sustituidos permanecerán en el desempeño de su encargo hasta que hagan entrega a la persona designada para sustituirlos. Deberán, salvo el caso de instituciones fiduciarias, constituir fianza igual al 10% del activo que aparezca en el balance del último ejercicio. Esta fianza no se cancelará sino hasta que hayan sido aprobadas las cuentas del liquidador en su caso.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 ## TITULO QUINTO. De las facultades de las autoridades, de los procedimientos y de las sanciones
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 ### CAPITULO I. De las facultades de las autoridades
 
@@ -3793,7 +3795,7 @@ Cuando por la pérdida de las actas de Registro Civil, el asegurado o los benefi
 
 Si en el momento de contratar un seguro de vida o con posterioridad, presenta el asegurado prueba fehaciente de su edad a la institución aseguradora, ésta le extenderá el comprobante respectivo y no podrá exigir nuevas pruebas, cuando haya de pagar el siniestro por muerte del asegurado.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 7 DE ENERO DE 1981)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 7 DE ENERO DE 1981)</small>
 
 ### CAPITULO III. De las infracciones y delitos
 
@@ -3835,7 +3837,7 @@ Las instituciones de seguros se abstendrán, sin causa de responsabilidad, de ef
 
 Las adquisiciones que contravengan lo previsto en los artículos 29, fracciones I Bis, último párrafo, y II, 33 G y 33 H de esta Ley estarán afectadas de nulidad relativa, en cuyo caso las personas que hubieren adquirido las acciones no podrán ejercer los derechos sociales y económicos derivados de las acciones de que se trate.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 14 DE JULIO DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE JULIO DE 1993)</small>
 
 ###### ARTICULO 139.
 
@@ -3989,7 +3991,7 @@ c).- Realice actividades tendientes al ofrecimiento de seguros de pensiones, en 
 
 d).- Al momento de ofrecer la contratación de seguros de pensiones, utilice cualquier medio de presión o simulaciones en contra de quienes puedan llegar a ser los asegurados o beneficiarios;
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ABRIL DE 2006)</small>
 
 II.- Multa de mil a ocho mil días de salario, a la institución que:
 
@@ -4017,7 +4019,7 @@ Los agentes de seguros que cometan alguna de las infracciones previstas en la fr
 
 En caso de que un agente de seguros acumule cinco infracciones por los conceptos señalados en la fracción II de este artículo, durante un lapso de doscientos días naturales, se le revocará la autorización para operar como agente de seguros, en los términos del reglamento respectivo
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 140.
 
@@ -4115,7 +4117,7 @@ Es excluyente de responsabilidad penal por desobediencia a la prohibición conte
 
 La empresa o negociación que haya efectuado la operación u operaciones activas de seguros que prohíbe la fracción I del referido artículo 3o., será intervenida administrativamente por la Comisión Nacional de Seguros y Fianzas, hasta que la operación u operaciones ilícitas se corrijan.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 142.
 
@@ -4129,7 +4131,7 @@ I.- Al agente o al médico que dolosamente o con ánimo de lucrar, oculte a la e
 
 II.- Al médico que suscriba un examen destinado a servir de base para la contratación de un seguro, con una persona o entidad no facultada para funcionar en los términos de esta Ley como institución o sociedad mutualista de seguros, cuando lo haga a solicitud o por encargo de dicha persona o entidad.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 143.
 
@@ -4165,7 +4167,7 @@ Las penas previstas en este artículo se aplicarán también, en su caso, a quie
 
 Los consejeros, funcionarios o empleados de las instituciones de seguros y sociedades mutualistas o quienes intervengan directamente en el otorgamiento del crédito que, con independencia de los cargos e intereses fijados por la institución o sociedad mutualista respectiva, por sí o por interpósita persona hayan obtenido de los sujetos de crédito, beneficios personales por su participación en el trámite u otorgamiento del crédito, serán sancionados con prisión de tres meses a tres años cuando el beneficio no sea valuable, o no exceda de quinientos días de salario en el momento de cometerse el delito y de dos a seis años de prisión cuando dicho beneficio exceda de quinientos días de salario en el momento de cometerse el delito.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 145.
 
@@ -4207,7 +4209,7 @@ IV.- Los acreditados que desvíen un crédito concedido por alguna institución 
 
 V.- Los consejeros, funcionarios o empleados de la institución o sociedad mutualista de seguros o quienes intervengan directamente en el otorgamiento del préstamo que conociendo los vicios que señala la fracción III de este artículo concedan el préstamo, si el monto de la alteración hubiere sido determinante para concederlo.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 146.
 
@@ -4273,7 +4275,7 @@ La acción penal en los delitos previstos en esta ley perseguibles por petición
 
 A los consejeros, comisarios, directores, funcionarios o empleados de un intermediario de reaseguro, se les impondrá:
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
 
 I.- Pena de prisión de dos a diez años y multa de cinco mil a cincuenta mil días de salario cuando:
 
@@ -4285,7 +4287,7 @@ c).- Dispongan de cualquier cantidad de dinero que hayan recibido por cuenta de 
 
 d).- Con el fin de falsear los reportes o información sobre la situación del intermediario de reaseguro, dolosamente autoricen, registren u ordenen registrar datos falsos en la contabilidad o reiteradamente produzcan datos falsos en los documentos o informes que deban proporcionar a la Secretaría de Hacienda y Crédito Público, a las instituciones que ésta determine conforme al artículo 59 de esta Ley o a la Comisión Nacional de Seguros y Fianzas; y
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
 
 II.- Pena de prisión de tres a quince años cuando:
 
@@ -4373,29 +4375,29 @@ México, D. F., a 30 de agosto de 1935.- El Secretario de Gobernación, Silvano 
 
 Al C. ....
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 31 DE AGOSTO DE 1936.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.
 
 D.O.F. 3 DE JULIO DE 1937.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
 
 D.O.F. 30 DE JUNIO DE 1938.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
 
 D.O.F. 14 DE FEBRERO DE 1940.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
 
 D.O.F. 20 DE ABRIL DE 1943.
 
 DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 ...
 
@@ -4569,7 +4571,7 @@ El presente Decreto entrará en vigor el día siguiente de su publicación en el
 
 D.O.F. 19 DE NOVIEMBRE DE 1974.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 ###### ARTICULO PRIMERO.
 
@@ -4595,7 +4597,7 @@ El presente Decreto entrará en vigor noventa días después de su publicación 
 
 D.O.F. 2 DE ENERO DE 1975.
 
-SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON LA LEY.
+SE TRANSCRIBE ÚNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON LA LEY.
 
 ###### ARTICULO PRIMERO.
 
@@ -4605,7 +4607,7 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 D.O.F. 29 DE DICIEMBRE DE 1978.
 
-SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON LA LEY.
+SE TRANSCRIBE ÚNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON LA LEY.
 
 ...
 
@@ -4679,7 +4681,7 @@ Cualquier referencia que las leyes, disposiciones reglamentarias o administrativ
 
 D.O.F. 31 DE DICIEMBRE DE 1981.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO QUE SE RELACIONAN CON LA LEY.
 
 ###### ARTICULO PRIMERO.
 
@@ -4765,7 +4767,7 @@ La Secretaría de Hacienda y Crédito Público dispondrá del término de un añ
 
 D.O.F. 18 DE JULIO DE 1990.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 ###### ARTICULO PRIMERO.
 
@@ -4791,7 +4793,7 @@ QUINTO.- A las personas que hayan cometido infracciones o delitos, incluidas las
 
 D.O.F. 23 DE DICIEMBRE DE 1993.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 PRIMERO.- El presente Decreto entrará en vigor el primero de enero de 1994.
 
@@ -4811,7 +4813,7 @@ A las inversiones señaladas en los dos párrafos anteriores no les serán aplic
 
 D.O.F. 17 DE NOVIEMBRE DE 1995.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 ###### ARTICULO PRIMERO.
 
@@ -4831,7 +4833,7 @@ Las sociedades financieras de objeto limitado, organizaciones auxiliares del cr�
 
 D.O.F. 23 DE MAYO DE 1996.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 ###### ARTICULO PRIMERO.
 
@@ -4875,7 +4877,7 @@ SEGUNDO.- Las disposiciones de carácter general que la Secretaría de Hacienda 
 
 D.O.F. 18 DE ENERO DE 1999.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 PRIMERO.- La presente Ley entrará en vigor noventa días después de su publicación en el Diario Oficial de la Federación.
 
@@ -4889,7 +4891,7 @@ DECIMO.- Se derogan todas las disposiciones que se opongan a la presente Ley.
 
 D.O.F. 17 DE MAYO DE 1999.
 
-SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBE ÚNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
@@ -4935,7 +4937,7 @@ OCTAVO.- Las reglas, reglamentos y demás disposiciones administrativas emanadas
 
 D.O.F. 5 DE ENERO DE 2000.
 
-SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON LA LEY.
+SE TRANSCRIBE ÚNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON LA LEY.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
@@ -5027,7 +5029,7 @@ A partir de la entrada en vigor del presente Decreto y de conformidad con lo est
 
 D.O.F. 24 DE DICIEMBRE DE 2002.
 
-SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON LA LEY.
+SE TRANSCRIBE ÚNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON LA LEY.
 
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
@@ -5051,7 +5053,7 @@ D.O.F. 23 DE FEBRERO DE 2005.
 
 D.O.F. 13 DE MAYO DE 2005.
 
-SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON LA LEY.
+SE TRANSCRIBE ÚNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON LA LEY.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -5073,7 +5075,7 @@ QUINTO.- Las instituciones de seguros deberán adecuar sus productos de seguro, 
 
 D.O.F. 18 DE JULIO DE 2006.
 
-SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON LA LEY.
+SE TRANSCRIBE ÚNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON LA LEY.
 
 ...
 
@@ -5083,7 +5085,7 @@ NOVENO.- Los artículos Cuarto y Quinto de este Decreto entrarán en vigor el d�
 
 D.O.F. 28 DE JUNIO DE 2007.
 
-SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON LA LEY.
+SE TRANSCRIBE ÚNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON LA LEY.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
@@ -5102,3 +5104,67 @@ La Comisión Nacional de Seguros y Fianzas deberá dictar las disposiciones a la
 ###### ARTÍCULO TERCERO.
 
 Las instituciones de seguros deberán efectuar el registro y ofrecer al público los productos básicos estandarizados a que se refiere el presente Decreto dentro de los 180 días naturales siguientes a que entren en vigor las disposiciones a que se refiere el artículo anterior.
+
+D.O.F. 4 DE ABRIL DE 2013.
+
+Primera.- La presente Ley de Instituciones de Seguros y de Fianzas entrará en vigor a los setecientos treinta días naturales siguientes a la publicación del DECRETO POR EL QUE SE EXPIDE LA LEY DE INSTITUCIONES DE SEGUROS Y DE FIANZAS Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY SOBRE EL CONTRATO DE SEGURO en el Diario Oficial de la Federación, fecha en la que quedarán abrogadas la Ley General de Instituciones y Sociedades Mutualistas de Seguros y la Ley Federal de Instituciones de Fianzas.
+
+La Comisión Nacional de Seguros y Fianzas, con acuerdo de su Junta de Gobierno, establecerá mediante disposiciones de carácter general los plazos y medidas que deberán adoptar las instituciones de seguros e instituciones de fianzas, para apegarse de manera gradual al régimen para la cobertura del requerimiento de capital de solvencia aplicable a partir de la fecha en que entre en vigor la Ley de Instituciones de Seguros y de Fianzas.
+
+Segunda.- Cuando las leyes y disposiciones administrativas hagan referencia a la Ley General de Instituciones y Sociedades Mutualistas de Seguros, Ley Federal de Instituciones de Fianzas o Ley General de Instituciones de Seguros, después de la fecha en que queden abrogadas, se entenderá que se hace a la Ley de Instituciones de Seguros y de Fianzas, en las materias que la misma regula.
+
+Tercera.- En tanto el Ejecutivo Federal, la Secretaría de Hacienda y Crédito Público, el Banco de México y la Comisión Nacional de Seguros y Fianzas dictan los reglamentos y las disposiciones de carácter general a que se refiere la Ley de Instituciones de Seguros y de Fianzas, seguirán aplicándose las expedidas con anterioridad a la vigencia de la misma, en las materias correspondientes, en lo que no se opongan a dicha Ley. Los miembros de la Junta de Gobierno y los servidores públicos de la Comisión Nacional de Seguros y Fianzas, continuarán en el desempeño de sus funciones y ejerciendo sus respectivas atribuciones, conforme a lo dispuesto en el Reglamento Interior de la Comisión Nacional de Seguros y Fianzas y el Reglamento de Inspección y Vigilancia de la Comisión Nacional de Seguros y Fianzas expedidos con anterioridad a la fecha en que entre en vigor la Ley de Instituciones de Seguros y de Fianzas.
+
+Al expedirse las disposiciones a que se refiere esta disposición, se señalarán expresamente aquéllas a las que sustituyan o que queden derogadas.
+
+Cuarta.- Hasta en tanto la Comisión Nacional de Seguros y Fianzas publique el importe del capital mínimo pagado con que deberán contar las instituciones de seguros e instituciones de fianzas, conforme a la Ley de Instituciones de Seguros y de Fianzas, éstas deberán cumplir con el capital mínimo pagado que resulte exigible conforme a lo establecido con anterioridad a su entrada en vigor.
+
+Quinta.- Las solicitudes de autorización o aprobación que reciba la Secretaría de Hacienda y Crédito Público antes de la entrada en vigor de la Ley de Instituciones de Seguros y de Fianzas, y que por virtud de la misma se asignan a la Comisión Nacional de Seguros y Fianzas, serán tramitadas y resueltas por dicha Secretaría, para lo cual podrá, aún después de la entrada en vigor de dicha Ley, continuar ejerciendo las facultades conferidas con fundamento en la Ley General de Instituciones y Sociedades Mutualistas de Seguros y la Ley Federal de Instituciones de Fianzas que se abrogan.
+
+Sexta.- La Secretaría de Hacienda y Crédito Público, la Comisión Nacional de Seguros y Fianzas y el Banco de México, podrán emitir las disposiciones a que se refiere la Ley de Instituciones de Seguros y de Fianzas, con anterioridad al inicio de su vigencia, pero en todo caso en las citadas disposiciones deberá establecerse que su observancia y aplicación será a partir de la entrada en vigor de esa Ley.
+
+La Secretaría de Hacienda y Crédito Público, la Comisión Nacional de Seguros y Fianzas y el Banco de México, según corresponda, publicarán en el Diario Oficial de la Federación las disposiciones a que se refiere este artículo.
+
+Séptima.- Las instituciones de seguros, instituciones de fianzas y sociedades mutualistas de seguros, podrán continuar operando sin necesidad de obtener nueva autorización, quedando en lo futuro sujetas a la Ley de Instituciones de Seguros y de Fianzas y demás disposiciones que emanen de ella, así como de los reglamentos respectivos, sin perjuicio de que los términos, condiciones y obligaciones contenidos en las autorizaciones correspondientes que no se opongan a lo establecido en dicha Ley, sigan siendo aplicables.
+
+Octava.- En términos de los artículos 332, 333 y 363 de la Ley de Instituciones de Seguros y de Fianzas, corresponderá a la Comisión Nacional de Seguros y Fianzas, en sustitución de la Secretaría de Hacienda y Crédito Público, ejercer la facultad de revocar aquellas autorizaciones para la organización y operación de instituciones de seguros, instituciones de fianzas y sociedades mutualistas de seguros, que hayan sido otorgadas por dicha Secretaría.
+
+Novena.- En términos del artículo 107 de la Ley de Instituciones de Seguros y de Fianzas, corresponderá a la Comisión Nacional de Seguros y Fianzas, en sustitución de la Secretaría de Hacienda y Crédito Público, ejercer la facultad de otorgar, negar o cancelar la inscripción en el Registro General de Reaseguradoras Extranjeras que haya dictado dicha Secretaría antes de la entrada en vigor de la Ley citada.
+
+Décima.- Las autorizaciones, registros y demás medidas y actos administrativos dictados con fundamento en las Leyes que se abrogan y las disposiciones reglamentarias y administrativas previstas en las mismas, que se regulen en la Ley de Instituciones de Seguros y de Fianzas, continuarán en vigor hasta que no sean revocadas o modificadas por la autoridad competente.
+
+Décima Primera.- Los asuntos y procedimientos a que se refieren los artículos 136 y 137 de la Ley General de Instituciones y Sociedades Mutualistas de Seguros, así como los artículos 93 a 95 y 96 a 103 Bis de la Ley Federal de Instituciones de Fianzas, que se encuentren en trámite a la fecha de entrada en vigor de la Ley de Instituciones de Seguros y de Fianzas, continuarán desahogándose hasta su total terminación conforme a las citadas disposiciones de las leyes que se abrogan.
+
+Los asuntos y procedimientos que se inicien a partir de la fecha de entrada en vigor de la Ley de Instituciones de Seguros y de Fianzas, relativos a contratos de seguro y pólizas de fianza celebrados con anterioridad, les serán aplicables las disposiciones de la Ley de Instituciones de Seguros y de Fianzas.
+
+Décima Segunda.- En tanto se expida el Reglamento a que hacen referencia los artículos 278 y 282 de la Ley de Instituciones de Seguros y de Fianzas, se aplicará, en lo conducente, lo establecido en el Reglamento del artículo 95 de la Ley Federal de Instituciones de Fianzas, para el cobro de fianzas otorgadas a favor de la Federación, del Distrito Federal, de los Estados y de los Municipios, distintas de las que garantizan obligaciones fiscales federales a cargo de terceros.
+
+Décima Tercera.- Los asuntos que de acuerdo a la Ley de Instituciones de Seguros y de Fianzas corresponde atender a la Comisión Nacional de Seguros y Fianzas, y que conforme a la Ley General de Instituciones y Sociedades Mutualistas de Seguros y la Ley Federal de Instituciones de Fianzas que se abrogan se estuvieren tramitando ante la Secretaría de Hacienda y Crédito Público, continuarán desahogándose ante la misma hasta su total terminación.
+
+Décima Cuarta.- Los procedimientos administrativos que se encuentren en trámite continuarán conforme al procedimiento vigente durante su iniciación, salvo que el interesado opte por la aplicación de las disposiciones aplicables a los procedimientos administrativos que se establecen en la Ley de Instituciones de Seguros y de Fianzas.
+
+Los procedimientos sancionadores, incluyendo lo relacionado con los recursos de revocación, que se hayan iniciado antes de la entrada en vigor de la Ley de Instituciones de Seguros y de Fianzas, se continuarán tramitando hasta su total terminación conforme a las leyes abrogadas.
+
+Décima Quinta.- Lo dispuesto en el último párrafo del artículo 88 de la Ley de Instituciones de Seguros y de Fianzas, no será aplicable a las designaciones futuras de director general o funcionarios o directivos que ocupen las dos jerarquías inmediatas inferiores a aquél, de instituciones de seguros e instituciones de fianzas que se ubiquen en los supuestos previstos en el Capítulo III del Título Tercero de la Ley de Instituciones de Seguros y de Fianzas, sólo respecto al director general o funcionarios o directivos que ocupen las dos jerarquías citadas, que al 31 de octubre de 2007 no cumplían con los requisitos establecidos en dicho último párrafo.
+
+Décima Sexta.- Las instituciones de seguros autorizadas a operar los seguros a que se refieren las fracciones I, III a X, XV y XVI del artículo 27 de la Ley de Instituciones de Seguros y de Fianzas, contarán con un plazo de ciento veinte días naturales a partir de la fecha de entrada en vigor de dicha Ley, para constituir los fondos especiales a través de fideicomisos a que se refiere el artículo 274 de dicha Ley.
+
+Décima Séptima.- Las instituciones de seguros autorizadas para operar los seguros de pensiones derivados de las leyes de seguridad social a que se refiere la fracción II del artículo 27 de la Ley de Instituciones de Seguros y de Fianzas, contarán con un plazo de noventa días naturales a partir de la fecha de su entrada en vigor, para modificar los contratos de fideicomiso correspondientes a los fondos especiales en los términos del artículo 275 de dicha Ley.
+
+Décima Octava.- Las instituciones de seguros y las instituciones de fianzas contarán con un plazo de ciento veinte días naturales a partir de la fecha de entrada en vigor de la Ley de Instituciones de Seguros y de Fianzas para modificar sus estatutos sociales, conforme a lo previsto en el artículo 54 de esa Ley, en relación con el segundo párrafo del artículo 191 de la Ley General de Sociedades Mercantiles. A través del presente artículo se otorga la autorización correspondiente para la modificación de sus estatutos sociales para llevar a cabo la modificación a que se refiere este precepto.
+
+Décima Novena.- Las instituciones de fianzas filiales contarán con un plazo de ciento veinte días naturales a partir de la fecha de entrada en vigor de la Ley de Instituciones de Seguros y de Fianzas para modificar sus estatutos sociales y los títulos representativos de su capital social, conforme a lo previsto en el artículo 79 de la misma Ley. A través del presente artículo se otorga la autorización correspondiente para la modificación de sus estatutos sociales para adecuar las Series de Acciones en los términos del artículo 79 citado.
+
+Vigésima.- Las instituciones de seguros que a la entrada en vigor de la Ley de Instituciones de Seguros y de Fianzas, tengan incluida en su denominación la palabra "nacional", podrán seguir haciendo uso de esa denominación hasta el término de su respectiva duración.
+
+Vigésima Primera.- Las instituciones de seguros y sociedades mutualistas de seguros que a la entrada en vigor de la Ley de Instituciones de Seguros y de Fianzas, cuenten con autorización para practicar las operaciones de vida y de daños, podrán continuar operando en los términos de su respectiva autorización, sin que la misma pueda modificarse para ampliar sus operaciones o ramos en tanto no se apeguen a lo previsto en el primer párrafo del artículo 26 de la Ley señalada.
+
+Vigésima Segunda.- A las instituciones de seguros que a la entrada en vigor de la Ley de Instituciones de Seguros y de Fianzas cuenten con autorización para practicar el ramo de seguro de crédito y otras operaciones o ramos, no les será aplicable la limitación prevista en el último párrafo del artículo 26 de dicha Ley. A las Instituciones de Seguros que se encuentren en aquel supuesto no se les podrá autorizar la operación de los ramos de seguro de caución, seguro de crédito a la vivienda o de seguro de garantía financiera y podrán continuar operando en los términos de su respectiva autorización, sin que la misma pueda modificarse para ampliar sus operaciones o ramos en tanto no se apeguen al citado artículo.
+
+Vigésima Tercera.- Los procesos de liquidación de instituciones de seguros, instituciones de fianzas y sociedades mutualistas de seguros que se estén llevando a cabo al momento de la entrada en vigor de la Ley de Instituciones de Seguros y de Fianzas, se regirán hasta su conclusión por las leyes que se abrogan.
+
+Vigésima Cuarta.- Lo dispuesto en los artículos 276 y 283 de la Ley de Instituciones de Seguros y de Fianzas, aplicará a los casos de mora iniciados a partir de su entrada en vigor. Las indemnizaciones por mora que se hayan iniciado con anterioridad a la entrada en vigor de la citada Ley, se regirán por lo dispuesto por los artículos 135 Bis de la Ley General de Instituciones y Sociedades Mutualistas de Seguros y 95 Bis de la Ley Federal de Instituciones de Fianzas que se abrogan.
+
+Vigésima Quinta.- Las pólizas de fianza y los contratos de afianzamiento que se hayan suscrito con anterioridad a la fecha de entrada en vigor de la Ley de Instituciones de Seguros y de Fianzas, no quedarán afectados en su existencia o validez y no será necesario que sean ratificados o convalidados por esa causa.
+
+Vigésima Sexta.- A las personas que hubieren cometido infracciones o delitos con anterioridad a la entrada en vigor de la Ley de Instituciones de Seguros y de Fianzas, les serán aplicables las disposiciones vigentes al momento en que se hubieren realizado dichas conductas, salvo que las disposiciones de este Decreto les resulten favorables, en cuyo caso se aplicarán éstas. Lo dispuesto en el artículo 482 de la Ley de Instituciones de Seguros y de Fianzas, sólo será aplicable a las infracciones que se cometan a partir de su entrada en vigor.
