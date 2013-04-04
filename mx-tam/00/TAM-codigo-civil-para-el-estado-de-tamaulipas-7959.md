@@ -4,7 +4,7 @@ identifier: "TAM-codigo-civil-para-el-estado-de-tamaulipas-7959"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-10"
-last_updated: "2012-11-21"
+last_updated: "2013-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2013.
 
 Código publicado en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 10 de enero de 1987.
 
@@ -371,7 +371,11 @@ II.- La constancia de que prestan su consentimiento para que el matrimonio se ce
 
 III.- La declaración de dos testigos mayores de edad que conozcan a los pretendientes y les conste que no tienen impedimento legal para casarse. Si no hubiere dos testigos que conozcan a ambos pretendientes, deberán presentarse dos testigos por cada uno de ellos;
 
-IV.- Un certificado suscrito por un médico titulado que asegure, bajo protesta de decir verdad, que los pretendientes no padecen enfermedad alguna crónica e incurable que sea además contagiosa y hereditaria.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ABRIL DE 2013)</small>
+
+IV.- Exámenes médicos en los que se certifique si los futuros cónyuges padecen alguna enfermedad crónica y/o contagiosa, a efecto de que éstos tengan pleno conocimiento de su estado de salud. Al mismo se acompañará el resultado de la evaluación pre-concepcional, la que se realizará en forma gratuita por parte de los centros de atención médica correspondientes a los servicios de salud pública del Estado.
 
 Para los indigentes, tienen obligación de expedir gratuitamente ese certificado los médicos encargados de los servicios de sanidad de carácter oficial;
 
@@ -385,9 +389,11 @@ VI.- Copia certificada del acta de defunción o de divorcio, si alguno de los pr
 
 VII.- Copia de la dispensa de impedimentos si los hubo; y
 
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VIII.- Constancia de haber recibido pláticas para evitar la violencia intrafamiliar, impartidas por el Instituto de la Mujer Tamaulipeca en conjunto con el Instituto Nacional de las Mujeres.
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2013)</small>
+
+VIII.- Constancia de haber recibido pláticas para evitar la violencia intrafamiliar, impartidas por el Instituto de la Mujer Tamaulipeca en conjunto con el Instituto Nacional de las Mujeres; y constancia expedida por personal médico de una institución oficial de salud, o médico particular, de que han sido debidamente informados de los riesgos concepcionales.
 
 ART. 86.- Todos los requisitos mencionados en el artículo que antecede, deberán estar satisfechos a más tardar cuatro días antes de la celebración del matrimonio.
 
@@ -10038,3 +10044,13 @@ P.O. 21 DE NOVIEMBRE DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE ABRIL DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor treinta días posteriores al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procedimientos para contraer matrimonio que se hayan iniciado hasta la entrada en vigor del presente Decreto, deberán concluir con la aplicación de la normatividad con la que se hubieren iniciado.
