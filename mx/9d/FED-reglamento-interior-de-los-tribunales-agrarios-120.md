@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-los-tribunales-agrarios-120"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-05-13"
-last_updated: "2012-03-14"
+last_updated: "2013-04-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=120&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1992-05-08"
 
 REGLAMENTO INTERIOR DE LOS TRIBUNALES AGRARIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE ABRIL DE 2013.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 13 de mayo de 1992.
 
@@ -667,11 +667,11 @@ El Tribunal Superior hará la división del país en distritos de justicia agrar
 
 Los funcionarios y empleados de los tribunales unitarios estarán impedidos para desempeñar otro cargo o empleo público o de particulares, que sea incompatible con el que tienen en dichos tribunales; y estarán impedidos para realizar funciones que sean distintas a las que les corresponden conforme a su cargo, salvo los casos de habilitación o suplencia.
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 5 DE ABRIL DE 2013)</small>
 
 ###### Artículo 47 Bis.
 
-Los magistrados de los Tribunales Unitarios Agrarios y los secretarios de acuerdos “A”, serán corresponsables con los jefes de las unidades administrativas de lograr la optimización y salvaguarda de los recursos humanos, financieros y materiales, asignados al Tribunal Unitario a su cargo, con estricto apego a la normatividad vigente.
+Los Magistrados de los Tribunales Unitarios Agrarios, los Secretarios de Acuerdos y los Jefes de las Unidades Administrativas, serán corresponsables de lograr la optimización y salvaguarda de los recursos humanos, financieros y materiales asignados al Tribunal Unitario Agrario a su cargo, con estricto apego a la normatividad vigente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE MARZO DE 2012)</small>
 
@@ -1182,5 +1182,15 @@ SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMI
 .
 
 SEGUNDO.- La presente modificación entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+TERCERO.- Publíquese en el Diario Oficial de la Federación.
+
+D.O.F. 5 DE ABRIL DE 2013.
+
+SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+
+.
+
+SEGUNDO.- La presente modificación entrará en vigor al día siguiente de su publicación.
 
 TERCERO.- Publíquese en el Diario Oficial de la Federación.
