@@ -4,7 +4,7 @@ identifier: "COA-codigo-procesal-civil-para-el-estado-de-coahuila-de-zaragoza-15
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-29"
-last_updated: "2012-06-26"
+last_updated: "2013-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO PROCESAL CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2013.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 29 de junio de 1999.
 
@@ -455,7 +455,11 @@ VIII. En los negocios para suplir el consentimiento de quien ejerza la patria po
 
 IX. Para decidir las diferencias conyugales; los juicios de nulidad de matrimonio y los casos de violencia familiar, el del domicilio conyugal.
 
-X. En los juicios de divorcio, el del domicilio conyugal. Cuando se demanda el divorcio por la separación del hogar conyugal originada por causa que sea bastante para pedir el divorcio, si se prolonga por más de un año sin que el cónyuge que se separó entable la demanda o si la separación se prolongó por más de tres años, independientemente del motivo que la haya originado, será competente el juzgado del domicilio del actor.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2013)</small>
+
+X. En los juicios de divorcio y respecto de todas las cuestiones reclamadas en éste, el del domicilio conyugal; si no lo hubiere, el del solicitante.
 
 XI. En los juicios de alimentos, el del domicilio del acreedor alimentario.
 
@@ -3523,7 +3527,11 @@ I. Cuando hubiere temor de que se ausente u oculte la persona contra quien deba 
 
 II. Para la determinación y aseguramiento de alimentos provisionales.
 
-III. Respecto de la separación, depósito de cónyuges y de menores, ya previstos como actos prejudiciales o al admitirse la demanda de divorcio, nulidad de matrimonio o pérdida de la patria potestad.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2013)</small>
+
+III. Respecto de la separación, depósito de cónyuges y de menores, ya previstos como actos prejudiciales o al admitirse la solicitud de divorcio, la demanda de nulidad de matrimonio o la de pérdida de la patria potestad.
 
 IV. Cuando la pretensión se funde en un derecho real y cuando se tema que se oculten o dilapiden los bienes.
 
@@ -5501,7 +5509,23 @@ II. Cuando, notificadas en forma, no sean recurridas dentro del plazo señalado 
 
 III. Cuando se haya interpuesto recurso pero no se haya continuado en la forma y plazos legales, o cuando quien lo interpuso, haya desistido del recurso.
 
-La declaración la hará el juzgador de oficio o a petición de parte en el caso de la fracción I. En el caso de la fracción II, la declaración se hará a petición de parte, excepto en el caso de divorcio voluntario en que la declaración se hará de oficio. En los casos de la fracción III, la declaración la hará el tribunal al resolver sobre la deserción o desistimiento del recurso.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2013)</small>
+
+La declaración la hará el juzgador de oficio o a petición de parte en el caso de la fracción I; en el supuesto de la fracción II, se hará a petición de parte y en los casos de la fracción III, la declaración la hará el Tribunal al resolver sobre la deserción o desistimiento del recurso.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2013)</small>
+
+En caso de disolución del vínculo matrimonial, la resolución que lo decrete tendrá el carácter de ejecutoria por ministerio de ley, así como lo acordado por las partes y sancionado por el juzgador respecto del convenio de divorcio a que se refiere el artículo 363 del Código Civil.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2013)</small>
+
+Las demás resoluciones que se tomen durante el juicio de divorcio seguirán las reglas de las fracciones I a III que anteceden.
 
 El auto que declare que la sentencia ha causado o no ejecutoria, es recurrible en queja.
 
@@ -5913,13 +5937,17 @@ Autorización judicial para que los cónyuges menores de edad celebren ciertos c
 
 En los casos previstos por el Código Civil, en los que los cónyuges menores de edad deban solicitar autorización judicial para efectuar determinados negocios jurídicos entre sí, el juzgador recibirá en una audiencia las pruebas que ofrezcan las partes para justificar que no resultan perjudicados los intereses de la familia o de alguno de ellos y oyendo al Ministerio Público, resolverá lo que proceda.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2013)</small>
+
 ###### ARTÍCULO 568.
 
 Separación del domicilio conyugal.
 
-El consorte que no quiera pedir el divorcio, en los casos autorizados por el Código Civil, podrá solicitar en juicio ordinario, que se suspenda su obligación de cohabitar con el otro cónyuge y el juzgador con conocimiento de causa podrá decretar esa suspensión, quedando subsistentes las demás obligaciones creadas por el matrimonio.
+En los casos autorizados por el Código Civil, el consorte podrá solicitar en juicio ordinario que se suspenda su obligación de cohabitar con el otro cónyuge y el juzgador con conocimiento de causa podrá decretar esa suspensión, quedando subsistentes las demás obligaciones creadas por el matrimonio.
 
-El juzgador, según las circunstancias, podrá decretar como medida provisional, la separación de los cónyuges.
+El juzgador, según las circunstancias, podrá decretar como medida provisional la separación de los cónyuges.
 
 ### CAPÍTULO QUINTO. Nulidad de matrimonio
 
@@ -5989,191 +6017,247 @@ Inscripción de la sentencia en el Registro Civil.
 
 Ejecutoriada la sentencia que declare la nulidad, el tribunal de oficio, enviará copia certificada de ella a la Dirección Estatal del Registro Civil y ante quien se celebró el matrimonio para que se efectúe la anotación marginal correspondiente.
 
-### CAPÍTULO SEXTO. Divorcio por mutuo consentimiento
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE ABRIL DE 2013)</small>
+
+### CAPÍTULO SEXTO. El Juicio de divorcio
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2013)</small>
 
 ###### ARTÍCULO 576.
 
-Declaración judicial en el caso de divorcio por mutuo consentimiento.
+Declaración judicial en el caso de divorcio.
 
-El divorcio por mutuo consentimiento siempre tendrá lugar con intervención judicial.
+El divorcio siempre tendrá lugar con intervención judicial, salvo el caso previsto por el artículo 374 del Código Civil.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2013)</small>
 
 ###### ARTÍCULO 577.
 
-Demanda de divorcio por mutuo consentimiento y medidas de aseguramiento provisionales.
+Legitimación activa para solicitar el divorcio y medidas de aseguramiento provisionales.
 
-La demanda de divorcio por mutuo consentimiento será formulada por ambos cónyuges, debiendo suscribirla con sus firmas y, además con la huella dígito pulgar derecha de cada uno.
+La solicitud de divorcio podrá ser formulada por uno o ambos cónyuges, la que deberá ser suscrita por el que la promueva; además, estampará la huella digital del pulgar derecho al lado de su firma. La solicitud deberá ser ratificada en la presencia judicial.
 
-El cónyuge menor de edad necesita de un tutor especial para solicitar el divorcio por mutuo consentimiento.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-El divorcio por mutuo consentimiento, no puede pedirse sino pasado dos años de la celebración del matrimonio.
-
-Mientras se decreta el divorcio, el juzgador podrá autorizar la separación de los cónyuges de una manera provisional y dictará las medidas necesarias para asegurar la subsistencia de los hijos a quienes haya obligación de dar alimentos.
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2013)</small>
 
 ###### ARTÍCULO 578.
 
-Documentos que deben acompañarse con la demanda de divorcio voluntario.
+Documentos que deben acompañarse a la solicitud de divorcio.
 
-Con la demanda se acompañarán los siguientes documentos:
+Con la solicitud deberán acompañarse los siguientes documentos:
 
 I. Acta de matrimonio.
 
-II. Actas de nacimiento de los hijos menores.
+II. Actas de nacimientos del solicitante y de los hijos menores.
 
-> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2011)</small>
+III. Las pruebas que sean necesarias para justificar la solicitud de medidas provisionales o urgentes.
 
-lII. El convenio que prevé el Código Civil sobre la situación de los cónyuges y los hijos menores o incapacitados, sobre los alimentos que deben ministrarse, el compromiso expreso de los cónyuges de evitar cualquier acto de manipulación encaminado a producir en el menor de edad rencor o rechazo hacia el otro progenitor, para salvaguardar la integridad física y psicológica, así como sobre la administración y liquidación de la sociedad conyugal, en su caso.
+IV. La Propuesta de convenio de divorcio, que debe contener, por lo menos, los requisitos previstos en el artículo 363 del Código Civil: (sic)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2013)</small>
 
 ###### ARTÍCULO 579.
 
-Junta de avenimiento.
+Representación de los menores de edad.
 
-Presentada la demanda, citará el juzgador a los cónyuges y al representante del Ministerio Público a una junta, que se efectuará después de los ocho y antes de los quince días siguientes, y si asistieren los interesados los exhortará para procurar su reconciliación. Si no logra avenirlos, aprobará provisionalmente, oyendo al representante del Ministerio Público, los puntos del convenio a que alude la fracción III del artículo anterior, dictando las medidas necesarias de aseguramiento.
+Los cónyuges menores de edad requerirán de un representante legítimo o tutor para intervenir en asuntos de divorcio. La solicitud será suscrita también con la firma del menor y con la huella digital del pulgar derecho del mismo, quien la ratificará en la presencia judicial.
 
-Si los cónyuges no asistieren, se dará por terminada la instancia.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2013)</small>
 
 ###### ARTÍCULO 580.
 
-Intervención personal de los cónyuges.
+Representación voluntaria.
 
-Los cónyuges no pueden hacerse representar por abogado patrono o procurador en la junta a que se refiere el artículo anterior, sino que deben comparecer personalmente y, en su caso, acompañados del tutor especial.
+Los cónyuges podrán hacerse representar por apoderados y el poder deberá ser expreso.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2013)</small>
 
 ###### ARTÍCULO 581.
 
-Sentencia de divorcio voluntario.
+Medidas de aseguramiento provisionales.
 
-Si insistieren los cónyuges en su propósito de divorciarse, citará el juzgador a las partes para oír sentencia, la cual se dictará dentro del término de tres días, y en ella, volverá a estudiar la situación de los hijos. Si en el convenio quedaren bien garantizados los derechos de los hijos menores o incapacitados, el juzgador, oyendo el parecer del representante del Ministerio Público sobre este punto, y, en su caso, el de los hijos, dictará sentencia en que quedará disuelto el vínculo matrimonial y decidirá sobre el convenio presentado.
+Al admitirse la solicitud de divorcio, o antes si hubiere urgencia, se dictarán provisionalmente y sólo mientras dure el juicio, las medidas señaladas en este artículo.
+
+El señalamiento y aseguramiento de alimentos para el cónyuge acreedor y los hijos no podrá demorarse por el hecho de no tener el juzgador datos para hacer la fijación del monto de la pensión, sino que se decretará tan pronto se pida. El monto de la pensión y la resolución que la establece podrán ser modificados durante el juicio cuando cambien las circunstancias o el juzgador tenga mayores datos sobre las posibilidades económicas y posición de los cónyuges.
+
+El juzgador, en cualquier tiempo y antes de que provea en definitiva, podrá prudentemente modificar sus determinaciones, estableciendo las modalidades y medidas que estime necesarias en beneficio de los menores y de sus bienes, y sin más limitaciones que este mismo beneficio; puede confiar la custodia de dichos menores a un tercero o institución educativa y la administración de sus bienes a una institución fiduciaria.
+
+Se podrán dictar provisionalmente las siguientes medidas:
+
+I. La separación de los cónyuges y, en su caso, la prohibición al cónyuge de ir al domicilio o al lugar en el que el otro se encuentre, previniéndolo de la aplicación de medidas de apremio en su contra en caso de que impida la separación.
+
+II. El señalamiento y aseguramiento los alimentos que debe dar el deudor alimentario al cónyuge acreedor y a los hijos.
+
+III. Las que se estimen convenientes para que los cónyuges no se puedan causar perjuicio en su integridad personal, en su honor, en sus respectivos bienes ni en los de la sociedad conyugal, o de sus hijos, en su caso.
+
+IV. Las precautorias que la ley establece respecto a la mujer que quede encinta.
+
+V. Respecto de la guarda y custodia, las que establece el artículo 552 del Código Civil.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2013)</small>
 
 ###### ARTÍCULO 582.
 
-Caducidad de la instancia por abandono o reconciliación.
+Del procedimiento de divorcio.
 
-En caso en que los cónyuges dejaren pasar más de tres meses sin continuar el procedimiento, el tribunal dará por terminada la instancia, declarando sin efecto la solicitud y mandará archivar el expediente.
+El divorcio se tramitará de acuerdo con las reglas siguientes:
 
-Lo mismo ocurrirá si los cónyuges se reconcilian, caso en el cual no podrán volver a solicitar el divorcio por mutuo consentimiento, sino pasados dos años de su reconciliación.
+I. El juez, recibida la solicitud de divorcio, examinará si satisface los requisitos del artículo 578; si no es así, prevendrá al promovente para que subsane las deficiencias en el plazo previsto en el artículo 391 de este Código.
+
+II. Una vez satisfechos los requisitos de ley, admitirá a trámite la solicitud y emplazará al cónyuge que no pidió el divorcio, haciéndole saber los términos de la misma. De igual manera se le concederá el plazo de nueve días a fin de que manifieste su conformidad con el convenio exhibido o, en su caso, presente su contrapropuesta, en la que expondrá los hechos en que la funde y deberá ofrecer las pruebas respectivas relacionadas con la misma.
+
+En el mismo auto dará vista al Ministerio Público para su intervención de acuerdo a sus atribuciones.
+
+III. En el proveído inicial, el juzgador decretará las medidas provisionales que fueren procedentes.
+
+IV. El juez decretará el divorcio mediante resolución una vez desahogadas las vistas anteriores o cuando haya transcurrido el plazo para ello.
+
+V. En el caso de que ambos cónyuges hubieren presentado la solicitud, que lleguen a un acuerdo total o parcial respecto del convenio señalado en el artículo 363 del Código Civil o que no se hubiere suscitado controversia respecto de su contenido, y éste no contravenga ninguna disposición legal, el juez aprobará lo conducente en la misma resolución de divorcio.
+
+De no haber acuerdo, luego de decretar el divorcio el juez, de oficio, correrá traslado personal al solicitante con la contrapropuesta, la expresión de los hechos en que se funda y las pruebas ofrecidas, por un plazo de nueve días para que manifieste lo que a su interés convenga y ofrezca las pruebas de su intención.
+
+El solicitante podrá, en la vista indicada, formular a su vez las pretensiones que estime oportunas, expresando los hechos en que se funda y ofreciendo las pruebas que las justifiquen. De este escrito se dará vista al cónyuge que no pidió el divorcio por tres días para que manifieste lo que a su interés convenga.
+
+Desahogadas las vistas correspondientes o transcurrido el plazo de ley para ello, en proveído especial el juzgador tomará las determinaciones a que se refiere el último párrafo del artículo 412 de este código.
+
+El juicio continuará conforme a las reglas del juicio ordinario civil, tomando en consideración las especiales que rigen a los procedimientos del orden familiar.
+
+VI. Sin perjuicio de decretar el divorcio en los términos de la fracción anterior, si de las vistas a que se refiere la fracción II de este artículo aparecieren cuestiones relativas a los presupuestos procesales, se dará vista al solicitante con las mismas por el plazo de tres días, siguiendo las reglas de los incidentes.
+
+VII. El acuerdo de las partes, su allanamiento o rebeldía no vincula al juzgador respecto de los términos del convenio o su contrapropuesta.
+
+VIII. Se notificará personalmente la resolución que decrete el divorcio.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2013)</small>
 
 ###### ARTÍCULO 583.
 
-Oposición del Ministerio Público al divorcio voluntario.
+Oposición del Ministerio Público al convenio.
 
-El Ministerio Público podrá oponerse al divorcio por mutuo consentimiento en los siguientes casos:
+El Ministerio Público podrá oponerse al convenio cuando:
 
-I. Porque la solicitud se haya hecho en contravención a lo dispuesto por el Código Civil.
+I. La solicitud se haya hecho en contravención a lo dispuesto por el Código Civil.
 
-II. Porque el convenio que en este caso deben presentar los cónyuges, viole los derechos de los hijos.
+II. El convenio que en este caso deben presentar los cónyuges, viole los derechos de los hijos menores o incapaces.
 
-III. Porque los derechos de los hijos no queden bien garantizados.
+III. Los derechos de los hijos no queden debidamente garantizados.
 
-Si el cónyuge no tuviese bienes para garantizar los derechos de los hijos, el juzgador decretará el aseguramiento en cualquier tiempo posterior en que los tenga y entre tanto se reservará el pronunciamiento de la sentencia.
+El juez, oyendo en justicia el pedimento, resolverá en consecuencia.
 
-El Ministerio Público podrá proponer las modificaciones al convenio que estime procedentes, y el juzgador lo hará saber a los cónyuges para que dentro de tres días manifiesten si las aceptan.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Cuando el convenio no fuere susceptible de aprobación, no podrá decretarse la disolución del matrimonio.
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2013)</small>
 
 ###### ARTÍCULO 584.
 
-Recurso contra la definitiva.
+Desistimiento de la solicitud de divorcio.
 
-La sentencia que decrete o niegue el divorcio por mutuo consentimiento, es apelable en el efecto suspensivo.
+El cónyuge que haya solicitado el divorcio, antes de que se pronuncie la resolución que decrete la disolución matrimonial, podrá desistirse de su solicitud, observándose las reglas contenidas en el artículo 311 de este código.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2013)</small>
 
 ###### ARTÍCULO 585.
 
-Ejecución del convenio aprobado en la sentencia.
+Resolución que decreta el divorcio.
 
-El juzgador que decrete el divorcio es competente para hacer cumplir y ejecutar el convenio que se apruebe en la sentencia. La ejecución se llevará a cabo, de acuerdo con las reglas de la ejecución forzosa.
+La resolución del juez en la que se declare el divorcio no admite recurso alguno.
 
-Las ulteriores solicitudes de modificación del convenio o de las medidas judiciales, se planteará ante el mismo juzgador y se tramitarán en forma incidental.
+Las demás determinaciones que se dicten dentro del juicio de divorcio serán recurribles de acuerdo a las reglas generales de los juicios en materia familiar.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2013)</small>
 
 ###### ARTÍCULO 586.
 
 Ejecución administrativa.
 
-Ejecutoriada la sentencia de divorcio, el tribunal mandará remitir copia de ella al Oficial del Registro Civil de su jurisdicción, al del lugar en que el matrimonio se efectuó y al del nacimiento de los divorciados, así como a la Dirección Estatal del Registro Civil para los efectos que se precisan en el Código Civil.
+Decretado el divorcio, el tribunal mandará remitir copia a de la resolución al Oficial del Registro Civil del lugar en que el matrimonio se efectuó y al del nacimiento de los divorciados así como a la Dirección Estatal del Registro Civil para los efectos que se precisan en el Código Civil.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE ABRIL DE 2013)</small>
 
 ### CAPÍTULO SÉPTIMO. Divorcio necesario
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### ARTÍCULO 587.
 
-Legitimación activa para demandar el divorcio necesario.
+(DEROGADO, P.O. 5 DE ABRIL DE 2013)
 
-El divorcio necesario sólo podrá ser demandado por el cónyuge que no haya dado causa a él, salvo el caso de que ambos se separen por más de tres años, en el cual cualquiera de ellos podrá demandar el divorcio, independientemente de si es inocente o culpable.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 588.
 
-Representación de menores de edad.
+(DEROGADO, P.O. 5 DE ABRIL DE 2013)
 
-Los cónyuges menores de edad requerirán de un representante legítimo o tutor para intervenir en asuntos de divorcio necesario. La demanda será suscrita también con la firma del menor y con la huella dígito pulgar derecha del mismo, quien la ratificará en la presencia judicial, pero no se necesitará de este requisito cuando el cónyuge padezca enajenación mental.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 589.
 
-Representación voluntaria.
+(DEROGADO, P.O. 5 DE ABRIL DE 2013)
 
-Los cónyuges podrán hacerse representar por procuradores; pero el poder deberá ser especial y expreso.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 590.
 
-Medidas de aseguramiento provisionales.
+(DEROGADO, P.O. 5 DE ABRIL DE 2013)
 
-Al admitirse la demanda de divorcio, o antes si hubiere urgencia, se dictarán provisionalmente y solo mientras dure el juicio, las medidas autorizadas por el Código Civil para los casos de divorcio necesario. El señalamiento y aseguramiento de alimentos para el cónyuge acreedor y los hijos no podrá demorarse por el hecho de no tener el juzgador datos para hacer la fijación del monto de la pensión, sino que se decretará tan pronto se pida. El monto de la pensión y la resolución que la establece podrán ser modificados durante el juicio cuando cambien las circunstancias o el juzgador tenga mayores datos sobre las posibilidades económicas y posición de los cónyuges.
-
-El juzgador, en cualquier tiempo y antes de que provea en definitiva, podrá prudentemente modificar sus determinaciones, estableciendo las modalidades y medidas que estime necesarias en beneficio de los menores y de sus bienes, y sin más limitaciones que este mismo beneficio; puede confiar la custodia de dichos menores a un tercero o institución educativa y la administración de sus bienes a una institución fiduciaria.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 591.
 
-Modalidades del juicio de divorcio necesario.
+(DEROGADO, P.O. 5 DE ABRIL DE 2013)
 
-El divorcio necesario se tramitará de acuerdo con las reglas del juicio ordinario, con las siguientes modalidades:
-
-I. Aunque medie confesión o allanamiento, se abrirá necesariamente el juicio a prueba.
-
-II. En los casos de rebeldía se tendrá por contestada la demanda en sentido negativo.
-
-III. El juzgador podrá exigir la identificación adecuada de las partes cuando lo considere necesario.
-
-IV. Los cónyuges no podrán celebrar transacción sobre su pretensión de divorcio.
-
-V. La muerte de uno de los cónyuges pone fin al juicio de divorcio, sin que puedan continuarlo los herederos.
-
-VI. Durante el juicio se admitirán pruebas sobre nuevas causas de divorcio, mismas que se estimarán en la sentencia. Terminado el juicio, las causas pasadas no podrán alegarse.
-
-VII. La contrademanda sobre nulidad del matrimonio o divorcio, será admisible.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 592.
 
-Acumulación de demandas de nulidad de matrimonio y de divorcio.
+(DEROGADO, P.O. 5 DE ABRIL DE 2013)
 
-Las demandas sobre nulidad de matrimonio y divorcio podrán acumularse. Si se declara la nulidad, la sentencia se abstendrá de resolver sobre el divorcio.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 593.
 
-Terminación de la instancia sin sentencia.
+(DEROGADO, P.O. 5 DE ABRIL DE 2013)
 
-La instancia concluirá sin sentencia:
-
-I. Si hubiere inactividad total de las partes en los términos previstos en el artículo 311, fracción II.
-
-II. Si se demostrare la reconciliación de los cónyuges en cualquier estado del juicio, mientras no hubiere sentencia con autoridad de cosa juzgada.
-
-III. Porque el cónyuge que no haya dado causa al divorcio prescinda de sus derechos y otorgue el perdón al otro.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 594.
 
-Facultades del juzgador al resolver en definitiva.
+(DEROGADO, P.O. 5 DE ABRIL DE 2013)
 
-En los juicios de divorcio necesario, la sentencia resolverá de oficio lo relativo al cuidado de los hijos, patria potestad, división de los bienes de la sociedad conyugal, alimentos de los cónyuges y de los propios hijos, aún y cuando las partes no lo hubieren solicitado.
-
-Para ello, desde la iniciación del procedimiento el juzgador deberá recabar de oficio los medios de prueba que sean pertinentes para decidir sobre tales cuestiones.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 595.
 
-Impugnación.
+(DEROGADO, P.O. 5 DE ABRIL DE 2013)
 
-La sentencia definitiva es apelable en el efecto suspensivo, por lo que no podrá ejecutarse hasta que la apelación se decida, excepto en lo que se refiera a la pensión alimenticia.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 596.
 
-Acta de divorcio y anotación de la sentencia.
-
-Una vez que la sentencia que decretó el divorcio haya adquirido autoridad de cosa juzgada, el juzgador remitirá copia al Oficial ante quien se celebró el matrimonio y a la Dirección Estatal del Registro Civil para que se proceda a levantar el acta de divorcio por el primero y a realizar las anotaciones marginales correspondientes por ambos.
+(DEROGADO, P.O. 5 DE ABRIL DE 2013)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
 
@@ -8245,7 +8329,13 @@ IV. Los concernientes al estado civil de las personas.
 
 V. Los negocios que versen sobre derechos no disponibles.
 
-VI. Los demás en que lo prohiba expresamente la ley.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2013)</small>
+
+VI. Los divorcios, excepto en cuanto a la separación de bienes y a las demás diferencias puramente pecuniarias, y
+
+VII. Los demás en que lo prohíba expresamente la ley.
 
 ### CAPÍTULO TERCERO. De los árbitros
 
@@ -9137,7 +9227,11 @@ I. Sólo podrá admitirse la apelación en el efecto suspensivo en los siguiente
 
 a) Cuando la ley de una manera expresa ordene que la apelación se admita con ese efecto.
 
-b) Contra las sentencias que se dicten en los juicios que versen sobre divorcio o nulidad de matrimonio y demás cuestiones de familia o estado de las personas, salvo disposición en contrario.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2013)</small>
+
+b) Contra las sentencias que se dicten en los juicios que versen sobre nulidad de matrimonio y demás cuestiones de familia o estado de las personas, salvo disposición en contrario.
 
 c) Contra las sentencias interlocutorias y los autos que paralicen o pongan término al juicio, haciendo imposible su continuación.
 
@@ -13300,3 +13394,13 @@ TERCERO.- Las adopciones que a la entrada en vigor del presente decreto, se encu
 CUARTO.- En los juicios y procedimientos de rectificación y aclaración de actas del registro civil que se encuentren en trámite a la entrada en vigor del presente decreto, será potestativo para las partes acogerse a las reformas establecidas en el mismo o, en su caso, seguir rigiéndose por las disposiciones anteriores a su publicación, hasta en tanto hayan concluido en su totalidad.
 
 QUINTO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 5 DE ABRIL DE 2013.
+
+PRIMERO.- El presente decreto entrará en vigor a los 60 días siguientes al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- En los juicios de divorcio, en ambas instancias, que se encuentren pendientes de resolución definitiva que las resuelva, será potestativo para cualquiera de las partes solicitar a la autoridad judicial que conoce la instancia, solicitar la disolución del vínculo matrimonial; de ser así, el juez o magistrado procederá conforme a las disposiciones del presente decreto de reformas.
+
+Si existe otra pretensión en los juicios pendientes de resolución distinta a la disolución del vínculo matrimonial, el juzgador seguirá el trámite del juicio en relación a estos puntos litigiosos conforme a las disposiciones procesales aplicables y anteriores al presente decreto, hasta resolver en definitiva según corresponda, sin perjuicio de que decrete la disolución del vínculo matrimonial.
+
+TERCERO.- Se derogan las disposiciones que se opongan al presente decreto.
