@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-organico-de-la-administracion-publica-estatal-de-778
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-01-05"
-last_updated: "2012-10-19"
+last_updated: "2013-04-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77834&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 REGLAMENTO ORGÁNICO DE LA ADMINISTRACIÓN PÚBLICA ESTATAL DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el miércoles 5 de enero de 2011.
 
@@ -1053,53 +1053,65 @@ VIII. Las demás que le encomiende el Titular del Poder Ejecutivo y las que sean
 
 ### CAPÍTULO I. DE LA DENOMINACIÓN Y ATRIBUCIONES
 
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2013)</small>
+
 ###### Artículo 48.
 
 El Ejecutivo del Estado contará con las siguientes entidades administrativas centralizadas:
 
-I. La Secretaría Particular del Gobernador del Estado;
+I. La Oficina del Gobernador del Estado;
 
 II. La Unidad de Transparencia y Rendición de Cuentas;
 
 III. La Coordinación General de Comunicación Social;
 
-IV. La Coordinación General de Asesoría;
+IV. La Representación del Gobierno del Estado en el Distrito Federal; y,
 
-V. La Representación del Gobierno del Estado en el Distrito Federal; y,
+V. La Coordinación General de Proyectos Estratégicos.
 
-> <small>(REFORMADA, P.O. 24 DE ENERO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE ABRIL DE 2013)</small>
 
-VI. La Coordinación General de Proyectos Estratégicos; y,
+### CAPÍTULO II. DE LA OFICINA DEL GOBERNADOR DEL ESTADO
 
-> <small>(ADICIONADA, P.O. 24 DE ENERO DE 2011)</small>
-
-VII. Las demás que establezcan las leyes, decretos y las que cree el ejecutivo estatal.
-
-### CAPÍTULO II. DE LA SECRETARÍA PARTICULAR DEL GOBERNADOR DEL ESTADO
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2013)</small>
 
 ###### Artículo 49.
 
-A la Secretaría Particular del Gobernador del Estado le corresponde el despacho de los siguientes asuntos:
+A la Oficina del Gobernador del Estado le corresponde el despacho de los siguientes asuntos:
 
 I. Organizar, coordinar, ejecutar y llevar el seguimiento de la agenda de actividades públicas y compromisos del Gobernador del Estado, de conformidad con las medidas protocolarias y de seguridad aplicables a los actos del titular del ejecutivo;
 
 II. Organizar, programar y coordinar el desahogo de las audiencias públicas que realiza el Gobernador del Estado, así como canalizar las peticiones o solicitudes ciudadanas que resulten de dichas audiencias;
 
-III. Coordinar y organizar la implementación y desarrollo de eventos especiales y giras en los que intervenga el Gobernador del Estado;
+III. Coordinar y organizar la implementación y desarrollo de eventos especiales, traslados y giras en los que intervenga el Titular del Ejecutivo;
 
 IV. Diseñar, proponer, coordinar y dirigir la logística para el desarrollo del evento relativo al informe anual de actividades que rinde el Titular del Ejecutivo ante el H. Congreso del Estado;
 
-V. Organizar, clasificar y en su caso turnar para la atención de las autoridades competentes, la correspondencia del Gobernador del Estado, y de la propia Secretaría Particular; y, (sic)
-
-> <small>(ADICIONADA, P.O. 29 DE FEBRERO DE 2012)</small>
+V. Organizar, clasificar y en su caso turnar para la atención de las autoridades competentes, la correspondencia del Titular del Ejecutivo, y de la propia Oficina del Gobernador del Estado;
 
 VI. Coordinar la atención a la ciudadanía para canalizar ante las dependencias correspondientes las gestiones y peticiones que recibe directamente el Gobernador del Estado por parte de la población y organizaciones sociales y productivas;
 
-VII. Atender y tramitar los demás asuntos que le encomiende el ejecutivo.
+VII. Realizar los estudios y análisis de los temas y asuntos que el Titular del Ejecutivo considere necesarios;
+
+VIII. Realizar directamente, o a través de terceros, las asesorías interdisciplinarias para apoyar la toma de decisiones del titular del ejecutivo y los titulares de las distintas dependencias de la administración pública estatal y paraestatal, cuando el Titular del Ejecutivo así lo instruya;
+
+IX. Evaluar y dar seguimiento a los programas de las dependencias de la administración pública estatal, cuando el Titular del Ejecutivo lo disponga;
+
+X. Consultar, proponer y recopilar información para la elaboración de los documentos que requiera el Titular del Ejecutivo para el ejercicio de sus funciones;
+
+XI. Realizar estudios de diversos temas para mantener informado al Titular del Ejecutivo;
+
+XII. Promover la realización de encuestas ciudadanas que permitan conocer la percepción social sobre el Gobierno del Estado;
+
+XIII. Coordinar y evaluar los institutos para la atención especializada que determine el ejecutivo, de conformidad con las leyes respectivas, su decreto de creación y lo establecido en este reglamento; y,
+
+XIV. Atender y tramitar los demás asuntos que le encomiende el Titular del Ejecutivo.
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2013)</small>
 
 ###### Artículo 50.
 
-Al titular de esta entidad administrativa se le denominará Secretario Particular del Gobernador Constitucional del Estado. Para el despacho de los asuntos de su competencia, se auxiliará de los servidores públicos que establezca su reglamento interior a que determine el presupuesto de egresos.
+El Titular del Poder Ejecutivo contará con el apoyo directo de la Oficina del Gobernador del Estado, para la implementación, seguimiento y evaluación periódica de sus tareas, con el objeto de que esta aporte elementos para la toma de decisiones. Al titular de esta entidad administrativa se le denominará Jefe de la Oficina del Gobernador del Estado. Para el despacho de los asuntos de su competencia, se auxiliará de los servidores públicos que establezca su reglamento interior.
 
 ### CAPÍTULO III. DE LA UNIDAD DE TRANSPARENCIA Y RENDICIÓN DE CUENTAS
 
@@ -1207,31 +1219,11 @@ Al titular de esta entidad administrativa se le denominará Jefe de la Unidad de
 
 ###### Artículo 53.
 
-A la Coordinación General de Asesoría, le corresponde el despacho de los siguientes asuntos:
-
-I. Realizar los estudios y análisis de los temas y asuntos que el Titular del Ejecutivo considere necesarios;
-
-II. Realizar directamente, o a través de terceros, las asesorías interdisciplinarias para apoyar la toma de decisiones del titular del ejecutivo y los titulares de las distintas dependencias de la administración pública estatal y paraestatal, cuando el Titular del Ejecutivo así lo instruya;
-
-III. Evaluar y dar seguimiento a los programas de las dependencias de la administración pública estatal, cuando el Gobernador del Estado lo disponga;
-
-IV. Consultar, proponer y recopilar información para la elaboración de los documentos que requiera el Titular del Ejecutivo para el ejercicio de sus funciones;
-
-V. Realizar estudios de diversos temas para mantener informado al Titular del Ejecutivo, cuando el gobernador lo disponga;
-
-VI. (DEROGADA, P.O. 29 DE FEBRERO DE 2012)
-
-VII. Promover la realización de encuestas ciudadanas que permitan conocer la percepción social sobre el Gobierno del Estado;
-
-VIII. Administrar y operar los fondos y fideicomisos que sean necesarios para el cumplimiento de sus funciones y atribuciones, cuando así lo determine el Gobernador del Estado;
-
-IX. Coordinar y evaluar los institutos para la atención especializada que determine el ejecutivo, de conformidad con las leyes respectivas, su decreto de creación y lo establecido en este reglamento; y,
-
-X. Cumplir las encomiendas específicas que el Gobernador del Estado le asigne.
+(DEROGADO, P.O. 5 DE ABRIL DE 2013)
 
 ###### Artículo 54.
 
-Al titular de esta entidad administrativa se le denominará Coordinador General de Asesoría. Para el despacho de los asuntos de su competencia, se auxiliará de los servidores públicos que señale su reglamento interior o que determine el presupuesto de egresos.
+(DEROGADO, P.O. 5 DE ABRIL DE 2013)
 
 ### CAPÍTULO V. DE LA COORDINACIÓN GENERAL DE COMUNICACIÓN SOCIAL
 
@@ -1468,3 +1460,17 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 19 DE OCTUBRE DE 2012.
 
 Artículo Único.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 5 DE ABRIL DE 2013.
+
+Primero.- El presente reglamento entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Segundo.- Se derogan todas las disposiciones reglamentarias y administrativas que se opongan a lo establecido por este reglamento.
+
+Tercero.- Las menciones contenidas en leyes, otros reglamentos y en general en cualquier disposición, respecto de la Coordinación General de Asesoría y a su titular, se entenderán referidas a la Oficina del Gobernador del Estado y a su titular.
+
+Cuarto. Los recursos humanos, financieros y materiales con que cuenten las unidades administrativas de la dependencia cuyas funciones cambian por este decreto a la Oficina del Gobernador del Estado, se transferirán a ésta, a fin de apoyar el cumplimiento de los programas y metas que les corresponden.
+
+Quinto. Los derechos laborales del personal que, en virtud de lo dispuesto en el presente decreto, pase de una dependencia a otra, se respetarán conforme a la ley.
+
+Sexto. Todos los asuntos que se encuentren en trámite a la entrada en vigor del presente decreto pasarán para su despacho a las unidades administrativas de la Oficina del Gobernador del Estado, quienes serán responsables de los mismos, conforme a las disposiciones jurídicas aplicables.
