@@ -4,7 +4,7 @@ identifier: "COA-codigo-civil-para-el-estado-de-coahuila-de-zaragoza-15369"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-25"
-last_updated: "2012-06-26"
+last_updated: "2013-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2013.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila, el viernes 25 de junio de 1999.
 
@@ -1763,7 +1763,9 @@ II. Los efectos del matrimonio con relación a los cónyuges y a sus hijos.
 
 III. Los regímenes patrimoniales del matrimonio.
 
-IV. Las causales de divorcio.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+IV. (DEROGADA, P.O. 5 DE ABRIL DE 2013)
 
 V. La Patria Potestad.
 
@@ -1795,7 +1797,9 @@ III. El parentesco por consanguinidad sin limitación de grado en la línea rect
 
 IV. El parentesco de afinidad en línea recta, sin limitación alguna.
 
-V. El adulterio habido entre las personas que pretendan contraer matrimonio, cuando ese adulterio haya sido judicialmente comprobado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+V. (DEROGADA, P.O. 5 DE ABRIL DE 2013)
 
 VI. El atentado contra la vida de alguno de los casados para contraer matrimonio con el que quede libre, bien por efecto de ese atentado o por haberse disuelto el matrimonio por otra causa.
 
@@ -2217,9 +2221,11 @@ El parentesco de consanguinidad no dispensado anula el matrimonio; pero si despu
 
 La acción que nace de esta clase de nulidad y la que dimana del parentesco de afinidad en línea recta, pueden ejercitarse por cualquiera de los cónyuges, por sus ascendientes y por el Ministerio Público.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### ARTÍCULO 339.
 
-La acción de nulidad que nace de la causa prevista en la fracción V del artículo 262, podrá deducirse por el cónyuge ofendido o por el Ministerio Público, en el caso de disolución del matrimonio anterior por causa de divorcio; y sólo por el Ministerio Publico, si este matrimonio se ha disuelto por muerte del cónyuge ofendido. En uno y otro caso, la acción debe intentarse dentro de los seis meses siguientes a la celebración del matrimonio de los adúlteros.
+(DEROGADO, P.O. 5 DE ABRIL DE 2013)
 
 ###### ARTÍCULO 340.
 
@@ -2337,133 +2343,101 @@ Los que infrinjan el artículo anterior, así como los que siendo mayores de eda
 
 ### CAPÍTULO VI. DEL DIVORCIO
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2013)</small>
+
 ###### ARTÍCULO 362.
 
-El divorcio disuelve el vínculo del matrimonio y deja a los cónyuges en aptitud de contraer otro.
+El divorcio disuelve el vínculo matrimonial y deja a los cónyuges en aptitud de contraer otro.
 
-El divorcio es de estricto derecho y sólo podrá decretarse por las causas previstas en la ley y si plenamente se demuestra su existencia.
+Cualquiera de los cónyuges o ambos, podrán solicitar el divorcio ante la autoridad judicial y manifestar su voluntad de no querer continuar con el matrimonio, sin que sea necesario señalar la causa por la cual se solicita.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2013)</small>
 
 ###### ARTÍCULO 363.
 
-Son causas de divorcio:
+El cónyuge que desee promover el juicio de divorcio deberá acompañar a su solicitud la propuesta de convenio para regular las consecuencias inherentes a la disolución del vínculo matrimonial.
 
-I. El adulterio debidamente probado de uno de los cónyuges.
+La propuesta de convenio de divorcio deberá contener, por lo menos, los siguientes requisitos:
 
-II. El hecho de que la mujer dé a luz, durante el matrimonio, un hijo concebido antes de celebrarse este contrato y que judicialmente se declare que no es hijo del esposo.
+a) La designación de la persona que tendrá la guarda y custodia de los hijos menores o incapaces;
 
-III. La propuesta de uno de los cónyuges para prostituir o corromper al otro, no sólo cuando el mismo la haya hecho directamente, sino cuando se pruebe que ha recibido dinero o cualquiera remuneración con el objeto expreso de permitir su prostitución o corrupción.
+b) Las modalidades bajo las cuales el progenitor, que no tenga la guarda y custodia, ejercerá el derecho de convivencia;
 
-IV. La incitación o la intimidación ejercitada por un cónyuge sobre el otro para cometer algún delito, aunque no sea de incontinencia carnal.
+c) El modo de subvenir las necesidades de los hijos y, en su caso, del cónyuge a quien deba darse alimentos, tanto durante el procedimiento como después de decretarse el divorcio, así como las medidas correspondientes en caso de que la mujer se encuentre encinta. Deberá precisarse la forma, lugar y fecha del pago de la obligación alimentaria, así como la garantía para asegurar su cumplimiento;
 
-V. La conducta inmoral positiva o negativa del marido o de la mujer con el fin de corromper a los hijos, ya lo sean éstos de ambos, ya de uno solo de ellos.
+d) La designación del cónyuge al que corresponderá la posesión y disfrute del domicilio conyugal, y en su caso, del menaje de la casa; además deberá señalarse el tiempo que durará ese derecho.
 
-VI. Padecer sífilis, síndrome de inmunodeficiencia adquirida, tuberculosis o cualquiera otra enfermedad crónica e incurable, que sea, además, contagiosa o hereditaria; o cualquiera otra enfermedad o conformación especial que sean contrarias a los fines del matrimonio, bien porque impidan las funciones relativas o porque científicamente hagan prever algún perjuicio grave o degeneración para los descendientes del matrimonio.
+e) El nombramiento del administrador de los bienes de la sociedad conyugal durante el procedimiento y hasta que se liquide, así como la forma y bases de liquidarla, exhibiendo para ese efecto, en su caso, las capitulaciones matrimoniales, el inventario, avaluó y el proyecto de división.
 
-VII. La impotencia incurable que sobrevenga después de celebrado el matrimonio, si no se debe a edad avanzada.
+f) Los términos de la compensación a que se refiere el artículo 368 de este código.
 
-VIII. Padecer enajenación mental incurable.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2005)</small>
-
-IX. El abandono sin causa justificada del domicilio conyugal por más de seis meses consecutivos acreditando que en el domicilio conyugal, ambos cónyuges, tengan plena autonomía de mando, dirección y autoridad. El plazo no se considerará interrumpido por el regreso esporádico del cónyuge, sin la intención, a criterio del juez, de reintegrarse a la vida en común.
-
-X. La separación del hogar conyugal originada por una causa que sea bastante para pedir el divorcio, si se prolonga por más de un año sin que el cónyuge que se separó entable la demanda de divorcio.
-
-XI. La declaración de ausencia legalmente hecha.
-
-XII. La sevicia, las amenazas o las injurias graves de un cónyuge para el otro, que hagan imposible la vida en común.
-
-Entiéndese (sic) por sevicia, la crueldad excesiva tanto física como moral, de un cónyuge para el otro.
-
-Las amenazas deben consistir en actos o expresiones concretas que indiquen el propósito de ocasionar un daño, al grado que provoquen un profundo y radical temor, incompatible con la permanencia que requiere la vida en matrimonio.
-
-Toda conducta ofensiva que veje, menosprecie o humille al cónyuge ofendido, es constitutiva de injuria.
-
-> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2005)</small>
-
-XIII. Las conductas de violencia familiar, cometidas por uno de los cónyuges contra el otro; hacia los hijos de ambos o de alguno de ellos, en contra de parientes consanguíneo o por afinidad en línea recta ascendente o descendente sin limitación de grado; pariente colateral consanguíneo o por afinidad hasta el segundo grado, adoptante o adoptado.
-
-Para los efectos anteriores las conductas de violencia familiar surgen cuando se ejerce maltrato físico, psíquico o sexual. Entendiéndose por éstas:
-
-a) Maltrato físico: Lo constituye las acciones que perjudican la integridad corporal que van desde sujeción, lesiones en el cuerpo producidas por puño, mano o pie, golpes con objeto, hasta uso de armas punzo-cortantes o de fuego. Las consecuencias pueden ir desde golpes simples, lesiones leves, lesiones graves, lesiones que dejen marca, e incluso que producen incapacidad.
-
-b) Maltrato psicológico: Todo acto y omisión consistente en cualquier clase de prohibiciones condicionamientos, coacciones, intimidaciones amenazas, actitudes devaluativas de abandono. Que provoquen en quien las recibe, un deterioro o disminución de la autoestima y devaluación del autoconcepto.
-
-c) Maltrato sexual: Todo acto que inflinge burla y humillación de la sexualidad, niega las necesidades sexoafectivas entre los cónyuges, coacciona a realizar actos o practicar la celotipia para el control de la persona, así como los delitos contra la libertad y el normal desarrollo de la psicosexualidad.
-
-> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2005)</small>
-
-XIV. La negativa injustificada de los cónyuges a cumplir las obligaciones señaladas en el artículo 271 y el incumplimiento de la sentencia ejecutoriada por alguno de los cónyuges, sin justa causa, en el caso del artículo 273; asimismo el incumplimiento de las resoluciones administrativas o judiciales tendientes a corregir los actos de violencia familiar.
-
-XV. La acusación calumniosa hecha por un cónyuge contra el otro por delito intencional, que merezca pena mayor de dos años de prisión.
-
-XVI. Haber cometido uno de los cónyuges un delito que no sea político, pero que sea infamante, por el cual tenga que sufrir pena de prisión mayor de dos años.
-
-XVII. Los hábitos de juego o de embriaguez, o el uso indebido y persistente de enervantes, estupefacientes o psicotrópicos o de cualquiera otra substancia que altere la conducta y produzca dependencia, cuando amenacen causar la ruina de la familia o constituyan un continuo motivo de desavenencia conyugal.
-
-XVIII. Cometer un cónyuge contra la persona o los bienes del otro un acto que sería punible si se tratare de persona extraña, siempre que tal acto tenga señalada en la ley una pena que pase de un año de prisión.
-
-XIX. La separación de los cónyuges por más de tres años, independientemente del motivo que haya originado la separación, la cual podrá ser invocada por cualquiera de ellos.
-
-XX. El mutuo consentimiento.
-
-> <small>(ADICIONADA, P.O. 12 DE ENERO DE 2007)</small>
-
-XXI.- El haber celebrado un contrato de Pacto Civil de Solidaridad estando aún unido en matrimonio.
-
-> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2005)</small>
-
-La enumeración de las causales de divorcio, son de carácter limitativo y cada una es autónoma, por lo cual, no pueden involucrarse unas con otras, ni ampliarse por analogía ni por mayoría de razón.
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2013)</small>
 
 ###### ARTÍCULO 364.
 
-En el juicio de divorcio por la causa establecida en la fracción XIV del artículo anterior, son aplicables las siguientes disposiciones:
+Los cónyuges que hayan solicitado el divorcio podrán reunirse de común acuerdo en cualquier tiempo hasta antes de que se decrete el divorcio.
 
-I. Para hacer valer esa causa de divorcio, no es necesario que previamente se haya exigido en juicio el cumplimiento de la obligación alimentaria.
+La reconciliación denunciada por ambos cónyuges, previa su ratificación judicial, pondrá término al procedimiento de divorcio.
 
-II. El juicio de divorcio se sobreseerá si el deudor comprueba el monto de sus ingresos y se aviene a asegurar el pago periódico de la pensión que al efecto se señale.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-III. El aseguramiento a que se refiere la fracción anterior podrá consistir en cualquiera de los medios que establece el artículo 409, o por oficio que se gire a quien cubra sus sueldos o salarios, para que entregue al acreedor la cantidad que se le asigne.
-
-IV. Las costas causadas en este procedimiento serán a cargo del deudor alimentario, no obstante el sobreseimiento.
-
-V. La falta de pago de la pensión así asegurada, sin causa justificada por más de tres meses, será nueva causa de divorcio. En este caso no procederá el sobreseimiento a que se refiere la fracción II de este artículo.
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2013)</small>
 
 ###### ARTÍCULO 365.
 
-Cuando un cónyuge haya pedido el divorcio o la nulidad del matrimonio por causa que no haya justificado, el demandado tiene a su vez el derecho de pedir el divorcio, pero no podrá hacerlo sino pasados tres meses de la notificación de la sentencia ejecutoria. Durante estos tres meses los cónyuges no están obligados a vivir juntos.
+Manifestada la voluntad de divorciarse y satisfechos los requisitos que establezca el Código Procesal Civil, la autoridad judicial decretara la disolución del vínculo matrimonial, observando lo dispuesto por el artículo 213 de este ordenamiento.
 
-Cuando se decrete el divorcio por esta causa, los cónyuges conservarán la patria potestad sobre sus hijos.
+En virtud del divorcio, los cónyuges recobrarán su entera capacidad para contraer nuevo matrimonio.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2013)</small>
 
 ###### ARTÍCULO 366.
 
-Cualquiera de los esposos puede pedir el divorcio por el adulterio de su cónyuge. Esta acción dura seis meses, contados desde que se tuvo conocimiento del adulterio. Si la situación de adulterio es permanente, el plazo citado se contará a partir de la fecha en que el cónyuge ofendido tenga conocimiento de que ha cesado dicha situación.
+Las acciones y pretensiones derivadas del matrimonio relativas a la situación de hijos menores o incapaces, al derecho de alimentos o al régimen patrimonial adoptado en el matrimonio, que sean consecuencia de la disolución del vínculo, se resolverán en el mismo procedimiento de divorcio.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2013)</small>
 
 ###### ARTÍCULO 367.
 
-Para que pueda demandarse el divorcio por causa de enajenación mental incurable, es necesario que hayan transcurrido dos años desde que comenzó el padecimiento y que previamente se haya declarado el estado de interdicción del cónyuge enajenado.
+Si así se solicita, el juez que decrete el divorcio resolverá sobre el pago de alimentos a favor del cónyuge que, teniendo la necesidad de recibirlos durante el matrimonio, se haya dedicado preponderantemente a las labores del hogar, al cuidado de los hijos o esté imposibilitado para trabajar y carezca de bienes que produzcan frutos, sin perjuicio de la acción compensatoria prevista en la disposición siguiente.
+
+El juez tomando en cuenta las circunstancias del caso podrá aumentar, disminuir o cancelar la obligación de dar alimentos; empero, esta obligación a favor del cónyuge divorciado se extingue cuando el acreedor contraiga nuevas nupcias, se una en concubinato, celebre Pacto Civil de Solidaridad o haya transcurrido un término igual a la duración del matrimonio.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2013)</small>
 
 ###### ARTÍCULO 368.
 
-Los cónyuges podrán obtener el divorcio por mutuo consentimiento, conforme a las reglas señaladas en el Código Procesal Civil, pero cuando tengan hijos, deberán presentar al Juzgado un convenio en el que se fijen los siguientes puntos:
+Cuando uno de los cónyuges en un matrimonio celebrado bajo el régimen de separación de bienes se hubiere dedicado preponderantemente al cuidado de los hijos o al desempeño del trabajo del hogar, podrá reclamar una compensación pecuniaria que no podrá exceder del cincuenta por ciento del valor de los bienes que se hubieren adquirido durante el matrimonio.
 
-I. Designación de la persona a quien sean confiados los hijos del matrimonio menores de edad, tanto durante el procedimiento como después de ejecutoriado el divorcio.
+El juzgador que conozca de la reclamación resolverá atendiendo a las circunstancias de cada caso.
 
-II. El modo de subvenir a las necesidades de los hijos, tanto durante el procedimiento como después de ejecutoriado el divorcio; y la garantía que debe darse para asegurar esta obligación.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-III. La casa que servirá de habitación a cada uno de los cónyuges durante el procedimiento.
-
-IV. La cantidad que a título de alimentos un cónyuge debe pagar al otro durante el procedimiento, la forma de hacer el pago y la garantía que debe darse para asegurarlo.
-
-V. La manera de administrar los bienes de la sociedad conyugal durante el procedimiento, y la de liquidar dicha sociedad después de ejecutoriado el divorcio. A ese efecto se acompañará un inventario y avalúo de todos los bienes muebles o inmuebles de la sociedad.
-
-> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2011)</small>
-
-VI. Compromiso expreso de los cónyuges de no realizar actos de manipulación sobre los menores tendientes a provocar rechazo, rencor o distanciamiento hacia el otro cónyuge.
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2013)</small>
 
 ###### ARTÍCULO 369.
 
-El divorcio por mutuo consentimiento no puede pedirse sino pasados dos años de la celebración del matrimonio.
+El cónyuge que estime haber sufrido daño moral o afectación en los derechos de la personalidad con motivo y por el tiempo que estuvo unido en matrimonio, podrá ejercer la acción prevista en el artículo 1895 de este Código, en contra de quien fue su cónyuge.
+
+Se presumirá el daño moral y, por tanto, habrá lugar a la indemnización, además de los casos previstos en el párrafo segundo del artículo de referencia, cuando un cónyuge:
+
+I. Cometa delito doloso que merezca pena corporal en perjuicio del otro cónyuge o de sus hijos menores de edad o incapaces.
+
+II. Ejerza violencia o intimidación en el seno del hogar común.
+
+III. Oculte deliberadamente padecer sífilis, síndrome de inmunodeficiencia adquirida, tuberculosis, enfermedad crónica e incurable que sea, además, contagiosa y hereditaria.
 
 > <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2006)</small>
 
@@ -2473,49 +2447,93 @@ Una vez ratificada, el Oficial del Registro Civil los declarará divorciados, le
 
 No surtirá efectos legales el divorcio administrativo, si se comprueba que los cónyuges son menores de edad, tienen hijos menores, o mayores de edad incapaces, o que requieran de alimentos, o si alguno de los cónyuges requiere alimentos, o la sociedad conyugal no está liquidada; además, se harán acreedores a la sanción a que haya lugar.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2013)</small>
 
 ###### ARTÍCULO 370.
 
-Mientras que se decrete el divorcio, el juez autorizará la separación de los cónyuges de una manera provisional y dictará las medidas necesarias para asegurar la subsistencia de los hijos a quienes haya obligación de dar alimentos, garantizar el desarrollo físico y emocional de los menores y los bienes del consorte.
+La acción prevista en el artículo anterior podrá reclamarla el cónyuge afectado en el mismo juicio de divorcio o en juicio destacado ante el juez de lo familiar, siempre y cuando los hechos hayan acontecido dentro del año inmediato anterior a la reclamación.
 
-> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2011)</small>
+Si la afectación se produce en perjuicio de menores o incapaces, la acción podrá ser promovida por sus representantes legales o el Ministerio Público en cualquier momento y por los propios hijos dentro del año siguiente en que adquieran la mayoría de edad o que cese su incapacidad.
 
-En tanto se decrete el divorcio, los cónyuges deben evitar cualquier acto de manipulación encaminado a producir en los hijos rencor o distanciamiento hacia el otro cónyuge. La presencia de todo acto de este tipo será valorado por cualquier instancia especializada a solicitud del juez, preferentemente por el Centro de Evaluación Psicosocial del Poder Judicial del Estado, y considerado por aquél en su resolución.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2011)</small>
-
-Una vez decretado el divorcio, la misma actitud deberá ser observada por los padres
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2013)</small>
 
 ###### ARTÍCULO 371.
 
-Los cónyuges que hayan solicitado el divorcio por mutuo consentimiento, podrán reunirse de común acuerdo en cualquier tiempo, con tal de que el divorcio no hubiere sido decretado. No podrán volver a solicitar el divorcio por mutuo consentimiento sino pasados dos años desde su reconciliación.
+La muerte de uno de los cónyuges antes de la declaración de disolución del vínculo matrimonial pone fin al juicio de divorcio, y los herederos del de cujus tienen los mismos derechos y obligaciones que tendrían si no hubiese existido dicho juicio.
+
+Si la muerte ocurre después de la referida declaración, el juicio seguirá su curso por los herederos solo por lo que hace a los derechos y obligaciones transmisibles por sucesión.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2013)</small>
 
 ###### ARTÍCULO 372.
 
-El cónyuge que no quiera pedir el divorcio fundado en las causas enumeradas en las fracciones VI y VIII del artículo 363 podrá, sin embargo, solicitar, en juicio ordinario, que se suspenda su obligación de cohabitar con el otro cónyuge y el juez, con conocimiento de causa podrá decretar esa suspensión, quedando subsistentes las demás obligaciones creadas por el matrimonio.
+La resolución que fije la situación de los hijos menores de edad o mayores incapaces deberá contener las siguientes disposiciones:
+
+I. Todo lo relativo a los derechos inherentes a la guarda y custodia, así como a las obligaciones de crianza y el derecho de los hijos a convivir con ambos progenitores, atendiendo en todo momento al interés de los hijos y a la aptitud física y moral de los padres, a cuyo efecto deberá oír a estos y a los hijos, y en caso de estimarlo necesario a los abuelos, tíos o hermanos mayores;
+
+II. Todas las medidas necesarias para protegerlos de actos de violencia familiar o cualquier otra circunstancia que lastime u obstaculice su desarrollo armónico y pleno.
+
+III. La determinación y aseguramiento de los alimentos que los excónyuges tienen obligación de contribuir, en proporción a sus bienes o ingresos, a favor de los hijos, incluyendo el caso de que la mujer se encuentre encinta.
+
+IV. Para el caso de los mayores incapaces sujetos a la tutela de alguno de los ex cónyuges, las medidas a que se refiere este articulo para su protección
+
+V. Las demás que sean necesarias para garantizar el bienestar, el desarrollo, la protección y el interés de los hijos menores de edad.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2013)</small>
 
 ###### ARTÍCULO 373.
 
-El divorcio sólo puede ser demandado por el cónyuge que no haya dado causa a él, y dentro de los seis meses siguientes al día en que hayan llegado a su noticia los hechos en que se funde la demanda, excepto cuando las causales sean de tracto sucesivo o de realización continuada, caso en el cual los seis meses se contarán a partir de la fecha en que haya tenido conocimiento de que ha cesado dicha situación.
+La resolución que determine lo referente al régimen patrimonial del matrimonio deberá contener las siguientes disposiciones:
 
-En el caso previsto por la fracción XIX del artículo 363 cualquiera de los cónyuges podrá demandar el divorcio.
+I. Lo relativo a la división de los bienes y las precauciones necesarias para asegurar las obligaciones que queden pendientes entre los ex cónyuges o con relación a los hijos.
 
-En los casos de ausencia judicialmente declarada, podrá plantear la acción en cualquier momento el cónyuge presente.
+II. Lo referente a la compensación que prevé el artículo 368 de este código, atendiendo a las circunstancias especiales de cada caso, si hubiere desacuerdo sobre su procedencia y términos.
 
-La reaparición del ausente no priva de efectos al divorcio decretado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2013)</small>
 
 ###### ARTÍCULO 374.
 
-El perdón expreso o tácito del cónyuge ofendido extingue la acción de divorcio necesario.
+Procede el divorcio administrativo cuando se satisfagan los siguientes requisitos:
 
-Con excepción de las causales por enfermedad, ninguna podrá alegarse para pedir el divorcio cuando haya mediado perdón expreso o tácito.
+a. Ambos cónyuges convengan en divorciarse y sean mayores de edad;
 
-Una solicitud de divorcio por mutuo consentimiento no se considerará como perdón expreso o tácito, de modo que, en su caso, podrá continuarse el procedimiento contencioso.
+b. Hayan liquidado la sociedad conyugal de bienes, si están casados bajo este régimen patrimonial;
+
+c. La cónyuge no esté embarazada, y
+
+d. No tengan hijos en común, o teniéndolos, sean mayores de edad y estos o alguno de los cónyuges no requieran alimentos.
+
+El Oficial del Registro Civil, previa identificación de los cónyuges, levantará acta en que hará constar la solicitud de divorcio y citará a estos para que la ratifiquen a los 15 días. Si los cónyuges la ratifican, el Oficial los declarará divorciados y hará la anotación marginal correspondiente en la de matrimonio.
+
+Si se comprueba que los cónyuges no cumplen con los supuestos exigidos, procede la nulidad del divorcio así obtenido.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2013)</small>
 
 ###### ARTÍCULO 375.
 
-La reconciliación de los cónyuges pone fin al juicio de divorcio en cualquier estado en que se encuentre, si aún no hubiere sentencia ejecutoria. En este caso, los interesados deberán denunciar su reconciliación al juez, sin que la omisión de esta denuncia destruya los efectos producidos por la reconciliación.
+El cónyuge podrá solicitar que se suspenda su obligación de cohabitar con el otro cónyuge cuando éste tenga alguno de los siguientes padecimientos:
+
+I. Cualquier enfermedad incurable que sea, además, contagiosa o hereditaria;
+
+II. Impotencia sexual irreversible, siempre y cuando no tenga su origen en la edad avanzada, o
+
+III. Trastorno mental incurable, previa declaración de interdicción que se haga respecto del cónyuge enfermo.
+
+En estos casos el juez podrá decretar esa suspensión, con conocimiento de causa, quedando subsistentes las demás obligaciones derivadas del matrimonio.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
@@ -2523,83 +2541,61 @@ La reconciliación de los cónyuges pone fin al juicio de divorcio en cualquier 
 
 ###### ARTÍCULO 376.
 
-El cónyuge que no haya dado causa al divorcio, puede, antes de que se pronuncie la sentencia que ponga fin al litigio, desistirse de la acción; mas en este caso, no puede pedir de nuevo el divorcio por los mismos hechos que motivaron el juicio anterior, pero sí por otros nuevos, aunque sean de la misma especie.
+(DEROGADO, P.O. 5 DE ABRIL DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 377.
 
-Al admitirse la demanda de divorcio, o antes si hubiere urgencia, se dictarán provisionalmente y sólo mientras dure el juicio, las disposiciones siguientes:
+(DEROGADO, P.O. 5 DE ABRIL DE 2013)
 
-I. Proceder a la separación de los cónyuges, de conformidad con el Código Procesal Civil y, en su caso, prohibir al cónyuge ir al domicilio o al lugar en el que el otro se encuentre, apercibiéndolo de que se abstenga de impedir la separación, salvo que el juez, tomando en cuenta las circunstancias del caso, decida lo contrario.
-
-II. Señalar y asegurar los alimentos que debe dar el deudor alimentario al cónyuge acreedor y a los hijos.
-
-III. Las que se estimen convenientes para que los cónyuges no se puedan causar perjuicio en su integridad personal, en su honor, en sus respectivos bienes ni en los de la sociedad conyugal, o en los de sus hijos, en su caso.
-
-IV. Dictar, en su caso, las medidas precautorias que la ley establece respecto a la mujer que quede encinta.
-
-> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2005)</small>
-
-V. Poner a los hijos al cuidado de la persona que de común acuerdo hubieren designado los cónyuges, pudiendo ser uno de estos. En defecto de ese acuerdo, el cónyuge que pida el divorcio, propondrá a la persona o personas en cuyo poder deben quedar provisionalmente los menores. Tratándose de menores de siete años, quedarán al cuidado de la madre, salvo que ello no sea conveniente porque represente un riesgo para su integridad física, salvo que ello no sea conveniente porque represente un riesgo para su integridad física, moral o emocional. El juez en cualquier tiempo y antes de que provea en definitiva, podrá prudentemente modificar sus determinaciones estableciendo las modalidades y medidas que estimen necesarias en beneficio de los mayores y de los bienes de estos; y sin más limitación que este mismo beneficio, puede confiar la custodia de los menores a un tercero o a una institución de asistencia social y la administración de los bienes a una institución de crédito o a cualquier persona física o moral que, a juicio del juez, pueda cumplir con esta función.
-
-> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2011)</small>
-
-VI. Apercibir a los cónyuges de evitar cualquier acto de manipulación, encaminado a producir en un menor de edad rencor o rechazo hacia el otro progenitor.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 378.
 
-La sentencia de divorcio fijará la situación de los hijos menores. El juez resolverá todo lo relativo a los derechos y obligaciones inherentes a la patria potestad, su pérdida, suspensión o limitación, atendiendo en todo momento al interés de los hijos y a la aptitud física y moral de los padres, a cuyo efecto deberá oír a éstos y a los hijos, y en caso de estimarlo necesario, a los abuelos, tíos o hermanos mayores.
+(DEROGADO, P.O. 5 DE ABRIL DE 2013)
 
-Si ninguno de los progenitores está capacitado para ejercer la patria potestad o asumir la custodia de los hijos, el juez llamará al ascendiente que corresponda, y si tampoco se le considera idóneo se proveerá al menor de un tutor. El juez fundará y motivará su resolución con especial cuidado.
-
-Ambos progenitores acordarán las modalidades del derecho de convivencia con los hijos. En caso de desacuerdo será el juez quien fije tales modalidades en ejecución de sentencia, con audiencia de quien ejerza la patria potestad y del otro progenitor o progenitores.
-
-> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2011)</small>
-
-Dentro de la convivencia, de manera recíproca deberá evitarse todo acto de manipulación de parte de cualquiera de los progenitores o ascendientes encaminado a producir en un menor de edad rechazo, rencor o distanciamiento hacia el otro progenitor. Cuando el Juez tenga conocimiento de este tipo de actos tomará las medidas necesarias de seguridad, seguimiento y en su caso ordenará las terapias psicológicas procedentes con el fin de salvaguardar la integridad física y emocional del menor.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 379.
 
-El padre y la madre aunque pierdan la patria potestad, quedan sujetos a todas las obligaciones que tienen para con sus hijos.
+(DEROGADO, P.O. 5 DE ABRIL DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 380.
 
-El cónyuge que diere causa al divorcio perderá todo lo que se le hubiere dado o prometido por su consorte o por otra persona en consideración a éste; el cónyuge inocente conservará lo recibido y podrá reclamar lo pactado en su provecho.
+(DEROGADO, P.O. 5 DE ABRIL DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 381.
 
-Ejecutoriado el divorcio, se procederá desde luego a la división de los bienes comunes y se tomarán las precauciones necesarias para asegurar las obligaciones que queden pendientes entre los divorciantes y con relación a los hijos.
+(DEROGADO, P.O. 5 DE ABRIL DE 2013)
 
-Los consortes divorciados tendrán obligación de contribuir, en proporción a sus bienes e ingresos, a las necesidades de los hijos y a su subsistencia y educación.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 382.
 
-En los casos de divorcio necesario, el juez, tomando en cuenta las circunstancias del caso, y entre ellas la capacidad para trabajar de los cónyuges y su situación económica, sentenciará al culpable al pago de alimentos en favor del inocente.
+(DEROGADO, P.O. 5 DE ABRIL DE 2013)
 
-Este derecho lo disfrutará por un lapso igual al de la duración del matrimonio, siempre y cuando viva honestamente, no contraiga nupcias, o se una en concubinato.
-
-No obstante lo anterior, el juez tomando en cuenta las circunstancias del caso podrá aumentar, disminuir o cancelar la obligación de dar alimentos al inocente.
-
-Además, cuando por el divorcio se originen daños o perjuicios a los intereses del cónyuge inocente, el culpable responderá de ellos como autor de un hecho ilícito.
-
-Cuando el divorcio sea decretado por las causas establecidas en las fracciones VI, VII y VIII del artículo 363, el cónyuge enfermo tendrá derecho a alimentos a cargo del sano, si carece de bienes y está imposibilitado para trabajar.
-
-En el divorcio por mutuo consentimiento, salvo pacto en contrario, los cónyuges no tienen derecho a pensión alimenticia ni a la indemnización que concede este artículo.
-
-> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 383.
 
-En virtud del divorcio, los cónyuges recobrarán su entera capacidad para contraer nuevo matrimonio.
+(DEROGADO, P.O. 5 DE ABRIL DE 2013)
 
-El cónyuge que haya dado causa al divorcio no podrá volver a casarse sino después de dos años, a contar desde que la sentencia de divorcio causó ejecutoria. Para que los cónyuges que se divorcien voluntariamente, puedan volver a contraer matrimonio es indispensable que haya trascurrido un año.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 384.
 
-La muerte de uno de los cónyuges pone fin al juicio de divorcio, y los herederos del muerto tienen los mismos derechos y obligaciones que tendrían si no hubiese existido dicho juicio.
+(DEROGADO, P.O. 5 DE ABRIL DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 385.
 
-Ejecutoriada una sentencia de divorcio, el Juez de Primera Instancia remitirá copia certificada de la sentencia y los datos de identificación de las actas de nacimiento y matrimonio de los divorciados, al Oficial ante quien se celebró el matrimonio y a la Dirección Estatal del Registro Civil, para que se proceda a levantar el acta de divorcio por el primero, y a realizar las anotaciones marginales correspondientes por ambos.
+(DEROGADO, P.O. 5 DE ABRIL DE 2013)
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE ENERO DE 2007)</small>
 
@@ -3973,7 +3969,11 @@ b) El juez decidirá quién deba hacerse cargo de la guarda de los mayores de si
 
 c) Los mayores de catorce años elegirán cuál de ambos padres debe hacerse cargo de ellos y si éstos no eligen, el juez decidirá quién deba hacerse cargo de ellos.
 
-III. En caso de divorcio necesario se estará a lo que disponga la sentencia que lo decrete.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2013)</small>
+
+III. En caso de divorcio se estará a lo que disponga la autoridad judicial
 
 ###### ARTÍCULO 553.
 
@@ -3984,6 +3984,18 @@ Lo dispuesto en las fracciones I y II del artículo anterior no impide al juez e
 ###### ARTÍCULO 554.
 
 En los casos de los artículos 472, 473 y 552, cuando la guarda y custodia corresponda sólo al padre o a la madre, o sólo a uno de los abuelos, convendrán aquellos o éstos, el tiempo, modo y lugar en que podrán visitar a los menores y comunicarse con éstos el ascendiente con el que no viva el menor y, si no llegaren a un acuerdo, resolverá el juez estas cuestiones.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2013)</small>
+
+Dentro de la convivencia de los padres, en matrimonio o divorciados, de manera recíproca deberá evitarse todo acto de manipulación de parte de cualquiera de los progenitores o ascendentes encaminado a producir en un menor de edad rechazo, rencor o distanciamiento hacia el otro progenitor.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2013)</small>
+
+Cuando el juez tenga conocimiento de este tipo de actos tomará las medidas necesarias de seguridad, seguimiento y en su caso ordenará las terapias psicológicas procedentes con el fin de salvaguardar la integridad física y emocional del menor.
 
 ###### ARTÍCULO 555.
 
@@ -20829,6 +20841,8 @@ Las facultades y obligaciones a que se refiere este decreto, que en otras leyes,
 
 Se derogan las disposiciones que se opongan al presente decreto.
 
+(NOTA: EL 7 DE JUNIO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 295/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 748, POR EL QUE SE REFORMAN LOS ARTÍCULOS 782, 783 Y 784 DEL CÓDIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADO EN EL PERIÓDICO OFICIAL DE DICHA ENTIDAD FEDERATIVA EL VEINTE DE OCTUBRE DE DOS MIL VEINTE, LA CUAL SURTIRÁ EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE COAHUILA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
 P.O. 26 DE JUNIO DE 2012.
 
 PRIMERO.- El presente decreto entrará en vigor a los 30 días hábiles siguientes a su publicación en el Periódico Oficial del Gobierno del Estado.
@@ -20842,3 +20856,13 @@ TERCERO.- Las adopciones que a la entrada en vigor del presente decreto, se encu
 CUARTO.- En los juicios y procedimientos de rectificación y aclaración de actas del registro civil que se encuentren en trámite a la entrada en vigor del presente decreto, será potestativo para las partes acogerse a las reformas establecidas en el mismo o, en su caso, seguir rigiéndose por las disposiciones anteriores a su publicación, hasta en tanto hayan concluido en su totalidad.
 
 QUINTO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 5 DE ABRIL DE 2013.
+
+PRIMERO.- El presente decreto entrará en vigor a los 60 días siguientes al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- En los juicios de divorcio, en ambas instancias, que se encuentren pendientes de resolución definitiva que las resuelva, será potestativo para cualquiera de las partes solicitar a la autoridad judicial que conoce la instancia, solicitar la disolución del vínculo matrimonial; de ser así, el juez o magistrado procederá conforme a las disposiciones del presente decreto de reformas.
+
+Si existe otra pretensión en los juicios pendientes de resolución distinta a la disolución del vínculo matrimonial, el juzgador seguirá el trámite del juicio en relación a estos puntos litigiosos conforme a las disposiciones procesales aplicables y anteriores al presente decreto, hasta resolver en definitiva según corresponda, sin perjuicio de que decrete la disolución del vínculo matrimonial.
+
+TERCERO.- Se derogan las disposiciones que se opongan al presente decreto.
