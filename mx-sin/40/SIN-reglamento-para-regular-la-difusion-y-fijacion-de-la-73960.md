@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-para-regular-la-difusion-y-fijacion-de-la-73960"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-03-17"
-last_updated: "2010-03-17"
+last_updated: "2013-04-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73960&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SIN"
 ---
 # REGLAMENTO PARA REGULAR LA DIFUSION Y FIJACION DE LA PROPAGANDA DURANTE EL PROCESO ELECTORAL
 
-REGLAMENTO PARA REGULAR LA DIFUSION Y FIJACION DE LA PROPAGANDA DURANTE EL PROCESO ELECTORAL
+REGLAMENTO PARA REGULAR LA DIFUSIÓN Y FIJACIÓN DE LA PROPAGANDA DURANTE EL PROCESO ELECTORAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el miércoles 17 de marzo de 2010.
 
@@ -127,19 +127,23 @@ La referida propaganda electoral sólo podrá fijarse, colocarse o colgarse en l
 
 El Consejo resolverá las controversias y desahogará las dudas que se presenten con motivo de la interpretación y aplicación de este Reglamento, sujetándose a lo dispuesto en los artículos 2, párrafo segundo y 56 fracción XXV de la Ley.
 
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2013)</small>
+
 ###### ARTÍCULO 6.
 
-Queda prohibida durante los periodos de precampañas y campañas electorales, la distribución gratuita u onerosa de despensas, materiales de construcción, medicamentos, servicios médicos, aparatos ortopédicos, lentes, enseres domésticos y bebidas alcohólicas, por parte de los Partidos Políticos, coaliciones, aspirantes a candidatos, precandidatos, candidatos, por ellos o por interpósita persona.
+Queda prohibido desde el inicio de las precampañas hasta la conclusión de la jornada electoral, la distribución gratuita u onerosa de despensas, materiales de construcción, medicamentos, servicios médicos, aparatos ortopédicos, lentes, enseres domésticos y bebidas alcohólicas, por parte de los Partidos Políticos, coaliciones, aspirantes a candidatos, precandidatos, candidatos, por ellos o por interpósita persona.
 
-Los Partidos Políticos podrán otorgar en todo momento, incluyendo precampañas y campañas electorales, servicio médico y asesoría legal gratuitos en sus domicilios, sin que esto contravenga lo establecido en el Artículo 36.1 del Reglamento de Fiscalización de los recursos de los Partidos Políticos.
+Los Partidos Políticos podrán otorgar en todo momento, incluyendo precampañas y campañas electorales, servicio médico y asesoría legal gratuitos en sus domicilios registrados ante el Consejo Estatal Electoral, sin que esto contravenga lo establecido en el Artículo 36.1 del Reglamento de Fiscalización de los recursos de los Partidos Políticos.
 
 ###### ARTÍCULO 7.
 
 En la elaboración, fijación o colocación de propaganda de precampaña y campaña electoral no podrán emplearse sustancias tóxicas ni materiales que impliquen un posible riesgo directo para la salud de las personas, que contaminen el medio ambiente o que puedan deteriorar plantas de ornato, palmeras y árboles.
 
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2013)</small>
+
 ###### ARTÍCULO 8.
 
-Los Partidos Políticos, coaliciones, aspirantes a candidatos, precandidatos y candidatos, deberán de abstenerse de distribuir propaganda de precampaña o de campaña electoral que se contenga o esté impresa en despensas alimenticias, aceites comestibles, en materiales de construcción, en alimentos enlatados, empaquetados y embotellados (excepto agua contenida en recipientes de uso personal).
+Los Partidos Políticos, coaliciones, aspirantes a candidatos, precandidatos y candidatos, podrán distribuir propaganda de precampaña o de campaña electoral que se contenga o esté impresa en recipientes que contengan cualquier líquido de uso personal, excepto los de contenido alcohólico.
 
 ###### ARTÍCULO 9.
 
@@ -149,23 +153,25 @@ Los Partidos Políticos, coaliciones, aspirantes a candidatos, precandidatos y c
 
 Los Partidos Políticos y coaliciones participaran en la recolección de la propaganda de precampaña y campaña electoral para su procesamiento, utilizando preferentemente el procedimiento de reciclaje.
 
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2013)</small>
+
 ###### ARTÍCULO 11.
 
-Es derecho exclusivo de los Partidos Políticos y coaliciones, por conducto del órgano electoral, contratar espacios en los medios de comunicación impresos para difundir mensajes orientados a la obtención del voto durante las precampañas y campañas electorales, en los terminas de lo dispuesto por el Artículo 46 Bis y demás relativos de la Ley.
+Es derecho exclusivo de los Partidos Políticos y coaliciones, por conducto del órgano electoral, contratar espacios en los medios de comunicación impresos para difundir mensajes orientados a la obtención del voto durante las precampañas y campañas electorales, en los términos de lo dispuesto por el artículo 46 Bis y demás relativos de la Ley.
 
-Queda prohibida (sic) a los Partidos Políticos, coaliciones, aspirantes a candidatos, precandidatos, candidatos o terceros, contratar por sí o por interpósita persona en medios de comunicación impresos y electrónicos, propaganda de precampaña electoral o propaganda electoral, durante el proceso electoral.
+Queda prohibido a los Partidos Políticos, coaliciones, aspirantes a candidatos, precandidatos, candidatos o terceros, contratar por sí o por interpósita persona en medios de comunicación impresos, radio y televisión propaganda de precampaña electoral o propaganda electoral, durante el proceso electoral.
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2013)</small>
 
 ###### ARTÍCULO 12.
 
 La propaganda de precampaña electoral o la propaganda electoral que por cualquier medio realicen los aspirantes a candidatos y simpatizantes, los Partidos Políticos, coaliciones, sus candidatos y simpatizantes, deberán referirse:
 
-I. Durante la precampaña electoral: A la presentación y difusión de sus propuestas ante la sociedad y los militantes del Partido Político o coalición por el que aspiran ser nominados.
+l. Durante la precampaña electoral: A la presentación y difusión de sus propuestas ante la sociedad y los militantes del Partido Político o coalición por el que aspiran ser nominados.
 
 II. Durante la campaña electoral: A la difusión de sus respectivas plataformas electorales, programas de acción y/o plan de gobierno, así como al análisis de los temas de interés, su posición ante ellos, propuestas a la sociedad y a los militantes de sus Partidos Políticos o coaliciones.
 
 En su propaganda electoral, se abstendrán de usar frases similares o alusivas a las utilizadas públicamente por cualquiera de las instancias de gobierno.
-
-Asimismo deberán evitar la utilización de las mismas frases, marcas, denominaciones, logos y jingles posicionados a través de mensajes en los medios de comunicación.
 
 ###### ARTÍCULO 13.
 
@@ -189,11 +195,13 @@ IV. Fijarse, colocarse, colgarse o pintarse, ni distribuirse en el interior y ex
 
 V. Fijarse, colocarse, colgarse o pintarse, en los cinco días anteriores al de la jornada electoral, en un radio de cincuenta metros de los lugares en que deberán ubicarse las mesas directivas de casilla.
 
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2013)</small>
+
 ###### ARTÍCULO 16.
 
-Además de lo preceptuado en el Artículo anterior, queda prohibido que la propaganda se fije o se pinte en elementos del equipamiento urbano, carretero o ferroviario, ni en accidentes orográficos cualquiera que sea su régimen jurídico, tales como cerros, colinas, montañas y en general cuando se modifique el paisaje natural y urbano o perjudique el entorno ecológico.
+Además de lo preceptuado en el artículo anterior, queda prohibido que la propaganda se fije o se pinte en elementos del equipamiento urbano, carretero o ferroviario, ni en accidentes orográficos cualquiera que sea su régimen jurídico, tales como cerros, colinas, montañas y en general cuando se modifique el paisaje natural y urbano o perjudique el entorno ecológico.
 
-Entendiendo por fijar: “colocar la propaganda de una manera fija y estable, de tal suerte que no pueda moverse o desprenderse fácilmente", por tanto, en el periodo de precampaña y campaña electoral está permitido colgar propaganda en los postes siempre y cuando penda de cuerdas, alambres o cualquier otro accesorio fácilmente removible y no dañe el equipamiento urbano, no impida la visibilidad de conductores de vehículos, ni la circulación de peatones.
+Entendiendo por fijar: “colocar la propaganda de una manera fija y estable, de tal suerte que no pueda moverse o desprenderse fácilmente”; por tanto, en el periodo de campaña electoral está permitido colgar propaganda en el equipamiento urbano, siempre y cuando penda de cuerdas o cualquier otro accesorio fácilmente removible y no dañe el mismo, no impida la visibilidad de conductores de vehículos, ni la circulación de peatones.
 
 Adicionalmente durante el periodo de precampaña no se podrá fijar o pintar propaganda en lugares de uso común.
 
@@ -269,29 +277,35 @@ Las campañas electorales para Gobernador iniciarán cincuenta y un días antes 
 
 En la propaganda electoral que utilicen los candidatos durante las campañas procurarán contener la fecha de la jornada electoral.
 
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2013)</small>
+
 ###### ARTÍCULO 25.
 
-Los partidos políticos deberán solicitar el registro de su plataforma electoral ante el Consejo, en los términos a que se refieren los Artículos 3 de este Reglamento, 30 fracción VII, 56 fracción XV, a más tardar el diez de mayo del año de la elección.
+Los partidos políticos deberán solicitar el registro de su plataforma electoral ante el Consejo, en los términos a que se refieren los artículos 3 fracción XIII de este Reglamento, 30 fracción VII, 56 fracción XV, de la Ley Electoral del Estado de Sinaloa, a más tardar el diez de mayo del año de la elección.
 
-En caso de coalición para Gobernador se deberé solicitar el registro de su plataforma a más tardar el veinte de abril del año de la elección.
+En caso de coalición para Gobernador se deberá solicitar el registro de su plataforma a más tardar el veinte de abril del año de la elección.
 
 En caso de coalición para Diputados y Presidente Municipal, Síndico Procurador y Regidores se deberá realizar el registro de su plataforma a más tardar el treinta de abril del año de la elección.
 
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2013)</small>
+
 ###### ARTÍCULO 26.
 
-Queda prohibida la difusión, fijación, colocación y distribución de propaganda electoral para el caso de precandidatos a Gobernador, así como la realización de actos de campaña, durante el periodo comprendido entre el primero y el trece de mayo del año de la elección y para el caso de los precandidatos a Diputados, Presidente Municipal, Sindico Procurador y Regidores, entre el once y el veinticinco de mayo del año de la elección.
+Queda prohibida la difusión, fijación, colocación y distribución de propaganda electoral para el caso de precandidatos a Gobernador, Diputados, Presidente Municipal, Síndico Procurador y Regidores, así como actos de campaña a partir del día siguiente al que concluya el periodo de precampaña y hasta el día anterior al inicio del correspondiente a campaña.
 
 Los actos alusivos que organicen los partidos políticos, coaliciones o sus precandidatos, el día que soliciten el registro de candidaturas ante el órgano electoral correspondiente, se referirán única y exclusivamente al lugar, fecha y hora de dicha solicitud de registro y su trayecto al referido órgano.
 
-Los partidos políticos, coaliciones y candidatos deberán retirar toda propaganda electoral de manera inmediata al concluir el acto en el que se solicite el registro de la candidatura correspondiente. En caso contrario se aplicará por analogía lo establecido en el Artículo 117 Bis N de la Ley, en cuanto al inmediato retiro, por parte de la autoridad electoral o administrativa correspondiente, independientemente de las sanciones a las que pudieran hacerse acreedores los infractores por infringir los ordenamientos legales en materia de propaganda electoral.
+Los partidos políticos, coaliciones y candidatos deberán retirar toda propaganda electoral de manera inmediata al concluir el acto en el que se solicite el registro de la candidatura correspondiente. En caso contrario se aplicará por analogía lo establecido en el Artículo 117 bis N de la Ley, en cuanto al inmediato retiro, por parte de la autoridad electoral o administrativa correspondiente, independientemente de las sanciones a las que pudieran hacerse acreedores los infractores por infringir los ordenamientos legales en materia de propaganda electoral.
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2013)</small>
 
 ###### ARTÍCULO 27.
 
 Los Consejos Distritales Electorales promoverán la celebración de un convenio con las autoridades municipales mediante el cual pondrán a disposición del órgano electoral el inventario de los espacios públicos o lugares de uso común susceptibles para la instalación, colocación, fijación y pinta de bastidores y/o mamparas con propaganda electoral propiedad de los partidos políticos o coaliciones.
 
-Una vez celebrado el convenio, los Consejos Distritales durante el mes de abril realizaran el sorteo en condiciones de igualdad para la distribución de esos espacios o lugares de uso común.
+Una vez celebrado el convenio, los Consejos Distritales durante el mes de mayo realizarán el sorteo en condiciones de igualdad para la distribución de esos espacios o lugares de uso común.
 
-En ningún caso el inventario de espacios y lugares de uso común deberá contemplar aquellos que se encuentran establecidos en el Artículo 117 Bis J párrafo tercero de la Ley.
+En ningún caso el inventario de espacios y lugares de uso común deberá contemplar aquellos que se encuentran establecidos en el artículo 117 Bis J párrafo tercero de la Ley.
 
 Asignados los lugares de uso común, el Consejo Distrital respectivo notificará el resultado del sorteo al Consejo.
 
@@ -364,3 +378,19 @@ Toda infracción que implique la implementación del procedimiento administrativ
 PRIMERO.- El presente Reglamento para regular la difusión y fijación de propaganda durante el proceso electoral, deberá publicarse en el Periódico Oficial <<El Estado de Sinaloa>>.
 
 SEGUNDO.- El presente Reglamento entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial <<El Estado de Sinaloa>>, abrogándose en consecuencia el Reglamento para regular la difusión y fijación de la propaganda de precampaña y campaña electoral aprobado por el Pleno del Consejo Estatal Electoral el veinticinco de mayo de 2007.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 5 DE ABRIL DE 2013.
+
+ACUERDO MEDIANTE EL CUAL SE MODIFICAN LOS ARTÍCULOS 6, 8, 11, 12, 16, 25, 26 Y 27 DEL REGLAMENTO PARA REGULAR LA DIFUSIÓN Y FIJACIÓN DE LA PROPAGANDA DURANTE EL PROCESO ELECTORAL.
+
+PRIMERO. Se aprueba el proyecto de acuerdo mediante el cual se modifican los artículos 6, 8, 11, 12, 16, 25, 26 y 27 del Reglamento para Regular la Difusión y Fijación de la Propaganda Durante El Proceso Electoral conforme al (Anexo Único).
+
+SEGUNDO. Notifíquese personalmente a los Partidos Políticos acreditados ante el Consejo Estatal Electoral, salvo que se encuentren en el supuesto del artículo 239 de la Ley.
+
+TERCERO. Notifíquese el presente acuerdo a los Consejos Distritales y Municipales Electorales para los efectos legales a que haya lugar.
+
+CUARTO. Publíquese en el Periódico Oficial "El Estado de Sinaloa".
+
+QUINTO. Las modificaciones al Reglamento para Regular la Difusión y Fijación de la Propaganda durante el Proceso Electoral, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial <<El Estado de Sinaloa>>.
