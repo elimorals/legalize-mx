@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-procedimientos-civiles-para-el-estado-de-san-luis-790
 country: "mx"
 rank: "codigo"
 publication_date: "1947-06-19"
-last_updated: "2012-12-06"
+last_updated: "2013-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7904&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2013.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 19 de junio de 1947.
 
@@ -1791,9 +1791,9 @@ XX.- Los demás en que así lo determine la Ley.
 
 ART. 415.- Para los efectos de la fracción I del artículo anterior, se estará a lo dispuesto en los artículos 156 y 157 de este Código. Si en la demanda no se fija el valor del negocio, se tendrá como tal el que aparezca en los documentos en que se funde la acción; y si tampoco aparece de ellos, el juez prevendrá al actor que precise el interés de su reclamación, cuando éste sea susceptible de estimación pecuniaria, sin cuyo requisito no dará curso a la demanda.
 
-> <small>(REFORMADO, P.O. 21 DE MAYO DE 2009)</small>
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2013)</small>
 
-ART. 416.- En los juicios extraordinarios el término para contestar la demanda será de tres días; el de ofrecimiento de pruebas de cinco; al de recepción de las mismas de quince; al de alegar de cinco para cada parte, y de cinco para que el juez dicte la sentencia.
+ART. 416.- En los juicios extraordinarios el término para contestar la demanda será de tres días; el de ofrecimiento de pruebas de cinco; el de recepción de las mismas de quince; el de alegar tres días comunes, y de cinco para que el juez dicte la sentencia.
 
 ART. 417.- Las reglas del juicio ordinario se aplicarán al juicio extraordinario en lo que no se oponga a lo dispuesto en el presente Capitulo. No son admisibles la reconvención o la compensación sino cuando las acciones en que se funden estuvieren también sujetas a juicio extraordinario.
 
@@ -4069,7 +4069,9 @@ ART. 956.- Los litigantes podrán pedir, sin necesidad de que el pleito se hubie
 
 ART. 957.- Solicitado el término de prueba, puede la contraparte oponerse a que se conceda, al contestar los agravios o bien el traslado que se le dé a conocer de la petición del apelado y el tribunal resolverá de plano, dentro del tercer día, concediendo o negando el término que no podrá exceder de veinte días, y calificando las pruebas que deban admitirse con arreglo a los artículos 955 y 956.
 
-ART. 958.- Expresados y contestados los agravios, transcurrido el término de la contestación sin que ésta se hubiere presentado, o concluída la recepción de las pruebas si se hubieren ofrecido, se pondrán los autos a la vista del apelante y del apelado, por su orden y por cinco días a cada uno para que aleguen. En el mismo auto se citará para sentencia que pronunciará el tribunal dentro de los diez días siguientes al que concluya el término de alegatos.
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2013)</small>
+
+ART. 958.- Expresados y contestados los agravios, transcurrido el término de la contestación sin que ésta se hubiere presentado, o concluida la recepción de las pruebas si se hubieren ofrecido, se pondrán los autos a la vista del apelante y del apelado, por tres días comunes para que aleguen. En el mismo auto se citará para sentencia que pronunciará el tribunal dentro de los diez días siguientes al que concluya el término de alegatos.
 
 ART. 959.- En los juicios extraordinarios la apelación se sustanciará con un solo escrito de cada parte y el informe en estrados, y la sentencia se dictará dentro de los tres días siguientes a la celebración de este.
 
@@ -5296,5 +5298,11 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente.
 P.O. 6 DE DICIEMBRE DE 2012.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 6 DE ABRIL DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
