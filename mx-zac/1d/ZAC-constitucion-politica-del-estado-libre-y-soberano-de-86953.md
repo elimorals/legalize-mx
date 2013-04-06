@@ -4,7 +4,7 @@ identifier: "ZAC-constitucion-politica-del-estado-libre-y-soberano-de-86953"
 country: "mx"
 rank: "constitucion"
 publication_date: "1998-07-11"
-last_updated: "2012-11-10"
+last_updated: "2013-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86953&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2013.
 
 Constitución publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 11 de julio de 1998.
 
@@ -2629,7 +2629,9 @@ Todos los servidores y empleados al servicio de los Poderes del Estado y de los 
 
 I. Se considera remuneración o retribución toda percepción en efectivo o en especie, incluyendo dietas, aguinaldos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones y cualquier otra, con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales;
 
-II. Ningún servidor público podrá recibir remuneración, en términos de la fracción precedente, por el desempeño de su función, empleo, cargo, comisión o responsabilidad, mayor a la establecida en el presupuesto correspondiente para quien sea Titular del Poder Ejecutivo del Estado.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ABRIL DE 2013)</small>
+
+II. Ningún servidor público podrá recibir remuneración, en términos de la fracción precedente, por el desempeño de su función, empleo, cargo, comisión o responsabilidad, mayor a la establecida para el Presidente de la República en el presupuesto correspondiente.
 
 En las administraciones municipales, ningún regidor, síndico, funcionario, director o coordinador de instituto descentralizado u organismo paramunicipal, consultor o asesor, podrá recibir remuneración mayor a la establecida en el presupuesto correspondiente para quien sea Titular de la Presidencia Municipal;
 
@@ -3023,7 +3025,7 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan a este Decreto.
 
 TERCERO.- Las remuneraciones de los servidores públicos que en el actual ejercicio sean superiores a la máxima establecida en el presente Decreto, deberán ser ajustadas o disminuidas en los presupuestos de egresos correspondientes al ejercicio fiscal del año siguiente a aquél en que haya entrado en vigor el presente Instrumento Legislativo.
 
-CUARTO.- Para los efectos de la base II del artículo 160 de este Decreto, la remuneración mensual que corresponde al Titular del Poder Ejecutivo del Estado, asciende a la cantidad de mil ochocientas cuotas de salario mínimo general vigente en el Estado de Zacatecas.
+CUARTO.- (DEROGADO, P.O. 6 DE ABRIL DE 2013)
 
 QUINTO.- Los Magistrados y Jueces, nombrados con anterioridad a la entrada en vigor del presente Decreto, sólo podrán mantener sus retribuciones nominales señaladas en sus respectivos presupuestos, durante el tiempo que dure su encargo y responsabilidad.
 
@@ -3039,11 +3041,17 @@ a) Los municipios se agruparán en las tres zonas que a continuación se precisa
 
 - Zona C.- Integrada por los municipios de Apozol, Apulco, Atolinga, Benito Juárez, Cañitas de Felipe Pescador, El Plateado de Joaquín Amaro, El Salvador, Genaro Codina, General Enrique Estrada, Jiménez del Teul, Huanusco, Melchor Ocampo, Mezquital del Oro, Momax, Moyahua de Estrada, Santa María de la Paz, Susticacán, Teúl de González Ortega, Tepetongo, Trinidad García de la Cadena y Vetagrande.
 
-b) Quienes sean Titulares de las Presidencias de los Municipios integrados en la Zona A percibirán, mensualmente, el equivalente de hasta novecientas veinte cuotas de salario mínimo diario general vigente en el Estado.
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2013)</small>
 
-c) Quienes sean Titulares de las Presidencias de los Municipios integrados en la Zona B percibirán, mensualmente, el equivalente de hasta seiscientas cuarenta cuotas de salario mínimo diario general vigente en el Estado.
+b) Quienes sean Titulares de las Presidencias de los Municipios integrados en la Zona A percibirán, mensualmente, el equivalente de hasta mil trescientos treinta y cuatro cuotas de salario mínimo diario general vigente en el Estado.
 
-d) Quienes sean Titulares de las Presidencias de los Municipios integrados en la Zona C percibirán, mensualmente, el equivalente de hasta trescientas setenta cuotas de salario mínimo diario general vigente en el Estado.
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2013)</small>
+
+c) Quienes sean Titulares de las Presidencias de los Municipios integrados en la Zona B percibirán, mensualmente, el equivalente de hasta novecientas veintiocho cuotas de salario mínimo diario general vigente en el Estado.
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2013)</small>
+
+d) Quienes sean Titulares de las Presidencias de los Municipios integrados en la Zona C percibirán, mensualmente, el equivalente de hasta quinientas treinta y seis cuotas de salario mínimo diario general vigente en el Estado.
 
 e) Quien sea Titular de la Sindicatura Municipal, integrante del Ayuntamiento, percibirá hasta las dos terceras partes de lo que perciba quien sea Titular de la correspondiente Presidencia Municipal y quien sea Titular de Regiduría, integrante del Ayuntamiento, percibirá hasta la mitad de lo que perciba quien sea Titular de la correspondiente Presidencia Municipal.
 
@@ -3076,3 +3084,9 @@ SEGUNDO.- En un plazo que no exceda de noventa días, contados a partir de la pu
 P.O. 10 DE NOVIEMBRE DE 2012.
 
 Único.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+P.O. 6 DE ABRIL DE 2013.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones que contravengan este Decreto.
