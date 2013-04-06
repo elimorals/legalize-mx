@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-instituto-de-las-mujeres-del-estado-de-san-luis-25507"
 country: "mx"
 rank: "ley"
 publication_date: "2002-03-14"
-last_updated: "2009-06-11"
+last_updated: "2013-04-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25507&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # LEY DEL INSTITUTO DE LAS MUJERES DEL ESTADO DE SAN LUIS POTOSI
 
-LEY DEL INSTITUTO DE LAS MUJERES, DEL ESTADO DE SAN LUIS POTOSI
+LEY DEL INSTITUTO DE LAS MUJERES, DEL ESTADO DE SAN LUIS POTOSÍ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JUNIO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2013.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 14 de marzo de 2002.
 
@@ -83,7 +83,9 @@ II. Lograr una sociedad respetuosa de los derechos de todas las personas, para p
 
 III. Extender los valores democráticos en la sociedad, para la convivencia armónica entre hombres y mujeres;
 
-IV. Difundir las garantías individuales que otorga el orden jurídico mexicano para fomentar en la sociedad una cultura de legalidad, con especial énfasis en las que determinan la igualdad del hombre y la mujer ante la ley;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2013)</small>
+
+IV. Difundir los derechos humanos y sus garantías, que otorga el orden jurídico mexicano para fomentar en la sociedad una cultura de legalidad, con especial énfasis en las que determinan la igualdad del hombre y la mujer ante la ley;
 
 V. Lograr que las oportunidades de trabajo para las mujeres se desarrollen en igualdad de oportunidades con respecto de los hombres, y que gocen de retribuciones justas a trabajo igual;
 
@@ -435,7 +437,7 @@ X. Emitir opiniones e informes que le sean solicitados por la Directora General,
 
 XI. Desempeñar las demás funciones que establezca el Reglamento Interno del Instituto.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 11 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE JUNIO DE 2009)</small>
 
 ### CAPITULO VII. Del Consejo Consultivo y Social
 
@@ -491,7 +493,7 @@ VI. Hacer llegar en todo tiempo al Instituto, para su atención, la información
 
 VII. Coadyuvar con la Junta Directiva en la formulación de los indicadores de desempeño del Instituto.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 11 DE JUNIO DE 2009)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE JUNIO DE 2009)</small>
 
 ### CAPITULO VIII. Del Consejo Social
 
@@ -563,13 +565,13 @@ NOVENO. Se derogan las disposiciones legales y reglamentarias que se opongan a l
 
 Lo tendrá entendido el Ejecutivo del Estado y lo hará publicar, circular y obedecer.
 
-DADO en el Salón de Sesiones del H. Congreso del Estado, el día ocho de marzo de dos mil dos.
+D A D O en el Salón de Sesiones del H. Congreso del Estado, el día ocho de marzo de dos mil dos.
 
 Diputado Presidente: Efraín Rodríguez Gallegos, Diputado Secretario: Angel Salas Alfaro, Diputado Secretario: Fernando Toranzo Fernández, (Rúbricas).
 
 Por tanto mando se cumpla y ejecute el presente Decreto y que todas las autoridades lo hagan cumplir y guardar y al efecto se imprima, publique y circule a quienes corresponda.
 
-DADO en el Palacio de Gobierno, Sede del Poder Ejecutivo del Estado Libre y Soberano de San Luis Potosí, a los once días del mes de marzo de dos mil dos.
+D A D O en el Palacio de Gobierno, Sede del Poder Ejecutivo del Estado Libre y Soberano de San Luis Potosí, a los once días del mes de marzo de dos mil dos.
 
 El Gobernador Constitucional del Estado
 
@@ -583,7 +585,7 @@ LIC. JORGE DANIEL HERNÁNDEZ DELGADILLO
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 16 DE SEPTIEMBRE DE 2003.
 
@@ -596,3 +598,9 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. El Ejecutivo del Estado deberá realizar las modificaciones que se deriven del presente Decreto, al Reglamento Interior del Instituto de las Mujeres del Estado de San Luis Potosí, dentro de los noventa días siguientes a la entrada en vigor del mismo.
 
 TERCERO. Las personas que a la entrada en vigor de este Decreto integran el Consejo Consultivo, y el Consejo Social, del Instituto de las Mujeres, seguirán desempeñando su cargo hasta en tanto la Junta Directiva emita la convocatoria para la integración del Consejo Consultivo y Social que se instituye, lo que ese órgano de gobierno deberá hacer a más tardar el 30 de agosto del 2009, pudiendo dichos integrantes ser designados en la conformación del nuevo Consejo, según lo determine la propia Junta.
+
+P.O. 6 DE ABRIL DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
