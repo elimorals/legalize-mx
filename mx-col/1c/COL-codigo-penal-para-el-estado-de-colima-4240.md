@@ -4,7 +4,7 @@ identifier: "COL-codigo-penal-para-el-estado-de-colima-4240"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-07-27"
-last_updated: "2013-03-02"
+last_updated: "2013-04-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4240&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CÓDIGO PENAL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2013.
 
 Código publicado en el Periódico Oficial del Estado de Colima, el sábado 27 de julio de 1985.
 
@@ -113,7 +113,7 @@ Cuando el Agente lleve a cabo una conducta idónea para producir un resultado, �
 
 Responde también del resultado típico producido, el que omite impedirlo, si podía hacerlo de acuerdo con las circunstancias, y si debía jurídicamente evitarlo.
 
-(NOTA: EL 31 DE OCTUBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 54/2012, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS QUE INDICAN: “TRATA DE PERSONAS, previsto en el artículo 161”; “SECUESTRO, previsto por el artículo 199, respectivamente”; así como “Y SECUESTRO;”, DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 11 DE NOVIEMBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(NOTA: EL 31 DE OCTUBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 54/2012, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS QUE INDICAN: "TRATA DE PERSONAS, previsto en el artículo 161"; "SECUESTRO, previsto por el artículo 199, respectivamente"; así como "Y SECUESTRO;", DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 11 DE NOVIEMBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
 
@@ -392,6 +392,10 @@ I.- La restitución de la cosa obtenida por el delito con sus frutos y accesione
 > <small>(REFORMADA, P.O. 12 DE MAYO DE 2012)</small>
 
 II.- La indemnización del daño material y moral causado, incluyendo el pago de los tratamientos curativos que, como consecuencia del delito, sean necesarios para la recuperación de la salud de la víctima. En los casos de delitos contra el libre desarrollo de la personalidad, la libertad y la seguridad sexual, así como de violencia intrafamiliar, además se comprenderá el pago de los tratamientos psicoterapéuticos que sean necesarios para la víctima, y en general el resarcimiento de los perjuicios ocasionados.
+
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2013)</small>
+
+III.- Tratándose del delito de Incumplimiento de las Obligaciones de Asistencia Familiar, y siempre que no se tenga otro medio para acreditar el daño causado, el deudor alimentista deberá pagar por concepto de reparación del daño por lo menos el equivalente a una unidad de salario mínimo vigente por día, desde el momento del incumplimiento y hasta que haya causado ejecutoria la sentencia definitiva, el cual se actualizará conforme al incremente de salario mínimo anual en la región.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JULIO DE 1994)</small>
 
@@ -855,9 +859,9 @@ a).- En los delitos de querella necesaria;
 
 b).- En los delitos que se persigan de oficio y que se castigan con pena cuyo término medio aritmético no exceda de tres años de prisión;
 
-> <small>(F. DE E., P.O. 24 DE AGOSTO DE 1985)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ABRIL DE 2013)</small>
 
-c).- En los delitos contra el patrimonio, salvo los casos previstos en los Artículos 227, 238, 239 y 240.
+c).- En los delitos contra el patrimonio, salvo los delitos previstos en los artículos 227, 239, y 240, así como los del mismo orden patrimonial señalados en el artículo 10, todos de este Código.
 
 El perdón surtirá sus efectos siempre que se pague la reparación del daño, cuando sea procedente, y se otorgue antes de que cause ejecutoria la sentencia y el imputado no se oponga a su otorgamiento.
 
@@ -2919,9 +2923,7 @@ HOSTIGAMIENTO SEXUAL.
 
 > <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2002)</small>
 
-###### ARTICULO 216 Bis.
-
-A quien aprovechando su posición jerárquica derivada de relaciones laborales, docentes o de cualquier otra índole que implique subordinación, acose a una persona para obtener cópula u otro acto erótico sexual para sí o para un tercero, o se valga de amenazas para lograr sus propósitos, será sancionado con prisión de seis meses a un años (sic) y multa de cincuenta a ochenta unidades.
+ARTICULO 216 BIS.- A quien aprovechando su posición jerárquica derivada de relaciones laborales, docentes o de cualquier otra índole que implique subordinación, acose a una persona para obtener cópula u otro acto erótico sexual para sí o para un tercero, o se valga de amenazas para lograr sus propósitos, será sancionado con prisión de seis meses a un años (sic) y multa de cincuenta a ochenta unidades.
 
 Si se ocasionan daños y perjuicios la pena aumentará de 1 a 2 años de prisión.
 
@@ -2957,19 +2959,19 @@ Cuando el sujeto pasivo sea menor de catorce años, o carezca de capacidad para 
 
 ### CAPÍTULO V. PEDERASTIA
 
-> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2013)</small>
 
-ARTICULO 216 BIS 1.- Se aplicará de cinco a diez años de prisión y multa por hasta 100 unidades, a quien se aproveche de la confianza, subordinación o superioridad que tiene sobre un menor de dieciocho años, derivada de su parentesco en cualquier grado, tutela, curatela, guarda o custodia, relación docente, religiosa, laboral, médica, cultural, doméstica o de cualquier índole y ejecute, obligue, induzca o convenza a ejecutar cualquier acto sexual, con o sin su consentimiento.
+ARTICULO 216 BIS 1.- Se aplicará de tres a siete años de prisión, y multa por un importe equivalente de doscientos a quinientas unidades, a quien aprovechándose de la confianza, subordinación o superioridad que tiene sobre una persona de entre catorce años de edad y menor de dieciocho años, derivada de su parentesco en cualquier grado, tutela, curatela, guarda o custodia, relación docente, religiosa, laboral, médica, cultural, doméstica o de cualquier índole, la induzca o la convenza a ejecutar o ejecute cualquier acto sexual con su consentimiento.
 
-La misma pena se aplicará a quien cometa la conducta descrita del párrafo anterior, en contra de la persona que no tenga la capacidad de comprender el significado del hecho o para resistirlo.
+Cuando el sujeto pasivo de este delito conforme a la hipótesis señalada en el párrafo anterior sea menor de catorce años de edad, o sea una persona que no tenga capacidad para comprender el significado del hecho o para resistirlo, se impondrá una pena de nueve a dieciocho años de prisión y multa por un importe equivalente de quinientas a mil doscientos (sic) unidades.
 
-Si el agente hace uso de violencia física, las penas se aumentarán en una mitad más.
+Para efectos de este delito se entenderá por acto sexual cualquier acto de naturaleza erótica sexual diverso a la cópula.
 
 El autor del delito podrá ser sujeto a tratamiento médico integral el tiempo que se requiera, mismo que no podrá exceder el tiempo que dure la pena de prisión impuesta.
 
 Además de las anteriores penas, el autor del delito perderá, en su caso, la patria potestad, la tutela, la curatela, la adopción, el derecho de alimentos y el derecho que pudiera tener respecto de los bienes de la víctima, en términos de la legislación civil.
 
-Cuando el delito fuere cometido por un servidor público o un profesionista en ejercicio de sus funciones o con motivo de ellas, además de la pena de prisión antes señalada, será inhabilitado en sus derechos o funciones por un término igual a la pena impuesta.
+Cuando el delito fuere cometido por un servidor público o un profesionista en ejercicio de sus funciones o con motivo de ellas, además de la pena de prisión antes señalada, será inhabilitado de sus derechos o funciones por un término igual al de la pena de prisión impuesta.
 
 > <small>(ADICIONADO, P.O. 12 DE MAYO DE 2012)</small>
 
@@ -4096,5 +4098,9 @@ P.O. 22 DE SEPTIEMBRE DE 2012.
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 P.O. 2 DE MARZO DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 6 DE ABRIL DE 2013.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
