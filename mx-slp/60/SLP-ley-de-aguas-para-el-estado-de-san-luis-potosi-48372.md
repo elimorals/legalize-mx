@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-aguas-para-el-estado-de-san-luis-potosi-48372"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-12"
-last_updated: "2012-10-09"
+last_updated: "2013-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48372&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2013.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 12 de enero de 2006.
 
@@ -447,7 +447,7 @@ VI. Coordinar las actividades técnicas, administrativas y financieras de la Com
 
 VII. Celebrar los actos jurídicos de dominio y administración que sean necesarios para el funcionamiento de la Comisión;
 
-VIII. Gestionar y obtener, conforme a la legislación aplicable y previa autorización de la Junta de Gobierno, el financiamiento para obras, servicios y amortización de pasivos, así como suscribir créditos o títulos de créditos, contratos u obligaciones ante instituciones públicas y privadas; incluyendo operaciones crediticias con organismos financieros no nacionales, en los términos de la Ley de Deuda Pública del Estado de San Luis Potosí;
+VIII. Gestionar y obtener, conforme a la legislación aplicable y previa autorización de la Junta de Gobierno, el financiamiento para obras, servicios y amortización de pasivos, así como suscribir créditos o títulos de crédito, contratos u obligaciones ante instituciones públicas y privadas, incluyendo operaciones crediticias con organismos financieros no nacionales, en los términos de la Ley de Deuda Pública del Estado de San Luis Potosí;
 
 IX. Autorizar las erogaciones correspondientes del presupuesto y someter a la aprobación de la Junta de Gobierno las erogaciones extraordinarias;
 
@@ -1847,9 +1847,17 @@ V. El ayuntamiento, con base en el análisis comparativo de las propuestas admit
 
 VI. A partir de que se haya dado a conocer el fallo de la propuesta ganadora, ésta se encontrará a disposición de las personas participantes durante diez días hábiles;
 
-VII. Dentro de los diez días hábiles siguientes al plazo señalado en la fracción anterior, los participantes podrán inconformarse ante el o los ayuntamientos, vencido dicho plazo, el o los ayuntamientos dictarán resolución en un término que no excederá de quince días hábiles, y
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2013)</small>
 
-VIII. Una vez dictada la resolución, el ayuntamiento, en su caso, adjudicará la concesión, y mandará publicar el título de concesión en el Periódico Oficial del Estado, a costa del concesionario.
+VII. Dentro de los diez días hábiles siguientes al plazo señalado en la fracción anterior, los participantes podrán inconformarse ante el o los ayuntamientos, vencido dicho plazo, el o los ayuntamientos dictarán resolución en un término que no excederá de quince días hábiles;
+
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2013)</small>
+
+VIII. En el caso de que la resolución del ayuntamiento determine la adjudicación de la concesión, enviará al Congreso del Estado el expediente que por ese motivo se hubiese formado, para los efectos de los artículos 114 y 115 de esta Ley, y
+
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2013)</small>
+
+IX. Si el Congreso del Estado determina la autorización para concesionar los servicios públicos de agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales, remitirá la resolución al o a los ayuntamientos a fin de que éste la mande publicar en el Periódico Oficial del Estado; y ésta se llevará a cabo a costa del concesionario.
 
 No se adjudicará la concesión cuando la o las propuestas presentadas no cumplan con las bases del concurso; o cuando el ayuntamiento, en el caso de la fracción VII de este artículo, resuelva en sentido favorable al inconforme. En estos casos, se declarará desierto el concurso; y se procederá a expedir nueva convocatoria.
 
@@ -2434,6 +2442,10 @@ Cuando el prestador de los servicios sea un particular a quien se le haya otorga
 En todo caso, y sin necesidad de acuerdo con el usuario, el municipio, los organismos operadores descentralizados y la Comisión, tendrán la facultad de suspender el servicio en los supuestos mencionados en los dos primeros párrafos de este artículo.
 
 No se aplicará la suspensión del servicio en los domicilios donde habiten lactantes, personas de la tercera edad y personas con discapacidad.
+
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2013)</small>
+
+En el caso de las escuelas de educación básica obligatoria, por falta de pago en dos ocasiones consecutivas o acumuladas, se faculta al prestador de los servicios para limitar este servicio público, hasta que se regularice el pago.
 
 ###### ARTICULO 181.
 
@@ -3170,3 +3182,19 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
 
 TERCERO. Que derivado de la presente reforma, los rangos de consumo contemplado en el artículo 6° del Decreto Legislativo No. 880 publicado en el Periódico Oficial del Estado el 31 de diciembre 2011, relativo a la ley de Cuotas y Tarifas para la prestación de Servicios Públicos del Organismo Operador Intermunicipal Metropolitano de Agua Potable, Alcantarillado, Saneamiento y Servicios Conexos de los municipios de, Cerro de San Pedro, San Luis Potosí, serán los mismos aprobados por parte de este Poder Legislativo el pasado 30 de diciembre del año 2010, y publicados en el Periódico Oficial del Estado bajo el Decreto legislativo numero 485, en edición extraordinaria.
+
+P.O. 6 DE ABRIL DE 2013.
+
+DECRETO 118, POR EL QUE SE ADICIONA PÁRRAFO ÚLTIMO AL ARTÍCULO 180, DE LA LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ.
+
+PRIMERO. Este Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 6 DE ABRIL DE 2013.
+
+DECRETO 119, POR EL QUE SE REFORMA EL ARTÍCULO 116 EN SUS FRACCIONES VII Y VIII; Y ADICIONA AL MISMO ARTÍCULO 116 LA FRACCIÓN IX, DE LA LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ.
+
+PRIMERO. Este Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
