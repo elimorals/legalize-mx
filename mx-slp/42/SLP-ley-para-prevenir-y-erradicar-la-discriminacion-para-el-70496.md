@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-prevenir-y-erradicar-la-discriminacion-para-el-70496"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-19"
-last_updated: "2009-09-19"
+last_updated: "2013-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70496&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACION PARA EL ESTADO DE SAN LUIS POTOSI
 
-LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACION PARA EL ESTADO DE SAN LUIS POTOSI
+LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2013.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 19 de septiembre de 2009.
 
@@ -151,9 +151,19 @@ XXXIV. Incitar al odio, violencia, rechazo, burla, difamación, injuria, persecu
 
 XXXV. Realizar o promover el maltrato físico o psicológico, por la apariencia física, forma de vestir, hablar, gesticular o por asumir públicamente su preferencia sexual;
 
-XXXVI. Impedir o negar la participación pública, especialmente en áreas de salud, justicia y desarrollo humanos (sic), y
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2013)</small>
 
-XXXVII. En general cualquier otra conducta que atente contra la dignidad de la persona.
+XXXVI. Impedir o negar la participación pública, especialmente en áreas de salud, justicia y desarrollo humanos (sic);
+
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2013)</small>
+
+XXXVII. Condicionar, limitar o restringir las oportunidades de empleo, permanencia o ascenso laborales por razón de tener tatuajes en el cuerpo;
+
+No se considerará discriminación cuando el solicitante o trabajador, no reúna los requisitos o calificaciones necesarias para desempeñar, permanecer o ascender en el empleo, y
+
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2013)</small>
+
+XXXVIII. En general, cualquier otra conducta que atente contra la dignidad de la persona.
 
 ## TITULO SEGUNDO (SIC). DE LAS ACCIONES DE PREVENCION Y LAS AUTORIDADES COMPETENTES
 
@@ -290,3 +300,11 @@ El Secretario General de Gobierno
 Lic. Héctor Vega Robles
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 6 DE ABRIL DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
