@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-los-trabajadores-al-servicio-del-estado-de-tabasco-7837"
 country: "mx"
 rank: "ley"
 publication_date: "1990-03-31"
-last_updated: "2006-12-16"
+last_updated: "2013-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7837&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el sábado 31 de marzo de 1990.
 
@@ -543,17 +543,41 @@ Tratándose de enfermedades no profesionales, el trabajador tendrá derecho a qu
 
 Los riesgos de trabajo que sufran los trabajadores, se regirán por las disposiciones de la Ley del Instituto de Seguridad Social del Estado. Las incapacidades que con este motivo se autoricen, serán con goce de salario de acuerdo con dicha Ley.
 
-### CAPITULO I. DEL SINDICATO
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2013)</small>
+
+### CAPITULO IV. DEL TRABAJO DE LAS MADRES TRABAJADORAS
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2013)</small>
 
 ###### ARTICULO 56.
 
-Las mujeres durante el embarazo, no realizarán trabajos que exijan un esfuerzo considerable o signifiquen un peligro para su salud en relación con la gestión. Gozarán de un mes de descanso antes de la fecha que aproximadamente se fije para el parto, y de dos meses más, después del mismo; durante estos períodos percibirán el salario que les corresponda.
+Las madres trabajadoras tendrán los siguientes derechos:
 
-Durante los primeros cinco meses a partir de la fecha de reanudación de labores, las madres tendrán un descanso extraordinario de media hora por cada tres horas de trabajo; si la jornada es de seis horas y media o menos, disfrutarán de un solo descanso, para alimentar a sus hijos.
+I. Durante el período del embarazo, no realizarán trabajos que exijan esfuerzos considerables y signifiquen un peligro para su salud en relación con la gestación, tales como levantar, tirar o empujar grandes pesos, que produzcan trepidación, estar de pie durante largo tiempo o que actúen o puedan alterar su estado psíquico y nervioso.
+
+II. Disfrutarán de un descanso de seis semanas anteriores y seis posteriores al parto. A solicitud expresa de la trabajadora, previa autorización escrita del médico de la institución de seguridad social que le corresponda tomando en cuenta la opinión de la entidad pública y la naturaleza del trabajo que desempeñe, se podrá transferir hasta cuatro de las seis semanas de descanso previas al parto para después del mismo. En caso de que los hijos hayan nacido con cualquier tipo de discapacidad o requieran atención médica hospitalaria, el descanso podrá ser de hasta ocho semanas posteriores al parto, previa presentación del certificado médico correspondiente.
+
+En caso de que se presente autorización de médicos particulares, ésta deberá contener el nombre y número de cédula profesional de quien los expida, la fecha y el estado médico de la trabajadora.
+
+III. Los períodos de descanso a que se refiere la fracción anterior se prorrogarán por el tiempo necesario en el caso de que se encuentren imposibilitadas para trabajar a causa del embarazo o del parto.
+
+IV. En caso de adopción de un infante disfrutarán de un descanso de seis semanas con goce de sueldo, posteriores al día en que lo reciban.
+
+V. En el período de lactancia hasta por el término máximo de seis meses, tendrán dos reposos extraordinarios por día, de media hora cada uno, para alimentar a sus hijos, en lugar adecuado e higiénico que designe la entidad pública o bien, cuando esto no sea posible, previo acuerdo entre ambas partes se reducirá en una hora su jornada de trabajo durante el período señalado.
+
+VI. Durante los períodos de descanso a que se refieren la fracción II y III percibirán su salario íntegro.
+
+VII. A (sic) regresar al puesto que desempeñaban, siempre que no haya transcurrido más de un año de la fecha del parto.
+
+VIII. A que se computen en su antigüedad los períodos pre y postnatales.
+
+IX. En caso de que las autoridades competentes emitan una declaratoria de contingencia sanitaria, conforme a las disposiciones aplicables, no podrá utilizarse el trabajo de mujeres en períodos de gestación o de lactancia. Las trabajadoras que se encuentren en este supuesto, no sufrirán perjuicio en su salario, prestaciones y derechos.
+
+X. Cuando se ponga en peligro la salud de la mujer, o la del producto, ya sea durante el estado de gestación o el de lactancia y sin que sufra perjuicio en su salario, prestaciones y derechos, no se podrá utilizar su trabajo en labores insalubres o peligrosas, trabajo nocturno después de las diez de la noche, así como en horas extraordinarias.
 
 ## TITULO CUARTO. DE LA ORGANIZACION COLECTIVA DE LOS TRABAJADORES Y DE LAS CONDICIONES GENERALES DE TRABAJO
 
-### CAPITULO II. DE LAS CONDICIONES GENERALES DE TRABAJO
+### CAPITULO I. DEL SINDICATO
 
 ###### ARTICULO 57.
 
@@ -601,7 +625,7 @@ IV.- Estatutos del Sindicato que contengan la denominación, domicilio, objeto s
 
 V.- Padrón de los miembros conteniendo nombre, estado civil, edad, adscripción, categoría, domicilio y salario mensual.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O., 16 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O., 16 DE DICIEMBRE DE 2006)</small>
 
 El Tribunal de Conciliación y Arbitraje, al recibir la solicitud de registro comprobará por los medios más prácticos y eficaces, si la peticionaria cumplió con la presentación de los documentos requeridos y procederá, en su caso al registro, el cual podrá negarse únicamente:
 
@@ -685,7 +709,7 @@ En los casos de violación a lo dispuesto por el artículo 69, el Tribunal de Co
 
 Las remuneraciones que se paguen a los Directivos y a los empleados del Sindicato y en general, los gastos que origine el funcionamiento de este, serán con cargo a sus ingresos cubierto en todo caso por sus miembros.
 
-### CAPITULO III. DE LA HUELGA Y SU PROCEDIMIENTO
+### CAPITULO II. DE LAS CONDICIONES GENERALES DE TRABAJO
 
 ###### ARTICULO 75.
 
@@ -735,7 +759,7 @@ VI.- Renuncia de cualquiera de los derechos o prerrogativas consignadas en las n
 
 En todos estos casos se entenderá que rigen la Ley o las normas supletorias en lugar de las cláusulas nulas.
 
-### CAPITULO IV. DE LAS PRESCRIPCIONES
+### CAPITULO III. DE LA HUELGA Y SU PROCEDIMIENTO
 
 ###### ARTICULO 79.
 
@@ -817,7 +841,7 @@ VI.- Por declaración de ilegalidad o inexistencia.
 
 Al resolverse que una declaración de huelga es legal, el Tribunal, a petición de las autoridades correspondientes y tomando en cuenta las pruebas presentadas, fijará el número de trabajadores que los huelguistas estarán obligadas a mantener en el desempeño de sus labores, a fin de que continúen realizándose aquellos servicios cuya suspensión perjudique la estabilidad de las instituciones, la conservación de las instalaciones o signifique un peligro para la salud pública.
 
-### CAPITULO I. DEL TRIBUNAL DE CONCILIACION Y ARBITRAJE
+### CAPITULO IV. DE LAS PRESCRIPCIONES
 
 ###### ARTICULO 95.
 
@@ -879,7 +903,7 @@ Para los efectos de la prescripción, los meses se regularán por el número de 
 
 ## TITULO QUINTO
 
-### CAPITULO II. DEL PROCEDIMIENTO ORDINARIO
+### CAPITULO I. DEL TRIBUNAL DE CONCILIACION Y ARBITRAJE
 
 ###### ARTICULO 102.
 
@@ -1011,7 +1035,7 @@ XXVI.- Las demás que se deriven de la Ley de los Trabajadores al Servicio del E
 
 Los Procuradores Auxiliares tendrán las facultades y obligaciones que les señale el Reglamento Interior de la Procuraduría de la Defensa de los Trabajadores al Servicio del Estado y los Municipios, y las que por delegación les encomiende el Titular de la Institución, contando con las facultades de representación de éste.
 
-### CAPITULO III. DE LOS MEDIOS DE APREMIO
+### CAPITULO II. DEL PROCEDIMIENTO ORDINARIO
 
 ###### ARTICULO 105.
 
@@ -1121,7 +1145,7 @@ Las resoluciones dictadas por el Tribunal de Conciliación y Arbitraje serán in
 
 Las autoridades están obligadas a prestar auxilio al Tribunal de Conciliación y Arbitraje, para hacer respetar sus resoluciones, cuando fueren requeridas para ello.
 
-### CAPITULO IV. EJECUCION
+### CAPITULO III. DE LOS MEDIOS DE APREMIO
 
 ###### ARTICULO 128.
 
@@ -1131,7 +1155,7 @@ El Tribunal, para hacer cumplir sus determinaciones, podrán imponer multas hast
 
 Las multas se harán efectivas por la Secretaría de Finanzas; para lo cual el Tribunal girará el oficio correspondiente. La Secretaría aludida informará al Tribunal de haber hecho efectiva la multa, señalando los datos relativos que acrediten su cobro.
 
-### CAPITULO V. PROCEDIMIENTOS ESPECIALES
+### CAPITULO IV. EJECUCION
 
 ###### ARTICULO 130.
 
@@ -1140,6 +1164,8 @@ El Tribunal de Conciliación y Arbitraje tiene la obligación de proveer a la ef
 ###### ARTICULO 131.
 
 Cuando se pida la ejecución de un laudo, el Tribunal despachará auto de ejecución y comisionará a un Actuario para que, asociado de la parte que obtuvo, se constituya en el domicilio de la demandada y la requiera para que cumpla la resolución, apercibiéndola de que, de no hacerlo, se procederá conforme a lo dispuesto en el capítulo anterior; sin que, por ello, se omita el cumplimiento de dicho auto.
+
+### CAPITULO V. PROCEDIMIENTOS ESPECIALES
 
 ###### ARTICULO 132.
 
@@ -1181,7 +1207,7 @@ LIC. FERNANDO SANCHEZ DE LA CRUZ
 
 SECRETARIO DE GOBIERNO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 9 DE DICIEMBRE DE 2000.
 
@@ -1204,3 +1230,7 @@ El presente decreto entrara en vigor al día siguiente de su publicación en el 
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones de igual rango o naturaleza que se opongan al presente Decreto.
+
+P.O. 6 DE ABRIL DE 2013.
+
+ÚNICO. El presente decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Gobierno del Estado.
