@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-del-h-congreso-del-estado-libre-y-7786"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-08-28"
-last_updated: "2013-03-02"
+last_updated: "2013-04-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7786&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 REGLAMENTO INTERIOR DEL H. CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2013.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 28 de agosto de 1993.
 
@@ -609,7 +609,7 @@ d) Coadyuvar con las dependencias respectivas para la correcta aplicación de lo
 
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2002)</small>
 
-e)·Analizar y dictaminar sobre la legislación encaminada a fortalecer la actividad turística del Estado;
+e) Analizar y dictaminar sobre la legislación encaminada a fortalecer la actividad turística del Estado;
 
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2002)</small>
 
@@ -908,6 +908,26 @@ c) Corresponde a esta comisión conocer y dictaminar, de las iniciativas de ley,
 d) Promover la equidad entre los géneros y conocer de asuntos que se relacionan con la discriminación y maltrato de la mujer y varón, por razones de sexo, raza, edad, credo político o religioso y situación socioeconómica entre otros.
 
 XXXI. (DEROGADA, P.O. 2 DE FEBRERO DE 2002)
+
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2013)</small>
+
+XXXII. Asuntos de la Frontera Sur:
+
+A. Analizar y dictaminar los asuntos derivados de los compromisos del Estado, en su relación con la región sur, la federación, los países colindantes y la comunidad internacional;
+
+B. Promover el estrechamiento de los vínculos sociales, políticos, económicos y culturales, entre las regiones fronterizas;
+
+C. Promover acciones de participación de las autoridades competentes y ciudadanos, en los temas de interés común, a fin de diseñar las leyes, decretos y acuerdos que sean necesarios, para promover el desarrollo de la Frontera Sur del Estado;
+
+D. Impulsar la gestión de recursos y la ejecución de programas para el desarrollo integral de la frontera sur;
+
+E. Mantener relación con las comisiones respectivas del Congreso de la Unión, de las legislaturas de las entidades federativas y de los Congresos de los países fronterizos, para impulsar acciones conjuntas, ante las instancias competentes; a fin de atender y resolver la problemática de la Frontera Sur y fomentar el desarrollo de la industria y las zonas limítrofes de las entidades federativas que conforman la Frontera Sur;
+
+F. Promover acciones para hacer efectivos los derechos humanos de los migrantes, informando a las instancias competentes, la violación de sus derechos que se tenga conocimiento;
+
+G. Organizar los trabajos legislativos para cumplir eficientemente con las responsabilidades legislativas y contribuir para que el Estado se convierta en una prioridad estratégica de la política nacional e internacional; y
+
+H. Conocer y dictaminar de los demás asuntos relacionados con la frontera sur que sean competencia del Congreso del Estado.
 
 ### CAPITULO XI. DE LAS SESIONES
 
@@ -1736,3 +1756,13 @@ P.O. 2 DE MARZO DE 2013.
 ###### ARTÍCULO ÚNICO
 
 El presente decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 6 DE ABRIL DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente decreto.
