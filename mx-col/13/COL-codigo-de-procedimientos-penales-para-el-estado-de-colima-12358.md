@@ -4,7 +4,7 @@ identifier: "COL-codigo-de-procedimientos-penales-para-el-estado-de-colima-12358
 country: "mx"
 rank: "codigo"
 publication_date: "1997-08-02"
-last_updated: "2013-01-12"
+last_updated: "2013-04-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12358&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2013.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 2 de agosto de 1997.
 
@@ -1725,6 +1725,14 @@ El juzgador podrá ordenar que se repita el cotejo por otros peritos.
 
 Toda persona que tenga conocimiento de los hechos objeto de un procedimiento penal, tiene el deber de declarar como testigo, excepto en los casos determinados por la Ley.
 
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2013)</small>
+
+A quien comparezca como testigo el juez de la causa o el Ministerio Público le exigirá su plena identificación.
+
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2013)</small>
+
+Para la identificación de los testigos será válido cualquier documento oficial con fotografía expedido por la autoridad competente en ejercicio legal de sus atribuciones.
+
 ###### ARTICULO 198.
 
 El Juzgador debe de examinar a los testigos presentes cuya declaración soliciten las partes.
@@ -1956,6 +1964,10 @@ En el primer caso se llevará a cabo el cotejo correspondiente y en el segundo l
 ###### ARTICULO 229.
 
 Los documentos privados, físicos o electrónicos, y la correspondencia, aun aquella que se envié o reciba por correo electrónico, deberán ser reconocidos en su contenido y firma por la persona a quien se le atribuyan.
+
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2013)</small>
+
+En tratándose de documentos fiscales que reúnan los requisitos que señala el Código Fiscal de la Federación, no estarán sujetos a reconocimiento por el emisor, salvo prueba en contrario.
 
 > <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2010)</small>
 
@@ -2823,9 +2835,21 @@ II.- Cuando el delito sea de aquéllos que no pueden perseguirse sin antes cumpl
 
 III.- Cuando, durante el procedimiento se determine que el inculpado presenta un estado de inimputabilidad transitorio; y
 
-IV.- En los demás casos en que la Ley ordene expresamente la suspensión del procedimiento.
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2013)</small>
 
-La suspensión fundada en los supuestos de las fracciones I y III, no impide que, a requerimiento del Ministerio Público o del ofendido o sus representantes, adopte el Juzgador las medidas precautorias patrimoniales que establece este Código.
+IV.- Cuando exista algún recurso de impugnación pendiente de resolverse en contra de una resolución diversa a la sentencia definitiva, se ordenará la suspensión del procedimiento hasta el cierre de la instrucción.
+
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2013)</small>
+
+V.- En los demás casos en que la Ley ordene expresamente la suspensión del procedimiento.
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2013)</small>
+
+La suspensión fundada en los supuestos de las fracciones I y III, no impide que, a requerimiento del Ministerio Público o del ofendido o sus representantes, adopte el Juzgador las medidas precautorias patrimoniales que establece este Código, así como que dicte las demás medidas y providencias necesarias para proteger la vida, la integridad física y moral, bienes, posesiones o derechos de las víctimas y ofendidos, incluyendo los familiares directos.
+
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2013)</small>
+
+Así mismo se dictarán las providencias que se requieran para restituir a las víctimas u ofendidos en el goce de sus derechos tanto reales como personales o de cualquier índole, siempre que estén justificados legalmente.
 
 ###### ARTICULO 339.
 
@@ -3696,5 +3720,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobaci
 SEGUNDO.- Se derogan todas las disposiciones jurídicas que se opongan al presente Decreto.
 
 P.O. 12 DE ENERO DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 6 DE ABRIL DE 2013.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
