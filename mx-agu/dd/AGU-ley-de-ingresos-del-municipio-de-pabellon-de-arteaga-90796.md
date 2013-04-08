@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-ingresos-del-municipio-de-pabellon-de-arteaga-90796"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2012-12-31"
-last_updated: "2013-01-28"
+last_updated: "2013-04-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90796&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "AGU"
 ---
 # LEY DE INGRESOS DEL MUNICIPIO DE PABELLON DE ARTEAGA, AGUASCALIENTES, PARA EL EJERCICIO FISCAL 2013
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE AGOSTO DE 2013 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE INGRESOS DEL MUNICIPIO DE PABELLÓN DE ARTEAGA, AGS., PARA EL EJERCICIO FISCAL 2013
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 28 DE ENERO DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2013.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 31 de diciembre de 2012.
 
@@ -357,11 +357,17 @@ APORTACIONES FEDERALES 22,858,000
 
 2.- RAMO 33 FONDO IV 17,663,000
 
-VI.- INGRESOS DERIVADOS DE FINANCIAMIENTO
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2013)</small>
 
-DEUDA PUBLICA 0
+IV (SIC).- INGRESOS DERIVADOS DE
 
-1.- Endeudamiento interno 0
+FINANCIAMIENTO $ 20'000,000.00
+
+Deuda Pública $ 20'000,000.00
+
+1. Endeudamiento Interno $ 20'000,000.00
+
+En términos de la Fracción XIV del Artículo 5° de la Ley de Deuda Pública del Estado de Aguascalientes, el Programa de Financiamiento Neto es igual $ 14'610,507.26 cantidad que resulta de restar al Total de Ingresos Derivados de Financiamientos, por $ 20'000,000.00 las cantidades previstas para pago de capital en el Presupuesto de Egresos del Municipio de Pabellón de Arteaga, Aguascalientes para el Ejercicio Fiscal del Año 2013, por $ 5'389,492.74
 
 VII.- INGRESOS DE ORGANISMOS
 
@@ -369,7 +375,9 @@ DESCENTRALIZADOS DERECHOS OBTENIDOS
 
 POR CAPAPA 16,170,000
 
-TOTAL DE INGRESOS 115,167,919
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2013)</small>
+
+TOTAL DE INGRESOS 135,167,919.00
 
 ## TÍTULO SEGUNDO. DE LOS IMPUESTOS
 
@@ -1447,13 +1455,27 @@ III.- Derechos extraordinarios.
 
 IV.- Expropiaciones.
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE AGOSTO DE 2013 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2013)</small>
+
 ###### ARTÍCULO 41.
 
-El endeudamiento se constituye por los créditos adquiridos por el Municipio para la satisfacción de servicios y obras públicas, previa autorización del H. Ayuntamiento, en términos de la Ley de Deuda Pública del Estado de Aguascalientes.
+Se autoriza al Municipio de Pabellón de Arteaga, Aguascalientes, para que por conducto de funcionarios legalmente facultados, contrate con el Banco Nacional de Obras y Servicios Públicos, S.N.C., Institución de Banca de Desarrollo, uno o varios créditos, hasta por la cantidad de $ 20'000,000.00 (VEINTE MILLONES DE PESOS 00/100 M.N.), incluidas las cantidades que se requieran para el pago de accesorios financieros, impuestos, comisiones e intereses que se generen durante el período de disposición y/o gracia, según se pacte en el contrato que al efecto se celebre, conforme a lo siguiente:
 
-En el caso de la deuda pública, el H. Ayuntamiento podrá realizar las gestiones necesarias para obtener préstamos ante la banca pública, instituciones de banca de desarrollo y la Secretaría de Finanzas del Gobierno del Estado.
+I. El(los) crédito(s) que contrate el Municipio de Pabellón de Arteaga, Aguascalientes, con base en la presente autorización, deberá(n) destinarse para refinanciar deuda pública directa derivada del(los) crédito(s) contratado(s) por el Municipio de Pabellón de Arteaga, Aguascalientes, con el Banco Nacional de Obras y Servicios Públicos, S.N.C., Institución de Banca de Desarrollo, en ejercicios fiscales anteriores, así como para financiar, incluido el impuesto al valor agregado, el costo de inversiones públicas productivas contempladas en los campos de atención del Banco Nacional de Obras y Servicios Públicos, S.N.C., Institución de Banca de Desarrollo, consistentes en el proyecto de sustitución de lámparas de alumbrado público ineficientes por lámparas ahorradores (sic) LED, y cubrir los accesorios financieros, comisiones y los intereses que se generen durante los períodos de disposición y/o gracia del(los) crédito(s) que formalice con base en la presente autorización, según se pacte en el contrato que al efecto se celebre;
 
-Una vez aprobado el endeudamiento en términos de la Ley de Deuda Pública del Estado de Aguascalientes, el H. Ayuntamiento podrá autorizar que el endeudamiento se garantice y/o pague indistintamente con los recursos propios del municipio o mediante la afectación de sus participaciones federales presentes y futuras.
+II. El(los) crédito(s) que contrate el Municipio de Pabellón de Arteaga, Aguascalientes, con base en la presente autorización, deberá(n) formalizarse durante el Ejercicio Fiscal del Año 2013 y amortizarse en su totalidad en un plazo que no exceda de 46 meses contados a partir de la fecha en que el Municipio de Pabellón de Arteaga, Aguascalientes, ejerza la primera o única disposición del(los) crédito(s) que contrate con base en la presente autorización, sin rebasar el 31 de diciembre de 2016, en el entendido que los demás plazos, así como los intereses, términos y condiciones serán los que se establezcan en el(los) contrato(s) que al efecto celebre el Municipio de Pabellón de Arteaga, Aguascalientes, con el Banco Nacional de Obras y Servicios Públicos, S.N.C., Institución de Banca de Desarrollo;
+
+III. Se autoriza al Municipio de Pabellón de Arteaga, Aguascalientes, para que celebre cualquier instrumento legal que se requiera para formalizar el mecanismo de garantía o fuente de pago para cumplir con las obligaciones que deriven del(los) crédito(s) que contrate con base en la presente autorización, con la afectación del derecho y los flujos de recursos que procedan de las participaciones presentes y futuras que en ingresos federales le correspondan, sin perjuicio de afectaciones anteriores;
+
+IV. El instrumento legal que celebre el Municipio de Pabellón de Arteaga, Aguascalientes, para constituir el mecanismo de garantía o fuente de pago, podrá formalizarse a través de un contrato de mandato especial irrevocable para actos de dominio que cumpla con las formalidades que la legislación aplicable establece, a satisfacción del Banco Nacional de Obras y Servicios Públicos, S.N.C., Institución de Banca de Desarrollo, en cuyo objeto deberá facultarse al Poder Ejecutivo del Gobierno del Estado de Aguascalientes, para que con el carácter de mandatario, realice en nombre y representación del Municipio de Pabellón de Arteaga, Aguascalientes, con cargo a las participaciones presentes y futuras que en ingresos federales le correspondan, el pago de las obligaciones contraídas por éste con el Banco Nacional de Obras y Servicios Públicos, S.N.C., con la contratación y disposición del(los) crédito(s) que formalice con base en esta autorización;
+
+V. El Municipio de Pabellón de Arteaga, Aguascalientes, deberá prever anual y sucesivamente en su Presupuesto de Egresos de cada Ejercicio Fiscal, en tanto existan obligaciones de pago a su cargo derivadas del(los) crédito(s) que contrate y disponga con base en la presente autorización, las partidas necesarias para cubrir el pago del servicio de deuda, hasta su total liquidación;
+
+VI. Se autoriza al Municipio de Pabellón de Arteaga, Aguascalientes, para que por conducto de funcionarios legalmente facultados realicen todas las gestiones, negociaciones y trámites que resulten necesarios para la formalización de lo autorizado, incluyendo la celebración de contratos, convenios, títulos de crédito, mecanismos y cualquier otro instrumento jurídico que se requiera; así como, solicitar inscripciones en registros, entre otras; y
+
+VII. El(los) crédito(s) que contrate el Municipio de Pabellón de Arteaga, Aguascalientes, con base a la presente autorización, deberá(n) inscribirse en el Registro Estatal de Deuda Pública y ante el Registro de Obligaciones y Empréstitos de Entidades Federativas y Municipios que lleva la Secretaría de Hacienda y Crédito Público, en términos de lo que establecen las disposiciones legales y administrativas aplicables.
 
 ## TÍTULO OCTAVO. DE LOS OTROS INGRESOS
 
@@ -1552,3 +1574,11 @@ Dip. Mario Antonio Guevara Palomino,
 SEGUNDO SECRETARIO.
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 46 de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 27 de diciembre de 2012.- Carlos Lozano de la Torre.- Rúbrica.- El Jefe de Gabinete, Antonio Javier Aguilera García.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 8 DE ABRIL DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente (sic) su publicación en el Periódico Oficial del Estado de Aguascalientes.
