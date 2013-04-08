@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-ingresos-y-presupuesto-de-egresos-del-estado-de-91002"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2012-12-31"
-last_updated: "2012-12-31"
+last_updated: "2013-04-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91002&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE INGRESOS Y PRESUPUESTO DE EGRESOS DEL ESTADO DE SINALOA PARA EL EJERCICIO FISCAL DEL AÑO 2013.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2013.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Sinaloa, el lunes 31 de diciembre de 2012.
 
@@ -39,9 +39,11 @@ LEY DE INGRESOS Y PRESUPUESTO DE EGRESOS DEL ESTADO DE SINALOA PARA EL EJERCICIO
 
 ## TITULO PRIMERO. DE LOS INGRESOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2013)</small>
+
 ###### ARTÍCULO 1.
 
-En el ejercicio fiscal del año 2013, el Gobierno del Estado de Sinaloa percibirá los ingresos provenientes de los conceptos y en los importes estimados que a continuación se indican y que totalizan la cantidad de $38,371,953,469.00 (Treinta y ocho mil trescientos setenta y un millones novecientos cincuenta y tres mil cuatrocientos sesenta y nueve pesos 00/100 M.N.), y que son:
+En el ejercicio fiscal del año 2013, el Gobierno del Estado de Sinaloa percibirá los ingresos provenientes de los conceptos y en los importes estimados que a continuación se indican y que totalizan la cantidad de $39,142,953,469.00 (Treinta y nueve mil ciento cuarenta y dos millones novecientos cincuenta y tres mil cuatrocientos sesenta y nueve pesos 00/100 M.N.), y que son:
 
 A.- Los derivados de la aplicación 3,851,230,799
 
@@ -363,13 +365,17 @@ II.- SUBSIDIOS 4,286,307,992
 
 2) Seguridad Pública 319,864,648
 
-D.- Ingresos Derivados de 451,924,743
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2013)</small>
 
-Endeudamientos
+D.- Ingresos Derivados de 1,222,924,723
 
-1) Empréstitos 451,924,743
+Endeudamiento
 
-TOTAL 38,371,953,469
+1) Empréstitos 1,222,924,723
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2013)</small>
+
+TOTAL 39,142,953,469
 
 El Ejecutivo Estatal, a través de la Secretaría de Administración y Finanzas informará al H. Congreso del Estado respecto de los ingresos reales que se obtengan en los términos y modalidades que establece la fracción VI del artículo 65 de la Constitución Política del Estado, al remitir, antes de la apertura del primero y segundo periodo ordinario de sesiones, la cuenta pública correspondiente.
 
@@ -499,9 +505,11 @@ La Secretaría estará facultada para interpretar las disposiciones del presente
 
 ### CAPITULO SEGUNDO. DE LAS EROGACIONES
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2013)</small>
+
 ###### ARTÍCULO 16.
 
-El gasto neto total previsto en el presente presupuesto, importa la cantidad de $38,371,93,469.00 (Treinta y ocho mil trescientos setenta y un millones novecientos cincuenta y tres mil cuatrocientos sesenta y nueve pesos 00/100 M.N.), y corresponde al total de ingresos previstos para 2013 y se distribuyen conforme a las disposiciones que establece el artículo 36 de la Ley.
+El gasto neto total previsto en el presente presupuesto, importa la cantidad de de $39,142,953,469.00 (Treinta y nueve mil ciento cuarenta y dos millones novecientos cincuenta y tres mil cuatrocientos sesenta y nueve pesos 00/100 M.N.), y corresponde al total de ingresos previstos para 2013 y se distribuyen conforme a las disposiciones que establece el artículo 36 de la Ley.
 
 ###### ARTÍCULO 17.
 
@@ -523,9 +531,11 @@ Atendiendo la clasificación del Presupuesto por Objeto del Gasto a nivel global
 
 Las erogaciones previstas por los Poderes, se señalan en el Anexo 5, de esta Ley.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2013)</small>
+
 ###### ARTÍCULO 22.
 
-De acuerdo a la fracción VI del artículo 36 de la Ley, los recursos de Inversión Pública proyectados para el ejercicio fiscal 2013, ascienden a $5,013,130,176.00 (Cinco mil trece millones ciento treinta mil ciento setenta y seis pesos 00/100 M.N.), y se asignan conforme al Anexo 6, de esta Ley.
+De acuerdo a la fracción VI del artículo 36 de la Ley, los recursos de Inversión Pública Directa proyectados para el ejercicio fiscal 2013, ascienden a $5,784,130,176.00 (Cinco mil setecientos ochenta y cuatro millones ciento treinta mil ciento setenta y seis pesos 00/100 M.N.), y se asignan conforme al Anexo 6, de esta Ley.
 
 ###### ARTÍCULO 23.
 
@@ -1075,7 +1085,7 @@ DE SINALOA
 
 0304000201 TRIBUNAL LOCAL 202,101
 
-DE CONCILlACION
+DE CONCILIACION
 
 Y ARBITRAJE
 
@@ -1109,7 +1119,7 @@ ASUNTOS
 
 AGRARIOS
 
-REGULARIZACON 3,000,000
+REGULARIZACION 3,000,000
 
 PREDIOS RURALES
 
@@ -1695,7 +1705,7 @@ SAL. ALVARADO
 
 PAVIMENTACIÓN 2,500,000
 
-DE CALLLE
+DE CALLE
 
 JOSÉ MEJIA,
 
@@ -2155,15 +2165,27 @@ A N E X O S
 
 > <small>N. DE E. VÉASE ANEXO 1.- GASTO NETO TOTAL POR FINALIDAD, FUNCIÓN, SUBFUNCIÓN Y PROGRAMA EN EL P.O. DE 31 DE DICIEMBRE DE 2012, PÁGINAS DE LA 56 A LA 59.</small>
 
+> <small>N. DE E. VÉASE REFORMAS AL ANEXO 1, EN EL P.O. DE 8 DE ABRIL DE 2013, PÁGINA 15.</small>
+
 > <small>N. DE E. VÉASE ANEXO 2.- GASTO NETO TOTAL DEL SECTOR PÚBLICO DE LAS ENTIDADES FEDERATIVAS NO FINANCIERO, DISTRIBUIDO POR GRUPO, SUBGRUPO, RAMO, DEPENDENCIA, ORGANISMO Y/O UNIDAD RESPONSABLE EN EL P.O. DE 31 DE DICIEMBRE DE 2012, PÁGINAS DE LA 60 A LA 78.</small>
+
+> <small>N. DE E. VÉASE REFORMAS AL ANEXO 2, EN EL P.O. DE 8 DE ABRIL DE 2013, PÁGINA 16.</small>
 
 > <small>N. DE E. VÉASE ANEXO 3.- PRESUPUESTO CLASIFICADO POR GASTO CORRIENTE, DE CAPITAL Y AMORTIZACIÓN DE LA DEUDA Y DISMINUCIÓN DE PASIVOS EN EL P.O. DE 31 DE DICIEMBRE DE 2012, PÁGINA 79.</small>
 
-> <small>N. DE E. VÉASE ANEXO 4.- CLASIFICACIN DEL PRESUPUESTO POR OBJETO DEL GASTO A NIVEL GLOBAL DEL CAPÍTULO EN EL P.O. DE 31 DE DICIEMBRE DE 2012, PÁGINA 79.</small>
+> <small>N. DE E. VÉASE REFORMAS AL ANEXO 3, EN EL P.O. DE 8 DE ABRIL DE 2013, PÁGINA 17.</small>
+
+> <small>N. DE E. VÉASE ANEXO 4.- CLASIFICACION DEL PRESUPUESTO POR OBJETO DEL GASTO A NIVEL GLOBAL DEL CAPÍTULO EN EL P.O. DE 31 DE DICIEMBRE DE 2012, PÁGINA 79.</small>
+
+> <small>N. DE E. VÉASE REFORMAS AL ANEXO 4, EN EL P.O. DE 8 DE ABRIL DE 2013, PÁGINA 17.</small>
 
 > <small>N. DE E. VÉASE ANEXO 5.- EROGACIONES PREVISTAS POR LOS PODERES EN EL P.O. DE 31 DE DICIEMBRE DE 2012, PÁGINA 80.</small>
 
+> <small>N. DE E. VÉASE REFORMAS AL ANEXO 5, EN EL P.O. DE 8 DE ABRIL DE 2013, PÁGINA 17.</small>
+
 > <small>N. DE E. VÉASE ANEXO 6.- RECURSOS DE INVERSIÓN PÚBLICA POR FUNCIÓN EN EL P.O. DE 31 DE DICIEMBRE DE 2012, PÁGINA 80.</small>
+
+> <small>N. DE E. VÉASE REFORMAS AL ANEXO 6, EN EL P.O. DE 8 DE ABRIL DE 2013, PÁGINA 17.</small>
 
 > <small>N. DE E. VÉASE ANEXO 7.- EROGACIONES PREVISTAS POR LOS ÓRGANOS AUTÓNOMOS EN EL P.O. DE 31 DE DICIEMBRE DE 2012, PÁGINA 81.</small>
 
@@ -2177,6 +2199,8 @@ A N E X O S
 
 > <small>N. DE E. VÉASE ANEXO 12.- CLASIFICACIÓN ADMINISTRATIVA POR UNIDAD RESPONSABLE Y CAPÍTULO POR OBJETO DEL GASTO EN EL P.O. DE 31 DE DICIEMBRE DE 2012, PÁGINAS DE LA 88 A LA 138.</small>
 
+> <small>N. DE E. VÉASE REFORMAS AL ANEXO 12, EN EL P.O. DE 8 DE ABRIL DE 2013, PÁGINA 18.</small>
+
 > <small>N. DE E. VÉASE ANEXO 13.- PRESUPUESTO PARA MUJERES Y LA IGUALDAD DE GÉNERO EN EL P.O. DE 31 DE DICIEMBRE DE 2012, PÁGINA 139.</small>
 
 > <small>N. DE E. VÉASE ANEXO 14.- LÍMITES DE PERCEPCIÓN NETA MENSUAL EN EL P.O. DE 31 DE DICIEMBRE DE 2012, PÁGINA 140.</small>
@@ -2184,3 +2208,11 @@ A N E X O S
 > <small>N. DE E. VÉASE ANEXO 15.- APLICACIÓN Y DISTRIBUCIÓN DEL FONDO DE APORTACIONES PARA LA INFRAESTRUCTURA SOCIAL MUNICIPAL Y DEL FONDO DE APORTACIONES PARA EL FORTALECIMIENTO MUNICIPAL A LOS MUNICIPIOS EN EL P.O. DE 31 DE DICIEMBRE DE 2012, PÁGINA 141.</small>
 
 > <small>N. DE E. VÉASE ANEXO 16.- PROYECTO DE PRESUPUESTO 2013 PARA 11 PROGRAMAS PRESUPUESTARIOS CON MATRIZ DE INDICADORES PARA RESULTADOS EN EL P.O. DE 31 DE DICIEMBRE DE 2012, PÁGINAS DE LA 142 A LA 256.</small>
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 8 DE ABRIL DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
