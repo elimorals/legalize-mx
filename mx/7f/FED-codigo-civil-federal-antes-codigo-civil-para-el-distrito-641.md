@@ -4,7 +4,7 @@ identifier: "FED-codigo-civil-federal-antes-codigo-civil-para-el-distrito-641"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "2012-04-09"
+last_updated: "2013-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=641&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,7 +20,7 @@ scjn_last_update: "2025-11-14"
 
 CÓDIGO CIVIL FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE ABRIL DE 2013.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -2536,11 +2536,11 @@ III.- Que el adoptante es persona apta y adecuada para adoptar.
 
 Cuando circunstancias especiales lo aconsejen, el juez puede autorizar la adopción de dos o más incapacitados o de menores e incapacitados simultáneamente.
 
-> <small>(REFORMADO, D.O.F. 28 DE MAYO DE 1998)</small>
+> <small>(REFORMADO, D.O.F. 8 DE ABRIL DE 2013)</small>
 
 ###### ARTICULO 391.
 
-El marido y la mujer podrán adoptar, cuando los dos estén conformes en considerar al adoptado como hijo y aunque sólo uno de los cónyuges cumpla el requisito de la edad a que se refiere el artículo anterior, pero siempre y cuando la diferencia de edad entre cualquiera de los adoptantes y el adoptado sea de diecisiete años cuando menos. Se deberán acreditar además los requisitos previstos en las fracciones del artículo anterior.
+Los cónyuges o concubinos podrán adoptar, cuando los dos estén conformes en considerar al adoptado como hijo y aunque sólo uno de los cónyuges o concubinos cumpla el requisito de la edad a que se refiere el artículo anterior, pero siempre y cuando la diferencia de edad entre cualquiera de los adoptantes y el adoptado sea de diecisiete años cuando menos. Se deberán acreditar además los requisitos previstos en las fracciones del artículo anterior.
 
 ###### ARTICULO 392.
 
@@ -2610,75 +2610,45 @@ Tan luego como cause ejecutoria la resolución judicial que se dicte autorizando
 
 El juez que apruebe la adopción remitirá copia de las diligencias respectivas al Juez del Registro Civil del lugar para que levante el acta correspondiente.
 
-> <small>(ADICIONADA, D.O.F. 28 DE MAYO DE 1998)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 8 DE ABRIL DE 2013)</small>
 
-#### SECCIÓN SEGUNDA. De la Adopción Simple
-
-> <small>(REFORMADO, D.O.F. 28 DE MAYO DE 1998)</small>
+#### SECCIÓN SEGUNDA
 
 ###### ARTICULO 402.
 
-Los derechos y obligaciones que nacen de la adopción simple, así como el parentesco que de ella resulte se limitan al adoptante y al adoptado, excepto en lo relativo a los impedimentos de matrimonio, respecto de los cuales se observará lo que dispone el artículo 157.
-
-> <small>(REFORMADO, D.O.F. 28 DE MAYO DE 1998)</small>
+(DEROGADO, D.O.F. 8 DE ABRIL DE 2013)
 
 ###### ARTICULO 403.
 
-Los derechos y obligaciones que resultan del parentesco natural no se extinguen por la adopción simple, excepto la patria potestad, que será transferida al adoptante, salvo que, en su caso, esté casado con alguno de los progenitores del adoptado porque entonces se ejercerá por ambos cónyuges.
-
-> <small>(REFORMADO, D.O.F. 28 DE MAYO DE 1998)</small>
+(DEROGADO, D.O.F. 8 DE ABRIL DE 2013)
 
 ###### ARTICULO 404.
 
-La adopción simple podrá convertirse en plena, debiendo obtenerse el consentimiento del adoptado, si éste hubiere cumplido doce años. Si fuere menor de esa edad se requiere el consentimiento de quien hubiese consentido en la adopción, siempre y cuando sea posible obtenerlo; de lo contrario el juez deberá resolver atendiendo al interés superior del menor.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE MAYO DE 1998)</small>
+(DEROGADO, D.O.F. 8 DE ABRIL DE 2013)
 
 ###### ARTICULO 405.
 
-La adopción simple puede revocarse:
-
-> <small>(REFORMADA, D.O.F. 17 DE ENERO DE 1970)</small>
-
-I.- Cuando las dos partes convengan en ello, siempre que el adoptado sea mayor de edad. Si no lo fuere, se oirá a las personas que prestaron su consentimiento conforme al artículo 397, cuando fueren de domicilio conocido, y a falta de ellas, al representante del Ministerio Público y al Consejo de Tutelas;
-
-II.- Por ingratitud del adoptado;
-
-> <small>(ADICIONADA, D.O.F. 28 DE MAYO DE 1998)</small>
-
-III.- Cuando el Consejo de Adopciones del Sistema Nacional para el Desarrollo Integral de la Familia justifique que existe causa grave que ponga en peligro al menor.
+(DEROGADO, D.O.F. 8 DE ABRIL DE 2013)
 
 ###### ARTICULO 406.
 
-Para los efectos de la fracción II del artículo anterior, se considera ingrato al adoptado:
-
-> <small>(REFORMADA, D.O.F. 17 DE ENERO DE 1970)</small>
-
-I.- Si comete algún delito intencional contra la persona, la honra o los bienes del adoptante, de su cónyuge, de sus ascendientes o descendientes;
-
-> <small>(REFORMADA, D.O.F. 17 DE ENERO DE 1970)</small>
-
-II.- Si el adoptado formula denuncia o querella contra el adoptante, por algún delito aunque se pruebe, a no ser que hubiere sido cometido contra el mismo adoptado, su cónyuge, sus ascendientes o descendientes;
-
-III.- Si el adoptado rehusa dar alimentos al adoptante que ha caído en pobreza.
+(DEROGADO, D.O.F. 8 DE ABRIL DE 2013)
 
 ###### ARTICULO 407.
 
-En el primer caso del artículo 405, el juez decretará que la adopción queda revocada si convencido de la espontaneidad con que se solicitó la revocación, encuentra que ésta es conveniente para los intereses morales y materiales del adoptado.
+(DEROGADO, D.O.F. 8 DE ABRIL DE 2013)
 
 ###### ARTICULO 408.
 
-El decreto del juez deja sin efecto la adopción y restituye las cosas al estado que guardaban antes de efectuarse ésta.
+(DEROGADO, D.O.F. 8 DE ABRIL DE 2013)
 
 ###### ARTICULO 409.
 
-En el segundo caso del artículo 405, la adopción deja de producir efectos desde que se comete el acto de ingratitud, aunque la resolución judicial que declare revocada la adopción sea posterior.
-
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+(DEROGADO, D.O.F. 8 DE ABRIL DE 2013)
 
 ###### ARTICULO 410.
 
-Las resoluciones que dicten los jueces, aprobando la revocación, se comunicarán al Juez del Registro Civil del lugar en que aquélla se hizo para que cancele el acta de adopción.
+(DEROGADO, D.O.F. 8 DE ABRIL DE 2013)
 
 > <small>(ADICIONADA, D.O.F. 28 DE MAYO DE 1998)</small>
 
@@ -12975,3 +12945,7 @@ D.O.F. 9 DE ABRIL DE 2012.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+
+D.O.F. 8 DE ABRIL DE 2013.
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
