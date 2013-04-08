@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-del-instituto-de-fomento-minero-y-39654"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-05-18"
-last_updated: "2004-05-18"
+last_updated: "2013-04-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39654&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 REGLAMENTO INTERNO DEL INSTITUTO DE FOMENTO MINERO Y ESTUDIOS GEOLÓGICOS DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL
+> <small>N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DEL REGLAMENTO INTERNO DEL INSTITUTO DE FOMENTO MINERO Y ESTUDIOS GEOLÓGICOS DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 8 DE ABRIL DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: ABROGADO.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el martes 18 de mayo del 2004.
 
@@ -334,3 +336,13 @@ M. EN ECOL. JOSE LUIS HIDALGO HERNANDO
 SUBDIRECTOR DE EXPLORACION Y EVALUACION GEOLOGICA DEL IFOMEGEM Y SECRETARIO DEL CONSEJO DIRECTIVO
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 8 DE ABRIL DE 2013.
+
+PRIMERO.- Publíquese el presente Reglamento en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se abroga el Reglamento Interno del Instituto de Fomento Minero y Estudios Geológicos del Estado de México, publicado en el Periódico Oficial "Gaceta del Gobierno", el 18 de mayo de 2004.
