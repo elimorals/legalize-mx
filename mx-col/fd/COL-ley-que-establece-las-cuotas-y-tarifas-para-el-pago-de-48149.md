@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-48149"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2010-12-25"
+last_updated: "2013-04-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48149&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE Y ALCANTARILLADO DEL MUNICIPIO DE COQUIMATLAN, COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2013.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 31 de diciembre de 2005.
 
@@ -321,11 +321,13 @@ I.- Se concede un 12% de descuento en el pago de los derechos por el servicio de
 
 II.- Se concede un 8% de descuento a los usuarios de cuota fija que paguen el servicio de agua potable, alcantarillado y saneamiento por anualidad durante los meses de marzo y abril.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2013)</small>
 
-III.- Los usuarios que acrediten ser ciudadanos mexicanos y tener la calidad de pensionados o jubilados con una percepción no mayor a 3 salarios mínimos diarios de la zona económica del Estado de Colima, tendrán derecho a un descuento del 50 por ciento en el pago de los derechos por servicios públicos de agua potable, alcantarillado y saneamiento, respecto de la casa que habitan, para lo cual deberán exhibir a La Comisión previamente los siguientes documentos:
+III.- Los usuarios que acrediten ser ciudadanos mexicanos y tener la calidad de pensionados o jubilados, tendrán derecho a un descuento del 50 por ciento en el pago de los derechos por servicios públicos de agua potable, alcantarillado y saneamiento, respecto de la casa que habitan, para lo cual deberán exhibir a La Comisión previamente los siguientes documentos:
 
-a).- Original y copia del talón o recibo de ingresos y credencial que lo acredite como pensionado o jubilado expedidos por institución oficial mexicana; y,
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2013)</small>
+
+a).- Credencial que lo acredite como pensionado o jubilado expedida por institución oficial mexicana; y
 
 b).- Identificación oficial con fotografía.
 
@@ -406,3 +408,7 @@ P.O. 26 DE SEPTIEMBRE DE 2009.
 P.O. 25 DE DICIEMBRE DE 2010.
 
 ÚNICO.- El presente Decreto entrará en vigor el día 10 de Enero de 2011, previa su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE ABRIL DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su aprobación en el Periódico Oficial "El Estado de Colima".
