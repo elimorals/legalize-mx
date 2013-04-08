@@ -4,7 +4,7 @@ identifier: "LGDS"
 country: "mx"
 rank: "ley_general"
 publication_date: "2004-01-20"
-last_updated: "2012-06-01"
+last_updated: "2013-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35610&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGDS"
 
 LEY GENERAL DE DESARROLLO SOCIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE ABRIL DE 2013.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 20 de enero de 2004.
 
@@ -302,9 +302,11 @@ La publicidad y la información relativa a los programas de desarrollo social de
 
 Se consideran zonas de atención prioritaria las áreas o regiones, sean de carácter predominantemente rural o urbano, cuya población registra índices de pobreza, marginación indicativos de la existencia de marcadas insuficiencias y rezagos en el ejercicio de los derechos para el desarrollo social establecidos en esta Ley. Su determinación se orientará por los criterios de resultados que para el efecto defina el Consejo Nacional de Evaluación de la Política de Desarrollo Social que esta Ley señala y deberá, en todo tiempo, promover la eficacia cuantitativa y cualitativa de los ejecutores de la Política Social.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2013)</small>
+
 ###### Artículo 30.
 
-El Ejecutivo Federal revisará anualmente las zonas de atención prioritaria, teniendo como referente las evaluaciones de resultados de los estudios de medición de la pobreza, que emita el Consejo Nacional de Evaluación de la Política de Desarrollo Social e informará a la Cámara de Diputados sobre su modificación para los efectos de asignaciones del Presupuesto de Egresos de la Federación. La Cámara de Diputados, al aprobar el Presupuesto, hará la Declaratoria de Zonas de Atención Prioritaria, la cual deberá publicarse en el Diario Oficial de la Federación, junto con el Decreto del Presupuesto de Egresos de la Federación.
+El Ejecutivo Federal revisará anualmente las zonas de atención prioritaria, teniendo como referente las evaluaciones de resultados de los estudios de medición de la pobreza, que emita el Consejo Nacional de Evaluación de la Política de Desarrollo Social e informará a la Cámara de Diputados sobre su modificación, desagregado a nivel de localidades en las zonas rurales y a nivel de manzanas en las zonas urbanas, para los efectos de asignaciones del Presupuesto de Egresos de la Federación. La Cámara de Diputados, al aprobar el presupuesto, hará la declaratoria de zonas de atención prioritaria, la cual deberá publicarse en el Diario Oficial de la Federación, junto con el decreto del Presupuesto de Egresos de la Federación.
 
 ###### Artículo 31.
 
@@ -765,3 +767,7 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 D.O.F. 1 DE JUNIO DE 2012.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+P.O. 8 DE ABRIL DE 2013
+
+ÚNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
