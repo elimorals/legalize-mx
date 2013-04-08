@@ -4,7 +4,7 @@ identifier: "LGT"
 country: "mx"
 rank: "ley_general"
 publication_date: "2009-06-17"
-last_updated: "2011-05-25"
+last_updated: "2013-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68848&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGT"
 
 LEY GENERAL DE TURISMO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE MAYO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE ABRIL DE 2013.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 17 de junio de 2009.
 
@@ -578,6 +578,10 @@ El Consejo de Promoción, previo acuerdo con la Secretaría, podrá tener repres
 
 El Consejo de Promoción tendrá el patrimonio, atribuciones, estructura orgánica, órganos de dirección e integrantes de los mismos que se establezcan en su Estatuto Orgánico y se regirá por esta Ley, así como por la Ley Federal de Entidades Paraestatales.
 
+> <small>(ADICIONADO, D.O.F. 8 DE ABRIL DE 2013)</small>
+
+Al patrimonio del Consejo de Promoción se integrará el porcentaje referido al derecho por la autorización de la condición de estancia a visitantes sin permiso para realizar actividades remuneradas que ingresen al país con fines turísticos, establecido en la Ley Federal de Derechos. Este porcentaje se destinará para la promoción turística del país.
+
 El Consejo estará sectorizado, en el ámbito de la Secretaría. El titular del Consejo de Promoción será nombrado por el Presidente de la República.
 
 ### CAPÍTULO II. Del Fomento a la Actividad Turística
@@ -600,7 +604,7 @@ II. Los créditos que obtenga de fuentes nacionales e internacionales;
 
 III. Los productos de sus operaciones y de las inversiones de fondos;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2011)</small>
 
@@ -946,7 +950,7 @@ México, D.F., a 23 de abril de 2009.- Dip. Cesar Horacio Duarte Jaquez, Preside
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a dieciséis de junio de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 25 DE MAYO DE 2011.
 
@@ -959,3 +963,7 @@ Las reformas a la Ley de Asociaciones Religiosas y Culto Público, a la Ley de I
 TERCERO. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Población por lo que hace a cuestiones de carácter migratorio, se entenderán referidas a la Ley de Migración.
 
 CUARTO. Las resoluciones dictadas por la autoridad migratoria durante la vigencia de las disposiciones de la Ley General de Población que se derogan, surtirán sus plenos efectos jurídicos.
+
+D.O.F. 8 DE ABRIL DE 2013.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
