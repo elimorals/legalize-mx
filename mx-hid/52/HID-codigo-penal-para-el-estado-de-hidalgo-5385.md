@@ -4,7 +4,7 @@ identifier: "HID-codigo-penal-para-el-estado-de-hidalgo-5385"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-06-09"
-last_updated: "2013-04-01"
+last_updated: "2013-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5385&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CÓDIGO PENAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2013.
 
 Código publicado en el Alcance al Periódico Oficial del Estado de Hidalgo, el sábado 9 de junio de 1990.
 
@@ -2025,15 +2025,25 @@ En caso de reincidencia, la sanción será de uno a tres años de prisión y la 
 
 Al que se apodere de una cosa mueble ajena, sin consentimiento de quien pueda otorgarlo conforme a la ley, se le aplicarán las siguientes penas:
 
-I.- Si el valor de lo robado no excede de cincuenta veces el salario, la pena aplicable será prisión de tres meses a un año y multa de 5 a 30 días;
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2013)</small>
 
-II.- Prisión de seis meses a tres años y multa de 10 a 180 días cuando el valor de lo robado sea de cincuenta a quinientas veces el salario;
+I.- Prisión de seis meses a dos años y multa de 50 a 100 días, cuando el valor de lo robado no exceda de cincuenta veces el salario;
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2013)</small>
 
-III.- Prisión de dos a cinco años y multa de 30 a 240 días, cuando el valor de lo robado sea quinientas a mil veces el salario mínimo;
+II.- Prisión de dos a cuatro años y multa de 100 a 150 días cuando el valor de lo robado sea de cincuenta a quinientas veces el salario;
 
-IV.- Prisión de tres a siete años y multa de 50 a 300 días, cuando el valor de lo robado exceda de mil veces el salario.
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2013)</small>
+
+III.- Prisión de cuatro a seis años y multa de 150 a 200 días, cuando el valor de lo robado sea quinientas a mil veces el salario mínimo;
+
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2013)</small>
+
+IV.- Prisión de seis a diez años y multa de 200 a 300 días, cuando el valor de lo robado exceda de mil veces el salario;
+
+> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2013)</small>
+
+V.- Prisión de uno a cinco años y multa de cincuenta a doscientos días, si por alguna circunstancia la cuantía del robo no fuere estimable en dinero o si por su naturaleza no se hubiere fijado su valor.
 
 > <small>(ADICIONADO, P.O. 22 DE MARZO DE 1999)</small>
 
@@ -2063,9 +2073,9 @@ Se duplicará la punibilidad prevista en los artículos anteriores, si el robo s
 
 I.- Cuando se ejerza violencia para proporcionarse a la fuga o defender lo robado;
 
-> <small>(REFORMADA, P.O. 14 DE ENERO DE 2002)</small>
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2013)</small>
 
-II.- En lugar cerrado, habitado o destinado para habitación o sus dependencias, comprendiendo no solo los que estén fijos en la tierra sino también los móviles;
+II.- En lugar cerrado, habitado o destinado para habitación o sus dependencias, comprendiendo no solo los que estén fijos en la tierra sino también los móviles, cualquiera que sea el material con el que estén construidos.
 
 III.- (DEROGADA, P.O. 14 DE ENERO DE 2002)
 
@@ -2325,7 +2335,7 @@ Se impondrán las penas a que hace referencia el artículo anterior, al que dañ
 
 Si el daño recae en bienes de valor científico, artístico o de un servicio público o se comete por medio de inundación, incendio o explosivos, cualquiera que sea el bien dañado, se impondrá el doble de la punibilidad prevista en el artículo 203 de este Código, conforme al valor de lo dañado.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 3 DE JULIO DE 2006)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 3 DE JULIO DE 2006)</small>
 
 ### CAPITULO VII. INCESTO
 
@@ -2441,9 +2451,11 @@ Tratándose de los delitos de robo y abigeato no calificados y receptación pers
 
 Lo dispuesto en el párrafo anterior no será aplicable si el delito fue cometido por un servidor público, si éste se aprovechó del cargo para cometerlo.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2013)</small>
+
 ###### ARTICULO 228.
 
-La cuantía del objeto o producto del delito se estimará atendiendo a su valor de cambio. Si el objeto o producto no fuere estimable en dinero o si por su naturaleza no fuere posible fijar su valor, la pena aplicable será de tres meses a nueve años de prisión y de 25 a 150 días multa.
+La cuantía del objeto o producto del delito se estimará atendiendo a su valor de cambio. Si el objeto o producto no fuere estimable en dinero o si por su naturaleza no fuere posible fijar su valor, se aplicará le (sic) punibilidad prevista en la fracción V del Artículo 203.
 
 ###### ARTICULO 229.
 
@@ -3073,7 +3085,7 @@ Si el responsable de estos delitos es servidor público, la punibilidad se aumen
 
 ## TITULO DECIMO OCTAVO. DELITOS COMETIDOS EN LA ADMINISTRACION DE JUSTICIA
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE ABRIL DE 2013)</small>
 
 ### CAPITULO IV. FALSEDAD ANTE LA AUTORIDAD
 
@@ -3143,9 +3155,9 @@ Al servidor público que indebidamente dé a conocer documento o noticia que deb
 
 Igual pena se impondrá al servidor público que utilice en provecho propio o ajeno descubrimiento científico o técnico u otra información llegados a su conocimiento por razón de sus funciones, y que daba permanecer en secreto, siempre que el hecho no constituya otro delito.
 
-### CAPITULO I. DELITOS COMETIDOS POR LOS SERVIDORES PUBLICOS Y TORTURA
+### CAPITULO I. DELITOS COMETIDOS POR LOS SERVIDORES PUBLICOS, TORTURA Y DESAPARICION FORZADA DE PERSONAS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 1999)</small>
 
 ###### ARTICULO 305.
 
@@ -3465,19 +3477,33 @@ XXIX.- Permitir la sustracción de un documento bajo su cuidado, fuera de la ofi
 
 Se aplicara el doble de la punibilidad que corresponda, al servidor público que incurra en el supuesto previsto en la fracción VII de este artículo, tratándose de la investigación de los delitos previstos en los Artículos 139 bis y 141 bis; inhabilitándose además al responsable para despeñar cualquier otro cargo o comisión dentro del servicio público por un periodo igual al de la pena de prisión impuesta.
 
-> <small>(ADICIONADO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2013)</small>
 
-ARTICULO 322 BIS.- Al servidor público que, en ejercicio de sus funciones, inflija a una persona dolores o sufrimientos graves sean físicos o psíquicos, con el fin de obtener del torturado o de un tercero, información o una confesión o de coaccionarla para que realice o deje de hacer una conducta determinada o para castigarla por acto que haya cometido o se sospeche ha cometido, se le impondrá prisión de tres a doce años y multa de 200 a 500 días, privación de su cargo e inhabilitación para el desempeño de cualquier cargo, empleo o comisión públicos hasta por el máximo de la punibilidad señalada.
+ARTICULO 322 BIS.- AI servidor público que, en ejercicio de sus funciones o aduciendo su encargo, por sí o a través de un tercero, ordene, instigue o induzca para infligir a una persona dolores o sufrimientos graves sean físicos o mentales, con el fin de obtener del torturado o de un tercero, información o una confesión, de intimidar o coaccionar a la víctima para que realice o deje de hacer una conducta determinada, castigarla por un acto que haya cometido o se sospeche ha cometido, o anular su personalidad o disminuir su capacidad física o mental, aunque los métodos empleados no causen dolor físico o angustia psíquica, se le impondrá prisión de tres a doce años y multa de 200 a 500 días, privación de su cargo e inhabilitación para el desempeño de cualquier cargo, empleo o comisión públicos hasta por el máximo de la punibilidad señalada.
 
-No se considerará como tortura las molestias o penalidades que sean consecuencia únicamente de sanciones legales, que sean inherentes o incidentales a éstas o derivadas de un acto legítimo de autoridad.
+Se impondrá la misma pena a quien, aún careciendo de la calidad de servidor público, pero instigado o autorizado explícita o implícitamente por éste, ejerza actos de tortura.
 
-Se impondrá la misma punibilidad a quien, aún careciendo de la calidad de servidor público, pero instigado o autorizado por éste, explícita o implícitamente, ejerza actos de tortura.
+No se considerará como tortura, las molestias o sufrimientos que sean consecuencia de sanciones legales, inherentes o incidentales a éstas o derivadas de un acto legítimo de autoridad.
 
-El servidor público que en el ejercicio de sus funciones conozca de un hecho de tortura, está obligado a denunciarlo de inmediato; si no lo hiciere, se le impondrán hasta tres años de prisión y multa de 15 a 60 días y suspensión del cargo hasta por el máximo de la punibilidad señalada.
+EI servidor público que en el ejercicio de sus funciones conozca de un hecho de tortura, está obligado a denunciarlo de inmediato; si no lo hiciere, se le impondrán hasta tres años de prisión y multa de 15 a 60 días y suspensión del cargo hasta por el máximo de la punibilidad señalada. La misma pena se impondrá al Agente del Ministerio Publico que al tener conocimiento o razones fundadas para considerar que existió tortura, no inicie de oficio la indagatoria correspondiente.
 
-No podrá invocarse como causa de justificación, en la comisión del tipo penal descrito en el párrafo primero de este artículo, la orden de un superior jerárquico o de cualquier otra autoridad.
+No podrá invocarse como causa de justificación en la comisión del delito de tortura, la orden de un superior jerárquico o de cualquier otra autoridad, la existencia de situaciones excepcionales como peligrosidad del indiciado, urgencia en las investigaciones o cualquier otra circunstancia análoga o de emergencia pública.
 
-En los delitos previstos por este artículo, la reparación de los daños y perjuicios comprenderá, además, los gastos de asesoría legal, médicos, funerarios, de rehabilitación o de cualquier índole, según el caso, en que hubiesen incurrido el ofendido o sus familiares como consecuencia del delito. Asimismo, el sentenciado estará obligado a reparar el daño y a indemnizar por los perjuicios causados al ofendido o sus dependientes económicos, en los siguientes casos: pérdida de la vida; alteración de la salud; pérdida de la libertad, pérdida de ingresos económicos; incapacidad laboral; pérdida o el daño en la propiedad o menoscabo de reputación.
+En el delito previsto por este artículo, la reparación de los daños y perjuicios comprenderá además, los gastos de atención médica y/o psicológica, rehabilitación, asesoría legal, servicio funerario o de cualquier otra índole, que haya erogado la víctima o sus familiares como consecuencia del delito. Asimismo, el sentenciado estará obligado a reparar el daño y a indemnizar por los perjuicios causados a la víctima, en los siguientes casos: pérdida de la vida, de algún órgano o algún miembro de su cuerpo, alteración de la salud física o mental, pérdida de la Iibertad, pérdida de ingresos económicos, incapacidad laboral, pérdida o el daño en la propiedad y/o menoscabo de su reputación.
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2013)</small>
+
+ARTICULO 322 TER.- Comete el delito de desaparición forzada de personas, y se le impondrá prisión de veinte a cuarenta años, multa de 200 a 500 días y privación de su cargo e inhabilitación para el desempeño de cualquier cargo, empleo o comisión públicos hasta por el máximo de la punibilidad señalada, al servidor público que actuando con ese carácter o aduciendo su cargo, por sí o a través de un tercero, tenga conocimiento o intervenga de cualquier modo, en la detención legal o privación ilegal de la libertad de una o varias personas, propiciando o manteniendo dolosamente su ocultamiento, al negarse a reconocer la privación de la libertad o a proporcionar información sobre el paradero de la víctima.
+
+Se impondrá la misma punibilidad a quien, aún careciendo de la calidad de servidor público, pero instigado, apoyado o autorizado por éste, explícita o implícitamente, realice o participe en la desaparición forzada de una persona.
+
+EI servidor público que en el ejercicio de sus funciones conozca de un hecho de desaparición forzada de personas o el paradero de la víctima, está obligado a denunciarlo de inmediato; si no lo hiciere, se le impondrán de diez a veinte años de prisión, multa de 100 a 300 días y suspensión del cargo hasta por el máximo de la punibilidad señalada.
+
+Las penas previstas en este artículo, podrán ser disminuidas hasta en una tercera parte, en beneficio de aquel que hubiere participado en la comisión del delito, cuando suministre información que permita esclarecer los hechos, y hasta en una mitad, cuando contribuya a lograr la aparición con vida de la víctima.
+
+No podrá invocarse como causa de justificación, en la comisión de la conducta descrita en el párrafo primero de este artículo, la orden de un superior jerárquico o de cualquier otra autoridad.
+
+La oposición o negativa a la autoridad competente para tener libre e inmediato acceso al lugar donde haya motivos para creer que se pueda encontrar a una persona desaparecida, por parte del servidor público responsable del mismo, será sancionada con la destitución de su cargo, comisión o empleo, sin perjuicio de la aplicación de las penas de los demás delitos en que pudiera incurrir con motivo de su conducta.
 
 ###### ARTICULO 323.
 
@@ -3849,7 +3875,7 @@ Se impondrá prisión de seis meses a tres años y multa de cien a quinientos d�
 
 Se impondrá prisión de tres meses a cinco años y multa de cien a trescientos días de salario mínimo general vigente en el Estado, a quien se ostente como candidato de un partido político o coalición durante el proceso electoral, sin que hubiere sido registrado por el mismo.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P. O. 11 DE MAYO DE 2007)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P. O. 11 DE MAYO DE 2007)</small>
 
 ###### ARTICULO 355.
 
@@ -3899,7 +3925,7 @@ XXI.- Siendo presidente de casilla admita en la misma la presencia de personas d
 
 XXII.- Consienta que la votación se lleve a cabo cometiendo cualquiera de los ilícitos previstos en este Título.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P. O. 11 DE MAYO DE 2007)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P. O. 11 DE MAYO DE 2007)</small>
 
 ###### ARTICULO 356.
 
@@ -4146,3 +4172,19 @@ P.O. 1 DE ABRIL DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor, al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE ABRIL DE 2013.
+
+DECRETO NÚMERO 484, POR EL QUE SE REFORMAN LOS ARTÍCULOS 203 FRACCIONES I, II, III Y IV, ADICIONÁNDOSE LA FRACCIÓN V, 206 FRACCIÓN II, 228 Y LA DENOMINACIÓN DEL CAPÍTULO I DEL TÍTULO DÉCIMO OCTAVO DEL LIBRO SEGUNDO, TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE HIDALGO Y SE ADICIONA EL ARTÍCULO 322 TER.
+
+ÚNICO. EI presente Decreto entrará en vigor, al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 8 DE ABRIL DE 2013.
+
+DECRETO NÚMERO 485, POR EL QUE SE REFORMA EL ARTÍCULO 322 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE HIDALGO.
+
+PRIMERO.- EI presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Para la implementación de los protocolos de actuación policial y pericial citados en la Ley, la Secretaría de Seguridad Pública del Estado y sus similares en los Municipios y la Procuraduría General de Justicia del Estado, contarán con 180 días hábiles a partir de la entrada en vigencia de este ordenamiento para su expedición.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan a la presente Ley.
