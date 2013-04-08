@@ -4,7 +4,7 @@ identifier: "COL-ley-de-ejecucion-de-penas-y-medidas-de-seguridad-para-el-88981"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-11"
-last_updated: "2012-08-11"
+last_updated: "2013-04-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88981&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DE EJECUCIÓN DE PENAS Y MEDIDAS DE SEGURIDAD PARA EL ESTADO DE COLIMA
 
 > <small>N. DE E. DE CONFORMIDAD A LO DISPUESTO POR EL DÉCIMO PRIMERO TRANSITORIO DE LA PRESENTE LEY, TODO LO QUE SE REFIERA AL NUEVO SISTEMA DE JUSTICIA PENAL ACUSATORIO ADVERSARIAL, ENTRARÁ EN VIGOR A PARTIR DEL 03 DE DICIEMBRE DEL 2012.</small>
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2013.
 
 Ley publicada en el Suplemento No. 2 del Periódico Oficial del Estado de Colima, el sábado 11 de agosto de 2012.
 
@@ -936,6 +936,10 @@ La reducción de la pena por reparación del daño consiste en la disminución d
 Para el otorgamiento de esa figura, se requiere que el sentenciado acredite ante el Juez de Ejecución haber reparado el monto total de la condena impuesta a título de reparación de daño.
 
 La de la pena por pago de la multa impuesta será por 1% de la pena de prisión fijada al sentenciado. Pago que de igual manera deberá acreditar ante el Juez de Ejecución, previo al otorgamiento de este beneficio.
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2013)</small>
+
+Excepcionalmente, cuando la sentencia se trate de los delitos contra el patrimonio, contenidos en el Título Séptimo del Código Penal, la reducción de la pena por reparación del daño consistirá en la disminución de un tercio de la pena de prisión impuesta al sentenciado. Este beneficio se otorgará siempre que la reparación del daño se cumpla dentro de los seis meses siguientes a partir de que se haya dictado la ejecutoria de la sentencia.
 
 ### CAPÍTULO III. DE LA LIBERTAD ANTICIPADA
 
@@ -3030,3 +3034,9 @@ Por lo tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, el día 08 ocho del mes de agosto del año 2012 dos mil doce.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE COLIMA, LIC. MARIO ANGUIANO MORENO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. RENÉ RODRÍGUEZ ALCARAZ. Rúbrica. EL SECRETARIO DE FINANZAS Y ADMINISTRACIÓN, DR. J. JESÚS OROZCO ALFARO. Rúbrica. PROCURADORA GENERAL DE JUSTICIA DEL ESTADO, LICDA. YOLANDA VERDUZCO GUZMÁN. Rúbrica. EL SECRETARIO DE SEGURIDAD PÚBLICA, GRAL. DE DIV. D.E.M. RET. RAÚL PINEDO DÁVILA. Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 8 DE ABRIL DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
