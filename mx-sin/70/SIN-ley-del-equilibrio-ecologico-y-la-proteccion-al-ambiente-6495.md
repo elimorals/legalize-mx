@@ -4,7 +4,7 @@ identifier: "SIN-ley-del-equilibrio-ecologico-y-la-proteccion-al-ambiente-6495"
 country: "mx"
 rank: "ley"
 publication_date: "1991-07-12"
-last_updated: "1993-08-04"
+last_updated: "2013-04-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SIN"
 ---
 # LEY DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE DEL ESTADO DE SINALOA
 
-LEY DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE DEL ESTADO DE SINALOA
+LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE AGOSTO DE 1993.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE SINALOA, PUBLICADA EN EL P.O. 8 DE ABRIL DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley Publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el viernes 12 de julio de 1991.
 
@@ -247,7 +249,7 @@ XVIII.- Delegar en las autoridades municipales las atribuciones que esta Ley oto
 
 XIX.- Las demás que conforme a esta Ley y otros ordenamientos aplicables le correspondan.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE AGOSTO DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE AGOSTO DE 1993)</small>
 
 ###### ARTICULO 6.
 
@@ -805,7 +807,7 @@ La Secretaría con la participación de la Secretaría de Educación y Cultura d
 
 El Gobierno del Estado y los Municipios fomentarán investigaciones científicas y promoverán programas para el desarrollo de técnicas y procedimientos que permitan prevenir, controlar y abatir la contaminación, propiciar el aprovechamiento racional de los recursos naturales y proteger los ecosistemas, específicamente los de la Entidad para tal efecto, se podrán celebrar convenios con instituciones de educación superior, centros de investigación, instituciones del sector social y privado, investigadores y especialistas en la materia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE AGOSTO DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE AGOSTO DE 1993)</small>
 
 ###### ARTICULO 51.
 
@@ -1289,7 +1291,7 @@ IV.- Los riesgos y problemas de salud.
 
 Los municipios autorizarán, con arreglo a las normas técnicas ecológicas que para tal efecto expida la Secretaría y la SEDESOL, el funcionamiento de los sistemas de manejo de los residuos sólidos no peligrosos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE AGOSTO DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE AGOSTO DE 1993)</small>
 
 ###### ARTICULO 113.
 
@@ -1717,10 +1719,52 @@ EL SECRETARIO DE PLANEACION Y DESARROLLO
 
 Lic. José de Jesús Canobbio Lugo
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 4 DE AGOSTO DE 1993.
 
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 8 DE ABRIL DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor treinta días siguientes de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Sinaloa, publicada en el Periódico Oficial "El Estado de Sinaloa" No. 83, de fecha 12 de julio de 1991, Segunda sección.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones que se opongan a las contenidas en la presente Ley.
+
+###### ARTÍCULO CUARTO.
+
+En un plazo de treinta días a partir de la entrada en vigor de la presente Ley, se expedirán los Reglamentos Interiores, del Consejo Estatal para el Desarrollo Sustentable, del Centro de Estudios para el Desarrollo Sustentable de Sinaloa, y del Fondo Estatal Ambiental, los cuales iniciarán sus operaciones cuando se cuente con las previsiones presupuestarias requeridas.
+
+###### ARTÍCULO QUINTO.
+
+Los ayuntamientos deberán adecuar sus Reglamentos, Bandos de Policía y Gobierno y demás disposiciones aplicables, a lo establecido en la presente Ley.
+
+###### ARTÍCULO SEXTO.
+
+En tanto se expidan las disposiciones reglamentarias de esta Ley, seguirán en vigor las que han regido hasta ahora, en lo que no la contravengan.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las referencias legales o reglamentarias a la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Sinaloa, se entienden hechas, en lo aplicable, a la presente Ley.
+
+###### ARTÍCULO OCTAVO.
+
+Los procedimientos y recursos administrativos, que se hubieren iniciado bajo la vigencia de la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Sinaloa, se tramitarán y resolverán conforme a las disposiciones de dicha Ley que se abroga.
+
+###### ARTÍCULO NOVENO.
+
+La Secretaría en coordinación con la autoridad municipal, según corresponda, aplicará lo dispuesto en este Decreto en el ámbito municipal, en aquellas materias cuya competencia no correspondía a dicho orden de gobierno antes de la entrada en vigor del presente Decreto, hasta en tanto sean expedidos y modificados los ordenamientos señalados en el artículo cuarto transitorio.
+
+###### ARTÍCULO DÉCIMO.
+
+Las autorizaciones, permisos, licencias y concesiones otorgadas con anterioridad a la fecha de entrada en vigor del presente Decreto, seguirán vigentes; su prórroga o revocación se sujetará a las disposiciones del presente Decreto.
