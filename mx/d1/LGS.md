@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2013-01-25"
+last_updated: "2013-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE ABRIL DE 2013.
 
 ÚLTIMA MODIFICACIÓN AL LISTADO DE SUSTANCIAS PSICOTRÓPICAS: 9 DE JULIO DE 1996.
 
@@ -222,9 +222,9 @@ XV bis.- El Programa Nacional de Prevención, Atención y Control del VIH/SIDA e
 
 XVI.- La prevención y el control de enfermedades no transmisibles y accidentes;
 
-> <small>(REFORMADA, D.O.F. 10 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2013)</small>
 
-XVII.- La prevención de la invalidez y la rehabilitación de los inválidos;
+XVII.- La prevención de la discapacidad y la rehabilitación de las personas con discapacidad;
 
 > <small>(REFORMADA, D.O.F. 10 DE JUNIO DE 2011)</small>
 
@@ -364,7 +364,9 @@ I.- Proporcionar servicios de salud a toda la población y mejorar la calidad de
 
 II.- Contribuir al desarrollo demográfico armónico del país;
 
-III.- Colaborar al bienestar social de la población mediante servicios de asistencia social, principalmente a menores en estado de abandono, ancianos desamparados y minusválidos, para fomentar su bienestar y propiciar su incorporación a una vida equilibrada en lo económico y social;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2013)</small>
+
+III.- Colaborar al bienestar social de la población mediante servicios de asistencia social, principalmente a menores en estado de abandono, ancianos desamparados y personas con discapacidad, para fomentar su bienestar y propiciar su incorporación a una vida equilibrada en lo económico y social;
 
 IV.- Dar impulso al desarrollo de la familia y de la comunidad, así como a la integración social y al crecimiento físico y mental de la niñez;
 
@@ -842,9 +844,9 @@ I.- Preventivas, que incluyen las de promoción general y las de protección esp
 
 II.- Curativas, que tienen como fin efectuar un diagnóstico temprano y proporcionar tratamiento oportuno;
 
-> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 2009)</small>
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2013)</small>
 
-III.- De rehabilitación, que incluyen acciones tendientes a corregir las invalideces físicas o mentales, y
+III.- De rehabilitación, que incluyen acciones tendientes a optimizar las capacidades y funciones de las personas con discapacidad, y
 
 > <small>(ADICIONADA, D.O.F. 5 DE ENERO DE 2009)</small>
 
@@ -1064,11 +1066,11 @@ VI.- Información a las autoridades competentes de las irregularidades o deficie
 
 VII.- Otras actividades que coadyuven a la protección de la salud.
 
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 2009)</small>
+> <small>(REFORMADO, D.O.F. 8 DE ABRIL DE 2013)</small>
 
 ###### ARTICULO 59.
 
-Las dependencias y entidades del sector salud y los gobiernos de las entidades federativas, promoverán y apoyarán la constitución de grupos, asociaciones y demás instituciones que tengan por objeto participar organizadamente en los programas de promoción y mejoramiento de la salud individual o colectiva, así como en los de prevención de enfermedades y accidentes, y de prevención de invalidez y de rehabilitación de inválidos, así como en los cuidados paliativos.
+Las dependencias y entidades del sector salud y los gobiernos de las entidades federativas, promoverán y apoyarán la constitución de grupos, asociaciones y demás instituciones que tengan por objeto participar organizadamente en los programas de promoción y mejoramiento de la salud individual o colectiva, así como en los de prevención de enfermedades y accidentes, y de prevención de la discapacidad y de rehabilitación de personas con discapacidad, así como en los cuidados paliativos.
 
 ###### ARTICULO 60.
 
@@ -2118,7 +2120,7 @@ III.- Podrá efectuarse sólo cuando exista una razonable seguridad de que no ex
 
 > <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2012)</small>
 
-IV. Se deberá contar con el consentimiento informado por escrito del sujeto en quien se realizará la investigación, o de su representante legal en caso de incapacidad legal de aquél, una vez enterado de los objetivos de la experimentación y de las posibles consecuencias positivas o negativas para su salud;
+IV.- Se deberá contar con el consentimiento informado por escrito del sujeto en quien se realizará la investigación, o de su representante legal en caso de incapacidad legal de aquél, una vez enterado de los objetivos de la experimentación y de las posibles consecuencias positivas o negativas para su salud;
 
 > <small>(REFORMADA, D.O.F. 14 DE JULIO DE 2008)</small>
 
@@ -2126,9 +2128,9 @@ V.- Sólo podrá realizarse por profesionales de la salud en instituciones médi
 
 La realización de estudios genómicos poblacionales deberá formar parte de un proyecto de investigación;
 
-> <small>(REFORMADA, D.O.F. 14 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2013)</small>
 
-VI.- El profesional responsable suspenderá la investigación en cualquier momento, si sobreviene el riesgo de lesiones graves, invalidez o muerte del sujeto en quien se realice la investigación;
+VI.- El profesional responsable suspenderá la investigación en cualquier momento, si sobreviene el riesgo de lesiones graves, discapacidad, muerte del sujeto en quien se realice la investigación;
 
 > <small>(ADICIONADA, D.O.F. 14 DE DICIEMBRE DE 2011)</small>
 
@@ -2244,7 +2246,9 @@ La Secretaría de Salud y los gobiernos de las entidades federativas, en el ámb
 
 La información se referirá, fundamentalmente, a los siguientes aspectos:
 
-I.- Estadísticas de natalidad, mortalidad, morbilidad e invalidez;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2013)</small>
+
+I.- Estadísticas de natalidad, mortalidad, morbilidad y discapacidad;
 
 II.- Factores demográficos, económicos, sociales y ambientales vinculados a la salud, y
 
@@ -2302,9 +2306,9 @@ I.- Educación para la salud;
 
 II.- Nutrición;
 
-> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2013)</small>
 
-III.- Control de los efectos nocivos del ambiente en la salud;
+III.- Control de los efectos nocivos del ambiente en la salud, adoptando medidas y promoviendo estrategias de mitigación y de adaptación a los efectos del cambio climático;
 
 > <small>(REFORMADA, D.O.F. 27 DE MAYO DE 1987)</small>
 
@@ -2326,9 +2330,9 @@ I.- Fomentar en la población el desarrollo de actitudes y conductas que le perm
 
 II.- Prorporcionar (sic) a la población los conocimientos sobre las causas de las enfermedades y de los daños provocados por los efectos nocivos del ambiente en la salud, y
 
-> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 2009)</small>
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2013)</small>
 
-III.- Orientar y capacitar a la población preferentemente en materia de nutrición, salud mental, salud bucal, educación sexual, planificación familiar, cuidados paliativos, riesgos de automedicación, prevención de fármacodependencia, salud ocupacional, salud visual, salud auditiva, uso adecuado de los servicios de salud, prevención de accidentes, prevención y rehabilitación de la invalidez y detección oportuna de enfermedades.
+III.- Orientar y capacitar a la población preferentemente en materia de nutrición, salud mental, salud bucal, educación sexual, planificación familiar, cuidados paliativos, riesgos de automedicación, prevención de farmacodependencia, salud ocupacional, salud visual, salud auditiva, uso adecuado de los servicios de salud, prevención de accidentes, prevención de la discapacidad y rehabilitación de las personas con discapacidad y detección oportuna de enfermedades.
 
 > <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
@@ -2412,6 +2416,10 @@ II.- Emitir las normas oficiales mexicanas a que deberá sujetarse el tratamient
 
 III.- Establecer criterios sanitarios para la fijación de las condiciones particulares de descarga, el tratamiento y uso de aguas residuales o en su caso, para la elaboración de normas oficiales mexicanas ecológicas en la materia;
 
+> <small>(ADICIONADA, D.O.F. 8 DE ABRIL DE 2013)</small>
+
+III Bis.- Determinar y evaluar los riesgos sanitarios a los que se encuentra expuesta la población en caso de eventos provocados por fenómenos naturales originados por cambio climático;
+
 > <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 1991)</small>
 
 IV.- Promover y apoyar el saneamiento básico;
@@ -2429,6 +2437,10 @@ VII.- En general, ejercer actividades similares a las anteriores ante situacione
 Corresponde a la Secretaría de Salud y a los gobiernos de las entidades federativas, en sus respectivos ámbitos de competencia:
 
 I.- Desarrollar investigación permanente y sistemática de los riesgos y daños que para la salud de la población origine la contaminación del ambiente;
+
+> <small>(ADICIONADA, D.O.F. 8 DE ABRIL DE 2013)</small>
+
+I Bis.- Formular programas para la atención y control de los efectos nocivos del ambiente en la salud que consideren, entre otros, aspectos del cambio climático;
 
 > <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 1991)</small>
 
@@ -2824,7 +2836,9 @@ IV.- El fomento, dentro de los programas de educación para la salud, de la orie
 
 V.- La atención de los padecimientos que se produzcan como consecuencia de ellos, y
 
-VI.- La promoción de la participación de la comunidad en la prevención de accidentes.
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2013)</small>
+
+VI.- La promoción de la participación y capacitación de la comunidad en la prevención y primeros auxilios de accidentes.
 
 Para la mayor eficacia de las acciones a las que se refiere este artículo, se creará el Consejo Nacional para la Prevención de Accidentes del que formarán parte representantes de los sectores público, social y privado.
 
@@ -3096,7 +3110,9 @@ El personal médico que, por decisión propia, deje de proporcionar cualquier tr
 
 Queda prohibida, la práctica de la eutanasia, entendida como homicidio por piedad así como el suicidio asistido conforme lo señala el Código Penal Federal, bajo el amparo de esta ley. En tal caso se estará a lo que señalan las disposiciones penales aplicables.
 
-## TITULO NOVENO. Asistencia Social, Prevención de Invalidez y Rehabilitación de Inválidos
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 8 DE ABRIL DE 2013)</small>
+
+## TITULO NOVENO. Asistencia Social, Prevención de la Discapacidad y Rehabilitación de las Personas con Discapacidad
 
 ### CAPITULO I. Disposiciones Comunes
 
@@ -3110,15 +3126,21 @@ Para los efectos de esta Ley, se entiende por Asistencia Social el conjunto de a
 
 Son actividades básicas de Asistencia Social:
 
-I.- La atención a personas que, por sus carencias socio-económicas o por problemas de invalidez, se vean impedidas para satisfacer sus requerimientos básicos de subsistencia y desarrollo;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2013)</small>
 
-II.- La atención en establecimientos especializados a menores y ancianos en estado de abandono o desamparo e inválidos sin recursos;
+I.- La atención a personas que, por sus carencias socio-económicas o por su condición de discapacidad se vean impedidas para satisfacer sus requerimientos básicos de subsistencia y desarrollo;
+
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2013)</small>
+
+II.- La atención en establecimientos especializados a menores y ancianos en estado de abandono o desamparo y personas con discapacidad sin recursos;
 
 III.- La promoción del bienestar del senescente y el desarrollo de acciones de preparación para la senectud;
 
 IV.- El ejercicio de la tutela de los menores, en los términos de las disposiciones legales aplicables;
 
-V.- La prestación de servicios de asistencia jurídica y de orientación social, especialmente a menores, ancianos e inválidos sin recursos;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2013)</small>
+
+V.- La prestación de servicios de asistencia jurídica y de orientación social, especialmente a menores, ancianos y personas con discapacidad sin recursos;
 
 VI.- La realización de investigaciones sobre las causas y efectos de los problemas prioritarios de asistencia social;
 
@@ -3150,57 +3172,75 @@ En estos casos, las instituciones de salud podrán tomar las medidas inmediatas 
 
 El Gobierno Federal contará con un organismo que tendrá entre sus objetivos la promoción de la asistencia social, la prestación de servicios en ese campo y la realización de las demás acciones que establezcan las disposiciones legales aplicables. Dicho organismo promoverá la interrelación sistemática de acciones que en el campo de la asistencia social lleven a cabo las instituciones públicas.
 
+> <small>(REFORMADO, D.O.F. 8 DE ABRIL DE 2013)</small>
+
 ###### ARTICULO 173.
 
-Para los efectos de esta Ley, se entiende por invalidez la limitación en la capacidad de una persona para realizar por sí misma actividades necesarias para su desempeño físico, mental, social, ocupacional y económico como consecuencia de una insuficiencia somática, psicológica o social.
+Para los efectos de esta Ley, se entiende por discapacidad a la o las deficiencias de carácter físico, mental, intelectual o sensorial, ya sea permanente o temporal que por razón congénita o adquirida, presenta una persona, que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva, en igualdad de condiciones con los demás.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE ABRIL DE 2013)</small>
 
 ###### ARTICULO 174.
 
-La atención en materia de prevención de invalidez y rehabilitación de inválidos corresponde:
+La atención en materia de prevención de la discapacidad y rehabilitación de las personas con discapacidad comprende:
 
-I.- La investigación de las causas de la invalidez y de los factores que la condicionan;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2013)</small>
 
-II.- La promoción de la participación de la comunidad en la prevención y control de las causas y factores condicionantes de la invalidez;
+I.- La investigación de las causas de la discapacidad y de los factores que la condicionan;
 
-III.- La identificación temprana y la atención oportuna de procesos físicos, mentales y sociales que puedan causar invalidez;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2013)</small>
 
-IV.- La orientación educativa en materia de rehabilitación a la colectividad en general, y en particular a las familias que cuenten con algún inválido, promoviendo al efecto la solidaridad social;
+II.- La promoción de la participación de la comunidad en la prevención y control de las causas y factores condicionantes de la discapacidad;
 
-V.- La atención integral de los inválidos, incluyendo la adaptación de las prótesis, órtesis y ayudas funcionales que requieran;
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2013)</small>
 
-VI.- La promoción para adecuar facilidades urbanísticas y arquitectónicas a las necesidades de los inválidos, y
+III.- La identificación temprana y la atención oportuna de procesos físicos, mentales y sociales que puedan causar discapacidad;
+
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2013)</small>
+
+IV.- La orientación educativa en materia de rehabilitación a la colectividad en general, y en particular a las familias que cuenten con alguna persona con discapacidad, promoviendo al efecto la solidaridad social;
+
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2013)</small>
+
+V.- La atención integral de las personas con discapacidad, incluyendo la adaptación de las prótesis, órtesis y ayudas funcionales que requieran;
+
+> <small>(REFORMADA, D.O.F. 8 DE ABRIL DE 2013)</small>
+
+VI.- La promoción para adecuar facilidades urbanísticas y arquitectónicas a las necesidades de las personas con discapacidad, y
 
 VII.- La promoción de la educación y la capacitación para el trabajo, así como la promoción del empleo de las personas en proceso de rehabilitación.
 
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
+> <small>(REFORMADO, D.O.F. 8 DE ABRIL DE 2013)</small>
 
 ###### ARTICULO 175.
 
-La Secretaría de Salud establecerá las normas oficiales mexicanas de carácter nacional en materia de prevención de invalidez y rehabilitación de inválidos y coordinará, supervisará y evaluará su cumplimiento por parte de las instituciones públicas, sociales y privadas que persigan estos fines.
+La Secretaría de Salud establecerá las normas oficiales mexicanas de carácter nacional en materia de prevención de la discapacidad y rehabilitación de las personas con discapacidad, y coordinará, supervisará y evaluará su cumplimiento por parte de las instituciones públicas, sociales privadas que persigan estos fines.
 
 ###### ARTICULO 176.
 
 Los servicios de rehabilitación que proporcionen los establecimientos del sector salud estarán vinculados sistemáticamente a los de rehabilitación y asistencia social que preste el organismo a que se refiere el artículo 172.
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 8 DE ABRIL DE 2013)</small>
 
 ###### ARTICULO 177.
 
-La Secretaría de Salud, a través del organismo a que alude el artículo 172 de esta Ley, y los gobiernos de las entidades federativas, coordinadamente y en sus respectivos ámbitos de competencia, promoverán el establecimiento de centros y servicios de rehabilitación somática, psicológica, social y ocupacional para las personas que sufran cualquier tipo de invalidez, así como acciones que faciliten la disponibilidad y adaptación de prótesis, órtesis y ayudas funcionales.
+La Secretaría de Salud a través del organismo a que alude el Artículo 172 de esta Ley, y los gobiernos de las entidades federativas, coordinadamente y en sus respectivos ámbitos de competencia, promoverán el establecimiento de centros y servicios de rehabilitación somática, psicológica, social y ocupacional para las personas que cuenten con cualquier tipo de discapacidad, así como acciones que faciliten la disponibilidad y adaptación de prótesis, órtesis y ayudas funcionales.
+
+> <small>(REFORMADO, D.O.F. 8 DE ABRIL DE 2013)</small>
 
 ###### ARTICULO 178.
 
-El Organismo del Gobierno Federal previsto en el Artículo 172, tendrá entre sus objetivos operar establecimientos de rehabilitación, realizar estudios e investigaciones en materia de invalidez y participar en programas de rehabilitación y educación especial.
+El Organismo del Gobierno Federal previsto en el Artículo 172, tendrá entre sus objetivos operar establecimientos de rehabilitación, realizar estudios e investigaciones en materia de discapacidad y participar en programas de rehabilitación y educación especial.
 
 ###### ARTICULO 179.
 
 Las autoridades sanitarias y las educativas, en el ámbito de sus respectivas competencias, colaborarán para proporcionar atención rehabilitatoria, cuando así se requiera.
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 8 DE ABRIL DE 2013)</small>
 
 ###### ARTICULO 180.
 
-La Secretaría de Salud y los gobiernos de las entidades federativas, en coordinación con otras instituciones públicas, promoverán que en los lugares en que se presten servicios públicos, se dispongan facilidades para las personas inválidas.
+La Secretaría de Salud y los gobiernos de las entidades federativas, en coordinación con otras instituciones públicas, promoverán que en los lugares en que se presten servicios públicos, se dispongan facilidades para las personas con discapacidad.
 
 ## TITULO DECIMO. Acción Extraordinaria en Materia de Salubridad General
 
@@ -4708,7 +4748,7 @@ La violación de esta disposición se sancionará en los términos previstos en 
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 8 DE ABRIL DE 2013)</small>
 
 ###### ARTICULO 269.
 
@@ -5070,7 +5110,7 @@ Cuando se autorice la importación de las substancias mencionadas en el artícul
 
 ###### ARTICULO 300.
 
-Con el fin de proteger la salud pública, es competencia de la Secretaría de Salud la autorización de la publicidad que se refiera a la salud, al tratamiento de las enfermedades, a la rehabilitación de los inválidos, al ejercicio de las disciplinas para la salud y a los productos y servicios a que se refiere esta Ley. Esta facultad se ejercerá sin perjuicio de las atribuciones que en esta materia confieran las leyes a las Secretarías de Gobernación, Educación Pública, Economía, Comunicaciones y Trasportes y otras dependencias del Ejecutivo Federal.
+Con el fin de proteger la salud pública, es competencia de la Secretaría de Salud la autorización de la publicidad que se refiera a la salud, al tratamiento de las enfermedades, a la rehabilitación de las personas con discapacidad, al ejercicio de las disciplinas para la salud y a los productos y servicios a que se refiere esta Ley. Esta facultad se ejercerá sin perjuicio de las atribuciones que en esta materia confieran las leyes a las Secretarías de Gobernación, Educación Pública, Economía, Comunicaciones y Transportes y otras dependencias del Ejecutivo Federal.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -7993,5 +8033,25 @@ D.O.F. 24 DE ENERO DE 2013.
 ÚNICO. El presente decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 D.O.F. 25 DE ENERO DE 2013.
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 8 DE ABRIL DE 2013.
+
+DECRETO POR EL QUE SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 163 DE LA LEY GENERAL DE SALUD.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 8 DE ABRIL DE 2013.
+
+DECRETO POR EL QUE SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 111; Y SE ADICIONAN UNA FRACCIÓN III BIS AL ARTÍCULO 118 Y UNA FRACCIÓN I BIS AL ARTÍCULO 119 DE LA LEY GENERAL DE SALUD.
+
+PRIMERO. El presente Decreto entrará en vigor el siguiente día al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. En un plazo no mayor a un año, posterior a la publicación del presente Decreto, la Secretaría de Salud deberá actualizar el marco normativo y programático a que haya lugar en materia de riesgo sanitario.
+
+D.O.F. 8 DE ABRIL DE 2013.
+
+DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE SALUD.
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
