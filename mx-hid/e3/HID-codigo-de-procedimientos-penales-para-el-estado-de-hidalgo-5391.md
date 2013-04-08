@@ -4,7 +4,7 @@ identifier: "HID-codigo-de-procedimientos-penales-para-el-estado-de-hidalgo-5391
 country: "mx"
 rank: "codigo"
 publication_date: "1990-06-09"
-last_updated: "2013-04-01"
+last_updated: "2013-04-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5391&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE HIDALGO
 
 > <small>N. DE E. DE CONFORMIDAD DEL TRANSITORIO SEXTO, EL CÓDIGO DE PROCEDIMIENTOS PENALES PROMULGADO EL 9 DE JUNIO DE 1990 SEGUIRÁ RIGIENDO, EN LO CONDUCENTE, EN LOS PROCEDIMIENTOS INICIADOS CON ANTERIORIDAD A LA APLICACIÓN DEL NUEVO CÓDIGO PUBLICADO EN EL P.O. DE FECHA 14 DE MARZO DE 2011, Y QUEDARA ABROGADO EN LA MEDIDA EN QUE AQUELLOS QUEDEN AGOTADOS.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2013.
 
 Código publicado en el Periódico Oficial del Estado de Hidalgo, el sábado 9 de junio de 1990
 
@@ -1179,7 +1179,9 @@ XVII.- El sabotaje, previsto por el artículo 294, con excepción de su párrafo
 
 XVIII.- El peculado, previsto por el artículo 308 cuando deba aplicarse la punibilidad señalada en la fracción III del mismo numeral;
 
-XIX.- La tortura, previsto por los párrafos primero y tercero del artículo 322 bis; y (sic)
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2013)</small>
+
+XIX.- La tortura, previsto por los párrafos primero y tercero del Artículo 322 bis y la desaparición forzada de personas, previsto en el Artículo 322 ter;
 
 XX.- La evasión de presos, cuando deba aplicarse la punibilidad prevista en los párrafos segundo y tercero del artículo 325 y en el numeral 329;
 
@@ -4482,3 +4484,7 @@ P.O. 1 DE ABRIL DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor, al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE ABRIL DE 2013.
+
+ÚNICO. EI presente Decreto entrará en vigor, al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
