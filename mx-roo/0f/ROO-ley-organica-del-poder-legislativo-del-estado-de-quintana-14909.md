@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-poder-legislativo-del-estado-de-quintana-14909
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-10-25"
-last_updated: "2011-09-23"
+last_updated: "2013-04-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14909&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el miércoles 25 de octubre de 1995.
 
@@ -591,6 +591,10 @@ Para la integración de la Comisión de Concertación y Prácticas Parlamentaria
 
 Las Comisiones tomarán sus decisiones por mayoría de votos de sus miembros. En caso de empate el asunto será sometido de nueva cuenta al análisis de la Comisión y si se obtuviera el mismo resultado, será desechado de plano para ese período, pudiendo sujetarse al trámite legislativo en el período de sesiones inmediato.
 
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2013)</small>
+
+La votación podrá ser a favor o en contra, sin posibilidad de abstenerse, salvo los diputados que se encuentren impedidos legalmente. En este caso, deberán de excusarse ante el Presidente de la Comisión respectiva, siempre que no se trate de disposiciones de carácter general. La excusa debe expresar concretamente la causa en que se funde.
+
 Cuando alguno de los miembros de una Comisión disienta de la resolución adoptada, podrá expresar su opinión por escrito firmado como voto particular y dirigirlo al Presidente de la Mesa Directiva de la Legislatura a fin de que se someta a consideración del Pleno.
 
 (REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
@@ -755,7 +759,7 @@ La integración de la Diputación Permanente, así como su Mesa Directiva, se co
 
 ###### ARTICULO 56.
 
-Las sesiones de la Diputación Permanente tendrán lugar una vez por semana en los días y a las horas que el Presidente de la misma indique formalmente. Si hubiere necesidad de celebrar algunas otras sesiones fuera de los días estipulados, se llevarán a cabo previa convocatoria por parte del Presidente.
+Las sesiones de la Diputación Permanente tendrán lugar una vez por semana en los días y a las horas que el Presidente de la misma indique formalmente. Si hubiere necesidad de celebrar algunas otras sesiones fuera de los días estipulados, se llevarán a cabo previa convocatoria por parte del P111111111111111111111111111111111111111residente.
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
@@ -1525,6 +1529,10 @@ En la discusión en lo particular, se podrán apartar los artículos, fracciones
 
 Suficientemente discutido un proyecto de ley o decreto, se votará en lo general y en lo particular, luego de ser discutido en tales sentidos. Si no fuera aprobado en lo general, se someterá a votación del Pleno si vuelve o no a la Comisión o Comisiones que dictaminaron. Si la votación fuere en sentido negativo se tendrá por desechado.
 
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2013)</small>
+
+La votación podrá ser a favor o en contra, sin posibilidad de abstenerse, salvo que el Diputado se encuentre impedido legalmente en el asunto de que se trate, por lo que deberá excusarse, siempre que no se trate de disposiciones de carácter general. La excusa debe expresar concretamente la causa en que se funde.
+
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 130.
@@ -1988,3 +1996,11 @@ SEGUNDO.- Las reformas planteadas a la legislación secundaria contenidas en el 
 T R A N S I T O R I O:
 
 ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 9 DE ABRIL DE 2013.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
+
+TERCERO. El Tribunal Electoral, el Instituto Electoral, el Instituto de Transparencia y Acceso a la Información Pública, y los Ayuntamientos, todos del Estado de Quintana Roo contarán con 60 días naturales a partir de la entrada en vigor del presente Decreto, para efectuar las adecuaciones correspondientes a su normatividad interna.
