@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-interior-de-la-junta-local-y-especiales-de-59481"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-01-15"
-last_updated: "2008-01-15"
+last_updated: "2013-04-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59481&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # REGLAMENTO INTERIOR DE LA JUNTA LOCAL Y ESPECIALES DE CONCILIACION Y ARBITRAJE DE LA CIUDAD DE LEON, GUANAJUATO
 
-REGLAMENTO INTERIOR DE LA JUNTA LOCAL Y ESPECIALES DE CONCILIACION Y ARBITRAJE DE LA CIUDAD DE LEON, GUANAJUATO
+REGLAMENTO INTERIOR DE LA JUNTA LOCAL Y ESPECIALES DE CONCILIACIÓN Y ARBITRAJE DE LA CIUDAD DE LEÓN, GUANAJUATO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA JUNTA LOCAL Y ESPECIALES DE CONCILIACIÓN Y ARBITRAJE DE LA CIUDAD DE LEÓN, GUANAJUATO, PUBLICADO EN LA CUARTA PARTE DEL P.O. DE 9 DE ABRIL DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 15 de enero de 2008.
 
@@ -480,3 +482,13 @@ LIC. ROBERTO KITAHARA KITAHARA
 SECRETARIA GENERAL
 
 LIC. ERENDIRA GARCÍA SÁNCHEZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 9 DE ABRIL DE 2013.
+
+Artículo Primero.- El presente Reglamento Interior abroga al anterior "REGLAMENTO INTERIOR DE LA JUNTA LOCAL DE CONCILIACIÓN Y ARBITRAJE DE LEÓN GUANAJUATO", aprobado el 1 primero de noviembre de 2007, dos mil siete.
+
+Artículo Segundo.- El presente reglamento entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Tercero.- Se ordena a la Secretaría General de la Junta Local de Conciliación y Arbitraje con sede en León, Gto., la publicación de este Reglamento en los estrados del Tribunal y a la Presidencia de la Junta, la publicación en el Periódico Oficial del Gobierno del Estado.
