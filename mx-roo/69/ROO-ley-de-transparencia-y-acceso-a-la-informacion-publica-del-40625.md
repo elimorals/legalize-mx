@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-4062
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-31"
-last_updated: "2010-12-10"
+last_updated: "2013-04-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2013.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 31 de mayo de 2004.
 
@@ -581,9 +581,9 @@ Se crea el Instituto de Transparencia y Acceso a la Información Pública de Qui
 
 El Instituto contará con un Órgano Colegiado de Dirección denominado Junta de Gobierno, que se integra por tres Consejeros Ciudadanos, uno de los cuales fungirá como Presidente, designados mediante el procedimiento que se contempla en la presente Ley, mismos que tendrán voz y voto; concurre, un Secretario Ejecutivo electo por los propios Consejeros, a propuesta del Consejero Presidente, quien sólo tendrá voz. El Consejero Presidente será electo en la primera sesión que se celebre en el mes de agosto del año que corresponda y, durará como tal, por un período de tres años, pudiendo ser reelecto para un período igual.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2013)</small>
 
-Las resoluciones del Instituto no estarán subordinadas a autoridad alguna, por lo que emitirán sus decisiones con plena independencia, se tomarán por mayoría de votos y para sesionar válidamente se requerirá de la asistencia de al menos dos de sus integrantes. El voto de calidad lo tendrá el Consejero Presidente y, en ausencia de éste, el Consejero Ciudadano de mayor antigüedad en el cargo.
+Las resoluciones del Instituto no estarán subordinadas a autoridad alguna, por lo que emitirán sus decisiones con plena independencia, se tomarán por mayoría de votos y para sesionar válidamente se requerirá de la asistencia de al menos dos de sus integrantes. La votación podrá ser a favor o en contra, sin posibilidad de abstenerse, salvo que se encuentre impedido legalmente, por lo que deberá excusarse. La excusa debe expresar concretamente la causa en que se funde. El voto de calidad lo tendrá el Consejero Presidente y, en ausencia de éste, el Consejero Ciudadano de mayor antigüedad en el cargo.
 
 La representación legal del Instituto la tendrá el Consejero Presidente.
 
@@ -1218,3 +1218,11 @@ SEGUNDO.- La designación del Consejero Presidente de la Junta de Gobierno del I
 TRANSITORIO:
 
 ÚNICO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 9 DE ABRIL DE 2013.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
+
+TERCERO. El Tribunal Electoral, el Instituto Electoral, el Instituto de Transparencia y Acceso a la Información Pública, y los Ayuntamientos, todos del Estado de Quintana Roo contarán con 60 días naturales a partir de la entrada en vigor del presente Decreto, para efectuar las adecuaciones correspondientes a su normatividad interna.
