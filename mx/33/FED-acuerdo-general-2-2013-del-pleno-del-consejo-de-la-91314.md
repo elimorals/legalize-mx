@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-2-2013-del-pleno-del-consejo-de-la-91314"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-01-23"
-last_updated: "2013-01-23"
+last_updated: "2013-04-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91314&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-01-16"
 
 ACUERDO GENERAL 2/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA ADMINISTRACIÓN DOCUMENTAL Y ARCHIVOS DE LAS ÁREAS ADMINISTRATIVAS DEL PROPIO CONSEJO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2013.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 23 de enero de 2013.
 
@@ -49,9 +49,11 @@ ACUERDO
 
 El objeto de este Acuerdo General es establecer las disposiciones que permitan la organización y conservación de los archivos en posesión de las áreas administrativas del Consejo de la Judicatura Federal, así como coadyuvar a que los acervos con valores documentales se conserven íntegros y disponibles con el fin de facilitar su acceso y recuperación, en forma armónica y complementaria con las disposiciones existentes en el orden jurídico.
 
+> <small>(REFORMADO POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
+
 ###### Artículo 2.
 
-La Comisión para la Transparencia, Acceso a la Información Pública Gubernamental y Protección de Datos Personales es el órgano rector en materia archivística en el Consejo de la Judicatura Federal, por tanto es la responsable de la interpretación y aplicación de la Ley Federal de Archivos. Para ello, contará con el auxilio de la Contraloría del Poder Judicial de la Federación, de la Secretaría Ejecutiva de Vigilancia, Información y Evaluación y del Archivo General, en el ámbito de sus respectivas competencias.
+La Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales es el órgano rector en materia archivística en el Consejo de la Judicatura Federal, por tanto es la responsable de la interpretación y aplicación de la Ley Federal de Archivos. Para ello, contará con el auxilio de la Contraloría del Poder Judicial de la Federación, de la Coordinación para la Transparencia, Acceso a la Información y Archivos y del Archivo General, en el ámbito de sus respectivas competencias.
 
 ###### Artículo 3.
 
@@ -63,7 +65,9 @@ II. Areas administrativas: las señaladas en el Acuerdo General del Pleno del Co
 
 III. Consejo: el Consejo de la Judicatura Federal;
 
-IV. Comisión: la Comisión para la Transparencia, Acceso a la Información Pública Gubernamental y Protección de Datos Personales;
+> <small>(REFORMADA POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
+
+IV. Comisión: la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales;
 
 V. Custodia: responsabilidad sobre el cuidado de los documentos en cuanto a su posesión física, que no implica la propiedad jurídica y tampoco el derecho a restringir su acceso a las personas legalmente autorizadas;
 
@@ -401,9 +405,11 @@ II. Catálogo de disposición documental; e
 
 III. Inventario de baja o transferencia secundaria.
 
+> <small>(REFORMADO POR EL ARTÍCULO TERCERO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
+
 ###### Artículo 32.
 
-Una vez autorizado el dictamen de valoración documental por el Archivo General, las áreas administrativas llevarán a cabo la destrucción o transferencia de los expedientes al archivo histórico, lo que se hará constar en un acta, la cual deberá ser firmada por el titular del área o los servidores públicos que para tal efecto designe. En el caso de la baja documental se remitirá una copia al titular del Archivo General para su publicación, según se dispone en el propio artículo 8, fracción XI del presente acuerdo.
+Una vez autorizado el dictamen de valoración documental por el Archivo General, las áreas administrativas llevarán a cabo la destrucción o transferencia de los expedientes al archivo histórico, lo que se hará constar en un acta, la cual deberá ser firmada por el titular del área o los servidores públicos que para tal efecto designe. En el caso de la baja documental se remitirá una copia al titular del Archivo General para su publicación, según se dispone en el propio artículo 8, fracción X del presente acuerdo.
 
 ###### Artículo 33.
 
@@ -446,3 +452,15 @@ QUINTO. El titular del Archivo General presentará para autorización de la Comi
 SEXTO. Las áreas administrativas tendrán de plazo un año, contado a partir de la publicación del presente acuerdo, para llevar a cabo la organización, registro y transferencia primaria conforme a las disposiciones normativas.
 
 EL MAGISTRADO J. GUADALUPE TAFOYA HERNANDEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 2/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la administración documental y archivos de las áreas administrativas del propio Consejo, fue aprobado por el Pleno del Consejo, en sesión ordinaria de dieciséis de enero de dos mil trece, por unanimidad de votos de los señores Consejeros: Presidente Ministro Juan N. Silva Meza, Daniel Francisco Cabeza de Vaca Hernández, Juan Carlos Cruz Razo, César Esquinca Muñoa, César Alejandro Jáuregui Robles y Manuel Ernesto Saloma Vera.- México, Distrito Federal, a dieciséis de enero de dos mil trece.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 9 DE ABRIL DE 2013.
+
+PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. Se abroga cualquier disposición emitida con anterioridad que se oponga a lo señalado en el presente acuerdo.
+
+CUARTO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá incorporar el texto de este instrumento, a los Acuerdos Generales correspondientes, conforme al texto que se reforma, adiciona o deroga en su caso particular.
