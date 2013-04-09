@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-de-justicia-en-materia-de-faltas-de-policia-y-7280
 country: "mx"
 rank: "ley_organica"
 publication_date: "1989-03-31"
-last_updated: "1989-03-31"
+last_updated: "2013-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7280&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ROO"
 ---
 # LEY ORGANICA DE JUSTICIA EN MATERIA DE FALTAS DE POLICIA Y BUEN GOBIERNO DEL ESTADO DE QUINTANA ROO
 
-LEY ORGANICA DE JUSTICIA EN MATERIA DE FALTAS DE POLICIA Y BUEN GOBIERNO DEL ESTADO DE QUINTANA ROO
+LEY ORGÁNICA DE JUSTICIA EN MATERIA DE FALTAS DE POLICIA Y BUEN GOBIERNO DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el 31 de marzo de 1989.
 
@@ -43,21 +43,47 @@ DECRETA:
 
 Esta Ley es de orden público e interés general y su observancia es obligatoria en todos los municipios del Estado de Quintana Roo.
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2013)</small>
+
 ###### ARTICULO 2º.
 
-El objeto de la presente Ley es preservar el orden público y la paz social en los municipios del Estado, establecer las sanciones por contravenciones de Policía y Buen Gobierno y regular las formalidades del procedimiento al que se sujetara la imposición de las mismas.
+El objeto de la presente Ley es preservar el orden público, la paz social y el acceso a la justicia en los municipios del Estado, establecer las sanciones por contravenciones de Policía y Buen Gobierno y regular las formalidades del procedimiento al que se sujetará la imposición de las mismas.
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2013)</small>
 
 ###### ARTICULO 3º.
 
-Corresponde a los Ayuntamientos de los municipios del Estado, por conducto de sus órganos administrativos, en los términos previstos por la Ley Orgánica Municipal, y dentro del ámbito de su jurisdicción territorial mantener el orden y la tranquilidad social y ejecutar las sanciones impuestas por faltas a los Reglamentos de Policía y Buen Gobierno, en términos de la presente Ley, los que serán expedidos con base a la misma.
+Corresponde a los Ayuntamientos de los Municipios del Estado, por conducto de sus órganos administrativos, en los términos previstos por la Ley Orgánica Municipal, y dentro del ámbito de su jurisdicción territorial mantener el orden, la tranquilidad social, y ejecutar las sanciones impuestas por faltas a los Reglamentos de Policía y Buen Gobierno, en términos de la presente Ley, los que serán expedidos con base a la misma y en concordancia con lo dispuesto en el Artículo 1° de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### ARTICULO 4º.
 
 A falta de Reglamentos Municipales de Policía y buen Gobierno, se estará a lo que dispone esta ley.
 
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2013)</small>
+
+ARTICULO 4º BIS.- Son principios rectores para el buen gobierno en los municipios del Estado:
+
+l.- Garantizar el respeto y goce de los derechos humanos;
+
+II.- La igualdad sustantiva entre mujeres y hombres;
+
+III.- La prevención social de las violencias, incluida la violencia de género y la delincuencia;
+
+IV.- La seguridad ciudadana;
+
+V.- La Cultura de la legalidad;
+
+VI.- La Cultura de la Paz;
+
+VII.- La Cohesión Social y Comunitaria; y
+
+VIII.- La no discriminación.
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2013)</small>
+
 ###### ARTICULO 5º.
 
-Se consideran como faltas de Policía y buen Gobierno, las acciones u omisiones que alteren el orden público o afecten la seguridad pública, ya sea que sean realizadas en lugares de uso común, acceso público o libre tránsito, o en lugares privados,. En este último caso solo se procederá a petición de los propietarios o responsables de éstos.
+Se consideran como faltas de Policía y buen Gobierno, las acciones u omisiones que alteren el orden público y/o afecten la seguridad pública, ya sea que sean realizadas en lugares de uso común, acceso público o libre tránsito, o en lugares privados.
 
 No se considera como falta para los fines de esta ley, el legítimo ejercicio de los derechos de expresión, reunión, y otros, en los términos establecidos en la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y en los demás ordenamientos aplicables.
 
@@ -67,7 +93,9 @@ Constituyen faltas de Policía y buen Gobierno las siguientes conductas:
 
 I.- Afectar en cualquier forma el libre tránsito vehicular o peatonal, salvo los casos previstos por esta ley;
 
-II.- Ofender y agredir a las personas;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2013)</small>
+
+II.- Ejercer violencia contra las personas, en especial contra la mujer, niñas y niños, lo cual incluye las Ofensas y/o agresiones de manera verbal, y/o física (sic);
 
 III.- Faltar al respeto debido a toda autoridad;
 
@@ -87,31 +115,49 @@ XI.- Maltratar o ensuciar las fachadas de los edificios, esculturas, monumentos,
 
 XII.- Escandalizar en la vía pública;
 
-XIII.- Asumir en lugares públicos actitudes obscenas, indignas o contrarias a las buenas costumbres y a la moral;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2013)</small>
 
-XIV.- Expender bebidas alcohólicas, fuera de los lugares señalados y de los horarios permitidos o sin contar con la licencia, patente y concesión respectiva;
+XIII.- Asumir en lugares públicos actitudes obscenas, indignas, discriminatorias, de violencia de cualquier tipo, o que fomenten el odio contra mujeres, niñas, niños y/o algún grupo social;
+
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2013)</small>
+
+XIV.- Expender bebidas alcohólicas, fuera de los lugares señalados y/o de los horarios permitidos y/o sin contar con la licencia, patente y/o concesión respectiva, así como vender estas a menores de edad;
 
 XV.- Obstruir en cualquier forma el libre acceso a las cocheras de los domicilios particulares, estacionamientos públicos o privados;
 
-XVI.- Las demás que señalen las leyes y reglamentos de Policía y buen Gobierno de los Municipios del Estado.
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2013)</small>
+
+XVI.- Realizar y/o difundir propaganda que muestre tolerancia y/o pueda crear prejuicios de un género a otro, en especial contra las mujeres;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2013)</small>
+
+XVII.- Permitir el acceso a menores de edad a lugares a los que expresamente están prohibidos por la ley y los reglamentos correspondientes;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2013)</small>
+
+XVIII.- Las demás que señalen las leyes y reglamentos de Policía y buen Gobierno de los Municipios del Estado.
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2013)</small>
 
 ###### ARTICULO 7º.
 
 Los Ayuntamientos, al expedir sus Reglamentos de Policía y buen Gobierno, tomarán como base en la elaboración de los mismos, las faltas enunciadas en el artículo anterior, pudiendo asimismo, introducir como tales, las conductas antisociales que a criterio del Cabildo, deban ser sancionadas.
 
-CAPITULO (SIC)
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2013)</small>
 
-DE LAS SANCIONES
-
-### CAPITULO IV. DE LOS ORGANOS COMPETENTES PARA LA APLICACION DE SANCIONES
+### CAPITULO II. DE LAS SANCIONES
 
 ###### ARTICULO 8º.
 
 Toda falta de Policía y buen Gobierno, ameritará la imposición de la sanción respectiva.
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2013)</small>
+
 ###### ARTICULO 9º.
 
-Los Reglamentos de Policía y buen Gobierno que cada municipio emita, con base en esta ley, prevendrán las sanciones exactamente aplicables a las faltas consignadas en los mismos, según su naturaleza y gravedad.
+Los Reglamentos de Policía y Buen Gobierno que cada municipio emita, con base en esta ley, prevendrán las sanciones exactamente aplicables a las faltas consignadas en los mismos, según su naturaleza y gravedad.
+
+Tratándose de violencia entre mujeres y hombres que mantengan algún tipo de relación de pareja, matrimonio o concubinato, se evitará en todo momento incluir en dichos Reglamentos, las prácticas de conciliación o mediación.
 
 ###### ARTICULO 10.
 
@@ -135,27 +181,35 @@ Multa, es el pago en efectivo a cargo del infractor decretado por el Juez Califi
 
 Arresto, es la privación de la libertad hasta por treinta y seis horas que se cumplirá en el lugar al efecto señalado, el cual será distinto a los destinados para la detención de iniciados, procesados o sentenciados. Los lugares destinados para el arresto de varones, serán distintos a los destinados para el arresto de mujeres.
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2013)</small>
+
 ###### ARTICULO 11.
 
 El arresto administrativo solo podrá decretarlo y ejecutarlo el órgano competente, por lo que ningún policía o agente de seguridad pública, deberá aprehender ni privar de su libertad a ninguna persona, salvo el caso de hacerlo en el acto de cometer delito o falta, en cuyo caso pondrá sin demora al o a los detenidos a disposición de la autoridad competente, bajo su más estricta responsabilidad y de manera inmediata.
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2013)</small>
+
 ###### ARTICULO 12.
 
-Las sanciones definidas en los artículos precedentes, se aplicarán gradualmente y según las circunstancias del caso, procurando guardar proporción y equilibrio entre la conducta realizada constitutiva de la falta al Reglamento de Policía y buen Gobierno y las atenuantes, excluyentes y demás elementos de juicio que permitan al órgano sancionador, preservar ante todo, el orden, la paz y la tranquilidad social.
+Las sanciones definidas en los artículos precedentes, se aplicarán gradualmente y según las circunstancias del caso, procurando guardar proporción y equilibrio entre la conducta realizada constitutiva de la falta al Reglamento de Policía y Buen Gobierno y las atenuantes, excluyentes y demás elementos de juicio que permitan al órgano sancionador, preservar ante todo, el orden, la paz, la tranquilidad social, y el respeto a los derechos humanos.
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2013)</small>
 
 ###### ARTICULO 13.
 
-Si el infractor es menor de edad, el Juez Calificador ordenará inmediatamente la presentación de quienes legalmente tengan bajo su cuidado al menor, para efectos de amonestación y multarlo en su caso, solo ante la reincidencia del menor infractor, se le hará presentar ante el Consejo Tutelar para Menores Infractores, por conducto de trabajadores sociales, o por la persona que designe el procurador del menor y la familia, del Sistema para el Desarrollo Integral de la Familia del Estado de Quintana Roo, o por la persona que designe el Juez Calificador.
+Si la o el probable infractor es menor de edad y de ser procedente la aplicación de una amonestación y/o trabajo en favor de la comunidad y/o terapia psicoterapéutica; la o el Juez Calificador ordenará inmediatamente la presentación de quienes legalmente lo tengan bajo su cuidado.
 
-No se alojará a menores en lugares destinados a la detención, reclusión o arresto de mayores de edad.
+Solo ante la reincidencia de la o el menor probable infractor, se le hará presentar ante el Consejo Tutelar para Menores Infractores. Para el caso de que no se tuviera conocimiento de alguien en línea recta ascendente o colateral hasta el segundo grado que este a cargo de su tutela, la Procuraduría de la Defensa del Menor y la Familia lo representará, o en su caso, por la persona que designe el o la Juez Calificador.
 
 ###### ARTICULO 14.
 
 Cuando con una o varias conductas el infractor cometa dos o más contravenciones, el Presidente Municipal o el Juez Calificador, según corresponda, podrá acumular las sanciones aplicables al infractor sin exceder de los límites máximos previstos en el Artículo 10 de esta ley, para las sanciones de que se trate.
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2013)</small>
+
 ###### ARTICULO 15.
 
-Si resultare daño a la propiedad pública o privada, éste debe repararse por el infractor, sin perjuicio de la multa que se le hubiere impuesto.
+Si resultare daño a la propiedad pública o privada, éste debe repararse por quien haya cometido la infracción sin perjuicio de la multa que se le hubiere impuesto.
 
 ###### ARTICULO 16.
 
@@ -163,19 +217,33 @@ Si el infractor fuese jornalero, obrero, trabajador subempleado o desempleado, n
 
 En el caso de que el infractor no pagare la multa que se le hubiere impuesto, o solo cubriese parte de esta, el Presidente Municipal o el Juez Calificador, según el caso, la permutará por arresto, que no excederá de treinta y seis horas, considerando equitativamente la parte de la multa que el infractor hubiere pagado para reducir la duración de aquel, esta norma se entiende sin perjuicio de la aplicación, en su caso, de la conmutación o la suspensión condicional.
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2013)</small>
+
 ###### ARTICULO 17.
 
-El Presidente Municipal en su caso, o el Juez Calificador, podrán conmutar toda o parte de la sanción que prevenga esta ley o el reglamento, por amonestación o por otra sanción de menor gravedad, o trabajo en favor de la comunidad, a elección del infractor, o disponer de plano la suspensión por un año de la ejecución de la sanción impuesta, cuando a su juicio, y por razones de equidad, resulte pertinente hacerlo. Si durante el período de suspensión el infractor comete otra falta de la contenida en el reglamento de Policía y buen Gobierno, se hará efectiva la sanción suspendida, sin perjuicio de la que corresponda a la nueva falta cometida.
+El Presidente o la Presidenta Municipal, la o el Juez Calificador, podrán conmutar toda o parte de la sanción que prevenga esta ley o el reglamento, por otra de menor gravedad, o trabajo en favor de la comunidad, a petición de parte interesada, misma que deberá resolverse de manera fundada y motivada, o disponer de plano la suspensión por un año de la ejecución de la sanción impuesta, cuando a su juicio, y por razones de equidad, resulte pertinente hacerlo. Tratándose de las faltas que tengan relación con conductas violentas, no podrá disponerse la suspensión.
+
+Si durante el período de suspensión la o el infractor comete otra falta de la contenida en el reglamento de Policía y buen Gobierno, se hará efectiva la sanción suspendida, sin perjuicio de la que corresponda a la nueva falta cometida.
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2013)</small>
 
 ###### ARTICULO 18.
 
-La potestad municipal para aplicación o la ejecución, según corresponda, de sanciones por faltas al Reglamento de Policía y buen Gobierno, prescribe a los seis meses, contados a partir de la fecha de la resolución que dicte el Juez Calificador. En el primer caso, la prescripción se interrumpirá por las diligencias que ordene o practique el Juez Calificador; y en el segundo, por las diligencias que se realicen para ejecutar la sanción, en ambos su puestos, la prescripción se interrumpirá una sola vez. El plazo para que opere la prescripción nunca excederá de un año.
+La potestad municipal para aplicación o la ejecución, según corresponda, de sanciones por faltas al Reglamento de Policía y buen Gobierno, prescribe a los seis meses, contados a partir de la fecha de la resolución que dicte el o la Juez Calificador. En el primer caso, la prescripción se interrumpirá por las diligencias que ordene y/o practique la o el Juez Calificador; y en el segundo, por las diligencias que se realicen para ejecutar la sanción, en ambos supuestos, la prescripción se interrumpirá una sola vez. El plazo para que opere la prescripción nunca excederá de un año.
 
-### CAPITULO V. DE LOS PROCEDIMIENTOS
+### CAPITULO IV (SIC). DE LOS ORGANOS COMPETENTES PARA LA APLICACION DE SANCIONES
 
 ###### ARTICULO 19.
 
 Compete a los Jueces Calificadores, el conocimiento de las faltas al Reglamento de Policía y buen Gobierno y la aplicación de las sanciones a que se refiere esta ley, sin perjuicio de que el Presidente Municipal ejerza esta facultad, con términos de la presente ley. Los Jueces Calificadores actuarán con la competencia territorial de cada uno de los municipios del Estado para el conocimiento de las faltas cometidas en la circunscripción respectiva. En caso de duda o conflicto acerca de la competencia territorial será competente el Juez que primero conozca de la falta de que se trate.
+
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2013)</small>
+
+ARTICULO 19 BIS.- La o el Juez Calificador, es competente en caso de notoria urgencia en los municipios de otorgar las órdenes de protección de emergencia y preventivas.
+
+Dichas órdenes de protección deberán otorgarse inmediatamente que conozcan de hechos probablemente constitutivos de infracciones o delitos que impliquen violencia contra las mujeres; tendrán una temporalidad no mayor a 72 horas y deberán expedirse dentro de las 8 horas siguientes al conocimiento de los hechos que las generan.
+
+Lo anterior de conformidad con lo dispuesto en la Ley de Acceso de la (sic) Mujeres a una Vida Libre de Violencia del Estado de Quintana Roo, así como del procedimiento y observancia que determine el reglamento o acuerdo conducente, salvo para las órdenes de naturaleza civil.
 
 ###### ARTICULO 20.
 
@@ -189,9 +257,15 @@ Para ser Juez Calificador se deberán reunir los siguientes requisitos:
 
 I.- Ser ciudadano vecino de la municipalidad en la que se designe, con una residencia mínima de dos años continuos anteriores a la fecha de su designación y en ejercicio de sus derechos políticos y civiles;
 
-II.- Ser de preferencia Licenciado en Derecho, pasante de la misma profesión o tener conocimientos suficientes de la materia, y
+II.- Ser de preferencia Licenciado en Derecho, pasante de la misma profesión o tener conocimientos suficientes de la materia, y (sic)
 
-III.- No haber sido condenado por sentencia irrevocable por un delito intencional, ni tener antecedentes penales.
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2013)</small>
+
+III.- No haber sido condenado por sentencia irrevocable por un delito intencional, ni tener antecedentes penales, incluidas las sentencias por violencia familiar y lesiones;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2013)</small>
+
+IV.- Acreditar haber recibido capacitación en materia de perspectiva de género.
 
 ###### ARTICULO 22.
 
@@ -201,13 +275,19 @@ La designación de los Jueces Calificadores y de los Secretarios, corresponde a 
 
 En el supuesto caso de que en un municipio no estuviera en funciones el Juez Calificador o el Secretario del mismo, sus funciones serán asumidas transitoriamente por el Presidente Municipal, el Secretario del Ayuntamiento o el Regidor Encargado del Ramo de Seguridad Pública y Tránsito, en este orden, respectivamente.
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2013)</small>
+
 ###### ARTICULO 24.
 
-El Ayuntamiento, por conducto de la comisión encargada del servicio de Seguridad Pública, supervisará el funcionamiento de los Juzgados Calificadores y dictará, previa opinión del Presidente Municipal, los lineamientos de carácter técnico y jurídico a los que los jueces deberán sujetar su actuación para mejorar la atención a la ciudadanía.
+El Ayuntamiento, por conducto de la comisión encargada de la función de Seguridad Pública, supervisará el funcionamiento de los Juzgados Calificadores y dictará, previa opinión de la Presidenta o el Presidente Municipal, los lineamientos de carácter técnico y jurídico a los que el juez o la jueza calificador deberán sujetar su actuación para mejorar la atención a la ciudadanía.
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2013)</small>
 
 ###### ARTICULO 25.
 
-Los Jueces Calificadores rendirán un informe anual de labores y llevarán un índice y estadística de las faltas al Reglamento de Policía y buen Gobierno ocurridas en sus respectivos municipios, su incidencia, frecuencia y las constancias de hechos que influyen en su realización, para que el Ayuntamiento adopte las medidas preventivas y correctivas necesarias para mantener y preservar el orden, la paz y la tranquilidad pública en sus municipios.
+Los y las Jueces Calificadores rendirán un informe anual de labores y llevarán de manera desagregada por sexo un índice y estadística de las faltas al Reglamento de Policía y buen Gobierno ocurridas en sus respectivos municipios, su incidencia, frecuencia y las constancias de hechos que influyen en su realización, para que el Ayuntamiento adopte las medidas preventivas y correctivas necesarias para mantener y preservar el orden, la paz y la tranquilidad pública en sus municipios así como para garantizar el respeto a los derechos humanos, la igualdad sustantiva entre mujeres y hombres, la no violencia y la no discriminación.
+
+### CAPITULO V. DE LOS PROCEDIMIENTOS
 
 ###### ARTICULO 26.
 
@@ -229,9 +309,17 @@ III.- Entregará al supuesto infractor citatorio por escrito para que se present
 
 IV.- La boleta y el citatorio se levantará por triplicado, conservando un tanto el Agente de Seguridad Pública, entregando otro al infractor y reservando el tercero para entregar al Juez Calificador, si no lo hace en la hora y fecha señalada.
 
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2013)</small>
+
+V.- En los casos de cualquier tipo de violencia, la actuación de la policía se regirá por lo que establezca el protocolo respectivo, sin prejuicio de lo señalado en el presente artículo.
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2013)</small>
+
 ###### ARTICULO 28.
 
-Al estar presente el presunto infractor ante el Juez Calificador, si éste considera que los hechos pueden ser constitutivos de delito, consignará los hechos inmediatamente al Agente del Ministerio Público o a quien legalmente lo supla, y pondrá a su disposición al detenido. De esta actuación se dejará constancia por escrito. Si se determina que los hechos no son constitutivos de delito, se actuará conforme a los dispuesto en el artículo anterior, en lo conducente.
+Al estar presente la persona probable infractora ante la o el Juez Calificador, si éste considera que los hechos pueden ser constitutivos de delito, consignará los hechos inmediatamente al Agente del Ministerio Público o a quien legalmente lo supla, y pondrá a su disposición a la persona detenida. De esta actuación se dejará constancia por escrito. Si se determina que los hechos no son constitutivos de delito, se actuará conforme a lo dispuesto en el artículo anterior, en lo conducente.
+
+La sanción por la infracción a esta ley y/o los Bandos de Policía y Buen Gobierno Municipales, se aplicará con independencia de la sanción que corresponda aplicar por parte de la autoridad jurisdiccional.
 
 ###### ARTICULO 29.
 
@@ -259,9 +347,11 @@ VIII- Cerrada la instrucción, con o sin los medios de prueba a que alude el pun
 
 IX.- Copia de esta resolución se entregará personalmente al interesado para los efectos legales que procedan.
 
-###### ARTICULO 31.
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2013)</small>
 
-La resolución contendrá relación breve, clara y precisa de los hechos, así como del cumplimiento voluntario o coactivo del citatorio; la expresión central del alegato o si éste se hizo valer por escrito; la aportación de medios de prueba, en su caso, y los antecedentes generales del presunto responsable. En la primera parte, la resolución expresará el razonamiento que soporte la decisión que se pronuncia, estableciendo la relación directa entre los hechos asentados en la boleta inicial, y la falta cometida, así como la valoración que se hubiere dado a los argumentos y medios de prueba hechos valer por el infractor.
+###### Artículo 31.
+
+La resolución contendrá relación breve, clara y precisa de los hechos, así como del cumplimiento voluntario o coactiva del citatorio; la expresión central del alegato o si éste se hizo valer por escrito; la aportación de medios de prueba, en su caso, y los antecedentes generales de la persona probable responsable. En la primen parte, la resolución expresará el razonamiento que soporte la decisión que se pronuncia, estableciendo la relación directa entre los hechos asentados en la boleta inicial, y la falta cometida, así como la valoración que se hubiere dado a los argumentos y medios de prueba hechos valer por quien cometió la falta.
 
 ###### ARTICULO 32.
 
@@ -298,3 +388,11 @@ Salón de Sesiones del Poder Legislativa, en la ciudad de Chetumal, Quintana Roo
 Diputado Presidente: Diputado Secretario:
 
 Jesús Pérez Blas. Dr. Francisco Arana Tun.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 9 DE ABRIL DE 2013.
+
+Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
