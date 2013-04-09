@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-contratos-administrativos-del-poder-judicial-5030
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-04-07"
-last_updated: "2006-04-07"
+last_updated: "2013-04-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50307&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,17 @@ state: "GUA"
 ---
 # REGLAMENTO DE CONTRATOS ADMINISTRATIVOS DEL PODER JUDICIAL
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE ABRIL DE 2013 EN EL P.O. DEL ESTADO GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 REGLAMENTO DE CONTRATOS ADMINISTRATIVOS DEL PODER JUDICIAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL SECTOR PÚBLICO EN EL ESTADO DE GUANAJUATO PARA EL PODER JUDICIAL, PUBLICADO EN EL P.O. DE 9 DE ABRIL DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 7 de abril de 2006.
 
-C E R T I F I C A C I ON:
+C E R T I F I C A C I O N:
 
 El que suscribe Lic. Francisco Javier Zamora Rocha, Secretario General del Consejo del Poder Judicial del Estado, hace CONSTAR Y CERTIFICA:
 
@@ -612,3 +616,19 @@ Lo anterior, se asienta para debida constancia, a los 14 catorce días del mes d
 El Secretario General del Consejo del Poder Judicial del Estado.
 
 Lic. Francisco Javier Zamora Rocha.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 9 DE ABRIL DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento de Contratos Administrativos del Poder Judicial, emitido por el Consejo del Poder Judicial el día 9 de marzo del 2006.
+
+###### ARTICULO TERCERO.
+
+Se ordena su publicación en el Periódico Oficial del Estado.
