@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-para-el-gobierno-interior-de-la-legislatura-del-7336
 country: "mx"
 rank: "reglamento"
 publication_date: "1975-04-15"
-last_updated: "1984-01-31"
+last_updated: "2013-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7336&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA LEGISLATURA DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE ENERO DE 1984.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Quintana Roo, el martes 15 de abril de 1975.
 
@@ -79,7 +79,7 @@ En la primera Junta Preparatoria que se reuna se elegirán de entre los presunto
 
 Instalada la Mesa Directiva de las Juntas Preparatorias, concluirán las funciones de la Comisión Instaladora, la cual se retirará del recinto oficial de la Legislatura, a fin de que los presuntos diputados procedan a la calificación de sus miembros, de conformidad a la disposición constitucional respectiva.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE NOVIEMBRE DE 1981)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 1981)</small>
 
 ###### Artículo 7o.
 
@@ -135,7 +135,7 @@ En la sesión de apertura el Presidente de la Legislatura invitará a todos los 
 
 La (aquí el número de la Legislatura que corresponda) Legislatura del Estado Libre y Soberano de Quintana Roo abre hoy el (aquí el número respectivo) período de sesiones ordinarias del (primero, segundo o tercer) año de su ejercicio.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE NOVIEMBRE DE 1981)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE NOVIEMBRE DE 1981)</small>
 
 ### CAPITULO II
 
@@ -157,13 +157,13 @@ Para la Celebración del Segundo Período Ordinario de sesiones y para los conse
 
 Al elegir al Secretario se elegirá también a un Secretario Suplente que lo sustituya en sus ausencias temporales.
 
-> <small>(REFORMADO PRIMER PARRAFO Y REUBICADO, P.O. 23 DE NOVIEMBRE DE 1981)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO Y REUBICADO, P.O. 23 DE NOVIEMBRE DE 1981)</small>
 
 ###### Artículo 17.
 
 El Presidente y Vicepresidente serán electos en escrutinio secreto y por mayoría de votos, para ejercer sus funciones durante un mes. Estos no podrán ser reelectos en el mismo período de sesiones.
 
-> <small>(REFORMADO PRIMER PARRAFO [N. DE E. ADICIONADO], P.O. 23 DE NOVIEMBRE DE 1981)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. ADICIONADO], P.O. 23 DE NOVIEMBRE DE 1981)</small>
 
 Los ejercicios mensuales estarán divididos en la forma siguiente:
 
@@ -221,7 +221,7 @@ Cuando el Presidente haga uso de la palabra en ejercicio de sus funciones, perma
 
 DE LAS FACULTADES Y OBLIGACIONES DEL PRESIDENTE.
 
-> <small>(REFORMADO PRIMER PARRAFO Y REUBICADO, P.O. 23 DE NOVIEMBRE DE 1981)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO Y REUBICADO, P.O. 23 DE NOVIEMBRE DE 1981)</small>
 
 ###### Artículo 23.
 
@@ -351,13 +351,13 @@ XIII.- Cuidar la oportuna impresión y distribución del DIARIO DE LOS DEBATES.
 
 De las Sesiones.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE NOVIEMBRE DE 1981)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 1981)</small>
 
 ###### Artículo 29.
 
 Las sesiones de la Legislatura se celebrarán con la concurrencia de más de la mitad del número total de Diputados.
 
-> <small>(REFORMADO PRIMER PARRAFO [N. DE E. ADICIONADO], P.O. 23 DE NOVIEMBRE DE 1981)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. ADICIONADO], P.O. 23 DE NOVIEMBRE DE 1981)</small>
 
 Las Sesiones serán:
 
@@ -475,71 +475,63 @@ Toda solicitud de particulares o autoridades sin derecho de iniciativa, pasarán
 
 En la interpretación, reforma o derogación de las leyes o decretos, se observarán los mismos trámites establecidos para su formación.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE ABRIL DE 2013)</small>
+
 ### CAPITULO VI
 
 De las Comisiones.
 
 ###### Artículo 42.
 
-Para el despacho de los asuntos inherentes se nombrarán Comisiones Permanentes y Especiales, a fin de ser examinados e instruidos hasta ponerlos en estado de resolución. Las permanentes se eligirán (sic) en la Primera sesión que se verifique después de la apertura del primer periodo ordinarios (sic) de sesiones, para ejercer sus funciones durante todo el tiempo que dure la Legislatura.
-
-> <small>(ADICIONADO [N. DE E. REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
+(DEROGADO, P.O. 9 DE ABRIL DE 2013)
 
 ###### Artículo 43.
 
-Las Comisiones Permanentes serán: Puntos Constitucionales, Puntos Legislativos, Reglamentos, Inspectora de la Contaduría Mayor de Hacienda, Estudios de la Administración Pública, Industria y Comercio, Presupuesto y Cuenta, Educación, Salud y Bienestar Social, Corrección y Estilo, y las demás que a juicio de la Legislatura se estime conveniente integrar.
+(DEROGADO, P.O. 9 DE ABRIL DE 2013)
 
 ###### Artículo 44.
 
-Las comisiones Especiales serán: La Instaladora, las de Cortesía y demás que guarden una función específica de carácter temporal cuya duración no sea mayor de un período de sesiones, o para el tratamiento de un asunto concreto.
+(DEROGADO, P.O. 9 DE ABRIL DE 2013)
 
 ###### Artículo 45.
 
-Las comisiones se integrarán con un mínimo de dos diputados. El Primero de los nombrados fungirá como Presidente y en su falta el que le siga en el orden de nombramiento.
+(DEROGADO, P.O. 9 DE ABRIL DE 2013)
 
 ###### Artículo 46.
 
-La Comisión de Presupuesto y Cuenta se integrará por cuatro miembros, cuyas funciones serán:
-
-I.- Examinar, en cuanto sean enviados por el Gobernador del Estado, los Presupuestos de Egresos del Estado que deberán regir en el año inmediato siguiente, y rendir el dictamen correspondiente dentro de los 25 dias siguientes a su recepción.
-
-II.- Examinar la cuenta pública del año anterior, que debe ser presentada en los primeros diez dias de la apertura de sesiones y rendir el dictamen respectivo dentro de los 25 días siguientes a su recepción.
+(DEROGADO, P.O. 9 DE ABRIL DE 2013)
 
 ###### Artículo 47.
 
-Los Presidentes de las Comisiones serán responsables de los expedientes que pasen a su estudio, debiendo firmar el recibo correspondiente en el libro respectivo, en el cual se anotará la devolución, cesando con ello su responsabilidad.
+(DEROGADO, P.O. 9 DE ABRIL DE 2013)
 
 ###### Artículo 48.
 
-El Presidente, Vicepresidente y Secretario podrán pertenecer a las Comisiones. Ningún miembro de las comisiones tendrá retribucion extraordinaria por el desempeño de las mismas.
+(DEROGADO, P.O. 9 DE ABRIL DE 2013)
 
 ###### Artículo 49.
 
-Las comisiones seguirán funcionando durante el tiempo de receso, y los presidentes de cada una coordinarán los trabajos encomendados.
+(DEROGADO, P.O. 9 DE ABRIL DE 2013)
 
 ###### Artículo 50.
 
-Toda comisión deberá presentar su dictamen dentro de los cinco dias siguientes a la fecha de turno, y de requerir más tiempo lo solicitarán al Presidente exponiendo las razones o causas. Incluirán una parte expositiva fundamentando las razones del dictamen y concluirán con proposiciones claras y sencillas que puedan sujetarse a votación.
+(DEROGADO, P.O. 9 DE ABRIL DE 2013)
 
 ###### Artículo 51.
 
-Los dictámenes serán firmados por los miembros integrantes de la comisión, pero si alguno o varios de ellos, desistieren del parecer de la mayoría, o de algunos puntos del dictamen, presentarán un voto particular por escrito fundamentando sus puntos de vista. Los dictámenes y votos particulares se imprimirán para circularlos entre de los diputados ante de la sesión en que deban debatirse.
+(DEROGADO, P.O. 9 DE ABRIL DE 2013)
 
 ###### Artículo 52.
 
-Las comisiones, por medio de su Presidente, podrán pedir a las oficinas y funcionarios públicos, información, copias de documentos, constancias y la celebración de conferencias que puedan serles útiles al desempeño de su cometido, salvo que sean documentos que deban guardar secreto. La negligencia, tardanza o negativa de proporcionar lo solicitado se hará a conocimiento del Gobernadr (sic) del Estado, para los fines conducentes.
-
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1981)</small>
+(DEROGADO, P.O. 9 DE ABRIL DE 2013)
 
 ###### Artículo 53.
 
-Las comisiones funcionarán conforme lo acuerden sus miembros, con la asistencia de la mayoría de éstos y previa cita de su Presidente. Cualquier Diputado podrá asistir a sus reuniones con voz, pero sin voto. Sus resoluciones se tomarán por mayoría de votos.
-
-Las comisiones podrán solicitar al Presidente de la Legislatura asesoría externa, exponiendo sus razones para el caso.
+(DEROGADO, P.O. 9 DE ABRIL DE 2013)
 
 ###### Artículo 54.
 
-Al abrirse el período de sesiones se tendrá por hecha la Primera lectura de todo el dictamen, y los elaborados que no llegue a conocer una Legislatura, pasarán a la siguiente en calidad de proyectos.
+(DEROGADO, P.O. 9 DE ABRIL DE 2013)
 
 ### CAPITULO VII
 
@@ -773,9 +765,11 @@ Para calificar los casos en que los asuntos son de urgente y obvia resolución, 
 
 Si hubiere empate en las votaciones que no se refieran a elección de personas se repetirá la votación en la misma sesión, y así resultare empate por segunda vez, se discutirá y votará de nuevo el asunto en la sesión inmediata.
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2013)</small>
+
 ###### Artículo 102.
 
-Mientras se verifica la votación, ningún diputado deberá salir del salón ni excusarse de votar.
+Mientras se verifica la votación, ningún diputado deberá salir del salón ni abstenerse de votar, salvo que se encuentre impedido legalmente. Por lo que deberá excusarse, siempre que no se trate de disposiciones de carácter general. La excusa debe expresar concretamente la causa en que se funde.
 
 ### CAPITULO X
 
@@ -885,7 +879,7 @@ A los diputados que se presenten a protestar después de abiertas las sesiones, 
 
 Cuando algún funcionario, representante diplomático o persona de relieve se presente en la Legislatura a invitación de ésta o por sí, se nombrará una comisión que lo reciba a las puertas de la misma y lo acompañe hasta el lugar donde deba tomar asiento que podrá ser en las curules de los diputados o bien en el estrado que ocupa la Presidencia.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE NOVIEMBRE DE 1981)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE NOVIEMBRE DE 1981)</small>
 
 ### CAPITULO XIV
 
@@ -969,7 +963,7 @@ Artículo Unico.- Este Reglamento comenzará a regir a partir de la fecha de su 
 
 D A D O en el Salón de Sesiones de la Primera Legislatura, en la Ciudad de Chetumal, Capital del Estado de Quintana Roo, el dia ocho de abril de mil nevecientos (sic) setenta y cinco.- Dip. Presidenta: Maria Cristina Sangri A.- Rúbrica.- Dip. Secretario: Carlos Sosa Huerta.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 23 DE NOVIEMBRE DE 1981.
 
@@ -994,3 +988,19 @@ En la primera Sesión Ordinaria celebrada luego de entrar en vigor el presente D
 P.O. 31 DE ENERO DE 1984.
 
 UNICO - El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE ABRIL DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
+
+TERCERO.- El Tribunal Electoral, el Instituto Electoral, el Instituto de Transparencia y Acceso a la Información Pública, y los Ayuntamientos, todos del Estado de Quintana Roo contarán con 60 días naturales a partir de la entrada en vigor del presente Decreto, para efectuar las adecuaciones correspondientes a su normatividad interna.
+
+P.O. 9 DE ABRIL DE 2013.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 254 POR EL QUE SE EXPIDE EL REGLAMENTO DE COMISIONES DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO; Y SE DEROGA EL CAPÍTULO VI “DE LAS COMISIONES” DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA LEGISLATURA”.]
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones reglamentarias que se opongan al presente Reglamento.
