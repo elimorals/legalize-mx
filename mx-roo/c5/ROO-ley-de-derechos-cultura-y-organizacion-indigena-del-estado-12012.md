@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-derechos-cultura-y-organizacion-indigena-del-estado-1201
 country: "mx"
 rank: "ley"
 publication_date: "1998-07-31"
-last_updated: "1998-07-31"
+last_updated: "2013-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ROO"
 ---
 # LEY DE DERECHOS, CULTURA Y ORGANIZACION INDIGENA DEL ESTADO DE QUINTANA ROO
 
-LEY DE DERECHOS, CULTURA Y ORGANIZACIÓN INDIGENA DEL ESTADO DE QUINTANA ROO.
+LEY DE DERECHOS, CULTURA Y ORGANIZACIÓN INDÍGENA DEL ESTADO DE QUINTANA ROO.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 31 de Julio de 1998.
 
@@ -41,17 +41,35 @@ LEY DE DERECHOS, CULTURA Y ORGANIZACION INDIGENA DEL ESTADO DE QUINTANA ROO.
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2013)</small>
+
 ###### Artículo 1.
 
-Esta Ley es de orden público e interés social y reglamentaria del último párrafo del Artículo 13 de la Constitución Política del Estado Libre y Soberano de Quintana Roo, por tanto, es obligación de las autoridades estatales y de la sociedad en general, observar y cumplir sus preceptos.
+Esta Ley es de orden público e interés social y reglamentaria del Artículo 13 de la Constitución Política del Estado Libre y Soberano de Quintana Roo, en lo relativo a los derechos de los pueblos y comunidades indígenas, por tanto, es obligación de las autoridades estatales; municipales y de la sociedad en general, observar y cumplir sus preceptos.
 
 ###### Artículo 2.
 
 La presente Ley tiene por objeto el reconocimiento, preservación y defensa de los derechos y cultura de los indígenas del Estado de Quintana Roo, así como el establecimiento de las obligaciones de la administración pública estatal y municipal, en la construcción de las relaciones con las comunidades indígenas y elevar el bienestar social de sus integrantes, promoviendo el desarrollo a través de programas y presupuestos específicos.
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2013)</small>
+
 ###### Artículo 3.
 
-El Poder Ejecutivo, el Poder Judicial y los Municipios del Estado, en el ámbito de sus respectivas competencias, tienen a su cargo la aplicación de la presente ley, a fin de asegurar el respeto de los derechos sociales de las comunidades indígenas mayas.
+El Poder Ejecutivo, a través de la Comisión para el Desarrollo de la Etnia Maya y Comunidades Indígenas del Estado de Quintana Roo, el Poder Judicial y los Ayuntamientos del Estado en el ámbito de sus respectivas competencias, tienen a su cargo la aplicación de la presente ley, a fin de asegurar el respeto de los derechos sociales de las comunidades y pueblos indígenas mayas, así como de toda comunidad equiparable a aquellos, de los indígenas pertenecientes a otras comunidades o pueblos, o que procedentes de otra entidad federativa residan temporal o permanentemente dentro del territorio del Estado.
+
+Al aplicar las disposiciones del presente ordenamiento y especialmente las relativas al ejercicio de la autonomía de la población indígena, se observará lo siguiente:
+
+I.- Los Poderes Ejecutivo y Judicial, así como los Ayuntamientos deberán:
+
+Reconocer, proteger y respetar los sistemas normativos internos, los valores culturales, religiosos y espirituales propios de dicha población;
+
+Adoptar, con la participación y cooperación de la población indígena, medidas encaminadas a mejorar sus condiciones de vida y trabajo.
+
+II.- El Poder Ejecutivo y los Ayuntamientos deberán:
+
+Mediante procedimientos de consulta, a través de sus autoridades o representantes tradicionales, promover su participación en la elaboración del Plan Estatal de Desarrollo y de los Municipales y, en su caso, incorporar las recomendaciones y propuestas que realicen;
+
+Promover mediante los procedimientos de consulta, a través de las autoridades o representantes tradicionales, su participación en la definición y desarrollo de los programas educativos de contenido regional que reconozcan la herencia cultural de sus pueblos, de acuerdo con las leyes de la materia.
 
 ###### Artículo 4.
 
@@ -71,6 +89,22 @@ V.- Festividades tradicionales: Son las ceremonias que se llevan a cabo periódi
 
 La aplicación de las disposiciones de la presente ley, en el reconocimiento de los derechos, cultura y organización de los indígenas mayas se sujetará al respeto de los derechos humanos establecidos en el Convenio número 169 sobre Pueblos Indígenas y Tribales en Países Independientes y las garantías individuales consagradas en la Constitución Política de los Estados Unidos Mexicanos y en la del Estado de Quintana Roo.
 
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2013)</small>
+
+###### Artículo 5
+
+Bis.- Son principios rectores para la protección de los derechos de las personas de las comunidades indígenas, los siguientes:
+
+I.- Preservación de su cultura;
+
+II.- No discriminación;
+
+III.- Igualdad de oportunidades;
+
+IV.- Solidaridad; y
+
+V.- Libre determinación.
+
 ###### Artículo 6.
 
 Cuando se requiera acreditar la calidad de indígena en juicio o fuera de él, ésta se podrá acreditar con la constancia que al efecto expidan los jueces tradicionales, o a través de los medios de prueba previstos en el Código de Procedimientos Civiles del Estado.
@@ -83,21 +117,27 @@ Los indígenas, cualquiera que sea su nacionalidad, que entren al territorio del
 
 Artículos 8.- Los indígenas que se establezcan en el territorio del Estado de Quintana Roo, tienen derecho a conservar sus costumbres, usos, tradiciones, idioma, religión, indumentaria y en general todos los rasgos culturales que los distingan, de conformidad con los principios que establece la presente Ley.
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2013)</small>
+
 ###### Artículo 9.
 
-El Estado tiene la obligación de incluir dentro de sus Planes y Programas de desarrollo a las comunidades indígenas que se asimilen al Estado de Quintana Roo, en los términos del artículo 36 de la presente ley.
+El Estado y los Municipios tienen la obligación de incluir dentro de sus Planes y Programas de Desarrollo a las comunidades indígenas que se asimilen al Estado de Quintana Roo, en los términos del artículo 36 de la presente ley.
 
 ## TITULO SEGUNDO. DERECHOS INDIGENAS
 
 ### CAPITULO III. DERECHOS
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2013)</small>
+
 ###### Artículo 10.
 
-Los indígenas mayas tienen derecho a vivir de acuerdo a su cultura, en libertad, paz, seguridad y justicia digna. Asimismo, tienen derecho al respeto y preservación de sus costumbres, usos, tradiciones, lenguaje, religión e indumentaria.
+Los indígenas mayas tienen derecho a vivir de acuerdo a su cultura, en libertad, paz, seguridad y justicia digna. Asimismo, tienen derecho al respeto y preservación de sus costumbres, usos, tradiciones, lenguaje, religión e indumentaria, siempre que éstas no vulneren los derechos humanos o contravengan las disposiciones de la Constitución Política de los Estados Unidos Mexicanos, de los Tratados Internacionales, de la Constitución Política del Estado Libre y Soberano de Quintana Roo, de esta Ley y demás disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2013)</small>
 
 ###### Artículo 11.
 
-Los indígenas mayas tienen derecho a mantener y desarrollar su identidad, y a ser reconocidos como tales. Asimismo tienen derecho a decidir sus formas internas de convivencia y de organización social, económica y política.
+Los indígenas mayas tienen derecho a mantener y desarrollar su identidad, y a ser reconocidos como tales. Asimismo, tienen derecho a decidir sus formas internas de convivencia y de organización social, económica y política, garantizando la participación efectiva y equitativa de las mujeres y los varones en éstas, en un marco de respeto a la soberanía del Estado y la autonomía de sus Municipios.
 
 ###### Artículo 12.
 
@@ -107,9 +147,11 @@ Los indígenas mayas tienen derecho a que su idioma sea preservado y que las ins
 
 Los indígenas mayas tienen el derecho a practicar sus ceremonias religiosas en sus comunidades, en las zonas arqueológicas del Estado o en los lugares apropiados para ello, de acuerdo a las leyes aplicables; para ello, las autoridades estatales y municipales coadyuvarán a su realización.
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2013)</small>
+
 ###### Artículo 14.
 
-El Estado de Quintana Roo reconoce las normas internas de los indígenas mayas en el ámbito de las relaciones familiares, de la vida civil, de la organización de la vida comunitaria y en general de la prevención y solución de conflictos al interior de cada comunidad, de conformidad con la Ley de Justicia Indígena del Estado, la Constitución General de la República y la particular del Estado.
+El Estado de Quintana Roo reconoce las normas internas de los indígenas mayas en el ámbito de las relaciones familiares, de la vida civil, de la organización de la vida comunitaria y en general de la prevención y solución de conflictos al interior de cada comunidad, de conformidad con la Ley de Justicia Indígena del Estado, siempre que dichas normas no vulneren los derechos humanos o contravengan las disposiciones de la Constitución Política de los Estados Unidos Mexicanos, de los Tratados Internacionales, de la Constitución Política del Estado Libre y Soberano de Quintana Roo, de la presente Ley y demás disposiciones legales aplicables.
 
 ###### Artículo 15.
 
@@ -157,23 +199,35 @@ El Estado, por conducto de sus instancias educativas garantizará que las niñas
 
 El Estado, a través de las instancias educativas, en consulta con el Gran Consejo Maya, adoptará medidas eficaces para eliminar dentro del sistema educativo y en la legislación, los prejuicios, la discriminación y los adjetivos que denigren a los indígenas.
 
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2013)</small>
+
+Los Gobiernos Estatal y Municipales establecerán un sistema de becas para los estudiantes indígenas con el propósito de asegurar la culminación de sus estudios de educación básica y para ampliar el acceso a los tipos medio superior y superior.
+
 ###### Artículo 25.
 
 Las comunidades indígenas tienen derecho a establecer sus propios medios de comunicación en su idioma, de conformidad con la normatividad de la materia, para difundir sus tradiciones, usos y costumbres.
 
-### CAPITULO VI. DE LAS MUJERES, NIÑOS Y ANCIANOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE ABRIL DE 2013)</small>
+
+### CAPITULO VI. DE LAS MUJERES, NIÑOS Y PERSONAS ADULTAS MAYORES
 
 ###### Artículo 26.
 
 El Estado de Quintana Roo garantizará la igualdad de oportunidades entre la mujer y el varón indígena, de conformidad a lo previsto en el presente capítulo y las leyes respectivas.
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2013)</small>
+
 ###### Artículo 27.
 
-El Estado velará por el bienestar, cuidado y protección de las mujeres, niños y ancianos de las comunidades mayas, por cuanto constituyen la base de las familias que integran y sustentan las comunidades indígenas de Quintana Roo y la preservación de sus tradiciones.
+El Estado velará por el bienestar, cuidado y protección de las mujeres, niños y personas adultas mayores de las comunidades mayas, por cuanto constituyen la base de las familias que integran y sustentan las comunidades indígenas de Quintana Roo y la preservación de sus tradiciones.
 
 ###### Artículo 28.
 
 Con respeto a las tradiciones, usos y costumbres indígenas, el Estado promoverá la participación plena de las mujeres en tareas y actividades que tiendan a lograr su realización, superación y reconocimiento de su dignidad.
+
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2013)</small>
+
+El Poder Ejecutivo y los Ayuntamientos fomentarán el ejercicio del derecho de las mujeres indígenas a los servicios de salud, educación bilingüe e intercultural, cultura, vivienda digna y decorosa, a la capacitación para realizar actividades que estimulen su desarrollo integral, a adquirir bienes por transmisión hereditaria o por cualquier otro medio legal, así como a desempeñar cualquier cargo o responsabilidad al interior de la comunidad y participar en proyectos productivos para el desarrollo comunitario, en igualdad de condiciones que el resto de los integrantes de las Comunidades indígenas.
 
 ###### Artículo 29.
 
@@ -187,9 +241,11 @@ El Estado asume la obligación de propiciar la información, capacitación, difu
 
 El Estado garantizará los derechos individuales de los niños y niñas indígenas a la vida, la integridad, la libertad y la seguridad de sus personas, en los términos de la Constitución Política de la República, la del Estado y de los Tratados Internacionales.
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2013)</small>
+
 ###### Artículo 32.
 
-El Estado velará por la salud, bienestar, respeto y reconocimiento de la dignidad y experiencia de los ancianos mayas. Igualmente procurará que los programas de asistencia social alcancen a los ancianos indígenas mayas.
+El Estado velará por la salud, bienestar, respeto y reconocimiento de la dignidad y experiencia de las personas adultas mayores indígenas mayas. Igualmente procurará que los programas de asistencia social alcancen a estas personas.
 
 ### CAPITULO VII. SALUD
 
@@ -197,11 +253,21 @@ El Estado velará por la salud, bienestar, respeto y reconocimiento de la dignid
 
 Los programas institucionales de salud establecerán los medios para que beneficien a las comunidades indígenas, los cuales en su aplicación respetarán sus usos, costumbres y tradiciones, en particular la medicina tradicional.
 
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2013)</small>
+
+El Estado promoverá la extensión progresiva de los regímenes de seguridad social a los pueblos y comunidades indígenas, aplicándolos sin discriminación alguna.
+
 ###### Artículo 34.
 
 Las instituciones de salud que actúen en las comunidades indígenas, promoverán y fomentarán el uso de la medicina tradicional, para lo cual, registrarán y acreditarán a la (sic) personas que usen los métodos tradicionales de salud y atención maternal, con el apoyo necesario en su aplicación, dotándolos de los elementos para que lleven a cabo su labor de manera adecuada.
 
 La Secretaría de Salud del Estado instrumentará las medidas necesarias para que el personal de las instituciones de salud pública que actúen en las comunidades indígenas, cuenten con los conocimientos básicos sobre la cultura, costumbres e idioma de estas comunidades.
+
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2013)</small>
+
+###### Artículo 34
+
+Bis.- La Secretaría de Salud, con la participación de las autoridades indígenas, implementará campañas de información, orientación y prevención general sobre la salud, así como sobre los distintos tipos de cáncer que afectan a la población en general; salud sexual y reproductiva; prevención de enfermedades de transmisión sexual; cuidados pre y postnatales del recién nacido y la madre indígena; así como sobre prevención, atención y erradicación de la violencia familiar en coordinación con las autoridades competentes en la materia.
 
 ###### Artículo 35.
 
@@ -365,9 +431,11 @@ La tentativa en el delito de etnocidio se sancionará hasta con las dos terceras
 
 En caso de concurso real y demás casos no previstos en el presente capítulo, se aplicará supletoriamente el Código Penal y de Procedimientos Penales del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ABRIL DE 2013)</small>
+
 ###### Artículo 64.
 
-El Ejecutivo del Estado, a través de la Secretaría General de Gobierno, sancionará con multa de 30 a 400 salarios mínimos generales de la zona o con arresto de hasta 36 horas al que incurra en alguna de las siguientes conductas:
+El Ejecutivo del Estado, a través de la Secretaría de Gobierno, sancionará con multa de 30 a 400 salarios mínimos generales de la zona o con arresto de hasta 36 horas al que incurra en alguna de las siguientes conductas:
 
 I.- La persona o personas que por cualquier medio impida el derecho de los indígenas a disfrutar, enriquecer y transmitir su propia cultura e idioma;
 
@@ -416,3 +484,11 @@ ING. MARIO E. VILLANUEVA MADRID.
 EL C. SECRETARIO GENERAL DE GOBIERNO.
 
 DR. HECTOR ESQUILIANO SOLIS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 9 DE ABRIL DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
