@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-68-2004-del-pleno-del-consejo-de-la-41554"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2004-11-19"
-last_updated: "2008-02-08"
+last_updated: "2013-04-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41554&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2004-11-10"
 ---
 # ACUERDO GENERAL 68/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [A TRAVES DEL CUAL SE IMPLEMENTA LA PUBLICACION EN INTERNET DE LAS SENTENCIAS EJECUTORIAS Y RESOLUCIONES PUBLICAS RELEVANTES, GENERADAS POR LOS TRIBUNALES DE CIRCUITO Y JUZGADOS DE DISTRITO, A FIN DE INCENTIVAR EL INTERES DE LA POBLACION EN EL CONOCIMIENTO DE LAS RESOLUCIONES JURISDICCIONALES, PARA FOMENTAR UNA CULTURA DE TRANSPARENCIA Y ACCESO A LA INFORMACION]
 
-ACUERDO GENERAL 68/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, A TRAVES DEL CUAL SE IMPLEMENTA LA PUBLICACION EN INTERNET DE LAS SENTENCIAS EJECUTORIAS Y RESOLUCIONES PUBLICAS RELEVANTES, GENERADAS POR LOS TRIBUNALES DE CIRCUITO Y JUZGADOS DE DISTRITO, A FIN DE INCENTIVAR EL INTERES DE LA POBLACION EN EL CONOCIMIENTO DE LAS RESOLUCIONES JURISDICCIONALES, PARA FOMENTAR UNA CULTURA DE TRANSPARENCIA Y ACCESO A LA INFORMACION
+ACUERDO GENERAL 68/2004 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, A TRAVÉS DEL CUAL SE IMPLEMENTA LA PUBLICACIÓN EN INTERNET DE LAS SENTENCIAS EJECUTORIAS Y RESOLUCIONES PÚBLICAS RELEVANTES, GENERADAS POR LOS TRIBUNALES DE CIRCUITO Y JUZGADOS DE DISTRITO, A FIN DE INCENTIVAR EL INTERÉS DE LA POBLACIÓN EN EL CONOCIMIENTO DE LAS RESOLUCIONES JURISDICCIONALES, PARA FOMENTAR UNA CULTURA DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE FEBRERO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2013.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 19 de noviembre de 2004.
 
@@ -63,33 +63,43 @@ ACUERDO
 
 El presente Acuerdo tiene por objeto establecer la publicación en Internet de las sentencias ejecutorias o resoluciones públicas relevantes que generen los Tribunales de Circuito y Juzgados de Distrito, en términos de lo dispuesto por la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y el Reglamento de la Suprema Corte de Justicia de la Nación y del Consejo de la Judicatura Federal, para la aplicación de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, a fin de incentivar el interés de la población para que se involucre en el trabajo de los órganos jurisdiccionales por medio de sus resoluciones, fomentando así una cultura de transparencia y acceso a la información.
 
+> <small>(REFORMADO POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
+
 ###### Artículo 2.
 
-La Comisión de Transparencia y Acceso a la Información del Consejo de la Judicatura Federal velará por el exacto cumplimiento del presente Acuerdo y para todos los efectos administrativos será el Órgano encargado de interpretar sus disposiciones.
+La Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo de la Judicatura Federal velará por el exacto cumplimiento del presente Acuerdo y para todos los efectos administrativos será el Órgano encargado de interpretar sus disposiciones.
+
+> <small>(REFORMADO POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
 
 ###### Artículo 3.
 
-La Secretaría Ejecutiva de Vigilancia, Información y Evaluación será la encargada de coordinar las tareas tendentes a la publicación en Internet de las sentencias ejecutorias o resoluciones públicas, generadas por los Tribunales de Circuito y Juzgados de Distrito que se ubiquen en alguno de los supuestos a que se refiere el artículo 6 del presente Acuerdo.
+La Coordinación para la Transparencia, Acceso a la Información y Archivos será la encargada de coordinar las tareas tendentes a la publicación en Internet de las sentencias ejecutorias o resoluciones públicas, generadas por los Tribunales de Circuito y Juzgados de Distrito que se ubiquen en alguno de los supuestos a que se refiere el artículo 6 del presente Acuerdo.
 
-La recepción, revisión, clasificación y recopilación de la sentencias y resoluciones públicas que en forma electrónica envíen los Tribunales de Circuito y Juzgados de Distrito, también estará a cargo de la misma Secretaría Ejecutiva; la que de igual forma establecerá y mantendrá el sistema que administre el banco de datos, la página y el sitio electrónicos en el que se pondrán a disposición del público.
+La recepción, revisión, clasificación y recopilación de la sentencias y resoluciones públicas que en forma electrónica envíen los Tribunales de Circuito y Juzgados de Distrito, también estará a cargo de la misma Coordinación para la Transparencia; la que de igual forma establecerá y mantendrá el sistema que administre el banco de datos, la página y el sitio electrónicos en el que se pondrán a disposición del público.
+
+> <small>(REFORMADO POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
 
 ###### Artículo 4.
 
-Las unidades administrativas del Consejo de la Judicatura Federal brindarán el apoyo que les sea requerido por la Secretaría Ejecutiva mencionada, para el cumplimiento de las funciones que en razón del presente Acuerdo se le confieren.
+Las unidades administrativas del Consejo de la Judicatura Federal brindarán el apoyo que les sea requerido por la Coordinación para la Transparencia, Acceso a la Información y Archivos, para el cumplimiento de las funciones que en razón del presente Acuerdo se le confieren.
 
-> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO UNICO DEL ACUERDO GENERAL 2/2008 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
 
 ###### Artículo 5.
 
-Los Tribunales de Circuito y Juzgados de Distrito, deberán enviar vía electrónica a la Secretaría Ejecutiva de Vigilancia, Información y Evaluación, a través del Sistema de Captura de Sentencias Ejecutorias y Resoluciones Públicas Relevantes, las sentencias o resoluciones públicas que estén en alguno de los supuestos que señala el artículo 6 del presente Acuerdo, cuya versión deberá ser pública, es decir, con la supresión de la información considerada legalmente como reservada y confidencial, en términos de lo dispuesto en los artículos 13, 14 y 18 de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, así como en lo señalado por el Título Segundo “De los criterios de clasificación y conservación de la información reservada o confidencial”, del Reglamento de la Suprema Corte de Justicia de la Nación y del Consejo de la Judicatura Federal para la aplicación de la referida Ley.
+Los Tribunales de Circuito y Juzgados de Distrito, deberán enviar vía electrónica a la Coordinación para la Transparencia, Acceso a la Información y Archivos, a través del Sistema de Captura de Sentencias Ejecutorias y Resoluciones Públicas Relevantes, las sentencias o resoluciones públicas que estén en alguno de los supuestos que señala el artículo 6 del presente Acuerdo, cuya versión deberá ser pública, es decir, con la supresión de la información considerada legalmente como reservada y confidencial, en términos de lo dispuesto en los artículos 13, 14 y 18 de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, así como en lo señalado por el Título Segundo “De los criterios de clasificación y conservación de la información reservada o confidencial”, del Reglamento de la Suprema Corte de Justicia de la Nación y del Consejo de la Judicatura Federal para la aplicación de la referida Ley.
 
 La validación del documento electrónico, su envío y recepción deberá ser supervisada por los propios titulares y certificada por el secretario que al efecto determinen.
 
-Los titulares de los Órganos Jurisdiccionales contarán con un plazo de treinta días a partir de la fecha de publicación de la sentencia ejecutoria o resolución pública, para elaborar y remitir el documento electrónico correspondiente a la Secretaría Ejecutiva de Vigilancia, Información y Evaluación para su publicación en Internet.
+> <small>(REFORMADO POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
+
+Los titulares de los Órganos Jurisdiccionales contarán con un plazo de treinta días a partir de la fecha de publicación de la sentencia ejecutoria o resolución pública, para elaborar y remitir el documento electrónico correspondiente a la Coordinación para la Transparencia para su publicación en Internet.
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
 
 ###### Artículo 6.
 
-Las sentencias ejecutorias o resoluciones públicas que podrán ser enviadas a la Secretaría Ejecutiva de Vigilancia, Información y Evaluación, y por ende, susceptibles de ser publicadas en Internet, deberán situarse en cualesquiera de los supuestos siguientes:
+Las sentencias ejecutorias o resoluciones públicas que podrán ser enviadas a la Coordinación para la Transparencia, Acceso a la Información y Archivos, y por ende, susceptibles de ser publicadas en Internet, deberán situarse en cualesquiera de los supuestos siguientes:
 
 I. Aquellas que incluyan criterios de interpretación novedosos, es decir, que su contenido no sea obvio o reiterativo;
 
@@ -107,15 +117,19 @@ VI. Aquellas que traten un negocio excepcional, es decir, que sean distintas a l
 
 Los Tribunales de Circuito y Juzgados de Distrito, discrecionalmente enviarán a través de medio electrónico y en forma mensual, las sentencias ejecutorias o resoluciones públicas que consideren se encuentran en alguno de los supuestos que establece el artículo 6 del presente Acuerdo.
 
+> <small>(REFORMADO POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
+
 ###### Artículo 8.
 
-La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, verificará que las sentencias ejecutorias o resoluciones que envíen los Tribunales de Circuito y Juzgados de Distrito sean versiones públicas y encuadre en alguno o algunos de los supuestos que señala el Artículo 6 del presente Acuerdo. Asimismo, tendrá bajo su responsabilidad su publicación en Internet, la que deberá actualizar en forma mensual.
+La Coordinación para la Transparencia, Acceso a la Información y Archivos verificará que las sentencias ejecutorias o resoluciones que envíen los Tribunales de Circuito y Juzgados de Distrito sean versiones públicas y encuadre en alguno o algunos de los supuestos que señala el Artículo 6 del presente Acuerdo. Asimismo, tendrá bajo su responsabilidad su publicación en Internet, la que deberá actualizar en forma mensual.
+
+> <small>(REFORMADO POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
 
 ###### Artículo 9.
 
-La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, rendirá informes trimestralmente a la Comisión de Transparencia y Acceso a la Información, que una vez autorizados se publicarán en Internet, en donde se contendrán por lo menos, los avances en la conformación del banco de datos, el número de sentencias ejecutorias y demás resoluciones publicadas en dicha página, debiendo informarse del número de documentos electrónicos recibidos por cada Tribunal de Circuito y Juzgado de Distrito.
+La Coordinación para la Transparencia, Acceso a la Información y Archivos, rendirá informes trimestralmente a la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales, que una vez autorizados se publicarán en Internet, en donde se contendrán por lo menos, los avances en la conformación del banco de datos, el número de sentencias ejecutorias y demás resoluciones publicadas en dicha página, debiendo informarse del número de documentos electrónicos recibidos por cada Tribunal de Circuito y Juzgado de Distrito.
 
-En el informe anual de labores que rinde la Comisión de Transparencia y Acceso a la Información, se destacará a los Tribunales de Circuito y Juzgados de Distrito que hayan colaborado en el envío de las resoluciones.
+En el informe anual de labores que rinde la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales, se destacará a los Tribunales de Circuito y Juzgados de Distrito que hayan colaborado en el envío de las resoluciones.
 
 ## TRANSITORIOS
 
@@ -131,10 +145,20 @@ QUINTO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, debe
 
 GUADALUPE MARGARITA ORTIZ BLANCO, SECRETARIA EJECUTIVA DE CARRERA JUDICIAL, ADSCRIPCION Y CREACIÓN DE NUEVOS ÓRGANOS DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 68/2004, del Pleno del Consejo de la Judicatura Federal, a través del cual se Implementa la Publicación en Internet de las Sentencias Ejecutorias y Resoluciones Públicas Relevantes, Generadas por los Tribunales de Circuito y Juzgados de Distrito, a fin de Incentivar el Interés de la Población en el Conocimiento de las Resoluciones Jurisdiccionales, para Fomentar una Cultura de Transparencia y Acceso a la Información, fue aprobado por el Pleno del propio Consejo, en sesión de diez de noviembre de dos mil cuatro, por unanimidad de votos de los señores Consejeros: Presidente Ministro Mariano Azuela Güitrón, Adolfo O. Aragón Mendía, Constancio Carrasco Daza, Elvia Díaz de León D'Hers y Miguel A. Quirós Pérez.- México, Distrito Federal, a diez de noviembre de dos mil cuatro.- Conste.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
 
 D.O.F. 8 DE FEBRERO DE 2008.
 
 PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Para su difusión, publíquese en el Diario Oficial de la Federación, en el Semanario Judicial y su Gaceta, así como en los medios electrónicos de consulta pública.
+
+D.O.F. 9 DE ABRIL DE 2013.
+
+PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. Se abroga cualquier disposición emitida con anterioridad que se oponga a lo señalado en el presente acuerdo.
+
+CUARTO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá incorporar el texto de este instrumento, a los Acuerdos Generales correspondientes, conforme al texto que se reforma, adiciona o deroga en su caso particular.
