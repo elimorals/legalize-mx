@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-instituto-electoral-de-quintana-roo-25785"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-08-27"
-last_updated: "2012-12-07"
+last_updated: "2013-04-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25785&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el martes 27 de agosto de 2002.
 
@@ -135,9 +135,9 @@ El Consejo General del Instituto es el Organo Superior de Dirección, responsabl
 
 El Consejo General se integrará con siete Consejeros Electorales con voz y voto, uno de los cuales fungirá como Presidente; concurrirán, además, con voz pero sin voto: un representante de cada uno de los partidos políticos y el Secretario General del Instituto. Asimismo habrá cuatro Consejeros Electorales suplentes en orden de prelación, que deberán reunir los mismos requisitos. En la primera sesión que celebren en el mes de Febrero, los Consejeros Electorales elegirán a uno de ellos, como Presidente del Instituto, quien lo será por un período de tres años, pudiendo ser reelecto para un período igual.
 
-> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2013)</small>
 
-Las Comisiones permanentes serán las de: Partidos Políticos .y Radio Difusión; Organización Informática y Estadística; Capacitación Electoral y Comunicación Social; Jurídica; Fiscalización; Administración; Transparencia, Información y Estudios Electorales.
+Las Comisiones permanentes serán las de: Partidos Políticos y Radio Difusión; Organización Informática y Estadística; Capacitación Electoral y Comunicación Social; Jurídica; Fiscalización; Administración; Transparencia, Información y Estudios Electorales. Las resoluciones o acuerdos de la comisiones serán aprobados por mayoría de votos. La votación podrá ser a favor o en contra y en ningún caso los integrantes podrán abstenerse de ello, salvo que se encuentren impedidos legalmente, por lo que deberán excusarse ante el Presidente de la Comisión respectiva. La excusa debe expresar concretamente la causa en que se funde.
 
 > <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2007)</small>
 
@@ -386,6 +386,10 @@ III. Solicitar el auxilio de la fuerza pública para restablecer el orden y expu
 ###### Artículo 19.
 
 Las resoluciones o acuerdos del Consejo General serán aprobados por mayoría de votos, salvo que, por disposición expresa de la Ley o de la Constitución Particular, se requiera de las dos terceras partes. El Consejero Presidente tendrá voto de calidad en caso de empate.
+
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2013)</small>
+
+La votación podrá ser á favor o en contra, sin posibilidad de abstenerse, salvo que se encuentre impedido legalmente, por lo que deberá excusarse. La excusa debe expresar concretamente la causa en que se funde.
 
 ###### Artículo 20.
 
@@ -1870,3 +1874,11 @@ El Instituto Electoral de Quintana Roo deberá realizar las adecuaciones a la no
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE ABRIL DE 2013.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
+
+TERCERO. El Tribunal Electoral, el Instituto Electoral, el Instituto de Transparencia y Acceso a la Información Pública, y los Ayuntamientos, todos del Estado de Quintana Roo contarán con 60 días naturales a partir de la entrada en vigor del presente Decreto, para efectuar las adecuaciones correspondientes a su normatividad interna.
