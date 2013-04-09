@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-84-2008-del-pleno-del-consejo-de-la-64775"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2009-01-02"
-last_updated: "2013-01-23"
+last_updated: "2013-04-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64775&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-12-10"
 
 ACUERDO GENERAL 84/2008, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS ATRIBUCIONES DE LOS ÓRGANOS EN MATERIA DE TRANSPARENCIA, ASÍ COMO LOS PROCEDIMIENTOS DE ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2013.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 2 de enero de 2009.
 
@@ -65,11 +65,15 @@ El presente acuerdo tiene por objeto establecer las atribuciones de los órganos
 
 Para los efectos del presente acuerdo, además de las definiciones contenidas en el artículo 2 del Reglamento de la Suprema Corte de Justicia de la Nación y del Consejo de la Judicatura Federal para la aplicación de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, se entenderá por:
 
-> <small>(F. DE E., D.O.F. 3 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
 
-I. Comisión: La Comisión para la Transparencia, Acceso a la Información Pública Gubernamental y Protección de Datos Personales del Consejo de la Judicatura Federal;
+I. Comisión: La Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo de la Judicatura Federal;
 
 II. Comité: El Comité de Acceso a la Información y Protección de Datos Personales del Consejo de la Judicatura Federal;
+
+> <small>(ADICIONADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
+
+II. Bis Coordinación para la Transparencia: La Coordinación para la Transparencia, Acceso a la Información y Archivos del Consejo de la Judicatura Federal;
 
 > <small>(F. DE E., D.O.F. 3 DE FEBRERO DE 2009)</small>
 
@@ -93,7 +97,9 @@ Este acuerdo es de observancia obligatoria para los servidores públicos del Con
 
 ## Título Segundo. De los Organos Encargados de la Transparencia, Acceso a la Información y Protección de Datos Personales
 
-### Capítulo Primero. De la Comisión para la Transparencia, Acceso a la Información Pública Gubernamental y Protección de Datos Personales
+> <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
+
+### Capítulo Primero. De la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales
 
 ###### Artículo 4.
 
@@ -155,7 +161,9 @@ XVIII. Autorizar la creación y ubicación de Módulos de Acceso;
 
 XIX. Establecer acciones de capacitación para los servidores públicos en materia de acceso a la información y protección de datos de carácter personal;
 
-XX. Proponer al Pleno del Consejo la designación del Titular de la Unidad de Enlace, a sugerencia del Comité;
+> <small>(REFORMADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
+
+XX. Proponer al Pleno del Consejo la designación de los Titulares de la Coordinación para la Transparencia, de la Unidad de Enlace y del Archivo General del Consejo, a sugerencia del Presidente;
 
 XXI. Designar, a propuesta de su Presidente, al secretario técnico de la Comisión, así como al demás personal de apoyo;
 
@@ -203,9 +211,11 @@ VI. Proponer al Presidente de la Comisión la celebración de sesiones extraordi
 
 VII. Las demás que le confiera la Comisión y las disposiciones legales y reglamentarias aplicables.
 
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
+
 ###### Artículo 9.
 
-Las convocatorias a las sesiones de la Comisión se harán por conducto de su secretario técnico, deberán realizarse por escrito y contener el orden del día, la fecha, el lugar y la hora en que se llevará a cabo la sesión, y remitirse a los integrantes cuando menos tres días hábiles antes de la celebración de sesiones ordinarias; para el caso de las sesiones extraordinarias la remisión de dichos documentos se realizará, al menos, con veinticuatro horas de anticipación.
+Las convocatorias a las sesiones de la Comisión se harán por conducto de su secretario técnico, deberán realizarse por escrito y contener el orden del día, la fecha, el lugar y la hora en que se llevará a cabo la sesión, y remitirse a los integrantes cuando menos con cuarenta y ocho horas de antelación a la celebración de sesiones ordinarias; para el caso de las sesiones extraordinarias la remisión de dichos documentos se realizará, al menos, con veinticuatro horas de anticipación.
 
 ###### Artículo 10.
 
@@ -241,11 +251,11 @@ XII. Las demás que le confieran la Comisión y las disposiciones legales y regl
 
 El Comité es la instancia ejecutiva, encargada de instrumentar las medidas necesarias para coordinar las acciones tendentes a cumplir con la publicidad de la información, asegurar el ejercicio del derecho al acceso a la información y proteger los datos personales en posesión de las Unidades Administrativas y Organos Jurisdiccionales, conforme a lo dispuesto en la Ley, el Reglamento y a las demás disposiciones aplicables.
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 1/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE ENERO DE 2013)</small>
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
 
 ###### Artículo 12.
 
-El Comité estará integrado por los Titulares de la Secretaría Ejecutiva de Vigilancia, Información y Evaluación, quién lo presidirá, de la Secretaría Ejecutiva de Carrera Judicial, Adscripción y Creación de Nuevos Organos y de la Unidad de Enlace, los que tendrán voz y voto en las resoluciones que se tomen. Igualmente, formará parte del Comité, con voz y voto, el titular de la Unidad de Archivo General, en aquéllos casos relacionados con la materia archivística.
+El Comité estará integrado por los Titulares de la Coordinación para la Transparencia, quién lo presidirá, de la Secretaría Ejecutiva de Carrera Judicial, Adscripción y Creación de Nuevos Órganos y de la Dirección General de Asuntos Jurídicos, los que tendrán voz y voto en las resoluciones que se tomen. Igualmente, formará parte del Comité, con voz y voto, el titular de la Unidad de Archivo General, en aquéllos casos relacionados con la materia archivística.
 
 ###### Artículo 13.
 
@@ -377,9 +387,67 @@ XI. Dar seguimiento a los acuerdos sobre las resoluciones del Comité o el estad
 
 XII. Informar quincenalmente al Comité sobre las actas y engroses pendientes de firma.
 
-### Capítulo Tercero. De la Unidad de Enlace
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
 
-### Capítulo Cuarto. De los Módulos de Acceso
+### Capítulo Tercero. De la Coordinación para la Transparencia, Acceso a la Información y Archivos
+
+> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
+
+###### Artículo 19 Bis.
+
+La Coordinación para la Transparencia se encargará de auxiliar a la Comisión y al Comité para el desempeño de las atribuciones que tienen encomendadas; así como de la planeación, supervisión y dirección de las acciones que en materia de transparencia, acceso a la información, protección de datos personales y archivo realiza el Consejo.
+
+> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
+
+###### Articulo 19 Ter.
+
+La Coordinación para la Transparencia tendrá las siguientes atribuciones:
+
+I. Proponer a la Comisión las políticas, directrices, normas y criterios que sobre las materias de su competencia resulte necesario implementar;
+
+II. Verificar que la información a que se refiere el artículo 7 de la Ley quede a disposición del público, así como proponer a la Comisión, cualquier otra información que considere se deba difundir en la página de transparencia;
+
+III. Someter a la aprobación de la Comisión, el diseño de las páginas de transparencia;
+
+IV. Coordinarse con las áreas respectivas del Consejo, para presentar al Comité, los indicadores de gestión administrativa y jurisdiccional;
+
+V. Proponer al Comité, los proyectos de programas que faciliten la obtención de información en posesión de las unidades administrativas y órganos jurisdiccionales;
+
+VI. Instrumentar el desarrollo de las acciones encaminadas a la protección de datos personales;
+
+VII. Someter al Comité, las propuestas para definir los criterios y medidas necesarias para la organización y archivos en el Consejo;
+
+VIII. Supervisar el cumplimiento de la política archivística determinada por la Comisión que incluye la gestión de documentos; así como el fortalecimiento del Sistema Institucional de Archivos;
+
+IX. Recopilar y publicar los criterios novedosos o relevantes y las resoluciones de los Tribunales Unitarios y Juzgados de Distrito e informar trimestralmente a la Comisión, sobre los avances obtenidos;
+
+X. Publicar en Internet las sentencias ejecutorias o resoluciones públicas relevantes generadas por los Órganos Jurisdiccionales e informar trimestralmente a la Comisión sobre los avances en la conformación del banco de datos;
+
+XI. Operar y mantener actualizado el diccionario biográfico;
+
+XII. Coordinar la impartición de cursos de capacitación en materias de transparencia, acceso a la información, protección de datos y archivos a los servidores públicos de las unidades administrativas y de los órganos jurisdiccionales;
+
+XIII. Planear, programar, dirigir y evaluar el funcionamiento de las unidades administrativas a su cargo;
+
+XIV. Proponer o designar, conforme a la normativa aplicable, al personal de la unidad administrativa a su cargo;
+
+XV. Informar a las áreas competentes, con la periodicidad que corresponda, sobre el avance y cumplimento de proyectos y programas a su cargo; y
+
+XVI. Las demás que le confiera la Comisión y las disposiciones legales y reglamentarias aplicables.
+
+> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
+
+###### Artículo 19 Quater.
+
+La Coordinación para la Transparencia contará con las siguientes unidades administrativas:
+
+I. Unidad de Enlace;
+
+II. Archivo General del Consejo de la Judicatura Federal; y
+
+III. Secretaría Técnica del Comité de Acceso a la Información y Protección de Datos Personales.
+
+### Capítulo Cuarto. De la Unidad de Enlace
 
 ###### Artículo 20.
 
@@ -413,7 +481,9 @@ XI. Elaborar y proponer los procedimientos internos de acceso a la información 
 
 XII. Elaborar y proponer los procedimientos internos de solicitud de acceso, rectificación, cancelación y oposición de publicación de datos de carácter personal, para asegurar que éstos se pongan a disposición de sus titulares o sus representantes;
 
-XIII. Elaborar, en coordinación con la Secretaría Ejecutiva de Vigilancia, Información y Evaluación y el apoyo técnico de las Direcciones Generales de Aplicaciones Informáticas y de Sistemas de Redes Informáticas, los criterios y políticas generales para administración, seguridad y protección de datos de carácter personal que estén en posesión de las Unidades Administrativas y Organos Jurisdiccionales;
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
+
+XIII. Elaborar, bajo la supervisión de la Coordinación para la Transparencia y el apoyo técnico de la unidad administrativa competente en materia de informática, los criterios y políticas generales para administración, seguridad y protección de datos de carácter personal que estén en posesión de las Unidades Administrativas y Órganos Jurisdiccionales;
 
 XIV. Proporcionar, el apoyo necesario a las diferentes Unidades Administrativas y Organos Jurisdiccionales, en la administración, seguridad y protección de los datos de carácter personal que tienen bajo su resguardo;
 
@@ -457,9 +527,67 @@ IV. Estado de cumplimiento por parte de las Unidades Administrativas y Organos J
 
 V. En su caso, las dificultades observadas en el cumplimiento de la normativa aplicable en materia de transparencia.
 
-### Capítulo Primero. Disposiciones Generales
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
 
-### Capítulo Segundo. Principios Rectores de la Protección de los Datos Personales
+### Capítulo Quinto. Del Archivo General del Consejo
+
+> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
+
+###### Artículo 24 Bis.
+
+El Archivo General del Consejo es el Área Coordinadora de Archivos, encargada de desarrollar e implementar el sistema institucional de archivos, que permita planear, dirigir y controlar la producción, circulación, organización, conservación, uso, selección y destino final de los documentos de archivo.
+
+> <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
+
+###### Artículo 24 Ter.
+
+El titular del Archivo General del Consejo tendrá a su cargo las siguientes atribuciones:
+
+I. Proponer a la Coordinación para la Transparencia, aquellos procedimientos y métodos necesarios para el adecuado funcionamiento del Sistema Institucional de Archivos, así como el Plan Anual de Desarrollo Archivístico de los archivos bajo administración del Consejo, para someterlos a consideración del Comité y posterior aprobación de la Comisión;
+
+II. Proponer a la Coordinación para la Transparencia los criterios y lineamientos archivísticos para la organización y conservación de los archivos bajo la administración del Consejo, a fin de asegurar su integridad según las disposiciones aplicables, para presentarlos al Comité y en su oportunidad a la Comisión;
+
+III. Participar en la elaboración de las propuestas de la normativa relativa a los archivos bajo la administración del Consejo;
+
+IV. Formar parte del Comité con voz y voto, en aquellos casos relacionados con la materia archivística;
+
+V. Proporcionar capacitación archivística de conformidad con el programa que para tal efecto apruebe la Comisión, previa autorización de la Coordinación para la Transparencia;
+
+VI. Asesorar en materia archivística a los órganos jurisdiccionales y áreas administrativas del Consejo;
+
+VII. Promover el uso de tecnologías de la información disponibles en el Consejo para el manejo e integración de los archivos;
+
+VIII. En coordinación con la unidad administrativa competente en materia Informática, determinar los métodos para la conservación de los documentos de archivo en formato electrónico;
+
+IX. Elaborar conjuntamente con la Coordinación para la Transparencia y someter a consideración de la Comisión los contenidos y actualizaciones del Manual Institucional de Archivos, de los Reglamentos del Archivo Histórico y del Centro de Documentación;
+
+X. Custodiar, organizar y conservar los documentos y expedientes administrativos que conforman los archivos de concentración e históricos, para facilitar su localización, promover su consulta y aprovechamiento público, de conformidad con las disposiciones aplicables;
+
+XI. Establecer un Centro de Documentación y fijar los mecanismos idóneos para proporcionar el servicio de consulta y reproducción de documentos históricos;
+
+XII. Participar en la elaboración de los manuales de organización, procedimientos y de servicios al público;
+
+XIII. En coordinación con las áreas responsables, definir los espacios físicos y condiciones requeridas para la guarda, mantenimiento y conservación de los archivos bajo la administración del Consejo;
+
+XIV. Emitir opinión técnica sobre aquellos asuntos relacionados con la materia archivística, conforme a las atribuciones y funciones señaladas en el presente acuerdo y a la normativa aplicable;
+
+XV. Expedir constancias y certificar documentos relacionados con la competencia y atribuciones del área a su cargo;
+
+XVI. Promover la celebración de convenios con instituciones nacionales e internacionales, públicas o privadas, con el propósito de mejorar y modernizar los servicios archivísticos, incorporando los avances tecnológicos en su campo;
+
+XVII. Participar en la elaboración y revisión de los Sistemas de Manejo Ambiental a que se refiere el artículo 17 bis de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, en el tema de la racionalidad y sustentabilidad de los archivos institucionales;
+
+XVIII. Proponer a la Coordinación para la Transparencia, los mecanismos de evaluación de los archivos bajo administración del Consejo;
+
+XIX. Rendir informe sobre el estado que guarda el Archivo General, con la periodicidad que determine la Comisión;
+
+XX. Presentar a la Comisión, por conducto de la Coordinación para la Transparencia, el informe anual de los avances alcanzados en materia archivística, para su difusión en el Portal de Transparencia del Consejo;
+
+XXI. Informar a la Coordinación para la Transparencia, para que en su caso, comunique a la Comisión sobre cualquier dificultad que en el desarrollo de sus funciones se presente; y
+
+XXII. Las demás que establezcan el Pleno y la Comisión.
+
+### Capítulo Sexto. De los Módulos de Acceso
 
 ###### Artículo 25.
 
@@ -547,13 +675,17 @@ XVI. Las versiones públicas de las sentencias y resoluciones relevantes dictada
 
 XVII. Las versiones públicas de los criterios novedosos emitidos por los Tribunales Unitarios de Circuito y Juzgados de Distrito;
 
-XVIII. Las convocatorias a concursos internos y libres de oposición para ocupar las categorías de Magistrado de Circuito y Juez de Distrito, así como los resultados de los mismos;
+> <small>(REFORMADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
 
-XIX. Los recursos de revisión en materia de Transparencia;
+XVIII. Los recursos de revisión en materia de Transparencia;
 
-XX. Criterios emitidos en materia de Transparencia; y
+> <small>(REFORMADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
 
-XXI. El Diccionario Biográfico de los servidores públicos adscritos a las Unidades Administrativas y Organos Jurisdiccionales.
+XIX. Criterios emitidos en materia de Transparencia; y
+
+> <small>(REFORMADA POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
+
+XX. El Diccionario Biográfico de los servidores públicos adscritos a las Unidades Administrativas y Organos Jurisdiccionales.
 
 En el Portal de Transparencia del Consejo, además de publicar la información señalada en las fracciones anteriores, se difundirá aquélla que determinen el Pleno y la Comisión.
 
@@ -667,7 +799,7 @@ En el caso de la información a que se refiere el párrafo primero del artículo
 
 ## Título Quinto. Del Tratamiento y Protección de los Datos Personales
 
-### Capítulo Tercero. Del Tratamiento
+### Capítulo Primero. Disposiciones Generales
 
 ###### Artículo 48.
 
@@ -691,7 +823,7 @@ I. Físicos: Conjunto ordenado de datos que para su tratamiento están contenido
 
 II. Automatizados: Conjunto ordenado de datos que para su tratamiento han sido o están sujetos a un tratamiento informático y que por ende requieren de una herramienta tecnológica específica para su acceso, recuperación o tratamiento.
 
-### Capítulo Cuarto. De la Transmisión
+### Capítulo Segundo. Principios Rectores de la Protección de los Datos Personales
 
 ###### Artículo 51.
 
@@ -739,7 +871,7 @@ Lo anterior implica que todo tratamiento de datos distinto de aquél para el cua
 
 Los responsables de datos personales y encargados del tratamiento tendrán estrictamente prohibido difundir los datos personales de los que adquieran conocimiento, incluso finalizado el tratamiento que por su parte hayan realizado.
 
-### Capítulo Quinto. De la Seguridad de los Sistemas de Datos Personales
+### Capítulo Tercero. Del Tratamiento
 
 ###### Artículo 59.
 
@@ -769,7 +901,7 @@ El tratamiento de datos personales para fines estadísticos deberá efectuarse m
 
 Cuando se contrate a terceros para que realicen el tratamiento de documentación que pueda contener datos personales, deberá estipularse en el contrato respectivo el deber de secreto, la implementación de medidas de seguridad y custodia previstas en el presente acuerdo, así como la imposición de penas convencionales por su incumplimiento.
 
-### Capítulo Primero. Disposiciones Generales
+### Capítulo Cuarto. De la Transmisión
 
 ###### Artículo 64.
 
@@ -795,7 +927,7 @@ El consentimiento del titular de los datos personales solicitados por un particu
 
 El servidor público encargado de recabar el consentimiento del titular de los datos para la transmisión de los mismos, deberá informar a dicha persona que su información personal quedará incluida en un sistema de datos personales.
 
-### Capítulo Segundo. De los Criterios para la Supresión de Datos
+### Capítulo Quinto. De la Seguridad de los Sistemas de Datos Personales
 
 ###### Artículo 67.
 
@@ -875,23 +1007,29 @@ X. Cualquier otra medida tendente a garantizar el cumplimiento de los principios
 
 Los titulares de las Unidades Administrativas y los Organos Jurisdiccionales remitirán a la Unidad de Enlace, dentro de los primeros diez días hábiles de los meses de enero y julio de cada año, la actualización del registro de los sistemas de datos personales que tengan bajo su resguardo.
 
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
+
 ###### Artículo 74.
 
-Para el caso de las fracciones III, IV, VI, VII, VIII y IX del artículo 72 de este acuerdo, la Secretaría Ejecutiva de Vigilancia, Información y Evaluación, con el apoyo técnico de las Direcciones Generales de Aplicaciones Informáticas, de Sistemas de Redes Informáticas y la de Administración Regional, será el área responsable de asesorar y auxiliar a las Unidades Administrativas y los Organos Jurisdiccionales para el cumplimiento de estas obligaciones, atendiendo a las particularidades de cada caso.
+Para el caso de las fracciones III, IV, VI, VII, VIII y IX del artículo 72 de este acuerdo, la Coordinación para la Transparencia, con el apoyo técnico de las unidades administrativas competentes en materias informática y de administración regional, será el área responsable de asesorar y auxiliar a las Unidades Administrativas y los Órganos Jurisdiccionales para el cumplimiento de estas obligaciones, atendiendo a las particularidades de cada caso.
+
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
 
 ###### Artículo 75.
 
-La Unidad de Enlace con el apoyo técnico de las Direcciones Generales de Aplicaciones Informáticas y de Sistemas de Redes Informáticas, deberá presentar anualmente ante el Comité la propuesta de medidas de seguridad, almacenamiento y conservación mínimas que deberán implementarse en los sistemas de datos personales, conforme a lo dispuesto en este Acuerdo, considerando las mejores prácticas y estándares internacionales.
+La Unidad de Enlace con el apoyo técnico de la unidad administrativa competente en materia informática, deberá presentar anualmente ante el Comité la propuesta de medidas de seguridad, almacenamiento y conservación mínimas que deberán implementarse en los sistemas de datos personales, conforme a lo dispuesto en este Acuerdo, considerando las mejores prácticas y estándares internacionales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
 
 ###### Artículo 76.
 
-Para el caso de que la Unidad de Enlace advierta algún riesgo inminente en la conservación o protección de los datos personales contenidos en cualquier sistema, deberá previa autorización del Presidente del Comité, implementar de inmediato con el apoyo técnico de las Direcciones Generales de Aplicaciones Informáticas y de Sistemas de Redes Informáticas, medidas adicionales con la finalidad de garantizar la integridad y seguridad de la información.
+Para el caso de que la Unidad de Enlace advierta algún riesgo inminente en la conservación o protección de los datos personales contenidos en cualquier sistema, deberá previa autorización del Presidente del Comité, implementar de inmediato con el apoyo técnico de la unidad administrativa competente en materia informática, medidas adicionales con la finalidad de garantizar la integridad y seguridad de la información.
 
 Para estos casos, en sesión de Comité la Unidad de Enlace deberá informar las circunstancias que motivaron la implementación de esas medidas, así como el estado que guarden los sistemas de datos personales correspondientes. El Comité analizará el informe presentado y determinará lo conducente.
 
 ## Título Sexto. De los Criterios para la Supresión de Información Confidencial o Reservada y de la Elaboración de Versiones Públicas
 
-### Capítulo Tercero. Del Procedimiento para Generar Versiones Públicas
+### Capítulo Primero. Disposiciones Generales
 
 ###### Artículo 77.
 
@@ -903,7 +1041,7 @@ Por versión pública se entenderá el documento del cual se suprima la informac
 
 La elaboración de la versión pública de cualquier documentación tiene por objeto otorgar el acceso a la información al gobernado que la solicite, así como difundirla, protegiendo la información considerada legalmente como confidencial o reservada.
 
-### Capítulo Primero. Disposiciones Generales
+### Capítulo Segundo. De los Criterios para la Supresión de Datos
 
 ###### Artículo 79.
 
@@ -939,7 +1077,7 @@ De manera enunciativa más no limitativa constituyen documentos susceptibles de 
 
 Podrá ser susceptible de eliminarse cualquier dato relativo a circunstancias de modo, tiempo y lugar relacionadas con actividades culturales, educativas, deportivas, nominaciones para la obtención de algún premio, entre otras, cuando de la publicación de éstas se infiera de manera evidente la identidad de la persona.
 
-### Capítulo Segundo. De los Procedimientos ante la Unidad de Enlace
+### Capítulo Tercero. Del Procedimiento para Generar Versiones Públicas
 
 ###### Artículo 82.
 
@@ -987,9 +1125,11 @@ Para el caso de aquellos expedientes judiciales que ya se encuentren en algún d
 
 En el caso de que la versión pública de una resolución judicial se genere a partir de una solicitud de información presentada por un particular, deberá remitirse en formato electrónico a la Unidad de Enlace, conforme a lo establecido en los artículos 28 y 29 del Reglamento.
 
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
+
 ###### Artículo 90.
 
-Si la versión pública de la resolución judicial se origina en cumplimiento a lo dispuesto en el Acuerdo General 68/2004, del Pleno del Consejo de la Judicatura Federal, a través del cual se Implementa la Publicación en Internet de las Sentencias Ejecutorias y Resoluciones Públicas Relevantes, Generadas por los Tribunales de Circuito y Juzgados de Distrito, deberá remitirse a la Secretaría Ejecutiva de Vigilancia, Información y Evaluación, de conformidad con lo señalado en el artículo 5 del mencionado acuerdo.
+Si la versión pública de la resolución judicial se origina en cumplimiento a lo dispuesto en el Acuerdo General 68/2004, del Pleno del Consejo de la Judicatura Federal, a través del cual se Implementa la Publicación en Internet de las Sentencias Ejecutorias y Resoluciones Públicas Relevantes, Generadas por los Tribunales de Circuito y Juzgados de Distrito, deberá remitirse a la Coordinación para la Transparencia, de conformidad con lo señalado en el artículo 5 del mencionado acuerdo.
 
 ###### Artículo 91.
 
@@ -1007,7 +1147,7 @@ En el supuesto de que existan votos particulares, el o los secretarios encargado
 
 ## Titulo Séptimo. De los Procedimientos Seguidos por los Organos Encargados de la Transparencia, el Acceso a la Información y la Protección de Datos Personales
 
-### Capítulo Tercero. De los Procedimientos Seguidos ante el Comité de Acceso a la Información y de Protección de Datos Personales
+### Capítulo Primero. Disposiciones Generales
 
 ###### Artículo 94.
 
@@ -1049,15 +1189,17 @@ Los costos por reproducción de la información serán fijados por la Comisión,
 
 Las cuotas a las que se refiere este precepto se pagarán en la respectiva institución bancaria en la cuenta del Consejo destinada para tales efectos.
 
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
+
 ###### Artículo 101.
 
-Para el caso de envíos de información a las diversas entidades federativas y con la finalidad de reducir costos a los solicitantes, la Unidad de Enlace podrá utilizar el sistema de envío establecido por la Dirección General de Administración Regional para remitir los documentos solicitados, los cuales serán entregados a los peticionarios en las instalaciones del Módulo de Acceso respectivo.
+Para el caso de envíos de información a las diversas entidades federativas y con la finalidad de reducir costos a los solicitantes, la Unidad de Enlace podrá utilizar el sistema de envío establecido por la Unidad Administrativa competente en materia de administración regional para remitir los documentos solicitados, los cuales serán entregados a los peticionarios en las instalaciones del Módulo de Acceso respectivo.
 
 ###### Artículo 102.
 
 En la sustanciación y resolución de los procedimientos regulados por este acuerdo será aplicable supletoriamente el Código Federal de Procedimientos Civiles.
 
-### Capítulo Cuarto. De los Procedimientos Seguidos ante la Comisión para la Transparencia, Acceso a la Información Pública Gubernamental y Protección de Datos Personales
+### Capítulo Segundo. De los Procedimientos ante la Unidad de Enlace
 
 #### Sección Primera. Disposiciones Comunes
 
@@ -1212,6 +1354,8 @@ El ejercicio del derecho de rectificación y cancelación no podrá dar lugar a 
 ###### Artículo 124.
 
 En caso de que la Unidad Administrativa o el Organo Jurisdiccional niegue en todo o en parte la solicitud, la Unidad de Enlace procederá a notificarlo por vía electrónica al solicitante. En contra de la referida determinación el solicitante podrá iniciar el procedimiento de hábeas data ante el Comité por conducto de la Unidad de Enlace.
+
+### Capítulo Tercero. De los Procedimientos Seguidos ante el Comité de Acceso a la Información y de Protección de Datos Personales
 
 #### Sección Primera. Disposiciones Comunes
 
@@ -1409,6 +1553,10 @@ El Comité, dentro de los diez días hábiles siguientes a partir de que reciba 
 
 El procedimiento de ejecución de las resoluciones de la Comisión se seguirá por el Comité, el cual deberá informar al Presidente de la Comisión las diversas determinaciones que adopte.
 
+> <small>(REFORMADA SU DENOMINACIÓN POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
+
+### Capítulo Cuarto. De los Procedimientos Seguidos ante la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales
+
 #### Sección Primera. De los Recursos de Revisión y de Reconsideración
 
 ###### Artículo 151.
@@ -1468,3 +1616,13 @@ PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta y en el portal de Internet del Consejo.
 
 TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá incorporar el texto de este instrumento, al Acuerdo General 84/2008, del Pleno del Consejo de la Judicatura Federal, que establece las atribuciones de los órganos en materia de transparencia, así como los procedimientos de acceso a la información pública y protección de datos personales.
+
+D.O.F. 9 DE ABRIL DE 2013.
+
+PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. Se abroga cualquier disposición emitida con anterioridad que se oponga a lo señalado en el presente acuerdo.
+
+CUARTO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá incorporar el texto de este instrumento, a los Acuerdos Generales correspondientes, conforme al texto que se reforma, adiciona o deroga en su caso particular.
