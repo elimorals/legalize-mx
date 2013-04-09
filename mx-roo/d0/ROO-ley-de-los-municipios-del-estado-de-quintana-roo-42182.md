@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-los-municipios-del-estado-de-quintana-roo-42182"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-20"
-last_updated: "2012-10-30"
+last_updated: "2013-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42182&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2013.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 20 de diciembre de 2004.
 
@@ -640,6 +640,10 @@ Cuando el Presidente Municipal no asista a la sesión del Ayuntamiento, será su
 ###### ARTÍCULO 60.
 
 Los acuerdos del Ayuntamiento se tomarán por mayoría de votos, salvo aquellos en que esta Ley o por disposición reglamentaria, se exija la aprobación de cuando menos las dos terceras partes de los integrantes del Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2013)</small>
+
+La votación podrá ser a favor o en contra, ningún integrante del Ayuntamiento podrá abstenerse de votar, a no ser que se encuentre impedido legalmente, por lo que deberá excusarse. La excusa debe expresar concretamente la causa en que se funde.
 
 En caso de empate, el Presidente Municipal, o quien presida la sesión, tendrá voto de calidad.
 
@@ -2976,3 +2980,11 @@ SEGUNDO.- Los Ayuntamientos deberán expedir a más tardar dentro de los sesenta
 TERCERO.- Los Ayuntamientos que cuentan con Reglamento en la materia, deberán adecuarlos a las disposiciones legales establecidas en el presente Decreto a más tardar dentro de los sesenta días posteriores a la entrada en vigor del presente Decreto.
 
 CUARTO.- Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
+
+P.O. 9 DE ABRIL DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
+
+TERCERO.- El Tribunal Electoral, el Instituto Electoral, el Instituto de Transparencia y Acceso a la Información Pública, y los Ayuntamientos, todos del Estado de Quintana Roo contarán con 60 días naturales a partir de la entrada en vigor del presente Decreto, para efectuar las adecuaciones correspondientes a su normatividad interna.
