@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-16-2009-del-pleno-del-consejo-de-la-68556"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2009-05-27"
-last_updated: "2012-07-11"
+last_updated: "2013-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68556&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2009-04-15"
 ---
 # ACUERDO GENERAL 16/2009, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LAS SESIONES DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO Y ESTABLECE LOS LINEAMIENTOS PARA SU VIDEOGRABACION Y DIFUSION
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE ABRIL DE 2013 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 ACUERDO GENERAL 16/2009, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LAS SESIONES DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO Y ESTABLECE LOS LINEAMIENTOS PARA SU VIDEOGRABACIÓN Y DIFUSIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2013.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 27 de mayo de 2009.
 
@@ -187,9 +189,11 @@ Finalizado el debate de los asuntos de todas las ponencias y sin otro tema que t
 
 ### Capítulo 2. De la Videograbación
 
+> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
+
 ###### Artículo 18.
 
-La Comisión de Administración del Consejo de la Judicatura Federal, por conducto de la Dirección General de Sistemas de Redes Informáticas, ordenará la instalación del equipo de grabación de audio y video en las salas de sesiones de los tribunales colegiados de Circuito en la República; y verificará su debido funcionamiento, para lo cual, implementará las acciones tendentes a capacitar al personal que el Pleno del tribunal designe, para operar el sistema de grabación.
+La sala de sesiones de los tribunales colegiados de Circuito en la República contará con un equipo de grabación de audio y video. La unidad administrativa competente en materia informática, verificará su debido funcionamiento, para lo cual, implementará las acciones tendentes a capacitar al personal que el Pleno del tribunal designe, para operar el sistema de grabación.
 
 ###### Artículo 19.
 
@@ -197,23 +201,53 @@ La instalación del equipo de grabación referido, tendrá como finalidad videog
 
 El sistema de grabación, desde el punto de vista técnico, deberá ser instalado de tal manera que permita ubicar con facilidad, dentro de cada una de las sesiones, el debate de aquellos asuntos que deberán ser difundidos conforme a los lineamientos del presente Acuerdo.
 
+> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
+
 ###### Artículo 20.
 
-Se generará un archivo digital por cada sesión videograbada, el cual será guardado en un dispositivo de almacenamiento de datos, previo el respaldo realizado por el servidor correspondiente. La Dirección General de Sistemas de Redes Informáticas garantizará que el flujo de información se limite a las salas de sesiones, sin que pueda técnicamente transmitirse a distancia.
+Se generará un archivo digital por cada sesión videograbada, el cual será guardado en un dispositivo de almacenamiento de datos. La unidad administrativa competente en materia informática garantizará que el flujo de información se limite a las salas de sesiones, sin que pueda técnicamente transmitirse a distancia.
+
+> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
 
 ###### Artículo 21.
 
-El Secretario de Acuerdos del órgano jurisdiccional o la persona que al efecto se designe, bajo su responsabilidad, tendrá el resguardo de la videograbación de las sesiones en estricto orden cronológico; quien, además, deberá vigilar que, en un plazo no mayor de veinticuatro horas, se almacene en el servidor que se disponga para tal efecto.
+El Secretario de Acuerdos del órgano jurisdiccional o la persona que al efecto se designe, bajo su responsabilidad, tendrá el resguardo de la videograbación de las sesiones en estricto orden cronológico.
 
 ###### Artículo 22.
 
 La videograbación de la sesión no deberá interrumpirse, sino sólo en caso fortuito o de fuerza mayor, debiendo expresarse el motivo de la interrupción y asentarse en el acta correspondiente. Superado dicho motivo, la grabación deberá reanudarse.
 
+> <small>(ADICIONADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
+
+Al inicio de cada receso, el Presidente deberá indicar la hora en que comienza y el tiempo de duración, con el fin de que se pause temporalmente la grabación; asimismo, al regreso de éste, indicará la hora en que se retoma la sesión, con el objeto de evitar que en la videograbación aparezcan espacios sin actividad por parte de los magistrados.
+
 ###### Artículo 23.
 
 El dispositivo de almacenamiento de datos en donde se guarde el archivo digital de imagen y video de las sesiones deberá conservarse en el tribunal colegiado, en el espacio que al efecto se habilite.
 
-El particular interesado en el proceso deliberativo de alguno de los asuntos resueltos, deberá dirigir su petición a la Unidad de Enlace en Materia de Transparencia y Acceso a la Información Pública del Consejo de la Judicatura Federal y, en caso de ser procedente, la Comisión de Vigilancia, a cuyo cargo estará el resguardo de los archivos digitales, podrá entregar una versión escrita con la supresión de los datos personales de los contendientes, así como de la información reservada o confidencial conforme a la Ley, el Reglamento y el Acuerdo General en materia de transparencia, previo envío del archivo por el tribunal.
+> <small>(ADICIONADO [N. DE E. REFORMADO] POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
+
+El particular interesado en el proceso deliberativo de alguno de los asuntos resueltos podrá hacer la solicitud de información a través de la Unidad de Enlace, conforme al procedimiento de acceso señalado en el Acuerdo General 84/2008 del Pleno del Consejo de la Judicatura Federal, que establece las atribuciones de los órganos en materia de transparencia, así como los procedimientos de acceso a la información pública y protección de datos personales.
+
+> <small>(ADICIONADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
+
+Una vez que la Unidad de Enlace reciba el informe del tribunal colegiado de circuito respectivo, invariablemente remitirá el asunto al Comité de Acceso a la Información y Protección de Datos Personales, para que éste verifique si resulta procedente otorgar el acceso a la información, que será en la modalidad de consulta física de la versión pública de la videograbación de que se trate.
+
+> <small>(ADICIONADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
+
+Sólo en casos excepcionales y a consideración del propio Comité, podrá otorgarse versión pública escrita de la videograbación requerida.
+
+> <small>(ADICIONADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
+
+El Comité será el encargado de elaborar la versión pública de la videograbación, con la supresión de datos personales, así como de aquella información reservada o confidencial que conforme a la Ley, el Reglamento y el presente Acuerdo deba protegerse.
+
+> <small>(ADICIONADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
+
+La Unidad de Enlace, remitirá la versión pública de la videograbación al módulo de acceso que haya seleccionado el solicitante, a efecto de que éste pueda acudir dentro de los 90 días siguientes contados a partir de la fecha en que le sea notificada su disponibilidad.
+
+> <small>(ADICIONADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
+
+Transcurridos los noventa días, sin que el solicitante haya acudido a consultar la información requerida; el módulo de acceso devolverá la versión pública de la videograbación, por conducto de su secretario Técnico.
 
 El servidor público que haga uso indebido de los archivos digitales de las videograbaciones, será sancionado administrativamente en términos de la Ley Orgánica del Poder Judicial de la Federación.
 
@@ -225,25 +259,35 @@ En la selección referida se tomarán en cuenta los asuntos en los que se haya a
 
 No serán difundidas aquéllas en las que los temas debatidos involucren aspectos relacionados con el honor, reputación y vida privada de las partes.
 
+> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
+
 ###### Artículo 25.
 
-Una vez que cada tribunal haya seleccionado los asuntos susceptibles de ser difundidos, remitirán al Consejo de la Judicatura Federal, una copia del archivo digital que los contenga.
+Una vez que cada tribunal haya seleccionado los asuntos susceptibles de ser difundidos, remitirán a la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo de la Judicatura Federal una copia del archivo digital que los contenga.
+
+> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
 
 ###### Artículo 26.
 
-El Consejo, por conducto de su Comisión de Vigilancia, Información y Evaluación, hará la selección final de los asuntos que habrá de ser difundidos, tomando en consideración las propuestas formuladas por cada uno de los tribunales colegiados de la República.
+El Consejo, por conducto de su Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo de la Judicatura Federal hará la selección final de los asuntos que habrán de ser difundidos, tomando en consideración las propuestas formuladas por cada uno de los tribunales colegiados de la República.
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
 
 ###### Artículo 27.
 
-Los asuntos seleccionados, deberán ser difundidos a través de la página de Internet del Consejo de la Judicatura Federal, en la cual se diseñará una ventana que permita el acceso a cada uno de ellos, clasificados por Circuito. El diseño de la ventana estará a cargo de la Dirección General de Aplicaciones Informáticas.
+Los asuntos seleccionados, deberán ser difundidos a través de la página de Transparencia del Consejo, en la cual se diseñará una ventana que permita el acceso a cada uno de ellos, clasificados por Circuito. El diseño de la ventana estará a cargo de la unidad administrativa competente en materia informática.
 
 También podrán ser difundidos en el Canal Judicial, conforme a la programación y espacios que se destinen al efecto.
 
-Quedará a cargo del Consejo de la Judicatura Federal la elaboración de las versiones públicas de los asuntos para su difusión en las que mediante edición, se supriman los datos personales de las partes y en general aquéllos que pongan en riesgo la seguridad, reputación o vida privada de las personas.
+> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
+
+Quedará a cargo del Comité de Acceso a la Información y Protección de Datos Personales, la elaboración de las versiones públicas de los asuntos para su difusión en las que, mediante edición, se supriman los datos personales de las partes y en general aquéllos que pongan en riesgo la seguridad, reputación o vida privada de las personas.
+
+> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
 
 ###### Artículo 28.
 
-Los archivos digitales enviados por cado (sic) uno de los tribunales colegiados de la República, serán resguardados por la Comisión de Vigilancia, Información y Evaluación de este Consejo, a través de su Secretario Ejecutivo, quien será el encargado de conservar y proteger esa información.
+Los archivos digitales enviados por cado (sic) uno de los tribunales colegiados de la República, serán resguardados por el Comité de Acceso a la Información y Protección de Datos Personales, a través de su secretario Técnico.
 
 ###### Artículo 29.
 
@@ -253,9 +297,11 @@ La Comisión de Administración de este Consejo, en el ámbito de sus atribucion
 
 En las visitas ordinarias de inspección a los tribunales colegiados de Circuito, los visitadores verificarán que los mencionados órganos jurisdiccionales hayan dado cumplimiento al presente Acuerdo.
 
+> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
+
 ###### Artículo 31.
 
-El Pleno del Consejo de la Judicatura Federal estará facultado para interpretar el presente Acuerdo o para resolver cualquier situación relacionada con éste.
+El Pleno del Consejo y la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales, en el ámbito de sus atribuciones, estarán facultados para interpretar el presente Acuerdo o para resolver cualquier situación relacionada con el mismo.
 
 ## TRANSITORIOS
 
@@ -292,3 +338,13 @@ PRIMERO. El presente acuerdo entrará en vigor el día siguiente al de su public
 SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, así como en las páginas de Internet e Intranet del Consejo de la Judicatura Federal.
 
 TERCERO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General 16/2009, del Pleno del Consejo de la Judicatura Federal, que regula las sesiones de los Tribunales Colegiados de Circuito y establece los lineamientos para su videograbación y difusión.
+
+D.O.F. 9 DE ABRIL DE 2013.
+
+PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. Se abroga cualquier disposición emitida con anterioridad que se oponga a lo señalado en el presente acuerdo.
+
+CUARTO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá incorporar el texto de este instrumento, a los Acuerdos Generales correspondientes, conforme al texto que se reforma, adiciona o deroga en su caso particular.
