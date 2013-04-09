@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-planeacion-del-estado-de-durango-4930"
 country: "mx"
 rank: "ley"
 publication_date: "1987-02-01"
-last_updated: "2009-03-19"
+last_updated: "2013-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4930&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE PLANEACIÓN DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 1 de febrero de 1987.
 
@@ -75,6 +75,10 @@ IV.- Hacer congruente los esfuerzos de la planeación en los niveles nacional, r
 
 V.- Buscar el equilibrio entre los factores de producción e impulsar la productividad, protegiendo y promoviendo el empleo para propiciar la estabilidad y la armonía en el proceso de desarrollo económico y social de la entidad.
 
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2013)</small>
+
+VI.- Fomentar el uso eficiente de los recursos públicos con el fin de maximizar los resultados, previendo siempre su orientación al logro de los objetivos de la planeación en el marco de una gestión basada en resultados.
+
 ###### ARTICULO 4o.
 
 Las disposiciones reglamentarias de esta Ley establecerán las normas de organización y funcionamiento del sistema estatal de planeación democrática y el proceso de planeación a que deberán sujetarse las actividades conducentes a la formulación, instrumentación, evaluación y control del plan y los programas a que se refiere este ordenamiento.
@@ -83,9 +87,9 @@ Las disposiciones reglamentarias de esta Ley establecerán las normas de organiz
 
 El Gobernador del Estado tiene la responsabilidad del desarrollo y la planeación democrática en las esferas de su competencia y atribuciones. Para tal fin, proveerá lo conducente para establecer los canales de participación y consulta popular en el proceso de planeación, así como para entablar la relación más equitativa tanto con el Gobierno Federal como con los Ayuntamientos de la Entidad. El Ejecutivo Estatal aprobará el Plan Estatal de Desarrollo y los Programas que de él emanen.
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2013)</small>
 
-La Secretaría de Desarrollo Social del Gobierno del Estado es la dependencia del ejecutivo encargada de coordinar las acciones relativas a la planeación estatal.
+La Secretaría de Finanzas y de Administración es la dependencia del ejecutivo encargada de coordinar las acciones relativas a la planeación estatal.
 
 ###### ARTICULO 6o.
 
@@ -103,13 +107,15 @@ Con el fín de garantizar los derechos económicos y sociales de los individuos 
 
 El Sistema Estatal de planeación democrática estructurará los esfuerzos de la Administración Pública, de los sectores social y privado y de los ciudadanos interesados en el proceso de desarrollo.
 
-Forman parte del sistema, las dependencias y entidades u organismos de la administración pública estatal y los ayuntamientos, a través de sus unidades administrativas que tengan asignadas las funciones de planeación; con el apoyo de la participación ciudadana.
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2013)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2004)</small>
+Forman parte del sistema, las dependencias y entidades u organismos de la administración pública estatal, y los ayuntamientos, a través de sus unidades administrativas que tengan .asignadas las funciones de planeación; con el apoyo de la participación ciudadana, así mismo podrán formar parte del sistema las representaciones en el Estado de las dependencias y entidades de la administración pública federal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ABRIL DE 2013)</small>
 
 ###### ARTICULO 9o.
 
-En el sistema de planeación democrática, la Secretaría de Desarrollo Social del Gobierno del Estado, tendrá las siguientes atribuciones:
+En el sistema de planeación democrática, la Secretaría de Finanzas y de Administración tendrá las siguientes atribuciones:
 
 I.- Coordinar las acciones en el proceso de la planeación del desarrollo del Estado.
 
@@ -131,13 +137,19 @@ IX.- Promover y coordinar las actividades en materia de investigación y capacit
 
 X.- Preveer, en la medida de lo posible, los efectos de los fenómenos económicos y sociales que influyen en el proceso de la planeación estatal.
 
-XI.- Las demás que señalen esta Ley y otros ordenamientos.
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2013)</small>
+
+XI.- Promover el diseño y estructuración de programas presupuestarios basándose en la metodología de Marco Lógico y la conformación de sus respectivos programas operativos anuales asegurando su congruencia con los objetivos del Plan Estatal de Desarrollo; y
+
+XII.- Las demás que señalen esta Ley y otros ordenamientos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ABRIL DE 2013)</small>
 
 ###### ARTICULO 10o.
 
-A la Secretaría de Finanzas, como dependencia encargada de la Administración Financiera y tributaria de la Hacienda Pública de la Entidad, le competen las siguientes facultades y atribuciones:
+Además de las atribuciones establecidas en el artículo anterior, corresponde a la Secretaría de Finanzas, el ejercicio de las siguientes facultades y atribuciones:
 
-I.- Participar en la elaboración del Plan Estatal de Desarrollo respecto a la definición de las políticas financiera, fiscal y crediticia.
+I.- (DEROGADA, P.O. 9 DE ABRIL DE 2013)
 
 II.- Proyectar y calcular los ingresos y egresos del Gobierno del Estado, tomando en cuenta las necesidades de recursos y la utilización del crédito público en la ejecución del plan y los programas.
 
@@ -159,7 +171,9 @@ III.- Coordinar en la esfera de su competencia sectorial las actividades de la p
 
 IV.- Considerar el ámbito territorial de las acciones y programas previstos a corto y mediano plazo, así como las condiciones específicas de desarrollo de las distintas regiones del Estado, delimitando los espacios regionales de la planeación nacional.
 
-V.- Vigilar en la esfera de la competencia y atribuciones, que las dependencias, entidades y organismos estatales conduzcan sus acciones de acuerdo a las prioridades y objetivos del Plan Estatal de Desarrollo y de los programas sectoriales correspondientes.
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2013)</small>
+
+V.- Elaborar la Matriz de Indicadores de Resultados para cada Programa Presupuestario a fin de asegurar su alineación con las prioridades y objetivos del Plan Estatal de Desarrollo y de los programas sectoriales correspondientes, y
 
 VI.- Verificar periódicamente, la relación que guardan los programas y presupuestos de las dependencias, entidades y organismos estatales que coordinen global o sectorialmente así como los resultados de su ejecución respecto de las prioridades y objetivos de los programas sectoriales a fin de adoptar las medidas necesarias, para corregir las desviaciones detectadas y reformar, en su caso, los programas de que se trate.
 
@@ -171,7 +185,9 @@ I.- Presentar propuestas en relación a sus funciones y objeto, participando en 
 
 II.- Considerar, en la elaboración de sus propuestas presupuestales y programáticas, a política de regionalización del Gobierno y las prioridades y objetivos que en su caso fije la planeación estatal.
 
-III.- Asegurar la congruencia de sus programas anuales con el programa sectorial respectivo.
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2013)</small>
+
+III.- Asegurar que los programas operativos anuales correspondientes a cada programa presupuestario, guarden la debida congruencia con el programa sectorial respectivo y con los objetivos del Plan Estatal de Desarrollo, debiendo enviar, cada inicio de año, su programa operativo anual a la Secretaría de Finanzas y Administración para su registro y análisis correspondiente;
 
 IV.- Verificar periódicamente, por conducto de sus respectivos órganos de gobierno, sus programas y la relación que guardan los resultados de su acción con las prioridades y objetivos de los programas sectoriales.
 
@@ -181,7 +197,9 @@ V.- Las demás que les asignen otros ordenamientos legales.
 
 El Gobernador del Estado podrá acordar que formen parte del sistema de planeación grupos interdisciplinarios, técnicos y académicos y también comisiones intersecretariales que sirvan a los objetivos de la planeación del desarrollo.
 
-Las dependencias, entidades u organismos de carácter estatal como los ayuntamientos del Estado se podrán incorporar a las comisiones cuando se trate de asuntos que les competan directamente.
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2013)</small>
+
+Las dependencias, entidades u organismos de carácter estatal, las representaciones en el Estado de las dependencias y entidades de carácter federal, así como los ayuntamientos del Estado, se podrán incorporar a las comisiones cuando se trate de asuntos que les competan directamente.
 
 ### CAPITULO TERCERO. De la Participación Social en la Planeación
 
@@ -219,9 +237,11 @@ Previamente a la aprovación (sic) del plan, el Titular del Poder Ejecutivo lo e
 
 La Legislatura podrá en todo tiempo formular las observaciones que considere pertinentes durante la ejecución, evaluación y control de dicho Plan.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ABRIL DE 2013)</small>
+
 ###### ARTICULO 21o.
 
-Aprobado y publicado el Plan Estatal de Desarrollo adquiere carácter obligatorio para las Dependencias del Ejecutivo y Entidades u Organismos Estatales así como para los Ayuntamientos en el ámbito de sus respectivas competencias. Los programas derivados del Plan, una vez que sean aprobados, también serán obligatorios.
+Aprobado y publicado el Plan Estatal de Desarrollo adquiere carácter obligatorio para las Dependencias del Ejecutivo y Entidades u Organismos Estatales así como para los Ayuntamientos en el ámbito de sus respectivas competencias. Los programas sectoriales, regionales, institucionales y especiales derivados del Plan, una vez que sean aprobados y publicados, también serán obligatorios.
 
 Dichos programas especificarán su naturaleza, el ámbito espacial de su operatividad, la dimensión económica y social que han de efectuar, las bases de coordinación y concertación y los plazos de su ejecución.
 
@@ -247,9 +267,11 @@ Las dependencias del Ejecutivo así como las entidades y organismos de carácter
 
 Los programas especiales deberán referirse a la solución de problemas prioritarios o de aspectos estratégicos o emergentes, así como al enlace ordenado de las actividades de dos o más dependencias coordinadoras del sector.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ABRIL DE 2013)</small>
+
 ###### ARTICULO 27o.
 
-Las dependencias y entidades u organismos estatales deberán elaborar programas estatales congruentes y servirán de fundamento al Ejecutivo del Estado para la elaboración del Proyecto de Ley de Egresos y Presupuesto respectivo.
+Las dependencias y entidades u organismos estatales deberán elaborar programas presupuestarios congruentes y servirán de fundamento al Ejecutivo del Estado para la elaboración del Proyecto de Ley de Egresos y Presupuesto respectivo.
 
 Dicha actividad implica la programación sectorial, regional e institucional y en ella se incluirán los diversos aspectos de administración política, económica y política-social que impongan las condiciones del desarrollo del Estado. La programación especial podrá ser de menor duración.
 
@@ -257,17 +279,17 @@ Dicha actividad implica la programación sectorial, regional e institucional y e
 
 En los términos de la presente Ley, la planeación y programación estatales serán sometidas a la aprobación de las siguientes prescripciones:
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2013)</small>
 
-I.- El Plan Estatal de Desarrollo y los Programas Regionales y Especiales del Estado que impliquen relaciones de dos o más sectores, serán presentados por la Secretaría de Desarrollo Social del Gobierno del Estado.
+I.- El Plan Estatal de Desarrollo y los Programas Regionales y Especiales del Estado que impliquen relaciones de dos o más sectores, serán presentados por la Secretaría de Finanzas y de Administración;
 
 II.- Los programas sectoriales serán presentados por los titulares de las Dependencias de la Administración Pública Centralizada.
 
 III.- Los programas de dependencias y entidades u organismos de carácter estatal serán presentados por las dependencias de coordinación sectorial que correspondan.
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2013)</small>
 
-IV.- Si algunas dependencias y entidades no estuvieren agrupadas en un sector específico, la presentación será hecha por la Secretaría de Desarrollo Social del Gobierno del Estado.
+IV.- Si algunas dependencias y entidades no estuvieren agrupadas en un sector específico, la presentación será hecha por la Secretaría de Finanzas y de Administración.
 
 ###### ARTICULO 29o.
 
@@ -275,11 +297,11 @@ De conformidad con las atribuciones y obligaciones derivadas de la presente Ley 
 
 El resultado de dichas revisiones será sometido a la consideración del Gobernador del Estado.
 
-> <small>(REFORMADO, P.O. 19 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2013)</small>
 
 ###### ARTICULO 30o.
 
-En el informe anual que envíe por escrito al Congreso del Estado sobre la situación que guarda la administración pública, el Gobernador del Estado se referirá expresamente a las decisiones tomadas en materia de planeación y de la actividad programática.
+El Gobernador del Estado enviará por escrito y en archivo digital al Congreso del Estado un informe de resultados de la gestión pública en el Estado de Durango, que dé cuenta de los recursos ejercidos y los resultados obtenidos durante el ejercicio anual anterior en función de los objetivos de la planeación.
 
 ###### ARTICULO 31o.
 
@@ -355,11 +377,11 @@ V.- En materia de programación, los convenios establecerán, en lo posible, las
 
 La integración de los programas de incorporación de los recursos materiales y patrimoniales de la Federación, al Estado y a los Municipios, que incluyan la transferencia de recursos humanos, se respetarán los derechos de los trabajadores.
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2013)</small>
 
 ###### ARTICULO 43o.
 
-Las acciones de inversión y gasto corriente de la Federación en el Estado, relativas a los programas de desarrollo socioeconómico, serán coordinadas por la Secretaría de Desarrollo Social del Gobierno del Estado.
+Las acciones de inversión y gasto corriente de la Federación en el Estado, relativas a los programas de desarrollo socioeconómico, serán coordinadas por la Secretaría de Finanzas y de Administración.
 
 ###### ARTICULO 44o.
 
@@ -377,11 +399,11 @@ III.- Lograr la autosuficiencia económica y financiera de los ayuntamientos par
 
 IV.- Proporcionar a los Ayuntamientos, en el marco de la planeación democrática, la asesoría y el apoyo técnico en materia de programación presupuestación hacendaria, jurídica, administrativa y financiera.
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2013)</small>
 
 ###### ARTICULO 46o.
 
-La Secretaría de Desarrollo Social del Gobierno del Estado propondrá al titular del Poder Ejecutivo Estatal los procedimientos conforme a los cuales se ejecutarán las acciones objeto de coordinación y de acuerdo, escuchando la opinión de los titulares de las dependencias de la administración pública centralizada y la de los ayuntamientos, de acuerdo a las facultades y obligaciones que a cada una competen.
+La Secretaria de Finanzas y de Administración propondrá al titular del Poder Ejecutivo Estatal los procedimientos conforme a los cuales se ejecutaran las acciones objeto de coordinación y de acuerdo, escuchando la opinión de los titulares de las dependencias de la administración pública centralizada y la de los ayuntamientos, de acuerdo a las facultades y obligaciones que a cada una competen.
 
 ###### ARTICULO 47o.
 
@@ -421,19 +443,29 @@ Las controversias o desacuerdos que se susciten con motivo de la interpretación
 
 ### CAPITULO SEPTIMO. Del Comité de Planeación para el Desarrollo del Estado de Durango
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ABRIL DE 2013)</small>
 
 ###### ARTICULO 54o.
 
-El Comité de Planeación para el desarrollo del Estado, es una instancia de coordinación interinstitucional y concertación social responsable de planear, programar, formular, conducir y evaluar la política general del desarrollo económico y social de la Entidad. Le corresponde el despacho de los siguientes asuntos:
+El Comité de Planeación para el desarrollo del Estado, es la instancia de coordinación interinstitucional y concertación social que permite articular la política general del desarrollo económico y social de la Entidad. Le corresponde el despacho de los siguientes asuntos:
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
 
 I. Gestionar e impulsar la participación de las comunidades y del sector social y privado en la obra de gobierno;
 
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
+
 II. Proyectar y coordinar, con la participación del Gobierno del Estado y los Municipios, la planeación regional;
 
-III. Propiciar la integración de los sectores social y privado en el sistema de planeación, procurando la incorporación de sus esfuerzos al proceso del desarrollo estatal;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2013)</small>
+
+III. Propiciar la integración de los sectores social y privado, de los Municipios y la Federación en el sistema estatal de planeación democrática, procurando la incorporación de sus esfuerzos al proceso del desarrollo estatal;
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
 
 IV. Establecer las bases o lineamientos generales para la formulación del Plan Estatal de Desarrollo; y
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
 
 V. Las demás que le confieran los ordenamientos legales aplicables.
 
@@ -445,11 +477,17 @@ El Comité, para el adecuado cumplimiento de sus atribuciones, se integrará de 
 
 I. Un Presidente, que será el C. Gobernador del Estado;
 
-II. Un Vicepresidente que será el Secretario de Desarrollo Social del Gobierno del Estado, quien tendrá las mismas facultades del Presidente en las ausencias del mismo;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2013)</small>
 
-III. Un Coordinador General, que será el Subsecretario de Planeación de la Secretaría de Desarrollo Social del Gobierno del Estado;
+II. Un Vicepresidente que será el Secretario de Finanzas y de Administración, quien tendrá las mismas facultades del Presidente en las ausencias del mismo;
 
-IV. Un Secretario Técnico, que será el titular en el Estado de la Delegación de la Secretaría de Desarrollo Social del Gobierno Federal;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2013)</small>
+
+III. Un Coordinador General, que será el Subsecretario de Planeación de la Secretaría de Finanzas y de Administración;
+
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2013)</small>
+
+IV. Un Secretario Técnico, que será .el titular de la Secretaría de Desarrollo Social del Estado;
 
 V. Los titulares de las dependencias y entidades de la Administración Pública Estatal que señale el C. Gobernador del Estado;
 
@@ -497,13 +535,21 @@ Al Secretario Técnico, corresponde:
 
 I. Prestar el apoyo técnico necesario para el cumplimiento de los objetivos y tareas que corresponden al Comité;
 
-II. Apoyar la formulación, actualización, instrumentación del Plan Estatal de Desarrollo, siguiendo los lineamientos dictados por el Presidente del Comité;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2013)</small>
 
-III. Coadyuvar en la formulación y proponer los planes, programas y proyectos de desarrollo que ordene el Presidente del Comité, encargándose de las funciones de presupuestación, evaluación e información relacionadas con los mismos;
+II. Coadyuvar en la formulación y proponer programas, acciones y proyectos de desarrollo;
 
-IV. Participar, junto con el Coordinador General, en la formulación de grupos de trabajo y de los Subcomités Sectoriales, Regionales y Especiales;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2013)</small>
 
-V. Participar en la formulación del Reglamento Interior del Comité;
+III. Participar en la formulación de grupos de trabajo y de los Subcomités Sectoriales, Regionales y Especiales;
+
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2013)</small>
+
+IV. Sugerir programas y acciones a concertar entre el Ejecutivo del Estado, el Ejecutivo Federal y los Municipios de la Entidad; y
+
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2013)</small>
+
+V. Ejecutar las tareas especiales que encomiende el Presidente del Comité, en el ámbito de su competencia.
 
 VI. Sugerir al Presidente del Comité, programas y acciones a concertar entre el Ejecutivo del Estado, el Ejecutivo Federal y los Municipios de la Entidad; y
 
@@ -612,3 +658,31 @@ El presente Decreto entrará en vigor, al día siguiente de su publicación en e
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 9 DE ABRIL DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones jurídicas que se opongan al presente decreto.
+
+###### ARTÍCULO TERCERO.
+
+Cuando las disposiciones jurídicas, contenidas en cualquier ley, reglamento decreto o convenio, se refieran a la Secretaría de Contraloría y Modernización Administrativa, se entenderá que se refiere a la Secretaría de Contraloría.
+
+###### ARTÍCULO CUARTO.
+
+La Secretaría de Finanzas y Administración se subroga en todos los derechos y obligaciones asumidos por la Secretaría de Contraloría, en lo que respecta a la Subsecretaría de Modernización Administrativa.
+
+###### ARTÍCULO QUINTO.
+
+Se transfieren los recursos humanos, técnicos, financieros y materiales de la Subsecretaría de Modernización Administrativa de la Secretaría de Contraloría a la Secretaría de Finanzas y de Administración. Se transfieren además, los recursos humanos, técnicos, financieros y materiales de la Subsecretaría de Planeación de la Secretaría de Desarrollo Social a la Secretaría de Finanzas y de Administración.
+
+El proceso de transferencia se realizará de conformidad a las disposiciones legales aplicables, respetando en todo caso los derechos laborales que correspondan.
+
+###### ARTÍCULO SEXTO.
+
+En un plazo de 90 días se deberá expedir las disposiciones administrativas derivadas de la reforma y adición a la presente Ley.
