@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-de-la-administracion-publica-del-estado-de-18930"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-24"
-last_updated: "2012-12-30"
+last_updated: "2013-04-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18930&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2013.
 
 Ley publicada en Periódico Oficial del Estado de Durango, el domingo 24 de diciembre de 2000.
 
@@ -109,9 +109,31 @@ IV. Aquellas entidades que por su naturaleza no estén comprendidas en la Admini
 
 El Gobernador del Estado, por sí o a propuesta de los Titulares de las Secretarías del Ramo, mediante decreto podrá crear órganos desconcentrados que dependerán jerárquicamente de éstas y tendrán facultades específicas para resolver sobre la materia y dentro del ámbito territorial que se determine en cada caso. El decreto correspondiente deberá publicarse en el periódico oficial para que surta sus efectos legales.
 
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2013)</small>
+
+El Gobernador, mediante acuerdo administrativo podrá determinar que las dependencias o entidades, o parte de éstas, puedan residir en cualquier municipio del Estado.
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2013)</small>
+
 ###### ARTICULO 6.
 
-El Gobernador, mediante acuerdo administrativo, podrán determinar que las dependencias o entidades, o parte de éstas, puedan residir en cualquier municipio del Estado;
+Además de las atribuciones establecidas en el artículo 70 de la Constitución Política del Estado Libre y Soberano de Durango, en materia de administración pública, el Gobernador del Estado tendrá las siguientes facultades:
+
+I. Conducir y coordinar la planeación para el desarrollo del Estado y elaborar, con la participación de los grupos sociales, organismos interesados y los demás órdenes de gobierno, el Plan Estatal de Desarrollo, bajo el .enfoque de una gestión basada en resultados en el cual la planeación, programación, presupuestación, ejecución y evaluación se unen en un proceso integrado;
+
+II. Tomar la protesta de los titulares de las dependencias y entidades y de los Subsecretarios y Directores de la Administración Pública Estatal, cuando se considere necesario;
+
+III. Fomentar la organización de instituciones para difundir o inculcar entre los habitantes de Estado, hábitos, costumbres o actividades que les permitan mejorar su nivel de vida;
+
+IV. Prestar apoyo a los poderes Legislativo y Judicial, a los ayuntamientos y a los organismos autónomos, cuando le sea solicitado, para el ejercicio de sus funciones;
+
+V. Conducir y administrar los ramos de la administración pública del gobierno del Estado, dictando y poniendo en ejecución las políticas correspondientes mediante las acciones públicas y los procedimientos necesarios para este fin;
+
+VI. Celebrar convenios de coordinación con la Federación, Estados y Municipios, y de concertación con los sectores social y privado;
+
+VII. Ejercer la representación legal del Gobierno del Estado y delegarla mediante acuerdo, para casos concretos cuando lo juzgue necesario, así como otorgar mandatos de conformidad a las disposiciones legales aplicables, y
+
+VIII. Las que sean propias de la autoridad pública del Gobierno del Estado y que no estén expresamente asignadas a los otros Poderes del Estado o a las autoridades de los Municipios.
 
 ###### ARTICULO 7.
 
@@ -265,7 +287,9 @@ VI. Secretaría de Salud;
 
 VII. Secretaría de Educación;
 
-VIII. Secretaría de Contraloría y Modernización Administrativa;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2013)</small>
+
+VIII. Secretaría de Contraloría;
 
 IX. Secretaria de Recursos Naturales y Medio Ambiente; y (sic)
 
@@ -293,7 +317,9 @@ XIV.- Fiscalía General del Estado.
 
 La Secretaría General de Gobierno, es la dependencia responsable de conducir la política interna del Estado. Le corresponde el despacho de los siguientes asuntos:
 
-I. Conducir las relaciones del Poder Ejecutivo con los otros Poderes del Estado, los Ayuntamientos y los Tribunales Independientes;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2013)</small>
+
+I. Conducir las relaciones del Poder Ejecutivo con los otros Poderes del Estado, los Ayuntamientos, el Gobierno Federal y los organismos autónomos;
 
 > <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
 
@@ -313,9 +339,7 @@ VII. Revisar los anteproyectos de ley, reglamentos y cualquier otro ordenamiento
 
 VIII. Revisar y vigilar el marco jurídico general de las leyes y disposiciones legales vigentes en el Estado, y proponer las reformas necesarias para su adecuación;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2013)</small>
 
 IX. Publicar el Periódico Oficial del Gobierno del Estado y administrar los talleres gráficos del Estado;
 
@@ -339,23 +363,41 @@ XVII. Coordinar y supervisar el cabal cumplimiento de la normatividad del Sistem
 
 XVIII. Velar por la protección civil de las personas, sus bienes y el entorno geográfico que las rodea; teniendo como acción prioritaria la prevención y mitigación de riesgos y/o desastres ante la ocurrencia de cualquier agente perturbador ya sea de origen natural o humano;
 
-XIX. Organizar y vigilar al Instituto Estatal de Defensoría Pública;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2013)</small>
 
-XX. Auxiliar a las autoridades federales, en los términos de las leyes relativas en materia de: cultos religiosos; armas de fuego y explosivos; loterías, rifas, juegos prohibidos y migración;
+XIX. Impulsar el fortalecimiento del Estado de Derecho, la cultura ciudadana y el respeto de los Derechos Humanos;
 
-XXI. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2004)
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2013)</small>
 
-XXII. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2004)
+XX. Auxiliar a las autoridades federales, en los términos de las leyes relativas en materia de: armas de fuego y explosivos; loterías, rifas, juegos prohibidos y migración;
 
-XXIII. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2004)
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2013)</small>
 
-XXIV. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2004)
+XXI. Promover la celebración de convenios de coordinación y colaboración con los municipios para la realización de acciones, estudios y proyectos tendientes al fortalecimiento del desarrollo municipal y a fomentar la participación ciudadana;
 
-XXV. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2004)
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2013)</small>
 
-XXVI. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2004)
+XXII. Participar en los comités, consejos y demás órganos de coordinación de la Administración Pública vinculados con la promoción del desarrollo municipal;
 
-XXVII. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2004)
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2013)</small>
+
+XXIII. Apoyar y coadyuvar en el funcionamiento de los organismos o entidades que protejan y fomenten los derechos humanos;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2013)</small>
+
+XXIV. Apoyar a las demás dependencias y entidades del Ejecutivo mediante estrategias y seguimiento de acciones en materia de política criminológica en el Estado;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2013)</small>
+
+XXV. Coordinar por instrucciones del Gobernador del Estado, las actividades de otras dependencias y entidades;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2013)</small>
+
+XXVI. Ejecutar las medidas políticas, jurídicas y administrativas que el titular del Ejecutivo estime convenientes, para la mejor organización y funcionamiento del Gobierno del Estado;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2013)</small>
+
+XXVII. Planear y ejecutar las políticas estatales en materia de población, en coordinación con las autoridades federales;
 
 XXVIII. Llevar el libro de registro de los notarios y autorizar los protocolos relativos, así como organizar y controlar el Archivo de Notarías del Estado;
 
@@ -369,37 +411,57 @@ XXXI. Administrar y vigilar el servicio de transporte público de bienes y cosas
 
 XXXII. Otorgar, modificar y revocar las concesiones y permisos necesarios para la explotación de servicio público de transporte en vialidades de jurisdicción estatal en todas las modalidades que contempla la ley de transportes del Estado;
 
-XXXIII. (DEROGADA, P.O. 13 DE JULIO DE 2008)
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2013)</small>
 
-XXXIV. (DEROGADA, P.O. 13 DE JULIO DE 2008)
+XXXIII. Ejercer las atribuciones que en materia de asociaciones religiosas y culto público establezcan la Ley o los convenios de colaboración o coordinación que se celebren con las autoridades federales competentes, así como ser conducto para tratar los asuntos de carácter religioso que contribuyan de manera directa o indirecta al desarrollo social y al fortalecimiento de los valores de la solidaridad y la convivencia armónica de los ciudadanos;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2013)</small>
+
+XXXIV. Coordinar las acciones de la Administración Pública del Estado en materia de Participación Ciudadana, así como los programas de atención que permitan captar propuestas, sugerencias y opiniones, con el objeto de mejorar el funcionamiento de los servicios públicos y las tareas generales de la administración;
 
 XXXV. Tramitar los recursos administrativos que competa resolver al Gobernador del Estado;
 
-> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2004)</small>
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2013)</small>
 
-XXXVI. Coordinar el funcionamiento y cuidado del archivo administrativo del Poder Ejecutivo del Estado; asimismo, organizar y administrar los archivos de concentración y el archivo histórico del Gobierno del Estado de Durango. Estos dos deberán estar en una sola unidad especial para mayor control y eficacia operativa.
+XXXVI. Intervenir como una instancia conciliadora que permita solucionar los conflictos sociales en materia agraria;
 
-Una Ley Ordinaria regulará esta materia;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2013)</small>
 
-XXXVII. Las demás que le señalen las leyes y reglamentos, vigentes en el Estado.
+XXXVII. Coordinar el funcionamiento y cuidado del archivo administrativo del Poder Ejecutivo del Estado; asimismo, organizar y administrar los archivos de concentración y el archivo histórico del Gobierno del Estado de Durango. Estos dos deberán estar en una sola unidad especial para mayor control y eficacia operativa.
+
+Una Ley Ordinaria regulará esta materia, y
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2013)</small>
+
+XXXVIII. Las demás que le señalen las leyes y reglamentos, vigentes en el Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ABRIL DE 2013)</small>
 
 ###### ARTICULO 30.
 
-La Secretaría de Finanzas y de Administración es la dependencia responsable de la Administración Financiera y Tributaria de la Hacienda Pública del Estado y de brindar el apoyo administrativo que se requiera en las áreas que comprende el Gobierno del Estado. Le corresponde el despacho de los siguientes asuntos:
+La Secretaría de Finanzas y de Administración es la dependencia responsable de la administración financiera y tributaria de la Hacienda Pública del Estado; de programar, formular, conducir, evaluar y normar la política de planeación democrática; de la administración financiera y tributaria y de brindar el apoyo administrativo que se requiera en las áreas que comprende el Gobierno del Estado. Le corresponde el despacho de los siguientes asuntos:
 
 I. Establecer, por acuerdo del Gobernador del Estado, la política de la hacienda pública;
 
-II. Intervenir, cuando sea el caso y por delegación directa del titular del Poder Ejecutivo del Estado, en la celebración de convenios fiscales con la federación y ejercer las atribuciones derivadas de los mismos;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2013)</small>
+
+II. Promover y participar en la celebración de convenios fiscales con la federación y ejercer las atribuciones derivadas de los mismos;
 
 III. Elaborar los anteproyectos de Iniciativa de ley, reglamentos y demás disposiciones de carácter general que se requieren para el manejo de los asuntos financieros y tributarios del Estado,
 
-IV. Vigilar el cumplimiento de las normas jurídicas hacendarias aplicables en la Entidad;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2013)</small>
 
-V. Proyectar y calcular los ingresos del Estado, tomando en cuenta las necesidades de recursos y la utilización del crédito público para la ejecución de los programas;
+IV. Vigilar el cumplimiento de las normas jurídicas hacendarias y las normas contables aplicables en la Entidad;
+
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2013)</small>
+
+V. Proyectar y calcular los ingresos del Estado, tomando en cuenta los objetivos y metas de la planeación, bajo un enfoque de una Gestión Pública basada en resultados, las fuentes de recursos y la utilización del crédito público para la ejecución de los programas;
 
 VI. Formular y presentar oportunamente a la consideración del titular del Poder Ejecutivo del Estado el anteproyecto de Ley de Ingresos;
 
-VII. Recaudar, cuantificar, custodiar y administrar los impuestos, derechos, productos, aprovechamientos y demás percepciones financieras que al Estado correspondan, tanto por ingresos propios como por los que se deriven de convenios suscritos con el Gobierno Federal, los municipios u organismos públicos descentralizados;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2013)</small>
+
+VII. Recaudar, cuantificar, custodiar y administrar los impuestos, derechos, productos, aprovechamientos y demás percepciones financieras que al Estado correspondan, con base en la Ley de ingresos aprobada por el Congreso del Estado, así como los recursos que se deriven de convenios suscritos con el Gobierno Federal, los municipios u organismos públicos descentralizados;
 
 VIII. Custodiar los documentos que constituyan valores financieros del Gobierno del Estado;
 
@@ -421,9 +483,13 @@ XVI. Conceder prórrogas y autorización para el pago en parcialidades de los cr
 
 XVII. Ejercer la facultad económico-coactiva o el procedimiento administrativo de ejecución, conforme a las leyes relativas e imponer las sanciones por infracciones a la Ley General de Hacienda del Estado de Durango y las leyes fiscales federales, de acuerdo con las facultades de administración de impuestos federales delegadas al Gobierno del Estado en el Convenio de Colaboración Administrativa en Materia Fiscal Federal y sus anexos;
 
-XVIII. Emitir las normas de contabilidad, control financiero, deuda pública y manejo de fondos y valores;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2013)</small>
 
-XIX. Llevar el registro y control de la contabilidad gubernamental;
+XVIII. Emitir las normas de control financiero, deuda pública y manejo de fondos y valores;
+
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2013)</small>
+
+XIX. Llevar el registro y control de la contabilidad gubernamental, de acuerdo a los lineamientos que emita el órgano rector de la materia para los fines de la armonización contable;
 
 XX. Llevar el registro de aquellos contratos y/o convenios financieros que realice el Estado;
 
@@ -439,7 +505,9 @@ XXV. Publicar anualmente las disposiciones fiscales estatales y municipales;
 
 XXVI. Dirigir la negociación de la Deuda Pública del Estado, llevar su registro y control e informar periódicamente al Gobernador sobre el estado de las amortizaciones de capital y el pago de intereses;
 
-XXVII. Integrar y presentar el anteproyecto de Presupuesto de Egresos del Gobierno del Estado, al titular del Poder Ejecutivo, tomando en consideración los programas y montos aprobados en materia de gasto de inversión y de gasto corriente;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2013)</small>
+
+XXVII. Integrar y presentar el anteproyecto de Presupuesto de Egresos del Gobierno del Estado, al titular del Poder Ejecutivo, considerando las prioridades y objetivos de la planeación bajo un enfoque de un Presupuesto Basado en Resultados, cuyo ejercicio pueda ser medido y evaluado en término de los resultados e impactos alcanzados; tomando en consideración los programas y montos aprobados en materia de gasto de inversión y de gasto corriente;
 
 XXVIII. Diseñar, instrumentar, implantar y actualizar un sistema de programación de gasto público;
 
@@ -449,7 +517,11 @@ XXX. Formular mensualmente el estado de origen y aplicación de los recursos fin
 
 XXXI. Presentar anualmente al Gobernador, en la primera quincena del mes de marzo, un informe pormenorizado del ejercicio fiscal anterior;
 
-XXXII. Autorizar, previo acuerdo del Gobernador del Estado, las ampliaciones y reducciones al Presupuesto de Egresos de los recursos asignados a los programas a cargo de las dependencias y entidades;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2013)</small>
+
+XXXII. El Titular del Poder Ejecutivo autorizará a través de la Secretaría, las adecuaciones presupuestarias que en su caso soliciten las Dependencias y Entidades, en los términos de las disposiciones aplicables, siempre y cuando tales adecuaciones permitan mejorar sus resultados en la consecución de los objetivos y metas de los programas a su cargo.
+
+Además autorizar y registrar, las ampliaciones y reducciones de los recursos asignados a los programas presupuestarios a cargo de las dependencias y entidades siempre y cuando no rebasen el presupuesto asignado;
 
 XXXIII. Vigilar los subsidios que conceda el Gobierno del Estado a instituciones o a particulares y comprobar que se destinen a los fines y en los términos establecidos;
 
@@ -503,17 +575,67 @@ LVII. Administrar y asegurar la conservación y mantenimiento del patrimonio del
 
 LVIII. Coordinar y supervisar en conjunto con las dependencias interesadas, entidades y organismos paraestatales la emisión de publicaciones oficiales del Ejecutivo del Estado;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-LIX. (DEROGADA, P.O. 29 DE DICIEMBRE DE 2011)
+LIX. (DEROGADA, P.O. 29 DE DICIEMBRE DE 2011) (REPUBLICADA, P.O. 9 DE ABRIL DE 2013)
 
 > <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
 
 LX. Suscribir en los términos de las leyes de las materias, los contratos de compraventa, arrendamiento, prestación de servicios técnicos y profesionales y los relativos a los bienes muebles, así como los diversos convenios de la administración pública estatal; y
 
-> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2013)</small>
 
-LXI. Las demás que le señalen las leyes, reglamentos y convenios vigentes.
+LXI. Participar en el desarrollo administrativo integral en las dependencias y entidades de la administración pública estatal, a fin de que los recursos humanos, patrimoniales y los procedimientos técnicos de las mismas, sean aprovechados y aplicados con criterios objetivos, buscando en todo momento la eficacia, eficiencia, descentralización, desconcentración, simplificación y modernización administrativa;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2013)</small>
+
+LXII. Vigilar y dictar las normas necesarias para el cumplimiento en las dependencias, entidades y organismos de la administración pública estatal, de las obligaciones en materia de tecnología de la información y comunicaciones así como las relativas a la informática;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2013)</small>
+
+LXIII. Operar el Sistema Estatal de Planeación;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2013)</small>
+
+LXIV. Elaborar, con participación de las dependencias y entidades del Ejecutivo, los demás poderes del Estado, los distintos órdenes de gobierno y lo (sic) sectores sociales y privado, el Plan Estatal de Desarrollo;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2013)</small>
+
+LXV. Implementar una planeación democrática y participativa orientada a la obtención de resultados, definiendo y evaluando el método, normas y procesos a utilizar;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2013)</small>
+
+LXVI. Coordinar con las dependencias y entidades de la administración pública, la elaboración de los programas sectoriales, institucionales, regionales y especiales que deriven del Plan Estatal de Desarrollo;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2013)</small>
+
+LXVII. Coordinar la elaboración de los programas presupuestarios con base en la metodología y procedimientos que aseguren la consolidación de un presupuesto basado en resultados;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2013)</small>
+
+LXVIII. Integrar los programas operativos anuales para la ejecución del Plan Estatal de Desarrollo y de los programas sectoriales, regionales y especiales;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2013)</small>
+
+LXIX. Registrar los avances físicos y financieros de los programas presupuestarios propios y proyectos convenidos entre los gobiernos Federal, Estatal y Municipal;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2013)</small>
+
+LXX. Proporcionar asesoría para la formulación, ejecución y control de los planes municipales de desarrollo, que le sea solicitada por los ayuntamientos;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2013)</small>
+
+LXXI. Mantener actualizado el diagnóstico situacional de la entidad mediante la elaboración de estudios y la coordinación de actividades con las distintas dependencias y entidades de la administración pública estatal para tal propósito;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2013)</small>
+
+LXXII. Establecer normas, criterios y procedimientos de un sistema planificador de inversiones que permita priorizar los proyectos de inversión desde un punto de vista socioeconómico y su incorporación a un banco de proyectos que sirvan como base para la formulación de un programa multianual de inversiones, a fin de lograr una eficiente asignación y administración de los recursos públicos destinados a la inversión;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2013)</small>
+
+LXXIII. Evaluar, con la participación de las dependencias y entidades de la administración pública estatal, el ejercicio de los recursos públicos en función de los objetivos y metas del Plan Estatal de Desarrollo, diseñando para tales fines un sistema de evaluación del desempeño, con base en los criterios de la gestión pública basada en resultados; y
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2013)</small>
+
+LXXIV. Las demás que le señalen las leyes, reglamentos y convenios vigentes.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2004)</small>
 
@@ -1015,13 +1137,17 @@ XXXV. Revisar la legislación educativa estatal a fin de actualizarla y orientar
 
 XXXVI. Los demás que le fijen expresamente las leyes, reglamentos y otros ordenamientos jurídicos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ABRIL DE 2013)</small>
+
 ###### ARTICULO 36.
 
-A la Secretaría de Contraloría y Modernización Administrativa, le compete el despacho de los siguientes asuntos:
+A la Secretaría de Contraloría, le compete el despacho de los siguientes asuntos:
 
 I. Planear, organizar, operar, dirigir y coordinar el sistema estatal de control y evaluación gubernamental, para efectos preventivos y correctivos;
 
-II. Fijar las normas de control, evaluación, fiscalización y auditoria que deban observar las dependencias y entidades de la administración pública centralizada y paraestatal; así como vigilar su cumplimiento, y en su caso, prestar el apoyo y asesoramiento que éstas le soliciten;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2013)</small>
+
+II. Expedir las normas que regulen el funcionamiento, procesos y procedimientos de control en la Administración Pública Estatal, así como vigilar su cumplimiento, y en su caso, prestar el apoyo y asesoramiento que ésta le solicite;
 
 > <small>(REFORMADA, P.O. 21 DE JUNIO DE 2009)</small>
 
@@ -1029,11 +1155,17 @@ III. Vigilar el debido ejercicio del gasto público y verificar su congruencia c
 
 IV. Constatar el cumplimiento, por parte de las dependencias y entidades de la administración pública estatal, de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, ingresos, financiamiento, inversión, deuda, patrimonio, fondos y valores de la propiedad y/o al cuidado del Gobierno del Estado;
 
-V. Participar en el desarrollo administrativo integral en las dependencias y entidades de la administración pública estatal, a fin de que los recursos humanos, patrimoniales y los procedimientos técnicos de la misma, sean aprovechados y aplicados con criterios objetivos, buscando en todo momento la eficacia, eficiencia, descentralización, desconcentración, simplificación y modernización administrativa;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2013)</small>
 
-VI. Vigilar y supervisar que las dependencias y entidades de la administración pública estatal, cumplan con las normas y disposiciones en materia de sistemas de registro y contabilidad, contratación y pago de personal, contratación de servicios, obras públicas, adquisiciones, arrendamiento, conservación, uso, destinos, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales;
+V. Coadyuvar en el desarrollo administrativo en las dependencias y entidades de la administración pública estatal, a fin de que los recursos financieros, humanos, materiales, así como los procesos y procedimientos de las mismas, sean aplicados con los criterios de legalidad, honradez, eficiencia e imparcialidad;
 
-VII. Vigilar que la dependencia respectiva practique y actualice el inventario de los bienes muebles e inmuebles, propiedad del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2013)</small>
+
+VI. Vigilar y supervisar, directamente o a través de los órganos de control, que las dependencias y entidades de la administración pública estatal, cumplan con las normas y disposiciones en materia de contabilidad, contratación y pago de personal, contratación de servicios, obra pública, adquisiciones, arrendamiento, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales;
+
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2013)</small>
+
+VII. Vigilar, directamente o a través de los órganos de control, que las dependencias y entidades de la Administración Pública Estatal, verifiquen y actualicen periódicamente el patrimonio respectivo, propiedad del Gobierno del Estado;
 
 VIII. Intervenir en las ventas, remates y donaciones de los bienes muebles e inmuebles, propiedad del Gobierno del Estado, con base a las disposiciones constitucionales, legales y reglamentarias vigentes;
 
@@ -1041,7 +1173,9 @@ IX. Llevar a cabo la evaluación sistemática del ejercicio de los recursos, pro
 
 X. Informar periódicamente al Ejecutivo del Estado, sobre el resultado de la evaluación, respecto de la gestión de las dependencias y entidades de la administración pública estatal; así como de aquellas que hayan sido objeto de fiscalización, e informar a las autoridades competentes, cuando proceda, del resultado de tales intervenciones y, en su caso, dictar las acciones que deban desarrollarse para corregir las irregularidades detectadas;
 
-XI. Coordinarse con la Entidad de Auditoria Superior del Estado, para el establecimiento de los procedimientos necesarios, para el cabal cumplimiento de sus respectivas atribuciones;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2013)</small>
+
+XI. Establecer y mantener coordinación, a través del instrumento que se suscriba para tal efecto con las entidades fiscalizadoras de los distintos órganos de gobierno, para el establecimiento de las acciones necesarias, en el cumplimiento de sus respectivas atribuciones;
 
 XII. Promover y apoyar a los ayuntamientos de los municipios del Estado, para la implementación y funcionamiento de órganos de control municipales;
 
@@ -1051,19 +1185,19 @@ XIII. Designar, para el mejor desarrollo del sistema de control y evaluación gu
 
 XIV. Establecer las normas y procedimientos para la entrega y recepción de las dependencias y entidades del Poder Ejecutivo del Estado;
 
-> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2013)</small>
 
-XV. Vigilar que se lleve a cabo, en tiempo y forma, la entrega y recepción de las oficinas públicas del Poder Ejecutivo del Estado, desde el nivel de jefe de departamento o sus equivalentes, de conformidad con lo estipulado en la ley de la materia;
+XV. Vigilar que se lleve a cabo, en tiempo y forma, la entrega y recepción de la Administración Pública Estatal, de conformidad con lo estipulado en la ley de la materia;
 
 XVI. Designar a los auditores externos de las entidades, así como normar y controlar su desempeño;
 
-> <small>(REFORMADA, P.O. 11 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2013)</small>
 
-XVII. Designar, reubicar y remover a los titulares y servidores públicos de los órganos internos de control de las dependencias y entidades de la administración pública estatal y de la Fiscalía General del Estado, así como a los de las áreas de auditoría, quejas y responsabilidades de tales órganos, quienes dependerán jerárquica y funcionalmente de la Secretaría de la Contraloría, tendrán el carácter de autoridad y realizarán la defensa jurídica de las resoluciones que emitan en la esfera administrativa y ante los tribunales federales y estatales, representando al titular de dicha Secretaría;
+XVII. Designar, reubicar y remover a los titulares y servidores públicos de los órganos internos de control de las dependencias y entidades de la administración pública estatal, así como a los de las áreas de auditoría, quejas y responsabilidades de tales órganos, quienes dependerán jerárquica y funcionalmente de la Secretaría de Contraloría, tendrán el carácter de autoridad y realizaran la defensa jurídica que emitan en la esfera administrativa y ante los tribunales federales y estatales, representando al titular de dicha Secretaría, previo poder otorgado por el mismo;
 
-> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2013)</small>
 
-XVIII. Promover entre la ciudadanía la cultura de la denuncia y apoyarla para que exponga las quejas o denuncias relativas a irregularidades o desviaciones en el desarrollo de los programas aprobados para beneficio de la comunidad así como de la actuación de los servidores públicos;
+XVIII. Operar el sistema estatal de inconformidades, quejas y denuncias, promoviendo la participación ciudadana para que exponga las quejas, denuncias e inconformidades que se deriven de las irregularidades de la actuación del servidor público, así como las deficiencias que detecte en el servicio público;
 
 XIX. Conocer y resolver las inconformidades y recursos presentados por los particulares con motivo de cualquier acto de contratación que contravenga las disposiciones que rigen las Leyes correspondientes en materia de obras públicas y de adquisiciones
 
@@ -1079,17 +1213,15 @@ XXIII. Supervisar el avance de las obras y vigilar su cumplimiento de acuerdo a 
 
 XXIV. Informar a la Secretaría de la Función Pública del Gobierno .Federal, sobre el resultado y el seguimiento de las auditorías producto del programa de trabajo que anualmente suscriban de manera conjunta;
 
-> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2009)</small>
-
-XXV. Vigilar y dictar las normas necesarias para el cumplimiento en las dependencias, entidades y organismos de la administración pública estatal, de las obligaciones en materia de tecnologías de la información y comunicaciones así como las relativas a la Informática;
+XXV. (DEROGADA, P.O. 9 DE ABRIL DE 2013)
 
 XXVI. Vigilar la exacta y adecuada observancia de las Leyes que rijan en materia de adquisiciones y obras públicas;
 
 XXVII. Proponer y establecer las medidas que considere necesarias para prevenir y combatir la corrupción; y (sic)
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2013)</small>
 
-XXVIII. Designar y remover a los comisarios públicos y sus suplentes, en los órganos de gobierno o de vigilancia de las Entidades de la administración pública paraestatal, así como a los titulares de las unidades de control interno quienes dependerán jerárquica y funcionalmente de la Secretaría de Contraloría y Modernización Administrativa;
+XXVIII. Designar y remover a los comisarios públicos y sus suplentes, en los órganos de gobierno o de vigilancia de las Entidades de la administración pública paraestatal, así como a los titulares de las unidades de control interno quienes dependerán jerárquica y funcionalmente de la Secretaría de Contraloría;
 
 > <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2004)</small>
 
@@ -1103,9 +1235,9 @@ XXX. Elaborar y ejecutar programas de capacitación y evaluación permanente de 
 
 XXXI. Establecer los mecanismos que permitan instrumentar y operar el servicio público de carrera, conforme a las disposiciones jurídicas aplicables;
 
-> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2013)</small>
 
-XXXII. Promover, coordinar y evaluar los programas y acciones destinadas a asegurar la calidad gubernamental en las funciones y servicios a cargo de las dependencias y entidades;
+XXXII. Evaluar los programas y acciones destinadas al mejoramiento de la eficiencia y calidad gubernamental en las funciones y servicios a cargo de las dependencias y entidades;
 
 > <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2009)</small>
 
@@ -1139,9 +1271,29 @@ XXXIX. Emitir los criterios y lineamientos para la elaboración de los manuales 
 
 XL. Emitir lineamientos, manuales, circulares y demás disposiciones legales que sean del ámbito de su competencia; y
 
-> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2013)</small>
 
-XLI. Las demás que le encomiende el Ejecutivo del Estado o le señalen las leyes, Reglamentos y demás normatividad aplicable.
+XLI. Coordinar y supervisar la evaluación del desempeño de las dependencias y entidades de la administración pública estatal;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2013)</small>
+
+XLII. Evaluar los recursos públicos en los programas y acciones de la administración pública estatal para verificar su adecuada aplicación de conformidad con las disposiciones legales;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2013)</small>
+
+XLIII. Establecer las medidas pertinentes de coordinación con la administración pública estatal en materia de seguimiento, control y evaluación de los recursos públicos federales;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2013)</small>
+
+XLIV. Emitir exhortos, recomendaciones y apercibimientos a los servidores públicos de las dependencias y entidades de la Administración Pública Estatal, para el adecuado desempeño de sus funciones;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2013)</small>
+
+XLV. Operar y coordinar los sistemas o líneas estratégicas que en el ámbito de sus atribuciones implemente, con la finalidad de fortalecer las acciones de fiscalización, legalidad, eficiencia administrativa, transparencia, rendición de cuentas y contraloría social; y
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2013)</small>
+
+XLVI. Las demás que le encomiende el Ejecutivo del Estado o le señalen las leyes, Reglamentos y demás normatividad aplicable.
 
 > <small>(ADICIONADO, P.O. 13 DE JULIO DE 2008)</small>
 
@@ -1343,99 +1495,69 @@ XXV. Elaborar, ejecutar y evaluar programas destinados a dar atención y orienta
 
 XXVI. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas vigentes en la materia.
 
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2013)</small>
 
-ARTICULO 37 bis 1.- La Secretaría de Desarrollo Social es la dependencia del Ejecutivo Estatal responsable de programar, formular, conducir, evaluar y normar la política de planeación democrática, así como la relativa al desarrollo social de la Entidad. Le compete el despacho de los siguientes asuntos:
+ARTICULO 37 bis 1. La Secretaría de Desarrollo Social es la dependencia del Ejecutivo Estatal responsable de planear, programar, ejecutar y evaluar la política de desarrollo social y humano en la Entidad, en el marco de la Gestión Pública Basada en Resultados. Le compete el despacho de los siguientes asuntos:
 
-I. Formular, conducir y evaluar la política de desarrollo social en coordinación con las dependencias federales y municipales correspondientes y los sectores social y privado;
+I. Planear la política de desarrollo social y humano sobre la base de diagnósticos que identifiquen la problemática y prioridades estatales, con la participación de la sociedad y en coordinación con los órdenes de gobierno federal y municipal;
 
-II. Coordinar y realizar las acciones que la Federación y el Ejecutivo del Estado pacten con los gobiernos municipales para el desarrollo social de las diversas regiones del Estado;
+II. Realizar estudios y diagnósticos que permitan identificar zonas marginadas y grupos de atención prioritarios;
 
-III. Impulsar, con la participación de los sectores social y privado, programas tendientes a mejorar el nivel de vida de la población, especialmente de los sectores más necesitados;
+III. Promover y fortalecer la participación de la comunidad a través de la integración de comités de desarrollo social para la definición y ejecución de obras y acciones prioritarias que mejoren sus condiciones de vida, especialmente la de aquellos sectores más necesitados;
 
-IV. Promover, coordinar y ejecutar acciones que contribuyan a combatir la pobreza, igualar las oportunidades del desarrollo y a generar mejores condiciones de vida de la población en situación de riesgo y marginación;
+IV. Gestionar ante el Gobierno Federal los recursos necesarios para el desarrollo social y humano en el Estado;
 
-V. Identificar zonas marginadas y definir los grupos de atención prioritaria;
+V. Presentar a la Secretaría de Finanzas y Administración el anteproyecto de presupuesto de egresos basado en resultados en materia de desarrollo social y humano;
 
-VI. Coordinar y concertar acciones con las dependencias encargadas de operar programas de desarrollo y de asistencia social, para satisfacer oportunamente las necesidades básicas de los sectores más vulnerables de la población, mediante la implementación de programas conjuntos o de integración de paquetes básicos de ayuda;
+VI. Verificar el proceso de ejecución y entrega de las obras y acciones concertadas con los distintos órdenes de gobierno y la sociedad.
 
-VII. Promover, fomentar y fortalecer la organización formal de ejidatarios, comuneros, colonos, grupos y sectores sociales, a través de la integración de comités de desarrollo social y concertar con ellos programas orientados a elevar y mejorar sus condiciones de vida;
+VII. Registrar en coordinación con los demás órdenes de gobierno los programas de inversión en materia de desarrollo social y humano;
 
-VIII. Brindar permanentemente los servicios de apoyo técnico en materia de desarrollo social a los municipios de la entidad y a los grupos y sectores organizados de la sociedad;
+VIII. Evaluar el desempeño de los programas y acciones en materia de desarrollo social, verificando su impacto y cumplimiento de objetivos, en los términos de la gestión pública, basada en resultados;
 
-IX. Establecer en coordinación con la Secretaría de Educación, la Secretaría de Salud y el Sistema para el Desarrollo Integral de la Familia del Estado, programas de participación comunitaria;
+IX. Promover, coordinar, concertar y ejecutar programas y acciones que contribuyan a combatir la pobreza, igualar las oportunidades de desarrollo y generar mejores condiciones de vida para la población;
 
-X. Formular, promover y concertar programas de construcción y mejoramiento de vivienda, sobre todo los que beneficien a los sectores más necesitados;
+X. Coordinar y concertar acciones a fin de satisfacer las necesidades más apremiantes de los sectores de la población más vulnerables que se encuentren en situación de riesgo o pobreza extrema, mediante programas o paquetes básicos de ayuda;
 
-XI. Promover y fomentar la organización de sociedades constructoras de vivienda y de materiales de construcción en las comunidades, en coordinación con las dependencias correspondientes;
+XI. Coordinar e instrumentar programas y acciones para el mejoramiento de las condiciones alimenticias de la población en situación de pobreza extrema y marginación;
 
-XII. Someter a consideración del Gobernador del Estado los estudios de expropiación por causa de utilidad pública de inmuebles para construcción de vivienda popular;
+XII. Promover y coordinar programas y acciones que desarrollen las capacidades y habilidades de las personas con el fin de generar condiciones que brinden mayores oportunidades para su desarrollo personal, productivo y humano.
 
-XIII. Concertar programas prioritarios para la atención de los pueblos y comunidades indígenas y habitantes de las zonas rurales y urbanas marginadas de la Entidad;
+XIII. Formular y concertar programas prioritarios para la atención de los pueblos y comunidades indígenas;
 
-XIV. Concertar programas a través de los cuales se establezca el compromiso de apoyar a los emigrados de la Entidad, así como atender a los familiares más próximos de los emigrantes;
+XIV. Fomentar la participación de los migrantes organizados en el desarrollo de sus comunidades de origen;
 
-XV. Concertar con los tres niveles de gobierno y las comunidades de duranguenses organizados que radican en el extranjero obras y acciones en beneficio directo de sus comunidades de origen;
+XV. Formular y concertar programas, obras y acciones en beneficio de los migrantes y de sus familiares que radican en las comunidades de origen;
 
-XVI. Promover la construcción de obras de infraestructura social básica en agua potable, drenaje, electrificación, saneamiento ambiental y equipamiento urbano;
+XVI. Promover y priorizar en los programas sociales la construcción de obras de infraestructura social básica en agua potable, drenaje, electrificación, vivienda, saneamiento ambiental y equipamiento urbano;
 
-XVII. Contribuir, en coordinación con las áreas del Gobierno del Estado competentes, con los municipios y los sectores social y privado en el mejoramiento de las condiciones alimenticias de la población en situación de pobreza extrema y marginación;
+XVII. Impulsar mediante programas, obras y acciones, el desarrollo regional y municipal que genere mejores condiciones y propicie un equilibrio entre los distintos polos de desarrollo en el Estado;
 
-XVIII. Establecer y evaluar el catálogo de índices de medición de pobreza y marginación; así como aplicar mecanismos de evaluación y seguimiento de las políticas, programas y acciones en materia de desarrollo social, verificando su impacto y resultados obtenidos;
+XVIII. Promover y apoyar mecanismos de financiamiento para proyectos y acciones que fomenten el desarrollo social y humano;
 
-XIX. Convenir con los municipios la elaboración, ejecución, registro de los programas de inversión en materia de desarrollo social así como los de combate a la pobreza;
+XIX. Realizar los convenios y acuerdos para la ejecución de programas, obras y acciones, con los entes públicos del Estado, el Gobierno Federal, los municipios y los particulares, necesarios para instrumentar la política de desarrollo social y humano en la entidad;
 
-XX. Promover con las universidades e instituciones de educación media o superior o con los organismos que los agrupen legalmente, así como con la Secretaría de Educación, el servicio social para que se constituya como un detonador del desarrollo general;
+XX. Coordinar con los distintos órdenes de gobierno la promoción y publicidad de obras y acciones realizadas, en los términos de la normatividad y los convenios respectivos;
 
-XXI. Promover y gestionar ante el Gobierno Federal, los recursos necesarios para el desarrollo económico y social del Estado;
+XXI. Formular, promover y concertar programas de construcción y mejoramiento de vivienda, beneficiando preferentemente a los sectores más necesitados;
 
-XXII. Concertar programas de inversión, obras y servicios entre el Gobierno del Estado y las dependencias del Gobierno Federal;
+XXII. Promover y fomentar la organización de sociedades constructoras de vivienda y de materiales de construcción en las comunidades, en coordinación con las dependencias correspondientes;
 
-XXIII. Promover y concertar con los ayuntamientos, las actividades tendientes a impulsar el desarrollo regional y municipal;
+XXIII. Someter a consideración del Gobernador del Estado los estudios de expropiación por causa de utilidad pública de inmuebles para construcción de vivienda popular;
 
-XXIV. Coordinar la operación de las dependencias federales a fin de lograr la eficaz utilización de los recursos financieros para el desarrollo de la Entidad;
+XXIV. Coordinar y realizar programas y acciones con perspectiva de género que propicien la incorporación en la actividad productiva y generen igualdad de oportunidades para las mujeres;
 
-XXV. Coordinar las acciones del proceso de promoción y gestión del desarrollo del Estado, con todas las acciones de los municipios y del Gobierno Federal, en los términos de los convenios respectivos;
+XXV. Promover los derechos y combatir la violencia contra las mujeres mediante programas integrales de prevención y atención;
 
-XXVI. Celebrar convenios con los ayuntamientos para el fomento del desarrollo económico y social;
+XXVI. Impulsar programas y acciones que fomenten una mejor calidad de vida para los jóvenes, motivando su participación y desenvolvimiento en el desarrollo del Estado;
 
-XXVII. Programar, dirigir, coordinar, operar y controlar la ejecución de los programas de fomento económico y social para el desarrollo de la Entidad;
+XXVII. Elaborar y proponer al Ejecutivo del Estado, los anteproyectos de ley, reglamentos y demás disposiciones administrativas, en materia de desarrollo social y humano;
 
-XXVIII. Promover y apoyar mecanismos de financiamiento para el bienestar social y el desarrollo regional;
+XXVIII. Brindar asesoría en materia de desarrollo social a los municipios de la entidad y a los grupos y sectores organizados de la sociedad;
 
-XXIX. Integrar los programas operativos anuales de coordinación sectorial, regionales y especiales para la ejecución del Plan Estatal de Desarrollo;
+XXIX. Promover con las universidades e instituciones de educación media o superior o con los organismos que los agrupen legalmente, así como con la Secretaría de Educación, el servicio social para que se constituya como un detonador del desarrollo general; y
 
-XXX. Presentar al Ejecutivo los anteproyectos de presupuestos de egresos en materia de desarrollo económico y social;
-
-XXXI. Proporcionar asesoría para la formulación, ejecución y control de los planes municipales de desarrollo, que le sea solicitada por los ayuntamientos;
-
-XXXII. Evaluar la eficiencia de ejecución de la planeación y reorientar, en su caso, las actividades, informando de ello a la Secretaría de la Contraloría y de Modernización Administrativa del Estado;
-
-XXXIII. Celebrar los convenios necesarios para promover el desarrollo con los Ayuntamientos, organismos descentralizados, empresas de participación estatal y particulares;
-
-XXXIV. Coordinar, concertar y ejecutar programas especiales para la atención de los sectores sociales más desprotegidos;
-
-XXXV. Celebrar, por delegación directa del Ejecutivo del Estado, convenios con la Administración Pública Federal y los Municipios, tendientes a desarrollar la obra pública en la Entidad y ejercer las facultades que se deriven de ellos;
-
-XXXVI. Estudiar las circunstancias socio-económicas de los grupos marginados y dictar las medidas necesarias para lograr que las acciones coordinadas de los gobiernos Federal, Estatal y Municipal, les sean útiles para su desarrollo;
-
-XXXVII. Operar los avances físicos y financieros de los programas de inversión convenidos entre los gobiernos Federal, Estatal y Municipal;
-
-XXXVIII. Apoyar y verificar el avance de las obras en los Municipios, vigilando su cumplimiento de acuerdo a las especificaciones programadas;
-
-XXXIX. Operar el Sistema Estatal de Planeación;
-
-XL. Mantener informado al Ejecutivo del Estado, en todo lo concerniente a la estricta aplicación de los recursos concertados;
-
-XLI. Ofrecer en forma permanente al Ejecutivo del Estado, información sobre el impacto de las acciones programadas, evaluando sus alcances;
-
-XLII. Elaborar el Convenio Anual de Desarrollo Social;
-
-XLIII. Elaborar y proponer al Ejecutivo del Estado, los anteproyectos de ley, reglamentos y demás disposiciones de carácter general, que requieran los asuntos del desarrollo económico y social de la entidad;
-
-XLIV. Desarrollar todas las funciones que le asigne el titular del Poder Ejecutivo, en materia de promoción y gestión de desarrollo estatal; y
-
-XLV. Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
+XXX. Las demás que le encomiende el Ejecutivo del Estado o le señalen las leyes y reglamentos de la materia.
 
 > <small>(REFORMADO, P.O. 11 DE JULIO DE 2011)</small>
 
@@ -1517,27 +1639,77 @@ XI. Jefatura de Ayudantes; y
 
 XII. Las demás que determine el Titular del Poder Ejecutivo.
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2013)</small>
 
 ###### ARTICULO 40.
 
-Los órganos adscritos a que se hace referencia en el artículo que antecede, tendrán las atribuciones o modificaciones que mediante acuerdo les asigne el Gobernador del Estado, quien podrá cambiarlos de adscripción, o suprimirlos, mediante el decreto correspondiente, que se publicará en el Periódico Oficial del Gobierno del Estado.
+Los órganos adscritos a que se hace referencia en el artículo que antecede, tendrán las atribuciones o modificaciones que mediante acuerdo les asigne el Gobernador del Estado, quien podrá cambiarlos de adscripción, o suprimirlos, mediante acuerdo correspondiente, que se publicará en el Periódico Oficial del Gobierno del Estado; la Consejería General de Asuntos Jurídicos del Gobierno, tendrá las atribuciones que se establecen de manera enunciativa en la presente ley.
+
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2013)</small>
 
 ###### ARTICULO 41.
 
-(DEROGADO, P.O. 23 DE DICIEMBRE DE 2004)
+La Consejería General de Asuntos Jurídicos es la dependencia adscrita al Titular del Poder Ejecutivo del Estado, que tendrá a su cargo prestar asesoría y asistencia jurídica en forma directa del Gobernador del Estado, así como ser el vínculo del Gobierno del Estado con el medio jurídico.
+
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2013)</small>
 
 ###### ARTICULO 42.
 
-(DEROGADO, P.O. 23 DE DICIEMBRE DE 2004)
+La Consejería General de Asuntos Jurídicos, conducirá sus actividades en forma programada y con base en las políticas que establezca el Gobernador del Estado para el logro de los objetivos y prioridades que éste disponga, así como el cumplimiento de los programas y comisiones especiales que determine.
+
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2013)</small>
 
 ###### ARTICULO 43.
 
-(DEROGADO, P.O. 23 DE DICIEMBRE DE 2004)
+La Consejería General de Asuntos Jurídicos tendrá las siguientes atribuciones:
+
+I. Prestar asesoría y asistencia jurídica al Gobernador del Estado en el conocimiento, revisión y opinión por medio de dictámenes, respecto de consultas, contratos, convenios, iniciativas de ley, reglamentos, decretos, acuerdos, resoluciones y en general cualquier documento u acto de autoridad con efectos jurídicos;
+
+II. Emitir opiniones de carácter jurídico al Gobernador del Estado en todos aquellos asuntos que por su relevancia el Titular del Poder Ejecutivo Estatal en forma específica así lo determine;
+
+III. Asesorar a las áreas jurídicas de las dependencias y entidades del Gobierno del Estado;
+
+IV. Analizar y revisar los proyectos de contratos, convenios, iniciativas de ley, reglamentos, decretos, acuerdos, resoluciones y en general cualquier documento u acto de autoridad con efectos jurídicos, que deba someterse a consideración del Titular del Poder Ejecutivo Estatal;
+
+V. Someter a consideración y en su caso para firma del Gobernador del Estado, los proyectos de contratos, convenios, iniciativas de ley, reglamentos, decretos, acuerdos, resoluciones y en general cualquier documento u acto de autoridad con efectos jurídicos, que deba someterse a consideración del Titular del Poder Ejecutivo Estatal;
+
+VI. Participar en la reforma jurídica de la legislación estatal en congruencia con lo dispuesto por el Plan Estatal de Desarrollo y las leyes aplicables;
+
+VII. Emitir opinión calificada sobre la definición de criterios jurídicos que deban ser observados en el cumplimiento de sus atribuciones por las dependencias y entidades estatales;
+
+VIII. Someter a consideración del Gobernador del Estado los asuntos encomendados a la Consejería que así lo requieran;
+
+IX. Certificar los documentos que obren en los archivos de la Consejería;
+
+X. Representar legalmente al Gobernador del Estado, al Gobierno del Estado o a las dependencias del Ejecutivo que así lo determine aquel, en los juicios o asuntos jurídicos en que sea parte o tenga interés el Gobierno del Estado, teniendo las facultades de apoderado general para pleitos y cobranzas, con todas las facultades generales y especiales que requieran cláusula especial conforme a la ley;
+
+XI. Requerir a las dependencias y entidades de la Administración Pública Estatal cualquier información y cualquier apoyo que deberán proporcionarle, cuando lo estime necesario o conveniente para el cumplimiento de sus funciones;
+
+XII. Coordinar la elaboración de estudios e investigaciones en el ámbito jurídico y proponer al Titular del Poder Ejecutivo Estatal, los proyectos de iniciativas de leyes, decretos y acuerdo;
+
+XIII. Coordinar la función jurídica de la Administración Pública del Gobierno del Estado;
+
+XIV. Definir, unificar y difundir los criterios para la interpretación de las disposiciones jurídicas que normen la gestión de la Administración Pública del Estado;
+
+XV. Notificar las resoluciones emitidas por el Titular del Ejecutivo Estatal, y
+
+XVI. Las demás que le señale el Titular del Poder Ejecutivo Estatal y que establezcan demás disposiciones legales y reglamentarias.
+
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2013)</small>
 
 ###### ARTICULO 44.
 
-(DEROGADO, P.O. 23 DE DICIEMBRE DE 2004)
+Para ser Consejero General de Asuntos Jurídicos se requiere:
+
+I. Ser ciudadano mexicano, en pleno ejercicio de sus derechos, con residencia efectiva dentro del territorio del Estado, que no sea menor de 5 años inmediatamente anteriores al día de su nombramiento;
+
+II. Haber cumplido 30 años de edad, para el día de su designación;
+
+III. Ser Licenciado en Derecho, con Título y Cédula Profesional, registrados en la Dirección General de Profesiones de la Secretaría de Educación Pública;
+
+IV. Tener un mínimo de 5 años de ejercicio profesional, y
+
+V. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena corporal de más de un año de prisión.
 
 ###### ARTICULO 45.
 
@@ -1964,3 +2136,31 @@ P.O. 30 DE DICIEMBRE DE 2012.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
 
 Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 9 DE ABRIL DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones jurídicas que se opongan al presente decreto.
+
+###### ARTÍCULO TERCERO.
+
+Cuando las disposiciones jurídicas, contenidas en cualquier ley, reglamento decreto o convenio, se refieran a la Secretaría de Contraloría y Modernización Administrativa, se entenderá que se refiere a la Secretaría de Contraloría.
+
+###### ARTÍCULO CUARTO.
+
+La Secretaría de Finanzas y Administración se subroga en todos los derechos y obligaciones asumidos por la Secretaría de Contraloría, en lo que respecta a la Subsecretaría de Modernización Administrativa.
+
+###### ARTÍCULO QUINTO.
+
+Se transfieren los recursos humanos, técnicos, financieros y materiales de la Subsecretaría de Modernización Administrativa de la Secretaría de Contraloría a la Secretaría de Finanzas y de Administración. Se transfieren además, los recursos humanos, técnicos, financieros y materiales de la Subsecretaría de Planeación de la Secretaría de Desarrollo Social a la Secretaría de Finanzas y de Administración.
+
+El proceso de transferencia se realizará de conformidad a las disposiciones legales aplicables, respetando en todo caso los derechos laborales que correspondan.
+
+###### ARTÍCULO SEXTO.
+
+En un plazo de 90 días se deberá expedir las disposiciones administrativas derivadas de la reforma y adición a la presente Ley.
