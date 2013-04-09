@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-educacion-del-estado-de-quintana-roo-44412"
 country: "mx"
 rank: "ley"
 publication_date: "2005-03-14"
-last_updated: "2011-09-30"
+last_updated: "2013-04-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44412&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE EDUCACIÓN DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 14 de marzo de 2005
 
@@ -1205,9 +1205,9 @@ XLIII. Establecer los estímulos y los mecanismos profesionales que propicien la
 
 XLIV. Otorgar reconocimientos, distinciones, estímulos y recompensas a los educadores, cuyas actividades hayan sido sobresalientes, tomando como base los resultados del Sistema Integral de Evaluación Educativa;
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2013)</small>
 
-XLV. Promover la transformación de las escuelas del sistema tradicional por turno en escuelas de tiempo completo; de acuerdo con la capacitación del personal docente, las condiciones presupuestales y la infraestructura física educativa;
+XLV. Implementar en las Instituciones Públicas de Educación Básica de la Entidad, el uso de tecnologías de la información y comunicación, en concreto el denominado internet, como una herramienta tecnológica que coadyuve en el aprendizaje de los educandos.
 
 > <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
@@ -1280,3 +1280,11 @@ TERCERO.- Se autoriza al Titular del Poder Ejecutivo del Estado, para que a trav
 CUARTO.- Las escuelas que cuentan con el Programa de Escuelas de Tiempo Completo en el Estado, continuarán ejerciéndolo, sin menoscabo a lo dispuesto en el presente Decreto.
 
 QUINTO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE ABRIL DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+TERCERO.- Para el cumplimiento de lo dispuesto en la fracción XLV del artículo 24 de la Ley de Educación del Estado de Quintana Roo, el Organismo Público Descentralizado denominado "Servidos Educativos de Quintana Roo", deberá utilizar los recursos etiquetados en el Artículo Quinto Transitorio del Presupuesto de Egresos del Gobierno del Estado, para el Ejercido Fiscal 2013, relativo a la instalación de servicios de internet en escuelas públicas.
