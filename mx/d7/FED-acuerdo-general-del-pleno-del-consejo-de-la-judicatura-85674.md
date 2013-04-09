@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-85674"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2012-02-03"
-last_updated: "2013-03-21"
+last_updated: "2013-04-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85674&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2012-01-26"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2013.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 3 de febrero de 2012.
 
@@ -1415,67 +1415,65 @@ VI. Elaborar los estudios en materia judicial que le sean encomendados para el a
 
 VII. Dar seguimiento a las acciones que en materia judicial determine el Consejo;
 
-VIII. Presentar, con la periodicidad que determine la Comisión de Vigilancia, Información y Evaluación, los directorios biográficos del personal del Poder Judicial de la Federación;
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
 
-> <small>(REFORMADA, D.O.F. 12 DE JULIO DE 2012)</small>
+VIII. Coordinarse con las diversas áreas del Consejo y requerir a las unidades administrativas y órganos jurisdiccionales la información necesaria para el oportuno y eficaz cumplimiento de las atribuciones que les son propias;
 
-IX. Coordinarse con las diversas áreas del Consejo y requerir a las unidades administrativas y órganos jurisdiccionales la información necesaria para el oportuno y eficaz cumplimiento de las atribuciones que les son propias;
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
 
-X. Verificar que los informes que presenten los diferentes órganos y miembros del Poder Judicial de la Federación, cumplan con los requisitos de veracidad, exactitud y buena fe;
+IX. Verificar que los informes que presenten los diferentes órganos y miembros del Poder Judicial de la Federación, cumplan con los requisitos de veracidad, exactitud y buena fe;
 
-XI. Coadyuvar con la Comisión de Vigilancia, Información y Evaluación, en la revisión de las políticas y criterios inherentes a la organización y desarrollo del Archivo General del Consejo, así como velar por su correcto funcionamiento;
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
 
-XII. Las que en materia de transparencia, acceso a la información pública gubernamental y protección de datos personales, le correspondan;
+X. Coordinar las tareas tendentes al establecimiento, desarrollo y mantenimiento del Sistema Computarizado para el Registro Único de Profesionales del Derecho ante los órganos jurisdiccionales;
 
-XIII. Apoyar el desarrollo de las acciones dirigidas a la protección de datos personales;
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
 
-XIV. Coadyuvar con el Comité de Acceso a la Información y Protección de Datos Personales del Consejo de la Judicatura Federal en la organización y supervisión del desarrollo de las funciones de la Unidad de Enlace, para su correcto funcionamiento administrativo;
+XI. Someter a consideración de la Comisión de Vigilancia, Información y Evaluación los proyectos de protección de los servidores públicos y, en su caso, gestionar los servicios de seguridad que resulten conducentes;
 
-XV. Coordinar las tareas tendentes al establecimiento, desarrollo y mantenimiento del Sistema Computarizado para el Registro Unico de Profesionales del Derecho ante los órganos jurisdiccionales;
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
 
-XVI. Someter a consideración de la Comisión de Vigilancia, Información y Evaluación los proyectos de protección de los servidores públicos y, en su caso, gestionar los servicios de seguridad que resulten conducentes;
+XII. Formular y presentar al Pleno, el Programa Anual de Actividades de la unidad administrativa a su cargo;
 
-XVII. Someter a consideración de la Comisión respectiva, los recursos de revisión y reconsideración en materia de transparencia; así como los asuntos en los que deba proveerse sobre su cumplimiento, supervisión, instrumentación, interpretación, promoción y difusión;
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
 
-XVIII. Formular y presentar al Pleno, el Programa Anual de Actividades de la unidad administrativa a su cargo;
+XIII. Someter a la consideración de las comisiones, las disposiciones, reglas, bases de carácter general, normas, lineamientos y políticas, en el ejercicio de las atribuciones que competan a la unidad administrativa;
 
-XIX. Someter a la consideración de las comisiones, las disposiciones, reglas, bases de carácter general, normas, lineamientos y políticas, en el ejercicio de las atribuciones que competan a la unidad administrativa;
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
 
-XX. Informar a las comisiones, en los plazos establecidos, sobre el ejercicio de las atribuciones conferidas y del avance de los proyectos y programas a su cargo;
+XIV. Informar a las comisiones, en los plazos establecidos, sobre el ejercicio de las atribuciones conferidas y del avance de los proyectos y programas a su cargo;
 
-XXI. Presentar ante el Pleno, el Informe Anual de Labores correspondiente a la unidad administrativa de su competencia; y (sic)
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
 
-> <small>(REFORMADA, D.O.F. 12 DE JULIO DE 2012)</small>
+XV. Presentar ante el Pleno, el Informe Anual de Labores correspondiente a la unidad administrativa de su competencia;
 
-XXII. Coordinar la operación del centro de atención telefónica para la recepción de quejas y denuncias del Consejo de la Judicatura Federal;
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
 
-> <small>(ADICIONADA, D.O.F. 12 DE JULIO DE 2012)</small>
+XVI. Coordinar la operación del centro de atención telefónica para la recepción de quejas y denuncias del Consejo de la Judicatura Federal;
 
-XXIII. Proveer lo conducente para la ejecución de los procedimientos de corroboración y constatación de información, así como de hechos denunciados, para obtener datos de prueba; que le encomiende el Pleno, el Presidente, la Comisión de Disciplina, la Comisión de Vigilancia, Información y Evaluación o la Contraloría;
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
 
-> <small>(ADICIONADA, D.O.F. 12 DE JULIO DE 2012)</small>
+XVII. Proveer lo conducente para la ejecución de los procedimientos de corroboración y constatación de información, así como de hechos denunciados, para obtener datos de prueba; que le encomiende el Pleno, el Presidente, la Comisión de Disciplina, la Comisión de Vigilancia, Información y Evaluación o la Contraloría;
 
-XXIV. Recibir las quejas o denuncias formuladas a través de los buzones físicos o virtuales, el centro de atención telefónica o comparecencias, respecto de las cuales deberá elaborar un proveído en el que se decida desechar, prevenir, aclarar u ordenar su remisión al área correspondiente para los efectos legales que se estimen conducentes. El proveído por medio del cual se decida desechar las referidas quejas o denuncias, deberá ser autorizado por el Presidente;
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
 
-> <small>(ADICIONADA, D.O.F. 12 DE JULIO DE 2012)</small>
+XVIII. Recibir las quejas o denuncias formuladas a través de los buzones físicos o virtuales, el centro de atención telefónica o comparecencias, respecto de las cuales deberá elaborar un proveído en el que se decida desechar, prevenir, aclarar u ordenar su remisión al área correspondiente para los efectos legales que se estimen conducentes. El proveído por medio del cual se decida desechar las referidas quejas o denuncias, deberá ser autorizado por el Presidente;
 
-XXV. Conocer de aquellas quejas o denuncias, provenientes de las diversas áreas del Consejo de la Judicatura Federal, en las que por no colmar los requisitos legales, no se hubiere ordenado el trámite del procedimiento de responsabilidad respectivo; y
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
 
-> <small>(REFORMADA POR EL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ADICIONA Y MODIFICA EL ARTÍCULO 79 DEL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 21 DE MARZO DE 2013)</small>
+XIX. Conocer de aquellas quejas o denuncias, provenientes de las diversas áreas del Consejo de la Judicatura Federal, en las que por no colmar los requisitos legales, no se hubiere ordenado el trámite del procedimiento de responsabilidad respectivo;
 
-XXVI. Para el cumplimiento de lo ordenado en las fracciones XXIII, XXIV y XXV, del presente artículo, la Secretaría Ejecutiva de Vigilancia, Información y Evaluación, aplicará en lo conducente, las normas procesales establecidas en el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta el procedimiento de responsabilidad administrativa y el seguimiento de la situación patrimonial, para el efecto de tramitar las quejas y denuncias formuladas a través del centro de atención telefónica o comparecencias; los procedimientos de corroboración y constatación de información, así como de hechos denunciados, y además aquellas quejas y denuncias provenientes de otras áreas del Consejo; y
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
 
-> <small>(ADICIONADA POR EL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ADICIONA Y MODIFICA EL ARTÍCULO 79 DEL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 21 DE MARZO DE 2013)</small>
+XX. Para el cumplimiento de lo ordenado en las fracciones XVII, XVIII y XIX, del presente artículo, la Secretaría Ejecutiva de Vigilancia, Información y Evaluación, aplicará en lo conducente, las normas procesales establecidas en el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta el procedimiento de responsabilidad administrativa y el seguimiento de la situación patrimonial, para el efecto de tramitar las quejas y denuncias formuladas a través del centro de atención telefónica o comparecencias; los procedimientos de corroboración y constatación de información, así como de hechos denunciados, y además aquellas quejas y denuncias provenientes de otras áreas del Consejo; y
 
-XXVII. Las demás que establezcan el Pleno y las comisiones.
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
+
+XXI. Las demás que establezcan el Pleno y las comisiones.
 
 ###### Artículo 80.
 
-La Secretaría Ejecutiva de Vigilancia, Información y Evaluación contará con las siguientes unidades administrativas:
-
-I. Archivo General del Consejo; y
-
-II. Unidad de Enlace.
+(DEROGADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)
 
 Sección 5a.
 
@@ -2429,17 +2427,21 @@ XX. Asesorar en los asuntos relacionados con los bienes asegurados y decomisados
 
 XXI. Intervenir en los conflictos laborales de las áreas administrativas, que se ventilen ante la Comisión Substanciadora Unica del Poder Judicial de la Federación;
 
-XXII. (DEROGADA, D.O.F. 25 DE MAYO DE 2012)
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
 
-> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 2012)</small>
+XXII. Emitir opinión jurídica respecto de los proyectos legislativos que le instruya cualquiera de los Consejeros encargados de la Unidad de Enlace Legislativo;
 
-XXIII. Emitir opinión jurídica respecto de los proyectos legislativos que le instruya cualquiera de los Consejeros encargados de la Unidad de Enlace Legislativo;
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
 
-XXIV. (DEROGADA, D.O.F. 25 DE MAYO DE 2012)
+XXIII. Intervenir, en el ámbito de su competencia, en el desahogo de acciones relacionadas con la atención de asuntos internacionales que incidan en el ámbito de competencia del Consejo;
 
-XXV. Intervenir, en el ámbito de su competencia, en el desahogo de acciones relacionadas con la atención de asuntos internacionales que incidan en el ámbito de competencia del Consejo; y
+> <small>(ADICIONADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
 
-XXVI. Las demás que establezcan el Pleno, y las comisiones.
+XXIV. Integrar el Comité de Acceso a la Información y Protección de Datos Personales; y
+
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
+
+XXV. Las demás que establezcan el Pleno, y las comisiones.
 
 > <small>(REFORMADO, D.O.F. 16 DE OCTUBRE DE 2012)</small>
 
@@ -2799,71 +2801,21 @@ XV. Efectuar la inspección de la administración y destino de los bienes asegur
 
 XVI. Las demás que establezcan el Pleno, y las comisiones.
 
-### Capítulo VIII. Del Archivo General del Consejo
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA LOS ARTÍCULOS 139, 140 Y 141 Y DEROGA LAS FRACCIONES X Y XI DEL ARTÍCULO 50 DEL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 23 DE ENERO DE 2013)</small>
+### Capítulo VIII
 
 ###### Artículo 139.
 
-El Archivo General del Consejo es el Area Coordinadora de Archivos, encargada de desarrollar e implementar el sistema institucional de archivos, que permita planear, dirigir y controlar la producción, circulación, organización, conservación, uso, selección y destino final de los documentos de archivo.
-
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA LOS ARTÍCULOS 139, 140 Y 141 Y DEROGA LAS FRACCIONES X Y XI DEL ARTÍCULO 50 DEL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 23 DE ENERO DE 2013)</small>
+(DEROGADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)
 
 ###### Artículo 140.
 
-El titular del Archivo General del Consejo tendrá a su cargo las siguientes atribuciones:
-
-I. Elaborar y someter a consideración de la Comisión para la Transparencia, Acceso a la Información Pública Gubernamental y Protección de Datos Personales, aquellos procedimientos y métodos necesarios para el adecuado funcionamiento del Sistema Institucional de Archivos, así como el Plan Anual de Desarrollo Archivístico de los archivos bajo administración del Consejo;
-
-II. Proponer a la Comisión para la Transparencia, Acceso a la Información Pública Gubernamental y Protección de Datos Personales las normas, criterios y lineamientos archivísticos para la organización y conservación de los archivos bajo la administración del Consejo; así como de los expedientes que contengan información y documentación clasificada como reservada o confidencial, a fin de asegurar su integridad según las disposiciones aplicables;
-
-III. Participar en la elaboración de las propuestas normativas de los archivos bajo la administración del Consejo;
-
-IV. Formar parte del Comité de Acceso a la Información y Protección de Datos Personales con voz y voto, en aquellos casos relacionados con la materia archivística;
-
-V. Proporcionar capacitación archivística de conformidad con el programa que para tal efecto apruebe la Comisión para la Transparencia, Acceso a la Información Pública Gubernamental y Protección de Datos Personales, así como asesorar en los asuntos de su competencia a los órganos jurisdiccionales y áreas administrativas del Consejo;
-
-VI. Promover el uso de tecnologías de la información disponibles en el Consejo para el manejo e integración de los archivos;
-
-VII. En coordinación con la Dirección General de Tecnologías de la Información, determinar los métodos para la conservación de los documentos de archivo en formato electrónico;
-
-VIII. Elaborar y someter a consideración de la Comisión para la Transparencia, Acceso a la Información Pública Gubernamental y Protección de Datos Personales, los contenidos y actualizaciones del Manual Institucional de Archivo;
-
-IX. Custodiar, organizar y conservar los documentos y expedientes administrativos que conforman sus archivos de concentración e históricos, para facilitar su localización, promover su consulta y aprovechamiento público, de conformidad con las disposiciones aplicables;
-
-X. Establecer un Centro de Documentación y fijar los mecanismos idóneos para proporcionar el servicio de consulta y reproducción de documentos históricos;
-
-XI. Participar en la elaboración de los manuales de organización, procedimientos y de servicios al público;
-
-XII. Determinar, en coordinación con las áreas responsables del diseño, mantenimiento y conservación de los archivos bajo administración del Consejo, los espacios físicos y condiciones requeridas para su guarda;
-
-XIII. Emitir opinión técnica sobre aquellos asuntos relacionados con la materia archivística de acuerdo a las atribuciones y funciones señaladas en el presente acuerdo y a la normativa aplicable;
-
-XIV. Expedir constancias y certificar documentos relacionados con la competencia y atribuciones del área a su cargo;
-
-XV. Promover la celebración de convenios con instituciones nacionales e internacionales, públicas o privadas, con el propósito de mejorar y modernizar los servicios archivísticos, incorporando los avances tecnológicos en su campo;
-
-XVI. Participar en la elaboración y revisión de los Sistemas de Manejo Ambiental al que se refiere el artículo 17 bis de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, en el tema de la racionalidad y sustentabilidad de los archivos institucionales;
-
-XVII. Elaborar los perfiles de puesto del personal adscrito al Archivo General;
-
-XVIII. Proponer, en coordinación con las áreas competentes, los mecanismos de evaluación de los archivos bajo administración del Consejo;
-
-XIX. Rendir informe sobre el estado que guarda el Archivo General, con la periodicidad que determine la Comisión para la Transparencia, Acceso a la Información Pública Gubernamental y Protección de Datos Personales;
-
-XX. Informar anualmente a los titulares de áreas administrativas de los avances alcanzados en materia archivística;
-
-XXI. Informar a la Comisión para la Transparencia, Acceso a la Información Pública Gubernamental y Protección de Datos Personales sobre cualquier dificultad que en el desarrollo de sus funciones se presente; y
-
-XXII. Las demás que establezcan el Pleno y la Comisión.
-
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA LOS ARTÍCULOS 139, 140 Y 141 Y DEROGA LAS FRACCIONES X Y XI DEL ARTÍCULO 50 DEL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 23 DE ENERO DE 2013)</small>
+(DEROGADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)
 
 ###### Artículo 141.
 
-El titular de la unidad de Archivo General será nombrado por el Pleno a propuesta de la Comisión para la Transparencia, Acceso a la Información Pública Gubernamental y Protección de Datos Personales.
-
-Las áreas administrativas, brindarán el apoyo que sea requerido por el Archivo General del Consejo, para el cumplimiento de las atribuciones que le sean conferidas.
+(DEROGADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)
 
 ### Capítulo IX. De los Secretarios Técnicos
 
@@ -3638,3 +3590,13 @@ PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta y en el portal de Internet del Consejo.
 
 TERCERO.- La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá incorporar el texto de este instrumento, al Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la organización y funcionamiento del propio Consejo.
+
+D.O.F. 9 DE ABRIL DE 2013.
+
+PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO. Se abroga cualquier disposición emitida con anterioridad que se oponga a lo señalado en el presente acuerdo.
+
+CUARTO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá incorporar el texto de este instrumento, a los Acuerdos Generales correspondientes, conforme al texto que se reforma, adiciona o deroga en su caso particular.
