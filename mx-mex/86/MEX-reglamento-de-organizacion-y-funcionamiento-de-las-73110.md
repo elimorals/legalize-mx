@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-organizacion-y-funcionamiento-de-las-73110"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-02-15"
-last_updated: "2012-07-11"
+last_updated: "2013-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73110&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,23 +21,57 @@ state: "MEX"
 ---
 # REGLAMENTO DE ORGANIZACION Y FUNCIONAMIENTO DE LAS DEFENSORIAS MUNICIPALES DE DERECHOS HUMANOS DEL ESTADO DE MEXICO
 
-REGLAMENTO DE ORGANIZACIÓN Y FUNCIONAMIENTO DE LAS DEFENSORÍAS MUNICIPALES DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO
+REGLAMENTO ORGANICO DEL BANCO DEL AHORRO NACIONAL Y SERVICIOS FINANCIEROS, SOCIEDAD NACIONAL DE CREDITO, INSTITUCION DE BANCA DE DESARROLLO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE JULIO DE 2012.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE ENERO DE 2011.
 
-Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el lunes 15 de febrero de 2010.
+Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 29 de noviembre de 2001.
 
-El Consejo Consultivo de la Comisión de Derechos Humanos del Estado de México, con fundamento en lo dispuesto por los artículos 13 fracciones XXIV, XXV y XXVI, así como 46 fracciones III y XIII de la Ley de la Comisión de Derechos Humanos del Estado de México; y
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Hacienda y Crédito Público.
 
-CONSIDERANDO.
+REGLAMENTO ORGANICO DEL BANCO DEL AHORRO NACIONAL Y SERVICIOS FINANCIEROS, SOCIEDAD NACIONAL DE CREDITO, INSTITUCION DE BANCA DE DESARROLLO.
 
-Por lo anteriormente expuesto y con fundamento en lo dispuesto por los artículos 13 fracciones XXIV. XXV y XXVI, así como 46 fracciones III y XIII de la Ley de la Comisión de Derechos Humanos del Estado de México, el Consejo Consultivo de este Organismo, expide el:
+CONSIDERANDO
 
-REGLAMENTO DE ORGANIZACIÓN Y FUNCIONAMIENTO DE LAS DEFENSORIAS MUNICIPALES DE DERECHOS HUMANOS DEL ESTADO DE MEXICO
+Que el H. Congreso de la Unión, mediante Decreto publicado en el Diario Oficial de la Federación el pasado 1 de junio de 2001, expidió la Ley Orgánica del Banco del Ahorro Nacional y Servicios Financieros;
+
+Que la Ley Orgánica del Banco del Ahorro Nacional y Servicios Financieros establece en su artículo cuarto transitorio, que el Reglamento Orgánico de la Institución deberá expedirse en un plazo de ciento ochenta días, contados a partir de la entrada en vigor de la propia Ley;
+
+Que corresponde a la Secretaría de Hacienda y Crédito Público expedir con sujeción a lo dispuesto en la Ley de Instituciones de Crédito y en la Ley Orgánica del Banco del Ahorro Nacional y Servicios Financieros, el Reglamento Orgánico de dicha Institución, en el que se establezcan las bases conforme a las cuales, se regirá su organización y funcionamiento, y
+
+Que en ejercicio de las facultades que me confiere la fracción XXI del artículo 6o. del Reglamento Interior de la Secretaría de Hacienda y Crédito Público, y con fundamento en el artículo 30 de la Ley de Instituciones de Crédito, así como el artículo cuarto transitorio de la Ley Orgánica del Banco del Ahorro Nacional y Servicios Financieros, he tenido a bien expedir el siguiente:
+
+REGLAMENTO ORGANICO DEL BANCO DEL AHORRO NACIONAL Y SERVICIOS FINANCIEROS, SOCIEDAD NACIONAL DE CREDITO, INSTITUCION DE BANCA DE DESARROLLO
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-### Capítulo I. De la naturaleza y objeto de las Defensorías Municipales
+### Capítulo I. De la Institución
+
+###### Artículo 1o.
+
+El Banco del Ahorro Nacional y Servicios Financieros, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, está constituido conforme a la Ley de Instituciones de Crédito y a su propia Ley Orgánica, con personalidad jurídica y patrimonio propios.
+
+###### Artículo 2o.
+
+El presente Reglamento Orgánico tiene por objeto establecer las bases conforme a las cuales se regirá la organización, funcionamiento y facultades de los órganos de administración, control y vigilancia de la Institución.
+
+###### Artículo 3o.
+
+El Banco del Ahorro Nacional y Servicios Financieros, en su carácter de Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, prestará el servicio de banca y crédito con sujeción a los objetivos y prioridades del Plan Nacional de Desarrollo, del Programa Nacional de Financiamiento del Desarrollo, y de los programas relacionados con el sector que el propio Plan establezca para promover y financiar las actividades y el sector que le es encomendado en su propia Ley Orgánica.
+
+###### Artículo 4o.
+
+El Banco del Ahorro Nacional y Servicios Financieros, como Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, tendrá por objeto promover el ahorro, el financiamiento y la inversión entre los integrantes del sector a que se refiere el artículo 2o. fracción IV de su Ley Orgánica, ofrecer instrumentos y servicios financieros entre los mismos, así como canalizar apoyos financieros y técnicos necesarios para fomentar el hábito del ahorro y el sano desarrollo del sector y en general, el desarrollo económico nacional y regional del país.
+
+###### Artículo 5o.
+
+El domicilio de la Institución será la Ciudad de México, Distrito Federal.
+
+La Institución podrá, previa aprobación de su Consejo Directivo, establecer o clausurar sucursales o agencias o cualquier otra clase de oficinas y nombrar corresponsales en el país o en el extranjero, en términos de lo previsto por los artículos 42 y 87 de la Ley de Instituciones de Crédito. Asimismo, podrá designar domicilio convencional para el ejercicio de los derechos y cumplimiento de las obligaciones que deriven de los actos que realice y los contratos que celebre.
+
+###### Artículo 6o.
+
+La Institución tendrá una duración indefinida.
 
 ###### Artículo 1.
 
@@ -87,7 +121,33 @@ Todas las actuaciones de las Defensorías Municipales serán gratuitas. Para el 
 
 Las Defensorías Municipales, deben garantizar el derecho a la información pública, privilegiando el principio de máxima publicidad, de conformidad con lo dispuesto en la legislación y normatividad aplicables en la materia.
 
-### Capítulo II. Del procedimiento para la emisión de la Declaratoria de Terna para la designación de los Defensores Municipales
+### Capítulo II. Del Capital Social
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE ENERO DE 2011)</small>
+
+###### ARTICULO 7o.
+
+El capital social del Banco del Ahorro Nacional y Servicios Financieros, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, es de $997'025,000.00 (novecientos noventa y siete millones veinticinco mil pesos 00/100 M.N.). El capital social pagado es la cantidad de $997'025,000.00 (novecientos noventa y siete millones veinticinco mil pesos 00/100 M.N.).
+
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 2011)</small>
+
+Dicho capital social estará representado por 65'803,650 (sesenta y cinco millones ochocientos tres mil seiscientos cincuenta) certificados de aportación patrimonial de la Serie “A”, con un valor nominal de $10.00 (diez pesos 00/100 M.N.), cada uno y por 33'898,850 (treinta y tres millones ochocientos noventa y ocho mil ochocientos cincuenta) certificados de aportación patrimonial de la Serie “B”, con un valor nominal de $10.00 (diez pesos 00/100 M.N.) cada uno.
+
+El capital social podrá ser aumentado o reducido conforme a lo dispuesto por el artículo 38 de la Ley de Instituciones de Crédito, a propuesta del Consejo Directivo de la Institución, por acuerdo de la Secretaría de Hacienda y Crédito Público y mediante modificación a este Reglamento.
+
+###### Artículo 8o.
+
+Cuando la Institución anuncie su capital social deberá al mismo tiempo anunciar su capital pagado.
+
+###### Artículo 9o.
+
+Los certificados de aportación patrimonial, serán títulos de crédito nominativos, en los términos del artículo 32 de la Ley de Instituciones de Crédito, se emitirán en dos series.
+
+La serie “A” representará en todo tiempo por lo menos el 66% del capital de la Institución, sólo será suscrita por el Gobierno Federal, se emitirá en un título único el cual será intransmisible y en ningún caso podrá cambiar su naturaleza o los derechos que confiere al propio Gobierno Federal.
+
+La serie “B” no podrá representar más del 34% restante del capital social y podrá ser suscrita por el Gobierno Federal, y por personas físicas o morales mexicanas, en los términos de los artículos 33 y 34 de la Ley de Instituciones de Crédito y el artículo 12 de la Ley Orgánica de la Institución.
+
+Tratándose de las personas físicas y morales mexicanas a que se refiere el párrafo anterior y considerando la especialidad de la Institución, se dará preferencia, para que en igualdad de circunstancias, estos certificados sean suscritos por las entidades de ahorro y crédito popular y los organismos de integración regulados por la Ley de Ahorro y Crédito Popular. Lo anterior, sin perjuicio del derecho de preferencia que conforme a la Ley de Instituciones de Crédito, tienen los tenedores de certificados de esta serie.
 
 ###### Articulo 7.
 
@@ -113,13 +173,17 @@ III. Una vez emitida la Declaratoria de Terna, ésta se notificará al ayuntamie
 
 ## TÍTULO SEGUNDO. DE LA ORGANIZACIÓN Y ATRIBUCIONES DE LAS DEFENSORÍAS MUNICIPALES
 
-### Capítulo I. De la organización
+### Capítulo III. De la Administración
+
+###### Artículo 14.
+
+La administración del Banco del Ahorro Nacional y Servicios Financieros, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, estará encomendada a un Consejo Directivo y a un Director General, en sus respectivas esferas de competencia, de conformidad con su Ley Orgánica.
 
 ###### Artículo 8.
 
 Las Defensorías Municipales están integradas por el Defensor Municipal de Derechos Humanos, designado en términos de la Ley Orgánica y de la Ley de la Comisión, así como con el personal profesional, técnico, administrativo y los servidores públicos autorizados por el ayuntamiento, necesarios para el cumplimiento de su encargo.
 
-### Capítulo II. De las atribuciones
+### Capítulo IV. De las Asambleas de los Tenedores de Certificados de Aportación Patrimonial de la Serie "B"
 
 ###### Artículo 9.
 
@@ -153,239 +217,385 @@ XI. Las demás que les confieren otras disposiciones y aquellas que les encomien
 
 ###### Artículo 10.
 
-Los Defensores Municipales deben establecer los medios necesarios para garantizar que la ciudadanía participe y contribuya, de manera efectiva, en la promoción y respeto de los derechos fundamentales.
+La Institución podrá emitir títulos provisionales representativos de los certificados de aportación patrimonial, nominativos, que deberán canjearse en su oportunidad por títulos definitivos. Asimismo, podrá emitir títulos definitivos de los certificados de aportación patrimonial que serán conservados en la tesorería de la Institución. Dichos certificados serán entregados a los suscriptores contra el pago del valor nominal y de la prima que, en su caso, fije la Institución.
 
 ## TÍTULO TERCERO. DE LA COORDINACIÓN DE LAS DEFENSORÍAS MUNICIPALES CON LA COMISIÓN
 
-### Capítulo I. Disposiciones generales
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, G.G. 11 DE JULIO DE 2012)</small>
+### Capítulo V. Del Organo de Vigilancia
 
 ###### Artículo 11.
 
-Las Defensorías Municipales harán del conocimiento de la Secretaría General durante el mes de diciembre, previo al ejercicio a programar, su Plan Anual de Trabajo considerando un año calendario.
+Los títulos provisionales y los definitivos en que consten los certificados de aportación patrimonial series “A” y “B”, no llevarán cupones y contendrán todos los datos necesarios para que su tenedor pueda conocer y ejercitar los derechos que el certificado le confiere, para lo cual deberán cumplir con los siguientes requisitos:
+
+I. Deberán expresar y contener:
+
+a) Nombre del tenedor o tenedores;
+
+b) La denominación y domicilio de la Institución;
+
+c) La mención expresa de ser certificados de aportación patrimonial;
+
+d) El importe del capital social de la Institución, el número de certificados correspondientes a la serie de que se trate y el valor nominal de los certificados de aportación patrimonial;
+
+e) La mención específica de pertenecer a la serie de que se trate, la indicación de que la misma representará por lo menos el 66% del capital social cuando se trate de la serie “A” y hasta el 34% del capital social de la Institución cuando se trate de la serie “B”, y
+
+f) Adicionalmente, los certificados de aportación patrimonial serie “B” contendrán el número progresivo que permita la individualización de cada certificado y se ajustarán y llevarán transcritas las disposiciones contenidas en los artículos 33, 34, 35 y 36 de la Ley de Instituciones de Crédito, así como las demás disposiciones relacionadas con los derechos patrimoniales y corporativos de esta serie, contenidos en la Ley Orgánica de la Institución y este Reglamento Orgánico.
+
+II. Serán firmados por dos consejeros designados por el Consejo Directivo de entre los representantes de la serie “A” de los certificados de aportación patrimonial, estas firmas podrán ser impresas con facsímil, debiendo depositarse las firmas originales en el Registro Público de Comercio del domicilio de la Institución;
+
+III. Cada certificado de aportación patrimonial serie “B”, es indivisible y en consecuencia cuando haya varios propietarios de un mismo certificado, nombrarán un representante común, y si no se pusieren de acuerdo, el nombramiento será hecho por la autoridad judicial competente;
+
+IV. La suscripción, tenencia y circulación de los certificados de aportación patrimonial de la serie “B”, se sujetarán en todo tiempo a lo previsto por la Ley de Instituciones de Crédito, por la propia Ley Orgánica de la Institución y por lo dispuesto en este Reglamento Orgánico, y
+
+V. La Institución se abstendrá de inscribir en el registro de certificados de aportación patrimonial serie “B” a que se refiere el artículo 36 de la Ley de Instituciones de Crédito, las transmisiones que se efectúen sin ajustarse a lo establecido en la citada ley, en el artículo 9o. de este Reglamento y a lo previsto en este artículo.
 
 ###### Artículo 12.
 
-Para garantizar el control de las actividades desarrolladas por las Defensorías Municipales, éstas recabarán los datos que se precisan en los formatos elaborados y proporcionados por el Organismo.
+La Institución llevará un registro de los certificados de aportación patrimonial que emita y considerará como propietarios de éstos a quienes aparezcan inscritos como tales.
 
-### Capítulo II. De la coordinación con la Secretaría General
+El citado registro contendrá el nombre, registro federal de contribuyentes y domicilio del titular o titulares, así como su ocupación principal y, en su caso, objeto social, la indicación de los certificados que le pertenezcan, expresándose los números y demás particularidades e igualmente, los datos relativos a las transmisiones que se realicen en los términos del artículo 36 de la Ley de Instituciones de Crédito.
+
+### Capítulo VI. Del Organo Interno de Control
 
 ###### Artículo 13.
 
-Las Defensorías Municipales deben establecer enlace y vinculación permanente con la Secretaria General en el desarrollo de programas y acciones encaminadas a promover los derechos humanos; así como para contar con información actualizada sobre las nuevas disposiciones que en la materia se emitan.
-
-Artículo .14.- Las Defensorías Municipales, en coordinación con la Secretaria General, deben: realizar cursos, talleres, seminarios, conferencias y demás actividades encaminadas a la difusión de los derechos humanos, en los sectores del municipio que corresponda.
+En los casos en que se aumente o disminuya el capital social de la Institución, se observará lo dispuesto por los artículos 34, 38 y 39 de la Ley de Instituciones de Crédito.
 
 ###### Artículo 15.
 
-Las Defensorías Municipales deben atender oportunamente las reuniones y eventos a los que la Secretaria General les convoque.
+El Consejo Directivo estará integrado conforme a lo señalado en el artículo 17 de la Ley Orgánica de la Institución.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+El Secretario de Hacienda y Crédito Público presidirá el Consejo Directivo, y en sus ausencias, el Subsecretario de Hacienda y Crédito Público ejercerá dicho cargo.
 
-> <small>(ADICIONADO, G.G. 11 DE JULIO DE 2012)</small>
+Tratándose de los consejeros de la serie “A”, los titulares de las Secretarías que integran el Consejo Directivo, así como el Gobernador del Banco de México, designarán a sus suplentes.
 
-Artículo 15 A.- Las Defensorías Municipales deben presentar a través del SIDEMUN, los informes trimestrales relacionados con la ejecución de su Plan Anual de Trabajo.
+Los consejeros de la serie “B” serán designados en términos del artículo 17 fracción II de la Ley Orgánica del Banco del Ahorro Nacional y Servicios Financieros y 26 fracción V de este Reglamento Orgánico. Ejercerán su cargo hasta que sean sustituidos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Los consejeros independientes serán designados con el acuerdo de la mayoría de los consejeros propietarios de las series "A" y "B".
 
-> <small>(ADICIONADO, G.G. 11 DE JULIO DE 2012)</small>
+Tanto los consejeros de la serie “B”, como los consejeros independientes no tendrán suplentes.
 
-Artículo 15 B.- La información que se incorpore al SIDEMUN debe estar soportada, de conformidad con los medios de verificación que establezca el Organismo.
+Los consejeros independientes deberán asistir cuando menos al setenta por ciento de las sesiones que se hayan convocado en un ejercicio y, en caso contrario, podrán ser designados otros con las mismas características en su lugar, siempre que las ausencias no se justifiquen en opinión del Consejo Directivo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+El cargo de consejero es personal y no podrá desempeñarse por medio de representantes.
 
-> <small>(ADICIONADO, G.G. 11 DE JULIO DE 2012)</small>
+La designación y la renuncia de los consejeros se harán del conocimiento del Consejo Directivo de la Institución.
 
-Artículo 15 C.- El SIDEMUN puede habilitarse fuera del periodo establecido para el registro de los informes trimestrales, dentro de los 15 días hábiles siguientes a la conclusión del plazo señalado para tal efecto, mediante escrito dirigido a la Secretaría General, en los casos siguientes:
-
-I. Se haya omitido enviar el informe trimestral de actividades correspondiente; y
-
-II. Se tenga que hacer una aclaración o modificación a la información reportada.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, G.G. 11 DE JULIO DE 2012)</small>
-
-Artículo 15 D.- La Secretaría General, en coordinación con la Unidad de Informática del Organismo, proporcionará capacitación relacionada con el funcionamiento del SIDEMUN.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, G.G. 11 DE JULIO DE 2012)</small>
-
-Artículo 15 E.- La Secretaría General debe revisar los informes trimestrales de las Defensorías Municipales, capturados en el SIDEMUN, con el objeto de verificar el cumplimiento de su Plan Anual de Trabajo.
-
-Para efectos de lo anterior, la Secretaría General podrá solicitar la información y documentación soporte que considere necesaria.
-
-### Capítulo III. De la coordinación con las Visitadurías Generales
+### Capítulo VII. Del Ejercicio Social y la Distribución de Utilidades
 
 ###### Artículo 16.
 
-Las Defensorías Municipales deben vincularse con las Visitadurías Generales a efecto de recibir orientación y concertar acciones para el cumplimiento de sus atribuciones, en términos de las disposiciones aplicables.
+Para los efectos señalados en el artículo 19 de la Ley Orgánica de la Institución y 18 de este Reglamento Orgánico, se entenderá por:
+
+Nexo patrimonial con la Institución: cuando se haya adquirido directa o indirectamente el 2% o más de los títulos representativos del capital social de la Institución.
+
+Nexo patrimonial con las personas físicas a que se refiere el inciso b) del artículo 19 de la Ley Orgánica de la Institución: cuando sea acreedor, deudor, proveedor o cliente importante de dicha persona física, conforme a la definición que en este artículo se señala y en lo que resulte aplicable.
+
+Nexo patrimonial con las personas morales a que se refiere el inciso b) del artículo 19 de la Ley Orgánica de la Institución: cuando se haya adquirido directa o indirectamente el 2% o más de los títulos representativos del capital social de la persona moral de que se trate; se tenga el control de las asambleas generales; se esté en posibilidad de nombrar a la mayoría de los miembros del Consejo de Administración, o por cualquier otro medio se controle o sea acreedor, deudor, proveedor o cliente importante de las mencionadas personas morales, conforme a la definición que en este artículo se señala y en lo que resulte aplicable.
+
+Vínculo Laboral: cuando exista una relación de trabajo con la Institución, o bien, con las personas físicas o morales a que se refiere el inciso b) del artículo 19 de la Ley Orgánica de la Institución.
+
+Cliente o proveedor importante: cuando los servicios que preste la Institución o las ventas que le haga a ésta, representen más del 10% de los servicios o de las ventas totales del cliente o del proveedor, respectivamente.
+
+Acreedor o deudor importante: cuando el importe del crédito otorgado o recibido es mayor al 15% de los activos de la Institución o de su contraparte.
 
 ###### Artículo 17.
 
-Las Defensorías Municipales deben formar expediente de las quejas recibidas de la población de su municipalidad y remitirlas de manera inmediata al Visitador General que corresponda.
+Las sesiones del Consejo Directivo podrán ser ordinarias y extraordinarias; las ordinarias deberán celebrarse por lo menos seis veces al año, en los días y horas que previamente acuerde el Consejo Directivo; las extraordinarias se celebrarán en cualquier tiempo, siempre que sea convocado por su Presidente, o a petición de cuando menos tres de los consejeros propietarios.
+
+Los consejeros y comisarios serán convocados invariablemente mediante escrito para la celebración de las sesiones del Consejo Directivo, con por lo menos cinco días hábiles de anticipación.
+
+El Consejo Directivo sesionará válidamente con la asistencia de por lo menos seis consejeros, siempre y cuando se cuente con la presencia de un consejero independiente y por lo menos tres consejeros de la serie “A”, incluido el Presidente del Consejo Directivo.
+
+Las resoluciones del Consejo Directivo se tomarán por mayoría de votos de los consejeros presentes, teniendo el Presidente voto de calidad en caso de empate.
+
+El Consejo Directivo podrá invitar a sus sesiones, cuando así lo considere conveniente, a representantes de otras instituciones públicas y organizaciones del sector social o privado y en general a cualquier persona, que de conformidad con la opinión del Consejo Directivo desarrolle actividades relevantes para el cumplimiento de los objetivos de la Institución, quienes concurrirán con voz pero sin voto.
+
+Estas personas están obligadas en todo tiempo a observar lo previsto por los artículos 117 y 118 de la Ley de Instituciones de Crédito.
+
+Los consejeros tendrán la obligación de comunicar al Presidente del Consejo sobre cualquier situación de la que se pueda derivar un conflicto de interés y abstenerse de participar en la deliberación y votación correspondiente. Asimismo, deberán mantener absoluta confidencialidad sobre todos aquellos actos, hechos o acontecimientos que pudieran afectar la operación de la Institución, así como de las deliberaciones que se adopten en el Consejo Directivo, mientras tal información no se haya hecho del conocimiento público.
+
+En el orden del día de las sesiones del Consejo Directivo, se deberán listar los asuntos a tratar, incluso los comprendidos en el rubro de asuntos generales.
+
+La documentación e información relacionada con los temas a tratar en las correspondientes sesiones del Consejo Directivo, deberá hacerse llegar a los consejeros con por lo menos cinco días hábiles de anticipación a la celebración de las sesiones ordinarias y de por lo menos tres días hábiles de anticipación a la celebración de las sesiones extraordinarias.
 
 ###### Artículo 18.
 
-El Visitador General que inicie expediente de queja contra algún ayuntamiento o servidor público municipal, lo hará del conocimiento del Defensor Municipal de Derechos Humanos, para que éste, forme expediente y de seguimiento al procedimiento tramitado por la Comisión.
+No podrán ser consejeros:
+
+I. Las personas que se encuentren en los supuestos señalados en las fracciones III a VI del artículo 23 y artículo 41, último párrafo de la Ley de Instituciones de Crédito;
+
+II. Las personas que ocupen un puesto de elección popular o de dirigencia partidista, mientras se encuentren en el ejercicio del mismo, y
+
+III. El cónyuge de los consejeros y las personas que tengan parentesco por consanguinidad o por afinidad, hasta el segundo grado, o civil, con alguno de los consejeros.
+
+Si alguno de los consejeros propietarios designados llegare a encontrarse comprendido durante el ejercicio de su cargo, en cualquiera de los supuestos anteriores, será sustituido por su suplente, durante el tiempo que dure el impedimento y no se haga la designación del consejero propietario.
+
+Adicionalmente, no podrán ser consejeros independientes:
+
+a) Las personas que tengan nexo patrimonial o vínculo laboral con la Institución, conforme a lo establecido en el artículo 16 de este Reglamento Orgánico;
+
+b) Las personas que tengan un nexo patrimonial o vínculo laboral con una persona física o moral que sea acreedor, deudor, cliente o proveedor importante de la Institución, conforme a lo establecido en el artículo 16 de este Reglamento Orgánico;
+
+c) Las personas que tengan conflicto de intereses con la Institución por ser clientes, proveedores, deudores, acreedores importantes o de cualquier otra naturaleza, conforme a lo establecido en el artículo 16 de este Reglamento Orgánico, y
+
+d) Las personas que tengan un vínculo laboral o la representación de asociaciones, gremios, federaciones, confederaciones de trabajadores, patrones, o de los organismos de integración y entidades del sector, o sean miembros de sus órganos directivos.
+
+Los consejeros están obligados en todo tiempo a observar lo previsto por los artículos 117 y 118 de la Ley de Instituciones de Crédito.
 
 ###### Artículo 19.
 
-Las Defensorías Municipales deben informar a la Visitaduría General correspondiente sobre el cumplimiento de las medidas precautorias o cautelares solicitadas por el Organismo.
+El Consejo Directivo designará a su secretario y a su prosecretario de entre los servidores públicos de la Institución. El prosecretario estará encargado de auxiliar al secretario en el ejercicio de sus funciones.
+
+El secretario del Consejo Directivo tendrá a su cargo las siguientes funciones:
+
+I. Elaborar el calendario de sesiones ordinarias del Consejo Directivo y someterlo a su consideración;
+
+II. Formular con la debida anticipación, el orden del día de las sesiones del Consejo Directivo, conforme a los asuntos que a propuesta de sus miembros, del Director General y de los comisarios, se deban incluir en la misma;
+
+III. Recabar de las áreas administrativas de la Institución, con la anticipación necesaria, la información que deba proporcionarse al Consejo Directivo;
+
+IV. Recabar la información relativa al seguimiento de las resoluciones adoptadas por el Consejo Directivo cuando lo ameriten, y hacerla del conocimiento de los integrantes del mismo;
+
+V. Enviar a los miembros del Consejo Directivo y a los comisarios la documentación de los asuntos a tratar, acompañada de la convocatoria que al efecto suscriba para llevar a cabo las sesiones del Consejo, y asegurarse que su recepción se efectúe cuando menos con cinco días hábiles de anticipación a la celebración de la sesión correspondiente;
+
+VI. Asistir a las sesiones del Consejo Directivo con voz y sin voto, pasar lista de asistencia y verificar que se cumplan los requisitos señalados en el artículo 17 de este Reglamento Orgánico, para que el Consejo pueda sesionar;
+
+VII. Levantar las actas de las sesiones que celebre el Consejo Directivo y una vez aprobadas por dicho órgano, asentarlas en el libro de actas que para tal efecto lleve, suscribirlas y obtener la firma del Presidente. Asimismo, llevar el registro de las resoluciones adoptadas;
+
+VIII. Firmar las actas y constancias necesarias que se deriven de las sesiones del Consejo Directivo;
+
+IX. Expedir copias certificadas de las actas, así como las certificaciones que sean necesarias, respecto de las resoluciones adoptadas por el Consejo Directivo, y
+
+X. Las demás que, en su caso, le encomiende el Consejo Directivo.
+
+Durante las ausencias del secretario, el prosecretario del Consejo Directivo se encargará de llevar a cabo las actividades y ejercer las facultades señaladas en las fracciones V a X.
 
 ###### Artículo 20.
 
-Las Defensorías Municipales deben verificar que la autoridad municipal rinda de manera oportuna los informes que solicite la Comisión, pudiendo emitir los recordatorios necesarios para tales efectos, previo acuerdo del Visitador General.
+El Consejo Directivo dirigirá a la Institución en los términos de lo previsto por el artículo 42 y demás relativos de la Ley de Instituciones de Crédito.
+
+El Consejo Directivo podrá acordar la realización de las operaciones inherentes al objeto de la Institución. Los acuerdos que en su caso dicte respecto de las operaciones previstas en las fracciones VI y IX del artículo 46 de la Ley de Instituciones de Crédito, deberán considerar las propuestas del Director General.
+
+Las facultades indelegables del Consejo Directivo, se ejercerán en los términos de la Ley Orgánica de la Institución, de este Reglamento Orgánico y de las demás disposiciones aplicables.
 
 ###### Artículo 21.
 
-Las Defensorías Municipales deben dar seguimiento a las Recomendaciones que el Organismo emite en contra de autoridades o servidores públicos que residan o ejerzan funciones dentro del municipio, de conformidad con lo establecido por la Comisión y previo acuerdo del Visitador General.
+El Consejo Directivo tendrá, además de las facultades indelegables señaladas en el artículo 42 de la Ley de Instituciones de Crédito, las siguientes:
+
+I. Aprobar, en su caso, el informe anual de actividades que le presente el Director General;
+
+II. Aprobar las reglas generales de operación de los planes de ahorro y demás instrumentos de captación que ofrezca la Institución, y las modificaciones a las mismas;
+
+III. Autorizar la adquisición y uso de tecnología a que se refiere la fracción III del artículo 7o. de la Ley Orgánica de la Institución;
+
+IV. Aprobar los demás programas específicos y reglamentos internos de la Institución que le presente el Director General, diferentes de los señalados en el artículo 42 de la Ley de Instituciones de Crédito;
+
+V. Expedir con sujeción a los criterios de carácter general señalados en el artículo 134 constitucional y demás disposiciones aplicables, las bases, procedimientos, reglas, requisitos, políticas, lineamientos y las normas conforme a las cuales la Institución deba contratar las adquisiciones, enajenaciones de bienes, arrendamientos, realización de obra inmobiliaria y prestaciones de servicios de cualquier naturaleza, que acreditarán la economía, eficacia, imparcialidad y honradez, que aseguren las mejores condiciones para la Institución, cuando las licitaciones públicas no sean idóneas para asegurar dichas condiciones;
+
+VI. Expedir las normas y criterios a los cuales deberá sujetarse la elaboración y ejercicio del presupuesto de gasto corriente y de inversión física de la Institución, así como aprobar dicho presupuesto y las modificaciones que corresponda efectuar durante el ejercicio, una vez autorizados los montos globales de estos conceptos por parte de la Secretaría de Hacienda y Crédito Público;
+
+VII. Aprobar los tabuladores e incrementos de sueldos, pensiones o jubilaciones y demás prestaciones de carácter económico y de seguridad social que corresponda, y
+
+VIII. Aprobar las normas y bases para cancelar adeudos a cargo de terceros y a favor de la Institución, informando a la Comisión Nacional Bancaria y de Valores en los términos de las disposiciones aplicables.
 
 ## TÍTULO CUARTO. DE LOS COMITÉS DE DEFENSORES MUNICIPALES
 
-### Capítulo I. De la integración y funcionamiento
+### Capítulo VIII. De las Modificaciones al Reglamento Orgánico
 
 ###### Artículo 22.
 
-Con la finalidad de armonizar criterios y homologar prácticas relativas a las funciones de las Defensorías Municipales, se crean los Comités de Defensores Municipales de Derechos Humanos, como órganos colegiados encargados de proponer mecanismos y procedimientos para el cumplimiento de su objeto.
+El Director General será designado por el Ejecutivo Federal a través del secretario de Hacienda y Crédito Público, debiendo recaer su nombramiento en persona que reúna los requisitos que establece el artículo 24 de la Ley de Instituciones de Crédito.
 
 ###### Artículo 23.
 
-Los Comités de Defensores Municipales se integran de la manera siguiente:
+El Director General tendrá a su cargo la administración y la representación legal del Banco del Ahorro Nacional y Servicios Financieros, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo. Sin perjuicio de las atribuciones que correspondan al Consejo Directivo, tendrá las siguientes facultades y funciones:
 
-l. Un Presidente, que es el Visitador General de la región correspondiente;
+I. En el ejercicio de sus atribuciones de representación legal, podrá celebrar u otorgar toda clase de actos y documentos inherentes al objeto de la Institución. Contará para ello con las más amplias facultades para realizar actos de dominio, administración, pleitos y cobranzas, aun de aquellas que requieran autorización especial según otras disposiciones legales o reglamentarias. En tal virtud y de manera enunciativa y no limitativa, podrá emitir, avalar y negociar títulos de crédito, querellarse y otorgar perdón, ejercitar y desistirse de acciones judiciales inclusive en el juicio de amparo, comprometer en árbitros y transigir, otorgar poderes generales y especiales con todas las facultades que le competan, aun las que requieran cláusula especial, sustituirlos y revocarlos, y otorgar facultades de sustitución a los apoderados, debiendo obtener autorización expresa del Consejo Directivo cuando se trate de otorgar poderes generales para actos de dominio;
 
-II. Un Secretario Técnico, que será designado entre los Defensores Municipales de la región que corresponda, quien durará en su cargo un año; y
+II. Ejecutar las resoluciones del Consejo Directivo;
 
-III. Vocales, que son los Defensores Municipales de la región respectiva y un representante de la Secretaría General.
+III. Llevar la firma de la Institución;
 
-Los miembros de los Comités de Defensores Municipales tienen derecho a voz y voto.
+IV. Actuar como Delegado Fiduciario General;
 
-Los cargos de los integrantes de los Comités son honoríficos.
+V. Decidir la designación y contratación de los servidores públicos de la Institución, distintos de los señalados en la fracción I del artículo 42 de la Ley de Instituciones de Crédito, administrar al personal en su conjunto y establecer y organizar las oficinas de la Institución;
+
+VI. Autorizar la publicación de los balances mensuales de la Institución, conforme a las bases acordadas por el Consejo Directivo;
+
+VII. Participar en las sesiones del Consejo Directivo con voz y sin voto;
+
+VIII. Administrar los bienes y negocios celebrando los convenios y ejecutando los actos que requiera la marcha ordinaria de la Institución;
+
+IX. Proponer al Consejo Directivo, la designación de Delegados Fiduciarios y de los servidores públicos de la Institución que ocupen cargos con dos jerarquías inmediatas inferiores a las de su rango y presentarle las solicitudes de licencia, así como las renuncias de los mismos;
+
+X. Proponer al Consejo Directivo la creación de comités regionales consultivos y de crédito, así como los de su seno y proveer lo necesario para su adecuada integración y funcionamiento;
+
+XI. Acordar la creación de comités internos de crédito, técnicos y administrativos;
+
+XII. Presentar al Consejo Directivo para su aprobación el balance general anual de la Institución, junto con el informe y dictamen del auditor externo y de los comisarios;
+
+XIII. Presentar al Consejo Directivo los estados financieros de la Institución;
+
+XIV. Proponer al Consejo Directivo el establecimiento, reubicación y clausura de sucursales, agencias y oficinas en el país y en el extranjero;
+
+XV. Someter al Consejo Directivo los programas operativos y financieros, presupuestos generales de gastos e inversiones y las estimaciones de ingresos anuales de la Institución, así como sus modificaciones;
+
+XVI. Presentar al Consejo Directivo las propuestas para modificar este Reglamento Orgánico;
+
+XVII. Proponer al Consejo Directivo la aprobación de cesión de partes del activo o pasivo de la Institución;
+
+XVIII. Presentar al Consejo Directivo las propuestas de programas anuales de adquisición, arrendamiento y enajenación de bienes muebles e inmuebles, de realización de obras y prestación de servicios, que la Institución requiera, así como las bases, procedimientos, reglas, requisitos, políticas, lineamientos y las normas conforme a las cuales la Institución deba contratar las adquisiciones, enajenaciones de bienes, arrendamientos, realización de obra inmobiliaria y prestaciones de servicios de cualquier naturaleza de conformidad con las normas aplicables;
+
+XIX. Rendir al Consejo Directivo un informe anual de actividades;
+
+XX. Proponer al Consejo Directivo la emisión de obligaciones subordinadas;
+
+XXI. Presentar al Consejo Directivo para su aprobación, la propuesta de inversión en títulos representativos del capital social de las sociedades a que se refieren los artículos 75, 88 y 89 de la Ley de Instituciones de Crédito;
+
+XXII. Presentar al Consejo Directivo las propuestas de aplicación de utilidades y la forma y términos en que sugiera se deban realizar;
+
+XXIII. Proponer al Consejo Directivo la constitución de reservas y fondos necesarios, así como la forma y términos en que considere se deban realizar;
+
+XXIV. Proponer al Consejo Directivo los procedimientos para la destrucción de los Bonos del Ahorro Mnacional (sic) que se encuentren amortizados, y que en su momento autorizó la Secretaría de Hacienda y Crédito Público;
+
+XXV. Determinar los criterios para dispensar, respecto de los títulos a que se refiere la fracción anterior, el llevar a cabo el procedimiento de cancelación y reposición de títulos de crédito que establece la ley respectiva;
+
+XXVI. Someter al Consejo Directivo, los programas anuales de publicidad y propaganda de la Institución;
+
+XXVII. Proponer al Consejo Directivo, las normas y bases para la cancelación de adeudos a cargo de terceros y a favor de la Institución, para su posterior informe a la Comisión Nacional Bancaria y de Valores;
+
+XXVIII. Someter al Consejo Directivo, la estructura orgánica básica y los reglamentos internos de la Institución, así como las modificaciones que procedan a los mismos, y los demás programas específicos;
+
+XXIX. Previa opinión del Consejo Directivo y conforme a las disposiciones legales aplicables, negociar las Condiciones Generales de Trabajo que rijan las relaciones laborales entre la Institución y sus trabajadores;
+
+XXX. Representar a la Institución ante las agrupaciones, asociaciones y organismos nacionales e internacionales de fomento al sector encomendado en la Ley Orgánica de la Institución, o de cualquier otra índole relacionados con el objeto y objetivos de la Institución, y
+
+XXXI. Las demás que le delegue el Consejo Directivo o que sea necesario desarrollar para el cumplimiento de lo dispuesto en las fracciones anteriores; o aquellas que le confieran otras leyes, reglamentos, decretos, acuerdos y disposiciones administrativas aplicables.
 
 ###### Artículo 24.
 
-Los Comités Municipales se organizan de conformidad con la denominación y distribución territorial siguiente:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
-
-> <small>(REFORMADA, G.G. 5 DE OCTUBRE DE 2011)</small>
-
-I. El Comité de Defensores Municipales de Derechos Humanos Región Toluca, comprende los municipios establecidos en el artículo 9 fracción I del Reglamento Interno de la Comisión;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
-
-> <small>(REFORMADA, G.G. 5 DE OCTUBRE DE 2011)</small>
-
-II. El Comité de Defensores Municipales de Derechos Humanos Región Tlalnepantla, comprende los municipios establecidos en el artículo 9 fracción II del Reglamento Interno del Organismo;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
-
-> <small>(REFORMADA, G.G. 5 DE OCTUBRE DE 2011)</small>
-
-III. El Comité de Defensores Municipales de Derechos Humanos Región Chalco, comprende los municipios establecidos en el artículo 9 fracción III del Reglamento Interno de la Comisión;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, G.G. 11 DE JULIO DE 2012)</small>
-
-IV. El Comité de Defensores Municipales de Derechos Humanos Región Nezahualcóyotl, comprende los municipios establecidos en el artículo 9 fracción IV del Reglamento Interno del Organismo;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, G.G. 11 DE JULIO DE 2012)</small>
-
-V. El Comité de Defensores Municipales de Derechos Humanos Región Ecatepec, comprende los municipios establecidos en el artículo 9 fracción V del Reglamento Interno de la Comisión;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, G.G. 11 DE JULIO DE 2012)</small>
-
-VI. El Comité de Defensores Municipales de Derechos Humanos Región Atlacomulco, comprende los municipios establecidos en el artículo 9 fracción VI del Reglamento Interno del Organismo; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, G.G. 11 DE JULIO DE 2012)</small>
-
-VII. El Comité de Defensores Municipales de Derechos Humanos Región Naucalpan, comprende los municipios establecidos en el artículo 9 fracción VII del Reglamento Interno de la Comisión.
+La designación de Delegados Fiduciarios y de los servidores públicos de la Institución que ocupen cargos con las dos jerarquías inmediatas inferiores a la del Director General se hará con base en los méritos obtenidos en la Institución y con sujeción a lo dispuesto por los artículos 24 y 43 de la Ley de Instituciones de Crédito.
 
 ###### Artículo 25.
 
-Los Comités de Defensores Municipales tienen las atribuciones siguientes:
+En los poderes que otorgue el Director General de la Institución, incluyendo aquellos conferidos a través de mandatos, comisiones, en virtud de la designación de Delegados Fiduciarios generales o especiales u otros nombramientos, así como los derivados de cualquier otro acto jurídico, podrá facultar y autorizar a tales apoderados, para que absuelvan posiciones, así como para que ejerzan sus facultades ante toda clase de autoridades judiciales o administrativas, inclusive de carácter penal o laboral.
 
-I. Sugerir procedimientos y estrategias para armonizar criterios y homologar prácticas relativas a las Defensorías Municipales; y
+El Director General podrá autorizar a los referidos apoderados para que, conforme a las disposiciones aplicables, éstos otorguen o revoquen poderes generales o especiales, con la previa autorización a que se refiere la última parte de la fracción I del artículo 23 anterior.
 
-II. Proponer mecanismos para llevar a cabo, de manera uniforme, las atribuciones de las Defensorías Municipales.
+Los Delegados Fiduciarios generales o especiales, tendrán las facultades de dominio, de administración y pleitos y cobranzas, así como todas las que sean suficientes y necesarias, para procurar el debido cumplimiento de los fines señalados en los contratos de fideicomiso, mandato o comisión respectivo, de conformidad con lo establecido en el artículo 80 de la Ley de Instituciones de Crédito y en el artículo 391 de la Ley General de Títulos y Operaciones de Crédito, así como todas las atribuciones que sean necesarias para el desempeño de su cargo y para la conducción de los negocios fiduciarios, que se mencionan en la fracción XV a la XXII del artículo 46 de la Ley de Instituciones de Crédito, respectivamente.
+
+Asimismo, de manera enunciativa y no limitativa tendrán facultades para pleitos y cobranzas y administración en materia laboral, para títulos de crédito, en los términos del artículo 9o. de la Ley General de Títulos y Operaciones de Crédito, para el otorgamiento de mandatos, así como su revocación o modificación.
+
+Los Delegados Fiduciarios ejercerán las facultades y poderes que se mencionan en los párrafos que anteceden, exclusivamente en relación con los contratos de fideicomiso, mandato o comisión y en los convenios modificatorios que, en su caso se celebren, en los que el Banco del Ahorro Nacional y Servicios Financieros, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo tenga el cargo de fiduciario.
 
 ### Capítulo II. De las facultades y obligaciones de los miembros de los Comités de Defensores Municipales
 
 ###### Artículo 26.
 
-Los presidentes de los Comités de Defensores Municipales tienen las facultades siguientes:
+La asamblea de tenedores de certificados de aportación patrimonial de la serie “B”, no es un órgano de gobierno del Banco del Ahorro Nacional y Servicios Financieros, se reunirá por lo menos una vez al año, debiendo ser convocada mediante aviso que se publicará por una sola vez en uno de los periódicos de mayor circulación en el domicilio de la Institución, con cuando menos diez días hábiles de anticipación a la fecha señalada para la asamblea.
 
-I. Convocar, a través del Secretario Técnico, a las sesiones del Comité;
+En todo caso, la asamblea podrá ser convocada en cualquier tiempo por los tenedores de certificados de aportación patrimonial de la serie “B”, que representen cuando menos una tercera parte del capital social de dicha serie, por el presidente del Consejo Directivo, por el Director General, por los consejeros de la serie "B" o por el comisario de la misma serie.
 
-II. Proponer el orden del día de las sesiones;
+La asamblea de tenedores de certificados de aportación patrimonial de la serie “B”, se ocupará de los siguientes asuntos:
 
-III. Declarar la existencia del quórum legal para sesionar;
+I. Conocer y opinar sobre las políticas y criterios conforme a los cuales la Institución lleve a cabo sus operaciones;
 
-IV. Dirigir y moderar los debates de las sesiones del Comité; y
+II. Analizar y opinar sobre el informe de actividades y los estados financieros que le presente el Consejo Directivo por conducto del Director General;
 
-V. Crear Subcomités de Defensores Municipales para tratar asuntos y temas específicos, de acuerdo a las necesidades de cada región, cuyo funcionamiento se ajustará a lo dispuesto por el titulo cuarto de este reglamento.
+III. Opinar sobre los proyectos de aplicación de utilidades;
+
+IV. Formular al Consejo Directivo por conducto de los consejeros que representan a esta serie, las recomendaciones y consultas que estime conveniente sobre las materias a que se refieren las fracciones anteriores;
+
+V. Designar y remover a los consejeros y proponer a los comisarios de la serie "B", con el acuerdo de la mayoría de los tenedores de certificados de esta serie.
+
+Para la designación de cada uno de los consejeros de esta serie, será necesario que se encuentre suscrito por lo menos el 10% del total de los certificados de aportación patrimonial de la serie “B”, en cada caso, y
+
+VI. Aprobar los informes anuales de actuación que le presenten los consejeros serie "B" y, en su caso, tomar las medidas que juzgue oportunas.
+
+Para tener derecho de asistir a las asambleas de tenedores de certificados de aportación patrimonial de la serie “B” y votar, los tenedores depositarán los certificados de aportación patrimonial de la serie “B” que sean de su propiedad conforme al registro de dichos títulos que llevará la Institución, en cualquier institución de crédito de la República Mexicana, debiendo exhibir la constancia de dicho depósito en el momento de la reunión.
+
+Los tenedores de los certificados de la serie “B”, podrán hacerse representar en las asambleas por representantes facultados en poder notarial o en carta poder certificada, el cual deberá contener el orden del día, así como las instrucciones del otorgante para el ejercicio del poder. El o los escrutadores estarán obligados a cerciorarse de la observancia de lo dispuesto en este párrafo e informar sobre ello a la asamblea, lo que se hará constar en el acta respectiva.
+
+No podrán ser mandatarios los miembros del Consejo Directivo, el Director General y los comisarios de la Institución.
+
+Las asambleas de los tenedores de certificados de aportación patrimonial de la serie “B”, serán dirigidas por un presidente que será designado por los asistentes a las mismas. El presidente designará a uno o dos escrutadores, según lo estime conveniente, quienes harán el recuento de los certificados representados e informarán sobre ello a la asamblea.
+
+Fungirá como secretario o prosecretario de las asambleas, el secretario y el prosecretario respectivamente, del Consejo Directivo.
+
+La convocatoria para la asamblea de tenedores de certificados de aportación patrimonial de la serie “B”, deberá contener el orden del día, debiendo listarse todos los asuntos a tratar, incluso los comprendidos en el rubro de asuntos generales y será firmado por quien haya efectuado la convocatoria.
+
+Para que la asamblea sesione válidamente se deberá contar con la representación de la mayoría de los certificados de aportación patrimonial de la serie “B”, suscritos y pagados, tomándose por mayoría de votos las resoluciones, considerando un voto por cada certificado. Si no se reúne el número de certificados señalados, se hará una segunda y última convocatoria.
+
+Cuando la asamblea se realice en virtud de la segunda convocatoria, podrá sesionar con los tenedores que concurran y sus acuerdos serán válidos, siempre que se adopten por mayoría de votos presentes. Al hacer la segunda convocatoria, se expresará esta circunstancia y el orden del día será igual al de la primera convocatoria.
+
+Lo tratado y resuelto por la asamblea se asentará en actas que obrarán en el libro respectivo y serán firmadas por quien presida la sesión y por el secretario o prosecretario, según sea el caso.
+
+Las copias certificadas que de las actas se expidan, llevarán la firma del secretario o prosecretario. Las resoluciones legalmente adoptadas por la asamblea de tenedores de certificados de aportación patrimonial de la serie “B”, serán obligatorias aun para los ausentes o disidentes.
 
 ###### Artículo 27.
 
-El Secretario Técnico tiene las funciones siguientes:
+El órgano de vigilancia de la Institución, estará integrado por dos comisarios nombrados uno, por la Secretaría de Contraloría y Desarrollo Administrativo, teniendo a su cargo las atribuciones que le confiere el Capítulo VI de la Ley Federal de las Entidades Paraestatales y las demás disposiciones aplicables, y el otro, por los consejeros de la serie "B", a propuesta de los tenedores de la misma serie. Por cada comisario se nombrará el respectivo suplente.
 
-I. Convocar a las sesiones, con la antelación debida, a los integrantes del Comité;
+Para ser comisario de la serie “B”, será necesario cumplir con los siguientes requisitos:
 
-II. Remitir oportunamente, la convocatoria y documentos necesarios para el desahogo de las sesiones;
+I. Tener experiencia en materia contable, financiera y administrativa, y
 
-III. Verificar la asistencia de los miembros del Comité a las sesiones;
-
-IV. Comunicar al presidente la existencia del quórum legal;
-
-V. Someter a consideración de los integrantes del Comité la aprobación del orden del día, así como las actas de la sesión anterior y los acuerdos tomados:
-
-VI. Elaborar y proponer al Comité el calendario anual de sesiones ordinarias; y
-
-VII. Las demás que le confiera el Comité.
+II. No ubicarse en los supuestos señalados en el artículo 19 de la Ley Orgánica de la Institución.
 
 ###### Artículo 28.
 
-Los Vocales tienen las facultades y obligaciones siguientes:
+Para el cumplimiento de las facultades y obligaciones que la ley les confiere, los comisarios podrán ejercer conjunta o separadamente las funciones siguientes:
 
-I. Asistir y participar en las sesiones;
+I. Solicitar al Director General información mensual que incluya por lo menos un estado de la situación financiera y un estado de resultados de la Institución;
 
-II. Intervenir en las discusiones;
+II. Realizar un examen de las operaciones, documentación, registro y demás constancias, en el grado y extensión que sea necesario para efectuar la vigilancia interna de la Institución y para rendir fundadamente el dictamen a que se refiere la siguiente fracción;
 
-III. Realizar las sugerencias necesarias para el buen funcionamiento del Comité;
+III. Rendir anualmente al Consejo Directivo un informe respecto a la veracidad, suficiencia y razonabilidad de la información presentada por el Director General al propio Consejo Directivo debiendo incluir su opinión sobre si las políticas y criterios contables y de información seguidos por la Institución, son adecuados y suficientes de conformidad con lo dispuesto por la Ley de Instituciones de Crédito, si su aplicación es consistente en la información presentada al Consejo Directivo, y si como consecuencia dicha información refleja en forma veraz y suficiente la situación financiera y de resultados de la Institución;
 
-IV. Desempeñar las comisiones o actividades que el Comité les asigne;
+IV. Hacer que se inserten en el orden del día de las sesiones del Consejo Directivo, los puntos que consideren pertinentes;
 
-V. Vigilar el cumplimiento de los acuerdos tomados por el Comité en el ámbito de su competencia: y
+V. Asistir con voz, pero sin voto, a todas las sesiones del Consejo Directivo, a las cuales deberán ser convocados, y
 
-VI. Sugerir al Presidente los asuntos que deban tratarse en las sesiones ordinarias del Comité.
+VI. Vigilar en cualquier tiempo las operaciones de la Institución.
+
+La actuación de los comisarios se sujetará en todo tiempo a lo previsto por los artículos 117 y 118 de la Ley de Instituciones de Crédito.
 
 ###### Artículo 29.
 
-Los Comités de Defensores Municipales deben celebrar cuando menos una sesión ordinaria trimestral y las extraordinarias que sean necesarias, cuando las convoquen el presidente o por lo menos la tercera parte de sus miembros.
+El comisario designado por la Secretaría de Contraloría y Desarrollo Administrativo durará en su cargo hasta en tanto no sea revocado su nombramiento, y el designado por los consejeros de la serie “B”, por el término de un ejercicio social, pudiendo ser nombrado nuevamente.
+
+La designación y remoción del comisario de la serie “B”, se resolverá de común acuerdo por los consejeros de dicha serie, previa propuesta de los tenedores de certificados de la serie “B”, aprobada con el acuerdo de la mayoría de los mismos, conforme al artículo 26 fracción V de este Reglamento Orgánico.
+
+El comisario designado conforme al párrafo anterior, continuará en el desempeño de sus funciones, aun cuando concluya el periodo para el que haya sido nombrado, mientras no se haga nueva designación y el sustituto tome posesión de su cargo.
 
 ###### Artículo 30.
 
-Para que los Comités de Defensores Municipales puedan sesionar válidamente, es necesaria la asistencia de la mayoría de sus integrantes, entre los que debe estar el presidente.
+La Institución contará con un órgano interno de control, cuyo titular será designado por la Secretaría de Contraloría y Desarrollo Administrativo en los términos del artículo 37 fracción XII de la Ley Orgánica de la Administración Pública Federal, quien en el ejercicio de sus facultades, se auxiliará por los titulares de las áreas de auditoría, quejas y responsabilidades, designados en los mismos términos.
+
+Los servidores públicos a que se refiere el párrafo anterior, en el ámbito de sus respectivas competencias, ejercerán las facultades previstas en la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales, la Ley Federal de Responsabilidades de los Servidores Públicos y en los demás ordenamientos legales y administrativos aplicables, conforme a lo previsto por el artículo 47 fracciones III y IV del Reglamento Interior de la Secretaría de Contraloría y Desarrollo Administrativo.
+
+Las ausencias del titular del órgano interno de control, serán suplidas conforme a lo previsto por el artículo 54 segundo y tercer párrafos del Reglamento Interior de la Secretaría de Contraloría y Desarrollo Administrativo.
 
 ###### Artículo 31.
 
-Los Comités de Defensores Municipales deben tomar sus acuerdos por mayoría de votos, y en caso de empate, el Presidente tiene voto de calidad.
+El ejercicio social comprenderá un año natural, contado a partir del 1 de enero al 31 de diciembre de cada año.
 
 ###### Artículo 32.
 
-Los Comités de Defensores Municipales establecerán su sede en el domicilio de la Visitaduría General correspondiente.
+Con la autorización expresa de la Secretaría de Hacienda y Crédito Público, la Institución deberá constituir las reservas y fondos necesarios para el adecuado cumplimiento de su objeto. En los términos del artículo 34 de la Ley Orgánica de la Institución, por lo menos se constituirán las siguientes reservas:
+
+Por lo menos un 10% para constituir el fondo de reserva legal, hasta que dicha reserva alcance un importe por lo menos igual al capital social pagado;
+
+Hasta un 20% de los pasivos a cargo de la Institución en moneda extranjera, y
+
+La cantidad que determine la Secretaría de Hacienda y Crédito Público para constituir e incrementar otras reservas.
+
+Fijado el monto del remanente de operación y separada la cantidad que corresponda pagar por el impuesto respectivo y por la participación de los trabajadores en las utilidades de la Institución, el saldo se aplicará de la siguiente manera:
+
+Del remanente se tomará la cantidad que el Consejo Directivo acuerde destinarse a ser distribuida como dividendo entre los tenedores de certificados de aportación patrimonial a prorrata, y
+
+El saldo, si lo hubiere, se aplicará en la forma que acuerde el Consejo Directivo.
 
 ## TÍTULO QUINTO. DE LAS RESPONSABILIDADES
 
@@ -393,96 +603,62 @@ Los Comités de Defensores Municipales establecerán su sede en el domicilio de 
 
 ###### Artículo 33.
 
-Los servidores públicos adscritos a las Defensorías Municipales serán responsables por el incumplimiento a las disposiciones señaladas en el presente Reglamento, en términos de lo establecido en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
+El Consejo Directivo acordará la fecha en la cual los tenedores de los certificados de aportación patrimonial podrán cobrar los dividendos que les correspondan y mandará anunciar oportunamente la fecha y el monto de los dividendos acordados, mediante publicación en un periódico de amplia circulación en la República Mexicana.
 
-###### Articulo 34.
+Si algún tenedor de certificados de aportación patrimonial no cobra los dividendos que le correspondan en el término de cinco años contados a partir de la fecha designada por el Consejo Directivo, se considerará prescrito su derecho de conformidad con lo dispuesto por el artículo 1045 del Código de Comercio y los mismos pasarán a favor de la Institución.
 
-Los Defensores Municipales deben informar al titular del Órgano de Control Interno Municipal, sobre presuntas irregularidades administrativas en que incurran los servidores públicos adscritos a las Defensorías Municipales y de aquellos que se relacionen con el funcionamiento de la misma, para que en el ejercicio de sus atribuciones, determinen lo que con estricto apego a derecho corresponda.
+###### Artículo 34.
+
+El presente Reglamento Orgánico sólo será modificado a propuesta del Consejo Directivo y por acuerdo de la Secretaría de Hacienda y Crédito Público.
 
 ## TRANSITORIOS
 
-###### ARTÍCULO PRIMERO.
+###### ARTICULO PRIMERO.
 
-Publíquese el presente Reglamento en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México "Gaceta del Gobierno", así como en la Gaceta de Derechos Humanos órgano oficial de difusión del Organismo.
+Este Reglamento Orgánico entrará en vigor el día 1 de enero de 2002.
 
-###### ARTÍCULO SEGUNDO.
+###### ARTICULO SEGUNDO.
 
-El presente Reglamento de Organización y Funcionamiento de las Defensorías Municipales de Derechos Humanos del Estado de México, entrará en vigor a los quince días hábiles siguientes a su publicación en la "Gaceta del Gobierno".
+El presente Reglamento Orgánico abroga el Estatuto Orgánico del Patronato del Ahorro Nacional, publicado en el Diario Oficial de la Federación el día 18 de octubre de 2000.
 
-###### ARTÍCULO TERCERO.
+###### ARTICULO TERCERO.
 
-Las Visitadurías Generales de la Comisión de Derechos Humanos del Estado de México, deberán instalar los Comités Municipales a que se refieren los artículos 22, 23 y 24 dentro de los treinta días hábiles siguientes a la entrada en vigor de este Reglamento.
+Para efectos administrativos, el Banco del Ahorro Nacional, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, contará con un plazo de 180 días naturales contados a partir de la fecha de entrada en vigor de este Reglamento Orgánico para ajustar su funcionamiento a las disposiciones contenidas en el mismo.
 
-###### ARTÍCULO CUARTO.
+###### ARTICULO CUARTO.
 
-Se instruye a la Dirección General de Administración y Finanzas de la Comisión de Derechos Humanos del Estado de México, para realizarlas acciones necesarias a fin de actualizar el Manual General de Organización de ese Organismo, dentro de los sesenta días hábiles siguientes a la entrada en vigor del presente ordenamiento.
+El capital pagado de la Institución a la vigencia del presente Reglamento Orgánico, asciende a la suma de $660´000,000.00 (seiscientos sesenta millones de pesos 00/100 M.N.), el cual está distribuido en 435,600 (cuatrocientos treinta y cinco mil seiscientos) certificados de aportación patrimonial de la serie "A", con un valor nominal de $1,000.00 (mil pesos 00/100 M.N.) cada uno y por 224,400 (doscientos veinticuatro mil cuatrocientos) certificados de aportación patrimonial de la serie "B", con un valor nominal de $1,000.00 (mil pesos 00/100 M.N.).
 
-Así lo acordaron y firmaron los C.C. integrantes del Consejo Consultivo de la Comisión de Derechos Humanos del Estado de México, en la Segunda Sesión Ordinaria de fecha cuatro de febrero del año dos mil diez.
+El presente Reglamento Orgánico se expide en la Ciudad de México, Distrito Federal, a los veintisiete días del mes de noviembre de dos mil uno.- El Secretario de Hacienda y Crédito Público, José Francisco Gil Díaz.- Rúbrica.
 
-M. en D. Marco Antonio Morales Gómez
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
-COMISIONADO Y PRESIDENTE DEL CONSEJO CONSULTIVO DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO
+D.O.F. 17 DE SEPTIEMBRE DE 2004.
 
-(RUBRICA).
+PRIMERO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
-Lic. José Antonio Ortega Sánchez
+SEGUNDO.- De conformidad con lo establecido por el cuarto párrafo del artículo 30 de la Ley de Instituciones de Crédito, inscríbanse las modificaciones al Reglamento Orgánico del Banco del Ahorro Nacional y Servicios Financieros, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, en el Registro Público de Comercio.
 
-CONSEJERO CIUDADANO
+D.O.F. 6 DE MARZO DE 2009.
 
-(RUBRICA).
+PRIMERO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
-M. en D. María del Rosario Mejía Ayala
+SEGUNDO.- De conformidad con lo establecido por el último párrafo del artículo 30 de la Ley de Instituciones de Crédito, el Banco del Ahorro Nacional y Servicios Financieros, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, deberá inscribir en el Registro Público de Comercio, las modificaciones que por virtud del presente acuerdo, se realicen a su Reglamento Orgánico.
 
-CONSEJERA CIUDADANA
+D.O.F. 24 DE NOVIEMBRE DE 2009.
 
-(RUBRICA).
+PRIMERO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
-C. Diana Mancilla Álvarez
+SEGUNDO.- De conformidad con lo establecido por el último párrafo del artículo 30 de la Ley de Instituciones de Crédito, el Banco del Ahorro Nacional y Servicios Financieros, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, deberá inscribir en el Registro Público de Comercio, las modificaciones que por virtud del presente acuerdo, se realicen a su Reglamento Orgánico.
 
-CONSEJERA CIUDADANA
+D.O.F. 28 DE OCTUBRE DE 2010.
 
-(RUBRICA).
+PRIMERO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
-Dr. Juan María Parent Jacquemin
+SEGUNDO.- De conformidad con lo establecido por el último párrafo del artículo 30 de la Ley de Instituciones de Crédito, el Banco del Ahorro Nacional y Servicios Financieros, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, deberá inscribir en el Registro Público de Comercio las modificaciones que por virtud del presente acuerdo se realicen a su Reglamento Orgánico.
 
-CONSEJERO CIUDADANO
+D.O.F. 21 DE ENERO DE 2011.
 
-(RUBRICA).
+PRIMERO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
-C. Juliana Felipa Arias Calderón
-
-CONSEJERA CIUDADANA
-
-(RUBRICA).
-
-Lic. Rosa María Molina de Pardiñas
-
-SECRETARIA GENERAL Y SECRETARIA TÉCNICA DEL CONSEJO CONSULTIVO DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO
-
-(RUBRICA).
-
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
-
-G.G. 5 DE OCTUBRE DE 2011.
-
-Artículo primero. Publíquese el presente Acuerdo en el Periódico Oficial del Gobierno del Estado de México "Gaceta del Gobierno" y en la Gaceta de Derechos Humanos órgano informativo de la Comisión.
-
-Artículo segundo. Este Acuerdo entrará en vigor a los diez días hábiles siguientes a su publicación en el Periódico Oficial del Gobierno del Estado de México "Gaceta del Gobierno".
-
-Artículo tercero. La Visitaduría General Sede Ecatepec, deberá instalar el Comité de Defensores Municipales a que se refieren los artículos 22, 23 y 24 del Reglamento de Organización y Funcionamiento de las Defensorías Municipales de Derechos Humanos del Estado de México, dentro de los treinta días hábiles siguientes a la entrada en vigor del presente Acuerdo.
-
-Artículo cuarto. Derivado de la redistribución de la competencia de las Visitadurías Generales de esta Defensoría de Habitantes, se faculta a los Visitadores Generales para hacer las modificaciones correspondientes en los Comités de Defensores Municipales de Derechos Humanos, para su debido funcionamiento, de conformidad con lo establecido en el Reglamento Interno de la Comisión de Derechos Humanos del Estado de México.
-
-G.G. 11 DE JULIO DE 2012.
-
-PRIMERO.- Publíquense las presentes modificaciones en el Periódico Oficial del Gobierno del Estado de México "Gaceta del Gobierno" y en la Gaceta de Derechos Humanos órgano informativo de la Comisión.
-
-SEGUNDO.- Estas modificaciones entrarán en vigor a los 10 días hábiles siguientes a su publicación en el Periódico Oficial del Gobierno del Estado de México "Gaceta del Gobierno".
-
-TERCERO.- Toda disposición reglamentaria o administrativa que haga referencia a la Unidad de Información y Planeación Estratégica, se entenderá que es a la Unidad de Información, Planeación y Evaluación.
-
-CUARTO.- La Visitaduría General sede Atlacomulco y la Visitaduría General sede Naucalpan, deberán instalar los comités de defensores municipales a que se refieren los artículos 22, 23 y 24 del Reglamento de Organización y Funcionamiento de las Defensorías Municipales de Derechos Humanos del Estado de México, dentro de los veinte días hábiles siguientes a la entrada en vigor del presente documento.
-
-QUINTO.- Derivado de la redistribución de la competencia territorial de las visitadurías generales de esta Defensoría de Habitantes, se faculta a los visitadores generales a efecto de realizar las modificaciones correspondientes en los comités de defensores municipales de derechos humanos, para su debido funcionamiento, de conformidad con las disposiciones legales, reglamentarias y administrativas aplicables.
-
-SEXTO.- El Primer Visitador General, en el ejercicio de sus atribuciones y derivado de las presentes modificaciones, deberá prever lo necesario a efecto de que los expedientes de queja que se iniciaron con anterioridad a la entrada en vigor de las modificaciones en comento, en su caso, sean remitidos a la visitaduría que corresponda para su debida sustanciación, privilegiando en todo momento los derechos de los quejosos.
+SEGUNDO.- De conformidad con lo establecido por el último párrafo del artículo 30 de la Ley de Instituciones de Crédito, el Banco del Ahorro Nacional y Servicios Financieros, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, deberá inscribir en el Registro Público de Comercio las modificaciones que por virtud del presente acuerdo se realicen a su Reglamento Orgánico.
