@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2013-03-13"
+last_updated: "2013-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2013.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -91,6 +91,10 @@ Es derecho de todos los morelenses, acceder a la sociedad de la información y e
 > <small>(ADICIONADO, P.O. 30 DE MAYO DE 2012)</small>
 
 El Estado reconoce al turismo como base fundamental y prioritaria del desarrollo estatal, destinándole en el Presupuesto de Egresos recursos necesarios para el cumplimiento y desarrollo de los programas relacionados con el rubro. La ley secundaria determinará la forma y condiciones para su cumplimiento.
+
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2013)</small>
+
+En el Estado de Morelos se reconoce el derecho al acceso a la cultura y al disfrute de los bienes y servicios culturales. Será obligación del Estado promover los medios para la difusión y desarrollo de la cultura, atendiendo a la diversidad cultural en todas sus manifestaciones y expresiones, con pleno respeto a la libertad creativa. La Ley establecerá los mecanismos para el acceso, fomento y participación de cualquier manifestación cultural.
 
 > <small>(ADICIONADO, P.O. 20 DE JULIO DE 2005)</small>
 
@@ -1518,11 +1522,11 @@ En todo caso que el Gobernador por cualquier circunstancia no pueda otorgar la p
 
 DE LAS FACULTADES, OBLIGACIONES Y RESTRICCIONES DEL GOBERNADOR.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ABRIL DE 2013)</small>
 
 ###### Artículo 70.
 
-Son facultades y obligaciones del Gobernador del Estado:
+Son facultades del Gobernador del Estado:
 
 > <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1965)</small>
 
@@ -1618,9 +1622,9 @@ XX.- Como jefe de la Fuerza Pública Estatal, velar por la conservación del ord
 
 XXI.- Cuidar de la disciplina de la Guardia Nacional.
 
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2013)</small>
 
-XXII.- Ejecutar y vigilar el cumplimiento y obligación del Gobierno con la educación pública del Estado para que esta permanezca laica, gratuita y obligatoria desde el nivel preescolar, hasta el nivel de secundaria, aportando en forma gratuita los libros de texto correspondientes a cada nivel escolar.
+XXII.- Ejecutar y vigilar el cumplimiento y obligación del Gobierno con la educación pública del Estado para que esta permanezca laica, gratuita y obligatoria desde el nivel preescolar, primaria, secundaria, hasta la educación media superior, aportando en forma gratuita los libros de texto correspondientes a cada nivel escolar;
 
 > <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 1965)</small>
 
@@ -4305,3 +4309,29 @@ SÉPTIMO.- Las conductas antisociales del orden común o federal, cometidas con 
 OCTAVO.- El seguimiento de la ejecución de las sentencias dictadas por los Jueces Especializados o por el Magistrado del Tribunal, previo a la entrada en vigor del presente decreto, corresponderá a los Jueces de Ejecución que al efecto nombre el Magistrado titular del Tribunal Unitario de Justicia para Adolescentes, en el ejercicio de sus atribuciones.
 
 NOVENO.- Con el objeto de no dilatar la impartición de justicia, por esta única vez se faculta al Magistrado del Tribunal Unitario de Justicia para Adolescentes a nombrar al juez o jueces de ejecución que sean necesarios, previo examen de oposición, o ratificar los que hubiese nombrado conforme al artículo DÉCIMO PRIMERO transitorio de la LEY DE REINSERCIÓN SOCIAL Y SEGUIMIENTO DE MEDIDAS CAUTELARES.
+
+P.O. 10 DE ABRIL DE 2013.
+
+DECRETO NÚMERO 428 POR EL QUE SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 2° DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
+
+PRIMERO.- Aprobado que sea el presente Decreto en términos de lo dispuesto por la fracción I del artículo 147 de la Constitución Política del Estado Libre y Soberano de Morelos, remítase a los Ayuntamientos para que manifiesten su aprobación o desaprobación.
+
+SEGUNDO.- Una vez aprobado por el Constituyente Permanente, el presente Decreto iniciará su vigencia a partir de la publicación de la declaratoria correspondiente en el Periódico Oficial "Tierra y Libertad", órgano del Gobierno del Estado de Morelos.
+
+TERCERO.- En su oportunidad remítase al Poder Ejecutivo para su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado.
+
+P.O. 10 DE ABRIL DE 2013.
+
+DECRETO NÚMERO 429 POR EL QUE SE REFORMA LA FRACCIÓN XXII Y SE LE ADICIONA UN PÁRRAFO A LA MISMA, DEL ARTÍCULO 70 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
+
+Primero.- Una vez aprobado el presente decreto, remítase al Constituyente Permanente para su aprobación.
+
+Segundo.- Aprobado que sea el presente decreto, remítase al Ejecutivo del Estado para que realice la publicación correspondiente en el Periódico Oficial "Tierra y Libertad".
+
+Tercero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+Cuarto.- La obligatoriedad del Estado de garantizar la educación media superior, se ajustará a los términos previstos en el artículo segundo transitorio del decreto por el que se declara reformado el párrafo primero; el inciso c) de la fracción II y la fracción V del artículo 3o., y la fracción I del artículo 31 de la Constitución Política de los Estados Unidos Mexicanos de fecha 09 de febrero del 2012.
+
+Quinto.- Para dar cumplimiento al principio de obligatoriedad de la educación media superior, en los presupuestos estatal y municipales, se incluirán los recursos y mecanismos necesarios para contar con la infraestructura adecuada a fin de garantizar dicha obligatoriedad.
+
+Sexto.- Se derogan todas las disposiciones que se opongan al presente decreto.
