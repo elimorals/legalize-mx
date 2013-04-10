@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2013-03-31"
+last_updated: "2013-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE ABRIL DE 2013.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -65,9 +65,13 @@ CONSTITUCION POLITICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
 ## TITULO PRIMERO. PRINCIPIOS CONSTITUCIONALES
 
-1o.- El Estado de Baja California Sur es parte integrante de los Estados Unidos Mexicanos, y es Libre y Soberano en todo lo que concierne a su régimen interior, conforme a los preceptos de la Constitución General de la República.
+> <small>(REFORMADO, B.O. 10 DE ABRIL DE 2013)</small>
 
-2o.- La Constitución General de la República y esta Constitución son la ley suprema del Estado. Los ordenamientos que de ellas emanen forman la estructura jurídica del Estado de Baja California Sur.
+1o.- El Estado de Baja California Sur es parte integrante de los Estados Unidos Mexicanos, es libre y soberano en todo lo que concierne a su régimen interior, conforme a los preceptos de la Constitución General de la República, en el marco del respeto y protección a los derechos humanos reconocidos por la Constitución General de la República y Tratados Internacionales reconocidos y ratificados por el Estado Mexicano.
+
+> <small>(REFORMADO, B.O. 10 DE ABRIL DE 2013)</small>
+
+2o.- La Constitución General de la República, los Tratados Internacionales de los que el Estado Mexicano sea parte y esta Constitución son la Ley suprema del Estado. Los ordenamientos que de ellas emanen, forman la estructura jurídica del Estado de Baja California Sur.
 
 3o.- Las autoridades y funcionarios del Estado, no tienen más facultades que las que expresamente les concede esta Constitución, la General de la República y las leyes que de ellas emanen.
 
@@ -83,95 +87,229 @@ CONSTITUCION POLITICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
 ## TITULO SEGUNDO. DE LOS DERECHOS HUMANOS Y SUS GARANTIAS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, B.O. 10 DE ABRIL DE 2013)</small>
 
-7o.- En el Estado de Baja California Sur todas las personas gozarán de los derechos humanos que reconoce la Constitución General de la República, los tratados internacionales de los que el Estado Mexicano sea parte y esta Constitución, cuyo ejercicio no podrá restringirse ni suspenderse, salvo en los casos y con las condiciones que ella misma establece.
+7o.- En el Estado de Baja California Sur todas las personas gozarán de los derechos humanos reconocidos por la Constitución General de la República, los Tratados Internacionales de los que el Estado Mexicano sea parte y los contemplados en esta Constitución, sin distinción alguna, cuyo ejercicio no podrá restringirse ni suspenderse, salvo en los casos y bajo las condiciones que estos mismos se establecen.
 
-Igual protección asume respecto de los derechos fundamentales que, en ejercicio de su soberanía, consagra en este Cuerpo Constitucional.
-
-> <small>(ADICIONADO, B.O. 10 DE NOVIEMBRE DE 2012)</small>
+Igual protección asume respecto de los derechos fundamentales, en ejercicio de su soberanía, y que se reconocen en este cuerpo Constitucional.
 
 Las normas relativas a los derechos humanos se interpretarán de conformidad con la Constitución General de la República, los tratados internacionales de la materia y esta Constitución favoreciendo en todo tiempo a las personas la protección más amplia.
 
-> <small>(ADICIONADO, B.O. 10 DE NOVIEMBRE DE 2012)</small>
+Todas las autoridades, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. En consecuencia, el Estado deberá prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos que establezcan las leyes respectivas.
 
-Todas las autoridades, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. En consecuencia, el Estado deberá prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos que establezca la ley.
+Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
-> <small>(REFORMADO, B.O. 10 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO, B.O. 10 DE ABRIL DE 2013)</small>
 
-8o.- Los habitantes del Estado tienen todos los derechos y libertades consagrados en esta Constitución, la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales de los que nuestro País es parte, sin distinción alguna.
+8o.- Todo hombre y mujer serán sujetos de iguales derechos y obligaciones ante la Ley.
 
-Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, discapacidad, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias, el estado civil o cualquier otra que atente contra la dignidad humana o tenga por objeto anular o menoscabar los derechos o libertad de las personas.
+> <small>(REFORMADO, B.O. 10 DE ABRIL DE 2013)</small>
 
-9o.- Todo hombre y mujer serán sujetos de iguales derechos y obligaciones ante la ley.
+9o.- Todos los habitantes del Estado tienen derecho a casarse y fundar una familia. Disfrutarán de iguales derechos y obligaciones en cuanto al matrimonio, durante el matrimonio y en caso de disolución del mismo.
 
-10.- Todos los habitantes del Estado, tienen derecho a casarse y fundar una familia. Disfrutarán de iguales derechos y obligaciones en cuanto al matrimonio, durante el matrimonio y en caso de disolución del mismo.
+El matrimonio y la familia constituyen la base fundamental de la comunidad; consecuentemente, el hogar, la maternidad y la infancia serán objeto de especial protección por parte de las autoridades.
 
-> <small>(REFORMADO, B.O. 20 DE MAYO DE 1985)</small>
-
-11.- El matrimonio y la familia constituyen la base fundamental de la comunidad; consecuentemente, el hogar, la maternidad y la infancia serán objeto de especial protección por parte de las autoridades.
-
-Todos los niños nacidos de matrimonio o fuera de él, tienen derecho a igual protección y a ser inscritos en el Registro Civil.
+Todos los niños nacidos de matrimonio o fuera del mismo, tienen derecho a igual protección y a ser inscritos en el Registro Civil.
 
 Es derecho correlativo a la calidad de padres, la determinación libre, informada y responsable, acerca del número y espaciamiento de los hijos y su educación, como deber supremo ante la sociedad.
 
-Toda medida o disposición protectoras de las familias y la niñez se consideran de orden público.
+Toda medida o disposición protectora de la familia y la niñez se considera de orden público.
 
-12.- La educación será motivo de especial atención del Estado, asumiendo el ejercicio de todas las atribuciones que le confieren el artículo 3o. de la Constitución General de la República y sus disposiciones reglamentarias. Su orientación descansará en los principios señalados en dicho precepto y en el desenvolvimiento integral y racional de los recursos socioeconómicos del Estado.
+> <small>(REFORMADO, B.O. 10 DE ABRIL DE 2013)</small>
 
-> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2012)</small>
+10.- La educación será motivo de especial atención del Estado, asumiendo el ejercicio de todas las atribuciones que le confieren el Artículo 3o. de la Constitución General de la República y sus disposiciones reglamentarias. Su orientación será conforme al marco del respeto a los derechos humanos y a los principios señalados en dicho precepto, y en el desenvolvimiento integral y racional de los recursos socioeconómicos del Estado.
 
-13.- Todos los habitantes del Estado tienen derecho a recibir educación. El Estado y Municipios impartirán educación preescolar, primaria, secundaria y media superior. La educación preescolar, primaria y secundaria conforman la educación básica; ésta y la media superior serán obligatorias. La educación que impartan el Estado y Municipios será gratuita.
+Todos los habitantes del Estado tienen derecho a recibir educación. El Estado y Municipios impartirán educación preescolar, primaria, secundaria y media superior. La educación preescolar, primaria y secundaria conforman la educación básica; ésta y la media superior serán obligatorias. La educación que impartan el Estado y Municipios será gratuita y tenderá a desarrollar armónicamente, todas las facultades del ser humano y fomentará en él, a la vez, el amor a la Patria, el respeto a los derechos humanos y la conciencia de la solidaridad internacional, en la Independencia y en la justicia.
 
-14.- La propiedad privada se respetará y garantizará en el Estado, con las modalidades que para su ejercicio, como función social, le impone el artículo 27 de la Constitución General de la República, buscando el aprovechamiento racional de los recursos naturales susceptibles de apropiación, para propiciar la distribución equitativa de la riqueza pública, preservar su conservación y coadyuvar al progreso social.
+> <small>(REFORMADO, B.O. 10 DE ABRIL DE 2013)</small>
+
+11.- La propiedad privada se respetará y garantizará en el Estado, con las modalidades que para su ejercicio, como función social, le impone el Artículo 27 de la Constitución General de la República, buscando el aprovechamiento racional de los recursos naturales susceptibles de apropiación, para propiciar la distribución equitativa de la riqueza pública, preservar su conservación y coadyuvar al progreso social.
 
 Las expropiaciones sólo podrán hacerse por causa de utilidad pública y mediante indemnización.
 
-Las autoridades estatales, asumirán el ejercicio de todas las atribuciones que le confiere el artículo 27 de la Constitución General de la República y sus disposiciones reglamentarias, en favor de los núcleos de población interesados.
-
-> <small>(ADICIONADO, B.O. 31 DE MARZO DE 2013)</small>
+Las autoridades Estatales asumirán el ejercicio de todas las atribuciones que les confiere el Artículo 27 de la Constitución General de la República y sus disposiciones reglamentarias, en favor de los núcleos de población interesados.
 
 En materia de Asentamientos Humanos y Desarrollo Urbano, contemplando el interés de la Sociedad en su conjunto, el Estado preverá el mejor uso del suelo y las aguas, cuidando su conservación y estableciendo adecuadas provisiones, usos, reservas territoriales, orientando el destino de tierras y aguas de jurisdicción estatal a fin de garantizar a la población un mejor desarrollo urbano, imponiendo a la propiedad privada las modalidades que dicte el interés Público determinándose que no estarán permitidos en el Estado los usos de suelo y edificaciones para establecerse ni funcionar ninguna casa, o lugar abierto o cerrado, en que se practiquen juegos con apuestas ni sorteos, de ninguna clase y similar.
 
-> <small>(ADICIONADO, B.O. 31 DE MARZO DE 2013)</small>
-
 El Ejecutivo Estatal deberá formular, aprobar y administrar el Programa Estatal de Desarrollo Urbano, así como participar conjunta y coordinadamente con los Municipios, en la planeación y regulación de las zonas conurbadas, en los términos que señale la legislación correspondiente. El Programa deberá establecer las prohibiciones que la presente Constitución y las Leyes que de ella emanan establecen.
-
-> <small>(ADICIONADO, B.O. 31 DE MARZO DE 2013)</small>
 
 Los Municipios del Estado deberán formular, aprobar y administrar los Planes y Programas Municipales de Desarrollo Urbano, de centros de población y los demás derivados de los mismos; así como, participar en la planeación y regulación de las zonas conurbadas, conjunta y coordinadamente con el Ejecutivo, conforme a la legislación correspondiente. Los programas deberán establecer las prohibiciones que la presente Constitución y las Leyes que de ella emanan establecen.
 
-15.- Las leyes locales organizarán el patrimonio familiar, determinando los bienes que deban constituirlo, sobre la base de que será inalienable y no estará sujeto a embargo ni gravamen alguno.
+Las Leyes locales organizarán el patrimonio familiar, determinando los bienes que deban constituirlo, sobre la base que será inalienable y no estará sujeto a embargo ni gravamen alguno.
 
-16.- Las autoridades estatales organizarán, coordinarán y fomentarán la vida económica de la entidad, para asegurar a todos los habitantes una existencia digna, tomando en consideración que los factores de la producción garantizan la justicia social.
+> <small>(REFORMADO, B.O. 10 DE ABRIL DE 2013)</small>
 
-17.- El trabajo es un derecho del individuo y un deber del individuo para con la sociedad. En consecuencia, el Estado protegerá en beneficio de los trabajadores, el cumplimiento de los derechos y prerrogativas establecidos en el artículo 123 de la Constitución General de la República.
+12.- Las Autoridades Estatales organizarán, coordinarán y fomentarán la vida económica de la entidad, para asegurar a todos los habitantes una existencia digna, tomando en consideración que los factores de la producción garantizan la justicia social.
 
-> <small>(REFORMADO, B.O. 10 DE SEPTIEMBRE DE 1984)</small>
+El trabajo es un derecho del individuo y un deber del individuo para con la sociedad. En consecuencia, el Estado protegerá, en beneficio de los trabajadores, el cumplimiento de los derechos y prerrogativas establecidos en el Artículo 123 de la Constitución General de la República.
 
-18.- Todos los habitantes del Estado tienen derecho a la protección de la salud y seguridad sociales teniendo como objetivo la permanente superación del nivel de vida de la población y el saneamiento del medio ambiente.
+> <small>(REFORMADO, B.O. 10 DE ABRIL DE 2013)</small>
 
-La Ley definirá las bases y modalidades para el acceso a los servicios de salud proporcionados por el Estado.
+13.- Todos los habitantes del Estado tienen derecho a la protección de la salud y seguridad social, teniendo como objetivo la permanente superación del nivel de vida de la población y el saneamiento del medio ambiente.
 
-> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2012)</small>
+Las leyes aplicables definirán las bases y modalidades para el acceso a los servicios de salud proporcionados por el Estado.
 
-19.- Todos los habitantes del Estado tienen derecho a participar en la vida cultural, artística, científica y tecnológica de la comunidad y en los beneficios que de ello resulten.
+Todos los habitantes del Estado tienen derecho a participar en la vida cultural, artística, científica y tecnológica de la comunidad y en los beneficios que de ello resulten.
 
-Toda persona tiene derecho a la cultura física y a la práctica del deporte. Corresponde a las autoridades Estatales y Municipales su estímulo, fomento, desarrollo, fortalecimiento, protección y garantía conforme a las leyes de la materia.
+Toda persona tiene derecho a la cultura física y a la práctica del deporte. Corresponde a las autoridades Estatales y Municipales su estimulo, fomento, desarrollo, fortalecimiento, protección y garantía conforme a las leyes de la materia.
 
-> <small>(REFORMADO, B.O. 20 DE FEBRERO DE 1988)</small>
+> <small>(REFORMADO, B.O. 10 DE ABRIL DE 2013)</small>
 
-20.- Ninguna persona podrá hacerse justicia por sí misma, ni ejercer violencia para reclamar su derecho.
+14.- A nadie se le podrá aplicar una ley retroactivamente en su perjuicio.
+
+Nadie podrá ser privado de la libertad o de sus propiedades, posesiones o derechos, sino mediante juicio seguido ante los tribunales previamente establecidos, en el que se cumplan las formalidades esenciales del procedimiento y conforme a las Leyes expedidas con anterioridad al hecho.
 
 Toda persona tiene derecho a que se le administre justicia por tribunales que estarán expeditos para impartirla en los plazos y términos que fijen las leyes, emitiendo sus resoluciones de manera pronta, completa e imparcial. Su servicio será gratuito, quedando, en consecuencia, prohibidas las costas judiciales.
 
+Queda estrictamente prohibida la creación de leyes o tribunales especiales para casos concretos. Las leyes del Estado establecerán los medios necesarios para que se garantice la independencia de los Tribunales y la plena ejecución de sus resoluciones.
+
+En los juicios del orden penal queda prohibido imponer, por simple analogía, y aún por mayoría de razón, pena alguna que no esté decretada por una ley exactamente aplicable al delito de que se trata.
+
+En los juicios del orden civil, la sentencia definitiva deberá ser conforme a la letra o a la interpretación jurídica de la ley, y a falta de ésta se fundará en los principios generales del derecho.
+
 Nadie puede ser aprisionado por deudas de carácter puramente civil.
 
-Queda prohibida la pena de muerte y cualquiera otras penas inusitadas y trascendentales.
+> <small>(REFORMADO, B.O. 10 DE ABRIL DE 2013)</small>
 
-Toda persona reducida a prisión tiene derecho a la readaptación social, y los beneficios que de ella resulten, sobre las bases del trabajo, la capacitación para el mismo, la educación y la reestructuración de su personalidad, inspirados en un criterio de defensa social, eliminando todo concepto de venganza colectiva, con el objeto de restablecer su dignidad.
+15.- Nadie puede ser molestado en su persona, familia, domicilio, papeles o posesiones, sino en virtud de mandamiento de la autoridad competente, que funde y motive la causa legal de procedimiento.
 
-El Gobierno del Estado establecerá instituciones especiales para el tratamiento de menores infractores.
+No podrá librarse orden de aprehensión sino por la autoridad judicial y sin que preceda denuncia o querella de un hecho que la ley señale como delito, sancionado con pena privativa de libertad y obren datos que estimen la existencia de un hecho que la ley señala como delito, así como la probabilidad de que el imputado lo cometió o participó en su comisión. La autoridad que ejecute una orden judicial de aprehensión, deberá poner al imputado a disposición del juez, sin dilación alguna y bajo su más estricta responsabilidad. La contravención será sancionada por la ley penal.
+
+Cualquier persona puede detener al indiciado en el momento en que esté cometiendo un delito o inmediatamente después de haberlo cometido, poniéndolo sin demora a disposición de la autoridad más cercana y ésta con la misma prontitud, a la del Ministerio Público. Existirá un registro inmediato de la detención.
+
+Sólo en casos urgentes, cuando se trate de delito grave así calificado por la ley y ante el riesgo fundado de que el imputado pueda sustraerse a la acción de la justicia, siempre y cuando no se pueda ocurrir ante la autoridad judicial por razón de la hora, lugar o circunstancia, el Ministerio Público podrá, bajo su responsabilidad, ordenar su detención, fundando y expresando los indicios que motiven su proceder.
+
+Ningún indiciado podrá ser retenido por el Ministerio Público por más de cuarenta y ocho horas, plazo en que deberá ordenarse su libertad o ponérsele a disposición de la autoridad judicial; Todo abuso a lo anteriormente dispuesto será sancionado por la ley penal.
+
+El Ministerio Público podrá solicitar una orden de cateo a la autoridad judicial, especificando el objeto de la misma. Dicha orden deberá expresar el lugar que ha de inspeccionarse, la persona o personas que hayan de aprehenderse, los objetos que se buscan, a lo que debe limitarse únicamente la diligencia, levantándose al concluirla un acta circunstanciada en presencia de dos testigos propuestos por el ocupante del lugar cateado, o en su ausencia o negativa, por la autoridad que practique la diligencia.
+
+Las comunicaciones privadas son inviolables, y la contravención a esta disposición será sancionada por la ley penal, excepto cuando algún particular presente de manera voluntaria una comunicación privada donde haya tenido intervención directa. El juez valorará el alcance de éstas, siempre y cuando contengan información relacionada con la comisión de un delito. El Procurador General de Justicia del Estado podrá solicitar a la autoridad judicial federal la intervención de comunicaciones privadas.
+
+El Poder Judicial del Estado contará con jueces de control, quienes resolverán de manera inmediata, y por cualquier medio, las providencias precautorias, medidas cautelares y técnicas de investigación que requieran control judicial, garantizando el derecho de los imputados y de las víctimas u ofendidos. Asimismo, existirán registros fehacientes de comunicación entre jueces, Ministerio Público y demás autoridades competentes, para garantizar el otorgamiento, justificación y permanencia de estas medidas.
+
+> <small>(REFORMADO, B.O. 10 DE ABRIL DE 2013)</small>
+
+16.- Ninguna persona podrá hacerse justicia por sí misma, ni ejercer violencia para reclamar su derecho.
+
+Las leyes preverán mecanismos alternativos de solución de controversias. En la materia penal asegurarán su aplicación y la reparación del daño y establecerán los casos en los que se requerirá supervisión judicial.
+
+El Estado garantizará la existencia de un servicio de defensoría pública de calidad para la población y asegurarán las condiciones para un servicio profesional de carrera para los defensores. Las percepciones de los defensores no podrán ser Inferiores a las que correspondan a los agentes del Ministerio Público.
+
+> <small>(REFORMADO, B.O. 10 DE ABRIL DE 2013)</small>
+
+17.- Sólo por delito que merezca pena privativa de libertad habrá lugar a prisión preventiva. El sitio de ésta será distinto del que se destinare para la extinción de las penas y estarán completamente separados.
+
+El sistema penitenciario se organizará sobre la base del respeto a los derechos humanos, el trabajo, la capacitación para el mismo, la educación, la salud y el deporte como medios para lograr la reinserción del sentenciado a la sociedad y procurar que no reincida en la comisión de algún delito, observando los beneficios que para él prevé la ley. Las mujeres compurgarán sus penas en lugares separados de los destinados a los hombres para tal efecto.
+
+El Estado podrá celebrar convenios para que los sentenciados por delitos del ámbito de su competencia extingan las penas en establecimientos penitenciarios dependientes de una jurisdicción diversa.
+
+Queda prohibida la pena de muerte y cualesquiera otras penas inusitadas y trascendentales. Toda pena deberá ser proporcional al delito que sancione y al bien jurídico afectado.
+
+> <small>(REFORMADO, B.O. 10 DE ABRIL DE 2013)</small>
+
+18.- El Estado establecerá un sistema integral de justicia que será aplicable a quienes se atribuya la realización de una conducta tipificada como delito por las leyes penales y tengan entre doce años cumplidos y menos de dieciocho años de edad, en el que se garanticen los derechos humanos y sus garantías que reconoce esta Constitución para todo individuo, así como aquellos derechos específicos que por su condición de personas en desarrollo les han sido reconocidos. Las personas menores de doce años que hayan realizado una conducta prevista como delito en la ley, solo serán sujetos a rehabilitación y asistencia social.
+
+La operación del sistema estará a cargo de instituciones, tribunales y autoridades especializados en la procuración e impartición de justicia para adolescentes. Se podrán aplicar las medidas de orientación, protección y tratamiento que amerite cada caso, atendiendo a la protección integral y el interés superior del adolescente.
+
+Las formas alternativas de justicia deberán observarse en la aplicación de este sistema, siempre que resulte procedente. En todos los procedimientos seguidos a los adolescentes se observará la garantía del debido proceso legal, así como la independencia entre las autoridades que efectúen la remisión y las que impongan las medidas. Éstas deberán ser proporcionales a la conducta realizada y tendrán como fin la reintegración social y familiar del adolescente, así como el pleno desarrollo de su persona y capacidades.
+
+El internamiento se utilizará solo como medida extrema y por el tiempo más breve que proceda, y podrá aplicarse únicamente a los adolescentes mayores de catorce años de edad, por la comisión de conductas antisociales calificadas como graves.
+
+> <small>(REFORMADO, B.O. 10 DE ABRIL DE 2013)</small>
+
+19.- El proceso penal será acusatorio y oral, y tendrá por objeto el esclarecimiento de los hechos, proteger al inocente, procurar que el culpable no quede impune y que los daños causados por el delito se reparen. Se regirá, en todas sus etapas, por los principios de publicidad, contradicción, concentración, continuidad e inmediación.
+
+Ninguna detención ante autoridad judicial podrá exceder del plazo de setenta y dos horas, a partir de que el indiciado sea puesto a su disposición, sin que se justifique con un auto de vinculación a proceso en el que se expresará: el delito que se impute al inculpado; el lugar, tiempo y circunstancias de ejecución, así como los datos que establezcan que se ha cometido un hecho que la ley señale como delito y que exista la probabilidad de que el imputado lo cometió o participó en su comisión.
+
+Todo proceso se seguirá forzosamente por el hecho o hechos delictivos señalados en el auto de vinculación a proceso. Si en la secuela de un proceso apareciere que se ha cometido un delito distinto del que se persigue, deberá ser objeto de investigación separada, sin perjuicio de que después pueda decretarse la acumulación, si fuere conducente.
+
+El plazo para dictar el auto de vinculación a proceso podrá prorrogarse únicamente a petición del imputado, en la forma que señale la ley procesal. La prolongación de la detención en su perjuicio será sancionada por la ley penal. La autoridad responsable del establecimiento en el que se encuentre internado el imputado, que dentro del plazo antes señalado no reciba copia autorizada del Auto de Vinculación a Proceso y del que decrete la prisión preventiva, o de la solicitud de prórroga del plazo constitucional, deberá llamar la atención del juez sobre dicho particular en el acto mismo de concluir el plazo y, si no recibe la constancia mencionada dentro de las tres horas siguientes, pondrá al indiciado en libertad.
+
+Todo maltrato en la aprehensión o en las prisiones, toda molestia que se infiera sin motivo legal, toda gabela o contribución, en las cárceles, son abusos que serán corregidos por las leyes y reprimidos por las autoridades.
+
+El Ministerio Público sólo podrá solicitar al juez la prisión preventiva cuando otras medidas cautelares no sean suficientes para garantizar la comparecencia del imputado en el juicio, el desarrollo de la investigación, la protección de la víctima, de los testigos o de la comunidad, así como cuando el imputado esté siendo procesado o haya sido sentenciado previamente por la comisión de un delito doloso. El juez ordenará la prisión preventiva, oficiosamente, en los casos de homicidio doloso, violación, secuestro, trata de personas, delitos cometidos con medios violentos como armas y explosivos, así como delitos graves que determine la ley en contra de la seguridad de la nación, el libre desarrollo dela (sic) personalidad y de la salud.
+
+La ley determinará los casos en los cuales el juez podrá revocar la libertad de los individuos vinculados a proceso.
+
+Todas las Audiencias se desarrollarán en presencia del Juez, sin que pueda delegar en ninguna persona las actuaciones procesales, el desahogo y la valoración de las pruebas, la cual deberá realizarse de manera libre y lógica.
+
+Para los efectos de la sentencia sólo se considerarán como prueba aquellas que hayan sido desahogadas en la audiencia de juicio. La ley establecerá las excepciones y los requisitos para admitir en juicio la prueba anticipada, que por su naturaleza requiera desahogo previo.
+
+El juicio se celebrará ante un Tribunal conformado por jueces que no hayan conocido del caso previamente. La presentación de los argumentos y los elementos probatorios se desarrollará de manera pública, contradictoria y oral. Ningún juzgador podrá tratar asuntos que estén sujetos a proceso con cualquiera de las partes sin que esté presente la otra, respetando en todo momento el principio de contradicción, salvo las excepciones que establezca la ley.
+
+La carga de la prueba para demostrar la culpabilidad corresponde a la parte acusadora, conforme lo establezca el tipo penal. Las partes tendrán igualdad procesal para sostener la acusación o la defensa, respectivamente.
+
+Una vez iniciado el proceso penal, siempre y cuando no exista oposición del inculpado, se podrá decretar su terminación anticipada en los supuestos y bajo las modalidades que determine la ley. Si el imputado reconoce ante la autoridad judicial, voluntariamente y con conocimiento de las consecuencias, su participación en el delito y existen medios de convicción suficientes para corroborar la imputación, el juez citará a audiencia de sentencia. La ley establecerá los beneficios que se podrán otorgar al inculpado cuando acepte su responsabilidad. El juez sólo condenará cuando exista convicción de la culpabilidad del procesado.
+
+Las sentencias que pongan fin a los procedimientos orales deberán ser explicadas en audiencia pública previa citación de las partes.
+
+Será nula cualquier prueba obtenida con violación de derechos fundamentales reconocidos por la Constitución Política de los Estados Unidos Mexicanos, por esta Constitución o por los Tratados Internacionales reconocidos y ratificados por el Estado Mexicano.
+
+En el Proceso Penal, tanto la víctima u ofendido, como el inculpado tienen derechos fundamentales reconocidos por la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y los Tratados Internacionales reconocidos y ratificados por el Estado Mexicano. A todo gobernado debe dársele a conocer los derechos que le asisten desde la primera intervención en el proceso penal.
+
+A. De los derechos de toda persona imputada:
+
+I. A que se presuma su inocencia mientras no se declare su responsabilidad mediante sentencia emitida por el juez de la causa;
+
+II. A declarar o a guardar silencio. Desde el momento de su detención se le harán saber los motivos de la misma y su derecho a guardar silencio, el cual no podrá ser utilizado en su perjuicio. Queda prohibida y será sancionada por la ley penal, toda incomunicación, intimidación o tortura. La confesión rendida sin la asistencia del defensor carecerá de todo valor probatorio;
+
+III. A que se le informe, tanto en el momento de su detención como en su comparecencia ante el Ministerio Público o el juez, los hechos que se le imputan y los derechos que le asisten.
+
+IV. Se le recibirán los testigos y demás pruebas pertinentes que ofrezca, concediéndosele el tiempo que la ley estime necesario al efecto y auxiliándosele para obtener la comparecencia de las personas cuyo testimonio solicite, en los términos que señale la ley;
+
+V. Será juzgado en audiencia pública por un juez o tribunal. La publicidad sólo podrá restringirse en los casos de excepción que determine la ley, por razones de seguridad nacional, seguridad pública, protección de las víctimas, testigos y menores, cuando se ponga en riesgo la revelación de datos legalmente protegidos, o cuando el tribunal estime que existen razones fundadas para justificarlo.
+
+VI. Le serán facilitados todos los datos que solicite para su defensa y que consten en el proceso.
+
+El imputado y su defensor tendrán acceso a los registros de la investigación cuando el primero se encuentre detenido y cuando pretenda recibírsele declaración o entrevistarlo. Asimismo, antes de su primera comparecencia ante juez podrán consultar dichos registros, con la oportunidad debida para preparar la defensa. A partir de este momento no podrán mantenerse en reserva las actuaciones de la investigación, salvo los casos excepcionales expresamente señalados en la ley cuando ello sea imprescindible para salvaguardar el éxito de la investigación y siempre que sean oportunamente revelados para no afectar el derecho de defensa;
+
+VII. Será juzgado antes de cuatro meses si se tratare de delitos cuya pena máxima no exceda de dos años de prisión, y antes de un año si la pena excediere de ese tiempo, salvo que solicite mayor plazo para su defensa;
+
+VIII. Tendrá derecho a una defensa adecuada por abogado, al cual elegirá libremente incluso desde el momento de su detención. Si no quiere o no puede nombrar un abogado, después de haber sido requerido para hacerlo, el juez le designará un defensor público. También tendrá derecho a que su defensor comparezca en todos los actos del proceso y éste tendrá obligación de hacerlo cuantas veces se le requiera; y
+
+IX. En ningún caso podrá prolongarse la prisión o detención, por falta de pago de honorarios de defensores o por cualquiera otra prestación de dinero, por causa de responsabilidad civil o algún otro motivo análogo.
+
+La prisión preventiva no podrá exceder del tiempo que como máximo de pena fije la ley al delito que motivare el proceso y en ningún caso será superior a dos años, salvo que su prolongación se deba al ejercicio del derecho de defensa del imputado. Si cumplido este término no se ha pronunciado sentencia, el imputado será puesto en libertad de inmediato mientras se sigue el proceso, sin que ello obste para imponer otras medidas cautelares.
+
+En toda pena de prisión que imponga una sentencia, se computará el tiempo de la detención.
+
+B. De los derechos de la víctima o del ofendido:
+
+I. Recibir asesoría jurídica; ser informado de los derechos que en su favor establece la Constitución y, cuando lo solicite, ser informado del desarrollo del procedimiento penal;
+
+II. Coadyuvar con el Ministerio Público; a que se le reciban todos los datos o elementos de prueba con los que cuente, tanto en la investigación como en el proceso, a que se desahoguen las diligencias correspondientes, y a intervenir en el juicio e interponer los recursos en los términos que prevea la ley.
+
+Cuando el Ministerio Público considere que no es necesario el desahogo de la diligencia, deberá fundar y motivar su negativa;
+
+III. Recibir, desde la comisión del delito, atención médica y psicológica de urgencia;
+
+IV. Que se le repare el daño. En los casos en que sea procedente, el Ministerio Público estará obligado a solicitar la reparación del daño, sin menoscabo de que la víctima u ofendido lo pueda solicitar directamente, y el juzgador no podrá absolver al sentenciado de dicha reparación si ha emitido una sentencia condenatoria.
+
+La ley fijará procedimientos ágiles para ejecutar las sentencias en materia de reparación del daño;
+
+V. Al resguardo de su identidad y otros datos personales en los siguientes casos: cuando sean menores de edad; cuando se trate de delitos de violación, trata de personas o secuestro; y cuando a juicio del juzgador sea necesario para su protección, salvaguardando en todo caso los derechos de la defensa.
+
+El Ministerio Público deberá garantizar la protección de víctimas, ofendidos, testigos y en general todas (sic) los sujetos que intervengan en el proceso. Los jueces deberán vigilar el buen cumplimiento de esta obligación;
+
+VI. Solicitar las medidas cautelares y providencias necesarias para la protección y restitución de sus derechos, y
+
+VII. Impugnar ante autoridad judicial las omisiones del Ministerio Público en la investigación de los delitos, así como las resoluciones de reserva, no ejercicio, desistimiento de la acción penal o suspensión del procedimiento cuando no esté satisfecha la reparación del daño.
+
+> <small>(REFORMADO, B.O. 10 DE ABRIL DE 2013)</small>
+
+20.- La investigación de los delitos corresponde al Ministerio Público y a las policías, las cuales actuarán bajo la conducción y mando de aquél en el ejercicio de esta función.
+
+El ejercicio de la acción penal ante los tribunales corresponde al Ministerio Público. La ley penal procesal establecerá los casos en que el particular podrá ejercer el ejercicio de la acción penal ante la autoridad jurisdiccional.
+
+El Ministerio Público podrá considerar criterios de oportunidad para el ejercicio de la acción penal en los supuestos y condiciones que fije la ley de la materia.
+
+La imposición de las penas, su modificación y duración son propias y exclusivas de la autoridad judicial.
+
+Compete a la autoridad administrativa la aplicación de sanciones por las infracciones de los reglamentos gubernativos y de policía, las que únicamente consistirán en multa, arresto hasta por treinta y seis horas o en trabajo a favor de la comunidad; pero si el gobernado no pagaré la multa que se le hubiese impuesto, se permutará ésta por el arresto correspondiente, que no excederá en ningún caso de treinta y seis horas. Si el infractor que contravenga estas disposiciones fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día. Tratándose de trabajadores no asalariados, la multa que se imponga por infracción de los reglamentos gubernativos y de policía, no excederá del equivalente a un día de su ingreso.
+
+La seguridad pública es una función a cargo de la Federación, el Estado de Baja California Sur y sus Municipios, que comprende la prevención de los delitos; la investigación y persecución para hacerla efectiva, así como la sanción de las infracciones administrativas, en los términos de las leyes reglamentarias. La actuación de las instituciones de seguridad pública se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos reconocidos en esta Constitución.
+
+Las instituciones de seguridad pública serán de carácter civil, disciplinado y profesional. El Ministerio Público y las instituciones policiales de los tres niveles de gobierno deberán coordinarse entre sí para cumplir los objetivos de la seguridad pública y formarán parte del Sistema Nacional de Seguridad Pública, con los requisitos, bases y condiciones exigidas en el Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos y sus leyes reglamentarias.
 
 ## TITULO TERCERO. DE LA POBLACION
 
@@ -557,11 +695,13 @@ Cuando algún diputado deje de asistir por más de cinco sesiones continuas del 
 
 También incurrirán en responsabilidad, que la misma ley sancionará, los partidos políticos que habiendo postulado candidatos en una elección, acuerden que sus miembros que resultaren electos, no se presenten a desempeñar sus funciones.
 
-55.- El Gobernador del Estado asistirá a la apertura del período ordinario de sesiones, en la que presentará un informe por escrito exponiendo la situación que guarde la administración pública del Estado.
+> <small>(REFORMADO, B.O. 10 DE ABRIL DE 2013)</small>
 
-> <small>(REFORMADO, B.O. 30 DE ABRIL DE 1981)</small>
+55.- En la apertura del Primer Periodo Ordinario de Sesiones de cada año de ejercicio Constitucional del Congreso del Estado, el Gobernador del Estado presentará un informe por escrito, en el que exponga el estado que guarda la Administración Pública del Estado.
 
-Podrá asistir también, por sí o por conducto de un Funcionario del Poder Ejecutivo para informar cuando se trate algún asunto o proyecto sobre la materia a cargo del que comparece, si así lo acuerda el Congreso del Estado.
+El Congreso realizará el análisis del informe y podrá solicitar por escrito al Gobernador del Estado ampliar la información respecto de algún asunto en particular, y citar a los Secretarios de Despacho o su equivalente, Procurador General de Justicia u otro funcionario de la Administración Pública Estatal Centralizada o Paraestatal, para dar cuenta al Congreso del Estado de dichos asuntos.
+
+Cuando se trate del estudio de algún asunto o proyecto sobre la materia a cargo de los Secretarios de Despacho, Procurador General o cualquier otro servidor público o titular de la Administración Pública Estatal, Paraestatal u Organismo Autónomo, el Congreso podrá citarlos a comparecer bajo protesta de decir verdad.
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -1209,27 +1349,57 @@ La elección del Presidente de la Comisión Estatal de los Derechos Humanos, as�
 
 88.- Corresponde al Tribunal Superior de Justicia y Jueces del Estado la función jurisdiccional en los asuntos del fuero común, lo mismo que en auxilio a los del orden federal, en los casos que expresamente se la concedan las Leyes: (sic)
 
-> <small>(REFORMADO, B.O. 6 DE FEBRERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE ABRIL DE 2013)</small>
 
-89.- El desempeño de la función jurisdiccional, corresponde a:
+89.- El desempeño de la función jurisdiccional corresponde a:
+
+> <small>(REFORMADA, B.O. 6 DE FEBRERO DE 2002)</small>
 
 I.- El Tribunal Superior de Justicia.
 
+> <small>(REFORMADA, B.O. 6 DE FEBRERO DE 2002)</small>
+
 II.- El Tribunal Estatal Electoral.
+
+> <small>(REFORMADA, B.O. 6 DE FEBRERO DE 2002)</small>
 
 III.- Los Jueces de Primera Instancia
 
+> <small>(REFORMADA, B.O. 6 DE FEBRERO DE 2002)</small>
+
 IV.- Los Jueces Menores.
+
+> <small>(REFORMADA, B.O. 6 DE FEBRERO DE 2002)</small>
 
 V.- Los Jueces de Paz.
 
+> <small>(REFORMADA, B.O. 6 DE FEBRERO DE 2002)</small>
+
 VI.- Los árbitros.
 
-> <small>(DEROGADA, B.O. 6 DE FEBRERO DE 2002)</small>
+VII.- (DEROGADA, B.O. 6 DE FEBRERO DE 2002)
 
-VII.- Se deroga; y
+> <small>(REFORMADA, B.O. 10 DE ABRIL DE 2013)</small>
 
-VIII.- Los demás funcionarios y auxiliares de la administración de justicia.
+VIII.- Los Jueces de Control.
+
+> <small>(ADICIONADA, B.O. 10 DE ABRIL DE 2013)</small>
+
+IX.- El Tribunal de Juicio Oral.
+
+> <small>(ADICIONADA, B.O. 10 DE ABRIL DE 2013)</small>
+
+X.- Los Jueces Especializados en Justicia para Adolescentes
+
+> <small>(ADICIONADA, B.O. 10 DE ABRIL DE 2013)</small>
+
+XI.- Los Jueces de Ejecución; y
+
+> <small>(ADICIONADA, B.O. 10 DE ABRIL DE 2013)</small>
+
+XII.- Los demás funcionarios y auxiliares de la administración de Justicia.
+
+> <small>(REFORMADO, B.O. 6 DE FEBRERO DE 2002)</small>
 
 La Ley establecerá las bases para la selección, formación, actualización y evaluación de los funcionarios y auxiliares del Poder Judicial, así como para el desarrollo de la Carrera Judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
 
@@ -2942,3 +3112,19 @@ B.O. 31 DE MARZO DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 10 DE ABRIL DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- El Congreso del Estado cuenta con un año, a partir de la entrada en vigor del presente decreto, para adecuar las leyes secundarias en materia Penal, Procesal Penal, Defensoría Pública, Justicia Alternativa, así como de las Instituciones de Seguridad Pública, Procuración y Administración de Justicia.
+
+TERCERO.- No obstante lo dispuesto en el artículo transitorio primero la implementación del sistema procesal penal acusatorio, adversarial y oral previsto en los artículos: 15, párrafo último, 16, último párrafo, 19 párrafo primero, segundo, tercero, cuarto, sexto, séptimo, octavo, noveno, décimo, décimo primero, décimo segundo, décimo tercero, apartado A fracciones VI segundo párrafo, IX segundo párrafo, apartado B fracciones IV en cuanto a la solicitud directa por la víctima u ofendido, V y VII, 20 párrafos segundo y tercero, así como las instituciones y figuras relativas a dicho sistema comprendidas en el presente Decreto, entrarán en vigor en los términos y plazos que se señalen en el Código Procesal Penal para el Estado de Baja California Sur, que al efecto decrete éste Poder Legislativo de Baja California Sur, en términos del artículo segundo transitorio del presente decreto.
+
+CUARTO.- Los procedimientos penales iniciados con anterioridad a la entrada en vigor del nuevo sistema procesal penal acusatorio previsto en los artículos: 15, párrafo último, 16, último párrafo, 19 párrafo primero, segundo, tercero, cuarto, sexto, séptimo, octavo, noveno, décimo, décimo primero, décimo segundo, décimo tercero, apartado A fracciones VI segundo párrafo, IX segundo párrafo, apartado B fracciones IV en cuanto a la solicitud directa por la víctima u ofendido, V y VII, 20 párrafos segundo y tercero de esta Constitución, serán concluidos conforme a las disposiciones vigentes con anterioridad a dicho acto.
+
+QUINTO.- El Ejecutivo del Estado de Baja California Sur, dentro del prepuesto de egresos 2014 y subsecuentes deberá destinar los recursos necesarios para la implementación de la reforma del sistema de justicia penal, debiendo crear partidas presupuestales específicas para destinarse al diseño de las reformas legales, los cambios organizacionales, la construcción y equipamiento de la infraestructura, así como la capacitación necesaria para los operadores del sistema, y operación de la Secretaria Ejecutiva contemplada dentro del artículo Décimo Tercero del decreto por el cual se establece la Comisión Implementadora del Nuevo Sistema de Justicia Penal para el Estado de Baja California Sur, de fecha 22 de noviembre del 2012, publicado en el Boletín Oficial Extraordinario Número 2 de fecha 08 de enero del 2013.
+
+El Ejecutivo del Estado para efectos de dar cumplimiento a la operatividad de la Secretaria Ejecutiva, en el año que trascurre, podrá solicitar la ampliación de presupuesto específicamente para cumplimentar las acciones de la Comisión Implementadora del Nuevo Sistema de Justicia Penal para el Estado de Baja California Sur.
+
+SEXTO.- Se deroga toda disposición que se oponga al contenido de la reforma del artículo 55, contenida (sic) presente Decreto.
