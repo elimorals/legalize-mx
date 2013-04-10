@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-para-los-delegados-y-ayudantes-municipales-del-56861
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-07-18"
-last_updated: "2007-07-18"
+last_updated: "2013-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56861&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 REGLAMENTO PARA LOS DELEGADOS Y AYUDANTES MUNICIPALES DEL AYUNTAMIENTO DE CUERNAVACA, MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2013.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 18 de julio de 2007.
 
@@ -63,25 +63,37 @@ V.- El Delegado Municipal;
 
 VI.- Los Ayudantes Municipales
 
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2013)</small>
+
 ###### Artículo 3.
 
-Para los efectos de este Reglamento, se entiende por Delegación Municipal, la circunscripción territorial ubicada dentro del Municipio de Cuernavaca, en la que habita un determinado número de personas; existen ocho Delegaciones Municipales las cuales son:
+Para los efectos de este Reglamento, se entiende por Delegación Municipal, la circunscripción territorial ubicada dentro del Municipio de Cuernavaca, en la que habita un determinado número de personas; existen trece Delegaciones Municipales las cuales son:
 
-I.- Lic. Benito Juárez García;
+I.- “Lic. Benito Juárez García”;
 
-II.- Gral. Emiliano Zapata Salazar;
+II.- “Gral. José María Morelos y Pavón”;
 
-III.- Gral. Antonio Barona Rojas;
+III.- “Gral. Emiliano Zapata Salazar”;
 
-IV.- Gral. Lázaro Cárdenas del Río;
+IV.- “Gral. Francisco Leyva”;
 
-V.- Gral. Mariano Matamoros Orive;
+V.- “Gral. Otilio Montaño”;
 
-VI.- Don Miguel Hidalgo y Costilla;
+VI.- “Gral. Juan N. Álvarez”;
 
-VII.- Gral. Plutarco Elías Calles; y
+VII.- “Profr. Cecilio A. Robelo”;
 
-VIII.- Gral. Vicente Guerrero Saldaña.
+VIII.- “Gral. Antonio Barona Rojas”;
+
+IX.- “Gral. Lázaro Cárdenas del Río”;
+
+X.- “Gral. Mariano Matamoros Orive”;
+
+XI.- “Don Miguel Hidalgo y Costilla”;
+
+XII.- “Gral. Plutarco Elías Calles”; y
+
+XIII.- “Gral. Vicente Guerrero Saldaña”.
 
 ###### Artículo 4.
 
@@ -249,7 +261,7 @@ VIII.- San Lorenzo Chamilpa;
 
 IX.- Santa María Ahuacatitlán;
 
-X.- Tetela del Monte; y (sic)
+X.- Tetela del Monte; y
 
 XI.- Tlaltenango;
 
@@ -388,3 +400,21 @@ C. ERIKA CORTÉS MARTÍNEZ
 SECRETARIA DEL AYUNTAMIENTO
 
 RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE ABRIL DE 2013.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO AC/SO/21-II-2013/30 QUE CONSTITUYE LA REDISTRIBUCIÓN TERRITORIAL DE LAS DELEGACIONES DEL MUNICIPIO DE CUERNAVACA, Y POR EL QUE SE REFORMAN LOS ARTÍCULOS 12 Y 14 DEL BANDO DE POLICIA Y BUEN GOBIERNO DEL MUNICIPIO DE CUERNAVACA; ASÍ COMO, EL ARTÍCULO 3 DEL REGLAMENTO PARA LOS DELEGADOS Y AYUDANTES MUNICIPALES DEL AYUNTAMIENTO DE CUERNAVACA, MORELOS”.]
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial 'Tierra y Libertad", órgano de difusión de Gobierno del Estado de Morelos.
+
+SEGUNDO.- Dentro de un plazo no mayor a cuarenta días, contados a partir de la fecha de inicio de vigencia del presente Acuerdo, la Secretaría de Administración dispondrá la dotación de inmuebles mobiliario y demás equipo necesario para su debido funcionamiento; al efecto, se autoriza al Presidente Municipal a suscribir, en compañía de los servidores públicos con competencia para ello, los convenios acuerdos, contratos y demás actos jurídicos necesarios para obtener el uso por parte de Ayuntamiento, de los inmuebles en donde se instalarán las nuevas Delegaciones Municipales.
+
+TERCERO.- El Presidente Municipal propondrá al Cabildo, la designación de los titulares de las Delegaciones Municipales que se crean en virtud del presente Acuerdo, en un plazo que no excederá de cuarenta días contados a partir de la fecha en que este Acuerdo entre en vigor; los Delegados designados entrarán en funciones una vez que rindan ante el Cabildo la protesta legal correspondiente.
+
+CUARTO.- El Presupuesto de Egresos de Ayuntamiento deberá contener, la dotación presupuestal necesaria para el debido funcionamiento de las Delegaciones Municipales; en caso necesario se autoriza a la Tesorería Municipal a efectuar las ampliaciones presupuestales y transferencias necesarias para ese efecto.
+
+QUINTO.- Se autoriza a la Comisión Dictaminadora; así como, a las Áreas de la administración para que revisen la asignación de las demarcaciones territoriales para las delegaciones propuestas.
+
+SEXTO.- Publíquese el presente Acuerdo en la Gaceta Municipal y en la página de internet de, Ayuntamiento para su debida publicidad.
