@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-organizacion-y-funcionamiento-de-las-73110"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-02-15"
-last_updated: "2012-07-11"
+last_updated: "2013-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73110&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DE ORGANIZACIÓN Y FUNCIONAMIENTO DE LAS DEFENSORÍAS MUNICIPALES DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE ABRIL DE 2013.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el lunes 15 de febrero de 2010.
 
@@ -87,29 +87,25 @@ Todas las actuaciones de las Defensorías Municipales serán gratuitas. Para el 
 
 Las Defensorías Municipales, deben garantizar el derecho a la información pública, privilegiando el principio de máxima publicidad, de conformidad con lo dispuesto en la legislación y normatividad aplicables en la materia.
 
-### Capítulo II. Del procedimiento para la emisión de la Declaratoria de Terna para la designación de los Defensores Municipales
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 10 DE ABRIL DE 2013)</small>
 
-###### Articulo 7.
+### Capítulo II. De la elección y reelección de los Defensores Municipales
 
-En la emisión de la Declaratoria de Terna para la designación de los Defensores Municipales, la Comisión llevará a cabo el procedimiento siguiente:
+> <small>(REFORMADO, G.G. 10 DE ABRIL DE 2013)</small>
 
-I. Una vez recibidos en la Visitaduría General correspondiente, los expedientes que contienen los documentos originales de los aspirantes a Defensor Municipal de Derechos Humanos remitidos por el ayuntamiento respectivo; el Visitador General y el personal por él designado, revisarán la documentación observando lo siguiente:
+###### Artículo 7.
 
-a) Si de la revisión se desprende que no participaron por lo menos cuatro aspirantes o bien, que ninguno o mínimo tres acreditan los requisitos de ley y de la convocatoria, el Visitador General debe solicitar al ayuntamiento que emita una segunda convocatoria dentro de los 10 días naturales siguientes al vencimiento de la primera; o
+En la elección y reelección de los Defensores Municipales, la Comisión llevará a cabo lo siguiente:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+I. Para la elección de los Defensores Municipales:
 
-> <small>(REFORMADO, G.G. 5 DE OCTUBRE DE 2011)</small>
+a) Una vez recibida la documentación de los aspirantes en el Organismo, la Unidad Jurídica y Consultiva realizará el análisis correspondiente, para que en el término que establece la Ley Orgánica elaborare la Declaratoria de Terna, que será sometida a la consideración y aprobación, en su caso, del Presidente de la Comisión; y
 
-b) Si con la documentación exhibida por lo menos tres aspirantes acreditan fehacientemente o cumplen los requisitos de ley y de la convocatoria, el Visitador General remitirá a la Unidad Jurídica y Consultiva, en 3 días hábiles contados a partir de la fecha de recepción, los documentos originales enviados por el ayuntamiento, a efecto de que se proceda a realizar la calificación de los aspirantes, en los formatos que para tal efecto autorice el Presidente del Organismo;
+b) Emitida la Declaratoria de Terna se notificará al ayuntamiento respectivo, remitiéndose la documentación y solicitudes de todos los aspirantes, en términos del artículo 147 F de la Ley Orgánica.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+La Unidad Jurídica y Consultiva, para el debido cumplimiento de lo anterior, podrá coordinarse con las Visitadurías Generales de la Comisión.
 
-> <small>(REFORMADA, G.G. 5 DE OCTUBRE DE 2011)</small>
-
-II. Realizada la revisión, calificación y análisis de los documentos y perfil de cada aspirante, la Unidad Jurídica y Consultiva en el término que establece la ley elaborará la Declaratoria de Terna de aspirantes a Defensor Municipal, que será sometida a la consideración y aprobación, en su caso, del Presidente de la Comisión; y
-
-III. Una vez emitida la Declaratoria de Terna, ésta se notificará al ayuntamiento, por conducto de la Visitaduría General que corresponda, remitiéndose al tiempo la documentación y solicitudes de todos los aspirantes, en términos del artículo 147 F de la Ley Orgánica.
+II. Cuando un ayuntamiento determine reelegir a un Defensor Municipal, lo hará del conocimiento del Organismo, a efecto de llevar a cabo las acciones de coordinación con la Secretaría General y las Visitadurías Generales, de conformidad con los ordenamientos aplicables.
 
 ## TÍTULO SEGUNDO. DE LA ORGANIZACIÓN Y ATRIBUCIONES DE LAS DEFENSORÍAS MUNICIPALES
 
@@ -486,3 +482,9 @@ CUARTO.- La Visitaduría General sede Atlacomulco y la Visitaduría General sede
 QUINTO.- Derivado de la redistribución de la competencia territorial de las visitadurías generales de esta Defensoría de Habitantes, se faculta a los visitadores generales a efecto de realizar las modificaciones correspondientes en los comités de defensores municipales de derechos humanos, para su debido funcionamiento, de conformidad con las disposiciones legales, reglamentarias y administrativas aplicables.
 
 SEXTO.- El Primer Visitador General, en el ejercicio de sus atribuciones y derivado de las presentes modificaciones, deberá prever lo necesario a efecto de que los expedientes de queja que se iniciaron con anterioridad a la entrada en vigor de las modificaciones en comento, en su caso, sean remitidos a la visitaduría que corresponda para su debida sustanciación, privilegiando en todo momento los derechos de los quejosos.
+
+G.G. 10 DE ABRIL DE 2013.
+
+PRIMERO.- Publíquese la presente reforma en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México "Gaceta del Gobierno" y en la Gaceta de Derechos Humanos órgano informativo de la Comisión.
+
+SEGUNDO.- Esta reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México "Gaceta del Gobierno".
