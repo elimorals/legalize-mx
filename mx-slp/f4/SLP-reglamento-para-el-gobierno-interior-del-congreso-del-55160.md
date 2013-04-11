@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-para-el-gobierno-interior-del-congreso-del-55160"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-15"
-last_updated: "2012-12-03"
+last_updated: "2013-04-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2013.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 15 de febrero de 2007.
 
@@ -1207,9 +1207,11 @@ Los miembros de las comisiones podrán ser sustituidos por acuerdo del Pleno, a 
 
 Todos los diputados del Congreso tienen el derecho de asistir a las reuniones de las comisiones y comités, así como exponer su punto de vista sobre los asuntos que éstas conozcan.
 
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2013)</small>
+
 ###### ARTICULO 138.
 
-Las comisiones y comités deberán elaborar anualmente un plan general de trabajo, que contenga las actividades a desarrollar, especificando las que requieran la asignación de recursos materiales o financieros, determinando el presupuestó que sea necesario para la realización de las mismas; el cual deberán presentar por conducto de su Presidente a la Junta, a más tardar la tercera semana del mes de noviembre de cada año, a fin de que ésta lo considere al elaborar a su vez el presupuesto anual del Congreso del Estado.
+Las comisiones y comités deberán elaborar anualmente un plan general de trabajo, que contenga las actividades a desarrollar, especificando las que requieran la asignación de recursos materiales o financieros, determinando el presupuesto que sea necesario para la realización de las mismas; el cual deberán presentar por conducto de su Presidente a la Junta, a más tardar la primera semana del mes de octubre de cada año, a fin de que ésta lo considere al elaborar a su vez el presupuesto anual del Congreso del Estado.
 
 ###### ARTICULO 139.
 
@@ -1269,7 +1271,9 @@ El Presidente de cada comisión, o comité para el desempeño de las funciones d
 
 I. Instalar legalmente la comisión o comité que presida, dentro de la semana siguiente a la constitución de la misma;
 
-II. Presentar a más tardar la primera semana del mes de noviembre de cada año, el proyecto de plan anual de trabajo de la misma, para su aprobación, el cual deberá ser congruente con la agenda legislativa;
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2013)</small>
+
+II. Presentar con oportunidad para su aprobación, el proyecto de plan anual de trabajo a que se refiere el artículo 138 de este Reglamento, el cual deberá ser congruente con la agenda legislativa;
 
 > <small>(REFORMADA, P.O. 25 DE MARZO DE 2010)</small>
 
@@ -2100,3 +2104,9 @@ P.O. 3 DE DICIEMBRE DE 2012.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE ABRIL DE 2013.
+
+PRIMERO. Este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
