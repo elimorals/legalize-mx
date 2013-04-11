@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-desarrollo-social-del-estado-de-michoacan-de-ocampo-5481
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-16"
-last_updated: "2013-01-28"
+last_updated: "2013-04-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54813&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 LEY DE DESARROLLO SOCIAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DE LA LEY DE DESARROLLO SOCIAL DEL ESTADO DE MICHOACÁN, PUBLICADO EN EL P.O. 11 DE ABRIL DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán de Ocampo, el viernes 16 de marzo de 2007.
 
@@ -558,3 +560,25 @@ P.O. 28 DE ENERO DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 11 DE ABRIL DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo; Se abroga la Ley de Desarrollo Social del Estado de Michoacán publicada con fecha de 16 de marzo de 2007, en el Periódico Oficial del Gobierno Constitucional del Estado Libre y Soberano de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+El Gobernador del Estado expedirá y modificará en su caso en un plazo de 180 días naturales, contados a partir de la entrada en vigor del presente Decreto, las disposiciones reglamentarias de la misma, salvo lo dispuesto en el presente Decreto para las reglas de operación de los programas; que deberán ser expedidas para el ejercicio fiscal 2013.
+
+###### ARTÍCULO TERCERO.
+
+Por única ocasión el Consejo Consultivo será instalado durante el mes de marzo del año 2013.
+
+###### ARTÍCULO CUARTO.
+
+Por única ocasión los miembros del Consejo Consultivo durarán en su encargo hasta el 31 de agosto del 2015.
+
+###### ARTÍCULO QUINTO.
+
+El Comité Directivo y el Subcomité por única ocasión deberán ser instalados en un plazo de 45 días naturales contados a partir de la entrada en vigor de la presente Ley.
