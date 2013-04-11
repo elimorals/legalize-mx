@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-comite-estatal-de-normalizacion-42027"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-12-03"
-last_updated: "2010-06-21"
+last_updated: "2013-04-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42027&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DEL COMITÉ ESTATAL DE NORMALIZACIÓN AMBIENTAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE JUNIO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE ABRIL DE 2013.
 
 Reglamento publicado en la Sección Primera a la Gaceta del Gobierno del Estado de México, el viernes 3 de diciembre del 2004.
 
@@ -116,6 +116,10 @@ II. El Subcomité de Contaminación Atmosférica, se hará cargo de la coordinac
 III. El Subcomité de Desarrollo Sustentable, se hará cargo de la coordinación de los Grupos de Trabajo para la elaboración de las normas técnicas estatales ambientales, para proteger el ambiente y lograr un desarrollo sostenido en la entidad.
 
 En caso de que una norma pudiera ser desarrollada por más de un subcomité, el Comité determinará cual tomará la responsabilidad y los demás colaborarán con éste.
+
+> <small>(ADICIONADA, G.G. 11 DE ABRIL DE 2013)</small>
+
+IV. El Subcomité de Protección y Bienestar Animal, se hará cargo de la coordinación de los Grupos de Trabajo para la elaboración de las normas técnicas estatales en materia de protección, bienestar y trato digno a los animales.
 
 ###### Artículo 6.
 
@@ -520,3 +524,9 @@ PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el
 G.G. 21 DE JUNIO DE 2010.
 
 ÚNICO.- El presente Acuerdo entrará en vigor el día de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 11 DE ABRIL DE 2013.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
