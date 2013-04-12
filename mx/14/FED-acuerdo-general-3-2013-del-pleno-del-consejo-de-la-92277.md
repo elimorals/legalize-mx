@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2013-02-28"
+last_updated: "2013-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE ABRIL DE 2013.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -138,6 +138,10 @@ III. TERCER CIRCUITO:
 2. Cinco tribunales unitarios con residencia en Zapopan.
 
 3. Veintitrés juzgados de Distrito especializados: siete de Procesos Penales Federales con sede en Puente Grande, Municipio de Juanacatlán; cuatro de Amparo en Materia Penal; seis en materia administrativa y de trabajo, y seis en materia civil, todos con residencia en Zapopan.
+
+> <small>(ADICIONADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 12/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE ABRIL DE 2013)</small>
+
+4. Un Juzgado de Distrito en Materia Mercantil, Especializado en Juicios de Cuantía Menor, con residencia en Zapopan, Jalisco.
 
 IV. CUARTO CIRCUITO:
 
@@ -764,3 +768,19 @@ QUINTO. El Instituto Federal de Defensoría Pública, determinará lo conducente
 SEXTO. La Dirección General de Tecnologías de la Información, garantizará la operación adecuada y permanente de los servicios de telecomunicación entre la Oficina de Enlace y Notificaciones del Poder Judicial de la Federación en Islas Marías y el órgano jurisdiccional auxiliar con sede en Mazatlán, Sinaloa, estableciendo una infraestructura adecuada para la trasmisión de voz, datos y video.
 
 SEPTIMO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de las reformas, a los Acuerdos Generales del Pleno del Consejo de la Judicatura Federal 15/2010, relativo a la denominación, residencia, competencia, jurisdicción territorial, domicilio y fecha de inicio de funcionamiento del Juzgado de Distrito del Complejo Penitenciario Islas Marías y Auxiliar en toda la República; Acuerdo General 3/2013, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito; así como al Acuerdo General 52/2008, por el que se crea el Centro Auxiliar de la Quinta Región, con residencia en Culiacán, Sinaloa, así como los órganos jurisdiccionales que lo integrarán.
+
+D.O.F. 12 DE ABRIL DE 2013.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Los juicios orales mercantiles que a la fecha del inicio de funciones del Juzgado Tercero de Distrito en Materia Mercantil, Especializado en Juicios de Cuantía Menor, con residencia en Zapopan, Jalisco, se encuentren radicados ante los Juzgados de Distrito en Materia Civil en el Estado de Jalisco, continuarán tramitándose ante ellos hasta su conclusión y eventual archivo definitivo.
+
+TERCERO. En tanto se aperturan en los restantes circuitos judiciales nuevos órganos jurisdiccionales mercantiles especializados en juicios de cuantía menor, los juzgados de Distrito mixtos, especializados en materia civil y semiespecializados que incluyan esta materia y que actualmente conocen de los juicios mercantiles, continuarán haciéndolo con normalidad, registrando las audiencias de los juicios orales que se celebren a través de los medios electrónicos o cualquier otro idóneo a juicio del juez, de conformidad con lo dispuesto por el artículo 1390 BIS 26 del Código de Comercio.
+
+CUARTO. A fin de equilibrar las cargas de trabajo que llegaren a presentarse en el Juzgado Tercero de Distrito en Materia Mercantil, Especializado en Juicios de Cuantía Menor, con residencia en Zapopan, Jalisco, la Comisión de Creación de Nuevos Órganos del Consejo de la Judicatura Federal podrá establecer la competencia temporal compartida de los asuntos con otros órganos jurisdiccionales, así como regular el turno, total o parcial, de los juicios de naturaleza mercantil de cuantía menor que se presenten en ese circuito.
+
+QUINTO. La Dirección General de Tecnologías de la Información suministrará los equipos, brindará la capacitación y asistencia técnica necesaria al personal del Juzgado Tercero de Distrito en Materia Mercantil, Especializado en Juicios de Cuantía Menor, con residencia en Zapopan, Jalisco, para la operación del sistema informático y de videograbación que registrará las audiencias que se celebren.
+
+SEXTO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de la reforma, al Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los Tribunales de Circuito y de los Juzgados de Distrito.
+
+SÉPTIMO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
