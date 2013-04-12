@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-al-ambiente-para-el-estado-de-baja-23012"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-30"
-last_updated: "2013-02-01"
+last_updated: "2013-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2013.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 30 de noviembre de 2001.
 
@@ -297,13 +297,17 @@ XXXIII. Prevenir, regular y controlar la contaminación a la atmósfera generada
 
 XXXIV. La Secretaría propondrá los derechos que correspondan al aprovechamiento de recursos naturlales (sic) de actividades y proyectos de competencia estatal no reservados a la Federación, y
 
-(REFORMADA, P.O. 22 DE OCTUBRE DE 2010))
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2013)</small>
 
-XXXV. Instrumentar, ejecutar y evaluar programas, proyectos, políticas, servicios y acciones relativos a la vida silvestre y a la biodiversidad, de conformidad con la legislación en la materia, y
+XXXV. Instrumentar, ejecutar y evaluar programas, proyectos, políticas, servicios y acciones relativos a la vida silvestre y a la biodiversidad, de conformidad con la legislación en la materia;
 
-> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2013)</small>
 
-XXXVI. Las demás que conforme a la legislación local y federal aplicable le correspondan.
+XXXVI. Coordinarse con la Secretaría de Salud del Estado para elaborar, dar seguimiento y hacer público, los estudios epidemiológicos relacionados con la calidad del aire, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE ABRIL DE 2013)</small>
+
+XXXVII. Las demás que conforme a la legislación local y federal aplicable le correspondan.
 
 ###### ARTÍCULO 9.
 
@@ -2768,3 +2772,9 @@ SEGUNDO.- Para el ejercicio fiscal 2013 los automóviles que no hayan obtenido e
 TERCERO.- Los vehículos registrados o procedentes de otras entidades federativas o del extranjero, no podrán ser sancionados por esta causa, pero están obligados a no rebasar los límites máximos permisibles de emisiones contaminantes señalados en las Normas Mexicanas.
 
 CUARTO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE ABRIL DE 2013.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La Secretaría de Protección al Ambiente para el Estado de Baja California tendrá un plazo de 90 días para determinar las reglas de operación bajo las cuales se realizarán dichos estudios.
