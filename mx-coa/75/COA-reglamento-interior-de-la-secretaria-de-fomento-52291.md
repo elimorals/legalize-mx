@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-de-la-secretaria-de-fomento-52291"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-11-07"
-last_updated: "2006-11-07"
+last_updated: "2013-04-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52291&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE FOMENTO AGROPECUARIO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE FOMENTO AGROPECUARIO DEL ESTADO DE COAHUILA DE ZARAGOZA
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE FOMENTO AGROPECUARIO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO RURAL DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADO EN EL P.O. 12 DE ABRIL DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 7 de noviembre de 2006.
 
@@ -914,3 +916,13 @@ EL SECRETARIO DE LA FUNCIÓN PÚBLICA
 ING. ISMAEL E. RAMOS FLORES
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 12 DE ABRIL DE 2013.
+
+PRIMERO.- El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de Fomento Agropecuario publicado en el Periódico Oficial del Gobierno del Estado del 07 de noviembre de 2006 y se derogan todas las disposiciones que se opongan al presente reglamento.
+
+TERCERO.- Los manuales de organización precisarán lo no previsto en el presente reglamento en lo que se refiere a la estructura orgánica y las funciones específicas de las áreas que conforman las unidades administrativas de la Secretaría.
