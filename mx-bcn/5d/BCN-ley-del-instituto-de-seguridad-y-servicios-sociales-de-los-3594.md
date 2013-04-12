@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-3594
 country: "mx"
 rank: "ley"
 publication_date: "1970-12-20"
-last_updated: "2013-02-15"
+last_updated: "2013-04-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3594&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL GOBIERNO Y MUNICIPIOS DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2013.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 20 de diciembre de 1970.
 
@@ -1141,7 +1141,11 @@ II.- El Director General.
 
 La Junta Directiva estará integrada por un Presidente y cuatro Vocales. El Presidente y dos Vocales serán nombrados por el Gobernador del Estado. Un Vocal será designado por la Sección XXXVII del Sindicato Nacional de Trabajadores de la Educación y otro Vocal por el Comité Estatal del Sindicato Unico de Trabajadores al Servicio de los Poderes del Estado y Municipios de Baja California.
 
-El Director General será nombrado por el Gobernador del Estado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2013)</small>
+
+El Director General será nombrado por el Gobernador del Estado; recayendo el cargo en un profesionista en el ramo de la Medicina, pudiendo o no ser personal que labora en el propio Instituto.
 
 Todas las resoluciones de la Junta Directiva, serán comunicadas por escrito al Director General.
 
@@ -1580,3 +1584,9 @@ P.O. 15 DE FEBRERO DE 2013.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 12 DE ABRIL DE 2013.
+
+PRIMERO.- El presente decreto entrará en vigor el primero de noviembre del año dos mil trece.
+
+SEGUNDO.- Túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos de la publicación en el Periódico Oficial del Estado de Baja California.
