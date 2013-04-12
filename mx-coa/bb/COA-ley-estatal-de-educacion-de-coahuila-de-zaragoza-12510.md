@@ -4,7 +4,7 @@ identifier: "COA-ley-estatal-de-educacion-de-coahuila-de-zaragoza-12510"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-28"
-last_updated: "2012-08-07"
+last_updated: "2013-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12510&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 28 de mayo de 1996.
 
@@ -745,6 +745,10 @@ Los planes y programas de estudio a que se refiere este artículo deberán ser p
 
 La autoridad educativa del estado pondrá a consideración y, en su caso, autorización de la autoridad educativa federal, contenidos regionales que permitan que los educandos adquieran un mejor conocimiento de la historia, la geografía, la cultura y otros aspectos propios del Estado de Coahuila.
 
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2013)</small>
+
+ARTICULO 65 BIS.- La autoridad educativa del estado pondrá a consideración y, en su caso, autorización de la autoridad educativa federal, la aplicación dentro del plan de estudios, contenidos que permitan que los educandos adquieran mayor sensibilidad en los temas relacionados con el desarrollo en los ideales de justicia social, tolerancia, libertad e igualdad, así como el estudio de los derechos humanos contemplados en la Constitución Política de los Estados Unidos Mexicanos.
+
 ###### ARTICULO 66.
 
 La autoridad educativa estatal determinará y formulará planes y programas de estudio de la educación distinta a la primaria, secundaria y demás para la formación de maestros, tomando en consideración lo que al respecto previene la ley federal de la materia.
@@ -1256,3 +1260,11 @@ PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- Para dar cumplimiento al principio de obligatoriedad de la educación media, se estará a lo dispuesto por los artículos segundo y tercero transitorio de la reforma a la Constitución Política de los Estados Unidos Mexicanos Publicada en el Diario Oficial de la Federación el 9 de febrero de 2012.
 
 TERCERO.- Se derogan las disposiciones que se opongan a lo previsto en este decreto.
+
+P.O. 12 DE ABRIL DE 2013.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El Consejo Consultivo de la Comisión deberá de realizar las adecuaciones al Reglamento Interior de la Comisión en un término de sesenta días después de la entrada en vigor del presente decreto.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
