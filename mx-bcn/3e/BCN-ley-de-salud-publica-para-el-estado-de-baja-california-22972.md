@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-salud-publica-para-el-estado-de-baja-california-22972"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2013-02-15"
+last_updated: "2013-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2013.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -185,13 +185,17 @@ XXV.- El programa de prevención, atención y control del VIH/SIDA, e infeccione
 
 XXVI.- La atención médica geriátrica a las personas adultas mayores de 65 años de edad;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2013)</small>
 
-XXVII.- El programa para la atención médica de la Insuficiencia Renal, y
+XXVII.- El programa para la atención médica de la Insuficiencia Renal;
 
-> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2013)</small>
 
-XXVIII.- Las demás atribuciones que se deriven de la ley General de Salud, de la Ley Orgánica de la Administración Pública del Estado, de esta ley y demás ordenamientos aplicables.
+XXVIII.- Elaborar, dar seguimiento y hacer público, los estudios epidemiológicos relacionados con la calidad del aire; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE ABRIL DE 2013)</small>
+
+XXIX.- Las demás atribuciones que se deriven de la Ley General de Salud, de la Ley Orgánica de la Administración Pública del Estado, de esta ley y demás ordenamientos aplicables.
 
 ###### ARTÍCULO 5.
 
@@ -436,6 +440,10 @@ VII.- Contendrán las demás estipulaciones que se consideren necesarias para la
 ###### ARTÍCULO 16.
 
 Para los efectos de esta Ley, se entiende por servicios de salud todas aquellas acciones realizadas en beneficio del individuo y de la sociedad en general, dirigidas a proteger, promover y restaurar la salud de la persona y de la colectividad.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2013)</small>
+
+ARTÍCULO 16 BIS.- El Sistema Estatal de Salud deberá implementar el uso del expediente clínico electrónico en las instituciones que lo conforman, atendiendo a la legislación vigente y a las Normas Oficiales Mexicanas.
 
 ###### ARTÍCULO 17.
 
@@ -785,6 +793,14 @@ La Secretaría de Salud del Estado en el ámbito de su competencia, establecerá
 
 Las Autoridades Sanitarias del Estado y las propias instituciones públicas de salud, establecerán procedimientos de orientación y asesoría a los usuarios sobre el uso de los servicios de salud que requieran, así como mecanismos para que presenten sus quejas, reclamaciones y sugerencias respecto de la prestación de los servicios de salud y a la falta de probidad, en su caso, de los servidores públicos.
 
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2013)</small>
+
+ARTÍCULO 45 BIS.- Es una obligación de los prestadores de servicios de salud el informar de forma suficiente, oportuna y veraz a los usuarios con respecto a su salud, sobre los riesgos y alternativas de los procedimientos, diagnósticos terapéuticos y quirúrgicos que se considere oportuno indicar o aplicar, para que los usuarios puedan decidir de manera libre sobre la aplicación de los mismos.
+
+En el caso de urgencia o que el usuario se encuentre en estado de incapacidad transitoria o permanente, la autorización para proceder será otorgada por el familiar que lo acompañe o su representante legal; en caso de no ser posible lo anterior, el prestador de servicios de salud procederá de inmediato para preservar la vida y la salud del usuario, dejando constancia en el expediente clínico.
+
+Los usuarios de los servicios de salud en general, contarán con facilidades para acceder a una segunda opinión.
+
 ###### ARTÍCULO 46.
 
 Las instituciones públicas y privadas, y particulares que tengan conocimiento de alguna persona que requiera la prestación urgente de servicios de salud, deberán proporcionar inmediatamente la atención médica, sin perjuicio de su posterior remisión a otras instituciones.
@@ -1062,6 +1078,14 @@ Para el ejercicio de actividades técnicas y auxiliares que requieran conocimien
 ###### ARTÍCULO 54.
 
 La Secretaría de Educación y Bienestar Social por conducto de su Departamento de Profesiones, proporcionará a las Autoridades Sanitarias del Estado cuando así lo soliciten, relación de aquellas personas que tengan registro de cédulas profesionales, especialidades o títulos que acrediten sus estudios de medicina.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2013)</small>
+
+La Secretaría de Salud, tomando en cuenta la información que le proporcione el Departamento de Profesiones del Estado, difundirá en su portal de Internet una lista de los profesionales de la salud que cuenten con autorización para ejercer en la Entidad, atendiendo a sus especialidades o títulos que acrediten sus estudios de medicina.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2013)</small>
+
+La lista a que se refiere el párrafo anterior, deberá actualizarse de manera permanente de acuerdo con la información que al efecto proporcione el Departamento de Profesiones del Estado.
 
 ###### ARTÍCULO 55.
 
@@ -1468,6 +1492,20 @@ Las Autoridades Sanitarias del Estado en sus respectivos ámbitos de competencia
 ###### ARTÍCULO 98.
 
 Las Autoridades Sanitarias del Estado tendrán entre sus objetivos, operar establecimientos de rehabilitación, realizar estudios e investigaciones en materia de discapacidad y participar en programas de rehabilitación y educación especial.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2013)</small>
+
+ARTÍCULO 98 BIS.- La Secretaría de Salud del Estado, llevará la operación y actualización de un Registro Estatal de Parálisis Cerebral Pediátrica, con el objeto de:
+
+I.- Determinar la incidencia de la parálisis cerebral infantil;
+
+II.- Conocer los factores condicionantes o causales de parálisis cerebral infantil;
+
+III.- Dar seguimiento al desarrollo de la parálisis cerebral infantil;
+
+IV.- Planificar, acercar, evaluar y mejorar la atención médica, así como los servicios asistencia (sic) social que se deban otorgar; y
+
+V.- Recabar cualquier otra información que se estime necesaria para la prevención y rehabilitación de la parálisis cerebral infantil.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE ABRIL DE 2012)</small>
 
@@ -2682,3 +2720,39 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 12 DE ABRIL DE 2013.
+
+DECRETO No. 434, POR EL QUE SE APRUEBA LA REFORMA QUE ADICIONA UN ARTÍCULO 98 BIS A LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE ABRIL DE 2013.
+
+DECRETO No. 437, POR EL QUE SE APRUEBA LA REFORMA QUE ADICIONA UN ARTÍCULO 45 BIS A LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos de la publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 12 DE ABRIL DE 2013.
+
+DECRETO No. 433, POR EL QUE SE APRUEBA LA ADICIÓN DEL ARTÍCULO 16 BIS A LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE ABRIL DE 2013.
+
+DECRETO No. 436, POR EL QUE SE APRUEBA LA REFORMA AL ARTÍCULO 4 DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA.
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La Secretaría de Salud para el Estado de Baja California tendrá un plazo de 90 días para determinar las reglas de operación bajo las cuales se realizarán dichos estudios.
+
+P.O. 12 DE ABRIL DE 2013.
+
+DECRETO No. 438, POR EL QUE SE APRUEBA LA REFORMA QUE ADICIONA UN SEGUNDO Y TERCER PÁRRAFO AL ARTÍCULO 54 DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA.
+
+###### ARTÍCULO ÚNICO.
+
+La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
