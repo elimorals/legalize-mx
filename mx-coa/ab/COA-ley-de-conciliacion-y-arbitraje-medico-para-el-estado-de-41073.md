@@ -4,7 +4,7 @@ identifier: "COA-ley-de-conciliacion-y-arbitraje-medico-para-el-estado-de-41073"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-09"
-last_updated: "2009-02-10"
+last_updated: "2013-04-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41073&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 LEY DE CONCILIACIÓN Y ARBITRAJE MÉDICO PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2009.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE LA COMISIÓN COAHUILENSE DE CONCILIACIÓN Y ARBITRAJE MÉDICO PARA EL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADA EN EL P.O. DE 12 DE ABRIL DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Coahuila, el viernes 9 de julio de 2004.
 
@@ -832,3 +834,43 @@ PRIMERO. Este decreto será vigente al día siguiente de su publicación en el P
 SEGUNDO. Hasta en tanto no se expidan los acuerdos de sectorización de los organismos públicos descentralizados que forman parte de la Administración Pública del Estado, continuarán bajo la sectorización que dispongan los instrumentos jurídicos que los hubiesen creado.
 
 TERCERO. Se dejan sin efectos las disposiciones que se opongan a lo previsto en este decreto.
+
+P.O. 12 DE ABRIL DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la ley de Conciliación y Arbitraje Médico para el Estado de Coahuila de Zaragoza, publicada en el periódico oficial el día nueve de julio de 2004, y demás disposiciones que sean contrarias a la presente ley.
+
+###### ARTÍCULO TERCERO.
+
+Dentro de los sesenta días siguientes a la entrada en vigor de este decreto, deberá estar designado el Comisionado, así como, los consejeros propietarios y suplentes, del Consejo General del (sic) la Comisión Coahuilense de Conciliación y Arbitraje Médico, en los términos que dispone la Constitución y esta ley.
+
+###### ARTÍCULO CUARTO.
+
+Los integrantes del Consejo Directivo de la Comisión Coahuilense de Conciliación y Arbitraje Médico concluirán sus funciones una vez que sean designados los miembros del organismo público autónomo a que se refiere el artículo anterior.
+
+###### ARTÍCULO QUINTO.
+
+Se declara la extinción del organismo público descentralizado denominado Comisión Coahuilense de Conciliación y Arbitraje Médico, se deberá llevar a cabo su liquidación en los términos de las leyes aplicables y con la intervención de la Secretaría de Finanzas y Fiscalización y Rendición de Cuentas que conforme a derecho corresponda.
+
+###### ARTÍCULO SEXTO.
+
+Los bienes muebles e inmuebles y demás recursos materiales, financieros y humanos del organismo público descentralizado que se extingue, se transferirán en su totalidad al organismo público autónomo que se crea mediante este Decreto.
+
+Al personal del (sic) la Comisión Coahuilense de Conciliación y Arbitraje Médico se le respetarán sus derechos laborales; pero, en todo caso, el Consejo General del (sic) la Comisión Coahuilense de Conciliación y Arbitraje Médico acordará las reglas para ingresar, ascender o permanecer en dicho organismo.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los procedimientos y asuntos pertenecientes al organismo descentralizado Comisión Coahuilense de Conciliación y Arbitraje Médico que a la entrada en vigor del presente se encuentren pendientes de resolución, se resolverán por organismo público autónomo que se crea en esta ley.
+
+###### ARTÍCULO OCTAVO.
+
+Por lo anterior, todas las facultades, derechos y obligaciones correspondientes que se extingue, se entenderán vigentes a favor del organismo público autónomo Comisión Coahuilense de Conciliación y Arbitraje Médico. Cualquier referencia que se haga en un contrato o instrumento distinto que los contenga, se entenderá conferido en los términos de lo previsto por el presente decreto.
+
+###### ARTÍCULO NOVENO.
+
+La Comisión deberá elaborar su reglamento en un plazo no mayor de 90 días contados a partir de la entrada en vigor del presente decreto.
