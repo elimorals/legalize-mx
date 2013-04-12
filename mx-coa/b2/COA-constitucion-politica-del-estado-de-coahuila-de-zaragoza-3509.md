@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "2012-12-21"
+last_updated: "2013-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2013.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -2580,7 +2580,13 @@ La única vía para plantear la inconstitucionalidad de leyes, decretos o acuerd
 
 La Justicia Constitucional Local se regirá por la jurisprudencia local, salvo los casos de prevalencia de la jurisprudencia federal.
 
-> <small>(ADICIONADO CON LOS CAPÍTULOS, SECCIONES, APARTADOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
+
+APARTADO SEGUNDO.
+
+La Hacienda Municipal.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
 
 ## TITULO SEXTO.
 
@@ -2799,14 +2805,6 @@ En todo caso, la transferencia o delegación de funciones o servicios de la Fede
 En la ley o en el convenio se preverá la correspondiente transferencia de medios financieros, así como las formas de control que se reserva el Estado.
 
 Los supuestos contenidos en este artículo se fundamentarán en una interpretación funcional de los artículos 115 y 116 de la Constitución Política de los Estados Unidos Mexicanos.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
-
-APARTADO SEGUNDO.
-
-La Hacienda Municipal.
-
-> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### Artículo 158-P.
 
@@ -3104,6 +3102,8 @@ III. En el caso de que no exista la solicitud previa del Ayuntamiento, aprobada 
 
 IV. En todo caso, la resolución se basará en el interés público de garantizar el ejercicio o prestación continua y eficiente de la función o servicio público de que se trate. Para tal efecto, las partes en conflicto deberán ofrecer todas las pruebas necesarias para determinar la situación real que guarda la prestación del servicio o el ejercicio de la función; pero la autoridad que resuelva tiene, en cualquier momento, el derecho de recabar todas las pruebas necesarias para decidir lo conducente.
 
+> <small>(ADICIONADO CON LOS CAPÍTULOS, SECCIONES, APARTADOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
+
 ## TITULO SEPTIMO.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE ENERO DE 1984)</small>
@@ -3335,6 +3335,38 @@ Toda familia tiene derecho a disfrutar de vivienda digna y decorosa.
 > <small>(REFORMADO, P.O. 13 DE ENERO DE 1989)</small>
 
 La Ley establecerá los medios y apoyos necesarios para el logro de estos objetivos.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2013)</small>
+
+###### Artículo 173 Bis.
+
+Toda persona tiene derecho a la prestación de servicios médicos públicos o privados, obteniendo una atención eficiente, oportuna y de calidad, para ello, el estado promoverá la existencia de mecanismos que protejan y garanticen el derecho a la salud así como el libre ejercicio de la medicina en la entidad.
+
+Sin perjuicio de la competencia de las instancias jurisdiccionales y de las facultades que tiene la Comisión de Derechos Humanos del Estado de Coahuila en la protección del derecho a la salud, se constituye a la Comisión Coahuilense de Conciliación y Arbitraje Médico como un organismo público autónomo, dotado de personalidad jurídica y patrimonio propio, con el objeto de contribuir en el ámbito estatal, a mejorar la calidad en la prestación de los servicios médicos y resolver en forma imparcial los conflictos o diferencias suscitadas entre los usuarios y prestadores de servicios, con motivo de una atención médica.
+
+La Comisión Coahuilense de Conciliación y Arbitraje Médico se constituirá de acuerdo a las bases siguientes:
+
+I. Será un organismo público autónomo, independiente en sus resoluciones, acuerdos, laudos, recomendaciones y dictámenes, así como en las demás funciones previstas en su marco legal;
+
+II. Conocerá de las quejas médicas que se susciten con motivo de una mala práctica en la atención médica o de la negativa u omisión en la prestación de esta, ofreciendo a los usuarios y prestadores de servicios médicos resolver sus conflictos a través de la conciliación y el arbitraje médico en los términos que establezca la ley de la materia;
+
+III. Será competente para promover las acciones de carácter preventivo, que permitan elevar la calidad en la atención de los servicios;
+
+IV. Contará con autonomía política, jurídica, administrativa, presupuestal, patrimonial y financiera, en los términos que establezca la ley;
+
+V. Su actuación se regirá por los principios de legalidad, certeza, imparcialidad, equidad, objetividad, economía procesal, independencia, reserva y confidencialidad;
+
+VI. Los procedimientos, serán gratuitos, sencillos y ágiles;
+
+VII. Estará integrada por un Consejo General que será el órgano superior de gobierno, una Presidencia, las Subcomisiones, un órgano de control y demás unidades administrativas y personal necesario para su operación;
+
+VIII. Los integrantes del Consejo General serán designados por el voto de cuando menos las dos terceras partes de los Diputados presentes en el Congreso del Estado, en los términos y conforme al procedimiento que disponga la ley;
+
+IX. La ley determinará los requisitos para ser Presidente, así como consejero de la Comisión Coahuilense de Conciliación y Arbitraje Médico;
+
+X. La Comisión Coahuilense de Conciliación y Arbitraje Médico podrá presentar iniciativas de leyes o decretos al Congreso del Estado en materia de su competencia en los términos de los artículos 59 y 60 de esta Constitución. En este caso la iniciativa se presentará por conducto del presidente, previo acuerdo del Consejo General;
+
+XI. Las demás atribuciones que establezca la ley.
 
 > <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1977)</small>
 
@@ -4487,3 +4519,9 @@ DECRETO NÚMERO 162 POR EL QUE SE REFORMAN LOS ARTÍCULOS 45, 46 Y 70 DE LA CONS
 PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- La distribución que se establece en este decreto, sobre los tiempos en que habrán de desarrollarse los períodos ordinarios de sesiones del Congreso del Estado y los períodos de funcionamiento de la Diputación Permanente, surtirá efectos a partir del Segundo Año del Ejercicio Constitucional de la LIX Legislatura, que se inicia el 1 de enero de 2013.
+
+P.O. 12 DE ABRIL DE 2013.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan a lo previsto en este decreto.
