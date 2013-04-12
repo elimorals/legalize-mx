@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-justicia-administrativa-para-el-estado-y-municipios-1063
 country: "mx"
 rank: "ley"
 publication_date: "1997-02-21"
-last_updated: "2012-04-02"
+last_updated: "2013-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10634&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO Y MUNICIPIOS DE NUEVO LEON - ANTES LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE NUEVO LEON -
 
-LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE NUEVO LEÓN
+LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO Y MUNICIPIOS DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 21 de febrero de 1997.
 
@@ -35,7 +35,9 @@ DECRETO
 
 NUM. 383
 
-LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE NUEVO LEON
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE ABRIL DE 2013)</small>
+
+LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO Y MUNICIPIOS DE NUEVO LEÓN
 
 ## TITULO PRIMERO. DE LA JUSTICIA ADMINISTRATIVA
 
@@ -3095,6 +3097,166 @@ Las copias certificadas de constancias jurisdiccionales, obtenidas del Tribunal 
 
 Los registros electrónicos generados y publicados en el Tribunal Virtual Administrativo, harán fe una vez cotejados los mismos con los que obren en el expediente electrónico del cual se refiera haber sido obtenidos por el oferente.
 
+(NOTA: EL 1 DE ABRIL DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 79/2013, DECLARÓ FUNDADA DICHA CONTROVERSIA CONSTITUCIONAL, EN CONTRA DE LA OMISIÓN LEGISLATIVA DEL CONGRESO DEL ESTADO DE NUEVO LEÓN, CONSISTENTE EN LA FALTA DE SEÑALAMIENTO DE LA AUTORIDAD COMPETENTE PARA IMPONER SANCIONES POR RESPONSABILIDAD ADMINISTRATIVA A LOS MAGISTRADOS DE LOS TRIBUNALES DE JUSTICIA ADMINISTRATIVA MUNICIPAL Y A SUS SERVIDORES PÚBLICOS ADSCRITOS, LA CUAL DEBERÁ SUBSANARSE MEDIANTE LA EMISIÓN DE LA REGULACIÓN CORRESPONDIENTE, A MÁS TARDAR EN EL SIGUIENTE PERIODO ORDINARIO DE SESIONES DEL CONGRESO DEL ESTADO DE NUEVO LEÓN QUE INICIA EL PRIMERO DE MARZO Y TERMINA EL PRIMERO DE JUNIO DE DOS MIL CATORCE, Y SURTIÓ EFECTOS EL 2 DE ABRIL DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: “CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES.” (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249).
+
+CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA. (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE ABRIL DE 2013)</small>
+
+## TITULO QUINTO. DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO MUNICIPAL
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE ABRIL DE 2013)</small>
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2013)</small>
+
+###### Artículo 176.
+
+El Tribunal de Justicia Administrativa Municipal, fungirá como Órgano Descentralizado de la Administración Pública Municipal, materialmente Jurisdiccional, con autonomía plena y Jurisdicción para dictar fallos.
+
+La integración, funcionamiento y atribuciones del Tribunal de Justicia Administrativa Municipal, se sujetará a lo establecido en el presente Capítulo y a esta Ley.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2013)</small>
+
+###### Artículo 177.
+
+Los Municipios que así lo determinen, y cuenten con capacidad económica, técnica y humana, podrán constituir un Tribunal de Justicia Administrativa Municipal, mediante acuerdo de las dos terceras partes de los integrantes del Ayuntamiento que decida su creación, debiendo garantizar el cumplimiento de los elementos y principios necesarios para que se administre justicia en el orden municipal, como son:
+
+I. La creación y determinación del órgano encargado de impartir justicia, bajo la denominación que se otorgue, su certera composición e integración, de acuerdo a los principios señalados en este Capítulo;
+
+II. Las garantías y salvaguardas de su independencia y la de sus titulares;
+
+III. Respetar los principios de igualdad, publicidad, audiencia y legalidad, como rectores de la función jurisdiccional; y
+
+IV. Ajustar su estructura jurídica administrativa a lo previsto en esta Ley, determinando el monto de los recursos que se destinarán para tal fin.
+
+El Tribunal Municipal residirá en el Municipio de que se trate y su domicilio será el que determine cada Ayuntamiento.
+
+El Municipio que no tenga su propio Tribunal de Justicia Administrativa, deberá sujetarse a la competencia del Tribunal de Justicia Administrativa del Estado.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2013)</small>
+
+###### Artículo 178.
+
+El Tribunal Municipal será uninstancial y estará integrado de la siguiente forma:
+
+I. En los Municipios con población de hasta 100,000 habitantes conforme al último censo publicado por el Instituto Nacional de Estadística y Geografía, se conformará por una Sala Unitaria integrada por un Magistrado; o
+
+II. En los Municipios con población mayor a 100,000 habitantes conforme al último censo publicado por el Instituto Nacional de Estadística y Geografía, se conformará por una Sala Ordinaria que funcionará colegiadamente y se integrará por tres Magistrados.
+
+Conforme su presupuesto lo permita, para el debido cumplimiento de sus funciones, el Tribunal procurará contar con el mismo personal que se requiere para la integración del Tribunal de Justicia Administrativa del Estado.
+
+El Tribunal Municipal constituido como Sala Ordinaria Colegiada tendrá un Presidente designado entre los Magistrados que integren la Sala y durará en la Presidencia un año y no podrá ser electo por los dos años siguientes a su designación. El cargo de la Presidencia del Tribunal Municipal será rotativo entre sus miembros.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2013)</small>
+
+###### Artículo 179.
+
+Los Magistrados del Tribunal de Justicia Administrativa, serán propuestos por el Presidente Municipal, aprobados por las dos terceras partes de los integrantes del Ayuntamiento, y ratificados por las dos terceras partes de los integrantes del Congreso del Estado; si la propuesta realizada por el Presidente Municipal es rechazada por el Congreso del Estado, el Presidente Municipal deberá realizar una nueva propuesta en un término no mayor de 15 días naturales, siguiendo el procedimiento señalado en este Artículo.
+
+Los Magistrados del Tribunal de Justicia Administrativa Municipal no representan a quienes los designa, por lo que ejercerán su función con independencia e imparcialidad.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2013)</small>
+
+###### Artículo 180.
+
+Los Magistrados del Tribunal Municipal recibirán un emolumento que no excederá las dos terceras partes de lo que perciba el Presidente Municipal del Ayuntamiento de que se trate; los demás servidores públicos adscritos al Tribunal percibirán los ingresos que acuerde el Tribunal y no podrán ser disminuidos durante su encargo.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2013)</small>
+
+###### Artículo 181.
+
+Para ser Magistrado del Tribunal de Justicia Administrativa Municipal, se deben cumplir los requisitos establecidos en las fracciones I, II, III y IV del Artículo 8 de la presente Ley; así como no haber desempeñado algún cargo de elección popular en el Ayuntamiento, de Secretario o Director en la Administración Municipal de que se trate, cuando menos los dos años previos al día de su nombramiento.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2013)</small>
+
+###### Artículo 182.
+
+Los Magistrados del Tribunal serán nombrados por un período de cinco años, los que se computarán a partir de la fecha de su nombramiento. Al concluir el período, podrán ser considerados por única vez para nuevo nombramiento, para lo cual deberán ser ratificados por el Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2013)</small>
+
+###### Artículo 183.
+
+Son causas de terminación del cargo de Magistrado, las siguientes:
+
+I. Padecer incapacidad física o mental que imposibilite el desempeño de sus funciones;
+
+II. La renuncia;
+
+(NOTA: EL 1 DE ABRIL DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 79/2013, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE ABRIL DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: “CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES.” (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249).
+
+CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA. (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+III. LA DESIGNACIÓN DE OTRO EN SU LUGAR;
+
+IV. Haber desempeñado su cargo durante 10 años; y
+
+V. Cumplir setenta y cinco años de edad.
+
+Con la anticipación de tres meses para concluir el cargo de Magistrado que deba ser sustituido, el Presidente Municipal presentará propuesta de designación del nuevo Magistrado, al Ayuntamiento, para que el Congreso del Estado decida lo que corresponda conforme al procedimiento establecido en la presente Ley. De no presentarse la propuesta, el Congreso del Estado requerirá al Ayuntamiento para que formule su propuesta.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2013)</small>
+
+###### Artículo 184.
+
+El Tribunal de Justicia Administrativa Municipal, una vez que esté constituido e instalado será el único competente para conocer y resolver las controversias que los particulares planteen y que se refieran a actos de la Autoridad Municipal, con excepción de los casos en que el Magistrado Unitario se excuse de conocer de algún asunto, quien lo turnará a la Oficialía de Partes del Tribunal de Justicia Administrativa del Estado de Nuevo León.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2013)</small>
+
+###### Artículo 185.
+
+Las licencias de los Magistrados del Tribunal Municipal, cuando no excedan de un mes serán con goce de sueldo y concedidas por acuerdo de sus integrantes sin la intervención del solicitante, en el caso del Magistrado Unitario su licencia será concedida por el Ayuntamiento; las que excedan de ese tiempo serán concedidas sin goce de sueldo. Ninguna licencia podrá concederse por más de seis meses.
+
+No se autorizarán licencias que tengan como propósito ocupar o desempeñar algún otro cargo ya sea a nivel federal, estatal o municipal, sea o no de elección popular.
+
+Ante la falta definitiva de cualquiera de los Magistrados, se procederá conforme a lo dispuesto en el Artículo 183 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2013)</small>
+
+###### Artículo 186.
+
+Al Tribunal de Justicia Administrativa Municipal, le es aplicable todo lo previsto en la presente Ley, respecto a la organización, atribuciones y funcionamiento del Tribunal de Justicia Administrativa del Estado de Nuevo León, en cuanto sea de su competencia y que no se oponga a lo previsto en este Capítulo.
+
+Las atribuciones de la Sala Superior del Tribunal Estatal, las de su Presidente, y las de los Magistrados que la integran, señaladas en esta Ley, serán las que respectivamente correspondan y sean compatibles en la Sala Ordinaria Colegiada Municipal.
+
+Las resoluciones interlocutorias y definitivas se resolverán en Pleno.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2013)</small>
+
+###### Artículo 187.
+
+El Magistrado Unitario conocerá de todos los juicios que se promuevan ante el Tribunal; en el caso de los Magistrados de la Sala Ordinarias Colegiada, conocerán por ponencia y turno.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2013)</small>
+
+###### Artículo 188.
+
+El Procedimiento Administrativo, incluyendo todas sus etapas procesales, los términos legales que habrán de servir de base para el desarrollo del procedimiento, el procedimiento de ejecución de las sentencias, los Incidentes, así como la suspensión de los actos impugnados, deberá estarse a lo previsto en esta Ley.
+
+El Tribunal Municipal procurará el uso de los métodos alternos para la solución de los conflictos cuando exista sometimiento expreso a los mismos, y en su caso será el responsable de la prestación del servicio relativo conforme a lo dispuesto en esta Ley y en la Ley de Métodos Alternos para la Solución de Conflictos del Estado de Nuevo León.
+
+Este servicio será prestado de acuerdo con los lineamientos que establezca el Tribunal Municipal, quien podrá instaurar el procedimiento establecido en el Capítulo de la Audiencia de Juicio Oral de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2013)</small>
+
+###### Artículo 189.
+
+Desde el primer escrito que presenten, los particulares deberán señalar domicilio en el Municipio donde resida el Tribunal, comunicando el cambio del mismo para que se hagan las notificaciones personales indicadas en esta Ley. En caso de que los particulares no cumplan con la prevención anterior, las notificaciones que deban ser personales se harán en la forma prevista en la fracción IV del Artículo 38 de esta Ley.
+
+Los escritos de las partes se presentarán directamente en la Oficialía de Partes del Tribunal.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2013)</small>
+
+###### Artículo 190.
+
+En los juicios promovidos ante los Tribunales Municipales, no procede recurso alguno.
+
 T R A N S I T O R I O S
 
 ###### ARTICULO PRIMERO.
@@ -3294,6 +3456,20 @@ Sexto.- Los juicios que se encuentren en trámite a la entrada en vigor del pres
 P.O. 2 DE ABRIL DE 2012.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+P.O. 12 DE ABRIL DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO.- En las leyes a que se haga referencia a la Ley de Justicia Administrativa para el Estado de Nuevo León, se entenderá que se refiere a la Ley de Justicia Administrativa para el Estado y Municipios de Nuevo León.
+
+(NOTA: EL 1 DE ABRIL DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 79/2013, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL ARTÍCULO TERCERO TRANSITORIO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE ABRIL DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: “CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES.” (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249).
+
+CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA. (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+TERCERO.- En los supuestos en que el Municipio decida ya no contar con un Tribunal Municipal se deberá notificar al Congreso del Estado de Nuevo León, A EFECTO DE INFORMAR EL MAGISTRADO DESIGNADO COMO RESPONSABLE DE CONCLUIR LOS ASUNTOS EN TRÁMITE RECIBIDOS HASTA ANTES DEL ACUERDO DE SU EXTINCIÓN.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 304.- SE ADICIONA EL ARTÍCULO 6º DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES”.]
 
