@@ -4,7 +4,7 @@ identifier: "COA-ley-de-responsabilidades-de-los-servidores-publicos-3774"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-24"
-last_updated: "2009-10-23"
+last_updated: "2013-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COA"
 ---
 # LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS ESTATALES Y MUNICIPALES DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-LEY DE RESPONSABILIDAD DE LOS SERVIDORES PUBLICOS ESTATALES Y MUNICIPALES DEL ESTADO DE COAHUILA DE ZARAGOZA
+LEY DE RESPONSABILIDAD DE LOS SERVIDORES PÚBLICOS ESTATALES Y MUNICIPALES DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE OCTUBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ABRIL DE 2013.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 24 de abril de 1984.
 
@@ -493,11 +493,19 @@ XXII.- Abstenerse de cualquier acto u omisión que implique incumplimiento de cu
 
 > <small>(REFORMADA, P.O. 22 DE JUNIO DE 1993)</small>
 
-XXIII.- Abstener, en ejercicio de sus funciones o con motivo de ellas, de celebrar o autorizar la celebración de pedidos o contratos relacionados con adquisiciones, arrendamientos y enajenación de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra pública, con quien desempeña un empleo, cargo o comisión en el Servicio Público, o bien con las sociedades de que dichas personas formen parte, sin la autorización previa y específica de la autoridad competente a propuesta razonada, conforme a las disposiciones legales aplicables, del titular de la dependencia o entidad que se trate. Por ningún motivo podrá celebrarse pedido o contrato alguno con quien se encuentre inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público; y
+XXIII.- Abstener, en ejercicio de sus funciones o con motivo de ellas, de celebrar o autorizar la celebración de pedidos o contratos relacionados con adquisiciones, arrendamientos y enajenación de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra pública, con quien desempeña un empleo, cargo o comisión en el Servicio Público, o bien con las sociedades de que dichas personas formen parte, sin la autorización previa y específica de la autoridad competente a propuesta razonada, conforme a las disposiciones legales aplicables, del titular de la dependencia o entidad que se trate. Por ningún motivo podrá celebrarse pedido o contrato alguno con quien se encuentre inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público; y (sic)
+
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2013)</small>
+
+XXIV.- Responder las recomendaciones que les presente la institución a la que legalmente le competa la vigilancia y defensa de los derechos humanos, y en el supuesto de que se decida no aceptar o no cumplir las recomendaciones, deberá hacer pública su negativa, fundándola y motivándola en términos de lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Coahuila de Zaragoza y por la Ley de la Comisión de los Derechos Humanos de Coahuila;
+
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2013)</small>
+
+XXV.- Atender los llamados del Congreso del Estado o en sus recesos de la Diputación Permanente para comparecer ante (sic) a efecto de que expliquen el motivo de su negativa a aceptar o cumplir las recomendaciones de la institución a la que legalmente le competa la vigilancia y defensa de los derechos humanos, en términos del Apartado B, del artículo 102 de la Constitución Política de los Estados Unidos Mexicanos;
 
 > <small>(ADICIONADA, P.O. 22 DE JUNIO DE 1993)</small>
 
-XXIV.- Las demás que le impongan los ordenamientos jurídicos y administrativos aplicables.
+XXVI.- Las demás que le impongan los ordenamientos jurídicos y administrativos aplicables.
 
 El incumplimiento de estas obligaciones será sancionado como falta administrativa.
 
@@ -952,3 +960,11 @@ P.O. 23 DE OCTUBRE DE 2009.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE ABRIL DE 2013.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El Consejo Consultivo de la Comisión deberá de realizar las adecuaciones al Reglamento Interior de la Comisión en un término de sesenta días después de la entrada en vigor del presente decreto.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
