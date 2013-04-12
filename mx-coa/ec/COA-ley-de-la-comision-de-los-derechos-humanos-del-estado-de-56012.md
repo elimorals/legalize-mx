@@ -4,7 +4,7 @@ identifier: "COA-ley-de-la-comision-de-los-derechos-humanos-del-estado-de-56012"
 country: "mx"
 rank: "ley"
 publication_date: "2007-06-05"
-last_updated: "2009-06-26"
+last_updated: "2013-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COA"
 ---
 # LEY DE LA COMISION DE LOS DERECHOS HUMANOS DEL ESTADO DE COAHUILA DE ZARAGOZA -ANTES LEY ORGANICA DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE COAHUILA-
 
-LEY ORGANICA DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE COAHUILA
+LEY DE LA COMISIÓN DE LOS DERECHOS HUMANOS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JUNIO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2013.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 5 de junio de 2007.
 
@@ -35,7 +35,9 @@ DECRETA:
 
 NÚMERO 288
 
-LEY ORGÁNICA DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE COAHUILA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE ABRIL DE 2013)</small>
+
+LEY DE LA COMISION DE LOS DERECHOS HUMANOS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -59,15 +61,21 @@ I. Actos u omisiones de naturaleza materialmente administrativa: son aquellas ac
 
 II. Actos u omisiones que carecen de legalidad: son aquellas acciones, resoluciones u omisiones que realizan los servidores públicos, sin fundamentarse en facultad expresa determinada por las normas jurídicas aplicables.
 
-III. Comisión: La Comisión de Derechos Humanos del Estado de Coahuila.
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2013)</small>
+
+III. Comisión: La Comisión de los Derechos Humanos del Estado de Coahuila de Zaragoza.
 
 IV. Conciliación: Acuerdo celebrado entre el quejoso y la autoridad señalada como responsable, con el objeto de poner fin al procedimiento iniciado ante la Comisión mediante la interposición de la queja.
 
 V. Congreso: El Congreso del Estado Independiente, Libre y Soberano de Coahuila de Zaragoza.
 
-VI. Consejo: El Consejo de la Comisión de Derechos Humanos del Estado de Coahuila.
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2013)</small>
 
-VII. Consejeros: Los Consejeros de la Comisión de Derechos Humanos del Estado de Coahuila.
+VI. Consejo: El Consejo de la Comisión de los Derechos Humanos del Estado de Coahuila de Zaragoza.
+
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2013)</small>
+
+VII. Consejeros: Los Consejeros de la Comisión de los Derechos Humanos del Estado de Coahuila de Zaragoza.
 
 VIII. Constitución: La Constitución Política del Estado de Coahuila de Zaragoza.
 
@@ -85,7 +93,9 @@ XIV. Ley de Responsabilidades: La Ley de Responsabilidades de los Servidores Pú
 
 XV. Peticionario: Cualquier persona que solicite la intervención de la Comisión en asuntos distintos a los de protección jurisdiccional de sus Derechos Humanos.
 
-XVI. Presidente: El Presidente de la Comisión de Derechos Humanos del Estado de Coahuila.
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2013)</small>
+
+XVI. Presidente: El Presidente de la Comisión de los Derechos Humanos del Estado de Coahuila de Zaragoza.
 
 XVII. Procedimiento: El conjunto de actos regulados por esta ley, que tiene por finalidad conocer, investigar y resolver sobre la probable violación a los Derechos Humanos de las personas que se encuentren en el Estado, por algún acto u omisión atribuible a autoridades o servidores públicos estatales o municipales.
 
@@ -93,13 +103,31 @@ XVIII. Queja: El instrumento o medio por el cual, cualquier persona podrá impul
 
 XIX. Recomendación Pública: Resolución sin carácter vinculante que determina las conclusiones que ponen fin a un procedimiento tramitado ante la Comisión. Ésta se contendrá en un documento que llevará dicho nombre y que se dirigirá a los superiores jerárquicos de las autoridades o servidores públicos, estatales o municipales, que vulneraron los Derechos Humanos de alguna persona. Toda recomendación señalará las propuestas y medidas para la efectiva restitución de los afectados en sus Derechos Humanos y, en su caso, para la reparación de los daños que se hubieren ocasionado.
 
-XX. Reglamento Interior de la Comisión de Derechos Humanos del Estado de Coahuila: Instrumento normativo que precisa las atribuciones, facultades, estructura y competencia específica de cada uno de los órganos de la Comisión; que establece las reglas mínimas de procedimientos para recibir quejas, realizar investigaciones, elaborar dictámenes, así como formular Recomendaciones a las autoridades y funcionarios involucrados en casos de violación de Derechos Humanos.
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2013)</small>
+
+XX. Reglamento Interior de la Comisión de los Derechos Humanos del Estado de Coahuila: Instrumento normativo que precisa las atribuciones, facultades, estructura y competencia específica de cada uno de los órganos de la Comisión; que establece las reglas mínimas de procedimientos para recibir quejas, realizar investigaciones, elaborar dictámenes, así como formular Recomendaciones a las autoridades y funcionarios involucrados en casos de violación de Derechos Humanos.
 
 XXI. Visitador General: Es al que corresponde coordinar y supervisar las visitadurías regionales e itinerantes, por instrucciones del Presidente; así como conocer, analizar e investigar las quejas de presuntas violaciones a los Derechos Humanos, cometidas por autoridades de carácter estatal y municipal; realizar las actividades necesarias para lograr por medio de la conciliación, la solución inmediata entre las partes; de no ser así, formular los proyectos de recomendación correspondientes.
 
 XXII. Visitaduría Regional: Es al que corresponde conocer, analizar e investigar las quejas de presuntas violaciones a los Derechos Humanos, cometidas por autoridades de su competencia; realizar las actividades necesarias para lograr por medio de la conciliación, la solución inmediata entre las partes; de no ser así, formular los proyectos de recomendación correspondientes.
 
 XXIII. Visitaduría Itinerante: Es al que corresponde conocer, analizar e investigar las quejas de presuntas violaciones a los Derechos Humanos, que le sean encomendadas por la gravedad del caso y se considere el superior interés social, cometidas por autoridades de su competencia; así como realizar las actividades necesarias para lograr por medio de la conciliación, la solución inmediata entre las partes; de no ser así, formular los proyectos de recomendación correspondientes.
+
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2013)</small>
+
+XXIV. Visitador Adjunto: Aquel que se encuentra adscrito a la Visitaduría General o a una Regional y le corresponde conocer, analizar e investigar de oficio o a petición de parte presuntas violaciones a los Derechos Humanos cometidas por autoridades estatales o municipales; brindar asesoría a las personas que lo soliciten, así como realizar las actividades necesarias para lograr por medio de la conciliación, la solución inmediata entre las partes; de no ser así, auxiliar en la formulación de proyectos de recomendación correspondientes.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE ABRIL DE 2013)</small>
+
+XXV. Comités Regionales: Comités Regionales para la Protección de los Derechos Humanos, son los órganos consultivos de coordinación y concertación de acciones para coadyuvar con el estudio, promoción, divulgación y protección de los Derechos Humanos en Coahuila, los cuales serán integrados por los miembros de los Comités Municipales.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE ABRIL DE 2013)</small>
+
+XXVI. Comités Municipales: Comités Municipales para la Protección de los Derechos Humanos, son los órganos consultivos de coordinación y concertación de acciones para coadyuvar con el estudio, promoción, divulgación y protección de los Derechos Humanos en Coahuila. Serán integrados por miembros de la sociedad civil organizada.
+
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2013)</small>
+
+XXVII. Equidad de Género: para efectos de la simplicidad gramatical, cada vez que se use el genérico masculino, se entenderá que se hace referencia a los hombres y a las mujeres por igual
 
 ### CAPÍTULO SEGUNDO. LA COMISIÓN COMO ORGANISMO PÚBLICO AUTÓNOMO
 
@@ -211,9 +239,11 @@ II. Contribuir al fortalecimiento de las convicciones humanistas, sociales y dem
 
 III. Coadyuvar al establecimiento de las garantías necesarias para asegurar que los Derechos Humanos de las personas que se encuentren en el territorio del Estado de Coahuila, sean reales, equitativos y efectivos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ABRIL DE 2013)</small>
+
 ###### ARTÍCULO 19.
 
-La Comisión tiene competencia en todo el territorio del Estado, y conocerá de oficio o a petición de parte, de las quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público; sin embargo, no será competente tratándose de actos y resoluciones de organismos y autoridades electorales, resoluciones de carácter jurisdiccional y resoluciones de carácter laboral, pero sí lo será en lo referente a actos u omisiones de carácter administrativo de las autoridades ante quienes se tramitan dichos asuntos.
+La Comisión tiene competencia en todo el territorio del Estado, y conocerá de oficio o a petición de parte, de las quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público.
 
 La Comisión, previa celebración de convenios de colaboración con la Comisión Nacional de los Derechos Humanos, actuará como receptora de quejas que resulten de la competencia de dicho organismo, pudiendo, en todo caso, realizar las investigaciones que en derecho procedan, e inclusive, decretar las medidas cautelares tendientes a evitar la consumación irreparable de las violaciones denunciadas o reclamadas, o la producción de daños de difícil reparación a los afectados. Una vez desahogadas las diligencias correspondientes, la queja será turnada a la Entidad Nacional.
 
@@ -319,6 +349,14 @@ I. El Consejo
 
 II. Las Comisiones del Consejo
 
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2013)</small>
+
+III. Comités Regionales
+
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2013)</small>
+
+IV. Comités Municipales
+
 ###### ARTÍCULO 24.
 
 Los órganos ejecutivos de la Comisión serán:
@@ -401,11 +439,15 @@ LA PRESIDENCIA DE LA COMISIÓN
 
 Al frente de la Comisión y del Consejo habrá un Presidente que será designado por el Congreso en los términos previstos en esta ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ABRIL DE 2013)</small>
+
 ###### ARTÍCULO 31.
 
-Para ser designado Presidente de la Comisión se deberán satisfacer los siguientes requisitos:
+Para ser designado Presidente se deberán satisfacer los siguientes requisitos:
 
-I. Ser mexicano y coahuilense en pleno ejercicio de sus derechos ciudadanos;
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2013)</small>
+
+I. Ser mexicano en pleno ejercicio de sus derechos ciudadanos.;
 
 II. Tener treinta años de edad cumplidos al día de su designación;
 
@@ -435,37 +477,47 @@ X. Haber cumplido en todos sus términos, con el procedimiento de designación p
 
 XI. Haber residido en el Estado cuando menos los tres años anteriores a la fecha de la designación, salvo que se haya ausentado por razones de servicio en los gobiernos estatal, federal o municipal.
 
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2013)</small>
+
 ###### ARTÍCULO 32.
 
-El Presidente de la Comisión será designado por el Congreso, por mayoría simple de los legisladores presentes. Durará en su cargo un período de seis años y podrá ser ratificado exclusivamente para un segundo período.
+El Presidente será elegido por el voto de la mayoría de los legisladores presentes, el período será de seis años y podrá ser ratificado exclusivamente para un segundo período. Para tales efectos, la comisión correspondiente del Congreso del Estado, procederá a realizar una amplia auscultación entre las organizaciones sociales representativas de los distintos sectores de la sociedad, así como entre los organismos públicos y privados promotores o defensores de los derechos humanos e instituciones públicas y privadas de educación superior en el Estado.
+
+Con base en dicha auscultación, la comisión correspondiente del Congreso del Estado propondrá al pleno de la misma, una terna de candidatos de la cual se elegirá a quien ocupe el cargo o, en su caso, la ratificación del titular.
 
 ###### ARTÍCULO 33.
 
-Para la designación del Presidente de la Comisión, el Gobernador del Estado remitirá al Congreso o a la Diputación Permanente, en su caso, una terna de candidatos a ocupar el cargo señalado, la cual deberá ser acompañada de la documentación necesaria para acreditar el cumplimiento de los requisitos establecidos en el artículo 31 de la presente ley.
+(DEROGADO, P.O. 12 DE ABRIL DE 2013)
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2013)</small>
 
 ###### ARTÍCULO 34.
 
-Quien haya sido designado como Presidente de la Comisión rendirá la protesta de ley ante el Pleno del Congreso, o en sus recesos, ante la Diputación Permanente.
+Quien haya sido designado como Presidente rendirá la protesta de ley ante el Pleno del Congreso, o en sus recesos, ante la Diputación Permanente.
 
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2013)</small>
 
 ###### ARTÍCULO 35.
 
-Para determinar sobre la ratificación o no del Presidente y de los Consejeros de la Comisión, cuando proceda, el Pleno del Congreso o, en su caso, la Diputación Permanente, veinte días naturales anteriores a la fecha en que concluya el período, designará una comisión de diputados a efecto de que, con base en los informes que ante el Congreso hubiere presentado la Comisión, evalúe el ejercicio de su titular y de los Consejeros.
+Para determinar sobre la ratificación o no del Presidente y de los Consejeros, cuando proceda, el Pleno del Congreso o, en su caso, la Diputación Permanente, veinte días naturales anteriores a la fecha en que concluya el período, designará una comisión de diputados a efecto de que, con base en los informes que ante el Congreso hubiere presentado la Comisión, evalúe el ejercicio de su titular y de los Consejeros.
 
-El procedimiento de ratificación o no del Presidente y de los Consejeros de la Comisión procederá siempre y cuando lo solicite previamente el Gobernador del Estado. En caso de que este procedimiento no sea solicitado hasta un día antes de la fecha en que deba iniciar el mismo, se procederá al trámite de designación previsto en esta ley.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ABRIL DE 2013)</small>
 
 ###### ARTÍCULO 36.
 
-Con base en la propuesta realizada por la comisión a que se refiere el artículo que antecede, el Presidente de la Comisión será ratificado en la fecha en que corresponda, si obtiene el voto de la mayoría los diputados presentes del Congreso.
+Con base en la propuesta realizada por la comisión a que se refiere el artículo que antecede, el Presidente será ratificado en la fecha en que corresponda, si obtiene el voto de la mayoría los diputados presentes del Congreso.
 
 Serán ratificados los Consejeros que obtengan los votos de la mayoría de los diputados presentes que integran al Congreso.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ABRIL DE 2013)</small>
+
 ###### ARTÍCULO 37.
 
-El Presidente de la Comisión tendrá las atribuciones siguientes:
+El Presidente tendrá las atribuciones siguientes:
 
-I. Presidir el Consejo de la Comisión;
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2013)</small>
+
+I. Presidir el Consejo;
 
 II. Representar legalmente a la Comisión ante cualquier autoridad, organismo, institución pública o privada y particulares;
 
@@ -476,6 +528,10 @@ Estará facultado, además, para desistirse de amparos, para intervenir en juici
 IV. Convocar y conducir las sesiones del Consejo;
 
 V. Emitir las recomendaciones públicas y acuerdos que resulten de las investigaciones realizadas por los órganos ejecutores de la Comisión;
+
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2013)</small>
+
+V. bis. Solicitar, en los términos del artículo 130 de esta Ley, al Congreso del Estado o en su caso, a la Diputación Permanente, se llame a comparecer a las autoridades o servidores públicos responsables, para explicar el motivo de su negativa a aceptar o cumplir las recomendaciones emitidas por la Comisión.
 
 VI. Presentar a la opinión pública informes especiales en los que se expongan:
 
@@ -537,33 +593,49 @@ XXVII. Formular un informe sobre el ejercicio presupuestal anual, y someterlo a 
 
 XXVIII. Promover y fortalecer las relaciones de la Comisión, con dependencias, organismos e instituciones públicas, sociales o privadas, de carácter local, regional, nacional e internacional;
 
-XXIX. Aprobar las directrices generales a que se sujetará la práctica de auditorías; y,
+XXIX. Aprobar las directrices generales a que se sujetará la práctica de auditorías; y (sic),
 
-XXX. Las demás que le señalen la presente ley, el reglamento u otras disposiciones aplicables.
+> <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2013)</small>
+
+XXX. Promover las acciones de inconstitucionalidad local, en contra de leyes de carácter estatal, que vulneren los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en la Constitución del Estado y en los tratados internacionales de los que México sea parte, y
+
+XXXI. Las demás que le señalen la presente ley, el reglamento u otras disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2013)</small>
 
 ###### ARTÍCULO 38.
 
-Las ausencias temporales del Presidente serán suplidas, de manera interina, por el Visitador General. Sólo podrán durar hasta por 30 días naturales. Cuando sean por más tiempo, las ausencias se considerarán como definitivas y se deberá proceder a la sustitución del Presidente, con observancia de lo dispuesto en esta ley.
+Las ausencias temporales del Presidente sólo podrán durar hasta por 30 días naturales y serán suplidas, de manera interina, por el Visitador General. Si son por más tiempo, el Congreso determinará cuando se considere ausencia definitiva y procederá a la sustitución del Presidente, con observancia de lo dispuesto en esta ley.
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2013)</small>
 
 ###### ARTÍCULO 39.
 
-El Presidente de la Comisión podrá ser destituido y, en su caso, sujeto a responsabilidades, sólo por las causas y mediante los procedimientos que establece el Título Séptimo de la Constitución Política del Estado.
+El Presidente podrá ser destituido y, en su caso, sujeto a responsabilidades, sólo por las causas y mediante los procedimientos que establece el Título Séptimo de la Constitución Política del Estado.
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2013)</small>
 
 ###### ARTÍCULO 40.
 
-El Presidente de la Comisión convocará a los medios de difusión, por lo menos dos veces al año, para dar a conocer las recomendaciones emitidas, los acuerdos de no responsabilidad y las demás acciones derivadas de sus funciones que estime pertinentes.
+El Presidente convocará a los medios de difusión, por lo menos dos veces al año, para dar a conocer las recomendaciones emitidas, los acuerdos de no responsabilidad y las demás acciones derivadas de sus funciones que estime pertinentes.
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2013)</small>
 
 ###### ARTÍCULO 41.
 
-El Presidente de la Comisión presentará anualmente al Pleno del Congreso o ante la Comisión Permanente, un informe sobre las actividades que haya realizado en el período respectivo y, además, lo entregará por escrito a los titulares de los Poderes Ejecutivo y Judicial. Dicho informe será difundido en la forma más amplia para conocimiento de la sociedad.
+El Presidente presentará anualmente al Pleno del Congreso o ante la Comisión Permanente, un informe sobre las actividades que haya realizado en el período respectivo dentro de los primeros 15 días del mes de diciembre y, además, lo entregará por escrito a los titulares de los Poderes Ejecutivo y Judicial. Dicho informe será difundido en la forma más amplia para conocimiento de la sociedad.
+
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2013)</small>
 
 ###### ARTÍCULO 42.
 
-Los informes anuales del Presidente de la Comisión deberán comprender una descripción resumida del número y características de las quejas que se hayan presentado, los efectos del trabajo de conciliación, las investigaciones realizadas, las recomendaciones y los acuerdos de no responsabilidad que se hubiesen formulado, los resultados obtenidos, así como las estadísticas, los programas desarrollados y demás datos que se consideren convenientes.
+Los informes anuales del Presidente deberán comprender una descripción resumida del número y características de las quejas que se hayan presentado, los efectos del trabajo de conciliación, las investigaciones realizadas, las recomendaciones y los acuerdos de no responsabilidad que se hubiesen formulado, los resultados obtenidos, así como las estadísticas, los programas desarrollados y demás datos que se consideren convenientes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ABRIL DE 2013)</small>
 
 ###### ARTÍCULO 43.
 
-Tanto el Congreso como los titulares de los Poderes Ejecutivo y Judicial, podrán formular comentarios y observaciones a los informes de la Comisión de Derechos Humanos del Estado de Coahuila, pero no estarán facultados para dirigirle instrucciones específicas.
+Tanto el Congreso como los titulares de los Poderes Ejecutivo y Judicial, podrán formular comentarios y observaciones a los informes de la Comisión, pero no estarán facultados para dirigirle instrucciones específicas.
 
 Los titulares de los Poderes Ejecutivo y Judicial del Estado pueden adoptar las medidas necesarias o iniciar las investigaciones conducentes que correspondan, a fin de lograr una efectiva protección de los Derechos Humanos en el Estado, derivado de las observaciones o recomendaciones emitidas por la Comisión.
 
@@ -573,19 +645,25 @@ APARTADO PRIMERO
 
 EL CONSEJO
 
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2013)</small>
+
 ###### ARTÍCULO 44.
 
-El Consejo se integrará por seis Consejeros propietarios y el Presidente de la Comisión.
+El Consejo se integrará por seis Consejeros propietarios y seis suplentes, los cuales deberán ser elegidos en equidad de género. Las formulas se integraran por hombre y mujer, y el Presidente.
 
-El Presidente de la Comisión lo será también del Consejo.
+El Presidente lo será también del Consejo.
 
-El titular de la Secretaría Técnica de la Comisión, lo será también del Consejo. Participará en las sesiones que éste celebre con voz, pero sin voto.
+El titular de la Secretaría Técnica, lo será también del Consejo. Participará en las sesiones que éste celebre con voz, pero sin voto.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ABRIL DE 2013)</small>
 
 ###### ARTÍCULO 45.
 
-Para ser Consejero de la Comisión, propietario o suplente, se deberán reunir los siguientes requisitos:
+Para ser Consejero, propietario o suplente, se deberán reunir los siguientes requisitos:
 
-I. Ser mexicano y coahuilense en pleno ejercicio de sus derechos ciudadanos;
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2013)</small>
+
+I. Ser mexicano en pleno ejercicio de sus derechos ciudadanos
 
 II. Contar con buena reputación;
 
@@ -601,13 +679,17 @@ VI. No haber sido condenado por delito doloso que amerite pena de prisión de m�
 
 VII. No ser Secretario de Estado, ni Fiscal General del Estado, Subsecretario o Director en la Administración Pública Federal, Estatal o Municipal, a menos que se separe de su encargo con un año de anticipación al día de su nombramiento.
 
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2013)</small>
+
 ###### ARTICULO 46.
 
-Los Consejeros de la Comisión, propietarios y suplentes, serán designados por el Pleno del Congreso. Durarán en su cargo seis años y podrán ser ratificados exclusivamente para un segundo período.
+Los Consejeros, propietarios y suplentes, serán designados por el Pleno del Congreso. Durarán en su cargo seis años y podrán ser ratificados exclusivamente para un segundo período.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ABRIL DE 2013)</small>
 
 ###### ARTÍCULO 47.
 
-La designación de los consejeros de la Comisión, se hará por el Congreso del Estado. Para este efecto, el Ejecutivo Estatal le enviará una propuesta que deberá estar conformada con un mínimo de doce candidatos, de entre los cuales se designará, en primer lugar, a seis consejeros que tendrán el carácter de titulares.
+La designación de los Consejeros, se hará por el Congreso del Estado, elegidos por el voto de la mayoría de los legisladores presentes. Para este efecto, la comisión correspondiente del Congreso del Estado, previa auscultación a los sectores sociales, propondrá a los candidatos para ocupar el cargo o, en su caso, la ratificación de los Consejeros.
 
 Con base en la misma propuesta, el Congreso designará a seis consejeros que tendrán el carácter de suplentes, para cubrir las ausencias definitivas de los consejeros titulares.
 
@@ -629,7 +711,9 @@ a. Establecer los lineamientos generales para el funcionamiento de la Comisión;
 
 b. Aprobar y expedir el reglamento interior de la Comisión, así como todas aquellas otras disposiciones que sean necesarias para su funcionamiento;
 
-Cuando se requiera de la interpretación de cualquier disposición del reglamento interior o de aspectos que éste no prevea, el Presidente de la Comisión lo someterá a la consideración del Consejo para que dicte el acuerdo respectivo;
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2013)</small>
+
+Cuando se requiera de la interpretación de cualquier disposición del reglamento interior o de aspectos que éste no prevea, el Presidente lo someterá a la consideración del Consejo para que dicte el acuerdo respectivo;
 
 c. Conocer y aprobar, previamente a su publicación, el informe que deberá formular anualmente el Presidente, para dar a conocer las actividades de la Comisión;
 
@@ -637,7 +721,9 @@ d. Conocer de las propuestas de recomendación que someta a su consideración el
 
 e. Pedir información adicional sobre los asuntos que se encuentren en trámite o hayan sido resueltos por la Comisión;
 
-f. Conocer el informe del Presidente de la Comisión, respecto al ejercicio presupuestal anual;
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2013)</small>
+
+f. Conocer el informe del Presidente, respecto al ejercicio presupuestal anual;
 
 g. Aprobar el establecimiento y operación de las Visitadurías de la Comisión;
 
@@ -663,7 +749,9 @@ El Presidente, por conducto de la Secretaría Técnica, convocará a las sesione
 
 Las sesiones del Consejo se sujetarán a lo siguiente:
 
-I. Serán válidas cuando se integren con la mitad más uno del total de los Consejeros propietarios y el Presidente de la Comisión o quien legalmente deba suplirlo;
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2013)</small>
+
+I. Serán válidas cuando se integren con la mitad más uno del total de los Consejeros propietarios y el Presidente o quien legalmente deba suplirlo;
 
 II. El Secretario Técnico, al inicio de cada sesión, leerá el acta de la reunión anterior para su aprobación. La misma deberá ser autorizada con las firmas del Presidente, o de quien legalmente deba suplirlo, de los Consejeros propietarios asistentes y del propio Secretario Técnico;
 
@@ -675,7 +763,9 @@ V. Las votaciones del Consejo se tomarán por mayoría de votos de los miembros 
 
 VI. De toda sesión se levantará el acta respectiva, a través del Secretario Técnico. Las actas deberán contener una síntesis del asunto tratado y el punto acordado. Las actas se resguardarán en el archivo de la Comisión, por conducto de la Secretaría Técnica; y,
 
-VII. Podrán concurrir, con voz pero sin voto, el Visitador General y el Director General de la Comisión.
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2013)</small>
+
+VII. Podrán concurrir, con voz pero sin voto, el Visitador General y el Director General.
 
 ###### ARTÍCULO 53.
 
@@ -701,6 +791,8 @@ b. Promover y participar en los programas que lleve a cabo la Comisión;
 
 c. Orientar a los ciudadanos en el ejercicio de sus Derechos Humanos;
 
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2013)</small>
+
 d. Desempeñar las tareas que el Consejo de la Comisión les encomiende;
 
 e. Integrar las comisiones del Consejo; y,
@@ -719,9 +811,11 @@ APARTADO SEGUNDO
 
 LAS COMISIONES DEL CONSEJO
 
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2013)</small>
+
 ###### ARTÍCULO 59.
 
-Los Consejeros integrarán las comisiones que se acuerden por los mismos para el análisis, estudio y opinión de los asuntos que se les encomienden. Por tanto, las comisiones del Consejo tendrán por objeto resolver sobre las consultas que se les formulen, así como emitir las opiniones que se les soliciten por el propio Consejo o el Presidente de la Comisión.
+Los Consejeros integrarán las comisiones que se acuerden por los mismos para el análisis, estudio y opinión de los asuntos que se les encomienden. Por tanto, las comisiones del Consejo tendrán por objeto resolver sobre las consultas que se les formulen, así como emitir las opiniones que se les soliciten por el propio Consejo o el Presidente.
 
 ###### ARTÍCULO 60.
 
@@ -736,6 +830,10 @@ El Consejo podrá delegar las funciones que estime convenientes a las comisiones
 Las comisiones del Consejo podrán auxiliarse del personal administrativo, técnico y operativo que sea necesario, previo acuerdo del Consejo y con arreglo a la disponibilidad presupuestal de la Comisión.
 
 En todo caso, el personal que integre cada una de las comisiones deberá ser profesional y especializado en la materia u objeto de la comisión.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2013)</small>
+
+ARTÍCULO 61 BIS. Cada Comité Regional se integrará a su vez con los integrantes de los Comités Municipales, mismos que serán propuestos por el Presidente para su aprobación por el Consejo Consultivo, previo cumplimiento de los requisitos que se establecen en el Acuerdo que crea los Comités Regionales y los Comités Municipales.
 
 #### SECCIÓN TERCERA. LOS ÓRGANOS EJECUTIVOS DE LA COMISIÓN
 
@@ -835,7 +933,9 @@ III. Iniciar de oficio, previo acuerdo del Presidente, el trámite de investigac
 
 IV. Ejecutar las acciones necesarias para dar, previo acuerdo del Presidente, atención inmediata a las quejas de que tenga conocimiento por violaciones de los Derechos Humanos, mediante la conciliación;
 
-V. Formular proyectos de las recomendaciones, o en su caso, los de no responsabilidad, apegados a los resultados de las investigaciones y estudios realizados sobre las denuncias o quejas presentadas, mismos que deberán someterse a la consideración del Visitador General y, a la aprobación del Presidente de la Comisión;
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2013)</small>
+
+V. Formular proyectos de las recomendaciones, o en su caso, los de no responsabilidad, apegados a los resultados de las investigaciones y estudios realizados sobre las denuncias o quejas presentadas, mismos que deberán someterse a la consideración del Visitador General y, a la aprobación del Presidente;
 
 VI. Proporcionar orientación jurídica a las personas que soliciten la intervención de la Comisión;
 
@@ -847,13 +947,17 @@ IX. Realizar las acciones que le sean encomendadas, a efecto de supervisar el re
 
 X. Las demás que les señale la presente ley, el reglamento u otros ordenamientos aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ABRIL DE 2013)</small>
+
 ###### ARTÍCULO 70.
 
-El Presidente y los Visitadores de la Comisión no podrán ser enjuiciados o reconvenidos, en ningún tiempo ni por ninguna autoridad, con motivo de las opiniones o recomendaciones que emitan en el ejercicio de su función pública.
+El Presidente y los Visitadores no podrán ser enjuiciados o reconvenidos, en ningún tiempo ni por ninguna autoridad, con motivo de las opiniones o recomendaciones que emitan en el ejercicio de su función pública.
 
 Los servidores públicos que laboren en la Comisión no estarán obligados a rendir testimonio cuando dicha prueba haya sido ofrecida en procesos civiles, penales, administrativos o cualquier otro y el testimonio se encuentre relacionado con su intervención en el tratamiento de los asuntos radicados en la propia Comisión.
 
-En aquellos casos en los que se reciba un citatorio para comparecer ante alguna autoridad administrativa, judicial o ministerial, el visitador correspondiente comisionará al personal citado para que comparezca y haga del conocimiento de la autoridad esta limitación legal y, en su caso, previo acuerdo del presidente de la Comisión, enviará un informe por escrito sobre la actuación de la Comisión en el asunto de que se trate.
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2013)</small>
+
+En aquellos casos en los que se reciba un citatorio para comparecer ante alguna autoridad administrativa, judicial o ministerial, el visitador correspondiente comisionará al personal citado para que comparezca y haga del conocimiento de la autoridad esta limitación legal y, en su caso, previo acuerdo del Presidente, enviará un informe por escrito sobre la actuación de la Comisión en el asunto de que se trate.
 
 ###### ARTÍCULO 71.
 
@@ -973,9 +1077,11 @@ IV. Haber residido en el Estado cuando menos un año anterior a la fecha de la d
 
 V. No haber sido condenado por delito doloso que amerite pena de prisión de más de un año; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime la buena fama en concepto público, inhabilitará para el cargo cualquiera que haya sido la pena.
 
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2013)</small>
+
 ###### ARTICULO 79.
 
-El ejercicio de las funciones del Presidente de la Comisión, de los Visitadores, del Director General, del Secretario Técnico y del titular de la Contraloría, son incompatibles con el desempeño de cualquier otro cargo, empleo o comisión de la federación, del Estado, los municipios o de organismos políticos, sociales o privados, así como con el ejercicio libre de su profesión, exceptuando las actividades académicas y honoríficas.
+El ejercicio de las funciones del Presidente, de los Visitadores, del Director General, del Secretario Técnico y del titular de la Contraloría, son incompatibles con el desempeño de cualquier otro cargo, empleo o comisión de la federación, del Estado, los municipios o de organismos políticos, sociales o privados, así como con el ejercicio libre de su profesión, exceptuando las actividades académicas y honoríficas.
 
 ###### ARTÍCULO 80.
 
@@ -1015,6 +1121,18 @@ Toda persona puede acceder a los servicios que presta la Comisión, sin necesida
 
 El acceso informal o esencial a los servicios que presta la Comisión tiene por objeto impedir que formalidades innecesarias obstaculicen el ejercicio de los derechos de las personas.
 
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2013)</small>
+
+Toda autoridad o servidor público estatal o municipal tendrá la obligación de recibir las quejas que con motivo de su actuación presenten los particulares por violación a derechos humanos. La autoridad sin dilación dentro de las 24 horas siguientes a la recepción de la queja, deberá de remitirla a la Comisión. En el caso de quejas por violaciones graves a los derechos humanos, deberá de acompañar a la queja, el informe correspondiente. Lo anterior, con independencia de que los particulares puedan acudir ante la propia Comisión a presentar su queja.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2013)</small>
+
+Las quejas recibidas conforme al párrafo anterior, serán calificadas por el Visitador Regional y continuarán el trámite legal correspondiente.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2013)</small>
+
+Se entiende por violaciones graves a los derechos humanos aquellos actos que interesen el derecho a la vida, la integridad física y la libertad de las personas.
+
 ###### ARTÍCULO 85.
 
 Los servicios que presta la Comisión son gratuitos.
@@ -1027,13 +1145,29 @@ Las personas podrán acceder a los servicios que presta la Comisión sin necesid
 
 #### SECCIÓN PRIMERA. EL PROCEDIMIENTO
 
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2013)</small>
+
 ###### ARTÍCULO 87.
 
-Los procedimientos que se sigan ante la Comisión deben ser breves y sencillos. Están sujetos únicamente a las formalidades esenciales que requiera la documentación de los expedientes respectivos.
+Para la defensa y promoción de los derechos humanos se observarán los principios de universalidad, interdependencia, indivisibilidad y progresividad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ABRIL DE 2013)</small>
 
 ###### ARTÍCULO 88.
 
-Los procedimientos se substanciarán de acuerdo con los principios de inmediatez, concentración y rapidez. Corresponderá a los Visitadores, en sus respectivas circunscripciones, llevar a cabo dichos procedimientos de manera imparcial, profesional y responsable, procurando, en la medida de lo posible, el contacto directo con los quejosos y las autoridades, para evitar la dilación de las comunicaciones escritas.
+El procedimiento que se siga ante la Comisión deberá ser breve, sencillo y gratuito; sólo estará sujeto a las mínimas formalidades que se requieran en la investigación de los hechos buscando siempre la conciliación. Se tramitará además, de acuerdo con los principios de inmediatez, concentración y rapidez procurando el contacto directo con quejosos y autoridades, para evitar la dilación de las comunicaciones escritas.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2013)</small>
+
+El principio de concentración abarcará no solo la acumulación del trámite de los expedientes de queja, sino también, a través de su resolución, violaciones reiteradas por parte de los servidores públicos de las diversas instituciones de gobierno que hacen probable la existencia de violaciones a los derechos humanos.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2013)</small>
+
+El principio de concentración se aplicará también cuando los patrones definidos de transgresión se deriven de la actuación de servidores públicos que pertenezcan a una misma dependencia. Sin perjuicio de analizar cada caso particular y recomendar sanciones individuales, la Comisión revisará los patrones de violación a los derechos humanos imputables a autoridades y servidores públicos cuando acumule quejas bajo este principio.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2013)</small>
+
+Cuando se presenten distintas quejas por supuestas violaciones a los derechos humanos de los grupos vulnerables radicados dentro del Estado, que evidencien patrones definidos de transgresión de sus derechos, la Comisión concentrará los expedientes y emitirá la resolución correspondiente.
 
 El personal de la Comisión utilizará de manera confidencial, la información o documentación relativa a los asuntos de su competencia.
 
@@ -1083,9 +1217,11 @@ Tratándose de personas que no hablen o entiendan correctamente el idioma españ
 
 Será competente para conocer de una queja, la Visitaduría Regional o la Itinerante del lugar en que se cometió el acto o la omisión violatoria de Derechos Humanos.
 
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2013)</small>
+
 ###### ARTÍCULO 96.
 
-En aquellos casos en que se requiera, por la gravedad de la violación a los Derechos Humanos contenida en la queja o, por circunstancias que permitan una mayor eficiencia en la atención de la misma, el Presidente de la Comisión podrá determinar que un procedimiento específico se tramite por la Visitaduría Itinerante, a fin de hacer más expedita su resolución.
+En aquellos casos en que se requiera, por la gravedad de la violación a los Derechos Humanos contenida en la queja o, por circunstancias que permitan una mayor eficiencia en la atención de la misma, el Presidente podrá determinar que un procedimiento específico se tramite por la Visitaduría Itinerante, a fin de hacer más expedita su resolución.
 
 ###### ARTÍCULO 97.
 
@@ -1107,9 +1243,11 @@ SUBAPARTADO PRIMERO
 
 LA INTERVENCIÓN DE OFICIO DE LA COMISIÓN
 
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2013)</small>
+
 ###### ARTÍCULO 101.
 
-Cuando por algún medio se haga del conocimiento público un acto u omisión de alguna autoridad o servidor público, estatal o municipal, que se presuma como violación grave de los Derechos Humanos de alguna persona o grupo de ellas, el Presidente de la Comisión instruirá al Visitador o Visitadores que estime necesarios para que, de inmediato, inicien una investigación preliminar.
+Cuando por algún medio se haga del conocimiento público un acto u omisión de alguna autoridad o servidor público, estatal o municipal, que se presuma como violación grave de los Derechos Humanos de alguna persona o grupo de ellas, el Presidente instruirá al Visitador o Visitadores que estime necesarios para que, de inmediato, inicien una investigación preliminar.
 
 ###### ARTÍCULO 102.
 
@@ -1213,9 +1351,11 @@ En tal circunstancia, el Visitador correspondiente, de conformidad con la ley de
 
 Las autoridades y servidores públicos que están obligados a proporcionar información y datos a la Comisión, serán responsables penal y administrativamente por los actos u omisiones en que incurran durante y con motivo de la tramitación de quejas ante la Comisión de Derechos Humanos del Estado, para lo cual se estará a lo dispuesto en las disposiciones constitucionales y legales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ABRIL DE 2013)</small>
+
 ###### ARTÍCULO 116.
 
-Cuando sean reiteradas las actitudes u omisiones que impliquen conductas evasivas o de entorpecimiento al cauce normal de las investigaciones, por parte de las autoridades y servidores públicos que deban intervenir o colaborar con los Visitadores, no obstante los requerimientos que éstos les hubieren formulado, el Presidente de la Comisión podrá exigir un informe especial al superior jerárquico de dichas autoridades o servidores públicos que hayan actuado en desacato.
+Cuando sean reiteradas las actitudes u omisiones que impliquen conductas evasivas o de entorpecimiento al cauce normal de las investigaciones, por parte de las autoridades y servidores públicos que deban intervenir o colaborar con los Visitadores, no obstante los requerimientos que éstos les hubieren formulado, el Presidente podrá exigir un informe especial al superior jerárquico de dichas autoridades o servidores públicos que hayan actuado en desacato.
 
 La Comisión denunciará ante los órganos Competentes los delitos o faltas que, independientemente de dichas conductas o actitudes, en su caso, hubiesen cometido las autoridades o servidores públicos de que se trate.
 
@@ -1257,9 +1397,13 @@ SUBAPARTADO SEGUNDO
 
 LA RESOLUCIÓN DEL PROCESO
 
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2013)</small>
+
 ###### ARTÍCULO 124.
 
-Concluida la investigación, en un plazo no mayor de quince días, el Visitador correspondiente formulará, en su caso, un proyecto de recomendación o un acuerdo de no responsabilidad, en el cual se analizarán los hechos, los argumentos y pruebas, así como los elementos de convicción y las diligencias practicadas, a fin de determinar si las autoridades o servidores públicos han violado o no los Derechos Humanos de los afectados, al haber incurrido en actos u omisiones ilegales, injustas, inadecuadas o erróneas, o hubiesen dejado sin respuesta las solicitudes presentadas por los interesados durante un período que exceda notoriamente los plazos fijados por las leyes respectivas.
+Concluida la investigación, en un plazo no mayor a quince días, el Visitador correspondiente, formulará en su caso, un proyecto de recomendación o un acuerdo de no responsabilidad, en el cual se analizarán los hechos, los argumentos y pruebas así como los elementos de convicción y las diligencias practicadas, a fin de determinar si las autoridades o servidores públicos han violado o no los derechos humanos de los afectados.
+
+La Comisión resolverá los asuntos sometidos a su conocimiento dentro del término de noventa días naturales contados a partir de la interposición de la queja. Este plazo se podrá ampliar mediante acuerdo del Presidente de la Comisión.
 
 ###### ARTÍCULO 125.
 
@@ -1269,9 +1413,11 @@ Las conclusiones del expediente, que serán la base de las recomendaciones, esta
 
 En el proyecto de recomendación se señalarán las medidas que procedan para la efectiva restitución a los afectados en sus Derechos Humanos y, en su caso, para la reparación de los daños y perjuicios que se hubiesen ocasionado.
 
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2013)</small>
+
 ###### ARTÍCULO 127.
 
-El proyecto de recomendación será presentado al Visitador General para que éste, en un plazo de diez días hábiles, lo turne al Presidente de la Comisión para su consideración final.
+El proyecto de recomendación será presentado al Visitador General para que éste, en un plazo de diez días hábiles, lo turne al Presidente para su consideración final.
 
 ###### ARTÍCULO 128.
 
@@ -1285,6 +1431,18 @@ La recomendación será pública, no tendrá carácter vinculatorio para la auto
 
 Una vez notificada la recomendación, la autoridad o el servidor público de que se trate, informará dentro de los quince días hábiles siguientes a su notificación, si acepta dicha recomendación. En otros quince días hábiles adicionales, entregará en su caso, las pruebas correspondientes de que ha cumplido con los puntos señalados en ella. Dicho plazo podrá ser ampliado cuando la naturaleza de la recomendación así lo amerite.
 
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2013)</small>
+
+Cuando las recomendaciones emitidas no sean aceptadas o cumplidas, se procederá conforme a lo siguiente:
+
+a) La autoridad o servidor público a quien se dirigió la recomendación, deberá fundar y motivar por escrito y hacer pública su negativa, asimismo, deberá atender los requerimientos del Pleno del Congreso del Estado, o en sus recesos, de la Diputación Permanente, a fin de comparecer ante dichos órganos legislativos, y expliquen el motivo de su negativa.
+
+b) La Comisión determinará, previa consulta con el poder legislativo, si la fundamentación y motivación presentadas por la autoridad o servidor público que se hubiese negado a aceptar o cumplir con las recomendaciones emitidas, son suficientes. Esta circunstancia se notificará por escrito a la autoridad o servidor público que fundó la negativa, así como a sus superiores jerárquicos.
+
+c) La notificación de insuficiencia de la fundamentación y motivación de la negativa, obliga a la autoridad o servidor público a quien se dirige a informar dentro de los diez días hábiles siguientes a la notificación del escrito, si persisten o no en la posición de no aceptar o cumplir la recomendación.
+
+d) En caso de reiterar la negativa, la Comisión podrá denunciar ante el Ministerio Público o la autoridad administrativa que corresponda, a los servidores públicos señalados en la recomendación como responsables. La falta de informe en el término a que se refiere el inciso anterior se entiende como persistencia a la negativa.
+
 ###### ARTÍCULO 131.
 
 No procederá ningún recurso ante la Comisión, en contra de las recomendaciones, acuerdos o resoluciones definitivas que emita la misma.
@@ -1297,6 +1455,10 @@ La Comisión no está obligada a entregar ninguna de sus pruebas a la autoridad 
 
 Las recomendaciones y los acuerdos de no responsabilidad, se referirán a casos concretos; por lo tanto, las autoridades no podrán aplicarlos a otros casos, por analogía o por mayoría de razón.
 
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2013)</small>
+
+ARTÍCULO 133 BIS. La Comisión podrá denunciar ante el Ministerio Público o la autoridad administrativa que corresponda la reiteración de las conductas cometidas por una misma autoridad o servidor público, que hayan sido materia de una recomendación previa que no hubiese sido aceptada o cumplida.
+
 SUBAPARTADO TERCERO
 
 LAS NOTIFICACIONES
@@ -1305,9 +1467,11 @@ LAS NOTIFICACIONES
 
 La Comisión notificará inmediatamente a los quejosos los resultados de la investigación, la recomendación que haya dirigido a las autoridades o servidores públicos responsables de las violaciones respectivas, la aceptación y la ejecución que se haya dado a la misma, así como, en su caso, el acuerdo de no responsabilidad.
 
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2013)</small>
+
 ###### ARTÍCULO 135.
 
-El Presidente de la Comisión deberá publicar en la gaceta que edite, en su totalidad o en forma resumida, las recomendaciones y los acuerdos de no responsabilidad que se emitan. En casos excepcionales, podrá determinar si los mismos sólo deban comunicarse a los interesados, de acuerdo con las circunstancias del propio caso.
+El Presidente deberá publicar en la gaceta que edite, en su totalidad o en forma resumida, las recomendaciones y los acuerdos de no responsabilidad que se emitan. En casos excepcionales, podrá determinar si los mismos sólo deban comunicarse a los interesados, de acuerdo con las circunstancias del propio caso.
 
 ### CAPÍTULO TERCERO. LA ORIENTACIÓN JURÍDICA
 
@@ -1417,9 +1581,11 @@ III. El Presidente, con vista en el proyecto que le sea remitido por el Visitado
 
 #### SECCIÓN TERCERA. LA OBLIGATORIEDAD DE ATENDER LOS CRITERIOS GENERALES
 
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2013)</small>
+
 ###### ARTÍCULO 154.
 
-Los criterios generales que sean emitidos por el Presidente de la Comisión, serán de observancia obligatoria para sus órganos directivos y ejecutivos.
+Los criterios generales que sean emitidos por el Presidente, serán de observancia obligatoria para sus órganos directivos y ejecutivos.
 
 ###### ARTÍCULO 155.
 
@@ -1443,9 +1609,11 @@ II. Cuando se le expida una nueva disposición constitucional o legal, aplicable
 
 #### SECCIÓN CUARTA. LA COMPILACIÓN Y SISTEMATIZACIÓN DE LOS CRITERIOS GENERALES
 
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2013)</small>
+
 ###### ARTÍCULO 159.
 
-El Presidente de la Comisión, por conducto de la Visitaduría General, emitirá las circulares bajo las cuales se glosarán los criterios generales.
+El Presidente, por conducto de la Visitaduría General, emitirá las circulares bajo las cuales se glosarán los criterios generales
 
 ###### ARTÍCULO 160.
 
@@ -1525,7 +1693,7 @@ LIC. HOMERO RAMOS GLORIA
 
 (RÚBRICA)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 28 DE DICIEMBRE DE 2007.
 
@@ -1562,3 +1730,11 @@ P.O. 26 DE JUNIO DE 2009.
 PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
+
+P.O. 12 DE ABRIL DE 2013.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El Consejo Consultivo de la Comisión deberá de realizar las adecuaciones al Reglamento Interior de la Comisión en un término de sesenta días después de la entrada en vigor del presente decreto.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
