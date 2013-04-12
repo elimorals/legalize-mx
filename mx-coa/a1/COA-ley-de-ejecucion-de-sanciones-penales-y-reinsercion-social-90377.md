@@ -4,7 +4,7 @@ identifier: "COA-ley-de-ejecucion-de-sanciones-penales-y-reinsercion-social-9037
 country: "mx"
 rank: "ley"
 publication_date: "2012-11-20"
-last_updated: "2012-11-20"
+last_updated: "2013-04-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90377&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE EJECUCIÓN DE SANCIONES PENALES Y REINSERCIÓN SOCIAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2013.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el martes 20 de noviembre de 2012.
 
@@ -1833,6 +1833,10 @@ Los procesados y sentenciados analfabetas o que no hubiesen concluido la enseña
 
 Los internos podrán solicitar los servicios de educación privada para cursar estudios de licenciatura y post-grado siempre que el nivel de seguridad, custodia e intervención se lo permita. Los gastos estarán a cargo de la persona que legalmente los represente.
 
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2013)</small>
+
+Se dará especial énfasis en la promoción y estudio de temas relacionados con el desarrollo en los ideales de justicia social, tolerancia, libertad e igualdad, así como el estudio de los derechos humanos contemplados en la Constitución Política de los Estados Unidos Mexicanos.
+
 ###### Artículo 140.
 
 Régimen de educación
@@ -2120,3 +2124,13 @@ EL ENCARGADO DEL DESPACHO DE LA SECRETARÍA DE SEGURIDAD PÚBLICA
 JOSÉ GERARDO VILLAREAL RÍOS
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 12 DE ABRIL DE 2013.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El Consejo Consultivo de la Comisión deberá de realizar las adecuaciones al Reglamento Interior de la Comisión en un término de sesenta días después de la entrada en vigor del presente decreto.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
