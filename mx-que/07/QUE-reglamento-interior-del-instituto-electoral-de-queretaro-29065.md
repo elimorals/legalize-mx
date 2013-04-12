@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-interior-del-instituto-electoral-de-queretaro-29065"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-02-14"
-last_updated: "2013-03-15"
+last_updated: "2013-04-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29065&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 14 de febrero de 2003.
 
@@ -39,9 +39,11 @@ REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL DE QUERÉTARO
 
 El presente reglamento se expide de conformidad con lo dispuesto por el artículo 65 fracción I de la Ley Electoral del Estado de Querétaro, y tiene como finalidad regular el funcionamiento interno del Instituto Electoral de Querétaro.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ABRIL DE 2013)</small>
+
 ###### Artículo 2.
 
-Para los efectos de este Reglamento, se entenderá por:
+Para los efectos de este reglamento, se entenderá por:
 
 > <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2009)</small>
 
@@ -77,9 +79,9 @@ SECRETARIO EJECUTIVO: El Secretario Ejecutivo del Consejo.
 
 DIRECTOR: El Director General del Instituto.
 
-(REFORMADO, P.O. 11 DE FEBRERO DE 2011) (REPUBLICADO, P.O. 18 DE MARZO DE 2011)
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2013)</small>
 
-ÓRGANOS OPERATIVOS: Las Direcciones Ejecutivas de Organización Electoral, y de Educación Cívica y Capacitación Electoral; y las Coordinaciones Administrativa, de Partidos y Asociaciones Políticas, y del Servicio Profesional Electoral.
+ÓRGANOS OPERATIVOS: Las Direcciones Ejecutivas de Organización Electoral, y de Educación Cívica y Capacitación Electoral; la Coordinación de Informática; y las Coordinaciones Administrativa, de Partidos y Asociaciones Políticas, y del Servicio Profesional Electoral.
 
 (REFORMADO, P.O. 11 DE FEBRERO DE 2011) (REPUBLICADO, P.O. 18 DE MARZO DE 2011)
 
@@ -119,11 +121,15 @@ Los órganos operativos son:
 
 I. La Dirección General, auxiliada por:
 
-(REFORMADO, P.O. 11 DE FEBRERO DE 2011) (REPUBLICADO, P.O. 18 DE MARZO DE 2011)
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2013)</small>
 
-a) La Coordinación Administrativa;
+a) La Coordinación Administrativa; y
 
 b) (DEROGADO, P.O. 11 DE FEBRERO DE 2011) (REPUBLICADO, P.O. 18 DE MARZO DE 2011)
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2013)</small>
+
+c) La Coordinación de Informática.
 
 II. La Dirección Ejecutiva de Organización Electoral, auxiliada por:
 
@@ -533,6 +539,12 @@ Para la realización y desahogo de los asuntos de su competencia, las Comisiones
 
 El Presidente de la Comisión expedirá la convocatoria cuando menos, con dos días de anticipación, tratándose de ordinarias; para el caso de las extraordinarias se podrá hacer hasta el día anterior a la celebración de la misma. La convocatoria señalará los puntos del orden del día.
 
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2013)</small>
+
+###### Artículo 40 Bis.
+
+El Presidente de cada Comisión permanente rendirá trimestralmente al Consejo, un informe de las actividades desarrolladas por su Comisión.
+
 ###### Artículo 41.
 
 Se consideran comisiones transitorias aquéllas que dejan de tener vigencia una vez cumplido el objetivo para el que fueron creadas, así como las que por Ley tienen tal carácter.
@@ -607,9 +619,9 @@ I. El titular de la Coordinación Administrativa como Presidente;
 
 II. El titular de la Coordinación Jurídica como Secretario Ejecutivo;
 
-> <small>(REFORMADA, P.O. 19 DE MARZO DE 2010)</small>
+> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2013)</small>
 
-III. El Encargado de la Unidad de Informática como Primer Vocal;
+III. El Coordinador de Informática como Primer Vocal;
 
 IV. El titular de la Coordinación de Información y Medios como Segundo Vocal; y
 
@@ -797,19 +809,17 @@ V. Asuntos generales, tratándose de sesiones ordinarias.
 
 Los integrantes del Consejo podrán proponer al Presidente, por medio del Secretario Ejecutivo, la inclusión de asuntos generales a tratar en la sesión, lo que será permitido sólo en las sesiones ordinarias; estando en posibilidades de solicitar su inclusión desde el momento en que reciban la convocatoria, hasta antes de la aprobación del orden del día. En caso de que durante el curso de la sesión se propongan asuntos generales no inscritos con anticipación, su tratamiento se constreñirá a una intervención de cinco minutos con su respectiva réplica y contrarréplica de dos minutos y medio respectivamente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE ABRIL DE 2013)</small>
+
 ###### Artículo 66.
 
-El Secretario Ejecutivo, al expedir la convocatoria a sesión por acuerdo del Presidente, deberá acompañar los documentos relativos a los puntos del orden del día que se proponen, a menos que se trate de resoluciones y acuerdos que deba emitir el Consejo o de proyectos de dictamen que habrán de presentarse a éste.
+El Secretario Ejecutivo, al expedir la convocatoria a sesión por acuerdo del Presidente, deberá acompañar los documentos relativos a los puntos del orden del día que se proponen.
 
 Asimismo, deberá enviar únicamente la convocatoria a los representantes suplentes de los partidos políticos o coaliciones.
 
-> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2009)</small>
-
 ###### Artículo 67.
 
-Cuando se trate de aprobar las cuestiones relativas al ejercicio presupuestal o envío de informes financieros a la Legislatura del Estado, la documentación habrá de circularse con cuatro días de anticipación a la sesión, cuando ésta sea ordinaria, y tres días si se tratare de extraordinaria.
-
-NOTA: La propuesta se platea (sic) de acuerdo a la modificación de criterios para convocar sesiones de Consejo General y para el cómputo de los plazos; lo anterior derivado de lo que señalan los artículo 68 de la Ley y, 22 y 23 de la Ley de Medios de Impugnación en Materia electoral del Estado de Querétaro. (SIC)
+(DEROGADO, P.O. 12 DE ABRIL DE 2013)
 
 > <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2009)</small>
 
@@ -863,11 +873,11 @@ Los Consejeros Electorales y representantes de partidos políticos o coaliciones
 
 Los representantes de los partidos políticos recibirán una dieta por cada asistencia a las sesiones del Consejo, la cual será determinada de acuerdo a la disponibilidad presupuestal del Instituto.
 
+> <small>(REFORMADO, P.O. 12 DE ABRIL DE 2013)</small>
+
 ###### Artículo 80.
 
-Para el desarrollo de las sesiones, el Secretario Ejecutivo informará el punto del orden del día a tratar, dando cuenta al Presidente de los documentos relativos a ese punto, procediendo a su lectura.
-
-A continuación, el Presidente concederá el uso de la voz a los representantes de partidos políticos o coaliciones y Consejeros Electorales que lo soliciten.
+Para el desarrollo de las sesiones, el Secretario Ejecutivo informará el punto del orden del día a tratar. A continuación, el Presidente concederá el uso de la voz a los integrantes del Consejo, en los términos previstos en el presente cuerpo normativo.
 
 ###### Artículo 81.
 
@@ -1097,6 +1107,42 @@ XI. Asistir al Director en los actos que se desprendan de sus funciones; y
 
 XII. Las demás que le confieran la normatividad aplicable y el Director.
 
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2013)</small>
+
+###### Artículo 117 Bis.
+
+Para ser titular de la Coordinación de Informática se requiere contar con título profesional legalmente expedido en el área de informática, sistemas computacionales, o a fines (sic).
+
+El Coordinador será nombrado por el Director.
+
+> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 2013)</small>
+
+###### Artículo 117 Ter.
+
+Corresponden a la Coordinación de Informática las atribuciones siguientes:
+
+I. Cumplir con el programa de actividades que tenga bajo su responsabilidad;
+
+II. Diseñar, desarrollar e implementar los sistemas que le sean solicitados;
+
+III. Diseñar, construir y mantener las redes de voz y datos del Instituto;
+
+IV. Proponer al Director la infraestructura tecnológica que se requiera para el cumplimiento de los fines del Instituto;
+
+V. Impartir capacitación en la materia a los funcionarios del Instituto cuando así se solicite;
+
+VI. Realizar el mantenimiento preventivo a los servicios y bienes informáticos que sean utilizados en el órgano electoral;
+
+VII. Proporcionar asesoría y soporte técnico a los servidores públicos;
+
+VIII. Elaborar y mantener actualizados los Lineamientos para la Utilización de los Servicios y Bienes Informáticos del Instituto, proponiéndolos al Director;
+
+IX. Informar mensualmente al Director sobre las actividades realizadas por la Coordinación;
+
+X. Coadyuvar con el Director en la implementación de mecanismos tecnológicos que le requiera; y
+
+XI. Las demás que le confiera este Reglamento, el Consejo y el Director.
+
 ###### Artículo 118.
 
 (DEROGADO, P.O. 11 DE FEBRERO DE 2011) (REPUBLICADO, P.O. 18 DE MARZO DE 2011)
@@ -1288,3 +1334,13 @@ P.O. 15 DE MARZO DE 2013.
 2°. Se derogan todas aquellas disposiciones reglamentarias internas que contravengan las reformas y adiciones aprobadas.
 
 3°. En tanto el Consejo General no conozca de los Lineamientos en Materia de Transparencia y Acceso a la Información, la Coordinación Jurídica sustanciará los procedimientos relativos a las solicitudes de acceso a la información pública que se promuevan.
+
+P.O. 12 DE ABRIL DE 2013.
+
+Primero. Las presentes reformas, adiciones y derogaciones entrarán en vigor al día siguiente de su aprobación por el Consejo General.
+
+Segundo. El Director General y el actual Encargado de la Unidad de Informática, deberán realizar las adecuaciones de la denominación de Unidad de Informática por Coordinación de Informática en los Lineamientos para la utilización de los Servicios y Bienes Informáticos del Instituto Electoral de Querétaro y, en su caso, en los demás ordenamientos administrativos internos, en un plazo no mayor a 30 días naturales, contados a partir de la entrada en vigor de las presentes reformas; de igual manera, el primero de los citados, deberá atender los términos de la reforma al Reglamento Interior sobre la Coordinación de informática, cuyo primer nombramiento deberá recaer en el actual Titular de la Unidad de Informática del Instituto Electoral de Querétaro, respetando sus derechos laborales adquiridos.
+
+Tercero. Los informes de actividades que los Presidentes de cada comisión permanente deberán rendir de manera trimestral al Consejo General, se llevarán a cabo a partir del segundo trimestre de la presente anualidad.
+
+Cuarto. Se derogan todas aquellas disposiciones reglamentarias internas que contravengan las adiciones, reformas y derogaciones aprobadas.
