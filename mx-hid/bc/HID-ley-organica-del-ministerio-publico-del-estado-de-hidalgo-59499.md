@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-ministerio-publico-del-estado-de-hidalgo-59499
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-12-31"
-last_updated: "2011-12-19"
+last_updated: "2013-04-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59499&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "HID"
 ---
 # LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE HIDALGO
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE ABRIL DE 2013 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY ORGÁNICA DEL MINISTERIO PÚBLICO DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2010.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 19 DE DICIEMBRE DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -95,7 +95,7 @@ XI.- Intervenir de conformidad con lo dispuesto en la Ley de Justicia para Adole
 
 XII.- Las demás que le señalen otras disposiciones legales, Acuerdos y Convenios.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
@@ -137,7 +137,7 @@ XI.- Ordenar la detención o la retención de los indiciados, de conformidad a l
 
 XII.- Conceder la libertad provisional previa al indiciado, en los términos que prevé la Constitución Política de los Estados Unidos Mexicanos y consignada la averiguación previa, remitir la garantía y constancias relativas a la Autoridad Judicial;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
@@ -163,7 +163,7 @@ XXII.- Remitir a la Contraloría Interna de la Procuraduría, para su custodia, 
 
 XXIII.- Hacer del conocimiento del Procurador General, la necesidad de intervenir una comunicación privada, para los fines de la averiguación previa;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
@@ -215,23 +215,25 @@ XLVI.- Observar los lineamientos, pautas generales, acuerdos, circulares e instr
 
 XLVII.- Conocer de los delitos en materia de competencia concurrente, en los términos que marca la Constitución Política de los Estados Unidos Mexicanos; y (sic)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA DE LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA DE LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2010)</small>
 
 XLVIII.- Respetar el sigilo de las actuaciones ministeriales practicadas dentro de la averiguación previa;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA DE LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA DE LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2010)</small>
 
 XLIX.- Abstenerse de proporcionar copias simples o certificadas de Averiguaciones Previas o documentos en materia de narcomenudeo y de los delitos graves contenidos en el Artículo 119 del Código de Procedimientos Penales vigente en la Entidad;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA DE LA LEY.</small>
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2013)</small>
 
-> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2010)</small>
+L.- Informar de manera inmediata a la Fiscalía para la Atención de Delitos de Género sobre el inicio de alguna averiguación previa con motivo de homicidio doloso en agravio de mujeres, que pueda ser de la competencia de aquella; y
 
-L.- Las demás que determine esta Ley y otras disposiciones aplicables.
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2013)</small>
+
+LI.- Las demás que determine esta Ley y otras disposiciones aplicables.
 
 ###### Artículo 7.
 
@@ -477,41 +479,59 @@ La Procuraduría General de Justicia, para el despacho de los asuntos que al Min
 
 I.- Despacho del Procurador General de Justicia;
 
-II.- Subprocuraduría General de Justicia;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2013)</small>
+
+II.- Subprocuraduría de Procedimientos Penales;
 
 III.- Subprocuraduría de Asuntos Electorales;
 
-IV.- Subprocuraduría de Atención a la Familia y a la Víctima;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2013)</small>
+
+IV.- Subprocuraduría de Derechos Humanos y Servicios a la Comunidad;
 
 V.- Visitaduría General;
 
 VI.- Dirección General de Averiguaciones Previas;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
+VII.- Dirección General de Consignaciones;
 
-VII.- Unidad Especializada en el Combate al Secuestro.
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2009)</small>
+VIII.- Fiscalía para la Atención de Delitos de Género;
 
-VIII.- Centro de Justicia Alternativa de la Procuraduría General de Justicia del Estado;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2009)</small>
+IX.- Fiscalía Especializada para la Atención de los Delitos de Trata de Personas;
 
-IX.- Dirección General de Servicios Periciales;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2009)</small>
+X.- Unidad Especializada en el Combate al Secuestro;
 
-X.- Dirección de Control de Procesos;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2009)</small>
+XI.- Centro de Operación Estratégica;
 
-XI.- Dirección General de Administración y Finanzas; y
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2013)</small>
 
-> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2009)</small>
+XII.- Centro de Justicia Alternativa;
 
-XII.- Instituto de Formación Profesional de la Procuraduría.
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2013)</small>
+
+XIII.- Dirección General de Servicios Periciales;
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2013)</small>
+
+XIV.- Dirección de Control de Procesos;
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2013)</small>
+
+XV.- Dirección General de Administración y Finanzas; y
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2013)</small>
+
+XVI.- Instituto de Formación Profesional de la Procuraduría.
 
 > <small>(REFORMADO, P.O. 22 DE JUNIO DE 2009)</small>
 
@@ -545,7 +565,7 @@ El Procurador General considerando las necesidades del servicio establecerá, la
 
 El Procurador General, expedirá la normatividad interna necesaria para la coordinación y articulación de las unidades administrativas y las subalternas, a efecto de garantizar la unidad de actuación y dependencia jerárquica de la institución.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
@@ -553,7 +573,9 @@ El Procurador General, expedirá la normatividad interna necesaria para la coord
 
 Los agentes del Ministerio Público y los peritos, se organizarán de conformidad a lo dispuesto en ésta Ley, a los acuerdos que emita el Procurador General y a las demás disposiciones aplicables.
 
-### Capítulo IV. De las Facultades y obligaciones del Procurador General de Justicia, Subprocuradores, Directores Generales, Directores y Visitador General
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE ABRIL DE 2013)</small>
+
+### Capítulo IV. De las facultades y obligaciones del Procurador General de Justicia, Subprocuradores, Directores Generales, Fiscales, Directores y Visitador General
 
 ###### Artículo 27.
 
@@ -635,9 +657,9 @@ XXXVI.- Las demás que le señalen las Leyes y otras disposiciones aplicables.
 
 Para el despacho de los asuntos que al Procurador General le competen, contará con Agentes del Ministerio Público Especiales y Auxiliares, quienes conocerán de las averiguaciones previas y demás asuntos que les instruya el Procurador General; así mismo contará con el personal administrativo que determine el presupuesto, para auxiliarlo en el desempeño de su función.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 29.
 
@@ -661,7 +683,7 @@ VIII.- Proporcionar la información y cooperación técnica, que les sean requer
 
 IX.- Establecer en coordinación con la Dirección de Informática, Estadística y Telecomunicaciones los sistemas de registro, control estadístico y seguimiento de las averiguaciones previas y causas penales; y con base en ellos proponer estrategias y acciones tendientes a mejorar la procuración de justicia;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
@@ -685,13 +707,17 @@ XVIII.- Coordinar, con base en los lineamientos que señale el Procuraduría Gen
 
 XIX.- Las demás que establezcan esta Ley, les delegue el Procurador General y otras disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2013)</small>
+
 ###### Artículo 30.
 
-El Procurador General, los Subprocuradores, Directores Generales, el Visitador General, y Directores deberán dar cumplimiento al Programa Estatal de Procuración de Justicia.
+El Procurador General, los Subprocuradores, Directores Generales, Fiscales, el Visitador General y Directores, deberán dar cumplimiento al Programa Estatal de Procuración de Justicia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2013)</small>
 
 ###### Artículo 31.
 
-Los Directores Generales, el Visitador General y Directores, además de las atribuciones específicas que esta Ley o demás disposiciones aplicables establecen, para cada una de sus unidades administrativas, tendrán las siguientes facultades genéricas:
+Los Directores Generales, el Visitador General, Fiscales y Directores, además de las atribuciones específicas que esta Ley o demás disposiciones aplicables establecen, para cada una de sus unidades administrativas, tendrán las siguientes facultades genéricas:
 
 I.- Dirigir, organizar, supervisar y evaluar las acciones y el desarrollo de las funciones de la unidad administrativa a su cargo;
 
@@ -719,9 +745,13 @@ XII.- Integrar y rendir los informes y estadísticas que establezca la normativi
 
 XIII.- Las demás que les delegue el Procurador General.
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE ABRIL DE 2013 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2013)</small>
+
 ###### Artículo 32.
 
-Para el despacho de los asuntos que a la institución del Ministerio Público le competen son Agentes del Ministerio Público los siguientes servidores públicos:
+Para el despacho de los asuntos que a la institución del Ministerio Público le competen, son Agentes del Ministerio Público los siguientes servidores públicos:
 
 I.- El Procurador General;
 
@@ -733,25 +763,57 @@ IV.- El Director General de Averiguaciones Previas;
 
 V.- El Coordinador General de Atención a la Familia y a la Víctima;
 
-VI.- El Coordinador de Averiguaciones Previas de la Subprocuraduría de Atención a la Familia y a la Víctima;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2013)</small>
 
-VII.- El Coordinador de Atención Interdisciplinaria de la Subprocuraduría de Atención a la Familia y a la Víctima;
+VI.- El Director General de Agentes del Ministerio Público Regionales;
 
-VIII.- El Director de Control de Procesos;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2013)</small>
 
-IX.- El Director de Investigación y Recuperación de Vehículos Robados;
+VII.- El Fiscal para la Atención de Delitos de Género;
 
-X.- El Subdirector de Averiguaciones Previas;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2013)</small>
 
-XI.- Los servidores públicos que con el carácter de Agentes del Ministerio Público Especiales que designe el Procurador General y los Agentes del Ministerio Público Especiales adscritos a la Visitaduría; y
+VIII.- El Fiscal Especializado para la Atención de los Delitos de Trata de Personas;
 
-XII.- Los que determine esta Ley y demás disposiciones aplicables.
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2013)</small>
+
+IX.- El Director General de la Unidad Especializada en el Combate al Secuestro;
+
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2013)</small>
+
+X.- El Director General del Centro de Operación Estratégica;
+
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2013)</small>
+
+XI.- El Director General del Centro de Justicia Alternativa;
+
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2013)</small>
+
+XII.- El Director de Control de Procesos;
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2013)</small>
+
+XIII.- El Director de Investigación y Recuperación de Vehículos Robados;
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2013)</small>
+
+XIV.- Los Directores de Área y los Subdirectores adscritos a las unidades administrativas que ejerzan atribuciones de integración o supervisión de averiguaciones previas o de control de procesos;
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2013)</small>
+
+XV.- Los servidores públicos que con el carácter de Agentes del Ministerio Público Especiales designe el Procurador General y los Agentes del Ministerio Público Especiales adscritos a la Visitaduría; y
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2013)</small>
+
+XVI.- Los que determine esta Ley y demás disposiciones aplicables.
 
 ### Capítulo V. De las Atribuciones de las Unidades Administrativas
 
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2013)</small>
+
 ###### Artículo 33.
 
-El Despacho del Procurador, estará integrado por la Secretaría Particular, la Coordinación de Giras y Eventos, la unidad de Vigilancia de Ejecución de Penas, Medidas de Seguridad y Penas Sustitutivas, y de las áreas que determinen las necesidades del servicio y el presupuesto.
+El Despacho del Procurador estará integrado por la Secretaría Particular, la Coordinación de Proyectos Institucionales, la Coordinación de Giras y Eventos, la Unidad Técnico-Consultiva, la Unidad de Vigilancia de Ejecución de Penas, Medidas de Seguridad y Penas Sustitutivas, y de las áreas que determinen las necesidades del servicio y el presupuesto.
 
 ###### Artículo 34.
 
@@ -771,15 +833,17 @@ VI.- Coordinar en forma sistemática la información de la institución, que se 
 
 VII.- Las demás que el Procurador General determine, y otras disposiciones legales atribuyan a la Procuraduría General de Justicia del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2013)</small>
+
 ###### Artículo 35.
 
-La Secretaría Particular, estará a cargo de un Secretario, que dependerá directamente del Procurador General, y es responsable de dar seguimiento a sus determinaciones, tramitar oportunamente la correspondencia y mantener la comunicación con otras Autoridades Federales, Estatales y Municipales; siendo competente para:
+La Secretaría Particular estará a cargo de un Secretario, que dependerá directamente del Procurador General y es responsable de dar seguimiento a sus determinaciones, tramitar oportunamente la correspondencia y mantener la comunicación con otras Autoridades Federales, Estatales y Municipales; siendo competente para:
 
 I.- Dirigir las labores de la oficina del Procurador General, en el orden administrativo necesario, para el cabal cumplimiento de las funciones de la institución, de acuerdo con las instrucciones y determinaciones de su titular;
 
-II.- Analizar y proponer acuerdos y convenios de colaboración con la Procuraduría General de la República, las Procuradurías Generales de Justicia de las Entidades Federativas y del Distrito Federal;
+II.- (DEROGADA, P.O. 15 DE ABRIL DE 2013)
 
-III.- Llevar el control y seguimiento de los convenios, acuerdos y circulares, suscritos por el Procurador General;
+III.- (DEROGADA, P.O. 15 DE ABRIL DE 2013)
 
 IV.- Llevar el registro, control y seguimiento de los convenios y acuerdos tomados en el marco de la Conferencia Nacional de Procuración de Justicia;
 
@@ -789,11 +853,37 @@ VI.- Recibir las observaciones, propuestas de conciliación, recomendaciones y d
 
 VII.- Rendir la información que le solicite la Comisión Nacional de los Derechos Humanos y la Comisión de Derechos Humanos del Estado, relativa a los servidores públicos de la Procuraduría;
 
-VIII.- Recabar información relativa a los proyectos de colaboración, en materia de procuración de justicia que realizan otras Dependencias, Organismos e instituciones públicas;
+VIII.- (DEROGADA, P.O. 15 DE ABRIL DE 2013)
 
 IX.- Remitir, previo acuerdo del Procurador General, para su atención, la correspondencia a los servidores públicos de la institución o de otras Dependencias; y
 
 X.- Las que otorgue esta Ley, le encomiende el Procurador General y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2013)</small>
+
+###### Artículo 35 Bis.
+
+La Coordinación de Proyectos Institucionales dependerá directamente del Procurador General y es responsable de dar seguimiento a sus determinaciones y a los asuntos que le encomiende, teniendo las siguientes atribuciones:
+
+I.- Llevar el control y seguimiento de los convenios y acuerdos que suscriba el Estado a través del Procurador General y circulares que expida éste;
+
+II.- Recabar información relativa a los proyectos de colaboración, en materia de procuración de justicia que realizan otras dependencias, organismos e instituciones públicas;
+
+III.- Dar seguimiento a los programas y acciones relacionados con el Subcomité Sectorial de Procuración de Justicia; y
+
+IV.- Las demás que le encomiende el Procurador.
+
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2013)</small>
+
+###### Artículo 35 Ter.
+
+La Unidad Técnico-Consultiva dependerá del Procurador General, y es responsable de dar seguimiento a sus determinaciones y a los asuntos que le encomiende, teniendo las siguientes atribuciones:
+
+I.- Analizar y proponer acuerdos y convenios de colaboración con la Procuraduría General de la República, las Procuradurías Generales de Justicia de las Entidades Federativas y del Distrito Federal;
+
+II.- Emitir opinión jurídica en los proyectos de convenios y acuerdos que suscriba el Estado a través del Procurador General y circulares que expida éste; y
+
+III.- Las demás que le encomiende el Procurador.
 
 ###### Artículo 36.
 
@@ -831,9 +921,11 @@ V.- Promover y gestionar ante la autoridad administrativa, lo conducente a efect
 
 VI.- Las que les otorgue esta Ley, les encomiende el Procurador General y demás disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2013)</small>
+
 ###### Artículo 39.
 
-La Subprocuraduría General de Justicia dependerá directamente del Procurador General, estará a cargo de un Subprocurador General, y tendrá las atribuciones siguientes:
+La Subprocuraduría de Procedimientos Penales dependerá directamente del Procurador General, estará a cargo de un Subprocurador y tendrá las atribuciones siguientes:
 
 I.- Suscribir en ausencia del. Procurador General y conforme a las normas legalmente aplicables, los informes que deban rendirse en los juicios de amparo; y los recursos y promociones en los procedimientos laborales y contenciosos administrativos;
 
@@ -897,27 +989,37 @@ VII.- Las que le otorgue esta Ley, le encomiende el Procurador General y demás 
 
 Los Agentes del Ministerio Público que conozcan de delitos electorales, deberán observar las obligaciones previstas en esta Ley, de conformidad con la etapa procedimental en que actúen.
 
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2013)</small>
+
 ###### Artículo 44.
 
-La Subprocuraduría de Atención a la Familia y a la Víctima, dependerá directamente del Procurador General y estará a cargo de un Subprocurador.
+La Subprocuraduría de Derechos Humanos y Servicios a la Comunidad, dependerá directamente del Procurador General y estará a cargo de un Subprocurador.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2013)</small>
 
 ###### Artículo 45.
 
-La Subprocuraduría de Atención a la Familia y a la Víctima, conocerá de los delitos de: violación, estupro, aprovechamiento sexual; actos libidinosos; incumplimiento de las obligaciones de asistencia familiar; bigamia, incesto, adulterio, sustracción de menores, corrupción de menores, rapto, aborto, abandono de incapaz, embarazo no deseado a través de medíos clínicos, tráfico de menores, delitos contra la filiación y el estado familiar de las personas, matrimonio ilegal, lenocinio, trata de personas, ultrajes a la moral, violencia familiar; y responsabilidad profesional o técnica.
+La Subprocuraduría de Derechos Humanos y Servicios a la Comunidad conocerá de los delitos de violación, estupro, aprovechamiento sexual, abuso sexual, incumplimiento de las obligaciones alimentarias, bigamia, incesto, sustracción de menores, corrupción de menores, rapto, aborto, abandono de incapaz, embarazo no deseado a través de medios clínicos, esterilidad provocada y disposición de óvulos y espermas sin consentimiento, tráfico de menores, delitos contra la filiación y el estado familiar de las personas, matrimonio ilegal, ultrajes a la moral, violencia familiar y responsabilidad profesional o técnica.
 
-Asimismo, conocerá de los delitos de: homicidio, lesiones, amenazas, difamación, calumnia, ejercicio indebido del propio derecho, peligro de contagio de enfermedades, instigación o ayuda al suicidio y omisión de auxilio, cuando se cometan entre cónyuges, concubinos, amasios, hermanos, adoptante o adoptado; o cuando el sujeto pasivo sea un menor de edad o adulto mayor, parientes consanguíneos en línea recta ascendente o descendente hasta el segundo grado inclusive o sin limitación de grado cuando se acredite la convivencia permanente con el sujeto pasivo.
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2013)</small>
+
+Asimismo conocerá de los delitos de homicidio doloso, lesiones, amenazas, difamación, calumnia, ejercicio indebido del propio derecho, peligro de contagio de enfermedades, instigación o ayuda al suicidio y omisión de auxilio, cuando se cometan entre cónyuges, concubinos, amasios, hermanos, adoptante o adoptado; o cuando el sujeto pasivo sea un menor de edad o adulto mayor, parientes consanguíneos en línea recta ascendente o descendente hasta el segundo grado inclusive o sin limitación de grado cuando se acredite la convivencia permanente con el sujeto pasivo. Conocerá también de los asuntos en que se denuncie la desaparición de personas.
 
 Tratándose de los delitos de allanamiento de morada, robo, abuso de confianza, fraude, despojo y daño en propiedad, la Subprocuraduría sólo conocerá cuando se cometan entre cónyuges, concubinos, amasios, hermanos, adoptante o adoptado; o cuando el sujeto pasivo sea un menor de edad o adulto mayor, parientes consanguíneos en línea recta ascendente o descendente hasta el segundo grado inclusive o sin limitación de grado cuando se acredite la convivencia permanente con el sujeto pasivo.
 
 La competencia de la Subprocuraduría de Atención a la Familia y a la Víctima a la que se refiere este Artículo, se entenderá de carácter enunciativo más no limitativo y podrá ampliarse previo acuerdo del Procurador General.
 
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2013)</small>
+
 ###### Artículo 46.
 
-La Subprocuraduría de Atención a la Familia y a la Víctima, se integrará con la Coordinación General de Atención a la Familia y a la Víctima, la Subcoordinación de Averiguación Previa y la Subcoordinación de Atención Interdisciplinaria; los Agentes del Ministerio Público y las áreas que determine el presupuesto.
+La Subprocuraduría de Derechos Humanos y Servicios a la Comunidad se integrará con la Coordinación General de Atención a la Familia y a la Víctima, la Subcoordinación de Averiguación Previa y la Subcoordinación de Atención Interdisciplinaria; los Agentes del Ministerio Público y las áreas que determine el presupuesto.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2013)</small>
 
 ###### Artículo 47.
 
-La Subprocuraduría de Atención a la Familia y a la Víctima, es la unidad administrativa responsable de realizar las acciones propias del Ministerio Público, con el auxilio de las instancias correspondientes en el periodo de averiguación previa, como en el proceso hasta su total resolución y brindar la atención interdisciplinaria a las víctimas y ofendidos, dándoles apoyo psicológico, psiquiátrico, médico, social y jurídico de urgencia, en el ámbito de su competencia; y tendrá las siguientes atribuciones:
+La Subprocuraduría de Derechos Humanos y Servicios a la Comunidad es la unidad administrativa responsable de realizar las acciones propias del Ministerio Público, con el auxilio de las instancias correspondientes en el periodo de averiguación previa, como en el proceso hasta su total resolución y brindar la atención interdisciplinaria a las víctimas y ofendidos, dándoles apoyo psicológico, psiquiátrico, médico, social y jurídico de urgencia, en el ámbito de su competencia; y tendrá las siguientes atribuciones:
 
 I.- Coordinar acciones con instituciones públicas y privadas para salvaguardar la integridad física y psíquica de las víctimas y ofendidos del delito;
 
@@ -959,37 +1061,35 @@ VI.- Coordinar las acciones de la Subcoordinación de Atención Interdisciplinar
 
 VII.- Vigilar el cumplimiento de los lineamientos para que la víctima sea interrogada de forma que se respete su situación personal, sus derechos y su dignidad; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
 VIII.- Vigilar que los Agentes del Ministerio Público observen la Ley de Justicia para Adolescentes del Estado de Hidalgo;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 1 DE DICIEMBRE DE 2008)</small>
 
 IX.- Autorizar las decisiones relacionadas con los criterios de oportunidad, sobre la facultad de prescindir de la puesta a disposición y otras facultades discrecionales que deba aplicar el Ministerio Público en justicia para adolescentes;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2013)</small>
 
-> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
+X.- Informar al Subprocurador de Derechos Humanos y Servicios a la Comunidad, sobre la presentación o detención de adolescentes a quienes se impute la comisión de un hecho que la ley señale como delito; así como de los menores de doce años, que hayan sido remitidos al Sistema Estatal de Asistencia y Protección Social; y
 
-X.- Informar al Procurador General, de las averiguaciones previas, en que se hayan puesto a disposición del Ministerio Público, a adolescentes que se presume tomaron parte de un hecho aparentemente delictivo; así como de los menores de doce años, que hayan sido remitidos al Sistema Estatal de Asistencia y Protección Social; y
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
 XI.- Las que le otorguen esta Ley, le encomiende el Procurador General y demás disposiciones aplicables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE DICIEMBRE DE 2008)</small>
 
 La Coordinación General de Atención a la Familia y a la Víctima, tendrá las mismas atribuciones que la Dirección General de Averiguaciones previas, en el ámbito de su competencia por especialización.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
@@ -1021,11 +1121,13 @@ VI.- Conformar y mantener actualizado el directorio de instituciones públicas y
 
 VII.- Las demás que le otorgue esta Ley, el Procurador General y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2013)</small>
+
 ###### Artículo 52.
 
-Los Agentes del Ministerio Público, sus auxiliares y asesores de la Subprocuraduría de Atención a la Familia y a la Víctima, contarán con la formación, capacitación y sensibilización necesaria para proporcionar el servicio adecuado a las víctimas, ofendidos o las personas afectadas por su comisión.
+Los Agentes del Ministerio Público, sus auxiliares y asesores de la Subprocuraduría de Derechos Humanos y Servicios a la Comunidad contarán con la formación, capacitación y sensibilización necesaria para proporcionar el servicio adecuado a las víctimas, ofendidos o las personas afectadas por la comisión de un delito.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
@@ -1069,7 +1171,7 @@ XVII.- Vigilar con auxilio del personal que le esté adscrito, el cumplimiento d
 
 XVIII.- Vigilar el cumplimiento de los códigos de ética profesional por parte de los servidores públicos de la Procuraduría;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 XIX.- (DEROGADA, P.O. 1 DE DICIEMBRE DE 2008)
 
@@ -1119,7 +1221,7 @@ XVII.- Informar al Visitador General, en forma permanente y oportuna el inicio d
 
 XVIII.- Las que le otorgue esta Ley, el Procurador General y demás disposiciones aplicables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
@@ -1167,7 +1269,7 @@ II.- Coordinar la ejecución de convenios con instituciones públicas y privadas
 
 III.- Promover la coordinación con la Delegación de la Procuraduría General de la República en el Estado, a fin de generar estrategias y acciones conjuntas en materia de averiguación previa, por delitos de competencia Federal y Local relacionados entre si;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
@@ -1181,11 +1283,11 @@ VI.- Vigilar que los Agentes del Ministerio Público observen la Ley de Justicia
 
 VII.- Autorizar las decisiones relacionadas con los criterios de oportunidad, sobre la facultad de prescindir de la puesta a disposición y otras facultades discrecionales que deba aplicar el Ministerio Público en justicia para adolescentes;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 VIII.- (DEROGADA, P.O. 1 DE DICIEMBRE DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 IX.- (DEROGADA, P.O. 1 DE DICIEMBRE DE 2008)
 
@@ -1202,6 +1304,24 @@ XIV.- Rendir mensualmente al Procurador General, los informes correspondientes s
 XV.- Vigilar que los Agentes del Ministerio Público, cuando tengan conocimiento de un delito perseguible por querella, procuren la conciliación entre el ofendido y el inculpado; y
 
 XVI.- Las demás que esta Ley, el Procurador General y demás disposiciones aplicables establezcan.
+
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2013)</small>
+
+###### Artículo 63 Bis.
+
+La Dirección General de Consignaciones dependerá directamente del Procurador, al frente de ella habrá un Director General y tendrá las siguientes atribuciones:
+
+I.- Estudiar y dictaminar los proyectos de determinación del ejercicio de la acción penal formulados por los agentes del Ministerio Público en averiguaciones previas sin detenido, con la finalidad de unificar criterios jurídicos y en caso necesario, sugerir la práctica de actuaciones tendientes a la comprobación del cuerpo del delito o la probable responsabilidad del o los indiciados;
+
+II.- Brindar asesoría jurídica a los agentes del Ministerio Público, propiciando que exista una correcta interpretación de la Ley al momento de elaborar sus determinaciones de ejercicio de la acción penal;
+
+III.- Compilar, sistematizar y cuidar la aplicación y observancia de los criterios de actuaciones generales y especializados en la integración de averiguaciones previas, a fin de que el ejercicio de la acción penal esté debidamente fundado y motivado ante la autoridad judicial;
+
+IV.- En coordinación con la Dirección de Control de Procesos, emprender las acciones necesarias para dar seguimiento y continuidad a los procesos penales derivados de las consignaciones realizadas;
+
+V.- Llevar un estricto registro, control y seguimiento de las indagatorias sometidas a la revisión de esta Dirección General, así como de las devueltas a los agentes del Ministerio Público para su adecuación y perfeccionamiento; y
+
+VI.- Las demás que le encomiende el Procurador y otras disposiciones jurídicas.
 
 ###### Artículo 64.
 
@@ -1227,7 +1347,7 @@ La Coordinación de Investigación y Recuperación de Vehículos Robados, estar�
 
 I.- Dirigir a los Agentes del Ministerio Público, en la investigación de los delitos de su competencia;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
@@ -1267,7 +1387,7 @@ VI.- Las demás que esta Ley, (sic) el Procurador General y demás disposiciones
 
 Los servidores públicos que tengan bajo su custodia, vigilancia o protección vehículos recuperados y permitan en cualquier forma la sustracción de partes o del vehículo en su totalidad, serán responsables en los términos que fijen las Leyes aplicables.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
@@ -1275,7 +1395,7 @@ Los servidores públicos que tengan bajo su custodia, vigilancia o protección v
 
 La Unidad Especializada en el Combate al Secuestro estará a cargo de un Director General y contará con las áreas necesarias para el desempeño de sus funciones, de acuerdo a la disponibilidad del presupuesto.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
@@ -1283,91 +1403,91 @@ La Unidad Especializada en el Combate al Secuestro estará a cargo de un Directo
 
 La Unidad Especializada en el Combate al Secuestro, es la unidad administrativa responsable de realizar las acciones propias del Ministerio Público en la investigación, persecución y prevención de los delitos contra la libertad de las personas y secuestro, teniendo las atribuciones siguientes:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
 I.- Proponer al Procurador las políticas institucionales, estrategias, protocolos, métodos y técnicas de investigación, que coadyuven en la debida integración de la averiguación previa;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
 II.- Coordinar las acciones de investigación y de servicios periciales necesarias para el cumplimiento de su función;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
 III.- Dirigir y vigilar que las actividades de los agentes del Ministerio Público, peritos y agentes de investigación especializados en combate al secuestro, se realicen de conformidad con las estrategias, protocolos, métodos y técnicas de investigación aplicables;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
 IV.- Brindar atención de urgencia a las víctimas;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
 V.- Establecer en coordinación con la Dirección de Informática, Estadística y Telecomunicaciones de la Procuraduría General de Justicia, los sistemas de registro, control estadístico y seguimiento de los mandamientos ministeriales o judiciales en el ámbito de su competencia;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
 VI.- Participar con otras Instituciones de Procuración de Justicia o Corporaciones Policiales Federales, Estatales o Municipales, en acciones y operativos conjuntos relacionados con el combate a los delitos contra la libertad de las personas y de secuestro, de acuerdo a las bases y reglas que al efecto se establezcan;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
 VII.- Implementar y operar los sistemas de recopilación, clasificación, registro y explotación de información, para conformar bancos de datos que sustenten el desarrollo de acciones relativas al combate, a los delitos contra la libertad de las personas y el secuestro;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
 VIII.- Proponer al Director del Instituto de Formación Profesional de la Procuraduría, la capacitación, especialización y actualización que requiera el personal de la Unidad Especializada en el Combate al Secuestro;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
 IX.- Establecer los mecanismos de control, registro y vigilancia a efecto de que las órdenes de comparecencia, aprehensión, reaprehensión, cateo y arresto que emita el órgano judicial, así como las órdenes de presentación, detención por caso urgente, medidas cautelares y demás diligencias que instruya el Ministerio Público, se ejecuten por los agentes de investigación especializados en combate al secuestro, con eficiencia, eficacia y con estricto apego a las garantías individuales;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
 X.- Informar al Procurador y a las instancias competentes, de las irregularidades en que incurra el personal de su adscripción, así como sobre los hechos delictivos en que puedan estar involucrados y que fueren de su conocimiento;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 XI.- (DEROGADA, P.O. 1 DE DICIEMBRE DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 XII.- (DEROGADA, P.O. 1 DE DICIEMBRE DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 XIII.- (DEROGADA, P.O. 1 DE DICIEMBRE DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 XIV.- (DEROGADA, P.O. 1 DE DICIEMBRE DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 XV.- (DEROGADA, P.O. 1 DE DICIEMBRE DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 XVI.- (DEROGADA, P.O. 1 DE DICIEMBRE DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 XVII.- (DEROGADA, P.O. 1 DE DICIEMBRE DE 2008)
 
@@ -1380,6 +1500,64 @@ Artículo 69 BIS.- El Centro de Justicia Alternativa de la Procuraduría General
 Dicha unidad administrativa dependerá directamente del Procurador y podrá contar con sedes regionales en toda la Entidad.
 
 Para todos los efectos legales a que haya lugar, el Director General del Centro de Justicia Alternativa y los titulares de las sedes regionales tendrán funciones de agentes del Ministerio Público.
+
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2013)</small>
+
+###### Artículo 69 Ter.
+
+El Centro de Operación Estratégica dependerá directamente del Procurador, al frente del mismo habrá un Director General, y tendrá las siguientes atribuciones:
+
+I.- Conocer e investigar los delitos contra la salud en su modalidad de narcomenudeo y aquellos delitos conexos y en su caso, concurrentes;
+
+II.- Coordinar la cooperación entre Autoridades Federales, Estatales y Municipales en los programas y acciones de prevención del delito de narcomenudeo y delitos conexos y en su caso, concurrentes;
+
+III.- Solicitar a la autoridad judicial que corresponda las órdenes de cateo, aprehensión, medidas cautelares y aseguramientos necesarios para el ejercicio de sus funciones de investigación y persecución; y
+
+IV.- Las demás que le encomiende el Procurador y demás disposiciones aplicables.
+
+El Centro de Operación Estratégica contará con personal especializado en el combate al narcomenudeo y delitos conexos y en su caso, concurrentes, y estará integrado con autoridades ministeriales y policiales de los tres niveles de Gobierno, así como con peritos en el ramo, por lo que se le dotará de la infraestructura y los instrumentos e insumos necesarios para el ejercicio de sus funciones, de acuerdo con el presupuesto disponible y tomando en cuenta los convenios de colaboración o cooperación que para tal efecto se suscriban.
+
+Para el eficaz despacho de sus asuntos, ejercerá sus atribuciones especializadas en lo que resulte aplicable, tomando en cuenta lo previsto en los Artículos 6 y 16 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2013)</small>
+
+###### Artículo 69 Quater.
+
+La Fiscalía para la Atención de Delitos de Género dependerá directamente del Procurador, al frente de ella habrá un Director General y tendrá las siguientes atribuciones:
+
+I.- Conocer y supervisar la investigación de los feminicidios; ya sea que se cometan por adultos o por adolescentes;
+
+II.- Coordinar los actos de investigación de los Agentes del Ministerio Público, y cuando lo estime necesario realizará directamente o por medio del personal que tenga adscrito, la debida investigación y persecución de los delitos de su competencia;
+
+III.- Vigilar y dar seguimiento al trámite de los procedimientos penales de los asuntos de su competencia, sin perjuicio de la responsabilidad que le corresponde a la Dirección de Control de Procesos;
+
+IV.- Proponer al Procurador la emisión de acuerdos, circulares y demás instrumentos relacionados con la prevención de los delitos de su competencia;
+
+V.- Proponer al Procurador la celebración de convenios con instituciones públicas y privadas para facilitar el intercambio de información que contribuya en el mejoramiento del ejercicio de sus funciones; y
+
+VI.- Las demás que le encomiende el Procurador y las disposiciones legales aplicables.
+
+Para el eficaz despacho de los asuntos de su competencia, tomará en cuenta lo previsto en los artículos 6 y 16 de la presente Ley, en lo aplicable.
+
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2013)</small>
+
+Artículo 69 Quintus.- La Fiscalía Especializada para la Atención del Delito de Trata de Personas dependerá directamente del Procurador, al frente de ella habrá un Director General y tendrá las siguientes atribuciones:
+
+I.- Dirigir y supervisar la investigación de los delitos de trata de personas, lenocinio y delitos conexos conforme a la normatividad aplicable, ya sea que se cometan por adultos o por adolescentes, de conformidad con la normatividad aplicable;
+
+II.- Coordinar los actos de investigación de los Agentes del Ministerio Público, y cuando lo estime necesario realizar, directamente o por medio del personal que tenga adscrito, la debida investigación y persecución de los delitos de su competencia, vigilando que se observe la Ley General para Prevenir, Erradicar y Sancionar el Delito de Trata de Personas y para la Asistencia y Protección a las Víctimas de ese Delito;
+
+III.- Vigilar y dar seguimiento al trámite de los procedimientos penales de los asuntos de su competencia, sin perjuicio de la responsabilidad que le corresponde a la Dirección de Control de Procesos;
+
+IV.- Ejecutar políticas, programas, acciones y otras medidas con la finalidad de contribuir a erradicar los delitos de trata de personas;
+
+V.- Proponer al Procurador la emisión de acuerdos, circulares y demás instrumentos relacionados con la prevención de los delitos de su competencia;
+
+VI.- Proponer al Procurador la celebración de convenios con instituciones públicas y privadas para facilitar el intercambio de información que contribuya en el mejoramiento del ejercicio de sus funciones; y
+
+VII.- Las demás que le encomiende el Procurador y las disposiciones legales aplicables.
+
+Para el eficaz despacho de los asuntos de su competencia, tomará en cuenta lo previsto en los Artículos 6 y 16 de la presente Ley, en lo aplicable.
 
 ###### Artículo 70.
 
@@ -1481,7 +1659,9 @@ IX.- Ejercer el presupuesto de la Procuraduría, a través de las partidas corre
 
 X.- Suministrar la información requerida para el ejercicio del derecho a la información pública gubernamental;
 
-XI.- Solicitar ante las autoridades competentes, la licencia colectiva de portación de armas, así como registrar y controlar las licencias de portación de armas individual del personal correspondiente;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2013)</small>
+
+XI.- Expedir y certificar copias de documentos y archivos que con motivo de sus funciones se hallen bajo su custodia;
 
 XII.- Dirigir la administración de los servicios de telecomunicaciones e infraestructura electrónica que requiera la Procuraduría;
 
@@ -1511,7 +1691,7 @@ XXIV.- Controlar y registrar en coordinación con los titulares de cada área, l
 
 XXV.- Suministrar información veraz y confiable al Procurador General y a todas las unidades administrativas de la Procuraduría, de acuerdo a su esfera de atribuciones;
 
-XXVI.- Administrar la biblioteca de la institución;
+XXVI.- (DEROGADA, P.O. 15 DE ABRIL DE 2013)
 
 XXVII.- Vigilar y controlar los almacenes de la Procuraduría;
 
@@ -1565,7 +1745,7 @@ I.- Someter a la aprobación del Procurador General, los planes y programas acad
 
 II.- Proponer y elaborar las bases de los procedimientos de selección, permanencia y promoción de los servidores públicos de la Procuraduría;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
@@ -1579,13 +1759,19 @@ VI.- Proponer la celebración de convenios de coordinación con instituciones na
 
 VII.- Establecer los procedimientos disciplinarios que se instruyan a los alumnos del instituto, en los términos de la normatividad aplicable;
 
-VIII.- Participar en la formulación, regulación y desarrollo de la profesionalización del servicio en la Procuraduría, en los términos de las disposiciones aplicables; y
+VIII.- Participar en la formulación, regulación y desarrollo de la profesionalización del servicio en la Procuraduría, en los términos de las disposiciones aplicables; y (sic)
 
-IX.- Las que le otorgue esta Ley, encomiende el Procurador General y demás disposiciones aplicables.
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2013)</small>
+
+IX.- Administrar la biblioteca de la institución; y
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2013)</small>
+
+X.- Las que le otorgue esta Ley, encomiende el Procurador General y demás disposiciones aplicables.
 
 ### Capítulo VI. De los Auxiliares del Ministerio Público
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
@@ -1599,7 +1785,7 @@ Serán auxiliares indirectos del Ministerio Público los demás Servidores Públ
 
 Los auxiliares indirectos del Ministerio Público, podrán actuar a petición de parte ofendida o de oficio cuando en el lugar no exista agente del Ministerio Público o existan detenidos en flagrante delito, poniendo sin demora alguna a disposición de la Autoridad Ministerial más próxima a los detenidos y las actuaciones correspondientes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
@@ -1607,31 +1793,31 @@ Los auxiliares indirectos del Ministerio Público, podrán actuar a petición de
 
 Los agentes de investigación actuarán bajo la conducción y mando del Ministerio Público en su función de investigación y persecución de los delitos, de acuerdo con las instrucciones que éste le dicte, y ejecutarán los mandamientos ministeriales y los que emita la Autoridad Judicial.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 I.- (DEROGADA, P.O. 1 DE DICIEMBRE DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 II.- (DEROGADA, P.O. 1 DE DICIEMBRE DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 III.- (DEROGADA, P.O. 1 DE DICIEMBRE DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 IV.- (DEROGADA, P.O. 1 DE DICIEMBRE DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 V.- (DEROGADA, P.O. 1 DE DICIEMBRE DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 VI.- (DEROGADA, P.O. 1 DE DICIEMBRE DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 VII.- (DEROGADA, P.O. 1 DE DICIEMBRE DE 2008)
 
@@ -1671,11 +1857,13 @@ III.- Tener un modo honesto de vivir; y
 
 IV.- No haber sido condenado por delito doloso o falta grave administrativa.
 
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2013)</small>
+
 ###### Artículo 86.
 
-El Subprocurador General de Justicia, el Subprocurador de Atención a la Familia y a la Víctima, el Visitador General y los Directores, deberán reunir los mismos requisitos que alude el Artículo anterior, debiendo acreditar la profesión o preparación acorde al cargo; y serán nombrados y destituidos por el Procurador General.
+El Subprocurador de Procedimientos Penales; el Subprocurador de Derechos Humanos y Servicios a la Comunidad, el Visitador General, los Fiscales y los Directores Generales y de Área, deberán reunir los mismos a que alude el artículo anterior, debiendo acreditar la profesión o preparación acorde al cargo, serán nombrados y destituidos por el Procurador General.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
@@ -1699,7 +1887,7 @@ V.- Ser de notoria buena conducta;
 
 VI.- No hacer uso ilícito de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
@@ -1707,7 +1895,7 @@ VII.- Sujetarse al procedimiento de selección para el ingreso, conforme a la co
 
 Para ser Secretario del Ministerio Público, los aspirantes deberán cubrir los mismos requisitos para el cargo de Agente del Ministerio Público, con excepción del previsto en la fracción II, que en el caso deberá acreditar ser pasante de la Licenciatura en Derecho.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### Artículo 89.
 
@@ -1731,13 +1919,13 @@ VI.- Ser de notoria buena conducta;
 
 VII.- No hacer uso ilícito de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
 VIII.- Sujetarse al procedimiento de selección para el ingreso, conforme a la convocatoria correspondiente y aprobar las evaluaciones que aplique el Centro Estatal de Control de Confianza.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
@@ -1767,21 +1955,27 @@ Los servidores públicos de la Procuraduría antes de tomar posesión de su carg
 
 El Procurador General y el Subprocurador de Asuntos Electorales rendirán la protesta de Ley ante el Congreso del Estado, en los términos que señala la Constitución Política del Estado; los demás servidores públicos lo harán ante el Procurador General.
 
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2013)</small>
+
 ###### Artículo 97.
 
-Los servidores públicos de la institución serán sustituidos, en sus excusas, ausencias o faltas temporales de la siguiente manera:
+Los servidores públicos de la institución serán sustituidos en sus excusas, ausencias o faltas temporales de la siguiente manera:
 
-I.- El Procurador General por el Subprocurador General de Justicia;
+I.- El Procurador General, por el Subprocurador de Procedimientos Penales;
 
-II.- El Subprocurador General de Justicia, el Subprocurador de Asuntos Electorales y el Subprocurador de Atención a la Familia y a la Víctima, por el Director General de Averiguaciones Previas; y
+II.- El Subprocurador de Procedimientos Penales, por el Director General de Averiguaciones Previas;
 
-III.- Los demás servidores públicos por su inmediato inferior jerárquico o por quien designe el Procurador General.
+III.- El Subprocurador de Derechos Humanos y Servicios a la Comunidad, por el Coordinador General de Atención a la Familia y a la Víctima; y
+
+IV.- Los demás servidores públicos por su inmediato inferior jerárquico o por quien designe el Procurador General.
 
 ### Capítulo VIII. De las Incompatibilidades, Impedimentos y Excusas de los Servidores Públicos de la Procuraduría
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2013)</small>
+
 ###### Artículo 98.
 
-Son incompatibles con el cargo de Procurador General, Subprocurador, Director General, Director, Subdirector, Coordinador, jefe de departamento y de agente, secretario y escribiente del Ministerio Público, así como de sus auxiliares directos; las funciones siguientes:
+Son incompatibles con el cargo de Procurador General, Subprocurador, Director General, Fiscal, Director, Subdirector, Coordinador, jefe de departamento y de agente, secretario y escribiente del Ministerio Público, así como de sus auxiliares directos; las funciones siguientes:
 
 I.- Desempeñar otro empleo, cargo o comisión de cualquier naturaleza, en Dependencias o Entidades Públicas Federales, del Distrito Federal, Estatales o Municipales, trabajos o servicios en instituciones privadas o en forma particular, salvo los de carácter docente siempre y cuando no interfiera con la prestación del servicio;
 
@@ -1795,9 +1989,11 @@ V.- Las demás que les impongan esta Ley y demás disposiciones aplicables.
 
 Se exceptúan de lo dispuesto en la fracción I de este numeral a los peritos quienes podrán desempeñar otro empleo, cargo o comisión de cualquier naturaleza en Dependencias o Entidades Públicas Federales, del Distrito Federal, Estatales o Municipales y los de carácter docente siempre y cuando no interfiera con la prestación del servicio o genere conflicto de intereses.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2013)</small>
+
 ###### Artículo 99.
 
-El Procurador General, los Subprocuradores, Directores Generales, Directores, Subdirectores, agentes y secretarios del Ministerio Público y sus auxiliares no son recusables, pero deben excusarse dentro del término de veinticuatro horas, al que tengan conocimiento del impedimento en los negocios en que intervengan cuando exista alguna de las causales siguientes:
+El Procurador General, los Subprocuradores, Directores Generales, Fiscales, Directores, Subdirectores, agentes y secretarios del Ministerio Público y sus auxiliares no son recusables, pero deben excusarse dentro del término de veinticuatro horas, al que tengan conocimiento del impedimento en los negocios en que intervengan cuando exista alguna de las causales siguientes:
 
 I.- Tener parentesco en línea recta, sin limitación de grado, en la colateral por consanguinidad hasta el cuarto grado, y en la colateral por afinidad hasta el segundo con alguno de los interesados, sus representantes, patronos o defensores;
 
@@ -1813,9 +2009,11 @@ VI.- Cuando sea amigo íntimo o enemigo declarado del ofendido o del inculpado, 
 
 VII.- Por aceptar dádivas de personas que tengan interés en el asunto o con motivo de éste.
 
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2013)</small>
+
 ###### Artículo 100.
 
-El Procurador General, calificará las excusas de los Subprocuradores, Directores Generales, Directores, Subdirectores y Agentes del Ministerio Público. Los titulares de las diversas unidades administrativas, calificarán las excusas de su personal. El servidor público que califique la excusa, en caso de ser procedente, designará de inmediato al que deba sustituir al impedido.
+El Procurador General, calificará las excusas de los Subprocuradores, Directores Generales, Fiscales, Directores, Subdirectores y Agentes del Ministerio Público. Los titulares de las diversas unidades administrativas, calificarán las excusas de su personal. El servidor público que califique la excusa, en caso de ser procedente, designará de inmediato al que deba sustituir al impedido.
 
 ### Capítulo IX. De los Derechos y Obligaciones de los Servidores Públicos de la Procuraduría
 
@@ -1823,13 +2021,11 @@ El Procurador General, calificará las excusas de los Subprocuradores, Directore
 
 Los Servidores Públicos en el ejercicio de sus funciones, observarán las obligaciones inherentes a su empleo, cargo ó comisión y actuarán con la diligencia necesaria para la pronta, completa e imparcial procuración de justicia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2013)</small>
 
 ###### Artículo 102.
 
-Los Agentes del Ministerio Público, sus Secretarios, y los Peritos, tendrán los siguientes derechos:
+Los Agentes del Ministerio Público, sus Secretarios, los Mediadores, Conciliadores, los Peritos y demás personal administrativo, tendrán los siguientes derechos:
 
 I.- Participar en los cursos de capacitación, actualización y especialización, que se impartan en el Instituto de Formación Profesional de la Procuraduría, de acuerdo a las disposiciones presupuéstales y a las necesidades del servicio, sin perder sus derechos de antigüedad, nivel y percepciones;
 
@@ -1945,7 +2141,7 @@ La Contraloría Interna de la Procuraduría de conformidad con el procedimiento 
 
 ### Capítulo XI. Del Procedimiento de Selección de los Servidores Públicos de la Procuraduría
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2008)</small>
 
@@ -2080,3 +2276,9 @@ P.O. 9 DE AGOSTO DE 2010.
 PRIMERO.- El presente Decreto, una vez realizada su Publicación en el Periódico Oficial del Estado, entrará en vigor el día 20 de agosto del año 2010.
 
 SEGUNDO.- Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto, se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
+
+P.O. 15 DE ABRIL DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor, al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
