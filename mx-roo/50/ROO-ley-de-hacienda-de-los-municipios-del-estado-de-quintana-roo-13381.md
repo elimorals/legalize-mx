@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-de-los-municipios-del-estado-de-quintana-roo-13
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-15"
-last_updated: "2012-12-21"
+last_updated: "2013-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO CUARTO DEL DECRETO NÚMERO 235 POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL MUNICIPIO DE BENITO JUÁREZ, DEL ESTADO DE QUINTANA ROO, PUBLICADO EN EL P.O. DE 21 DE DICIEMBRE DE 2012, SE DEROGA EN LA LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO, TODA REFERENCIA REALIZADA RESPECTO DEL MUNICIPIO DE BENITO JUÁREZ, CON LA SALVEDAD REALIZADA EN EL ARTÍCULO TERCERO TRANSITORIO DE ESTE DECRETO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de diciembre de 1997.
 
@@ -5183,6 +5183,10 @@ III. Predios con frente a la Playa 18.4
 
 DECIMO.- El presente decreto entrará en vigor a partir del 1o. de enero del año 2012, previa publicación en el Periódico Oficial del Estado de Quintana Roo.
 
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2013)</small>
+
+DÉCIMO PRIMERO.- Cuando el impuesto predial causado correspondiente al ejercicio fiscal 2013, sea cubierto en una sola emisión por anticipado y cubra todo el año y sea enterado en la Tesorería Municipal correspondiente, los Ayuntamientos podrán conceder un descuento hasta del 15% del total del importe, siempre y cuando el pago se efectúe a partir de la vigencia del presente Decreto, y hasta el último día hábil del mes junio de 2013.
+
 P.O. 30 DE NOVIEMBRE DE 2012.
 
 DECRETO NÚMERO 181 POR LO QUE SE APRUEBA LA LEY DE HACIENDA DEL MUNICIPIO DE SOLIDARIDAD DEL ESTADO DE QUINTANA ROO.
@@ -5296,3 +5300,7 @@ SEGUNDO.- Se deroga cualquier disposición que contravenga a lo dispuesto en el 
 TERCERO.- Los derechos a que se refiere el artículo 113 de la Ley de Hacienda del Municipio de Benito Juárez, del Estado de Quintana Roo, entrarán en vigor a partir del día 1 de enero de 2013, para lo cual el Tesorero Municipal deberá efectuar la publicación del acuerdo precisado en el penúltimo párrafo de dicho artículo, a más tardar, el 31 de enero de ese año; en tanto, continuarán vigentes en el Municipio de Benito Juárez, las disposiciones contenidas en los artículos 116, 117, 118 y 119 de la Ley de Hacienda de los Municipios del Estado de Quintana Roo.
 
 CUARTO.- Se deroga en la Ley de Hacienda de los Municipios del Estado de Quintana Roo, toda referencia realizada respecto del Municipio de Benito Juárez, con la salvedad realizada en el artículo Tercero Transitorio de este Decreto.
+
+P.O. 15 DE ABRIL DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
