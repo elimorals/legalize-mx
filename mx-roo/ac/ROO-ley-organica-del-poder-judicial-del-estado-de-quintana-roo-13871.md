@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-poder-judicial-del-estado-de-quintana-roo-1387
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-02-15"
-last_updated: "2012-11-30"
+last_updated: "2013-04-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13871&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 15 de febrero de 1999.
 
@@ -701,9 +701,11 @@ En el caso a que se refiere el artículo anterior, el Pleno del Consejo de la Ju
 
 Los Jueces de Primera Instancia conocerán de todos los asuntos de la competencia de los Juzgados de Paz, cuando en el Distrito de su residencia no funcionen éstos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2013)</small>
+
 ###### Artículo 58.
 
-Los Juzgados estarán a cargo de un Juez, que será el titular del órgano, y contarán con el número de Secretarios, Actuarios y demás servidores públicos que requieran conforme a las necesidades del servicio y a la capacidad presupuestal.
+Los Juzgados estarán a cargo de un Juez, que será el titular del órgano y contarán con el número de Secretarios, Actuarios y demás servidores públicos que requieran conforme a las necesidades del servicio y a la capacidad presupuestal. Además, uno o más Juzgados a la vez contarán con una administración concentrada, la cual estará a cargo de un Administrador de Gestión Judicial, quien dispondrá de un fedatario, notificadores y demás servidores públicos y personal administrativo que se requiera. Para ello, el Consejo de la Judicatura del Estado determinará en cuales distritos judiciales se establecerán este sistema de gestión judicial, así como también la competencia que tendrá la administración, sobre uno o más juzgados, atendiendo a la actividad y el número de juzgados existentes por cada distrito judicial.
 
 > <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
 
@@ -1821,9 +1823,17 @@ VIII.- Secretario de Juzgados de Paz; y (sic)
 
 IX.- Actuario del Poder Judicial del Estado.
 
-> <small>(ADICIONADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 15 DE ABRIL DE 2013)</small>
 
-X.- Secretario Auxiliar.
+X.- Fedatario;
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2013)</small>
+
+XI.- Secretario de Actas Mínimas;
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2013)</small>
+
+X (SIC).- Secretario Auxiliar.
 
 > <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
 
@@ -2224,3 +2234,13 @@ El procedimiento oral en la materia familiar, que contempla el Código de Proced
 ###### ARTÍCULO TERCERO.
 
 Los asuntos en materia familiar, mismos a los que hace referencia el procedimiento oral, iniciados con anterioridad a la entrada en vigor de este Decreto y de conformidad a lo establecido en el artículo segundo transitorio, serán concluidos conforme a las disposiciones vigentes con anterioridad a dicho acto.
+
+P.O. 15 DE ABRIL DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+Para el cumplimiento del presente Decreto el Poder Judicial deberá de realizar las adecuaciones financieras que se estimen necesarias dentro de su presupuesto autorizado.
