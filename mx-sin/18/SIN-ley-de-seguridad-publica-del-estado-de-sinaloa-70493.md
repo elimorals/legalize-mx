@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-seguridad-publica-del-estado-de-sinaloa-70493"
 country: "mx"
 rank: "ley"
 publication_date: "2009-10-14"
-last_updated: "2011-08-29"
+last_updated: "2013-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70493&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SIN"
 ---
 # LEY DE SEGURIDAD PUBLICA DEL ESTADO DE SINALOA
 
-LEY DE SEGURIDAD PUBLICA DEL ESTADO DE SINALOA
+LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2013.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 14 de octubre de 2009.
 
@@ -311,19 +311,19 @@ III. Auxiliar al Ministerio Público en la detención de indiciados, en los caso
 
 IV. En los términos de las disposiciones legales de orden estatal y municipal, suscribir convenios para el cumplimiento de las atribuciones en materia de evaluación, control de confianza, profesionalización, desarrollo policial, registro y certificación de los integrantes de las instituciones de seguridad pública;
 
-> <small>N. DE E. EN RELACION CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NUMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSULTESE EL TRANSITORIO SEGUNDO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NÚMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSÚLTESE EL TRANSITORIO SEGUNDO.</small>
 
 > <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2011)</small>
 
 V. Prestar auxilio a la población en caso de siniestros o accidentes, en coordinación con las instancias de protección civil correspondientes y con otros cuerpos policiales del Estado y los municipios;
 
-> <small>N. DE E. EN RELACION CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NUMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSULTESE EL TRANSITORIO SEGUNDO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NÚMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSÚLTESE EL TRANSITORIO SEGUNDO.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE AGOSTO DE 2011)</small>
 
 VI. Participar en la prevención y combate a las actividades de posesión, comercio o suministro de estupefacientes y psicotrópicos cuando las mismas se realicen en lugares públicos, en términos de la Ley General de Salud; y,
 
-> <small>N. DE E. EN RELACION CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NUMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSULTESE EL TRANSITORIO SEGUNDO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NÚMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSÚLTESE EL TRANSITORIO SEGUNDO.</small>
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE AGOSTO DE 2011)</small>
 
@@ -347,19 +347,19 @@ VI. Prohibir a sus integrantes el uso de grados e insignias reservados para el u
 
 VII. Auxiliar al Ministerio Público, a las autoridades judiciales y a las administrativas, cuando sean requeridos para ello, de conformidad con la ley;
 
-> <small>N. DE E. EN RELACION CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NUMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSULTESE EL TRANSITORIO SEGUNDO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NÚMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSÚLTESE EL TRANSITORIO SEGUNDO.</small>
 
 > <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2011)</small>
 
 VIII. Exigir en su caso, al personal a su cargo, el uso de los uniformes con las características y especificaciones que para el efecto se determinen;
 
-> <small>N. DE E. EN RELACION CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NUMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSULTESE EL TRANSITORIO SEGUNDO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NÚMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSÚLTESE EL TRANSITORIO SEGUNDO.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE AGOSTO DE 2011)</small>
 
 IX. Participar en la prevención y combate a las actividades de posesión, comercio o suministro de estupefacientes y psicotrópicos cuando las mismas se realicen en lugares públicos, en términos de la Ley General de Salud; y,
 
-> <small>N. DE E. EN RELACION CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NUMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSULTESE EL TRANSITORIO SEGUNDO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NÚMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSÚLTESE EL TRANSITORIO SEGUNDO.</small>
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE AGOSTO DE 2011)</small>
 
@@ -583,19 +583,19 @@ XXIX. Entregar sin demora a la autoridad correspondiente todo objeto, documento 
 
 XXX. Hacer entrega inmediata del equipamiento y medios de identificación que le hubiere sido asignado, al separarse del cargo;
 
-> <small>N. DE E. EN RELACION CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NUMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSULTESE EL TRANSITORIO SEGUNDO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NÚMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSÚLTESE EL TRANSITORIO SEGUNDO.</small>
 
 > <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2011)</small>
 
 XXXI. Utilizar la fuerza física en forma racional, oportuna y proporcional en el desempeño de sus funciones;
 
-> <small>N. DE E. EN RELACION CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NUMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSULTESE EL TRANSITORIO SEGUNDO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NÚMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSÚLTESE EL TRANSITORIO SEGUNDO.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE AGOSTO DE 2011)</small>
 
 XXXII. Participar en la prevención y combate a las actividades de posesión, comercio o suministro de estupefacientes y psicotrópicos cuando las mismas se realicen en lugares públicos, en términos de la Ley General de Salud; y,
 
-> <small>N. DE E. EN RELACION CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NUMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSULTESE EL TRANSITORIO SEGUNDO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA MATERIA DE NARCOMENUDEO PUBLICADO EN EL DECRETO NÚMERO 322 DEL P.O. 29 DE AGOSTO DE 2011, CONSÚLTESE EL TRANSITORIO SEGUNDO.</small>
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE AGOSTO DE 2011)</small>
 
@@ -2981,6 +2981,8 @@ Si la resolución impone sanciones administrativas el elemento policial sanciona
 
 ### Capítulo I. De las Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2013)</small>
+
 ###### Artículo 235.
 
 Para el conocimiento, trámite y resolución de condecoraciones, estímulos, promociones y recompensas que se otorguen en relación con la actuación de los integrantes de las Instituciones Policiales; se crearán las Comisiones de Honor y Justicia como instancias colegiadas, integradas por los servidores públicos que se determinen en las disposiciones reglamentarias correspondientes.
@@ -3005,9 +3007,23 @@ IV. Las demás que le asigne esta Ley y demás disposiciones relativas.
 
 ###### Artículo 237.
 
-El Sistema de Formación y Profesionalización del Personal de Seguridad Pública a que se refiere este Título tiene por objeto establecer las bases para el reclutamiento, selección, ingreso, formación, capacitación, actualización, desarrollo, profesionalización, y especialización del servicio policial del personal de Seguridad Pública del Estado y de los Municipios. El Secretario Ejecutivo tendrá a su cargo la administración y operación del Instituto Estatal de Ciencias Penales y Seguridad Pública, como única instancia responsable de dar cumplimiento a las disposiciones contenidas en este Título.
+El Sistema de Formación y Profesionalización del Personal de Seguridad Pública a que se refiere este Título tiene por objeto:
 
-Para el cumplimiento de la disposición anterior, se podrá autorizar la creación de extensiones del Instituto Estatal de Ciencias Penales y Seguridad Pública.
+I. Coordinar y desarrollar acciones para el reclutamiento, selección, ingreso, formación, capacitación continua y especializada; así como, atender los procesos de capacitación y evaluación de competencias relacionadas con la carrera policial para la permanencia, promoción y ascensos del personal de las instituciones de seguridad pública estatales y municipales;
+
+II. Impartir educación media y superior a los aspirantes y servidores públicos de las áreas de seguridad pública, de procuración de justicia y en su caso, de administración de justicia, defensoría pública, de protección civil, de ejecución de sanciones y reinserción social; y
+
+III. Formar técnicos, investigadores, docentes y especialistas en las diversas áreas de seguridad pública y de las ciencias penales; realizar investigaciones y estudios sobre los principales problemas delictivos que afectan a la sociedad y difundir los resultados y recomendaciones; prestar servicios de asesoría a instituciones públicas y privadas, conforme a los términos de esta Ley y demás normatividad aplicable.
+
+El Instituto es la única instancia responsable de dar cumplimiento a las disposiciones contenidas en este Título.
+
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2013)</small>
+
+###### Artículo 237 Bis.
+
+El Instituto Estatal de Ciencias Penales y Seguridad Pública, es un organismo público descentralizado del Gobierno del Estado con personalidad jurídica y patrimonio propio, cuyos órganos generales de gobierno tendrán su domicilio en la ciudad de Culiacán Rosales, Sinaloa.
+
+Para el cumplimiento de lo que dispone este título, se podrá autorizar la creación de extensiones del Instituto Estatal de Ciencias Penales y Seguridad Pública.
 
 ###### Artículo 238.
 
@@ -3131,7 +3147,9 @@ II. Contar con certificado de educación media superior al momento de la selecci
 
 III. Cumplir con la estatura mínima requerida y con peso corporal acorde con su estatura, según la Norma Oficial Mexicana de la materia;
 
-IV. Tener entre 21 a 33 años de edad;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2013)</small>
+
+IV. Tener entre 18 a 33 años de edad;
 
 V. No contar con tatuajes permanentes que resulten visibles aún vistiendo el pantalón y la camisa de manga corta de la policía preventiva;
 
@@ -3141,7 +3159,9 @@ VII. No haber sido condenado por sentencia irrevocable como responsable de un de
 
 VIII. No estar suspendido ni haber sido destituido o inhabilitado por resolución firme como servidor público;
 
-IX. En el caso de los varones, haber cumplido con el Servicio Militar Nacional;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2013)</small>
+
+IX.- En el caso de los varones, haber cumplido con el Servicio Militar Nacional antes de concluir su formación inicial en el Instituto;
 
 X. Abstenerse de consumir sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares, ni padecer alcoholismo;
 
@@ -3323,7 +3343,7 @@ C. SOCORRO DEL CARMEN ASTORGA
 
 DIPUTADA SECRETARIA
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 29 DE AGOSTO DE 2011.
 
@@ -3332,3 +3352,9 @@ PRIMERO. El presente decreto entrará en vigor el día de su publicación, salvo
 SEGUNDO. En materia de narcomenudeo, las autoridades competentes de la entidad conocerán de dicho delito a partir del día 21 de agosto de 2012, en cumplimiento al transitorio primero, párrafo tercero, del Decreto Federal publicado en el Diario Oficial de la Federación de fecha 20 de agosto de 2009.
 
 TERCERO. Durante la vacatio legis, los poderes Ejecutivo y Judicial deberán realizar las acciones necesarias para su debida observancia e instrumentación.
+
+P.O. 15 DE ABRIL DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo previsto en el presente Decreto.
