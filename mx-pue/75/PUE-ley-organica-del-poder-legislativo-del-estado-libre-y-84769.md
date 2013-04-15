@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-poder-legislativo-del-estado-libre-y-84769"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-12-30"
-last_updated: "2012-02-08"
+last_updated: "2013-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "PUE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO MEDIANTE EL CUAL SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE PUEBLA, PUBLICADO EN LA SEGUNDA SECCIÓN DEL P.O. 15 DE ABRIL DE 2013, LAS REFERENCIAS QUE A LA ENTRADA EN VIGOR DEL PRESENTE DECRETO SE HAGAN EN TODO INSTRUMENTO LEGAL, JURÍDICO O ADMINISTRATIVO Y NORMA EN SENTIDO FORMAL O MATERIAL A LA COMISIÓN GENERAL INSPECTORA DEL ÓRGANO DE FISCALIZACIÓN SUPERIOR DEL ESTADO O A SU TITULAR, SE ENTENDERÁN HECHAS A LA COMISIÓN GENERAL INSPECTORA DE LA AUDITORÍA SUPERIOR DEL ESTADO O A SU RESPECTIVO TITULAR.</small>
 
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 8 DE FEBRERO DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2013.
 
 Ley publicada en la Sección Décima Novena del Periódico Oficial del Estado de Puebla, el viernes 30 de diciembre de 2011.
 
@@ -95,7 +95,9 @@ b) Órgano Legislativo: El Cuerpo Colegiado conformado por Legisladores, designa
 
 c) Órgano Técnico Administrativo: El área del Congreso que cumple funciones de carácter específico y de dirección administrativa, dependiente de los Órganos Legislativos.
 
-XVI.- Órgano de Fiscalización Superior del Estado de Puebla: Unidad de Fiscalización, Control y Evaluación a que se refiere el artículo 113 de la Constitución Política del Estado Libre y Soberano de Puebla y 112 de la Ley de Fiscalización Superior y Rendición de Cuentas para el Estado de Puebla;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2013)</small>
+
+XVI.- Auditoría Superior del Estado de Puebla: Unidad de Fiscalización, Control y Evaluación a que se refiere el artículo 113 de la Constitución Política del Estado Libre y Soberano de Puebla y 112 de la Ley de Fiscalización Superior y Rendición de Cuentas para el Estado de Puebla;
 
 XVII.- Permiso: La autorización de un Órgano Legislativo del Congreso del Estado para que alguno de sus integrantes pueda retirarse de una sesión o reunión;
 
@@ -131,9 +133,11 @@ Los casos no previstos en la presente Ley y el Reglamento Interior del Congreso,
 
 Para cumplir con las funciones y principios administrativos de eficacia y eficiencia; así como ejercer sus atribuciones, el Congreso del Estado cuenta con personalidad jurídica y patrimonio propios (sic); así como los recursos humanos, financieros y materiales suficientes, de conformidad con lo previsto en los ordenamientos aplicables.
 
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2013)</small>
+
 ###### ARTÍCULO 7.
 
-El Congreso del Estado y el Órgano de Fiscalización Superior del Estado de Puebla formularán en términos de las disposiciones aplicables, sus respectivos presupuestos de egresos para su inclusión en el presupuesto de Egresos del Poder Legislativo. El que una vez aprobado, por la instancia competente, deberá remitirse para su incorporación en la iniciativa de Ley de Egresos del Estado que anualmente presenta el Ejecutivo del Estado, de conformidad con la legislación aplicable.
+El Congreso del Estado y la Auditoría Superior del Estado de Puebla formularán, en términos de las disposiciones aplicables, sus respectivos presupuestos de egresos para su inclusión en el presupuesto de Egresos del Poder Legislativo.
 
 ###### ARTÍCULO 8.
 
@@ -979,7 +983,9 @@ VIII.- Coordinar las tareas políticas y administrativas de la Legislatura, que 
 
 IX.- Establecer las políticas, lineamientos y estrategias de comunicación social del Congreso del Estado;
 
-X.- Someter a consideración y acuerdo del Pleno, los nombramientos o remociones del Secretario General del Congreso del Estado, del Auditor General del Órgano de Fiscalización Superior del Estado, del Contralor Interno y del Titular del Instituto de Investigaciones Legislativas, Financieras y Socioeconómicas; las renuncias o solicitudes de licencia que éstos le presenten, proponiendo en caso necesario a los sustitutos, tomando en cuenta para ello lo dispuesto por la Constitución Política del Estado Libre y Soberano de Puebla, la presente Ley, la Ley de los Trabajadores al Servicio del Estado, el Estatuto del Servicio Profesional de Carrera Legislativa del Congreso del Estado y demás disposiciones aplicables;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2013)</small>
+
+X.- Someter a consideración y acuerdo del Pleno, los nombramientos o remociones del Secretario General del Congreso del Estado, del Auditor Superior del Estado de Puebla, del Contralor Interno y del Titular del Instituto de Investigaciones Legislativos (sic), Financieras y Socioeconómicas; las renuncias o solicitudes de licencia que éstos le presenten, proponiendo en caso necesario a los sustitutos, tomando en cuenta para ello lo dispuesto por la Constitución Política del Estado Libre y Soberano de Puebla, la presente Ley, la Ley de los Trabajadores al Servicio del Estado, el Estatuto del Servicio Profesional de Carrera Legislativa del Congreso del Estado y demás disposiciones aplicables;
 
 XI.- Nombrar y remover a los Directores Generales dependientes de la Secretaría General del Congreso, quienes otorgarán la protesta de Ley ante la propia Junta de Gobierno y Coordinación Política; así como resolver sobre las renuncias o solicitudes de licencia que éstos le presenten, proponiendo en caso necesario a los sustitutos, tomando en cuenta para ello lo dispuesto por la Ley de Fiscalización Superior y Rendición de Cuentas para el Estado de Puebla, Ley de los Trabajadores al Servicio del Estado, el Estatuto del Servicio Profesional de Carrera Legislativa del Congreso del Estado y demás disposiciones aplicables;
 
@@ -1229,7 +1235,9 @@ XIII.- Equidad y Género;
 
 XIV.- Asuntos Indígenas;
 
-XV.- Inspectora del Órgano de Fiscalización Superior;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2013)</small>
+
+XV.- Inspectora de la Auditoría Superior del Estado;
 
 XVI.- Seguridad Pública;
 
@@ -1827,19 +1835,25 @@ V.- Los programas para la capacitación, actualización y desarrollo de los serv
 
 El Congreso del Estado podrá celebrar convenios de coordinación o colaboración con los demás Poderes o con instituciones públicas o privadas, con el fin de cumplir con los objetivos del Servicio Profesional de Carrera Legislativa y su Estatuto.
 
-### CAPÍTULO II. DEL ÓRGANO DE FISCALIZACIÓN SUPERIOR DEL ESTADO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE ABRIL DE 2013)</small>
+
+### CAPÍTULO II. DE LA AUDITORÍA SUPERIOR DEL ESTADO
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2013)</small>
 
 ###### ARTÍCULO 199.
 
-El Órgano de Fiscalización Superior del Estado es la unidad de fiscalización, control y evaluación gubernamental dependiente del Congreso del Estado, con autonomía técnica y de gestión en el ejercicio de sus atribuciones, así como para decidir sobre su organización interna, funcionamiento y resoluciones, en términos de la Constitución Política del Estado Libre y Soberano de Puebla, la Ley de Fiscalización Superior y Rendición de Cuentas para el Estado de Puebla y demás disposiciones aplicables.
+La Auditoría Superior del Estado de Puebla, es la unidad de fiscalización, control y evaluación gubernamental dependiente del Congreso del Estado, con autonomía técnica y de gestión en el ejercicio de sus atribuciones, así como para decidir sobre su organización interna, funcionamiento y resoluciones, en términos de la Constitución Política del Estado Libre y Soberano de Puebla, la Ley de Fiscalización Superior y Rendición de Cuentas para el Estado de Puebla y demás disposiciones aplicables.
 
-El Congreso del Estado, a través de la Comisión Inspectora del Órgano de Fiscalización Superior, llevará a cabo la supervisión, coordinación y evaluación del Órgano de Fiscalización Superior del Estado de Puebla.
+El Congreso del Estado, a través de la Comisión Inspectora de la Auditoría Superior del Estado, llevará a cabo la supervisión, coordinación y evaluación de la Auditoría Superior del Estado de Puebla.
 
-El Auditor General será nombrado conforme al procedimiento establecido por la Constitución Política del Estado Libre y Soberano de Puebla y la Ley de Fiscalización Superior y Rendición de Cuentas para el Estado de Puebla.
+El Auditor Superior del Estado de Puebla, será nombrado conforme al procedimiento establecido por la Constitución Política del Estado Libre y Soberano de Puebla y la Ley de Fiscalización Superior y Rendición de Cuentas para el Estado de Puebla.
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2013)</small>
 
 ###### ARTÍCULO 200.
 
-El Órgano de Fiscalización Superior del Estado, tendrá las atribuciones que le confiere la Constitución Política del Estado Libre y Soberano de Puebla, la Ley de Fiscalización Superior y Rendición de Cuentas para el Estado de Puebla, el Reglamento Interior del mismo Órgano y demás disposiciones aplicables.
+La Auditoría Superior del Estado de Puebla, tendrá las atribuciones que le confiere la Constitución Política del Estado Libre y Soberano de Puebla, la Ley de Fiscalización Superior y Rendición de Cuentas para el Estado de Puebla, el Reglamento Interior de la misma Auditoría Superior del Estado y demás disposiciones aplicables.
 
 ### CAPÍTULO III. DE LA CONTRALORÍA INTERNA DEL CONGRESO
 
@@ -2039,6 +2053,8 @@ IV.- Poseer los conocimientos, experiencia y capacidad de acuerdo al perfil del 
 
 ### CAPÍTULO I. DE LA REVISIÓN DE LA CUENTA PÚBLICA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2013)</small>
+
 ### CAPÍTULO II. DE LAS INICIATIVAS DE LEY DE INGRESOS, EGRESOS Y DE LA RECONDUCCIÓN PRESUPUESTAL
 
 ## TÍTULO SÉPTIMO. DE LOS MECANISMOS DE VINCULACIÓN CON OTROS PODERES
@@ -2047,7 +2063,7 @@ IV.- Poseer los conocimientos, experiencia y capacidad de acuerdo al perfil del 
 
 ###### ARTÍCULO 217.
 
-La revisión y fiscalización de la Cuenta Pública de los Poderes del Estado, de los Ayuntamientos y de los demás sujetos obligados, establecidos en la fracción XXIII del artículo 2 de la Ley de Fiscalización Superior y Rendición de Cuentas para el Estado de Puebla, es facultad del Congreso del Estado, la cual ejecuta a través del Órgano de Fiscalización Superior.
+La revisión y fiscalización de la Cuenta Pública de los Poderes del Estado, de los Ayuntamientos y de los demás sujetos obligados, establecidos en la fracción XXIII del artículo 2 de la Ley de Fiscalización Superior y Rendición de Cuentas para el Estado de Puebla, es facultad del Congreso del Estado, la cual ejecuta a través de la Auditoría Superior del Estado de Puebla.
 
 La revisión y fiscalización de la Cuenta Pública de los Poderes del Estado, se realiza de acuerdo con lo establecido en la Constitución Política del Estado Libre y Soberano de Puebla y de conformidad con lo siguiente:
 
@@ -2055,7 +2071,9 @@ I.- El Congreso del Estado en el segundo periodo de sesiones, examinará, revisa
 
 En el caso previsto en el párrafo anterior, declarará si las cantidades percibidas y gastadas están de acuerdo con las partidas respectivas de los presupuestos, si los gastos están justificados y si ha lugar o no a exigir responsabilidades.
 
-II.- El Congreso del Estado en el tercer periodo de sesiones, deberá incluir en la agenda legislativa, en el caso del último año, previo al de conclusión de la administración constitucional del Ejecutivo del Estado y de la Legislatura que corresponda, el examen, revisión, calificación y aprobación de las Cuentas Públicas Parciales correspondientes a los meses de enero a octubre, que deberán ser presentadas por sus titulares ante el Congreso del Estado por conducto del Órgano de Fiscalización Superior del Estado dentro de los primeros quince días del mes de noviembre, declarando si las cantidades percibidas y gastadas están de acuerdo con las partidas respectivas de los presupuestos, si los gastos están justificados y si ha lugar o no a exigir responsabilidades.
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2013)</small>
+
+II.- El Congreso del Estado en el tercer periodo de sesiones, deberá incluir en la agenda legislativa, en el caso del último año, previo al de conclusión de la administración constitucional del Ejecutivo del Estado y de la Legislatura que corresponda, el examen, revisión, calificación y aprobación de las Cuentas Públicas Parciales correspondientes a los meses de julio a octubre del Ejecutivo y del primero de julio al día de conclusión de la Legislatura que corresponda, que deberán ser presentadas por sus titulares ante el Congreso del Estado, por conducto de la Auditoría Superior del Estado de Puebla dentro de los primeros quince días del mes de noviembre, declarando si las cantidades percibidas y gastadas están de acuerdo con las partidas respectivas de los presupuestos, si los gastos están justificados y si ha lugar o no a exigir responsabilidades.
 
 ### CAPÍTULO IV. DE LAS COMPARECENCIAS
 
@@ -2276,3 +2294,15 @@ Por única ocasión la Comisión Permanente convocará a los Coordinadores de Gr
 La Comisión Permanente, antes de la apertura del primer Periodo Ordinario de Sesiones correspondiente al año de 2012, convocará a los Diputados a sesión previa con la finalidad de elegir a la Mesa Directiva que estará en funciones a partir del día 15 de enero y hasta el 31 de julio de dicho año.
 
 EL GOBERNADOR, hará publicar la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los quince días del mes de diciembre de dos mil once.- Diputado Presidente.- JOSÉ LAURO SÁNCHEZ LÓPEZ.- Rúbrica.- Diputada Vicepresidenta.- JOSEFINA BUXADÉ CASTELÁN.- Rúbrica.- Diputado Secretario.- ENRIQUE NACER HERNÁNDEZ.- Rúbrica.- Diputado Secretario.- ZEFERINO MARTÍNEZ RODRÍGUEZ.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE ABRIL DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las referencias que a la entrada en vigor del presente Decreto se hagan en todo instrumento legal, jurídico o administrativo y norma en sentido formal o material a la Comisión General Inspectora del Órgano de Fiscalización Superior del Estado o a su Titular, se entenderán hechas a la Comisión General Inspectora de la Auditoría Superior del Estado o a su respectivo Titular.
+
+TERCERO.- Los procedimientos legales, administrativos, de fiscalización superior y demás asuntos que a la entrada en vigor del presente Decreto, se encuentren en trámite ante la Comisión General Inspectora del Órgano de Fiscalización Superior o en los que ésta sea parte, así como los que deriven o sean consecuencia de los mismos, continuarán sustanciándose por la Comisión General Inspectora de la Auditoría Superior del Estado, hasta su total conclusión, conforme a las disposiciones aplicables.
+
+CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
