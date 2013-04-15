@@ -4,7 +4,7 @@ identifier: "ROO-ley-sobre-el-uso-de-medios-electronicos-mensajes-de-datos-y-756
 country: "mx"
 rank: "ley"
 publication_date: "2010-06-28"
-last_updated: "2010-06-28"
+last_updated: "2013-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # LEY SOBRE EL USO DE MEDIOS ELECTRONICOS, MENSAJES DE DATOS Y FIRMA ELECTRONICA AVANZADA PARA EL ESTADO DE QUINTANA ROO
 
-LEY SOBRE EL USO DE MEDIOS ELECTRONICOS, MENSAJES DE DATOS Y FIRMA ELECTRONICA AVANZADA PARA EL ESTADO DE QUINTANA ROO
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE ABRIL DE 2013 EN EL P.O. DEL ESTADO DE QUINTANA ROO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
-TEXTO ORIGINAL.
+LEY SOBRE EL USO DE MEDIOS ELECTRÓNICOS, MENSAJES DE DATOS Y FIRMA ELECTRÓNICA AVANZADA PARA EL ESTADO DE QUINTANA ROO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2013.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estrado de Quintana Roo, el lunes 28 de junio de 2010.
 
@@ -257,7 +259,9 @@ La Autoridad Certificadora podrá certificar los dispositivos seguros de creaci�
 
 Para los efectos de la presente Ley, serán autoridades certificadoras en su respectivo ámbito de competencia:
 
-I.- El Poder Ejecutivo por conducto de la Secretaría de la Contraloría;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2013)</small>
+
+I.- El Poder Ejecutivo por conducto de la Secretaría de la Contraloría y la Secretaría de Hacienda;
 
 II.- El Poder Legislativo;
 
@@ -634,3 +638,11 @@ LIC. FÉLIX ARTURO GONZÁLEZ CANTO
 EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO.
 
 LIC. EDUARDO OVANDO MARTINEZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE ABRIL DE 2013.
+
+PRIMERO.- Se dejan sin efecto todas las disposiciones legales que se opongan al presente Decreto.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Estado de Quintana Roo.
