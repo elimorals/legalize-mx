@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-del-instituto-estatal-de-ciencias-penales-y-6618"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-04-05"
-last_updated: "1993-04-05"
+last_updated: "2013-04-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY ORGÁNICA DEL INSTITUTO ESTATAL DE CIENCIAS PENALES Y SEGURIDAD PÚBLICA DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2013.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el lunes 5 de abril de 1993.
 
@@ -45,11 +45,11 @@ Las disposiciones de la presente ley son de orden público e interés social y t
 
 La formación, capacitación, profesionalización y especialización de los cuerpos de seguridad pública, en ningún caso podrá ser objeto de concesión a particulares.
 
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2013)</small>
+
 ###### ARTICULO 2o.
 
-El Instituto dependerá directa y administrativamente de la Secretaría de Protección Ciudadana; su domicilio será la población donde residan los Poderes y su objeto será la preparación profesional de quienes aspiren a formar parte de los cuerpos de seguridad pública Estatal y Municipal, en sus diversas modalidades, así como la actualización del personal de policía en servicio y la capacitación de maestros e investigadores en esta materia.
-
-El Reglamento Interior fijará las modalidades, clases y tipos de los egresados.
+El Instituto Estatal de Ciencias Penales y Seguridad Pública, es un organismo público descentralizado del Gobierno del Estado con personalidad jurídica y patrimonio propio, cuyos órganos generales de gobierno tendrán su domicilio en la ciudad de Culiacán Rosales, Sinaloa; su objeto será la preparación profesional de quienes aspiren a formar parte de los cuerpos de seguridad pública Estatal y Municipal, en sus diversas modalidades, así como la actualización del personal de policía en servicio y la capacitación de maestros e investigadores en esta materia.
 
 ###### ARTICULO 3o.
 
@@ -189,7 +189,9 @@ Los requisitos que deban de satisfacer los aspirantes serán los siguientes:
 
 I. Ser ciudadano mexicano;
 
-II. Contar con una edad mínima de 19 años a la fecha de iniciación del curso;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2013)</small>
+
+II. Contar con una edad mínima de 18 años a la fecha de iniciación del curso;
 
 III. No tener antecedentes penales;
 
@@ -288,3 +290,11 @@ Ing. Renato Vega Alvarado
 EL SECRETARIO GENERAL DE GOBIERNO
 
 Dr. Francisco C. Frías Castro
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 15 DE ABRIL DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo previsto en el presente Decreto.
