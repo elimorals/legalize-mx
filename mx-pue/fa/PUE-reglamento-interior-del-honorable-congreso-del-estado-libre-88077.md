@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-honorable-congreso-del-estado-libre-880
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-03-26"
-last_updated: "2012-12-31"
+last_updated: "2013-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88077&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2013.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 26 de marzo de 2012.
 
@@ -40,6 +40,8 @@ EL HONORABLE QUINCUAGÉSIMO OCTAVO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SO
 CONSIDERANDO.
 
 Por lo anteriormente expuesto y con fundamento en los artículos 57 fracción I, 63 fracción II, 64 y 67 de la Constitución Política del Estado Libre y Soberano de Puebla; 102, 115, 119, 123 fracción I, 134 y 135 de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla; 20, 21, 22, 23 y 24 fracción I del Reglamento Interior del Honorable Congreso del Estado Libre y Soberano de Puebla, se expide el siguiente:
+
+> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO SIN NÚMERO, MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA Y AL REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA, PUBLICADO EN EL P.O. 15 DE ABRIL DE 2013, LAS REFERENCIAS QUE A LA ENTRADA EN VIGOR DEL PRESENTE DECRETO SE HAGAN EN TODO INSTRUMENTO LEGAL, JURÍDICO O ADMINISTRATIVO Y NORMA EN SENTIDO FORMAL O MATERIAL A LA COMISIÓN GENERAL INSPECTORA DEL ÓRGANO DE FISCALIZACIÓN SUPERIOR DEL ESTADO O A SU TITULAR, SE ENTENDERÁN HECHAS A LA COMISIÓN GENERAL INSPECTORA DE LA AUDITORÍA SUPERIOR DEL ESTADO O A SU RESPECTIVO TITULAR.</small>
 
 REGLAMENTO INTERIOR DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
@@ -539,21 +541,37 @@ c) Fortalecer el marco jurídico que garantice la participación de los Pueblos 
 
 d) Las demás que le confiera este Reglamento, las Leyes aplicables o le asigne la Mesa Directiva, la Comisión Permanente o la Junta de Gobierno y Coordinación Política.
 
-XV.- INSPECTORA DEL ÓRGANO DE FISCALIZACIÓN SUPERIOR:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2013)</small>
 
-a) Supervisar y evaluar al Órgano de Fiscalización Superior del Estado, sin perjuicio de la autonomía que le confiere la Constitución Política del Estado Libre y Soberano de Puebla y la Ley de Fiscalización Superior y Rendición de Cuentas para el Estado de Puebla;
+XV.- INSPECTORA DE LA AUDITORÍA SUPERIOR DEL ESTADO:
 
-b) Ser el conducto de comunicación y coordinación entre el Congreso del Estado y el Órgano de Fiscalización Superior del Estado;
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2013)</small>
 
-c) Recibir del Órgano de Fiscalización Superior del Estado, los informes del Resultado de la Fiscalización Superior de las Cuentas Públicas de los Sujetos de Revisión, que éste le remita en cualquiera de los periodos de sesiones a que se refiere el artículo 50 de la Constitución Política del Estado Libre y Soberano de Puebla y turnarlos al Pleno del Congreso del Estado para su dictaminación;
+a) Supervisar y evaluar a la Auditoría Superior del Estado de Puebla, sin perjuicio de la autonomía que le confiere la Constitución Política del Estado Libre y Soberano de Puebla y la Ley de Fiscalización Superior y Rendición de Cuentas para el Estado de Puebla;
 
-d) Recibir del Órgano de Fiscalización Superior del Estado los informes relativos a la Cuentas Públicas que se encuentran pendientes o en proceso de revisión, turnándolos al Pleno del Congreso del Estado;
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2013)</small>
 
-e) Solicitar al Órgano de Fiscalización Superior del Estado, sin menoscabo de las facultades de éste, la práctica de visitas, inspecciones y auditorías a los Sujetos de Revisión;
+b) Ser el conducto de comunicación y coordinación entre el Congreso del Estado y la Auditoría Superior del Estado de Puebla;
 
-f) Informar al término de cada Periodo Ordinario de Sesiones respecto del ejercicio del presupuesto del Congreso del Estado y del Órgano de Fiscalización Superior;
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2013)</small>
 
-g) La Revocación del mandato y suspensiones de Presidentes, Regidores y Síndicos Municipales, en asuntos de la competencia del Órgano de Fiscalización Superior;
+c) Recibir de la Auditoría Superior del Estado de Puebla, los informes del Resultado de la Fiscalización Superior de las Cuentas Públicas de los Sujetos de Revisión, que éste le remita en cualquiera de los periodos de sesiones a que se refiere el artículo 50 de la Constitución Política del Estado Libre y Soberano de Puebla y turnarlos al Pleno del Congreso del Estado para su dictaminación;
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2013)</small>
+
+d) Recibir de la Auditoría Superior del Estado de Puebla, los informes relativos a la (sic) Cuentas Públicas que se encuentran pendientes o en proceso de revisión, turnándolos al Pleno del Congreso del Estado;
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2013)</small>
+
+e) Solicitar a la Auditoría Superior del Estado de Puebla, sin menoscabo de las facultades de éste, la práctica de visitas, inspecciones y auditorías a los Sujetos de Revisión;
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2013)</small>
+
+f) Informar al término de cada Periodo Ordinario de Sesiones respecto del ejercicio del presupuesto del Congreso del Estado y de la Auditoría Superior del Estado de Puebla;
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2013)</small>
+
+g) La Revocación del mandato y suspensiones de Presidentes, Regidores y Síndicos Municipales, en asuntos de la competencia de la Auditoría Superior del Estado de Puebla;
 
 h) Responsabilidades administrativas de los servidores públicos, cuando éstas deriven del informe del resultado de la fiscalización superior; y
 
@@ -1699,7 +1717,9 @@ La Secretaría General contará con una Oficialía de Partes, la cual tendrá la
 
 I.- Recibir la documentación dirigida al Congreso del Estado, a los Diputados o a las dependencias administrativas acusando de recibido y autorizando la constancia de presentación, con su firma y sello de la dependencia respectiva, anotando la hora y fecha de su presentación para devolverlos a los interesados.
 
-Se exceptúa de lo indicado en esta fracción la documentación que sea dirigida al Órgano de Fiscalización Superior del Estado.
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2013)</small>
+
+Se exceptúa de lo indicado en esta fracción la documentación que sea dirigida a la Auditoría Superior del Estado de Puebla.
 
 II.- Registrar la documentación recibida y turnarla de inmediato a la Secretaría General, quien acordará el trámite correspondiente;
 
@@ -2201,7 +2221,9 @@ III.- Vigilar que el ejercicio presupuestal corresponda a los conceptos de gasto
 
 IV.- Proponer estrategias de gasto y definir las líneas de acción correspondientes para aprovechar adecuadamente los recursos financieros;
 
-V.- Concentrar la información y documentación relativa a la comprobación del ejercicio presupuestal, y, en términos de la legislación aplicable, elaborar los estados financieros y demás información presupuestaria, programática, contable y complementaria que emane de sus registros, a fin de remitirlos al Órgano de Fiscalización Superior del Estado, y dar contestación a las solicitudes hechas por éste;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2013)</small>
+
+V.- Concentrar la información y documentación relativa a la comprobación del ejercicio presupuestal, y en términos de la legislación aplicable, elaborar los estados financieros y demás información presupuestaria, programática, contable y complementaria que emane de sus registros, a fin de remitirlos a la Auditoría Superior del Estado de Puebla, y dar contestación a las solicitudes hechas por éste;
 
 VI.- Aplicar el programa para la adquisición de material, mobiliario y equipo; así como planear y coordinar las acciones que permitan almacenar y distribuir de manera eficiente los bienes muebles, los de consumo y servicios generales, a los Diputados y los Órganos Técnicos Administrativos del Congreso del Estado para su eficaz funcionamiento;
 
@@ -2497,9 +2519,11 @@ VII.- Las previstas, en lo conducente, en el artículo 50 de la Ley de Responsab
 
 VIII.- Las demás que determine esté Reglamento o las leyes que resulten aplicables.
 
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2013)</small>
+
 ###### ARTÍCULO 223.
 
-La Comisión de Gobernación y Puntos Constitucionales conocerá de las quejas o denuncias en contra del Secretario General del Congreso, el Contralor Interno y del Auditor General del Órgano de Fiscalización Superior; en el caso de los servidores públicos nombrados por la Junta de Gobierno y Coordinación Política, será ésta la que conozca del asunto, observándose en ambos supuestos, en lo conducente, lo establecido en los artículos anteriores y en los ordenamientos aplicables.
+La Comisión de Gobernación y Puntos Constitucionales conocerá de las quejas o denuncias en contra del Secretario General del Congreso, el Contralor Interno y del Auditor Superior de la Auditoría Superior del Estado de Puebla; en el caso de los servidores públicos nombrados por la Junta de Gobierno y Coordinación Política, será ésta la que conozca del asunto, observándose en ambos supuestos, en lo conducente, lo establecido en los artículos anteriores y en los ordenamientos aplicables.
 
 ###### ARTÍCULO 224.
 
@@ -2577,9 +2601,11 @@ El Instituto de de (sic) Investigaciones Legislativas, Financieras y Socioeconó
 
 ### CAPÍTULO ÚNICO
 
-## TÍTULO DÉCIMO SEGUNDO. DEL ÓRGANO DE FISCALIZACIÓN SUPERIOR
+## TÍTULO DÉCIMO SEGUNDO. DE LA AUDITORÍA SUPERIOR DEL ESTADO DE PUEBLA
 
 ### CAPÍTULO ÚNICO
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2013)</small>
 
 ###### ARTÍCULO 231.
 
@@ -2627,17 +2653,21 @@ Los servidores públicos del Poder Legislativo, durante los recesos del Congreso
 
 En casos excepcionales y debidamente justificados, el servidor público podrá hacer uso de sus vacaciones fuera de los recesos del Congreso, previo acuerdo del Secretario General.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE ABRIL DE 2013)</small>
+
 ## TÍTULO DÉCIMO TERCERO. DE LOS PROCEDIMIENTOS ESPECIALES
 
 ### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 241.
 
-El Órgano de Fiscalización Superior depende directamente del Congreso del Estado, está bajo la supervisión de la Comisión Inspectora del Órgano de Fiscalización Superior y contará, en función del presupuesto aprobado al Congreso del Estado, con las instalaciones adecuadas para su funcionamiento.
+La Auditoría Superior del Estado de Puebla, depende directamente del Congreso del Estado, está bajo la supervisión de la Comisión Inspectora de la Auditoría Superior del Estado y contará, en función del presupuesto aprobado al Congreso del Estado, con las instalaciones adecuadas para su funcionamiento.
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2013)</small>
 
 ###### ARTÍCULO 242.
 
-Para lo relativo a las obligaciones, atribuciones y labores del Órgano de Fiscalización Superior del Estado y de sus servidores públicos, se observará lo prescrito en la Constitución Política del Estado Libre y Soberano de Puebla, en la Ley de Fiscalización Superior y Rendición de Cuentas para el Estado de Puebla, en el Reglamento Interior del Órgano de Fiscalización Superior del Estado de Puebla y demás ordenamientos aplicables.
+Para lo relativo a las obligaciones, atribuciones y labores de la Auditoría Superior del Estado de Puebla y de sus servidores públicos, se observará lo prescrito en la Constitución Política del Estado Libre y Soberano de Puebla, en la Ley de Fiscalización Superior y Rendición de Cuentas para el Estado de Puebla, en el Reglamento Interior de la Auditoría Superior del Estado de Puebla y demás ordenamientos aplicables.
 
 ###### ARTÍCULO 243.
 
@@ -2702,6 +2732,16 @@ P.O. 31 DE DICIEMBRE DE 2012.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 15 DE ABRIL DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las referencias que a la entrada en vigor del presente Decreto se hagan en todo instrumento legal, jurídico o administrativo y norma en sentido formal o material a la Comisión General Inspectora del Órgano de Fiscalización Superior del Estado o a su Titular, se entenderán hechas a la Comisión General Inspectora de la Auditoría Superior del Estado o a su respectivo Titular.
+
+TERCERO.- Los procedimientos legales, administrativos, de fiscalización superior y demás asuntos que a la entrada en vigor del presente Decreto, se encuentren en trámite ante la Comisión General Inspectora del Órgano de Fiscalización Superior o en los que ésta sea parte, así como los que deriven o sean consecuencia de los mismos, continuarán sustanciándose por la Comisión General Inspectora de la Auditoría Superior del Estado, hasta su total conclusión, conforme a las disposiciones aplicables.
+
+CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 57.- POR EL QUE SE EXPIDEN LA LEY DE LA GESTIÓN PÚBLICA DIGITAL PARA EL ESTADO DE MÉXICO Y MUNICIPIOS Y LA LEY DEL PERIÓDICO OFICIAL “GACETA DEL GOBIERNO” DEL ESTADO DE MÉXICO Y SE REFORMAN DIVERSAS DISPOSICIONES DE OTROS ORDENAMIENTOS JURÍDICOS”.]
 
