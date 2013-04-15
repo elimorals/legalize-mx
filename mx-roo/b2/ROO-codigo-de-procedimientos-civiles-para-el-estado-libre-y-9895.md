@@ -4,7 +4,7 @@ identifier: "ROO-codigo-de-procedimientos-civiles-para-el-estado-libre-y-9895"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-01-08"
-last_updated: "2012-11-30"
+last_updated: "2013-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9895&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2013.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el jueves 8 de enero de 1981.
 
@@ -377,6 +377,10 @@ Las actuaciones judiciales y los ocursos deberán escribirse en castellano. Los 
 
 Todos los escritos de las partes y actuaciones judiciales deberán estar firmados por quienes intervengan en ellos. Cuando alguna de las partes no supiere o no pudiere firmar, pondrá su huella digital, firmando otra persona a su nombre, a su ruego y súplica, en dicho caso se indicará esta circunstancia. La falta de cumplimiento de estos requisitos dará lugar a que no se acuerde favorable la petición que se contenga en el escrito respectivo.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE ABRIL DE 2013)</small>
+
+Salvo en los casos que prevé el artículo 109 Bis, los cuales serán válidos si son enviados desde el correo electrónico oficial proporcionado por el Tribunal a los litigantes, para tal efecto se dejará constancia respectiva en el expediente electrónico y en el expediente original.
+
 ###### Artículo 58.
 
 En las actuaciones judiciales no se emplearán abreviaturas ni se rasparán las frases equivocadas, sobre las que sólo se pondrá una línea delgada que permita la lectura, salvándose al final con toda precisión el error cometido. Igualmente se salvarán las frases escritas entre renglones.
@@ -405,9 +409,15 @@ Las copias simples de los documentos que se presenten, confrontadas y autorizada
 
 Los interesados pueden presentar una copia simple de sus escritos, a fin de que se les devuelva con la anotación de la fecha y hora de presentación, sellada y firmada por el empleado que la reciba en el tribunal.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE ABRIL DE 2013)</small>
+
+Tratándose de los escritos señalados en el Artículo 109 Bis, pueden ser remitidos vía electrónica al correo institucional del oficial de partes del Juzgado correspondiente, para efectos de identificación de la petición correspondiente deberá aportar los requisitos señalados en el Artículo 120 párrafo segundo; Por lo que el Juez tendrá a su disposición la citada promoción a más tardar al día siguiente, acordando lo conducente en términos de ley.
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2013)</small>
+
 ###### Artículo 64.
 
-El secretario hará constar el día y la hora en que se presenta un escrito y dará cuenta con él, a más tardar dentro de veinticuatro horas.
+El secretario hará constar el día y la hora en que se presenta un escrito y dará cuenta con él, a más tardar dentro de veinticuatro horas. Así mismo cuando éste sea presentado vía correo electrónico.
 
 ###### Artículo 65.
 
@@ -437,11 +447,9 @@ Quedan los jueces facultados para investigar de oficio la existencia de las piez
 
 El Tribunal está obligado a expedir a costa de las partes y personas autorizadas, sin demora alguna, copia fotostática de los documentos o resoluciones que obren en autos, así como también podrán obtener copias del expediente valiéndose de cualquier otro medio tecnológico, bastando que las partes lo soliciten verbalmente, sin que se requiera decreto judicial, dejando constancia en autos de su recepción.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2013)</small>
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
-
-Para obtener copia certificada de cualquier documento que obre en juicio, la parte interesada debe solicitarlo en comparecencia o por escrito, requiriéndose decreto judicial, y cuando se pidiere copia o testimonio de parte de un documento o pieza, el contrario tendrá derecho de que a su costa se adicione con lo que crea conducente del mismo documento o pieza. Cuando la parte interesada solicite copia certificada de uno o varios documentos completos, en ningún caso se dará vista a la contraria. Al entregarse las copias certificadas, el que las reciba debe dejar en autos razón y constancia de su recibo.
+Para obtener copia certificada de cualquier documento que obre en juicio, la parte interesada debe solicitarlo en comparecencia, por escrito o correo electrónico, requiriéndose decreto judicial, y cuando se pidiere copia o testimonio de parte de un documento o pieza, el contrario tendrá derecho de que a su costa se adicione con lo que crea conducente del mismo documento o pieza. Cuando la parte interesada solicite copia certificada de uno o varios documentos completos, en ningún caso se dará vista a la contraria. Al entregarse las copias certificadas, el que las reciba debe dejar en autos razón y constancia de su recibo.
 
 ###### Artículo 70.
 
@@ -663,21 +671,37 @@ Pueden los tribunales acordar que los exhortos y despachos que manden expedir se
 
 Las notificaciones, citaciones y emplazamientos se efectuarán dentro de los tres días siguientes al en que se dicten las resoluciones que las prevengan, cuando el juez o la ley no dispusieren otra cosa.
 
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2013)</small>
+
 ###### Artículo 106.
 
-Las notificaciones se harán personalmente, por cédula, por lista fijada en Estrados, por edictos, por radiodifusión, por correo y por telégrafo, de acuerdo con lo que se dispone en artículos siguientes.
+Las notificaciones se harán personalmente, por cédula, por lista electrónica, por edictos, por radiodifusión, por telégrafo, correo y por correo electrónico.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2013)</small>
 
 ###### Artículo 107.
 
-Todos los litigantes en su primer escrito o en la primera diligencia judicial en que intervengan, deben designar casa ubicada en la población en que resida el tribunal, para que se les hagan las notificaciones y se practiquen las diligencias que sean necesarias.
+Todos los litigantes en su primer escrito o en la primera diligencia judicial en que intervengan, deben designar casa ubicada en la población en que resida el tribunal, para que se les hagan las notificaciones y se practiquen las diligencias que sean necesarias, así mismo deberán manifestar su voluntad para notificarse a través del correo electrónico que el Poder Judicial les otorgue siempre que no impliquen una notificación personal. En caso de no proporcionarlo, la notificación se le hará por medio de la lista electrónica, sin embargo podrá visualizar el acuerdo dictado siempre y cuando de su alta en la administración, misma que le proporcionará su correo electrónico, o en su defecto acudir personalmente al juzgado.
 
 Igualmente el litigante debe designar la casa en que ha de hacerse la primera notificación a la persona o personas contra quienes promuevan.
 
-Cuando el litigante no cumpla con lo prevenido en la primera parte de este artículo, las notificaciones, aún las que, conforme a las reglas generales, deben hacerse personalmente, se le harán por lista fijada en Estrados, si faltare a la segunda parte, no se hará notificación alguna a la persona contra quien promueva, hasta que se subsane la omisión.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE ABRIL DE 2013)</small>
+
+Para el caso del correo electrónico que el Poder Judicial le otorgue a los litigantes estos deberán presentarse ante el administrador de correos del Poder Judicial, quien le proporcionará su cuenta respectiva, la que le servirá para todos los juicios en que sea parte litigante y se ventilen en cualquiera de los Juzgados, mismo que deberá ser utilizado para los juicios única y exclusivamente; y para efectos de almacenamiento durará un plazo no mayor de sesenta días, luego del cual serán depurados del correo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE ABRIL DE 2013)</small>
+
+Si durante el transcurso de la tramitación del juicio, el abogado litigante es revocado o sustituido por otro, se suspenderá las notificaciones respectivas, a partir del dictado del acuerdo correspondiente, debiendo el Juzgado realizar la limitación en el sistema únicamente por lo que ha (sic) ese juicio se refiere y dará acceso al sustituto si cuenta con un correo electrónico ya proporcionado por el Poder Judicial o este deberá presentarse ante el administrador de correos quien le proporcionará la cuenta que le corresponda.
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2013)</small>
+
+Cuando el litigante no cumpla con lo prevenido en la primera parte de este artículo, las notificaciones, aun las que, conforme a las reglas generales, deben hacerse personalmente, se le harán por lista electrónica, si faltare a lo dispuesto en el párrafo segundo, no se hará notificación alguna a la persona contra quien promueva, hasta que se subsane la omisión.
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2013)</small>
 
 ###### Artículo 108.
 
-Entretanto que el litigante no hiciere nueva designación de la casa en donde se practiquen las diligencias y se hagan las notificaciones, seguirán haciéndosele en la que para ello hubiere designado y las diligencias en que debiere tener intervención se practicarán en los Estrados del Juzgado.
+Entretanto que el litigante no hiciere nueva designación de la casa en donde se practiquen las diligencias y se hagan las notificaciones, seguirán haciéndosele en la que para ello hubiere designado y las diligencias en que debiere tener intervención se practicarán en la lista electrónica.
 
 ###### Artículo 109.
 
@@ -687,7 +711,7 @@ I.- El emplazamiento del demandado, y siempre que se trate de la primera notific
 
 II.- El auto que ordena la absolución de posiciones o reconocimiento de documentos;
 
-III.- La primera resolución que se dicte cuando se dejare de actuar más de tres meses por cualquier motivo;
+III.- (DEROGADA, P.O. 15 DE ABRIL DE 2013)
 
 IV.- Cuando el tribunal lo estime necesario y así se ordene;
 
@@ -696,6 +720,28 @@ V.- El requerimiento de un acto a la parte que deba cumplirlo;
 VI.- La sentencia definitiva; y
 
 VII.- La sentencia que decrete el lanzamiento del inquilino de la casa habitación y la resolución que decrete su ejecución.
+
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2013)</small>
+
+###### Artículo 109 Bis.
+
+Serán notificados a las partes por medio de correo electrónico, los acuerdos que recaigan a las siguientes peticiones:
+
+I.- Solicitud de copias simples o certificadas;
+
+II.- Cambio o señalamientos de nuevos domicilios;
+
+III· Autorización para oír y recibir notificaciones;
+
+IV.- Reconocimiento de personalidad;
+
+V.- Consignación de pensión alimenticia;
+
+VI.- Audiencias de avenimiento en divorcio voluntario;
+
+VII.- Cambio de depositario.
+
+En virtud de la notificación por correo electrónico, tratándose de las fracciones III y IV, una vez realizado el acuerdo correspondiente por el Juzgado, se notificará a la administración de correos, a fin de que éste haga el registro y la actualización del mismo a que se refieren tales fracciones.
 
 ###### Artículo 110.
 
@@ -725,37 +771,45 @@ Cuando se trate de citar testigos o peritos o terceros que no constituyan parte,
 
 Estas notificaciones surtirán sus efectos al día siguiente de su recepción.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2013)</small>
 
 ###### Artículo 115.
 
-Cuando hubiere que emplazar a juicio a personas inciertas, a alguna persona que haya desaparecido, no tenga domicilio fijo o se ignore donde se encuentra, el emplazamiento se hará por edictos, que deberán publicarse por tres veces dentro del plazo de nueve días, entendiéndose que el primero de los anuncios habrá de hacerse el primer día del citado plazo y el tercero el noveno, pudiendo efectuarse el segundo de ellos en cualquier tiempo, en uno de los periódicos de mayor circulación en el Estado, haciéndosele saber al demandado que debe presentarse dentro del término de nueve días, contados a partir del día siguiente al de la última publicación. Se fijará, además, en los estrados del tribunal, una copia íntegra del auto de inicio, por todo el tiempo del emplazamiento. Si pasado este término, no comparece por sí, por apoderado o por gestor que pueda representarla, se seguirá el juicio en rebeldía.
+Cuando hubiere que emplazar a juicio a personas inciertas, a alguna persona que haya desaparecido, no tenga domicilio fijo o se ignore donde se encuentra, el emplazamiento se hará por edictos, que deberán publicarse por tres veces dentro del plazo de nueve días, entendiéndose que el primero de los anuncios habrá de hacerse el primer día del citado plazo y el tercero el noveno, pudiendo efectuarse el segundo de ellos en cualquier tiempo, en uno de los periódicos de mayor circulación en el Estado, haciéndosele saber al demandado que debe presentarse dentro del término de nueve días, contados a partir del día siguiente al de la última publicación. Se publicará, además, en la lista electrónica, el auto de inicio por todo el tiempo del emplazamiento. Si pasado este término, no comparece por sí, por apoderado o por gestor que pueda representarla, se seguirá el juicio en rebeldía.
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2013)</small>
 
 ###### Artículo 116.
 
-Las notificaciones que no deban ser personales se harán en el Tribunal si acuden las personas que han de recibirlas a más tardar el día siguiente al en que se dicten las resoluciones que han de notificarse, sin perjuicio de hacerlo desde luego, por lista, que se fijará diariamente en los estrados del Tribunal, expresando únicamente el número de expediente y el nombre de las partes, de lo cual se asentará en el expediente razón de ello.
+Las notificaciones que no deban ser personales se harán en el Tribunal si acuden las personas que han de recibirlas a más tardar el día siguiente al en que se dicten las resoluciones que han de notificarse, sin perjuicio de hacerlo desde luego, por la lista electrónica, que se publicará diariamente en la página oficial del Tribunal, expresando únicamente el número de expediente y el nombre de las partes, de lo cual se asentará en el expediente razón de ello. Así también el litigante podrá accesar a su correo electrónico proporcionado por el Tribunal para poder visualizar el acuerdo y se le podrá notificar por el mismo medio electrónico enviándole el acuerdo correspondiente.
 
 ###### Artículo 117.
 
-Deben firmar las notificaciones personales, emplazamientos, citatorios y requerimientos, las personas que las hacen y aquellas a quién se hacen. Si ésta no se supiere o no quisiere firmar, lo hará el secretario, haciendo constar esta circunstancia.
+Deben firmar las notificaciones personales, emplazamientos, citatorios y requerimientos, las personas que las hacen y aquellas a quién se hacen. Si esta no se supiere o no quisiere firmar, lo hará el secretario, haciendo constar esta circunstancia.
 
-###### Artículo 118.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2013)</small>
 
-Si las partes o sus mandatarios no ocurren al tribunal a notificarse en los términos del artículo 116, la notificación se dará por hecha y surtirá sus efectos a las doce horas del día siguiente a su publicación en la lista fijada en estrados.
+###### Articulo 118.
+
+Si las partes o sus mandatarios no ocurren al tribunal a notificarse en los términos del artículo 116, la notificación se dará por hecha e iniciara su término a partir de las doce horas del día siguiente a su publicación electrónica en la página del Tribunal.
 
 Las notificaciones personales o por cédula surten sus efectos el día que se verifican. Cuando es por edictos a las doce horas del día siguiente a la fecha de la última publicación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2013)</small>
+
 ###### Artículo 119.
 
-La lista a que se refiere el artículo 116 se fijará a más tardar a las doce horas del día siguiente a la fecha que se pronuncia la determinación legal, en lugar visible de las oficinas del Tribunal, una lista de los negocios que se hayan acordado ese día, y se remitirá copia de la misma al Tribunal Superior.
+La lista electrónica y las notificaciones vía correo electrónico, a que se refiere el artículo 116 se publicará y enviará, respectivamente, a más tardar a las doce horas del día siguiente a la fecha que se pronuncia la determinación legal sin perjuicio que desde que el momento en que se dicte el acuerdo las partes se den por notificados si acuden al Tribunal; siendo que en el primer caso se publicará diariamente en la página oficial del Tribunal, una lista electrónica de los negocios que se hayan acordado ese día. Su término empezará a correr a las doce horas del día siguiente de su publicación. De igual manera las partes pueden acudir a los juzgados a notificarse sin que por eso se les impida checar todo el acuerdo por medio de su correo y contraseña que el propio Tribunal le otorgará.
 
 Sólo por errores u omisiones sustanciales que hagan no identificables los juicios, podrá pedirse la nulidad de las notificaciones.
 
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2013)</small>
+
 ###### Artículo 120.
 
-En las salas del tribunal y en los juzgados, los Secretarios harán constar en los autos respectivos la fecha de la lista en que se haya hecho la publicación a que se refiere el artículo anterior.
+En las salas del tribunal y en los juzgados, los Secretarios harán constar en los autos respectivos la fecha de la lista electrónica en que se haya hecho la publicación, a que se refiere el artículo anterior.
+
+Para efectos de tener por enviado el correo electrónico se utilizará la herramienta del manejador de la cuenta de correo electrónico respectivo, para tal fin, el actuario insertará en el expediente electrónico, como en el expediente original, constancia actuarial señalando la fecha y hora en la que fue enviado, nombre del destinatario, número de expediente y fecha del acuerdo.
 
 ### CAPITULO VI. De los términos judiciales
 
@@ -1895,7 +1949,7 @@ Si la demanda fuere obscura o irregular, el Juez debe prevenir al actor que la a
 
 Los efectos de la presentación de la demanda son: interrumpir la prescripción si no lo está por otros medios, señalar el principio de la instancia y determinar el valor de las prestaciones exigidas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 (REUBICADO, P.O. 21 DE OCTUBRE DE 2009)
 
@@ -1931,7 +1985,7 @@ Queda abolida la práctica de oponer excepciones o defensas contradictorias, aun
 
 Las excepciones supervenientes se harán valer hasta antes de la sentencia y dentro del tercer día de que tenga conocimiento la parte. Se substanciarán incidentalmente; su resolución se reserva para la definitiva.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
@@ -1939,13 +1993,13 @@ Las excepciones supervenientes se harán valer hasta antes de la sentencia y den
 
 Las excepciones perentorias y la reconvención se discutirán al propio tiempo y se decidirán en la misma sentencia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 273.
 
 (DEROGADO, P.O. 21 DE OCTUBRE DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 274.
 
@@ -1957,7 +2011,7 @@ Las excepciones perentorias y la reconvención se discutirán al propio tiempo y
 
 En el escrito de contestación el demandado deberá referirse a cada uno de los hechos aducidos por el actor, confesándolos o negándolos y expresando los que ignore por no ser propios. El silencio y las evasivas harán que se tengan por confesados o admitidos los hechos sobre los que no se suscite controversia, salvo lo previsto en la parte final del artículo 276 para los casos en que se afecten las relaciones familiares o el estado civil de las personas
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
@@ -1971,7 +2025,7 @@ Si el Juez encontrare que el emplazamiento no se hizo correctamente, mandará re
 
 Se presumirán confesados los hechos de la demanda que se deje de contestar, excepto en los casos en que las demandas afecten las relaciones familiares o el estado civil de las personas, pues entonces la demanda se tendrá por contestada en sentido negativo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
@@ -1983,9 +2037,9 @@ Confesada la demanda en todas sus partes o manifestando el actor su conformidad 
 
 Si las cuestiones controvertidas fueren puramente de derecho y no de hecho, se citará a la audiencia de alegatos, que podrán ser escritos
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 279.
 
@@ -2085,7 +2139,7 @@ X.- Y demás medios que produzcan convicción en el juzgador.
 
 ### CAPITULO III. Del ofrecimiento y admisión de pruebas
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
@@ -3077,7 +3131,7 @@ Del precio del remate se pagará al ejecutante el importe de su crédito y se cu
 
 Si la sentencia contuviere condena al pago de cantidad líquida y de otra ilíquida, podrá procederse a hacer efectiva la primera, sin esperar a que se liquide la segunda.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
@@ -3153,7 +3207,7 @@ En caso de no poderse entregar los bienes señalados en la sentencia, se despach
 
 Cuando la sentencia ordene la entrega de personas, el Juez dictará las disposiciones más conducentes a que no quede frustrado lo fallado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
@@ -3609,9 +3663,9 @@ El juez ejecutor que reciba exhorto con las inserciones necesarias, conforme a d
 
 Los jueces ejecutores no podrán oír ni conocer de excepciones cuando fueren opuestas por alguna de las partes que litigan ante el juez requirente, salvo el caso de competencia legalmente interpuesta por alguno de los interesados.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
 ###### Artículo 554.
 
@@ -3619,7 +3673,7 @@ Si al ejecutar los autos insertos en las requisitorias se opusiere algún tercer
 
 I.- Cuando un tercero que no hubiere sido oído por el juez requirente y poseyere en nombre propio la cosa en que debe ejecutarse la sentencia, no se llevará adelante la ejecución, devolviéndose el exhorto con inserción del auto en que se dictare esa resolución y de las constancias en que se haya fundado;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2009)</small>
 
@@ -3835,7 +3889,7 @@ La revocación debe pedirse por escrito dentro de los tres días siguientes a la
 
 De los decretos y autos del tribunal superior, aún de aquellos que dictados en primera instancia serían apelables, puede pedirse reposición que se substancia en la misma forma que la revocación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
@@ -3843,7 +3897,7 @@ De los decretos y autos del tribunal superior, aún de aquellos que dictados en 
 
 El recurso de apelación, es un medio de impugnación de las resoluciones judiciales, que tiene por objeto que el Superior revoque o modifique la resolución del inferior, atendiendo a los agravios expresados por el apelante.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
@@ -3855,7 +3909,7 @@ I.- El litigante condenado en el fallo si creyere haber recibido algún agravio,
 
 II.- El vencedor, que aunque haya obtenido en el litigio, no ha conseguido la restitución de frutos, la indemnización de daños y perjuicios, gastos y costas o cualquier otra prestación accesoria de la principal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
@@ -3863,7 +3917,7 @@ II.- El vencedor, que aunque haya obtenido en el litigio, no ha conseguido la re
 
 La parte que venció puede adherirse a la apelación interpuesta dentro de los tres días siguientes a la fecha en que surtió efectos la notificación de la admisión del recurso, expresando los argumentos tendiente a mejorar los razonamientos vertidos por el juez en la resolución de que se trata, con este escrito se correrá traslado a la contraria para que en igual plazo manifieste lo que a su derecho convenga. La adhesión al recurso sigue la suerte de éste.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
@@ -3871,7 +3925,7 @@ La parte que venció puede adherirse a la apelación interpuesta dentro de los t
 
 El recurso de apelación procede en un solo efecto o en ambos efectos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
@@ -3879,7 +3933,7 @@ El recurso de apelación procede en un solo efecto o en ambos efectos.
 
 La apelación admitida en un solo efecto no suspende la ejecución del auto o sentencia; si esta es definitiva, para ejecutarla se dejará en el juzgado copia certificada de la sentencia y de las demás constancias que el juez considere necesarias para tal efecto, remitiéndose los autos originales al Tribunal Superior.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
@@ -3887,7 +3941,7 @@ La apelación admitida en un solo efecto no suspende la ejecución del auto o se
 
 Si la resolución judicial apelada en un solo efecto es un auto o sentencia interlocutoria se remitirá al superior testimonio de lo que el apelante señalare en el escrito de apelación, y a él se agregarán las constancias que el apelado solicite dentro del término concedido para contestar los agravios y las demás constancias que el Juez estime necesarias.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
@@ -3895,7 +3949,7 @@ Si la resolución judicial apelada en un solo efecto es un auto o sentencia inte
 
 La apelación admitida en ambos efectos, suspende desde luego la ejecución de la sentencia hasta que ésta cause ejecutoria; o la tramitación del juicio cuando se interponga contra auto, quedando en suspenso la jurisdicción del juez para seguir conociendo de los autos principales, desde el momento en que se admita la apelación, y sin perjuicio de que la sección de ejecución continúe en poder del Juez, para resolver lo concerniente al depósito, a las cuentas, gastos y administración.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
@@ -3909,7 +3963,7 @@ II.- Autos definitivos que paralizan o ponen término al juicio haciendo imposib
 
 III.- Sentencias interlocutorias que paralizan o ponen término al juicio, haciendo imposible su continuación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
@@ -3917,7 +3971,7 @@ III.- Sentencias interlocutorias que paralizan o ponen término al juicio, hacie
 
 De las sentencias interlocutorias con fuerza de definitivas, que no paralizan ni ponen término al juicio, se admitirán las apelaciones en efecto devolutivo, pero si el apelante, en un plazo que no exceda de seis días, otorga fianza a satisfacción del juez para responder en su caso, de las costas, daños y perjuicios que pueda ocasionar a la parte contraria, se admitirá la apelación en ambos efectos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
@@ -3925,7 +3979,7 @@ De las sentencias interlocutorias con fuerza de definitivas, que no paralizan ni
 
 Si el Tribunal confirmase la resolución apelada, condenará al apelante al pago de las indemnizaciones previstas, fijando en forma incidental el importe de los daños y perjuicios que pueda ocasionar a la parte contraria.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
@@ -3933,7 +3987,7 @@ Si el Tribunal confirmase la resolución apelada, condenará al apelante al pago
 
 El apelante deberá solicitar el testimonio en el mismo escrito de interposición del recurso, expresando los particulares que deba contener, bajo pena de tenerse por no interpuesto el recurso.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
@@ -3949,7 +4003,7 @@ III.- La contrafianza otorgada por el vencido comprenderá el pago de lo juzgado
 
 IV.- La liquidación de los daños y perjuicios se hará en la ejecución de la sentencia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
@@ -3957,7 +4011,7 @@ IV.- La liquidación de los daños y perjuicios se hará en la ejecución de la 
 
 En ningún caso podrá pronunciarse sentencia de fondo si se encuentra pendiente de resolución alguna apelación devolutiva.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
@@ -3965,7 +4019,7 @@ En ningún caso podrá pronunciarse sentencia de fondo si se encuentra pendiente
 
 La apelación sólo procede en los casos de sentencia definitiva, cuando el interés del negocio, a la fecha de interposición del recurso, exceda de ciento ochenta y dos salarios mínimos vigentes en esta zona económica, y en aquellos, cuyo interés no sea susceptible de valuarse en dinero.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
@@ -3973,7 +4027,7 @@ La apelación sólo procede en los casos de sentencia definitiva, cuando el inte
 
 Los autos que causen un gravamen irreparable, salvo disposición especial, y las interlocutorias, serán apelables cuando lo fuere la sentencia definitiva.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
@@ -3981,7 +4035,7 @@ Los autos que causen un gravamen irreparable, salvo disposición especial, y las
 
 El litigante al interponer la apelación, debe usar moderación, absteniéndose de denostar al Juez, de lo contrario quedará sujeto a lo dispuesto en los artículos 86 y 87.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
@@ -3989,7 +4043,7 @@ El litigante al interponer la apelación, debe usar moderación, absteniéndose 
 
 La apelación debe interponerse por escrito ante el Juez que pronunció la sentencia, dentro de los nueve días siguientes a la fecha en que surtió efectos la notificación, si la sentencia fuere definitiva, o dentro de seis días, si fuere auto o interlocutoria.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
@@ -3997,7 +4051,7 @@ La apelación debe interponerse por escrito ante el Juez que pronunció la sente
 
 En el mismo escrito en el que se interpone el recurso de apelación, el recurrente deberá expresar los agravios que le cause la resolución recurrida, los cuales deberán referirse únicamente a los hechos planteados ante el Juez de Primera Instancia, y en caso de no hacerlo así, se tendrá por no admitido el recurso.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
@@ -4005,7 +4059,7 @@ En el mismo escrito en el que se interpone el recurso de apelación, el recurren
 
 Interpuesta una apelación, el Juez la admitirá, expresando si lo hace en un solo efecto o en ambos efectos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
@@ -4013,7 +4067,7 @@ Interpuesta una apelación, el Juez la admitirá, expresando si lo hace en un so
 
 En el mismo auto donde se admita la apelación, se ordenará notificar personalmente a la contraria, para que dentro del término de seis días conteste a lo que a su derecho convenga.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
@@ -4021,7 +4075,7 @@ En el mismo auto donde se admita la apelación, se ordenará notificar personalm
 
 En los escritos de expresión y contestación de agravios, las partes deberán señalar domicilio en el lugar de residencia del Superior, bajo pena, en caso de no hacerlo, que todas las notificaciones que deban hacérseles, aún las de carácter personal, surtirán sus efectos por lista de estrados.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
@@ -4029,7 +4083,7 @@ En los escritos de expresión y contestación de agravios, las partes deberán s
 
 Contestados los agravios, o si el apelado dejara de hacerlo, sin necesidad de acuse de rebeldía, el Juez ordenará la remisión de los autos originales o del testimonio en su caso, dentro de un término de cinco días a la Sala correspondiente del Tribunal Superior de Justicia para la sustanciación del recurso.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
@@ -4037,7 +4091,7 @@ Contestados los agravios, o si el apelado dejara de hacerlo, sin necesidad de ac
 
 Llegados los autos o el testimonio en su caso, al Tribunal Superior, éste dentro de ocho días dictará providencia, en la que decidirá sobre la admisión del recurso y la calificación del efecto realizada por el Juez de origen. La resolución anterior deberá ser notificada personalmente a las partes, en el domicilio señalado para tal efecto.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
@@ -4045,7 +4099,7 @@ Llegados los autos o el testimonio en su caso, al Tribunal Superior, éste dentr
 
 Declarada inadmisible la apelación, se devolverán los autos al inferior.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
@@ -4057,7 +4111,7 @@ I.- Cuando la apelación admitida por el juez de origen en un solo efecto, es re
 
 II.- Cuando la apelación admitida por el juez de origen en ambos efectos, se recalifique en un solo efecto, se devolverán los autos originales, dejándose en el Tribunal Superior, las constancias necesarias y las que las partes señalen dentro de los tres días siguientes a la notificación respectiva, quedando por supuesto, el juez de origen en aptitud para ejecutar el auto o sentencia apelados.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
@@ -4065,7 +4119,7 @@ II.- Cuando la apelación admitida por el juez de origen en ambos efectos, se re
 
 En el auto a que se refiere el artículo 615, el Tribunal Superior citará a las partes para oír sentencia, misma que se dictará dentro del plazo de ocho días, confirmando, revocando o modificando la resolución apelada.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2009)</small>
 
@@ -4073,19 +4127,19 @@ En el auto a que se refiere el artículo 615, el Tribunal Superior citará a las
 
 La sentencia que dicte el Tribunal Superior, se limitará al estudio de los agravios vertidos por el apelante, excepto cuando se trate de cuestiones que debieron ser hechas valer de oficio por el Juez de origen.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 620.
 
 (DEROGADO, P.O. 21 DE OCTUBRE DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 621.
 
 (DEROGADO, P.O. 21 DE OCTUBRE DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 622.
 
@@ -4093,31 +4147,31 @@ La sentencia que dicte el Tribunal Superior, se limitará al estudio de los agra
 
 ### CAPITULO II. De la queja
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 623.
 
 (DEROGADO, P.O. 21 DE OCTUBRE DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 624.
 
 (DEROGADO, P.O. 21 DE OCTUBRE DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 625.
 
 (DEROGADO, P.O. 21 DE OCTUBRE DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 626.
 
 (DEROGADO, P.O. 21 DE OCTUBRE DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 627.
 
@@ -4127,37 +4181,37 @@ La sentencia que dicte el Tribunal Superior, se limitará al estudio de los agra
 
 ### CAPITULO UNICO. De la apelación Extraordinaria
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 628.
 
 (DEROGADO, P.O. 21 DE OCTUBRE DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 629.
 
 (DEROGADO, P.O. 21 DE OCTUBRE DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 630.
 
 (DEROGADO, P.O. 21 DE OCTUBRE DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 631.
 
 (DEROGADO, P.O. 21 DE OCTUBRE DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 632.
 
 (DEROGADO, P.O. 21 DE OCTUBRE DE 2009)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 633.
 
@@ -4419,67 +4473,67 @@ Divorcio por mutuo consentimiento
 
 ### CAPITULO UNICO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 645.
 
 (DEROGADO, P.O. 10 DE FEBRERO DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 646.
 
 (DEROGADO, P.O. 10 DE FEBRERO DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 647.
 
 (DEROGADO, P.O. 10 DE FEBRERO DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 648.
 
 (DEROGADO, P.O. 10 DE FEBRERO DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 649.
 
 (DEROGADO, P.O. 10 DE FEBRERO DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 650.
 
 (DEROGADO, P.O. 10 DE FEBRERO DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 651.
 
 (DEROGADO, P.O. 10 DE FEBRERO DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 652.
 
 (DEROGADO, P.O. 10 DE FEBRERO DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 653.
 
 (DEROGADO, P.O. 10 DE FEBRERO DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 654.
 
 (DEROGADO, P.O. 10 DE FEBRERO DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 655.
 
@@ -5701,49 +5755,49 @@ Los tutores no pueden ser removidos ni excusarse por acto de jurisdicción volun
 
 ### CAPITULO III. De la enajenación de bienes de menores o incapacitados y transacción acerca de sus derechos
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 856.
 
 (DEROGADO, P.O. 10 DE FEBRERO DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 857.
 
 (DEROGADO, P.O. 10 DE FEBRERO DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 858.
 
 (DEROGADO, P.O. 10 DE FEBRERO DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 859.
 
 (DEROGADO, P.O. 10 DE FEBRERO DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 860.
 
 (DEROGADO, P.O. 10 DE FEBRERO DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 861.
 
 (DEROGADO, P.O. 10 DE FEBRERO DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 862.
 
 (DEROGADO, P.O. 10 DE FEBRERO DE 2011)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 863.
 
@@ -5751,7 +5805,7 @@ Los tutores no pueden ser removidos ni excusarse por acto de jurisdicción volun
 
 ### CAPITULO IV. Adopción
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE JUNIO DE 2009)</small>
 
 ###### Artículo 864.
 
@@ -6059,21 +6113,21 @@ En los casos de los dos artículos anteriores no son necesarias formalidades de 
 
 En todos estos casos se le dará intervención al Ministerio Público.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO CON LOS CAPITULOS, SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 10 DE FEBRERO DE 2011)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS, SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE FEBRERO DE 2011)</small>
 
 ## TÍTULO VIGÉSIMO PRIMERO. PROCEDIMIENTO ORAL
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE FEBRERO DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE FEBRERO DE 2011)</small>
 
 ### CAPÍTULO II. PRUEBAS
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 10 DE FEBRERO DE 2011)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 10 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 892.
 
@@ -6123,7 +6177,7 @@ Quáter.- El juez al recibir la promoción por parte del Administrador de Gesti�
 
 Quintus.- Los acuerdos y notificaciones que dicte en audiencia el Juez oral deberá remitirlas al Administrador de Gestión Judicial para que éste a su vez les dé el trámite correspondiente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
 
@@ -6131,7 +6185,7 @@ Quintus.- Los acuerdos y notificaciones que dicte en audiencia el Juez oral debe
 
 Salvo lo dispuesto en este Título, las promociones de las partes deberán formularse oralmente durante las audiencias, debiendo desecharse de plano las notoriamente frívolas e improcedentes, imponiendo a los promoventes una multa de quince días de salario mínimo, la que se duplicará en caso de reincidencia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
 
@@ -6139,7 +6193,7 @@ Salvo lo dispuesto en este Título, las promociones de las partes deberán formu
 
 El Juez proveerá, en el momento y oralmente, toda cuestión que le sea planteada durante el desarrollo de las audiencias, con excepción de lo dispuesto en este Título.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
 
@@ -6159,7 +6213,7 @@ Las diligencias de desahogo de pruebas que deban verificarse fuera del juzgado, 
 
 La nulidad de una actuación deberá reclamarse en la audiencia subsecuente, bajo pena de quedar validada de pleno derecho. La producida en la audiencia de juicio deberá reclamarse durante ésta, antes de que el Juez Oral pronuncie la sentencia definitiva.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
 
@@ -6167,7 +6221,7 @@ La nulidad de una actuación deberá reclamarse en la audiencia subsecuente, baj
 
 Las resoluciones judiciales pronunciadas en las audiencias se tendrán por notificadas, sin necesidad de formalidad alguna, a quienes estén presentes o debieron haber estado presentes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
 
@@ -6175,17 +6229,17 @@ Las resoluciones judiciales pronunciadas en las audiencias se tendrán por notif
 
 Las tercerías que surjan dentro del procedimiento oral, se sustanciarán en forma separada, con los mismos trámites y procedimientos de éste.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 10 DE FEBRERO DE 2011)</small>
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 901.
 
 En los escritos de demanda, reconvención y contestación a éstas, respectivamente, las partes ofrecerán y exhibirán sus pruebas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 10 DE FEBRERO DE 2011)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 10 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 902.
 
@@ -6201,9 +6255,9 @@ II.- Al formular las preguntas al absolvente, el juez examinará y calificará c
 
 En caso de que el absolvente, a pesar de haberle hecho el apercibimiento correspondiente no asista, se niegue a contestar o conteste con evasivas las preguntas, de oficio se le declarará confeso y se tendrán por ciertos los hechos que la contraparte pretenda acreditar, salvo prueba en contrario.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 10 DE FEBRERO DE 2011)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 10 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 904.
 
@@ -6227,7 +6281,7 @@ El Juez Oral podrá interrogar al testigo, de no hacerlo, le permitirá que se r
 
 #### SECCIÓN PRIMERA. DEL OFRECIMIENTO DE LAS PRUEBAS
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
 
@@ -6235,9 +6289,9 @@ El Juez Oral podrá interrogar al testigo, de no hacerlo, le permitirá que se r
 
 Cuando se trate de testigos que deban ser citados por el Juez Oral, se les apercibirá que en caso de desobediencia se aplicará (sic) las medidas de apremio que establece el artículo 89, con excepción de la fracción III del presente Código, la citación se hará por lo menos con dos días de anticipación al día en que deban declarar. No obstante lo anterior, la prueba se declarará desierta si aplicados los medios de apremio señalados en el párrafo anterior no se logra la presentación de los testigos, sin perjuicio de que el juez le dé vista a la autoridad correspondiente por el delito de desobediencia y resistencia de particulares.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 10 DE FEBRERO DE 2011)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 10 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 906.
 
@@ -6249,9 +6303,9 @@ Es instrumento público el registro del procedimiento oral; probará el modo en 
 
 Los documentos que presenten las partes, podrán ser objetados al contestar la demanda, o al contestar la reconvención, o en su caso, el actor deberá objetar las ofrecidas por el demandado en su contestación dentro de los tres días siguientes a su admisión, con el ofrecimiento de los medios de convicción que la acrediten; la de los exhibidos en la audiencia de juicio se hará en ésta. El Juez Oral proveerá lo conducente para recibir en la audiencia de juicio principal las probanzas admitidas.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 10 DE FEBRERO DE 2011)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 10 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 908.
 
@@ -6319,7 +6373,7 @@ Cuando se trate de la evaluación de menores, el Juez de Instrucción determinar
 
 Los honorarios de los peritos designados por el Juez Oral, serán pagados por el Estado. No es aplicable lo anterior a los peritos que asesoren a las partes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
 
@@ -6327,9 +6381,9 @@ Los honorarios de los peritos designados por el Juez Oral, serán pagados por el
 
 No será aplicable al procedimiento oral lo dispuesto en los artículos 343, 344, 345, 346 y 349 de este Código.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 10 DE FEBRERO DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 921.
 
@@ -6355,7 +6409,7 @@ El Juez Oral determinará el inicio y la conclusión de cada una de las etapas d
 
 La parte que asista tardíamente a una audiencia se incorporará al procedimiento en la etapa en que ésta se encuentra, sin perjuicio de que las partes puedan conciliar hasta antes de que se dicte la sentencia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
 
@@ -6363,7 +6417,7 @@ La parte que asista tardíamente a una audiencia se incorporará al procedimient
 
 La fecha y hora de las audiencias se deberá fijar con la mayor proximidad posible para procurar la continuidad del procedimiento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
 
@@ -6371,7 +6425,7 @@ La fecha y hora de las audiencias se deberá fijar con la mayor proximidad posib
 
 Cuando una audiencia no logre concluirse en la fecha señalada para su celebración, el Juez podrá suspenderla.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
 
@@ -6379,13 +6433,13 @@ Cuando una audiencia no logre concluirse en la fecha señalada para su celebraci
 
 Cada vez que proceda la suspensión de una audiencia deberá fijarse, en el acto, la fecha y hora de su reanudación, salvo que ello resultare materialmente imposible.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
 
 #### SECCIÓN TERCERA. TESTIMONIAL
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
 
@@ -6403,7 +6457,7 @@ En cada audiencia el Encargado de la Sala hará constar oralmente en el registro
 
 Corresponde al Encargado de Sala verificar la identidad de los que intervendrán en las audiencias; hará constar la inasistencia de alguna de las partes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
 
@@ -6419,7 +6473,7 @@ El Encargado de Sala hará constar el momento de su incorporación.
 
 Las partes y los terceros que intervengan en el desarrollo de las audiencias deberán rendir previamente protesta de que se han conducido y se conducirán con verdad durante el procedimiento; para tal efecto, el juez Oral dará lectura íntegra de las disposiciones del Código Penal que tipifican el delito de falsedad en declaraciones y en informes dados a una autoridad, apercibiéndolos de las penas que se imponen a quienes declaran con falsedad.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
 
@@ -6485,9 +6539,9 @@ El Administrador de Gestión Judicial de los Juzgados Orales será responsable d
 
 Lo anterior con excepción de los casos en que la Ley de Acceso a la Información Pública del Estado obligue a la autoridad a negar el acceso público a la información.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE FEBRERO DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 937.
 
@@ -6495,7 +6549,7 @@ Los incidentes que no tengan tramitación especial sólo podrán promoverse oral
 
 Tratándose de una cuestión que requiera prueba, el juez Oral ordenará el diligenciamiento y la desahogara en audiencia especial o dentro de algunas de las audiencias del procedimiento, en la cual escuchará los alegatos de las partes, en el orden que determine. Enseguida se dictará la resolución.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
 
@@ -6503,7 +6557,7 @@ Tratándose de una cuestión que requiera prueba, el juez Oral ordenará el dili
 
 En caso de que en la audiencia de juicio no pudiere concluirse una cuestión incidental, el Juez continuará con el desarrollo de la audiencia, suspenderá el pronunciamiento de la sentencia definitiva y procederá en los términos del párrafo anterior.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
 
@@ -6511,9 +6565,9 @@ En caso de que en la audiencia de juicio no pudiere concluirse una cuestión inc
 
 La recusación será admisible hasta antes de la calificación de las pruebas en la Audiencia correspondiente. Si la recusación se declara fundada, será nulo lo actuado a partir del momento en que se interpuso la recusación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE FEBRERO DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 940.
 
@@ -6529,7 +6583,7 @@ La demanda deberá presentarse por escrito ante el Administrador de Gestión Jud
 
 Admitida la demanda, el Juez de Instrucción con las copias de la demanda y los documentos que se acompañan ordenará emplazar al demandado, a fin de que, en un plazo de nueve días, ocurra a producir su contestación por escrito.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
 
@@ -6571,7 +6625,7 @@ g).- Existiere litisconsorcio necesario y no hubiere conformidad de todos los de
 
 El demandado, al tiempo de contestar la demanda, podrá proponer la reconvención. Si se admite por el Juez de Instrucción, se correrá traslado de la misma al actor, a fin de que la conteste por escrito en un plazo de seis días.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
 
@@ -6599,7 +6653,7 @@ III.- La depuración del procedimiento; y
 
 IV.- La admisión de pruebas y la citación de la audiencia de juicio en términos de lo contemplado en el artículo 946 de este Código.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
 
@@ -6645,7 +6699,7 @@ En caso de que no existiera convenio alguno, se procederá de inmediato a contin
 
 #### SECCIÓN SEGUNDA. CONVIVENCIA DE MENORES
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
 
@@ -6687,7 +6741,7 @@ Cuando se advierta la falta de algún requisito en el ofrecimiento de alguna pru
 
 #### SECCIÓN SEGUNDA. ENAJENACIÓN DE BIENES DE MENORES O INCAPACITADOS Y TRANSACCIÓN ACERCA DE SUS DERECHOS
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
 
@@ -6701,7 +6755,7 @@ Cuando se advierta la falta de algún requisito en el ofrecimiento de alguna pru
 
 Las partes pueden solicitar al juez oral tenga por acreditados ciertos hechos; dichos acuerdos probatorios no podrán ser discutidos posteriormente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
 
@@ -6709,7 +6763,7 @@ Las partes pueden solicitar al juez oral tenga por acreditados ciertos hechos; d
 
 En las acciones de divorcio, en las cuales las partes hayan decidido disolver su vínculo matrimonial en los términos del artículo 803 del Código Civil, se suspenderá el proceso contencioso por un plazo no mayor a diez días, debiendo presentarse la solicitud respectiva ante el juzgado que conoce del negocio. Decretado el divorcio en esa forma, se ordenará el archivo del primer proceso como asunto concluido.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
 
@@ -6729,7 +6783,7 @@ En caso de que la prueba pericial verse sobre la firma o escritura de alguna de 
 
 Si no compareció quien debe firmar o escribir, se le citará para la fecha y hora que determine el Juez Oral.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
 
@@ -6837,15 +6891,15 @@ Para fijar la pensión provisional, el Juez podrá ordenar el desahogo de cualqu
 
 La prueba documental podrá presentarse hasta cuarenta y ocho horas antes de la audiencia de desahogo de pruebas, salvo la referida en la fracción I del artículo 963 del presente Código, que deberá acompañarse junto con la demanda.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
 
-###### Artículo 967
+###### Artículo 967.
 
 La sentencia que decrete los alimentos, fijará la pensión correspondiente, la cual deberá abonarse siempre por adelantado. La sentencia respectiva indicará siempre, en su parte considerativa y en uno de sus puntos resolutivos, que el monto de la pensión cuando sea en cantidad líquida, tendrá un incremento automático mínimo, equivalente al aumento porcentual del salario mínimo general diario vigente en la zona económica correspondiente al deudor, salvo que el deudor alimentario demuestre que sus ingresos no aumentaron en igual proporción. En este caso, el incremento de los alimentos se ajustará a lo que realmente hubiese obtenido el deudor.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
 
@@ -6861,15 +6915,15 @@ Cuando se hayan embargado bienes inmuebles para garantizar la pensión alimentic
 
 La pensión definitiva fijada en la sentencia sustituirá a la provisional.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
 
-###### Artículo 969
+###### Artículo 969.
 
 La sentencia en que se denieguen los alimentos es apelable en ambos efectos y la que los concede en el efecto devolutivo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
 
@@ -6877,9 +6931,9 @@ La sentencia en que se denieguen los alimentos es apelable en ambos efectos y la
 
 Las controversias que se promuevan sobre el importe de los alimentos se decidirán en forma incidental, sin perjuicio de seguirse abonando al acreedor alimentista, durante la sustanciación del incidente, la cantidad asignada conforme al artículo 967 del presente Código.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 10 DE FEBRERO DE 2011)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 10 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 971.
 
@@ -6891,7 +6945,7 @@ II. La convivencia de los abuelos con sus nietos menores de edad.
 
 Las personas primeramente señaladas, están legitimadas para acudir en esta vía, siempre que se encuentren en el ejercicio de la patria potestad, pero en ella no se ventilará discusión alguna sobre el derecho de su ejercicio y no será procedente cuando dicha cuestión ha sido motivo de sentencia ejecutoriada. Cualquier discusión en este sentido deberá tramitarse en la vía ordinaria.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
 
@@ -6901,7 +6955,7 @@ El Juez, después de contestada la demanda y fijada la litis, fijará un régime
 
 La convivencia provisional cesará una vez que el Juez pronuncie la sentencia definitiva.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
 
@@ -6909,7 +6963,7 @@ La convivencia provisional cesará una vez que el Juez pronuncie la sentencia de
 
 Durante el procedimiento en el que se puedan ver afectados los menores de edad, el Juez deberá escuchar la opinión de los mismos y en el caso de que por su edad no sean capaces de expresarla, el Juez habrá de observar su apariencia física y el comportamiento que manifiesten frente a los interesados, que habrá de asentar en el acta que se levante el día de la diligencia, quedando obligada la persona que detente su custodia a presentarlos el día y la hora que se señale.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
 
@@ -6917,7 +6971,7 @@ Durante el procedimiento en el que se puedan ver afectados los menores de edad, 
 
 En los supuestos de las fracciones I y II del artículo 971 del presente Código, el Juez señalará en la sentencia los días y las horas para la convivencia, dictando los apercibimientos y las providencias necesarias para su cumplimiento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
 
@@ -6925,7 +6979,7 @@ En los supuestos de las fracciones I y II del artículo 971 del presente Código
 
 La sentencia que se pronuncie en los asuntos a que se refieren las fracciones I y II del artículo 971 de este Código, podrá modificarse cuando cambien las circunstancias y afecten el ejercicio de la acción que se dedujo, debiendo sustanciarse en forma incidental.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
 
@@ -6933,21 +6987,21 @@ La sentencia que se pronuncie en los asuntos a que se refieren las fracciones I 
 
 La sentencia se ejecutará, si así se solicita, sin necesidad de fianza.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE TITULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 10 DE FEBRERO DE 2011)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE FEBRERO DE 2011)</small>
 
 ## TÍTULO VIGÉSIMO SEGUNDO. PROCEDIMIENTOS ORALES ESPECIALES
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE FEBRERO DE 2011)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE FEBRERO DE 2011)</small>
 
 ### CAPÍTULO VII. REGLAS ESPECIALES
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 10 DE FEBRERO DE 2011)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 10 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 977.
 
@@ -6985,7 +7039,7 @@ En caso de que no las acepten, el Juez resolverá en la sentencia lo que proceda
 
 Cuando el convenio no deba ser aprobado, no podrá decretarse la disolución del matrimonio.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
 
@@ -6993,7 +7047,7 @@ Cuando el convenio no deba ser aprobado, no podrá decretarse la disolución del
 
 El cónyuge menor de edad necesita de un tutor especial para poder solicitar el divorcio por mutuo consentimiento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
 
@@ -7001,7 +7055,7 @@ El cónyuge menor de edad necesita de un tutor especial para poder solicitar el 
 
 Los cónyuges no pueden hacerse representar por procurador en la audiencia a que se refiere el artículo 978 del presente Código, sino que deben comparecer personalmente y, en su caso, acompañados del tutor especial.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
 
@@ -7011,7 +7065,7 @@ En caso que cualquiera de los cónyuges, sin justa causa calificada por el Juez,
 
 Si el cónyuge inasistente justifica la causa, el Juez citará a las partes a una nueva audiencia, bajo apercibimiento que en caso de persistir la inasistencia, el Juez declarará sin efecto la solicitud y mandará archivar el expediente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
 
@@ -7019,7 +7073,7 @@ Si el cónyuge inasistente justifica la causa, el Juez citará a las partes a un
 
 La sentencia que decrete el divorcio por mutuo consentimiento es apelable en el efecto devolutivo y la que lo niegue en ambos efectos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
 
@@ -7027,7 +7081,7 @@ La sentencia que decrete el divorcio por mutuo consentimiento es apelable en el 
 
 En el caso que en el convenio que se apruebe decrete el pago de alimentos, deberá observarse en la sentencia que se dicte lo dispuesto por el artículo 967 de este Código.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
 
@@ -7035,9 +7089,9 @@ En el caso que en el convenio que se apruebe decrete el pago de alimentos, deber
 
 Ejecutoriada la sentencia de divorcio, el Juez mandará remitir copia de ésta y del convenio aprobado, al oficial del registro civil del lugar en que el matrimonio se efectuó para que levante el acta de divorcio respectiva y haga las anotaciones correspondientes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 10 DE FEBRERO DE 2011)</small>
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE FEBRERO DE 2011)</small>
 
 ### CAPÍTULO PRIMERO. DIVORCIO POR MUTUO CONSENTIMIENTO
 
@@ -7059,9 +7113,9 @@ Cumplidas las exigencias, el Administrador de Gestión Judicial señalará el d�
 
 En la audiencia a que se refiere el artículo anterior, se desahogarán las pruebas que requieran diligencia especial en el orden que el Juez Oral determine, hecho lo cual, el procedimiento quedará en estado de sentencia, misma que se dictará en el acto si fuere posible. En caso contrario, citará a las partes para dictarla dentro del término de tres días.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 10 DE FEBRERO DE 2011)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 10 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 989.
 
@@ -7075,7 +7129,7 @@ III.- Alhajas y muebles preciosos;
 
 IV.- Acciones de compañías industriales y mercantiles cuyo valor exceda de cinco mil pesos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
 
@@ -7091,7 +7145,7 @@ La sentencia que se dicte es apelable en ambos efectos.
 
 Los peritos que se designen para hacer el avalúo serán nombrados por el Juez.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
 
@@ -7113,7 +7167,7 @@ La venta de los inmuebles que se ordene al remate, se realizará conforme a lo d
 
 Si en la primera almoneda no hubiere postor, a solicitud del tutor, con citación del ministerio público, el Juez convocará a una junta dentro del tercer día, para ver si son de modificarse o no las bases del remate, señalándose nuevamente las almonedas que fueren necesarias.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
 
@@ -7121,7 +7175,7 @@ Si en la primera almoneda no hubiere postor, a solicitud del tutor, con citació
 
 Para la venta de acciones y títulos de renta, se concederá la autorización sobre la base de que no se haga por menor valor del que se cotice en la plaza el día de la venta y por conducto de comisionista o de comerciante establecido y acreditado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
 
@@ -7131,7 +7185,7 @@ El precio de la venta se entregará al tutor si las firmas o garantías prestada
 
 El Juez señalará un término prudente al tutor para qué justifique la inversión del precio de la enajenación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
 
@@ -7143,7 +7197,7 @@ En este caso la venta se llevará a cabo fuera de remate a un precio que no baje
 
 Bajo las mismas condiciones, los padres podrán gravar los bienes inmuebles de sus hijos o consentir la extinción de derechos reales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
 
@@ -7151,7 +7205,7 @@ Bajo las mismas condiciones, los padres podrán gravar los bienes inmuebles de s
 
 Para recibir dinero en nombre del menor o incapacitado, los progenitores o el tutor necesitarán de la autorización judicial que se substanciará con el ministerio público.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2011)</small>
 
@@ -7167,9 +7221,9 @@ De la Justicia de Paz
 
 ### CAPÍTULO SEGUNDO. JURISDICCIÓN VOLUNTARIA
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VEASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 10 DE FEBRERO DE 2011)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 10 DE FEBRERO DE 2011)</small>
 
 ###### Artículo 1o.
 
@@ -7564,3 +7618,11 @@ El procedimiento oral en la materia familiar, que contempla el Código de Proced
 ###### ARTÍCULO TERCERO.
 
 Los asuntos en materia familiar, mismos a los que hace referencia el procedimiento oral, iniciados con anterioridad a la entrada en vigor de este Decreto y de conformidad a lo establecido en el artículo segundo transitorio, serán concluidos conforme a las disposiciones vigentes con anterioridad él dicho acto.
+
+P.O. 15 DE ABRIL DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Sin perjuicio de lo dispuesto en el artículo transitorio precedente durante los seis meses siguientes a la entrada en vigor del presente decreto, continuará en operación el sistema actual de notificaciones, al término de los cuales operará también el sistema de notificación electrónica.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
