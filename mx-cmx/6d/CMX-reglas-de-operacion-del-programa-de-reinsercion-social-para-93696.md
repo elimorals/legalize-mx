@@ -4,7 +4,7 @@ identifier: "CMX-reglas-de-operacion-del-programa-de-reinsercion-social-para-936
 country: "mx"
 rank: "reglas"
 publication_date: "2013-01-30"
-last_updated: "2013-01-30"
+last_updated: "2013-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93696&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,11 @@ issue_date: "2013-01-28"
 ---
 # REGLAS DE OPERACION DEL PROGRAMA DE REINSERCION SOCIAL PARA MUJERES VICTIMAS DE VIOLENCIA FAMILIAR DE LA CIUDAD DE MEXICO 2013
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE ABRIL DE 2013 EN LA G.O. DEL DISTRITO FEDERAL, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAS DE OPERACIÓN DEL PROGRAMA DE REINSERCIÓN SOCIAL PARA MUJERES VÍCTIMAS DE VIOLENCIA FAMILIAR DE LA CIUDAD DE MÉXICO 2013
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 15 DE ABRIL DE 2013.</small>
 
 Reglas publicadas en la Gaceta Oficial del Distrito Federal, el miércoles 30 de enero de 2013.
 
@@ -110,8 +110,6 @@ V. Requisitos y procedimiento de acceso
 
 3. Los apoyos para la renta de vivienda, únicamente serán para mujeres egresadas de Refugios y casas de emergencia para víctimas de violencia familiar.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE APARTADO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE ABRIL DE 2013 EN LA G.O. DEL DISTRITO FEDERAL, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 VI. Procedimientos de instrumentación
 
 1. Se integrarán al Programa las mujeres que cubran con el perfil y los requisitos de acceso antes señalados.
@@ -138,7 +136,9 @@ a. Si la mujer incumple con alguno de los puntos de la Carta Compromiso.
 
 b. Si omite o falsea información.
 
-7. Para asegurar su integridad física y evitar posibles actos de discriminación, los datos sobre identidad, domicilio, teléfono y otros similares de las mujeres, sus hijas e hijos se consideran confidenciales para la protección conforme a lo establecido en el artículo 23, fracciones II y III de la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal. El padrón será auditable por los órganos de control correspondientes.
+> <small>(F. DE E., G.O. 15 DE ABRIL DE 2013)</small>
+
+7. Para asegurar su integridad física y evitar posibles actos de discriminación, los datos sobre identidad, domicilio, teléfono y otros similares de las mujeres, sus hijas e hijos se consideran confidenciales para la protección conforme a lo establecido en el artículo 37, fracciones II y III; y 38, fracción I de la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal. El padrón será auditable por los órganos de control correspondientes.
 
 8. Las mujeres beneficiarias de apoyo para la renta de vivienda proporcionarán la siguiente documentación:
 
@@ -151,8 +151,6 @@ c) Copia de la identificación de la beneficiaria.
 d) Cédula de visita domiciliaria.
 
 9. Será motivo de baja del apoyo para la renta de vivienda el hecho de (sic) la mujer regrese a vivir con el agresor.
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE APARTADO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE ABRIL DE 2013 EN LA G.O. DEL DISTRITO FEDERAL, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 VII. Procedimientos de queja o inconformidad
 
