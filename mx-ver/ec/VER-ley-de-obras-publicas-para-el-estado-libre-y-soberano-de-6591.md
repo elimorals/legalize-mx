@@ -4,7 +4,7 @@ identifier: "VER-ley-de-obras-publicas-para-el-estado-libre-y-soberano-de-6591"
 country: "mx"
 rank: "ley"
 publication_date: "1991-02-02"
-last_updated: "2008-06-27"
+last_updated: "2013-04-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6591&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "VER"
 
 LEY N° 100 DE OBRAS PUBLICAS PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE JUNIO DE 2008.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 825 DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON ELLAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADA EN EL P.O. DE 16 DE ABRIL DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el sábado 2 de febrero de 1991.
 
@@ -754,3 +756,17 @@ G.O. 27 DE JUNIO DE 2008.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE ABRIL DE 2013.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Artículo Segundo. Se abroga la Ley número 100 de Obras Públicas para el Estado Libre y Soberano de Veracruz de Ignacio de la Llave, publicada en la Gaceta Oficial del Estado número 13, el 2 de febrero de 1991, así como sus reformas y adiciones.
+
+Artículo Tercero. Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+Artículo Cuarto. Los procedimientos de contratación de obra pública, iniciados bajo la vigencia de la ley que se abroga por este ordenamiento, continuarán su tramitación y serán resueltos de conformidad a ésta.
+
+Artículo Quinto. La Cédula regulada en el artículo 30 de la presente Ley, deberá ser implementada por la Contraloría General, dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente ordenamiento.
+
+Artículo Sexto. El Reglamento de la presente Ley se expedirá dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente ordenamiento.
