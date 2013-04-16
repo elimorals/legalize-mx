@@ -4,7 +4,7 @@ identifier: "GRO-codigo-procesal-civil-del-estado-libre-y-soberano-de-5095"
 country: "mx"
 rank: "codigo"
 publication_date: "1993-03-26"
-last_updated: "2012-02-28"
+last_updated: "2013-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5095&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CÓDIGO PROCESAL CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 364
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2013.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el viernes 26 de marzo de 1993.
 
@@ -5135,6 +5135,24 @@ Las medidas cautelares antes mencionadas deberán ser ratificadas por el Juez en
 
 En auxilio de los Jueces de Primera Instancia podrán dictar las medidas cautelares provisionales los Jueces de Paz.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2013)</small>
+
+Las personas que se resistan a acatar el mandato judicial de descuento de los alimentos provisionales, o lo hicieran en forma diversa a lo ordenado, responderán legalmente con los obligados directos de los daños y perjuicios que causen al acreedor alimentario y serán sancionadas en los términos señalados en el Código Penal del Estado de Guerrero, sin perjuicio de lo dispuesto por otros ordenamientos legales.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2013)</small>
+
+El juez de oficio o a petición de parte dará vista al ministerio público para el inicio de la averiguación previa correspondiente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2013)</small>
+
+El juzgador se asegurará de que la pensión alimenticia provisional fijada, le sea entregada al acreedor alimentario, para ello utilizará los medios efectivos que para el caso se requiera.
+
 > <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 1999)</small>
 
 Artículo 566 F.- Tramitación del Juicio. En la práctica de audiencia y valoración de pruebas, ésta se realizará con o sin asistencia de las partes; en ella el agresor manifestará lo que a su derecho corresponda y ofrecerá las pruebas que corroboren su dicho. En caso de no comparecer se darán por ciertos los hechos aludidos por la víctima.
@@ -7138,5 +7156,15 @@ El presente Decreto entrará en vigor a los sesenta días siguientes de su publi
 Los Juicios de divorcio pendientes al entrar en vigor el presente Decreto, seguirán tramitándose conforme a las disposiciones legales vigentes a la fecha de su inicio, excepto que los interesados de común acuerdo se acojan a lo presupuestado por el presente.
 
 ###### ARTÍCULO TERCERO.
+
+Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado de Guerrero, para los efectos legales conducentes.
+
+P.O. 16 DE ABRIL DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los dos meses siguientes del día de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTÍCULO SEGUNDO.
 
 Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado de Guerrero, para los efectos legales conducentes.
