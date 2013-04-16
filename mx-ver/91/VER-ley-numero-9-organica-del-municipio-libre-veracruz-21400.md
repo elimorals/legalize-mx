@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2013-01-10"
+last_updated: "2013-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE, DEL ESTADO DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE ABRIL DE 2013.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -265,9 +265,11 @@ VI. Hasta quince, para los municipios cuya población exceda de 400 000 habitant
 
 El Congreso del Estado podrá modificar, por el voto de las dos terceras partes de sus integrantes, el número de Ediles con base en el Censo de Población y Vivienda de los Estados Unidos Mexicanos y antes de la elección que corresponda, escuchando la opinión de los Ayuntamientos respectivos, a fin de actualizar su número para efectos de lo dispuesto en las fracciones anteriores.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE ABRIL DE 2013)</small>
+
 ###### Artículo 22.
 
-Los Ediles serán electos de conformidad con lo dispuesto por la Constitución local, esta ley y el Código Electoral del Estado, durarán en su cargo tres años y deberán tomar posesión el día uno de enero inmediato a la elección. Si alguno no se presentare o dejare de desempeñar su cargo sin causa justificada, será sustituido por el suplente o se procederá según lo disponga la Ley.
+Los Ediles serán elegidos de conformidad con lo dispuesto por la Constitución Política local, esta Ley y el Código Electoral del Estado, durarán en su cargo cuatro años y deberán tomar posesión el día uno de enero inmediato a la elección. Si alguno no se presentare o dejare de desempeñar su cargo sin causa justificada, será sustituido por el suplente o se procederá según lo disponga la Ley.
 
 El desempeño de los cargos de Presidente Municipal, Síndico y Regidor, será obligatorio y su remuneración se fijará en el presupuesto de egresos del Municipio, atendiendo a los principios de racionalidad, austeridad y disciplina del gasto público.
 
@@ -2463,7 +2465,7 @@ Todas las comunicaciones oficiales que deban girarse para la práctica de las di
 
 ### CAPÍTULO I
 
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, G.O. 16 DE ABRIL DE 2013)</small>
 
 ###### Artículo 169.
 
@@ -2483,7 +2485,7 @@ El Congreso del Estado, podrá suspender o remover a los miembros del Concejo Mu
 
 ###### Artículo 171.
 
-Los Ayuntamientos serán responsables en la preparación, desarrollo y vigilancia de la aplicación de los procedimientos de elección de los Agentes y Subagentes municipales.
+Los Ayuntamientos serán responsables en la preparación, desarrollo y vigilancia de la aplicación de los procedimientos de elección de los Agentes y Subagentes Municipales. La duración de los cargos de agentes y subagentes municipales será hasta de cuatro años y no podrá extenderse más allá del treinta de abril del año de la elección de quienes deban sucederlos.
 
 ###### Artículo 172.
 
@@ -3238,3 +3240,9 @@ G.O. 10 DE ENERO DE 2013.
 Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado de Veracruz de Ignacio de la Llave.
 
 Artículo Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 16 DE ABRIL DE 2013.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
