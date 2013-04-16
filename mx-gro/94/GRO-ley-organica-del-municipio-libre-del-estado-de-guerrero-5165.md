@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-municipio-libre-del-estado-de-guerrero-5165"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-01-05"
-last_updated: "2012-09-18"
+last_updated: "2013-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5165&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 5 de enero de 1990.
 
@@ -537,21 +537,21 @@ Formulada la declaratoria a que se refiere el artículo anterior el Presidente d
 
 DEL PROCEDIMIENTO DE ENTREGA-RECEPCION DE LOS AYUNTAMIENTOS.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2013)</small>
 
 ###### ARTICULO 39.
 
-El Ayuntamiento saliente hará entrega durante el mes de diciembre del año de la elección, de los informes e inventarios sobre el patrimonio mobiliario e inmobiliario, los recursos humanos y financieros, los archivos e informes sobre el avance de los programas de gobierno pendientes o de carácter permanente, asegurando la disponibilidad de recursos para el pago de aguinaldo completo, prima vacacional y demás prestaciones de los trabajadores de la administración municipal.
+El Ayuntamiento saliente hará entrega en la segunda quincena de septiembre de los informes e inventarios sobre el patrimonio mobiliario e inmobiliario, los recursos humanos y financieros, los archivos e informes sobre el avance de los programas de gobierno pendientes o de carácter permanente, asegurando la disponibilidad de recursos para el pago de aguinaldo proporcional, prima vacacional y demás prestaciones de los trabajadores de la administración municipal.
 
 ###### ARTICULO 40.
 
 Los Presidentes Municipales y los miembros de los Ayuntamientos salientes y entrantes participarán en los procesos de entrega recepción.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2013)</small>
 
 ###### ARTICULO 41.
 
-En cada Ayuntamiento durante la primera decena del mes de diciembre, se creará un Comité de Entrega-recepción integrado por miembros del Ayuntamiento electo y el Ayuntamiento saliente; así como un representante de la Auditoría General del Estado, de la Contraloría General del Estado y de las Secretarías de Finanzas y Administración y Desarrollo Social mismos que previa auditoría sancionarán dicho acto.
+En cada Ayuntamiento durante los primeros doce días del mes de septiembre, se creará un Comité de Entrega-recepción integrado por miembros del Ayuntamiento electo y el Ayuntamiento saliente; así como un representante de la Auditoría General del Estado, de la Contraloría General del Estado y de las Secretarías de Finanzas y Administración y Desarrollo Social mismos que previa auditoría sancionarán dicho acto.
 
 ###### ARTICULO 42.
 
@@ -845,11 +845,9 @@ I. Realizar estudios económicos relacionados con las finanzas municipales;
 
 II. Celebrar convenios con el Gobierno del Estado en materia fiscal relacionadas con la administración de contribuciones;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO NÚMERO 621.</small>
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
-
-III. Formular y remitir al Congreso del Estado a más tardar el 15 de octubre, sus presupuestos anuales de ingresos, para expedir en su caso, la Ley de Ingresos, junto con la Tabla de Valores Unitarios de Suelo y Construcción del año siguiente. El Congreso del Estado está facultado para incorporar a la Iniciativa de ingresos municipales que al efecto presente el Ejecutivo del Estado, el monto total de ingresos autorizado por Municipio, siempre y cuando los presupuestos se hayan remitido previo acuerdo de los Ayuntamientos. En el caso de que un Ayuntamiento no presente su presupuesto de ingresos, el Congreso suplirá esta deficiencia en los términos de Ley;
+III. Formular y remitir al Congreso del Estado a más tardar el 15 de octubre, sus presupuestos anuales de ingresos, para expedir en su caso, la Ley de Ingresos, junto con la Tabla de Valores Unitarios de Suelo y Construcción del año siguiente; con excepción del año de renovación de los Ayuntamientos, lo podrán entregar a más tardar el 30 de octubre del año de la elección. El Congreso del Estado está facultado para incorporar a la Iniciativa de ingresos municipales que al efecto presente el Ejecutivo del Estado, el monto total de ingresos autorizado por Municipio, siempre y cuando los presupuestos se hayan remitido previo acuerdo de los Ayuntamientos. En el caso de que un Ayuntamiento no presente su presupuesto de ingresos, el Congreso suplirá esta deficiencia en los términos de Ley.
 
 > <small>(REFORMADA, P.O. 22 DE JULIO DE 2008)</small>
 
@@ -3582,3 +3580,9 @@ TERCERO.- Las solicitudes manifestadas antes de la presente iniciativa, se sujet
 CUARTO.- Comuníquese el presente Decreto al Titular del Poder Ejecutivo, para todos los efectos legales conducentes.
 
 QUINTO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, para su conocimiento y los efectos legales conducentes.
+
+P.O. 16 DE ABRIL DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo para su conocimiento y Publicación en el Periódico Oficial del Estado de Guerrero.
