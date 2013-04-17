@@ -4,7 +4,7 @@ identifier: "NAY-codigo-civil-para-el-estado-de-nayarit-6805"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-08-22"
-last_updated: "2013-04-03"
+last_updated: "2013-04-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CÓDIGO CIVIL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2013.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 22 de Agosto de 1981.
 
@@ -147,7 +147,7 @@ Cuando haya conflicto de derechos, a falta de ley expresa que sea aplicable, la 
 
 ###### Artículo 21.
 
-La ignorancia de las leyes no excusa su cumplimiento; pero los jueces, teniendo en cuenta el notorio atraso intelectual de algunos individuos, su apartamiento de las vías de comunicación o su miserable situación económica, podrán, si está de acuerdo el Ministerio Público, eximirlos de las sanciones en que hubieren incurrido por la falta de cumplimiento de la ley que ignoraban, o de ser posible, concederles un plazo para que la cumplan, siempre que no se trate de leyes que afecten directamente el interés público.
+La ignorancia de las leyes no excusa su cumplimiento; pero los jueces, teniendo en cuenta el notorio atraso intelectual de algunos individuos, su apartamiento de las vías de comunicación o su miserable situación económica, podrán, si está de acuerdo el Ministerio Público, eximirlos de las sanciones en que hubieren incurrido por la falta de cumplimiento de la ley que ignoraban, o de ser posible, concederles un plazo para que la cumplan, siempre que no se trate de leyes que afecten el interés público.
 
 # LIBRO PRIMERO
 
@@ -739,7 +739,7 @@ III.- La declaración de dos testigos mayores de edad que conozcan a los pretend
 
 IV.- Un certificado suscrito por un médico, que asegure, bajo protesta de decir verdad, que los pretendientes, no padecen enfermedad alguna crónica e incurable que sea además contagiosa; ni que sean adictos a las drogas enervantes y en el caso del varón, que no sufre de impotencia incurable para la cópula;
 
-Para los indigentes tienen obligación de expedir gratuitamente este certificado los médicos encargados de los servicios oficiales de salud del Estado;
+Para los indigentes tienen obligación de expedir gratuitamente este certificado los médicos encargados de los servicios oficiales de salud del Estado.
 
 > <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 1990)</small>
 
@@ -1431,7 +1431,7 @@ III.- Manifestación expresa de si la sociedad conyugal ha de comprender todos l
 
 IV.- El señalamiento de si el producto del trabajo de cada consorte corresponde exclusivamente al que lo ejecutó, o si debe dar participación de ese producto al otro consorte y en qué proporción;
 
-V.- La designación de quién será el administrador de la sociedad, expresándose con claridad las facultades que se le conceden;
+V.- La designación de quien será el administrador de la sociedad, expresándose con claridad las facultades que se le conceden;
 
 VI.- La indicación de si los bienes futuros que adquieran los cónyuges durante el matrimonio, pertenecen exclusivamente al adquiriente, o si deben repartirse entre ellos y en qué proporción;
 
@@ -1915,6 +1915,10 @@ El divorcio por mutuo consentimiento no puede pedirse sino pasado un año de la 
 
 Mientras que se decrete el divorcio, el juez autorizará la separación de los cónyuges de una manera provisional y dictará las medidas necesarias para asegurar la subsistencia de los hijos a quienes hay obligación de dar alimentos.
 
+> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2013)</small>
+
+Igualmente en tanto se decrete el divorcio y posterior a éste, los cónyuges evitarán cualquier acto de manipulación hacia los hijos, encaminado a impedir, menoscabar o destruir los vínculos afectivos con el otro progenitor; la denuncia de actos de este tipo será valorada por la instancia especializada a solicitud del juez y en su caso, deberá ser considerada en la resolución.
+
 ###### Artículo 269.
 
 Los cónyuges que hayan solicitado el divorcio por mutuo consentimiento, podrán reunirse de común acuerdo en cualquier tiempo, con tal de que el divorcio no hubiere sido decretado. No podrán volver a solicitar el divorcio por mutuo consentimiento sino pasado un año desde su reconciliación.
@@ -1923,9 +1927,13 @@ Los cónyuges que hayan solicitado el divorcio por mutuo consentimiento, podrán
 
 El cónyuge que no quiera pedir el divorcio fundado en las causas enumeradas en las fracciones VI y VII del artículo 260 podrá, sin embargo, solicitar que se suspenda su obligación de cohabitar con el otro cónyuge, y el juez, con conocimiento de causa, podrá decretar esa suspensión; quedando subsistentes las demás obligaciones creadas por el matrimonio.
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
+
 ###### Artículo 271.
 
-El divorcio sólo puede ser demandado por el cónyuge que no haya dado causa a él, y dentro de los seis meses siguientes al día en que hayan llegado a su noticia los hechos en que se funde la demanda.
+El divorcio sólo puede ser demandado por el cónyuge que no haya dado causa a éste, y dentro de los seis meses siguientes al día en que tenga conocimiento de los hechos en que se funde la demanda, si éstos son instantáneos.
+
+Tratándose de causales de tracto sucesivo o de realización continua, la acción puede ejercerse mientras aquella perdure y dentro de los seis meses siguientes a partir de la fecha en que se tuviere conocimiento que dicha situación ha cesado.
 
 ###### Artículo 272.
 
@@ -1989,9 +1997,13 @@ El padre y la madre, aunque pierdan la patria potestad, quedan sujetos a todas l
 
 El cónyuge que diere causa al divorcio perderá todo lo (sic) se le hubiere dado o prometido por su consorte o por otra persona en consideración a éste; el cónyuge inocente conservará lo recibido y podrá reclamar lo pactado en su provecho.
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
+
 ###### Artículo 280.
 
-Ejecutoriado el divorcio, se procederá desde luego a la división de los bienes comunes y se tomarán las precauciones necesarias para asegurar las obligaciones que queden pendientes entre los cónyuges o con relación a los hijos. Los consortes divorciados tendrán obligación de contribuir, en proporción a sus bienes e ingresos, a las necesidades de los hijos, a la subsistencia y a la educación de éstos, hasta que lleguen a la mayor edad.
+Ejecutoriado el divorcio, se procederá desde luego a la división de los bienes comunes y se tomarán las precauciones necesarias para asegurar las obligaciones que queden pendientes entre los cónyuges o con relación a los hijos.
+
+Los consortes divorciados tendrán obligación de contribuir, en proporción a sus bienes e ingresos, a las necesidades de los hijos, a la subsistencia y a la educación de éstos, hasta en tanto no cese la obligación de proporcionarlos en términos del artículo 301 de este Código.
 
 > <small>(REFORMADO, P.O. 5 DE MAYO DE 2010)</small>
 
@@ -2057,7 +2069,7 @@ En el caso de adopción, el parentesco generado por este acto es igual al de con
 
 El parentesco de afinidad es el que contrae por el matrimonio, entre el varón los parientes de la mujer y entre la mujer y los parientes del varón.
 
-###### Articulo 288.
+###### Artículo 288.
 
 (DEROGADO, P.O. 8 DE JUNIO DE 2011)
 
@@ -2909,6 +2921,10 @@ La patria potestad es el conjunto de derechos y deberes que la ley impone a los 
 
 Los hijos, cualesquiera que sean su estado, edad y condición, deben honrar y respetar a sus padres y demás ascendientes.
 
+> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2013)</small>
+
+Quién ejerza la patria potestad, debe procurar el respeto y el acercamiento constante de los menores con el otro ascendiente, en consecuencia, deberá evitar cualquier acto de manipulación hacia los hijos encaminado a impedir, menoscabar o destruir los vínculos afectivos con el otro progenitor, bajo pena de suspendérsele en su ejercicio.
+
 > <small>(REFORMADO, P.O. 8 DE JUNIO DE 2011)</small>
 
 ###### Artículo 404.
@@ -2950,6 +2966,14 @@ En este supuesto, con base en el interés superior del menor, éste quedará baj
 Los que ejercen la patria potestad, aun cuando no tenga la custodia, tienen el derecho de convivencia con sus descendientes, salvo que exista peligro para éstos.
 
 No podrán impedirse, sin justa causa, las relaciones personales entre el menor y sus parientes. En caso de oposición, a petición de cualquier de ellos, el juez de lo familiar resolverá lo conducente en atención al interés superior del menor. Sólo por mandato judicial podrá limitarse, suspenderse o perderse el derecho de convivencia a que se refiere el párrafo anterior, así como en los casos de suspensión o pérdida de la patria potestad, conforme a las modalidades que para su ejercicio se establezcan en el convenio o resolución judicial.
+
+> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2013)</small>
+
+En cualquier momento en que se presentaren por parte de alguno de los progenitores actos de manipulación hacia los hijos, encaminados a impedir, menoscabar o destruir los vínculos afectivos con el otro progenitor, el Juez, de oficio ordenará las medidas terapéuticas necesarias para los menores hijos, con la finalidad de restablecer la sana convivencia con ambos ascendientes.
+
+> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2013)</small>
+
+Para estos efectos, ambos progenitores tendrán la obligación de colaborar en el cumplimiento de las medidas que sean determinadas, pudiendo el juez hacer uso de las medidas de apremio que se estimen oportunas, con la facultad en caso de ser necesario, de decretar la suspensión de la custodia o convivencia previamente establecidas.
 
 > <small>(REFORMADO, P.O. 5 DE MAYO DE 2007)</small>
 
@@ -3183,7 +3207,13 @@ II. Ausencia declarada en forma;
 
 III. Sentencia condenatoria que la imponga como pena;
 
-IV. Incumplimiento de obligaciones alimentarías por más de noventa días sin causa justificada; suspensión que quedará sin efecto, cuando se acredite ante el juez, que se ha regularizado el cumplimiento de dicha obligación, debiendo hacer además un deposito igual a las mensualidades que incumplió.
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2013)</small>
+
+IV. Incumplimiento de obligaciones alimentarías por más de noventa días sin causa justificada; suspensión que quedará sin efecto, cuando se acredite ante el juez, que se ha regularizado el cumplimiento de dicha obligación, debiendo hacer además un deposito igual a las mensualidades que incumplió, o
+
+> <small>(ADICIONADA, P.O. 17 DE ABRIL DE 2013)</small>
+
+V. La realización de actos de manipulación hacia los hijos que impidan, menoscaben o destruyan los vínculos afectivos con el otro ascendiente.
 
 ###### Artículo 440.
 
@@ -16252,3 +16282,7 @@ P.O. 25 DE MAYO DE 2012.
 P.O. 3 DE ABRIL DE 2013.
 
 Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
+
+P.O. 17 DE ABRIL DE 2013.
+
+Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
