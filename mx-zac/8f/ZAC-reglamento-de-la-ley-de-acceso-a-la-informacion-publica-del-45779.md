@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-de-la-ley-de-acceso-a-la-informacion-publica-del-457
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-07-13"
-last_updated: "2005-07-13"
+last_updated: "2013-04-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45779&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # REGLAMENTO DE LA LEY DE ACCESO A LA INFORMACION PUBLICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS
 
-REGLAMENTO DE LA LEY DE ACCESO A LA INFORMACION PUBLICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS
+REGLAMENTO DE LA LEY DE ACCESO A LA INFORMACIÓN PÚBLICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE ZACATECAS PARA EL PODER LEGISLATIVO, PUBLICADO EN EL P.O. DE 17 DE ABRIL DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 13 de julio de 2005.
 
@@ -486,3 +488,11 @@ JUAN ANTONIO GOMEZ LÓPEZ
 DIPUTADA SECRETARIA
 
 SONIA DE LA TORRE BARRIENTOS
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 17 DE ABRIL DE 2013.
+
+Primero.- El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo.- Se abroga el Reglamento de la Ley de Acceso a la Información Pública del Poder Legislativo del Estado de Zacatecas, publicado en el Suplemento número 56 del Periódico Oficial, Órgano del Gobierno del Estado, correspondiente al día 13 de julio del 2005.
