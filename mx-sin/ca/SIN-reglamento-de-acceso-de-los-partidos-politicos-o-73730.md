@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-de-acceso-de-los-partidos-politicos-o-73730"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-03-05"
-last_updated: "2010-03-05"
+last_updated: "2013-04-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73730&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SIN"
 ---
 # REGLAMENTO DE ACCESO DE LOS PARTIDOS POLITICOS O COALICIONES A LOS MEDIOS DE COMUNICACION SOCIAL
 
-REGLAMENTO DE ACCESO DE LOS PARTIDOS POLITICOS O COALICIONES A LOS MEDIOS DE COMUNICACION SOCIAL
+REGLAMENTO DE ACCESO DE LOS PARTIDOS POLÍTICOS O COALICIONES A LOS MEDIOS DE COMUNICACIÓN SOCIAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el viernes 5 de marzo de 2010.
 
@@ -201,13 +201,17 @@ VII. En la que utilicen los candidatos durante las campañas procurarán contene
 
 VIII. Se abstendrán de usar frases similares o alusivas a las utilizadas públicamente por cualquiera de las instancias de gobierno.
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
+
 ###### Artículo 15.
 
-En caso que los Partidos, coaliciones o candidatos deseen publicar estudios demoscópicos, deberán presentar ante la Comisión, a través de su Enlace, la acreditación expedida por el área facultada por el Consejo, conforme a las disposiciones emitidas para la realización de los referidos estudios.
+En caso que los Partidos o coaliciones deseen publicar estudios demoscópicos, deberán acreditar ante la Comisión el registro de la persona física o moral que realizó dicho estudio, que expide el área facultada por el Consejo, conforme a las disposiciones emitidas para la realización de los referidos estudios.
 
 ## TÍTULO QUINTO. ASIGNACIÓN DE ESPACIOS EN MEDIOS IMPRESOS
 
-### CAPÍTULO I. GESTIONES Y PROCEDIMIENTOS
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
+
+### CAPÍTULO ÚNICO. GESTIONES Y PROCEDIMIENTOS
 
 ###### Artículo 16.
 
@@ -229,21 +233,21 @@ El Consejo solicitará a través de convocatoria y/o por medio de oficio a los p
 
 El Consejo concederá a los propietarios de los medios impresos un tiempo razonable que les será especificado en la convocatoria, y en su caso por oficio de solicitud correspondiente, a fin de que dicha autoridad esté en condiciones de cumplir con lo que dispone la Ley, respecto a someter a la consideración del Partido o coalición, treinta días antes del inicio de las precampañas o campañas correspondientes, los catálogos de tarifas de espacios disponibles pera su contratación. La entrega de los catálogos se realizará en sesión del Pleno del Consejo.
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
+
 ###### Artículo 20.
 
-Los Partidos o coaliciones, a través de su Enlace, deberán comunicar oportunamente por escrito al Consejo, de su interés de que por su cuenta se contraten en los medios de comunicación impresos.
+Los Partidos o coaliciones, a través de su Enlace, deberán comunicar por escrito al Consejo, de su interés de contratar en los medios de comunicación impresos, apegándose estrictamente a los tiempos, políticas y condiciones establecidas por cada uno de los medios impresos, señaladas en el catálogo entregado. En caso contrario, el Consejo no será responsable de que no se lleve a cabo la publicación solicitada.
 
-Lo anterior, apegándose estrictamente a los tiempos, políticas y condiciones establecidas por cada uno de los medios impresos, señaladas en el catálogo entregado. En caso contrario, el Consejo no será responsable de que no se lleve a cabo la publicación solicitada.
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
 
 ###### Artículo 21.
 
-El Partido o coalición entregará al Consejo el monto de los recursos económicos necesarios para cubrir las órdenes de publicidad a contratar. Dicho pago se hará a través de cheque a nombre del Consejo.
+El Partido o coalición entregará al Consejo el monto de los recursos económicos necesarios para cubrir las órdenes de publicidad a contratar. Dicho pago se hará a través de cheque, o en su caso, presentando ficha de depósito o el comprobante de transferencia interbancaria realizados a nombre del Consejo.
 
-El Consejo abriré una cuenta de cheques, para efectuar los pagos a los propietarios de los medios impresos respecto de los espacios contratados.
+El Consejo abrirá una cuenta de cheques, para efectuar los pagos a los propietarios de los medios impresos respecto de los espacios contratados.
 
-El Partido o coalición, entregará el cheque por el monto del pago 72 horas antes, del inicio de la publicación contratada, para de esa forma realizar la acreditación correspondiente.
-
-Si el cheque resultase con fondos insuficientes, el partido o coalición perderá la oportunidad para ejercer la orden de publicidad correspondiente y pagará los cargos derivados de la insuficiencia de fondos.
+Una vez que el Consejo tenga acreditado en su cuenta el monto de los recursos económicos necesarios para cubrir las órdenes de publicidad a contratar del partido político o coalición en cuestión, precederá a emitir dicha orden de publicidad.
 
 ###### Artículo 22.
 
@@ -255,17 +259,21 @@ La contratación de espacios en los medios impresos se realizarán a través del
 
 Cada medio precisará los términos y/o condiciones para la recepción del material a publicar. El Partido o coalición entregará el material a difundir apegándose a dichas precisiones.
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
+
 ###### Artículo 24.
 
 El Partido o coalición podrá modificar o adicionar su orden de publicidad; para ello, deberá entregar al Consejo la nueva orden de publicidad. Una vez revisada será emitida la autorización de dicha publicación, de manera oportuna.
 
-En el caso de que la modificación requiera pago adicional, el Partido o coalición deberá entregar al Consejo el cheque correspondiente, para que a su vez el Consejo emita la autorización de la orden de publicidad.
+En el caso de que la modificación requiera pago adicional, el Partido o coalición deberá entregar al Consejo el cheque correspondiente o en su caso, presentara la ficha del depósito o el comprobante de la transferencia interbancaria realizadas a nombre del Consejo, para que a su vez el Consejo emita la autorización de la orden de publicidad.
 
-Si el cheque resulta con fondos insuficientes, el Consejo requerirá al Partido o coalición cubra el monto económico y los cargos correspondientes en un plazo de cuarenta y ocho horas. De no ser cubierto el pago de la factura durante dicho plazo, el Consejo ejecutará las medidas pertinentes para hacer efectivo el pago.
+Una vez que el Consejo tenga acreditado en su cuenta el monto de los recursos económicos necesarios para cubrir las órdenes de publicidad a contratar del partido político o coalición en cuestión, precederá a emitir dicha orden de publicidad.
+
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
 
 ###### Artículo 25.
 
-La presentación del material a difundir, deberá de cumplir con los siguientes datos de identificación:
+El material a difundir que será entregado al medio de comunicación para su publicación, deberá de cumplir con los siguientes datos de identificación:
 
 a) El Nombre del Partido o coalición, así como del aspirante a candidato o candidato.
 
@@ -274,8 +282,6 @@ b) La versión y medida.
 c) El medio impreso y localidad que corresponde.
 
 d) La fecha o periodo de publicación conforme al calendario de contratación.
-
-Posteriormente, se entregará un ejemplar del material a publicarse para archivo del Consejo.
 
 ###### Artículo 26.
 
@@ -289,23 +295,17 @@ Todo cambio o negociación entre los medios de comunicación y los Partidos o co
 
 En ningún caso el Consejo contratará propaganda en prensa escrita, a favor o en contra de algún Partido o coalición, aspirante a candidato o candidato solicitada por parte de terceros.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE ABRIL DE 2013)</small>
+
 ### CAPÍTULO II. DEL SORTEO
 
 ###### Artículo 28.
 
-Los Partidos o coaliciones tendrán acceso equitativo a los medios impresos a través del catálogo a que se refiere el Artículo 20 de este Reglamento.
-
-En el caso de que dos o más Partidos o coaliciones manifiesten interés en contratar el mismo espacio, se procederá de la siguiente manera:
-
-a) Se dividirá el total de espacios en forma igualitaria entre el número de Partidos o coaliciones interesados en contratarlo;
-
-b) El resultante será el espacio que cada Partido o coalición podrá contratar a través del Consejo;
-
-e) En caso de que el espacio no permitiese su divisibilidad, éste será asignado a través de un sorteo mediante insaculación entre los Partidos o coaliciones que lo hayan solicitado por escrito ante el Consejo.
+(DEROGADO, P.O. 17 DE ABRIL DE 2013)
 
 ###### Artículo 29.
 
-En el caso de que un solo Partido o coalición manifieste el interés por contratar espacio en un medio, podrá hacerlo hasta por el límite que los propietarios hayan dado a conocer como espacio disponible.
+(DEROGADO, P.O. 17 DE ABRIL DE 2013)
 
 ## TÍTULO SEXTO. PROHIBICIONES
 
@@ -372,3 +372,13 @@ Segundo: Publíquese el presente Reglamento en el Periódico Oficial "El Estado 
 Tercero: El presente Reglamento entrará en vigor a partir del siguiente día de su publicación en el periódico oficial "El Estado de Sinaloa".
 
 El presente Reglamento fue aprobado por el Pleno del Consejo Estatal Electoral en la tercera Sesión extraordinaria, a los 26 días del mes de febrero del año dos mil diez.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 17 DE ABRIL DE 2013.
+
+Primero: Las modificaciones al Reglamento de Acceso de los Partidos Políticos o Coaliciones a los Medios de Comunicación Social fueron aprobadas por el Pleno del Consejo Estatal en la Sexta Sesión Ordinaria del día doce de abril del año dos mil trece.
+
+Segundo: Publíquese en el Periódico Oficial "El Estado de Sinaloa".
+
+Tercero: Las modificaciones al Reglamento de Acceso de los Partidos Políticos o Coaliciones a los Medios de Comunicación Social entrarán en vigor a partir del siguiente día de su publicación en el periódico oficial "El Estado de Sinaloa".
