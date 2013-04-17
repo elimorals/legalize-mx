@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-zonificacion-y-usos-del-suelo-del-municipio-25406
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-07-01"
-last_updated: "2012-11-28"
+last_updated: "2013-04-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25406&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE ZONIFICACIÓN Y USOS DEL SUELO DEL MUNICIPIO DE SANTA CATARINA, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 1 de julio de 2002.
 
@@ -115,23 +115,27 @@ REGLAMENTO DE ZONIFICACIÓN Y USOS DEL SUELO DEL MUNICIPIO DE SANTA CATARINA, NU
 
 El presente Reglamento es de Orden Público e interés social, tiene por objeto establecer las normas técnicas y de procedimiento conforme a las cuales se formulará y administrará la planeación y regulación del ordenamiento territorial de los asentamientos humanos y el desarrollo urbano de los centros de población en el Municipio de Santa Catarina, Nuevo León.
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
+
 ###### Artículo 2.
 
-Este Reglamento se expide con fundamento en los Artículos 27, 73 y 115 de la Constitución Política de los Estados Unidos Mexicanos; los Artículos 118, 119 y 131 de la Constitución Política del Estado de Nuevo León; los Artículos 26, 27, 29, 30, 160, 161, 162, 166 y 168 de la Ley Orgánica de la Administración Pública Municipal; los Artículos 6, 9, 11, 12, 35 y 36 de la Ley General de Asentamientos Humanos; y de conformidad con lo dispuesto en los Artículos 12, 208, 209, 212, 213, 214 y 215 de la Ley de Ordenamiento Territorial de los Asentamientos Humanos y Desarrollo Urbano del Estado de Nuevo León.
+Este Reglamento se expide con fundamento en los Artículos 27, 73 y 115 de la Constitución Política de los Estados Unidos Mexicanos; los Artículos 118, 119 y 131 de la Constitución Política del Estado de Nuevo León; los Artículos 26, 27, 29, 30, 160, 161, 162, 166 y 168 de la Ley Orgánica de la Administración Pública Municipal; los Artículos 6, 9, 11, 12, 35 y 36 de la Ley General de Asentamientos Humanos; y de conformidad con lo dispuesto en los Artículos 10, 11, 321, 322, 323 de la Ley de Desarrollo Urbano del Estado de Nuevo León.
 
-> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
 
 ###### Artículo 3.
 
-En los aspectos de fondo y forma respectivamente y con estricto apego al principio de supremacía de la Ley, se aplicarán en lo no previsto por este Reglamento, la Constitución Política del Estado de Nuevo León, la Ley Agraria, la Ley General de Asentamientos Humanos, la Ley General del Equilibrio Ecológico y Protección al Ambiente, así como la del Estado de Nuevo León, la Ley de Ordenamiento Territorial de los Asentamientos Humanos y Desarrollo Urbano del Estado, la Ley del Régimen de Propiedad en Condominio, Códigos Fiscal, Civil y de Procedimientos Civiles del Estado de Nuevo León y demás disposiciones jurídicas vigentes y aplicables
+En los aspectos de fondo y forma respectivamente y con estricto apego al principio de supremacía de la Ley, se aplicarán en lo no previsto por este Reglamento, la Constitución Política del Estado de Nuevo León, la Ley Agraria, la Ley General de Asentamientos Humanos, la Ley General del Equilibrio Ecológico y Protección al Ambiente, así como la del Estado de Nuevo León, la Ley de Desarrollo Urbano del Estado de Nuevo León, la Ley del Régimen de Propiedad en Condominio, Código Fiscal, Civil y de Procedimientos Civiles del Estado de Nuevo León y demás disposiciones jurídicas vigente y aplicables.
 
 ###### Artículo 4.
 
 Se respetará cualquier norma o restricción establecida en la autorización de fraccionamientos y/o escrituras particulares de compra-venta inscritas en el Registro Público de la Propiedad y del Comercio en el Estado, que impongan condiciones más severas a las establecidas en este Reglamento, salvo que éstas hayan sido modificadas, derogadas o abrogadas, particularmente y específicamente en el territorio Municipal por los planes de desarrollo urbano Municipales.
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
+
 ###### Artículo 5.
 
-Para los efectos de este Reglamento, se consideran las definiciones contenidas en la Ley de Ordenamiento Territorial de los Asentamientos Humanos y de Desarrollo Urbano del Estado de Nuevo León. A ésta se hará alusión como la Ley.
+Para los efectos de este Reglamento, se consideran las definiciones contenidas en el Artículo 5 de la Ley de Desarrollo Urbano del Estado de Nuevo León. A ésta se hará alusión como la Ley.
 
 ###### Artículo 6.
 
@@ -177,11 +181,11 @@ VIII. Promover la participación ciudadana y recibir las opiniones que manifiest
 
 IX. Las demás que le señalen la Ley, otras normas y Reglamentos aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ABRIL DE 2013)</small>
 
 ###### Artículo 8.
 
-En los términos de lo dispuesto en los Artículos 12 y 13 de la Ley de Ordenamiento Territorial de los Asentamientos Humanos y de Desarrollo Urbano del Estado de Nuevo León, el Ayuntamiento y el Presidente Municipal para el ejercicio de sus atribuciones y responsabilidades ejecutivas, delegan a favor del Secretario de Desarrollo Urbano y Obras Públicas, a quien corresponderá aplicar la normatividad contenida en el presente reglamento, así como vigilar su cumplimiento, las siguientes atribuciones en materia de Desarrollo Urbano
+En términos de los (sic) dispuesto por el Artículo 10 y 11 de la Ley de Desarrollo Urbano del Estado de Nuevo León, el Ayuntamiento y el Presidente Municipal para el ejercicio de sus atribuciones y responsabilidades ejecutivas, delegan a favor del Secretario de Desarrollo Urbano y Ecología, a quien corresponderá aplicar la normatividad contenida en el presente reglamento, así como vigilar su cumplimiento, las siguientes atribuciones en materia de Desarrollo Urbano:
 
 > <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2004)</small>
 
@@ -251,9 +255,11 @@ XVI. Coordinar, las políticas y prácticas catastrales con los planes y program
 
 XVII. Las demás que le señalen la Ley, otras normas y Reglamentos aplicables.
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
+
 ###### Artículo 9.
 
-Todas las acciones en materia de zonificación, usos y cambios de usos del suelo y edificios, las subdivisiones, fusiones, relotificaciones, fraccionamiento del suelo, obras de urbanización y edificios en general que se realicen en el Municipio, quedan sujetas a cumplir con lo establecido en la Ley y este Reglamento, siendo obligatoria su observancia tanto para el sector público como para el privado y social.
+Todas las acciones en materia de zonificación, usos de suelo, construcción y edificios, las subdivisiones, fusiones, relotificaciones, fraccionamiento del suelo, obras de urbanización y edificios en general que se realicen en el Municipio, quedan sujetas a cumplir con lo establecido en la Ley y este Reglamento, siendo obligatoria su observancia tanto para el sector público como para el privado y social.
 
 ###### Artículo 10.
 
@@ -263,11 +269,11 @@ Para los efectos de la elaboración de cualquier plan parcial, la delimitación 
 
 Cuando alguna disposición establecida en este Reglamento concurra con cualquier otra disposición de este u otros Reglamentos, que contengan disposiciones sobre la misma materia, se aplicará la reglamentación más restrictiva o la que señale más altas normas de control.
 
-> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
 
-###### Artículo 11. Bis.
+###### Artículo 11 Bis.
 
-El secretario de Desarrollo Urbano y Obras Públicas del Municipio de Santa Catarina Nuevo León, tendrá la facultad de regularizar las construcciones de vivienda unifamiliar que no hayan respetado los lineamientos establecidos en cuanto a el área mínima libre que hayan estado en vigor en el momento de realizar la construcción debiendo aplicar las nuevas disposiciones.
+El Secretario de Desarrollo Urbano y Ecología del Municipio de Santa Catarina, Nuevo León tendrá la facultad de regularizar las construcciones de vivienda unifamiliar que no hayan respetado los lineamientos establecidos en cuanto a el área mínima libre que hayan estado en vigor en el momento de realizar la construcción debiendo aplicar las nuevas disposiciones.
 
 > <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2004)</small>
 
@@ -283,11 +289,25 @@ Son nulos y no producirán efecto jurídico alguno, los actos, convenios, y cont
 
 La Ordenación y Regulación de los Asentamientos Humanos y del Desarrollo Urbano de los centros de población Municipal, se llevará a cabo mediante la zonificación primaria siguiente:
 
+> <small>N. DE E. EN RELACIÓN CON LA PRESENTE FRACCIÓN, SE SUGIERE CONSULTAR TAMBIÉN LA PÁGINA ELECTRÓNICA DEL MUNICIPIO (http://www.stacatarina.gob.mx), EN VIRTUD DE LA REFORMA PUBLICADA EN EL P.O. DE 17 DE ABRIL DE 2013.</small>
+
 I. Zonas urbanas o urbanizadas;
+
+> <small>N. DE E. EN RELACIÓN CON LA PRESENTE FRACCIÓN, SE SUGIERE CONSULTAR TAMBIÉN LA PÁGINA ELECTRÓNICA DEL MUNICIPIO (http://www.stacatarina.gob.mx), EN VIRTUD DE LA REFORMA PUBLICADA EN EL P.O. DE 17 DE ABRIL DE 2013.</small>
 
 II. Zonas de reserva para el crecimiento urbano o urbanizable; y
 
-III. Zonas de preservación natural.
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2013)</small>
+
+III.- Áreas no urbanizables:
+
+a).- Por causa de preservación ecológica
+
+b).- por prevención de riesgo
+
+c).- Por mantenimiento de actividades productivas dentro de los límites de los centros de población; y
+
+d).- Por tener pendientes mayores al 45%
 
 ###### Artículo 13.
 
@@ -545,9 +565,37 @@ Los destinos y usos comerciales del suelo y edificios se clasifican en:
 
 8.4 Mercados públicos.
 
-09. Comercio de barrio en casa habitación.-
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
 
-9.1 Todos los subgéneros (construcción < de 60m2).
+09. Comercio de barrio en casa habitación (construcción < de 60m2).
+
+9.1 Abarrotes
+
+9.2 Carnicerías
+
+9.3 Fruterías
+
+9.4 Comida para llevar, y (sic)
+
+9.5 Ropa, calzado y accesorios diversos
+
+9.6 Farmacias y boticas;
+
+9.7 Herbarios medicinales
+
+9.8 Dulcerías
+
+9.9 Neverías;
+
+9.10 Plantas y flores
+
+9.11 Papelerías, librerías y revisteras;
+
+9.12 Telas y mercería; y (sic)
+
+9.13 De regalos
+
+9.14 Renta y venta de películas
 
 10. Venta de materiales.-
 
@@ -783,9 +831,21 @@ Los destinos y usos de servicios del suelo y edificios se clasifican en:
 
 14.5 Agencia de viajes.
 
-15. Servicios de barrio en casa habitación.-
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
 
-15.1 Todos los subgéneros (construcción < 60m2).
+15. Servicios de barrio en casa habitación (construcción < 60m2).
+
+15.1 Peluquerías y estéticas
+
+15.2 Sastrerías, diseño y costura
+
+15.3 Reparación de electrodomésticos ligeros (<de 10 Kg.)
+
+15.4 Alquiler de ropa
+
+15.5 Computadoras
+
+15.6 Taquerías
 
 16. Servicios religiosos.-
 
@@ -1285,35 +1345,33 @@ Los usos y destinos de espacios abiertos se clasifican en:
 
 1.9 Recargas acuíferas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ABRIL DE 2013)</small>
 
 ###### Artículo 24 Bis 1.
 
-La Comisión de Obras Públicas y Desarrollo Urbano, será facultada por el R. Ayuntamiento para tener como objeto el análisis y el estudio de las cuestiones relacionadas con la administración del Desarrollo Urbano, emitiendo si son factibles o no los cambios de uso del suelo y los cambios de lineamientos de usos del suelo, previo dictamen de la Dirección de Control Urbano y de la Coordinación de Planificación Urbana, estará integrada por:
+La Comisión de Desarrollo Urbano, será facultada por el R. Ayuntamiento para tener como objeto el análisis y el estudio de las cuestiones relacionadas con la administración del Desarrollo Urbano, emitiendo si son factibles o no los cambios de lineamientos de usos del suelo, previo dictamen de la Dirección de Fraccionamientos y Control Urbano y de la Coordinación de Control Urbano, estará integrada por:
 
 > <small>(ADICIONADA, P.O. 4 DE FEBRERO DE 2004)</small>
 
 I. El Presidente Municipal;
 
-> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2013)</small>
 
-II. El Secretario de Desarrollo Urbano y Obras Públicas;
+II. El Secretario de Desarrollo Urbano y Ecología;
 
-> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2013)</small>
 
-III. El Director de Control Urbano
+III. El Director de Fraccionamientos y Control Urbano
 
-> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2009)</small>
+IV. (DEROGADA, P.O. 17 DE ABRIL DE 2013)
 
-IV. El Coordinador de Planificación Urbana; y
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2009)</small>
+V. Los Miembros de la Comisión de Desarrollo Urbano del R. Ayuntamiento.
 
-V. Los Miembros de la Comisión de Obras Públicas y Desarrollo Urbano del R. Ayuntamiento.
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
 
-> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2009)</small>
-
-Será presidida por el Presidente Municipal y en su ausencia, será presidida por el Secretario de Desarrollo Urbano y Obras Públicas. Las sesiones se tomarán por mayoría de los votos de los integrantes presentes, correspondiendo voto de calidad, en los casos de empate, al que presida la sesión. Se levantará un acta de cada sesión por quien sea designado Secretario de actas, misma que deberá ser firmada por los miembros presentes de la comisión.
+Será presidida por el Presidente Municipal y en su ausencia, será presidida por el Secretario de Desarrollo Urbano y Ecología. Las sesiones se tomarán por mayoría de los votos de los integrantes presentes, correspondiendo voto de calidad, en los casos de empate, al que presida la sesión. Se levantará un acta de cada sesión por quien sea designado Secretario de actas, misma que deberá ser firmada por los miembros presentes de la comisión.
 
 > <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2004)</small>
 
@@ -1321,37 +1379,35 @@ Será presidida por el Presidente Municipal y en su ausencia, será presidida po
 
 Las promociones e iniciativas a que se refiere el artículo anterior se someterán al siguiente procedimiento:
 
-> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2013)</small>
 
-I. La Secretaría de Desarrollo Urbano y Obras Públicas, emitirá un dictamen técnico urbanístico sobre la propuesta, tomando en cuenta de la zona: vialidad, paisaje urbano, lineamientos, servicios públicos y los aspectos ecológicos.
+I. La Secretaría de Desarrollo Urbano y Ecología, emitirá un dictamen técnico urbanístico sobre la propuesta, tomando en cuenta de la zona: vialidad, paisaje urbano, lineamientos, servicios públicos y los aspectos ecológicos.
 
-> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2013)</small>
 
-II. El interesado deberá justificar que cuenta con los servicios de la Comisión Federal de Electricidad, Compañía de Agua y Drenaje y la Compañía de Gas correspondiente para satisfacer las necesidades del uso de suelo propuesto y en caso de ser insuficiente será obligación del particular hacer las gestiones requeridas ante dichas instituciones para que se adecue a su costa el servicio necesario, así como las firmas de la mayoría de los propietarios o poseedores de los lotes o predios que se encuentren colindantes al lote en cuestión y deberán ser tres por cada lado, cinco en frente y el lote posterior. Los consultados deberán tener uso habitacional. En todo caso se deberán velar por que no se lesionen intereses o derechos jurídicos adquiridos con anterioridad debiendo estar de acuerdo las dos terceras partes del total de los vecinos. Cuando se trate de Cambios de Lineamientos para lotes en breña o sin construcción, además de cumplirse con los requisitos de Ley y los señalados en el presente reglamento, deberá obtenerse dictamen de factibilidad de la Comisión Federal de Electricidad, de Servicios de Agua y Drenaje y Compañía de Gas
+II. El interesado deberá justificar que cuenta con los servicios de la Comisión Federal de Electricidad, compañía de Agua y Drenaje y de la compañía de Gas correspondiente, para satisfacer las necesidades del uso de suelo propuesto y en caso de ser insuficiente será obligación del particular hacer las gestiones requeridas ante dichas instituciones para que se adecue a su costa el servicio necesario, así como las firmas de la mayoría de los propietarios o poseedores de los lotes o predios que se encuentren colindantes al lote en cuestión y deberán ser tres por cada lado, cinco en frente y el lote posterior. Los consultados deberán tener uso habitacional. En todo caso se deberán (sic) velar porque no se lesionen intereses o derechos jurídicos adquiridos con anterioridad debiendo estar de acuerdo las dos terceras partes del total de los vecinos.
 
-> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2013)</small>
 
-III. La Secretaría, habiendo considerado las anteriores consultas, formulará una propuesta que presentará a la Comisión de Obras Públicas y Desarrollo Urbano.
+III. La Secretaría, habiendo considerado las anteriores consultas, formulará una propuesta que presentará a la Comisión de Desarrollo Urbano.
 
-> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2013)</small>
 
-IV. Una vez resuelto por la Comisión de Obras Públicas y Desarrollo Urbano, el Secretario de Desarrollo Urbano y Obras Públicas, dentro de un plazo de seis días hábiles comunicará la resolución a los promoventes.
+IV. Una vez resuelto por la Comisión de Desarrollo Urbano, el Secretario de Desarrollo Urbano y Ecología, dentro de un plazo de seis días hábiles comunicará la resolución a los promoventes.
 
-> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2009)</small>
+V. (DEROGADA, P.O. 17 DE ABRIL DE 2013)
 
-V. En caso de aprobación, el Secretario de Desarrollo Urbano y Obras Públicas turnará al Secretario del R. Ayuntamiento, la resolución para que éste ordene publicación en la Gaceta Municipal.
-
-> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
 
 ###### Artículo 25.
 
-Cuando se solicite la autorización de un uso del suelo que no se contemple en las clasificaciones de este Reglamento, la Secretaría de Desarrollo Urbano y Obras Públicas realizará un dictamen y solicitará la anuencia de los integrantes de la Comisión de Obras Públicas y Desarrollo Urbano del Ayuntamiento.
+Cuando se solicite la autorización de un uso del suelo que no se contemple en las clasificaciones de este Reglamento, la Secretaría de Desarrollo Urbano y Ecología realizará un dictamen y solicitará la anuencia de los integrantes de la Comisión de Desarrollo Urbano del Ayuntamiento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ABRIL DE 2013)</small>
 
 ###### Artículo 26.
 
-Cuando se solicite la autorización de algunos giros de considerable impacto urbano, la Secretaría de Desarrollo Urbano y Obras Públicas realizará un dictamen y deberá contar con un visto bueno de los integrantes de la Comisión de Obras Públicas y Desarrollo Urbano del Ayuntamiento, entre los que se incluyen:
+Cuando se solicite la autorización de algunos giros de considerable impacto urbano, la Secretaría de Desarrollo Urbano y Ecología realizará un dictamen y deberá contar con un visto bueno de los integrantes de la Comisión de Desarrollo Urbano del Ayuntamiento, entre los que se incluyen:
 
 I. (DEROGADA, P.O. 17 DE AGOSTO DE 2009)
 
@@ -1383,13 +1439,23 @@ VI.- Las demás que la Secretaría considere convenientes.
 
 Las zonas secundarias tendrán los usos y destinos del suelo y edificios enunciados en los Artículos 18 al 24 de acuerdo con las siguientes categorías:
 
-I. Uso o destino predominante: es el que ocupa o esta previsto que ocupe más del 70% de la superficie total vendible de la manzana, fraccionamiento, colonia o similar según el caso, sin incluir la vialidad ni las cesiones al Municipio correspondientes. Este uso o destino es el que define la zona secundaria;
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2013)</small>
 
-II. Usos o destinos complementarios: son aquellos que apoyan y complementan al uso o destino predominante, tiene carácter obligatorio y podrán ocupar como máximo el 20% del área útil o vendible de la manzana, fraccionamiento, colonia o similar según el caso, sin incluir la vialidad ni las cesiones al Municipio de la zona secundaria correspondiente;
+I. Uso o destino Permitidos o predominantes: Los que en una zona determinada ocupan o está previsto que ocupen cuando menos el 51% del área vendible, sin incluir la vialidad ni las cesiones al Municipio correspondientes. Este uso o destino es el que define la zona secundaria;
 
-III. Usos o destinos compatibles: son aquellos que pueden coexistir sin interferencias con el predominante o complementario en la zona y podrán ocupar como máximo el 10% del área útil o vendible de la manzana, fraccionamiento, colonia o similar según el caso, sin incluir la vialidad ni las cesiones al Municipio de la zona secundaria correspondiente;
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2013)</small>
 
-IV. Usos o destinos incompatibles: son aquellos que causan molestias a la población o disturbios en el funcionamiento urbano de la zona porque generan ruidos, humos, gases, partículas, olores, descargas de aguas servidas u otros líquidos al suelo, uso frecuente de transporte pesado de carga, o porque representan un riesgo potencial para la seguridad física y emocional de la población aledaña; y
+II. Usos o destinos complementarios o compatibles: Son aquellos que apoyan y complementan al uso o destino predominante para su mejor desempeño y que pueden coexistir sin interferencias, es decir, ni son necesarios ni obstaculizan el uso predominante en la zona.
+
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2013)</small>
+
+III. Usos o destinos Prohibidos o incompatibles: Son aquellos que por sus características se consideren incompatibles o contrarios al adecuado ordenamiento territorial de la zona de que se trate, que contravengan lo dispuesto a la Ley, programas de desarrollo urbano u otros ordenamientos jurídicos y que por ello no se permiten en las zonas secundarias correspondientes.
+
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2013)</small>
+
+IV. Usos o destinos condicionados: Aquellos que por sus características de funcionamiento frecuencia con que se presentan o especialidad y siendo complementarios de los predominantes presentan algún modo o grado de incompatibilidad que pueda evitarse o reducirse con el cumplimiento estricto de condiciones y requerimientos específicos que a esos efectos fije la autoridad competente en su reglamento y programa de desarrollo urbano y por lo mismo a juicio de ésta puedan permitirse en la zona respectiva, principalmente cuando se trate de solucionar problemas de servicios públicos o de acciones de interés general o por causa de utilidad pública. El incumplimiento de esas condiciones y requerimientos dejará sin efectos la autorización de uso de suelo y consecuentemente, procederá la aplicación de las medidas de seguridad y sanciones correspondientes.
+
+> <small>N. DE E. EN RELACIÓN CON LA PRESENTE FRACCIÓN, SE SUGIERE CONSULTAR TAMBIÉN LA PÁGINA ELECTRÓNICA DEL MUNICIPIO (http://www.stacatarina.gob.mx), EN VIRTUD DE LA REFORMA PUBLICADA EN EL P.O. DE 17 DE ABRIL DE 2013.</small>
 
 V. Usos o destinos condicionados y sujetos a licencia especial: son los usos o destinos del suelo necesarios para el ordenado funcionamiento urbano de una o más zonas secundarias o incluso todo el centro de población. Entre los usos y destinos del suelo de este tipo más importantes se encuentran los siguientes: tanques o depósitos de agua potable, sistemas de bombeo, plantas de tratamiento de aguas negras, rellenos sanitarios, estaciones de transferencia de desechos sólidos, depósitos de desechos industriales, centrales de teléfonos, plantas, estaciones y subestaciones eléctricas, clubes sociales y deportivos, depósitos para energéticos y similares, rastros y centros de abasto, terminales de transporte, centros de espectáculos recreativos y deportivos, bancos de material, reclusorios y los que se determinen en los planes de desarrollo urbano Municipal, de centros de población o parciales.
 
@@ -1397,11 +1463,19 @@ V. Usos o destinos condicionados y sujetos a licencia especial: son los usos o d
 
 Los usos y destinos predominantes, complementarios y compatibles serán permitidos; los condicionados serán sujetos a licencia especial y los usos incompatibles no se permitirán en las zonas secundarias señaladas en este Reglamento y/o planes de desarrollo urbano. Los usos predominantes, complementarios, compatibles y especiales para ser permitidos ó condicionados deberán cumplir, en lo conducente, con los Artículos 38 al 115 que señala este Reglamento.
 
+> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2013)</small>
+
+###### Artículo 28 Bis 1.
+
+Además de los usos y destinos de suelo que se indiquen como prohibidos en la Matriz de Compatibilidad de Usos y Desatinos del Suelo de este Reglamento, también se considerarán prohibidos los usos de suelo y usos de edificación, para casinos, casas de apuesta, salas de sorteo, casas de juego y similares.
+
 ###### Artículo 29.
 
 Los usos y destinos del suelo complementarios, compatibles e incompatibles en cada una de las zonas secundarias, se sujetarán conforme a la siguiente Matriz de Compatibilidad de Usos y Destinos del Suelo:
 
-> <small>N. DE E. VÉASE MATRÍZ DE COMPATIBILIDAD DE USOS Y DESTINOS DEL SUELO EN EL P.O. DE 1 DE JULIO DE 2002, PÁGINAS DE LA 44 A LA 61.</small>
+> <small>N. DE E. VÉASE MATRIZ DE COMPATIBILIDAD DE USOS Y DESTINOS DEL SUELO EN EL P.O. DE 1 DE JULIO DE 2002, PÁGINAS DE LA 44 A LA 61.</small>
+
+> <small>N. DE E. VÉASE REFORMAS A LA MATRIZ DE COMPATIBILIDAD DE USOS Y DESTINOS DEL SUELO EN EL P.O. DE 17 DE ABRIL DE 2013, PÁGINAS 86 Y 87.</small>
 
 > <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2009)</small>
 
@@ -1429,9 +1503,13 @@ VI. Promover el diseño arquitectónico individual que produzca una deseable div
 
 Las normas de control de la densidad de los edificios habitacionales unifamiliares son las siguientes:
 
-a) Superficie mínima del lote: de acuerdo al Plan de Desarrollo Urbano de Centro de Población de Santa Catarina, Nuevo León 2000-2020, y a lo establecido en la Ley de Ordenamiento Territorial de los Asentamientos Humanos y de Desarrollo Urbano del Estado de Nuevo León;
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
 
-b) Frente mínimo del lote habitacional unifamiliar: 6 metros;
+a) Superficie mínima del lote: de acuerdo al Plan de Desarrollo Urbano de Centro de Población de Santa Catarina, Nuevo león 2000-2020, y a lo establecido en la Ley de Desarrollo Urbano del Estado de Nuevo León.
+
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
+
+b) Frente mínimo del lote habitacional unifamiliar: 7 metros lineales;
 
 c) Coeficiente de ocupación del suelo: de acuerdo a la densidad, según la zonificación del Plan de Desarrollo Urbano de Centro de Población;
 
@@ -1441,11 +1519,13 @@ e) Altura máxima: 3 pisos ó 10 metros; alturas mayores requieren de un dictame
 
 f) Alineación de los edificios: la señalada en el plano de Estructura Vial Metropolitana, planes de desarrollo urbano Municipal, de centro de población ó parcial, plan de ordenamiento de la zona conurbada de Monterrey, planes viales metropolitanos o Municipales, la Ley y este Reglamento, la que sea más restrictiva;
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
 
-g) Área mínima para estacionamiento dentro del lote: lo señalado en los Artículos 84 y 89 de este Reglamento;
+g) Área mínima para estacionamiento dentro del lote: lo señalado en los Artículos 89 y 89 Bis 1 de este Reglamento
 
-h) (DEROGADO, P.O. 14 DE MAYO DE 2010)
+> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2013)</small>
+
+h) Área mínima libre total: de acuerdo al Plan de Desarrollo Urbano de Centro de Población de Santa Catarina, Nuevo León 2000-2020, y a lo establecido en la Ley de Desarrollo Urbano del Estado de Nuevo León.
 
 i) Densidad máxima: 90 viviendas por hectárea.
 
@@ -1471,23 +1551,25 @@ f) Alineación de edificios: la señalada en el plano de Estructura Vial Metropo
 
 (sic) parcial, plan de ordenamiento de la zona conurbada de Monterrey, planes viales metropolitanos o Municipales, la Ley y este Reglamento, la que sea más restrictiva;
 
-> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
 
-g) Área mínima para estacionamiento dentro del lote: lo señalado en los Artículos 84 y 89 de este Reglamento;
+g) Área mínima para estacionamiento dentro del lote: lo señalado en los Artículos 89 y 89 Bis 1 de este Reglamento;
 
-> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
 
-h) Área mínima libre total: 40% significando el coeficiente de absorción del suelo; y
+h) Área mínima libre total: de acuerdo al Plan de Desarrollo Urbano de Centro de Población de Santa Catarina, Nuevo León 2000-2020, y a lo establecido en la Ley de Desarrollo Urbano del Estado de Nuevo León; y
 
-i) Densidad máxima: 1 unidad de vivienda por cada 90 metros cuadrados de suelo.
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
+
+i) Densidad máxima: 1 unidad de vivienda por cada 98 metros cuadrados de suelo.
 
 ###### Artículo 33.
 
 Las normas de control de la densidad de los edificios comerciales son las siguientes:
 
-> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
 
-a) Superficie mínima del lote: de acuerdo al Plan de Desarrollo Urbano de Centro de Población de Santa Catarina, Nuevo León 2000-2020, y a lo establecido en la Ley de Ordenamiento Territorial de los Asentamientos Humanos y de Desarrollo Urbano del Estado de Nuevo León;
+a) Superficie mínima del lote: de acuerdo al Plan de Desarrollo Urbano de Centro de Población de Santa Catarina, Nuevo León 2000-2020 y a lo establecido en la Ley de Desarrollo Urbano del Estado de Nuevo León;
 
 b) (DEROGADO, P.O. 4 DE FEBRERO DE 2004)
 
@@ -1503,13 +1585,13 @@ f) Alineación de edificios: la señalada en el plano de Estructura Vial Metropo
 
 (sic) parcial, plan de ordenamiento de la zona conurbada de Monterrey, planes viales metropolitanos o Municipales, la Ley y este Reglamento, la que sea más restrictiva;
 
-> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
 
-g) Área mínima para estacionamiento dentro del lote: lo señalado en los Artículos 84 y 89 de este Reglamento;
+g) Área mínima para estacionamiento dentro del lote: lo señalado en los Artículos 89 y 89 Bis 1 de este Reglamento;
 
-> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
 
-h) Área mínima libre total: según normatividad por ocupación, significando el coeficiente de absorción del suelo;
+h) Área mínima libre total: de acuerdo al Plan de Desarrollo Urbano de Centro de Población de Santa Catarina, Nuevo León 2000-2020, y a lo establecido en la Ley de Desarrollo Urbano del Estado de Nuevo León.
 
 > <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2004)</small>
 
@@ -1521,9 +1603,9 @@ j) Remetimientos mínimos cuando no colinden con lotes habitacionales: al frente
 
 Las normas de control de la densidad de los edificios de servicios son las siguientes:
 
-> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
 
-a) Superficie mínima del lote: de acuerdo al Plan de Desarrollo Urbano de Centro de Población de Santa Catarina, Nuevo León 2000-2020, y a lo establecido en la Ley de Ordenamiento Territorial de los Asentamientos Humanos y de Desarrollo Urbano del Estado de Nuevo León;
+a) Superficie mínima del lote: de acuerdo al Plan de Desarrollo Urbano de Centro de Población de Santa Catarina, Nuevo León 2000-2020, y a lo establecido en la Ley de Desarrollo Urbano del Estado de Nuevo León.
 
 b) (DEROGADO, P.O. 4 DE FEBRERO DE 2004)
 
@@ -1537,13 +1619,13 @@ e) Altura máxima: 4 pisos ó 16 metros; alturas mayores requieren de un dictame
 
 f) Alineamientos de edificios: la señalada en el plano de Estructura Vial Metropolitana, planes de desarrollo urbano Municipal, de centro de población ó parcial, plan de ordenamiento de la zona conurbada de Monterrey, planes viales metropolitanos o Municipales, la Ley y este Reglamento;
 
-> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
 
-g) Área mínima para estacionamiento dentro del lote: lo señalado en los Artículos 84 y 89 de este Reglamento;
+g) Área mínima para estacionamiento dentro del lote: lo señalado en los Artículos 89 y 89 Bis 1 de este Reglamento;
 
-> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
 
-h) Área mínima libre total: según normatividad por ocupación, significando el coeficiente de absorción del suelo;
+h) Área mínima libre total: de acuerdo al Plan de Desarrollo Urbano de Centro de Población de Santa Catarina, Nuevo León 2000-2020, y a lo establecido en la Ley de Desarrollo Urbano del Estado de Nuevo León.
 
 > <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2004)</small>
 
@@ -1557,9 +1639,9 @@ j) Remetimientos mínimos cuando no colinden con lotes habitacionales: al frente
 
 Las normas de control de la densidad de edificios industriales son las siguientes:
 
-> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
 
-a) Superficie mínima del lote: de acuerdo al Plan de Desarrollo Urbano de Centro de Población de Santa Catarina, Nuevo León 2000-2020, y a lo establecido en la Ley de Ordenamiento Territorial de los Asentamientos Humanos y de Desarrollo Urbano del Estado de Nuevo León;
+a) Superficie mínima del lote: de acuerdo al Plan de Desarrollo Urbano de Centro de Población de Santa Catarina, Nuevo León 2000-2020, y a lo establecido en la Ley de Desarrollo Urbano del Estado de Nuevo León.
 
 b) (DEROGADO, P.O. 4 DE FEBRERO DE 2004)
 
@@ -1571,13 +1653,13 @@ e) Altura máxima: 4 pisos ó 16 metros; alturas mayores requieren de un dictame
 
 f) Alineamientos de las edificaciones: la señalada en el plano de Estructura Vial Metropolitana, planes de desarrollo urbano Municipal, de centro de población ó parcial, plan de ordenamiento de la zona conurbada de Monterrey, planes viales metropolitanos o Municipales, la Ley y este Reglamento;
 
-> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
 
-g) Área mínima para estacionamiento dentro del lote: la señalada en los Artículos 84 y 89 de este Reglamento;
+g) Área mínima para estacionamiento dentro del lote: la señalada en los Artículos 89 y 89 Bis 1 de este Reglamento;
 
-> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
 
-h) Área mínima libre de construcción total: de acuerdo a la densidad, según la zonificación del Plan de Desarrollo Urbano de Centro de Población, significando el coeficiente de absorción del suelo;
+h) Área mínima libre total: de acuerdo al Plan de Desarrollo Urbano de Centro de Población de Santa Catarina, Nuevo León 2000-2020, y a lo establecido en la Ley de Desarrollo Urbano del Estado de Nuevo León.
 
 > <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2004)</small>
 
@@ -1617,21 +1699,23 @@ i) Remetimientos mínimos cuando no colinden con lotes habitacionales: al frente
 
 En el caso de predios o lotes de configuración geométrica irregular, la Secretaría definirá los remetimientos a respetar por el propietario o poseedor en función del proyecto arquitectónico a realizar en los mismos.
 
-> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
 
 ###### Artículo 38.
 
-Los lineamientos autorizados y los previstos en los planes de desarrollo urbano, aplicables a un lote o predio, excepto el coeficiente de uso del suelo, altura y cajones de estacionamientos, podrán ser modificados a solicitud del propietario, siempre y cuando se trate de variaciones pequeñas hasta de un diez por ciento (10%). La solicitud deberá contar con la anuencia de la mayoría de los propietarios de los predios colindantes, quienes manifestarán firmando el escrito correspondiente. La Secretaría de Desarrollo Urbano y Obras Públicas aprobará o rechazará lo solicitado.
+Los lineamientos autorizados y los previstos en los planes de desarrollo urbano, aplicables a un lote o predio, excepto el coeficiente de uso del suelo, altura y cajones de estacionamientos; podrán ser modificados a solicitud del propietario, siempre y cuando se trate de variaciones pequeñas hasta de un diez por ciento (10%). La solicitud deberá contar con la anuencia de la mayoría de los propietarios de los predios colindantes, quienes manifestarán firmando el escrito correspondiente. La Secretaría de Desarrollo Urbano y Ecología aprobará o rechazará lo solicitado.
 
-> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
 
 ###### Artículo 39.
 
-Los lineamientos específicos aplicables a un lote o predio, podrán ser modificados a solicitud del propietario, si se trata de variaciones mayores al diez por ciento (10%) y hasta el treinta por ciento (30%) en densidades, alturas y estacionamientos. La solicitud deberá acompañarse con firmas de apoyo de la mayoría de los propietarios de los lotes o predios urbanizados en una zona de cien metros de radio, tomando como centro la mitad del frente del terreno, así como los dictámenes favorables de la Comisión Federal de Electricidad y Agua y Drenaje de Monterrey IPD correspondiente y en caso de que el predio cuente con dichos servicios, lo deberá de justificar con los recibos de pago correspondientes. La Secretaría de Desarrollo Urbano y Obras Públicas aprobará o rechazará lo solicitado, previo dictamen de la Comisión de Obras Públicas y Desarrollo Urbano.
+Los lineamientos específicos aplicables a un lote o predio, podrán ser modificados a solicitud del propietario, si se trata de variaciones mayores al diez por ciento (10%) y hasta del treinta por ciento (30%), en densidades, alturas y estacionamientos. La solicitud deberá acompañarse con firmas de apoyo de la mayoría de los propietarios de los lotes colindantes, así como de los dictámenes favorables de la Comisión Federal de Electricidad y de los Servicios de Agua y Drenaje de Monterrey IPD, correspondiente y en caso de que el predio cuente con dichos servicios lo deberá de justificar con los recibos de pago correspondientes. La Secretaría de Desarrollo Urbano y Ecología aprobará o rechazará lo solicitado, previo dictamen de la Comisión de Desarrollo Urbano.
+
+> <small>(REFORMADO PRIMER PÁRRAFO P.O. 17 DE ABRIL DE 2013)</small>
 
 ###### Artículo 40.
 
-Los cambios a que se refiere el Artículo anterior que sean mayores del treinta por ciento (30%) y a uso del suelo, de lineamentos, corredores urbanos, o a este Reglamento, sólo podrán ser promovidos por:
+Los cambios a que se refiere el Artículo anterior que sean mayores del treinta por ciento (30%) de lineamentos, corredores urbanos, o a este Reglamento, sólo podrán ser promovidos por:
 
 I. Los propietarios de uno o varios predios, cuando su solicitud venga apoyada por la Junta de Vecinos o Residentes involucrada y/o por diez propietarios de predios ubicados en la colonia, sector, corredor;
 
@@ -1639,35 +1723,37 @@ II. Un grupo de veinte o más propietarios de predios ubicados en la misma zona,
 
 III. La Junta de Vecinos de la colonia de que se trate, reconocida por la Autoridad Municipal; y
 
-IV. Las instituciones señaladas en la Fracción III, inciso a) e inciso b) del siguiente Artículo, o la Autoridad Municipal.
+IV.- (DEROGADA, P.O. 17 DE ABRIL DE 2013)
 
 ###### Artículo 41.
 
 Las promociones e iniciativas a que se refiere el Artículo anterior se someterán al siguiente procedimiento:
 
-> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2013)</small>
 
-I. La Secretaría de Desarrollo Urbano y Obras Públicas emitirá un dictamen técnico urbanístico sobre el proyecto, tomando en cuenta los requerimientos de la zona, infraestructura, vialidad, servicios públicos, paisaje urbano y los aspectos ecológicos;
+I. La Secretaría de Desarrollo Urbano y Ecología emitirá un dictamen técnico urbanístico sobre el proyecto, tomando en cuenta los requerimientos de la zona, infraestructura, vialidad, servicios públicos, paisaje urbano y los aspectos ecológicos;
 
-> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2013)</small>
 
-II. El Secretario de Desarrollo Urbano y Obras Públicas consultará cuando menos a diez propietarios de los lotes o predios inmediatos al proyecto cuya autorización se pretende y a la Junta de Vecinos o Residentes de la colonia involucrada en el sector, zona o corredor urbano de que se trate;
+II. El Secretario de Desarrollo Urbano y Ecología consultará cuando menos a diez propietarios de los lotes o predios inmediatos al proyecto cuya autorización se pretende y a la Junta de Vecinos o Residentes de la colonia involucrada en el sector, zona o corredor urbano de que se trate;
 
 III. (DEROGADA, P.O. 4 DE FEBRERO DE 2004)
 
 IV. (DEROGADA, P.O. 4 DE FEBRERO DE 2004)
 
-> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2013)</small>
 
-V. El Secretario de Desarrollo Urbano y Obras Públicas, habiendo considerado las anteriores consultas, formulará una propuesta que presentará al Ayuntamiento, a través de la Comisión de Obras Públicas y Desarrollo Urbano.
+V. El Secretario de Desarrollo Urbano y Ecología, habiendo considerado las anteriores consultas, formulará una propuesta que presentará al Ayuntamiento, a través de la Comisión de Desarrollo Urbano
 
 VI. El Ayuntamiento en Sesión Ordinaria aprobará, rechazará o modificará la propuesta;
 
-> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2013)</small>
 
-VII. Una vez resuelto por el Ayuntamiento, el Secretario de Desarrollo Urbano y Obras Públicas, dentro de un plazo de seis días hábiles comunicará la resolución a los que lo promueven; y
+VII. Una vez resuelto por el Ayuntamiento, el Secretario de Desarrollo Urbano y Ecología, dentro de un plazo de seis días hábiles comunicará la resolución a los que lo promueven; y
 
-VIII. En el caso de aprobación o modificación por el Ayuntamiento, el Presidente Municipal ordenará su publicación en la Gaceta Municipal y la solicitará en el Periódico Oficial del Estado.
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2013)</small>
+
+VIII. En caso de aprobación o modificación por el Ayuntamiento, el Presidente Municipal ordenará su publicación en la Gaceta Municipal.
 
 > <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2004)</small>
 
@@ -1741,7 +1827,9 @@ X.- 100 metros de talleres de reparación de maquinaria o transporte pesado; y (
 
 XI.- 20 metros de zonas de preservación o conservación ecológica.
 
-XII.- Y los demás requisitos que establezca la Ley de Ordenamiento Territorial de los Asentamientos Humanos y de Desarrollo Urbano del Estado de Nuevo León.
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2013)</small>
+
+XII. Y los demás requisitos que establezca la Ley de Desarrollo Urbano del Estado de Nuevo León.
 
 ###### Artículo 46.
 
@@ -1809,9 +1897,11 @@ Los nuevos edificios que se requieran en los centros históricos deberán armoni
 
 ### CAPÍTULO I. OBRAS DE URBANIZACIÓN
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
+
 ###### Artículo 59.
 
-Todos los Fraccionamientos de urbanización inmediata o progresiva deberán contar con las siguientes obras de urbanización que señala la Ley en el Artículo 151 Fracción III.
+Todos los Fraccionamientos de urbanización inmediata o progresiva deberán contar con las obras de urbanización que señala la Ley en el Artículo 199 Fracciones I a la XIV.
 
 ###### Artículo 60.
 
@@ -1939,25 +2029,53 @@ En función de los volúmenes vehiculares se deberán prever tramos y dispositiv
 
 ### CAPÍTULO II. CARACTERÍSTICAS GEOMÉTRICAS DE VIALIDAD URBANA
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
+
 ###### Artículo 79.
 
-Las vías principales de acceso controlado tendrán un derecho de vía de 56 metros como mínimo con dos aceras de 3.50 metros de anchura como mínimo cada una. Podrán tener carriles centrales y laterales divididos por medio de camellones con anchura mínima de 1.00 metro. Los carriles centrales deberán ser de 3.30 metros de anchura cada uno, excepto el carril derecho que deberá ser de 3.60 metros. Los carriles laterales deberán ser como mínimo 3 en cada sentido de circulación de los cuales el carril derecho de estacionamiento será de 2.50 metros de anchura y los otros dos de la misma anchura que los carriles centrales. Las pendientes longitudinales máximas para tramos largos serán del 4% y para tramos cortos del 6%.
+Las vías principales de acceso controlado tendrán un derecho de vía de 61.00 metros como mínimo, con dos banquetas de 5.00 metros de anchura mínimo cada una. En su derecho de vía deberán incluirse camellones que separen los carriles principales de los secundarios, con un ancho mínimo de 4.00 metros, un separador de sentidos de un metro, con estructura de concreto para protección y calles laterales con ancho mínimo en la superficie de rodamiento de 10.50 metros destinados a dar servicio de acceso a las propiedades adyacentes y para el transporte público.
+
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
 
 ###### Artículo 80.
 
-Las avenidas principales tendrán un derecho de vía de 37 metros como mínimo y hasta 55 metros como máximo con dos aceras de 3.50 metros de anchura como mínimo cada una. Podrán tener carriles centrales y laterales divididos por medio de camellones con anchura mínima de 1.00 metro. Los carriles de circulación centrales deberán ser de 3.30 metros de anchura cada uno excepto el carril derecho que deberá ser de 3.60 metros. Los carriles laterales deberán ser como mínimo 2 en cada sentido de circulación de los cuales el carril derecho de estacionamiento será de 2.50 metros de anchura y el otro de la misma anchura que los carriles centrales. Las pendientes longitudinales máximas para tramos largos serán del 5% y para tramos cortos del 7%.
+Las avenidas principales o vías arteriales, tendrán un derecho de vía de 44.00 metros como mínimo y hasta 55 metros como máximo con dos aceras de 5.00 metros de anchura mínima cada una. Podrán tener carriles centrales y laterales divididos por medio de camellones con anchura mínima de 6.00 metros de ancho. Estas vías podrán diseñarse como par vial con una distancia no mayor de 300.00 metros entre sentidos en cuyo caso tendrán un derecho de vía de 24.00 metros como mínimo por sentido.
+
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
 
 ###### Artículo 81.
 
-Las vías colectoras tendrán un derecho de vía de 24 metros como mínimo y hasta 36 metros como máximo con dos aceras de 3 metros de anchura mínimo cada una. Podrán tener carriles centrales y laterales divididos por medio de camellones con anchura mínima de 0.50 metros. Los carriles de circulación centrales deberán ser de 3.30 metros de anchura cada uno excepto el carril derecho que deberá ser de 3.60 metros. Los carriles laterales deberán ser como mínimo 2 en cada sentido de circulación de los cuales el carril derecho será de 2.50 metros de anchura y el otro de la misma anchura que los carriles centrales. Las pendientes longitudinales máximas para tramos largos serán del 8%.
+Las vías colectoras tendrán un derecho de vía de 34 metros como mínimo y hasta 36 metros como máximo con dos aceras de 3.00 metros de anchura mínima cada una, camellón central de 4.00 metros de ancho, así como un carril exclusivo para bicicletas, y 2.50 metros de espacio para estacionamiento en cordón, en cada sentido. Deberán intersectar con una vía colectora o principal a una distancia mínima de 1.00 kilómetro y no podrán estar a más de 1.20 kilómetro de distancia de la siguiente colectora o principal. Estas vías podrán diseñarse como par vial con una distancia no mayor de 100.00 metros entre sentidos, en cuyo caso tendrán un derecho de vía de 20.50 metros como mínimo por sentido.
+
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
 
 ###### Artículo 82.
 
-Las vías subcolectoras tendrán un derecho de vía de 15 metros como mínimo con 2 aceras de 2 metros de anchura como mínimo cada una. Los carriles de circulación serán de 3.30 metros de anchura cada uno y los carriles de estacionamiento serán de 2.20 metros cada uno como mínimo. Las pendientes longitudinales máximas podrán ser del 12% al 15%.
+Las vías subcolectoras interiores tendrán un derecho de vía de 16.00 metros como mínimo con 2 aceras de 2.00 metros de anchura mínima cada una y 2.50 metros de espacio para estacionamiento en cordón, en cada sentido. Deberán Intersectar con una vía subcolectora, colectora o principal a una distancia máxima de 600.00 metros.
+
+> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2013)</small>
+
+###### Artículo 82 Bis 1.
+
+Las vías subcolectores (sic) interbarrios tendrán un derecho de vía de 22.00 metros como mínimo, con aceras de 2.50 metros de anchura mínima a cada lado, carril para bicicletas, y 2.50 metros de espacio para estacionamiento en cordón, en cada sentido. Deberán intersectar con una vía subcolectora, colectora o principal a una distancia máxima de 600.00 metros.
+
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
 
 ###### Artículo 83.
 
-Las vías locales tendrán un derecho de vía de 12 metros como mínimo con 2 aceras de 2 metros de anchura como mínimo cada una. El carril de circulación deberá ser de 3.60 metros de anchura como mínimo y los carriles de estacionamiento serán de 2.20 metros. Las pendientes longitudinales máximas podrán ser del 12% al 15%.
+Las vías locales tendrán un derecho de vía de 12.00 metros con 2 aceras de 2.00 metros de anchura como mínimo cada una y 2.50 metros de espacio para estacionamiento en cordón, al lado de cada acera. No podrán tener una longitud mayor de 180.00 metros entre calles trasversales. Las Vías locales cerradas deberán ser de doble sentido y tendrán un retomo (sic) mínimo de 22.00 metros de diámetro de paramento a paramento y cuando tengan en un extremo un parque la distancia máxima será de 250.00 metros.
+
+> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2013)</small>
+
+###### Artículo 83 Bis 1.
+
+Las vialidades para Fraccionamientos deberán tener una longitud del 15%
+
+> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2013)</small>
+
+###### Artículo 83 Bis 2.
+
+Vías locales en fraccionamientos ubicados en terrenos con pendientes entre el 30% hasta el 45%, a juicio de la autoridad competente, podrán tener una anchura menor y consecuentemente también sus banquetas esta anchura no deberá ser inferior a 8 metros de paramento á paramento; (sic)
 
 ###### Artículo 84.
 
@@ -1981,11 +2099,11 @@ Para el estacionamiento de vehículos en la vía pública se deberá dejar una d
 
 Todas las áreas de estacionamiento deberán estar perfectamente limitadas y señalizadas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ABRIL DE 2013)</small>
 
 ###### Artículo 89.
 
-Todo edificio deberá tener dentro del predio un área de estacionamiento suficiente para satisfacer las necesidades generadas por el uso del mismo. Cuando algún uso del suelo o edificios que solicite autorización no se encuentre en la lista anterior, la Secretaría de Desarrollo Urbano y Obras Públicas lo homologará al que considere más semejante, en el caso de número mínimo de cajones de estacionamiento requeridos. El mínimo requerido de cajones de estacionamiento es el que se indica en la siguiente Matriz de Cajones de Estacionamiento:
+Todo edificio deberá tener dentro del predio un área de estacionamiento suficiente para satisfacer las necesidades generadas por el uso del mismo, Cuando algún uso del suelo o edificios que solicite autorización no se encuentre en la lista anterior, la Secretaría de Desarrollo Urbano y Ecología lo homologará al que considere más semejante, en el caso de número mínimo de cajones de estacionamiento requeridos. El mínimo requerido de cajones de estacionamiento es el que se indica en la siguiente Matriz de Cajones de Estacionamiento:
 
 > <small>N. DE E. VÉASE MATRIZ DE CAJONES DE ESTACIONAMIENTO EN EL P.O. DE 1 DE JULIO DE 2002, PÁGINAS DE LA 71 A LA 81.</small>
 
@@ -2001,15 +2119,17 @@ Cuando un predio o edificio tenga múltiples usos del suelo y/o edificios, se ap
 
 Cuando un predio o edificio no tenga capacidad para alojar el número de cajones de estacionamiento que el Reglamento le señale, el propietario o poseedor podrá solucionar la carencia mediante el arrendamiento de algún predio colindante o distante, siempre que se encuentre en un radio no mayor de 150.00 metros y no atraviese una vía principal; o bien, mediante la fusión de un predio de su propiedad o vecinal colindante al principal, en la inteligencia que el predio que se fusiona solamente podrá tener algún otro uso del suelo que garantice el cumplimiento de ofrecer los cajones de estacionamiento tanto del predio principal como del propio.
 
-> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
 
 ###### Artículo 92.
 
-Cuando en un mismo predio se tengan usos del suelo y/o edificios múltiples y desfasados en horarios, la Secretaría de Desarrollo Urbano y Obras Públicas podrá autorizar que el área de estacionamiento sea menor que la suma total de los requerimientos sin que ésta sea menor al requerimiento mayor de las partes individuales.
+Cuando en un mismo predio se tengan usos del suelo y/o edificios múltiples y desfasados en horarios, la Secretaría de Desarrollo Urbano y Ecología podrá autorizar que el área de estacionamiento sea menor que la suma total de los requerimientos sin que ésta sea menor al requerimiento mayor de las partes individuales.
+
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
 
 ###### Artículo 93.
 
-En los fraccionamientos y/o conjuntos habitacionales de interés social con lotes menores a 120 metros cuadrados de superficie que tengan usos habitacionales y que, además tengan usos comerciales y de servicios vecinales o de barrio no se requerirán los cajones de estacionamiento para estos dos últimos usos como se indica en el Artículo 84, siempre y cuando el área del uso comercial y de servicios no exceda del 40% del total de la construcción.
+En los fraccionamientos y/o conjuntos habitacionales de interés social con lotes menores a 120 metros cuadrados de superficie que tengan usos habitacionales y que, además tengan usos comerciales y de servicios vecinales o de barrio no se requerirán los cajones de estacionamiento para estos dos últimos usos como se indica en el Artículo 89, siempre y cuando el área del uso comercial y de servicios no exceda del 40% del total de la construcción.
 
 ###### Artículo 94.
 
@@ -2111,9 +2231,11 @@ c) Autorización del procedimiento de tala.
 
 En términos de la aplicación del Reglamento del Equilibrio Ecológico y la Protección Ambiental.
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
+
 ###### Artículo 110.
 
-Al darse el caso señalado en el Artículo anterior, el usuario deberá transplantar o sembrar la misma cantidad de árboles de la misma especie y del mismo diámetro aproximado de la sección transversal del tronco o el equivalente de la cantidad que fue transplantada o talada respectivamente.
+Al darse el caso señalado en el Artículo anterior, el usuario deberá trasplantar el árbol o árboles o sembrar la cantidad equivalente de la misma especie en los términos que señala el Reglamento de Equilibrio Ecológico y la Protección Ambiental del Municipio.
 
 ###### Artículo 111.
 
@@ -2135,9 +2257,13 @@ Las áreas de estacionamiento a nivel del piso deberán tener árboles de la sig
 
 a) Un árbol si se tiene uno o dos cajones;
 
-b) Cuando el estacionamiento sea de cajones en hilera sencilla deberá tener un árbol por cada tres cajones; y
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
 
-c) Cuando sea de cajones en hileras dobles deberá tener un árbol por cada seis cajones.
+b) Cuando el estacionamiento sea de cajones en hilera sencilla deberá tener un árbol por cada dos cajones; y
+
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
+
+c) Cuando sea de cajones en hileras dobles deberá tener un árbol por cada cuatro cajones.
 
 ###### Artículo 115.
 
@@ -2151,17 +2277,21 @@ Los árboles sembrados en las áreas de estacionamiento deberán protegerse cont
 
 Los parques y jardines Municipales de un nuevo fraccionamiento, deberán entregarse con árboles propios de la región, sembrados a 4 ó 5 metros del cordón de la banqueta cumpliendo con ello desde el inicio de ocupación de las viviendas, con el mantenimiento correspondiente hasta su momento y con la obligación de dejar el resto del terreno nivelado y limpio de escombro, basura, hierbas y maleza, respetando la vegetación arbórea y arbustiva existente. Se plantarán especies nativas de esta región, de acuerdo a un proyecto específico que será avalado por esta Secretaría.
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
+
 ###### Artículo 118.
 
-Los parques y jardines Municipales de un fraccionamiento deberán tener plantados cuando menos, un árbol por cada 5 metros lineales de camellones y banquetas y un árbol por cada 100 metros cuadrados de parques, rotondas y jardines.
+Los parques y jardines Municipales de un fraccionamiento deberán tener plantados cuando menos, un árbol por cada 5 metros lineales de camellones y banquetas y un árbol por cada 49 metros cuadrados de parques, rotondas y jardines.
 
 ###### Artículo 119.
 
 El cajete de cada árbol sembrado en las banquetas y/o estacionamientos deberá tener cuando menos el área equivalente a un cuadrado de 60 centímetros por 60 centímetros, considerando la posibilidad de hacerlo crecer en el futuro, en función del desarrollo del sistema radicular del árbol en cuestión.
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
+
 ###### Artículo 120.
 
-Los elementos como tinacos de agua potable, tanques estacionarios de gas butano, antenas parabólicas y similares que se localizan en las azoteas, deberán ocultarse a la vista mediante obra de construcción integrada a las fachadas.
+Los elementos como tinacos de agua potable, tanques estacionarios de gas butano, antenas y similares que se localizan en las azoteas, deberán ocultarse a la vista mediante obra de construcción integrada a las fachadas.
 
 ## TÍTULO VI. DE LAS CONSTANCIAS, LICENCIAS Y AUTORIZACIONES
 
@@ -2191,37 +2321,45 @@ VIII. Los Servicios de Agua y Drenaje de Monterrey, en su caso, garantizan el ab
 
 IX. La Administración Municipal pueda proporcionar los servicios públicos correspondientes, o en su caso, el propietario del predio o lote garantice la prestación de dichos servicios durante el tiempo necesario hasta que dicha Administración se pueda hacer cargo.
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
+
 ###### Artículo 122.
 
-En la etapa de factibilidad de uso del suelo y lineamientos de urbanización el interesado integrará un expediente que presentará en la Secretaría con la documentación siguiente:
+En la etapa de Factibilidad de Uso del Suelo el interesado integrará un expediente que presentará en la Secretaría con la documentación siguiente:
 
-I. Manifestación del Impacto Ambiental modalidad general;
+I. Solicitud correspondiente;
 
-II. Solicitud de factibilidad de urbanización y lineamientos generales;
+II. Copia simple del título que acredite la propiedad del predio, debidamente inscrito en el Registro Público de la Propiedad y del Comercio;
 
-III. Original y copia del título de propiedad del predio;
+III. Documento que acredite la personalidad jurídica;
 
-IV. Original y copia del certificado de gravamen o de libertad de gravamen del predio;
+IV. Plano de la localización del predio, en el sector respectivo en la carta urbana del Plan o programa de Desarrollo Urbano vigente;
 
-V. Original y copia de carta poder certificada ante Notario Público, en caso de no ser el propietario quien realice el trámite;
+V. Estudio geofísico, geológico e hidrológico, realizados por perito registrado oficialmente, únicamente para las zonas consideradas como de alto y muy alto riesgo, según el Atlas de Riesgo del Estado, con sus propuestas de mitigación; y
 
-VI. Original y copia del tarjetón del impuesto predial al corriente;
+VI. 5 copias de planos.
 
-VII. Original y copia de comprobante de domicilio para notificaciones;
+> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2013)</small>
 
-VIII. Plano del predio a desarrollar con levantamiento topográfico;
+###### Artículo 122 Bis 1.
 
-IX. Plano de arbolado y vegetación;
+En la etapa de Lineamientos Generales de diseño urbano para elaborar el proyecto urbanístico, el interesado integrará un expediente que presentará en la Secretaría con la documentación siguiente:
 
-X. 6 planos del predio con el levantamiento topográfico impresos a escala, con planta de ubicación y datos generales de identificación y características del predio;
+I. Solicitud de Lineamientos generales de diseño urbano;
 
-XI. Original y copia de la carta de factibilidad de agua y drenaje;
+II. Certificado de libertad de gravamen del predio, expedido con no más de 90 días de anterioridad
 
-XII. 8 fotografías del predio;
+III. Documento que acredite la personalidad jurídica;
 
-XIII. Original y copia del estudio geofísico realizado por perito registrado oficialmente, sólo si el predio se localiza en zona considerada de alto riesgo; y
+IV. Plano de la localización del predio, en el sector respectivo en la carta urbana del Plan de Desarrollo Urbano vigente, cuando proceda, indicando las vías públicas y las redes maestras de infraestructura y servicios públicos que atraviesen y colinden con el predio, topografía del polígono y curvas de nivel a cada metro;
 
-XIV. Original y copia del pago por los derechos correspondientes al trámite.
+V. Acuerdo de factibilidad del servicio de agua potable y drenaje sanitario y drenaje pluvial, otorgado por Servicios de Agua y Drenaje de Monterrey, I.P.D.
+
+VI. Acuerdo de factibilidad del servicio de energía eléctrica otorgado por la Comisión Federal de Electricidad;
+
+VII. Fotografías que muestren la situación actual del predio; y
+
+VIII. 5 copias de planos.
 
 ###### Artículo 123.
 
@@ -2259,71 +2397,71 @@ En la etapa de proyecto urbanístico el interesado deberá presentar a la Secret
 
 I. Solicitud de autorización de proyecto urbanístico;
 
-II. Original y copia del título de propiedad del predio;
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2013)</small>
 
-III. Original y copia del certificado de gravamen o de libertad de gravamen del predio;
+II. Copia del acuerdo de factibilidad de fraccionar y urbanizar y lineamientos generales de diseño urbano;
 
-IV. Original y copia de la Constancia de Factibilidad y Lineamientos Generales;
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2013)</small>
 
-V. Original y copia de carta poder certificada ante Notario Público, en caso de no ser el propietario quien realice el trámite;
+III. Plano con el diseño urbano del predio, en el cual se indique: las curvas de nivel a cada metro, el trazo de las calles, la definición de las manzanas y su lotificación, dimensiones y superficies de los lotes, las áreas de suelo para cesión municipal en forma de plazas, jardines o parques, la zonificación propuesta, el cuadro de distribución de áreas;
 
-VI. Original y copia de comprobante de domicilio para notificaciones;
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2009)</small>
+IV. Los estudios de impacto ambiental que procedan de acuerdo a la normatividad aplicable, indicando las medidas de mitigación;
 
-VII. Plano del proyecto urbanístico que cumpla con las especificaciones de la Ley, de este Reglamento y de la Constancia de Factibilidad y Lineamientos Generales, incluyendo proyecto de solución al drenaje pluvial, así como estudio hidrológico en las zonas indicadas por la Coordinación de Asentamientos Humanos y Ecología;
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2013)</small>
 
-VIII. 12 planos del proyecto urbanístico (graficados en "plotter", copias heliográficas o xerográficas) con planta de ubicación del predio, cuadro de datos del levantamiento topográfico, indicando las curvas de nivel a cada 5 metros, el trazo de las calles, la definición de las manzanas y su lotificación, dimensión y superficies de los lotes, las áreas de suelo para Cesión Municipal de acuerdo a la Ley, cuadro de áreas según usos y destinos del suelo, número de lotes total y según usos y destinos del suelo, datos de identificación del predio y del propietario;
+V. Estudio del impacto vial del proyecto;
+
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2013)</small>
+
+VI. Documento que acredite el pago de los impuestos y derechos a que esté sujeto el predio;
+
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2013)</small>
+
+VII. Documento que acredite la personalidad jurídica;
+
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2013)</small>
+
+VIII. 10 copias de planos.
+
+> <small>N. DE E. EN RELACIÓN CON LA PRESENTE FRACCIÓN, SE SUGIERE CONSULTAR TAMBIÉN LA PÁGINA ELECTRÓNICA DEL MUNICIPIO (http://www.stacatarina.gob.mx), EN VIRTUD DE LA REFORMA PUBLICADA EN EL P.O. DE 17 DE ABRIL DE 2013.</small>
 
 IX. Original y copia del estudio de impacto ambiental del proyecto indicando las medidas de mitigación;
 
+> <small>N. DE E. EN RELACIÓN CON LA PRESENTE FRACCIÓN, SE SUGIERE CONSULTAR TAMBIÉN LA PÁGINA ELECTRÓNICA DEL MUNICIPIO (http://www.stacatarina.gob.mx), EN VIRTUD DE LA REFORMA PUBLICADA EN EL P.O. DE 17 DE ABRIL DE 2013.</small>
+
 X. Original y copia del impacto vial del proyecto;
+
+> <small>N. DE E. EN RELACIÓN CON LA PRESENTE FRACCIÓN, SE SUGIERE CONSULTAR TAMBIÉN LA PÁGINA ELECTRÓNICA DEL MUNICIPIO (http://www.stacatarina.gob.mx), EN VIRTUD DE LA REFORMA PUBLICADA EN EL P.O. DE 17 DE ABRIL DE 2013.</small>
 
 XI. Original y copia del documento que acredite el pago de impuestos y derechos a que esté sujeto el predio; y
 
+> <small>N. DE E. EN RELACIÓN CON LA PRESENTE FRACCIÓN, SE SUGIERE CONSULTAR TAMBIÉN LA PÁGINA ELECTRÓNICA DEL MUNICIPIO (http://www.stacatarina.gob.mx), EN VIRTUD DE LA REFORMA PUBLICADA EN EL P.O. DE 17 DE ABRIL DE 2013.</small>
+
 XII. Original y copia del pago de derechos por el trámite.
+
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
 
 ###### Artículo 126.
 
-Una vez recibido el expediente la Secretaría analizará y evaluará la solicitud conforme a la Ley, este Reglamento y los planes de desarrollo urbano aprobados; realizará las inspecciones y visitas de campo necesarias y elaborará un dictamen resolutivo expresando las razones para autorizar o negar el proyecto urbanístico.
+El proyecto urbanístico formulado por el interesado con base en los lineamientos generales de diseño urbano señalados al efecto será revisado por el Municipio, quien podrá aprobarlo, negarlo o requerir de correcciones, modificaciones o documentación adicional.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE AGOSTO DE 2009)</small>
+En ese último caso, es decir que el proyecto requiera de correcciones, modificaciones o de documentación adicional, el municipio deberá notificarlo por escrito al interesado dentro de los primeros 10 diez días hábiles a partir de la fecha de recepción del expediente y el particular dispondrá de 10 diez días hábiles para realizar los (sic) correcciones o modificaciones o presentar la documentación adicional requerida. Si transcurre este plazo sin respuesta, el proyecto se negará y será necesario reiniciar el procedimiento. La resolución negativa deberá ser notificada al interesado para que en su caso haga uso del derecho de interponer los recursos administrativos presentes en esta Ley.
+
+En caso de que el interesado atienda las observaciones y/o realice las correcciones o modificaciones al proyecto o entregue la documentación solicitada por la autoridad, esta deberá dar respuesta en un plazo no mayor de 20 veinte días hábiles a partir de la recepción de la solventación de dichos requerimientos resolviendo la solicitud respectiva.
+
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
 
 ###### Artículo 127.
 
-La Secretaría, según al dictamen expedirá el Acuerdo correspondiente al proyecto urbanístico del fraccionamiento con un plano sellado y firmado de aprobación, contando con la opinión favorable de los integrantes de la Comisión de Obras Públicas y Desarrollo Urbano del Ayuntamiento. El plano deberá tener lo siguiente:
+El interesado deberá solicitar la aprobación del plano de rasantes que deberá contener los niveles de las calles, en cuanto a sus pendientes, alturas, escurrimientos y demás características que permitan la integración del fraccionamiento con las calles existentes en la zona.
 
-> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2004)</small>
-
-1. La distribución de áreas o cuadro de áreas del proyecto;
-
-> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2004)</small>
-
-2. El número de lotes y superficie promedio de los mismos;
-
-> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2004)</small>
-
-3. La zonificación de usos del suelo;
-
-> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2004)</small>
-
-4. La definición de áreas de preservación natural o ecológica;
-
-> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2004)</small>
-
-5. Las secciones de calles; y (sic)
-
-> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2004)</small>
-
-6. La ubicación de las áreas Municipales.
-
-> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2004)</small>
-
-7. Y los demás requisitos que establezca la Ley de Ordenamiento Territorial de los Asentamientos Humanos y de Desarrollo Urbano del Estado de Nuevo León.
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
 
 ###### Artículo 128.
 
-El interesado deberá solicitar por escrito a la Secretaría la aprobación del plano de rasantes después de aprobado el proyecto urbanístico anexando cuatro copias del plano correspondiente.
+El interesado deberá solicitar por escrito a la Secretaría la aprobación del plano de rasantes que deberá contener los niveles de las calles, en cuanto a sus pendientes, alturas, escurrimientos y demás características que permitan la integración del fraccionamiento con las calles existentes en la zona, después de aprobado el proyecto urbanístico anexando cinco copias del plano correspondiente.
 
 ###### Artículo 129.
 
@@ -2335,45 +2473,87 @@ En la etapa de proyecto ejecutivo el interesado deberá presentar a la Secretar�
 
 I. Solicitud de autorización del proyecto ejecutivo;
 
-II. Original y copia del título de propiedad del predio;
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2013)</small>
 
-III. Original y copia del certificado de gravamen y autorización del acreedor o de libertad de gravamen del predio;
+II. Copia del acuerdo de autorización del proyecto urbanístico;
 
-IV. Original y copia de la constancia de factibilidad y lineamientos generales;
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2013)</small>
 
-V. Original y copia del acuerdo de autorización del proyecto urbanístico;
+III. Copia del proyecto urbanístico del fraccionamiento con los sellos de aprobación de las autoridades correspondientes;
 
-VI. Original y copia del acuerdo de autorización del plano de rasantes;
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2013)</small>
 
-VII. Original y copia de comprobante de domicilio para notificaciones;
+IV. Fotografías de la situación actual del predio;
 
-VIII. Original y copia de carta poder certificada ante Notario Público, en caso de no ser el propietario quien realice el trámite;
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2013)</small>
 
-IX. Original y copia de avalúo catastral;
+V. Acreditar que está al corriente en el pago del impuesto predial con el tarjetón correspondiente;
 
-X. Fotografías a color en tamaño postal del predio;
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2013)</small>
 
-XI. Original y copia del tarjetón del impuesto predial al corriente;
+VI. Certificado de gravamen y autorización del acreedor o de libertad de gravamen;
 
-XII. Copia del plano autorizado y con sellos del proyecto urbanístico;
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2013)</small>
 
-XIII. Proyecto de habilitación de áreas Municipales, conforme a lo establecido en la Ley;
+VII. Avalúo Catastral;
 
-XIV. 12 planos del proyecto ejecutivo (graficados en "plotter", copias heliográficas o xerográficas) firmados por el (los) propietario (s) ó apoderado (s) y el (los) perito (s) responsable (s);
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2013)</small>
 
-XV. Planos de cada uno de los proyectos autorizados por las dependencias correspondientes de: agua potable, drenaje sanitario, drenaje pluvial, energía eléctrica, alumbrado público, nomenclatura y señalamiento vial (graficados en "plotter", copias heliográficas o xerográficas);
+VIII. Copia del acuerdo de autorización del plano de rasantes;
 
-XVI. Original y copia del programa y presupuesto de obra firmados por el (los) propietario (s) ó apoderado (s) y el (los) perito (s) responsable (s);
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2013)</small>
+
+IX. Copias de los proyectos de ingeniería urbana de agua potable, drenaje sanitario, drenaje pluvial, energía eléctrica, gas, alumbrado público, nomenclatura y señalamiento vial, autorizados por las dependencias públicas correspondientes;
+
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2013)</small>
+
+X. Convenios de aportación con las dependencias que administran los servicios públicos;
+
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2013)</small>
+
+XI. Estudio de mecánica de suelos con diseño de pavimentos elaborado por institución, asociación o laboratorio reconocidos;
+
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2013)</small>
+
+XII. Documento que acredite el pago de los impuestos y derechos a que esté sujeto el predio;
+
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2013)</small>
+
+XIII. Programa y presupuesto de obra;
+
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2013)</small>
+
+XIV. Acreditar la personalidad jurídica, debiendo, además, firmar los planos y presupuestos los propietarios o apoderados, así como los peritos responsables;
+
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2013)</small>
+
+XV. Los planos y presupuestos deberán ir firmados por el propietario o apoderado legal y el director responsable de obra; y,
+
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2013)</small>
+
+XVI. 10 copias de planos.
+
+> <small>N. DE E. EN RELACIÓN CON LA PRESENTE FRACCIÓN, SE SUGIERE CONSULTAR TAMBIÉN LA PÁGINA ELECTRÓNICA DEL MUNICIPIO (http://www.stacatarina.gob.mx), EN VIRTUD DE LA REFORMA PUBLICADA EN EL P.O. DE 17 DE ABRIL DE 2013.</small>
 
 XVII. Original y copia del estudio de laboratorio de mecánica de suelos y diseño de pavimentos elaborados por institución, asociación o laboratorio reconocido;
 
+> <small>N. DE E. EN RELACIÓN CON LA PRESENTE FRACCIÓN, SE SUGIERE CONSULTAR TAMBIÉN LA PÁGINA ELECTRÓNICA DEL MUNICIPIO (http://www.stacatarina.gob.mx), EN VIRTUD DE LA REFORMA PUBLICADA EN EL P.O. DE 17 DE ABRIL DE 2013.</small>
+
 XVIII. Original y copia de los convenios de aportación de las dependencias que administran los servicios públicos;
+
+> <small>N. DE E. EN RELACIÓN CON LA PRESENTE FRACCIÓN, SE SUGIERE CONSULTAR TAMBIÉN LA PÁGINA ELECTRÓNICA DEL MUNICIPIO (http://www.stacatarina.gob.mx), EN VIRTUD DE LA REFORMA PUBLICADA EN EL P.O. DE 17 DE ABRIL DE 2013.</small>
 
 XIX. Original y copia del documento que acredite el pago de los impuestos y derechos a que esté sujeto el predio;
 
+> <small>N. DE E. EN RELACIÓN CON LA PRESENTE FRACCIÓN, SE SUGIERE CONSULTAR TAMBIÉN LA PÁGINA ELECTRÓNICA DEL MUNICIPIO (http://www.stacatarina.gob.mx), EN VIRTUD DE LA REFORMA PUBLICADA EN EL P.O. DE 17 DE ABRIL DE 2013.</small>
+
 XX. Comprobantes de los estudios especiales que le hubieren requerido en la etapa anterior;
 
+> <small>N. DE E. EN RELACIÓN CON LA PRESENTE FRACCIÓN, SE SUGIERE CONSULTAR TAMBIÉN LA PÁGINA ELECTRÓNICA DEL MUNICIPIO (http://www.stacatarina.gob.mx), EN VIRTUD DE LA REFORMA PUBLICADA EN EL P.O. DE 17 DE ABRIL DE 2013.</small>
+
 XXI. Copia del pago de derechos por el trámite; y
+
+> <small>N. DE E. EN RELACIÓN CON LA PRESENTE FRACCIÓN, SE SUGIERE CONSULTAR TAMBIÉN LA PÁGINA ELECTRÓNICA DEL MUNICIPIO (http://www.stacatarina.gob.mx), EN VIRTUD DE LA REFORMA PUBLICADA EN EL P.O. DE 17 DE ABRIL DE 2013.</small>
 
 XXII. Carta responsiva del propietario.
 
@@ -2387,25 +2567,45 @@ En la etapa de autorización de ventas el interesado deberá presentar un expedi
 
 I. Solicitud de autorización de ventas;
 
-II. Original y copia del título de propiedad del predio;
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2013)</small>
 
-III. Original y copia del certificado de gravamen y autorización del acreedor o de libertad de gravamen del predio;
+II. Copia del acuerdo de autorización del proyecto ejecutivo y los planos correspondientes, debidamente inscritos en el Registro Público de la Propiedad y del Comercio;
 
-IV. Original y copia de comprobante de domicilio de notificación;
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2013)</small>
 
-V. Original y copia de carta poder certificada ante Notario Público, en caso de no ser el propietario quien realice e trámite;
+III. Título que acredite la propiedad del predio;
 
-VI. Original y copia de documento que acredite el pago de las contribuciones correspondientes al predio;
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2013)</small>
 
-VII. Copia del acuerdo de autorización del proyecto ejecutivo debidamente inscrito en el Registro Público de la Propiedad y del Comercio;
+IV. Certificado de gravamen y autorización del acreedor o de libertad de gravamen;
 
-VIII. 10 planos del proyecto ejecutivo autorizado (graficados en "plotter", copias heliográficas o xerográficas) y plano del proyecto ejecutivo georeferenciado al sistema de coordenadas UTM con Datum WGS 84 ó ITRF 92 en diskette de 3.5" (sic) con formato, dxf;
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2013)</small>
 
-IX. Proposición de garantía hipotecaria o fianza para garantizar el cumplimiento de sus obligaciones;
+V. Proposición de garantía hipotecaria o fianza suficiente a favor del municipio la cual deberá redactarse en la forma y términos que sea solicitado por dicha autoridad, para garantizar el cumplimiento de sus obligaciones, en el caso de que no se hayan concluido las obras se le trazarán en el proyecto ejecutivo;
 
-X. Copia de las constancias del cumplimiento del pago por incorporación a las redes de agua potable y drenaje sanitario; y
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2013)</small>
 
-XI. Copia del pago de derechos por el trámite.
+VI. Constancias del cumplimiento del pago y obligaciones por incorporación a las redes de agua potable y drenaje sanitario, energía eléctrica y movilidad;
+
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2013)</small>
+
+VII. Documento que acredite el pago de las contribuciones correspondientes;
+
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2013)</small>
+
+VIII. Documento que acredite la personalidad con facultades para actos de dominio, de conformidad con la Ley;
+
+> <small>(REFORMADA P.O. 17 DE ABRIL DE 2013)</small>
+
+IX. Constancia expedida por el Estado que acredite el cumplimiento de las aportaciones a que se refiere el artículo 143 de la Ley de Desarrollo Urbano del Estado; y
+
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2013)</small>
+
+X. 10 copias de planos
+
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2013)</small>
+
+XI. Una vez inscrito el plano de ventas deberá de allegar a la Secretaría una copia con los sellos de la inscripción realizada.
 
 ###### Artículo 133.
 
@@ -2417,21 +2617,39 @@ En la etapa de constancia de terminación de obras y liberación de garantías e
 
 I. Solicitud de constancia de terminación de obras y liberación de garantías;
 
-II. Original y copia del título de propiedad del predio;
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2013)</small>
 
-III. Copia del acuerdo de autorización de ventas inscrita en el Registro Público de la Propiedad y del Comercio;
+II. Copia del acuerdo de autorización de ventas inscrito en el Registro Público de la Propiedad y del Comercio;
 
-IV. Original y copia de comprobante de domicilio de notificación;
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2013)</small>
 
-V. Original y copia de carta poder certificada ante Notario Público, en caso de no ser el propietario quien realice el trámite
+III. Fianza suficiente a favor del Municipio la cual deberá redactarse en la forma y términos que sea solicitado por dicha autoridad y que garantice por un término de tres años, la buena calidad de pavimentos, cordones, banquetas y sistema para el manejo integral de aguas pluviales;
 
-VI. Fianza que garantice por tres años la calidad de pavimentos guarniciones, banquetas y drenaje pluvial;
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2013)</small>
+
+IV. Documento que acredite el pago de las contribuciones correspondientes;
+
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2013)</small>
+
+V. Documento que acredite la personalidad jurídica;
+
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2013)</small>
+
+VI. Documento o constancia de recepción de obras a cargo de las dependencias u organismos operadores de los servicios de infraestructura.
+
+> <small>N. DE E. EN RELACIÓN CON LA PRESENTE FRACCIÓN, SE SUGIERE CONSULTAR TAMBIÉN LA PÁGINA ELECTRÓNICA DEL MUNICIPIO (http://www.stacatarina.gob.mx), EN VIRTUD DE LA REFORMA PUBLICADA EN EL P.O. DE 17 DE ABRIL DE 2013.</small>
 
 VII. Copia de documento que acredite el pago de las contribuciones correspondientes;
 
+> <small>N. DE E. EN RELACIÓN CON LA PRESENTE FRACCIÓN, SE SUGIERE CONSULTAR TAMBIÉN LA PÁGINA ELECTRÓNICA DEL MUNICIPIO (http://www.stacatarina.gob.mx), EN VIRTUD DE LA REFORMA PUBLICADA EN EL P.O. DE 17 DE ABRIL DE 2013.</small>
+
 VIII. 7 copias de los planos registrados en el Registro Público de la Propiedad y del Comercio;
 
+> <small>N. DE E. EN RELACIÓN CON LA PRESENTE FRACCIÓN, SE SUGIERE CONSULTAR TAMBIÉN LA PÁGINA ELECTRÓNICA DEL MUNICIPIO (http://www.stacatarina.gob.mx), EN VIRTUD DE LA REFORMA PUBLICADA EN EL P.O. DE 17 DE ABRIL DE 2013.</small>
+
 IX. Copia del pago de los derechos por trámite.
+
+> <small>N. DE E. EN RELACIÓN CON LA PRESENTE FRACCIÓN, SE SUGIERE CONSULTAR TAMBIÉN LA PÁGINA ELECTRÓNICA DEL MUNICIPIO (http://www.stacatarina.gob.mx), EN VIRTUD DE LA REFORMA PUBLICADA EN EL P.O. DE 17 DE ABRIL DE 2013.</small>
 
 X. Las que se requieran conforme a las demás disposiciones de carácter general que expida el Ayuntamiento.
 
@@ -2439,13 +2657,29 @@ X. Las que se requieran conforme a las demás disposiciones de carácter general
 
 Una vez recibido el expediente la Secretaría analizará y evaluará la solicitud conforme a la Ley, este Reglamento, los planes de desarrollo urbano aprobados y los antecedentes autorizados; se elaborarán los reportes de inspección y avance; se realizarán las inspecciones y visitas de campo necesarias y elaborará un dictamen resolutivo expresando las razones para certificar o no la terminación de obras y liberar las garantías depositadas por el interesado. Con base en el dictamen expedirá el Acuerdo correspondiente.
 
+> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2013)</small>
+
+###### Artículo 135 Bis 1.
+
+Para solicitar la municipalización de un fraccionamiento, el interesado deberá presentar a la autoridad municipal competente la siguiente documentación:
+
+I. Solicitud de municipalización del fraccionamiento;
+
+II. Copia de la constancia de terminación de obras y liberación de garantías;
+
+III. Documento que acredite el pago de las contribuciones correspondientes.
+
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
+
 ###### Artículo 136.
 
-El interesado en desarrollar un fraccionamiento podrá integrar en una instancia las etapas del proceso de urbanización de conformidad con lo que señala el Artículo 240 de la Ley, para lo cual deberá presentar la documentación correspondiente a cada una de las etapas integradas en esa sola instancia.
+El interesado en desarrollar un fraccionamiento podrá integrar en una instancia las etapas del proceso de urbanización de conformidad con lo que señala el Artículo 269 de la Ley, para lo cual deberá presentar la documentación correspondiente a cada una de las etapas integradas en esa sola instancia.
+
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
 
 ###### Artículo 137.
 
-Todas las Resoluciones que emita la Secretaría deberán contener además de lo señalado en los Artículos anteriores, el contenido del Artículo 241 de la Ley de Ordenamiento Territorial de los Asentamientos Humanos y Desarrollo Urbano del Estado de Nuevo León.
+Todas las Resoluciones que emita la Secretaría deberán contener además de lo señalado en los Artículos anteriores, el contenido del Artículo 271 de la Ley de Desarrollo Urbano del Estado de Nuevo León.
 
 > <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2004)</small>
 
@@ -2511,13 +2745,49 @@ El cumplimiento de las obligaciones será responsabilidad del organismo municipa
 
 Constituyen normas básicas para la regularización de los asentamientos humanos de la tenencia de la tierra urbana las siguientes:
 
-I.- Sólo podrán aprobarse los ubicados en las áreas urbanas o urbanizadas y urbanizables del municipio donde los planes o programas de desarrollo urbano, asentamientos u ordenamiento territorial, las consideren factibles o condicionadas y que cuenten o se prevea pueden contar con servicio de transporte público; por lo demás se entenderá a las normas para desarrollos habitacionales contenidas en la Ley de Ordenamiento Territorial de los Asentamientos Humanos y de Desarrollo Urbano en el Estado y del presente Reglamento;
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2013)</small>
 
-II.- El ancho mínimo de las vialidades locales será de 12-doce metros, debiéndose respetar las afectaciones viales y de infraestructura, previstas en los Planes de Desarrollo Urbano y proyectos Viales aplicables;
+I. Se ajustara a lo que establezcan los planes o programas de desarrollo urbano aplicables;
 
-III.- Ceder suelo al municipio para destinos a razón del 17%-diecisiete del área vendible o 22-veintidós metros cuadrados por unidad de vivienda, lo que resulte mayor. El 60%-sesenta del suelo cedido deberá destinarse para jardines, parques o plazas públicas; el otro 40%-cuarenta podrá destinarse para la construcción del equipamiento educativo público del nivel básico, áreas deportivas, caseta de vigilancia y asistencia pública; y,
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2013)</small>
 
-IV.- Las demás que establezcan las disposiciones de carácter general que al efecto expida el ayuntamiento y las que establezcan otros ordenamientos jurídicos aplicables.
+II. Estar ubicados en áreas factibles de urbanizar y en ningún caso podrá regularizarse la tenencia de la tierra ubicada en áreas o zonas de riesgo o de preservación ecológica, de conformidad con lo que señalen los planes o programas de desarrollo urbano correspondientes;
+
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2013)</small>
+
+III. La regularización será promovida por el Estado a través de sus organismos o áreas competentes, quienes darán cumplimiento de las obligaciones establecidas en la Ley;
+
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2013)</small>
+
+IV. Que se trate de asentamientos humanos que tengan un mínimo de diez años de haberse formado, lo cual deberá acreditarse fehacientemente ante la autoridad municipal con las documentales públicas y privadas correspondientes;
+
+> <small>(ADICIONADA, P.O. 17 DE ABRIL DE 2013)</small>
+
+V. Solo podrán ser beneficiarios de la regularización quienes ocupen un predio y no sean propietarios de otro inmueble en el territorio estatal, teniendo preferencia los poseedores de buena fe, de acuerdo a la antigüedad de la posesión;
+
+> <small>(ADICIONADA, P.O. 17 DE ABRIL DE 2013)</small>
+
+VI. Ninguna persona podrá resultar beneficiada por la regularización con más de un lote o predio, cuya superficie no podrá exceder de la extensión determinada por los planes o programas de desarrollo urbano aplicables;
+
+> <small>(ADICIONADA, P.O. 17 DE ABRIL DE 2013)</small>
+
+VII. Los precios de venta para los lotes tipo se fijarán atendiendo a sus costos reales, a la oferta de desarrollos legítimos, a la capacidad económica de los adquirentes, y para el caso de lotes mayores o dedicados a otros usos, atendiendo a su valor comercial;
+
+> <small>(ADICIONADA, P.O. 17 DE ABRIL DE 2013)</small>
+
+VIII. El ancho mínimo de las vías locales se analizará en cada caso a fin de ajustarlo en lo posible a la norma correspondiente, pero en ningún caso deberá ser menor a 8-ocho metros;
+
+> <small>(ADICIONADA, P.O. 17 DE ABRIL DE 2013)</small>
+
+IX. Para su autorización los lotes tendrán una superficie en congruencia con las densidades previstas en los planes o programas de desarrollo urbano o en su defecto de los lotes promedio de las áreas colindantes, o menores, siempre y cuando en ellos habite una familia;
+
+> <small>(ADICIONADA, P.O. 17 DE ABRIL DE 2013)</small>
+
+X. La ejecución de las obras de urbanización que se requieran, se hará de manera progresiva con cargo a los propios adquirentes de los lotes, a través del organismo promotor del desarrollo, quien se constituye en responsable solidario del buen resultado del proyecto, quien promoverá y apoyará los programas de autoconstrucción técnicamente dirigidos, dichas obras serán entregadas a los municipios correspondientes para su administración; y
+
+> <small>(ADICIONADA, P.O. 17 DE ABRIL DE 2013)</small>
+
+XI. Las obras de infraestructura y urbanización necesarias deberán ser realizadas en su totalidad en un término que no deberá exceder de diez años.
 
 > <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2004)</small>
 
@@ -2549,11 +2819,19 @@ Al realizarse cualquier acto de urbanización sin contar con la autorización co
 
 ### CAPÍTULO III. DE LAS SUBDIVISIONES, FUSIONES, PARCELACIONES Y RELOTIFICACIONES DEL SUELO
 
-> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
 
 ###### Artículo 139.
 
-Los predios o lotes localizados en las áreas urbanizadas podrán subdividirse hasta en cinco porciones, cada una de las cuales deberá tener una superficie igual o mayor a la superficie promedio de los predios o lotes localizados dentro de un área de 100 metros alrededor de los predios o lotes a subdividir. Además, los predios o lotes resultantes de la subdivisión deberán tener frente a una vía pública.
+La subdivisión es la partición de un predio ubicado dentro del área urbana o de reserva para el crecimiento urbano de los centros de población en dos o más fracciones y que no requiere del trazo de una o más vías públicas y deberá observar las siguientes normas básicas:
+
+I. Los predios resultantes de la subdivisión no podrán ser mayor a 5-cinco y deberán tener frente a la vía pública;
+
+II. Los predios sujetos a subdivisión ubicados fuera de fraccionamientos autorizados, deberán ceder al Municipio el área municipal correspondiente conforme a lo dispuesto por el artículo 201, fracción VIII, de la Ley de Desarrollo Urbano del Estado de Nuevo León, según el uso del suelo predominante que señale el plan de desarrollo urbano aplicable;
+
+III. Solamente se autorizarán sí las adecuaciones en las infraestructuras o redes de servicios públicos necesarias para atender a los nuevos predios que se generen, se efectuaren a costa del promovente; y
+
+IV. En las zonas urbanizadas no se autorizará la subdivisión cuando ésta dé como resultado lotes con superficie menor al lote promedio del área inmediata, con excepción de que la zonificación aprobada, la infraestructura del área y el equilibrio de la densidad de población prevista lo permitan.
 
 > <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2004)</small>
 
@@ -2561,11 +2839,61 @@ Los predios o lotes localizados en las áreas urbanizadas podrán subdividirse h
 
 Cuando un predio o lote localizado en las áreas urbanizadas tenga construidas dos y hasta cinco viviendas unifamiliares horizontales, todas con frente a una vía pública, se podrá subdividirlo aún y cuando la superficie de cada una de las porciones resultantes no tenga la superficie promedio mencionada en el Artículo anterior, si el o los propietarios demuestran que dichas viviendas tienen más de 5 años de existencia y cuentan con los servicios públicos.
 
-> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
 
 ###### Artículo 141.
 
-Los predios localizados en las áreas urbanizables o de reserva para el crecimiento urbano podrán parcelarse sin límite de porciones con la condición de que cada una de ellas tenga una superficie mínima de cien mil metros cuadrados. A su vez, cada una de estas porciones podrán ser parceladas hasta en cinco porciones de las cuales ninguna tendrá una superficie menor a veinte mil metros cuadrados y sin que se lleve a cabo la apertura de vía pública; y demás disposiciones establecidas en la Ley de Ordenamiento Territorial de los Asentamientos Humanos y de Desarrollo Urbano del Estado de Nuevo León.
+La parcelación es la participación de un predio fuera de los límites de un centro de población en dos o más lotes y que no requiere del trazo de una o más vías públicas y debe observar las normas básicas siguientes:
+
+I. Los lotes resultantes de la parcelación de un predio ubicado en un fraccionamiento campestre autorizado quedarán exentos de la cesión de área municipal;
+
+II. El promovente de una parcelación ubicada en fraccionamiento campestre autorizado, deberá ejecutar las adecuaciones en la infraestructura, en función del incremento de predios o lotes resultantes;
+
+III. Los predios resultantes de la parcelación deberán tener frente a la vía publica, cuando se requiera la apertura de vías públicas se le dará el tratamiento de fraccionamiento campestre;
+
+IV. Los predios se podrán parcelar sin límite de porciones con la condición de que cada fracción resultante tenga una superficie mínima de cien mil metros cuadrados y en su caso podrán incluir servidumbres de paso; y
+
+V. La parcelación de los lotes que resulten conforme a la fracción anterior solo se podrán dividir en cinco porciones y que no se lleve a cabo la apertura de vía pública, ni servidumbre de paso.
+
+> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2013)</small>
+
+###### Artículo 141 Bis 1.
+
+Cuando la parcelación se realice por causa de herencia o donación entre parientes, en línea recta o transversal hasta el segundo grado, e igualmente para herederos y legatarios, cuando estén designados expresamente en el testamento o sentencia correspondiente, las fracciones resultantes de la parcelación no podrán ser superiores que el número de herederos o legatarios que acrediten la adjudicación del bien inmueble mediante el instrumento correspondiente. La superficie de las porciones resultantes deberá sujetarse a lo previsto en los planes de desarrollo urbano, ordenamiento territorial y asentamientos humanos aplicables.
+
+> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2013)</small>
+
+###### Artículo 141 Bis 2.
+
+En el caso de parcelación o subdivisiones fuera de fraccionamiento autorizado, se deberá diferir la obligación de ceder áreas en favor del municipio hasta que se autorice el uso, destino o incorporación del predio a que se refieren dichos preceptos.
+
+> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2013)</small>
+
+###### Artículo 141 Bis 3.
+
+La fusión es la unión en un solo lote de dos o más predios colindantes.
+
+> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2013)</small>
+
+###### Artículo 141 Bis 4.
+
+La relotificación es el acto mediante el cual dos o más lotes contiguos de un fraccionamiento o área urbana o urbanizada, se modifican en sus dimensiones constituyendo normas básicas para llevar a cabo la relotificación las siguientes:
+
+I. Los predios resultantes de la relotificación deberán tener frente a la vía pública;
+
+II. No se autorizará la relotificación cuando ésta dé por resultado lote con superficie menor al lote promedio del fraccionamiento al cual corresponda;
+
+III. El promovente de una relotificación efectuará a su costa las adecuaciones en las infraestructuras o redes de servicios públicos necesarias para atender a los nuevos lotes que se generen; y
+
+IV. Si como resultado de las (sic) relotificación, se incrementa el número de lotes o viviendas originalmente autorizados, será necesario aumentar el área municipal, por el ajuste en el cálculo del área originalmente cedida, según las normas establecidas en la Ley de la materia.
+
+> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2013)</small>
+
+###### Artículo 141 Bis 5.
+
+Las autorizaciones de subdivisiones, fusiones, relotificaciones y parcelaciones serán expedidas por la autoridad municipal competente y tendrán por objeto aprobar el número, superficie y dimensiones de los lotes resultantes.
+
+Las autorizaciones a que se refiere este artículo serán expedidas en el término de diez días hábiles contados a partir de que sean satisfechos los requisitos para su obtención establecidos en el presente capítulo, y tendrán una vigencia de 130-ciento treinta días hábiles a partir de su expedición para solicitarse la modificación de la inscripción del predio correspondiente ante la Dirección de Catastro, y ser inscritas en el Registro Público de la Propiedad y del Comercio.
 
 ###### Artículo 142.
 
@@ -2575,73 +2903,103 @@ Los predios localizados en las áreas urbanizables o de reserva para el crecimie
 
 ### CAPÍTULO IV. DE LAS LICENCIAS DE SUBDIVISIONES, FUSIONES, PARCELACIONES, RELOTIFICACIONES, USOS DEL SUELO Y EDIFICIOS
 
-> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
 
 ###### Artículo 143.
 
-Para las subdivisiones, fusiones, parcelaciones y relotificaciones del suelo se deberá presentar a la Secretaría un expediente con la documentación siguiente:
+Para la obtención de las licencias de fusión, subdivisión, relotificación o parcelación, el solicitante deberá cumplir con los siguientes requisitos:
 
-I. Solicitud del trámite en el formato de la Secretaría;
+I. Presentar por escrito la solicitud correspondiente;
 
-II. Plano original y 5 copias del proyecto de subdivisión, fusión, parcelación o relotificación en el formato de la Secretaría;
+II. Presentar el plano a escala del proyecto de parcelación, subdivisión, fusión o relotificación; en este último caso, se agregará plano de la lotificación antecedente;
 
-III. Original y copia del título que acredite la propiedad y posesión del predio o lote, debidamente inscritos en el Registro Público de la Propiedad y el Comercio;
+III. Anexar los títulos o documentos que acrediten la propiedad de los terrenos, debidamente inscritos en el Registro Público de la Propiedad y del Comercio;
 
-IV. Certificado de libertad de gravámenes expedido con no más de noventa días de anterioridad o certificado de gravámenes con autorización del acreedor;
+IV. Presentar certificado de libertad de gravamen o certificado de gravamen con autorización del acreedor, expedido con no más de noventa días de anterioridad;
 
-V. Original y copia de carta poder certificada ante Notario Público, en caso de no ser el propietario quien realice el trámite;
+V. Presentar el alineamiento vial;
 
-VI. Copia de documento que acredite el pago de las contribuciones correspondientes;
+VI. En su caso, acreditar poder especial vigente para actos de dominio en lo relativo a la cesión de las área municipales y vías públicas;
 
-VII. Copia del pago de los derechos correspondientes por el trámite; y en su caso
+VII. Mostrar documento que acredite estar al corriente en el pago del impuesto predial;
 
-VIII. Fotografías actuales de las viviendas en el predio con frente a la vía pública; y
+VIII. Efectuar el pago de los derechos correspondientes.
 
-IX. Original y copia de recibos de servicios públicos de cada vivienda (agua, luz, gas).
+IX. 7 copias de planos
 
-> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2004)</small>
+En todos los casos el solicitante tendrá la obligación de comparecer ante el Notario Público que elijan, antes de que termine la vigencia de la licencia correspondiente, a fin de proceder a otorgar la escritura pública respectiva.
+
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
 
 ###### Artículo 144.
 
-El uso del suelo o cambio de uso que se le pretenda dar a un predio, lote o edificio deberá cumplir con los siguientes requisitos:
+La licencia de uso de suelo será expedida por la autoridad municipal competente, de conformidad con la Ley, y tendrá por objeto:
 
-I. Ser predominante, complementario o compatible en la zona secundaria en la cual se localice el predio, lote o edificio;
+I. Determinar el uso de suelo de un predio, de acuerdo a lo establecido en los planes o programas municipales de desarrollo urbano; y
 
-> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2009)</small>
+II. Establecer las normas de planificación o restricciones de orden urbanístico, así como las de preservación natural y protección al ambiente.
 
-II. Que las actividades a desarrollar en el predio, lote o edificio sean de bajo riesgo en los términos que señalan la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Nuevo León y su Reglamento, así como, en lo conducente al Reglamento del Equilibrio Ecológico y la Protección Ambiental;
+Tratándose de fraccionamientos o conjuntos habitacionales unifamiliares, la licencia de uso de suelo se incluirá en la autorización del proyecto correspondiente, debiendo el interesado solicitar posteriormente la licencia de construcción y en el caso de uso diferente al habitacional unifamiliar solicitar el uso de edificación para la función específica o giro particular de dicho uso del suelo.
 
-III. Respetar las normas y criterios que establecen la Ley, este Reglamento y los Planes de Desarrollo Urbano aplicables;
+> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2013)</small>
 
-IV. No generar molestias, deterioro o riesgos de cualquier tipo para la población vecina dentro de un área de 200 metros alrededor del predio, lote o edificios; y
+###### Artículo 144 Bis 1.
 
-V. Contar con la licencia correspondiente.
+La licencia del uso de edificación será expedida por la autoridad municipal competente, de conformidad con la Ley, y tendrá por objeto:
 
-> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2004)</small>
+I. Determinar el uso de suelo del predio en que se ubica la edificación, de acuerdo a lo establecido en los planes o programas municipales de desarrollo urbano;
+
+II. Señalar la ocupación máxima de construcción;
+
+III. Establecer las normas de planificación o restricciones de orden urbanístico, así como las de preservación natural y protección al ambiente;
+
+IV. Determinar la función específica o giro particular de la edificación; y
+
+V. Señalar la distribución de áreas correspondientes.
+
+Tratándose de fraccionamientos o conjuntos habitacionales unifamiliares previamente autorizados, deberá solicitarse posteriormente por el interesado, la licencia de uso de la edificación solo para aquéllas que difieran del uso habitacional unifamiliar, ya que éste será otorgado en la autorización del proyecto correspondiente.
+
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
 
 ###### Artículo 145.
 
-La licencia de uso del suelo y edificios, es requisito previo para solicitar la licencia de construcción. Sin embargo, ambas licencias se pueden solicitar en un solo trámite, presentando la documentación correspondiente a cada trámite de conformidad con este Reglamento y el Reglamento de Construcción.
+La licencia de uso del suelo y edificios, es requisito previo para solicitar la licencia de construcción. Sin embargo, ambas licencias se pueden solicitar en un solo trámite, presentando la documentación correspondiente a cada trámite de conformidad con la Ley, este Reglamento y el Reglamento de Construcción.
 
-> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
 
 ###### Artículo 146.
 
-Para obtener una licencia de uso del suelo o edificios el solicitante deberá presentar a la Secretaría un expediente con la documentación siguiente:
+Para la obtención de la licencia municipal de uso de suelo, el solicitante deberá cumplir con los siguientes requisitos mínimos:
 
-I. Solicitud por escrito en formato oficial de la Secretaría;
+I. Acreditar la propiedad o posesión del predio;
 
-II. Original y copia del título que acredite la propiedad y posesión del predio o lote, debidamente inscritos en el Registro Público de la Propiedad y el Comercio;
+II. Acreditar el interés que le asiste, y en caso de representación contar con poder suficiente para tal efecto;
 
-III. Original y copia de carta poder certificada ante Notario Público;
+III. Presentar plano de localización del predio;
 
-IV. Copia de documento que acredite el pago de las contribuciones correspondientes;
+IV. Indicar el uso del suelo que se pretende;
 
-V. Copia del pago de los derechos correspondientes por el trámite;
+V. Pago de derechos correspondientes.
 
-VI. Plano de localización del predio; y
+> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2013)</small>
 
-VII. Plano del proyecto arquitectónico de los edificios a realizar indicando el uso pretendido, la superficie del predio y de construcción, áreas libres y de estacionamiento, accesos y colindancias.
+###### Artículo 146 Bis 1.
+
+Para la obtención de la licencia municipal de uso de edificación, el solicitante deberá cumplir con los siguientes requisitos mínimos:
+
+I. Acreditar la propiedad o posesión del predio;
+
+II. Acreditar el interés que le asiste, y en su caso de representación contar con poder suficiente para tal efecto;
+
+III. Presentar plano de localización del predio y plano de construcción autorizada,
+
+IV. Indicar el uso del suelo con el que cuenta el predio, o bien, el que se pretende;
+
+V. Indicar la superficie que trata de construir con la respectiva distribución de áreas, o bien, únicamente la distribución de áreas, tratándose de edificaciones ya construidas;
+
+VI. En su caso, estudio de impacto vial cuando se trate de cambio de uso de edificación, realizado de acuerdo a lo dispuesto por el artículo 187 de la Ley;
+
+VII. El cumplimiento en el pago de los derechos correspondientes.
 
 > <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2004)</small>
 
@@ -2661,29 +3019,39 @@ III. No autorizar la solicitud.
 
 La Secretaría entregará al interesado la Resolución junto con la licencia firmadas por el titular y debidamente selladas en el caso de las Fracciones I y II del Artículo anterior y solamente la Resolución firmada y sellada en el caso de la Fracción III del Artículo señalado.
 
-> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
 
 ###### Artículo 149.
 
-La Secretaría tendrá la obligación de dar contestación por escrito a todas las solicitudes de factibilidades, constancias, permisos, autorizaciones y licencias que hagan los interesados en el fraccionamiento, urbanización, uso, cambio de uso, subdivisiones, fusiones, parcelaciones y relotificaciones del suelo, así como construcciones, edificios, usos y cambios de uso de las mismas en un plazo no mayor de 30 días naturales, ya sea autorizando, negando o solicitando mayor información en caso necesario. Si transcurriera dicho plazo sin darse la contestación se entenderá por negada la solicitud.
+La Secretaría tendrá la obligación de dar contestación por escrito a todas las etapas o las solicitudes de factibilidades, constancias, permisos, autorizaciones y licencias que hagan los interesados en el fraccionamiento y la urbanización del suelo, atendiendo lo dispuesto por el artículo 244 de la Ley. Tratándose de subdivisiones, fusiones, parcelaciones y relotificaciones del suelo, en un término de 10 días hábiles, contados a partir de que sean satisfechos los requisitos para su obtención; y en las construcciones, uso de edificación, usos de suelo de las mismas en un plazo no mayor de 30 días hábiles, ya sea autorizando o negando la solicitud. Si transcurriera dicho plazo sin darse la contestación se entenderá por negada la solicitud planteada.
 
 ## TÍTULO VII. DE LA TRANSFERENCIA DE DERECHOS DE DESARROLLO, LICENCIAS DE USO DEL SUELO Y/O EDIFICIOS
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ABRIL DE 2013)</small>
 
 ###### Artículo 150.
 
-Para autorizar la transferencia de derechos y obligaciones de un fraccionamiento, licencia de uso de suelo y/o edificios, la Secretaría de Desarrollo Urbano y Obras Públicas requiere que el interesado presente la siguiente documentación:
+Para autorizar la transferencia de derechos y obligaciones de un fraccionamiento, licencia de uso de suelo y/o edificios, la Secretaría de Desarrollo Urbano y Ecología requiere que el interesado presente la siguiente documentación:
+
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2009)</small>
 
 I. Solicitud de autorización;
 
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2009)</small>
+
 II. Escrito del interesado en el que manifieste su aceptación de los derechos y obligaciones impuestas en la autorización del fraccionamiento, licencia de uso del suelo y/o edificios;
+
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2009)</small>
 
 III. Copia de los acuerdos firmados y sellados por la autoridad competente respecto de las autorizaciones correspondientes;
 
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2009)</small>
+
 IV. Copia del plano del fraccionamiento ó uso del suelo y/o edificios; y
+
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2009)</small>
 
 V. En su caso, carta poder certificada por Notario Público para la realización del trámite.
 
@@ -2697,11 +3065,11 @@ La Secretaría analizará y evaluará la solicitud y la documentación presentad
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
 
 ###### Artículo 152.
 
-Para los efectos de este Reglamento con relación a los peritos responsables se estará a lo dispuesto por esta Secretaría.
+Para los efectos de este Reglamento con relación a los responsables de obra se estará a lo dispuesto por la Ley de Desarrollo Urbano del Estado de Nuevo León.
 
 ## TÍTULO IX. MEDIDAS DE CONTROL Y DE SEGURIDAD
 
@@ -2743,17 +3111,23 @@ Dichas medidas tendrán la duración estrictamente necesarias para la correcció
 
 ### CAPÍTULO III. DE LOS MEDIOS DE DEFENSA
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
+
 ###### Artículo 155.
 
-Los interesados afectados por las Resoluciones de las Autoridades Administrativas, podrán interponer Recurso de Reconsideración o intentar el Juicio Contencioso Administrativo correspondiente.
+Los interesados afectados por las Resoluciones de las Autoridades Administrativas, podrán interponer Recurso de Revisión o intentar el Juicio Contencioso Administrativo correspondiente.
+
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
 
 ###### Artículo 156.
 
-El plazo para interponer el Recurso de Reconsideración será de 15- días hábiles contados a partir del día siguiente a aquél en que hubiere surtido efectos la notificación de la resolución que se recurra o en que el interesado tuviere conocimiento de la misma.
+El plazo para interponer el Recurso de Revisión será de 15-días hábiles contados a partir del día siguiente a aquél en que hubiere surtido efectos la notificación de la resolución que se recurra o en que el interesado tuviere conocimiento de la misma.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ABRIL DE 2013)</small>
 
 ###### Artículo 157.
 
-El escrito de interposición del Recurso de Reconsideración deberá presentarse ante la Autoridad que emitió el acto impugnado y en el mismo se deberá expresar:
+El escrito de interposición del Recurso de Revisión deberá presentarse ante la Autoridad que emitió el acto impugnado y en el mismo se deberá expresar:
 
 I. La Autoridad Administrativa a quien se dirige;
 
@@ -2829,9 +3203,13 @@ En los Recursos se admitirán toda clase de pruebas, excepto la confesional por 
 
 La Autoridad podrá allegarse de los medios de prueba que considere necesarios, sin más limitación que la establecida en la Ley.
 
-La Autoridad Administrativa ante quien se tramite el Recurso de Reconsideración, acordará sobre la admisibilidad de las pruebas ofrecidas. Sólo podrá rechazar las pruebas propuestas por los interesados, cuando no fuesen ofrecidas conforme a derecho, no tengan relación con el asunto, sean improcedentes e innecesarias o contrarias a la moral y al derecho.
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
 
-Tal Resolución deberá estar debidamente fundada y motivada.
+La Autoridad Administrativa ante quien se tramite el Recurso de Revisión, acordará sobre la admisibilidad de las pruebas ofrecidas.
+
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
+
+Sólo podrá rechazar las pruebas propuestas por los interesados, cuando no fuesen ofrecidas conforme a derecho, no tengan relación con el asunto, sean improcedentes e innecesarias o contrarias a la moral y al derecho. Tal resolución deberá estar debidamente fundada y motivada.
 
 ###### Artículo 163.
 
@@ -2875,9 +3253,11 @@ La falta de actuación del recurrente por causas imputables a él por el termino
 
 Concluida la tramitación del Recurso y antes de dictar Resolución se pondrán las actuaciones a disposición de los interesados, por el termino de 5-cinco días hábiles para que en su caso, formulen alegatos, los que serán tomados en cuenta por la Autoridad competente al dictar la Resolución.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ABRIL DE 2013)</small>
+
 ###### Artículo 169.
 
-La Autoridad deberá resolver el Recurso de Reconsideración en un plazo no mayor de 5-cinco días naturales, posteriores al termino señalado en el Artículo anterior, en cualquiera de los siguientes sentidos:
+La Autoridad deberá resolver el Recurso de Revisión en un plazo no mayor de 15-quince días hábiles, posteriores al término señalado en el Artículo anterior, en cualquiera de los siguientes sentidos:
 
 I. Confirmar el acto impugnado;
 
@@ -2919,23 +3299,27 @@ I. Ante el superior inmediato de la Autoridad Administrativa que no haya resuelt
 
 II. Ante la propia Autoridad que corresponda al Ayuntamiento o al Gobernador del Estado.
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
+
 ###### Artículo 175.
 
-El Recurso de Queja deberá formularse por escrito con las formalidades y requisitos que se exigen para el Recurso de Reconsideración.
+El Recurso de Queja deberá formularse por escrito con las formalidades y requisitos que se exigen para el Recurso de Revisión.
 
 ###### Artículo 176.
 
 Presentado ante la Autoridad competente el escrito de Queja, ésta deberá resolver en término de 30-treinta días hábiles dictando el acuerdo correspondiente, o en su caso disponiendo se expida la Resolución omitida.
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
+
 ###### Artículo 177.
 
-En caso de que la Autoridad competente sea omisa y no notifique personalmente la respuesta tanto al Recurso de Reconsideración como al de Queja en el término indicado, se entenderá resuelto en favor del recurrente.
+En caso de que la Autoridad competente sea omisa y no notifique personalmente la respuesta tanto al Recurso de Revisión como al de Queja en el término indicado, se entenderá resuelto en favor del recurrente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE FEBRERO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ABRIL DE 2013)</small>
 
 ###### Artículo 178.
 
-Presentada una solicitud para cualquier trámite a que se refiere la presente Ley; sea de autorización de uso del suelo, cambio de uso de suelo, uso de edificación, proyecto de construcción, subdivisión, fusión, relotificación, parcelación, factibilidad y lineamientos, proyecto urbanístico, proyecto ejecutivo, rasantes,o (sic) autorización de ventas y que esté debidamente acompañada de toda la documentación requerida por este ordenamiento, la Autoridad competente deberá dar una respuesta a la misma en término máximo de 45-cuarenta y cinco días naturales contados a partir de la fecha en que se haya recibido la solicitud.
+Presentada una solicitud para cualquier trámite a que se refiere la presente Ley y, que esté debidamente acompañada de toda la documentación requerida por este ordenamiento, así como lo previsto por la Ley de Desarrollo Urbano del Estado, la Autoridad competente deberá dar una respuesta a la misma en término máximo de 45-cuarenta y cinco días naturales contados a partir de la fecha en que se haya recibido la solicitud.
 
 En caso de que la Autoridad competente sea omisa y no notifique personalmente la respuesta al trámite solicitado en el término indicado y siempre que no se involucre situaciones ilícitas ni sea contraria a la presente Ley, planes, programas u otras disposiciones de carácter general en materia de desarrollo urbano, ordenamiento territorial y asentamientos humanos; se considerará negada la solicitud planteada.
 
@@ -2975,11 +3359,11 @@ IV. La relación de los hechos que se denuncian, señalando las disposiciones ju
 
 V. Documentos que acrediten que es vecino o residente afectado del predio en cuestión
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
+
 ###### Artículo 181.
 
-Es obligación de la Autoridad competente hacer del conocimiento del denunciante sobre el trámite, resultado de la verificación de los hechos, medidas de seguridad impuestas y Resolución de la denuncia planteada, dentro de 30-treinta días hábiles siguientes: (sic)
-
-De no resolverse la denuncia se entenderá que se emite una Resolución negativa contra la cual podrá interponerse Recurso de Reconsideración previsto en este Reglamento o la demandan (sic) en Juicio Contencioso Administrativo.
+Es obligación de la Autoridad competente hacer del conocimiento del denunciante sobre el trámite, resultado de la verificación de los hechos, medidas de seguridad impuestas y Resolución de la denuncia planteada, dentro de 30-treinta días hábiles siguientes: De no resolverse la denuncia se entenderá que se emite una Resolución negativa contra la cual podrá interponerse Recurso de Revisión previsto en este Reglamento o la demandan en Juicio Contencioso Administrativo.
 
 ## TÍTULO X. DE LAS INFRACCIONES Y SANCIONES
 
@@ -2987,89 +3371,25 @@ De no resolverse la denuncia se entenderá que se emite una Resolución negativa
 
 ###### Artículo 182.
 
-Se consideran infracciones a la Ley, este Reglamento, los planes de desarrollo urbano municipal, de centros de población y parciales las siguientes:
-
-I. La contravención a las disposiciones contenidas en los Convenios que celebren las Autoridades en materia de Desarrollo Urbano, Ordenamiento Territorial y Asentamientos Humanos;
-
-II. Que el propietario o poseedor del predio objeto de división, lotificación, fraccionamiento o desarrollos sujetos al régimen de propiedad en condominio, incurran en las siguientes causales:
-
-a) Carezca de la aprobación del proyecto de traza de urbanización y licencia de obra;
-
-b) Construya distinto al tipo de fraccionamiento o desarrollo aprobado por la Secretaría;
-
-c) Carezca de la autorización de lotificación en los términos de la Ley y este Reglamento;
-
-d) Carezca del permiso de autorización de ventas correspondiente; o
-
-e) Carezca de la autorización de fraccionamientos o de desarrollos en condominio;
-
-III. Realice alguna construcción, instalación, demolición o excavación, sin contar con la debida autorización;
-
-IV. Realice sin permiso o autorización, en la vía pública, terreno de dominio público o afecto a un destino común; Construcciones, instalaciones, excavaciones, depósito de materiales o escombros, o cualquier otra obra, o acto que afecte sus funciones;
-
-V. Llevar a cabo la ejecución de obras o instalaciones de cualquier naturaleza en lugares expresamente prohibidos para ello;
-
-VI. Establecer o cambiar el uso de suelo o destino de un predio, inmueble o edificio, distinto a lo autorizado o al proyecto aprobado, sin la debida autorización de la Secretaría;
-
-VII. Incurrir en actos u obras referentes a un fraccionamiento sin contar con la aprobación del proyecto y la autorización respectiva y propiciar la ocupación irregular de esas áreas y predios; y
-
-VIII. Continuar ejerciendo los derechos derivados de un permiso o autorización al vencerse el término del mismo, sin haber obtenido su renovación.
-
-Quienes incurran en reiteración de conductas constitutivas de infracción, serán considerados reincidentes.
-
-> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2004)</small>
+(DEROGADO, P.O. 17 DE ABRIL DE 2013)
 
 ###### Artículo 183.
 
-Las Sanciones aplicables por las infracciones establecidas en el Artículo anterior son las siguientes:
+(DEROGADO, P.O. 17 DE ABRIL DE 2013)
 
-I. La Rescisión de Convenios, para el supuesto contemplado en la Fracción I y en su caso multas de 50 a 500 veces el salario mínimo prevaleciente en la zona económica;
+Artículo 183 BIS 1. (DEROGADO, P.O. 17 DE ABRIL DE 2013)
 
-II. La Suspensión o demolición de construcciones e instalaciones, para los supuestos contemplados en las Fracciones III, IV, V y en su caso, multas de 500 a 1,000 veces el salario mínimo prevaleciente en la zona económica;
-
-III. La Revocación de las licencias y permisos otorgados, cuando se incurra en el supuesto contemplado en la Fracción VI y en su caso multas de 1,000 a 2,000 veces el salario mínimo prevaleciente en la zona económica;
-
-IV. Multas de 250 a 2,000 veces el salario mínimo prevaleciente en la zona económica, conforme a lo dispuesto por la Ley y este Reglamento, en caso de incurrir en el supuesto que establecen las Fracciones VII y VIII;
-
-V. Las demás que señalen las disposiciones de carácter general que al efecto expida el Ayuntamiento;
-
-VI. De 500 veces a 1,000 veces de salario mínimo prevaleciente en la zona económica, cuando se ejecuten obras o instalaciones sin licencia o con una licencia cuyo contenido sea violatoria de los programas. En este caso se aplicará la sanción al promotor de la obra y al director responsable de obra;
-
-VII. En las Fusiones, subdivisiones, relotificaciones y parcelaciones ilegales de 1,000 a 2,000 veces el salario mínimo prevaleciente en la zona económica, al propietario de dicho terreno;
-
-VIII. A quienes no respeten las normas referentes al desarrollo urbano para las personas con discapacidad se les aplicarán las siguientes multas:
-
-De 20 a 40 veces de salario mínimo prevaleciente en la zona económica:
-
-a) A quien obstaculice la circulación peatonal o las rampas ubicadas en las esquinas, para su uso por las personas con discapacidad; y
-
-b) A quien ocupe las zonas de estacionamiento reservadas para su uso por las personas con discapacidad; y
-
-IX. A quien después de notificado por la Secretaría persista en la conducta violatoria se le aplicarán de 1,000 veces a 1,500 veces de salario mínimo prevaleciente en la zona económica, retirándosele la licencia que tenga de esta Secretaría.
-
-Podrán aplicarse las demás sanciones que se indican en la matriz de sanciones.
-
-> <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2004)</small>
-
-Artículo 183 BIS 1.
-
-> <small>N. DE E. VÉASE MATRIZ DE SANCIONES PECUNIARIAS EN EL P.O. DE 7 DE SEPTIEMBRE DE 2004, PÁGINAS DE LA 6 A LA 7.</small>
-
-> <small>N. DE E. REFORMAS A LA TABLA DE SANCIONES EN EL P.O. 23 DE ABRIL DE 2008, PÁGINAS DE LA 11 A LA 12.</small>
-
-*Las sanciones estan marcadas como cuotas de acuerdo al salario minimo vigente
-
-> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
 
 ###### Artículo 184.
 
-Corresponde a la Secretaría de Desarrollo Urbano y Obras Públicas, decretar e imponer las sanciones previstas en este Reglamento. Son sujetos pasivos responsables de la comisión de las infracciones y consecuentemente para la aplicación de las sanciones, el propietario o poseedor del inmueble, o bien el responsable de las obras que se lleven a cabo en el mismo, contra quienes se podrá emitir el mandamiento en los términos y procedimientos conducentes.
+Corresponde a la Secretaría de Desarrollo Urbano y Ecología, decretar e imponer las sanciones previstas en la Ley de Desarrollo Urbano del Estado de Nuevo León. Son sujetos pasivos responsables de la comisión de las infracciones y consecuentemente para la aplicación de las sanciones, el propietario o poseedor del inmueble, o bien el responsable de las obras que se lleven a cabo en el mismo, contra quienes se podrá emitir el mandamiento en los términos y procedimientos conducentes.
 
-> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
 
 ###### Artículo 185.
 
-La Secretaría de Tesorería y Finanzas, recibirá el pago de la sanción o en su caso ejercerá las acciones legales conducentes para hacer efectivo el cobro de la sanción impuesta.
+La Secretaría de Administración y Finanzas, recibirá el pago de la sanción o en su caso ejercerá las acciones legales conducentes para hacer efectivo el cobro de la sanción impuesta.
 
 ## TRANSITORIOS
 
@@ -3170,3 +3490,9 @@ EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITO
 P.O. 28 DE NOVIEMBRE DE 2012.
 
 ÚNICO.- El presente acuerdo surtirá efectos al momento de su aprobación y Publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE ABRIL DE 2013.
+
+Primero: Las presentes modificaciones de este Reglamento entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León y en la Gaceta Municipal.
+
+Segundo: Envíese para su publicación en el Periódico Oficial del Estado.
