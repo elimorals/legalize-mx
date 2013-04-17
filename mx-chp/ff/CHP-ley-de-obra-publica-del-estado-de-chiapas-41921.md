@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-obra-publica-del-estado-de-chiapas-41921"
 country: "mx"
 rank: "ley"
 publication_date: "2004-11-05"
-last_updated: "2012-08-29"
+last_updated: "2013-04-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 LEY DE OBRA PÚBLICA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE CHIAPAS, PUBLICADA EN EL P.O. DE FECHA 17 DE ABRIL DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2013 (ABROGADO).
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el viernes 5 de noviembre de 2004.
 
@@ -2274,3 +2276,15 @@ P.O. 29 DE AGOSTO DE 2012.
 Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE ABRIL DE 2013.
+
+Artículo Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se Abroga la Ley de Obra Pública del Estado de Chiapas, publicada en el Periódico Oficial número 267, mediante Decreto No. 249, de fecha 05 de noviembre de 2004. Así como las demás disposiciones que deriven de esta, que se hayan emitido con anterioridad a esta Ley o que se oponga a la misma; sin perjuicio de lo dispuesto en el artículo Cuarto Transitorio de este ordenamiento.
+
+Artículo Tercero.- El Ejecutivo del Estado y el Ayuntamiento de los municipios, en el ámbito de sus respectivas competencias, deberán emitir el Reglamento de esta Ley, en un plazo no mayor de sesenta días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+Artículo Cuarto.- Respecto a las obras que antes de la entrada en vigencia de esta Ley hayan iniciado el procedimiento de contratación, o bien, hayan sido adjudicadas o contratadas, se seguirán rigiendo por las disposiciones de la Ley de Obra Pública del Estado de Chiapas, a que se refiere el artículo Segundo Transitorio de esta Ley.
+
+Artículo Quinto.- La Secretaría Técnica de Infraestructura y Planeación, en coordinación con la Secretaría de Obra Pública; así como los municipios y los órganos especializados, deberán expedir respectivamente, el Reglamento Interno del Comité de Obra Pública según corresponda, en un término no mayor a sesenta días contados a partir de la entrada en vigencia del presente Decreto.
