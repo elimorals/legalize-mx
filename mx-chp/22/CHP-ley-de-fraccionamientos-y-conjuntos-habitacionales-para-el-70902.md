@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-fraccionamientos-y-conjuntos-habitacionales-para-el-7090
 country: "mx"
 rank: "ley"
 publication_date: "2009-10-21"
-last_updated: "2011-08-11"
+last_updated: "2013-04-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70902&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE FRACCIONAMIENTOS Y CONJUNTOS HABITACIONALES PARA EL ESTADO Y LOS MUNICIPIOS DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 21 de octubre de 2009.
 
@@ -129,29 +129,43 @@ XXIV. Relotificación: A la modificación de las dimensiones, de uno o más lote
 
 XXV. Sanciones: A las que se imponen a los infractores que transgreden las disposiciones previstas en esta Ley;
 
-XXVI. Secretaría: A la Secretaría de Infraestructura; y,
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2013)</small>
 
-XXVII. Subdivisión: A la partición de un terreno en lotes o fracciones que no requieran del trazo de una o más vías públicas.
+XXVI. Secretaría de Obra: A la Secretaría de Obra Pública.
+
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2013)</small>
+
+XXVII. Secretaría Técnica: A la Secretaría Técnica de Infraestructura y Planeación.
+
+> <small>(ADICIONADA, P.O. 17 DE ABRIL DE 2013)</small>
+
+XXVIII. Subdivisión: A la partición de un terrero en lotes o fracciones que no requieran del trazo de una o más vías públicas.
 
 ###### Artículo 5º.
 
 Las actividades normadas por la presente Ley, sólo podrán realizarse mediante las autorizaciones expresas otorgadas por el Municipio una vez que se hubieren llevado a cabo y verificado los pagos que señalan las leyes hacendarias y de ingresos correlativas del Estado y del Municipio.
 
-Los estudios y dictámenes para autorizar tales actividades se basarán en las normas contenidas en el Programa de Desarrollo Urbano Municipal o de centros de población. En caso de no existir, podrán solicitar la asesoría del Estado, a través de la Secretaría.
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
+
+Los estudios y dictámenes para autorizar tales actividades se basarán en las normas contenidas en el Programa de Desarrollo Urbano Municipal o de centros de población. En caso de no existir, podrán solicitar la asesoría del Estado, a través de la Secretaría Técnica.
 
 ### Capítulo II. De las Autoridades y sus Competencias
 
-###### Artículo 6º.
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
+
+###### Artículo 6°.
 
 Son autoridades competentes para aplicar esta Ley:
 
-I. El Gobernador del Estado;
+I. El Gobernador del Estado.
 
-II. La Secretaría;
+II. La Secretaría de Obra.
 
-III. El Municipio; y,
+III. La Secretaría Técnica.
 
-IV. Las demás autoridades estatales o municipales, que conforme a esta Ley y otros ordenamientos relacionados con la materia tengan atribuciones específicas en ese rubro.
+IV. El Municipio.
+
+V. Las demás autoridades estatales o municipales, que conforme a esta Ley y otros ordenamientos relacionados con la materia tengan atribuciones específicas en ese rubro.
 
 ###### Artículo 7º.
 
@@ -165,21 +179,33 @@ III. Celebrar acuerdos y convenios de coordinación con la Federación, los esta
 
 IV. Las demás que le confiere esta Ley.
 
-###### Artículo 8º.
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
 
-La aplicación de la presente Ley corresponde al Titular del Ejecutivo Estatal por conducto de la Secretaría. Sin embargo, podrá delegar las atribuciones que esta Ley le confiere a favor del funcionario o dependencia que éste señale.
+###### Artículo 8°.
 
-###### Artículo 9º.
+La aplicación de la presente Ley corresponde al Titular del Poder Ejecutivo del Estado, por conducto de la Secretaría de Obra y la Secretaría Técnica, en el ámbito de sus respectivas competencias. Sin embargo, podrá delegar las atribuciones que esta Ley le confiere a favor del funcionario o dependencia que este señale.
 
-Son atribuciones de la Secretaría las siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ABRIL DE 2013)</small>
+
+###### Artículo 9°.
+
+Son atribuciones de la Secretaría Técnica las siguientes:
 
 I. Coordinarse con las áreas municipales que correspondan, en las determinaciones sobre la provisión, uso, reservas y destinos de áreas y predios, en la materia de su competencia;
 
-II. Coordinarse y cooperar con las autoridades federales en la elaboración y ejecución de planes de desarrollo urbano;
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2013)</small>
+
+II. Coordinarse y cooperar con las autoridades federales en la elaboración de planes de desarrollo urbano.
 
 III. Proponer y gestionar los convenios o la expropiación en su caso, de los bienes inmuebles necesarios para cumplir con sus atribuciones en la materia; y,
 
 IV. Las demás que se le señalen en esta Ley y demás disposiciones relativas.
+
+> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2013)</small>
+
+###### Artículo 9° Bis.
+
+La Secretaría de Obra deberá coordinarse y cooperar con las autoridades federales en la ejecución de planes de desarrollo urbano.
 
 ###### Artículo 10.
 
@@ -229,9 +255,11 @@ XVII. Ordenar, imponer y ejecutar las medidas de seguridad y sanciones, así com
 
 XVIII. Las demás que les señale esta Ley y demás ordenamientos aplicables a la materia.
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
+
 ###### Artículo 13.
 
-Cuando los municipios, no cuenten con el área técnica adecuada para emitir las autorizaciones relativas a la ejecución de fraccionamientos o conjuntos habitacionales o, en su caso, éstos se encuentren fuera del área de estudio de los programas de desarrollo urbano o que causen impacto ambiental, deberán solicitar la intervención del Estado a través de la Secretaría, para obtener la opinión correspondiente.
+Cuando los municipios, no cuenten con el área técnica adecuada para emitir las autorizaciones relativas a la ejecución de fraccionamientos o conjuntos habitacionales o, en su caso, estos se encuentren fuera del área de estudio de los programas de desarrollo urbano o que causen impacto ambiental, deberán solicitar la intervención del Estado a través de la Secretaría Técnica, para obtener la opinión correspondiente.
 
 ## Título Segundo. De la División de Predios
 
@@ -349,9 +377,11 @@ IV. La infraestructura, equipamiento y servicios que requieran; y,
 
 V. El uso del suelo previsto en los programas de desarrollo urbano aplicables.
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
+
 ###### Artículo 22.
 
-Las especificaciones técnicas del proyecto, las obras de urbanización y las construcciones en los fraccionamientos, deberán ajustarse a lo dispuesto en esta Ley, la Ley de Desarrollo Urbano, en los programas de desarrollo urbano, Normas Oficiales Mexicanas, Reglamento de Construcción, así como, en los lineamientos técnicos que dicte la Secretaría o el Municipio, y demás leyes relativas a la materia.
+Las especificaciones técnicas del proyecto, las obras de urbanización y las construcciones en los fraccionamientos, deberán ajustarse a lo dispuesto en esta Ley, la Ley de Desarrollo Urbano, en los programas de desarrollo urbano, Normas Oficiales Mexicanas, Reglamento de Construcción, así como, en los lineamientos técnicos que dicte la Secretaría Técnica o el Municipio, y demás leyes relativas a la materia.
 
 ###### Artículo 23.
 
@@ -837,7 +867,9 @@ Lo referente a este Capítulo, se normará conforme a lo dispuesto en esta Ley, 
 
 Para los efectos de este Capítulo, se entenderá por conjunto habitacional, al grupo de viviendas o departamentos, sin perjuicio de que se desarrollen en uno o varios cuerpos y secciones, cualquiera que sea el régimen de propiedad y dotado de las obras necesarias de vialidad, equipamiento urbano, estacionamientos y otras.
 
-Corresponderá a los municipios la autorización de los conjuntos habitacionales, para tal efecto cuando así lo requiera podrá solicitar la asesoría del Estado a través de la Secretaría.
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
+
+Corresponderá a los municipios la autorización de los conjuntos habitacionales, para tal efecto cuando así lo requiera podrá solicitar la asesoría del Estado a través de la Secretaría Técnica.
 
 > <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2011)</small>
 
@@ -969,7 +1001,7 @@ En caso de la comercialización de las viviendas, con autorización parcial, est
 
 Por lo que correrá a cargo del fraccionador proporcionar a los usuarios los servicios antes mencionados en caso de falla, y el mantenimiento de los mismos hasta en tanto no obtenga del municipio la autorización para la comercialización total de las viviendas que integran el conjunto habitacional.
 
-Para el caso especifico del servicio de alumbrado público, mantenimiento de la red de alumbrado público y el mantenimiento de las vialidades, será responsabilidad del fraccionador en tanto no se realice la municipalización.
+Para el caso específico del servicio de alumbrado público, mantenimiento de la red de alumbrado público y el mantenimiento de las vialidades, será responsabilidad del fraccionador en tanto no se realice la municipalización.
 
 ## Título Tercero. De las Obras de Urbanización
 
@@ -1207,7 +1239,9 @@ El fraccionador quedará obligado a pagar el importe de la superficie que se req
 
 En el caso de que no se cuente con la anuencia del dueño del predio, el municipio, a petición del fraccionador, dará vista de la solicitud de este último al primero, para que en un plazo de quince días hábiles, exponga lo que a su derecho convenga. Si el dueño del predio manifiesta su conformidad se estará a lo dispuesto en el párrafo primero de este artículo.
 
-En caso de que el dueño del predio no diera su anuencia, dentro de los quince días hábiles siguientes a la fecha en que presentara su inconformidad por escrito o del vencimiento del plazo sin elaborar manifestación alguna de su parte, el municipio citará al fraccionador y al dueño del predio a la celebración de una junta de avenimiento. En caso de que las partes no llegaran a un arreglo, el municipio expedirá a costa del fraccionador, copia certificada del expediente integrado con este motivo y lo remitirá a la Secretaría, para los fines legales correspondientes.
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
+
+En caso de que el dueño del predio no diera su anuencia, dentro de los quince días hábiles siguientes a la fecha en que presentara su inconformidad por escrito o del vencimiento del plazo sin elaborar manifestación alguna de su parte, el municipio citará al fraccionador y al dueño del predio a la celebración de una junta de avenimiento. En caso de que las partes no llegaran a un arreglo, el municipio expedirá a costa del fraccionador, copia certificada del expediente integrado con este motivo y lo remitirá a la Secretaría Técnica, para los fines legales correspondientes.
 
 ## Título Cuarto. Derechos y Obligaciones
 
@@ -1299,9 +1333,11 @@ El municipio, dentro del ámbito de su competencia, tendrán (sic) la facultad d
 
 La autoridad competente o el municipio podrá (sic) solicitar el auxilio de la fuerza pública para efectuar la visita de verificación, cuando alguna o algunas personas obstaculicen o se opongan a la práctica de la diligencia.
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
+
 ###### Artículo 130.
 
-El Gobierno del Estado, a través de la Secretaría y el gobierno municipal, podrán celebrar entre ellos, convenios de coordinación, para realizar conjuntamente visitas de verificación para el cumplimiento de las disposiciones legales de la materia.
+El Gobierno del Estado, a través de la Secretaría de Obra o la Secretaría Técnica, en el ámbito de sus respectivas competencias, y el Gobierno Municipal, podrán celebrar entre ellos, convenios de coordinación para realizar conjuntamente visitas de verificación para el cumplimiento de las disposiciones legales de la materia.
 
 ## Título Sexto. Infracciones y Sanciones
 
@@ -1410,5 +1446,11 @@ Juan Sabines Guerrero, Gobernador del Estado.- Noé Castañón León, Secretario
 P.O. 11 DE AGOSTO DE 2011.
 
 Artículo Primero.- El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE ABRIL DE 2013.
+
+Artículo Primero.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
 
 Artículo Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
