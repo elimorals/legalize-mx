@@ -4,7 +4,7 @@ identifier: "NAY-ley-que-establece-las-bases-y-lineamientos-para-la-84346"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-17"
-last_updated: "2011-12-17"
+last_updated: "2013-04-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84346&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY QUE ESTABLECE LAS BASES Y LINEAMIENTOS PARA LA DELIMITACIÓN TERRITORIAL DEL ESTADO DE NAYARIT Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2013.
 
 Ley publicada en la Sección Sexta del Periódico Oficial del Estado de Nayarit, el sábado 17 de diciembre de 2011.
 
@@ -43,9 +43,11 @@ Ley que Establece las Bases y Lineamientos para la Delimitación Territorial del
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
+
 ###### ARTÍCULO 1.
 
-La presente Ley es de orden público y tiene por objeto regular lo dispuesto por los artículos 2, párrafo segundo, 4 y 5 de la Constitución Política del Estado Libre y Soberano de Nayarit en materia de delimitación territorial del Estado de Nayarit y sus municipios.
+La presente Ley es de orden público y tiene por objeto regular lo dispuesto por los artículos 2, párrafo segundo, 4, 5 y 91 de la Constitución Política del Estado Libre y Soberano de Nayarit en materia de delimitación territorial del Estado de Nayarit y sus municipios.
 
 ###### ARTÍCULO 2.
 
@@ -55,19 +57,23 @@ El Estado de Nayarit podrá convenir con las Entidades Federativas colindantes s
 
 Los municipios pueden arreglar entre si, a través de Convenios, sus respectivos límites, siendo necesaria la aprobación del Congreso del Estado, misma que se dará en los términos del presente ordenamiento.
 
-Cuando los municipios no logren acordar sus límites por Convenio, podrán utilizar la vía contenciosa ante el Congreso del Estado, esta se substanciará de conformidad con las disposiciones de la presente Ley.
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
+
+Cuando los municipios no logren acordar sus límites por Convenio, podrán utilizar la vía contenciosa ante la Sala Constitucional-Electoral, esta se substanciará de conformidad con las disposiciones de la presente Ley.
+
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
 
 ###### ARTÍCULO 4.
 
-El Congreso del Estado es la autoridad competente para conocer y resolver sobre los Convenios o conflictos de límites a que se refieren las fracciones III y IV del artículo 47 de la Constitución Política del Estado Libre y Soberano de Nayarit.
-
-En caso de considerarlo necesario, el Poder Legislativo del Estado de Nayarit podrá solicitar el apoyo del Instituto Nacional de Estadística y Geografía con base en la Ley del Sistema Nacional de Información Estadística y Geográfica, para implementar lo ordenado en la presente Ley en materia de delimitación territorial.
+En caso de considerarlo necesario, el Poder Legislativo del Estado de Nayarit o la Sala Constitucional-Electoral podrán solicitar el apoyo del Instituto Nacional de Estadística y Geografía con base en la Ley del Sistema Nacional de Información Estadística y Geográfica, el Instituto Catastral y Registral del Estado de Nayarit o las Direcciones Catastrales respectivas de los municipios del Estado, para implementar lo ordenado en la presente Ley en materia de delimitación territorial.
 
 ###### ARTÍCULO 5.
 
 Para los efectos de este ordenamiento se entenderá por:
 
-I. Actor, al Ayuntamiento o Ayuntamientos que soliciten la intervención del Congreso en la vía contenciosa;
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2013)</small>
+
+I. Actor, al Ayuntamiento o Ayuntamientos que soliciten la intervención de la Sala Constitucional-Electoral en la vía contenciosa;
 
 II. Demandado, al Ayuntamiento o Ayuntamientos señalados como contraparte en el conflicto limítrofe en la vía contenciosa;
 
@@ -75,13 +81,17 @@ III. Congreso, al H. Congreso del Estado de Nayarit;
 
 IV. Diputación, a la Diputación Permanente del H. Congreso del Estado de Nayarit;
 
-V. Comisión Dictaminadora, a la Comisión de Gobernación y Puntos Constitucionales del Congreso del Estado;
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2013)</small>
+
+V. Sala Constitucional-Electoral, Sala Constitucional-Electoral del Tribunal Superior de Justicia del Estado;
 
 VI. Las partes, a los Ayuntamientos involucrados en el conflicto de límites o Convenio de límites;
 
 VII. Convenio, documento mediante el cual dos o más Ayuntamientos acuerdan, con aprobación de la mayoría de los integrantes del Congreso, la delimitación de sus territorios en los términos de esta Ley;
 
-VIII. Resolución del Congreso, decreto que aprueba la mayoría calificada del Congreso para resolver el conflicto de límites territoriales entre municipios;
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2013)</small>
+
+VIII. Magistrado Instructor, Magistrado integrante de la Sala Constitucional-Electoral designado por el Presidente de ésta para resolver de la demanda de delimitación territorial, planteada en vía contenciosa;
 
 IX. Unidad, al equivalente a un día de salario mínimo general vigente en la entidad;
 
@@ -141,11 +151,15 @@ El Congreso discutirá y votará el dictamen en los términos de la Ley Orgánic
 
 ### CAPÍTULO III. DE LA RESOLUCION DE CONFLICTOS DE DELIMITACIÓN TERRITORIAL ENTRE MUNICIPIOS POR VIA CONTENCIOSA
 
-#### SECCIÓN PRIMERA. DE LA SOLICITUD DE INTERVENCION DEL CONGRESO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE ABRIL DE 2013)</small>
+
+#### SECCIÓN PRIMERA. DE LA SOLICITUD DE INTERVENCION DE LA SALA CONSTITUCIONAL-ELECTORAL
+
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
 
 ###### ARTÍCULO 10.
 
-Cuando no sea posible resolver conflictos de límites entre municipios por Convenio, cualquiera de ellos podrá demandar la intervención del Congreso para que resuelva de manera contenciosa y dictamine al respecto.
+Cuando no sea posible resolver conflictos de límites entre municipios por Convenio, cualquiera de ellos podrá acudir ante la Sala Constitucional-Electoral para que resuelva de la demanda planteada.
 
 ###### ARTÍCULO 11.
 
@@ -165,9 +179,11 @@ VI. Firmas autógrafas de los servidores públicos facultados para representar a
 
 VII. Los demás aspectos que se consideren convenientes.
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
+
 ###### ARTÍCULO 12.
 
-La demanda se hará llegar al Congreso mediante oficio suscrito por el Presidente, anexándole copia certificada del acta de la sesión de cabildo en la que se haya discutido el conflicto de límites y se haya aprobado por la mayoría calificada del Ayuntamiento optar por la vía contenciosa, debiendo acompañar las pruebas que estimen necesarias para establecer los límites intermunicipales.
+La demanda se presentará ante la Sala Constitucional-Electoral mediante oficio suscrito por el Presidente municipal, anexándole copia certificada del acta de la sesión de cabildo en la que se haya discutido el conflicto de límites y se haya aprobado por la mayoría calificada del Ayuntamiento optar por la vía contenciosa, debiendo acompañar las pruebas que estimen necesarias para establecer los límites intermunicipales.
 
 ###### ARTÍCULO 13.
 
@@ -181,11 +197,15 @@ I. Comenzarán a correr al día siguiente al en que surta sus efectos la notific
 
 II. Se contarán sólo los días hábiles, y
 
-III. No correrán en los días en que se suspendan oficialmente las labores en el Congreso. En este caso, la comisión dictaminadora oportunamente formulará la prevención correspondiente, que deberá fijarse en los estrados y en la página oficial de internet del Congreso.
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2013)</small>
+
+III. No correrán en los días en que se suspendan oficialmente las labores en la Sala Constitucional-Electoral.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ABRIL DE 2013)</small>
 
 ###### ARTÍCULO 15.
 
-Las comunicaciones oficiales que deban girarse para la resolución de los conflictos materia de esta Ley, se entregarán personalmente mediante notificación a cargo del personal de la Secretaría General del Congreso o mediante correo en pieza certificada con acuse de recibo. En casos urgentes, podrá ordenarse que la notificación se haga por vía telegráfica.
+Las comunicaciones oficiales que deban girarse para la resolución de los conflictos materia de esta Ley, se entregarán personalmente mediante notificación a cargo del personal de la Sala Constitucional-Electoral o mediante correo en pieza certificada con acuse de recibo. En casos urgentes, podrá ordenarse que la notificación se realice por vía telegráfica.
 
 Las notificaciones a las partes se entenderán con el Presidente Municipal o el Síndico del Ayuntamiento respectivo, y la primera de ellas deberá ser personal.
 
@@ -199,21 +219,27 @@ Las partes estarán obligadas a recibir los oficios de notificación que se les 
 
 Las notificaciones surtirán efectos al día siguiente al en que hubieren sido practicadas.
 
-Las partes en su primer escrito deberán señalar domicilio en la Capital del Estado para recibir toda clase de notificaciones. De no hacerlo así, se les notificará por medio de estrados que estarán ubicados en las instalaciones del Congreso.
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
+
+Las partes en su primer escrito deberán señalar domicilio en la Capital del Estado para recibir toda clase de notificaciones. De no hacerlo así, se les notificará por medio de estrados.
 
 Las notificaciones que no fueren hechas en la forma establecida en esta Ley serán nulas.
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
+
 ###### ARTÍCULO 18.
 
-Las comunicaciones que las partes dirijan al Congreso deberán entregarse personalmente en la Secretaria General, con su titular o con el personal respectivo, quienes en todo caso deberán sellar los escritos y señalar claramente el día y hora de recibo, con la mención de si se reciben o no documentos anexos.
+Las comunicaciones que las partes dirijan a la Sala Constitucional-Electoral deberán entregarse personalmente, en todo caso se deberán sellar los escritos y señalar claramente el día y hora de recibo, con la mención de si se reciben o no documentos anexos.
 
-Las promociones de término podrán presentarse fuera del horario de labores, ante el Secretario General o ante la persona designada por éste, en el domicilio señalado en los estrados.
+Las demandas o promociones sujetas a término podrán presentarse fuera del horario de labores, ante la Secretaría General de Acuerdos del Tribunal Superior de Justicia o ante la oficina o persona designada por ésta.
+
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
 
 ###### ARTÍCULO 19.
 
-Las partes deberán comparecer ante el Congreso por conducto del Presidente Municipal o el Síndico, en su caso, ambos podrán acreditar delegados comunes por medio de oficio para que hagan promociones, concurran a las audiencias y en ellas rindan pruebas, formulen alegatos y promuevan los incidentes y recursos previstos en esta Ley.
+Las partes deberán comparecer ante la Sala Constitucional-Electoral por conducto del Presidente Municipal o el Síndico, en su caso, ambos podrán acreditar delegados comunes por medio de oficio para que hagan promociones, concurran a las audiencias y en ellas rindan pruebas, formulen alegatos y lleven a cabo los procedimientos previstos en esta Ley.
 
-A falta de disposición expresa en la presente Ley en materia procedimental, se estará supletoriamente a las prevenciones del Código de Procedimientos Civiles del Estado de Nayarit.
+A falta de disposición expresa en la presente Ley en materia procedimental, atenderán supletoriamente las prevenciones de la Ley de Control Constitucional del Estado de Nayarit y el Código de Procedimientos Civiles del Estado de Nayarit.
 
 #### SECCIÓN SEGUNDA. DE LA IMPROCEDENCIA Y DEL SOBRESEIMIENTO
 
@@ -241,97 +267,137 @@ IV. Por Convenio entre las partes que acredite que ha dejado de existir el acto 
 
 #### SECCIÓN TERCERA. DE LA INSTRUCCIÓN
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
+
 ###### ARTÍCULO 22.
 
-Recibida la demanda, la Secretaría General del Congreso la turnará de inmediato al Presidente del Congreso o de la Diputación, en su caso, para que éste convoque a una sesión, dentro de los cinco días siguientes a su recepción. En ella, el Congreso o la Diputación, se dará por informado y turnará el asunto a la Comisión Dictaminadora.
+Recibida la demanda, el Presidente de la Sala Constitucional-Electoral designará, según el turno que corresponda, al magistrado instructor a fin de que ponga el proceso en estado de resolución.
+
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
 
 ###### ARTÍCULO 23.
 
-La comisión dictaminadora examinará ante todo el escrito de demanda y, si encontrare motivo manifiesto e indudable de improcedencia, lo desechará de plano.
+El magistrado instructor examinará el escrito de demanda y, si encontrare motivo manifiesto e indudable de improcedencia, lo desechará de plano.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ABRIL DE 2013)</small>
 
 ###### ARTÍCULO 24.
 
-Admitida la demanda, la comisión dictaminadora, ordenará emplazar a la parte demandada, para que dentro del término de treinta días presente su contestación.
+Admitida la demanda, el magistrado instructor, ordenará emplazar a la parte demandada, para que dentro del término de treinta días presente su contestación.
 
 Al contestar la demanda, la parte demandada podrá, en su caso, reconvenir al actor, aplicándose al efecto lo dispuesto en esta Ley para la demanda y contestación.
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
+
 ###### ARTÍCULO 25.
 
-El actor podrá ampliar su demanda dentro de los quince días siguientes al de la contestación, o hasta antes de que la comisión dictaminadora concluya el proyecto de dictamen resolutivo, si apareciere un hecho superveniente. La ampliación de la demanda y su contestación se tramitará conforme a lo previsto para la demanda y la contestación.
+El actor podrá ampliar su demanda dentro de los quince días siguientes al de la contestación, o hasta antes de la fecha de cierre de instrucción si apareciere un hecho superveniente. La ampliación de la demanda y su contestación se tramitará conforme a lo previsto para la demanda y la contestación.
+
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
 
 ###### ARTÍCULO 26.
 
-Si los escritos de demanda, contestación, reconvención o ampliación fueren obscuros o irregulares, la Comisión Dictaminadora prevendrá a los promoventes para que subsanen las irregularidades dentro del plazo de cinco días contados a partir del día siguiente en que surta efectos la notificación de dicha prevención.
+Si los escritos de demanda, contestación, reconvención o ampliación fueren obscuros o irregulares, el magistrado instructor prevendrá a los promoventes para que subsanen las irregularidades dentro del plazo de cinco días contados a partir del día siguiente en que surta efectos la notificación de dicha prevención.
 
 ###### ARTÍCULO 27.
 
 La falta de contestación de la demanda o, en su caso, de la reconvención, dentro del plazo respectivo, hará presumir como ciertos los hechos que se hubieren señalado en ellas, salvo prueba en contrario, siempre que se trate de hechos directamente imputados al actor o al demandado, según corresponda.
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
+
 ###### ARTÍCULO 28.
 
-Habiendo transcurrido el plazo para contestar la demanda y, en su caso, su ampliación o contestación a la reconvención, la Comisión Dictaminadora señalará fecha para la audiencia de ofrecimiento de pruebas, que deberá verificarse dentro de los quince días siguientes al día en que hayan transcurrido los plazos antes señalados. La Comisión Dictaminadora podrá ampliar el término de celebración de la audiencia, cuando la importancia y trascendencia del asunto lo amerite.
+Habiendo transcurrido el plazo para contestar la demanda y, en su caso, su ampliación o contestación a la reconvención, el magistrado instructor señalará fecha para la audiencia de ofrecimiento de pruebas, que deberá verificarse dentro de los quince días siguientes al día en que hayan transcurrido los plazos antes señalados. El magistrado instructor podrá ampliar el término de celebración de la audiencia, cuando la importancia y trascendencia del asunto lo amerite.
+
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
 
 ###### ARTÍCULO 29.
 
-Las partes podrán ofrecer todo tipo de pruebas, excepto la confesional y aquellas que sean contrarias a derecho. En cualquier caso, corresponderá a la Comisión Dictaminadora desechar de plano aquellas pruebas que no guarden relación con la controversia.
+Las partes podrán ofrecer todo tipo de pruebas, excepto la confesional y aquellas que sean contrarias a derecho. En cualquier caso, corresponderá al magistrado instructor desechar de plano aquellas pruebas que no guarden relación con la controversia.
+
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
 
 ###### ARTÍCULO 30.
 
-Las pruebas deberán desahogarse en un plazo no mayor de noventa días, excepto la documental, que podrá ofrecerse y presentarse en la audiencia final, sin perjuicio de que la Comisión Dictaminadora tenga por ofrecidas en tiempo las que se hayan acompañado a la demanda, contestación, ampliación o reconvención, en su caso. El plazo señalado en el presente artículo, podrá ampliarse por la Comisión Dictaminadora por un término igual, cuando la naturaleza de las pruebas requiera de mayor evaluación.
+Las pruebas deberán desahogarse en un plazo no mayor de noventa días, excepto la documental, que podrá ofrecerse y presentarse en la audiencia final, sin perjuicio de que el magistrado instructor tenga por ofrecidas en tiempo las que se hayan acompañado a la demanda, contestación, ampliación o reconvención, en su caso. El plazo señalado en el presente artículo, podrá ampliarse por el magistrado instructor por un término igual, cuando la naturaleza de las pruebas requiera de mayor evaluación.
 
 ###### ARTÍCULO 31.
 
 La prueba pericial deberá ofrecerse exhibiendo el cuestionario para los peritos.
 
-Al promoverse esta prueba, la Comisión Dictaminadora aprobará a los peritos propuestos por las partes y designará a los del Congreso. Correrá a cargo de la parte oferente el pago de los peritos designados por el Congreso; si ambas partes la ofrecieron, cada una aportará el 50% del pago respectivo. Estos deberán estar acreditados en la lista de los reconocidos por el Tribunal Superior de Justicia del Estado de Nayarit, o en caso de que no existan peritos calificados en la lista mencionada, deberán acreditar su experiencia en el arte u oficio que sea de su dominio.
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
+
+Al promoverse esta prueba, el magistrado instructor aprobará al perito o peritos propuestos por las partes y designará al o los que considere pertinentes en caso que el dictamen presentado por las partes sea discordante. Correrá a cargo de la parte oferente el pago de los peritos designados por el magistrado instructor; si ambas partes la ofrecieron, cada una aportará el 50% del pago respectivo. Estos deberán estar acreditados en la lista de los reconocidos por el Tribunal Superior de Justicia del Estado de Nayarit, o en caso de que no existan peritos calificados en la lista mencionada, deberán acreditar su experiencia en el arte u oficio que sea de su dominio.
+
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
 
 ###### ARTÍCULO 32.
 
-Hasta en tanto no se hubiere declarado el cierre de instrucción respectivo, la Comisión Dictaminadora podrá ordenar el desahogo de pruebas para mejor proveer. Asimismo, la Comisión Dictaminadora podrá requerir a las partes para que proporcionen los informes o aclaraciones que estime necesarios para la mejor resolución del asunto.
+Hasta en tanto no se hubiere declarado el cierre de instrucción respectivo, el magistrado instructor podrá ordenar el desahogo de pruebas para mejor proveer. Asimismo, el magistrado instructor podrá requerir a las partes para que proporcionen los informes o aclaraciones que estime necesarios para la mejor resolución del asunto.
+
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
 
 ###### ARTÍCULO 33.
 
-Concluida la instrucción, la Comisión Dictaminadora señalará fecha para la audiencia final de alegatos y presentación de pruebas documentales, que deberá verificarse dentro de los treinta días siguientes al día en que se declare concluida aquella.
+Concluida la instrucción, el magistrado instructor señalará fecha para la audiencia final de alegatos y presentación de pruebas documentales, que deberá verificarse dentro de los treinta días siguientes al día en que se declare concluida aquella.
 
 ###### ARTÍCULO 34.
 
 La audiencia final se celebrará con o sin la asistencia de las partes o de sus representantes legales. Abierta la audiencia se procederá a recibir por su orden, las pruebas documentales y los alegatos por escrito de las partes.
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
+
 ###### ARTÍCULO 35.
 
-Concluida la audiencia final de alegatos y presentación de pruebas documentales, la Comisión Dictaminadora en un plazo no mayor de cuarenta y cinco días, que comenzará a correr a partir del día siguiente de la audiencia final, procederá a la elaboración del dictamen correspondiente, en vista de las constancias del procedimiento.
+Concluida la audiencia final de alegatos y presentación de pruebas documentales, el magistrado instructor en un plazo no mayor de cuarenta y cinco días, que comenzará a contar a partir del día siguiente de la audiencia final, procederá a elaborar el proyecto de sentencia para ponerla a consideración de la Sala Constitucional-Electoral en términos de los previsto por esta Ley.
 
-###### ARTÍCULO 36
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
 
-En cualquier etapa de la instrucción y hasta la conclusión del plazo a que se refiere al artículo anterior, las partes podrán convenir la solución del conflicto limítrofe. Para tal efecto, comunicarán por escrito su decisión a la Comisión Dictaminadora, la cual suspenderá el trámite correspondiente. En tal caso, se procederá en los términos previstos por los artículos 6, 7, 8 y 9 de la presente Ley.
+###### ARTÍCULO 36.
 
-#### SECCIÓN CUARTA. DEL DICTAMEN Y LA RESOLUCION
+En cualquier etapa de la instrucción y hasta la conclusión del plazo a que se refiere al artículo anterior, las partes podrán convenir la solución del conflicto limítrofe. Para tal efecto, comunicarán por escrito su decisión al magistrado instructor, el cual suspenderá el trámite correspondiente. En tal caso, se procederá en los términos previstos por los artículos 6, 7, 8 y 9 de la presente Ley.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE ABRIL DE 2013)</small>
+
+#### SECCIÓN CUARTA. DE LA SENTENCIA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ABRIL DE 2013)</small>
 
 ###### ARTÍCULO 37.
 
-El dictamen deberá contener, además de los elementos previstos en el Reglamento, los siguientes:
+La sentencia que emita la Sala Constitucional-Electoral deberá contener como elementos mínimos los siguientes:
 
 I. El señalamiento breve y preciso del acto objeto de la controversia y, en su caso, la apreciación de las pruebas conducentes a tenerlo o no por demostrado;
 
-II. La resolución deberá considerar los alcances y efectos del dictamen, fijando con precisión, en su caso, los órganos obligados a cumplirla; el acto o actos respecto de los cuales opere; la mención precisa de los límites, de conformidad con lo dispuesto en el artículo 7, fracciones III y IV, de esta Ley; y todos aquellos elementos necesarios para su plena eficacia en el ámbito que corresponda, y
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2013)</small>
+
+II. Deberá considerar los alcances y efectos de los resolutivos, fijando con precisión, en su caso, los órganos obligados a cumplirla; el acto o actos respecto de los cuales opere; la mención precisa de los límites, de conformidad con lo dispuesto en el artículo 7, fracciones III y IV de esta Ley; y todos aquellos elementos necesarios para su plena eficacia en el ámbito que corresponda, y
 
 III. En su caso, el término en el que el demandado debe realizar el cumplimiento de la resolución.
 
+> <small>(REFORMADO Y REUBICADO, P.O. 17 DE ABRIL DE 2013)</small>
+
 ###### ARTÍCULO 38.
 
-Los límites que no han sido reconocidos mediante decreto del Congreso de la Unión, o por el Congreso del Estado de Nayarit, estarán sujetos a la determinación oficial, apegándose en todo momento a la Constitución general y a las resoluciones que recaigan al efecto por las autoridades competentes, cuidando en todo momento el interés del Estado de Nayarit, mediante el siguiente procedimiento:
+Las resoluciones deberán notificarse a más tardar el día siguiente al en que se hubiesen pronunciado, mediante publicación en estrados o por oficio entregado en el domicilio de las partes según sea el caso, por conducto del actuario o mediante correo en pieza certificada con acuse de recibo, o por medios electrónicos, cuando así lo señalen las partes.
 
-I. El H. Congreso del Estado de Nayarit, solicitará al Instituto Nacional de Estadística y Geografía con fundamento en el artículo 65 fracción I y demás aplicables de la Ley del Sistema Nacional de Información Estadística y Geográfica, que practique un deslinde de los limites que no han sido definidos, considerando para tal efecto la cartografía histórica de que se disponga, cuando menos la tres últimas versiones del Marco Geoestadístico Nacional, así como los usos y costumbres, estableciendo las referencias y coordinadas aplicables para la delimitación territorial;
+### CAPÍTULO IV. DE LA DELIMITACIÓN TERRITORIAL DEL ESTADO DE NAYARIT
+
+> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2013)</small>
+
+###### ARTÍCULO 39.
+
+Los límites que no han sido reconocidos mediante decreto del Congreso de la Unión, sentencia de la Suprema Corte de Justicia de la Nación, o por el Congreso del Estado de Nayarit, estarán sujetos a la determinación oficial, apegándose en todo momento a la Constitución general y a las resoluciones que recaigan al efecto por las autoridades competentes, cuidando en todo momento el interés del Estado de Nayarit, mediante el siguiente procedimiento:
+
+I. El H. Congreso del Estado de Nayarit, solicitará al Instituto Nacional de Estadística y Geografía con fundamento en el artículo 65 fracción I y demás aplicables de la ley del Sistema Nacional de Información Estadística y Geográfica, que practique un deslinde de los límites que no han sido definidos, considerando para tal efecto la cartografía histórica de que se disponga, cuando menos la tres últimas versiones del Marco Geoestadístico Nacional, así como los usos y costumbres, estableciendo las referencias y coordinadas aplicables para la delimitación territorial;
 
 II. El Titular del Poder Ejecutivo, por conducto de la dependencia que designe, hará acopio de información histórica que pueda servir de referencia para encontrar antecedentes respecto de la delimitación territorial del Estado de Nayarit, antes y después de su constitución como entidad federativa así como cualquier prueba que pueda servir de soporte para la definición de sus límites territoriales;
 
 III. Una vez definida la propuesta de linderos, el Titular del Poder Ejecutivo, con la autorización del H. Congreso del Estado, solicitará a los estados vecinos que inicien un procedimiento para lograr un convenio de delimitación territorial de conformidad a lo dispuesto por el artículo 46 de la Constitución Política de los Estados Unidos Mexicanos, mismo que de lograrse deberá ser ratificado por el Poder Legislativo del Estado de Nayarit, quien emitirá el decreto correspondiente que modifique y registre tal información en la Ley conducente, y
 
-IV. Para efecto de comparecer ante el Senado en términos de lo previsto en los artículos 46 párrafo segundo y 76, fracción XI de la Constitución Política de los Estados Unidos Mexicanos, el Titular del Poder Ejecutivo del Estado deberá contar con la información prevista en las fracciones I y II del presente artículo.
+IV. Para efecto de comparecer ante la Suprema Corte de Justicia de la Nación en términos de lo previsto en los artículos 46 y 105 fracción I de la Constitución Política de los Estados Unidos Mexicanos, el Titular del Poder Ejecutivo del Estado deberá contar con la información prevista en las fracciones I y II del presente artículo.
 
 T R A N S I T O R I O S
-
-### CAPÍTULO IV. DE LA DELIMITACIÓN TERRITORIAL DEL ESTADO DE NAYARIT
 
 ###### ARTÍCULO PRIMERO.
 
@@ -350,3 +416,9 @@ D A D O en la Sala de Sesiones "Lic. Benito Juárez García" recinto oficial del
 Dip. Armando García Jiménez, Presidente.- Rúbrica.- Dip. Miguel Angel Mú Rivera, Secretario.- Rúbrica.- Dip. Miguel Ángel Arce Montiel, Secretario.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Articulo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit en Tepic su capital, a los dieciseis días del mes de diciembre del año dos mil once.- ROBERTO SANDOVAL CASTAÑEDA.- Rúbrica.- El Secretario General de Gobierno, Lic. Jose Trinidad Espinoza Vargas.- Rúbrica
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 17 DE ABRIL DE 2013.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
