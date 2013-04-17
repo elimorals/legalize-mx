@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-anuncios-del-municipio-de-santa-catarina-58124"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-12-17"
-last_updated: "2007-12-17"
+last_updated: "2013-04-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58124&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "NLE"
 
 REGLAMENTO DE ANUNCIOS DEL MUNICIPIO DE SANTA CATARINA, N. L
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO DE ANUNCIOS DEL MUNICIPIO DE SANTA CATARlNA, N. L., PUBLICADO EN EL P.O. DE 17 DE ABRIL DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 17 de diciembre de 2007.
 
@@ -844,3 +846,15 @@ PRESIDENTE MUNICIPAL
 LIC. GABRIEL ALBERTO NAVARRO RODRÍGUEZ
 
 SECRETARIO DEL AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 17 DE ABRIL DE 2013.
+
+PRIMERO. Se abroga el Reglamento de Anuncios para el Municipio de Santa Catarina, Nuevo León, publicado en el Periódico Oficial de fecha 17 de Diciembre del año 2007.
+
+SEGUNDO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+TERCERO. Las solicitudes que se encuentren en trámite al entrar en vigencia el presente Reglamento, se regirán por las normas y disposiciones vigentes en el momento en que se presentó la solicitud, salvo que el interesado manifieste por escrito su consentimiento para que le sean aplicadas las disposiciones previstas por este Reglamento.
+
+CUARTO. En el supuesto de que la Secretaría de Desarrollo Urbano y Ecología, encargada de la aplicación y vigilancia del cumplimiento de este Reglamento, cambiara su denominación, las atribuciones y responsabilidades que actualmente tiene conferidas ésta, se entenderán que son competencia de aquella a la que se le haya asignado la nueva denominación, o en su caso de la que expresamente disponga el Reglamento Orgánico de la Administración Pública Municipal de Santa Catarina, Nuevo León.
