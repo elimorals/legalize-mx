@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-concesiones-de-servicios-e-infraestructura-publica-56573
 country: "mx"
 rank: "ley"
 publication_date: "2007-05-16"
-last_updated: "2007-10-24"
+last_updated: "2013-04-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56573&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CHP"
 ---
 # LEY DE CONCESIONES DE SERVICIOS E INFRAESTRUCTURA PUBLICA PARA EL ESTADO DE CHIAPAS
 
-LEY DE CONCESIONES DE SERVICIOS E INFRAESTRUCTURA PUBLICA PARA EL ESTADO DE CHIAPAS
+LEY DE CONCESIONES DE SERVICIOS E INFRAESTRUCTURA PÚBLICA PARA EL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE OCTUBRE DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2013.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 16 de mayo de 2007.
 
@@ -65,7 +65,9 @@ Concesión: Acto administrativo discrecional, del Ejecutivo del Estado o de los 
 
 Servicio Público: Actividad de utilidad pública que tienda a satisfacer necesidades de carácter colectivo en forma permanente, regular, continua y uniforme previa determinación de las condiciones técnicas y económicas en que deba proporcionarse a fin de asegurar su eficiencia y eficacia.
 
-Secretaría: Secretaría de Obras Públicas
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2013)</small>
+
+Secretaría: Secretaría Técnica de Infraestructura y Planeación.
 
 Dependencia Municipal: Secretaría o unidad administrativa dependiente de la administración pública municipal, cuyas atribuciones sean compatibles con el objeto de la presente Ley.
 
@@ -313,7 +315,7 @@ VI. Modelo de la concesión; y
 
 VII. Los demás elementos que a juicio de la Secretaría o de la dependencia municipal, resulten necesarios.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2007)</small>
 
 ###### Artículo 24.
 
@@ -577,7 +579,7 @@ De conformidad con la fracción I del artículo 42 de la Constitución Política
 
 Juan Sabines Guerrero, Gobernador Constitucional del Estado.- Jorge Antonio Morales Messner, Secretario de Gobierno.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 24 DE OCTUBRE DE 2007.
 
@@ -588,3 +590,9 @@ Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan al pr
 Artículo Tercero.- El Ejecutivo del Estado, dispondrá de noventa días hábiles, contados a partir de la entrada en vigor del presente Decreto para la expedición del Reglamento de la Ley de Concesiones de Servicios e Infraestructura Pública para el Estado de Chiapas y sus Municipios.
 
 Artículo Cuarto.- Será de aplicación supletoria a la Ley de Concesiones de Servicios e Infraestructura Pública para el Estado de Chiapas y sus Municipios, en lo que no se oponga a sus disposiciones y en tanto se expiden sus normas reglamentarias, la Ley de Adquisiciones, Arrendamiento de Bienes Muebles y Contratación de Servicios para el Estado de Chiapas.
+
+P.O. 17 DE ABRIL DE 2013.
+
+Artículo Primero.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
