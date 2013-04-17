@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-organizacion-y-funcionamiento-del-81446"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-05-25"
-last_updated: "2011-05-25"
+last_updated: "2013-04-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81446&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # REGLAMENTO INTERIOR DE ORGANIZACION Y FUNCIONAMIENTO DEL DEPARTAMENTO DE ORIENTACION FAMILIAR DEL H. TRIBUNAL SUPERIOR DE JUSTICIA DEL PODER JUDICIAL DEL ESTADO DE MORELOS
 
-REGLAMENTO INTERIOR DE ORGANIZACION Y FUNCIONAMIENTO DEL DEPARTAMENTO DE ORIENTACION FAMILIAR DEL H. TRIBUNAL SUPERIOR DE JUSTICIA DEL PODER JUDICIAL DEL ESTADO DE MORELOS
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE OCTUBRE DE 2013 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO INTERIOR DE ORGANIZACIÓN Y FUNCIONAMIENTO DEL DEPARTAMENTO DE ORIENTACIÓN FAMILIAR DEL H. TRIBUNAL SUPERIOR DE JUSTICIA DEL PODER JUDICIAL DEL ESTADO DE MORELOS
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2013.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Morelos, el miércoles 25 de mayo de 2011.
 
@@ -145,7 +147,9 @@ I.- Ser ciudadano mexicano por nacimiento y estar en pleno goce y ejercicio de s
 
 II.- Contar el día de su designación, por lo menos con veintiocho años de edad;
 
-III.- Contar con Título de Licenciado en Derecho y cédula profesional expedidos por la autoridad o institución facultada para ello;
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2013)</small>
+
+III.- Contar con Título de Licenciado en Derecho o Psicología, y cédula profesional expedidos por la autoridad o institución facultada para ello;
 
 IV.- Haber residido en el Estado de Morelos durante los últimos cinco años, previos al día de su designación;
 
@@ -532,3 +536,15 @@ EL SECRETARIO GENERAL DE ACUERDOS
 M. EN D. FEDERICO GUILLERMO ESPINOSA CAMACHO
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 17 DE ABRIL DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Expídase el acuerdo general respectivo y remítase el original, copia certificada y Documento de Microsoft Word en unidad flash USB al Secretario General de Gobierno y al Director General del Periódico Oficial, para los efectos a que haya lugar; y posteriormente para su publicación en el Periódico Oficial "Tierra y Libertad".
+
+###### ARTÍCULO SEGUNDO.
+
+El acuerdo general que al efecto se expida, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
