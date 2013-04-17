@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-salud-del-estado-de-chihuahua-87300"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-14"
-last_updated: "2013-01-05"
+last_updated: "2013-04-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87300&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2013.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 14 de abril de 2012.
 
@@ -404,6 +404,10 @@ XIII.- Un representante de clínicas y hospitales privados.
 XIV.- Un representante de las Asociaciones de Servicio Social en el Estado.
 
 XV.- Un representante de los Comités Técnicos a que se refiere esta Ley.
+
+> <small>(ADICIONADA, P.O. 17 DE ABRIL DE 2013)</small>
+
+XVI.- Un Diputado integrante de la Comisión de Salud del Honorable Congreso del Estado.
 
 A las sesiones serán invitados, de manera permanente, un representante del Instituto Mexicano del Seguro Social, y uno del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
 
@@ -3378,3 +3382,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Dentro del término de 90 días siguientes a la entrada en vigor del presente Decreto, se deberán expedir las disposiciones reglamentarias en la materia.
+
+P.O. 17 DE ABRIL DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
