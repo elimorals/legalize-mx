@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-penales-para-el-estado-libre-y-89420"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-09-17"
-last_updated: "2013-03-21"
+last_updated: "2013-04-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89420&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -26,6 +26,8 @@ CÓDIGO NÚMERO 574 DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO, VÉASE EL ARTICULO PRIMERO TRANSITORIO DEL CÓDIGO PUBLICADO EN EL NÚMERO EXTRAORDINARIO DE LA G.O. DE 17 DE SEPTIEMBRE DE 2012, EL CUAL SEÑALA QUE ENTRARÁ EN VIGOR EN FORMA GRADUAL, INICIANDO EN LOS DISTRITOS JUDICIALES DÉCIMOPRIMERO Y DÉCIMOCUARTO EL DÍA ONCE DE MAYO DEL AÑO DOS MIL TRECE Y EN EL RESTO DE LOS DISTRITOS JUDICIALES DEL ESTADO SERÁ DE CONFORMIDAD CON EL PRIMERO TRANSITORIO INDICADO.</small>
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE MARZO DE 2013.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DE 18 DE ABRIL DE 2013.</small>
 
 Código publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el día lunes 17 de septiembre de 2012.
 
@@ -6473,13 +6475,11 @@ No podrán aplicarse las disposiciones y los procedimientos previstos en este t�
 
 En lo relativo a la conciliación, la mediación y otros mecanismos alternativos de solución de controversias, se estará a lo dispuesto por la ley de la materia.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTOS ARTÍCULOS TRANSITORIOS, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE ABRIL DE 2013 EN LA G.O. DEL ESTADO DE VERACRUZ, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 T R A N S I T O R I O S
 
-> <small>(REFORMADO, G.O. 21 DE MARZO DE 2013)</small>
+(REFORMADO, G.O. 21 DE MARZO DE 2013) (F. DE E., G.O. 18 DE ABRIL DE 2013)
 
-Primero. El presente Código entrará en vigor el día once de mayo del año dos mil trece en los Distritos Judiciales siguientes: Decimoprimero y Decimocuarto, con cabeceras en los municipios de Xalapa y Córdoba, respectivamente, y en forma gradual en los demás Distritos Judiciales del Estado, conforme al orden siguiente: El día once de mayo del año dos mil catorce, en los Distritos Primero, Segundo, Tercero, Cuarto, Quinto, Sexto, Séptimo, Octavo, Noveno y Décimo, con cabeceras en los municipios de Pánuco, Ozuluama, Tantoyuca, Huayacocotla, Chicontepec, Tuxpan, Poza Rica de Hidalgo, Papantla, Misantla y Jalacingo, respectivamente; y el día once de mayo del año dos mil quince, en los distritos Decimosegundo, Decimotercero, Decimoquinto, Decimosexto, Decimoséptimo, Decimoctavo, Decimonoveno, Vigésimo y Vigésimo Primero, con cabeceras en los municipios de Coatepec, Huatusco, Orizaba, Zongolica, Veracruz, Cosamaloapan, San Andrés Tuxtla, Acayucan y Coatzacoalcos, respectivamente.
+Primero. El presente Código entrará en vigor el día once de mayo del año dos mil trece en los Distritos Judiciales siguientes: Decimoprimero y Decimocuarto, con cabeceras en los municipios de Xalapa y Córdoba, respectivamente, y en forma gradual en los demás Distritos Judiciales del Estado, conforme al orden siguiente: el día once de noviembre del año dos mil trece, en los Distritos Décimo y Décimo Segundo, con cabeceras en los municipios de Jalacingo y Coatepec, respectivamente; el día once de mayo del año dos mil catorce, en los Distritos Primero, Segundo, Tercero, Cuarto, Quinto, Sexto, Séptimo, Octavo y Noveno, con cabeceras en los municipios de Pánuco, Ozuluama, Tantoyuca, Huayacocotla, Chicontepec, Tuxpan, Poza Rica de Hidalgo, Papantla y Misantla, respectivamente; y el día once de mayo del año dos mil quince, en los Distritos Decimotercero, Decimoquinto, Decimosexto, Decimoséptimo, Decimoctavo, Decimonoveno, Vigésimo y Vigésimo Primero, con cabeceras en los municipios de Huatusco, Orizaba, Zongolica, Veracruz, Cosamaloapan, San Andrés Tuxtla, Acayucan y Coatzacoalcos, respectivamente.
 
 Segundo. A partir de la entrada en vigor de este ordenamiento en cada uno de los distritos judiciales quedará derogado el Código Número 590 de Procedimientos Penales para el Estado Libre y Soberano de Veracruz de Ignacio de la Llave, publicado en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave, el 7 de noviembre de 2003, asimismo se derogan todas las disposiciones de igual o menor rango que se opongan a este Código.
 
