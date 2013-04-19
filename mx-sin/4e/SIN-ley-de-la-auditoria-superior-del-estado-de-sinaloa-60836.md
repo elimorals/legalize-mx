@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-la-auditoria-superior-del-estado-de-sinaloa-60836"
 country: "mx"
 rank: "ley"
 publication_date: "2008-04-23"
-last_updated: "2011-07-08"
+last_updated: "2013-04-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60836&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SIN"
 ---
 # LEY DE LA AUDITORIA SUPERIOR DEL ESTADO DE SINALOA
 
-LEY DE LA AUDITORIA SUPERIOR DEL ESTADO DE SINALOA
+LEY DE LA AUDITORÍA SUPERIOR DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICIO OFICIAL: 8 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2013.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 23 de abril de 2008.
 
@@ -45,7 +45,9 @@ Ley de la Auditoría Superior del Estado de Sinaloa
 
 La presente Ley es de orden público y tiene por objeto establecer las bases para:
 
-l. La revisión y fiscalización de las cuentas públicas que formulen los poderes del Estado, los organismos públicos autónomos, los municipios, los organismos públicos descentralizados, estatales y municipales, empresas de participación estatal o municipal, fideicomisos públicos estatales y municipales, subsidios estatales y municipales; así como los recursos públicos que maneje, ejerza administre o custodie cualquier persona física, moral o privada;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2013)</small>
+
+I. La revisión y fiscalización de las cuentas públicas que formulen el Gobierno del Estado y los Municipios, así como los recursos públicos que manejen, ejerzan, administren o custodien los Entes Públicos Estatales y Municipales y cualquier persona física o moral del sector social o privado;
 
 II. La verificación de los resultados de la gestión financiera de todos los entes que manejen recursos públicos, la utilización del crédito y el cumplimiento de las metas fijadas en los programas y proyectos en que respaldan sus presupuestos de egresos;
 
@@ -69,47 +71,123 @@ Son principios rectores de la fiscalización superior: la posterioridad, la simu
 
 Para efectos de la presente Ley, se entenderá por:
 
-I. Auditoría financiera: Es aquella consistente en el análisis, revisión y examen para evaluar la razonabilidad de los estados financieros y determinar su correcta revelación, integración, presentación y oportunidad, así como el ejercicio y aplicación de los recursos públicos de parte de los entes fiscalizados;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2013)</small>
 
-II. Auditoría al desempeño: Es aquella que tiene como propósito fundamental determinar si los entes fiscalizados cumplen, no sólo con la normatividad, presupuestos, programas, objetivos y metas establecidos en sus respectivos programas operativos anuales aprobados, sino también con las expectativas de la población que recibe sus bienes y servicios, y si los recursos humanos, materiales, financieros y tecnológicos, utilizados para producirlos u otorgarlos, son razonables, debiendo evaluarse la eficiencia, oportunidad y eficacia, en el cumplimiento de cometidos para los cuales fueron creados;
+I. Auditoría Financiera: Es aquella consistente en el análisis, revisión y examen para evaluar la razonabilidad de los estados financieros y determinar su correcta revelación, integración, presentación y oportunidad, así como el ejercicio, recaudación y aplicación de los recursos públicos de parte de los entes fiscalizados;
+
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2013)</small>
+
+II. Auditoría sobre el Desempeño: Es aquella que tiene como propósito fundamental la verificación del cumplimiento de los objetivos y metas contenidos en los programas estatales y municipales, mediante la estimación o cálculo de los resultados obtenidos en términos cualitativos o cuantitativos, ó ambos, así como las consecuencias o efectos en las condiciones sociales y económicas de la población debiendo evaluarse la eficacia, eficiencia y economía en la utilización de los recursos;
 
 III. Auditoría Superior del Estado: El órgano técnico de fiscalización superior en el Estado de Sinaloa;
 
-IV. Cuenta Pública: Es el documento integral mediante el cual las entidades fiscalizadas, tienen la obligación constitucional de someter a consideración del Congreso del Estado, la aplicación de los recursos públicos, los resultados de su gestión financiera, la utilización del crédito, si lo hubiere y el cumplimiento de las metas fijadas en los programas y proyectos de presupuestos de egresos desarrollados en cada ejercicio fiscal;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2013)</small>
 
-V. Entes Públicos Estatales: Los organismos públicos descentralizados, organismos autónomos, empresas de participación estatal, fondos y fideicomisos públicos estatales; las demás personas de derecho público de carácter estatal, así como los órganos jurisdiccionales que determinen las leyes;
+IV. Costo Financiero de la Deuda: Los intereses, comisiones u otros gastos, derivados del uso de créditos;
 
-VI. Entes Públicos Municipales: Los organismos públicos descentralizados del municipio, autónomos, organismos autónomos del municipio, empresas de participación municipal, fondos y fideicomisos públicos municipales y las demás personas de derecho público de carácter municipal;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2013)</small>
 
-VII. Entidades Fiscalizables: Los Poderes del Estado, los municipios, los entes públicos estatales y municipales que ejerzan recursos públicos y, en general, cualquier entidad, persona física o jurídica, pública o privada que haya recaudado, administrado, custodiado, manejado o ejercido recursos públicos estatales o municipales;
+V. Cuentas Contables: Las cuentas necesarias para el registro contable de las operaciones presupuestarias y contables, clasificadas en activo, pasivo y hacienda pública o patrimonio, y de resultado de los entes públicos;
 
-VIII. Estructura Programática: Conjunto de categorías y elementos programáticos ordenados considerando una clasificación por funciones, subfunciones y programas, que defina las acciones que efectúan las entidades fiscalizables, para alcanzar sus objetivos y metas de acuerdo con las políticas establecidas en los planes, los programas y los presupuestos;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2013)</small>
 
-IX. Fiscalización Superior: Facultad exclusiva del Congreso del Estado y que es ejercida apoyándose en la Auditoría Superior del Estado, para que a través de ésta se realice la revisión y fiscalización de la respectiva cuenta pública, incluyendo el informe de avance de gestión financiera;
+VI. Cuentas Presupuestarias: Las cuentas que conforman los clasificadores de ingresos y gastos públicos;
 
-X. Gasto Devengado: Es el gasto comprometido y contabilizado durante un ejercicio fiscal aún cuando no se haya realizado y que al cierre del mismo se encuentra pendiente de pago;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2013)</small>
 
-XI. Gestión Financiera: La actividad de las entidades fiscalizadas respecto de la administración, custodia y aplicación de los ingresos, egresos y en general, de los recursos públicos que éstos utilicen para la ejecución de los objetivos contenidos en los programas operativos anuales en el periodo que corresponde a una cuenta pública, sujeta a la revisión simultánea derivada de los informes de avance financiero y posterior del Congreso del Estado, a través de la Auditoría Superior del Estado;
+VII. Cuenta Pública: El documento integrado conforme a los artículos 37 de la Constitución Política del Estado de Sinaloa, 34 y 34 Bis de esta Ley, mediante el cual el Gobierno del Estado y los municipios respectivamente, informan al Congreso del Estado, sobre los resultados logrados con la ejecución de las Leyes de Ingresos y el ejercicio de los Presupuestos de Egresos, aprobados para cada ejercicio fiscal;
 
-XII. Informe de Avance de Gestión Financiera: El informe trimestral que rinden el Gobierno del Estado y los Ayuntamientos a la Legislatura, sobre los avances físicos y financieros de sus programas operativos anuales;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2013)</small>
 
-XIII. Informes Especiales: Aquellos que en cualquier momento, solicite la Auditoría Superior del Estado, a las entidades sujetas a fiscalización en uso de sus facultades;
+VIII. Daño Patrimonial: Toda pérdida o menoscabo estimable en dinero sufrido por la hacienda pública estatal, municipal o de sus entes públicos, ocasionada por un hecho ilícito o por el incumplimiento de una obligación;
 
-XIV. Poderes del Estado: Legislativo, Judicial y Ejecutivo, comprendidas en este último las dependencias y entidades de la administración pública estatal;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2013)</small>
 
-XV. Presupuesto de Egresos: Ley de Ingresos y Presupuesto de Egresos del Estado, los Presupuestos de Egresos de los Municipios y Presupuestos de Egresos de las Entidades Fiscalizadas, correspondientes a cada ejercicio fiscal;
+IX. Deuda Pública: Las obligaciones de pasivo, directas, derivadas de financiamientos a cargo del gobierno estatal y municipal, en términos de las disposiciones legales aplicables, sin perjuicio de que dichas obligaciones tengan como propósito operaciones de refinanciamiento, así como las obligaciones de pasivos contingentes;
 
-XVI. Proceso Concluido: Aquél que los Poderes del Estado, municipios y entes públicos estatales y municipales reporten como tal, en el informe de avance de gestión financiera, con base en los informes de gasto ejercido y gasto devengado conforme a la estructura programática vigente, para un ejercicio fiscal;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2013)</small>
 
-XVII. Programas: Los que se derivan directamente de los planes de desarrollo, de los programas sectoriales, así como los que conforman la estructura programática vigente en un determinado ejercicio fiscal y que se fundamentan en los programas operativos anuales de los presupuestos aprobados, a los que se sujeta la gestión o actividad de los Poderes del Estado, municipios y de los entes públicos estatales y municipales;
+X. Entes Públicos Estatales: Los organismos públicos descentralizados estatales y municipales, organismos autónomos, empresas de participación estatal o municipal, fondos y fideicomisos públicos estatales y municipales; las demás personas de derecho público de carácter estatal, así como los órganos jurisdiccionales que determinen las leyes;
 
-XVIII. Recursos Públicos: Son recursos públicos todo numerario o bienes que sean propiedad del Gobierno del Estado, de los Municipios o de las demás entidades que regula esta Ley, provenientes de los conceptos previstos en la Ley de Ingresos y Presupuesto de Egresos del Estado de Sinaloa, las Leyes de Ingresos de los municipios, así como, asignaciones, subsidios, concesiones, participaciones o cualquier otro concepto análogo y demás que estos tengan derecho a recibir por cualquier disposición;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2013)</small>
 
-XIX. Reglamento Interior: El Reglamento Interior de la Auditoría Superior del Estado;
+XI. Entes Públicos Municipales: Los organismos públicos descentralizados del municipio, autónomos, organismos autónomos del municipio, empresas de participación municipal, fondos y fideicomisos públicos municipales y las demás personas de derecho público de carácter municipal;
 
-XX. Sanción Pecuniaria: Comprende la indemnización, la multa, sanción resarcitoria y el pago de daños y perjuicios; y,
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2013)</small>
 
-XXI. Servidores Públicos: Los que se consideran como tales en la Constitución Política del Estado de Sinaloa y en la Ley de Responsabilidades de los Servidores Públicos del Estado de Sinaloa.
+XII. Entidades Fiscalizables: Los Poderes del Estado, los municipios, los entes públicos estatales y municipales que ejerzan recursos públicos y, en general, cualquier entidad, persona física o jurídica, pública o privada que haya recaudado, administrado, custodiado, manejado o ejercido recursos públicos estatales o municipales;
+
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2013)</small>
+
+XIII. Estructura Programática: Conjunto de categorías y elementos programáticos ordenados considerando una clasificación por funciones, subfunciones y programas, que defina las acciones que efectúan las entidades fiscalizables, para alcanzar sus objetivos y metas de acuerdo con las políticas establecidas en los planes, los programas y los presupuestos;
+
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2013)</small>
+
+XIV. Fiscalización Superior: Facultad exclusiva del Congreso del Estado y que es ejercida apoyándose en la Auditoría Superior del Estado, para que a través de ésta se realice la revisión y fiscalización de la respectiva cuenta pública, incluyendo el informe de avance de gestión financiera;
+
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2013)</small>
+
+XV. Gasto Devengado: Es el gasto comprendido y contabilizado durante un ejercicio fiscal determinado, que refleja el reconocimiento de una obligación de pago a favor de terceros por la recepción de conformidad de bienes, servicios y obras oportunamente contratadas; así como de las obligaciones que derivan de tratados, leyes, decretos, resoluciones y sentencias definitivas;
+
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2013)</small>
+
+XVI. Gestión Financiera: La actividad que las entidades fiscalizables realizan para captar, recaudar u obtener recursos públicos conforme a la Ley de Ingresos y demás disposiciones aplicables, así como respecto de la administración, custodia y aplicación de los egresos y en general, de los recursos públicos que éstos utilicen para la consecución de los objetivos contenidos en los programas operativos anuales;
+
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2013)</small>
+
+XVII. Indemnización: Es aquella que tiene por objeto resarcir, el monto de los daños y perjuicios estimables en dinero que se hayan causado, a las haciendas públicas estatal y municipal, a los recursos que por cualquier concepto obtenga el estado y los municipios, así como al patrimonio y los recursos que por cualquier concepto obtengan los Entes Públicos Estatales y Municipales;
+
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2013)</small>
+
+XVIII. Informe de Avance de Gestión Financiera: El informe trimestral que de manera consolidada rinde el Gobierno del Estado, a través del Poder Ejecutivo al Congreso del Estado; así como los Entes Públicos Estatales y Municipales, sobre los avances físicos y financieros de los programas contenidos en los presupuestos;
+
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2013)</small>
+
+XIX. Informes Especiales: Aquellos que en cualquier momento, solicite la Auditoría Superior del Estado, a las entidades sujetas a fiscalización en uso de sus facultades;
+
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2013)</small>
+
+XX. Multa Administrativa: Es la sanción económica que se impone al servidor público de las entidades fiscalizadas por infracción cometida a la presente ley, sin el propósito de resarcir los daños y perjuicios causados;
+
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2013)</small>
+
+XXI. Perjuicio Patrimonial: Todo provecho, interés o fruto estimable en dinero que deje de percibir el Estado, los Municipios en relación con el ingreso, egreso y la hacienda pública o los Entes Públicos Estatales o Municipales en relación con su patrimonio, como consecuencia de un hecho ilícito o por el incumplimiento de una obligación;
+
+> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2013)</small>
+
+XXII. Poderes del Estado: Legislativo, Judicial y Ejecutivo, comprendidas en este último las dependencias y entidades de la administración pública estatal;
+
+> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2013)</small>
+
+XXIII. Presupuesto de Egresos: Ley de Ingresos y Presupuesto de Egresos del Estado, los Presupuestos de Egresos de los Municipios y Presupuestos de Egresos de las Entidades Fiscalizadas, correspondientes a cada ejercicio fiscal;
+
+> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2013)</small>
+
+XXIV. Proceso Concluido: Aquél que los Poderes del Estado, municipios y entes públicos estatales y municipales reporten como tal, en el informe de avances de gestión financiera, con base en los informes de gasto ejercido y gasto devengado conforme a la estructura programática vigente, para un ejercicio fiscal;
+
+> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2013)</small>
+
+XXV. Programas: Los que se derivan directamente de los planes de desarrollo, de los programas sectoriales, así como los que conforman la estructura programática vigente en un determinado ejercicio fiscal y que se fundamentan en los programas operativos anuales de los presupuestos aprobados, a los que se sujeta la gestión o actividad de los Poderes del Estado, municipios y de los entes públicos estatales y municipales;
+
+> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2013)</small>
+
+XXVI. Recursos Públicos: Son recursos públicos todo numerario o bienes que sean propiedad del Gobierno del Estado, de los Municipios o de las demás entidades que regula esta Ley, provenientes de los conceptos previstos en la Ley de Ingresos y Presupuesto de Egresos del Estado de Sinaloa, las Leyes de Ingresos de los municipios, así como, asignaciones, subsidios, concesiones, participaciones o cualquier otro concepto análogo y demás que estos tengan derecho a recibir por cualquier disposición;
+
+> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2013)</small>
+
+XXVII. Reglamento Interior: El Reglamento Interior de la Auditoría Superior del Estado;
+
+> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2013)</small>
+
+XXVIII. Sanción Pecuniaria: Comprende la indemnización y la sanción resarcitoria;
+
+> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2013)</small>
+
+XXIX. Sanción Resarcitoria: Es aquella sanción que tiene por objeto penalizar las acciones y omisiones que hayan causado un daño y perjuicio patrimonial al Estado y los Municipios en relación con el ingreso, egreso y la hacienda pública o a los Entes Públicos Estatales o Municipales, en relación con su patrimonio; y,
+
+> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2013)</small>
+
+XXX. Servidores Públicos: Los que se consideran como tales en la Constitución Política del Estado de Sinaloa y en la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Sinaloa.
 
 ###### Artículo 5.
 
@@ -119,9 +197,11 @@ La fiscalización superior que realice la Auditoría Superior del Estado, se eje
 
 Son sujetos de fiscalización las entidades fiscalizables a que se refiere esta Ley. La Auditoría Superior del Estado, sólo será fiscalizada por el Congreso del Estado conforme a su Ley Orgánica; los partidos políticos serán fiscalizados en los términos de la Constitución Política del Estado y de la Ley Electoral para el Estado de Sinaloa.
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
+
 ###### Artículo 7.
 
-A falta de disposición expresa en esta Ley, se aplicará en forma supletoria y en lo conducente el Código Fiscal; la Ley de Hacienda del Estado; la Ley de Hacienda Municipal; la Ley de Presupuesto, Contabilidad y Gasto Público; la Ley de Deuda Pública; la Ley de Responsabilidades de los Servidores Públicos; el Código Civil y el Código de Procedimientos Civiles, todos para el Estado de Sinaloa, así como la demás legislación aplicable.
+A falta de disposición expresa en esta Ley, se aplicará en forma supletoria y en lo conducente la Ley de Justicia Administrativa; el Código de Procedimientos Civiles; la Ley de Responsabilidades Administrativas de los Servidores Públicos; el Código Civil; el Código Fiscal; la Ley de Hacienda; la Ley de Hacienda Municipal; la Ley de Presupuesto, Contabilidad y Gasto Público; y la Ley de Deuda Pública, todas del Estado de Sinaloa.
 
 ## Título Segundo. De la Auditoría Superior del Estado
 
@@ -137,7 +217,9 @@ II. Establecer las normas, procedimientos, métodos y sistemas de información u
 
 III. Evaluar los informes de avance de gestión financiera respecto de los avances físicos y financieros de los programas autorizados y sobre procesos concluidos;
 
-IV. Evaluar el cumplimiento final de los objetivos y metas fijados en los programas contenidos en la estructura programática vigente, sustentados por los programas operativos anuales estatales o municipales, conforme a los indicadores de impacto aprobados en los presupuestos, a efecto de verificar el desempeño de los mismos y la legalidad en el uso de sus recursos públicos;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2013)</small>
+
+IV. Evaluar el cumplimiento final de los objetivos y metas fijados en los programas contenidos en la estructura programática vigente conforme a los indicadores de gestión y estratégicos aprobados en los presupuestos, a efecto de verificar el desempeño de los mismos y la legalidad en el uso de los recursos públicos;
 
 V. Verificar que las entidades fiscalizadas que hubieren recaudado, manejado, administrado o ejercido recursos públicos, lo hayan realizado conforme a los programas aprobados y montos autorizados, así como, en el caso de los egresos con cargo a las partidas correspondientes, además con apego a las disposiciones legales reglamentarias y administrativas aplicables;
 
@@ -161,9 +243,13 @@ XIV. Investigar, en el ámbito de su competencia, los actos u omisiones de que s
 
 XV. Efectuar visitas domiciliarias a las entidades fiscalizadas, únicamente para exigir la exhibición de los libros, bases de datos, papeles o archivos indispensables para la realización de sus investigaciones, sujetándose a las leyes respectivas y a las formalidades establecidas en la Ley;
 
-XVI. Declarar y determinar los daños y perjuicios que afecten al Estado y municipios en su hacienda pública o al patrimonio de las demás entidades fiscalizadas y fincar directamente a los responsables las sanciones administrativas previstas en esta Ley;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2013)</small>
 
-XVII. Determinar directamente a los responsables e imponer la sanción correspondiente por el incumplimiento a sus requerimientos de información en el caso de las revisiones que se hayan ordenado o a lo dispuesto por esta Ley;
+XVI. Declarar y determinar los daños y perjuicios que afecten al Estado y municipios en su hacienda pública, en los recursos que por cualquier concepto obtenga el estado y sus municipios o, al patrimonio de las demás entidades fiscalizadas y fincar directamente a los responsables la indemnización y las sanciones resarcitorias previstas en esta Ley;
+
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2013)</small>
+
+XVII. Determinar e imponer las multas que establece esta Ley;
 
 XVIII. Conocer y resolver sobre el recurso de revocación que se interponga en contra de las resoluciones que se dicten, de conformidad con la presente Ley;
 
@@ -175,11 +261,15 @@ XXI. Elaborar estudios relacionados con las materias de su competencia y publica
 
 XXII. Vigilar que las entidades fiscalizadas, cumplan oportunamente con el procedimiento obligatorio de entrega-recepción de sus administraciones;
 
-XXIII. Proponer al Congreso del Estado, por conducto de la Gran Comisión, previo acuerdo de la Comisión de Fiscalización, las partidas presupuestales correspondientes para el debido cumplimiento de sus funciones;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2013)</small>
+
+XXIII. Proponer al Congreso del Estado, por conducto de la Junta de Coordinación Política, previo acuerdo de la Comisión de Fiscalización, las partidas presupuestales correspondientes para el debido cumplimiento de sus funciones;
 
 XXIV. Promover la impartición de cursos y seminarios de capacitación y actualización a su propio personal;
 
-XXV. Brindar asesoría permanente al personal de las entidades fiscalizables, con el objeto de facilitar el control contable, presupuestal y administrativo de los recursos públicos que ejercen;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2013)</small>
+
+XXV. Formular recomendaciones al desempeño para mejorar los resultados, la eficacia, eficiencia y economía de las acciones de gobierno, a fin de elevar la calidad de la gestión gubernamental;
 
 XXVI. Citar o requerir, mediante oficio fundado y motivado, o mediante correo electrónico con acuse de recibo la presencia en las oficinas de la Auditoría Superior del Estado a quienes tengan o hayan tenido, relación con el manejo de la cuenta pública, para el esclarecimiento de los hechos u omisiones de las irregularidades detectadas.
 
@@ -189,11 +279,45 @@ XXVII. Elaborar su Reglamento Interior, con aprobación de la Comisión de Fisca
 
 XXVIII. Resolver todas las consultas que se le formulen, en el área de su competencia;
 
-XXIX. Hacer del conocimiento de los órganos de control interno de las entidades fiscalizadas, previstos en la Ley de Responsabilidades de los Servidores Públicos del Estado de Sinaloa, las irregularidades que detecte en el ejercicio de sus funciones, acompañando todos los elementos con que cuenta, para que se siga el procedimiento de responsabilidades y sanciones administrativas previstas en dicha Ley;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2013)</small>
 
-XXX. Promover el servicio civil de carrera que permita la objetiva y estricta selección de sus integrantes, mediante la aprobación de los exámenes de ingreso correspondientes; y,
+XXIX. Hacer del conocimiento de los órganos de control interno de las entidades fiscalizadas, previstos en la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado, las irregularidades que detecte en el ejercicio de sus funciones, acompañando todos elementos (sic) con que cuenta, para que se siga el procedimiento de responsabilidades y sanciones administrativas previstas en dicha Ley;
 
-XXXI. Las demás que expresamente señalen la Constitución Política del Estado, esta Ley y otras disposiciones legales y reglamentarias aplicables vigentes en el Estado.
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2013)</small>
+
+XXX. Promover el servicio civil de carrera que permita la objetiva y estricta selección de sus integrantes, mediante la aprobación de los exámenes de ingreso correspondientes;
+
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2013)</small>
+
+XXXI. Requerir a los despachos externos contratados por la Auditoría Superior, copia de todos los informes y dictámenes de las auditorías y revisiones por ellos practicadas a las entidades fiscalizadas;
+
+> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2013)</small>
+
+XXXII. Obtener de los (sic) entidades fiscalizadas durante el desarrollo de las auditorias, copia certificada de los documentos que se requieran con motivo de las mismas; igualmente podrá expedir certificaciones de los documentos que obren en sus archivos;
+
+> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2013)</small>
+
+XXXIII. Solicitar a las instancias de control competentes, en el ámbito de sus atribuciones, copia certificada de los informes y dictámenes de las auditorías por ellos practicadas;
+
+> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2013)</small>
+
+XXXIV. Formular recomendaciones, solicitudes de aclaración, pliegos de observaciones, promociones de intervención de la instancia de control competente y de responsabilidad administrativa sancionatoria, denuncias de hechos y de juicio político;
+
+> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2013)</small>
+
+XXXV. Tramitar y resolver el procedimiento para el fincamiento de las responsabilidades resarcitorias previsto en este Ley (sic), por las irregularidades en que incurran los servidores públicos por actos u omisiones de los que resulte un daño o perjuicio, o ambos, estimable en dinero que afecten la Hacienda Pública del Estado y de los Municipios o en su caso, al patrimonio de los Entes Públicos Estatales o Municipales, así como a los recursos que por cualquier concepto obtengan los entes fiscalizables citados en esta fracción.
+
+> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2013)</small>
+
+XXXVI. Declarar los días inhábiles para la práctica de actividades de la Auditoría Superior del Estado de Sinaloa;
+
+> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2013)</small>
+
+XXXVII. Promover y dar seguimiento ante las autoridades competentes del fincamiento de las responsabilidades a las que se refiere el Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos; y presentar denuncias y querellas penales; y,
+
+> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2013)</small>
+
+XXXVIII. Las demás que expresamente señalen la Constitución Política del Estado, esta Ley y otras disposiciones legales y reglamentarias aplicables vigentes en el Estado.
 
 ###### Artículo 9.
 
@@ -210,6 +334,10 @@ La Auditoría Superior del Estado, en ejercicio de sus facultades de fiscalizaci
 ###### Artículo 12.
 
 La Auditoría Superior del Estado podrá revisar de manera casuística y concreta, información y documentos relacionados con conceptos específicos de gasto correspondiente a ejercicios anteriores al de la cuenta pública en revisión, cuando el programa o proyecto contenido en el presupuesto aprobado, abarque para su ejecución y pago diversos ejercicios fiscales, sin que con este motivo se entienda abierta nuevamente la cuenta pública del ejercicio correspondiente a la revisión específica señalada.
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2013)</small>
+
+Las observaciones, acciones promovidas y recomendaciones que la Auditoría Superior del Estado emita, sólo podrán referirse a la cuenta pública en revisión.
 
 ###### Artículo 13.
 
@@ -231,9 +359,11 @@ Los servidores públicos de la Auditoría Superior del Estado, cualesquiera que 
 
 Los servidores públicos de la Auditoría Superior del Estado y los profesionales por ella contratados para la práctica de auditorías, serán responsables, en los términos de las disposiciones legales aplicables, por violación a dicha reserva.
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
+
 ###### Artículo 18.
 
-La Auditoría Superior del Estado será responsable de manera subsidiaria de los daños y perjuicios que, actuando ilegalmente, causen los servidores públicos comisionados para la práctica de auditorías, sin perjuicio de las sanciones que correspondan a estos últimos en los términos de la Ley de Responsabilidades de los Servidores Públicos.
+La Auditoría Superior del Estado será responsable de manera subsidiaria de los daños y perjuicios que actuando ilegalmente, causen los servidores públicos comisionados para la práctica de auditorías, sin perjuicio de las sanciones que correspondan a estos últimos en los términos de la Ley de Responsabilidades Administrativas de los Servidores Públicos.
 
 ### Capítulo Segundo. Integración y Organización
 
@@ -267,7 +397,7 @@ II. Concluido el plazo anterior y recibido (sic) las propuestas, acompañadas co
 
 III. Del análisis de las propuestas los integrantes de la Comisión de Fiscalización entrevistarán a los candidatos, por separado, para la evaluación respectiva;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JULIO DE 2011)</small>
 
 IV. En un plazo que no deberá de exceder de ocho días naturales contados a partir del término de la entrevista, la Comisión de Fiscalización formulará su dictamen, a fin de proponer la terna que considere idónea, lo anterior, a efecto de que la Junta de Coordinación Política agende en el orden del día de la sesión más próxima el asunto, y que el Pleno del Congreso proceda a la discusión, aprobación y votación para la designación del Auditor Superior del Estado.
 
@@ -301,7 +431,9 @@ El Auditor Superior del Estado tendrá las siguientes atribuciones:
 
 I. Representar a la Auditoría Superior del Estado ante las entidades fiscalizadas, autoridades federales y locales, entidades federativas, municipios y demás personas físicas y morales, con las facultades y limitaciones que establece la ley;
 
-II. Administrar los bienes en resguardo, así como los recursos humanos y materiales a cargo de la Auditoría Superior del Estado, conforme a las leyes y reglamentos;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2013)</small>
+
+II. Administrar los bienes y recursos a cargo de la Auditoría Superior del Estado y resolver sobre la adquisición y enajenación de bienes muebles y la prestación de servicios de la misma, sujetándose a lo dispuesto en el Artículo 155 de la Constitución Política del Estado, la Ley de Adquisiciones, Arrendamientos y Servicios del Estado y su Reglamento, así como gestionar la incorporación, destino y desincorporación de bienes inmuebles del dominio público del Estado afectos a su servicio;
 
 III. Elaborar durante el mes de enero de cada año, informe de actividades realizadas en el ejercicio anterior por la entidad a su cargo, así como el programa anual de auditorías, visitas e inspecciones a realizar durante el ejercicio respectivo, haciéndolo del conocimiento de la Comisión de Fiscalización;
 
@@ -325,9 +457,15 @@ XII. Ejercer las atribuciones que correspondan a la Auditoría Superior del Esta
 
 XIII. Resolver el recurso de revocación interpuesto en contra de sus resoluciones;
 
-XIV. Recibir en las oficinas de la Auditoría Superior del Estado la documentación original comprobatoria y justificativa de la cuenta pública de los Ayuntamientos, aprobada ésta previamente por el Cabildo, a más tardar el día veinticinco del mes siguiente en que se origine; con excepción del mes de diciembre cuya documentación podrá presentarse a más tardar el día quince de febrero del año siguiente.
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2013)</small>
 
-La revisión de la documentación original, comprobatoria y justificativa de la cuenta pública del Gobierno del Estado y demás entes fiscalizables se llevará a cabo en sus propias oficinas, en forma simultánea y posterior al cierre de cada semestre del ejercicio fiscal correspondiente;
+XIV. Recibir en las oficinas de la Auditoría Superior del Estado la cuenta pública semestral del Gobierno del Estado, quince días antes de la apertura del primer y segundo periodo ordinario de sesiones del Congreso del Estado.
+
+Asimismo, recibir la cuenta pública trimestral de los Ayuntamientos previamente autorizada por el cabildo, la cual deben presentar a más tardar el día veinticinco de los meses de abril, julio, octubre y el cuarto trimestre, el quince de febrero del año siguiente al ejercicio correspondiente.
+
+Recibir el Informe sobre la aplicación de los recursos públicos recibidos durante el ejercicio fiscal anterior, que deben presentar los Entes Públicos Estatales y Municipales, a más tardar quince días antes de la apertura del Segundo Periodo Ordinario de Sesiones del Congreso del Estado.
+
+Cuando el último día del término sea considerado inhábil, éste se prorrogará hasta el siguiente hábil.
 
 XV. Formular y entregar, al Congreso del Estado por conducto de la Comisión de Fiscalización, los informes y resultados de las revisiones de la cuenta pública así como el informe sobre las revisiones de los estados financieros de las demás entidades fiscalizadas, dentro de los plazos establecidos en esta Ley;
 
@@ -349,13 +487,29 @@ XXIII. Vigilar que quienes administren recursos públicos, hayan caucionado su m
 
 XXIV. Publicar y mantener actualizada la información pública de oficio, así como el resultado de su actuación fiscalizadora una vez que el Congreso apruebe los dictámenes;
 
-XXV. Solicitar ante las autoridades competentes el cobro de multas y sanciones pecuniarias que se impongan en los términos de esta Ley; y, (sic)
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2013)</small>
 
-> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2011)</small>
+XXV. Solicitar ante las autoridades competentes el cobro de multas, indemnizaciones y sanciones resarcitorias que se impongan en los términos de esta Ley;
 
-XXVI. Comparecer ante comisiones y en el Pleno del Congreso cada dos años para una evaluación exhaustiva de su desempeño, de las acciones y programas emprendidos bajo su gestión, así como de los resultados de las auditorías practicadas en dicho término; y,
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2013)</small>
 
-XXVII. Las demás que señalen esta Ley y otras disposiciones legales aplicables.
+XXVI. Comparecer ante comisiones y en el Pleno del Congreso cada dos años para una evaluación exhaustiva de su desempeño, de las acciones y programas emprendidos bajo su gestión, así como de los resultados de las auditorías practicadas en dicho término;
+
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2013)</small>
+
+XXVII. Celebrar reuniones con los entes fiscalizados en la fecha y lugar que establezca la Auditoria Superior del Estado para la confronta de los resultados preliminares de las auditorías correspondientes, conforme a lo previsto en el artículo 49 de esta Ley;
+
+> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2013)</small>
+
+XXVIII. Autorizar al personal de la Auditoría Superior del Estado para la realización de las notificaciones correspondientes;
+
+> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2013)</small>
+
+XXIX. Expedir las credenciales de identificación del personal que labora en la Auditoría Superior del Estado; y,
+
+> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2013)</small>
+
+XXX. Las demás que señalen esta Ley y otras disposiciones legales aplicables.
 
 ###### Artículo 23.
 
@@ -371,9 +525,11 @@ Las ausencias temporales del Auditor Superior, serán cubiertas por el Sub-Audit
 
 En caso de falta definitiva, renuncia o remoción del Auditor Superior, se dará inicio al procedimiento previsto en el artículo 20 de esta Ley.
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
+
 ###### Artículo 26.
 
-El titular de la Auditoria Superior del Estado y los demás servidores públicos adscritos a la misma, durante el ejercicio de su cargo, tendrán las prohibiciones y obligaciones que se señalen estrictamente en la Constitución Política del Estado y en la Ley de Responsabilidades de los Servidores Públicos del Estado de Sinaloa y, además, hacer del conocimiento de terceros o difundir de cualquier forma la información confidencial reservada que tengan bajo su custodia, la que sólo deberá utilizarse para los fines a que se encuentra afecto en la Auditoría Superior del Estado.
+El titular de la Auditoria Superior del Estado y los demás servidores públicos adscritos a la misma, durante el ejercicio de su cargo, tendrán las prohibiciones y obligaciones que se señalen estrictamente en la Constitución Política del Estado de Sinaloa y en la Ley de Responsabilidades Administrativas de los Servidores Públicos; y además, hacer del conocimiento de terceros o difundir de cualquier forma la información confidencial reservada que tengan bajo su custodia, la que sólo deberá utilizarse para los fines a que se encuentra afecto en la Auditoría Superior del Estado.
 
 ###### Artículo 27.
 
@@ -383,7 +539,9 @@ l. Incurrir en alguno de los supuestos previstos en el artículo anterior;
 
 II. Utilizar en beneficio propio o de terceros la documentación e información confidencial en los términos de la presente ley y sus disposiciones reglamentarias;
 
-III. Incumplir la obligación de determinar los daños y perjuicios, y de fincar las indemnizaciones y sanciones pecuniarias en los casos que establece la Ley, cuando esté debidamente comprobada la responsabilidad e identificado el responsable como consecuencia de las revisiones e investigaciones que realice;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2013)</small>
+
+III. Incumplir la obligación de determinar los daños y perjuicios, y de fincar las indemnizaciones y sanciones resarcitorias en los casos que establece la Ley, cuando esté debidamente comprobada la responsabilidad e identificado el responsable como consecuencia de las revisiones e investigaciones que realice;
 
 IV. Sustraer, destruir o utilizar indebidamente la documentación e información que por razón de su cargo tenga a su cuidado o custodia, así como divulgar la información que deba mantener en reserva con motivo del ejercicio de sus atribuciones;
 
@@ -399,7 +557,9 @@ VI. Aceptar la injerencia de los partidos políticos en el ejercicio de sus func
 
 VII. Obtener una evaluación no satisfactoria en la comparecencia ante comisiones y en el Pleno del Congreso respecto de su desempeño, de las acciones y programas emprendidos bajo su gestión, así como de los resultados de las auditorías practicadas en dicho término.
 
-Los servidores públicos de la Auditoría Superior del Estado, nombrados por el Auditor Superior, podrán ser removidos por éste, por las causas graves a que se refiere este artículo y las previstas por la Ley de Responsabilidades de los Servidores Públicos del Estado, la Ley de los Trabajadores al Servicio del Estado, cuya aplicación sean de su competencia, o en el Reglamento Interior de la Auditoría Superior del Estado.
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
+
+Los servidores públicos de la Auditoría Superior del Estado, nombrados por el Auditor Superior podrán ser removidos por éste, por las causas graves a que se refiere este artículo y las previstas por la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado, la Ley de los Trabajadores al Servicio del Estado cuya aplicación sean de su competencia, o en el Reglamento Interior de la Auditoría Superior del Estado.
 
 ## Título Tercero. De las Relaciones con el Congreso del Estado
 
@@ -523,29 +683,225 @@ Para los efectos del artículo anterior, la Comisión de Fiscalización, notific
 
 Si la Comisión resuelve, por la aprobación de la mitad más uno de sus integrantes, que ha lugar a la remoción, turnará de inmediato el dictamen correspondiente al Pleno del Congreso para que éste apruebe, en su caso, el dictamen y sus puntos resolutivos. Si la Comisión dictamina que no ha lugar a la remoción ordenará que se archive el expediente de la denuncia como asunto total y definitivamente concluido.
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
+
 ###### Artículo 33.
 
-Si los motivos de la denuncia, no son considerados graves, pero si irregulares, la Comisión de Fiscalización, dará inicio al procedimiento de responsabilidades Y sanciones administrativas previsto en la Ley de Responsabilidades de los Servidores Públicos del Estado de Sinaloa.
+Si los motivos de la denuncia no son considerados graves, pero sí irregulares, la Comisión de Fiscalización dará inicio al procedimiento de responsabilidades y sanciones administrativas previsto en la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Sinaloa.
 
 ## Título Cuarto. De la Revisión y Fiscalización Superior de las Cuentas Públicas e Informes de Resultados
 
 ### Capítulo Primero. De las Cuentas Públicas e Informes
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
+
 ###### Artículo 34.
 
-Para los efectos de esta Ley la cuenta pública está constituida por:
+La cuenta pública que presenta el Gobierno del Estado por conducto del Poder Ejecutivo, deberá contener como mínimo, la información siguiente:
 
-I. Los estados contables, financieros, presupuestarios, programáticos y patrimoniales;
+I. Información contable, con la desagregación siguiente:
 
-II. La información que muestre el registro de las operaciones derivadas de la aplicación de los Presupuestos de Egresos y las Leyes de Ingresos de los Municipios;
+A. El estado de situación financiera;
 
-III. Los efectos o consecuencias de las mismas operaciones y de otras cuentas en el activo y pasivo totales de las haciendas públicas estatales o municipales y en su patrimonio neto, incluyendo el origen y aplicación de los recursos;
+B. El estado de variación en la hacienda pública;
 
-IV. El Estado del Resultado de las entidades fiscalizadas; y,
+C. El estado de cambios en la situación financiera;
 
-V. Los estados detallados de la deuda pública estatal o municipal.
+D. Los informes sobre pasivos contingentes;
 
-Las entidades fiscalizadas, durante las revisiones y auditorías tendrán la obligación de exhibir toda la documentación original comprobatoria y justificativa de la cuenta pública a la Auditoria Superior del Estado.
+E. Las notas a los estados financieros;
+
+F. El estado analítico del activo;
+
+G. El estado analítico de la deuda, del que se derivarán las siguientes clasificaciones:
+
+a) Corto y largo plazo; y,
+
+b) Fuentes de Financiamiento;
+
+Los estados analíticos sobre deuda pública deberán considerar por concepto el saldo inicial del ejercicio, las entradas y salidas por transacciones, otros flujos económico (sic) y el saldo final del ejercicio.
+
+H. Balanza de comprobación del periodo que se presenta.
+
+II. Información presupuestaria, con la desagregación siguiente:
+
+A. Estado analítico de ingresos, del que se derivará la presentación en clasificación económica por fuente de financiamiento y concepto;
+
+B. Estado analítico del ejercicio del Presupuesto de Egresos del que se derivarán las siguientes clasificaciones:
+
+a) Administrativa;
+
+b) Económica y por objeto del gasto; y,
+
+c) Funcional-Programática.
+
+C. Endeudamiento neto, financiamiento menos amortización, del que se derivará por su origen la clasificación en interno y externo;
+
+D. Intereses de la Deuda;
+
+E. Flujo de fondos que resuma todas las operaciones y los indicadores de la postura fiscal.
+
+III. Información programática, con la desagregación siguiente:
+
+A. Gasto por categoría programática;
+
+B. Programas y proyectos de inversión; y,
+
+C. Indicadores de resultados.
+
+IV. Análisis cualitativo de los indicadores de la postura fiscal, estableciendo su vínculo con los objetivos y prioridades definidas en la materia, en el correspondiente presupuesto de egreso anual.
+
+A. Ingresos presupuestarios;
+
+B. Gastos presupuestarios;
+
+C. Postura Fiscal;
+
+D. Aplicación de los recursos provenientes del gasto federalizado; y,
+
+E. Deuda pública.
+
+V. La información a que se refieren las fracciones I, II y III de este artículo organizada por Poder, dependencia y Ente Público Estatal;
+
+La información a que se refiere este artículo deberá ser presentada de forma impresa y por medio electrónico.
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2013)</small>
+
+###### Artículo 34 Bis.
+
+Las cuentas públicas correspondientes a los Ayuntamientos de los Municipios, deberán contener como mínimo, la información siguiente:
+
+I. Información contable, con la desagregación siguiente:
+
+A. El estado de situación financiera;
+
+B. El estado de variación en la hacienda pública;
+
+C. El estado de cambios en la situación financiera;
+
+D. Los informes sobre pasivos contingentes;
+
+E. Las notas a los estados financieros;
+
+F. El estado analítico del activo;
+
+G. El estado analítico de la deuda, del que se derivarán las siguientes clasificaciones:
+
+a) Corto y largo plazo; y,
+
+b) Fuentes de Financiamiento.
+
+Los estados analíticos sobre deuda pública deberán considerar por concepto el saldo inicial del ejercicio, las entradas y salidas por transacciones, otros flujos económicos y el saldo final del ejercicio; y
+
+H. Balanza de comprobación del periodo que se presenta.
+
+II. Información presupuestaria, con la desagregación siguiente:
+
+A. Estado analítico de ingresos, del que se derivará la presentación en clasificación económica por fuente de financiamiento y concepto;
+
+B. Estado analítico del ejercicio del Presupuesto de Egresos, del que se derivarán las siguientes clasificaciones:
+
+a) Administrativa;
+
+b) Económica y por objeto del gasto; y,
+
+c) Funcional-Programática.
+
+C. Endeudamiento neto, financiamiento menos amortización;
+
+D. Intereses de la Deuda; y
+
+E. Flujo de fondos que resuma todas las operaciones y los indicadores de la postura fiscal.
+
+III. Información programática, con la desagregación siguiente:
+
+A. Gasto por categoría programática;
+
+B. Programas y proyectos de inversión; y,
+
+C. Indicadores de resultados;
+
+IV. Análisis cualitativo de los indicadores de la postura fiscal, estableciendo su vínculo con los objetivos y prioridades definidas en la materia, en el correspondiente presupuesto de egresos anual.
+
+A. Ingresos presupuestarios;
+
+B. Gastos presupuestarios;
+
+C. Postura Fiscal;
+
+D. Aplicación de los recursos provenientes del Gobierno Federal; y,
+
+E. Deuda pública.
+
+V. La información a que se refieren la fracciones I, II y III de este artículo organizada por Poder, dependencias y Ente Público Municipal;
+
+VI. Adicionalmente a lo anterior, los Ayuntamientos de los Municipios deberán presentar:
+
+A. Conciliaciones bancarias;
+
+B. Relaciones analíticas, auxiliares de mayor y diario de pólizas;
+
+C. Archivo de pólizas contables; y,
+
+D. Balanza de comprobación.
+
+La información a que se refiere este artículo deberá ser presentada, de forma impresa y en medio electrónico con excepción de la prevista en el inciso C, de la fracción VI, la cual debe presentarse solo en medio electrónico.
+
+Lo anterior sin perjuicio de que la Auditoría Superior del Estado, pueda solicitar información adicional para el debido cumplimiento de sus atribuciones de fiscalización.
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2013)</small>
+
+Artículo 34 Bis A. La revisión de la documentación original comprobatoria y justificativa de la cuenta pública de los Poderes del Estado y los Municipios se llevará a cabo en sus propias oficinas, en forma posterior y con oportunidad al cierre de cada semestre del ejercicio fiscal correspondiente, lo anterior sin perjuicio del principio de anualidad.
+
+La revisión de la documentación original comprobatoria y justificativa de los informes sobre la aplicación de los recursos públicos recibidos durante el ejercicio fiscal anterior, que los Entes Públicos Estatales y Municipales deben presentar, se llevará a cabo en sus propias oficinas, en forma posterior al cierre del ejercicio fiscal correspondiente.
+
+La Auditoría Superior del Estado podrá solicitar la documentación a que se refiere el párrafo anterior en medios electrónicos.
+
+Las entidades fiscalizadas durante las revisiones y auditorías tendrán la obligación de exhibir a la Auditoría Superior del Estado, toda la documentación original comprobatoria y justificativa de la cuenta pública del Gobierno del Estado, Municipios, así como la correspondiente a los informes que sobre la aplicación de los recursos públicos reciben durante el ejercicio fiscal anterior, que rinden los Entes Públicos Estatales y Municipales.
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2013)</small>
+
+Artículo 34 Bis B. La información presupuestaria y programática que forme parte de la cuenta pública deberá relacionarse en lo conducente, con los objetivos y prioridades de la planeación del desarrollo. Asimismo, deberá incluir los resultados de la evaluación del desempeño de los programas Federales, Estatales y Municipales según corresponda, así como los vinculados al ejercicio de los recursos federales que les hayan sido transferidos.
+
+Para el cumplimiento de lo que establece el párrafo anterior, deberán utilizar indicadores que permitan determinar el cumplimiento de las metas y objetivos de cada uno de los programas, así como vincular los mismos con la planeación del desarrollo.
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2013)</small>
+
+Artículo 34 Bis C. Los servidores públicos de los Poderes del Estado, los Organismos Públicos Autónomos, los Municipios, los Organismos Públicos Descentralizados Estatales y Municipales, Empresas de Participación Estatal y Municipal, Fideicomisos Públicos Estatales y Municipales, así como cualquier persona física o moral del sector social o privado que maneje, ejerza, administre o custodie recursos públicos, deberán atender los requerimientos de documentación e información que les formule la Auditoría Superior del Estado durante la planeación, desarrollo de las auditorías y el seguimiento de las acciones que emita dentro de los plazos establecidos en esta Ley, de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades.
+
+Cuando derivado de la complejidad de los requerimientos de información formulados por parte de la Auditoría Superior del Estado, las entidades fiscalizadas le requieran un plazo adicional para ser atendidos, podrá otorgarlo por única vez, determinado en función de las actividades y plazos que deba cumplir. Exceptuando de lo anterior los requerimientos de información que se formulen para iniciar la revisión y fiscalización a través de las auditorías correspondientes.
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2013)</small>
+
+Artículo 34 Bis D. La Auditoría Superior del Estado, sancionará con multa administrativa de 500 a 2000 días de salario mínimo general vigente para el Estado, cuando:
+
+I. Los servidores públicos o los particulares, no atiendan los requerimientos a que se refiere el artículo anterior, salvo que exista disposición legal o mandato judicial que se los impida.
+
+II. Los servidores públicos de las entidades fiscalizables, que en el ejercicio de sus funciones incumplan con:
+
+A. Rendir oportunamente la cuenta pública;
+
+B. Llevar a cabo la integración o comprobación de la cuenta pública del Gobierno del Estado y los Municipios, así como de los informes sobre la aplicación de los recursos públicos recibidos durante el ejercicio fiscal anterior de los Entes Públicos Estatales y Municipales, conforme a lo establecido por los ordenamientos aplicables;
+
+C. Rendir informes o dar contestación en los términos de esta Ley, a las observaciones que formule esta Auditoría Superior del Estado, derivadas de la revisión y fiscalización de la cuenta pública o del resultado de las auditorías practicadas;
+
+D. Rendir informes acerca de la solventación de los pliegos de observaciones formulados y notificados por la Auditoría Superior del Estado;
+
+E. Remitir los Informes de Gestión financiera en el plazo que establece esta Ley;
+
+F. Realizar el gasto en base a los presupuestos de egresos en los términos en que hayan sido aprobados;
+
+G. Las obligaciones que esta Ley establece;
+
+H. Observar las normas aplicables, los procedimientos, métodos y sistemas en materia de contabilidad gubernamental;
+
+I. Caucionar oportunamente el manejo de los recursos públicos; y,
+
+J. Cuando los Servidores Públicos de los Entes Públicos Estatales o Municipales no rindan los informes sobre la aplicación de los recursos públicos recibidos durante el ejercicio fiscal anterior, dentro de los plazos que establece la Constitución Política del Estado de Sinaloa, y esta Ley.
+
+Las multas administrativas que se establecen en este artículo se fincarán tomando en cuenta las condiciones económicas del infractor, la gravedad de la infracción cometida, los medios de ejecución y, en su caso, el nivel jerárquico al momento de cometer la infracción.
+
+Para la determinación y aplicación de las multas establecidas en este artículo se aplicará en lo conducente el procedimiento que establece el artículo 94 de esta Ley.
 
 ###### Artículo 35.
 
@@ -557,21 +913,25 @@ La cuenta pública municipal deberá ser firmada por el Presidente Municipal, el
 
 Las entidades fiscalizadas, deberán presentar ante la Auditoría Superior del Estado, informes preliminares, que contendrán la información relativa al ejercicio presupuestal, sobre ingresos, recaudación, gastos erogados, modificaciones presupuestales, así como el avance del desempeño financiero y físico en las obras proyectadas para el ejercicio fiscal correspondiente.
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
+
 ###### Artículo 37.
 
-Las cuentas públicas que se rindan al Congreso del Estado, deberán considerar los informes de avance financiero.
+La Auditoría Superior del Estado al revisar las cuentas públicas del Gobierno del Estado y los Municipios, así como los informes sobre la aplicación de los recursos públicos recibidos durante el ejercicio fiscal anterior que presenten los Entes Públicos Estatales y Municipales al Congreso del Estado observará las normas, procedimientos, sistemas y lineamientos en materia de contabilidad gubernamental.
 
-La Auditoría Superior del Estado, al revisar las cuentas públicas y el informe de los estados financieros de las entidades fiscalizadas, observará las normas, procedimientos, sistemas y lineamientos en materia de contabilidad gubernamental.
+Asimismo, hará del conocimiento a la Secretaría de Administración y Finanzas del Gobierno del Estado, a las Tesorerías Municipales o a las dependencias o unidades de contabilidad de las demás entidades fiscalizadas, los Órganos Internos de Control, los Síndicos Procuradores, según corresponda, las irregularidades o deficiencias que se detecten para que dicten las medidas correctivas que resulten. De lo anterior se turnará copia a la Comisión de Fiscalización del Congreso del Estado.
 
-Asimismo, hará del conocimiento de la Secretaría de Administración y Finanzas del Gobierno del Estado de Sinaloa, a las Contralorías Internas de las entidades, así como a las tesorerías municipales, a las dependencias o unidades de contabilidad de las demás entidades, según corresponda, las irregularidades o deficiencias que localice para que dicten las medidas correctivas que resulten. De lo anterior se turnará copia a la Comisión de Fiscalización.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ABRIL DE 2013)</small>
 
 ###### Artículo 38.
 
-Los informes de avance financiero deberán contener:
+El Informe de Avance de la Gestión Financiera, deberá contener:
 
 I. El flujo contable de ingresos y egresos;
 
-II. El avance del cumplimiento de los programas contenidos en la estructura programática vigente con base a los indicadores de impacto aprobados en el respectivo presupuesto;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2013)</small>
+
+II. El avance del cumplimiento de los programas contenidos en la estructura programática vigente con base a los indicadores de gestión y estratégicos aprobados en el respectivo presupuesto;
 
 III. El estado de deuda pública;
 
@@ -587,27 +947,33 @@ En el caso de los documentos que representen obligaciones económicas contractua
 
 Los documentos que amparen bienes muebles e inmuebles, del dominio privado, de las entidades fiscalizadas, deberán conservarse en su poder en tanto no se transfiera su propiedad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ABRIL DE 2013)</small>
+
 ###### Artículo 40.
 
-La Auditoría Superior del Estado conservará en su poder las cuentas públicas y los informes de resultados, mientras no prescriban sus facultades para fincar las responsabilidades derivadas de las irregularidades que, en su caso, se detecten en las operaciones objeto de revisión, así como las copias autógrafas de las resoluciones en las que se determinen las indemnizaciones y sanciones pecuniarias y se finquen responsabilidades y documentos que contengan las denuncias o querellas penales que se hubieren formulado, como consecuencia de los hechos presuntamente delictivos que se hubieren evidenciado durante la referida revisión.
+La Auditoría Superior del Estado conservará en su poder las cuentas públicas y los informes de resultados, mientras no prescriban sus facultades para fincar las responsabilidades derivadas de las irregularidades que, en su caso, se detecten en las operaciones objeto de revisión, así como las copias autógrafas de las resoluciones en las que se determinen las indemnizaciones y sanciones resarcitorias y se finquen responsabilidades; asimismo los documentos que contengan las denuncias o querellas penales que se hubieren formulado, como consecuencia de los hechos presuntamente delictivos que se hubieren evidenciado durante la referida revisión.
 
-Tratándose de cuentas públicas aprobadas, la Auditoría Superior del Estado, devolverá a las entidades fiscalizadas la documentación que le hubiese sido entregada para la revisión de las cuentas públicas que corresponda, dentro de un plazo de treinta días hábiles, contados a partir de la fecha de su publicación en el Periódico Oficial “El Estado de Sinaloa".
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
+
+Tratándose de cuentas públicas aprobadas, la Auditoría Superior del Estado devolverá a las entidades fiscalizadas la documentación que éstas requieran conservar y que le hubiese sido entregada para la revisión de la cuenta pública que corresponda, dentro de un plazo de treinta días hábiles, contados a partir de la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 La Auditoría Superior del Estado informará exclusivamente al Congreso del Estado, por conducto de la Comisión de Fiscalización, del resultado de las revisiones de las cuentas públicas de las entidades fiscalizadas, de las auditorías practicadas y, en su caso, de las irregularidades o deficiencias detectadas, debiendo preservar la confidencialidad de esta información.
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
+
 ###### Artículo 41.
 
-La cuenta pública aprobada por el Congreso del Estado, produce los siguientes efectos respecto de la misma:
+La aprobación de la cuenta pública de los Poderes del Estado o de los Municipios, así como del informe que sobre la aplicación de los recursos públicos recibidos durante el ejercicio fiscal anterior rindan los Entes Públicos Estatales y Municipales, no suspende el trámite de las acciones promovidas por la Auditoría Superior del Estado.
 
-l. Extingue las obligaciones derivadas de fianzas, garantías o cauciones de los servidores públicos que manejen recursos públicos; y,
+Dicha aprobación extingue las obligaciones derivadas de fianzas, garantías o cauciones de los servidores públicos que manejen recursos públicos.
 
-II. Extingue las responsabilidades fiscales de los servidores públicos de las entidades.
-
-Las responsabilidades de carácter administrativo, civil o penal se extinguirán conforme a las leyes de la materia.
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
 
 ###### Artículo 42.
 
-El Poder Ejecutivo Estatal, a través de la Secretaría de Administración y Finanzas, los Ayuntamientos, por medio de las Tesorerías Municipales y las entidades fiscalizadas, a través de sus titulares, entregarán al Congreso del Estado un informe de avance de gestión financiera trimestral dentro de los cuarenta y cinco días naturales siguientes a la terminación de los meses de marzo, junio, septiembre y diciembre, debiéndose publicar en el Periódico Oficial “El Estado de Sinaloa".
+El Gobierno del Estado a través de la Secretaría de Administración y Finanzas del Poder Ejecutivo Estatal, presentará al Congreso del Estado; así como los Entes Públicos Estatales y Municipales, un Informe de Avance de Gestión Financiera trimestral, dentro de los cuarenta y cinco días naturales siguientes a la terminación de los meses de marzo, junio, septiembre y diciembre, debiéndose publicar en el Periódico Oficial "El Estado de Sinaloa".
+
+Cuando el último día del término sea considerado inhábil éste se prorrogará hasta el siguiente hábil.
 
 ###### Artículo 43.
 
@@ -647,11 +1013,23 @@ III. En cuanto al patrimonio:
 
 a). Determinar el resultado de la gestión y situación financiera;
 
-b). Verificar que los estados financieros estén elaborados de conformidad con los principios básicos de contabilidad gubernamental; y,
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
 
-c). Verificar que los estados financieros elaborados, autorizados por la administración de la entidad correspondiente, sean completos y revelen la información necesaria que refleje la situación financiera, los resultados de operación, los cambios en la situación financiera y las variaciones en su patrimonio; y,
+b). Verificar que los estados financieros estén elaborados de conformidad con los postulados básicos de contabilidad gubernamental; y,
 
-IV. En cuanto a deuda pública: comprobar el cumplimiento del pago de las amortizaciones de capital, de intereses de los créditos contratados, así como la contabilización de los intereses devengados no pagados.
+c). Verificar que los estados financieros elaborados, autorizados por la administración de la entidad correspondiente, sean completos y revelen la información necesaria que refleje la situación financiera, los resultados de operación, los cambios en la situación financiera y las variaciones en su patrimonio; y, (sic)
+
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2013)</small>
+
+IV. En cuanto a deuda pública: comprobar el cumplimiento del pago de las amortizaciones de capital, de intereses de los créditos contratados, así como la contabilización de los intereses devengados no pagados; y,
+
+> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2013)</small>
+
+V. Verificar el cumplimiento de los objetivos contenidos en los programas determinando:
+
+a). La eficiencia, la eficacia y la economía de los programas y su efecto o la consecuencia en las condiciones sociales y económicas, durante el período que se evalúe; y,
+
+b). Si se cumplieron las metas de los indicadores aprobados en el presupuesto correspondiente y si el referido cumplimiento tiene relación con el Plan Estatal de Desarrollo y los Planes Municipales, respectivamente.
 
 ###### Artículo 48.
 
@@ -667,13 +1045,21 @@ c). Aplicaron los recursos provenientes de financiamientos en la forma estableci
 
 II. Realizar auditorías al desempeño que permitan evaluar los resultados obtenidos por las entidades fiscalizadas respecto de los objetivos y metas de los programas gubernamentales;
 
-III. Determinar, en caso de irregularidades detectadas, las indemnizaciones, sanciones pecuniarias y el fincamiento de responsabilidades por daños causados a la Hacienda Pública Estatal o municipal o al patrimonio de los entes públicos estatales y municipales; y,
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2013)</small>
 
-IV. Elaborar el informe de la cuenta pública y rendirlo al Congreso del Estado, por conducto, de la Comisión de Fiscalización. Este informe contendrá, enunciativamente, los siguientes puntos:
+III. Determinar, en caso de irregularidades detectadas, las indemnizaciones y el fincamiento de responsabilidades y sanciones resarcitorias, por daños causados a la Hacienda Pública Estatal o municipal, a los recursos que por cualquier concepto obtengan el Estado y sus municipios o al patrimonio de los Entes Públicos Estatales y Municipales; y,
 
-a). El cumplimiento de los principios de contabilidad gubernamental en su registro y presentación;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ABRIL DE 2013)</small>
 
-b). Los resultados del informe de avance de gestión financiera;
+IV. Elaborar el informe de resultados de la revisión y fiscalización de la cuenta pública del Gobierno del Estado y los Municipios, así como los informes financieros de los Entes Públicos Estatales y Municipales y rendirlo al Congreso del Estado, por conducto de la Comisión de Fiscalización. Este informe contendrá, enunciativamente, los siguientes puntos:
+
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
+
+a). El cumplimiento de los postulados básicos de contabilidad gubernamental en su registro y presentación;
+
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
+
+b). En relación con el Gobierno del Estado y los Entes Públicos Estatales y Municipales, los resultados del informe de avance de gestión financiera;
 
 c). La comprobación de que el Gobierno del Estado y los municipios se ajustaron a los criterios señalados en sus leyes de ingresos y presupuestos de egresos y en las demás leyes aplicables en la materia; y de que los entes públicos, lo hicieron en apego a los objetos para los que fueron creados; y,
 
@@ -681,11 +1067,29 @@ d). El análisis de las desviaciones presupuestales si las hubiere.
 
 ### Capítulo Tercero. De las Observaciones a las Cuentas Públicas, su Solventación y Recomendaciones
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
+
 ###### Artículo 49.
 
-Concluida la revisión de las cuentas públicas se formularán las observaciones y se emitirán las recomendaciones en función de las deficiencias e irregularidades que se hayan encontrado.
+Concluida la revisión de las cuentas públicas se formularán las observaciones en función de las deficiencias e irregularidades que se hayan encontrado.
 
-Lo dispuesto en el párrafo anterior, en lo conducente, será aplicable a la revisión a los estados financieros de los demás entes fiscalizables.
+La Auditoría Superior del Estado, a la conclusión de la auditoría correspondiente dará a conocer al ente fiscalizado los resultados preliminares que deriven de la revisión de la cuenta pública, otorgándole un plazo de tres días hábiles contados a partir del día hábil siguiente a la conclusión de la auditoría, para efecto de que el referido ente rinda informe a través del cual dé respuesta a las observaciones, presente las justificaciones y aclaraciones que correspondan.
+
+La Auditoría Superior del Estado podrá citar por lo menos con tres días hábiles de anticipación a una reunión de confronta, en la que se le dará a conocer la evaluación de las justificaciones y las aclaraciones presentadas, de esta reunión se emitirá por triplicado el acta correspondiente. Asimismo, derivado de la reunión de confronta la Auditoría Superior del Estado, podrá otorgar adicionalmente tres días hábiles al ente fiscalizado a fin de que presente las justificaciones y aclaraciones complementarias que estime pertinente.
+
+Una vez que la Auditoría Superior del Estado valore las justificaciones, aclaraciones y demás información a que hacen referencia los párrafos anteriores, podrá determinar la procedencia de eliminar, rectificar o ratificar los resultados y las observaciones preliminares que dio a conocer a las entidades fiscalizadas y procederá a emitir la cédula de resultados finales.
+
+La Auditoría Superior del Estado deberá dar a conocer al ente fiscalizado la cédula de resultados finales, dentro de un término de sesenta días hábiles siguientes a aquel en que se realizó la reunión de confronta. Cuando no se realice la reunión de confronta, el término referido deberá contarse a partir del día hábil siguiente a la conclusión del plazo a que se refiere el párrafo segundo de este artículo.
+
+Para los entes fiscalizados que no presenten las justificaciones y aclaraciones a que se refiere el párrafo segundo de este artículo, la cédula de resultados preliminares hará las veces de cédula de resultados finales. En estos casos, el plazo a que se refiere el párrafo anterior, contará a partir del día hábil siguiente a la conclusión del plazo que se precisa en el párrafo segundo de este artículo.
+
+Lo dispuesto en este artículo, en lo conducente, será aplicable a la revisión y fiscalización de los demás entes fiscalizables.
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2013)</small>
+
+###### Artículo 49 Bis.
+
+En relación con las recomendaciones de desempeño que la Auditoría Superior del Estado emita a las entidades fiscalizadas, dentro de un plazo de treinta días hábiles contados a partir del día hábil siguiente al que surta efectos la notificación correspondiente, deberán rendir un informe en el que precisen las mejoras efectuadas, las acciones a realizar o, en su caso, justificar su improcedencia o las razones por las cuales no resulta factible su implementación.
 
 ###### Artículo 50.
 
@@ -705,13 +1109,39 @@ VI. Por el incumplimiento de metas y objetivos contenidos en los programas; y,
 
 VII. Las que a juicio de la Auditoría Superior del Estado resulten legalmente procedentes.
 
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2013)</small>
+
+###### Artículo 50 Bis.
+
+Las observaciones que, en su caso emita la Auditoría Superior del Estado, al realizar la fiscalización de la cuenta pública de los Poderes del Estado, Municipios, así como de los informes sobre la aplicación de los recursos públicos recibidos durante el ejercicio fiscal anterior de los Entes Públicos Estatales y Municipales, podrán derivar en:
+
+I. Acciones promovidas: Las solicitudes de aclaración, recuperación, pliegos de observaciones, promociones de intervención de la instancia de control competente, promociones de responsabilidad administrativa sancionatoria, fincamiento de responsabilidad resarcitoria, denuncias de hechos y denuncias de juicio político.
+
+Las acciones promovidas que deriven de las auditorías de desempeño, deberán incluirse anualmente en el Informe de Resultados de la Revisión y Fiscalización Superior de la Cuenta Pública, relativa al segundo semestre del ejercicio fiscal correspondiente;
+
+II. Recomendaciones, incluyendo las referentes al desempeño.
+
 ###### Artículo 51.
 
 El Auditor Superior del Estado formulará directamente a las entidades correspondientes, los pliegos de observaciones, recomendaciones y de responsabilidades derivados de la revisión de las cuentas públicas, turnando copia a la Comisión de Fiscalización.
 
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2013)</small>
+
+En caso de que correspondan a períodos en que los presuntos responsables de las entidades fiscalizadas no sean los titulares que se encuentran en funciones, deberá notificarse a los ex titulares en su domicilio particular o en el domicilio donde labore, a fin de que puedan coadyuvar en la solventación del pliego de observaciones correspondiente.
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2013)</small>
+
+###### Artículo 51 Bis.
+
+Los ex titulares de las entidades fiscalizadas están obligados a contestar las observaciones que se formulen con motivo del proceso de fiscalización que corresponda al período de su gestión dentro del plazo que establece el artículo 82 de esta Ley.
+
+Asimismo, tendrán derecho a solicitar por escrito la información que consideren pertinente a los titulares de las entidades fiscalizadas, quienes estarán obligados a entregar al peticionario la información con que se cuente en sus archivos, dentro de un plazo improrrogable de diez días hábiles, contados a -partir del día siguiente al de la fecha de la presentación de la solicitud correspondiente. También tendrán derecho a solicitar las copias certificadas que requieran a su costa.
+
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
+
 ###### Artículo 52.
 
-Las recomendaciones se fundamentarán en la Constitución Política del Estado de Sinaloa, la presente Ley, la Ley Orgánica de la Administración Pública del Estado de Sinaloa, la Ley de Responsabilidades de los Servidores Públicos del Estado de Sinaloa, la Ley de Gobierno Municipal del Estado de Sinaloa, las Leyes de Hacienda Estatal y Municipal, la Ley de Ingresos y Presupuesto de Egresos del Estado y las Leyes de Ingresos Municipales, la Ley de Adquisiciones y Administración de Bienes Muebles del Estado, la Ley de Obras Públicas del Estado de Sinaloa, Ley de Deuda Pública, los Presupuestos de Egresos de los Municipios, Ley de Presupuesto, Contabilidad y Gasto Público, el Manual de Contabilidad Gubernamental, el Manual de Contabilidad Hacendaria Municipal y demás disposiciones legales sobre la materia.
+Las recomendaciones se fundamentarán en la Constitución Política; la presente Ley; la Ley Orgánica de la Administración Pública; la Ley de Responsabilidades Administrativas de los Servidores Públicos; la Ley de Gobierno Municipal, las Leyes de Hacienda Estatal y Municipal; la Ley de Ingresos y Presupuesto de Egresos y las Leyes de Ingresos Municipales, la Ley de Adquisiciones, Arrendamientos, Servicios y Administración de Bienes Muebles; la Ley de Obras Públicas; Ley de Deuda Pública; los Presupuestos de Egresos de los Municipios; Ley de Presupuesto, Contabilidad y Gasto Público; todas del Estado; el Manual de Contabilidad Gubernamental; el Manual de Contabilidad Hacendaría Municipal; la Ley General de Contabilidad Gubernamental; la Ley de Fiscalización y Rendición de Cuentas de la Federación y demás disposiciones legales sobre la materia.
 
 ###### Artículo 53.
 
@@ -739,7 +1169,9 @@ Las actividades de los auditores se sujetarán a las formalidades siguientes:
 
 I. Presentar, para cada caso, la orden foliada y original debidamente autorizada por el Auditor Superior del Estado o por el servidor público que señale el Reglamento Interior, la cual, especificará su objeto;
 
-II. Identificarse con la documentación expedida al efecto por la Legislatura del Estado a través de la dependencia correspondiente;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2013)</small>
+
+II. Identificarse con la documentación expedida al efecto por el Auditor Superior del Estado;
 
 III. Dejar constancia de sus actuaciones en actas administrativas debidamente circunstanciadas y ante dos testigos; y,
 
@@ -819,7 +1251,9 @@ IV. Los resultados de la gestión financiera en el período sujeto a revisión;
 
 V. El estado de situación financiera que guarda la administración pública al término de ese período;
 
-VI. El cumplimiento de los principios de contabilidad gubernamental y de las disposiciones contenidas en los ordenamientos legales correspondientes;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2013)</small>
+
+VI. El cumplimiento de los postulados básicos de contabilidad gubernamental y de las disposiciones contenidas en los ordenamientos legales correspondientes;
 
 VII. El análisis de las desviaciones presupuestarias, si las hubiere;
 
@@ -827,13 +1261,17 @@ VIII. Las observaciones que se hayan formulado a los auditados, así como la sol
 
 IX. La opinión del órgano fiscalizador sobre los resultados obtenidos de las auditorías practicadas.
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
+
 ###### Artículo 69.
 
-El Congreso del Estado deberá resolver lo concerniente en cada una de las cuentas públicas, sin perjuicio de que la Auditoría Superior del Estado en los informes de resultados le dé cuenta, a través de la Comisión de Fiscalización, de los pliegos de observaciones no solventados, de la imposición de las sanciones correspondientes, así como el fincamiento de otro tipo de responsabilidades y denuncias de hechos ilícitos, que realicen de conformidad con lo dispuesto en esta Ley.
+El Congreso del Estado deberá resolver lo concerniente a cada una de las cuentas públicas, sin perjuicio de que la Auditoría Superior de Estado le informe a través de la Comisión de Fiscalización, de los pliegos de observaciones no solventados, de la imposición de las sanciones correspondientes, así como la promoción del fincamiento de otro tipo de responsabilidades y denuncias de hechos ilícitos, que se realicen de conformidad con lo dispuesto en esta Ley.
 
 ### Capítulo Séptimo. De la Fiscalización de Recursos Federales Ejercidos por los Entes Fiscalizables
 
 ### Capítulo Primero. De la Investigación de Irregularidades y de la Determinación de Daños y Perjuicios
+
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
 
 ###### Artículo 70.
 
@@ -851,7 +1289,9 @@ La Auditoría Superior, una vez que haya concluido con la auditoria, presentará
 
 Para los efectos de la determinación de daños y el fincamiento de responsabilidades se observará en lo conducente lo que señala el Título Quinto de esta Ley.
 
-### Capítulo Segundo. Del Procedimiento para Fincar Indemnizaciones y Sanciones Pecuniarias
+### Capítulo Segundo. Del Procedimiento para Fincar Indemnizaciones y Sanciones Resarcitorias
+
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
 
 ###### Artículo 74.
 
@@ -861,71 +1301,99 @@ Para efectos de la fiscalización de recursos federales que ejerzan las entidade
 
 El Auditor Superior del Estado, con sujeción a los convenios celebrados, acordará la forma y términos en que, en su caso, el personal a su cargo realizará la fiscalización de los recursos de origen federal que ejerzan los entes fiscalizables.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE ABRIL DE 2013)</small>
+
 ### Capítulo Tercero. De las Responsabilidades Administrativas de los Servidores Públicos de la Auditoría Superior del Estado
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ABRIL DE 2013)</small>
 
 ### Capítulo Primero. Del Recurso de Revocación
 
 ### Capítulo Segundo. De la Prescripción de Responsabilidades
 
-## Título Quinto. De la Determinación de Daños y Perjuicios, y del Fincamiento de Indemnizaciones y Sanciones Pecuniarias
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
+
+## Título Quinto. De la Determinación de Daños y Perjuicios Patrimoniales y del Fincamiento de Indemnizaciones y Sanciones Resarcitorias
 
 ###### Artículo 76.
 
-Si de la revisión y fiscalización de las cuentas públicas, aparecieran irregularidades que permitan presumir la existencia de hechos o conductas que produzcan daños y perjuicios en contra de las haciendas públicas estatal y municipales, al patrimonio de las demás entidades fiscalizadas, la Auditoría Superior procederá de inmediato a iniciar las investigaciones del caso y, al efecto podrá requerir a las entidades fiscalizadas un informe de sus actuaciones.
+Si de la revisión y fiscalización de las cuentas públicas aparecieran irregularidades que permitan presumir la existencia de hechos o conductas que produzcan daños y perjuicios patrimoniales al Estado y a los Municipios en relación con el ingreso, egreso, hacienda pública y a los Entes Públicos Estatales o Municipales, en relación al ingreso, egreso y al patrimonio, la Auditoria Superior del Estado, procederá a emitir el pliego de observaciones correspondiente en el que determinará de manera presunta la responsabilidad de los infractores, fijando en cantidad líquida el monto de los daños y perjuicios correspondientes.
+
+El pliego de observaciones deberá notificarse a las entidades fiscalizadas, para que dentro .de un plazo improrrogable de treinta días hábiles contados a partir del día siguiente a la fecha de su notificación, procedan a su solventación ante la Auditoría Superior del Estado.
+
+Para la solventación de los pliegos de observaciones, las entidades fiscalizadas deberán actualizar el importe de la indemnización contenida en los mismos.
+
+Para actualizar la indemnización a que se refiere el párrafo anterior, se deberá multiplicar el monto referido por el factor de actualización que corresponda al periodo comprendido entre la fecha en que el importe determinado salió del patrimonio del ente fiscalizable y la fecha en que se vaya a restituir dicha cantidad al patrimonio del ente fiscalizable de que se trate.
+
+Para calcular el factor de actualización se dividirá el índice Nacional de Precios al Consumidor del mes anterior a aquel en que se vayan a reintegrar las cantidades determinadas como indemnización en el pliego de observaciones, entre el referido índice del mes anterior a aquel en el que se determinó la salida del recurso o haya ocurrido el daño patrimonial. Los factores de actualización se calcularán hasta el diezmilésimo.
+
+El índice Nacional de Precios al Consumidor es un indicador económico que mide las variaciones en los precios de manera mensual. Lo determina el Banco de México y se publica en el Diario Oficial de la Federación, por lo que en el caso de que cuando se pretenda reintegrar el monto determinado como indemnización, no haya sido publicado el referido índice del mes anterior al más reciente del periodo, se aplicará a la formula el último publicado.
+
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
 
 ###### Artículo 77.
 
-Las entidades fiscalizadas deberán rendir a la Auditoría Superior del Estado, en un plazo que no excederá de veinte días hábiles contados a partir de la recepción del requerimiento, un informe de sus actuaciones.
+Sin perjuicio del principio de posterioridad, cuando se presenten denuncias fundadas con documentos o evidencias que permita presumir la existencia de hechos o conductas que produzcan daños y perjuicios patrimoniales al Estado y a los Municipios en relación con el ingreso, egreso, hacienda pública y a los Entes Públicos Estatales o Municipales, en relación al ingreso, egreso y al patrimonio, la Auditoria Superior del Estado, procederá de inmediato a iniciar las investigaciones del caso y, al efecto podrá requerir a las entidades fiscalizables un informe de sus actuaciones relacionado con la denuncia.
+
+La entidad fiscalizable que corresponda deberá rendir a la Auditoría Superior del Estado, en un plazo que no excederá de veinte días hábiles contados a partir de la recepción del requerimiento, un informe de sus actuaciones relacionadas con la denuncia.
 
 Este plazo no podrá ampliarse por más de veinte días hábiles, sin causa justificada.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ABRIL DE 2013)</small>
+
 ###### Artículo 78.
 
-Si transcurrido el plazo señalado en el artículo anterior, las entidades fiscalizadas, sin causa justificada, no presentan el informe requerido, la Auditoría Superior del Estado podrá imponer, dependiendo de la gravedad de la conducta, las sanciones administrativas establecidas en el artículo 84 de esta ley.
+Si transcurrido el plazo señalado en el artículo anterior, la entidad fiscalizable no presenta el informe requerido, la Auditoría Superior del Estado podrá imponer la multa establecida en el artículo 34 Bis D, de esta Ley.
 
 La imposición de sanciones no eximirá al infractor del cumplimiento de sus obligaciones y de la regularización de las situaciones que las motivaron.
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
+
 ###### Artículo 79.
 
-Si como resultado de las investigaciones a que hace referencia este Capítulo, apareciere alguna irregularidad o conducta ilícita, la Auditoría Superior del Estado procederá a:
+La Auditoría Superior del Estado podrá requerir a las entidades fiscalizables la revisión de conceptos específicos vinculados de manera directa con las denuncias presentadas.
 
-l. Determinar los daños y perjuicios correspondientes y fincar directamente a los responsables las indemnizaciones y sanciones pecuniarias respectivas;
-
-II. Promover ante las autoridades competentes el fincamiento de otras responsabilidades;
-
-III. Promover las acciones de responsabilidad a que se refiere el Título
-
-VI de la Constitución Política del Estado; y,
-
-IV. Formular denuncias, querellas o hará las promociones que las leyes determinen en cuyos procedimientos tendrá la intervención que señale la Ley.
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
 
 ###### Artículo 80.
 
-La Auditoría Superior del Estado determinará los daños y perjuicios que afecten a las haciendas públicas estatal, municipales y al patrimonio de las demás entidades fiscalizadas, con base en medios probatorios que permitan presumir el manejo, aplicación o custodia irregulares de recursos públicos. Al efecto, la Auditoría Superior del Estado podrá requerir a las entidades fiscalizadas la revisión de conceptos específicos vinculados de manera directa con sus investigaciones o con las denuncias presentadas.
+La Auditoría Superior del Estado formulará a la entidad fiscalizable que corresponda, los pliegos de observaciones derivados de las denuncias, en los que determinará de manera presunta la responsabilidad de los infractores, fijando en cantidad líquida el monto de los daños y perjuicios correspondientes.
+
+El pliego de observaciones que se deriven de las denuncias deberá notificarse a los entes fiscalizables correspondientes para que dentro del plazo improrrogable que se establece en el párrafo segundo del artículo 76 de esta Ley, procedan a su solventación ante la Auditoría Superior del Estado.
+
+Para la solventación de los pliegos de observaciones, las entidades fiscalizadas deberán actualizar el importe de la indemnización contenida en los mismos, con base al procedimiento que para tal efecto establecen los párrafos cuarto, quinto y sexto del artículo 76 de esta Ley.
+
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
 
 ###### Artículo 81.
 
-La Auditoría Superior del Estado formulará a las entidades fiscalizadas, según sea el caso, los pliegos de observaciones derivadas de la revisión y fiscalización de las cuentas públicas, en los que se determinará la presunta responsabilidad de los infractores, y se fijará en cantidad líquida el monto de los daños y perjuicios.
+Si transcurrido el plazo que se establece en el segundo párrafo de los artículos 76 y 80, las entidades fiscalizadas no solventan el pliego de observaciones correspondiente, la Auditoría Superior del Estado, procederá a:
+
+I. Determinar los daños y perjuicios patrimoniales a que se refiere esta Ley y fincar las responsabilidades resarcitorias directamente a quienes resulten responsables;
+
+II. Promover ante las autoridades competentes el fincamiento de otras responsabilidades;
+
+III. Promover las acciones de responsabilidad a que se refiere el Título VI de la Constitución Política del Estado; y,
+
+IV. Formular denuncias, querellas o hará las promociones que las leyes determinen en cuyos procedimientos tendrá la intervención que señale la Ley.
+
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
 
 ###### Artículo 82.
 
-Las entidades fiscalizadas, dentro de un plazo de treinta días hábiles, contados a partir de la fecha de recibido de los pliegos de observaciones, deberán solventarlos ante la Auditoría Superior del Estado y ésta emitirá la resolución correspondiente. Cuando los pliegos de observaciones no sean solventados dentro del plazo señalado, o bien, la documentación y argumentos presentados no sean suficientes, la Auditoría Superior iniciará el procedimiento para fincar las indemnizaciones, sanciones pecuniarias y responsabilidades a que haya lugar.
+La Auditoría Superior del Estado para determinar los daños y perjuicios patrimoniales que se ocasionen al Estado y los Municipios en relación con el ingreso, egreso y la hacienda pública y los que se ocasionen a los Entes Públicos Estatales o Municipales en relación con el ingreso, egreso y al patrimonio, lo deberá realizar con base en medios probatorios que permitan presumir el manejo, aplicación o custodia irregular de recursos públicos.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE ABRIL DE 2013)</small>
 
 ###### Artículo 83.
 
-Para los efectos de esta Ley, son sujetos del fincamiento de indemnizaciones y sanciones pecuniarias:
+Los servidores públicos y las personas físicas o morales del sector social o privado serán sujetos del fincamiento de indemnizaciones y sanciones resarcitorias, cuando por actos u omisiones causen daños o perjuicios estimable en dinero al Estado y los Municipios en relación con el ingreso, egreso y la hacienda pública y a los Entes Públicos Estatales y Municipales en relación con el ingreso, egreso y al patrimonio.
 
-I. Los servidores públicos y los particulares, personas físicas o morales, por actos u omisiones que causen daño o perjuicio estimable en dinero a las Haciendas Públicas Estatal o municipales o al patrimonio de las demás entidades fiscalizadas;
-
-II. Los servidores públicos de los Poderes del Estado, municipios y demás entidades fiscalizadas que incumplan con las obligaciones que esta ley les establece; y,
-
-III. Los servidores públicos de los poderes del Estado, municipios y demás entidades fiscalizadas que no rindan informes acerca de la solventación de los pliegos de observaciones formulados y remitidos por la Auditoría Superior del Estado.
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
 
 ###### Artículo 84.
 
-Las indemnizaciones y sanciones pecuniarias que conforme a esta Ley se finquen a los responsables, son sanciones administrativas y las primeras, tienen por objeto resarcir, el monto de los daños y perjuicios estimables en dinero que se hayan causado, a las haciendas públicas estatal y municipal así como al patrimonio de las demás entidades fiscalizadas. Las segundas, tienen por objeto penalizar las acciones u omisiones que hayan generado los daños y perjuicios causados, así como el beneficio obtenido.
-
-Las indemnizaciones se fincarán independientemente de aquellas que sean objeto de otras leyes, y de las sanciones pecuniarias correspondientes.
+Las responsabilidades resarcitorias se fincarán por medio de indemnizaciones y sanciones resarcitorias.
 
 ###### Artículo 85.
 
@@ -933,53 +1401,35 @@ Las indemnizaciones y sanciones se fincarán en primer término a los servidores
 
 Serán responsables solidarios con los servidores públicos, los particulares, que hayan participado en los actos u omisiones que causen responsabilidad.
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
+
 ###### Artículo 86.
 
-Las sanciones administrativas referidas en el artículo 84, se fincarán independientemente de las que procedan con base en otras leyes y de sanciones de carácter penal que imponga la autoridad judicial.
+Las indemnizaciones y sanciones resarcitorias que establece esta Ley, se fincarán independientemente de las que procedan con base a otras leyes.
+
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
 
 ###### Artículo 87.
 
-Las sanciones pecuniarias que se finquen a los servidores públicos de los Poderes del Estado, municipios y demás entidades fiscalizadas, no eximen a éstos ni a las empresas privadas o a los particulares, de sus obligaciones, cuyo cumplimiento se les exigirá aún cuando la indemnización se hubiere hecho efectiva total o parcialmente.
+Las responsabilidades resarcitorias que se finquen a los servidores públicos de los Poderes del Estado, Municipios y los Entes Públicos Estatales y Municipales, no los exime de sus obligaciones y de la regularización de las situaciones que las motivaron cuyo cumplimiento se les exigirá aún cuando la indemnización y la sanción resarcitoria correspondiente se hubiere hecho efectiva total o parcialmente.
 
 ###### Artículo 88.
 
 Las indemnizaciones se establecerán en proporción a los daños y perjuicios patrimoniales causados o de acuerdo al beneficio económico obtenido.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
 
-Las sanciones pecuniarias que se impongan, serán cuando menos en una cantidad igual al monto del daño o perjuicio causado o del beneficio obtenido y como máximo al triple de los mismos. Para la imposición de estas sanciones, se tomará en cuenta lo establecido por la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Sinaloa, en materia de sanciones administrativas.
+Las sanciones resarcitorias que se impongan, serán cuando menos igual al monto de la indemnización más la actualización de ésta y como máximo, al triple de la misma. Para la imposición de estas sanciones se seguirá el procedimiento establecido en el artículo 94 de esta Ley.
 
 ###### Artículo 89.
 
-Se sancionará con multa de 500 a 2000 días de salario mínimo general para el Estado de Sinaloa, a los servidores públicos de las entidades fiscalizadas, que en el ejercicio de sus funciones incumplan con las siguientes obligaciones:
+(DEROGADO, P.O. 19 DE ABRIL DE 2013)
 
-l. Rendir oportunamente la cuenta pública;
-
-II. Proporcionar la información que solicite la Auditoría Superior del Estado en los términos establecidos en la Ley;
-
-III. Llevar a cabo la integración o comprobación de las cuentas públicas o informes financieros conforme a lo establecido por los ordenamientos aplicables;
-
-IV. Observar las normas aplicables, los procedimientos, métodos y sistemas en materia de contabilidad gubernamental;
-
-V. Rendir informes y dar contestación en los términos de esta Ley, a las observaciones y recomendaciones que formule la Auditoría Superior del Estado, derivadas de la revisión de la cuenta pública mensual, o del resultado de las auditorías practicadas;
-
-VI. Remitir los informes financieros en los plazos establecidos en la Constitución Política del Estado y esta Ley;
-
-VII. Caucionar oportunamente el manejo de los recursos públicos; y,
-
-VIII. Realizar el gasto en base a los presupuestos de egresos en los términos en que hayan sido aprobados.
-
-> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2011)</small>
-
-La reincidencia se sancionará con una multa hasta del doble de la ya impuesta, sin perjuicio de que se deba atender el requerimiento respectivo, para lo cual deberá tomarse en cuenta su situación económica, la gravedad de la infracción cometida, el importe o monto del daño o perjuico (sic), y su nivel jerárquico.
-
-> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2011)</small>
-
-No se impondrán las multas a que se refiere este artículo, cuando el incumplimiento por parte de los servidores públicos se derive de causas ajenas a su responsabilidad.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ABRIL DE 2013)</small>
 
 ###### Artículo 90.
 
-Los despachos contables, autorizados para la práctica de auditorías a las entidades fiscalizables, incurren en responsabilidad y serán sancionados en los términos del artículo anterior, cuando:
+Los despachos contables autorizados para la práctica de auditorías a las entidades fiscalizables, incurren en responsabilidad y serán sancionados en los términos del artículo 34 Bis D de esta Ley, cuando:
 
 I. Al realizar su función fiscalizadora no formulen las observaciones sobre las irregularidades que detecten;
 
@@ -987,7 +1437,9 @@ II. No guarden secreto y revelen los hechos, datos o circunstancias de que tenga
 
 III. En el desempeño de sus funciones obren con negligencia impidiendo determinar a tiempo las faltas o delitos cometidos por los servidores públicos; o,
 
-IV. No observen, en los casos que procedan, el cumplimiento de los principios de contabilidad gubernamental.
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2013)</small>
+
+IV. No observen, en los casos que procedan, el cumplimiento de los postulados de contabilidad gubernamental.
 
 Dependiendo de la gravedad, la Auditoría Superior del Estado, podrá cancelar de manera provisional o definitiva el registro de validación ante la misma o en su caso, la inhabilitación de seis a veinte años, para volver a realizar auditorías a los entes fiscalizables.
 
@@ -1007,13 +1459,77 @@ El monto recaudado por concepto de multas se destinará al fortalecimiento de la
 
 La autoridad que haga efectivas las sanciones impuestas por la Auditoría Superior del Estado deberá informar a ésta sobre su cumplimiento.
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
+
 ###### Artículo 94.
 
-En la imposición de las sanciones previstas en esta ley, se seguirá el procedimiento que establece el Capítulo VI de la Ley de Responsabilidades de los Servidores Públicos del Estado de Sinaloa.
+El fincamiento de las responsabilidades resarcitorias se sujetará al procedimiento siguiente:
+
+I. Se citará personalmente al presunto o presuntos responsables para que comparezcan personalmente a una audiencia, haciéndoles saber los hechos u omisiones que se les imputan y que sean causa de responsabilidad en los términos de esta Ley;
+
+II. En la audiencia respectiva el presunto o presuntos responsables podrán manifestar lo que a su derecho convenga, ofrecer pruebas y formular alegatos que tengan relación con los hechos que se les imputan. El presunto o presuntos responsables podrán asistir acompañados de su abogado o persona de su confianza;
+
+III. La audiencia a que se refieren las fracciones anteriores, deberá celebrarse diez días hábiles posteriores a la fecha en que surta efectos la notificación del oficio citatorio, en el lugar, día y hora que el mismo señale.
+
+La notificación del oficio citatorio deberá realizarse de manera personal, será legalmente válida cuando se efectúe en el domicilio correspondiente o en su centro de trabajo;
+
+IV. Cuando no comparezcan sin causa justa, se celebrará la audiencia y se tendrán por ciertos los hechos que se le imputan y por precluido su derecho para ofrecer pruebas o formular alegatos, debiendo resolverse con los elementos que obren en el expediente respectivo. Cuando la no comparecencia sea por causa justa deberá acreditarse esta circunstancia antes o durante la celebración de la audiencia;
+
+V. En la audiencia el presunto responsable de forma directa o a través de su representante podrá ofrecer las pruebas que a su interés convenga.
+
+Una vez desahogadas las pruebas que fueron admitidas, el presunto responsable o responsables, por sí o a través de su defensor, podrán formular los alegatos que a su derecho convenga, ya sea en forma oral o escrita.
+
+En el procedimiento no se admitirán ni desahogarán incidentes de previo y especial pronunciamiento ni la prueba confesional de las autoridades, así como tampoco aquellas pruebas que sean contrarias a la moral o al derecho;
+
+V. Cuando hubiesen concluido las etapas de ofrecimiento de pruebas y alegatos, la Auditoría Superior del Estado procederá a cerrar la instrucción del procedimiento citando éste para resolución; y,
+
+VI. Dentro de un término de cuarenta y cinco días hábiles siguientes al cierre de la instrucción, deberá emitirse la resolución en la que se determinará la existencia o inexistencia de responsabilidad resarcitoria y fincar, en su caso, el pliego definitivo de responsabilidades en el que se determine la indemnización y la sanción resarcitoria correspondiente, al responsable o a los responsables, debiendo notificar a estos la resolución correspondiente, acompañando el pliego definitivo de responsabilidades.
+
+La indemnización invariablemente deberá ser suficiente para cubrir los daños y perjuicios patrimoniales causados.
+
+Cuando los responsables sean servidores públicos, el referido pliego definitivo de responsabilidades será también notificado a la entidad pública fiscalizada, según corresponda y al órgano interno de control respectivo y en el caso de los Municipios al Síndico Procurador del Ayuntamiento relativo.
+
+Los presuntos responsables citados a procedimiento, en los días y horas hábiles podrán consultar los expedientes administrativos donde consten los hechos que se les imputen y obtener a su costa las copias certificadas de los documentos correspondientes.
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2013)</small>
+
+###### Artículo 94 Bis.
+
+Si la Auditoría Superior del Estado encontrara que los elementos con que cuenta son insuficientes para resolver, o advierta elementos que impliquen nueva responsabilidad a cargo del presunto o presuntos responsables o de otras personas, de oficio ordenará la práctica de nuevas diligencias.
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2013)</small>
+
+Artículo 94 Bis A. Las actuaciones y diligencias se practicarán en días y horas hábiles. Son días hábiles todos los del año, excepto los sábados y domingos; el primero de enero; el primer lunes de febrero en conmemoración del cinco de febrero; el tercer lunes de marzo en conmemoración del veintiuno de marzo; el primero y cinco de mayo, el dieciséis de septiembre; el tercer lunes de noviembre en conmemoración del veinte de noviembre; cada seis años, el día que corresponda a la transmisión del poder ejecutivo federal; periodos vacacionales, así como aquellos que mediante acuerdo del Auditor Superior del Estado se declaren como inhábiles.
+
+El acuerdo anteriormente referido deberá publicarse en el Periódico Oficial "El Estado de Sinaloa", la página electrónica oficial y en sitios visibles de la Auditoría Superior del Estado. Son horas hábiles las comprendidas de las nueve a las dieciséis horas.
+
+Cuando una actuación o diligencia se hubiese iniciado en hora hábil podrá concluirse en hora inhábil.
+
+La existencia de personal de guardia o permanencia del personal en las oficinas de la Auditoría Superior del Estado, en días inhábiles o fuera del horario señalado en el párrafo anterior, no habilita los días ni las horas.
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2013)</small>
+
+Artículo 94 Bis B. Cuando esta Ley no prevea plazo la Auditoría Superior del Estado podrá fijarlo y no será inferior a tres ni mayor de diez días hábiles, contados a partir del día hábil siguiente al que surta efecto la notificación del requerimiento respectivo.
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2013)</small>
+
+Artículo 94 Bis C. Los plazos empezarán a correr a partir del día hábil siguiente al que surtan efecto las notificaciones.
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2013)</small>
+
+Artículo 94 Bis D. En todas las cuestiones relativas al procedimiento no previstas en este Capítulo, se aplicarán supletoriamente las disposiciones de la Ley de Justicia Administrativa, el Código de Procedimientos Civiles y el Código Fiscal, todos para el Estado de Sinaloa.
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2013)</small>
+
+Artículo 94 Bis E. La Auditoría Superior del Estado deberá remitir una copia certificada del pliego definitivo de responsabilidades a la Secretaría de Administración y Finanzas del Estado, para el efecto que establece el artículo 91 de esta Ley.
+
+La Auditoría Superior del Estado podrá solicitar a la Secretaría de Administración y Finanzas del Estado, se proceda al embargo precautorio de los bienes de los presuntos responsables a efecto de garantizar el cobro de la indemnización y sanción impuesta, sólo cuando haya sido determinado en cantidad liquida el monto de la responsabilidad resarcitoria respectiva.
+
+El presunto o presuntos responsables podrán solicitar la sustitución del embargo precautorio, por cualquiera de las garantías que establece el Código Fiscal del Estado.
 
 ###### Artículo 95.
 
-Los servidores públicos de la Auditoría Superior del Estado serán sancionados por el Auditor Superior, además de las causas y motivos previstos en la Ley de Responsabilidades de los Servidores Públicos del Estado de Sinaloa, cuando:
+Los servidores públicos de la Auditoría Superior del Estado serán sancionados por el Auditor Superior, cuando:
 
 l. Al realizar su función fiscalizadora no formulen las observaciones sobre las irregularidades graves que detecten;
 
@@ -1023,9 +1539,11 @@ III. En el desempeño de sus funciones obren con negligencia impidiendo determin
 
 IV. Infrinjan las normas disciplinarias establecidas.
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
+
 ###### Artículo 96.
 
-Para la determinación de las responsabilidades administrativas de los servidores públicos de la Auditoría Superior del Estado, se seguirá el procedimiento previsto en el Capítulo VI de la Ley de Responsabilidades de los Servidores Públicos del Estado de Sinaloa, aplicándose en su caso, las sanciones que la misma prevé.
+Para la determinación y aplicación de las responsabilidades administrativas de los servidores públicos de la Auditoría Superior del Estado, por los motivos que establece el artículo anterior, se seguirá el procedimiento previsto en el Título Tercero Capítulo II de la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Sinaloa, aplicándose en su caso, las sanciones que la misma prevé.
 
 ## Título Sexto. De los Medios de Defensa
 
@@ -1157,7 +1675,7 @@ La resolución que recaiga al recurso de revocación interpuesto ante la Auditor
 
 ###### Artículo 110.
 
-Las facultades de la Auditoría Superior del Estado para determinar indemnizaciones y sanciones pecuniarias, prescribirán en cinco años. El plazo de prescripción se contará a partir del día siguiente a aquél en que se hubiere incurrido en la responsabilidad o a partir del momento en que hubiese cesado, si fue de carácter continuo.
+Las facultades de la Auditoria Superior del Estado para determinar e imponer indemnizaciones y sanciones resarcitorias, prescribirán en cinco años. El plazo de prescripción se contará a partir del día siguiente a aquél en que se hubiere incurrido en la responsabilidad o a partir del momento en que hubiese cesado, si fue de carácter continuo.
 
 ###### Artículo 111.
 
@@ -1275,7 +1793,7 @@ Lic. Óscar J. Lara Aréchiga.
 
 Rúbrica
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 8 DE JULIO DE 2011.
 
@@ -1302,3 +1820,17 @@ Para el ejercicio de las atribuciones que tiene conferidas la Unidad Técnica de
 ###### ARTÍCULO QUINTO.
 
 Para efectos de lo anterior, la Comisión de Fiscalización, expedirá dentro de los 90 días siguientes, contados a partir de la entrada en vigencia del presente Decreto, el Reglamento Interior de la Unidad Técnica de Evaluación de la Auditoría Superior del Estado; cuya estructura y organización se realizará conforme a los principios de transparencia, austeridad, racionalidad y disciplina del gasto público.
+
+P.O. 19 DE ABRIL DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+A partir de la entrada en vigor del presente Decreto, se derogan todas aquellas disposiciones legales que se opongan o contravengan al mismo.
+
+###### ARTÍCULO TERCERO.
+
+Los procedimientos que se hayan iniciado por la Auditoría Superior del Estado a los entes fiscalizables conforme a las disposiciones que rige (sic) su actuación y de la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Sinaloa, antes de la entrada en vigor del presente decreto de reforma, y que se encuentren en trámite o pendientes de resolución, deberán sustanciarse y resolverse conforme a las disposiciones vigentes en el momento en el que se iniciaron tales procedimientos.
