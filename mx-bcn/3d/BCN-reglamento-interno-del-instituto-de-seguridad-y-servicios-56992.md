@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-del-instituto-de-seguridad-y-servicios-56992
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-09-21"
-last_updated: "2007-09-21"
+last_updated: "2013-04-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56992&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 REGLAMENTO INTERNO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL GOBIERNO Y MUNICIPIOS DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL GOBIERNO Y MUNICIPIOS DEL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 19 DE ABRIL DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 21 de septiembre de 2007.
 
@@ -1648,3 +1650,13 @@ BERNARDO H. MARTÍNEZ AGUIRRE
 SECRETARIO DE SALUD
 
 JOSÉ GUADALUPE BUSTAMANTE MORENO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 19 DE ABRIL DE 2013.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California
+
+SEGUNDO.- Se abroga el Reglamento Interno del Instituto de Seguridad y Servicios Sociales de los trabajadores del Gobierno y Municipios del Estado de Baja California, publicado en el Periódico Oficial del Estado el día 21 de septiembre de 2007.
+
+TERCERO.- En tanto no se expidan los manuales administrativos que este Reglamento menciona, el Director General queda facultado para resolver los asuntos que conforme a dichos manuales se deban regular.
