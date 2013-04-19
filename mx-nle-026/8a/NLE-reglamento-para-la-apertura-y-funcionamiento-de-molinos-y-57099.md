@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-la-apertura-y-funcionamiento-de-molinos-y-57099
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-08-20"
-last_updated: "2011-11-14"
+last_updated: "2013-04-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57099&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO PARA LA APERTURA Y FUNCIONAMIENTO DE MOLINOS Y TORTILLERÍAS DE NIXTAMAL DE MAÍZ, DE HARINA, DE TRIGO Y SUS DERIVADOS, ASÍ COMO LA COMERCIALIZACIÓN EN LA VÍA PUBLICA DE SUS PRODUCTOS PARA EL MUNICIPIO DE GUADALUPE, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 20 de agosto del 2007.
 
@@ -75,7 +75,9 @@ III.- El Secretario del R. Ayuntamiento;
 
 IV.- El Director de Espectáculos y Comercio;
 
-V.- El Director de Protección Civil.
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2013)</small>
+
+V.- El responsable de la unidad de Protección Civil Municipal.
 
 ###### Artículo 4.
 
@@ -143,9 +145,11 @@ IX.- Elaborar un registro de establecimientos, comercios, distribuidores y vende
 
 X.- Las demás que le encomiende la Autoridad Competente.
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
+
 ###### Artículo 7.
 
-Compete al Director de Protección Civil, que los propietarios, encargados y/o poseedores de los establecimientos que ejercen la actividad mercantil que preceptúa este ordenamiento, cumplan cabalmente las normas mínimas y máximas de seguridad en los términos del Reglamento de Protección Civil de este Municipio y la Ley de Protección Civil vigente en el Estado, a fin de prevenir altos riesgos, emergencias y desastres o cualquier eventualidad que ponga en riesgo la seguridad del personal y usuarios de dichos giros.
+Compete a la unidad de Protección Civil Municipal, que los propietarios, encargados y/o poseedores de los establecimientos que ejercen la actividad mercantil que preceptúa este ordenamiento, cumplan cabalmente las normas mínimas y máximas de seguridad en los términos del Reglamento de Protección Civil de este Municipio y la Ley de Protección Civil vigente en el Estado, a fin de prevenir altos riesgos, emergencias y desastres o cualquier eventualidad que ponga en riesgo la seguridad del personal y usuarios de dichos giros.
 
 ###### Artículo 8.
 
@@ -155,9 +159,11 @@ a) Fabricación y venta de masa de nixtamal, de tortilla de maíz, de harina de 
 
 b) Venta de tortillas de maíz, de harina de trigo empaquetadas, en la vía pública.
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
+
 ###### Artículo 9.
 
-Las Autorizaciones que otorgue la Dirección podrán ser objeto de traspaso de titular cuando éste ejerza en el mismo negocio y cumpla el nuevo titular con los mismos requisitos, asimismo se autorizarán cambios de domicilio, sólo cuando correspondan al mismo titular, previo el pago de visto bueno de no adeudos, ante la Tesorería Municipal.
+Las Autorizaciones que otorgue la Dirección podrán ser objeto de traspaso de titular cuando éste ejerza en el mismo negocio y cumpla el nuevo titular con los mismos requisitos, asimismo se autorizarán cambios de domicilio, sólo cuando correspondan al mismo titular, previo el pago de visto bueno de no adeudos, ante la Secretaría de Finanzas y Tesorería Municipal.
 
 ### CAPITULO III. DEL TRÁMITE DE SOLICITUD DE AUTORIZACIONES
 
@@ -177,13 +183,17 @@ Los interesados en obtener autorizaciones para comercio establecido deberán cum
 
 I.- Solicitar por escrito donde conste nombre del solicitante, nacionalidad, giro del negocio o comercio, domicilio del local o locales para el que se solicite y domicilio para oír y recibir notificaciones. En el caso de persona moral además deberá acreditar su personalidad con acta constitutiva de la empresa o sociedad, que contenga los datos de inscripción, ante el Registro Público de la Propiedad y del Comercio y poder general notarial, otorgado conforme a la legislación civil vigente.
 
-II.- Copia de recibo de pago correspondiente y/o de visto bueno ante la Tesorería Municipal.
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2013)</small>
+
+II.- Copia de recibo de pago correspondiente y/o de visto bueno ante la Secretaría de Finanzas y Tesorería Municipal.
 
 III.- Autorización de uso de suelo otorgada por la autoridad municipal correspondiente.
 
 IV.- Certificación de la Unidad Municipal de Protección Civil, sobre seguridad en instalaciones de gas, en el caso de solicitudes de autorizaciones tipo "A", o en su defecto por la Unidad Estatal de Protección Civil.
 
-V.- Estudio de impacto ambiental realizado por la Dirección de Ecología Municipal, en el caso de solicitudes de autorizaciones tipo "B" a que se refiere este Reglamento.
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2013)</small>
+
+V.- Estudio de impacto ambiental realizado por la dependencia competente en materia de Ecología del municipio, que establezca el Reglamento Orgánico de la Administración Pública Municipal de Guadalupe, N.L., en el caso de solicitudes de autorizaciones tipo “B” a que se refiere este Reglamento.
 
 VI.- Copia de credencial de elector o copia de C. U. R. P.
 
@@ -209,9 +219,9 @@ I.- En caso de realizar la actividad en vehículo de motor, triciclo, o cualquie
 
 II.- Todo vehículo de motor, que se utilice para la distribución de las tortillas deberá contar con seguro de responsabilidad civil, así como también el conductor de la unidad deberá contar con la licencia de chofer vigente, a fin de salvaguardar los intereses de terceros en caso de accidente.
 
-> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2013)</small>
 
-III.- Al realizar la venta de la tortilla en la vía pública, deberá cumplir con las normas establecidas por la Secretaría de Salud del Estado, así como con las demás disposiciones establecidas en los reglamentos municipales aplicables.
+III.- Al realizar la venta de la tortilla en la vía pública, deberá cumplir con las normas establecidas por la Secretaría de Salud del Estado, así como con las demás disposiciones establecidas en los reglamentos municipales correspondiente (sic)
 
 IV.- (DEROGADA, P.O. 14 DE NOVIEMBRE DE 2011)
 
@@ -253,9 +263,11 @@ Las inspecciones podrán ser ordinarias o extraordinarias, las primeras se efect
 
 Los inspectores, para llevar acabo visitas de inspección, deberán estar provistos del oficio de comisión debidamente fundamentado y motivado expedido por la Dirección, además de las actas respectivamente foliadas.
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
+
 ###### Artículo 18.
 
-Al iniciar la visita, el Inspector de Comercio e Inspección, deberá exhibir el oficio de comisión, así como su credencial vigente con fotografía, expedida por el Secretario del R. Ayuntamiento, que lo acredite para desempeñar dicha función.
+Al iniciar la visita, el Inspector, deberá exhibir el oficio de comisión, así como su credencial vigente con fotografía, expedida por el Secretario del R. Ayuntamiento, que lo acredite para desempeñar dicha función.
 
 ###### Artículo 19.
 
@@ -299,15 +311,15 @@ Las autorizaciones de los establecimientos podrán traspasarse o hacer cambio de
 
 I.- Se deberá anexar la autorización en original a la solicitud.
 
-> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2013)</small>
 
-II.- cumplir con los requisitos establecidos en el artículo 12 del presente Reglamento;
+II.- Cumplir con los requisitos establecidos en el artículo 12 del presente reglamento.
 
 III.- Identificación oficial de las personas que lo van a realizar.
 
 Artículos 23.- Para realizar el cambio de domicilio del molino de nixtamal y tortillerías deberán presentarlo por escrito ante la Dirección, indicando el número de autorización, así como el domicilio del nuevo local en donde se pretende instalar el negocio.
 
-> <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 19 DE ABRIL DE 2013)</small>
 
 ###### Artículo 24.
 
@@ -391,7 +403,9 @@ Son causas de clausura temporal las siguientes:
 
 I.- Cuando tenga más de dos multas consecutivas en un lapso de treinta días naturales por la misma infracción.
 
-II.- Al realizar la venta del producto en la vía pública, no cuente con el certificado médico que otorga la Secretaría de Salud Municipal, así como incumpla con las condiciones de salubridad e higiene, en caso de los negocios establecidos.
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2013)</small>
+
+II. Al realizar la venta del producto en la vía pública, no cuente con el certificado médico que otorga la dependencia competente en materia de Salud Pública Municipal, de conformidad al Reglamento Orgánico del (sic) la Administración Pública Municipal de Guadalupe, Nuevo León así como incumpla con las condiciones de salubridad e higiene, en caso de los negocios establecidos.
 
 ###### Artículo 33.
 
@@ -401,7 +415,9 @@ I.- Al requerírsele la autorización correspondiente, no la presente;
 
 II.- Al anunciarse por perifoneo en la vía pública no muestre la autorización para realizar dicha actividad.
 
-III.- No cuente con el certificado médico que otorga la Dirección de Salud Municipal, así como incumpla con las condiciones de salubridad e higiene, quien solicite la autorización.
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2013)</small>
+
+III.- No cuente con el certificado médico que otorga la dependencia competente en materia de Salud Pública Municipal, de conformidad al Reglamento Orgánico del (sic) la Administración Pública Municipal de Guadalupe, Nuevo León, así como incumpla con las condiciones de salubridad e higiene, quien solicite la autorización.
 
 ###### Artículo 34.
 
@@ -425,7 +441,9 @@ El cumplimiento de las sanciones no exime a los infractores de corregir las irre
 
 Para la imposición de las sanciones previstas en el presente reglamento, la Autoridad Municipal se sujetará a las formalidades siguientes:
 
-Remitida por el Inspector, el acta levantada con motivo de la inspección ordenada, el Director de Comercio llevará a cabo su análisis, si del mismo se desprenden presuntas infracciones, dicha dependencia, inmediatamente emitirá acuerdo de inicio del procedimiento administrativo, en el cual se deberá de especificar:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ABRIL DE 2013)</small>
+
+Remitida por el Inspector, el acta levantada con motivo de la inspección ordenada, el Director de Espectáculos y Comercio llevará a cabo su análisis, si del mismo se desprenden presuntas infracciones, dicha dependencia, inmediatamente emitirá acuerdo de inicio del procedimiento administrativo, en el cual se deberá de especificar:
 
 a) Las presuntas infracciones;
 
@@ -481,9 +499,11 @@ Celebrada la audiencia de pruebas y alegatos, dentro de los 15 quince días háb
 
 La admisión del recurso suspenderá la ejecución de la sanción económica, hasta en tanto no se tenga la resolución del mismo.
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
+
 ###### Artículo 44.
 
-Para todo lo no previsto en este reglamento se observarán de manera supletoria las disposiciones del Código Procesal Civil Vigente en el Estado.
+Para todo lo no previsto en este reglamento se observarán de manera supletoria las disposiciones del Código de Procedimientos Civiles vigente en el Estado.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -512,3 +532,9 @@ P.O. 14 DE NOVIEMBRE DE 2011.
 PRIMERO.- Las presentes reformas por derogación de la Fracción IV y VII del artículos (sic) 4, Fracción X del artículo 12, así como las reformas por modificación de la fracción III y derogación de la fracción IV del artículo 14, reformas por modificación de los artículos 22 fracción II y artículo 24 del REGLAMENTO PARA LA APERTURA Y FUNCIONAMIENTO DE MOLINOS Y TORTILLERÍAS DE NIXTAMAL DE MAÍZ, DE HARINA, DE TRIGO Y SUS DERIVADOS, ASÍ COMO LA COMERCIALIZACIÓN EN LA VÍA PÚBLICA DE SUS PRODUCTOS PARA EL MUNICIPIO DE GUADALUPE, NUEVO LEÓN, entrarán en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 SEGUNDO.- Se derogan así mismo todas las disposiciones, reglamentarias, circulares, acuerdos y normas que contravengan al contenido de las presentes reformas.
+
+P.O. 19 DE ABRIL DE 2013.
+
+PRIMERO: Las presentes reformas al Reglamento para la Apertura y Funcionamiento de Molinos y Tortillerías de Nixtamal de Maíz, de Harina de Trigo y sus Derivados, así como la Comercialización en la Vía Pública de sus Productos para el Municipio de Guadalupe, Nuevo León, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO: Gírese el presente al Presidente Municipal para que instruya al Secretario de Ayuntamiento para que remita su publicación en el Periódico Oficial del Estado, en la Gaceta Municipal y en el Sitio Oficial de Internet del Municipio.
