@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-de-la-administracion-publica-del-estado-de-84030"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-11-30"
-last_updated: "2012-10-19"
+last_updated: "2013-04-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84030&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2013.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Coahuila, el miércoles 30 de noviembre de 2011.
 
@@ -169,7 +169,9 @@ XIX. Resolver con opinión del Consejero Jurídico, las controversias de compete
 
 XX. Tomar la protesta de quienes sean titulares de la Procuraduría General de Justicia y de las secretarías del ramo;
 
-XXI. Otorgar los estímulos e incentivos fiscales de carácter general, así como los apoyos específicos que sean necesarios para atraer inversiones a la entidad, propuestos por quienes sean titulares de las secretarías de Finanzas y de Desarrollo Económico y sean votados por el gabinete, y
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2013)</small>
+
+XXI. Otorgar los estímulos e incentivos fiscales de carácter general, así como los apoyos específicos que sean necesarios para atraer inversiones a la entidad, propuestos por quienes sean titulares de las secretarías de Finanzas y de Desarrollo Económico y Competitividad y sean votados por el gabinete, y;
 
 XXII. Las que con ese carácter le confieran la Constitución federal, la Constitución Política del Estado y las leyes aplicables.
 
@@ -217,11 +219,19 @@ VI. Formular y proponer al gobernador la política de comunicación social y las
 
 VII. Coordinar y supervisar los programas de comunicación social de las dependencias del sector público estatal;
 
-VIII. Gestionar y administrar los recursos necesarios para el adecuado funcionamiento del Despacho del Ejecutivo, y
+VIII. Gestionar y administrar los recursos necesarios para el adecuado funcionamiento del Despacho del Ejecutivo, y (sic)
 
-IX. Las demás que le confieran expresamente este ordenamiento, otras disposiciones aplicables y aquellas que le encomiende el gobernador.
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2013)</small>
 
-A la Oficina del Gobernador, le estarán adscritas la Secretaría Técnica y de Planeación, las unidades de Derechos Humanos y de Comunicación Social, así como la unidad de administración.
+IX. Coordinar a la representación del Gobierno del Estado en el Distrito Federal;
+
+> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2013)</small>
+
+X. Las demás que le confieran expresamente este ordenamiento, otras disposiciones aplicables y aquellas que le encomiende el gobernador.
+
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
+
+A la Oficina del Gobernador, le estarán adscritas la Secretaría Técnica y de Planeación, la unidad de Derechos Humanos, de Comunicación Social, la unidad de administración y la Unidad de Representación del Gobierno del Estado en el Distrito Federal.
 
 ###### ARTÍCULO 12.
 
@@ -367,7 +377,9 @@ I. Secretaría de Gobierno;
 
 II. Secretaría de Cultura;
 
-III. Secretaría de Desarrollo Económico;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2013)</small>
+
+III. Secretaría de Desarrollo Económico y Competitividad;
 
 IV. Secretaría de Desarrollo Rural;
 
@@ -573,11 +585,15 @@ X. Ejercer las acciones correspondientes para la preservación del patrimonio cu
 
 XI. Fomentar la capacitación y profesionalización cultural y artística en la sociedad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ABRIL DE 2013)</small>
+
 ###### ARTÍCULO 25.
 
-A la Secretaría de Desarrollo Económico le corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Desarrollo Económico y Competitividad le corresponde el despacho de los siguientes asuntos:
 
-I. Formular, coordinar y evaluar las políticas, planes, programas y proyectos relacionados con el desarrollo, promoción y fomento económico, de conformidad con el Plan Estatal de Desarrollo;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2013)</small>
+
+I. Formular, coordinar y evaluar las políticas, planes, programas y proyectos relacionados con el desarrollo, promoción, fomento económico y competitividad, de conformidad con el Plan Estatal de Desarrollo;
 
 II. Promover e impulsar el establecimiento, ampliación y desarrollo integral de los diversos sectores que integran la planta productiva del estado;
 
@@ -585,7 +601,9 @@ III. Participar con otras entidades federativas, en el desarrollo e instrumentac
 
 IV. Diseñar, proponer y ejecutar las acciones para el establecimiento de nuevos proyectos de inversión nacional y extranjera en el estado, vigilando la preservación de los recursos naturales, así como la creación de fuentes de empleo y el impulso al desarrollo tecnológico;
 
-V. Promover, generar, instrumentar y dar seguimiento a los acuerdos del gobierno con las entidades federativas, otros países y organismos internacionales, que contribuyan al desarrollo económico del estado;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2013)</small>
+
+V. Promover, generar, instrumentar y dar seguimiento a los acuerdos del gobierno con las entidades federativas, otros países y organismos internacionales, que contribuyan al desarrollo económico y la competitividad del estado;
 
 VI. Formular, dirigir e impulsar las acciones tendientes a estimular la calidad y competitividad productiva en el estado;
 
@@ -593,7 +611,9 @@ VII. Diseñar y proponer, en coordinación con las instancias correspondientes, 
 
 VIII. Apoyar a los municipios del estado en la formulación de proyectos específicos de inversión;
 
-IX. Impulsar la investigación tecnológica e industrial, dirigida a incrementar la productividad y mejora de la calidad de los bienes y servicios;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2013)</small>
+
+IX. Impulsar la investigación tecnológica e industrial, dirigida a incrementar la competitividad productiva y mejora de la calidad de los bienes y servicios;
 
 X. Asesorar a la iniciativa privada para el establecimiento y ampliación de empresas, comercios, industrias o unidades de producción;
 
@@ -601,9 +621,37 @@ XI. Proponer al gabinete y al gobernador el proyecto de estímulos fiscales de c
 
 XII. Promover los incentivos y estímulos fiscales, financieros y de infraestructura para buscar el establecimiento y ampliación de empresas en la entidad;
 
-XIII. Formular estudios técnicos para determinar la factibilidad para la creación de parques y zonas industriales, comerciales y de servicios, y
+XIII. Formular estudios técnicos para determinar la factibilidad para la creación de parques y zonas industriales, comerciales y de servicios, y (sic)
 
 XIV. Supervisar en el ejercicio de sus atribuciones que las empresas, industrias y comercios instalados en el estado ajusten sus actividades a lo establecido en los diversos ordenamientos jurídicos y administrativos.
+
+> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2013)</small>
+
+XV. Mejorar la competitividad y productividad del estado de acuerdo a su propia vocación;
+
+> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2013)</small>
+
+XVI. Participar de manera activa en las instancias nacionales e internacionales de competitividad y desarrollo económico;
+
+> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2013)</small>
+
+XVII. Implementar las acciones y programas para detectar obstáculos a la inversión nacional e internacional;
+
+> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2013)</small>
+
+XVIII. Promover, orientar, fomentar y estimular el desarrollo de las industrias micros, pequeñas y medianas en el estado y apoyar a las mismas en el desarrollo de programas de comercio exterior;
+
+> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2013)</small>
+
+XIX. Concretar la vinculación de los sectores gubernamental, productivo y educativo, tendientes a incrementar e incentivar la promoción, el desarrollo y la inversión en las distintas actividades económicas del estado;
+
+> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2013)</small>
+
+XX. Elaborar e implementar, en coordinación con las instancias competentes de los tres niveles de gobierno, el Programa Estatal de Competitividad, como un instrumento económico que permita contar con las herramientas necesarias para el desarrollo integral de la entidad, en congruencia con el Plan Estatal de Desarrollo;
+
+> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2013)</small>
+
+XXI. Ejecutar las acciones necesarias que permitan al estado llevar a cabo análisis prospectivos y retrospectivos referentes a la situación socioeconómica, demográfica, y otras características de la población en el contexto estatal, mediante la elaboración de estudios, investigaciones y proyección de escenarios de carácter cuantitativos y cualitativos, con el fin de coadyuvar a la planeación, diseño y seguimiento de estrategias, programas, proyectos y acciones en el Estado.
 
 ###### ARTÍCULO 26.
 
@@ -1155,7 +1203,9 @@ VII. Elaborar y resguardar los padrones de las asociaciones obreras, patronales 
 
 VIII. Dirigir y coordinar la Procuraduría de la Defensa del Trabajo y el servicio social de estudiantes y practicantes en esta materia;
 
-IX. Coordinar la integración de la Junta Local de Conciliación y Arbitraje y vigilar su correcto funcionamiento;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2013)</small>
+
+IX. Coordinar la Integración de las Juntas Locales y Especiales de Conciliación y Arbitraje y vigilar su correcto funcionamiento;
 
 X. Participar, a petición de parte, en la negociación o revisión de contratos colectivos de trabajo;
 
@@ -1163,13 +1213,15 @@ XI. Intervenir de oficio o a petición de parte, en los conflictos obrero patron
 
 XII. Ordenar y supervisar, en el ámbito de su competencia, las visitas de verificación y de inspección a los centros de trabajo que sean necesarias, para comprobar el cumplimiento de las disposiciones legales en materia laboral y, en su caso aplicar las sanciones administrativas correspondientes;
 
-XIII. Vigilar el cumplimiento de las normas relativas a la capacitación y adiestramiento de los trabajadores;
+XIII. (DEROGADA, P.O. 19 DE ABRIL DE 2013)
 
-XIV. Coadyuvar con las autoridades federales en la aplicación y vigilancia de las normas del trabajo;
+XIV. (DEROGADA, P.O. 19 DE ABRIL DE 2013)
 
-XV. Promover, vigilar e inspeccionar el cumplimiento de las normas de seguridad social, así como informar al Instituto Mexicano del Seguro Social y al Instituto Nacional del Fondo para la Vivienda de los Trabajadores, sobre transgresiones a las normas, de las cuales tenga conocimiento o empresas que omitan ofrecer estas prestaciones a sus trabajadores;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2013)</small>
 
-XVI. Vigilar en coordinación con las instancias correspondientes, que en los centros laborales se cumpla con las disposiciones legales relativas a la seguridad e higiene en el trabajo;
+XV. Informar a las Instituciones Públicas de Seguridad y Previsión Social, sobre empresas que omitan otorgar estas prestaciones a sus trabajadores o que trasgredan las normas aplicables, de las cuales tenga conocimiento.
+
+XVI. (DEROGADA, P.O. 19 DE ABRIL DE 2013)
 
 XVII. Llevar las estadísticas generales correspondientes a la materia de trabajo;
 
@@ -1189,7 +1241,9 @@ II. Promover las zonas de desarrollo turístico en la entidad y apoyar el desarr
 
 III. Establecer programas permanentes para alentar el turismo interno y para promover en el mundo las riquezas paleontológicas e históricas y la singularidad de la naturaleza de Coahuila, como un mecanismo de atracción de visitantes especializados;
 
-IV. Auxiliarse de la Secretaría de Desarrollo Económico para alentar el turismo de negocios y generar alternativas de esparcimiento para este tipo de visitantes;
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2013)</small>
+
+IV. Auxiliarse de la Secretaría de Desarrollo Económico y Competitividad para alentar el turismo de negocios y generar alternativas de esparcimiento para este tipo de visitantes;
 
 V. Promover aspectos de calidad y competitividad en los programas de desarrollo turístico;
 
@@ -1297,15 +1351,17 @@ La creación, funcionamiento, control y evaluación de las entidades que conform
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
+
 ###### ARTÍCULO 41.
 
-La impartición de la justicia laboral, se realizará de acuerdo a lo previsto por el apartado A del artículo 123 de la Constitución Federal, a través de la Junta Local de Conciliación y Arbitraje en lo concerniente a las ramas no previstas por el artículo 527 fracción I y II de la Ley Federal del Trabajo.
+La impartición de la justicia laboral, se realizará de acuerdo a lo previsto por el apartado A del artículo 123 de la Constitución Federal, a través de las Juntas Locales y Especiales de Conciliación y Arbitraje, en lo concerniente a las ramas no previstas por el artículo 527 fracción I y II de la Ley Federal del Trabajo.
+
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
 
 ###### ARTÍCULO 42.
 
-Para el conocimiento, trámite y resolución de los conflictos laborales que se presenten entre trabajadores y patrones, funcionará la Junta Local de Conciliación y Arbitraje, con sede en la capital del estado y las Juntas Especiales de la Local de Conciliación y Arbitraje necesarias, las que tendrán, para resolver, plena autonomía e independencia del ejecutivo del estado, se organizarán en los términos de la legislación correspondiente y conocerán y resolverán los conflictos de trabajo que no sean de la competencia de la Junta Federal de Conciliación y Arbitraje.
-
-El titular del ejecutivo determinará la sede de las Juntas Especiales que se requieran.
+Para el conocimiento, trámite y resolución de los conflictos laborales que se presenten entre trabajadores y patrones, funcionarán las Juntas Locales y Especiales de Conciliación y Arbitraje necesarias, las que tendrán plena autonomía e independencia del ejecutivo del Estado, se organizarán en los términos de la legislación correspondiente y conocerán y resolverán los conflictos de trabajo que no sean de la competencia de la Junta Federal de Conciliación y Arbitraje.
 
 ###### ARTÍCULO 43.
 
@@ -1460,3 +1516,17 @@ TERCERO.- En tanto se concluye el proceso de transferencia a que se refieren las
 CUARTO.- En la incorporación de los demás servidores públicos de la Defensoría Jurídica Integral, del Poder Ejecutivo al Poder Judicial, se respetarán todos sus derechos laborales, no perderán su antigüedad laboral; sus prestaciones y nivel jerárquico o laboral, y no podrán ser disminuidas respecto a las que tienen derecho al momento en que entre en vigor el presente Decreto.
 
 QUINTO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 19 DE ABRIL DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se cuenta con un plazo de 60 días siguientes a la entrada en vigor del presente Decreto, para que se emita el Reglamento Interior que regule la actividad de la Unidad de Representación del Gobierno del Estado en el Distrito Federal.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones legales que se opongan al presente Decreto.
