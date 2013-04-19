@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-11-2013-del-pleno-del-consejo-de-la-93522"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-04-09"
-last_updated: "2013-04-09"
+last_updated: "2013-04-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93522&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2013-04-01"
 ---
 # ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [REFORMA DIVERSOS ACUERDOS GENERALES DEL PROPIO CONSEJO, CON EL OBJETO DE ACTUALIZAR ATRIBUCIONES Y PROCEDIMIENTOS EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACION Y PROTECCION DE DATOS PERSONALES]
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE ABRIL DE 2013 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ACUERDO GENERAL 11/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DIVERSOS ACUERDOS GENERALES DEL PROPIO CONSEJO, CON EL OBJETO DE ACTUALIZAR ATRIBUCIONES Y PROCEDIMIENTOS EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS PERSONALES
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 19 DE ABRIL DE 2013.</small>
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el martes 9 de abril de 2013.
 
@@ -323,11 +323,11 @@ V. a XX. …
 
 Una vez autorizado el dictamen de valoración documental por el Archivo General, las áreas administrativas llevarán a cabo la destrucción o transferencia de los expedientes al archivo histórico, lo que se hará constar en un acta, la cual deberá ser firmada por el titular del área o los servidores públicos que para tal efecto designe. En el caso de la baja documental se remitirá una copia al titular del Archivo General para su publicación, según se dispone en el propio artículo 8, fracción X del presente acuerdo”.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE ABRIL DE 2013 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., D.O.F. 19 DE ABRIL DE 2013)</small>
 
 ###### ARTÍCULO CUARTO
 
-Se REFORMAN los artículos 18; 20; 21; 25; 26; 27 primer y tercer párrafos; 28 y 31; y, se ADICIONAN el artículo 22, con un segundo párrafo; 23, con un segundo, tercero, cuarto, quinto, sexto y séptimo párrafos, pasando el actual segundo párrafo a ser octavo, del Acuerdo General 16/2009 del Pleno del Consejo de la Judicatura Federal, que regula las sesiones de los tribunales colegiados de circuito y establece los lineamientos para su videograbación y difusión, para quedar como sigue:
+Se REFORMAN los artículos 18; 20; 21; 25; 26; 27 primer y tercer párrafos; 28 y 31; y, se ADICIONAN el artículo 22, con un segundo párrafo; 23, con un segundo, tercero, cuarto, quinto, sexto y séptimo párrafos, pasando el actual tercer párrafo a ser octavo, del Acuerdo General 16/2009, del Pleno del Consejo de la Judicatura Federal, que regula las sesiones de los tribunales colegiados de circuito y establece los lineamientos para su videograbación y difusión, para quedar como sigue:
 
 “Artículo 18. La sala de sesiones de los tribunales colegiados de Circuito en la República contará con un equipo de grabación de audio y video. La unidad administrativa competente en materia informática, verificará su debido funcionamiento, para lo cual, implementará las acciones tendentes a capacitar al personal que el Pleno del tribunal designe, para operar el sistema de grabación.
 
