@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-limpia-para-el-municipio-de-tijuana-baja-3143"
 country: "mx"
 rank: "reglamento"
 publication_date: "1991-11-20"
-last_updated: "1991-11-20"
+last_updated: "2013-04-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3143&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LIMPIA PARA EL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el miércoles 20 de noviembre de 1991.
 
@@ -45,9 +45,11 @@ REGLAMENTO DE LIMPIA PARA EL MUNICIPIO DE TIJUANA, B.C.
 
 El presente Reglamento es de orden social e interes general y tiene por objeto regular la prestación del Servicio de Limpia en el Municipio de Tijuana. Son sujetos obligados del mismo los habitantes de B. C. y los que transiten por su territorio.
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
+
 ###### Artículo 2o.
 
-La prestación del servicio de limpia del Municipio de Tijuana, estará a cargo de la Autoridad Municipal, quien lo prestará con la cooperación de los vecinos, por conducto de la Dirección de Obras y Servicios Públicos Municipales, en los términos de la ley orgánica del propio Ayuntamiento y de su Reglamento interior.
+La prestación del servicio de limpia del Municipio de Tijuana, estará a cargo de la Autoridad Municipal, quien lo prestará con la cooperación de los vecinos, por conducto de la Dirección de Servicios Públicos Municipales, en los términos de la ley orgánica del propio Ayuntamiento y de su Reglamento interior.
 
 ###### Artículo 3o.
 
@@ -73,25 +75,33 @@ I.- Aplicar las normas técnicas ecológicas vigentes para la recolección, trat
 
 II.- Concertar con los medios de comunicación masiva y con los sectores social y privado la realización de campañas de limpieza.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ABRIL DE 2013)</small>
+
 ###### Artículo 6o.
 
-Corresponde al Ayuntamiento por conducto de la Dirección de Obras y Servicios Públicos municipales.
+Corresponde al Ayuntamiento por conducto de la Dirección de Servicios Públicos Municipales:
 
 I.- Prestar el servicio de Limpia.
 
-II.- Nombrar el personal necesario y proporcionar los elementos, equipos, útiles y en general todo el material indispensable para efectuar el barrido manual y mecánico, asi como la recolección de los residuos sólidos, su transporte a las estaciones de transferencia, planta de tratamiento o sitios de disposición final, segun lo indique la Dirección de Obras Y Servicios Públicos Municipales.
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2013)</small>
 
-III.- Promover directamente o bajo régimen de concesión, campañas de reducción de volumen de basura, reuso de productos necesarios y el reciclaje de materiales factibles, en beneficio de la comunidad y de la ecología de la región.
+II.- Nombrar el personal necesario y proporcionar los elementos, equipos, útiles y en general todo el material indispensable para efectuar el barrido manual y mecánico, así como la recolección de los residuos sólidos, su transporte a las estaciones de transferencia, planta de tratamiento o sitios de disposición final, según lo indique la Dirección de Servicios Públicos Municipales.
+
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2013)</small>
+
+III.- Promover directamente o bajo régimen de concesión, campañas de reducción de volumen de basura, rehusó (sic) de productos necesarios y el reciclaje de materiales factibles, en beneficio de la comunidad y de la ecología de la región.
 
 IV.- Diseñar, construir y operar directamente o bajo el régimen de concesión, estaciones de transferencia, plantas de tratamiento de residuos sólidos y sitios de disposición final.
 
 V.- De considerarlo necesario y conveniente por las exigencias de la ciudad y sus habitantes, contratar la prestación del Servicio Público de Limpia de acuerdo con las disposiciones de la Ley Orgánica Municipal.
 
-VI.- En los términos del artículo 4o, coordinar con los vecinos que auxiliaran a la autoridad municipal en la vigencia y cumplimiento del presente Reglamento. Tales vecinos tendran el caracter de inspectores honorarios que integrarán un padron en el Ayuntamiento.
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2013)</small>
 
-VII.- Organizar administrativamente el Servicio Publico de Limpia y formular el programa anual del mismo.
+VI.- En los términos del artículo 4o; coordinar con los vecinos que auxiliarán a la autoridad municipal en la vigencia y cumplimiento del presente Reglamento. Tales vecinos tendrán el carácter de inspectores honorarios que integrarán un Padrón en el Ayuntamiento.
 
-VIII.- Instalar contenedores de residuos sólidos, depositos metálicos o similares, en los lugares que previamente se hayan seleccionado en base a estudios. Se supervisará en forma periódica el buen funcionamiento de los mismos.
+VII.- Organizar administrativamente el Servicio Público de Limpia y formular el programa anual del mismo.
+
+VIII.- Instalar contenedores de residuos sólidos, depósitos metálicos o similares, en los lugares que previamente se hayan seleccionado en base a estudios. Se supervisará en forma periódica el buen funcionamiento de los mismos.
 
 IX.- Atender oportunamente las quejas del público y dictar las medidas necesarias para su mejor y pronta solución.
 
@@ -99,7 +109,9 @@ X.- Establecer rutas y frecuencias en que debe prestarse el servicio público de
 
 XI.- Aplicar las sanciones que correspondan por violación al presente Reglamento.
 
-XII.- Las demas que en la materia le otorguen el Reglamento y otros ordenamientos aplicables.
+> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2013)</small>
+
+XII.- Las demás que en la materia le otorguen el Reglamento y otros ordenamientos aplicables.
 
 ###### Artículo 7o.
 
@@ -133,19 +145,23 @@ III.- Diseño, instrumentación y operación de sistemas de almacenamiento, tran
 
 El barrido de las plazas y vías públicas pavimentadas del Municipio, se hará con la periodicidad que determine la autoridad en atención a sus posibilidades, ésta fijará los horarios de acuerdo con las necesidades del servicio y procurará que se extiendan de las veinte horas (8 de la noche), a las catorce horas (2 de la tarde), del dia siguiente, salvo que por razones especiales deba modificarse.
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
+
 ###### Artículo 11o.
 
-La recolección de residuos sólidos se hará una vez por semana en los dias que fije la Direccion de Obras y Servicios Públicos Municipales. Durante las semanas con un día festivo intermedio, la basura se recogerá un día después de lo acostumbrado. (Empezando un dia después del festivo).
+La recolección de residuos sólidos se hará una vez por semana en los días que fije la Dirección de Servicios Públicos Municipales. Durante las semanas con un día festivo intermedio, la basura se recogerá un día después de lo acostumbrado. (Empezando un día después del festivo).
 
 ###### Artículo 12o.
 
 La Autoridad Municipal, de acuerdo con sus posibilidades, instalará recipientes en las zonas comerciales y turísticas, donde se depositará unicamente la basura y desperdicios provenientes de la via pública.
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
+
 ###### Artículo 13o.
 
-La autorización de construcción, operación y tarifas a particulares de Rellenos Sanitarios o Incineradores de residuos solidos no toxicos estarán a cargo de la Dirección de Obras y Servicios Públicos Municipales, con la normatividad de SEDUE.
+La autorización de construcción, operación y tarifas a particulares de Rellenos Sanitarios o Incineradores de residuos sólidos no tóxicos estarán a cargo de la Dirección de Servicios Públicos Municipales, con la normatividad de SEDUE.
 
-Las Empresas especializadas en estas areas deberán estar inscritas en el Padrón de Empresas registradas en el Ayuntamiento y estarán bajo la supervisión de la Dirección de Obras y Servicios Públicos Municipales.
+Las empresas especializadas en estas áreas deberán estar inscritas en el Padrón de Empresas registradas en el Ayuntamiento y estarán bajo la supervisión de la Dirección de Servicios Públicos Municipales.
 
 ###### Artículo 14o.
 
@@ -155,229 +171,303 @@ Los residuos solidos que se produzcan en hospitales, sanatorios, clínicas y con
 
 Cuando por razones de orden ecónomico y de interes general, los residuos sólidos puedan ser aprovechados industrialmente, el aprovechamiento quedará sujeto a las disposiciones legales vigentes, previo el otorgamiento de la concesión Municipal, la cual autorizará construcciones, procesos y procedimientos que no afecten al ambiente ni la salud pública.
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
+
 ###### Artículo 16o.
 
-El servicio de recoleccion de residuos sólidos domiciliarios será gratuito:
+El servicio de recolección de residuos sólidos domiciliarios será gratuito:
 
-I.- En el caso de establecimientos mercantiles o similares, cuyo volumen de residuos sólidos generados por dia, requiera de servicio con frecuencia mayor de una vez por semana, los propietarios, poseedores o administradores, podrán convenir con la autoridad municipal correspondiente, la recoleccion y transporte de dichos residuos, cubriendo los derechos que para el efecto establezca la ley.
+I.- En el caso de establecimientos mercantiles o similares, cuyo volumen de residuos sólidos generados por día, requiera de servicio con frecuencia mayor de una vez por semana, los propietarios, poseedores o administradores, podrán convenir con la autoridad municipal correspondiente, la recolección y transporte de dichos residuos, cubriendo los derechos que para el efecto establezca la ley.
 
-II.- En el supuesto de que no se convenga en los términos señalados, los propietarios, poseedores o administradores deberán sufragar los costos de recolección y transporte de los residuos solidos, a los lugares que determine la autoridad municipal debiendo observar las condiciones de higiene que establezcan las disposiciones sanitarias respectivas.
+II.- En el supuesto de que no se convenga en los términos señalados, los propietarios, poseedores o administradores deberán sufragar los costos de recolección y transporte de los residuos sólidos, a los lugares que determine la autoridad municipal debiendo observar las condiciones de higiene que establezcan las disposiciones sanitarias respectivas.
 
-Los usuarios procurarán separar los desechos sólidos en orgánicos e inorgánicos, de conformidad con el procedimiento que al efecto emita la Dirección de Obras y Servicios Públicos Municipales.
+Los usuarios procurarán separar los desechos sólidos en orgánicos e inorgánicos, de conformidad con el procedimiento que al efecto emita la Dirección de Servicios Públicos Municipales.
 
 ### CAPITULO III. DE LAS OBLIGACIONES
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
+
 ###### Artículo 17o.
 
-Es obligación de los habitantes del Municipio de Tijuana y de las personas que transiten por su territorio, el participar activamente para conservar limpias las vias públicas y areas comunes de esta Ciudad.
+Es obligación de los habitantes del Municipio de Tijuana y de las personas que transiten por su territorio, el participar activamente para conservar limpias las vías públicas y áreas comunes de esta Ciudad.
+
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
 
 ###### Artículo 18o.
 
-Los habitantes del municipio deberán barrer diariamente las banquetas y la parte de la calle que le corresponde frente a su Domicilio, esta actividad debera realizarse antes de las 9:30 A. M. en zonas habitacionales y a mas tardar a las 10:00 A. M. en las comerciales.
+Los habitantes del municipio deberán barrer diariamente las banquetas y la parte de la calle que le (sic) corresponde frente a su Domicilio, esta actividad deberá realizarse antes de las 9:30 A. M. en zonas habitacionales y a más tardar a las 10:00 A. M. en las comerciales.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 19 DE ABRIL DE 2013)</small>
 
 ###### Artículo 19o.
 
 Los habitantes del municipio, deben mantener en buenas condiciones los prados y jardines que se encuentran localizados enfrente de su propiedad.
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
+
 ###### Artículo 20o.
 
-El lavado de vitrinas, aparadores y ventanas de establecimientos comerciales o de cualquier índole, que preste un servicio al público, deberá hacerse antes de las 10:00 A. M.
+El lavado de vitrinas, aparadores y ventanas de establecimientos comerciales o de cualquier índole, que preste un servicio al público, deber (sic) hacerse antes de las 10:00 A. M.
+
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
 
 ###### Artículo 21o.
 
-Los propietarios o encargados de expendios y bodegas de toda clase de artículos, cuya carga o descarga ensucie la via pública, estan obligados al aseo inmediato del lugar una vez terminadas las maniobras respectivas.
+Los propietarios o encargados de expendios y bodegas de toda clase de artículos, cuya carga o descarga ensucie la vía pública, están obligados al aseo inmediato del lugar una vez terminadas las maniobras respectivas.
 
-###### Artículo 22.
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
 
-Los propietarios, directores responsables de obra, contratistas y encargados de Inmuebles en construcción o demolición, son responsables solidariamente de la diseminación de materiales, escombros y cualquier otra clase de residuos sólidos.
+###### Artículo 22o.
 
-El frente de las construcciones o inmuebles en demolición, deberá mantenerse en completa limpieza, quedando estrictamente prohibido acumular escombros y materiales en la via pública, los responsables deberán transportar los escombros a los sitios que determine la Direccion de Obras y Servicios Públicos Municipales.
+Los propietarios, directores responsables de obra, contratistas y encargados de Inmuebles en construcción demolición, son responsables solidariamente de la diseminación de materiales, escombros y cualquier otra clase de residuos sólidos.
+
+El frente de las construcciones o inmuebles en demolición, deberá mantenerse en completa limpieza, quedando estrictamente prohibido acumular escombros y materiales en la vía pública, los responsables deberán transportar los escombros a los sitios que determine la Dirección de Servicios Públicos Municipales.
+
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
 
 ###### Artículo 23o.
 
-Los propietarios, administradores o encargados de los establecimientos que se dedican a la venta de gasolina o servicio de lubricación y limpieza de vehículos, deberán mantenerlos aseados, así como, los pavimentos de la via pública correspondientes al frente de sus locales.
+Los propietarios, administradores o encargados de los establecimientos que se dedican a la venta de gasolina o servicio de lubricación y limpieza de vehículos, deberán mantenerlos aseados, así como, los pavimentos de la vía pública correspondientes al frente de sus locales.
+
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
 
 ###### Artículo 24o.
 
-Los predios urbanos baldios deberan estar limpios y cercados. Los propietarios de edificios o construcciones desocupados o abandonados, asi como los propietarios de predios baldios, deberán conservarlos limpios de basura y desperdicios e instalar en ellos bardas o cercos conforme a las especificaciones que les marque la Direccion de Obras y Servicios Públicos Municipales.
+Los predios urbanos baldíos deberán estar limpios y cercados. Los propietarios de edificios o construcciones desocupados o abandonados, así como los propietarios de predios baldíos, deberán conservarlos limpios de basura y desperdicios e instalar en ellos bardas o cercos conforme a las especificaciones que les marque la Dirección de Servicios Públicos Municipales.
+
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
 
 ###### Artículo 25o.
 
-Los propietarios de animales domésticos estaran obligados a recoger y limpiar los desechos fecales que arrojen dichos animales en las vías públicas y areas comunes.
+Los propietarios de animales domésticos estarán obligados a recoger y limpiar inmediatamente los desechos fecales que arrojen dichos animales en las vías públicas y áreas comunes.
+
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
 
 ###### Artículo 26o.
 
-Los locatarios de mercados públicos o privados, tanto los ubicados en el interior como los que ocupen locales con frente al exterior, conservaran aseado el espacio comprendido dentro del perimetro de los puestos y depositaran la basura y desperdicios en recipientes metálicos o de plástico rígido, con tapadera que deberan conservar en buen estado.
+Los locatarios de mercados públicos o privados, tanto los ubicados en el interior como los que ocupen locales con frente al exterior, conservarán aseado el espacio comprendido dentro del perímetro de los puestos y depositarán la basura y desperdicios en recipientes metálicos o de plástico rígido, con tapadera que deberán conservar en buen estado.
 
-Los comerciantes de puesto fijos o semifijos, deberán conservar aseada el area que ocupe el puesto y la que rodee en un radio de 2 metros y depositarán las basuras y desperdicios en recipientes metálicos o de plástico rígido, con tapa, que proporcionarán ellos mismos y que deberan encargarse de limpiar y vaciar directamente en lugares y depositos apropiados y autorizados.
+Los comerciantes de puesto (sic) fijos o semifijos, deberán conservar aseada el área que ocupe el puesto y la que rodee en un radio de 2 metros y depositarán las basuras y desperdicios en recipientes metálicos o de plástico rígido, con tapa, que proporcionarán ellos mismos y que deberán encargarse de limpiar y vaciar directamente en lugares y depósitos apropiados y autorizados.
 
-Los permisionarios y concesionarios de vía pública tienen la obligación de mantener aseada la banqueta y parte de la calle en un ancho de 2 metros en toda la longitud concesionada; de proveer depositos metálicos o de plástico rígido, en tamaño (sic) y número adecuado para el deposito de basuras y desperdicios, de depositar la basura producto de la limpieza en esos depositos; de encargarse de la disposicion de la basura y desperdicios de tales depositos diariamente y de orientar al público para mantener limpia el area concesionada.
+Los permisionarios y concesionarios de vía pública tienen la obligación de mantener aseada la banqueta y parte de la calle en un ancho de 2 metros en toda la longitud concesionada; de proveer depósitos metálicos o de plástico rígido, en tamaño y número adecuado para el depósito de basuras y desperdicios, de depositar la basura producto de la limpieza en esos depósitos; de encargarse de la disposición de la basura y desperdicios de tales depósitos diariamente y de orientar al público para mantener limpia el área concesionada.
+
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
 
 ###### Artículo 27o.
 
-Los vecinos del Municipio, deberán tener recipientes suficientes y adecuados para el deposito y manejo de los residuos sólidos los cuales deberan ser de metal o plástico a prueba de agua, con tapa, no debiendo exceder de 160 lts. de capacidad, ni pesar más de 25 kg. con todo y basura cada uno. En zonas con servicio de recolección de una vez por semana, pueden usarse también, bolsas de plástico resistentes, amarradas en forma segura, con peso máximo de 14 kg. cada una.
+Los vecinos del Municipio, deberán tener recipientes suficientes y adecuados para el depósito y manejo de los residuos sólidos los cuales deberán ser de metal o plástico a prueba de agua, con tapa, no debiendo exceder de 160 lts. de capacidad, ni pesar más de 25 kg. con todo y basura cada uno. En zonas con servicio de recolección de una vez por semana, pueden usarse también, bolsas de plástico resistentes, amarradas en forma segura, con peso máximo de 14 kg. cada una.
+
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
 
 ###### Artículo 28o.
 
-La basura deberá ser depositada en sus recipientes o bolsas de plástico cubiertas o cerradas que deberan mantenerse dentro de los predios. El recipiente se sacará a la orilla de la banqueta solamente en el tiempo necesario para su recolección el dia y horario señalado por la Dirección de Obras y Servicios Públicos Municipales. Los recipientes tendran las características que prevee (sic) el artículo 27 de este Reglamento.
+La basura deber (sic) ser depositada en sus recipientes o bolsas de plástico cubiertas o cerradas que deberán mantenerse dentro de los predios. El recipiente se sacará a la orilla de la banqueta solamente en el tiempo necesario para su recolección el día y horario señalado por la Dirección de Servicios Públicos Municipales. Los recipientes tendrán las características que prevé el artículo 27 de este Reglamento.
 
-Si la recoleccion es privada, los botes o bolsas con contenido de basura no deberan estar expuestos en la via publica, salvo en los casos de las colonias que no cuenten con el servicio del Ayuntamiento.
+Si la recolección es privada, los botes o bolsas con contenido de basura no deberán estar expuestos en la vía pública, salvo en los casos de las colonias que no cuenten con el servicio del Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
 
 ###### Artículo 29o.
 
-Los edificios y conjuntos habitaciones con 10 o mas departamentos en un solo predio, los edificios de oficinas con superficie rentable superior a los 1000 metros cuadrados, los edificios y centros comerciales con una superficie mayor a 750 metros cuadrados, deberan contar con contenedores metálicos para basura, cerrables, con capacidad suficiente para el volumen de desechos que se generen tomando en cuenta la población y periodicidad de recolección.
+Los edificios y conjuntos habitaciones con 10 o más departamentos en un solo predio, los edificios de oficinas con superficie rentable superior a los 1000 metros cuadrados, los edificios y centros comerciales con una superficie mayor a 750 metros cuadrados, deberán contar con contenedores metálicos para basura, cerrables, con capacidad suficiente para el volumen de desechos que se generen tomando en cuenta la población y periodicidad de recolección.
 
-La recolección para estos productores de basura la atenderán unicamente concesionarios particulares por cuenta de quienes ocupen los edificios y conjuntos habitacionales anteriormente mencionados, y estas empresas recolectoras particulares deberán estar inscritas en el padron del Ayuntamiento. los recipientes deberan ubicarse dentro del inmueble de los usuarios y por ningun motivo en la via pública. Los proyectos de edificación y centros comerciales a que se refiere este artículo, deberan señalar claramente la ubicación de los contenedores a que se alude.
+La recolección para estos productores de basura la atenderán únicamente concesionarios particulares por cuenta de quienes ocupen los edificios y conjuntos habitacionales anteriormente mencionados, y estas empresas recolectoras particulares deberán estar inscritas en el Padrón del Ayuntamiento, los recipientes deberán ubicarse dentro del inmueble de los usuarios y por ningún motivo en la vía pública. Los proyectores de edificación y centros comerciales a que se refiere este artículo, deberán señalar claramente la ubicación de los contenedores a que se alude.
+
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
 
 ###### Artículo 30o.
 
-Los propietarios, condominos, administradores, arrendatarios o encargados de edificaciones habitacionales, comerciales o públicas, mandarán colocar en los lugares que crean convenientes en el interior de sus inmuebles, los depositos necesarios, a fin de que en ellos se recolecten los residuos sólidos, debiendo sacarlos a la banqueta en el horario que lo indique la Dirección de Obras y Servicios Públicos Municipales cuando sea ésta la que dé el Servicio. En caso de tratarse de una Empresa concesionada, se regirán de acuerdo al Programa aprobado por la misma Dependencia con el objeto de que su contenido sea recogido por el personal del vehículo recolector. Dichos depositos deberán satisfacer las necesidades de servicio del inmueble, y cumplir con las condiciones de seguridad e higiene, de conformidad con la Ley General de Salud para la Cd. de Tijuana y dem^H's (sic) ordenamientos aplicables.
+Los propietarios, condóminos, administradores, arrendatarios o encargados de edificaciones habitacionales, comerciales o públicas, mandarán colocar en los lugares que crean convenientes en el interior de sus inmuebles, los depósitos necesarios, a fin de que en ellos se recolecten los residuos sólidos, debiendo sacarlos a la banqueta en el horario que lo indique la Dirección de Servicios Públicos Municipales cuando sea ésta la que dé el Servicio. En caso de tratarse de una Empresa concesionada, se regirán de acuerdo al Programa aprobado por la misma Dependencia con el objeto de que su contenido sea recogido por el personal del vehículo recolector. Dichos depósitos deberán satisfacer las necesidades de servicio del inmueble, y cumplir con las condiciones de seguridad e higiene, de conformidad con la Ley General de Salud para la Cd. de Tijuana y demás ordenamientos aplicables.
+
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
 
 ###### Artículo 31o.
 
-Toda empresa que transporte residuos sólidos en la ciudad de Tijuana deberá estar inscrita en el padron de empresas ante la Direccion de Obras y Servicios Públicos Municipales y contar con permiso vigente.
+Toda empresa que transporte residuos sólidos en la Ciudad de Tijuana deberá estar inscrita en el padrón de empresas ante la Dirección de Servicios Públicos Municipales y contar con permiso vigente.
+
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
 
 ###### Artículo 32o.
 
-Los conductores de vehiculos destinados al transporte de residuos sólidos o cualquier otro tipo de material, deberan cubrir la caja de sus vehículos con el equipo adecuado para evitar que la carga se esparsa (sic) en el trayecto que recorran. Cuando los materiales que se transportan corran el peligro de esparcirse o producir polvo, deberán ser cubiertos con lonas.
+Los conductores de vehículos destinados al transporte de residuos sólidos o cualquier otro tipo de material, deberán cubrir la caja de sus vehículos con el equipo adecuado para evitar que la carga se esparza en el trayecto que recorran. Cuando los materiales que se transportan corran el peligro de esparcirse o producir polvo, deberán ser cubiertos con lonas.
 
-Así mismo, deberan barrer el interior de la caja del vehículo, una vez descargados los materiales respectivos para evitar que escapen polvos, desperdicios o residuos sólidos durante el recorrido de regreso.
+Así mismo, deberán barrer el interior de la caja del vehículo, una vez descargados los materiales respectivos para evitar que escapen polvos, desperdicios o residuos sólidos durante el recorrido de regreso.
+
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
 
 ###### Artículo 33o.
 
-El transporte de estiercol y desperdicios de establos, caballerizas y similares se hará en vehiculos cerrados por cuenta del interesado, debiendo recabar un permiso de la Direccion de Obras y Servicios Públicos Municipales en el cual se señalará la ruta, horario lugar donde depositará material.
+El transporte de estiércol y desperdicios de establos, caballerizas y similares se hará en vehículos cerrados por cuenta del interesado, debiendo recabar un permiso de la Dirección de Servicios Públicos Municipales en el cual se señalará la ruta, horario lugar donde depositar material.
+
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
 
 ###### Artículo 34o.
 
-Los vehículos que transporten vidrio o envases de vidrio tales como botellas, garrafones, etc. deberán traer consigo los implementos necesarios para recoger los fragmentos que llegaren a tirarse en la via pública.
+Los vehículos que transporten vidrio o envases de vidrio tales como botellas, garrafones, etc. deberán traer consigo los implementos necesarios para recoger los fragmentos que llegaren a tirarse en la vía pública.
+
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
 
 ###### Artículo 35o.
 
 Los propietarios o encargados de casas que tengan jardines o huertos, estarán obligados a transportar por cuenta propia la ramazón, hojarasca, pasto, y demás basura procedente de sus jardines o huertos, cuando su volumen lo amerite, a los sitios que previamente les sean señalados por la autoridad.
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
+
 ###### Artículo 36o.
 
-Los desperdicios de industrias, se almacenarán en lugares que no tengan riesgo de incendios o contaminación y serán transportados por cuenta del interesado en vehículo apropiado debiendo depositarse unicamente en sitios aprobados para ello por la Autoridad Municipal y por cualquier otra autoridad que sea de su competencia.
+Los desperdicios de industrias, se almacenarán en lugares que no tengan riesgo de incendios o contaminación y serán transportados por cuenta del interesado en vehículo apropiado debiendo depositarse únicamente en sitios aprobados para ello por la Autoridad Municipal y por cualquier otra autoridad que sea de su competencia.
 
 ###### Artículo 37o.
 
 Es obligación de los propietarios de edificios, ya sean residenciales o comerciales, ejecutar las obras necesarias para que estos tengan un aspecto limpio y decoroso.
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
+
 ###### Artículo 38o.
 
-Los propietarios de predios tienen la obligación de construir y conservar en buen estado sus banquetas y guarniciones. El hecho de que el inmueble se encuentre deshabilitado o no esté construído, no releva al propietario de esta obligación.
+Los propietarios de predios tienen la obligación de construir y conservar en buen estado sus banquetas y guarniciones. El hecho de que el inmueble se encuentre deshabilitado o no esté construido, no releva al propietario de esta obligación.
+
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
 
 ###### Artículo 39o.
 
-Los propietarios o encargados de estacionamientos y talleres para la reparacion de automoviles, carpintería, pintura y otros establecimientos similares, deberan ejecutar sus labores en el interior de los establecimientos, y no en la vía pública y transportar por su cuenta al lugar que se les indique por la Autoridad Municipal correspondiente, los residuos sólidos que generen.
+Los propietarios o encargados de estacionamientos y talleres para la reparación de autómoviles, carpintería, pintura y otros establecimientos similares, deberán ejecutar sus labores en el interior de los establecimientos, y no en la vía pública y transportar por su cuenta al lugar que se les indique por la Autoridad Municipal correspondiente, los residuos sólidos que generen.
+
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
 
 ###### Artículo 40o.
 
-Todos los comercios, industrias y restaurantes que arrojen al drenaje sanitario de la ciudad sus desechos, deberan construir cajas desgrasadoras para evitar daños a la tuberia, con base a las especificaciones que determine la Dirección de Obras y Servicios Públicos Municipales.
+Todos los comercios, industrias y restaurantes que arrojen al drenaje sanitario de la ciudad sus desechos, deberán construir cajas desgrasadoras para evitar daños a la tubería, con base a las especificaciones que determine la Dirección de Servicios Públicos Municipales.
 
 ### CAPITULO IV. PROHIBICIONES
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
+
 ###### Artículo 41o.
 
-De conformidad con este Reglamento, queda prohibido el uso de la via publica para:
+De conformidad con este Reglamento, queda prohibido el uso de la vía pública para:
 
-a).- Arrojar basura y aguas sucias, ya sea por peatones, desde vehiculos, proveniente del barrido de predios, edificaciones o banquetas.
+a. Arrojar basura y aguas sucias, ya sea por peatones, desde vehículos, proveniente del barrido de predios, edificaciones o banquetas.
 
-b).- Reparar, desmantelar, lavar y almacenar vehiculos de motor, traccion animal o manual.
+b. Reparar, desmantelar, lavar y almacenar vehículos de motor, tracción animal o manual.
 
-c).- Sacudir objetos.
+c. Sacudir objetos.
 
-d).- Encender fuego independientemente del material que se utilice.
+d. Encender fuego independientemente del material que se utilice.
 
-e).- Producir escurrimientos de agua.
+e. Producir escurrimientos de agua.
 
-f).- Arrojar o abandonar en lotes baldios, residuos sólidos o cadáveres de animales.
+f. Arrojar o abandonar en lotes baldíos, residuos sólidos o cadáveres de animales.
 
-g).- Orinar, evacuar, o arrojar excremento.
+g. Orinar, evacuar, o arrojar excremento.
 
-h).- Extraer de los botes colectores, depositos o contenedores instalados en la via pública, los residuos sólidos que contengan.
+h. Extraer de los botes colectores, depósitos o contenedores instalados en la vía pública, los residuos sólidos que contengan.
 
-i).- Colocar recipientes para basura, distintos a los autorizados o bien sacarlos en dias y horas distintas a las que determine la Dirección de Obras y Servicios Públicos Municipales.
+i. Colocar recipientes para basura, distintos a los autorizados o bien sacarlos en días y horas distintas a las que determine la Dirección de Servicios Públicos Municipales.
 
 j).- Ejecutar matanza y destazar animales o bien cocinarlos.
 
-k).- Establecer depositos de residuos sólidos en lugares no autorizados.
+k).- Establecer depósitos de residuos sólidos en lugares no autorizados.
 
-l).- Todo acto u omision que contribuya al desaseo de las vías publicas y areas comunes o que impida la prestación del servicio de limpia.
+l).- Todo acto u omisión que contribuya al desaseo de las vías públicas y área s (sic) comunes o que impida la prestación del servicio de limpia.
+
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
 
 ###### Artículo 42o.
 
-Deberá recabarse permiso de la autoridad Municipal dado por escrito, para las siguientes actividades:
+Deber (sic) recabarse permiso de la autoridad Municipal dado por escrito, para las siguientes actividades:
 
-a).- Utilizar la vía pública para depositar materiales de construcción o similares.
+f (sic). Utilizar la vía pública para depositar materiales de construcción o similares.
 
-b).- Utilizar la via publica para colocar substancias o productos inflamables, corrosivos, explosivos o contaminantes.
+g. Utilizar la vía pública para colocar substancias o productos inflamables, corrosivos, explosivos o contaminantes.
 
-c).- Tener animales en la via pública.
+h. Tener animales en la vía pública.
 
-d).-Repartir avisos de propaganda, volantes de mano y otros.
+i. Repartir avisos de propaganda, volantes de mano y otros.
 
-e).- Fijar anuncios fuera de las carteleras y lugares autorizados.
+j. Fijar anuncios fuera de las carteleras y lugares autorizados.
+
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
 
 ###### Artículo 43o.
 
-Queda prohibido tender dentro de la zona urbana Establos, porquerizas, gallineros, depositos de estiercol y similares que a juicio de la Dirección de Obras y Servicios Públicos Municipales resulten de efectos perniciosos.
+Queda prohibido tender dentro de la zona urbana Establos, Porquerizas, gallineros, depósitos de estiércol y similares que a juicio de la Dirección de Servicios Públicos Municipales resulten de efectos perniciosos.
+
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
 
 ###### Artículo 44o.
 
-Queda prohibido incinerar desechos solidos dentro del area urbana de la ciudad de Tijuana y de los centros de Población del Municipio. Tambien se prohiben las fogatas abiertas con objeto de eliminar basura o desechos solidos.
+Queda prohibido incinerar desechos sólidos dentro del área urbana de la ciudad de Tijuana y de los centros de Población del Municipio. También se prohíben las fogatas abiertas con objeto de eliminar basura o desechos sólidos.
 
 Se excluyen de esta prohibición los incineradores aprobados y las operaciones que realice el Cuerpo Municipal de Bomberos, bajo su control, vigilancia y responsabilidad.
+
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
 
 ###### Artículo 45o.
 
 Queda prohibido colocar en los edificios independientemente de su uso, objetos ajenos al tipo de construcción de que se trate, que contravengan las disposiciones que en esta materia se hubieren dictado por las autoridades competentes y aquellas que por su naturaleza signifiquen peligro para quien transite por las aceras.
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
+
 ###### Artículo 46o.
 
-Queda prohibido colocar en los recipientes para basura de la via publica, los desperdicios provenientes de los predios y edificios, se podrá depositar unicamente los desperdicios provenientes de la vía pública generados por el peatón.
+Queda prohibido colocar en los recipientes para basura de la vía pública, los desperdicios provenientes de los predios y edificios, se podrá depositar únicamente los desperdicios provenientes de la vía pública generados por el peatón.
 
 ### CAPITULO V. DE LA VIGILANCIA PARA EL CUMPLIMIENTO DE ESTE REGLAMENTO
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
+
 ###### Artículo 47o.
 
-La vigilancia del cumplimiento de las disposiciones de este Reglamento, queda a cargo de la Dirección de Obras y Servicios Públicos Municipales.
+La vigilancia del cumplimiento de las disposiciones de este Reglamento, queda a cargo de la Dirección de Servicios Públicos Municipales.
+
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
 
 ###### Artículo 48o.
 
 Son órganos auxiliares para la vigilancia del cumplimiento de las disposiciones de este Reglamento.
 
-a).- Los inspectores de la Direccion de Obras y Servicios publicos Municipales.
+a).- Los inspectores de la Dirección de Servicios Públicos Municipales;
 
-b).- El Jefe del Departamento de Reglamentos y los inspectores a su cargo.
+b).- El Jefe del (sic) DIRECCION DE INSPECCION Y VERIFICACION Y LOS INSPECTORES a su cargo;
 
-c).- Los Agentes de Policia y Transito Municipal.
+c).- Sub Director de Limpia;
 
-d).- Los Delegados Municipales.
+d).- Jefe del Departamento de Limpieza de Vialidades;
 
-e).- Los Inspectores Honorarios autorizados.
+e).- Jefe del Departamento de Recolección y Transferencias;
 
-f).- Los ciudadanos del Municipio.
+f).- Los Agentes de Policía y Tránsito Municipal;
+
+g).- Los Delegados Municipales;
+
+h).- Los Inspectores Honorarios autorizados;
+
+i).- Los ciudadanos del Municipio.
+
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
 
 ###### Artículo 49o.
 
-Los órganos auxiliares de los incisos a), b), c) y d), del artículo que antecede, quedan autorizados para levantar infracciones por violación a este Reglamento. Los particulares deben denunciar a la autoridad, por conducto de la Dirección de Obras y Servicios Públicos Municipales, los casos de infracción a este Reglamento.
+Los órganos auxiliares que se mencionan en el artículo que antecede bajo los incisos a), b), c), d), e), f), y g) quedan autorizados para imponer infracciones por violación a este Reglamento. Los particulares deben denunciar a la autoridad, por conducto de la Dirección de Servicios Públicos Municipales, los casos de infracción a este Reglamento.
+
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
 
 ###### Artículo 50o.
 
-Para levantar un acta de infracción se deberá observar el siguiente procedimiento:
+Para leva (sic) imponer un acta de infracción se deberá observar el siguiente procedimiento:
 
-a).- Identificarse ante el infractor.
+a. Identificación ante el infractor.
 
-b).- Hacer saber al infractor el motivo.
+b. Hacer saber al infractor el motivo.
 
-c).- Redactar el acta de infraccion en formato autorizado, estableciendo el dispositivo legal que se violo.
+c. Redactar el acta de infracción en formato autorizado, estableciendo el dispositivo legal que se violó.
 
-d).- Recabar la firma del infractor o asentar la causa de la falta de esta.
+d. Recabar la firma del infractor o asentar la causa de la falta de esta.
 
-e).- Entregar el original de la boleta al infractor.
+e. Entregar el original de la boleta al infractor.
 
-f).- Entregar diariamente las infracciones a la Dirección de Obras y Servicios Públicos Municipales, o a los organos auxiliares, previstos en el Artículo 50 incisos a), b), c) y d).
+f. Entregar diariamente las infracciones a la Dirección de Servicios Públicos Municipales, o a los órganos auxiliares, que se describen en el Artículo 49 que antecede bajo los incisos a), b), c), d), e), f) y g).
 
 ### CAPITULO VI. DE LAS SANCIONES
 
@@ -389,25 +479,29 @@ Las sanciones se aplicarán tomando en cuenta la importancia de la zona comercia
 
 La imposición y cumplimiento de las sanciones no eximirá al infractor de la obligación de corregir las irregularidades que hayan dado motivo a dicha sanción.
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
+
 ###### Artículo 53o.
 
-El incumplimiento a lo preceptuado en este reglamento, se sancionará de la forma siguiente:
+Las violaciones a las disposiciones establecidas por este Reglamento, sus manuales de procedimientos y PRECEPTOS de aquellas emanadas, que constituyen infracciones administrativas, serán sancionadas tanto por la Dirección de Servicios Públicos Municipales o en su caso cualquier otra de las que se mencionan (sic) el Artículo 48 de este Reglamento, en los términos del tabulador de multas y sanciones establecidas en este artículo y su ejecución y cobro sera competencia de la Tesorería Municipal.
 
-I.- A quien infrinja lo dispuesto en los Artículos 18, 19, 20, 24, 25, 41 incisos a), c), h), i), k), y l), 42 inciso d), de 1 a 10 veces de Salario Minimo.
+A los infractores del presente Reglamento, se les sancionará de acuerdo a lo siguiente:
 
-II.- A quien infrinja lo dispuesto en los Artículos 21, 22, 23, 26, 27, 28, 35, 38, 41 incisos e) y g), 42 inciso a) y c) y 46 de 3 a 10 veces de Salario Minimo.
+I. A quien infrinja lo dispuesto en los Artículos 18, 19, 20, 25, 41 incisos a), c), h), i), k), y l), 42 inciso d), de 1 a 10 veces de Salario Mínimo.
 
-III.- A quien infrinja lo dispuesto en los Artículos 29 30, 41 inciso d), 42 inciso e), y 44, de 4 a 15 veces del Salario Minimo.
+II. A quien infrinja lo dispuesto en los Artículos 21, 22, 23, 24, 26, 27, 28, 35, 37, 38, 41 incisos e) y g), 42 inciso a) y c) y 46 de 3 a 10 veces de Salario Mínimo.
 
-IV.- A quien infrinja lo dispuesto en los Artículos 39, 41 incisos b) y f) 42 inciso b) y 45, de 5 a 20 veces de Salario Minimo.
+III. A quien infrinja lo dispuesto en los Artículos 29 y 30, 41 inciso d), 42 inciso e), y 44, de 4 a 15 veces del Salario Mínimo.
 
-V.- A quien infrinja lo dispuesto en el Artílo (sic) 34, de 6 a 30 veces de Salario Minimo.
+IV. A quien infrinja lo dispuesto en los Artículos 39, 41 incisos b) y f) 42 inciso b) y 45, de 5 a 20 veces de Salario Mínimo.
 
-VI.- A quien infrinja lo dispuesto en el Artículo 43 de 8 a 50 veces de Salario Minimo.
+V. A quien infrinja lo dispuesto en el Artículo 34, de 6 a 30 veces de Salario Mínimo.
 
-VII.- A quien infrinja lo dispuesto en los Artículos 31, 32, 33, y 40, de 10 a 60 veces de Salario Minimo.
+VI. A quien infrinja lo dispuesto en el Artículo 43 de 8 a 50 veces de Salario Mínimo.
 
-VIII.- A quien infrinja lo dispuesto en los Artículos 36, 41 inciso j), y 42 inciso b), de 15 a 300 veces de Salario Minimo.
+VII. A quien infrinja lo dispuesto en los Artículos 31, 32, 33, y 40, de 10 a 60 veces de Salario Mínimo.
+
+VIII. A quien infrinja lo dispuesto en los Artículos 36, 41 inciso j), y 42 inciso b), de 15 a 300 veces de Salario Mínimo.
 
 ###### Artículo 54o.
 
@@ -417,9 +511,11 @@ Se considera reincidente aquella persona que habiendo sido sancionada por comete
 
 ### CAPITULO VII. RECURSOS ADMINISTRATIVOS
 
+> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2013)</small>
+
 ###### Artículo 55o.
 
-Las sanciones que determine la Autoridad Municipal en la aplicación de este Reglamento, podrán ser recurridas por los particulares conforme a los (sic) previsto por los articulos 171, 172, 173, 174, 175 y demas relativos y aplicables de la Ley Orgánica de la Administración Pública Municipal de Baja California.
+Las sanciones que determine la Autoridad Municipal en la aplicación de este Reglamento, podrán ser recurridas por los particulares conforme a lo previsto en el Reglamento de Justicia para el Municipio de Tijuana, Baja California.
 
 ## TRANSITORIOS
 
@@ -440,3 +536,15 @@ C. SECRETARIO DEL AYUNTAMIENTO
 C. LIC. JESUS ALBERTO SANDOVAL F.
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 19 DE ABRIL DE 2013.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA REFORMAR EL REGLAMENTO DE LIMPIA PARA EL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA, EN LOS TÉRMINOS DEL DOCUMENTO IDENTIFICADO COMO ANEXO ÚNICO DICTAMEN XX-GL-49/2012".]
+
+PRIMERO.- EL PRESENTE ACUERDO ENTRARA EN VIGOR AL MOMENTO DE SU APROBACIÓN, MISMO QUE DEBERÁ PUBLICARSE EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA Y EN LA GACETA MUNICIPAL DEL H. AYUNTAMIENTO DE TIJUANA, BAJA CALIFORNIA.
+
+SEGUNDO: SE DEROGAN TODAS Y CADA UNA DE LAS DISPOSICIONES NORMATIVAS Y REGLAMENTARIAS DERIVADAS DE ACUERDOS Y REGLAMENTOS QUE SE OPONGAN A LAS PRESENTES DISPOSICIONES LEGALES.
+
+TERCERO.- UNA VEZ DEBIDAMENTE PUBLICADO NOTIFIQUESE POR MEDIO DE LA SECRETARIA GENERAL DE GOBIERNO MUNICIPAL, A LAS DEPENDENCIAS CORRESPONDIENTES DE ESTA ADMINISTRACION, PARA LA IMPLEMENTACIÓN INMEDIATA DE LAS REFORMAS APROBADAS.
