@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-429
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-11-26"
-last_updated: "2010-05-29"
+last_updated: "2013-04-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42905&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE NUEVO LEON
 
-REGLAMENTO DE LA LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE NUEVO LEON
+REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MAYO DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE NUEVO LEÓN, PUBLICADO EN EL P.O. DE 20 DE ABRIL DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 26 de noviembre de 2004.
 
@@ -2308,3 +2310,15 @@ P.O. 29 DE MAYO DE 2010.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Con relación a las disposiciones administrativas expedidas con anterioridad a la publicación de la presente reforma, sólo quedarán vigentes aquéllas que no se opongan a lo dispuesto en el mismo.
+
+P.O. 20 DE ABRIL DE 2013.
+
+PRIMERO. El presente Reglamento entra en vigor el mismo día del inicio de vigencia de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Nuevo León, publicada el 21 de diciembre de 2012 en el Periódico Oficial del Estado.
+
+SEGUNDO. El presente Reglamento abroga el Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Nuevo León publicado en el Periódico Oficial del Estado de fecha 26 de noviembre de 2004 y sus reformas.
+
+En términos del Artículo Transitorio Cuarto del decreto por al que se expide la Ley Orgánica de la Procuraduría General de Justicia del Estado de Nuevo León publicada el 21 de diciembre de 2012 en el Periódico Oficial del Estado, continuarán vigentes las facultades de los Secretarios, Delegados y Escribientes del Ministerio Público descritas en el Reglamento que se abroga.
+
+TERCERO. Los integrantes que a la presente fecha forman parte del Consejo Consultivo Ciudadano de la Procuraduría, conforme al Reglamento que se abroga, continuarán formando parte del mismo.
+
+CUARTO. Las disposiciones administrativas expedidas con anterioridad a la publicación del presente Reglamento, sólo quedarán vigentes en cuanto no se opongan a lo dispuesto en el mismo.
