@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-4725
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-07-08"
-last_updated: "2012-06-30"
+last_updated: "2013-04-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4725&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2013.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 8 de julio de 1995.
 
@@ -409,7 +409,7 @@ Antes de clausurado el Primer Período Ordinario de Sesiones del Primer Año de 
 
 ###### Art. 30.
 
-Son atribuciones del presidente de la mesa directiva:
+Son atribuciones del presidente de la mesa mirectiva:
 
 I.- Dirigir y coordinar la acción de la misma y ostentar la representación oficial del Congreso;
 
@@ -903,7 +903,9 @@ XVIII. De Desarrollo Rural Integral;
 
 XIX. De Salud;
 
-XX. De Desarrollo Comercial, Industrial y Turístico;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2013)</small>
+
+XX. De Economía;
 
 XXI. De Juventud y Deporte, y
 
@@ -2330,3 +2332,13 @@ P.O. 30 DE JUNIO DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE ABRIL DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor inmediatamente después de su aprobación, sin perjuicio de su posterior publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan los Decretos No. 12/2010 I P.O., 13/2010 I P.O., 33/2010 I P.O., 481/2011 I P.O. y 488/2011 I P.O.
