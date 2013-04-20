@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-desarrollo-urbano-para-el-estado-de-oaxaca-6926"
 country: "mx"
 rank: "ley"
 publication_date: "1993-02-20"
-last_updated: "2005-03-22"
+last_updated: "2013-04-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6926&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE DESARROLLO URBANO PARA EL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 20 de febrero de 1993.
 
@@ -245,7 +245,7 @@ XVIII.- Participar con los Gobiernos Estatales vecinos, en la elaboración inter
 
 XIX.- Celebrar convenios con la federación, otras entidades federativas y los municipios del Estado, con la finalidad de participar en una planeación regional;
 
-XX.- Elaborar y expedir las declaratorias de zonas conurbadas intermunicipales que se presenten en el territorio del Estado;
+XX.- (DEROGADA, P.O. 20 DE ABRIL DE 2013)
 
 XXI.- Evaluar y vigilar la exacta observancia de la planeación urbana del Estado, en los términos de la presente Ley y las demás disposiciones relativas;
 
@@ -265,7 +265,7 @@ III.- Administrar la zonificación urbana contenida en sus planes o programas mu
 
 IV.- Participar en coordinación con el Ejecutivo del Estado en la elaboración y ejecución de los planes de centros de población estratégicos aplicables dentro de su jurisdicción y aprobarlos;
 
-V.- Formar parte de la Comisión de Conurbación Intermunicipal correspondiente y participar en forma concurrente y coordinada con el Estado, en la elaboración y ejecución del Plan de Ordenación de la zona conurbada, aplicable dentro de su jurisdicción; así como en su evaluación y modificación en su caso, de conformidad con lo establecido por la presente Ley;
+V.- (DEROGADA, P.O. 20 DE ABRIL DE 2013)
 
 VI.- Vigilar que los planes mencionados en las fracciones anteriores sean congruentes con el Plan Estatal de Desarrollo Urbano;
 
@@ -397,9 +397,9 @@ III.- El Programa Estatal de Desarrollo Urbano;
 
 IV.- Los Planes Municipales de Desarrollo Urbano;
 
-V.- Los Planes que ordenen y regulen las zonas conurbadas del territorio de los Estados con una o más Entidades Federativas;
+V.- (DEROGADA, P.O. 20 DE ABRIL DE 2013)
 
-VI.- Los planes que ordenen y regulen las zonas conurbadas dentro del territorio del Estado; y
+VI.- (DEROGADA, P.O. 20 DE ABRIL DE 2013)
 
 VII.- Los Planes de Centros de Población Estratégicos.
 
@@ -713,91 +713,69 @@ VI.- Sobrevengan algunas causas de interés social que los afecten y hagan impos
 
 A toda solicitud de revisión, modificación o cancelación de los planes, deberá recaer el acuerdo y resolución correspondiente. Cualquier revisión, modificación o cancelación de los planes, deberá ajustarse al mismo procedimiento establecido para su elaboración y aprobación.
 
+> <small>(DEROGADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE ABRIL DE 2013)</small>
+
 ## TITULO CUARTO
 
-### CAPITULO ÚNICO. DE LAS CONURBACIONES DEL TERRITORIO DEL ESTADO
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE ABRIL DE 2013)</small>
+
+### CAPITULO UNICO. DE LAS CONURBACIONES DEL TERRITORIO DEL ESTADO
 
 ###### ARTICULO 58.
 
-El fenómeno de conurbación se presenta cuando dos o más centros urbanos formen o tiendan a formar una continuidad demográfica.
-
-Las conurbaciones que se presenten en los centros de población localizados dentro e (sic) los límites del territorio estatal, serán formalmente reconocidos mediante la declaratoria que expida al efecto el Gobernador del Estado.
+(DEROGADO, P.O. 20 DE ABRIL DE 2013)
 
 ###### ARTICULO 59.
 
-La zona de conurbación es:
-
-I.- El área circular generada por un radio de 10 kilómetros. El centro de dicha área es el punto de intersección de la línea fronteriza entre los municipios y de a (sic) resulte de unir los centros de población correspondiente;
-
-II.- En el caso de que la conurbación exista entre dos municipios, el centro del círculo estará ubicado en el punto medio entre los límites de la mancha urbana conurbada sobre la línea fronteriza entre Municipios.
-
-El Ejecutivo Estatal y los Ayuntamientos correspondientes, podrán acordar una dimensión mayor o menor, cuando lo consideren conveniente para la planeación conjunta.
+(DEROGADO, P.O. 20 DE ABRIL DE 2013)
 
 ###### ARTICULO 60.
 
-En el caso de zonas de conurbación en las que participe el Estado con una o más entidades federativa (sic), se estará a lo dispuesto en la Ley General de Asentamientos Humanos y en la declaratoria de conurbación respectiva.
+(DEROGADO, P.O. 20 DE ABRIL DE 2013)
 
 ###### ARTICULO 61.
 
-La planeación, ordenación y regulación de las zonas conurbadas dentro del territorio del Estado, se efectuará con la participación del Gobierno del Estado y los Ayuntamientos respectivos.
+(DEROGADO, P.O. 20 DE ABRIL DE 2013)
 
 ###### ARTICULO 62.
 
-El Ejecutivo Local y los Ayuntamientos respectivos, podrán pactar que se considere la existencia de una zona de conurbación intermunicipal cuando:
-
-I.- Solamente uno de los centros de población crezca sobre la zona de conurbación establecida en los términos de esta Ley, el Artículo a que se refiere el párrafo primero del Artículo 63 es el 44 del Proyecto;
-
-II.- Dos o más centros de población se encuentren ubicados fuera de la zona señalada en dicho artículo, pero por sus características geográficas y su tendencia socioeconómica se considere conveniente el estudio y solución conjunta de su desarrollo; y
-
-III.- Se proyecte o funde un centro de población y se prevea su expansión en territorio de municipios vecinos.
+(DEROGADO, P.O. 20 DE ABRIL DE 2013)
 
 ###### ARTICULO 63.
 
-El Gobernador del Estado sancionará y en su caso expedirá la declaratoria de conurbación, de conformidad con el pacto celebrado en los términos del artículo anterior y se publicará como lo establece la presente Ley.
-
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 2005)</small>
-
-Cuando el Gobernador del Estado haya hecho una declaratoria de conurbación intermunicipal convocará por conducto del Secretario de Obras Públicas a los Presidentes Municipales correspondientes para constituir dentro de los treinta días siguientes, una Comisión intermunicipal de carácter permanente, que ordene y regule el desarrollo urbano en dicha zona.
-
-La Comisión de conurbación será presidida por el Secretario mencionado.
-
-La Comisión será un organismo público de carácter técnico, dotado de personalidad jurídica y que tenga facultades para procurarse la asesoría técnica que estime necesaria, promover la presentación de proposiciones, captar información, realizar investigaciones y oír la opinión de los distintos grupos sociales de los centros de población respectivos, a través de sus organismos legalmente constituidos.
+(DEROGADO, P.O. 20 DE ABRIL DE 2013)
 
 ###### ARTICULO 64.
 
-Para que surtan sus efectos, las declaratorias de conurbación serán publicadas por una sola vez en el Periódico Oficial del Estado y en un periódico de la localidad que corresponda.
+(DEROGADO, P.O. 20 DE ABRIL DE 2013)
 
 ###### ARTICULO 65.
 
-El contenido mínimo de los planes de ordenación de zonas conurbadas será el establecido para los planes de centros de población municipales.
+(DEROGADO, P.O. 20 DE ABRIL DE 2013)
 
 ###### ARTICULO 66.
 
-La Comisión de Conurbación intermunicipal tendrá las siguientes atribuciones:
-
-I.- Elaborar el plan de ordenación de la zona conurbada y las correspondientes declaratorias de provisiones, usos, reservas y destinos y someterlos a la aprobación del Ejecutivo del Estado. En ningún caso se podrán elaborar las declaratorias en ausencia o contravención del plan de ordenación;
-
-II.- Gestionar ante las Autoridades Estatales y Municipales el cumplimiento, en el ámbito de su jurisdicción, de las decisiones que se hayan tomado.
+(DEROGADO, P.O. 20 DE ABRIL DE 2013)
 
 ###### ARTICULO 67.
 
-La Comisión de Conurbación sesionará cuando menos 3 veces por año, con la asistencia del quórum legal que marque su reglamento, o cuando el Ejecutivo Estatal lo estime necesario.
+(DEROGADO, P.O. 20 DE ABRIL DE 2013)
 
 ###### ARTICULO 68.
 
-Las decisiones de las Comisiones de Conurbación se tomarán por mayoría de votos, el Presidente de la Comisión tendrá un voto de calidad en caso de empate.
+(DEROGADO, P.O. 20 DE ABRIL DE 2013)
 
 ###### ARTICULO 69.
 
-Las Comisiones de Conurbación expedirán su Reglamento Interior, en un plazo no mayor de 30 días contados a partir de su formal instalación.
+(DEROGADO, P.O. 20 DE ABRIL DE 2013)
 
 ###### ARTICULO 70.
 
-El Gobernador del Estado, por decreto aprobará el Plan de Ordenación de la zona conurbada intermunicipal y expedirá las declaratorias de provisiones, usos, reservas y destinos de áreas y predios comprendidos en dicho territorio, de acuerdo con lo establecido en la presente Ley.
+(DEROGADO, P.O. 20 DE ABRIL DE 2013)
 
 ###### ARTICULO 71.
 
-Los Ayuntamientos que integren una Comisión de conurbación intermunicipal, ejecutarán, administrarán y evaluarán dentro de su jurisdicción el plan de ordenación de la zona conurbada y las declaratorias correspondientes, en coordinación con el Ejecutivo del Estado.
+(DEROGADO, P.O. 20 DE ABRIL DE 2013)
 
 ## TITULO QUINTO. DE LA ORDENACIÓN Y REGULACIÓN DE LOS ASENTAMIENTOS HUMANOS Y DEL SUELO PARA EL DESARROLLO URBANO
 
@@ -1787,8 +1765,12 @@ LIC. AGUSTIN MARQUEZ URIBE.
 
 Al C.....
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 22 DE MARZO DE 2005.
 
 UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 20 DE ABRIL DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
