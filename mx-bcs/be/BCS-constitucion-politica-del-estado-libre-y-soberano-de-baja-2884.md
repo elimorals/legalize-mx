@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2013-04-10"
+last_updated: "2013-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE ABRIL DE 2013.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -114,6 +114,14 @@ Todos los niños nacidos de matrimonio o fuera del mismo, tienen derecho a igual
 Es derecho correlativo a la calidad de padres, la determinación libre, informada y responsable, acerca del número y espaciamiento de los hijos y su educación, como deber supremo ante la sociedad.
 
 Toda medida o disposición protectora de la familia y la niñez se considera de orden público.
+
+> <small>(ADICIONADO, B.O. 20 DE ABRIL DE 2013)</small>
+
+En todas las decisiones y actuaciones del Estado se velara y cumplirá con el principio del interés superior de la niñez, garantizando de manera plena sus derechos. Los niños y las niñas tienen derecho a la satisfacción de sus necesidades de alimentación, salud, educación y sano esparcimiento para su desarrollo integral. Este principio deberá guiar el diseño de ejecución, seguimiento y evaluación de las políticas públicas dirigidas a la niñez.
+
+> <small>(ADICIONADO, B.O. 20 DE ABRIL DE 2013)</small>
+
+Los ascendientes, tutores y custodios tienen la obligación de preservar y exigir el cumplimiento de estos derechos y principios.
 
 > <small>(REFORMADO, B.O. 10 DE ABRIL DE 2013)</small>
 
@@ -3128,3 +3136,7 @@ QUINTO.- El Ejecutivo del Estado de Baja California Sur, dentro del prepuesto de
 El Ejecutivo del Estado para efectos de dar cumplimiento a la operatividad de la Secretaria Ejecutiva, en el año que trascurre, podrá solicitar la ampliación de presupuesto específicamente para cumplimentar las acciones de la Comisión Implementadora del Nuevo Sistema de Justicia Penal para el Estado de Baja California Sur.
 
 SEXTO.- Se deroga toda disposición que se oponga al contenido de la reforma del artículo 55, contenida (sic) presente Decreto.
+
+B.O. 20 DE ABRIL DE 2013.
+
+UNICO.- El presente decreto entrara en vigor al siguiente día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
