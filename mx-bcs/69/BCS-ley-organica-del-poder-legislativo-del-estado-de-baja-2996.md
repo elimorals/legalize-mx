@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-legislativo-del-estado-de-baja-2996"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-12-10"
-last_updated: "2012-12-31"
+last_updated: "2013-04-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2996&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE ABRIL DE 2013.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 10 de diciembre de 1990.
 
@@ -593,9 +593,9 @@ XVII.- DE CORRECCION Y ESTILO.
 
 XVIII.- DE ENLACE LEGISLATIVO.
 
-> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA, B.O. 20 DE ABRIL DE 2013)</small>
 
-XIX.- DE EQUIDAD Y GENERO.
+XIX.- DE IGUALDAD DE GÉNERO.
 
 > <small>(ADICIONADA, B.O. 20 DE JUNIO DE 2000)</small>
 
@@ -927,13 +927,19 @@ a).- Los que tengan relación con el resto de los Congresos para intercambiar la
 
 b).- Las demás que establezca la Mesa Directiva del Congreso y la Junta de Gobierno y Coordinación Política.
 
-> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE ABRIL DE 2013)</small>
 
-XIX.- DE LA COMISIÓN DE EQUIDAD Y GÉNERO:
+XIX.- DE LA COMISIÓN DE IGUALDAD DE GÉNERO.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1998)</small>
 
 a).- Los que tengan relación con la problemática específica de mujeres y hombres en razón de su género.
 
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1998)</small>
+
 b).- Las propuestas legislativas que reformen, adicionen o en su caso deroguen leyes para contribuir a eliminar todas las formas de discriminación de género.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 1998)</small>
 
 c).- Implementar programas de beneficio a la mujer y garanticen su respeto.
 
@@ -1705,13 +1711,13 @@ ARTICULO 106 BIS.- Las comunicaciones oficiales que envían a este Congreso del 
 
 I.- Las comunicaciones oficiales provenientes de otras Legislaturas locales, de la Cámara de Senadores o de la Cámara de Diputados del Honorable Congreso de la Unión, con anexos de dictámenes que contengan puntos resolutivos, mediante los cuales exhorten a este Congreso a realizar una acción determinada, soliciten su adhesión para ciertos efectos, o planteen cualquier tipo de solicitud, serán leídos dichos dictámenes y se pondrán a consideración de la Asamblea en la misma sesión ordinaria en que se dieron cuenta al Pleno, para que este resuelva lo que corresponda respecto a lo planteado en sus puntos resolutivos y tomando en cuenta los considerandos que llevaron a los mismos;
 
-II.-Cualquier Diputada o Diputado, en caso de considerar que por su complejidad el asunto amerita un análisis acucioso, podrá solicitar al Presidente de la Mesa Directiva del Congreso del Estado poner a consideración del Pleno que se turne a la Comisión Permanente que corresponda, pudiéndose registrar una participación en tribuna a favor y otra en contra, y sometiendo a votación económica tal solicitud. En caso de ser rechazada esta, se procederá a la discusión del fondo del asunto o a la votación respectiva, según el momento en que se haga la mencionada solicitud;
+II.- Cualquier Diputada o Diputado, en caso de considerar que por su complejidad el asunto amerita un análisis acucioso, podrá solicitar al Presidente de la Mesa Directiva del Congreso del Estado poner a consideración del Pleno que se turne a la Comisión Permanente que corresponda, pudiéndose registrar una participación en tribuna a favor y otra en contra, y sometiendo a votación económica tal solicitud. En caso de ser rechazada esta, se procederá a la discusión del fondo del asunto o a la votación respectiva, según el momento en que se haga la mencionada solicitud;
 
 III.- Para el supuesto de que el asunto se discuta y resuelva en la misma sesión en la que se dio cuenta al Pleno, el trámite consistirá en el registro de las participaciones de las Diputadas y Diputados que así lo solicitaren, pudiendo hacer una propuesta concreta de modificación o adición de los puntos resolutivos que contenga el dictamen en cuestión. Una vez discutido, el asunto se votará en forma nominal, y resuelto el mismo, el Presidente de la Mesa Directiva ordenará al Oficial Mayor que envíe el oficio respectivo para comunicar a la Legislatura de origen el acuerdo tomado por el Congreso del Estado de Baja California Sur, recaído a su solicitud de adhesión, a su exhorto o petición concreta que haya formulado;
 
 IV.- Para el caso de que la comunicación oficial de alguna Legislatura fuera sólo un oficio con la cita textual del acuerdo económico que se haya tomado en su seno, sin anexo del dictamen respectivo, y por lo tanto sin los elementos de juicio que llevaron a la asunción de tal acuerdo, el Presidente de la Mesa Directiva ordenará al Oficial Mayor enviar oficio a la Legislatura de origen para comunicar que de conformidad con lo dispuesto por el presente artículo, el asunto no es de atenderse por no contener las valoraciones, juicios y elementos de convicción para resolver;
 
-V.-Cuando el acuerdo económico de alguna Legislatura plantee derogar, abrogar, o proponga reformas o adiciones a alguna ley o leyes federales o a la Constitución Política de los Estados Unidos Mexicanos, invariablemente el asunto se turnará a la Comisión Permanente que corresponda. Sin embargo, cuando tal acuerdo económico no contenga o no se le anexe la exposición de motivos respectiva, o no contenga el proyecto de decreto respectivo, el Presidente de la Mesa Directiva ordenará al Oficial Mayor enviar oficio a la Legislatura de origen para comunicar que de conformidad con lo dispuesto por el presente artículo, el asunto no es de atenderse por no contener las valoraciones, juicios y elementos de convicción para resolver;
+V.- Cuando el acuerdo económico de alguna Legislatura plantee derogar, abrogar, o proponga reformas o adiciones a alguna ley o leyes federales o a la Constitución Política de los Estados Unidos Mexicanos, invariablemente el asunto se turnará a la Comisión Permanente que corresponda. Sin embargo, cuando tal acuerdo económico no contenga o no se le anexe la exposición de motivos respectiva, o no contenga el proyecto de decreto respectivo, el Presidente de la Mesa Directiva ordenará al Oficial Mayor enviar oficio a la Legislatura de origen para comunicar que de conformidad con lo dispuesto por el presente artículo, el asunto no es de atenderse por no contener las valoraciones, juicios y elementos de convicción para resolver;
 
 VI.- Todos aquellos asuntos que se hayan discutido y resuelto con anterioridad por este Congreso, independientemente de que sean enviados por legislaturas diferentes, pero que se refieran al mismo tema, el Presidente de la Mesa Directiva ordenará al Oficial Mayor su archivo definitivo, bastando únicamente que se acuse de recibida tal comunicación oficial y se envíe dicho acuse a la Legislatura de origen;
 
@@ -1869,7 +1875,7 @@ Cuando algún Diputado de los que hayan solicitado la palabra, no estuviere en l
 
 ###### ARTICULO 132.
 
-Si en el curso de las discusiones, el orador, con el propósito de allegar más luz en los debates interpela a uno o más de los Diputados, estos podrán discrecionalmente, contestar la interpelación o abstenerse de hacerlo. Las interpelaciones se harán siempre claras, precisas y concretas. Cuando las interpelaciones sean dirigidas a varios Diputados, se contestarán en el orden en que hubieren sido hechas; pudiendo contestar también por todos uno solo de los interpelados autorizado por los demás.
+Si en el curso de las discusiones, el orador, con el propósito de allegar más luz en los debates interpela a uno o más de los Diputados, estos podrán discrecionalmente, contestar la interpelación o abstenerse de hacerlo. Las interpelaciones se harán siempre claras, precisas y concretas. Cuando las interpelaciones sean dirigidas a varios Diputados, se contestarán en el órden en que hubieren sido hechas; pudiendo contestar también por todos uno solo de los interpelados autorizado por los demás.
 
 ###### ARTICULO 133.
 
@@ -2183,7 +2189,7 @@ La Sesión inaugural de cada Primer Período Ordinario, que deberá ser invariab
 
 I.- Nombramiento, por la Presidencia, de comisiones que introduzcan al Recinto del Congreso y de las que acompañen a su salida del mismo, al Ciudadano Gobernador del Estado, a los Representantes de los Poderes Federales y del Poder Judicial del Estado que deban asistir especialmente a ella.
 
-Al entrar al Salón de Sesiones del Congreso los funcionarios mencionados, los concurrentes deberán estar de pié, excepto el Presidente del Congreso que permanecerá en su asiento, salvo que se toque el Himno Nacional y se rindan Honores a la Bandera Nacional, pués, en tal caso deberá ponerse de pié.
+Al entrar al Salón de Sesiones del Congreso los funcionarios mencionados, los concurrentes deberán estar de pié, excepto el Presidente del Congreso que permanecerá en su asiento, salvo que se toque el Himno Nacional y se rindan Honores a la Bandera Nacional, pués en tal caso deberá ponerse de pié.
 
 II.- Ya en el Salón de Sesiones el Ciudadano Gobernador del Estado, el Presidente le concederá la palabra para que rinda el Informe a que se refiere la Fracción XX del Artículo 79 de la Constitución Política del Estado.
 
@@ -2984,3 +2990,7 @@ DECRETO No. 2043, POR LO QUE SE ADICIONAN LAS FRACCIONES XXVII A LOS ARTÍCULOS 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
 
 SEGUNDO.- Dentro de los treinta días posteriores a la entrada en vigor del presente decreto se integrará y se instalará La Comisión Permanente de Cultura y Artes.
+
+B.O. 20 DE ABRIL DE 2013.
+
+ÚNICO.- El presente decreto entrará en vigor al siguiente día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
