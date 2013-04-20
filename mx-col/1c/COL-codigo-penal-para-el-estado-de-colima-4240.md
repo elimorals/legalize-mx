@@ -4,7 +4,7 @@ identifier: "COL-codigo-penal-para-el-estado-de-colima-4240"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-07-27"
-last_updated: "2013-04-06"
+last_updated: "2013-04-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4240&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CÓDIGO PENAL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2013.
 
 Código publicado en el Periódico Oficial del Estado de Colima, el sábado 27 de julio de 1985.
 
@@ -113,7 +113,7 @@ Cuando el Agente lleve a cabo una conducta idónea para producir un resultado, �
 
 Responde también del resultado típico producido, el que omite impedirlo, si podía hacerlo de acuerdo con las circunstancias, y si debía jurídicamente evitarlo.
 
-(NOTA: EL 31 DE OCTUBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 54/2012, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS QUE INDICAN: "TRATA DE PERSONAS, previsto en el artículo 161"; "SECUESTRO, previsto por el artículo 199, respectivamente"; así como "Y SECUESTRO;", DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 11 DE NOVIEMBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(NOTA: EL 31 DE OCTUBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 54/2012, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS QUE INDICAN: “TRATA DE PERSONAS, previsto en el artículo 161”; “SECUESTRO, previsto por el artículo 199, respectivamente”; así como “Y SECUESTRO;”, DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 11 DE NOVIEMBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
 
@@ -175,9 +175,13 @@ Primera.- Que el agredido provocó la agresión, dando causa inmediata y suficie
 
 Segunda.- Que no hubo necesidad racional del medio empleado en la defensa.
 
-Se presumirá que concurren los requisitos de la legítima defensa, respecto de aquel que durante la noche rechazare, en el mismo momento de estarse verificando el escalamiento o fractura de cercados, paredes o entradas de su casa o departamento habitado o sus dependencias, cualquiera que sea el daño causado al agresor.
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2013)</small>
 
-Igual presunción favorecerá al que causare cualquier daño a un intruso a quien sorprendiera en la habitación u hogar propio, de su familia o de cualquiera otra persona que tenga la misma obligación de defender, o en el local donde se encuentren bienes propios o respecto de los que tenga la misma obligación siempre que la presencia del extraño ocurra de noche o en circunstancias tales que revelen la posibilidad de una agresión.
+Se presumirá que concurren los requisitos de la legítima defensa, respecto de aquél que rechazare, en el mismo momento de estarse verificando el escalamiento o fractura de cercados, paredes o entradas de su casa o departamento habitado o sus dependencias, cualquiera que sea el daño causado al agresor.
+
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2013)</small>
+
+Igual presunción favorecerá al que causare cualquier daño a un intruso a quien sorprendiera en la habitación u hogar propio, de su familia o de cualquiera otra persona que tenga la misma obligación de defender, o en el local, bodegas, terrenos o áreas comerciales de empresas públicas o privadas, o similares donde se encuentren bienes propios o respecto de los que tenga la misma obligación, siempre que la presencia del extraño revele la posibilidad de una agresión.
 
 > <small>(F. DE E., P.O. 24 DE AGOSTO DE 1985)</small>
 
@@ -3001,29 +3005,23 @@ II.- Al que azotare a otro por injuriarle; y
 
 III.- Al que infiera cualquier otro golpe simple.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE ABRIL DE 2013)</small>
+
 ### CAPITULO III.
 
 CALUMNIA.
 
 ###### ARTICULO 218.
 
-Se impondrá prisión de uno a tres años y multa hasta por 40 unidades, al que comunique dolosamente a otro la imputación que hace a una persona física o moral, de un hecho cierto o falso que le cause deshonra, descrédito, perjuicio o desprecio.
-
-Cuando la comunicación dolosa se realice en público o utilizando algún medio publicitario, no se requerirá la prueba del resultado y se sancionará con prisión de dos a cinco años y multa hasta por 70 unidades.
+(DEROGADO, P.O. 20 DE ABRIL DE 2013)
 
 ###### ARTICULO 219.
 
-Cuando la comunicación se refiera a persona fallecida, pero afecte a sus herederos legítimos, se aplicará lo dispuesto por el Artículo anterior, según el caso.
+(DEROGADO, P.O. 20 DE ABRIL DE 2013)
 
 ###### ARTICULO 220.
 
-No se impondrá sanción alguna al inculpado de difamación si probare la verdad de sus imputaciones, en los siguientes casos:
-
-I.- Si la imputación hubiere tenido por objeto defender o garantizar un interés público actual;
-
-II.- Si el imputado fuere una persona que haya obrado como servidor público;
-
-III.- Si el hecho imputado está declarado cierto por sentencia firme y el acusado obra por un interés legítimo.
+(DEROGADO, P.O. 20 DE ABRIL DE 2013)
 
 ### CAPITULO IV.
 
@@ -3471,7 +3469,11 @@ DELITOS CONTRA EL MEDIO AMBIENTE.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE ENERO DE 2003)</small>
 
-### CAPITULO UNICO. Validez de la Ley Penal.................... 323
+### CAPITULO UNICO.
+
+DELITOS COMETIDOS POR ACTOS DE MALTRATO O CRUELDAD ANIMAL.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2013)</small>
 
 ###### ARTICULO 241.
 
@@ -3571,15 +3573,45 @@ En caso de aplicar lo dispuesto por el párrafo anterior, el juez deberá solici
 
 Las dependencias de la administración pública correspondientes, deberán proporcionar al ministerio público o al juez, en su caso, los dictámenes técnicos o periciales que se requieran con motivo de las denuncias o procesos que se integren por la comisión de los delitos a que se refiere el presente Capítulo.
 
+> <small>(ADICIONADA CON EL TÍTULO, CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE ABRIL DE 2013)</small>
+
+#### SECCION SEXTA.
+
+DELITOS CONTRA LA VIDA, INTEGRIDAD Y DIGNIDAD DE LOS ANIMALES DOMESTICOS.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE ABRIL DE 2013)</small>
+
+## TITULO UNICO.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE ABRIL DE 2013)</small>
+
+### CAPITULO UNICO. Validez de la Ley Penal.................... 323
+
+###### ARTICULO 250.
+
+Al que intencionalmente cometa actos de maltrato o crueldad injustificados en contra de cualquier especie animal doméstico, en términos de lo dispuesto por la Ley para la Protección a los animales del Estado de Colima, provocando lesiones, se le impondrá de tres días a un año de prisión y multa de hasta cien unidades.
+
+Si las lesiones ponen en peligro la vida del animal doméstico, se aumentará en una mitad la pena señalada.
+
+Si las lesiones le causan la muerte al animal doméstico, se impondrá de uno a tres años de prisión y multa de hasta trescientas unidades.
+
+En todos los casos las asociaciones protectoras de animales debidamente constituidas podrán gestionar ante la autoridad respectiva el aseguramiento de todos los animales que pudiera tener bajo su cuidado o resguardo, en términos de lo establecido en la Ley para la Protección a los Animales del Estado de Colima.
+
+Para efectos del presente Capítulo, se entenderá por métodos que provocan un grave sufrimiento, todos aquellos que provoquen una muerte no inmediata y por el contrario prolonguen la agonía del animal, ya sea por las lesiones que provoca o el detrimento de la salud del animal.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2013)</small>
+
+###### ARTICULO 251.
+
+En caso de que las lesiones o muerte injustificada del animal doméstico, sean provocadas intencionalmente por médico veterinario o persona relacionada con el cuidado, resguardo o comercio de animales, además de la pena de prisión se inhabilitará por un lapso de seis meses a tres años, del empleo, cargo, profesión, oficio, autorización, licencia, comercio, o cualquier circunstancia bajo la cual hubiese cometido el delito y, en caso de reincidencia, se revocarán éstos de forma definitiva.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2013)</small>
+
+###### ARTICULO 252.
+
+Cuando las lesiones o muerte del animal doméstico, se causen con la finalidad de evitar un mal igual o mayor a una persona o animal, no se aplicará sanción alguna siempre y cuando se justifique el hecho, sean racionales los medios de defensa que se utilizaron durante el acontecimiento y no existieran otras formas de salvaguardar la integridad de la persona o animal en peligro.
+
 TRANSITORIOS:
-
-#### SECCION PRIMERA.
-
-DELITOS CONTRA EL ESTADO.
-
-## TITULO I............................................................................... 323
-
-### CAPITULO I. Conducta o Hecho....................................... 324
 
 ###### ARTICULO PRIMERO.
 
@@ -3603,11 +3635,13 @@ INDICE:
 
 # LIBRO PRIMERO.
 
+## TITULO I............................................................................... 323
+
+### CAPITULO I. Conducta o Hecho....................................... 324
+
 ## TITULO II. Delito y Delincuente......................................... 324
 
 ### CAPITULO II. Dolo, Culpa y Preterintención..................... 324
-
-## TITULO III. Consecuencias Jurídicas de la. Conducta o Hecho. ............................................................. 326
 
 ### CAPITULO III. Inexistencia del Delito................................ 325
 
@@ -3621,9 +3655,9 @@ INDICE:
 
 ### CAPITULO I. Penas y medidas de Seguridad..................... 326
 
-### CAPITULO II. La Prisión..................................................... 327
+## TITULO III. Consecuencias Jurídicas de la. Conducta o Hecho. ............................................................. 326
 
-## TITULO IV. Aplicación de Sanciones................................ 330
+### CAPITULO II. La Prisión..................................................... 327
 
 ### CAPITULO III. Multa........................................................... 327
 
@@ -3645,9 +3679,9 @@ INDICE:
 
 ### CAPITULO I. Reglas Generales........................................ 330
 
-### CAPITULO II. Exceso en las causas de licitud.................. 330
+## TITULO IV. Aplicación de Sanciones................................ 330
 
-## TITULO V. Extinción de la acción persecutoria. y de las penas y medidas de seguridad........................... 332
+### CAPITULO II. Exceso en las causas de licitud.................. 330
 
 ### CAPITULO III. Tentativa................................................... 331
 
@@ -3665,9 +3699,9 @@ INDICE:
 
 ### CAPITULO I. Perdón del ofendido.................................... 332
 
-### CAPITULO II. Muerte del delincuente............................... 332
+## TITULO V. Extinción de la acción persecutoria. y de las penas y medidas de seguridad........................... 332
 
-## TITULO I. Delitos contra la Seguridad del Estado............. 334
+### CAPITULO II. Muerte del delincuente............................... 332
 
 ### CAPITULO III. Amnistía...................................................... 332
 
@@ -3679,15 +3713,15 @@ INDICE:
 
 ### CAPITULO I. Conspiración................................................ 334
 
-### CAPITULO II. Rebelión...................................................... 334
-
 # LIBRO SEGUNDO
 
-#### SECCION SEGUNDA.
+#### SECCION PRIMERA.
 
-DELITOS CONTRA LA SOCIEDAD.
+DELITOS CONTRA EL ESTADO.
 
-## TITULO II. Delitos contra la Función Pública....................... 334
+## TITULO I. Delitos contra la Seguridad del Estado............. 334
+
+### CAPITULO II. Rebelión...................................................... 334
 
 ### CAPITULO III. Sedición..................................................... 334
 
@@ -3697,9 +3731,9 @@ DELITOS CONTRA LA SOCIEDAD.
 
 ### CAPITULO I. Coalición de servidores públicos................... 334
 
-### CAPITULO II. Usurpación de funciones.............................. 335
+## TITULO II. Delitos contra la Función Pública....................... 334
 
-## TITULO III. Delitos contra la impartición de Justicia.......... 335
+### CAPITULO II. Usurpación de funciones.............................. 335
 
 ### CAPITULO III. Ultrajes a la autoridad.................................. 335
 
@@ -3713,9 +3747,9 @@ DELITOS CONTRA LA SOCIEDAD.
 
 ### CAPITULO I. Falsedad ante la autoridad........................... 335
 
-### CAPITULO II. Evasión de presos....................................... 335
+## TITULO III. Delitos contra la impartición de Justicia.......... 335
 
-## TITULO I. Ejercicio indebido de servicio público................ 336
+### CAPITULO II. Evasión de presos....................................... 335
 
 ### CAPITULO III. Encubrimiento por favorecimiento.............. 336
 
@@ -3723,13 +3757,13 @@ DELITOS CONTRA LA SOCIEDAD.
 
 ### CAPITULO I. Disposiciones Generales............................. 336
 
+#### SECCION SEGUNDA.
+
+DELITOS CONTRA LA SOCIEDAD.
+
+## TITULO I. Ejercicio indebido de servicio público................ 336
+
 ### CAPITULO II. Ejercicio indebido de funciones................... 336
-
-#### SECCION TERCERA.
-
-DELITOS CONTRA LA FAMILIA.
-
-## TITULO II. Delitos de peligro contra la seguridad pública.... 338
 
 ### CAPITULO III. Abandono de funciones............................... 337
 
@@ -3747,9 +3781,9 @@ DELITOS CONTRA LA FAMILIA.
 
 ### CAPITULO I. Peligro de daño............................................... 338
 
-### CAPITULO II. Asociación delictuosa................................. 338
+## TITULO II. Delitos de peligro contra la seguridad pública.... 338
 
-## TITULO III. Delitos contra la seguridad de los medios. de transporte y vías de comunicación.............................. 338
+### CAPITULO II. Asociación delictuosa................................. 338
 
 ### CAPITULO III. Apología del delito....................................... 338
 
@@ -3757,43 +3791,43 @@ DELITOS CONTRA LA FAMILIA.
 
 ### CAPITULO I. Delitos con motivo del tránsito de vehículos. 338
 
-### CAPITULO II. Delitos contra la seguridad vial. y los medios de transporte.................................................... 339
+## TITULO III. Delitos contra la seguridad de los medios. de transporte y vías de comunicación.............................. 338
 
-## TITULO IV. Delitos de falsedad y contra la fé pública..... 339
+### CAPITULO II. Delitos contra la seguridad vial. y los medios de transporte.................................................... 339
 
 ### CAPITULO III. Violación de correspondencia..................... 339
 
 ### CAPITULO I. Falsificación de sellos, llaves, marcas. y contraseñas................................................................... 339
 
-### CAPITULO II. Falsificación y uso de documento falso...... 339
+## TITULO IV. Delitos de falsedad y contra la fé pública..... 339
 
-## TITULO V. Delitos contra la moral pública......................... 340
+### CAPITULO II. Falsificación y uso de documento falso...... 339
 
 ### CAPITULO III. Usurpación de profesión y uso indebido. de condecoraciones o uniformes........................................ 339
 
 ### CAPITULO I. Ultrajes a la moral pública............................. 340
 
-### CAPITULO II. Corrupción de menores............................... 340
+## TITULO V. Delitos contra la moral pública......................... 340
 
-## TITULO VI. Delitos en materia de inhumaciones,. exhumaciones y contra el respeto a los muertos............... 340
+### CAPITULO II. Corrupción de menores............................... 340
 
 ### CAPITULO III. Lenocinio................................................... 340
 
 ### CAPITULO I. Delitos en materia de inhumaciones. y exhumaciones.................................................................. 340
 
-### CAPITULO II. Delito contra el respeto a los muertos.......... 341
+## TITULO VI. Delitos en materia de inhumaciones,. exhumaciones y contra el respeto a los muertos............... 340
 
-## TITULO UNICO.................................................................... 341
+### CAPITULO II. Delito contra el respeto a los muertos.......... 341
 
 ### CAPITULO I. Substracción de menores o incapaces.......... 341
 
+#### SECCION TERCERA.
+
+DELITOS CONTRA LA FAMILIA.
+
+## TITULO UNICO.................................................................... 341
+
 ### CAPITULO II. Delitos contra la filiación y el estado civil...... 341
-
-#### SECCION CUARTA.
-
-DELITOS CONTRA LAS PERSONAS.
-
-## TITULO I. Delitos contra la vida y salud personal................. 341
 
 ### CAPITULO III. Bigamia......................................................... 341
 
@@ -3801,9 +3835,13 @@ DELITOS CONTRA LAS PERSONAS.
 
 ### CAPITULO I. Homicidio......................................................... 341
 
-### CAPITULO II. Lesiones........................................................ 342
+#### SECCION CUARTA.
 
-## TITULO II. Delitos de peligro contra la vida y la salud personal. 343
+DELITOS CONTRA LAS PERSONAS.
+
+## TITULO I. Delitos contra la vida y salud personal................. 341
+
+### CAPITULO II. Lesiones........................................................ 342
 
 ### CAPITULO III. Disposiciones comunes para los delitos. de Homicidio y lesiones....................................................... 342
 
@@ -3813,9 +3851,9 @@ DELITOS CONTRA LAS PERSONAS.
 
 ### CAPITULO I. Disparo de arma de fuego y ataque peligroso.... 343
 
-### CAPITULO II. Omisión de Auxilio...................................... 344
+## TITULO II. Delitos de peligro contra la vida y la salud personal. 343
 
-## TITULO III. Delitos contra la Libertad Personal................... 344
+### CAPITULO II. Omisión de Auxilio...................................... 344
 
 ### CAPITULO III. Omisión de Cuidado.................................... 344
 
@@ -3823,39 +3861,41 @@ DELITOS CONTRA LAS PERSONAS.
 
 ### CAPITULO I. Privación de la Libertad................................ 344
 
-### CAPITULO II. Secuestro.................................................... 344
+## TITULO III. Delitos contra la Libertad Personal................... 344
 
-## TITULO IV. Delitos contra la paz y la Seguridad Personal. 345
+### CAPITULO II. Secuestro.................................................... 344
 
 ### CAPITULO III. Rapto......................................................... 345
 
 ### CAPITULO I. Amenazas y coacción................................... 345
 
-### CAPITULO II. Allanamiento de morada.............................. 345
+## TITULO IV. Delitos contra la paz y la Seguridad Personal. 345
 
-## TITULO V. Delitos contra la Libertad y Seguridad Sexual.. 345
+### CAPITULO II. Allanamiento de morada.............................. 345
 
 ### CAPITULO III. Revelación de Secretos.............................. 345
 
 ### CAPITULO I. Violación......................................................... 345
 
-### CAPITULO II. Estupro.......................................................... 346
+## TITULO V. Delitos contra la Libertad y Seguridad Sexual.. 345
 
-## TITULO VI. Delitos contra el Honor..................................... 346
+### CAPITULO II. Estupro.......................................................... 346
 
 ### CAPITULO III. Abusos Deshonestos................................... 346
 
 ### CAPITULO I. Golpes y otras Violencias Físicas Simples.... 346
 
-### CAPITULO II. Difamación.................................................... 346
+## TITULO VI. Delitos contra el Honor..................................... 346
 
-## TITULO VII. Delitos contra el Patrimonio............................. 347
+### CAPITULO II. Difamación.................................................... 346
 
 ### CAPITULO III. Calumnia....................................................... 347
 
 ### CAPITULO IV. Disposiciones Comunes.............................. 347
 
 ### CAPITULO I. Robo............................................................... 347
+
+## TITULO VII. Delitos contra el Patrimonio............................. 347
 
 ### CAPITULO II. Abuso de Confianza...................................... 347
 
@@ -4102,5 +4142,9 @@ P.O. 2 DE MARZO DE 2013.
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 P.O. 6 DE ABRIL DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 20 DE ABRIL DE 2013.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
