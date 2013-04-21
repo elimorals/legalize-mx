@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-agua-para-el-estado-de-durango-45756"
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-07"
-last_updated: "2009-12-20"
+last_updated: "2013-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45756&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE AGUA PARA EL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 7 de julio de 2005.
 
@@ -89,7 +89,7 @@ XI.- COMITÉ TÉCNICO DE AGUAS SUBTERRÁNEAS: Órgano auxiliar del Consejo de Cu
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
-XII.- COMITÉ TÉCNICO DE VIGILANCIA DE AGUAS Y MANTOS ACUÍFEROS.- Órgano auxiliar de la Comisión, encargado de que los organismos operadores y concesionarios, cumplan con las obligaciones que les impone la Ley en materia de mantenimiento, extracción, conservación en optimas condiciones de los mantos acuíferos de donde extraen las aguas de jurisdicción Estatal, con el fin de que estos no sean explotados más haya de los volúmenes anuales de agua, que la Comisión Nacional del Agua les haya autorizado;
+XII.- COMITÉ TÉCNICO DE VIGILANCIA DE AGUAS Y MANTOS ACUÍFEROS.- Órgano auxiliar de la Comisión, encargado de que los organismos operadores y concesionarios, cumplan con las obligaciones que les impone la Ley en materia de mantenimiento, extracción, conservación en optimas condiciones de los mantos acuíferos de donde extraen las aguas de jurisdicción Estatal, con el fin de que estos no sean explotados más haya (sic) de los volúmenes anuales de agua, que la Comisión Nacional del Agua les haya autorizado;
 
 XIII.- COMUNIDAD RURAL: Los centros de población con menos de 2500 habitantes;
 
@@ -589,7 +589,7 @@ La Comisión contará con un Consejo Consultivo que se integrará en el ámbito 
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 28.
 
@@ -703,7 +703,7 @@ Los Ayuntamientos, en los casos de administración directa, deberán contar con 
 
 Los ingresos que obtengan los órganos administrativos a que se refiere el artículo 28 de esta Ley por el cobro de los servicios de agua potable, alcantarillado y saneamiento, deberán destinarse única y exclusivamente en la planeación, construcción, mejoramiento, ampliación, rehabilitación, mantenimiento, administración y prestación de los mismos, en consecuencia y por disposición de esta Ley, quedarán afectados para formar parte de su patrimonio los derechos, sus accesorios y demás ingresos que se causen por la prestación de los servicios públicos a su cargo; así como los adeudos, recargos, multas y los demás accesorios legales que determinen los organismos, en los términos de la legislación aplicable.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
 ### CAPÍTULO III. ENTIDADES PARAMUNICIPALES
 
@@ -727,7 +727,7 @@ La creación de los organismos operadores paramunicipales se efectuará mediante
 
 Los organismos operadores paramunicipales, previo acuerdo del Ayuntamiento respectivo, podrán constituir organismos operadores paramunicipales de carácter intermunicipal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 41.
 
@@ -755,7 +755,7 @@ VIII.- Realizar todas las acciones que se requieran, directa o indirectamente, p
 
 IX.- Las demás que señalen esta Ley, sus instrumentos de creación y otros ordenamientos jurídicos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 42.
 
@@ -803,7 +803,7 @@ Los organismos operadores a que se refiere el artículo 28 de esta Ley, gozarán
 
 Los bienes de los organismos operadores destinados directamente a la prestación de los servicios a su cargo serán inembargables, exceptuándose todos aquellos en que se ejercieren acciones de crédito hipotecario.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 47.
 
@@ -901,7 +901,7 @@ III.- No haber sido condenado con sentencia ejecutoriada por delito doloso que m
 
 IV.- Contar con Título y Cédula Profesional en áreas técnicas a que se refiere esta Ley, con una mínima antigüedad de tres años a la fecha del nombramiento.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 56.
 
@@ -945,7 +945,7 @@ XVI.- Convocar a reuniones del Consejo Directivo, por propia iniciativa o a peti
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
-XVlI.- Someter a la aprobación del Consejo Directivo, el Reglamento Interior del organismo operador paramunicipal y sus modificaciones;
+XVII.- Someter a la aprobación del Consejo Directivo, el Reglamento Interior del organismo operador paramunicipal y sus modificaciones;
 
 XVIII.- Ordenar la suspensión de los servicios, por las causas que la presente Ley establece;
 
@@ -1025,7 +1025,7 @@ No podrán formar parte del Consejo Consultivo, funcionarios o empleados del org
 
 Los miembros del Consejo Consultivo designarán de entre ellos, en los términos del Reglamento Interior del organismo operador paramunicipal, a un Presidente y a un Vicepresidente, así como a sus suplentes respectivos, los cuales representarán al propio Consejo Consultivo y a los usuarios ante el Consejo Directivo del organismo operador paramunicipal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 64.
 
@@ -1045,7 +1045,7 @@ En el caso de que en un municipio se concesione, total o parcialmente, o se cont
 
 #### SECCIÓN ÚNICA. DE LOS REGLAMENTOS DE LOS ÓRGANOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 66.
 
@@ -1563,7 +1563,7 @@ Las personas físicas o morales obligadas a contratar los servicios de agua pota
 
 Cuando la solicitud para contratar los servicios de agua potable, alcantarillado y saneamiento, que presenten los interesados no cumpla con los requisitos necesarios, se prevendrá a éstos para que los satisfagan dentro del término de cinco días hábiles contados a partir de la fecha en que reciban la comunicación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 133.
 
@@ -1609,7 +1609,7 @@ Instalada la toma y hechas las conexiones respectivas, el Ayuntamiento, el organ
 
 En los casos en que, con motivo de la instalación de la toma o las descargas, se destruya el pavimento, la guarnición o la banqueta, se realizará de inmediato su reparación por parte del prestador de los servicios, con cargo al usuario, en los términos de la presente Ley. Los trabajos deberán realizarse en un plazo que no exceda de diez días naturales contados a partir de la fecha en que se ordene su reparación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 140.
 
@@ -1753,13 +1753,71 @@ VI.- Para el riego agrícola, siempre y cuando los cultivos no sean para consumo
 
 ### CAPÍTULO V. DE LA CULTURA DEL AGUA
 
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2013)</small>
+
 ###### Artículo 163.
 
-La Comisión promoverá con la participación del Gobierno del estado, los Ayuntamientos, las Instituciones de educación superior y de las Organizaciones no gubernamentales relacionadas con el tema las acciones que inculquen a la sociedad toda, una nueva cultura del cuidado y uso eficiente del agua, su preservación en calidad y cantidad para evitar la contaminación y agotamiento de las fuentes de abastecimiento, así como las relativas al pago del servicio, así como para contribuir a la prevención y control de la contaminación del recurso.
+La Comisión, ejercerá las siguientes atribuciones:
 
-> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2007)</small>
+I.- Diseñar, difundir y ejecutar el Programa Estatal de Fomento al Cuidado del Agua;
 
-Artículo 163 BIS.- La Comisión del Agua del Estado de Durango, en conjunto con la Secretaría de Educación del Estado, desarrollará un programa que permita implantar en el sistema estatal de educación, la materia de cultura y uso eficiente del agua en el proceso educativo de educción básica, con la premisa de que el agua es un recurso finito y vulnerable, esencial para sostener la vida, el desarrollo y el medio ambiente de los ciudadanos del Estado.
+II.- Promover campañas para concientizar sobre el cuidado y uso racional del agua en las entidades públicas y privadas;
+
+III.- Promover acciones y proyectos específicos que repercutan en una cultura de cuidado y uso racional del agua acorde con las características de las regiones y municipios del Estado;
+
+IV.- Coordinar en el ámbito de sus facultades, las acciones que se lleven a cabo en las regiones y municipios del Estado en materia de cuidado del agua;
+
+V.- Realizar los diagnósticos necesarios a fin de identificar las condiciones de consumo del agua en el Estado y el uso racional de la misma;
+
+VI.- Desarrollar e implementar políticas estatales relacionadas con el cuidado y uso racional del agua;
+
+VII.- Coordinar el desarrollo de sus actividades con entidades públicas y privadas, para la implementación de campañas de asistencia técnica, capacitación, promoción, difusión, concientización y demás que se requieran para el cumplimiento del objeto de esta ley;
+
+VIII.- Coadyuvar, en el ámbito de su competencia, en la debida observancia de las normas oficiales mexicanas en materia de cuidado del agua;
+
+IX.- Propiciar la elaboración y aplicación de normas técnicas estatales que regulen el ahorro y uso racional del agua;
+
+X.- Impulsar la participación de las instituciones de educación superior y asociaciones de profesionistas en la investigación, capacitación y desarrollo de tecnologías en la materia; y
+
+XI.- Las demás que establezca la presente ley y demás disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2013)</small>
+
+###### Artículo 163 Bis.
+
+Las entidades públicas procurarán la implementación de medidas que fomenten el uso racional del agua, mediante la adquisición e instalación de equipos de oficina, patios, cocinas y jardines con diseños, materiales y características que propicien el cuidado y uso racional del agua entre los empleados; del mismo modo, se procurará el mantenimiento periódico de dichos equipos así como de las instalaciones hidráulicas, equipamientos en baños e infraestructura de obras públicas para la identificación oportuna de fugas.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2013)</small>
+
+###### Artículo 163 Bis 1.
+
+El Programa Estatal de Fomento al Cuidado del Agua promoverá el cumplimiento de los siguientes objetivos:
+
+I.- Fomentar el uso racional del agua en todas sus formas y manifestaciones para consolidar una cultura sobre el cuidado de la misma;
+
+II.- Implementar, por conducto de la Secretaría de Educación, dentro de los programas educativos del nivel básico, el tema del cuidado y uso racional y responsable del agua;
+
+IV.- Fomentar la participación de las entidades públicas y privadas en las acciones que permitan el concientizar a la población sobre la importancia del cuidado y uso racional del agua;
+
+V.- Promover la investigación y el desarrollo tecnológico en materia de cuidado y uso racional del agua; y
+
+VI.- Los demás que determine la Comisión.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2013)</small>
+
+###### Artículo 163 Bis 2.
+
+Con el objeto de promover el cuidado y uso racional del agua en el Estado, la Comisión y los municipios, en el ámbito de sus atribuciones y competencias, llevarán a cabo las siguientes acciones:
+
+I.- Difundir mediante programas y acciones, los costos y beneficios socioeconómicos y ambientales del cuidado, uso racional y correcto aprovechamiento de (sic) del agua;
+
+II.- Promover la realización de estudios e investigaciones sobre los beneficios del cuidado y uso racional todas sus formas y manifestaciones;
+
+III.- Fomentar el uso de tecnología e infraestructura en el desarrollo de viviendas, fraccionamientos, edificaciones y demás obras de en (sic) el Estado que permitan cuidar y usar de manera razonable el agua;
+
+IV.- Promover planes y programas coordinados con las entidades públicas y privadas vinculadas al cuidado y uso razonable del agua; y
+
+V.- Coadyuvar en la creación de una educación y cultura ambiental en torno al cuidado y uso razonable del agua.
 
 ###### Artículo 164.
 
@@ -1775,7 +1833,7 @@ El Ayuntamiento, el organismo operador correspondiente o, en su caso, la Comisi�
 
 ###### Artículo 166.
 
-Toda persona física o moral debe reportar ante el Ayuntamiento, el organismo operador correspondiente o, en su caso, la Comisión, la existencia de fugas de agua o de cualquier otra circunstancia que afecte el funcionamiento adecuado de los sistemas de agua potable, alcantarillado y saneamiento, de las cuales tenga conocimiento, pudiendo incluso demandar explicación fundamentada de las acciones correctivas que en su caso se hallan realizado, en los términos que el Reglamento de la presente Ley establezca.
+Toda persona física o moral debe reportar ante el Ayuntamiento, el organismo operador correspondiente o, en su caso, la Comisión, la existencia de fugas de agua o de cualquier otra circunstancia que afecte el funcionamiento adecuado de los sistemas de agua potable, alcantarillado y saneamiento, de las cuales tenga conocimiento, pudiendo incluso demandar explicación fundamentada de las acciones correctivas que en su caso se hallan (sic) realizado, en los términos que el Reglamento de la presente Ley establezca.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
@@ -1949,7 +2007,7 @@ Para dar cumplimiento a las disposiciones de esta Ley y la Reglamentación respe
 
 Las facultades de los inspectores, serán las que expresamente les otorgan esta Ley y los Reglamentos relativos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 188.
 
@@ -2067,7 +2125,7 @@ Los propietarios o poseedores de predios que cuenten con las instalaciones de ap
 
 En los casos en que sea necesario, los organismos operadores a que se refiere la presente Ley ordenarán la revisión y el retiro del medidor, enviándolo a los talleres de reparación e instalando provisionalmente un medidor sustituto.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 211.
 
@@ -2151,7 +2209,7 @@ Serán nulas de pleno derecho y no surtirán ningún efecto las transmisiones qu
 
 Es de interés público la promoción y ejecución de las medidas y acciones necesarias para proteger la calidad del agua.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 226.
 
@@ -2177,7 +2235,7 @@ VII.- Ejercer las atribuciones que le correspondan en materia de prevención y c
 
 Con el objeto de reducir la contaminación y atender la degradación de la calidad original de las aguas dentro del Sistema Estatal de Agua Potable, Alcantarillado y Saneamiento, los Ayuntamientos, los organismos operadores correspondientes y la Comisión, en el ámbito de su competencia respectiva, promoverán el establecimiento de procesos de potabilización y; en su caso, de tratamiento de aguas residuales y de manejo y disposición de Iodos, así como el fomento de instalaciones alternas que sustituyan al alcantarillado sanitario, cuando este no pueda construirse; y la realización de las acciones necesarias para conseguir y mantener un adecuado nivel de calidad de las aguas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 228.
 
@@ -2267,7 +2325,7 @@ IV.- Proponer a la Comisión políticas que generen una mejor prestación a los 
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
-V.- Llevar acabo las auditorias que sean necesarias, a fin de comprobar que lo (sic) organismos operadores y concesionarios, se encuentran extrayendo los volúmenes de aguas autorizados por la Comisión Nacional del Agua;
+V.- Llevar acabo (sic) las auditorias que sean necesarias, a fin de comprobar que lo (sic) organismos operadores y concesionarios, se encuentran extrayendo los volúmenes de aguas autorizados por la Comisión Nacional del Agua;
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
@@ -2591,7 +2649,7 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. RICARDO FIDEL PACHECO RODRÍGUEZ.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 25 DE SEPTIEMBRE DE 2005.
 
@@ -2628,3 +2686,9 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones legales y que se opongan al presente decreto.
+
+P.O. 21 DE ABRIL DE 2013.
+
+PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales en lo que se opongan al presente decreto.
