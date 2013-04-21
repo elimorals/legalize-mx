@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-asistencia-social-10352"
 country: "mx"
 rank: "ley"
 publication_date: "1996-09-15"
-last_updated: "2010-08-05"
+last_updated: "2013-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10352&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE ASISTENCIA SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE AGOSTO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2013.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 15 de septiembre de 1996.
 
@@ -201,11 +201,15 @@ XX.- Promover acciones que tiendan a establecer hábitos de conducta y valores q
 
 > <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2010)</small>
 
-XXI.- Promover y atender, en general, cualquier otra actividad de asistencia social que beneficie a los miembros más vulnerables de la sociedad; y
+XXI.- Promover y atender, en general, cualquier otra actividad de asistencia social que beneficie a los miembros más vulnerables de la sociedad; y (sic)
 
-> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2010)</small>
 
-XXII.- Las atribuciones establecidas en el artículo 39 de la Ley de las Mujeres para una Vida sin Violencia.
+XXII.- Las atribuciones establecidas en el artículo 39 de la Ley de las Mujeres para una Vida sin Violencia; y
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2013)</small>
+
+XIII (SIC).- Implementar el Taller de Orientación Prematrimonial a los interesados en contraer matrimonio. Al término del Taller se le entregará el documento de asistencia autorizado para cumplir dicho requisito.
 
 ### CAPITULO V. DE LOS SUJETOS DE LA ASISTENCIA SOCIAL
 
@@ -574,3 +578,21 @@ P.O. 5 DE AGOSTO DE 2010.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación, el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al contenido del presente Decreto.
+
+P.O. 21 DE ABRIL DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+El Sistema para el Desarrollo Integral de la Familia del Estado tendrán (sic) un plazo de 180 días para elaborar y signar convenios con aquellos Sistemas para el Desarrollo Integral de la Familia de los municipios y Oficialías del Registro Civil de los municipios en los que no tenga infraestructura para poder brindar el Taller de Orientación Prematrimonial.
+
+###### ARTÍCULO TERCERO.
+
+El Sistema para el Desarrollo Integral de la Familia del Estado, tendrá un plazo de 60 días para establecer las bases y lineamientos conforme a los cuales se va a llevar acabo (sic) el Taller de Orientación Prematrimonial al que se refiere el presente decreto.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones legales en lo que se opongan al presente decreto.
