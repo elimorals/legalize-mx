@@ -4,7 +4,7 @@ identifier: "DUR-codigo-civil-del-estado-de-durango-32104"
 country: "mx"
 rank: "codigo"
 publication_date: "1948-01-22"
-last_updated: "2012-12-06"
+last_updated: "2013-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CÓDIGO CIVIL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2013.
 
 Código publicado en los Periódicos Oficiales del Gobierno Constitucional del Estado Libre y Soberano de Durango, 22, 25, 29 de enero, 1, 5, 8, 12, 15, 19, 22, 26, 29 de febrero, 4, 7, 11, 14, 18, 28 de marzo, 1, 4, 15, 18, 22, 25, 29 de abril, 2, 6, 9, 13, 16 de mayo, 6, 10, 13, 24 de junio, 1, 8, 15, 18, 22, 25, 29 de julio, 1, 5, 8, 12, 15 y 19 de agosto de 1948.
 
@@ -811,6 +811,32 @@ ART. 149.- Si el ascendiente o tutor que ha firmado o ratificado la solicitud de
 
 ART. 150.- El juez que hubiere autorizado a un menor para contraer matrimonio no podrá revocar el consentimiento, una vez que lo haya otorgado, si no por justa causa superveniente.
 
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2013)</small>
+
+ART. 150 BIS.- También es requisito para contraer matrimonio, la asistencia previa de los interesados al Taller de Orientación Prematrimonial implementado por la autoridad estatal encargada del Sistema para el Desarrollo Integral de la Familia; misma que deberá acreditarse mediante la presentación del documento autorizado.
+
+En dicho taller se informará cuando menos sobre:
+
+I. Los requisitos para contraer matrimonio.
+
+II. Los efectos del matrimonio con relación a los cónyuges y a sus hijos.
+
+III. Los regímenes patrimoniales del matrimonio.
+
+IV. Las causales de divorcio.
+
+V. La Patria Potestad.
+
+VI. El Patrimonio de Familia.
+
+VII. El manejo de conflictos interpersonales.
+
+VIII. La paternidad responsable.
+
+IX. La responsabilidad financiera.
+
+X. La violencia familiar.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 2004)</small>
 
 ART. 151.- Son impedimentos para celebrar el matrimonio:
@@ -838,6 +864,10 @@ VIII.- La embriaguez habitual, la morfinomanía, la eteromanía y el uso indebid
 IX.- Padecer alguno de los contrayentes discapacidad intelectual, aunque pudiera tener momentos de lucidez;
 
 X.- El matrimonio subsistente con persona distinta de aquella con quien se pretenda contraer.
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2013)</small>
+
+XI.- Que los contrayentes no presenten el certificado de haber tomado los cursos prematrimoniales.
 
 De estos impedimentos sólo son dispensables la falta de edad y el parentesco de consanguinidad en línea colateral desigual.
 
@@ -5441,7 +5471,7 @@ ART. 1439.- El depósito en la Dirección General de Notarías se hará personal
 
 > <small>(REFORMADO, P.O. 12 DE JULIO DE 2007)</small>
 
-ART. 1440.- En el sobre cerrado que contenga el duplicado del testamento ológrafo se pondrá la siguiente constancia expedida por el Director General de Notarías: "Recibí el pliego cerrado que el señor... afirma contiene original de su testamento ológrafo, del cual, según afirmación del mismo señor, existe dentro de este sobre un duplicado". Se pondrá luego el lugar y la fecha en que se extiende la constancia, que será firmada por el Director, poniéndose también al calce la firma del testador y de los testigos de identificación.
+ART. 1440.- En el sobre cerrado que contenga el duplicado del testamento ológrafo se pondrá la siguiente constancia expedida por el Director General de Notarías: "Recibí el pliego cerrado que el señor.... afirma contiene original de su testamento ológrafo, del cual, según afirmación del mismo señor, existe dentro de este sobre un duplicado". Se pondrá luego el lugar y la fecha en que se extiende la constancia, que será firmada por el Director, poniéndose también al calce la firma del testador y de los testigos de identificación.
 
 > <small>(REFORMADO, P.O. 12 DE JULIO DE 2007)</small>
 
@@ -8605,7 +8635,7 @@ ART. 2479.- El mandante puede eixgir (sic) la devolución del instrumento o escr
 
 El mandante que descuide exigir los documentos que acrediten los poderes, del mandatario, responde de los daños que puedan resultar por esa causa a terceros de buena fe.
 
-ART. 3480.- La constitución de un nuevo mandatario para un mismo asunto, importa la revocación del primero, desde el día en que se notifique a este el nuevo nombramiento.
+ART. 3480 (SIC).- La constitución de un nuevo mandatario para un mismo asunto, importa la revocación del primero, desde el día en que se notifique a este el nuevo nombramiento.
 
 > <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2012)</small>
 
@@ -10382,3 +10412,21 @@ P.O. 6 DE DICIEMBRE DE 2012.
 PRIMERO. El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno Constitucional del Estado de Durango.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al contenido del presente decreto.
+
+P.O. 21 DE ABRIL DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+El Sistema para el Desarrollo Integral de la Familia del Estado tendrán un plazo de 180 días para elaborar y signar convenios con aquellos Sistemas para el Desarrollo Integral de la Familia de los municipios y Oficialías del Registro Civil de los municipios en los que no tenga infraestructura para poder brindar el Taller de Orientación Prematrimonial.
+
+###### ARTÍCULO TERCERO.
+
+El Sistema para el Desarrollo Integral de la Familia del Estado, tendrá un plazo de 60 días para establecer las bases y lineamientos conforme a los cuales se va a llevar acabo (sic) el Taller de Orientación Prematrimonial al que se refiere el presente decreto.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones legales en lo que se opongan al presente decreto.
