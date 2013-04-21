@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-congreso-del-estado-de-durango-71438"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-12-24"
-last_updated: "2012-12-13"
+last_updated: "2013-04-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71438&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 24 de diciembre de 2009.
 
@@ -791,7 +791,9 @@ La Mesa Directiva, es un órgano de gobierno interior del Congreso, integrada po
 
 La Mesa Directiva deberá elegirse mediante votación por cédula y por mayoría absoluta de los diputados presentes. Los integrantes de la Mesa Directiva, solo podrán ser sustituidos por el voto de las dos terceras partes de los diputados en la sesión de que se trate.
 
-En los primeros períodos ordinarios de sesiones, la Mesa Directiva, será elegida en la última sesión de cada mes; en los segundos periodos ordinarios, la elección se realizará en la última sesión de la primera quincena del mes.
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2013)</small>
+
+La Mesa Directiva será electa en la última sesión de cada mes.
 
 Realizada la elección de la Mesa Directiva, se comunicará por oficio a los poderes Ejecutivo y Judicial y a los Ayuntamientos del Estado; a las Cámaras del Honorable Congreso de la Unión, a las legislaturas de las demás entidades federativas y a la Asamblea Legislativa del Distrito Federal.
 
@@ -2962,3 +2964,13 @@ VII. Se faculta de manera expresa a la Comisión de Gobernación, a resolver los
 SEGUNDO.- El presente decreto surtirá sus efectos al momento de su aprobación, debiéndose mandar publicar en el Periódico Oficial del Gobierno del Estado.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 21 DE ABRIL DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+EI presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones legales y reglamentarias que se opongan a las contenidas en este decreto.
