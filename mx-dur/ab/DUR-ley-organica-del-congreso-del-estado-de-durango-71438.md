@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-congreso-del-estado-de-durango-71438"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-12-24"
-last_updated: "2012-12-13"
+last_updated: "2013-04-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71438&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,613 +21,497 @@ state: "DUR"
 ---
 # LEY ORGANICA DEL CONGRESO DEL ESTADO DE DURANGO
 
-LEY DE JUSTICIA ALTERNATIVA EN MATERIA PENAL PARA EL ESTADO DE MORELOS
+LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2013.
 
-Ley publicada en el Periódico Oficial del Estado de Morelos, el lunes 18 de agosto de 2008.
+Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 24 de diciembre de 2009.
 
-DR. MARCO ANTONIO ADAME CASTILLO, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS A SUS HABITANTES SABED:
+Con fechas 07 de noviembre de 2001, por los integrantes del Grupo Parlamentario del Partido Acción Nacional, que contiene Ley Orgánica del Poder Legislativo del Estado de Durango. (Se refiere a una reforma integral de la Ley); 16 de abril de 2002, por los integrantes de la Fracción Parlamentaria del Partido Revolucionario Institucional, que contiene Ley Orgánica del Congreso del Estado de Durango; 08 de abril de 2003, presentada por los entonces Diputados José María Alcántar Chávez y Octaviano Rendón Arce, integrantes del Grupo Parlamentario del Partido Revolucionario Institucional, que contiene Reglamento para el Gobierno Interior del Congreso del Estado de Durango; 16 de octubre de 2007, presentada por el C. Diputado Servando Marrufo Fernández, Representante del Partido Duranguense, que contiene reformas a la LEY ORGÁNICA DEL CONGRESO DEL ESTADO, RELACIONADA CON LOS ÓRGANOS DE GOBIERNO Y ADMINISTRACIÓN; 12 de noviembre de 2007, presentada por los CC. Esteban Alejandro Villegas Villarreal y Manuel Herrera Ruiz, representantes del Partido Revolucionario Institucional, que contiene reformas a las fracciones XXIII y XXIV y adición de la fracción XXV del artículo 76; y se adiciona el artículo 101 Bis de la LEY ORGÁNICA DEL CONGRESO DEL ESTADO; 10 de diciembre de 2007, presentada por los CC. Diputados integrantes del Grupo Parlamentario del P.R.I., que contiene reforma a las fracciones XXIII y XXIV; se adiciona la fracción XXV del artículo 76, y se adicionan los artículos 101 Bis de la Ley Orgánica del Congreso del Estado; 02 de septiembre de 2008, presentada por los CC. Diputados Jorge Herrera Delgado, Adán Soria Ramírez y Fernando Ulises Adame de León, integrantes del Grupo Parlamentario del Partido Revolucionario Institucional de la LXIV Legislatura del Estado, por la cual solicitan se reforme el artículo 126 de la Ley Orgánica del Congreso del Estado de Durango; mismas que fueron turnadas a la Comisión de Régimen, Reglamento y Prácticas Parlamentarias, integrada por los CC. Diputados: Francisco Gamboa Herrera, José Arreola Contreras, Manuel Herrera Ruiz, José Luis López Ibáñez e Hipólito Pasillas Ortiz, Presidente, Secretario y Vocales respectivamente, los cuales emitieron su dictamen favorable con base en los siguientes:
 
-La Quincuagésima Legislatura del Congreso del Estado Libre y Soberano de Morelos, en ejercicio de las facultades que le otorga el artículo 40, fracción II, de la Constitución Política Local, y,
+C O N S I D E R A N D O S.
 
-C O N S I D E R A N D O.
+Con base en los anteriores Considerandos esta H. LXIV Legislatura del Estado, expide el siguiente:
 
-Por lo anteriormente expuesto, esta Soberanía ha tenido a bien expedir la siguiente:
+D E C R E T O No. 449
 
-LEY DE JUSTICIA ALTERNATIVA EN MATERIA PENAL PARA EL ESTADO DE MORELOS
+LA HONORABLE SEXAGÉSIMA CUARTA LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE DURANGO, CON LAS FACULTADES QUE LE CONFIERE EL ARTÍCULO 55 DE LA CONSTITUCIÓN POLÍTICA LOCAL, A NOMBRE DEL PUEBLO DECRETA:
+
+LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE DURANGO
 
 ## TÍTULO PRIMERO. DEL PODER LEGISLATIVO
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
-###### ARTÍCULO 1.
+###### Artículo 1.
 
-La presente Ley es de orden público e interés social y de observancia general en todo el Estado de Morelos.
+La presente ley tiene por objeto establecer las bases para la organización y funcionamiento del Congreso del Estado, sus integrantes y órganos; así como regular sus facultades y atribuciones previstas en la Constitución Política del Estado Libre y Soberano de Durango, la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones legales aplicables.
 
-###### ARTÍCULO 2.
+Esta ley y demás disposiciones orgánicas, así como sus modificaciones, no necesitarán de la promulgación del Gobernador del Estado; serán aprobadas por la mayoría de los integrantes de la Legislatura y no podrá ser objeto del ejercicio del derecho de veto.
 
-La presente ley tiene como finalidad el poder regular los medios alternos de solución de conflictos en materia penal, tales como la mediación, conciliación y negociación, entre otras, cuando esos conflictos hayan lesionado bienes jurídicos sobre las cuales puedan las personas disponer libremente, sin afectar el orden público.
+###### Artículo 2.
 
-###### ARTÍCULO 3.
+El ejercicio del Poder Legislativo se deposita en una Cámara de Diputados, denominada “Congreso del Estado”, que se elige e integra conforme a las prevenciones establecidas en la Constitución Política del Estado Libre y Soberano de Durango.
 
-Para los efectos de la presente ley, se entenderá por:
+El ejercicio constitucional de una legislatura es de tres años, cuya nomenclatura cambiará de manera ascendente, según corresponda.
 
-I. Ley: La ley de Justicia Alternativa en Materia Penal para el Estado de Morelos;
+###### Artículo 3.
 
-II. Medios Alternos: Son los Métodos de solución como la mediación, conciliación y negociación;
+Al Congreso del Estado le corresponde el ejercicio de las facultades que le confiere la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Durango, la presente ley y demás disposiciones legales en vigor. Asimismo, está facultado para realizar funciones de consulta, promoción y gestoría, encaminadas a satisfacer las necesidades sociales de la población de la Entidad.
 
-III. Centro: al Centro de Justicia Alternativa de la Procuraduría General de Justicia del Estado de Morelos;
+###### Artículo 4.
 
-IV. Principio de Justicia restaurativa: Es todo proceso en el que la víctima u ofendido y el imputado o condenado participan conjuntamente de forma activa en la resolución de cuestiones derivadas del delito en busca de un resultado restaurativo;
+La residencia del Poder Legislativo es la capital del Estado, su recinto oficial será el Palacio Legislativo, donde se ubicará el salón de sesiones, el cual constituirá su recinto plenario.
 
-V. Resultado Restaurativo: Es el acuerdo encaminado a atender las necesidades y responsabilidades individuales y colectivas de las partes y lograr la integración de la víctima u ofendido y del infractor en la comunidad en busca de la reparación, la restitución y el servicio de la comunidad;
+El Congreso podrá cambiar su residencia en forma provisional si así lo aprueba el voto de las dos terceras partes de los diputados integrantes de la Legislatura.
 
-VI. Conciliación: Es el método en el que un tercero neutral e imparcial trata de avenir a las partes en conflicto, proponiendo alternativas de solución al mismo, siendo potestad de estas, el tomar la que más se apegue a sus necesidades e intereses;
+###### Artículo 5.
 
-VII. Mediación: Es el medio alternativo de resolución de conflictos en el cual las partes protagonistas de una controversia, con el auxilio de un tercero imparcial y neutral, logran establecer una comunicación eficaz, con el propósito de llegar a un acuerdo en forma pacífica;
+Las instalaciones del Congreso son inviolables. Ninguna autoridad podrá ejecutar mandamientos judiciales o administrativos sobre sus bienes, ni sobre las personas o sus bienes en el interior de las instalaciones del Palacio Legislativo, incluyendo otros bienes inmuebles destinados al servicio de las funciones inherentes al mismo.
 
-> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+###### Artículo 6.
 
-VIII. Negociación: Método restaurativo consistente en que las partes en conflicto buscan la solución a su controversia, con ayuda de un tercero, y donde la solución al conflicto recae directamente sobre aspectos de carácter económico. Además de que ambas partes por común acuerdo no quieran dialogar frente a frente, pero si estén de acuerdo en negociar y llegar a un acuerdo reparatorio por medio del especialista en negociación. El negociador elaborará proyectos económicos para las partes, garantizando la total reparación del daño y las circunstancias especiales de los peticionarios;
+La Legislatura que corresponda, deberá iniciar su ejercicio constitucional el uno de septiembre del año de la elección con su instalación y efectuará previamente un periodo preparatorio en los términos prescritos en esta ley.
 
-IX. Juntas de Orientación Ciudadana: Proceso desarrollado entre las partes, con la participación de los afectados indirecta o mediata por un conflicto, para resolverlo de manera colectiva, mediante un acuerdo;
+En el caso de elecciones extraordinarias, la elección y el periodo preparatorio se efectuarán en los términos que establezca la convocatoria respectiva.
 
-X. Personal Especializado: Son los Profesionistas en la aplicación de las técnicas de Mediación, Conciliación y Negociación, entre otros, que lleven a cabo los medios alternos;
+###### Artículo 7.
 
-XI. Director: Al Director General del Centro de Justicia Alternativa de la Procuraduría General de Justicia del Estado Morelos;
+El Congreso del Estado, a través del pleno, ejercerá sus atribuciones en periodos ordinarios y extraordinarios.
 
-XII. Orientador Ciudadano: Son los Servidores Públicos del Centro de Justicia Alternativa, que darán información sobre su competencia y beneficios de los medios alternativos a las partes, y canalizarán cuando proceda, previo registro de las partes, al Centro de Justicia Alternativa. Además serán los encargados de elaborar los citatorios y comunicará de manera pertinente al Ministerio Público las decisiones de las partes, para su conocimiento;
+En los periodos de receso de la Legislatura, el Congreso del Estado será representado por la Comisión Permanente, la que tendrá las atribuciones que le confiere la Constitución Política del Estado Libre y Soberano de Durango y la presente ley.
 
-XIII. Unidad: Es la Unidad de Orientación Ciudadana;
+###### Artículo 8.
 
-XIV. Certificación: Es la constancia otorgada por el Centro la cual acredita a una persona como especialista, para prestar el servicio, y
+Los diputados se agruparán en las formas de organización partidista previstas por esta Ley, según corresponda.
 
-> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+###### Artículo 9.
 
-XV. Acreditación: Es el documento por medio del cual el Centro autoriza y adscribe a las unidades de orientación ciudadana, para prestar el servicio.
+Los diputados están investidos del fuero que otorga la Constitución Política del Estado Libre y Soberano de Durango y son inviolables por las opiniones que manifiesten en el desempeño de su cargo y no podrán ser reconvenidos o enjuiciados por ellas.
 
-###### ARTÍCULO 4.
+No podrán ser perseguidos por la manifestación de sus ideas, ni durante su encargo ni al concluir el mismo.
 
-El Centro de Justicia Alternativa, es un órgano de la Procuraduría General de Justicia del Estado de Morelos y será el rector de los medios alternativos de justicia en materia penal, con las facultades y atribuciones que establece esta ley.
+En el ejercicio de su responsabilidad constitucional, todos los diputados tienen la misma categoría e igualdad de derechos y obligaciones.
 
-###### ARTÍCULO 5.
+El Presidente del Congreso será responsable de velar por el respeto del fuero constitucional.
 
-El Centro contará con las unidades regionales o municipales que resulten necesarias, de conformidad con el presupuesto.
+###### Artículo 10.
 
-###### ARTÍCULO 6.
+En materia de promoción y gestoría, el Congreso del Estado tendrá las siguientes facultades:
 
-Los medios de solución alternos que aplique el Centro sólo podrán recaer respecto a las conductas y en los términos y condiciones que se establecen en el Código Penal y el Código de Procedimientos Penales.
+I. Por conducto de la Gran Comisión, proponer al Titular del Poder Ejecutivo del Estado, la atención de problemas prioritarios, a fin de que su solución pudiera considerarse presupuestalmente;
 
-###### ARTÍCULO 7.
+II. Por acuerdo del pleno, solicitar al Titular del Poder Ejecutivo del Estado, Presidentes (sic)
 
-Son atribuciones del Centro de justicia Alternativa las siguientes:
+Municipales de la entidad y a las dependencias del gobierno federal, la solución de los problemas que planteen los diputados como resultado de su acción de gestoría ciudadana; y
 
-I. Vigilar el cumplimiento de la presente ley;
+III. Orientar a los habitantes del Estado, respecto a los medios jurídicos y administrativos de que puedan disponer, para hacer valer sus derechos ante las autoridades de la entidad.
 
-II. Desarrollar y promover una red de unidades como sistema de justicia alternativa en el Estado;
+###### Artículo 11.
 
-III. Prestar el servicio de información y orientación sobre los procedimientos alternativos;
+En materia de participación ciudadana, el Congreso del Estado tendrá las siguientes facultades:
 
-IV. Difundir y fomentar la cultura de los medios alternos, como solución pacífica de los conflictos en la ciudadanía;
+I. Convocar a consulta pública, previa determinación de las bases de la convocatoria respectiva, sobre las materias de su competencia; y
 
-> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+II. Publicar resultados, dando a conocer las acciones que como resultado de la consulta, llevará a cabo el Congreso.
 
-V. Proponer al Procurador la adscripción de las Unidades de Orientación Ciudadana;
+###### Artículo 12.
 
-VI. Revocar o suspender la Acreditación de las Unidades o la certificación de los prestadores, en los casos que así proceda, previa garantía de audiencia y defensa, fundando y motivando dicha resolución;
+El Congreso del Estado, conforme a las leyes aplicables, aprobará su propio proyecto de presupuesto anual de gastos y lo remitirá al Ejecutivo del Estado, por conducto de la Gran Comisión, para que atendiendo a las previsiones de ingresos, lo incorpore al proyecto de Presupuesto de Egresos del Estado; así mismo, administrará de manera autónoma su presupuesto de gastos y su estructura administrativa.
 
-VII. Evaluar y en su caso Certificar a los Especialistas, así como llevar sus registros, en término de su reglamento;
+###### Artículo 13.
 
-VIII. Promover la capacitación constante de su personal;
+El Congreso del Estado, podrá citar a los titulares de las dependencias y entidades del Poder Ejecutivo, cuando:
 
-> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+I. Se encuentre en estudio una iniciativa relacionada con la esfera de su competencia; y
 
-IX. Promover y proponer al Procurador General de Justicia del Estado, la suscripción de convenios de colaboración, así como cartas de intención y otros instrumentos jurídicos con instituciones afines, para lograr los objetivos del Centro;
+II. Sea necesario dotar de información sobre los programas y acciones de su ámbito de competencia.
 
-X. Realizar Diagnósticos, investigaciones y análisis relacionados con sus funciones;
+Para citar a los servidores públicos del Estado, se deberá cumplir con el procedimiento siguiente:
 
-XI. Llevar la estadística general del Centro, de sus unidades y demás prestadores de servicio;
+I. La solicitud al pleno deberá ser presentada por escrito y firmada por lo menos, por la cuarta parte de los diputados integrantes del Congreso, señalando al servidor público, el asunto a tratar y la fecha en que debe asistir;
 
-XII. Rendir al Procurador informe de sus actividades;
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2010)</small>
 
-XIII. Difundir el resultado de sus investigaciones, informes y actividades en general a través de los medios de comunicación en los términos de la Ley de información Pública, Estadística y protección de datos personales del Estado de Morelos;
+II. Una vez analizado, si el asunto por el cual se pretende citar al servidor público, es relativo a las fracciones I y II del primer párrafo de este artículo, el pleno resolverá lo procedente; y
 
-XIV. Organizar y encargarse de la función del Centro y sus unidades, y
+III. En caso de aprobación del pleno, el Presidente del Congreso, por conducto de la Oficialía Mayor, notificará al servidor público el acuerdo, con una anticipación de por lo menos ocho días, especificándole el motivo por el cual debe comparecer al Congreso.
 
-XV. Promover la Cooperación estatal y nacional para el uso de los medios alternativos y su validez.
-
-###### ARTÍCULO 8.
-
-El Centro de Justicia Alternativa estará integrado por los siguientes órganos:
-
-I. Dirección General del Centro de Justicia Alternativa;
-
-II. Dirección de Zona de Acuerdos Reparatorios, atendiendo a la organización de la Procuraduría;
-
-En cada Zona habrá las siguientes Subdirecciones:
-
-I. Subdirección de Orientadores Ciudadanos;
-
-II. Subdirección de Notificadores;
-
-III. Ministerios Públicos, personal jurídico, administrativo, notificadores y especialistas que el presupuesto permita.
-
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
-
-###### ARTÍCULO 9.
-
-El Director General del Centro será designado por el Procurador General de Justicia del Estado de Morelos. El Director General para el ejercicio de sus funciones se auxiliará de los Directores de Zona de Acuerdos Reparatorios de cada área, de los Ministerios Públicos, personal especializado, y demás funcionarios.
-
-###### ARTÍCULO 10.
-
-Para ser Director General se requiere:
-
-I. Poseer grado de Licenciatura o equivalente con cédula profesional con registro federal y estatal;
-
-II. Tener a la fecha de su nombramiento 30 años de edad;
-
-III. Acreditar capacitación relacionada con la función Sustantiva del Centro;
-
-IV. No haber sido sentenciado ejecutoriamente como responsable por delito doloso, y
-
-V. Los demás requisitos que establezca la ley, su respectivo reglamento y demás disposiciones que resulten aplicables.
-
-###### ARTÍCULO 11.
-
-El Director General tendrá las siguientes facultades:
-
-I. Vigilar el cumplimiento de esta ley;
-
-II. Llevar la dirección técnica y administrativa del Centro;
-
-> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
-
-III. Representar al Centro y promover convenios de colaboración necesarios para el desarrollo del mismo;
-
-IV. Convocar a concurso para prestadores de servicios de colaboración necesarios para el desarrollo del mismo;
-
-> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
-
-V. Expedir las acreditaciones del Centro autorizadas por el Procurador;
-
-> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
-
-VI. Proponer al Procurador la adscripción de las Unidades de Orientación Ciudadana;
-
-VII. Llevar el registro de desempeño de los Especialistas;
-
-VIII. Presentar los planes y programas anuales del Centro para su aprobación por el Procurador del Estado;
-
-> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
-
-IX. Proponer al Procurador reglamentos institucionales, y los manuales de procedimientos y de organización del Centro y sus unidades adscritas, así como los formatos de las sesiones que se utilizan en el Centro, revisarlos anualmente y en su caso actualizarlos;
-
-> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
-
-X. Proponer al Procurador las designaciones de Directores de Zona de Acuerdos Reparatorios, así como el personal del Centro, para aprobación;
-
-XI. Divulgar las funciones del Centro, y los beneficios sociales de los servicios de Justicia alternativa y sus organismos;
-
-XII. Presentar los informes necesarios al Procurador de su administración;
-
-XIII. Elaborar el anteproyecto de presupuesto de egresos y presentárselo al Procurador para su aprobación;
-
-> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
-
-XIV. Revisar los Acuerdos Reparatorios con el objeto de garantizar su legalidad y debido proceso;
-
-XV. Calificar la procedencia de las causas de excusa o recusación planteadas, ya sea antes del inicio del procedimiento o durante el mismo y de proceder; designar al personal sustituto;
-
-XVI. Evaluar los procedimientos de los medios alternativos de justicia, haciendo las recomendaciones necesarias para su buen desarrollo, y
-
-XVII. Las demás que conforme a las disposiciones de esta ley y su reglamento le correspondan.
-
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
-
-###### ARTÍCULO 12.
-
-Para ser Director de Zona de Acuerdos Reparatorios o Subdirector se deben de cumplir los mismos requisitos que se exigen para Director General.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE DICIEMBRE DE 2008)</small>
-
-###### ARTÍCULO 13.
-
-Los Directores de Zona de Acuerdos reparatorios tendrán las siguientes facultades:
-
-> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
-
-I. Turnar los Asuntos que le sean planteados al personal especializado que corresponda tratándose de sedes, e informar a los usuarios de los privados;
-
-> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
-
-II. Cuidar el buen funcionamiento de la Dirección y Subdirecciones a su cargo;
-
-III. Rendir al Director General del Centro, informe General en los tiempos que se determine;
-
-> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
-
-IV. Recibir, integrar y proponer adscripciones del Centro para su Acreditación;
-
-> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
-
-V. Realizar visitas de inspección y supervisión a las Unidades de Orientación Ciudadana y Especialistas;
-
-VI. Recoger las Experiencias del Centro para la realización de estudios y análisis de carácter prospectivo que realiza el Centro;
-
-> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
-
-VII. Proporcionar al Centro datos para el Control de registro de especialistas, así como mantenerlo actualizado;
-
-VIII. Las demás que conforme a las disposiciones de esta ley y su reglamento interno le corresponda.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE DICIEMBRE DE 2008)</small>
-
-### CAPÍTULO SEGUNDO. DEL CENTRO DE JUSTICIA ALTERNATIVA Y SUS UNIDADES
+### CAPÍTULO II. DE LA INSTALACIÓN DE LA LEGISLATURA
 
 #### SECCIÓN PRIMERA. DE LA JUNTA PREPARATORIA INICIAL
 
-###### ARTÍCULO 14.
+###### Artículo 14.
 
-Los Subdirectores tendrán las siguientes facultades y obligaciones:
+La Oficialía Mayor recibirá y mantendrá bajo custodia:
 
-> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+I. Las constancias de mayoría y declaratoria de validez de la elección de diputados electos por el principio de mayoría relativa;
 
-I. Acordar con el Director de Zona de Acuerdos Reparatorios el despacho de los asuntos de las áreas administrativas adscritas a su cargo;
+II. Las constancias de asignación de diputados electos según el principio de representación proporcional y la declaratoria de validez de dicha elección; y
 
-> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+III. Las sentencias recaídas a los juicios de inconformidad de la elección de diputados electos por ambos principios.
 
-II. Auxiliar al Director General y al Director de Zona de Acuerdos reparatorios en los informes que tiene que rendir;
+Lo anterior, se efectuará en los términos y plazos previstos en las leyes de la materia.
 
-III. Ejecutar los procedimientos para la obtención de los resultados establecidos en los programas de acción;
+###### Artículo 15.
 
-IV. Desarrollar planes y métodos operativos que promuevan la eficiencia de las funciones que ejecutan, y
+La Oficialía Mayor, a más tardar el día quince de agosto del año de la elección, deberá presentar un informe a la Comisión Permanente sobre las constancias y declaratorias recibidas, la cual verificará que las mismas corresponden a la mayoría absoluta de los diputados electos, convocándolos a una junta preparatoria inicial, que deberá efectuarse a más tardar el día dieciséis de agosto del año de la elección o el día hábil siguiente a esta fecha.
 
-V. Las demás que esta ley y el reglamente (sic) le confiera.
+El resto de los diputados electos se integrarán a los trabajos del periodo preparatorio, una vez que la autoridad electoral haya notificado al Congreso su respectiva constancia y declaratoria.
 
-###### ARTÍCULO 15.
+###### Artículo 16.
 
-Los servicios de medios alternativos de solución de conflictos contemplados por esta Ley, podrán ser prestados por Especialistas; las partes podrán tener la opción de nombrar a un especialista del Centro o a un privado, los cuales deberán de contar con su acreditación previa ante el Centro. Las partes sufragaran los gastos y honorarios de su especialista privado.
+La junta preparatoria inicial, que será presidida por la Comisión Permanente en funciones de comisión instaladora, tendrá por objeto:
 
-###### ARTÍCULO 16.
+I. La entrega de acreditaciones a los diputados electos;
 
-Los Especialistas del Centro, que presten los servicios de medios alternativos de solución de conflictos para el ejercicio de sus funciones deberán contar con la acreditación expedida por el Centro.
+II. La presentación del informe de trabajos preparatorios, para la instalación y puesta en marcha de la legislatura entrante; y
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+III. La designación de los diputados electos integrantes de la comisión de transición.
+
+Si a la junta preparatoria inicial no asiste la mayoría absoluta de los diputados electos, la comisión Instaladora expedirá una segunda convocatoria por escrito a una nueva reunión, que se realizará al día siguiente con los que asistan.
 
 #### SECCIÓN SEGUNDA. DE LA COMISIÓN DE TRANSICIÓN
 
-###### ARTÍCULO 17.
+###### Artículo 17.
 
-Los especialistas deberán certificarse ante el Centro, cubriendo los siguientes requisitos:
+La comisión de transición se conformará en forma plural, con los integrantes de la Comisión Permanente y el número de diputados electos que sean designados por éstos últimos en la junta preparatoria inicial, y se instalará en la fecha de su designación o al día hábil siguiente a este acto, con el propósito de formular el calendario de instalación y puesta en marcha de la legislatura entrante.
 
-I. Estar en pleno ejercicio de sus derechos civiles y políticos;
+###### Artículo 18.
 
-II. Tener domicilio en el Estado de Morelos;
+La comisión de transición tiene por objeto ejecutar, controlar y evaluar el calendario de actividades preparatorias para la instalación y puesta en marcha de la Legislatura entrante, en cuya formulación deberá considerarse lo siguiente:
 
-III. No haber sido condenado por delito doloso;
+I. El proceso de entrega-recepción de la Legislatura saliente y entrante;
 
-IV. Cumplir con los programas de capacitación que establezca el Centro;
+II. El curso institucional de inducción legislativa a diputados electos;
 
-> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+III. El proceso de constitución de las formas de organización partidista que procedan;
 
-V. Aprobar las evaluaciones en los términos y condiciones que establece esta Ley, su Reglamento y manuales respectivos, y
+IV. El proyecto de distribución e integración de las comisiones legislativas;
 
-VI. Contar con título profesional, cuando el prestador no sea licenciado en Derecho, deberá asesorarse por un Licenciado en Derecho, en la implementación de los acuerdos reparatorios que deben suscribirse.
+V. La distribución de curules, áreas y oficinas;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+VI. La realización de la junta preparatoria final;
 
-###### ARTÍCULO 18.
+VI (sic). La instalación de la legislatura; y
 
-Son obligaciones de los especialistas, las siguientes:
+VIII. El orden del día de la sesión de instalación y de apertura del primer periodo ordinario de sesiones, correspondiente al primer año de ejercicio constitucional.
 
-> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+###### Artículo 19.
 
-I. Desarrollar el método alternativo elegido en los términos que se establezcan en el convenio o cláusula compromisoria suscrita por los participantes. Los especialistas, atendiendo a la naturaleza del caso aplicarán el método adecuado para solucionarlo;
+Los diputados electos que formen parte de la comisión de transición, coordinarán las actividades que sean competencia exclusiva de los integrantes de la legislatura entrante, incluyendo el inicio de los trabajos de formulación de la agenda legislativa institucional.
 
-II. Cerciorarse del correcto entendimiento y comprensión que los participantes tengan del desarrollo del método alternativo elegido, desde su inicio hasta su conclusión, así como de sus alcances;
+La legislatura saliente preverá una asignación presupuestal para sufragar los gastos que originen la instalación y puesta en marcha de la legislatura entrante.
 
-III. Exhortar y motivar a los participantes a cooperar en la solución del conflicto;
-
-IV. Declarar la improcedencia del método alternativo elegido en los casos en que así corresponda haciendo saber a las partes los motivos de la misma;
-
-V. Actualizarse permanentemente en la materia;
-
-VI. Acudir a las revisiones y evaluaciones del Centro, así como proporcionar los informes estadísticos o relacionados con su actividad que le requiera el mismo, y
-
-VII. Estas disposiciones también tienen que ser cumplidas por los especialistas privados nombrados por las partes.
-
-###### ARTÍCULO 19.
-
-El personal del centro estará sujeto a la responsabilidad administrativa y en su caso a los procedimientos disciplinarios establecidos en la Ley Orgánica de la Procuraduría General de Justicia del Estado de Morelos y la Ley Estatal de Responsabilidades de los Servidores Públicos, así como las demás disposiciones aplicables a la materia.
+En el desempeño de su encomienda, la comisión de transición contará con el apoyo de los órganos administrativos y técnicos del Congreso del Estado.
 
 #### SECCIÓN TERCERA. DE LAS ACTIVIDADES PREPARATORIAS
 
-###### ARTÍCULO 20.
+###### Artículo 20.
 
-El Orientador Ciudadano, atenderá y canalizará de manera inmediata a los ciudadanos que expongan hechos presumiblemente constitutivos de delito al centro de Justicia Alternativa o a la instancia que corresponda. Habrá Unidades de Orientación Ciudadana adscritas, atendiendo a la necesidad del servicio y presupuesto.
+El proceso de entrega-recepción final, se efectuará en los términos y plazos previstos en los ordenamientos de la materia.
 
-###### ARTÍCULO 21.
+La firma del acta administrativa de entrega-recepción final, se efectuará el día uno de septiembre del año de la elección.
 
-Los orientadores ciudadanos serán los encargados de informar las ventajas de los métodos alternativos de solución, así como estudiar las controversias para determinar si los canaliza al Centro, atendiendo a las disposiciones de esta ley y al Código de procedimientos penales.
+###### Artículo 21.
 
-###### ARTÍCULO 22.
+Los contenidos y fecha de realización del curso institucional de inducción legislativa para los integrantes de la Legislatura entrante, serán definidos por los diputados electos, integrantes de la comisión de transición.
 
-Deberá remitir los asuntos a las instancias públicas o privadas, cuando se trate de hechos que por carecer de elementos constitutivos de delito, no puedan considerarse como tales o que de los mismos se desprenda que es competencia de otra instancia.
+La ejecución del curso estará a cargo del Instituto de Investigaciones, Estudios Legislativos y Asesoría Jurídica del Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+###### Artículo 22.
 
-###### ARTÍCULO 23.
+Los diputados electos, integrantes de la comisión de transición, coordinarán los trabajos relativos al proyecto de integración de las comisiones legislativas, el cual deberá ser elaborado a más tardar el día treinta y uno de agosto del año de la elección.
 
-Los ciudadanos expondrán los hechos presuntamente constitutivos de delito, al Orientador Ciudadano y recibirán la orientación de los servicios y la efectividad de la justicia alternativa que se aplica en el Centro.
+El proyecto de integración de las comisiones legislativas será remitido como propuesta a la Gran Comisión, a más tardar el día de su elección, para que por su conducto, sea presentado al Pleno para su análisis, discusión y votación respectiva, en la sesión siguiente a la fecha anteriormente referida.
+
+###### Artículo 23.
+
+En la distribución de curules, áreas y oficinas para los diputados electos, se estará a la práctica parlamentaria o a los acuerdos que en la materia se celebren.
 
 #### SECCIÓN CUARTA. DE LA JUNTA PREPARATORIA FINAL
 
-###### ARTÍCULO 24.
+###### Artículo 24.
 
-La información que proporcione el ciudadano al Orientador será confidencial y se capturará en medios electrónicos.
+La Comisión Permanente de la legislatura saliente, en funciones de comisión instaladora, citará a los diputados electos a la junta preparatoria final, que se llevará a efecto el día treinta y uno de agosto del año de la elección, a las once horas y se desarrollará de conformidad con el siguiente orden del día:
 
-###### ARTÍCULO 25.
+I. Lista de asistencia de los integrantes de la comisión instaladora y de los diputados electos;
 
-Las actuaciones derivadas del procedimiento de los medios alternativos estarán regidas por los siguientes principios:
+II. Declaratoria del quórum legal;
 
-I. Voluntad de las partes: La participación de los interesados en los medios alternativos deberá realizarse con su consentimiento y bajo su absoluta responsabilidad;
+III. Toma de protesta constitucional de los diputados electos;
 
-II. Confidencialidad: La información derivada de los procedimientos de los medios alternativos no podrá ser divulgada, por lo que será intransferible e indelegable;
+IV. Elección de la mesa directiva inicial;
 
-III. Sólo a petición de la Autoridad Ministerial y Judicial, se podrán entregar las actuaciones derivadas de los procedimientos referentes a los métodos alternativos, los cuales se consideran reservados para efectos de Ley de información Pública, Estadística y Protección de datos personales del Estado de Morelos;
+V. Declaratoria de clausura del ejercicio constitucional de la legislatura saliente;
 
-IV. Flexibilidad: El procedimiento será susceptible de cambios o variaciones según las circunstancias o necesidades de los participantes;
+VI. Citatorio a los diputados electos a la sesión de instalación de la legislatura y de apertura del periodo ordinario de sesiones; y
 
-> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+VII. Clausura de la junta preparatoria.
 
-V. Neutralidad: Los especialistas deberán actuar de forma independiente y libre no solo de intereses jurídicos, si no de prejuicios personales;
+###### Artículo 25.
 
-> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+Verificado el quórum legal e instalada la Sesión, el Presidente de la Comisión Instaladora procederá a tomar la protesta de los diputados electos, debiéndolo hacer en orden de distrito en el caso los diputados de mayoría relativa; y en orden alfabético, a los diputados de representación proporcional, preguntándoles lo siguiente:
 
-VI. Imparcialidad: Los especialistas procederán con rectitud sin predisposición a favor o en contra de algunas de las partes;
+“¿Protestáis guardar y hacer guardar la Constitución General de la República, la particular del Estado y las leyes que de ellas emanen, y desempeñar leal y patrióticamente el cargo de Diputado (a) que el pueblo os ha conferido, mirando en todo por el bien y prosperidad de la Nación y del Estado?”
 
-> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+Los interrogados deberán contestar: “Sí, protesto”.
 
-VII. Equidad: Los especialistas deberán generar condiciones de igualdad para que las partes actúen dentro del procedimiento sin ventajas indebidas;
+Enseguida, el Presidente dirá: “Si así no lo hiciéreis, que la Nación y el Estado os lo demanden“.
 
-VIII. Legalidad: Sólo podrán ser objeto del procedimiento previsto en esta ley, los conflictos derivados por la violación de un derecho legítimo o por incumplimiento indebido de una obligación y que no afecte el interés público;
+###### Artículo 26.
 
-> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+El Presidente de la Comisión Instaladora, exhortará a los diputados electos para que en escrutinio secreto y por mayoría de votos, elijan la mesa directiva inicial.
 
-IX. Honestidad: Los especialistas deberán de excusarse de participar cuando reconozcan que sus capacidades, limitaciones o intereses personales puedan afectar al procedimiento;
+Una vez electa la Mesa Directiva de la legislatura entrante, el Presidente de la Comisión Instaladora, efectuará la siguiente declaratoria:
 
-X. Protección a los más vulnerables: Los convenios finales se suscribirán observando adicionalmente los derechos de las niñas, niños, adolescentes, incapaces, adultos mayores e indígenas, según sea el caso;
+“A las veinticuatro horas del día de hoy, treinta y uno de agosto de (año), la (número) Legislatura del Honorable Congreso del Estado Libre y Soberano de Durango, clausura su periodo de Ejercicio Constitucional“
 
-> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+Enseguida, procederá a entregar al Presidente de la Mesa Directiva inicial electa, los expedientes relativos a la elección de los integrantes de la nueva legislatura; el informe de la Comisión Permanente de la legislatura saliente; los asuntos pendientes de dictaminar y el informe de las actividades relativas a la entrega-recepción del Poder Legislativo a la legislatura entrante.
 
-XI. Economía: Los especialistas procurarán ahorrar tiempo y gastos a las partes;
+###### Artículo 27.
 
-> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+Si uno o varios diputados no asistieran a la junta preparatoria final, la presidencia de la nueva legislatura citará a los ausentes, para que concurran a rendir protesta desde el día de la instalación de la legislatura hasta diez días después de este acto, apercibidos que de no hacerlo, se llamará de inmediato a los suplentes.
 
-XII. Inmediatez: Los especialistas tendrán conocimiento directo del conflicto y de las partes;
-
-XIII. Formalidad: Las partes podrán acordar las formas de cómo solucionar su conflicto, previo acuerdo;
-
-XIV. Accesibilidad: Toda persona sin distinciones de origen étnico, sexo, edad, condición social, religión o estado civil tendrá derecho a los medios alternos de justicia, por lo que se facilitará su acceso principalmente a las personas o grupos más vulnerables de la sociedad, y
-
-XV. Alternatividad: Procurará el Especialista proponer diversas soluciones al conflicto de manera que las partes tengan opción de escoger alguna alternativa conveniente para solucionar el conflicto.
-
-###### ARTÍCULO 26.
-
-Los interesados podrán promover la aplicación de los medios alternos por escrito, ante la Unidad de Orientación ciudadana.
-
-###### ARTÍCULO 27.
-
-Remitida la solicitud al Centro, el personal especializado examinará el caso y determinará el medio alterno aplicable al mismo.
+Si la ausencia de los diputados propietarios electos impide la instalación de la legislatura, el Presidente de la Mesa Directiva, citará de inmediato a los suplentes; y si éstos no comparecieran, se procederá de conformidad con lo dispuesto en el segundo párrafo del artículo 39 la Constitución Política del Estado Libre y Soberano de Durango.
 
 #### SECCIÓN QUINTA. DE LA INSTALACIÓN
 
-###### ARTÍCULO 28.
+###### Artículo 28.
 
-El procedimiento ante el Centro iniciará con la comparecencia inicial documentada a través de medios electrónicos. Ésta contendrá: una descripción breve de los datos esenciales del hecho planteado y los nombres y domicilios de los involucrados.
+La sesión de instalación de la legislatura entrante se efectuará el día uno de septiembre del año de la elección a las once horas, de conformidad con el orden del día, que contendrá cuando menos, lo siguiente:
 
-###### ARTÍCULO 29.
+I. Lista de asistencia;
 
-El Orientador ciudadano encargado del caso, procederá de inmediato a elaborar la invitación o citación a la persona contra quien se pretenda denunciar o querellar a fin de que ésta sea invitada o citada a participar en el procedimiento correspondiente, informándole la fecha, lugar y hora señalada para la sesión inicial.
+II. Declaración del quórum legal;
 
-La primera sesión se programará dentro de un plazo que no excederá de tres días hábiles.
+III. Declaratoria de instalación de la legislatura entrante y de apertura del primer periodo ordinario de sesiones, correspondiente al primer año de ejercicio constitucional;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+IV. Declaratoria de constitución de las formas de organización partidista;
 
-###### ARTÍCULO 30.
+V. Elección de la Gran Comisión;
 
-Si quien haya sido invitado o citado manifiesta su negativa para participar en el medio alterno, se canalizará el caso al Ministerio Público investigador que corresponda.
+VI. Posicionamiento de los representantes de las formas de organización partidistas constituidas; y
 
-Después de cerrado el caso por la causa señalada en el párrafo anterior, si persiste el interés de ambas partes, se reabrirá y se señalará día y hora de la sesión.
+VII. Clausura de la sesión.
 
-###### ARTÍCULO 31.
+###### Artículo 29.
 
-En las sesiones estarán presentes e intervendrán únicamente las partes, el personal del Centro y en su caso, los auxiliares autorizados; se exceptuará de lo anterior tratándose de las Juntas de Orientación ciudadana y en los casos de personas que deban ser representadas por disposición de la ley
+Para el efecto de declarar instalada la legislatura entrante y abierto su primer periodo ordinario de sesiones, el Presidente de la Mesa Directiva inicial, solicitará que los diputados y demás asistentes al salón de sesiones, se pongan de pie, y hará la siguiente declaratoria:
 
-###### ARTÍCULO 32.
+“Hoy día primero de septiembre del (año), se declara legítima y solemnemente instalada la (su número) Legislatura del Honorable Congreso del Estado Libre y Soberano de Durango, y en aptitud de ejercer las funciones que le señalan la Constitución y las leyes; y abre su primer periodo ordinario de sesiones, correspondiente al primer año de ejercicio constitucional”.
 
-Para la resolución de los hechos plateados (sic) se podrá agotar uno o varios medios alternos.
+En el caso de una elección extraordinaria, la fórmula anterior se adecuará a la fecha establecida previamente en la convocatoria respectiva.
 
-###### ARTÍCULO 33.
+###### Artículo 30.
 
-Los medios alternos que procure el agente del Ministerio Público, en cualquier etapa del procedimiento penal, se podrán tramitar con el apoyo del personal especializado del Centro.
+El Presidente de la Mesa Directiva inicial, tomando en cuenta la procedencia de la constitución de las diversas formas de organización partidista, según corresponda, las declarará constituidas, y a partir de ese momento, ejercerán las funciones previstas en esta ley.
 
-### CAPÍTULO TERCERO. DE SU ESTRUCTURA
+La declaratoria de constitución contendrá cuando menos, lo siguiente:
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+I. Denominación;
+
+II. Nombre y número de integrantes, y
+
+III. Nombre de su coordinador y representante.
+
+###### Artículo 31.
+
+Los posicionamientos de las formas de organización partidista, se efectuarán tomando en cuenta lo siguiente:
+
+I. Hará uso de la palabra un diputado por cada forma de organización partidista;
+
+II. El orden de las intervenciones se realizará en orden creciente en razón del número de diputados con que cuente la forma de organización partidista en la legislatura;
+
+III. Cuando dos o más formas de organización partidista tengan igual número de diputados, el orden de la intervención se determinará en función de la votación que cada partido político, por sí mismo, haya obtenido en la elección local de diputados de representación proporcional inmediata anterior;
+
+IV. Las intervenciones no excederán de quince minutos; y
+
+V. No procederán interrupciones o interpelaciones al orador en turno.
+
+###### Artículo 32.
+
+La instalación de la nueva Legislatura se contendrá en el decreto respectivo y se comunicará por oficio a los titulares de los Poderes Ejecutivo y Judicial, a los Ayuntamientos del Estado, a las Cámaras del Honorable Congreso de la Unión, a las legislaturas de las demás entidades federativas y a la Asamblea Legislativa del Distrito Federal.
+
+###### Artículo 33.
+
+En los períodos siguientes al de la instalación de la legislatura, la junta que se celebre para elegir la Mesa Directiva, se llevará a cabo dentro de los cinco días naturales que antecedan a cada una de las aperturas.
+
+### CAPÍTULO III. DEL ESTATUTO DE LOS DIPUTADOS
 
 #### SECCIÓN PRIMERA. DE LOS DERECHOS
 
-###### ARTÍCULO 34.
+###### Artículo 34.
 
-Cuando el Ministerio Público aplique medios alternos de solución de conflictos no se sujetará a formalidades especiales salvo lo dispuesto en el artículo siguiente.
+Los diputados son los legítimos representantes electos en forma periódica y democrática, que integran el Congreso del Estado para ejercer la soberanía popular, que reside esencial y originalmente en el pueblo de Durango.
 
-###### ARTÍCULO 35.
+###### Artículo 35.
 
-Los medios alternos que se apliquen a instancia de los Jueces de Garantía y de los Agentes del Ministerio Público, podrán tramitarse con el apoyo del personal especializado del Centro.
+Los diputados, en el ejercicio de sus atribuciones y a partir de la toma de protesta constitucional respectiva e inicio de su ejercicio constitucional, gozarán de las prerrogativas y derechos que establecen la Constitución Política del Estado Libre y Soberano de Durango y esta Ley.
 
-###### ARTÍCULO 36.
+###### Artículo 36.
 
-Si quien haya sido invitado o citado manifiesta su negativa para participar en el medio alterno, se canalizará el caso a la unidad de investigación del ministerio público que corresponda.
+Los diputados son responsables por los delitos comunes que cometan durante el tiempo de su encargo y por los delitos, faltas u omisiones oficiales; pero no podrán ser detenidos ni ejercitarse en su contra acción punitiva, hasta que seguido el procedimiento constitucional, se decida la separación del cargo y la sujeción a los tribunales.
 
-Después de cerrado el caso por la causa señalada en el párrafo anterior, si persiste el interés de ambos partes, se reabrirá y se señalara día y hora de la sesión.
+###### Artículo 37.
 
-###### ARTÍCULO 37.
+Los diputados percibirán, de acuerdo con el presupuesto de egresos autorizado, las dietas correspondientes. No tendrán derecho a éstas cuando faltaren a las sesiones o reuniones que tengan relación con las funciones que desempeñen, en los términos establecidos por esta Ley, tampoco recibirán emolumentos extraordinarios por el trabajo realizado como integrantes de las comisiones legislativas del Congreso.
 
-En las sesiones estarán presentes e intervendrán el Ministerio público, las partes y en su caso el personal del centro, así como los auxiliares autorizados; se exceptuará de lo anterior en los casos de personas que deban ser representadas por disposición de la ley.
+###### Artículo 38.
 
-###### ARTÍCULO 38.
+Son derechos de los diputados:
 
-Para la resolución de los hechos planteados se podrán agotar uno o varios medios alternos.
+I. Integrar la legislatura para la cual fueron electos;
 
-###### ARTÍCULO 39.
+II. Tener voz y voto en las deliberaciones del pleno y en las comisiones legislativas que se le asignen;
 
-En caso de que el procedimiento concluya con un acuerdo de las partes, el personal especializado o el Ministerio Público, lo redactará por escrito, el cual contendrá:
+III. Hacer del conocimiento del Congreso del Estado cualquier anomalía que pueda afectar la seguridad y tranquilidad colectiva;
 
-I. El lugar y la fecha de su celebración;
+IV. Proponer las medidas que consideren adecuadas para la solución de los problemas que planteen;
 
-II. El nombre y edad, información que se compulsará con un documento fehaciente; nacionalidad, estado civil, profesión u oficio y domicilio de cada una de las partes. En caso de representación legal se hará constar la documentación con los que se haya acreditado dicho carácter. Cuando lo soliciten los interesados también se asentará el nombre de las personas de su confianza que acompañaron a ésta o de sus defensores;
+V. Efectuar reuniones públicas para dar a conocer sus informes;
 
-III. Una breve reseña del conflicto que motivó el trámite de los medios alternos;
+VI. Percibir una dieta y gozar de las prestaciones económicas y sociales que les permita cumplir eficaz y dignamente su función;
 
-IV. Una descripción precisa de las obligaciones de dar, hacer o no hacer que hubieran acordado las partes, así como la forma y tiempo en que éstas deban cumplirse;
+VII. Percibir el finiquito que señale el presupuesto de egresos del Congreso del Estado, correspondiente al año de conclusión del ejercicio constitucional de la legislatura en funciones;
 
-V. La firma o huellas dactilares de quienes lo suscriban y en su caso, el nombre de la persona o personas que hayan firmado a petición o a ruego de una o ambas partes, cuando estos no sepan firmar;
+VIII. Gozar, por causa justificada, de permisos o licencias por tiempo determinado o indeterminado para dejar de asistir a las sesiones del Pleno, de las comisiones legislativas o separarse del cargo; y
 
-VI. Cuando así lo soliciten las partes, la firma o huella dactilar de las personas de confianza que hayan acompañado a las partes;
+IX. Las demás que les sean conferidas por esta ley y otros ordenamientos legales vigentes.
 
-VII. La firma del personal que haya intervenido en el trámite y el sello de la dependencia, y
+###### Artículo 39.
 
-VIII. El señalamiento expreso de los efectos del cumplimiento o del incumplimiento.
+Se consideran faltas, los siguientes casos:
 
-En la conciliación y la negociación las partes deberán garantizar el cumplimiento del acuerdo a juicio del personal especializado y agentes del Ministerio Público, mediante cualquiera de las formas establecidas por los ordenamientos jurídicos aplicados al caso.
+I. No asistir a las sesiones del pleno o a las reuniones de trabajo de las comisiones legislativas;
 
-Se entregará un ejemplar del acuerdo a cada una de las partes intervinientes, conservándose uno en los archivos que corresponda.
+II. Llegar a las sesiones o reuniones de trabajo después del pase de lista de asistencia sin autorización del Presidente; y
 
-###### ARTÍCULO 40.
+III. Abandonar las sesiones o reuniones de trabajo sin permiso del Presidente.
 
-El trámite de los medios alternos en el Centro concluirá:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MARZO DE 2010)</small>
 
-I. Por convenio en donde se resuelva total o parcialmente el conflicto;
+###### Artículo 40.
 
-II. En caso de que alguna de las partes realice un comportamiento irrespetuoso o agresivo y no pueda superarse esa situación;
+Corresponde al Presidente de la Mesa Directiva, otorgar, por causa justificada, permisos para retardos y faltas o ausentarse de las sesiones plenarias, en los siguientes casos:
 
-III. Por decisión de una de las partes;
+I. Cuando se solicite con antelación a la sesión correspondiente, el registro de asistencia para presentarse a la sesión después de haber pasado lista de asistencia;
 
-> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+II. Para retirarse de la sesión;
 
-IV. Por inasistencia injustificada de ambas partes de manera reiterada a las sesiones, o por dos inasistencias injustificadas de una de las partes;
+III. Para dejar de asistir por motivos personales hasta dos sesiones en un mes; y
 
-V. Por la negativa de las partes para la suscripción del acuerdo en los términos de la presente Ley, y
+IV. Para dejar de asistir, cuando por razones de salud se vea impedido de acudir a la sesión, hasta por tres semanas consecutivas en un mes.
 
-> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+Se justificará el retardo, falta o ausencia de un diputado, cuando previamente a la sesión o sesiones, avise y exponga sus motivos al Presidente de la Mesa Directiva. La falta sin previo aviso, sólo se justificará en caso de fuerza mayor. De igual forma, sólo se podrá otorgar permiso a cinco diputados, como máximo.
 
-VI. Por resolución del Director de Zona de Acuerdos Reparatorios de cada zona, cuando de la conducta de las partes se desprenda que no hay voluntad para llegar a un arreglo.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2011)</small>
 
-###### ARTÍCULO 41.
+Se justificará el retardo, falta o ausencia de un diputado, cuando previamente a la sesión o sesiones, avise y exponga sus motivos al Presidente de la Mesa Directiva. La falta sin previo aviso, sólo se justificará en caso de fuerza mayor o enfermedad, debiendo, el ausente hacer llegar al Presidente de la Mesa Directiva, la justificación médica por escrito; cuando la falta tuviere otra naturaleza, deberá, por escrito, exponer las razones de la inasistencia, ante la Mesa Directiva. Sólo se podrá otorgar permiso a cinco diputados, como máximo.
 
-Si las partes no llegarán a un acuerdo, el asunto se canalizará ante el Ministerio Público correspondiente.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE DICIEMBRE DE 2011)</small>
 
-###### ARTÍCULO 42.
+Las faltas de asistencia a las reuniones de las comisiones legislativas, sólo serán justificadas por el Presidente de las mismas cuando medie causa de fuerza mayor inevitable o enfermedad; en este caso, se observará lo dispuesto en el párrafo anterior.
 
-Las partes en los medios alternos son las víctimas, o el ofendido y el imputado. Cuando los ofendidos sean personas morales, comparecerán a través de su legítimo representante.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MARZO DE 2010)</small>
 
-Tratándose de menores, éstos deberán ser representados por quien ejerce la patria potestad, tutor, curador o en su defecto un representante de la Procuraduría de la Defensa del Menor y la Familia.
+###### Artículo 41.
 
-###### ARTÍCULO 43.
+Corresponde al pleno, autorizar permisos a los diputados para dejar de asistir a más de dos sesiones o más de tres semanas en un mes y por causa de enfermedad grave hasta por noventa días, siempre y cuando no se afecte el quórum legal y exista causa grave y justificada; así como autorizar licencias por tiempo determinado o indeterminado, en cuyo caso deberá llamarse al suplente hasta el término de la licencia respectiva.
 
-Las partes tendrán los siguientes derechos:
+Se entiende que los diputados que falten a sesiones consecutivas del pleno por el término de un mes sin causa justificada y sin previo aviso al Presidente, renuncian a concurrir a sesiones hasta el periodo inmediato, llamándose desde luego a los suplentes.
 
-I. Solicitar los medios alternos en los términos de esta Ley, su reglamento y demás leyes aplicables;
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2010)</small>
 
-II. Ser atendidos por el personal especializado designado para intervenir en el trámite solicitado;
+###### Artículo 42.
 
-> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2008)</small>
+Cuando algún diputado se reporte enfermo, el Presidente designará una comisión de dos o más diputados para que pasen a visitarlo periódicamente por el término de su enfermedad, debiendo rendir dicha comisión, un informe respectivo a su desempeño y a las necesidades del enfermo, para que se le preste ayuda en cuanto fuere posible. En el caso de que llegare a sufrir una incapacidad permanente, gozará de una pensión; para tal efecto, el pleno de la legislatura, en sesión privada, determinará lo relativo a la cuantía y temporalidad de ésta, previendo económicamente por su calidad de vida futura. Si falleciere, se imprimirán esquelas a nombre del Congreso y el Presidente designará una comisión para que asista, con la representación de la legislatura, a los funerales y se encargue de expresar las condolencias a los familiares del fallecido. Los gastos del sepelio correrán a cargo del presupuesto del Congreso.
 
-III. Solicitar al Director General o en su caso al Director de Zona de Acuerdos Reparatorios correspondiente, la sustitución del personal especializado cuando exista causa justificada para ello, o bien, recusarlo;
+###### Artículo 43.
 
-IV. De ser procedente, solicitar la intervención de auxiliares, y
-
-V. Las demás que establezca esta Ley, su reglamento y demás disposiciones aplicables.
+Los diputados, durante su ejercicio, su cónyuge y descendientes en primer grado en línea recta, que dependan económicamente o hasta la mayoría de edad, gozarán de los beneficios médico-asistenciales, que serán cubiertos íntegramente por el Gobierno del Estado, conforme a los convenios que deberá celebrar éste con las instituciones correspondientes; o bien, mediante la prestación de servicios que al efecto se contraten.
 
 #### SECCIÓN SEGUNDA. DE LAS OBLIGACIONES
 
-###### ARTÍCULO 44.
+###### Artículo 44.
 
-Son obligaciones de las partes:
+Son obligaciones de los diputados:
 
-I. Conducirse con respeto y observar buen comportamiento durante el trámite de las (sic) medios alternos;
+I. Rendir la protesta de ley para asumir su cargo;
 
-II. Cumplir con las obligaciones de dar, hacer o no hacer establecidas en el acuerdo Reparatorio, y
+II. Ser defensores de los derechos de los habitantes que representan;
 
-III. Las demás que establezca esta Ley, su reglamento y demás disposiciones aplicables.
+III. Visitar su respectivo distrito en los períodos de receso del Congreso o en los períodos ordinarios cuando fuere necesario. En los períodos de receso, se exceptúa de esta obligación, a los diputados que integren la comisión permanente;
 
-###### ARTÍCULO 45.
+IV. Cerciorarse del estado que guardan los programas de desarrollo económico y de bienestar social;
 
-La Procuraduría General de Justicia del Estado, podrá celebrar convenios con las minorías étnicas, para incorporarlos como auxiliares en el Centro de Justicia Alternativa; a efecto de que participen en forma activa en la resolución de conflictos relacionados con sus grupos, en busca de un resultado restaurativo.
+V. Vigilar que los servidores públicos presten un servicio eficaz y honesto a la ciudadanía;
+
+VI. Ser gestores de la solución de los problemas que afecten a los habitantes de sus distritos o a sus representaciones proporcionales minoritarias;
+
+VII. Asistir a las sesiones del Congreso con puntualidad, de principio a fin, pudiendo ausentarse de la sesión, previa autorización de la presidencia;
+
+VIII. Concurrir con toda oportunidad a las sesiones de las juntas preparatorias;
+
+IX. Presentar el informe anual de actividades legislativas y de gestoría, durante la segunda quincena del mes de junio de cada año legislativo;
+
+X. Asistir a las reuniones de las comisiones de las que formen parte y a las cuales hayan sido citados con oportunidad;
+
+XI. Guardar prudente reserva de todo lo que se trate o resuelva en las sesiones privadas o cuando los asuntos sean clasificados como de reserva por virtud de la ley, conforme al acuerdo de la Mesa Directiva o acuerdo parlamentario;
+
+XII. Abstenerse de dictaminar en las iniciativas y asuntos en que tengan interés personal o que interesen de la misma manera a sus cónyuges o a sus parientes consanguíneos, en línea recta, sin limitación de grado; a los colaterales dentro del cuarto grado, y a los afines dentro del segundo;
+
+XIII. Justificar ante el Presidente respectivo, las inasistencias a las sesiones del Congreso, de la Comisión Permanente y de las comisiones legislativas;
+
+XIV. Observar las normas de cortesía y el respeto para con los miembros del Congreso, así como para con los servidores públicos e invitados al recinto oficial;
+
+XV. Guardar el debido respeto y compostura propios de su investidura, en el ejercicio de sus funciones, aún fuera del recinto plenario; y
+
+XVI. Las demás que les asignen las leyes.
+
+###### Artículo 45.
+
+Los diputados propietarios, en el periodo que dure el cargo para el que fueron electos, tienen prohibido desempeñar comisión o empleo alguno de la Federación, del Estado o de los Municipios por los cuales reciban remuneración, sin que hayan obtenido previamente licencia de la Legislatura o de la Comisión Permanente, en su caso, en cuya hipótesis cesarán en sus funciones mientras desempeñen la nueva ocupación. Se exceptúan de esta prohibición, los cargos o comisiones de oficio o de índole educativa.
+
+Esta misma regla se aplicará a los diputados suplentes que entren en ejercicio del cargo.
+
+El incumplimiento de esta disposición, se sancionará con la pérdida del carácter de diputado.
 
 #### SECCIÓN TERCERA. DE LAS FORMAS DE ORGANIZACIÓN PARTIDISTA
 
-###### ARTÍCULO 46.
+###### Artículo 46.
 
-El plazo fijado para el cumplimiento de las obligaciones pactadas suspenderá el trámite del proceso y el término para la prescripción de la acción penal.
+Los diputados de un mismo partido político, podrán agruparse en las formas de organización partidista siguientes:
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+I. Grupos Parlamentarios;
 
-###### ARTÍCULO 47.
+II. Fracciones Parlamentarias; y
 
-El cumplimiento del Acuerdo Reparatorio extinguirá la acción penal.
+III. Representaciones de Partido.
 
-###### ARTÍCULO 48.
+Sólo podrá constituirse una forma de organización partidista por cada partido político representado en la legislatura.
 
-El Ministerio público, el personal perteneciente al Centro de Justicia Alternativa, procurará la amigable composición entre el inculpado y el ofendido, actuado por sí mismo o requiriendo la intervención de quien esté en condiciones de promover esa conciliación, en virtud de su autoridad moral y de la ascendencia que tenga sobre aquellos. Si se trata de individuos pertenecientes a un grupo étnico indígena, tomará en cuenta los usos y costumbres del grupo para regir la intervención del conciliador.
+Los diputados sin filiación partidista o que dejen de pertenecer a alguna forma de organización partidista, sin integrarse a otra existente, serán considerados como diputados independientes.
 
-T R A N S I T O R I O S
+###### Artículo 47.
 
-PRIMERO.- La presente Ley entrará en vigor atendiendo a las reglas de inicio de vigencia del Código de Procedimientos Penales publicado en el Periódico Oficial Tierra y Libertad número 4570 de fecha 22 de noviembre de 2007.
+El grupo parlamentario podrá constituirse con al menos tres diputados; la fracción parlamentaria con dos; y la representación de partido con uno, quienes serán de la misma filiación partidista.
 
-SEGUNDO.- Remítase la presente Ley al Gobernador Constitucional del Estado de Morelos, para los efectos previstos por los artículos 44 y 70, fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+La constitución de las formas de organización partidista será declarada por el Presidente de la Mesa Directiva; para tal efecto, presentarán el expediente de constitución, que deberá contener lo siguiente:
 
-Recinto Legislativo a los catorce días del mes de agosto de dos mil ocho.
+I. Acta en la que conste la decisión de sus miembros de constituirse, especificando el partido político al que pertenecen, el número de miembros, la lista de los integrantes y las reglas que regirán al grupo o fracción;
 
-ATENTAMENTE.
+II. El nombre del diputado que haya sido electo como coordinador del grupo o fracción parlamentaria; y
 
-"SUFRAGIO EFECTIVO. NO REELECCIÓN".
+III. La denominación del grupo o fracción parlamentaria, correspondiente al partido político al que pertenezcan los diputados que lo integran.
 
-LOS CC. DIPUTADOS INTEGRANTES DE LA MESA DIRECTIVA DEL CONGRESO DEL ESTADO.
+En el caso de las representaciones de partido, se comunicará la decisión de constituirse como tal, mediante escrito donde se haga constar dicha voluntad.
 
-DIP. MARTHA PATRICIA FRANCO GUTIÉRREZ
+El expediente de constitución se remitirá a la Oficialía Mayor a más tardar el treinta de agosto del año de la elección, para que a su vez sea entregado a la Mesa Directiva Inicial, electa en la junta preparatoria.
 
-PRESIDENTA
+###### Artículo 48.
 
-DIP. PEDRO DELGADO SALGADO
-
-VICEPRESIDENTE
-
-DIP. FRANCISCO ARTURO SANTILLÁN ARREDONDO
-
-SECRETARIO
-
-DIP. CLAUDIA IRAGORRI RIVERA
-
-SECRETARIA
-
-RÚBRICAS.
-
-Por tanto mando se imprima, publique circule y se le dé el debido cumplimiento.
-
-Dado en la Residencia del Poder Ejecutivo en la Ciudad de Cuernavaca, Capital del Estado de Morelos, a los dieciocho días del mes de agosto de dos mil ocho.
-
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE LEY.</small>
-
-P.O. 12 DE DICIEMBRE DE 2008.
-
-PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
-
-SEGUNDO.- Se derogan las disposiciones de igual o menor rango, que se opongan o sean contrarias al contenido del presente Decreto.
-
-TERCERO.- Remítase al Ejecutivo del Estado para su correspondiente publicación.
+La Mesa Directiva Inicial, analizará la procedencia o improcedencia de la constitución de las formas de organización partidista que procedan, tomando en cuenta los términos, plazos y requisitos previstos en la presente ley. En caso de encontrarla procedente, el Presidente de la Mesa Directiva formulará la declaratoria de constitución que corresponda, en la sesión de instalación de la legislatura.
 
 ###### Artículo 49.
 
@@ -647,9 +531,11 @@ IV. Propiciar y suscribir acuerdos parlamentarios, para agilizar un procedimient
 
 Los grupos parlamentarios dispondrán de locales adecuados en las instalaciones del Congreso del Estado, así como de un Secretario Técnico, Asesores, personal de apoyo y los elementos materiales necesarios para el cumplimiento de sus funciones, de acuerdo a las posibilidades y el presupuesto del Congreso.
 
-### CAPÍTULO CUARTO. DE LAS UNIDADES DE ORIENTACIÓN CIUDADANA
+### CAPÍTULO IV. DE LOS PERIODOS Y LAS SESIONES DEL CONGRESO
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2012)</small>
 
 ###### Artículo 51.
 
@@ -811,7 +697,7 @@ Para participar en asuntos generales, los diputados deberán registrarse con el 
 
 El presidente iniciará el desarrollo de este punto haciendo mención de los diputados registrados y en ese orden les concederá el uso de la palabra. Cualquier diputado podrá hacer uso de la palabra sobre un asunto registrado, siempre y cuando el pleno no lo haya considerado suficientemente discutido.
 
-### CAPÍTULO QUINTO. DE LOS MEDIOS ALTERNOS
+### CAPÍTULO V. DEL PALACIO LEGISLATIVO, DEL SALÓN DE SESIONES Y DEL CEREMONIAL
 
 ###### Artículo 66.
 
@@ -877,7 +763,7 @@ En el tratamiento y solemnidades de otros actos en los que deba intervenir el Co
 
 ## TÍTULO SEGUNDO. DE LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL CONGRESO
 
-### CAPÍTULO SEXTO. DE LOS MEDIOS ALTERNOS CON INTERVENCIÓN DEL MINISTERIO PÚBLICO
+### CAPÍTULO I. DE LOS ÓRGANOS DE GOBIERNO
 
 ###### Artículo 71.
 
@@ -893,7 +779,7 @@ IV. La Gran Comisión; y
 
 V. Las Comisiones Legislativas.
 
-### CAPÍTULO SÉPTIMO. DE LOS ACUERDOS
+### CAPÍTULO II. DEL PLENO Y DE LA MESA DIRECTIVA
 
 ###### Artículo 72.
 
@@ -905,7 +791,9 @@ La Mesa Directiva, es un órgano de gobierno interior del Congreso, integrada po
 
 La Mesa Directiva deberá elegirse mediante votación por cédula y por mayoría absoluta de los diputados presentes. Los integrantes de la Mesa Directiva, solo podrán ser sustituidos por el voto de las dos terceras partes de los diputados en la sesión de que se trate.
 
-En los primeros períodos ordinarios de sesiones, la Mesa Directiva, será elegida en la última sesión de cada mes; en los segundos periodos ordinarios, la elección se realizará en la última sesión de la primera quincena del mes.
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2013)</small>
+
+La Mesa Directiva será electa en la última sesión de cada mes.
 
 Realizada la elección de la Mesa Directiva, se comunicará por oficio a los poderes Ejecutivo y Judicial y a los Ayuntamientos del Estado; a las Cámaras del Honorable Congreso de la Unión, a las legislaturas de las demás entidades federativas y a la Asamblea Legislativa del Distrito Federal.
 
@@ -1007,7 +895,7 @@ IX. Apoyarse para el desempeño de sus labores en la Oficialía Mayor del Congre
 
 X. Las demás que se deriven de esta Ley, de las disposiciones legales o acuerdos del Pleno.
 
-### CAPÍTULO OCTAVO. DE LAS PARTES EN LOS MEDIOS ALTERNOS
+### CAPÍTULO III. DE LA COMISIÓN PERMANENTE
 
 ###### Artículo 79.
 
@@ -1049,7 +937,7 @@ Las iniciativas y demás asuntos que sean de competencia exclusiva del pleno, la
 
 La elección de la Comisión Permanente deberá comunicarse por oficio a los titulares de los poderes Ejecutivo y Judicial y a los Ayuntamientos del Estado, a las Cámaras del Congreso de la Unión, a las legislaturas de las entidades federativas y a la Asamblea Legislativa del Distrito Federal.
 
-### CAPÍTULO NOVENO. DE LOS CONVENIOS
+### CAPÍTULO IV. DE LA GRAN COMISIÓN
 
 ###### Artículo 86.
 
@@ -2611,11 +2499,27 @@ La publicación de las leyes o decretos, se efectuará en el Periódico Oficial 
 
 La entrada en vigor de las leyes y decretos, iniciará a los cinco días hábiles de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, salvo que en aquéllos se señalen otros plazos distintos.
 
-### CAPÍTULO I. DEL JUICIO POLÍTICO Y DE LA DECLARACIÓN DE PROCEDENCIA
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 13 DE DICIEMBRE DE 2012)</small>
+
+### CAPITULO VII. DE LA ELECCIÓN O RATIFICACIÓN DE SERVIDORES PÚBLICOS
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2012)</small>
+
+ARTÍCULO 236 BIS.- Cuando el Congreso deba elegir o ratificar servidores públicos, conforme a la Constitución Política local o las leyes, deberá proceder conforme lo dispongan los cuerpos normativos citados; cuando no exista disposición específica o procedimientos particulares de elección, el Pleno, en ejercicio de su potestad soberana, deberá aprobar por mayoría absoluta de sus miembros, el o los procedimientos que deban llevarse a cabo señalando al efecto:
+
+I.- El cargo de cuya designación se trata;
+
+II.- La Comisión legislativa que deberá resolver;
+
+III.- El procedimiento a seguir;
+
+IV.- Los plazos que deban cumplirse; y
+
+V.- En caso de no existir la votación requerida, establecer la condición de esta mediante la cual el Pleno resolverá en definitiva.
 
 ## TÍTULO QUINTO. DE LOS PROCEDIMIENTOS DE RESPONSABILIDAD
 
-### CAPÍTULO II. PROCEDIMIENTO DEL JUICIO POLÍTICO
+### CAPÍTULO I. DEL JUICIO POLÍTICO Y DE LA DECLARACIÓN DE PROCEDENCIA
 
 ###### Artículo 237.
 
@@ -2675,7 +2579,7 @@ Si en la causa penal apareciera la inocencia del inculpado, y aún tuviere tiemp
 
 La declaración de procedencia del Congreso, de ninguna manera prejuzga sobre los fundamentos de la imputación.
 
-### CAPÍTULO III. DE LA DESAPARICIÓN DE LOS AYUNTAMIENTOS Y SUSPENSIÓN TEMPORAL O REVOCACIÓN DE SUS MIEMBROS
+### CAPÍTULO II. PROCEDIMIENTO DEL JUICIO POLÍTICO
 
 ###### Artículo 250.
 
@@ -2793,9 +2697,7 @@ Ninguno de los procedimientos previstos en el presente título podrá efectuarse
 
 En ningún caso procederá la dispensa de trámites de los procedimientos aludidos en el párrafo anterior y los casos no previstos se resolverán conforme a lo establecido en la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios, en el Código de Procedimientos Penales o el Código Procesal Penal, en su caso.
 
-### CAPÍTULO IV. DE LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2011)</small>
+### CAPÍTULO III. DE LA DESAPARICIÓN DE LOS AYUNTAMIENTOS Y SUSPENSIÓN TEMPORAL O REVOCACIÓN DE SUS MIEMBROS
 
 #### SECCIÓN PRIMERA. DE LA DESAPARICIÓN DE LOS AYUNTAMIENTOS
 
@@ -2854,6 +2756,10 @@ Decretada la suspensión temporal o revocación del mandato de uno o más de los
 En relación con lo dispuesto en el artículo 55, fracción XXXIII, inciso b) de la Constitución Política Local, en caso de que la resolución sea absolutoria, concluirá la suspensión temporal y el miembro o miembros suspendidos reasumirán sus cargos con derecho a los emolumentos que hubieren dejado de percibir.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2011)</small>
+
+### CAPÍTULO IV. DE LOS PROCEDIMIENTOS DE RESPONSABILIDAD ADMINISTRATIVA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 282.
 
@@ -3034,3 +2940,37 @@ P.O. 18 DE OCTUBRE DE 2012.
 PRIMERO.- El presente decreto deberá publicarse en el Periódico Oficial del Gobierno del Estado de Durango y entrará en vigor el día 1 de marzo del año 2013.
 
 SEGUNDO.- Se derogan todas la disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE DICIEMBRE DE 2012.
+
+PRIMERO.- Conforme lo establece el artículo tercero transitorio del Decreto 318, expedido por la H. LXV Legislatura del Estado, publicado en el Periódico Oficial del Gobierno del Estado, se expiden las bases para la elección del Contralor General del Instituto Electoral y de Participación Ciudadana del Estado de Durango
+
+BASES
+
+I. Por única vez y con el propósito de dar cumplimiento a lo dispuesto por el Artículo 25 de la Constitución Política del Estado Libre y Soberano de Durango y los artículos 109, 125, 131 bis, 131 bis 1, 131 bis 2 de la Ley Electoral para el Estado de Durango, así como el artículo tercero transitorio del Decreto 318, expedido por la H. LXV Legislatura Local, El Congreso del Estado, procede a iniciar el procedimiento para la elección del Contralor General del Instituto Electoral y de Participación Ciudadana.
+
+II. El procedimiento para la elección del Contralor General del Instituto Electoral y de Participación Ciudadana del Estado, será realizado por la Comisión de Gobernación del Congreso del Estado de Durango.
+
+III. La Mesa Directiva de la H. LXV Legislatura Local, por conducto del presidente, mediante el llamado que deberá hacerse público mediante los medios más eficaces, a partir de la aprobación del presente acuerdo, convocará a los Colegios de Profesionistas e Instituciones Públicas de Educación Superior a proponer candidatos.
+
+IV. Los Colegios de Profesionistas e Instituciones Públicas de Educación Superior, propondrán candidatos, por escrito a la Comisión de Gobernación del Congreso del Estado, acompañando los documentos que acrediten que se satisfacen los requisitos a los que alude el artículo 125 numeral 2 de la Ley Electoral para el Estado de Durango, dentro de las veinticuatro horas, siguientes a el llamado hecho por la Mesa Directiva.
+
+V. La Comisión, evaluará la documentación comprobatoria de los candidatos propuestos y valorará los requisitos de elegibilidad recabados y procederá a elaborar el dictamen respectivo proponiendo una terna al Pleno Legislativo para que, este por mayoría, conforme a la Ley Orgánica del Congreso del Estado, designe a la persona que ocupara el cargo de Contralor General del Instituto Electoral y de Participación Ciudadana del Estado durante el periodo comprendido del 1 de enero de 2013 al 31 de diciembre de 2018.
+
+VI. Se autoriza a la Comisión de Gobernación del Congreso del Estado, a habilitar días y horas inhábiles, aptas para desarrollar el procedimiento de elección al que se refiere el presente acuerdo, ello a efecto de que el dictamen respectivo sea puesto a consideración del Pleno Legislativo a mas tardar las veinticuatro horas del día catorce de diciembre de dos mil doce, posibilitando el proceso de elección.
+
+VII. Se faculta de manera expresa a la Comisión de Gobernación, a resolver los puntos no especificados en el presente acuerdo, sin más requisitos que debe fundar y motivar sus resoluciones que resuelvan tales puntos
+
+SEGUNDO.- El presente decreto surtirá sus efectos al momento de su aprobación, debiéndose mandar publicar en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 21 DE ABRIL DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+EI presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones legales y reglamentarias que se opongan a las contenidas en este decreto.
