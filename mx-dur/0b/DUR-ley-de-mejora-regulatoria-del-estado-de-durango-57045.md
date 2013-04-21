@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-mejora-regulatoria-del-estado-de-durango-57045"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-09"
-last_updated: "2011-06-16"
+last_updated: "2013-04-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57045&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE MEJORA REGULATORIA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 9 de agosto de 2007.
 
@@ -53,7 +53,9 @@ Las disposiciones de esta Ley son de orden público y observancia general en el 
 
 I. Las instancias e instrumentos de la mejora regulatoria;
 
-II. El procedimiento de revisión, adecuación, mejora y transparencia, en la elaboración y aplicación de las leyes, reglamentos, decretos, acuerdos, circulares y demás normas administrativas de carácter general emitidas por los entes públicos;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2013)</small>
+
+II. El procedimiento de revisión, adecuación, mejora y transparencia, en la elaboración y aplicación de las leyes, reglamentos, decretos, acuerdos, circulares y demás normas administrativas de carácter general emitidas por los entes públicos respecto a actividades o sectores económicos específicos;
 
 III. Los registros estatales y municipales; y
 
@@ -83,7 +85,9 @@ IV. Estudio de impacto regulatorio: Es el documento a través del cual los entes
 
 V. Mejora Regulatoria: El proceso continuo y sistemático de análisis, revisión y modificación de las normas jurídicas y administrativas de carácter general, a fin de hacer más eficientes y ágiles los procedimientos y los trámites que tienen que realizar los ciudadanos ante las autoridades;
 
-VI. Regulación o regulaciones: Las leyes, reglamentos, decretos, acuerdos, circulares y demás normas administrativas de carácter general elaboradas o emitidas por los entes públicos que incidan directa o indirectamente en el establecimiento de trámites;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2013)</small>
+
+VI. Regulación o regulaciones: Las leyes, reglamentos, decretos, acuerdos, circulares y demás normas administrativas de carácter general relacionadas con actividades o sectores económicos específicos, elaboradas o emitidas por los entes públicos que incidan directa o indirectamente en el establecimiento de trámites.
 
 VII. Secretaría: La Secretaría de Desarrollo Económico; y
 
@@ -111,7 +115,9 @@ La Comisión promoverá la oportunidad, simplificación y orden en la elaboraci�
 
 I. Elaborar, aplicar y mantener actualizado el Programa Estatal de Mejora Regulatoria, en coordinación con los entes públicos y con la participación que corresponda al Consejo Consultivo que establece esta Ley;
 
-II. Revisar el marco regulatorio del Estado, diagnosticar su aplicación y elaborar para su propuesta, proyectos de iniciativas de reformas legislativas y administrativas y proponerlas al Titular del Poder Ejecutivo del Estado;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2013)</small>
+
+II.- Revisar el marco regulatorio del Estado en actividades o sectores económicos específicos,diagnosticar (sic) su aplicación y elaborar para su propuesta, proyectos de iniciativas de reformas legislativas y administrativas y proponerlas al Titular del Poder Ejecutivo.
 
 III. Proponer las estrategias generales en materia de mejora regulatoria a los entes públicos y los Poderes Judicial y Legislativo, opinar sobre sus programas en esta materia; asimismo, proporcionarles capacitación y asesoría técnica y celebrar los convenios que se requieran para tal efecto;
 
@@ -618,3 +624,9 @@ P.O. 16 DE JUNIO DE 2011.
 PRIMERO.- El presente Decreto entrará en vigor, al día siguiente de su publicación, en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE ABRIL DE 2013.
+
+PRIMERO.- El Presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO.-Se derogan todas las disposiciones legales en lo que se oponga al presente.
