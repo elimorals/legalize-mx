@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-hacienda-para-los-municipios-del-estado-de-durango-51504
 country: "mx"
 rank: "ley"
 publication_date: "2006-07-20"
-last_updated: "2012-12-27"
+last_updated: "2013-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 20 de julio de 2006.
 
@@ -141,11 +141,27 @@ Ninguna contribución podrá recaudarse si no está prevista en la presente Ley 
 
 En el caso de los ingresos extraordinarios estos deberán estar de conformidad con la Ley de Deuda Pública del Estado de Durango y sus Municipios.
 
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2013)</small>
+
 ###### Artículo 14.
 
-Los Ayuntamientos formularán y aprobarán a más tardar durante la segunda quincena del mes de octubre de cada año, el proyecto de ley de ingresos, al mismo tiempo que su presupuesto de egresos, con sujeción a las disposiciones de está Ley. Los cuales se remitirán a más tardar el día último del citado mes al H. Congreso del Estado incluyendo dentro del texto de la iniciativa de Ley de Ingresos, las tasas, cuotas y tarifas para el cobro de las contribuciones municipales.
+Los Ayuntamientos formularán y aprobarán a mas tardar durante la segunda quincena del mes de octubre de cada año, el proyecto de ley de ingresos, al mismo tiempo que su presupuesto de egresos, con sujeción a las disposiciones de esta Ley.
 
-El Congreso del Estado, aprobará las leyes de ingresos con base en la iniciativa de Ley de Ingresos y el Presupuesto de Egresos presentados, procurando que las diferencias entre las cuotas, tasas y tarifas de las contribuciones municipales, sean únicamente las indispensables de acuerdo a las diferentes necesidades que presente cada Municipio.
+Así mismo los Ayuntamientos remitirán a más tardar el día 31 de octubre del año que corresponda al H. congreso del Estado, la iniciativa de Ley de Ingresos correspondiente, la cual contendrá las respectivas tasas, cuotas y tarifas para el cobro de las contribuciones municipales, las cuales deberán acompañarse de los siguientes documentos debidamente certificados:
+
+a) Acta de cabildo donde conste la votación de la iniciativa;
+
+b) El Presupuesto de egresos aprobado por el Cabildo, para el ejercicio fiscal siguiente;
+
+c) El tabulador de sueldos aprobado por el Cabildo, para el ejercicio fiscal siguiente;
+
+d) El padrón actualizado de los establecimientos que cuenten con licencia para expender bebidas con contenido alcohólico;
+
+e) El padrón actualizado que sirve de base para el cobro de impuesto predial; y
+
+f) El padrón actualizado que sirve de base para el cobro de Derecho por servicio de agua potable, alcantarillado y saneamiento.
+
+El Congreso del Estado, aprobará las leyes de ingresos con base en los documentos mencionados en los incisos del presente artículo, procurando que las diferencias entre las cuotas, tasas y tarifas de las contribuciones municipales, sean únicamente las indispensables de acuerdo a las diferentes necesidades que presente cada municipio, en caso de no ser presentados los documentos en su totalidad, a los que se refiere el presente articulo, se tendrá por no presentada la iniciativa y regirá la del año anterior, además dará lugar a la imposición de las sanciones que determinen las leyes aplicables.
 
 ###### Artículo 15.
 
@@ -1646,3 +1662,9 @@ DÉCIMO SEGUNDO.- El Municipio de Lerdo, Dgo., deberá, en los términos que est
 DÉCIMO TERCERO.- Se deroga, con efectos exclusivos al Municipio de Lerdo, Dgo., el Artículo Segundo Transitorio del Decreto No. 237, de fecha 06 de junio de 2006, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango No. 6, de fecha 20 de julio de 2006.
 
 DÉCIMO CUARTO.- Se derogan todas disposiciones legales que se opongan a la presente.
+
+P.O. 21 DE ABRIL DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor el primero de enero de 2014.
+
+SEGUNDO.- Se derogan todas la disposiciones que contravengan lo previsto en el presente decreto.
