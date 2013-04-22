@@ -4,7 +4,7 @@ identifier: "FED-reglamento-general-de-regiones-y-zonas-militares-965"
 country: "mx"
 rank: "reglamento"
 publication_date: "1951-06-09"
-last_updated: "1951-06-09"
+last_updated: "2013-04-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=965&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1951-04-02"
 
 REGLAMENTO GENERAL DE REGIONES Y ZONAS MILITARES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO GENERAL DE MANDOS TERRITORIALES, GUARNICIONES MILITARES Y SERVICIO MILITAR DE PLAZA, PUBLICADO EN EL D.O.F. DE 22 DE ABRIL DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: ABROGADO.
 
 Reglamento publicado en el Diario Oficial, el sábado 9 de junio de 1951.
 
@@ -1054,3 +1056,13 @@ El acto de recepción y entrega de la Comandancia de una Zona Militar, deberá p
 Este Reglamento entrará en vigor desde la fecha de su publicación en el "Diario Oficial" de la Federación, quedando derogado el Reglamento de las Comandancias de Zona Militar de 19 de mayo de 1942; así como todas las demás disposiciones que se le opongan.
 
 Y en cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, para su publicación y observancia, expido el presente Reglamento, en la residencia del Poder Ejecutivo Federal, a los dos días del mes de abril de mil novecientos cincuenta y uno.- Miguel Alemán.- Rúbrica.- El Secretario de la Defensa Nacional, Gilberto R. Limón.- Rúbrica.- El Secretario de Gobernación, Adolfo Ruiz Cortines.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 22 DE ABRIL DE 2013.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abrogan el Reglamento General de Regiones y Zonas Militares y el Reglamento de las Comandancias de Guarnición y Servicio Militar de Plaza, publicados en el Diario Oficial de la Federación el 9 de junio de 1951 y 31 de agosto de 1933, respectivamente.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
