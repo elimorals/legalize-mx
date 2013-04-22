@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-las-comandancias-de-guarnicion-y-del-servicio-722
 country: "mx"
 rank: "reglamento"
 publication_date: "1933-08-31"
-last_updated: "1933-08-31"
+last_updated: "2013-04-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72203&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1933-08-29"
 
 REGLAMENTO DE LAS COMANDANCIAS DE GUARNICION Y DEL SERVICIO MILITAR DE PLAZA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO GENERAL DE MANDOS TERRITORIALES, GUARNICIONES MILITARES Y SERVICIO MILITAR DE PLAZA, PUBLICADO EN EL D.O.F. DE 22 DE ABRIL DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: ABROGADO.
 
 Reglamento publicado en la Sección Primera del Diario Oficial de la Federación, el jueves 31 de agosto de 1933.
 
@@ -1132,3 +1134,13 @@ Lo que comunico a usted para su publicación y demás fines.
 Sufragio Efectivo. No Reelección.
 
 México, D. F., a 29 de agosto de 1938.- El Secretario de Gobernación, Eduardo Vasconcelos.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 22 DE ABRIL DE 2013.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abrogan el Reglamento General de Regiones y Zonas Militares y el Reglamento de las Comandancias de Guarnición y Servicio Militar de Plaza, publicados en el Diario Oficial de la Federación el 9 de junio de 1951 y 31 de agosto de 1933, respectivamente.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
