@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-de-la-agencia-de-seguridad-estatal-del-7695
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-09-24"
-last_updated: "2010-09-24"
+last_updated: "2013-04-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76954&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DE LA AGENCIA DE SEGURIDAD ESTATAL DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD CIUDADANA, PUBLICADO EN LA G.G. DE 23 DE ABRIL DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: ABROGADO.
 
 Reglamento Publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México el viernes 24 de septiembre de 2010.
 
@@ -642,3 +644,19 @@ SECRETARIO GENERAL DE GOBIERNO
 LIC. LUIS ENRIQUE MIRANDA NAVA
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 23 DE ABRIL DE 2013.
+
+PRIMERO. Publíquese el presente Reglamento Interior en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se abroga el Reglamento Interior de la Agencia de Seguridad Estatal, publicado en el Periódico Oficial "Gaceta del Gobierno" el 24 de septiembre de 2010.
+
+CUARTO. La Secretaría de Seguridad Ciudadana emitirá los protocolos que determinen los procedimientos para las operaciones encubiertas y de usuarios simulados, dentro de los 90 días hábiles siguientes al de la entrada en vigor del presente Reglamento.
+
+QUINTO. Se derogan las disposiciones de igual o menor jerarquía que sean contrarias a lo dispuesto en el presente Reglamento.
+
+SEXTO. Las Secretarías de Finanzas y de la Contraloría, en el ámbito de sus respectivas competencias, dispondrán lo necesario a efecto de dar cumplimiento a lo establecido en el presente Reglamento.
