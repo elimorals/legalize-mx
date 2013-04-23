@@ -4,7 +4,7 @@ identifier: "LASOC"
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-02"
-last_updated: "2012-06-08"
+last_updated: "2013-04-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40581&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LASOC"
 
 LEY DE ASISTENCIA SOCIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE ABRIL DE 2013.
 
 Ley publicada en la Sección Primera del Diario Oficial de la Federación, el jueves 2 de septiembre de 2004.
 
@@ -110,7 +110,9 @@ V. Adultos mayores en desamparo, incapacidad, marginación o sujetos a maltrato;
 
 VI. Personas con algún tipo de discapacidad o necesidades especiales;
 
-VII. Dependientes de personas privadas de su libertad, de enfermos terminales, de alcohólicos o de fármaco dependientes;
+> <small>(REFORMADA, D.O.F. 23 DE ABRIL DE 2013)</small>
+
+VII. Dependientes de personas privadas de su libertad, de desaparecidos, de enfermos terminales, de alcohólicos o de fármaco dependientes;
 
 VIII. Víctimas de la comisión de delitos;
 
@@ -763,3 +765,7 @@ D.O.F. 1 DE JUNIO DE 2011.
 D.O.F. 8 DE JUNIO DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 23 DE ABRIL DE 2013.
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
