@@ -4,7 +4,7 @@ identifier: "FED-ley-de-la-comision-nacional-de-los-derechos-humanos-antes-101"
 country: "mx"
 rank: "ley"
 publication_date: "1992-06-29"
-last_updated: "2012-06-15"
+last_updated: "2013-04-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1992-06-25"
 
 LEY DE LA COMISIÓN NACIONAL DE LOS DERECHOS HUMANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE ABRIL DE 2013.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 29 de junio de 1992.
 
@@ -293,9 +293,15 @@ III.- Aprobar las normas de carácter interno relacionadas con la Comisión Naci
 
 IV.- Opinar sobre el proyecto de informe anual que el Presidente de la Comisión Nacional presente a los Poderes de la Unión;
 
-V.- Solicitar al Presidente de la Comisión Nacional información adicional sobre los asuntos que se encuentren en trámite o haya resuelto la Comisión Nacional; y
+> <small>(REFORMADA, D.O.F. 23 DE ABRIL DE 2013)</small>
 
-VI.- Conocer el informe del Presidente de la Comisión Nacional respecto al ejercicio presupuestal.
+V.- Solicitar al Presidente de la Comisión Nacional información adicional sobre los asuntos que se encuentren en trámite o haya resuelto la Comisión Nacional;
+
+> <small>(ADICIONADA, D.O.F. 23 DE ABRIL DE 2013)</small>
+
+VI.- Opinar sobre el proyecto de presupuesto para el ejercicio del año siguiente; y
+
+VII.- Conocer el informe del Presidente de la Comisión Nacional respecto al ejercicio presupuestal.
 
 ###### ARTICULO 20.
 
@@ -391,9 +397,11 @@ Cuando los quejosos o denunciantes se encuentren recluidos en un centro de deten
 
 La Comisión Nacional designará personal de guardia para recibir y atender las reclamaciones o quejas urgentes a cualquier hora del día y de la noche.
 
+> <small>(REFORMADO, D.O.F. 23 DE ABRIL DE 2013)</small>
+
 ###### ARTICULO 29.
 
-La Comisión Nacional deberá poner a disposición de los reclamantes formularios que faciliten el trámite, y en todo caso orientará a los comparecientes sobre el contenido de su queja o reclamación. Las quejas también podrán presentarse oralmente, cuando los comparecientes no puedan escribir o sean menores de edad. Tratándose de personas que no hablen o entiendan correctamente el idioma español, se les proporcionará gratuitamente un traductor.
+La Comisión Nacional deberá poner a disposición de los reclamantes formularios que faciliten el trámite, y en todos los casos ejercerá la suplencia en la deficiencia de la queja, para lo cual la Comisión orientará y apoyará a los comparecientes sobre el contenido de su queja o reclamación. Las quejas también podrán presentarse oralmente, cuando los comparecientes no puedan escribir o sean menores de edad. Tratándose de personas que no hablen o entiendan correctamente el idioma español, o de aquellas pertenecientes a los pueblos o comunidades indígenas que así lo requieran o personas con discapacidad auditiva, se les proporcionará gratuitamente un traductor o intérprete que tenga conocimiento de su lengua y cultura, o en su caso intérprete de lengua de señas mexicanas.
 
 ###### ARTICULO 30.
 
@@ -754,3 +762,7 @@ D.O.F. 14 DE DICIEMBRE DE 2011.
 D.O.F. 15 DE JUNIO DE 2012.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 23 DE ABRIL DE 2013.
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
