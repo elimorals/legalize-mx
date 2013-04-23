@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-libro-decimo-segundo-del-codigo-35537"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-12-15"
-last_updated: "2003-12-15"
+last_updated: "2013-04-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35537&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # REGLAMENTO DEL LIBRO DECIMO SEGUNDO DEL CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
-REGLAMENTO DEL LIBRO DECIMO SEGUNDO DEL CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
+REGLAMENTO DEL LIBRO DÉCIMO SEGUNDO DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE ABRIL DE 2013.
 
 Reglamento publicado en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el lunes 15 de diciembre de 2003.
 
@@ -1263,7 +1263,9 @@ a. La recepción de solicitudes de inscripción al catálogo.
 
 b. El procedimiento de revisión y, en su caso, aprobación de solicitudes de inscripción y la consecuente asignación de claves de registro.
 
-c. La recepción de solicitudes de refrendo bianual que entreguen las personas inscritas en el catálogo.
+> <small>(REFORMADO, G.G. 23 DE ABRIL DE 2013)</small>
+
+c. La recepción de solicitudes de refrendo bienal que entreguen las personas inscritas en el catálogo.
 
 d. La incorporación a los expedientes individuales de las personas inscritas, de información relevante derivada de los procesos de contratación en los que intervengan.
 
@@ -1355,7 +1357,9 @@ I. Las solicitudes de inscripción de las personas interesadas;
 
 II. Los acuerdos de aprobación de inscripción de personas al catálogo y la asignación de su clave de registro;
 
-III. La documentación que bianualmente entreguen las personas inscritas en el catálogo para la revalidación de registro;
+> <small>(REFORMADA, G.G. 23 DE ABRIL DE 2013)</small>
+
+III. La documentación que bienalmente entreguen las personas inscritas en el catálogo para la revalidación de registro.
 
 IV. Las solicitudes de cambio a la información registrada que las personas soliciten;
 
@@ -1365,9 +1369,11 @@ VI. Las resoluciones del comité técnico de inicio o término del periodo de su
 
 VII. La información que proporcione la Contraloría del Registro de las Personas que se encuentren en los supuestos de las fracciones III, IV y V del artículo 12.48 del Libro a su cargo.
 
+> <small>(REFORMADO, G.G. 23 DE ABRIL DE 2013)</small>
+
 ###### Artículo 84.
 
-Con el propósito de mantener actualizado el catálogo, las personas solicitarán bianualmente la revalidación de su clave de registro. Para eso, deberán presentar la solicitud de revalidación dentro de los 30 días naturales siguientes al vencimiento de su registro, acompañada de copia de la declaración anual del impuesto sobre la renta o de los estados financieros del último ejercicio dictaminados por contador público certificado independiente y la información que considere pertinente para actualizar su expediente.
+Con el propósito de mantener actualizado el catálogo, las personas solicitarán bienalmente la revalidación de su clave de registro. Para eso, deberán presentar la solicitud de revalidación dentro de los 30 días naturales siguientes al vencimiento de su registro, acompañada de copia de la declaración anual del impuesto sobre la renta o de los estados financieros del último ejercicio fiscal, dictaminados por contador público certificado independiente y la información que considere pertinente para actualizar su expediente.
 
 #### Sección Segunda. De la Invitación Restringida
 
@@ -3672,3 +3678,15 @@ EL SECRETARIO GENERAL DE GOBIERNO
 MANUEL CADENA MORALES
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 23 DE ABRIL DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
