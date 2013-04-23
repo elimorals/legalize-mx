@@ -4,7 +4,7 @@ identifier: "FED-ley-para-el-aprovechamiento-de-energias-renovables-y-el-64076"
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-28"
-last_updated: "2013-03-21"
+last_updated: "2013-04-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64076&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2008-11-27"
 
 LEY PARA EL APROVECHAMIENTO DE ENERGÍAS RENOVABLES Y EL FINANCIAMIENTO DE LA TRANSICIÓN ENERGÉTICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE ABRIL DE 2013.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 28 de noviembre de 2008.
 
@@ -289,9 +289,17 @@ III. Promover la diversificación de fuentes primarias de energía, incrementand
 
 IV. Establecer un programa de normalización para la eficiencia energética;
 
-V. Promover y difundir medidas para la eficiencia energética, así como el ahorro de energía, y
+> <small>(REFORMADA, D.O.F. 23 DE ABRIL DE 2013)</small>
 
-VI. Proponer las medidas necesarias para que la población tenga acceso a información confiable, oportuna y de fácil consulta en relación con el consumo energético de los equipos, aparatos y vehículos que requieren del suministro de energía para su funcionamiento.
+V. Promover y difundir medidas para la eficiencia energética, así como el ahorro de energía;
+
+> <small>(REFORMADA, D.O.F. 23 DE ABRIL DE 2013)</small>
+
+VI. Proponer las medidas necesarias para que la población tenga acceso a información confiable, oportuna y de fácil consulta en relación con el consumo energético de los equipos, aparatos y vehículos que requieren del suministro de energía para su funcionamiento, y
+
+> <small>(ADICIONADA, D.O.F. 23 DE ABRIL DE 2013)</small>
+
+VII. Proponer la creación de fondos y fideicomisos que tengan por objeto apoyar la investigación, promoción y aprovechamiento de investigación científica y tecnológica en materia de energía renovable.
 
 ###### Artículo 25.
 
@@ -388,3 +396,7 @@ SEGUNDO. Para efectos del artículo 1o. fracción II, inciso b), solamente se co
 D.O.F. 21 DE MARZO DE 2013.
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 23 DE ABRIL DE 2013.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
