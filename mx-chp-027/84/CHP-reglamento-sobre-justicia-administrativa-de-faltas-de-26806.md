@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-sobre-justicia-administrativa-de-faltas-de-26806"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-11-27"
-last_updated: "2002-11-27"
+last_updated: "2013-04-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26806&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "CHP"
 ---
 # REGLAMENTO SOBRE JUSTICIA ADMINISTRATIVA DE FALTAS DE POLICIA PARA EL MUNICIPIO DE CHIAPA DE CORZO, CHIAPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO DE JUSTICIA Y FALTAS ADMINISTRATIVAS DEL MUNICIPIO DE CHIAPA DE CORZO, CHIAPAS, PUBLICADO EN EL P.O. DE 24 DE ABRIL DE 2013, EL PRESENTE REGLAMENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO SOBRE JUSTICIA ADMINISTRATIVA EN MATERIA DE FALTAS DE POLICÍA PARA EL MUNICIPIO DE CHIAPA DE CORZO, CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2013 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 27 de noviembre de 2002.
 
@@ -608,3 +610,15 @@ CERTIFICO Y HAGO CONSTAR
 QUE LAS PRESENTES COPIAS FOTOSTATICAS CONSTANTE DE ONCE FOJAS UTILES ESCRITAS AL ANVERSO Y REVERSO, SON FIEL Y EXACTA REPRODUCCION DE SU ORIGINAL, MISMA QUE TUVE A LA VISTA Y QUE COINCIDE EN TODAS Y CADA UNA DE SUS PARTES.
 
 PARA LOS EFECTOS LEGALES PROCEDENTES, SE EXTIENDE LA PRESENTE CERTIFICACION EN LA CIUDAD DE CHIAPA DE CORZO, CHIAPAS, A LOS DOCE DIAS DEL MES DE SEPTIEMBRE DEL AÑO DOS MIL DOS.- RUBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE ABRIL DE 2013.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE JUSTICIA Y FALTAS ADMINISTRATIVAS DEL MUNICIPIO DE CHIAPA DE CORZO, CHIAPAS”.]
+
+Artículo Primero.- El presente reglamento entrará en vigor el día siguiente de su publicación en los estrados de la Presidencia Municipal y en cinco lugares de mayor afluencia vecinal de la cabecera y agencias municipales.
+
+Artículo Segundo.- Se abroga el reglamento sobre justicia administrativa en materia de faltas de policía, aprobado en sesión de cabildo de fecha 26 de agosto de 2002.
+
+Artículo Tercero.- En términos del artículo 137 de la Ley Orgánica Municipal vigente en el estado, remítase copia certificada del presente reglamento, a la Dirección del Periódico Oficial del Estado, para su difusión y conocimiento. El Presidente Municipal dispondrá se publique, circule y se le dé debido cumplimiento.
