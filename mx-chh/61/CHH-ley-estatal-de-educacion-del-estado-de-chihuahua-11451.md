@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-educacion-del-estado-de-chihuahua-11451"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "2013-02-02"
+last_updated: "2013-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2013.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
 
@@ -303,9 +303,13 @@ s. Programas federales y estatales; y (sic)
 
 t. Ludotecas;
 
-> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
 
-u. Otras.
+u. Centros de Prevención de Deserción Escolar, y
+
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2013)</small>
+
+v. Otras.
 
 IV. Extender la cobertura del nivel preescolar y otorgar a las instituciones oficiales del mismo, el apoyo económico suficiente y los materiales didácticos adecuados;
 
@@ -404,6 +408,10 @@ XLIII. Coadyuvar en la actualización y vigilar la aplicación del Sistema de Co
 > <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 2013)</small>
 
 XLIV. Informar a los padres de familia o tutores de los educandos que presenten problemas de conducta, para que, en su caso, sean canalizados a través de la estructura educativa, a las instancias de apoyo psicológico, para que se determinen alternativas de solución, o bien, si deben ser remitidos ante el DIF Estatal, con el fin de que reciban el tratamiento necesario.
+
+> <small>(ADICIONADA, P.O. 24 DE ABRIL DE 2013)</small>
+
+XLV. Crear y sostener un sistema estatal de prevención de deserción escolar para estudiantes del Estado.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -1957,9 +1965,15 @@ II. Instrumentos de planeación;
 
 III. Instrumentos de evaluación permanente;
 
-IV. Proyectos estratégicos; y
+IV. Proyectos estratégicos; y (sic)
 
-V. Líneas de acción.
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2013)</small>
+
+V. Líneas de acción; e
+
+> <small>(ADICIONADA, P.O. 24 DE ABRIL DE 2013)</small>
+
+VI. Instrumentos para prevenir la deserción escolar.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -3241,7 +3255,7 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 
 P.O. 5 DE NOVIEMBRE DE 2003.
 
-DECRETO No. 448-02 I P.O.
+DECRETO No. 448-02 I P.O. POR EL QUE SE MODIFICA LA FRACCIÓN XV, DEL ARTÍCULO 9 DE LA LEY ESTATAL DE EDUCACIÓN.
 
 ###### ARTICULO PRIMERO.
 
@@ -3253,7 +3267,7 @@ Se derogan todas las disposiciones que se opongan al presente decreto.
 
 P.O. 5 DE NOVIEMBRE DE 2003.
 
-DECRETO No. 847-03 I P.O.
+DECRETO No. 847-03 I P.O. POR EL QUE SE MODIFICA EL ARTÍCULO 71 DE LA LEY ESTATAL DE EDUCACIÓN.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -3329,7 +3343,7 @@ P.O. 17 DE OCTUBRE DE 2009.
 
 P.O. 13 DE ENERO DE 2010.
 
-DECRETO No. 629/09, POR EL QUE SE REFORMAN LOS ARTÍCULOS 3, 41, 51 Y 116 DE LA LEY ESTATAL DE EDUCACIÓN.
+DECRETO No. 629/09, POR EL QUE SE REFORMAN LOS ARTÍCULOS 3; EL PÁRRAFO CUARTO DEL 41; 51, EN SU PÁRRAFO PRIMERO Y EN SU FRACCIÓN I; ASÍ COMO LAS FRACCIONES I Y III DEL 116, TODOS DE LA LEY ESTATAL DE EDUCACIÓN.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -3337,7 +3351,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 13 DE ENERO DE 2010.
 
-DECRETO No. 630/09, POR EL QUE SE REFORMAN LOS ARTÍCULOS 8 Y 22 DE LA LEY ESTATAL DE EDUCACIÓN.
+DECRETO No. 630/09 II P.O., POR EL QUE SE REFORMA LA FRACCIÓN XX DEL ARTÍCULO 8 Y SE ADICIONA UNA FRACCIÓN V AL ARTÍCULO 22, AMBOS DE LA LEY ESTATAL DE EDUCACIÓN.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -3399,7 +3413,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 8 DE FEBRERO DE 2012.
 
-DECRETO No. 468/2011 QUE REFORMA LOS ARTÍCULOS 13, FRACCIÓN XLII Y 30 DE LA LEY ESTATAL DE EDUCACIÓN.
+DECRETO No. 468/2011 I P.O., POR EL QUE SE REFORMAN LOS ARTÍCULOS 13, FRACCIÓN XLII Y 30 DE LA LEY ESTATAL DE EDUCACIÓN.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -3407,7 +3421,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 8 DE FEBRERO DE 2012.
 
-DECRETO No. 485/2011 QUE ADICIONA LAS FRACCIONES XIII Y XIV AL ARTÍCULO 2, Y UNA FRACCIÓN XLIII AL ARTÍCULO 13, AMBOS DE LA LEY ESTATAL DE EDUCACIÓN.
+DECRETO No. 485/2011 I P.O., POR EL QUE SE ADICIONAN LAS FRACCIONES XIII Y XIV AL ARTÍCULO 2, Y UNA FRACCIÓN XLIII AL ARTÍCULO 13, AMBOS DE LA LEY ESTATAL DE EDUCACIÓN.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -3415,7 +3429,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 8 DE FEBRERO DE 2012.
 
-DECRETO No. 495/2011 QUE ADICIONA UNA FRACCIÓN VI AL ARTÍCULO 134 DE LA LEY ESTATAL DE EDUCACIÓN.
+DECRETO No. 495/2011 I P.O., POR EL QUE SE ADICIONA UNA LA FRACCIÓN VI AL ARTÍCULO 134 DE LA LEY ESTATAL DE EDUCACIÓN.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -3423,7 +3437,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 8 DE FEBRERO DE 2012.
 
-DECRETO No. 531/2011 QUE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 136 Y LA FRACCIÓN V; Y ADICIONA UNA FRACCIÓN VI, DE LA LEY ESTATAL DE EDUCACIÓN.
+DECRETO No. 531/2011 I P.O., POR EL QUE SE REFORMAN EL PRIMER PÁRRAFO DEL ARTÍCULO 136 Y LA FRACCIÓN V; Y SE ADICIONA UNA FRACCIÓN VI, DE LA LEY ESTATAL DE EDUCACIÓN.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -3453,7 +3467,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 2 DE FEBRERO DE 2013.
 
-DECRETO No. 811/2012 POR EL QUE SE REFORMA LA FRACCIÓN XII DEL ARTÍCULO 168; SE ADICIONAN UNA FRACCIÓN XLIV AL ARTÍCULO 13 Y LAS FRACCIONES VII Y VIII AL ARTÍCULO 131; SE DEROGAN LAS FRACCIONES III Y IV, DEL ARTÍCULO 130, TODOS DE LA LEY ESTATAL DE EDUCACIÓN.
+DECRETO No. 811/2012 II P.O., POR EL QUE SE REFORMA LA FRACCIÓN XII DEL ARTÍCULO 168; SE ADICIONAN UNA FRACCIÓN XLIV AL ARTÍCULO 13 Y LAS FRACCIONES VII Y VIII AL ARTÍCULO 131; SE DEROGAN LAS FRACCIONES III Y IV, DEL ARTÍCULO 130, TODOS DE LA LEY ESTATAL DE EDUCACIÓN.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -3461,19 +3475,21 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 2 DE FEBRERO DE 2013.
 
-DECRETO No. 858/2012 POR EL QUE SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 5, DE LA LEY ESTATAL DE EDUCACIÓN.
+DECRETO No. 858/2012 VII P.E., POR EL QUE SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 5, DE LA LEY ESTATAL DE EDUCACIÓN.
 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-###### ARTICULO PRIMERO.
+P.O. 24 DE ABRIL DE 2013.
 
-El presente decreto entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Estado de Sonora.
+###### ARTÍCULO PRIMERO.
 
-###### ARTICULO SEGUNDO.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-Las instituciones públicas tendrán un plazo de 90 días para realizar las adecuaciones necesarias para contar con estacionamiento para bicicletas.
+###### ARTÍCULO SEGUNDO.
+
+Las erogaciones que deban realizarse a fin de dar cumplimiento al presente Decreto, se sujetarán a los recursos aprobados para tal efecto por el H. Congreso del Estado.
 
 ###### ARTÍCULO PRIMERO.
 
