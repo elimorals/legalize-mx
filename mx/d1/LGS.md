@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2013-04-08"
+last_updated: "2013-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ABRIL DE 2013.
 
 ÚLTIMA MODIFICACIÓN AL LISTADO DE SUSTANCIAS PSICOTRÓPICAS: 9 DE JULIO DE 1996.
 
@@ -780,15 +780,15 @@ X.- La asistencia social a los grupos más vulnerables y, de éstos, de manera e
 
 XI. La atención médica a los adultos mayores en áreas de salud geriátrica.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, D.O.F. 5 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 15 DE MAYO DE 2003)</small>
 
 ###### ARTICULO 28.
 
 Para los efectos del artículo anterior, habrá un Cuadro Básico de Insumos para el primer nivel de atención médica y un Catálogo de Insumos para el segundo y tercer nivel, elaborados por el Consejo de Salubridad General a los cuales se ajustarán las instituciones públicas del Sistema Nacional de Salud, y en los que se agruparán, caracterizarán y codificarán los insumos para la salud. Para esos efectos, participarán en su elaboración: La Secretaría de Salud, las instituciones públicas de seguridad social y las demás que señale el Ejecutivo Federal.
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 5 DE MARZO DE 2012)</small>
 
 ###### ARTICULO 28 Bis.
 
@@ -806,7 +806,7 @@ Los profesionales que podrán prescribir medicamentos son:
 
 Los profesionales a que se refiere el presente artículo deberán contar con cédula profesional expedida por las autoridades educativas competentes. Los pasantes en servicio social, de cualquiera de las carreras antes mencionadas y los enfermeros podrán prescribir ajustándose a las especificaciones que determine la Secretaría.
 
-> <small>(REFORMADO, D.O.F. 15 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 1987)</small>
 
 ###### ARTICULO 29.
 
@@ -6480,6 +6480,10 @@ Para fines sanitarios se extenderán los siguientes certificados:
 
 I.- Prenupciales;
 
+> <small>(ADICIONADA, D.O.F. 24 DE ABRIL DE 2013)</small>
+
+I Bis.- De nacimiento;
+
 II.- De defunción;
 
 III.- De muerte fetal, y (sic)
@@ -6491,6 +6495,20 @@ IV.- De exportación a que se refieren los artículos 287 y 288 de esta ley, y
 > <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 1991)</small>
 
 V.- Los demás que se determinen en esta ley y sus reglamentos.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2013)</small>
+
+###### ARTICULO 389 Bis.
+
+El certificado de nacimiento se expedirá para cada nacido vivo una vez comprobado el hecho. Para tales efectos, se entenderá por nacido vivo, al producto de la concepción expulsado o extraído de forma completa del cuerpo de su madre, independientemente de la duración del embarazo, que después de dicha separación respire o dé cualquier otra señal de vida como frecuencia cardiaca, pulsaciones de cordón umbilical o movimientos efectivos de los músculos de contracción voluntaria, tanto si se ha cortado o no el cordón umbilical y esté o no desprendida la placenta.
+
+El certificado de nacimiento será expedido por profesionales de la medicina o personas autorizadas para ello por la autoridad sanitaria competente.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2013)</small>
+
+###### ARTICULO 389 Bis 1.
+
+El certificado de nacimiento será requerido por las autoridades del Registro Civil a quienes pretendan declarar el nacimiento de una persona, con las excepciones que establezcan las disposiciones generales aplicables.
 
 ###### ARTICULO 390.
 
@@ -6523,6 +6541,14 @@ V.- La Secretaría de Salud podrá reconocer centros de investigación y organiz
 Los certificados a que se refiere este título, se extenderán en los modelos aprobados por la Secretaría de Salud y de conformidad con las normas oficiales mexicanas que la misma emita. Dichos modelos serán publicados en el Diario Oficial de la Federación.
 
 Las autoridades judiciales o administrativas sólo admitirán como válidos los certificados que se ajusten a lo dispuesto en el párrafo anterior.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2013)</small>
+
+La Secretaría de Salud, los gobiernos de las entidades federativas y los Servicios Estatales de Salud, en el ámbito de sus respectivas competencias y de conformidad con la normatividad que se expida para tal efecto, llevarán a cabo acciones necesarias para la implementación de los certificados a que se refiere este Título, incluyendo las relacionadas con la captura, generación e intercambio de la información relacionada con la expedición de dichos certificados y de acuerdo a lo dispuesto por el Título Sexto.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2013)</small>
+
+La distribución primaria de los certificados de nacimiento, defunción y muerte fetal a que hace mención el artículo 389 de esta Ley estará a cargo de la Secretaría de Salud.
 
 ## TITULO DECIMO SEPTIMO. Vigilancia Sanitaria
 
@@ -8055,3 +8081,13 @@ D.O.F. 8 DE ABRIL DE 2013.
 DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE SALUD.
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 24 DE ABRIL DE 2013.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente a su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. La Secretaría de Salud expedirá el modelo de certificado de nacimiento, mediante su publicación en el Diario Oficial de la Federación, para su conocimiento general y observancia en todo el territorio de los Estados Unidos Mexicanos.
+
+TERCERO. La Secretaría de Salud, en coordinación con la Secretaría de Gobernación y las autoridades sanitarias y del Registro Civil de las entidades federativas, promoverá la utilización del certificado de nacimiento.
+
+CUARTO. El Ejecutivo Federal contará con un plazo de 90 días hábiles, a partir de la publicación del presente decreto, para establecer el reglamento correspondiente a la expedición de los certificados de nacimiento.
