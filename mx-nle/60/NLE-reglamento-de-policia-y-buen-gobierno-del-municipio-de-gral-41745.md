@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-policia-y-buen-gobierno-del-municipio-de-gral-417
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-01-31"
-last_updated: "1992-01-31"
+last_updated: "2013-04-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41745&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE POLICIA Y BUEN GOBIERNO DEL MUNICIPIO DE GRAL. ESCOBEDO, NUEVO LEON
 
-REGLAMENTO DE POLICIA Y BUEN GOBIERNO DEL MUNICIPIO DE GRAL. ESCOBEDO, NUEVO LEON
+REGLAMENTO DE POLICÍA Y BUEN GOBIERNO DEL MUNICIPIO DE GRAL. ESCOBEDO, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO DE POLICÍA Y BUEN GOBIERNO DEL MUNICIPIO DE GENERAL ESCOBEDO, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 24 DE ABRIL DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 31 enero de 1992.
 
@@ -654,3 +656,13 @@ Sr. Santos Villarreal Rodríguez.
 El C. Segundo Síndico
 
 Sr. Carlos Medina Román.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 24 DE ABRIL DE 2013.
+
+PRIMERO.- Se abroga el Reglamento de Policía y Buen Gobierno del Municipio de General Escobedo, Nuevo León, publicado en el Periódico Oficial de esta Entidad Federativa de fecha 31 de Enero de 1992, así como sus respectivas reformas y de Igual manera todas las demás normas contrarlas (sic) al presente Reglamento.
+
+SEGUNDO.- El presente Reglamento entrará en vigor a partir de su publicación en el Periódico Oficial del Estado, y deberá dársele difusión en la Gaceta Municipal y en el sitio oficial de Internet de este municipio.
+
+TERCERO.- Se envíe el presente Reglamento al Presidente Municipal para que por su conducto sea publicado en el Periódico Oficial del Estado, para los efectos jurídicos conducentes, así como en la Gaceta Municipal.
