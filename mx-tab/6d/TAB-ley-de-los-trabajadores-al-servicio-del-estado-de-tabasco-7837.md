@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-los-trabajadores-al-servicio-del-estado-de-tabasco-7837"
 country: "mx"
 rank: "ley"
 publication_date: "1990-03-31"
-last_updated: "2013-04-06"
+last_updated: "2013-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7837&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el sábado 31 de marzo de 1990.
 
@@ -449,9 +449,11 @@ XXIII.- Observar las medidas preventivas e higiénicas que acuerden las autorida
 
 ### CAPITULO I. DE LAS OBLIGACIONES DE LAS ENTIDADES PUBLICAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ABRIL DE 2013)</small>
+
 ###### ARTICULO 46.
 
-Son obligaciones de las Entidas (sic) Públicas en las relaciones laborales con sus trabajadores, las siguientes:
+Son obligaciones de las Entidades Públicas en las relaciones laborales con sus trabajadores, las siguientes:
 
 I.- Preferir en igualdad de condiciones de conocimientos y antigüedad a los trabajadores sindicalizados respecto de quienes o no lo sean; a quienes representen la única fuente de ingreso familiar; a los que con anterioridad, le hubiesen prestado servicios; y a los que acrediten tener mejor derecho conforme al escalón que se formará con las bases establecidas en la Ley;
 
@@ -479,13 +481,17 @@ XII.- Impedir que se haga propaganda política, comercial o religiosa dentro de 
 
 XIII.- Impartir cursos de capacitación y adiestramiento para los trabajadores;
 
-XIV.- Participar en la integración y funcionamiento de las Comisiones de Seguridad e Higiene que deban formarse en cada centro de trabajo, de acuerdo con lo establecido por la Ley; y
+XIV.- Participar en la integración y funcionamiento de las Comisiones de Seguridad e Higiene que deban formarse en cada centro de trabajo, de acuerdo con lo establecido por la Ley; y (sic)
 
 XV.- Respetar los derechos otorgados a los trabajadores en los preceptos legales.
 
 > <small>(ADICIONADA, P.O. 26 DE FEBRERO DE 2005)</small>
 
 XVI.- Abstenerse de solicitar certificado médico o constancia de no gravidez, a las mujeres que soliciten empleo, con excepción de las plazas, contratos o cualquier tipo de relación laboral que ponga en riesgo la salud de la trabajadora o del producto.
+
+> <small>(ADICIONADA, P.O. 24 DE ABRIL DE 2013)</small>
+
+XVII. Otorgar permiso de paternidad de cinco días laborales con goce de sueldo, a los hombres trabajadores, por el nacimiento de sus hijos y de igual manera en el caso de adopción de un infante.
 
 ### CAPITULO II. DEL ESCALAFON
 
@@ -1234,3 +1240,7 @@ Se derogan todas aquellas disposiciones de igual rango o naturaleza que se opong
 P.O. 6 DE ABRIL DE 2013.
 
 ÚNICO. El presente decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 24 DE ABRIL DE 2013.
+
+ÚNICO: El presente decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Gobierno del Estado.
