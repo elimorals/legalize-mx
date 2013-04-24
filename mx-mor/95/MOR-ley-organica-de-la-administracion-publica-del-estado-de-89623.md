@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-de-la-administracion-publica-del-estado-de-89623"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-09-28"
-last_updated: "2012-09-28"
+last_updated: "2013-04-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el viernes 28 de septiembre de 2012.
 
@@ -369,9 +369,25 @@ XXXV. Establecer el Calendario Oficial del Gobierno del Estado de Morelos;
 
 XXXVI. Organizar y vigilar el manejo de la documentación que emitan y resguarden las secretarías y dependencias de la administración pública;
 
-XXXVII. Tramitar los recursos administrativos que competa conocer al Titular del Poder Ejecutivo, así como los del área de su competencia, sin perjuicio de las atribuciones que a la Consejería Jurídica competen; y
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2013)</small>
 
-XXXVIII. Coordinar y controlar los sistemas de radio-comunicación y de comunicación destinados al uso de las secretarías y dependencias del Poder Ejecutivo.
+XXXVII. Tramitar los recursos administrativos que competa conocer al Titular del Poder Ejecutivo, así como los del área de su competencia, sin perjuicio de las atribuciones que a la Consejería Jurídica competen;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2013)</small>
+
+XXXVIII. Coordinar y controlar los sistemas de radio-comunicación y de comunicación destinados al uso de las secretarías y dependencias del Poder Ejecutivo;
+
+> <small>(ADICIONADA, P.O. 24 DE ABRIL DE 2013)</small>
+
+XXXIX. Administrar y controlar el sistema penitenciario estatal y los centros de reclusión y de custodia preventiva en el Estado, asegurando las medidas tendientes a la reinserción social integral de los individuos, mediante los principios de trabajo, capacitación para el mismo, la educación, la cultura, la salud y el deporte, como parte integral del tratamiento técnico progresivo, conforme lo disponen los marcos normativos aplicables; fomentando el respeto y promoción de los Derechos Humanos;
+
+> <small>(ADICIONADA, P.O. 24 DE ABRIL DE 2013)</small>
+
+XL. Asegurar y ejecutar las medidas cautelares y sancionadoras aplicables a los menores de edad que hayan cometido alguna conducta antisocial tipificada como delito, en términos de lo dispuesto por los artículos 18 de la Constitución Federal, 19 de la Constitución Local, y demás normas relativas y aplicables; y
+
+> <small>(ADICIONADA, P.O. 24 DE ABRIL DE 2013)</small>
+
+XLI. Promover la participación de la sociedad organizada, sectores productivos, académicos y sociales para generar políticas de reintegración social de las personas que obtengan su libertad o que queden sujetas a una medida cautelar, para con ello, abatir la reincidencia delictiva.
 
 ###### Artículo 22.
 
@@ -603,7 +619,9 @@ XVII. Inducir, concertar y coordinar acciones en materia de desarrollo social co
 
 XVIII. Diseñar, ejecutar, controlar, evaluar, coordinar y fomentar políticas y programas de atención prioritaria e integral a personas o grupos sociales en situación de vulnerabilidad; así como para las zonas prioritarias para el desarrollo social por su condición de marginalidad; y
 
-XIX. Diseñar, ejecutar, controlar, evaluar, coordinar y fomentar políticas y programas de atención prioritaria e integral a personas o grupos sociales en situación de vulnerabilidad; así como para las zonas prioritarias para el desarrollo social por su condición de alta o muy alta marginalidad.
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2013)</small>
+
+XIX. Diseñar, ejecutar, controlar, evaluar, coordinar y fomentar políticas y programas de atención prioritaria e integral a personas cuyos familiares en línea recta ascendente o descendente en primer y segundo grado, cónyuges, concubinas o concubinarios, se encuentren recluidos en establecimientos penitenciarios, siempre y cuando estos sean los proveedores económicos de la familia, como parte del Sistema de Reinserción Social.
 
 ###### Artículo 27.
 
@@ -675,9 +693,17 @@ XI. Promover la planeación e integración regional con otros Estados en materia
 
 XII. Promover la realización de ferias, exposiciones y congresos industriales y comerciales;
 
-XIII. Solicitar, cuando le exija el interés público y de acuerdo con las leyes respectivas, se designen bienes que deban destinarse al desarrollo de los programas de la Secretaría; y
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2013)</small>
 
-XIV. Ejecutar las acciones que considere necesarias para fomentar el desarrollo económico del Estado.
+XIII. Solicitar, cuando le exija el interés público y de acuerdo con las leyes respectivas, se designen bienes que deban destinarse al desarrollo de los programas de la Secretaría;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2013)</small>
+
+XIV. Ejecutar las acciones que considere necesarias para fomentar el desarrollo económico del Estado; y
+
+> <small>(ADICIONADA, P.O. 24 DE ABRIL DE 2013)</small>
+
+XV. Promover e impulsar la industria penitenciaria, fomentando esquemas de producción, asociación y comercialización modernas y eficientes que fortalezcan el sistema de reinserción social y comercialización que beneficien a los empresarios participantes y a los internos como trabajadores de la industria penitenciaria.
 
 ###### Artículo 29.
 
@@ -917,7 +943,9 @@ V. Coordinar y evaluar el Sistema Estatal de Salud y realizar las acciones neces
 
 VI. Normar los servicios de atención integral a la salud individual, familiar y comunitaria en aspectos preventivos, de asistencia médica y de rehabilitación, que prestan los organismos que le estén sectorizados;
 
-VII. Dirigir los servicios de atención médica a la población interna en centros de reclusión y de readaptación social;
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2013)</small>
+
+VII. Dirigir los servicios de atención médica a la población interna en centros de reclusión y de reinserción social;
 
 VIII. Promover la introducción de nuevas tecnologías de información en salud;
 
@@ -999,11 +1027,11 @@ XXI. Concentrar, registrar, procesar y analizar la estadística de la incidencia
 
 XXII. Regular, supervisar, controlar y vigilar la prestación de los servicios de seguridad privada, y en consecuencia, expedir la autorización y revalidación para el establecimiento, integración y operación de las empresas del ramo que llevan a cabo sus funciones dentro del territorio estatal;
 
-XXIII. Administrar y controlar el sistema penitenciario estatal y los centros de reclusión y de custodia preventiva en el Estado, asegurando las medidas tendientes a la reinserción social integral de los individuos, mediante los principios de trabajo, capacitación para el mismo, la educación, la cultura, la salud y el deporte, como parte integral del tratamiento técnico progresivo, conforme lo disponen los marcos normativos aplicables; fomentando el respeto y promoción de los derechos humanos;
+XXIII. (DEROGADA, P.O. 24 DE ABRIL DE 2013)
 
-XXIV. Asegurar y ejecutar las medidas cautelares y sancionadoras aplicables a los menores de edad que hayan cometido alguna conducta antisocial tipificada como delito, en términos de lo dispuesto por los artículos 18 de la Constitución Federal, 19 de la Constitución Local, y demás normas relativas y aplicables; y
+XXIV. (DEROGADA, P.O. 24 DE ABRIL DE 2013)
 
-XXV. Promover la participación de la sociedad organizada, sectores productivos, académicos y sociales para generar políticas de reintegración social de las personas que obtengan su libertad o que queden sujetas a una medida cautelar, para con ello, abatir la reincidencia delictiva.
+XXV. (DEROGADA, P.O. 24 DE ABRIL DE 2013)
 
 ###### Artículo 36.
 
@@ -1794,3 +1822,13 @@ SECRETARIO DE GOBIERNO.
 DR. OSCAR SERGIO HERNÁNDEZ BENÍTEZ.
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 24 DE ABRIL DE 2013.
+
+PRIMERA.- El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial.
+
+SEGUNDA.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto en los artículos 44 y 70 fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+TERCERA.- Se derogan todas las disposiciones jurídicas, de igual o menor rango jerárquico normativo, que se opongan al presente Decreto.
