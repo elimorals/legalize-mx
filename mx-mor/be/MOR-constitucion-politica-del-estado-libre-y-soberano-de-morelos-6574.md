@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2013-04-10"
+last_updated: "2013-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2013.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -408,23 +408,25 @@ Asimismo, los morelenses tienen el derecho de contar con las oportunidades y con
 
 DE LA PARTICIPACION CIUDADANA.
 
-> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
 
 ###### Artículo 19
 
-BIS.- Esta Constitución reconoce como medios de participación ciudadana al Plebiscito, al Referéndum y a la Iniciativa Popular.
+Bis.- Esta Constitución reconoce como medios de participación ciudadana al Plebiscito, al Referéndum, a la Iniciativa Popular, la revocación de mandatoy (sic) la rendición de cuentas.
+
+A.- DE LOS MEDIOS DE PARTICIPACIÓN CIUDADANA
 
 I.- Se entiende por Plebiscito la consulta a los ciudadanos para que expresen su previa aprobación o rechazo a un acto o decisión del Poder Ejecutivo o de los Ayuntamientos, que sean considerados como trascendentes para la vida pública del Estado o de los Municipios.
 
-a) Podrán someterse a Plebiscito:
+a).- Podrán someterse a Plebiscito:
 
-> <small>(F. DE E., P. O. 24 DE NOVIEMBRE DE 1999)</small>
+1.- Los actos o decisiones de carácter general del Ejecutivo del Estado que se consideren como trascendentes en la vida pública de esta Entidad Federativa; y (sic)
 
-1.- Los actos o decisiones de carácter general del Ejecutivo del Estado que se consideren como trascendentes en la vida pública de esta Entidad Federativa; y
+2.- Los actos o decisiones de gobierno, de las autoridades municipales, siempre que se consideren como trascendentes para la vida pública del municipio.
 
-2.- Los actos o decisiones de gobierno, de las autoridades municipales, siempre que se consideren trascendentes para la vida pública del municipio.
+3.- Los actos y/o decisiones del Poder Legislativo.
 
-b) No podrán someterse a Plebiscito los actos o decisiones del Ejecutivo del Estado o de los Ayuntamientos, relativos a:
+b).- No podrán someterse a Plebiscito los actos o decisiones del Ejecutivo del Estado o de los Ayuntamientos, relativos a:
 
 1.- El régimen interno de la Administración Pública Estatal y Municipal;
 
@@ -432,29 +434,21 @@ b) No podrán someterse a Plebiscito los actos o decisiones del Ejecutivo del Es
 
 3.- Las demás que determine la propia Constitución.
 
-c) Podrán solicitar que se convoque a Plebiscito:
+c).- Podrán solicitar que se convoque a Plebiscito:
 
-1.- El titular del Poder Ejecutivo;
+1) El Titular del Poder Ejecutivo;
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+2) El tres por ciento de los ciudadanos inscritos en la lista nominal de electores en el ámbito estatal, cuando se trate de actos del Ejecutivo; y del tres al cinco por ciento de los electores inscritos en listas nominales municipales, dependiendo de su volumen en cada municipio y de acuerdo a la tabla que para el efecto se establezca en la Ley Reglamentaria, para actos o decisiones de gobierno de autoridades municipales.
 
-2. El cinco por ciento de los ciudadanos inscritos en el padrón electoral;
+3) El Congreso del Estado, a solicitud de uno de sus grupos parlamentarios y por acuerdo de mayoría simple en el pleno.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+4) Los Ayuntamientos por mayoría simple de sus integrantes, en el ámbito de su competencia.
 
-3. El Congreso del Estado, a solicitud de uno de sus grupos parlamentarios; y
-
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
-
-4. Los Ayuntamientos por mayoría simple de sus integrantes, en el ámbito de su competencia.
-
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
-
-Realizado que sea el plebiscito establecido en esta Constitución, si este fuere aprobado por la proporción de los ciudadanos establecida, el acto o la decisión del Poder Ejecutivo o de los Ayuntamientos, será válida y en su caso, continuará el procedimiento respectivo para perfeccionarla; de no aprobarse, el acto o decisión deberá interrumpirse, sea para no continuarlo y extinguirlo por el medio legal correspondiente, incluyendo su revocación.
+Realizado que sea el plebiscito establecido en esta Constitución, si este fuere aprobado por un número de ciudadanos igual al quince por ciento de los inscritos en la lista nominal de electores, tratándose de actos del Ejecutivo estatal, o del tres al quince por ciento de los electores inscritos en listas nominales municipales, dependiendo de su volumen en cada municipio y de acuerdo a lo que para el efecto se establezca en la Ley Reglamentaria, el acto sometido a plebiscito será válido y en su caso, continuará el procedimiento respectivo para perfeccionarlo; de no aprobarse, el acto o decisión deberá interrumpirse, sea para no continuarlo y extinguirlo por el medio legal correspondiente, incluyendo su revocación.
 
 II.- Se entiende por Referéndum, el proceso mediante el cual los ciudadanos morelenses, manifiestan su aprobación o rechazo a las reformas, adiciones o derogaciones a la Constitución Política del Estado, a las leyes que expida el Congreso del Estado o a los reglamentos y bandos que emitan los Ayuntamientos.
 
-a) El Referéndum no procederá cuando se trate de:
+a).- El Referéndum no procederá cuando se trate de:
 
 1.- Leyes o disposiciones de carácter tributario o fiscal;
 
@@ -470,57 +464,77 @@ a) El Referéndum no procederá cuando se trate de:
 
 7.- Las demás que determine la propia Constitución.
 
-b) El Referéndum podrá ser promovido por:
+b).- El Referéndum podrá ser promovido por:
 
 1.- El Titular del Poder Ejecutivo;
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+2.- El tres por ciento de los ciudadanos inscritos en el padrón electoral cuando se trate de leyes, decretos, reglamentos, acuerdos, iniciativas o proyectos de éstos en el ámbito estatal y reglamentos, bandos o acuerdos y demás disposiciones normativas o los proyectos correspondientes en el ámbito municipal.
 
-2.- El diez por ciento de los ciudadanos inscritos en el padrón electoral, tratándose de la Constitución Política del Estado y fuera de los casos previstos en el inciso a) de esta fracción; y el cinco por ciento tratándose de leyes estatales y reglamentos municipales;
+Tratándose de la Constitución Política del Estado, deberá reunirse el cinco por ciento de los ciudadanos inscritos en listas nominales de cuando menos quince municipios del Estado.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
-
-3.- El Congreso del Estado, a solicitud de un grupo parlamentario; y
-
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+3.- El Congreso del Estado, a solicitud de un grupo parlamentario y por acuerdo de mayoría simple en el pleno.
 
 4.- La mayoría de los integrantes del Ayuntamiento, en el ámbito de su competencia.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
-
-Para que tengan validez los procesos de Plebiscito y Referéndum deberán contar con el voto de cuando menos el quince por ciento de los ciudadanos inscritos en el Padrón Electoral.
-
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+Para la declaración de validez del Referéndum se deberá contar con el voto de cuando menos el quince por ciento de los ciudadanos inscritos en listas nominales del padrón electoral del Estado o del que corresponda al municipio, según sea el caso.
 
 El referéndum deberá realizarse hasta antes de la publicación e inicio de vigencia de cualquier reforma, adición o derogación a la Constitución Política del Estado de Morelos y a las leyes, decretos o acuerdos que expida el Congreso del Estado y a los acuerdos, reglamentos y demás disposiciones gubernativas que expida el Poder Ejecutivo del Estado o los Ayuntamientos, incluyendo los que sean de nueva creación; si la proporción de los ciudadanos requerida en esta Constitución manifiesta su consentimiento, el trámite administrativo o el proceso legislativo continuarán de manera legítima; en el caso de no aprobarse, el trámite administrativo o el proceso legislativo se extinguirá.
 
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+III.- La iniciativa popular es el medio por el cual, los ciudadanos del Estado de Morelos podrán presentar al Congreso del Estado, al titular del Poder Ejecutivo o a los Ayuntamientos, en el primer caso, proyectos de modificación a la Constitución Política del Estado en los casos establecidos en este artículo, así como de leyes o decretos para la creación, reforma, adición, derogación o abrogación de disposiciones normativas en el ámbito estatal; en los dos últimos casos, para la presentación de proyectos que creen, reformen, adicionen, deroguen o abroguen decretos, acuerdos, reglamentos y demás disposiciones gubernativas en las materias de su respectiva competencia.
 
-III.- La iniciativa popular es el medio por el cual, los ciudadanos del Estado de Morelos podrán presentar al Congreso del Estado, al titular del Poder Ejecutivo o a los Ayuntamientos; en el primer caso, proyectos de modificación a la Constitución Política del Estado en los casos establecidos en este artículo, así como de leyes o decretos para la creación, reforma, adición, derogación o abrogación de disposiciones normativas en el ámbito estatal; en los dos últimos casos, para la presentación de proyectos que creen, reformen, adicionen, deroguen o abroguen decretos, acuerdos, reglamentos y demás disposiciones gubernativas en las materias de su respectiva competencia. En todos los casos la autoridad ante la que se promueva la iniciativa popular, estará obligada invariablemente a dar respuesta a los solicitantes, en un plazo no mayor de sesenta días hábiles, contados a partir de la recepción de la iniciativa.
+En todos los casos la autoridad ante la que se promueva la iniciativa popular, estará obligada invariablemente a dar respuesta a los solicitantes, en un plazo no mayor de sesenta días hábiles, contados a partir de la recepción de la iniciativa.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
-
-La iniciativa popular deberá ser suscrita por al menos el tres por ciento de los ciudadanos inscritos en el padrón electoral del Estado o el diez por ciento del padrón electoral que corresponda al Municipio, según sea el caso.
+La iniciativa popular corresponde a cualquier ciudadano del Estado.
 
 No podrán ser objeto de Iniciativa Popular las materias señaladas por esta Constitución para el caso de improcedencia del Referéndum.
 
-> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2008)</small>
+IV.- La Revocación de Mandato, constituye un procedimiento mediante el cual la comunidad electoral, o una parte significativa de ella, puede promover la destitución de los representantes o mandatarios electos, antes de que concluyan su periodo, mediante comicios especiales donde se les confirme o destituya, sin necesidad de agotar la instancia de juicio político, en los casos de fuero constitucional. Las causas por las que podrá promoverse revocación de mandato son:
 
-El Instituto Estatal Electoral será el organismo encargado de calificar la procedencia o improcedencia de las solicitudes de plebiscito o referéndum que se presenten, así como de preparar, desarrollar y vigilar estos procedimientos de conformidad con la presente Constitución y la Ley de la materia.
+a) Incumplimiento de compromisos contraídos en campaña, por lo tanto los candidatos a puestos de elección popular deberán tomar sus propuestas de campaña como programas de gobierno o en su caso, planes de desarrollo, de llegar a resultar electos. Para efectos de lo anterior, las propuestas referidas deberán ser depositadas y constatadas ante el Instituto Estatal Electoral disponiéndose su cumplimiento como obligatorio.
 
-> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 23 DE ABRIL DE 2008)</small>
+b) Pérdida de legitimidad, a través del incumplimiento constante en las obligaciones derivadas del ejercicio del cargo, que se consagren en la legislación respectiva.
 
-> <small>(DEROGADO SEXTO PÁRRAFO, P.O. 23 DE ABRIL DE 2008)</small>
+c) Actos de corrupción política como el uso ilegítimo de información privilegiada, el tráfico de influencias, el caciquismo, el soborno, extorsiones, malversación, prevaricación, compadrazgo, cooptación, nepotismo e impunidad.
 
-> <small>(DEROGADO SÉPTIMO PÁRRAFO, P.O. 23 DE ABRIL DE 2008)</small>
+d) Violación de derechos humanos conforme a lo establecido en la legislación vigente aplicable.
 
-> <small>(DEROGADO OCTAVO PÁRRAFO, P.O. 23 DE ABRIL DE 2008)</small>
+e) La connivencia, entendida esta como el asentamiento o tolerancia para con las faltas a la normatividad e incluso delitos que cometan sus subordinados.
 
-> <small>(DEROGADO NOVENO PÁRRAFO, P.O. 23 DE ABRIL DE 2008)</small>
+El número de ciudadanos que deberá suscribir la solicitud de Revocación de Mandato deberá ser el veinte por ciento de los ciudadanos inscritos en la lista nominal de electores del Estado o de la que corresponda al municipio o distrito electoral, según sea el caso.
 
-> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2008)</small>
+Procederá la revocación cuando de los comicios especiales convocados al efecto se obtenga un número igual al de los votos que para ser electo obtuvo el servidor público o representante popular en cuestión, más uno.
 
-El Congreso del Estado deberá expedir la Ley que regule estos Mecanismos de Participación Ciudadana, determinando el o los procedimientos, los tiempos y la estructura orgánica que se autorice en la instrumentación de las formas de participación establecidas en este artículo. En ningún caso la ausencia de texto normativo impedirá que se ejerzan los derechos de los ciudadanos.
+En caso de resultar procedente la revocación de mandato, se estará a lo dispuesto en la presente Constitución
+
+V.- La Rendición de Cuentas, como medio por el cual el Consejo de Participación Ciudadana podrá solicitar información a los funcionarios públicos estatales o municipales, mandatarios y representantes populares, así como a los servidores públicos en general.
+
+B.- DEL CONSEJO ESTATAL DE PARTICIPACIÓN CIUDADANA.
+
+1.- El Consejo Estatal de Participación Ciudadana es un organismo permanente encargado de la calificación de procedencia de los medios de participación ciudadana contemplado en esta Constitución, así como de observación y evaluación del trabajo gubernamental y legislativo; formado por quince representantes de la sociedad civil debiendo acreditar los siguientes requisitos:
+
+I. Tener un amplio reconocimiento por su compromiso de servicio a la Sociedad.
+
+II. No ser empleado de gobierno o funcionario público.
+
+III. Estar inscrito en el padrón electoral de Morelos.
+
+IV. Tener por lo menos 10 años de residencia en el Estado.
+
+V. No ser, ni haber sido en el año inmediato anterior, integrante de las dirigencias de partidos políticos a nivel municipal, estatal o federal.
+
+El cargo de Consejero será honorífico. Cada Consejero tendrá un suplente y si cualquiera de ellos (titular o suplente) fuera nombrado funcionario o empleado del Gobierno, automáticamente será substituido.
+
+El Consejo trabajará en forma colegiada y expedirá su Reglamento interno con base en lo establecido en esta Constitución y en la Ley reglamentaria.
+
+Entre los objetivos del Consejo estará además el promover y desarrollar Planes y programas a largo plazo, que sirvan de base para los Programas Anuales de Desarrollo de los Gobiernos en el Estado.
+
+2.- El Consejo será el organismo encargado de calificar la procedencia o improcedencia de las solicitudes de Plebiscito, Referéndum, Revocación de Mandato, Iniciativa Popular y Rendición de Cuentas que se presenten.
+
+El Consejo Estatal de Participación Ciudadana, con el apoyo ejecutivo del Instituto Estatal Electoral se encargará de preparar, desarrollar, vigilar y calificar los procesos de Revocación de Mandato, Rendición de Cuentas, Referéndum y de Plebiscito, que sean promovidos de conformidad con la Constitución Política del Estado y la ley de la materia.
+
+Corresponde al Instituto Estatal Electoral hacerse cargo del desarrollo operativo de dichos procesos.
+
+En ningún caso la ausencia de texto normativo impedirá que se ejerzan los derechos de los ciudadanos.
 
 ## TITULO SEGUNDO.
 
@@ -3150,19 +3164,19 @@ El Oficial Mayor Encargado de la Secretaría General de Gobierno,
 
 LUIS G. CAMPO.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS A LOS DECRETOS DE REFORMA A LA PRESENTE CONSTITUCIÓN.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS A LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 16 DE OCTUBRE DE 1932.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL FEDERAL VIGENTE.
 
 P.O. 12 DE NOVIEMBRE DE 1933.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL FEDERAL VIGENTE.
 
 P.O. 13 DE DICIEMBRE DE 1936.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL FEDERAL VIGENTE.
 
 P.O. 28 DE ABRIL DE 1946.
 
@@ -3178,11 +3192,11 @@ P.O. 14 DE JUNIO DE 1950.
 
 P.O. 26 DE JULIO DE 1950.
 
-EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE MORELOS.
 
 P.O. 28 DE OCTUBRE DE 1953.
 
-DECRETO NÚMERO 9
+DECRETO NÚMERO 9, POR EL QUE SE REFORMA EL ARTÍCULO 13 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO.
 
 1o.- El presente Decreto empezará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
 
@@ -3192,7 +3206,7 @@ Remítase al Ejecutivo del Estado para los efectos a que se contrae la fracción
 
 P.O. 28 DE OCTUBRE DE 1953.
 
-DECRETO NÚMERO 10
+DECRETO NÚMERO 10, POR EL QUE SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 115 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO.
 
 > <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1954)</small>
 
@@ -3344,13 +3358,13 @@ SEGUNDO.- Remítase al Ejecutivo del Estado, para los efectos de su promulgació
 
 P.O. 29 DE DICIEMBRE DE 1983.
 
-DECRETO NÚMERO 76
+DECRETO NÚMERO 76, POR EL QUE SE REFORMA EL ARTÍCULO 74 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE MORELOS.
 
 UNICO.- El presente decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 P.O. 29 DE DICIEMBRE DE 1983.
 
-DECRETO NÚMERO 77
+DECRETO NÚMERO 77, POR EL QUE SE REFORMAN LOS ARTÍCULOS 32, TERCERO Y QUINTO PÁRRAFOS; 40, FRACCIONES XIV, XV Y XXVIII, 41, 56 FRACCIONES V, INCISO D) Y IX, 58 FRACCIÓN III, 70 FRACCIONES IV Y XXVII, 115 FRACCIONES I, SEGUNDO PÁRRAFO III, VI Y X; SE ADICIONAN LOS ARTÍCULOS 40, FRACCIONES XIV, XV, XLVIII, XLIX Y L; 58, FRACCIÓN IV; 70 FRACCIÓN XXIX; 71 SEGUNDO PÁRRAFO: 85-A, 85-B, 112, 115 FRACCIONES I, SEGUNDO PÁRRAFO Y TERCER PÁRRAFO: III, SEGUNDO PÁRRAFO VI SEGUNDO Y TERCER PÁRRAFOS Y XI Y 118 BIS.
 
 PRIMERO.- El presente Decreto de reformas y adiciones a la Constitución Política del Estado libre y soberano de Morelos deberá cumplir con las formalidades establecidas en los Artículos 147 Fracciones I, II, III y 148 del mismo ordenamiento.
 
@@ -3398,7 +3412,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 7 DE JULIO DE 1988.
 
-DECRETO NÚMERO 8
+DECRETO NÚMERO 8, POR EL QUE SE ADICIONA EL TÍTULO IV DEL PODER EJECUTIVO CON LOS ARTÍCULOS 79-A Y 79-B; SE ADICIONA EN SU TÍTULO CUARTO "DEL PODER EJECUTIVO", CON UN CAPÍTULO QUINTO, DEBIÉNDOSE TRASLADAR DEL ACTUAL CAPÍTULO CUARTO, RELATIVO A LA HACIENDA PÚBLICA, PROGRAMACIÓN DEL DESARROLLO URBANO Y RURAL, A EL CAPÍTULO QUINTO, DEBIENDO QUEDAR COMO CAPÍTULO CUARTO, EL QUE SE DENOMINARÁ "DE LA PROCURADURÍA GENERAL DE JUSTICIA"; SE DEROGAN EL CAPÍTULO CUARTO, SOBRE EL MINISTERIO PÚBLICO, DEL TÍTULO QUINTO, RELATIVO AL PODER JUDICIAL, Y LOS ARTÍCULOS 106 Y 107, EN EL CONTENIDOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
 
 PRIMERO.- El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -3406,7 +3420,7 @@ SEGUNDO.- Remítase el presente Decreto al Ejecutivo del Estado, para los efecto
 
 P.O. 7 DE JULIO DE 1988.
 
-DECRETO NÚMERO 9
+DECRETO NÚMERO 9, POR EL QUE SE MODIFICAN LA FRACCIÓN XLVIII, DEL ARTÍCULO 40 Y LA FRACCIÓN XXVI, DEL ARTÍCULO 70, Y SE ADICIONA CON UNA FRACCIÓN III, EL ARTÍCULO 119, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
 
 Primero.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -3490,19 +3504,19 @@ SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo Estatal p
 
 P.O. 3 DE JUNIO DE 1992.
 
-DECRETO NÚMERO 222
+DECRETO NÚMERO 222, POR EL QUE SE ADICIONA EL CAPÍTULO VI AL TÍTULO CUARTO DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EL CUAL QUEDARA INTEGRADO POR EL ARTÍCULO 85-C.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano del Gobierno del Estado Libre y Soberano de Morelos.
 
 P.O. 3 DE JUNIO DE 1992.
 
-DECRETO NÚMERO 223
+DECRETO NÚMERO 223, POR EL QUE SE ADICIONA EL CAPÍTULO VII, INTEGRADO POR EL ARTÍCULO 85-D, AL TÍTULO CUARTO DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano del Gobierno del Estado Libre y Soberano de Morelos.
 
 P.O. 3 DE JUNIO DE 1992.
 
-DECRETO NÚMERO 224
+DECRETO NÚMERO 224, POR EL QUE SE REFORMAN LA FRACCIÓN VIII DEL ARTÍCULO 26; LA FRACCIÓN XIX DEL ARTÍCULO 40; LA FRACCIÓN I DEL ARTÍCULO 60; LAS FRACCIONES VIII Y XXVIII DEL ARTÍCULO 70 Y LA FRACCIÓN I DEL ARTÍCULO 117, Y SE DEROGAN LAS FRACCIONES XVI Y XVIII DEL ARTÍCULO 40 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano del Gobierno del Estado Libre y Soberano de Morelos.
 
@@ -3514,7 +3528,7 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 
 P.O. 22 DE MARZO DE 1995.
 
-DECRETO NÚMERO 212
+DECRETO NÚMERO 212, POR EL QUE SE REFORMA EL ARTÍCULO 33, REFORMA LA FRACCIÓN XXXVII DEL ARTÍCULO 40, DEROGA LA FRACCIÓN VI DEL ARTÍCULO 70, MODIFICA LA DENOMINACIÓN DEL CAPÍTULO VII, DEL TÍTULO CUARTO, REFORMA EL ARTÍCULO 85-D, REFORMA EL ARTÍCULO 86, REFORMA EL ARTÍCULO 88, REFORMA EL ARTÍCULO 89, REFORMA EL ARTÍCULO 90, REFORMA EL ARTÍCULO 91, REFORMA EL ARTÍCULO 92, CREA EL ARTÍCULO 92-A, REFORMA EL ARTÍCULO 96, REFORMA EL ARTÍCULO 97, REFORMA EL ARTÍCULO 98, DEROGA LAS FRACCIONES IX, XIV Y XV DEL ARTÍCULO 99, REFORMA EL ARTÍCULO 103, REFORMA EL ARTÍCULO 108, REFORMA EL ARTÍCULO 109, REFORMA EL ARTÍCULO 135, REFORMA EL ARTÍCULO 136 Y REFORMA EL ARTÍCULO 137, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
 
 PRIMERO.- Se deroga la Ley Orgánica de la Procuraduría Ecológica, publicada en el Periódico Oficial "Tierra y Libertad" Número 3600, de fecha siete de agosto de mil novecientos noventa y dos.
 
@@ -3524,7 +3538,7 @@ TERCERO.- El presente decreto iniciará su vigencia al día siguiente de su publ
 
 P.O. 22 DE MARZO DE 1995.
 
-DECRETO NÚMERO 214
+DECRETO NÚMERO 214, POR EL QUE SE ADICIONA AL ARTÍCULO 92, UN PÁRRAFO, SE DEROGAN LAS FRACCIONES II, X Y XIII, DEL ARTÍCULO 99, SE REFORMA LA FRACCIÓN XVI DEL ARTÍCULO 99, SE REFORMA EL ARTÍCULO 145 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
 
 PRIMERO.- Remítase la presente Minuta Proyecto de Decreto a los Honorables Ayuntamientos Constitucionales en el Estado, para los efectos que indica el artículo 147 de la Constitución Política del Estado de Morelos.
 
@@ -3600,7 +3614,7 @@ Remítase el presente Decreto, al Titular del Poder Ejecutivo Estatal para los e
 
 P.O. 1 DE SEPTIEMBRE DE 2000.
 
-DECRETO NÚMERO 1234
+DECRETO NÚMERO 1234, POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE MORELOS.
 
 PRIMERO.- El Presente Decreto de reformas, adiciones y derogaciones a diversas disposiciones de la Constitución Política del Estado de Morelos, iniciará su vigencia, previa aprobación del Constituyente Permanente, a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado de Morelos; por tanto se dejan sin efectos jurídicos el artículo tercero transitorio de la reforma a esta Constitución, aprobado en el Decreto Número 789 de fecha 30 de octubre de 1996, y publicado en el Periódico Oficial Tierra y Libertad número 3824, con la misma fecha.
 
@@ -3620,7 +3634,7 @@ QUINTO.- Lo dispuesto por los artículos 33, 19-bis en su apartado de reforma, 6
 
 P.O. 1 DE SEPTIEMBRE DE 2000.
 
-DECRETO NÚMERO 1235
+DECRETO NÚMERO 1235, POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE MORELOS.
 
 PRIMERO.- El presente Decreto de reformas y adiciones a diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Morelos, iniciará su vigencia, previa aprobación del Constituyente Permanente, a partir del día en que el Congreso del Estado haga el cómputo de los Ayuntamientos, siempre que resulte favorable, emitirán también la declaratoria correspondiente, el Decreto será publicado en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado de Morelos.
 
@@ -3638,7 +3652,7 @@ QUINTO.- Las disposiciones contenidas en el artículo 19-bis, en su apartado de 
 
 P.O. 21 DE AGOSTO DE 2002.
 
-DECRETO NÚMERO 624
+DECRETO NÚMERO 624, POR EL QUE SE REFORMA LA FRACCIÓN LV DEL ARTÍCULO 40 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
 
 > <small>(F. DE E., P.O. 4 DE SEPTIEMBRE DE 2002)</small>
 
@@ -3652,7 +3666,7 @@ Remítase el presente Decreto al Titular del Poder Ejecutivo para su publicació
 
 P.O. 21 DE AGOSTO DE 2002.
 
-DECRETO NÚMERO 625
+DECRETO NÚMERO 625, POR EL QUE SE REFORMA EL ARTÍCULO 2 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3664,7 +3678,7 @@ Remítase el presente Decreto al Titular del Poder Ejecutivo para su publicació
 
 P.O. 21 DE AGOSTO DE 2002.
 
-DECRETO NÚMERO 626
+DECRETO NÚMERO 626, POR EL QUE SE REFORMA LA DENOMINACIÓN DEL TITULO OCTAVO, SE ADICIONAN AL TITULO OCTAVO LOS CAPÍTULOS I Y II, Y EL ARTÍCULO 151 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
 
 > <small>(F. DE E., P.O. 4 DE SEPTIEMBRE DE 2002)</small>
 
@@ -3678,7 +3692,7 @@ Remítase el presente Decreto al Titular del Poder Ejecutivo para su publicació
 
 P.O. 21 DE AGOSTO DE 2002.
 
-DECRETO NÚMERO 628
+DECRETO NÚMERO 628, POR EL QUE SE ADICIONA UN ULTIMO PÁRRAFO AL ARTÍCULO 19 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
 
 > <small>(F. DE E., P.O. 4 DE SEPTIEMBRE DE 2002)</small>
 
@@ -3692,7 +3706,7 @@ Remítase el presente Decreto al Titular del Poder Ejecutivo para su publicació
 
 P.O. 11 DE AGOSTO DE 2003.
 
-DECRETO NÚMERO 1067
+DECRETO NÚMERO 1067, POR EL QUE SE REFORMAN LOS ARTÍCULOS 23 EN EL PÁRRAFO TERCERO DE SU FRACCIÓN VI, 32; 33; 40 EN SUS FRACCIONES XXVII, XXVIII, XXXII, XXXIII, XLI, XLVII Y LV EN SU SEGUNDO PÁRRAFO; 70 EN SUS FRACCIONES XVII, XVIII Y XIX; 84; 109-BIS; Y 136, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
 
 Artículo Primero.- Las reformas contenidas en el presente Decreto forman parte de la Constitución Política del Estado Libre y Soberano de Morelos, en términos de lo dispuesto por la fracción I de su artículo 147.
 
@@ -3716,7 +3730,7 @@ Artículo Noveno.- Remítase el presente decreto al Titular del Poder Ejecutivo 
 
 P.O. 11 DE AGOSTO DE 2003.
 
-DECRETO NÚMERO 1068
+DECRETO NÚMERO 1068, POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE MORELOS.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3732,7 +3746,7 @@ Remítase el presente Decreto al Titular del Poder Ejecutivo para su publicació
 
 P.O. 11 DE AGOSTO DE 2003.
 
-DECRETO NÚMERO 1069
+DECRETO NÚMERO 1069, POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 2º, SE ADICIONA AL TÍTULO SEGUNDO, DE LOS PODERES PÚBLICOS, UN CAPÍTULO III, INTITULADO DE LOS ÓRGANOS CONSTITUCIONALES AUTÓNOMOS, CON UN ARTÍCULO 23-A DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE MORELOS.
 
 Artículo Primero.- Las reformas contenidas en el presente Decreto forman parte de la Constitución Política del Estado Libre y Soberano de Morelos, en términos de lo dispuesto por la fracción I de su artículo 147.
 
@@ -3750,7 +3764,7 @@ Artículo Séptimo.- Para dar cumplimiento con lo señalado en los artículos tr
 
 P.O. 15 DE SEPTIEMBRE DE 2004.
 
-DECRETO NO. 339
+DECRETO NÚMERO 339, POR EL QUE SE REFORMA EL PÁRRAFO SEGUNDO Y ADICIONA UN PÁRRAFO SEXTO, RECORRIÉNDOSE EN SU ORDEN LOS ACTUALES SEXTO Y SÉPTIMO PARA SER SÉPTIMO Y OCTAVO DEL ARTÍCULO 32 Y SE REFORMA EL INCISO C) DE LA FRACCIÓN XVIII DEL ARTÍCULO 70, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3774,7 +3788,7 @@ Se derogan todas aquellas disposiciones jurídicas que se opongan a la presente 
 
 P.O. 15 DE SEPTIEMBRE DE 2004.
 
-DECRETO No. 340
+DECRETO NÚMERO 340, POR EL SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 32, LA FRACCIÓN XLVI DEL ARTÍCULO 40 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
 
 PRIMERO.- Aprobada que sea la presente reforma en los términos de lo dispuesto por la fracción I del artículo 147 de la Constitución Política del Estado Libre Soberano de Morelos, remítase copia a los ayuntamientos, junto con los debates si los hubiere para que manifiesten su aprobación o desaprobación.
 
@@ -3784,7 +3798,7 @@ TERCERO.- Dando el cómputo un resultado aprobatorio, remítase el presente Decr
 
 P.O. 20 DE JULIO DE 2005.
 
-DECRETO No. 725
+DECRETO NÚMERO 725, POR EL QUE SE REFORMA EL NUMERAL DEL CAPÍTULO XI, DENOMINADO "DE LA DECLARACIÓN Y SITUACIÓN PATRIMONIAL DE LOS SERVIDORES PÚBLICOS" DEL TITULO SEXTO BIS, DENOMINADO DE LA ADMINISTRACIÓN DEL ESTADO, SE ADICIONAN UN CAPÍTULO IV AL TITULO SEXTO BIS Y UN ARTÍCULO 133 TER DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3808,7 +3822,7 @@ A partir de la entrada en vigor de este Decreto, los Poderes del Estado, los Ayu
 
 P.O. 20 DE JULIO DE 2005.
 
-DECRETO No. 726
+DECRETO NÚMERO 726, POR EL QUE SE REFORMA EL ARTÍCULO 47, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3824,7 +3838,7 @@ Remítase el presente Decreto al Titular del Poder Ejecutivo para su publicació
 
 P.O. 20 DE JULIO DE 2005.
 
-DECRETO No. 727
+DECRETO NÚMERO 727, POR EL QUE SE REFORMA EL ARTÍCULO 76 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3836,7 +3850,7 @@ Remítase el presente Decreto al Titular del Poder Ejecutivo para su publicació
 
 P.O. 20 DE JULIO DE 2005.
 
-DECRETO No. 728
+DECRETO NÚMERO 728, POR EL QUE SE ADICIONA EL ARTÍCULO 2 BIS, SE REFORMA LA FRACCIÓN XLVIII DEL ARTÍCULO 40 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3944,7 +3958,7 @@ Segundo.- La presente reforma entrará en vigor al día siguiente de su publicac
 
 P.O. 16 DE JULIO DE 2008.
 
-DECRETO No. 822, POR EL QUE SE REFORMA EL ARTÍCULO 23 FRACCIÓN VI, PÁRRAFO TERCERO; 32, PÁRRAFOS NOVENO Y DÉCIMO, 40, FRACCIONES XXVII, XXVIII, XXXII, XXXIII, XLI, XLIV, XLVI, XLVII Y LV; 84, 109-BIS, PRIMER PÁRRAFO, 109-TER, TERCER PÁRRAFO Y 136 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE MORELOS.
+DECRETO NÚMERO 822, POR EL QUE SE REFORMA EL ARTÍCULO 23 FRACCIÓN VI, PÁRRAFO TERCERO; 32, PÁRRAFOS NOVENO Y DÉCIMO, 40, FRACCIONES XXVII, XXVIII, XXXII, XXXIII, XLI, XLIV, XLVI, XLVII Y LV; 84, 109-BIS, PRIMER PÁRRAFO, 109-TER, TERCER PÁRRAFO Y 136 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE MORELOS.
 
 PRIMERO.- Aprobado que sea el presente Decreto en los términos de lo dispuesto por la fracción I del artículo 147 de la Constitución Política del Estado Libre y Soberano de Morelos, remítase copia a los Ayuntamientos para que manifiesten su aprobación o desaprobación.
 
@@ -3970,7 +3984,7 @@ DÉCIMO.- Se derogan todas las disposiciones que se opongan al presente.
 
 P.O. 16 DE JULIO DE 2008.
 
-DECRETO No. 823, POR EL QUE SE ADICIONA UN PÁRRAFO A LA FRACCIÓN I DEL ARTÍCULO 14; SE REFORMAN LOS ARTÍCULOS 23 Y 134 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE MORELOS.
+DECRETO NÚMERO 823, POR EL QUE SE ADICIONA UN PÁRRAFO A LA FRACCIÓN I DEL ARTÍCULO 14; SE REFORMAN LOS ARTÍCULOS 23 Y 134 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE MORELOS.
 
 PRIMERO.- Aprobado que sea el presente Decreto en los términos de lo dispuesto por la fracción I del artículo 147 de la Constitución Política del Estado Libre y Soberano de Morelos, remítase copia a los Ayuntamientos para que manifiesten su aprobación o desaprobación.
 
@@ -3982,7 +3996,7 @@ CUARTO.- Se derogan todas las disposiciones que se opongan al presente.
 
 P.O. 16 DE JULIO DE 2008.
 
-DECRETO No. 824, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTÍCULOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE MORELOS.
+DECRETO NÚMERO 824, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTÍCULOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE MORELOS.
 
 PRIMERO.- Aprobado que sea en términos del artículo 147 de la Constitución del Estado, remítase al titular del Poder Ejecutivo, para los efectos de su promulgación y publicación correspondiente.
 
@@ -4028,7 +4042,7 @@ Se derogan todas aquellas disposiciones jurídicas que se opongan a la presente 
 
 P.O. 29 DE ABRIL DE 2009.
 
-DECRETO NO. 1208, POR EL QUE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 90 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
+DECRETO NÚMERO 1208, POR EL QUE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 90 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
 
 PRIMERO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado.
 
@@ -4036,7 +4050,7 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 29 DE ABRIL DE 2009.
 
-DECRETO NO. 1209, POR EL QUE REFORMA EL ARTÍCULO 120 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
+DECRETO NÚMERO 1209, POR EL QUE REFORMA EL ARTÍCULO 120 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -4120,7 +4134,7 @@ Segundo.- Este decreto entrará en vigor al día siguiente de su publicación en
 
 P.O. 19 DE OCTUBRE DE 2011.
 
-DECRETO NÚMERO 1371 POR EL QUE SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 117 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
+DECRETO NÚMERO 1371, POR EL QUE SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 117 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
 PRIMERO.- Aprobado que sea el presente Decreto en términos de lo dispuesto por la fracción I del artículo 147 de la Constitución Política del Estado Libre y Soberano de Morelos, remítase copia a los Ayuntamientos para que manifiesten su aprobación o desaprobación.
 
@@ -4132,7 +4146,7 @@ TERCERO.- Se derogan todas las disposiciones jurídicas que se opongan a lo disp
 
 P.O. 19 DE OCTUBRE DE 2011.
 
-DECRETO NÚMERO 1372 POR EL QUE SE ADICIONA EL ARTÍCULO 85-D RECORRIÉNDOSE EL SUBSECUENTE PARA QUEDAR COMO ARTÍCULO 85-E, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
+DECRETO NÚMERO 1372, POR EL QUE SE ADICIONA EL ARTÍCULO 85-D RECORRIÉNDOSE EL SUBSECUENTE PARA QUEDAR COMO ARTÍCULO 85-E, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
 PRIMERO.- Aprobado que sea el presente decreto y a efecto de dar cumplimiento a lo dispuesto en el Artículo 147, de la Constitución Política del Estado de Morelos, remítase a los Ayuntamientos del Estado, con la finalidad de que se pronuncien respecto a la adición de un Artículo 85-D, de la propia Constitución, junto con el dictamen y los debates que se hayan generado.
 
@@ -4144,7 +4158,7 @@ CUARTO.- El presente decreto iniciará su vigencia, 15 días después de su publ
 
 P.O. 19 DE OCTUBRE DE 2011.
 
-DECRETO NÚMERO 1373 POR EL QUE SE ADICIONA EL ARTÍCULO 2 TER AL CAPÍTULO PRIMERO DEL TÍTULO PRIMERO DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
+DECRETO NÚMERO 1373, POR EL QUE SE ADICIONA EL ARTÍCULO 2 TER AL CAPÍTULO PRIMERO DEL TÍTULO PRIMERO DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -4156,7 +4170,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 19 DE OCTUBRE DE 2011.
 
-DECRETO NÚMERO 1374 POR EL QUE SE REFORMA EL ARTÍCULO 19, FRACCIÓN II, INCISO E) DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
+DECRETO NÚMERO 1374, POR EL QUE SE REFORMA EL ARTÍCULO 19, FRACCIÓN II, INCISO E) DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -4176,7 +4190,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 19 DE OCTUBRE DE 2011.
 
-DECRETO NÚMERO 1375 POR EL QUE SE ADICIONA LA FRACCIÓN XVI AL ARTÍCULO 40 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
+DECRETO NÚMERO 1375, POR EL QUE SE ADICIONA LA FRACCIÓN XVI AL ARTÍCULO 40 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
 
 PRIMERO.- Aprobado que sea el presente Decreto en términos de lo dispuesto por la fracción I del artículo 147 de la Constitución Política del Estado Libre y Soberano de Morelos, remítase copia a los Ayuntamientos para que manifiesten su aprobación o desaprobación.
 
@@ -4194,7 +4208,7 @@ SEGUNDO.- Aprobado que sea el presente Decreto en términos del artículo 147 de
 
 P.O. 22 DE FEBRERO DE 2012.
 
-DECRETO NÚMERO MIL SEISCIENTOS CUARENTA Y OCHO POR EL QUE SE ADICIONA UN QUINTO PÁRRAFO AL ARTÍCULO 2 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
+DECRETO NÚMERO 1648, POR EL QUE SE ADICIONA UN QUINTO PÁRRAFO AL ARTÍCULO 2 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
 
 PRIMERO.- Remítase al Titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de Difusión del Gobierno del Estado.
 
@@ -4206,7 +4220,7 @@ CUARTO.- Se derogan todas las disposiciones jurídicas que se opongan a lo dispu
 
 P.O. 22 DE FEBRERO DE 2012.
 
-DECRETO NÚMERO MIL SEISCIENTOS CUARENTA Y NUEVE POR EL QUE SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 70 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
+DECRETO NÚMERO 1649, POR EL QUE SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 70 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
 
 PRIMERO.- Remítase al Titular del Poder Ejecutivo el presente decreto, para su publicación y promulgación en el Periódico Oficial "Tierra y Libertad", órgano oficial de difusión del Gobierno del Estado de Morelos.
 
@@ -4274,7 +4288,7 @@ NOVENO.- El Comité de Radio y Televisión del Congreso, contemplado actualmente
 
 P.O. 23 DE ENERO DE 2013.
 
-DECRETO No. 268, POR EL QUE SE REFORMAN LA FRACCIÓN XLI DEL ARTÍCULO 40; EL PÁRRAFO PRIMERO Y SE ADICIONAN LOS PÁRRAFOS CUARTO Y QUINTO AL ARTICULO 136, AMBOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
+DECRETO NÚMERO 268, POR EL QUE SE REFORMAN LA FRACCIÓN XLI DEL ARTÍCULO 40; EL PÁRRAFO PRIMERO Y SE ADICIONAN LOS PÁRRAFOS CUARTO Y QUINTO AL ARTICULO 136, AMBOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
 
 Artículo Primero. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indica el artículo 44 y la fracción XVII del artículo 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
 
@@ -4284,7 +4298,7 @@ Artículo Tercero. Se derogan todas aquellas disposiciones que contravengan la p
 
 P.O. 23 DE ENERO DE 2013.
 
-DECRETO No. 269, POR EL QUE SE ADICIONA UN PÁRRAFO ULTIMO AL ARTICULO 42 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
+DECRETO NÚMERO 269, POR EL QUE SE ADICIONA UN PÁRRAFO ULTIMO AL ARTICULO 42 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
 
 Artículo Primero.- Aprobado que sea el presente decreto, en términos de los numerales 147 y 148 de la Constitución Política del Estado Libre y Soberano de Morelos, remítase al Poder Ejecutivo para su promulgación y publicación en el Periódico Oficial "Tierra y Libertad".
 
@@ -4312,7 +4326,7 @@ NOVENO.- Con el objeto de no dilatar la impartición de justicia, por esta únic
 
 P.O. 10 DE ABRIL DE 2013.
 
-DECRETO NÚMERO 428 POR EL QUE SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 2° DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
+DECRETO NÚMERO 428, POR EL QUE SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 2° DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
 
 PRIMERO.- Aprobado que sea el presente Decreto en términos de lo dispuesto por la fracción I del artículo 147 de la Constitución Política del Estado Libre y Soberano de Morelos, remítase a los Ayuntamientos para que manifiesten su aprobación o desaprobación.
 
@@ -4322,7 +4336,7 @@ TERCERO.- En su oportunidad remítase al Poder Ejecutivo para su publicación en
 
 P.O. 10 DE ABRIL DE 2013.
 
-DECRETO NÚMERO 429 POR EL QUE SE REFORMA LA FRACCIÓN XXII Y SE LE ADICIONA UN PÁRRAFO A LA MISMA, DEL ARTÍCULO 70 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
+DECRETO NÚMERO 429, POR EL QUE SE REFORMA LA FRACCIÓN XXII Y SE LE ADICIONA UN PÁRRAFO A LA MISMA, DEL ARTÍCULO 70 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
 
 Primero.- Una vez aprobado el presente decreto, remítase al Constituyente Permanente para su aprobación.
 
@@ -4335,3 +4349,13 @@ Cuarto.- La obligatoriedad del Estado de garantizar la educación media superior
 Quinto.- Para dar cumplimiento al principio de obligatoriedad de la educación media superior, en los presupuestos estatal y municipales, se incluirán los recursos y mecanismos necesarios para contar con la infraestructura adecuada a fin de garantizar dicha obligatoriedad.
 
 Sexto.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 24 DE ABRIL DE 2013.
+
+PRIMERO.- Aprobado que sea el presente decreto en términos del artículo 147 de la Constitución Política del Estado Libre y Soberano de Morelos, remítase a los Ayuntamientos de la entidad para su aprobación. Efectuado que sea el recuento de los Ayuntamientos que otorgaron su aprobación, hágase el computo respectivo y remítase al Titular del Poder Ejecutivo para su promulgación y publicación en el Periódico Oficial "Tierra y Libertad", Órgano de Difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO.- El Congreso del Estado en un plazo máximo de quince días a partir de la publicación de la declaratoria, abrogará la Ley de Participación Ciudadana vigente y emitirá la nueva Ley reglamentaria conforme a la presente reforma constitucional.
+
+TERCERO.- La selección e integración del Consejo de Participación Ciudadana, quedará regulada en la Ley secundaria respectiva; debiendo quedar conformado en un plazo de sesenta días hábiles a partir de la publicación de la Ley reglamentaria.
+
+CUARTO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
