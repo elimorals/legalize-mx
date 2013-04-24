@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-desarrollo-economico-sustentable-del-estado-libre-y-6140
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-04"
-last_updated: "2012-08-29"
+last_updated: "2013-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61408&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # LEY DE DESARROLLO ECONOMICO SUSTENTABLE DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-LEY DE DESARROLLO ECONOMICO SUSTENTABLE DEL ESTADO LIBRE Y SOBERANO DE MORELOS
+LEY DE DESARROLLO ECONÓMICO SUSTENTABLE DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 4 de junio de 2008.
 
@@ -121,9 +121,15 @@ V. Planificar e impulsar la modernización de la infraestructura;
 
 VI. Promover la participación activa de las empresas en el diseño e implementación de programas gubernamentales de desarrollo económico;
 
-VII. Promover el fomento a la cultura emprendedora y empresarial que logren impulsar la creación de nuevas empresas; y
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2013)</small>
 
-VIII. Las que determine la persona titular del Poder Ejecutivo del Estado mediante mandato o delegación expresa.
+VII. Promover el fomento a la cultura emprendedora y empresarial que logren impulsar la creación de nuevas empresas;
+
+> <small>(ADICIONADA, P.O. 24 DE ABRIL DE 2013)</small>
+
+VIII. Promover e impulsar la industria penitenciaria, fomentando esquemas de producción, asociación y comercialización modernas y eficientes que fortalezcan el sistema de reinserción social y beneficien a los empresarios participantes; y
+
+IX. Las que determine la persona titular del Poder Ejecutivo del Estado mediante mandato o delegación expresa.
 
 ###### Artículo 6.
 
@@ -265,9 +271,17 @@ El Gobierno del Estado a través de la CREDE podrá otorgar a los municipios que
 
 Los programas y acciones de fomento económico consistirán en:
 
-I. Incentivos fiscales y tributarios; y
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2013)</small>
 
-II. Apoyos directos al desarrollo empresarial y a la inversión.
+I. Incentivos fiscales y tributarios;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2013)</small>
+
+II. Apoyos directos al desarrollo empresarial y a la inversión; y
+
+> <small>(ADICIONADA, P.O. 24 DE ABRIL DE 2013)</small>
+
+III. Brindar las mayores facilidades y apoyos para que los empresarios se integren al sistema de reinserción social, consolidando la industria penitenciaria.
 
 Los programas y acciones de fomento y desarrollo económico se sujetarán en todo momento a los principios de racionalidad presupuestal, eficiencia económica y administrativa, legalidad y transparencia.
 
@@ -277,9 +291,17 @@ Podrán acceder a los beneficios de los programas y acciones relativos al desarr
 
 I. Comprobar que se trate de empresas, organizaciones sociales y privadas o personas físicas con actividad empresarial, cuyo domicilio legal y fiscal se encuentre dentro del estado de Morelos, o que se establezcan en él;
 
-II. Comprobar que tales empresas, organizaciones sociales y privadas o personas físicas con actividad empresarial, según sea el caso, estén al corriente de sus obligaciones fiscales, laborales y de seguridad social, tanto federales como estatales; y
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2013)</small>
 
-III. Comprobar que tales empresas, organizaciones sociales y privadas o personas físicas con actividad empresarial, según sea el caso, realizarán proyectos de inversión que impliquen la creación de empleos permanentes en el Estado.
+II. Comprobar que tales empresas, organizaciones sociales y privadas o personas físicas con actividad empresarial, según sea el caso, estén al corriente de sus obligaciones fiscales, laborales y de seguridad social, tanto federales como estatales;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2013)</small>
+
+III. Comprobar que tales empresas, organizaciones sociales y privadas o personas físicas con actividad empresarial, según sea el caso, realizarán proyectos de inversión que impliquen la creación de empleos permanentes en el Estado; y
+
+> <small>(ADICIONADA, P.O. 24 DE ABRIL DE 2013)</small>
+
+IV. Comprobar que tales empresas, personas físicas o morales, organizaciones sociales y privadas o personas físicas con actividad empresarial, según sea el caso, realizarán proyectos de inversión que impliquen la consolidación del Sistema de Reinserción Social y redunden en beneficio de los internos y sus familiares.
 
 El Reglamento establecerá las formas y procedimientos para la comprobación de estos requisitos.
 
@@ -301,13 +323,21 @@ VI. Que sean empresas pertenecientes a los sectores económicos que la Secretar�
 
 VII. Que la inversión se destine a proyectos productivos en las regiones, municipios y comunidades menos desarrollados del Estado;
 
-VIII. Que sean empresas que realicen reinversiones en el Estado de Morelos; y (sic)
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2013)</small>
 
-IX. Que el desarrollo y/u operación del proyecto esté a cargo de comunidades indígenas o mujeres de escasos recursos.
+VIII. Que sean empresas que realicen reinversiones en el Estado de Morelos;
 
-> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2013)</small>
 
-X. Que el desarrollo y/u operación del proyecto esté a cargo de jóvenes emprendedores.
+IX. Que el desarrollo y/u operación del proyecto esté a cargo de comunidades indígenas o mujeres de escasos recursos;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2013)</small>
+
+X. Que el desarrollo y/u operación del proyecto esté a cargo de jóvenes emprendedores; y
+
+> <small>(ADICIONADA, P.O. 24 DE ABRIL DE 2013)</small>
+
+XI. Que la inversión se destine a proyectos de integración al sistema de reinserción social, como parte de la industria penitenciaria que genere beneficios tangibles a los internos.
 
 ### CAPÍTULO SEGUNDO. DE LOS INCENTIVOS FISCALES Y TRIBUTARIOS
 
@@ -602,3 +632,11 @@ SEGUNDO.- El ejecutivo del Estado, en ejercicio de la facultad contenida en el a
 TERCERO.- El Ejecutivo del Estado deberá contemplar en el presupuesto correspondiente al ejercicio fiscal 2013, una partida especial para dar cumplimiento a los objetivos de esta Ley.
 
 CUARTO.- El Ejecutivo del Estado deberá publicar el Reglamento de esta Ley, en el que establezca las directrices para la aplicación del Fondo de Promoción e Impulso al Joven Emprendedor, en 30 días, contados a partir de la publicación de la presente Ley.
+
+P.O. 24 DE ABRIL DE 2013.
+
+PRIMERA.- El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial.
+
+SEGUNDA.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto en los artículos 44 y 70 fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+TERCERA.- Se derogan todas las disposiciones jurídicas, de igual o menor rango jerárquico normativo, que se opongan al presente Decreto.
