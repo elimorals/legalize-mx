@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-de-usos-de-suelo-para-las-acciones-de-77515"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-10-20"
-last_updated: "2010-10-20"
+last_updated: "2013-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,9 +22,9 @@ state: "CHH"
 ---
 # REGLAMENTO DE USOS DE SUELO PARA LAS ACCIONES DE EDIFICACION, INSTALACION, CONSERVACION Y OPERACION DE ESTACIONES DE CARBURACION Y DE SERVICIO DE PRODUCTOS DERIVADOS DEL PETROLEO PARA EL MUNICIPIO DE NUEVO CASAS GRANDES, CHIHUAHUA
 
-REGLAMENTO DE USOS DE SUELO PARA LAS ACCIONES DE EDIFICACION, INSTALACION, CONSERVACION Y OPERACION DE ESTACIONES DE CARBURACION Y DE SERVICIO DE PRODUCTOS DERIVADOS DEL PETROLEO PARA EL MUNICIPIO DE NUEVO CASAS GRANDES, CHIHUAHUA
+REGLAMENTO DE USOS DE SUELO PARA LAS ACCIONES DE EDIFICACIÓN, INSTALACIÓN, CONSERVACIÓN Y OPERACIÓN DE ESTACIONES DE CARBURACIÓN Y DE SERVICIO DE PRODUCTOS DERIVADOS DEL PETRÓLEO PARA EL MUNICIPIO DE NUEVO CASAS GRANDES, CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2013.
 
 Reglamento publicado en el Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 20 de octubre de 2010.
 
@@ -347,6 +347,12 @@ TERRENO NO ESQUINA 40.00 mts. 22.50 mts.
 ###### ARTÍCULO 36.
 
 El predio propuesto, deberá de garantizar vialidades internas, áreas verdes, así como todos los requisitos para la construcción y operación que establece las disposiciones generales de la materia expedidas por PEMEX refinación, siempre y cuando no se contravenga a la legislación local, así como cumplir con la normatividad de ocupación y utilización del suelo según lo establecido en el PDUCPTBC.
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2013)</small>
+
+X. Que la distancia sea de 200 metros radiales de una estación a otra del mismo tipo en áreas urbanas y dos mil metros radiales en áreas rurales, y centro o núcleos de población fuera del área urbana o suburbana del municipio, entre ellas, o con respecto a las áreas urbanas.
+
+En virtud de que nuestro municipio es menor a 500 mil habitantes y de acuerdo a lo que se maneja en el Decreto 755/2012 artículo 150, fracción IV, inciso b y transitorios en su artículo tercero. (sic)
 
 ###### ARTÍCULO 37.
 
@@ -799,3 +805,17 @@ El presente Reglamento entrará en vigor al día siguiente de su publicación en
 El presente Reglamento deroga todas las disposiciones municipales sobre la materia que se opongan al mismo.
 
 PRESIDENTE MUNICIPAL. ING. JESÚS MANUEL PENDONES FERNANDEZ. Rúbrica. LA SECRETARIA DEL H. AYUNTAMIENTO. LIC. ALEJANDRA YOLANDA ESPARZA JUÁREZ. Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 24 DE ABRIL DE 2013.
+
+ACUERDO 038
+
+###### ARTÍCULO PRIMERO
+
+Publíquese en el Periódico Oficial del Estado, el Acuerdo tomado por el H. Ayuntamiento de Nuevo Casas Grandes, Chihuahua, en sesión ordinaria celebrada el día 6 de marzo del año dos mil trece, mediante el cual se aprobó la reforma al artículo 36 fracción X, del Reglamento de Usos de Suelo para las Acciones de Edificación, Instalación, Conservación y Operación de Estaciones de Carburación y de Servicio de Productos derivados del Petróleo para el municipio de Nuevo Casas Grandes.
+
+###### ARTÍCULO SEGUNDO
+
+Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
