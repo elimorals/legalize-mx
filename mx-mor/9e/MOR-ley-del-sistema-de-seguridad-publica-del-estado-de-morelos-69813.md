@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-sistema-de-seguridad-publica-del-estado-de-morelos-6981
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-24"
-last_updated: "2013-03-01"
+last_updated: "2013-04-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69813&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el lunes 24 de agosto de 2009.
 
@@ -629,15 +629,19 @@ V. El Regidor de Seguridad Pública;
 
 VI. Un representante del Secretariado Ejecutivo;
 
-VII. Un representante de la Secretaría;
+> <small>(ADICIONADA, P.O. 24 DE ABRIL DE 2013)</small>
 
-VIII. Un representante de la Procuraduría;
+VII. Un representante del Centro Estatal de Prevención Social de la Violencia y Delincuencia con Participación Ciudadana;
 
-IX. El Diputado representante de la Comisión de Seguridad Pública, así como del Diputado del Distrito respectivo del Congreso del Estado o las personas que éstas designen como sus representantes;
+VIII. Un representante de la Secretaría;
 
-X. Hasta 3 vocales representantes de organismos de participación ciudadana con que cuente el municipio, o en su caso, representantes de los sectores productivos y sociales debidamente organizados con amplia representación en el municipio, así como los que a título personal representen algún sector de la población, estos serán propuestos al seno del consejo municipal y deberán ser aprobados por el mismo;
+IX. Un representante de la Procuraduría;
 
-XI. Un representante o representantes de los comisariados ejidales o de bienes comunales, de la pequeña propiedad y de organizaciones ganaderas de la comunidad.
+X. El Diputado representante de la Comisión de Seguridad Pública, así como del Diputado del Distrito respectivo del Congreso del Estado o las personas que éstas designen como sus representantes;
+
+XI. Hasta 3 vocales representantes de organismos de participación ciudadana con que cuente el municipio, o en su caso, representantes de los sectores productivos y sociales debidamente organizados con amplia representación en el municipio, así como los que a título personal representen algún sector de la población, estos serán propuestos al seno del consejo municipal y deberán ser aprobados por el mismo;
+
+XII. Un representante o representantes de los comisariados ejidales o de bienes comunales, de la pequeña propiedad y de organizaciones ganaderas de la comunidad.
 
 Además, el Consejo Municipal podrá invitar a cualquier funcionario federal, estatal o municipal, autoridades auxiliares, organización civil o persona física que aporte elementos útiles para el cumplimiento de los fines de la seguridad pública.
 
@@ -677,7 +681,9 @@ III. Levantar las minutas de trabajo que se desprendan de las sesiones ordinaria
 
 IV. Participar, a petición del Presidente del Consejo, en el cumplimiento y ejecución de los acuerdos asumidos en sesión del Consejo Municipal;
 
-V. Hacer entrega de la minuta de trabajo levantada en cada sesión del Consejo Municipal al Secretario Ejecutivo;
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2013)</small>
+
+V. Hacer entrega de la minuta de trabajo levantada en cada sesión al Consejo Municipal, al Secretario Ejecutivo y al Centro Estatal de Prevención Social de la Violencia y Delincuencia con Participación Ciudadana;
 
 VI. Llevar el control, registro y seguimiento de los acuerdos y resoluciones del Consejo Municipal, remitiendo los avances y reportes respectivos al Secretario Ejecutivo;
 
@@ -733,23 +739,29 @@ XV. Cualquier otra que para sus fines requiera el Consejo Municipal.
 
 ### CAPÍTULO VII. DE LOS COMITÉS DE CONSULTA Y PARTICIPACIÓN CIUDADANA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ABRIL DE 2013)</small>
+
 ###### Artículo 34.
 
-Las autoridades competentes promoverán la participación de la sociedad en la planeación, supervisión y evaluación de la seguridad pública, con excepción de las relativas al ejercicio de la acción penal y estrictamente jurisdiccional.
+Las autoridades a través del Centro Estatal de Prevención Social de la Violencia y Delincuencia con Participación Ciudadana, promoverán la participación de la sociedad en la planeación, supervisión y evaluación de la seguridad pública, con excepción de las relativas al ejercicio de la acción penal y estrictamente jurisdiccional.
 
 En materia de seguridad pública la participación ciudadana es prioritaria, por lo que toda autoridad estatal o municipal estará obligada a proveer lo necesario para incluir la participación ciudadana en todas sus actividades. Con excepción de las acciones reservadas al sector público, la ciudadanía podrá participar organizadamente para una eficaz y oportuna prevención de delitos y conductas antisociales, para mejorar la procuración y administración de justicia y para lograr que la reinserción social de los sentenciados y la reintegración social y familiar de los adolescentes sea plena y sin restricciones, de conformidad con los programas aprobados en el seno del Consejo Estatal de Seguridad Pública, estableciendo al efecto los programas que éste considere pertinentes, entre ellos la promoción de la denuncia anónima y ciudadana.
 
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
+
 ###### Artículo 35.
 
-El Secretario Ejecutivo Municipal y los titulares de las instituciones de seguridad pública en el Estado, se coordinarán para establecer en los Municipios comités y programas de apoyo y cooperación voluntaria de la ciudadanía tendientes a la prevención de delitos y conductas antisociales en los ámbitos escolar, patrimonial, familiar, domiciliario y personal.
+El Secretario Ejecutivo Municipal y la Secretaría de Seguridad Pública del Estado a través del Centro Estatal de Prevención Social de la Violencia y Delincuencia con Participación Ciudadana, se coordinarán para establecer en los Municipios comités y programas de apoyo y cooperación voluntaria de la ciudadanía tendientes a la prevención de delitos y conductas antisociales en los ámbitos escolar, patrimonial, familiar, domiciliario y personal.
 
 ###### Artículo 36.
 
 La ciudadanía podrá participar en la elaboración de medidas para la vigilancia y seguridad de la población que auxilien a los cuerpos de seguridad pública a través de los comités de participación ciudadana que se describen en el siguiente artículo, así como aquellas comisiones que sean aprobadas por los Consejos Estatal, Regional y Municipal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ABRIL DE 2013)</small>
+
 ###### Artículo 37.
 
-El Consejo Estatal, a través de su Secretario Ejecutivo, apoyará al Secretario Ejecutivo Municipal en la promoción e integración de Comités de Consulta y Participación Ciudadana, que estarán vinculados con los Consejos Estatal y Municipales, siendo éstos los siguientes:
+El Consejo Estatal, a través del Centro Estatal de Prevención Social de la Violencia y Delincuencia con Participación Ciudadana, apoyará al Secretario Ejecutivo Municipal en la promoción e integración de Comités de Consulta y Participación Ciudadana, que estarán vinculados con los Consejos Estatal y Municipal, siendo estos los siguientes:
 
 I. Comité Municipal de Consulta y Participación Ciudadana en Seguridad Pública: Son agrupaciones de personas físicas y representantes de personas morales integrantes de la sociedad, representativas del municipio y coordinadas por el Secretario Ejecutivo Municipal;
 
@@ -1753,9 +1765,11 @@ VII. El impulso de habilidades de comunicación, producción, creatividad y en g
 
 VIII. La implementación de campañas específicas durante las temporadas del año en que se requiera por la afluencia turística en el Estado.
 
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
+
 ###### Artículo 112.
 
-Las actividades de prevención a desarrollar requerirán de la participación multidisciplinaria de autoridades de diferentes ámbitos de gobierno, organizaciones civiles, instituciones educativas y especialistas, bajo la coordinación del Secretariado Ejecutivo.
+Las actividades de prevención a desarrollar requerirán de la participación multidisciplinaria de autoridades de diferentes ámbitos de gobierno, organizaciones civiles, instituciones educativas y especialistas, bajo la coordinación de la Secretaría.
 
 ###### Artículo 113.
 
@@ -1785,9 +1799,11 @@ Lo anterior independientemente y sin perjuicio de las pretensiones o acciones qu
 
 ### CAPÍTULO II. DE LA PARTICIPACIÓN DE LA SOCIEDAD
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ABRIL DE 2013)</small>
+
 ###### Artículo 115.
 
-El Secretariado Ejecutivo establecerá mecanismos eficaces para que la sociedad participe en el seguimiento, evaluación y supervisión del Sistema, en los términos de esta ley y demás ordenamientos aplicables.
+La Secretaría establecerá mecanismos eficaces para que la sociedad participe en el seguimiento, evaluación y supervisión del Sistema, en los términos de esta ley y demás ordenamientos aplicables.
 
 Dicha participación se realizará en coordinación y corresponsabilidad con las instituciones de seguridad pública y las dependencias necesarias de la administración pública, a través de:
 
@@ -1821,11 +1837,21 @@ VI. Realizar denuncias o quejas sobre irregularidades, y
 
 Auxiliar a las autoridades competentes en el ejercicio de sus tareas y participar en las actividades que no sean confidenciales o pongan en riesgo el buen desempeño en la función de Seguridad Pública.
 
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
+
 ###### Artículo 118.
 
-Las Instituciones de Seguridad Pública, en el ámbito de sus respectivas competencias, contarán con una entidad de consulta y participación de la comunidad. Dichas entidades deberán estar permanentemente coordinadas a efecto de analizar las demandas ciudadanas, el resultado de las acciones previstas en el artículo anterior, y generar las políticas públicas de seguridad necesarias derivadas de las mismas.
+Las instituciones de Seguridad Pública, en el ámbito de sus respectivas competencias, contarán con entidades de consulta y participación de la comunidad denominadas:
 
-El Secretariado Ejecutivo, concentrará estos resultados, consensará las propuestas y dará cuenta de ellos al Consejo Estatal, sometiendo a su consideración la propuesta de política de seguridad a implementar en el Estado.
+I. Centro Estatal de Prevención Social de la Violencia y Delincuencia con Participación Ciudadana;
+
+II. Observatorio Ciudadano Urbano de Seguridad Pública; y
+
+III. Consejo de Seguridad Pública.
+
+Dichas entidades deberán estar permanentemente coordinadas a efecto de analizar las demandas ciudadanas, el resultado de las acciones previstas en (sic) artículo anterior, y generar las políticas públicas de seguridad necesarias derivadas de las mismas.
+
+El Secretario Ejecutivo, concentrará las propuestas y dará cuenta de ellos al Consejo Estatal, sometiendo a su consideración las propuestas de política de seguridad a implementar en el Estado.
 
 ###### Artículo 119.
 
@@ -2850,3 +2876,11 @@ PRIMERO.- Remítase el presente Decreto al Gobernador Constitucional del Estado,
 SEGUNDO.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Estado.
 
 TERCERO.- Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan al presente decreto.
+
+P.O. 24 DE ABRIL DE 2013.
+
+PRIMERA (SIC).- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico "Tierra y Libertad", órgano oficial de difusión del Gobierno del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan al presente decreto.
+
+TERCERO.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto en los artículos 44 y 70 fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
