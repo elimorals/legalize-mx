@@ -4,7 +4,7 @@ identifier: "CHP-ley-para-la-adaptacion-y-mitigacion-ante-el-cambio-78396"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-07"
-last_updated: "2012-04-04"
+last_updated: "2013-04-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78396&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 LEY PARA LA ADAPTACIÓN Y MITIGACIÓN ANTE EL CAMBIO CLIMÁTICO EN EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA ADAPTACIÓN Y MITIGACIÓN ANTE EL CAMBIO CLIMÁTICO EN EL ESTADO DE CHIAPAS, PUBLICADA EN EL P.O. DE 24 DE ABRIL DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el martes 7 de diciembre de 2010.
 
@@ -662,3 +664,15 @@ P.O. 4 DE ABRIL DE 2012.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 24 DE ABRIL DE 2013.
+
+Artículo Primero.- La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se abroga la Ley para la Adaptación y Mitigación ante el Cambio Climático en el Estado de Chiapas, publicada en el Periódico Oficial número 270, de fecha 07 de diciembre de 2010, mediante Decreto número 003.
+
+Artículo Tercero.- Se derogan todas las disposiciones que se opongan a lo dispuesto en la presente ley.
+
+Artículo Cuarto.- La Secretaría de Medio Ambiente e Historia Natural propondrá al Ejecutivo del Estado, para su expedición, en un término de noventa días naturales contados a partir de la entrada en vigor de la presente ley, el proyecto de Reglamento de la misma.
+
+Artículo Quinto.- El Congreso del Estado, con el objeto de contar con una Comison legislativa que coordine las acciones en materia de Adaptación y Mitigación ante el Cambio Climático, deberá reformar su Ley Organica, para establecer dicha competencia a la actual Comisión de Ecologia.
