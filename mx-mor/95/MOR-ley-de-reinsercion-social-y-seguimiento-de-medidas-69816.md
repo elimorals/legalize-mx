@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-reinsercion-social-y-seguimiento-de-medidas-69816"
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-24"
-last_updated: "2009-08-24"
+last_updated: "2013-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69816&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE REINSERCIÓN SOCIAL Y SEGUIMIENTO DE MEDIDAS CAUTELARES DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el lunes 24 de agosto de 2009.
 
@@ -67,7 +67,9 @@ III.- La ejecución y vigilancia de los sustitutivos penales y la condena condic
 
 IV.- Lo relativo a la concesión, revocación y vigilancia del tratamiento preliberacional, libertad preparatoria y remisión parcial de la sanción;
 
-V.- La reinserción social de los sentenciados;
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2013)</small>
+
+V.- La reinserción social de los sentenciados, con respeto a la dignidad de las personas, brindando atención complementaria a los familiares o dependientes de los mismos, mediante la aplicación de políticas transversales en su beneficio;
 
 VI.- Las bases generales del Sistema Estatal Penitenciario, así como la organización, funcionamiento y régimen interno de los establecimientos penitenciarios en la Entidad;
 
@@ -87,15 +89,23 @@ I.- Ley.- La Ley de Reinserción Social y Seguimiento de Medidas Cautelares;
 
 II.- Código Penal.- El Código Penal del Estado de Morelos vigente;
 
-III.- Código de Procedimientos.- El Código de Procedimientos Penales del Estado de Morelos publicado el 7 de octubre de 1996 y el Código de Procedimientos Penales del Estado de Morelos vigente publicado el 22 de noviembre de 2007, según corresponda de conformidad con el régimen transitorio para la entrada en vigor de éste último;
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2013)</small>
 
-IV.- La Secretaría.- La Secretaría de Seguridad Pública del Estado de Morelos;
+III.- Código de Procedimientos.- Los Capítulos Primero, Tercero, Quinto, y Séptimo del Título Décimo Cuarto del Código de Procedimientos Penales para el Estado Libre y Soberano de Morelos, publicado el 31 de marzo de 1946; el Código de Procedimientos Penales para el Estado de Morelos publicado el 7 de octubre de 1996 y el Código de Procedimientos Penales del Estado de Morelos vigente, publicado el 22 de noviembre de 2007, según corresponda de conformidad con el régimen transitorio para la entrada en vigor de éste último;
 
-V.- Subsecretaría.- La Subsecretaría de Reinserción Social, dependiente de la Secretaría de Seguridad Pública;
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2013)</small>
+
+IV. La Secretaría.- La Secretaría de Gobierno del Poder Ejecutivo del Estado de Morelos;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2013)</small>
+
+V.- Unidad de Reinserción.- La unidad u órgano administrativo encargado de atender la Reinserción Social, asignada a la Secretaría de Gobierno;
 
 VI.- Sistema.- El Sistema Estatal Penitenciario;
 
-VII.- Establecimientos penitenciarios.- Los Centros de Reinserción Social área varonil y femenil y Establecimientos Distritales, así como los centro (sic) especiales para la reclusión preventiva;
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2013)</small>
+
+VII.- Establecimientos penitenciarios.- Los Centros de Reinserción Social, en sus áreas varoniles y femenil, así como los centros especiales para la reclusión preventiva;
 
 VIII.- Medidas Cautelares.- Las medidas cautelares personales, reales y las condiciones por cumplir restrictivas de la libertad personal o de otros derechos durante la suspensión condicional del proceso a prueba, así como las medidas de seguridad, impuestas por la autoridad judicial;
 
@@ -107,7 +117,9 @@ XI.- Reglamento.- El Reglamento de la presente Ley;
 
 XII.- Patronato.- El Patronato de Asistencia a Liberados;
 
-XIII.- Dirección General para Adolescentes.- Dirección General de Ejecución de Medidas para Adolescentes;
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2013)</small>
+
+XIII.- Área de Adolescentes.- La unidad administrativa encargada de la ejecución de medidas para adolescentes;
 
 XIV.- CEMPLA.- Centro Especializado de Ejecución de Medidas Privativas de Libertad de Adolescentes;
 
@@ -117,7 +129,9 @@ XV.- Ley de Adolescentes.- Ley de Justicia para Adolescentes del Estado de Morel
 
 De la ejecución de sentencias.
 
-La ejecución de las sentencias irrevocables en materia penal, corresponde al Ejecutivo del Estado quien a través de la Subsecretaría de Reinserción Social, será competente de la ejecución de penas y medidas judiciales, así como de las condiciones de su cumplimiento.
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
+
+La ejecución de las sentencias irrevocables en materia penal, corresponde al Ejecutivo del Estado quien a través de la Unidad de Reinserción, será competente de la ejecución de penas y medidas judiciales, así como de las condiciones de su cumplimiento.
 
 ###### Artículo 5.
 
@@ -125,7 +139,9 @@ De los derechos y obligaciones del imputado y sentenciado.
 
 El imputado o sentenciado podrá ejercer, durante la ejecución de las medidas judiciales o penas impuestas, los derechos y las facultades que las leyes sustantivas y adjetivas penales, penitenciarias y los reglamentos le otorguen ante las autoridades correspondientes.
 
-Los derechos, beneficios y obligaciones que esta Ley prevé para el sentenciado le serán informados por la autoridad penitenciaria desde el momento en que sea puesto a disposición material de la Subsecretaría para ejecutar su sentencia.
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
+
+Los derechos, beneficios y obligaciones que esta Ley prevé para el sentenciado le serán informados por la autoridad penitenciaria desde el momento en que sea puesto a disposición material de la Unidad de Reinserción para ejecutar su sentencia.
 
 ## TÍTULO SEGUNDO. DE LAS AUTORIDADES Y SU COMPETENCIA EN MATERIA DE REINSERCIÓN SOCIAL Y MEDIDAS CAUTELARES
 
@@ -143,7 +159,9 @@ Sentencia en procedimiento abreviado.
 
 Cuando el Juez de Control dicte sentencia en procedimiento abreviado que resulte condenatoria para el acusado, el Juez de Ejecución de Sanciones correspondiente tendrá a su cargo las controversias que puedan surgir durante la ejecución de las penas o medidas de seguridad impuestas en la resolución.
 
-Si la sentencia en procedimiento abreviado resulta absolutoria para el imputado el propio Juez de Control remitirá su resolución a la Subsecretaría, para que se ejecute la revocación de las medidas cautelares impuestas, en su caso.
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
+
+Si la sentencia en procedimiento abreviado resulta absolutoria para el imputado el propio Juez de Control remitirá su resolución a la Unidad de Reinserción, para que se ejecute la revocación de las medidas cautelares impuestas, en su caso.
 
 ### CAPÍTULO SEGUNDO. DEL JUEZ DE EJECUCIÓN DE SANCIONES
 
@@ -151,7 +169,9 @@ Si la sentencia en procedimiento abreviado resulta absolutoria para el imputado 
 
 Jueces de Tribunal de Juicio Oral.
 
-Los Jueces integrantes de los Tribunales de Juicio Oral o de Control en materia Penal fungirán, en lo individual, siempre que no hayan participado en el proceso penal en el que se dictó la sentencia, como Jueces de Ejecución de Sanciones en el Estado, dentro del Distrito Judicial correspondiente, con la posibilidad de prorrogar su jurisdicción a otros distritos, de conformidad con las disposiciones generales que el H. Tribunal de Justicia del Estado dicte, en los términos de las facultades otorgadas al Pleno en la ley orgánica respectiva.
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
+
+Los Jueces integrantes de los Tribunales de Juicio Oral o de Control en materia Penal fungirán, en lo individual, siempre que no hayan participado en el proceso penal en el que se dictó la sentencia, como Jueces de Ejecución de Sanciones en el Estado, dentro del Distrito Judicial correspondiente, con la posibilidad de extender su jurisdicción a otros distritos, de conformidad con las disposiciones generales que el Tribunal de Justicia del Estado dicte, en los términos de las facultades otorgadas al Pleno en la Ley Orgánica respectiva.
 
 ###### Artículo 9.
 
@@ -181,7 +201,9 @@ Audiencia ante el Juez de Ejecución de Sanciones.
 
 El Juez de Ejecución de Sanciones para llevar a cabo la audiencia a que se refiere la fracción VI del artículo 9 de la presente Ley, se sujetará a los principios que rigen la audiencia de debate de juicio oral y a las siguientes reglas:
 
-I. Notificará previamente a los intervinientes, entre ellos a la víctima u ofendido, al menos con siete días de anticipación a la celebración de la audiencia. Es imprescindible la presencia del Agente del Ministerio Público, el, o los funcionarios de la Subsecretaría que sean designados para tal efecto, el, o la sentenciada y su defensor. La presencia de la víctima u ofendido no será requisito de validez para la celebración de la audiencia, cuando por cualquier circunstancia no pudiere comparecer, o no sea su deseo hacerlo y quede constancia de ello.
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2013)</small>
+
+I. Notificará previamente a los intervinientes, entre ellos a la víctima u ofendido, al menos con siete días de anticipación a la celebración de la audiencia. Es imprescindible la presencia del Agente del Ministerio Público, el o los funcionarios de la Unidad de Reinserción que sean designados para tal efecto, el o la sentenciada y su defensor. La presencia de la víctima u ofendido no será requisito de validez para la celebración de la audiencia, cuando por cualquier circunstancia no pudiere comparecer, o no sea su deseo hacerlo y quede constancia de ello.
 
 II. Si se requiere producción de prueba con el fin de sustentar la revisión, sustitución, modificación, revocación o cese de la pena o medida de seguridad impuesta, la parte oferente deberá anunciarla con tres días de anticipación para los efectos de dar oportunidad a su contraria, para que tenga conocimiento de la misma y esté en aptitud de ofrecer prueba de su parte.
 
@@ -193,7 +215,9 @@ V. Las resoluciones deberán emitirse inmediatamente después de concluido el de
 
 VI. El Juez de Ejecución valorará los medios de prueba rendidos en la audiencia, conforme a las reglas generales establecidas para las audiencias de debate de juicio oral.
 
-VII. De la resolución pronunciada en la audiencia a que se refieren los incisos anteriores, deberá entregarse copia del archivo a la Subsecretaría y a la Procuraduría General de Justicia del Estado, para su conocimiento.
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2013)</small>
+
+VII. De la resolución pronunciada en la audiencia a que se refieren los incisos anteriores, deberá entregarse copia del archivo a la Unidad de Reinserción y a la Procuraduría General de Justicia del Estado, para su conocimiento.
 
 ###### Artículo 11.
 
@@ -201,7 +225,9 @@ Apertura de la audiencia.
 
 El día y hora fijados para la celebración de la audiencia, la autoridad ejecutora se constituirá en la sala de audiencias con la asistencia de los intervinientes. Verificará las condiciones para que se rinda en su caso la prueba ofrecida. La declarará iniciada e identificará a los intervinientes; dará una breve explicación de los motivos de la audiencia y una lectura resumida del auto en el que acordó la celebración de la audiencia.
 
-Acto seguido, procederá a dar el uso de la palabra a los intervinientes de la siguiente manera: En primer lugar al oferente de la petición o solicitud respectiva; si es el defensor, enseguida se dará el uso de la palabra al sentenciado; luego al Agente del Ministerio Público, al funcionario de la Subsecretaría y si está presente en la audiencia, a la víctima u ofendido. Al arbitrio del Juez de Ejecución quedará la concesión del derecho de réplica y dúplica, cuando el debate así lo requiera. A continuación, declarará cerrado el debate y dictará la resolución procedente.
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
+
+Acto seguido, procederá a dar el uso de la palabra a los intervinientes de la siguiente manera: En primer lugar al oferente de la petición o solicitud respectiva; si es el defensor, enseguida se dará el uso de la palabra al sentenciado; luego al Agente del Ministerio Público, al funcionario de la Unidad de Reinserción y si está presente en la audiencia, a la víctima u ofendido. Al arbitrio del Juez de Ejecución quedará la concesión del derecho de réplica y dúplica, cuando el debate así lo requiera. A continuación, declarará cerrado el debate y dictará la resolución procedente.
 
 ###### Artículo 12.
 
@@ -209,7 +235,9 @@ Resoluciones del Juez de Ejecución de Sanciones.
 
 Para emitir sus resoluciones, los Jueces de Ejecución de Sanciones se ajustarán a las normas procesales siguientes:
 
-I.- Tratándose de pena o medida de seguridad impuesta por sentencia definitiva que haya causado ejecutoria, al recibir copia certificada de ésta, dará inicio al procedimiento de ejecución de sentencia, realizando la notificación a la Subsecretaría, al sentenciado, su defensor y al Ministerio Público, y
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2013)</small>
+
+I.- Tratándose de pena o medida de seguridad impuesta por sentencia definitiva que haya causado ejecutoria, al recibir copia certificada de ésta, dará inicio al procedimiento de ejecución de sentencia, realizando la notificación a la Unidad de Reinserción, al sentenciado, su defensor y al Ministerio Público, y
 
 II.- Las notificaciones y los actos procesales relativos a los medios de prueba, en el procedimiento de ejecución de sentencia, se ajustará a las directrices generales que se contienen en el Código de Procedimientos Penales.
 
@@ -219,25 +247,35 @@ Impugnabilidad de las resoluciones.
 
 Las resoluciones emitidas por los Jueces de Ejecución de Sanciones respecto a la situación jurídica de los sentenciados, serán impugnables ante la instancia correspondiente.
 
-### CAPÍTULO TERCERO. DE LA SUBSECRETARÍA DE REINSERCIÓN SOCIAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE ABRIL DE 2013)</small>
+
+### CAPÍTULO TERCERO. DE LA UNIDAD DE REINSERCIÓN SOCIAL
+
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
 
 ###### Artículo 14.
 
 De la integración.
 
-La Subsecretaría estará integrada por las Direcciones Generales necesarias para su adecuado funcionamiento en el marco, de la Reinserción Social normada en el Artículo 18 Constitucional.
+La Unidad de Reinserción Social estará integrada por las áreas necesarias para su adecuado funcionamiento en el marco de la Reinserción Social, normada en el artículo 18 Constitucional.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ABRIL DE 2013)</small>
 
 ###### Artículo 15.
 
-De las facultades de la Subsecretaria:
+De las facultades de la Unidad de Reinserción:
 
-A la Subsecretaría de Reinserción Social le corresponderá:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ABRIL DE 2013)</small>
+
+A la Unidad de Reinserción le corresponderá:
 
 I.- En materia de la aplicación y supervisión de las medidas cautelares y providencias precautorias:
 
 a) Realizar la evaluación de riesgos de cada imputado cuando esté detenido por el Ministerio Público antes de la audiencia de control de la Detención;
 
-b) Proponer información necesaria al Ministerio Público y la Defensa sugiriendo la medida cautelar más apropiada basada en el análisis de factores, circunstancias y perfil de cada detenido;
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
+
+b) Proporcionar información necesaria al Ministerio Público y la Defensa sugiriendo la medida cautelar más apropiada basada en el análisis de factores, circunstancias y perfil de cada detenido;
 
 c) Proporcionar a las partes la información necesaria para que éstas aporten los antecedentes necesarios a los jueces para que decidan sobre la necesidad de imponer, modificar, adicionar o extinguir medidas cautelares, de modo que el imputado cumpla con sus obligaciones procesales;
 
@@ -259,7 +297,9 @@ b) Organizar, supervisar y administrar los establecimientos penitenciarios en el
 
 c) Trasladar, custodiar, vigilar y brindar tratamiento a toda persona que fuere privada de su libertad por orden de los Tribunales del Estado o de la autoridad competente, desde el momento de su ingreso a cualquier establecimiento;
 
-d) Elaborar los proyectos y proponer al titular del Poder Ejecutivo, por conducto del Secretario de Seguridad Pública las disposiciones normativas en materia penitenciaria; vigilar el cumplimiento de la Ley, su Reglamento y demás lineamientos de carácter interno de los establecimientos penitenciarios, con estricto apego al principio de no discriminación por género o de cualquier tipo y vigilar su exacta aplicación;
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
+
+d) Elaborar los proyectos y proponer al Titular del Poder Ejecutivo, por conducto del Secretario de Gobierno, las disposiciones normativas en materia penitenciaria; vigilar el cumplimiento de la Ley, su Reglamento y demás lineamientos de carácter interno de los establecimientos penitenciarios, con estricto apego al principio de no discriminación por género o de cualquier tipo y vigilar su exacta aplicación;
 
 e) Instituir tratamientos adecuados a las personas internas, reglamentando su trabajo, sus actividades culturales, sociales, deportivas y otras, garantizando que estos tratamientos y reglamentos estén libres de estereotipos de género;
 
@@ -271,11 +311,15 @@ h) Conocer de las peticiones que sobre beneficios hagan los sentenciados con pen
 
 i) Las demás que otras leyes y reglamentos establezcan.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ABRIL DE 2013)</small>
+
 ###### Artículo 16.
 
-De la competencia de la Subsecretaría.
+De la competencia de la Unidad de Reinserción.
 
-La Subsecretaría informará al Ministerio Público sobre la ejecución de la medida cautelar impuesta o de las condiciones a cumplir durante la suspensión del proceso condicional a prueba, y solicitará la intervención de la policía para el cumplimiento de la medida.
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
+
+La Unidad de Reinserción informará al Ministerio Público sobre la ejecución de la medida cautelar impuesta o de las condiciones a cumplir durante la suspensión del proceso condicional a prueba, y solicitará la intervención de la policía para el cumplimiento de la medida.
 
 La información al respecto deberá incluirse a la carpeta de investigación para conocimiento de la defensa.
 
@@ -283,9 +327,13 @@ La información al respecto deberá incluirse a la carpeta de investigación par
 
 De la vigilancia y ejecución de la pena o medida impuesta en procedimiento abreviado.
 
-Cuando el Juez de Control dicte sentencia en procedimiento abreviado que resulte condenatoria para el acusado, la Subsecretaría tendrá a su cargo la vigilancia de la ejecución de las penas o medidas de seguridad impuestas en la resolución.
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
 
-Si la sentencia en procedimiento abreviado resulta absolutoria para el imputado, el propio Juez de Control remitirá su resolución a la Subsecretaría, para que se ejecute la revocación de las medidas cautelares impuestas, en su caso.
+Cuando el Juez de Control dicte sentencia en procedimiento abreviado que resulte condenatoria para el acusado, la Unidad de Reinserción tendrá a su cargo la vigilancia de la ejecución de las penas o medidas de seguridad impuestas en la resolución.
+
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
+
+Si la sentencia en procedimiento abreviado resulta absolutoria para el imputado, el propio Juez de Control remitirá su resolución a la Unidad de Reinserción, para que se ejecute la revocación de las medidas cautelares impuestas, en su caso.
 
 ### CAPÍTULO CUARTO. AUTORIDADES AUXILIARES
 
@@ -293,13 +341,19 @@ Si la sentencia en procedimiento abreviado resulta absolutoria para el imputado,
 
 De las autoridades auxiliares.
 
-Las autoridades auxiliares en materia de reinserción social deberán de coordinarse con la subsecretaría y el poder judicial a efecto de brindar auxilio en la ejecución de las medidas de seguridad y sanciones, en sus respectivos ámbitos de competencia y de conformidad con lo que establezca la presente Ley y su Reglamento. Serán autoridades auxiliares las siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ABRIL DE 2013)</small>
 
-I. La Secretaría de Finanzas y Planeación;
+Las autoridades auxiliares en materia de reinserción social deberán de coordinarse con la Unidad de Reinserción y el Poder Judicial a efecto de brindar auxilio en la ejecución de las medidas de seguridad y sanciones, en sus respectivos ámbitos de competencia y de conformidad con lo que establezca la presente Ley y su Reglamento. Serán autoridades auxiliares las siguientes:
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2013)</small>
+
+I. La Secretaría de Hacienda;
 
 II. La Secretaría de Gobierno;
 
-III. La Secretaría del Trabajo y Productividad;
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2013)</small>
+
+III. La Secretaría del Trabajo;
 
 IV. La Secretaría de Seguridad Pública;
 
@@ -309,7 +363,9 @@ VI. La Secretaría de Salud;
 
 VII. La Secretaría de Educación, y
 
-VIII. La Secretaría de Desarrollo Humano y Social.
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2013)</small>
+
+VIII. La Secretaría de Desarrollo Social.
 
 ## TÍTULO TERCERO. DE LA REINSERCIÓN SOCIAL Y MEDIDAS CAUTELARES PARA ADULTOS
 
@@ -321,7 +377,9 @@ Evaluación de Riesgos.
 
 La evaluación de riesgos es el análisis de las circunstancias personales, y socieconómicas (sic) y las demás que la autoridad determine, a petición de las partes, a efecto de imponer la medida cautelar idónea al imputado.
 
-La Subsecretaría realizará la evaluación conforme al reglamento de esta Ley.
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
+
+La Unidad de Reinserción realizará la evaluación conforme al Reglamento de esta Ley.
 
 ### CAPÍTULO SEGUNDO. EJECUCIÓN Y SEGUIMIENTO DE MEDIDAS CAUTELARES PERSONALES
 
@@ -347,7 +405,9 @@ La Secretaría establecerá un lugar específico para el resguardo del pasaporte
 
 Prohibición de salir de la localidad o del ámbito territorial.
 
-Si la medida cautelar consiste en la prohibición de salir de la localidad de residencia del imputado o de la circunscripción territorial del Estado, se comunicará el proveído a las policiales municipales y a las estatales y prevendrá al imputado para que se presente ante la autoridad municipal de su localidad, con la periodicidad que el propio Juez de Control establezca al fijar la medida. Durante la ejecución de esta medida, el imputado deberá comunicar a la Subsecretaría su cambio de domicilio y cualquier otra circunstancia que permita su localización. En caso de incumplimiento, la Subsecretaría dará aviso oportuno para los efectos procesales a que haya lugar.
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
+
+Si la medida cautelar consiste en la prohibición de salir de la localidad de residencia del imputado o de la circunscripción territorial del Estado, se comunicará el proveído a las policiales municipales y a las estatales y prevendrá al imputado para que se presente ante la autoridad municipal de su localidad, con la periodicidad que el propio Juez de Control establezca al fijar la medida. Durante la ejecución de esta medida, el imputado deberá comunicar a la Unidad de Reinserción su cambio de domicilio y cualquier otra circunstancia que permita su localización. En caso de incumplimiento, la Unidad de Reinserción dará aviso oportuno para los efectos procesales a que haya lugar.
 
 #### SECCIÓN 3. PRESENTACIÓN ANTE EL JUEZ DE CONTROL U OTRA AUTORIDAD
 
@@ -359,13 +419,15 @@ Al dictarse la medida cautelar de presentación periódica, el sometido a la med
 
 La presentación a que se refiere el párrafo anterior se hará sin perjuicio de que el imputado pueda ser requerido en cualquier momento por el juzgador.
 
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
+
 ###### Artículo 24.
 
-Presentación ante la Subsecretaría u otra autoridad.
+Presentación ante la Unidad de Reinserción u otra autoridad.
 
-Si corresponde aplicar la medida cautelar de presentación periódica ante la Subsecretaría u otra autoridad, la persona sometida a la medida acudirá ante la Dependencia que se señale, con la periodicidad que se haya determinado, a efecto de informar sobre sus actividades.
+Si corresponde aplicar la medida cautelar de presentación periódica ante la Unidad de Reinserción u otra autoridad, la persona sometida a la medida acudirá ante la Dependencia que se señale, con la periodicidad que se haya determinado, a efecto de informar sobre sus actividades.
 
-La presentación a que se refiere el párrafo anterior se hará sin perjuicio de que el imputado pueda ser requerido en cualquier momento por el juzgador. Al dictarse la medida, el Juez de Control dará aviso inmediato a la Subsecretaría, a efecto de estar en posibilidades de ejecutarla. Cuando la medida deba ejecutarse en algún distrito judicial donde la Subsecretaría no tenga representación administrativa, dicha dependencia coordinará y vigilará su ejecución, por conducto de las autoridades municipales con las que tenga celebrados convenios de colaboración, llevando un registro permanente sobre el cumplimiento de la medida en aquellas instancias. En cualquier caso, la Subsecretaría informará oportunamente al Ministerio Público sobre el cumplimiento de la medida, quien integrará el informe a la carpeta de investigación, para hacerlo del conocimiento de la Defensa.
+La presentación a que se refiere el párrafo anterior se hará sin perjuicio de que el imputado pueda ser requerido en cualquier momento por el juzgador. Al dictarse la medida, el Juez de Control dará aviso inmediato a la Unidad de Reinserción, a efecto de estar en posibilidades de ejecutarla. Cuando la medida deba ejecutarse en algún distrito judicial donde la Unidad de Reinserción no tenga representación administrativa, dicha dependencia coordinará y vigilará su ejecución, por conducto de las autoridades municipales con las que tenga celebrados convenios de colaboración, llevando un registro permanente sobre el cumplimiento de la medida en aquellas instancias. En cualquier caso, la Unidad de Reinserción informará oportunamente al Ministerio Público sobre el cumplimiento de la medida, quien integrará el informe a la carpeta de investigación, para hacerlo del conocimiento de la Defensa.
 
 #### SECCIÓN 4. LOCALIZADORES ELECTRÓNICOS
 
@@ -373,9 +435,13 @@ La presentación a que se refiere el párrafo anterior se hará sin perjuicio de
 
 Sistema de monitoreo electrónico.
 
-Al dictarse la medida cautelar de fijación de localizadores electrónicos a distancia al imputado, la resolución del Juez de Control se comunicará directamente a la Subsecretaría, a efecto de que dicha autoridad la ejecute.
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
 
-La ejecución de la medida estará sujeta a la normatividad reglamentaria sobre el Programa de Monitoreo Electrónico a Distancia, que al efecto emita la Secretaría.
+Al dictarse la medida cautelar de fijación de localizadores electrónicos a distancia al imputado, la resolución del Juez de Control se comunicará directamente a la Unidad de Reinserción, a efecto de que dicha autoridad la ejecute.
+
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
+
+La ejecución de la medida estará sujeta a la normatividad reglamentaria sobre el Programa de Monitoreo Electrónico a Distancia, que al efecto emita el Poder Ejecutivo del Estado.
 
 #### SECCIÓN 5. OBLIGACIÓN DE LA PRESENTACIÓN A SOMETERSE AL CUIDADO O VIGILANCIA DE UNA PERSONA O INSTITUCIÓN DETERMINADA
 
@@ -383,7 +449,9 @@ La ejecución de la medida estará sujeta a la normatividad reglamentaria sobre 
 
 Ejecución de la medida.
 
-Cuando durante el procedimiento penal se determine la medida cautelar de someterse al cuidado o vigilancia, de alguna persona o institución determinada por el Juez de Control, o dicha particularidad se imponga como condición en la suspensión condicional del proceso a prueba, se señalará, a quien resulte responsable de la ejecución, las modalidades que con la medida o condición se habrán de cumplir, así como la periodicidad con la que deberá informar de dichas modalidades a la Subsecretaría.
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
+
+Cuando durante el procedimiento penal se determine la medida cautelar de someterse al cuidado o vigilancia, de alguna persona o institución determinada por el Juez de Control, o dicha particularidad se imponga como condición en la suspensión condicional del proceso a prueba, se señalará, a quien resulte responsable de la ejecución, las modalidades que con la medida o condición se habrán de cumplir, así como la periodicidad con la que deberá informar de dichas modalidades a la Unidad de Reinserción.
 
 #### SECCIÓN 6. ARRAIGO DOMICILIARIO
 
@@ -435,7 +503,9 @@ Si se decreta la medida cautelar de separación del domicilio del imputado, se c
 
 Ejecución de la medida.
 
-Al pronunciarse sobre la imposición de medidas cautelares, el Juez de Control podrá decretar el internamiento del imputado en centro de salud u hospital psiquiátrico, cuando su estado de salud así lo amerite. De verificarse lo anterior, se remitirá la resolución a la Secretaría de Salud, que auxiliará a la Subsecretaría en la vigilancia de la medida en centros de salud u hospitales públicos o privados, tomando en cuenta la elección del imputado o de sus representantes, y de acuerdo con las posibilidades económicas del mismo. Durante la ejecución, la Secretaría de Salud informará periódicamente y en su caso podrá opinar sobre la conveniencia de mantener, revisar, sustituir, modificar o cancelar la medida.
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
+
+Al pronunciarse sobre la imposición de medidas cautelares, el Juez de Control podrá decretar el internamiento del imputado en centro de salud u hospital psiquiátrico, cuando su estado de salud así lo amerite. De verificarse lo anterior, se remitirá la resolución a la Secretaría de Salud, que auxiliará a la Unidad de Reinserción en la vigilancia de la medida en centros de salud u hospitales públicos o privados, tomando en cuenta la elección del imputado o de sus representantes, y de acuerdo con las posibilidades económicas del mismo. Durante la ejecución, la Secretaría de Salud informará periódicamente y en su caso podrá opinar sobre la conveniencia de mantener, revisar, sustituir, modificar o cancelar la medida.
 
 #### SECCIÓN 4. PROHIBICIÓN DE SALIR DE UN LUGAR DETERMINADO ENTRE CIERTAS HORAS
 
@@ -443,7 +513,9 @@ Al pronunciarse sobre la imposición de medidas cautelares, el Juez de Control p
 
 Ejecución de la medida.
 
-Al determinarse la medida de observación de buena conducta individual, familiar y social, se comunicará la resolución a la secretaría de Desarrollo Humano y Social para que por conducto del Sistema DIF Morelos o las autoridades correspondientes sea ejercida la vigilancia pertinente sobre el imputado en el cumplimiento de esa determinación, realizando las visitas domiciliarias y entrevistas que las autoridades estimen pertinentes. La autoridad ejecutora informará sobre el cumplimiento.
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
+
+Al determinarse la medida de observación de buena conducta individual, familiar y social, se comunicará la resolución a la Secretaría de Desarrollo Social para que por conducto del Sistema DIF Morelos o las autoridades correspondientes sea ejercida la vigilancia pertinente sobre el imputado en el cumplimiento de esa determinación, realizando las visitas domiciliarias y entrevistas que las autoridades estimen pertinentes. La autoridad ejecutora informará sobre el cumplimiento.
 
 #### SECCIÓN 5. PRISIÓN PREVENTIVA
 
@@ -459,13 +531,17 @@ Al determinarse la medida de prohibición de salir de un lugar determinado entre
 
 Establecimiento Penitenciario.
 
-La ejecución de la medida cautelar de prisión preventiva será cumplida en el establecimiento penitenciario que designe el Ejecutivo del Estado, por conducto de la Subsecretaría.
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
+
+La ejecución de la medida cautelar de prisión preventiva será cumplida en el establecimiento penitenciario que designe el Ejecutivo del Estado, por conducto de la Unidad de Reinserción.
 
 ###### Artículo 36.
 
 Cumplimiento de la medida.
 
-El Juez de Control remitirá su resolución a la Subsecretaría, la que formará el expediente respectivo, para el debido y exacto cumplimiento de la medida. El sitio destinado para cumplir la prisión preventiva será distinto a aquél en el que se ejecute la pena de prisión el cual deberá estar completamente separado. Las mujeres quedarán recluidas en lugares diferentes al de los hombres, y los adolescentes de los adultos.
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
+
+El Juez de Control remitirá su resolución a la Unidad de Reinserción, la que formará el expediente respectivo, para el debido y exacto cumplimiento de la medida. El sitio destinado para cumplir la prisión preventiva será distinto a aquél en el que se ejecute la pena de prisión el cual deberá estar completamente separado. Las mujeres quedarán recluidas en lugares diferentes al de los hombres, y los adolescentes de los adultos.
 
 ###### Artículo 37.
 
@@ -483,7 +559,9 @@ Los imputados sometidos a prisión preventiva podrán trabajar conforme a sus ap
 
 Evaluación del imputado.
 
-Desde que el imputado quede sujeto a proceso penal, deberán realizarse los Estudios de personalidad integral en los aspectos médicos, psicológicos, sociales, pedagógicos, familiares y ocupacionales, enviando un ejemplar del estudio a la Subsecretaría, quien informará al Ministerio Público y dicha información deberá incluirse a la carpeta de investigación para conocimiento de la defensa.
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
+
+Desde que el imputado quede sujeto a proceso penal, deberán realizarse los Estudios de personalidad integral en los aspectos médicos, psicológicos, sociales, pedagógicos, familiares y ocupacionales, enviando un ejemplar del estudio a la Unidad de Reinserción, quien informará al Ministerio Público y dicha información deberá incluirse a la carpeta de investigación para conocimiento de la defensa.
 
 ###### Artículo 40.
 
@@ -497,7 +575,9 @@ Serán aplicables para el cumplimiento de la prisión preventiva, en lo conducen
 
 Embargo precautorio.
 
-Al decretarse la medida cautelar de embargo precautorio, se remitirá la resolución a la Secretaría de Finanzas y Planeación, para los efectos del Capítulo V, Título Séptimo, del Código de Procedimientos Penales.
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
+
+Al decretarse la medida cautelar de embargo precautorio, se remitirá la resolución a la Secretaría de Hacienda, para los efectos del Capítulo Quinto del Título VII, del Código de Procedimientos Penales del Estado de Morelos, publicado el 22 de noviembre de 2007.
 
 ### CAPÍTULO QUINTO. EJECUCIÓN DE LAS CONDICIONES DURANTE LA SUSPENSIÓN CONDICIONAL DEL PROCESO
 
@@ -505,23 +585,35 @@ Al decretarse la medida cautelar de embargo precautorio, se remitirá la resoluc
 
 Coordinación para la ejecución y vigilancia de las condiciones.
 
-La coordinación interinstitucional para la ejecución y vigilancia de las condiciones por cumplir, durante la suspensión del proceso a prueba, en los términos del Código de Procedimientos Penales, se llevará a cabo de la siguiente manera:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ABRIL DE 2013)</small>
+
+La coordinación interinstitucional para la ejecución y vigilancia de las condiciones por cumplir, durante la suspensión del proceso a prueba, en los términos del Código de Procedimientos Penales referido en el artículo precedente, se llevará a cabo de la siguiente manera:
 
 I.- Residir en un lugar determinado.- Se sujetará a las disposiciones de ejecución de la medida cautelar de prohibición de salir del ámbito territorial que fije el Juez de Control;
 
 II.- Frecuentar o dejar de frecuentar determinados lugares o personas.- Se sujetará a las disposiciones de ejecución de las medidas cautelares de prohibición de concurrir a determinadas reuniones o de visitar ciertos lugares y de convivir o comunicarse con personas determinadas;
 
-III.- Abstenerse de consumir drogas o estupefacientes o de abusar de las bebidas alcohólicas.- Quedará sujeta a la revisión de la Subsecretaría con el auxilio de la Secretaría de Salud, la que por conducto de las instituciones correspondientes, y a solicitud de la Subsecretaría, practicará periódicamente exámenes, evaluaciones u otro tipo de procedimientos de demostración, informando oportunamente de ello, para los efectos procesales conducentes;
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2013)</small>
 
-IV.- Participar en programas especiales para la prevención y tratamiento de adicciones.- Quedará sujeta a la revisión por parte de la Subsecretaria con el auxilio de la Secretaría de Salud, que incorporará al imputado para su participación en dichos programas, informando sobre su cumplimiento;
+III.- Abstenerse de consumir drogas o estupefacientes o de abusar de las bebidas alcohólicas.- Quedará sujeta a la revisión de la Unidad de Reinserción con el auxilio de la Secretaría de Salud, la que por conducto de las instituciones correspondientes, y a solicitud de la Unidad de Reinserción, practicará periódicamente exámenes, evaluaciones u otro tipo de procedimientos de demostración, informando oportunamente de ello, para los efectos procesales conducentes;
 
-V.- Comenzar o finalizar la escolaridad básica si no la ha cumplido; aprender una profesión u oficio o seguir cursos de capacitación en el lugar o la institución que determine el Juez de Control.- Quedará sujeta a la revisión por parte de la Subsecretaría con el auxilio de la Secretaría de Educación, que dará seguimiento a la incorporación del imputado a alguno de los establecimientos penitenciarios que ofrezcan servicios educativos o de capacitación para el trabajo, informando a la Subsecretaria sobre los avances programáticos que alcance el imputado, así como de la culminación de los estudios, en su caso;
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2013)</small>
 
-VI.- Prestar servicio social a favor del Estado o de instituciones de beneficencia pública o privada.- Quedará sujeta a la revisión de la Subsecretaría con auxilio de la Secretaría de Desarrollo Humano, la que inscribirá al imputado en un listado especial de prestadores de servicio y le indicará la institución en la que deba realizarse, el horario en el que se cumplirá, así como las labores que desempeñará. Asimismo, auxiliará en la supervisión en el trabajo del imputado periódicamente, e informará sobre su cumplimiento;
+IV.- Participar en programas especiales para la prevención y tratamiento de adicciones.- Quedará sujeta a la revisión por parte de la Unidad de Reinserción con el auxilio de la Secretaría de Salud, que incorporará al imputado para su participación en dichos programas, informando sobre su cumplimiento;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2013)</small>
+
+V.- Comenzar o finalizar la escolaridad básica si no la ha cumplido; aprender una profesión u oficio o seguir cursos de capacitación en el lugar o la institución que determine el Juez de Control.- Quedará sujeta a la revisión por parte de la Unidad de Reinserción con el auxilio de la Secretaría de Educación, que dará seguimiento a la incorporación del imputado a alguno de los establecimientos penitenciarios que ofrezcan servicios educativos o de capacitación para el trabajo, informando a la mencionada Unidad sobre los avances programáticos que alcance el imputado, así como de la culminación de los estudios, en su caso;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2013)</small>
+
+VI.- Prestar servicio social a favor del Estado o de instituciones de beneficencia pública o privada.- Quedará sujeta a la revisión de la Unidad de Reinserción con auxilio de la Secretaría de Desarrollo Social, la que inscribirá al imputado en un listado especial de prestadores de servicio y le indicará la institución en la que deba realizarse, el horario en el que se cumplirá, así como las labores que desempeñará. Asimismo, auxiliará en la supervisión en el trabajo del imputado periódicamente, e informará sobre su cumplimiento;
 
 VII.- Someterse a tratamiento médico o psicológico, de preferencia en instituciones públicas.- Se sujetará, en lo conducente, a las disposiciones de ejecución de la medida cautelar de internamiento en centro de salud u hospital psiquiátrico;
 
-VIII.- Permanecer en un trabajo o empleo, o adquirir, en el plazo que el Juez de Control determine, un oficio, arte, industria o profesión, si no tiene medios propios de subsistencia.- Se sujetará, en lo conducente, a lo dispuesto en la fracción V del presente artículo. Si la condición consiste en conseguir trabajo, oficio o empleo, se dará intervención a la dependencia de la Secretaría del Trabajo y Productividad del Estado;
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2013)</small>
+
+VIII.- Permanecer en un trabajo o empleo, o adquirir, en el plazo que el Juez de Control determine, un oficio, arte, industria o profesión, si no tiene medios propios de subsistencia.- Se sujetará, en lo conducente, a lo dispuesto en la fracción V del presente artículo. Si la condición consiste en conseguir empleo, se dará intervención a la dependencia de la Secretaría del Trabajo del Estado;
 
 IX.- Someterse a la vigilancia que determine el Juez de Control.- Se sujetará a las disposiciones de ejecución de la medida cautelar de sometimiento al cuidado o vigilancia de una persona o institución determinada que informe regularmente al Juez;
 
@@ -537,19 +629,25 @@ XII.- Cumplir con los deberes de deudor alimentario.- En su cumplimiento, quedar
 
 Irregularidades o incumplimiento de las medidas.
 
-Si durante el período de cumplimiento de las medidas cautelares o condiciones, la autoridad, persona o institución auxiliar observa o da cuenta de incumplimiento o de cualquier irregularidad, dará aviso inmediato a la Subsecretaría, que a su vez informará al Ministerio Público para los efectos legales procesales.
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
+
+Si durante el período de cumplimiento de las medidas cautelares o condiciones, la autoridad, persona o institución auxiliar observa o da cuenta de incumplimiento o de cualquier irregularidad, dará aviso inmediato a la Unidad de Reinserción, que a su vez informará al Ministerio Público para los efectos legales procesales.
 
 ###### Artículo 44.
 
 Sustitución, modificación o cancelación de las medidas cautelares o condiciones.
 
-Cuando se modifiquen, sustituyan o cancelen las medidas cautelares impuestas al imputado, el Juez de Control informará a la Subsecretaría dicha determinación, así como de la revocación o cesación provisional de los efectos de la suspensión del proceso a prueba, en su caso.
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
+
+Cuando se modifiquen, sustituyan o cancelen las medidas cautelares impuestas al imputado, el Juez de Control informará a la Unidad de Reinserción dicha determinación, así como de la revocación o cesación provisional de los efectos de la suspensión del proceso a prueba, en su caso.
+
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
 
 ###### Artículo 45.
 
-Ente coordinador.
+Coordinación de comunicaciones.
 
-La comunicación entre el Ministerio Público y la Defensa y las autoridades señaladas como auxiliares, salvo disposición en contrario, se llevará a cabo por conducto de la Subsecretaría, quien además llevará un registro general sobre las medidas cautelares y condiciones decretadas, la sustitución, modificación o cancelación de las primeras, así como de la revocación o cesación provisional de las segundas.
+La comunicación entre el Ministerio Público y la Defensa y las autoridades señaladas como auxiliares, salvo disposición en contrario, se llevará a cabo por conducto de la Unidad de Reinserción, quien además llevará un registro general sobre las medidas cautelares y condiciones decretadas, la sustitución, modificación o cancelación de las primeras, así como de la revocación o cesación provisional de las segundas.
 
 ### CAPÍTULO SÉPTIMO. DE LA EJECUCIÓN DE LAS PENAS Y MEDIDAS DE SEGURIDAD
 
@@ -567,7 +665,9 @@ a) Si el sentenciado estuviere sujeto a prisión preventiva, ponerlo a disposici
 
 b) Si el sentenciado estuviere en libertad, ordenar inmediatamente su aprehensión y, una vez efectuada, proceder de conformidad con el inciso anterior, y
 
-II.- Tratándose de penas alternativas a la privativa de la libertad, remitir copia de la sentencia a la Subsecretaría, a efecto de que ésta se coordine, en los términos de la presente Ley, con la institución encargada de su ejecución.
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2013)</small>
+
+II.- Tratándose de penas alternativas a la privativa de la libertad, remitir copia de la sentencia a la Unidad de Reinserción, a efecto de que ésta se coordine, en los términos de la presente Ley, con la institución encargada de su ejecución.
 
 #### SECCIÓN 3. MODALIDADES A LA PENA DE PRISIÓN
 
@@ -575,7 +675,9 @@ II.- Tratándose de penas alternativas a la privativa de la libertad, remitir co
 
 Centro de Reinserción Social.
 
-La pena privativa de la libertad será compurgada en los establecimientos penitenciarios que designe el Ejecutivo del Estado por conducto de la Subsecretaría.
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
+
+La pena privativa de la libertad será compurgada en los establecimientos penitenciarios que designe el Ejecutivo del Estado por conducto de la Unidad de Reinserción.
 
 ###### Artículo 48.
 
@@ -593,7 +695,9 @@ En las secciones o establecimientos penitenciarios destinados a las mujeres, la 
 
 Instalaciones adecuadas.
 
-Todos los establecimientos penitenciarios en el Estado adoptarán las medidas necesarias a efecto de que los mismos cuenten con las instalaciones adecuadas para los internos hombres y mujeres. La Subsecretaría vigilará que se cumpla con esta disposición.
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
+
+Todos los establecimientos penitenciarios en el Estado adoptarán las medidas necesarias a efecto de que los mismos cuenten con las instalaciones adecuadas para los internos hombres y mujeres. La Unidad de Reinserción vigilará que se cumpla con esta disposición.
 
 ###### Artículo 51.
 
@@ -631,13 +735,19 @@ El internamiento de fin de semana quedará sujeto a las siguientes reglas:
 
 I.- Tendrá lugar desde las veinte horas del día viernes hasta las veinte horas del día domingo;
 
-II.- Su cumplimiento se verificará en el establecimiento penitenciario que designe la Subsecretaría, separadamente a los internos que compurgan la pena de prisión sin modalidades;
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2013)</small>
 
-III.- Si el sentenciado incurre en una ausencia no justificada, la Subsecretaría lo comunicará al Juez de Ejecución de Sanciones, a efecto de que revoque el internamiento de fin de semana y lo sustituya;
+II.- Su cumplimiento se verificará en el establecimiento penitenciario que designe la Unidad de Reinserción, separadamente a los internos que compurgan la pena de prisión sin modalidades;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2013)</small>
+
+III.- Si el sentenciado incurre en una ausencia no justificada, la Unidad de Reinserción lo comunicará al Juez de Ejecución de Sanciones, a efecto de que revoque el internamiento de fin de semana y lo sustituya;
 
 IV.- Si durante su aplicación se incoa contra el sentenciado un nuevo proceso por la comisión de diverso delito y se impone la medida cautelar de prisión preventiva, la modalidad a que se refiere la fracción I se revocará;
 
-V.- Durante el tiempo que permanezca en semilibertad, el sentenciado deberá dedicarse al desarrollo de una actividad lícita, a realizar estudios no concluidos y en su caso a recibir el tratamiento de salud especificado. En casos de tratamientos de salud, el Juez de Ejecución de Medidas, por conducto de la Subsecretaría, ordenará a la institución correspondiente que aplique el tratamiento requerido, en su caso, y en general, que informe con la periodicidad indicada sobre sus avances.
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2013)</small>
+
+V.- Durante el tiempo que permanezca en semilibertad, el sentenciado deberá dedicarse al desarrollo de una actividad lícita, a realizar estudios no concluidos y en su caso a recibir el tratamiento de salud especificado. En casos de tratamientos de salud, el Juez de Ejecución de Medidas, por conducto de la Unidad de Reinserción, ordenará a la institución correspondiente que aplique el tratamiento requerido, en su caso, y en general, que informe con la periodicidad indicada sobre sus avances.
 
 ###### Artículo 54.
 
@@ -751,7 +861,9 @@ La libertad preparatoria no se concederá al sentenciado por los delitos calific
 
 Solicitud.
 
-El sentenciado que considere tener derecho a la libertad preparatoria, elevará su solicitud al Juez de Ejecución, por conducto de la Subsecretaría, dando inicio al procedimiento respectivo.
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
+
+El sentenciado que considere tener derecho a la libertad preparatoria, elevará su solicitud al Juez de Ejecución, por conducto de la Unidad de Reinserción, dando inicio al procedimiento respectivo.
 
 ###### Artículo 64.
 
@@ -759,7 +871,9 @@ Resolución.
 
 La resolución que conceda la libertad preparatoria tomará en consideración todos los informes y conclusiones que sean recabados, así como los datos y pruebas que aporte la víctima u ofendido del delito conforme a lo que a su derecho e interés convenga. Contendrá las observaciones y antecedentes relacionados con la conducta del sentenciado durante su internamiento, así como los datos que demuestren que se encuentra en condiciones de ser reintegrado a la vida social.
 
-Dentro de las obligaciones del preliberado, estará la de informar el lugar de residencia y de trabajo, así como la de presentarse, cada treinta días, ante la Subsecretaría, o ante las autoridades que ésta considere, y en su caso acreditar el cumplimiento a las medidas de tratamiento propuestas.
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
+
+Dentro de las obligaciones del preliberado, estará la de informar el lugar de residencia y de trabajo, así como la de presentarse, cada treinta días, ante la Unidad de Reinserción, o ante las autoridades que ésta considere, y en su caso acreditar el cumplimiento a las medidas de tratamiento propuestas.
 
 ###### Artículo 65.
 
@@ -779,7 +893,9 @@ Para este efecto, el interesado en revocar el beneficio deberá acreditar el o l
 
 IV.- No resida o deje de residir en el lugar que se haya determinado, del cual no podrá ausentarse sin el permiso del Juez de Ejecución, y
 
-V.- Deje de presentarse injustificadamente por una ocasión ante la Subsecretaría o autoridad que se determine.
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2013)</small>
+
+V.- Deje de presentarse injustificadamente por una ocasión ante la Unidad de Reinserción o autoridad que se determine.
 
 El sentenciado cuya libertad preparatoria haya sido revocada, cumplirá el resto de la pena impuesta. Los hechos que originen los nuevos procesos a que se refiere este artículo, interrumpen los plazos para extinguir la sanción.
 
@@ -787,7 +903,9 @@ El sentenciado cuya libertad preparatoria haya sido revocada, cumplirá el resto
 
 Vigilancia.
 
-Los sentenciados que disfruten de la libertad preparatoria estarán sujetos a la vigilancia de la Subsecretaría, por el tiempo que les falte para extinguir su sanción.
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
+
+Los sentenciados que disfruten de la libertad preparatoria estarán sujetos a la vigilancia de la Unidad de Reinserción, por el tiempo que les falte para extinguir su sanción.
 
 #### SECCIÓN 4. DEL PROCEDIMIENTO PARA LA CONCESIÓN DE LIBERTAD ANTICIPADA
 
@@ -801,7 +919,9 @@ II.- Que participe regularmente en las actividades educativas, deportivas o de o
 
 III.- Que con base en los Estudios de personalidad que practique el Consejo Técnico Interdisciplinario, pueda determinarse la viabilidad de su reinserción social. Este será el factor determinante para la concesión o negativa de la remisión parcial de la pena, que no podrá fundarse exclusivamente en los dos requisitos anteriores.
 
-Los requisitos señalados en las fracciones anteriores se acreditarán con los informes que emita la Subsecretaría.
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
+
+Los requisitos señalados en las fracciones anteriores se acreditarán con los informes que emita la Unidad de Reinserción.
 
 Con estos elementos el Juez de Ejecución de Sanciones dictaminará sobre la procedencia del beneficio.
 
@@ -829,13 +949,19 @@ El cómputo de los términos para el otorgamiento del beneficio de remisión par
 
 Procedimiento.
 
-El procedimiento para la concesión de beneficios, se iniciará de oficio por el Ministerio Público o a petición de parte. En ambos casos, la Subsecretaría estará obligada a remitir la solicitud al Juez de Ejecución de Sanciones.
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
+
+El procedimiento para la concesión de beneficios, se iniciará de oficio por el Ministerio Público o a petición de parte. En ambos casos, la Unidad de Reinserción estará obligada a remitir la solicitud al Juez de Ejecución de Sanciones.
 
 Si el procedimiento inicia a petición de parte, la remisión se hará dentro de los tres días hábiles siguientes a la solicitud.
 
-Una vez recibida la solicitud por el Juez de Ejecución de Sanciones, solicitará a la Subsecretaría, que por conducto del Consejo, se remitan los Estudios de personalidad del sentenciado, dentro de los sesenta días siguientes a la recepción de la misma.
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
 
-Recibidos los estudios, el Juez de Ejecución de Sanciones fijará fecha dentro de los cinco días hábiles siguientes, para la celebración de la audiencia en la que se dará lectura a los Estudios de personalidad; se le dará uso de la palabra al sentenciado y a su defensor; al Ministerio Público y al Representante de la Subsecretaría; concluida la audiencia el Juez de Ejecución de Sanciones emitirá resolución en un plazo que no excederá de cinco días, concediendo o negando el beneficio. La resolución a que se refiere este artículo será notificada el día de su emisión a la Subsecretaría, para que le dé cumplimiento.
+Una vez recibida la solicitud por el Juez de Ejecución de Sanciones, solicitará a la Unidad de Reinserción, que por conducto del Consejo, se remitan los estudios de personalidad del sentenciado, dentro de los sesenta días siguientes a la recepción de la misma.
+
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
+
+Recibidos los estudios, el Juez de Ejecución de Sanciones fijará fecha dentro de los cinco días hábiles siguientes, para la celebración de la audiencia en la que se dará lectura a los estudios de personalidad; se le dará uso de la palabra al sentenciado y a su defensor; al Ministerio Público y al Representante de la Unidad de Reinserción; concluida la audiencia el Juez de Ejecución de Sanciones emitirá resolución en un plazo que no excederá de cinco días, concediendo o negando el beneficio. La resolución a que se refiere este artículo será notificada el día de su emisión a la Unidad de Reinserción, para que le dé cumplimiento.
 
 ###### Artículo 72.
 
@@ -849,13 +975,17 @@ El Juez de Ejecución, resolverá lo que proceda en el término de tres días h�
 
 Improcedencia.
 
-Las peticiones que conforme a lo dispuesto por esta Ley sean notoriamente improcedentes serán resueltas en cinco días y notificadas al interesado y a la Subsecretaría.
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
+
+Las peticiones que conforme a lo dispuesto por esta Ley sean notoriamente improcedentes serán resueltas en cinco días y notificadas al interesado y a la Unidad de Reinserción.
 
 ###### Artículo 74.
 
 Localizadores electrónicos.
 
-Para ejercer la vigilancia, la Subsecretaría está facultada para implementar un sistema de monitoreo electrónico a distancia sobre los sentenciados que gocen de algún beneficio de libertad anticipada a que se refiere el presente Capítulo; estará también facultada para requerir el auxilio de los cuerpos de seguridad pública en el Estado en el cumplimiento de esta obligación, en los términos de la normatividad reglamentaria sobre el programa de monitoreo electrónico a distancia que al efecto se expida.
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
+
+Para ejercer la vigilancia, la Unidad de Reinserción está facultada para implementar un sistema de monitoreo electrónico a distancia sobre los sentenciados que gocen de algún beneficio de libertad anticipada a que se refiere el presente Capítulo; estará también facultada para requerir el auxilio de los cuerpos de Seguridad Pública en el Estado en el cumplimiento de esta obligación, en los términos de la normatividad reglamentaria sobre el programa de monitoreo electrónico a distancia que al efecto se expida.
 
 ### CAPÍTULO NOVENO. DE LOS SUSTITUTIVOS PENALES Y LA CONDENA CONDICIONAL
 
@@ -963,7 +1093,9 @@ La libertad definitiva que se otorgue conforme a este Capítulo, será comunicad
 
 Constancia de salida.
 
-Al quedar en libertad definitiva una persona, el Juez de Ejecución de Sanciones le entregará una constancia de la legalidad de su salida, de la conducta observada durante su reclusión y de sus aptitudes para el trabajo, en relación con la información proporcionada por la Subsecretaría. La elaboración y entrega de dicha constancia no deberá de retardar el acto de liberación del imputado o sentenciado.
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
+
+Al quedar en libertad definitiva una persona, el Juez de Ejecución de Sanciones le entregará una constancia de la legalidad de su salida, de la conducta observada durante su reclusión y de sus aptitudes para el trabajo, en relación con la información proporcionada por la Unidad de Reinserción. La elaboración y entrega de dicha constancia no deberá de retardar el acto de liberación del imputado o sentenciado.
 
 #### SECCIÓN 1. REPARACIÓN DEL DAÑO
 
@@ -983,7 +1115,9 @@ Podrá concederse el indulto en los delitos del orden común, cuando el interno 
 
 Solicitud.
 
-El sentenciado ocurrirá con su petición de indulto ante la persona Titular del Ejecutivo Estatal, por conducto de la Subsecretaría, solicitando que se expidan las constancias respectivas. Previa la investigación que realice el Consejo para la verificación de la procedencia del indulto, el Gobernador del Estado emitirá su resolución fundada y motivada.
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
+
+El sentenciado ocurrirá con su petición de indulto ante el Titular del Ejecutivo Estatal, por conducto de la Unidad de Reinserción, solicitando que se expidan las constancias respectivas. Previa la investigación que realice el Consejo para la verificación de la procedencia del indulto, el Gobernador del Estado emitirá su resolución fundada y motivada.
 
 ###### Artículo 93.
 
@@ -1001,11 +1135,15 @@ Ejecución.
 
 Al haberse indicado la forma de dar cumplimiento al pago de la reparación del daño, en términos de los artículos 36 al 42 del Código Penal y relativos del Código de Procedimientos Penales, se enviará constancia de la sentencia firme al Juez de Ejecución de Sanciones, para llevar a cabo el seguimiento correspondiente, de conformidad con lo siguiente:
 
-I.- Si no se pagó la reparación del daño en los términos fijados en la sentencia, el Juez de Ejecución de Sanciones dará inicio al procedimiento administrativo de ejecución en los términos del Código Fiscal del Estado;
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2013)</small>
+
+I.- Si no se pagó la reparación del daño en los términos fijados en la sentencia, el Juez de Ejecución de Sanciones dará inicio al procedimiento administrativo de ejecución en los términos del Código Fiscal para el Estado de Morelos;
 
 II.- Si se encontrara garantizada la reparación del daño, el Juez de Ejecución de Sanciones notificará al fiador, en caso de que exista, que la garantía otorgada será destinada al pago de la reparación del daño; lo mismo sucederá con las otras formas de garantía;
 
-III.- Dentro de los tres días siguientes a la notificación, se enviarán los documentos relativos a la ejecución de la garantía a la Secretaría de Finanzas y Planeación para que, en el plazo de los tres días siguientes, mediante resolución fundada y motivada, la Secretaría de Finanzas y Planeación, haga efectiva esa garantía a favor de la víctima u ofendido o de su representante, y
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2013)</small>
+
+III.- Dentro de los tres días siguientes a la notificación, se enviarán los documentos relativos a la ejecución de la garantía a la Secretaría de Hacienda para que, en el plazo de los tres días siguientes, mediante resolución fundada y motivada, haga efectiva esa garantía a favor de la víctima u ofendido o de su representante, y
 
 IV.- Tratándose del delito de despojo, cuando la autoridad judicial haya ordenado la restitución del bien inmueble a favor del ofendido, el Juez de Ejecución de Sanciones, una vez que reciba la sentencia ejecutoriada, ordenará la comparecencia del sentenciado y lo apercibirá para que en un plazo de tres días, haga entrega voluntaria del inmueble a la víctima u ofendido.
 
@@ -1031,7 +1169,9 @@ II.- Si dentro del plazo concedido, el sentenciado demuestra que carece de recur
 
 De la supervisión de la autoridad.
 
-La supervisión de la autoridad se llevará a cabo mediante la orientación de la conducta del sentenciado, ejercida por la Subsecretaría con el apoyo en su caso, de las autoridades auxiliares, con la finalidad de coadyuvar a la reinserción social del sentenciado y a la protección de la comunidad o las víctimas u ofendidos del delito. La autoridad judicial deberá disponer esta supervisión cuando en la sentencia se imponga una sanción que restrinja la libertad o derechos del sentenciado; sustituya la privación de libertad por otra sanción; conceda la condena condicional, y en los demás casos en los que la ley o la propia sentencia disponga. Su duración no deberá exceder de la correspondiente a la pena o medida de seguridad impuesta.
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
+
+La supervisión de la autoridad se llevará a cabo mediante la orientación de la conducta del sentenciado, ejercida por la Unidad de Reinserción con el apoyo en su caso, de las autoridades auxiliares, con la finalidad de coadyuvar a la reinserción social del sentenciado y a la protección de la comunidad o las víctimas u ofendidos del delito. La autoridad judicial deberá disponer esta supervisión cuando en la sentencia se imponga una sanción que restrinja la libertad o derechos del sentenciado; sustituya la privación de libertad por otra sanción; conceda la condena condicional, y en los demás casos en los que la ley o la propia sentencia disponga. Su duración no deberá exceder de la correspondiente a la pena o medida de seguridad impuesta.
 
 #### SECCIÓN 3. TRATAMIENTO DE DESHABITUACIÓN O DESINTOXICACIÓN
 
@@ -1057,7 +1197,9 @@ Ejecución de la medida.
 
 El juez de ejecución de sanciones ordenará el internamiento del sentenciado en centro de salud u hospital psiquiátrico señalado en el fallo, de acuerdo a lo siguiente:
 
-I.- La Subsecretaría remitirá la resolución a la Secretaría de Salud, a cuyo cargo quedará la ejecución y vigilancia de la medida, en centros de salud u hospitales públicos o privados, y
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2013)</small>
+
+I.- La Unidad de Reinserción remitirá la resolución a la Secretaría de Salud, a cuyo cargo quedará la ejecución y vigilancia de la medida, en centros de salud u hospitales públicos o privados, y
 
 II.- Durante la ejecución de la medida se informará periódicamente de la reacción del imputado al tratamiento, al Juez de Ejecución de Sanciones.
 
@@ -1145,9 +1287,13 @@ De la reclasificación.
 
 La evolución en el tratamiento dará lugar a la reclasificación de la persona interna con la consiguiente propuesta del traslado al establecimiento del régimen que corresponda, dentro del mismo o a otro establecimiento o el pase de una sección a otra de diferente régimen. La reclasificación estará sujeta a las siguientes reglas:
 
-I.- El progreso del tratamiento tendrá como indicador la modificación de aquellos rasgos de la personalidad directamente relacionados con la actividad delictiva; deberá manifestarse en la conducta global de la persona interna y tendrá como consecuencias: el aumento en la confianza depositada en el interno, la atribución de las responsabilidades cada vez más importantes, y mayor libertad. Los parámetros para la definición de éstos indicadores se establecerán conforme a los estudios técnicos que se realicen y que al efecto expida la Subsecretaría;
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2013)</small>
 
-II.- La regresión de grado tendrá como indicador actitudes negativas o de rechazo del interno en relación al tratamiento; los parámetros para la definición de éstos indicadores se establecerán conforme a los estudios técnicos que se realicen y que al efecto expida la Subsecretaría, y
+I.- El progreso del tratamiento tendrá como indicador la modificación de aquellos rasgos de la personalidad directamente relacionados con la actividad delictiva; deberá manifestarse en la conducta global de la persona interna y tendrá como consecuencias: El aumento en la confianza depositada en el interno, la atribución de las responsabilidades cada vez más importantes, y mayor libertad. Los parámetros para la definición de éstos indicadores se establecerán conforme a los estudios técnicos que se realicen y que al efecto expida la Unidad de Reinserción;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2013)</small>
+
+II.- La regresión de grado tendrá como indicador actitudes negativas o de rechazo del interno en relación al tratamiento; los parámetros para la definición de éstos indicadores se establecerán conforme a los estudios técnicos que se realicen y que al efecto expida la Unidad de Reinserción, y
 
 III.- Sin prejuicio de que se realice en cualquier momento, por lo menos cada seis meses los internos deberán de ser evaluados individualmente para reconsiderar su clasificación. Misma que será notificada al sentenciado.
 
@@ -1169,7 +1315,9 @@ Del Expediente técnico.
 
 A todo interno se le formará un expediente, que incluirá los resultados de los Estudios de personalidad que se le practiquen. En su oportunidad se agregará una copia de la resolución dictada por los Tribunales que hayan conocido de su caso.
 
-El expediente se llevará por duplicado, debiendo remitirse un tanto a la Dirección General de Reinserción Social y conservarse el otro en el Establecimiento Penitenciario. Estará dividido en las siguientes secciones:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ABRIL DE 2013)</small>
+
+El expediente se llevará por duplicado, debiendo remitirse un tanto a la Unidad de Reinserción y conservarse el otro en el Establecimiento Penitenciario. Estará dividido en las siguientes secciones:
 
 a).- Sección Disciplinaria, donde se hará constar los antecedentes sobre conducta, sanciones disciplinarias, estímulos y recompensas;
 
@@ -1289,9 +1437,13 @@ De la orientación de la educación los programas educativos para la reinserció
 
 La educación que se imparta a los internos, no tendrá sólo carácter académico, sino también cívico, social, higiénico, artístico, físico y ético. Será, en todo caso, orientada por las técnicas de la pedagogía correctiva y quedará a cargo, de maestros especializados.
 
-El personal técnico de cada uno de los establecimientos penitenciarios, con apego a lo lineamientos que al efecto expida la Subsecretaría, implementará programas tendientes a incorporar a los internos a las actividades laborales, de capacitación, educativas, recreativas y culturales.
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
 
-Los programas educativos deberán incorporar también enseñanzas para el uso de tecnologías, así como contener componentes de educación en valores y habilidades para la vida, con el objeto de dotar a los individuos de las herramientas necesarias para la reinserción exitosa a la sociedad y evitar su reincidencia delictiva. La Subsecretaría definirá, en coordinación con las autoridades competentes, de qué manera se implementarán estos componentes dentro de los programas educativos.
+El personal técnico de cada uno de los establecimientos penitenciarios, con apego a los lineamientos que al efecto expida la Unidad de Reinserción, implementará programas tendientes a incorporar a los internos a las actividades laborales, de capacitación, educativas, recreativas y culturales.
+
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
+
+Los programas educativos deberán incorporar también enseñanzas para el uso de tecnologías, así como contener componentes de educación en valores y habilidades para la vida, con el objeto de dotar a los individuos de las herramientas necesarias para la reinserción exitosa a la sociedad y evitar su reincidencia delictiva. La Unidad de Reinserción definirá, en coordinación con las autoridades competentes, de qué manera se implementarán estos componentes dentro de los programas educativos.
 
 ### CAPÍTULO QUINTO. DEL TRABAJO REALIZADO POR LOS INTERNOS
 
@@ -1311,11 +1463,15 @@ c).- Las mujeres durante los tres primeros meses anteriores al parto y en el mes
 
 Las personas comprendidas en estos casos, cuando voluntariamente desearen trabajar, podrán dedicarse a la ocupación que elijan, siempre que no fuere perjudicial a su salud.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ABRIL DE 2013)</small>
+
 ###### Artículo 131.
 
-Del salario.
+De la aportación de remuneraciones.
 
-Los internos pagarán su sostenimiento en el establecimiento penitenciario con cargo a la percepción que tengan por el trabajo que desempeñen. El pago se establecerá con base en los descuentos correspondientes a una proporción adecuada de la remuneración, proporción que debe ser equitativa para todos los internos de un mismo establecimiento. En consecuencia, el Ejecutivo del Estado por conducto de la Subsecretaría, promoverá que los internos cuenten con trabajo suficiente y adecuado a sus condiciones particulares, para lo anterior el Titular del Poder Ejecutivo, por conducto de la Subsecretaría, convocará a la creación de un Consejo Empresarial para la Reinserción Social, integrado por representantes del Sector Empresarial, que tendrá por objeto coadyuvar con el Estado a través de convenios, a la dotación de trabajo a los internos para su adecuada reinserción social. La subsecretaría podrá realizar convenios con instituciones públicas o privadas a efecto de emplear a los internos productivamente. Para lo anterior se creará una unidad administrativa denominada Dirección de Industria Penitenciaria, misma que dependerá de la Subsecretaría de Reinserción Social.
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
+
+Los internos harán aportaciones para su sostenimiento en el establecimiento penitenciario con cargo a la percepción que tengan por el trabajo que desempeñen. Cada aportación se establecerá con base en los descuentos correspondientes a una proporción adecuada de la remuneración, proporción que debe ser equitativa para todos los internos de un mismo establecimiento. En consecuencia, el Ejecutivo del Estado por conducto de la Unidad de Reinserción, promoverá que los internos cuenten con trabajo suficiente y adecuado a sus condiciones particulares, para lo anterior el Titular del Poder Ejecutivo, por conducto de la Unidad de Reinserción, convocará a la creación de un Consejo Empresarial para la Reinserción Social, integrado por representantes del Sector Empresarial, que tendrá por objeto coadyuvar con el Estado a través de convenios, a la dotación de trabajo a los internos para su adecuada reinserción social. La Unidad de Reinserción podrá realizar convenios con instituciones públicas o privadas a efecto de emplear a los internos productivamente. Para lo anterior se creará una unidad administrativa encargada de la Industria Penitenciaria, misma que dependerá de la Unidad de Reinserción.
 
 El Reglamento establecerá la integración, funciones, objetivos y formas de sesionar del Consejo Empresarial, el cual una vez integrado expedirá su propio reglamento interior, con apego a lo establecido en esta Ley y el Reglamento.
 
@@ -1323,7 +1479,9 @@ El Reglamento establecerá la integración, funciones, objetivos y formas de ses
 
 De la vigilancia de las actividades laborales.
 
-La Subsecretaría vigilará que las actividades laborales cumplan con las disposiciones contenidas por el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente a la jornada de trabajo, días de descanso, higiene, seguridad y la protección de la maternidad.
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
+
+La Unidad de Reinserción vigilará que las actividades laborales cumplan con las disposiciones contenidas por el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente a la jornada de trabajo, días de descanso, higiene, seguridad y la protección de la maternidad.
 
 ###### Artículo 133.
 
@@ -1347,7 +1505,9 @@ IV. Ocupaciones artesanales, intelectuales, artísticas, culturales y deportivas
 
 Las actividades laborales de las personas internas en ningún caso pueden ser desarrolladas en las áreas de administración o gobierno de los establecimientos penitenciarios.
 
-Los convenios que suscriba la Subsecretaría con el Consejo Empresarial para la Reinserción Social, por conducto de la Dirección de Industria Penitenciaria, establecerán las modalidades bajo las cuales laborarán los internos que ingresen a los programas del Consejo Empresarial para la Reinserción Social, los cuáles serán suscritos con apego a lo establecido en la presente Ley, su reglamento y demás de carácter laboral aplicables.
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
+
+Los convenios que suscriba la Unidad de Reinserción con el Consejo Empresarial para la Reinserción Social, por conducto de la unidad encargada de la Industria Penitenciaria, establecerán las modalidades bajo las cuales laborarán los internos que ingresen a los programas del Consejo Empresarial para la Reinserción Social, los cuáles serán suscritos con apego a lo establecido en la presente Ley, su reglamento y demás de carácter laboral aplicables.
 
 ###### Artículo 135.
 
@@ -1369,13 +1529,17 @@ De la salud física y mental.
 
 Los servicios médicos de los establecimientos penitenciarios velarán por la salud física y mental de la población interna.
 
-Podrá permitirse a solicitud de la persona interna, familiares o de la persona previamente designada por aquél, que médicos ajenos al establecimiento penitenciario, examinen y traten al interno, en este caso al tratamiento respectivo será a cargo del solicitante, y deberá ser autorizado por el titular del establecimiento o de la Subsecretaría.
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
+
+Podrá permitirse a solicitud de la persona interna, familiares o de la persona previamente designada por aquél, que médicos ajenos al establecimiento penitenciario, examinen y traten al interno, en este caso el tratamiento respectivo será a cargo del solicitante, y deberá ser autorizado por el titular del establecimiento o de la Unidad de Reinserción.
 
 ###### Artículo 138.
 
 Del estado de gravidez.
 
-En los establecimientos penitenciarios femeniles, se otorgará atención para el embarazo, parto y puerperio, así como de recién nacidos, y se establecerán las medidas de protección necesarias para salvaguardar la salud de ambos. Si existe complicación o si en el establecimiento penitenciario no se cuenta con las instalaciones adecuadas para las internas o los recién nacidos, deberán ser trasladados a la unidad médica del sector salud, bajo la vigilancia de la Subsecretaría y demás autoridades auxiliares que ésta determine.
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
+
+En los establecimientos penitenciarios femeniles, se otorgará atención para el embarazo, parto y puerperio, así como de recién nacidos, y se establecerán las medidas de protección necesarias para salvaguardar la salud de ambos. Si existe complicación o si en el establecimiento penitenciario no se cuenta con las instalaciones adecuadas para las internas o los recién nacidos, deberán ser trasladados a la unidad médica del sector salud, bajo la vigilancia de la Unidad de Reinserción y demás autoridades auxiliares que ésta determine.
 
 ###### Artículo 139.
 
@@ -1471,7 +1635,9 @@ IV. El esparcimiento a través de actividades Deportivas.
 
 Vínculos con otras instituciones.
 
-Con la finalidad de cumplir dicho objetivo la Subsecretaria de Reinserción social buscará vínculos de participación con instituciones públicas y privadas en materia de deporte y recreación.
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
+
+Con la finalidad de cumplir dicho objetivo la Unidad de Reinserción buscará vínculos de participación con instituciones públicas y privadas en materia de deporte y recreación.
 
 ### CAPÍTULO OCTAVO. DE LA DISCIPLINA AL INTERIOR DE LOS CENTROS
 
@@ -1519,7 +1685,9 @@ De los incentivos.
 
 Se estimará como buena conducta, la observancia de normas internas, la Ley y su Reglamento, el mejoramiento en los hábitos sociales y culturales, el ingreso voluntario a la institución pedagógica, la superación en el trabajo, la cooperación para el mantenimiento de la convivencia interna, así como cualquier otra manifestación que revele una firme intensión de reinserción social.
 
-La Subsecretaría establecerá en cada establecimiento penitenciario un programa transparente de medición, que cuente con un sistema de puntaje auditable y público, asociado a un programa de incentivos, para que el sentenciado pueda gradualmente registrar el logro de sus metas en relación con cada una de las actividades que le sean asignadas, de forma tal que tanto el interno como sus familiares y las autoridades penitenciarias puedan valorar su progreso.
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
+
+La Unidad de Reinserción establecerá en cada establecimiento penitenciario un programa transparente de medición, que cuente con un sistema de puntaje auditable y público, asociado a un programa de incentivos, para que el sentenciado pueda gradualmente registrar el logro de sus metas en relación con cada una de las actividades que le sean asignadas, de forma tal que tanto el interno como sus familiares y las autoridades penitenciarias puedan valorar su progreso.
 
 ###### Artículo 157.
 
@@ -1597,7 +1765,9 @@ En caso de fallecimiento del interno el área técnica o funcionario de guardia 
 
 De los tipos de establecimiento.
 
-Los establecimientos penitenciarios que integran en el Sistema, serán los que el Poder Ejecutivo a través de la Subsecretaría establezca de acuerdo a los programas de la Reinserción Social.
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
+
+Los establecimientos penitenciarios que integran el Sistema, serán los que el Poder Ejecutivo a través de la Unidad de Reinserción establezca de acuerdo a los programas de la Reinserción Social.
 
 ###### Artículo 167.
 
@@ -1647,9 +1817,13 @@ De los liberados.
 
 Los liberados, durante el período inmediato a su reinserción a la vida social, deberán tener acceso, según sus capacidades y aptitudes a trabajos en las obras que emprenda el Estado y los servicios que preste.
 
-La Subsecretaría de Reinserción Social por conducto del Patronato firmará convenios de colaboración interinstitucionales con organismos gubernamentales u organismos no gubernamentales con el objeto de canalizar a los liberados hacia empleos de acuerdo a sus capacidades.
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
 
-La Subsecretaría por conducto del Patronato, en coordinación con la Secretaría del Trabajo y Productividad establecerá un programa permanente de capacitación y de empleo para liberados.
+La Unidad de Reinserción Social por conducto del Patronato firmará convenios de colaboración interinstitucionales con organismos gubernamentales u organismos no gubernamentales con el objeto de canalizar a los liberados hacia empleos de acuerdo a sus capacidades.
+
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
+
+La Unidad de Reinserción por conducto del Patronato, en coordinación con la Secretaría del Trabajo, establecerá un programa permanente de capacitación y de empleo para liberados.
 
 ###### Artículo 174.
 
@@ -1659,7 +1833,9 @@ El Patronato es la instancia del Estado que se encargará de brindar la asistenc
 
 La incorporación de los liberados en actividades laborales quedará a cargo del Patronato su intervención se iniciará a partir de la fecha de liberación o externamiento y hasta que el liberado esté encauzado en su trabajo y en su familia.
 
-Para el cumplimiento de sus fines el Patronato contará con un Consejo de Patronos y una unidad administrativa dependientes de la Subsecretaría de Reinserción Social la cual contará con los instrumentos y recursos humanos, materiales y financieros para solventar las necesidades del Patronato y apoyar las actividades honoríficas del Consejo de Patronos.
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
+
+Para el cumplimiento de sus fines el Patronato contará con un Consejo de Patronos y una unidad administrativa dependientes de la Unidad de Reinserción, la cual contará con los instrumentos y recursos humanos, materiales y financieros para solventar las necesidades del Patronato y apoyar las actividades honoríficas del Consejo de Patronos.
 
 ###### Artículo 175.
 
@@ -1679,31 +1855,55 @@ Del Consejo de Patronos.
 
 El Consejo de Patronos es el órgano consultivo y de decisión del Patronato estará integrado de la siguiente manera:
 
-I. Un Presidente que será el Secretario de Seguridad Pública;
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2013)</small>
 
-II. Un Secretario Ejecutivo que será el Subsecretario de Reinserción Social;
+I. Un Presidente que será el Secretario de Gobierno;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2013)</small>
+
+II. Un Secretario Ejecutivo que será el titular de la Unidad de Reinserción;
 
 III. Consejeros Patronos, uno por cada una de las siguientes Instituciones:
 
-a) Secretaría de Gobierno;
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
+
+a) Secretaría de Economía;
 
 b) Secretaría de Salud del Estado;
 
 c) Secretaría de Educación del Estado;
 
-d) Secretaría del Trabajo y productividad;
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
 
-e) Secretaria de Desarrollo Humano y Social;
+d) Secretaría del Trabajo;
+
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
+
+e) Secretaria de Desarrollo Social;
 
 f) Procuraduría General de Justicia del Estado;
 
 g) Sistema para el Desarrollo Integral de la Familia, (D.I.F.) Morelos;
 
-h) Cámara Nacional para la Industria y Transformación;
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
 
-i) Confederación Patronal de la República Mexicana;
+h) Secretaría de Seguridad Pública;
 
-j) La Asociaciones de Abogados del Estado de Morelos.
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
+
+i) Sector empresarial en el Estado; y
+
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
+
+j) Sector patronal en la Entidad.
+
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2013)</small>
+
+Los Consejeros Patronos pertenecientes a las dependencias señaladas en los incisos a), b), c), d), e), f), g) y h) del presente artículo, serán acreditados por el Titular respectivo, debiendo tener un nivel de director general, al menos.
+
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2013)</small>
+
+Los Consejeros Patronos a que se refieren los incisos i) y j) se incorporarán a invitación expresa que les formule el Presidente del Patronato.
 
 ###### Artículo 178.
 
@@ -1715,27 +1915,37 @@ El funcionamiento, organización y administración del Patronato, se especificar
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ABRIL DE 2013)</small>
+
 ###### Artículo 179.
 
-De la aplicación y ejecución de sanciones y medidas cautelares competencia de la Subsecretaría de Reinserción Social.
+De la aplicación y ejecución de sanciones y medidas cautelares competencia de la Unidad de Reinserción.
 
 La aplicación y ejecución de sanciones y medidas cautelares en materia de justicia para adolescentes, se regirá por la Ley de Justicia para Adolescentes del Estado de Morelos y, en lo que no esté expresamente previsto, por las disposiciones de esta Ley.
 
-Corresponde a la Subsecretaría, a través de la Dirección General de Ejecución de Medidas para Adolescentes, realizar la evaluación de riesgos para fijar las medidas cautelares idóneas a cada adolescente, dar seguimiento a las medidas cautelares impuestas durante el proceso, así como la aplicación y ejecución de las medidas sancionadoras impuestas por el Juez de Juicio Oral.
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
+
+Corresponde a la Unidad de Reinserción, a través del Área de Adolescentes, realizar la evaluación de riesgos para fijar las medidas cautelares idóneas a cada adolescente, dar seguimiento a las medidas cautelares impuestas durante el proceso, así como la aplicación y ejecución de las medidas sancionadoras impuestas por el Juez de Juicio Oral.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ABRIL DE 2013)</small>
 
 ###### Artículo 180.
 
-De la aplicación y ejecución de sanciones y medidas cautelares competencia de la Subsecretaría de Reinserción Social.
+De la aplicación y ejecución de sanciones y medidas cautelares competencia de la Unidad de Reinserción.
 
 La aplicación y ejecución de sanciones y medidas cautelares en materia de justicia para adolescentes, se regirá por la Ley de Justicia para Adolescentes del Estado de Morelos y, en lo que no esté expresamente previsto, por las disposiciones de esta Ley.
 
-Corresponde a la Subsecretaría, a través de la Dirección General de Ejecución de Medidas para Adolescentes, dar seguimiento a las medidas cautelares impuestas durante el proceso, así como la aplicación y ejecución de las medidas sancionadoras impuestas por el Juez de Juicio Oral.
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
+
+Corresponde a la Unidad de Reinserción, a través del Área de Adolescentes, dar seguimiento a las medidas cautelares impuestas durante el proceso, así como la aplicación y ejecución de las medidas sancionadoras impuestas por el Juez de Juicio Oral.
 
 ###### Artículo 181.
 
 De la Coordinación.
 
-La Subsecretaría coordinará a la Dirección General de Ejecución de Medidas para Adolescentes para que, durante la ejecución de las medidas se cuente con:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ABRIL DE 2013)</small>
+
+La Unidad de Reinserción coordinará el Área de Adolescentes para que, durante la ejecución de las medidas se cuente con:
 
 I. Programas de capacitación para padres, tutores, familiares, responsables, o quienes ejerzan la patria potestad o custodia de los adolescentes;
 
@@ -1747,19 +1957,25 @@ IV. Programas de atención médica;
 
 V. Cursos y programas de orientación, y
 
-VI. Cualquier otra acción que permita a los padres, familiares, responsables, tutores, o quienes ejerzan la patria potestad o custodia, contribuir a asegurar el desarrollo integral de los adolescentes. La Dirección General de Ejecución de Medidas para Adolescentes, podrá celebrar convenios con las instituciones públicas, privadas u organismos no gubernamentales, para la implementación de los programas a que se refiere este artículo, los cuales serán autorizados previa autorización de la Subsecretaría.
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2013)</small>
+
+VI. Cualquier otra acción que permita a los padres, familiares, responsables, tutores, o quienes ejerzan la patria potestad o custodia, contribuir a asegurar el desarrollo integral de los adolescentes. El Área de Adolescentes, podrá celebrar convenios con las instituciones públicas, privadas u organismos no gubernamentales, para la implementación de los programas a que se refiere este artículo, los cuales serán autorizados previa autorización de la Unidad de Reinserción.
 
 ###### Artículo 182.
 
 De la supervisión.
 
-La Subsecretaría supervisará que la Dirección General de Ejecución de Medidas para Adolescentes, procure el contacto con los familiares o representantes legales del adolescente, y deberá informarles por lo menos una vez al mes sobre el desarrollo, modificación o cualquier ventaja o desventaja del Programa de Ejecución.
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
+
+La Unidad de Reinserción supervisará que el Área de Adolescentes, procure el contacto con los familiares o representantes legales del adolescente, y deberá informarles por lo menos una vez al mes sobre el desarrollo, modificación o cualquier ventaja o desventaja del Programa de Ejecución.
 
 ###### Artículo 183.
 
 De las medidas administrativas.
 
-Los responsables de los centros de internamiento deberán informar a la Dirección General de Ejecución de Medidas para Adolescentes y al Juez de Ejecución sobre las decisiones administrativas necesarias para garantizar el cumplimiento de las medidas impuestas por la autoridad judicial.
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
+
+Los responsables de los centros de internamiento deberán informar a la Área de Adolescentes y al Juez de Ejecución sobre las decisiones administrativas necesarias para garantizar el cumplimiento de las medidas impuestas por la autoridad judicial.
 
 Las decisiones administrativas que al efecto se tomen, en ningún caso podrán variar la naturaleza de las medidas impuestas por la autoridad judicial.
 
@@ -1767,13 +1983,17 @@ Las decisiones administrativas que al efecto se tomen, en ningún caso podrán v
 
 Del informe del programa a la autoridad judicial.
 
-La Subsecretaría, vigilará que dentro de los plazos que marca la Ley de Justicia para Adolescentes, se elabore el programa individual de ejecución y sea enviado al Juez de Ejecución, a la Defensa y al Ministerio Público.
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
+
+La Unidad de Reinserción, vigilará que dentro de los plazos que marca la Ley de Justicia para Adolescentes, se elabore el programa individual de ejecución y sea enviado al Juez de Ejecución, a la Defensa y al Ministerio Público.
 
 ###### Artículo 185.
 
 De la Coordinación.
 
-La Subsecretaría coordinará a la Dirección General de Ejecución de Medidas para Adolescentes para que, durante la ejecución de las medidas impuestas por la autoridad judicial se observen plenamente las disposiciones de la Ley de Justicia para Adolescentes y esta Ley.
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
+
+La Unidad de Reinserción coordinará el Área de Adolescentes para que, durante la ejecución de las medidas impuestas por la autoridad judicial se observen plenamente las disposiciones de la Ley de Justicia para Adolescentes y esta Ley.
 
 ### CAPÍTULO SEGUNDO. MEDIDAS CAUTELARES
 
@@ -1797,13 +2017,17 @@ La finalidad de las medidas cautelares es, de asegurar la presencia de adolescen
 
 De la destrucción de registros.
 
-Transcurrido el plazo de tres años de cumplida la medida sancionadora impuesta o extinta la acción penal, por las causales previstas por la Ley de Justicia de los Adolescentes del Estado de Morelos o en las leyes generales, por orden de la autoridad judicial se destruirán todos los registros vinculados con el proceso legal. La Subsecretaría, supervisará que la Dirección de Ejecución de Medidas para Adolescentes, cumpla con esta disposición.
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
+
+Transcurrido el plazo de tres años de cumplida la medida sancionadora impuesta o extinta la acción penal, por las causales previstas por la Ley de Justicia de los Adolescentes del Estado de Morelos o en las leyes generales, por orden de la autoridad judicial se destruirán todos los registros vinculados con el proceso legal. La Unidad de Reinserción, supervisará que el Área de Adolescentes, cumpla con esta disposición.
 
 ###### Artículo 189.
 
 De la observancia de principios de protección integral.
 
-La Subsecretaría, velará que en todo momento durante la ejecución de la medida cautelar o sancionadora, se observen los principios de protección integral e interés superior del adolescente, respetando su dignidad y sus derechos fundamentales. Entendiendo por principios reguladores los contenidos en la Ley de Justicia para Adolescentes del Estado de Morelos y de los Tratados Internacionales.
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2013)</small>
+
+La Unidad de Reinserción, velará que en todo momento durante la ejecución de la medida cautelar o sancionadora, se observen los principios de protección integral e interés superior del adolescente, respetando su dignidad y sus derechos fundamentales. Entendiendo por principios reguladores los contenidos en la Ley de Justicia para Adolescentes del Estado de Morelos y de los tratados internacionales.
 
 ### CAPÍTULO CUARTO. EJECUCIÓN DE MEDIDAS SANCIONADORAS PARA ADOLESCENTES
 
@@ -1928,3 +2152,13 @@ SECRETARIO DE GOBIERNO
 JORGE MORALES BARUD
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 24 DE ABRIL DE 2013.
+
+PRIMERA.- El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial.
+
+SEGUNDA.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto en los artículos 44 y 70 fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+TERCERA.- Se derogan todas las disposiciones jurídicas, de igual o menor rango jerárquico normativo, que se opongan al presente Decreto.
