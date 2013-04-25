@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interior-de-la-comision-estatal-para-la-atencion-928
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-02-14"
-last_updated: "2013-02-14"
+last_updated: "2013-04-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92861&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL PARA LA ATENCIÓN Y PROTECCIÓN DE LOS PERIODISTAS DEL ESTADO DE VERACRUZ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 25 DE ABRIL DE 2013.
 
 Reglamento publicado en la Gaceta Oficial del Estado de Veracruz, el jueves 14 de febrero de 2013.
 
@@ -203,9 +203,15 @@ C. El Departamento de Recursos Materiales y Servicios Generales;
 
 D. La Oficina de Tecnologías de la Información.
 
+> <small>(ADICIONADO, G.O. 25 DE ABRIL DE 2013)</small>
+
+e) La Unidad de Acceso a la Información Pública.
+
 II. El Órgano de Control Interno, que dependerá directamente del Pleno de la Comisión.
 
-III. Las demás áreas y personal profesional, técnico y administrativo necesario para el desempeño de sus atribuciones, de acuerdo con el presupuesto y programas de la Comisión, que autorice el Pleno.
+> <small>(REFORMADO, G.O. 25 DE ABRIL DE 2013)</small>
+
+Las demás áreas y personal profesional, técnico y administrativo necesario para el desempeño de sus atribuciones, de acuerdo con el presupuesto y programas de la Comisión, que autorice el Pleno.
 
 ###### Artículo 9.
 
@@ -720,3 +726,11 @@ SECRETARIA EJECUTIVA
 DRA. NAMIKO MATZUMOTO BENÍTEZ
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 25 DE ABRIL DE 2013.
+
+> <small>N. DE E. SE TRANSCRIBE EL PUNTO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.</small>
+
+Cuarto. El presente Acuerdo entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
