@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-de-los-centros-estatales-de-cultura-y-94147
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-12"
-last_updated: "2001-12-12"
+last_updated: "2013-04-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94147&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO INTERIOR DE LOS CENTROS ESTATALES DE CULTURA Y RECREACIÓN "PROF. CARLOS LONGITUD BARRIOS" Y TANGAMANGA II. DEL ESTADO DE SAN LUIS POTOSÍ.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 2013.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de San Luis Potosí, el miércoles 12 de diciembre de 2001.
 
@@ -216,6 +216,10 @@ a). Desistirse del juicio de amparo.
 b). Sustituir las facultades para actos de administración y de pleitos y cobranza y revocar las sustituciones que haga.
 
 c). Suscribir, firmar, endosar, girar o en cualquier otra forma obligar cambiariamente a los Centros en cheques, pagarés letras de cambio o cualesquiera otros títulos de crédito en los términos del artículo 90 de la Ley General de Títulos y Operaciones de Crédito.
+
+> <small>(ADICIONADO, P.O. 25 DE ABRIL DE 2013)</small>
+
+Las atribuciones previstas en esta fracción podrán ser delegadas a los profesionistas que considere pertinentes para que comparezcan con carácter de apoderados jurídicos ante las autoridades estatales y federales a defender los intereses de los centros.
 
 ###### ARTICULO 16.
 
@@ -582,3 +586,9 @@ El Director General de los Cecurt
 Dr. José Martín Toranzo Fernández
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE ABRIL DE 2013.
+
+ÚNICO.- Las presentes reformas entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
