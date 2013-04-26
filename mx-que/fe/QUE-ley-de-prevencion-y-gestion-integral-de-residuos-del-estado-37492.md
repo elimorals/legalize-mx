@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-prevencion-y-gestion-integral-de-residuos-del-estado-374
 country: "mx"
 rank: "ley"
 publication_date: "2004-02-20"
-last_updated: "2004-02-20"
+last_updated: "2013-04-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37492&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro "La Sombra de Arteaga", el 20 de febrero de 2004.
 
@@ -85,21 +85,25 @@ II. Contenedor: Receptáculo destinado al deposito generalmente de forma tempora
 
 III. Eliminación: Acción tendiente a deshacerse de un bien o de un residuo, mediante una forma de tratamiento de cualquier índole, que lo transforme en un material inerte o de su disposición final en celdas de confinamiento;
 
-IV. Ley General: La Ley General para la Prevención y Gestión Integral de los Residuos;
+> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2013)</small>
 
-V. Ley Ambiental: La Ley Estatal del Equilibrio Ecológico y la Protección al Ambiente de Querétaro;
+IV. Incineración: Todo tratamiento térmico con o sin la recuperación de calor producido por la combustión, incluyendo pirolisis, gasificación, plasma, coprocesamiento de combustible alterno y cualquier otro proceso que genere dioxinas y furanos como subproductos;
 
-VI. Minimización: Conjunto de políticas, programas y medidas adoptadas por las personas físicas o jurídicas, tendientes a evitar la generación de residuos y aprovechar, tanto como sea posible, el valor agregado de aquellos;
+V. Ley General: La Ley General para la Prevención y Gestión Integral de los Residuos;
 
-VII. Recolección: Toda operación consistente en recoger, clasificar, agrupar o preparar residuos para su transporte;
+VI. Ley Ambiental: La Ley Estatal del Equilibrio Ecológico y la Protección al Ambiente de Querétaro;
 
-VIII. Recolección selectiva: El sistema de recolección diferenciada de materiales orgánicos fermentables y de materiales reciclables, así como cualquier otro sistema de recolección diferenciada que permita la separación de los materiales valorizables contenidos en los residuos;
+VII. Minimización: Conjunto de políticas, programas y medidas adoptadas por las personas físicas o jurídicas, tendientes a evitar la generación de residuos y aprovechar, tanto como sea posible, el valor agregado de aquellos;
 
-IX. Relleno sanitario: Instalación en la cual se depositan de manera temporal o permanente los residuos sólidos urbanos, en sitios y en condiciones apropiados, para prevenir o reducir la liberación de contaminantes al ambiente, prevenir la formación de lixiviados en suelos, evitar procesos de combustión no controlada, la generación de malos olores, la proliferación de fauna nociva y demás problemas ambientales y sanitarios;
+VIII. Recolección: Toda operación consistente en recoger, clasificar, agrupar o preparar residuos para su transporte;
 
-X. Secretaría: La Secretaría de Desarrollo Sustentable del Estado de Querétaro; y
+IX. Recolección selectiva: El sistema de recolección diferenciada de materiales orgánicos fermentables y de materiales reciclables, así como cualquier otro sistema de recolección diferenciada que permita la separación de los materiales valorizables contenidos en los residuos;
 
-XI. Sistemas de Manejo Ambiental: Conjunto de medidas adoptadas a través de las cuales se incorporan criterios ambientales en las actividades cotidianas de una organización, con el objetivo de minimizar su impacto negativo al ambiente, mediante el ahorro y consumo eficiente de agua, energía y materiales, y que alienta, con sus políticas de adquisiciones, la prevención de la generación de residuos, su aprovechamiento y su manejo integral.
+X. Relleno sanitario: Instalación en la cual se depositan de manera temporal o permanente los residuos sólidos urbanos, en sitios y en condiciones apropiados, para prevenir o reducir la liberación de contaminantes al ambiente, prevenir la formación de lixiviados en suelos, evitar procesos de combustión no controlada, la generación de malos olores, la proliferación de fauna nociva y demás problemas ambientales y sanitarios;
+
+XI. Secretaría: La Secretaría de Desarrollo Sustentable del Estado de Querétaro; y
+
+XII. Sistemas de Manejo Ambiental: Conjunto de medidas adoptadas a través de las cuales se incorporan criterios ambientales en las actividades cotidianas de una organización, con el objetivo de minimizar su impacto negativo al ambiente, mediante el ahorro y consumo eficiente de agua, energía y materiales, y que alienta, con sus políticas de adquisiciones, la prevención de la generación de residuos, su aprovechamiento y su manejo integral.
 
 ### CAPÍTULO II. DE LA DISTRIBUCIÓN DE COMPETENCIAS Y DE LA COORDINACIÓN
 
@@ -193,9 +197,13 @@ XVI. El establecimiento de acciones orientadas a recuperar las áreas degradadas
 
 XVII. La participación pública en la formulación de planes, programas y ordenamientos jurídicos relacionados con la gestión integral de los residuos, así como el acceso público a la información sobre todos los aspectos relacionados con ésta;
 
-XVIII. Los planes de manejo realizados por los particulares, seguirán, en todo momento, ligados al manejo de residuos sólidos urbanos y de manejo especial, debiendo las autoridades competentes respetarlos aún y cuando los cambios políticos demanden lo contrario; y
+> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2013)</small>
 
-XIX. Los demás que establezca el Reglamento de esta Ley y el Programa para la Prevención y Gestión Integral de Residuos Sólidos Urbanos y de Manejo Especial del Estado de Querétaro.
+XVIII. Queda prohibida la incineración de residuos sólidos urbanos y de residuos de manejo especial en el Estado de Querétaro;
+
+XIX. Los planes de manejo realizados por los particulares, seguirán, en todo momento, ligados al manejo de residuos sólidos urbanos y de manejo especial, debiendo las autoridades competentes respetarlos aún y cuando los cambios políticos demanden lo contrario; y
+
+XX. Los demás que establezca el Reglamento de esta Ley y el Programa para la Prevención y Gestión Integral de Residuos Sólidos Urbanos y de Manejo Especial del Estado de Querétaro.
 
 #### SECCIÓN I. DE LA PLANEACIÓN Y PROGRAMACIÓN
 
@@ -625,7 +633,9 @@ IX. El fomento o creación de basureros clandestinos;
 
 X. El depósito o confinamiento de residuos fuera de los sitios destinados para dicho fin, en parques, áreas verdes, áreas de valor ambiental, áreas naturales protegidas, zonas rurales o áreas de conservación ecológica y otros lugares no autorizados;
 
-XI. La incineración de residuos en condiciones contrarias a las establecidas en las disposiciones legales correspondientes, y sin el permiso de las autoridades competentes;
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2013)</small>
+
+XI. La incineración de residuos sólidos urbanos y de residuos de manejo especial en el Estado de Querétaro;
 
 XII. La dilución o mezcla de residuos sólidos urbanos o de manejo especial con líquidos para su vertimiento al sistema de alcantarillado, a cualquier cuerpo de agua o sobre suelos con o sin cubierta vegetal;
 
@@ -1264,3 +1274,13 @@ LIC. JOSÉ ALFREDO BOTELLO MONTES
 SECRETARIO DE GOBIERNO
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE ABRIL DE 2013.
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga"
+
+Artículo Segundo. Se abrogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente.
+
+Artículo Tercero. Envíese la presente Ley al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
