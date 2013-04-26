@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-instituto-de-cultura-de-baja-california-34535"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-24"
-last_updated: "2012-10-26"
+last_updated: "2013-04-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34535&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL INSTITUTO DE CULTURA DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 24 de octubre de 2003.
 
@@ -159,7 +159,7 @@ XVII. Proponer procedimientos e integrar jurados y comisiones dictaminadoras par
 
 > <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2012)</small>
 
-XVIII.- Promover, organizar y convocar en colaboración con otros órdenes de gobierno, instituciones u organismos públicos o privados, bienales, festivales o cualquier otro evento cultural y/o artístico de interés estatal, así como organizar la feria estatal del libro;
+XVIII. Promover, organizar y convocar en colaboración con otros órdenes de gobierno, instituciones u organismos públicos o privados, bienales, festivales o cualquier otro evento cultural y/o artístico de interés estatal, así como organizar la feria estatal del libro;
 
 XIX. Conforme a su capacidad presupuestal, promover, coproducir, distribuir y/o vender montajes escénicos, libros, folletos, discos, videos documentales, material didáctico, catálogos y productos artísticos y artesanales;
 
@@ -175,13 +175,25 @@ XXIV. Promover y fomentar la adquisición del material didáctico y de lectura p
 
 XXV. Coordinar y supervisar la Red Estatal de Bibliotecas Públicas y fungir como enlace con la Red Nacional de Bibliotecas Públicas, conforme a los acuerdos de coordinación que se hubieren celebrado o se celebren con esa instancia Federal y/o los ayuntamientos;
 
-XXVI. Apoyar la descentralización de los bienes y servicios culturales y artísticos, a favor del fortalecimiento de los municipios del Estado;
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2013)</small>
 
-XXVII. Promover acciones interdisciplinarias y celebrar convenios de coordinación interinstitucional, con los entes públicos o privados que tengan interés en el desarrollo de la cultura y el arte en el Estado;
+XXVI. Promover ante las autoridades competentes los acuerdos y autorizaciones correspondientes para adquirir y acceder a los libros y contenidos digitales, así como promocionar, instalar, y modernizar las bibliotecas digitales dentro de las bibliotecas públicas a cargo del estado;
 
-XXVIII. Definir políticas y establecer estrategias que impulsen el desarrollo cultural de niños, jóvenes y adultos con capacidades diferentes, que motiven la participación de este sector de la sociedad en la actividad cultural del Estado, y
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2013)</small>
 
-XXIX. Las demás que sean necesarias para el cumplimiento de su objeto, así como las que le confieran otras leyes y disposiciones aplicables.
+XXVII. Apoyar la descentralización de los bienes y servicios culturales y artísticos, en favor del fortalecimiento de los municipios del Estado;
+
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2013)</small>
+
+XXVIII. Promover acciones interdisciplinarias y celebrar convenios de coordinación interinstitucional, con los entes públicos o privados que tengan interés en el desarrollo de la cultura y el arte en el Estado;
+
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2013)</small>
+
+XXIX. Definir políticas y establecer estrategias que impulsen el desarrollo cultural de niños, jóvenes y adultos con capacidades diferentes, que motiven la participación de este sector de la sociedad en la actividad cultural del Estado, y
+
+> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2013)</small>
+
+XXX. Las demás que sean necesarias para el cumplimiento de su objeto, así como las que le confieran otras leyes y disposiciones aplicables.
 
 ### CAPÍTULO IV. DE LA VINCULACIÓN CON EL SECTOR EDUCATIVO
 
@@ -237,9 +249,13 @@ d) El Oficial Mayor de Gobierno;
 
 e) Un representante de las instituciones públicas de educación media superior, superior e institutos de investigación;
 
-f) Un representante de las instituciones privadas de educación media superior, superior e institutos de investigación, y
+f) Un representante de las instituciones privadas de educación media superior, superior e institutos de investigación, y (sic)
 
 g) Un representante de los organismos empresariales del sector privado en el Estado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE ABRIL DE 2013)</small>
+
+h) Un representante de los grupos y organizaciones de cada una de las tres artes escénicas las cuales son el teatro, la danza y la música que operen en forma independiente en la entidad legalmente constituidas.
 
 Cuando así lo considere necesario, la Junta de Gobierno podrá invitar a formar parte de la misma con derecho a voz pero sin voto, a los particulares o a los representantes de los organismos públicos o privados afines a su objeto.
 
@@ -247,13 +263,17 @@ Cuando así lo considere necesario, la Junta de Gobierno podrá invitar a formar
 
 Para el debido cumplimiento de sus atribuciones, la Junta de Gobierno contará con un Secretario Técnico, que será el Director General del ICBC, el cual podrá participar en las sesiones de la misma con derecho a voz pero sin voto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ABRIL DE 2013)</small>
+
 ###### ARTÍCULO 17.
 
-Los vocales señalados por los incisos e), f), y g) de la fracción II, del artículo 15 de esta Ley, serán propuestos respectivamente, por las instituciones públicas o privadas de educación media superior, superior e institutos de investigación, así como por los organismos empresariales del sector privado en el Estado, y se elegirán conforme al procedimiento siguiente:
+Los vocales señalados por los incisos e), f), g) y h) de la fracción II, del artículo 15 de esta Ley, serán propuestos respectivamente, por las instituciones públicas y privadas de educación media superior, superior e institutos de investigación, de los organismos empresariales del sector privado en el Estado, así como un representante de los grupos y organizaciones de cada una de las tres artes escénicas las cuales son el teatro, la danza y la música que operen en forma independiente en la entidad legalmente constituidas y se elegirán conforme al procedimiento siguiente:
 
 I. La Secretaría de Educación y Bienestar Social, será la responsable de convocar y supervisar el proceso de elección;
 
-II. Se convocará públicamente cada dos años, en el Periódico Oficial del Estado y en un diario de mayor circulación en la entidad, a las instituciones públicas o privadas de educación media superior, superior e institutos de investigación, así como a los organismos empresariales del sector privado en el Estado, para que presenten por conducto de sus representantes legales sus propuestas por escrito y acrediten la satisfacción de los requisitos solicitados;
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2013)</small>
+
+II. Se convocará públicamente cada dos años, en el Periódico Oficial del Estado y en un diario de mayor circulación en la entidad, a las instituciones públicas y privadas de educación media superior, superior e institutos de investigación, a los organismos empresariales del sector privado en el Estado, así como un representante de los grupos y organizaciones de cada una de las tres artes escénicas las cuales son el teatro, la danza y la música que operen en forma independiente en la entidad legalmente constituidas para que presenten por conducto de sus representantes legales sus propuestas por escrito y acrediten la satisfacción de los requisitos solicitados;
 
 III. La convocatoria deberá cumplir por lo menos, con los requisitos siguientes:
 
@@ -269,11 +289,15 @@ e) Los demás que determine el Reglamento Interno.
 
 IV. La elección de los vocales a que se refiere este artículo podrá realizarse en la misma sesión, pero de manera separada;
 
-V. La elección, según corresponda, se realizará mediante votación directa de los representantes legales de las instituciones públicas o privadas de educación media superior, superior e institutos de investigación, así como de los organismos empresariales del sector privado en el Estado, que asistan al evento. El candidato electo deberá contar con la mayoría de los votos acreditados;
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2013)</small>
+
+V. La elección, según corresponda, se realizará mediante votación directa de los representantes legales de las instituciones públicas y privadas de educación media superior, superior e institutos de investigación, de los organismos empresariales del sector privado en el Estado, así como un representante de los grupos y organizaciones de cada una de las tres artes escénicas las cuales son el teatro, la danza y la música que operen en forma independiente en la entidad legalmente constituidas que asistan al evento. El candidato electo deberá contar con la mayoría de los votos acreditados;
 
 VI. En caso de que en una primera ronda exista empate o no se obtenga la cantidad de votos requeridos, se pasará a una siguiente ronda de votación, hasta determinar la mayoría, y
 
-VII. Los vocales designados durarán en su cargo dos años, pero podrán ser reelectos para un segundo período, siempre y cuando sean nuevamente propuestos por quienes tengan derecho a ello y cumplan con los requisitos que para tal efecto se exijan.
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2013)</small>
+
+VII. Los vocales designados durarán en su cargo dos años, serán rotativos según su representación y no podrán ser reelectos para un segundo período inmediato posterior, siendo propuestos por quienes tengan derecho a ello y cumplan con los requisitos que para tal efecto se exijan.
 
 ###### ARTÍCULO 18.
 
@@ -558,3 +582,23 @@ P.O. 26 DE OCTUBRE DE 2012.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Para la aplicación de las presentes disposiciones, se deberá crear la obligatoriedad de la feria del libro mediante un programa institucional en vinculación con el sistema educativo.
+
+P.O. 26 DE ABRIL DE 2013.
+
+DECRETO NO. 441, POR EL QUE SE REFORMA EL ARTÍCULO 12 DE LA LEY DEL INSTITUTO DE CULTURA DEL ESTADO DE BAJA CALIFORNIA.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos de publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 26 DE ABRIL DE 2013.
+
+DECRETO NO. 442, POR EL QUE SE REFORMAN LOS ARTÍCULOS 15 Y 17 DE LA LEY DEL INSTITUTO DE CULTURA DEL ESTADO DE BAJA CALIFORNIA.
+
+PRIMERO: El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico Oficial del Estado, órgano de difusión del Poder Ejecutivo del Estado Libre y Soberano de Baja California.
+
+SEGUNDO: El Poder Ejecutivo Estatal, efectuará las reformas al reglamento en materia de cultura con el objeto de integrar los ajustes necesarios de las presentes reformas a la norma vigente.
