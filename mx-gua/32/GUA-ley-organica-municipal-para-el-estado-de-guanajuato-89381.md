@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-municipal-para-el-estado-de-guanajuato-89381"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-09-11"
-last_updated: "2012-09-11"
+last_updated: "2013-04-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2013.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el martes 11 de septiembre de 2012.
 
@@ -1099,9 +1099,17 @@ V. De Salud Pública y Asistencia Social;
 
 VI. De Educación, Cultura, Recreación y Deporte;
 
-VII. De Desarrollo Rural y Económico; y
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2013)</small>
 
-VIII. De Contraloría.
+VII. De Desarrollo Rural y Económico;
+
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2013)</small>
+
+VIII. De Contraloría; y
+
+> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2013)</small>
+
+IX. De Igualdad de Género.
 
 ### Capítulo X. De la Desaparición de Ayuntamientos o Concejos Municipales
 
@@ -3218,3 +3226,19 @@ HÉCTOR GERMÁN RENÉ LÓPEZ SANTILLANA
 EL SECRETARIO DE GOBIERNO
 
 ROMÁN CIFUENTES NEGRETE
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE ABRIL DE 2013.
+
+Vigencia
+
+Artículo Primero. El presente Decreto entrará en vigencia al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Instalación de la comisión
+
+Artículo Segundo. Los ayuntamientos del Estado de Guanajuato que no cuenten con una Comisión ordinaria de Igualdad de Género, deberán instalarla, dentro de los sesenta días siguientes a la entrada en vigor del presente decreto.
+
+Adecuación normativa
+
+Artículo Tercero. Los ayuntamientos deberán realizar las adecuaciones a los reglamentos respectivos dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
