@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-educacion-del-estado-de-baja-california-6367"
 country: "mx"
 rank: "ley"
 publication_date: "1995-09-29"
-last_updated: "2012-12-28"
+last_updated: "2013-04-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2013.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 29 de septiembre de 1995.
 
@@ -79,11 +79,11 @@ El Ejecutivo del Estado, de conformidad con las disposiciones aplicables proveer
 
 El Ejecutivo del Estado vigilará que el presupuesto destinado al sector educativo para la construcción, mantenimiento, mejoramiento, rehabilitación o remodelación, interior o exterior de inmuebles educativos, no sea utilizado de forma tal que promueva partidos, ideologías, servidores públicos, que pudieran influir u orientar las preferencias electorales o simpatías políticas de los niños, niñas, adolescentes y jóvenes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ABRIL DE 2013)</small>
 
 ###### ARTICULO 5.
 
-El ejecutivo Estatal en el ámbito de su competencia y atribuciones, está obligado a prestar servicios educativos suficientes a todos los habitantes del Estado para cursar la educación preescolar, primaria y secundaria bajo el criterio de la mayor calidad y equidad.
+El Ejecutivo Estatal en el ámbito de su competencia y atribuciones, está obligado a prestar servicios educativos suficientes a todos los habitantes del Estado para cursar la educación preescolar, primaria y secundaria bajo el criterio de la mayor calidad y equidad.
 
 I.- Atenderá de manera especial las escuelas en que, por estar en localidades aisladas o zonas urbanas marginadas, sea considerablemente mayor la posibilidad de atrasos o deserciones.
 
@@ -107,11 +107,15 @@ VII.- Atenderá de manera especial, las escuelas en las que se imparta educació
 
 VIII.- Dará acceso a uniformes escolares gratuitos por ciclo escolar a alumnos de escasos recursos inscritos en las escuelas públicas del Estado, en los niveles de preescolar, primaria y secundaria.
 
-> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2013)</small>
 
 El Estado también promoverá el desarrollo de programas asistenciales, de prevención de riesgos y accidentes, la educación vial, campañas de salubridad y demás medidas tendientes a contrarrestar las condiciones sociales que inciden en la efectiva igualdad de oportunidades de acceso y permanencia en los servicios educativos.
 
-> <small>(ADICIONADO, P.O. 6 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2013)</small>
+
+Así mismo fomentará la coordinación entre las autoridades estatales de educación y salud pública a efecto de que se establezcan acciones conjuntas para la vigilancia y detección oportuna de enfermedades transmisibles y no transmisibles en los planteles educativos con el objeto de su prevención y control oportuna por medio de los Consejos de Participación Social.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE ABRIL DE 2013)</small>
 
 Las previsiones descritas en este artículo se harán en los presupuestos respectivos.
 
@@ -175,11 +179,13 @@ La Educación que impartan el Estado, los municipios, sus organismos descentrali
 
 I.- Contribuir al desarrollo integral del individuo, resaltando los valores personales, sociales, éticos, físicos y artísticos, para que ejerza plena y responsablemente sus capacidades humanas.
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2013)</small>
 
-II.- Favorecer la adquisición tanto de conocimientos científicos, culturales y artísticos, así como de actitudes éticas; fomentando igualmente el desarrollo de la capacidad de aprendizaje, el interés y metodología de la investigación y el sentido crítico, así como el sentido de la disciplina, del orden y de la justa libertad.
+II.- Promover y difundir la lectura, así como favorecer la adquisición tanto de conocimientos científicos y culturales como de actitudes éticas; fomentando igualmente el desarrollo de la capacidad de aprendizaje, el interés y metodología de la investigación y el sentido crítico, así como el sentido de la disciplina, del orden y de la justa libertad.
 
-III.- Fortalecer la conciencia de la nacionalidad y de la soberanía, el conocimiento y aprecio por la historia, el amor y respeto a los símbolos patrios y las instituciones nacionales, así como la valoración de las tradiciones y particularidades culturales de las diversas regiones del País.
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2013)</small>
+
+III.- Difundir al educando el conocimiento de la Constitución Política de los Estados Unidos Mexicanos y de la Constitución Política del Estado Libre y Soberano de Baja California; Fortalecer la conciencia de la nacionalidad y de la soberanía, el conocimiento y aprecio por la historia, el amor y respeto a los símbolos patrios y las instituciones nacionales, el conocimiento del Escudo y el Canto del Estado de Baja California, así como la valoración de las tradiciones y particularidades culturales del Estado y de las diversas regiones del País.
 
 > <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2012)</small>
 
@@ -197,9 +203,9 @@ VII.- Impulsar actitudes que estimulen la investigación e innovación científi
 
 VIII.- Impulsar y aplicar la creación artística y propiciar la adquisición, el enriquecimiento y la difusión de los bienes y valores de la cultura universal, en especial de aquéllos que constituyen el patrimonio cultural de la Nación.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 28 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2013)</small>
 
-IX.- Aplicar la educación física y la práctica del deporte sin distinción alguna de condición social o discriminatoria por motivos de discapacidad.
+IX.- Crear conciencia en la preservación de la salud fomentando la educación en materia de nutrición, desarrollando programas que estimulen la cultura física y la práctica del deporte dentro de las instituciones educativas por lo menos 3 horas por semana; impulsando programas que estimulen el seguimiento a deportistas de alto rendimiento; sin distinción alguna de condición social o discriminatoria por motivos de discapacidad.
 
 > <small>(REFORMADA, P.O. 16 DE MARZO DE 2012)</small>
 
@@ -241,13 +247,15 @@ XIX.- Realizar acciones educativas y preventivas a fin de evitar que se cometan 
 
 XX.- Inculcar los conceptos y principios fundamentales de la prevención de riesgos y accidentes, la educación vial, así como la protección civil y su importancia para la prevención, mitigación, auxilio y salvaguarda de las personas, sus bienes y entorno; en casos de emergencia y desastre, provocados por factores geológicos, hidrometereológicos, químicos, sanitarios y socio-organizativos.
 
-> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2013)</small>
 
-XXI.- Promover el uso responsable y seguro de Internet y las redes sociales digitales; y
+XXI.- Promover el uso responsable y seguro de Internet y las redes sociales digitales.
 
-> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2011)</small>
+> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2013)</small>
 
-XXII.- Los demás que no se contrapongan a la Ley General de Educación, a la presente Ley y que coadyuven al logro de sus objetivos.
+XXII.- Informar a los padres de familia o tutores de los educandos que presenten problemas de conducta, para que, en su caso, sean canalizados a través de la estructura educativa a las instancias de apoyo psicológico, para que se determinen alternativas de solución con el fin de que reciban el tratamiento necesario.
+
+XXIII.- Los demás que no se contrapongan a la Ley General de Educación, a la presente Ley y que coadyuven al logro de sus objetivos.
 
 ### CAPITULO II. ATRIBUCIONES DEL EJECUTIVO DEL ESTADO Y LOS AYUNTAMIENTOS EN MATERIA EDUCATIVA
 
@@ -1033,23 +1041,37 @@ Las autoridades educativas harán lo conducente para que en cada escuela públic
 
 Las autoridades educativas podrán estructurar el sistema de consejos de participación social de acuerdo a las necesidades propias de cada región.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ABRIL DE 2013)</small>
 
 ###### ARTICULO 69.
 
-Los consejos escolares, además de los lineamientos que para tal efecto expida la Secretaría de Educación Pública:
+Los Consejos Escolares, además de los lineamientos que para tal efecto expida la Secretaría de Educación Pública:
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2011)</small>
 
 I.- Conocerán el calendario escolar, las metas educativas, el Proyecto Educativo del Estado y el avance de las actividades escolares, con el objeto de coadyuvar con el docente a su mejor realización;
 
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2011)</small>
+
 II.- Conocerán y darán seguimiento de las acciones que realicen los educadores y autoridades educativas señaladas en el segundo párrafo del artículo 35 de la presente ley;
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2011)</small>
 
 III.- Conocerán de las acciones educativas y de prevención que realicen las autoridades para que los educandos conozcan y detecten la posible comisión de hechos delictivos que puedan perjudicar al educando;
 
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2011)</small>
+
 IV.- Sensibilizarán a la comunidad, mediante la divulgación de material que prevenga la comisión de delitos en agravio de los educandos; así como también, de elementos que procuren la defensa de los derechos de las víctimas de tales delitos;
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2011)</small>
 
 V.- Tomarán nota de los resultados de las evaluaciones que realicen las autoridades educativas;
 
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2011)</small>
+
 VI.- Propiciarán la colaboración de maestros y padres de familia para salvaguardar la integridad y educación plena de los educandos, podrán proponer estímulos y reconocimientos de carácter social a alumnos, maestros, directivos y empleados de la escuela;
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2011)</small>
 
 VII.- Estimularán, promoverán y apoyarán actividades extraescolares que complementen y respalden la formación de los educandos;
 
@@ -1057,19 +1079,33 @@ VII.- Estimularán, promoverán y apoyarán actividades extraescolares que compl
 
 VIII.- Llevarán a cabo las acciones de participación, coordinación y difusión necesarias para la prevención de riesgos y accidentes, educación vial, protección civil y la emergencia escolar;
 
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2011)</small>
+
 IX.- Alentarán el interés familiar y comunitario por el desempeño del educando;
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2011)</small>
 
 X.- Opinarán en asuntos pedagógicos y en temas que permitan la salvaguarda del libre desarrollo de la personalidad, integridad y derechos humanos de los educandos;
 
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2011)</small>
+
 XI.- Contribuirán a reducir las condiciones sociales adversas que influyan en la educación;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 28 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2013)</small>
 
-XII.- Estarán facultados para realizar convocatorias para trabajos específicos de mejoramiento de las instalaciones escolares, y en general, las que tiendan apoyar (sic) las necesidades especiales de los educandos, y
+XII.- Estarán facultados para realizar convocatorias para trabajos específicos de mejoramiento de las instalaciones escolares, y en general, las que tiendan apoyar las necesidades especiales de los educandos;
 
-XIII.- Respaldarán las labores cotidianas de la escuela y en general, podrán realizar actividades en beneficio de la propia escuela sin menoscabo de las acciones que implementen otras organizaciones.
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2013)</small>
 
-Consejos análogos deberán operar en las escuelas particulares de educación básica.
+XIII.- Promoverán y organizarán acciones de prevención para la salud en coordinación con la Secretaría de Salud Pública del Estado a efecto de detectar oportunamente dentro de los planteles escolares la aparición y proliferación de enfermedades trasmisibles y no trasmisibles con el objeto de dar aviso a la autoridad sanitaria para su control y tratamiento. Así mismo promoverán campañas de vacunación y promoverán acciones de salubridad pública en el entorno social de los planteles educativos, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE ABRIL DE 2013)</small>
+
+XIV.- Respaldarán las labores cotidianas de la escuela y en general, podrán realizar actividades en beneficio de la propia escuela sin menoscabo de las acciones que implementen otras organizaciones.
+
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2013)</small>
+
+Los Consejos Análogos deberán operar en las escuelas particulares de educación básica.
 
 ###### ARTICULO 70.
 
@@ -1077,39 +1113,65 @@ Los consejos sectoriales o de delegación municipal estarán integrados por el D
 
 Estos consejos tendrán las facultades establecidas para los consejos escolares y coadyuvarán con los consejos municipales en las actividades que les sean encomendadas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ABRIL DE 2013)</small>
 
 ###### ARTICULO 71.
 
-En cada municipio operará un consejo municipal de participación social en la educación integrado por las autoridades municipales, padres de familia y representantes de sus asociaciones, docentes distinguidos y directivos de escuelas, representantes de la organización sindical de los trabajadores de la educación, representantes de organizaciones sociales cuyo objeto social sea la educación y todas aquellas personas interesadas en el mejoramiento de la educación.
+En cada Municipio operará un Consejo Municipal de Participación Social en la Educación integrado por las Autoridades Municipales, Padres de Familia y Representantes de sus Asociaciones, Docentes Distinguidos y Directivos de Escuelas, Representantes de la Organización Sindical de los Trabajadores de la Educación, Representantes de Organizaciones Sociales cuyo objeto social sea la educación y todas aquellas personas interesadas en el mejoramiento de la educación.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ABRIL DE 2013)</small>
 
-Este consejo gestionará ante los ayuntamientos y las autoridades educativas:
+Este consejo gestionará ante los Ayuntamientos y las Autoridades Educativas:
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2011)</small>
 
 I. El mejoramiento de los servicios educativos, la construcción y ampliación de escuelas públicas y demás proyectos de desarrollo educativo en el municipio;
 
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2011)</small>
+
 II. Conocerán de los resultados de las evaluaciones que realicen las autoridades educativas;
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2011)</small>
 
 III. Llevarán a cabo labores de seguimiento de las actividades de las escuelas públicas de educación básica del propio municipio;
 
-IV. Estimularán, promoverán y apoyarán actividades de intercambio, colaboración y participación interescolar en aspectos culturales, cívicos, deportivos y sociales;
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2013)</small>
+
+IV.- Estimularán, promoverán y apoyarán actividades de intercambio, colaboración y participación interescolar en aspectos culturales, cívicos, deportivos, sociales así como de prevención de la salud pública dentro de los planteles educativos y de su entorno social;
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2011)</small>
 
 V. Establecerán la coordinación de escuelas con autoridades y programas de bienestar comunitario, particularmente con aquellas autoridades que atiendan temas relacionados con la defensa de los derechos consagrados en la Ley para la Protección de los Derechos de las Niñas, Niños y Adolescentes;
 
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2011)</small>
+
 VI. Harán aportaciones relativas a las particularidades del municipio, que contribuyan a la formulación de contenidos locales a ser propuestos para los planes y programas de estudio;
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2011)</small>
 
 VII. Podrán opinar en asuntos pedagógicos;
 
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2011)</small>
+
 VIII. Coadyuvarán a nivel municipal en actividades de protección civil y emergencia escolar;
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2011)</small>
 
 IX. Promoverán la superación educativa en el ámbito municipal mediante certámenes interescolares;
 
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2011)</small>
+
 X. Promoverán actividades de orientación, capacitación, y difusión dirigidas a padres de familia y tutores, para que cumplan cabalmente con sus obligaciones en materia educativa;
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2011)</small>
 
 XI. Podrán proponer estímulos y reconocimientos de carácter social a alumnos, maestros, directivos y empleados escolares;
 
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2011)</small>
+
 XII. Procurarán la obtención de recursos complementarios para el mantenimiento físico y para proveer de equipo básico a cada escuela pública, y
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2011)</small>
 
 XIII. En general, podrán realizar actividades para apoyar y fortalecer la educación en el municipio.
 
@@ -1626,3 +1688,21 @@ PRIMERO: El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO: Se derogan las disposiciones que se opongan al presente Decreto.
 
 TERCERO: Con relación a las reformas a los artículos 14, fracciones I, II y VIII, 22 fracción II, 28, 29, y adición del artículo 30 bis, todos de la Ley de Educación para el Estado de Baja California, el Sistema Educativo Estatal, deberá formular la estructura administrativa para la creación de las áreas necesarias para el cumplimiento de este Decreto o en su caso, la modificación del reglamento respectivo para asignar las funciones correspondientes de la educación artística al área que corresponda.
+
+P.O. 26 DE ABRIL DE 2013.
+
+DECRETO No. 439, POR EL QUE SE REFORMAN LAS FRACCIONES II, III Y IX, ASÍ COMO SE ADICIONA LA FRACCIÓN XXIII Y SE RECORRE LA FRACCIÓN XXII PARA QUEDAR COMO FRACCIÓN XXIII, TODAS DEL ARTÍCULO 14 DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA.
+
+###### ARTÍCULO PRIMERO
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO
+
+El Ejecutivo del Estado, en el ciclo escolar inmediato a partir de la entrada en vigor del presente Decreto, deberá incluir a los programas de estudio del Sistema de Educativo Estatal, los fines educativos que contempla esta reforma del artículo 14 de la Ley de Educación de Baja California.
+
+P.O. 26 DE ABRIL DE 2013.
+
+DECRETO No. 443, POR ELQUE SE REFORMAN LOS ARTÍCULOS 5, 69 Y 71 DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
