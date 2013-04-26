@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "2013-04-12"
+last_updated: "2013-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2013.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -108,17 +108,31 @@ Derechos Humanos y sus Garantías.
 
 Dentro del territorio del Estado, toda persona gozará de los derechos humanos reconocidos en esta Constitución, en la Constitución Política de los Estados Unidos Mexicanos y en los tratados internacionales en los que el Estado Mexicano sea parte. El ejercicio de estos derechos no podrá restringirse ni suspenderse, salvo los casos y bajo las condiciones que establece la Constitución Federal.
 
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2013)</small>
+
+Las normas relativas a los derechos humanos y a las libertades reconocidas por la Constitución de los Estados Unidos Mexicanos y esta Constitución, se interpretaran de conformidad con los tratados internacionales de la materia favoreciendo en todo tiempo a las personas la protección más amplia.
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2013)</small>
+
+Ninguna disposición legal puede ser interpretada en el sentido de:
+
+a) Permitir a la autoridad suprimir el goce y ejercicio de los derechos y libertades reconocidos en la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y los Tratados internacionales suscritos por México.
+
+b) Limitar el goce y ejercicio de cualquier derecho o libertad que puedan estar reconocidos en la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y los Tratados internacionales suscritos por México.
+
+c) Excluir otros derechos y garantías que sean inherentes al ser humano o que se deriven de la forma democrática y representativa de gobierno.
+
 > <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2012)</small>
 
 Todas las autoridades estatales y municipales, en el ámbito de su competencia, tendrán la obligación de promover, respetar, proteger y establecer los mecanismos que garanticen los derechos humanos bajo los principios de universalidad, interdependencia, indivisibilidad y progresividad. El Estado deberá de prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos que determine la ley.
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 2006)</small>
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2013)</small>
 
-Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos humanos y libertades de estas personas. La ley establecerá mecanismos a favor de dichas personas, para que el goce de sus derechos de libertad, igualdad, seguridad jurídica y justicia social, sean reales, efectivos y equitativos dentro del estado humanista, social y democrático de derecho que salvaguarda esta Constitución.
+Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos humanos y libertades de las personas. La ley establecerá mecanismos a favor de las personas, para que el goce de sus derechos de libertad, igualdad, seguridad jurídica y justicia social, sean reales, efectivos y equitativos dentro del estado humanista, social y democrático de derecho que salvaguarda esta Constitución.
 
-> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2013)</small>
 
-Toda persona tiene derecho a la intimidad. Este derecho será garantizado en el marco de la sociedad democrática.
+Toda persona tiene derecho a la protección de sus datos personales, al acceso, rectificación y cancelación de los mismos, así como a manifestar su oposición, en los términos que fije la ley, la cual establecerá los supuestos de excepción a los principios que rijan el tratamiento de datos, por razones de seguridad nacional, disposiciones de orden público, seguridad y salud públicas o para proteger los derechos de terceros. La información que se refiere a la vida privada y los datos personales será protegida en los términos y con las excepciones que fijen las leyes.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE AGOSTO DE 2012)</small>
 
@@ -1798,7 +1812,13 @@ Frente a una situación de emergencia, natural o humana, que rebase las posibili
 
 La función de seguridad pública estatal comprende el sistema penitenciario, que se organizará sobre la base del respeto a los derechos humanos, del trabajo, la capacitación para el mismo, la educación, la salud y el deporte como medios para lograr la reinserción a la sociedad de las personas sentenciadas y procurar que no vuelvan a delinquir, observando los beneficios que para ellas prevé la ley.
 
-El Estado formará un cuerpo policial especializado en la vigilancia de los centros de reinserción social.
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2013)</small>
+
+Toda persona privada de su libertad tiene derecho a ser alimentada y a tener acceso a asistencia médica, con cargo a los fondos públicos.
+
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2013)</small>
+
+El Estado formará un cuerpo policial especializado en la vigilancia de los centros penitenciarios.
 
 > <small>(REFORMADO, P.O. 8 DE ABRIL DE 2012)</small>
 
@@ -1816,7 +1836,13 @@ Los particulares podrán prestar servicios de seguridad privada previa autorizac
 
 La procuración de justicia es una función esencial y por tanto indelegable del Estado que tiene por objeto proteger los intereses de la sociedad y resguardar la observancia de la ley, particularmente por lo que toca a la investigación y persecución de los delitos del orden común. Se ejerce a través de un órgano de la administración pública centralizada, denominado Procuraduría General de Justicia del Estado que se integra por el Ministerio Público, sus órganos auxiliares y áreas de apoyo.
 
-El Ministerio Público es una institución de buena fe, única e indivisible, que tiene como propósito velar, en el ámbito de su competencia, por la constitucionalidad y legalidad como principios rectores de la convivencia social, así como participar en el diseño, implementación y evaluación de la política contra el crimen en el Estado. En el ejercicio de su función de investigación y persecución de los delitos, el Ministerio Público goza de total autonomía, por lo que ningún funcionario del Poder ejecutivo o de cualquier otro poder podrá intervenir en sus decisiones.
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2013)</small>
+
+La investigación de los delitos corresponde al Ministerio Público y a las policías, las cuales actuarán bajo la conducción y mando de aquél en el ejercicio de esta función.
+
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2013)</small>
+
+El Ministerio Público es la institución única e indivisible, que dirige la investigación y persecución de los hechos probablemente constitutivos de delitos y, en su caso, promueve el ejercicio de la acción penal ante los tribunales de justicia, protege y brinda atención a las víctimas del delito y testigos, con el respeto irrestricto a los Derechos Humanos del imputado y demás intervinientes. En el ejercicio de su función de investigación y persecución de los delitos, el Ministerio Público goza de total autonomía, para garantizar su independencia en la emisión de las determinaciones de su competencia, por lo que ningún funcionario del Poder Ejecutivo o de cualquier otro poder podrá intervenir en sus decisiones.
 
 La actuación del personal de procuración de justicia se regirá bajo los principios de legalidad, eficiencia, profesionalismo, honradez, imparcialidad, transparencia, objetividad, independencia y respeto a los derechos humanos.
 
@@ -1918,9 +1944,9 @@ La educación y la enseñanza será organizada como un proceso integral correlac
 
 El Estado y los municipios prestarán los servicios de educación preescolar, primaria y secundaria. Todos los habitantes del Estado deben cursar las dos últimas.
 
-> <small>(ADICIONADO, P.O. 24 DE MAYO DE 1996)</small>
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2013)</small>
 
-La educación preescolar, primaria y secundaria que impartan el Estado y los municipios en establecimientos sostenidos por recursos públicos será gratuita.
+La educación preescolar, primaria y secundaria que impartan el Estado y los municipios en establecimientos sostenidos por recursos públicos será gratuita y tenderá a desarrollar armónicamente, todas las facultades del ser humano y fomentará en él, a la vez, el amor a la Patria, el respeto a los derechos humanos y la conciencia de la solidaridad internacional, en la independencia y en la justicia.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -2310,7 +2336,7 @@ Los Magistrados de los Tribunales Unitarios de Distrito, los Jueces de Primera I
 
 De las Garantías de Acceso y Ejercicio de la Función Jurisdiccional.
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ABRIL DE 2013)</small>
 
 ###### Artículo 148.
 
@@ -2384,41 +2410,89 @@ La Justicia Constitucional Local.
 
 ###### Artículo 154.
 
-Toda persona tiene derecho al acceso a la justicia para tutelar de manera efectiva sus derechos fundamentales.
+Toda persona tiene derecho al acceso a la justicia de manera pública, gratuita, pronta, expedita y completa para tutelar de manera efectiva sus derechos fundamentales.
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2005)</small>
 
 Esta garantía de la tutela judicial efectiva se regirá por los principios siguientes:
 
-I. Ninguna persona podrá hacerse justicia por sí misma, ni ejercer violencia para reclamar su derecho. Se prohíben los tribunales especiales. El servicio de justicia será gratuito. Quedan prohibidas las costas judiciales.
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2013)</small>
+
+I. Ninguna persona podrá hacerse justicia por sí misma, ni ejercer violencia para reclamar su derecho. Nadie puede ser juzgado por leyes privativas ni por tribunales especiales. El servicio de justicia será gratuito. Quedan prohibidas las costas judiciales.
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2005)</small>
 
 II. El acceso a la justicia se sujetará a lo siguiente:
 
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2005)</small>
+
 1. La garantía de la transparencia judicial que significa la publicidad de la función de los jueces, desde su organización y funcionamiento hasta el acceso libre al expediente y actuaciones judiciales, salvo los casos reservados por razones válidas de orden público o privado conforme a la ley.
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2005)</small>
 
 2. La dirección e impulso del proceso por parte de los jueces, sin perjuicio de la disponibilidad de las partes.
 
-3. La garantía del breve juicio bajo principios de celeridad, oralidad, oportunidad y expeditez.
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2013)</small>
+
+3. La garantía del breve juicio bajo principios de celeridad, concentración, inmediación, oralidad, contradicción, continuidad, publicidad, oportunidad y expeditez. Los jueces tienen el deber de procurar que la justicia se imparta en condiciones de eficiencia, calidad, accesibilidad y transparencia, con respeto a la dignidad de la persona que acude en demanda del servicio judicial.
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2005)</small>
 
 4. El derecho a la igualdad, salvo la prevalencia del trato judicial más favorable a las personas más débiles o vulnerables.
 
-5. El derecho a la audiencia y defensa de las partes.
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2013)</small>
 
-6. El derecho a obtener una resolución fundada y motivada que ponga fin al proceso.
+5. El derecho a la audiencia previa y a una defensa adecuada de las partes. El Estado proporcionará el servicio de defensoría pública de calidad para la población, en las diversas materias del conocimiento de autoridades que tengan a su cargo funciones jurisdiccionales y asegurará las condiciones para un servicio profesional de carrera para los defensores. Las percepciones de los defensores no podrán ser inferiores a las que correspondan a los agentes del Ministerio Público.
 
-7. La interpretación más favorable del derecho fundamental.
+La defensoría pública, independientemente de su adscripción, contará con autonomía técnica, de gestión y operativa, y su objeto es coordinar, dirigir y controlar el servicio de la defensa pública, de acuerdo con las disposiciones de esta Constitución y demás ordenamientos legales aplicables. La defensoría pública desempeñará sus funciones jurídicas, técnicas y de gestión con independencia de su adscripción orgánica.
 
-8. La interpretación restrictiva de las causas de inadmisión de la controversia.
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2013)</small>
+
+6. El derecho a obtener una resolución fundada y motivada que ponga fin al proceso. Toda resolución deberá ser clara, precisa y accesible. Las sentencias que pongan fin a los procedimientos orales deberán ser explicadas en audiencia pública, previa citación de las partes.
+
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2013)</small>
+
+7. La interpretación más extensiva de la acción para permitir el más amplio acceso a la jurisdicción.
+
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2013)</small>
+
+8. La interpretación restrictiva de las causas de de (sic) improcedencia que sólo serán las estrictamente necesarias.
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2005)</small>
 
 9. El debido procedimiento con formalidades esenciales, a partir de los principios de antiformalismo, subsanabilidad, razonabilidad, proporcionalidad y estabilidad o conservación de los actos válidos.
 
-10. Los principios generales del proceso.
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2013)</small>
+
+10. Los principios generales del proceso, siendo éstos los de oralidad, publicidad, inmediación, concentración, continuidad y contradicción.
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2005)</small>
 
 11. El procedimiento judicial se podrá tramitar a través de un sistema de justicia digital confiable.
 
-12. La plena y efectiva ejecución de las resoluciones judiciales.
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2013)</small>
 
-III. La ley establecerá los casos en que procederá la indemnización a cargo del Estado, por los daños causados por error judicial grave o funcionamiento anormal de la administración de justicia.
+12. La plena y efectiva ejecución de las resoluciones judiciales. La ley establecerá los medios necesarios para que se garantice la plena ejecución de las resoluciones judiciales.
 
-IV. Se establecerá un sistema de justicia alternativa, a través de la mediación, conciliación, arbitraje o cualquier otro medio de solución alterno para resolver las controversias entre particulares.
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2013)</small>
+
+13. El derecho a un recurso sencillo que, en su caso, repare de manera rápida y eficaz las violaciones durante el proceso en los términos que establezca esta Constitución y la ley. Se considera que un recurso no es efectivo cuando es ilusorio, gravoso, desproporcional o cuando el legislador no ha regulado su debida aplicación en las leyes secundarias.
+
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2013)</small>
+
+III. La ley establecerá los casos en que procederá la indemnización a cargo del Estado, por los daños causados por error grave o funcionamiento anormal de la procuración o impartición de justicia.
+
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2013)</small>
+
+IV. El Estado establecerá un sistema de justicia alternativa para resolver las controversias entre particulares, cuyo servicio será gratuito. Las leyes regularán su aplicación, asegurarán la reparación del daño, fijarán medios equivalentes y establecerán los casos en los que se requerirá supervisión judicial. Se privilegiará la justicia restaurativa a fin de recomponer el tejido social y que el imputado o sentenciado pueda reintegrarse en mejores condiciones a la sociedad.
+
+> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2013)</small>
+
+V. El Poder Judicial contará con jueces de control que resolverán, en forma inmediata y por cualquier medio, las solicitudes de medidas cautelares, providencias precautorias y técnicas de investigación de la autoridad, que requieran control judicial, garantizando los derechos de los indiciados y de las víctimas u ofendidos. Deberá existir un registro fehaciente de todas las comunicaciones entre jueces y Ministerio Público y demás autoridades competentes.
+
+> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2013)</small>
+
+VI. Quienes sean miembros de los pueblos o comunidades indígenas tienen derecho a que en todos los juicios y procedimientos en que sean parte, individual o colectivamente, se tomen en cuenta sus costumbres y especificidades culturales, respetando los preceptos de esta Constitución y la Constitución Política de los Estados Unidos Mexicanos. Los indígenas tienen en todo tiempo el derecho a ser asistidos por intérpretes y defensores que tengan conocimiento de su lengua y cultura.
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 1988)</small>
 
@@ -2432,11 +2506,21 @@ En los juicios del orden criminal, queda prohibido imponer, por simple analogía
 
 En los juicios del orden civil, la sentencia definitiva deberá ser conforme a la letra o a la interpretación jurídica de la Ley, a falta de ésta, se fundará en los principios generales del derecho.
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2005)</small>
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2013)</small>
+
+Las comunicaciones privadas son inviolables. La ley sancionará penalmente cualquier acto que atente contra la libertad y privacía de la inviolabilidad personal, excepto cuando sean aportadas de forma voluntaria por alguno de los particulares que participen en ellas. El juez valorará el alcance de éstas, siempre y cuando contengan información relacionada para el esclarecimiento del delito.
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2013)</small>
+
+No se admitirán comunicaciones que violen la inviolabilidad personal o el deber de confidencialidad que establezca la ley, salvo las excepciones a la prueba ilícita.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ABRIL DE 2013)</small>
 
 ###### Artículo 156.
 
-Los juicios, los expedientes y las actuaciones judiciales serán públicas, salvo los casos que la ley exija que sean reservadas por razones de orden público o privado.
+Los juicios, los expedientes y las actuaciones judiciales serán públicas, salvo los casos de excepción que determine la ley.
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2005)</small>
 
 La garantía de la transparencia judicial se regirá por los principios siguientes:
 
@@ -2456,17 +2540,91 @@ II. Los jueces tienen el deber de trascender el ámbito de ejercicio de dicha fu
 
 III. Los actos de comunicación y difusión judicial se deberán realizar en términos sencillos y comprensibles a cualquier persona.
 
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2013)</small>
 
 ###### Artículo 157.
 
-Todo inculpado, desde el inicio de su proceso, deberá ser informado de los derechos que en su favor consignan la Constitución Política de los Estados Unidos Mexicanos y ésta Constitución; señaladamente los relativos a una defensa adecuada, por sí, por abogado, o por persona de su confianza; a un proceso público sin dilaciones indebidas y con todas las garantías; a utilizar todos los medios de prueba pertinentes para su defensa; a no ser compelido a declarar en su contra y a la presunción de inocencia.
+El proceso penal será acusatorio y oral. Se regirá por los principios de publicidad, contradicción, concentración, continuidad e inmediación.
 
-En todo proceso penal, la víctima o el ofendido por algún delito, tendrá derecho recibir asesoría jurídica y a ser informada de los derechos que en su favor establecen la Constitución Política de los Estados Unidos Mexicanos y esta Constitución; particularmente, a coadyuvar con el Ministerio Público; a que se le reciban todos los medios de prueba con los que cuente, tanto en la averiguación previa como en el proceso; a la reparación del daño, en los casos en que sea procedente, a recibir, desde la comisión del delito, atención medica y psicológica de urgencia, en caso de ser necesaria; a no ser careado con el inculpado, cuando el ofendido sea menor de edad y se trate de los delitos de violación y secuestro, y a solicitar las medidas y providencias que prevea la ley, para su seguridad y auxilio.
+A. De los principios generales:
 
-> <small>(ADICIONADO, P.O. 6 DE ENERO DE 2012)</small>
+I. El proceso penal tendrá por objeto el esclarecimiento de los hechos, proteger al inocente, procurar que el culpable no quede impune y que los daños causados por el delito se reparen;
 
-La imposición de las penas, su modificación y duración son propias y exclusivas de la autoridad judicial.
+II. Toda audiencia se desarrollará en presencia del juez, sin que pueda delegar en ninguna persona el desahogo y la valoración de las pruebas, la cual deberá realizarse de manera libre y lógica;
+
+III. Para los efectos de la sentencia sólo se considerarán como prueba aquellas que hayan sido desahogadas en la audiencia de juicio. La ley establecerá las excepciones y los requisitos para admitir en juicio la prueba anticipada, que por su naturaleza requiera desahogo previo;
+
+IV. El juicio se celebrará ante un juez que no haya conocido del caso previamente. La presentación de los argumentos y los elementos probatorios se desarrollará de manera pública, contradictoria y oral;
+
+V. La carga de la prueba para demostrar la culpabilidad corresponde a la parte acusadora, conforme lo establezca el tipo penal. Las partes tendrán igualdad procesal para sostener la acusación o la defensa, respectivamente;
+
+VI. Ningún juzgador podrá tratar asuntos que estén sujetos a proceso con cualquiera de las partes sin que esté presente la otra, respetando en todo momento el principio de contradicción, salvo las excepciones que establece la Constitución Política de los Estados Unidos Mexicanos;
+
+VII. Una vez iniciado el proceso penal, siempre y cuando no exista oposición del inculpado, se podrá decretar su terminación anticipada en los supuestos y bajo las modalidades que determine la ley. Si el imputado reconoce ante la autoridad judicial, voluntariamente y con conocimiento de las consecuencias, su participación en el delito y existen medios de convicción suficientes para corroborar la imputación, el juez citará a audiencia de sentencia. La ley establecerá los beneficios que se podrán otorgar al inculpado cuando acepte su responsabilidad;
+
+VIII. El juez sólo condenará cuando exista convicción de la culpabilidad del procesado;
+
+IX. Cualquier prueba obtenida con violación de derechos fundamentales será nula, y
+
+X. Los principios previstos en este artículo, se observarán también en las audiencias preliminares al juicio.
+
+B. Todo inculpado, desde el inicio de su proceso, deberá ser informado de los derechos que en su favor consignan la Constitución Política de los Estados Unidos Mexicanos y esta Constitución, señaladamente los relativos a:
+
+I. A que se presuma su inocencia mientras no se declare su responsabilidad mediante sentencia emitida por el juez de la causa. La presunción de inocencia es un derecho fundamental que se regulará como regla de juicio, de prueba y, en general, de tratamiento durante todo el procedimiento penal.
+
+II. Una defensa adecuada por abogado, al cual elegirá libremente incluso desde el momento de que conozca la imputación o su detención. Si no quiere o no puede nombrar un abogado, después de haber sido requerido para hacerlo, el juez le designará un defensor público.
+
+También tendrá derecho a que su defensor comparezca en todos los actos del proceso y éste tendrá obligación de hacerlo cuantas veces se le requiera.
+
+III. A un proceso público sin dilaciones indebidas y con todas las garantías;
+
+IV. A que se le informe, tanto en el momento de su detención como en su comparecencia ante el Ministerio Público o el juez, en qué se hacen consistir el o los hechos concretos que se le imputan y los derechos que le asisten.
+
+V. A utilizar todos los medios de prueba pertinentes para su defensa;
+
+VI. A declarar o guardar silencio, así como a no ser compelido a declarar en su contra. El indiciado no podrá ser obligado a declarar. Desde el momento de su detención se le harán saber los motivos de la misma y su derecho a guardar silencio, el cual no podrá ser utilizado en su perjuicio.
+
+Queda prohibida y será sancionada por la ley penal, toda incomunicación, intimidación, tortura y tratos crueles, inhumanos o degradantes. La confesión obtenida por estos medios o rendida sin la asistencia del defensor carecerá de todo valor probatorio.
+
+VII. A que se le reciban los testigos y demás pruebas pertinentes que ofrezca concediéndosele el tiempo que la ley estime necesario al efecto y auxiliándosele para obtener la comparecencia de las personas cuyo testimonio solicite, en los términos que señale la ley.
+
+VIII. A ser juzgado en audiencia pública por un juez o tribunal. La publicidad sólo podrá restringirse en los casos de excepción que determine la ley, por razones de seguridad pública, protección de las víctimas, testigos y menores, cuando se ponga en riesgo la revelación de datos legalmente protegidos, o cuando el tribunal estime que existen razones fundadas para justificarlo.
+
+IX. A ser juzgado antes de cuatro meses si se trata de delitos cuya pena máxima no exceda de dos años de prisión, y antes de un año si la pena excede de ese tiempo, salvo que solicite mayor plazo para su defensa.
+
+C. La víctima o el ofendido por algún delito en todo proceso penal, tendrá derecho a:
+
+I. Recibir asesoría jurídica, ser informada de los derechos que en su favor establecen la Constitución Política de los Estados Unidos Mexicanos y esta Constitución, y, cuando lo solicite, ser informado del desarrollo del procedimiento penal;
+
+II. Coadyuvar con el Ministerio Público, bajo los siguientes derechos:
+
+a) A que se le reciban todos los datos o elementos de prueba con los que cuente, tanto en la investigación como en el proceso,
+
+b) A que se desahoguen las diligencias correspondientes,
+
+c) A intervenir en el juicio e interponer los recursos en los términos que prevea la ley.
+
+Cuando el Ministerio Público considere que no es necesario el desahogo de la diligencia, deberá fundar y motivar su negativa.
+
+III. La reparación del daño, en los casos en que sea procedente. En los casos en que sea procedente, el Ministerio Público estará obligado a solicitar la reparación del daño, sin menoscabo de que la víctima u ofendido lo pueda solicitar directamente, y el juzgador no podrá absolver al sentenciado de dicha reparación si ha emitido una sentencia condenatoria. La ley fijará procedimientos ágiles para ejecutar las sentencias en materia de reparación del daño.
+
+IV. Recibir, desde la comisión del delito, atención médica y psicológica de urgencia, en caso de ser necesaria;
+
+V. Impugnar ante autoridad judicial las omisiones del Ministerio Público en la investigación de los delitos, así como las resoluciones de reserva, no ejercicio, desistimiento de la acción penal, suspensión del procedimiento, sentencias absolutorias o cualquier otra resolución que libere al imputado.
+
+VI. Al resguardo de su identidad y otros datos personales cuando sea menor de edad o se trate de delitos de violación, secuestro o trata de personas, o cuando a juicio del juzgador sea necesario para su protección, salvaguardando los derechos de la defensa; a que se le garantice su protección, y
+
+VII. Solicitar las medidas cautelares y providencias necesarias que prevea la ley, para la protección y restitución de sus derechos.
+
+El Ministerio Público deberá garantizar la protección de víctimas, ofendidos, testigos y en general todos los sujetos que intervengan en el proceso. Los jueces deberán vigilar el buen cumplimiento de esta obligación.
+
+El Ministerio Público podrá considerar criterios de oportunidad para el ejercicio de la acción penal, en los supuestos y condiciones que fija la ley.
+
+El ejercicio de la acción penal ante los tribunales corresponde al Ministerio Público. La ley determinará los casos en que los particulares podrán ejercer la acción penal ante la autoridad judicial.
+
+La imposición de las penas, su modificación y duración son propias y exclusivas de la autoridad judicial. Toda pena deberá ser proporcional al delito que sancione y al bien jurídico afectado. La ejecución de las penas corresponde al Poder Ejecutivo.
 
 > <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
 
@@ -2580,13 +2738,7 @@ La única vía para plantear la inconstitucionalidad de leyes, decretos o acuerd
 
 La Justicia Constitucional Local se regirá por la jurisprudencia local, salvo los casos de prevalencia de la jurisprudencia federal.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
-
-APARTADO SEGUNDO.
-
-La Hacienda Municipal.
-
-> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS, SECCIONES, APARTADOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
 
 ## TITULO SEXTO.
 
@@ -2805,6 +2957,14 @@ En todo caso, la transferencia o delegación de funciones o servicios de la Fede
 En la ley o en el convenio se preverá la correspondiente transferencia de medios financieros, así como las formas de control que se reserva el Estado.
 
 Los supuestos contenidos en este artículo se fundamentarán en una interpretación funcional de los artículos 115 y 116 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
+
+APARTADO SEGUNDO.
+
+La Hacienda Municipal.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### Artículo 158-P.
 
@@ -3102,8 +3262,6 @@ III. En el caso de que no exista la solicitud previa del Ayuntamiento, aprobada 
 
 IV. En todo caso, la resolución se basará en el interés público de garantizar el ejercicio o prestación continua y eficiente de la función o servicio público de que se trate. Para tal efecto, las partes en conflicto deberán ofrecer todas las pruebas necesarias para determinar la situación real que guarda la prestación del servicio o el ejercicio de la función; pero la autoridad que resuelva tiene, en cualquier momento, el derecho de recabar todas las pruebas necesarias para decidir lo conducente.
 
-> <small>(ADICIONADO CON LOS CAPÍTULOS, SECCIONES, APARTADOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
-
 ## TITULO SEPTIMO.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE ENERO DE 1984)</small>
@@ -3374,17 +3532,55 @@ XI. Las demás atribuciones que establezca la ley.
 
 Sólo por delito que merezca pena corporal habrá lugar a prisión preventiva. El sitio de ésta será distinto del que se destinare para la extinción de las penas y estarán separados.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 13 DE ENERO DE 1989)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-El Estado organizará el sistema penal sobre la base del trabajo, la capacitación para el mismo y la educación como medios para la readaptación social del delincuente. Las mujeres compurgarán sus penas en lugares separados de los destinados a los hombres para tal efecto.
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2013)</small>
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 13 DE ENERO DE 1989)</small>
+El Ministerio Público sólo podrá solicitar al juez la prisión preventiva cuando otras medidas cautelares no sean suficientes para garantizar la comparecencia del imputado en el juicio, el desarrollo de la investigación, la protección de la víctima, de los testigos o de la comunidad, así como cuando el imputado esté siendo procesado o haya sido sentenciado previamente por la comisión de un delito doloso. El juez ordenará la prisión preventiva, oficiosamente, en los casos de homicidio doloso, violación, secuestro, delitos cometidos con medios violentos como armas y explosivos, así como delitos graves que determine la ley en contra de la seguridad del Estado, el libre desarrollo de la personalidad y de la salud.
 
-Así mismo, el Gobernador del Estado, en los términos de los ordenamientos legales aplicables, podrá solicitar al Ejecutivo Federal, que en los tratados internacionales que se celebren para el efecto de acordar el traslado de reos de nacionalidad extranjera a su país de origen o residencia, se incluya a los sentenciados en el Estado, por delitos del orden común.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 13 DE ENERO DE 1989)</small>
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2013)</small>
 
-El Estado establecerá instituciones especiales para el tratamiento de menores infractores o en estado de abandono.
+El Estado organizará el sistema penitenciario sobre la base del respeto a los derechos humanos, del trabajo, la capacitación para el mismo, la educación, la salud y el deporte como medios para lograr la reinserción del sentenciado y procurar que no vuelva a delinquir. Las mujeres compurgarán sus penas en lugares separados de los destinados a los hombres para tal efecto.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2013)</small>
+
+El Gobernador del Estado, en los términos de los ordenamientos legales aplicables, podrá celebrar convenios para que los sentenciados por delitos del orden común extingan las penas en establecimientos penitenciarios del orden federal. Así mismo, podrá solicitar al Ejecutivo Federal, que en los tratados internacionales que se celebren para el efecto de acordar el traslado de reos de nacionalidad extranjera a su país de origen o residencia, se incluya a los sentenciados en el Estado, por delitos del orden común. Los sentenciados, en los casos y condiciones que establezca la ley, podrán compurgar sus penas en los centros penitenciarios más cercanos a su domicilio, a fin de propiciar su reintegración a la comunidad corno forma de reinserción social.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2013)</small>
+
+El Estado establecerá un sistema integral de justicia que será aplicable a quienes se atribuya la realización de una conducta tipificada como delito por las leyes penales y tengan entre doce años cumplidos y menos de dieciocho años de edad, en el que se garanticen los derechos fundamentales que reconoce la Constitución Política de los Estados Unidos Mexicanos, esta Constitución para todo individuo, los tratados internacionales, así como aquellos derechos específicos que por su condición de personas en desarrollo les han sido reconocidos. Las personas menores de doce años que hayan realizado una conducta prevista como delito en la ley, solo serán sujetos a rehabilitación y asistencia social.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2013)</small>
+
+La operación del sistema estará a cargo de instituciones, tribunales y autoridades especializados en la procuración e impartición de justicia para adolescentes. Se podrán aplicar las medidas de orientación, protección y tratamiento que amerite cada caso, atendiendo a la protección integral y el interés superior del adolescente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2013)</small>
+
+###### Artículo 174-A.
+
+Ninguna detención ante autoridad judicial podrá exceder del plazo de setenta y dos horas, a partir de que el indiciado sea puesto a su disposición, sin que se justifique con un auto de vinculación a proceso en el que se expresará: el delito que se impute al acusado; el lugar, tiempo y circunstancias de ejecución, así como los datos que establezcan que se ha cometido un hecho que la ley señale como delito y que exista la probabilidad de que el indiciado lo cometió o participó en su comisión. Queda estrictamente prohibido detener a las personas para fines de investigación.
+
+No podrá librarse orden de aprehensión sino por la autoridad judicial y sin que preceda denuncia o querella de un hecho que la ley señale como delito, sancionado con pena privativa de libertad y obren datos que establezcan que se ha cometido ese hecho y que exista la probabilidad de que el indiciado lo cometió o participó en su comisión.
+
+La autoridad que ejecute una orden judicial de aprehensión, deberá poner al inculpado a disposición del juez, sin dilación alguna y bajo su más estricta responsabilidad. La contravención a lo anterior será sancionada por la ley penal.
+
+Cualquier persona puede detener al indiciado en el momento en que esté cometiendo un delito o inmediatamente después de haberlo cometido, poniéndolo sin demora a disposición de la autoridad más cercana y ésta con la misma prontitud, a la del Ministerio Público. Existirá un registro inmediato de la detención.
+
+Sólo en casos urgentes, cuando se trate de delito grave así calificado por la ley y ante el riesgo fundado de que el indiciado pueda sustraerse a la acción de la justicia, siempre y cuando no se pueda ocurrir ante la autoridad judicial por razón de la hora, lugar o circunstancia, el Ministerio Público podrá, bajo su responsabilidad, ordenar su detención, fundando y expresando los indicios que motiven su proceder.
+
+Ningún indiciado podrá ser retenido por el Ministerio Público por más de cuarenta y ocho horas, plazo en que deberá ordenarse su libertad o ponérsele a disposición de la autoridad judicial. Este plazo podrá duplicarse en aquellos casos que la ley prevea como delincuencia organizada. Todo abuso a lo anteriormente dispuesto será sancionado por la ley penal.
+
+En casos de urgencia o flagrancia, el juez que reciba la consignación del detenido deberá inmediatamente ratificar la detención o decretar la libertad con las reservas de ley.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 13 DE ENERO DE 1989)</small>
 
@@ -4525,3 +4721,9 @@ P.O. 12 DE ABRIL DE 2013.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan a lo previsto en este decreto.
+
+P.O. 26 DE ABRIL DE 2013.
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado, con excepción a aquellas que se relacionen con el nuevo sistema penal acusatorio, mismas que tendrán aplicación a partir del día primero de junio del año dos mil trece, en el distrito judicial o región que determine el Consejo de la Judicatura, el cual definirá el esquema de gradualidad en todo el estado, sea por distrito o por región, asimismo decidirá sobre la conveniencia de mantener los actuales distritos judiciales, o, en su cado (sic), establecer una nueva distritación para la implementación eficaz del nuevo modelo de juzgamiento penal.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
