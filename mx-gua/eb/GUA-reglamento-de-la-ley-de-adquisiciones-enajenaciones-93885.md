@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-ley-de-adquisiciones-enajenaciones-93885"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-04-09"
-last_updated: "2013-04-09"
+last_updated: "2013-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "GUA"
 ---
 # REGLAMENTO DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACION DE SERVICIOS DEL SECTOR PUBLICO EN EL ESTADO DE GUANAJUATO PARA EL PODER JUDICIAL
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE ABRIL DE 2013 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL SECTOR PÚBLICO EN EL ESTADO DE GUANAJUATO PARA EL PODER JUDICIAL
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 26 DE ABRIL DE 2013.</small>
 
 Reglamento publicado en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el martes 9 de abril de 2013.
 
@@ -329,11 +329,15 @@ Las razones técnicas presentadas deberán estar validadas y firmadas por el ár
 
 ### CAPÍTULO SEGUNDO. DE LA CONVOCATORIA, BASES Y JUNTA DE ACLARACIONES
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE ABRIL DE 2013 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 26 DE ABRIL DE 2013)</small>
 
 ###### Artículo 27.
 
-Las convocatorias de las licitaciones y subastas serán elaboradas por la Presidencia del Supremo Tribunal de Justicia y del Consejo del Poder Judicial, a través de la Dirección de Servicios de Apoyo conforme a los términos y requisitos estipulados por la Ley; su publicación y difusión, en los plazos y a través de los medios especificados por la misma, será responsabilidad del Comité. No podrá publicarse una convocatoria, si previamente no se cuenta con el requerimiento correspondiente y con las bases completamente elaboradas e integradas.
+Las convocatorias y bases de las licitaciones y subastas serán elaboradas por la Presidencia a través de la Dirección y la Dirección de Administración respectivamente, conforme a los términos y requisitos estipulados por la Ley.
+
+> <small>(F. DE E., P.O. 26 DE ABRIL DE 2013)</small>
+
+Será responsabilidad del Comité, la publicación y difusión de la convocatoria, en los plazos estipulados por la Ley y a través de los medios especificados por la misma. No podrá publicarse una convocatoria, si previamente no se cuenta con el requerimiento correspondiente y con las bases completamente elaboradas e integradas.
 
 Cuando la convocatoria se difunda a través de medios o redes de comunicación electrónica de acuerdo a lo estipulado por el artículo 52 de la Ley, el Comité verificará que la misma se encuentre debidamente integrada. Igual previsión se hará para las bases y sus anexos.
 
@@ -535,7 +539,7 @@ En caso de que las facturas entregadas por los proveedores para su pago, present
 
 ###### Artículo 51.
 
-Previo al vencimiento de las fechas de cumplimiento estipuladas originalmente, a solicitud expresa del proveedor y por caso fortuito o fuerza mayor, o por causas atribuibles al Poder Judicial, se podrán modificar los contratos a efecto de diferir la fecha para la entrega de los bienes o la prestación de los servicios. En este supuesto deberá formalizarse el convenio modificatorio respectivo, no procediendo la aplicación de penas convencionales por atraso.
+Previo al vencimiento de las fechas de cumplimiento estipuladas originalmente, a solicitud expresa del proveedor y por caso fortuito o fuerza mayor, o por .causas atribuibles al Poder Judicial, se podrán modificar los contratos a efecto de diferir la fecha para la entrega de los bienes o la prestación de los servicios. En este supuesto deberá formalizarse el convenio modificatorio respectivo, no procediendo la aplicación de penas convencionales por atraso.
 
 En caso de que el proveedor no obtenga el diferimiento de referencia, por causa imputable a éste; el incumplimiento del contrato será motivo para la aplicación de las sanciones y penas convencionales respectivas.
 
