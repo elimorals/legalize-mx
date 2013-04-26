@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-de-la-secretaria-de-sustentabilidad-81555"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-05-13"
-last_updated: "2011-07-06"
+last_updated: "2013-04-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "PUE"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE SUSTENTABILIDAD AMBIENTAL Y ORDENAMIENTO TERRITORIAL, DEL ESTADO DE PUEBLA
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE SUSTENTABILIDAD AMBIENTAL Y ORDENAMIENTO TERRITORIAL
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO RURAL, SUSTENTABILIDAD Y ORDENAMIENTO TERRITORIAL, PUBLICADO EN EL P.O. DE 26 DE ABRIL DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE SUSTENTABILIDAD AMBIENTAL Y ORDENAMIENTO TERRITORIAL
 
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIODICO OFICIAL DEL 6 DE JULIO DE 2011.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2013 (ABROGADO).
 
 Reglamento publicado en la Décima Tercera Sección del Periódico Oficial del Estado de Puebla, el viernes 13 de mayo de 2011.
 
@@ -1154,3 +1154,17 @@ TERCERO.- Quedan sin efecto todas aquellas disposiciones que contravengan lo dis
 CUARTO.- En tanto se expidan los manuales administrativos, el Secretario está facultado para resolver las cuestiones de procedimiento y operación que se originen por la aplicación de este ordenamiento legal para los fines de orden administrativo.
 
 Dado en la Sede del Poder Ejecutivo del Estado, en la Heroica Puebla de Zaragoza, a los once días del mes de mayo de dos mil once.- El Gobernador Constitucional del Estado Libre y Soberano de Puebla.- C. RAFAEL MORENO VALLE ROSAS.- Rúbrica.- La Secretaria de Sustentabilidad Ambiental y Ordenamiento Territorial.- C. AMY LOUISE CAMACHO.- Rúbrica.- El Secretario General de Gobierno.- C. FERNANDO LUIS MANZANILLA PRIETO.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBE LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE ABRIL DE 2013.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL EJECUTIVO DEL ESTADO, POR EL QUE EXPIDE EL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO RURAL, SUSTENTABILIDAD Y ORDENAMIENTO TERRITORIAL”.]
+
+PRIMERO.- El presente Reglamento se publicará en el Periódico Oficial del Estado y entrará en vigor el día de su publicación.
+
+SEGUNDO.- Se abroga, el Reglamento Interior de la Secretaría de Sustentabilidad Ambiental y Ordenamiento Territorial del Estado de Puebla, publicado en el Periódico Oficial del Estado el día trece de mayo de dos mil once.
+
+TERCERO.- Se abroga el Reglamento Interior de la Secretaría de Desarrollo Rural del Estado de Puebla, publicado en el Periódico Oficial del Estado el día trece de mayo de dos mil once.
+
+CUARTO.- Se dejan sin efecto las disposiciones que se opongan al presente Reglamento.
