@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-justicia-para-el-municipio-de-tijuana-baja-53159"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-01-12"
-last_updated: "2010-10-29"
+last_updated: "2013-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53159&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE JUSTICIA PARA EL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 12 de enero de 2007.
 
@@ -553,7 +553,11 @@ XV. El desempeño de labores de los Jueces Municipales serán (sic) por turnos, 
 
 XVI. Canalizar al Juzgado Integral Municipal, los asuntos que a éste le sean de su competencia; y (sic)
 
-XVII. El Juez Municipal determinará las audiencias que deban desarrollarse a puerta cerrada;
+> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2013)</small>
+
+XVII. Implementar las órdenes de protección de emergencia y preventivas, establecidas en la Ley de Acceso de la Mujeres a una Vida Libre de Violencia para el Estado de Baja California, en los casos de infracciones por violencia cometidas en contra de mujeres; procurando su protección a través de la Secretaria de Seguridad Pública Municipal en coordinación con la Unidad Operativa de Violencia Domestica, dentro de las facultades reguladas por el artículo 47 de la citada normatividad y demás aplicables.
+
+XVII (SIC). El Juez Municipal determinará las audiencias que deban desarrollarse a puerta cerrada;
 
 XVIII. Las demás que se deriven del presente Reglamento, y las que le confieren los diversos reglamentos Municipales.
 
@@ -569,13 +573,17 @@ Cuando elementos de la Policía y Tránsito Municipal, detengan a una persona qu
 
 La solicitud de nota médica y/o certificado de esencia, será obligatoria cuando los presuntos infractores sean arrestados, por conducir un vehículo de motor, bajo la influencia de alcohol o substancias tóxicas o cuando la persona detenida, haya cometido alguna conducta presuntamente delictiva.
 
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2013)</small>
+
 ###### Artículo 56.
 
 Para el caso de infracciones cometidas bajo los efectos de bebidas embriagantes, enervantes o estupefacientes, el Juez Municipal que conozca de la infracción cometida, podrá imponer al infractor la obligación de asistir a pláticas con cualquier grupo de Alcohólicos Anónimos de la Localidad.
 
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2010)</small>
-
 En los casos de infracciones que deriven de violencia familiar, el Juez Municipal, además de las sanciones que corresponda al infractor, recomendará su asistencia al Centro de Atención a la Violencia Familiar u organismo similar, a sesiones de terapia, de acuerdo a su diagnóstico y recomendaciones de los profesionales en la materia.
+
+En los casos de infracciones que deriven de violencia familiar y/o contra las mujeres el Juez Municipal, remitirá al Infractor al Instituto Municipal de la Mujer en Tijuana, para efecto de que asista a las sesiones de terapia y reciba atención psicológica y capacitación sobre violencia.
+
+No se impondré sanción económica en los asuntos de violencia familiar y/o contra la mujer, si se comprueba que ello provoca dificultades al sustento de la víctima o sus hijos.
 
 ###### Artículo 57.
 
@@ -855,7 +863,9 @@ VI. Atender a las personas que requieren audiencia con el Juez.
 
 Las faltas temporales del secretario de acuerdos y mecanógrafo, se suplirán por el funcionario que al efecto sea designado por el Juez, quedando habilitado para realizar las funciones que como consecuencia de dicha designación le correspondan.
 
-### CAPITULO VIII. DEL PROCEDIMIENTO EN LOS INCIDENTES VECINALES Y DE VIOLENCIA FAMILIAR
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE ABRIL DE 2013)</small>
+
+### CAPITULO VIII. DEL PROCEDIMIENTO EN LOS INCIDENTES VECINALES, DE VIOLENCIA FAMILIAR Y CONTRA LAS MUJERES
 
 ###### Artículo 100.
 
@@ -1598,3 +1608,9 @@ P.O. 29 DE OCTUBRE DE 2010.
 PRIMERO.- Las presentes reformas entran en vigor al momento de su publicación, el cual para conocimiento del público en general, deberá de publicarse en el Periódico Oficial del Estado de Baja California en los términos de la Ley del Régimen Municipal para el Estado de Baja California.
 
 SEGUNDO.- En materia de las reformas en materia de ordenes de protección civiles, de emergencia y preventivas, estas entraran en vigor al momento de existir el marco jurídico y la legislación aplicables en la materia.
+
+P.O. 26 DE ABRIL DE 2013.
+
+PRIMERO.- EL PRESENTE ACUERDO ENTRARA EN VIGOR AL MOMENTO DE SU APROBACIÓN, MISMO QUE DEBERÁ PUBLICARSE EN LA GACETA MUNICIPAL DEL H. AYUNTAMIENTO DE TIJUANA, BAJA CALIFORNIA.
+
+SEGUNDO.- NOTIFIQUESE POR MEDIO DE LA SECRETARIA GENERAL DE GOBIERNO MUNICIPAL, A LAS DEPENDENCIAS CORRESPONDIENTES DE ESTA ADMINISTRACION, PARA LA IMPLEMENTACION INMEDIATA DE LO HOY ACORDADO.
