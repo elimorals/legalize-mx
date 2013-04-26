@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-poder-judicial-del-estado-de-coahuila-de-3733"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-12-11"
-last_updated: "2012-10-19"
+last_updated: "2013-04-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3733&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE MAYO DE 2013 EN EL P.O. SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 11 de diciembre de 1990.
 
@@ -46,6 +48,8 @@ El ejercicio de la potestad jurisdiccional en todo tipo de procesos, corresponde
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 El Tribunal Electoral, con excepción de lo dispuesto en el artículo 158 de la Constitución Política del Estado, el Tribunal de lo Contencioso-Administrativo, el Tribunal de Conciliación y Arbitraje y el Tribunal de Apelación Especializado en materia de Adolescentes, serán máximas autoridades jurisdiccionales en la materia y órganos especializados del Poder Judicial; los tres primeros en los términos que establece el artículo 136 de dicha Constitución y el último por imperativo del artículo 18 de la Constitución Política de los Estados Unidos Mexicanos; así como por lo dispuesto en las demás leyes aplicables.
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE MAYO DE 2013 EN EL P.O. SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
@@ -85,9 +89,7 @@ e) Mixtos, cuando deban conocer de dos o más materias;
 
 f) De Adolescentes; y
 
-> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2012)</small>
-
-g) En Materia de Narcomenudeo.
+g) (DEROGADO, P.O. 26 DE ABRIL DE 2013)
 
 V.- Juzgados Letrados, que en razón de la materia serán:
 
@@ -101,7 +103,11 @@ c) Mixtos, cuando conozcan, a la vez de dos o más materias.
 
 Asimismo, los Juzgados letrados podrán conocer de diversa materia o cuantía según sea el caso, cuando así lo determine el Consejo de la Judicatura.
 
-VI.- El Consejo de la Judicatura; y,
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2013)</small>
+
+VI.- El Consejo de la Judicatura, el cual tendrá bajo su estructura administrativa al:
+
+a) Centro de Medios Alternos de Solución de Controversias del Poder Judicial, el cual ser (sic) regirá bajo lo dispuesto en la Ley de Medios Alternos y Solución de Controversias para el Estado de Coahuila de Zaragoza y demás disposiciones aplicables.
 
 VII.- Los demás órganos que con cualquier otra denominación determinen las leyes o sean creados por las autoridades competentes.
 
@@ -109,11 +115,11 @@ Los árbitros voluntarios no ejercerán autoridad pública, pero conocerán del 
 
 El Consejo de la Judicatura tendrá la competencia y atribuciones que señalen la Constitución Política del Estado de Coahuila y demás disposiciones aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ABRIL DE 2013)</small>
 
 ###### ARTICULO 3o.
 
-Son Auxiliares de la administración de justicia:
+Son auxiliares de la administración de justicia y están obligados a cumplir órdenes que, en el ejercicio de sus atribuciones legales, emitan jueces y magistrados:
 
 > <small>(REFORMADA, P.O. 12 DE MAYO DE 2009)</small>
 
@@ -1335,13 +1341,13 @@ Cada Tribunal Unitario de Distrito tendrá, además del magistrado titular, los 
 
 ### CAPITULO VI. DE LOS JUZGADOS DE PRIMERA INSTANCIA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2013)</small>
 
 ###### ARTICULO 30.
 
-En los distritos judiciales del Estado habrá los Juzgados de Primera Instancia en Materia Civil, Mercantil, Familiar, Penal, de Narcomenudeo y Mixtos que autorice el Pleno del Tribunal Superior de Justicia, atendiendo a las necesidades del servicio y a la disponibilidad presupuestal.
+En los distritos judiciales del Estado habrá los Juzgados de Primera Instancia en Materia Civil, Mercantil, Familiar, Penal, de Adolescentes, Especializados y Mixtos que autorice el Consejo de la Judicatura, atendiendo a las necesidades del servicio y a la disponibilidad presupuestal.
 
-Los Juzgados tendrán la residencia y jurisdicción territorial que acuerde el propio Pleno del Tribunal.
+Los Juzgados tendrán la residencia y jurisdicción territorial que acuerde el propio Consejo.
 
 > <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2012)</small>
 
@@ -1401,6 +1407,8 @@ V.- De los negocios de la competencia de los jueces de Primera Instancia en los 
 
 VI.- De los demás asuntos que le encomienden las leyes.
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE MAYO DE 2013 EN EL P.O. SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 34.
@@ -1419,9 +1427,9 @@ III.- De la diligenciación de exhortos, requisitorias, rogatorias, suplicatoria
 
 IV.- De los demás asuntos que les competan de acuerdo con las leyes.
 
-> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2013)</small>
 
-El Consejo de la Judicatura autorizará, con atención a las necesidades del servicio y a la disponibilidad presupuestal, la creación de una instancia única especializada para conocer, de manera concurrente con la Federación, de los delitos o conductas tipificadas como delitos contra la salud, en su modalidad de narcomenudeo, en términos de lo dispuesto en el artículo 474 de la Ley General de Salud y los correlativos del Título Cuarto, Libro Segundo, del Código Penal de Coahuila.
+Los órganos jurisdiccionales en materia penal que conozcan del nuevo sistema de justicia procesal acusatorio se regularán conforme a lo dispuesto por el Título Décimo Cuarto de esta Ley.
 
 ###### ARTICULO 35.
 
@@ -1717,9 +1725,9 @@ Son atribuciones del Consejo de la Judicatura las siguientes:
 
 I.- Nombrar y remover en los términos que señale la ley a los Magistrados del Tribunal de Apelación Especializado en materia de Adolescentes, a los Magistrados Distritales, a los Jueces de Primera Instancia, Jueces Letrados y demás personal del Poder Judicial que no dependa del Pleno y de la Presidencia del Tribunal Superior de Justicia;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2013)</small>
 
-II.- Crear, a propuesta de su Presidente, según lo exijan las necesidades del servicio y lo permita el presupuesto de egresos, órganos jurisdiccionales auxiliares, cuyos titulares esté facultado a nombrar según la fracción anterior;
+II.- Crear, a propuesta de su Presidente, según lo exijan las necesidades del servicio y lo permita el presupuesto de egresos, órganos jurisdiccionales auxiliares, con competencia general y/o especializada en la materia de que se trate, cuyos titulares esté facultado a nombrar según la fracción anterior;
 
 > <small>(REFORMADA, P.O. 14 DE ENERO DE 2011)</small>
 
@@ -1765,15 +1773,15 @@ XIII.- Designar a los abogados que integren el Comité Consultivo del Consejo;
 
 XIV.- Integrar Comisiones dentro del Consejo y señalarles su duración, objeto y funciones;
 
-> <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2013)</small>
 
-XV.- Dictar las bases generales de organización y funcionamiento de su órgano auxiliar denominado Defensoría Jurídica Integral del Estado de Coahuila de Zaragoza.
+XV.- Dictar las bases generales de organización y funcionamiento del Instituto Estatal de Defensoría Pública de Coahuila de Zaragoza.
 
 > <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2012)</small>
 
 XVI.- Nombrar, a propuesta de su Presidente, al director, subdirectores, delegados y defensores de oficio de la Defensoría Jurídica Integral del Estado de Coahuila de Zaragoza.
 
-XVII. Las demás que le asigne esta ley y demás disposiciones aplicables.
+XVII.- Las demás que le asigne esta ley y demás disposiciones aplicables.
 
 El Consejo de Judicatura sesionará cuando menos una vez al mes, y cuando se convoque por su Presidente o por más de tres de sus miembros.
 
@@ -1785,13 +1793,15 @@ El Consejo de la Judicatura, por conducto del Presidente del Tribunal Superior d
 
 El Consejo de la Judicatura contará con un Secretario de Acuerdo y Trámite, con los Secretarios de Estudio y Cuenta y demás personal que sea necesario y autorice el presupuesto. Los secretarios deberán satisfacer los mismos requisitos que esta ley señala para los Secretarios de Acuerdo y Trámite, y de Estudio y Cuenta, respectivamente, quienes tendrán el escalafón que corresponde a los Secretarios de Acuerdo y Trámite, y de Estudio y Cuenta de las Salas.
 
-> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2013)</small>
 
-###### ARTICULO 57
+ARTICULO 57 BIS.- El Poder Judicial contará con un órgano denominado Instituto Estatal de Defensoría Pública de Coahuila de Zaragoza, bajo la administración, vigilancia y disciplina del Consejo de la Judicatura.
 
-BIS.- Para su adecuado funcionamiento, el Consejo de la Judicatura contará con un órgano auxiliar denominado Defensoría Jurídica Integral del Estado de Coahuila de Zaragoza, cuyo objeto es garantizar el acceso de los particulares a la debida defensa en materia penal y de los adolescentes a quienes se atribuya una conducta tipificada como delito en las leyes penales, así como el acceso a la justicia mediante la orientación, asesoría y representación jurídica en asuntos del orden civil, familiar, mercantil, laboral y agrario, y orientar a los consumidores en general y a los usuarios de servicios financieros.
+El Instituto Estatal de Defensoría Pública de Coahuila de Zaragoza tendrá por objeto garantizar el acceso de los particulares a la debida defensa en materia penal y de adolescentes, a quienes se atribuya una conducta tipificada como delito en las leyes penales, así como el acceso a la justicia mediante la orientación, asesoría y representación jurídica en asuntos del orden civil, familiar, mercantil, agrario, administrativo y orientación a los consumidores en general y a los usuarios de servicios financieros.
 
-El funcionamiento, facultades y obligaciones de la Defensoría Jurídica Integral, se regirán por la Ley de la Defensoría Integral para el Estado de Coahuila de Zaragoza. Sus funciones son de orden público, sus servicios serán gratuitos y se prestarán bajo los principios de probidad, honradez, profesionalismo, calidad y de manera obligatoria y las desarrollará en el territorio del Estado.
+Los defensores en materia penal y de adolescentes se organizarán en un área especial para el debido desempeño de sus funciones.
+
+Sus funciones son de orden público, sus servicios serán gratuitos y se prestarán bajo los principios de probidad, honradez, profesionalismo, calidad y de manera obligatoria y las desarrollará en el territorio del Estado.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
@@ -4181,6 +4191,302 @@ La Presidencia del Tribunal depurará y compilará las tesis, los criterios o ac
 
 La Presidencia del Tribunal publicará semestralmente en el Boletín de Información Judicial del Estado los criterios enviados, así como las tesis de jurisprudencia por reiteración, contradicción o declaración.
 
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE ABRIL DE 2013)</small>
+
+## TÍTULO DÉCIMO CUARTO. DEL SISTEMA DE JUSTICIA PROCESAL PENAL ACUSATORIO
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE ABRIL DE 2013)</small>
+
+### CAPÍTULO I. DE LA FUNCIÓN JURISDICCIONAL
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2013)</small>
+
+###### ARTICULO 286.
+
+La función jurisdiccional en materia penal se ejerce por:
+
+I.- Los órganos jurisdiccionales en materia penal, que se integrarán por:
+
+a) Jueces de control;
+
+b) Jueces o tribunales de juicio oral; y
+
+c) Jueces de ejecución penal.
+
+II.- Tribunales Distritales.
+
+III.- Salas del Tribunal Superior de Justicia.
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2013)</small>
+
+###### ARTICULO 287.
+
+Los jueces tendrán fe pública en el ejercicio de su función.
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2013)</small>
+
+###### ARTICULO 288.
+
+Los jueces penales, dentro del nuevo sistema de justicia penal, conocerán:
+
+I.- Jueces de control: desde el inicio de la etapa de investigación inicial hasta el dictado del auto de apertura a juicio oral;
+
+II.- Jueces o tribunales de juicio oral: celebrarán la audiencia de debate de juicio oral, dictarán la sentencia y en su caso, conocerán de la prueba anticipada; y
+
+III.- Jueces de ejecución penal: vigilarán y darán seguimiento al cumplimiento de las medidas de aseguramiento, ejecución de las sanciones penales y de las medidas de seguridad, así como de los beneficios que puedan concederse al sentenciado.
+
+Los jueces que conozcan del juicio oral podrán actuar en forma unitaria o colegiada.
+
+Cuando actúen colegiadamente, el Tribunal se integrará por tres jueces y uno de ellos lo presidirá, según el turno respectivo.
+
+El juez que haya intervenido en un asunto en las etapas preliminares del proceso penal, no integrará tribunal de juicio oral, tratándose del mismo asunto.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE ABRIL DE 2013)</small>
+
+### CAPÍTULO II. DE LOS ÓRGANOS JURISDICCIONALES EN MATERIA PENAL
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2013)</small>
+
+###### ARTICULO 289.
+
+Habrá el número de jueces en materia penal que el servicio requiera; y en los edificios donde se desempeñen, se contará con el personal siguiente:
+
+I.- Un administrador;
+
+II.- Notificadores; y
+
+III.- El personal auxiliar que determine el Consejo de la Judicatura.
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2013)</small>
+
+###### ARTICULO 290.
+
+Los jueces de control tienen las siguientes atribuciones:
+
+I.- Otorgar las autorizaciones judiciales previas que solicite el Ministerio Público para realizar las actuaciones que priven, restrinjan o perturben los derechos asegurados por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado y los instrumentos internacionales suscritos por México;
+
+II.- Presidir y dirigir las audiencias judiciales de la fase de investigación y hasta el dictado del auto de apertura de juicio oral, y emitir las decisiones que en ellas correspondan;
+
+III.- Resolver sobre medidas cautelares, providencias precautorias y técnicas de investigación que requieran control judicial, en los términos de las disposiciones legales;
+
+IV.- Resolver sobre las resoluciones de reserva, no ejercicio y desistimiento de la acción penal;
+
+V.- Acordar, substanciar y decidir las solicitudes de cualquier forma anticipada de terminación del proceso;
+
+VI.- Resolver si procede o no la orden de aprehensión o comparecencia solicitada por persona legitimada para ello;
+
+VII.- Resolver sobre la impugnación que la víctima u ofendido realicen ante las determinaciones del Ministerio Público y, en su caso, del Procurador General de Justicia del Estado acerca de la abstención de investigar, archivo temporal, no ejercicio de la acción penal o, en su caso, sobre criterios de oportunidad;
+
+VIII.- Conocer sobre los mecanismos alternativos de solución de conflictos en los términos que la ley señale;
+
+IX.- Conocer del control de la detención;
+
+X.- Resolver sobre la vinculación o no a proceso de los imputados;
+
+XI.- Recibir la prueba anticipada;
+
+XII.- Conocer de la acción penal que ejerzan los particulares; y
+
+XIII.- Las demás que les confiera la ley y otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2013)</small>
+
+###### ARTICULO 291.
+
+Los Jueces o los Tribunales de Juicio Oral tendrán las siguientes atribuciones:
+
+I.- Conocer y juzgar las causas penales;
+
+II.- Resolver todas las cuestiones que se presenten durante la audiencia de juicio oral;
+
+III.- Ejercer el poder de disciplina, cuidar que se mantenga el buen orden, exigir que se guarde respeto y consideraciones debidas a ellos y a los demás intervinientes de la audiencia, corrigiendo en el acto las faltas que se cometieron;
+
+IV.- Aplicar los medios de apremio autorizados por la ley;
+
+V.- Dictar sentencia con base en las pruebas presentadas durante la audiencia de juicio y explicarla a las partes;
+
+VI.- Pronunciarse sobre la suspensión de las sanciones o la eventual aplicación de algún beneficio que la ley penal prevea e indicar en qué forma deberá, en su caso, repararse el daño; y
+
+VII.- Las demás que les otorgue la ley y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2013)</small>
+
+###### ARTICULO 292.
+
+El juez que presida el tribunal del juicio oral tendrá las siguientes facultades:
+
+I.- Dirigir la deliberación de los asuntos de su competencia;
+
+II.- Representar al tribunal en el trámite de juicio de garantías; y
+
+III.- Las demás que señalen las leyes y otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2013)</small>
+
+###### ARTICULO 293.
+
+Al juez de ejecución penal le corresponde:
+
+I. Hacer cumplir, sustituir, suspender, modificar o declarar extintas las penas o medidas de seguridad;
+
+II. Sustituir de oficio la pena de prisión por externamiento, a partir de que tenga conocimiento de la procedencia o a petición de parte, cuando fuere notoriamente innecesario que se compurgue, en razón de senilidad o el precario estado de salud del sentenciado; o sea posible realizar ajustes razonables para que el condenado con discapacidad compurgue la pena en condiciones conformes con los principios del Derecho Internacional de los Derechos Humanos; al efecto, el juez de ejecución se apoyará siempre en al menos dos dictámenes de peritos, escuchando la opinión del ministerio público y atendiendo lo que al respecto disponga el Código Penal;
+
+III. Librar las órdenes de reaprehensión que procedan en ejecución de sentencia;
+
+IV. Resolver en audiencia oral, en los términos de la presente ley y supletoriamente, conforme al Código de Procedimientos Penales, todas las peticiones y planteamientos de las partes, relativos a la concesión, modificación, sustitución, suspensión o revocación de cualquier sustitutivo o beneficio concedido a los sentenciados por cualquier autoridad jurisdiccional;
+
+V. Resolver sobre las solicitudes de traslación y adecuación de la pena o medida de seguridad;
+
+VI. Determinar, cuando se impongan dos o más penas de prisión en sentencias diversas, el cumplimiento de las mismas conforme a lo que prevenga el Código Penal, estableciendo el cálculo correspondiente;
+
+VII. Vigilar el cumplimiento de cualquier sustitutivo o beneficio relacionado con las penas o medidas de seguridad impuestas en sentencia definitiva;
+
+VIII. Practicar visitas a los centros penitenciarios a fin de verificar que la ejecución de la pena se realice con respeto a los derechos y garantías que asisten al sentenciado;
+
+IX. Ordenar, previo aviso del centro penitenciario, con cuando menos cinco días hábiles previos al compurgamiento, la cesación de la pena o medida de seguridad, una vez transcurrido el plazo fijado en la sentencia ejecutoriada;
+
+X. Resolver todo lo relacionado con la reparación del daño;
+
+XI. Entregar al sentenciado que lo solicite, su constancia de libertad definitiva;
+
+XII. Rehabilitar los derechos de los sentenciados una vez que se cumpla con el término de suspensión señalado en la sentencia, en los casos de indulto o en los casos de reconocimiento de inocencia;
+
+XIII. Autorizar traslados de sentenciados a los diversos centros penitenciarios que formulen los internos, la Dirección de Reinserción Social u otras autoridades competentes, en los casos en que se ponga en riesgo la seguridad de los centros o la del sentenciado.
+
+Cuando se ponga en riesgo fundado la seguridad de los centros o del sentenciado, o bien por urgencia médica, el director del centro penitenciario autorizará el traslado con las medidas de seguridad necesarias sólo por el tiempo indispensable para la atención del interno y siempre que su curación que (sic) no pueda ser lograda dentro de un centro penitenciario, debiendo informar de forma inmediata de ello al Titular de la Unidad Desconcentrada de Ejecución de Penas y Reinserción Social y al juez de ejecución, en el que exprese los motivos que dieron origen al traslado. El juez de ejecución podrá revocar el traslado con la debida motivación y fundamentación, en cualquier caso en que éste determine perjuicio al sentenciado o cuando cesen las causas que dieron motivo al traslado;
+
+XIV. Comunicar a las autoridades del sistema penitenciario los lugares en que los sentenciados deban extinguir las sanciones privativas de libertad;
+
+XV. Otorgar el beneficio de medidas de protección y seguridad que se indican en el artículo 48 de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos:
+
+XVI. Conocer de los incidentes que se tramiten con motivo de la ejecución de las penas y medidas de seguridad;
+
+XVII. Dar el trámite correspondiente a los medios de impugnación que surjan con motivo de la ejecución de las penas y medidas de seguridad;
+
+XVIII. Imponer las medidas de apremio que procedan para hacer cumplir sus determinaciones;
+
+XIX. Resolver con aplicación del procedimiento para la queja, las inconformidades que los internos formulen por sí o a través de su defensor, en relación con el régimen y el programa penitenciario, en cuanto afecten sus derechos fundamentales;
+
+XX. Atender los reclamos y quejas que formulen los internos sobre sanciones disciplinarias, una vez agotado el procedimiento ante la Dirección de Reinserción Social y previo informe de la autoridad responsable, así como formular a esta última, en su caso, las recomendaciones que estime convenientes; y
+
+XXI. Las demás atribuciones que esta Ley y otros ordenamientos le confieran.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE ABRIL DE 2013)</small>
+
+### CAPÍTULO III. DE LOS MEDIOS DE IMPUGNACIÓN
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2013)</small>
+
+###### ARTICULO 294.
+
+En el proceso penal de carácter acusatorio, las Salas serán colegiadas para conocer de los recursos de casación y revisión, pero serán unitarias para conocer del recurso de apelación y queja en aquellos casos que determine el Código de Procedimientos Penales del Estado.
+
+El recurso de casación deberá ser conocido por magistrados que no hubieren intervenido en el mismo asunto en apelación; y del recurso de revisión deberán conocerlo magistrados que no hubieren intervenido en el mismo asunto en casación.
+
+El Tribunal Distrital resolverá los recursos de apelación contra resoluciones dictadas por los jueces de control adscritos a su circunscripción territorial, en aquellos casos que no corresponda conocer a las Salas.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE ABRIL DE 2013)</small>
+
+### CAPÍTULO IV. DEL ADMINISTRADOR DEL JUZGADO O TRIBUNAL
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2013)</small>
+
+###### ARTICULO 295.
+
+Para ser administrador se requiere:
+
+I.- Ser mayor de veintiocho años;
+
+II.- Ser licenciado en derecho con conocimientos en administración o licenciado en administración o materia análoga; y
+
+III.- No haber sido condenado por delito doloso.
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2013)</small>
+
+###### ARTICULO 296.
+
+El administrador de juzgado o tribunal tendrá las siguientes facultades:
+
+I.- Dirigir las labores administrativas de los juzgados o tribunales de su adscripción;
+
+II.- Supervisar el desempeño de los servidores públicos a su cargo;
+
+III.- Llevar el manejo administrativo y la custodia de las salas de audiencias, juzgados y tribunales a su cargo, a fin de que se encuentren en condiciones óptimas de uso;
+
+IV.- Vigilar la conservación y funcionalidad de los bienes muebles e inmuebles asignados;
+
+V.- Supervisar la distribución de los asuntos entre los jueces o tribunales, por turno;
+
+VI.- Supervisar la programación de las diligencias a desarrollarse en los recintos de audiencia a su cargo;
+
+VII.- Elaborar y remitir los informes estadísticos anuales, mensuales y demás que determine el Consejo de la Judicatura;
+
+VIII.- Recibir, inventariar, custodiar y entregar los bienes y valores que se encuentren a disposición de los juzgados o tribunales;
+
+IX.- Controlar el manejo de registros de los asuntos tramitados en el juzgado o tribunal;
+
+X.- Cotejar las actuaciones con sus reproducciones, para fidelidad de estos documentos;
+
+XI.- Revisar físicamente los expedientes digitalizados de las causas;
+
+XII.- Dar cuenta de la correspondencia al juez de despacho;
+
+XIII.- Tramitar la correspondencia administrativa del juzgado o tribunal;
+
+XIV.- Auxiliar al titular de juzgado o tribunal en el trámite de los juicios de amparo;
+
+XV.- Auxiliar en el desahogo de las audiencias;
+
+XVI.- Elaborar y mantener actualizado el registro de los sujetos procesales que intervienen en cada caso;
+
+XVII.- Dar cuenta al titular del órgano jurisdiccional respectivo de los medios de impugnación que se hagan valer;
+
+XVIII.- Atender los requerimientos que formule la Unidad de Información del Poder Judicial;
+
+XIX.- Coordinar el trabajo de los notificadores;
+
+XX.- Verificar que se realicen las notificaciones que se hayan ordenado;
+
+XXI.- Tener a su cargo el archivo del órgano jurisdiccional;
+
+XXII.- Remitir al archivo general los asuntos que se encuentren concluidos;
+
+XXIII.- Verificar que las audiencias queden registradas en los medios instrumentados para tal efecto;
+
+XXIV.- Ingresar y ubicar en las salas de audiencias a los sujetos procesales, testigos, peritos y demás intervinientes, en el lugar que les corresponda;
+
+XXV.- Cumplir con las instrucciones que emita el titular del órgano jurisdiccional durante las audiencias;
+
+XXVI.- Realizar las tareas administrativas que le encomienden los titulares de los órganos jurisdiccionales de su adscripción;
+
+XXVII.- Tomar las medidas administrativas necesarias para la buena marcha de los asuntos;
+
+XXVIII.- Instrumentar un expediente judicial de cada asunto que sea sometido a la competencia de los órganos jurisdiccionales de su adscripción;
+
+XXIX.- Remitir los valores y garantías que se reciban en el juzgado o tribunal dentro de los plazos señalados en las disposiciones administrativas;
+
+XXX.- Vigilar que el rol de turnos de jueces y demás personal del juzgado o tribunal se realice en los términos autorizados por el Consejo de la judicatura;
+
+XXXI.- Supervisar que en cada audiencia se redacte el acta mínima correspondiente; y
+
+XXXII.- Las demás que determine la ley, otras disposiciones aplicables o el Consejo de la Judicatura.
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2013)</small>
+
+###### ARTICULO 297.
+
+Para el desempeño de las atribuciones a su cargo, el administrador contará con el personal auxiliar que el Consejo de la Judicatura determine.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE ABRIL DE 2013)</small>
+
+### CAPÍTULO V. PREVENCIONES GENERALES
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2013)</small>
+
+###### ARTICULO 298.
+
+La organización, funcionamiento, administración, vigilancia y disciplina de los jueces y tribunales penales serán regulados por los acuerdos que emita el Consejo de la Judicatura.
+
 T R A N S I T O R I O S
 
 ###### ARTICULO PRIMERO.
@@ -4526,3 +4832,17 @@ TERCERO.- En tanto se concluye el proceso de transferencia a que se refieren las
 CUARTO.- En la incorporación de los demás servidores públicos de la Defensoría Jurídica Integral, del Poder Ejecutivo al Poder Judicial, se respetarán todos sus derechos laborales, no perderán su antigüedad laboral; sus prestaciones y nivel jerárquico o laboral, y no podrán ser disminuidas respecto a las que tienen derecho al momento en que entre en vigor el presente Decreto.
 
 QUINTO.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 26 DE ABRIL DE 2013.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los artículos comprendidos en el Título Décimo Cuarto de este Decreto entrarán en vigor conforme se implemente el nuevo Sistema de Justicia Penal.
+
+###### ARTICULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
