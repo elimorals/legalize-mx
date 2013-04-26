@@ -4,7 +4,7 @@ identifier: "BCN-ley-que-regula-el-uso-y-fomento-del-escudo-y-canto-del-76986"
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-08"
-last_updated: "2010-10-08"
+last_updated: "2013-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76986&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "BCN"
 
 LEY QUE REGULA EL USO Y FOMENTO DEL ESCUDO Y CANTO DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
-
-Ley publicada en la Sección I al Periódico Oficial del Estado de Baja California, el viernes 8 de octubre de 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2013.
 
 JOSÉ GUADALUPE OSUNA MILLÁN, GOBERNADOR DEL ESTADO DE BAJA CALIFORNIA, ANUNCIO QUE EL CONGRESO DEL ESTADO HA DIRIGIDO AL SUSCRITO PARA SU PUBLICACIÓN, EL DECRETO NÚMERO 439, CUYO TEXTO ES EL SIGUIENTE:
 
@@ -67,7 +65,7 @@ Del cabo inferior de la punta en púrpura, símbolo de grandeza y gobierno, y as
 
 Surgiendo de la mar océano y ascendiendo una y otra por los flancos de la punta se elevan dos grandes olas en plata, que entrelazándose con la orla y la bordura, una por la diestra y la otra por la siniestra, a la altura de la faja, aprisionan sendos peces vivos y curvos, el del flanco diestro contornado y el del siniestro natural, que simbolizan ambos litorales, el del orto y el del ocaso, que amorosos y embelesados, con ternura infinita, ciñen íntegramente, excepto por el septentrión, a la real, a la añeja, a la primitiva, a la madre y verdadera California de Becerra y Ximénez, con que con su inexplicable fascinaron subyugara a Cortes, a Cronwell, a Drade, a Cavendish y tantos otros audaces aventureros para fecundarla multiplicadamente, haciendo prevalecer su existencia, siempre progresiva, que representan sus grandes posibilidades en el futuro".
 
-> <small>N. DE E. VEASE IMAGEN EN EL P.O. DEL 8 DE OCTUBRE DE 2010, PAGINA 63.</small>
+> <small>N. DE E. VÉASE IMAGEN EN EL P.O. DEL 8 DE OCTUBRE DE 2010, PAGINA 63.</small>
 
 ###### Artículo 4.
 
@@ -75,7 +73,7 @@ De conformidad a lo dispuesto en el artículo que antecede, el Escudo del Estado
 
 La reproducción del Escudo del Estado de Baja California, debe corresponder al modelo señalado en este artículo, salvo que por la naturaleza de su inscripción se autorice a reproducirlo en blanco y negro. Siendo el siguiente:
 
-> <small>N. DE E. VEASE IMAGEN EN EL P.O. DEL 8 DE OCTUBRE DE 2010, PAGINA 64.</small>
+> <small>N. DE E. VÉASE IMAGEN EN EL P.O. DEL 8 DE OCTUBRE DE 2010, PAGINA 64.</small>
 
 ###### Artículo 5.
 
@@ -85,11 +83,15 @@ Toda la reproducción del Escudo deberá corresponder fielmente al modelo a que 
 
 El debido uso y difusión del Escudo, estará bajo el cuidado, autorización y vigilancia de la Secretaría General de Gobierno.
 
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2013)</small>
+
 ###### Artículo 7.
 
-El Escudo solo podrá reproducirse en los vehículos y medallas de carácter oficial; en el papel, sellos, libros, folletos y demás papelería que utilicen o emitan las Dependencias y Entidades de los Poderes del Estado, así como, en su caso, de los municipios de la entidad.
+El Escudo solo podrá reproducirse en los vehículos y medallas de carácter oficial; en el papel, sellos, libros, folletos y demás papelería que utilicen o emitan las Dependencias y Entidades de los Poderes del Estado, así mismo, en la publicidad oficial, en mamparas o lonas de los eventos de los Poderes del Estado, así como, en su caso, de los municipios de la entidad.
 
 Las Dependencias y Entidades Estatales deberán colocar en un sitio destacado de las instalaciones que las albergue, el Escudo del Estado.
+
+En los eventos públicos institucionales, en la difusión de las obras públicas o acciones de gobierno que organicen las Dependencias y Entidades de los Poderes del Estado será obligatorio el uso y difusión del Escudo del Estado Libre y Soberano de Baja California.
 
 ###### Artículo 8.
 
@@ -213,7 +215,7 @@ del glorioso Pendón Nacional!
 
 La música oficial del Canto a Baja California es la siguiente:
 
-> <small>N. DE E. VEASE IMAGEN EN EL P.O. DEL 8 DE OCTUBRE DE 2010, PAGINAS 68 A 70.</small>
+> <small>N. DE E. VÉASE IMAGEN EN EL P.O. DEL 8 DE OCTUBRE DE 2010, PAGINAS 68 A 70.</small>
 
 ###### Artículo 12.
 
@@ -250,3 +252,9 @@ GOBERNADOR DEL ESTADO.
 CUAUHTÉMOC CARDONA BENAVIDES.
 
 SECRETARIO GENERAL DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE ABRIL DE 2013.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
