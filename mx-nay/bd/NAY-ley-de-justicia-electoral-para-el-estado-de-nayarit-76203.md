@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-justicia-electoral-para-el-estado-de-nayarit-76203"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-18"
-last_updated: "2010-08-18"
+last_updated: "2013-04-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76203&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE JUSTICIA ELECTORAL PARA EL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2013.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nayarit, el miércoles 18 de agosto de 2010.
 
@@ -69,9 +69,25 @@ IV. Constitución local: Constitución Política del Estado Libre y Soberano de 
 
 V. Instituto: Instituto Estatal Electoral;
 
-VI. Presidente de la Sala: Magistrado Presidente de la Sala Constitucional-Electoral del Tribunal Superior de Justicia del Estado de Nayarit, y
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2013)</small>
 
-VII. Sala Electoral: Sala Constitucional-Electoral del Tribunal Superior de Justicia del Estado de Nayarit.
+VI. Presidente de la Sala: Magistrado Presidente de la Sala Constitucional-Electoral del Tribunal Superior de Justicia del Estado de Nayarit;
+
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2013)</small>
+
+VII. Sala Electoral: Sala Constitucional-Electoral del Tribunal Superior de Justicia del Estado de Nayarit;
+
+> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2013)</small>
+
+VIII. Junta Estatal Ejecutiva: Junta Estatal Ejecutiva del Instituto Estatal Electoral;
+
+> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2013)</small>
+
+IX. Ley Electoral: Ley Electoral del Estado de Nayarit, y
+
+> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2013)</small>
+
+X. Ley de Participación Ciudadana: Ley de Participación Ciudadana del Estado de Nayarit.
 
 ### Capítulo II. Objeto e Integración del sistema de medios de impugnación
 
@@ -81,7 +97,9 @@ El sistema de medios de impugnación regulado por esta ley tiene por objeto gara
 
 l. Que todos los actos y resoluciones de las autoridades electorales se sujeten invariablemente, según corresponda, a los principios de constitucionalidad y legalidad, y
 
-II. La definitividad de los distintos actos y etapas de los procesos electorales.
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2013)</small>
+
+II. La definitividad de los distintos actos y etapas de los procesos electorales y de participación ciudadana, realizada mediante los mecanismos de referéndum, plebiscito e iniciativa popular.
 
 ###### Artículo 6.
 
@@ -711,6 +729,10 @@ Salvo los casos de excepción previstos en esta ley, las sentencias deberán not
 
 Durante el proceso electoral y exclusivamente en la etapa de resultados y de declaración de validez, el juicio de inconformidad procederá para impugnar las determinaciones de las autoridades electorales que violen normas constitucionales o legales relativas a las elecciones de Gobernador del Estado, diputados e integrantes de los ayuntamientos, en los términos señalados en esta ley.
 
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2013)</small>
+
+De igual manera procederá en cualquier momento para impugnar los acuerdos emitidos por la Junta Estatal Ejecutiva, derivado del ejercicio de sus facultades relacionadas con la organización y desarrollo de los mecanismos de participación ciudadana, plebiscito, referéndum e iniciativa popular.
+
 ###### Artículo 60.
 
 Son actos impugnables a través del juicio de inconformidad los siguientes:
@@ -719,9 +741,25 @@ I. En la elección de Gobernador del Estado, los resultados consignados en las a
 
 II. En la elección de diputados por el principio de mayoría relativa, los resultados consignados en las actas de cómputo distrital, las declaraciones de validez de las elecciones y el otorgamiento de las constancias de mayoría y validez respectivas, por nulidad de la votación recibida en una o varias casillas, por error aritmético o por nulidad de la elección;
 
-III. En la elección de diputados por el principio de representación proporcional, los resultados consignados en las actas de cómputo distrital respectivas, por nulidad de la votación recibida en una o varias casillas, por error aritmético o nulidad de la elección, y
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2013)</small>
 
-IV. En la elección de presidentes municipales, síndicos y regidores por ambos principios, los resultados consignados en las actas de cómputo municipal respectiva, por nulidad de la votación recibida en una o varias casillas, por error aritmético o por la nulidad de la elección, y por consecuencia la declaración de validez de las elecciones y el otorgamiento de las constancias de mayoría o de asignación y validez respectivas, según sea el caso.
+III. En la elección de diputados por el principio de representación proporcional, los resultados consignados en las actas de cómputo distrital respectivas, por nulidad de la votación recibida en una o varias casillas, por error aritmético o nulidad de la elección;
+
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2013)</small>
+
+IV. En la elección de presidentes municipales, síndicos y regidores por ambos principios, los resultados consignados en las actas de cómputo municipal respectiva, por nulidad de la votación recibida en una o varias casillas, por error aritmético o por la nulidad de la elección, y por consecuencia la declaración de validez de las elecciones y el otorgamiento de las constancias de mayoría o de asignación y validez respectivas, según sea el caso;
+
+> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2013)</small>
+
+V. Los acuerdos de la Junta Estatal Ejecutiva, que declaren procedente o improcedente la solicitud de plebiscito o referéndum;
+
+> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2013)</small>
+
+VI. Los acuerdos de la Junta Estatal Ejecutiva que declaren la validez de los resultados de los procesos de consulta de plebiscito y referéndum, y
+
+> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2013)</small>
+
+VII. El acuerdo de la Junta Estatal Ejecutiva que determine la verificación de firmas de los ciudadanos que presenten una iniciativa popular.
 
 ###### Artículo 61.
 
@@ -765,6 +803,10 @@ V. La conexidad, en su caso, que guarde con otras impugnaciones.
 
 Cuando se pretenda impugnar las elecciones de integrantes de ayuntamientos o diputados por ambos principios, en los supuestos previstos en las fracciones II, III y IV del artículo 60 de esta ley, el promovente estará obligado a presentar un solo escrito, el cual deberá reunir los requisitos previstos en el párrafo anterior.
 
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2013)</small>
+
+Los requisitos previstos en el presente artículo no serán necesarios para impugnar los acuerdos previstos en las fracciones V, VI y VII del artículo 60 de la presente Ley.
+
 ### Capítulo III. Legitimación y personería
 
 ###### Artículo 63.
@@ -773,17 +815,27 @@ El juicio de inconformidad sólo podrá ser promovido por los partidos político
 
 Los candidatos podrán promover el juicio, exclusivamente cuando por motivos de inelegibilidad la autoridad electoral correspondiente decida no otorgarles la constancia de mayoría o de asignación, en los demás casos, solo podrán intervenir como coadyuvantes en los términos establecidos en esta ley.
 
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2013)</small>
+
+Para el caso de la impugnación de los procesos de consulta, plebiscito, referéndum e iniciativa popular, el juicio de inconformidad deberá ser promovido por el Comité de Ciudadanos referido en la Ley de Participación Ciudadana, pudiendo acreditar un representante legal ante la Sala Electoral. De igual manera, podrán presentarlo el Poder Ejecutivo, el Poder Legislativo y los Ayuntamientos a través de sus representantes, de conformidad a las leyes que los rigen.
+
 ### Capítulo IV. Plazos
 
 ###### Artículo 64.
 
 La demanda del juicio de inconformidad deberá presentarse dentro de los cuatro días contados a partir del día siguiente de que concluya cada uno de los cómputos municipales, distritales o estatal, según corresponda.
 
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2013)</small>
+
+Tratándose de la impugnación de los mecanismos de participación ciudadana, el plazo antes referido se contará a partir del día siguiente en que sea notificado el acuerdo respectivo a los interesados.
+
 ### Capítulo V. Sustanciación y resolución
+
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2013)</small>
 
 ###### Artículo 65.
 
-Para la sustanciación y resolución de los juicios de inconformidad que se interpongan, los órganos electorales correspondientes remitirán el escrito de demanda a la Sala Electoral junto con los expedientes que integren, los escritos de protesta recibidos por éstos y los presentados ante las mesas directivas de casilla, las hojas de incidentes y todo documento relacionado con ésta, bajo su más estricta responsabilidad.
+Para la sustanciación y resolución de los juicios de inconformidad que se interpongan, los órganos electorales correspondientes remitirán el escrito de demanda a la Sala Electoral junto con los expedientes que integren los escritos de protesta recibidos por éstos y los presentados ante las mesas directivas de casilla, las hojas de incidentes y todo documento relacionado con ésta, bajo su más estricta responsabilidad, según corresponda.
 
 ###### Artículo 66.
 
@@ -811,9 +863,25 @@ III. Revocar las constancias de mayoría o de asignación, según corresponda, y
 
 IV. Declarar la nulidad de una elección, cuando se den los supuestos previstos en el artículo 78 de esta ley y, en consecuencia, revocar las constancias expedidas, según corresponda;
 
-V. Revocar las determinaciones sobre la declaración de validez u otorgamiento de constancias de mayoría y validez o de asignación, según proceda, y
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2013)</small>
 
-VI. Hacer la corrección de los cómputos cuando sean impugnados por error aritmético.
+V. Revocar las determinaciones sobre la declaración de validez u otorgamiento de constancias de mayoría y validez o de asignación, según proceda;
+
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2013)</small>
+
+VI. Hacer la corrección de los cómputos cuando sean impugnados por error aritmético;
+
+> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2013)</small>
+
+VII. Revocar el acuerdo que declara procedente la solicitud de realización de los mecanismos de participación ciudadana, plebiscito o referéndum;
+
+> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2013)</small>
+
+VIII. Declarar la nulidad de la votación del mecanismo de participación ciudadana sometido a consulta, y
+
+> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2013)</small>
+
+IX. Revocar el acuerdo emitido por la Junta Estatal Ejecutiva, en el que se declare que no se cumplieron los requisitos establecidos en la Ley de Participación Ciudadana para presentar la iniciativa popular, ordenando que se tomen las acciones conducentes para subsanar la afectación generada.
 
 ###### Artículo 69.
 
@@ -825,9 +893,19 @@ Cuando en la sección de ejecución, por efecto de la acumulación de las senten
 
 Los juicios de inconformidad de las elecciones de gobernador e integrantes de los ayuntamientos, deberán quedar resueltos dentro de los 50 días naturales siguientes al cierre del acta de cómputo y declaraciones de validez de que se trate. Tratándose de la elección de diputados, deberán quedar resueltos dentro de los 25 días naturales siguientes al cierre del acta de cómputo y declaraciones de validez de que se trate.
 
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2013)</small>
+
+La impugnación de los acuerdos de procedencia o improcedencia del plebiscito o referéndum, así como del acuerdo que declare la verificación de firmas a través del presente juicio, deberá ser resuelta en un plazo de 15 días a partir del día en que se reciba en la Sala Electoral la demanda y sus anexos correspondientes.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2013)</small>
+
+Tratándose de la impugnación de los resultados de la votación respecto del plebiscito o del referéndum realizado, el juicio se deberá resolver dentro de un término de 25 días siguientes al día en que se haya recibido en la Sala Electoral la demanda y sus anexos correspondientes.
+
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2013)</small>
+
 ###### Artículo 71.
 
-Las sentencias que recaigan a los juicios de inconformidad presentados en contra de los resultados de las elecciones de gobernador, diputados e integrantes de los ayuntamientos que no sean impugnados en tiempo y forma, serán definitivas e inatacables.
+Las sentencias que recaigan a los juicios de inconformidad presentados en contra de los resultados de las elecciones de gobernador, diputados e integrantes de los ayuntamientos, así como en contra de los resultados de los procesos de consulta, plebiscito, referéndum e iniciativa popular que no sean impugnados en tiempo y forma, serán definitivas e inatacables.
 
 ### Capítulo VII. Notificaciones
 
@@ -837,9 +915,21 @@ Las sentencias recaídas a los juicios de inconformidad serán notificadas:
 
 I. Al partido político o coalición y, en su caso, al candidato que presentó la demanda y a los terceros interesados, a más tardar dentro de las cuarenta y ocho horas siguientes al dictado de la sentencia, de manera personal, siempre y cuando hayan señalado domicilio en la sede de la Sala Electoral, en cualquier otro caso la notificación se hará por estrados;
 
-II. A los consejos electorales, por oficio acompañado de copia certificada de la sentencia, a más tardar dentro de las cuarenta y ocho horas siguientes al dictado de la misma, y
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2013)</small>
 
-III. En su caso, al Congreso del Estado, a más tardar dentro de las cuarenta y ocho horas siguientes en que haya quedado firme la sentencia respectiva.
+II. A los consejos electorales, por oficio acompañado de copia certificada de la sentencia, a más tardar dentro de las cuarenta y ocho horas siguientes al dictado de la misma;
+
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2013)</small>
+
+III. En su caso, al Congreso del Estado, a más tardar dentro de las cuarenta y ocho horas siguientes en que haya quedado firme la sentencia respectiva;
+
+> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2013)</small>
+
+IV. Al representante legal del Comité de Ciudadanos que haya promovido el mecanismo de participación ciudadana dentro de las cuarenta y ocho horas siguientes al dictado de la sentencia, y
+
+> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2013)</small>
+
+V. Al Titular del Poder Ejecutivo del Estado, al Presidente del Poder Legislativo, al Presidente Municipal o Síndico del Ayuntamiento respectivo, o en su caso, al representante legal que hayan acreditado ante la Sala Electoral, dentro de las cuarenta y ocho horas siguientes a la emisión de la resolución respectiva.
 
 ## Título Sexto. Nulidades
 
@@ -856,6 +946,10 @@ Para la impugnación de la elección de diputados y regidores por el principio d
 Los efectos de las nulidades decretadas por la Sala Electoral respecto de la votación emitida en una o varias casillas o de una elección, se contraen exclusivamente a la votación o elección para la que expresamente se haya hecho valer el juicio de inconformidad.
 
 Las causas de nulidad de la votación recibida en una casilla, surtirán plenos efectos cuando sean debidamente probadas ante la Sala Electoral, y ésta resuelva que fueron determinantes para el resultado de la votación.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2013)</small>
+
+La Sala Electoral ponderará las nulidades previstas en el presente título, mismas que serán aplicables en lo conducente para la resolución de la impugnación de los mecanismos de participación ciudadana, plebiscito, referéndum e iniciativa popular.
 
 ###### Artículo 74.
 
@@ -1024,3 +1118,9 @@ D A D O en la Sala de Sesiones "Lic. Benito Juárez García" recinto oficial del
 Dip. Miguel Antonio Fregozo Rivera, Presidente.- Rúbrica- Dip. Francisco Javier González Lizárraga, Secretario.- Rúbrica. - Dip. José Luis Lozano Gárate, Secretario.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit, en Tepic su capital, a los dieciséis días del mes de agosto del año dos mil diez.- Lic. Ney González Sánchez.- Rúbrica.- El Secretario General de Gobierno, Dr. Roberto Mejía Pérez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE ABRIL DE 2013.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
