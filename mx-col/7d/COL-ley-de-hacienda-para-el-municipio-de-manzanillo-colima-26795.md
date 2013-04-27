@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-manzanillo-colima-26795"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2013-03-30"
+last_updated: "2013-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26795&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE MANZANILLO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2013.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -849,6 +849,10 @@ Cuando la construcción tenga como consecuencia la demolición por más de 40.00
 
 Las áreas de estacionamiento en los anteriores conceptos se consideran en el cobro, con el 10 por ciento de las mismas tarifas, de acuerdo a la superficie habilitada para este servicio, excepto habitacional unifamiliar de cualquier densidad.
 
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2013)</small>
+
+Cuando el permiso de la obra o construcción sea por regularización el pago del derecho por los conceptos anteriores aumentará en un 50%, entiéndase por regularizaciones a todas las obras construidas sin permiso previo y las que se encuentran en proceso de construcción, excluyéndose de dicha hipótesis los incisos a), b), c) y d) anteriores.
+
 II. Permiso para remodelación o reparación, incluyendo la inspección de la obra según el tipo, por M2, de acuerdo con la siguiente clasificación:
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
@@ -1323,6 +1327,10 @@ j) Otros 0.05 a 423.50
 
 Cuando se trate de fraccionamiento de tipo mixto, se cobrará por la autorización el promedio que resulte de las modalidades que lo compongan.
 
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2013)</small>
+
+Cuando se trate de modificación al programa parcial de urbanización según categoría se considerará el evento y de cada lote vendible.
+
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE FEBRERO DE 2007)</small>
 
 II. Permiso para subdivisión o fusión de lotes, por metro cuadrado resultante según su categoría:
@@ -1377,21 +1385,41 @@ e) Manufacturas y usos industriales 0.04
 
 f) Otros 0.03 a 0.08
 
-V. Por la expedición de la licencia de urbanización en cualquier clasificación se pagará, por evento 127.05
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2013)</small>
+
+Cuando se trate de modificaciones a la constitución del régimen en condominio, se considerará el 50% de la tarifa según la zona indicada en los incisos a) al f) por cada m2 del área a modificar.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ABRIL DE 2013)</small>
+
+V. Por la expedición de la licencia de urbanización en cualquier clasificación se pagará, por evento 150.05
 
 Más por cada lote vendible de acuerdo a la siguiente clasificación:
 
 a) Habitacional densidad alta 1.21
 
-b) Habitacional densidad media 1.21
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2013)</small>
 
-c) Habitacional densidad baja 1.21
+b) Habitacional densidad media 1.30
 
-d) Habitación campestre o aislada 1.21
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2013)</small>
 
-e) Turístico 1.21
+c) Habitacional densidad baja 1.50
 
-f) Otros 1.21
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2013)</small>
+
+d) Habitación campestre o aislada 1.50
+
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2013)</small>
+
+e) Turístico 1.50
+
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2013)</small>
+
+f) Otros 1.50
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2013)</small>
+
+Cuando se trate de modificación y refrendo de la licencia de urbanización no se cobrará derecho alguno.
 
 VI. Por la autorización del proyecto ejecutivo de urbanización, por metro cuadrado, considerando la superficie de vialidad, según categoría:
 
@@ -1422,6 +1450,10 @@ i) Manufacturas y usos industriales:
 j) Otros de 0.05 a 0.24
 
 Las áreas de estacionamiento comprendidas en las categorías en los incisos e), f), g), h) e i), se considerará en el cobro, con el 10 por ciento de las mismas tarifas de acuerdo a la superficie habilitada para este servicio.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2013)</small>
+
+Cuando se trate de modificación al proyecto ejecutivo de urbanización se cobrará el 50% de cada etapa que se modifique o modificación a su calendario de obra.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ENERO DE 2003)</small>
 
@@ -2901,15 +2933,19 @@ a) Especies comerciales (frutales y de ornato) o industriales
 
 - Arboles de más de 121 ctms. de diámetro de fuste principal 25.00
 
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2013)</small>
+
+Cuando la dirección de Medio Ambiente dictamine que el árbol cuya poda o derribo que se solicita afecta, a la propiedad del solicitante, que por sus condiciones físicas de deterioro se dictamine procedente su derribo, no se pagará el derecho a que se refiere esta fracción.
+
 > <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 V. Registro de equipos de sonido masivo fijos y móviles al año 15.00
 
 Refrendos 50%
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2013)</small>
 
-VI. Licencia de explotación de bancos de material de construcción y sitios de explotación de recursos naturales. Por cada M3 0.20
+VI. Licencia de explotación de bancos de material de construcción y sitios de explotación de recursos naturales. Por cada M3 0.05
 
 > <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
@@ -3095,9 +3131,25 @@ c).- Instalaciones mayores de 1,000 M2 2.50
 
 XXVIII. Registro municipal de fundaciones y asociaciones civiles con actividades de fomento a la cultura medioambiental. Anualmente.
 
+> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2013)</small>
+
+XXX (SIC). Por la expedición del Dictamen de Verificación Ambiental 5.0
+
+> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2013)</small>
+
+XXXI. Por el Refrendo de Dictamen de Verificación Ambiental 3.0
+
+> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2013)</small>
+
+XXXII. Por depósito de los sitios de destino final de material reciclable 5.0 a 50.0
+
+> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2013)</small>
+
+XXXIII. Por la Recepción y Evaluación de la solicitud y otorgamiento de Dictamen de congruencia de factibilidad de uso de suelo en materia de Ordenamiento Ecológico 10.0
+
 > <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
-XXX. (SIC) Por la expedición de autorizaciones, certificaciones y dictámenes no previstos en este articulo de 1.00 a 100
+XXXIV. Por la expedición de autorizaciones, certificaciones y dictámenes no previstos en este artículo de 1.00 a 100
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
@@ -4184,3 +4236,7 @@ P.O. 13 DE MARZO DE 2013.
 P.O. 30 DE MARZO DE 2013.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 27 DE ABRIL DE 2013.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
