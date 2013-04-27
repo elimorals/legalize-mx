@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-los-articulos-27-y-28-bis-de-la-ley-organica-9335
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-03-22"
-last_updated: "2013-03-22"
+last_updated: "2013-04-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93353&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "JAL"
 ---
 # REGLAMENTO DE LOS ARTICULOS 27 Y 28 BIS DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE ABRIL DE 2013 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO DE LOS ARTÍCULOS 27 Y 28 BIS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 27 DE ABRIL DE 2013.</small>
 
 Reglamento publicado en la Edición Especial del Periódico Oficial del Estado de Jalisco, el viernes 22 de marzo de 2013.
 
@@ -131,13 +131,63 @@ Cada inserción o publicación deberá contener la leyenda “Poder Legislativo 
 
 En lo que se refiere a mensajes de radio y televisión deberá de presentarse el contrato respectivo signado por el Secretario General del Congreso en el cual se deberá especificar el concepto del servicio prestado así como el monitoreo del cumplimiento de la emisión y difusión en su caso de los mensajes.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE ABRIL DE 2013 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 12.
 
-La comprobación por concepto de traslado y viáticos deberá acompañar la descripción que contenga: (sic)
+La comprobación por concepto de traslado y viáticos deberá acompañar la descripción que contenga:
 
-Artículo 14 (sic). El informe sobre la aplicación de recursos deberá ser presentado por escrito, para su registro y revisión correspondiente a la Secretaría General del Congreso del Estado para que esta la remita a la Dirección de Control Presupuestal y Financiero con copia a la Comisión de Administración.
+> <small>(F. DE E., P.O. 27 DE ABRIL DE 2013)</small>
+
+I. Tipo de transportación utilizada: avión, autobús, automóvil, motocicleta, barco, lancha o cualquier otro.
+
+> <small>(F. DE E., P.O. 27 DE ABRIL DE 2013)</small>
+
+II. Tipo de operación realizada para el uso del bien o servicio. Deberá especificarse renta o alquiler del transporte; comodato del bien, comodato del servicio, o si se trata del uso de un bien del diputado o de su personal subordinado;
+
+> <small>(F. DE E., P.O. 27 DE ABRIL DE 2013)</small>
+
+III. Un reporte que describa los trayectos y nombre de las personas de las que han hecho uso de dicho servicio por parte del diputado o su personal subordinado; y
+
+> <small>(F. DE E., P.O. 27 DE ABRIL DE 2013)</small>
+
+IV. En caso de hospedaje, el reporte indicará fecha, lugar, nombre y domicilio, relación de las personas que lo hayan utilizado.
+
+> <small>(F. DE E., P.O. 27 DE ABRIL DE 2013)</small>
+
+###### Artículo 13.
+
+En la comprobación por concepto de ayudas sociales, bastará la exhibición de un recibo por concepto de apoyo el cual deberá reunir las siguientes características:
+
+> <small>(F. DE E., P.O. 27 DE ABRIL DE 2013)</small>
+
+I. Identificación oficial del beneficiario;
+
+> <small>(F. DE E., P.O. 27 DE ABRIL DE 2013)</small>
+
+II. Comprobante de domicilio;
+
+> <small>(F. DE E., P.O. 27 DE ABRIL DE 2013)</small>
+
+III. Leyenda que señale que el apoyo económico por concepto de apoyo social lo entrega el Poder Legislativo por conducto del diputado, la cual no podrá ostentar imagen, nombre o logotipo de un partido político;
+
+> <small>(F. DE E., P.O. 27 DE ABRIL DE 2013)</small>
+
+IV. Descripción por el cual se recibe el apoyo;
+
+> <small>(F. DE E., P.O. 27 DE ABRIL DE 2013)</small>
+
+V. Cantidad con letra y número;
+
+> <small>(F. DE E., P.O. 27 DE ABRIL DE 2013)</small>
+
+VI. Firma autógrafa de quien entrega y recibe; y
+
+> <small>(F. DE E., P.O. 27 DE ABRIL DE 2013)</small>
+
+VII. Firma autógrafa de dos testigos.
+
+###### Artículo 14.
+
+El informe sobre la aplicación de recursos deberá ser presentado por escrito, para su registro y revisión correspondiente a la Secretaría General del Congreso del Estado para que esta la remita a la Dirección de Control Presupuestal y Financiero con copia a la Comisión de Administración.
 
 Los Grupos Parlamentarios o el diputado obligado a presentarlo y los Diputados independientes, deberán aplicar normas de contabilidad vigentes y estar apegados al clasificador por objeto vigente en el Congreso del Estado, para el registro y control de gastos.
 
@@ -147,33 +197,99 @@ La Dirección de control Presupuestal y Financiero, contará con un plazo de cin
 
 Subsanada la observación la Dirección informará a la Comisión respecto del resultado de la revisión.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE CAPÍTULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE ABRIL DE 2013 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 27 DE ABRIL DE 2013)</small>
 
-### CAPÍTULO V (SIC). DEL INFORME DE ACTIVIDADES REPRESENTATIVAS Y DE GESTIÓN
+### CAPÍTULO IV. DEL INFORME DE ACTIVIDADES REPRESENTATIVAS Y DE GESTIÓN
 
 ###### Artículo 16.
 
 Los Grupos Parlamentarios o los diputados obligados y los diputados independientes deberán rendir además un informe semestral que deberá contener la descripción de las actividades realizadas acompañada de memoria fotográfica.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE ABRIL DE 2013 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### Artículo 17.
 
 El informe previsto en el artículo anterior amparará exclusivamente las siguientes actividades:
 
-I. Gestoría; (sic)
+I. Gestoría;
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTA CERTIFICACIÓN, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE ABRIL DE 2013 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+> <small>(F. DE E., P.O. 27 DE ABRIL DE 2013)</small>
 
-EL SUSCRITO SECRETARIO GENERAL DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE JALISCO Y DE CONFORMIDAD A LO DISPUESTO POR EL ARTÍCULO 49 FRACCIÓN XV DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO.
+II. Apoyo social;
 
-C E R T I F I C A :
+> <small>(F. DE E., P.O. 27 DE ABRIL DE 2013)</small>
 
-QUE LAS PRESENTES FOTOCOPIAS EN QUINCE HOJAS ÚTILES, SON COPIA FIEL DEL ORIGINAL QUE TUVE A LA VISTA Y QUE CORRESPONDEN AL ACUERDO LEGISLATIVO NÚMERO 89-LX-13, APROBADO CON FECHA 24 DE FEBRERO DE 2012, MISMO QUE OBRA EN LOS ARCHIVOS DE ESTE PODER LEGISLATIVO.
+III. Capacitación;
+
+> <small>(F. DE E., P.O. 27 DE ABRIL DE 2013)</small>
+
+IV. Tareas informativas; y
+
+> <small>(F. DE E., P.O. 27 DE ABRIL DE 2013)</small>
+
+V. Trabajo legislativo.
+
+> <small>(F. DE E., P.O. 27 DE ABRIL DE 2013)</small>
+
+## ARTÍCULO TRANSITORIO
+
+> <small>(F. DE E., P.O. 27 DE ABRIL DE 2013)</small>
+
+ÚNICO: El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+> <small>(F. DE E., P.O. 27 DE ABRIL DE 2013)</small>
+
+Atentamente
+
+Recinto Oficial del Poder legislativo del Estado de Jalisco
+
+Guadalajara., Jalisco, enero de 2013
+
+> <small>(F. DE E., P.O. 27 DE ABRIL DE 2013)</small>
+
+LA COMISIÓN DE PUNTOS CONSTITUCIONALES, ESTUDIOS LEGISLATIVOS Y REGLAMENTOS
+
+> <small>(F. DE E., P.O. 27 DE ABRIL DE 2013)</small>
+
+Dip. José Hernán Cortés Berumen
+
+Presidente
+
+> <small>(F. DE E., P.O. 27 DE ABRIL DE 2013)</small>
+
+Dip. J. Jesús Palos Vaca
+
+Vocal
+
+> <small>(F. DE E., P.O. 27 DE ABRIL DE 2013)</small>
+
+Dip. Miguel Castro Reynoso
+
+Vocal
+
+> <small>(F. DE E., P.O. 27 DE ABRIL DE 2013)</small>
+
+Dip. Juan Carlos Márquez Rosas
+
+Vocal
+
+> <small>(F. DE E., P.O. 27 DE ABRIL DE 2013)</small>
+
+Dip. José Gildardo Guerrero Torres
+
+Vocal
+
+EL SUSCRITO SECRETARIO GENERAL DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE JALISCO Y DE CONFORMIDAD A LO DISPUESTO POR EL ARTÍCULO 49 FRACCIÓN XV DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
+
+C E R T I F I C A
+
+> <small>(F. DE E., P.O. 27 DE ABRIL DE 2013)</small>
+
+QUE LAS PRESENTES FOTOCOPIAS EN QUINCE HOJAS UTILES SON COPIA FIEL DEL ORIGINAL QUE TUVE A LA VISTA Y QUE CORRESPONDEN AL ACUERDO LEGISLATIVO NÚMERO 89-LX-13, APROBADO CON FECHA 24 DE FEBRERO DE 2013, MISMO QUE OBRA EN LOS ARCHIVOS DE ESTE PODER LEGISLATIVO.
 
 SE EXTIENDE LA PRESENTE CERTIFICACIÓN A LOS VEINTICINCO DIAS DEL MES DE FEBRERO DE 2013.
 
-A T E N T A M E N T E
+> <small>(F. DE E., P.O. 27 DE ABRIL DE 2013)</small>
+
+A T E N T M E N T E (SIC)
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN
 
@@ -182,27 +298,3 @@ GUADALAJARA, JAL. MÉXICO
 DR. MARCO ANTONIO DAZA MERCADO
 
 SECRETARIO GENERAL
-
-Dip. Roberto Mendoza Cárdenas
-
-Vocal
-
-Dip. Edgar E. Velázquez González
-
-Vocal
-
-Dip. Víctor Manuel Sánchez Orozco
-
-Vocal
-
-Dip. Norma Angélica Cordero Prado
-
-Vocal
-
-Dip. Julio Nelson García Sánchez
-
-Vocal
-
-Dip. Alberto Esquer Gutiérrez
-
-Vocal
