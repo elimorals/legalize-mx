@@ -4,7 +4,7 @@ identifier: "COL-ley-de-educacion-del-estado-de-colima-3971"
 country: "mx"
 rank: "ley"
 publication_date: "1994-05-28"
-last_updated: "2012-07-21"
+last_updated: "2013-04-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3971&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE EDUCACIÓN DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2013.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 28 de mayo de 1994.
 
@@ -180,6 +180,10 @@ Las escuelas de educación básica llevarán el nombre que designe o elija la Se
 ###### ARTICULO 14.
 
 En todas las escuelas de educación básica se integrará anualmente un Consejo Técnico como órgano de carácter consultivo de la dirección del plantel.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2013)</small>
+
+Asimismo, en cada escuela de educación básica existirá como mínimo una persona capacitada, de la misma plantilla laboral, para prestar primeros auxilios tanto a estudiantes, maestros y personal administrativo de la escuela de que se trate.
 
 ###### ARTICULO 15.
 
@@ -475,9 +479,11 @@ La disciplina escolar se obtendrá como resultado de las formas de organización
 
 En caso de que las y los educadores así como las autoridades educativas, tengan conocimiento de la comisión de algún delito en agravio de las y los educandos, lo harán del conocimiento inmediato de la autoridad correspondiente.
 
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2013)</small>
+
 ###### ARTICULO 30.
 
-Toda la educación que impartan en forma directa o centralizada el Estado y los municipios será gratuita. Está prohibido cobrar cuotas o solicitar pagos regulares o cualquier otra exacción, así sea a título de compensación extraordinaria. Podrán aceptar donativos voluntarios que proporcionen los particulares para beneficio de los planteles, pero en ningún caso se entenderán como contraprestaciones del servicio educativo.
+Toda la educación que impartan en forma directa o centralizada el Estado y los municipios será gratuita. Está prohibido cobrar cuotas o solicitar pagos regulares o cualquier otra exacción, así sea a título de compensación extraordinaria y en ningún caso se condicionará la prestación del servicio educativo por estas razones. Podrán aceptar donativos voluntarios que proporcionen los particulares para beneficio de los planteles, pero en ningún caso se entenderán como contraprestaciones del servicio educativo.
 
 PRIMERA SECCION
 
@@ -823,6 +829,18 @@ Las plazas de nueva creación y las de nivel mínimo que se liberen como resulta
 
 Los ascensos en el aspecto docente se sujetarán al Reglamento de Escalafón, el cual se expedirá utilizando criterios que aseguren la real capacidad y eficiencia desarrollada por el solicitante para la función a la cual aspira.
 
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2013)</small>
+
+Para ser directivo de un establecimiento público de educación básica del Sistema Educativo Estatal, además de cumplir con los requisitos que establezca el escalafón, el aspirante deberá comprobar haber acreditado el Programa de Formación para Directivos de Educación Básica, que comprende a los directivos de educación preescolar, primaria, secundaria en sus diversas modalidades y especial, así como supervisores de todos los niveles y modalidades y jefes de sector.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2013)</small>
+
+Este Programa deberá contener elementos que desarrollen las competencias profesionales para el ejercicio de liderazgo; la gestión pedagógica y administrativa; el diseño, implementación y evaluación de proyectos de desarrollo educativos, tendientes a mejorar la calidad de los aprendizajes de los alumnos; así como la capacidad para organizar a los padres de familia en la tarea educativa.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2013)</small>
+
+De igual manera, el Programa deberá tener un apartado que permita evaluar la capacidad psicológica de los aspirantes para el ejercicio de la función directiva.
+
 ###### ARTICULO 86.
 
 Los nombramientos, licencias, cambios de adscripción, destituciones, suspensiones, estímulos y recompensas del personal docente y administrativo, se regirán por las disposiciones contenidas en la presente Ley y sus reglamentos.
@@ -1015,9 +1033,17 @@ I.- No realizar los actos que la prudencia y el buen orden señalan para proveer
 
 II.- Lucrar o pretender lucrar con los libros de texto gratuito o su material complementario;
 
-III.- Obligar en forma indebida al trabajo a menores de edad sin cuidar su educación primaria y secundaria obligatoria, y
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2013)</small>
 
-IV.- Omitir inscribir a menores de edad a fin de que cursen su instrucción primaria y secundaria en los centros educativos establecidos para el efecto, si se trata de quienes ejercen la patria potestad, tutela o representación de menores.
+III.- Obligar en forma indebida al trabajo a menores de edad sin cuidar su educación primaria y secundaria obligatoria;
+
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2013)</small>
+
+IV.- Omitir inscribir a menores de edad a fin de que cursen su instrucción primaria y secundaria en los centros educativos establecidos para el efecto, si se trata de quienes ejercen la patria potestad, tutela o representación de menores; y
+
+> <small>(ADICIONADA P.O. 27 DE ABRIL DE 2013)</small>
+
+V.- Condicionar la prestación del servicio educativo en términos del artículo 30 de esta Ley.
 
 ###### ARTICULO 100.
 
@@ -1220,3 +1246,9 @@ P.O. 23 DE JUNIO DE 2012.
 P.O. 21 DE JULIO DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 27 DE ABRIL DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Para el cumplimiento de lo previsto en el artículo 85 de este Decreto, la Secretaría de Educación contará con un plazo de cuatro meses después de su publicación.
