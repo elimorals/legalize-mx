@@ -4,7 +4,7 @@ identifier: "HID-ley-de-responsabilidades-de-los-servidores-publicos-5503"
 country: "mx"
 rank: "ley"
 publication_date: "1984-06-08"
-last_updated: "2012-12-31"
+last_updated: "2013-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5503&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el viernes 8 de junio de 1984.
 
@@ -85,9 +85,15 @@ IV.- El Tribunal Fiscal Administrativo del Estado;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-V.- La Secretaría del Trabajo y Previsión Social, en los términos de la Legislación respectiva; y
+V.- La Secretaría del Trabajo y Previsión Social, en los términos de la Legislación respectiva; y (sic)
 
-VI.- Los demás órganos jurisdiccionales que determinen las leyes.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2013)</small>
+
+VI.- La Auditoría Superior del Estado; y
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2013)</small>
+
+VII.- Los demás órganos jurisdiccionales que determinen las leyes.
 
 ###### ARTICULO 4o.
 
@@ -633,7 +639,7 @@ Si el encargado interno de la dependencia o la Asamblea Municipal tuvieran conoc
 
 ###### ARTICULO 62.
 
-Si de las investigaciones y auditorías que realice la Secretaría de Contraloría y Transparencia Gubernamental, apareciera la responsabilidad de los servidores públicos, informará al encargado interno de la dependencia o a·la asamblea municipal correspondiente, para que procedan a la investigación y sanción disciplinaria por dicha responsabilidad, si fuera de su competencia. Si se trata de responsabilidades mayores cuyo conocimiento solo compete a la Secretaría de Contraloría y Transparencia Gubernamental, esta se abocará directamente al asunto, informando de ello al titular de la dependencia y al encargado interno de la misma para que participe o coadyuve en el procedimiento de determinación de responsabilidades.
+Si de las investigaciones y auditorías que realice la Secretaría de Contraloría y Transparencia Gubernamental, apareciera la responsabilidad de los servidores públicos, informará al encargado interno de la dependencia o a la asamblea municipal correspondiente, para que procedan a la investigación y sanción disciplinaria por dicha responsabilidad, si fuera de su competencia. Si se trata de responsabilidades mayores cuyo conocimiento solo compete a la Secretaría de Contraloría y Transparencia Gubernamental, esta se abocará directamente al asunto, informando de ello al titular de la dependencia y al encargado interno de la misma para que participe o coadyuve en el procedimiento de determinación de responsabilidades.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -817,6 +823,10 @@ Tienen la obligación de presentar declaraciones de situación patrimonial bajo 
 
 I.- En el Congreso: Diputados, Presidentes Municipales, Regidores, Síndicos, Directores Generales, Directores de Área, Subdirectores, Encargados de Departamento, Jefes de oficina y demás servidores públicos que realicen funciones de revisión y fiscalización.
 
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2013)</small>
+
+Los Servidores públicos a que se refiere esta fracción, presentarán su declaración de situación patrimonial ante la Auditoría Superior del Estado de Hidalgo en la forma y términos que ésta señale.
+
 En la Auditoria Superior del Estado: Todos los servidores públicos, desde el nivel de jefe de departamento u homólogo hasta el de Auditor Superior del Estado;
 
 II.- En el Poder Ejecutivo: Todos los servidores Públicos desde el nivel de jefe de departamento u homólogo hasta el Gobernador del Estado, así como la policía investigadora.
@@ -963,7 +973,7 @@ Dado en el Palacio del Poder Ejecutivo, en la Ciudad de Pachuca de Soto, Estado 
 
 El Gobernador Constitucional del Estado.- GUILLERMO ROSSELL DE LA LAMA.- El Secretario General de Gobierno.- EFRAIN ARISTA RUIZ.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 20 DE JULIO DE 1992.
 
@@ -1011,4 +1021,10 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su Publicac
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a la presente Ley.
 
-TERCERO.- Por lo que respecta a las declaraciones de situación patrimonial efectuadas con anterioridad a esta Ley, se estará a lo dispuesto en las normas vigentes en el momento de efectuarse dicha declaración.
+TERCERO.- (DEROGADO, P.O. 29 DE ABRIL DE 2013)
+
+P.O. 29 DE ABRIL DE 2013.
+
+PRIMERO.- El presente Decreto, entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Por lo que hace a la presentación de la declaración de situación patrimonial de Los síndicos y regidores, se estará a lo dispuesto en la Ley de la Auditoría Superior del Estado.
