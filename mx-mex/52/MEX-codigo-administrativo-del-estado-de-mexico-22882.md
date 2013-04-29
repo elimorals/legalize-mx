@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2013-02-28"
+last_updated: "2013-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE FEBRERO DE 2013.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA G.G. DE 28 DE FEBRERO DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE ABRIL DE 2013.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -7215,7 +7213,7 @@ XIII. Las demás que se establezcan en otras disposiciones legales y administrat
 
 ###### Artículo 7.
 
-53.- Los concesionarios del servicio público auxiliar de depósito y guarda de vehículos, deberán prohibir el acceso al inmueble donde se practique el depósito, a toda persona que no se encuentre bajo su dirección, responsabilidad o subordinación, con excepción de las autoridades, previa identificación personal, acrediten facultad para ingresar al establecimiento para la práctica de alguna diligencia de carácter legal o de personal autorizado de la Secretaría de Transporte para efectuar inspecciones de libros, registros, instalaciones, grúas, personal y vehículos.
+53.- Los concesionarios del servicio público auxiliar de depósito y guarda da vehículos, deberán prohibir el acceso al inmueble donde se practique el depósito, a toda persona que no se encuentre bajo su dirección, responsabilidad o subordinación, con excepción de las autoridades, previa identificación personal, acrediten facultad para ingresar al establecimiento para la práctica de alguna diligencia de carácter legal o de personal autorizado de la Secretaría de Transporte para efectuar inspecciones de libros, registros, instalaciones, grúas, personal y vehículos.
 
 Asimismo, podrá permitirse a los particulares que acrediten interés jurídico o legítimo, extraer del vehículo, documentación y objetos personales, siempre en presencia del personal autorizado del establecimiento y levantando constancia circunstanciada de dicha disposición.
 
@@ -7421,7 +7419,7 @@ VII. Las demás previstas en la Norma Técnica respectiva y demás disposiciones
 
 67.- Los concesionarios deberán abstenerse de recibir:
 
-I. Vehículos remitidos por autoridades que no se identifiquen plenamente o sin mediar la documentación que acredite la entrega material y jurídica del vehículo correspondiente; tener en depósito, o recibir vehículos robados o con reporte de robo, aún los remitidos por alguna autoridad de cualquier naturaleza;
+I. Vehículos remitidos por autoridades que no se identifiquen plenamente o sin mediar la documentación que acredite la entrega material y jurídica del vehículo correspondiente; tener en depósito, y recibir vehículos robados o con reporte de robo, aún los remitidos por alguna autoridad de cualquier naturaleza;
 
 II. Junto con el vehículo, alimentos perecederos, medicamentos a granel, drogas, armas, animales, productos químicos, materiales o residuos corrosivos, reactivos, explosivos, tóxicos, inflamables, mutagénicos o biológico infecciosos y demás productos o mercancías que se encuentren a simple vista, cuya conservación represente un riesgo para la salud o para el ambiente, por su concentración, propiedades químicas o resultados de la descomposición;
 
@@ -7655,7 +7653,7 @@ b) Se niegue a la práctica de exámenes médicos, psicológicos, farmacológico
 
 c) No acredite haber cumplido con la capacitación requerida para conducir vehículos sujetos a concesión o permiso y/o en su caso, no cuente o porte el tarjetón de identificación expedido por la Secretaría de Transporte.
 
-VIII. Multa de cuarenta a cien veces el salario mínimo general vigente en el área geográfica de que se trate al momento de cometer la infracción, a quien cometa cualquier otra violación al presente Libro, las disposiciones que de él emanen y a las condiciones establecidas en el título de concesión o permiso, cuya sanción no esté expresamente prevista, con la responsabilidad solidaria de los titulares de la concesión o permiso;
+VIII. Multa de cuarenta a cien veces el salario mínimo general vigente en el área geográfica de que se trate al momento de cometer la infracción, a quien corneta cualquier otra violación al presente Libro, las disposiciones que de él emanen y a las condiciones establecidas en el título de concesión o permiso, cuya sanción no esté expresamente prevista, con la responsabilidad solidaria de los titulares de la concesión o permiso;
 
 IX. Multa de cien a quinientas veces el salario mínimo general vigente en el área geográfica de que se trate al momento de cometer la infracción, a quien:
 
@@ -7669,7 +7667,7 @@ d) Omitir informar de inmediato, a la autoridad ante la cual se encuentren a dis
 
 e) Omitir tener a la vista del público el catalogo de tarifas vigentes.
 
-X. Multa de quinientas a mil veces de salario mínimo general vigente en el área geográfica de que se trate al momento de cometer la infracción, al concesionario que por si o mediante sus administradores, empleados u operarios, incurra en:
+X. Multa de quinientas a mil veces de salario mínimo general vigente en el área geográfica de que se trate al momento de cometer la infracción, al concesionario que por o mediante sus administradores, empleados u operarios, incurra en:
 
 a) Alterar las tarifas autorizadas;
 
@@ -8079,11 +8077,11 @@ Cuando estando obligado a ello, el vehículo carezca de la constancia que acredi
 
 21.- En el caso de vehículos estacionados en lugar prohibido o en doble fila se deberá atender a las disposiciones siguientes:
 
-I. La autoridad competente sólo podrá retirar al vehículo de que se trate para remitirlo al depósito correspondiente, cuando no esté presente el conductor, o bien éste no quiera o no pueda mover el vehículo;
+> <small>(REFORMADA, G.G. 29 DE ABRIL DE 2013)</small>
 
-> <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2012)</small>
+I. La autoridad competente retirará el vehículo estacionándolo de manera inmediata en el lugar más próximo en el que no exista restricción y le retirará la placa delantera cuando no esté presente el conductor, o bien cuando éste no quiera o no pueda mover el vehículo.
 
-En caso de proceder la remisión del vehículo al depósito, los agentes deberán sellar las puertas del mismo, para garantizar la conservación y guarda de los objetos que en él se encuentren, y de manera inmediata deberán informar a las autoridades respectivas, para finalmente hacer entrega de la unidad en el depósito referido.
+En estos caso y sólo si se utiliza el servicio de grúas, el propietario pagará el servicio de arrastre mínimo comprendido en el Acuerdo por el que se fijan y autorizan las tarifas máximas del servicio de grúas vigente, sin que para ello deba pagar monto alguno adicional por concepto de banderazo por servicio, abanderamiento de grúa, ni maniobras de salvamento.
 
 II. En caso de que esté presente el conductor y mueva su vehículo del lugar prohibido, sólo se levantará la infracción que proceda;
 
@@ -11169,7 +11167,7 @@ XI. La (sic) demás necesarias para el ejercicio de las facultades anteriores, e
 
 8.- El Director General del IGECEM, además de las atribuciones que este Libro y otros ordenamientos le confieran en materia de información e investigación geográfica, estadística y catastral, tendrá las facultades y obligaciones siguientes:
 
-I. Representar al IGECEM ante las dependencias y entidades de los poderes Legislativo, Ejecutivo y Judicial, los ayuntamientos, personas e instituciones de derecho público o privado, con todas las facultades que correspondan a los apoderados generales de manera enunciativa y no limitativa, para pleitos y cobranzas; actos de administración; actos de dominio, incluso los que requieran cláusula especial, en los términos que marca el Código Civil del Estado; interponer querellas y denuncias; otorgar perdón; promover o desistirse del juicio de amparo; absolver posiciones; comprometer en árbitros; otorgar, sustituir o revocar poderes generales o especiales; suscribir y endosar títulos de crédito; y celebrar operaciones mercantiles.
+I. Representar al IGECEM ante las dependencias y entidades de los poderes Legislativo, Ejecutivo y Judicial, los ayuntamientos, personas e instituciones de derecho público o privado, con todas las facultades que correspondan a los apoderados generales de manera enunciativa y no limitativa, para pleitos y cobranzas; actos de administración, actos de dominio, incluso los que requieran cláusula especial, en los términos que marca el Código Civil del Estado; interponer querellas y denuncias, otorgar perdón; promover o desistirse del juicio de amparo; absolver posiciones; comprometer en árbitros; otorgar, sustituir o revocar poderes generales o especiales; suscribir y endosar títulos de crédito; y celebrar operaciones mercantiles.
 
 En el caso en que realice actos de transmisión o enajenación de dominio de bienes inmuebles deberá contar con la autorización previa del Consejo Directivo;
 
@@ -11513,7 +11511,7 @@ Las dependencias, entidades y unidades administrativas de los poderes Legislativ
 
 ###### Artículo 14.
 
-39.- Las autoridades estatales en materia de información e investigación geográfica, estadística y catastral, se coordinarán con los titulares de las dependencias y entidades de la administración pública federal; instruirán a los de la administración pública estatal; y convendrán con los de las unidades administrativas de los ayuntamientos, el desarrollo de actividades que en términos de este Libro deban realizarse, a fin de aplicar normas técnicas y principios homogéneos, determinados por la Ley de Información Estadística y Geográfica;
+39.- Las autoridades estatales en materia de información e investigación geográfica, estadística y catastral, se coordinarán con los titulares de las dependencias y entidades de la administración pública federal; instruirán a los de la administración pública estatal; y convendrán con los de las unidades administrativas de los ayuntamientos, el desarrollo de actividades que en términos de este Libro deban realizarse, a fin de aplicar normas técnicas y principios homogéneos, determinados por la Ley de Información Estadística y Geográfica.
 
 > <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
@@ -11631,7 +11629,7 @@ III. Los bienes muebles, instrumentos y equipos que adquiera o le sean transferi
 
 IV. El importe de los ingresos que perciba por la venta de productos y servicios;
 
-V. La donaciones (sic), legados, subsidios y otras aportaciones que reciba;
+V. La (sic) donaciones, legados, subsidios y otras aportaciones que reciba;
 
 VI. Remanentes, frutos, utilidades e intereses de inversiones;
 
@@ -11981,7 +11979,7 @@ VII. (DEROGADA, G.G. 24 DE DICIEMBRE DE 2010)
 
 El documento a publicar deberá presentarse en papel membretado, original y copia, y su respaldo magnético, no se aceptarán documentos con enmendaduras, borrones o letras ilegibles.
 
-Por motivos técnicos, en la publicación del documento se podrá omitir la impresión de la firma; en su lugar deberá aparecer, bajo la mención del nombre del firmante, la palabra “rúbrica”, teniendo plena validez jurídica el contenido de la publicación.
+Por motivos técnicos, en la publicación del documento se podrá omitir la impresión de la firma; en su lugar deberá aparecer, bajo la mención del nombre del firmante, la palabra “rubrica”, teniendo plena validez jurídica el contenido de la publicación.
 
 > <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
 
@@ -12029,7 +12027,7 @@ II. Aquellos que estén sujetos a plazos legales, cuyo vencimiento requiera de s
 
 III. Los que excedan de más de 300 páginas y siempre que no se esté en el supuesto de la fracción anterior, serán publicados en los ocho días hábiles siguientes; y
 
-IV.- Aquellos cuya publicación este determinada por los Poderes Legislativo, Ejecutivo y Judicial.
+IV. Aquellos cuya publicación este determinada por los Poderes Legislativo, Ejecutivo y Judicial.
 
 > <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
 
@@ -16704,3 +16702,13 @@ SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicac
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
 
 CUARTO.- El Gobernador del Estado, al presentar la Cuenta Pública del Gobierno del estado de México y Organismos Auxiliares del Ejercicio Fiscal 2013, informará de los recursos ejercidos por la Consejería Jurídica.
+
+G.G. 29 DE ABRIL DE 2013.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- El titular del Ejecutivo del Estado y los ayuntamientos, proveerán en su esfera administrativa el cumplimiento del presente Decreto.
+
+CUARTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
