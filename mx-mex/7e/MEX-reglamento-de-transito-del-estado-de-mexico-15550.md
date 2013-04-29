@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-transito-del-estado-de-mexico-15550"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-21"
-last_updated: "2012-10-10"
+last_updated: "2013-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DE TRÁNSITO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE ABRIL DE 2013.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el lunes 21 de septiembre de 1992.
 
@@ -37,9 +37,11 @@ REGLAMENTO DE TRANSITO DEL ESTADO DE MEXICO
 
 ### CAPITULO I. NORMAS GENERALES
 
+> <small>(REFORMADO, G.G. 29 DE ABRIL DE 2013)</small>
+
 ###### Artículo 1o.
 
-El presente reglamento es de orden público e interés social y tiene por objeto establecer las normas a que deberá sujetarse el tránsito de peatones y vehículos en vías de jurisdicción estatal y aquellas de carácter federal cuya vigilancia y control se convengan con la Federación.
+El presente Reglamento es de orden público e interés social y de aplicación obligatoria en todos los municipios del Estado. Tiene por objeto establecer las normas a las que deberá sujetarse el tránsito de peatones y el de vehículos en vías de jurisdicción estatal y en aquellas de carácter federal, cuya vigilancia y control convengan con la Federación.
 
 ###### Artículo 2o.
 
@@ -887,6 +889,10 @@ Las indicaciones de los dispositivos para el control del tránsito prevalecen so
 
 Los usuarios de la vía pública deberán abstenerse de realizar acto alguno que pueda constituir un obstáculo para el tránsito de peatones y vehículos, poner en peligro a las personas o causar un daño a las propiedades públicas o privadas.
 
+> <small>(ADICIONADO, G.G. 29 DE ABRIL DE 2013)</small>
+
+Artículo 62 bis.- Se prohíbe interferir, obstaculizar o impedir, deliberadamente, la circulación de vehículos en las vías públicas del Estado.
+
 ###### Artículo 63.
 
 Se prohibe la circulación en sentido contrario; sólo en caso de emergencia podrán hacerlo las ambulancias, los vehículos del cuerpo de bomberos, las patrullas de la policía preventiva, de la policía judicial estatal o federal y las de seguridad pública y tránsito.
@@ -921,9 +927,9 @@ Los vehículos destinados al transporte de carga dentro de los perímetros de la
 
 Se prohibe la circulación de vehículos de carga cuando ésta rebase las dimensiones laterales del mismo, sobresalga de la parte posterior en más de un metro, dificulte la estabilidad o conducción del vehículo, estorbe la visibilidad lateral del conductor, se derrame o esparza la carga en la vía pública, oculte las luces y placas del vehículo, no se encuentre debidamente cubierta tratándose de materiales a granel y no esté debidamente sujeta con los amarres necesarios.
 
-> <small>(ADICIONADO, G.G. 8 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO, G.G. 29 DE ABRIL DE 2013)</small>
 
-Los vehículos que transporten carga perecedera, no podrán ser detenidos al cometer alguna infracción, en su caso, se procederá a sancionarlos reteniéndoles la licencia, tarjeta de circulación o una placa.
+Los vehículos que transporten perecederos o sustancias tóxicas o peligrosas no pueden ser remitidos al depósito por violación a lo establecido en el presente Reglamento. En todo caso, el agente debe entregar el documento de la infracción correspondiente y retener la tarjeta de circulación, la licencia del conductor o la placa de matrícula del vehículo únicamente cuando no sea posible realizar el pago inmediato, permitiendo que el vehículo continúe su marcha.
 
 ###### Artículo 71.
 
@@ -1357,17 +1363,53 @@ II.- Cuando resulten daños a bienes propiedad de la federación, del estado o d
 
 Los conductores de los vehículos implicados en un accidente tendrán la obligación de retirarlos de la vía pública, una vez que la autoridad competente lo disponga, para evitar otros accidentes, así como los residuos o cualquier otro material que se hubiese esparcido en ella con motivo o a consecuencia de dicho accidente.
 
-### CAPITULO I
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 29 DE ABRIL DE 2013)</small>
 
-DE LA EDUCACION E INFORMACION VIAL.
+### CAPITULO VIII
+
+DE LA CONDUCCION DE VEHICULOS BAJO LOS EFECTOS DEL ALCOHOL Y DE NARCOTICOS.
+
+> <small>(ADICIONADO, G.G. 29 DE ABRIL DE 2013)</small>
+
+Artículo 106 bis.- Ninguna persona puede conducir vehículos por la vía pública si tiene una cantidad de alcohol en la sangre superior a 0.8 gramos por litro, o de alcohol en aire espirado superior a 0.4 miligramos por litro, o bajo el influjo de enervantes, estupefacientes o sustancias psicotrópicas o tóxicas.
+
+Los operadores de vehículos destinados al servicio de transporte de pasajeros, de transporte de carga o de transporte de sustancias tóxicas o peligrosas, no deben presentar ninguna cantidad de alcohol en la sangre o en aire espirado, o síntomas simples de aliento alcohólico, ni deben presentar síntomas simples de estar bajo el influjo de enervantes, estupefacientes o sustancias psicotrópicas o tóxicas; en caso de presentarlos, el conductor será remitido al oficial calificador correspondiente. Sí el médico de dicha oficialía determina el consumo de alcohol o de las sustancias referidas, sin perjuicio de las sanciones que procedan, se dará aviso inmediato a la Secretaría de Transporte para que proceda la cancelación de la licencia, conforme a las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, G.G. 29 DE ABRIL DE 2013)</small>
+
+Artículo 106 ter.- Todos los conductores de vehículos a quienes se les encuentre cometiendo actos que violen las disposiciones del presente Reglamento y muestren síntomas de que conducen en estado de ebriedad o bajo los efectos de enervantes, estupefacientes o sustancias psicotrópicas o tóxicas serán presentados ante el oficial calificador del municipio que compete o al ministerio público, cuando el hecho sea constitutivo de delito, según corresponda.
+
+Todos los conductores de vehículos están obligados a someterse a las pruebas para la detección del grado de intoxicación por el médico adscrito a la oficialía calificadora del municipio que corresponda.
+
+Los agentes pueden detener la marcha de un vehículo cuando la Secretaría de Seguridad Ciudadana o los ayuntamientos establezcan y lleven a cabo operativos o programas de control y preventivos de ingestión de alcohol u otras substancias tóxicas para los conductores de vehículos.
+
+> <small>(ADICIONADO, G.G. 29 DE ABRIL DE 2013)</small>
+
+Artículo 106 quater.- Cuando se cuente con aparatos médico-científicos de detección de alcohol y de otras substancias tóxicas se debe proceder de la siguiente manera:
+
+I. Los conductores deben someterse a las pruebas para la detección del grado de intoxicación que establezca la Secretaría de Seguridad Ciudadana o los ayuntamientos.
+
+II. El agente debe entregar al conductor un ejemplar del comprobante de los resultados de la prueba, inmediato a su realización.
+
+III. En caso de que el conductor sobrepase el límite permitido de alcohol en la sangre, aire espirado o se encuentre bajo el influjo de enervantes, estupefacientes o sustancias psicotrópicas o tóxicas debe ser remitido ante el oficial calificador del municipio correspondiente cuando los hechos constituyan una falta administrativa, y ante el ministerio público, cuando el hecho sea constitutivo de delito, según corresponda.
+
+IV. Cuando al momento de la infracción el conductor se encuentre acompañado de algún familiar o de persona sobria y disponga de la debida licencia de conducir, se le entregará a ella el vehículo, dejando constancia de ello; caso contrario, se deberá remitir el vehículo al depósito más cercano para su resguardo.
+
+V. El agente debe entregar un ejemplar del comprobante de los resultados de la prueba al oficial calificador del municipio documento que constituirá prueba fehaciente de la cantidad de alcohol o de otra sustancia tóxica encontrada, que servirá de base para el dictamen del médico adscrito a la oficialía calificadora que determine el tiempo probable de recuperación.
+
+VI. Informar, de inmediato, a la Secretaría de Transporte de las infracciones a las disposiciones de tránsito para que se registren en la correspondiente base de datos.
+
+El oficial calificador será la autoridad encargada de determinar la temporalidad del arresto, de acuerdo a la concentración que reporten los elementos médico-científicos, así como cuando viajen menores de doce años. Si al momento de la infracción se desprende que el conductor es menor de edad, el vehículo se remitirá al depósito más cercano y por conducto del oficial calificador se citará a sus padres o a quien ejerza la patria potestad o tutela sobre él o ella para que, en su presencia, sea amonestado, además de que si la falta administrativa genera alguna obligación, serán solidariamente responsables del menor infractor.
+
+En caso de reincidencia, el conductor deberá inscribirse en alguno de los programas de rehabilitación para personas alcohólicas en las instituciones con las que el Gobierno del Estado de México o los municipios tengan celebrado convenio al respecto.
 
 ## TITULO QUINTO
 
 DE LA EDUCACION VIAL Y MEDIDAS DE PROTECCION DEL MEDIO AMBIENTE.
 
-### CAPITULO II
+### CAPITULO I
 
-DE LAS MEDIDAS DE PROTECCION DEL MEDIO AMBIENTE.
+DE LA EDUCACION E INFORMACION VIAL.
 
 ###### Artículo 107.
 
@@ -1415,9 +1457,9 @@ III.- Evitar el manejo de vehículos automotores en estado de ebriedad o bajo el
 
 El Ejecutivo del Estado a través de la Secretaria de Gobierno, podrá celebrar convenios con instituciones públicas o privadas, para dar a conocer en los medios de comunicación masiva, los programas de educación vial, así como para informar al público en general, con oportunidad, acerca de la intensidad del tráfico y de las vialidades y de los siniestros que ocurren en las mismas, con el propósito de evitar congestionamientos.
 
-### CAPITULO I
+### CAPITULO II
 
-DEL LEVANTAMIENTO DE INFRACCIONES.
+DE LAS MEDIDAS DE PROTECCION DEL MEDIO AMBIENTE.
 
 ###### Artículo 110.
 
@@ -1447,11 +1489,9 @@ Los vehículos que circulen en contravención a las reglas de restricción de ci
 
 DE LAS INFRACCIONES, SANCIONES Y MEDIOS DE IMPUGNACION.
 
-### CAPITULO II
+### CAPITULO I
 
-DE LAS SANCIONES Y MEDIDAS DE SEGURIDAD.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 9 DE AGOSTO DE 2004)</small>
+DEL LEVANTAMIENTO DE INFRACCIONES.
 
 ###### Artículo 116.
 
@@ -1467,9 +1507,11 @@ III.- Señalar al conductor la infracción que ha cometido, mostrando el artícu
 
 IV.- Indicar al conductor que muestre su licencia y/o permiso para conducir vehículos, tarjeta de identificación personal para operadores de transporte público, tarjeta de circulación, y en su caso permiso de ruta de transporte de carga riesgosa.
 
-> <small>(REFORMADA, G.G. 20 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, G.G. 29 DE ABRIL DE 2013)</small>
 
-V.- Una vez mostrados los documentos, expedir el documento impreso por la terminal electrónica en el que conste la infracción y la sanción que el agente de tránsito expide al infractor;
+V.- Una vez efectuada la revisión de los documentos y de la situación en la que se encuentra el vehículo, si éstos están en orden, el agente procederá a la formulación del documento impreso por la terminal electrónica en el que consten la infracción y la sanción que el agente de tránsito expida.
+
+Para el caso de infracciones detectadas a través de la información obtenida con equipos y sistemas tecnológicos de Seguridad Pública, se estará a lo dispuesto en este Reglamento.
 
 VI.- (DEROGADA, G.G. 20 DE SEPTIEMBRE DE 2012)
 
@@ -1491,15 +1533,15 @@ Se impedirá la circulación de cualquier vehículo, poniéndolo de inmediato ju
 
 Sólo procederá la retención de cualquier vehículo, remitiéndolo de inmediato al depósito mas cercano, en los siguientes casos:
 
-> <small>(REFORMADA, G.G. 9 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADA, G.G. 29 DE ABRIL DE 2013)</small>
 
-I.- Cuando al cometer una infracción al presente reglamento su conductor carezca de licencia y/o permiso para conducir vehículos, tarjeta de identificación personal para operadores de transporte público y el vehículo no tenga tarjeta de circulación, o el documento que justifique la omisión.
+I.- Cuando al cometer una infracción al presente Reglamento su conductor carezca de tarjeta de identificación personal como operador de transporte público o el vehículo no tenga tarjeta de circulación o el documento que justifique la omisión.
 
 II.- Cuando al vehículo le falten ambas placas, o el documento que justifique la omisión;
 
 III.- Cuando las placas del vehículo no coincidan en números y letras con la calcomanía o la tarjeta de circulación;
 
-IV.- Cuando estando estacionado el vehículo en lugar prohibido o en doble o triple fila, su conductor no esté presente;
+IV.- (DEROGADA, G.G. 29 DE ABRIL DE 2013)
 
 V.- (DEROGADA, G.G. 20 DE SEPTIEMBRE DE 2012)
 
@@ -1507,7 +1549,7 @@ VI.- Por conducir en estado de ebriedad o por el influjo de drogas enervantes o 
 
 VII.- Por participar en un accidente de tránsito en el que se produzcan hechos que pudiesen configurar delito;
 
-VIII.- Por interferir, obstaculizar o impedir deliberadamente la circulación de vehículos en las vías públicas del Estado;
+VIII.- (DEROGADA, G.G. 29 DE ABRIL DE 2013)
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 8 DE OCTUBRE DE 1998)</small>
 
@@ -1521,15 +1563,31 @@ XI. En los casos específicos que determinen otras disposiciones legales.
 
 En los casos a que se refiere este artículo, con excepción de los contenidos en las fracciones VI y VII, el conductor tiene el derecho de conducir su vehículo hasta el depósito más cercano que la autoridad le indique y sólo en caso de negativa o de abandono de la unidad el traslado podrá efectuarse por medio del servicio autorizado de arrastre.
 
+> <small>(ADICIONADO, G.G. 29 DE ABRIL DE 2013)</small>
+
+Una vez remitido el vehículo al depósito correspondiente, los agentes deberán informar de inmediato a las autoridades, procediendo a sellar el vehículo para garantizar su conservación y la guarda de los objetos que en éste se encuentren.
+
+> <small>(ADICIONADO, G.G. 29 DE ABRIL DE 2013)</small>
+
+Artículo 118 bis. En los casos en que proceda la remisión del vehículo al depósito, y previamente a que se haya iniciado el proceso de arrastre, los agentes deben sellarlo para garantizar la guarda y la custodia de los objetos que en él se encuentren.
+
+Tratándose de vehículo afecto a la prestación del servicio público de transporte, en cualquiera de sus modalidades, se debe presentar la documentación con la que se acredite estar autorizado para dar ese servicio.
+
+Los agentes que hubieren ordenado llevar a cabo la remisión al depósito deben informar, de inmediato, a través de los medios electrónicos de que dispongan, al centro de control correspondiente los datos del depósito al cual se remitió, el tipo de vehículo y la matricula, así como el lugar del que fue retirado.
+
+Para la devolución del vehículo en los depósitos es indispensable la comprobación de su propiedad o legal posesión, el pago previo de las multas adeudadas y derechos que procedan, la exhibición de la licencia de conducir vigente, una copia de la misma y portar las llaves del vehículo.
+
 ###### Artículo 119.
 
 En el caso de vehículos estacionados en lugar prohibido o en doble fila, se deberá atender a las disposiciones siguientes:
 
-I.- La autoridad competente sólo podrá retirar de la vía pública el vehículo de que se trate para remitirlo al depósito correspondiente, cuando no esté presente el conductor, o bien éste no quiera o no pueda remover el vehículo;
+> <small>(REFORMADA, G.G. 29 DE ABRIL DE 2013)</small>
+
+l.- La autoridad competente retirará el vehículo estacionándolo de manera inmediata en el lugar mas próximo en que no exista restricción y le retirará la placa delantera, cuando no esté presente el conductor, o bien éste no quiera o no pueda mover el vehículo.
 
 II.- En caso de que esté presente el conductor y remueva su vehículo del lugar prohibido, solo se levantará la infracción que proceda; y
 
-III.- Una vez remitido el vehículo al depósito correspondiente, los agentes deberán informar de inmediato a las autoridades, procediendo a sellar el vehículo para garantizar su conservación y la guarda de los objetos que en el se encuentren.
+III.- (DEROGADA, G.G. 29 DE ABRIL DE 2013)
 
 ###### Artículo 120.
 
@@ -1543,11 +1601,11 @@ En caso de que el vehículo retenido porte colores de empresa o ruta de servicio
 
 Únicamente en caso de flagrante infracción a las disposiciones de este reglamento, los agentes de tránsito podrán detener la marcha de un vehículo y exigir a su conductor la exhibición de su licencia o permiso para conducir, así como de la tarjeta o del permiso provisional que ampare la circulación de la unidad. Consecuentemente, la sola revisión de documentos no será motivo para detener el tránsito de un vehículo.
 
-### CAPITULO III
+### CAPITULO II
 
-DE LOS MEDIOS DE IMPUGNACION.
+DE LAS SANCIONES Y MEDIDAS DE SEGURIDAD.
 
-> <small>(REFORMADO, G.G. 20 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 9 DE AGOSTO DE 2004)</small>
 
 ###### Artículo 122.
 
@@ -1573,9 +1631,11 @@ En el caso de las infracciones a la circulación de vehículos que violen las no
 
 Las sanciones a que se refieren los dos párrafos anteriores se aplicarán tomando en cuenta la naturaleza y gravedad de las infracciones cometidas, así como la capacidad económica de los infractores.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE ABRIL DE 2013)</small>
+
 ###### Artículo 125.
 
-Las infracciones se harán constar en las formas impresas autorizadas por las autoridades de tránsito, y contendrán los siguientes datos:
+Las sanciones en materia de tránsito señaladas en este Reglamento y en demás disposiciones jurídicas serán impuestas por el agente de tránsito que tenga conocimiento de su comisión, mismas que deberán constar en la boleta de infracción expedida por la terminal electrónica autorizada por la Secretaría y por los ayuntamientos, la cual, para su validez, contendrá:
 
 I.- Nombre y domicilio del infractor;
 
@@ -1591,19 +1651,37 @@ V.- Disposiciones legales que las sustentan; y
 
 VI.- Nombre y firma del agente de tránsito que levante la infracción.
 
-> <small>(REFORMADO, G.G. 20 DE SEPTIEMBRE DE 2012)</small>
+> <small>(ADICIONADO, G.G. 29 DE ABRIL DE 2013)</small>
+
+La información obtenida con equipos y sistemas tecnológicos, con base en la cual se determine la imposición de la sanción, misma que hará prueba plena.
+
+> <small>(REFORMADO, G.G. 29 DE ABRIL DE 2013)</small>
 
 ###### Artículo 126.
 
-Una vez que el agente de tránsito expida el documento en el que conste la infracción, a través de la terminal electrónica en términos del artículo anterior, entregará al infractor el original de la misma, para que proceda al pago de la multa correspondiente, haciéndole saber los beneficios de descuento a que tiene derecho por el pronto pago y los establecimientos autorizados para realizar el pago de la multa.
+Una vez que la agente de tránsito expida el documento en el que conste la infracción, a través de la terminal electrónica, en términos del presente Reglamento, entregará al infractor el original de la misma para que proceda al pago de la multa correspondiente, haciéndole saber los beneficios de descuento a que tiene derecho por el pronto pago y los establecimientos autorizados para realizarlo.
 
-Cuando el vehículo que conduzca el infractor se encuentre matriculado fuera del Estado de México, el agente de tránsito que levante la infracción podrá retener la tarjeta de circulación, la licencia del conductor o la placa de matrícula del vehículo como medida para garantizar el pago de la multa. El agente deberá remitir la placa a la oficina correspondiente, debiendo, asimismo, informar al infractor de los beneficios a que tiene derecho en términos del presente artículo, así como la dependencia en que podrá recoger los documentos retenidos.
+Cuando el vehículo que conduzca el infractor se encuentre matriculado fuera del Estado de México, el agente de tránsito que levante la infracción podrá retener la tarjeta de circulación, la licencia del conductor o la placa de matrícula del vehículo como medida para garantizar el pago de la multa, cuando no sea posible realizar el pago inmediato. El agente deberá remitir el documento retenido o la placa a la oficina correspondiente debiendo, asimismo, informar al infractor de los beneficios a que tiene derecho en términos del presente artículo, así como el lugar en que podrá recoger el documento o la placa retenidos.
 
 > <small>(REFORMADO, G.G. 20 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 127.
 
 Si el infractor realiza el pago de la infracción el mismo día, obtendrá un descuento del 70% y cuando pague la multa dentro de los quince días hábiles siguientes, tendrá derecho a un descuento del 50%.
+
+> <small>(ADICIONADO, G.G. 29 DE ABRIL DE 2013)</small>
+
+Artículo 127 bis.- Sin perjuicio de las sanciones que correspondan, los conductores de vehículos que cometan alguna infracción a las normas de este Reglamento que puedan dar lugar a la tipificación de un delito deben ser puestos a disposición del ministerio público que corresponda por los agentes que tengan conocimiento del caso, para que aquél resuelva conforme a derecho.
+
+Tratándose de menores de edad, el ministerio público que tenga conocimiento del caso debe llamar a los padres o tutores del menor a efecto de que, sin perjuicio de efectuar su remisión de conformidad con la Ley de Justicia para Adolescentes del Estado de México, en los casos que proceda, se tomen las providencias necesarias para que se cubra la responsabilidad civil o penal en que haya incurrido.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 29 DE ABRIL DE 2013)</small>
+
+### CAPITULO III
+
+DE LOS MEDIOS DE IMPUGNACION Y DEFENSA DE LOS PARTICULARES FRENTE A LOS ACTOS DE AUTORIDAD.
+
+> <small>(REFORMADO, G.G. 20 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 128.
 
@@ -1614,6 +1692,16 @@ Contra las sanciones que se impongan por infracción a la (sic) disposiciones le
 ###### Artículo 129.
 
 Si con motivo del arrastre y detención de un vehículo, este sufriera daños o robo, el prestador del servicio de grúas de arrastre y depósito tiene la obligación de reparar los daños.
+
+> <small>(ADICIONADO, G.G. 29 DE ABRIL DE 2013)</small>
+
+###### Artículo 130.
+
+A los agentes que violen lo preceptuado en este Reglamento o que en aplicación del mismo remitan un vehículo a un depósito sin causa justificada, se les aplicarán las sanciones correspondientes. Los particulares pueden acudir ante el agente del ministerio público o ante los órganos de disciplina de la Secretaría o de los ayuntamientos a denunciar presuntos actos ilícitos de un agente.
+
+DE LAS COMETIDAS POR CONDUCTORES DE TODO TIPO DE VEHÍCULOS.
+
+> <small>N. DE E. VÉASE TABLAS EN LA CUARTA SECCIÓN DE LA G.G. DE 29 DE ABRIL DE 2013, PÁGINAS 5 A 8.</small>
 
 T R A N S I T O R I O S
 
@@ -1682,3 +1770,21 @@ G.G. 10 DE OCTUBRE DE 2012.
 PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Acuerdo, entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 29 DE ABRIL DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno."
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Acuerdo entrará en vigor el día siguiente al de su publicación.
+
+###### ARTÍCULO TERCERO.
+
+Cuando se haga referencia a los agentes de tránsito se entenderá a las mujeres facultadas para imponer sanciones en materia de tránsito.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan las disposiciones de igual o menor jerarquía que se opongan a este Acuerdo.
