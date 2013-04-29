@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-auditoria-superior-de-la-79997"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-02-28"
-last_updated: "2011-02-28"
+last_updated: "2013-04-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79997&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2011-02-23"
 ---
 # REGLAMENTO INTERIOR DE LA AUDITORIA SUPERIOR DE LA FEDERACION
 
-REGLAMENTO INTERIOR DE LA AUDITORIA SUPERIOR DE LA FEDERACION
+REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DE LA FEDERACIÓN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DE LA FEDERACIÓN, PUBLICADO EN EL D.O.F. DE 29 DE ABRIL DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: ABROGADO.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 28 de febrero de 2011.
 
@@ -2282,3 +2284,19 @@ OCTAVO.- La Dirección General de Recursos Materiales y Servicios conocerá y at
 NOVENO.- Las plazas de mando correspondientes a las subdirecciones de Auditoría de Desempeño al Desarrollo Económico "H"; de Auditoría de Desempeño al Desarrollo Social "H"; de Auditoría de Desempeño a Gobierno y Finanzas "H", y de Responsabilidades "C3" estarán sujetas a lo dispuesto en el artículo 33, fracción II, de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y se encuentran condicionadas al presupuesto de egresos de la Auditoría Superior de la Federación que apruebe la Cámara de Diputados para el ejercicio fiscal subsecuente.
 
 México, D.F., a 23 de febrero de 2011.- El Auditor Superior de la Federación, Juan Manuel Portal Martínez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 29 DE ABRIL DE 2013.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Auditoría Superior de la Federación, publicado en el Diario Oficial de la Federación el 28 de febrero de 2011.
+
+TERCERO.- Los asuntos que a la entrada en vigor del presente Reglamento, se encuentren en trámite y haya iniciado la Dirección General de Auditorías Especiales, los continuará la Dirección General de Auditoría de Desempeño a Programas Presupuestarios, de conformidad con la competencia y atribuciones que le confiere el presente Reglamento.
+
+CUARTO.- Los asuntos que a la entrada en vigor del presente Reglamento, se encuentren en trámite y haya iniciado la Auditoría Especial de Tecnologías e Información, a través de la Dirección General de Análisis e Investigación Económica, los continuará la misma Dirección ahora adscrita a la Auditoría Especial de Tecnologías de Información, Comunicaciones y Control, de conformidad con la competencia y atribuciones que le confiere el presente Reglamento.
+
+QUINTO.- Los asuntos que a la entrada en vigor del presente Reglamento, se encuentren en trámite y haya iniciado la Auditoría Especial de Tecnologías e Información, a través de la Dirección General de Informes y Control de Resultados de Auditoría, los continuará la Dirección General de Informes y Seguimiento, adscrita a la Unidad de Sistemas e Información, de conformidad con la competencia y atribuciones que le confiere el presente Reglamento.
+
+SEXTO.- Los asuntos que a la entrada en vigor del presente Reglamento, se encuentren en trámite y hayan iniciado la Dirección General de Auditoría a las Aportaciones Federales en Entidades Federativas, la Dirección General de Auditoría a los Recursos Descentralizados, Reasignados, Subsidios y Otros y la Dirección General a los Recursos Federales en Municipios y Órganos Político-Administrativos de las Demarcaciones Territoriales del Distrito Federal los continuarán las Direcciones Generales de Auditoría a los Recursos Federales Transferidos "A", "B" y "C" de conformidad con la competencia y atribuciones que en su momento determine su superior jerárquico.
