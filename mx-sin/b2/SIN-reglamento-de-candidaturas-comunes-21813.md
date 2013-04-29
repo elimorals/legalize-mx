@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-de-candidaturas-comunes-21813"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-08-01"
-last_updated: "2001-08-15"
+last_updated: "2013-04-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21813&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SIN"
 
 REGLAMENTO DE CANDIDATURAS COMUNES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE AGOSTO DE 2001.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE CANDIDATOS A OCUPAR CARGOS DE ELECCIÓN POPULAR, PUBLICADO EN EL P.O. DE 29 DE ABRIL DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el miércoles 1 de agosto de 2001.
 
@@ -93,8 +95,14 @@ UNICO. El presente Reglamento iniciará su vigencia a partir de su publicación 
 
 EL PRESENTE REGLAMENTO FUE ACORDADO POR MAYORÍA DE VOTOS EN LA SESIÓN ORDINARIA DEL 27 DE JULIO DEL PRESENTE AÑO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 15 DE AGOSTO DE 2001.
 
 UNICO.- El presente Reglamento iniciará su vigencia a partir de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 29 DE ABRIL DE 2013.
+
+PRIMERO: El presente Reglamento entrara en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO: El presente Reglamento abroga al Reglamento de Candidaturas Comunes, aprobado por el Consejo Estatal Electoral según Acuerdo Numero ORD/6/031 en la Sexta Sesión Ordinaria del 27 de julio de 2001, y adecuados los artículos 7, 8 y 10, mediante Acuerdo Número ORD/7/043 en la Séptima Sesión Ordinaria del Consejo Estatal Electoral, el día 10 de agosto de 2001.
