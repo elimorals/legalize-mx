@@ -4,7 +4,7 @@ identifier: "HID-ley-de-la-auditoria-superior-del-estado-de-hidalgo-70418"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-28"
-last_updated: "2009-09-28"
+last_updated: "2013-04-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70418&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "HID"
 ---
 # LEY DE LA AUDITORIA SUPERIOR DEL ESTADO DE HIDALGO
 
-LEY DE LA AUDITORIA SUPERIOR DEL ESTADO DE HIDALGO
+LEY DE LA AUDITORÍA SUPERIOR DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2013.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 28 de septiembre de 2009.
 
@@ -635,7 +635,9 @@ La Auditoría Superior llevará el registro y dará seguimiento a la situación 
 
 I.- Diputados, Auditor Superior, Directores Generales, Directores de Área, Subdirectores, Encargados de Departamento y cargos equivalentes, así como demás servidores públicos del Congreso que realicen funciones de revisión y fiscalización; y
 
-II.- Presidentes Municipales.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2013)</small>
+
+II.- Presidentes Municipales, Síndicos y Regidores.
 
 ###### Artículo 59.
 
@@ -651,11 +653,19 @@ III.- Dentro de los 30 días hábiles siguientes a la conclusión del cargo.
 
 En caso de que los servidores públicos de elección popular no presenten la declaración inicial, anual o final en los plazos señalados, se les impondrá una multa por el equivalente a 200 veces el salario mínimo vigente en la capital del Estado, si persiste en su omisión, se dará aviso a la Comisión, a fin de que, con la autorización del Pleno del Congreso, se proceda a iniciar una investigación sobre la situación patrimonial del servidor público omiso.
 
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2013)</small>
+
 ###### Artículo 61.
 
-Tratándose de los demás servidores públicos, una vez transcurridos los plazos a que se refieren las fracciones I y II del Artículo 59 del presente ordenamiento, automáticamente quedará sin efectos su nombramiento.
+Tratándose de los demás servidores públicos, una vez transcurridos los plazos para la presentación de la declaración inicial o de modificación patrimonial a que se refiere esta Ley, se procederá de la siguiente manera:
 
-En el caso de la fracción III del Artículo referido en el párrafo anterior, se impondrá al servidor público omiso una multa por el equivalente a 200 días de salario mínimo general vigente en la Entidad.
+I.- Se suspenderá al infractor de su empleo, cargo o comisión, por un periodo de 15 días naturales;
+
+II.- En caso de persistir en su omisión, en un periodo de 30 días naturales siguientes a la fecha en que hubiera sido suspendido el servidor público, automáticamente quedará sin efectos el nombramiento respectivo.
+
+Respecto de la declaración final o de conclusión del cargo, se impondrá al servidor público omiso una multa por el equivalente a 200 días de salario mínimo general vigente en la Entidad y de persistir en su incumplimiento, se inhabilitará al infractor por un año.
+
+En la imposición de las sanciones a que se refiere este artículo deberá sustanciarse el procedimiento administrativo previsto en el artículo 64 de la ley de Responsabilidades de los Servidores Públicos para el Estado de Hidalgo.
 
 ###### Artículo 62.
 
@@ -1106,3 +1116,11 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MIGUEL ÁNGEL OSORIO CHONG
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 29 DE ABRIL DE 2013.
+
+PRIMERO.- El presente Decreto, entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Por lo que hace a la presentación de la declaración de situación patrimonial de los síndicos y regidores, se estará a lo dispuesto en la Ley de la Auditoría Superior del Estado.
