@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-poder-legislativo-del-estado-libre-y-70231"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-09-21"
-last_updated: "2012-12-31"
+last_updated: "2013-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70231&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 21 de septiembre de 2009.
 
@@ -75,7 +75,7 @@ Durante su Ejercicio Constitucional, el Congreso del Estado tendrá dos Período
 
 El Congreso del Estado, tendrá dos períodos de receso al año, en los que funcionará la Diputación Permanente.
 
-El Congreso, podrá celebrar Sesiones Extraordinarias durante los períodos de receso, mismas que serán convocados por la Diputación Permanente o a solicitud del Titular del Poder Ejecutivo del Estado, en dichos periodos sólo se tratarán los asuntos que se precisen en la Convocatoria, pudiendo prolongarse por el tiempo necesario hasta lograr su objetivo. Para el caso en que termine el periodo de receso, sin haberse resuelto el asunto motivo de la Convocatoria, éste se incluirá en la agenda de los asuntos a tratar del Periodo Ordinario de Sesiones siguiente.
+El Congreso, podrá celebrar Sesiones Extraordinarias durante los períodos de receso, mismas que serán convocados por la Diputación Permanente o a solicitud del Titular del Poder Ejecutivo del Estado, en dichos periodos sólo se tratarán los asuntos que se precisen en la Convocatoria, pudiendo prolongarse por el tiempo necesario hasta lograr su objetivo. Para el caso en que termine el período de receso, sin haberse resuelto el asunto motivo de la Convocatoria, éste se incluirá en la agenda de los asuntos a tratar del Periodo Ordinario de Sesiones siguiente.
 
 ## TÍTULO SEGUNDO. DE LA INSTALACIÓN DE LA LEGISLATURA Y DEL RECINTO OFICIAL DEL CONGRESO
 
@@ -1887,7 +1887,9 @@ II.- La anual de modificación patrimonial, en el mes de mayo de cada año; y
 
 III.- La final, dentro de los treinta días hábiles siguientes a la conclusión de sus funciones o separación del cargo.
 
-Si transcurrido el plazo a que hace referencia la fracción I, no se hubiese presentado la declaración correspondiente, sin causa justificada, excepto en el case (sic) de los Diputados y los Presidentes Municipales, quedará sin efectos el nombramiento respectivo previa declaración del Congreso del Estado. Lo mismo ocurrirá cuando se omita, la declaración establecida en la fracción II.
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2013)</small>
+
+Transcurridos los plazos a que hace referencia este artículo, se estará a lo dispuesto en la Ley de la Auditoría Superior del Estado.
 
 ###### ARTÍCULO 206.
 
@@ -2016,3 +2018,9 @@ El presente Decreto entrará en vigor el día siguiente al de su Publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que contravengan lo dispuesto en las presentes Reformas y Adiciones.
+
+P.O. 29 DE ABRIL DE 2013.
+
+PRIMERO.- El presente Decreto, entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Por lo que hace a la presentación de la declaración de situación patrimonial de los síndicos y regidores, se estará a lo dispuesto en la Ley de la Auditoría Superior del Estado.
