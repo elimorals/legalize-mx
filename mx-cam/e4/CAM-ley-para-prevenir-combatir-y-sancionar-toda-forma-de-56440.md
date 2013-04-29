@@ -4,7 +4,7 @@ identifier: "CAM-ley-para-prevenir-combatir-y-sancionar-toda-forma-de-56440"
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-04"
-last_updated: "2007-07-04"
+last_updated: "2013-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CAM"
 ---
 # LEY PARA PREVENIR, COMBATIR Y SANCIONAR TODA FORMA DE DISCRIMINACION EN EL ESTADO DE CAMPECHE
 
-LEY PARA PREVENIR, COMBATIR Y SANCIONAR TODA FORMA DE DISCRIMINACION EN EL ESTADO DE CAMPECHE
+LEY PARA PREVENIR, COMBATIR Y SANCIONAR TODA FORMA DE DISCRIMINACIÓN EN EL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2013.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el miércoles 4 de julio de 2007.
 
@@ -307,11 +307,15 @@ Los entes públicos, estatales y municipales, en el ámbito de su competencia, l
 
 I. Incentivar la educación mixta, fomentando la inscripción y permanencia en el sistema educativo de las niñas y las mujeres en todos los niveles escolares;
 
-II. Incentivar las oportunidades de acceso, permanencia y ascenso en el empleo, entre otras, por razón de edad o estado civil;
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2013)</small>
+
+II. Incentivar las oportunidades de acceso, permanencia y ascenso en el empleo entre otras, por razón de edad o estado civil, promoviendo la equidad de género.
 
 III. Establecer en igualdad de condiciones la remuneración, las prestaciones y las condiciones laborales para el trabajo de igual valor;
 
-IV. Fomentar el acceso o la permanencia en el empleo por embarazo o solicitar en cualquier momento la realización de pruebas de gravidez;
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2013)</small>
+
+IV. Fomentar el acceso o la permanencia y sensibilización en el empleo por condición de embarazo, así como procurar la adecuada atención en materia de salud que confiere la Ley Federal del Trabajo y cualquier otra normatividad relacionada con la materia.
 
 V. Ofrecer información completa y actualizada, así como asesoramiento personalizado, sobre salud reproductiva, derechos sexuales y métodos anticonceptivos; y
 
@@ -365,7 +369,9 @@ II. Promover programas para la construcción de estancias, albergues y espacios 
 
 III. Procurar su incorporación, permanencia y participación en las actividades educativas regulares en todos los niveles;
 
-IV. Procurar el otorgamiento, en todos los niveles educativos, del apoyo técnico que se requiera para cada discapacidad;
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2013)</small>
+
+IV. Procurar el otorgamiento, en todos los niveles educativos del apoyo técnico, así como la infraestructura necesaria para facilitar el acceso, que se requiera para cada discapacidad.
 
 V. Establecer mecanismos que promuevan su incorporación en la administración pública y como candidatos a cargos de elección popular;
 
@@ -510,3 +516,11 @@ C. Oscar Román Rosas González, Diputado Presidente.- C. Jorge Isaac Brown Fili
 En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII de la Constitución Política del Estado, lo sanciono, mando se imprima, publique y circule para su debida observancia.
 
 Dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Campeche, a los veintidós días del mes de junio del año dos mil siete.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, C. P. JORGE CARLOS HURTADO VALDEZ.- EL SECRETARIO DE GOBIERNO, M. en D. RICARDO MEDINA FARFÁN.- RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 29 DE ABRIL DE 2013.
+
+PRIMERO.- El presente decreto entrará en vigor a los tres días siguientes de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas (sic) disposiciones legales y reglamentarias que se opongan al presente decreto.
