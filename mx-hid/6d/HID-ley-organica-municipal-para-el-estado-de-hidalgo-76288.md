@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-para-el-estado-de-hidalgo-76288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-08-09"
-last_updated: "2013-04-01"
+last_updated: "2013-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2013.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 9 de agosto de 2010.
 
@@ -123,7 +123,7 @@ Para dirimir las controversias que se generen entre la Administración Pública 
 
 ###### ARTÍCULO 10.
 
-El territorio del Estado, se integra con los 84 Municipios siguientes: 1.- Acatlán, 2.- Acaxochitlán, 3.- Actopan, 4.- Agua Blanca de Iturbide, 5.- Ajacuba, 6.- Alfajayucan; 7.- Almoloya, 8.- Apan, 9.- Atitalaquia, 10.- Atlapexco, 11.- Atotonilco El Grande, 12.- Atotonilco de Tula, 13.- Calnali, 14.- Cardonal, 15; Cuautepec de Hinojosa, 16.- Chapantongo, 17.- Chapulhuacán, 18.- Chilcuautla, 19.- El Arenal, 20.- Eloxochitlán, 21.- Emiliano Zapata, 22.- Epazoyucan, 23.- Francisco I. Madero, 24.- Huasca de Ocampo, 25.- Huautla, 26.- Huazalingo, 27.- Huehuetla, 28.- Huejutla de Reyes, 29.- Huichapan, 30.- Ixmiquilpan, 31.- Jacala de Ledezma, 32.- Jaltocán, 33.- Juárez Hidalgo, 34.- La Misión, 35.- Lolotla, 36.- Metepec, 37.- Metztitlán, 38.- Mineral del Chico, 39.- Mineral del Monte, 40.- Mineral de la Reforma, 41.- Mixquiahuala de Juárez, 42.- Molango de Escamilla, 43.- Nicolás Flores, 44.- Nopala de Villagrán, 45.- Omitlán de Juárez, 46.- Pacula, 47.- Pachuca de Soto, 48.- Pisaflores, 49.- Progreso de Obregón, 50.- San Agustín Metzquititlán 51.- San Agustín Tlaxiaca, 52.- San Bartolo Tutotepec, 53.- San Felipe Orizatlán, 54.- San Salvador, 55.- Santiago de Anaya, 56.- Santiago Tulantepec de Lugo Guerrero, 57.- Singuilucan, 58.- Tasquillo, 59.- Tecozautla, 60.- Tenango de Doria, 61.- Tepeapulco, 62.- Tepehuacán de Guerrero, 63.- Tepeji del Río de Ocampo, 64.- Tepetitlán, 65.- Tetepango, 66.- Tezontepec de Aldama, 67.- Tianguistengo, 68.- Tizayuca, 69.- Tlahuelilpan, 70.- Tlahuiltepa, 71.- Tlanalapa, 72.- Tlanchinol, 73.- Tlaxcoapan, 74.- Tolcayuca, 75.- Tula de Allende, 76.- Tulancingo de Bravo, 77.- Villa de Tezontepec, 78.- Xochiatipan, 79.- Xochicoatlán, 80.- Yahualica, 81.- Zacualtipán de Ángeles, 82.- Zapotlán de Juárez, 83.- Zempoala, 84.- Zimapán.
+El territorio del Estado, se integra con los 84 Municipios siguientes: 1.- Acatlán, 2.- Acaxochitlán, 3.- Actopan, 4.- Agua Blanca de Iturbide, 5.- Ajacuba, 6.- Alfajayucan; 7.- Almoloya, 8.- Apan, 9.- Atitalaquia, 10.- Atlapexco, 11.- Atotonilco El Grande, 12.- Atotonilco de Tula, 13.- Calnali, 14.- Cardonal, 15; Cuautepec de Hinojosa, 16.- Chapantongo, 17.- Chapulhuacán, 18.- Chilcuautla, 19.- El Arenal, 20.- Eloxochitlán, 21.- Emiliano Zapata, 22.- Epazoyucan, 23.- Francisco I. Madero, 24.- Huasca de Ocampo, 25.- Huautla, 26.- Huazalingo, 27.- Huehuetla, 28.- Huejutla de Reyes, 29.- Huichapan, 30.- lxmiquilpan, 31.- Jacala de Ledezma, 32.- Jaltocán, 33.- Juárez Hidalgo, 34.- La Misión, 35.- Lolotla, 36.- Metepec, 37.- Metztitlán, 38.- Mineral del Chico, 39.- Mineral del Monte, 40.- Mineral de la Reforma, 41.- Mixquiahuala de Juárez, 42.- Molango de Escamilla, 43.- Nicolás Flores, 44.- Nopala de Villagrán, 45.- Omitlán de Juárez, 46.- Pacula, 47.- Pachuca de Soto, 48.- Pisaflores, 49.- Progreso de Obregón, 50.- San Agustín Metzquititlán 51.- San Agustín Tlaxiaca, 52.- San Bartolo Tutotepec, 53.- San Felipe Orizatlán, 54.- San Salvador, 55.- Santiago de Anaya, 56.- Santiago Tulantepec de Lugo Guerrero, 57.- Singuilucan, 58.- Tasquillo, 59.- Tecozautla, 60.- Tenango de Doria, 61.- Tepeapulco, 62.- Tepehuacán de Guerrero, 63.- Tepeji del Río de Ocampo, 64.- Tepetitlán, 65.- Tetepango, 66.- Tezontepec de Aldama, 67.- Tianguistengo, 68.- Tizayuca, 69.- Tlahuelilpan, 70.- Tlahuiltepa, 71.- Tlanalapa, 72.- Tlanchinol, 73.- Tlaxcoapan, 74.- Tolcayuca, 75.- Tula de Allende, 76.- Tulancingo de Bravo, 77.- Villa de Tezontepec, 78.- Xochiatipan, 79.- Xochicoatlán, 80.- Yahualica, 81.- Zacualtipán de Ángeles, 82.- Zapotlán de Juárez, 83.- Zempoala, 84.- Zimapán.
 
 La sede del Ayuntamiento residirá en la Cabecera Municipal, podrá ser reubicada temporalmente cuando las circunstancias así lo justifiquen, con la aprobación de la mayoría de sus integrantes y en caso de que sea definitiva, se requerirá la autorización del Congreso del Estado.
 
@@ -951,9 +951,15 @@ XII.- Asistir a los remates públicos que se verifiquen, en los que tenga inter�
 
 XIII.- Tramitar las expropiaciones que por causa de utilidad pública fueren necesarias, por los medios que estimen convenientes y previa autorización del Ayuntamiento;
 
-XIV.- Dar cuenta al Presidente y al Ayuntamiento del arreglo definitivo que se hubiese logrado en los asuntos y del estado que guarden los mismos, a fin de dictar las providencias necesarias; y
+XIV.- Dar cuenta al Presidente y al Ayuntamiento del arreglo definitivo que se hubiese logrado en los asuntos y del estado que guarden los mismos, a fin de dictar las providencias necesarias; y (sic)
 
-XV.- Las demás que le concedan o le impongan la Ley, los Reglamentos y acuerdos del Ayuntamiento.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2013)</small>
+
+XV.- Presentar ante la Auditoría Superior del Estado, su declaración patrimonial inicial, dentro de los sesenta días hábiles siguientes a la toma de posesión; de modificación anual, durante el mes de mayo de cada año; y de conclusión de encargo, dentro de los treinta días hábiles siguientes a ésta; y
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2013)</small>
+
+XVI.- Las demás que le concedan o le impongan la Ley, los reglamentos y acuerdos del Ayuntamiento.
 
 Los Síndicos concurrirán a las sesiones del Ayuntamiento, con voz y voto; percibirán su dieta de asistencia que señale el presupuesto de egresos del Municipio y no podrán, en ningún caso, desempeñar cargos, empleos o comisiones remuneradas en la Administración Pública Municipal.
 
@@ -1007,9 +1013,15 @@ IX.- Cumplir con las funciones inherentes a sus comisiones e informar al Ayuntam
 
 X.- Realizar sesiones de audiencia pública, para recibir peticiones y propuestas de la comunidad;
 
-XI.- Formular; con la participación de las instancias competentes del Ayuntamiento y de los sectores social y privado, el conocimiento y estudio de los asuntos en materia de Derechos Humanos, para lo cual se deberán atender las necesidades y características particulares de su Municipio, impulsar y fortalecer en todas las actividades que desarrolle el propio Ayuntamiento la protección y promoción de los derechos humanos; y
+XI.- Formular; con la participación de las instancias competentes del Ayuntamiento y de los sectores social y privado, el conocimiento y estudio de los asuntos en materia de Derechos Humanos, para lo cual se deberán atender las necesidades y características particulares de su Municipio, impulsar y fortalecer en todas las actividades que desarrolle el propio Ayuntamiento la protección y promoción de los derechos humanos; y (sic)
 
-XII.- Las demás que les otorguen las Leyes y Reglamentos.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2013)</small>
+
+XII.- Presentar ante la Auditoría Superior del Estado, su declaración patrimonial inicial, dentro de los sesenta días hábiles siguientes a la toma de posesión; de modificación anual, durante el mes de mayo de cada año; y de conclusión de encargo, dentro de los treinta días hábiles siguientes a ésta; y
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2013)</small>
+
+XIII.- Las demás que les otorguen las leyes y reglamentos.
 
 Los Regidores, concurrirán a las sesiones del Ayuntamiento, con voz y voto; percibirán su dieta de asistencia que señale el presupuesto de egresos del Municipio y no podrán, en ningún caso, desempeñar cargos, empleos o comisiones remuneradas en la Administración Pública Municipal.
 
@@ -2570,3 +2582,9 @@ El presente Decreto entrará en vigor al día siguiente de su Publicación en el
 P.O. 1 DE ABRIL DE 2013.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 29 DE ABRIL DE 2013.
+
+PRIMERO.- El presente Decreto, entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Por lo que hace a la presentación de la declaración de situación patrimonial de los síndicos y regidores, se estará a lo dispuesto en la Ley de la Auditoría Superior del Estado.
