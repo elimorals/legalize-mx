@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-turismo-del-estado-de-quintana-roo-75669"
 country: "mx"
 rank: "ley"
 publication_date: "2010-06-28"
-last_updated: "2013-02-21"
+last_updated: "2013-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75669&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE TURISMO DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2013.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 28 de junio de 2010.
 
@@ -169,27 +169,31 @@ XIV. Participar en programas de prevención y atención de emergencias y desastr
 
 XV. Brindar orientación y asistencia al turista y canalizar las quejas de éstos ante la autoridad competente;
 
-XVI. Atender los asuntos que afecten el desarrollo de la actividad turística de dos o más Municipios;
+> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2013)</small>
 
-XVII. Coadyuvar con el Ejecutivo Federal en materia de clasificación de establecimientos hoteleros y de hospedaje, en los términos de la regulación correspondiente;
+XVI. Recepcionar y remitir a la Comisión de Derechos Humanos del Estado de Quintana Roo, las denuncias que presenten los turistas, por actos u omisiones de autoridades y servidores públicos de carácter federal, estatal o municipal y asistirlos en la formulación de éstas, ante la propia Secretaría;
 
-XVIII. Vigilar el cumplimiento de la Ley General, de esta Ley y demás disposiciones reglamentarias que de ellas deriven, en lo que se refiere a los requisitos de operación de los prestadores de servicios turísticos;
+XVII. Atender los asuntos que afecten el desarrollo de la actividad turística de dos o más Municipios;
 
-XIX. Coordinar con las autoridades federales, por medio de los convenios que se suscriban, la imposición de sanciones por violaciones a la Ley General y a las disposiciones reglamentarias;
+XVIII. Coadyuvar con el Ejecutivo Federal en materia de clasificación de establecimientos hoteleros y de hospedaje, en los términos de la regulación correspondiente;
 
-XX. Emitir opiniones a la Secretaría Federal;
+XIX. Vigilar el cumplimiento de la Ley General, de esta Ley y demás disposiciones reglamentarias que de ellas deriven, en lo que se refiere a los requisitos de operación de los prestadores de servicios turísticos;
 
-XXI. Coordinarse con la Secretaría Federal, para la elaboración del Atlas Turístico de México;
+XX. Coordinar con las autoridades federales, por medio de los convenios que se suscriban, la imposición de sanciones por violaciones a la Ley General y a las disposiciones reglamentarias;
 
-XXII. Celebrar acuerdos de coordinación con el Ejecutivo Federal, en términos de la Ley General;
+XXI. Emitir opiniones a la Secretaría Federal;
 
-XXIII. Ejecutar las órdenes de verificación a que haya lugar, en términos de los acuerdos de Coordinación que se suscriban con la Secretaría Federal;
+XXII. Coordinarse con la Secretaría Federal, para la elaboración del Atlas Turístico de México;
 
-XXIV. Participar, en términos de la Ley General y demás disposiciones aplicables, en la formulación del Programa de Ordenamiento Turístico General del Territorio, en el ámbito de sus competencias;
+XXIII. Celebrar acuerdos de coordinación con el Ejecutivo Federal, en términos de la Ley General;
 
-XXV. Dar aviso y en su caso, denunciar ante la Comisión Federal de Competencia, cuando en el Estado se presuma que se estén ejerciendo prácticas monopólicas por parte de los prestadores de servicios turísticos; y
+XXIV. Ejecutar las órdenes de verificación a que haya lugar, en términos de los acuerdos de Coordinación que se suscriban con la Secretaría Federal;
 
-XXVI. Las demás previstas en éste y otros ordenamientos.
+XXV. Participar, en términos de la Ley General y demás disposiciones aplicables, en la formulación del Programa de Ordenamiento Turístico General del Territorio, en el ámbito de sus competencias;
+
+XXVI. Dar aviso y en su caso, denunciar ante la Comisión Federal de Competencia, cuando en el Estado se presuma que se estén ejerciendo prácticas monopólicas por parte de los prestadores de servicios turísticos; y
+
+XXVII. Las demás previstas en éste y otros ordenamientos.
 
 ### CAPÍTULO II. DE LAS ATRIBUCIONES DE LOS MUNICIPIOS
 
@@ -813,6 +817,12 @@ III.- Denunciar ante las autoridades competentes, en base a las anomalías detec
 
 IV.- Orientar a los turistas cuando éstos, hayan adquirido un seguro de asistencia turística, relacionado en riesgos de enfermedad, accidentes individuales, defensa jurídica y la repatriación de personas y bienes.
 
+> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2013)</small>
+
+###### Artículo 73.
+
+Bis.- La Secretaría, remitirá a la Comisión de Derechos Humanos del Estado de Quintana Roo, las denuncias relacionadas con presuntas violaciones que sufran los turistas a sus Derechos Humanos, cuando exista probable responsabilidad en lo que respecta a las autoridades y servidores de la administración pública federal, estatal o municipal.
+
 ###### Artículo 74.
 
 Es facultad de la Secretaría realizar visitas de verificación a los Prestadores de Servicios Turísticos, a efecto de constatar el debido cumplimiento de los deberes a su cargo establecidos en esta Ley y su reglamento, buscando la excelencia en la prestación de los servicios turísticos.
@@ -962,3 +972,9 @@ CUARTO.- Se derogan todas aquellas disposiciones que contravengan el presente De
 P.O. 21 DE FEBRERO DE 2013.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 30 DE ABRIL DE 2013.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en este Decreto.
