@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2013-04-20"
+last_updated: "2013-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE ABRIL DE 2013.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -128,6 +128,12 @@ Los ascendientes, tutores y custodios tienen la obligación de preservar y exigi
 10.- La educación será motivo de especial atención del Estado, asumiendo el ejercicio de todas las atribuciones que le confieren el Artículo 3o. de la Constitución General de la República y sus disposiciones reglamentarias. Su orientación será conforme al marco del respeto a los derechos humanos y a los principios señalados en dicho precepto, y en el desenvolvimiento integral y racional de los recursos socioeconómicos del Estado.
 
 Todos los habitantes del Estado tienen derecho a recibir educación. El Estado y Municipios impartirán educación preescolar, primaria, secundaria y media superior. La educación preescolar, primaria y secundaria conforman la educación básica; ésta y la media superior serán obligatorias. La educación que impartan el Estado y Municipios será gratuita y tenderá a desarrollar armónicamente, todas las facultades del ser humano y fomentará en él, a la vez, el amor a la Patria, el respeto a los derechos humanos y la conciencia de la solidaridad internacional, en la Independencia y en la justicia.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 30 DE ABRIL DE 2013)</small>
+
+Es derecho de los habitantes del Estado, acceder a la información y el conocimiento para lograr una comunidad totalmente intercomunicada. El Estado y Municipios, en apoyo de las labores escolares proporcionarán espacios públicos con acceso a internet gratuito en Bibliotecas Públicas y Escolares, para lo cual se coordinarán con sus dependencias, instituciones tecnológicas y educativas de todo el Estado.
 
 > <small>(REFORMADO, B.O. 10 DE ABRIL DE 2013)</small>
 
@@ -3140,3 +3146,7 @@ SEXTO.- Se deroga toda disposición que se oponga al contenido de la reforma del
 B.O. 20 DE ABRIL DE 2013.
 
 UNICO.- El presente decreto entrara en vigor al siguiente día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 30 DE ABRIL DE 2013.
+
+UNICO.- El presente decreto entrara en vigor a los 180 días de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
