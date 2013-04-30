@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-accion-de-cambio-climatico-en-el-estado-de-quintana-8864
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-29"
-last_updated: "2012-03-29"
+last_updated: "2013-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88640&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE ACCIÓN DE CAMBIO CLIMÁTICO EN EL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2013.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 29 de marzo de 2012.
 
@@ -57,47 +57,91 @@ II. Atlas de Riesgo: Documento dinámico con evaluaciones de riesgo en territori
 
 III. Autoridades Estatales y Municipales: la Administración Pública Central y Paraestatal del Estado y los Municipios.
 
-IV. Cambio climático: Variación del clima atribuido directa o indirectamente a la actividad humana que altera la composición de la atmósfera mundial y que se suma a la variabilidad natural del clima observada durante periodos de tiempo comparables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE ABRIL DE 2013)</small>
 
-V. Clima: estado medio de los elementos meteorológicos de una localidad, considerado en un espacio largo de tiempo.
+IV. Azotea Verde: El techo de un inmueble que esta parcial o totalmente cubierto de vegetación, ya sea en suelo o en un medio de cultivo apropiado, los cuales pueden consistir en un sistema integral compuesto por varias capas de materiales diseñados para proteger el inmueble contra daños ocasionados por la exposición del medio ambiente, y promover el crecimiento de vegetación en dichas áreas, o aquellas que principalmente son acondicionadas como áreas verdes o con motivos ornamentales y que cuenta con una baja diversidad de plantas, con poco requerimiento de mantenimiento y acondicionamiento arquitectónico y estructural;
 
-VI. Comisión: Comisión Estatal de Cambio Climático de Quintana Roo.
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2013)</small>
 
-VII. Compra verde: integración del componente medioambiental en la toma de decisiones de compra de bienes y contratación de servicios.
+V. Cambio Climático: Variación del clima atribuido directa o indirectamente a la actividad humana que altera la composición de la atmósfera mundial y que se suma a la variabilidad natural del clima observada durante periodos de tiempo comparables;
 
-VIII. Efectos adversos del cambio climático: Variaciones bruscas en el medio ambiente resultantes del cambio climático, que tienen efectos nocivos significativos en la composición, capacidad de recuperación, productividad de los ecosistemas, en la salud y bienestar humano y en el funcionamiento de los sistemas socioeconómicos.
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2013)</small>
 
-IX. Eficiencia energética: Acciones que conlleven a una reducción económicamente viable de la cantidad de energía necesaria para satisfacer las necesidades energéticas de los servicios y bienes que requiere la sociedad, asegurando un nivel de calidad igual o superior y una disminución de los impactos ambientales negativos derivados de la generación, distribución y consumo de energía.
+VI. Clima: Estado medio de los elementos meteorológicos de una localidad, considerado en un espacio largo de tiempo;
 
-X. Emisiones: La liberación de gases de efecto invernadero en la atmósfera.
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2013)</small>
 
-XI. Estado: Estado de Quintana Roo.
+VII. Comisión: Comisión Estatal de Cambio Climático de Quintana Roo;
 
-XII. Fuentes Emisoras: Todo proceso, actividad, servicio o mecanismo que libere un gas o compuesto de efecto invernadero en la atmósfera, sean de organización, establecimiento o instalación, pública o privada, así como de fuentes móviles, fijas o semifijas.
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2013)</small>
 
-XIII. Gases de Efecto Invernadero: Componentes gaseosos de la atmósfera, tanto naturales como antropógenos, que absorben y remiten radiación infrarroja, que absorben y remiten radiación infrarroja (sic) y que están incluidos en el Anexo A del Protocolo de Kioto: Dióxido de carbono (CO2), Metano (CH4), Óxido nitroso (N2O), Hidrofluorocarbonos (HFC), Perfluorocarbonos (PFC) y Hexafluoruro de azufre (SF6).
+VIII. Compra verde: Integración del componente medioambiental en la toma de decisiones de compra de bienes y contratación de servicios;
 
-XIV. Ley: Ley de Acción de Cambio Climático en el Estado de Quintana Roo;
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2013)</small>
 
-XV. Mitigación: Medida ambiental destinadas a reducir, absorber o capturar las emisiones de gases o compuestos de efecto invernadero y mejorar los sumideros de gases de efecto invernadero.
+IX. Efectos Adversos del Cambio Climático: Variaciones bruscas en el medio ambiente resultantes del cambio climático, que tienen efectos nocivos significativos en la composición, capacidad de recuperación, productividad de los ecosistemas, en la salud y bienestar humano y en el funcionamiento de los sistemas socioeconómicos;
 
-XVI. Normas Técnicas Ambientales: Disposiciones de carácter obligatorio en el Estado, tienen por objeto establecer los requisitos, especificaciones, condiciones, procedimientos, parámetros y límites permisibles que deberán observarse en el desarrollo de actividades que causen o puedan causar desequilibrio ecológico o daño al ambiente; para prevenir, reducir, mitigar, y en su caso, compensar los efectos adversos o alteraciones que se ocasionen o puedan ocasionar al ambiente y sus recursos, así como considerar las condiciones necesarias para reorientar los procesos y tecnologías de protección al ambiente y al desarrollo sustentable.
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2013)</small>
 
-XVII. Ordenamiento Ecológico Territorial: Instrumento normativo que regula el uso territorial, definiendo los usos posibles para las diversas áreas en que se ha dividido el territorio regional y local, de conformidad con lo previsto en la Ley de Equilibrio Ecológico y la Protección del Ambiente del Estado de Quintana Roo.
+X. Eficiencia Energética: Acciones que conlleven a una reducción económicamente viable de la cantidad de energía necesaria para satisfacer las necesidades energéticas de los servicios y bienes que requiere la sociedad, asegurando un nivel de calidad igual o superior y una disminución de los impactos ambientales negativos derivados de la generación, distribución y consumo de energía;
 
-XVIII. Programa Estatal: Programa Estatal de Acción ante el Cambio Climático; que contempla, en concordancia con el marco legal de planeación, en forma ordenada y coherente, estrategias, políticas directrices y tácticas en tiempo y espacio, así como los instrumentos, mecanismos y acciones a realizar para la mitigación de emisiones y procesos de adaptación ante el Cambio Climático.
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2013)</small>
 
-XIX. Protocolo de Kioto: Tratado Internacional ligado a la Convención Marco de las Naciones Unidas sobre el Cambio Climático que establece mecanismos y medidas para limitar o reducir las emisiones de gases efecto invernadero.
+XI. Emisiones: La liberación de gases de efecto invernadero en la atmósfera;
 
-XX. Reglamento: Reglamento de la Ley de Acción de Cambio Climático en el Estado de Quintana Roo.
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2013)</small>
 
-XXI. Secretaría: Secretaría de Ecología y Medio Ambiente.
+XII. Estado: Estado de Quintana Roo;
 
-XII (SIC). Servicios Ambientales: Condiciones y procesos a través de los cuales los ecosistemas naturales y las especies que los forman mantienen y satisfacen la vida del ser humano.
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2013)</small>
 
-XXIII. Sumidero de Carbono: Cualquier proceso, actividad o mecanismo que absorbe un gas de efecto invernadero de la atmósfera.
+XIII. Fuentes Emisoras: Todo proceso, actividad, servicio o mecanismo que libere un gas o compuesto de efecto invernadero en la atmósfera, sean de organización, establecimiento o instalación, pública o privada, así como de fuentes móviles, fijas o semifijas;
 
-XXIV. Vulnerabilidad: Nivel al que un sistema es susceptible, o no es capaz de soportar, los efectos adversos del cambio climático, incluida la variabilidad climática y los fenómenos extremos. La vulnerabilidad está en función del carácter, magnitud y velocidad de la variación climática al que se encuentra expuesto un sistema, su sensibilidad, y su capacidad de adaptación.
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2013)</small>
+
+XIV. Gases de Efecto Invernadero: Componentes gaseosos de la atmósfera, tanto naturales como antropógenos, que absorben y remiten radiación infrarroja y que están incluidos en el Anexo A del Protocolo de Kioto: Dióxido de carbono (CO2), Metano (CH4), Óxido nitroso (N2O), Hidrofluorocarbonos (HFC), Perfluorocarbonos (PFC) y Hexafluoruro de azufre (SF6);
+
+XV. Ley: Ley de Acción de Cambio Climático en el Estado de Quintana Roo;
+
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2013)</small>
+
+XVI. Mitigación: Medida ambiental destinada a reducir, absorber o capturar las emisiones de gases o compuestos de efecto invernadero y mejorar los sumideros de gases de efecto invernadero;
+
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2013)</small>
+
+XVII. Normas Técnicas Ambientales: Disposiciones de carácter obligatorio en el Estado, que tienen por objeto establecer los requisitos, especificaciones, condiciones, procedimientos, parámetros y límites permisibles que deberán observarse en el desarrollo de actividades que causen o puedan causar desequilibrio ecológico o daño al ambiente; para prevenir, reducir, mitigar, y en su caso, compensar los efectos adversos o alteraciones que se ocasionen o puedan ocasionar al ambiente y sus recursos, así como considerar las condiciones necesarias para reorientar los procesos y tecnologías de protección al ambiente y al desarrollo sustentable;
+
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2013)</small>
+
+XVIII. Ordenamiento Ecológico Territorial: Instrumento normativo que regula el uso territorial, definiendo los usos posibles para las diversas áreas en que se ha dividido el territorio regional y local, de conformidad con lo previsto en la Ley de Equilibrio Ecológico y la Protección del Ambiente del Estado de Quintana Roo;
+
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2013)</small>
+
+XIX. Programa Estatal: Programa Estatal de Acción ante el Cambio Climático; que contempla, en concordancia con el marco legal de planeación, en forma ordenada y coherente, estrategias, políticas directrices y tácticas en tiempo y espacio, así como los instrumentos, mecanismos y acciones a realizar para la mitigación de emisiones y procesos de adaptación ante el Cambio Climático;
+
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2013)</small>
+
+XX. Protocolo de Kioto: Tratado Internacional ligado a la Convención Marco de las Naciones Unidas sobre el Cambio Climático que establece mecanismos y medidas para limitar o reducir las emisiones de gases efecto invernadero;
+
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2013)</small>
+
+XXI. Reglamento: Reglamento de la Ley de Acción de Cambio Climático en el Estado de Quintana Roo;
+
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2013)</small>
+
+XXII. Secretaría: Secretaría de Ecología y Medio Ambiente;
+
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2013)</small>
+
+XIII. Servicios Ambientales: Condiciones y procesos a través de los cuales los ecosistemas naturales y las especies que los forman mantienen y satisfacen la vida del ser humano;
+
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2013)</small>
+
+XXIV. Sumidero de Carbono: Cualquier proceso, actividad o mecanismo que absorbe un gas de efecto invernadero de la atmósfera; y
+
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2013)</small>
+
+XXV. Vulnerabilidad: Nivel al que un sistema es susceptible, o no es capaz de soportar, los efectos adversos del cambio climático, incluida la variabilidad climática y los fenómenos extremos. La vulnerabilidad está en función del carácter, magnitud y velocidad de la variación climática al que se encuentra expuesto un sistema, su sensibilidad, y su capacidad de adaptación.
 
 ###### Artículo 3.
 
@@ -359,7 +403,9 @@ Los informes mencionados en los apartados anteriores serán remitidos al Poder L
 
 La Secretaria integrará los planes sectoriales y estratégicos que elaboren las entidades de la administración pública, competentes en materia de industria, energía, transportes, desarrollo urbano, desarrollo rural, vivienda y medio ambiente, en el Programa Estatal. En ambos casos se remitirá copia para su conocimiento a cada uno de los Municipios.
 
-### CAPÍTULO VII. Fomento de Instrumentos para Reducción de Emisiones
+### CAPÍTULO VI BIS. De las azoteas verdes
+
+> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2013)</small>
 
 ###### Artículo 19.
 
@@ -469,9 +515,39 @@ Asimismo, fomentarán el impulso y el aprovechamiento sustentable de las fuentes
 
 De igual manera, promoverán la implementación de un sistema tarifario por el uso de agua, que incorpore el pago por los servicios ambientales hidrológicos de los ecosistemas, a fin de destinar su producto a la conservación de los mismos.
 
-### CAPÍTULO VIII. Del Fondo Estatal
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE ABRIL DE 2013)</small>
 
-### CAPÍTULO IX. Desarrollo del Conocimiento e Innovación sobre Cambio Climático
+### CAPÍTULO VII. Fomento de Instrumentos para Reducción de Emisiones
+
+###### Artículo 27
+
+Bis.- Los inmuebles públicos o privados establecidos en el Estado y que sean aptos, de acuerdo al estudio de factibilidad que realice la autoridad competente, podrán implementar en sus respectivos techos, las azoteas verdes.
+
+> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2013)</small>
+
+###### Artículo 27
+
+Ter.- Para el establecimiento de las azoteas verdes, la Secretaría de Ecología y Medio Ambiente realizará los estudios de factibilidad de los inmuebles, para lo cual deberán contemplar:
+
+I.- El Porcentaje de la superficie de la azotea que será cubierto con vegetación natural, al cual, en ningún caso podrá ser menor al treinta por ciento del total de la superficie de la edificación;
+
+II.- El tipo de vegetación nativa de la región que será utilizada en la azotea verde;
+
+III.- Los mecanismos y tecnologías sustentables de riesgo y mantenimiento de la azotea verde; y,
+
+IV.- Los materiales a utilizar; para la implementación.
+
+En el caso de los bienes inmuebles considerados patrimonio histórico del Estado, la Secretaría de Ecología y Medio Ambiente conjuntamente con la Secretaría de Cultura, realizará un estudio de factibilidad para el efecto de implementar o no la azotea verde en dicho inmueble, siempre preservando lo declarado como patrimonio histórico y que no sea afectado.
+
+Tratándose de bienes inmuebles municipales, será la Dirección de Ecología o la autoridad homóloga del Municipio, quien efectúe el estudio de factibilidad respectivo.
+
+> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2013)</small>
+
+###### Artículo 27
+
+Quáter.- El Estado, así como los Municipios, en el ámbito de sus respectivas competencias, podrán brindar a los propietarios o poseedores de inmuebles que cuenten con azoteas verdes, incentivos, fiscales o administrativos que así consideren, de conformidad con lo dispuesto en las disposiciones legales y reglamentarias.
+
+### CAPÍTULO VIII. Del Fondo Estatal
 
 ###### Artículo 28.
 
@@ -525,7 +601,7 @@ VII. Incorporar pautas de conservación y restauración de ecosistemas naturales
 
 VIII. Aumentar la superficie y gestionar adecuadamente las zonas verdes urbanas.
 
-### CAPÍTULO X. Información y Participación Pública
+### CAPÍTULO IX. Desarrollo del Conocimiento e Innovación sobre Cambio Climático
 
 ###### Artículo 34.
 
@@ -559,7 +635,7 @@ El Consejo Técnico aprobará las operaciones que se realicen con cargo al Fondo
 
 El Fondo se sujetará a los mecanismos de control, auditoría, evaluación y rendición de cuentas que establezcan las disposiciones legales.
 
-### CAPÍTULO XI. De las Responsabilidades y Sanciones
+### CAPÍTULO X. Información y Participación Pública
 
 ###### Artículo 39.
 
@@ -568,6 +644,8 @@ Las Autoridades Estatales y Municipales en el ámbito de sus respectivas compete
 Con el fin de lograr estos objetivos, las instituciones competentes en materia de educación, investigación, desarrollo e innovación y en materia de medio ambiente, coordinarán sus actuaciones para integrar tales objetivos en sus instrumentos de planeación y publicarán cada dos años, un informe que refleje las áreas prioritarias de actuación y las acciones en marcha en relación con las mismas.
 
 Con el objetivo de coordinar las actuaciones en materia de mitigación y de adaptación al cambio climático en el Estado y de adoptar las iniciativas necesarias, la Secretaria, establecerá canales de comunicación y líneas de trabajo permanentes con las instituciones educativas, científicas y tecnológicas, fomentando el intercambio continuo de conocimiento.
+
+### CAPÍTULO XI. De las Responsabilidades y Sanciones
 
 ###### Artículo 40.
 
@@ -650,3 +728,13 @@ ARQ. LUIS ALBERTO GONZÁLEZ FLORES.
 EL SECRETARIO DE ECOLOGÍA Y MEDIO AMBIENTE DEL ESTADO DE QUINTANA ROO.
 
 LIC. RÚL OMAR GONZÁLEZ CASTILLA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE ABRIL DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
+
+TERCERO.- La Secretaría de Ecología y Medio Ambiente dentro de los noventa días posteriores a la entrada en vigor del presente Decreto, deberá expedir el Reglamento respectivo, para el cumplimiento de lo dispuesto por el presente Decreto.
