@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-los-municipios-del-estado-de-quintana-roo-42182"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-20"
-last_updated: "2013-04-09"
+last_updated: "2013-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42182&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2013.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 20 de diciembre de 2004.
 
@@ -891,9 +891,17 @@ VIII. De Salud Pública y Asistencia Social;
 
 IX. De Seguridad Pública, Policía Preventiva y Tránsito;
 
-X. De Espectáculos y Diversiones; y
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2013)</small>
 
-XI. De Desarrollo social y Participación Ciudadana.
+X. De Espectáculos y Diversiones;
+
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2013)</small>
+
+XI. De Desarrollo social y Participación Ciudadana; y
+
+> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2013)</small>
+
+XII. Del Trabajo y Previsión Social.
 
 ###### ARTÍCULO 73.
 
@@ -1854,6 +1862,10 @@ V. El convenio de las partes, siempre y cuando no sea contrario al ordenamiento 
 ###### ARTÍCULO 155.
 
 Las autoridades administrativas municipales, para comprobar el cumplimiento de las disposiciones legales y reglamentarias podrán llevar a cabo visitas de verificación, mismas que deberán realizarse, respetando las garantías individuales de los afectados, de conformidad con lo establecido en el Artículo 16 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE ABRIL DE 2013)</small>
+
+Cuando derivado de sus visitas de inspección las autoridades municipales tengan conocimiento de hechos u omisiones que pudieran llegar a ser constitutivos de infracción a alguna disposición legal cuya aplicación y vigilancia corresponda a otro orden o nivel de gobierno, coadyuvaran con las autoridades federales o estatales competentes, proporcionando a éstas la información necesaria de los hechos detectados, así como los datos del probable infractor.
 
 ###### ARTÍCULO 156.
 
@@ -2988,3 +3000,7 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
 
 TERCERO.- El Tribunal Electoral, el Instituto Electoral, el Instituto de Transparencia y Acceso a la Información Pública, y los Ayuntamientos, todos del Estado de Quintana Roo contarán con 60 días naturales a partir de la entrada en vigor del presente Decreto, para efectuar las adecuaciones correspondientes a su normatividad interna.
+
+P.O. 30 DE ABRIL DE 2013.
+
+Único.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
