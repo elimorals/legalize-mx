@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2013-03-15"
+last_updated: "2013-04-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE ABRIL DE 2013.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -10222,9 +10222,9 @@ L) Dirección Ejecutiva de Mejora Continua a la Gestión Gubernamental.
 
 VIII. Al órgano político-administrativo en Iztacalco;
 
-> <small>(ADICIONADO, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
+> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2013)</small>
 
-A) Dirección General Jurídica y de Gobierno;
+A) Dirección General Jurídica, de Gobierno y Protección Civil;
 
 > <small>(ADICIONADO, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
 
@@ -12338,7 +12338,7 @@ Corresponde a la Dirección General de Desarrollo Social además de las atribuci
 
 DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y DE LAS DIRECCIONES GENERALES ESPECIFICAS DEL ORGANO POLITICO-ADMINISTRATIVO EN IZTACALCO.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2013)</small>
 
 ###### Artículo 153.
 
@@ -12720,37 +12720,109 @@ DE LAS ATRIBUCIONES ADICIONALES DE LAS DIRECCIONES GENERALES DE CARACTER COMUN Y
 
 ###### Artículo 157.
 
-La Dirección General de Obras y Desarrollo Urbano tendrá, además de las señaladas en el artículo 126, las siguientes atribuciones:
+Corresponde a la Dirección General Jurídica, de Gobierno y Protección Civil las siguientes atribuciones:
 
-> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2001)</small>
+I. Otorgar permisos para el uso de la vía pública, sin que se afecte la naturaleza y destino de la misma;
 
-I. Dar mantenimiento a los monumentos públicos, plazas típicas o históricas, de obras de ornato, propiedad del Distrito Federal, así como participar, en los términos del Estatuto de Gobierno y de los convenios correspondientes en el mantenimiento de aquellos que sean propiedad federal y que se encuentren dentro de su propia demarcación territorial;
+II. Autorizar los horarios para el acceso a las diversiones y espectáculos públicos, vigilar su desarrollo, y en general el cumplimiento de las disposiciones jurídicas y administrativas aplicables;
 
-> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2001)</small>
+III. Velar por el cumplimiento de las leyes, reglamentos, decretos, acuerdos, circulares y demás disposiciones jurídicas y administrativas;
 
-II. Brindar mantenimiento a las escuelas, bibliotecas, museos y demás centros de servicio social, cultural y deportivo que se ubiquen dentro de su demarcación territorial, así como atender y vigilar su adecuado funcionamiento, de conformidad con la normatividad que al efecto expida la Dependencia competente;
+IV. Coordinar las actividades en materia de verificación administrativa, ejerciendo las atribuciones del Órgano Político-Administrativo en esta materia;
 
-> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2001)</small>
+V. Emitir las órdenes de verificación que correspondan de acuerdo al ámbito de competencia del Órgano Político-Administrativo, levantando las actas correspondientes e imponiendo las sanciones que correspondan, excepto las de carácter fiscal;
 
-III. Dar mantenimiento a los parques y mercados públicos que se encuentran a su cargo, de conformidad con la normatividad que al efecto expidan las Dependencias competentes;
+VI. Realizar los servicios de filiación para identificar a los habitantes de su demarcación territorial;
 
-IV. (DEROGADA, G.O. 30 DE ABRIL DE 2010)
+VII. Expedir en su demarcación territorial, los certificados de residencia de las personas que tengan su domicilio legal en su demarcación territorial;
 
-> <small>(ADICIONADA, G.O. 31 DE ENERO DE 2001)</small>
+VIII. Intervenir, de acuerdo a las disposiciones jurídicas aplicables, en las juntas de reclutamiento del Servicio Militar Nacional;
 
-V. Dar mantenimiento a las vialidades secundarias, guarniciones, banquetas, puentes, pasos peatonales y reductores de velocidad en vialidades primarias y secundarias en su demarcación, con base en las disposiciones jurídicas y administrativas aplicables que determinen las Dependencias.
+IX. Elaborar, mantener actualizado e integrar en una base de datos el padrón de los giros mercantiles que funcionen en la demarcación territorial del Órgano Político-Administrativo;
 
-> <small>(ADICIONADO, G.O. 30 DE ABRIL DE 2010)</small>
+X. Otorgar las licencias y autorizaciones de funcionamiento de los giros mercantiles establecidos en la demarcación territorial del Órgano Político-Administrativo;
+
+XI. Autorizar, en el ámbito de su competencia, el funcionamiento del servicio de acomodadores de vehículos en los giros mercantiles a que se refiere la fracción anterior;
+
+XII. Tramitar la expedición, en la demarcación territorial del Órgano Político-Administrativo, de conformidad con los lineamientos que emita la Secretaría de Transportes y Vialidad y con los insumos que le sean proporcionados por la propia Secretaría, placas, tarjetas de circulación, licencias de conducir y toda aquella documentación necesaria para que los vehículos de servicio particular y los conductores de los mismos circulen conforme a las disposiciones jurídicas y administrativas aplicables;
+
+XIII. Ejecutar, las acciones en materia de expropiación, ocupación total o parcial de bienes, en los términos de las disposiciones jurídicas y administrativas aplicables;
+
+XIV. Prestar a los habitantes de su demarcación territorial, los servicios de asesoría jurídica de carácter gratuito, en las materias civil, penal, administrativa y del trabajo;
+
+XV. Autorizar la ubicación, construcción, funcionamiento y tarifas de los estacionamientos públicos, de conformidad con las normas que emita la Secretaría de Transportes y Vialidad;
+
+XVI. Administrar los mercados públicos, asentados en la demarcación territorial del Órgano Político-Administrativo, de acuerdo a las disposiciones jurídicas aplicables y lineamientos que fije el titular del mismo;
+
+XVII. Desarrollar acciones tendientes a prestar en forma gratuita servicios funerarios cuando se trate de personas indigentes, cuando no haya quien reclame el cadáver o sus deudos carezcan de recursos económicos;
+
+XVIII. Administrar los panteones y crematorios públicos de su demarcación territorial, de acuerdo a las disposiciones de operación que determine la autoridad competente;
+
+XIX. Preparar los análisis que presente el titular del Órgano Político-Administrativo al Jefe de Gobierno respecto del ejercicio de las atribuciones a él conferidas y de los servidores públicos subalternos;
+
+XX. Realizar las certificaciones que le soliciten los particulares siempre y cuando no sean competencia de otra autoridad administrativa;
+
+XXI. Vigilar, en el ámbito de su competencia, el cumplimiento de las disposiciones en materia de protección civil, aplicando las sanciones que correspondan;
+
+XXII. Vigilar al interior de la demarcación territorial del Órgano Político-Administrativo el cumplimiento de las políticas demográficas que al efecto fije la Secretaría de Gobierno y el Consejo Nacional de Población, rindiendo un informe al titular del Órgano Político-Administrativo;
+
+XXIII. Autorizar la circulación en su demarcación territorial de bicicletas adaptadas y llevar un registro de los mismos;
+
+XXIV. Expedir las certificaciones que le soliciten los particulares, siempre y cuando no esté expresamente conferida a otra autoridad administrativa;
+
+XXV. Elaborar, coordinar y ejecutar, en el ámbito de su competencia, en coordinación con las autoridades competentes, el Programa de Protección Civil del Órgano Político-Administrativo;
+
+XXVI. Apoyar al Jefe Delegacional en la instrumentación de acciones tendientes a coadyuvar con el H. Cuerpo de Bomberos y establecer políticas para la prevención y extinción de incendios o cualesquier otro siniestro que ponga en peligro la vida y patrimonio de los habitantes o visitantes del Órgano Político-Administrativo;
+
+XXVII. Proponer al Jefe Delegacional las acciones en materia de Protección Civil y prevención de desastres o emergencias;
+
+XXVIII. Coordinar, dirigir y supervisar a los equipos especializados de Protección Civil en el caso de contingencias;
+
+XXIX. Recibir, canalizar y dar seguimiento hasta su total satisfacción a las demandas y quejas ciudadanas, respecto a los temas de Protección Civil en el Órgano Político-Administrativo;
+
+XXX. Planear, programar, organizar, controlar, supervisar y evaluar el empleo de los recursos tecnológicos e informáticos, para coadyuvar en mejorar los instrumentos de fomento a la cultura de la Protección Civil en el Órgano Político-Administrativo;
+
+XXXI. Recibir, evaluar y en su caso aprobar los programas internos y especiales de protección civil en los inmuebles delegacionales, establecimientos comerciales y mercantiles, inmuebles de uso habitacional y todos aquellos que se encuentren en el Órgano Político-Administrativo de acuerdo con lo señalado por las disposiciones jurídicas aplicables;
+
+XXXII. Dar la debida atención y seguimiento a las demandas ciudadanas recibidas por el Jefe Delegacional o por cualesquier otro medio en materia de protección civil;
+
+XXXIII. Fomentar la cultura de Protección Civil en el Órgano Político-Administrativo, a través de instrumentación de coloquios, conferencias, herramientas de difusión y aquellas que explícitamente le señale la Ley;
+
+XXXIV. Denunciar a las personas físicas o morales que por sí o interpósita persona estuvieren relacionadas con algún delito motivo de no acatar la normatividad en materia de Protección Civil.
+
+XXXV. Coordinar y supervisar los simulacros en los diversos inmuebles de la demarcación territorial;
+
+XXXVI. Presidir el Consejo Delegacional de Protección Civil en la demarcación, en ausencia del Jefe Delegacional;
+
+XXXVII. Establecer las medidas necesarias para garantizar el cumplimiento de la Ley del Sistema de Protección Civil del Distrito Federal en lo que corresponde al Órgano Político-Administrativo; y
+
+XXXVIII. Las demás que de manera directa les asignen el titular del Órgano Político-Administrativo, así como las que se establezcan en los manuales administrativos.
+
+> <small>(REFORMADO, G.O. 30 DE ABRIL DE 2010)</small>
 
 ###### Artículo 157 Bis.
 
-La Dirección General de Servicios Urbanos, tendrá, las siguientes atribuciones:
+La Dirección General de Obras y Desarrollo Urbano tendrá, además de las señaladas en el artículo 126, las siguientes atribuciones:
+
+I. Dar mantenimiento a los monumentos públicos, plazas típicas o históricas, de obras de ornato, propiedad del Distrito Federal, así como participar, en los términos del Estatuto de Gobierno y de los convenios correspondientes en el mantenimiento de aquellos que sean propiedad federal y que se encuentren dentro de su propia demarcación territorial;
+
+II. Brindar mantenimiento a las escuelas, bibliotecas, museos y demás centros de servicio social, cultural y deportivo que se ubiquen dentro de su demarcación territorial, así como atender y vigilar su adecuado funcionamiento, de conformidad con la normatividad que al efecto expida la Dependencia competente;
+
+III. Dar mantenimiento a los parques y mercados públicos que se encuentran a su cargo, de conformidad con la normatividad que al efecto expidan las Dependencias competentes;
+
+IV. Dar mantenimiento a las vialidades secundarias, guarniciones, banquetas, puentes, pasos peatonales y reductores de velocidad en vialidades primarias y secundarias en su demarcación, con base en las disposiciones jurídicas y administrativas aplicables que determinen las Dependencias.
+
+> <small>(ADICIONADO, G.O. 30 DE ABRIL DE 2013)</small>
+
+###### Artículo 157 Ter.
+
+La Dirección General de Servicios Urbanos tendrá, además de las señaladas en el artículo 127, las siguientes atribuciones:
 
 I. Dar mantenimiento a los parques públicos que se encuentren a su cargo, de conformidad con la normatividad que al efecto expidan las Dependencias competentes;
 
 II. Prestar en su demarcación territorial los servicios de suministro de agua potable y alcantarillado, que no estén asignados a otra dependencia o entidad, atendiendo a los lineamientos que al efecto expida la autoridad competente, así como analizar y emitir opinión en relación con las tarifas correspondientes;
 
-III. Proporcionar los servicios de retiro de desechos sólidos en los planteles escolares oficiales, los mercados públicos, los hospitales públicos y las industrias, siempre que nos (sic) se trate de residuos peligrosos; y
+III. Proporcionar los servicios de retiro de desechos sólidos en los planteles escolares oficiales, los mercados públicos, los hospitales públicos y las industrias, siempre que no se trate de residuos peligrosos; y
 
 IV. Promover campañas ante la comunidad, respecto de las tareas y cultura de la limpieza, con la idea de mantener en condiciones adecuadas los espacios públicos de la delegación, proteger el entorno ecológico y respetar la Ley de Residuos Sólidos del Distrito Federal.
 
@@ -15943,3 +16015,9 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- Los recursos humanos, materiales, técnicos y, en su caso, financieros, así como los asuntos que se encuentren en trámite en la Coordinación General de Proyectos Estratégicos y Enlace Gubernamental, se transferirán a la Dirección Ejecutiva de Proyectos Estratégicos en la parte que resulte correspondiente, esto de conformidad con las disposiciones administrativas aplicables.
 
 CUARTO.- La Secretaría de Gobierno deberá actualizar su Manual Administrativo y de Procedimientos en los términos establecidos por la normatividad aplicable.
+
+G.O. 30 DE ABRIL DE 2013.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente decreto entrará en vigor el día de su publicación en la Gaceta Oficial del Distrito Federal.
