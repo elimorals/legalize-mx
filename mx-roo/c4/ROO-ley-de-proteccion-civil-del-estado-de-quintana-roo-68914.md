@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-proteccion-civil-del-estado-de-quintana-roo-68914"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-01"
-last_updated: "2012-10-26"
+last_updated: "2013-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68914&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE PROTECCIÓN CIVIL DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2013.
 
 Ley Publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 1 de junio del 2009.
 
@@ -671,9 +671,17 @@ VII.- Proporcionar equipo y recursos humanos o materiales de los que dispongan, 
 
 VIII.- Proporcionar al Sistema Estatal de Protección Civil la información que les sea requerida en materia de riesgos y elementos para la protección civil;
 
-IX.- Difundir los programas y acciones federales, estatales y locales de protección civil; y
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2013)</small>
 
-X.- Las demás que les confiera el Sistema Nacional de Protección Civil, el Sistema Estatal de Protección Civil, esta Ley y otros ordenamientos aplicables.
+IX.- Difundir los programas y acciones federales, estatales y locales de protección civil;
+
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2013)</small>
+
+X.- Informar a la Secretaría del Trabajo y Previsión Social en el Estado, cuando en el ejercicio de sus funciones de inspección en centros de trabajo, tenga conocimiento de hechos u omisiones que puedan constituir infracciones a la normatividad en materia de seguridad e higiene; y,
+
+> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2013)</small>
+
+XI.- Las demás que les confiera el Sistema Nacional de Protección Civil, el Sistema Estatal de Protección Civil, esta Ley y otros ordenamientos aplicables.
 
 ### CAPÍTULO SÉPTIMO. De los Sistemas y Consejos Municipales de Protección Civil
 
@@ -1684,3 +1692,7 @@ Igual término corresponderá a los Ayuntamientos de los Municipios del Estado, 
 TERCERO.- Se deroga toda disposición contraria a lo previsto en el presente Decreto.
 
 CUARTO.- Los recursos humanos, financieros y materiales que en razón del Decreto de Presupuestos de Egresos del Estado de Quintana Roo, se hayan destinado al Instituto de Protección Civil del Estado de Quintana Roo, en razón del presente Decreto, se transferirán a la Coordinación Estatal, a través de la Secretaria de Gobierno.
+
+P.O. 30 DE ABRIL DE 2013.
+
+Único.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
