@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2013-04-25"
+last_updated: "2013-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE ABRIL DE 2013.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -1443,9 +1443,13 @@ p). De revisión y actualización de la reglamentación municipal;
 
 q). De apoyo y atención al migrante;
 
-> <small>(REFORMADO, G.G. 6 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2013)</small>
 
-r). Las demás que determine el ayuntamiento, de acuerdo con las necesidades del municipio.
+r) De asuntos metropolitanos, en aquellos municipios que formen parte de alguna zona metropolitana;
+
+> <small>(ADICIONADO, G.G. 30 DE ABRIL DE 2013)</small>
+
+s) Las demás que determine el ayuntamiento, de acuerdo a las necesidades del municipio.
 
 II. Serán comisiones transitorias, aquéllas que se designen para la atención de problemas especiales o situaciones emergentes o eventuales de diferente índole y quedarán integradas por los miembros que determine el ayuntamiento, coordinadas por el responsable del área competente.
 
@@ -3784,3 +3788,11 @@ G.G. 25 DE ABRIL DE 2013.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 30 DE ABRIL DE 2013.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
