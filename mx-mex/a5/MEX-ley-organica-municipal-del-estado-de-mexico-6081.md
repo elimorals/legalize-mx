@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2013-04-25"
+last_updated: "2013-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,23 +21,15 @@ state: "MEX"
 ---
 # LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO
 
-LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
+LEY DE INGRESOS DEL MUNICIPIO DE SAN PEDRO JUCHATENGO, DISTRITO DE JUQUILA, OAXACA PARA EL EJERCICIO FISCAL 2022
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE ABRIL DE 2013.
+TEXTO ORIGINAL.
 
-Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
+ÚLTIMA REFOPRMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2022.
 
-El Ciudadano LICENCIADO IGNACIO PICHARDO PAGAZA, Gobernador del Estado Libre y Soberano de México, a sus habitantes sabed:
+> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO DE ESTE ORDENAMIENTO Y REFORMA SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA QUE HA SIDO DECLARADO INVÁLIDO POR EL TRIBUNAL CONSTITUCIONAL.]</small>
 
-Que la Legislatura del Estado, ha tenido a bien aprobar lo siguiente:
-
-DECRETO NUMERO 164
-
-LA H. "LI" LEGISLATURA DEL ESTADO DE MEXICO
-
-D E C R E T A :
-
-LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
+(NOTA: EL 18 DE OCTUBRE DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 37/2022 Y SU ACUMULADA 40/2022, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 8 DE NOVIEMBRE DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 ## TITULO I. Del Municipio
 
@@ -547,21 +539,15 @@ Los ayuntamientos provisionales, las juntas y consejos municipales, se instalar�
 
 ###### Artículo 26.
 
-El ayuntamiento funcionará y residirá en la cabecera municipal, y solamente con aprobación del Congreso del Estado, podrá ubicar su residencia en forma permanente o temporal en otro lugar comprendido dentro de los límites territoriales de su municipio. En los casos de cambio temporal de residencia y funcionamiento del ayuntamiento, la Diputación Permanente, en receso de la Legislatura, podrá acordar lo que corresponda.
+Es base de este derecho el importe que cubran a la empresa que suministre la energía eléctrica por el servicio.
 
-> <small>(REFORMADO, G.G. 24 DE ABRIL DE 2012)</small>
-
-Los ayuntamientos podrán celebrar sesión preferentemente una vez al año fuera de la cabecera municipal en localidades del interior del municipio, para lo cual existirá acuerdo de cabildo.
+(NOTA: EL 18 DE OCTUBRE DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 37/2022 Y SU ACUMULADA 40/2022, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 8 DE NOVIEMBRE DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 ### CAPITULO SEGUNDO. Funcionamiento de los Ayuntamientos
 
 ###### Artículo 27.
 
-Los ayuntamientos como órganos deliberantes, deberán resolver colegiadamente los asuntos de su competencia.
-
-> <small>(ADICIONADO, G.G. 1 DE OCTUBRE DE 2010)</small>
-
-Para lo cual los Ayuntamientos deberán expedir o reformar, en su caso, en la tercera sesión que celebren, el Reglamento de Cabildo, debiendo publicarse en la Gaceta Municipal.
+Este impuesto se causará y pagará aplicando las tasas vigentes del 8% para tarifas 01, 1ª, 1B, 1C, 02, 03, y 07 y 04% para las tarifas OM, HM, HS, y HT.
 
 ###### Artículo 28.
 
@@ -901,7 +887,25 @@ VI. El destino que se dará a los fondos que se obtengan de la enajenación.
 
 ###### Artículo 36.
 
-Las enajenaciones de bienes inmuebles propiedad de los municipios y sus organismos auxiliares, una vez realizada la desincorporación, se efectuaran a través de subasta pública, en los términos de lo dispuesto en el Libro Décimo Tercero del Código Administrativo del Estado de México y su Reglamento.
+El pago de los derechos a que se refiere esta sección, debe hacerse previo a la expedición de las certificaciones y constancias y se pagará conforme a las siguientes cuotas:
+
+Concepto Cuota en pesos.
+
+(NOTA: EL 18 DE OCTUBRE DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 37/2022 Y SU ACUMULADA 40/2022, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE NOVIEMBRE DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+I. COPIAS DE DOCUMENTOS EXISTENTES EN LOS ARCHIVOS DE LAS OFICINAS MUNICIPALES. 50.00
+
+(NOTA: EL 18 DE OCTUBRE DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 37/2022 Y SU ACUMULADA 40/2022, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 8 DE NOVIEMBRE DE 2022 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+II. BÚSQUEDA DE DOCUMENTOS EXISTENTES EN LOS ARCHIVOS DE LAS OFICINAS MUNICIPALES. 150. 00
+
+III. Expedición de certificados de residencia, origen, dependencia económica, de situación fiscal actual o pasada, de contribuyentes inscritos en la Tesorería, de morada conyugal 50.00
+
+IV. Expedición de actas de posesión 600.00
+
+V. Re expedición de actas de posesión 300.00
+
+VI. Demás certificaciones que las disposiciones legales reglamentarias definan a cargo del Ayuntamiento. 50.00
 
 ###### Artículo 37.
 
