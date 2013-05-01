@@ -4,7 +4,7 @@ identifier: "CHP-codigo-penal-para-el-estado-de-chiapas-55156"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-03-14"
-last_updated: "2013-03-11"
+last_updated: "2013-05-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55156&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CÓDIGO PENAL PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MAYO DE 2013.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 14 de marzo de 2007.
 
@@ -33,9 +33,7 @@ Decreto Número 139
 
 La Honorable Sexagésima Segunda Legislatura Constitucional del Estado Libre y Soberano de Chiapas, en uso de las facultades que le concede la Constitución Política Local; y
 
-Considerando
-
-.
+Considerando ...
 
 Por las anteriores consideraciones este Honorable Congreso del Estado, ha tenido ha (sic) bien emitir el siguiente:
 
@@ -1219,7 +1217,7 @@ La amnistía beneficiará a todos los responsables del delito.
 
 ###### Artículo 118.
 
-El perdón del ofendido o del legitimado para otorgarlo extingue la acción penal del Estado respecto de los delitos que se persiguen por querella; el perdón deberá otorgarse ante el Ministerio Público si éste no ha ejercicio la acción penal o ante el órgano jurisdiccional hasta antes de que cause ejecutoria la sentencia.
+El perdón del ofendido o del legitimado para otorgarlo extingue la acción penal del Estado respecto de los delitos que se persiguen por querella; el perdón deberá otorgarse ante el Ministerio Público si éste no ha ejercido la acción penal o ante el órgano jurisdiccional hasta antes de que cause ejecutoria la sentencia.
 
 ###### Artículo 119.
 
@@ -1323,7 +1321,7 @@ La prescripción es personal y extingue la acción penal y la potestad de ejecut
 
 ###### Artículo 134.
 
-La prescripción producirá sus efectos aunque no la alegue el sujeto activo, el Ministerio Público durante la investigación y el órgano jurisdiccional durante el proceso, la declarará de oficio o a petición de parte en cuanto tenga conocimiento de ella, sea cual fuere el estado del procedimiento.
+La prescripción producirá sus efectos aunque no la alegue el sujeto activo; el Ministerio Público durante la investigación y el órgano jurisdiccional durante el proceso, la declarará de oficio o a petición de parte en cuanto tenga conocimiento de ella, sea cual fuere el estado del procedimiento.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1331,7 +1329,7 @@ La prescripción producirá sus efectos aunque no la alegue el sujeto activo, el
 
 ###### Artículo 135.
 
-La prescripción podrá determinarse por el Ministerio Público hasta antes de formular la imputación, si percibe que ha operado ésta, o en su caso, pondrá esta circunstancia en conocimiento del juzgador en cualquier etapa en que el procedimiento se encuentre.
+La prescripción podrá determinarse por el Misterio (sic) Público hasta antes de formular la imputación, si percibe que ha operado ésta, o en su caso, pondrá esta circunstancia en conocimiento del juzgador en cualquier etapa en que el procedimiento se encuentre.
 
 ###### Artículo 136.
 
@@ -3785,15 +3783,19 @@ Al que cometa ultraje o delitos en contra de servidores públicos en el acto de 
 
 Por ultrajes se entenderá, la realización de conductas típicas o atípicas que atenten contra la investidura del servidor público o de la institución que representa, o lo denigren o lo exhiban al odio o rechazo público, o inciten a la violencia en contra de ellos, aunque aquella no llegue a generarse.
 
-(NOTA: EL 7 DE JULIO DE 2014, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 11/2013, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 8 DE SEPTIEMBRE DE 2014 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, P.O. 1 DE MAYO DE 2013)</small>
 
 ###### Artículo 398 Bis.
 
-Se impondrá una pena de dos a quince años de prisión y multa de doscientos a cuatrocientos días de salario mínimo, a quien realice actos tendientes para obtener información de los cuerpos de seguridad pública, de persecución o sanción del delito o la ejecución de penas, sobre su ubicación, actividades, operativos o sus labores, en general.
+Al que obtenga y proporcione información confidencial o reservada de los cuerpos de seguridad pública o de las fuerzas armadas con el propósito de evitar que el sujeto o los sujetos activos del delito sean detenidos o para que puedan concretar una actividad delictiva en agravio de un tercero, se impondrá una pena de dos a quince años de prisión y multa de doscientos a cuatrocientos días de salario mínimo.
 
-Las penas señaladas en este artículo se aumentarán desde un tercio hasta una mitad más de la pena que le corresponda, y se impondrá además destitución del cargo o comisión e inhabilitación de tres a diez años para ocupar otro, cuando el delito sea cometido por servidores públicos o por ex servidores públicos de las fuerzas armadas, instituciones de seguridad pública o de procuración de justicia.
+Cuando la conducta se lleve a cabo utilizando a personas menores de edad o personas que no tengan la capacidad de comprender el carácter ilícito del hecho, la pena se aumentará hasta en una mitad de la señalada en el primer párrafo.
+
+Así mismo, se aumentará la pena hasta en una mitad cuando la conducta se lleve a cabo por servidores públicos que pertenezcan o han pertenecido a alguna institución de seguridad pública, a las fuerzas armadas o se trate de personas que han pertenecido o pertenezcan a personas morales que brinden servicios de seguridad privada.
+
+Cuando la conducta se lleve a cabo utilizando equipo o vehículos oficiales, o vehículos de servicio de transporte público o mercantil, o que por sus características sean similares a esos en apariencia, la pena se aumentará hasta en una mitad de la señalada en el primer párrafo.
+
+Asimismo, se entenderá por información confidencial o reservada aquella que es relacionada con las actividades provenientes de operativos, investigación, persecución de los delitos o sus autores, misma información que en términos de la Constitución Política de los Estados Unidos Mexicanos y la Ley que Garantiza la Transparencia y el Derecho a la Información Pública para el Estado de Chiapas, tenga dicha naturaleza.
 
 ## Título Décimo Octavo. Delitos Cometidos por Servidores Públicos
 
@@ -3931,7 +3933,7 @@ Al que usare uniformes oficiales, condecoraciones, grados jerárquicos distintos
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REPUBLICADO], P.O. 9 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE FEBRERO DE 2012)</small>
 
 ### Capítulo XVII. Tráfico de Influencia
 
@@ -4857,7 +4859,7 @@ Cuando la autoridad competente, en ejercicio de sus facultades de fiscalización
 
 > <small>(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2012)</small>
 
-Artículo 478 Sextus.- Las penas previstas en este Capítulo se aumentarán desde un tercio hasta en una mitad, sin la conducta es cometida por servidores públicos encargados de prevenir, denunciar, investigar, o juzgar la comisión de delitos o ejecutar las sanciones penales, así como a los ex servidores públicos encargados de tales funciones que cometan dicha conducta en los dos años posteriores a su terminación. Además, se les impondrá inhabilitación para desempeñar empleo, cargo, o comisión hasta por un tiempo igual al de la pena de prisión impuesta, la cual comenzará a partir del cumplimiento de dicha pena.
+Artículo 478 Sextus.- Las penas previstas en este Capítulo se aumentarán desde un tercio hasta en una mitad, sin (sic) la conducta es cometida por servidores públicos encargados de prevenir, denunciar, investigar, o juzgar la comisión de delitos o ejecutar las sanciones penales, así como a los ex servidores públicos encargados de tales funciones que cometan dicha conducta en los dos años posteriores a su terminación. Además, se les impondrá inhabilitación para desempeñar empleo, cargo, o comisión hasta por un tiempo igual al de la pena de prisión impuesta, la cual comenzará a partir del cumplimiento de dicha pena.
 
 Asimismo, las penas previstas en este Capítulo se aumentaran en una mitad si quien realice cualquiera de las conductas previstas en los artículos 478, fracciones I y II, 478 Bis y 478 Ter, utiliza a personas menores de dieciocho años de edad o personas que no tienen capacidad para comprender el significado del hecho o que no tienen capacidad para resistirlo.
 
@@ -5258,3 +5260,9 @@ P.O. 11 DE MARZO DE 2013.
 Artículo Primero.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE MAYO DE 2013.
+
+Artículo Primero.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales que contravengan lo dispuesto en el presente decreto.
