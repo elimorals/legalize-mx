@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-del-instituto-de-desarrollo-y-fortalecimiento-2179
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-07-20"
-last_updated: "2001-07-20"
+last_updated: "2013-05-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21795&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MOR"
 ---
 # LEY ORGANICA DEL INSTITUTO DE DESARROLLO Y FORTALECIMIENTO MUNICIPAL DEL ESTADO DE MORELOS
 
-LEY ORGANICA DEL INSTITUTO DE DESARROLLO Y FORTALECIMIENTO MUNICIPAL DEL ESTADO DE MORELOS
+LEY ORGÁNICA DEL INSTITUTO DE DESARROLLO Y FORTALECIMIENTO MUNICIPAL DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MAYO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el viernes 20 de julio de 2001.
 
@@ -151,7 +151,9 @@ El cargo de integrante de la Junta de Gobierno tendrá el carácter de honorífi
 
 La Junta de Gobierno tendrá las siguientes atribuciones:
 
-I. Designar, por la mayoría de votos de sus integrantes, al Director General del Instituto;
+> <small>(REFORMADA, P.O. 1 DE MAYO DE 2013)</small>
+
+I. Designar, por la mayoría de votos de sus integrantes, en el mes de enero del año siguiente a la elección de los Ayuntamientos, al Director General del Instituto;
 
 II. Remitir al Congreso del Estado, dentro de los primeros quince días de la instalación de la Junta de Gobierno, la terna de ciudadanos de entre los cuales se designe al titular del órgano de vigilancia;
 
@@ -400,3 +402,23 @@ SECRETARIO DE GOBIERNO
 EDUARDO BECERRA PÉREZ
 
 RÚBRICAS
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 1 DE MAYO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Expídase el decreto respectivo y remítase al Titular del Poder Ejecutivo del Estado, para su Publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El decreto que a efecto se expida, entrará en vigor al día siguiente de su publicación.
+
+###### ARTÍCULO TERCERO.
+
+A partir de la entrada en vigor del presente, se derogan todas y cada una de las disposiciones que contravengan el presente decreto.
+
+###### ARTÍCULO CUARTO.
+
+El Instituto de Desarrollo y Fortalecimiento Municipal del Estado de Morelos, contará con treinta días hábiles para modificar su Reglamento Interior, contados a partir de la entrada en vigor de esta modificación de la fracción I del artículo 9 a la Ley Orgánica del Instituto de Desarrollo y Fortalecimiento Municipal del Estado de Morelos.
