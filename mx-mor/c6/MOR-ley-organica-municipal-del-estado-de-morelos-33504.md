@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-municipal-del-estado-de-morelos-33504"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-13"
-last_updated: "2013-01-23"
+last_updated: "2013-05-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MAYO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 13 de agosto de 2003.
 
@@ -1465,7 +1465,7 @@ V.- Organizar y vigilar que se lleven al día y con arreglo a la técnica, la co
 
 VI.- Llevar por sí mismo la caja de tesorería, cuyos valores estarán siempre bajo su inmediato cuidado y exclusiva responsabilidad;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 16 DE JULIO DE 2008)</small>
 
@@ -2181,6 +2181,26 @@ III.- Contar con una experiencia profesional de cinco años como mínimo; y
 
 IV.- Tener un modo honesto de vivir.
 
+> <small>(ADICIONADO, P.O. 1 DE MAYO DE 2013)</small>
+
+###### Artículo 127 Ter.
+
+Son facultades y obligaciones del Titular de la Dependencia Municipal que refiere el artículo 127 bis las siguientes:
+
+l. Cumplir y hacer cumplir las leyes, decretos, reglas de operación, lineamientos, acuerdos, circulares y demás disposiciones jurídicas reglamentarias del ámbito Federal, Estatal y Municipal en materia de obra pública;
+
+II. Asesorar al Ayuntamiento en la elaboración de los Planes Municipales de Desarrollo, Planeación Urbana y demás Programas de Desarrollo Sustentable, de conformidad con los criterios de la Ley Estatal de Planeación y demás normatividad aplicable;
+
+III. Proponer, formular e integrar con la participación del Coplademun, al Cabildo, el Programa Operativo Anual y el Programa Anual de Obras, para su validación y autorización;
+
+IV. Observar cuando el Ayuntamiento realice obras públicas con recursos federales cualquiera que sea su origen, se cumpla con la normatividad aplicable, el incumplimiento a la misma, será responsabilidad de la autoridad que la autoriza y el Titular de la dependencia en comento que la ejecute;
+
+V. Integrar el expediente técnico de la obra, sin importar el origen de los recursos con los que se ejecute la obra pública, el cual contendrá la documentación técnica y financiera generada por la obra que ayuden a comprobar el gasto, y deberá contener como mínimo lo siguiente: oficio de autorización y/o acuerdo de Cabildo, carátula de datos generales, validación o dictamen de factibilidad ante las instancias correspondientes, croquis de localización, presupuesto inicial, descripción detallada del proyecto, planos aprobados y/o croquis de obra, números generadores, análisis de precios unitarios, estimaciones, resúmenes de costos de obra, calendario de obra, bitácora fotográfica y de obra, acta de comité de obra de la comunidad, contratos de arrendamiento y acta de entrega recepción de la obra, el incumplimiento a la presente disposición, dará lugar a las sanciones que establece la Ley Estatal de Responsabilidades de los Servidores Públicos del Estado de Morelos;
+
+VI. Resolver y contestar oportunamente las observaciones que haga el Órgano de Fiscalización perteneciente al Congreso del Estado, derivado de la Cuenta Pública Municipal;
+
+VII. Las demás que establezca la Constitución Política de los Estado (sic) Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Morelos, esta Ley y demás aplicables en materia de obra pública.
+
 ###### Artículo 128.
 
 Las obras públicas que realice el Ayuntamiento podrán ser:
@@ -2196,6 +2216,12 @@ B.- Por cuanto a su realización:
 I. Por administración, que son las que se proyectan y ejecutan por personal de las dependencias municipales; y
 
 II. Por contrato, las que se proyectan y ejecutan por personas físicas o morales independientes del Municipio.
+
+> <small>(ADICIONADO, P.O. 1 DE MAYO DE 2013)</small>
+
+###### Artículo 128 Bis.
+
+Cuando el Ayuntamiento en uso de sus facultades realice obra pública por contrato, y éstas por cuanto a su financiamiento se ejecuten con recursos o aportaciones de la federación, se estará sujeto a las disposiciones de la Legislación Federal en la materia, lo que deberá precisarse en las convocatorias, invitaciones, bases y contratos correspondientes.
 
 ###### Artículo 129.
 
@@ -2761,9 +2787,9 @@ En caso de que se declare procedente la desaparición o suspensión definitiva d
 
 ###### Artículo 190.
 
-Si la desaparición o suspensión definitiva de un Ayuntamiento se declara dentro de los doce meses del inicio de su ejercicio, el Concejo Municipal designado por el Congreso tendrá el carácter de provisional; en este caso el propio Congreso convocará a nueva elección del Ayuntamiento, de conformidad con las disposiciones del Código Electoral del Estado de Morelos. El Ayuntamiento electo concluirá el periodo respectivo.
+Si la desaparición o suspensión definitiva de un Ayuntamiento se declara dentro de los doce meses del inicio de su ejercicio, el Concejo Municipal designado por el Congreso tendrá el carácter de provisional; en este caso el propio Congreso convocará a nueva elección del Ayuntamiento, de conformidad con las disposiciones del Código Electoral del Estado de Morelos. El Ayuntamiento electo concluirá el período respectivo.
 
-En caso de que la desaparición del Ayuntamiento se declare dentro de los últimos veinticuatro meses de su ejercicio, el Concejo Municipal designado concluirá el período respectivo.
+En caso de que la desaparición del Ayuntamiento se declare dentro de los últimos veinticuatro meses de su ejercicio, el Concejo Municipal designado concluirá el periodo respectivo.
 
 ###### Artículo 191.
 
@@ -3046,6 +3072,38 @@ El decreto que al efecto se expida, entrará en vigor al día siguiente de su pu
 A partir de la entrada en vigor del presente, se derogan todas y cada una de las disposiciones que contravengan el presente decreto.
 
 P.O. 23 DE ENERO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Expídase el decreto respectivo y remítase al Titular del Poder Ejecutivo del Estado, para su Publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El decreto que al efecto se expida, entrará en vigor al día siguiente de su publicación.
+
+###### ARTÍCULO TERCERO.
+
+A partir de la entrada en vigor del presente, se derogan todas y cada una de las disposiciones que contravengan el presente decreto.
+
+P.O. 1 DE MAYO DE 2013.
+
+DECRETO NÚMERO 433, POR EL QUE SE ADICIONA EL ARTÍCULO 127 TER DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS.
+
+###### ARTÍCULO PRIMERO.
+
+Expídase el decreto respectivo y remítase al Titular del Poder Ejecutivo del Estado, para su Publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El decreto que al efecto se expida, entrará en vigor al día siguiente de su publicación.
+
+###### ARTÍCULO TERCERO.
+
+A partir de la entrada en vigor del presente, se derogan todas y cada una de las disposiciones que contravengan el presente decreto.
+
+P.O. 1 DE MAYO DE 2013.
+
+DECRETO NÚMERO 435, POR EL QUE SE ADICIONA EL ARTÍCULO 128 BIS DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS.
 
 ###### ARTÍCULO PRIMERO.
 
