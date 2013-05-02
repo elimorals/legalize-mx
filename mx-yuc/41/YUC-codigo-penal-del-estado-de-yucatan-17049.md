@@ -4,7 +4,7 @@ identifier: "YUC-codigo-penal-del-estado-de-yucatan-17049"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-30"
-last_updated: "2012-09-11"
+last_updated: "2013-05-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CÓDIGO PENAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 11 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 2 DE MAYO DE 2013.
 
 Código publicado en el Diario Oficial del Estado de Yucatán, el jueves 30 de marzo de 2000.
 
@@ -207,7 +207,7 @@ El delito se excluirá cuando:
 
 I. El hecho se realice sin intervención de la voluntad del agente;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, D.O. 23 DE JULIO DE 2008)</small>
 
@@ -237,7 +237,7 @@ VII. Al momento de realizar el hecho típico, el agente no tenga la capacidad de
 
 Cuando la capacidad a que se refiere el párrafo anterior sólo se encuentre considerablemente disminuida, se estará a lo dispuesto en el artículo 93 de este Código;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, D.O. 23 DE JULIO DE 2008)</small>
 
@@ -251,13 +251,13 @@ En caso de que sea vencible el error a que se refiere el inciso a), fracción VI
 
 Si el error vencible es el previsto en el inciso b) de la misma fracción, la penalidad será de una tercera parte del delito que se trate;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, D.O. 23 DE JULIO DE 2008)</small>
 
 IX. Atentas las circunstancias que concurren en la realización de una conducta ilícita, no sea racionalmente exigible al agente una conducta diversa a la que efectuó, y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, D.O. 23 DE JULIO DE 2008)</small>
 
@@ -343,7 +343,7 @@ XVIII. Las demás que se establezcan en este Código y otras leyes.
 
 ### CAPÍTULO II. PRISIÓN
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 14 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 14 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 29.
 
@@ -575,6 +575,12 @@ Cuando los objetos, instrumentos o bienes decomisados pertenezcan a persona dist
 
 Si los instrumentos o cosas decomisadas de que habla la primera parte del artículo anterior de este Código, sólo sirven para delinquir o son sustancias nocivas o peligrosas, se destruirán a juicio de la autoridad que esté conociendo, en los términos previstos por el Código de Procedimientos Penales. El juez, cuando lo estime conveniente, podrá dictar las medidas pertinentes para dejar constancia de los mismos en los autos de la causa y, en su caso, determinar su conservación para fines de docencia o investigación. Respecto de los instrumentos del delito o cosas que sean objeto o producto de él, la autoridad correspondiente determinará su destino según su utilidad, para beneficio del Estado.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O. 2 DE MAYO DE 2013)</small>
+
+ARTÍCULO 61 BIS. En caso de aseguramiento de animales domésticos, éstos se canalizarán a lugares adecuados para su debido cuidado y se dará aviso inmediato a las autoridades correspondientes, así como a las asociaciones protectoras de animales debidamente constituidas, las cuales podrán solicitar en cualquier momento a la Fiscalía General del Estado o Juez competente, su resguardo temporal, hasta por un plazo de 6 meses, y en el caso de que el dueño o poseedor permanezca privado de su libertad o no fuera reclamado por algún familiar del imputado durante este plazo, dichas asociaciones obtendrán la posesión definitiva de los mismos, previa resolución judicial que así lo determine.
+
 > <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 62.
@@ -741,7 +747,7 @@ V. El estado del equipo, vías y demás condiciones de funcionamiento mecánico,
 
 Siempre que al delito doloso corresponda sanción alternativa que incluya pena no privativa de la libertad, esta situación beneficiará al responsable del delito culposo.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 14 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 14 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 82.
 
@@ -1307,7 +1313,7 @@ Al prófugo no se le contará el tiempo que hubiere estado fuera del lugar de re
 
 ### CAPÍTULO II. QUEBRANTAMIENTO DE SANCIÓN
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
 
@@ -1379,7 +1385,7 @@ Las mismas sanciones se impondrán al dueño y al encargado de la vigilancia y c
 
 Estas sanciones se impondrán independientemente de las que correspondan si resultare cometido otro delito.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
 
@@ -1387,7 +1393,7 @@ Estas sanciones se impondrán independientemente de las que correspondan si resu
 
 Cuando se cause algún daño por medio de cualquier vehículo, motor o maquinaria, además de las sanciones correspondientes al delito que resulte, se inhabilitará al conductor para manejar aquéllos por un término de tres meses a dos años, plazo que se contará a partir de que sea puesto en libertad, siempre que se le haya impuesto la sanción de prisión. En caso de reincidencia la inhabilitación será definitiva.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 14 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 14 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 172.
 
@@ -1399,7 +1405,7 @@ Si este delito se comete por conductores de vehículos de transporte escolar o d
 
 A quien cometa delito establecido en este artículo se le aplicarán además las sanciones que se mencionan en el artículo 171 de este Código.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
 
@@ -1411,7 +1417,7 @@ Cuando se cometiere por servidor público de alguna corporación policial el del
 
 ### CAPÍTULO II. OPOSICIÓN A LA EJECUCIÓN DE OBRAS O TRABAJOS PÚBLICOS
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 14 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 14 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 174.
 
@@ -1443,7 +1449,7 @@ A quien sin causa legítima rehusare prestar un servicio de interés público a 
 
 Se impondrá de tres meses a dos años de prisión y de diez a cuarenta días-multa, a quien sin causa legítima desobedeciere un mandato de la autoridad o se negare a comparecer ante la misma a rendir declaración cuando legalmente se le exija, habiéndose impuesto previamente alguno de los medios de apremio que la autoridad estime conducente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
 
@@ -1509,7 +1515,7 @@ IV. Requerido por las autoridades no dé auxilio para la comprobación del cuerp
 
 Los responsables de este ilícito responderán, solidaria y mancomunadamente con él o los autores del delito encubierto, de los daños causados.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
 
@@ -1519,7 +1525,7 @@ En el caso de que la persona sea encubridor de un delito que merezca pena altern
 
 Este delito se perseguirá por querella de la parte ofendida, cuando el delito principal se persiga por la misma vía.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
 
@@ -1547,7 +1553,7 @@ Si la enfermedad contagiosa fuere incurable, se impondrá la sanción de tres me
 
 Cuando se trate de cónyuges, concubinarios o concubinas, sólo podrá procederse por querella del ofendido.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 14 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 14 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 190.
 
@@ -1587,7 +1593,7 @@ En caso de que produzca la muerte o la alteración de la salud se acumularán a 
 
 ### CAPÍTULO I. ULTRAJES A LA MORAL PÚBLICA Y A LAS BUENAS COSTUMBRES
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 14 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 14 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 195.
 
@@ -1601,7 +1607,7 @@ III. Sin justa causa interrumpa o limite los servicios de agua potable.
 
 ### CAPÍTULO II. CORRUPCIÓN DE MENORES E INCAPACES, TRATA DE MENORES Y PORNOGRAFÍA INFANTIL
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, D.O. 23 DE JULIO DE 2008)</small>
 
@@ -1623,7 +1629,7 @@ Las sanciones a que se refiere este Capítulo serán sin perjuicio de las que co
 
 ### CAPÍTULO III. LENOCINIO Y TRATA DE PERSONAS
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 8 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 8 DE ABRIL DE 2011)</small>
 
 ###### ARTÍCULO 198.
 
@@ -1675,7 +1681,7 @@ Para proceder penalmente por los delitos previstos en este Capítulo, será nece
 
 ### CAPÍTULO IV. PROVOCACIÓN DE UN DELITO O APOLOGÍA DE ÉSTE O DE ALGÚN VICIO
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 207.
 
@@ -1721,7 +1727,7 @@ Cuando no sea posible determinar con precisión la edad de la víctima, el juez 
 
 Si además de los delitos previstos en este Capítulo resultase cometido otro, se aplicarán las reglas de la acumulación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, D.O. 23 DE JULIO DE 2008)</small>
 
@@ -1737,7 +1743,7 @@ Al que emplee a menores de dieciocho años de edad o incapaces en cantinas, bare
 
 Para los efectos del párrafo anterior se considerará como empleado al menor de dieciocho años o incapaz, que por la sola obtención de alimentos, por comisión de cualquier índole o gratuitamente, preste sus servicios en tal lugar.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, D.O. 23 DE JULIO DE 2008)</small>
 
@@ -1747,7 +1753,7 @@ A quien promueva, publicite, invite, facilite o gestione por cualquier medio, qu
 
 Las mismas sanciones se impondrán a quien realice las acciones a que se refiere el párrafo anterior, con el fin de que persona o personas viajen al interior o exterior del territorio del Estado y que tenga como propósito, que dichas personas tengan relaciones sexuales con menores de dieciocho años de edad.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, D.O. 23 DE JULIO DE 2008)</small>
 
@@ -1797,7 +1803,7 @@ A quien cometa el delito de lenocinio se le impondrá de uno a siete años de pr
 
 Si el delincuente fuera ascendiente, descendiente, cónyuge, concubinario, concubina, hermano, tutor, curador o tuviere cualquier otra autoridad sobre la persona explotada, la prisión será de dos a ocho años y de veinte a ciento sesenta días-multa. Además será privado de todo derecho de familia sobre la persona y bienes de aquella e inhabilitado para desempeñar en todo caso la patria potestad, la tutela y la curatela.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
 
@@ -1851,7 +1857,7 @@ El delito de Trata de Personas se perseguirá de oficio y se regirá por lo esta
 
 ### CAPÍTULO II. SUSTRACCIÓN DE MENORES
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 14 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 14 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 217.
 
@@ -1889,7 +1895,7 @@ A quien dolosamente se coloque en estado de insolvencia con el objeto de eludir 
 
 ### CAPÍTULO V. MATRIMONIOS ILEGALES
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 14 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 14 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 223.
 
@@ -1923,7 +1929,7 @@ Cuando en la comisión del delito no exista el consentimiento a que se refiere e
 
 A quienes teniendo el ejercicio de los derechos de familia en relación con el ofendido cometan el delito a que se refiere este artículo, además de las sanciones señaladas se les privará de ese derecho.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, D.O. 23 DE JULIO DE 2008)</small>
 
@@ -1931,7 +1937,7 @@ Cuando a consecuencia del tráfico del menor, éste resulte afectado en su integ
 
 ### CAPÍTULO VII. VIOLENCIA FAMILIAR
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 21 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 21 DE SEPTIEMBRE DE 2009)</small>
 
 ###### ARTÍCULO 225.
 
@@ -1977,7 +1983,7 @@ En el caso de incesto cometido por el descendiente o por los hermanos la sanció
 
 En ambos casos se privará al infractor de sus derechos de familia.
 
-> <small>(REFORMADA SU DENOMINACION, D.O. 21 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 21 DE SEPTIEMBRE DE 2009)</small>
 
 ### CAPÍTULO II. ALLANAMIENTO DE MORADA
 
@@ -2045,7 +2051,7 @@ DELITOS CONTRA LA PAZ, LA SEGURIDAD Y LAS GARANTÍAS DE LAS PERSONAS
 
 ### CAPÍTULO V. DELITO CONTRA LA INTIMIDAD PERSONAL
 
-> <small>(REFORMADO [N . DE E. ADICIONADO], D.O. 11 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 11 DE SEPTIEMBRE DE 2012)</small>
 
 ARTÍCULO 243 BIS 2. Se sancionará con prisión de seis meses a cinco años, al que para conocer asuntos relacionados con la intimidad de una persona o con la finalidad de causarle perjuicio o daño, y sin consentimiento de ésta o sin autorización de autoridad competente, en su caso, usando cualquier medio, realice las conductas siguientes:
 
@@ -2065,9 +2071,9 @@ Si la información obtenida se hace del conocimiento de terceros la sanción se 
 
 La amenaza consiste en hechos concretos capaces de producir un estado de inquietud o de inseguridad en el disfrute de los derechos protegidos por las leyes durante un lapso prolongado, en cuanto aquéllos impliquen el anuncio de un mal cierto y posible pero siempre futuro.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 7 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 7 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 234.
 
@@ -2125,7 +2131,7 @@ Las mismas sanciones se aplicarán a quienes en iguales condiciones a las que se
 
 ### CAPÍTULO I. VAGANCIA Y MALVIVENCIA
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 237.
 
@@ -2177,13 +2183,13 @@ Si el agente pone en libertad a la persona plagiada espontáneamente, dentro de 
 
 ARTÍCULO 243 BIS 1. Este Capítulo, es aplicable en todo lo que no contravenga a lo dispuesto por la Ley General para prevenir y sancionar los Delitos en Materia de Secuestros, reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O. 23 DE JULIO DE 2008)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 23 DE JULIO DE 2008)</small>
 
 ### CAPÍTULO II. PRESTACIÓN INDEBIDA O ABANDONO DE UN SERVICIO PÚBLICO
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 14 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 14 DE NOVIEMBRE DE 2011)</small>
 
 ### CAPÍTULO III. ABUSO DE AUTORIDAD
 
@@ -2215,15 +2221,15 @@ Se impondrá prisión de uno a seis años y de cincuenta a doscientos días-mult
 
 La misma sanción a que se refiere el párrafo anterior se aplicará a quien a sabiendas, permita, induzca, o auspicie la venta ilícita de bebidas alcohólicas así como a quien permita, auspicie, induzca, ordene o realice la venta de bebidas alcohólicas o las distribuya a las personas a que se refiere el párrafo siguiente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, D.O. 23 DE JULIO DE 2008)</small>
 
 Las sanciones a que se refiere el primer párrafo de este artículo se duplicarán cuando el delito de venta o distribución ilícita de bebidas alcohólicas se cometa de manera reiterada, o la venta se realice a menores de dieciocho años aun cuando ésta se efectúe en los establecimientos y horarios autorizados.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(DEROGADO CUARTO PARRAFO, D.O. 7 DE DICIEMBRE DE 2010)</small>
+> <small>(DEROGADO CUARTO PÁRRAFO, D.O. 7 DE DICIEMBRE DE 2010)</small>
 
 Al servidor público que realice, encubra o favorezca la venta o distribución ilegal de bebidas alcohólicas se le aplicarán las sanciones a que se refiere el primer párrafo de este artículo, las que podrán ser duplicadas.
 
@@ -2231,21 +2237,21 @@ Se considera ilícita la venta o distribución de bebidas alcohólicas:
 
 I. Cuando se realice sin contar con la autorización o determinación que para ello establezcan las leyes y reglamentos aplicables;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 II. (DEROGADA, D.O. 7 DE DICIEMBRE DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 III. (DEROGADA, D.O. 7 DE DICIEMBRE DE 2010)
 
 IV. Cuando se expendan o suministren para el consumo humano directo, bebidas que contengan alcohol etílico en proporción mayor al cincuenta y cinco por ciento en volumen.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(DEROGADO ULTIMO PARRAFO, D.O. 7 DE DICIEMBRE DE 2010)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O. 7 DE DICIEMBRE DE 2010)</small>
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 246.
 
@@ -2393,9 +2399,9 @@ A quien cometa el delito de tráfico de influencias, se le impondrá de tres mes
 
 ### CAPÍTULO III. CALUMNIA
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 7 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 7 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 263.
 
@@ -2477,7 +2483,7 @@ RESPONSABILIDAD PROFESIONAL
 
 ### CAPÍTULO I. HOSTIGAMIENTO SEXUAL
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
 
@@ -2491,21 +2497,21 @@ II. Estarán obligados a la reparación del daño por sus propios actos y por lo
 
 ### CAPÍTULO II. ABUSO SEXUAL
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 14 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 14 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 270.
 
 Se impondrá sanción de seis meses a cinco años de prisión, de cien a trescientos días-multa, estarán obligados a la reparación del daño causado por su acto u omisión y, suspensión de tres meses a un año, a los médicos que habiendo otorgado responsiva para hacerse cargo de la atención de un lesionado o enfermo, sin causa justificada y sin aviso oportuno, lo abandonen en su tratamiento o en casos urgentes, así como al facultativo que se negare sin causa justificada a prestar sus servicios a una persona que los necesitare.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 271.
 
 (DEROGADO, D.O. 7 DE DICIEMBRE DE 2010)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 7 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 7 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 272.
 
@@ -2599,7 +2605,7 @@ Se impondrá prisión de uno a cinco años y de diez a cien días-multa, a quien
 
 ### CAPÍTULO V. DISPOSICIONES COMUNES
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 8 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 8 DE ABRIL DE 2011)</small>
 
 ###### ARTÍCULO 281.
 
@@ -2697,7 +2703,7 @@ Lo prevenido en esta fracción no comprende los casos en que la parte sea examin
 
 VI. Siendo autoridad, rinda a otra informes en los que afirme una falsedad o niegue u oculte la verdad, en todo o en parte.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
 
@@ -2721,7 +2727,7 @@ II. Fundado en documentos o testigos falsos a sabiendas de que los son, proporci
 
 ### CAPÍTULO II. ABUSO DE CONFIANZA
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
 
@@ -2781,7 +2787,7 @@ Cuando las injurias fueren recíprocas el Juez podrá, según las circunstancias
 
 La difamación consiste en comunicar dolosamente a una o más personas, la imputación que se hace a otra persona física o moral, de un hecho cierto o falso, determinado o indeterminado, que pueda causarle deshonra o afecte su reputación.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
 
@@ -2807,9 +2813,9 @@ III. Siendo el autor de un escrito presentado o de un discurso pronunciado en lo
 
 Lo prevenido en la fracción III de este artículo no comprende el caso en que, cuando la imputación sea calumniosa, se extienda a personas extrañas al litigio o envuelva hechos que no se relacionan con el negocio de que se trata. Si así fuere, se aplicarán las sanciones correspondientes a los delitos de difamación o calumnia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 7 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 7 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 298.
 
@@ -2831,7 +2837,7 @@ II. Presente denuncias o querellas calumniosas, entendiéndose por tales, aquél
 
 III. Para hacer que un inocente aparezca como inculpado de un delito, ponga sobre la persona del calumniado, en su casa o en otro lugar adecuado para ese fin, una cosa que pueda dar indicios o presunciones de responsabilidad.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
 
@@ -2873,7 +2879,7 @@ No servirá de excusa de la difamación o de la calumnia, que el hecho imputado 
 
 Comete el delito de chantaje el que para obligar a otro a hacer, tolerar o dejar de hacer alguna cosa contra sus propios bienes jurídicos o a entregarle dinero o cualquier otro objeto, amenace con difamarlo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
 
@@ -2913,19 +2919,19 @@ A quien sin consentimiento de una persona y sin el propósito de llegar a la có
 
 Si hiciere uso de la violencia física o moral, el mínimo y el máximo de las sanciones se aumentarán en una mitad.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, D.O. 23 DE JULIO DE 2008)</small>
 
 A quien obligue a tener sexo oral a cualquier persona por medio de la violencia física o moral, se le impondrá una sanción de cuatro a diez años de prisión y de cien a trescientos días-multa.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, D.O. 23 DE JULIO DE 2008)</small>
 
 Cuando la conducta prevista en el párrafo anterior se cometa en perjuicio de un menor de doce años, persona privada de razón o sentido, o de quien no tenga la capacidad para comprender el significado del hecho, o que por cualquier causa no pueda resistirlo, la sanción se incrementará en una mitad.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
 
@@ -2959,9 +2965,9 @@ Se aplicará la misma sanción al que introduzca por la vía vaginal o anal cual
 
 La violación entre cónyuges o entre concubina o concubinario únicamente se perseguirá por querella.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 23 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 23 DE JULIO DE 2008)</small>
 
 ###### ARTÍCULO 315.
 
@@ -3007,19 +3013,19 @@ Cuando se hable de salario en este Título, se entenderá que se refiere al mín
 
 ### CAPÍTULO VIII. INSEMINACIÓN ARTIFICIAL
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, D.O. 23 DE JULIO DE 2008)</small>
 
 ARTÍCULO 394 BIS. Al que sin consentimiento de una mujer de dieciocho años o más, o tratándose de una menor de esa edad o incapaz, con o sin su consentimiento, practique en ella inseminación artificial, se le aplicará prisión de dos a seis años. Si como resultado de la conducta se produce embarazo, se impondrá prisión de tres a ocho años.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, D.O. 23 DE JULIO DE 2008)</small>
 
 ARTÍCULO 394 TER. Si la inseminación se realiza con violencia se incrementará la sanción correspondiente en una mitad.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O. 8 DE ABRIL DE 2011)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 8 DE ABRIL DE 2011)</small>
 
 ###### ARTÍCULO 318.
 
@@ -3051,7 +3057,7 @@ II. Al depositario designado por las autoridades competentes, que disponga de la
 
 III. A quien haga aparecer como suyo un depósito que garantice la libertad caucional de un inculpado y no le corresponda la propiedad de dicho depósito.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, D.O. 23 DE JULIO DE 2008)</small>
 
@@ -3151,13 +3157,13 @@ XXII. Siendo patrón, dolosamente simule créditos o cualquier otra obligación 
 
 El delito de fraude se sancionará de acuerdo con las siguientes reglas:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, D.O. 7 DE DICIEMBRE DE 2010)</small>
 
 I. Cuando el valor de lo defraudado no exceda de cien veces el salario, se impondrá de seis meses a un año seis meses de prisión o de cuarenta a cien días-multa y de cuarenta a cien días de trabajo en favor de la comunidad;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 II. (DEROGADA, D.O. 7 DE DICIEMBRE DE 2010)
 
@@ -3227,7 +3233,7 @@ Se considera lucro excesivo la obtención de ganancias superiores a la tasa de i
 
 Si el sujeto activo reparare el daño, las sanciones a que se refiere el primer párrafo de este artículo serán hasta de una mitad del mínimo y máximo que correspondiere imponer.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
 
@@ -3245,7 +3251,7 @@ II. Ocupe un inmueble de su propiedad que se halle en poder de otra persona por 
 
 Si el despojo se efectúa por dos o más personas o con violencia, se aumentarán hasta en una mitad las penas señaladas, pero a los autores intelectuales, o a quienes dirijan el despojo se les aplicará prisión de uno a seis años y de diez a sesenta días-multa.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
 
@@ -3289,7 +3295,7 @@ IV. Cuando exceda de ochocientas veces el salario, la sanción será de siete a 
 
 Para estimar la cuantía del robo, se atenderá únicamente al valor intrínseco de la cosa robada.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
 
@@ -3297,7 +3303,7 @@ Si ésta no fuere estimable en dinero o por su naturaleza no fuere posible fijar
 
 En los casos de tentativa de robo cuando no fuere posible determinar el monto, la sanción será de tres meses a cuatro años de prisión.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 14 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 14 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 335.
 
@@ -3317,7 +3323,7 @@ VI. Se lleve a cabo durante un incendio, naufragio, inundación u otra calamidad
 
 VII. Se realice de noche, llevando armas, con fractura, excavación o escalamiento sean los ladrones dos o más;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, D.O. 23 DE JULIO DE 2008)</small>
 
@@ -3421,7 +3427,7 @@ VI.- Se ejecute con arma de fuego, aun cuando no se haga uso de ella, y
 
 VII.- Se ejecute por persona o personas que fueren o simulen ser miembros de algún cuerpo de seguridad pública o de alguna otra autoridad de algún orden de gobierno.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 14 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 14 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 341.
 
@@ -3445,7 +3451,7 @@ I. Cuando sin engaños ni medios violentos, se apodere una sola vez de los objet
 
 II. Cuando el valor de lo robado no rebase de diez veces el salario, sea restituido por el responsable espontáneamente y pague éste todos los daños y perjuicios, siempre que no se haya ejecutado el robo por medio de violencia.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 14 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 14 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 345.
 
@@ -3495,9 +3501,9 @@ Para la aplicación de las sanciones establecidas en este precepto y en los sigu
 
 Cuando el dueño de una cosa la incendie para defraudar a sus acreedores, para perjudicar a un tercero o para exigir indemnización por el incendio, se le impondrán las sanciones expresadas en el artículo que precede y además de las que correspondan al fraude en su respectivo grado.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 7 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 7 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 350.
 
@@ -3505,13 +3511,11 @@ Cuando por cualquier medio distinto de los anteriores, se causen daños, destruc
 
 En los casos de daño, destrucción o deterioro de cosa ajena o de cosa propia en perjuicio de tercero causado por animales de cualquier especie, se impondrán las sanciones prevenidas en este artículo, a los que tengan bajo su vigilancia y cuidado a tales animales, sean o no los dueños, siempre que haya dolo. Si los daños se cometieren por culpa del activo, se aplicarán las sanciones previstas para los delitos culposos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, D.O. 2 DE MAYO DE 2013)</small>
 
-Se equipara al daño en propiedad ajena y se impondrán las sanciones del robo simple, a quien sin causa justificada y dolosamente ocasione la muerte o cualquier otra afectación física de un animal que sea propiedad de un tercero o esté bajo la posesión de éste.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, D.O. 7 DE DICIEMBRE DE 2010)</small>
 
@@ -3529,6 +3533,12 @@ Los delitos previstos en este Título se perseguirán por querella de la parte o
 
 Igualmente, se requerirá querella para la persecución de terceros que hubiesen incurrido en la ejecución del delito con los sujetos a que se refiere el párrafo anterior. Si se cometiere algún otro hecho que por sí solo constituya un delito, se aplicará la sanción que para éste señale la Ley.
 
+## TÍTULO VIGÉSIMO TERCERO. DELITOS CONTRA LOS ANIMALES DOMÉSTICOS
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 2 DE MAYO DE 2013)</small>
+
 ### CAPÍTULO VII. DELITOS EN QUE PUEDEN INCURRIR LOS DIPUTADOS Y REGIDORES ELECTOS
 
 ###### ARTÍCULO 352.
@@ -3539,9 +3549,9 @@ A quien abandone a un niño incapaz de cuidarse a sí mismo o a una persona enfe
 
 A quien encuentre abandonado en cualquier sitio a un menor incapaz de cuidarse a sí mismo o a una persona herida, inválida o amenazada de un peligro cualquiera y no diere aviso inmediato a la autoridad u omitiere prestarle el auxilio necesario, cuando pudiere hacerlo sin riesgo personal, se le impondrá de uno a seis meses de prisión o de diez a cien días-multa.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 7 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 7 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 354.
 
@@ -3599,7 +3609,7 @@ Si durante el procedimiento y hasta antes de que sea dictada la sentencia defini
 
 Si se produjeren varios de los resultados previstos en los artículos anteriores, solamente se aplicarán las sanciones correspondientes al de mayor gravedad.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O. 14 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 14 DE NOVIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 365.
 
@@ -3614,6 +3624,12 @@ Si las lesiones fueren inferidas en riña, se impondrán al responsable como san
 ###### ARTÍCULO 367.
 
 Cuando concurra una sola de las circunstancias a que se refiere el artículo 378 de este Código y la lesión fuere simple, se aumentará hasta en un tercio la sanción que correspondería; cuando concurran dos o más de dichas circunstancias, se aumentará la pena hasta en dos terceras partes.
+
+### CAPÍTULO ÚNICO. MALTRATO O CRUELDAD EN CONTRA DE ANIMALES DOMÉSTICOS
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O. 2 DE MAYO DE 2013)</small>
 
 ###### ARTÍCULO 368.
 
@@ -3731,7 +3747,7 @@ II. Siendo padre o madre lesione o prive de la vida al corruptor de alguno de su
 
 De las lesiones o muerte que a una persona cause algún animal, será responsable quien con esa intención lo azuce o lo suelte o haga esto último por descuido.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
 > <small>(ADICIONADO, D.O. 23 DE JULIO DE 2008)</small>
 
@@ -3803,9 +3819,9 @@ V. Cuando se practique con el consentimiento de la madre y del padre en su caso 
 
 A quien prive de la vida a su ascendiente o descendiente consanguíneo en línea recta, hermano, cónyuge, concubina o concubinario, adoptante o adoptado, con conocimiento de esa relación, se le impondrá prisión de treinta a cuarenta años y será privado de todo derecho de familia sobre los bienes de aquella persona y bienes de aquella e inhabilitado para desempeñar en todo caso la patria potestad, la tutela y la curatela. Si faltare dicho conocimiento, se estará a la punibilidad prevista en el artículo 372 de este Código, sin menoscabo de observar alguna circunstancia que agrave o atenúe las sanciones a que se refieren los capítulos III y IV anteriores.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VER ARTICULO UNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O. 23 DE JULIO DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 23 DE JULIO DE 2008)</small>
 
 ###### ARTÍCULO 395.
 
@@ -3939,6 +3955,56 @@ En cualquiera de los casos señalados en las fracciones anteriores, el juez podr
 
 Lo dispuesto en el artículo anterior se aplicará sin perjuicio de las medidas y sanciones administrativas que establezcan las leyes correspondientes.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, D.O. 2 DE MAYO DE 2013)</small>
+
+###### ARTÍCULO 406.
+
+Para efectos de este Capítulo, se entenderá por animal doméstico a todo aquel que ha sido criado y condicionado para acompañar al ser humano en su convivencia diaria.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O. 2 DE MAYO DE 2013)</small>
+
+###### ARTÍCULO 407.
+
+Comete el delito de maltrato o crueldad en contra de animales domésticos quien intencionalmente:
+
+I.- Cause la muerte a un animal doméstico, sin previo dictamen por escrito de un médico veterinario que justifique la necesidad del sacrificio para evitar el sufrimiento del animal de que se trate o emplee métodos distintos a los establecidos en las normas oficiales mexicanas y en las normas ambientales aplicables;
+
+II.- Realice cualquier mutilación, alteración de la integridad física o modificación negativa de los instintos naturales de un animal doméstico, sin causa justificada o sin la supervisión de un especialista o persona que cuente con conocimientos técnicos en la materia;
+
+III.- Prive a un animal doméstico de aire, luz, alimento, agua, espacio, abrigo contra la intemperie, cuidados médicos o alojamiento adecuado, acorde a su especie, que cause o pueda causarle daño;
+
+IV.- Abandone a un animal doméstico o lo desatienda por períodos prolongados que comprometan el bienestar del mismo;
+
+V.- Realice cualquier acto u omisión que ponga en peligro la vida del animal doméstico, o
+
+VI.- Realice actos de zoofilia con animales domésticos.
+
+Siempre que existan actos de maltrato o crueldad hacia animales domésticos, la autoridad ministerial o judicial podrá decretar el aseguramiento temporal del animal doméstico maltratado, así como de todos aquellos que pudiera tener bajo su cuidado o resguardo el sujeto activo del delito, en términos de lo dispuesto por el artículo 61 Bis de éste Código.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O. 2 DE MAYO DE 2013)</small>
+
+###### ARTÍCULO 408.
+
+A quien cometa actos de maltrato o crueldad en contra de animales domésticos, que no pongan en peligro la vida éste, se le impondrá una pena de 3 meses a 1 año de prisión y de cincuenta a cien días-multa.
+
+Si los actos de maltrato o crueldad ponen en peligro la vida del animal doméstico; le provocan una incapacidad parcial o total permanente; disminuyen alguna de sus facultades, o el normal funcionamiento de un órgano o miembro, la pena señalada se incrementará hasta en una mitad.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O. 2 DE MAYO DE 2013)</small>
+
+###### ARTÍCULO 409.
+
+A quien cometa actos de maltrato o crueldad en contra de un animal doméstico, que le provoquen la muerte, se le impondrá la pena de 6 meses a 2 años de prisión y de doscientos a cuatrocientos días-multa.
+
+En caso de que se haga uso de métodos que provoquen un grave sufrimiento al animal doméstico previo a su muerte, las penas se aumentarán en una mitad. Se entenderá por métodos que provocan un grave sufrimiento, todos aquellos que lleven a una muerte no inmediata y prolonguen la agonía de éste.
+
 ## ARTÍCULOS TRANSITORIOS
 
 PRIMERO. Este Código entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
@@ -4066,3 +4132,9 @@ D.O. 11 DE SEPTIEMBRE DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 2 DE MAYO DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor a los 30 días naturales siguientes al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
