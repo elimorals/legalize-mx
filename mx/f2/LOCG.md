@@ -4,7 +4,7 @@ identifier: "LOCG"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-09-03"
-last_updated: "2013-04-02"
+last_updated: "2013-05-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14771&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOCG"
 
 LEY ORGÁNICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE MAYO DE 2013.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 3 de septiembre de 1999.
 
@@ -576,111 +576,219 @@ e) Las demás que se derivan de esta ley y de los ordenamientos relativos.
 
 1. Las Comisiones son órganos constituidos por el Pleno, que a través de la elaboración de dictámenes, informes, opiniones o resoluciones, contribuyen a que la Cámara cumpla sus atribuciones constitucionales y legales.
 
-> <small>(REFORMADO, D.O.F. 17 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE MAYO DE 2013)</small>
 
-2. La Cámara de Diputados contará con las comisiones ordinarias y especiales que requiera para el cumplimiento de sus funciones. Las comisiones ordinarias serán:
+2. La Cámara de Diputados contará con las comisiones ordinarias y especiales que requiera para el cumplimiento de sus funciones.
+
+> <small>(ADICIONADO, D.O.F. 2 DE MAYO DE 2013)</small>
+
+Las comisiones ordinarias serán:
+
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
 
 I. Agricultura y Sistemas de Riego;
 
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
+
 II. Agua Potable y Saneamiento;
+
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
 
 III. Asuntos Frontera Norte;
 
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
+
 IV. Asuntos Frontera Sur-Sureste;
+
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
 
 V. Asuntos Indígenas;
 
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
+
 VI. Asuntos Migratorios;
+
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
 
 VII. Atención a Grupos Vulnerables;
 
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
+
 VIII. Cambio Climático;
+
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
 
 IX. Ciencia y Tecnología;
 
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
+
 X. Competitividad;
+
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
 
 XI. Comunicaciones;
 
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
+
 XII. Cultura y Cinematografía;
+
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
 
 XIII. Defensa Nacional;
 
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
+
 XIV. Deporte;
+
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
 
 XV. Derechos de la Niñez;
 
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
+
 XVI. Derechos Humanos;
+
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
 
 XVII. Desarrollo Metropolitano;
 
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
+
 XVIII. Desarrollo Municipal;
+
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
 
 XIX. Desarrollo Rural;
 
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
+
 XX. Desarrollo Social;
+
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
 
 XXI. Desarrollo Urbano y Ordenamiento Territorial;
 
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
+
 XXII. Economía;
+
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
 
 XXIII. Educación Pública y Servicios Educativos;
 
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
+
 XXIV. Energía;
 
-XXV. Equidad y Género;
+> <small>(REFORMADA, D.O.F. 2 DE MAYO DE 2013)</small>
 
-XXVI. Fomento Cooperativo y Economía Social;
+XXV. Fomento Cooperativo y Economía Social;
 
-XXVII. Fortalecimiento al Federalismo;
+> <small>(REFORMADA, D.O.F. 2 DE MAYO DE 2013)</small>
 
-XXVIII. Ganadería;
+XXVI. Fortalecimiento al Federalismo;
 
-XXIX. Gobernación;
+> <small>(REFORMADA, D.O.F. 2 DE MAYO DE 2013)</small>
 
-XXX. Hacienda y Crédito Público;
+XXVII. Ganadería;
+
+> <small>(REFORMADA, D.O.F. 2 DE MAYO DE 2013)</small>
+
+XXVIII. Gobernación;
+
+> <small>(REFORMADA, D.O.F. 2 DE MAYO DE 2013)</small>
+
+XXIX. Hacienda y Crédito Público;
+
+> <small>(REFORMADA, D.O.F. 2 DE MAYO DE 2013)</small>
+
+XXX. Igualdad de Género;
+
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
 
 XXXI. Infraestructura;
 
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
+
 XXXII. Justicia;
+
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
 
 XXXIII. Juventud;
 
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
+
 XXXIV. Marina;
+
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
 
 XXXV. Medio Ambiente y Recursos Naturales;
 
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
+
 XXXVI. Pesca;
+
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
 
 XXXVII. Población;
 
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
+
 XXXVIII. Presupuesto y Cuenta Pública;
+
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
 
 XXXIX. Protección Civil;
 
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
+
 XL. Puntos Constitucionales;
+
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
 
 XLI. Radio y Televisión;
 
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
+
 XLII. Recursos Hidráulicos;
+
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
 
 XLIII. Reforma Agraria;
 
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
+
 XLIV. Relaciones Exteriores;
+
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
 
 XLV. Salud;
 
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
+
 XLVI. Seguridad Pública;
+
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
 
 XLVII. Seguridad Social;
 
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
+
 XLVIII. Trabajo y Previsión Social;
+
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
 
 XLIX. Transparencia y Anticorrupción;
 
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
+
 L. Transportes;
 
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
+
 LI. Turismo, y
+
+> <small>(REFORMADA, D.O.F. 17 DE OCTUBRE DE 2012)</small>
 
 LII. Vivienda.
 
@@ -2209,3 +2317,9 @@ D.O.F. 24 DE DICIEMBRE DE 2012.
 D.O.F. 2 DE ABRIL DE 2013.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 2 DE MAYO DE 2013.
+
+PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Todos los asuntos turnados a la actual Comisión de Equidad y Género de la Cámara de Diputados, se entenderán remitidos a la Comisión de Igualdad de Género.
