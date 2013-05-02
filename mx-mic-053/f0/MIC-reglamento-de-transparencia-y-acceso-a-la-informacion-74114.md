@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-de-transparencia-y-acceso-a-la-informacion-74114"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-03-26"
-last_updated: "2010-03-26"
+last_updated: "2013-05-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74114&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL MUNICIPIO DE MORELIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2013.
 
 Reglamento publicado en la Cuarta Sección del Periódico Oficial del Estado de Michoacán, el viernes 26 de marzo del 2010.
 
@@ -113,15 +113,17 @@ REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL MUNICIPIO DE
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-###### Artículo 1º.
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2013)</small>
+
+###### Artículo 1°.
 
 El presente Reglamento es de orden e interés público, observancia general y tiene por objeto:
 
-I. Proteger, promover y garantizar a toda persona el derecho de acceso a la información pública, creada, administrada y/o en posesión del Municipio de Morelia, Michoacán;
+I. Proteger y garantizar a toda persona el derecho de acceso a la información pública, creada, administrada y/o en posesión del Ayuntamiento de Morelia, Michoacán;
 
-II. Proteger y garantizar los datos personales, de carácter personal y sensibles en posesión del Municipio de Morelia, Michoacán; y,
+II. Proteger y garantizar los datos personales, de carácter personal y sensibles en posesión del Ayuntamiento de Morelia, Michoacán; y,
 
-III. Promover la cultura de la transparencia y rendición de las dependencias y entidades que conforman la Administración Pública del Ayuntamiento de Morelia, Michoacán.
+III. Promover la cultura de la transparencia, el derecho de acceso a la información pública, la protección de datos personales, de carácter personal y sensibles, así como la rendición de cuentas de las dependencias, entidades, unidades administrativas, órganos administrativos desconcentrados y organismos descentralizados municipales que conforman la Administración Pública del Ayuntamiento de Morelia, Michoacán.
 
 ###### Artículo 2º.
 
@@ -149,11 +151,17 @@ La pérdida, destrucción, alteración u ocultamiento de la información públic
 
 Para los efectos de este Reglamento, se entenderá por:
 
-I. ADMINISTRACIÓN PÚBLICA: Al Ayuntamiento de Morelia, sus dependencias, entidades, unidades administrativas, órganos administrativos desconcentrados y organismos descentralizados municipales, previstas en el artículo 60 del Bando de Gobierno Municipal de Morelia y del Reglamento de la Organización Pública Municipal de Morelia;
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2013)</small>
 
-II. AUTODETERMINACIÓN INFORMATIVA: Es el derecho de las personas de determinar el uso y destino de su información de carácter personal y sensible;
+I. ADMINISTRACIÓN PÚBLICA. Al Ayuntamiento de Morelia, sus dependencias, entidades, unidades administrativas, órganos administrativos desconcentrados y organismos descentralizados municipales, previstas en el artículo 60 del Bando de Gobierno Municipal de Morelia y del Reglamento de Organización de la Administración Pública del Municipio de Morelia, Michoacán;
 
-III. AYUNTAMIENTO: El Ayuntamiento de Morelia, Michoacán;
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2013)</small>
+
+II. AUTODETERMINACIÓN INFORMATIVA: Es el derecho de las personas de determinar el uso y destino de su información personal, de carácter personal y sensible;
+
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2013)</small>
+
+III. AYUNTAMIENTO: El Ayuntamiento de Morelia, Michoacán. Cuando se haga referencia al Ayuntamiento, se entenderá incluida a la administración pública;
 
 IV. CENTRO MUNICIPAL DE INFORMACIÓN PÚBLICA (CEMUNIP): La oficina donde se concentra la Información Pública del Municipio de Morelia, para ser procesada y puesta a disposición de quien la requiera en los términos del presente Reglamento;
 
@@ -173,13 +181,21 @@ XI. DERECHO DE ACCESO A LA INFORMACIÓN PÚBLICA: La prerrogativa que tiene toda
 
 XII. DERECHO DE PROTECCIÓN DE DATOS: Derecho de toda persona física para pedir la debida protección y controlar el uso de sus datos personales, de carácter personal y sensible, que se encuentren en posesión de los sujetos obligados. Este derecho incluye las facultades de acceso, rectificación, oposición y cancelación de tales datos;
 
-XIII. INFORMACIÓN CONFIDENCIAL: La que se encuentra en posesión del Comité relativa a las personas, protegida por el derecho fundamental a la privacidad;
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2013)</small>
 
-XIV. INFORMACIÓN DE ACCESO RESTRINGIDO: La que se encuentra en posesión del Comité bajo las figuras de reserva o confidencialidad;
+XIII. INFORMACIÓN CONFIDENCIAL: La que se encuentra en posesión del Ayuntamiento relativa a las personas, protegida por el derecho fundamental a la privacidad;
 
-XV. INFORMACIÓN DE OFICIO: La información de carácter general que obligatoriamente debe publicar el Comité, a través del Centro Municipal de Información Pública;
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2013)</small>
 
-XVI. INFORMACIÓN PÚBLICA: El registro, archivo o cualquier dato que se recopile, mantenga, procese o se encuentre en posesión del Comité;
+XIV. INFORMACIÓN DE ACCESO RESTRINGIDO: La que se encuentra en posesión del Ayuntamiento bajo las figuras de reserva o confidencialidad;
+
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2013)</small>
+
+XV. INFORMACIÓN DE OFICIO: La información de carácter general que obligatoriamente debe publicar el Ayuntamiento, a través del Comité y del Centro Municipal de Información Pública;
+
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2013)</small>
+
+XVI. INFORMACIÓN PÚBLICA: El registro, archivo o cualquier dato que se recopile, mantenga, procese o se encuentre en posesión del Ayuntamiento;
 
 XVII. INFORMACIÓN RESERVADA: La que se encuentra temporalmente sujeta a alguna de las excepciones previstas en este Reglamento o en la Ley de la materia;
 
@@ -191,7 +207,9 @@ XX. PERSONA: Las personas físicas o morales en pleno ejercicio de sus derechos;
 
 XXI. PRESIDENTE: Al Presidente Municipal de Morelia;
 
-XXII. PRINCIPIO DE PUBLICIDAD: El principio en virtud del cual toda la información que emana de la administración pública es de carácter público, por lo cual el Ayuntamiento de Morelia y el Comité deberán garantizar una organización interna que sistematice la información, para brindar acceso a las personas y también para su divulgación;
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2013)</small>
+
+XXII. PRINCIPIO DE MÁXIMA PUBLICIDAD: La obligación del Ayuntamiento de poner a disposición de la sociedad toda la información relevante sobre su estructura, atribuciones, estrategias, evaluaciones y decisiones, por lo que se deberá garantizar su divulgación permanente y adecuado acceso a las personas;
 
 XXIII. REGLAMENTO: El Reglamento de Transparencia y Acceso a la Información Pública del Municipio de Morelia;
 
@@ -203,11 +221,13 @@ XXVI. TESORERÍA: A la Tesorería Municipal;
 
 ### CAPÍTULO II. DE LA INFORMACIÓN DE OFICIO
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2013)</small>
+
 ###### Artículo 5°.
 
-El titular del Centro Municipal de Información Pública será el responsable de compilar sistemáticamente en medios electrónicos la Información de Oficio, entre las dependencias, entidades y unidades que la tengan a su resguardo, para su adecuada y oportuna difusión.
+El titular del Centro Municipal de Información Pública será el responsable de compilar sistemáticamente en medios electrónicos la información de oficio del Ayuntamiento entre las dependencias, entidades, unidades administrativas, órganos administrativos desconcentrados y organismos descentralizados municipales que la tengan bajo su resguardo, para su adecuada y oportuna difusión.
 
-En los casos en que la información resida en diferentes dependencias, entidades y unidades, se solicitara a cada una de ellas concentrar la información y entregarla oportunamente al Centro Municipal de Información Pública del Ayuntamiento de Morelia.
+En los casos en que la información resida en diferentes dependencias, entidades, unidades, órganos u organismos de la Administración Pública, se solicitará a cada una de ellas concentrar la información y entregarla oportunamente al Centro Municipal de Información Pública.
 
 ###### Artículo 6º.
 
@@ -221,9 +241,13 @@ III. El directorio de servidores públicos, desde el nivel de jefe de departamen
 
 IV. La remuneración mensual integral por puesto, según lo establezcan las disposiciones correspondientes;
 
-V. Las actas, acuerdos, minutas y demás constancias que contengan las discusiones y decisiones emitidos por la Administración Pública Municipal o Paramunicipal;
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2013)</small>
 
-VI. Las opiniones, datos y fundamentos finales contenidos en los expedientes administrativos que justifican el otorgamiento de permisos, concesiones o licencias que la Ley confiere autorizar, así como las contrataciones, licitaciones y los procesos de toda adquisición de bienes o servicios. Tratándose de licencias o concesiones la información deberá contener el nombre o razón social del titular, el concepto de la concesión, autorización o permiso y la vigencia de la misma;
+V. Las actas, acuerdos, minutas y demás constancias que contengan las discusiones y decisiones emitidos por la Administración Pública;
+
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2013)</small>
+
+VI. Las opiniones, datos y fundamentos finales contenidos en los expedientes administrativos que justifican el otorgamiento de permisos, concesiones o licencias que la Ley confiere autorizar; así como las contrataciones, licitaciones y los procesos de todaadquisición (sic) de bienes o servicios. Tratándose de licencias o concesiones la información deberá contener el nombre, denominación o razón social del titular, el concepto de la concesión, autorización o permiso y la vigencia de la misma;
 
 VII. Los manuales de organización y procedimientos, y en general, la base legal que fundamente la actuación de sus dependencias y entidades;
 
@@ -261,11 +285,15 @@ XXI. Los programas de desarrollo municipal y ejecuciones de obras públicas. Tra
 
 XXII. Las Actas y acuerdos del Ayuntamiento.
 
-###### Artículo 7º.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MAYO DE 2013)</small>
 
-La responsabilidad de la veracidad y oportunidad de la información de oficio y la generada por solicitudes explícitas corresponde a los titulares de las dependencias, entidades y unidades administrativas, y por tanto los documentos deberán ser firmados por estos.
+###### Artículo 7°.
 
-Únicamente por circunstancias especiales, el titular de la dependencia, entidad ó unidad administrativa podrá delegar la firma de los documentos, sin que ello lo exima o libere de la responsabilidad correspondiente.
+La responsabilidad de la veracidad y oportunidad de la información de oficio y la generada por solicitudes explícitas corresponde a los miembros del Ayuntamiento y a titulares de las dependencias, entidades, unidades administrativas, órganos administrativos desconcentrados y organismos descentralizados municipales, y por tanto los documentos deberán ser firmados por éstos.
+
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2013)</small>
+
+Únicamente por circunstancias especiales, el titular de la dependencia, entidad, unidad administrativa, órgano administrativo desconcentrado u organismo descentralizado municipal podrá delegarla (sic) firma de los documentos, sin que ello lo exima o libere de la responsabilidad correspondiente.
 
 Las personas físicas y morales de derecho privado o social, a través del sujeto obligado que supervise sus actividades, estarán obligados a entregar la información relacionada con el origen, recepción, administración o aplicación de recursos públicos, y aquella relacionada con actos que pudieran llegar a realizar con el carácter de autoridad.
 
@@ -285,7 +313,9 @@ IV. Reglamentos y manuales de procedimientos.
 
 El ejercicio del derecho de acceso a la información pública sólo será restringido mediante las figuras de reserva o confidencialidad de la información y no podrá ser divulgada, bajo ninguna circunstancia, salvo las excepciones señaladas en la Ley de Transparencia y Acceso a la Información Pública del Estado de Michoacán de Ocampo y del presente Reglamento.
 
-Se considera información reservada la así clasificada mediante acuerdo del Comité Técnico de Transparencia y Acceso a la Información Pública del Ayuntamiento de Morelia, previo dictamen de procedencia emitido por el Instituto de Transparencia y Acceso a la Información Pública del Estado de Michoacán de Ocampo.
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2013)</small>
+
+Se considera información reservada la así clasificadamediante (sic) acuerdo del Comité, previo dictamen de procedencia emitido por el Instituto de Transparencia y Acceso a la Información Pública del Estado de Michoacán de Ocampo.
 
 La clasificación de la información como reservada procede cuando:
 
@@ -303,7 +333,9 @@ VI. Se trate de información correspondiente a documentos o comunicaciones inter
 
 VII. Se trate de información que pueda generar una ventaja personal indebida en perjuicio de un tercero;
 
-VIII. Se trate de información que pueda dañar la estabilidad financiera o económica del Estado; y,
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2013)</small>
+
+VIII. Se trate de información que pueda dañar la estabilidad financiera o económica del Municipio de Morelia; y,
 
 IX. Sea considerada reservada por disposición expresa de una Ley.
 
@@ -311,17 +343,29 @@ IX. Sea considerada reservada por disposición expresa de una Ley.
 
 En caso de que alguna de las áreas de la Administración Pública Municipal considere que un documento debe clasificarse como información reservada o restringida por ser información confidencial o contener datos personales, deberá remitir de inmediato dicha solicitud mediante oficio al Secretario del Ayuntamiento de Morelia, exponiendo los elementos necesarios para fundar y motivar dicha clasificación, así como las razones de tal propuesta; lo anterior para el efecto de que ponga la información Pública a consideración del Comité Técnico de Transparencia y Acceso a la Información Pública del Municipio de Morelia tal hecho, y este último resuelva en términos de Ley.
 
-En caso de que el Comité determine la procedencia de la clasificación, emitirá un acuerdo que clasifique información como reservada, en el cual deberá demostrarse:
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2013)</small>
 
-I. La información encuadra en alguna de las hipótesis de excepción;
+En caso de que el Comité determine la procedencia de la clasificación, emitirá un proyecto de acuerdo que clasifique la información como reservada, en el cual deberá demostrarse:
 
-II. La publicidad de la información puede amenazar el interés protegido por la Ley; y,
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2013)</small>
 
-III. El daño que puede producirse con la publicidad de la información es mayor que el interés público de conocerla.
+I. Que la información encuadra en alguna de las hipótesis de excepción;
 
-El acuerdo que clasifique la información como reservada deberá fundar y motivar el acto concreto, citando la norma en que se apoya su decisión y explicando las circunstancias especiales o razones particulares que se tuvieron en cuenta para su clasificación.
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2013)</small>
 
-Emitido el acuerdo se remitirá juntamente con la solicitud al Instituto de Transparencia y Acceso a la Información Pública del Estado de Michoacán de Ocampo, a fin de que emita el dictamen respectivo.
+II. Que la publicidad de la información puede amenazar el interés protegido por la Ley; y,
+
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2013)</small>
+
+III. Que el daño que puede producirse con la publicidad de la información es mayor que el interés público de conocerla.
+
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2013)</small>
+
+El proyecto de acuerdo que pretenda clasificar la información como reservada deberá fundar y motivar el acto concreto, citando la norma en que se apoya su decisión y explicando las circunstancias especiales o razones particulares que se tuvieron en cuenta para su clasificación.
+
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2013)</small>
+
+Emitido el proyecto de acuerdo se remitirá juntamente con la solicitud al Instituto de Transparencia y Acceso a la Información Pública del Estado de Michoacán de Ocampo, a fin de que emita el dictamen respectivo, que facultará al Comité para expedir el acuerdo de clasificación definitivo.
 
 ###### Artículo 10.
 
@@ -413,9 +457,11 @@ Cuando existan datos de carácter personal que resulten inexactos o incompletos,
 
 La cancelación dará lugar a la suspensión temporal de datos, conservándose únicamente a disposición de los sujetos obligados, para la atención de las posibles responsabilidades originadas del tratamiento, hasta una vez que éstas se hayan resuelto y, en su caso, se proceda a la supresión.
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2013)</small>
+
 ###### Artículo 20.
 
-Si los datos rectificados o cancelados hubieran sido proporcionados previamente, el responsable deberá notificar esta circunstancia al Comité Técnico de Transparencia y Acceso a la Información Pública para que se proceda en consecuencia de acuerdo con las circunstancias especificas del caso.
+Si los datos rectificados o cancelados hubieran sido proporcionados previamente, el responsable deberá notificar esta circunstancia al Comité para que se proceda en consecuencia de acuerdo con las circunstancias específicas del caso.
 
 ###### Artículo 21.
 
@@ -473,15 +519,21 @@ En caso de que los datos requeridos no fuesen localizados en los sistemas de dat
 
 Las solicitudes de acceso a la información y las respuestas que se les den, incluyendo, en su caso, la información entregada, serán públicas. El Centro Municipal de Información Pública pondrá a disposición del público esta información, en la medida de lo posible a través de medios remotos o locales de comunicación electrónica.
 
-### CAPÍTULO VII. DEL COMITÉ TÉCNICO DE ACCESO A LA INFORMACIÓN PÚBLICA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE MAYO DE 2013)</small>
+
+### CAPÍTULO VII. DEL COMITÉ TÉCNICO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA
+
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2013)</small>
 
 ###### Artículo 28.
 
-El Comité Técnico de Acceso a la Información Pública del Municipio de Morelia, es un órgano colegiado con personalidad jurídica para todos los efectos legales a que haya lugar, integrado con servidores públicos municipales del H. Ayuntamiento de Morelia; el cual es creado mediante el Acuerdo de Cabildo de fecha 18 de febrero del año 2004, teniendo como objeto la promoción, instrumentación, operación, difusión e investigación sobre el derecho de acceso a la información pública del Municipio de Morelia.
+El Comité Técnico de Transparencia y Acceso a la Información Pública del Municipio de Morelia, es un órgano colegiado con personalidad jurídica para todos los efectos legales a que haya lugar, integrado con servidores públicos municipales del H. Ayuntamiento de Morelia; el cual es creado mediante el Acuerdo de Cabildo de fecha 18 de febrero del año 2004, teniendo como objeto la promoción, instrumentación, operación, difusión e investigación sobre la transparencia, el derecho de acceso a la información pública, la protección de datos personales, de carácter personal y sensibles, y la rendición de cuentas del Ayuntamiento de Morelia.
+
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2013)</small>
 
 ###### Artículo 29.
 
-El Comité Técnico de Acceso a la Información Pública del Municipio de Morelia, por separado dictará los lineamientos de carácter general o particular a que deberán sujetarse las dependencias, entidades y unidades administrativas, para la publicación de la información de oficio y las respuestas a las solicitudes.
+El Comité Técnico de Transparencia y Acceso a la Información Pública del Municipio de Morelia, dictará por separado los lineamientos de carácter general o particular a que deberá sujetarse la Administración Pública para la publicación de la información de oficio y las respuestas a las solicitudes.
 
 ###### Artículo 30.
 
@@ -495,7 +547,9 @@ II. El Síndico Municipal de Morelia;
 
 III. El Secretario del Ayuntamiento, quien será el Secretario Técnico del Comité;
 
-IV. Los Regidores integrantes de la Comisión de Planeación, Programación y Desarrollo del Ayuntamiento;
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2013)</small>
+
+IV. Los Regidores integrantes de las Comisiones de Planeación, Programación y Desarrollo y de Acceso a la Información Pública del Ayuntamiento;
 
 V. El Tesorero Municipal;
 
@@ -505,11 +559,21 @@ VII. El Contralor Municipal;
 
 VIII. El Director de Archivo General, Histórico y Museo de la Ciudad;
 
-IX. El Director de Informática; y,
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2013)</small>
 
-X. El Coordinador del COPLADEMUN.
+IX. El Director de Informática;
 
-Cuando por caso excepcional en la integración de la Comisión de Planeación, Programación y Desarrollo del Ayuntamiento, no se encuentre representada alguna de las fracciones políticas que conforman el Ayuntamiento, el Comité podrá acordar la integración a dicho comité del Regidor que la fracción no representada proponga.
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2013)</small>
+
+X. El Coordinador del COPLADEMUN; y,
+
+> <small>(ADICIONADA, P.O. 2 DE MAYO DE 2013)</small>
+
+XI. El Director del Centro Municipal de Información Pública, quien participará con voz pero sin voto en las sesiones del Comité.
+
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2013)</small>
+
+Cuando por caso excepcional en la integración de la Comisión de Planeación, Programación y Desarrollo del Ayuntamiento, no se encuentre representada alguna de las fracciones políticas que conforman el Ayuntamiento, el Comité podrá acordar la integración a dicho órgano colegiado del Regidor que la fracción no representada proponga.
 
 ###### Artículo 31.
 
@@ -551,9 +615,11 @@ VII. Las demás que le confieran este Reglamento y/o el Pleno del mismo Comité.
 
 El Comité tendrá acceso a toda la documentación en poder del Centro Municipal de Información Pública, para garantizar así la certeza de sus decisiones.
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2013)</small>
+
 ###### Artículo 38.
 
-Los titulares de todas las áreas de la Administración Pública Municipal deberán proporcionar el apoyo necesario al Comité Técnico de Acceso a la Información Pública y al Centro Municipal de Información Pública para garantizar su buen desempeño, bajo apercibimiento que de no hacerlo serán sancionados en términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Michoacán de Ocampo y del presente Reglamento.
+Los titulares de todas las áreas de la Administración Pública Municipal deberán proporcionar el apoyo necesario al Comité y al Centro Municipal de Información Pública para garantizar su buen desempeño, bajo apercibimiento que de no hacerlo serán sancionados en términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Michoacán de Ocampo y del presente Reglamento.
 
 ### CAPÍTULO VIII. DEL CENTRO MUNICIPAL DE INFORMACIÓN PÚBLICA
 
@@ -561,9 +627,11 @@ Los titulares de todas las áreas de la Administración Pública Municipal deber
 
 El Centro Municipal de Información Pública, es la Dirección encargada de realizar las acciones necesarias para garantizar la transparencia y el acceso a la información pública que cree, administre y/o posea el Ayuntamiento de Morelia, en términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Michoacán y del presente Reglamento.
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2013)</small>
+
 ###### Artículo 40.
 
-El Centro Municipal de Información Pública dependerá directamente del Comité Técnico de Transparencia y Acceso a la Información Pública del Ayuntamiento de Morelia.
+El Centro Municipal de Información Pública dependerá directamente del Comité; su titular será nombrado a propuesta de una terna presentada por el Presidente a los miembros del Ayuntamiento, aprobada por las dos terceras partes de dicho órgano colegiado; deberá reunir un perfil preferentemente ciudadano, además de haberse desempeñado en forma destacada en actividades y responsabilidades sociales, profesionales o académicas en materia de transparencia, el derecho de acceso a la información pública, la protección de datos personales, de carácter personal y sensibles y la rendición de cuentas.
 
 ###### Artículo 41.
 
@@ -595,9 +663,11 @@ El Centro Municipal de Información Pública pondrá a disposición del público
 
 ### CAPÍTULO IX. DE LA EVALUACIÓN Y VERIFICACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MAYO DE 2013)</small>
+
 ###### Artículo 43.
 
-El Centro Municipal de Información Pública debe elaborar un informe anual, el cual deberá ser presentado para su aprobación al Comité Técnico de Acceso a la Información Pública a más tardar el 28 de febrero.
+El Centro Municipal de Información Pública debe elaborar un informe anual, el cual deberá ser presentado para su aprobación al Comité a más tardar el 28 de febrero.
 
 El informe deberá contener:
 
@@ -679,7 +749,9 @@ Si la solicitud no contiene los datos requeridos, el Centro Municipal de Informa
 
 Tratándose de la omisión de lo dispuesto en la fracción IV de este artículo, la notificación se realizará por medio de lista publicada en los Estrados del Centro Municipal de Información Pública.
 
-Si la información solicitada no es competencia del Comité Técnico de Transparencia y Acceso a la Información Pública del Ayuntamiento de Morelia, el Centro Municipal de Información Pública deberá comunicarlo al solicitante y orientarlo sobre la autoridad competente a la cual acudir.
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2013)</small>
+
+Si la información solicitada no es competencia del Comité, el Centro Municipal de Información Pública deberá comunicarlo al solicitante y orientarlo sobre la autoridad competente a la cual acudir.
 
 Se dará trámite a las solicitudes de información siempre que se formulen de manera pacífica y respetuosa.
 
@@ -769,9 +841,11 @@ VII. No proporcionar la información pública cuya entrega haya sido ordenada po
 
 VIII. Demorar injustificadamente la entrega de información pública solicitada.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MAYO DE 2013)</small>
+
 ###### Artículo 65.
 
-El Comité Técnico de Transparencia y Acceso a la Información Pública del Ayuntamiento de Morelia aplicará los siguientes medios de apremio al servidor público del Ayuntamiento de Morelia que infrinja las disposiciones del presente Reglamento, a fin de que cumpla con la resolución:
+El Comité aplicará los siguientes medios de apremio al servidor público del Ayuntamiento de Morelia que infrinja las disposiciones del presente Reglamento, a fin de que cumpla con la resolución:
 
 I. Apercibimiento;
 
@@ -781,23 +855,29 @@ III. Amonestación pública; o,
 
 IV. De cincuenta a cien días de multa.
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2013)</small>
+
 ###### Artículo 66.
 
-Si agotados los medios de apremio persistiere el incumplimiento, el Comité Técnico de Transparencia y Acceso a la Información Pública del Ayuntamiento de Morelia dará aviso a la Contraloría Municipal para que obligue al servidor público a cumplir sin demora la resolución.
+Si agotados los medios de apremio persistiere el incumplimiento, el Comité dará aviso a la Contraloría Municipal para que obligue al servidor público a cumplir sin demora la resolución.
 
 ###### Artículo 67.
 
 Las resoluciones finales se remitirán a la Contraloría Municipal para que proceda a investigar y en su caso imponer la sanción correspondiente.
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2013)</small>
+
 ###### Artículo 68.
 
-Previo dictamen de la Contraloría Municipal, si el Comité Técnico de Transparencia y Acceso a la Información Pública del Ayuntamiento de Morelia considera que hay motivo para suponer la comisión de un delito, deberá hacerse del conocimiento del Ministerio Público.
+Previo dictamen de la Contraloría Municipal, si el Comité considera que hay motivo para suponer la comisión de un delito, deberá hacerse del conocimiento del Ministerio Público.
 
 ### CAPÍTULO XIV. DE LA PREVENCIÓN
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2013)</small>
+
 ###### Artículo 69.
 
-Lo no previsto en el presente ordenamiento será resuelto por el Pleno del Comité Técnico de Acceso a la Información Pública del Municipio de Morelia y/o por el H. Ayuntamiento de Morelia.
+Lo no previsto en el presente ordenamiento será resuelto por el Pleno del Comité y, a falta de éste, por el H. Ayuntamiento de Morelia.
 
 ## TRANSITORIOS
 
@@ -822,3 +902,9 @@ LIC. FAUSTO VALLEJO FIGUEROA
 PRESIDENTE MUNICIPAL DE MORELIA
 
 (Firmado)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 2 DE MAYO DE 2013.
+
+ÚNICO.- Las presentes reformas al Reglamento de Transparencia y Acceso a la Información Pública del Municipio de Morelia, entrarán en vigor al día siguiente a aquel de su publicación en el Periódico Oficial del Estado de Michoacán de Ocampo.
