@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-banco-de-tejidos-del-estado-de-88643"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-07-13"
-last_updated: "2012-07-13"
+last_updated: "2013-05-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88643&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DEL BANCO DE TEJIDOS DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 2 DE MAYO DE 2013.
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el viernes 13 de julio de 2012.
 
@@ -89,7 +89,9 @@ II. Un Secretario, quien será el Director General del Banco.
 
 III. Un Comisario, quien será el representante de la Secretaría de la Contraloría.
 
-IV. Cinco Vocales, quienes serán los representantes de:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 2 DE MAYO DE 2013)</small>
+
+IV. Seis Vocales, quienes serán los representantes de:
 
 a) El Instituto de Salud del Estado de México.
 
@@ -97,9 +99,17 @@ b) El Centro Estatal de Trasplantes.
 
 c) La Coordinación de Hospitales Regionales de Alta Especialidad.
 
-d) La Academia de Cirugía.
+> <small>(REFORMADO, G.G. 2 DE MAYO DE 2013)</small>
 
-e) La Asociación Nacional de Hospitales Privados, A.C.
+d) La Coordinación de Salud del Instituto de Salud del Estado de México.
+
+> <small>(REFORMADO, G.G. 2 DE MAYO DE 2013)</small>
+
+e) El Instituto Materno Infantil del Estado de México.
+
+> <small>(ADICIONADO, G.G. 2 DE MAYO DE 2013)</small>
+
+f) La Secretaría de Finanzas del Gobierno del Estado de México.
 
 V. Un representante del Patronato del Organismo.
 
@@ -436,6 +446,12 @@ M.C. INEZ DIAZ MUÑOZ
 DIRECTORA GENERAL DEL BANCO DE TEJIDOS DEL ESTADO DE MEXICO Y SECRETARIA DE LA JUNTA DE GOBIERNO
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 2 DE MAYO DE 2013.
+
+LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 1.2. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE MÉXICO.
 
 ### CAPÍTULO VI. DEL CONSEJO TÉCNICO CONSULTIVO
 
