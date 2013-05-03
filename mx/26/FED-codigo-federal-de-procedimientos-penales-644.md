@@ -4,7 +4,7 @@ identifier: "FED-codigo-federal-de-procedimientos-penales-644"
 country: "mx"
 rank: "codigo"
 publication_date: "1934-08-30"
-last_updated: "2013-01-25"
+last_updated: "2013-05-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=644&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1934-08-23"
 
 CÓDIGO FEDERAL DE PROCEDIMIENTOS PENALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE MAYO DE 2013.
 
 Código publicado en la Sección Segunda del Diario Oficial de la Federación, el jueves 30 de agosto de 1934.
 
@@ -179,11 +179,11 @@ En el procedimiento de ejecución, el Poder Ejecutivo, por conducto del órgano 
 
 ### CAPITULO I. Competencia
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE MAYO DE 2013)</small>
 
 ###### ARTICULO 6o.
 
-Es tribunal competente para conocer de un delito, el del lugar en que se comete, salvo lo previsto en los párrafos segundo y tercero del artículo 10.
+Es tribunal competente para conocer de un delito, el del lugar en que se comete, salvo lo previsto en los párrafos segundo, tercero y quinto del artículo 10.
 
 > <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2002)</small>
 
@@ -218,6 +218,40 @@ También será competente para conocer de un asunto, un juez de distrito distint
 > <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 2009)</small>
 
 En estos supuestos no procede la declinatoria.
+
+> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2013)</small>
+
+En los casos de delitos del fuero común cometidos contra algún periodista, persona o instalación, que afecten, limiten o menoscaben el derecho a la información o las libertades de expresión o imprenta, el Ministerio Público de la Federación podrá ejercer la facultad de atracción para conocerlos y perseguirlos, y los jueces federales tendrán, asimismo, competencia para juzgarlos. Esta facultad se ejercerá en los casos de delitos en los que se presuma su intención dolosa y cuando se presente alguna de las siguientes circunstancias:
+
+I. Cuando existan indicios de que en el hecho constitutivo de delito hubiere participado algún servidor público de los órdenes estatal o municipal;
+
+II. Cuando en la denuncia o querella la víctima o el ofendido hubiere señalado como presunto responsable a algún servidor público de los órdenes estatal o municipal;
+
+III. Cuando se trate de delitos graves así calificados por la ley;
+
+IV. Cuando la vida o integridad física de la víctima u ofendido se encuentre en riesgo real;
+
+V. Cuando lo solicite la autoridad competente de la entidad federativa de que se trate;
+
+VI. Cuando los hechos constitutivos de delito impacten de manera trascendente al ejercicio al derecho a la información o a las libertades de expresión o imprenta;
+
+VII. Cuando en la entidad federativa en la que se hubiere realizado el hecho constitutivo de delito o se hubieren manifestado sus resultados, existan circunstancias objetivas y generalizadas de riesgo para el ejercicio del derecho a la información o las libertades de expresión o imprenta;
+
+VIII. Cuando el hecho constitutivo de delito trascienda el ámbito de una o más entidades federativas; o
+
+IX. Cuando por sentencia o resolución de un órgano previsto en cualquier tratado internacional del que el Estado Mexicano sea parte, se hubiere determinado la responsabilidad internacional del Estado Mexicano por defecto u omisión en la investigación, persecución o enjuiciamiento de delitos contra periodistas, personas o instalaciones que afecten, limiten o menoscaben el derecho a la información o las libertades de expresión o imprenta.
+
+> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2013)</small>
+
+En cualquiera de los supuestos anteriores, la víctima u ofendido podrá solicitar al Ministerio Público de la Federación el ejercicio de la facultad de atracción.
+
+> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2013)</small>
+
+En los supuestos previstos en las fracciones IV y V o cuando la víctima u ofendido lo solicite, el Ministerio Público de la Federación inmediatamente requerirá a la autoridad local una copia de la investigación respectiva, y una vez recibida deberá determinar si procede o no el ejercicio de la facultad de atracción dentro de las 48 horas siguientes.
+
+> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2013)</small>
+
+Contra la resolución que niegue el ejercicio de la facultad de atracción, la víctima o el ofendido podrá interponer, ante el Procurador General de la República, recurso de reconsideración, dentro de los 15 días hábiles siguientes a la fecha en que se le hubiere notificado. El Procurador General de la República, o el servidor público en quien delegue la facultad, deberá resolver el recurso en un término que no excederá de 48 horas hábiles. El recurso de reconsideración tendrá por objeto revocar, modificar o confirmar la resolución relativa al ejercicio de la facultad de atracción. Se tramitará de manera expedita. El silencio del Procurador General de la República, o del servidor público al que se le hubiere delegado esa facultad, constituirá el efecto de confirmar la resolución del Ministerio Público de la Federación.
 
 ###### ARTICULO 11.
 
@@ -2191,11 +2225,13 @@ Cuando se determine por la autoridad competente la devolución de los bienes que
 
 La autoridad judicial, mediante sentencia en el proceso penal correspondiente, podrá decretar el decomiso de bienes, con excepción de los que hayan causado abandono en los términos de este Código.
 
-> <small>(ADICIONADO, D.O.F. 19 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE MAYO DE 2013)</small>
 
 ###### ARTICULO 182-R.
 
-Los recursos que se obtengan por la enajenación de los bienes decomisados en procesos penales federales, a que se refiere la fracción I del artículo 1 de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, así como por la enajenación de sus frutos y productos, serán entregados conforme a lo dispuesto en el artículo 89 de la citada Ley, en partes iguales, al Poder Judicial de la Federación, a la Procuraduría General de la República y a la Secretaría de Salud.
+Los recursos que se obtengan por la enajenación de los bienes decomisados en procesos penales federales, a que se refiere la fracción I del artículo 1 de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público, así como por la enajenación de sus frutos y productos, serán destinados conforme a lo dispuesto en el artículo 89 de la citada Ley, a la compensación a que se refiere el artículo 69 de la Ley General de Víctimas. Una vez cubierta dicha compensación o en aquellos casos en que la misma no sea procedente, los recursos restantes o su totalidad se entregarán en partes iguales, al Poder Judicial de la Federación, a la Procuraduría General de la República, a la Secretaría de Salud y al Fondo de Ayuda, Asistencia y Reparación Integral.
+
+> <small>(ADICIONADO, D.O.F. 19 DE DICIEMBRE DE 2002)</small>
 
 Los recursos que correspondan a la Secretaría de Salud deberán destinarse a programas de prevención y rehabilitación de farmacodependientes.
 
@@ -5716,3 +5752,23 @@ D.O.F. 14 DE ENERO DE 2013.
 D.O.F. 25 DE ENERO DE 2013.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 3 DE MAYO DE 2013.
+
+DECRETO POR EL QUE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 182-R DEL CÓDIGO FEDERAL DE PROCEDIMIENTOS PENALES.
+
+SE TRANSCRIBE EL ARTÍCULO TRANSITORIO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+...
+
+D.O.F. 3 DE MAYO DE 2013.
+
+DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 6o, PÁRRAFO PRIMERO, Y SE ADICIONAN LOS PÁRRAFOS QUINTO, SEXTO, SÉPTIMO Y OCTAVO AL ARTÍCULO 10, DEL CÓDIGO FEDERAL DE PROCEDIMIENTOS PENALES.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- El Titular del Poder Ejecutivo Federal contará con un término de 180 días naturales para expedir las adecuaciones al Reglamento de la Ley Orgánica de la Procuraduría General de la República, a efecto de establecer la unidad administrativa que conozca de los delitos federales cometidos contra algún periodista, persona o instalación que atenten contra el derecho a la información o las libertades de expresión o imprenta, así como para aquellos delitos del fuero común que sean atraídos de conformidad con lo dispuesto por los artículos 73, fracción XXI, segundo párrafo, de la Constitución y 10 del Código Federal de Procedimientos Penales.
+
+Tercero.- En tanto se expiden las adecuaciones al Reglamento de la Ley Orgánica de la Procuraduría General de la República al que se refiere el artículo transitorio anterior, la Fiscalía Especial para la Atención de Delitos Cometidos contra la Libertad de Expresión, de la Procuraduría General de la República ejercerá las atribuciones establecidas en el presente Decreto.
