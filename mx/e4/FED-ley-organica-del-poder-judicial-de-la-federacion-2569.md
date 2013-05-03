@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-del-poder-judicial-de-la-federacion-2569"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-05-26"
-last_updated: "2013-04-02"
+last_updated: "2013-05-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2569&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOPJF"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE MAYO DE 2013.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 26 de mayo de 1995.
 
@@ -747,6 +747,10 @@ II. De los procedimientos de extradición, salvo lo que se disponga en los trata
 > <small>(ADICIONADA, D.O.F. 7 DE NOVIEMBRE DE 1996)</small>
 
 III. De las autorizaciones para intervenir cualquier comunicación privada.
+
+> <small>(ADICIONADA, D.O.F. 3 DE MAYO DE 2013)</small>
+
+IV. De los delitos del fuero común respecto de los cuales el Ministerio Público de la Federación hubiere ejercido la facultad de atracción.
 
 > <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 2012)</small>
 
@@ -3685,3 +3689,11 @@ NOVENO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 D.O.F. 2 DE ABRIL DE 2013.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 3 DE MAYO DE 2013.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- El Titular del Poder Ejecutivo Federal contará con un término de 180 días naturales para expedir las adecuaciones al Reglamento de la Ley Orgánica de la Procuraduría General de la República, a efecto de establecer la unidad administrativa que conozca de los delitos federales cometidos contra algún periodista, persona o instalación que atenten contra el derecho a la información o las libertades de expresión o imprenta, así como para aquellos delitos del fuero común que sean atraídos de conformidad con lo dispuesto por los artículos 73, fracción XXI, segundo párrafo, de la Constitución y 10 del Código Federal de Procedimientos Penales.
+
+Tercero.- En tanto se expiden las adecuaciones al Reglamento de la Ley Orgánica de la Procuraduría General de la República al que se refiere el artículo transitorio anterior, la Fiscalía Especial para la Atención de Delitos Cometidos contra la Libertad de Expresión, de la Procuraduría General de la República ejercerá las atribuciones establecidas en el presente Decreto.
