@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-de-la-procuraduria-general-de-la-republica-68589"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-05-29"
-last_updated: "2013-04-02"
+last_updated: "2013-05-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68589&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-05-27"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE LA REPÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE MAYO DE 2013.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 29 de mayo de 2009.
 
@@ -422,6 +422,14 @@ a) La Procuraduría General de la República contará con unidades administrativ
 b) Las unidades administrativas especializadas actuarán en la circunscripción territorial que mediante acuerdo determine el Procurador, en coordinación con las demás unidades administrativas competentes, y
 
 c) Las unidades administrativas especializadas contarán con la estructura administrativa que establezcan las disposiciones aplicables.
+
+> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2013)</small>
+
+En todos los casos en que el Ministerio Público de la Federación hubiere ejercido la facultad establecida en el párrafo quinto del artículo 10 del Código Federal de Procedimientos Penales se deberán agotar las diversas líneas de investigación relativas a la afectación, limitación o menoscabo del derecho a la información o de las libertades de expresión o imprenta.
+
+> <small>(ADICIONADO, D.O.F. 3 DE MAYO DE 2013)</small>
+
+Para los efectos del párrafo anterior, la unidad administrativa que conozca de los delitos cometidos en contra del derecho a la información, la libertad de expresión o de imprenta, tendrá pleno acceso a los datos, registros y actuaciones de la investigación de delitos relacionados con su ámbito de competencia, que se encuentren bajo el conocimiento de cualquier unidad administrativa de la Procuraduría General de la República.
 
 II. Sistema de coordinación regional y desconcentración:
 
@@ -1432,3 +1440,11 @@ NOVENO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 D.O.F. 2 DE ABRIL DE 2013.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 3 DE MAYO DE 2013.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- El Titular del Poder Ejecutivo Federal contará con un término de 180 días naturales para expedir las adecuaciones al Reglamento de la Ley Orgánica de la Procuraduría General de la República, a efecto de establecer la unidad administrativa que conozca de los delitos federales cometidos contra algún periodista, persona o instalación que atenten contra el derecho a la información o las libertades de expresión o imprenta, así como para aquellos delitos del fuero común que sean atraídos de conformidad con lo dispuesto por los artículos 73, fracción XXI, segundo párrafo, de la Constitución y 10 del Código Federal de Procedimientos Penales.
+
+Tercero.- En tanto se expiden las adecuaciones al Reglamento de la Ley Orgánica de la Procuraduría General de la República al que se refiere el artículo transitorio anterior, la Fiscalía Especial para la Atención de Delitos Cometidos contra la Libertad de Expresión, de la Procuraduría General de la República ejercerá las atribuciones establecidas en el presente Decreto.
