@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-presupuesto-y-ejercicio-del-gasto-publico-del-estado-770
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-22"
-last_updated: "2012-12-28"
+last_updated: "2013-05-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77083&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PRESUPUESTO Y EJERCICIO DEL GASTO PÚBLICO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2013.
 
 Ley publicada en la Sección I al Periódico Oficial del Estado de Baja California, el viernes 22 de octubre de 2010.
 
@@ -1011,9 +1011,67 @@ La Dirección de Control y Evaluación Gubernamental y las Sindicaturas Municipa
 
 Igual atribución tendrán los Órganos de Control de los Poderes Legislativo y Judicial, así como de los Órganos Autónomos.
 
-## TÍTULO SEXTO. DEL CONSEJO ESTATAL PARA LA ARMONIZACIÓN CONTABLE
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE MAYO DE 2013)</small>
 
-## TÍTULO SÉPTIMO. DE LAS RESPONSABILIDADES
+## TÍTULO QUINTO BIS. De la Transparencia y Difusión de la Información Financiera
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2013)</small>
+
+ARTÍCULO 92 BIS.- Los sujetos de esta Ley, en el ámbito de sus respectivas competencias deberán dar a conocer en sus respectivos portales de Internet la información financiera siguiente:
+
+I. La relativa a la evaluación del desempeño de los programas y políticas públicas;
+
+II. Los calendarios de ingresos, así como los calendarios de presupuesto de egresos con base mensual;
+
+III. La Iniciativa de Ley de Ingresos y el Proyecto de Presupuesto de Egresos.
+
+IV. La Ley de Ingresos y Presupuesto de Egresos una vez aprobado por el Congreso del Estado y los Ayuntamientos, así como los dictámenes, acuerdos de comisión y, actas de aprobación correspondientes conforme al marco jurídico aplicable.
+
+V. Las disposiciones aplicables al proceso de integración de las Leyes de Ingresos, Presupuestos de Egresos y demás documentos que deban publicarse en los medios oficiales de difusión.
+
+VI. Además de la información prevista en los ordenamientos legales aplicables, deberá incluirse en sus respectivas Leyes de Ingresos y Presupuestos de Egresos, apartados específicos con la información siguiente:
+
+a) Leyes de Ingresos:
+
+1) Las fuentes de sus ingresos sean ordinarios o extraordinarios, desagregando el monto de cada una, incluyendo los recursos federales que estime serán transferidos por la federación a través de los fondos de participaciones y aportaciones federales, subsidios y convenios de reasignación; así como los ingresos recaudados con base en las disposiciones aplicables, y
+
+2) Las obligaciones de garantía o pago causante de deuda pública u otros pasivos de cualquier naturaleza con contrapartes, proveedores, contratistas y acreedores, incluyendo la disposición de bienes o expectativa de derechos sobre éstos, contraídos directamente o a través de cualquier instrumento jurídico considerado o no dentro de la estructura orgánica de la administración publica correspondiente, y la celebración de actos jurídicos análogos a los anteriores y sin perjuicio de que dichas obligaciones tengan como propósito el canje o refinanciamiento de otras o de que sea considerado o no como deuda pública en los ordenamientos aplicables. Asimismo, la composición de dichas obligaciones y el destino de los recursos obtenidos;
+
+b) Presupuestos de Egresos:
+
+1) Las prioridades de gasto, los programas y proyectos, así como la distribución del presupuesto, detallando el gasto en servicios personales, incluyendo el analítico de plazas y desglosando todas las remuneraciones; las contrataciones de servicios por honorarios y, en su caso, previsiones para personal eventual; pensiones; gastos de operación, incluyendo gasto en comunicación social; gasto de inversión; así como gasto correspondiente a compromisos plurianuales, proyectos de asociaciones público privadas y proyectos de prestación de servicios, entre otros;
+
+2) El listado de programas así como sus indicadores estratégicos y de gestión aprobados, y
+
+3) La aplicación de los recursos conforme a las calificaciones administrativa, funcional, programática, económica y, en su caso, geográfica y sus interrelaciones que faciliten el análisis para valorar la eficiencia y eficacia en el uso y destino de los recursos y sus resultados.
+
+En el proceso de integración de la información financiera para la elaboración de los presupuestos deberán incorporar los resultados que deriven de los procesos de implantación y operación del presupuesto basado en resultados y del sistema de evaluación del desempeño.
+
+VII. Los montos pagados durante el periodo por concepto de ayudas y subsidios a los sectores económicos y sociales, identificando el nombre del beneficiario, y en lo posible la Clave Única de Registro de Población cuando el beneficiario sea persona física o el Registro Federal de Contribuyentes con Homoclave cuando sea persona moral o persona física con actividad empresarial y profesional, así como el monto recibido, y
+
+VIII. El programa anual de evaluaciones, así como las metodologías e indicadores de desempeño, a más tardar el último día hábil de abril.
+
+Así como, una vez concluidas las evaluaciones, los resultados de las mismas, e informar sobre las personas que realizaron dichas evaluaciones, a más tardar a los 30 días posteriores a su conclusión.
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2013)</small>
+
+ARTÍCULO 92 TER.- La Secretaría de Planeación y Finanzas del Poder Ejecutivo, así como las tesorerías de los municipios, establecerán en sus páginas de Internet, enlaces electrónicos que permitan acceder a la información financiera de todos los entes públicos que conforman el correspondiente orden de gobierno, así como a los órganos o instancias de transparencia competentes.
+
+La Secretaría de Planeación y Finanzas del Poder Ejecutivo, podrá incluir en su página de Internet, previo convenio administrativo, la información financiera de los municipios del Estado.
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2013)</small>
+
+ARTÍCULO 92 QUARTER (SIC).- La información financiera que deba incluirse en Internet deberá publicarse y actualizarse por lo menos trimestralmente, a excepción de los informes y documentos de naturaleza anual y otros que por virtud de esta Ley o disposición legal aplicable tengan un plazo y periodicidad determinada, así como difundirse en dicho medio dentro de los treinta días naturales siguientes al cierre del periodo que corresponda.
+
+Asimismo, deberá permanecer disponible en Internet la información correspondiente de los últimos seis ejercicios fiscales.
+
+> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2013)</small>
+
+ARTÍCULO 92 QUINQUIES.- La generación y publicación de la información financiera, se hará conforme a las normas, estructura, formatos y contenido de la información que para tal efecto establezca el CONAC.
+
+Dicha información podrá complementar la que otros ordenamientos jurídicos aplicables ya disponen en este ámbito para presentarse en informes periódicos y en las cuentas públicas.
+
+## TÍTULO SEXTO. DEL CONSEJO ESTATAL PARA LA ARMONIZACIÓN CONTABLE
 
 ###### ARTÍCULO 93.
 
@@ -1082,6 +1140,8 @@ X.- Proponer criterios para la debida interpretación y aplicación de las dispo
 XI.- Cuando se le solicite, ser vinculo entre el CONAC y los sujetos de esta Ley, para efecto de que estos últimos formulen al CONAC, consultas en materia de contabilidad gubernamental; y,
 
 XII.- Las demás que sean necesarias para el cumplimiento de su objeto.
+
+## TÍTULO SÉPTIMO. DE LAS RESPONSABILIDADES
 
 ###### ARTÍCULO 97.
 
@@ -1166,3 +1226,13 @@ P.O. 28 DE DICIEMBRE DE 2012.
 PRIMERO.- Las presentes Reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- Dentro de un plazo que no excederá de 160 días naturales, contados a partir de la entrada en vigor de las presentes reformas, los Poderes Ejecutivo, Legislativo y Judicial del Estado, y los organismos autónomos, en los términos de las presentes reformas, deberán planear, diseñar, ejecutar y evaluar sus correspondientes presupuestos, con perspectiva de equidad de género.
+
+P.O. 3 DE MAYO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La obligación de incluir la información financiera correspondiente a los seis años previos al ejercicio fiscal en curso, a que se refiere el segundo párrafo del Artículo 92 QUARTER (SIC) de esta Ley, iniciará a partir de las fechas previstas en el Artículo Transitorio Cuarto de la Ley General de Contabilidad Gubernamental, y así sucesivamente hasta incluir la información de los seis ejercicios fiscales.
