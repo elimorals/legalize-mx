@@ -4,7 +4,7 @@ identifier: "MEX-codigo-financiero-del-estado-de-mexico-y-municipios-13951"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-03-09"
-last_updated: "2013-03-15"
+last_updated: "2013-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 15 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE MAYO DE 2013.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el martes 9 de marzo de 1999.
 
@@ -15961,6 +15961,10 @@ NOVENO.- Los municipios que se beneficien por la modificación o no ratificació
 
 DÉCIMO.- Para los efectos del artículo 47 Bis primer párrafo del Código Financiero del Estado de México y Municipios, el aviso de dictamen y el dictamen sobre la base, determinación y pago del Impuesto Predial correspondiente al ejercicio fiscal 2011, podrá presentarse a más tardar el 31 de diciembre de 2012, por tratarse de una nueva obligación fiscal que requiere el adecuado conocimiento de los contribuyentes, así como para desarrollar con oportunidad el sistema electrónico que facilitará su cumplimiento vía Internet.
 
+> <small>(ADICIONADO, G.G. 3 DE MAYO DE 2013)</small>
+
+Asimismo, a fin de propiciar el flujo eficiente de la información y el cabal cumplimiento de las obligaciones a cargo de los sujetos obligados en términos del Código Financiero del Estado de México y Municipios, el dictamen a la determinación de la base del Impuesto Predial correspondiente al ejercicio fiscal 2012, podrá presentarse a más tardar el último día hábil del mes de noviembre de 2013.
+
 G.G. 1 DE ENERO DE 2012.
 
 Primero.- Publíquese en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
@@ -16052,6 +16056,14 @@ G.G. 15 DE MARZO DE 2013.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 3 DE MAYO DE 2013.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
 
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE DA A CONOCER EL MANUAL GRÁFICO PARA EL USO DE UNIFORMES, DIVISAS Y EQUIPO DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS”.]
 
