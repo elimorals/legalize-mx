@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2013-02-28"
+last_updated: "2013-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE FEBRERO DE 2013.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN LA G.G. EL 28 DE FEBRERO DE 2013 MEDIANTE DECRETO 55, NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN LA G.G. DE 22 DE FEBRERO DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE MAYO DE 2013.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -2189,6 +2187,14 @@ A quien porte, fabrique, importe, regale, trafique, o acopie sin un fin lícito 
 
 Se entiende por acopio la reunión de tres o más armas de las mencionadas en el artículo anterior.
 
+> <small>(ADICIONADO, G.G. 3 DE MAYO DE 2013)</small>
+
+Se aumentará la pena de prisión de uno a dos años y la multa de sesenta a cien días, cuando la portación ocurra en:
+
+I. Medios de transporte público de pasajeros; y
+
+II. Actos deportivos, artísticos, culturales, religiosos o de culto, mítines políticos, ceremonias cívicas y desfiles.
+
 ### CAPITULO III. LENOCINIO
 
 > <small>(REFORMADO, G.G. 28 DE DICIEMBRE DE 2007)</small>
@@ -3689,6 +3695,10 @@ XVI. Si en los actos mencionados en las fracciones anteriores, participa, en eje
 
 XVII. Cuando se cometa a escuelas e inmuebles destinados a actividades educativas, se impondrán de tres a doce años de prisión y de uno a tres veces el valor de lo robado, sin que exceda de mil días multa.
 
+> <small>(ADICIONADA, G.G. 3 DE MAYO DE 2013)</small>
+
+XVIII. Cuando se cometa en medios de transporte público de pasajeros y se utilice en su ejecución violencia, se impondrán de siete a diez años de prisión y multa de uno a tres veces el valor de lo robado, sin que exceda de mil días.
+
 ###### Artículo 291.
 
 Al que se apodere de un bien ajeno mueble, sin consentimiento del dueño o legítimo poseedor, con carácter temporal y no para apropiárselo o venderlo y lo restituya espontáneamente antes de que la autoridad tome conocimiento, se le impondrán de seis meses a dos años de prisión.
@@ -3749,9 +3759,9 @@ El delito de robo es perseguible por querella del ofendido en los siguientes cas
 
 I. El robo a que se refieren los artículos 288 fracciones I, II y III y 291, siempre que no concurra alguna de las circunstancias a que se refieren las fracciones I, II, III, IV, V y VI del artículo 290;
 
-> <small>(REFORMADA, G.G. 1 DE ABRIL DE 2004)</small>
+> <small>(REFORMADA, G.G. 3 DE MAYO DE 2013)</small>
 
-II. El robo a que se refieren los artículos 289 fracciones I, II, III y VI; 290 fracciones VII, VIII, IX, X y XI, siempre que no concurra alguna de las circunstancias a que se refieren las fracciones I, II, III, IV, V y VI de este último artículo y que el sujeto activo sea primodelincuente; circunstancias que deberán verificarse fehacientemente con los elementos necesarios, entre otros, los antecedentes penales que obren en los archivos correspondientes, por el Ministerio Público Investigador o por la autoridad judicial, en su caso;
+II. El robo a que se refieren los artículos 289 fracciones I, II, III y VI; 290 fracciones VII, VIII, IX, X y XI, siempre que no concurra alguna de las circunstancias a que se refieren las fracciones I, II, III, IV, V, VI y XVIII de este último artículo y que el sujeto activo sea primodelincuente; circunstancias que deberán verificarse fehacientemente, con los elementos necesarios, entre otros, los antecedentes penales que obren en los archivos correspondientes, por el Ministerio Público Investigador o por la autoridad judicial, en su caso;
 
 > <small>(REFORMADA, G.G. 1 DE ABRIL DE 2004)</small>
 
@@ -4870,6 +4880,14 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- La Procuraduría General de Justicia del Estado de México emitirá los Protocolos en materia de técnicas de investigación en un plazo no mayor a seis meses contados a partir de la entrada en vigor del presente Decreto.
+
+G.G. 3 DE MAYO DE 2013.
+
+PRIMERO.- Publíquese el Presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a las contenidas en el presente Decreto.
 
 ###### ARTÍCULO PRIMERO.
 
