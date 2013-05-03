@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2013-04-29"
+last_updated: "2013-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE MAYO DE 2013.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -8429,7 +8429,7 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 #### SECCION PRIMERA. Disposiciones generales
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 10.
 
@@ -8853,7 +8853,7 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 ### CAPITULO PRIMERO. Parte general
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 11.
 
@@ -8871,7 +8871,7 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 ### CAPITULO SEGUNDO. De la planeación, programación y sistematización
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 11.
 
@@ -8927,7 +8927,7 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 ### CAPITULO TERCERO. De la sistematización
 
-> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 12.
 
@@ -9093,7 +9093,7 @@ La invalidez podrá ser declarada de oficio en sede administrativa por la depend
 
 ### CAPITULO CUARTO. De las operaciones consolidadas
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 12.
 
@@ -9225,11 +9225,11 @@ IV. Las demás que establezca el Reglamento respectivo.
 
 ### CAPITULO QUINTO. De los catálogos
 
-> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 #### SECCION SEGUNDA. De la licitación pública
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 12.
 
@@ -9249,7 +9249,7 @@ II. Adjudicación directa.
 
 #### SECCION TERCERA. De las excepciones a la licitación pública
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 12.
 
@@ -9371,7 +9371,7 @@ El procedimiento de invitación restringida se desarrollará en los términos de
 
 #### SECCION CUARTA. De la invitación restringida
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 12.
 
@@ -9385,7 +9385,7 @@ II. Las obras o servicios a contratar, no rebasen los montos establecidos por el
 
 #### SECCION QUINTA. De la adjudicación directa
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 12.
 
@@ -9431,7 +9431,7 @@ XI. Las obras o servicios a contratar, no rebasen los montos establecidos por el
 
 #### SECCIÓN SEXTA. De la Subasta Inversa Electrónica
 
-> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 12.
 
@@ -9443,7 +9443,7 @@ Si la dependencia, entidad o ayuntamiento no firmare el contrato dentro del plaz
 
 ### CAPITULO SEXTO. De la integración y funciones de los Comités
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 12.
 
@@ -9587,7 +9587,9 @@ En el supuesto de la fracción II, el contratista afectado podrá demandar la re
 
 ### CAPITULO SEPTIMO. De los procedimientos de adquisición
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
 ###### Artículo 12.
 
@@ -9711,7 +9713,7 @@ V. Utilizar servicios de fletes y acarreos complementarios.
 
 ### CAPITULO OCTAVO. De las enajenaciones
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 12.
 
@@ -9733,7 +9735,7 @@ V. Utilizar servicios de fletes y acarreos complementarios.
 
 ### CAPITULO NOVENO. De los contratos
 
-> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 12.
 
@@ -9767,7 +9769,7 @@ Tratándose de obras que se ejecuten o se pretendan ejecutar con recursos munici
 
 ### CAPITULO DECIMO. De las garantías
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 12.
 
@@ -9821,253 +9823,131 @@ La inconformidad administrativa en lo no previsto por este Libro, se substanciar
 
 En contra de la resolución que se dicte en la inconformidad administrativa, así como de los demás actos y resoluciones derivados de los contratos y convenios regulados por este Libro, procede juicio ante el Tribunal de lo Contencioso Administrativo.
 
-> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE LIBRO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADO CON LOS TÍTULOS, CAPÍTULOS, SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
 ### CAPITULO DECIMO PRIMERO. De los contratos abiertos
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ### CAPITULO DECIMO SEGUNDO. De la información y verificación
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 # LIBRO DECIMO TERCERO. De las adquisiciones, enajenaciones, arrendamientos y servicios
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
 ### CAPITULO DECIMO TERCERO. De las infracciones y sanciones
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 13.
 
-1.- Este Libro tiene por objeto regular los actos relativos a la planeación, programación, presupuestación, ejecución y control de la adquisición, enajenación y arrendamiento de bienes, y la contratación de servicios de cualquier naturaleza, que realicen:
+1.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
 
-I. Las secretarías y las unidades administrativas del Poder Ejecutivo del Estado;
-
-II. La Procuraduría General de Justicia;
-
-III. Los ayuntamientos de los municipios del Estado;
-
-IV. Los organismos auxiliares y fideicomisos públicos, de carácter estatal o municipal;
-
-V. Los tribunales administrativos.
-
-También serán aplicables las disposiciones de este Libro a los particulares que participen en los procedimientos, operaciones o contratos regulados en este Libro.
-
-Los poderes Legislativo y Judicial, así como los organismos autónomos, aplicarán las disposiciones de este Libro en lo que no se oponga a los ordenamientos legales que los regulan, sujetándose a sus propios órganos de control.
-
-No será aplicable lo dispuesto por este Libro en los actos objeto del mismo derivados de convenios celebrados entre dependencias, entidades y ayuntamientos, entre sí o con los de otros estados o de la Federación, excepto cuando sea parte un particular en los procedimientos o contratos respectivos.
-
-Tampoco serán aplicables las disposiciones de este Libro en los actos que realicen los fideicomisos públicos en los que el Gobierno del Estado no sea fideicomitente único.
-
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 13.
 
-2.- Para los efectos de la presente ley, se entenderá por:
+2.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
 
-I. Dependencia, a las secretarías y unidades administrativas del Poder Ejecutivo del Estado y a la Procuraduría General de Justicia;
-
-II. Entidades, a los organismos auxiliares y fideicomisos públicos, de carácter estatal o municipal;
-
-III. Propuesta solvente, a la proposición presentada por una persona en un procedimiento de licitación o de invitación restringida, que cumpla con las bases del concurso, garantice el cumplimiento del contrato y considere costos de mercado.
-
-> <small>(ADICIONADA, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
-
-IV. Firma Electrónica, a la firma electrónica avanzada en los términos de la Ley para el Uso de Medios Electrónicos.
-
-> <small>(ADICIONADA, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
-
-V. Ley de Medios Electrónicos, a la Ley para el Uso de Medios Electrónicos del Estado de México.
-
-> <small>(ADICIONADA, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
-
-VI. Ofertas subsecuentes de descuentos, a la presentación dinámica de descuentos que realizan los postores para mejorar el precio ofertado inicialmente;
-
-> <small>(ADICIONADA, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
-
-VII. Subasta inversa electrónica, a la modalidad con base en la cual la Administración Pública Estatal y Municipal, pueden desahogar los procedimientos para la adquisición de bienes y contratación de servicios a que se refiere el presente Libro, por conducto del Sistema Electrónico de Información, Trámites y Servicios, a efecto de adjudicarlos a los postores que presenten la oferta económica más favorable, mediante la presentación de ofertas subsecuentes de descuentos;
-
-> <small>(ADICIONADA, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
-
-VIII. SEITS. Al Sistema Electrónico de Información, Trámites y Servicios, en los términos de la Ley de Medios Electrónicos.
-
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 13.
 
-3.- Para los efectos de este Libro, en las adquisiciones, enajenaciones, arrendamientos y servicios, quedan comprendidos:
+3.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
 
-I. La adquisición de bienes muebles;
-
-II. La adquisición de bienes inmuebles, a través de compraventa;
-
-III. La enajenación de bienes muebles e inmuebles;
-
-IV. El arrendamiento de bienes muebles e inmuebles;
-
-V. La contratación de los servicios relacionados con bienes muebles que se encuentran incorporados o adheridos a bienes inmuebles, cuya instalación o mantenimiento no implique modificación al bien inmueble;
-
-VI. La contratación de los servicios de reconstrucción y mantenimiento de bienes muebles;
-
-VII. La contratación de los servicios de maquila, seguros y transportación, así como de los de limpieza y vigilancia de bienes inmuebles;
-
-VIII. La prestación de servicios profesionales, la contratación de consultorías, asesorías, estudios e investigaciones, excepto la contratación de servicios personales de personas físicas bajo el régimen de honorarios.
-
-En general, otros actos que impliquen la contratación de servicios de cualquier naturaleza.
-
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
-
-No aplicarán las disposiciones del presente Libro a la operación, administración, uso, goce, disposición o cualquier otro acto jurídico sobre bienes muebles o inmuebles que pudieren regularse por este Libro, si dichos actos derivan de la prestación de servicios bajo la modalidad de proyectos para prestación de servicios; en estos casos aplicarán las disposiciones del Libro Décimo Sexto de este Código.
-
-> <small>(ADICIONADO, G.G. 3 DE DICIEMBRE DE 2007)</small>
-
-No obstante lo dispuesto en las fracciones VII y VIII del presente artículo, la contratación de seguros de garantía financiera, así como de servicios profesionales, consultorías, asesorías, estudios e investigaciones en relación con créditos, empréstitos, préstamos o financiamientos de cualquier naturaleza, incluyendo la emisión de valores, contratados por organismos públicos descentralizados en relación con su participación en fideicomisos privados en los términos del artículo 265 B Bis del Código Financiero del Estado de México y Municipios, no estarán sujetos a lo dispuesto por este Libro quedando facultado dicho organismo público descentralizado, según sea aplicable, a llevar a cabo la contratación correspondiente, previa autorización de la Secretaría de Finanzas y sujeta a los principios de imparcialidad, buena fe, veracidad, honradez, publicidad, transparencia, previsión y eficiencia y observando en todo momento que se realicen en condiciones favorables para el Estado.
-
-> <small>(ADICIONADO, G.G. 3 DE DICIEMBRE DE 2007)</small>
-
-De conformidad con lo dispuesto en el segundo párrafo del artículo 7 de la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México, los fideicomisos constituidos de conformidad con el artículo 265 B Bis del Código Financiero del Estado de México y Municipios no estarán sujetos a lo dispuesto en este Código, sin embargo en las adquisiciones, enajenaciones, arrendamiento de bienes y contratación de servicios que realicen deberán contar con la previa autorización de la Secretaria de Finanzas.
-
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 13.
 
-4.- Las dependencias, entidades estatales y tribunales administrativos llevarán a cabo los procedimientos de adquisición de bienes y servicios que requieran, conforme con sus respectivos programas de adquisiciones.
+4.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
 
-> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
-
-La Secretaría de Finanzas llevará a cabo los procedimientos de adquisición de bienes o servicios conjuntados en operaciones consolidadas.
-
-> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
-
-En el ámbito de la Administración Pública Estatal, corresponde a la Secretaría de Finanzas el trámite de los procedimientos de contratos, relativos a arrendamientos, adquisiciones de inmuebles y enajenaciones de bienes muebles e inmuebles.
-
-Las entidades, tribunales administrativos y ayuntamientos, en el ámbito de su respectiva competencia, tendrán a su cargo el trámite de los procedimientos y la contratación de arrendamientos, adquisiciones de inmuebles y enajenaciones de bienes muebles e inmuebles.
-
-> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 13.
 
-5.- Las secretarías de Finanzas y de la Contraloría, así como los ayuntamientos, podrán contratar asesoría técnica para la realización de investigaciones de mercado, verificación de precios, realización de pruebas de calidad y en general para el mejoramiento del sistema de adquisiciones, arrendamientos y servicios.
+5.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
 
-Las secretarías de Finanzas y de la Contraloría intercambiarán la información sobre los resultados de los trabajos derivados de los contratos de asesoría técnica.
-
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 13.
 
-6.- Los contratos y convenios y las modificaciones a los mismos que se realicen en contravención a lo dispuesto por esta ley, serán nulos.
+6.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
 
-La invalidez podrá ser declarada administrativamente por las contratantes. Los particulares afectados podrán ocurrir a demandar la invalidez de los contratos y convenios ante el Tribunal de lo Contencioso Administrativo.
-
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 13.
 
-7.- Los actos a que se refiere el artículo 13.1 de este Libro que se realicen con cargo total o parcial a fondos del Gobierno Federal, se estará a lo dispuesto por la legislación federal.
+7.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
 
-Los actos a que se refiere el artículo 13.1 de este Libro que realicen los ayuntamientos con cargo total o parcial a fondos del Gobierno Estatal, el control y la vigilancia de los mismos estará a cargo de la Secretaría de la Contraloría.
-
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 13.
 
-8.- Corresponde al Ejecutivo del Estado, a través de la Secretaría de Administración, la interpretación para efectos administrativos del presente Libro, y a la Secretaría de la Contraloría la vigilancia de su aplicación para su debida observancia.
+8.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
 
-> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-La Secretaría de Finanzas establecerá las políticas y expedirá las normas técnicas y administrativas en las materias que regula el presente Libro.
-
-Las políticas y normas administrativas a que se refiere el párrafo anterior, serán aplicables a los actos, contratos y convenios regulados por este Libro que realicen los ayuntamientos con cargo a recursos estatales, total o parcialmente.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
 ### CAPITULO DECIMO CUARTO. De la instancia de inconformidad
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 13.
 
-9.- Las adquisiciones, arrendamientos y servicios que las dependencias, entidades, ayuntamientos y tribunales administrativos requieran para la realización de las funciones y programas que tienen encomendados, deberán determinarse con base en la planeación racional de sus necesidades y recursos.
+9.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
-
-###### Artículo 13.
-
-10.- Las dependencias, entidades, ayuntamientos y tribunales administrativos deberán programar sus adquisiciones, arrendamientos y servicios, tomando en consideración, según corresponda, lo siguiente:
-
-I. Los objetivos, estrategias y líneas de acción establecidos en el Plan de Desarrollo del Estado de México; los criterios generales de política social fijados por el titular del Poder Ejecutivo; y las previsiones contenidas en los programas sectoriales;
-
-II. Los objetivos, estrategias y líneas de acción establecidos en los planes de desarrollo municipal;
-
-III. Las actividades sustantivas que desarrollen para cumplir con los programas prioritarios que tienen bajo su responsabilidad.
-
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 13.
 
-11.- Las dependencias, entidades, ayuntamientos y tribunales administrativos al formular sus programas anuales de adquisiciones, arrendamientos y servicios, además de lo establecido en otras disposiciones legales, deberán observar lo siguiente:
+10.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
 
-I. Los bienes, arrendamientos y servicios que solucionen de manera adecuada sus necesidades de operación;
-
-II. Los recursos financieros y materiales y los servicios con los que se cuente;
-
-III. Los plazos estimados en los que se requerirán los bienes, arrendamientos y servicios;
-
-> <small>(REFORMADA, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
-
-IV. Las políticas y normas administrativas que establezca la Secretaría de Finanzas y los ayuntamientos, en su caso, para optimizar las adquisiciones, arrendamientos y servicios;
-
-V. Las demás previsiones que sean necesarias para la adecuada planeación, operación y ejecución de los programas y acciones correspondientes.
-
-Las dependencias, entidades estatales y tribunales administrativos formularán sus programas de adquisiciones, arrendamientos y servicios, simultáneamente con sus programas anuales y proyectos de presupuestos de egresos.
-
-> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 13.
 
-12.- La Secretaría de Finanzas tendrá a su cargo la elaboración y ejecución del programa anual de operaciones consolidadas.
+11.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
 
-> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2011)</small>
-
-Las dependencias y entidades deberán presentar a la Secretaría de Finanzas sus requerimientos de adquisiciones y servicios sujetos a operaciones consolidadas.
-
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 13.
 
-13.- Unicamente se pueden tramitar, convocar, adjudicar o llevar a cabo adquisiciones, arrendamientos y servicios, cuando las dependencias, entidades, tribunales administrativos y ayuntamientos, cuenten con saldo disponible dentro de su presupuesto aprobado.
+12.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
-
-###### Artículo 13.
-
-14.- En los contratos de adquisiciones, arrendamientos y servicios, cuya ejecución rebase un ejercicio presupuestal, las dependencias, entidades, tribunales administrativos y ayuntamientos, deberán determinar tanto el presupuesto total como el relativo a los ejercicios subsecuentes, en los que además de considerar los costos que en su momento se encuentren vigentes, se deberán tomar en cuenta las previsiones necesarias para los ajustes de costos que aseguren el cumplimiento de las obligaciones contraídas.
-
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 13.
 
-15.- Los programas de adquisiciones, arrendamientos y servicios de las dependencias, entidades, tribunales administrativos y ayuntamientos, deberán contener lo siguiente:
+13.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
 
-I. La codificación y descripción de los bienes y servicios que requieran, conforme a los catálogos que se integren;
-
-II. La calendarización de la adquisición y arrendamiento de bienes muebles y de la contratación de servicios;
-
-III. El costo estimado de los bienes y servicios, cuyo monto total se ajustará a los importes presupuestales asignados;
-
-IV. Los demás requisitos que establezca la reglamentación de este Libro.
-
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 13.
 
-16.- Las dependencias, entidades, tribunales administrativos y ayuntamientos que requieran contratar servicios de consultorías, asesorías, estudios e investigaciones, previamente verificarán si en sus archivos existen esos trabajos, estudios o investigaciones. Asimismo, deberán cerciorarse si al interior de la administración pública se cuenta con personal capacitado para llevar a cabo los trabajos, estudios o investigaciones.
+14.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
 
-En el supuesto de que existan trabajos, estudios o proyectos que satisfagan los requerimientos de la dependencia, entidad, tribunal administrativo o ayuntamiento, o personal capacitado para realizarlos, no procederá la contratación, con excepción de aquellos que sean necesarios para su adecuación, actualización o complemento.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+###### Artículo 13.
+
+15.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+###### Artículo 13.
+
+16.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
 ### CAPITULO PRIMERO. De las disposiciones generales
 
@@ -10075,29 +9955,17 @@ En el supuesto de que existan trabajos, estudios o proyectos que satisfagan los 
 
 ###### Artículo 13.
 
-17.- Los procedimientos de adquisiciones, arrendamientos y servicios, que se realicen con cargo a recursos estatales, total o parcialmente, deberán desahogarse por conducto del SEITS, salvo en los casos en que así lo determine el comité de adquisiciones. Lo mismo aplicará a los ayuntamientos cuando se trate de actos, contratos o convenios que se celebren con cargo a recursos municipales.
+17.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
 
-El Reglamento del presente Libro, establecerá las modalidades bajo las cuales se desahogarán dichos procedimientos, atendiendo a la normatividad aplicable a cada uno de ellos.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 13.
 
-18.- El uso SEITS en el desahogo de los procedimientos de adquisiciones, arrendamientos y servicios tendrá por objeto:
+18.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
 
-> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-I. Disminuir los gastos que realicen los órganos públicos, así como los particulares participantes;
-
-> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
-
-II. Controlar el gasto público;
-
-> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
-
-III. Lograr mayor eficiencia y transparencia.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
 ### CAPITULO SEGUNDO. Del Sistema Estatal de Información e Investigación
 
@@ -10105,17 +9973,11 @@ III. Lograr mayor eficiencia y transparencia.
 
 ###### Artículo 13.
 
-19.- Operación consolidada es aquella que conjunta en un sólo procedimiento, por su uso generalizado o volumen, la adquisición de bienes o servicios, con el objeto de obtener las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes.
+19.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
 
-> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Corresponde a la Secretaría de Finanzas llevar a cabo las operaciones consolidadas, respecto a la adquisición de bienes o servicios que requieran las dependencias y entidades.
-
-Los ayuntamientos en el ámbito de su respectiva competencia, llevarán a cabo las operaciones establecidas en este capítulo.
-
-La reglamentación de este Libro establecerá los bienes y servicios sujetos a operaciones consolidadas.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
 ### CAPITULO TERCERO. Del servicio
 
@@ -10123,25 +9985,17 @@ La reglamentación de este Libro establecerá los bienes y servicios sujetos a o
 
 ###### Artículo 13.
 
-20.- La Secretaría de Finanzas y los ayuntamientos establecerán y operarán el catalogo de bienes y servicios, de acuerdo con la reglamentación respectiva.
+20.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
 
-Establecerán y operarán también el catálogo de bienes y servicios específicos que sean susceptibles de ser adquiridos o contratados bajo la modalidad de subasta inversa, los cuales deberán describirse genéricamente y determinarse sus especificaciones técnicas y comerciales, y en su caso, sus equivalentes. Dicho catálogo deberá publicarse en el SEITS y en el portal de Internet de la propia Secretaría y, en su caso, el de los ayuntamientos.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 13.
 
-21.- A fin de conocer la capacidad administrativa, financiera, legal y técnica de las fuentes de suministro, la Secretaría de Finanzas y los ayuntamientos integrarán un catálogo de proveedores y prestadores de servicios.
+21.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
 
-> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Las personas que deseen inscribirse en el catálogo, deberán cumplir con los requisitos que establezca la reglamentación respectiva. En todo caso, deberán estar inscritos en el Registro Único de Personas Acreditadas del Estado de México, en los términos de la Ley de Medios Electrónicos, los proveedores y prestadores de servicios que deseen participar en los procedimientos que deban desahogarse por conducto del SEITS.
-
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
-
-La falta de inscripción en dicho catálogo no limitará la libre concurrencia de los interesados a los procedimientos adquisitivos regulados por este Libro.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
 ### CAPITULO CUARTO. De la coordinación
 
@@ -10149,61 +10003,35 @@ La falta de inscripción en dicho catálogo no limitará la libre concurrencia d
 
 ###### Artículo 13.
 
-22.- Los comités son órganos colegiados con facultades de opinión, que tienen por objeto auxiliar a las dependencias, entidades, tribunales administrativos y ayuntamientos, en la preparación y substanciación de los procedimientos de adquisiciones, servicios, arrendamientos y enajenaciones.
+22.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
 
-En cada dependencia, entidad, tribunal administrativo y ayuntamiento, se constituirá un comité de adquisiciones y servicios.
-
-> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
-
-La Secretaría de Finanzas se auxiliará de un comité central en los procedimientos relativos a las operaciones consolidadas, así como de un comité de arrendamientos, adquisiciones de inmuebles y enajenaciones.
-
-Los ayuntamientos establecerán comités de arrendamientos, adquisiciones de inmuebles y enajenaciones.
-
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 13.
 
-23.- Los comités de adquisiciones y servicios, tendrán las funciones siguientes:
+23.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
 
-I. Dictaminar, sobre la procedencia de los casos de excepción al procedimiento de licitación pública;
-
-> <small>(REFORMADA, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
-
-II. Tramitar los procedimientos de licitación, invitación restringida y adjudicación directa, hasta dejarlos en estado de dictar el fallo correspondiente, incluidos los que tengan que desahogarse bajo la modalidad de subasta inversa;
-
-III. Emitir los dictámenes de adjudicación;
-
-IV. Las demás que establezca la reglamentación de este Libro.
-
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 13.
 
-24.- El comité central tendrá las funciones establecidas en el artículo anterior, en la preparación y substanciación de procedimientos de licitación, invitación restringida y adjudicación directa, respecto de operaciones consolidadas.
+24.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
-
-###### Artículo 13.
-
-25.- El comité de arrendamientos, adquisiciones de inmuebles y enajenaciones, tendrá las funciones siguientes:
-
-I. Dictaminar, sobre la procedencia de los casos de excepción al procedimiento de licitación pública, tratándose de adquisición de inmuebles y arrendamientos;
-
-II. Tramitar los procedimientos de licitación, invitación restringida y adjudicación directa, hasta dejarlos en estado de dictar el fallo correspondiente, tratándose de adquisición de inmuebles y arrendamientos;
-
-III. Emitir los dictámenes de adjudicación, tratándose de adquisiciones de inmuebles y arrendamientos;
-
-IV. Tramitar los procedimientos de subasta pública, hasta dejarlos en estado de dictar el fallo de adjudicación;
-
-V. Las demás que establezca la reglamentación de este Libro.
-
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 13.
 
-26.- La integración y funcionamiento de los comités a que se refiere el presente capitulo, se determinará en la reglamentación de este Libro.
+25.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
 
-> <small>(ADICIONADO CON LAS SECCIONES Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+###### Artículo 13.
+
+26.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADO CON LAS SECCIONES Y LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
 ### CAPITULO PRIMERO. Del IGECEM
 
@@ -10211,23 +10039,21 @@ V. Las demás que establezca la reglamentación de este Libro.
 
 #### SECCION PRIMERA. De la subasta pública
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 13.
 
-27.- Las adquisiciones, arrendamientos y servicios, se adjudicarán a través de licitaciones públicas, mediante convocatoria pública.
+27.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 13.
 
-28.- Las dependencias, entidades, tribunales administrativos y ayuntamientos podrán adjudicar adquisiciones, arrendamientos y servicios, mediante las excepciones al procedimiento de licitación que a continuación se señalan:
+28.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
 
-I. Invitación restringida;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II. Adjudicación directa.
-
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
 #### SECCION PRIMERA. Del comité consultivo estatal de normalización técnica de la construcción
 
@@ -10235,173 +10061,71 @@ II. Adjudicación directa.
 
 ###### Artículo 13.
 
-29.- En el procedimiento de licitación pública deberán establecerse los mismos requisitos y condiciones para todos los licitantes.
+29.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
 
-Todo licitante que satisfaga los requisitos de la convocatoria y de las bases de la licitación tendrá derecho a presentar su propuesta. Las dependencias, entidades, tribunales administrativos y ayuntamientos proporcionarán a los interesados igual acceso a la información relacionada con la licitación a fin de evitar favorecer a algún participante.
-
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 13.
 
-30.- Las licitaciones públicas podrán ser:
+30.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
 
-I. Nacionales, cuando únicamente puedan participar personas de nacionalidad mexicana;
-
-II. Internacionales, cuando puedan participar tanto personas de nacionalidad mexicana como extranjera.
-
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 13.
 
-31.- Solamente se podrán llevar a cabo licitaciones internacionales cuando:
+31.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
 
-I. Previa investigación de mercado que realice la convocante, no exista el bien o el servicio en el mercado nacional; no existan ofertas de empresas nacionales; o sea conveniente en términos de precio, calidad, financiamiento y oportunidad;
-
-II. Resulte obligatorio por los tratados internacionales en que México sea parte o por convenios celebrados por el Gobierno del Estado.
-
-> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 13.
 
-32.- La Secretaría de Finanzas, las dependencias, entidades, tribunales administrativos y ayuntamientos, en términos de este Libro, serán los responsables de llevar a cabo el procedimiento de licitación pública.
+32.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
-
-###### Artículo 13.
-
-33.- Las convocatorias podrán referirse a la celebración de una o más licitaciones públicas, se publicarán por una sola vez, cuando menos en uno de los diarios de mayor circulación en la capital del Estado y en uno de los diarios de mayor circulación nacional, así como a través de los medios electrónicos que para tal efecto disponga la Secretaría de la Contraloría, y contendrán:
-
-I. El nombre de la dependencia, entidad, tribunal administrativo o ayuntamiento convocante;
-
-II. La descripción genérica de los bienes o servicios objeto de la licitación, así como la descripción específica de por los menos cinco partidas o conceptos de mayor monto, de ser el caso;
-
-III. La indicación de si la licitación es nacional o internacional;
-
-IV. El origen de los recursos;
-
-V. El lugar y plazo de entrega, así como las condiciones de pago;
-
-VI. La indicación de los lugares, fechas, horarios y medios electrónicos en que los interesados podrán obtener las bases de licitación y en su caso, el costo y forma de pago de las mismas;
-
-VII. La fecha, hora y lugar de la junta aclaratoria, en su caso;
-
-VIII. La fecha, hora y lugar de celebración del acto de presentación, apertura y evaluación de propuestas, dictamen y fallo;
-
-IX. En el caso de contratos abiertos, las cantidades y plazos mínimos y máximos;
-
-X. La indicación de las personas que estén impedidas a participar, conforme con las disposiciones de este Libro;
-
-XI. La garantía que deberá otorgarse para asegurar la seriedad de la propuesta;
-
-XII. Los demás requisitos generales que deberán cumplir los interesados, según las características y magnitud de los bienes y servicios.
-
-> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
-
-En la convocatoria deberá especificarse si en la licitación aplicará la modalidad de subasta inversa.
-
-> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
-
-La Secretaría de la Contraloría hará pública la información referente a los procedimientos de adquisición, a través del SEITS y de su propio portal de Internet.
-
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 13.
 
-34.- Las bases de la licitación pública tendrán un costo de recuperación y contendrán los requisitos que se establezcan en la reglamentación de este Libro.
+33.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
-
-###### Artículo 13.
-
-35.- En los procedimientos de licitación pública se observará lo siguiente:
-
-I. La presentación, apertura y evaluación de propuestas, así como la emisión del dictamen y fallo de adjudicación se realizará en un solo acto;
-
-II. Los comités se declararán en sesión permanente a partir del inicio del acto hasta comunicar a los interesados el fallo de adjudicación;
-
-III. Las bases de licitación se pondrán a la venta a partir de la fecha de publicación de la convocatoria y hasta el día hábil anterior a la fecha de celebración de la junta de aclaraciones, o en su defecto del acto de presentación, apertura y evaluación de propuestas, dictamen y fallo;
-
-IV. Las convocantes podrán modificar los plazos y términos establecidos en la convocatoria o en las bases de licitación, hasta cinco días hábiles anteriores a la fecha de la celebración del acto de presentación, apertura y evaluación de propuestas, dictamen y fallo;
-
-V. Las modificaciones no podrán limitar el número de licitantes, sustituir o variar sustancialmente los bienes o servicios convocados originalmente, ni adicionar otros distintos;
-
-VI. Las modificaciones a la convocatoria o a las bases se harán del conocimiento de los interesados hasta tres días hábiles antes de la fecha señalada para el acto de presentación, apertura y evaluación de propuestas, dictamen y fallo;
-
-VII. Cuando la convocatoria prevenga la celebración de junta de aclaraciones, ésta tendrá verificativo a los tres días hábiles anteriores al de la celebración del acto de presentación, apertura y evaluación de propuestas, dictamen y fallo;
-
-VIII. El acto de presentación, apertura y evaluación de propuestas, dictamen y fallo, se celebrará dentro del plazo de quince días hábiles siguientes a la publicación de la convocatoria;
-
-IX. Los licitantes se podrán registrar hasta el día y la hora fijados para el acto de presentación, apertura y evaluación de propuestas, dictamen y fallo.
-
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 13.
 
-36.- El acto de presentación, apertura y evaluación de propuestas, dictamen y fallo, se celebrará en la forma siguiente:
+34.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
 
-I. Los licitantes presentarán por escrito y en sobre cerrado por separado, sus propuestas técnica y económica, así como los demás documentos requeridos en las bases de la licitación;
-
-II. La apertura de propuestas podrá efectuarse cuando se haya presentado una propuesta cuando menos;
-
-III. Se abrirán las propuestas técnicas, desechándose las que no cumplan con cualquiera de los requisitos establecidos en las bases de la licitación, poniéndolas a disposición del interesado conjuntamente con el sobre que contenga la propuesta económica;
-
-IV. Se efectuará el análisis y evaluación de las propuestas técnicas;
-
-V. Se procederá a la apertura de las propuestas económicas de los licitantes cuyas propuestas técnicas fueron aceptadas;
-
-VI. Se desecharán las propuestas económicas que no cumplan con cualquiera de los requisitos establecidos en las bases de la licitación, poniéndolas a disposición del interesado;
-
-VII. Una vez efectuada la evaluación de las propuestas técnicas y económicas, se formulará el dictamen que servirá con base para el fallo, en el que se hará constar la reseña cronológica de los actos del procedimiento y el análisis de las propuestas;
-
-VIII. La convocante emitirá el fallo y lo dará a conocer a los licitantes presentes, levantándose el acta respectiva que firmarán los participantes, a quienes se entregará copia de la misma;
-
-IX. La falta de firma de algún licitante no invalidará su contenido y efectos.
-
-> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
-
-Cuando el procedimiento de licitación se realice por conducto del SEITS, las propuestas técnicas y económicas se presentarán en los formatos electrónicos a que se refieran las bases respectivas, y en él se observarán las mismas condiciones a que se refiere el presente artículo.
-
-> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
-
-Si es el caso que el procedimiento de licitación deba desahogarse bajo la modalidad de subasta inversa, una vez que se haya realizado la evaluación técnica se procederá a informar a los postores el momento en que dará inicio la etapa de ofertas subsecuentes de descuentos.
-
-El reglamento de este Libro establecerá los criterios para la evaluación de las propuestas y el procedimiento para el acto de presentación, apertura y evaluación de propuestas, dictamen y fallo.
-
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 13.
 
-37.- En los casos en que las propuestas económicas estén por arriba del precio de mercado, la convocante lo hará de conocimiento de los participantes a fin de que reduzcan los precios de sus propuestas, hasta que se presente alguna propuesta que esté dentro de mercado, en caso contrario se procederá a declarar desierta la licitación.
+35.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
-
-La convocante procederá a adjudicar el contrato al licitante que presente la propuesta, que estando dentro del precio de mercado sea la más baja, debiendo dar preferencia en igualdad de condiciones frente a empresas grandes, a las presentadas por micro, pequeñas y medianas empresas o agrupaciones de éstas conforme a lo dispuesto al respecto por la Ley de Fomento Económico para el Estado de México. Si fuera el caso de que éstas hubieren presentado una misma oferta económica, se asignará a la que, a juicio del comité de adquisiciones, represente mayores ventajas para el convocante en cuanto a precio, fechas de entrega de bienes y/o prestación de servicios, así como otros criterios de valoración objetiva.
-
-Lo establecido en este artículo será aplicable en el procedimiento de invitación restringida.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 13.
 
-38.- La Secretaría de Finanzas, las dependencias, entidades, tribunales administrativos y ayuntamientos procederán a declarar desierta la licitación, en los procedimientos que tramiten, cuando no reciban propuesta alguna o las presentadas no reúnan los requisitos exigidos en las bases de licitación.
+36.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
-
-Podrá declararse desierta una licitación parcialmente, cuando no se hubiese recibido propuesta alguna o las presentadas no reúnan los requisitos, respecto de una o varias partidas o conceptos.
-
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 13.
 
-39.- Las convocantes podrán cancelar una licitación por caso fortuito o causa de fuerza mayor, o cuando existan circunstancias debidamente justificadas, que produzcan la extinción de la necesidad de adquirir los bienes y servicios de que se trate, o que de continuarse con el procedimiento de licitación o contratación en su caso, se pudiera ocasionar un daño o perjuicio a la administración pública estatal o municipal.
+37.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
 
-Las convocantes deberán comunicar la cancelación a los interesados mediante escrito, en el que se justifique la causa o causas de la misma.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-En estos casos, la cancelación no implicará ninguna responsabilidad de carácter económico para las convocantes.
+###### Artículo 13.
 
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+38.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+###### Artículo 13.
+
+39.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
 #### SECCION SEGUNDA. De la expedición de las normas técnicas
 
@@ -10409,115 +10133,77 @@ En estos casos, la cancelación no implicará ninguna responsabilidad de caráct
 
 ###### Artículo 13.
 
-40.- Las dependencias, entidades, tribunales administrativos y ayuntamientos, bajo su responsabilidad, podrán llevar a cabo procedimientos de adquisición de bienes o servicios a través de las modalidades de invitación restringida y adjudicación directa.
+40.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
 
-En todo caso se invitará o adjudicará de manera directa a personas que cuente con capacidad de respuesta inmediata, así como con los recursos técnicos, financieros y demás que sean necesarios, de acuerdo con las características y magnitud de las adquisiciones.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
-
-###### Artículo 13.
-
-41.- Las dependencias, entidades, tribunales administrativos y ayuntamientos podrán adquirir y contratar servicios mediante invitación restringida cuando:
-
-I. Se hubiere declarado desierto un procedimiento de licitación; o
-
-II. El importe de la operación no exceda de los montos establecidos por el Presupuesto de Egresos del Gobierno del Estado de México del ejercicio correspondiente.
-
-Las dependencias, entidades, tribunales administrativos y ayuntamientos se abstendrán de fraccionar el importe de las operaciones, con el propósito de quedar comprendidos en este supuesto de excepción. La Secretaría de la Contraloría y los órganos de control interno, en el ámbito de su competencia, vigilarán el cumplimiento de esta disposición.
-
-> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
-
-En la invitación deberá especificarse si en el proceso de asignación aplicará la modalidad de subasta inversa.
-
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
 ###### Artículo 13.
 
-42.- El procedimiento establecido en el artículo anterior, comprende la invitación de tres personas cuando menos, que serán seleccionadas de entre las que se inscriban en el catálogo de proveedores, la reglamentación de este Libro.
+41.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
-
-###### Artículo 13.
-
-43.- El procedimiento de invitación restringida se desarrollará en los términos de la licitación pública, a excepción de la publicación de la convocatoria pública.
-
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 13.
 
-44.- El procedimiento de invitación restringida se declarará desierto, cuando no se presente propuesta alguna que cumpla con los requisitos establecidos en las bases.
+42.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
-
-###### Artículo 13.
-
-45.- Las dependencias, entidades, tribunales administrativos y ayuntamientos podrán adquirir bienes, arrendar bienes muebles e inmuebles y contratar servicios, mediante adjudicación directa cuando:
-
-I. La adquisición o el servicio sólo puedan realizarse con una determinada persona, por tratarse de obras de arte, titularidad de patentes, registros, marcas específicas, derechos de autor u otros derechos exclusivos;
-
-II. La adquisición o el arrendamiento de algún inmueble sólo puedan realizarse con determinada persona, por ser el único bien disponible en el mercado inmobiliario, que reúne las características de dimensión, ubicación, servicios y otras que requieran las dependencias, entidades, tribunales administrativos o ayuntamientos para su buen funcionamiento o la adecuada prestación de los servicios públicos a su cargo;
-
-III. Se trata de servicios que requieran de experiencia, técnicas o equipos especiales, o se trate de la adquisición de bienes usados o de características especiales, que solamente puedan ser prestados o suministrados por una sola persona;
-
-IV. Sea urgente la adquisición de bienes, arrendamientos o servicios por estar en riesgo el orden social, la salubridad, la seguridad pública o el ambiente, de alguna zona o región del Estado; se paralicen los servicios públicos, se trate de programas o acciones de apoyo a la población para atender necesidades apremiantes; o concurra alguna causa similar de interés público;
-
-V. Existan circunstancias que puedan provocar pérdidas o costos adicionales importantes al erario;
-
-VI. Pueda comprometerse información de naturaleza confidencial para el Estado o municipios, por razones de seguridad pública;
-
-VII. Existan circunstancias extraordinarias o imprevisibles derivadas de riesgo o desastre. En este supuesto, la adquisición, arrendamiento y servicio deberá limitarse a lo estrictamente necesario para enfrentar tal eventualidad;
-
-VIII. Se hubiere rescindido un contrato por causas imputables al proveedor; o la persona que habiendo resultado ganadora en una licitación no concurra a la suscripción del contrato dentro del plazo establecido en este Libro.
-
-En estos supuestos, la dependencia, entidad, tribunal administrativo o ayuntamiento podrán adjudicar el contrato al licitante que haya presentado la propuesta solvente más cercana a la ganadora y así sucesivamente. En todo caso, la diferencia de precio no deberá ser superior al diez por ciento respecto de la propuesta ganadora, en caso contrario se procederá adjudicar directamente el contrato a otra persona.
-
-IX. Se hubiere declarado desierto un procedimiento de invitación restringida;
-
-X. Cuando se aseguren condiciones financieras que permitan al Estado o municipios cumplir con la obligación de pago de manera diferida, sin que ello implique un costo financiero adicional o que habiéndolo, sea inferior al del mercado; o (sic)
-
-XI. El importe de la operación no rebase los montos establecidos en el Presupuesto de Egresos del Gobierno del Estado del ejercicio correspondiente. Tratándose de arrendamientos de inmuebles se entenderá por importe de la operación el monto mensual de la renta.
-
-> <small>(ADICIONADA, G.G. 16 DE DICIEMBRE DE 2011)</small>
-
-XII. Se trate de bienes producidos por sociedades cooperativas, de producción rural, de interés colectivo, de solidaridad social, sociedades y asociaciones de fin social cuyo objeto no sea preponderantemente lucrativo, producidos en el Estado de México y adquiridos directamente a éstas.
-
-Las dependencias, entidades, tribunales administrativos y ayuntamientos se abstendrán de fraccionar el importe de las operaciones, con el propósito de quedar comprendidos en este supuesto de excepción. La Secretaría de la Contraloría y los órganos de control interno, en el ámbito de su competencia, vigilarán el cumplimiento de esta disposición.
-
-Las dependencias, entidades, tribunales administrativos y ayuntamientos, con el auxilio de sus respectivos comités de adquisiciones, deberán comprobar que las adjudicaciones directas que realicen, se encuentren en alguno de los supuestos normativos previstos en este artículo.
-
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 13.
 
-46.- El procedimiento de adjudicación directa se substanciará con arreglo a la reglamentación de este Libro.
+43.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
-
-###### Artículo 13.
-
-47.- Las disposiciones relativas a los procedimientos de adquisición establecidas en este capítulo serán aplicables a los arrendamientos de bienes muebles e inmuebles, con arreglo a la reglamentación de este Libro.
-
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 13.
 
-47-BIS.- La subasta inversa electrónica es una modalidad bajo la cual pueden desahogarse los procedimientos de adquisición de bienes y contratación de servicios en los casos previstos por el presente Libro, en condiciones más favorables para el Estado.
+44.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
 
-> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-###### Artículo 13.
-
-47-TER.- La modalidad de subasta inversa electrónica sólo será aplicable para los procedimientos de adquisición de aquellos bienes y servicios que se encuentren inscritos en el catálogo de bienes y servicios específicos a que se refiere el segundo párrafo del artículo 13.20.
-
-> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
 ###### Artículo 13.
 
-47-QUÁTER.- La subasta dará inicio en la fecha y hora señaladas en la convocatoria y se realizará en presencia de un representante del comité de adquisiciones y servicios. Una vez iniciada, los postores inscritos podrán enviar sus ofertas de descuentos, con base en el procedimiento que determine el Reglamento y de acuerdo a las diferencias mínimas que señale la convocatoria respectiva.
+45.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
 
-Mediante la presentación de estas ofertas subsecuentes de descuentos, se realizará la adjudicación al postor que presente la oferta más ventajosa. Los postores no podrán modificar las especificaciones originalmente contenidas en su propuesta técnica.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+###### Artículo 13.
+
+46.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+###### Artículo 13.
+
+47.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
+
+###### Artículo 13.
+
+47 Bis.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+###### Artículo 13.
+
+47-Ter.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+###### Artículo 13.
+
+47-Quáter.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADO CON LA SECCIONE Y LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
 ### CAPITULO UNICO
 
@@ -10525,147 +10211,73 @@ Mediante la presentación de estas ofertas subsecuentes de descuentos, se realiz
 
 ###### Artículo 13.
 
-48.- Las enajenaciones de bienes muebles e inmuebles del Estado y municipios se realizarán a través de subasta pública.
+48.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
-
-###### Artículo 13.
-
-49.- Quedan exceptuadas de la disposición establecida en el artículo anterior, las operaciones siguientes:
-
-I. La transmisión de dominio de bienes muebles e inmuebles a favor de los gobiernos federal, estatales y municipales;
-
-II. La transmisión de dominio a favor de entidades que tengan a su cargo desarrollar programas de interés social para atender necesidades colectivas;
-
-III. La permuta para satisfacer necesidades públicas;
-
-IV. La donación en favor de asociaciones e instituciones privadas que realicen actividades de interés social y no persigan fines de lucro;
-
-V. La enajenación de bienes muebles e inmuebles, para la creación, fomento o conservación de una empresa que beneficie a la colectividad;
-
-VI. La donación de bienes en cumplimiento de programas sociales o de acciones de apoyo a la comunidad;
-
-VII. La transmisión de dominio de inmuebles que realicen las entidades, en cumplimiento de su objeto, cuando así lo dispongan las leyes;
-
-VIII. La transmisión de dominio de bienes muebles e inmuebles, derivada de los procedimientos de liquidación de las entidades;
-
-IX. Las enajenaciones a título oneroso que realicen el Estado y los municipios, por conducto de terceros, en términos de la reglamentación de este Libro;
-
-X. La transmisión de dominio de bienes muebles e inmuebles en cumplimiento de sentencias dictadas por tribunales federales y estatales;
-
-XI. La dación en pago por concepto de indemnización, en los términos previstos por la Ley de Expropiación para el Estado de México;
-
-XII. El importe de la enajenación no rebase los montos establecidos en el Presupuesto de Egresos del Gobierno del Estado del ejercicio correspondiente;
-
-XIII. Las demás que señalen otras disposiciones legales.
-
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 13.
 
-50.- En el procedimiento de subasta pública de bienes muebles e inmuebles, deberán establecerse los mismos requisitos y condiciones para todos los participantes.
+49.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
 
-> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCION, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Toda persona que satisfaga los requisitos de la convocatoria y de las bases de la subasta pública, tendrá derecho a presentar posturas. La Secretaría de Finanzas, entidades, tribunales administrativos y ayuntamientos proporcionarán a los interesados igual acceso a la información relacionada con la subasta.
-
-> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
 ###### Artículo 13.
 
-51.- La Secretaría de Finanzas, entidades, tribunales administrativos y ayuntamientos, tendrán a su cargo el trámite de los procedimientos de subasta pública.
+50.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
-
-###### Artículo 13.
-
-52.- Las convocatorias públicas podrán referirse a la celebración de una o más subastas públicas, se publicarán por una sola vez, cuando menos en uno de los diarios de mayor circulación en la capital del Estado y en uno de los diarios de mayor circulación nacional, así como a través de los medios electrónicos que para tal efecto se disponga y contendrán:
-
-I. El nombre de la convocante;
-
-II. La descripción genérica de los bienes muebles e inmuebles;
-
-III. El valor de los bienes que servirá de base para la subasta;
-
-IV. La indicación de los lugares, fechas, horarios y medios electrónicos en que los interesados podrán obtener las bases de subasta pública, así como su costo y forma de pago;
-
-V. La fecha, hora y lugar para la celebración de la visita de inspección y de la junta aclaratoria;
-
-VI. La fecha, hora y lugar de celebración del acto de subasta;
-
-VII. La indicación de las personas que estén impedidas a participar, conforme a las disposiciones de este Libro;
-
-VIII. La garantía que deberá otorgarse para asegurar la seriedad de la postura;
-
-IX. Los demás requisitos generales que deberán cumplir los interesados, según las características de los bienes.
-
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 13.
 
-53.- Las bases de la subasta pública contendrán los requisitos que se establezcan en la reglamentación de este Libro y se pondrán a la venta a partir del día hábil siguiente al de la última publicación de la convocatoria y hasta un día hábil anterior a la fecha de la visita de inspección de los bienes.
+51.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
-
-###### Artículo 13.
-
-54.- Para determinar el valor de los inmuebles que servirá de base para la subasta se tomará en cuenta el avalúo que emita el Instituto de Información e Investigación Geográfica, Estadística y Catastral del Estado de México.
-
-El valor de los muebles que servirá de base para la subasta se determinará conforme con el avalúo que apruebe la convocante, en términos de la reglamentación de este Libro.
-
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 13.
 
-55.- En el procedimiento de subasta pública se observará lo siguiente:
+52.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
 
-I. La presentación, apertura y evaluación de posturas, emisión del dictamen y fallo de adjudicación se realizará en un solo acto;
-
-II. El comité de arrendamientos, adquisiciones de inmuebles y enajenaciones, se declarará en sesión permanente a partir del inicio del acto hasta comunicar a los interesados el fallo de adjudicación;
-
-III. El acto de presentación, apertura y evaluación de posturas, dictamen y fallo, se celebrará dentro del plazo de quince días hábiles siguientes a la última publicación de la convocatoria;
-
-IV. Los interesados deberán registrarse el día y la hora fijados para el acto de presentación, apertura y evaluación de posturas, dictamen y fallo; tratándose de bienes muebles el registro se realizará simultáneamente con la venta de las bases de la subasta;
-
-V. Los participantes al inicio del acto de presentación, apertura y evaluación de posturas, dictamen y fallo, entregarán a la convocante en sobre cerrado sus posturas;
-
-VI. Las posturas se abrirán y se desecharán las que no cubran los requisitos establecidos en las bases de la subasta pública;
-
-VII. La convocante pasará lista de las personas que hubieren presentado posturas haciendo saber a los asistentes las que fueron calificadas como legales y les dará a conocer cuál es la mejor postura, concediendo plazos sucesivos hasta que la última postura no sea mejorada;
-
-VIII. La convocante fincara el remate a favor de quien hubiera hecho la mejor postura;
-
-IX. El acta presentación, apertura y evaluación de posturas, dictamen y fallo de adjudicación, se dará a conocer a las personas que hayan presentado posturas, la cual se firmará por los participantes, a quienes se entregará copia de la misma;
-
-X. La falta de firma de algún postor no invalidará el contenido y efectos del acta.
-
-> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
-
-Cuando la subasta se realice por conducto del SEITS, se observarán los procedimientos previstos por el Código Financiero y su Reglamento.
-
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 13.
 
-56.- La Secretaría de Finanzas, entidades, tribunales administrativos y ayuntamientos, procederán a declarar desierta la subasta pública, cuando no reciban propuesta alguna o las presentadas no reúnan los requisitos exigidos en las bases.
+53.-(DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
-
-###### Artículo 13.
-
-57.- Las convocantes podrán cancelar una subasta por caso fortuito o causa de fuerza mayor, o cuando existan circunstancias debidamente justificadas, que produzcan la extinción de la necesidad de enajenar los bienes, o que de continuarse con el procedimiento de subasta pública, se pudiera ocasionar un daño o perjuicio a la administración pública estatal o municipal.
-
-Las convocantes deberán comunicar la cancelación a los interesados mediante escrito, en el que se justifique la causa o causas de la misma.
-
-En estos casos, la cancelación no implicará ninguna responsabilidad de carácter económico para las convocantes.
-
-> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 13.
 
-58.- La Secretaría de Finanzas, entidades, tribunales administrativos y ayuntamientos podrán enajenar bienes mediante adjudicación directa en términos de la reglamentación de este Libro, cuando se hubiere declarado desierto un procedimiento de subasta pública.
+54.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+###### Artículo 13.
+
+55.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+###### Artículo 13.
+
+56.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+###### Artículo 13.
+
+57.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+###### Artículo 13.
+
+58.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
 ### CAPITULO I. Disposiciones generales
 
@@ -10673,115 +10285,65 @@ En estos casos, la cancelación no implicará ninguna responsabilidad de caráct
 
 ###### Artículo 13.
 
-59.- La adjudicación de los contratos derivados de los procedimientos de adquisiciones de bienes o servicios, obligará a la convocante y al licitante ganador a suscribir el contrato respectivo dentro de los diez días hábiles siguientes al de la notificación del fallo. Los contratos podrán suscribirse mediante el uso de la firma electrónica, en apego a las disposiciones de la Ley de Medios Electrónicos y su Reglamento.
+59.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 26 DE DICIEMBRE DE 2007)</small>
-
-###### Artículo 13.
-
-60.- Los derechos y obligaciones que se deriven del contrato, no podrán cederse en forma parcial ni total, con excepción de los derechos de cobro, en cuyo caso se deberá contar con el consentimiento de la dependencia, entidad o ayuntamiento.
-
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
-
-El contratista no podrá subcontratar total o parcialmente, el suministro de bienes o la prestación de servicios, salvo que cuente con la autorización previa y expresa de la contratante, en cuyo caso el contratista será el único responsable del cumplimiento de las obligaciones a su cargo.
-
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 13.
 
-61.- En los contratos se pactarán penas convencionales a cargo del contratista por incumplimiento de sus obligaciones. En los contratos en que se pacte ajuste de precios, la penalización se calculará sobre el precio ajustado.
+60.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
 
-El contratista estará obligado a responder de los defectos y vicios ocultos de los bienes y servicios.
-
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 13.
 
-62.- En los contratos se estipularán las diversas consecuencias de la cancelación, terminación anticipada o rescisión por causas imputables a la contratista.
+61.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
 
-> <small>(REFORMADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
-
-Los contratos contendrán los elementos que establezca la reglamentación de este Libro y se elaborarán conforme con los modelos que establezca la Secretaría de Finanzas o los ayuntamientos, en su caso.
-
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 13.
 
-63.- En los contratos deberá pactarse la condición de precio fijo.
+62.-(DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
 
-Los contratos no podrán ser modificados en cuanto a monto y plazo, ni estarán sujetos a ajustes de precios y costos.
-
-Cuando con posterioridad a la celebración de los contratos se presenten circunstancias económicas de tipo general ajenas a la responsabilidad de las partes y que incidan en las condiciones pactadas, las dependencias, entidades, tribunales administrativos y ayuntamientos, podrán, dentro de su presupuesto autorizado, reconocer incrementos o exigir reducciones en monto o plazo.
-
-En los contratos abiertos se podrán pactar ajustes al importe de los bienes o servicios contratados, en caso de aumento o decremento en los precios, dentro del presupuesto autorizado.
-
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 13.
 
-64.- La contratante deberá verificar que el proveedor cumpla con la entrega de los bienes o servicios en las condiciones pactadas. Podrá recibir bienes o servicios que superen o mejoren las especificaciones estipuladas siempre que se respete el precio de los contratados.
+63.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
-
-###### Artículo 13.
-
-65.- Los contratos pueden ser rescindidos:
-
-I. Sin responsabilidad para la contratante, cuando el contratista incumpla con alguna de las obligaciones a su cargo; o
-
-II. Sin responsabilidad para el contratista, cuando la contratante incumpla con las obligaciones contractuales a su cargo.
-
-En el caso de la fracción I, la contratante estará facultada para rescindir el contrato en forma administrativa, otorgando garantía de previa audiencia al contratista en términos del Código de Procedimientos Administrativos del Estado de México.
-
-En el supuesto de la fracción II, el contratista afectado podrá demandar la rescisión del contrato ante el Tribunal de lo Contencioso Administrativo.
-
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 13.
 
-66.- En los casos de rescisión del contrato, el saldo por amortizar del anticipo otorgado se reintegrará a las contratantes en un plazo no mayor de treinta días hábiles, contado a partir de la fecha en que le sea notificada la rescisión al proveedor.
+64.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
 
-Si el proveedor no reintegra el saldo por amortizar en el plazo señalado en el párrafo anterior, deberá pagar gastos financieros conforme a una tasa que será igual a la establecida anualmente en la Ley de Ingresos del Estado de México o la Ley de Ingresos de los Municipios del Estado de México, para los casos de prórroga en el pago de créditos fiscales.
-
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 13.
 
-67.- Las dependencias, entidades, tribunales administrativos y ayuntamientos se abstendrán de recibir propuestas o celebrar contratos con las personas siguientes:
+65.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
 
-I. Aquellas en las que el servidor público que intervenga en cualquier etapa del procedimiento de adquisición o de la contratación tenga interés personal, familiar o de negocios, incluyendo aquellas de las que pueda obtener algún beneficio para él, su cónyuge o sus parientes consanguíneos hasta el cuarto grado, por afinidad o civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que las personas antes referidas formen parte, durante los dos años previos a la fecha de la celebración de procedimiento del que se trate;
-
-II. Los contratistas que por causas imputables a ellos tengan un atraso en la entrega de los bienes o en la prestación de los servicios;
-
-III. Las que por causas imputables a ellas mismas no formalicen, en el plazo que establece el presente Libro, los contratos que se les hayan adjudicado;
-
-IV. Aquellas que por causas imputables a ellas mismas se les hubiere rescindido un contrato;
-
-V. Las que se encuentren en situación de mora o adeudo en la entrega de los bienes o en la prestación de los servicios, o en general, hayan incumplido con sus obligaciones contractuales respecto a las materias objeto de esta ley, por causas imputables a ellas mismas;
-
-VI. Las que hubieren proporcionado información que resulte falsa, o que hayan actuado con dolo o mala fe en alguna etapa del procedimiento para la adjudicación de un contrato, en su celebración, durante su vigencia o en el trámite de alguna inconformidad administrativa;
-
-VII. Las que en virtud de la información con que cuenten los órganos de control interno hayan celebrado contratos en contravención a lo dispuesto por este Libro;
-
-VIII. Aquellas que hayan sido declaradas en suspensión de pagos, estado de quiebra, o sujetas a concurso de acreedores;
-
-IX. Las que participen en un procedimiento de adquisición perteneciendo a un mismo grupo empresarial, o se encuentren vinculadas por algún socio o socios comunes;
-
-X. Las demás que por cualquier causa se encuentren impedidas para ello por disposición de ley.
-
-En los términos que se precisarán en el reglamento de este Libro, la Secretaría de la Contraloría llevará el registro de las personas que se encuentren en cualquiera de los supuestos a que se refieren las fracciones II, IV, VI, y VII, dará a conocer a las dependencia y entidades y recibirá de éstas la información correspondiente para la integración y difusión de dicho registro.
-
-Los ayuntamientos podrán establecer en su reglamentación el registro a que se refiere el párrafo anterior.
-
-Es aplicable a las enajenaciones lo dispuesto en las fracciones I, III, IV, V, VI, IX, y X de este artículo. Asimismo será aplicable lo señalado en la fracción VIII, cuando se pacte a plazos la obligación de pago.
-
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 13.
 
-68.- En las adquisiciones y arrendamientos de los bienes inmuebles y enajenación de bienes muebles e inmuebles, el otorgamiento del contrato se sujetará a las disposiciones del Código Civil del Estado de México.
+66.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+###### Artículo 13.
+
+67.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+###### Artículo 13.
+
+68.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
 ### CAPITULO II. De la dirección del periódico oficial
 
@@ -10789,41 +10351,23 @@ Es aplicable a las enajenaciones lo dispuesto en las fracciones I, III, IV, V, V
 
 ###### Artículo 13.
 
-69.- Los proveedores que celebren los contratos de adquisiciones y servicios a que se refiere este Libro, deberán garantizar a favor de la contratante:
+69.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
 
-I. El anticipo que reciban;
-
-II. Los bienes o materiales que reciban;
-
-III. El cumplimiento de los contratos;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2009)</small>
-
-IV. Los defectos o vicios ocultos de los bienes o servicios, que en su caso procedan.
-
-Las garantías a que se refieren las fracciones I y II deberán constituirse por la totalidad del monto del anticipo o del importe de los bienes o materiales. En el caso de la fracción III las garantías se constituirán por el diez por ciento del importe total del contrato; y en la hipótesis de la fracción IV las garantías se constituirán hasta por el diez por ciento del importe total del contrato.
-
-Tratándose de contratos abiertos la garantía de cumplimiento se constituirá por el diez por ciento de la cantidad máxima o del importe del plazo máximo; y la garantía de defectos y vicios ocultos se constituirá hasta por el diez por ciento de la cantidad máxima o del importe del plazo máximo.
-
-Las clases, constitución, reajustes y devolución de las garantías a que se refiere este artículo, serán establecidas por la reglamentación de este Libro.
-
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 13.
 
-70.- Las contratantes podrán exceptuar a los contratistas de otorgar la garantía de cumplimiento del contrato, siempre que suministren antes de la suscripción del contrato, la totalidad de los bienes o servicios y el monto del contrato no exceda de dos mil veces el salario mínimo vigente en la capital del Estado.
+70.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 13.
 
-71.- En caso de que el cumplimiento de las obligaciones a cargo de los proveedores derivadas de defectos o vicios ocultos, rebasen el importe de la garantía, las dependencias, entidades, tribunales administrativos y ayuntamientos, además de hacer efectiva la garantía otorgada, podrán exigir el pago de la diferencia que resulte.
+71.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
 
-Las diferencias que resulten a favor de las contratantes tendrán el carácter de créditos fiscales, por lo que su cumplimiento podrá hacerse efectivo a través del procedimiento administrativo de ejecución.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
 ### CAPITULO III. Del funcionamiento del periódico oficial
 
@@ -10831,25 +10375,17 @@ Las diferencias que resulten a favor de las contratantes tendrán el carácter d
 
 ###### Artículo 13.
 
-72.- Los contratos abiertos son aquellos instrumentos que permiten a las dependencias, entidades, tribunales administrativos y ayuntamientos, adquirir bienes o contratar servicios por una cantidad y plazo indeterminados, fijando mínimos y máximos, dentro de la asignación presupuestal correspondiente.
+72.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 13.
 
-73.- Para la celebración de contratos abiertos se observará lo siguiente:
+73.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
 
-I. Se deberá determinar, de manera previa a la iniciación del procedimiento adquisitivo correspondiente, la cantidad mínima y máxima de bienes por adquirir o el plazo mínimo y máximo de la prestación de servicios, así como la asignación presupuestal disponible;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II. El programa de suministro que formará parte del contrato, establecerá las cantidades mínimas y máximas de los bienes o los plazos mínimos y máximos de prestación de servicios, y en su caso los precios unitarios;
-
-III. En general, los contratos tendrán una vigencia que no excederá del ejercicio fiscal en que se suscriba;
-
-IV. Podrá rebasar un ejercicio fiscal, en cuyo caso las contratantes en sus programas anuales de adquisiciones, arrendamientos y servicios, deberán determinar tanto el presupuesto total como el relativo a los ejercicios subsiguientes, en los que además de considerar los costos vigentes, tomarán en cuenta las previsiones necesarias para los ajustes de costos que aseguren la continuidad del suministro;
-
-V. El proveedor suministrará los bienes y servicios en las cantidades y fechas que determine la contratante;
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
 ### CAPITULO IV. Del procedimiento de publicación y circulación
 
@@ -10857,39 +10393,29 @@ V. El proveedor suministrará los bienes y servicios en las cantidades y fechas 
 
 ###### Artículo 13.
 
-74.- Las dependencias y entidades estatales, así como los tribunales administrativos, proporcionarán a:
+74.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
 
-I. La Secretaría de la Contraloría la información relacionada con los procedimientos de adjudicación que realicen, a través de los medios que establezca la propia dependencia;
-
-II. La Secretaría de la Contraloría la información a que se refieren las fracciones II, IV, VI y VII del artículo 13.67;
-
-III. La Secretaria de la Contraloría y a los órganos de control interno, la información que les soliciten relacionada con los actos, procedimientos y contratos regulados por este Libro.
-
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 13.
 
-75.- Las dependencias, entidades, tribunales administrativos y ayuntamientos conservarán, en sus archivos en forma ordenada la documentación comprobatoria de los actos, procedimientos y contratos materia de este Libro, cuando menos por el lapso de cinco años, contado a partir de la fecha de su celebración.
+75.- L(DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
 
-> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
-
-La información a que se refiere el párrafo anterior, en su caso, podrá conservarse en los términos previstos por la Ley de Medios Electrónicos.
-
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 13.
 
-76.- La Secretaría de la Contraloría y los ayuntamientos, a través de sus órganos de control interno, llevarán acabo (sic) el seguimiento de los actos, procedimientos y contratos en los términos que señale la reglamentación de este Libro.
+76.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
 
-Asimismo, podrán realizar las visitas e inspecciones que estimen pertinentes a las convocantes, contratantes, licitantes, proveedores y prestadores de servicios, a efecto de verificar que los actos, procedimientos y contratos se hayan celebrado conforme a las disposiciones de este Libro.
-
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 13.
 
-77.- Las convocantes y contratantes podrán verificar, en cualquier tiempo, que los actos, procedimientos y contratos se hayan celebrado conforme a las disposiciones de este Libro; ordenar visitas de inspección a los establecimientos de los licitantes, proveedores y prestadores de servicios, y requerir los datos e informes que estime necesarios.
+77.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
 ### CAPITULO V. De la fe de erratas
 
@@ -10897,13 +10423,11 @@ Asimismo, podrán realizar las visitas e inspecciones que estimen pertinentes a 
 
 ###### Artículo 13.
 
-78.- Los particulares que infrinjan las disposiciones contenidas en éste Libro, serán sancionados por la Secretaría de Finanzas, dependencias, entidades, ayuntamientos y tribunales, en el ámbito de su competencia, con multa equivalente a la cantidad de treinta a tres mil veces el salario mínimo general vigente en la capital del Estado en la fecha de la infracción.
+78.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Lo anterior sin perjuicio de las penas convencionales pactadas en los contratos.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)</small>
 
 ### CAPITULO VI. De las responsabilidades de los servidores públicos
 
@@ -10911,69 +10435,31 @@ Lo anterior sin perjuicio de las penas convencionales pactadas en los contratos.
 
 ###### Artículo 13.
 
-79.- Los licitantes y los convocantes en un procedimiento de licitación pública o invitación restringida, podrán promover inconformidad administrativa en contra del procedimiento de licitación o invitación, por contravención a las disposiciones de este Libro, siempre que se trate del mismo procedimiento en el que hayan participado como licitantes o convocados, respectivamente.
+79.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
 
-La inconformidad administrativa se presentará ante la Contraloría, por escrito o por vía electrónica, dentro de los diez días hábiles siguientes a la fecha en que se de a conocer públicamente el fallo de adjudicación, en caso de que el inconforme haya asistido al acto de adjudicación, o en su defecto al en que le haya sido notificado el fallo de adjudicación.
-
-Tratándose de procedimientos de licitación o invitación restringida que realicen las autoridades municipales, la inconformidad administrativa se presentará por escrito ante el ayuntamiento correspondiente.
-
-> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
-
-Si la inconformidad se tramita por conducto del SEITS, se estará a lo dispuesto por la Ley de Medios Electrónicos y su Reglamento.
-
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 13.
 
-80.- El escrito de inconformidad deberá contener los datos siguientes:
+80.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
 
-I. Nombre del inconforme o de quien promueva en su representación;
-
-II. Domicilio en el Estado de México para recibir notificaciones;
-
-III. El motivo de inconformidad;
-
-IV. La fecha de celebración del acto de adjudicación o de la notificación del fallo;
-
-V. Bajo protesta de decir verdad, los hechos que sustenten la inconformidad;
-
-VI. Las disposiciones legales violadas, de ser posible;
-
-VII. Las pruebas que ofrezca;
-
-VIII. La solicitud de suspensión del acto motivo de inconformidad, en su caso.
-
-El inconforme deberá adjuntar a su escrito el documento que acredite su personalidad, cuando no gestione a nombre propio, así como los documentos que ofrezca como prueba.
-
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 13.
 
-81.- La inconformidad administrativa suspenderá la contratación o en su caso la adquisición de bienes o la prestación de servicios, cuando:
+81.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
 
-I. Lo solicite el inconforme, siempre que garantice a entera satisfacción de la Secretaría de la Contraloría o del ayuntamiento, los daños o perjuicios que se puedan ocasionar a la hacienda pública o al licitante o convocado que haya resultado ganador;
-
-II. Lo solicite la convocante, por considerar que de no suspender la contratación o ejecución de la obra o servicio, se puedan ocasionar mayores daños o perjuicios al erario estatal o municipal.
-
-En todo caso, la suspensión se otorgará cuando no se siga perjuicio al interés social o se contravengan disposiciones de orden público.
-
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 13.
 
-82.- La Contraloría o los ayuntamientos podrán requerir información a las convocantes, quienes deberán remitirla dentro del plazo de cinco días hábiles siguientes a la recepción del requerimiento correspondiente.
+82.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
 
-La Contraloría o los ayuntamientos notificarán la interposición de la inconformidad administrativa a los licitantes o convocados que hayan resultado ganadores, para que dentro del plazo de cinco días hábiles, concurran a exponer lo que a sus intereses convenga.
-
-La inconformidad administrativa en lo no previsto por este Libro, se substanciará en los términos del recurso administrativo establecido en el Código de Procedimientos Administrativos del Estado de México.
-
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 13.
 
-83.- En las materias reguladas en el presente Libro no procederá el recurso administrativo de inconformidad previsto en el Código de Procedimientos Administrativos del Estado de México.
-
-En contra de la resolución que se dicte en la inconformidad administrativa, así como de los demás actos y resoluciones que se dicten durante la contratación y la vigencia de los contratos regulados por este Libro, procede juicio ante el Tribunal de lo Contencioso Administrativo.
+83.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
 
 > <small>(ADICIONADO CON LOS TÍTULOS, CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
 
@@ -16421,6 +15907,10 @@ NOVENO.- Los municipios que se beneficien por la modificación o no ratificació
 
 DÉCIMO.- Para los efectos del artículo 47 Bis primer párrafo del Código Financiero del Estado de México y Municipios, el aviso de dictamen y el dictamen sobre la base, determinación y pago del Impuesto Predial correspondiente al ejercicio fiscal 2011, podrá presentarse a más tardar el 31 de diciembre de 2012, por tratarse de una nueva obligación fiscal que requiere el adecuado conocimiento de los contribuyentes, así como para desarrollar con oportunidad el sistema electrónico que facilitará su cumplimiento vía Internet.
 
+> <small>(ADICIONADO, G.G. 3 DE MAYO DE 2013)</small>
+
+Asimismo, a fin de propiciar el flujo eficiente de la información y el cabal cumplimiento de las obligaciones a cargo de los sujetos obligados en términos del Código Financiero del Estado de México y Municipios, el dictamen a la determinación de la base del Impuesto Predial correspondiente al ejercicio fiscal 2012, podrá presentarse a más tardar el último día hábil del mes de noviembre de 2013.
+
 G.G. 9 DE AGOSTO DE 2012.
 
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
@@ -16712,3 +16202,45 @@ SEGUNDO.- Este Decreto entrará en vigor el día de su publicación en el Perió
 TERCERO.- El titular del Ejecutivo del Estado y los ayuntamientos, proveerán en su esfera administrativa el cumplimiento del presente Decreto.
 
 CUARTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 3 DE MAYO DE 2013.
+
+DECRETO No. 80 POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO TRANSITORIO DÉCIMO DEL DECRETO NÚMERO 394, PUBLICADO EN EL PERIÓDICO OFICIAL "GACETA DEL GOBIERNO", DE FECHA 16 DE DICIEMBRE DE 2011, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS, Y REFORMADO MEDIANTE DECRETO NUMERO 10, PUBLICADO EN EL PERIÓDICO OFICIAL "GACETA DEL GOBIERNO", DE FECHA 26 DE OCTUBRE DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
+
+G.G. 3 DE MAYO DE 2013.
+
+DECRETO No. 85 POR EL QUE SE EXPIDE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS Y DEROGA EL LIBRO DÉCIMO TERCERO DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el periódico oficial Gaceta del Gobierno.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente ordenamiento entrará en vigor a los ciento ochenta días naturales siguientes al de su publicación y deroga el Libro Décimo Tercero del Código Administrativo del Estado de México.
+
+###### ARTÍCULO TERCERO.
+
+El Reglamento de la presente Ley deberá expedirse en un término no mayor a ciento ochenta días naturales, siguientes a la publicación de este Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Los procedimientos adquisitivos, de inconformidades y de aplicación de sanciones, así como los demás asuntos que se encuentren en trámite o pendientes de resolución se tramitarán y resolverán conforme a las disposiciones vigentes al momento en el que se iniciaron.
+
+###### ARTÍCULO QUINTO.
+
+Las disposiciones administrativas expedidas en esta materia, y sistemas informáticos vigentes al momento de la publicación de este ordenamiento, se seguirán aplicando en todo lo que no se oponga a la presente Ley, en tanto se expiden las disposiciones y sistemas que deban sustituirlos.
+
+###### ARTÍCULO SEXTO.
+
+A partir del inicio de vigencia de este Decreto, las dependencias dispondrán de noventa días naturales para llevar a cabo las modificaciones a sus respectivos Reglamentos Interiores y demás disposiciones que deban adecuarse en virtud del presente Decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se derogan las demás disposiciones legales de igual o menor jerarquía que se opongan a lo establecido en esta Ley.
