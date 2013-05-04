@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-salud-para-el-estado-de-nayarit-14461"
 country: "mx"
 rank: "ley"
 publication_date: "1994-04-30"
-last_updated: "2012-05-25"
+last_updated: "2013-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14461&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE SALUD PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2013.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 30 de abril de 1994.
 
@@ -801,53 +801,77 @@ El Gobierno del Estado, coadyuvará con los Servicios de Salud de Nayarit, en la
 
 ### CAPITULO VII. SALUD MENTAL
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2013)</small>
 
 ###### ARTICULO 66.
 
-La prevención de las enfermedades mentales tienen carácter prioritario, se basará en el conocimiento de los factores que afectan la salud mental, las causas de las alteraciones de la conducta, los métodos de prevención y control de las enfermedades mentales, sobre todo de aquellos desequilibrios de mujeres y menores provocados por la violencia intrafamiliar así como otros aspectos relacionados con la salud mental.
+Salud mental es el bienestar psíquico que experimenta el ser humano como resultado del buen desempeño de los aspectos cognoscitivos, afectivos y conductuales, para el ejercicio pleno de sus capacidades, logrando un desarrollo óptimo de sus potencialidades individuales y de convivencia en sociedad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2013)</small>
 
 ###### ARTICULO 67.
 
-Para la promoción de la salud mental, los Servicios de Salud de Nayarit, y las instituciones de salud en coordinación con las autoridades competentes en cada materia, fomentará y apoyarán:
+La prevención y atención de las enfermedades mentales tendrá carácter prioritario y se basará en el conocimiento de los factores que la afectan, especialmente en las causas que originen las alteraciones de la conducta, los métodos de prevención y control de las enfermedades mentales, así como otros aspectos relacionados con la salud mental, otorgando mayor prioridad a aquellos desequilibrios provocados por la violencia intrafamiliar en mujeres y menores de edad.
 
-I.- El desarrollo de actividades educativos, socio-culturales y recreativas que contribuyan a la salud mental, preferentemente de la infancia y de la justicia;
-
-II.- La difusión de las orientaciones para la promoción de la salud mental;
-
-III.- La realización de programas para prevención del uso de sustancias psicotrópicas, estupefacientes, inhalantes y otras sustancias, no deben causar alteraciones mentales o dependencias, y (sic);
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2000)</small>
-
-IV.- La realización de programas para la prevención del maltrato infantil y de la violencia intrafamiliar; y
-
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2000)</small>
-
-V.- Las demás acciones que indirecta (sic) o indirectamente contribuyan al fomento de la salud mental de la población.
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2013)</small>
 
 ###### ARTICULO 68.
 
-La atención de enfermedades mentales comprende:
+La atención de los trastornos mentales y del comportamiento deberá brindarse con un enfoque comunitario y bajo una perspectiva de reinserción social con estricto respeto a los derechos humanos de los usuarios de estos servicios, ésta se basará en:
 
-I.- La atención de personas con padecimientos mentales, la rehabilitación psiquiátrica de enfermos mentales crónicos, deficientes mentales, alcohólicos y personas que usen habitualmente estupefacientes o substancias psicotrópicas, y;
+I. La atención de personas con padecimientos mentales, la rehabilitación psiquiátrica de enfermos mentales crónicos, deficientes mentales, alcohólicos y personas que usen habitualmente estupefacientes o substancias psicotrópicas, y
 
-II.- La organización, operación y supervisión de instituciones dedicadas al estudio, tratamiento y rehabilitación de enfermos mentales.
+II. La organización, operación y supervisión de instituciones dedicadas al estudio, tratamiento y rehabilitación de enfermos mentales.
+
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2013)</small>
 
 ###### ARTICULO 69.
 
-Los padres, tutores o quienes ejerzan la patria potestad de menores, los responsables de su guarda, las autoridades educativas y cualquier persona que este en contacto de los mismos, procurarán la atención inmediata de los menores que presenten alteraciones de conducta que permitan suponer la existencia de enfermedades mentales.
+Para la promoción y atención de la salud mental, los Servicios de Salud de Nayarit, así como los organismos o centros de atención en la materia, en coordinación con las autoridades competentes, fomentarán y apoyarán:
 
-A tal efecto, podrán obtener orientación y asesoramiento en las instituciones públicas dedicadas a la atención de enfermos mentales.
+I. El desarrollo de actividades educativas, socio-culturales y recreativas que contribuyan a la salud mental, preferentemente de la infancia;
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+II. La difusión de las orientaciones para la promoción de la salud mental;
+
+III. La realización de programas para prevención del uso de sustancias psicotrópicas, estupefacientes, inhalantes y otras sustancias, que causen dependencia y alteraciones mentales;
+
+IV. La realización de programas para la prevención del maltrato infantil y de la violencia intrafamiliar;
+
+V. La coordinación necesaria entre las autoridades sanitarias, judiciales, administrativas según corresponda, para la atención a los enfermos mentales que se encuentran en reclusorios del Estado o en otras instituciones estatales no especializadas en salud mental;
+
+VI. La investigación multidisciplinaria en materia de salud mental, y
+
+VII. Las demás acciones que directa o indirectamente contribuyan al fomento de la salud mental de la población.
+
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2013)</small>
 
 ###### ARTICULO 70.
 
-Los Servicios de Salud de Nayarit, conforme a las normas básicas que establezca prestara atención a los enfermos mentales que se encuentren en reclusorios del Estado o en otras instituciones estatales no especializadas en salud mental.
+Los padres, tutores o quienes ejerzan la patria potestad de menores, los responsables de su guarda, las autoridades educativas y cualquier persona que esté en contacto de los mismos, procurarán la atención inmediata de los menores que presenten alteraciones de conducta que permitan suponer la existencia de enfermedades mentales.
 
-Para tal efecto, se establecerá la coordinación necesaria entre las autoridades sanitarias, judiciales, administrativas y otras, según corresponda.
+A tal efecto, podrán obtener orientación y asesoramiento en las instituciones públicas dedicadas a la atención de enfermos mentales.
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2013)</small>
+
+ARTICULO 70 BIS.- La persona con trastornos mentales y del comportamiento tendrá los siguientes derechos:
+
+I. La mejor atención disponible en materia de salud mental y acorde con sus antecedentes culturales, lo que incluye el trato sin discriminación y con respeto a la dignidad de la persona;
+
+II. Contar con un representante que cuide en todo momento sus intereses. Para esto, la autoridad judicial deberá cuidar que no exista conflicto de intereses por parte del representante;
+
+III. Al consentimiento informado de la persona o su representante, en relación al tratamiento a recibir;
+
+IV. El tratamiento que reciba deberá estar basado en un plan prescrito individualmente con historial clínico, revisado periódicamente y modificado llegado el caso;
+
+V. No ser sometido a tratamientos irreversibles o que modifiquen la integridad de la persona;
+
+VI. Ser tratado y atendido en su comunidad o lo más cerca posible al lugar en donde habiten sus familiares, y
+
+VII. La confidencialidad de la información psiquiátrica sobre su persona.
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2013)</small>
+
+ARTICULO 70 TER.- El internamiento de personas con trastornos mentales y del comportamiento, como último recurso terapéutico, se ajustará a principios éticos, sociales, de respeto a los derechos humanos y a los requisitos que determine la Secretaría de Salud por conducto de los Servicios de Salud de Nayarit y demás disposiciones jurídicas aplicables.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE NOVIEMBRE DE 2007)</small>
 
@@ -2825,7 +2849,7 @@ El Secretario General de Gobierno.
 
 C.P. Antonio Echevarría Domínguez.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 8 DE NOVIEMBRE DE 2000
 
@@ -2888,3 +2912,7 @@ P.O. 25 DE MAYO DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 4 DE MAYO DE 2013.
+
+Artículo Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
