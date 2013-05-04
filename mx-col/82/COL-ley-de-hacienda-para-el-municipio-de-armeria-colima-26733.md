@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-armeria-colima-26733"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2013-03-30"
+last_updated: "2013-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26733&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE ARMERÍA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2013.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -3305,11 +3305,17 @@ AÑO 2003 2004 2005 2006 2007
 
 BASE 60% 70% 80% 90% 100%
 
-> <small>(REFORMADO, P.O. 30 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2013)</small>
 
 ###### ARTICULO SÉPTIMO.
 
-Para el ejercicio fiscal 2013 se amplía el plazo de pronto pago por anualidad adelantada que establece el segundo párrafo del artículo 19 de esta Ley hasta el 30 de abril, concediéndoseles una bonificación del 10 por ciento, sin que se generen recargos y multas.
+Por concepto de estímulo fiscal, a los contribuyentes que se pongan al corriente en el pago del Impuesto Predial de los años anteriores y 2013, dentro de los meses de junio a diciembre del actual ejercicio fiscal, se les aplicará el cobro en los recargos generados por la falta de pago, así como en las multas que hubieran sido impuestas por el mismo concepto, en los porcentajes que van del 0% al 40%, en los siguientes períodos:
+
+PERIÓDO JUNIO JULIO SEPTIEMBRE NOVIEMBRE
+
+AGOSTO OCTUBRE DICIEMBRE
+
+BASE 0% 20% 40%
 
 > <small>(REFORMADO, P.O. 13 DE MARZO DE 2013)</small>
 
@@ -3434,3 +3440,7 @@ P.O. 13 DE MARZO DE 2013.
 P.O. 30 DE MARZO DE 2013.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 4 DE MAYO DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su aprobación y deberá publicarse en el Periódico Oficial "El Estado de Colima".
