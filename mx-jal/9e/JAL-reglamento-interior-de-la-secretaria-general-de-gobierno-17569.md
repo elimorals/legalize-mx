@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interior-de-la-secretaria-general-de-gobierno-17569"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-09-12"
-last_updated: "2011-03-17"
+last_updated: "2013-05-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17569&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "JAL"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA GENERAL DE GOBIERNO
 
-REGLAMENTO INTERIOR DE LA SECRETARÍA GENERAL DE GOBIERNO
+REGLAMENTO INTERIOR DE LA SECRETARÍA GENERAL DE GOBIERNO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2013.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Jalisco, el martes 12 de septiembre de 2000.
 
@@ -189,21 +189,29 @@ IX. Elaborar e interpretar cartográficamente los documentos respectivos, a fin 
 
 X. Brindar el servicio de consulta, asesoría y copias de los expedientes que resguarda el Archivo Histórico Agrario;
 
-> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2013)</small>
 
-XI. Contestar, en representación del Gobierno del Estado y en conjunto con la Dirección General Jurídica de la Secretaría, las demandas de los juicios agrarios y demás procedimientos que establece la Ley Agraria y sus reglamentos;
+XI. Representar al Gobernador del Estado y al Secretario General de Gobierno en los juicios agrarios y demás procedimientos que establece la Ley Agraria y sus reglamentos;
 
 > <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
 
 XII. Designar autorizados en los juicios agrarios y demás procedimientos que establece la Ley Agraria y sus reglamentos;
 
-> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2013)</small>
 
-XIII. Asistir y desahogar las audiencias que establece la Ley Agraria y sus reglamentos; y
+XIII. Asistir y desahogar las audiencias que establece la Ley Agraria y sus reglamentos;
 
-> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2013)</small>
 
-XIV. Las demás que le señalen otras disposiciones legales aplicables y las que le confiera el superior jerárquico.
+XIV. Ser el titular de la oficina de asuntos jurídicos del Gobernador del Estado, para efectos de la representación de éste en los juicios de amparo en materia agraria, de acuerdo con lo dispuesto en el artículo 9° de la Ley de Amparo, Reglamentaria de los Artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, sin perjuicio ni menoscabo de la representación general que corresponda a otras dependencias públicas del Poder Ejecutivo;
+
+> <small>(ADICIONADA, P.O. 4 DE MAYO DE 2013)</small>
+
+XV. Representar al Secretario en los juicios de amparo en materia agraria en que sea señalado como autoridad responsable; y
+
+> <small>(ADICIONADA, P.O. 4 DE MAYO DE 2013)</small>
+
+XVI. Las demás que le señalen otras disposiciones legales aplicables y las que le confiera el superior jerárquico.
 
 ### CAPÍTULO V. De la Subsecretaría de Asuntos Jurídicos
 
@@ -237,7 +245,11 @@ Artículo 12 bis.- El titular de la Subsecretaría de Asuntos Jurídicos tendrá
 
 I. Representar al Secretario en el Comité de Clasificación de Información Pública de la Secretaría, y lo presidirá;
 
-II. Ser el titular de la oficina de asuntos jurídicos del Gobernador del Estado, para efectos de lo establecido en el artículo 12 de la Ley de Amparo, Reglamentaria de los Artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos;
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2013)</small>
+
+II. Ser el titular de la oficina de asuntos jurídicos del Gobernador del Estado, para efectos de la representación de éste, en términos de lo dispuesto por el artículo 9° de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos.
+
+Igualmente, representar al Secretario cuando sea señalado como autoridad responsable en los juicios de amparo, así como dar atención y cumplimentar los requerimientos que le fueren formulados al Gobernador del Estado y al Secretario por los tribunales locales y federales, incluyendo aquellos que se les dirijan como superiores jerárquicos en los juicios de amparo;
 
 III. Emitir y autorizar las actas, acuerdos y resoluciones que procedan con motivo de las quejas administrativas presentadas en contra de notarios públicos, sin perjuicio de que las pueda ejercer directamente el Secretario;
 
@@ -325,13 +337,11 @@ V. Fungir como Unidad de Transparencia de la Secretaria, tramitar y resolver los
 
 VI. Participar, a través de su titular, como miembro del Comité de Clasificación de Información Pública de la Secretaría;
 
-> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2013)</small>
 
-VII. Ser el titular de la oficina de asuntos jurídicos del Gobernador del Estado, en ausencia del Subsecretario de Asuntos Jurídicos, para efectos de lo establecido en el artículo 12 de la Ley de Amparo, Reglamentaria de los Artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos;
+VII. Durante las ausencias del titular de la Subsecretaría de Asuntos Jurídicos, representar al Gobernador del Estado en los juicios de amparo, en términos de lo dispuesto por el artículo 9° de la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, así como ejercer las demás atribuciones previstas en el artículo 12 bis fracción II del presente Reglamento;
 
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 2011)</small>
-
-VIII. Contestar, en representación del Gobierno del Estado y en conjunto con la Dirección General de Asuntos Agrarios de la Secretaría, las demandas de los juicios agrarios y demás procedimientos que establece la Ley Agraria y sus reglamentos;
+VIII. (DEROGADA, P.O. 4 DE MAYO DE 2013)
 
 > <small>(REFORMADA, P.O. 17 DE MARZO DE 2011)</small>
 
@@ -824,3 +834,9 @@ PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones reglamentarias o administrativas que se opongan al presente Acuerdo.
 
 TERCERO. Las atribuciones establecidas en los artículos 12 Bis y 14 del Reglamento Interior de la Secretaría General de Gobierno se aplicarán en los procedimientos que se hayan iniciado antes de la entrada en vigor del presente Acuerdo.
+
+P.O. 4 DE MAYO DE 2013.
+
+PRIMERO. El presente acuerdo entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Los juicios de amparo iniciados con anterioridad a la entrada en vigor de la Ley de Amparo, Reglamentaria de los Artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos publicada el dos de abril de dos mil trece, así como los juicios agrarios iniciados antes de la entrada en vigor de la presente reforma, continuarán tramitándose hasta su resolución final conforme al texto vigente en su inicio, en cuanto se refiere a los artículos 11, 12 bis y 14 anteriores al presente acuerdo de reforma.
