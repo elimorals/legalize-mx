@@ -4,7 +4,7 @@ identifier: "DUR-ley-general-de-desarrollo-urbano-para-el-estado-de-durango-2564
 country: "mx"
 rank: "ley_general"
 publication_date: "2002-06-06"
-last_updated: "2012-10-21"
+last_updated: "2013-05-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25647&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY GENERAL DE DESARROLLO URBANO PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MAYO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 6 de junio de 2002.
 
@@ -881,7 +881,7 @@ IX.- Seleccionar y contratar al personal con la aprobación del Presidente del C
 
 X.- Ejecutar los programas de obras del Instituto;
 
-XI (SIC).- Establecer los métodos que permitan un optimo aprovechamiento de los bienes, muebles e inmuebles de que disponga el Instituto para la realización de su objeto;
+XI.- Establecer los métodos que permitan un optimo aprovechamiento de los bienes, muebles e inmuebles de que disponga el Instituto para la realización de su objeto;
 
 XII.- Proponer al Consejo las medidas que considere convenientes para el mejor funcionamiento del Instituto;
 
@@ -2955,6 +2955,8 @@ La garantía que se refiere anteriormente, no podrá cancelarse sino hasta que h
 
 DEL RÉGIMEN DE PROPIEDAD EN CONDOMINIO.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### ARTÍCULO 253.
 
 Los fraccionadores y promoventes tendrán las siguientes obligaciones:
@@ -3011,181 +3013,127 @@ Los adquirientes de lotes en un fraccionamiento, podrán constituirse legalmente
 
 ###### ARTÍCULO 263.
 
-Los diferentes tipos de condominios son:
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE CONDOMINIOS DEL ESTADO DE DURANGO, P.O. 5 DE MAYO DE 2013)
 
-I.- Condominio horizontal;
-
-II.- Condominio vertical; y
-
-III.- Condominio mixto.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 264.
 
-El condominio puede constituirse:
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE CONDOMINIOS DEL ESTADO DE DURANGO, P.O. 5 DE MAYO DE 2013)
 
-I.- Cuando los diferentes departamentos o áreas pertenezcan a distintos dueños;
-
-II.- Cuando los diferentes departamentos o áreas se destinen a la enajenación a personas distintas; y
-
-III.- Cuando el propietario o propietarios lo dividan para enajenarlos a distintas personas, siempre que exista un elemento común de propiedad que sea indivisible.
-
-El condominio puede constituirse sobre las construcciones en proyecto, en proceso de construcción o ya terminadas.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 265.
 
-No podrá autorizarse la constitución del régimen de propiedad en condominio, en aquellas áreas o predios que no cuenten suficiente y adecuadamente con los servicios urbanos indispensables, como son:
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE CONDOMINIOS DEL ESTADO DE DURANGO, P.O. 5 DE MAYO DE 2013)
 
-I.- Agua potable;
-
-II.- Alcantarillado;
-
-III.- Energía eléctrica;
-
-IV.- Alumbrado público; y
-
-V.- Las áreas comunes que permitan la circulación adecuada de peatones y vehículos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 266.
 
-Conforme al uso o destino que se pretenda dar al inmueble, el condominio se clasificará en: habitacional, comercial, de mercado, de cementerio, industriales, agropecuarios y especiales.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE CONDOMINIOS DEL ESTADO DE DURANGO, P.O. 5 DE MAYO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 267.
 
-Para constituir el régimen de propiedad en condominio, el promovente deberá declarar su habitacional en escritura pública, en la cual se hará constar:
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE CONDOMINIOS DEL ESTADO DE DURANGO, P.O. 5 DE MAYO DE 2013)
 
-I.- La ubicación, dimensiones y linderos del terreno, que corresponda al condominio de que se trate;
-
-II.- La autorización a la constitución del régimen de condominio, así como las licencias, autorizaciones o permisos de construcciones urbanas y de salubridad que expidan las autoridades correspondientes;
-
-III.- En su caso, la constancia de haber donado al ayuntamiento las superficies de terrenos que le señale la Ley;
-
-IV.- La descripción general de cada terreno, departamento, vivienda, casa, local o área y de los materiales empleados o a emplearse para su construcción;
-
-V.- Los bienes de propiedad común, su aprovechamiento, con especificaciones y detalles necesarios a juicio del ayuntamiento;
-
-VI.- El aprovechamiento general del inmueble y el especial de cada departamento, vivienda, casa, local o área; y
-
-VII.- La existencia de la fianza exhibida por el promovente, y un contrato de seguro contra incendios del inmueble para proteger las construcciones.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 268.
 
-La escritura constitutiva del régimen de propiedad en condominio, así como el reglamento de éste, deberán inscribirse en el Registro Público de la propiedad y del Comercio.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE CONDOMINIOS DEL ESTADO DE DURANGO, P.O. 5 DE MAYO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 269.
 
-La extinción voluntaria del régimen de propiedad en condominio, en caso de ser procedente, requiere del acuerdo de un mínimo de las dos terceras partes de los condóminos.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE CONDOMINIOS DEL ESTADO DE DURANGO, P.O. 5 DE MAYO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 270.
 
-Los derechos y obligaciones de los condóminos se regirán por:
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE CONDOMINIOS DEL ESTADO DE DURANGO, P.O. 5 DE MAYO DE 2013)
 
-I.- La presente ley;
-
-II.- El Código Civil para el Estado Libre y Soberano de Durango;
-
-III.- La escritura constitutiva del condominio;
-
-IV.- El reglamento de administración del condominio;
-
-V.- El contrato de compraventa o promesa de venta respectiva; y
-
-VI.- La legislación urbana y reglamentos aplicables.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 271.
 
-El condómino tendrá derecho exclusivo de propiedad a su departamento, vivienda, casa, local o área, y derecho a la copropiedad de los elementos y partes del condominio que se establezcan como comunes.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE CONDOMINIOS DEL ESTADO DE DURANGO, P.O. 5 DE MAYO DE 2013)
 
-El derecho de cada condómino sobre los bienes comunes, será proporcional al valor de su propiedad exclusiva, fijado en la escritura constitutiva para ese efecto elaborada.
-
-Se considerará como bienes de propiedad común:
-
-Cualquier parte del inmueble, locales, obras, aparatos o instalaciones que se resuelva, por unanimidad de los condóminos, usar o disfrutar en común o que se establezcan con tal carácter en el reglamento o en el acta constitutiva.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 272.
 
-Para la ejecución de obras en los bienes comunes e instalaciones generales, se observarán las siguientes reglas:
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE CONDOMINIOS DEL ESTADO DE DURANGO, P.O. 5 DE MAYO DE 2013)
 
-I.- Las obras necesarias para mantener el condominio en buen estado de seguridad, estabilidad y conservación, serán efectuados por la administración, previa licencia, en su caso, expedida por las autoridades competentes; y
-
-II.- Las reparaciones o reposiciones urgentes en los bienes comunes e instalaciones generales, podrán ser ejecutadas por los condóminos, en caso de falta de administración, teniendo derecho a reclamar los gastos erogados.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 273.
 
-Tratándose de inmuebles sujetos a régimen de propiedad en condominio, financiados o construidos por organismos estatales o municipales, los condóminos no podrán enajenar, arrendar o transmitir a ningún titulo, los derechos inherentes al departamento, vivienda, casa o local, sino después de cinco años de celebrado el contrato de compraventa.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE CONDOMINIOS DEL ESTADO DE DURANGO, P.O. 5 DE MAYO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 274.
 
-Una sola persona no podrá adquirir para sí o por medio de otra, mas de una unidad de propiedad exclusiva en los condominios, excepto en el caso de que así lo aprueben los demás condominios de interés social.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE CONDOMINIOS DEL ESTADO DE DURANGO, P.O. 5 DE MAYO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 275.
 
-La administración de los inmuebles sujetos al régimen de propiedad en condominio estarán a cargo de un administrador o comité de administración que establezca el reglamento, o designe la asamblea.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE CONDOMINIOS DEL ESTADO DE DURANGO, P.O. 5 DE MAYO DE 2013)
 
-Sin embargo, en el reglamento podrá establecerse que la administración estará a cargo de un comité integrado por dos o más condóminos con las mismas atribuciones y facultades de administrador único.
-
-Los miembros de la administración, durarán en su cargo un año y tendrán derecho a remuneración que determine la asamblea. El comité, tomará sus resoluciones por unanimidad y en caso de desacuerdo someterá el asunto a la asamblea.
-
-El comité designará a la persona a cuyo cargo estará la ejecución material de los actos de administración.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 276.
 
-El administrador o el Presidente del Comité de Administración, será el representante legal de los condóminos en todos los asuntos comunes relacionados con el condominio.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE CONDOMINIOS DEL ESTADO DE DURANGO, P.O. 5 DE MAYO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 277.
 
-Las convocatorias para asamblea, se harán de forma fehaciente por la administración cuando menos con tres días hábiles de anticipación a la fecha de la celebración de la misma. Los condóminos podrán convocar a una asamblea, sin intervención de la administración, cuando representen por lo menos, el 35% del valor del condominio.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE CONDOMINIOS DEL ESTADO DE DURANGO, P.O. 5 DE MAYO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 278.
 
-Son derechos y obligaciones de la administración del condominio:
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE CONDOMINIOS DEL ESTADO DE DURANGO, P.O. 5 DE MAYO DE 2013)
 
-I.- Cuidar de la conservación de los bienes comunes;
-
-II.- Prestar los servicios que son necesarios para el funcionamiento y disfrute del condominio;
-
-III.- Mantener en buen estado de funcionamiento las instalaciones y servicios generales;
-
-IV.- Ejecutar los acuerdos de la asamblea de condóminos;
-
-V.- Recaudar de los condóminos las cuotas para los gastos comunes, y en general, exigirles el cumplimiento de sus obligaciones; y
-
-VI.- Cumplir las disposiciones de la presente ley, de la escritura constitutiva y el reglamento del condominio y velar por su observancia general.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 279.
 
-El reglamento de administración del condominio establecerá, por lo menos, lo siguiente.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE CONDOMINIOS DEL ESTADO DE DURANGO, P.O. 5 DE MAYO DE 2013)
 
-I.- Los derechos y obligaciones de los condóminos respecto a los bienes de uso común;
-
-II.- Las medidas convenientes para la mejor administración del inmueble sujeto al régimen de propiedad en condominio;
-
-III.- Forma de designación y especificación de las facultades del administrador;
-
-IV.- Requisitos que debe reunir el administrador;
-
-V.- Las Bases de remuneración del administrador en su caso;
-
-VI.- Casos en que procederá la remoción del administrador; y
-
-VII.- Los demás que establezcan la escritura constitutiva y la presente ley.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 280.
 
-El condómino que reiteradamente no cumpla con sus obligaciones, además de ser responsable de los daños y perjuicios que cause a los demás, podrá ser demandado en los términos de la (sic) leyes respectivas para responder de ellos.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE CONDOMINIOS DEL ESTADO DE DURANGO, P.O. 5 DE MAYO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 281.
 
-Las cargas fiscales que genere un bien inmueble sujeto al régimen de propiedad en condominio, considerando éste en su conjunto, serán a cargo de los condóminos proporcionalmente.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE CONDOMINIOS DEL ESTADO DE DURANGO, P.O. 5 DE MAYO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 282.
 
-Los condóminos cubrirán independientemente el impuesto sobre la propiedad raíz de su propiedad exclusiva y la parte que les corresponda de los bienes en común, los demás impuestos o derechos de que en razón del condominio sean causantes por sí mismos.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE CONDOMINIOS DEL ESTADO DE DURANGO, P.O. 5 DE MAYO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 283.
 
-Si el bien se destruye en su totalidad, o en una proporción que represente por lo menos la mitad de su valor, según peritaje practicado por persona autorizada por la Ley para tal efecto, una mayoría especial de los condóminos que representen el 51% de los derechos de propiedad, podrá acordar la reconstrucción o la división del terreno.
-
-Además, de acuerdo a lo anterior, podrán disponer de los bienes comunes que queden, o en su caso efectuar su venta, con apego a las disposiciones legales aplicables.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE CONDOMINIOS DEL ESTADO DE DURANGO, P.O. 5 DE MAYO DE 2013)
 
 ## TITULO OCTAVO. PREVENCIONES GENERALES EN MATERIA DE DESARROLLO URBANO
 
@@ -3766,3 +3714,101 @@ P.O. 21 DE OCTUBRE DE 2012.
 PRIMERO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE MAYO DE 2013.
+
+Artículo Primero. La presente Ley entrará en vigor a los noventa días siguientes a su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+Artículo Segundo. Los regímenes de propiedad en condominio existentes en el Estado a la fecha de la entrada en vigor de la presente Ley, contarán con un año para constituirse en Asamblea para elegir administradores, para aprobar en su caso su reglamento interno y para modificar la escritura constitutiva del régimen que conforme a esta Ley están obligados, siempre y cuando no se afecten derechos adquiridos.
+
+Los condominios existentes a la fecha de entrada en vigor de la presente Ley, y que no cumplan con los requisitos establecidos en la misma, tendrán un término de un año para que se regularicen.
+
+Artículo Tercero. Se derogan los artículos 263 al 283 de la Ley General de Desarrollo Urbano para el Estado de Durango, para quedar como sigue:
+
+###### Art. 263.
+
+Derogado.
+
+###### Art. 264.
+
+Derogado.
+
+###### Art. 265.
+
+Derogado.
+
+###### Art. 266.
+
+Derogado.
+
+###### Art. 267.
+
+Derogado.
+
+###### Art. 268.
+
+Derogado.
+
+###### Art. 269.
+
+Derogado.
+
+###### Art. 270.
+
+Derogado.
+
+###### Art. 271.
+
+Derogado.
+
+###### Art. 272.
+
+Derogado.
+
+###### Art. 273.
+
+Derogado.
+
+###### Art. 274.
+
+Derogado.
+
+###### Art. 275.
+
+Derogado.
+
+###### Art. 276.
+
+Derogado.
+
+###### Art. 277.
+
+Derogado.
+
+###### Art. 278.
+
+Derogado.
+
+###### Art. 279.
+
+Derogado.
+
+###### Art. 280.
+
+Derogado.
+
+###### Art. 281.
+
+Derogado.
+
+###### Art. 282.
+
+Derogado.
+
+###### Art. 283.
+
+Derogado.
+
+Artículo Cuarto. Publíquese en el Periódico Oficial del Gobierno del Estado de Durango.
+
+Artículo Quinto. Se derogan todas las disposiciones que se opongan a la presente.
