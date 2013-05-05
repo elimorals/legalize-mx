@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-asistencia-social-10352"
 country: "mx"
 rank: "ley"
 publication_date: "1996-09-15"
-last_updated: "2013-04-21"
+last_updated: "2013-05-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10352&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE ASISTENCIA SOCIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MAYO DE 2013.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 15 de septiembre de 1996.
 
@@ -39,7 +39,7 @@ PRIMERO.- Que las normas constitucionales vigentes a nivel federal y estatal, co
 
 SEGUNDO.- Que la función social del Estado, debe procurarse asimilar en su contexto, una participación globalizadora que permita concurrir y relacionarse frente a los grupos sociales, a efecto de estar en posibilidades de cubrir en el mayor espacio posible, las grandes diferencias que caracterizan al entorno económico y social de nuestra Entidad; y que sólo la corresponsabilidad y el esfuerzo conjunto, pueden lograr que el interés público manifestado a la asistencia social, como propósito al aliciente de protección a la familia para su desarrollo integral, pueda cumplirse.
 
-TERCERO.- Que la Comisión que dictaminó, conciente de su responsabilidad, realizó un minucioso análisis de la Iniciativa, encontrando que la misma cumple las expectativas de bienestar social que exige la comunidad ; y a tal efecto, da constancia de que ella contiene una nueva estructura de los servicios asistenciales, como respuesta a las necesidades que afronta la familia frente a la comunidad, replanteando para ello, la política de integración, buscando con ello, la eficacia de las acciones emprendidas por el Estado en concurrencia con la sociedad en su conjunto.
+TERCERO.- Que la Comisión que dictaminó, conciente (sic) de su responsabilidad, realizó un minucioso análisis de la Iniciativa, encontrando que la misma cumple las expectativas de bienestar social que exige la comunidad ; y a tal efecto, da constancia de que ella contiene una nueva estructura de los servicios asistenciales, como respuesta a las necesidades que afronta la familia frente a la comunidad, replanteando para ello, la política de integración, buscando con ello, la eficacia de las acciones emprendidas por el Estado en concurrencia con la sociedad en su conjunto.
 
 CUARTO.- Que surge entonces, la necesidad de hacer un replanteamiento de las acciones del Estado y del entorno social, debiendo por ello, abordarse una nueva dinámica que conlleve a cumplir eficazmente con la obligación del Estado, de velar y proteger a la familia, con base de nuestra identidad. La iniciativa en estudio, bajo esta perspectiva, reúne, a satisfacción, los elementos que conllevan al replanteamiento citado, puesto que sistematiza adecuadamente la administración de programas dirigidos a brindar una mejor asistencia social, con la participación conjunta del Estado y los distintos sectores de nuestra sociedad.
 
@@ -67,7 +67,7 @@ La presente Ley es de orden público e interés social, y tiene como objeto, cre
 
 El Gobierno del Estado, en forma prioritaria, proporcionará servicios de asistencia social, encaminados al desarrollo integral de la familia. Para los efectos de esta Ley, se entiende por asistencia social, el apoyo que el Estado suministra a los grupos sociales marginados o más vulnerables de la sociedad, a través de un conjunto de acciones, que tiendan a modificar y mejorar sus condiciones de vida y bienestar.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE AGOSTO DE 2010)</small>
 
 ###### Art. 3.
 
@@ -423,7 +423,13 @@ VIII.- Celebrar los acuerdos, convenios, contratos y actos jurídicos que sean i
 
 IX.- Actuar en representación del DIF Estatal con facultades generales para actos de administración, para pleitos y cobranzas, así como aquellos que requieran cláusula especial, conforme las leyes; y
 
-X.- Las demás que sean otorgadas por esta Ley y sus reglamentos.
+> <small>(REFORMADA, P.O. 5 DE MAYO DE 2013)</small>
+
+X.- Representar legalmente al Patronato en los juicios o asuntos jurídicos en que sea parte o tenga interés el mismo, teniendo las facultades de apoderado general para pleitos y cobranzas, con todas las facultades generales y especiales que requieran cláusula especial conforme a la ley; y
+
+> <small>(ADICIONADA, P.O. 5 DE MAYO DE 2013)</small>
+
+XI.- Las demás que sean otorgadas por esta Ley y sus reglamentos.
 
 ###### Art. 35.
 
@@ -483,7 +489,7 @@ En cada uno de los municipios de la entidad, en base a sus características prop
 
 En las disposiciones subsecuentes, cuando se haga mención al "Sistema", se entenderá hecha al Sistema para el Desarrollo Integral de la Familia del Municipio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE AGOSTO DE 2010)</small>
 
 ###### Art. 43.
 
@@ -571,7 +577,7 @@ DADO EN EL PALACIO DEL PODER EJECUTIVO, en Victoria de Durango, Dgo., a los once
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. MAXIMILIANO SILERIO ESPARZA. EL SECRETARIO GENERAL DE GOBIERNO. LIC. ALFREDO BRACHO BARBOSA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 5 DE AGOSTO DE 2010.
 
@@ -596,3 +602,9 @@ El Sistema para el Desarrollo Integral de la Familia del Estado, tendrá un plaz
 ###### ARTÍCULO CUARTO.
 
 Se derogan todas las disposiciones legales en lo que se opongan al presente decreto.
+
+P.O. 5 DE MAYO DE 2013.
+
+PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales en lo que se opongan al presente decreto.
