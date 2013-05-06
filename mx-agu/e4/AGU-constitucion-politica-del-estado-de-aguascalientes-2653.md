@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2012-06-25"
+last_updated: "2013-05-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 2013.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -45,17 +45,27 @@ Declaraciones.
 
 El Estado de Aguascalientes es parte integrante de los Estados Unidos Mexicanos; en consecuencia, acatará las disposiciones del Pacto Federal, siendo autónomo en su régimen interno.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2013)</small>
 
 ###### Artículo 2o.
 
-Todo individuo gozará en el Estado de las garantías que otorga la Constitución Federal y tendrá los derechos y obligaciones establecidas por las leyes locales.
+Los derechos humanos constituyen la base de la convivencia social pacífica en el estado de Aguascalientes.
 
-> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1991)</small>
+Todo individuo gozará en el Estado de los derechos humanos y fundamentales reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en el Derecho Internacional en materia de Derechos Humanos del que el Estado Mexicano sea parte, los establecidos en esta Constitución y las leyes que de ellas emanen, así como de las garantías para su protección.
+
+Las normas relativas a los derechos humanos se interpretarán siempre de manera armónica y progresiva favoreciendo la protección más amplia a las personas.
+
+Los derechos humanos cuentan con garantía de efectividad y protección directa, por lo cual todas las autoridades locales en el ámbito de sus competencias, tienen la obligación de promoverlos, respetarlos, protegerlos, aplicarlos y garantizarlos, de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad.
+
+El Estado deberá prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos que establezca la ley.
+
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2013)</small>
 
 ###### Artículo 3o.
 
-El Poder Público solamente puede actuar en uso de facultades expresas mientras que los particulares pueden hacer todo lo que las leyes federales y locales no les prohíban.
+El Poder Público solamente puede actuar en uso de facultades expresas mientras que los particulares pueden hacer todo lo que las Leyes federales y locales no les prohíban. La violación de este principio dará lugar a las consecuencias jurídicas que determine la ley.
+
+En el cumplimiento de la ley, si la autoridad requiere afectar o intervenir un derecho, deberá observar los principios de justicia, racionalidad, necesidad, idoneidad y proporcionalidad para hacerlo.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -89,9 +99,13 @@ Es deber jurídico del Estado y sus Municipios impartir la educación preescolar
 
 El Estado deberá además promover y atender la educación media, la educación superior y otras modalidades educativas, como la formación y capacitación para el trabajo, la educación de adultos y la educación especial.
 
-Los fines de la educación que imparta o promueva el Estado, de manera corresponsable con la sociedad, serán los siguientes:
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2013)</small>
 
-El fomento de la democracia como forma de vida, el respeto a los derechos humanos en el marco de la libertad y la justicia, la mejor convivencia social y colaboración en el trabajo, el desarrollo de individuos libres y autónomos como ciudadanos –con capacidad de juicio y de toma de decisiones responsables- el impulso del desarrollo nacional y estatal, el respeto a la pluralidad social y política, el fomento a la ética, la rectitud, la verdad y la solidaridad y, con peculiar cuidado, la participación en el avance de la ciencia, la tecnología y las humanidades.
+Los fines de la Educación que imparta o promueva el Estado, de manera corresponsable con la sociedad, tenderá a desarrollar armónicamente las facultades del ser humano, y le fomentará la democracia como forma de vida, el respeto a los derechos humanos en el marco de la libertad y la justicia, la conciencia de solidaridad comunitaria y convivencia social pacífica, la colaboración en el trabajo, el desarrollo de individuos libres y autónomas (sic) como ciudadanos con capacidad de juicio y de toma de decisiones responsables el impulso del desarrollo nacional y estatal, el respeto a la pluralidad cultural, de género, social y política, el fomento a la ética, la rectitud, la verdad y la solidaridad y, con peculiaridad cuidado, la participación en el avance de la ciencia, la tecnología y a las humanidades.
+
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2013)</small>
+
+La ley garantizará la educación sobre derechos humanos en todos los niveles escolares y promoverá los medios pacíficos de solución de conflictos.
 
 Las autoridades municipales, educativas y escolares colaborarán para que los padres o tutores cumplan con la obligación de enviar a sus hijos o pupilos a la educación básica.
 
@@ -1145,11 +1159,105 @@ VIII.- Las demás facultades que le concede esta Constitución y las que estable
 
 Los Magistrados, antes de tomar posesión de sus cargos, deberán rendir la protesta de ley, ante el Congreso o la Diputación Permanente.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE MAYO DE 2013)</small>
 
 CAPITULO DECIMOTERCERO
 
-Del Ministerio Público y del Sistema de Seguridad
+Del Sistema de Justicia Penal Acusatorio, el Ministerio Público, el Sistema de Seguridad Pública y los Derechos Humanos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2013)</small>
+
+Artículo 58 A.- El Sistema de Justicia Penal Acusatorio tendrá por objeto dirimir los conflictos mediante la aplicación de la ley, bajo los principios establecidos en la Constitución Política de los Estados Unidos Mexicanos y el Derecho Internacional de los Derechos Humanos del que el Estado Mexicano sea parte.
+
+El Sistema de Justicia promoverá la solución pacífica de los conflictos a través de los mecanismos de justicia alternativa y restaurativa que establezca la ley.
+
+En materia penal, la ley definirá los hechos punibles y las consecuencias jurídicas que acarrea la comisión de los mismos. Nadie podrá ser sancionado por acción u omisión que no estén expresamente previstas y descritas como hecho punible por ley penal vigente anterior a su realización, ni con pena o medida de seguridad no establecida en ella.
+
+Tampoco podrá ser sancionada persona alguna, si el hecho antisocial no reúne los elementos del delito que corresponda. Queda prohibida la aplicación analógica o por mayoría de razón, de la ley penal en perjuicio de cualquier persona.
+
+No podrá aplicarse pena alguna si la acción u omisión no han sido realizadas culpablemente. La medida de la pena no excederá la medida de la culpabilidad de la persona.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2013)</small>
+
+Artículo 58 B.- El proceso penal será acusatorio y oral, y se regirá por los siguientes principios:
+
+I.- El proceso penal tendrá por objeto el esclarecimiento de los hechos, proteger al inocente, procurar que el culpable no quede impune y que los daños causados por el delito se reparen;
+
+II.- El proceso penal fomentará la aplicación de los criterios de oportunidad y evitará el ejercicio compulsivo de la acción penal;
+
+III.- Toda audiencia se desarrollará en presencia del juez, sin que pueda delegar en ninguna persona la producción o desahogo y la valoración de las pruebas, la cual deberá realizarse de manera libre y lógica;
+
+IV.- Para los efectos de la sentencia sólo se considerarán como prueba aquellas que hayan sido producidas o desahogadas en la audiencia de juicio. La ley establecerá las excepciones y los requisitos para admitir en juicio la prueba anticipada, que por su naturaleza requiera desahogo previo. Los jueces tomarán conocimiento personal del material probatorio introducido en la audiencia y escucharán directamente los argumentos de las partes con la presencia interrumpida de los sujetos procesales que deben participar en ella conforme a la ley;
+
+V.- El juicio se celebrará ante un juez que no haya conocido del caso previamente. La presentación de los argumentos y los elementos probatorios se desarrollará de manera pública, contradictoria y oral;
+
+VI.- La producción de las pruebas, el debate y la emisión de la resolución, se desarrollarán ante el juez y las partes en audiencia que será continua, sucesiva y secuencial, salvo casos excepcionales previstos en la ley;
+
+VII.- La carga de la prueba para demostrar la culpabilidad corresponde a la parte acusadora. Las partes tendrán igualdad procesal para sostener la acusación o la defensa, respectivamente;
+
+VIII.- Ningún juzgador podrá tratar asuntos que estén sujetos a proceso con cualquiera de las partes sin que esté presente la otra, respetando en todo momento el principio de contradicción. Todo acto jurisdiccional debe ser público, salvo las excepciones fundadas que establezca la Constitución Política de los Estados Unidos Mexicanos;
+
+IX.- Las partes podrán debatir los hechos y argumentos de la contraparte, y controvertir cualquier medio de prueba durante el juicio;
+
+X.- El Ministerio Público y el Juez garantizarán la asistencia, acompañamiento, protección e intervención de las víctimas del delito;
+
+XI.- Una vez iniciado el proceso penal, siempre y cuando no exista oposición del imputado, se podrá decretar su terminación anticipada en los supuestos y bajo las modalidades que determine la ley. Si el imputado reconoce ante la autoridad judicial, voluntariamente y con conocimiento de las consecuencias, su participación en el hecho punible y existen medios de convicción suficientes para corroborar la imputación, el juez citará a audiencia donde emitirá sentencia. La ley establecerá los beneficios que se podrán otorgar al imputado cuando acepte su responsabilidad;
+
+XII.- El juez sólo condenará cuando exista convicción fundada y motivada de la existencia del delito y la culpabilidad del procesado; y
+
+XIII.- El proceso penal se realizará respetando los derechos humanos, fundamentales y garantías de las personas, previstas en la Constitución Política de los Estados Unidos Mexicanos, en el Derecho Internacional de los Derechos Humanos del que el Estado Mexicano sea parte, ésta Constitución y toda normatividad que derive de ellos, para garantizar el respeto de la dignidad del ser humano. Cualquier prueba, audiencia o actuación procesal realizada, obtenida, incorporada o producida con violación de derechos humanos serán nulas. La ley sancionará la simulación o alteración de pruebas por las partes en el proceso.
+
+Estos principios se observarán también en las audiencias preliminares al juicio.
+
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2013)</small>
+
+Artículo 58 C.- El Poder Judicial contará con jueces de control que resolverán, en forma inmediata, y por cualquier medio, las solicitudes de vinculación a proceso, medidas cautelares, providencias precautorias, técnicas de investigación de la autoridad y todas aquellas peticiones que requieran control judicial, garantizando los derechos de los imputados y de las víctimas u ofendidos. Así mismo conocerá de las impugnaciones a las omisiones del Ministerio Público en la investigación de los hechos punibles, resoluciones de reserva, no ejercicio, desistimiento de la acusación o acción penal, y la suspensión del procedimiento. A partir del momento en que sea judicializada la investigación, deberá fijarse un término para su conclusión y no podrá decretarse su reserva.
+
+Deberá existir un registro fehaciente de todas las comunicaciones entre jueces y Ministerio Público y demás autoridades competentes.
+
+Las intervenciones autorizadas se ajustarán a los requisitos y límites previstos en las leyes. Los resultados de las intervenciones que no cumplan con éstos, carecerán de todo valor probatorio.
+
+Ninguna detención ante autoridad judicial podrá exceder del plazo de setenta y dos horas, a partir de que el indiciado sea puesto a su disposición, sin que se justifique con un auto de vinculación a proceso en el que se expresará: el delito que se impute al acusado; el lugar, tiempo y circunstancias de ejecución, así como los datos que establezcan que se ha cometido un hecho que la ley señale como delito y que exista la probabilidad de que el indiciado lo cometió o participó en su comisión.
+
+El Ministerio Público sólo podrá solicitar al juez la prisión preventiva cuando otras medidas cautelares no sean suficientes para garantizar la comparecencia del imputado en el juicio, el desarrollo de la investigación, la protección de la víctima, de los testigos o de la comunidad, así como cuando el imputado esté siendo procesado o haya sido sentenciado previamente por la comisión de un delito doloso. El juez ordenará la prisión preventiva, oficiosamente, en los casos de delincuencia organizada, homicidio doloso, violación, secuestro, trata de personas, delitos cometidos con medios violentos como armas y explosivos, así como delitos graves que determine la ley en contra de la seguridad de la nación, el libre desarrollo de la personalidad y de la salud.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2013)</small>
+
+Artículo 58 D.- Las sentencias que pongan fin a los procedimientos orales deberán ser explicadas por el Juez de Juicio Oral en audiencia pública previa citación de las partes.
+
+Corresponde al Poder Judicial la imposición de las penas, su ejecución, modificación y duración. Toda pena deberá ser proporcional al delito que sancione, a la afectación de las víctimas del delito y el daño bien (sic) jurídico tutelado.
+
+El sistema penitenciario se organizará sobre la base del respeto a los derechos humanos, del trabajo, la capacitación para el mismo, la educación, la salud y el deporte como medios para lograr la reinserción del sentenciado a la sociedad y procurar que no vuelva a delinquir, observando los beneficios que para él prevé la ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+Las leyes preverán mecanismos alternativos de solución de controversias. En la materia penal regularán su aplicación, determinarán los casos que serán resueltos de esta manera, asegurarán la reparación del daño y establecerán los casos en los que se requerirá supervisión judicial.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+Se contará con un servicio de defensoría pública de calidad para la población y la ley garantizará las condiciones para un servicio profesional de carrera para los defensores. Las percepciones de los defensores públicos no podrán ser inferiores a las que correspondan a los agentes del Ministerio Público.
+
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2013)</small>
+
+Artículo 58 E.- En el Estado operará un sistema integral de justicia que será aplicable a quienes se atribuya la realización de una conducta tipificada como hecho punible por las leyes penales y tengan entre doce años cumplidos y menos de dieciocho años de edad, en el que se garanticen los derechos humanos y fundamentales que reconocen la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y el Derecho Internacional de los Derechos Humanos, así como aquellos derechos específicos que por su condición de personas en desarrollo les son reconocidos.
+
+La procuración e impartición de justicia para adolescentes estará a cargo de instituciones, juzgados y autoridades especializados. En los términos y condiciones que se contengan en la ley, podrán aplicar las medidas de orientación, protección y tratamiento que amerite cada caso, atendiendo a la protección integral y el interés superior del adolescente. Los medios alternativos para la resolución de las controversias deberán observarse en la aplicación de este sistema, siempre que resulte procedente.
+
+Las personas menores de doce años que hayan realizado una conducta prevista como hecho punible en la ley, sólo serán sujetos a rehabilitación y asistencia social, lo cual estará a cargo de la institución que señale la ley de la materia. El internamiento se utilizará sólo como medida extrema y por el tiempo más breve que proceda, y podrá aplicarse únicamente a los adolescentes mayores de catorce años de edad, por la comisión de conductas antisociales calificadas como graves.
+
+En todos los procedimientos seguidos a los adolescentes se observará la garantía del debido proceso legal, así como la independencia entre las autoridades que efectúen la remisión y las que impongan las medidas. Éstas deberán ser proporcionales a la conducta realizada y tendrán como fin la reinserción y reintegración social y familiar del adolescente, así como el pleno desarrollo de su persona y capacidades.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2013)</small>
+
+Artículo 58 F.- Toda persona imputada de un hecho punible, y toda víctima u ofendido por un hecho punible, gozarán de los derechos establecidos en la Constitución Política de los Estados Unidos Mexicanos, el Derecho Internacional de los Derechos Humanos del que el Estado Mexicano sea parte, y los demás que establezcan las leyes.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
@@ -2522,3 +2630,19 @@ La Sala Administrativa y Electoral iniciará sus funciones una vez que sean nomb
 ###### ARTÍCULO SEXTO.
 
 El Congreso del Estado deberá aprobar la partida presupuestal que permita el funcionamiento de la Sala Administrativa Electoral durante el ejercicio fiscal dos mil doce, previa solicitud de reasignación presupuestal que dentro de los treinta días siguientes a la entrada en vigencia de este Decreto, envíe el Titular del Poder Ejecutivo a esta Legislatura.
+
+P.O. 6 DE MAYO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia, respecto de los Artículos 2°, 3°, 6°, párrafos segundo y tercero del 58 D y 58 E de la Constitución Política del Estado de Aguascalientes, al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto iniciará su vigencia, respecto del sistema de justicia penal acusatorio establecido en los Artículos 58 A, 58 B, párrafos primero, cuarto y quinto del 58 D, y 58 F de la Constitución Política del Estado de Aguascalientes, cuando lo establezca la legislación secundaria correspondiente, sin que el término exceda del 18 de junio de 2016; salvo en el caso de que ya se hubiere incorporado alguna fase, principios procesales o derechos en legislaciones vigentes, siendo plenamente válidas las actuaciones procesales que se hubieren practicado con fundamento en tales ordenamientos, independientemente de la fecha en que éstos entraron en vigor.
+
+En el momento en que se publique la legislación secundaria a que se refiere el párrafo anterior, el Poder Legislativo deberá emitir una declaratoria que se publicará en los órganos de difusión oficiales, en la que señale expresamente que el sistema procesal penal acusatorio ha sido incorporado en tales legislaciones y, en consecuencia, que los principios establecidos empezarán a regular la forma y términos en que se substanciarán los procedimientos penales.
+
+###### ARTÍCULO TERCERO.
+
+El Congreso del Estado deberá aprobar y destinar los recursos necesarios para la implementación de la reforma del sistema de justicia penal acusatorio, a través de las erogaciones que deberán señalarse en forma expresa en el presupuesto general de egresos del Estado del ejercicio presupuestal inmediato siguiente a la publicación del presente Decreto y en los subsecuentes presupuestos de egresos. Estas erogaciones se aplicarán al diseño de las reformas legales, los cambios organizacionales, la construcción y operación de la infraestructura, la capacitación y difusión que sean necesarias.
