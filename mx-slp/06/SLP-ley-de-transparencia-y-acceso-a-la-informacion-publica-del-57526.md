@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-5752
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-18"
-last_updated: "2012-02-16"
+last_updated: "2013-05-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57526&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2013.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de octubre de 2007.
 
@@ -99,7 +99,7 @@ II. Proteger los datos personales que estén en posesión de los entes obligados
 
 III. Contribuir a la rendición de cuentas de los poderes públicos entre sí, y a la transparencia y rendición de cuentas hacia los ciudadanos y la sociedad;
 
-IV. Regular la administración de los archivos, y la preservación y difusión de los documentos y del patrimonio documental del sector público del Estado y municipios;
+IV. (DEROGADA, P.O. 7 DE MAYO DE 2013)
 
 V. Regular la instrumentación del principio de publicidad de los actos, normas, trámites, procedimientos y decisiones de los poderes públicos estatales y municipales, y demás entes obligados, e incentivar la participación ciudadana y comunitaria;
 
@@ -267,13 +267,21 @@ Toda la información creada, administrada o en posesión de los entes obligados,
 
 Los entes obligados deben proporcionar la información solicitada en el tipo de documento en que se encuentre. El solicitante puede reproducir por cualquier medio dichos documentos. Cuando la información requerida se encuentre en dos o más tipos de documentos, el solicitante elegirá entre los formatos, para la entrega correspondiente.
 
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2013)</small>
+
+El tratamiento de documentación histórica deberá hacerse en términos de la Ley de Archivos del Estado de San Luis Potosí, y la normatividad reglamentaria emitida por el Sistema Estatal de Documentación y Archivo.
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2013)</small>
+
 ###### ARTICULO 7º.
 
-En la formulación, producción, procesamiento, administración, archivo y resguardo de la información, debe atenderse al principio de la máxima publicidad, con el objeto de facilitar el acceso de cualquier persona a su conocimiento.
+En la formulación, producción, procesamiento, administración, archivo y resguardo de la información, debe atenderse al principio de la máxima publicidad, con el objeto de facilitar el acceso de cualquier persona a su conocimiento, sin menoscabo de lo dispuesto por la Ley de Archivos del Estado de San Luis Potosí, respecto de los tratamientos especiales de la documentación histórica.
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2013)</small>
 
 ###### ARTICULO 8º.
 
-Los servidores públicos y toda persona que formule, produzca, procese, administre, archive y resguarde información pública, es responsable de la misma y está obligada a permitir el ejercicio del derecho de acceso a la información pública en los términos de esta Ley.
+Los servidores públicos y toda persona que formule, produzca, procese, administre, archive y resguarde información pública, es responsable de la misma y está obligada a permitir el ejercicio del derecho de acceso a la información pública en los términos de esta Ley, sin menoscabo de las sanciones contempladas en la Ley de Archivos del Estado de San Luis Potosí.
 
 ###### ARTICULO 9º.
 
@@ -389,7 +397,9 @@ Tratándose de los entes obligados distintos a las entidades públicas, las obli
 
 Todas las entidades públicas deberán poner a disposición del público y, difundir de oficio, a través de los medios electrónicos disponibles, la información completa y actualizada sobre sus indicadores de gestión y el ejercicio de los recursos públicos, así como:
 
-I. Los índices y catálogos de información en posesión de cada ente obligado;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2013)</small>
+
+l. Los instrumentos de control archivístico referidos en la Ley de Archivos del Estado de San Luis Potosí;
 
 II. Las leyes, reglamentos, decretos, acuerdos, circulares, Periódico Oficial del Estado, y demás disposiciones administrativas o instrumento legal, que le dan sustento al ejercicio de sus funciones públicas;
 
@@ -565,9 +575,11 @@ Además de la señalada en el artículo 18 de esta Ley, los entes obligados, dis
 
 ### CAPITULO II. De los Procedimientos para Difundir Información
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2013)</small>
+
 ###### ARTICULO 26.
 
-La CEGAIP expedirá los lineamientos generales necesarios para que la consulta de información a la que se refieren los artículos 18, 19, 20, 21, 22, 23, 24 y 25 de esta Ley, sean de fácil acceso, uso y comprensión del público, y responda a criterios de calidad, veracidad, confiabilidad y oportunidad. Además, establecerá las funciones básicas y los mecanismos de coordinación institucional del Sistema Estatal de Documentación y Archivo.
+El Sistema Estatal de Documentación y Archivo expedirá los lineamientos generales necesarios para que la consulta de información a la que se refieren los artículos, 18, 19, 20, 21, 22, 23, 24 y 25 de esta Ley, sean de fácil acceso, uso y comprensión del público, y responda a criterios de calidad, veracidad, confiabilidad y oportunidad.
 
 ###### ARTICULO 27.
 
@@ -841,9 +853,17 @@ II. Realizar los trámites y gestiones necesarios ante las entidades públicas q
 
 III. Supervisar dentro de la entidad pública que corresponda, la aplicación de las disposiciones emitidas por la CEGAIP, el Sistema Estatal de Documentación y Archivo, y los titulares de las dependencias, con el objeto de hacer cumplir la presente Ley;
 
-IV. Aprobar el Programa Anual de Acciones de Mejoramiento de la Transparencia, que le presente la unidad de información de la entidad pública de que se trate, mismo que servirá para evaluar el desempeño de los servidores públicos en la materia, y
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2013)</small>
 
-V. Elaborar el informe anual que cada entidad pública deberá enviar a la CEGAIP, en el que se dé cuenta de la aplicación de esta Ley.
+IV. Aprobar el Programa Anual de Acciones de Mejoramiento de la Transparencia que le presente la unidad de información de la entidad pública de que se trate, mismo que servirá para evaluar el desempeño de los servidores públicos en la materia;
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2013)</small>
+
+V. Elaborar el informe anual que cada entidad pública deberá enviar a la CEGAlP, en el que se dé cuenta de la aplicación de esta Ley, y
+
+> <small>(ADICIONADA, P.O. 7 DE MAYO DE 2013)</small>
+
+VI. Las demás establecidas por la Ley de Archivos del Estado de San Luis Potosí.
 
 ###### ARTICULO 65.
 
@@ -855,9 +875,17 @@ II. Un coordinador del Comité, que será designado por el titular de la entidad
 
 III. Un secretario técnico, que será designado por el titular de la entidad pública;
 
-IV. Los jefes o encargados de las unidades de información pública responsables que existan en la entidad pública, y
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2013)</small>
 
-V. El titular de la contraloría interna u órgano de control interno.
+IV. Los jefes o encargados de las unidades de información pública responsables que existan en la entidad pública;
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2013)</small>
+
+V. El titular de la contraloría interna u órgano de control interno, y
+
+> <small>(ADICIONADA, P.O. 7 DE MAYO DE 2013)</small>
+
+VI. El coordinador, jefe o encargado de Archivos de la entidad pública.
 
 ###### ARTICULO 66.
 
@@ -929,21 +957,19 @@ Si transcurridos diez días hábiles de presentada la solicitud de información,
 
 Las unidades de información pública de cada entidad sólo estarán obligadas a entregar documentos que se encuentren en sus archivos. De no estar en sus archivos, las unidades deberán justificar la inexistencia o pérdida de la información solicitada. La obligación de acceso se cumplirá cuando el solicitante tenga a su disposición las copias simples, certificadas o cualquier otro soporte técnico, en el que se encuentre contenida la información solicitada, o cuando realice la consulta de la información en el lugar en el que ésta se encuentre. Cuando la información solicitada ya esté disponible para consulta, se le hará saber por escrito al solicitante, el lugar donde puede consultarla y las formas para reproducir o adquirir dicha información. Una vez entregada la información, el solicitante acusará recibo por escrito en el formato que le proporcione la unidad.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2013)</small>
 
 ###### ARTICULO 77.
 
-En el caso de que la información solicitada no se encuentre en los archivos de la unidad de información pública, ésta deberá remitir la solicitud al comité de información, con copia al interesado, con el objeto de que el comité tome las medidas necesarias para localizar la información en la entidad pública de que se trate. En caso de no localizarse la información solicitada, el comité de información dará parte a la CEGAIP para que resuelva en definitiva.
+En el caso de que la información solicitada no se encuentre en los archivos de la unidad de información pública, ésta deberá remitir la solicitud al comité de información, con copia al interesado, y al Sistema Estatal de Documentación y Archivo, con el objeto de que tomen las medidas necesarias para localizar la información en la entidad pública de que se trate y, en caso de no encontrarse la información solicitada, el comité de información y el Sistema Estatal de Documentación y Archivo darán parte a la CEGAIP para que resuelva ordenar la búsqueda exhaustiva de esa información a cargo del Sistema Estatal de Documentación y Archivo, confirmar la pérdida o inexistencia de los documentos que la contienen y, si lo considera pertinente, hacer la denuncia correspondiente para determinar si se cometió algún delito.
 
 ###### ARTICULO 78.
 
 Las unidades administrativas podrán entregar documentos que contengan información reservada o confidencial, únicamente cuando los documentos en que conste la información, permitan eliminar las partes o secciones clasificadas.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2010)</small>
-
 ###### ARTICULO 79.
 
-En caso de que la entidad pública no localice la información solicitada, la CEGAIP podrá ordenar la búsqueda exhaustiva de esa información, confirmar la pérdida o inexistencia de los documentos que la contienen y, si lo considera pertinente, hacer la denuncia correspondiente para determinar si se cometió algún delito.
+(DEROGADO, P.O. 7 DE MAYO DE 2013)
 
 ###### ARTICULO 80.
 
@@ -979,59 +1005,111 @@ I. Interpretar y aplicar las disposiciones de la presente Ley;
 
 II. Recibir, dar trámite y resolver los recursos que interpongan las personas que hubiesen solicitado información a las entidades públicas;
 
-III. Establecer los lineamientos y criterios técnicos necesarios, para que las unidades de información pública y los comités de información, realicen la clasificación, desclasificación, administración, archivo y resguardo de la información reservada y confidencial que corresponda;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2013)</small>
+
+III. Establecer los lineamientos y criterios técnicos necesarios para que las unidades de información pública, y los comités de información, realicen la clasificación, desclasificación y administración de la información reservada y confidencial que corresponda;
 
 IV. Conocer y resolver las quejas que se interpongan en ejercicio de la acción de protección de datos personales;
 
-V. Establecer las bases técnicas e institucionales para la organización y funcionamiento del Sistema Estatal de Documentación y Archivos, considerado como una red de coordinación interinstitucional, a la que se integrarán todos los archivos históricos y de gestión que formen parte de las entidades públicas. Así como, en relación a los archivos privados que posean documentos de interés público e histórico, de acuerdo con los objetivos de esta Ley;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2013)</small>
 
-VI. Establecer las normas y políticas para la administración, seguridad y resguardo de los datos personales, en protección de los entes obligados;
+V. Nombrar al Director General del Sistema Estatal de Documentación y Archivo, en términos de la Ley de Archivos del Estado de San Luis Potosí;
 
-VII. Asesorar en la formulación de iniciativas destinadas a adecuar las disposiciones legales, leyes orgánicas, decretos y acuerdos de las entidades públicas, conforme a lo dispuesto en la presente Ley;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2013)</small>
 
-VIII. Orientar y auxiliar a las personas para ejercer los derechos tutelados en la presente Ley;
+VI. Recibir el Plan Anual de Trabajo del SEDA y su POA para ser considerados en el proyecto del presupuesto de egresos de la CEGAIP; así como el Informe Anual de actividades del Sistema Estatal de Documentación y Archivo, en el mes de septiembre, para su integración al Informe anual de actividades de la CEGAIP;
 
-IX. Elaborar y difundir estudios, investigaciones y publicaciones, tendientes a ampliar el conocimiento de las materias objeto de esta Ley;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2013)</small>
 
-X. Cooperar con el Instituto Federal de Acceso a la Información Pública, y con organismos estatales homólogos, en el cumplimiento de funciones que les sean comunes;
+VII. Establecer las normas y políticas para la administración, seguridad y resguardo de los datos personales, en protección de los entes obligados;
 
-XI. Cooperar con los entes obligados en el cumplimiento de la ley, de manera directa e inmediata, o mediante la celebración de programas y acuerdos;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2013)</small>
 
-XII. Promover la rendición de cuentas de los poderes públicos entre sí, y la transparencia y rendición de cuentas hacia los ciudadanos y la sociedad;
+VIII. Asesorar en la formulación de iniciativas destinadas a adecuar las disposiciones legales, leyes orgánicas, decretos y acuerdos de las entidades públicas, conforme· a lo dispuesto en la presente Ley;
 
-XIII. Promover la regulación e instrumentación del principio de publicidad de los actos y decisiones, así como, el libre acceso a las reuniones de los poderes públicos estatales y municipales, e incentivar la participación ciudadana y comunitaria;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2013)</small>
 
-XIV. Recibir y sistematizar y, en su caso, requerir los informes mensuales que deberán enviarle las entidades públicas, relativas a la recepción y tramitación de solicitudes de información pública que hayan recibido;
+IX. Orientar y auxiliar a las personas para ejercer los derechos tutelados en la presente Ley;
 
-XV. Elaborar y aprobar su reglamento interior, y las disposiciones necesarias para el cumplimiento del mismo;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2013)</small>
 
-XVI. Designar a los servidores públicos y empleados de la CEGAIP;
+X. Elaborar y difundir estudios, investigaciones y publicaciones, tendientes a ampliar el conocimiento de las materias objeto de esta Ley;
 
-XVII. Elaborar el informe anual que rendirá ante el Pleno del Congreso del Estado;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2013)</small>
 
-XVIII. Preparar su proyecto de presupuesto anual, que será enviado por conducto del Gobernador, al Congreso del Estado; y administrar los recursos humanos y bienes de la CEGAIP;
+XI. Cooperar con el Instituto Federal de Acceso a la Información Pública, y con organismos estatales homólogos, en el cumplimiento de funciones que les sean comunes;
 
-XIX. Imponer, en los casos en que proceda, a los servidores públicos responsables, las sanciones que correspondan de acuerdo con esta Ley;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2013)</small>
 
-XX. Proponer al Congreso del Estado, las modificaciones y adecuaciones convenientes a las normas que regirán el sistema de Documentación y Archivo, para ajustarlos paulatinamente con los fines de la propia CEGAIP;
+XII. Cooperar con los entes obligados en el cumplimiento de la ley, de manera directa e inmediata, o mediante la celebración de programas y acuerdos;
 
-XXI. Solicitar al Consejo Estatal Electoral, se descuenten de las prerrogativas de los partidos políticos, las multas a que se hayan hecho acreedores;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2013)</small>
 
-XXII. Solicitar a la Auditoría Superior del Estado, haga efectivas las multas a que se hayan hecho acreedores los servidores públicos responsables;
+XIII. Promover la rendición de cuentas de los poderes públicos entre sí, y la transparencia y rendición de cuentas hacia los ciudadanos y la sociedad;
 
-XXIII. Realizar reuniones o foros anuales, de carácter público, para discutir y analizar la aplicación y alcances de la presente Ley;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2013)</small>
 
-XXIV. Vigilar y requerir el cumplimiento de lo dispuesto en los artículos 18, 19, 20, 21, 22, 23, 24 y 25 de la presente Ley, en materia de información que deba difundirse de oficio;
+XIV. Promover la regulación e instrumentación del principio de publicidad de los actos y decisiones, así como, el libre acceso a las reuniones de los poderes públicos estatales y municipales, e incentivar la participación ciudadana y comunitaria;
 
-XXV. Promover la capacitación, actualización y habilitación de los servidores públicos, responsables de atender las solicitudes de acceso a la información, de la acción de protección de datos personales, de archivo y sistematización; desarrollar programas de difusión y educación cívica; y establecer convenios de cooperación con el propósito de hacer más eficaz y eficiente el desempeño de las funciones asignadas por esta Ley;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2013)</small>
 
-XXVI. Elaborar guías que expliquen de manera sencilla, los procedimientos y trámites que de acuerdo con la presente Ley, tengan que realizarse ante los entes obligados y la CEGAIP;
+XV. Recibir y sistematizar y, en su caso, requerir los informes mensuales que deberán enviarle las entidades públicas, relativas a la recepción y tramitación de solicitudes de información pública que hayan recibido;
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2013)</small>
 
-XXVII. Promover y fortalecer la cultura, del ejercicio del derecho de acceso a la información pública, del ejercicio del derecho a la protección de datos personales, y de transparencia, en los diversos sectores de la población, especialmente en el educativo de todos los niveles que se impartan en el Estado, y
+XVI. Elaborar y aprobar su reglamento interior, y las disposiciones necesarias para el cumplimiento del mismo;
 
-XXVIII. Las demás que le confiera esta Ley, su reglamento interior, y cualquier otra disposición legal aplicable.
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2013)</small>
+
+XVII. Designar a los servidores públicos y empleados de la CEGAIP;
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2013)</small>
+
+XVIII. Elaborar el informe anual que rendirá ante el Pleno del Congreso del Estado;
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2013)</small>
+
+XIX. Preparar su proyecto de presupuesto anual, que será enviado por conducto del Gobernador, al Congreso del Estado; y administrar los recursos humanos y bienes de la CEGAIP;
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2013)</small>
+
+XX. Imponer, en los casos en que proceda, a los servidores públicos responsables, las sanciones que correspondan de acuerdo con esta Ley;
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2013)</small>
+
+XXI. Proponer al Congreso del Estado las modificaciones y adecuaciones convenientes a las normas que regirán el sistema de Documentación y Archivo, para ajustarlos paulatinamente con los fines de la propia CEGAIP;
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2013)</small>
+
+XXII. Solicitar al Consejo Estatal Electoral se descuenten de las prerrogativas de los partidos políticos, las multas a que se hayan hecho acreedores;
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2013)</small>
+
+XXIII. Solicitar a la Auditoría Superior del Estado haga efectivas las multas a que se hayan hecho acreedores los servidores públicos responsables;
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2013)</small>
+
+XXIV. Realizar reuniones o foros anuales, de carácter público, para discutir y analizar la aplicación y alcances de la presente Ley;
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2013)</small>
+
+XXV. Vigilar y requerir el cumplimiento de lo dispuesto en los artículos, 18, 19, 20, 21, 22, 23, 24 y 25 de la presente Ley, en materia de información que deba difundirse de oficio;
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2013)</small>
+
+XXVI. Promover la capacitación, actualización y habilitación de los servidores públicos, responsables de atender las solicitudes de acceso a la información, de la acción de protección de datos personales, de archivo y sistematización; desarrollar programas de difusión y educación cívica; y establecer convenios de cooperación con el propósito de hacer más eficaz y eficiente el desempeño de las funciones asignadas por esta Ley;
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2013)</small>
+
+XXVII. Elaborar guías que expliquen de manera sencilla, los procedimientos y trámites que de acuerdo con la presente Ley, tengan que realizarse ante los entes obligados y la CEGAIP;
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2013)</small>
+
+XXVIII. Promover y fortalecer la cultura del ejercicio del derecho de acceso a la información pública, del ejercicio del derecho a la protección de datos personales, y de transparencia, en los diversos sectores de la población, especialmente en el educativo de todos los niveles que se impartan en el Estado, y
+
+> <small>(ADICIONADA, P.O. 7 DE MAYO DE 2013)</small>
+
+XXIX. Las demás que le confiera esta Ley, su reglamento interior, la Ley de Archivos del Estado de San Luis Potosí, y cualquier otra disposición legal aplicable.
 
 ###### ARTICULO 85.
 
@@ -1105,13 +1183,17 @@ El cargo de comisionado es de tiempo completo, e incompatible con cualquier otro
 
 ### CAPITULO III. Del Sistema Estatal de Documentación y Archivos
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2013)</small>
+
 ###### ARTICULO 91.
 
-El Sistema Estatal de Documentación y Archivos dependiente de la CEGAIP, es la unidad administrativa responsable, de aplicar las regulaciones que se establezcan en materia de administración y sistematización de la documentación e información en posesión de las entidades públicas, así como, de dictar los lineamientos y criterios técnicos para organizar y sistematizar la integración, administración y resguardo de los archivos de trámite y los archivos históricos; con este objeto se considerarán las opiniones técnicas de las unidades de información pública de cada entidad.
+El Sistema Estatal de Documentación y Archivos es el órgano de la CEGAIP, responsable de aplicar las regulaciones que se establezcan en materia de administración y sistematización de la documentación e información en posesión de las entidades públicas, así como de dictar los lineamientos y criterios técnicos para organizar y sistematizar la integración, administración y resguardo de los archivos administrativos y los archivos históricos, con los objetivos y atribuciones previstas en la presente Ley, así como en la Ley de Archivos del Estado de San Luis Potosí.
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2013)</small>
 
 ###### ARTICULO 92.
 
-El Sistema Estatal de Documentación y Archivo funcionará como instancia de coordinación, regulación y supervisión de las unidades de información pública integradas en cada entidad, para cumplir las disposiciones de la presente Ley.
+El Sistema Estatal de Documentación y Archivo funcionará como instancia de coordinación, regulación y supervisión de las unidades de información pública y coordinadores, jefes o encargados de archivo, integrados en cada entidad pública para cumplir las disposiciones de la presente Ley.
 
 ###### ARTICULO 93.
 
@@ -1427,7 +1509,7 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 28 DE DICIEMBRE DE 2010.
 
-DECRETO NUMERO 406, POR EL QUE SE REFORMA EL ARTICULO, 3° EN SUS FRACCIONES X A XXV, 19 EN SU FRACCION II, 77 Y 79; SE ADICIONA AL ARTICULO 3° LA FRACCION XXVI, Y AL 73 EL PARRAFO TERCERO; Y DEROGA EN EL ARTICULO 22 LA FRACCION II, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE SAN LUIS POTOSI.
+DECRETO NÚMERO 406, POR EL QUE SE REFORMA EL ARTÍCULO, 3° EN SUS FRACCIONES X A XXV, 19 EN SU FRACCIÓN II, 77 Y 79; SE ADICIONA AL ARTÍCULO 3° LA FRACCIÓN XXVI, Y AL 73 EL PÁRRAFO TERCERO; Y DEROGA EN EL ARTÍCULO 22 LA FRACCIÓN II, DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -1435,7 +1517,7 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
 
 P.O. 28 DE DICIEMBRE DE 2010.
 
-DECRETO NUMERO 407, POR EL QUE SE ADICIONA PARRAFO ULTIMO AL ARTICULO 105 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE SAN LUIS POTOSI.
+DECRETO NÚMERO 407, POR EL QUE SE ADICIONA PÁRRAFO ÚLTIMO AL ARTÍCULO 105 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -1443,7 +1525,7 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
 
 P.O. 28 DE DICIEMBRE DE 2010.
 
-DECRETO NUMERO 408, POR EL QUE SE REFORMA EL ARTICULO 81 EN SU PARRAFO SEGUNDO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE SAN LUIS POTOSI.
+DECRETO NÚMERO 408, POR EL QUE SE REFORMA EL ARTÍCULO 81 EN SU PÁRRAFO SEGUNDO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -1468,3 +1550,9 @@ P.O. 16 DE FEBRERO DE 2012.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
+
+P.O. 7 DE MAYO DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se deroga cualquier disposición contraria a este Decreto.
