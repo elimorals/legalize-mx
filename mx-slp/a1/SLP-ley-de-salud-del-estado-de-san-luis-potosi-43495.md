@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-salud-del-estado-de-san-luis-potosi-43495"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2012-09-15"
+last_updated: "2013-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2013.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de diciembre de 2004.
 
@@ -577,7 +577,7 @@ II. La prevención y el control de las enfermedades transmisibles de atención p
 
 > <small>(REFORMADA, P.O. 7 DE JULIO DE 2009)</small>
 
-III. Las atención médica, que comprende actividades preventivas, curativas, cuidados paliativos y de rehabilitación, incluyendo la atención de urgencias~ (sic)
+III. La atención médica, que comprende actividades preventivas, curativas, cuidados paliativos y de rehabilitación, incluyendo la atención de urgencias~ (sic)
 
 IV. La atención materno-infantil;
 
@@ -597,11 +597,17 @@ IX. La promoción del mejoramiento de la nutrición;
 
 X. La asistencia social a los grupos más vulnerables;
 
-> <small>(REFORMADA, P.O. 25 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2013)</small>
 
-XI. La atención y asistencia a personas victimas de violencia, y
+XI. La atención y asistencia a personas víctimas de violencia;
 
-XII. Los demás que establezca esta Ley o disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2013)</small>
+
+XII. La atención médica a los adultos mayores en áreas de salud geriátrica, y
+
+> <small>(ADICIONADA, P.O. 7 DE MAYO DE 2013)</small>
+
+XIII. Las demás que establezca esta Ley o disposiciones legales aplicables.
 
 ###### ARTICULO 26.
 
@@ -3852,3 +3858,9 @@ P.O. 15 DE SEPTIEMBRE DE 2012.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
+
+P.O. 7 DE MAYO DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
