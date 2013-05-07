@@ -4,7 +4,7 @@ identifier: "BCS-codigo-de-procedimientos-penales-para-el-estado-de-baja-44530"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-09-19"
-last_updated: "2012-05-16"
+last_updated: "2013-05-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44530&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCS"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE MAYO DE 2012.
+> <small>N. DE E. EL PRESENTE ORDENAMIENTO SERÁ ABROGADO EN FORMA SUCESIVA Y TERRITORIALMENTE POR PARTIDO JUDICIAL DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO Y TERCERO TRANSITORIOS DEL CÓDIGO PROCESAL PENAL PARA EL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADO EN EL EXTRAORDINARIO DEL B.O. DE 7 DE MAYO DE 2013, INICIANDO EN EL PARTIDO JUDICIAL DE COMONDÚ EL 1 DE JULIO DE DOS MIL CATORCE.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 7 DE MAYO DE 2013.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el domingo 20 de marzo de 2005.
 
@@ -3662,3 +3664,33 @@ El presente Decreto entrara en vigor al día siguiente al de su publicación en 
 ###### ARTÍCULO SEGUNDO
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+B.O. 7 DE MAYO DE 2013.
+
+Primero.- El presente Código Procesal Penal Para el Estado de Baja California Sur entrará en vigor en el ámbito espacial y temporal de validez, a las cero horas del 1 de julio de dos mil catorce en el partido judicial de Comondú.
+
+En el partido judicial de La Paz entrará en vigor o las cero horas del primero de febrero de dos mil quince.
+
+En los partidos judiciales de Loreto y Mulegé entrará en vigor a las cero horas del primero de enero de dos mil dieciséis.
+
+El partido judicial de Los Cabos entrará en vigor o las cero horas del primero de junio de dos mil dieciséis.
+
+Segundo.- Los procedimientos penales iniciados con anterioridad a la entrada en vigor del presente Código o que se estén substanciando, se tramitarán hasta su conclusión y en su caso, ejecución de sanciones, conforme a las disposiciones vigentes al momento de la comisión de los hechos.
+
+Tercero.- Al momento de entrada en vigor este Código, sucesivo y territorialmente por partido judicial en términos del primero transitorio, se abroga el Código de procedimientos Penales del Estado de Baja California Sur, publicado mediante decreto 1526 de fecho 20 de marzo de 2005. Asimismo se deroga cualquier disposición que se oponga al presente decreto.
+
+Cuarto.- Los delitos permanentes y continuados que inicien su comisión en la vigencia del Código (sic) Procedimientos Penales del Estado de Baja California Sur, Publicado en el Boletín Oficial del Gobierno del Estado, mediante Decreto 1526 de fecha 20 de Marzo de 2005, se investigarán, procesarán y juzgarán conforme a dicho ordenamiento aun cuando produzcan efectos con posterioridad a la entrada en vigor del presente ordenamiento.
+
+Quinto.- No procederá la acumulación de procesos por hechos que la ley señale como delito, cuando alguno de ellos deba tramitarse conforme al presente Código y otro conforme al Código (sic) Procedimientos Penales del Estado de Baja California Sur, Publicado en el Boletín Oficial del Gobierno del Estado, Mediante Decreto 1526 de fecha 20 de Marzo de 2005.
+
+Sexto.- Los procedimientos en materia de justicia para adolescentes seguirán conservando la supletoriedad del Código de Procedimientos Penales del Estado de Baja California Sur, Publicado en el Boletín Oficial del Gobierno del Estado, mediante Decreto 1526 de fecha 20 de Marzo de 2005; en tanto se realizan las adecuaciones correspondientes a la ley respectiva.
+
+Séptimo.- Cuando una autoridad penal reciba por exhorto, mandamiento o comisión una solicitud para la realización de un acto procesal, deberá seguir los procedimientos legales vigentes para la autoridad que remite la solicitud.
+
+Octavo.- Durante la vacatio legis de este código deberán reformarse las leyes que regulen la competencia y estructura de los órganos judiciales, de la defensoría de (sic) pública, del Ministerio Público, de la policía y las demás disposiciones legales aplicables.
+
+Noveno.- Durante la vacatio legis de este código, deberán hacerse las adecuaciones normativas de naturaleza administrativa sobre la competencia y estructura de los órganos judiciales, de la defensoría pública, del Ministerio Público y las demás disposiciones aplicables.
+
+Décimo.- En términos del Transitorio Octavo del Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, publicada en el Diario Oficial de la Federación el 18 de junio de 2008, el Tribunal Superior de Justicia del Estado de Baja California Sur, la Procuraduría General de Justicia del Estado, la Defensoría Pública y cualquier Dependencia a la que impacte la entrada en vigor de este código, deberán elaborar y ejecutar los programas necesarios para su adecuada y correcta implementación.
+
+Décimo Primero.- El Congreso del Estado libre y Soberano de Baja California Sur, deberá expedir la declaratoria a que se refiere el último párrafo del artículo Transitorio Segundo, de la reforma constitucional publicada en el Diario Oficial de la Federación el 18 de junio de 2008.
