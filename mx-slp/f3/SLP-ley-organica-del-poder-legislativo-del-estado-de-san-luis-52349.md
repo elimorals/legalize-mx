@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2012-12-27"
+last_updated: "2013-05-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2013.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -661,7 +661,9 @@ a) Oficialía Mayor, con las siguientes áreas:
 
 4. Oficialía de Partes.
 
-5. Archivo General del Congreso.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2013)</small>
+
+5. Archivo Administrativo e Histórico del Congreso.
 
 b) Instituto de Investigaciones Legislativas, con las siguientes áreas:
 
@@ -1819,25 +1821,73 @@ El Congreso del Estado podrá contar con un Consejo de Apoyo Legislativo, integr
 
 A propuesta de la Junta, el Pleno constituirá un Consejo de Transparencia, integrado por cinco ciudadanos representantes de diversos sectores, quienes tendrán carácter honorífico, al que convocará trimestralmente a través de la Comisión de Transparencia y Acceso a la Información, a efecto de que informe sobre los asuntos parlamentarios, administrativos y de transparencia del Congreso que hayan sido observados por el mismo; al efecto tendrán acceso y se les proporcionará la información que requieran, para que los mismos cuenten con suficientes elementos de juicio; autorizándoseles a asistir a las sesiones de trabajo de las distintas comisiones y del Comité de Adquisiciones, Arrendamientos y Servicios.
 
-### Capítulo IV. Del Servicio Parlamentario de Carrera
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE MAYO DE 2013)</small>
+
+### Capítulo IV. Del Archivo Administrativo e Histórico del Congreso del Estado
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2013)</small>
 
 ###### ARTICULO 141.
 
-El Congreso del Estado instituye el servicio parlamentario de carrera para sus trabajadores, a través de la Oficialía Mayor, la que instrumentará los mecanismos y fijará los criterios para la selección de personal, capacitación y ascenso; procurando en todo tiempo que los cargos sean ocupados a través de exámenes de aptitud y de oposición, en su caso, según la naturaleza de los mismos.
+Los documentos producidos, recibidos o custodiados por el Congreso del Estado, quedan fuera del comercio.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2013)</small>
 
 ###### ARTICULO 142.
+
+Todos los documentos sin importar su formato, que sean producidos o recibidos por el Congreso del Estado, deberán tener una correcta administración archivística, con la finalidad de cumplir y sustentar la función del Poder Legislativo, optimizar los trámites, la gestión de asuntos, el acceso a la información pública, la rendición de cuentas, así como representar una fuente indispensable para la investigación.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2013)</small>
+
+###### ARTICULO 143.
+
+El Congreso del Estado será responsable del manejo directo y conservación de sus documentos, y deberá:
+
+I. Implementar los métodos archivísticos en todos sus documentos que conforman el Acervo Documental Propiedad del Estado, recibidos o conservados de conformidad con sus funciones y a lo largo de su ciclo de vida, de acuerdo a lo que establece la Ley de Archivos del Estado de San Luis Potosí, y los lineamientos establecidos por el Sistema Estatal de Documentación y Archivos;
+
+II. Adoptar las medidas que sean necesarias para garantizar la integridad, autenticidad, veracidad y fidelidad de los documentos y sus contenidos;
+
+III. Adecuar correctamente las instalaciones de su archivo para garantizar la conservación y custodia de los documentos, en términos de las directrices que al efecto emita el Sistema Estatal de Documentación y Archivos;
+
+IV. Establecer los lineamientos para brindar los servicios de consulta y reprografía al público usuario;
+
+V. Hacer constar en las actas de los procesos de entrega-recepción, por medio de inventarios y expedientes, el acervo documental recibido, producido y resguardado durante la administración saliente, y su existencia y recepción por la administración entrante, y
+
+VI. Asegurar el adecuado mantenimiento de los documentos, garantizando la integridad física y funcional de toda la documentación desde el momento de la emisión, durante su periodo de vigencia, hasta su disposición final.
+
+> <small>[N. DE E. ANTES CAPÍTULO IV, P.O. 7 DE MAYO DE 2013.]</small>
+
+### Capítulo V. Del Servicio Parlamentario de Carrera
+
+> <small>[N. DE E. ANTES ARTÍCULO 141, P.O. 7 DE MAYO DE 2013.]</small>
+
+###### ARTICULO 144.
+
+El Congreso del Estado instituye el servicio parlamentario de carrera para sus trabajadores, a través de la Oficialía Mayor, la que instrumentará los mecanismos y fijará los criterios para la selección de personal, capacitación y ascenso; procurando en todo tiempo que los cargos sean ocupados a través de exámenes de aptitud y de oposición, en su caso, según la naturaleza de los mismos.
+
+> <small>[N. DE E. ANTES CAPÍTULO V, P.O. 7 DE MAYO DE 2013.]</small>
+
+### Capítulo VI. De la Gaceta Parlamentaria
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+
+(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2011) [N. DE E. ANTES ARTÍCULO 142, P.O. 7 DE MAYO DE 2013.]
+
+###### ARTICULO 145.
 
 El Congreso del Estado contará con un órgano de notificación denominado Gaceta Parlamentaria, dependiente de la Directiva; que se publicará en el portal del Congreso y enviará, vía electrónica, a los legisladores, con cuarenta y ocho horas de anticipación a las sesiones plenarias.
 
 En ella se publicarán:
 
-l. Las iniciativas presentadas;
+I. Las iniciativas presentadas;
 
 II. Dictámenes de las comisiones;
 
 III. Proposiciones y votaciones;
 
-IV. Acuerdos de las comisiones; de los grupos parlamentarios; de la Directiva; de la Junta y del Pleno;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2013)</small>
+
+IV. Acuerdos de las comisiones; de los grupos parlamentarios; de la Directiva; de la Junta; y del Pleno;
 
 V. Informes del Congreso, y
 
@@ -1858,12 +1908,6 @@ La antelación de la publicación de la Gaceta podrá ser dispensada, en los cas
 La falta de publicación de un dictamen en la Gaceta, no será obstáculo para que el mismo se discuta en la sesión respectiva, siempre y cuando haya sido enviado, vía electrónica, a los diputados, con por lo menos cuarenta y ocho horas de anticipación.
 
 No podrán publicarse en la Gaceta los asuntos tratados en las sesiones privadas.
-
-### Capítulo V. De la Gaceta Parlamentaria
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ABRIL DE 2011)</small>
 
 ## TRANSITORIOS
 
@@ -1925,7 +1969,7 @@ Lic. Alfonso José Castillo Machuca
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 1 DE NOVIEMBRE DE 2006.
 
@@ -2062,3 +2106,9 @@ PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en 
 SEGUNDO. El Poder Ejecutivo del Estado contará con un plazo de 60 días para llevar a cabo las modificaciones correspondientes a las disposiciones reglamentarias aplicables.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE MAYO DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se deroga cualquier disposición contraria a éste Decreto.
