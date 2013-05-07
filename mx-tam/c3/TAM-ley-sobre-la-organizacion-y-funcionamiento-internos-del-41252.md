@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2013-03-05"
+last_updated: "2013-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2013.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -1833,23 +1833,37 @@ g) El presidente de la Mesa Directiva, de la Diputación Permanente o de la comi
 
 4. Los diputados sin partido que deseen participar en la comparecencia serán considerados en el procedimiento a que se refiere el párrafo 2 de este artículo y, en caso de seguirse lo dispuesto por el párrafo 3, dichos diputados formularán la solicitud correspondiente a su participación al órgano en el cual se vaya a desarrollar la propia comparecencia.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2013)</small>
 
 ###### ARTICULO 131.
 
-Cuando comparezcan ante el Pleno del Congreso, ante la Diputación Permanente o ante las comisiones ordinarias, servidores públicos que formen parte del Poder Judicial del Estado, del Instituto Electoral de Tamaulipas de la Comisión de Derechos Humanos del Estado, del Instituto de Transparencia y Acceso a la Información de Tamaulipas o de los Ayuntamientos del mismo, en lo conducente se seguirán las normas previstas en el artículo anterior.
+1. Cuando comparezcan ante el Pleno del Congreso, ante la Diputación Permanente o ante las comisiones ordinarias, servidores públicos que formen parte del Poder Judicial del Estado, del Instituto Electoral de Tamaulipas, de la Comisión de Derechos Humanos del Estado, del Instituto de Transparencia y Acceso a la Información de Tamaulipas o de los Ayuntamientos del mismo, en lo conducente se seguirán las normas previstas en el artículo anterior.
+
+2. Cuando con motivo de una comparecencia no sea posible hacer referencia integral a la información disponible en los tiempos de desahogo de la misma o la información de que se trate no se encuentre disponible, el servidor público compareciente deberá remitirla por escrito dirigido al presidente de la Mesa Directiva, de la Diputación Permanente o de la comisión ordinaria, dentro de los siguientes 10 días hábiles.
+
+Este plazo podrá ampliarse por acuerdo del presidente del órgano que corresponda, siempre que se expresen razones que lo justifiquen.
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2013)</small>
 
 ###### ARTICULO 132.
 
-Cuando con motivo de una comparecencia no sea posible hacer referencia integral a la información disponible en los tiempos de desahogo de la misma o la información de que se trate no se encuentre disponible, el servidor público compareciente podrá remitirla por escrito dirigido al presidente de la Mesa Directiva, de la Diputación Permanente o de la comisión ordinaria, dentro de los siguientes 10 días hábiles. Este plazo podrá ampliarse por acuerdo del presidente del órgano que corresponda, siempre que se expresen razones que lo justifiquen.
+1. La solicitud de comparecencia que efectúe la Comisión de Derechos Humanos del Estado de Tamaulipas ante el Congreso del Estado con motivo de la negativa de una autoridad o servidor público de aceptar o cumplir las recomendaciones que emita ese órgano de protección, será turnada por el Presidente de la Mesa Directiva o de la Diputación Permanente en los recesos, al conocimiento de los Presidentes de las Comisiones de Derechos Humanos, de Justicia y de Puntos Constitucionales.
+
+2. Recibida la solicitud por los Presidentes de las Comisiones de referencia, integrarán un expediente con las constancias documentales enviadas al efecto procediendo a su análisis para determinar, mediante la emisión de un dictamen, si existen los elementos suficientes que acrediten la negativa del servidor público de aceptar o cumplir una recomendación, a fin de que comparezca ante el órgano que determine el Pleno del Congreso, o la Diputación Permanente en los recesos.
+
+3. De estimar procedente la comparecencia, el Pleno del Congreso, o la Diputación Permanente en los recesos, determinará el órgano, la fecha y hora para la celebración de la misma, así como la modalidad en que se llevará a cabo, con el propósito de que el servidor público o la autoridad responsable acuda personalmente a justificar, fundar y motivar las razones de su negativa.
+
+4. De estimar improcedente la comparecencia el Pleno del Congreso, o la Diputación Permanente en los recesos, notificará personalmente al servidor público la determinación
+
+5. El Presidente de la Mesa Directiva o de la Diputación Permanente, previo a la discusión del dictamen, consultará al Pleno Legislativo o a la Diputación Permanente si el desahogo de éste se realiza en forma reservada.
 
 #### SECCION DECIMA. DE LAS PROPUESTAS QUE NO CONSTITUYAN INICIATIVA
 
 ###### ARTICULO 133.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2013)</small>
 
-1. Para efectos de los nombramientos o ratificaciones, según sea el caso, de Magistrados del Supremo Tribunal de Justicia y del Tribunal Electoral del Poder Judicial del Estado; del Consejero Presidente, los consejeros electorales y el Contralor General del Instituto Electoral de Tamaulipas; del presidente de la Comisión de Derechos Humanos del Estado; de los comisionados del Instituto de Transparencia y Acceso a la Información de Tamaulipas y del Procurador General de Justicia se seguirá el procedimiento señalado en esta Sección, y en su caso, el de las leyes que correspondan.
+1. Para efectos de los nombramientos o ratificaciones, según sea el caso, de Magistrados del Supremo Tribunal de Justicia y del Tribunal Electoral del Poder Judicial del Estado; del Consejero Presidente, los consejeros electorales y el Contralor General del Instituto Electoral de Tamaulipas; del Titular de la Presidencia y de los integrantes del Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Tamaulipas; de los comisionados del Instituto de Transparencia y Acceso a la Información de Tamaulipas y del Procurador General de Justicia se seguirá el procedimiento señalado en esta Sección y, en su caso, el de las leyes que correspondan.
 
 2. En tratándose de otros nombramientos cuyo perfeccionamiento requiera del concurso de la mayoría del Pleno del Congreso, sólo se requerirá la formulación y aprobación del dictamen correspondiente.
 
@@ -1902,6 +1916,24 @@ e) Concluida la etapa señalada en el inciso que antecede, la comisión ordinari
 f) El dictamen final a que hace referencia el inciso que antecede, será sometido a votación de los miembros presentes del Pleno del Congreso del Estado, para, posteriormente, mediante votación por cédula, realizar la designación del Contralor General del Instituto Electoral de Tamaulipas con el voto de las dos terceras partes de sus miembros presentes.
 
 g) El Contralor General del Instituto Electoral de Tamaulipas que concluya su periodo y aspire a ser reelecto, podrá participar en el proceso a que hace referencia el presente párrafo, en los términos que para tal efecto señale la convocatoria respectiva.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2013)</small>
+
+9. La designación del Titular de la Presidencia y de los integrantes del Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Tamaulipas y de los suplentes respectivos, se sujetará al siguiente procedimiento:
+
+a) Cuando se genere la vacante, o a más tardar 60 días antes de la conclusión del periodo para el que fue electo, la Junta de Coordinación Política del Congreso del Estado realizará una consulta pública y transparente, a efecto de que los ciudadanos que cumplan con los requisitos legales estén en aptitud de ser considerados para ocupar el cargo.
+
+b) La convocatoria considerará las etapas y procedimientos para la designación o reelección correspondiente, ordenando su publicación en el Periódico Oficial del Estado, en dos diarios de circulación en la entidad, así como en la página web oficial del Congreso.
+
+c) La Comisión de Derechos Humanos del Congreso, o la Diputación Permanente durante los recesos, realizará la evaluación preliminar de los documentos presentados por los aspirantes, emitiendo un dictamen en el que se señalarán a los candidatos que cumplieron con los requisitos contenidos en la convocatoria para ser considerados en la etapa de entrevistas o reuniones de trabajo. Se deberá motivar y fundar la exclusión de los aspirantes que no sean considerados para acceder a dicha etapa.
+
+d) Agotadas las fases anteriores, se citará a los aspirantes a las reuniones de trabajo o entrevistas conforme a lo establecido en el párrafo 4 de este artículo. De ser necesario, las modalidades, duración y mecanismos de las referidas entrevistas serán determinadas mediante acuerdo emitido por la Comisión de Derechos Humanos del Congreso o la Diputación Permanente, según sea el caso.
+
+e) Concluida la etapa señalada en el inciso que antecede, la Comisión de Derechos Humanos del Congreso o la Diputación Permanente, según sea el caso, emitirá un dictamen final que concluirá con la lista de los candidatos que cumplen con los requisitos legales y que solventaron las reuniones de trabajo o entrevistas previstas en el inciso d) de este párrafo.
+
+f) El dictamen final a que hace referencia el inciso que antecede, será sometido a votación de los miembros del Pleno del Congreso del Estado, para, posteriormente, mediante votación por cédula, realizar la designación de los cargos a que se refiere este párrafo con el voto de las dos terceras partes de los miembros presentes del Congreso del Estado.
+
+g) El Titular de la Presidencia y los integrantes del Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Tamaulipas que concluyan su periodo y que sean susceptibles a ser reelectos, podrán participar en el proceso a que hace referencia el presente párrafo, en los términos que para tal efecto señale la convocatoria respectiva.
 
 ###### ARTICULO 135.
 
@@ -2544,3 +2576,13 @@ La reforma efectuada al artículo 60 de la Constitución Política del Estado de
 ###### ARTÍCULO SEGUNDO.
 
 La reforma concerniente al artículo 53 párrafo 1 de la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado de Tamaulipas, establecida en el artículo segundo del presente Decreto, entrará en vigor una vez que surta efectos la reforma efectuada al artículo 60 de la Constitución Política del Estado de Tamaulipas, contenida en este Decreto, debiéndose publicar en el Periódico Oficial del Estado.
+
+P.O. 7 DE MAYO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir de su expedición y se publicará en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los actuales Consejeros de la Comisión de Derechos Humanos del Estado de Tamaulipas, en aptitud de ser reelectos al cargo, deberán sujetarse al procedimiento previsto en el presente Decreto.
