@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transporte-publico-del-estado-de-san-luis-potosi-68766"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-23"
-last_updated: "2012-12-27"
+last_updated: "2013-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68766&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2013.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de abril de 2009.
 
@@ -31,7 +31,7 @@ C.P. Marcelo de los Santos Fraga, Gobernador Constitucional del Estado Libre y S
 
 DECRETO 667
 
-LA QUINCUAGESIMA OCTAVA LEGISLATURA CONSTITUCIONAL DEL ESTADO UBRE Y SOBERANO DE SAN LUIS POTOSI, DECRETA:
+LA QUINCUAGESIMA OCTAVA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI, DECRETA:
 
 EXPOSICION DE MOTIVOS...
 
@@ -1619,15 +1619,29 @@ V. Por un representante del sector industrial del Estado;
 
 VI. Por un representante del sector comercial del Estado;
 
-VII. Por un representante de cada una de las organizaciones de concesionarios del transporte público en la Entidad, y
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2013)</small>
 
-VIII. Además, a invitación expresa de la Secretaría, por representantes de:
+VII. Por el sector de los concesionarios, un representante legal de los concesionarios de cada una de las personas morales legalmente constituidas del transporte público en la Entidad;
 
-a) Sindicatos legalmente constituidos en la Entidad.
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2013)</small>
 
-b) Instituciones de educación superior y de las asociaciones de estudiantes de las mismas.
+VIII. Por el sector estudiantil, un representante de cada una de las asociaciones de estudiantes de Instituciones de educación superior en el Estado;
 
-c) Asociaciones de profesionistas y ciudadanos.
+> <small>(ADICIONADA, P.O. 7 DE MAYO DE 2013)</small>
+
+IX. Por el sector de autoridades estudiantiles, un representante de cada una de las autoridades educativas de las Instituciones de educación superior en el Estado, y
+
+> <small>(ADICIONADA, P.O. 7 DE MAYO DE 2013)</small>
+
+X. A convocatoria del Presidente del Consejo, y sólo con derecho a voz, podrán participar representantes de asociaciones de profesionistas, operadores, y ciudadanos, así como los funcionarios que, por razones de la importancia de sus atribuciones, estén vinculados con los fines del transporte público.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2013)</small>
+
+Los integrantes a que refieren las fracciones I a IX, tendrán intervención en las determinaciones que se tomen para el mejoramiento y solución de los problemas que aquejen al transporte público de la Entidad, y el voto que emitan deberá ser contabilizado de manera colegiada contando por uno el de cada sector representativo.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2013)</small>
+
+El reglamento respectivo debe contener el procedimiento para organizar entre los integrantes de cada sector, para la emisión de las votaciones; así como también las respectivas sanciones a que se harán acreedores por la inasistencia a las reuniones del Consejo.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE DICIEMBRE DE 2012)</small>
 
@@ -2072,3 +2086,11 @@ PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en 
 SEGUNDO. El Poder Ejecutivo del Estado contará con un plazo de 60 días para llevar a cabo las modificaciones correspondientes a las disposiciones reglamentarias aplicables.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE MAYO DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El Ejecutivo del Estado tendrá treinta días a partir de la publicación del presente Decreto, para llevar a cabo las reformas al reglamento respectivo.
+
+TERCERO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
