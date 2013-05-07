@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2012-08-30"
+last_updated: "2013-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2013.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -743,9 +743,9 @@ XVII.- Disponer de la fuerza pública del Municipio para asegurar, cuando las ci
 
 XVIII.- Dar cuenta al Gobierno del Estado de todo acontecimiento que afecte la buena marcha del gobierno y administración municipal, y de todo suceso que perturbe el orden público y la paz social.
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2013)</small>
 
-XIX.- Rendir a la población un informe anual detallado del estado que guarda la Administración Pública Municipal en el mes de diciembre de cada año. Toda información posterior a la fecha del informe anual será referida en el acta de Entrega-Recepción correspondiente.
+XIX.- Rendir anualmente al Ayuntamiento, en el período comprendido entre los días 3 y 13 de septiembre de cada año, un informe detallado sobre el estado que guarda la Administración Pública Municipal y las labores realizadas. Toda información posterior a la fecha del informe anual será referida en el acta de Entrega-Recepción correspondiente.
 
 XX.- Solicitar autorización del Ayuntamiento para ausentarse de la cabecera del Municipio por períodos mayores de cinco días.
 
@@ -3491,7 +3491,7 @@ El aspecto sustantivo y de procedimiento a que se refiere la Ley de Ingresos de 
 
 ###### ARTICULO SEPTIMO.
 
-En un plazo de seis meses a partir de la iniciación de la vigencia de este Código, el Gobierno del Estado y los Municipios deberán celebrar los convenios y acuerdos de coordinación, relativos a la prestación de los servicios que se realizarán co el concurso de ambas entidades.
+En un plazo de seis meses a partir de la iniciación de la vigencia de este Código, el Gobierno del Estado y los Municipios deberán celebrar los convenios y acuerdos de coordinación, relativos a la prestación de los servicios que se realizarán con el concurso de ambas entidades.
 
 ###### ARTICULO OCTAVO.
 
@@ -3996,6 +3996,12 @@ El presente Decreto se publicará en el Periódico Oficial del Estado y entrará
 Los asuntos y procedimientos que se hayan iniciado con anterioridad a la entrada en vigor del presente Decreto, continuarán su trámite conforme a las disposiciones aplicables al momento de su inicio.
 
 P.O. 30 DE AGOSTO DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE MAYO DE 2013.
 
 ###### ARTÍCULO ÚNICO.
 
