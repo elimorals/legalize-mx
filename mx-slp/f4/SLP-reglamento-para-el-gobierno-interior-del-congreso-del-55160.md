@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-para-el-gobierno-interior-del-congreso-del-55160"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-15"
-last_updated: "2013-04-11"
+last_updated: "2013-05-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2013.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 15 de febrero de 2007.
 
@@ -735,9 +735,9 @@ Sólo aquellos puntos de acuerdo cuya materia no sea de urgente y obvia resoluci
 
 El procedimiento que seguirán las iniciativas presentadas al Congreso, será el siguiente:
 
-> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2013)</small>
 
-I. Serán recibidas en la oficialía de partes; además de su dispositivo de almacenamiento de datos, en original y tres copias, una de las cuales será firmada de recibida y devuelta al proponente;
+I. Serán recibidas en la oficialía de partes, en original y copia, adjuntando el dispositivo de almacenamiento de datos correspondiente; la copia deberá ser sellada y firmada de recibida y devuelta al promovente;
 
 II. La Oficialía Mayor las turnará a la Directiva del Congreso para su registro;
 
@@ -1397,9 +1397,11 @@ I. Si únicamente se toma conocimiento, caso en el que la comisión o comité de
 
 II. Si son para su atención y expediente respectivo, caso en el que la comisión deberá emitir la resolución que corresponda en un término no mayor de quince dí as (sic) hábiles; salvo que por la naturaleza del asunto se requiera de más tiempo para resolver, situación de la que informarán por escrito al promovente o promoventes, y
 
-III. Si son para estudio y dictamen, en este caso, cuando se trate de iniciativas de reformas, adiciones, derogaciones o abrogación de leyes, éstas deberán ser resueltas en un término no mayor de seis meses contados a partir de la fecha de turno; respecto a las iniciativas de nuevos ordenamientos, podrán solicitarse a la Directiva hasta dos prórrogas de tres meses cada una, cuando por la naturaleza de las mismas, la comisión estime fundado llevar a cabo, consultas, foros, realizar análisis comparativos o investigaciones de cualquier otra naturaleza; pero en ningún caso el término deberá exceder de un año.
+III. Si son para estudio y dictamen, en este caso, cuando se trate de iniciativas de reformas, adiciones, derogaciones o abrogación de leyes, éstas deberán ser resueltas en un término no mayor de seis meses contados a partir de la fecha de tumo; respecto a las iniciativas de nuevos ordenamientos, podrán solicitarse a la Directiva hasta dos prórrogas de tres meses cada una, cuando por la naturaleza de las mismas, la comisión estime fundado llevar a cabo, consultas, foros, realizar análisis comparativos o investigaciones de cualquier otra naturaleza; pero en ningún caso el término deberá exceder de un año.
 
-Una vez firmados por los integrantes de la comisión, los dictámenes deberán entregarse a la Secretaría de la Directiva, a través de la Coordinación de Servicios Parlamentarios, para que sean publicados en la Gaceta Parlamentaria, dentro del término que establece la ley.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2013)</small>
+
+Una vez firmados por los integrantes de la comisión, los dictámenes deberán entregarse a la Secretaría de la Directiva, en original y copia, adjuntando el dispositivo de almacenamiento de datos correspondiente, a través de la Coordinación de Servicios Parlamentarios, para que sean publicados en la Gaceta Parlamentaria, dentro del término que establece la ley; la copia deberá ser firmada y sellada de recibida y devuelta al Presidente de la comisión respectiva. En caso de que el asunto haya sido dictaminado por dos o más comisiones, la copia firmada y sellada de recibida, será devuelta al Presidente de la comisión en primer turno.
 
 ###### ARTICULO 158.
 
@@ -1547,7 +1549,9 @@ III. La Coordinación de Informática;
 
 IV. La Oficialía de Partes, y
 
-V. El Archivo General del Congreso.
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2013)</small>
+
+V. El Archivo Administrativo e Histórico del Congreso.
 
 ###### ARTICULO 177.
 
@@ -1575,7 +1579,9 @@ X. Mantener actualizado el inventario de inmuebles, muebles y equipo, así como 
 
 XI. Controlar y disponer que se realice el servicio de intendencia, conservación y limpieza del recinto del Congreso;
 
-XII. Ser directamente responsable del cuidado y control del archivo histórico y vigente del Congreso; y
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2013)</small>
+
+XII. Ser directamente responsable del cuidado y control del archivo administrativo e histórico del Congreso, conforme a lo que establece la Ley de Archivos del Estado de San Luis Potosí, y
 
 XIII. Las demás que le confiera la Ley Orgánica y las que la Junta le asigne.
 
@@ -1897,6 +1903,10 @@ Dependiente de la Coordinación de Asuntos Jurídicos habrá una Unidad de Notif
 
 Para ser notificador del Congreso se requiere ser licenciado en derecho, con título y cédula profesional legalmente expedidos; y contar con una experiencia mínima de tres años en el ejercicio profesional.
 
+### CAPÍTULO XII. DEL ARCHIVO ADMINISTRATIVO E HISTÓRICO DEL CONGRESO
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2013)</small>
+
 ###### ARTICULO 194.
 
 Dependiente de la Directiva habrá una Coordinación de Comunicación Social del Congreso; encargada de la difusión de los asuntos institucionales del Congreso.
@@ -1980,6 +1990,64 @@ XVI. Certificar los documentos de actuación en trámite y los existentes en sus
 XVII. Revisar la documentación justificativa y comprobatoria del gasto y del ingreso del Congreso del Estado, y
 
 XVIII. Las demás que le señalen los ordenamientos legales, o que determine la Junta de Coordinación Política.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE MAYO DE 2013)</small>
+
+###### ARTICULO 199.
+
+Dependiente de la Oficialía Mayor habrá un Archivo Administrativo e Histórico del Congreso, encargado de ejecutar y vigilar la aplicación de la Ley de Archivos del Estado de San Luis Potosí al interior del Poder Legislativo, así como vincularse con el Sistema Estatal de Documentación y Archivo.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2013)</small>
+
+###### ARTICULO 200.
+
+Para ser encargado del Archivo Administrativo e Histórico del Congreso se requiere:
+
+I. Ser ciudadano mexicano;
+
+II. No haber sido condenado por la comisión de algún delito doloso;
+
+III. No ser cónyuge, ni tener relación de parentesco por consanguinidad o afinidad hasta el cuarto grado o civil, con cualquiera de los miembros del Pleno del Congreso y del Oficial Mayor;
+
+IV. No haber sido diputado federal o local, dirigente de un partido o asociación política, durante el año previo al día de su nombramiento;
+
+V. Ser profesionista con título legalmente expedido, con experiencia mínima de tres años en el ejercicio profesional al día de su designación, y
+
+VI. Contar con estudios o experiencia comprobada en materia archivística, bibliotecología, ciencias de la información, historia, derecho o carrera afín; o bien, acreditar ser perito o tener conocimientos específicos que a juicio de la Junta de Coordinación Política, se hagan necesarios para las labores que desarrollará como responsable del Sistema de Gestión de Contenidos del Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2013)</small>
+
+###### ARTICULO 201.
+
+Corresponde al encargado del Archivo Administrativo e Histórico del Congreso:
+
+I. Supervisar la organización de los archivos al interior del Congreso;
+
+II. Elaborar los instrumentos de control archivístico, de acuerdo a los manuales y lineamientos que se elaboren para tal efecto, por el Comité Técnico de Archivo establecido en la Ley de Archivos del Estado de San Luis Potosí;
+
+III. Asistir a las sesiones ordinarias y extraordinarias que celebre el Comité Técnico de Archivos, a que se refiere la Ley de Archivos del Estado de San Luis Potosí, y
+
+IV. Las demás que le señalen los ordenamientos legales.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2013)</small>
+
+###### ARTICULO 202.
+
+El archivo administrativo e histórico contará, al menos, con los siguientes instrumentos archivísticos:
+
+I. Cuadro General de Clasificación;
+
+II. Catálogo de Disposición Documental;
+
+III. Inventarios Documentales, y
+
+IV. Guía Simple de Archivos.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2013)</small>
+
+###### ARTICULO 203.
+
+El Congreso para el ejercicio de sus funciones y el cumplimiento de la Ley de Archivos del Estado de San Luis Potosí, se auxiliará del Comité de Información del Congreso del Estado.
 
 T R A N S I T O R I O S
 
@@ -2110,3 +2178,19 @@ P.O. 11 DE ABRIL DE 2013.
 PRIMERO. Este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 7 DE MAYO DE 2013.
+
+DECRETO NÚMERO 139, POR EL QUE SE REFORMA LOS ARTÍCULOS, 75 EN SU FRACCIÓN I, Y 157 EN SU PÁRRAFO ÚLTIMO DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE MAYO DE 2013.
+
+DECRETO NÚMERO 134, POR EL QUE SE REFORMA LOS ARTÍCULOS, 176 EN SU FRACCIÓN V, Y 177 EN SU FRACCIÓN XII; Y ADICIONA AL TÍTULO DÉCIMO EL CAPÍTULO XII CON LOS ARTÍCULOS 199 A 203, DE Y AL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se deroga cualquier disposición contraria a este Decreto.
