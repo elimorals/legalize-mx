@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2012-12-06"
+last_updated: "2013-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2013.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -1425,13 +1425,17 @@ XIII. Cultura, Recreación y Deporte;
 
 XIV. Servicios;
 
-> <small>(REFORMADA, P.O. 5 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2013)</small>
 
-XV. De Atención a Grupos Vulnerables, y
+XV. De Atención a Grupos Vulnerables;
 
-> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2013)</small>
 
-XVI. De Derechos Humanos.
+XVI. De Derechos Humanos, y
+
+> <small>(ADICIONADA, P.O. 7 DE MAYO DE 2013)</small>
+
+XVII. De Vigilancia.
 
 ###### ARTICULO 90.
 
@@ -2456,3 +2460,9 @@ P.O. 6 DE DICIEMBRE DE 2012.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
+
+P.O. 7 DE MAYO DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
