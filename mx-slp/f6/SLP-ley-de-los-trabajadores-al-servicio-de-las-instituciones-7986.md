@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-los-trabajadores-al-servicio-de-las-instituciones-7986"
 country: "mx"
 rank: "ley"
 publication_date: "1996-01-08"
-last_updated: "2010-10-12"
+last_updated: "2013-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7986&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2013.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el lunes 8 de enero de 1996.
 
@@ -287,7 +287,15 @@ Los trabajadores que obtengan licencias sin goce de sueldo, no perderán derecho
 
 Las trabajadoras embarazadas no realizarán actividades que exijan grandes esfuerzos o impliquen peligro para su salud, en relación con la gestación, gozarán de un mes de descanso antes de la fecha del parto y otros dos después del mismo, con goce de sueldo.
 
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2013)</small>
+
+Asimismo, las trabajadoras que logren obtener la adopción de un infante, gozarán de tres días laborales de descanso a partir de la adopción.
+
 Durante la lactancia, las madres trabajadoras dispondrán de dos descansos extraordinarios por día, de media hora cada uno, para amamantar a sus hijos, por un período de seis meses contados a partir de la terminación de la licencia por maternidad.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2013)</small>
+
+ARTICULO 36 BIS.- Otorgar un permiso de paternidad de tres días laborales con goce de sueldo, a los hombres trabajadores, por el nacimiento de sus hijos; y de igual manera en el caso de adopción.
 
 ###### ARTICULO 37.
 
@@ -423,7 +431,9 @@ VIII.- Aportar a las instituciones de seguridad social respectivas, los porcenta
 
 IX.- Cubrir las demás aportaciones que según las leyes de la materia correspondan y las convenidas con los sindicatos respectivos, para que los trabajadores tengan los beneficios de la seguridad social;
 
-X.- Cuando fueren condenadas en virtud de laudo ejecutorio, cubrir las indemnizaciones por despido injustificado, cuando los trabajadores afectados hayan optado por esta solución, o en su caso, reinstalar a los trabajadores en los puestos de los cuales hubieren sido separados injustamente y cubrir los salarios caídos;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2013)</small>
+
+X.- Cuando fueren condenadas en virtud de laudo ejecutorio, cubrir las indemnizaciones por despido injustificado, cuando los trabajadores afectados hayan optado por esta solución o, en su caso, reinstalar a los trabajadores en los puestos de los cuales hubieren sido separados injustamente, y cubrir los salarios caídos conforme a los (sic) dispuesto en el artículo 59 de esta Ley;
 
 XI.- Guardar hacia los trabajadores el debido respeto y consideración;
 
@@ -573,9 +583,15 @@ El acta a que se refiere el artículo anterior, no se invalida si alguno de los 
 
 Todo cese deberá efectuarse por causa justificada precedida de investigación y éste no podrá darse si el trabajador se encuentra incapacitado, de vacaciones, con permiso o licencia. En estos casos el término para llevar a cabo la investigación o imponer la sanción, empezará a correr hasta que el trabajador se encuentre nuevamente en servicio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2013)</small>
+
 ###### ARTICULO 59.
 
-El trabajador que se considere cesado injustamente, podrá demandar ante el Tribunal Estatal de Conciliación y Arbitraje la reinstalación en el cargo o puesto que tenía con todos sus derechos anteriores y en las mismas condiciones en que las que se desempeñara o la indemnización equivalente a tres meses de sueldo y los salarios caídos, desde la fecha del cese hasta que se cumplimente el laudo.
+El trabajador que se considere cesado injustamente, podrá demandar ante el Tribunal Estatal de Conciliación y Arbitraje, la reinstalación en el cargo o puesto que tenía con todos sus derechos anteriores, y en las mismas condiciones en que las que se desempeñara, o la indemnización equivalente a tres meses de sueldo, y los salarios caídos desde la fecha del cese y hasta por un período máximo de doce meses, a razón del que corresponda a la fecha en que se realice el pago.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2013)</small>
+
+Si al término del plazo señalado en el párrafo anterior no ha concluido el procedimiento, o no se ha dado cumplimiento al laudo, se pagará al trabajador los intereses que se generen sobre el importe de quince meses de salario, a razón del dos por ciento mensual, capitalizable al momento del pago.
 
 La falta de notificación por escrito del cese al trabajador dentro de los tres días siguientes al mismo, será causa para considerar el despido como injustificado. En caso de que el trabajador se niegue a recibirla, el representante de la institución pública, lo comunicará al Tribunal Estatal de Conciliación y Arbitraje para los efectos de su notificación.
 
@@ -1676,3 +1692,9 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Los trabajadores que hayan sido despedidos o suspendidos con anterioridad a la fecha de entrada en vigor del presente Decreto, se sujetarán a las disposiciones vigentes en el momento del despido o suspensión.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE MAYO DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
