@@ -4,7 +4,7 @@ identifier: "MEX-codigo-financiero-del-estado-de-mexico-y-municipios-13951"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-03-09"
-last_updated: "2013-05-03"
+last_updated: "2013-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE MAYO DE 2013.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el martes 9 de marzo de 1999.
 
@@ -1194,6 +1194,138 @@ IX. Los adquirentes de bienes inmuebles, cuando los enajenantes no hayan pagado 
 X. Los causahabientes o, en su caso, quienes ostenten la propiedad o posesión de un predio cuando quien lo fraccione o subdivida no sea el titular de los derechos sobre el mismo.
 
 XI. Los terceros que para garantizar el interés fiscal constituyan depósito, prenda o hipoteca o permitan el embargo de bienes, hasta por el valor de los dados en garantía, sin que en ningún caso su responsabilidad exceda del monto del interés garantizado.
+
+XII. Los socios o accionistas, respecto de las contribuciones que se hubieran causado en relación con las actividades realizadas por la sociedad cuando tenía tal calidad, en la parte del interés fiscal que no alcance a ser garantizada con los bienes de la misma, cuando dicha sociedad se encuentre en cualquiera de los supuestos a que se refieren los incisos A), B) y C) de la fracción IV de este artículo, sin que la responsabilidad exceda de la participación que tenían en el capital social de la sociedad durante el período o la fecha de que se trate, siempre que hubieren tenido algún cargo de dirección o administración en la sociedad.
+
+XIII. Las sociedades nacionales de crédito, instituciones de crédito y cualquier otra persona autorizada por la ley para llevar a cabo operaciones fiduciarias, respecto de los créditos fiscales causados por las operaciones derivadas de la actividad objeto del fideicomiso, hasta por el valor de los bienes fideicomitidos.
+
+XIV. Los copropietarios o los participantes en derechos mancomunados, respecto de los créditos fiscales derivados del bien o derecho en común y hasta por el valor de éste. Por el excedente de los créditos fiscales cada uno quedará obligado en la proporción que le corresponda en el bien o derecho mancomunado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+XV. Tratándose del Impuesto sobre la Adquisición de Vehículos Automotores Usados, los consignatarios y/o comisionistas, en su caso, así como los adquirientes y enajenantes, que intervengan en la venta o adquisición de vehículos automotores, que no acrediten el pago de las contribuciones ante la autoridad fiscal.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.</small>
+
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
+
+Los consignatarios, comisionistas y enajenantes, sólo quedarán exceptuados de la responsabilidad de pago si avisan a la autoridad fiscal la venta de vehículos automotores usados dentro de un término de treinta días siguientes al evento, conforme al procedimiento y en el formato de aviso que señale la autoridad fiscal en los términos de este Código.
+
+La excepción de responsabilidad es respecto de las obligaciones fiscales futuras, a partir de la presentación del aviso respectivo.
+
+En el caso de extemporaneidad en la presentación del aviso, la responsabilidad cesará a partir de la fecha de su presentación.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2011)</small>
+
+XVI. Por lo que hace al Impuesto sobre Tenencia o Uso de Vehículos, los propietarios, tenedores, usuarios, adquirientes, enajenantes, así como los consignatarios y/o comisionistas, en su caso, por los adeudos que estos reportaren en el momento de la adquisición o venta.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+XVII. Los propietarios, tenedores, usuarios, adquirientes, enajenantes, así como los consignatarios y/o comisionistas, en su caso, por los derechos de control vehicular.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+
+XVIII. Los propietarios o poseedores de inmuebles en que se coloquen, instalen, armen o construyan anuncios publicitarios respecto del Impuesto sobre Anuncios Publicitarios.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+XIX. Los propietarios o poseedores de muebles o estructuras en que se coloquen, instalen, armen o construyan anuncios publicitarios, así como las personas físicas o jurídico colectivas cuyo objeto o giro sea la publicidad de bienes servicios, respecto del Impuesto sobre Anuncios Publicitarios.
+
+> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+
+XX. Los notarios públicos, respecto de los impuestos Predial y sobre Adquisición de Inmuebles y otras Operaciones Traslativas de Dominio de Inmuebles, cuando autoricen definitivamente escrituras, sin que previamente verifiquen el pago de los mismos.
+
+> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+
+XXI. Los propietarios de negociaciones que permitan en su local la instalación de cualquier tipo de máquinas o aparatos de recreación y azar accionadas con monedas, fichas o cualquier otro mecanismo respecto del impuesto que se cause por este concepto.
+
+> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+
+XXII. Los depositarios de embargos por los bienes que les fueron dejados en custodia.
+
+> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+
+XXIII. Los propietarios de inmuebles que permitan en los mismos la instalación y explotación de cualquier tipo de estacionamiento público.
+
+> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+
+XXIV. Los propietarios de inmuebles que permitan en los mismos la instalación y explotación de diversiones, juegos mecánicos, espectáculos públicos, tianguis comerciales y otros similares.
+
+> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+
+XXV. Los propietarios o poseedores de inmuebles, en los cuales se explote el servicio de hospedaje, en cualquiera de sus modalidades, respecto del impuesto que se cause por este concepto.
+
+> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+
+XXVI. Los albaceas, por los créditos fiscales que deje de pagar el contribuyente, hasta por el total de la masa hereditaria.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+XXVII. Las personas físicas o jurídico colectivas que contraten la prestación de servicios, cuando las prestadoras no cumplan con su obligación en el entero del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal dentro del plazo establecido en este Código.
+
+La responsabilidad solidaria a que se refiere esta fracción, será hasta por el monto de las contraprestaciones efectuadas por dichos servicios sin incluir el Impuesto al Valor Agregado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2011)</small>
+
+XXVIII. Los servidores públicos que autoricen la inscripción de vehículos, permisos provisionales para circulación, matrículas, cambios o bajas de placas o efectúen el refrendo de los mismos, sin haberse cerciorado que no eximan adeudos por estos conceptos, por el Impuesto sobre Tenencia o Uso de Vehículos previsto en este Código o del Impuesto sobre Tenencia o Uso de Vehículos previsto en la legislación federal, correspondiente a los últimos cinco años, salvo en los supuestos en que el contribuyente acredite que se encuentra liberado de la obligación que corresponda.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+
+> <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+
+En los supuestos de las fracciones IV, VI Y XII, a que se refiere este artículo, el plazo para su determinación se extinguirá en cinco años contados a partir de que el contribuyente no sea localizado y/o no cuente con bienes para asegurar la recuperación del crédito fiscal, o que teniéndolos no sean suficientes.
+
+La responsabilidad solidaria comprenderá los accesorios, con excepción de las multas.
+
+###### Artículo 41.
+
+Son responsables solidarios del pago de créditos fiscales:
+
+> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
+
+I. Los retenedores y las personas a quienes las leyes impongan la obligación de recaudar y determinar contribuciones, hasta por el monto de las mismas.
+
+II. Quien manifieste por escrito su voluntad de asumir responsabilidad solidaria.
+
+III. Los liquidadores y síndicos por las contribuciones que debieron pagar a cargo de la sociedad en liquidación o quiebra, así como de aquéllas que se causaron durante su gestión.
+
+IV. La persona o personas, cualquiera que sea el nombre con que se les designe, que tengan conferida la dirección general, la gerencia general, o la administración única de las sociedades mercantiles, por las contribuciones causadas o no retenidas por dichas sociedades durante su gestión, así como por las que debieron pagarse o enterarse durante la misma, en la parte del interés fiscal que no alcance a ser garantizada por los bienes de la sociedad que dirigen, cuando dicha sociedad se encuentre en cualquiera de los siguientes supuestos:
+
+A). No solicite su inscripción al padrón de contribuyentes.
+
+B). Cambien de domicilio, de nombre o razón social, sin presentar el aviso correspondiente, siempre que dicho cambio se efectúe después de que se le hubiera notificado el inicio de una visita y antes de que se haya notificado la resolución que se dicte respecto de la misma, o cuando el cambio se realice después de que se le hubiera notificado un crédito fiscal y antes de que éste se haya pagado o declarado sin efectos.
+
+C). No lleve contabilidad, la oculte o la destruya.
+
+V. Los adquirentes de negociaciones, respecto de las contribuciones que se hubieran causado en la negociación, cuando pertenecía a otra persona, sin que la responsabilidad exceda del cincuenta por ciento del valor de la propia negociación.
+
+> <small>(REFORMADA, G.G. 30 DE DICIEMBRE DE 2003)</small>
+
+VI. Los representantes legales y mandatarios, por los créditos fiscales que dejen de pagar sus representados o mandantes, en relación con las operaciones en que aquéllos intervengan, hasta por el monto total de dichos créditos.
+
+VII. Quienes ejerzan la patria potestad o la tutela, por las contribuciones a cargo de su representado.
+
+VIII. Los legatarios o los donatarios a título particular respecto de los créditos fiscales que se hubieran causado en relación con los bienes legados o donados, hasta por el monto de éstos.
+
+IX. Los adquirentes de bienes inmuebles, cuando los enajenantes no hayan pagado las contribuciones o lo hayan hecho en cantidad menor a lo señalado en este Código, sin que la responsabilidad exceda del valor del inmueble.
+
+X. Los causahabientes o, en su caso, quienes ostenten la propiedad o posesión de un predio cuando quien lo fraccione o subdivida no sea el titular de los derechos sobre el mismo.
+
+XI. Los terceros que para garantizar el interés fiscal constituyan depósito, prenda o hipoteca o permitan el embargo de bienes, hasta por el valor de los dados en garantía, sin que en ningún caso su responsabilidad exceda del monto de interés garantizado.
 
 XII. Los socios o accionistas, respecto de las contribuciones que se hubieran causado en relación con las actividades realizadas por la sociedad cuando tenía tal calidad, en la parte del interés fiscal que no alcance a ser garantizada con los bienes de la misma, cuando dicha sociedad se encuentre en cualquiera de los supuestos a que se refieren los incisos A), B) y C) de la fracción IV de este artículo, sin que la responsabilidad exceda de la participación que tenían en el capital social de la sociedad durante el período o la fecha de que se trate, siempre que hubieren tenido algún cargo de dirección o administración en la sociedad.
 
@@ -4080,6 +4212,24 @@ Por la cancelación de la inscripción a que alude esta fracción, ordenada por 
 Para la aplicación de los derechos previstos en este artículo referidos a viviendas de interés social, social progresivo o popular, nueva o usada, su transmisión deberá llevarse a cabo directamente por el constructor de la vivienda, por la Federación, Estado o Municipio, a través de los organismos públicos correspondientes, o bien con recursos proporcionados por éstos, por instituciones de banca múltiple, sociedades financieras de objeto limitado o sociedades financieras de objeto múltiple cuando la transmisión se haga entre particulares, debiendo acreditarse fehacientemente la naturaleza de las viviendas y el origen de sus recursos y además que su valor al término de la construcción o adquisición no exceda los valores que establece la fracción XL del artículo 3 de este Código para cada tipo de vivienda.
 
 Tratándose de hipotecas para garantizar créditos obtenidos para la construcción o adquisición de viviendas de interés social, social progresiva o popular, se aplicarán los derechos referidos a este tipo de viviendas, aun cuando la suma del capital e intereses garantizados superen el monto del valor de las mismas conforme a los criterios anteriores.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, G.G. 7 DE MAYO DE 2013)</small>
+
+IV. Por las inscripciones relativas a la hipoteca inversa, se pagarán los siguientes derechos:
+
+A) Por la inscripción. $ 60.00
+
+B) Por la cancelación de inscripción. $ 60.00
+
+C) Por la inscripción de documentos relativos $ 1,451.00
+
+a la transmisión de la propiedad por
+
+adjudicación de bienes inmuebles garantizados
+
+con una hipoteca inversa.
 
 (ADICIONADO, G.G. 25 DE FEBRERO DE 2013) (REFORMADO EN SUS TARIFAS, G.G. 15 DE MARZO DE 2013)
 
@@ -16064,6 +16214,20 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
+
+G.G. 7 DE MAYO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+El Gobierno del Estado de México vigilará, de ser el caso, que los contratos de adhesión cumplan con la normatividad en (sic) vigente.
+
+###### ARTÍCULO TERCERO.
+
+Este Decreto entrará en vigor a los 60 días de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE DA A CONOCER EL MANUAL GRÁFICO PARA EL USO DE UNIFORMES, DIVISAS Y EQUIPO DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS”.]
 
