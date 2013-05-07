@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-bebidas-alcoholicas-del-estado-de-san-luis-potosi-48326"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-29"
-last_updated: "2007-09-20"
+last_updated: "2013-05-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48326&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # LEY DE BEBIDAS ALCOHOLICAS DEL ESTADO DE SAN LUIS POTOSI
 
-LEY DE BEBIDAS ALCOHOLICAS DEL ESTADO DE SAN LUIS POTOSI
+LEY DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE SEPTIEMBRE DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2013.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 29 de diciembre de 2005.
 
@@ -701,15 +701,19 @@ Cuando el titular de la licencia o encargado del establecimiento, impida o dific
 
 Cuando se compruebe que los titulares de las licencias o sus encargados, permiten el ejercicio de la prostitución en el establecimiento, además de la cancelación de su licencia, se les impondrá una multa de cien a cuatrocientos salarios mínimos, independientemente de las penas que les imponga la autoridad judicial.
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2013)</small>
+
 ###### ARTICULO 57.
 
-En caso de que la autoridad encuentre a menores de edad dentro de los establecimientos en los que se les prohíba la entrada, a los titulares de la licencia se les impondrá una multa de cien a doscientos días de salario mínimo, independientemente de las penas que les imponga la autoridad judicial.
+En caso de que la autoridad encuentre a menores de edad dentro de los establecimientos en los que se les prohíba la entrada, a los titulares de la licencia se les impondrá una multa de doscientos a cuatrocientos días de salario mínimo, independientemente de las penas que les imponga la autoridad judicial.
 
-Cuando se compruebe que los titulares de las licencias o sus encargados venden, suministran o permiten el consumo bebidas alcohólicas a menores de edad, además de la cancelación de la licencia, se les impondrá una multa de doscientos a quinientos de salario mínimo.
+Cuando se compruebe que los titulares de las licencias o sus encargados venden, suministran o permiten el consumo bebidas (sic) alcohólicas a menores de edad, además de la cancelación de la licencia, se les impondrá una multa de cuatrocientos a ochocientos días de salario mínimo.
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2013)</small>
 
 ###### ARTICULO 58.
 
-Toda persona que venda, distribuya o suministre bebidas alcohólicas sin licencia, o que venda bebidas alcohólicas adulteradas, se le impondrá una multa de doscientos a cuatrocientos días de salario mínimo, sin perjuicio de las sanciones penales que correspondan.
+Toda persona que venda, distribuya o suministre bebidas alcohólicas sin licencia, o bebidas alcohólicas adulteradas, se le impondrá una multa de cuatrocientos a ochocientos días de salario mínimo, sin perjuicio de las sanciones penales que correspondan.
 
 ###### ARTICULO 59.
 
@@ -792,3 +796,9 @@ P.O. 20 DE SEPTIEMBRE DE 2007.
 PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto, a su entrada en vigor.
+
+P.O. 7 DE MAYO DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
