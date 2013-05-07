@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-educacion-del-estado-de-guerrero-num-158-5131"
 country: "mx"
 rank: "ley"
 publication_date: "1995-04-21"
-last_updated: "2013-04-02"
+last_updated: "2013-05-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE EDUCACIÓN DEL ESTADO DE GUERRERO NUM. 158
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 21 de abril de 1995.
 
@@ -112,6 +112,10 @@ La educación que el Estado imparta será laica y por tanto, se mantendrá por c
 ###### ARTICULO 6o.
 
 La educación que el Estado imparta será gratuita, las donaciones destinadas a dicha educación en ningún caso se entenderán como contraprestaciones del servicio educativo.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2013)</small>
+
+No podrá condicionarse la inscripción, la igualdad en la prestación del servicio educativo, la aplicación de exámenes, ni la entrega de documentos escolares al pago de cualquier cuota.
 
 > <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2013)</small>
 
@@ -321,6 +325,14 @@ El Gobierno de la Entidad promoverá la participación directa de los Ayuntamien
 
 El Gobierno del Estado podrá celebrar convenios para coordinar o unificar actividades educativas y cumplir de mejor manera las responsabilidades a su cargo.
 
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2013)</small>
+
+En ejercicio de las facultades concurrentes del Gobierno Federal y Estatal, de conformidad a las disponibilidades presupuestales, las plazas base de nueva creación para el ingreso al Servicio Profesional Docente y las vacantes, serán sujetas a concursos de oposición de conformidad a lo dispuesto por el artículo tercero de la Constitución Política de los Estados Unidos Mexicanos, en materia de Servicio Profesional Docente. Tendrán participación en estos concursos los egresados de las Escuelas Normales Públicas del Estado de Guerrero.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2013)</small>
+
+Las autoridades educativas en el Estado, podrán proponer a la Secretaria de Educación Pública del Gobierno Federal, estándares complementarios para el ingreso que tomen en cuenta las particularidades de la entidad, incluidas las de la educación de los pueblos originarios.
+
 ###### ARTICULO 18.
 
 Las autoridades educativas, del Estado y de los Municipios, se reunirán periódicamente con el propósito de analizar e intercambiar opiniones sobre el desarrollo del sector educativo Estatal, formular recomendaciones y convenir acciones para apoyar la función social educativa. Estas reuniones serán presididas por la Secretaría de Educación de Guerrero.
@@ -387,6 +399,14 @@ Las autoridades educativas del Estado, revisarán permanentemente las disposicio
 
 En las actividades de supervisión, las autoridades educativas darán preferencia, respecto de los aspectos administrativos, a los apoyos técnicos, didácticos y demás para el adecuado desempeño de la función docente.
 
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2013)</small>
+
+Las promociones a los cargos de dirección y supervisión se otorgarán con base en los resultados del Sistema Nacional de Evaluación Educativa.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2013)</small>
+
+Las autoridades educativas en el estado, podrán proponer a la Secretaria de Educación Pública del Gobierno Federal, estándares complementarios para las promociones que tomen en cuenta las particularidades de la entidad, incluidas las de la educación de los pueblos originarios.
+
 ###### ARTICULO 23.
 
 Las negociaciones o empresas a que se refiere la fracción XII del apartado A) del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, están obligadas a establecer y sostener escuelas cuando el número de educandos que las requiera sea mayor de veinte. Estos planteles quedarán bajo la Dirección Administrativa de la Secretaría de Educación de Guerrero.
@@ -423,17 +443,27 @@ En el cumplimiento de lo dispuesto en los artículos anteriores de este Capítul
 
 En todo tiempo el Gobierno del Estado procurará fortalecer las fuentes de financiamiento a la tarea educativa y destinar recursos presupuestarios crecientes, en términos reales, para la educación pública.
 
+ADICIONADO, P.O. 7 DE MAYO DE 2013)
+
+El Gobierno del Estado destinará a inversión pública en el sector educativo un monto anual que no podrá ser inferior al aprobado en el ejercicio inmediato anterior, actualizado con base en la cifra oficial de inflación que publique el Banco de México.
+
+ADICIONADO, P.O. 7 DE MAYO DE 2013)
+
+Para estos efectos serán considerados prioritariamente los pueblos originarios.
+
 ###### ARTICULO 28.
 
 Son de interés social las inversiones que en materia educativa realicen el Estado, los Municipios, sus organismos descentralizados y los particulares.
 
 ### CAPITULO IV. DE LA EVALUACION DEL SISTEMA EDUCATIVO NACIONAL CORRESPONDIENTE A GUERRERO
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2013)</small>
+
 ###### ARTICULO 29.
 
-El Gobierno del Estado dará todo su apoyo a las autoridades educativas federales para que efectúen la evaluación del sistema educativo nacional, Sector de Guerrero, sin perjuicio de la que realicen las autoridades educativas del Estado.
+El Gobierno del Estado dará todo su apoyo a las autoridades educativas federales para que efectúe la evaluación del sistema educativo del Estado de Guerrero; las autoridades educativas del Estado coadyuvarán en tal propósito. Tendrá como finalidad mejorar la educación de los niños, jóvenes y los docentes de la entidad, a partir de las escuelas, considerando criterios tales como la diversidad sociocultural, demográfica y socioeconómica del Estado de Guerrero.
 
-Dicha evaluación, y las que realicen las autoridades educativas del Estado, serán sistemáticas y permanentes. Sus resultados serán tomados como base para que las autoridades educativas, en el ámbito de su competencia, adopten las medidas procedentes.
+Sus resultados serán tomados como base por las autoridades educativas, para que, en el ámbito de su competencia, tomen las medidas pertinentes, garantizando en todo tiempo, el respeto a los derechos constitucionales de los trabajadores de la educación.
 
 ###### ARTICULO 30.
 
@@ -783,6 +813,14 @@ Lo que concierne a la participación social en la educación, así como a las as
 
 Las asociaciones de padres de familia vigilarán que los alimentos que se expendan o se proporcionen en las instituciones educativas, cuenten con los requisitos mínimos de nutrición, que ayuden al sano desarrollo del educando. Siendo su obligación, la de colaborar con las autoridades educativas para evitar la venta de alimentos con bajo o nulo valor nutricional.
 
+ADICIONADO, P.O. 7 DE MAYO DE 2013)
+
+###### ARTÍCULO 65 Bis.
+
+Es obligación y responsabilidad de las autoridades educativas del Gobierno Federal y del Estado, en el ámbito de sus respectivas competencias, el sostenimiento de las escuelas públicas, y no de los padres de familia; sin menoscabo de la gestión que hagan a otras instancias.
+
+Los padres de familia participaran dentro del proceso de enseñanza y aprendizaje únicamente con fines de apoyo.
+
 ## TITULO OCTAVO. DE LAS INFRACCIONES, LAS SANCIONES Y EL RECURSO ADMINISTRATIVO
 
 ### CAPITULO I. DE LAS INFRACCIONES Y LAS SANCIONES
@@ -1032,3 +1070,13 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Remítase al Titular del Poder Ejecutivo del Estado de Guerrero para los efectos legales correspondientes.
 
 TERCERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+P.O. 7 DE MAYO DE 2013.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Dentro de los ciento ochenta días posteriores a la entrada en vigor del presente decreto, deberá presentarse la iniciativa correspondiente para la creación del Instituto de Profesionalización y Evaluación Educativa del Estado de Guerrero, el cual será el órgano que coadyuve en la transparencia del Proceso de Evaluación Educativa, en coordinación con la Federación y fortalezca la profesionalización del sector, robusteciendo la calidad educativa del Estado de Guerrero. Para tal efecto se realizaran foros de consulta entre los diversos sectores sociales involucrados en la educación, los maestros y los padres de familia.
+
+TERCERO. Remítase al Titular del Poder Ejecutivo del Estado de Guerrero para los efectos legales correspondientes.
+
+CUARTO. Publíquese en el Periódico Oficial del Gobierno del Estado de Guerrero.
