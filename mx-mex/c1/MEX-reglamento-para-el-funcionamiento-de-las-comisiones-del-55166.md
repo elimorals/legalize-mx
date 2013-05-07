@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-para-el-funcionamiento-de-las-comisiones-del-55166"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-04-04"
-last_updated: "2012-01-04"
+last_updated: "2013-05-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55166&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE MAYO DE 2013.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 4 de abril de 2007.
 
@@ -699,7 +699,7 @@ X. Recibir, analizar y dar seguimiento al dictamen de los estados financieros de
 
 XI. Conocer, analizar y dar seguimiento a los informes de auditoría que se practiquen al Instituto, y vigilar que se atiendan las recomendaciones y se corrijan las observaciones que resulten de las mismas;
 
-XII. Conocer, analizar y emitir el dictamen correspondiente de los proyectos de resolución presentados por la Contraloría General; que correspondan ser resueltos en definitiva por el Consejo General;
+XII. (DEROGADA, G.G. 7 DE MAYO DE 2013)
 
 XIII. Conocer, analizar y dar seguimiento a los informes sobre las resoluciones de Inconformidades que presenten los proveedores, prestadores de servicios y contratistas, relacionados con procedimientos de contratación, y sobre las demás resoluciones emitidas por la Contraloría General;
 
@@ -833,7 +833,7 @@ XIV. Proponer a las instancias correspondientes, adecuaciones o reformas con rel
 
 XV. Informar periódicamente al Consejo General de las acciones, trabajos, acuerdos, y en general, de todos los trabajos trascendentes que lleve a cabo la Comisión;
 
-XVI. Elaborar un informe anual de actividades y, en su caso, al final de cada proceso electoral para su presentación ante el Consejo General; y (sic)
+XVI. Elaborar un informe anual de actividades y, en su caso, al final de cada proceso electoral para su presentación ante el Consejo General; y
 
 XVII. Supervisar y vigilar la incorporación de los servidores electorales de los órganos centrales al Servicio Electoral Profesional, así como los programas para su profesionalización, las evaluaciones y promociones que se realicen y los procedimientos respectivos; y
 
@@ -1091,7 +1091,7 @@ VI. Solicitar al Órgano Técnico de Fiscalización información sobre la existe
 
 VII. Autorizar al Secretario Técnico para que notifique a las Organizaciones de Ciudadanos, los Acuerdos de la Comisión;
 
-VIII. Solicitar a las Organizaciones de Ciudadanos que han iniciado el procedimiento para obtener el registro como partido político local la información que considere necesaria; y (sic)
+VIII. Solicitar a las Organizaciones de Ciudadanos que han iniciado el procedimiento para obtener el registro como partido político local la información que considere necesaria; y
 
 IX. Las demás que le señale el Consejo General, la propia Comisión y otras disposiciones normativas;
 
@@ -4542,3 +4542,19 @@ PRIMERO. Túrnese a la Secretaría Ejecutiva General en el momento oportuno, con
 SEGUNDO. En su momento sean incorporadas las reformas aprobadas en el Capítulo Tercero del citado Reglamento vigente, en lo concerniente a la Comisión de Acceso a Medios, Propaganda y Difusión.
 
 TERCERO. El presente Acuerdo surtirá efecto a partir de su aprobación por el Consejo General del Instituto Electoral del Estado de México y entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México "Gaceta del Gobierno.
+
+G.G. 7 DE MAYO DE 2013.
+
+> <small>N. DE E. POR SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL ACUERDO NÚMERO N°. IEEM/CG/49/2013 POR EL QUE SE DEROGA LA FRACCIÓN XII DEL ARTÍCULO 1.46 DEL REGLAMENTO PARA EL FUNCIONAMIENTO DE LAS COMISIONES DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO.</small>
+
+PRIMERO.- Se aprueba el Acuerdo número IEEM/CVAAF/001/2013 expedido en fecha treinta de abril de dos mil trece por la Comisión de Vigilancia de las Actividades Administrativas y Financieras de este Consejo General del Instituto Electoral del Estado de México.
+
+SEGUNDO.- Se deroga la fracción XII del artículo 1.46 del Reglamento para el Funcionamiento de las Comisiones del Consejo General del Instituto Electoral del Estado de México.
+
+TERCERO.- Se instruye al Secretario de este Consejo General, haga del conocimiento de la Comisión de Vigilancia de las Actividades Administrativas y Financieras la aprobación del presente Acuerdo.
+
+## TRANSITORIOS
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México, "Gaceta del Gobierno", así como en la página electrónica del Instituto Electoral del Estado de México.
+
+SEGUNDO.- La reforma aprobada por el presente Acuerdo surtirá efectos al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México, "Gaceta del Gobierno".
