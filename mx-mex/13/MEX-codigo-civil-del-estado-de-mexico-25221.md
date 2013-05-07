@@ -4,7 +4,7 @@ identifier: "MEX-codigo-civil-del-estado-de-mexico-25221"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-06-07"
-last_updated: "2012-08-31"
+last_updated: "2013-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO CIVIL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE MAYO DE 2013.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el viernes 7 de junio de 2002.
 
@@ -8833,9 +8833,7 @@ Desconocimiento de la voluntad o intención sobre el objeto
 
 Actos a los que se aplican las normas legales de contrato
 
-### CAPITULO I. De las Obligaciones que Nacen de los
-
-Hechos Ilícitos y del Riesgo Creado
+### CAPITULO I. De las Obligaciones que Nacen de los Hechos Ilícitos y del Riesgo Creado
 
 Obligaciones que originan los hechos ilícitos
 
@@ -8911,9 +8909,7 @@ Derecho a decidir al recompensado
 
 Derecho del tercero
 
-### CAPITULO III. De las Personas Obligadas a la Reparación del
-
-Daño y de los Perjuicios
+### CAPITULO III. De las Personas Obligadas a la Reparación del Daño y de los Perjuicios
 
 Responsabilidad solidaria de los que causan daño
 
@@ -9383,9 +9379,7 @@ Condición suspensiva
 
 ### CAPITULO IV
 
-De las Obligaciones Mancomunadas, Solidarias,
-
-Divisibles e Indivisibles.
+De las Obligaciones Mancomunadas, Solidarias, Divisibles e Indivisibles.
 
 Obligaciones mancomunadas
 
@@ -14969,7 +14963,7 @@ Derecho del tanto del aparcero y el propietario
 
 Para hacer uso de este derecho, se observará lo dispuesto en la aparcería agrícola.
 
-TITULO DECIMOSEGUNDO
+TITULO DÉCIMOSEGUNDO
 
 De los Contratos Aleatorios
 
@@ -15813,9 +15807,13 @@ Bienes hipotecables
 
 Extensión de la hipoteca
 
-### CAPITULO IV. De la extinción de las hipotecas
+### CAPÍTULO III BIS. De la hipoteca inversa
 
-Causas de extinción de la hipoteca
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.G. 7 DE MAYO DE 2013)</small>
+
+Concepto de la hipoteca inversa
 
 ###### Artículo 7.
 
@@ -15829,11 +15827,9 @@ III. Los nuevos edificios que el propietario construya sobre el terreno hipoteca
 
 Bienes no comprendidos en la hipoteca
 
-### CAPITULO I. De los Documentos Registrables
+### CAPITULO IV. De la extinción de las hipotecas
 
-Documentos jurídicos registrables
-
-> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
+Causas de extinción de la hipoteca
 
 ###### Artículo 7.
 
@@ -15983,11 +15979,15 @@ Prescripción de la acción hipotecaria
 
 1123.- La acción derivada de la hipoteca prescribirá a los diez años, contados desde que pueda ejercitarse con arreglo al título inscrito.
 
-Clases de hipoteca
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.G. 7 DE MAYO DE 2013)</small>
+
+Clases de Hipoteca
 
 ###### Artículo 7.
 
-1124.- La hipoteca puede ser voluntaria o necesaria.
+1124.- La hipoteca puede ser voluntaria, necesaria o inversa.
 
 ###### Artículo 7.
 
@@ -16019,9 +16019,9 @@ Existencia de obligación futura o cumplimiento de las condiciones
 
 Constancia de la obligación futura o cumplimiento de condiciones
 
-### CAPITULO II. De la Prelación
+### CAPITULO I. De los Documentos Registrables
 
-Prioridad de la inscripción
+Documentos jurídicos registrables
 
 > <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
 
@@ -16109,9 +16109,9 @@ Duración de la hipoteca necesaria
 
 Legitimación para pedir constitución de hipoteca necesaria
 
-### CAPITULO III. De la Calificación Registral
+### CAPITULO II. De la Prelación
 
-Requisito para inscribir o anotar
+Prioridad de la inscripción
 
 > <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
 
@@ -16146,6 +16146,140 @@ Derechos de los que pueden pedir la constitución de hipoteca necesaria
 ###### Artículo 7.
 
 1144.- Los que tienen derecho de exigir la constitución de hipoteca necesaria, tienen también el de objetar la suficiencia de la que se ofrezca, y el de pedir su ampliación cuando los bienes hipotecados se hagan por cualquier motivo insuficientes para garantizar el crédito; en ambos casos resolverá el Juez.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 7 DE MAYO DE 2013)</small>
+
+###### Artículo 7.
+
+1144 Bis.- Es la que se constituye sobre un inmueble que es la vivienda habitual y propia del pensionista para garantizar el capital que se le concede por el pensionario para cubrir sus necesidades económicas de vida, en los términos de este Capítulo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.G. 7 DE MAYO DE 2013)</small>
+
+Contrato de hipoteca inversa
+
+###### Artículo 7.
+
+1144 Ter.- Es aquel por el cual el pensionario se obliga a pagar periódicamente y en forma vitalicia al pensionista o a su beneficiario que deberá ser su cónyuge, concubina o concubinario de edad igual o superior a los 60 años, una cantidad de dinero predeterminada, que el pensionista garantizará a través de la hipoteca inversa, en los términos de este Capítulo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.G. 7 DE MAYO DE 2013)</small>
+
+Autorizados para otorgar la hipoteca inversa
+
+###### Artículo 7.
+
+1144 Quater.- Están autorizadas para otorgar la hipoteca inversa las instituciones privadas, sociales, las personas físicas y las instituciones públicas, siempre que cuenten con facultades para ello.
+
+El costo de dicho avaluó será cubierto por el pensionario y deberá actualizarse periódicamente para estar acorde con la plusvalía que el bien adquiera con el tiempo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.G. 7 DE MAYO DE 2013)</small>
+
+Términos de la contratación
+
+###### Artículo 7.
+
+1144 Quinquiés.- La determinación de la hipoteca inversa se realizará previo avalúo de Institución debidamente facultada, que considere el valor comercial de mercado del inmueble que deberá actualizarse cada 2 años para estar acorde con la plusvalía que el bien adquiera con el tiempo.
+
+El costo de dicho avaluó será cubierto por el pensionario.
+
+El contrato de hipoteca inversa, además de lo pactado, estará sujeto a lo siguiente:
+
+l. Que la cantidad pactada entre pensionario y pensionista sea suficiente para que éste último cubra sus necesidades básicas;
+
+II. Que el solicitante o los beneficiarios que él designe sean personas de edad igual o superior a los 60 años;
+
+III. El tutor, siempre que se encuentre en los supuestos señalados en el presente capítulo, podrá, con autorización judicial, constituir hipoteca inversa para garantizar un crédito otorgado a favor de su pupilo menor o incapaz;
+
+IV. Que el pensionista disponga del importe del préstamo conforme a los plazos que correspondan a las disposiciones periódicas mediante las cuales el pensionista accederá al importe objeto de la hipoteca inversa,
+
+V. Las personas que recibirán los pagos periódicos a que hace referencia el Artículo 7.1144 Ter;
+
+VI. Las condiciones que se establezcan, en su caso, para atender lo dispuesto en el artículo 7.1144 sexies;
+
+VII. Que la deuda sólo sea exigible por el pensionario y la garantía ejecutable cuando fallezca el pensionista y el beneficiario si lo hubiere, respetando el plazo que le concede la fracción II del artículo 7.1144 sexies respecto a la amortización de la deuda;
+
+VIII. El pensionista podrá realizar pago total o parcial anticipado sin penalización alguna;
+
+IX. El pensionista habitará vitaliciamente el inmueble hipotecado, no obstante, el pensionista podrá arrendar de manera parcial o total el inmueble hipotecado, siempre y cuando, cuente con la autorización expresa del pensionario y los términos y condiciones del arrendamiento se establezcan en el contrato correspondiente, sin afectar la naturaleza propia de la hipoteca inversa;
+
+X. Los intereses que se generen por el capital serán solamente sobre las cantidades dispuestas por el pensionista;
+
+XI. Que en el contrato se incluyan las especificaciones del incremento anual que tendrá la pensión, de acuerdo con las condiciones del mercado y el valor del inmueble.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.G. 7 DE MAYO DE 2013)</small>
+
+Lineamientos de las amortizaciones
+
+###### Artículo 7.
+
+1 144 Sexies.- La amortización del capital se sujetará a las siguientes normas:
+
+I. Cuando fallezca el pensionista y su beneficiario, en caso de haberlo, sus herederos podrán abonar al pensionario la totalidad del adeudo existente y vencido, sin compensación por la cancelación del gravamen y pago del adeudo;
+
+II. En el supuesto de la fracción anterior, los herederos del pensionista podrán optar por no pagar el adeudo existente y vencido. Transcurridos seis meses después del fallecimiento del pensionista sin efectuarse el pago, el pensionario cobrará el adeudo hasta donde alcance el valor del bien hipotecado, pudiendo solicitar su adjudicación o su venta.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.G. 7 DE MAYO DE 2013)</small>
+
+Transmisión del bien hipotecado
+
+### CAPITULO III. De la Calificación Registral
+
+Requisito para inscribir o anotar
+
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
+
+###### Artículo 7.
+
+1 144 Septies.- El inmueble hipotecado no podrá ser transmitido por acto inter vivos sin el consentimiento previo del pensionario. El incumplimiento de esta obligación le conferirá el derecho de declarar vencido anticipadamente el total del adeudo y exigible a la fecha, a menos que se sustituya la garantía en forma bastante e igual a la anterior en un plazo de seis meses.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.G. 7 DE MAYO DE 2013)</small>
+
+Extinción de la hipoteca inversa
+
+###### Artículo 7.
+
+1144 Octies.- Cuando se extinga el capital pactado y los herederos del pensionista decidan no rembolsar los débitos vencidos, con sus intereses, el pensionario podrá obtener recobro hasta donde alcance el bien hipotecado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.G. 7 DE MAYO DE 2013)</small>
+
+Rescisión de la hipoteca inversa
+
+###### Artículo 7.
+
+1144 Nonies.- En caso de incumplimiento del pensionario en las ministraciones pactadas, el pensionista estará en condiciones de solicitar la rescisión del contrato y exigir el pago de los daños y perjuicios, o en su caso, el pago de la pena pactada. Además, se tendrá la deuda como liquidada y no generará más interés; debiendo el pensionario liberar a su costa el gravamen correspondiente. Para el caso de que se constituya una nueva hipoteca inversa sobre el mismo inmueble, ésta tendrá prelación respecto de la anterior.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.G. 7 DE MAYO DE 2013)</small>
+
+Supletoriedad
+
+###### Artículo 7.
+
+1 144 Decies.- En lo no previsto en este Código, la hipoteca inversa se regirá por lo dispuesto en la legislación que en cada caso resulte aplicable.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.G. 7 DE MAYO DE 2013)</small>
+
+###### Artículo 7.
+
+1144 Undecies.- No serán de aplicación para la hipoteca inversa los artículos 7.1112, 7.1113 y 7.1114 de este Código.
 
 ###### Artículo 7.
 
@@ -16276,12 +16410,6 @@ Transacción en base a documentos falsos
 1159.- Es nula la transacción celebrada teniéndose en cuenta documentos que después han resultado falsos por sentencia judicial.
 
 Presencia de nuevos títulos o documentos
-
-### CAPITULO I. De los Títulos Inscribibles y de los Anotables
-
-Títulos inscribibles
-
-> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 7.
 
@@ -16479,9 +16607,9 @@ Formato Precodificado
 
 ## TITULO TERCERO. Del Registro de la Propiedad Inmueble
 
-### CAPITULO II. De los efectos de las anotaciones
+### CAPITULO I. De los Títulos Inscribibles y de los Anotables
 
-Personas a quienes perjudica la anotación
+Títulos inscribibles
 
 > <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
 
@@ -16567,9 +16695,9 @@ Sobreseimiento al procedimiento
 
 18.- En caso de embargo precautorio, juicio ejecutivo o procedimiento de apremio sobre bienes o derechos reales, se sobreseerá todo procedimiento respecto de los mismos o de sus frutos, inmediatamente que conste en los autos por manifestación auténtica del Registro, que dichos bienes o derechos están inscritos a favor de persona distinta de aquella contra la que se decretó el embargo o se siguió el procedimiento, a no ser que se hubiere dirigido contra ella la acción como causahabiente del que aparece dueño en el Registro.
 
-### CAPITULO III. De la Inmatriculación
+### CAPITULO II. De los efectos de las anotaciones
 
-Inmuebles carentes de antecedentes registrales
+Personas a quienes perjudica la anotación
 
 > <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
 
@@ -16672,6 +16800,12 @@ Momento en que surte efectos la inscripción definitiva
 ###### Artículo 8.
 
 28.- La inscripción definitiva de un derecho que haya sido anotado preventivamente, surtirá sus efectos desde la fecha de dicha anotación preventiva.
+
+### CAPITULO III. De la Inmatriculación
+
+Inmuebles carentes de antecedentes registrales
+
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 8.
 
@@ -17458,3 +17592,17 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan los ordenamientos jurídicos de igual o menor jerarquía, que se opongan a lo dispuesto por el presente Decreto.
+
+G.G. 7 DE MAYO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+El Gobierno del Estado de México vigilará, de ser el caso, que los contratos de adhesión cumplan con la normatividad en vigente.
+
+###### ARTÍCULO TERCERO.
+
+Este Decreto entrará en vigor a los 60 días de su publicación en el Periódico Oficial "Gaceta del Gobierno".
