@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-para-la-constitucion-registro-y-liquidacion-de-66674
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-01-08"
-last_updated: "2011-06-11"
+last_updated: "2013-05-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66674&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO PARA LA CONSTITUCION, REGISTRO Y LIQUIDACION DE LOS PARTIDOS POLITICOS LOCALES
 
-REGLAMENTO PARA LA CONSTITUCION, REGISTRO Y LIQUIDACION DE LOS PARTIDOS POLITICOS LOCALES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO PARA LA CONSTITUCIÓN, REGISTRO Y LIQUIDACIÓN DE LOS PARTIDOS POLÍTICOS LOCALES, PUBLICADO EN LA G.G. DE 7 DE MAYO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE JUNIO DE 2011.
+REGLAMENTO PARA LA CONSTITUCIÓN, REGISTRO Y LIQUIDACIÓN DE LOS PARTIDOS POLÍTICOS LOCALES, DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE MAYO DE 2013 (ABROGADO).
 
 Reglamento publicado en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el jueves 8 de enero de 2009.
 
@@ -47,25 +49,25 @@ TERCERO.- El Consejo General reforma el artículo 1.61 en sus fracciones II, VII
 
 "1.61. La Comisión tendrá las siguientes atribuciones:
 
-.
+[...]
 
 II. Dictaminar que la documentación presentada en el escrito de información del inicio de actividades cumpla con los requisitos que establece el Reglamento para la Constitución, Registro y Liquidación de los Partidos Políticos Locales.
 
-.
+[...]
 
 VII. Verificar que la solicitud de registro se acompañe de la documentación, certificaciones y constancias requeridas por el Código Electoral, así como lo dispuesto por el Reglamento para la Constitución, Registro y Liquidación de los Partidos Políticos Locales.
 
-.
+[...]
 
 X. Comprobar en las actas certificadas de las Asambleas Municipales celebradas por la organización política solicitante de registro, que cumplieron con los requisitos señalados en la fracción IV del artículo 39, y fracción I apartados A y B del artículo 43 del Código Electoral y relativos del Reglamento para la Constitución, Registro y Liquidación de los Partidos Políticos Locales.
 
 XI. Comprobar que el acta de certificación de la Asamblea Estatal Constitutiva celebrada por la organización política solicitante del registro cumplió con lo establecido en la fracción II apartados A, B, C, D y E del artículo 43 del Código Electoral y relativos del Reglamento para la Constitución, Registro y Liquidación de los Partidos Políticos Locales.
 
-.
+[...]
 
 XVII. Analizar y dictaminar las reformas o adiciones al Reglamento para la Constitución, Registro y Liquidación de los Partidos Políticos Locales.
 
-."
+[...]"
 
 CUARTO.- El Reglamento para la Constitución, Registro y Liquidación de los Partidos Políticos Locales, aprobado a través del presente Acuerdo, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México, "Gaceta del Gobierno".
 
@@ -95,7 +97,9 @@ ING. FRANCISCO JAVIER LÓPEZ CORRAL
 
 (RÚBRICA)
 
-EXPOSICIÓN DE MOTIVOS.
+EXPOSICIÓN DE MOTIVOS
+
+[...]
 
 REGLAMENTO PARA LA CONSTITUCIÓN, REGISTRO Y LIQUIDACIÓN DE LOS PARTIDOS POLÍTICOS LOCALES.
 
@@ -305,7 +309,7 @@ b) Los nombres de los dirigentes que la representan;
 
 c) La acreditación de la personalidad de los dirigentes de la organización o agrupación de ciudadanos, con documentos fehacientes;
 
-d) Los nombres de los representantes de la organización o agrupación de ciudadanos que mantendrán la relación con el Instituto; y (sic)
+d) Los nombres de los representantes de la organización o agrupación de ciudadanos que mantendrán la relación con el Instituto; y
 
 e) El domicilio para oír y recibir notificaciones en la Ciudad de Toluca, México.
 
@@ -1237,7 +1241,7 @@ c) Las solicitudes de reconocimiento de crédito deberá (sic) contener lo sigui
 
 2. La cuantía del crédito,
 
-3. Las garantías, condiciones y términos del crédito, entre ellas el tipo de documento que acredite éste, en original o copia certificada; y (sic)
+3. Las garantías, condiciones y términos del crédito, entre ellas el tipo de documento que acredite éste, en original o copia certificada; y
 
 4. Datos que identifiquen, en su caso, cualquier procedimiento administrativo, laboral, o judicial que se haya iniciado y que tenga relación con el crédito de que se trate.
 
@@ -1297,7 +1301,7 @@ El Órgano Técnico de Fiscalización fungirá como supervisor y tendrá a su ca
 
 a) Solicitar al Interventor documentos o cualquier otro medio de almacenamiento de datos del partido político en liquidación;
 
-b) Solicitar al Interventor información por escrito sobre las cuestiones relativas a su desempeño; y (sic)
+b) Solicitar al Interventor información por escrito sobre las cuestiones relativas a su desempeño; y
 
 c) En caso de que en los procedimientos de liquidación, se tenga conocimiento de alguna situación que implique o pueda implicar infracción a ordenamientos ajenos a la competencia del Consejo General, éste solicitará al Secretario Ejecutivo General del Instituto que proceda a dar parte a las autoridades competentes.
 
@@ -1688,3 +1692,19 @@ Bienes con valor comercial que posee el partido político local, con inclusión 
 Pasivos
 
 Obligaciones que posee el partido político local con los acreedores, incluye sueldos e impuestos.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 7 DE MAYO DE 2013.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO NO. IEEM/CG/13/2013.- REGLAMENTO PARA LA CONSTITUCIÓN, REGISTRO Y LIQUIDACIÓN DE LOS PARTIDOS POLÍTICOS LOCALES”.]
+
+PRIMERO.- Se aprueba el presente Reglamento. Publíquese en el Periódico Oficial del Gobierno del Estado de México Gaceta del Gobierno.
+
+SEGUNDO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial Gaceta del Gobierno.
+
+TERCERO.- Se abroga el Reglamento para la Constitución, Registro y Liquidación de los Partidos Políticos Locales del Instituto Electoral del Estado de México, aprobado por el Consejo General, en su Sesión Extraordinaria del día dieciocho de diciembre del año dos mil ocho, mediante Acuerdo número CG/61/2008.
+
+CUARTO.- Los actos y procedimientos que se encuentren en trámite se sujetarán hasta su conclusión definitiva a las disposiciones del ordenamiento que se abroga; sin embargo, la organización o agrupación de ciudadanos sujetos al mismo, podrán manifestar su voluntad de acogerse al Reglamento vigente cómo más favorable, en un plazo no mayor a treinta días hábiles a la legal notificación del presente; de no existir pronunciamiento alguno, se entenderá que se sujetan al Reglamento abrogado.
+
+QUINTO.- Una vez que entre en vigor el presente Reglamento, se instruye a la Secretaría Técnica para que notifique, a las organizaciones o agrupaciones de ciudadanos que se encuentran llevando a cabo el procedimiento tendiente a obtener el registro como partido político local con autorización del Consejo General, el contenido del mismo para los efectos precisados en el transitorio anterior.
