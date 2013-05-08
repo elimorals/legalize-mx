@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-707
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-09-23"
-last_updated: "2012-12-07"
+last_updated: "2013-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2013.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 23 de septiembre de 2009.
 
@@ -1285,27 +1285,41 @@ IX. Las demás que le confieran otras disposiciones o el Procurador.
 
 #### Sección Décima Novena. De la Fiscalía Especial de Investigación del Delito de Homicidio
 
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2013)</small>
+
 ###### Artículo 83.
 
-La Fiscalía Especial de Investigación del Delito de Homicidio, estará a cargo de integrar y coordinar de manera pronta y expedita con estricto apego a derecho las averiguaciones previas que se inicien con motivo de homicidios dolosos que, a juicio del Procurador o por sus particularidades e impacto social, deban ser investigados de manera especial.
+La Fiscalía Especial de Investigación de los Delitos de Homicidio y Feminicidio, estará a cargo de integrar y coordinar de manera pronta y expedita con estricto apego a derecho, las investigaciones que se inicien con motivo de homicidios dolosos que, a juicio del Procurador o por sus particularidades e impacto social, deban ser investigados de manera especial; así como los casos de feminicidio que ocurran en el territorio estatal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2013)</small>
 
 ###### Artículo 84.
 
-La Fiscalía Especial de Investigación del Delito de Homicidio, será competente para:
+La Fiscalía Especial de Investigación de los Delitos de Homicidio y Feminicidio, será competente para:
 
-I. Ejercer las atribuciones que corresponden al Ministerio Público en materia de investigación y persecución del delito de homicidio doloso, en los asuntos que le sean turnados por acuerdo del Procurador.
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2013)</small>
 
-II. Implementar un sistema de información estadística e información, respecto de las averiguaciones previas que le competen.
+I. Ejercer las atribuciones que corresponden al Ministerio Público en materia de investigación y persecución de los delitos de feminicidio y homicidio doloso, en los asuntos que le sean turnados por acuerdo del Procurador.
 
-III. Proporcionar asesoría jurídica a las víctimas y ofendidos, cuando lo soliciten, así como ser informados del desarrollo de las averiguaciones previas y en su caso del proceso correspondiente.
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2013)</small>
 
-IV. Continuar con la integración y determinación de las Averiguaciones Previas que se inicien con motivo de homicidios dolosos.
+II. Implementar un sistema de información estadística e información, respecto de las investigaciones que le competen.
+
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2013)</small>
+
+III. Proporcionar asesoría jurídica a las víctimas, ofendidos y sus familiares cuando lo soliciten, así como ser informados sobre el desarrollo de las investigaciones, y en su caso, del proceso correspondiente.
+
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2013)</small>
+
+IV. Continuar con la integración y determinación de las investigaciones que se inicien con motivo de feminicidios y homicidios dolosos.
 
 V. Las demás que le confiera la Ley, este Reglamento y otras disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2013)</small>
+
 ###### Artículo 85.
 
-Son atribuciones del Fiscal Especial de Investigación del Delito de Homicidio, además de las consignadas en el artículo 32, de la Ley, las siguientes:
+Son atribuciones del Fiscal Especial de Investigación de los Delitos de Homicidio y Feminicidio, además de las consignadas en el artículo 32 de la Ley, las siguientes:
 
 I. Coordinar a los Fiscales del Ministerio Público y demás personal que le estén adscritos.
 
@@ -1313,15 +1327,23 @@ II. Dirigir a través de los Fiscales del Ministerio Público que le sean adscri
 
 III. Supervisar que el personal a su cargo cumpla debidamente con las actividades que les sean asignadas en los términos de las disposiciones aplicables.
 
-IV. Coordinar en la esfera de su competencia, la fase de investigación de las averiguaciones previas.
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2013)</small>
 
-V. Proporcionar asesoría jurídica, cuando así lo soliciten a las víctimas y ofendidos de los delitos de su competencia, e informarles del desarrollo de las averiguaciones previas; y en su caso, del proceso correspondiente.
+IV. Coordinar la investigación de los delitos materia de su competencia.
+
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2013)</small>
+
+V. Proporcionar asesoría jurídica a las víctimas, ofendidos y sus familiares, de los delitos de su competencia, cuando así lo soliciten, e informarles del desarrollo de las investigaciones; y en su caso, del proceso correspondiente.
 
 VI. Vigilar y dar seguimiento al trámite de los Procedimientos Penales, sin perjuicio de la responsabilidad que le corresponda al Fiscal del Ministerio Público que esté conociendo del caso.
 
-VII. Coordinar a través de los Fiscales del Ministerio Público que le estén adscritos, la información periódica del estado que guardan las averiguaciones previas integradas por ellos.
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2013)</small>
 
-VIII. Supervisar la actualización veraz y oportuna en la información estadística de las averiguaciones previas de su competencia.
+VII. Coordinar a través de los Fiscales del Ministerio Público que le estén adscritos, la información periódica del estado que guardan sus investigaciones.
+
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2013)</small>
+
+VIII. Supervisar la actualización veraz y oportuna en la información estadística de las investigaciones de su competencia.
 
 IX. Las demás que le confieran otras disposiciones o el Procurador.
 
@@ -2824,3 +2846,11 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Se derogan todas las disposiciones que tengan similar o menor jerarquía al presente Decreto y que se opongan al mismo.
 
 Artículo Tercero.- En cumplimiento a lo dispuesto por el artículo 8 de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Decreto en el Periódico Oficial.
+
+P.O. 8 DE MAYO DE 2013.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que tengan similar o menor jerarquía al presente Decreto y que se opongan al mismo.
+
+Artículo Tercero.- En cumplimiento a lo dispuesto por el artículo 8° de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Decreto en el Periódico Oficial.
