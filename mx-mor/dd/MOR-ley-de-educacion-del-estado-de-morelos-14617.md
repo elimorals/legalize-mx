@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-educacion-del-estado-de-morelos-14617"
 country: "mx"
 rank: "ley"
 publication_date: "1996-08-26"
-last_updated: "2013-03-06"
+last_updated: "2013-05-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE EDUCACIÓN DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el día 26 de agosto de 1996.
 
@@ -765,7 +765,9 @@ I.- Informar a las autoridades educativas y escolares sobre cualquier irregulari
 
 II.- Elaborar los estatutos internos que regirán la vida de la Asociación Estatal de Padres de Familia.
 
-La Asociación Estatal de Padres de Familia se abstendrá de intervenir en los aspectos administrativos, técnico-pedagógicos y laborales de los establecimientos educativos.
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2013)</small>
+
+La Asociación Estatal de Padres de Familia se abstendrá de intervenir en los aspectos pedagógicos y laborales de los establecimientos educativos.
 
 ###### ARTICULO 74.
 
@@ -810,6 +812,8 @@ Para elevar el nivel social, cultural y educativo de la comunidad e impulsar la 
 ## TITULO TERCERO. DE LA PLANEACION Y EVALUACION EDUCATIVA PARA EL DESARROLLO DEL ESTADO
 
 ### CAPITULO IV. DE LOS CONSEJOS DE PARTICIPACION SOCIAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2013)</small>
 
 ###### ARTICULO 80.
 
@@ -901,6 +905,14 @@ VII.- Opinar en relación con las contraprestaciones que las escuelas particular
 
 VIII.- Quienes ejerzan la patria potestad o tutela, tienen derecho de asistir al Programa de Escuela de padres y tutores de las instituciones educativas en que estén inscritos sus hijos o pupilos.
 
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2013)</small>
+
+IX.- Conocer la capacidad profesional de la planta docente así como el resultado de las evaluaciones realizadas de conformidad con lo dispuesto en la fracción VII del artículo 12 de la Ley General de Educación, y
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2013)</small>
+
+X.- Conocer la relación oficial del personal docente y empleados adscritos en la escuela en la que estén inscritos sus hijos o pupilos, misma que será proporcionada por la autoridad escolar.
+
 ###### ARTICULO 89.
 
 Son obligaciones de quienes ejercen la patria potestad o tutela:
@@ -918,6 +930,14 @@ IV.- Coadyuvar en la medida de sus posibilidades con las autoridades educativas 
 > <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2012)</small>
 
 V.- Acudir al menos al 70 por ciento de las sesiones del Programa Escuela de padres y tutores de las instituciones educativas en que estén inscritos sus hijos o pupilos.
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2013)</small>
+
+VI.- Informar a las autoridades educativas los cambios que se presenten en la conducta y actitud de los educandos, para que las citadas autoridades apliquen los estudios correspondientes, con el fin de determinar las posibles causas que hayan dado origen a tales cambios, y
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2013)</small>
+
+VII.- Hacer del conocimiento de la autoridad educativa del plantel, las irregularidades cometidas por el personal administrativo o académico, que ocasionen perjuicios, daños o cambios emocionales en los educandos.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 22 DE AGOSTO DE 2012)</small>
 
@@ -941,19 +961,29 @@ III.- Participar en la aplicación de cooperaciones en numerario, bienes y servi
 
 IV.- Propiciar el mejoramiento social y cultural de sus miembros;
 
-V.- Proponer las medidas que estimen conducentes para alcanzar los objetivos señalados en las fracciones anteriores, y
+V.- Proponer las medidas que estimen conducentes para alcanzar los objetivos señalados en las fracciones anteriores, y (sic)
 
 VI.- La organización y el funcionamiento de las asociaciones de padres de familia en lo concerniente a sus relaciones con las autoridades escolares municipales y estatales se sujetarán a las disposiciones que la autoridad educativa federal señale.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JULIO DE 2011)</small>
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2013)</small>
+
+VII.- Administrar y ejecutar los recursos materiales, humanos y financieros, que obtengan de las aportaciones voluntarias de los padres de familia, previa aprobación de la Asamblea General y del visto bueno del director, y que serán utilizados en la construcción, mantenimiento y mejoramiento de los planteles educativos, que comprendan la aplicación de la fracción III anterior, así como de la fracción IV del artículo 89 de la presente ley, de igual manera dichos recursos serán supervisados por la autoridad escolar que corresponda; e
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2013)</small>
+
+VIII.- Informar a las autoridades educativas y escolares sobre cualquier irregularidad de que sean objeto los educandos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2013)</small>
 
 ###### ARTICULO 92.
 
-Son atribuciones de las asociaciones de Padres de Familia:
+Son atribuciones de las asociaciones de padres de familia:
 
 I.- Proponer y promover, en coordinación con las autoridades escolares y educativas, las acciones necesarias para el mejoramiento de los establecimientos y de su funcionamiento;
 
-II.- Reunir fondos con aportaciones voluntarias y/o actividades de sus miembros para los fines de la educación, los cuales serán considerados como de las propias asociaciones, hasta en tanto no sean entregados oficialmente a la autoridad educativa, mediante bienes o servicios;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2013)</small>
+
+II.- Reunir fondos con aportaciones voluntarias y/o actividades de sus miembros para los fines de la educación, los cuales serán considerados como de las propias asociaciones, prohibiéndose la entrega de dichos fondos, en dinero efectivo, cheque, transacción bancaria o vales, hasta en tanto no sean entregados oficialmente a la autoridad educativa, mediante bienes o servicios;
 
 III.- Fomentar y mantener las relaciones de colaboración y respeto mutuo entre los trabajadores de la educación, los alumnos y los padres de familia, para un aprovechamiento óptimo de los educandos y del cumplimiento de los planes y programas educativos;
 
@@ -961,11 +991,13 @@ III.- Fomentar y mantener las relaciones de colaboración y respeto mutuo entre 
 
 IV.- Colaborar con las autoridades educativas en las actividades y campañas de fomento a los valores, beneficio social, cultural y prevención de las adicciones, sanitaria y ecológica que se efectúen en sus comunidades; y
 
-V.- Informar por escrito a las autoridades educativas y escolares sobre cualquier irregularidad de que sean objeto los educandos.
+V.- (DEROGADA, P.O. 8 DE MAYO DE 2013)
+
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2013)</small>
 
 ###### ARTICULO 93.
 
-Las asociaciones de Padres de Familia se abstendrán de intervenir en los aspectos administrativos, técnico-pedagógicos y laborales de los establecimientos educativos.
+Las asociaciones de padres de familia se abstendrán de intervenir en los aspectos pedagógicos y laborales de los establecimientos educativos.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE SEPTIEMBRE DE 2012)</small>
 
@@ -975,7 +1007,7 @@ Las asociaciones de Padres de Familia se abstendrán de intervenir en los aspect
 
 ###### ARTICULO 94.
 
-Las autoridades educativas en el Estado promoverán, de conformidad con los lineamientos que establezca la autoridad educativa federal, la participación de la sociedad en actividades que tengan por objeto fortalecer y elevar la calidad de la educación pública, ampliar la cobertura de los servicios educativos y buscar la participación social coordinada de las autoridades educativas, de los trabajadores de la educación, de los educandos y de los sectores sociales vinculados con ésta, a través de un Sistema de Consejos de Participación Social conforme a las necesidades propias de cada región, debiendo garantizar:
+Las autoridades educativas en el Estado promoverán, de conformidad con los lineamientos que establezca la autoridad educativa federal, la participación de la sociedad en actividades que tengan por objeto fortalecer y elevar la calidad de la educación pública, ampliar la cobertura de los servicios educativos y promover la participación social coordinada de las autoridades educativas, de los trabajadores de la educación, de los educandos y de los sectores sociales vinculados con ésta, a través de un Sistema de Consejos de Participación Social, tal y como lo disponen los lineamientos generales respectivos emitidos por la autoridad educativa correspondiente, debiendo garantizar:
 
 I.- La democracia participativa de sus miembros;
 
@@ -985,23 +1017,101 @@ III.- La autonomía en el ámbito de sus atribuciones.
 
 ###### ARTICULO 95.
 
-El Sistema de Consejos de Participación Social estará integrado por:
+(DEROGADO, P.O. 8 DE MAYO DE 2013)
 
-I.- Un Consejo Estatal de Participación Social que como órgano de consulta, orientación y apoyo, funcione con la participación de los padres de familia y representantes de sus asociaciones, maestros y representantes de su organización sindical, instituciones formadoras de docentes, autoridades educativas estatales, municipales, así como de sectores sociales de la Entidad especialmente interesados en la educación;
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2013)</small>
 
-II.- En cada Municipio, un Consejo Municipal de Participación Social, integrado por las autoridades municipales, padres de familia y representantes de sus asociaciones, maestros distinguidos y directivos de las escuelas establecidas en el Municipio, representantes de la organización sindical de los maestros, representantes de organizaciones sociales y demás interesados en el mejoramiento de la educación;
+ARTICULO 95 BIS.- Será responsabilidad de la autoridad de cada escuela pública de educación básica vincular a ésta, activa y constantemente, con la comunidad. El Ayuntamiento y la autoridad educativa local darán toda su colaboración para tales efectos.
 
-III.- En cada escuela pública de educación básica, un Consejo Escolar de Participación Social, integrado con padres de familia y representantes de sus asociaciones, maestros y representantes de su organización sindical, directivos de la escuela, exalumnos, así como los demás miembros de la comunidad interesados en el desarrollo de la propia escuela. Consejos análogos podrán operar en las escuelas particulares de educación básica.
+La autoridad escolar hará lo conducente para que en cada escuela pública de educación básica opere un consejo escolar de participación social, integrado con padres de familia y representantes de sus asociaciones, maestros y representantes de su organización sindical, directivos de la escuela, ex alumnos, así como con los demás miembros de la comunidad interesados en el desarrollo de la propia escuela.
 
-Cada Consejo se integrará con una estructura mínima formada por un Presidente, un Secretario, un Tesorero, y dos vocales, que lo serán quienes designe el propio Consejo de que se trate.
+Este consejo:
+
+a) Conocerá el calendario escolar, las metas educativas y el avance de las actividades escolares, con el objeto de coadyuvar con el maestro a su mejor realización;
+
+b) Conocerá y dará seguimiento de las acciones que realicen las y los educadores y autoridades educativas señaladas en el segundo párrafo del artículo 42 de la Ley General de Educación;
+
+c) Conocerá de las acciones educativas y de prevención que realicen las autoridades para que los educandos conozcan y detecten la posible comisión de hechos delictivos que puedan perjudicar al educando;
+
+d) Sensibilizará a la comunidad, mediante la divulgación de material que prevenga la comisión de delitos en agravio de las y los educandos. Así como también, de elementos que procuren la defensa de los derechos de las víctimas de tales delitos;
+
+e) Tomará nota de los resultados de las evaluaciones que realicen las autoridades educativas;
+
+f) Propiciará la colaboración de maestros y padres de familia para salvaguardar la integridad y educación plena de las y los educandos.
+
+g) Podrá proponer estímulos y reconocimientos de carácter social a alumnos, maestros, directivos y empleados de la escuela, así como también propondrá los criterios de evaluación óptimos y necesarios para dar cumplimiento a lo dispuesto en la fracción VII del artículo 12 de la Ley General de Educación;
+
+h) Conocerá los nombres de las y los educadores, publicados en el segundo párrafo del artículo 56 de la Ley General de Educación;
+
+i) Estimulará, promoverá y apoyará actividades extraescolares que complementen y respalden la formación de los educandos;
+
+j) Llevará a cabo las acciones de participación, coordinación y difusión necesarias para la protección civil y la emergencia escolar;
+
+k) Alentará el interés familiar y comunitario por el desempeño del educando;
+
+l) Opinará en asuntos pedagógicos y en temas que permitan la salvaguarda del libre desarrollo de la personalidad, integridad y derechos humanos de las y los educandos;
+
+m) Contribuirá a reducir las condiciones sociales adversas que influyan en la educación; estará facultado para realizar convocatorias para trabajos específicos de mejoramiento de las instalaciones escolares;
+
+n) Respaldará las labores cotidianas de la escuela, y
+
+o) En general, podrá realizar actividades en beneficio de la propia escuela.
+
+Consejos análogos deberán operar en las escuelas particulares de educación básica.
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2013)</small>
+
+ARTICULO 95 TER.- En cada municipio operará un consejo municipal de participación social en la educación integrado por las autoridades municipales, padres de familia y representantes de sus asociaciones, maestros distinguidos y directivos de escuelas, representantes de la organización sindical de los maestros, así como representantes de organizaciones de la sociedad civil cuyo objeto social sea la educación y demás interesados en el mejoramiento de la educación.
+
+Este consejo gestionará ante el Ayuntamiento y ante la autoridad educativa local:
+
+a) El mejoramiento de los servicios educativos, la construcción y ampliación de escuelas públicas y demás proyectos de desarrollo educativo en el municipio;
+
+b) Conocerá de los resultados de las evaluaciones que realicen las autoridades educativas;
+
+c) Llevará a cabo labores de seguimiento de las actividades de las escuelas públicas de educación básica del propio municipio;
+
+d) Estimulará, promoverá y apoyará actividades de intercambio, colaboración y participación inter escolar en aspectos culturales, cívicos, deportivos y sociales;
+
+e) Establecerá la coordinación de escuelas con autoridades y programas de bienestar comunitario, particularmente con aquellas autoridades que atiendan temas relacionados con la defensa de los derechos consagrados en la Ley para la Protección de los Derechos de las Niñas, Niños y Adolescentes;
+
+f) Hará aportaciones relativas a las particularidades del municipio que contribuyan a la formulación de contenidos locales a ser propuestos para los planes y programas de estudio;
+
+g) Podrá opinar en asuntos pedagógicos;
+
+h) Coadyuvará a nivel municipal en actividades de protección civil y emergencia escolar;
+
+i) Promoverá la superación educativa en el ámbito municipal mediante certámenes inter escolares;
+
+j) Promoverá actividades de orientación, capacitación y difusión dirigidas a padres de familia y tutores, para que cumplan cabalmente con sus obligaciones en materia educativa;
+
+k) Podrá proponer estímulos y reconocimientos de carácter social a alumnos, maestros, directivos y empleados escolares;
+
+l) Procurará la obtención de recursos complementarios para el mantenimiento físico y para proveer de equipo básico a cada escuela pública y,
+
+m) En general, podrá realizar actividades para apoyar y fortalecer la educación en el municipio.
+
+Será responsabilidad del Presidente Municipal que en el consejo se alcance una efectiva participación social que contribuya a elevar la calidad y la cobertura de la educación, así como la difusión de programas preventivos de delitos que se puedan cometer en contra de niñas, niños y adolescentes o de quienes no tienen capacidad para comprender el significado del hecho o para resistirlo.
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2013)</small>
+
+ARTICULO 95 QUATER.- En el Estado, el Consejo Estatal de Participación Social en la Educación, será órgano de consulta, orientación y apoyo. En dicho Consejo se asegurará la participación de padres de familia y representantes de sus asociaciones, maestros y representantes de su organización sindical, instituciones formadoras de maestros, autoridades educativas estatales y municipales, organizaciones de la sociedad civil cuyo objeto social sea la educación, así como los sectores social y productivo de la entidad federativa especialmente interesados en la educación.
+
+Este consejo promoverá y apoyará entidades extraescolares de carácter cultural, cívico, deportivo y de bienestar social; coadyuvará a nivel estatal en actividades de protección civil y emergencia escolar; sistematizará los elementos y aportaciones relativos a las particularidades del estado que contribuyan a la formulación de contenidos estatales en los planes y programas de estudio; podrá opinar en asuntos pedagógicos; conocerá las demandas y necesidades que emanen de la participación social en la educación a través de los consejos escolares y municipales, conformando los requerimientos a nivel estatal para gestionar ante las instancias competentes su resolución y apoyo; conocerá los resultados de las evaluaciones que efectúen las autoridades educativas y colaborará con ellas en actividades que influyan en el mejoramiento de la calidad y la cobertura de la educación.
+
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2013)</small>
 
 ###### ARTICULO 96.
 
-Los Consejos de Participación Social a que se refiere el artículo anterior tendrán las atribuciones y obligaciones que señalen los reglamentos respectivos que apruebe la autoridad educativa competente.
+Los Consejos de Participación Social a que se refieren los artículos anteriores, tendrán las atribuciones y obligaciones que señalen los lineamientos generales respectivos que apruebe la autoridad educativa competente.
 
 ###### ARTICULO 97.
 
 Los Consejos de Participación Social se abstendrán de intervenir en los aspectos laborales de los establecimientos educativos y no deberán participar en cuestiones políticas ni religiosas.
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2013)</small>
+
+ARTICULO 97 BIS.- En caso de que el consejo aprecie la probable comisión de un delito en agravio de las y los educandos, solicitará como medida preventiva a las autoridades educativas del plantel, la suspensión temporal de las actividades del personal docente o administrativo que se encuentre presuntamente involucrado, hasta en tanto se aclare por la autoridad correspondiente dicha participación, previa audiencia a las partes involucradas. Dicha suspensión no afectará las prestaciones laborales que le correspondan.
 
 ###### ARTICULO 98.
 
@@ -1376,3 +1486,17 @@ P.O. 6 DE MARZO DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
 
 SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos a que se refiere el artículo 44 de la Constitución Política del Estado de Morelos.
+
+P.O. 8 DE MAYO DE 2013.
+
+###### Artículo 1.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+###### Artículo 2.
+
+Se sancionará conforme a la legislación vigente a toda autoridad escolar que incumpla con la conformación de los Consejos de Participación Social en la educación.
+
+###### Artículo 3.
+
+Se derogan todas las leyes, normas o lineamientos que se contrapongan a la presente.
