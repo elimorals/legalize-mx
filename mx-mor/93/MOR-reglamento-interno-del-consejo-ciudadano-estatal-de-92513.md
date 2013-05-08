@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interno-del-consejo-ciudadano-estatal-de-92513"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-02-20"
-last_updated: "2013-02-20"
+last_updated: "2013-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO INTERNO DEL CONSEJO CIUDADANO ESTATAL DE SEGURIDAD PÚBLICA Y PROCURACIÓN DE JUSTICIA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 20 de febrero de 2013.
 
@@ -41,6 +41,8 @@ REGLAMENTO INTERNO DEL CONSEJO CIUDADANO ESTATAL DE SEGURIDAD PÚBLICA Y PROCURA
 
 El presente Reglamento tiene por objeto, regular la organización, coordinación y funcionamiento del Consejo Ciudadano Estatal de Seguridad Pública y Procuración de Justicia, órgano de consulta, análisis y participación ciudadana en materia de seguridad pública, procuración de justicia, cultura cívica, orientación a víctimas del delito, prevención del delito y reinserción social.
 
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2013)</small>
+
 ###### Artículo 2.
 
 Para los efectos de este Reglamento, se entenderá por:
@@ -49,13 +51,15 @@ I. Acuerdo de creación, al Acuerdo por el que se crea al Consejo Ciudadano Esta
 
 II. Consejo Ciudadano, al Consejo Ciudadano Estatal de Seguridad Pública y Procuración de Justicia;
 
-III. Consejero Presidente, al Consejero Presidente del Consejo Ciudadano Estatal de Seguridad Pública y Procuración de Justicia;
+III. Presidente Honorario, al Presidente Honorario del Consejo Ciudadano;
 
-IV. Consejero Secretario, al Consejero Secretario del Consejo Ciudadano Estatal de Seguridad Pública y Procuración de Justicia;
+IV. Presidente Ejecutivo, al Presidente Ejecutivo del Consejo Ciudadano;
 
-V. Secretario Técnico, al Secretario Técnico del Consejo Ciudadano Estatal de Seguridad Pública y Procuración de Justicia, y
+V. Secretario Ejecutivo, al Secretario Ejecutivo del Consejo Ciudadano;
 
-VI. Reglamento, al presente Reglamento.
+VI. Secretario Técnico del Presidente Ejecutivo, al Secretario Técnico del Presidente Ejecutivo del Consejo, y
+
+VII. Reglamento, al presente Reglamento.
 
 ### CAPÍTULO II. DE LAS ATRIBUCIONES DEL CONSEJO
 
@@ -99,7 +103,9 @@ El Consejo Ciudadano dará seguimiento y, en su caso, propondrá mejoras a los s
 
 A efecto de recibir y atender las solicitudes, propuestas y quejas de la población, así como para la difusión de las actividades que realice el Consejo Ciudadano, se establecerán (sic) un servicio de atención al público a través de un número telefónico y una página electrónica en las que se informará acerca de los planes y programas de trabajo.
 
-El Consejero Secretario estará a cargo de la organización el servicio de atención al público y la actualización de la página electrónica a que se refiere el párrafo anterior.
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2013)</small>
+
+El Presidente Ejecutivo estará a cargo de la organización del servicio de atención al público y la actualización de la página de internet a que se refiere el párrafo anterior.
 
 ### CAPÍTULO III. DE LOS REQUISITOS, OBLIGACIONES Y FUNCIONES DE LOS INTEGRANTES DEL CONSEJO
 
@@ -111,15 +117,21 @@ I. Haber destacado como miembro de la sociedad y por su interés en actividades 
 
 II. Estar dispuesto a participar en actividades de servicio en beneficio de la comunidad;
 
-III. Tener representatividad estatal a través de un organismo u organización proponente, y
+III. (DEROGADA, P.O. 8 DE MAYO DE 2013), y
 
-IV. Presentar solicitud por escrito al Secretario Ejecutivo del Sistema Estatal de Seguridad Pública del Estado de Morelos, en la que exprese los motivos por los que se desea ser integrante, y la recomendación por escrito del grupo que representa, mismo que deberá estar constituido legalmente con una antigüedad mínima de dos años.
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2013)</small>
+
+IV. Presentar solicitud por escrito al Gobernador del Estado, por conducto del Secretario Ejecutivo, en el que exprese los motivos por los que se desea ser integrante.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2013)</small>
 
 ###### Artículo 9.
 
-El Consejero Secretario, además de las atribuciones señaladas en el artículo 8 del Acuerdo de creación, tendrá las siguientes:
+El Presidente Ejecutivo, además de las atribuciones señaladas en el artículo 8 del Acuerdo de Creación, tendrá las siguientes:
 
-I. Presidir las sesiones del Consejo en ausencia del Consejero Presidente o su representante, así como firmar las actas y minutas correspondientes;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2013)</small>
+
+I. Presidir las sesiones del Consejo en ausencia del Presidente Honorario o su representante, así como firmar las actas y minutas correspondientes con tal carácter;
 
 II. Promover y supervisar el cumplimiento de los acuerdos del Consejo Ciudadano cuando queden expresamente delegados a otros órganos del Consejo;
 
@@ -127,15 +139,29 @@ III. Publicar los informes periódicos de las actividades del Consejo;
 
 IV. Representar al Consejo ante las diferentes instancias de gobierno tanto local como federal, así como ante organismos no gubernamentales;
 
-V. Celebrar, en representación del Consejo Ciudadano, los convenios a que se alude en el artículo 4 de este Reglamento, y
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2013)</small>
 
-VI. Las demás que le resulten convenientes para el cumplimiento de sus funciones, que sean acordadas por el Consejo Ciudadano.
+V. Celebrar, en representación del Consejo Ciudadano, los convenios a que se alude en el artículo 4 de este Reglamento;
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2013)</small>
+
+VI. Recibir en audiencia a los representantes de las Dependencias Municipales, Estatales y Federales, Asociaciones Civiles, Organizaciones y a la sociedad en general que las solicite e informar del resultado de la misma;
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2013)</small>
+
+VII. Representar al Presidente Honorario en reuniones a la que sean convocados y que no les sea posible asistir, y
+
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2013)</small>
+
+VIII. Las demás que le resulten convenientes para el cumplimiento de sus funciones, que sean acordados por el Consejo Ciudadano.
 
 ###### Artículo 10.
 
 Son atribuciones de los Consejeros Ciudadanos, las siguientes:
 
-I. Asistir a las reuniones que convoque el Consejero Presidente;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2013)</small>
+
+I. Asistir a las reuniones a las que sean convocados;
 
 II. Participar en las sesiones, proponer acuerdos y, en su caso votar respecto de aquellos que hayan sido sometidos a su consideración;
 
@@ -153,9 +179,11 @@ VIII. Rendir informe al término de sus funciones o por separación de su encarg
 
 IX. Notificar oportunamente al Secretario Técnico su eventual inasistencia a las sesiones del Consejo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2013)</small>
+
 ###### Artículo 11.
 
-El Secretario Técnico del Consejo Ciudadano, además de las atribuciones que se confieren en virtud del artículo 9 del Acuerdo de creación, contará con las siguientes:
+El Secretario Ejecutivo, además de las atribuciones que se confieren en virtud del artículo 9 del Acuerdo de Creación, contará con las siguientes:
 
 I. Redactar para su aprobación en términos del Reglamento, el orden del día, listas de asistencia, material de apoyo necesario, así como preparar la documentación inherente a la sesión a celebrar;
 
@@ -165,7 +193,9 @@ III. Recabar los informes de las reuniones del Consejo Ciudadano;
 
 IV. Realizar el recuento de la votación de los acuerdos sometidos a aprobación del Consejo;
 
-V. Resguardar el archivo del Consejo Ciudadano y dar cuenta de la correspondencia recibida y despachada;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2013)</small>
+
+V. Resguardar el archivo del Consejo Ciudadano y dar cuenta de la correspondencia recibida y despachada, con el auxilio del Secretario Técnico;
 
 VI. Formar y mantener actualizado el Libro de Actas de las Sesiones de Asamblea;
 
@@ -177,15 +207,31 @@ IX. Coordinar las tareas de organización de funciones del Consejo, y
 
 X. Las demás que le resulten convenientes para el cumplimiento de sus funciones, que sean acordadas por el Consejo.
 
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2013)</small>
+
+###### Artículo 11 Bis.
+
+El Secretario Técnico del Presidente Ejecutivo, además de las atribuciones señaladas en el artículo 9 Bis del Acuerdo de Creación, tendrá las siguientes atribuciones:
+
+I. Coordinar las actividades de la Presidencia Ejecutiva, así como llevar el registro de las reuniones calendarizadas;
+
+II. Coadyuvar con el Secretario Ejecutivo para la realización de la sesiones;
+
+III. Revisar las actividades pendientes a realizar por parte de la Presidencia Ejecutiva, lo anterior a fin de darles el debido seguimiento, y
+
+IV. Las demás que le resulten convenientes para el cumplimiento de sus funciones, que sean acordadas por el Consejo.
+
 ###### Artículo 12.
 
 El Consejero Ciudadano que por cualquier causa deje de asistir a tres sesiones consecutivas sin causa justificada, será desincorporado del Consejo. Se procederá de igual forma si el total de las inasistencias en un año calendario es superior a tres sesiones, aún cuando no sean consecutivas.
 
 Todo Consejero Ciudadano tendrá derecho a separarse del Consejo dando aviso por escrito.
 
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2013)</small>
+
 ###### Artículo 13.
 
-Cuando alguno de los Consejeros Ciudadanos actúe en forma contraria a los intereses o fines del Consejo, podrá ser excluido por resolución del Pleno del Consejo Ciudadano reunido especialmente para ese fin, previo conocimiento del Presidente Ejecutivo.
+Cuando alguno de los Consejeros Ciudadanos actúe en forma contraria a los intereses o fines del Consejo, podrá ser excluido por resolución del Pleno reunido especialmente para ese fin, en la que se dará cuenta de ello al Presidente Honorario.
 
 ###### Artículo 14.
 
@@ -201,7 +247,9 @@ Para resolver lo relativo a la exclusión de un Consejero Ciudadano, el Pleno de
 
 El Consejo sesionará de la siguiente forma:
 
-I. Mediante Sesiones Ordinarias, presididas por el Consejero Presidente, que se celebrarán cada dos meses, convocando a la totalidad de los Consejeros Ciudadanos y representantes en la sede que previamente se determine en la convocatoria respectiva, y
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2013)</small>
+
+I. Mediante Sesiones Ordinarias, que se celebrarán cada dos meses, convocando a la totalidad de los Consejeros Ciudadanos y representantes en la sede que previamente se determine en la convocatoria respectiva, y
 
 II. Mediante Sesiones Extraordinarias, que se celebrarán en cualquier tiempo.
 
@@ -213,21 +261,27 @@ En el caso de Sesiones Extraordinarias, se podrá convocar a los Consejeros Ciud
 
 En caso de que para la primer convocatoria no se reúna el quórum necesario para sesionar, podrá expedirse el mismo día una segunda, para celebrar la sesión respectiva media hora después, siendo válida con la presencia de cualquier número de Consejeros presentes y tomándose las decisiones correspondientes con el voto favorable de la mitad más uno de los asistentes.
 
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2013)</small>
+
 ###### Artículo 18.
 
-Para que las Sesiones del Consejo se consideren válidas, deberá estar presente la mitad más uno de los Consejeros Ciudadanos. Los acuerdos que se alcancen en el Consejo se tomarán por mayoría de votos de los Consejeros presentes; en caso de empate, el Consejero Presidente del Consejo Ciudadano o su representante tendrán voto de calidad.
+Para que las Sesiones del Consejo se consideren válidas, deberá estar presente la mitad más uno de los Consejeros Ciudadanos. Los acuerdos que se alcancen en el Consejo se tomarán por mayoría de votos de los Consejeros presentes; en caso de empate, quien presida la sesión tendrá voto de calidad.
 
 ###### Artículo 19.
 
 Cuando por causa de su encargo alguno de los representantes de la Administración Pública estatal no pueda asistir a las reuniones del Consejo Ciudadano a que fuere convocado, podrá ser representado por el funcionario que deba sustituirlo en los términos de la ley o reglamento respectivo, o por el que expresamente designare para dicha ocasión, quien podrá presentar informes a nombre del titular, opinar acerca de los temas a tratar y en su caso formular propuestas o compromisos en nombre de aquél.
 
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2013)</small>
+
 ###### Artículo 20.
 
-El Secretario Técnico deberá informar al Pleno del Consejo Ciudadano de manera semestral acerca de los trabajos realizados, así como de los avances en los proyectos emprendidos. Dicho informe se difundirá a través de los medios que al efecto se establezcan.
+El Secretario Ejecutivo deberá informar al Pleno del Consejo Ciudadano de manera semestral acerca de los trabajos realizados, así como de los avances en los proyectos emprendidos. Dicho Informe se difundirá a través de los medios que al efecto se establezcan.
+
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2013)</small>
 
 ###### Artículo 21.
 
-En caso de sustitución o incorporación de algún Consejero Ciudadano, las Comisiones de trabajo, por conducto del Secretario Técnico, entregarán al nuevo Consejero Ciudadano un informe por escrito de las actividades emprendidas y los resultados obtenidos.
+En caso de sustitución o incorporación de algún Consejero Ciudadano, las Comisiones de Trabajo, por conducto del Secretarlo (sic) Ejecutivo, entregarán al nuevo Consejero Ciudadano un informe por escrito de las actividades emprendidas y los resultados obtenidos.
 
 ### CAPÍTULO V. LINEAS DE ACCIÓN DE LA PARTICIPACIÓN CIUDADANA
 
@@ -265,9 +319,11 @@ VII. El fomento de la prevención a través de la familia.
 
 ### CAPÍTULO VII. DE LOS ACUERDOS DEL CONSEJO
 
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2013)</small>
+
 ###### Artículo 24.
 
-Los asuntos que deban someterse a votación del Pleno del Consejo Ciudadano se presentarán por su Consejero Secretario o por el Consejero Ciudadano que ponga a consideración el tema, procediendo a su exposición, discusión y posterior votación en forma abierta o mediante cédula, según se apruebe en el orden del día respectivo.
+Los asuntos que deban someterse a votación del Pleno del Consejo Ciudadano se presentarán por el Presidente Ejecutivo o por el Consejero Ciudadano que ponga a consideración el tema, procediendo a su exposición, discusión y posterior votación en forma abierta o mediante cédula, según se apruebe en el orden del día respectivo.
 
 ### CAPÍTULO VIII. DE LOS ÓRGANOS DEL CONSEJO CIUDADANO
 
@@ -344,3 +400,11 @@ CARLOS RIVA PALACIO THAN
 EL SECRETARIO DE LA CONTRALORÍA
 
 C.P. JOSÉ ENRIQUE FÉLIX IÑESTA Y MONMANY
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 8 DE MAYO DE 2013.
+
+PRIMERA. El presente Acuerdo iniciará su vigencia el día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+SEGUNDA. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
