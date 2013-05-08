@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-derechos-y-cultura-indigena-del-estado-de-nayarit-42195"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-18"
-last_updated: "2004-12-18"
+last_updated: "2013-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE DERECHOS Y CULTURA INDÍGENA DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2013.
 
 Ley publicada en la Sección Vigésima Segunda del Periódico Oficial del Estado de Nayarit, el sábado 18 de diciembre de 2004.
 
@@ -57,17 +57,25 @@ Las comunidades indígenas asentadas por cualquier circunstancia, dentro del ter
 
 Para efectos de esta Ley se entiende por:
 
-PUEBLO INDÍGENA: Son aquéllos que descienden de poblaciones que habitan en el territorio actual del país al iniciar la colonización y que conservan sus propias instituciones sociales, económicas, culturales y políticas, o parte de ellas;
+PUEBLO INDÍGENA: Son aquéllos que descienden de poblaciones que habitan en el territorio actual del país al iniciar la colonización y que conservan sus propias instituciones sociales, económicas, culturales y políticas, o parte de ellas.
 
 COMUNIDAD INDÍGENA: Son comunidades de un pueblo indígena, aquéllas que formen una unidad social, económica y cultural asentadas en un territorio y que reconocen autoridades propias de acuerdo con sus usos y costumbres.
 
-TERRITORIO: Al área geográfica o ámbito espacial y natural en el que se encuentra asentada la comunidad o pueblo indígena, bajo su influencia cultural y social;
+TERRITORIO: Al área geográfica o ámbito espacial y natural en el que se encuentra asentada la comunidad o pueblo indígena, bajo su influencia cultural y social.
 
 AUTONOMÍA: A la expresión de la libre determinación de los pueblos y comunidades indígenas como parte integral del Estado de Nayarit, en concordancia con el orden jurídico vigente, para adoptar por sí mismos decisiones e instituir prácticas propias relacionadas con su organización sociopolítica, lenguaje, usos y costumbres.
 
 DERECHOS INDIVIDUALES: Las facultades y prerrogativas que el orden Jurídico del estado, otorga a todo hombre o mujer, independientemente de que sea o no integrante de un pueblo o comunidad indígena, por el solo hecho de ser persona.
 
 DERECHOS SOCIALES: Las facultades y prerrogativas de naturaleza colectiva que el orden jurídico del Estado de Nayarit, reconoce a los pueblos y comunidades indígenas, en los ámbitos político, económico, social y cultural, para garantizar su existencia, dignidad y bienestar.
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2013)</small>
+
+LUGAR SAGRADO: Es un espacio determinado del territorio del Estado de Nayarit, al que los pueblos indígenas le confieren una particularidad de espiritualidad o sacralidad, derivado de sus usos y costumbres, el cual es reconocido y distinguido de manera expresa por sus miembros en sus rituales y prácticas ancestrales de veneración.
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2013)</small>
+
+CENTRO CEREMONIAL: Espacio público que las comunidades indígenas destinan a la realización de celebraciones sociales, reuniones de gobierno, o actos en los que concurren sus integrantes a realizar ceremonias de índole religiosa, económica, social y política según sus usos y costumbres.
 
 ###### Artículo 4°.
 
@@ -285,6 +293,28 @@ Los pueblos y comunidades indígenas tienen derecho social a vivir en libertad, 
 
 Las comunidades indígenas, con las reservas que establecen las leyes de la materia, tiene derecho a conservar, proteger y desarrollar todas sus manifestaciones culturales, incluidos los sitios arqueológicos y sagrados, centros ceremoniales y monumentos históricos, además de sus artesanías, vestidos regionales y expresiones musicales.
 
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2013)</small>
+
+Se considerarán como centros ceremoniales y lugares sagrados aquellos que según las costumbres de cada pueblo indígena con presencia en el estado, representen las diversas etapas de expresión y formación de sus integrantes.
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2013)</small>
+
+Deben considerarse como centros ceremoniales y lugares sagrados los sitios que a continuación se enuncian:
+
+I. El lugar tradicional donde se bautiza o se inicia la pertenencia a un determinado pueblo indígena;
+
+II. El centro o lugar donde se reúnen para orar o rendir culto a sus dioses;
+
+III. La edificación o lugar donde confluyen para tratar asuntos de gobierno o de organización interna;
+
+IV. El cementerio donde se sepultan a los miembros de sus comunidades, y
+
+V. Todo aquel lugar o zona al que por sus características o ubicación se le guarde culto en razón de su significado espiritual o sagrado.
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2013)</small>
+
+El Poder Ejecutivo, por conducto de la dependencia competente y con apoyo de instituciones académicas y organismos no gubernamentales, llevará un registro estatal de los centros ceremoniales y lugares sagrados reconocidos por los pueblos indígenas asentados en el territorio del estado.
+
 ###### Artículo 52.
 
 El Estado y los Municipios, dentro de sus atribuciones, promoverán la preservación, fortalecimiento, difusión e investigación de la cultura indígena, a través de la creación de espacios de desarrollo y museos comunitarios. Asimismo, apoyarán la creatividad artesanal y artística de los indígenas y la comercialización de sus productos, previniendo en todo momento que no sean sujetos de explotación o abuso.
@@ -468,3 +498,11 @@ D a d o en la Sala de Sesiones "Lic. Benito Juárez", del Honorable Congreso del
 Dip. Presidente, Manuel Narváez Robles.- Rúbrica.- Dip. Secretario, Enrique Mejía Pérez.- Rúbrica.- Dip. Secretario, Juan Manuel Mier Pecina.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto de la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit, en Tepic su capital, a los dieciséis días del mes de diciembre del año dos mil cuatro.- C.P. ANTONIO ECHEVARRÍA DOMÍNGUEZ.- Rúbrica.- El Secretario General de Gobierno, Lic. Adán Meza Barajas.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 8 DE MAYO DE 2013.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Artículo Segundo.- Para iniciar con el registro estatal de centros ceremoniales y lugares sagrados referido en el último párrafo del artículo 51, se contará con un plazo de dos años a partir de la publicación del presente decreto.
