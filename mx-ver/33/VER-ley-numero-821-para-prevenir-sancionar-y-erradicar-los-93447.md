@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-821-para-prevenir-sancionar-y-erradicar-los-93447"
 country: "mx"
 rank: "ley"
 publication_date: "2013-03-21"
-last_updated: "2013-03-21"
+last_updated: "2013-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93447&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 821 PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE MAYO DE 2013.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el jueves 21 de marzo de 2013.
 
@@ -55,9 +55,7 @@ La presente Ley es de orden público e interés social, y tiene por objeto:
 
 I. La prevención, investigación, persecución y sanción de los delitos en materia de trata de personas; con especial atención a las mujeres, a las niñas y niños, a las personas con discapacidad, así como a las personas adultas mayores;
 
-(NOTA: EL 4 DE NOVIEMBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2013, DECLARÓ LA INVALIDEZ DE ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 22 DE MARZO DE 2013 DE ACUERDO A LO SEÑALADO EN LA PROPIA SENTENCIA QUE PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-II. ESTABLECER LOS TIPOS PENALES Y LOS PROCEDIMIENTOS APLICABLES A ESTOS DELITOS;
+II. (DEROGADA, G.O. 9 DE MAYO DE 2013)
 
 III. Implementar mecanismos efectivos para tutelar la vida, la dignidad, la libertad y la seguridad de las víctimas o posibles víctimas de trata, residentes o trasladadas al territorio estatal, a fin de garantizarles el respeto al libre desarrollo de su personalidad y a la integralidad de sus derechos; y
 
@@ -173,299 +171,137 @@ Para tales efectos, deberán valorarse la identidad y las condiciones personales
 
 ### CAPÍTULO II. De los Delitos en Materia de Trata de Personas
 
-(NOTA: EL 4 DE NOVIEMBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2013, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 22 DE MARZO DE 2013 DE ACUERDO A LO SEÑALADO EN LA PROPIA SENTENCIA QUE PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADO, G.O. 9 DE MAYO DE 2013)</small>
 
 ###### Artículo 8.
 
-Comete el delito de trata de personas quien por acción u omisión dolosa induzca, procure, promueva, facilite, reclute, mantenga, capte, ofrezca, solicite, consiga, traslade, entregue o reciba para sí, o para un tercero, a una persona por medio de la violencia física, psicológica o moral, de la privación de la libertad, de la seducción, del engaño, del abuso de poder, del fraude o de una situación de vulnerabilidad, o de la concesión de pagos o recepción de beneficios, para obtener el consentimiento de una persona que tenga autoridad sobre otra, con fines de explotación.
-
-Se entenderá por explotación de una persona, en términos de la presente Ley:
-
-I. La esclavitud, referida en el artículo 9;
-
-II. La condición de siervo, de conformidad con el artículo 10;
-
-III. La prostitución ajena u otras formas de explotación sexual, conforme a los artículos 11 a 15;
-
-IV. La explotación laboral, según el artículo 16;
-
-V. La realización de trabajos domésticos como lo señala el artículo 17;
-
-VI. El trabajo o servicios forzados, referido en el artículo 18;
-
-VII. La mendicidad forzosa, descrita en el artículo 20;
-
-VIII. La utilización de personas menores de dieciocho años en actividades delictivas, conforme al artículo 21;
-
-IX. La adopción ilegal de persona menor de dieciocho años, señalada en los artículos 22 y 23;
-
-X. El matrimonio forzoso o servil, previsto en los artículos 24 y 25;
-
-XI. El tráfico de órganos, tejidos y células de seres humanos vivos, según el artículo 26; y
-
-XII. La experimentación biomédica ilícita en seres humanos, señalada en el artículo 27.
-
-(NOTA: EL 4 DE NOVIEMBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2013, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 22 DE MARZO DE 2013 DE ACUERDO A LO SEÑALADO EN LA PROPIA SENTENCIA QUE PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+Las referencias que en el presente ordenamiento se hagan a los delitos en materia de trata de personas, se deberán entender referidos a los delitos contemplados por el Capítulo II y los artículos 10 al 38 de la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos.
 
 ###### Artículo 9.
 
-Quien tenga o mantenga a otra persona en una situación de esclavitud, será sancionado con pena de quince a treinta años de prisión y multa de cien a seiscientos días de salario.
-
-Se entiende por esclavitud el dominio de una persona sobre otra, dejándola sin capacidad de disponer libremente de su propia persona ni de sus bienes y ejerciendo sobre ella, de hecho, atributos del derecho de propiedad.
-
-(NOTA: EL 4 DE NOVIEMBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2013, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 22 DE MARZO DE 2013 DE ACUERDO A LO SEÑALADO EN LA PROPIA SENTENCIA QUE PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(DEROGADO, G.O. 9 DE MAYO DE 2013)
 
 ###### Artículo 10.
 
-Quien tenga o mantenga a una persona en condición de siervo será sancionado con pena de cinco a diez años de prisión y multa de cien a seiscientos días de salario.
-
-Tiene condición de siervo:
-
-I. Por deudas: La persona que en condición de deudor se haya comprometido a prestar sus servicios personales, o los de alguien sobre quien ejerce autoridad, como garantía de una deuda, si los servicios prestados, equitativamente valorados, no se aplican al pago de la deuda, o si no se limita su duración ni se define la naturaleza de dichos servicios; y
-
-II. Por gleba: aquel a quien:
-
-a. Se le impide cambiar su condición a vivir o a trabajar sobre una tierra que pertenece a otra persona;
-
-b. Se le obliga a prestar servicios, remunerados o no, sin que pueda abandonar la tierra que pertenece a otra persona; o
-
-c. Por no poder abandonar un predio, se ejerzan sobre su persona acciones que se pretendan derivar de los derechos de propiedad sobre el inmueble.
-
-(NOTA: EL 4 DE NOVIEMBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2013, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 22 DE MARZO DE 2013 DE ACUERDO A LO SEÑALADO EN LA PROPIA SENTENCIA QUE PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(DEROGADO, G.O. 9 DE MAYO DE 2013)
 
 ###### Artículo 11.
 
-Será sancionado con pena de quince a treinta años de prisión y multa de cien a setecientos días de salario el que se beneficie de la explotación de una o más personas a través de la prostitución, la pornografía, las exhibiciones públicas o privadas de orden sexual, el turismo sexual o cualquier otra actividad sexual remunerada mediante:
-
-I. El engaño;
-
-II. La violencia física o moral;
-
-III. El abuso de poder;
-
-IV. El aprovechamiento de una situación de vulnerabilidad; y
-
-V. El daño grave o amenaza de daño grave; o la amenaza de denunciarlas ante autoridades respecto a su situación migratoria en el país o cualquier otro abuso de la utilización de la ley o procedimientos legales, que provoque que el sujeto pasivo se someta a las exigencias del activo.
-
-Tratándose de personas menores de edad o que no tengan la capacidad de comprender el significado del hecho no se requerirá la comprobación de los medios a los que hacen referencia las fracciones del presente artículo.
-
-(NOTA: EL 4 DE NOVIEMBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2013, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 22 DE MARZO DE 2013 DE ACUERDO A LO SEÑALADO EN LA PROPIA SENTENCIA QUE PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(DEROGADO, G.O. 9 DE MAYO DE 2013)
 
 ###### Artículo 12.
 
-Será sancionado con pena de cinco a quince años de prisión y multa de cien a setecientos días de salario el que se beneficie económicamente de la explotación de una persona mediante el comercio, distribución, exposición, circulación u oferta de libros, revistas, escritos, grabaciones, filmes, fotografías, anuncios impresos, imágenes u objetos, de carácter lascivo o sexual, reales o simulados, sea de manera física, o a través de cualquier medio.
-
-No se sancionará a quien incurra en estas conductas con material que signifique o tenga como fin la divulgación científica, artística o técnica o, en su caso, la educación sexual o reproductiva. En caso de duda sobre la naturaleza de este material, el juez solicitará dictamen de peritos para evaluar la conducta en cuestión.
-
-(NOTA: EL 4 DE NOVIEMBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2013, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 22 DE MARZO DE 2013 DE ACUERDO A LO SEÑALADO EN LA PROPIA SENTENCIA QUE PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(DEROGADO, G.O. 9 DE MAYO DE 2013)
 
 ###### Artículo 13.
 
-Se impondrá pena de quince a treinta años de prisión y multa de quinientos a mil días de salario, así como el decomiso de los objetos, instrumentos y productos del delito, incluyendo la destrucción de los materiales resultantes, al que procure, promueva, obligue, publicite, gestione, facilite o induzca, por cualquier medio, a una persona menor de dieciocho años de edad, o que no tenga la capacidad de comprender el significado del hecho, o no tenga capacidad de resistir la conducta, a realizar actos sexuales o de exhibicionismo corporal, con fines sexuales, reales o simulados, con el objeto de producir material a través de video grabarla, audio grabarla, fotografiarla, filmarla, exhibirla o describirla a través de anuncios impresos, sistemas de cómputo, electrónicos o sucedáneos, y se beneficie económicamente de la explotación de la persona.
-
-Si se hiciere uso de la fuerza, el engaño, la violencia física o psicológica, la coerción, el abuso de poder o de una situación de vulnerabilidad, las adicciones, una posición jerárquica o de confianza, o la concesión o recepción de pagos o beneficios para obtener el consentimiento de una persona que tenga autoridad sobre otra o cualquier otra circunstancia que disminuya o elimine la voluntad de la víctima para resistirse, la pena prevista en el párrafo anterior se aumentará en una mitad.
-
-Se impondrán las mismas sanciones previstas en el primer párrafo del presente artículo a quien financie, elabore, reproduzca, almacene, distribuya, comercialice, arriende, exponga, publicite, difunda, adquiera, intercambie o comparta, por cualquier medio, el material a que se refiere el primer párrafo del presente artículo.
-
-(NOTA: EL 4 DE NOVIEMBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2013, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 22 DE MARZO DE 2013 DE ACUERDO A LO SEÑALADO EN LA PROPIA SENTENCIA QUE PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(DEROGADO, G.O. 9 DE MAYO DE 2013)
 
 ###### Artículo 14.
 
-Se impondrá pena de cinco a quince años de prisión y multa de cien a seiscientos días de salario al que almacene, adquiera o arriende, para sí o para un tercero, el material a que se refiere el artículo anterior, sin fines de comercialización o distribución.
-
-(NOTA: EL 4 DE NOVIEMBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2013, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 22 DE MARZO DE 2013 DE ACUERDO A LO SEÑALADO EN LA PROPIA SENTENCIA QUE PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(DEROGADO, G.O. 9 DE MAYO DE 2013)
 
 ###### Artículo 15.
 
-Se impondrá pena de quince a veinticinco años de prisión y multa de cien a setecientos días de salario al que promueva, publicite, invite, facilite o gestione por cualquier medio que una o más personas viajen al interior o exterior del territorio nacional con la finalidad de que realicen cualquier tipo de actos sexuales, reales o simulados, con una o varias personas menores de dieciocho años de edad, o con una o varias personas que no tengan capacidad para comprender el significado del hecho o con una o varias personas que no tengan capacidad para resistirlo, y se beneficie económicamente de ello.
-
-(NOTA: EL 4 DE NOVIEMBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2013, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 22 DE MARZO DE 2013 DE ACUERDO A LO SEÑALADO EN LA PROPIA SENTENCIA QUE PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(DEROGADO, G.O. 9 DE MAYO DE 2013)
 
 ###### Artículo 16.
 
-Será sancionado con pena de tres a diez años de prisión y multa de trescientos a ochocientos días de salario quien explote laboralmente a una o más personas.
-
-Existe explotación laboral cuando una persona obtiene, directa o indirectamente, beneficio injustificable, económico o de otra índole, de manera ilícita, mediante el trabajo ajeno, sometiendo a la persona a prácticas que atenten contra su dignidad, tales como:
-
-I. Condiciones peligrosas o insalubres, sin las protecciones necesarias de acuerdo a la legislación laboral o las normas existentes para el desarrollo de una actividad o industria;
-
-II. Existencia de una manifiesta desproporción entre la cantidad de trabajo realizado y el pago efectuado por ello; o
-
-III. Salario por debajo de lo legalmente establecido.
-
-(NOTA: EL 4 DE NOVIEMBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2013, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 22 DE MARZO DE 2013 DE ACUERDO A LO SEÑALADO EN LA PROPIA SENTENCIA QUE PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(DEROGADO, G.O. 9 DE MAYO DE 2013)
 
 ###### Artículo 17.
 
-A quien, en la realización de trabajos domésticos dentro de su hogar, o en una unidad doméstica, imponga mediante engaño o abuso de necesidad, a una persona a su servicio, condiciones que perjudiquen, supriman o restrinjan sus derechos humanos, o concurra alguna de las señaladas en las fracciones del artículo anterior, se le impondrán de uno a tres años de prisión.
-
-(NOTA: EL 4 DE NOVIEMBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2013, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 22 DE MARZO DE 2013 DE ACUERDO A LO SEÑALADO EN LA PROPIA SENTENCIA QUE PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(DEROGADO, G.O. 9 DE MAYO DE 2013)
 
 ###### Artículo 18.
 
-Será sancionado con pena de diez a veinte años de prisión y multa de trescientos a ochocientos días de salario quien tenga o mantenga a una persona en trabajos forzados.
-
-Hay trabajo forzado cuando el mismo se obtiene mediante:
-
-I. Coerción, uso de la fuerza, amenaza o cualquier otro tipo de restricción física, moral o psicológica;
-
-II. Daño grave o amenaza de daño grave a esa persona que la ponga en condiciones de vulnerabilidad; y
-
-III. El abuso o amenaza de la denuncia ante las autoridades de su situación migratoria irregular en el país o de cualquier otro abuso en la utilización de la ley o proceso legal, que provoque que el sujeto pasivo se someta a condiciones injustas o que atenten contra su dignidad.
+(DEROGADO, G.O. 9 DE MAYO DE 2013)
 
 ###### Artículo 19.
 
-No se considerará que hay trabajo o servicio forzado ni explotación laboral, cuando:
-
-I. Se exija en virtud de las leyes sobre el servicio militar obligatorio;
-
-II. Forme parte de las obligaciones cívicas normales de los ciudadanos hacia la Federación, el Estado o los municipios;
-
-III. Se exija a una persona en virtud de una condena pronunciada por sentencia judicial, o en los términos del Artículo 21 Constitucional como trabajo a favor de la comunidad, a condición de que este trabajo o servicio se realice bajo la vigilancia y control de las autoridades públicas, y que dicha persona no sea cedida o puesta a disposición de particulares, compañías o personas jurídicas de carácter privado; o
-
-IV. Los trabajos sean voluntarios y realizados por integrantes de una comunidad en beneficio directo de la misma y, por consiguiente, puedan considerarse como obligaciones cívicas normales que incumben a los miembros de la comunidad local, nacional o a una organización internacional, a grupos o asociaciones de la sociedad civil e instituciones de beneficencia pública o privada.
-
-(NOTA: EL 4 DE NOVIEMBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2013, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 22 DE MARZO DE 2013 DE ACUERDO A LO SEÑALADO EN LA PROPIA SENTENCIA QUE PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(DEROGADO, G.O. 9 DE MAYO DE 2013)
 
 ###### Artículo 20.
 
-Será sancionado con prisión de cuatro a nueve años y multa de cincuenta a seiscientos días de salario a quien utilice a una persona para realizar actos de mendicidad.
-
-Se entiende por explotación de la mendicidad ajena, obtener un beneficio al obligar a una persona a pedir limosna o caridad contra su voluntad, recurriendo a la amenaza de daño grave, a un daño grave o al uso de la fuerza u otras formas de coacción, o el engaño.
-
-Si se utiliza con los fines del párrafo primero de este artículo a personas menores de dieciocho años, mayores de setenta, mujeres embarazadas, personas con lesiones, enfermedades o discapacidad física o psicológica, se impondrá pena de nueve a quince años de prisión y multa de cien a setecientos días de salario.
-
-(NOTA: EL 4 DE NOVIEMBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2013, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 22 DE MARZO DE 2013 DE ACUERDO A LO SEÑALADO EN LA PROPIA SENTENCIA QUE PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(DEROGADO, G.O. 9 DE MAYO DE 2013)
 
 ###### Artículo 21.
 
-Será sancionado con pena de diez a veinte años de prisión y multa de cien a seiscientos días de salario a quien utilice a personas menores de dieciocho años en cualquiera de las actividades delictivas señaladas en el artículo 2° de la Ley Federal contra la Delincuencia Organizada.
-
-(NOTA: EL 4 DE NOVIEMBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2013, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 22 DE MARZO DE 2013 DE ACUERDO A LO SEÑALADO EN LA PROPIA SENTENCIA QUE PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(DEROGADO, G.O. 9 DE MAYO DE 2013)
 
 ###### Artículo 22.
 
-Se impondrá pena de veinte a cuarenta años de prisión y multa de doscientos a seiscientos días de salario al padre, madre, tutor o persona que tenga autoridad sobre quien se ejerce la conducta, que entregue o reciba de forma ilegal, ilícita, irregular o incluso mediante adopción, a una persona menor de dieciocho años con el fin de abusar o explotar de ella sexualmente o cualquiera de las formas de explotación a que se refiere el artículo 8 de la presente Ley.
-
-En todos los casos en que se acredite esta conducta se declarará nula la adopción.
-
-(NOTA: EL 4 DE NOVIEMBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2013, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 22 DE MARZO DE 2013 DE ACUERDO A LO SEÑALADO EN LA PROPIA SENTENCIA QUE PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(DEROGADO, G.O. 9 DE MAYO DE 2013)
 
 ###### Artículo 23.
 
-Se impondrá pena de tres a diez años de prisión y multa de cien a doscientos días de salario al que entregue en su carácter de padre o tutor o persona que tiene autoridad sobre quien se ejerce la conducta, o reciba a título oneroso, en su carácter de adoptante de forma ilegal, ilícita o irregular, a una persona menor de dieciocho años.
-
-No se procederá en contra de quien de buena fe haya recibido a una persona en condición irregular, con el fin de integrarla como parte de su núcleo familiar con todas sus consecuencias.
-
-(NOTA: EL 4 DE NOVIEMBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2013, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 22 DE MARZO DE 2013 DE ACUERDO A LO SEÑALADO EN LA PROPIA SENTENCIA QUE PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(DEROGADO, G.O. 9 DE MAYO DE 2013)
 
 ###### Artículo 24.
 
-Se impondrá pena de cuatro a diez años de prisión y multa de treinta a doscientos días de salario, además de la declaratoria de nulidad de matrimonio, al que:
-
-I. Obligue a contraer matrimonio a una persona, de manera gratuita o a cambio de pago en dinero o en especie entregada a sus padres, tutor, familia o a cualquier otra persona o grupo de personas que ejerza una autoridad sobre ella; o
-
-II. Obligue a contraer matrimonio a una persona con el fin de prostituirla o someterla a esclavitud o prácticas similares.
-
-(NOTA: EL 4 DE NOVIEMBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2013, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 22 DE MARZO DE 2013 DE ACUERDO A LO SEÑALADO EN LA PROPIA SENTENCIA QUE PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(DEROGADO, G.O. 9 DE MAYO DE 2013)
 
 ###### Artículo 25.
 
-Se impondrá pena de veinte a cuarenta años de prisión y multa de doscientos a setecientos días de salario al que realice explotación sexual aprovechándose de la relación matrimonial o de concubinato. En todos los casos en que se acredite esta conducta se declarará nulo el matrimonio.
-
-(NOTA: EL 4 DE NOVIEMBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2013, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 22 DE MARZO DE 2013 DE ACUERDO A LO SEÑALADO EN LA PROPIA SENTENCIA QUE PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(DEROGADO, G.O. 9 DE MAYO DE 2013)
 
 ###### Artículo 26.
 
-Se impondrá pena de quince a veinticinco años de prisión y multa de doscientos a setecientos días de salario a quien realice la extracción, remoción u obtención de un órgano, tejido o células de seres humanos vivos, a cambio de un beneficio o a través de una transacción comercial, sin incluir los procedimientos médicos lícitos para los cuales se ha obtenido el debido consentimiento, en los términos de lo establecido por la Ley General de Salud.
-
-(NOTA: EL 4 DE NOVIEMBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2013, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 22 DE MARZO DE 2013 DE ACUERDO A LO SEÑALADO EN LA PROPIA SENTENCIA QUE PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(DEROGADO, G.O. 9 DE MAYO DE 2013)
 
 ###### Artículo 27.
 
-Se impondrá pena de tres a cinco años de prisión y multa de doscientos a setecientos días de salario a quien aplique sobre una persona o un grupo de personas procedimientos, técnicas o medicamentos no aprobados legalmente y que contravengan las disposiciones legales en la materia.
-
-(NOTA: EL 4 DE NOVIEMBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2013, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 22 DE MARZO DE 2013 DE ACUERDO A LO SEÑALADO EN LA PROPIA SENTENCIA QUE PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(DEROGADO, G.O. 9 DE MAYO DE 2013)
 
 ###### Artículo 28.
 
-Se impondrá pena de dos a siete años de prisión y multa de cien a doscientos días de salario al que, en cualquier medio impreso, electrónico o cibernético contrate, de manera directa o indirecta, espacios para la publicación de anuncios que encuadren en los supuestos de publicidad ilícita o engañosa, con el fin de facilitar, promover o procurar que se lleve a cabo cualquiera de las conductas delictivas objeto de la presente Ley.
-
-(NOTA: EL 4 DE NOVIEMBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2013, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 22 DE MARZO DE 2013 DE ACUERDO A LO SEÑALADO EN LA PROPIA SENTENCIA QUE PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(DEROGADO, G.O. 9 DE MAYO DE 2013)
 
 ###### Artículo 29.
 
-Se aplicará pena de cinco a quince años de prisión y multa de cien a seiscientos días de salario a quien dirija, gestione o edite un medio impreso, electrónico o cibernético que, incumpliendo lo dispuesto por esta Ley, publique contenidos a través de los cuales facilite, promueva o procure cualquiera de las conductas delictivas objeto de la misma.
-
-(NOTA: EL 4 DE NOVIEMBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2013, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 22 DE MARZO DE 2013 DE ACUERDO A LO SEÑALADO EN LA PROPIA SENTENCIA QUE PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(DEROGADO, G.O. 9 DE MAYO DE 2013)
 
 ###### Artículo 30.
 
-El que alquile o dé en comodato un bien inmueble, casa o habitación, con conocimiento de que será utilizado para la comisión de cualquiera de las conductas señaladas en el presente capítulo, será sancionado con pena de dos a siete años de prisión y multa de trescientos a seiscientos días de salario.
-
-(NOTA: EL 4 DE NOVIEMBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2013, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 22 DE MARZO DE 2013 DE ACUERDO A LO SEÑALADO EN LA PROPIA SENTENCIA QUE PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(DEROGADO, G.O. 9 DE MAYO DE 2013)
 
 ###### Artículo 31.
 
-Se sancionará con pena de dos a cuarenta años de prisión y multa de cien a seiscientos cincuenta días de salario, además de las que resulten por la comisión de conductas previstas en otros ordenamientos legales aplicables, al que, a sabiendas de su situación de víctima de algún delito previsto en esta Ley, utilice servicios de una persona para cualquiera de los fines que la misma sanciona.
-
-(NOTA: EL 4 DE NOVIEMBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2013, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 22 DE MARZO DE 2013 DE ACUERDO A LO SEÑALADO EN LA PROPIA SENTENCIA QUE PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(DEROGADO, G.O. 9 DE MAYO DE 2013)
 
 ###### Artículo 32.
 
-Además de lo que al respecto disponga el Código Penal, se aplicará pena de tres a seis años de prisión y multa de cien a cuatrocientos días de salario al que divulgue, sin motivo fundado, información reservada o confidencial relacionada con los delitos, procesos y personas objeto de esta Ley.
-
-Si el sujeto es o hubiere sido integrante de una institución de seguridad pública, de procuración de justicia, de los centros de reclusión preventiva o penitenciaria o del Poder Judicial, la pena será de seis a doce años de prisión y de doscientos a quinientos días de salario.
+(DEROGADO, G.O. 9 DE MAYO DE 2013)
 
 ###### Artículo 33.
 
-No se procederá en contra de la víctima de los delitos previstos en esta Ley por delitos que hubiere cometido bajo el control o amenaza de sus victimarios, cuando no sea responsable por otra conducta.
+(DEROGADO, G.O. 9 DE MAYO DE 2013)
 
 ###### Artículo 34.
 
-El consentimiento otorgado por la víctima, cualquiera que sea su edad y en cualquier modalidad de los delitos previstos en esta Ley, no constituirá causa excluyente de responsabilidad penal, cuando se haya recurrido a cualquiera de los medios comisivos enunciados.
+(DEROGADO, G.O. 9 DE MAYO DE 2013)
 
 ### CAPÍTULO III. Reglas Comunes para los Delitos Previstos en esta Ley
 
 ###### Artículo 35.
 
-La tentativa en los delitos objeto de esta Ley tendrá el carácter de punible y deberá sancionarse en los términos del artículo 28 del Código Penal.
+(DEROGADO, G.O. 9 DE MAYO DE 2013)
 
 ###### Artículo 36.
 
-Las penas previstas en este Título se aplicarán también a quien prepare, promueva, incite, facilite, colabore u oculte los delitos materia de esta Ley.
+(DEROGADO, G.O. 9 DE MAYO DE 2013)
 
 ###### Artículo 37.
 
-Las penas previstas en este Título se aumentarán hasta en una mitad cuando:
-
-I. El delito comprenda más de una víctima;
-
-II. El sujeto activo del delito tenga parentesco con la víctima o habite en el mismo domicilio de ésta, aunque no existiera parentesco alguno, o sea tutor o curador de la víctima; además, según las circunstancias del hecho, podrá perder la patria potestad, la guarda o custodia o régimen de visitas o convivencia, el derecho a recibir alimentos que le correspondiere por su relación con la víctima y el derecho que pudiere tener respecto a los bienes de ésta;
-
-III. Se utilice violencia, intimidación, engaño, privación de libertad, fanatismo religioso o tratos crueles, inhumanos o degradantes;
-
-IV. El delito cause la muerte o el suicidio de la víctima;
-
-V. El delito ponga en peligro la vida de la víctima deliberadamente o debido a negligencia;
-
-VI. El delito cause daño o lesiones corporales graves a la víctima y enfermedades psicológicas o físicas;
-
-VII. El delito sea cometido contra una mujer embarazada; persona con discapacidad física o psicológica, menor de dieciocho años de edad o de la tercera edad que no tengan capacidad de valerse por sí mismas;
-
-VIII. La víctima pertenezca a un grupo indígena y en razón de ello esté en condición de desventaja o de vulnerabilidad;
-
-IX. El autor del delito haya suministrado a la víctima substancias de las prohibidas por la Ley General de Salud; o
-
-X. El autor del delito tenga una posición de responsabilidad o confianza respecto de la víctima.
+(DEROGADO, G.O. 9 DE MAYO DE 2013)
 
 ###### Artículo 38.
 
-Cuando en la comisión de alguna de las conductas delictivas que configuran la trata de personas concurra otro delito, se aplicarán las reglas del concurso establecidas en el Libro Primero, Título Segundo, Capítulo VI del Código Penal.
+(DEROGADO, G.O. 9 DE MAYO DE 2013)
 
 ###### Artículo 39.
 
-La pena se incrementará hasta en dos terceras partes cuando el responsable del delito realice, además, acciones de mando o financiamiento a otras personas para que cometan cualquiera de los delitos objeto de esta Ley. El juez ordenará el decomiso de los bienes utilizados para cometer el delito, así como de las utilidades obtenidas por la comisión de los mismos.
+(DEROGADO, G.O. 9 DE MAYO DE 2013)
 
 ###### Artículo 40.
 
@@ -1111,7 +947,7 @@ T R A N S I T O R I O S
 
 Primero. La presente Ley entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial del estado.
 
-Segundo. Se deroga la Ley para Prevenir, Atender, Combatir, Sancionar y Erradicar la Trata de Personas para el Estado de Veracruz de Ignacio de la Llave, publicada en la Gaceta Oficial del estado el día 5 de noviembre de 2010..
+Segundo. Se deroga la Ley para Prevenir, Atender, Combatir, Sancionar y Erradicar la Trata de Personas para el Estado de Veracruz de Ignacio de la Llave, publicada en la Gaceta Oficial del estado el día 5 de noviembre de 2010.
 
 Tercero. El Gobernador del Estado emitirá, en un plazo de noventa días a partir de la publicación de esta Ley, el Reglamento de la misma.
 
@@ -1148,3 +984,11 @@ Dr. Javier Duarte de Ochoa
 Gobernador del Estado
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 9 DE MAYO DE 2013.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas aquellas disposiciones permanentes o transitorias que contravengan el presente Decreto.
