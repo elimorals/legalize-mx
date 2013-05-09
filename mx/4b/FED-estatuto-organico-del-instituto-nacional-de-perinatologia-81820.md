@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-nacional-de-perinatologia-81820
 country: "mx"
 rank: "estatuto"
 publication_date: "2011-06-24"
-last_updated: "2011-06-24"
+last_updated: "2013-05-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81820&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2011-06-02"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO NACIONAL DE PERINATOLOGIA ISIDRO ESPINOSA DE LOS REYES
 
-ESTATUTO ORGANICO DEL INSTITUTO NACIONAL DE PERINATOLOGIA ISIDRO ESPINOSA DE LOS REYES
+ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE PERINATOLOGÍA ISIDRO ESPINOSA DE LOS REYES
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE PERINATOLOGÍA ISIDRO ESPINOSA DE LOS REYES, PUBLICADO EN EL D.O.F. DE 9 DE MAYO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: ABROGADO.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 24 de junio de 2011.
 
@@ -1144,3 +1146,15 @@ El Director General del Instituto deberá inscribir este Estatuto en el Registro
 Aprobado en la Ciudad de México, Distrito Federal, el treinta y uno de marzo de dos mil once.
 
 México, D.F., a 2 de junio de 2011.- El Director General del Instituto Nacional de Perinatología Isidro Espinosa de los Reyes, Javier Mancilla Ramírez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 9 DE MAYO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Estatuto Orgánico del INPer entra en vigor al día siguiente de su aprobación por la Junta de Gobierno.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Estatuto Orgánico del INPer publicado en el Diario Oficial de la Federación el 24 de junio de 2011, y se modifica el aprobado por la Junta de Gobierno el 8 de marzo de 2012 e inscrito en el Registro Público de Organismos Descentralizados el 27 de marzo de 2012.
