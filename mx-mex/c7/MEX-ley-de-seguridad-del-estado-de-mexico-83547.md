@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-seguridad-del-estado-de-mexico-83547"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-19"
-last_updated: "2011-10-19"
+last_updated: "2013-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE SEGURIDAD DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE MAYO DE 2013.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el miércoles 19 de octubre de 2011.
 
@@ -1235,9 +1235,11 @@ XX. Las demás que le otorga esta Ley y otras disposiciones aplicables.
 
 El Consejo Ciudadano estará integrado por diecinueve Consejeros Ciudadanos, representantes de la sociedad civil organizada, organismos empresariales, instituciones académicas, colegios y asociaciones de profesionistas, así como de los medios de comunicación; de los cuales la mitad serán mujeres, de entre quienes se elegirá al Presidente y Secretario en términos del Estatuto Orgánico.
 
+> <small>(REFORMADO, G.G. 9 DE MAYO DE 2013)</small>
+
 ###### Artículo 87.
 
-Para ser Consejero Ciudadano se requiere gozar de reconocido prestigio y experiencia en materia de seguridad pública, así como estar en pleno goce y ejercicio de sus derechos políticos y civiles.
+Para ser Consejero Ciudadano se requiere gozar de reconocido prestigio, preferentemente contar con conocimientos en materia de seguridad pública, así como estar en pleno goce y ejercicio de sus derechos políticos y civiles.
 
 ###### Artículo 88.
 
@@ -2610,3 +2612,17 @@ EL SECRETARIO GENERAL DE GOBIERNO
 LIC. ERNESTO JAVIER NEMER ALVAREZ
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 9 DE MAYO DE 2013.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- El Ejecutivo del Estado proveerá lo necesario para dar cumplimiento al presente Decreto.
+
+CUARTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+QUINTO.- El Consejo Estatal de Seguridad Pública, en un plazo no mayor a tres meses contados a partir de la publicación del presente Decreto, ordenará la publicación de la convocatoria para integrar el Consejo Ciudadano de Seguridad Pública en el Periódico Oficial "Gaceta del Gobierno".
