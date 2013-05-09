@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-tribunal-electoral-del-distrito-83471"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-11-07"
-last_updated: "2012-03-01"
+last_updated: "2013-05-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83471&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2011-10-27"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 1 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE MAYO DE 2013.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 7 de noviembre de 2011.
 
@@ -86,9 +86,9 @@ i) Dirección General Jurídica: La Dirección General Jurídica del Tribunal El
 
 j) Coordinaciones: La Coordinación de Transparencia y Archivo, y la Coordinación de Comunicación Social y Relaciones Públicas;
 
-> <small>(REFORMADO, G.O. 1 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, G.O. 9 DE MAYO DE 2013)</small>
 
-k) Unidades: La Unidad de Tecnologías de la Información, la Unidad de Jurisprudencia y Estadística y la Unidad de Promoción de los Derechos Político Electorales y de Relación con Organismos Electorales Nacionales e Internacionales, y
+k) Unidades: La Unidad de Tecnologías de la Información y la Unidad de Jurisprudencia y Estadística, y
 
 l) Centro de Capacitación: El Centro de Capacitación del Tribunal Electoral del Distrito Federal.
 
@@ -108,9 +108,9 @@ f) Sentencia: La resolución aprobada por el Pleno del Tribunal Electoral del Di
 
 g) Sistema de medios de impugnación: El conjunto de procedimientos contenciosos establecidos en la Ley Procesal Electoral para el Distrito Federal, para garantizar la legalidad y definitividad de los actos y resoluciones electorales, así como la salvaguarda de los derechos político electorales de las y los ciudadanos, y
 
-> <small>(REFORMADO, G.O. 1 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, G.O. 9 DE MAYO DE 2013)</small>
 
-h) Titular(es) de área: Presidente/a; Magistrados/as Electorales; Secretario/a General, Secretario/a Administrativo/a; Contralor/a General; Director/a General Jurídico/a; Coordinadores/as de la Coordinación de Transparencia y Archivo, y de Comunicación Social y Relaciones Públicas; Directores/as del Centro de Capacitación, de la Unidad de Tecnologías de la Información, de la Unidad de Jurisprudencia y Estadística y de la Unidad de Promoción de los Derechos Político Electorales y de Relación con Organismos Electorales Nacionales e Internacionales.
+h) Titular(es) de área: Presidente/a; Magistrados/as Electorales; Secretario/a General, Secretario/a Administrativo/a; Contralor/a General; Director/a General Jurídico/a; Coordinadores/as de la Coordinación de Transparencia y Archivo, y de Comunicación Social y Relaciones Públicas; Directores/as del Centro de Capacitación, de la Unidad de Tecnologías de la Información y de la Unidad de Jurisprudencia y Estadística.
 
 ## TÍTULO SEGUNDO. DEL TRIBUNAL
 
@@ -150,13 +150,13 @@ c) Centro de Capacitación.
 
 IX. Unidades:
 
-> <small>(REFORMADO, G.O. 1 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, G.O. 9 DE MAYO DE 2013)</small>
 
-a) Unidad de Tecnologías de la Información;
+a) Unidad de Tecnologías de la Información, y
 
-> <small>(REFORMADO, G.O. 1 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, G.O. 9 DE MAYO DE 2013)</small>
 
-b) Unidad de Jurisprudencia y Estadística, y
+b) Unidad de Jurisprudencia y Estadística.
 
 > <small>(ADICIONADO, G.O. 1 DE MARZO DE 2012)</small>
 
@@ -190,7 +190,9 @@ V. Elaborar y remitir a la Secretaría Administrativa sus propuestas para integr
 
 VI. Ejecutar los proyectos establecidos en el Programa Operativo Anual del Tribunal aprobado por el Pleno, las actividades señaladas en sus programas de trabajo, así como las labores específicas que les asigne el Pleno y la o el Presidente, en el ámbito de sus respectivas competencias;
 
-VII. Coordinar la implementación de las líneas de acción del Programa de Derechos Humanos del Distrito Federal que les correspondan, o bien, participar en la implementación de las mismas, proporcionar la información relacionada con el avance de las actividades y acciones previstas para su ejecución, y designar al personal que fungirá como enlace y asistirá a los eventos vinculados con este programa;
+> <small>(REFORMADA, G.O. 9 DE MAYO DE 2013)</small>
+
+VII. Desempeñar sus funciones con un enfoque de derechos humanos y equidad de género en observancia a las disposiciones constitucionales, instrumentos internacionales y leyes especializadas en la materia aplicables al Tribunal, dentro del marco de sus atribuciones;
 
 VIII. Dar a conocer al personal a su cargo, las determinaciones plenarias que deban observar en el marco de sus funciones y recabar el acuse de recibo respectivo;
 
@@ -198,7 +200,9 @@ IX. Proporcionar la información y documentación que les requiera el Pleno, por
 
 X. Proporcionar la información necesaria, a efecto de que la o el Presidente, esté en posibilidad de rendir los informes a que se refiere el Código;
 
-XI. Elaborar los anteproyectos de la normativa interna, manuales y procedimientos administrativos relacionados con su operación, en su caso, proponer modificaciones para su actualización;
+> <small>(REFORMADO, G.O. 9 DE MAYO DE 2013)</small>
+
+XI. Elaborar los anteproyectos de la normativa interna, manuales y procedimientos administrativos relacionados con su operación, en su caso, formular modificaciones para su actualización, y someter las propuestas a la consideración del Pleno, por conducto de la o del Magistrado Presidente;
 
 XII. Proponer a la o al Presidente la celebración de convenios de apoyo y colaboración interinstitucional, así como con particulares, relacionados con sus atribuciones;
 
@@ -412,7 +416,7 @@ Si quien presenta la excusa o el recusado es la o el Presidente, éste/a podrá 
 
 Además de las atribuciones conferidas por el Código y la Ley Procesal Electoral, la Comisión de Conciliación y Arbitraje tiene las siguientes:
 
-I. Coadyuvar en el diseño, creación e implementación institucional de la política laboral y del Programa del Servicio Social y Prácticas Profesionales del Tribunal;
+I. (DEROGADA, G.O. 9 DE MAYO DE 2013)
 
 II. Emitir opinión en asuntos jurídicos, laborales o administrativos internos, cuando así lo solicite el Pleno;
 
@@ -420,7 +424,7 @@ III. Coadyuvar en la elaboración de propuestas de reformas legales y reglamenta
 
 IV. Participar con la Secretaría Administrativa, Dirección General Jurídica y Contraloría, en las reuniones de análisis de aquellos asuntos que determine el Pleno, así como la o el Presidente;
 
-V. Participar en el diseño y, en su caso, implementación de la Política Ambiental Laboral para el manejo sustentable de los recursos dentro del Tribunal y el Programa de Medio Ambiente en el Trabajo, y
+V. (DEROGADA, G.O. 9 DE MAYO DE 2013), y
 
 VI. Las demás que le confieran las disposiciones aplicables o las que le encomiende el Pleno.
 
@@ -540,51 +544,39 @@ IV. No encontrarse impedido para ocupar el cargo, de conformidad con el artícul
 
 V. Tener los conocimientos y experiencia necesarios para desempeñar el cargo.
 
+> <small>(REFORMADO, G.O. 9 DE MAYO DE 2013)</small>
+
 ###### Artículo 31.
 
 El/la Secretario/a Técnico/a auxiliará y apoyará a la Secretaría General en el ejercicio de las atribuciones siguientes:
 
-I. Apoyar al Secretario General en la elaboración de las actas de las sesiones y reuniones del Pleno;
+I. Elaborar las actas de las sesiones y reuniones del Pleno y de los acuerdos derivados de las determinaciones adoptadas por el Pleno y, en su caso, atender las observaciones que sobre el particular formulen las y los Magistrados;
 
-II. Registrar cronológicamente las sesiones y reuniones del Pleno;
+II. Verificar la continuidad de los proyectos de la Secretaría General contenidos en el Programa Operativo Anual del Tribunal, del año que corresponda;
 
-III. Integrar las carpetas que contengan las copias de los proyectos de sentencia de los asuntos listados y verificar que se distribuyan oportunamente a las y los Magistrados, antes de la sesión correspondiente;
+III. Verificar y dar seguimiento a los asuntos que el Pleno instruya se canalicen a los órganos y áreas del Tribunal, para su adecuada y oportuna atención;
 
-IV. Expedir las certificaciones de las constancias que se requieran;
+IV. Registrar cronológicamente las sesiones y reuniones del Pleno;
 
-V. Elaborar los acuerdos derivados de las determinaciones adoptadas por el Pleno;
+V. Integrar las carpetas que contengan las copias de los proyectos de sentencia de los asuntos listados y verificar que se distribuyan oportunamente a las y los Magistrados, antes de la sesión correspondiente;
 
-VI. Elaborar y distribuir oportunamente, tanto del orden del día como de los avisos de sesión, con los asuntos a desahogarse en las reuniones privadas y sesiones públicas, respectivamente;
+VI. Formular y expedir las certificaciones de las constancias que se requieran;
 
-VII. Elaborar los informes que sean requeridos a la o al Secretario General;
+VII. Elaborar el listado de asuntos a resolver en cada sesión;
 
-VIII. Realizar los trabajos derivados de la inserción de votos particulares o engroses de las sentencias dictadas por el Pleno;
+VIII. Elaborar y distribuir oportunamente, tanto los proyectos de orden del día como los avisos de sesión, de los asuntos a desahogarse en las reuniones privadas y sesiones públicas, respectivamente;
 
-IX. Suplir las ausencias temporales de la o del Secretario General, y
+IX. Elaborar los informes que sean requeridos a la o al Secretario General;
 
-X. Aquellas encomendadas por la instancia superior jerárquica relacionadas con sus atribuciones.
+X. Realizar los trabajos derivados de la inserción de votos particulares o engroses de las sentencias dictadas por el Pleno;
+
+XI. Suplir las ausencias temporales de la o del Secretario General, y
+
+XII. Aquellas que se determinen en la legislación y la normatividad interna aplicable, así como las que su superior/a jerárquico/a le encomiende en relación con su puesto.
 
 ###### Artículo 32.
 
-La Subdirección de la Secretaría Técnica asistirá a la o al Secretario Técnico en el ejercicio de las atribuciones siguientes:
-
-I. Formular los proyectos de actas de reuniones y sesiones y, en su caso, atender las observaciones que sobre el particular formulen las y los Magistrados;
-
-II. Formular los proyectos de acuerdos derivados de determinaciones adoptadas por el Pleno y, en su caso, atender las observaciones que sobre el particular formulen las y los Magistrados;
-
-III. Formular los proyectos de certificaciones que le requiera la o el Secretario Técnico;
-
-IV. Elaborar el proyecto de orden del día de los asuntos a desahogarse en las sesiones o reuniones privadas, distribuirlo oportunamente entre las y los Magistrados;
-
-V. Elaborar el listado de los asuntos a resolver en cada sesión;
-
-VI. Coadyuvar en la elaboración de informes que le sean requeridos por la o el Secretario General;
-
-VII. Integrar las carpetas que contengan las copias de los proyectos de sentencia de los asuntos listados en el orden del día y apoyar en la distribución oportuna a las y los Magistrados, antes de la sesión correspondiente;
-
-VIII. Realizar los trabajos derivados de la inserción de votos particulares o engroses de las sentencias dictadas por el Pleno, y
-
-IX. Aquellas encomendadas por la instancia superior jerárquica relacionadas con sus atribuciones.
+(DEROGADO, G.O. 9 DE MAYO DE 2013)
 
 ###### Artículo 33.
 
@@ -614,25 +606,47 @@ X. Aquellas encomendadas por la instancia superior jerárquica relacionadas con 
 
 Las y los actuarios son las personas servidoras públicas del Tribunal encargadas de realizar las notificaciones, actos de comunicación y ejecución a los justiciables, dentro o fuera del recinto del Tribunal, así como todas las diligencias que se ordenen por resolución jurisdiccional, por disposición expresa de la Ley Procesal Electoral y demás ordenamientos aplicables; desempeñan, además, aquellas labores que les encomienden el Pleno, la o el Presidente, la Magistrada o el Magistrado Instructor, y la o el Secretario General, para lo cual deberán atender a lo siguiente:
 
-I. Conducirse, invariablemente, con verdad en la práctica de diligencias y notificaciones que le sean encomendadas, asentando las circunstancias de modo, tiempo y lugar en el acta que para tal efecto elabore;
+> <small>(REFORMADA, G.O. 9 DE MAYO DE 2013)</small>
 
-II. Practicar las diligencias en tiempo y forma, que para tal efecto fije la legislación aplicable al caso específico, asentando las circunstancias materiales y jurídicas, en la razón atinente. Hecho lo anterior, remitirlas a la ponencia o área que haya ordenado su desahogo, recabando en la libreta correspondiente, el respectivo acuse de recibido;
+I. Practicar las diligencias jurisdiccionales y/o administrativas en tiempo y forma, que para tal efecto fije la legislación aplicable al caso específico, asentando las circunstancias materiales y jurídicas, en la razón atinente. Hecho lo anterior, remitirlas a la Ponencia o área que haya ordenado su desahogo, recabando en la libreta correspondiente el acuse de recibido;
 
-III. Constituirse en el domicilio o lugar señalado en autos, para el desahogo de la diligencia ordenada, y cerciorarse, a través de los medios que estén a su alcance, si es el domicilio legalmente autorizado;
+> <small>(REFORMADA, G.O. 9 DE MAYO DE 2013)</small>
 
-IV. Elaborar las constancias de notificación, las cuales estarán integradas por las cédulas u oficios, según sea el caso, así como sus correspondientes razones, atendiendo siempre, la instrucción formulada por el Pleno, la o el Presidente, la o el Magistrado Instructor, o bien, por aquella oficina que dentro de su competencia, lo haya solicitado;
+II. Acudir al domicilio o lugar señalado en autos del expediente respectivo, para el desahogo de la diligencia ordenada, y cerciorarse, a través de los medios que estén a su alcance, si es el domicilio legalmente autorizado;
 
-V. Llevar un libro que hará las veces de una bitácora, donde asienten diariamente las actuaciones y notificaciones que le sean encomendadas, el cual contendrá al menos, los rubros siguientes:
+> <small>(REFORMADA, G.O. 9 DE MAYO DE 2013)</small>
 
-a) Expediente; actor/a, y autoridad responsable o demandada;
+III. Elaborar las constancias de notificación, las cuales estarán integradas por las cédulas u oficios, según sea el caso, así como sus correspondientes razones, atendiendo siempre la instrucción formulada por el Pleno, la o el Presidente, la o el Magistrado Instructor, o bien, por aquella oficina que dentro de su competencia lo haya solicitado;
+
+> <small>(REFORMADA, G.O. 9 DE MAYO DE 2013)</small>
+
+IV. Llevar un libro que hará las veces de una bitácora, donde asienten diariamente las actuaciones y notificaciones que le sean encomendadas, el cual contendrá al menos, los rubros siguientes:
+
+a) Expediente, actor/a, y autoridad responsable o demandada;
 
 b) Tipo de diligencia, y
 
 c) La fecha en que haya practicado la diligencia, notificación o acto que deban ejecutar.
 
-VI. Retirar de los Estrados, aquellas determinaciones procesales, al concluir el plazo a que hace referencia la Ley Procesal Electoral, elaborando la razón que legalmente corresponda, y
+> <small>(REFORMADA, G.O. 9 DE MAYO DE 2013)</small>
 
-VII. Aquellas que su superior/a jerárquico/a le encomiende en relación con su puesto.
+V. Retirar de los estrados, al concluir el plazo a que hace referencia la Ley Procesal Electoral, las determinaciones procesales y elaborar la razón que legalmente corresponda;
+
+> <small>(REFORMADA, G.O. 9 DE MAYO DE 2013)</small>
+
+VI. Realizar todas aquellas actividades necesarias para el despacho de documentos oficiales y aquellos relacionados con asuntos institucionales;
+
+> <small>(REFORMADA, G.O. 9 DE MAYO DE 2013)</small>
+
+VII. Coadyuvar en las diversas actividades administrativas y/o jurisdiccionales que les sean encomendadas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 9 DE MAYO DE 2013)</small>
+
+VIII. Las demás que le sean aplicables en materia de administración de documentos y archivos, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 9 DE MAYO DE 2013)</small>
+
+IX. Aquellas que se determinen en la normatividad interna aplicable; así como las que su superior/a jerárquico/a le encomiende en relación con su puesto.
 
 ###### Artículo 35.
 
@@ -782,7 +796,9 @@ I. Coordinar y controlar los procesos de contratación, nóminas, remuneraciones
 
 II. Coordinar la elaboración y seguimiento, en el ámbito de su competencia, del Programa Operativo Anual y del Anteproyecto de Presupuesto de Servicios Personales;
 
-III. Coordinar los trámites de ingreso, promoción o baja de personal, conforme a la normatividad aplicable;
+> <small>(REFORMADA, G.O. 9 DE MAYO DE 2013)</small>
+
+III. Coordinar los trámites de ingreso, promoción o baja de personal conforme a la normatividad aplicable, así como la implementación de la política laboral y el Programa del Servicio Social y Prácticas Profesionales del Tribunal;
 
 IV. Supervisar la operación de los mecanismos de control de asistencia del personal;
 
@@ -854,7 +870,9 @@ XIV. Coordinar y dar seguimiento a la formalización de los pedidos de compra, l
 
 XV. Planear y coordinar las medidas y controles pertinentes para asegurar que se cuente con los espacios físicos y los servicios necesarios para el cumplimiento de las actividades institucionales;
 
-XVI. Coordinar las acciones necesarias para el funcionamiento del Comité de Protección Civil del Tribunal y supervisar el cumplimiento de los acuerdos que se deriven;
+> <small>(REFORMADA, G.O. 9 DE MAYO DE 2013)</small>
+
+XVI. Coordinar las acciones necesarias para el funcionamiento del Comité de Protección Civil y del Comité de Implementación del Programa para la Protección del Medio Ambiente y Recursos Naturales, ambos del Tribunal, y supervisar el cumplimiento de los acuerdos que se deriven;
 
 XVII. Coordinar y supervisar los trabajos de mantenimiento preventivo y correctivo que requieran los bienes muebles e inmuebles del Tribunal;
 
@@ -958,33 +976,7 @@ Para ocupar el cargo de Director/a de Área en la Contraloría, deberán cumplir
 
 ###### Artículo 49.
 
-La Dirección de Auditoría y Control, adscrita a la Contraloría, tiene las atribuciones siguientes:
-
-I. Coordinar las labores de fiscalización del manejo, custodia y aplicación de recursos;
-
-II. Revisar el adecuado funcionamiento de los sistemas de control interno del Tribunal, así como emitir opinión sobre su eficiencia y eficacia;
-
-III. Proponer a la o al Contralor General los contenidos del Programa Anual de Auditoría;
-
-IV. Realizar los actos tendentes a la ejecución del Programa Anual de Auditoría;
-
-V. Verificar la realización de las auditorías, revisiones específicas y/o auditorías especiales;
-
-VI. Implementar las acciones correspondientes al seguimiento de las observaciones, recomendaciones y demás acciones que deriven de las auditorías que determine la Contraloría, hasta su solventación y, en su caso, proponer las acciones administrativas correspondientes;
-
-VII. Informar a la o al Contralor General el avance en la ejecución del Programa Anual de Auditoría, así como los resultados de las auditorías;
-
-VIII. Proponer a la o al Contralor General las acciones administrativas y legales que deriven de los resultados de las auditorías;
-
-IX. Resguardar los documentos resultantes de las auditorías y revisiones;
-
-X. Requerir fundada y motivadamente a las y los titulares de los órganos y áreas, personas servidoras públicas del Tribunal, así como a las y los proveedores, contratistas, y las y los prestadores de servicios, la información y documentación necesaria para el debido cumplimiento de sus funciones;
-
-XI. Atender las solicitudes de información en los asuntos de su competencia;
-
-XII. Participar como representante de la Contraloría en las reuniones de trabajo vinculadas con asuntos de su competencia, y
-
-XIII. Aquellas encomendadas por la instancia superior jerárquica relacionadas con sus atribuciones.
+(DEROGADO, G.O. 9 DE MAYO DE 2013)
 
 ###### Artículo 50.
 
@@ -1022,37 +1014,59 @@ XV. Elaborar los informes justificados que rinda la o el Contralor General en su
 
 XVI. Aquellas encomendadas por la instancia superior jerárquica relacionadas con sus atribuciones.
 
+> <small>(REFORMADO, G.O. 9 DE MAYO DE 2013)</small>
+
 ###### Artículo 51.
 
-La Dirección de Evaluación y Seguimiento, adscrita a la Contraloría, tiene las atribuciones siguientes:
+La Dirección de Auditoría, Control y Evaluación, adscrita a la Contraloría, tiene las atribuciones siguientes:
 
-I. Vigilar los procesos de planeación, programación y presupuestación del Tribunal a fin de comprobar el cumplimiento de las disposiciones en la materia y, en su caso, proponer las recomendaciones necesarias para ello;
+I. Coordinar las labores de fiscalización del manejo, custodia y aplicación de recursos;
 
-II. Evaluar la consistencia de la información programática, presupuestal y financiera del Tribunal, de ésta con las fuentes contables y la solidez de los sistemas y procedimientos que se siguen para producirla;
+II. Revisar el adecuado funcionamiento de los sistemas de control interno del Tribunal, así como emitir opinión sobre su eficiencia y eficacia;
 
-III. Evaluar el ejercicio del presupuesto y elaborar las recomendaciones que procedan;
+III. Proponer a la o el Contralor General los contenidos del Programa Interno de Auditoría;
 
-IV. Evaluar la consistencia entre los objetivos, programas, subprogramas y proyectos del Tribunal, las metas en ellos establecidas y con la asignación del presupuesto, dar seguimiento al cumplimiento de los programas y del presupuesto, participar en el diseño de indicadores de gestión y elaborar las recomendaciones que procedan;
+IV. Realizar los actos tendentes a la ejecución del Programa Interno de Auditoría;
 
-V. Apoyar a la o al Contralor General en la elaboración de los informes, de los asuntos de su competencia, que deba presentar al Pleno en términos del Código;
+V. Verificar la realización de las auditorías, revisiones específicas y/o auditorías especiales;
 
-VI. Coordinar la elaboración de los proyectos de la Contraloría que formen parte del Programa Operativo Anual del Tribunal y vigilar su cumplimiento;
+VI. Realizar las acciones correspondientes al seguimiento de las observaciones, recomendaciones y demás acciones que deriven de las auditorías que determine la Contraloría General, hasta su solventación;
 
-VII. Elaborar los reportes e informes que requiera la Contaduría Mayor de Hacienda de la Asamblea, dando seguimiento a las observaciones implementadas hasta su total cumplimiento;
+VII. Someter a la o el Contralor General los casos que ameriten el inicio de procedimientos de responsabilidades administrativas que deriven de los resultados de las auditorías;
 
-VIII. Verificar el cumplimiento de las obligaciones del Tribunal en materia de entrega de planes, programas, presupuestos, e informes financieros y de avance de proyectos a la Secretaría de Finanzas del Gobierno del Distrito Federal, a la Asamblea y a las autoridades que correspondan;
+VIII. Informar a la o el Contralor General el avance en la ejecución del Programa Interno de Auditoría, así como los resultados de las auditorías;
 
-IX. Participar como representante de la Contraloría en Comités y reuniones de trabajo relacionadas con los procesos de programación y presupuestación y aquellas relacionadas con el tema de transparencia, información pública y datos personales;
+IX. Resguardar los documentos resultantes de las auditorías y revisiones;
 
-X. Participar en la actualización del procedimiento para el otorgamiento y aplicación de los fondos revolventes;
+X. Requerir fundada y motivadamente a las unidades organizacionales, personas servidoras públicas del Tribunal, así como a proveedores/as, contratistas y prestadores/as de servicios, la información y documentación necesaria para el debido cumplimiento de sus funciones;
 
-XI. Verificar que la disponibilidad de recursos reportada en los estados financieros corresponda al avance en el ejercicio del presupuesto;
+XI. Revisar los procesos de planeación, programación y presupuestación del Tribunal a fin de comprobar el cumplimiento de las disposiciones en la materia y, en su caso, proponer las recomendaciones necesarias para ello;
 
-XII. Solicitar a la Secretaría Administrativa información sobre el avance programático - presupuestal trimestral del Tribunal;
+XII. Evaluar la consistencia de la información programática, presupuestal y financiera del Tribunal, de ésta con las fuentes contables y la solidez de los sistemas y procedimientos que se siguen para producirla;
 
-XIII. Verificar que los estados financieros del Tribunal se produzcan de manera oportuna, se elaboren de acuerdo a los principios de contabilidad generalmente aceptados y reflejen su real situación financiera, y
+XIII. Evaluar el ejercicio del presupuesto y elaborar las recomendaciones que procedan;
 
-XIV. Aquellas encomendadas por la instancia superior jerárquica relacionadas con sus atribuciones.
+XIV. Evaluar la consistencia entre los objetivos, programas, subprogramas y proyectos del Tribunal, las metas en ellos establecidas y con la asignación del presupuesto; verificar el cumplimiento de los programas y del presupuesto; participar en el diseño de indicadores de gestión y elaborar las recomendaciones que procedan;
+
+XV. Apoyar a la o el Contralor General en la elaboración de los informes que éste debe presentar al Pleno sobre el desempeño físico financiero de los proyectos a cargo del Tribunal;
+
+XVI. Coordinar la elaboración del Programa Operativo Anual de la Contraloría General y vigilar su cumplimiento;
+
+XVII. Elaborar los reportes e informes que requiera la Contaduría Mayor de Hacienda de la Asamblea Legislativa del Distrito Federal, dando seguimiento a las observaciones implementadas hasta su total cumplimiento;
+
+XVIII. Verificar que la disponibilidad de recursos reportada en los estados financieros corresponda al avance en el ejercicio presupuestal;
+
+XIX. Verificar el cumplimiento de los objetivos y metas fijados en los programas presupuestales a cargo del Tribunal, informando a la o el Contralor General las deficiencias o desviaciones que detecte;
+
+XX. Actualizar el manual de políticas y procedimientos para el otorgamiento y administración del fondo revolvente;
+
+XXI. Solicitar a la Secretaría Administrativa información sobre el avance programático del presupuesto de egresos del Tribunal de manera mensual;
+
+XXII. Participar como representante de la Contraloría General en Comités y reuniones de trabajo relacionadas con los procesos de planeación y presupuestación y aquellas relacionadas con el tema de transparencia, información pública y datos personales;
+
+XXIII. Atender las solicitudes de información de las áreas del Tribunal en los asuntos de su competencia, y
+
+XXIV. Aquellas que se determinen en la legislación y la normatividad interna aplicable.
 
 ### CAPÍTULO IX. DE LA DIRECCIÓN GENERAL JURÍDICA
 
@@ -1062,65 +1076,55 @@ La o el titular de la Dirección General Jurídica será designado por el Pleno 
 
 La o el titular de la Dirección General Jurídica podrá designar mediante oficio a quien la o lo sustituya en ausencias menores a un mes que se den por motivos de salud, vacaciones, licencias o cualquier otra causa justificada. Las ausencias que excedan ese periodo, en su caso, la vacante que se generé será cubierta temporalmente por una o un encargado del despacho que designe la o el Presidente, hasta que el Pleno determine lo conducente en términos de los artículos 146 y 162, fracción XII del Código.
 
+> <small>(REFORMADO, G.O. 9 DE MAYO DE 2013)</small>
+
 ###### Artículo 53.
 
 Para el cumplimiento de las atribuciones previstas en el Código y la Ley Procesal Electoral, a la Dirección General Jurídica le corresponde:
 
-I. Para la atención de los asuntos normativos:
+I. Para la atención de los asuntos contenciosos:
 
-a) Revisar y opinar sobre los aspectos técnico-jurídicos de los proyectos de manuales y procedimientos administrativos que le remita la Secretaría Administrativa;
-
-> <small>(REFORMADO, G.O. 1 DE MARZO DE 2012)</small>
-
-b) Elaborar y/o revisar los proyectos normativos internos en el ámbito de sus atribuciones, para lo cual contará con la participación de los órganos y áreas del Tribunal, proyectos que deberán estar acordes con el Código, la Ley y la normativa interna;
-
-c) Apoyar en la redacción de proyectos de acuerdos plenarios cuando así lo solicite la o el Presidente, y
-
-d) Analizar los ordenamientos legales que se expidan y su reforma vinculados con las atribuciones del Tribunal, así como, prevenir y atender posibles conflictos entre las normas internas, a solicitud de la o del Presidente.
-
-II. Para la atención de los asuntos consultivos:
-
-a) Participar como asesor/a jurídico/a, únicamente con derecho a voz, en los Comités creados por el Pleno o integrados por disposición de Ley;
-
-b) Desahogar consultas jurídicas formuladas por las áreas del Tribunal, para el debido ejercicio de sus atribuciones, así como realizar los estudios que determine el Pleno, la o el Presidente sobre asuntos concretos del organismo, no relacionados con cuestiones jurisdiccionales electorales o de participación ciudadana;
-
-> <small>(REFORMADO, G.O. 1 DE MARZO DE 2012)</small>
-
-c) Fungir como representante del Tribunal ante el Comité de Seguimiento y Evaluación del Programa de Derechos Humanos del Distrito Federal, solicitar y coordinar la asistencia y participación del personal del Tribunal en los grupos de trabajo y eventos relacionados con la implementación del programa, requerir información a las y los titulares de los órganos y áreas relativa al cumplimiento de las líneas de acción, dar seguimiento a la implementación y elaborar el informe anual en términos de ley, con base en lo reportado en el sistema de seguimiento al Programa Operativo Anual que corresponda;
-
-d) Realizar los trámites relativos a derechos de autor y registro de las publicaciones del Tribunal que le sean solicitados;
-
-e) Tramitar la publicación de documentos en la Gaceta, y
-
-f) Recopilar y sistematizar la información necesaria, a efecto de que la o el Presidente esté en posibilidad de rendir el informe anual a que se refiere el artículo 162, fracción X del Código.
-
-III. Para la atención de los asuntos contractuales:
-
-a) Formular, revisar y validar conforme a las disposiciones legales aplicables, los proyectos de contratos y convenios que celebre el Tribunal; así como llevar un registro para su control, y
-
-b) Proporcionar asesoría jurídica a la Secretaría Administrativa cuando ésta así lo solicite, en los procedimientos de licitación pública, invitación a cuando menos tres proveedores y en la adjudicación directa de contratos.
-
-IV. Para la atención de los asuntos contenciosos:
-
-a) Llevar a cabo la representación legal del Tribunal, conjunta o separadamente con la o el Presidente, ante autoridades administrativas, laborales o judiciales, ya sea locales o federales, a excepción de los asuntos relacionados con la materia electoral o de participación ciudadana;
+a) Llevar a cabo la representación legal del Tribunal, conjunta o separadamente con la o el Presidente, ante autoridades administrativas o judiciales, ya sean locales o federales, a excepción de los asuntos relacionados con la materia electoral o de participación ciudadana;
 
 b) Promover ante las instancias competentes, las acciones legales en los juicios o procedimientos en que el Tribunal sea parte o tenga interés jurídico, en términos del poder que le sea otorgado para tal efecto;
 
 c) Suplir a la o al Presidente en sus ausencias para la representación legal del Tribunal en los juicios de amparo;
 
-d) Atender los juicios de amparo, llevando a cabo todos los actos que sean necesarios, y los procedimientos que se siguen ante las Comisiones de Derechos Humanos;
+d) Atender los juicios de amparo, llevando a cabo todos los actos que sean necesarios, así como conocer de los procedimientos que se siguen ante las Comisiones de Derechos Humanos;
 
-e) Brindar asesoría al personal del Tribunal, cuando con motivo del ejercicio de su cargo, se involucren en procedimientos ante autoridades administrativas o jurisdiccionales, ya sean locales o federales, diversas al Tribunal;
+e) Brindar asesoría al personal del Tribunal, cuando con motivo del ejercicio de su cargo, se involucren en procedimientos ante autoridades administrativas o judiciales, ya sean locales o federales, diversas al Tribunal;
 
-f) Coadyuvar con la o el Presidente en la formulación de denuncias de hecho en materia penal y atender las diligencias que se deriven de las mismas;
+f) Coadyuvar con la o el Presidente en la formulación de denuncias de hechos en materia penal y atender las diligencias que se deriven de las mismas;
 
-g) Remitir a la o al Secretario General los informes trimestrales sobre las resoluciones que emitan los tribunales respecto de los juicios de amparo derivados de conflictos laborales y de inconformidades administrativas, para que sean hechos del conocimiento del Pleno;
+g) Remitir a la o al Secretario General los informes trimestrales sobre las resoluciones que emitan los tribunales respecto de los juicios de amparo derivados de conflictos laborales y de inconformidades administrativas, para que sean hechos del conocimiento del Pleno, y
 
-h) Representar al Tribunal con apoyo del personal adscrito a su área, en los conflictos que se establezcan entre éste y su personal, incluyendo a codemandados físicos que laboren para el Tribunal, de conformidad con lo dispuesto por el artículo 102 de la Ley Procesal Electoral;
+h) Representar al Tribunal, con apoyo del personal adscrito a su área, en los conflictos que surjan entre éste y su personal, incluyendo a codemandados físicos que laboren para el Tribunal, de conformidad con lo dispuesto por el artículo 102 de la Ley Procesal Electoral.
 
-i) (DEROGADO, G.O. 1 DE MARZO DE 2012)
+II. Para la atención de los asuntos consultivos:
 
-j) (DEROGADO, G.O. 1 DE MARZO DE 2012)
+a) Participar como asesor/a jurídico/a, únicamente con derecho a voz, en los Comités creados por el Pleno o integrados por disposición de Ley;
+
+b) Desahogar consultas jurídicas formuladas por las áreas del Tribunal, para el debido ejercicio de sus atribuciones, así como realizar los estudios que determine el Pleno, la o el Presidente sobre asuntos concretos del organismo, no relacionados con cuestiones jurisdiccionales electorales o de participación ciudadana, y
+
+c) Realizar los trámites relativos a derechos de autor y publicación de documentos en la Gaceta, así como colaborar en la presentación de solicitudes de tiempo en radio y televisión ante el Instituto Federal Electoral.
+
+III. Para la atención de los asuntos contractuales:
+
+a) Proporcionar asesoría jurídica a la Secretaría Administrativa cuando ésta así lo solicite, en los procedimientos de licitación pública, invitación a cuando menos tres proveedores y en la adjudicación directa de contratos, y
+
+b) Formular, revisar y validar conforme a las disposiciones legales aplicables, los proyectos de contratos y convenios que celebre el Tribunal; así como llevar un registro para su control.
+
+IV. Para la atención de los asuntos normativos:
+
+a) Revisar y opinar sobre los aspectos técnico-jurídicos de los proyectos de manuales y procedimientos administrativos que le remita la Secretaría Administrativa;
+
+b) Elaborar y/o revisar los proyectos normativos internos en el ámbito de sus atribuciones, para lo cual contará con la participación de los órganos y áreas del Tribunal, proyectos que deberán estar acordes con el Código y la normativa interna;
+
+c) Redactar proyectos de acuerdos plenarios cuando así lo solicite la o el Presidente;
+
+d) Analizar los ordenamientos legales que se expidan, y sus reformas, vinculados con las atribuciones del Tribunal, así como prevenir y atender posibles conflictos entre las normas internas, a solicitud de la o del Presidente, y
+
+e) Recopilar y sistematizar la información necesaria, a efecto de que la o el Presidente esté en posibilidad de rendir el informe anual de actividades del Tribunal a que se refiere el artículo 162, fracción X del Código.
 
 > <small>(REFORMADO, G.O. 1 DE MARZO DE 2012)</small>
 
@@ -1130,73 +1134,73 @@ Para el desempeño de sus atribuciones, la Dirección General Jurídica contará
 
 Para ocupar el cargo de Subdirector/a de Área en la Dirección General Jurídica, deberán cumplirse los requisitos establecidos en el Manual de Organización y Funcionamiento del Tribunal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, G.O. 9 DE MAYO DE 2013)</small>
 
 ###### Artículo 55.
 
-La Subdirección de lo Contencioso, adscrita a la Dirección General Jurídica, tiene las atribuciones siguientes:
+La Subdirección de lo Contencioso y Consultivo, adscrita a la Dirección General Jurídica, tiene las atribuciones siguientes:
 
-I. Dirigir la realización de todos los actos y diligencias inherentes a los procedimientos que el Tribunal tramite ante las autoridades administrativas, laborales o judiciales, ya sean locales o federales o en los que participe con la calidad de parte, a excepción de los asuntos relacionados con la materia electoral o de participación ciudadana;
+I. Coordinar la realización de todos los actos y diligencias inherentes a los procedimientos que el Tribunal tramite ante las autoridades administrativas o judiciales, ya sean locales o federales o en los que participe con la calidad de parte, a excepción de los asuntos relacionados con la materia electoral o de participación ciudadana;
 
-II. Supervisar la elaboración de las denuncias o querellas en materia penal; y someterlas por conducto de la o del titular de la Dirección General Jurídica a consideración y firma de la o del Presidente; así como dar atención al procedimiento respectivo ante las autoridades competentes;
+II. Coordinar la elaboración de:
 
-III. Revisar la elaboración de los informes previos y justificados correspondientes a los juicios de amparo que se promuevan en contra de los actos y resoluciones del Tribunal, y someterlos por conducto de la o del titular de la Dirección General Jurídica a consideración y firma de la o del Presidente; así como dar atención al procedimiento respectivo ante las autoridades jurisdiccionales que conozcan de ellos;
+a) Las denuncias o querellas en materia penal y someterlas por conducto de la o del titular de la Dirección General Jurídica a consideración y firma de la o del Presidente, así como dar atención al procedimiento respectivo ante las autoridades competentes;
 
-IV. Vigilar la elaboración de los informes correspondientes a las quejas presentadas ante las Comisiones de Derechos Humanos, y someterlos por conducto de la o del titular de la Dirección General Jurídica a consideración y firma de la o del Presidente; así como dar atención al procedimiento respectivo ante el órgano competente;
+b) Los informes previos y justificados correspondientes a los juicios de amparo que se promuevan en contra de los actos y resoluciones del Tribunal, y someterlos por conducto de la o del titular de la Dirección General Jurídica a consideración y firma de la o del Presidente, así como dar atención al procedimiento respectivo ante las autoridades jurisdiccionales que conozcan de ellos;
 
-V. Ordenar la elaboración de los informes relativos a las ejecutorias dictadas en los juicios de amparo y, en su caso, proponer las medidas que aseguren su cumplimiento;
+c) Los informes solicitados por las Comisiones de Derechos Humanos, por quejas presentadas ante dichas instancias, y someterlos por conducto de la o del titular de la Dirección General Jurídica a consideración y firma de la o del Presidente, así como dar atención al procedimiento respectivo ante el órgano competente;
 
-VI. Observar la elaboración de los escritos de desahogo de requerimientos que formulen al Tribunal las autoridades que conozcan de los procedimientos y juicios;
+d) Los informes relativos a las ejecutorias dictadas en los juicios de amparo y, en su caso, proponer las medidas que aseguren su cumplimiento;
 
-VII. Coordinar la elaboración de las demandas y la interposición de los recursos que resulten procedentes para la defensa de los intereses del Tribunal; así como, darles atención ante los órganos que conozcan de ellos;
+e) Los escritos de desahogo de requerimientos que formulen al Tribunal las autoridades que conozcan de los procedimientos y juicios, y
 
-VIII. Revisar los proyectos de las contestaciones correspondientes a las demandas presentadas en contra del Tribunal, y someterlas por conducto de la o del titular de la Dirección General Jurídica a consideración y firma de la o del Presidente; e intervenir en los procedimientos atinentes procurando la defensa de los intereses de la Institución;
+f) Las demandas y la interposición de los recursos que resulten procedentes para la defensa de los intereses del Tribunal, así como darles atención ante los órganos que conozcan de ellos.
 
-IX. Asesorar y, en su caso, apoyar al personal del Tribunal cuando, con motivo del ejercicio de su cargo, se involucren en procedimientos ante autoridades administrativas o jurisdiccionales, ya sean locales o federales, diversas al Tribunal;
+III. Revisar los proyectos de las contestaciones correspondientes a las demandas presentadas en contra del Tribunal, y someterlas por conducto de la o del titular de la Dirección General Jurídica a consideración y firma de la o del Presidente e intervenir en los procedimientos atinentes procurando la defensa de los intereses de la institución;
 
-X. Elaborar las opiniones y estudios jurídicos ordenados por el Pleno, la o el Presidente, vinculados con los aspectos contenciosos que le competen;
+IV. Asesorar y, en su caso, apoyar al personal del Tribunal cuando, con motivo del ejercicio de su cargo, se involucren en procedimientos ante autoridades administrativas o judiciales, ya sean locales o federales, diversas al Tribunal;
 
-XI. Proporcionar a la o al Director General Jurídico la información necesaria relacionada con las atribuciones del área, a efecto de que la o el Secretario General esté en posibilidad de rendir los informes trimestrales a que se refiere el artículo 173, fracción IV del Código;
+V. Elaborar las opiniones jurídicas para atender las consultas de los órganos y áreas del Tribunal, así como los estudios jurídicos ordenados por el Pleno, la o el Presidente, vinculados con las atribuciones que le competen, a excepción de los asuntos relacionados con la materia electoral o de participación ciudadana;
 
-XII. Requerir oportunamente la expedición de poderes notariales que otorgue o revoque la o el Presidente; así como, llevar a cabo el control de su ejercicio;
+VI. Proporcionar a la o al Director General Jurídico la información necesaria relacionada con las atribuciones del área, a efecto de que la o el Secretario General esté en posibilidad de rendir los informes trimestrales a que se refiere el artículo 173, fracción IV del Código;
 
-XIII. Verificar la integración, archivo y resguardo de los expedientes de los asuntos a cargo de la Dirección de lo Contencioso, y
+VII. Solicitar los servicios notariales para la expedición oportuna de poderes que otorgue o revoque la o el Presidente; así como llevar a cabo su reguardo y el control de su ejercicio;
 
-XIV. Aquellas encomendadas por la instancia superior jerárquica relacionadas con sus atribuciones.
+VIII. Supervisar la realización de diversos trámites relacionados con los derechos de autor, las publicaciones en la Gaceta y la solicitud de tiempos en radio y televisión ante el Instituto Federal Electoral, y
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE MARZO DE 2012)</small>
+IX. Aquellas encomendadas por la instancia superior jerárquica relacionadas con sus atribuciones.
+
+> <small>(REFORMADO, G.O. 9 DE MAYO DE 2013)</small>
 
 ###### Artículo 56.
 
-La Subdirección de Contratos, Consulta y Normatividad, adscrita a la Dirección General Jurídica, tiene las atribuciones siguientes:
+La Subdirección de Contratos y Normatividad, adscrita a la Dirección General Jurídica, tiene las atribuciones siguientes:
 
-I. Supervisar la revisión de los aspectos técnico jurídicos de los proyectos de bases de los procedimientos de licitación pública y de invitación a cuando menos tres proveedores, a solicitud de la Secretaría Administrativa;
+I. Supervisar la revisión de los aspectos técnico jurídicos de los proyectos de bases de los procedimientos de licitación pública y de invitación restringida, a solicitud de la Secretaría Administrativa;
 
-II. Supervisar la elaboración y verificar el contenido de los contratos y convenios en los que el Tribunal sea parte;
+II. Supervisar la participación del personal de esta subdirección en los eventos de las licitaciones públicas y de los procedimientos de invitación restringida a los que se le convoque;
 
-III. Elaborar o revisar el contenido de las opiniones técnicas para dar atención a las consultas jurídicas solicitadas por las áreas del Tribunal;
+III. Supervisar la elaboración y verificar el contenido de los contratos y convenios en los que el Tribunal sea parte;
 
-IV. Revisar el contenido de los estudios jurídicos ordenados por el Pleno o el Presidente, que tengan como finalidad el mejoramiento de las funciones del organismo, sobre asuntos concretos no relacionados con cuestiones jurisdiccionales electorales o de participación ciudadana;
+IV. Elaborar o revisar las opiniones jurídicas en materia contractual y normativa solicitadas por los órganos y las áreas del Tribunal;
 
-V. Analizar el contenido de la normativa interna que haya emitido el Pleno, cuando la o el Presidente así lo requiera;
+V. Elaborar los estudios jurídicos ordenados por el Pleno, la o el Presidente, vinculados con las atribuciones que le competen, a excepción de los asuntos relacionados con la materia electoral o de participación ciudadana;
 
-VI. Elaborar o supervisar la elaboración de proyectos normativos internos solicitados a la Dirección General Jurídica por los órganos y áreas del Tribunal;
+VI. Analizar la normativa interna que haya emitido el Pleno, cuando la o el Presidente así lo requiera;
 
-VII. Revisar los proyectos normativos internos elaborados por los órganos y áreas del Tribunal a solicitud de las mismas;
+VII. Elaborar los proyectos normativos internos solicitados a la Dirección General Jurídica por los órganos y áreas del Tribunal;
 
-VIII. Apoyar en la redacción de proyectos de acuerdos e informes, cuando así lo soliciten el Pleno, la o el Presidente;
+VIII. Revisar los proyectos normativos internos elaborados por los órganos y áreas del Tribunal a solicitud de las mismas;
 
-IX. Asistir a las sesiones y reuniones de trabajo, en representación de la Dirección General Jurídica, cuando su superior/a jerárquico/a así lo determine, y participar en términos de lo establecido en la normativa interna correspondiente;
+IX. Analizar los ordenamientos legales que se expida, y sus reformas, vinculados con las atribuciones del Tribunal, para la armonización de la normativa interna de este órgano jurisdiccional;
 
-> <small>(REFORMADA, G.O. 1 DE MARZO DE 2012)</small>
+X. Apoyar en la redacción de proyectos de acuerdos plenarios cuando así lo solicite la o el Presidente;
 
-X. Participar en las actividades relacionadas con la implementación y seguimiento de las líneas de acción del Programa de Derechos Humanos del Distrito Federal en el Tribunal;
+XI. Asistir a las sesiones de los Comités del Tribunal y reuniones de trabajo, en representación de la Dirección General Jurídica, cuando su superior/a jerárquico/a así lo determine, y participar en términos de lo establecido en la normativa interna correspondiente;
 
-XI. Atender los asuntos relativos a las materias de transparencia, acceso a la información pública, datos personales y archivo relacionados con la información y documentación bajo resguardo de la Dirección General Jurídica;
+XII. Atender los asuntos relativos a las materias de transparencia, acceso a la información pública, datos personales y archivo relacionados con la información y documentación bajo resguardo de la Dirección General Jurídica;
 
-XII. Supervisar la realización de diversos trámites relacionados con los servicios notariales, los derechos de autor y con las publicaciones del Tribunal en la Gaceta;
-
-XIII. Coordinar la recopilación y sistematización de información para la integración del informe a que se refiere el artículo 162, fracción X del Código, y
+XIII. Coordinar la recopilación y sistematización de información para la integración del informe anual de actividades del Tribunal a que se refiere el artículo 162, fracción X del Código, y
 
 XIV. Aquellas encomendadas por la instancia superior jerárquica relacionadas con sus atribuciones.
 
@@ -1280,7 +1284,9 @@ La Coordinación de Comunicación Social y Relaciones Públicas tiene las atribu
 
 I. En materia de comunicación social:
 
-a) Realizar el diseño de la campaña institucional del Tribunal y fortalecer su imagen ante los medios de comunicación, mediante la difusión de sus objetivos, funciones y responsabilidades;
+> <small>(REFORMADO, G.O. 9 DE MAYO DE 2013)</small>
+
+a) Realizar el diseño de la campaña institucional del Tribunal y fortalecer su imagen ante los medios de comunicación, mediante la difusión de sus objetivos, funciones y responsabilidades, así como llevar a cabo todos los trámites ante el Instituto Federal Electoral relacionados con los aspectos técnicos y administrativos de las solicitudes de asignación de tiempos en radio y televisión, y con la entrega de los materiales de audio y video para su respectiva transmisión;
 
 b) Captar, analizar, procesar y difundir la información proveniente de los medios de comunicación, impresos y electrónicos, que resulten de interés para el Tribunal;
 
@@ -1392,25 +1398,9 @@ XII. Elaborar anteproyectos de tesis de jurisprudencia y relevantes, y remitirlo
 
 XIII. Elaborar el texto definitivo, registrar, clasificar y compilar las tesis de jurisprudencia y relevantes del Pleno, así como sistematizar los datos cuantitativos de la actividad jurisdiccional del Tribunal.
 
-> <small>(REFORMADO, G.O. 1 DE MARZO DE 2012)</small>
-
 ###### Artículo 66.
 
-La Unidad de Promoción de los Derechos Político Electorales y de Relación con Organismos Electorales Nacionales e Internacionales tiene las atribuciones siguientes:
-
-I. Promover el ejercicio, respeto y defensa de los derechos político electorales de las y los ciudadanos;
-
-II. Impulsar la difusión de la cultura de la legalidad, a través de actividades que divulguen entre la población el conocimiento sobre sus derechos, obligaciones, y medios de defensa en materia político electoral, principalmente, que permitan a las y los ciudadanos potenciar su ejercicio en el Distrito Federal, en colaboración con la Coordinación de Comunicación Social y Relaciones Públicas de este Tribunal;
-
-III. Implementar los mecanismos y procedimientos que fomenten la vinculación del Tribunal con organismos electorales nacionales e internacionales;
-
-IV. Desarrollar proyectos interinstitucionales en materia electoral y con las organizaciones sociales, fundaciones y la ciudadanía para la promoción del ejercicio, respeto y defensa de los derechos político electorales;
-
-V. Coordinarse con el Centro de Capacitación y las Coordinaciones de Transparencia y Archivo, y de Comunicación Social y Relaciones Públicas del Tribunal, de conformidad con las políticas institucionales;
-
-VI. Coordinarse con la Dirección General Jurídica para la elaboración de convenios y acuerdos para la consecución de proyectos del Tribunal conjuntos, para la promoción de los derechos políticos con organismos electorales nacionales e internacionales, y
-
-VII. Crear la base de datos y directorio de organismos nacionales e internacionales vinculados con actividades electorales.
+(DEROGADO, G.O. 9 DE MAYO DE 2013)
 
 ### CAPÍTULO XII. DEL CENTRO DE CAPACITACIÓN
 
@@ -1741,3 +1731,9 @@ G.O. 1 DE MARZO DE 2012.
 PRIMERO. La reforma al presente Reglamento entrará en vigor al día siguiente de su publicación en los estrados del Tribunal.
 
 SEGUNDO. Publíquese la presente reforma en la Gaceta, así como en los Estrados y en el sitio de Internet del Tribunal.
+
+G.O. 9 DE MAYO DE 2013.
+
+PRIMERO. La reforma al Reglamento Interior del Tribunal Electoral del Distrito Federal entrará en vigor al día siguiente de su publicación en los estrados del Tribunal.
+
+SEGUNDO. Publíquese la presente reforma en la Gaceta, así como en los estrados y en el sitio de Internet del Tribunal.
