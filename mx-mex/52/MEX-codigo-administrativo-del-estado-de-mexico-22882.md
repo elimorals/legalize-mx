@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2013-05-03"
+last_updated: "2013-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE MAYO DE 2013.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -1393,31 +1393,51 @@ Los ingresos del Consejo Estatal de Población, así como los productos e instru
 
 Asimismo, en materia de salubridad general compete a la Secretaría de Salud, ejercer conforme a lo dispuesto en este Libro, las atribuciones correspondientes en materia de salubridad local.
 
-El ejercicio de las atribuciones anteriores corresponde también al Instituto de Salud. Cuando en la Ley General de Salud haga referencia a atribuciones competencia de la Federación a favor de autoridades sanitarias, las ejercerá el Instituto.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.G. 9 DE MAYO DE 2013)</small>
+
+El ejercicio de las atribuciones anteriores, cuando en la Ley General de Salud haga referencia a atribuciones competencia de la Federación a favor de autoridades sanitarias, se ejercerá por conducto de la Comisión para la Protección contra Riesgos Sanitarios del Estado de México, "COPRISEM" órgano desconcentrado de la Secretaría de Salud del Estado de México.
 
 ### CAPITULO CUARTO. Del Instituto de Salud del Estado de México
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.G. 9 DE MAYO DE 2013)</small>
+
 ###### Artículo 2.
 
-5.- El Instituto de Salud del Estado de México es un organismo público descentralizado, con personalidad jurídica y patrimonio propios, y funciones de autoridad, que tiene por objeto la prestación de los servicios de salud y el ejercicio del control sanitario en materia de salubridad local.
+5.- El Instituto de Salud del Estado de México, es un organismo público descentralizado, con personalidad jurídica y patrimonio propios, que tiene por objeto la prestación de los servicios de salud en la Entidad. El ejercicio del control sanitario, con funciones de autoridad, en materia de salubridad local, las ejercerá la Secretaría de Salud por conducto de la "COPRISEM".
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 9 DE MAYO DE 2013)</small>
+
+###### Artículo 2.
+
+5. Bis.- Corresponde a la "COPRISEM" sin perjuicio de lo que dispongan su Reglamento y otros ordenamientos legales:
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, G.G. 6 DE OCTUBRE DE 2008)</small>
-
-###### Artículo 2.
-
-5 Bis.- Corresponde al Instituto de Salud del Estado de México, sin perjuicio de los que dispongan su Reglamento y otros ordenamientos aplicables:
 
 l. Desarrollar investigación permanente y sistemática de los riesgos y daños para la salud de la población, originados por toda fuente de emisión contaminante al medio ambiente.
 
 Se entiende como emisiones contaminantes a la generación o descarga de materia o energía, en cualquier cantidad, estado físico o forma, que al incorporarse, acumularse o actuar en los seres vivos, en la atmósfera, agua, suelo, subsuelo o cualquier elemento natural, afecte negativamente su salud, composición o condición natural; y
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.G. 6 DE OCTUBRE DE 2008)</small>
+
 II. Vigilar y establecer medidas para controlar la contaminación originada por ruido, vibraciones, energía térmica, lumínica, olores, vapores o cualquier otro tipo de actividad que pueda ocasionar daños a la salud de personas expuestas al ambiente o los elementos naturales, en fuentes de competencia estatal, sin perjuicio de la intervención que corresponda a otras autoridades competentes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 9 DE MAYO DE 2013)</small>
 
 ###### Artículo 2.
 
-6.- La dirección y administración del Instituto está a cargo de un consejo interno y un director general.
+6.- La dirección y administración del Instituto de Salud del Estado de México, estará a cargo de un consejo interno y de un director general.
 
 El consejo interno se integra en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares y Fideicomisos del Estado de México y cuenta con nueve vocales que son los representantes de las secretarías de Finanzas y Planeación, del Trabajo y de la Previsión Social, de Educación, Cultura y Bienestar Social, de Desarrollo Urbano y Obras Públicas, de Desarrollo Agropecuario, de Administración y de Ecología, así como un representante de la Secretaría de Salud del Gobierno Federal y otro de los trabajadores designado por el Comité Ejecutivo Nacional del Sindicato Nacional de Trabajadores de la Secretaría de Salud.
 
@@ -1427,9 +1447,13 @@ El director general será nombrado por el Gobernador del Estado y deberá ser pr
 
 La organización y funcionamiento del Instituto se regirá por el reglamento interno que expida el consejo interno.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 9 DE MAYO DE 2013)</small>
+
 ###### Artículo 2.
 
-7.- El patrimonio del Instituto se integra con:
+7.- El patrimonio del Instituto de Salud del Estado de México, se integra con:
 
 I. Los bienes con los que actualmente cuenta;
 
@@ -1441,7 +1465,11 @@ IV. Las aportaciones, donaciones, legados y demás análogas que reciba de los s
 
 V. Las cuotas de recuperación que reciba por los servicios que preste;
 
-VI. Los rendimientos, recuperaciones y demás ingresos que obtenga de la inversión de los recursos a que se refieren las fracciones anteriores;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, G.G. 9 DE MAYO DE 2013)</small>
+
+VI. En general, todos los bienes, derechos y obligaciones que entrañen utilidad económica o sean susceptibles de estimación pecuniaria y que se obtengan por cualquier título.
 
 VII. Las concesiones, permisos, licencias y autorizaciones que se le otorguen conforme a la Ley General de Salud y este Libro;
 
@@ -1661,19 +1689,25 @@ XVII. Los demás que se establezcan en la Ley General de Salud y otras disposici
 
 17.- El Estado de México está obligado a prestar los servicios de salud en el marco del federalismo y concurrencia establecidos en la Constitución Política de los Estados Unidos Mexicanos y la Ley General de Salud.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.G. 9 DE MAYO DE 2013)</small>
+
 ###### Artículo 2.
 
-18.- La Secretaría de Salud tendrá a su cargo la regulación de los servicios de salud a que se refiere este Título, y el Instituto de Salud del Estado de México estará encargado de la operación de los mismos, así como de ejercer el control sanitario competencia del Estado en materia de salubridad general.
+18.- La Secretaría de Salud tendrá a su cargo la regulación de los servicios de salud a que se refiere este Título, el Instituto de Salud del Estado de México se encargará de la operación de los mismos y la "COPRISEM" ejercerá el control sanitario competencia del Estado en materia de salubridad general.
 
 ###### Artículo 2.
 
 19.- Los derechos y obligaciones de los usuarios de los servicios de salud y la participación de la comunidad en los mismos se regirá por lo previsto en la Ley General de Salud.
 
-> <small>(ADICIONADO, G.G. 12 DE OCTUBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.G. 9 DE MAYO DE 2013)</small>
 
 ###### Artículo 2.
 
-19 Bis.- En cumplimiento de los ordenamientos legales reglamentarios y administrativos, a la Secretaría de Salud y al ISEM, en términos de su competencia, les corresponde vigilar y operar el control sanitario de las actividades de salud que realicen los establecimientos que brindan servicios de control de peso o en beneficio de la salud estética bajo tratamientos terapéuticos, quiroprácticos, medicinales, herbolarios u otros métodos.
+19 Bis.- En cumplimiento de los ordenamientos legales reglamentarios y administrativos, a la Secretaría de Salud, por conducto de la "COPRISEM" le corresponde, vigilar y operar el control sanitario de las actividades de salud que realicen los establecimientos que brindan servicios de control de peso o en beneficio de la salud estética bajo tratamientos terapéuticos, quiroprácticos, medicinales, herbolarios u otros métodos.
 
 ### CAPITULO SEGUNDO. Del Sistema Estatal de Salud
 
@@ -2405,33 +2439,61 @@ Con el objeto de combatir el alcoholismo, los Ayuntamientos y las autoridades es
 
 ###### Artículo 2.
 
-49.- Corresponde al Instituto de Salud del Estado de México ejercer el control sanitario de:
+49.- Corresponde a la "COPRISEM" como órgano desconcentrado de la Secretaría de Salud, ejercer el control sanitario de:
+
+(REUBICADA, G.G. 30 DE SEPTIEMBRE DE 2010)
 
 I. Comercio de alimentos y bebidas no alcohólicas en la vía pública;
 
+(REUBICADA, G.G. 30 DE SEPTIEMBRE DE 2010)
+
 II. Construcciones, excepto de los establecimientos de salud;
+
+(REUBICADA, G.G. 30 DE SEPTIEMBRE DE 2010)
 
 III. Panteones y crematorios;
 
+(REUBICADA, G.G. 30 DE SEPTIEMBRE DE 2010)
+
 IV. Limpieza pública;
+
+(REUBICADA, G.G. 30 DE SEPTIEMBRE DE 2010)
 
 V. Agua potable y alcantarillado;
 
+(REUBICADA, G.G. 30 DE SEPTIEMBRE DE 2010)
+
 VI. Sitios de cría y producción de animales domésticos;
+
+(REUBICADA, G.G. 30 DE SEPTIEMBRE DE 2010)
 
 VII. Centros de prevención y readaptación social;
 
+(REUBICADA, G.G. 30 DE SEPTIEMBRE DE 2010)
+
 VIII. Baños públicos;
+
+(REUBICADA, G.G. 30 DE SEPTIEMBRE DE 2010)
 
 IX. Centros de reunión públicos y espectáculos;
 
+(REUBICADA, G.G. 30 DE SEPTIEMBRE DE 2010)
+
 X. Establecimientos dedicados a la prestación del servicio de peluquería, salones de belleza y similares;
+
+(REUBICADA, G.G. 30 DE SEPTIEMBRE DE 2010)
 
 XI. Establecimientos de hospedaje;
 
+(REUBICADA, G.G. 30 DE SEPTIEMBRE DE 2010)
+
 XII. Transporte de pasajeros; y
 
+(REUBICADA, G.G. 30 DE SEPTIEMBRE DE 2010)
+
 XIII. Las demás que determine este Libro.
+
+(REUBICADO, G.G. 30 DE SEPTIEMBRE DE 2010)
 
 Para efectos de este Título se entiende por control sanitario el conjunto de acciones de orientación, educación, muestreo, verificación y, en su caso, aplicación de medidas de seguridad y sanciones.
 
@@ -2441,11 +2503,13 @@ Para efectos de este Título se entiende por control sanitario el conjunto de ac
 
 50.- Compete a la Secretaría de Salud la expedición de las normas técnicas estatales.
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 2.32], G.G. 30 DE SEPTIEMBRE DE 2010)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.G. 9 DE MAYO DE 2013)</small>
 
 ###### Artículo 2.
 
-51.- Compete al Instituto de Salud del Estado de México realizar las acciones de fomento sanitario, que incluyen la difusión de la normatividad aplicable al buen funcionamiento de los establecimientos.
+51.- Compete a la "COPRISEM" realizar las acciones de fomento sanitario, que incluyen la difusión de la normatividad aplicable al buen funcionamiento de los establecimientos.
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 2.33], G.G. 30 DE SEPTIEMBRE DE 2010)
 
@@ -2485,7 +2549,9 @@ Queda estrictamente prohibido el uso de aislantes de sonido que pongan en riesgo
 
 ### CAPITULO PRIMERO. Disposiciones generales
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 2.30], G.G. 30 DE SEPTIEMBRE DE 2010)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 9 DE MAYO DE 2013)</small>
 
 ###### Artículo 2.
 
@@ -2497,23 +2563,33 @@ Queda estrictamente prohibido el uso de aislantes de sonido que pongan en riesgo
 
 55.- Los animales muertos deben ser incinerados o enterrados antes de que entren en descomposición, por sus propietarios, en los sitios y en la forma que determinen los municipios.
 
-En caso de animales muertos abandonados el Instituto de Salud del Estado de México dictará las medidas necesarias para dar cumplimiento a lo señalado en el párrafo anterior, las cuales deberán ser atendidas por el municipio correspondiente.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 2.37], G.G. 30 DE SEPTIEMBRE DE 2010)
+> <small>(REFORMADO, G.G. 9 DE MAYO DE 2013)</small>
+
+En caso de animales muertos abandonados, la "COPRISEM" dictará las medidas para dar cumplimiento a lo señalado en el párrafo anterior, las cuales deberán ser atendidas por el municipio correspondiente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.G. 9 DE MAYO DE 2013)</small>
 
 ###### Artículo 2.
 
-56.- El Instituto de Salud del Estado de México realizará análisis periódicos de la potabilidad de las aguas, conforme a lo previsto en las normas oficiales mexicanas.
+56.- La "COPRISEM" realizará análisis periódicos de la potabilidad de las aguas, conforme a lo previsto en las normas oficiales mexicanas.
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 2.38], G.G. 30 DE SEPTIEMBRE DE 2010)
 
 ### CAPITULO SEGUNDO. De las autorizaciones sanitarias
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 2.44], G.G. 30 DE SEPTIEMBRE DE 2010)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 9 DE MAYO DE 2013)</small>
 
 #### SECCION PRIMERA. De la recolección de muestras
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 2.48], G.G. 30 DE SEPTIEMBRE DE 2010)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 9 DE MAYO DE 2013)</small>
 
 ###### Artículo 41.
 
@@ -2563,29 +2639,39 @@ Queda prohibido que los desechos o líquidos que conduzcan los drenajes sean ver
 
 58.- Los sitios de cría y producción de animales domésticos deben localizarse fuera de las áreas urbanas y urbanizables.
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 2.40], G.G. 30 DE SEPTIEMBRE DE 2010)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.G. 9 DE MAYO DE 2013)</small>
 
 ###### Artículo 2.
 
-59.- Las personas que realicen actividades o presten servicios de salubridad local sujetos al control sanitario del Instituto de Salud del Estado de México, que no requieran autorización sanitaria conforme al Capítulo siguiente, deben dar aviso por escrito al Instituto del inicio de sus operaciones.
+59.- Las personas que realicen actividades o presten servicios de salubridad local sujetos al control sanitario de la "COPRISEM" que no requieran autorización sanitaria conforme al Capítulo siguiente, deben darle aviso por escrito del inicio de sus operaciones.
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 2.41], G.G. 30 DE SEPTIEMBRE DE 2010)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-###### Artículo 2.
-
-60.- Cuando las construcciones, terrenos, edificios o locales representen un peligro para la población por su insalubridad, el Instituto de Salud del Estado de México podrá ordenar al propietario o poseedor la realización de las obras que estime necesarias para evitar el peligro o, en su defecto, ordenar la ejecución de las obras con cargo al omiso.
-
-(REUBICADO [N. DE E. ANTES ARTÍCULO 2.42], G.G. 30 DE SEPTIEMBRE DE 2010)
+> <small>(REFORMADO, G.G. 9 DE MAYO DE 2013)</small>
 
 ###### Artículo 2.
 
-61.- Todo cambio de propietario de un establecimiento, de razón social o denominación o, en su caso, la suspensión de actividades, trabajos o servicios, debe ser comunicado al Instituto de Salud del Estado de México.
+60.- Cuando las construcciones, terrenos, edificios o locales representen un peligro para la población por su insalubridad, la "COPRISEM" podrá ordenar al propietario o poseedor la realización de las obras que estime necesarias para evitar el peligro o, en su defecto, ordenar la ejecución de las obras con cargo al omiso.
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 2.43], G.G. 30 DE SEPTIEMBRE DE 2010)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.G. 9 DE MAYO DE 2013)</small>
+
+###### Artículo 2.
+
+61.- Todo cambio de propietario de un establecimiento, de razón social o denominación o, en su caso, la suspensión de actividades, trabajos o servicios, debe ser comunicado a la "COPRISEM".
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.G. 9 DE MAYO DE 2013)</small>
 
 #### SECCION SEGUNDA. De las medidas de seguridad sanitaria
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 2.49], G.G. 30 DE SEPTIEMBRE DE 2010)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 9 DE MAYO DE 2013)</small>
 
 ###### Artículo 43.
 
@@ -2713,13 +2799,15 @@ Las escalas de los cuerpos técnico profesional están integradas por el persona
 
 ###### Artículo 2.
 
-62.- Los proyectos de abastecimiento de agua potable deben ser sometidos a la consideración del Instituto de Salud del Estado de México para la aprobación del sistema adoptado.
+62.- Los proyectos de abastecimiento de agua potable deben ser sometidos a la consideración de la "COPRISEM" para la aprobación del sistema adoptado.
 
-Los proyectos para la implantación de sistemas de alcantarillado deben ser estudiados y aprobados por el Instituto.
+Los proyectos para la implantación de sistemas de alcantarillado deben ser estudiados y aprobados por la "COPRISEM".
 
 ###### Artículo 2.
 
-63.- La autorización sanitaria es el acto administrativo mediante el cual el Instituto de Salud del Estado de México permite a una persona física o moral, pública o privada, la realización de actividades relacionadas con la salud humana, en los casos y con los requisitos y modalidades que determinen este Título y su reglamento.
+63.- La autorización sanitaria es el acto administrativo mediante el cual la "COPRISEM" permite a una persona física o moral, pública o privada, la realización de actividades relacionadas con la salud humana, en los casos y con los requisitos y modalidades que determine este Título y su Reglamento.
+
+(REUBICADO, G.G. 30 DE SEPTIEMBRE DE 2010)
 
 Las autorizaciones sanitarias tendrán el carácter de licencias y permisos.
 
@@ -2751,25 +2839,45 @@ La realización de giros adicionales exigidos para el desarrollo del giro origin
 
 La Secretaría de Salud emitirá normas técnicas en materia de ingeniería sanitaria, tratándose de obras de construcción, reconstrucción, modificación o acondicionamiento de establecimientos.
 
-El Instituto de Salud del Estado de México, con base en las normas a que se refiere el párrafo anterior y a través de disposiciones de carácter general, señalará los casos en que se eximirá de los permisos sanitarios de inicio y ocupación de obras.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 2.47], G.G. 30 DE SEPTIEMBRE DE 2010)
+> <small>(REFORMADO, G.G. 9 DE MAYO DE 2013)</small>
+
+La "COPRISEM" con base en las normas a que se refiere el párrafo anterior y a través de disposiciones de carácter general, señalará los casos en que se eximirá de los permisos sanitarios de inicio y ocupación de obras.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 9 DE MAYO DE 2013)</small>
 
 ###### Artículo 2.
 
-66.- El Instituto de Salud del Estado de México revocará las autorizaciones que haya otorgado en los casos siguientes:
+66.- La "COPRISEM" revocará las autorizaciones que haya otorgado en los casos siguientes:
+
+(REUBICADA, G.G. 30 DE SEPTIEMBRE DE 2010)
 
 I. Por incumplimiento de las disposiciones de este Libro y su reglamentación;
 
+(REUBICADA, G.G. 30 DE SEPTIEMBRE DE 2010)
+
 II. Cuando por causas supervenientes se compruebe que el ejercicio de las actividades que se hubieren autorizado constituyen un riesgo o daño para la salud humana;
+
+(REUBICADA, G.G. 30 DE SEPTIEMBRE DE 2010)
 
 III. Por reiterada renuencia de los titulares de la autorización, a acatar las determinaciones que dicte el Instituto en los términos de este Libro y demás disposiciones legales aplicables;
 
+(REUBICADA, G.G. 30 DE SEPTIEMBRE DE 2010)
+
 IV. Cuando resulten falsos los datos o documentos proporcionados por el interesado para el otorgamiento de la autorización; y
+
+(REUBICADA, G.G. 30 DE SEPTIEMBRE DE 2010)
 
 V. Cuando el interesado no se ajuste a los términos, condiciones y requisitos establecidos en la autorización o haga uso indebido o distinto de ésta.
 
+(REUBICADO, G.G. 30 DE SEPTIEMBRE DE 2010)
+
 Cuando la revocación de una autorización se funde en los riesgos o daños a la salud, se hará del conocimiento de las dependencias y organismos auxiliares que tengan atribuciones de orientación al consumidor.
+
+(REUBICADO, G.G. 30 DE SEPTIEMBRE DE 2010)
 
 La revocación surtirá efectos de clausura, prohibición de uso y de ejercicio de las actividades que hubiesen sido autorizadas.
 
@@ -2779,29 +2887,49 @@ La revocación surtirá efectos de clausura, prohibición de uso y de ejercicio 
 
 ###### Artículo 2.
 
-67.- El Instituto de Salud del Estado de México, independientemente de las visitas de verificación, podrá llevar a cabo la recolección de muestras de productos perecederos y no perecederos, así como de superficies vivas e inertes, para determinar la presencia de microorganismos patógenos causantes de daños a la salud.
+67.- La "COPRISEM" independientemente de las visitas de verificación, podrá llevar a cabo la recolección de muestras de productos perecederos y no perecederos, así como de superficies vivas e inertes, para determinar la presencia de microorganismos patógenos causantes de daños a la salud.
+
+(REUBICADO, G.G. 30 DE SEPTIEMBRE DE 2010)
 
 La recolección de muestras de productos y superficies se efectuará con sujeción a las disposiciones aplicables de la Ley General de Salud y de las normas oficiales de la materia.
 
 ###### Artículo 2.
 
-68.- El Instituto de Salud del Estado de México, para proteger la salud, está facultado para dictar las medidas de seguridad sanitaria siguientes:
+68.- La "COPRISEM" para proteger la salud, está facultada para dictar las medidas de seguridad sanitaria siguientes:
+
+(REUBICADA, G.G. 30 DE SEPTIEMBRE DE 2010)
 
 I. El aislamiento, que es la separación de personas o animales infectados durante el periodo de transmisibilidad, a lugares y en condiciones que eviten el peligro de contagio;
 
+(REUBICADA, G.G. 30 DE SEPTIEMBRE DE 2010)
+
 II. La cuarentena, que es la limitación a la libertad de tránsito de personas sanas que hubiesen estado expuestas a una enfermedad transmisible;
+
+(REUBICADA, G.G. 30 DE SEPTIEMBRE DE 2010)
 
 III. La observación personal, que consiste en la estrecha supervisión sanitaria de los presuntos portadores, sin limitar su libertad de tránsito, con el fin de facilitar la rápida identificación de la infección o enfermedad transmisible;
 
+(REUBICADA, G.G. 30 DE SEPTIEMBRE DE 2010)
+
 IV. La vacunación de personas y animales, consistente en la estimulación de la inmunidad artificial y activa para protección de alguna enfermedad específica;
+
+(REUBICADA, G.G. 30 DE SEPTIEMBRE DE 2010)
 
 V. La destrucción o control de insectos u otra fauna transmisora y nociva, que es la aplicación de todo procedimiento físico o químico mediante el cual pueda eliminarse en el cuerpo de una persona, en la ropa o en el ambiente, los insectos, roedores u otros que reconocidamente sean capaces de transmitir enfermedades y que vivan en el cuerpo o en las habitaciones de las personas;
 
+(REUBICADA, G.G. 30 DE SEPTIEMBRE DE 2010)
+
 VI. La suspensión de trabajos o servicios, consistente en la ejecución de acciones para evitar la realización de actividades en locales, instalaciones, dependencias y anexos, cubiertos o descubiertos, fijos o móviles;
+
+(REUBICADA, G.G. 30 DE SEPTIEMBRE DE 2010)
 
 VII. El aseguramiento o destrucción de objetos, productos o substancias, que es el procedimiento mediante el cual la autoridad sanitaria retiene para sí, para custodia de quien los posee o para su destrucción, aplicando mecanismos que considere convenientes, los objetos, productos o substancias que constituyan riesgo inminente o probable para el ser humano;
 
+(REUBICADA, G.G. 30 DE SEPTIEMBRE DE 2010)
+
 VIII. La desocupación o desalojo de casas, edificios, establecimientos y, en general, de cualquier predio, que es el procedimiento mediante el cual los espacios de los locales, sus instalaciones, dependencias y anexos, cubiertos o descubiertos, fijos o móviles, sean de producción, transformación, almacenamiento, distribución de bienes y servicios, de prestación de servicios o de habitación únicamente, se encuentren libres de la presencia de seres humanos y animales domésticos;
+
+(REUBICADA, G.G. 30 DE SEPTIEMBRE DE 2010)
 
 IX. La prohibición de actos de uso, que es la determinación mediante la cual se ordena a los poseedores, encargados u ocupantes la utilización de los aparatos, equipos, sustancias, productos terminados, recipientes o cualquier otro implemento empleado en procesos de producción de bienes y servicios o para la prestación de servicios; y
 
@@ -2812,6 +2940,8 @@ X. La suspensión temporal hasta por noventa días a establecimientos con venta 
 > <small>(ADICIONADA, G.G. 22 DE FEBRERO DE 2013)</small>
 
 XI. Las demás que determinen las autoridades sanitarias que tiendan a evitar riesgos o daños a la salud.
+
+(REUBICADO, G.G. 30 DE SEPTIEMBRE DE 2010)
 
 Estas medidas serán de inmediata ejecución, durarán el tiempo estrictamente necesario para que desaparezca el peligro y se aplicarán sin perjuicio de las sanciones correspondientes.
 
@@ -2845,13 +2975,21 @@ VII. El aseguramiento de objetos, productos o sustancias, cuando exista sospecha
 
 VIII. La desocupación o desalojo de predios, casas, edificios o establecimientos, cuando se considere indispensable para evitar un daño a la salud o la vida de las personas.
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 2.51], G.G. 30 DE SEPTIEMBRE DE 2010)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 9 DE MAYO DE 2013)</small>
 
 ###### Artículo 2.
 
-70.- El Instituto de Salud del Estado de México podrá retener o dejar los objetos, productos o sustancias en depósito, hasta en tanto no se determine su destino, previo dictamen de laboratorio acreditado.
+70.- La "COPRISEM" podrá retener o dejar los objetos, productos o sustancias en depósito, hasta en tanto no se determine su destino, previo dictamen de laboratorio acreditado.
 
-Si el dictamen reporta que el bien asegurado no es nocivo para la salud o cumple con las disposiciones legales correspondientes, se procederá a su inmediata devolución. En caso de que el interesado no gestione la recuperación dentro del plazo que se señale, se entiende que el bien causa abandono y quedará a disposición del Instituto para su aprovechamiento.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.G. 9 DE MAYO DE 2013)</small>
+
+Si el dictamen reporta que el bien asegurado no es nocivo para la salud o cumple con las disposiciones legales correspondientes, se procederá a su inmediata devolución. En caso de que el interesado no gestione la recuperación dentro del plazo que señale, se entiende que el bien causa abandono y quedará a disposición de la "COPRISEM" para su aprovechamiento.
+
+(REUBICADO, G.G. 30 DE SEPTIEMBRE DE 2010)
 
 Si del dictamen resulta que el bien asegurado es nocivo para la salud, se podrá someter a un tratamiento que haga posible su aprovechamiento por el interesado o determinar su destrucción.
 
@@ -2871,17 +3009,27 @@ III. Clausura temporal o definitiva, parcial o total; y
 
 IV. Arresto hasta por treinta y seis horas.
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 2.53] Y REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2010)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 9 DE MAYO DE 2013)</small>
 
 ###### Artículo 2.
 
-72.- Las infracciones a lo previsto en este Título serán sancionadas por el Instituto de Salud del Estado de México, en los términos siguientes:
+72.- Las infracciones a lo previsto en este Título serán sancionadas por la "COPRISEM" en los términos siguientes:
+
+(REUBICADA Y REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2010)
 
 I. Con multa equivalente de cuarenta a cien veces el salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción, la violación a lo dispuesto en los artículos 2.64, en caso de no exhibir la licencia en un lugar visible, y 2.65;
 
+(REUBICADA Y REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2010)
+
 II. Con multa equivalente de cincuenta a quinientas veces el salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción, la violación a lo dispuesto en el artículo 2.53;
 
+(REUBICADA Y REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2010)
+
 III. Con multa equivalente de doscientas cincuenta a dos mil veces el salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción, la violación a lo dispuesto en el artículo 2.55; y
+
+(REUBICADA Y REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2010)
 
 IV. Con multa equivalente de mil a cuatro mil veces el salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción, en caso de no contar con la licencia a que se refiere el artículo 2.64.
 
@@ -16207,9 +16355,9 @@ G.G. 3 DE MAYO DE 2013.
 
 DECRETO No. 80 POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO TRANSITORIO DÉCIMO DEL DECRETO NÚMERO 394, PUBLICADO EN EL PERIÓDICO OFICIAL "GACETA DEL GOBIERNO", DE FECHA 16 DE DICIEMBRE DE 2011, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS, Y REFORMADO MEDIANTE DECRETO NUMERO 10, PUBLICADO EN EL PERIÓDICO OFICIAL "GACETA DEL GOBIERNO", DE FECHA 26 DE OCTUBRE DE 2012.
 
-PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
-SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
 
@@ -16244,3 +16392,15 @@ A partir del inicio de vigencia de este Decreto, las dependencias dispondrán de
 ###### ARTÍCULO SÉPTIMO.
 
 Se derogan las demás disposiciones legales de igual o menor jerarquía que se opongan a lo establecido en esta Ley.
+
+G.G. 9 DE MAYO DE 2013.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor en treinta días hábiles siguientes al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones jurídicas que se opongan a lo dispuesto en el presente Decreto.
+
+CUARTO.- El Titular del Poder Ejecutivo del Estado de México, deberá de adecuar el Reglamento de Salud del Estado de México, en un término no mayor a 60 días, contados a partir del día siguiente en que se publica el presente Decreto en el Periódico Oficial "Gaceta del Gobierno", entre tanto se seguirá aplicando el vigente, en lo que no se oponga a este ordenamiento.
+
+QUINTO.- El Titular del Poder Ejecutivo del Estado de México, deberá de adecuar los acuerdos y demás disposiciones en la materia de salud, que contemplen la regulación, control y fomentos sanitarios en el Estado de México, para que los ejerza la "COPRISEM" con independencia del Instituto de Salud del Estado de México, que como organismo descentralizado debe únicamente otorgar la prestación de los servicios de salud en la Entidad, en un término de 60 días contados a partir de la publicación del presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
