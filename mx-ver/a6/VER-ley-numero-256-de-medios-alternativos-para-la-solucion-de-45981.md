@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-256-de-medios-alternativos-para-la-solucion-de-45981
 country: "mx"
 rank: "ley"
 publication_date: "2005-08-15"
-last_updated: "2007-06-22"
+last_updated: "2013-05-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45981&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "VER"
 ---
 # LEY NUMERO 256 DE MEDIOS ALTERNATIVOS PARA LA SOLUCION DE CONFLICTOS PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-LEY DE MEDIOS ALTERNATIVOS PARA LA SOLUCION DE CONFLICTOS PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
+LEY DE MEDIOS ALTERNATIVOS PARA LA SOLUCIÓN DE CONFLICTOS PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE JUNIO DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY NÚMERO 834 DE MEDIOS ALTERNATIVOS PARA LA SOLUCIÓN DE CONFLICTOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADA EN LA G.O. DE 10 DE MAYO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: ABROGADA.
 
 Ley publicada en la Gaceta Oficial del Gobierno del Estado de Veracruz de Ignacio de la Llave, el lunes 15 de agosto de 2005.
 
@@ -263,7 +265,7 @@ VII. Firma del convenio o constancia.
 
 ###### Artículo 26.
 
-Cuando una sesión no baste para resolver el conflicto, se procurará mantener el ánimo de transeguir y se citará a los interesados a otra dentro del término de 10 días; siendo hasta 3 como máximo.
+Cuando una sesión no baste para resolver el conflicto, se procurará mantener el ánimo de transeguir (sic) y se citará a los interesados a otra dentro del término de 10 días; siendo hasta 3 como máximo.
 
 ###### Artículo 27.
 
@@ -385,10 +387,24 @@ Sufragio efectivo. No reelección.
 
 Licenciado Fidel Herrera Beltrán.-Gobernador del Estado.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 G.O. 22 DE JUNIO DE 2007.
 
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Se derogan las disposiciones que se opongan al presente decreto.
+
+G.O. 10 DE MAYO DE 2013.
+
+Primero. La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se abroga la Ley de Medios Alternativos para la Solución de Conflictos para el Estado Libre y Soberano de Veracruz de Ignacio de la Llave, publicada en la Gaceta Oficial del estado el 15 de agosto de 2005.
+
+Tercero. Los recursos humanos, materiales y financieros con los que actualmente cuenta el Centro Estatal de Medios Alternativos para la Solución de Conflictos del Poder Judicial del Estado de Veracruz de Ignacio de la Llave, al inicio de la vigencia de esta Ley, se transferirán en su totalidad al Centro Estatal de Justicia Alternativa de Veracruz, con pleno respeto a los derechos de sus trabajadores.
+
+Cuarto. En tanto se nombra a los integrantes del Centro Estatal de Justicia Alternativa de Veracruz, la estructura orgánica del Centro Estatal de Medios Alternativos de Solución de Conflictos del Poder Judicial del Estado de Veracruz de Ignacio de la Llave seguirá operando y asumirá las atribuciones que la presente ley les otorga.
+
+Quinto. A la brevedad posible, el Centro Estatal de Justicia Alternativa de Veracruz elaborará su reglamento y demás normatividad correspondiente.
+
+Sexto. Se derogan todas las disposiciones que se opongan a la presente Ley.
