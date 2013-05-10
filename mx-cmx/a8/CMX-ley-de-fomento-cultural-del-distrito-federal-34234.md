@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-fomento-cultural-del-distrito-federal-34234"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-14"
-last_updated: "2012-05-09"
+last_updated: "2013-05-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34234&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-09-26"
 
 LEY DE FOMENTO CULTURAL DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 10 DE MAYO DE 2013.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 14 de octubre de 2003.
 
@@ -524,11 +524,17 @@ IX. Aportar ideas con relación a la preservación y fortalecimiento de las dive
 
 X. Elaborar sus manuales de organización;
 
-> <small>(REFORMADA, G.O. 9 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, G.O. 10 DE MAYO DE 2013)</small>
 
-XI. Recomendar a la Secretaría de Cultura bienes de Patrimonio Cultural tangible o intangible susceptibles de Declaratoria; y
+XI. Conocer de las observaciones formuladas por los Consejos Delegacionales, e intervenir para la constitución en términos del tercer párrafo del artículo 33 de esta ley;
 
-XII. En general, las que determine su Presidente y que sean inherentes para el cumplimiento del objeto del Consejo.
+> <small>(REFORMADA, G.O. 10 DE MAYO DE 2013)</small>
+
+XII. Recomendar a la Secretaria de Cultura Bienes de Patrimonio Cultural Intangible susceptibles de declaratoria, y
+
+> <small>(ADICIONADA, G.O. 10 DE MAYO DE 2013)</small>
+
+XIII. En general, las que determine su Presidente y que sean inherentes para el cumplimiento del objeto del Consejo.
 
 ###### ARTÍCULO 25.
 
@@ -606,13 +612,19 @@ El Consejo se reunirá de manera obligatoria cada dos meses de manera ordinaria,
 
 ### Capítulo IV. De los Consejos Delegacionales de Fomento y Desarrollo Cultural del Distrito Federal
 
+> <small>(REFORMADO, G.O. 10 DE MAYO DE 2013)</small>
+
 ###### ARTÍCULO 33.
 
-Los Consejos Delegacionales serán el órgano asesor de los Jefes Delegacionales para el cumplimiento de la política cultural planteada en el Programa Delegacional de Fomento y Desarrollo Cultural.
+Los Consejos Delegacionales serán el órgano asesor de los Jefes Delegacionales para dar cabal cumplimiento a la política cultural planteada en el Programa Delegacional de Fomento y Desarrollo Cultural.
 
 > <small>(ADICIONADO, G.O. 15 DE MAYO DE 2007)</small>
 
 Los Consejos Delgacionales (sic) se deberán constituir dentro de los primeros 45 días hábiles a partir de que el Jefe Delegacional entrante tome posesión de su administración, de la misma manera se deberá de informar ante las instancias correspondientes los integrantes de dichos consejos.
+
+> <small>(ADICIONADO, G.O. 10 DE MAYO DE 2013)</small>
+
+En caso de no constituirse dentro del tiempo señalado, la Secretaría de Cultura a través del Consejo de Fomento y Desarrollo Cultural del Distrito Federal convocará a su constitución en un plazo no mayor a 15 días hábiles después de vencido el plazo previsto en el párrafo anterior.
 
 > <small>(REFORMADO, G.O. 3 DE MAYO DE 2006)</small>
 
@@ -620,15 +632,17 @@ Los Consejos Delgacionales (sic) se deberán constituir dentro de los primeros 4
 
 Los Consejos Delegacionales colaborarán con el Jefe Delegacional en la elaboración del Programa Delegacional, planteando opiniones o sugerencias concretas que sirvan para promover el fomento cultural de la demarcación, conforme al Programa General de Fomento y Desarrollo Cultural del Distrito Federal, debiendo sesionar trimestralmente mediante convocatoria del Jefe Delegacional, con un quórum de las dos terceras partes del total de los integrantes, sin perjuicio de que sean convocadas las sesiones extraordinarias que se consideren pertinentes.
 
-> <small>(REFORMADO, G.O. 15 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, G.O. 10 DE MAYO DE 2013)</small>
 
 ###### ARTÍCULO 35.
 
-Los Consejos Delegacionales remitirán al Consejo, un informe relevante 2 veces al año, el primero, en un plazo no mayor a los 60 días naturales comprendido del 15 de Noviembre al 15 de Enero, y el segundo en un plazo no mayor a 30 días naturales comprendido del 1 al 30 de junio, para que sea considerado como instrumento en la formulación de los planes, programas y políticas culturales e integrando (sic) al Sistema Integral.
+Los Consejos Delegacionales remitirán al Consejo, un informe detallado semestral a partir de su constitución, sobre los avances y metas obtenidas en el fomento y desarrollo cultural de su Demarcación.
+
+> <small>(REFORMADO, G.O. 10 DE MAYO DE 2013)</small>
 
 ###### ARTÍCULO 36.
 
-Es responsabilidad de los Consejos Delegacionales instrumentar las medidas necesarias para garantizar la participación equitativa de la sociedad en general, en lo referente al fomento y desarrollo cultural en su delegación.
+Es obligación de los Consejos Delegacionales instrumentar las medidas necesarias para garantizar la participación equitativa de la sociedad en general, en lo referente al fomento y desarrollo cultural en su Delegación.
 
 ###### ARTÍCULO 37.
 
@@ -1119,3 +1133,9 @@ PRIMERO.- Remítase al Jefe de Gobierno del Distrito Federal para su debida publ
 SEGUNDO.- Las presentes reformas y adiciones entrarán en vigor el día siguiente al de su publicación en la Gaceta Oficial del Distrito Federal.
 
 TERCERO.- En el término de 90 días naturales contados a partir de la entrada en vigor del presente Decreto, deberán realizarse las adecuaciones reglamentarias que correspondan.
+
+G.O. 10 DE MAYO DE 2013.
+
+PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
