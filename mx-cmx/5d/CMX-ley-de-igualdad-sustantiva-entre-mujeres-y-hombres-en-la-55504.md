@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-igualdad-sustantiva-entre-mujeres-y-hombres-en-la-55504"
 country: "mx"
 rank: "ley"
 publication_date: "2007-05-15"
-last_updated: "2012-01-26"
+last_updated: "2013-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55504&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2007-05-02"
 ---
 # LEY DE IGUALDAD SUSTANTIVA ENTRE MUJERES Y HOMBRES EN LA CIUDAD DE MEXICO -- ANTES LEY DE IGUALDAD SUSTANTIVA ENTRE MUJERES Y HOMBRES EN EL DISTRITO FEDERAL --
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE MAYO DE 2013 EN LA G.O. DEL DISTRITO FEDERAL, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE IGUALDAD SUSTANTIVA ENTRE MUJERES Y HOMBRES EN EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 26 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 10 DE MAYO DE 2013.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 15 de mayo de 2007.
 
@@ -122,7 +124,9 @@ II. Implementar y fortalecer los mecanismos institucionales de promoción y cump
 
 III. Implementar las acciones, políticas, programas, proyectos e instrumentos que garanticen la adopción de acciones afirmativas;
 
-IV. Promover en coordinación con las dependencias de la administración las acciones para la transversalidad de la perspectiva de género, así como crear y aplicar el Programa en el Distrito Federal, con los principios que la ley señala;
+> <small>(REFORMADA, G.O. 10 DE MAYO DE 2013)</small>
+
+IV. Promover en coordinación con las dependencias de la administración y de los órganos político-administrativos, las acciones para la transversalidad de la perspectiva de género, así como crear y aplicar el Programa en el Distrito Federal, con los principios que la ley señala;
 
 V. Suscribir convenios a través del Instituto de las Mujeres del Distrito Federal, a fin de impulsar, fortalecer y promover la difusión y el conocimiento de la presente ley; así como, velar por el cumplimiento de la misma en el Distrito Federal en los ámbitos público y privado; y
 
@@ -155,6 +159,24 @@ IX. Formular un programa anual que tenga como objetivo la difusión trimestral a
 > <small>(ADICIONADA, G.O. 22 DE DICIEMBRE DE 2011)</small>
 
 X. Los demás que esta Ley y otros ordenamientos aplicables le confieren.
+
+> <small>(ADICIONADO, G.O. 10 DE MAYO DE 2013)</small>
+
+###### Artículo 9 Bis.
+
+Corresponde a los Jefes Delegacionales:
+
+I. Implementar las acciones, políticas, programas, proyectos e instrumentos que garanticen la adopción de acciones afirmativas en la (sic) áreas delegacionales;
+
+II. En coordinación con el Jefe de Gobierno del Distrito Federal, Implementar y fortalecer los mecanismos institucionales de promoción y cumplimiento de la política de igualdad sustantiva en el Distrito Federal, mediante la aplicación del principio de transversalidad, a través del Instituto de las Mujeres del Distrito Federal;
+
+III. Evaluar la participación equilibrada entre mujeres y hombres, y procurar la participación y representación del 50% en cargos públicos de Directora o Director General; Directora o Director Ejecutivo y Directora o Director de Área, de los órganos político-administrativos, entre ambos sexos;
+
+Establecer vínculos de colaboración permanente con organismos públicos, privados y sociales, para la efectiva aplicación de la presente ley;
+
+IV. Suscribir los convenios necesarios para el cumplimiento de la presente ley, y
+
+V. Los demás que esta Ley y otros ordenamientos aplicables le confieren.
 
 ## TÍTULO III
 
@@ -306,13 +328,13 @@ También se considerará discriminación por razón de sexo, cualquier represali
 
 II. La convivencia armónica y equilibrada de los ámbitos de la vida personal, laboral y familiar, lo que se considerará como el derecho de conciliación, encaminado a lograr el pleno desarrollo de los individuos:
 
-> <small>(REFORMADO, G.O. 26 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, G.O. 10 DE MAYO DE 2013)</small>
 
-a) Para contribuir al reparto equilibrado de las responsabilidades familiares se promoverá el reconocimiento del derecho de los padres a un permiso por paternidad de diez días hábiles.
+a) Para contribuir al reparto equitativo de las responsabilidades familiares y en cumplimiento a la igualdad sustantiva en el Distrito Federal se reconocerá el derecho de:
 
-> <small>(ADICIONADO, G.O. 26 DE ENERO DE 2012)</small>
+1. Las madres, por adopción, a un permiso por maternidad de quince días naturales y;
 
-b) En caso de adopción de un menor se promoverá el reconocimiento del derecho de los padres a un permiso de maternidad y paternidad de diez días hábiles.
+2. Los padres, por consanguinidad o adopción, a un permiso por paternidad de quince días naturales.
 
 III. El derecho a la información necesaria para hacer efectiva la igualdad sustantiva, para lo cual los entes públicos pondrán a disposición de los individuos la información sobre políticas, instrumentos y normas relativas a la igualdad sustantiva entre mujeres y hombres.
 
@@ -378,7 +400,9 @@ III. Garantizar la implantación de mecanismos que promuevan la participación e
 
 IV. Promover la participación y representación equilibrada entre mujeres y hombres dentro de las estructuras de los partidos y agrupaciones políticas locales;
 
-V. Garantizar la participación equitativa de mujeres y hombres en altos cargos públicos;
+> <small>(REFORMADA, G.O. 10 DE MAYO DE 2013)</small>
+
+V. Promover la participación equitativa del 50% en cargos públicos de Directora o Director General; Directora o Director Ejecutivo y Directora o Director de Área, de los órganos político-administrativos;
 
 VI. Desarrollar y actualizar estadísticas desagregadas por sexo, sobre puestos decisorios y cargos directivos en los sectores público, privado y de la sociedad civil, y
 
@@ -547,3 +571,19 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para mayor difusión en el Diario Oficial de la Federación.
 
 TERCERO.- Todos los entes Públicos deberán de informar el conocimiento de estos derechos.
+
+G.O. 10 DE MAYO DE 2013.
+
+DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 8 Y 25, Y SE ADICIONA UN ARTICULO 9 BIS DE LA LEY DE IGUALDAD SUSTANTIVA ENTRE MUJERES Y HOMBRES EN EL DISTRITO FEDERAL.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para mayor difusión.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 10 DE MAYO DE 2013.
+
+DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 21 DE LA LEY DE IGUALDAD SUSTANTIVA ENTRE MUJERES Y HOMBRES EN EL DISTRITO FEDERAL.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para mayor difusión.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
