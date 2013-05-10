@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-penales-para-el-estado-libre-y-37195"
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2013-04-18"
+last_updated: "2013-05-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LL
 
 > <small>N. DE E. EL PRESENTE ORDENAMIENTO SERA DEROGADO EN FORMA GRADUAL POR LOS ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL CÓDIGO NÚMERO 574 DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADO EN LA G.O. DEL 17 DE SEPTIEMBRE DE 2012, EN LOS DIFERENTES DISTRITOS JUDICIALES QUE SE SEÑALAN AL RESPECTO, EN LAS FECHAS CORRESPONDIENTES AL 11 DE NOVIEMBRE DE 2013, 11 DE MAYO DE 2014 Y 11 DE MAYO DE 2015, RESPECTIVAMENTE.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE MARZO DE 2013.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 18 DE ABRIL DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE MAYO DE 2013.
 
 Código publicado en el Alcance a la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -2041,101 +2039,39 @@ El juez o tribunal reconocerá el valor de las pruebas aportadas a la investigac
 
 ### CAPÍTULO I. DE LOS JUICIOS ORALES SUMARIOS
 
-> <small>(REFORMADO, G.O. 2 DE AGOSTO DE 2007)</small>
-
 ###### Artículo 279.
 
-El juicio oral sumario se tramitará conforme a lo siguiente:
-
-I. Al dictar el auto de formal prisión o de sujeción a proceso, el juez resolverá de oficio la apertura del juicio oral sumario en los casos de delitos cuyo término medio aritmético de la pena aplicable no exceda de 6 años;
-
-II. En los casos de delitos cuyo término medio aritmético de la pena aplicable sea mayor al límite que prevé la fracción anterior, el juez resolverá de oficio y de inmediato la apertura del juicio oral sumario, si se da alguno de los siguientes supuestos:
-
-a) Se trate de delito flagrante; o
-
-b) Exista confesión ante la autoridad judicial o ratificación ante ésta de la confesión que se rindió en la investigación ministerial, apoyada con otros medios de prueba como se establece en este Código;
-
-III. En el caso de concurso de delitos, se tomará en cuenta para los efectos de la fracción anterior, el supuesto de mayor penalidad.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 2010)</small>
+(DEROGADO, G.O. 10 DE MAYO DE 2013)
 
 ###### Artículo 280.
 
-El juicio oral sumario se celebrará ante un juez que no haya conocido del caso previamente y se regirá por los principios de oralidad, publicidad, contradicción, concentración, continuidad e inmediación.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 2010)</small>
+(DEROGADO, G.O. 10 DE MAYO DE 2013)
 
 ###### Artículo 281.
 
-El acuerdo de apertura del juicio oral sumario sólo podrá revocarse en los supuestos previstos en la fracción II del artículo 279 de este Código, para seguir el procedimiento ordinario, cuando así lo soliciten dentro de los tres días siguientes a la notificación del auto relativo, el inculpado o el defensor; en este último supuesto, será necesaria la ratificación del inculpado, la que deberá efectuarse en un término similar de tres días.
-
-Si el auto de formal prisión se dicta a dos o más personas, únicamente se revocará el juicio oral sumario si todos los procesados estuvieren de acuerdo en que así sea.
-
-De revocarse el acuerdo, se abrirá el procedimiento ordinario en los términos previstos en el Capítulo II de este Título.
-
-> <small>(REFORMADO, G.O. 2 DE AGOSTO DE 2007)</small>
+(DEROGADO, G.O. 10 DE MAYO DE 2013)
 
 ###### Artículo 282.
 
-Acordada la apertura del juicio oral sumario, se convocará a una audiencia pública para el desahogo de pruebas, en la que se recibirán las mismas bajo las reglas siguientes:
-
-I. Las documentales, se desahogarán conforme a su propia naturaleza y deberán ofrecerse y ratificarse, en su caso, en la propia audiencia, por la parte oferente;
-
-II. Para la inspección y reconstrucción de hechos; para el reconocimiento y la confrontación y para la prueba presuncional o circunstancial, se estará a lo previsto en este Código, debiéndose ofrecer en un término no mayor a tres días, a partir de que surta efectos la notificación del auto de apertura del juicio y agotar su desahogo tres días antes de la audiencia, ratificándose el contenido de dichas actuaciones previas durante la misma;
-
-III. Para las pruebas periciales, se procederá en la misma forma prevista en la fracción anterior y el juez recabará los dictámenes definitivos hasta tres días antes de la audiencia. El dictamen pericial se rendirá conforme a las reglas de este Código. Obtenidos los dictámenes y conocidos por las partes, se citará a los peritos a la audiencia para que en ella los ratifiquen y, en su caso, sean interrogados por las partes. Cuando fuere necesario, el juez podrá de oficio nombrar un perito tercero en discordia, para que en un término no mayor al que se le otorgó a las partes, rinda y ratifique su dictamen. Este perito también deberá presentarse a la audiencia, en los mismos términos y condiciones que sus pares;
-
-IV. Para las pruebas testimoniales y careos o para la ampliación de la confesión en términos del artículo 216, se ofrecerán y recibirán dichas probanzas en el marco de la citada audiencia y su desahogo y valoración se regirán por los principios de oralidad, inmediatez, concentración, contradicción y publicidad; pudiendo tanto el juzgador como las partes interrogar al procesado y, en su caso al agraviado y a los testigos, en términos del artículo 251 de este Código;
-
-V. Al concluir la recepción de las pruebas, el juez conminará a las partes a verter sus alegatos finales, sin detrimento al derecho que tienen de presentar sus conclusiones por escrito, en términos del artículo 283 de este ordenamiento. Habiéndose expuesto los alegatos, se dará por cerrada la audiencia;
-
-VI. Entre el acuerdo de inicio del juicio oral sumario y la realización de la audiencia de mérito, no deberá transcurrir un plazo mayor a cuarenta días hábiles;
-
-VII. El juez acordará lo que corresponda en cuanto a los citatorios, la preparación de las probanzas, las medidas de apremio que se requieran para la adecuada realización de la audiencia y su eventual diferición (sic), en términos de lo dispuesto por este Código, siendo aplicable en lo conducente el Reglamento de los Juicios Orales Sumarios, expedido por el Consejo de la Judicatura del Poder Judicial del Estado;
-
-VIII. La audiencia sólo podrá diferirse mediante auto debidamente fundado y motivado, sin que pueda excederse de forma alguna el término previsto en la fracción VI de este mismo artículo;
-
-IX. Antes del inicio de la audiencia y, cuando resulte oportuno, durante el desarrollo de ésta, el juez expondrá a las partes las opciones de que disponen para la resolución pronta de su controversia, mediante la aplicación de las disposiciones de la vigente Ley de Medios Alternativos para la Solución de Conflictos. En caso de haber conformidad entre las partes y de ser posible a criterio del juez, se declarará concluido el juicio oral sumario y se remitirá el expediente para su tramitación conforme al ordenamiento antes referido.
-
-> <small>(REFORMADO, G.O. 2 DE AGOSTO DE 2007)</small>
+(DEROGADO, G.O. 10 DE MAYO DE 2013)
 
 ###### Artículo 283.
 
-Una vez cerrada la audiencia de presentación y desahogo de pruebas en el juicio oral sumario, el Ministerio Público y la defensa deberán formular sus conclusiones en un término improrrogable de tres días.
-
-En caso de no hacerlo, el juez tomará como conclusiones los alegatos vertidos en la audiencia, y procederá a estudiar el expediente para emitir la sentencia.
-
-> <small>(REFORMADO, G.O. 2 DE AGOSTO DE 2007)</small>
+(DEROGADO, G.O. 10 DE MAYO DE 2013)
 
 ###### Artículo 284.
 
-El juez citará a las partes a escuchar la sentencia, en una audiencia para tal fin, que deberá celebrarse en un plazo no mayor a diez días hábiles contados a partir de haber expirado el término para la presentación de las conclusiones.
-
-> <small>(REFORMADO, G.O. 2 DE AGOSTO DE 2007)</small>
+(DEROGADO, G.O. 10 DE MAYO DE 2013)
 
 ###### Artículo 285.
 
-La sentencia deberá darse a conocer a las partes en la audiencia mencionada en el artículo anterior, y deberá emitirse en términos de lo previsto por el artículo 298 de este Código.
-
-> <small>(REFORMADO, G.O. 2 DE AGOSTO DE 2007)</small>
+(DEROGADO, G.O. 10 DE MAYO DE 2013)
 
 ###### Artículo 286.
 
-Las resoluciones en el juicio oral sumario, podrán ser impugnadas mediante el recurso de revocación, que en este caso será resuelto por el juez en la misma audiencia de que se trate. Contra la sentencia definitiva, sólo se admitirá el recurso de apelación.
+(DEROGADO, G.O. 10 DE MAYO DE 2013)
 
-> <small>(ADICIONADO, G.O. 2 DE AGOSTO DE 2007)</small>
-
-###### Artículo 286 Bis.
-
-Las actuaciones procesales celebradas en las audiencias, deberán registrarse por escrito, por video, audio o cualquier otro medio electrónico que garantice su reproducción.
-
-Las partes tendrán acceso a estos registros, que quedarán bajo custodia del Órgano Jurisdiccional. Para la emisión de copias o reproducciones de los mismos, se estará a lo que prevé este Código para la expedición de documentos certificados y su presentación como prueba deberá ser de manera íntegra, las partes no podrán hacer ediciones o cortes a la prueba de mérito.
-
-Cuando se pretendan utilizar registros de video o audio en el juicio oral sumario, se deberá preservar el original en condiciones que aseguren su inalterabilidad, sin perjuicio de la obtención de copias o reproducciones que podrán utilizarse para otros fines del proceso.
+Artículo 286 bis.- (DEROGADO, G.O. 10 DE MAYO DE 2013)
 
 ### CAPÍTULO II. PROCEDIMIENTO ORDINARIO
 
@@ -3370,3 +3306,9 @@ G.O. 21 DE MARZO DE 2013.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones permanentes o transitorias que contravengan el presente Decreto.
+
+G.O. 10 DE MAYO DE 2013.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. En relación a los Juicios Orales Sumarios que se encuentren en trámite, deberán substanciarse ante un Juez de la misma jerarquía y materia del distrito judicial en donde esté radicado el proceso y en caso de no existir, al haber un impedimento de derecho, deberá conocer un juez de igual naturaleza del distrito judicial más cercano.
