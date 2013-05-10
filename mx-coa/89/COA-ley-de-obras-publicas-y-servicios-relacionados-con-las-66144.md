@@ -4,7 +4,7 @@ identifier: "COA-ley-de-obras-publicas-y-servicios-relacionados-con-las-66144"
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-06"
-last_updated: "2013-04-19"
+last_updated: "2013-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66144&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2012 Y REPUBLICADA EL 19 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2013.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 6 de enero de 2009.
 
@@ -451,85 +451,109 @@ III. La indicación de que se deberá contar con el registro en el padrón de co
 
 IV. La forma en que los licitantes deberán acreditar su existencia legal, la experiencia y capacidad técnica en obras similares y capacidad financiera que se requiera para participar en la licitación, de acuerdo con las características, complejidad y magnitud de los trabajos;
 
-V. La indicación de los lugares, fechas y horarios en que los interesados podrán obtener las bases de la licitación y, en su caso, el costo y forma de pago de las mismas. Cuando las bases impliquen un costo, éste será fijado sólo en razón de la recuperación de las erogaciones por publicación de la convocatoria y de la reproducción de los documentos que se entreguen; los interesados podrán revisarlas previamente a su pago, el cual será requisito para participar en la licitación. Igualmente, los interesados podrán consultar y adquirir las bases de las licitaciones por los medios de difusión electrónica que establezca el Órgano de Control;
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2013)</small>
 
-(REFORMADA, P.O. 6 DE JULIO DE 2012) (REPUBLICADA, P.O. 19 DE ABRIL DE 2013)
+V. La indicación de que el licitante deberá proporcionar una dirección de correo electrónico;
 
-VI. Las fechas, horas y lugares de celebración de la visita al sitio de realización de los trabajos, de la junta de aclaraciones y del acto de presentación y apertura de proposiciones;
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2013)</small>
 
-VII. La especialidad de acuerdo al Padrón de Contratistas, así como la experiencia de ejecutar obras similares, que se requiera para participar en la licitación;
+VI. La indicación de los lugares, fechas y horarios en que los interesados podrán obtener las bases de licitación y, en su caso, el costo y forma de pago de las mismas; cuando las bases impliquen un costo, este será fijado sólo en razón de la recuperación de las erogaciones por publicación de la convocatoria y de la reproducción de los documentos que se entreguen; los interesados podrán revisarlas previamente a su pago, el cual será requisito para participar en la licitación; igualmente, los interesados podrán consultar y adquirir las bases de las licitaciones por los medios de difusión electrónica que establezca el órgano de control;
 
-VIII. La indicación de si la licitación es nacional o internacional; y en caso de ser internacional, si se realizará o no bajo la cobertura del capítulo de compras del sector público de algún tratado, y el idioma o idiomas, además del español, en que podrán presentarse las proposiciones;
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2013)</small>
 
-IX. La indicación de que ninguna de las condiciones contenidas en las bases de la licitación, así como en las proposiciones presentadas por los licitantes, podrán ser negociadas;
+VII. Moneda o monedas que podrán presentarse en las proposiciones. En los casos en que se permita hacer la cotización en moneda extranjera se deberá establecer que el pago que se realice en el territorio nacional se hará en moneda nacional y al tipo de cambio de la fecha en que se haga dicho pago, así como el mecanismo, periodos de revisión y los porcentajes máximos de ajuste de costos a que se sujetará el contrato;
 
-X. La descripción general de la obra o del servicio y el lugar en donde se llevarán a cabo los trabajos, así como, en su caso, la indicación de que podrán subcontratarse partes de los mismos;
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2013)</small>
 
-XI. Plazo de ejecución de los trabajos determinado en días naturales, indicando la fecha estimada de inicio de los mismos;
+VIII. Las condiciones de pago de acuerdo al tipo de contrato a celebrar;
 
-XII. Los porcentajes de los anticipos que, en su caso, se otorgarían;
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2013)</small>
 
-XIII. La indicación de que no podrán participar las personas que se encuentren en los supuestos del artículo 50 de esta Ley;
+IX. Fechas, horarios y lugares de los actos del proceso de licitación; Junta de aclaraciones, visita al sitio de los trabajos, en caso de que proceda, acto de recepción de propuestas, y acto de fallo y adjudicación del o los contratos;
 
-XIV. La indicación de que cualquier persona podrá asistir a los diferentes actos de la licitación en calidad de observador, sin necesidad de adquirir las bases, registrando previamente su participación, y
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2013)</small>
 
-XV. Los demás requisitos generales que deberán cumplir los interesados, según las características, complejidad y magnitud de los trabajos.
+X. La especialidad de acuerdo al Padrón de Contratistas, así como la experiencia de ejecutar obras similares, que se requiera para participar en la licitación;
 
-###### Artículo 31.
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2013)</small>
 
-Las bases que emitan las dependencias y entidades para las licitaciones públicas se pondrán a disposición de los interesados, tanto en el domicilio señalado por la convocante como en los medios de difusión electrónica que establezca el Órgano de Control, a partir del día en que se publique la convocatoria y hasta, inclusive, el sexto día natural previo al acto de presentación y apertura de proposiciones, siendo responsabilidad exclusiva de los interesados adquirirlas oportunamente durante este período, y contendrán en lo aplicable como mínimo, lo siguiente:
+XI. La indicación de si la licitación es nacional o internacional; y en caso de ser internacional, si se realizará o no bajo la cobertura del capítulo de compras del sector público de algún tratado, y el idioma o idiomas, además del español, en que podrán presentarse las proposiciones;
 
-I. Nombre, denominación o razón social de la dependencia o entidad convocante;
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2013)</small>
 
-II. Forma en que deberá acreditar la existencia y personalidad jurídica el licitante;
+XII. La indicación de que ninguna de las condiciones contenidas en las bases de la licitación, así como en las proposiciones presentadas por los licitantes, podrán ser negociadas;
 
-(REFORMADA, P.O. 6 DE JULIO DE 2012) (REPUBLICADA, P.O. 19 DE ABRIL DE 2013)
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2013)</small>
 
-III. Fechas, horarios y lugares de los actos del proceso de licitación; Junta de aclaraciones, visita al sitio de los trabajos, acto de recepción de propuestas, y acto de fallo y adjudicación del o los contratos;
+XIII. La descripción general de la obra o del servicio y el lugar en donde se llevarán a cabo los trabajos, así como, en su caso, información específica sobre las partes de los trabajos que podrán subcontratarse;
 
-IV. Señalamiento de que será causa de descalificación el incumplimiento de alguno de los requisitos establecidos en las bases de la licitación, así como la comprobación de que algún licitante ha acordado con otro u otros elevar el costo de los trabajos, o cualquier otro acuerdo que tenga como fin obtener una ventaja sobre los demás licitantes;
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2013)</small>
 
-V. Idioma o idiomas, además del español, en que podrán presentarse las proposiciones;
+XIV. Plazo de ejecución de los trabajos determinado en días naturales, indicando la fecha estimada de inicio de los mismos;
 
-VI. Moneda o monedas en que podrán presentarse las proposiciones. En los casos en que se permita hacer la cotización en moneda extranjera se deberá establecer que el pago que se realice en el territorio nacional se hará en moneda nacional y al tipo de cambio de la fecha en que se haga dicho pago, así como el mecanismo, periodos de revisión y los porcentajes máximos de ajuste de costos a que se sujetará el contrato;
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2013)</small>
 
-VII. La indicación de que ninguna de las condiciones contenidas en las bases de la licitación, así como en las proposiciones presentadas por los licitantes y contrato podrán ser negociadas;
+XV. Porcentaje, forma y términos de las garantías que deban otorgarse y del anticipo que en su caso se otorgue;
 
-VIII. Criterios claros y detallados para la evaluación de las propuestas y la adjudicación de los contratos, de conformidad con lo establecido por el artículo 37 de esta Ley;
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2013)</small>
 
-IX. Proyectos arquitectónicos y de ingeniería que se requieran para preparar la proposición; normas de calidad de los materiales y especificaciones generales y particulares de construcción aplicables, en el caso de las especificaciones particulares, deberán ser firmadas por el responsable del proyecto;
+XVI. La indicación de que no podrán participar las personas que se encuentren en los supuestos del artículo 50 de esta Ley.
 
-X. Tratándose de servicios relacionados con las obras públicas, los términos de referencia que deberán precisar el objeto y alcances del servicio; las especificaciones generales y particulares; el producto esperado, y la forma de presentación, así como los tabuladores de las cámaras industriales y colegios de profesionales que deberán servir de referencia para determinar los sueldos y honorarios profesionales del personal técnico;
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2013)</small>
 
-XI. Relación de materiales y equipo de instalación permanente que, en su caso, proporcione la convocante, debiendo acompañar los programas de suministro correspondientes;
+XVII. La indicación de que cualquier persona podrá asistir a los diferentes actos de la licitación en calidad de observador, sin necesidad de adquirir las bases, registrando previamente su participación;
 
-XII. Experiencia en obras similares, capacidad técnica y capacidad financiera necesaria de acuerdo con las características, complejidad y magnitud de los trabajos;
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2013)</small>
 
-XIII. Datos sobre las garantías, porcentajes, forma y términos de los anticipos que se concedan;
+XVIII. Señalamiento de que será causa de descalificación el incumplimiento de alguno de los requisitos establecidos en las bases de la licitación, así como la comprobación de que algún licitante ha acordado con otro u otros elevar el costo de los trabajos, o cualquier otro acuerdo que tenga como fin obtener una ventaja sobre los demás licitantes;
 
-XIV. La indicación de que por ningún motivo se recibirán conceptos de obra contratados que no cuenten con las especificaciones y la calidad requeridas en el expediente técnico. Por lo que en caso de existir conceptos de obra que no cumplan con las especificaciones y la calidad requeridas deberán realizar lo conducente para garantizar que dichos conceptos cumplan con lo requerido, sin costo alguno para el Estado;
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2013)</small>
 
-XV. Cuando proceda, lugar, fecha y hora para la visita al sitio de realización de los trabajos, la que deberá llevarse a cabo dentro del período comprendido entre el cuarto día natural siguiente a aquél en que se publique la convocatoria y el sexto día natural previo al acto de presentación y apertura de proposiciones;
+XIX. La indicación de que ninguna de las condiciones contenidas en las bases de la licitación, así como en las proposiciones presentadas por los licitantes y contrato podrán ser negociadas;
 
-XVI. Información específica sobre las partes de los trabajos que podrán subcontratarse;
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2013)</small>
 
-XVII. Plazo de ejecución de los trabajos determinado en días naturales, indicando la fecha estimada de inicio de los mismos;
+XX. Criterios claros y detallados para la evaluación de las propuestas y la adjudicación de los contratos, de conformidad con lo establecido por el artículo 37 de esta Ley:
 
-XVIII. Modelo de contrato al que se sujetarán las partes, diferenciando las de obras y los de servicios;
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2013)</small>
 
-XIX. Tratándose de contratos a precio alzado o mixtos en su parte correspondiente, a las condiciones de pago;
+XXI. Proyectos arquitectónicos y de ingeniería que se requieran para preparar la proposición; normas de calidad de los materiales y especificaciones generales y particulares de construcción aplicables, en el caso de las especificaciones particulares, deberán ser firmadas por el responsable del proyecto;
 
-XX. Tratándose de contratos a precios unitarios o mixtos en su parte correspondiente, el procedimiento de ajuste de costos que deberá aplicarse, así como él catálogo de conceptos, cantidades y unidades de medición, debe ser firmado por el responsable del proyecto; y la relación de conceptos de trabajo más significativos, de los cuales deberán presentar análisis y relación de los costos básicos de materiales, mano de obra, maquinaria y equipo de construcción que intervienen en dichos análisis. En todos los casos se deberá prever que cada concepto de trabajo esté debidamente integrado y soportado, preferentemente, en las especificaciones de construcción y normas de calidad solicitadas, procurando que estos conceptos sean congruentes con las cantidades de trabajo requeridos por el proyecto;
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2013)</small>
 
-XXI. La indicación de que el licitante ganador que no firme el contrato por causas imputables al mismo será sancionado en los términos del artículo 78 y 79 de esta Ley;
+XXII. Tratándose de servicios relacionados con las obras públicas, los términos de referencia que deberán precisar el objeto y alcances del servicio; las especificaciones generales y particulares; el producto esperado, y la forma de presentación, así como los tabuladores de las cámaras industriales y colegios de profesionales que deberán servir de referencia para determinar los sueldos y honorarios profesionales del personal técnico;
 
-(REFORMADA, P.O. 6 DE JULIO DE 2012) (REPUBLICADA, P.O. 19 DE ABRIL DE 2013)
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2013)</small>
 
-XXII. En su caso, términos y condiciones a que deberá ajustarse la participación de los licitantes cuando las proposiciones sean enviadas por medios remotos de comunicación electrónica. El uso de estos medios para enviar sus proposiciones, no limita en ningún caso, el derecho de los licitantes de asistir a los diferentes actos derivados de una licitación;
+XXIII. Relación de materiales y equipo de instalación permanente que, en su caso, proporcione la convocante, debiendo acompañar los programas de suministro correspondientes;
 
-(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO PRIMER PÁRRAFO, P.O. 19 DE ABRIL DE 2013)
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2013)</small>
 
-XXIII. La indicación de que no podrán participar las personas físicas o morales inhabilitadas o suspendidas en el Padrón de Contratistas del Estado por resolución del Órgano de Control, por la Secretaría de la Función Pública Federal o cualquier otra autoridad competente;
+XXIV. La indicación de que por ningún motivo se recibirán conceptos de obra contratados que no cuenten con las especificaciones y la calidad requeridas en el expediente técnico. Por lo que en caso de existir conceptos de obra que no cumplan con las especificaciones y la calidad requeridas deberán realizar lo conducente para garantizar que dichos conceptos cumplan con lo requerido, sin costo alguno para el Estado;
+
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2013)</small>
+
+XXV. Modelo de contrato al que se sujetarán las partes, diferenciando las de obras y los de servicios;
+
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2013)</small>
+
+XXVI. Tratándose de contratos a precio alzado o mixtos en su parte correspondiente, a las condiciones de pago;
+
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2013)</small>
+
+XXVII. Tratándose de contratos a precios unitarios o mixtos en su parte correspondiente, el procedimiento de ajuste de costos que deberá aplicarse, así como el catálogo de conceptos, cantidades y unidades de medición, debe ser firmado por el responsable del proyecto; y la relación de conceptos de trabajo más significativos, de los cuales deberán presentar análisis y relación de los costos básicos de materiales, mano de obra, maquinaria y equipo de construcción que intervienen en dichos análisis. En todos los casos se deberá prever que cada concepto de trabajo esté debidamente integrado y soportado, preferentemente, en las especificaciones de construcción y normas de calidad solicitadas, procurando que estos conceptos sean congruentes con las cantidades de trabajo requeridos por el proyecto;
+
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2013)</small>
+
+XXVIII. La indicación de que el licitante ganador que no firme el contrato por causas imputables al mismo será sancionado en los términos del artículo 78 y 79 de esta Ley;
+
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2013)</small>
+
+XXIX. En su caso, términos y condiciones a que deberá ajustarse la participación de los licitantes cuando las proposiciones sean enviadas por medios remotos de comunicación electrónica. El uso de estos medios para enviar sus proposiciones, no limita en ningún caso, el derecho de los licitantes de asistir a los diferentes actos derivados de una licitación;
+
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2013)</small>
+
+XXX. La indicación de que no podrán participar las personas físicas o morales inhabilitadas o suspendidas en el Padrón de Contratistas del Estado por resolución del Órgano de Control, por la Secretaría de la Función Pública Federal o cualquier otra autoridad competente;
 
 Asimismo, la indicación de que los participantes deberán presentar manifestación bajo protesta de decir verdad de que por su conducto, no participan en los procedimientos de contratación establecidos en esta ley, personas físicas o morales que se encuentren inhabilitadas en los términos del párrafo anterior, con el propósito de evadir los efectos de la inhabilitación, tomando en consideración, entre otros, los supuestos siguientes:
 
@@ -539,21 +563,29 @@ B. Personas morales que en su capital social participen personas morales en cuyo
 
 C. Personas físicas que participen en el capital social de personas morales que se encuentren inhabilitadas.
 
-La participación social deberá tomarse en cuenta al momento de la infracción que hubiere motivado la inhabilitación. La falsedad en la manifestación a que se refiere esta fracción será sancionada en los términos de Ley.
+La participación social deberá tomarse en cuenta al momento de la infracción que hubiere motivado la inhabilitación. La falsedad en la manifestación a que se refiere esta fracción será sancionada en los términos de la Ley.
 
-En caso de omisión en la entrega del escrito a que se refiere esta fracción, o si de la información y documentación con que cuente el Órgano de Control se desprende que personas físicas o morales pretenden evadir los efectos de la inhabilitación, las dependencias y entidades se abstendrán de firmar los contratos correspondientes, y
+En caso de omisión en la entrega del escrito a que se refiere esta fracción, o si de la información y documentación con que cuente el Órgano de Control se desprende que personas físicas o morales pretenden evadir los efectos de la inhabilitación, las dependencias y entidades se abstendrán de firmar los contratos correspondientes;
 
-(REFORMADA, P.O. 6 DE JULIO DE 2012) (REPUBLICADA, P.O. 19 DE ABRIL DE 2013)
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2013)</small>
 
-XXIV. Tratándose de propuestas conjuntas en los términos del artículo 35 del presente ordenamiento jurídico, la indicación del porcentaje mínimo de capital contable que deberá comprobar el licitante local y la proporción de la obra que obligadamente tiene que llevar a cabo el mismo licitante local, que en ambos casos deberá ser al menos del 50 por ciento. Para esto último deberá comprobar a satisfacción de la convocante, que cuenta con suficientes recursos financieros y técnicos.
+XXXI. Tratándose de propuestas conjuntas en los términos del artículo 35 presente ordenamiento jurídico, la indicación del porcentaje mínimo de capital contable que deberá comprobar el licitante local y la proporción de la obra que obligadamente tiene que llevar a cabo el mismo licitante local, que en ambos casos deberá ser al menos del 50 por ciento. Para esto último deberá comprobar a satisfacción de la convocante, que cuenta con suficientes recursos financieros y técnicos;
 
-(ADICIONADA, P.O. 6 DE JULIO DE 2012) (REPUBLICADA, P.O. 19 DE ABRIL DE 2013)
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2013)</small>
 
-XXV. La relación de documentos que los licitantes deberán integrar a sus proposiciones.
+XXXII. La relación de documentos que los licitante s (sic) deberán integrar a sus proposiciones;
 
-(ADICIONADA, P.O. 6 DE JULIO DE 2012) (REPUBLICADA, P.O. 19 DE ABRIL DE 2013)
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2013)</small>
 
-XXVI. Los demás requisitos generales que, por las características, complejidad y magnitud de los trabajos, deberán cumplir los interesados, precisando cómo serán utilizados en la evaluación.
+XXXIII. Señalar un domicilio convencional dentro del Estado de Coahuila de Zaragoza para oír y recibir notificaciones;
+
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2013)</small>
+
+XXXIV. Los demás requisitos generales que, por las características, complejidad y magnitud de los trabajos, deberán cumplir los interesados, precisando cómo serán utilizados en la evaluación.
+
+###### Artículo 31.
+
+(DEROGADO, P.O. 10 DE MAYO DE 2013)
 
 (REFORMADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 19 DE ABRIL DE 2013)
 
@@ -617,7 +649,9 @@ II. El servidor público facultado para presidir el acto y al menos uno de los l
 
 III. Se levantará acta que servirá de constancia de la celebración del acto de presentación y apertura de las proposiciones, en la que se deberá asentar la relación de las propuestas aceptadas y el importe total de cada una de ellas;
 
-El acta será firmada por los asistentes y se pondrá a su disposición o se les entregará copia de la misma, la falta de firma de algún licitante no invalidará su contenido y efectos, poniéndose a partir de esa fecha a disposición de los que no hayan asistido, para efecto de su notificación. Asimismo se difundirá a través de CompraNet.
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2013)</small>
+
+El acta será firmada por los asistentes, la falta de firma de algún licitante no invalidará su contenido y efectos, se pondrá a su disposición a la dirección del correo electrónico que al efecto hayan señalado en su propuesta. Asimismo se difundirá a través de CompraNet.
 
 IV. En el acta a que se refiere la fracción anterior se señalará lugar, fecha y hora en que se dará a conocer el fallo de la licitación.
 
@@ -639,11 +673,11 @@ La convocante emitirá un dictamen que servirá como base para el fallo, en el q
 
 Si resultare que dos o más proposiciones son solventes porque satisfacen la totalidad de los requerimientos solicitados por la convocante, el contrato se adjudicará a quien presente la proposición que resulte económicamente más conveniente para el Estado.
 
-(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO PRIMER PÁRRAFO, P.O. 19 DE ABRIL DE 2013)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MAYO DE 2013)</small>
 
 ###### Artículo 38.
 
-En junta pública, a la que libremente podrán asistir los licitantes que hubieren participado en el acto de presentación y apertura de proposiciones, se dará a conocer el fallo de la licitación; levantándose el acta respectiva, que firmarán los asistentes, a quienes se entregará copia de la misma poniéndose a partir de esa fecha en las oficinas de la convocante y en CompraNet, a disposición de los que no hayan asistido, para efecto de su notificación. La falta de firma de algún licitante no invalidará el contenido y efectos del acta.
+En junta pública, a la que libremente podrán asistir los licitantes que hubieren participado en el acto de presentación y apertura de proposiciones, se dará a conocer el fallo de la licitación; levantándose el acta respectiva, que firmarán los asistentes, a quienes se les enviará a la dirección del correo electrónico que al efecto hayan señalado en su propuesta, poniéndose además a disposición de los que no hayan asistido en CompraNet, para efecto de su notificación. La falta de firma de algún licitante no invalidará el contenido y efectos de acta.
 
 En el mismo acto de fallo o adjunta a la comunicación referida, las dependencias y entidades proporcionarán por escrito a los licitantes la información acerca de las razones por las cuales su propuesta no resultó ganadora.
 
@@ -811,31 +845,39 @@ III. La indicación del procedimiento conforme al cual se llevó a cabo la adjud
 
 IV. Acreditación de la existencia y personalidad del adjudicado;
 
-V. El precio a pagar por los trabajos objeto del contrato. En el caso de contratos mixtos, la parte y su monto que será sobre la base de precios unitarios y la que corresponda a precio alzado;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE MAYO DE 2013)</small>
 
-VI. El plazo de ejecución de los trabajos determinado en días naturales, indicando la fecha de inicio y conclusión de los mismos, así como los plazos para verificar la terminación de los trabajos y la elaboración del finiquito referido en el artículo 64 de esta Ley, este último plazo no podrá exceder de sesenta días naturales, los cuales deben ser establecidos de acuerdo con las características, complejidad y magnitud de los trabajos;
+V. Domicilio convencional dentro del Estado de Coahuila de Zaragoza para oír y recibir notificaciones;
 
-VII. Porcentajes, número y fechas de las exhibiciones y amortización de los anticipos que en su caso se otorguen;
+VI. El precio a pagar por los trabajos objeto del contrato. En el caso de contratos mixtos, la parte y su monto que será sobre la base de precios unitarios y la que corresponda a precio alzado;
 
-VIII. Forma y términos o porcentajes de garantizar la correcta inversión de los anticipos que en su caso se otorguen y el cumplimiento del contrato;
+VII. El plazo de ejecución de los trabajos determinado en días naturales, indicando la fecha de inicio y conclusión de los mismos, así como los plazos para verificar la terminación de los trabajos y la elaboración del finiquito referido en el artículo 64 de esta Ley, este último plazo no podrá exceder de sesenta días naturales, los cuales deben ser establecidos de acuerdo con las características, complejidad y magnitud de los trabajos;
 
-IX. Plazos, forma y lugar de pago de las estimaciones de trabajos ejecutados y, cuando corresponda, de los ajustes de costos;
+VIII. Porcentajes, número y fechas de las exhibiciones y amortización de los anticipos que en su caso se otorguen;
 
-X. Penas convencionales por atraso en la ejecución de los trabajos por causas imputables a los contratistas, que en ningún caso podrán ser superiores, en su conjunto, al monto de la garantía de cumplimiento y serán determinadas únicamente en función de los trabajos no ejecutados conforme al programa convenido. Las dependencias y entidades deberán fijar en el contrato, los términos, condiciones y el procedimiento, para aplicar las penas convencionales, debiendo, en su caso, exponer en el finiquito correspondiente las razones de su aplicación;
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2013)</small>
 
-XI. Penalizaciones económicas a cargo de los contratistas que prevean posibles atrasos en los programas de ejecución de los trabajos, de suministro o de utilización de insumos, mismas que se aplicarán como una retención económica a la estimación que se encuentre en proceso en la fecha que se determine el atraso y que el contratista podrá recuperar, en subsecuentes estimaciones, si regulariza los tiempos de atraso señalados en relación a los programas de ejecución, de suministro o de utilización de los insumos; la aplicación de estas retenciones tendrá el carácter de definitiva, si a la fecha pactada de terminación de los trabajos, éstos no se han concluido;
+IX. Forma y términos o porcentajes de garantizar la correcta inversión de los anticipo s (sic) que en su caso se otorguen y el cumplimiento del contrato;
 
-XII. Términos en que el contratista, en su caso, reintegrará las cantidades que, en cualquier forma, hubiere recibido en exceso por la contratación o durante la ejecución de los trabajos, para lo cual se utilizará el procedimiento establecido en el artículo 55 de esta Ley;
+X. Plazos, forma y lugar de pago de las estimaciones de trabajos ejecutados y, cuando corresponda, de los ajustes de costos;
 
-XIII. Procedimiento de ajuste de costos que deberá ser el determinado desde las bases de la licitación por la dependencia o entidad, el cual deberá regir durante la vigencia del contrato;
+XI. Penas convencionales por atraso en la ejecución de los trabajos por causas imputables a los contratistas, que en ningún caso podrán ser superiores, en su conjunto, al monto de la garantía de cumplimiento y serán determinadas únicamente en función de los trabajos no ejecutados conforme al programa convenido. Las dependencias y entidades deberán fijar en el contrato, los términos, condiciones y el procedimiento, para aplicar las penas convencionales, debiendo, en su caso, exponer en el finiquito correspondiente las razones de su aplicación;
 
-XIV. Causales y procedimiento mediante los cuales la dependencia o entidad podrá dar por rescindido el contrato en los términos del artículo 61 de esta Ley;
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2013)</small>
 
-XV. La manifestación de que las obras públicas sólo serán recibidas cuando se encuentren debidamente terminadas conforme a las especificaciones solicitadas;
+XII. Penalizaciones económicas a cargo de los contratistas que prevean posibles atrasos en los programas de ejecución de los trabajos, de suministro o de utilización de insumos, mismas que se aplicarán como una retención económica a la estimación que se encuentre en proceso en la fecha que se determine el atraso y que el contratista podrá recuperar, en subsecuente s (sic) estimaciones, si regulariza los tiempos de atraso señalados en relación a los programas de ejecución, de suministro o de utilización de los insumos; la aplicación de estas retenciones tendrá el carácter de definitiva, si a la fecha pactada de terminación de los trabajos, éstos no se han concluido;
 
-XVI. La descripción pormenorizada de los trabajos que se deban ejecutar, debiendo acompañar como parte integrante del contrato, en el caso de las obras, los proyectos, planos, especificaciones, normas de calidad, programas y presupuestos; tratándose de servicios, los términos de referencia, y
+XIII. Términos en que el contratista, en su caso, reintegrará las cantidades que en cualquier forma, hubiere recibido en exceso por la contratación o durante la ejecución de los trabajos, para lo cual se utilizará el procedimiento establecido en el artículo 55 de esta Ley;
 
-XVII. Los procedimientos mediante los cuales las partes, entre sí, resolverán las discrepancias futuras y previsibles, exclusivamente sobre problemas específicos de carácter técnico y administrativo que, de ninguna manera, impliquen una audiencia de conciliación.
+XIV. Procedimiento de ajuste de costos que deberá ser el determinado desde las bases de la licitación por la dependencia o entidad, el cual deberá regir durante la vigencia del contrato;
+
+XV. Causales y procedimiento mediante los cuales la dependencia o entidad podrá dar por rescindido el contrato en los términos del artículo 61 de esta Ley;
+
+XVI. La manifestación de que las obras públicas sólo serán recibidas cuando se encuentren debidamente terminadas conforme a las especificaciones solicitadas;
+
+XVII. La descripción pormenorizada de los trabajos que se deban ejecutar, debiendo acompañar como parte integrante del contrato, en el caso de las obras, los proyectos, planos, especificaciones, normas de calidad, programas y presupuestos; tratándose de servicios, los términos de referencia, y
+
+XVIII. Los procedimientos mediante los cuales las partes, entre sí, resolverán las discrepancias futuras y previsibles, exclusivamente sobre problemas específicos de carácter técnico y administrativo que, de ninguna manera, impliquen una audiencia de conciliación.
 
 Para los efectos de esta Ley, las bases de licitación, el contrato, sus anexos y la bitácora de los trabajos son los instrumentos que vinculan a las partes en sus derechos y obligaciones. Las estipulaciones que se establezcan en el contrato no deberán modificar las condiciones previstas en las bases de licitación.
 
@@ -1696,3 +1738,9 @@ P.O. 19 DE ABRIL DE 2013.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan a lo previsto en este decreto.
+
+P.O. 10 DE MAYO DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
