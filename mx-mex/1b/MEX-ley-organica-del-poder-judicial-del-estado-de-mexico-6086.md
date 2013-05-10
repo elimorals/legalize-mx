@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-judicial-del-estado-de-mexico-6086"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-08"
-last_updated: "2012-10-15"
+last_updated: "2013-05-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6086&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MÉXICO
 
 > <small>N. DE E. DE CONFORMIDAD CON EL DECRETO NO. 4 PUBLICADO EN LA G.G. DE 30 DE SEPTIEMBRE DE 2009, EL SISTEMA PROCESAL PENAL ACUSATORIO ADVERSARIAL Y ORAL HA SIDO INCORPORADO EN EL PRESENTE ORDENAMIENTO, Y ENTRARÁ EN VIGOR EN LOS SIGUIENTES PLAZOS Y DISTRITOS: 1) EL PRIMERO DE OCTUBRE DE DOS MIL NUEVE, EN LOS DISTRITOS JUDICIALES DE TOLUCA, LERMA, TENANCINGO Y TENANGO DEL VALLE; 2) EL PRIMERO DE ABRIL DE DOS MIL DIEZ, EN LOS DISTRITOS JUDICIALES DE CHALCO, OTUMBA Y TEXCOCO; 3) EL PRIMERO DE OCTUBRE DE DOS MIL DIEZ, EN LOS DISTRITOS JUDICIALES DE NETZAHUALCÓYOTL, EL ORO, IXTLAHUACA, SULTEPEC Y TEMASCALTEPEC; 4) EL PRIMERO DE ABRIL DE DOS MIL ONCE, EN LOS DISTRITOS JUDICIALES DE TLALNEPANTLA, CUAUTITLÁN Y ZUMPANGO; 5) EL PRIMERO DE OCTUBRE DE DOS MIL ONCE, EN LOS DISTRITOS JUDICIALES DE ECATEPEC DE MORELOS, JILOTEPEC Y VALLE DE BRAVO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 15 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE MAYO DE 2013.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 8 de septiembre de 1995.
 
@@ -1001,7 +1001,9 @@ Los jueces de primera instancia deberán reunir los mismos requisitos que los ma
 
 Los juzgados de primera instancia contarán con el personal siguiente:
 
-I. Un juez; y
+> <small>(REFORMADA, G.G. 10 DE MAYO DE 2013)</small>
+
+I. Un juez titular y, en su caso, los jueces supernumerarios que determine el Consejo de la Judicatura; y
 
 II. Los secretarios, ejecutores, notificadores y auxiliares que determine el Consejo de la Judicatura.
 
@@ -1037,11 +1039,9 @@ Los demás servidores públicos de los juzgados de primera instancia deberán re
 
 Los jueces de primera instancia de la materia civil, conocerán y resolverán:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, G.G. 10 DE MAYO DE 2013)</small>
 
-> <small>(REFORMADA, G.G. 5 DE OCTUBRE DE 2011)</small>
-
-I. De los juicios civiles y mercantiles cuando el valor del negocio exceda de mil veces el salario mínimo vigente en el área geográfica respectiva o cuando no sea susceptible de cuantificarse en dinero, con excepción de los que correspondan al derecho familiar si hubiere en el lugar, juzgado de esta materia; también conocerán del juicio oral mercantil, hasta por el monto que señala el Código de Comercio;
+I. De los juicios civiles y mercantiles cuando el valor del negocio exceda de mil veces el salario mínimo vigente en el área geográfica respectiva o cuando no sea susceptible de cuantificarse en dinero, con excepción de los que correspondan al derecho familiar y mercantil, sí hubiere en el lugar juzgados de estas materias; también conocerán del juicio oral mercantil, hasta por el monto que señala el Código de Comercio;
 
 II. De los actos de jurisdicción voluntaria relacionados con inmatriculaciones, informaciones de dominio o ad perpetuam y juicios donde se ejerciten acciones posesorias, cualquiera que sea el valor del negocio;
 
@@ -1050,6 +1050,12 @@ III. De la diligenciación de exhortos, cartas rogatorias, suplicatorias, requis
 IV. De las diligencias preliminares de consignación, cuando el valor de los bienes o la cantidad que se ofrezca, exceda del monto señalado en la fracción I de este artículo; y
 
 V. De los demás asuntos cuyo conocimiento les atribuyan las leyes.
+
+> <small>(ADICIONADO, G.G. 10 DE MAYO DE 2013)</small>
+
+###### Artículo 71.
+
+1.- Los jueces mercantiles de primera instancia conocerán y resolverán los asuntos relacionados con dicha materia, sin importar la cuantía del asunto.
 
 ###### Artículo 72.
 
@@ -1167,7 +1173,9 @@ V. Los demás que el Consejo de la Judicatura estime pertinentes.
 
 Los juzgados de cuantía menor contarán con el personal siguiente:
 
-I. Un juez;
+> <small>(REFORMADA, G.G. 10 DE MAYO DE 2013)</small>
+
+I. Un juez y, en su caso, los jueces supernumerarios que determine el Consejo de la Judicatura;
 
 II. Un secretario; y
 
@@ -1181,7 +1189,9 @@ Los secretarios deberán cumplir los mismos requisitos que los de primera instan
 
 Los jueces de cuantía menor, dentro de su jurisdicción, tendrán competencia para conocer y resolver:
 
-I. En materia civil y mercantil:
+> <small>(REFORMADA, G.G. 10 DE MAYO DE 2013)</small>
+
+I. En materia civil y mercantil, esta última siempre que no existiera en el ámbito de su competencia juzgados especializados en dicho rubro:
 
 > <small>(REFORMADO, G.G. 8 DE MAYO DE 2003)</small>
 
@@ -1235,11 +1245,49 @@ Los jueces de cuantía menor actuarán en días y horas hábiles. En días y hor
 
 Las disposiciones de este capítulo se aplicarán en los asuntos mercantiles, sin perjuicio de las señaladas en el Código de Comercio y demás leyes de la materia.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 10 DE MAYO DE 2013)</small>
+
+### CAPÍTULO SÉPTIMO BIS. DE LOS JUECES SUPERNUMERARIOS
+
+> <small>(ADICIONADO, G.G. 10 DE MAYO DE 2013)</small>
+
+###### Artículo 87.
+
+1.- Se denominan jueces supernumerarios a los que siendo jueces, de manera adicional y temporal, se adscriben a los órganos jurisdiccionales que determine el Consejo de la Judicatura para atender cargas excesivas de trabajo.
+
+> <small>(ADICIONADO, G.G. 10 DE MAYO DE 2013)</small>
+
+###### Artículo 87.
+
+2.- Los jueces supernumerarios ejercerán la jurisdicción y competencia del órgano jurisdiccional que corresponda a su adscripción.
+
+> <small>(ADICIONADO, G.G. 10 DE MAYO DE 2013)</small>
+
+###### Artículo 87.
+
+3.- El Consejo de la Judicatura determinará la temporalidad y la forma en que se distribuirán los asuntos entre el juez titular y el juez supernumerario, que podrá ser por etapa, materia o cualquier otra de conformidad con las necesidades del servicio.
+
+> <small>(ADICIONADO, G.G. 10 DE MAYO DE 2013)</small>
+
+###### Artículo 87.
+
+4.- La asignación de los asuntos a un juez supernumerario se hará del conocimiento a las partes mediante notificación personal, para efectos de recusación, en los términos señalados en la ley.
+
+> <small>(ADICIONADO, G.G. 10 DE MAYO DE 2013)</small>
+
+###### Artículo 87.
+
+5.- Los jueces supernumerarios desarrollarán sus atribuciones con los recursos tecnológicos, materiales y humanos, que determine el Consejo de la Judicatura.
+
+> <small>(ADICIONADO, G.G. 10 DE MAYO DE 2013)</small>
+
+###### Artículo 87.
+
+6.- El juez titular del órgano jurisdiccional asumirá el conocimiento de un asunto en caso de ausencia, recusación o cambio de adscripción del juez supernumerario.
+
 ### CAPITULO OCTAVO. De los Secretarios, Oficiales Mayores y demás Servidores Públicos de la Administración de Justicia
 
 > <small>(REFORMADO, G.G. 8 DE MAYO DE 2003)</small>
-
-### CAPITULO NOVENO. De los Auxiliares de la Administración de Justicia
 
 ###### Artículo 88.
 
@@ -1271,11 +1319,15 @@ IX. Recoger, guardar e inventariar los expedientes;
 
 X. Proporcionar a los interesados los expedientes en los que fueren parte, siempre que sea en su presencia, sin extraerlos de la oficina;
 
-XI. Dar fe y autorizar en los juicios verbales las comparecencias de las partes;
+> <small>(REFORMADA, G.G. 10 DE MAYO DE 2013)</small>
+
+XI. Participar como fedatario público en el desahogo de videoconferencias que se soliciten al órgano jurisdiccional de su adscripción, así como aquéllas que el propio órgano jurisdiccional ordene en el ámbito territorial de competencia;
 
 XII. Dar fe y autorizar los actos de su inmediato superior en ejercicio de sus funciones;
 
-XIII. Efectuar en el tribunal o juzgado, las notificaciones que les encomiende la ley o entregar para el mismo objeto los expedientes al notificador o, en su caso, al ejecutor;
+> <small>(REFORMADA, G.G. 10 DE MAYO DE 2013)</small>
+
+XIII. Efectuar en el tribunal o juzgado, las notificaciones que les encomiende la ley o entregar para el mismo objeto los expedientes al notificador o, en su caso, al ejecutor. Cuando no exista notificador adscrito, el secretario asumirá las funciones de aquél en lo referente a las notificaciones que sean por lista, Boletín Judicial o correo electrónico institucional;
 
 XIV. Llevar al corriente los siguientes libros: el de gobierno, para anotar entradas, salidas y el estado de los asuntos en cada ramo; el de registro diario de promociones; el de entrega y recibo de expedientes y comunicaciones; el de exhortos para cada materia; el de entrega y recibo de expedientes al archivo judicial y los demás que sean necesarios para cada materia, a juicio del Consejo de la Judicatura;
 
@@ -1301,13 +1353,37 @@ Los secretarios auxiliares desempeñarán las labores referentes a la secretarí
 
 Los ejecutores y notificadores tienen fe pública en el ejercicio de sus funciones.
 
+> <small>(ADICIONADO, G.G. 10 DE MAYO DE 2013)</small>
+
+Los notificadores apoyarán como fedatarios públicos para el desahogo de videoconferencias en los órganos jurisdiccionales que no contemplen la figura del secretario de acuerdos.
+
 ###### Artículo 93.
 
 Los ejecutores, notificadores y los demás servidores desempeñarán las labores que la ley o sus superiores les encomienden.
 
-### CAPITULO DECIMO. De las Licencias, Sustituciones y Renuncias de los Servidores Públicos del Poder Judicial
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 10 DE MAYO DE 2013)</small>
 
-### CAPITULO DECIMO PRIMERO. De las Ausencias de los Servidores Públicos del Poder Judicial
+### CAPÍTULO OCTAVO BIS. DE LAS CENTRALES DE EJECUTORES Y NOTIFICADORES
+
+> <small>(ADICIONADO, G.G. 10 DE MAYO DE 2013)</small>
+
+###### Artículo 93.
+
+1.- El Consejo de la Judicatura podrá crear centrales de ejecutores y notificadores por Distrito Judicial o en parte de éste, las que tendrán a su cargo realizar las notificaciones personales y diligencias que deban efectuarse fuera de los órganos jurisdiccionales y dentro de la competencia territorial que ejerzan estos.
+
+> <small>(ADICIONADO, G.G. 10 DE MAYO DE 2013)</small>
+
+###### Artículo 93.
+
+2.- Los secretarios de acuerdos de los órganos jurisdiccionales o los notificadores adscritos deberán remitir los expedientes o instructivos con las constancias necesarias a las centrales de ejecutores y notificadores para su diligenciación con la oportunidad debida.
+
+> <small>(ADICIONADO, G.G. 10 DE MAYO DE 2013)</small>
+
+###### Artículo 93.
+
+3.- La organización y funcionamiento administrativo de las centrales de ejecutores y notificadores será de conformidad con las disposiciones que emita para tal efecto el Consejo de la Judicatura.
+
+### CAPITULO NOVENO. De los Auxiliares de la Administración de Justicia
 
 ###### Artículo 94.
 
@@ -1321,7 +1397,7 @@ Los auxiliares de la administración de justicia, tendrán las facultades y obli
 
 La emisión de los peritajes en los asuntos judiciales constituye una función pública. Los profesionales, los técnicos o prácticos en cualquier materia científica, arte u oficio, por el solo hecho de aceptar el cargo ante los tribunales, están obligados a dictaminar en ellos conforme a la ciencia, arte u oficio respectivo, salvo causa justificada que calificará el juez o tribunal. Su retribución se regulará por las leyes.
 
-### CAPITULO PRIMERO. De las Responsabilidades
+### CAPITULO DECIMO. De las Licencias, Sustituciones y Renuncias de los Servidores Públicos del Poder Judicial
 
 ###### Artículo 97.
 
@@ -1351,7 +1427,7 @@ Las licencias de los magistrados que excedan de 15 días, pero no de 60 serán a
 
 Las renuncias de los magistrados, jueces y servidores públicos del Poder Judicial se presentarán ante el Consejo de la Judicatura, el que calificará y resolverá lo procedente.
 
-### CAPITULO SEGUNDO. De las Sanciones
+### CAPITULO DECIMO PRIMERO. De las Ausencias de los Servidores Públicos del Poder Judicial
 
 ###### Artículo 104.
 
@@ -1425,7 +1501,7 @@ III. Las de los secretarios del tribunal y de los juzgados así como de los dem�
 
 ## TITULO QUINTO. De las Responsabilidades y Sanciones
 
-### CAPITULO PRIMERO. Del Archivo y Boletín Judicial
+### CAPITULO PRIMERO. De las Responsabilidades
 
 ###### Artículo 110.
 
@@ -1605,7 +1681,7 @@ La resolución de responsabilidad administrativa dictada por el Consejo de la Ju
 
 La resolución de no responsabilidad administrativa, deberá ser publicada gratuitamente en extracto en el Boletín Judicial y, en su caso, sujetará al denunciante a las responsabilidades civiles y penales correspondientes.
 
-### CAPITULO SEGUNDO. De la Biblioteca
+### CAPITULO SEGUNDO. De las Sanciones
 
 ###### Artículo 122.
 
@@ -1631,9 +1707,7 @@ Para la aplicación de las sanciones, se tomará en cuenta la gravedad de la fal
 
 ## TITULO SEXTO. Del Archivo, Boletín Judicial, Biblioteca y Jurisprudencia
 
-### CAPITULO TERCERO. De la Jurisprudencia del Tribunal
-
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 1996)</small>
+### CAPITULO PRIMERO. Del Archivo y Boletín Judicial
 
 ###### Artículo 124.
 
@@ -1693,7 +1767,7 @@ El jefe de la oficina del Boletín Judicial será el responsable de su publicaci
 
 Para desempeñar el cargo de jefe de la oficina del Boletín Judicial se deberá cumplir con los mismos requisitos de un secretario de juzgado de primera instancia.
 
-### CAPITULO PRIMERO. De la Dirección de Administración
+### CAPITULO SEGUNDO. De la Biblioteca
 
 ###### Artículo 135.
 
@@ -1723,7 +1797,9 @@ V. Llevar la estadística de asistencia de usuarios; y
 
 VI. Distribuir las labores entre él y su personal para un mejor funcionamiento.
 
-### CAPITULO SEGUNDO. Del Fondo Auxiliar para la Administración de Justicia
+### CAPITULO TERCERO. De la Jurisprudencia del Tribunal
+
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 1996)</small>
 
 ###### Artículo 139.
 
@@ -1775,7 +1851,7 @@ La jurisprudencia sustentada por las salas unitarias se interrumpirá y dejará 
 
 ## TITULO SEPTIMO. De la Dirección de Administración y del Fondo Auxiliar para la Administración de Justicia
 
-### CAPITULO TERCERO. Bases para la Aplicación del Fondo Auxiliar para la Administración de Justicia
+### CAPITULO PRIMERO. De la Dirección de Administración
 
 ###### Artículo 143.
 
@@ -1789,9 +1865,7 @@ III. El personal que a juicio del propio consejo se requiera.
 
 Las atribuciones de la dirección serán determinadas por el pleno del Consejo de la Judicatura y el reglamento respectivo.
 
-### CAPITULO UNICO. De la Escuela Judicial
-
-> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2002)</small>
+### CAPITULO SEGUNDO. Del Fondo Auxiliar para la Administración de Justicia
 
 ###### Artículo 144.
 
@@ -1849,11 +1923,7 @@ V. Solicitar la práctica de auditorías tanto del registro original como de los
 
 El presidente del Consejo de la Judicatura firmará las operaciones activas o pasivas para el registro y vigencia del fondo y otro miembro del propio Consejo fungirá como Coordinador Administrativo. El presidente del Tribunal Superior de Justicia en su informe anual, dará a conocer el resultado del rendimiento de los fondos propio y ajeno, así como de las erogaciones efectuadas, validadas por el Consejo de la Judicatura.
 
-### CAPITULO UNICO. De la Carrera Judicial
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ES</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE ENERO DE 2010)</small>
+### CAPITULO TERCERO. Bases para la Aplicación del Fondo Auxiliar para la Administración de Justicia
 
 ###### Artículo 150.
 
@@ -1869,9 +1939,9 @@ III. El Consejo de la Judicatura ordenará la práctica de las auditorías inter
 
 Los productos y los rendimientos del fondo auxiliar, se aplicarán a los siguientes conceptos:
 
-I. Adquisición, construcción o remodelación de inmuebles, para el establecimiento de salas, juzgados y oficinas del tribunal, no consideradas en el presupuesto del Poder Judicial;
+I. Adquisición, construcción o remodelación de inmuebles, para el establecimiento de salas, juzgados u oficinas del tribunal, no consideradas en el presupuesto del Poder Judicial;
 
-II. Compra del mobiliario y equipo que se requiera en las salas, juzgados u oficinas, o de libros para la biblioteca del Poder Judicial;
+II. Compra del mobiliario y equipo que se requiera en las salas, juzgados y oficinas, o de libros para la biblioteca del Poder Judicial;
 
 III. Pago de rentas de locales para las salas, juzgados y oficinas cuyo gasto no esté considerado en su presupuesto;
 
@@ -1891,7 +1961,9 @@ El presidente del Consejo de la Judicatura podrá solicitar a los integrantes de
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 31 DE DICIEMBRE DE 2002)</small>
 
-### CAPITULO PRIMERO. Del Departamento de Computación e Informática
+### CAPITULO UNICO. De la Escuela Judicial
+
+> <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 153.
 
@@ -1939,7 +2011,11 @@ IX. Cursos continuos de preparación para las distintas categorías de la Carrer
 
 ## TITULO NOVENO
 
-### CAPITULO SEGUNDO. Del Departamento de Oficialía de Partes y Estadística
+### CAPITULO UNICO. De la Carrera Judicial
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ES</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE ENERO DE 2010)</small>
 
 ###### Artículo 157.
 
@@ -2031,7 +2107,7 @@ El presidente del jurado tiene facultades para decidir lo conducente, de present
 
 ## TITULO DECIMO. De los Departamentos de Computación e Informática y de Oficialía de Partes y Estadística
 
-### CAPITULO UNICO
+### CAPITULO PRIMERO. Del Departamento de Computación e Informática
 
 ###### Artículo 166.
 
@@ -2055,7 +2131,7 @@ VI. Capturar y sistematizar la legislación y la jurisprudencia de los tribunale
 
 Para hacer eficiente el servicio de computación, el Consejo de la Judicatura autorizará las oficinas que fueren necesarias, dependientes del Departamento de Computación e Informática.
 
-### CAPITULO UNICO
+### CAPITULO SEGUNDO. Del Departamento de Oficialía de Partes y Estadística
 
 ###### Artículo 168.
 
@@ -2075,8 +2151,6 @@ IV. Conservar actualizados los registros estadísticos de los procesos, para pro
 
 ### CAPITULO UNICO
 
-> <small>(ADICIONADO, G.G. 10 DE DICIEMBRE DE 2002)</small>
-
 ###### Artículo 169.
 
 La Dirección de la Contraloría Interna del Tribunal Superior de Justicia, depende del Consejo de la Judicatura y tiene a su cargo la identificación e investigación de las responsabilidades establecidas en esta ley y contará con el personal siguiente:
@@ -2091,11 +2165,7 @@ La organización y funcionamiento de la dirección será determinada por el regl
 
 ## TITULO DECIMO SEGUNDO. De la Dirección de Peritos del Tribunal Superior de Justicia
 
-### CAPITULO PRIMERO. Disposiciones Generales
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
+### CAPITULO UNICO
 
 ###### Artículo 170.
 
@@ -2151,11 +2221,9 @@ Los peritos podrán ejercer libremente su profesión, pero estarán impedidos pa
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 10 DE DICIEMBRE DE 2002)</small>
 
-### CAPITULO SEGUNDO. De los Juzgados de Control, de los Tribunales y Juzgados de Juicio Oral y de Ejecución de Sentencia
+### CAPITULO UNICO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO Y REUBICADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
+> <small>(ADICIONADO, G.G. 10 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 178.
 
@@ -2249,11 +2317,11 @@ La sujeción a la mediación y conciliación son voluntarias.
 
 > <small>(REFORMADO [N. DE E. ANTES CAPÍTULO ÚNICO], G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
-### CAPITULO TERCERO. Del Administrador del Juzgado
+### CAPITULO PRIMERO. Disposiciones Generales
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO Y REUBICADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 187.
 
@@ -2304,6 +2372,12 @@ Artículo 189 bis.- (DEROGADO, G.G. 30 DE SEPTIEMBRE DE 2009)
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
+
+### CAPITULO SEGUNDO. De los Juzgados de Control, de los Tribunales y Juzgados de Juicio Oral y de Ejecución de Sentencia
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO Y REUBICADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 190.
 
@@ -2392,6 +2466,12 @@ V. Las demás que les señale la normatividad correspondiente.
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
+
+### CAPITULO TERCERO. Del Administrador del Juzgado
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO Y REUBICADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
 
 ###### Artículo 195.
 
@@ -2886,3 +2966,19 @@ G.G. 15 DE OCTUBRE DE 2012.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 10 DE MAYO DE 2013.
+
+PRIMERO. Publíquese este Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. De conformidad con la capacidad presupuestal y recursos informáticos del Poder Judicial, el Consejo de la Judicatura emitirá los acuerdos generales para implementar las notificaciones electrónicas y la consulta del expediente electrónico en los órganos jurisdiccionales que determine. Lo que hará del conocimiento de los interesados a través del periódico oficial "Gaceta del Gobierno", del Boletín Judicial y por cualquier otro medio de difusión.
+
+CUARTO. El Consejo de la Judicatura deberá emitir los lineamientos administrativos a que se refiere este Decreto, entre otros, las referentes a los Sistemas de Notificación Electrónica y del Expediente Electrónico, dentro de los treinta días siguientes a la entrada en vigor de este Decreto.
+
+QUINTO. Dentro de las normas relativas al expediente electrónico, el Consejo de la Judicatura precisara los plazos en que deberá realizarse la digitalización de documentos en el sistema informático del expediente electrónico.
+
+El Consejo de la Judicatura implementará un sistema de gestión que garantice el control y eficiencia de las Centrales de Ejecutores y Notificadores.
+
+SEXTO. La Legislatura del Estado tomará las previsiones presupuestales para el cumplimiento gradual del Plan de Mejora del Servicio de Administración de Justicia.
