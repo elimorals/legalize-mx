@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-servicio-de-medicina-preventiva-en-el-38581"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-04-21"
-last_updated: "2010-09-01"
+last_updated: "2013-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38581&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2004-04-19"
 
 REGLAMENTO DEL SERVICIO DE MEDICINA PREVENTIVA EN EL TRANSPORTE
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE SEPTIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE MAYO DE 2013.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 21 de abril de 2004.
 
@@ -155,7 +155,7 @@ La Secretaría por conducto de la Dirección, podrá establecer y mantener en el
 
 Los exámenes y dictámenes a que se refiere este Reglamento, podrán realizarse y expedirse según corresponda, por personal adscrito a la Secretaría, o por el tercero autorizado.
 
-> <small>(DEROGADO TERCER PARRAFO, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
 
 > <small>(REFORMADO, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
 
@@ -197,19 +197,27 @@ X. Las demás que señalen este Reglamento y otras disposiciones jurídicas apli
 
 La Secretaría por conducto de la Dirección o el tercero autorizado, practicarán el examen psicofísico integral y emitirán el dictamen correspondiente.
 
-> <small>(REFORMADO, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE MAYO DE 2013)</small>
 
 ###### Artículo 8.
 
-El personal que solicite a la Dirección o al tercero autorizado la práctica del examen psicofísico integral, deberá presentar identificación oficial que podrá ser credencial para votar con fotografía expedida por el Instituto Federal Electoral, o en su caso, cédula profesional, pasaporte vigente, cartilla del Servicio Militar, y además:
+El personal que solicite a la Dirección o al tercero autorizado la práctica del examen psicofísico integral, deberá presentar identificación oficial que podrá ser credencial para votar con fotografía expedida por el Instituto Federal Electoral, o en su caso, cédula de identidad ciudadana, cédula profesional, pasaporte vigente o cartilla de identificación del Servicio Militar, y además:
 
-I. Copia certificada del acta de nacimiento;
+> <small>(REFORMADA, D.O.F. 10 DE MAYO DE 2013)</small>
+
+I. Copia certificada del acta de nacimiento, sólo cuando sea la primera vez que el personal solicita a la Dirección la práctica del examen psicofísico integral;
+
+> <small>(REFORMADA, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
 
 II. Original o copia de Cédula Única de Registro de Población;
 
+> <small>(REFORMADA, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
+
 III. Original o copia de comprobante de domicilio, y
 
-IV. Comprobante de pago.
+> <small>(REFORMADA, D.O.F. 10 DE MAYO DE 2013)</small>
+
+IV. Comprobante de pago original por concepto de examen psicofísico integral en cualquiera de sus modalidades.
 
 > <small>(REFORMADO, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
 
@@ -261,7 +269,7 @@ La Dirección o el tercero autorizado podrán practicar al personal exámenes co
 
 De acuerdo a la evaluación médica la Dirección o el tercero autorizado, el médico examinador y/o médico dictaminador, podrán omitir, limitar o extender la exploración a los órganos y sistemas que se estime afectados, tomando como referencia las causas de no aptitud contenidas en los requisitos médicos del modo de transporte federal que corresponda.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 11.
 
@@ -277,13 +285,13 @@ I bis. Para expedir la constancia de aptitud psicofísica;
 
 II. Al detectarse cualquier alteración psicofísica;
 
-> <small>(REFORMADA, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 10 DE MAYO DE 2013)</small>
 
-III. Después de ocurrir un accidente de transporte o incidente en el que participe el personal;
+III. Después de ocurrir un accidente o incidente de transporte en el que participe el personal. En estos casos, la práctica del examen psicofísico integral se llevará a cabo sólo por la Dirección, en términos de lo previsto en el capítulo V del Reglamento;
 
-> <small>(REFORMADA, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, D.O.F. 10 DE MAYO DE 2013)</small>
 
-IV. Cuando el personal, el concesionario, permisionario u operador aéreo, soliciten la revaloración, y
+IV. Cuando el personal, el concesionario, permisionario u operador aéreo, soliciten la revaloración a que se refiere el artículo 24 de este Reglamento, y
 
 > <small>(ADICIONADA, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
 
@@ -343,9 +351,11 @@ VIII. Valoración de signos de cansancio.
 
 La Dirección podrá practicar al personal exámenes complementarios incluyendo el examen toxicológico cuando lo considere necesario para emitir el dictamen respectivo.
 
-> <small>(ADICIONADO, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE MAYO DE 2013)</small>
 
-Artículo 15 bis.- En caso de que el personal se niegue a que se le realice el examen médico en operación y los exámenes complementarios incluyendo el examen toxicológico, la Dirección procederá a dejar sin efecto la constancia de aptitud psicofísica y notificará a la autoridad que expidió la Licencia Federal, Título, Certificado o Libreta de Mar y de Identidad Marítima, para los efectos a que haya lugar.
+Artículo 15 bis.- En caso de que el personal se niegue a que se le realice el examen médico en operación o los exámenes complementarios incluyendo el examen toxicológico, la Dirección procederá a dejar sin efecto la constancia de aptitud psicofísica y notificará a la autoridad que expidió la Licencia Federal, Título, Certificado o Libreta de Mar y de Identidad Marítima, para los efectos a que haya lugar.
+
+> <small>(ADICIONADO, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
 
 Asimismo, será necesario que el personal se vuelva a practicar un examen psicofísico integral, para que obtenga una nueva constancia de aptitud psicofísica.
 
@@ -439,21 +449,29 @@ El examen de revaloración derivado de la no aptitud emitida durante un examen p
 
 (DEROGADO, D.O.F. 1 DE SEPTIEMBRE DE 2010)
 
-> <small>(REFORMADO, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE MAYO DE 2013)</small>
 
 ###### Artículo 27.
 
-Si la no aptitud psicofísica del personal fue dictaminada por consumo de sustancias psicotrópicas o estupefacientes, incluyendo medicamentos con ese efecto o por ingestión de bebidas alcohólicas, el personal deberá presentar constancia expedida por dos médicos con cédula profesional para ejercer como psiquiatra o constancia expedida por un establecimiento que tenga, según corresponda, licencia o aviso de funcionamiento expedido por la Secretaría de Salud, en la que se determine:
+Si la no aptitud psicofísica del personal fue dictaminada por consumo de sustancias psicotrópicas o estupefacientes, incluyendo medicamentos con ese efecto o por ingestión de bebidas alcohólicas, el personal al solicitar los exámenes de revaloración deberá presentar constancia expedida por dos médicos con cédula profesional para ejercer como psiquiatra o constancia expedida por un establecimiento que tenga, según corresponda, licencia o aviso de funcionamiento expedido por la Secretaría de Salud, en la que se determine:
+
+> <small>(REFORMADA, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
 
 I. Que su condición psicofísica, no tiene relación con el consumo de sustancias psicotrópicas o estupefacientes, o por ingestión de bebidas alcohólicas;
 
+> <small>(REFORMADA, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
+
 II. Que podrá ejercer sus funciones sin riesgo alguno en las vías generales de comunicación, o en su caso, y
+
+> <small>(REFORMADA, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
 
 III. Que ha sido rehabilitado completamente en el consumo de sustancias psicotrópicas o estupefacientes, incluyendo medicamentos con ese efecto, en términos de la normatividad en salud o por ingestión de bebidas alcohólicas.
 
+> <small>(REFORMADO, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
+
 El personal que hubiere obtenido la constancia de aptitud psicofísica derivada de la revaloración prevista en el presente artículo y que, con base en nuevos exámenes, resulte positivo al consumo de sustancias psicotrópicas, estupefacientes, incluyendo medicamentos con este efecto, en términos de la normatividad en salud, o por ingestión de bebidas alcohólicas, no tendrá derecho a otra revaloración en un término de tres años.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
 
 ### CAPÍTULO IV. Del catálogo de Aptos
 
@@ -473,7 +491,7 @@ La omisión del registro en el sistema o el mal uso de la información por los s
 
 (DEROGADO, D.O.F. 1 DE SEPTIEMBRE DE 2010)
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
 
 ### CAPÍTULO V. De la Investigación Médica de Accidentes e Incidentes de Transporte
 
@@ -517,7 +535,7 @@ En ese mismo plazo, el concesionario o permisionario u operador aéreo deberá p
 
 En caso de no presentarse en el plazo señalado será dictaminado como no apto, hasta en tanto se practique un examen psicofísico integral.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
 
 ### CAPÍTULO VI. De la Responsabilidad Solidaria del Concesionario o Permisionario u Operador Aéreo
 
@@ -549,7 +567,7 @@ Adicionalmente a lo establecido en el programa a que se refiere el artículo ant
 
 En todos los casos en que el concesionario o permisionario u operador aéreo, tuviese conocimiento de una alteración física o mental del personal a su servicio, deberá comunicarlo en un término no mayor a dos días hábiles a la Dirección o unidad médica correspondiente, a fin de que la Dirección practique el examen psicofísico integral.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 39.
 
@@ -571,7 +589,7 @@ IV. Resultados de los exámenes toxicológicos y de detección de alcohol en ali
 
 Los expedientes deberán estar a disposición de la Dirección cuando así lo requiera.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 40.
 
@@ -603,11 +621,11 @@ VIII. Labor que desempeña y fecha de vencimiento de la Licencia Federal, Títul
 
 IX. Resultados de exámenes toxicológicos y de detección de alcohol en aliento en caso de que los hubiere.
 
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
 
 ### CAPÍTULO VII. De las Autorizaciones y de los Autorizados
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
 
 #### Sección I. De las Autorizaciones
 
@@ -651,9 +669,13 @@ V. Acreditar capacidad administrativa y técnica, mediante:
 
 a) Declaración firmada bajo protesta de decir verdad, que el solicitante, el responsable del laboratorio, así como el responsable del servicio auxiliar de diagnóstico, no han sido condenados por delito doloso mediante sentencia irrevocable;
 
-b) Declaración firmada bajo protesta de decir verdad, que las instalaciones y el equipo para prestar el servicio auxiliar de diagnóstico que solicita, cumple con la normatividad en materia de salud, para la prestación de estos servicios, y
+b) Declaración firmada bajo protesta de decir verdad, que las instalaciones y el equipo para prestar el servicio auxiliar de diagnóstico que solicita, cumple con la normatividad en materia de salud, para la prestación de estos servicios, y (sic)
 
-c) Comprobante de pago;
+c) (DEROGADO, D.O.F. 10 DE MAYO DE 2013)
+
+> <small>(ADICIONADA, D.O.F. 10 DE MAYO DE 2013)</small>
+
+VI. Comprobante de pago original por concepto de autorización para prestar los servicios auxiliares de diagnóstico.
 
 Para la prestación de servicios de laboratorio de toxicología, deberá acreditar ante la Dirección, además:
 
@@ -669,17 +691,25 @@ La solicitud para prestar los servicios de médico o paramédico examinador debe
 
 I. Original y copia del acta de nacimiento o de la carta de naturalización, o para el caso de extranjeros la forma migratoria correspondiente;
 
-II. Copia de credencial para votar expedida por el Instituto Federal Electoral o Cartilla del Servicio Militar Liberada o Pasaporte vigente;
+> <small>(REFORMADA, D.O.F. 10 DE MAYO DE 2013)</small>
+
+II. Copia de la credencial para votar expedida por el Instituto Federal Electoral, de la cartilla de identificación del Servicio Militar liberada, del pasaporte vigente o de la cédula de identidad ciudadana;
 
 III. Copia de cédula profesional que lo acredite como personal de salud en la disciplina que lo autorice para el servicio que solicite;
 
-IV. Acreditación de los cursos de certificación de competencias, que determine la Dirección, en la evaluación del personal del transporte aéreo civil, marítimo, ferroviario y autotransporte;
+> <small>(REFORMADA, D.O.F. 10 DE MAYO DE 2013)</small>
+
+IV. Acreditación de los cursos de competencias médicas que determine la Dirección, en la evaluación del personal del transporte aéreo civil, marítimo, ferroviario y autotransporte;
 
 V. Registro Federal de Contribuyentes y copia de la Clave Única de Registro de Población, y
 
-VI. Comprobante de pago.
+> <small>(REFORMADA, D.O.F. 10 DE MAYO DE 2013)</small>
 
-Tratándose de documentos emitidos en el extranjero deberán presentarse apostillados y legalizados por el consulado mexicano del país de donde se emite el documento y traducidos al idioma español por peritos autorizados por el Poder Judicial de cualquier entidad federativa o federal.
+VI. Comprobante de pago original por concepto de autorización para prestar los servicios de médico o paramédico examinador o médico dictaminador, según el caso.
+
+> <small>(REFORMADO, D.O.F. 10 DE MAYO DE 2013)</small>
+
+Tratándose de documentos emitidos en el extranjero deberán presentarse apostillados o legalizados por el Consulado Mexicano del país donde se emite el documento y en los casos en que éste se encuentre redactado en idioma diferente al español deberá ser traducido por persona que cuente con cédula profesional para ejercer como traductor o, en su caso, por perito traductor autorizado por el Poder Judicial de cualquier entidad federativa o de la Federación con la especialidad en el idioma que corresponda al contenido en la documental que se traducirá.
 
 > <small>(ADICIONADO, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
 
@@ -687,11 +717,15 @@ Tratándose de documentos emitidos en el extranjero deberán presentarse apostil
 
 Para solicitar autorización para médico dictaminador la solicitud deberá ser presentada por persona física y estar acompañada, además de los documentos que establece el artículo anterior, de:
 
-I. Acreditación de las competencias en evaluación y dictamen en uso de drogas y alcohol, y
+I. (DEROGADA, D.O.F. 10 DE MAYO DE 2013)
 
-II. En caso de que el médico dictaminador solicite la autorización para la aplicación de examen psicofísico integral al personal técnico aeronáutico, deberá acompañar título profesional emitido por una institución de educación superior reconocida por la autoridad competente; o cédula profesional que acredite la especialidad en medicina de aviación; o su equivalente.
+> <small>(REFORMADA, D.O.F. 10 DE MAYO DE 2013)</small>
 
-Tratándose de documentos emitidos en el extranjero deberán presentarse apostillados y legalizados por el consulado mexicano del país de donde se emite el documento y traducidos al idioma español por peritos autorizados por el Poder Judicial de cualquier entidad federativa o federal.
+II. En caso de que el médico dictaminador solicite la autorización para la aplicación del examen psicofísico integral al personal técnico aeronáutico, deberá presentar cédula profesional que acredite la especialidad de medicina de aviación o de cualquier especialidad médica.
+
+> <small>(REFORMADO, D.O.F. 10 DE MAYO DE 2013)</small>
+
+Tratándose de documentos emitidos en el extranjero deberán presentarse apostillados o legalizados por el Consulado Mexicano del país donde se emite el documento y en los casos en que éste se encuentre redactado en idioma diferente al español deberá ser traducido por persona que cuente con cédula profesional para ejercer como traductor o, en su caso, por perito traductor autorizado por el Poder Judicial de cualquier entidad federativa o de la Federación con la especialidad en el idioma que corresponda al contenido en la documental que se traducirá.
 
 > <small>(ADICIONADO, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
 
@@ -701,13 +735,19 @@ Para solicitar autorización para técnico en alcoholimetría y técnicos en tom
 
 I. Original y copia del acta de nacimiento o de la carta de naturalización, o para el caso de extranjeros la forma migratoria correspondiente;
 
-II. Copia de credencial para votar expedida por el Instituto Federal Electoral o Cartilla del Servicio Militar Liberada o Pasaporte vigente;
+> <small>(REFORMADA, D.O.F. 10 DE MAYO DE 2013)</small>
 
-III. Acreditación de los cursos de certificación como técnico en alcoholimetría;
+II. Copia de la credencial para votar expedida por el Instituto Federal Electoral, de la cartilla de identificación del Servicio Militar liberada, de la cédula de identidad ciudadana o del pasaporte vigente;
+
+> <small>(REFORMADA, D.O.F. 10 DE MAYO DE 2013)</small>
+
+III. Acreditación de los cursos de competencias técnicas que determine la Dirección, en alcoholimetría o de técnico en toma de muestras toxicológicas;
 
 IV. Registro Federal de Contribuyentes y copia de la Clave Única de Registro de Población, y
 
-V. Comprobante de pago.
+> <small>(REFORMADA, D.O.F. 10 DE MAYO DE 2013)</small>
+
+V. Comprobante de pago original por concepto de autorización para prestar los servicios como técnico en alcoholimetría o técnico en toma de muestras para análisis toxicológico según el caso.
 
 > <small>(ADICIONADO, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
 
@@ -743,11 +783,11 @@ VII. Las causas de suspensión, revocación y terminación.
 
 #### Sección II. Del Tercero Autorizado
 
-> <small>(ADICIONADO, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 10 DE MAYO DE 2013)</small>
 
 ###### Artículo 49.
 
-La autorización se otorgará por un plazo de cinco años, pudiendo ser prorrogada de manera sucesiva por periodos iguales. Para tal efecto, el autorizado deberá presentar ante la Dirección, solicitud de renovación, cuando menos, noventa días naturales antes de la fecha de vencimiento de la autorización respectiva.
+La autorización se otorgará por un plazo de cinco años, pudiendo ser renovada sucesivamente por períodos iguales. Para tal efecto, el autorizado deberá presentar ante la Dirección, solicitud de renovación, cuando menos, noventa días naturales antes de la fecha de vencimiento de la autorización respectiva.
 
 > <small>(ADICIONADO, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
 
@@ -755,15 +795,13 @@ La autorización se otorgará por un plazo de cinco años, pudiendo ser prorroga
 
 El tercero autorizado fijará libremente las tarifas por la práctica de los exámenes que aplique, las cuales deberán hacerlo del conocimiento de la Dirección.
 
-> <small>(ADICIONADO, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 10 DE MAYO DE 2013)</small>
 
 ###### Artículo 51.
 
-El tercero autorizado está obligado a presentar ante la Dirección, dentro de los diez días hábiles siguientes contados a partir de la fecha en que haya obtenido la autorización, la documentación que acredite lo siguiente:
+El tercero autorizado está obligado a presentar ante la Dirección, dentro de los diez días hábiles siguientes contados a partir de la fecha en que haya obtenido la autorización, una póliza de seguro de responsabilidad civil contratada con institución autorizada por el Gobierno Federal para operar como institución o sociedad mutualista de seguros, por concepto de mala práctica médica, laboratorio y, en su caso, deficiencia en la práctica de exámenes toxicológicos, por un monto que no podrá ser inferior a diecisiete mil quinientas veces el salario mínimo general vigente en el Distrito Federal.
 
-I. Póliza de seguro de responsabilidad civil contratada con institución registrada ante la Comisión Nacional de Seguros y Fianzas, por concepto de mala práctica médica, laboratorio y, en su caso, deficiencia en la práctica de exámenes toxicológicos, por un monto de diecisiete mil quinientas veces el salario mínimo general vigente en el Distrito Federal, y
-
-II. Póliza de fianza expedida por institución registrada ante la Comisión Nacional de Seguros y Fianzas, para responder por el uso indebido del sistema electrónico mediante el cual se expiden las constancias de aptitud psicofísica en los términos a que se refiere el presente Reglamento, por un monto de diecisiete mil quinientas veces el salario mínimo general vigente en el Distrito Federal.
+Tratándose de un médico dictaminador autorizado, además de la póliza referida en el párrafo anterior, también deberá presentar la póliza de fianza, expedida por institución autorizada por el Gobierno Federal para operar como institución de fianzas, para responder por el uso indebido del sistema electrónico mediante el cual se expiden las constancias de aptitud psicofísica y los dictámenes médicos en los términos a que se refiere el presente Reglamento, por un monto que no podrá ser inferior a diecisiete mil quinientas veces el salario mínimo general vigente en el Distrito Federal.
 
 > <small>(ADICIONADO, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
 
@@ -861,7 +899,7 @@ V. Revocación.
 
 En caso de terminación de una autorización la Dirección procederá a ordenar la cancelación inmediata de las cédulas de identificación del personal del servicio autorizado.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
 
 ### CAPÍTULO IX. De las Verificaciones
 
@@ -873,11 +911,11 @@ La Secretaría, por conducto de la Dirección, verificará el cumplimiento de es
 
 Para tal efecto, los concesionarios o permisionarios u operador aéreo y el tercero autorizado, estarán obligados a permitir el acceso de los verificadores de la Secretaría a sus instalaciones, así como proporcionar al personal de la misma, toda la información y documentación que le sea requerida.
 
-> <small>(REFORMADO[N. DE E. ANTES CAPITULO VII], D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO [N. DE E. ANTES CAPÍTULO VII], D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
 
 ### CAPÍTULO X. Del Recurso Administrativo de Revisión
 
-> <small>(ADICIONADO [N. DE E. REUBICADO, ANTES ARTICULO 41], D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
+> <small>(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 41], D.O.F. 1 DE SEPTIEMBRE DE 2010)</small>
 
 ###### Artículo 59.
 
@@ -899,7 +937,7 @@ SEXTO.- A partir del año 2006 la Licencia Federal, Título, Certificado o Libre
 
 Dado en la Residencia del Poder Ejecutivo Federal, a los diecinueve días del mes de abril de dos mil cuatro.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Pedro Cerisola y Weber.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 D.O.F. 1 DE SEPTIEMBRE DE 2010.
 
@@ -908,3 +946,9 @@ PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publi
 SEGUNDO.- Hasta en tanto se expidan los requisitos médicos para cada modo de transporte federal y sus servicios auxiliares a que se refiere el presente Reglamento, estarán en vigor los apéndices correspondientes al Transporte Aéreo Civil, Transporte Ferroviario, Transporte Marítimo y Autotransporte Público Federal, publicados en el Diario Oficial de la Federación el 6 de diciembre de 1988.
 
 TERCERO.- Los dictámenes y constancias emitidos por la Dirección con anterioridad a la publicación del presente Decreto, continuarán en vigor en los términos en que fueron emitidos, hasta la conclusión de su vigencia.
+
+D.O.F. 10 DE MAYO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las autorizaciones emitidas por la Dirección General de Protección y Medicina Preventiva en el Transporte con anterioridad a la entrada en vigor del presente decreto, continuarán vigentes, en los términos señalados por el Reglamento del Servicio de Medicina Preventiva en el Transporte aplicable en el momento de su emisión y en los términos en que fueron emitidas hasta la conclusión de su vigencia.
