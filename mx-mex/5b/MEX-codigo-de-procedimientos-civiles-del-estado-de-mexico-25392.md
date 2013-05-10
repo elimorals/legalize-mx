@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-civiles-del-estado-de-mexico-25392"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-01"
-last_updated: "2012-08-31"
+last_updated: "2013-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25392&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE MAYO DE 2013.
 
 Código publicado en el Gaceta del Gobierno del Estado de México, el lunes 1 de julio del 2002.
 
@@ -45,17 +45,17 @@ CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE MEXICO
 
 ## TITULO PRIMERO. Jurisdicción
 
-Ejercicio de la jurisdicción
-
-###### Artículo 1.
-
-1.- Corresponde a los Tribunales del Poder Judicial, la facultad de interpretar y aplicar las leyes en los asuntos del orden civil y familiar del fuero común, lo mismo que del orden federal, en los casos en que expresamente lo ordene la ley.
-
 Inicio dispositivo e impulso procesal oficioso
 
 ###### Artículo 1.
 
 2.- La jurisdicción civil sólo se ejercerá mediante instancia de parte, pero mientras se mantenga en ejercicio, corresponde al Juez desarrollar el proceso de oficio, salvo los casos en que la ley exija la petición de parte.
+
+Ejercicio de la jurisdicción
+
+###### Artículo 1.
+
+1.- Corresponde a los Tribunales del Poder Judicial, la facultad de interpretar y aplicar las leyes en los asuntos del orden civil y familiar del fuero común, lo mismo que del orden federal, en los casos en que expresamente lo ordene la ley.
 
 Normas genéricas de la jurisdicción
 
@@ -71,13 +71,19 @@ Organos jurisdiccionales
 
 4.- La jurisdicción en el Estado la ejerce el Tribunal Superior de Justicia funcionando en Pleno o Salas Colegiadas y Unitarias Regionales, los Jueces de Primera Instancia y de Cuantía Menor.
 
-De la fe pública de los Magistrados y Jueces
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 10 DE MAYO DE 2013)</small>
+
+De la fe pública de los magistrados y de los jueces
 
 ###### Artículo 1.
 
 5.- Los Magistrados y Jueces en el ejercicio de sus funciones tendrán una fe pública limitada consistente, en que las resoluciones que pronuncien gozarán de certidumbre jurídica y de verdad en cuanto a la interpretación y aplicación de la ley al caso concreto y una vez que causen ejecutoria podrán ser oponibles también a aquellos que no litigaron.
 
 Los Secretarios de Acuerdos, así como los Secretarios Notificadores o Ejecutores adscritos, tendrán una fe pública amplia, en la que podrán certificar la existencia de eventos y circunstancias que dan lugar a hechos jurídicos o no jurídicos, dentro de un procedimiento que sucedan en el ejercicio de sus funciones, ya sea durante el desarrollo de una diligencia judicial, o que así lo ordene a discreción el titular del órgano jurisdiccional al que pertenecen.
+
+> <small>(ADICIONADO, G.G. 10 DE MAYO DE 2013)</small>
+
+Las audiencias que se graben en audio y video no requerirán la presencia del secretario de acuerdos, salvo que por la naturaleza de su objeto, el juez estime necesaria la presencia de aquél. En este supuesto, el juez que las presida tendrá fe pública en sus actuaciones y se apoyará de un técnico judicial, quien fungirá como auxiliar de sala.
 
 Otras funciones judiciales
 
@@ -131,13 +137,17 @@ V. De los demás asuntos que les encomienden otros ordenamientos legales.
 
 ### CAPITULO III. De los Jueces de Primera Instancia
 
-Atribuciones de los Jueces civiles
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 10 DE MAYO DE 2013)</small>
+
+Atribuciones de los jueces civiles
 
 ###### Artículo 1.
 
 9.- Los Jueces de Primera Instancia de la materia civil, conocerán y resolverán de:
 
-I. Los juicios civiles y mercantiles cuando el valor del negocio exceda de mil veces el salario mínimo vigente en el lugar de su ubicación, o no cuantificables en dinero, con excepción de los que correspondan al derecho familiar, si hubiera en el lugar Juzgado de esta materia;
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE MAYO DE 2013)</small>
+
+l. Los juicios civiles y mercantiles cuando el valor del negocio exceda de mil veces el salario mínimo vigente en el lugar de su ubicación, o no cuantificables en dinero, con excepción de los que correspondan al derecho familiar y al mercantil, si hubiera en el lugar juzgados de estas materias;
 
 > <small>(ADICIONADO, G.G. 5 DE OCTUBRE DE 2011)</small>
 
@@ -171,9 +181,25 @@ IV. La diligenciación de exhortos, cartas rogatorias, suplicatorias, requisitor
 
 V. Los demás asuntos familiares cuyo conocimiento les atribuyan las leyes.
 
+> <small>(ADICIONADO, G.G. 10 DE MAYO DE 2013)</small>
+
+Atribuciones de los jueces mercantiles
+
 ###### Artículo 1.
 
-11.- Los Jueces de Cuantía Menor, conocerán y resolverán en materia civil y mercantil de:
+10.1.- Los jueces mercantiles de primera instancia conocerán y resolverán los asuntos relacionados con dicha materia.
+
+### CAPITULO IV. De los Jueces de Cuantía Menor
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 10 DE MAYO DE 2013)</small>
+
+Atribuciones de los jueces de cuantía menor
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE MAYO DE 2013)</small>
+
+###### Artículo 1.
+
+11.- Los jueces de cuantía menor conocerán y resolverán en materia civil y mercantil, respecto de esta última siempre que no existieran, en el ámbito de su competencia, juzgados especializados, de:
 
 > <small>(REFORMADA, G.G. 5 DE OCTUBRE DE 2011)</small>
 
@@ -185,21 +211,17 @@ III. La diligenciación de exhortos, cartas rogatorias, suplicatorias, requisito
 
 IV. Los demás asuntos cuyo conocimiento les atribuyan las leyes.
 
-### CAPITULO IV. De los Jueces de Cuantía Menor
+## TITULO TERCERO. Demás Servidores Públicos de la
 
-Atribuciones de los Jueces de Cuantía Menor
+Administración de Justicia
+
+Atribuciones del Secretario
 
 ###### Artículo 1.
 
 12.- Los Secretarios de los Juzgados y de las Salas tendrán a su cargo proyectar autos y decretos sobre las promociones.
 
 Libros a cargo del Secretario
-
-## TITULO TERCERO. Demás Servidores Públicos de la
-
-Administración de Justicia
-
-Atribuciones del Secretario
 
 ###### Artículo 1.
 
@@ -234,6 +256,14 @@ Fe pública del Secretario
 ###### Artículo 1.
 
 14.- Los Secretarios tienen fe pública en todo lo relativo al ejercicio de su encargo.
+
+> <small>(ADICIONADO, G.G. 10 DE MAYO DE 2013)</small>
+
+Los secretarios participarán como fedatarios públicos en el desahogo de audiencias por videoconferencia que se soliciten al órgano jurisdiccional de su adscripción, así como aquéllas que el propio órgano jurisdiccional ordene en el ámbito territorial de competencia.
+
+> <small>(ADICIONADO, G.G. 10 DE MAYO DE 2013)</small>
+
+Cuando no exista notificador adscrito, los secretarios realizarán las notificaciones no personales y deberán remitir los expedientes o instructivos de notificaciones personales, acompañando las constancias necesarias a las centrales de ejecutores y notificadores.
 
 Cuidado de expedientes, libros y documentos
 
@@ -325,6 +355,10 @@ Reglas determinantes de la competencia
 
 Requisitos de competencia
 
+## TITULO CUARTO. Competencia
+
+Ejercicio de la función jurisdiccional
+
 ###### Artículo 1.
 
 30.- Para que los Jueces y Tribunales tengan competencia, se requiere:
@@ -334,10 +368,6 @@ I. Que el conocimiento del negocio en que intervengan, esté atribuido por la le
 II. Que les corresponda el conocimiento del negocio con preferencia a los demás Jueces o Tribunales de su mismo grado.
 
 Competencia por razón de conexión
-
-## TITULO CUARTO. Competencia
-
-Ejercicio de la función jurisdiccional
 
 ###### Artículo 1.
 
@@ -581,6 +611,12 @@ Los impedimentos no son dispensables
 
 Organo que conoce de la excusa y la recusación
 
+## TITULO QUINTO. Competencia Subjetiva, Excusas y Recusaciones
+
+### CAPITULO I. Garantía de Imparcialidad
+
+Impedimentos
+
 ###### Artículo 1.
 
 54.- En casos de excusa o recusación, conocerá:
@@ -590,12 +626,6 @@ I. De los Magistrados, la Sala de la que formen parte, la que se integrará conf
 II. De los Jueces, la Sala de su adscripción;
 
 III. De los Secretarios, el titular del Tribunal de que se trate.
-
-## TITULO QUINTO. Competencia Subjetiva, Excusas y Recusaciones
-
-### CAPITULO I. Garantía de Imparcialidad
-
-Impedimentos
 
 ###### Artículo 1.
 
@@ -609,15 +639,15 @@ Plazo para excusarse
 
 La determinación por la que un Magistrado, Juez o Secretario se excuse no es impugnable.
 
+### CAPITULO II. De las Excusas
+
+Obligación de excusarse
+
 ###### Artículo 1.
 
 57.- Una vez realizada la excusa, el Juez remitirá los autos a quien deba conocer de éstos, en términos de la Ley Orgánica del Poder Judicial del Estado.
 
 Si se excusa el Secretario, el Juez ordenará que otro Secretario conozca del asunto, y a falta de éste, designará a otro funcionario del mismo Tribunal.
-
-### CAPITULO II. De las Excusas
-
-Obligación de excusarse
 
 ###### Artículo 1.
 
@@ -645,6 +675,10 @@ IV. Cuando en un negocio intervengan varias personas antes de nombrarse albacea,
 
 Oportunidad para interponer la recusación
 
+### CAPITULO III. De las Recusaciones
+
+Expresión de la causa de recusación
+
 ###### Artículo 1.
 
 61.- Puede interponerse la recusación hasta antes de citación para sentencia definitiva, a menos que hubiere cambio de personal.
@@ -652,10 +686,6 @@ Oportunidad para interponer la recusación
 Organo que conoce de la recusación
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 8 DE MAYO DE 2003)</small>
-
-### CAPITULO III. De las Recusaciones
-
-Expresión de la causa de recusación
 
 ###### Artículo 1.
 
@@ -775,12 +805,6 @@ Capacidad procesal
 
 Representación procesal
 
-###### Artículo 1.
-
-79.- Los interesados o sus representantes legítimos podrán comparecer por sí o por mandatario o procurador.
-
-Gestión judicial
-
 ## TITULO SEXTO. Partes
 
 ### CAPITULO I. De las Personas que pueden Intervenir
@@ -788,6 +812,12 @@ Gestión judicial
 en el Procedimiento Judicial
 
 Definición de parte
+
+###### Artículo 1.
+
+79.- Los interesados o sus representantes legítimos podrán comparecer por sí o por mandatario o procurador.
+
+Gestión judicial
 
 ###### Artículo 1.
 
@@ -831,15 +861,15 @@ Litisconsorcio necesario
 
 Estudio oficioso de litisconsorcio necesario
 
+### CAPITULO II. Del Litisconsorcio
+
+Concepto de litisconsorcio
+
 ###### Artículo 1.
 
 87.- El Juez en cualquier momento analizará de oficio la presencia del litisconsorcio necesario.
 
 Estudio de litisconsorcio en la demanda
-
-### CAPITULO II. Del Litisconsorcio
-
-Concepto de litisconsorcio
 
 ###### Artículo 1.
 
@@ -887,6 +917,12 @@ Exhibición de cédula profesional
 
 95.- Los Tribunales exigirán la presentación de la cédula de ejercicio profesional de los abogados patronos o asesores, la cual registrarán en el libro respectivo. Quienes no la presenten por ningún motivo se les permitirá figurar en audiencias o diligencias, ni enterarse de actuaciones o revisar expedientes. Los servidores judiciales que lo consintieren incurrirán en responsabilidad administrativa conforme a la ley.
 
+### CAPITULO III. De los Patronos
+
+Patrocinio de Licenciado en Derecho
+
+> <small>(REFORMADO, G.G. 24 DE ABRIL DE 2012)</small>
+
 ###### Artículo 1.
 
 96.- Las actuaciones judiciales y promociones pueden efectuarse en cualquier forma, salvo que la ley señale una especial.
@@ -894,12 +930,6 @@ Exhibición de cédula profesional
 Deberán escribirse con material indeleble; además de que las promociones cuando presenten correcciones, a través de tachaduras, enmendaduras o entrerrenglonados deberán salvarse con firma del interesado, lo que se hará constar por el servidor judicial al momento de su recepción.
 
 Firmas de promociones y actuaciones judiciales
-
-### CAPITULO III. De los Patronos
-
-Patrocinio de Licenciado en Derecho
-
-> <small>(REFORMADO, G.G. 24 DE ABRIL DE 2012)</small>
 
 ###### Artículo 1.
 
@@ -913,17 +943,17 @@ Inatendibles promociones sin firma o huella
 
 Excepción a la nulidad de actuaciones
 
-###### Artículo 1.
-
-99.- Cuando la ley prescriba una determinada forma para una actuación, sólo será nula, si se efectúa en una forma diversa.
-
-Actuaciones en idioma español
-
 ## TITULO SEPTIMO. Actos Procesales en General
 
 ### CAPITULO I. De las Formalidades Judiciales
 
 Forma de las actuaciones y promociones
+
+###### Artículo 1.
+
+99.- Cuando la ley prescriba una determinada forma para una actuación, sólo será nula, si se efectúa en una forma diversa.
+
+Actuaciones en idioma español
 
 ###### Artículo 1.
 
@@ -969,15 +999,19 @@ Días hábiles e inhábiles
 
 Horas hábiles
 
+> <small>(REFORMADO, G.G. 10 DE MAYO DE 2013)</small>
+
 ###### Artículo 1.
 
-107.- Son horas hábiles las que median entre las ocho y las diecinueve, salvo excepciones.
+107.- Son horas hábiles las que median entre las siete y las diecinueve.
 
 Juicios en los que no hay días y horas inhábiles
 
+> <small>(REFORMADO, G.G. 10 DE MAYO DE 2013)</small>
+
 ###### Artículo 1.
 
-108.- En los juicios sobre alimentos, nulidad de matrimonio, servidumbres legales, posesiones, controversias familiares y los demás que determinen las leyes, no hay días ni horas inhábiles.
+108.- En los juicios sobre alimentos, nulidad de matrimonio, divorcio incausado, restitución internacional de menores, controversias del derecho familiar, servidumbres legales, posesiones y los demás que determinen las leyes, no hay días ni horas inhábiles.
 
 Habilitación de días y horas inhábiles
 
@@ -996,6 +1030,14 @@ Inmediación procesal
 ###### Artículo 1.
 
 111.- Los Jueces y Magistrados recibirán por si mismos las declaraciones y presidirán todas las audiencias.
+
+> <small>(ADICIONADO, G.G. 10 DE MAYO DE 2013)</small>
+
+Las audiencias podrán desarrollarse por videoconferencia, cuando por su objeto resulte factible, sea posible técnicamente y sea necesario a juicio del juzgador.
+
+> <small>(ADICIONADO, G.G. 10 DE MAYO DE 2013)</small>
+
+Las audiencias por videoconferencia serán grabadas en audio y video, el acta se ajustará en lo conducente a lo señalado por el artículo 5.27 de este Código. En ambos lugares deberá haber un Fedatario Público.
 
 Cambio de titular en Juzgado o Sala
 
@@ -1045,7 +1087,13 @@ Razón de cuenta de promociones
 
 118.- El Secretario dará cuenta al titular del Tribunal con la presentación de las promociones a mas tardar al día siguiente. La razón de cuenta se rubricará por aquel y el Juez o Magistrado.
 
-Presentación de promociones a través de Oficialía de Partes Común
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 10 DE MAYO DE 2013)</small>
+
+Presentación de promociones y digitalización
+
+### CAPITULO II. De la Presentación de Escritos y Promociones
+
+Tiempo de presentación de promociones
 
 ###### Artículo 1.
 
@@ -1053,11 +1101,19 @@ Presentación de promociones a través de Oficialía de Partes Común
 
 A los escritos y sus copias se les anotarán los requisitos que para las demás promociones.
 
+> <small>(ADICIONADO, G.G. 10 DE MAYO DE 2013)</small>
+
+En la oficialía de partes común se digitalizarán las demandas y los documentos base de la acción y, en su oportunidad, se integrarán al expediente electrónico respectivo, para su consulta, por quienes hayan sido autorizados para ello, conforme a la regulación que para tal efecto emita el Consejo de la Judicatura del Estado, remitiéndose inmediatamente al juzgado en turno, quien acusará el correspondiente recibo.
+
+> <small>(ADICIONADO, G.G. 10 DE MAYO DE 2013)</small>
+
+En los lugares donde no exista dicha oficialía, la recepción y digitalización se hará por el juzgado ante el que se presenten tales documentos.
+
+> <small>(ADICIONADO, G.G. 10 DE MAYO DE 2013)</small>
+
+Los titulares de los órganos jurisdiccionales serán los responsables de vigilar la digitalización de todas las promociones y documentos que presenten las partes y que se incorpore el contenido de los acuerdos, resoluciones o sentencias y toda información relacionada con los expedientes en el sistema. Los secretarios de acuerdos vigilarán que, tanto en el expediente electrónico como en el impreso, sea incorporada cada promoción, documento, el contenido de autos y resoluciones, a fin de que coincidan en su totalidad. El Consejo de la Judicatura del Estado emitirá los acuerdos generales que considere necesarios, a efecto de establecer las bases y el correcto funcionamiento del expediente electrónico. En caso de falta de coincidencia entre el expediente electrónico con el impreso, a petición de parte o de oficio, será subsanada por el órgano jurisdiccional.
+
 Concentración de promociones
-
-### CAPITULO II. De la Presentación de Escritos y Promociones
-
-Tiempo de presentación de promociones
 
 ###### Artículo 1.
 
@@ -1105,15 +1161,15 @@ V. Arresto hasta por treinta y seis horas.
 
 Reposición de actuaciones judiciales
 
+### CAPITULO III. Del Orden, Correcciones Disciplinarias y Medios de Apremio
+
+Orden y respeto al Tribunal
+
 ###### Artículo 1.
 
 126.- Los autos que se perdieren serán repuestos a costa del que fuere responsable de la pérdida, quien además responderá de los daños y perjuicios, quedando en su caso, sujeto a las disposiciones del Código Penal.
 
 Reposición de autos
-
-### CAPITULO III. Del Orden, Correcciones Disciplinarias y Medios de Apremio
-
-Orden y respeto al Tribunal
 
 ###### Artículo 1.
 
@@ -1127,15 +1183,15 @@ Medios para obtener la reposición de autos
 
 Reposición de actuaciones judiciales de oficio
 
+### CAPITULO IV. Del Control y Reposición de Autos y Expedición de Copias
+
+Folio y rúbrica de expedientes
+
 ###### Artículo 1.
 
 129.- El Juez podrá ordenar de oficio, si lo estima conveniente, la reposición de actuaciones judiciales valiéndose de los medios legales.
 
 Expedición de copias certificadas
-
-### CAPITULO IV. Del Control y Reposición de Autos y Expedición de Copias
-
-Folio y rúbrica de expedientes
 
 ###### Artículo 1.
 
@@ -1183,13 +1239,13 @@ Principio de congruencia
 
 Principio de dirección del proceso
 
-###### Artículo 1.
-
-138.- La dirección del proceso está confiada al Juez, el que la ejercerá de acuerdo con las disposiciones de este Código; deberá tomar las medidas que ordena la ley para prevenir y, en su caso, sancionar cualquier actividad u omisión con la finalidad de impedir el fraude procesal, la colusión y las conductas ilícitas o dilatorias.
-
 ### CAPITULO V. De los Principios Rectores del Proceso
 
 Principio de exactitud
+
+###### Artículo 1.
+
+138.- La dirección del proceso está confiada al Juez, el que la ejercerá de acuerdo con las disposiciones de este Código; deberá tomar las medidas que ordena la ley para prevenir y, en su caso, sancionar cualquier actividad u omisión con la finalidad de impedir el fraude procesal, la colusión y las conductas ilícitas o dilatorias.
 
 ###### Artículo 1.
 
@@ -1213,12 +1269,6 @@ Prácticas de diligencias por tribunal inferior
 
 Tiempo de expedición de exhortos y despachos
 
-###### Artículo 1.
-
-143.- Los exhortos y despachos que manden dirigir las autoridades judiciales de la entidad, se expedirán al siguiente día al en que cause estado el acuerdo que los prevenga, a menos que se ordene lo contrario.
-
-Tiempo de acuerdo y diligenciación de exhortos
-
 ### CAPITULO VI. De la Denuncia de Hechos Delictuosos
 
 Intervención del Ministerio Público
@@ -1229,9 +1279,19 @@ Intervención del Ministerio Público
 
 ###### Artículo 1.
 
+143.- Los exhortos y despachos que manden dirigir las autoridades judiciales de la entidad, se expedirán al siguiente día al en que cause estado el acuerdo que los prevenga, a menos que se ordene lo contrario.
+
+Tiempo de acuerdo y diligenciación de exhortos
+
+###### Artículo 1.
+
 144.- Los exhortos y despachos que reciban las autoridades judiciales del Estado, se proveerán dentro de las veinticuatro horas y se diligenciarán dentro de los tres días siguientes, a no ser que la práctica de la diligencia requerida exija mayor tiempo, en cuyo caso el Juez fijará el que crea conveniente.
 
 No legalización de firmas
+
+### CAPITULO VII. De los Exhortos y Despachos
+
+Remisión de exhortos y despachos
 
 ###### Artículo 1.
 
@@ -1240,10 +1300,6 @@ No legalización de firmas
 Para ser diligenciados por los Tribunales del Estado, los exhortos no requieren la legalización de las firmas del Tribunal requirente.
 
 Rogatorias del extranjero
-
-### CAPITULO VII. De los Exhortos y Despachos
-
-Remisión de exhortos y despachos
 
 ###### Artículo 1.
 
@@ -1281,6 +1337,10 @@ Cuando dentro del plazo no haya habido despacho en el Tribunal, se aumentarán d
 
 Certificación del plazo
 
+### CAPITULO VIII. De los Plazos Judiciales
+
+Plazos improrrogables
+
 ###### Artículo 1.
 
 152.- En autos se asentará razón del día en que comienza a correr un plazo y del en que debe concluir. La constancia asentará el día en que se efectuó la notificación de la resolución en que se conceda el plazo.
@@ -1288,10 +1348,6 @@ Certificación del plazo
 La falta de la razón no tiene más efectos que los de responsabilidad del omiso.
 
 Preclusión del derecho por extinción del plazo
-
-### CAPITULO VIII. De los Plazos Judiciales
-
-Plazos improrrogables
 
 ###### Artículo 1.
 
@@ -1385,7 +1441,11 @@ IV. Por correo certificado;
 
 V. Por edictos;
 
-VI. Por cualquier otro medio de comunicación efectivo que de constancia indubitable de recibo.
+> <small>(ADICIONADA, G.G. 10 DE MAYO DE 2013)</small>
+
+VI. Por correo electrónico institucional;
+
+VII. Por cualquier otro medio de comunicación efectivo que de constancia indubitable de recibo.
 
 Tiempo de realizar las notificaciones
 
@@ -1399,19 +1459,15 @@ Contenido y objeto de la notificación
 
 167.- La resolución en que se mande hacer una notificación, citación o emplazamiento, expresará el objeto de la diligencia y los nombres de las personas a quienes se debe hacer.
 
-Domicilio para oír notificaciones personales
+> <small>(REFORMADO, G.G. 10 DE MAYO DE 2013)</small>
+
+Domicilio o correo electrónico institucional para oír notificaciones personales
 
 ###### Artículo 1.
 
-168.- Las partes, en el primer escrito o en la primera diligencia judicial en que intervengan, deben designar domicilio en la población en que esté ubicado el Tribunal, para que se les hagan las notificaciones que deban ser personales.
+168.- Las partes, en el primer escrito o en la primera diligencia judicial en que intervengan, deben señalar el correo electrónico institucional asignado, o bien, el domicilio en la población en que esté ubicado el Tribunal, para que se les hagan las notificaciones que deban ser personales.
 
 Domicilio para notificar a la contraparte o a terceros
-
-###### Artículo 1.
-
-169.- Debe señalarse también el domicilio en que ha de hacerse la primera notificación a la persona o personas contra quienes promuevan, o a las que les interese que se notifiquen.
-
-Notificaciones cuando no se señala domicilio
 
 ### CAPITULO IX. De las Notificaciones y Citaciones
 
@@ -1419,13 +1475,23 @@ Formas de las notificaciones
 
 ###### Artículo 1.
 
-170.- Cuando una de las partes no señale domicilio para oír notificaciones conforme a este Código, las que deban ser personales se le harán por lista y boletín.
+169.- Debe señalarse también el domicilio en que ha de hacerse la primera notificación a la persona o personas contra quienes promuevan, o a las que les interese que se notifiquen.
 
-Domicilio inexistente para oír notificaciones
+> <small>(REFORMADO, G.G. 10 DE MAYO DE 2013)</small>
+
+Notificaciones cuando no se señala lugar
 
 ###### Artículo 1.
 
-171.- También se harán por lista y boletín las notificaciones que deban ser personales, en caso de que se señale domicilio inexistente, previo cercioramiento y razón del Notificador.
+170.- Cuando una de las partes no señale correo electrónico institucional o domicilio para oír notificaciones conforme a este Código, las que deban ser personales se le harán por lista y boletín.
+
+> <small>(REFORMADO, G.G. 10 DE MAYO DE 2013)</small>
+
+Domicilio o correo electrónico institucional inexistente
+
+###### Artículo 1.
+
+171.- También se harán por lista y boletín las notificaciones que deban ser personales, en caso de que se señale domicilio o correo electrónico institucional inexistente, previo cercioramiento y razón del notificador.
 
 Continuidad de domicilio para oír notificaciones
 
@@ -1454,6 +1520,24 @@ Modo de practicar notificaciones personales
 174.- Las notificaciones personales se harán al interesado, o a través de su representante, o procurador, o de quien se encuentre en el domicilio designado, entregándose instructivo en el cual se hará constar la fecha y hora; el nombre del promovente; el Juez que manda practicar la diligencia; la determinación que se manda notificar, comprendiendo sólo la parte resolutiva, si fuere sentencia.
 
 En la razón se asentará el nombre y apellido de la persona que lo recibe, recabando de ser posible datos de su identificación y su firma.
+
+> <small>(ADICIONADO, G.G. 10 DE MAYO DE 2013)</small>
+
+Notificación por correo electrónico institucional
+
+###### Artículo 1.
+
+174.1.- Las notificaciones por correo electrónico institucional se realizarán de la manera siguiente:
+
+I. El notificador accederá al sistema de notificación electrónica del Poder Judicial del Estado para remitir la notificación correspondiente al correo electrónico señalado en autos;
+
+II. En la notificación se enviará el instructivo que incluirá la fecha y hora de realización; el nombre del promovente; el juez que manda practicar la diligencia; una reproducción de la resolución que se manda notificar comprendiendo solo la parte resolutiva, si fuere sentencia; la cadena original y sello digital generados por el sistema de notificación electrónica, así como el nombre del notificador que la realiza. De existir anexos, serán digitalizados y remitidos como archivos adjuntos;
+
+III. Una impresión del instructivo se agregará al expediente físico, el cual será firmado por el notificador que la haya practicado y se le colocará el sello del juzgado respectivo.
+
+La notificación por correo electrónico se tendrá por practicada y surtirá todos sus efectos legales al día siguiente de su realización, con independencia de la fecha en que se consulte el correo electrónico respectivo.
+
+El Consejo de la Judicatura a través del área respectiva, administrará un sistema de correo electrónico institucional para las notificaciones electrónicas.
 
 Emplazamiento al demandado
 
@@ -1511,11 +1595,15 @@ Notificaciones en el Tribunal
 
 183.- En el Tribunal se harán las notificaciones, citaciones y emplazamientos, si los propios interesados comparecen para ello.
 
-Firma de la notificación
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 10 DE MAYO DE 2013)</small>
+
+Firma de la Notificación
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE MAYO DE 2013)</small>
 
 ###### Artículo 1.
 
-184.- Deben firmar la notificación, la persona que las hace y aquéllas a quien se hacen. Si éstas no supieren o no quisieren firmar, lo hará constar el Notificador o el Secretario.
+184.- Deben firmar la notificación, la persona que las hace y aquéllas a quienes se hacen. Si estas no supieren o no quisieren firmar, lo hará constar el notificador o el secretario. No se requiere la firma de la persona a quien se hace la notificación cuando se realice por correo electrónico institucional.
 
 Si el interesado lo pide, se le dará copia simple de la resolución que se le notifique sin necesidad de acuerdo judicial.
 
@@ -1524,6 +1612,10 @@ Notificación a persona autorizada
 ###### Artículo 1.
 
 185.- Puede notificarse a los interesados por medio de la persona que expresamente hubieren autorizado.
+
+> <small>(ADICIONADO, G.G. 10 DE MAYO DE 2013)</small>
+
+Las partes podrán autorizar que se les realicen notificaciones de carácter personal, por correo electrónico institucional asignado, lo que implicará la autorización expresa del solicitante en el sentido de que se le tendrán por legalmente practicadas.
 
 Citación a terceros
 
@@ -1597,6 +1689,10 @@ Congruencia y exhaustividad de las sentencias definitivas
 
 Análisis previo de excepciones que no destruyen la acción
 
+### CAPITULO X. De las Resoluciones Judiciales
+
+Clasificación
+
 ###### Artículo 1.
 
 196.- Al pronunciarse la sentencia, el Juez estudiará previamente las excepciones que no destruyan la acción, y si alguna de éstas se declara procedente, se abstendrá de entrar al fondo del negocio, dejando a salvo los derechos del actor.
@@ -1608,10 +1704,6 @@ Condena sobre frutos, daños o perjuicios
 197.- Cuando hubiere condena de frutos, daños o perjuicios, se fijará su importe en cantidad líquida, o, por lo menos, se establecerán las bases con arreglo a las cuales deba hacerse la liquidación.
 
 Supresión de formalidades para la sentencia
-
-### CAPITULO X. De las Resoluciones Judiciales
-
-Clasificación
 
 ###### Artículo 1.
 
@@ -1677,6 +1769,10 @@ Identidad de personas en la cosa juzgada
 
 La cosa juzgada respecto a terceros
 
+### CAPITULO XI. De la Sentencia Ejecutoria y Preclusión
+
+Cosa juzgada
+
 ###### Artículo 1.
 
 209.- En las cuestiones relativas al estado civil de las personas y a las de validez o nulidad de las disposiciones testamentarias, la cosa juzgada es eficaz contra terceros aunque no hubiesen litigado.
@@ -1698,10 +1794,6 @@ En los casos de las fracciones I y III, las sentencias causan ejecutoria por min
 En los casos de la fracción II se requiere declaración a petición de parte, excepto por desistimiento que lo hará el Tribunal ante quien se presente. La declaración se hará por el Tribunal de apelación en la resolución que declare desierto el recurso.
 
 La sentencia ejecutoria como acción y excepción
-
-### CAPITULO XI. De la Sentencia Ejecutoria y Preclusión
-
-Cosa juzgada
 
 ###### Artículo 1.
 
@@ -1763,6 +1855,10 @@ Pruebas en los incidentes
 
 Costas en los incidentes
 
+### CAPITULO XII. De los Incidentes
+
+Incidentes genéricos
+
 ###### Artículo 1.
 
 220.- En la resolución definitiva de un incidente, se hará la correspondiente declaración sobre costas.
@@ -1774,10 +1870,6 @@ Interlocutorias en segunda instancia
 221.- Los autos interlocutorios en segunda instancia no admiten recurso.
 
 Efectos de las interlocutorias
-
-### CAPITULO XII. De los Incidentes
-
-Incidentes genéricos
 
 ###### Artículo 1.
 
@@ -1807,6 +1899,10 @@ Responsabilidad de las costas
 
 Reglas para la condena en costas
 
+### CAPITULO XIII. De las Costas
+
+Gratuidad de la justicia
+
 ###### Artículo 1.
 
 227.- La condenación en costas se hará cuando así lo prevenga la ley, o cuando, a juicio del Juez, se haya procedido con temeridad o mala fe.
@@ -1834,10 +1930,6 @@ Cuantificación de costas
 La resolución será apelable sin efecto suspensivo.
 
 Monto máximo de las costas
-
-### CAPITULO XIII. De las Costas
-
-Gratuidad de la justicia
 
 ###### Artículo 1.
 
@@ -1885,6 +1977,10 @@ Prórroga improcedente de suspensión
 
 Causas de interrupción
 
+### CAPITULO XIV. De la Suspensión e Interrupción del Proceso
+
+Causas de suspensión
+
 ###### Artículo 1.
 
 235.- El proceso se interrumpe cuando:
@@ -1900,10 +1996,6 @@ Interrupción por muerte de alguna de las partes
 236.- Por la muerte de una de las partes la interrupción no durará más de sesenta días, para que se apersone en el juicio el representante de la sucesión. Pasado el plazo si no compareciere, se seguirá el negocio con el Ministerio Público.
 
 Interrupción por muerte del representante
-
-### CAPITULO XIV. De la Suspensión e Interrupción del Proceso
-
-Causas de suspensión
 
 ###### Artículo 1.
 
@@ -1953,6 +2045,10 @@ Plazo para que opere la caducidad
 
 Etapa en la que opera la caducidad
 
+### CAPITULO XV. De la Extinción del Proceso
+
+Causas de extinción del proceso
+
 ###### Artículo 1.
 
 244.- La caducidad en primera instancia operará a partir de que se haya constituido la relación procesal mediante emplazamiento al demandado, hasta citación para sentencia; y en segunda instancia, hasta citación para resolución definitiva.
@@ -1964,10 +2060,6 @@ Declaración de caducidad de oficio o a petición de parte
 245.- El Secretario del Tribunal, concluido el plazo de 180 días naturales, sin actividad procesal, certificará de oficio ese hecho y dará cuenta. El Tribunal dictará auto declarando caduco el proceso. La certificación y declaración de caducidad podrán ser hechas a petición de parte interesada. La caducidad extingue el proceso, pero no la pretensión, dejando a salvo los derechos. El auto relativo es apelable con efecto suspensivo.
 
 Casos de improcedencia de la caducidad
-
-### CAPITULO XV. De la Extinción del Proceso
-
-Causas de extinción del proceso
 
 ###### Artículo 1.
 
@@ -2037,6 +2129,12 @@ Carga de la prueba
 
 Carga de la prueba sobre hechos negativos
 
+## TITULO OCTAVO. Prueba
+
+### CAPITULO I. Reglas Generales
+
+Medios de convicción
+
 ###### Artículo 1.
 
 254.- El que niega sólo está obligado a probar cuando:
@@ -2056,12 +2154,6 @@ Relevo de la carga de la prueba
 255.- El que funda su derecho en una regla general no necesita probar que su caso siguió ésta, pero quien alegue que está en la excepción, debe probarlo.
 
 Irrenunciabilidad a la prueba
-
-## TITULO OCTAVO. Prueba
-
-### CAPITULO I. Reglas Generales
-
-Medios de convicción
 
 ###### Artículo 1.
 
@@ -2147,6 +2239,16 @@ Generalidad de la prueba
 
 266.- Salvo disposición en contrario, lo dispuesto en este título es aplicable a todos los procedimientos.
 
+> <small>(ADICIONADO, G.G. 10 DE MAYO DE 2013)</small>
+
+Desahogo de pruebas por videoconferencia
+
+###### Artículo 1.
+
+266.1.- Los medios de prueba podrán desahogarse por videoconferencia cuando su naturaleza así lo permita, sea posible técnicamente y resulte necesario a juicio del juzgador.
+
+El desahogo de pruebas por videoconferencias serán grabadas en audio y video, el acta se ajustará a lo señalado por el artículo 5.27 de este Código.
+
 ###### Artículo 1.
 
 267.- La confesión es expresa y tácita o ficta. Es expresa la que se hace clara y terminantemente al formular o contestar la demanda, al absolver posiciones, o en cualquier otro acto del proceso. Es tácita o ficta cuando la ley lo señala.
@@ -2174,6 +2276,10 @@ Confesional en caso de cesión
 270.- En el caso de cesión, se considera al cesionario como apoderado del cedente, para absolver posiciones sobre hechos de éste, pero, si los ignora, pueden articularse las posiciones al cedente.
 
 Requisitos de las posiciones
+
+### CAPITULO II. De la Confesión
+
+Clases de confesión
 
 ###### Artículo 1.
 
@@ -2216,10 +2322,6 @@ Citación personal para absolver posiciones
 273.- El que haya de absolver posiciones será citado personalmente, a más tardar, el día anterior al señalado para la diligencia, bajo el apercibimiento de que, si dejare de comparecer sin justa causa, será tenido por confeso de las que previamente hayan sido calificadas de legales.
 
 Calificación de las posiciones
-
-### CAPITULO II. De la Confesión
-
-Clases de confesión
 
 ###### Artículo 1.
 
@@ -2377,6 +2479,10 @@ Si lo estuviere o no contestase la vista, se tendrá por consentida la traducci�
 
 Concepto de documento privado
 
+### CAPITULO III. De los Documentos Públicos y Privados
+
+Concepto de documento público
+
 ###### Artículo 1.
 
 297.- Son documentos privados los que no reúnen los requisitos de los públicos.
@@ -2394,10 +2500,6 @@ Documentos de comercios o industrias
 299.- Si el documento se encuentra en libros o papeles de casa de comercio o establecimiento industrial, el que pide el documento o la constancia deberá precisarlo, y la copia se tomará en el establecimiento, sin que los directores de los establecimientos estén obligados a llevarlos al Juzgado.
 
 Forma de realizar el cotejo de documentos
-
-### CAPITULO III. De los Documentos Públicos y Privados
-
-Concepto de documento público
 
 ###### Artículo 1.
 
@@ -2459,6 +2561,10 @@ Exhibición de cuestionario y nombramiento de perito
 
 Plazo en que la contraparte nombrará perito
 
+### CAPITULO IV. De la Prueba Pericial
+
+Contenido de la prueba pericial
+
 ###### Artículo 1.
 
 308.- Admitida la prueba, la contraparte tendrá un plazo de tres días para que adicione el cuestionario y designe su perito
@@ -2486,10 +2592,6 @@ II. No asiste al desahogo de la prueba, si para ello se señaló día y fecha;
 III. No rinde su dictamen en el plazo fijado.
 
 Preclusión del derecho a la prueba pericial
-
-### CAPITULO IV. De la Prueba Pericial
-
-Contenido de la prueba pericial
 
 ###### Artículo 1.
 
@@ -2589,6 +2691,10 @@ Planos y fotografías de lo inspeccionado
 
 Número máximo de testigos
 
+### CAPITULO V. De la Inspección Judicial
+
+Objeto de la inspección judicial
+
 ###### Artículo 1.
 
 327.- Una parte sólo puede presentar hasta tres testigos sobre cada hecho.
@@ -2611,9 +2717,9 @@ En caso de que el señalamiento del domicilio de algún testigo resulte inexacto
 
 Apremio a testigos
 
-### CAPITULO V. De la Inspección Judicial
+### CAPITULO VI. De la Prueba Testimonial
 
-Objeto de la inspección judicial
+Personas obligadas a ser testigos
 
 ###### Artículo 1.
 
@@ -2632,10 +2738,6 @@ Imposibilidad para asistir a declarar
 332.- En caso de imposibilidad justificada para asistir a declarar, se observarán las mismas disposiciones que tratándose de la confesional.
 
 Testimonio por oficio
-
-### CAPITULO VI. De la Prueba Testimonial
-
-Personas obligadas a ser testigos
 
 ###### Artículo 1.
 
@@ -2797,6 +2899,12 @@ Notas taquigráficas como prueba
 
 355.- Los escritos y notas taquigráficas pueden presentarse como prueba, acompañándose la traducción, con especificación del sistema taquigráfico.
 
+### CAPITULO VII. De los Elementos de Convicción Producidos o
+
+Descubiertos por la Ciencia o la Tecnología
+
+Fotografías, grabaciones de imágenes y sonidos y otros
+
 ###### Artículo 1.
 
 356.- Presunción es la consecuencia que la ley o el Juez deducen de un hecho conocido, para averiguar la verdad de otro desconocido: la primera se llama legal y la segunda humana.
@@ -2815,15 +2923,13 @@ Inadmisión de pruebas contra presunción legal
 
 Contra las demás presunciones legales y contra las humanas, es admisible la prueba.
 
-### CAPITULO VII. De los Elementos de Convicción Producidos o
-
-Descubiertos por la Ciencia o la Tecnología
-
-Fotografías, grabaciones de imágenes y sonidos y otros
-
 ###### Artículo 1.
 
 359.- El Juez goza de libertad para valorar las pruebas, con excepción de los documentos públicos que siempre harán prueba plena. Lo hará tanto en lo individual como en su conjunto, atendiendo las reglas de la lógica y la experiencia. Explicará detalladamente los fundamentos de su valoración y su decisión.
+
+### CAPITULO VIII. De las Presunciones
+
+Concepto de presunción
 
 ###### Artículo 1.
 
@@ -2847,15 +2953,21 @@ Irrenunciabilidad de los recursos
 
 Plazo para interponer revocación
 
-### CAPITULO VIII. De las Presunciones
+### CAPITULO IX. De la Valoración de la Prueba
 
-Concepto de presunción
+Sistema libre de valoración
 
 ###### Artículo 1.
 
 363.- La revocación se interpondrá, expresando agravios, al día siguiente de notificado el recurrente.
 
 Trámite de la revocación
+
+## TITULO NOVENO. Recursos
+
+### CAPITULO I. Disposiciones Generales
+
+Recursos
 
 ###### Artículo 1.
 
@@ -2867,21 +2979,17 @@ La resolución de la revocación es irrecurrible
 
 365.- La resolución que decida la revocación no admite recurso.
 
-### CAPITULO IX. De la Valoración de la Prueba
+### CAPITULO II. De la Revocación
 
-Sistema libre de valoración
+Resoluciones materia de revocación
+
+> <small>(REFORMADO, G.G. 8 DE MAYO DE 2003)</small>
 
 ###### Artículo 1.
 
 366.- La apelación tiene por objeto que el Tribunal de Alzada, revoque o modifique la resolución impugnada, en los puntos relativos a los agravios, los que de no prosperar motivarán su confirmación.
 
 Efectos en los que puede admitirse la apelación
-
-## TITULO NOVENO. Recursos
-
-### CAPITULO I. Disposiciones Generales
-
-Recursos
 
 ###### Artículo 1.
 
@@ -2895,12 +3003,6 @@ Consecuencias del efecto suspensivo
 
 Apelación en asuntos conexos
 
-### CAPITULO II. De la Revocación
-
-Resoluciones materia de revocación
-
-> <small>(REFORMADO, G.G. 8 DE MAYO DE 2003)</small>
-
 ###### Artículo 1.
 
 369.- Cuando el auto contra el cual se haya admitido recurso de apelación con efecto suspensivo, hubiere recaído en expediente tramitado por separado, se remitirá al Tribunal de Alzada el expediente respectivo, sin perjuicio de que se envíen las constancias que del otro soliciten las partes.
@@ -2908,6 +3010,10 @@ Resoluciones materia de revocación
 En los autos que queden en el Tribunal no podrá dictarse resolución alguna que modifique, revoque o en cualquier forma afecte lo acordado en la resolución apelada, mientras el recurso esté pendiente, para lo cual se dejará copia de ella.
 
 Consecuencias del efecto no suspensivo
+
+### CAPITULO III. De la Apelación
+
+Finalidad de la apelación
 
 ###### Artículo 1.
 
@@ -2926,10 +3032,6 @@ Auto apelado en efecto no suspensivo
 372.- Si se trata de apelación sin efecto suspensivo de un auto, el que la admita ordenará remitir al Tribunal copia del apelado, de sus notificaciones y de las constancias señaladas al interponer el recurso, adicionadas con las que señalen las demás partes dentro de dos días; en todo caso el Juez decidirá sobre las constancias necesarias que integren el testimonio.
 
 Ejecución de resoluciones apeladas
-
-### CAPITULO III. De la Apelación
-
-Finalidad de la apelación
 
 ###### Artículo 1.
 
@@ -3083,6 +3185,10 @@ Remisión e informe justificado
 
 Resolución de la queja
 
+### CAPITULO IV. De la Queja
+
+Materia de la queja
+
 ###### Artículo 1.
 
 397.- Recibidas las constancias del recurso de queja, la Sala dentro del plazo de tres días decidirá lo que corresponda.
@@ -3098,10 +3204,6 @@ Queja infundada
 ###### Artículo 1.
 
 399.- Si la queja es infundada se impondrá, a la parte quejosa y a su abogado, solidariamente, una multa hasta de treinta días de salario mínimo vigente en la región, si se trata de un Juez de Primera Instancia y hasta de veinte días si se refiere a uno de Cuantía Menor.
-
-### CAPITULO IV. De la Queja
-
-Materia de la queja
 
 # LIBRO SEGUNDO. Función Jurisdiccional
 
@@ -6431,9 +6533,7 @@ IV. Constancia del comisariado ejidal o comunal de que el inmueble no está suje
 
 Personas que deberán ser citadas
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, G.G. 9 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, G.G. 10 DE MAYO DE 2013)</small>
 
 ### CAPITULO II. De las Funciones del Síndico
 
@@ -6441,7 +6541,7 @@ Funciones del síndico
 
 ###### Artículo 3.
 
-21.- La información se recibirá de la autoridad municipal, de los colindantes y de la persona a cuyo nombre se expidan las boletas prediales.
+21.- La información se recibirá con citación de la autoridad municipal, de los colindantes y de la persona a cuyo nombre se expidan las boletas prediales.
 
 Prueba testimonial
 
@@ -8530,3 +8630,21 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan los ordenamientos jurídicos de igual o menor jerarquía, que se opongan a lo dispuesto por el presente Decreto.
+
+G.G. 10 DE MAYO DE 2013.
+
+PRIMERO. Publíquese este Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+10 de mayo de 2013
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. De conformidad con la capacidad presupuestal y recursos informáticos del Poder Judicial, el Consejo de la Judicatura emitirá los acuerdos generales para implementar las notificaciones electrónicas y la consulta del expediente electrónico en los órganos jurisdiccionales que determine. Lo que hará del conocimiento de los interesados a través del periódico oficial "Gaceta del Gobierno", del Boletín Judicial y por cualquier otro medio de difusión.
+
+CUARTO. El Consejo de la Judicatura deberá emitir los lineamientos administrativos a que se refiere este Decreto, entre otros, las referentes a los Sistemas de Notificación Electrónica y del Expediente Electrónico, dentro de los treinta días siguientes a la entrada en vigor de este Decreto.
+
+QUINTO. Dentro de las normas relativas al expediente electrónico, el Consejo de la Judicatura precisara los plazos en que deberá realizarse la digitalización de documentos en el sistema informático del expediente electrónico.
+
+El Consejo de la Judicatura implementará un sistema de gestión que garantice el control y eficiencia de las Centrales de Ejecutores y Notificadores.
+
+SEXTO. La Legislatura del Estado tomará las previsiones presupuestales para el cumplimiento gradual del Plan de Mejora del Servicio de Administración de Justicia.
