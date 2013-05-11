@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-seguridad-publica-para-el-estado-de-tabasco-71263"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-26"
-last_updated: "2012-04-14"
+last_updated: "2013-05-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71263&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2013.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 26 de diciembre de 2009.
 
@@ -1045,43 +1045,63 @@ Los Cuerpos de Seguridad Pública deberán elaborar el reglamento, los procedimi
 
 ### CAPÍTULO ÚNICO. Disposiciones Generales
 
-> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2013)</small>
 
 ###### Artículo 74.
 
-Para efectos de esta Ley se entiende como seguridad personal a la protección mínima indispensable que otorga el Estado a aquellas personas que se encuentren en los supuestos de este Título, con el propósito de salvaguardar su vida e integridad física, así como la de su familia en línea ascendente y descendente hasta el primer grado.
+Para efectos de esta Ley se entiende como seguridad personal a la protección mínima indispensable que dentro del territorio estatal, otorga el Estado, a aquellos servidores o ex servidores públicos que acrediten encontrarse en situación de riesgo por la naturaleza propia de su encomienda, en razón de que generen o hayan generado acciones de investigación, persecución de delitos, administración e impartición de justicia y mantenimiento del orden y la paz pública durante el ejercicio del encargo, con el propósito de salvaguardar su vida e integridad física.
 
-El plazo por el que se otorgará la Seguridad Personal a que se refiere este título, se determinará conforme a lo que establezca el Reglamento respectivo, la disponibilidad presupuestal y las circunstancias particulares del caso, no podrá exceder del plazo por el que se ejerció el cargo y podrá ser prorrogado si persiste la causa, salvo lo previsto en el artículo 76.
+El servicio de seguridad personal se prestará exclusivamente con elementos certificados de la Secretaría de Seguridad Pública, con los recursos materiales de que se disponga, siempre y cuando exista la disponibilidad presupuestal suficiente para el caso. En todo caso tales servicios se referirán únicamente a personas, por lo cual no incluirán la guarda o vigilancia de bienes muebles e inmuebles.
 
-> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2013)</small>
 
 ###### Artículo 75.
 
-Corresponde a las autoridades estatales en materia de Seguridad Pública implementar las medidas conducentes para garantizar la seguridad personal de quienes desempeñen o hayan desempeñado por lo menos un año, los siguientes cargos públicos en la entidad:
+El servicio de protección personal tendrá un órgano de decisión: el Comité de Autorización de protección personal a servidores públicos en activo y a ex servidores públicos.
 
-I. Gobernador del Estado;
+El Comité de Autorización de protección personal estará integrado por el Secretario de Gobierno, el Secretario de Seguridad Pública y el Procurador General de Justicia de la entidad, presidiendo dicho Comité el primero de los funcionarios enunciados.
 
-II. Secretario de Gobierno;
+Los ex servidores públicos, que así lo estimen pertinente, deberán presentar la solicitud del servicio de protección personal, dirigida al Comité, dentro de los quince días siguientes a la conclusión de su encargo, y para otorgarse, se requerirá al menos el voto mayoritario de los integrantes del mismo.
 
-III. Procurador General de Justicia;
+Para determinar la pertinencia de otorgar servicios de protección personal señalados en el párrafo anterior, se podrán ordenar los estudios e investigaciones necesarias y realizar las consultas del caso con las autoridades nacionales de procuración de justicia y seguridad pública.
 
-IV. Secretario de Seguridad Pública;
+Los ex servidores públicos para gozar del servicio de protección personal requieren haber desempeñado el cargo mínimo durante un año. La protección se otorgará por un año, periodo prorrogable por un año más por única vez, en tanto que el interesado acredite ante el Comité que subsista la necesidad.
 
-V. Presidente del Tribunal Superior de Justicia;
+El número de personal, equipo y demás instrumentos destinados para la protección de los ex servidores públicos, no será mayor de dos elementos.
 
-VI. Subprocurador General de Justicia; y,
+Tendrán derecho a continuar con protección personal, los ex servidores que hayan desempeñado los siguientes cargos públicos en la entidad:
 
-VII. Director de Averiguaciones Previas.
+I. Procurador General de Justicia;
 
-Del mismo modo, se podrá otorgar seguridad personal a otros servidores o ex servidores públicos que con motivo del ejercicio de sus funciones o habiendo concluido éstas, lo soliciten y la requieran como consecuencia del riesgo asumido en el desempeño de sus atribuciones.
+II. Secretario de Seguridad Pública;
 
-> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2012)</small>
+III. Presidente del Tribunal Superior de Justicia;
 
-###### Artículo 75 Bis.
+IV. Subprocuradores de Justicia y
 
-Es facultad del Secretario, previo acuerdo con el Gobernador del Estado, autorizar el otorgamiento de seguridad personal a quienes así lo soliciten.
+V. Director de averiguaciones previas.
 
-El Procurador General de Justicia del Estado podrá solicitar protección a víctimas, ofendidos, testigos del delito, en términos de la legislación aplicable.
+Corresponde al Comité disponer las medidas conducentes para proveer de seguridad personal a los servidores públicos estatales que con motivo de su encargo, responsabilidades y grado de riesgo en su desempeño, requieran de las mismas de manera permanente o temporal, durante su ejercicio.
+
+El servicio de seguridad personal se prestará única y exclusivamente dentro del territorio del Estado, salvo los casos de servidores públicos en activo que requieran el mismo, durante comisiones y representaciones oficiales fuera de la entidad pero dentro del país.
+
+La Secretaría de Seguridad Pública será la única instancia facultada para prestar el servicio de seguridad personal.
+
+La Secretaría proyectará un Reglamento del Servicio de Protección Personal, que someterá a la aprobación del Titular del Poder Ejecutivo del Estado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2013)</small>
+
+Artículo 75 bis. El Procurador General de Justicia del Estado podrá solicitar protección a víctimas, ofendidos, testigos del delito, en términos de la legislación aplicable.
+
+Sólo en casos excepcionales, previa autorización del Gobernador del Estado, se podrán prestar servicios de seguridad a personas distintas a las señaladas en el artículo anterior, cuando por sus características o situación especificas, sean objeto de amenazas o agresiones, o exista causa fundada para temer por su integridad física.
+
+En cualquier otro caso, las medidas de salvaguarda y protección personal se sujetarán a las normas que establezcan los ordenamientos correspondientes para la protección de víctimas u ofendidos, o de testigos protegidos, como facultades a cargo de las autoridades respectivas.
 
 > <small>(REFORMADO, P.O. 14 DE ABRIL DE 2012)</small>
 
@@ -1468,3 +1488,13 @@ P.O. 14 DE ABRIL DE 2012.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
 
 SEGUNDO. En un plazo no mayor a 90 días contados a partir de la publicación de este Decreto, el Ejecutivo del Estado deberá expedir el reglamento que determine los lineamientos, alcances y medidas conducentes para el otorgamiento de seguridad personal a quienes esta ley les reconoce ese derecho.
+
+P.O. 11 DE MAYO DE 2013.
+
+PRIMERO. El presente decreto entrará en vigor a los diez días a partir de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El Reglamento del Servicio de Protección Personal deberá expedirse en un término de ciento veinte días a partir de la entrada en vigor del presente Decreto.
+
+TERCERO. Los ex servidores públicos beneficiados con el presente Decreto, deberán obligatoriamente regularizar el servicio de protección personal, mediante la presentación de su solicitud en un plazo de quince días a·la entrada en vigor del presente Decreto, ante el Comité de Autorización.
+
+CUARTO. Se derogan las disposiciones que se opongan al presente decreto.
