@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-del-registro-civil-del-estado-de-jalisco-74975"
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-11-14"
-last_updated: "2011-05-21"
+last_updated: "2013-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74975&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO DEL REGISTRO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2013.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 14 de noviembre de 1996.
 
@@ -143,9 +143,11 @@ En los municipios del Estado se efectuará por lo menos una campaña anual de re
 
 La Dirección deberá de expedir la autorización correspondiente a los Oficiales que le soliciten efectuar en fechas determinadas la campaña. En dicha autorización deberán de indicarse los requisitos mínimos y el apoyo a título gratuito de las constancias de inexistencia del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MAYO DE 2013)</small>
+
 ###### Art. 11.
 
-Los Oficiales, para los registros extemporáneos, tomarán en consideración las constancias expedidas por autoridades administrativas, y los documentos personales que presenten los interesados, debiendo integrarse en todo caso un expediente, que satisfaga a su criterio los siguientes requisitos:
+Los Oficiales, para los registros extemporáneos, tomarán en consideración las constancias expedidas por autoridades administrativas, y los documentos personales que presenten los interesados, debiendo integrarse en todo caso un expediente, que satisfaga los siguientes requisitos:
 
 I. Constancias de inexistencia expedida por el Oficial de la jurisdicción donde ocurrió el nacimiento y del Archivo General del Registro Civil del Estado para niños mayores de dos años. En el caso de personas originarias de otro Estado de la República, se requerirá la constancia expedida por el Archivo General de la entidad federativa de que se trate.
 
@@ -362,3 +364,7 @@ LIC. RAÚL OCTAVIO ESPINOZA
 P.O. 21 DE MAYO DE 2011.
 
 ÚNICO. El presente Acuerdo entrará en vigor al día de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 11 DE MAYO DE 2013.
+
+ÚNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
