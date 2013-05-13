@@ -4,7 +4,7 @@ identifier: "HID-codigo-civil-para-el-estado-de-hidalgo-40095"
 country: "mx"
 rank: "codigo"
 publication_date: "1940-10-08"
-last_updated: "2011-03-31"
+last_updated: "2013-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40095&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "HID"
 ---
 # CODIGO CIVIL PARA EL ESTADO DE HIDALGO
 
-CODIGO CIVIL PARA EL ESTADO DE HIDALGO
+CÓDIGO CIVIL PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MARZO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2013.
 
 Código publicado en el Apéndice al Número 38 del Periódico Oficial del Estado de Hidalgo, el 8 de octubre de 1940.
 
@@ -7933,11 +7933,13 @@ La concubina y el concubinario tienen derecho a heredarse recíprocamente, aplic
 
 De la Sucesión de la Beneficencia Pública del Estado de Hidalgo.
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 1945)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2013)</small>
 
-###### Art. 1617.
+###### Artículo 1617.
 
-A falta de todos los herederos llamados en los capítulos anteriores, sucederá la Junta General de Asistencia del Estado de Hidalgo. Esta norma se aplicará también respecto de bienes situados dentro del Estado de Hidalgo, aunque la sucesión se radique fuera del mismo Estado. Todas las veces que la Ley Civil haga referencia a la Beneficencia Pública, deberá entenderse que se refiere a la Junta General de Asistencia del Estado de Hidalgo, que tiene funciones de Asistencia Pública y Privada.
+A falta de todos los herederos llamados en los capítulos anteriores, sucederá el Sistema para el Desarrollo Integral de la Familia del Estado de Hidalgo.
+
+Esta norma se aplicará también respecto de bienes situados dentro del Estado de Hidalgo, aun cuando la sucesión se radique fuera del mismo Estado. Todas las veces que la Ley Civil haga referencia a la Beneficencia Pública, deberá entenderse que se refiere a dicho organismo en razón de que por Ley le corresponden las funciones de Asistencia Pública y Privada.
 
 ###### Art. 1618.
 
@@ -15891,15 +15893,15 @@ LIC. MANUEL YAÑEZ.
 
 Srio. Gral. de Gobierno.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 1 DE ENERO DE 1945.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE HIDALGO.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE HIDALGO.
 
 P.O. 16 DE NOVIEMBRE DE 1982.
 
-SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON LA LEY
+SE TRANSCRIBE ÚNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON LA LEY
 
 ###### ARTICULO PRIMERO.
 
@@ -15915,7 +15917,7 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 
 P.O. 8 DE NOVIEMBRE DE 1983.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CÓDIGO.
 
 ###### ARTÍCULO 4o.
 
@@ -15931,7 +15933,7 @@ UNICO.- El presente Decreto entrará en vigor treinta días después de su publi
 
 P.O. 8 DE DICIEMBRE DE 1986.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CÓDIGO.
 
 ###### ARTICULO 4o.
 
@@ -16022,3 +16024,13 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 ###### Artículo 3.
 
 Las controversias del orden civil que estén tramitándose antes de la iniciación de vigencia de este Decreto, se resolverán conforme a las disposiciones aplicables en su momento, y el proceso se substanciará de acuerdo a la Ley vigente en el momento de haberse interpuesto la demanda.
+
+P.O. 13 DE MAYO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su Publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
