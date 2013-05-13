@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-fomento-cultural-del-distrito-federal-34234"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-14"
-last_updated: "2013-05-10"
+last_updated: "2013-05-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34234&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-09-26"
 
 LEY DE FOMENTO CULTURAL DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 10 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE MAYO DE 2013.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 14 de octubre de 2003.
 
@@ -690,6 +690,10 @@ El Gobierno del Distrito Federal, a partir del reconocimiento de las organizacio
 
 El Gobierno del Distrito Federal reconoce las diversas formas de organización social que en el ámbito de la cultura se han desarrollado y las aportaciones hechas a su comunidad en esta materia. Del mismo modo, debe estimular la participación de nuevas expresiones sociales que propicien, generen y difundan la creación cultural de su barrio, colonia, región, delegación o de la Ciudad de México.
 
+> <small>(ADICIONADO, G.O. 13 DE MAYO DE 2013)</small>
+
+Para efectos del presente artículo se tomará en consideración el Presupuesto Participativo establecido en el Artículo 83 de la Ley de Participación Ciudadana del Distrito Federal.
+
 ###### ARTÍCULO 43.
 
 La participación social para el fomento y desarrollo cultural se expresa a partir de la opinión, discusión, proposición, creación, organización, vinculación, y el incentivo, uso y disfrute de las actividades y manifestaciones culturales, por parte tanto de los creadores como de los habitantes de la Ciudad de México.
@@ -1135,6 +1139,12 @@ SEGUNDO.- Las presentes reformas y adiciones entrarán en vigor el día siguient
 TERCERO.- En el término de 90 días naturales contados a partir de la entrada en vigor del presente Decreto, deberán realizarse las adecuaciones reglamentarias que correspondan.
 
 G.O. 10 DE MAYO DE 2013.
+
+PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 13 DE MAYO DE 2013.
 
 PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal.
 
