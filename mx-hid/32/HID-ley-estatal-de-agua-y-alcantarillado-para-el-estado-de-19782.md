@@ -4,7 +4,7 @@ identifier: "HID-ley-estatal-de-agua-y-alcantarillado-para-el-estado-de-19782"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-30"
-last_updated: "2010-12-13"
+last_updated: "2013-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19782&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ESTATAL DE AGUA Y ALCANTARILLADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el jueves 30 de diciembre de 1999.
 
@@ -92,6 +92,10 @@ VII. Concesionario: la persona moral a la que se concesionen los servicios públ
 VIII. Consejo Técnico: cuerpo colegiado que tiene a su cargo la integración de los programas de acción de la Comisión Estatal o de los Organismos Operadores;
 
 IX. Contratistas: las personas físicas o morales que celebren contratos con la Comisión, los Municipios, Organismos Operadores Municipales o Intermunicipales, en los términos del artículo 77 de esta Ley;
+
+> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2013)</small>
+
+IX BIS. Cultura del Agua. Es la acción que tiene como fin optimizar el uso del recurso agua, que se enfoca a la manera en como los seres humanos interactúan con el agua y su medio ambiente, para cubrir sus necesidades de supervivencia, y de esta manera concientizar a la comunidad de la importancia de este vital líquido para el desarrollo de nuestro Estado.
 
 X. Derecho de Vía: área destinada a los conductos hidráulicos naturales o artificiales constituido por la franja de terreno de anchura variable de acuerdo al tipo de ducto que se requiera para la construcción, conservación, ampliación y protección de la (sic) líneas de agua potable y alcantarillado que se señala en el artículo 121 de esta Ley;
 
@@ -1245,11 +1249,65 @@ VI. Realizar, sin la autorización previa del prestador del servicio, conexiones
 
 VII. Mezclar o juntar residuos con distintas categorías de manejo.
 
-#### SECCION PRIMERA. DISPOSICIONES GENERALES
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 13 DE MAYO DE 2013)</small>
+
+#### SECCION QUINTA. DE LA CULTURA DEL AGUA Y EL USO EFICIENTE Y CUIDADO DEL AGUA
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2013)</small>
+
+###### Artículo 84 Bis.
+
+Las autoridades en materia de agua promoverán una cultura para el uso eficiente y cuidado del recurso, a través de la realización de acciones y campañas permanentes tendientes a:
+
+I.- Concientizar a la población que el elemento agua es un recurso vital y escaso que debe aprovecharse con racionalidad y eficiencia;
+
+II.- Realizar diagnósticos periódicos a fin de identificar las condiciones de consumo del agua en el Estado y el uso racional de la misma;
+
+III.- Promover la utilización de aparatos ahorradores;
+
+IV.- Coordinar el desarrollo de sus actividades con organismos públicos y privados, para la implementación de campañas de asistencia técnica, capacitación, promoción y difusión, concientización y demás que se requieran para garantizar el cuidado óptimo del agua y el fomento de la Cultura del Agua;
+
+V.- Propiciar la prevención y control de la contaminación;
+
+VI.- Promover su saneamiento;
+
+VII.- Procurar un entorno educativo que difunda los beneficios del uso eficiente y cuidado del agua, así como el respeto al medio ambiente; y
+
+VIII.- Promover ante las instituciones educativas del Estado la realización de cursos, talleres, conferencias y diplomados en materia de cultura del agua y uso racional de la misma, en el marco del día mundial del agua; (sic)
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2013)</small>
+
+###### Artículo 84 Ter.
+
+Los organismos públicos procurarán la implementación de medidas que propicien el uso eficiente y cuidado del agua, mediante la adquisición e instalación de equipamientos con diseños, materiales y características que propicien el uso racional del agua.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2013)</small>
+
+###### Artículo 84 Quater.
+
+Los organismos públicos y privados que se destaquen en su labor en la promoción de la cultura del agua, o por el cuidado y uso eficiente de la misma, podrán ser considerados para el otorgamiento de reconocimientos por este concepto.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2013)</small>
+
+###### Artículo 84 Quinquies.
+
+Con la finalidad de promover el cuidado y uso eficiente del agua en el Estado, el Ejecutivo del Estado y los Ayuntamientos, en el ámbito de sus atribuciones, llevarán a cabo las siguientes acciones:
+
+I.- Fomentar y difundir mediante programas y acciones, los beneficios sociales, económicos y ambientales del cuidado, uso racional y correcto aprovechamiento del agua subterránea y superficial;
+
+II.- Promover la realización de estudios de investigación y desarrollo tecnológicos para proteger el recurso y asignarlo de manera eficiente y equitativa entre los distintos usuarios;
+
+III.- Promover la utilización de tecnología de punta en la construcción de edificaciones, redes, medidores, tomas, y demás mecanismos de recolección, conducción, optimización de la calidad o medición de agua, tomando en consideración los estudios y análisis del Instituto Mexicano de Tecnología del Agua;
+
+IV.- Propiciar el uso de infraestructura que permitan cuidar y usar de manera razonable el agua, en el desarrollo de viviendas, fraccionamientos, condominios, edificaciones y demás obras en el Estado;
+
+V.- Promover planes y programas coordinados con los organismos públicos y privados vinculados a la cultura, cuidado y uso razonable del agua; y
+
+VI.- Coadyuvar con las autoridades educativas en la aplicación de una educación ambiental en torno a la cultura del agua.
 
 ### CAPITULO IV. DEL SERVICIO PUBLICO DE TRATAMIENTO DE AGUAS VERTIDAS AL SISTEMA DE ALCANTARILLADO
 
-#### SECCION SEGUNDA. USO OBLIGATORIO DEL AGUA RESIDUAL TRATADA
+#### SECCION PRIMERA. DISPOSICIONES GENERALES
 
 ###### Artículo 85.
 
@@ -1305,7 +1363,7 @@ Las plantas de tratamiento de aguas residuales, deberán contar con un laborator
 
 Quedan prohibidas las descargas de aguas residuales no domésticas a la red de alcantarillado que no cumplan con las normas correspondientes.
 
-#### SECCION TERCERA. REQUERIMIENTOS PREVIOS Y DE OPERACION
+#### SECCION SEGUNDA. USO OBLIGATORIO DEL AGUA RESIDUAL TRATADA
 
 ###### Artículo 97.
 
@@ -1319,19 +1377,19 @@ III. Las obras en construcción, así como en terracería y compactación de sue
 
 IV. Los establecimientos dedicados al lavado de autos.
 
-#### SECCION CUARTA. MEDIDAS ALTERNATIVAS DE SEGURIDAD
+#### SECCION TERCERA. REQUERIMIENTOS PREVIOS Y DE OPERACION
 
 ###### Artículo 98.
 
 Para producir y abastecerse de agua residual tratada para uso directo, la persona física o moral de carácter público o privado, deberá contar con un estudio e informe de ingeniería para el reuso de la misma que será aprobado por los prestadores del servicio que corresponda.
 
-#### SECCION QUINTA. DE LAS CONCESIONES DE LAS AGUAS RESIDUALES
+#### SECCION CUARTA. MEDIDAS ALTERNATIVAS DE SEGURIDAD
 
 ###### Artículo 99.
 
 Las plantas de tratamiento de agua residual, deberán contar con las medidas de seguridad que establezcan las Normas Técnicas Ecológicas y Sanitarias o el dictamen que emita la autoridad competente.
 
-#### SECCION PRIMERA. CONTRATACION DE LOS SERVICIOS PUBLICOS
+#### SECCION QUINTA. DE LAS CONCESIONES DE LAS AGUAS RESIDUALES
 
 ###### Artículo 100.
 
@@ -1365,7 +1423,7 @@ Las actividades de acuacultura efectuadas en aguas estatales, en tanto no se des
 
 ### CAPITULO I. DE LAS INFRACCIONES, SANCIONES Y RECURSOS ADMINISTRATIVOS
 
-#### SECCION SEGUNDA. DE LOS DERECHOS Y OBLIGACIONES DE LOS USUARIOS
+#### SECCION PRIMERA. CONTRATACION DE LOS SERVICIOS PUBLICOS
 
 ###### Artículo 105.
 
@@ -1511,7 +1569,7 @@ Detectado un servicio clandestino, el prestador del servicio correspondiente pro
 
 Todo lo relacionado con los predios o establecimientos, la forma en que otras autoridades o terceros deben informar o avisar al prestador de los servicios de autorizaciones o actividades relacionadas con la presente Ley; los trámites y procedimientos que se observarán para su cumplimiento, la obligación de proporcionar información para integrar el padrón de usuarios y para facilitar las atribuciones de la autoridad o la operación de los servicios públicos y en general, las demás para proveer la exacta observancia de la presente Ley, se precisarán en el Reglamento de la misma.
 
-#### SECCION TERCERA. DE LAS CUOTAS Y TARIFAS
+#### SECCION SEGUNDA. DE LOS DERECHOS Y OBLIGACIONES DE LOS USUARIOS
 
 ###### Artículo 124.
 
@@ -1591,9 +1649,7 @@ IX. Constituir personas morales a las que se pudiera otorgar en concesión o con
 
 X. Participar, a través de los Consejos Técnicos que se podrán crear, en la planeación, programación y administración de los servicios públicos del agua.
 
-#### SECCION CUARTA. DE LA FACULTAD DE INSPECCION Y VERIFICACION
-
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+#### SECCION TERCERA. DE LAS CUOTAS Y TARIFAS
 
 ###### Artículo 133.
 
@@ -1725,7 +1781,9 @@ El prestador de los servicios resolverá la inconformidad en el término de quin
 
 Los Notarios Públicos no autorizarán los actos traslativos de dominio de bienes inmuebles, cuando no se acredite estar al corriente en el pago de las cuotas y tarifas por los servicios públicos relacionados con el agua.
 
-#### SECCION QUINTA. DEL JUICIO ARBITRAL
+#### SECCION CUARTA. DE LA FACULTAD DE INSPECCION Y VERIFICACION
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 144.
 
@@ -1873,7 +1931,7 @@ Quedan facultados los prestadores de los servicios a realizar las acciones neces
 
 Los concesionarios podrán practicar las visitas que requieran para hacer las verificaciones a que se refieren los artículos 145 y 146, en los términos que se establezcan en los contratos de prestación de servicios celebrados entre los usuarios y los concesionarios.
 
-#### SECCION PRIMERA. DE LAS INFRACCIONES Y SANCIONES
+#### SECCION QUINTA. DEL JUICIO ARBITRAL
 
 ###### Artículo 163.
 
@@ -1881,7 +1939,7 @@ En caso de que exista controversia entre los Municipios, Organismos Operadores M
 
 ## TITULO CUARTO
 
-#### SECCION SEGUNDA. DE LOS RECURSOS ADMINISTRATIVOS
+#### SECCION PRIMERA. DE LAS INFRACCIONES Y SANCIONES
 
 ###### Artículo 164.
 
@@ -2023,6 +2081,8 @@ Cuando eventualmente la Comisión Estatal, preste los servicios públicos, las s
 
 Las infracciones y sanciones que se señalan en los artículos 164 y 173, se aplicarán sin perjuicio de la responsabilidad civil o penal que en su caso resulte, ni de la revocación o rescisión de la concesión que proceda.
 
+#### SECCION SEGUNDA. DE LOS RECURSOS ADMINISTRATIVOS
+
 ###### Artículo 176.
 
 Contra las resoluciones y actos de los Municipios, Organismos Operadores Municipales, Intermunicipales o la Comisión, que causen agravio a los particulares, procederá el recurso de Reconsideración, el cual se tramitará en la forma y términos que dispone el Reglamento de esta Ley.
@@ -2096,3 +2156,13 @@ Artículo Quinto.- Los cambios de adscripción de personal, en ninguna forma afe
 Artículo Sexto.- Los asuntos en trámite que deban pasar de una dependencia u órgano de la Administración Pública del Estado, a otra, según lo que dispone esta ley, permanecerán en el Estado en que se encuentren hasta que la unidad que los venga desahogando se incorpore a su nueva adscripción, salvo que fueren de especial urgencia o de término improrrogable. En ambos casos se notificará a los interesados el cambio de radicación.
 
 Artículo Séptimo.- Por lo que hace a las reformas a la Ley de Salud para el Estado de Hidalgo, el reglamento a que hace referencia, el último párrafo del Artículo Tercero, deberá publicarse noventa días naturales posteriores a la entrada en vigor del presente Decreto.
+
+P.O. 13 DE MAYO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan a esta Ley.
