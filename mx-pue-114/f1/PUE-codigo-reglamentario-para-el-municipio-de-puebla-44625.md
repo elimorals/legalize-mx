@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2013-03-20"
+last_updated: "2013-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2013.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -3667,7 +3667,13 @@ XIX. Dispositivos de Control Vial: Señales, marcas, semáforos y cualquier otro
 
 XX. Infracción: Conducta que transgreda alguna disposición del presente Capítulo y que tiene como consecuencia una sanción:
 
-XXI. Paraderos: Rutas de estación temporal de las unidades que integran el Sistema de Transporte Público Masivo RUTA;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2013)</small>
+
+XXI. Paraderos:
+
+a) Paradero: Rutas de estación temporal de las unidades que integran el sistema de transporte público masivo RUTA; y
+
+b) Paradero de bicicletas: Estacionamiento temporal de bicicletas.
 
 XXII. Secretaría: La Secretaría de Seguridad Pública y Tránsito Municipal;
 
@@ -3737,9 +3743,9 @@ IV. Fomentar e impartir los temas de educación vial y demás temas relativos al
 
 V. Autorizar, proporcionar, instalar, fijar, mantener, reponer y coordinar las señales, los moderadores de velocidad y los demás dispositivos necesarios para regular, controlar y proveer a la observancia de las normas en materia de tránsito municipal, haciendo uso de CINEMÓMETROS, que permitan obtener datos para conocer la velocidad de los vehículos automotores y el modo en que circulan en la vía pública, entre otras;
 
-> <small>(REFORMADA, P.O. 27 DE MARZO DE 2006)</small>
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2013)</small>
 
-VI. Vigilar la seguridad vial y la de los usuarios del transporte público, así como salvaguardar la integridad física de los peatones y establecer medidas que permitan eliminar las conductas que violan las disposiciones en la materia, en términos del presente Capítulo;
+VI. Vigilar la seguridad vial y la de los usuarios del transporte público, así como salvaguardar la integridad física de los peatones y ciclistas, como establecer medidas que permitan eliminar las conductas que violan las disposiciones en la materia, en términos del presente Capítulo;
 
 VII. Designar, con aprobación del Ayuntamiento, el número de agentes de vialidad que estime necesario para realizar las funciones de su competencia;
 
@@ -3841,13 +3847,13 @@ Los encargados de ejecutar dichas obras o trabajos, los interesados en colocar m
 
 Si por desobedecimiento o negligencia en la observancia de lo dispuesto en el párrafo anterior se producen accidentes viales o de tránsito, las personas responsables del incumplimiento deberán resarcir a los conductores y peatones afectados de todos los perjuicios y daños materiales causados por tal motivo.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2013)</small>
 
 #### SECCIÓN SEGUNDA DE LA UNIDAD DE ATENCIÓN A POBLACIÓN VULNERABLE
 
 ###### Artículo 262.
 
-La Dirección de Tránsito Municipal fijará, de manera general, los límites máximo y mínimo de velocidad que puedan desarrollar los vehículos en las vías públicas del Municipio, de acuerdo con la ubicación, clasificación y demás condiciones de las mismas.
+La Dirección de Tránsito Municipal fijará, de manera general, los límites máximo y mínimo de velocidad que puedan desarrollar los vehículos en las vías públicas y ciclo vías públicas del Municipio, de acuerdo con la ubicación, clasificación y demás condiciones de las mismas.
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2008)</small>
 
@@ -3947,7 +3953,9 @@ La colocación de las placas y los engomados que en su caso correspondan, se rig
 
 I. En automóviles, camiones y autobuses, las placas se colocarán invariablemente en las partes anterior y posterior de los vehículos, en los lugares destinados para ese objeto, debiendo quedar completamente visibles, y el engomado que en su caso corresponda, en alguno de los vidrios laterales o el medallón del vehículo;
 
-II. Las placas para motocicletas, bicicletas y otra clase de vehículos distintos de los señalados en la fracción anterior, se colocarán en la parte posterior de los mismos;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2013)</small>
+
+II. Las placas para motocicletas y otra clase de vehículos distintos de los señalados en la fracción anterior, se colocarán en la parte posterior de los mismos;
 
 III. Se prohíbe que las placas oficiales estén remachadas o soldadas al vehículo y llevar sobre éstas, anexas a las mismas o en lugar de ellas, distintivos, objetos u otras placas, diferentes a las de diseño oficial o con rótulos e inscripciones de cualquier índole, así como micas o reflejantes que oculten, velen o impidan ver con claridad, parcial o totalmente, las letras o números de las mismas; y
 
@@ -3979,7 +3987,9 @@ b). Tener fanales delanteros de luz blanca y fija, con dispositivos para disminu
 
 c). Contar con doble sistema de frenos, de pie y de mano, que sean compatibles entre sí;
 
-d). Llevar un espejo lateral, al menos, en el lado izquierdo del conductor y, con excepción de las motobicicletas, motonetas y motocicletas, tener instalado un espejo retroscópico en la parte superior media del parabrisas;
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2013)</small>
+
+d). Llevar un espejo lateral, al menos, en el lado izquierdo del conductor y, con excepción de las bicicletas, motobicicletas, motonetas y motocicletas, tener instalado un espejo retroscópico en la parte superior media del parabrisas;
 
 e). Estar provistos de dispositivos que eviten ruidos y humo excesivos, quedando expresamente prohibido utilizar válvulas de escape, derivaciones y otros dispositivos que produzcan ruidos molestos o superiores a los noventa y cinco decibeles, cuando circulen por centros poblados;
 
@@ -4243,7 +4253,9 @@ i). Restricción o limitaciones diversas; y
 
 III. INFORMATIVAS.- Que sirvan para guiar al usuario lo largo de su ruta, indicándole las calles o caminos que encuentre, nombre de poblaciones, lugares de interés, distancia y recomendaciones que debe observar, mismas que compren cuatro grupos:
 
-a). De ruta: Que identifican los caminos y vías públicas según el número o nombre que se les haya asignado, así como el sentido que sigan los mismos;
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2013)</small>
+
+a). De ruta: Que identifican los caminos, vías públicas, ciclo vías según el número o nombre que se les haya asignado, así como el sentido que sigan los mismos;
 
 b). De destino: Que Indican al usuario el nombre de la población, delegación, colonia o zona que encuentre sobre la ruta, el número o nombre de ésta y la dirección de deberá seguir;
 
@@ -4535,7 +4547,9 @@ VIII. Conducir sin los lentes, prótesis o aparatos auditivos anotados en la lic
 
 IX. Conducir vehículos que contaminen ostensiblemente el ambiente;
 
-X. Transitar sobre las banquetas, rayas longitudinales marcadas en la superficie de rodamiento para delimitar los carriles de circulación o dentro de una isleta, sus marcas de aproximación o zonas de seguridad peatonal;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2013)</small>
+
+X. Transitar sobre las banquetas, rayas longitudinales marcadas en la superficie de rodamiento para delimitar los carriles de circulación, dentro de una ciclo vía o dentro de una isleta, sus marcas de aproximación o zonas de seguridad peatonal, (sic)
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -5885,6 +5899,10 @@ XVI. Solicitar y verificar que los establecimientos comerciales cuenten con medi
 
 XVII. Las demás que le confieran otras leyes, decretos, reglamentos y acuerdos.
 
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2006)</small>
+
+XIV. Llevar a cabo la identificación y delimitación de lugares o zonas de riesgo a través del dictamen técnico correspondiente; y
+
 DE LOS PROGRAMAS Y SUBPROGRAMAS MUNICIPALES DE PROTECCIÓN CIVIL
 
 ###### Artículo 395.
@@ -6473,13 +6491,13 @@ En caso de que la Unidad Operativa Municipal de Protección Civil, considere nec
 
 Las sanciones pecuniarias se liquidarán por el infractor en la Tesorería Municipal, en un plazo de 15 días contados a partir de la fecha en que se haya hecho la notificación respectiva, su importe se considerará a favor de la Unidad Operativa Municipal de Protección Civil, y su cobro en tal caso, se hará conforme a las disposiciones de (sic) Código Fiscal y Presupuestario del Municipio de Puebla.
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 457.
 
 Además de las sanciones que se le impongan al infractor, la Unidad Operativa Municipal de Protección Civil, si así lo considera necesario, hará del conocimiento del Ministerio Público los hechos que pudieran constituir delito.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 458.
 
@@ -10303,7 +10321,7 @@ XVII. Producto cárnico: Se entenderá por éste lo contemplado en el artículo 
 
 XVIII. Reinspección: Revisión para constatar el cumplimiento de las disposiciones de este Código y demás ordenamientos legales aplicables en la materia; de las canales o subproductos que ya fueron sujetos a inspección por un rastro distinto del Municipal;
 
-XIX. Resello: Sello que se coloca con la leyenda “Inspeccionado y Aprobado” en la carne comercializada en el Municipio de Puebla que presenta alguna alteración en el sello original, como estar borroso o presumirse de dudosa procedencia; y
+XIX. Resello: Sello que se coloca con la leyenda "Inspeccionado y Aprobado" en la carne comercializada en el Municipio de Puebla que presenta alguna alteración en el sello original, como estar borroso o presumirse de dudosa procedencia; y
 
 XX. Subproducto: Derivado del producto cárnico, como jamón, tocino, queso de puerco, pastel de pollo, longaniza, chorizo, mortadela, salami, carne adobada, carne seca, cecina, tasajo, chicharrón, frituras, toda clase de embutidos, y cualquier otro semejante.
 
@@ -10523,9 +10541,9 @@ DEL TRANSPORTE DE LOS PRODUCTOS CÁRNICOS Y/O SUBPRODUCTOS
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
-Artículo 639 Septdecies.- El transporte de productos cárnicos y/o subproductos, estará regulado por lo contemplado en el Capítulo 23 referente al "Servicio de Transporte del Producto Cárnico y sus Derivados", por las normas NOM-009-ZOO-1994, NOM-024-ZOO-1995 y NOM-194-SSA1-2004, así como las normas oficiales vigentes y demás disposiciones legales aplicables.
+Artículo 639 Septdecies.- El transporte de productos cárnicos y/o subproductos, estará regulado por lo contemplado en el Capítulo 23 referente al “Servicio de Transporte del Producto Cárnico y sus Derivados”, por las normas NOM-009-ZOO-1994, NOM-024-ZOO-1995 y NOM-194-SSA1-2004, así como las normas oficiales vigentes y demás disposiciones legales aplicables.
 
-Para el caso de que el transporte provenga de un Rastro Tipo Inspección Federal y/o en él se trasladen productos cárnicos y/o subproductos amparados con la certificación "México Calidad Suprema", los inspectores municipales sólo verificarán que la documentación correspondiente se encuentre en orden.
+Para el caso de que el transporte provenga de un Rastro Tipo Inspección Federal y/o en él se trasladen productos cárnicos y/o subproductos amparados con la certificación “México Calidad Suprema”, los inspectores municipales sólo verificarán que la documentación correspondiente se encuentre en orden.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
@@ -10533,7 +10551,7 @@ DE LAS SANCIONES
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
-Artículo 639 Octodecies.- Las autoridades sanitarias municipales determinarán, calificarán e impondrán a quienes infrinjan las disposiciones establecidas en el Subtítulo “De la Comercialización de Productos Cárnicos y/o Subproductos y Aves Muertas”, y los que resulten aplicables en la materia, indistintamente las sanciones señalas (sic) en el artículo 1671 de este ordenamiento.
+Artículo 639 Octodecies.- Las autoridades sanitarias municipales determinarán, calificarán e impondrán a quienes infrinjan las disposiciones establecidas en el Subtítulo "De la Comercialización de Productos Cárnicos y/o Subproductos y Aves Muertas", y los que resulten aplicables en la materia, indistintamente las sanciones señalas (sic) en el artículo 1671 de este ordenamiento.
 
 Para la aplicación de dichas sanciones se considerará como infracciones administrativas las contempladas en el artículo 1671 Bis fracciones I, II, III, IV, V y VI del presente Código. La reincidencia será sancionada con multa por el doble de las cantidades señaladas.
 
@@ -16615,9 +16633,11 @@ Todo el equipo e instalaciones mencionados en este apartado, deberán ser aproba
 
 Se llevará bitácora mensual respectiva de los equipos e instalaciones contra incendios de los inmuebles mencionados en el artículo 1103, las cuales serán presentadas durante las visitas e inspecciones que se realicen a los inmuebles.
 
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
+
 ###### Artículo 1115.
 
-La Unidad Municipal de Protección Civil y el Departamento de Bomberos de Puebla, están facultados para indicar las protecciones contra incendio adicionales a las previstas en el presente apartado, según las condiciones especiales de los inmuebles y las actividades que en ellos se realicen.
+La Unidad Operativa Municipal de Protección Civil y el Departamento de Bomberos de Puebla, están facultados para indicar las protecciones contra incendio adicionales a las previstas en el presente apartado, según las condiciones especiales de los inmuebles y las actividades que en ellos se realicen.
 
 ###### Artículo 1116.
 
@@ -24693,7 +24713,7 @@ Los productos cárnicos que se transporten en el Municipio, deberán estar ampar
 
 El producto cárnico que se transporte sin cumplir con lo dispuesto en el artículo anterior será decomisado por la autoridad municipal y sometido a inspección sanitaria; adoptando las medidas señaladas en el artículo 1637 Bis del presente Código.
 
-Para el caso de que el transporte provenga de un Rastro Tipo Inspección Federal y/o en él se trasladen productos cárnicos y/o subproductos amparados con la certificación “México Calidad Suprema”, los inspectores municipales sólo verificarán que la documentación correspondiente se encuentre en orden.
+Para el caso de que el transporte provenga de un Rastro Tipo Inspección Federal y/o en él se trasladen productos cárnicos y/o subproductos amparados con la certificación "México Calidad Suprema", los inspectores municipales sólo verificarán que la documentación correspondiente se encuentre en orden.
 
 > <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
@@ -32259,13 +32279,13 @@ DE LOS REPRESENTANTES
 
 ###### Artículo 2170.
 
-Para ser representante de boxeadores o luchadores, se requiere ser mayor de edad, persona de reconocida honorabilidad y tener licencia expedida por la Comisión, en los términos previstos por los artículos relativos del presente Capitulo.
+Para ser representante de boxeadores o luchadores, se requiere ser mayor de edad, persona de reconocida honorabilidad y tener licencia expedida por la Comisión, en los términos previstos por los artículos relativos del presente Capítulo.
 
 > <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 2171.
 
-Todo representante que se encuentre suspendido por la Comisión Municipal de Box y Lucha Libre o por cualquiera otra Comisión o Consejo de Box o Lucha Libre Nacional o Extranjera, con la cual la primera tenga relaciones de reciprocidad, no podrá actuar por sí o a través de otra persona, dentro del boxeo o lucha libre profesional, mientras dure el término de la suspensión.
+Todo representante que se encuentre suspendido por la Comisión Municipal de Box y Lucha Libre o por cualquier otra Comisión o Consejo de Box o Lucha Libre Nacional o Extranjera, con la cual la primera tenga relaciones de reciprocidad, no podrá actuar por sí o a través de otra persona, dentro del boxeo o lucha libre profesional, mientras dure el término de la suspensión.
 
 > <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
@@ -34961,6 +34981,12 @@ La presente adición entrará en vigor al día siguiente de su publicación en e
 
 Las prestaciones anteriores que se hubiesen otorgado y que sean compatibles con la presente adición se reconocen plenamente.
 
+P.O. 14 DE DICIEMBRE DE 2009.
+
+PRIMERO. Las presentes reformas y adiciones surtirán sus efectos al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a lo establecido en el presente Dictamen.
+
 P.O. 22 DE ENERO DE 2010.
 
 PRIMERO.- Las presentes reformas, derogaciones y adiciones surtirán sus efectos al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
@@ -35016,12 +35042,6 @@ P.O. 11 DE FEBRERO DE 2011.
 PRIMERO.- Las presentes reformas, adiciones y derogaciones surtirán sus efectos al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente Dictamen.
-
-P.O. 14 DE DICIEMBRE DE 2009.
-
-PRIMERO. Las presentes reformas y adiciones surtirán sus efectos al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-SEGUNDO. Se derogan las disposiciones que se opongan a lo establecido en el presente Dictamen.
 
 P.O. 12 DE AGOSTO DE 2011.
 
@@ -35144,6 +35164,10 @@ PRIMERO.- Se aprueba la reforma de la fracción XII del artículo 1255 del Capí
 SEGUNDO.- Se instruye a la Secretaria del Honorable Ayuntamiento para que en el ámbito de sus atribuciones, realice las acciones y trámites pertinentes a fin de que el presente Dictamen se envíe a la Secretaría General de Gobierno para su publicación en el Periódico Oficial del Estado.
 
 TERCERO.- Las reformas entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial Estado (sic).
+
+P.O. 13 DE MAYO DE 2013.
+
+ÚNICO.- El presente entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ## [N. DE E. TRANSITORIOS DE LA “MODIFICACIÓN AL ESTATUTO ORGÁNICO DEL SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA, PUBLICADO EL 5 DE DICIEMBRE DE 2019”.]
 
