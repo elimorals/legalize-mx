@@ -4,7 +4,7 @@ identifier: "HID-reglamento-interior-de-la-secretaria-de-finanzas-y-93513"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-03-25"
-last_updated: "2013-03-25"
+last_updated: "2013-05-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "HID"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS Y ADMINISTRACION
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE MAYO DE 2013 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS Y ADMINISTRACIÓN DEL ESTADO DE HIDALGO
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 13 DE MAYO DE 2013.</small>
 
 Reglamento publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 25 de marzo de 2013.
 
@@ -189,13 +189,13 @@ X.- Los Coordinadores de los Centros Regionales de Atención al Contribuyente; y
 
 XI.- Los Notificadores-Ejecutores, Auditores y Visitadores.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE MAYO DE 2013 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 10.
 
 Las autoridades fiscales, señaladas de la fracción I a la IX y XI, del Artículo anterior, tendrán jurisdicción en todo el territorio del Estado de Hidalgo.
 
-Por lo que hace a los considerados en la fracción X del artículo antes mencionado, ejercerán su jurisdicción territorial en los términos previstos en el Artículo 32 del presente Reglamento.
+> <small>(F. DE E., P.O. 13 DE MAYO DE 2013)</small>
+
+Por lo que hace a los considerados en la fracción X del artículo antes mencionado, ejercerán su jurisdicción territorial en los términos previstos en el artículo 33 del presente Reglamento.
 
 ### CAPÍTULO III. DE LA REPRESENTACIÓN DE LA SECRETARÍA
 
@@ -921,8 +921,6 @@ XIX. Las demás que las Leyes, Reglamentos, Decretos, Acuerdos, Convenios y cont
 
 DE LAS ATRIBUCIONES Y FACULTADES DE LAS DIRECCIONES GENERALES ADSCRITAS A LA SUBSECRETARÍA DE INGRESOS.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE MAYO DE 2013 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ###### ARTÍCULO 32.
 
 Corresponde a la Dirección General de Auditoría Fiscal, las siguientes atribuciones y facultades:
@@ -991,7 +989,9 @@ XXXI. Continuar con la práctica de los actos de fiscalización que hayan inicia
 
 XXXII. Designar a los peritos que se requieran para la formulación de los dictámenes técnicos, relacionados con los asuntos de su competencia;
 
-XXXIII. Hacer del conocimiento de la Procuraduría Fiscal del Estado los asuntos en los que se debe formular la declaratoria de que el Fisco Federal o Estatal ha sufrido perjuicio, así como proporcionarles los datos e informes correspondientes para el cumplimiento de la función establecida en el Artículo 25 de este Reglamento;
+> <small>(F. DE E., P.O. 13 DE MAYO DE 2013)</small>
+
+XXXIII. Hacer del conocimiento de la Procuraduría Fiscal del Estado los asuntos en los que se debe formular la declaratoria de que el Fisco Federal o Estatal ha sufrido perjuicio, así como proporcionarles los datos e informes correspondientes para el cumplimiento de la función establecida en el artículo 26 de este Reglamento;
 
 XXXIV. Solicitar a las autoridades fiscales federales, la verificación y validación de datos y documentación proporcionada por los contribuyentes a quienes se les este practicando actos de fiscalización;
 
