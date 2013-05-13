@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-participacion-ciudadana-del-distrito-federal-39363"
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-17"
-last_updated: "2013-04-03"
+last_updated: "2013-05-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39363&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2004-05-14"
 
 LEY DE PARTICIPACIÓN CIUDADANA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 3 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE MAYO DE 2013.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 17 de mayo de 2004.
 
@@ -33,8 +33,6 @@ Que la Honorable Asamblea Legislativa del Distrito Federal III Legislatura, se h
 DECRETO
 
 (Al margen superior izquierdo el Escudo Nacional que dice: ESTADOS UNIDOS MEXICANOS.- ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL.- III LEGISLATURA) LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL III LEGISLATURA D E C R E T A:
-
-> <small>N. DE E. LAS REFORMAS APROBADAS EN EL DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE PARTICIPACION CIUDADANA DEL DISTRITO FEDERAL, MODIFICA DE MANERA SUSTANCIAL PRACTICAMENTE TODO EL TEXTO DE LA LEY DE 17 DE MAYO DE 2004, DANDO COMO RESULTADO UN TEXTO DIFERENTE AL ORIGINAL, Y SI BIEN DIVERSOS ARTICULOS QUEDARON INTACTOS POR LA REFORMA, DEBIDO A LO ANTERIOR SE CONSERVA EL TEXTO APROBADO Y PUBLICADO EN LA G.O. DE 27 DE MAYO DE 2010.</small>
 
 > <small>(REFORMADA, G.O. 27 DE MAYO DE 2010)</small>
 
@@ -1120,7 +1118,9 @@ Las asambleas ciudadanas también aprobarán los diagnósticos y propuestas de d
 
 En el Distrito Federal existe el presupuesto participativo que es aquel sobre el cual los ciudadanos deciden respecto a la forma en que se aplican recursos en proyectos específicos en las colonias y pueblos originarios en que se divide el territorio del Distrito Federal.
 
-Los recursos del presupuesto participativo corresponderán al 3 por ciento del presupuesto anual de las Delegaciones. Los rubros generales a los que se destinará la aplicación de dichos recursos serán los de obras y servicios, equipamiento, infraestructura urbana y prevención del delito.
+> <small>(REFORMADO, G.O. 13 DE MAYO DE 2013)</small>
+
+Los recursos del presupuesto participativo corresponderán al 3 por ciento del presupuesto anual de las Delegaciones. Los rubros generales a los que se destinará la aplicación de dichos recursos serán los de obras y servicios, equipamiento, infraestructura urbana, prevención del delito, además de los que estén en beneficio de actividades recreativas, deportivas y culturales de las colonias o pueblos del Distrito Federal.
 
 Los recursos de presupuesto participativo serán ejercidos en los capítulos 2000, 3000, 4000, 5000 y 6000 conforme a lo dispuesto en el Clasificador por Objeto del Gasto vigente.
 
@@ -1230,13 +1230,17 @@ El Gobierno del Distrito Federal y las demarcaciones territoriales otorgarán la
 
 El Comité Ciudadano es el órgano de representación ciudadana de la colonia.
 
-> <small>(REFORMADO, G.O. 20 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE MAYO DE 2013)</small>
 
 ###### Artículo 92.
 
-En cada colonia se elegirá un Comité Ciudadano conformado por nueve integrantes, salvo lo dispuesto en el inciso h) del párrafo segundo del artículo 112 de esta Ley.
+En cada colonia se elegirá un Comité Ciudadano conformado por nueve integrantes, salvo lo dispuesto en el inciso i) del párrafo segundo del artículo 112 de esta Ley.
+
+> <small>(REFORMADO, G.O. 20 DE DICIEMBRE DE 2010)</small>
 
 En el caso de los consejos de los pueblos, el ámbito territorial para la elección será el que corresponda al pueblo originario enlistado en el Transitorio Décimo Tercero.
+
+> <small>(REFORMADO, G.O. 20 DE DICIEMBRE DE 2010)</small>
 
 La representación será honorífica y el tiempo de duración de los cargos del Comité Ciudadano será de tres años, sin posibilidad de reelección.
 
@@ -1244,7 +1248,7 @@ La representación será honorífica y el tiempo de duración de los cargos del 
 
 ### CAPÍTULO III. DE LA INTEGRACIÓN Y ORGANIZACIÓN DEL COMITÉ CIUDADANO
 
-> <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, PRIMER PÁRRAFO, G.O. 13 DE MAYO DE 2013)</small>
 
 ###### Artículo 93.
 
@@ -1300,7 +1304,9 @@ XXI. Las demás que le otorguen la presente ley y demás ordenamientos del Distr
 
 ###### Artículo 94.
 
-El Comité Ciudadano se conformará por nueve integrantes, salvo las hipótesis previstas en el inciso h) párrafo segundo del artículo 112.
+El Comité Ciudadano se conformará por nueve integrantes, salvo las hipótesis previstas en el inciso i) párrafo segundo del artículo 112.
+
+> <small>(REFORMADO, G.O. 27 DE MAYO DE 2010)</small>
 
 Los integrantes de los Comités Ciudadanos serán electos en jornada electiva y por votación universal, libre, directa y secreta.
 
@@ -1348,7 +1354,9 @@ IV. Coordinación de Desarrollo Sustentable y Medio Ambiente.
 
 V. Coordinación de Presupuesto y Planeación Participativa y de Desarrollo Económico y Empleo.
 
-VI. Coordinación de Desarrollo y Servicios Urbanos.
+> <small>(REFORMADA, G.O. 13 DE MAYO DE 2013)</small>
+
+VI. Coordinación de Desarrollo, Movilidad y Servicios Urbanos.
 
 VII. Coordinación de Capacitación y Formación Ciudadana y de Comunicación y Cultura Cívica.
 
@@ -1540,25 +1548,29 @@ b) De éstos cinco ciudadanos se registrará a un presidente, un secretario y tr
 
 c) En el registro de la fórmula se observará el principio de equidad de género, por lo que no podrán exceder tres integrantes del mismo género. En caso de incumplimiento de tal principio se negará el registro a la fórmula;
 
-d) A la fórmula que obtenga el mayor número de votos en la elección se le otorgarán cinco integrantes del comité ciudadano, entre ellos al presidente de éste;
+> <small>(ADICIONADO, G.O. 13 DE MAYO DE 2013)</small>
 
-e) A la fórmula que obtenga el segundo lugar, se le otorgarán dos lugares en el comité ciudadano, conforme al orden de prelación;
+d) Cada formula contará con al menos una persona joven. En caso de incumplimiento, se negará el registro a la fórmula;
 
-f) A las fórmulas que obtengan el tercer y cuarto lugar se les otorgará un lugar dentro del comité, que será ocupado por quien haya sido registrado como presidente de fórmula;
+e) A la fórmula que obtenga el mayor número de votos en la elección se le otorgarán cinco integrantes del comité ciudadano, entre ellos al presidente de éste;
 
-g) En caso de que en alguna colonia se registre un empate en primer lugar, el comité se conformará por el presidente, secretario y el primer vocal de cada una de las fórmulas empatadas. Los tres espacios restantes se otorgarán: uno a cada una de las fórmulas que ocupe el segundo, tercero y cuarto lugar. En este supuesto la presidencia del comité se elegirá en su seno en la primer sesión que celebren;
+f) A la fórmula que obtenga el segundo lugar, se le otorgarán dos lugares en el comité ciudadano, conforme al orden de prelación;
 
-h) En caso de que en alguna colonia solo se registre una fórmula, el comité ciudadano se integrará por cinco miembros, es decir, la totalidad de la fórmula registrada;
+g) A las fórmulas que obtengan el tercer y cuarto lugar se les otorgará un lugar dentro del comité, que será ocupado por quien haya sido registrado como presidente de fórmula;
 
-i) Cuando en alguna colonia se registren sólo dos fórmulas, a la que obtenga la mayoría de votos se le otorgarán cinco integrantes del comité ciudadano, entre ellos al presidente de éste, los restantes cuatro integrantes se le darán a la otra fórmula;
+h) En caso de que en alguna colonia se registre un empate en primer lugar, el comité se conformará por el presidente, secretario y el primer vocal de cada una de las fórmulas empatadas. Los tres espacios restantes se otorgarán: uno a cada una de las fórmulas que ocupe el segundo, tercero y cuarto lugar. En este supuesto la presidencia del comité se elegirá en su seno en la primer sesión que celebren;
 
-j) Si se registran tres fórmulas, la (sic) fórmula ganadora se le otorgarán cinco integrantes al segundo y tercer lugar dos integrantes;
+i) En caso de que en alguna colonia solo se registre una fórmula, el comité ciudadano se integrará por cinco miembros, es decir, la totalidad de la fórmula registrada;
 
-k) Para la sustitución de los integrantes electos o de los integrantes del comité por cualquier motivo o causa, se recurrirá en primer lugar a los integrantes de la fórmula de que fuera parte aquél, respetando el orden de prelación. En caso de que por ninguno de los métodos indicados pueda subsanarse la ausencia quedará vacante el lugar, y
+j) Cuando en alguna colonia se registren sólo dos fórmulas, a la que obtenga la mayoría de votos se le otorgarán cinco integrantes del comité ciudadano, entre ellos al presidente de éste, los restantes cuatro integrantes se le darán a la otra fórmula;
+
+k) Si se registran tres fórmulas, la (sic) fórmula ganadora se le otorgarán cinco integrantes al segundo y tercer lugar dos integrantes;
+
+l) Para la sustitución de los integrantes electos o de los integrantes del comité por cualquier motivo o causa, se recurrirá en primer lugar a los integrantes de la fórmula de que fuera parte aquél, respetando el orden de prelación. En caso de que por ninguno de los métodos indicados pueda subsanarse la ausencia quedará vacante el lugar, y
 
 > <small>(REFORMADO, G.O. 30 DE NOVIEMBRE DE 2010)</small>
 
-l) Lo no previsto en el presente artículo será resuelto de conformidad con lo establecido en la presente Ley.
+m) Lo no previsto en el presente artículo será resuelto de conformidad con lo establecido en la presente Ley.
 
 No procederá el registro de la fórmula cuando un integrante o más hayan solicitado su registro en otra fórmula, salvo renuncia expresa entregada en tiempo y forma a las Direcciones Distritales del Instituto Electoral. En este caso, dentro de los plazos establecidos en la convocatoria, se notificará a las fórmulas involucradas para que sustituyan al integrante en cuestión.
 
@@ -2060,9 +2072,13 @@ La separación o remoción de algún integrante del consejo del pueblo se atendr
 
 Los Comités Ciudadanos y de los Consejos de los Pueblos estarán integrados conforme a lo establecido en el párrafo primero del artículo 92 de la presente Ley. A sus integrantes se les denominará representantes ciudadanos. Además de lo establecido en los artículos 92, 112 y 142 de esta Ley, en la integración de los Comités Ciudadanos se atenderá a lo siguiente:
 
-I. Si se registran hasta tres fórmulas para contender en la jornada electiva serán aplicables los incisos h), i) y j) del artículo 112 de esta Ley;
+> <small>(REFORMADA, G.O. 13 DE MAYO DE 2013)</small>
 
-II. Si se registran cuatro o más fórmulas para contender en la jornada electiva y no hay empates en los primeros cuatro lugares, serán aplicables los incisos d), e) y f) del artículo 112 de esta Ley, y
+I. Si se registran hasta tres fórmulas para contender en la jornada electiva serán aplicables los incisos i), j) y k) del artículo 112 de esta Ley;
+
+> <small>(REFORMADA, G.O. 13 DE MAYO DE 2013)</small>
+
+II. Si se registran cuatro o más fórmulas para contender en la jornada electiva y no hay empates en los primeros cuatro lugares, serán aplicables los incisos e), f) y g) del artículo 112 de esta Ley, y
 
 III. Si se registran cuatro o más fórmulas para contender en la jornada electiva y hay empates en los primeros cuatro lugares, se estará a lo siguiente:
 
@@ -2072,7 +2088,9 @@ b) Se respetará, siempre y cuando esto sea posible, hasta el cuarto lugar obten
 
 c) El número de sitios que se otorguen a cada una de las fórmulas que ocupen los diferentes lugares conforme a su votación podrá variar de modo que se logre la mayor representación;
 
-d) Si hay empate en primer lugar entre dos fórmulas se aplicará lo establecido en el inciso g) del artículo 112 de esta Ley;
+> <small>(REFORMADO, G.O. 13 DE MAYO DE 2013)</small>
+
+d) Si hay empate en primer lugar entre dos fórmulas se aplicará lo establecido en el inciso h) del artículo 112 de esta Ley;
 
 e) En caso de empate entre varias fórmulas en un mismo lugar, siempre y cuando haya integrantes de los Comités o Consejos por repartir, se distribuirán de manera igualitaria entre éstas;
 
@@ -2424,15 +2442,17 @@ c) Participar en los procesos de planeación y presupuesto participativo en tér
 
 d) Las demás que se establezcan en la presente Ley y en otras disposiciones legales.
 
-VI. Desarrollo y Servicios Urbanos:
+> <small>(REFORMADA, G.O. 13 DE MAYO DE 2013)</small>
 
-a) Conocer y opinar en relación con los planes, programas, proyectos y acciones en materia de desarrollo y servicios urbanos, a cargo de la administración pública;
+VI. Desarrollo, Movilidad y Servicios Urbanos, deberá:
 
-b) Detectar las necesidades de su colonia o pueblo en cuanto a desarrollo y servicios urbanos se refiera, a fin de hacerlas del conocimiento de la administración pública;
+a) Conocer y opinar en relación con los planes, programas, proyectos y acciones en materia de desarrollo, movilidad y servicios urbanos, a cargo de la administración pública;
 
-c) Promover la participación de los habitantes de la colonia en los planes programas, proyectos y acciones en materia de desarrollo y servicios urbanos;
+b) Detectar las necesidades de su colonia o pueblo en cuanto a desarrollo, movilidad y servicios urbanos se refiera, a fin de hacerlas del conocimiento de la administración pública;
 
-d) Evaluar las acciones de la administración pública relativas al desarrollo y servicios urbanos; y
+c) Promover la participación de los habitantes de la colonia en los planes programas, proyectos y acciones en materia de desarrollo, movilidad y servicios urbanos;
+
+d) Evaluar las acciones de la administración pública relativas al desarrollo, movilidad y servicios urbanos; y
 
 e) Las demás que se establezcan en la presente Ley y en otras disposiciones legales.
 
@@ -3928,6 +3948,52 @@ Las Comisiones de Participación ciudadana y de Asuntos Indígenas, Pueblos y Ba
 
 Para los efectos de la consulta ciudadana sobre presupuesto participativo a que se refieren los artículos 83 y 84 inciso b) de la presente Ley, correspondiente al ejercicio fiscal 2011, por única ocasión y en cumplimiento al artículo 50 del presente ordenamiento se realizará, entre el 16 y el 27 de marzo de 2011, incluidas estas fechas.
 
+> <small>(ADICIONADO, G.O. 13 DE MAYO DE 2013)</small>
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+Por única ocasión, para el ejercicio 2013 la elección de los integrantes de los Comités Ciudadanos y Consejos de los Pueblos 2013-2016, así como la celebración de la Consulta Ciudadana en materia de Presupuesto Participativo, se realizarán en forma conjunta, para lo cual serán aplicables las determinaciones siguientes:
+
+1) Las convocatorias para la elección de los integrantes de los Comités Ciudadanos y Consejos de los Pueblos 2013- 2016, así como para la Consulta Ciudadana en materia de Presupuesto Participativo serán emitidas en el mes de mayo por el Instituto Electoral del Distrito Federal.
+
+2) La Jornada Electiva para la integración de los Comités Ciudadanos y Consejos de los Pueblos 2013-2016, así como la Consulta Ciudadana en materia de Presupuesto Participativo se celebrarán el 1º de septiembre de 2013.
+
+3) Los plazos específicos de cada una de las etapas de los procesos de elección de Comités Ciudadanos y Consejos de los Pueblos 2013-2016, así como de la Consulta Ciudadana en materia de Presupuesto Participativo serán determinados por el Instituto Electoral en las Convocatorias respectivas.
+
+4) Finalmente, para este proceso de elección de Comités Ciudadanos y Consejos de los Pueblos 2013-2016, las determinaciones establecidas por el artículo 117 de esta Ley, serán aplicables de la siguiente forma:
+
+I. Las fórmulas que obtengan su registro, únicamente podrán difundir sus propuestas por los siguientes medios:
+
+a. Propaganda impresa, la cual deberá estar contenida en papel en forma de trípticos o en materiales y formas análogas, cuyo contenido deberá identificar el número respectivo de fórmula, la propuesta y los perfiles de los integrantes, así como una leyenda que promueva la participación ciudadana en la elección de los Comités Ciudadanos; ésta deberá ser distribuida de mano en mano entre los ciudadanos.
+
+b. Módulos de información fijos;
+
+c. Reuniones celebradas en domicilios particulares, y
+
+d. Redes Sociales.
+
+II. Está prohibido hacer alusión a siglas o denominaciones de partidos políticos, así como la utilización del nombre, imagen o cualquier alusión religiosa, de servidores o programas públicos y locales; así como emular a siglas, lemas o frases utilizadas por cualquier poder y nivel de gobierno, ya sea del ámbito local o federal para divulgar sus programas o actos de gobierno.
+
+III. En ningún caso las fórmulas, los integrantes o los ciudadanos que deseen participar en las campañas como voluntarios podrán:
+
+a. Colocar, fijar, pegar, colgar, o adherir en forma individual o conjunta, elementos de propaganda tanto al interior como al exterior de edificios públicos; en áreas de uso común, accidentes geográficos o equipamiento urbano, y
+
+b. Otorgar despensas o regalos de cualquier clase o naturaleza.
+
+IV. Queda prohibida la utilización de recursos públicos o de partidos políticos en las campañas. Los recursos empleados para las campañas deberán provenir del patrimonio de los contendientes.
+
+V. Se prohíbe y en consecuencia se sancionará la utilización en las campañas de recursos públicos, de partidos políticos, de agrupaciones políticas locales y de asociaciones civiles o religiosas.
+
+VI. Por la contravención de lo dispuesto en los párrafos anteriores, el Instituto Electoral aplicará de conformidad con el procedimiento que al efecto emita, las siguientes sanciones:
+
+a) Amonestación pública;
+
+b) Cancelación del registro del integrante infractor, y
+
+c) Cancelación del registro de la fórmula infractora.
+
+El referido procedimiento se deberá basar en todo momento en los principios dispositivo y acusatorio.
+
 G.O. 30 DE NOVIEMBRE DE 2010.
 
 Artículo primero.- Remítase al Jefe de Gobierno del Distrito Federal para su publicación en la Gaceta Oficial.
@@ -4037,3 +4103,35 @@ Remítase al Jefe de Gobierno del Distrito Federal para su respectiva promulgaci
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 13 DE MAYO DE 2013.
+
+DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 92, 94, 149 Y SE ADICIONA UN INCISO D) AL ARTÍCULO 112 DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL DISTRITO FEDERAL.
+
+PRIMERO.- Remítase al Jefe de Gobierno del Distrito Federal para su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 13 DE MAYO DE 2013.
+
+DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 83 DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL DISTRITO FEDERAL.
+
+PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 13 DE MAYO DE 2013.
+
+DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 97 FRACCIÓN VI Y 171 FRACCIÓN VI DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL DISTRITO FEDERAL.
+
+PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 13 DE MAYO DE 2013.
+
+DECRETO POR EL QUE SE ADICIONA UN ARTÍCULO DÉCIMO QUINTO TRANSITORIO A LA LEY DE PARTICIPACIÓN CIUDADANA DEL DISTRITO FEDERAL.
+
+Primero.- Remítase al Jefe de Gobierno del Distrito Federal, para su publicación en la Gaceta Oficial del Distrito Federal.
+
+Segundo.- El presente Decreto entrará en vigor el día de su publicación en la Gaceta Oficial del Distrito Federal.
