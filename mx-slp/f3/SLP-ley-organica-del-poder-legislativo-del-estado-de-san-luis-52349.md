@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2013-05-07"
+last_updated: "2013-05-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2013.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -1755,6 +1755,10 @@ Los puntos de acuerdo aprobados, en ningún caso tendrán efectos vinculatorios.
 
 El Reglamento para el Gobierno Interior del Congreso prescribirá la forma en que deben presentarse las iniciativas, y el modo de proceder a su admisión y votación.
 
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2013)</small>
+
+Dentro de los asuntos generales del orden del día, no podrán presentarse ante el Pleno las iniciativas a que se refiere el artículo 131 de esta Ley, que no hayan sido incluidas previamente en la Gaceta Parlamentaria; con la salvedad que establece el artículo 134 de esta Ley.
+
 ###### ARTICULO 134.
 
 En caso de urgencia calificada por las dos terceras partes de los diputados presentes, el Congreso puede dispensar o abreviar los trámites establecidos; excepto cuando se trate de reformas a la Constitución Política de los Estados Unidos Mexicanos, y a la Constitución Política del Estado.
@@ -2112,3 +2116,9 @@ P.O. 7 DE MAYO DE 2013.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se deroga cualquier disposición contraria a éste Decreto.
+
+P.O. 14 DE MAYO DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.Lo (sic) tendrá entendido el Ejecutivo del Estado, lo hará publicar, circular y obedecer.
