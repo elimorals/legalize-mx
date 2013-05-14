@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2013-04-30"
+last_updated: "2013-05-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE MAYO DE 2013.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -16012,7 +16012,11 @@ PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
 
-TERCERO.- Los recursos humanos, materiales, técnicos y, en su caso, financieros, así como los asuntos que se encuentren en trámite en la Coordinación General de Proyectos Estratégicos y Enlace Gubernamental, se transferirán a la Dirección Ejecutiva de Proyectos Estratégicos en la parte que resulte correspondiente, esto de conformidad con las disposiciones administrativas aplicables.
+> <small>(REFORMADO, G.O. 14 DE MAYO DE 2013)</small>
+
+TERCERO.- Las unidades administrativas que con motivo de la entrada en vigor del presente Decreto deban transferir recursos humanos, materiales, técnicos y financieros a las unidades administrativas de nueva creación o las que sean objeto de reestructuración, lo harán en apego a la normatividad que establezcan la Secretaría de Finanzas y la Oficialía Mayor, en coordinación con la Secretaría de Gobierno.
+
+Asimismo, los asuntos competencia de las Unidades Administrativas, tanto de nueva creación, como las que tuvieron modificaciones que, antes del presente Decreto, correspondían a otras distintas, seguirán siendo atendidos y resueltos por estas últimas, hasta en tanto las de nueva creación inicien formalmente sus actividades.
 
 CUARTO.- La Secretaría de Gobierno deberá actualizar su Manual Administrativo y de Procedimientos en los términos establecidos por la normatividad aplicable.
 
@@ -16021,3 +16025,9 @@ G.O. 30 DE ABRIL DE 2013.
 PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- El presente decreto entrará en vigor el día de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 14 DE MAYO DE 2013.
+
+PRIMERO.- Publíquese en Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
