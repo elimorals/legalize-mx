@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2013-03-08"
+last_updated: "2013-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2013.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -1745,13 +1745,15 @@ El Tribunal Superior de Justicia se integra por nueve magistrados numerarios y e
 
 El Pleno del Tribunal se integrará solamente con los magistrados numerarios, con la excepción señalada en el párrafo tercero del Artículo 110 y la salvedad de lo establecido en el primer párrafo del Artículo 99 de esta Constitución.
 
-Las salas se organizarán por materia o por circuito y se integrarán con tres magistrados cada una, a excepción de la Sala Constitucional y Administrativa, la que se integrará con un Magistrado Numerario. Las apelaciones en los Juicios de Oralidad Familiar, serán resueltas por los magistrados de número, con excepción del Magistrado que integra la Sala Constitucional y Administrativa, del Magistrado Consejero y del propio Presidente del Tribunal Superior de Justicia. Las Salas tendrán la competencia y jurisdicción que establezca la Ley Orgánica del Poder Judicial del Estado.
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2013)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JULIO DE 2008)</small>
+Las Salas se organizarán por materia o por circuito y se integrarán con tres Magistrados cada una, a excepción de la Sala Constitucional y Administrativa, la que se integrará con un Magistrado Numerario. Las apelaciones en los Juicios de Oralidad Familiar, serán resueltas de forma unitaria en los casos previstos por la ley, por un Magistrado Numerario, con excepción del Magistrado que integra la Sala Constitucional y Administrativa, del Magistrado Consejero y del propio Presidente del Tribunal Superior de Justicia. Las Salas tendrán la competencia y jurisdicción que establezca la Ley Orgánica del Poder Judicial del Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MAYO DE 2013)</small>
 
 ###### ARTICULO 99.
 
-El Tribunal Superior de Justicia será presidido por un Magistrado que no integrará Sala, designado por el Tribunal en Pleno en el mes de agosto de cada tres años y podrá ser reelecto en períodos de igual duración, sin que éstos excedan sus períodos de elección o reelección como Magistrado Numerario. A la sesión de Pleno para designar Presidente del Tribunal Superior de Justicia, se convocará también al Magistrado Consejero para que, con voz y voto, pueda ejercer su derecho a elegir. Cada Sala Colegiada elegirá a su propio Presidente en la primera sesión del año.
+El Tribunal Superior de Justicia será presidido por un Magistrado que no integrará Sala, designado por el Tribunal en Pleno en el mes de agosto de cada tres años y podrá ser reelecto por una sola vez, para un período de igual duración. A la sesión de Pleno para designar Presidente del Tribunal Superior de Justicia, se convocará también al Magistrado Consejero para que, con voz y voto, pueda ejercer su derecho a elegir. Cada Sala Colegiada elegirá a su propio Presidente en la primera sesión del año.
 
 > <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
@@ -1773,7 +1775,9 @@ Esta Constitución garantiza la independencia de los Magistrados y Jueces del Po
 
 La Ley, conforme a las bases de esta Constitución, establecerá las condiciones para el ingreso, formación, permanencia, capacitación y actualización de quienes sirvan al Poder Judicial del Estado.
 
-Los Magistrados del Tribunal Superior de Justicia durarán en su encargo un período de seis años, podrán ser reelectos por una sola vez para un período de igual duración, y solo podrán ser separados en los términos que señala el Titulo Octavo de esta Constitución.
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2013)</small>
+
+Los Magistrados del Tribunal Superior de Justicia durarán en su encargo un período de seis años, podrán ser reelectos por una sola vez, para un período de igual duración, y solo podrán ser separados en los términos que señala el Título Octavo de esta Constitución o en su caso, como consecuencia del retiro forzoso.
 
 Los Jueces durarán seis años en el ejercicio de su encargo, al término de los cuales, si fueren ratificados o promovidos, sólo podrán ser privados de sus puestos en los casos y conforme a los procedimientos que establezca esta Constitución y la ley.
 
@@ -1782,6 +1786,20 @@ Los Magistrados, Jueces y Consejeros de la Judicatura del Estado, percibirán un
 Los Magistrados del Tribunal Superior de Justicia rendirán protesta ante la Legislatura del Estado o la Diputación Permanente, en su caso; los Jueces ante el Pleno del Tribunal Superior de Justicia y los demás servidores del Poder Judicial ante el Consejo de la Judicatura.
 
 Ningún servidor público del Poder Judicial del Estado podrá tener, servir o desempeñar al mismo tiempo otro empleo, cargo o comisión diverso, con excepción de la docencia y los cargos honoríficos en instituciones públicas o privadas, asociaciones o sociedades científicas, literarias, culturales, educativas, deportivas, de investigación científica o de beneficencia, cuyo desempeño no perjudique las funciones o labores propias de su cargo.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2013)</small>
+
+Los Magistrados Numerarios del Tribunal Superior de Justicia se retiraran de sus cargos en forma forzosa por alguna de las siguientes causas:
+
+I. Haber concluido, en su caso, los seis años del segundo periodo a que se refiere el párrafo tercero de este artículo.
+
+II. Haber cumplido sesenta y cinco años de edad.
+
+III. Padecer incapacidad física o mental declarada legalmente, incluso cuando ésta fuese parcial o transitoria, y siempre que impida el ejercicio de su función.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2013)</small>
+
+Los Magistrados Numerarios del Tribunal Superior de Justicia del Estado tienen derecho al haber de retiro, siempre y cuando hayan sido reelectos en el cargo mediante Decreto de la Legislatura del Estado, y concluyan los períodos que establece esta Constitución, de conformidad a las disposiciones que establece la Ley Orgánica del Poder Judicial del Estado.
 
 > <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
@@ -4296,3 +4314,11 @@ P.O. 21 DE FEBRERO DE 2013.
 P.O. 8 DE MARZO DE 2013.
 
 ÚNICO.- El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 14 DE MAYO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Los Magistrados Numerarios, que a la entrada en vigor de este Decreto hayan cumplido más de doce años en el ejercicio del cargo, o bien más de sesenta y cinco años de edad, serán separados del mismo y gozarán del haber de retiro que establece el artículo 100 de esta Constitución.
+
+TERCERO.- Los poderes Ejecutivo y Judicial llevarán a cabo todas las previsiones presupuestales necesarias para aplicar el derecho al haber de retiro a cada magistrado numerario que le corresponda de conformidad a lo que establece esta Constitución.
