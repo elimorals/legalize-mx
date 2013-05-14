@@ -4,7 +4,7 @@ identifier: "LIMJ"
 country: "mx"
 rank: "ley"
 publication_date: "1999-01-06"
-last_updated: "2012-04-09"
+last_updated: "2013-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12843&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIMJ"
 
 LEY DEL INSTITUTO MEXICANO DE LA JUVENTUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE MAYO DE 2013.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 6 de enero de 1999.
 
@@ -308,9 +308,19 @@ VI. Nombrar al personal del Instituto;
 
 VII. Someter a la Junta Directiva y publicar el informe anual sobre el desempeño de las funciones del Instituto;
 
-VIII. Recabar información y elementos estadísticos sobre las funciones del Instituto, para mejorar su desempeño, y
+> <small>(REFORMADA, D.O.F. 14 DE MAYO DE 2013)</small>
 
-IX. Las que le confieran las demás disposiciones jurídicas aplicables.
+VIII. Recabar información y elementos estadísticos sobre las funciones del Instituto, para mejorar su desempeño;
+
+> <small>(ADICIONADA, D.O.F. 14 DE MAYO DE 2013)</small>
+
+IX. Remitir a las Mesas Directivas de ambas Cámaras del H. Congreso de la Unión, al inicio de los periodos ordinarios de sesiones de cada año legislativo, los estudios e investigaciones relativos a la problemática y características juveniles previstos en la fracción VII del artículo 4;
+
+> <small>(ADICIONADA, D.O.F. 14 DE MAYO DE 2013)</small>
+
+X. Difundir los proyectos de desarrollo de la juventud, el seguimiento a las acciones de los programas y sus correspondientes propuestas previstos en el artículo 15 de la presente Ley, y
+
+XI. Las que le confieran las demás disposiciones jurídicas aplicables.
 
 > <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2012)</small>
 
@@ -350,7 +360,7 @@ Los cargos de consejero son honoríficos y se desempeñarán por un período de 
 
 Los demás requisitos para la integración y renovación del Consejo ciudadano, así como las atribuciones y funcionamiento de éste, se establecerán en el Estatuto Orgánico del Instituto y la convocatoria pública correspondiente aprobada por la Junta Directiva.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 5 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 5 DE AGOSTO DE 2011)</small>
 
 ### Capítulo IV. Del Régimen Laboral y Seguridad Social
 
@@ -411,3 +421,7 @@ D.O.F. 9 DE ABRIL DE 2012.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+
+D.O.F. 14 DE MAYO DE 2013.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
