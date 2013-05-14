@@ -4,7 +4,7 @@ identifier: "GUA-ley-del-proceso-penal-para-el-estado-de-guanajuato-76480"
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-03"
-last_updated: "2011-08-12"
+last_updated: "2013-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "GUA"
 
 LEY DEL PROCESO PENAL PARA EL ESTADO DE GUANAJUATO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO, VÉASE ARTICULO PRIMERO DEL DECRETO NÚMERO 160 PUBLICADO EN EL P.O. DE 15 DE ABRIL DE 2011 Y LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 17 DE JUNIO DE 2011, LOS ARTÍCULOS DE ESTE ORDENAMIENTO QUE RESULTEN INDISPENSABLES PARA LA DEBIDA APLICACIÓN DE LA LEY DE EJECUCIÓN DE MEDIDAS JUDICIALES Y SANCIONES PENALES DEL ESTADO DE GUANAJUATO, ENTRARÁN EN VIGOR EL DÍA DIECIOCHO DE JUNIO DE DOS MIL ONCE.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2013.
 
 Ley publicada en la Tercera Parte al Periódico Oficial del Estado de Guanajuato, el viernes 3 de septiembre de 2010.
 
@@ -5711,9 +5709,17 @@ I. El 1 de septiembre del año 2011 en la Región comprendida por los municipios
 
 II. El 1 de enero del año 2013 en la Región comprendida por los municipios de: Abasolo, Cuerámaro, Huanímaro, Irapuato, Jaral del Progreso, Pénjamo, Pueblo Nuevo, Romita, Salamanca, Silao y Valle de Santiago;
 
-III. El 1 de enero del año 2014 en la Región comprendida por los municipios de: Acámbaro, Apaseo el Alto, Apaseo el Grande, Celaya, Coroneo, Cortazar, Jerécuaro, Moroleón, Salvatierra, Santa Cruz de Juventino Rosas, Santiago Maravatío, Tarandacuao, Tarimoro, Uriangato, Villagrán y Yuriria; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IV. El 1 de enero del año 2015 en la Región comprendida por los municipios de: León, Manuel Doblado, Purísima del Rincón y San Francisco del Rincón.
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2013)</small>
+
+III. El 15 de abril del año 2015 en la Región comprendida por los municipios de: Acámbaro, Apaseo el Alto, Apaseo el Grande, Celaya, Coroneo, Cortazar, Jerécuaro, Moroleón, Salvatierra, Santa Cruz de Juventino Rosas, Santiago Maravatío, Tarandacuao, Tarimoro, Uriangato, Villagrán y Yuriria; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2013)</small>
+
+IV. El 1 de junio del año 2016 en la Región comprendida por los municipios de: León, Manuel Doblado, Purísima del Rincón y San Francisco del Rincón.
 
 Aplicación
 
@@ -5798,3 +5804,7 @@ Artículo Octavo. Los incidentes de cancelación de antecedentes penales que se 
 P.O. 12 DE AGOSTO DE 2011.
 
 Artículo Único. El presente Decreto entrará en vigencia el 1 de septiembre del año 2011, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 14 DE MAYO DE 2013.
+
+Artículo Único. El presente Decreto iniciará su vigencia al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
