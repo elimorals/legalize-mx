@@ -4,7 +4,7 @@ identifier: "LGEEPA"
 country: "mx"
 rank: "ley_general"
 publication_date: "1988-01-28"
-last_updated: "2012-06-04"
+last_updated: "2013-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=225&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGEEPA"
 
 LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE MAYO DE 2013.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 28 de enero de 1988.
 
@@ -567,6 +567,14 @@ En la planeación y realización de las acciones a cargo de las dependencias y e
 > <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2003)</small>
 
 ARTICULO 17 BIS.- La Administración Pública Federal, el Poder Legislativo Federal y el Poder Judicial de la Federación, expedirán los manuales de sistemas de manejo ambiental, que tendrán por objeto la optimización de los recursos materiales que se emplean para el desarrollo de sus actividades, con el fin de reducir costos financieros y ambientales.
+
+> <small>(ADICIONADO, D.O.F. 15 DE MAYO DE 2013)</small>
+
+ARTICULO 17 TER.- Las dependencias de la Administración Pública Federal, el Poder Legislativo Federal y el Poder Judicial de la Federación, instalarán en los inmuebles a su cargo, un sistema de captación de agua pluvial, debiendo atender los requerimientos de la zona geográfica en que se encuentren y la posibilidad física, técnica y financiera que resulte conveniente para cada caso. Esta se utilizará en los baños, las labores de limpieza de pisos y ventanas, el riego de jardines y árboles de ornato.
+
+La instalación del sistema de captación de agua pluvial en aquellos inmuebles a cargo de las dependencias de la Administración Pública Federal, el Poder Legislativo Federal y el Poder Judicial de la Federación, declarados monumentos artísticos e históricos en términos de lo dispuesto por la Ley Federal de Monumentos y Zonas Arqueológicos, Artísticos e Históricos se llevará a cabo bajo la rigurosa supervisión de expertos del Instituto Nacional de Antropología e Historia o del Instituto Nacional de Bellas Artes, según corresponda, con objeto de evitar afectaciones a dichos inmuebles.
+
+Para efectos de lo dispuesto en el presente artículo, por agua pluvial se entiende aquella que proviene de la lluvia, el granizo y la nieve.
 
 ###### ARTICULO 18.
 
@@ -3665,3 +3673,13 @@ D.O.F. 4 DE JUNIO DE 2012.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. El Titular del Poder Ejecutivo Federal, en un plazo no mayor a tres años posteriores a la entrada en vigor del presente Decreto, implementará un sistema nacional de monitoreo, registro y verificación, con el fin de evaluar y sistematizar la reducción de emisiones derivadas de acciones de prevención y combate de la deforestación y degradación de los ecosistemas forestales (REDD+), al que se hace referencia en la fracción IX del artículo 45 del presente Decreto.
+
+D.O.F. 15 DE MAYO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor en el siguiente ejercicio fiscal que corresponda a su publicación en el Diario Oficial de la Federación, debiendo los órganos correspondientes incluir las previsiones en sus anteproyectos de presupuesto.
+
+###### ARTÍCULO SEGUNDO.
+
+Las dependencias de la Administración Pública Federal, el Poder Legislativo Federal y el Poder Judicial de la Federación contarán con un plazo no mayor a trescientos sesenta días naturales para llevar a cabo la instalación del sistema de captación de agua pluvial a que se refiere el artículo 17 TER de esta Ley.
