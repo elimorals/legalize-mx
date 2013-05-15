@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-responsabilidades-de-los-servidores-publicos-del-8198"
 country: "mx"
 rank: "ley"
 publication_date: "1984-03-03"
-last_updated: "2010-12-16"
+last_updated: "2013-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8198&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAM"
 ---
 # LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE TAMAULIPAS
 
-LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE TAMAULIPAS
+LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2013.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 3 de marzo de 1984.
 
@@ -163,7 +163,7 @@ Las sanciones respectivas se aplicarán en un plazo no mayor de un año a partir
 
 Corresponde al Congreso local instruir el procedimiento relativo al juicio político, actuando como Organo de Acusación y al Supremo Tribunal de Justicia del Estado fungir como Jurado de Sentencia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 11.
 
@@ -399,7 +399,7 @@ SUJETOS DE RESPONSABILIDADES Y OBLIGACIONES DEL SERVIDOR PUBLICO.
 
 Incurren en responsabilidad administrativa los servidores públicos a que se refiere el Artículo 2o. de ésta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE FEBRERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE FEBRERO DE 2002)</small>
 
 ###### ARTICULO 47.
 
@@ -453,9 +453,21 @@ XX.- Informar al superior jerárquico de todo acto u omisión de los servidores 
 
 Cuando el planteamiento que formule el servidor público a su superior jerárquico deba ser comunicado a la Contraloría Gubernamental, el superior procederá a hacerlo sin demora, bajo su estricta responsabilidad, poniendo el trámite en conocimiento del subordinado interesado. Si el superior jerárquico omite la comunicación a la Contraloría, el subordinado podrá practicarla directamente informando a su superior acerca de este acto;
 
-XXI.- Cumplir con cualquiera disposición jurídica relacionada con el servicio público; y
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2013)</small>
 
-XXII.- Las demás que le impongan las leyes y reglamentos.
+XXI.- Cumplir con cualquier disposición jurídica relacionada con el servicio público;
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2013)</small>
+
+XXII.- Responder las recomendaciones que le presente la Comisión de Derechos Humanos del Estado de Tamaulipas y, en el supuesto de que se decida no aceptar o no cumplir determinada recomendación deberá hacer pública su negativa, fundándola y motivándola en los términos de lo dispuesto por el Apartado B del artículo 102 de la Constitución Política de los Estados Unidos Mexicanos, el artículo 126 de la Constitución Política del Estado de Tamaulipas y la Ley de la Comisión de Derechos Humanos del Estado de Tamaulipas;
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2013)</small>
+
+XXIII.- Atender a los llamados del Congreso del Estado para comparecer a explicar el motivo de su negativa a aceptar o cumplir las recomendaciones de la Comisión de Derechos Humanos del Estado de Tamaulipas, en términos de lo dispuesto por el Apartado B del artículo 102 de la Constitución Política de los Estados Unidos Mexicanos, el artículo 126 de la Constitución Política del Estado de Tamaulipas y la Ley de la Comisión de Derechos Humanos del Estado de Tamaulipas; y
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2013)</small>
+
+XXIV.- Las demás que le impongan las leyes y reglamentos.
 
 > <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2002)</small>
 
@@ -477,7 +489,7 @@ En las dependencias y entidades de la Administración Pública, se establecerán
 
 La Contraloría Gubernamental establecerá las normas y procedimientos para que las instancias del público sean atendidas y resueltas con eficiencia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE FEBRERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE FEBRERO DE 2002)</small>
 
 ###### ARTICULO 50.
 
@@ -543,7 +555,7 @@ En caso de aplicación de sanciones económicas por beneficios obtenidos y daño
 
 Por salario mínimo se entenderá el que rija en la Capital del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE FEBRERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE FEBRERO DE 2002)</small>
 
 ###### ARTICULO 56.
 
@@ -613,7 +625,7 @@ Si de las investigaciones y auditorías que realice la Contraloría Gubernamenta
 
 En los ámbitos de sus respectivas competencias, la dependencia y la Contraloría Gubernamental, podrán abstenerse de sancionar al infractor por una sola vez, cuando lo estimen pertinente y mediante la justificación de la causa de la abstención, siempre que se trate de hechos que no revistan gravedad ni constituyan delito, el daño causado no exceda de cien veces al salario mínimo diario vigente en la capital del Estado y lo ameriten los antecedentes y circunstancias del infractor.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE FEBRERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE FEBRERO DE 2002)</small>
 
 ###### ARTICULO 64.
 
@@ -723,7 +735,7 @@ Las sanciones económicas que se impongan constituirán créditos fiscales a fav
 
 Si el servidor público presunto responsable confesare su responsabilidad por el incumplimiento de las obligaciones a que hace referencia la presente Ley, se procederá de inmediato a dictar resolución, a no ser que quien conoce del procedimiento disponga la recepción de pruebas para acreditar la veracidad de la confesión. En caso de que se acepte la plena validez probatoria de la confesión, se impondrá al interesado dos tercios de la sanción aplicable, si es de naturaleza económica, pero en lo que respecta a indemnización, ésta en todo caso deberá ser suficiente para cubrir los daños y perjuicios causados, y siempre deberá restituirse cualquier bien o producto que se hubiese percibido con motivo de la infracción. Quedará a juicio de quien resuelve disponer o no la suspensión, separación o inhabilitación.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE FEBRERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE FEBRERO DE 2002)</small>
 
 ###### ARTICULO 77.
 
@@ -771,7 +783,7 @@ III.- La Contraloría Gubernamental para los servidores públicos adscritos a la
 
 IV.- El Ejecutivo del Estado, en tratándose de los servidores públicos de confianza de la Contraloría Gubernamental.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE FEBRERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE FEBRERO DE 2002)</small>
 
 ###### ARTICULO 80.
 
@@ -837,7 +849,7 @@ Tratándose de bienes inmuebles, la Contraloría Gubernamental o la Junta de Coo
 
 En el ámbito de su competencia y cuando los signos exteriores de riqueza sean ostensibles y notoriamente superiores a los ingresos lícitos que pudiera tener un servidor públicos (sic), previo acuerdo del Ejecutivo debidamente refrendado, la Contraloría Gubernamental podrá disponer mediante acuerdo fundado y motivado la práctica de visita de inspección y auditoría. Cuando estos actos requieran orden de autoridad judicial, dicha dependencia hará ante ésta la solicitud correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE FEBRERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE FEBRERO DE 2002)</small>
 
 ###### ARTICULO 85.
 
@@ -917,7 +929,7 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 
 Dado en el Palacio del Poder Ejecutivo; en Ciudad Victoria, capital del Estado de Tamaulipas, a primero de marzo de mil novecientos ochenta y cuatro.- El Gobernador Constitucional del Estado, DR. EMILIO MARTINEZ MANAUTOU.- El Subsecretario General de Gobierno Encargado del Despacho por Ministerio de Ley, LIC. JESUS LAVIN SANTOS DEL PRADO.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 19 DE ABRIL DE 2000
 
@@ -964,3 +976,9 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTICULO SEGUNDO.
 
 El personal que se encuentre comprendido en el párrafo 9 del inciso g) del apartado A del artículo 4° de la Ley del Trabajo de los Servidores Públicos del Estado de Tamaulipas será objeto de los procesos de evaluación y control de confianza que determine el Consejo Estatal de Seguridad Pública. Quienes a la fecha de entrada en vigor de este Decreto tengan un nombramiento de base podrán solicitar su reubicación a un área no vinculada a la organización y funcionamiento de las instituciones policiales y de procuración de justicia. Al personal que hubiere tenido nombramiento de base y continúe al servicio de las instituciones policiales y de procuración de justicia, les serán reconocidas su antigüedad y demás derechos generados para efectos de jubilación y pensión.
+
+P.O. 15 DE MAYO DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
