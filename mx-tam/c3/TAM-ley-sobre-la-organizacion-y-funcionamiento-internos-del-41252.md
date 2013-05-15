@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2013-05-07"
+last_updated: "2013-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2013.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -577,13 +577,17 @@ r) Derechos Humanos;
 
 s) Equidad y Género;
 
-> <small>(REFORMADO, P.O. 18 DE ENERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2013)</small>
 
-t) Asuntos Fronterizos y Migratorios; y
+t) Asuntos Fronterizos y Migratorios;
 
-> <small>(REFORMADO, P.O. 18 DE ENERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2013)</small>
 
-u) Atención a Grupos Vulnerables.
+u) Atención a Grupos Vulnerables; y
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2013)</small>
+
+v) Recurso Agua.
 
 3. La competencia de las comisiones enunciadas en el párrafo anterior se corresponde, en lo general, con las otorgadas a las dependencias de la administración pública del Estado en esas esferas.
 
@@ -627,9 +631,9 @@ f) De la Medalla al Mérito "Luis García de Arellano", a cargo de la recepción
 
 ###### ARTICULO 39.
 
-> <small>(REFORMADO, P.O. 18 DE ENERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2013)</small>
 
-1. Las comisiones ordinarias se constituyen durante el primer mes de ejercicio de la Legislatura, podrán tener hasta ocho integrantes y su encargo será por el término de la propia Legislatura.
+1. Las comisiones ordinarias se constituyen normalmente durante el primer mes de ejercicio de la Legislatura, podrán tener hasta ocho integrantes y su encargo será por el término de la propia Legislatura. Ningún diputado podrá pertenecer a más de nueve comisiones, salvo que se trate de la Comisión Instructora, de la comisión a que se refiere el artículo 128, fracción II, del Código Electoral para el Estado de Tamaulipas o de comisiones especiales.
 
 Ningún diputado podrá pertenecer a más de ocho comisiones, salvo que se trate de la Comisión Instructora o de una comisión especial.
 
@@ -970,6 +974,10 @@ ARTICULO 66 BIS.
 1. La Unidad de Información Pública del Congreso del Estado, realizará sus funciones con base en la Ley de Transparencia y Acceso a la Información Pública del Estado de Tamaulipas, y ejercerá sus atribuciones legales orientada por las bases regulatorias que establezca el Reglamento que al efecto se expida en esta materia.
 
 2. La Unidad de Información Pública dependerá del Presidente de la Mesa Directiva y, en los recesos, del Presidente de la Diputación Permanente, debiendo desarrollar sus funciones bajo el acuerdo y supervisión de dichos titulares, en los términos que establezcan las disposiciones legales y reglamentarias respectivas.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2013)</small>
+
+3. Los costos de reproducción y envió de información solicitada a la Unidad de Información Pública serán cubiertos por el solicitante, en términos de lo previsto en la Ley de Hacienda y mediante los mecanismos administrativos que al efecto se establezcan.
 
 > <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2006)</small>
 
@@ -2586,3 +2594,23 @@ El presente Decreto entrará en vigor a partir de su expedición y se publicará
 ###### ARTÍCULO SEGUNDO.
 
 Los actuales Consejeros de la Comisión de Derechos Humanos del Estado de Tamaulipas, en aptitud de ser reelectos al cargo, deberán sujetarse al procedimiento previsto en el presente Decreto.
+
+P.O. 15 DE MAYO DE 2013.
+
+DECRETO No. LXI-849 POR EL QUE SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 66 BIS DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir de su expedición y se publicará en el Periódico Oficial del Estado.
+
+P.O. 15 DE MAYO DE 2013.
+
+DECRETO No. LXI-850 POR EL QUE SE REFORMAN LOS ARTÍCULOS 35, PÁRRAFO 2, INCISOS T) Y U), Y 39, PÁRRAFO 1; Y SE ADICIONA EL ARTÍCULO 35, PÁRRAFO 2, CON UN INCISO V); DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir de su expedición, y se publicará en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a este Decreto.
