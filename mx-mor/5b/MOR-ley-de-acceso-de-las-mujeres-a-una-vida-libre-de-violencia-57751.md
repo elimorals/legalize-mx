@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5775
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-05"
-last_updated: "2011-09-01"
+last_updated: "2013-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 5 de diciembre de 2007.
 
@@ -59,9 +59,11 @@ Consecuentemente los municipios, en el ámbito de sus respectivas competencias, 
 
 Todos los mecanismos, medidas, disposiciones y protocolos que se deriven de la presente ley, buscarán eliminar las diversas modalidades y tipos de la violencia contra las mujeres, que representan un obstáculo en todas y cada una de las esferas públicas y privadas donde pretendan desarrollarse, dando debido y cabal cumplimiento a la legislación nacional sobre la materia y a los instrumentos internacionales suscritos y ratificados por el Estado Mexicano.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2013)</small>
+
 ###### Artículo 4.
 
-Para los efectos de la presente ley se entenderá por:
+Para los efectos de la presente Ley se entenderá:
 
 I.- Ley: La Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Morelos;
 
@@ -115,9 +117,13 @@ XXV.- Daño: Es la afectación o menoscabo que sufre una persona en su integrida
 
 XXVI.- Misoginia: Son conductas de odio hacia la mujer y se manifiesta en actos violentos y crueles contra ella por el hecho de ser mujer;
 
-XXVII.- Celotipia: Es la conducta de celos dirigidos a controlar, manipular y someter la voluntad de una persona a la propia y que genera un daño; y
+XXVII.- Celotipia: Es la conducta de celos dirigidos a controlar, manipular y someter la voluntad de una persona a la propia y que genera un daño; y (sic)
 
 XXVIII.- Alerta de violencia contra las mujeres: Es el conjunto de acciones gubernamentales de emergencia para enfrentar y erradicar la violencia feminicida en un territorio determinado, ya sea ejercida por individuos o por la propia comunidad.
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2013)</small>
+
+XXIX.- Noviazgo.- Es una vinculación que se establece entre dos personas que se sienten atraídas mutuamente; representa una oportunidad para conocerse, una etapa de experimentación y de búsqueda, con actividades, gustos y pensamientos en común, y es un preámbulo para una relación duradera.
 
 ###### Artículo 5.
 
@@ -241,11 +247,25 @@ V.- La precaución razonable de seguridad que requieren las mujeres, que debe re
 
 Violencia feminicida es la forma extrema de violencia contra las mujeres, producto de la violación de sus derechos humanos, en los ámbitos público y privado conformada por el conjunto de conductas misóginas que pueden culminar en homicidio y otras formas de muerte violenta de mujeres.
 
-### CAPÍTULO VI. DE LOS TIPOS DE VIOLENCIA CONTRA LAS MUJERES
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE MAYO DE 2013)</small>
+
+### CAPÍTULO VI. DE LA VIOLENCIA EN EL NOVIAZGO
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2013)</small>
+
+###### Artículo 19 Bis.
+
+Violencia en el noviazgo: son todos los actos de violencia física, sexual, moral o psicológica que se presenten dentro del noviazgo, con la intención de dañar, dominar y ejercer poder en contra de la otra persona.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2013)</small>
+
+###### Artículo 19 Ter.
+
+El Estado y los Municipios participaran de manera conjunta en la implementación de Políticas Públicas para prevenir, identificar, atender y resolver esta modalidad de violencia, realizando acciones y programas de prevención de la violencia en el noviazgo en adolescentes y jóvenes, a través de mecanismos de información y campañas para erradicar los roles, estereotipos sexistas, las prácticas de resolución violentas de conflictos, la misoginia y la legitimación social al uso de la violencia.
+
+### CAPÍTULO VII. DE LOS TIPOS DE VIOLENCIA CONTRA LAS MUJERES
 
 ### CAPÍTULO I. DE LOS MODELOS DE PREVENCIÓN, ATENCIÓN, SANCIÓN Y ERRADICACIÓN Y DE LOS EJES DE ACCIÓN
-
-### CAPÍTULO II. DE LOS MODELOS DE ATENCIÓN
 
 ###### Artículo 20.
 
@@ -265,7 +285,7 @@ VI.- Cualesquiera otras formas análogas que lesionen o sean susceptibles de da�
 
 ## TÍTULO TERCERO
 
-### CAPÍTULO III. DE LOS MODELOS DE PREVENCIÓN
+### CAPÍTULO II. DE LOS MODELOS DE ATENCIÓN
 
 ###### Artículo 21.
 
@@ -315,7 +335,7 @@ VI.- Metas cualitativas y cuantitativas, y
 
 VII.- Mecanismos de evaluación y medición.
 
-### CAPÍTULO IV. DE LOS MODELOS DE SANCIÓN
+### CAPÍTULO III. DE LOS MODELOS DE PREVENCIÓN
 
 #### SECCIÓN PRIMERA. DEL GOBIERNO DEL ESTADO DE MORELOS
 
@@ -413,7 +433,7 @@ La permanencia de las mujeres en los refugios no podrá ser mayor a tres meses a
 
 #### SECCIÓN TERCERA. DE LA SECRETARÍA DE FINANZAS Y PLANEACIÓN
 
-### CAPÍTULO V. DE LOS MODELOS DE ERRADICACIÓN
+### CAPÍTULO IV. DE LOS MODELOS DE SANCIÓN
 
 ###### Artículo 33.
 
@@ -431,7 +451,7 @@ IV.- La capacitación psicológica y jurídica transversal de los servidores pú
 
 La identificación de los factores protectores por cada uno de los tipos de victimización, a partir del impacto que genera la violencia contra las mujeres, se integrará a los modelos preventivos de detección que se efectúen, sin perjuicio de las estrategias de difusión y visibilización de la violencia contra las mujeres y sus consecuencias individuales y colectivas.
 
-### CAPÍTULO I. DE LA ALERTA DE VIOLENCIA CONTRA LAS MUJERES Y DEL AGRAVIO COMPARADO
+### CAPÍTULO V. DE LOS MODELOS DE ERRADICACIÓN
 
 ###### Artículo 35.
 
@@ -445,7 +465,7 @@ III.- Los procedimientos ágiles que no mermen el empoderamiento de las mujeres,
 
 IV.- El registro de los modelos ante la Secretaría Ejecutiva del Sistema.
 
-### CAPÍTULO II. DE LAS ÓRDENES DE PROTECCIÓN
+### CAPÍTULO I. DE LA ALERTA DE VIOLENCIA CONTRA LAS MUJERES Y DEL AGRAVIO COMPARADO
 
 ###### Artículo 36.
 
@@ -459,7 +479,9 @@ III.- La armonización normativa y judicial que revise las normas y la interpret
 
 ## TÍTULO CUARTO. DE LOS MECANISMOS GARANTES
 
-### CAPÍTULO I. DEL SISTEMA ESTATAL
+### CAPÍTULO II. DE LAS ÓRDENES DE PROTECCIÓN
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2013)</small>
 
 ###### Artículo 37.
 
@@ -481,23 +503,51 @@ Para los efectos anticipados de cualquier agravio comparado, la Consejería Jur�
 
 La Mesa de Armonización legislativa a que hace alusión el artículo anterior de esta ley, será parte del Sistema Estatal, ante quién rendirá informe anual de las iniciativas de ley que presenten el Congreso del Estado o el Ejecutivo Estatal, con motivo de la armonización normativa sistemática que se realice para erradicar la discriminación y la violencia contra las mujeres.
 
-### CAPÍTULO II. DEL PROGRAMA ESTATAL
+### CAPÍTULO I. DEL SISTEMA ESTATAL
 
 ###### Artículo 41.
 
-Las órdenes de protección son personalísimas e intransferibles, de urgente aplicación para proteger a las mujeres de la violencia en los ámbitos familiar o sexual, consecuentemente no dictan ni causan estado sobre los bienes o derechos de los probables responsables o infractores y durarán por el tiempo que determine la legislación aplicable.
+Las órdenes de protección son personalísimas e intransferibles, son actos de aplicación urgente en función del interés superior de la víctima de violencia en el ámbito familiar y sexual, son fundamentalmente precautorias y cautelares. Deberán otorgarse por la autoridad o autoridades competentes, inmediatamente que conozcan de los hechos probables constitutivos de infracciones o delitos que impliquen violencia contra las mujeres.
+
+Consecuentemente no dicta ni causan estado sobre los bienes o derechos de los probables responsables o infractores y duraran por el tiempo que determine la legislación aplicable.
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2013)</small>
 
 ###### Artículo 42.
 
-Las órdenes de protección, emergentes y preventivas que consagra la Ley General, serán aplicadas e instrumentadas por el Sistema Estatal para el Desarrollo Integral de la Familia a través de la Procuraduría de la Defensa del Menor y la Familia, en tanto que las penales o familiares, por el Juez de la materia.
+Las órdenes de protección, señaladas por la presente Ley podrán ser:
 
-En el caso de los municipios la aplicación de las órdenes de protección corresponde a la delegación municipal de la Procuraduría de la Defensa del Menor y la Familia y en caso de no existir dicha delegación, serán aplicadas por el Síndico, ambos casos con el auxilio de la policía municipal respectiva de conformidad con el procedimiento y observancia que determine el reglamento o acuerdo conducente que al efecto se emita.
+I.- De emergencia: Se basan principalmente en la desocupación inmediata por el agresor del domicilio conyugal, o donde habite la victima independientemente de la acreditación de propiedad o posesión del inmueble, aún en los casos de arrendamiento del mismo; prohibición inmediata al probable responsable a acercarse al domicilio, lugar de trabajo, de estudios, del domicilio de las y los ascendientes o descendientes o cualquier otro que frecuente la víctima, prohibición del agresor a intimidar o molestar a la víctima en su entorno social, así como a cualquier integrante de su familia y el reingreso de la víctima al domicilio una vez que se salvaguarde su seguridad.
 
-En caso de denuncia penal y dentro de la etapa de averiguación previa, la aplicación de las órdenes de protección corresponde al Ministerio Público, con auxilio de la policía, de conformidad con el procedimiento y observancia que determine el reglamento o acuerdo conducente que para tal efecto se emita.
+II.- Preventivas: Se dan a través de la retención de armas de fuego, armas punzocortantes y punzocontundentes que independiente de su uso, hayan sido empleadas para amenazar o lesionar a la víctima o terceros protegidos del agresor, inventario de bienes muebles o inmuebles de propiedad común, uso y goce de bienes muebles que se encuentren en el inmueble que sirva de domicilio de la víctima, entrega de documentos de la víctima y de sus hijas e hijos, acceso al domicilio en común de autoridades que auxilien a la víctima a sacar sus pertenencias y las de sus hijas e hijos, auxilio policiaco de reacción inmediata, conceder a la víctima el resguardo y vigilancia policial que sea necesario para su seguridad y a brindar servicios reeducativos gratuitos, con perspectiva de género al agresor en instituciones públicas debidamente acreditadas.
+
+III.- De Naturaleza Civil: Son todas aquellas que proporcionan alguna suspensión temporal al agresor a la convivencia con sus descendientes, prohibición al agresor a enajenar o hipotecar bienes de su propiedad cuando se trate del domicilio conyugal, posesión exclusiva de la víctima sobre el inmueble que sirvió de domicilio, embargo preventivo de bienes al agresor que deberán inscribirse en el Registro Público de la propiedad a fin de garantizar la pensión alimenticia y obligar a proporcionar alimentos de manera inmediata.
+
+Las órdenes de protección de emergencia y preventivas tendrán una temporalidad no mayor de 72 horas; las órdenes de emergencia y las preventivas deberán expedirse dentro de las 8 horas siguientes ambas al momento del conocimiento de los hechos que las generan.
+
+Así mismo, los mayores de 12 años de edad tendrán la facultad para solicitar a las autoridades competentes designen a un representante para sus solicitudes y acciones, a efecto de que las autoridades correspondientes puedan de manera oficiosa dar el otorgamiento de las ordenes, quienes sean menores de 12 años, sólo podrán solicitar las ordenes a través de sus representantes legales.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2013)</small>
+
+###### Artículo 42 Bis.
+
+Corresponde a las autoridades competentes en los ámbitos estatal y municipal, otorgar órdenes de emergencia y preventivas de la presente Ley, quienes deberán tomar en consideración lo siguiente:
+
+I. El riesgo y peligro existente.
+
+II. La seguridad de la víctima.
+
+III. Los elementos con que se cuente.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2013)</small>
+
+###### Artículo 42 Ter.
+
+Las autoridades jurisdiccionales serán las competentes para valorar las órdenes y la determinación de las medidas de protección en sus resoluciones o sentencias según sea el caso. De acuerdo con los procedimientos en los juicios en materia civil, familiar o penal, que se estén ventilando
 
 ## TÍTULO QUINTO. DEL SISTEMA ESTATAL Y PROGRAMA ESTATAL
 
-### CAPÍTULO I. DE LA DISTRIBUCIÓN DE COMPETENCIAS
+### CAPÍTULO II. DEL PROGRAMA ESTATAL
 
 ###### Artículo 43.
 
@@ -541,7 +591,7 @@ Dicho Sistema Estatal será presidido por el Secretario de Gobierno, recayendo l
 
 Al Sistema Estatal podrán ser invitados los servidores públicos o miembros de la sociedad civil que sea procedente, a las sesiones ordinarias o extraordinarias, de conformidad con lo señalado en el reglamento de la ley.
 
-### CAPÍTULO II. DE LOS MUNICIPIOS Y DEL INSTITUTO DE DESARROLLO Y FORTALECIMIENTO MUNICIPAL
+### CAPÍTULO I. DE LA DISTRIBUCIÓN DE COMPETENCIAS
 
 ###### Artículo 48.
 
@@ -588,6 +638,8 @@ VII.- Las estadísticas existentes en el Estado sobre la violencia contra las mu
 VIII.- Los avances en materia de armonización normativa y judicial, y
 
 IX.- La operación de las dependencias e instituciones encargadas de la atención de la violencia contra las mujeres.
+
+### CAPÍTULO II. DE LOS MUNICIPIOS Y DEL INSTITUTO DE DESARROLLO Y FORTALECIMIENTO MUNICIPAL
 
 ## TÍTULO SEXTO
 
@@ -1005,7 +1057,7 @@ LIC. SERGIO ALVAREZ MATA
 
 RÚBRICAS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 1 DE SEPTIEMBRE DE 2011.
 
@@ -1024,3 +1076,23 @@ La Procuraduría General de Justicia del Estado de Morelos deberá emitir, en un
 ###### ARTÍCULO CUARTO.
 
 La Procuraduría General de Justicia del Estado de Morelos deberá emitir, en un plazo no mayor a 60 días naturales a partir de la entrada en vigor del presente Decreto, un acuerdo por el que se establezcan los lineamientos para la investigación con debida diligencia de los feminicidios.
+
+P.O. 15 DE MAYO DE 2013.
+
+DECRETO No. 491 POR EL QUE SE REFORMAN LOS ARTÍCULOS 41 Y 42, Y SE ADICIONAN LOS ARTÍCULOS 42 BIS Y 42 TER DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE MORELOS.
+
+Artículo Primero.- El presente decreto iniciará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Estado de Morelos.
+
+Artículo Segundo.- Remítase al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva.
+
+Artículo Tercero.- Se derogan todas las disposiciones que se opongan con lo dispuesto por el presente decreto.
+
+P.O. 15 DE MAYO DE 2013.
+
+DECRETO No. 493 POR EL QUE SE ADICIONA LA FRACCIÓN XXIX DEL ARTÍCULO 4, EL CAPÍTULO VI DENOMINADO "DE LA VIOLENCIA EN EL NOVIAZGO" QUE CONTIENE LOS ARTÍCULOS 19 BIS Y 19 TER, RECORRIÉNDOSE EL CAPITULO VI PARA SER EL CAPITULO VII DENOMINADO "DE LOS TIPOS DE VIOLENCIA CONTRA LAS MUJERES", DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE MORELOS.
+
+Artículo Primero.- El presente decreto iniciará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Estado de Morelos.
+
+Artículo Segundo.- Remítase al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva.
+
+Artículo Tercero.- Se derogan todas las disposiciones que se opongan con lo dispuesto por el presente decreto.
