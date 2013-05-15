@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-hacienda-para-el-estado-de-tamaulipas-59131"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2013-01-17"
+last_updated: "2013-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "TAM"
 
 LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2012.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 17 DE ENERO DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2013.
 
 Ley publicada en el Anexo al Extraordinario No. 5 del Periódico Oficial del Estado de Tamaulipas, el lunes 31 de diciembre de 2007.
 
@@ -2493,9 +2491,13 @@ Por los servicios prestados por los entes públicos señalados en el artículo 5
 
 1, incisos a) al f) de la Ley de Transparencia y Acceso a la Información Pública del Estado de Tamaulipas, en el ejercicio de la libertad de información pública, se causarán conforme a lo siguiente:
 
-I. Por la expedición de copia simple, se pagará 5 por ciento de un día de salario mínimo, por hoja;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2013)</small>
 
-II. Por expedición de copia certificada, se pagará conforme lo establecido en el artículo 59, fracción I de esta ley;
+I. Por la expedición de copia simple, se pagará 3 por ciento de un día de salario mínimo, por hoja;
+
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2013)</small>
+
+II. Por expedición de copia certificada, se pagará 5 por ciento de un día de salario mínimo, por hoja.
 
 III. Por expedición de copia a color, se pagará 40 por ciento de un día de salario mínimo por hoja;
 
@@ -3004,3 +3006,9 @@ El presente Decreto se publicará en el Periódico Oficial del Estado, y entrar�
 ###### ARTÍCULO SEGUNDO.
 
 En tratándose de la expedición de la licencia para conducir a que se refieren las fracciones XI y XVII del artículo 73 de la Ley de Hacienda para el Estado de Tamaulipas, se entenderá que su vigencia concluye hasta el día y mes correspondiente a la fecha de nacimiento del titular de la misma, posterior al vencimiento a que hace referencia el propio artículo 73.
+
+P.O. 15 DE MAYO DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
