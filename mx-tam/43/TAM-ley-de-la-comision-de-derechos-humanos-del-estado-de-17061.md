@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-la-comision-de-derechos-humanos-del-estado-de-17061"
 country: "mx"
 rank: "ley"
 publication_date: "1994-02-05"
-last_updated: "2012-04-19"
+last_updated: "2013-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17061&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 5 de febrero de 1994.
 
@@ -43,9 +43,11 @@ LEY DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE TAMAULIPAS
 
 ### CAPITULO UNICO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2013)</small>
+
 ###### ARTICULO 1.
 
-La presente Ley es de orden público e interés social, reglamentaria del Artículo 126 de la Constitución Política del Estado.
+La presente ley es de orden público e interés social, reglamentaria de los artículos 58 fracción XVIII y 126 de la Constitución Política del Estado.
 
 > <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2002)</small>
 
@@ -79,13 +81,11 @@ La Comisión será independiente en el desempeño de sus funciones y para la ado
 
 ### CAPITULO I. INTEGRACION Y FUNCIONES DE LA COMISION
 
-> <small>(F. DE E., P.O. 23 DE MARZO DE 1994)</small>
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2013)</small>
 
 ###### ARTICULO 7.
 
-La Comisión estará integrada por un Presidente, un Secretario Técnico, hasta tres Visitadores Generales y el personal profesional técnico y administrativo necesario para la realización de sus funciones.
-
-La Comisión, para el mejor desempeño de sus funciones, contará con un Consejo.
+La Comisión estará integrada por el titular de la Presidencia, un Consejo Consultivo, un Secretario Técnico, tres Visitadores Generales y el personal profesional técnico y administrativo necesario para la realización de sus funciones.
 
 ###### ARTICULO 8.
 
@@ -111,7 +111,9 @@ VII.- Promover el estudio, la enseñanza y la difusión de los derechos humanos 
 
 VIII.- Proponer a los órganos competentes la expedición y reformas de normas jurídicas que permitan una protección eficaz de los derechos humanos;
 
-IX.- Elaborar y ejecutar programas preventivos en materia de derechos humanos;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2013)</small>
+
+IX.- Elaborar y ejecutar programas preventivos en materia de derechos humanos; incluyendo un programa anual de seguimiento a las leyes, o normas generales que guarden relación con los derechos humanos;
 
 X.- Celebrar convenios con autoridades y organismos públicos y privados para lograr una eficaz protección de los derechos humanos;
 
@@ -119,7 +121,17 @@ XI.- Realizar todas las acciones que sean necesarias para fomentar la cultura y 
 
 XII.- Expedir y reformar, en su caso, su reglamento interno;
 
-XIII.- Las demás que le confieran los ordenamientos jurídicos.
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2013)</small>
+
+XIII.- Solicitar al Congreso del Estado que llame a comparecer a los servidores públicos que se nieguen a responder las recomendaciones emitidas por ella, con objeto de que expliquen el motivo de su negativa;
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2013)</small>
+
+XIV.- Ejercitar, por conducto de su Presidente, acciones de Inconstitucionalidad ante la Suprema Corte de Justicia de la Nación, en términos del inciso g) de la fracción II del artículo 105 de la Constitución Federal; y
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2013)</small>
+
+XV.- Las demás que le confieran los ordenamientos jurídicos.
 
 ###### ARTICULO 9.
 
@@ -129,7 +141,7 @@ I.- Actos y resoluciones de organismos y autoridades electorales;
 
 II.- Resoluciones de naturaleza jurisdiccional;
 
-III.- Conflictos de carácter laboral;
+III.- (DEROGADA, P.O. 15 DE MAYO DE 2013)
 
 IV.- Actos u omisiones provenientes de autoridades o servidores públicos de la Federación;
 
@@ -165,11 +177,19 @@ El Presidente, el Secretario y los Visitadores no podrán ser detenidos ni sujet
 
 El Presidente, el Secretario Técnico y los Visitadores, tendrán fe pública en las actuaciones que practiquen en el ejercicio de sus funciones.
 
-### CAPITULO II. EL CONSEJO DE LA COMISION
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE MAYO DE 2013)</small>
 
-###### ARTICULO 14.
+### CAPITULO II. DEL CONSEJO CONSULTIVO DE LA COMISIÓN
 
-El Consejo de la Comisión estará integrado por seis personas de nacionalidad mexicana, de conocida solvencia moral que se hayan distinguido por su interés y participación en el desarrollo de la sociedad tamaulipeca, los que serán designados por el Ejecutivo Estatal de las ternas propuestas por el Presidente de la Comisión y cuyos nombramientos serán sometidos a la ratificación del Congreso del Estado en Pleno. Los miembros del Consejo durarán en su cargo cuatro años y podrán ser reelectos para un siguiente período; en caso de falta o separación de un consejero, quien lo substituya complementará el período correspondiente. Estos cargos serán honoríficos.
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2013)</small>
+
+###### ARTÍCULO 14.
+
+El Consejo Consultivo de la Comisión estará integrado por seis Consejeros, quienes serán electos por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, previo procedimiento de consulta pública, que deberá ser transparente, en los términos y condiciones que determine la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado. Por cada Consejero propietario habrá un suplente.
+
+Para ser designado Consejero de la Comisión se deberán reunir los mismos requisitos que para ser titular de la Presidencia de la Comisión, excepto los establecidos en las fracciones IV y V del artículo 18 de la presente ley.
+
+Los miembros del Consejo durarán en su cargo cuatro años y podrán ser reelectos para un siguiente período; en caso de falta o separación de un Consejero, quien lo substituya complementará el período correspondiente. Estos cargos serán honoríficos.
 
 ###### ARTICULO 15.
 
@@ -197,11 +217,15 @@ El Consejo funcionará con sesiones ordinarias y extraordinarias, y quedará for
 
 Las sesiones ordinarias se verificarán trimestralmente y las extraordinarias cuando sea necesario a juicio del Presidente o a petición de tres miembros del Consejo.
 
-### CAPITULO III. DEL PRESIDENTE DE LA COMISION
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE MAYO DE 2013)</small>
+
+### CAPITULO III. DEL TITULAR DE LA PRESIDENCIA DE LA COMISIÓN
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2013)</small>
 
 ###### ARTICULO 18.
 
-Para ser designado Presidente de la Comisión se requiere:
+Para ser designado titular de la Presidencia de la Comisión se requiere:
 
 > <small>(REFORMADA, P.O. 19 DE ABRIL DE 2012)</small>
 
@@ -209,21 +233,37 @@ I.- Ser mexicano y ciudadano tamaulipeco, en pleno ejercicio de sus derechos pol
 
 II.- Ser mayor de treinta y cinco años de edad el día de su nombramiento;
 
-III.- Gozar de buena reputación y no haber sido condenado por delito doloso; y
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2013)</small>
 
-IV.- Poseer título profesional de abogado expedido por institución legalmente autorizada con una antigüedad mínima de cinco años.
+III.- Gozar de buena reputación y no haber sido condenado por delito doloso;
+
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2013)</small>
+
+IV.- Poseer título profesional de abogado expedido por institución legalmente autorizada con una antigüedad mínima de cinco años; y
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2013)</small>
+
+V.- Acreditar conocimientos y experiencia en materia de derechos humanos.
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2013)</small>
 
 ###### ARTICULO 19.
 
-El nombramiento del Presidente de la Comisión será realizado por el Titular del Poder Ejecutivo y sometido a la aprobación del Congreso del Estado, o en los recesos de éste, a la Diputación Permanente.
+El nombramiento del titular de la Presidencia de la Comisión será realizado por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, previo procedimiento de consulta pública, que deberá ser transparente en los términos y condiciones que determine la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado.
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2013)</small>
 
 ###### ARTICULO 20.
 
-El Presidente de la Comisión durará en sus funciones cuatro años y podrá ser designado exclusivamente para un siguiente período.
+El Presidente de la Comisión durará en sus funciones cuatro años y podrá ser designado exclusivamente para un siguiente período, en la misma forma de su primigenia elección.
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2013)</small>
 
 ###### ARTICULO 21.
 
-El Presidente de la Comisión sólo podrá ser destituido o separado de su cargo mediante los procedimientos previstos en los artículos 151 y 152 de la Constitución Política del Estado. En este supuesto, o en caso de ausencia temporal o de renuncia, el Presidente será substituido interinamente por el Secretario Técnico.
+El Presidente de la Comisión sólo podrá ser destituido o separado de su cargo mediante los procedimientos previstos en los artículos 151 y 152 de la Constitución Política del Estado. Cuando la ausencia sea temporal o definitiva, el Presidente será sustituido interinamente por el Secretario Técnico debiéndolo comunicar inmediatamente al Congreso del Estado.
+
+Cuando se trate de la conclusión del periodo para el que fue electo el Presidente, el Secretario Técnico deberá comunicarlo al Congreso del Estado a más tardar 60 días antes de la fecha en que concluye a fin de que se instruya el procedimiento de designación correspondiente.
 
 ###### ARTICULO 22.
 
@@ -249,9 +289,21 @@ VIII.- Enviar un informe general al Titular del Poder Ejecutivo y al Congreso de
 
 IX.- Elaborar el proyecto de presupuesto de egresos de la Comisión, con base en las previsiones de ingreso y del gasto público estatal que realice la Secretaría de Finanzas, y el respectivo informe sobre su ejercicio.
 
-X.- Celebrar en los términos de la legislación aplicable, acuerdos, bases de coordinación y convenios de colaboración con autoridades, servidores públicos y organismos de defensa de los derechos humanos, así como con instituciones educativas y asociaciones culturales, para el mejor cumplimiento de los fines de la Comisión; y
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2013)</small>
 
-XI.- Las demás que señale esta Ley u otros ordenamientos jurídicos.
+X.- Celebrar en los términos de la legislación aplicable, acuerdos, bases de coordinación y convenios de colaboración con autoridades, servidores públicos y organismos de defensa de los derechos humanos, así como con instituciones educativas y asociaciones culturales, para el mejor cumplimiento de los fines de la Comisión;
+
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2013)</small>
+
+XI.- Proponer al Consejo Consultivo el programa anual de seguimiento de leyes y decretos relativas a los derechos humanos que le presente el Presidente de la Comisión, de modo que facilite el ejercicio de sus facultades de defensa de la constitucionalidad y convencionalidad en esa materia;
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2013)</small>
+
+XII.- Determinar sobre el incumplimiento de las recomendaciones, o sobre la insuficiencia de la fundamentación y motivación de la negativa presentada por los servidores públicos responsables; y
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2013)</small>
+
+XIII.- Las demás que se señale en esta Ley u otros ordenamientos jurídicos.
 
 ### CAPITULO IV. DEL SECRETARIO TECNICO
 
@@ -463,6 +515,14 @@ La recomendación será pública y autónoma, no vinculatoria para la autoridad 
 
 En todo caso, una vez notificada la recomendación, el servidor público informará a la Comisión en un plazo de diez días hábiles si acepta o no dicha resolución y en caso afirmativo, remitirá dentro de los quince días siguientes las pruebas de su cumplimiento, pudiendo ampliarse el término cuando la naturaleza del asunto lo amerite.
 
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2013)</small>
+
+Cuando las recomendaciones emitidas no sean aceptadas o cumplidas por las autoridades o servidores públicos, éstos deberán fundar, motivar y hacer pública su negativa.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2013)</small>
+
+En los casos establecidos en el párrafo anterior, la Comisión podrá solicitar al Congreso del Estado que llame a comparecer a los servidores públicos que se nieguen a responder a las recomendaciones que emita, con objeto de que expliquen el motivo de su negativa.
+
 ###### ARTICULO 50.
 
 En los casos a que se refiere el artículo 9 de esta ley y de quejas extemporáneas, la Comisión podrá emitir opiniones en relación con los actos y omisiones provenientes de autoridades y servidores públicos que sean violatorios de derechos humanos.
@@ -624,3 +684,9 @@ El artículo décimo tercero del presente Decreto surtirá efectos jurídicos a 
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE MAYO DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
