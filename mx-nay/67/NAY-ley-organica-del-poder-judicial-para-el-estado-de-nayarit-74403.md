@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-judicial-para-el-estado-de-nayarit-74403
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-03-20"
-last_updated: "2011-06-04"
+last_updated: "2013-05-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74403&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NAY"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL PARA EL ESTADO DE NAYARIT
 
-LEY ORGANICA DEL PODER JUDICIAL PARA EL ESTADO DE NAYARIT
+LEY ORGÁNICA DEL PODER JUDICIAL PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2013.
 
 Ley publicada en la Sección Séptima del Periódico Oficial del Estado de Nayarit, el sábado 20 de marzo de 2010.
 
@@ -101,7 +101,7 @@ En los términos que dispongan las leyes, son auxiliares de la administración d
 
 11. Tutores, curadores, depositarios, albaceas, partidores, liquidadores y los interventores judiciales en las funciones encomendadas por la ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE EL ARTICULO TRANSITORIO UNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE EL ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 4 DE JUNIO DE 2011)</small>
 
@@ -402,6 +402,10 @@ Artículo 30
 Artículo 31
 
 La Sala Constitucional-Electoral, tendrá competencia para conocer y resolver los asuntos que le confiere la Constitución Política del Estado y las leyes de la materia.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2013)</small>
+
+Asimismo, en jurisdicción concurrente conforme a lo previsto en el artículo 107 fracción XII, de la Constitución Política de los Estados Unidos Mexicanos, tendrá competencia para conocer con carácter de superior jerárquico del juzgador que emita el acto, de los amparos que se promuevan por violaciones a los derechos y garantías previstas en los artículos 16, en materia penal, 19 y 20 de la propia Constitución Federal.
 
 ### CAPÍTULO III. DE LAS SALAS COLEGIADAS
 
@@ -1885,8 +1889,12 @@ Dip. Eddy Arturo Piña Ortega, Presidente.- Rúbrica.- Dip. Juan José Castellan
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit, en Tepic su capital, a los diecinueve días del mes de marzo del año dos mil diez.- Lic. Ney González Sánchez.- Rúbrica.- El Secretario General de Gobierno, Dr. Roberto Mejía Pérez.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 4 DE JUNIO DE 2011.
 
 Artículo único.- El presente Decreto entrará en vigor el día 22 de julio del 2011, y deberá publicarse en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 15 DE MAYO DE 2013.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
