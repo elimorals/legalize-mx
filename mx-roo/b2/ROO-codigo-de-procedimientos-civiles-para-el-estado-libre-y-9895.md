@@ -4,7 +4,7 @@ identifier: "ROO-codigo-de-procedimientos-civiles-para-el-estado-libre-y-9895"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-01-08"
-last_updated: "2013-04-15"
+last_updated: "2013-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9895&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2013.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el jueves 8 de enero de 1981.
 
@@ -6139,11 +6139,17 @@ II.- Las solicitudes de divorcio por mutuo consentimiento;
 
 III.- Los actos de jurisdicción que versen sobre enajenación de bienes de menores o incapacitados y transacción acerca de sus derechos, y la adopción;
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IV.- La acción de divorcio sustentada en las causales que establece el artículo 799 del Código Civil del Estado;
+IV.- (DEROGADA, P.O. 15 DE MAYO DE 2013)
 
 V.- Las rectificaciones de actas del estado civil.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2013)</small>
+
+VI.- Las solicitudes del divorcio incausado.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
 
@@ -6831,15 +6837,23 @@ Ter.- Recibidas las actuaciones, el Administrador de Gestión Judicial del Tribu
 
 En el mismo acuerdo en donde se admita el recurso, el Magistrado citará a una audiencia dentro de los cinco días hábiles siguientes, para la expresión oral de agravios, los acuerdos serán únicamente firmados por el Magistrado que realice el acuerdo.
 
-> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2013)</small>
 
 ###### Artículo 962
 
-Quater.- En dicha audiencia los recurrentes harán uso de la palabra a fin de exponer de manera breve, clara y sumaria los motivos y fundamentos que atañen a la parte o partes de la resolución recurrida, en seguida, también a través del uso de la palabra, la parte contraria intervendrá para que, si así lo desea, indique brevemente su posición respecto a lo planteado por el recurrente. El Tribunal podrá limitar el uso de la voz ante planteamientos meramente excesivos e imprecisos.
+Quater.- En dicha audiencia los recurrentes harán uso de la palabra a fin de exponer de manera breve, clara y sumaria los motivos y fundamentos que atañen a la parte o partes de la resolución recurrida, en seguida, también a través del uso de la palabra, la parte contraria intervendrá para que, si así lo desea, indique brevemente su posición respecto a lo planteado por el recurrente. El magistrado instructor podrá limitar el uso de la voz ante planteamientos meramente excesivos e imprecisos.
+
+> <small>(ADICIONADO, P.O. 30 DE NOVIEMBRE DE 2012)</small>
 
 Si el o los recurrentes no se presentaren a la audiencia, se declarará desierto el recurso.
 
-Concluido el debate, el tribunal unitario pronunciará la resolución en forma oral, el mismo día o, si no fuere posible, hasta dentro de un plazo de diez días hábiles siguientes a la celebración de la audiencia, en fecha y hora que dará a conocer a los intervinientes en la misma.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2013)</small>
+
+Concluido el debate, el magistrado instructor pronunciará la resolución en forma oral, el mismo día o, si no fuere posible, hasta dentro de un plazo de diez días hábiles siguientes a la celebración de la audiencia, en fecha y hora que dará a conocer a los intervinientes en la misma.
 
 (REUBICADO [N. DE E. ANTES CAPÍTULO VI], P.O. 30 DE NOVIEMBRE DE 2012)
 
@@ -7088,6 +7102,90 @@ En el caso que en el convenio que se apruebe decrete el pago de alimentos, deber
 ###### Artículo 985.
 
 Ejecutoriada la sentencia de divorcio, el Juez mandará remitir copia de ésta y del convenio aprobado, al oficial del registro civil del lugar en que el matrimonio se efectuó para que levante el acta de divorcio respectiva y haga las anotaciones correspondientes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2013)</small>
+
+###### Artículo 985
+
+Bis.- El Divorcio es incausado cuando cualquiera de los conyugues lo solicita, manifestando su voluntad de no querer continuar con el matrimonio, sin que sea necesario señalar la razón que lo motiva, el cual podrá pedirse después de un año de haberse celebrado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2013)</small>
+
+###### Artículo 985
+
+Ter.- A la solicitud de divorcio incausado, se deberá acompañar lo siguiente:
+
+l. Acta de matrimonio en copia certificada;
+
+II. Acta de nacimiento de los hijos, en copia certificada; y
+
+III. Propuesta de convenio que habrá de regular las consecuencias de la disolución del vínculo matrimonial, debiendo contener:
+
+a) La designación sobre la guarda y custodia de los hijos menores o incapaces y, el domicilio donde vivirán;
+
+b) El régimen de visita y convivencia respecto del progenitor que no ejercerá la guarda y custodia de los menores;
+
+c) La designación del cónyuge que seguirá habitando, en su caso, el domicilio donde se haga vida en común;
+
+d) La cantidad que por concepto de alimentos se propone, para atender las necesidades de los hijos y en su caso del cónyuge a quien deba darse alimentos, la forma, lugar y temporalidad para hacerlo, los elementos que permitan al Juez fijar la pensión propuesta, así como la garantía para asegurar su cumplimiento;
+
+e) La manera de administrar los bienes de la sociedad conyugal durante el procedimiento y hasta que se liquide, así como la forma de liquidarla, después de decretado el divorcio; y
+
+f) Tratándose del régimen de separación de bienes, la forma de repartir los bienes adquiridos durante el matrimonio, en los términos previstos por la Sección Tercera del Capítulo IV del Título Primero de la Segunda Parte del Libro Tercero del Código Civil del Estado.
+
+En la solicitud, se podrá pedir la aplicación de medidas precautorias, acompañando en su caso, la documentación que se estime necesaria.
+
+Se exhibirá copia de la solicitud y documentos exhibidos para traslado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2013)</small>
+
+###### Artículo 985
+
+Quater.- Presentada la solicitud, de no existir prevención alguna, el Juez admitirá a trámite la petición, dando vista al otro cónyuge y, proveerá sobre las medidas precautorias solicitadas o las que estime necesarias para salvaguardar el interés superior de los menores o incapaces.
+
+Además, se señalará día y hora para una audiencia de avenencia que tendrá verificativo después de nueve y antes de quince días, contados a partir de la notificación del propio auto.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2013)</small>
+
+###### Artículo 985
+
+Quinquies.- En la audiencia de avenencia, el Juez tratará de conciliar a las partes, para continuar con el matrimonio. De no obtenerse la conciliación, la audiencia continuará y el Juez escuchará a las partes sobre la propuesta del convenio, en la que se podrán modificar o adicionar las cláusulas del mismo a petición de los interesados.
+
+De manifestar su conformidad con los términos del convenio y, de no haber observación alguna por el juzgador, se aprobará y elevará a la categoría de cosa juzgada, decretando la disolución del vínculo matrimonial y, en su caso, la terminación de la sociedad conyugal.
+
+La aprobación del convenio podrá ser sólo sobre los puntos en que haya consenso, respecto de los restantes se procederá conforme al precepto legal siguiente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2013)</small>
+
+###### Artículo 985
+
+Sexties.- De no llegar a un acuerdo sobre la totalidad de los puntos del convenio o de no asistir a la audiencia respectiva el cónyuge citado, se decretará la disolución del vínculo matrimonial y, en su caso, la terminación de la sociedad conyugal; apercibiendo a las partes de abstenerse de ocultar, enajenar, dilapidar bienes y efectos patrimoniales generados durante el matrimonio hasta en tanto se resuelva en definitiva.
+
+En la propia audiencia, se decidirá sobre las medidas precautorias y provisionales, entre otras las referentes a los alimentos, guarda y custodia de menores o incapaces y, régimen de convivencia.
+
+Se otorgará a las partes un plazo común de cinco días para que conforme a los requisitos de una demanda, formulen sus pretensiones, hechos y ofrezcan sus medios de prueba, respecto de los puntos que no hayan sido objeto de consenso y los demás que estimen convenientes.
+
+Con los escritos que presenten las partes, se les dará vista para que manifiesten lo que a su interés convenga, opongan defensas y excepciones y ofrezca los medios de prueba respectivos, por un plazo de cinco días.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2013)</small>
+
+###### Artículo 985
+
+Septies.- Hecha la solicitud y cumplidas las exigencias del artículo anterior, el Juez de Instrucción, por conducto del Administrador de Gestión Judicial, citará a los cónyuges y al Ministerio Público a la audiencia inicial ante el Juez Oral, dentro de un término entre ocho y quince días; en términos del artículo 923 de esta ley adjetiva y la secuencia procesal seguirá las mismas reglas del título vigésimo primero denominado del procedimiento oral, del propio ordenamiento.
+
+La resolución que se decrete en el divorcio incausado será irrecurrible.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO Y SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -7624,5 +7722,13 @@ P.O. 15 DE ABRIL DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Sin perjuicio de lo dispuesto en el artículo transitorio precedente durante los seis meses siguientes a la entrada en vigor del presente decreto, continuará en operación el sistema actual de notificaciones, al término de los cuales operará también el sistema de notificación electrónica.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
+
+P.O. 15 DE MAYO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La aplicación del presente decreto será únicamente en el Distrito Judicial de Chetumal. Con respecto a su aplicación en el resto de los Distritos Judiciales de la entidad, se procederá conforme a lo que se previó en el artículo segundo transitorio del Decreto 419, publicado en el Periódico Oficial del Estado en fecha 10 de Febrero del 2011 y aprobado por la Décima Segunda Legislatura del Estado.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
