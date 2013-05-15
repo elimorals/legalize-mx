@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-desarrollo-economico-y-competitividad-para-el-estado-584
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-17"
-last_updated: "2012-05-04"
+last_updated: "2013-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE DESARROLLO ECONÓMICO Y COMPETITIVIDAD PARA EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2013.
 
 Ley publicada en el Número 83 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 17 de diciembre de 2007.
 
@@ -1047,9 +1047,9 @@ La Secretaría podrá establecer convenios con los municipios del Estado para ef
 
 ### CAPÍTULO III. COMERCIO EXTERIOR
 
-### CAPÍTULO I
+### CAPÍTULO IV. DEL REGISTRO DE EMPRESA QUINTANARROENSE
 
-DE LA COMISIÓN ESTATAL DE COMPETITIVIDAD.
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 15 DE MAYO DE 2013)</small>
 
 ###### Artículo 75.
 
@@ -1069,13 +1069,141 @@ IV.- Fomentar la cultura exportadora; y
 
 V.- Promover la realización de estudios prospectivos y de impacto regional en materia de infraestructura logística y transporte multimodal para el comercio exterior.
 
-### CAPÍTULO I. DE LAS INFRACCIONES Y SANCIONES
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE MAYO DE 2013)</small>
 
-### CAPÍTULO II. DE RECURSO DE REVISIÓN
+### CAPÍTULO I
+
+DE LA COMISIÓN ESTATAL DE COMPETITIVIDAD.
+
+#### SECCIÓN I. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2013)</small>
+
+###### Artículo 76
+
+Bis.- El Registro de Empresa Quintanarroense, consistirá en un padrón administrado por la Secretaría, conformado por las empresas establecidas de manera formal en la entidad, a quienes se les expedirá un número de registro y se les autorizará el uso del emblema oficial respectivo, de “Empresa Quintanarroense”, quienes deberán cumplir con los requisitos y características que establezca el Reglamento respectivo.
+
+Serán objeto del Registro de Empresa en el Estado, las empresas que se encuentren establecidas en la entidad, que tributen en el Estado, y que se comprometan a desarrollar proyectos productivos a favor del Estado, mismas que se verán beneficiadas, con los programas económicos previstos en esta Ley, los establecidos en el Plan Estatal de Desarrollo y los programas sectoriales, además de los incentivos y apoyos que le permitan promover el proceso productivo y concretar los proyectos de inversión que le sean de interés propio.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2013)</small>
+
+###### Artículo 76
+
+Ter.- Las empresas que se encuentren establecidas de manera formal en la Entidad podrán solicitar a la Secretaría su inscripción en el Registro de Empresa Quintanarroense. Para ello, deberán indicar la o las acciones permanentes que retribuirán al Estado de cualquiera de las especificadas en Artículo 76-Sexties y proporcionar información relativa a sus datos de constitución, actividad económica, y demás características que la misma les requiera.
+
+La empresa deberá dar aviso a la Secretaría de las modificaciones a la información previamente proporcionada.
+
+La inscripción de la empresa en el Registro, será mediante resolución emitida por la Secretaría, previa inspección al domicilio señalado por el solicitante y comprobación de que la empresa a registrar, reúne los siguientes requisitos:
+
+I.- Que se encuentra domiciliada en el Estado;
+
+II.- Que tributa en el Estado y que cuenta con todos los permisos y autorizaciones de las autoridades fiscales tanto del orden estatal como municipal para operar en el Estado;
+
+III.- Que cumple, en su caso, con los criterios de sustentabilidad establecidos en el Artículo 30 de la Ley; y
+
+IV.- Que se encuentra al día en el cumplimiento de sus obligaciones patronales.
+
+Una vez que la Secretaría haya verificado lo anterior, procederá a emitir la resolución respectiva y expedir el número de Registro de Empresa Quintanarroense, así como la autorización del emblema público que la acredite como tal. La solicitud o expedición del Registro no generará el cobro de derecho alguno.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 15 DE MAYO DE 2013)</small>
+
+#### SECCIÓN II. DE LA SUSPENSIÓN TEMPORAL, SUSPENSIÓN DEFINITIVA Y DE LA CANCELACIÓN DEL REGISTRO
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2013)</small>
+
+###### Artículo 76
+
+Quáter.- La suspensión temporal del Registro de Empresa Quintanarroense procederá cuando:
+
+I.- Lo solicite el interesado;
+
+II.- Lo determine la Secretaría si se comprueba que la persona o empresa registrada dejó de cumplir con los requisitos previstos para la expedición del registro.
+
+La suspensión definitiva procederá cuando el interesado expresamente así lo solicite en forma escrita.
+
+La cancelación del Registro de Empresa Quintanarroense procederá cuando:
+
+I.- Fallezca el titular, en caso de persona física; y
+
+II.- Se liquide o extinga, tratándose de persona jurídica colectiva;
+
+La Secretaría notificará por escrito la suspensión o cancelación del registro al día siguiente en que se haya realizado tal determinación.
+
+Asimismo, la Secretaría, en el escrito de notificación de cancelación, ordenará la prohibición de ostentar el emblema de Empresa Quintanarroense, en términos de lo que disponga el Reglamento de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2013)</small>
+
+###### Artículo 76
+
+Quinquies.- Quien sin autorización de la Secretaría, use el emblema oficial de “Empresa Quintanarroense”, sin estar debidamente inscrito en el Registro respectivo, será acreedor a una multa en términos de lo que disponga el Reglamento respectivo.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 15 DE MAYO DE 2013)</small>
+
+#### SECCIÓN III. DE LAS ACCIONES DE LAS EMPRESAS CON REGISTRO DE EMPRESA QUINTANARROENSE
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2013)</small>
+
+###### Artículo 76
+
+Sexties.- Las empresas con Registro de Empresa Quintanarroense, deberán de identificarse y realizar en favor del Estado de Quintana Roo, las siguientes acciones, sin perjuicio de que en cualquier momento puedan realizar cualquiera de ellas, o modificar la o las que las identifiquen, cuantas veces considere necesario:
+
+I.- Generen nuevos empleos;
+
+II.- Utilicen tecnologías intensivas en empleo;
+
+III.- Hagan nuevas inversiones productivas;
+
+IV.- Realicen directamente actividades de capacitación, investigación o adquisición de nuevas tecnologías;
+
+V.- Mejoren sus procesos productivos, reduciendo sus niveles de contaminación ambiental;
+
+VI.- Instalen procesos de producción con bajo consumo de agua o utilicen aguas recicladas;
+
+VII.- Hagan uso óptimo de los energéticos;
+
+VIII.- Modernicen la infraestructura hidroagrícola para elevar los niveles de productividad;
+
+IX.- Participen activamente en los programas de fomento agropecuario;
+
+X.- Diversifiquen sus cultivos, de acuerdo a la vocación productiva de cada región, fomentando el establecimiento de agroindustrias;
+
+XI.- Implementen esquemas de mejora continua orientados a elevar su productividad y competitividad y alcance su certificación ante organismos acreditados;
+
+XII.- Aumenten sustantivamente sus exportaciones;
+
+XIII.- Contraten a personas adultas mayores, personas productivas con alguna discapacidad y a las y los jóvenes en edad productiva, priorizando en este último grupo, a aquellas o aquellos que busquen acceder a un primer empleo; y
+
+XIV.- Realicen alianzas estratégicas empresariales con agrupamientos, cadenas productivas, al amparo de alguna figura jurídica de las contempladas en la legislación estatal y nacional.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 15 DE MAYO DE 2013)</small>
+
+#### SECCIÓN IV. DE LOS INCENTIVOS A LAS EMPRESAS CON REGISTRO DE EMPRESA QUINTANARROENSE
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2013)</small>
+
+###### Artículo 76
+
+Septies.- El Gobierno del Estado, además de los Programas Económicos a que se refiere esta Ley, otorgará a las empresas con Registro de Empresa Quintanarroense, a través de la Secretaría o por conducto de ésta ante las instancias competentes, los incentivos siguientes:
+
+I.- Participación preferente en los programas de fomento económico que apruebe el Consejo Consultivo y que lleven a cabo las dependencias;
+
+II.- Participación en los programas de identificación y promoción, nacionales e internacionales, de sus productos, bienes y servicios;
+
+III.- Apoyo en la gestión para la compra de terrenos, en aquellas zonas en las que pretendan desarrollar su actividad económica;
+
+IV.- Simplificación en la gestión de trámites;
+
+V.- Programas de capacitación empresarial;
+
+VI.- Estímulos fiscales para casos específicos; y
+
+VII.- Los demás que anualmente apruebe el Consejo.
+
+### CAPÍTULO I. DE LAS INFRACCIONES Y SANCIONES
 
 ## TÍTULO V. DE LA COORDINACIÓN Y CONCERTACIÓN SECTORIAL
 
-### CAPÍTULO III. DE LA TRANSPARENCIA EN LA APLICACIÓN DE LOS PROGRAMAS ECONÓMICOS
+### CAPÍTULO II. DE RECURSO DE REVISIÓN
 
 ###### Artículo 77.
 
@@ -1180,6 +1308,8 @@ XVII.- Elaborar el Programa Anual para la Competitividad Económica del Estado; 
 XVIII.- Las demás que se deriven de esta ley.
 
 ## TÍTULO VI. DEL INCUMPLIMIENTO
+
+### CAPÍTULO III. DE LA TRANSPARENCIA EN LA APLICACIÓN DE LOS PROGRAMAS ECONÓMICOS
 
 ###### Artículo 82.
 
@@ -1382,3 +1512,13 @@ El presente Decreto entrará en vigor el mismo día de su publicación en el Per
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que se opongan al contenido del presente decreto.
+
+P.O. 15 DE MAYO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- La Secretaría, dentro del término de noventa días contados a partir de la entrada en vigor del presente Decreto, deberá establecer el Registro de Empresa Quintanarroense.
+
+TERCERO.- La Secretaría, en un término no mayor a noventa días contados a partir de la entrada en vigor del presente Decreto, realizará las adecuaciones normativas y complementarias al Reglamento de la Ley de Desarrollo Económico y Competitividad para el Estado de Quintana Roo, para la aplicabilidad integral del presente Decreto.
+
+CUARTO.- Las empresas que pertenezcan al Padrón de Proveedores del Gobierno del Estado, contarán con un plazo de noventa días contados a partir de la vigencia del presente decreto para obtener, si así lo consideran el Registro de Empresa Quintanarroense ante la Secretaría.
