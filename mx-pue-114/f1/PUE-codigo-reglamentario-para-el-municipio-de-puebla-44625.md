@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2013-05-13"
+last_updated: "2013-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2013.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -5655,7 +5655,7 @@ III. Colaborar con las autoridades del Estado y del Municipio para el debido cum
 
 ###### Artículo 382.
 
-Los administradores, gerentes, poseedores, arrendatarios o propietarios de inmuebles que por su propia naturaleza o por el uso a que sean destinados, reciban una afluencia multitudinaria de personas, están obligados a preparar un programa específico de protección civil, estableciendo para ello su comité interno de protección civil, conforme a las disposiciones del programa municipal, elaborando además su análisis de riesgos y su plan de prevención de contingencias; contado para ello con la asesoría técnica de la Unidad Operativa Municipal de Protección Civil.
+Los administradores, gerentes, poseedores, arrendatarios o propietarios de inmuebles que por su propia naturaleza o por el uso a que sean destinados, reciban una afluencia multitudinaria de personas, están obligados a preparar un programa específico de protección civil, estableciendo para ello su comité interno de protección civil, conforme a las disposiciones del programa municipal, elaborando además su análisis de riesgos y su plan de prevención de contingencias; contado (sic) para ello con la asesoría técnica de la Unidad Operativa Municipal de Protección Civil.
 
 > <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
@@ -5773,7 +5773,7 @@ Los hospitales, sanatorios, clínicas, fabricas, industrias, comercios, oficinas
 
 ###### Artículo 392 Bis.
 
-El Consejo Municipal de Protección Civil, es el órgano de planeación, consulta y apoyo del Sistema Municipal, que tiene por objeto integrar a todas las dependencias y entidades municipales, representantes del sector social y privado, para implementar acciones de protección civil en beneficio de la sociedad.
+El Consejo Municipal de Protección Civil, es el órgano de planeación, consulta y apoyo del Sistema Municipal, que tiene por objeto integrar a todas las dependencias y entidades municipales, representantes del sector social Y privado, para implementar acciones de protección civil en beneficio de la sociedad.
 
 > <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
@@ -5898,10 +5898,6 @@ XVI. Solicitar y verificar que los establecimientos comerciales cuenten con medi
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 XVII. Las demás que le confieran otras leyes, decretos, reglamentos y acuerdos.
-
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2006)</small>
-
-XIV. Llevar a cabo la identificación y delimitación de lugares o zonas de riesgo a través del dictamen técnico correspondiente; y
 
 DE LOS PROGRAMAS Y SUBPROGRAMAS MUNICIPALES DE PROTECCIÓN CIVIL
 
@@ -6491,13 +6487,13 @@ En caso de que la Unidad Operativa Municipal de Protección Civil, considere nec
 
 Las sanciones pecuniarias se liquidarán por el infractor en la Tesorería Municipal, en un plazo de 15 días contados a partir de la fecha en que se haya hecho la notificación respectiva, su importe se considerará a favor de la Unidad Operativa Municipal de Protección Civil, y su cobro en tal caso, se hará conforme a las disposiciones de (sic) Código Fiscal y Presupuestario del Municipio de Puebla.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 457.
 
 Además de las sanciones que se le impongan al infractor, la Unidad Operativa Municipal de Protección Civil, si así lo considera necesario, hará del conocimiento del Ministerio Público los hechos que pudieran constituir delito.
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2006)</small>
 
 ###### Artículo 458.
 
@@ -7055,33 +7051,15 @@ Toda visita de verificación o inspección deberá ajustarse a los procedimiento
 
 DE LAS SANCIONES
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2013)</small>
 
 ###### Artículo 491.
 
-La Unidad Operativa Municipal de Protección Civil impondrá las sanciones correspondientes por no cumplir con las medidas de seguridad señaladas en el presente Capítulo, en todos los demás casos de infracciones la Autoridad encargada de imponer sanciones será la Coordinación de Fiscalización de Espectáculos Públicos. Debiendo sancionarse indistintamente con:
+La Unidad Operativa Municipal de Protección Civil impondrá las sanciones correspondientes por no cumplir con las medidas de seguridad señaladas en el presente Capítulo, en todos los demás casos de infracciones la autoridad encargada de imponer sanciones será la Coordinación de Fiscalización de Espectáculos Públicos. Debiendo sancionarse indistintamente con:
 
-I. Multa de 100 a 1,000 días del salario mínimo general vigente en el Municipio de Puebla al momento de determinarla, por contravenir lo dispuesto en los artículos 479, 483, 484, 486, 487, 488, 489, 490 y 490 Bis del presente Capítulo;
+I. Multa de 100 a 1000 días del salario mínimo general vigente en el Municipio de Puebla al momento de determinarla, por contravenir lo dispuesto en los artículos 479, 483, 484, 486, 487, 488, 489, 490 y 490 Bis.
 
-II. Clausura temporal de 3 a 15 días del espectáculo y del local, carpa u otro lugar en que se realice o haya realizado el espectáculo, en los supuestos señalados a continuación:
-
-a) Por no contar con la fianza señalada en el artículo 480 fracción III; y
-
-b) Por no presentar el Programa Especial de Seguridad con información fidedigna y como consecuencia se ponga en riesgo la integridad física de las personas.
-
-III. Clausura definitiva del espectáculo y del local, carpa u otro lugar en que se realice o haya realizado el espectáculo, en los supuestos señalados a continuación:
-
-a) Cuando el espectáculo y/o los establecimientos, locales o áreas en donde se realice alguna de las actividades reguladas por este ordenamiento, no cuenten con el permiso correspondiente;
-
-b) Cuando se realicen actos dentro de los espacios a que se refiere este ordenamiento, que perturben la tranquilidad del lugar, que atenten contra la paz e integridad física de las personas o sus intereses;
-
-c) Cuando el promotor de espectáculos o su representante legal no se presenten a regularizar la situación del establecimiento o del espectáculo;
-
-d) Por violar los sellos de clausura temporal; y
-
-e) Por no cubrir los gastos derivados del retiro de anuncios publicitarios que hayan sido colocados sin autorización.
-
-IV. La cancelación del permiso concedido.
+Multa de 400 a 500 días del salario mínimo general vigente en el Municipio de Puebla al momento de determinarla, por contravenir lo dispuesto en los artículos 492 Quinquies, 492 Sexies, 492 Septies y 492 Octies del presente Capítulo.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -7100,6 +7078,66 @@ I. La gravedad de la infracción;
 II. La reincidencia del infractor; y
 
 III. La (sic) circunstancias de tiempo, modo y lugar en que se (sic) haya sido cometida la infracción.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE MAYO DE 2013)</small>
+
+DE LOS EVENTOS Y ESPECTÁCULOS DEPORTIVOS
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2013)</small>
+
+###### Artículo 492 Bis.
+
+Espectáculo deportivo se entenderá como la realización de diferentes disciplinas con fines de demostración. Evento deportivo se entenderá como la realización de diferentes disciplinas con fines competitivos.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2013)</small>
+
+###### Artículo 492 Ter.
+
+No serán objeto del presente Reglamento los eventos o espectáculos deportivos en los que participen exclusivamente deportistas aficionados sin fines de especulación de ninguna naturaleza.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2013)</small>
+
+Artículo 492 Quarter.- Los eventos y espectáculos deportivos deberán cumplir las prevenciones establecidas en el presente Reglamento y en las demás disposiciones que se derivan de cualquier otro reglamento Municipal o de algún acuerdo administrativo que expida la autoridad municipal en atención a los requerimientos específicos de cada caso.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2013)</small>
+
+###### Artículo 492 Quinquies.
+
+Los jueces y participantes de los eventos y espectáculos deportivos están obligados a evitar cualquier relación con los espectadores que pudiera motivar una alteración del orden público.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2013)</small>
+
+###### Artículo 492 Sexies.
+
+En los locales, establecimientos y en donde se presenten eventos y espectáculos deportivos profesionales, deberá entonarse el Himno Nacional antes de su inicio, inmediatamente después comenzará el evento, lo anterior en los términos y condiciones que establece la Ley sobre el Escudo, la Bandera y el Himno Nacional.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2013)</small>
+
+###### Artículo 492 Septies.
+
+La venta de cualquier tipo de bebida deberá realizarse en envase de cartón o plástico, quedando prohibida su venta en envase de vidrio o metálico.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2013)</small>
+
+###### Artículo 492 Octies.
+
+Las empresas deportivas deberán cumplir con los requisitos que imponga la autoridad municipal para garantizar la seguridad de los espectadores. Además deberán cumplir las siguientes obligaciones:
+
+I. Coadyuvar con las campañas contra la violencia y el odio deportivo en los estadios y centros donde se desarrollen eventos o espectáculos deportivos, que el Municipio de Puebla realice;
+
+II. Informar a los asistentes, la ubicación de las puertas de acceso según la zona que corresponda a cada boleto, evitando que se permita el ingreso de aficionados con boleto de una zona contraria a la correspondiente;
+
+III. Tener un área de enfermería que cuente con todo el equipo necesario y el personal calificado para responder a cualquier contingencia;
+
+IV. Evitar el contacto físico entre participantes y espectadores durante el desarrollo del evento o espectáculo deportivo, además de abstenerse antes, durante y después del mismo de promover, incitar o exaltar la violencia entre los participantes y espectadores;
+
+V. Designar puertas exclusivas para el ingreso de porras, asegurando que se encuentren alejadas unas de otras y delimitadas por el personal de seguridad suficiente;
+
+VI. Coordinarse con el área de Protección Civil del Municipio, para revisar las estructuras y el mobiliario del inmueble donde se presenten los eventos o espectáculos deportivos, los cuales deberán mantenerse en buen estado físico, presentando a las autoridades competentes un peritaje estructural del inmueble mediante el cual se compruebe que el local garantiza la seguridad de los asistentes;
+
+VII. Evitar la obstrucción de pasillos, puertas y escaleras con mercancías u objetos; y
+
+VIII. Las demás que determinen las disposiciones legales y reglamentarias aplicables.
 
 ### CAPÍTULO 15. ESTABLECIMIENTOS DE GIROS COMERCIALES AUTORIZADOS
 
@@ -10321,7 +10359,7 @@ XVII. Producto cárnico: Se entenderá por éste lo contemplado en el artículo 
 
 XVIII. Reinspección: Revisión para constatar el cumplimiento de las disposiciones de este Código y demás ordenamientos legales aplicables en la materia; de las canales o subproductos que ya fueron sujetos a inspección por un rastro distinto del Municipal;
 
-XIX. Resello: Sello que se coloca con la leyenda "Inspeccionado y Aprobado" en la carne comercializada en el Municipio de Puebla que presenta alguna alteración en el sello original, como estar borroso o presumirse de dudosa procedencia; y
+XIX. Resello: Sello que se coloca con la leyenda “Inspeccionado y Aprobado” en la carne comercializada en el Municipio de Puebla que presenta alguna alteración en el sello original, como estar borroso o presumirse de dudosa procedencia; y
 
 XX. Subproducto: Derivado del producto cárnico, como jamón, tocino, queso de puerco, pastel de pollo, longaniza, chorizo, mortadela, salami, carne adobada, carne seca, cecina, tasajo, chicharrón, frituras, toda clase de embutidos, y cualquier otro semejante.
 
@@ -10473,7 +10511,7 @@ Artículo 639 Undecies.- Para el caso de solicitar el refrendo de la licencia de
 
 Artículo 639 Duodecies.- Cuando se solicite la reposición, transferencia o cesión, cambio de giro comercial, cambio de local dentro del mercado municipal y/o de apoyo, y baja de la licencia de funcionamiento, se estará a lo dispuesto en el Capítulo 20 del presente ordenamiento.
 
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
+ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)
 
 Artículo 639 Terdecies.- Los locales que se destinen para expendio de productos cárnicos y/o subproductos, deberán reunir los siguientes requisitos:
 
@@ -10515,7 +10553,7 @@ V. Facilitar la inspección sanitaria, exhibiendo la documentación comprobatori
 
 VI. Cumplir con la normatividad municipal, estatal y federal vigente aplicables en la materia.
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 14 DE DICIEMBRE DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
 DE LA COMERCIALIZACIÓN DE PRODUCTOS CÁRNICOS Y/O SUBPRODUCTOS Y AVES MUERTAS EN LOS MERCADOS TEMPORALES
 
@@ -10535,7 +10573,7 @@ V. La carne de aves muertas deberá estar exenta de los colorantes denominados s
 
 VI. Las vísceras y el pollo estarán separados y refrigerados, en caso de no contar con refrigerador deberán mantenerse cubiertos con hielo molido.
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 14 DE DICIEMBRE DE 2009)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
 DEL TRANSPORTE DE LOS PRODUCTOS CÁRNICOS Y/O SUBPRODUCTOS
 
@@ -10551,7 +10589,7 @@ DE LAS SANCIONES
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
-Artículo 639 Octodecies.- Las autoridades sanitarias municipales determinarán, calificarán e impondrán a quienes infrinjan las disposiciones establecidas en el Subtítulo "De la Comercialización de Productos Cárnicos y/o Subproductos y Aves Muertas", y los que resulten aplicables en la materia, indistintamente las sanciones señalas (sic) en el artículo 1671 de este ordenamiento.
+Artículo 639 Octodecies.- Las autoridades sanitarias municipales determinarán, calificarán e impondrán a quienes infrinjan las disposiciones establecidas en el Subtítulo “De la Comercialización de Productos Cárnicos y/o Subproductos y Aves Muertas”, y los que resulten aplicables en la materia, indistintamente las sanciones señalas (sic) en el artículo 1671 de este ordenamiento.
 
 Para la aplicación de dichas sanciones se considerará como infracciones administrativas las contempladas en el artículo 1671 Bis fracciones I, II, III, IV, V y VI del presente Código. La reincidencia será sancionada con multa por el doble de las cantidades señaladas.
 
@@ -24713,7 +24751,7 @@ Los productos cárnicos que se transporten en el Municipio, deberán estar ampar
 
 El producto cárnico que se transporte sin cumplir con lo dispuesto en el artículo anterior será decomisado por la autoridad municipal y sometido a inspección sanitaria; adoptando las medidas señaladas en el artículo 1637 Bis del presente Código.
 
-Para el caso de que el transporte provenga de un Rastro Tipo Inspección Federal y/o en él se trasladen productos cárnicos y/o subproductos amparados con la certificación "México Calidad Suprema", los inspectores municipales sólo verificarán que la documentación correspondiente se encuentre en orden.
+Para el caso de que el transporte provenga de un Rastro Tipo Inspección Federal y/o en él se trasladen productos cárnicos y/o subproductos amparados con la certificación “México Calidad Suprema”, los inspectores municipales sólo verificarán que la documentación correspondiente se encuentre en orden.
 
 > <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
@@ -31401,9 +31439,9 @@ IV. Servicio médico: Oficiales designados por la Comisión, encargados de pract
 
 V. Director de encuentros: Oficial designado por la Comisión, que tiene a su cargo vigilar todas y cada una de las actividades relacionadas con la función de Box y Lucha Libre, salvaguardando el orden y disciplina necesarios;
 
-VI. Jueces: Oficiales designados por la Comisión, que durante la función de Box, llevan la respectiva puntuación del combate entre los contendientes, emitiendo en tarjetas al término de cada "asalto" el conteo de los puntos que a su juicio merezca cada boxeador, haciéndoselas llegar de inmediato al Comisionado en turno;
+VI. Jueces: Oficiales designados por la Comisión, que durante la función de Box, llevan la respectiva puntuación del combate entre los contendientes, emitiendo en tarjetas al término de cada “asalto” el conteo de los puntos que a su juicio merezca cada boxeador, haciéndoselas llegar de inmediato al Comisionado en turno;
 
-VII. Referee: Oficiales designados por la Comisión, encargados de hacer cumplir las reglas por las que se rigen ambos deportes, por lo que tendrá supervisión sobre la contienda, actuando para ello dentro del "Cuadrilatero";
+VII. Referee: Oficiales designados por la Comisión, encargados de hacer cumplir las reglas por las que se rigen ambos deportes, por lo que tendrá supervisión sobre la contienda, actuando para ello dentro del “Cuadrilatero”;
 
 VIII. Anunciador: Oficial designado por la Comisión, facultado para hacer la presentación de los oficiales del cuadrilátero nombrados para actuar, fichas técnicas de los contendientes, así como las características específicas de la pelea;
 
@@ -32279,7 +32317,7 @@ DE LOS REPRESENTANTES
 
 ###### Artículo 2170.
 
-Para ser representante de boxeadores o luchadores, se requiere ser mayor de edad, persona de reconocida honorabilidad y tener licencia expedida por la Comisión, en los términos previstos por los artículos relativos del presente Capítulo.
+Para ser representante de boxeadores o luchadores, se requiere ser mayor de edad, persona de reconocida honorabilidad y tener licencia expedida por la Comisión, en los términos previstos por los artículos relativos del presente Capitulo.
 
 > <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
@@ -35168,6 +35206,10 @@ TERCERO.- Las reformas entrarán en vigor a partir del día siguiente de su publ
 P.O. 13 DE MAYO DE 2013.
 
 ÚNICO.- El presente entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE MAYO DE 2013.
+
+ÚNICO.- Las presentes adiciones entrarán en vigor al día siguiente después de su publicación en el Periódico Oficial del Estado.
 
 ## [N. DE E. TRANSITORIOS DE LA “MODIFICACIÓN AL ESTATUTO ORGÁNICO DEL SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA, PUBLICADO EL 5 DE DICIEMBRE DE 2019”.]
 
