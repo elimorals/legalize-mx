@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-instituto-de-la-funcion-registral-61167
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-04-03"
-last_updated: "2009-01-09"
+last_updated: "2013-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61167&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE LA FUNCIÓN REGISTRAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE ENERO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE MAYO DE 2013.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el jueves 3 de abril de 2008.
 
@@ -413,13 +413,15 @@ XII. Las demás que le señalan otras disposiciones legales y aquellas que le en
 
 El Director General será suplido en sus ausencias temporales hasta por 15 días, por el Director que aquél designe. En las mayores de 15 días, por el servidor público que designe el Presidente del Consejo Directivo.
 
+> <small>(REFORMADO, G.G. 16 DE MAYO DE 2013)</small>
+
 ###### Artículo 22.
 
-Los Directores serán suplidos en sus ausencias temporales hasta por 15 días, por el servidor público de la jerarquía inmediata inferior que ellos designen. En las mayores de 15 días, por el servidor público que designe el Director General.
+Los Directores, Subdirectores, Jefes de Departamento y Registradores serán suplidos en sus ausencias temporales hasta por 15 días hábiles, por el servidor público de la jerarquía inmediata inferior que ellos designen. En las mayores de 15 días hábiles, por quien designe el Director General.
 
 ###### Artículo 23.
 
-Los Registradores serán suplidos en sus ausencias temporales hasta por 15 días, por el servidor público que ellos designen. En las mayores de 15 días, por quien designe el Director General.
+(DEROGADO, G.G. 16 DE MAYO DE 2013)
 
 T R A N S I T O R I O S
 
@@ -456,3 +458,11 @@ SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicaci
 TERCERO. Cuando en otros ordenamientos legales y administrativos, se haga referencia a las oficinas registrales: Tlalnepantla I, Tlalnepantla II y Tlalnepantla III, se entenderán las oficinas registrales de Tlalnepantla, Naucalpan y Ecatepec, respectivamente.
 
 CUARTO. Se derogan las disposiciones de igualo menor jerarquía jurídica que se opongan al presente Acuerdo.
+
+G.G. 16 DE MAYO DE 2013.
+
+PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a las establecidas en el presente Acuerdo.
