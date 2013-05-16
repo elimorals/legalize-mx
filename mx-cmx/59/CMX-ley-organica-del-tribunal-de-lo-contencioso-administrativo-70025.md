@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-tribunal-de-lo-contencioso-administrativo-7002
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-09-10"
-last_updated: "2012-07-24"
+last_updated: "2013-05-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70025&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-08-28"
 
 LEY ORGÁNICA DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 24 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 16 DE MAYO DE 2013.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 10 de septiembre de 2009.
 
@@ -194,6 +194,12 @@ El Tribunal contará con un sistema profesional de carrera jurisdiccional, basad
 
 El sistema abarcará las fases de ingreso, promoción, permanencia y retiro de dichos servidores públicos de manera que se procure la excelencia por medio de concursos y evaluaciones periódicas y de acuerdo con los procedimientos y criterios establecidos en el Estatuto del Servicio Civil de Carrera Jurisdiccional del Tribunal de lo Contencioso Administrativo del Distrito Federal correspondiente, los cuales serán aplicados por la Junta de Gobierno.
 
+> <small>(ADICIONADO, G.O. 16 DE MAYO DE 2013)</small>
+
+Artículo 20 bis.- El Tribunal contará con un Instituto de Especialización en Justicia Administrativa y Fiscal, que constituirá un espacio de estudio, análisis, investigación, vinculación y propuesta para los servicios y (sic) administrativos del Tribunal y cuya organización, atribuciones y obligaciones se establecerán en su Reglamento Interior, que adoptará el propio Tribunal.
+
+El Instituto de Especialización en Justicia Administrativa y Fiscal será autónomo y su Director General será nombrado por la Sala Superior, a propuesta de la Presidencia del Tribunal.
+
 ### CAPITULO II. De la Sala Superior
 
 ###### Artículo 21.
@@ -231,6 +237,10 @@ VI. Calificar las recusaciones, excusas e impedimentos de los Magistrados del Tr
 VII. Establecer las reglas para la distribución de los asuntos entre las Salas del Tribunal, así como entre los Magistrados Instructores y Ponentes;
 
 VIII. Resolver el Recurso de Reclamación previsto en el artículo 106 de la Ley
+
+> <small>(ADICIONADA, G.O. 16 DE MAYO DE 2013)</small>
+
+IX. Nombrar al Director General del Instituto de Especialización en Justicia Administrativa y Fiscal, a propuesta del Presidente del Tribunal.
 
 ###### Artículo 25.
 
@@ -317,6 +327,10 @@ XIV. Publicar la jurisprudencia del Tribunal, las sentencias de la Sala Superior
 XV. Dar cuenta a la Sala Superior de las excitativas de justicia y tramitar los demás asuntos de la Competencia de la Sala Superior hasta ponerlos en estado de resolución;
 
 XVI. Admitir o Prevenir, dar trámite o tener por no hechas las solicitudes de consignaciones a que se refiere el artículo 49 de la Ley.
+
+> <small>(ADICIONADA, G.O. 16 DE MAYO DE 2013)</small>
+
+XVII. Proponer a la Sala Superior al Director General del Instituto de Especialización en Justicia Administrativa y Fiscal.
 
 ### CAPITULO IV. De la Junta de Gobierno
 
@@ -1681,3 +1695,9 @@ Segundo.- La vía sumaria será procedente en los juicios que se inicien a parti
 Tercero.- La Sala Superior del Tribunal de lo Contencioso Administrativo del Distrito Federal, adscribirá a los secretarios de acuerdos y demás personal necesario de las seis Ponencias de la Sala Superior a las Salas Ordinarias, en un plazo no mayor a 15 días posteriores a la entrada en vigor del presente decreto, a efecto de que se pueda atender con mayor eficacia las disposiciones contenidas en el Capítulo XV del presente Decreto.
 
 Cuarto.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el diario Oficial de la Federación.
+
+G.O. 16 DE MAYO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor publicación.
