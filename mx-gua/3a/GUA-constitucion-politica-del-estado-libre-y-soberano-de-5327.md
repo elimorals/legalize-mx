@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "2012-05-15"
+last_updated: "2013-05-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2013.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -31,23 +31,43 @@ El C. LIC. AGUSTIN ALCOCER, Gobernador Constitucional del Estado Libre y Soberan
 
 Que la XXVI H. Legislatura del mismo, con el carácter de Congreso Constituyente, se ha servido decretar la siguiente
 
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTICULO CUARTO TRANSITORIO DEL DECRETO NÚMERO 64, PUBLICADO EN EL P.O. 17 DE MAYO DE 2013, TODA REFERENCIA QUE EN LAS LEYES, DECRETOS U OTROS ORDENAMIENTOS EXISTA AL MUNICIPIO DE "SILAO", SE ENTENDERÁN HECHAS AL "MUNICIPIO DE SILAO DE LA VICTORIA".</small>
+
 CONSTITUCION.
 
 ...
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-## TITULO PRIMERO. DE LAS GARANTIAS CONSTITUCIONALES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE MAYO DE 2013)</small>
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+## TÍTULO PRIMERO. DE LOS DERECHOS HUMANOS Y SUS GARANTÍAS
 
-### CAPITULO PRIMERO. GARANTIAS INDIVIDUALES Y SOCIALES
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE MAYO DE 2013)</small>
+
+### CAPÍTULO PRIMERO. DERECHOS CIVILES, POLÍTICOS, ECONÓMICOS, SOCIALES Y CULTURALES
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MAYO DE 2013)</small>
 
 ###### ARTICULO 1.
 
-En el Estado de Guanajuato todas las personas gozan de la protección que les otorgan las garantías establecidas por la Constitución Política de los Estados Unidos Mexicanos; por esta Constitución y sus Leyes Reglamentarias.
+En el Estado de Guanajuato todas las personas gozan de los derechos humanos y de las garantías para su protección reconocidos en la Constitución Política de los Estados Unidos Mexicanos y en los Tratados Internacionales de los que el Estado Mexicano sea parte, así como en los consagrados por esta Constitución y sus Leyes Reglamentarias, cuyo ejercicio no podrá restringirse ni suspenderse, salvo en los casos y bajo las condiciones que la Constitución Política de los Estados Unidos Mexicanos establece.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE MAYO DE 2013)</small>
+
+Las normas relativas a los derechos humanos se interpretarán de conformidad con esta Constitución y con los Tratados Internacionales de la materia favoreciendo en todo tiempo la protección más amplia a las personas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE MAYO DE 2013)</small>
+
+Todas las autoridades del estado y de los municipios, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. En consecuencia, el Estado deberá prevenir, investigar, sancionar y restituir las violaciones a los derechos humanos, en los términos que establezca la ley.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE MAYO DE 2009)</small>
 
@@ -105,7 +125,17 @@ Las sentencias que pongan fin a los procedimientos orales, deberán ser explicad
 
 Todo individuo tiene derecho a recibir educación. El Estado y los municipios impartirán educación de conformidad con los planes y programas que al efecto determine el Ejecutivo Federal en los términos de la fracción III del artículo 3° de la Constitución Política de los Estados Unidos Mexicanos.
 
-La educación preescolar, primaria y secundaria conforman la educación básica obligatoria.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2013)</small>
+
+La educación preescolar, primaria, secundaria y media superior, conforman la educación obligatoria.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE MAYO DE 2013)</small>
+
+La educación que imparta el Estado tenderá a desarrollar armónicamente, todas las facultades del ser humano y fomentará en él, a la vez, el amor a la Patria, el respeto a los derechos humanos y la conciencia de la solidaridad internacional, en la independencia y en la justicia.
 
 Ninguna persona requerirá de título para la enseñanza en cualquier rama del saber, pero para prestar instrucción como servicio al público, deberá cumplir los requisitos que establezcan las leyes.
 
@@ -120,6 +150,42 @@ La ley establecerá sistemas de impugnación y medios de defensa de los derechos
 La ley determinará la organización, funcionamiento, competencia y procedimientos de un organismo estatal de protección de los derechos humanos, dotado de plena autonomía, que conocerá de quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público de carácter estatal o municipal que violen estos derechos, formulará acuerdos o recomendaciones públicas, no vinculatorias, denuncias y quejas ante las autoridades respectivas.
 
 Este organismo no será competente para conocer de quejas que se originen con motivo de acuerdos o decisiones de instancias electorales, ni tratándose de resoluciones de naturaleza jurisdiccional; pero podrá conocer de asuntos de orden administrativo de los órganos de impartición de justicia que transgredan derechos humanos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE MAYO DE 2013)</small>
+
+El organismo estatal de protección de los Derechos Humanos, formulará recomendaciones públicas, no vinculatorias, denuncias y quejas ante las autoridades respectivas. Todo servidor público está obligado a responder, por escrito, las recomendaciones que le presente este organismo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE MAYO DE 2013)</small>
+
+Cuando las recomendaciones emitidas no sean aceptadas o cumplidas por las autoridades o servidores públicos, estos deberán fundar, motivar y hacer pública su negativa; además, el Congreso del Estado o en sus recesos la Diputación Permanente, podrán llamar, a solicitud del organismo de Derechos Humanos, a las autoridades o servidores públicos responsables para que comparezcan ante la comisión legislativa que determine su Ley Orgánica, a efecto de que expliquen el motivo de su rechazo o incumplimiento.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE MAYO DE 2013)</small>
+
+La elección del titular del organismo estatal de protección de los Derechos Humanos se ajustará a un procedimiento de consulta pública, que deberá ser transparente, en los términos y condiciones que determine la Ley de la materia.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE MAYO DE 2013)</small>
+
+El titular del organismo estatal de protección de los Derechos Humanos, quien lo será también del Consejo Consultivo, durará en su encargo cuatro años, con la posibilidad de ser ratificado por una sola vez, aplicando las reglas establecidas en la ley de la materia y únicamente podrá ser removido de sus funciones en los términos del Título Noveno de esta Constitución.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE MAYO DE 2013)</small>
+
+El titular del organismo estatal de protección de los Derechos Humanos enviará anualmente un informe de actividades al Congreso del Estado, el cual se hará de conocimiento del Gobernador del Estado, así como del Supremo Tribunal de Justicia del Estado, de los ayuntamientos y de los organismos que esta Constitución otorga autonomía, en términos de lo que al efecto disponga la Ley de la materia.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE MAYO DE 2013)</small>
+
+El titular del organismo estatal de protección de los Derechos Humanos podrá hacer valer las acciones de inconstitucionalidad ante la Suprema Corte de Justicia de la Nación, conforme a lo establecido por el artículo 105, fracción II inciso g), de la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2010)</small>
 
@@ -193,7 +259,11 @@ Las medidas de corrección y las sanciones acordadas por las autoridades adminis
 
 Sólo por delito que merezca pena privativa de libertad habrá lugar a prisión preventiva. El sitio de ésta será distinto del que se destinare para la extinción de las penas y estarán completamente separados.
 
-El sistema penitenciario se organizará sobre la base del trabajo, la capacitación para el mismo, la educación, la salud y el deporte como medios para lograr la reinserción del sentenciado a la sociedad y procurar que no vuelva a delinquir observando los beneficios que para él prevé la ley. Las mujeres compurgarán sus penas en lugares separados de los destinados a los hombres para tal efecto.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2013)</small>
+
+El sistema penitenciario se organizará sobre la base del respeto a los derechos humanos, del trabajo, la capacitación para el mismo, la educación, la salud y el deporte como medios para lograr la reinserción del sentenciado a la sociedad y procurar que no vuelva a delinquir, observando los beneficios que para él prevé la Ley. Las mujeres compurgarán sus penas en lugares separados de los destinados a los hombres para tal efecto.
 
 El Estado podrá celebrar convenios con la Federación, otros estados y el Distrito Federal para que los sentenciados por delitos del ámbito de su competencia extingan las penas en establecimientos penitenciarios dependientes de una jurisdicción diversa.
 
@@ -451,9 +521,11 @@ I.- Cumplir con los preceptos constitucionales y los de las Leyes, Reglamentos y
 
 II.- Contribuir a los gastos públicos de la Federación, del Estado y del Municipio de su residencia, en la forma que dispongan las Leyes de la materia;
 
-> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-III.- Hacer que sus hijos o pupilos menores concurran a las escuelas públicas o privadas para obtener la educación preescolar, primaria y secundaria, y reciban la militar en los términos que establezca la ley; y
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2013)</small>
+
+III.- Hacer que sus hijos o pupilos menores concurran a las escuelas públicas o privadas para obtener la educación preescolar, primaria, secundaria y media superior, y reciban la militar en los términos que establezca la ley; y
 
 IV.- Las demás que dispongan las Leyes.
 
@@ -613,7 +685,7 @@ El Organismo Público Autónomo a que se refiere el Artículo 31 de esta Constit
 
 Los actos y resoluciones que emita el Organismo Público Autónomo en materia de participación ciudadana podrán ser impugnados en los términos que disponga la Ley correspondiente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA MODIFICACIÓN A LA COMPETENCIA DEL TRIBUNAL ELECTORAL DEL ESTADO DE GUANAJUATO A QUE SE REFIERE LA MODIFICACIÓN AL PRESENTE ARTÍCULO, VER SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 163, PUBLICADO EN EL P.O DE 8 DE AGOSTO DE 2008.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA MODIFICACIÓN A LA COMPETENCIA DEL TRIBUNAL ELECTORAL DEL ESTADO DE GUANAJUATO A QUE SE REFIERE LA MODIFICACIÓN AL PRESENTE ARTÍCULO, VER SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 163, PUBLICADO EN EL P.O. DE 8 DE AGOSTO DE 2008.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ABRIL DE 2002)</small>
 
@@ -707,11 +779,13 @@ El Gobierno del Estado es Republicano, Representativo y Democrático, teniendo c
 
 ### CAPITULO UNICO. DEL TERRITORIO DEL ESTADO
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2013)</small>
 
 ###### ARTICULO 33.
 
-El Estado de Guanajuato se divide en los municipios siguientes: Abasolo, Acámbaro, Apaseo el Alto, Apaseo el Grande, Atarjea, Celaya, Comonfort, Coroneo, Cortazar, Cuerámaro, Dolores Hidalgo Cuna de la Independencia Nacional, Doctor Mora, Guanajuato, Huanímaro, Irapuato, Jaral del Progreso, Jerécuaro, León, Manuel Doblado, Moroleón, Ocampo, Pénjamo, Pueblo Nuevo, Purísima del Rincón, Romita, Salamanca, Salvatierra, San Diego de la Unión, San Felipe, San Francisco del Rincón, San José Iturbide, San Luis de la Paz, San Miguel de Allende, Santa Catarina, Santa Cruz de Juventino Rosas, Santiago Maravatío, Silao, Tarandacuao, Tarimoro, Tierra Blanca, Uriangato, Valle de Santiago, Victoria, Villagrán, Xichú y Yuriria, con los límites y la extensión que actualmente se les reconoce.
+El Estado de Guanajuato se divide en los municipios siguientes: Abasolo, Acámbaro, Apaseo el Alto, Apaseo el Grande, Atarjea, Celaya, Comonfort, Coroneo, Cortazar, Cuerámaro, Dolores Hidalgo Cuna de la Independencia Nacional, Doctor Mora, Guanajuato, Huanímaro, Irapuato, Jaral del Progreso, Jerécuaro, León, Manuel Doblado, Moroleón, Ocampo, Pénjamo, Pueblo Nuevo, Purísima del Rincón, Romita, Salamanca, Salvatierra, San Diego de la Unión, San Felipe, San Francisco del Rincón, San José Iturbide, San Luis de la Paz, San Miguel de Allende, Santa Catarina, Santa Cruz de Juventino Rosas, Santiago Maravatío, Silao de la Victoria, Tarandacuao, Tarimoro, Tierra Blanca, Uriangato, Valle de Santiago, Victoria, Villagrán, Xichú y Yuriria, con los límites y la extensión que actualmente se les reconoce.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -1153,9 +1227,11 @@ Designar a los Consejeros del Poder Judicial en los términos que establece esta
 
 Designar de entre sus miembros, a sus representantes ante el Organismo Autónomo a que se refiere el artículo 31 de esta Constitución, a los Consejeros Ciudadanos en términos de su competencia y a los integrantes del Tribunal Estatal Electoral, de conformidad con la Ley.
 
-> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 1992)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Designar al titular del organismo estatal defensor de los derechos humanos, de acuerdo a la propuesta que formule el Gobernador del Estado, en los términos de la Ley respectiva y ratificar los nombramientos que conforme a la misma requieren de ello. Esta facultad la tendrá la Diputación Permanente cuando el Congreso no esté en período de sesiones.
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2013)</small>
+
+Designar por el voto de más de la mitad de la totalidad de sus integrantes, al titular del organismo estatal de protección de los Derechos Humanos, de acuerdo a la propuesta que formule el Ejecutivo del Estado de conformidad con el procedimiento de consulta pública contemplado en esta Constitución y en los términos de la Ley de la materia. Así como a los integrantes del Consejo Consultivo. La Diputación Permanente tendrá la facultad de ratificar los nombramientos de los integrantes del Consejo Consultivo, en los términos de la Ley de la materia.
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
@@ -1491,6 +1567,12 @@ XII.- Proponer por ternas al Congreso del Estado la aprobación de los Magistrad
 
 Proponer al Congreso del Estado, la terna para la designación de Consejero que integre el Consejo del Poder Judicial. Emitir dictamen sobre la propuesta de reelección o de no reelección de un Magistrado cuando le corresponda atendiendo al origen de la propuesta de designación del mismo fundado en el dictamen de evaluación que emita la Comisión de Evaluación.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE MAYO DE 2013)</small>
+
+Proponer en terna al Congreso del Estado, a los candidatos para elegir al titular del organismo estatal de protección de los Derechos Humanos, una vez que haya efectuado el procedimiento de consulta pública a que se refiere el artículo 4 de esta Constitución y de conformidad con la Ley de la materia. En caso de que la terna que proponga sea rechazada, formulará una nueva. Si esta segunda terna es rechazada por el Congreso del Estado, el Gobernador del Estado designará de entre los propuestos, a la persona que será el titular del organismo estatal de protección de los Derechos Humanos.
+
 > <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2010)</small>
 
 XIII.- Emitir órdenes a la policía preventiva municipal, en los términos que prevé la fracción XVI del artículo 117 de esta Constitución;
@@ -1555,11 +1637,13 @@ Los grupos y representaciones parlamentarias que integren el Congreso del Estado
 
 El Congreso del Estado, a efecto de ampliar la información, podrá solicitar la comparecencia de los secretarios de estado, así como del Procurador General de Justicia y los directores de las entidades paraestatales.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1985)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2013)</small>
 
 ###### ARTICULO 79.
 
-Todas las leyes, decretos y reglamentos, para su cumplimiento, serán promulgados por el Gobernador del Estado y refrendados por el Secretario de Gobierno o por quien haga sus veces y por el o los Secretarios del Ramo al que el asunto corresponda.
+Todas las Leyes, Decretos y Reglamentos, para su cumplimiento, serán promulgados por el Gobernador del Estado y refrendados por el Secretario de Gobierno o por quien haga sus veces, en los términos de la Ley Orgánica del Poder Ejecutivo.
 
 > <small>(REFORMADA, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -2037,11 +2121,13 @@ I.- Los ingresos que determinen las Leyes de la materia; y,
 
 II.- Los ingresos que adquiera por subsidios, participaciones, legados, donaciones o cualesquiera otra causa.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1985)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2013)</small>
 
 ###### ARTICULO 100.
 
-El cobro y administración de los caudales públicos competen a la Secretaría de Administración Financiera. El personal de dicha dependencia tendrá las facultades y obligaciones señaladas por las leyes de la materia.
+El cobro y administración de los caudales públicos competen a la dependencia que señale la Ley Orgánica del Poder Ejecutivo. El personal de dicha dependencia tendrá las facultades y obligaciones señaladas por las leyes de la materia.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -2681,7 +2767,7 @@ Esta Constitución no perderá su fuerza y vigor, aún cuando por cualquier caus
 
 ## Artículos transitorios.
 
-Art. 1º Esta Constitución se publicará por bando solemne, en todo el Estado, el día 16 de septiembre del año en curso; surtirá desde luego sus efectos y serán protestada con la mayor solemnidad.
+Art. 1º Esta Constitución se publicará por bando solemne, en todo el Estado, el día 16 de septiembre del año en curso; surtirá desde luego sus efectos y será protestada con la mayor solemnidad.
 
 Art. 2º La XXVI Legislatura concluirá su período el 14 de septiembre de 1918.
 
@@ -3366,3 +3452,69 @@ Artículo primero. El presente Decreto entrará en vigor al cuarto día siguient
 Las disposiciones contenidas en la reforma al artículo 51, comenzarán su vigencia al veinticinco de septiembre de dos mil doce.
 
 Artículo segundo. El término de siete años en el encargo del titular del Órgano de Fiscalización Superior del Congreso del Estado que señala el último párrafo del artículo 66 será aplicable a partir de la designación de un nuevo titular del Órgano de Fiscalización Superior del Congreso del Estado, a la conclusión de la designación del actual titular, o en su caso, si es el supuesto de designar un nuevo titular, por cualquiera de las cusas (sic) señaladas en esta Constitución y en la Ley de Fiscalización Superior del Estado de Guanajuato.
+
+P.O. 17 DE MAYO DE 2013.
+
+DECRETO NÚMERO 64, POR EL QUE SE REFORMA EL ARTÍCULO 33 DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO.
+
+Primero. El presente Decreto entrará en vigor al cuarto día siguiente a la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo. El Ayuntamiento de Silao de la Victoria, se sustituirá en todos los derechos, obligaciones, personalidad jurídica y patrimonio propio del Ayuntamiento de Silao, a la entrada en vigor del presente Decreto.
+
+Tercero. Una vez que sancione y promulgue el presente Decreto el Gobernador del Estado, remítase copia de la publicación en el Periódico Oficial del Gobierno del Estado y del presente dictamen, a las siguientes autoridades:
+
+Municipales:
+
+1. A los cuarenta y seis Ayuntamientos del Estado de Guanajuato.
+
+Estatales:
+
+1. Titular del Poder Ejecutivo Estatal;
+
+2. Entidades de la Administración Pública Estatal;
+
+3. Pleno del Supremo Tribunal de Justicia y Consejo del Poder Judicial del Estado; y
+
+4. Organismos Autónomos.
+
+Federales:
+
+1. Titular del Poder Ejecutivo Federal;
+
+2. Entidades de la Administración Pública Federal;
+
+3. Cámara de Diputados del Congreso de la Unión y Senado de la República;
+
+4. Suprema Corte de Justicia de la Nación, Consejo de la Judicatura Federal y Tribunal Electoral del Poder Judicial de la Federación;
+
+5. Tribunal Federal de Justicia Fiscal y Administrativa; y
+
+6. Organismos Autónomos.
+
+Cuarto. Cualquier referencia que en las Leyes, Decretos u otros ordenamientos exista al Municipio de Silao, se entenderán hechas al Municipio de Silao de la Victoria.
+
+Quinto. El Ayuntamiento de Silao de la Victoria, realizará en el ámbito de su competencia, dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, todas las modificaciones a sus Reglamentos Municipales, Bandos de Policía y Buen Gobierno, circulares y demás disposiciones administrativas de observancia general que sean conducentes para adecuarse a las disposiciones del presente Decreto.
+
+P.O. 17 DE MAYO DE 2013.
+
+DECRETO NÚMERO 65, POR EL QUE SE REFORMAN LOS ARTÍCULOS 3, PÁRRAFO SEGUNDO; Y 19, FRACCIÓN III, DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO.
+
+Artículo Primero. El presente decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. La obligatoriedad del Estado de garantizar la educación media superior, como deber del mismo de ofrecer un lugar para cursarla a quien tenga la edad típica, se realizará de manera gradual y creciente a partir del ciclo escolar 2012-2013 y hasta lograr la cobertura total en sus diversas modalidades, a más tardar en el ciclo escolar 2021-2022, con la concurrencia presupuestal de la Federación y del Estado, y en los términos establecidos en los instrumentos del Sistema Nacional y el Sistema Estatal de Planeación Democrática del Desarrollo.
+
+Artículo Tercero. Para dar cumplimiento al principio de obligatoriedad, en los presupuestos de egresos del Estado y de los municipios, se incluirán los recursos necesarios; asimismo, se establecerán los mecanismos para impulsar la implementación de presupuestos plurianuales que aseguren a largo plazo los recursos económicos crecientes para infraestructura de la educación media superior.
+
+P.O. 17 DE MAYO DE 2013.
+
+DECRETO NÚMERO 66, POR EL QUE SE REFORMA LA DENOMINACIÓN DEL TÍTULO PRIMERO PARA QUEDAR COMO «DE LOS DERECHOS HUMANOS Y SUS GARANTÍAS» Y LA DENOMINACIÓN DEL CAPÍTULO PRIMERO DEL TÍTULO PRIMERO, PARA QUEDAR COMO «DERECHOS CIVILES, POLÍTICOS, ECONÓMICOS, SOCIALES Y CULTURALES»; SE REFORMAN LOS ARTÍCULOS 1 PÁRRAFO PRIMERO; 8 PÁRRAFO SEGUNDO; Y 63 FRACCIÓN XXI, EN SU PÁRRAFO SÉPTIMO; SE ADICIONAN LOS ARTÍCULOS 1 CON UN PÁRRAFO SEGUNDO Y UN PÁRRAFO TERCERO, RECORRIÉNDOSE EN SU ORDEN LOS ACTUALES PÁRRAFOS SEGUNDO A CUARTO, PARA QUEDAR COMO PÁRRAFOS CUARTO A SEXTO; 3 CON UN PÁRRAFO TERCERO, RECORRIÉNDOSE EN SU ORDEN LOS ACTUALES PÁRRAFOS TERCERO Y CUARTO, PARA QUEDAR COMO CUARTO Y QUINTO; 4 CON LOS PÁRRAFOS CUARTO A NOVENO Y 77 FRACCIÓN XII CON UN PÁRRAFO TERCERO Y UN ULTIMO PÁRRAFO; TODOS ELLOS DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO.
+
+Artículo Primero.- El presente Decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo.- Se derogan todas las disposiciones que contravengan el presente Decreto.
+
+P.O. 17 DE MAYO DE 2013.
+
+DECRETO NÚMERO 67, POR EL QUE SE REFORMAN LOS ARTÍCULOS 79 Y 100 DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO.
+
+Artículo Único. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
