@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-municipal-para-el-estado-de-guanajuato-89381"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-09-11"
-last_updated: "2013-04-26"
+last_updated: "2013-05-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2013.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el martes 11 de septiembre de 2012.
 
@@ -34,6 +34,8 @@ QUE EL H. CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, HA 
 DECRETO NÚMERO 278
 
 LA SEXAGÉSIMA PRIMERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, DECRETA:
+
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NÚMERO 64, PUBLICADO EN EL P.O. 17 DE MAYO DE 2013, CUALQUIER REFERENCIA QUE EN LAS LEYES, DECRETOS U OTROS ORDENAMIENTOS EXISTA AL MUNICIPIO DE SILAO, SE ENTENDERÁN HECHAS AL MUNICIPIO DE SILAO DE LA VICTORIA.</small>
 
 Ley Orgánica Municipal para el Estado de Guanajuato
 
@@ -205,105 +207,109 @@ IV. Proponer que determinada necesidad colectiva, se declare servicio público, 
 
 División territorial
 
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2013)</small>
+
 ###### Artículo 19.
 
-Los municipios en que se divide el Estado, con sus respectivas cabeceras municipales, son:
+Los municipios en que se divide el Estado, con sus respectivas cabeceras municipales son:
 
-Municipio Cabecera
+Municipio: Cabecera:
 
-Abasolo Abasolo
+Abasolo. Abasolo.
 
-Acámbaro Acámbaro
+Acámbaro. Acámbaro.
 
-Apaseo el Alto Apaseo el Alto
+Apaseo el Alto. Apaseo el Alto.
 
-Apaseo el Grande Apaseo el Grande
+Apaseo el Grande. Apaseo el Grande.
 
-Atarjea Atarjea
+Atarjea. Atarjea.
 
-Celaya Celaya
+Celaya. Celaya.
 
-Comonfort Comonfort
+Comonfort. Comonfort.
 
-Coroneo Coroneo
+Coroneo. Coroneo.
 
-Cortazar Cortazar
+Cortazar. Cortazar.
 
-Cuerámaro Cuerámaro
+Cuerámaro. Cuerámaro.
 
 Dolores Hidalgo Cuna de la Dolores Hidalgo Cuna de la
 
-Independencia Nacional Independencia Nacional
+Independencia Nacional. Independencia Nacional.
 
-Doctor Mora Doctor Mora
+Doctor Mora. Doctor Mora.
 
-Guanajuato Guanajuato
+Guanajuato. Guanajuato.
 
-Huanímaro Huanímaro
+Huanímaro. Huanímaro.
 
-Irapuato Irapuato
+Irapuato. Irapuato.
 
-Jaral del Progreso Jaral del Progreso
+Jaral del Progreso. Jaral del Progreso.
 
-Jerécuaro Jerécuaro
+Jerécuaro. Jerécuaro.
 
-León León de los Aldama
+León. León de los Aldama.
 
-Manuel Doblado Ciudad Manuel Doblado
+Manuel Doblado. Ciudad Manuel Doblado.
 
-Moroleón Moroleón
+Moroleón. Moroleón.
 
-Ocampo Ocampo
+Ocampo. Ocampo.
 
-Pénjamo Pénjamo
+Pénjamo. Pénjamo.
 
-Pueblo Nuevo Pueblo Nuevo
+Pueblo Nuevo. Pueblo Nuevo.
 
-Purísima del Rincón Purísima de Bustos
+Purísima del Rincón. Purísima de Bustos.
 
-Romita Romita
+Romita. Romita.
 
-Salamanca Salamanca
+Salamanca. Salamanca.
 
-Salvatierra Salvatierra
+Salvatierra. Salvatierra.
 
-San Diego de la Unión San Diego de la Unión
+San Diego de la Unión. San Diego de la Unión.
 
-San Felipe San Felipe
+San Felipe. San Felipe.
 
-San Francisco del Rincón San Francisco del Rincón
+San Francisco del Rincón. San Francisco· del Rincón.
 
-San José Iturbide San José Iturbide
+San José Iturbide. San José Iturbide.
 
-San Luis de la Paz San Luis de la Paz
+San Luis de la Paz. San Luis de la Paz.
 
-San Miguel de Allende San Miguel de Allende
+San Miguel de Allende. San Miguel de Allende.
 
-Santa Catarina Santa Catarina
+Santa Catarina. Santa Catarina.
 
-Santa Cruz de Juventino Rosas Juventino Rosas
+Santa Cruz de
 
-Santiago Maravatío Santiago Maravatío.
+Juventino Rosas. Juventino Rosas.
 
-Silao Silao
+Santiago Maravatío. Santiago Maravatío.
 
-Tarandacuao Tarandacuao
+Silao de la Victoria. Silao de la Victoria.
 
-Tarimoro Tarimoro
+Tarandacuao. Tarandacuao.
 
-Tierra Blanca Tierra Blanca
+Tarimoro. Tarimoro.
 
-Uriangato Uriangato
+Tierra Blanca. Tierra Blanca.
 
-Valle de Santiago Valle de Santiago
+Uriangato. Uriangato.
 
-Victoria Victoria
+Valle de Santiago. Valle de Santiago.
 
-Villagrán Villagrán
+Victoria. Victoria.
 
-Xichú Xichú
+VilIagrán. Villagrán.
 
-Yuriria Yuriria
+Xichú. Xichú.
+
+Yuriria. Yuriria.
 
 Límites territoriales
 
@@ -3242,3 +3248,45 @@ Artículo Segundo. Los ayuntamientos del Estado de Guanajuato que no cuenten con
 Adecuación normativa
 
 Artículo Tercero. Los ayuntamientos deberán realizar las adecuaciones a los reglamentos respectivos dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
+
+P.O. 17 DE MAYO DE 2013.
+
+Primero. El presente Decreto entrará en vigor al cuarto día siguiente a la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo. El Ayuntamiento de Silao de la Victoria, se sustituirá en todos los derechos, obligaciones, personalidad jurídica y patrimonio propio del Ayuntamiento de Silao, a la entrada en vigor del presente Decreto.
+
+Tercero. Una vez que sancione y promulgue el presente Decreto el Gobernador del Estado, remítase copia de la publicación en el Periódico Oficial del Gobierno del Estado y del presente dictamen, a las siguientes autoridades:
+
+Municipales:
+
+1. A los cuarenta y seis Ayuntamientos del Estado de Guanajuato.
+
+Estatales:
+
+1. Titular del Poder Ejecutivo Estatal;
+
+2. Entidades de la Administración Pública Estatal;
+
+3. Pleno del Supremo Tribunal de Justicia y Consejo del Poder Judicial del
+
+Estado; y
+
+4. Organismos Autónomos.
+
+Federales:
+
+1. Titular del Poder Ejecutivo Federal;
+
+2. Entidades de la Administración Pública Federal;
+
+3. Cámara de Diputados del Congreso de la Unión y Senado de la República;
+
+4. Suprema Corte de Justicia de la Nación, Consejo de la Judicatura Federal y Tribunal Electoral del Poder Judicial de la Federación;
+
+5. Tribunal Federal de Justicia Fiscal y Administrativa; y
+
+6. Organismos Autónomos.
+
+Cuarto. Cualquier referencia que en las Leyes, Decretos u otros ordenamientos exista al Municipio de Silao, se entenderán hechas al Municipio de Silao de la Victoria.
+
+Quinto. El Ayuntamiento de Silao de la Victoria, realizará en el ámbito de su competencia, dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, todas las modificaciones a sus Reglamentos Municipales, Bandos de Policía y Buen Gobierno, circulares y demás disposiciones administrativas de observancia general que sean conducentes para adecuarse a las disposiciones del presente Decreto.
