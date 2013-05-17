@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-tribunal-federal-de-justicia-fiscal-708
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-13"
-last_updated: "2013-01-18"
+last_updated: "2013-05-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70849&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,9 +23,7 @@ issue_date: "2009-11-11"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE ENERO DE 2013.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 18 DE ENERO DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE MAYO DE 2013.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 13 de noviembre de 2009.
 
@@ -1557,7 +1555,7 @@ c) Dirección General de Recursos Materiales y Servicios Generales;
 
 d) Dirección General de Sistemas de Carrera;
 
-e) Dirección General de Innovación Institucional;
+e) (DEROGADO, P.O. 17 DE MAYO DE 2013)
 
 f) Dirección General de Infraestructura de Cómputo y Comunicaciones;
 
@@ -1603,7 +1601,7 @@ e) Los Delegados Administrativos.
 
 III. A la Secretaría Operativa de Tecnologías de la Información y las Comunicaciones:
 
-a) La Dirección General de Innovación Institucional;
+a) (DEROGADO, P.O. 17 DE MAYO DE 2013)
 
 b) La Dirección General de Infraestructura de Cómputo y Comunicaciones;
 
@@ -1947,35 +1945,9 @@ IX. Rendir los informes que le sean solicitados por las unidades administrativas
 
 X. Las demás que le confieran otras disposiciones jurídicas y la Junta.
 
-> <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2012)</small>
-
 ###### Artículo 84.
 
-Corresponde a la Dirección General de Innovación Institucional:
-
-I. Coordinar con las áreas del Tribunal, las acciones necesarias para el seguimiento e instrumentación del Plan Estratégico institucional;
-
-II. Formular, en coordinación con las áreas del Tribunal, el Programa Institucional en TICs, así como las políticas, objetivos, estrategias y líneas de acción para su desarrollo, y someterlo a la consideración de la Secretaría Operativa de Tecnologías de la Información y las Comunicaciones;
-
-III. Dictar las políticas, lineamientos y/o recomendaciones en materia de TICs a las unidades administrativas del Tribunal, con base en el Programa Institucional en TICs aprobado;
-
-IV. Coordinar la elaboración e integración de los programas e informes del Tribunal, relacionados con las TICs;
-
-V. Identificar los requerimientos de innovación tecnológica en apoyo a las funciones jurisdiccionales y administrativas;
-
-VI. Evaluar el Programa Institucional en TICs y formular las recomendaciones respecto a su avance y resultados;
-
-VII. Verificar los avances tecnológicos en el ámbito de las TICs a través del acceso a la información que se genere por distintos medios;
-
-VIII. Supervisar y dar seguimiento a los servicios contratados con terceros en el ámbito de TICs de su competencia;
-
-IX. Formular y proponer las acciones relacionadas con la administración de riesgos en TICs y emitir recomendaciones respecto a las medidas necesarias para asegurar el cumplimiento de los objetivos y metas estratégicas del Tribunal;
-
-X. Elaborar, conjuntamente con las Direcciones Generales de Infraestructura de Cómputo y Comunicaciones y del Sistema de Justicia en Línea, el programa anual de capacitación en TICs, así como de la funcionalidad del Sistema de Justicia en Línea, y remitirlo al Centro de Estudios para su instrumentación, y
-
-XI. Las demás que le confieran otras disposiciones jurídicas y la Junta.
-
-Sin perjuicio de su ejercicio directo por parte del Director General de Innovación Institucional, al Director de Administración de Proyectos Tecnológicos, corresponderá el ejercicio de las atribuciones previstas en las fracciones I, IV, VI, VIII y IX, y al Director de Política Informática corresponderá el ejercicio de las atribuciones previstas en las fracciones II, III, V, VII y X.
+(DEROGADO, P.O. 17 DE MAYO DE 2013)
 
 > <small>(REFORMADO, D.O.F. 18 DE ABRIL DE 2012)</small>
 
@@ -1983,7 +1955,9 @@ Sin perjuicio de su ejercicio directo por parte del Director General de Innovaci
 
 Corresponde a la Dirección General de Infraestructura de Cómputo y Comunicaciones:
 
-I. Diseñar y proponer a la Dirección General de Innovación Institucional las políticas, lineamientos, normas o procedimientos en materia de TICs de su competencia, conforme al marco tecnológico existente, a fin de fortalecer y complementar los servicios informáticos y la plataforma tecnológica institucional;
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2013)</small>
+
+I. Diseñar y proponer a la Secretaría Operativa de Tecnologías de la Información y las Comunicaciones las políticas, lineamientos, normas o procedimientos en materia de TIC's de su competencia, conforme al marco tecnológico existente, a fin de fortalecer y complementar los servicios informáticos y la plataforma tecnológica institucional;
 
 II. Difundir, promover, implementar, aplicar y vigilar las políticas, lineamientos, normas y procedimientos en materia de TICs de su competencia;
 
@@ -2035,7 +2009,9 @@ XXV. Administrar las licencias de programas de cómputo o pólizas de mantenimie
 
 XXVI. Participar con las unidades administrativas competentes del Tribunal, en la celebración de contratos, convenios y demás instrumentos jurídicos, con organismos, instituciones o entidades tanto públicas como privadas, nacionales o internacionales, en materia de TICs de su competencia;
 
-XXVII. Coadyuvar, con la Dirección General de Innovación Institucional, en la elaboración de programas o planes de capacitación en materia de TICs de su competencia;
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2013)</small>
+
+XXVII. Elaborar y proponer a la Secretaría de Tecnologías de la Información y las Comunicaciones los programas o planes de capacitación en materia de TIC's de su competencia;
 
 XXVIII. Acordar con el Secretario Operativo de TICs los asuntos de su competencia, y
 
@@ -2091,7 +2067,9 @@ XX. Participar en el desarrollo de los productos estadísticos y herramientas pa
 
 XXI. Atender requerimientos de las Salas relacionados con las fallas del Sistema de Justicia en Línea, en cuanto al uso, acceso o recepción de notificaciones, así como a la consulta y el envío de información mediante la utilización de la firma electrónica avanzada, clave de acceso y contraseñas;
 
-XXII. Atender los requerimientos relacionados con el Sistema de Control y Seguimiento de Juicios;
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2013)</small>
+
+XXVII. Identificar las necesidades de conocimientos y habilidades de los usuarios del Sistema de Justicia en Línea, a efecto de diseñar, promover y evaluar la ejecución de planes y programas de capacitación respecto de la funcionalidad del Sistema, poniéndolo en conocimiento y en su caso, aprobación, de la Secretaría Operativa de Tecnologías de la Información y las Comunicaciones, y
 
 XXIII. Atender las solicitudes de requerimientos funcionales necesarios para la mejora en la operación del Sistema de Justicia en Línea, provenientes de usuarios internos y externos;
 
@@ -2692,3 +2670,11 @@ QUINTO.- Se instruye a la Secretaría Operativa de Administración y a la Secret
 SEXTO.- Quedan sin efecto todas las disposiciones administrativas emitidas por el Tribunal que contravengan lo establecido en el presente ordenamiento.
 
 SEPTIMO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
+
+D.O.F. 17 DE MAYO DE 2013.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Quedan sin efecto todas las disposiciones administrativas emitidas por el Tribunal que contravengan lo establecido en este ordenamiento.
+
+TERCERO.- Los documentos emitidos por las Unidades Administrativas que desaparecen en virtud del presente Acuerdo, continuarán vigentes hasta en tanto los mismos no sean sustituidos por las Unidades Administrativas competentes establecidas en el presente ordenamiento.
