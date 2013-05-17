@@ -4,7 +4,7 @@ identifier: "COA-codigo-de-procedimientos-penales-de-coahuila-15147"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-05-25"
-last_updated: "2012-10-19"
+last_updated: "2013-05-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15147&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,17 @@ state: "COA"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES DE COAHUILA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE MAYO DE 2013 EN EL P.O. DEL ESTADO DE COAHUILA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CÓDIGO DE PROCEDIMIENTOS PENALES DE COAHUILA
 
 > <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS SEGUNDO, TERCERO Y SEXTO TRANSITORIOS DEL CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADO EN EL P.O. DE 17 DE FEBRERO DE 2012, EL PRESENTE ORDENAMIENTO SERA ABROGADO PROGRESIVAMENTE.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO NÚMERO 260, PUBLICADO EN EL P.O. DE 17 DE MAYO DE 2013, LAS DISPOSICIONES CONTENIDAS EN EL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO EL 25 DE MAYO DE 1999, ESTARÁN VIGENTES EN AQUELLOS DISTRITOS JUDICIALES O REGIONES EN QUE NO SE IMPLEMENTE EL NUEVO SISTEMA DE JUSTICIA PENAL PREVISTO EN EL CÓDIGO ADJETIVO PENAL PUBLICADO EL 17 DE FEBRERO DEL 2012. IGUALMENTE CONTINUARÁN VIGENTES TALES DISPOSICIONES HASTA QUE SE CONCLUYAN LOS PROCESOS PENALES QUE DEBERÁN TRAMITARSE BAJO LAS DISPOSICIONES DEL PRIMERO DE LOS ORDENAMIENTOS SEÑALADOS.</small>
+
+UNA VEZ QUE SE HAYA OBSERVADO LO PREVISTO EN EL PÁRRAFO QUE ANTECEDE EL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO EL 25 DE MAYO DE 1999 QUEDARÁ ABROGADO.
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2013.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila, el martes 25 de mayo de 1999.
 
@@ -6136,3 +6142,19 @@ El Consejo de la Judicatura del Estado de Coahuila determinará en acuerdo gener
 ###### ARTÍCULO QUINTO.
 
 A las personas a las que se les impute la comisión o hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, incluidas las procesadas o sentenciadas, les serán aplicables las disposiciones vigentes en el momento en que se haya cometido.
+
+P.O. 17 DE MAYO DE 2013.
+
+PRIMERO.- El presente decreto entrará en vigor el primero de junio de dos mil trece, atendiendo lo previsto en el artículo sexto transitorio del Decreto Número 6 publicado en el Periódico Oficial del Gobierno del Estado el 17 de febrero de 2012, mediante el cual se aprobó el Código de Procedimientos Penales del Estado de Coahuila de Zaragoza.
+
+SEGUNDO.- Los mecanismos alternos de justicia restaurativa previstos en este código, serán aplicables respecto a las averiguaciones previas y procesos por delitos que deban llevarse conforme al Código de Procedimientos Penales del Estado de Coahuila de Zaragoza, publicado en el Periódico Oficial del Gobierno del Estado el 25 de mayo de 1999.
+
+(NOTA: EL 31 DE OCTUBRE DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2012, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE TRANSITORIO TERCERO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE NOVIEMBRE DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+
+TERCERO.- Los delitos contra la salud en su modalidad de narcomenudeo, contenidos en el capítulo VII del Título Décimo Octavo de la Ley General de Salud Y SUS CORRELATIVOS COMPRENDIDOS EN EL TÍTULO CUARTO, APARTADO CUARTO, DEL LIBRO SEGUNDO DEL CÓDIGO PENAL DEL ESTADO DE COAHUILA; los delitos comprendidos en los artículos 280 Bis a 280 Bis 8 del Código Penal de Coahuila; así como los delitos señalados en el Capítulo II de la Ley General para Prevenir y Sancionar los delitos en materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, en aquellos casos que no corresponda conocer a la Federación, se juzgarán conforme a lo establecido en el Código de Procedimientos Penales de Coahuila publicado en el Periódico Oficial del Gobierno del Estado, el 25 de mayo de 1999, hasta en tanto, conforme a la Ley para la Implementación, Seguimiento y Evaluación del Sistema de Justicia Penal Acusatorio y Oral, se incorporen al nuevo sistema de enjuiciamiento penal.
+
+CUARTO.- Las disposiciones contenidas en el Código de Procedimientos Penales para el Estado de Coahuila de Zaragoza, publicado en el Periódico Oficial del Gobierno del Estado el 25 de mayo de 1999, estarán vigentes en aquellos distritos judiciales o regiones en que no se implemente el nuevo sistema de justicia penal previsto en el código adjetivo penal publicado el 17 de febrero del 2012. Igualmente continuarán vigentes tales disposiciones hasta que se concluyan los procesos penales que deberán tramitarse bajo las disposiciones del primero de los ordenamientos señalados.
+
+Una vez que se haya observado lo previsto en el párrafo que antecede el Código de Procedimientos Penales para el Estado de Coahuila de Zaragoza, publicado en el Periódico Oficial del Gobierno del Estado el 25 de mayo de 1999 quedará abrogado.
+
+QUINTO.- Se derogan todas las disposiciones que se opongan al presente decreto.
