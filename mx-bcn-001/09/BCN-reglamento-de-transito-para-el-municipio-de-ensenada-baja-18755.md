@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-transito-para-el-municipio-de-ensenada-baja-18755
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-22"
-last_updated: "2008-08-01"
+last_updated: "2013-05-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18755&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE TRANSITO PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE AGOSTO DE 2008
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 22 de diciembre de 2000.
 
@@ -511,21 +511,37 @@ Será obligación de los agentes llevar consigo los formatos de boletas de infra
 
 Las autoridades de Tránsito Municipal de Ensenada, Baja California, podrán solicitar a la Dirección de Tránsito y Transportes del Estado, que se suspendan o cancelen las licencias de manejar en los casos siguientes:
 
-I.- Por que (sic) así lo resuelva una sentencia que haya causado ejecutoria.
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2013)</small>
+
+I.- Porque así lo resuelva una sentencia que haya causado ejecutoria.
 
 II.- Por demostrarse médicamente que el conductor es adicto a las bebidas embriagantes o al uso de estupefacientes.
 
 III.- Cuando en el transcurso de 12 meses se le haya infraccionado tres veces por exceso de velocidad en tercer grado.
 
-IV.- Por ser responsable de dos accidentes de tránsito con saldo de lesionados o muertos.
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2013)</small>
 
-V.- Por ser responsable de tres accidentes de tránsito con daños materiales, en un período de 12 meses.
+IV.- Cuando en el transcurso de dos años, habiendo sido apercibido por la autoridad, contados a partir del primer apercibimiento, se le encuentre conduciendo un vehículo de motor, y se determine por certificado médico que se encuentra en estado de ebriedad, bajo el influjo de estupefacientes, psicotrópicos u otras sustancias que impidan o perturben su adecuada conducción
 
-VI.- Cuando a juicio debidamente fundado, represente un peligro para la seguridad o el bienestar general.
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2013)</small>
 
-VII.- Cuando se compruebe que el conductor ha adquirido un hábito o una enfermedad que lo inhabilite temporalmente para conducir vehículo de servicio público.
+V.- Por ser responsable de dos accidentes de tránsito con saldo de lesionados o muertos.
 
-VIII.- Cuando permita el uso ilegal o fraudulento de su licencia.
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2013)</small>
+
+VI.- Por ser responsable de tres accidentes de tránsito con daños materiales, en un período de 12 meses.
+
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2013)</small>
+
+VII.- Cuando a juicio debidamente fundado, represente un peligro para la seguridad o el bienestar general.
+
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2013)</small>
+
+VIII.- Cuando se compruebe que el conductor ha adquirido un hábito o una enfermedad que lo inhabilite temporalmente para conducir vehículo de servicio público.
+
+> <small>(ADICIONADA, P.O. 17 DE MAYO DE 2013)</small>
+
+IX.- Cuando permita el uso ilegal o fraudulento de su licencia.
 
 ###### ARTICULO 39.
 
@@ -549,11 +565,19 @@ V.- Cuando el conducto (sic) y acompañante (s) estén ingiriendo bebidas alcoh�
 
 VI.- Cuando el conductor se encuentre fuera del vehículo los acompañantes estén ingiriendo bebidas alcohólicas en el Interior del mismo.
 
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2013)</small>
+
 ###### ARTICULO 41.
 
-Se prohibe a toda persona conducir en estado de ebriedad o bajo el influjo de substancias tóxicas, de alguna droga, o de substancias enervantes, los casos a que se refiere este ordenamiento y para los efectos de este Reglamento, se considera que una persona se encuentra en estado de ebriedad cuando exista un certificado médico que así lo asevere.
+Se prohíbe a toda persona conducir en estado de ebriedad o bajo el influjo de estupefacientes, psicotrópicos u otras substancias tóxicas, que impidan o perturben su capacidad de conducir un vehículo de motor. Para determinar los casos a que se refiere este ordenamiento y para los efectos de este Reglamento, se considera que una persona se encuentra en estado de ebriedad, intoxicado o inhabilitado para conducir cuando exista un certificado médico que así lo asevere.
 
-Los métodos, técnicas y procedimientos que la autoridad competente aplicará para verificar, en caso dado, los supuestos a que se refiere este artículo serán los que apliquen los Médicos Municipales del Hospital General, Instituto Mexicano del Seguro Social y sus Delegaciones, de la Cruz Roja Mexicana y los Médicos Legistas.
+Los métodos, técnicas y procedimientos que la autoridad competente aplicará para certificar que el conductor se encuentra dentro de los supuestos a que se refiere este artículo serán los que apliquen los Médicos Municipales adscritos a la Dirección de Servicios Médicos Municipales, los Médicos del Hospital General, Instituto Mexicano del Seguro Social y sus Delegaciones, de la Cruz Roja Mexicana y los Médicos Legistas.
+
+La persona que conduzca un vehículo de motor, en alguno de los supuestos previstos en el primer párrafo de este articulo; siempre que de los registros o archivos a disposición del Juez Calificador se desprenda que se trata de la primera vez, y que no haya causado perjuicio en las personas o en las cosas, serán sancionadas por él mismo, quien realizará el apercibimiento formal respectivo tanto de manera escrita como verbalmente, realizándose éste último una vez que hayan cesado los efectos del alcohol, asentándolo en los registros correspondientes para efecto del computo de la reincidencia.
+
+Los infractores reincidentes serán turnados a la Agencia del Ministerio Público del orden común para los efectos de su competencia.
+
+Existe reincidencia cuando el responsable ha sido previamente sancionado por la misma falta, dentro de los dos años anteriores a la fecha en que se le imponga la nueva sanción.
 
 ###### ARTICULO 42.
 
@@ -2264,3 +2288,7 @@ P.O. 1 DE AGOSTO DE 2008.
 PRIMERO.- Siendo aprobada la presente iniciativa, incorpórese en el libro de actas y publíquese en el periódico oficial del Gobierno del Estado de Baja California, para efectos de iniciar la vigencia en todo el territorio del Municipio.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones reglamentarias que se opongan a (sic) contenido de la presente reforma.
+
+P.O. 17 DE MAYO DE 2013.
+
+ÚNICO: La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
