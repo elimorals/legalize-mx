@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-poder-legislativo-del-estado-de-guanajuato-406
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-08-13"
-last_updated: "2012-12-04"
+last_updated: "2013-05-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40666&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2013.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 13 de agosto del 2004.
 
@@ -965,33 +965,33 @@ VIII. Desarrollo Urbano y Obra Pública;
 
 IX. Educación, Ciencia y Tecnología y Cultura;
 
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2013)</small>
 
-X. Equidad de Género;
+X. Fomento Agropecuario;
 
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2013)</small>
 
-XI. Fomento Agropecuario;
+XI. Gobernación y Puntos Constitucionales;
 
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2013)</small>
 
-XII. Gobernación y Puntos Constitucionales;
+XII. Hacienda y Fiscalización;
 
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2013)</small>
 
-XIII. Hacienda y Fiscalización;
+XIII. Justicia;
 
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2013)</small>
 
-XIV. Justicia;
+XIV. Juventud y Deporte;
 
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2013)</small>
 
-XV. Juventud y Deporte;
+XV. Medio Ambiente;
 
-> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2013)</small>
 
-XVI. Medio Ambiente;
+XVI. Para la Igualdad de Género;
 
 > <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2007)</small>
 
@@ -1199,25 +1199,7 @@ V.- Otros análogos, que a juicio del Presidente del Congreso, sean materia de t
 
 ###### Artículo 93.
 
-Corresponde a la Comisión de Equidad de Género, el conocimiento y dictamen de los siguientes asuntos:
-
-I.- (DEROGADA, P.O. 4 DE SEPTIEMBRE DE 2009)
-
-II.- Los que se refieran a las iniciativas de ley, reformas y adiciones relacionadas con la equidad de género;
-
-III.- Proponer medidas legislativas para el cumplimiento de los acuerdos, convenios y conferencias internacionales que México haya suscrito relacionados con su competencia;
-
-IV.- Los que se relacionen con la discriminación o maltrato por razones de sexo, raza, edad, credo político o religioso, y situación socioeconómica, así como los que se refieran al reconocimiento de condiciones equitativas e igualdad de oportunidades de acceso al desarrollo para las personas;
-
-> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
-
-V.- Proponer que las autoridades competentes lleven a cabo acciones impulsando una cultura de equidad de género;
-
-> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
-
-VI.- Emitir opinión, en el proceso de dictaminación de las otras comisiones cuando el asunto o iniciativa en análisis tenga relación con la equidad de género. Dicha opinión no será vinculante; y
-
-VII. Otros análogos, que a juicio del Presidente del Congreso, sean materia de tratamiento por esta Comisión.
+(DEROGADO, P.O. 17 DE MAYO DE 2013)
 
 ###### Artículo 94.
 
@@ -1396,6 +1378,22 @@ III.- La protección y preservación de las áreas naturales protegidas;
 IV.- Los que se refieran al tratamiento de aguas residuales de plantas industriales;
 
 V.- Los relativos a la contaminación del ambiente por cualquier causa; y
+
+VI.- Otros análogos, que a juicio del Presidente del Congreso, sean materia de tratamiento por esta Comisión.
+
+> <small>(ADICIONADO, P.O. 17 DE MAYO DE 2013)</small>
+
+Artículo 99 bis.- Corresponde a la Comisión para la Igualdad de Género, el conocimiento y dictamen de los siguientes asuntos:
+
+I.- Los que se refieran a las iniciativas de ley, reformas y adiciones relacionadas con la igualdad de género;
+
+II.- Proponer medidas legislativas para el cumplimiento de los acuerdos, convenios y conferencias internacionales que México haya suscrito relacionados con su competencia;
+
+III.- Los que se relacionen con la discriminación o maltrato por razones de sexo, raza, edad, credo político o religioso, y situación socioeconómica, así como los que se refieran al reconocimiento de condiciones equitativas e igualdad de oportunidades de acceso al desarrollo para las personas;
+
+IV.- Proponer que las autoridades competentes lleven a cabo acciones impulsando una cultura de igualdad de género;
+
+V.- Emitir opinión, en el proceso de dictaminación de las otras comisiones cuando el asunto o iniciativa en análisis tenga relación con la igualdad de género. Dicha opinión no será vinculante; y
 
 VI.- Otros análogos, que a juicio del Presidente del Congreso, sean materia de tratamiento por esta Comisión.
 
@@ -2936,3 +2934,13 @@ Artículo primero. El presente decreto entrará en vigencia el cuarto día sigui
 Artículo segundo. El Congreso del Estado deberá expedir el Reglamento de Acceso a la Información Pública del Poder Legislativo del Estado de Guanajuato, dentro de los ciento veinte días siguientes a la entrada en vigencia del presente decreto.
 
 Artículo tercero. El acuerdo de clasificación de la información del Poder Legislativo emitido por la Junta de Gobierno y Coordinación Política ante la Sexagésima Primera Legislatura seguirá observándose en lo conducente, hasta en tanto la Unidad de Acceso a la Información Pública del Poder Legislativo emite el acuerdo de clasificación de conformidad con la Ley de Transparencia y Acceso a la Información Pública para el Estado y los Municipios de Guanajuato y el presente Decreto.
+
+P.O. 17 DE MAYO DE 2013.
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo segundo. Las diputadas y diputado (sic) integrantes de la actual Comisión de Equidad de Género de la Sexagésima Segunda Legislatura del Congreso del Estado, integrarán la Comisión para la Igualdad de Género.
+
+Artículo tercero. Todos los asuntos que se encuentren en trámite o en proceso ante la Comisión de Equidad de Género, se entenderán turnados a la Comisión para la Igualdad de Género.
+
+Artículo cuarto. Las referencias que en otros ordenamientos se hagan a la Comisión de Equidad de Género, se entenderán hechas a la Comisión para la Igualdad de Género.
