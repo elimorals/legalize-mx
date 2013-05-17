@@ -4,7 +4,7 @@ identifier: "GUA-codigo-civil-para-el-estado-de-guanajuato-9891"
 country: "mx"
 rank: "codigo"
 publication_date: "1967-05-14"
-last_updated: "2013-03-05"
+last_updated: "2013-05-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9891&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2013.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Guanajuato, el 14 de mayo de 1967.
 
@@ -2535,9 +2535,11 @@ Los cónyuges deben darse alimentos. La ley determinará cuándo queda subsisten
 
 Los concubinos están obligados a darse alimentos, si la mujer o el varón viven como si fueran cónyuges durante un lapso continuo de por lo menos cinco años o han procreado hijos, siempre y cuando hayan permanecido ambos libres de matrimonio.
 
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2013)</small>
+
 ###### Art. 357.
 
-Los padres están obligados a dar alimentos a sus hijos. A falta o por imposibilidad de los padres, la obligación recae en los demás ascendientes por ambas líneas que estuvieren más próximas en grado.
+Los padres están obligados a dar alimentos a sus hijos desde el momento en que son concebidos. A falta o por imposibilidad de los padres, la obligación recae en los demás ascendientes por ambas líneas que estuvieren más próximas en grado.
 
 ###### Art. 358.
 
@@ -2560,6 +2562,10 @@ El adoptante y el adoptado tienen obligación de darse alimentos, en los casos e
 ###### Art. 362.
 
 Los alimentos comprenden la comida, el vestido, la habitación y la asistencia en casos de enfermedad. Respecto de los menores, los alimentos comprenden, además, los gastos necesarios para la educación básica obligatoria del alimentista y para proporcionarle algún oficio, arte o profesión honestos y adecuados a su sexo y circunstancias personales.
+
+> <small>(ADICIONADO, P.O. 17 DE MAYO DE 2013)</small>
+
+Los alimentos para el concebido comprenden, además, los gastos de atención médica tanto para la mujer embarazada como para el concebido, y los del parto.
 
 ###### Art. 363.
 
@@ -3343,7 +3349,7 @@ La patria potestad sobre los hijos de matrimonio se ejerce por el padre y la mad
 
 I. Cuando haya abuelos por ambas líneas, el juez los escuchará y decidirá lo que sea más conveniente a los menores, tomando en cuenta la mayor identificación afectiva, las condiciones físicas y morales de los abuelos, su estabilidad económica y siempre que fuere posible, la opinión del menor. El ejercicio de la acción respectiva corresponde a cualquiera de los abuelos y en su defecto al ministerio público.
 
-En cuanto atenga conocimiento del asunto el juez tomará las medidas necesarias en relación a la custodia de los menores, mientras se decide sobre la patria potestad;
+En cuanto atenga conocimiento del asunto, el juez tomará las medidas necesarias en relación a la custodia de los menores, mientras se decide sobre la patria potestad;
 
 > <small>(REFORMADA, P.O. 10 DE JUNIO DE 2005)</small>
 
@@ -7523,7 +7529,7 @@ II. La acción de cualquier comerciante para cobrar el precio de objetos vendido
 
 La prescripción corre desde el día en que fueron entregados los objetos, si la venta no se hizo a plazo;
 
-III. La acción de los dueños de hoteles y casas de huéspedes para cobrar el importe del hospedaje; y la de éstos y la de los fondistas para cobrar el precio de los alimentos que ministren. La prescripción corre desde el día en que debió ser pagado el hospedaje, o desde aquel en que se ministraron los alimentos;
+III. La acción de los dueños de hoteles y casas de huéspedes para cobrar el importe del hospedaje; y la de éstos y la de los fondistas para cobrar el precio de los alimentos que ministren. La prescripción corre desde el día en que debió ser pagado el hospedaje, o desde aquél en que se ministraron los alimentos;
 
 IV. La responsabilidad civil por injurias, ya sean hechas de palabra o por escrito, y la que nace del daño causado por personas o animales, y que la ley impone al representante de aquéllas o al dueño de éstos. La prescripción comienza a correr desde el día en que se recibió o fue conocida la injuria o desde aquel en que se causó el daño;
 
@@ -8907,7 +8913,7 @@ Si tiene contra el cedente un crédito todavía no exigible cuando se hace la ce
 
 ###### Art. 1524.
 
-En los casos a que se refiere el artículo 1521, para que el cesionario pueda ejercitar sus derechos contra el deudor, deberá hacer a éste la notificación de la cesión, ya sea judicialmente, ya en lo extrajudicial, ante dos testigos o anteNotario.
+En los casos a que se refiere el artículo 1521, para que el cesionario pueda ejercitar sus derechos contra el deudor, deberá hacer a éste la notificación de la cesión, ya sea judicialmente, ya en lo extrajudicial, ante dos testigos o ante Notario.
 
 ###### Art. 1525.
 
@@ -12079,7 +12085,7 @@ Las acciones que nacen del transporte, sean en pro o en contra de los porteadore
 
 ###### Art. 2177.
 
-Si la cosa transportada fuere de naturaleza peligrosa, de mala calidad o no estuviere convenientemente empacada o envasada y el daño proviniere de alguna de estas circunstancias, la responsabilidad será del dueño del transporte, si tuvo conocimiento de ellas; en caso contrario, la responsabilidad será del que contrató el porteador, tanto por el daño que se causen en la cosa, como por el que reciban el medio de transporte u otras personas u objetos.
+Si la cosa transportada fuere de naturaleza peligrosa, de mala calidad o no estuviere convenientemente empacada o envasada y el daño proviniere de alguna de estas circunstancias, la responsabilidad será del dueño del transporte, si tuvo conocimiento de ellas; en caso contrario, la responsabilidad será del que contrató con el porteador, tanto por el daño que se causen en la cosa, como por el que reciban el medio de transporte u otras personas u objetos.
 
 ###### Art. 2178.
 
@@ -14609,7 +14615,7 @@ Aunque el testador nombre algunos herederos individualmente y a otros colectivam
 
 ###### Art. 2640.
 
-Si el testador instituye a sus hermanos, y los tiene sólo de padre, solo de madre, o de padre y madre, se dividirá la herencia como en el caso de intestado.
+Si el testador instituye a sus hermanos, y los tiene solo de padre, sólo de madre, o de padre y madre, se dividirá la herencia como en el caso de intestado.
 
 ###### Art. 2641.
 
@@ -15251,6 +15257,8 @@ Si el testador no puede o no sabe leer, dictará en su idioma el testamento al i
 
 En este caso, el intérprete podrá intervenir, además, como testigo de conocimiento.
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2005)</small>
+
 ###### Art. 2774.
 
 Las formalidades expresadas en este capítulo se practicarán en un solo acto que comenzará con la lectura del testamento y el notario dará fe de haberse llenado aquéllas.
@@ -15258,8 +15266,6 @@ Las formalidades expresadas en este capítulo se practicarán en un solo acto qu
 ###### Art. 2775.
 
 Faltando algunas de las referidas formalidades, quedará el testamento sin efecto; el Notario será responsable de los daños y perjuicios y, según la gravedad del caso, podrá decretarse la pérdida del oficio.
-
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2005)</small>
 
 ### Capítulo V. Del testamento ológrafo
 
@@ -16926,3 +16932,7 @@ Artículo Segundo. La reforma al artículo 477 contenida en el presente Decreto 
 P.O. 5 DE MARZO DE 2013.
 
 Artículo Único. El presente Decreto entrará en vigencia al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 17 DE MAYO DE 2013.
+
+Artículo Único. El presente Decreto entrará en vigencia al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
