@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-poder-judicial-del-estado-de-guanajuato-87867"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-05-22"
-last_updated: "2012-06-26"
+last_updated: "2013-05-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87867&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "GUA"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 26 DE JUNIO DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2013.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 22 de mayo de 2012.
 
@@ -3457,17 +3455,21 @@ Artículo Séptimo. Las reglas relativas a la evaluación de jueces se aplicará
 
 A partir de la entrada en vigencia de la Ley, el Consejo del Poder Judicial implementará la capacitación a los jueces, relativa a la evaluación de su desempeño.
 
-Concursos de oposición para integrar el sistema penal acusatorio y oral
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2013)</small>
 
-Artículo Octavo. En relación con la carrera judicial y hasta antes de la entrada en vigor del sistema penal acusatorio y oral en la Región IV, el Consejo del Poder Judicial, podrá convocar a los jueces menores penales y mixtos y secretarios de sala penal para participar en los concursos de oposición para designar a los jueces que operen este sistema.
+Concursos de oposición para designación de jueces en materia penal
 
-Los jueces de partido y los secretarios de juzgado de partido que deseen integrar el sistema penal acusatorio y oral, deberán someterse a un proceso de selección cuyas reglas y bases se contendrán en la convocatoria respectiva.
+Artículo Octavo. En relación con la carrera judicial y hasta antes del 1 de junio de 2017, el Consejo del Poder Judicial, podrá convocar a los jueces menores penales y mixtos y secretarios de sala penal para participar en los concursos de oposición para designar a los jueces que ejerzan su función en materia penal en el Estado que las necesidades de la impartición de justicia exijan nombrar.
 
-Convocatoria para jueces que operen juicios orales civiles y mercantiles
+Los jueces de partido, secretarios de sala y los secretarios de juzgado de partido que deseen integrar el sistema penal acusatorio y oral, deberán someterse a un proceso de selección cuyas reglas y bases se contendrán en la convocatoria respectiva.
 
-Artículo Noveno. Hasta antes de la entrada en vigor de los juicios orales civiles regulados en las reformas al Código de Procedimientos Civiles para el Estado de Guanajuato, publicadas el 27 de diciembre de 2011 en el Periódico Oficial del Gobierno del Estado, y de los juicios orales mercantiles regulados en las reformas al Código de Comercio publicadas el 9 de enero de 2012 en el Diario Oficial de la Federación, el Consejo del Poder Judicial podrá convocar a los jueces menores civiles y mixtos, y secretarios de sala civil para participar en los concursos de oposición para designar a los jueces que operen estos juicios.
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2013)</small>
 
-Los jueces de partido y secretarios de juzgado de partido que deseen participar en el sistema de juicios orales civiles y en el de juicios orales mercantiles, deberán someterse a un proceso de selección cuyas reglas y bases se contendrán en la convocatoria respectiva.
+Convocatoria para jueces en materia civil
+
+Artículo Noveno. Hasta antes del 1 de octubre de 2015, el Consejo del Poder Judicial podrá convocar a los jueces menores civiles y mixtos, y secretarios de sala civil para participar en los concursos de oposición para designar a los jueces que ejerzan su función en materia civil en el Estado que las necesidades de la impartición de justicia exijan nombrar.
+
+Los jueces de partido, secretarios de sala y secretarios de juzgado de partido que deseen participar en el sistema de juicios orales civiles y en el de juicios orales mercantiles, deberán someterse a un proceso de selección cuyas reglas y bases se contendrán en la convocatoria respectiva.
 
 Venta de bienes a disposición de juzgados
 
@@ -3490,3 +3492,9 @@ HÉCTOR GERMÁN LÓPEZ SANTILLANA
 EL SECRETARIO DE GOBIERNO
 
 ROMÁN CIFUENTES NEGRETE
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 17 DE MAYO DE 2013.
+
+Artículo Único. El presente Decreto iniciará su vigencia al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
