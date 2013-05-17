@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimientos-civiles-del-estado-de-guanajuato-39958
 country: "mx"
 rank: "codigo"
 publication_date: "1934-03-08"
-last_updated: "2012-09-11"
+last_updated: "2013-05-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2013.
 
 Código publicado en el Anexo del Periódico Oficial del Estado de Guanajuato, el 8 de marzo de 1934.
 
@@ -3741,7 +3741,7 @@ II.- Nombrar síndico;
 
 III.- Decretar el embargo y aseguramiento de los bienes, libros, correspondencia y documentos del deudor, diligencias que deberán practicarse en el día, sellando las puertas de los almacenes y despacho del deudor y muebles susceptibles del embargo que se hallen en el domicilio del mismo deudor;
 
-IV.- Hacer saber a lo deudores la prohibición de hacer pagos o entregar efectos al concursado y la orden a éste de entregar los bienes al síndico, bajo el apercibimiento de segunda paga a los primeros y de procederse penalmente en contra del deudor que ocultare cosas de su propiedad;
+IV.- Hacer saber a los deudores la prohibición de hacer pagos o entregar efectos al concursado y la orden a éste de entregar los bienes al síndico, bajo el apercibimiento de segunda paga a los primeros y de procederse penalmente en contra del deudor que ocultare cosas de su propiedad;
 
 V.- Señalar un término de nueve días, contados a partir de la fecha en que surta efectos el emplazamiento, para que los acreedores presenten sus demandas; con apercibimiento de que las que no se presenten en el término indicado, no entrarán en concurso, sino que se dejarán a los interesados sus derechos a salvo;
 
@@ -5553,15 +5553,17 @@ Desahogada la audiencia a que se refiere el artículo anterior, el Juez señalar
 
 ### CAPÍTULO SEXTO (SIC). Del pago o aseguramiento de alimentos
 
-###### Artículo 770.
+> <small>N. DE E. EL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 27 DE DICIEMBRE DE 20011 DEROGO EL ARTÍCULO 770, POR LO QUE SE COLOCA LA LITERALIDAD DEL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 17 DE MAYO DE 2013.</small>
 
-(DEROGADO, P.O. 27 DE DICIEMBRE DE 2011)
+> <small>(ADICIONADO, P.O. 17 DE MAYO DE 2013)</small>
 
 ###### Art. 770.
 
-Para decretar alimentos en favor de quien tenga derecho de exigirlos, bastará acreditar el mismo, con los siguientes documentos: testamento, los documentos comprobantes de parentesco o de matrimonio, el convenio o la ejecutoria en que conste la obligación de dar alimentos.
+Para decretar alimentos… (sic)
 
-> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2009)</small>
+En el caso del concebido fuera del matrimonio o de concubinato, la mujer embarazada tiene el derecho de exigir el pago o el aseguramiento de alimentos, quien deberá acreditar su estado con el certificado médico de embarazo emitido por institución de salud pública; así también deberá justificar, por cualquier medio de prueba, o indicios o presunciones, la existencia de una relación íntima, en la época de la concepción, entre la mujer embarazada y el pretendido obligado a dar alimentos al concebido.
+
+La persona contra la que se hubiere presentado la demanda de alimentos o, en su caso, contra la que se haya decretado la medida de embargo de bienes para garantizar alimentos para el concebido, sin que la madre interesada o su representante acreditara tener derecho, podrá reclamar el pago de lo indebido y a obtener la reparación del daño moral de quien la haya señalado falsamente, sin perjuicio de la responsabilidad penal en que se incurra.
 
 ###### Artículo 771.
 
@@ -5699,21 +5701,37 @@ En los asuntos que su naturaleza lo permita, antes del inicio de las audiencias,
 
 En cualquier etapa del procedimiento el juez propiciará y procurará la conciliación entre las partes para que logren un acuerdo que solucione el conflicto.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MAYO DE 2013)</small>
+
+###### Art. 785.
+
+En las audiencias el juez tendrá fe pública y las presidirá, sin que en el desarrollo de las mismas resulte aplicable lo dispuesto por los artículos 61 y 62 del presente Código.
+
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2013)</small>
+
+Toda intervención de quienes participen en las audiencias se efectuará oralmente. El juez dirigirá el debate, conducirá el desahogo de las pruebas, exigirá el cumplimiento de las formalidades que correspondan y moderará la discusión; podrá impedir que las alegaciones se desvíen hacia aspectos inconducentes o inadmisibles, también fijará el número de intervenciones a cada una de las partes, las que no podrán exceder preferentemente de quince minutos cada una, con la ponderación que en cada caso realice el juez.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
-###### Artículo 785.
-
-Las audiencias serán presididas por el juez. Toda intervención de quienes participen en ellas se efectuará oralmente.
-
-El juez dirigirá el debate, conducirá el desahogo de las pruebas, exigirá el cumplimiento de las formalidades que correspondan y moderará la discusión; podrá impedir que las alegaciones se desvíen hacia aspectos inconducentes o inadmisibles, también podrá limitar el tiempo y número de veces del uso de la palabra a las partes que debieren intervenir, interrumpiendo a quienes se excedieren,
-
 El juez contará con las más amplias facultades para mantener el orden durante el debate. Asimismo, podrá limitar el acceso a un número determinado de personas, impedir la entrada y ordenar la salida de aquéllas que se presenten en condiciones inapropiadas con la formalidad de la audiencia.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
 Quienes asistan deberán permanecer en silencio mientras no estén autorizados para intervenir, debiendo responder de forma respetuosa a las preguntas que se les formulen.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+
 En las salas de audiencias, queda prohibido a las partes y a los asistentes utilizar equipos de telefonía y captura de audio, video o imágenes en cualquier formato.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
 Para hacer cumplir sus determinaciones el juez podrá hacer uso de las correcciones disciplinarias y medios de apremio previstos en este Código.
 
@@ -5749,13 +5767,17 @@ Durante el desarrollo de las audiencias, de estimarlo necesario, el juez podrá 
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
-###### Artículo 789.
+###### Art. 789.
 
 Las audiencias se registrarán por medios electrónicos, que permitan garantizar la fidelidad, autenticidad e integridad de la información, la conservación y reproducción de su contenido y el acceso a los mismos a quienes, de acuerdo a la ley, tuvieren derecho a ello.
 
-Al inicio de las audiencias el secretario del juzgado hará constar oralmente en el registro a que hace referencia el párrafo anterior, la fecha, hora y lugar de realización, el nombre de los servidores públicos del juzgado, y demás personas que intervendrán.
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2013)</small>
 
-Al término de las audiencias el juez y el secretario asentarán su firma electrónica certificada en el medio de almacenamiento electrónico, óptico o de cualquier otra tecnología en el que conste el desarrollo de la audiencia. Si para la grabación de la audiencia se utilizara más de un medio de almacenamiento, se firmará electrónicamente cada uno de ellos.
+Al inicio de las audiencias el personal judicial de apoyo del juez, hará constar oralmente en el registro a que hace referencia el párrafo anterior, la fecha, hora, lugar de realización, nombre de los intervinientes, servidores públicos del juzgado y demás personas o instituciones representadas, en su caso, que intervendrán.
+
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2013)</small>
+
+Al término de las audiencias, en la actuación correspondiente, el juez asentará su firma electrónica certificada en el medio de almacenamiento electrónico, óptico o de cualquier otra tecnología.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -5769,7 +5791,7 @@ En caso de que los medios de almacenamiento en los que consten las audiencias se
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
-###### Artículo 791.
+###### Art. 791.
 
 Al concluir las audiencias, se levantará acta que deberá contener:
 
@@ -5781,7 +5803,9 @@ III.- Identificación del medio de almacenamiento electrónico, óptico o de cua
 
 IV.- La relación sucinta de lo actuado en la audiencia; y
 
-V.- Las firmas del juez, del secretario y, la de las partes si desean hacerlo.
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2013)</small>
+
+V.- La firma del juez y, las de las partes si desean hacerlo.
 
 De igual forma, si por cualquier circunstancia se suspendiera la audiencia, se levantará acta en cada ocasión.
 
@@ -5789,11 +5813,13 @@ De igual forma, si por cualquier circunstancia se suspendiera la audiencia, se l
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
-###### Artículo 792.
+###### Art. 792.
 
 Cuando las partes soliciten copia simple de la grabación de audio y video, se acompañarán los medios de almacenamiento apropiados para que les sea proporcionada, de acuerdo a las herramientas tecnológicas de que disponga el tribunal.
 
-Se considera copia certificada de la actuación el medio de almacenamiento electrónico, óptico o de cualquier otra tecnología en el que conste el desarrollo de la audiencia, que contenga las firmas electrónicas certificadas del juez y el secretario, previo pago de los derechos.
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2013)</small>
+
+Se considera copia certificada de la actuación, el medio de almacenamiento electrónico, óptico o de cualquier otra tecnología en el que conste el desarrollo de la audiencia, que contenga la firma electrónica certificada del juez; esta copia se expedirá previo pago de los derechos respectivos.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -5997,21 +6023,21 @@ Cuando los dictámenes exhibidos resulten substancialmente contradictorios, de t
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
-###### Artículo 812.
+###### Art. 812.
 
 El perito tercero será notificado para que dentro del plazo de tres días presente escrito en el que acepte y proteste el cargo conferido, señalando el monto de sus honorarios, los cuales deberán ser autorizados por el juez y cubiertos por ambas partes en igual proporción.
 
-El perito tercero deberá rendir por escrito su peritaje en la audiencia de juicio, en la forma y términos del artículo 810 de este Código. En el supuesto de que no acepte el cargo o no rinda el dictamen, el juez designará otro perito. De no rendir el dictamen encomendado el juez le impondrá como sanción pecuniaria, en favor de las partes, el importe de una cantidad igual a la que cotizó por sus servicios al aceptar y protestar el cargo.
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2013)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+El perito tercero deberá emitir por escrito su peritaje dentro de los tres días anteriores a la reanudación de la audiencia de juicio, y para su desahogo se observará lo dispuesto por el artículo 810 de este Código. En el supuesto de que no acepte el cargo o no rinda el dictamen, el juez designará otro perito. De no rendir el dictamen encomendado el juez le impondrá como sanción pecuniaria, el importe de una cantidad igual a la que cotizó por sus servicios al aceptar y protestar el cargo.
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2013)</small>
 
-###### Artículo 813.
+###### Art. 813.
 
-En la etapa de admisión de pruebas de la audiencia preliminar, se presentará y resolverá la recusación de peritos propuesta por las partes y, en la audiencia de juicio, lo relativo al perito tercero en discordia.
+En la audiencia de juicio se presentará y resolverá la recusación del perito tercero en discordia.
 
-De resultar procedente la recusación, la parte interesada propondrá nuevo perito y en caso de que se trate del perito tercero, el juez hará nueva designación.
+De resultar procedente la recusación, el juez hará nueva designación.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -6371,11 +6397,13 @@ En la audiencia preliminar cuando no se hubieren ofrecido pruebas o las ofrecida
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2011)</small>
 
-###### Artículo 842.
+###### Art. 842.
 
 La audiencia de juicio se desarrollará de la siguiente manera:
 
-I.- El día y hora señalados, el juez se constituirá en la sala de audiencias del juzgado correspondiente, verificará por conducto del secretario la presencia de las partes, testigos, peritos e intérpretes que deban participar en la audiencia, así como la existencia de las cosas que deban exhibirse y de los documentos que hayan sido presentados por las partes; se cerciorará que los peritos y testigos permanezcan separados entre sí mientras sean llamados a declarar; hecho lo anterior declarará abierta la audiencia de juicio;
+> <small>(REFORMADA, P.O. 17 DE MAYO DE 2013)</small>
+
+I.- El día y hora señalados, el juez instalado en la sala de audiencias del juzgado, verificará por conducto del personal judicial de apoyo la presencia de las partes, testigos, peritos e intérpretes que deban participar en la audiencia, así como la existencia de las cosas que deban exhibirse y de los documentos que hayan sido presentados en el juicio; se cerciorará que los peritos y testigos permanezcan separados entre sí, mientras son llamados a declarar; hecho lo anterior declarará abierta la audiencia de juicio;
 
 II.- Abierta la audiencia, se recibirán los medios de prueba, de preferencia, en el orden que fueron ofrecidos. Así como los relativos a la objeción de documentos.
 
@@ -6460,6 +6488,16 @@ La solicitud de cambio de vía no constituye perdón tácito en relación a los 
 ###### Artículo 847.
 
 No procederá el cambio de vía en aquellos asuntos en que además del divorcio se controvierta la pérdida de la patria potestad.
+
+> <small>(ADICIONADO, P.O. 17 DE MAYO DE 2013)</small>
+
+###### Art. 847-A.
+
+Para decretar alimentos a favor de quien tenga derecho de exigirlos, bastará acreditar el mismo, con los siguientes documentos: testamento, los documentos comprobantes de parentesco o de matrimonio, el convenio o la ejecutoria en que conste la obligación de dar alimentos.
+
+En el caso del concebido fuera del matrimonio o de concubinato, la mujer embarazada tiene el derecho de exigir el pago o el aseguramiento de alimentos, quien deberá acreditar su estado con el certificado médico de embarazo emitido por institución de salud pública; así también deberá justificar, por cualquier medio de prueba, o indicios o presunciones, la existencia de una relación íntima, en la época de la concepción, entre la mujer embarazada y el pretendido obligado a dar alimentos al concebido.
+
+La persona contra la que se hubiere presentado la demanda de alimentos o, en su caso, contra la que se haya decretado la medida de embargo de bienes para garantizar alimentos para el concebido, sin que la madre interesada o su representante acreditara tener derecho, podrá reclamar el pago de lo indebido y a obtener la reparación del daño moral de quien la haya señalado falsamente, sin perjuicio de la responsabilidad penal en que incurra.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -7430,3 +7468,15 @@ P.O. 11 DE SEPTIEMBRE DE 2012.
 Artículo Primero. El presente Decreto entrará en vigencia el uno de enero de 2013, previa su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo. El titular del Poder Ejecutivo del Estado preverá en la iniciativa de la Ley del Presupuesto General de Egresos del Estado de Guanajuato para los ejercicios fiscales del 2013 y los subsecuentes, la disponibilidad presupuestaria para dar cumplimiento a las disposiciones del presente Decreto.
+
+P.O. 17 DE MAYO DE 2013.
+
+DECRETO NÚMERO 70, POR EL QUE SE REFORMAN LOS ARTÍCULOS 785, 789, 791, 792, 812, 813 Y 842 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE GUANAJUATO.
+
+Artículo Único. El presente Decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 17 DE MAYO DE 2013.
+
+DECRETO NÚMERO 72, POR EL SE ADICIONAN LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 770, EL ARTÍCULO 847-A DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE GUANAJUATO.
+
+Artículo Único. El presente Decreto entrará en vigencia al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
