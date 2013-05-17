@@ -4,7 +4,7 @@ identifier: "BCN-ley-que-crea-el-instituto-del-deporte-y-la-cultura-fisica-12148
 country: "mx"
 rank: "ley"
 publication_date: "1997-08-08"
-last_updated: "2012-12-28"
+last_updated: "2013-05-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12148&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY QUE CREA EL INSTITUTO DEL DEPORTE Y LA CULTURA FÍSICA DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 8 de agosto de 1997.
 
@@ -191,9 +191,13 @@ IX. Aprobar el nombramiento de los delegados y funcionarios del Instituto a prop
 
 X. Las demás que señale esta ley, su reglamento, y las que indiquen otras disposiciones legales en la materia de su competencia.
 
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2013)</small>
+
 ###### Artículo 11.
 
-Al frente del Instituto habrá un director general, quien será nombrado y removido, mediante propuesta que formule el Gobernador del Estado a la Junta Directiva, quien aprobará o desaprobará dichas acciones.
+Al frente del Instituto habrá un Director General, quien será nombrado y removido, mediante propuesta que formule el Gobernador del Estado a la Junta Directiva, quien aprobará o desaprobará dichas acciones.
+
+El Director General de este Instituto, deberá poseer título de licenciatura en actividad física y deporte o carrera afín, o bien, deberá acreditar conocimientos y experiencia en la materia.
 
 ###### Artículo 12.
 
@@ -298,3 +302,7 @@ La presente reforma entrará en vigor al día siguiente de su publicación en el
 P.O. 28 DE DICIEMBRE DE 2012.
 
 ÚNICO: Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 17 DE MAYO DE 2013.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
