@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-de-la-secretaria-de-turismo-del-estado-7413
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-03-19"
-last_updated: "2010-03-19"
+last_updated: "2013-05-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74139&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE TURISMO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE TURISMO DEL ESTADO DE COAHUILA DE ZARAGOZA
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE TURISMO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE TURISMO DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADO EN EL P.O. DE 17 DE MAYO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 19 de marzo de 2010.
 
@@ -1412,3 +1414,11 @@ EL SECRETARIO DE LA FUNCIÓN PÚBLICA
 ING. ISMAEL EUGENIO RAMOS FLORES
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 17 DE MAYO DE 2013.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de Turismo del Estado de Coahuila de Zaragoza publicado el 19 de marzo de 2010.
