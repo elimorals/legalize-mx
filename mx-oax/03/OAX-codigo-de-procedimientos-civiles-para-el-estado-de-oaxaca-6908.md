@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-procedimientos-civiles-para-el-estado-de-oaxaca-6908"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "2012-03-10"
+last_updated: "2013-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2013.
 
 Código publicado en el Suplemento No. 48 del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -3098,6 +3098,10 @@ VI. Los convenios celebrados en el curso de un juicio ante el juez, ya sea por l
 VII. Las pólizas originales de contratos celebrados con intervención de corredor público;
 
 VIII. El juicio uniforme de contadores si las partes ante el juez o por escritura pública o por escrito privado, reconocido judicialmente, se hubiesen sujetado a él expresamente o lo hubieren aprobado.
+
+> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2013)</small>
+
+IX. El estado de liquidación de adeudos, intereses moratorios y/o pena convencional que se haya estipulado en la Asamblea General de Condóminos, suscrita por el administrador y/o comité vigilancia, en el que se incluya copia certificada por Notario Público del Acta de Asamblea General relativa y/o del Reglamento Interno del condominio o conjunto condominal, en el que se haya determinado las cuotas a cargo de los condóminos o poseedores para los fondos de mantenimiento, administración, reserva, intereses y demás obligaciones de los condóminos. De acuerdo a lo estipulado en el párrafo tercero del artículo 59 de la Ley del Régimen de Propiedad en Condominio de Inmuebles para el Estado de Oaxaca.
 
 ###### Artículo 435.
 
@@ -6866,3 +6870,13 @@ P.O. 10 DE MARZO DE 2012.
 PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE MAYO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Se abroga la actual Ley de Condominio del Estado de Oaxaca, publicada en el Periódico Oficial del Gobierno del Estado de Oaxaca, el sábado 5 de noviembre de 1988.
+
+TERCERO.- Si no se violan derechos adquiridos, las disposiciones de esta Ley regirán los efectos jurídicos de los actos realizados con anterioridad a la vigencia de ésta, en caso contrario se regirán por la Legislación Civil bajo cuyas disposiciones nacieron dichos actos.
+
+CUARTO.- El Ejecutivo del Estado procederá a expedir dentro del plazo de 60 días después de la publicación de la presente Ley, el Reglamento correspondiente.
