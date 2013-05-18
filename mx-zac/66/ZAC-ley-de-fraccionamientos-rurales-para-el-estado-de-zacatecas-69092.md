@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-fraccionamientos-rurales-para-el-estado-de-zacatecas-690
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-13"
-last_updated: "2009-06-13"
+last_updated: "2013-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE FRACCIONAMIENTOS RURALES PARA EL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2013.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 13 de junio de 2009.
 
@@ -1189,17 +1189,21 @@ Si el derecho a la partición es cuestionado, se les requerirá para que concert
 
 ### Capítulo I. Del cambio de régimen
 
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2013)</small>
+
 ## TÍTULO OCTAVO. DE LOS RECURSOS, DE LA EJECUCIÓN DE LAS SENTENCIAS Y DE LAS SENTENClAS
 
 ### Capítulo II. De la afectación en materia de fraccionamientos
 
 ###### Artículo 142.
 
-El Régimen de Fraccionamientos Rurales es de carácter social; sin embargo, aquellos que lo deseen podrán optar por el cambio de régimen y obtener el dominio pleno de sus predios, a través del procedimiento que para ese efecto establece el presente Título.
+El Régimen de Fraccionamientos Rurales es de carácter social; sin embargo, aquellos que lo deseen podrán optar por el cambio de régimen y obtener el dominio pleno de sus predios con la intervención de la Dirección y el Organismo Regularizador de la Tenencia de la Tierra en Zacatecas.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2013)</small>
 
 ###### Artículo 143.
 
-Los fraccionistas e adjudicatarios, de acuerdo a sus intereses, podrán iniciar el procedimiento Para adquirir el dominio pleno de sus tierras, obteniendo escritura pública que acredite propiedad.
+Los fraccionistas o adjudicatarios, a fin de adquirir el dominio pleno de sus tierras, deberán obtener escritura privada que acredite su propiedad.
 
 ###### Artículo 144.
 
@@ -1207,59 +1211,47 @@ El procedimiento de cambio de régimen deberá ser instaurado por el titular del
 
 ###### Artículo 145.
 
-Toda persona interesada en realizar el cambio de régimen de propiedad deberá reunir los siguientes requisitos:
+(DEROGADO, P.O. 18 DE MAYO DE 2013)
 
-I. Poseer titulo definitivo expedido por el Titular del Poder Ejecutivo del Estado;
-
-II. Que dicho lo se encuentre debidamente inscrito ante el Registro Público de la Propiedad;
-
-III. Anexar plano de localización del terreno o lote;
-
-IV. Estar al corriente del pago del impuesto predial, y
-
-V. No existir ningún litigio pendiente de resolver respecto del predio del que se solicite el cambio de régimen.
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2013)</small>
 
 ###### Artículo 146.
 
-El trámite se iniciará con la solicitud presentada ante la Dirección, a la que anexarán los documentos que acrediten los requisitos señalados en el artículo anterior.
+La Dirección, entregará la documentación necesaria al Organismo Regularizador de la Tenencia de la Tierra en Zacatecas, para llevar a cabo el procedimiento de dominio pleno.
 
 ###### Artículo 147.
 
-La solicitud deberá contener lo siguiente:
-
-I. Indicación del número de lote, nombre del fraccionamiento donde se ubica, superficie y localización, así como la clase de tierra de que se trate;
-
-II. La declaración expresa de la voluntad del fraccionista de obtener del Ejecutivo del Estado el dominio pleno sobre el lote, y
-
-III. La designación de la Notaria ante la que se realizará la protocolización respectiva.
+(DEROGADO, P.O. 18 DE MAYO DE 2013)
 
 ###### Artículo 148.
 
-A la recepción de la solicitud recaerá un acuerdo en el que se radicará el procedimiento, registrándose en el libro de gobierno correspondiente, ordenándose el levantamiento topográfico del lote cuyo cambio de régimen se solicita. Del mismo modo, se ordenará publicar en el Periódico Oficial, por una sola vez, un aviso en el que se haga público el procedimiento, para que, aquellos que tengan interés legal en oponerse al trámite, lo hagan por escrito, dentro de los diez días siguientes a la última de dichas publicaciones. La oposición que se haga al trámite de cambio de régimen, se resolverá conforme a las reglas que para la oposición en el procedimiento administrativo de vacancia se estipulan en esta Ley.
+(DEROGADO, P.O. 18 DE MAYO DE 2013)
 
 ###### Artículo 149.
 
-Una vez exhibidas por los interesados las publicaciones señaladas en el artículo anterior, de oficio, el Director levantará el cómputo respecto del término para la presentación de cualquier oposición.
+(DEROGADO, P.O. 18 DE MAYO DE 2013)
 
 ###### Artículo 150.
 
-Trascurrido este término, sin existir oposición alguna, de oficio se citará a los interesados para oír resolución, la que se dictará dentro de un término no mayor de quince días.
+(DEROGADO, P.O. 18 DE MAYO DE 2013)
 
 ###### Artículo 151.
 
-Una vez resuelto el procedimiento, el Ejecutivo autorizará el dominio pleno mediante el acuerdo respectivo.
+(DEROGADO, P.O. 18 DE MAYO DE 2013)
 
 ###### Artículo 152.
 
-De la resolución que se dicte se remitirá extracto de ella al Oficial de Registro Público de la Propiedad, para los trámites correspondientes; asimismo, se enviará el expediente a la notaría designada por el promovente para la debida protocolización.
+(DEROGADO, P.O. 18 DE MAYO DE 2013)
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2013)</small>
 
 ###### Artículo 153.
 
-El propietario deberá pagar derechos e impuestos que se deriven de la expedición de la escritura correspondiente, además de cubrir los derechos de inscripción en el Registro Público de la Propiedad.
+El primer instrumento privado que derive del dominio pleno que otorgue el Organismo Regularizador de la Tenencia de la Tierra en Zacatecas, será libre de derechos e impuestos estatales o municipales, con excepción del impuesto para la Universidad Autónoma de Zacatecas.
 
 ###### Artículo 154.
 
-Quedan exceptuadas de este procedimiento las zonas de uso común.
+(DEROGADO, P.O. 18 DE MAYO DE 2013)
 
 ### Capítulo III. De la restitución de tierras
 
@@ -1448,3 +1440,11 @@ LIC. CARLOS P. NUÑEZ
 EL COORDINADOR GENERAL JURÍDICO
 
 LIC. MIGUEL DE SANTIAGO REYES.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 18 DE MAYO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Órgano del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
