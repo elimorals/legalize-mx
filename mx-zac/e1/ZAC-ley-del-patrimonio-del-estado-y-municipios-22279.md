@@ -4,7 +4,7 @@ identifier: "ZAC-ley-del-patrimonio-del-estado-y-municipios-22279"
 country: "mx"
 rank: "ley"
 publication_date: "2001-08-18"
-last_updated: "2006-07-15"
+last_updated: "2013-05-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22279&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DEL PATRIMONIO DEL ESTADO Y MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JULIO DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2013.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 18 de agosto de 2001.
 
@@ -69,9 +69,11 @@ LEY DEL PATRIMONIO DEL ESTADO Y MUNICIPIOS
 
 La presente ley es de orden público y de observancia general en el Estado de Zacatecas; tiene por objeto regular el patrimonio del Estado, municipios y sus respectivos organismos paraestatales y paramunicipales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MAYO DE 2013)</small>
+
 ###### Artículo 2.
 
-La regulación a que se refiere el artículo anterior comprende tanto los bienes muebles como los bienes inmuebles que conformen sus respectivos patrimonios.
+La regulación a que se refiere el artículo anterior comprende tanto los bienes muebles como los bienes inmuebles que conformen sus respectivos patrimonios, excepción hecha a los bienes inmuebles sujetos al régimen de fraccionamientos rurales, los que se regirán por su propia ley.
 
 El patrimonio público se considera para los efectos de esta ley como inalienable, imprescriptible e inembargable; no podrá imponérsele ningún tipo de servidumbre; emplearse ninguna vía de apremio, dictarse mandamiento de ejecución ni hacerse efectivas por ejecución forzosa las sentencias dictadas en contra de los bienes que lo constituyen.
 
@@ -650,3 +652,9 @@ LIC. ARTURO NAHLE GARCIA
 P.O. 15 DE JULIO DE 2006.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 18 DE MAYO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Órgano del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
