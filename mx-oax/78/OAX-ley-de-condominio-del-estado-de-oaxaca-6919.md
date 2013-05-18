@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-condominio-del-estado-de-oaxaca-6919"
 country: "mx"
 rank: "ley"
 publication_date: "1988-11-05"
-last_updated: "1988-11-05"
+last_updated: "2013-05-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6919&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "OAX"
 
 LEY DE CONDOMINIO DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE REGULA EL RÉGIMEN DE PROPIEDAD EN CONDOMINIO DE INMUEBLES PARA EL ESTADO DE OAXACA, PUBLICADA EN EL P.O. DE 18 DE MAYO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 5 de noviembre de 1988.
 
@@ -370,3 +372,15 @@ EL RESPETO AL DERECHO AJENO ES LA PAZ.
 Oaxaca de Juárez, Oax., a 4 de noviembre de 1988.
 
 EL SECRETARIO GENERAL DE GOBIERNO, LIC. ILDEFONSO ZORRILLA CUEVAS.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 18 DE MAYO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Se abroga la actual Ley de Condominio del Estado de Oaxaca, publicada en el Periódico Oficial del Gobierno del Estado de Oaxaca, el sábado 5 de noviembre de 1988.
+
+TERCERO.- Si no se violan derechos adquiridos, las disposiciones de esta Ley regirán los efectos jurídicos de los actos realizados con anterioridad a la vigencia de ésta, en caso contrario se regirán por la Legislación Civil bajo cuyas disposiciones nacieron dichos actos.
+
+CUARTO.- El Ejecutivo del Estado procederá a expedir dentro del plazo de 60 días después de la publicación de la presente Ley, el Reglamento correspondiente.
