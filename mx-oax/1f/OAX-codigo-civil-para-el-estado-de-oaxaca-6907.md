@@ -4,7 +4,7 @@ identifier: "OAX-codigo-civil-para-el-estado-de-oaxaca-6907"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "2010-11-13"
+last_updated: "2013-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO CIVIL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2013.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -15051,6 +15051,10 @@ Tratándose de bienes muebles, cesará la preferencia si hubieren sido inmoviliz
 
 IX. Los créditos anotados en el Registro Público, en virtud de mandamiento judicial, por embargos, secuestros o ejecución de sentencias, sobre los bienes anotados y solamente en cuanto a créditos posteriores.
 
+> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2013)</small>
+
+X. Los créditos a que se refiere el artículo 28 de la Ley del Régimen de Propiedad en Condominio de Inmuebles para el Estado de Oaxaca.
+
 ### CAPITULO VII. Acreedores de cuarta clase
 
 ###### Artículo 2875.
@@ -15794,3 +15798,13 @@ CUARTO.- El Ejecutivo del Estado actualizará las disposiciones reglamentarias p
 P.O. 13 DE NOVIEMBRE DE 2010.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 18 DE MAYO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Se abroga la actual Ley de Condominio del Estado de Oaxaca, publicada en el Periódico Oficial del Gobierno del Estado de Oaxaca, el sábado 5 de noviembre de 1988.
+
+TERCERO.- Si no se violan derechos adquiridos, las disposiciones de esta Ley regirán los efectos jurídicos de los actos realizados con anterioridad a la vigencia de ésta, en caso contrario se regirán por la Legislación Civil bajo cuyas disposiciones nacieron dichos actos.
+
+CUARTO.- El Ejecutivo del Estado procederá a expedir dentro del plazo de 60 días después de la publicación de la presente Ley, el Reglamento correspondiente.
