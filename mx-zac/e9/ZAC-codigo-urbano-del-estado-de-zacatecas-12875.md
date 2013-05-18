@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-urbano-del-estado-de-zacatecas-12875"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-09-11"
-last_updated: "2013-03-23"
+last_updated: "2013-05-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CÓDIGO URBANO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2013.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 11 de septiembre de 1996.
 
@@ -4451,6 +4451,10 @@ En el caso de que el asentamiento humano irregular se encuentre en terrenos ejid
 
 Para los efectos de este Código se entiende por regularización de la tenencia de la tierra, la legitimación de la posesión y la propiedad del suelo a las personas asentadas irregularmente, así como la incorporación de tal asentamiento a los programas de desarrollo urbano, como una acción de mejoramiento de los centros de población.
 
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2013)</small>
+
+La instancia encargada de ejecutar programas de regularización de la tenencia de la tierra será el Organismo Regularizador de la Tenencia de la Tierra en Zacatecas.
+
 ###### ARTICULO 444.
 
 El dictamen que emitan las Comisiones Estatal y Municipales, respecto de la posibilidad de regularización de un asentamiento humano, deberá contener:
@@ -4944,3 +4948,9 @@ Dentro del término de noventa días naturales contados a partir de la vigencia 
 ###### ARTÍCULO CUARTO.
 
 Los Ayuntamientos, en el término de ciento veinte días naturales a partir de la vigencia del presente Decreto, deberán publicar en sus Gacetas Municipales y en el Periódico Oficial, Órgano del Gobierno del Estado, todas las disposiciones normativas de carácter general que hayan sido generadas antes de la entrada en vigor del presente Decreto. Remitiendo en medio impreso y de forma magnética los instrumentos jurídicos a la Coordinación General Jurídica del Gobierno del Estado para su trámite de publicación.
+
+P.O. 18 DE MAYO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
