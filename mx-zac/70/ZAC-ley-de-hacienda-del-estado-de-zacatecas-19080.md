@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-hacienda-del-estado-de-zacatecas-19080"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-30"
-last_updated: "2012-12-29"
+last_updated: "2013-05-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE HACIENDA DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el sábado 30 de diciembre del 2000.
 
@@ -295,7 +295,7 @@ Este impuesto será destinado a la Universidad Autónoma de Zacatecas.
 
 DEL OBJETO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 28.
 
@@ -1095,13 +1095,13 @@ La Federación, los municipios, los organismos públicos de seguridad social, de
 
 Las certificaciones que soliciten las autoridades para surtir efectos probatorios en juicios penales o amparos, y las que expidan las autoridades judiciales con el mismo fin, están exentas del pago de derechos.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 22 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
 ### CAPITULO II. DE LOS DERECHOS
 
 SERVICIOS DE LA SECRETARIA GENERAL DE GOBIERNO DEL ESTADO Y COORDINACION GENERAL JURIDICA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 46.
 
@@ -1167,7 +1167,7 @@ t) Cursos técnicos especializados por persona 10 cuotas;
 
 Quedarán exentos del pago de este servicio, los que la Dirección de Protección Civil y Bomberos preste a Instituciones Públicas.
 
-> <small>(ADICIONADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 46
 
@@ -1577,13 +1577,13 @@ Los propietarios de unidades que se encuentren registradas en el padrón estatal
 
 Cuando no se cubra la contribución dentro del plazo señalado, deberán pagarse recargos y actualización por concepto de indemnización a la Hacienda Pública Estatal por falta de pago oportuno, de conformidad con la Ley de Ingresos del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 49.
 
 El refrendo de la tarjeta de circulación y expedición de calcomanía con vigencia al 31 de marzo del año siguiente, deberá efectuarse durante los primeros tres meses del mencionado año, para:
 
-> <small>(REFORMADA PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
 I. Vehículos de servicio particular:
 
@@ -1611,7 +1611,7 @@ e). Con cuatro años de antigüedad 12.5 cuotas;
 
 f). Con cinco y más años de antigüedad 11.5 cuotas;
 
-> <small>(REFORMADA PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2006)</small>
 
 II. Vehículos al servicio público:
 
@@ -1727,7 +1727,7 @@ elevado al año. (valor catastral asignado
 
 a la vivienda de interés medio). 11 cuotas;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE 2008)</small>
 
 g). Para avalúos cuyo monto rebase lo previsto en los incisos anteriores se aplicará la tarifa adicional de 14.0 (catorce) al millar al monto excedente.
 
@@ -1739,7 +1739,7 @@ En ningún caso, los derechos por concepto de avalúo, excederán al equivalente
 
 h) Renovaciones:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE ENERO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2002)</small>
 
 Para el caso de expedición de avalúos cuya vigencia haya caducado conforme a lo establecido en la Ley de Catastro del Estado, a las tarifas anteriores se aplicará proporcionalmente atendiendo a lo siguiente:
 
@@ -2061,7 +2061,11 @@ XVI. Los conceptos no considerados en el presente artículo se tasarán de acuer
 
 Del ingreso percibido por concepto de servicios catastrales, un 5% será destinado a la modernización integral de la administración hacendaria estatal, conforme al contrato de fideicomiso que para tal efecto se suscriba.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2005)</small>
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2013)</small>
+
+No causarán derechos los servicios establecidos en el presente artículo, cuando deriven de programas de regularización de bienes inmuebles implementados por el Organismo Regularizador de la Tenencia de la Tierra en Zacatecas.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
 ### CAPITULO V. AUTORIDADES DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL COMERCIO
 
@@ -2267,7 +2271,7 @@ X. Contrato de promesa de venta, se tasará al 0.4% sobre el valor que se manifi
 
 XI. Contrato de apertura de crédito: 6 cuotas;
 
-> <small>(REFORMADA PRIMER PARRAFO, P.O. 27 DE DICIEMBRE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE 2008)</small>
 
 XII. Créditos hipotecarios, refaccionarios, de habilitación y avío otorgados por las instituciones de crédito, 0.20 % sobre el importe de la operación que se consigne en el documento. Los créditos otorgados en los que intervenga el fondo instituido en relación a la agricultura (FIRA), el 0.16% sobre el monto.
 
@@ -2281,7 +2285,7 @@ Créditos hipotecarios, refaccionarios, de habilitación y avío, otorgados dent
 
 En materia de crédito para adquisición de vivienda el registro de contrato de hipoteca y crédito simple, se tasará al 0.115% sobre el importe de la operación que se consigne, sin cargo por concepto de contrato de apertura de crédito.
 
-> <small>(REFORMADA PRIMER PARRAFO, P.O. 27 DE DICIEMBRE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE 2008)</small>
 
 XIII. Inscripción de documentos que contengan
 
@@ -2303,7 +2307,7 @@ f) Depósito de testamento ológrafo;
 
 g) Modificación al contrato inicial por error material.
 
-> <small>(REFORMADA PRIMER PARRAFO, P.O. 27 DE DICIEMBRE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE 2008)</small>
 
 XIV. Inscripción de actos relativos a bienes muebles, 0.35% por los conceptos siguientes:
 
@@ -2327,7 +2331,7 @@ aumentos, en los casos que dicho capital
 
 no exceda de $185,000.00 se pagarán: 11 cuotas;
 
-> <small>(REFORMADA PRIMER PARRAFO, P.O. 27 DE DICIEMBRE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE 2008)</small>
 
 XVI. Registro de documentos que
 
@@ -2346,6 +2350,10 @@ e) Registro de emisiones de acciones, cédulas, obligaciones o certificados de p
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE 2008)</small>
 
 XVII. Cancelación de inscripción o anotación: 2 cuotas.
+
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2013)</small>
+
+No causarán derechos los servicios establecidos en el presente artículo, cuando deriven de programas de regularización de bienes inmuebles implementados por el Organismo Regularizador de la Tenencia de la Tierra en Zacatecas.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
 
@@ -2399,7 +2407,7 @@ Por cada foja excedente $10.00
 
 Ratificación o certificación de firmas: 3 cuotas;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE 2008)</small>
 
 ###### ARTICULO 57.
 
@@ -2503,7 +2511,7 @@ g) Funerario o cementerio, por m3 del
 
 volumen de las fosas o gavetas $ 5.30;
 
-> <small>[N. DE E. ESTE PARRAFO NO FUE ABROGADO EXPRESAMENTE POR EL LEGISLADOR, P.O. 1 DE ENERO DE 2003]</small>
+> <small>[N. DE E. ESTE PÁRRAFO NO FUE ABROGADO EXPRESAMENTE POR EL LEGISLADOR, P.O. 1 DE ENERO DE 2003]</small>
 
 Cuando las obras autorizadas no se ejecuten dentro de la vigencia de la autorización, se deberá solicitar el refrendo de la misma debiendo cubrirse los derechos en términos de este artículo como si se tratare de una inicial;
 
@@ -3359,7 +3367,7 @@ III. Actas que se expidan en los kioscos de servicios electrónicos de Gobierno 
 
 El pago de derechos, a que se refieren los artículos 68 y 69, por servicios que presten las autoridades judiciales, se enterarán en las oficinas recaudadoras de la Secretaría de Finanzas. De conformidad con el convenio que al efecto se suscriba, los montos serán transferidos al Fondo Auxiliar para el mejoramiento de la Administración de Justicia, con independencia del presupuesto anual de egresos que corresponda al Poder Judicial del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE 2008)</small>
 
 ARTICULO 69 BIS.- Los servicios que prestan las dependencias y entidades de la Administración Pública a que se refieren los artículos 10 y 36 de la Ley Orgánica de la Administración Pública del Estado de Zacatecas, por los documentos físicos o que en medios magnéticos le sean solicitados en materia del derecho a la información pública, se cobrará conforme a lo siguiente:
 
@@ -3615,7 +3623,7 @@ EL SECRETARIO DE PLANEACION Y FINANZAS
 
 C.P. GUILLERMO HUIZAR CARRANZA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 2 DE ENERO DE 2002
 
@@ -3677,15 +3685,15 @@ Para el ejercicio fiscal 2008, se exime del pago del derecho contenido en el art
 
 P.O. 27 DE DICIEMBRE DE 2008.
 
-DECRETO NO. 212, POR EL QUE SE ADICIONA UN INCISO A LA FRACCION I DEL ARTICULO 33 DE LA LEY DE HACIENDA DEL ESTADO DE ZACATECAS.
+DECRETO NO. 212, POR EL QUE SE ADICIONA UN INCISO A LA FRACCIÓN I DEL ARTÍCULO 33 DE LA LEY DE HACIENDA DEL ESTADO DE ZACATECAS.
 
 Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
 
-P.O. 27 DE DICIEMBRE 2008.
+P.O. 27 DE DICIEMBRE DE 2008.
 
-DECRETO No. 228, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTICULOS DE LA LEY DE HACIENDA DEL ESTADO DE ZACATECAS.
+DECRETO No. 228, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DE HACIENDA DEL ESTADO DE ZACATECAS.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -3728,3 +3736,9 @@ P.O. 29 DE DICIEMBRE DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el primer día de enero del dos mil trece, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 18 DE MAYO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
