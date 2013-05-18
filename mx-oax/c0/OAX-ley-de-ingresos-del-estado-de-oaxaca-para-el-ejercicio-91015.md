@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-ingresos-del-estado-de-oaxaca-para-el-ejercicio-91015"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2012-12-15"
-last_updated: "2012-12-22"
+last_updated: "2013-05-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91015&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "OAX"
 ---
 # LEY DE INGRESOS DEL ESTADO DE OAXACA PARA EL EJERCICIO FISCAL 2013
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE MAYO DE 2013 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE INGRESOS DEL ESTADO DE OAXACA PARA EL EJERCICIO FISCAL 2013
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 22 DE DICIEMBRE DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2013.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 15 de diciembre de 2012.
 
@@ -489,6 +489,8 @@ Se faculta al Ejecutivo del Estado para que a través de la Secretaría de Finan
 
 Se autoriza al Ejecutivo Estatal para que, a través de la Secretaría de Finanzas, afecte como fuente de pago o en garantía de los financiamientos que celebre, el derecho y/o los ingresos a las participaciones que en ingresos federales le corresponden; facultándolo para que celebre todos los actos jurídicos necesarios o convenientes para la instrumentación de los financiamientos y la afectación de participaciones, incluyendo la contratación de operaciones de cobertura, observando lo dispuesto en la Ley de la materia.
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE MAYO DE 2013 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 ###### ARTÍCULO 3.
 
 Se autoriza al Ejecutivo del Estado, a través de la Secretaría de Finanzas, un monto de endeudamiento por la cantidad de hasta $2,400'000,000.00 (Dos mil cuatrocientos millones de pesos 00/100 M.N.), sin incluir intereses, más un monto adicional de hasta el 15 por ciento del monto antes señalado para la constitución de fondos de reserva del o los financiamientos que se contraten al amparo de este artículo.
@@ -511,7 +513,9 @@ c) Al fortalecimiento de la red de infraestructura hospitalaria, mediante la ter
 
 d) A la constitución de fondos de reserva, mediante la o las modalidades que se consideren convenientes, en el entendido que los mismos no podrán exceder del 15% (quince por ciento) del monto del financiamiento o financiamientos que se contraten, a fin de fortalecer la estructura del o de los financiamientos, en beneficio de la hacienda pública del Estado.
 
-La lista de proyectos a que se refieren los incisos a, b, y c, de la fracción IV, del presente artículo, se presenta en el Anexo Único, de esta Ley.
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2013)</small>
+
+La lista de proyectos a que se refieren los incisos a), b) y c) de la fracción IV, del presente artículo, se presenta en el Anexo Único de esta Ley, la que podrá por situaciones socioeconómicas, legales, prioritarias, economías presupuestales o de atención inmediata ser modificada hasta por un veinte por ciento ($ 480,000,000.00 cuatrocientos ochenta millones de pesos m/n.) por la Secretaría de Finanzas lo que deberá ser comunicado al Congreso en los informes trimestrales a que se refiere la Ley Estatal de Presupuesto y Responsabilidad Hacendaria.
 
 V. Para que afecte, sin perjuicio de afectaciones previas, como fuente de pago y/o garantía del o de los financiamientos y, en su caso, de la garantía a que se refiere la fracción VIII siguiente, el derecho y/o los ingresos de hasta el 25 por ciento del Fondo de Aportaciones para el Fortalecimiento de las Entidades Federativas que le correspondan, así como aquellos fondos que en el futuro lo sustituyan o complementen.
 
@@ -593,7 +597,9 @@ I. Efectuar el pago de este Impuesto, durante los tres primeros meses del ejerci
 
 II. Estar al corriente en el pago del Impuesto sobre Tenencia o Uso de Vehículos, y
 
-III. Para vehículos enajenados por primera vez al consumidor por el fabricante, ensamblador, distribuidor o comerciales en el ramo de vehículos, en el ejercicio fiscal 2013, deberán de realizar el registro (alta) de conformidad con el artículo 40 fracción I de la Ley Estatal de Derechos.
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2013)</small>
+
+III. Para vehículos enajenados por primera vez al consumidor por el fabricante, ensamblador, distribuidor o comerciales en el ramo de vehículos, en el ejercicio fiscal 2013, deberán de realizar el registro (alta) de conformidad con el artículo 39 fracción I de la Ley Estatal de Derechos.
 
 ###### ARTÍCULO 7.
 
@@ -605,7 +611,9 @@ I. Efectuar el pago del Impuesto sobre Tenencia o Uso de Vehículos, durante los
 
 II. Estar al corriente en el pago del Impuesto sobre Tenencia o Uso de Vehículos, y
 
-III. Para vehículos enajenados por primera vez al consumidor por el fabricante, ensamblador, distribuidor o comerciales en el ramo de vehículos, en el ejercicio fiscal 2013, deberán de realizar el registro (alta) de conformidad con el artículo 40 fracción I de la Ley Estatal de Derechos.
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 2013)</small>
+
+III. Para vehículos enajenados por primera vez al consumidor por el fabricante, ensamblador, distribuidor o comerciales en el ramo de vehículos, en el ejercicio fiscal 2013, deberán de realizar el registro (alta) de conformidad con el artículo 39 fracción I de la Ley Estatal de Derechos.
 
 ###### ARTÍCULO 8.
 
@@ -627,7 +635,9 @@ I. Efectuar el pago del Impuesto sobre Tenencia o Uso de Vehículos, durante los
 
 II. Estar al corriente en el pago del Impuesto sobre Tenencia o Uso de Vehículos.
 
-El incentivo fiscal establecido en este artículo no aplica tratándose de vehículos enajenados por primera vez al consumidor por el fabricante, ensamblador, distribuidor o comerciantes en el ramo de vehículos, así como de vehículos con placas de otras entidades federativas del país o tratándose de vehículos de procedencia extranjera quienes deberán de realizar su registro (alta) de conformidad con el artículo 40 fracción I de la Ley Estatal de Derechos.
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2013)</small>
+
+El incentivo fiscal establecido en este articulo no aplica tratándose de vehículos enajenados por primera vez al consumidor por el fabricante, ensamblador, distribuidor o comerciantes en el ramo de vehículos, así como los vehículos con placas con otras entidades federativas del país o tratándose de vehículos de procedencia extranjera deberán de realizar su registro (alta) de conformidad con el artículo 39 fracción I de la Ley Estatal de Derechos.
 
 ###### ARTÍCULO 10.
 
@@ -792,3 +802,9 @@ Tlalixtac de Cabrera, Centro, Oax., a 13 de diciembre del 2012.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 C.P.A. JESÚS EMILIO MARTÍNEZ ÁLVAREZ.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 18 DE MAYO DE 2013.
+
+ÚNICO.- El presente Decreto entrará en vigor el día de su aprobación. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
