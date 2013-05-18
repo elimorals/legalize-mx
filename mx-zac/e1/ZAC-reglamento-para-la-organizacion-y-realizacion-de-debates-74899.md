@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-para-la-organizacion-y-realizacion-de-debates-74899"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-03-24"
-last_updated: "2010-03-24"
+last_updated: "2013-05-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74899&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "ZAC"
 ---
 # REGLAMENTO PARA LA ORGANIZACION Y REALIZACION DE DEBATES ENTRE CANDIDATAS Y CANDIDATOS A CARGOS DE ELECCION POPULAR PARA EL ESTADO DE ZACATECAS
 
-REGLAMENTO PARA LA ORGANIZACION Y REALIZACION DE DEBATES ENTRE CANDIDATAS Y CANDIDATOS A CARGOS DE ELECCION POPULAR PARA EL ESTADO DE ZACATECAS
+REGLAMENTO PARA LA ORGANIZACIÓN Y REALIZACIÓN DE DEBATES ENTRE CANDIDATAS Y CANDIDATOS A CARGOS DE ELECCIÓN POPULAR PARA EL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO DE DEBATES PARA EL ESTADO DE ZACATECAS, PUBLICADO EN EL P.O. DE 18 DE MAYO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 24 de marzo de 2010.
 
@@ -431,3 +433,11 @@ Cualquier asunto no previsto en el Reglamento, será resuelto por las y los Cons
 ## Artículo Transitorio
 
 Único.- Este Reglamento entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 18 DE MAYO DE 2013.
+
+Primero.- Se abroga el Reglamento para la Organización y Realización de Debates entre Candidatas y Candidatos a cargos de elección para el Estado de Zacatecas, aprobado el dieciocho de marzo de dos mil diez.
+
+Segundo.- Este Reglamento entrará en vigor a partir del día siguiente de su aprobación por el Consejo General.
