@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-hacienda-municipal-para-el-estado-de-zacatecas-8238"
 country: "mx"
 rank: "ley"
 publication_date: "1984-12-29"
-last_updated: "2004-12-22"
+last_updated: "2013-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE DICIEMBRE DE 2004.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2013.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sabado 29 de diciembre de 1984.
 
@@ -401,7 +401,9 @@ No se pagará el impuesto en las adquisiciones de bienes inmuebles que hagan la 
 
 Tampoco se pagará el impuesto en las adquisiciones de inmuebles que hagan los arrendatarios financieros al ejercer la opción de compra en los términos del contrato de arrendamiento financiero.
 
-> <small>(DEROGADO TERCER PARRAFO, P.O. 29 DE DICIEMBRE DE 1993)</small>
+> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2013)</small>
+
+La adquisición de bienes inmuebles que deriven de los programas de regularización del Organismo Regularizador de la Tenencia de la Tierra en Zacatecas, no serán objeto del impuesto que refiere el presente capítulo.
 
 ### CAPITULO TERCERO. DEL IMPUESTO SOBRE ANUNCIOS Y PROPAGANDA
 
@@ -497,11 +499,11 @@ Son responsables solidarios en el pago de este impuesto los propietarios o posee
 
 Están exentos de pago de este impuesto de rifas, loterías y sorteos que se autoricen para obras o actividades de beneficio social; a los objetivos del promotoriado voluntario acreditado o con fines mutualistas de organizaciones similares, así como a los partidos en los términos de la Ley Federal de Organizaciones Políticas y Procesos Electorales.
 
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2000)</small>
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
 ### CAPITULO QUINTO. IMPUESTO SOBRE DIVERSIONES Y ESPECTACULOS PUBLICOS
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 2000)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
 #### SECCION PRIMERA. DEL OBJETO
 
@@ -511,7 +513,7 @@ Están exentos de pago de este impuesto de rifas, loterías y sorteos que se aut
 
 Es objeto de este impuesto el ingreso que se obtenga por la explotación de los siguientes espectáculos: teatro, circo, lucha, box, taurinos, deportivos, carpas, variedades, conciertos, audiciones musicales y exhibiciones de cualquier naturaleza en las que se cobre cuota de admisión.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 2000)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
 #### SECCION SEGUNDA. DEL SUJETO
 
@@ -521,7 +523,7 @@ Es objeto de este impuesto el ingreso que se obtenga por la explotación de los 
 
 Son sujetos de este impuesto las personas físicas, morales o unidades económicas que reciban los ingresos a que se refiere el articulo anterior.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 2000)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
 #### SECCION TERCERA. DE LA BASE
 
@@ -531,7 +533,7 @@ Son sujetos de este impuesto las personas físicas, morales o unidades económic
 
 La base para el pago de este impuesto serán los ingresos que se generen por el boleto o cuota de entrada a las diversiones o espectáculos públicos.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 2000)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
 #### SECCION CUARTA. DE LA TASA
 
@@ -541,7 +543,7 @@ La base para el pago de este impuesto serán los ingresos que se generen por el 
 
 El impuesto se calculará aplicando a la base determinada, la tasa conforme a la Ley de Ingresos Municipal correspondiente.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 2000)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
 #### SECCION QUINTA. DEL PAGO
 
@@ -555,7 +557,7 @@ I. Tratándose de contribuyentes establecidos, mensualmente dentro de los primer
 
 II. Tratándose de contribuyentes eventuales, el mismo día que se cause el impuesto.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 2000)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
 #### SECCION SEXTA. DE LAS OBLIGACIONES
 
@@ -599,7 +601,7 @@ II. Previamente a la iniciación de actividades, otorgar garantía a satisfacci�
 
 A los contribuyentes que no garanticen el impuesto conforme a lo estipulado en la fracción II del artículo anterior, la Tesorería Municipal podrá suspender el espectáculo hasta en tanto se cumpla con la garantía, pudiéndose auxiliar de la fuerza pública.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 2000)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
 #### SECCION SEPTIMA. DE LA RESPONSABILIDAD SOLIDARIA
 
@@ -611,7 +613,7 @@ Son sujetos responsables solidariamente del pago de este impuesto:
 
 I. Los propietarios o poseedores de inmuebles en los que habitualmente o en forma ocasional y por cualquier acto o contrato, se realicen espectáculos de los señalados en el artículo 8, si no se da aviso de la celebración del contrato.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 2000)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
 #### SECCION OCTAVA. DE LAS EXENCIONES
 
@@ -633,37 +635,37 @@ Y los partidos políticos en los términos de la legislación electoral federal 
 
 ## TITULO SEGUNDO. DE LOS DERECHOS
 
-### CAPITULO UNICO. (REUBICADO [N. DE E. ANTES ARTICULO 58], P.O. 30 DE DICIEMBRE DE 2000)
+### CAPITULO UNICO. (REUBICADO [N. DE E. ANTES ARTÍCULO 58], P.O. 30 DE DICIEMBRE DE 2000)
 
 ###### ARTICULO 69.
 
 Los derechos por la prestación de servicios públicos se causan en el momento en que el particular solicite la prestación del servicio o en el momento en que provoque por parte del Municipio, el gasto que deba ser remunerado por aquel, salvo que la Ley disponga cosa distinta.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 59], P.O. 30 DE DICIEMBRE DE 2000)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 59], P.O. 30 DE DICIEMBRE DE 2000)
 
 ###### ARTICULO 70.
 
 El importe de los derechos se determinará de acuerdo con las tasas que señale la Ley de Ingresos y será cubierto en la Tesorería Municipal.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 60], P.O. 30 DE DICIEMBRE DE 2000)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 60], P.O. 30 DE DICIEMBRE DE 2000)
 
 ###### ARTICULO 71.
 
 La Dependencia o servidor público que preste el servicio por el cual se pague el derecho procederá a la realización del mismo al presentarle el interesado el recibo oficial que acredite su pago en la Tesorería Municipal.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 61], P.O. 30 DE DICIEMBRE DE 2000)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 61], P.O. 30 DE DICIEMBRE DE 2000)
 
 ###### ARTICULO 72.
 
 El Servidor Público que preste algún servicio por el que se cause un derecho, será solidariamente responsable de su pago, sin perjuicio de las sanciones que procedan.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 62], P.O. 30 DE DICIEMBRE DE 2000)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 62], P.O. 30 DE DICIEMBRE DE 2000)
 
 ###### ARTICULO 73.
 
 La Federación, el Estado, los Organismos Públicos de Seguridad Social, de Beneficencia Pública y los Partidos Políticos en los términos de la Ley Federal de Organizaciones políticas procesos electorales podrán estar exentos del pago de derechos mediante acuerdo, en cada caso, del ayuntamiento.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 63], P.O. 30 DE DICIEMBRE DE 2000)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 63], P.O. 30 DE DICIEMBRE DE 2000)
 
 ###### ARTICULO 74.
 
@@ -671,7 +673,7 @@ Las certificaciones que soliciten las Autoridades para surtir efectos probatorio
 
 ## TITULO TERCERO. DE LOS PRODUCTOS
 
-### CAPITULO UNICO. (REUBICADO [N. DE E. ANTES ARTICULO 64], P.O. 30 DE DICIEMBRE DE 2000)
+### CAPITULO UNICO. (REUBICADO [N. DE E. ANTES ARTÍCULO 64], P.O. 30 DE DICIEMBRE DE 2000)
 
 ###### ARTICULO 75.
 
@@ -687,7 +689,7 @@ IV. Fianzas.
 
 V. Los demás que señale la Ley de Ingresos.
 
-(REUBICADO [N. DE E. ANTES ARTICULO 65], P.O. 30 DE DICIEMBRE DE 2000)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 65], P.O. 30 DE DICIEMBRE DE 2000)
 
 ###### ARTICULO 76.
 
@@ -695,7 +697,7 @@ Los ingresos por productos se determinarán en los actos, convenios, contratos o
 
 ## TITULO CUARTO. DE LOS APROVECHAMIENTOS
 
-### CAPITULO UNICO. (REUBICADO [N. DE E. ANTES ARTICULO 66], P.O. 30 DE DICIEMBRE DE 2000)
+### CAPITULO UNICO. (REUBICADO [N. DE E. ANTES ARTÍCULO 66], P.O. 30 DE DICIEMBRE DE 2000)
 
 ###### ARTICULO 77.
 
@@ -731,7 +733,7 @@ XIV. Otros no especificados.
 
 ## TITULO QUINTO. DE LAS PARTICIPACIONES
 
-### CAPITULO UNICO. (REUBICADO [N. DE E. ANTES ARTICULO 67], P.O. 30 DE DICIEMBRE DE 2000)
+### CAPITULO UNICO. (REUBICADO [N. DE E. ANTES ARTÍCULO 67], P.O. 30 DE DICIEMBRE DE 2000)
 
 ###### ARTICULO 78.
 
@@ -763,7 +765,7 @@ EL DIRECTOR GENERAL DE GOBIERNO
 
 LIC. RAUL RODRIGUEZ SANTOYO.
 
-> <small>N. DE E. A CONTINUACION SE TRANCRIBEN LOS ARTICULOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 9 DE ENERO DE 1988
 
@@ -808,3 +810,9 @@ UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicaci�
 P.O. 22 DE DICIEMBRE DE 2004.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 18 DE MAYO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
