@@ -4,7 +4,7 @@ identifier: "DUR-ley-que-regula-el-aprovechamiento-tecnico-de-pastizales-5048"
 country: "mx"
 rank: "ley"
 publication_date: "1975-12-18"
-last_updated: "1981-02-01"
+last_updated: "2013-05-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5048&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "DUR"
 
 LEY QUE REGULA EL APROVECHAMIENTO TÉCNICO DE PASTIZALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 1981.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NUMERO 486, PUBLICADO EN EL P.O. DE 19 DE MAYO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 18 de diciembre de 1975.
 
@@ -248,3 +250,9 @@ El Secretario General de Gobierno, Lic. CARLOS GALINDO MARTINEZ.- Rúbrica.
 P.O. 1 DE FEBRERO DE 1981.
 
 UNICO.- El presente Decreto surtirá sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE MAYO DE 2013.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
