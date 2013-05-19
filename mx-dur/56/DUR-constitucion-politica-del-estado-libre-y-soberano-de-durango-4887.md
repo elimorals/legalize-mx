@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "2012-08-27"
+last_updated: "2013-05-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
 > <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO DÉCIMO PRIMERO DEL DECRETO NÚMERO 11 POR EL QUE SE REFORMA LA CONSTITUCIÓN POLÍTICA DEL ESTADO, PUBLICADO EN EL P.O. 28 DE NOVIEMBRE DE 2010, SE MODIFICA TODA MENCIÓN QUE SE HAGA EN ORDENAMIENTOS LEGALES RESPECTO AL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO, SE ENTENDERÁ HECHA AL TRIBUNAL DE JUSTICIA FISCAL.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2013.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º, domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -133,7 +133,19 @@ Sin perjuicio de los derechos aquí establecidos a favor de los indígenas, sus 
 
 En el Estado de Durango, toda persona tiene derecho a la libertad, la seguridad personal, y a una vivienda digna y decorosa, adecuada a las necesidades del hogar, al trabajo y a la educación.
 
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2013)</small>
+
+Los habitantes del Estado de Durango, tienen derecho a acceder al agua suficiente y apta, para atender sus necesidades biológicas bajo los principios de disponibilidad en el suministro, accesibilidad física, económica y de información, sin discriminación y con la consiguiente obligación de preservar dicho elemento y cofinanciar la prestación del citado elemento. El Estado y los Municipios, en el ámbito de sus competencias, procurarán la satisfacción de dicho servicio público.
+
 Los habitantes del Estado tienen derecho a vivir y crecer en un ambiente saludable y equilibrado. Las autoridades desarrollarán planes y programas destinados a la preservación, aprovechamiento racional y mejoramiento de los recursos naturales, de la flora y la fauna existentes en su territorio, así como para la prevención y combate a la contaminación ambiental.
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2013)</small>
+
+Toda persona tiene derecho a la cultura fisica y a la práctica del deporte; compete al Estado su promoción, fomento y estímulo conforme a las leyes en la materia.
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2013)</small>
+
+Así mismo, toda persona tiene derecho a una alimentación nutritiva, suficiente y de calidad. El Estado lo garantizará.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2000)</small>
 
@@ -351,9 +363,9 @@ Los poderes, los organismos autónomos y los municipios promoverán el desarroll
 
 En el desarrollo económico estatal concurrirán los sectores público, social y privado; corresponde al Gobierno del Estado procurar la armonía entre ellos, para cumplir con su responsabilidad social. El sector público cuidará de impulsar por sí o conjuntamente con los demás sectores, las áreas que se consideren prioritarias para el desarrollo del Estado.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2013)</small>
 
-Los poderes, los organismos autónomos y los municipios, de acuerdo con la ley, organizarán un sistema de planeación democrática, los cuales recogerán las aspiraciones y demandas de la sociedad, incorporándolas en un Plan de Desarrollo respectivamente, al que se sujetarán obligatoriamente los programas de la Administración Pública Estatal y Municipal.
+El Ejecutivo Estatal, de acuerdo con la ley, organizará un sistema estatal de planeación democrática, el cual recogerá las aspiraciones y demandas de la sociedad, incorporándolas en un Plan Estratégico de Desarrollo, que contendrá los objetivos de largo alcance para lograr en la democracia, el desarrollo sostenido y sustentable del Estado, que garantice mejor calidad de vida a la población, mediante proyectos de inversión pública, que podrán tener el carácter de multianual, que serán destinados a proyectos y programas de desarrollo local y regional, así como en acciones y obras de infraestructura que permitan su conclusión o que trasciendan la administración que corresponda, si tuvieran el carácter de largo alcance, los que serán evaluados en forma permanente; así como, derivado del mismo, un Plan Estatal de Desarrollo, al que se sujetarán obligatoriamente los programas de la Administración Pública Estatal durante el sexenio que corresponda.
 
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2000)</small>
 
@@ -363,9 +375,17 @@ El Ejecutivo del Estado y los ayuntamientos establecerán los mecanismos y adopt
 
 El Estado podrá convenir con la federación, en los términos de ley, la asunción, por parte de éste, del ejercicio de sus funciones, la ejecución y operación de obras y la prestación de servicios públicos, cuando el desarrollo económico y social lo hagan necesario.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2000)</small>
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2013)</small>
 
-El Estado está facultado para celebrar esos convenios con sus municipios, a efecto de que éstos asuman la prestación de los servicios o la atención de las funciones, a que se refiere el párrafo anterior.
+El Gobierno del Estado promoverá las condiciones para el desarrollo rural integral, con el propósito de generar empleo y garantizar a la población campesina el bienestar y su participación e incorporación en el desarrollo estatal y nacional, y fomentará la actividad agropecuaria y forestal para el óptimo uso de la tierra, con obras de infraestructura, insumos, créditos, servicios de capacitación y asistencia técnica.
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2013)</small>
+
+El desarrollo rural integral y sustentable a que se refiere el párrafo anterior, tendrá entre sus fines, que el Estado garantice el abasto suficiente y oportuno de los alimentos básicos que la ley establezca.
+
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2013)</small>
+
+El Estado está facultado para celebrar esos convenios con sus municipios, a efecto de que éstos asuman la prestación de los servicios o la atención de las funciones a que se refiere el párrafo anterior.
 
 > <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -1269,7 +1289,7 @@ SECCION B.- DE LAS FALTAS Y LICENCIAS DEL GOBERNADOR
 
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
-### CAPITULO UNICO. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
+### CAPITULO UNICO. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS Y PATRIMONIAL DEL ESTADO
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2007)</small>
 
@@ -2313,6 +2333,10 @@ La propaganda, bajo cualquier modalidad de comunicación social, que difundan co
 
 Las leyes garantizarán el estricto cumplimiento de lo previsto en los dos párrafos anteriores, incluyendo el régimen de sanciones a que haya lugar.
 
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2013)</small>
+
+La responsabilidad del Estado o los Municipios por los daños que, con motivo de su actividad administrativa irregular, cause en los bienes o derechos de los particulares, será objetiva y directa. Las particulares tendrán derecho a una indemnización conforme a las bases, límites y procedimientos que establezcan las leyes.
+
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
 ###### ARTICULO 121.
@@ -2395,7 +2419,7 @@ La residencia señalada como requisito de elegibilidad o de nombramiento para ca
 
 ## TITULO QUINTO
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE AGOSTO DE 1987)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE MAYO DE 2013)</small>
 
 ###### ARTICULO 130.
 
@@ -3302,3 +3326,47 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- El actual Presidente y el Vicepresidente del Tribunal Superior de Justicia concluirán su período el quince de septiembre del dos mil doce. En la misma fecha, el Pleno del Tribunal Superior de Justicia elegirán al Presidente y al Vicepresidente.
 
 TERCERO.- Se derogan todas las disposiciones legales en lo que se opongan al presente decreto.
+
+P.O. 19 DE MAYO DE 2013.
+
+DECRETO No. 77, POR EL QUE SE REFORMA EL ARTÍCULO 13 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO.
+
+###### ARTICULO ÚNICO.
+
+El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+P.O. 19 DE MAYO DE 2013.
+
+DECRETO No. 107, POR EL QUE SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 3° RECORRIÉNDOSE LOS SUBSIGUIENTES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO.
+
+PRIMERO.- El presente decreto surtirá efectos al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO.- A partir de la puesta en vigor del presente decreto, las autoridades, de acuerdo a su capacidad presupuestal, deberán en los términos que señala el artículo 13 de la Constitución Política del Estado, generar proyectos que permitan la materialización de la garantía que la presente reforma consagra, disponiendo al efecto, programas que permitan la prestación eficiente del servicio y su financiamiento conforme a las leyes.
+
+P.O. 19 DE MAYO DE 2013.
+
+DECRETO No. 118, POR EL QUE SE ADICIONAN LOS PÁRRAFOS TERCERO Y CUARTO AL ARTICULO 3 Y UN PÁRRAFO SEXTO Y SÉPTIMO, RECORRIÉNDOSE EN ORDEN EL SUBSECUENTE DEL ARTÍCULO 13 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones legales que contravengan al presente decreto.
+
+P.O. 19 DE MAYO DE 2013.
+
+DECRETO No. 336, POR EL QUE SE MODIFICA LA DENOMINACIÓN DEL CAPÍTULO ÚNICO DEL TÍTULO QUINTO Y SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 120 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El H. Congreso del Estado deberá expedir la legislación para hacer cumplir lo dispuesto en el presente decreto a más tardar en seis meses contados a partir de la entrada en vigor del mismo
+
+###### ARTÍCULO TERCERO.
+
+Túrnese el presente decreto a los Ayuntamientos del Estado para los efectos de la fracción IV del artículo 130 de la Constitución Política Local.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones legales en lo que se opongan al presente decreto.
