@@ -4,7 +4,7 @@ identifier: "DUR-ley-para-la-proteccion-de-los-animales-en-el-estado-de-72122"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-20"
-last_updated: "2009-12-20"
+last_updated: "2013-05-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72122&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "DUR"
 
 LEY PARA LA PROTECCIÓN DE LOS ANIMALES DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 19 DE MAYO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 20 de diciembre de 2009.
 
@@ -592,3 +594,19 @@ C.P. ISMAEL ALFREDO HERNANDEZ DERAS
 EL SECRETARIO GENERAL DE GOBIERNO
 
 DIP. OLIVERIO REZA CUELLAR
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 19 DE MAYO DE 2013.
+
+PRIMERO.- La presente Ley entrara en vigor a los 30 días siguientes al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO.- Se abroga la Ley para la Protección de los Animales en el Estado de Durango, aprobada mediante el Decreto No. 438 de la LXIV Legislatura, publicado en el Periódico Oficial del Gobierno Constitucional del Estado No. 50 en fecha 20 de diciembre del año 2009.
+
+TERCERO.- Los procedimientos instaurados en materia de protección Animal previos a la entrada en vigor de la presente Ley, serán resueltos conforme a la Legislación anterior.
+
+CUARTO.- Las Autoridades Municipales promoverán, en un plazo no mayor a 45 días a partir de la entrada en vigor del presente Decreto, las reformas necesarias para ajustar los reglamentos municipales a las disposiciones de esta Ley, o bien, para emitir el reglamento municipal respectivo en caso de no contar con el mismo.
+
+QUINTO.- La Secretaría promoverá, en un plazo no mayor a 45 días contados a partir de la entrada en vigor del presente Decreto, la emisión del Reglamento que permita la exacta observancia de la Ley, en las materias de su competencia.
+
+SEXTO.- Los Consejos Consultivos a que se refiere esta Ley deberán instalarse dentro de los 30 días después de la expedición de los reglamentos emitidos para tal efecto.
