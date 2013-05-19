@@ -4,7 +4,7 @@ identifier: "DUR-ley-general-de-desarrollo-urbano-para-el-estado-de-durango-2564
 country: "mx"
 rank: "ley_general"
 publication_date: "2002-06-06"
-last_updated: "2013-05-05"
+last_updated: "2013-05-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25647&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY GENERAL DE DESARROLLO URBANO PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 6 de junio de 2002.
 
@@ -1453,11 +1453,57 @@ III.- La adquisición, asignación y destino de inmuebles por parte de los gobie
 
 IV.- La promoción de estímulos, prestación de asistencia técnica y asesoría, fomentando la regularización de la tenencia de la tierra y de las construcciones.
 
-### CAPÍTULO I. DEL SUELO PARA EL DESARROLLO URBANO
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE MAYO DE 2013)</small>
+
+### CAPITULO CUARTO. DE LOS PREDIOS BALDÍOS
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2013)</small>
+
+ARTÍCULO 112 BIS.- Todos los predios considerados en su calidad individual de objeto de propiedad o de posesión y que se encuentren en zonas urbanas deben ser protegidos con bardas o delimitaciones, cuyas especificaciones serán establecidas en los Reglamentos que los Municipios expidan para tal efecto.
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2013)</small>
+
+ARTÍCULO 112 BIS 1.- Son obligaciones de los propietarios de predios o lotes urbanos:
+
+I. Construir muros perimetrales cuando no existan y conservarlos en buen estado, según las disposiciones que emitan los Ayuntamientos;
+
+II. Tomar las medidas necesarias para evitar que los predios o lotes baldíos sean fuente de afectación de la salud pública, la imagen urbana, el medio ambiente o de inseguridad pública;
+
+III.- Hacer del conocimiento al Ayuntamiento, a través de la Dependencia que le corresponda, de la adquisición de algún predio y acreditar su calidad de propietarios, dentro de los 90 días siguientes a la fecha en que obtuvieron ese carácter;
+
+IV. Conservar en las mejores condiciones posibles las bardas, cercados, y/o rejas;
+
+V. Cortar periódicamente las ramas de los árboles que invadan la vía pública y predios colindantes; y
+
+VI. Evitar el encierro de animales o realizar actividades que constituyan riesgo o peligro para la salud de los vecinos.
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2013)</small>
+
+ARTÍCULO 112 BIS 2.- Los propietarios de predios con edificaciones desocupadas y que estén concluidas, tienen igualmente las obligaciones establecidas en el artículo que antecede.
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2013)</small>
+
+ARTÍCULO 112 BIS 3.- En materia de predios baldíos son facultades de los Ayuntamientos:
+
+I. Formular, aprobar, ejecutar, controlar y evaluar políticas y programas destinados a la conservación de los predios o lotes urbanos en condiciones de seguridad e higiene;
+
+II. Instrumentar acciones de redensificación de áreas, predios o lotes baldíos urbanos;
+
+III. Vigilar que los propietarios de predios o lotes urbanos observen lo dispuesto por el presente capítulo y sancionarlos administrativa o económicamente cuando la infrinjan;
+
+IV. Expedir el reglamento y las disposiciones administrativas de carácter general que se requieran para la debida observancia de este capítulo;
+
+V. Efectuar visitas de inspección en predios o lotes baldíos que a su juicio o por denuncia ciudadana, sean fuente de afectación de la salud pública, la imagen urbana, el medio ambiente o de inseguridad pública.
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2013)</small>
+
+ARTÍCULO 112 BIS 4.- Cuando se trate de la falta de construcción de las bardas o delimitaciones, el Ayuntamiento hará un nuevo requerimiento al propietario moroso para que en el término de 90 días construya sus bardas o delimitaciones, apercibido de que si no lo hace la Autoridad Municipal fincará la construcción con sus propios recursos. También hará saber al interesado que los gastos erogados serán cubiertos por el propietario.
+
+El Ayuntamiento podrá ejercer las medidas legales y administrativas que corresponda para el cumplimiento de este Capítulo.
 
 ## TITULO CUARTO. DEL SUELO Y LAS RESERVAS TERRITORIALES
 
-### CAPITULO II. DE LA ZONIFICACIÓN DEL SUELO
+### CAPÍTULO I. DEL SUELO PARA EL DESARROLLO URBANO
 
 ###### ARTÍCULO 113.
 
@@ -1467,7 +1513,7 @@ Se declaran de utilidad pública, e interés social, las acciones, obras e inver
 
 Los Ayuntamientos, administrarán las reservas territoriales, a fin de destinar dichas reservas a los programas que consideren pertinentes, como lo son los de desarrollo urbano y de vivienda. El Estado administrará aquellas reservas territoriales que obtenga para programas específicos de vivienda y zonas protegidas.
 
-### CAPITULO III. DEL SISTEMA ESTATAL DE SUELO Y LAS RESERVAS TERRITORIALES
+### CAPITULO II. DE LA ZONIFICACIÓN DEL SUELO
 
 ###### ARTÍCULO 115.
 
@@ -1535,7 +1581,7 @@ Las zonas de reserva deberán mantenerse inalterables, en tanto no se expidan la
 
 Igualmente, deberá mantenerse inalterable el área de preservación ecológica, durante el término que fije el programa de desarrollo urbano respectivo, que en ningún caso, será mayor de diez años.
 
-### CAPÍTULO IV. DE LA REGULARIZACIÓN DE LA TENENCIA DE LA TIERRA
+### CAPITULO III. DEL SISTEMA ESTATAL DE SUELO Y LAS RESERVAS TERRITORIALES
 
 ###### ARTÍCULO 121.
 
@@ -1569,9 +1615,7 @@ IV.- Tratándose de tierras ejidales o comunales, la regularización se sujetar�
 
 Los gobiernos federal, estatal y municipales, podrán otorgar facilidades administrativas y fiscales, a efecto de agilizar y reducir el costo y los trámites de titulación de inmuebles para vivienda de interés social y popular.
 
-### CAPÍTULO I
-
-DEL FRACCIONAMIENTO, RELOTIFICACIÓN, FUSIÓN Y SUBDIVISIÓN DE TERRENOS.
+### CAPÍTULO IV. DE LA REGULARIZACIÓN DE LA TENENCIA DE LA TIERRA
 
 ###### ARTÍCULO 125.
 
@@ -1593,7 +1637,9 @@ Las instancias reguladoras como Comisión Reguladora de la Tenencia de la Tierra
 
 ## TITULO QUINTO. DE LA REGULACIÓN DE TERRENOS PARA EL DESARROLLO URBANO
 
-### CAPITULO II. DE LOS PERITOS
+### CAPÍTULO I
+
+DEL FRACCIONAMIENTO, RELOTIFICACIÓN, FUSIÓN Y SUBDIVISIÓN DE TERRENOS.
 
 ###### ARTÍCULO 129.
 
@@ -1921,7 +1967,7 @@ Podrá ser declarado de interés público y beneficio colectivo, el incremento d
 
 El costo de las obras que se deriven del sistema de imposición se aplicará proporcionalmente entre los propietarios o poseedores beneficiados, cuando sean aprobados en los términos de la presente ley.
 
-### CAPITULO I. DEL SISTEMA ESTATAL DE VIVIENDA
+### CAPITULO II. DE LOS PERITOS
 
 ###### ARTÍCULO 183.
 
@@ -1969,7 +2015,7 @@ En todo caso la autoridad municipal realizará la investigación, determinado (s
 
 ## TITULO SEXTO. DE LA REGULARIZACIÓN EN MATERIA DE VIVIENDA
 
-### CAPÍTULO VII (SIC). DEL OTORGAMIENTO DE CRÉDITO PARA LA VIVIENDA
+### CAPITULO I. DEL SISTEMA ESTATAL DE VIVIENDA
 
 ###### ARTÍCULO 188.
 
@@ -2129,7 +2175,7 @@ Los ayuntamientos con el apoyo del Consejo y las comisiones estatal y municipale
 
 Las dependencias y entidades de la Administración Pública Estatal y municipales, apoyarán de manera prioritaria la aplicación de las normas de diseño y tecnología de la vivienda a que se refiere la presente ley.
 
-### CAPÍTULO II (SIC). DE LOS PROCEDIMIENTOS Y REQUISITOS PARA LA AUTORIZACIÓN DE LOS FRACCIONAMIENTOS
+### CAPÍTULO VII (SIC). DEL OTORGAMIENTO DE CRÉDITO PARA LA VIVIENDA
 
 ###### ARTÍCULO 203.
 
@@ -2685,9 +2731,7 @@ El ayuntamiento tramitará la publicación en el Periódico Oficial del Gobierno
 
 El ayuntamiento tomará las medidas necesarias para el debido aprovechamiento de las áreas de donación, y mientras no se realicen las obras que ocupen dichas áreas, el Gobierno del Estado y el ayuntamiento estarán obligados a cuidar el buen aspecto de los lotes del dominio estatal y municipal.
 
-### CAPÍTULO III
-
-DE LA URBANIZACIÓN Y SERVICIOS PÚBLICOS EN LOS FRACCIONAMIENTOS.
+### CAPÍTULO II (SIC). DE LOS PROCEDIMIENTOS Y REQUISITOS PARA LA AUTORIZACIÓN DE LOS FRACCIONAMIENTOS
 
 ###### ARTÍCULO 233.
 
@@ -2839,9 +2883,9 @@ El fraccionador podrá interponer el recurso de inconformidad que establece la p
 
 Los propietarios de fraccionamientos o condominios, de cualesquiera de los tipos señalados en la presente ley, que hayan sido ejecutados sin la previa autorización en sesión de ayuntamiento, deberán solicitar la regularización de los mismos ante el Presidente Municipal, acompañando a la solicitud, la documentación que éste le señale, para que sean sometidos a la consideración de la sesión de ayuntamiento.
 
-### CAPÍTULO III BIS. DE LA MUNICIPALIZACIÓN DE FRACCIONAMIENTOS O DESARROLLOS EN CONDOMINIO
+### CAPÍTULO III
 
-(REUBICADO Y REFORMADO, P.O. 2 DE DICIEMBRE DE 2007)
+DE LA URBANIZACIÓN Y SERVICIOS PÚBLICOS EN LOS FRACCIONAMIENTOS.
 
 ###### ARTÍCULO 241.
 
@@ -2891,7 +2935,9 @@ En todos los casos será responsable solidario el perito o director responsable 
 
 > <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2007)</small>
 
-### CAPITULO IV. DE LAS OBLIGACIONES DE LOS FRACCIONADORES Y DE LOS DERECHOS Y OBLIGACIONES DE LOS ADQUIRENTES
+### CAPÍTULO III BIS. DE LA MUNICIPALIZACIÓN DE FRACCIONAMIENTOS O DESARROLLOS EN CONDOMINIO
+
+(REUBICADO Y REFORMADO, P.O. 2 DE DICIEMBRE DE 2007)
 
 ###### ARTÍCULO 247.
 
@@ -2951,11 +2997,7 @@ En el caso de que dichos recursos sean insuficientes para ejecutar las obras de 
 
 La garantía que se refiere anteriormente, no podrá cancelarse sino hasta que hayan transcurrido dos años, contados a partir de la fecha en que las autoridades competentes, dictaminaron que la totalidad de las obras de urbanización se ejecutaron con estricto apego a las especificaciones fijadas por la presente ley.
 
-### CAPÍTULO V
-
-DEL RÉGIMEN DE PROPIEDAD EN CONDOMINIO.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+### CAPITULO IV. DE LAS OBLIGACIONES DE LOS FRACCIONADORES Y DE LOS DERECHOS Y OBLIGACIONES DE LOS ADQUIRENTES
 
 ###### ARTÍCULO 253.
 
@@ -3009,7 +3051,11 @@ En los fraccionamientos habitacionales de interés social, nadie podrá adquirir
 
 Los adquirientes de lotes en un fraccionamiento, podrán constituirse legalmente en una asociación de colonos, la que deberá contar con un reglamento y estar inscrita en el ayuntamiento con el fin de que se le reconozca la personalidad y capacidad de gestión de la correspondiente.
 
-### CAPÍTULO I. DE LA PRESERVACIÓN DEL PATRIMONIO CULTURAL DEL ESTADO
+### CAPÍTULO V
+
+DEL RÉGIMEN DE PROPIEDAD EN CONDOMINIO.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 263.
 
@@ -3137,7 +3183,7 @@ Los adquirientes de lotes en un fraccionamiento, podrán constituirse legalmente
 
 ## TITULO OCTAVO. PREVENCIONES GENERALES EN MATERIA DE DESARROLLO URBANO
 
-### CAPÍTULO II. DE LA CONSERVACIÓN Y MEJORAMIENTO DEL PATRIMONIO CULTURAL
+### CAPÍTULO I. DE LA PRESERVACIÓN DEL PATRIMONIO CULTURAL DEL ESTADO
 
 ###### ARTÍCULO 284.
 
@@ -3183,7 +3229,7 @@ Las atribuciones que ejerza el estado y los municipios para la conservación y m
 
 La Comisión para la Preservación del Patrimonio Cultural del Estado coordinará las acciones de conservación y mejoramiento relativas al patrimonio cultural en el Estado, para el mejor aprovechamiento de los recursos disponibles, así como las acciones e inversiones de las dependencias y entidades del sector público, encargado de la conservación y mejoramiento del patrimonio cultural del Estado, unificando los criterios técnicos, jurídicos y administrativos.
 
-### CAPÍTULO III. DEL REGISTRO DEL PATRIMONIO CULTURAL DEL ESTADO
+### CAPÍTULO II. DE LA CONSERVACIÓN Y MEJORAMIENTO DEL PATRIMONIO CULTURAL
 
 ###### ARTÍCULO 290.
 
@@ -3213,7 +3259,7 @@ Y para tal efecto, en coordinación con las autoridades federales competentes, s
 
 Las atribuciones de la comisión señaladas en el presente artículo, no son excluyentes de las que le confiere la presente Ley a la Secretaría y a los ayuntamientos u otras disposiciones jurídicas a la federación.
 
-### CAPÍTULO IV. DE LA REGULACIÓN EN MATERIA DE ANUNCIOS, EN ZONAS DEL PATRIMONIO CULTURAL
+### CAPÍTULO III. DEL REGISTRO DEL PATRIMONIO CULTURAL DEL ESTADO
 
 ###### ARTÍCULO 293.
 
@@ -3235,7 +3281,7 @@ Los bienes inmuebles declarados patrimonio cultural deberán inscribirse en el R
 
 La autoridad catastral correspondiente, deberá señalar, en su caso, la característica de patrimonio cultural de un inmueble que haya sido catalogado como tal y dará aviso a la Comisión para la Preservación del Patrimonio Cultural del Estado de la operación inmobiliaria que se celebre, dentro de un plazo de 30 días naturales, a partir de que tenga conocimiento para los efectos legales a que haya lugar.
 
-### CAPITULO V. DE LA REGULACIÓN URBANA PARA LA PROTECCIÓN DE LAS PERSONAS CON DISCAPACIDAD
+### CAPÍTULO IV. DE LA REGULACIÓN EN MATERIA DE ANUNCIOS, EN ZONAS DEL PATRIMONIO CULTURAL
 
 ###### ARTÍCULO 298.
 
@@ -3259,7 +3305,7 @@ IV.- Carteles y volantes: Son aquellos destinados a anuncios de espectáculos ta
 
 Se autorizará por las autoridades estatales y municipales, el uso de instalaciones, anuncios, carteles y establecimientos cuando cumplan con las características especificas marcadas por el Instituto Nacional de Antropología e Historia y la Comisión para la Preservación del Patrimonio Cultural del Estado, quedando esta facultada para retirar aquellos que sean eventualmente innecesarios, inadecuados o que contengan cualquier publicidad nociva o indecorosa.
 
-### CAPÍTULO VI. DE LAS NORMAS GENERALES QUE REGULAN LAS CONCESIONES DE LOS BIENES Y SERVICIOS PÚBLICOS
+### CAPITULO V. DE LA REGULACIÓN URBANA PARA LA PROTECCIÓN DE LAS PERSONAS CON DISCAPACIDAD
 
 ###### ARTÍCULO 301.
 
@@ -3277,7 +3323,7 @@ En los auditorios, cines, teatros, salas de conciertos y conferencias, centros r
 
 Las determinaciones y acciones de los órganos del gobierno estatal y municipal, los programas de desarrollo que éstos formulen, observarán que la infraestructura, el equipamiento del entorno urbano, los servicios urbanos, así como las acciones de vivienda, construcciones e instalaciones a que tiene acceso el público, deberán cumplir con la normatividad necesaria que permita a las personas con discapacidad orientarse, desplazarse y utilizarlos sin peligro para la vida y la salud.
 
-### CAPITULO ÚNICO
+### CAPÍTULO VI. DE LAS NORMAS GENERALES QUE REGULAN LAS CONCESIONES DE LOS BIENES Y SERVICIOS PÚBLICOS
 
 ###### ARTÍCULO 305.
 
@@ -3390,6 +3436,8 @@ IV.- Por actos del concesionario o empleados de este que provoquen daños físic
 V.- Las demás previstas en las leyes reguladores de la prestación del servicio o uso, aprovechamiento o explotación de que se trate, o en las propias bases de la concesión.
 
 ## TITULO NOVENO. DE LAS MEDIDAS DE SEGURIDAD, INFRACCIONES, SANCIONES Y MEDIOS DE DEFENSA
+
+### CAPITULO ÚNICO
 
 ###### ARTÍCULO 315.
 
@@ -3812,3 +3860,11 @@ Derogado.
 Artículo Cuarto. Publíquese en el Periódico Oficial del Gobierno del Estado de Durango.
 
 Artículo Quinto. Se derogan todas las disposiciones que se opongan a la presente.
+
+P.O. 19 DE MAYO DE 2013.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Los Ayuntamientos deberán expedir el reglamento y las disposiciones administrativas de carácter general que se requieran para la debida observancia del presente decreto, en un plazo no mayor a 90 días, después de entrada en vigor del mismo.
+
+TERCERO.- Se derogan todas las disposiciones legales en lo que se opongan al presente decreto.
