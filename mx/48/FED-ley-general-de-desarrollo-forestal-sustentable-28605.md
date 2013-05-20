@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-desarrollo-forestal-sustentable-28605"
 country: "mx"
 rank: "ley_general"
 publication_date: "2003-02-25"
-last_updated: "2012-06-04"
+last_updated: "2013-05-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28605&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGDFS"
 
 LEY GENERAL DE DESARROLLO FORESTAL SUSTENTABLE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MAYO DE 2013.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación el martes 25 de febrero de 2003.
 
@@ -324,6 +324,8 @@ La Federación, los Estados, el Distrito Federal y los Municipios ejercerán sus
 
 #### Sección 1.. De las Atribuciones de la Federación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MAYO DE 2013)</small>
+
 ###### ARTICULO 12.
 
 Son atribuciones de la Federación:
@@ -336,7 +338,9 @@ III. Elaborar, coordinar y aplicar los programas a que se refiere esta Ley en ma
 
 IV. Aplicar y promover, en coordinación con las entidades federativas y los municipios, el establecimiento de sistemas y esquemas de ventanilla única para la atención eficiente de los diversos usuarios;
 
-V. Realizar el Inventario Nacional Forestal y de Suelos y determinar los criterios e indicadores para el desarrollo, diseño y actualización de los inventarios correspondientes a las entidades;
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2013)</small>
+
+V. Realizar el Inventario Nacional Forestal y de Suelos y determinar los criterios e indicadores para el desarrollo, diseño y actualización de los inventarios correspondientes a las entidades y los municipios;
 
 VI. Llevar a cabo la zonificación forestal del país;
 
@@ -490,7 +494,9 @@ III. Apoyar a la Federación y al Gobierno de la Entidad, en la adopción y cons
 
 IV. Participar en el ámbito de sus atribuciones, en el establecimiento de sistemas y esquemas de ventanilla única de atención eficiente para los usuarios del sector;
 
-V. Coadyuvar con el Gobierno de la Entidad en la realización y actualización del Inventario Estatal Forestal y de Suelos;
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2013)</small>
+
+V. Elaborar, monitorear y mantener actualizado el Inventario Municipal Forestal y de Suelos, bajo los principios, criterios y lineamientos que se establezcan para el Inventario Estatal Forestal y de Suelos e incorporar su contenido al Sistema Estatal de Información Forestal;
 
 VI. Participar, en coordinación con la Federación en la zonificación forestal, comprendiendo las áreas forestales permanentes de su ámbito territorial;
 
@@ -1744,7 +1750,9 @@ En las autorizaciones de cambio de uso del suelo en terrenos forestales, la auto
 
 No se podrá otorgar autorización de cambio de uso de suelo en un terreno incendiado sin que hayan pasado 20 años, a menos que se acredite fehacientemente a la Secretaría que el ecosistema se ha regenerado totalmente, mediante los mecanismos que para tal efecto se establezcan en el reglamento correspondiente.
 
-Las autorizaciones que se emitan deberán atender lo que, en su caso, dispongan los programas de ordenamiento ecológico correspondiente, las normas oficiales mexicanas y demás disposiciones legales y reglamentarias aplicables.
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2013)</small>
+
+Las autorizaciones que se emitan deberán integrar un programa de rescate y reubicación de especies de la vegetación forestal afectadas y su adaptación al nuevo hábitat. Dichas autorizaciones deberán atender lo que, en su caso, dispongan los programas de ordenamiento ecológico correspondiente, las normas oficiales mexicanas y demás disposiciones legales y reglamentarias aplicables.
 
 La Secretaría, con la participación de la Comisión, coordinará con la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, la política de uso del suelo para estabilizar su uso agropecuario, incluyendo el sistema de roza, tumba y quema, desarrollando prácticas permanentes y evitando que la producción agropecuaria crezca a costa de los terrenos forestales.
 
@@ -2465,3 +2473,9 @@ D.O.F. 4 DE JUNIO DE 2012.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. El Titular del Poder Ejecutivo Federal, en un plazo no mayor a tres años posteriores a la entrada en vigor del presente Decreto, implementará un sistema nacional de monitoreo, registro y verificación, con el fin de evaluar y sistematizar la reducción de emisiones derivadas de acciones de prevención y combate de la deforestación y degradación de los ecosistemas forestales (REDD+), al que se hace referencia en la fracción IX del artículo 45 del presente Decreto.
+
+D.O.F. 20 DE MAYO DE 2013.
+
+Artículo Primero. El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Artículo Segundo. En un plazo no mayor a 180 días hábiles posteriores a la entrada en vigor del presente Decreto el titular del Poder Ejecutivo Federal deberá realizar las adecuaciones correspondientes al Reglamento de la Ley General de Desarrollo Forestal Sustentable.
