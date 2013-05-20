@@ -4,7 +4,7 @@ identifier: "AGU-legislacion-penal-para-el-estado-de-aguascalientes-33238"
 country: "mx"
 rank: "otro"
 publication_date: "2003-07-21"
-last_updated: "2013-03-25"
+last_updated: "2013-05-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "AGU"
 
 LEGISLACIÓN PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 20 DE MAYO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: DEROGADO.
 
 Legislación publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 21 de julio de 2003.
 
@@ -6060,3 +6062,61 @@ P.O. 25 DE MARZO DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 20 DE MAYO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia a los sesenta días naturales contados a partir de su publicación en el Periódico Oficial del Estado, a excepción del Código de Procedimientos Penales para el Estado de Aguascalientes contenido en el Artículo Tercero.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deroga la Legislación Penal para el Estado de Aguascalientes publicada en el Periódico Oficial del Estado el 21 de julio de 2003 mediante decreto número 97.
+
+###### ARTÍCULO TERCERO.
+
+La incorporación del sistema procesal penal acusatorio en el Estado de Aguascalientes será gradual, y en consecuencia la vigencia y aplicación del Código de Procedimientos Penales para el Estado de Aguascalientes contenido en el Artículo Tercero del presente Decreto será progresiva, conforme a las siguientes fechas:
+
+I.- El 16 de junio de 2014 en el quinto partido judicial con sede en Jesús María, respecto de los hechos punibles considerados de querella previstos en el Artículo 166 del Código de Procedimientos Penales contenido en el Artículo Tercero, y de hechos punibles patrimoniales no violentos;
+
+II.- El 5 de enero de 2015 en el tercer y cuarto partidos judiciales con sede en Pabellón y Rincón de Romos, respecto de los hechos punibles considerados de querella previstos en el Artículo 166 del Código de Procedimientos Penales contenido en el Artículo Tercero, y de hechos punibles patrimoniales no violentos;
+
+III.- El 1 de junio de 2015 en el primer y segundo partidos judiciales con sede en Aguascalientes y Calvillo, respecto de los hechos punibles considerados de querella previstos en el Artículo 166 del Código de Procedimientos Penales contenido en el Artículo Tercero, y de hechos punibles patrimoniales no violentos;
+
+IV.- El 1 de junio de 2015 en el quinto partido judicial con sede en Jesús María, respecto de los hechos punibles no considerados de prisión preventiva oficiosa;
+
+V.- El 4 de enero de 2016 en el quinto partido judicial con sede en Jesús María, respecto de la totalidad de hechos punibles;
+
+VI.- El 4 de enero de 2016 en el tercer y cuarto partidos judiciales con sede en Pabellón y Rincón de Romos, respecto de los hechos punibles no considerados de prisión preventiva oficiosa; y
+
+VII.- El 18 de junio de 2016, en el primer, segundo, tercer y cuarto partidos judiciales con sede en Aguascalientes, Calvillo, Pabellón y Rincón de Romos, respecto de la totalidad de hechos punibles.
+
+Lo anterior con la salvedad del caso de que ya se hubiere incorporado alguna fase, principios procesales o derechos en legislaciones vigentes relacionadas con el Sistema Penal Acusatorio.
+
+###### ARTÍCULO CUARTO.
+
+Las disposiciones del Código de Procedimientos Penales contenido en el Artículo Tercero del presente Decreto, se aplicarán a hechos que ocurran a partir de las cero horas de las fechas y partidos judiciales en que de manera progresiva entre en vigencia el sistema procesal penal acusatorio, de acuerdo a lo dispuesto en el Artículo Segundo Transitorio.
+
+###### ARTÍCULO QUINTO.
+
+Quedarán derogados los preceptos del Código de Procedimientos Penales para el Estado de Aguascalientes contenido en el Artículo Segundo del presente Decreto de manera progresiva y gradual, conforme a la incorporación del sistema procesal penal acusatorio en términos del Artículo Tercero Transitorio, con la salvedad de los procedimientos que se estén tramitando con base en sus disposiciones, en cuyo caso se seguirán aplicando hasta su resolución.
+
+###### ARTÍCULO SEXTO.
+
+A partir de que entre en vigencia el presente Decreto, en los trámites iniciados conforme a la Legislación Penal para el Estado de Aguascalientes abrogada, las autoridades que conozcan de la etapa procesal que corresponda, podrán efectuar la traslación y aplicación de las nuevas disposiciones procedimentales en la medida que sean conducentes.
+
+En el caso del Código Penal para el Estado de Aguascalientes, si éste denomina, penaliza o agrava de forma diversa descripciones típicas previstas en la Legislación Penal para el Estado de Aguascalientes abrogada, se estará a lo siguiente:
+
+I.- Instaurado el proceso y sin que aún no se formulen conclusiones acusatorias, el Ministerio Público las formulará de conformidad con la traslación del tipo que resulte; y
+
+II.- En los procesos pendientes de dictarse sentencia en primera y segunda instancia, el juez o el Tribunal respectivamente, podrán efectuar la traslación del tipo de conformidad con la conducta descrita en el Código Penal para el Estado de Aguascalientes.
+
+Las reglas establecidas en este transitorio también se aplicarán en lo conducente a los procedimientos tramitados con base en la Ley del Sistema de Justicia para Adolescentes del Estado de Aguascalientes.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Congreso del Estado preverá una partida especial para solventar las erogaciones necesarias para la adecuada implementación del sistema procesal penal acusatorio.
+
+###### ARTÍCULO OCTAVO.
+
+A partir del inicio de vigencia del presente Decreto, toda referencia a la Legislación Penal para el Estado de Aguascalientes que se realice en otras leyes se entenderá hecha al Código Penal para el Estado de Aguascalientes o al Código de Procedimientos Penales para el Estado de Aguascalientes, según corresponda.
