@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-de-la-administracion-publica-del-estado-de-84030"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-11-30"
-last_updated: "2013-04-19"
+last_updated: "2013-05-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84030&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2013.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Coahuila, el miércoles 30 de noviembre de 2011.
 
@@ -45,7 +45,9 @@ LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
 Esta Ley tiene por objeto establecer la estructura, las atribuciones y las bases para la organización y el funcionamiento de la administración pública del Estado de Coahuila de Zaragoza. Para el correcto ejercicio de las atribuciones y el despacho de los asuntos a cargo del gobernador, la administración pública del estado se organiza en centralizada y paraestatal.
 
-La administración pública centralizada se compone por el Despacho del Gobernador, las secretarías del ramo, la Procuraduría General de Justicia y demás unidades administrativas que se integren para la buena marcha de la administración, cualquiera que sea su denominación.
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2013)</small>
+
+La administración pública centralizada se compone por la Oficina del Gobernador, las secretarías del ramo, la Procuraduría General de Justicia, la Consejería Jurídica y demás unidades administrativas que se integren para la buena marcha de la administración, cualquiera que sea su denominación.
 
 La administración pública paraestatal se conforma por los organismos públicos descentralizados, los organismos públicos de participación ciudadana, las empresas de participación estatal, los fideicomisos públicos y demás entidades, sin importar la forma en que sean identificadas.
 
@@ -409,9 +411,7 @@ XII. Secretaría de las Mujeres;
 
 XIII. Secretaría de Salud;
 
-> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2012)</small>
-
-XIV. Secretaría de Seguridad Pública;
+XIV. (DEROGADA, P.O. 20 DE DE MAYO DE 2013)
 
 > <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2012)</small>
 
@@ -429,9 +429,15 @@ XVII. Secretaría de Fiscalización y Rendición de Cuentas, y
 
 XVIII. Procuraduría General de Justicia del Estado.
 
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2013)</small>
+
+XIX. Consejería Jurídica.
+
 Quienes sean titulares de las secretarías y de la Procuraduría General de Justicia, integrarán el gabinete legal.
 
-Las dependencias de la administración pública centralizada tendrán igual rango y entre ellas no habrá preeminencia alguna y estarán obligadas a coordinar sus actividades entre sí y a proporcionarse colaboración y cooperación, así como la información necesaria cuando el ejercicio de sus funciones así lo requiera.
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2013)</small>
+
+Las dependencias de la administración pública centralizada tendrán igual rango y entre ellas no habrá, por lo tanto, preeminencia alguna. Sin perjuicio de lo anterior, por acuerdo del Ejecutivo del Estado, la Secretaría de Gobierno coordinará las acciones de los Secretarios y demás funcionarios de la Administración Pública para garantizar el cumplimiento de las órdenes y acuerdos del Gobernador.
 
 ###### ARTÍCULO 21.
 
@@ -558,6 +564,170 @@ XX. Promover el desarrollo de una cultura democrática en la entidad y propiciar
 XXI. Coordinar la relación del Gobierno del Estado con las diferentes iglesias y asociaciones religiosas y promover un ambiente de respeto y participación en el desarrollo del estado, y
 
 XXII. Conducir y ejecutar las políticas en materia de protección civil y alentar la colaboración con los otros dos órdenes de gobierno en este tema.
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2013)</small>
+
+XXIII. Coordinar, por acuerdo del Ejecutivo, a los Secretarios y demás funcionarios de la Administración Pública para garantizar el cumplimiento de las órdenes y acuerdos del Gobernador. Para tal efecto, convocará por acuerdo del Ejecutivo a las reuniones de gabinete; acordará con los titulares de las Secretarías de Estado, órganos desconcentrados y entidades paraestatales las acciones necesarias para dicho cumplimiento, y requerirá a los mismos los informes correspondientes;
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2013)</small>
+
+XXIV. Intervenir en los nombramientos, aprobaciones, designaciones, destituciones, renuncias y jubilaciones de servidores públicos que no se atribuyan expresamente por la ley a otras dependencias del Ejecutivo;
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2013)</small>
+
+XXV. Tramitar lo relativo al ejercicio de las facultades que otorga al Ejecutivo del Estado el artículo 146 de la Constitución Política del Estado de Coahuila de Zaragoza, sobre nombramientos, renuncias y licencias de los magistrados del Tribunal Superior de Justicia, del Tribunal Electoral y del Tribunal de lo Contencioso-Administrativo;
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2013)</small>
+
+XXVI. Conducir la política interior que competa al Ejecutivo y no se atribuya expresamente a otra dependencia así como fomentar el desarrollo político; contribuir al fortalecimiento de las instituciones democráticas; promover la activa participación ciudadana, salvo en materia electoral; favorecer las condiciones que permitan la construcción de acuerdos políticos y consensos sociales para que, en los términos de la Constitución y de las leyes, se mantengan las condiciones de cohesión social, fortalecimiento de las instituciones de gobierno y gobernabilidad democrática;
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2013)</small>
+
+XXVII. Formular y ejecutar las políticas, programas y acciones tendientes a garantizar la seguridad pública del Estado y de sus habitantes; proponer al Ejecutivo la política criminal y las medidas que garanticen la congruencia de ésta entre las dependencias de la Administración Pública de acuerdo al Plan Estatal de Desarrollo; coadyuvar a la prevención del delito; ejercer el mando sobre la fuerza pública para proteger a la población ante todo tipo de amenazas y riesgos, con plena sujeción a los derechos humanos y libertades fundamentales; salvaguardar la integridad y los derechos de las personas; así como preservar las libertades, el orden y la paz públicos;
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2013)</small>
+
+XXVIII. Organizar, dirigir y supervisar bajo su adscripción a la Policía del Estado, garantizar el desempeño honesto de su personal y aplicar su régimen disciplinario, con el objeto de salvaguardar la integridad y el patrimonio de las personas y prevenir la comisión de delitos del orden común;
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2013)</small>
+
+XXIX. Proponer al Ejecutivo del Estado el nombramiento del Comisionado Estatal de Seguridad y del Secretario Ejecutivo del Sistema Estatal de Seguridad Pública;
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2013)</small>
+
+XXX. Proponer en el seno del Consejo Estatal de Seguridad Pública, políticas, acciones y estrategias de coordinación en materia de prevención del delito y política criminal para todo el territorio del Estado; y efectuar, en coordinación con la Procuraduría General de Justicia del Estado, estudios sobre los actos delictivos no denunciados e incorporar esta variable en el diseño de las políticas en materia de prevención del delito;
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2013)</small>
+
+XXXI. Auxiliar a las autoridades estatales y municipales, que soliciten apoyo en el marco del Sistema Estatal de Seguridad Pública, en la protección de la integridad física de las personas y la preservación de sus bienes; reforzar, cuando así lo soliciten, la tarea policial y de seguridad de los municipios y localidades rurales y urbanas que lo requieran, intervenir ante situaciones de peligro cuando se vean amenazados por aquellas que impliquen violencia o riesgo inminentes;
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2013)</small>
+
+XXXII. Promover la celebración de convenios entre las autoridades estatales y municipales, en aras de lograr la efectiva coordinación y funcionamiento del Sistema Estatal de Seguridad Pública y el combate a la delincuencia; así como establecer acuerdos de colaboración con instituciones similares, en los términos de la legislación aplicable;
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2013)</small>
+
+XXXIII. Auxiliar al Poder Judicial del Estado, cuando así lo requiera, para el debido ejercicio de sus funciones, así como a otras dependencias, órganos de gobierno y municipios; y cuando lo solicite, a la Procuraduría General de Justicia en la investigación y persecución de los delitos, en cuyo caso los cuerpos de policía que actúen en su auxilio estarán bajo el mando y conducción del Ministerio Público; y disponer de la fuerza pública en términos de las disposiciones legales aplicables;
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2013)</small>
+
+XXXIV. Proponer al Consejo Estatal de Seguridad Pública el desarrollo de políticas orientadas a prevenir el delito y reconstituir el tejido social de las comunidades afectadas por fenómenos de delincuencia recurrente o generalizada, y aplicarlas en coordinación con las autoridades competentes; fomentar la participación ciudadana en la formulación de planes y programas de prevención en materia de delitos del fuero común; promover y facilitar la participación social para el desarrollo de actividades de vigilancia sobre el ejercicio de sus atribuciones en materia de seguridad pública; y atender de manera expedita las denuncias y quejas ciudadanas con relación al ejercicio de estas atribuciones;
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2013)</small>
+
+XXXV. Participar en la atención integral a víctimas y coadyuvar en la celebración de acuerdos de colaboración con otras instituciones del sector público y privado para el mejor cumplimiento de esta atribución;
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2013)</small>
+
+XXXVI. Diseñar, actualizar y publicar una página electrónica específica en la cual se registren los datos generales de las personas que sean reportadas como desaparecidas. La información deberá ser pública y permitir que la población en general pueda aportar información sobre el paradero de las personas desaparecidas. Esta página deberá actualizarse de forma permanente;
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2013)</small>
+
+XXXVII. Ejecutar las penas por delitos del orden común y administrar el sistema penitenciario y de justicia para adolescentes en el estado, en términos de la ley de la materia, de la política especial correspondiente y con estricto apego a los derechos humanos; así como organizar y dirigir las actividades de apoyo a liberados, las solicitudes de extradición, así como los indultos y el traslado de reos;
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2013)</small>
+
+XXXVIII. Procurar la reinserción social de los procesados y sentenciados en la ejecución de las penas privativas de la libertad;
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2013)</small>
+
+XXXIX. Supervisar el adecuado cumplimiento de tratamientos y medidas de inserción, orientación y protección en materia de justicia para adolescentes;
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2013)</small>
+
+XL. Establecer y operar un sistema de investigación e información, que contribuya a preservar la integridad, estabilidad y permanencia del estado, así como contribuir en lo que corresponda al Ejecutivo, a dar sustento a la unidad, a preservar la cohesión social y a fortalecer las instituciones de gobierno;
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2013)</small>
+
+XLI. Administrar, coordinar, operar e impulsar la mejora continua del sistema de información, comunicación, reportes, registro y bases de datos en materia criminal y de seguridad pública; desarrollar las políticas, normas y sistemas para el debido suministro permanente e intercambio de información en materia de seguridad pública entre las autoridades competentes; y establecer un sistema destinado a obtener, analizar, estudiar y procesar información para la prevención de delitos, mediante métodos que garanticen el estricto respeto a los derechos humanos;
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2013)</small>
+
+XLII. Establecer mecanismos e instancias para la coordinación integral de las tareas y cuerpos de seguridad pública y policial, así como para el análisis y sistematización integral de la investigación e información de seguridad pública en el marco del Sistema Estatal de Seguridad Pública;
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2013)</small>
+
+XLIII. Coordinar y establecer mecanismos para contar oportunamente con la información de seguridad pública, así como del ámbito criminal y preventivo que esta Secretaría requiera de dependencias y organismos competentes en dichas materias, para el adecuado cumplimiento de las atribuciones que le son conferidas;
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2013)</small>
+
+XLIV. Conducir y poner en ejecución, en coordinación con las autoridades de los gobiernos municipales, y con las dependencias y entidades de la Administración Pública, las políticas y programas de protección civil del Ejecutivo, en el marco del Sistema Nacional de Protección Civil, para la prevención, auxilio, recuperación y apoyo a la población en situaciones de desastre y concertar con instituciones y organismos de los sectores privado y social, las acciones conducentes al mismo objetivo;
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2013)</small>
+
+XLV. Formular y conducir la política de población, salvo lo relativo a colonización, asentamientos humanos y turismo, así como manejar el servicio nacional de identificación personal, en términos de las leyes aplicables;
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2013)</small>
+
+XLVI. Vigilar el cumplimiento de las disposiciones constitucionales y legales en materia de culto público, iglesias, agrupaciones y asociaciones religiosas;
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2013)</small>
+
+XLVII. Impulsar las políticas públicas y dar seguimiento a los programas que refuercen la inclusión social y la igualdad, mediante estrategias y acciones que contribuyan a prevenir y a eliminar la discriminación;
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2013)</small>
+
+XLVIII. Supervisar que se dé cabal cumplimiento en el estado a los acuerdos del Consejo Nacional de Seguridad Pública;
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2013)</small>
+
+XLIX. Presidir el Consejo Estatal de Seguridad Pública en ausencia del Ejecutivo del Estado y supervisar que se instrumenten y de cumplimiento a sus acuerdos;
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2013)</small>
+
+L. Dirigir, organizar y evaluar a la Policía Estatal;
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2013)</small>
+
+LI. Aplicar las normas, políticas y lineamientos que procedan para establecer mecanismos de coordinación entre los cuerpos de seguridad pública que existen en el estado;
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2013)</small>
+
+LII. Apoyar a las autoridades federales, municipales y de otras entidades de la República en la adopción de medidas y desarrollo de acciones tendientes a mejorar los servicios de seguridad pública;
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2013)</small>
+
+LIII. Autorizar la prestación de servicios de seguridad a los particulares, así como los servicios de seguridad privada prestada por éstos;
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2013)</small>
+
+LIV. Promover la capacitación, profesionalización y modernización de los cuerpos de seguridad pública del Estado;
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2013)</small>
+
+LV. Vigilar las carreteras, caminos y aeropuertos de jurisdicción estatal, así como las instalaciones y edificios públicos del gobierno del estado;
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2013)</small>
+
+LVI. Diseñar, proponer y en su caso establecer, en coordinación con las dependencias correspondientes, programas tendientes a prevenir el pandillerismo, así como el alcoholismo, la farmacodependencia y demás adicciones;
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2013)</small>
+
+LVII. Celebrar convenios de colaboración, en el ámbito de su competencia y en el marco del Sistema Nacional de Seguridad Pública, con autoridades federales, estatales, municipales y del Distrito Federal, así como establecer acuerdos de colaboración con instituciones similares conforme a la legislación aplicable;
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2013)</small>
+
+LVIII. Aplicar y vigilar el cumplimiento de las disposiciones que en la materia de su competencia señalan la Constitución Federal y la Constitución Política del Estado, las leyes federales, estatales y demás disposiciones aplicables.
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2013)</small>
+
+LIX. Diseñar los planes, programas y acciones para la implementación, operación y el desarrollo de un sistema de seguridad pública metropolitana con los municipios del estado, así como con otras entidades federativas;
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2013)</small>
+
+LX. Asumir las funciones de dirección, manejo, operación, supervisión y control del servicio de seguridad pública municipal y tránsito, así como de su policía preventiva, previa celebración de los convenios de transferencia específicos suscritos con los municipios,
+
+> <small>(ADICIONADA, P.O. 20 DE MAYO DE 2013)</small>
+
+LXI. Asumir el mando único de la policía preventiva de los municipios, en los casos de delitos de alto impacto, previa celebración de los convenios correspondientes.
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2013)</small>
+
+En el ejercicio de las facultades a que se refieren las fracciones XXVII a LXI de este artículo, el Secretario de Gobierno se auxiliará del Comisionado Estatal de Seguridad, sin perjuicio de ejercer directamente dichas facultades.
+
+> <small>(ADICIONADO, P.O. 20 DE MAYO DE 2013)</small>
+
+El Comisionado Estatal de Seguridad y el Secretario Ejecutivo del Sistema Estatal de Seguridad Pública serán nombrados por el Titular del Poder Ejecutivo con la ratificación del Congreso del Estado.
 
 ###### ARTÍCULO 24.
 
@@ -1135,53 +1305,7 @@ XVI. Ejercer la vigilancia y control sanitario en los establecimientos y servici
 
 ###### ARTÍCULO 34.
 
-A la Secretaría de Seguridad Pública le corresponde el despacho de los siguientes asuntos:
-
-I. Desarrollar las políticas públicas de seguridad para preservar el estado de Derecho, la libertad de los individuos y el respeto a los derechos humanos;
-
-II. Coadyuvar con las autoridades municipales en la prevención y combate a las conductas delictivas;
-
-III. Elaborar y someter a la aprobación del titular del ejecutivo, el Programa Estatal de Seguridad Pública de acuerdo al Plan Estatal de Desarrollo y a las políticas del Sistema Nacional de Seguridad Pública;
-
-IV. Supervisar que se dé cumplimiento en el estado a los acuerdos del Consejo Nacional de Seguridad Pública;
-
-V. Participar en el Consejo Estatal de Seguridad Pública y supervisar que se instrumenten y de cumplimiento a sus acuerdos;
-
-VI. Administrar y operar los sistemas de información, comunicación y bases de datos en materia de seguridad pública;
-
-VII. Dirigir, organizar y evaluar a la Policía Estatal;
-
-VIII. Aplicar las normas, políticas y lineamientos que procedan para establecer mecanismos de coordinación entre los cuerpos de seguridad pública que existen en el estado;
-
-IX. Apoyar a las autoridades federales, municipales y de otras entidades de la República en la adopción de medidas y desarrollo de acciones tendientes a mejorar los servicios de seguridad pública;
-
-X. Autorizar la prestación de servicios de seguridad a los particulares, así como los servicios de seguridad privada prestada por éstos;
-
-XI. Promover la capacitación, profesionalización y modernización de los cuerpos de seguridad pública del estado;
-
-XII. Auxiliar al Ministerio Público en el ejercicio de sus funciones y a las autoridades administrativas y judiciales cuando así lo requieran;
-
-XIII. Vigilar las carreteras, caminos, aeropuertos de jurisdicción estatal, así como las instalaciones y edificios públicos del gobierno del estado;
-
-XIV. Diseñar, proponer y en su caso establecer, en coordinación con las dependencias correspondientes, programas tendientes a prevenir el pandillerismo, así como el alcoholismo, la farmacodependencia y demás adicciones;
-
-XV. Establecer un sistema para obtener, analizar, estudiar y procesar información para la prevención de los delitos;
-
-XVI. Organizar, dirigir, vigilar y controlar la administración de los centros de reinserción social en el estado y tramitar, por acuerdo del titular del ejecutivo, las solicitudes de extradición, así como los indultos y el traslado de reos;
-
-XVII. Procurar la reinserción social de los procesados y sentenciados en la ejecución de las penas privativas de la libertad;
-
-XVIII. Supervisar el adecuado cumplimiento de tratamientos y medidas de inserción, orientación y protección en materia de justicia para adolescentes;
-
-XIX. Supervisar la administración de los Centros de Internación, Diagnóstico y Tratamiento de Adolescentes;
-
-XX. Celebrar convenios de colaboración, en el ámbito de su competencia y en el marco del Sistema Nacional de Seguridad Pública, con autoridades federales, estatales, municipales y del Distrito Federal, así como establecer acuerdos de colaboración con instituciones similares conforme a la legislación aplicable;
-
-XXI. Aplicar y vigilar el cumplimiento de las disposiciones que en la materia de su competencia señalan la Constitución federal y la Constitución Política del Estado, las leyes federales, estatales y demás disposiciones aplicables.
-
-XXII. Diseñar por instrucciones del gobernador, los planes, programas y acciones para la implementación, operación y el desarrollo de un sistema de seguridad pública metropolitana con los municipios del estado, así como con otras entidades federativas, y
-
-XXIII. Asumir las funciones de dirección, manejo, operación, supervisión y control del servicio de seguridad pública municipal y tránsito, así como de su policía preventiva, previa celebración de los convenios de transferencia específicos suscritos con los municipios.
+(DEROGADO, P.O. 20 DE MAYO DE 2013)
 
 ###### ARTÍCULO 35.
 
@@ -1530,3 +1654,19 @@ Se cuenta con un plazo de 60 días siguientes a la entrada en vigor del presente
 ###### ARTÍCULO TERCERO.
 
 Se derogan las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 20 DE MAYO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- En los casos en que otras leyes y demás disposiciones atribuyan facultades a la Secretaría de Seguridad Pública, deberán entenderse conferidas a la Secretaría de Gobierno, en la forma y términos en que las propias leyes lo dispongan.
+
+TERCERO.- Los recursos humanos que pertenecen a la Secretaría de Seguridad Pública serán reasignados a la Secretaría de Gobierno y formarán parte de su plantilla de personal. Los derechos laborales de los trabajadores que con motivo de este decreto son transferidos, serán reconocidos íntegramente y respecto de los mismos se seguirá aplicando la normatividad de la materia, por lo que en ninguna forma resultarán afectados en los derechos que hayan adquirido en virtud de su relación laboral.
+
+CUARTO.- Los recursos financieros y materiales que la Secretaría de Seguridad Pública tenga asignados para el ejercicio de sus atribuciones, se transfieren a la Secretaría de Gobierno, con la intervención de la Secretaría de Finanzas y la Secretaría de Fiscalización y Rendición de Cuentas, que conforme a la ley les corresponda.
+
+QUINTO.- Los asuntos en trámite que por motivo del presente decreto deban pasar de la Secretaría de Seguridad Pública a la Secretaría de Gobierno, permanecerán en el estado en que se encuentren hasta que los reciban, a excepción de los asuntos sujetos a plazos improrrogables.
+
+SEXTO.- En un término de 90 días a partir de la entrada en vigor del presente decreto, el titular de la Secretaría de Gobierno deberá remitir a la Consejería Jurídica los correspondientes anteproyectos de reglamentos necesarios para el cumplimiento de sus nuevas atribuciones, para ser sometidos a la consideración del Gobernador.
+
+SÉPTIMO.- Se derogan todas las disposiciones que se opongan a lo previsto en este decreto.
