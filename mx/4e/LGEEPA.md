@@ -4,7 +4,7 @@ identifier: "LGEEPA"
 country: "mx"
 rank: "ley_general"
 publication_date: "1988-01-28"
-last_updated: "2013-05-15"
+last_updated: "2013-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=225&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGEEPA"
 
 LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MAYO DE 2013.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 28 de enero de 1988.
 
@@ -922,11 +922,11 @@ En los casos anteriores, la Secretaría, una vez analizado el informe preventivo
 
 La Secretaría publicará en su Gaceta Ecológica, el listado de los informes preventivos que le sean presentados en los términos de este artículo, los cuales estarán a disposición del público.
 
-> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2013)</small>
 
 ###### ARTICULO 32.
 
-En el caso de que un plan o programa parcial de desarrollo urbano o de ordenamiento ecológico del territorio incluyan obras o actividades de las señaladas en el artículo 28 de esta Ley, las autoridades competentes de los Estados, el Distrito Federal o los Municipios, podrán presentar dichos planes o programas a la Secretaría, con el propósito de que ésta emita la autorización que en materia de impacto ambiental corresponda, respecto del conjunto de obras o actividades que se prevean realizar en un área determinada, en los términos previstos en el artículo 31 de esta Ley.
+En el caso de que un plan o programa parcial de desarrollo urbano o de ordenamiento ecológico del territorio incluyan obras o actividades de las señaladas en el artículo 28 de esta Ley, las autoridades competentes de los Estados, el Distrito Federal o los Municipios, deberán presentar dichos planes o programas a la Secretaría, con el propósito de que ésta emita la autorización que en materia de impacto ambiental corresponda, respecto del conjunto de obras o actividades que se prevean realizar en un área determinada, en los términos previstos en el artículo 31 de esta Ley.
 
 > <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -2118,11 +2118,11 @@ Todas las autorizaciones que afecten el uso del suelo en las zonas selváticas o
 
 Quienes realicen actividades agrícolas y pecuarias deberán llevar a cabo las prácticas de preservación, aprovechamiento sustentable y restauración necesarias para evitar la degradación del suelo y desequilibrios ecológicos y, en su caso, lograr su rehabilitación, en los términos de lo dispuesto por ésta y las demás leyes aplicables.
 
-> <small>(REFORMADO, D.O.F. 25 DE FEBRERO DE 2003)</small>
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2013)</small>
 
 ###### ARTICULO 104.
 
-La Secretaría promoverá ante la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación y las demás dependencias y entidades competentes, la introducción y generalización de prácticas de protección y restauración de los suelos en las actividades agropecuarias, así como la realización de estudios de impacto ambiental previos al otorgamiento de autorizaciones para efectuar cambios del uso del suelo, cuando existan elementos que permitan prever grave deterioro de los suelos afectados y del equilibrio ecológico de la zona.
+La Secretaría promoverá ante la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación y las demás dependencias y entidades competentes, la introducción y generalización de prácticas de protección y restauración de los suelos en las actividades agropecuarias, así como la realización de estudios de impacto ambiental que deben realizar previo al otorgamiento de autorizaciones para efectuar cambios del uso del suelo, cuando existan elementos que permitan prever grave deterioro de los suelos afectados y del equilibrio ecológico de la zona.
 
 > <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -2466,11 +2466,11 @@ La Secretaría autorizará el vertido de aguas residuales en aguas marinas, de c
 
 Para la protección del medio marino, la Secretaría emitirá las normas oficiales mexicanas para la explotación, preservación y administración de los recursos naturales, vivos y abióticos, del lecho y el subsuelo del mar y de las aguas suprayacentes, así como las que deberán observarse para la realización de actividades de exploración y explotación en la zona económica exclusiva.
 
-> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2013)</small>
 
 ###### ARTICULO 132.
 
-La Secretaría se coordinará con las Secretarías de Marina, de Energía, de Salud y de Comunicaciones y Transportes, a efecto de que dentro de sus respectivas atribuciones intervengan en la prevención y control de la contaminación del medio marino, así como en la preservación y restauración del equilibrio de sus ecosistemas, con arreglo a lo establecido en la presente Ley, en la Ley de Aguas Nacionales, la Ley Federal del Mar, las convenciones internacionales de las que México forma parte y las demás disposiciones aplicables.
+La Secretaría se coordinará con las Secretarías de Marina, de Energía, de Salud, de Turismo y de Comunicaciones y Transportes, a efecto de que dentro de sus respectivas atribuciones intervengan en la prevención y control de la contaminación del medio marino, así como en la preservación y restauración del equilibrio de sus ecosistemas, con arreglo a lo establecido en la presente Ley, en la Ley de Aguas Nacionales, la Ley Federal del Mar, la Ley General de Turismo, las convenciones internacionales de las que México forma parte y las demás disposiciones aplicables.
 
 > <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -3683,3 +3683,17 @@ El presente Decreto entrará en vigor en el siguiente ejercicio fiscal que corre
 ###### ARTÍCULO SEGUNDO.
 
 Las dependencias de la Administración Pública Federal, el Poder Legislativo Federal y el Poder Judicial de la Federación contarán con un plazo no mayor a trescientos sesenta días naturales para llevar a cabo la instalación del sistema de captación de agua pluvial a que se refiere el artículo 17 TER de esta Ley.
+
+D.O.F. 20 DE MAYO DE 2013.
+
+DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 132 DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 20 DE MAYO DE 2013.
+
+DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 32 Y 104 DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE
+
+Artículo Primero. El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Artículo Segundo. En un plazo no mayor a 180 días hábiles posteriores a la entrada en vigor del presente Decreto el titular del Poder Ejecutivo Federal deberá realizar las adecuaciones correspondientes al Reglamento de la Ley General de Desarrollo Forestal Sustentable.
