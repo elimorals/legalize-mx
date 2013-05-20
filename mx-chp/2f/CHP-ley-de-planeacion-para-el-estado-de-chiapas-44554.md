@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-planeacion-para-el-estado-de-chiapas-44554"
 country: "mx"
 rank: "ley"
 publication_date: "2005-03-17"
-last_updated: "2012-08-08"
+last_updated: "2013-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE PLANEACIÓN PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el jueves 17 de Marzo de 2005.
 
@@ -139,7 +139,7 @@ Corresponderá al Ejecutivo, a través de las dependencias normativas, resolver 
 
 Se denominará Sistema Estatal de Planeación Democrática, al conjunto articulado de relaciones funcionales, que establezcan las Dependencias y Entidades de la Administración Pública Federal, Estatal y Municipal entre sí y con la sociedad, a fin de efectuar acciones encaminadas al desarrollo de la entidad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 7.
 
@@ -169,7 +169,7 @@ IV. Promover y fomentar la participación de las Dependencias y Entidades de la 
 
 ### Capítulo III. Del Proceso de Planeación
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 9.
 
@@ -463,11 +463,13 @@ XI. La línea basal de los Objetivos de Desarrollo del Milenio para los municipi
 
 Los Planes Municipales diagnosticarán la situación socioeconómica y ambiental en el ámbito municipal y sectorial, precisando las prioridades, políticas públicas, objetivos y estrategias para su desarrollo, aplicando durante su vigencia el contenido de los Programas Operativos Anuales correspondientes, procurando su concordancia con los Objetivos de Desarrollo del Milenio, el Plan Nacional y Plan Estatal.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2013)</small>
 
 ###### Artículo 29.
 
-Los Planes Municipales serán elaborados por cada uno de los Ayuntamientos Municipales que conforman al Estado de Chiapas, quienes deberán remitirlos al H. Congreso del Estado para su examen y aprobación correspondiente, posteriormente serán publicados en la gaceta municipal por los respectivos ayuntamientos, en un plazo no mayor a cuatro meses a partir del inicio de la administración municipal y su vigencia no excederá del período constitucional.
+Los Planes Municipales serán elaborados por cada uno de los Ayuntamientos que conforman al Estado de Chiapas, quienes deberán remitirlos al H. Congreso del Estado para su examen y aprobación correspondiente, dentro de los cuatro meses a partir del inicio de la administración municipal. Posteriormente serán publicados en la gaceta municipal por los respectivos ayuntamientos, y su vigencia no excederá del período constitucional.
+
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2012)</small>
 
 Los Ayuntamientos deberán en sus Planes Municipales, alinear las políticas públicas en materia de desarrollo social a los objetivos de desarrollo del milenio para incrementar el índice de desarrollo humano de su población.
 
@@ -505,7 +507,7 @@ Las dependencias y entidades de la administración pública estatal, así como l
 
 Los Convenios de Coordinación, constituirán instrumentos operativos para la realización de acciones conjuntas entre la federación, el Estado y los Municipios, expresados en sus respectivos Planes y Programas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 36.
 
@@ -571,7 +573,7 @@ II. Definir las políticas, prioridades, objetivos, estrategias y metas para el 
 
 III. Establecer las medidas necesarias para mantener un proceso integral y permanente de planeación.
 
-> <small>(REFORMADO PRIMER PARRAFO [N. DE E. REPUBLICADO], P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 42.
 
@@ -659,7 +661,7 @@ VI. Proporcionar a las dependencias normativas la información que se les requie
 
 VII. A los titulares de aquellas dependencias que funjan como coordinadoras de sector, conforme a la agrupación que establezca el Ejecutivo del Estado, coordinar la formulación y evaluación de su Programa Sectorial y Especial.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 46.
 
@@ -677,7 +679,7 @@ IV. Formular su Programa Operativo Anual; y,
 
 V. Proporcionar a las dependencias normativas, la información que se les requiera, en tiempo (sic) forma de conformidad con el reglamento de la presente Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
 
 ###### Artículo 47.
 
@@ -801,7 +803,7 @@ De conformidad con la fracción I del artículo 42 de la Constitución Política
 
 Pablo Salazar Mendiguchía, Gobernador del Estado.- Rubén F. Velázquez López, Secretario de Gobierno.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 5 DE NOVIEMBRE DE 2010.
 
@@ -814,3 +816,11 @@ P.O. 8 DE AGOSTO DE 2012.
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 20 DE MAYO DE 2013.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- Por única ocasión, los Ayuntamientos del Estado de Chiapas, que iniciaron su administración el pasado 01 de octubre de 2012, como excepción a lo establecido en el artículo 29 de la Ley de Planeación para el Estado de Chiapas, tendrán un plazo de 30 días, posteriores a la fecha en que sea presentado por el Titular del Ejecutivo del Estado, el Plan Estatal de Desarrollo 2012- 2018, para alinear sus políticas públicas con lo establecido en el citado Plan Estatal y en concordancia con los Objetivos de Desarrollo del Milenio de la ONU, y remitir sus respectivos Planes Municipales de Desarrollo, a este Honorable Congreso del Estado para ser examinados y en su caso aprobados.
