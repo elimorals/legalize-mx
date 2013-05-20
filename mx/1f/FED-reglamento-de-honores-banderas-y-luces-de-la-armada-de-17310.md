@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-honores-banderas-y-luces-de-la-armada-de-17310"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-10-19"
-last_updated: "2000-10-19"
+last_updated: "2013-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17310&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2000-10-12"
 
 REGLAMENTO DE HONORES, BANDERAS Y LUCES DE LA ARMADA DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MAYO DE 2013.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 19 de octubre de 2000.
 
@@ -35,23 +35,29 @@ REGLAMENTO DE HONORES, BANDERAS Y LUCES DE LA ARMADA DE MÉXICO
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2013)</small>
+
 ###### Artículo 1.
 
-El presente Reglamento establece los lineamientos para los honores que se rindan al cargo o a la jerarquía, así como el uso de banderas y luces en las unidades y establecimientos de la Armada de México.
+El presente Reglamento establece los lineamientos para los honores que se rindan al cargo o al grado, así como el uso de banderas y luces en las unidades y establecimientos de la Armada de México.
+
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2013)</small>
 
 ###### Artículo 2.
 
-Los honores que comprende el presente Reglamento se harán en el periodo comprendido después del izado de la Bandera Nacional hasta el ocaso y se omitirán cuando se encuentre a bordo de un buque o en el interior de un establecimiento un superior en cargo o jerarquía, salvo lo dispuesto para los honores fúnebres.
+Los honores que señala el presente Reglamento se harán en el periodo comprendido después del izado de la Bandera Nacional hasta el ocaso y se omitirán cuando se encuentre a bordo de un buque o en el interior de un establecimiento un superior en cargo o grado, salvo lo dispuesto para los honores fúnebres.
+
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2013)</small>
 
 ###### Artículo 3.
 
-Los honores que se rindan a bordo pueden ser con disparos al cañón, a la voz o con pito marinero.
+Los honores que se rindan a bordo de un buque pueden ser con disparos al cañón, a la voz o con pito marinero. En los establecimientos se rendirán con disparos al cañón, banda de música, banda de guerra, clarín o pito marinero.
 
-En los establecimientos se rendirán con disparos al cañón, banda de música, banda de guerra, clarín o pito marinero.
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2013)</small>
 
 ###### Artículo 4.
 
-Los honores al cañón consisten en una cantidad de disparos de cañón con intervalos de seis segundos, en los términos y condiciones que establece el presente Reglamento. En ningún caso el buque visitado será el que efectúe los disparos.
+Los honores al cañón consisten en una cantidad de disparos de salvas de cañón con intervalos de seis segundos, en los términos y condiciones que establece el presente Reglamento. En ningún caso el buque visitado será el que efectúe los disparos.
 
 ###### Artículo 5.
 
@@ -75,15 +81,19 @@ Los honores con banda de guerra o clarín consisten en la interpretación de los
 
 Las banderas que establece el presente Reglamento se dividen en insignias y distintivas, las cuales se utilizan para distinguir a la persona a la que se rindan honores.
 
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2013)</small>
+
 ###### Artículo 10.
 
-Las banderas insignias son aquellas con que se distingue al Mando Supremo, así como a los cargos y jerarquías del personal de la Secretaría de Marina y Armada de México. Estas banderas se izarán en la driza exterior de la banda de estribor del palo mayor de los buques, o del asta bandera de los establecimientos. En las embarcaciones menores dichas banderas irán colocadas a proa.
+Las banderas insignias son aquellas con que se distingue al Mando Supremo, así como a los grados y cargos del personal de la Armada de México y de la Secretaría de Marina. Estas banderas se izarán en la driza exterior de la banda de estribor del palo mayor de los buques, o del asta bandera de los establecimientos. En las embarcaciones menores dichas banderas irán colocadas a proa.
 
-Las banderas insignias permanecerán izadas en el periodo de tiempo comprendido entre el izado de la Bandera Nacional y el ocaso, siempre y cuando la persona a la que se distingue se encuentre a bordo. En ningún caso se izarán dos banderas en el mismo buque, unidad o establecimiento, por lo que sólo deberá estar arbolada la de mayor cargo o jerarquía.
+Las banderas insignias permanecerán izadas en el periodo de tiempo comprendido entre el izado de la Bandera Nacional y el ocaso, siempre y cuando la persona a la que se distingue se encuentre a bordo. En ningún caso se izarán dos banderas en el mismo buque, unidad o establecimiento, por lo que sólo deberá estar arbolada la de mayor cargo o grado.
+
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2013)</small>
 
 ###### Artículo 11.
 
-Las banderas insignias tienen los colores de la Bandera Nacional en franjas verticales y, cuando así corresponda, llevarán en la franja verde estrellas de cinco puntas de color blanco distribuidas proporcionalmente a partir del centro, inscritas cada una en un círculo imaginario con un diámetro equivalente al 10% de la longitud de esta franja; el número de estrellas será de acuerdo al cargo o jerarquía. En la franja blanca llevarán el escudo de la Armada de México que conserva los colores del águila y de las ramas de encino y laurel del escudo nacional, inscrito en un círculo imaginario con diámetro equivalente al 75% del ancho de la franja.
+Las banderas insignias tienen los colores de la Bandera Nacional en franjas verticales y, cuando así corresponda, llevarán en la franja verde estrellas de cinco puntas de color blanco distribuidas proporcionalmente a partir del centro, inscritas cada una en un círculo imaginario con un diámetro equivalente al 10% de la longitud de esta franja; el número de estrellas será de acuerdo al cargo o grado. En la franja blanca llevarán el escudo de la Armada de México que conserva los colores del águila y de las ramas de encino y laurel del escudo nacional, inscrito en un círculo imaginario con diámetro equivalente al 75 % del ancho de la franja.
 
 ###### Artículo 12.
 
@@ -91,15 +101,19 @@ Las banderas distintivas son aquellas con que se distingue a los cargos de la Ad
 
 Estas banderas se izarán en la driza exterior de la banda de babor del palo mayor de los buques, o del asta bandera de los establecimientos, y únicamente permanecerán izadas durante los honores sin que se arríe bandera insignia alguna. Cuando corresponda, llevarán el escudo de la Armada de México con las características de las banderas insignias.
 
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2013)</small>
+
 ###### Artículo 13.
 
-Las banderas insignias y distintivas tienen la forma cuadra, corneta, gallardete o gallardetón, con excepción de las banderas insignias del Mando Supremo.
+Las banderas insignias y distintivas tendrán la forma cuadra, corneta, gallardete o gallardetón, con excepción de las banderas insignias del Mando Supremo que serán rectangulares.
 
 ###### Artículo 14.
 
 La bandera cuadra tendrá sus lados iguales y las dimensiones serán las siguientes:
 
-I. Para establecimientos y buques de más de 1000 toneladas 1.20 m. por lado;
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2013)</small>
+
+I. Para los establecimientos, así como los buques con más de 1000 toneladas 1.20 m. por lado;
 
 II. Para buques de 150 a 1000 toneladas 1.00 m. por lado;
 
@@ -125,9 +139,11 @@ II. Para buques de 150 a 1000 toneladas, base de 0.52 m. y altura de 2.10 m., y
 
 III. Para buques menores de 150 toneladas, base de 0.45 m. y altura de 1.83 m.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MAYO DE 2013)</small>
+
 ###### Artículo 18.
 
-La bandera gallardetón es la insignia del comandante más antiguo en reunión de buques, tiene la forma de un triángulo equilátero, es de color verde y se iza en la penúltima driza de la banda de estribor del palo mayor. Este gallardetón no será arriado por ninguna bandera insignia y tiene las medidas siguientes:
+La bandera gallardetón es la insignia del comandante más antiguo en reunión de buques o surtos en bahía, tiene la forma de un triángulo equilátero, es de color verde y se iza en la penúltima driza de la banda de estribor del palo mayor. Este gallardetón no será arriado por ninguna bandera insignia y tiene las medidas siguientes:
 
 I. Para buques de más de 1000 toneladas de 1.20 m. por lado;
 
@@ -135,9 +151,11 @@ II. Para buques de 150 hasta 1000 toneladas de 1.00 m. por lado, y
 
 III. Para buques menores de 150 toneladas de 0.60 m. por lado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MAYO DE 2013)</small>
+
 ###### Artículo 19.
 
-Al ocaso las banderas insignias serán sustituidas por luces, el número de éstas será de una, dos o tres, combinando los colores verde, blanco y rojo.
+En los establecimientos y buques en puerto, al ocaso las banderas insignias serán sustituidas por luces, el número de éstas será de una, dos o tres, combinando los colores verde, blanco y rojo.
 
 Se colocarán en sentido vertical separadas proporcionalmente en el primer tercio de la longitud del palo mayor de los buques a partir de su cruceta o del asta bandera de los establecimientos a partir de la base del pico.
 
@@ -269,19 +287,33 @@ Honores al Inspector y Contralor General de Marina:
 
 I. Honores:
 
-A. Al cañón: de acuerdo a su jerarquía con mando;
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2013)</small>
 
-B. A la voz: de acuerdo a su jerarquía con mando;
+A. Al cañón: de acuerdo a su grado con mando;
 
-C. Con pito marinero: de acuerdo a su jerarquía con mando;
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2013)</small>
 
-D. Con clarín: de acuerdo a su jerarquía con mando, y
+B. A la voz: de acuerdo a su grado con mando;
 
-E. Armas: de acuerdo a su jerarquía con mando;
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2013)</small>
 
-II. Bandera insignia: bandera cuadra de acuerdo a su jerarquía con mando, y
+C. Con pito marinero: de acuerdo a su grado con mando;
 
-III. Luces insignia: dos luces con los colores correspondientes a su jerarquía con mando.
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2013)</small>
+
+D. Con clarín: de acuerdo a su grado con mando, y
+
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2013)</small>
+
+E. Armas: de acuerdo a su grado con mando;
+
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2013)</small>
+
+II. Bandera insignia: bandera cuadra de acuerdo a su grado con mando, y
+
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2013)</small>
+
+III. Luces insignia: dos luces con los colores correspondientes a su grado con mando.
 
 ### CAPÍTULO II. Honores al Mando
 
@@ -393,7 +425,9 @@ II. Bandera insignia: gallardete que en la franja verde lleva una estrella blanc
 
 III. Luces insignia: una luz de color roja.
 
-### CAPÍTULO III. Honores a la Jerarquía
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 20 DE MAYO DE 2013)</small>
+
+### CAPÍTULO III. Honores al Grado
 
 ###### Artículo 34.
 
@@ -401,7 +435,9 @@ Honores para almirantes y equivalentes:
 
 I. Honores:
 
-A. Con pito marinero: las de su jerarquía con mando, y
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2013)</small>
+
+A. Con pito marinero: los de su grado con mando, y
 
 B. Armas: descansadas, y
 
@@ -413,7 +449,9 @@ Honores para vicealmirantes y equivalentes:
 
 I. Honores:
 
-A. Con pito marinero: las de su jerarquía con mando, y
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2013)</small>
+
+A. Con pito marinero: los de su grado con mando, y
 
 B. Armas: descansadas, y
 
@@ -425,7 +463,9 @@ Honores para contralmirantes y equivalentes:
 
 I. Honores:
 
-A. Con pito marinero: las de su jerarquía con mando, y
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2013)</small>
+
+A. Con pito marinero: los de su grado con mando, y
 
 B. Armas: descansadas, y
 
@@ -437,7 +477,9 @@ Honores para capitanes y equivalentes:
 
 I. Honores:
 
-A. Con pito marinero: las de su jerarquía con mando, y
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2013)</small>
+
+A. Con pito marinero: los de su grado con mando, y
 
 B. Armas: descansadas.
 
@@ -519,7 +561,9 @@ B. Bandera distintiva: gallardete de color blanco con el escudo de la Armada de 
 
 Los honores que corresponden a los integrantes del Servicio Exterior Mexicano se efectuarán a bordo de los buques de la Armada de México, en puertos del país en que estén acreditados.
 
-IV. Los honores a los agregados navales o militares nacionales, comisionados en las representaciones diplomáticas, serán los que correspondan a su jerarquía.
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2013)</small>
+
+IV. Los honores a los agregados navales o militares nacionales, comisionados en las representaciones diplomáticas, serán los que correspondan a su grado.
 
 ### CAPÍTULO V. Procedimientos para llevar a cabo los Honores
 
@@ -527,7 +571,9 @@ IV. Los honores a los agregados navales o militares nacionales, comisionados en 
 
 Generalidades:
 
-I. Los honores al cargo o a la jerarquía se realizan durante:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MAYO DE 2013)</small>
+
+I. Los honores al cargo o al grado se realizan durante:
 
 A. Visitas programadas a buques;
 
@@ -539,7 +585,9 @@ D. Visitas no programadas a establecimientos;
 
 II. En visitas programadas a buques o establecimientos la persona a quien se le rendirán los honores será recibida por:
 
-A. Tratándose de persona con igual o mayor o jerarquía que el Comandante o Director de la unidad o establecimiento, será recibido por:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MAYO DE 2013)</small>
+
+A. Tratándose de persona con igual o mayor grado que el Comandante o Director de la unidad o establecimiento, será recibido por:
 
 1. El Comandante y Segundo Comandante,
 
@@ -547,7 +595,9 @@ A. Tratándose de persona con igual o mayor o jerarquía que el Comandante o Dir
 
 3. El Director y Subdirector;
 
-B. Tratándose de persona con menor jerarquía que el Comandante o Director de la unidad o establecimiento, será recibido por:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MAYO DE 2013)</small>
+
+B. Tratándose de persona con menor grado que el Comandante o Director de la unidad o establecimiento, será recibido por:
 
 1. El Segundo Comandante,
 
@@ -555,11 +605,15 @@ B. Tratándose de persona con menor jerarquía que el Comandante o Director de l
 
 3. El Subdirector, y
 
-C. Tratándose de persona con mejor jerarquía que el Segundo Comandante o Subdirector de la unidad o establecimiento, será recibido por el oficial de guardia.
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2013)</small>
+
+C. Tratándose de persona con menor grado que el Segundo Comandante o Subdirector de la unidad o establecimiento, será recibido por el oficial de guardia.
 
 III. En visitas no programadas a buques o establecimientos, la persona a quien se le rendirán los honores será recibida por el oficial de guardia y despedida por:
 
-A. Tratándose de persona con igual o mayor jerarquía que el Comandante o Director de la unidad o establecimiento por:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MAYO DE 2013)</small>
+
+A. Tratándose de persona con igual o mayor grado que el Comandante o Director de la unidad o establecimiento por:
 
 1. El Comandante y Segundo Comandante,
 
@@ -567,7 +621,9 @@ A. Tratándose de persona con igual o mayor jerarquía que el Comandante o Direc
 
 3. El Director y Subdirector;
 
-B. Tratándose de persona con menor jerarquía que el Comandante o Director de la unidad o establecimiento por:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MAYO DE 2013)</small>
+
+B. Tratándose de persona con menor grado que el Comandante o Director de la unidad o establecimiento por:
 
 1. El Segundo Comandante,
 
@@ -575,7 +631,9 @@ B. Tratándose de persona con menor jerarquía que el Comandante o Director de l
 
 3. El Subdirector, y
 
-C. Tratándose de persona con menor jerarquía que el Segundo Comandante o Subdirector de la unidad o establecimiento, por el oficial de guardia.
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2013)</small>
+
+C. Tratándose de persona con menor grado que el Segundo Comandante o Subdirector de la unidad o establecimiento, por el oficial de guardia.
 
 ###### Artículo 43.
 
@@ -669,11 +727,15 @@ En visitas no programadas a establecimientos los honores a una persona se realiz
 
 Generalidades:
 
-I. El patrón de un bote a remo o vela, que se encuentre próximo a un buque que ice o arríe la Bandera Nacional, ordenará arbolar los remos o arriar las drizas en tanto se esté realizando dicho acto. Tratándose de botes de motor pararán la máquina y el personal a bordo hará el saludo militar;
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2013)</small>
+
+I. El patrón de un bote a remo o vela, que se encuentre próximo a un buque que ice o arríe la Bandera Nacional, siempre y cuando la situación lo permita ordenará arbolar los remos o arriar las drizas en tanto se esté realizando dicho acto. Tratándose de botes de motor disminuirá la velocidad al mínimo necesario y el personal a bordo hará el saludo militar;
 
 II. Cuando un bote cruce o pase por el través de otro, las dotaciones efectuarán los saludos que correspondan conforme a lo siguiente:
 
-A. El patrón del bote ordenará alzar los remos o soltar escotas, de ser de motor parará la máquina y el personal a bordo hará el saludo militar. El otro bote que lleve insignia superior contestará el saludo;
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2013)</small>
+
+A. El patrón del bote ordenará alzar los remos o soltar escotas, de ser de motor disminuirá la velocidad al mínimo necesario y el personal a bordo hará el saludo militar. El otro bote que lleve insignia superior contestará el saludo;
 
 B. Cuando se encuentren dos botes que porten igual insignia, el de menor antigüedad iniciará el saludo;
 
@@ -685,13 +747,19 @@ E. El patrón del bote ordenará a su dotación realizar únicamente el saludo m
 
 III. Las dotaciones de los botes y su personal de transporte se sujetarán a las formalidades siguientes:
 
-A. Al embarcarse personal en un bote, primero lo harán los más noveles en los lugares que se les asigne el patrón de la embarcación y tomarán asiento hasta que lo haya hecho el de mayor jerarquía o antigüedad, antes de abrir el bote el patrón solicitará por los conductos regulares la autorización correspondiente y, una vez autorizado, procederá con su maniobra;
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2013)</small>
 
-B. Al arribar a su destino, una vez atracada la embarcación, el personal de transporte procederá a desembarcase en la forma siguiente: primero lo hará el de mayor jerarquía o antigüedad, después los demás en el mismo orden. Durante el desembarco los que se encuentren a bordo se mantendrán en pie, procurando en todo momento mantener adrizada la embarcación;
+A. Al embarcarse personal en un bote, primero lo harán los de menor grado en los lugares que se les asigne el patrón de la embarcación y antes de abrir el bote el patrón solicitará por los conductos regulares la autorización correspondiente y, una vez autorizado, procederá con su maniobra;
+
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2013)</small>
+
+B. Al arribar a su destino, una vez atracada la embarcación, el personal de transporte procederá a desembarcase en la forma siguiente: primero lo hará el de mayor grado o cargo, después los demás en el mismo orden;
 
 C. El bote que conduzca a un servidor público a quien se rindan honores al cañón detendrá su marcha y alzará los remos, arriará las drizas o parará su máquina. Asimismo, mantendrá su proa al rumbo inicial y permanecerá así hasta la terminación de la salva, el oficial comisionado para acompañar al servidor público le informará del acto que en honor de él se esté efectuando, terminado el acto, continuará con su marcha;
 
-D. Del ocaso al orto, los botes que se aproximen a un buque y sin esperar el “Alerta” de los centinelas, darán a conocer por medio de pitadas con silbato su presencia y las personas que transportan, en la forma siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MAYO DE 2013)</small>
+
+D. Del ocaso al orto, los botes que se aproximen a un buque y sin esperar el ''Alerta'' de los centinelas, darán a conocer por medio de pitadas con pito marinero su presencia y las personas que transportan, en la forma siguiente:
 
 1. Mando Supremo.- Cinco pitadas largas,
 
@@ -713,9 +781,13 @@ F. El personal que se encuentre realizando faenas de limpieza en botes, no efect
 
 G. Los botes que realizan actividades de investigación, transporten carga, remolquen o sean remolcados, así como los que transporten tropas de desembarco, o se encuentren desempeñando cualquier otra faena análoga, no efectuarán honores, y
 
-H. Siempre que dos o más botes se aproximen a la escala de un muelle o buque, en toda circunstancia se cederá el paso al de mayor cargo o jerarquía. Inmediatamente después de desembarcar al personal que conduzca, se abrirá del costado o del muelle a una distancia tal que permita el atraque de otro bote y que pueda de nuevo atracar rápidamente cuando se le ordene, y
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2013)</small>
 
-IV. La tripulación de los botes omitirán las formalidades mencionadas en este Capítulo cuando las condiciones meteorológicas del área no sean favorables para ejecutarlas.
+H. Siempre que dos o más botes se aproximen a la escala de un muelle o buque, en toda circunstancia se cederá el paso al de mayor grado o cargo. Inmediatamente después de desembarcar al personal que conduzca, se abrirá del costado o del muelle a una distancia tal que permita el atraque de otro bote y que pueda de nuevo atracar rápidamente cuando se le ordene, y
+
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2013)</small>
+
+IV. Las formalidades mencionadas en este Capítulo se omitirán cuando las condiciones meteorológicas del área no sean favorables para ejecutarlas.
 
 ### CAPÍTULO II. Honores a bordo de Botes
 
@@ -727,35 +799,51 @@ I. Los honores al personal que se embarca a un bote desde un muelle, se realizar
 
 A. Dispositivo de Honores:
 
-1. En el muelle, frente al bote, se formará el comandante del mando territorial con su Estado Mayor e invitados especiales, a continuación de ellos se formará una sección de honores, y
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2013)</small>
+
+1. En el muelle, frente al bote, se formará el comandante del mando naval con su Estado Mayor e invitados especiales, a continuación de ellos se formará una sección de honores, y
 
 2. La dotación del bote permanecerá como se indica a continuación;
 
-a) En bote de remos, los bogas en sus bancadas con los remos en la posición de alzar, el patrón y el proel permanecerán de pie, o
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2013)</small>
 
-b) En el bote de vela o motor el patrón maquinista y el proel, permanecerán en sus puestos de pie efectuando el saludo militar;
+a) En bote de remos, los bogas en sus bancadas con los remos en la posición de alzar, el patrón y el proel de pie, o
+
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2013)</small>
+
+b) En el bote de vela o motor el patrón maquinista y el proel, en sus puestos de pie efectuando el saludo militar;
 
 B. Honores:
 
-1. Cuando la persona se encuentre próxima al muelle el comandante de la sección de honores ordenará atención;
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2013)</small>
+
+1. Cuando la persona a quien se le rendirán honores se encuentre próxima al muelle, el comandante de la sección de honores ordenará atención;
 
 2. Cuando esta persona se encuentre próxima al muelle el maestro de ceremonias anunciará los honores, procediendo el comandante de la sección de honores a ordenar su inicio ya sea al cañón, con pito marinero o con banda de guerra y música, de acuerdo a lo establecido en el Título Primero del presente Reglamento;
 
 3. La dotación del bote, durante la ejecución de los honores, permanecerá como se indica a continuación:
 
-a) En bote de remos, los bogas estarán sentados en sus bancadas y a la orden de arbolar los remos la ejecutarán mientras el proel y el patrón efectúan el saludo militar, permaneciendo en esta posición hasta la conclusión de los honores, momento en el cual, el patrón ordenará alzar, procediendo a colocar los remos en esta posición y tanto el proel como el patrón descansarán, o
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2013)</small>
+
+a) En bote de remos, los bogas estarán sentados en sus bancadas y a la orden de arbolar los remos, la ejecutarán; el proel y el patrón efectúan el saludo militar, permaneciendo en esta posición hasta la conclusión de los honores, momento en el cual, el patrón ordenará alzar, procediendo a colocar los remos en esta posición y tanto el proel como el patrón descansarán, o
 
 b) En bote de vela o motor, el personal del mismo dará el frente hacia la persona a quien se rindan honores, realizando el saludo militar a la orden del patrón del bote de acuerdo con el protocolo correspondiente;
 
-4. Al término de los honores el mando territorial acompañará a la persona a quien se rindan honores hasta la escala por donde se efectuará el embarque al bote, y
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2013)</small>
 
-5. Al embarcarse en el bote la persona a quien se rindan los honores, el proel colocará el asta que porta la bandera insignia correspondiente en el tintero de proa y, en caso de transportar al Mando Supremo, además de la bandera insignia llevará larga a popa la Bandera Nacional;
+4. Al término de los honores, el comandante del mando naval acompañará a la persona a quien se rindan honores hasta la escala por donde se efectuará el embarque al bote, y
+
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2013)</small>
+
+5. Al embarcarse en el bote esta persona, el proel colocará el asta que porta la bandera insignia correspondiente en el tintero de proa y, en caso de transportar al Mando Supremo, además de la bandera insignia, llevará larga a popa la Bandera Nacional;
 
 II. Los honores para el Mando Supremo, Alto Mando, Mando Superior en Jefe y Mando Superior, al desembarcarse de un bote a un muelle se realizarán conforme al procedimiento siguiente:
 
 A. Dispositivo de honores:
 
-En el muelle, frente al lugar en donde atracará el bote, formará el comandante del mando territorial, acompañado de su Estado Mayor e invitados especiales y a continuación de ellos, formará una sección de honores.
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2013)</small>
+
+En el muelle, frente al lugar en donde atracará el bote, formará el comandante del mando naval, acompañado de su Estado Mayor e invitados especiales y a continuación de ellos, formará una sección de honores.
 
 B. Honores:
 
@@ -763,47 +851,67 @@ B. Honores:
 
 2. Al desembarcar, y en el momento en que la persona se encuentre sobre el muelle, el maestro de ceremonias anunciará los honores procediendo el comandante de la sección de honores a ordenar su inicio, ya sea al cañón, con pito marinero o con banda de guerra y de música, según corresponda, de acuerdo a lo establecido en el Título Primero del presente Reglamento, y
 
-3. Al concluir los honores el mando territorial acompañará a la persona a quien se le rindan éstos para continuar con la actividad que contemple su agenda;
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2013)</small>
+
+3. Al concluir los honores, el comandante del mando naval acompañará a la persona a quien se le rindan éstos para continuar con la actividad que contemple su agenda;
 
 III. Los honores para el Mando Supremo, Alto Mando, Mando Superior en Jefe y Mando Superior, al abordar de un bote a un buque se realizarán conforme al procedimiento siguiente:
 
 A. Dispositivo de Honores:
 
-1. El Comandante, Segundo Comandante, así como la dotación del buque y el personal considerado para la recepción, deberán formarse como se establece en el Capítulo V del Título Primero del presente Reglamento, en lo referente a visitas programadas y no programadas a buques;
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2013)</small>
+
+1. El Comandante, Segundo Comandante, así como la dotación del buque y el personal considerado para la recepción, formarán como se establece en el Capítulo V del Título Primero del presente Reglamento, en lo referente a visitas programadas y no programadas a buques;
 
 2. El oficial designado para su recepción permanecerá al pie de la escala real;
 
 3. El personal de la dotación del bote permanecerá como se indica a continuación:
 
-a. En bote de motor permanecerá de pie,
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2013)</small>
 
-b. En bote de vela permanecerá en sus puestos, o
+a) En bote de motor de pie,
 
-c. En bote de remos permanecerá en sus bancadas con los remos arbolados, y
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2013)</small>
+
+b) En bote de vela en sus puestos, o
+
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2013)</small>
+
+c) En bote de remos en sus bancadas con los remos arbolados, y
 
 4. En todos los casos tanto el motorista como el proel deberán estar pendientes para contrarrestar los efectos de la marejada, evitando al máximo que el bote golpee el costado del buque o la escala. Si las condiciones así lo exigen, el personal de la dotación del bote podrá omitir la realización de los honores durante el desembarco de la persona que transporta;
 
 B. Honores:
 
-1. Cuando el bote que arbole su insignia se encuentre próximo al buque el oficial de guardia ordenará atención y, al momento que éste haya atracado, se le efectuarán los honores a la voz con el número de veces que le correspondan, y
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2013)</small>
+
+1. Cuando el bote que arbole su insignia se encuentre próximo al buque, el oficial de guardia ordenará atención y al momento que éste haya atracado, se le efectuarán los honores a la voz con el número de veces que le correspondan, y
 
 2. Al momento de abordar el buque se seguirá el procedimiento establecido en el Capítulo V del Título Primero del presente Reglamento, en lo referente al embarque durante visitas programadas a buques;
 
-IV. Los honores para el Mando Supremo, Alto Mando, Mando Superior en Jefe y Mando Superior, al desembarcar del buque a un bote se realizarán conforme al procedimiento siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MAYO DE 2013)</small>
+
+IV. Los honores para el Mando Supremo, Alto Mando, Mando Superior en Jefe y Mando Superior, al desembarcar del buque para embarcar a un bote, se realizarán conforme al procedimiento siguiente:
 
 A. Dispositivos de honores:
 
-El personal del buque, así como la dotación del bote, se formarán de acuerdo a lo establecido en la fracción anterior.
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2013)</small>
+
+El personal del buque, así como la dotación del bote, formarán de acuerdo a lo establecido en la fracción anterior.
 
 B. Honores:
 
 1. Al momento de desembarcar del buque se seguirá el procedimiento establecido en el Capítulo V del Título Primero del presente Reglamento, en lo referente al desembarcar durante visitas programadas a buques, y
 
-2. Cuando el bote que arbole su insignia se aleje del buque el oficial de guardia ordenará continuar.
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2013)</small>
+
+2. Cuando el bote que arbole su insignia se aleje del buque, el oficial de guardia ordenará continuar.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MAYO DE 2013)</small>
 
 ###### Artículo 49.
 
-Los honores a la jerarquía de almirantes y capitanes al embarcar de un muelle a un bote o desembarcar de un bote al muelle, se realizarán conforme al procedimiento siguiente:
+Los honores a las categorías de almirantes y capitanes, al embarcar de un muelle a un bote o desembarcar de un bote al muelle, se realizarán conforme al procedimiento siguiente:
 
 I. Dispositivo de honores:
 
@@ -811,9 +919,13 @@ A. En el muelle, frente al bote, serán recibidos o despedidos de acuerdo a lo e
 
 B. La dotación del bote permanecerá como se indica a continuación:
 
-1. En bote de remos los bogas en sus bancadas con los remos en la posición de alzar, mientras el patrón y el proel permanecen de pie efectuando el saludo militar, o
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2013)</small>
 
-2. En bote de vela o motor el patrón y el proel permanecerán de pie en sus puestos efectuando el saludo militar;
+1. En bote de remos, los bogas en sus bancadas con los remos en la posición de alzar, mientras el patrón y el proel de pie efectuando el saludo militar, o
+
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2013)</small>
+
+2. En bote de vela o motor, el patrón y el proel de pie en sus puestos efectuando el saludo militar;
 
 II. Al embarque:
 
@@ -825,7 +937,9 @@ A. Honores:
 
 3. La dotación del bote durante la ejecución de los honores permanecerá como se indica:
 
-a. En bote de remos, los bogas estarán sentados en sus bancadas y a la orden de arbolar los remos la ejecutarán mientras el proel y el patrón efectúan el saludo militar, permaneciendo en esta posición hasta la conclusión de los honores, momento en el cual el patrón ordenará alzar, procediendo los bogas a colocar los remos en esta posición en tanto el proel y el patrón descansarán;
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2013)</small>
+
+a. En bote de remos, los bogas estarán sentados en sus bancadas y a la orden de arbolar los remos la ejecutarán; el proel y el patrón efectúan el saludo militar, permaneciendo en esta posición hasta la conclusión de los honores, momento en el cual el patrón ordenará alzar, procediendo los bogas a colocar los remos en esta posición en tanto el proel y el patrón descansarán;
 
 b. En bote de vela o motor, el personal del mismo dará el frente hacia la persona a quien se rindan honores, realizando el saludo militar a la orden del patrón del bote, conforme al protocolo correspondiente, y
 
@@ -835,9 +949,13 @@ III. Al desembarque:
 
 A. Honores:
 
-1. Al encontrarse el bote en las proximidades del muelle el comandante de la sección de honores ordenará atención;
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2013)</small>
 
-2. Al desembarcar, y en el momento en que la persona se encuentre sobre el muelle, el maestro de ceremonias anunciará los honores procediendo el comandante de la sección de honores a ordenar su inicio, ya sea al cañón, al pito marinero o con banda de guerra y de música, de acuerdo a lo establecido en el Título Primero del presente Reglamento, y
+1. Al encontrarse el bote en las proximidades del muelle, el comandante de la sección de honores ordenará atención;
+
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2013)</small>
+
+2. Al desembarcar y en el momento en que la persona se encuentre sobre el muelle, el maestro de ceremonias anunciará los honores procediendo el comandante de la sección de honores a ordenar su inicio, ya sea al cañón, al pito marinero o con banda de guerra y de música, de acuerdo a lo establecido en el Título Primero del presente Reglamento, y
 
 3. Al concluir los honores, la persona idónea para despedirlo acompañará a la persona a quien se han rendido los honores, quien continuará con las actividades que contemple su agenda.
 
@@ -847,23 +965,37 @@ A. Honores:
 
 Desde el ocaso hasta el orto, los centinelas que avisten a botes por las proximidades de su buque, darán la voz de “¡Ah del bote!”, cuando el bote tenga como destino atracar al buque, el patrón deberá contestar en la forma siguiente:
 
-I. Si el bote transporta al Comandante o persona de mayor cargo o jerarquía a su buque insignia, contestará: Bandera;
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2013)</small>
 
-II. Si el bote transporta al Comandante de la Fuerza Naval o Fuerza de Tarea a cualquier otro buque de los de su mando, contestará: Comandante de la Fuerza Naval o Fuerza de Tarea.
+I. Si el bote transporta al Comandante o a una persona de mayor cargo o grado a su buque insignia, contestará: ''Bandera'';
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MAYO DE 2013)</small>
+
+II. Si el bote transporta al Comandante de la Fuerza Naval o Fuerza de Tarea a cualquier otro buque de los de su mando, contestará: “Comandante de la Fuerza Naval” o “Fuerza de Tarea”.
 
 Si el bote se dirige a cualquier otro buque que no sea de su mando contestará con la graduación de la persona que conduzca;
 
-III. Si el bote transporta al Jefe de Estado Mayor de la Fuerza Naval o Segundo Comandante de la Fuerza de Tarea, a un buque que pertenezca a su mando contestará: “Jefe de Estado Mayor de la Fuerza Naval” o “Segundo Comandante de la Fuerza de Tarea”.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MAYO DE 2013)</small>
+
+III. Si el bote transporta al Jefe del Estado Mayor de la Fuerza Naval o Segundo Comandante de la Fuerza de Tarea, a un buque que pertenezca a su mando, contestará: ''Jefe del Estado Mayor de la Fuerza Naval'' o ''Segundo Comandante de la Fuerza de Tarea''.
 
 Si el bote se dirige a cualquier otro buque que no sea de su escuadra, división o grupo, contestará, expresando la graduación respectiva;
 
-IV. Si el bote transporta a un “Comandante de Flotilla o Comandante de Sección o Escuadra, a un buque que no sea de su insignia contestará: Comandante de la Primera Flotilla, Segunda Sección o Escuadra”;
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2013)</small>
+
+IV. Si el bote transporta a un Comandante de Flotilla o Comandante de Sección o Escuadra, a un buque que no sea de su insignia contestará: ''Comandante de Flotilla, Sección o Escuadra” que corresponda;
 
 V. Si el bote que se aproxima transporta a cualquiera de los comandantes de los buques, pertenezca o no a su escuadra contestará con el nombre del buque a su mando;
 
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2013)</small>
+
 VI. Si el bote transporta almirantes, capitanes, oficiales o maestranza, contestará “Almirante”, “Capitán”, “Oficial” o “Maestranza”, según sea el caso;
 
-VII. Si el bote transporta personal de marinería o simplemente su dotación contestará: “Marinería”, o “Dotación”, según sea el caso, y
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2013)</small>
+
+VII. Si el bote transporta personal de marinería o simplemente su dotación, contestará: ''Marinería'' o ''Dotación'', según sea el caso, y
+
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2013)</small>
 
 VIII. Cuando el bote únicamente pase de largo, cualquiera que sea la persona que transporta, contestará: “Largo”.
 
@@ -881,7 +1013,9 @@ II. Los lugares donde se ubique el túmulo pueden ser:
 
 A. En el vestíbulo principal del edificio sede de la Secretaría de Marina, cuando lo ordene el Alto Mando;
 
-B. En las sedes de los mandos territoriales;
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2013)</small>
+
+B. En las sedes de los mandos navales;
 
 C. En los planteles educativos navales;
 
@@ -893,9 +1027,13 @@ F. En el domicilio particular;
 
 III. Los honores fúnebres se rendirán al cuerpo presente, en ausencia de éste, o a sus cenizas;
 
-IV. Esta clase de honores se rendirán aun cuando se halle presente un superior en cargo o jerarquía a la del extinto, pudiendo suspenderse a petición de los deudos;
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2013)</small>
 
-V. Se designará una unidad para que realice los honores que correspondan al cargo o a la jerarquía del extinto. Esta unidad asistirá a los actos fúnebres debidamente enlutados;
+IV. Esta clase de honores se rendirán aun cuando se halle presente un superior en cargo o grado a la del fallecido, pudiendo suspenderse a petición de los deudos;
+
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2013)</small>
+
+V. Se designará una unidad para que realice los honores que correspondan al cargo o al grado del fallecido. Esta unidad asistirá a los actos fúnebres debidamente enlutados;
 
 VI. El personal de la Armada que asista uniformado al funeral lo hará con el uniforme que se ordene, portando el luto que establece el presente Reglamento;
 
@@ -915,9 +1053,11 @@ F. Grueso de la columna;
 
 VIII. La guardia que el personal de la Armada establezca, ante el féretro o urna, estará constituida por cuatro elementos que se colocarán en las proximidades de los vértices del ataúd y dos elementos en el acceso a la cámara mortuoria, serán relevados cada diez minutos sin ninguna ceremonia. Durante ese tiempo permanecerán en la posición de firmes;
 
-IX. Si ocurre un fallecimiento a bordo de un buque se procederá en la forma que establezca el presente Reglamento.
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2013)</small>
 
-Si falleciere estando el buque en puerto extranjero se rendirán los honores que establece el presente Reglamento para su cargo o jerarquía;
+IX. Si ocurre un fallecimiento a bordo de un buque se procederá en la forma que establece el presente Reglamento.
+
+Si falleciere estando el buque en puerto extranjero se rendirán los honores que establece el presente Reglamento para su cargo o grado, y
 
 X. El luto para la Armada de México consiste de:
 
@@ -931,15 +1071,19 @@ D. A los estandartes y guiones se les colocará un moño negro en el vértice qu
 
 E. A los instrumentos de banda se les colocarán vestiduras y fundas negras.
 
-### CAPÍTULO II. Honores fúnebres al Cargo y a la Jerarquía
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 20 DE MAYO DE 2013)</small>
+
+### CAPÍTULO II. Honores fúnebres al Cargo y al Grado
 
 ###### Artículo 52.
 
 Honores fúnebres al Presidente de la República:
 
-I. En todas las unidades y establecimientos de la Armada de México, al recibirse la noticia oficial del deceso o al día siguiente si se recibe durante la noche, se arriarán las banderas nacionales a media asta y, si hubiere artillería, la unidad designada por el mando territorial realizará en ese momento los honores al cañón.
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2013)</small>
 
-Durante el día, y mientras no se verifique la inhumación, las banderas nacionales de los buques, unidades y establecimientos permanecerán izadas a media asta desde el orto hasta el ocaso. El buque designado efectuará un disparo de cañón cada media hora y tres al izarse o arriarse la bandera. Al momento de la inhumación se realizarán los honores al cañón;
+I. En todas las unidades y establecimientos de la Armada de México, al recibirse la noticia oficial del deceso o al día siguiente si se recibe durante la noche, se arriarán las banderas nacionales a media asta y, si hubiere artillería, la unidad designada por el mando naval realizará en ese momento los honores al cañón.
+
+Durante el día, y mientras no se verifique la inhumación, las banderas nacionales de las unidades y establecimientos permanecerán izadas a media asta desde el orto hasta el ocaso. La unidad designada efectuará un disparo de cañón cada media hora y tres al izarse o arriarse la bandera. Al momento de la inhumación se realizarán los honores al cañón;
 
 II. La Armada de México participará en los actos fúnebres dedicados al Mando Supremo de acuerdo con el protocolo que establezca la presidencia de la República, y
 
@@ -949,13 +1093,17 @@ III. El personal de las unidades y establecimientos de la Armada de México, as�
 
 Honores fúnebres al Secretario de Marina:
 
-I. En todas las unidades y establecimientos de la Armada de México, al recibirse la noticia oficial del deceso, o al día siguiente si se recibe durante la noche, se arriarán las banderas nacionales a media asta y, si hubiere artillería, la unidad designada por el mando territorial realizará en ese momento los honores al cañón.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MAYO DE 2013)</small>
+
+I. En todas las unidades y establecimientos de la Armada de México, al recibirse la noticia oficial del deceso, o al día siguiente si se recibe durante la noche, se arriarán las banderas nacionales a media asta y, si hubiere artillería, la unidad designada por el mando naval realizará en ese momento los honores al cañón.
 
 Durante el día, y mientras no se verifique la inhumación, las banderas nacionales de las unidades y establecimientos de la Armada, permanecerán a media asta desde el orto hasta el ocaso, efectuando la unidad designada tres disparos al arriarse o izarse dichas banderas. En el momento de la inhumación se realizarán los honores al cañón;
 
-II. Al fallecer el Alto Mando, el Subsecretario de Marina, ordenará que se coloque el túmulo en el vestíbulo principal del edificio sede de la Secretaría de Marina, a su arribo o salida del recinto naval se le harán los honores a su cargo.
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2013)</small>
 
-El Estado Mayor General de la Armada coordinará con los deudos del extinto el establecimiento de las guardias de honor ante el túmulo alternando el personal naval con los familiares y visitas, y
+II. Al fallecer el Alto Mando, el Subsecretario de Marina ordenará que se coloque el túmulo en el vestíbulo principal del edificio sede de la Secretaría de Marina; a su arribo o salida del recinto naval, se le harán los honores a su cargo.
+
+El Estado Mayor General de la Armada coordinará con los deudos del fallecido el establecimiento de las guardias de honor ante el túmulo alternando el personal naval con los familiares y visitas, y
 
 III. El personal de las unidades y establecimientos de la Armada de México, así como las banderas nacionales, estandartes e instrumentos de bandas, llevarán luto durante tres días. El mismo tiempo se izarán las banderas nacionales a media asta.
 
@@ -963,21 +1111,29 @@ III. El personal de las unidades y establecimientos de la Armada de México, as�
 
 Los honores fúnebres al Subsecretario, Oficial Mayor de Marina, Jefe del Estado Mayor General de la Armada e Inspector y Contralor General de Marina se sujetarán a lo siguiente:
 
-I. Serán los que correspondan a su jerarquía;
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2013)</small>
+
+I. Serán los que correspondan a su grado;
 
 II. Se ordenarán por el Alto Mando, conforme al procedimiento establecido en el presente Reglamento, y
 
-III. El mando territorial designará el personal que deba integrar las comisiones de las diversas unidades y establecimientos que asistan al funeral.
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2013)</small>
+
+III. El mando naval designará el personal que deba integrar las comisiones de las diversas unidades y establecimientos que asistan al funeral.
 
 ###### Artículo 55.
 
 Los honores fúnebres a los almirantes, capitanes, oficiales, clases y marinería se sujetarán a lo siguiente:
 
-I. Serán los que correspondan a su jerarquía;
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2013)</small>
+
+I. Serán los que correspondan a su grado;
 
 II. Serán ordenados por el Alto Mando, conforme al procedimiento establecido en el presente Reglamento, y
 
-III. El mando territorial designará el personal que deba integrar las comisiones de las diversas unidades y establecimientos que asistan al funeral.
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2013)</small>
+
+III. El mando naval designará el personal que deba integrar las comisiones de las diversas unidades y establecimientos que asistan al funeral.
 
 ### CAPÍTULO III. Procedimiento
 
@@ -995,7 +1151,9 @@ III. En el lugar que ordene el Alto Mando.
 
 La unidad de honores fúnebres procederá y se integrará en la forma siguiente:
 
-I. Concurrirá al funeral a las órdenes de quien disponga el mando territorial;
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2013)</small>
+
+I. Concurrirá al funeral a las órdenes de quien disponga el mando naval;
 
 II. Se integra con el estado de fuerza siguiente:
 
@@ -1007,7 +1165,9 @@ C. Para el Subsecretario de Marina: banda de guerra, escolta con bandera y tres 
 
 D. Para el Oficial Mayor de Marina: banda de guerra, escolta con bandera y dos compañías de fusileros;
 
-E. Para el Jefe de Estado Mayor General de la Armada: banda de guerra, escolta con bandera y una compañía de fusileros;
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2013)</small>
+
+E. Para el Jefe de Estado Mayor General de la Armada e Inspector y Contralor General de Marina: banda de guerra, escolta con bandera y una compañía de fusileros;
 
 F. Para el personal de almirantes: banda de guerra, escolta con bandera y dos secciones de fusileros;
 
@@ -1017,7 +1177,9 @@ H. Para el personal de oficiales: dos pelotones de fusileros y un clarín;
 
 I. Para el personal de clases y marinería: un pelotón de fusileros y un clarín, y
 
-J. Para los héroes de la patria y, en su caso, otras personalidades, conforme lo establezca el Mando;
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2013)</small>
+
+J. Para los héroes de la patria y, en su caso, otras personalidades, conforme lo establezca el Alto Mando;
 
 III. Cuando así corresponda, la unidad de honores asistirá armada a los actos fúnebres, principalmente cuando se requiera efectuar la salva de fusilería.
 
@@ -1049,7 +1211,9 @@ A. La guardia en turno del buque designado para ello se formará en el portalón
 
 B. Al arribar el vehículo que transporta la urna a las proximidades del buque, el contramaestre de guardia tocará atención;
 
-C. Cuando la persona que transporta la urna comience a cruzar la pasarela se iniciarán los honores con pito marinero según el último cargo o jerarquía del extinto, en ese momento se arriará la Bandera Nacional a media driza.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MAYO DE 2013)</small>
+
+C. Cuando la persona que transporta la urna comience a cruzar la pasarela se iniciarán los honores con pito marinero según el último cargo o grado del fallecido, en ese momento se arriará la Bandera Nacional a media driza.
 
 Al estar sobre cubierta la persona que transporta la urna permanecerá en este sitio hasta que finalicen los honores, al término de los mismos se trasladará a lugar destinado para depositar la urna, y
 
@@ -1057,13 +1221,21 @@ D. Una vez colocada la urna en el lugar destinado para ello se establecerá una 
 
 II. Depósito de las cenizas:
 
-A. El lugar para el esparcimiento de las cenizas en la mar deberá localizarse a una distancia no mayor de tres millas náuticas de la costa, y será determinado por el Mando;
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2013)</small>
 
-B. Al arribar al lugar señalado el buque se mantendrá al pairo aproado al viento;
+A. El lugar para el esparcimiento de las cenizas en la mar deberá localizarse a una distancia no mayor de tres millas náuticas de la costa, y será determinado por el mando naval correspondiente;
 
-C. Los familiares y el representante del mando se aproximarán a la popa del buque para esparcir las cenizas, el representante del mando hará entrega de la urna a los familiares, y
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2013)</small>
 
-D. El oficial de guardia ordenará adoptar la posición de saludo, el contramaestre de guardia tocará atención, y los familiares esparcirán las cenizas en la mar, iniciándose los honores con pito marinero correspondientes al último cargo o jerarquía del extinto. Al término de los honores fúnebres se izará a tope nuevamente la Bandera Nacional, retornando a puerto.
+B. El buque al arribar al lugar señalado, se mantendrá al pairo aproado al viento;
+
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2013)</small>
+
+C. Los familiares y el mando naval correspondiente o su representante, se aproximarán a la popa del buque, para esparcir las cenizas y este último entregará la urna a los familiares, y
+
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2013)</small>
+
+D. El oficial de guardia ordenará adoptar la posición de saludo; el contramaestre de guardia tocará atención y los familiares esparcirán las cenizas en la mar al iniciar los honores con pito marinero correspondiente al último cargo o grado del fallecido. Al término de los honores fúnebres se izará a tope nuevamente la Bandera Nacional, retornando a puerto.
 
 ### CAPÍTULO III (SIC). Honores especiales
 
@@ -1079,11 +1251,15 @@ En los casos en que fallezca un miembro de la Armada de México por un acto hero
 
 ### CAPÍTULO I. Banderas representativas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MAYO DE 2013)</small>
+
 ###### Artículo 61.
 
-La Bandera Torrotito de Proa es una cuadra que tiene tres franjas diagonales de igual anchura con los colores de la Bandera Nacional en el orden siguiente, a partir del lado de la vaina en la parte superior izquierda blanco, en la parte central verde y en la parte inferior derecha rojo, al centro de la franja verde lleva un ancla de cepo tipo almirantazgo de color plata, con una altura y base equivalente al 70 y 30% del ancho de la franja.
+La Bandera Torrotito de Proa es una cuadra que tiene tres franjas diagonales de igual anchura con los colores de la Bandera Nacional en el orden siguiente: a partir del lado de la vaina en la parte superior izquierda, blanco; en la parte central, verde y en la parte inferior derecha, rojo; al centro de la franja verde, lleva un ancla de cepo tipo almirantazgo de color plata, con una altura y base equivalente al 70 y 30 por ciento respectivamente del ancho de la franja.
 
-Lleva tres estrellas de ocho puntas de color dorado colocadas en el vértice superior izquierdo y en los dos vértices inferiores, inscritas en un círculo imaginario con diámetro equivalente al 10% de la longitud de la bandera.
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2013)</small>
+
+Lleva tres estrellas de ocho puntas de color dorado, colocadas en el vértice superior izquierdo y en los dos vértices inferiores, inscritas en un círculo imaginario con diámetro equivalente al 10 por ciento de la longitud de la bandera.
 
 Tiene las medidas siguientes:
 
@@ -1093,69 +1269,91 @@ II. En buques de 150 hasta 1000 toneladas, de 0.70 m. por lado, y
 
 III. En buques menores de 150 toneladas, de 0.50 m. por lado;
 
-Se iza en la driza del torrotito en los casos siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MAYO DE 2013)</small>
+
+Cuando el buque se encuentre en puerto, se iza en la driza del torrotito en los casos siguientes:
 
 I. Los días domingos;
 
 II. Los días festivos y en ceremonias oficiales;
 
-III. Los días en que haya buques de guerra extranjeros en puerto nacional, o
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2013)</small>
 
-IV. Cuando un buque nacional permanezca en puerto extranjero.
+III. Los días en que haya buques de guerra extranjeros en el mismo puerto nacional, o
+
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2013)</small>
+
+IV. Cuando se encuentre en puerto extranjero.
+
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2013)</small>
 
 ###### Artículo 62.
 
-El Guión es la bandera representativa de una unidad o establecimiento cuya dotación es mayor de una compañía y se utiliza para participar en desfiles o ceremonias.
+El Guión es la bandera representativa de una unidad o establecimiento, cuya dotación es mayor de una compañía; se utiliza para participar en desfiles o ceremonias.
 
-Está confeccionado en tela de paño negro, de forma cuadra de 0.65 m. por lado, con fleco suelto de hilo plateado de 0.09 m. de largo de su perímetro a excepción del lado de la vaina, se confecciona con tela doble, lleva para su sustentación un armazón metálico de alambrón, al centro lleva bordado el escudo de la Armada de México inscrito en un círculo imaginario de 0.40 m. de diámetro y en la parte inferior, en forma horizontal y paralela a la base, llevará el nombre de la unidad o establecimiento naval en color plateado, las dimensiones de estas letras serán de 0.05 m. de altura, 0.02 m. de ancho y 0.007 m. de espesor.
+Está confeccionado en tela doble de paño negro de forma cuadra de 0.65 m. por lado; en su perímetro lleva fleco suelto de hilo plateado de 0.09 m. de largo a excepción del lado de la vaina; para su sustentación cuenta con un armazón metálico de alambrón; al centro lleva bordado el escudo de la Armada de México inscrito en un círculo imaginario de 0.40 m. de diámetro y en la parte inferior, en forma horizontal y paralela a la base, llevará el nombre de la unidad o establecimiento naval en color plateado, cuyas letras tendrán las siguientes dimensiones: 0.05 m. de altura, 0.02 m. de ancho y 0.007 m. de espesor.
 
 ###### Artículo 63.
 
 El Estandarte es la bandera representativa que se usa en lugar de la Bandera de Guerra durante la instrucción militar y actividades rutinarias de las unidades y establecimientos.
 
-Está confeccionado con tela doble de lino en color azul marino, rojo o guinda, de acuerdo al cuerpo al que pertenezcan las unidades, siendo de forma cuadra de 0.90 m. por lado, con fleco suelto de hilo dorado de 0.09 m. de largo en el perímetro a excepción de la vaina; al centro lleva bordado o pintado, en color dorado en un círculo imaginario de 0.45 m. de diámetro, el escudo de la Armada de México y en la parte inferior, en forma horizontal y paralela a la base, el nombre de la unidad o establecimiento, las dimensiones de estas letras son las mismas que las descritas para los guiones.
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2013)</small>
+
+Está confeccionado con tela doble de lino en color azul marino, rojo o guinda, de acuerdo al cuerpo al que pertenezcan las unidades. Será de forma cuadra de 0.90 m. por lado; en su perímetro, lleva un fleco suelto de hilo dorado de 0.09 m. de largo a excepción de la vaina; al centro lleva bordado o pintado, en color dorado en un círculo imaginario de 0.45 m. de diámetro, el escudo de la Armada de México y en la parte inferior, en forma horizontal y paralela a la base, el nombre de la unidad o establecimiento, las dimensiones de estas letras son las mismas que las descritas para los guiones.
+
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2013)</small>
 
 ###### Artículo 64.
 
-El guión y el estandarte de las escuelas de formación son de las mismas características que las descritas en los artículos 62 y 63 de este Reglamento.
+El Guión y el Estandarte de las escuelas de formación tendrán las mismas características que las descritas en los artículos 62 y 63 de este Reglamento.
 
-Llevan el escudo de la escuela con sus colores correspondientes en lugar del escudo de la Armada de México, en la parte superior la inscripción Armada de México y en la inferior el nombre de la escuela en letras doradas.
+Llevarán el escudo de la escuela con sus colores correspondientes en lugar del escudo de la Armada de México; en la parte superior, la inscripción Armada de México y en la inferior, el nombre de la escuela en letras doradas.
+
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2013)</small>
 
 ###### Artículo 65.
 
-El asta para portar los guiones y estandartes es de madera pintada de color negro, de 2 m. de longitud total y 0.04 m. de diámetro, lleva en su parte superior una moharra de madera, latón o bronce de color dorado en forma de lanza de 0.15 m. de longitud y en su parte inferior lleva un regatón de latón o bronce de color dorado de 0.05 m. de alto.
+El asta para portar los guiones y estandartes será de madera pintada de color negro de 2 m. de longitud total y 0.04 m. de diámetro; en la parte superior lleva una moharra de madera, latón o bronce de color dorado en forma de lanza de 0.15 m. de longitud y en la inferior, un regatón de latón o bronce de color dorado de 0.05 m. de alto.
+
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2013)</small>
 
 ###### Artículo 66.
 
-El portaguión o portaestandarte es de cuero pintado de color negro de 0.80 m. de ancho y de largo variable, en la parte inferior lleva un refuerzo del mismo material y sobre el cual va la cuja. En su parte superior, a la altura del pecho de quien lo porte, lleva el escudo de la escuela correspondiente en metal dorado.
-
-La cuja es el receptáculo metálico de forma cilíndrica de 0.135 m. de alto y un diámetro de 0.055 m. forrado de cuero pintado de negro, y debe quedar a la altura de la cadera.
+El portaguión o portaestandarte, será de cuero pintado de color negro de 0.080 m. de ancho y de largo variable; en la parte inferior, llevará un refuerzo del mismo material y sobre el cual se fijará la cuja; esta última será un receptáculo metálico de forma cilíndrica de 0.135 m. de alto y un diámetro de 0.055 m. forrado de cuero pintado de negro y quedará a la altura de la cadera de quien lo porte. En la parte superior, a la altura del pecho de quien lo porte, llevará el escudo de la escuela correspondiente en metal dorado.
 
 ### CAPÍTULO II. Uso de otras Banderas
 
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2013)</small>
+
 ###### Artículo 67.
 
-El engalanado está integrado por un conjunto de banderas pertenecientes a los códigos nacional e internacional de señales, así como con las banderas nacionales, banderas insignias, Gallardete Nacional de Mando y Bandera Torrotito.
+El engalanado se integrará por un conjunto de banderas pertenecientes a los códigos nacional e internacional de señales, así como, con las banderas nacionales, banderas insignias, gallardete nacional de mando y bandera torrotito.
 
-El engalanado se utiliza para adornar:
+El engalanado se utilizará para adornar:
 
-I. Los establecimientos, en los días festivos o cuando se realice una ceremonia oficial, y
+I. Los establecimientos, en días festivos y en ceremonias oficiales, y
 
-II. Las unidades de superficie, en los días festivos, cuando se realice una ceremonia oficial o durante las estancias en puerto extranjero en visita oficial.
+II. Las unidades de superficie, en días festivos, ceremonias oficiales o durante la estancia en puerto extranjero en visita oficial.
 
-En los casos de en que así lo determine el mando el engalanado podrá emplearse para adornar la popa del buque cuando se realicen a bordo recepciones oficiales.
+En los casos en que así lo determine el mando naval, el engalanado podrá emplearse para adornar la popa del buque durante recepciones oficiales a bordo.
+
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2013)</small>
 
 ###### Artículo 68.
 
-El engalanado se divide en engalanado completo y medio engalanado:
+El engalanado podrá ser:
 
-I. El engalanado completo consiste en izar las banderas del código internacional de señales seguidas de las del código nacional en orden alfabético, a lo largo de una driza que va desde el torrotito de proa hasta el asta de popa, haciéndose firme en los topes del palo mayor y del palo mesana. La Bandera Nacional irá izada a pico en todos los palos y una larga a popa, así como la Bandera Torrotito en el torrotito de proa. Asimismo se izará la insignia del Comandante y el Gallardete Nacional de Mando, y
+I. Engalanado completo, que consistirá en izar las banderas del código internacional de señales seguidas de las del código nacional en orden alfabético a lo largo de una driza, en los buques se izará desde el torrotito de proa hasta el asta de popa, haciéndose firme en los topes del palo mayor y del palo mesana; la Bandera Nacional irá izada a pico en todos los palos y una larga a popa, así como la bandera torrotito en el torrotito de proa; asimismo se izará la insignia del Comandante y el gallardete nacional de mando, y
 
-II. El medio engalanado consiste en izar la Bandera Nacional a pico en el palo mayor, la Bandera Torrotito en el torrotito de proa, la insignia del comandante en la driza derecha del palo mayor, y el Gallardete Nacional de Mando a tope del palo mayor.
+II. Medio engalanado, que consistirá en izar las banderas del código nacional de señales en orden alfabético a lo largo de una driza, que va, en los buques desde el torrotito de proa hasta el palo mayor; la Bandera Nacional a pico en el palo mayor, la bandera torrotito en el torrotito de proa, la insignia del Comandante en la driza derecha del palo mayor, y el gallardete nacional de mando a tope del palo mayor.
+
+En los establecimientos, el engalanado completo o medio engalanado se izará donde lo determine el mando naval correspondiente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MAYO DE 2013)</small>
 
 ###### Artículo 69.
 
-Los días establecidos para izar el engalanado completo en los buques de la Armada de México, serán los siguientes:
+El engalanado completo se izará en los buques y establecimientos de la Armada de México, en los días siguientes:
 
 I. Fechas:
 
@@ -1177,19 +1375,25 @@ h) 20 de noviembre,
 
 i) 23 de noviembre y
 
-j) El día que se determine para la transmisión del Poder Ejecutivo Federal;
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2013)</small>
+
+j) Cuando se realice la transmisión del Poder del Ejecutivo Federal.
 
 II. Cuando lo determine el Alto Mando, y
 
-III. A solicitud del mando territorial.
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2013)</small>
 
-Los días establecidos para izar el medio engalanado en los buques de la Armada de México, serán los días domingos y días festivos.
+III. A solicitud de algún mando naval y autorización del Alto Mando.
+
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2013)</small>
+
+El medio engalanado se izará en los buques y establecimientos de la Armada de México los días domingos o cuando se ordene.
+
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2013)</small>
 
 ###### Artículo 70.
 
-La Guirnalda sustituye al engalanado al ocaso y hasta el orto en los buques de la Armada de México.
-
-Consiste en una driza con una serie de luces de luminosidad blanca, la cual se hará firme del torrotito de proa al asta de popa pasando por los topes del palo mayor y del palo mesana.
+La Guirnalda consiste en una driza con una serie de luces de color blanca que sustituye al engalanado desde el ocaso y hasta el orto en los buques de la Armada de México. Ésta se hará firme del torrotito de proa al asta de popa pasando por los topes del palo mayor y del palo mesana.
 
 ## TRANSITORIOS
 
@@ -1204,3 +1408,9 @@ Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Dist
 DESCRIPCIÓN GRÁFICA DE LAS BANDERAS Y LUCES PARA LA ARMADA DE MÉXICO
 
 > <small>N. DE E. VÉASE IMÁGENES EN LA PRIMERA SECCIÓN DEL D.O.F. DE 19 DE OCTUBRE DE 2000, PÁGINAS DE LA 24 A LA 38.</small>
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 20 DE MAYO DE 2013.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
