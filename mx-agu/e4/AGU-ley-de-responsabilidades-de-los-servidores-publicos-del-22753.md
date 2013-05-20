@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-responsabilidades-de-los-servidores-publicos-del-22753"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-12"
-last_updated: "2013-02-11"
+last_updated: "2013-05-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2013.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2001.
 
@@ -125,9 +125,13 @@ IV.- De Responsabilidad Administrativa Resarcitoria.
 
 El Titular del Poder Ejecutivo del Estado, durante el tiempo de su encargo, sólo podrá ser acusado por violaciones a la Constitución Política del Estado, y delitos graves del orden común, además será responsable en los términos del artículo 110, segundo párrafo de la Constitución Política de los Estados Unidos Mexicanos; conforme al procedimiento establecido en el mismo.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2013)</small>
+
 ###### ARTICULO 9o.
 
-Son delitos graves del orden común los así considerados por la Legislación Penal vigente en el Estado.
+Son delitos graves del orden común los así considerados por el Código de Procedimientos Penales para el Estado de Aguascalientes.
 
 ###### ARTICULO 10.
 
@@ -323,11 +327,13 @@ Si durante la tramitación de alguno de los procedimientos en que interviene el 
 
 ### CAPITULO III. Procedimiento Para la Declaratoria de Procedencia
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2013)</small>
 
 ###### ARTICULO 37.
 
-La comisión de delitos, por parte de cualquier servidor público de los mencionados en el artículo 74 de la Constitución Política del Estado, será perseguida y sancionada en los términos de lo establecido por la Legislación Penal para el Estado de Aguascalientes, previa declaratoria de procedencia de conformidad con lo que establece la presente Ley y el artículo 535 de la referida legislación penal.
+La comisión de delitos, por parte de cualquier servidor público de los mencionados en el Artículo 74 de la Constitución Política del Estado, será perseguida y sancionada en los términos de lo establecido por el Código Penal para el Estado de Aguascalientes y el Código de Procedimientos Penales para el Estado de Aguascalientes, previa declaratoria de procedencia de conformidad con lo que establece la presente Ley y el referido Código adjetivo.
 
 Si se contraviene lo anterior, el Presidente de Congreso librará oficio al Tribunal que conozca de la causa, a fin de que suspenda su tramitación en tanto se resuelve si ha lugar a proceder, ordenando la inmediata libertad del servidor público si éste se encontrare detenido.
 
@@ -349,11 +355,13 @@ La denuncia que se formule en contra de alguno de los servidores públicos que g
 
 En el supuesto de que la denuncia sea en contra del Procurador General de Justicia, aquella se presentará ante el titular del Poder Ejecutivo del Estado, quien designará a un Agente del Ministerio Público Especial para el solo efecto de que integre la averiguación previa respectiva.
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2013)</small>
 
 ###### ARTICULO 41.
 
-En los casos mencionados en los dos artículos anteriores, la averiguación previa se substanciará conforme a lo establecido en la Legislación Penal para el Estado de Aguascalientes.
+En los casos mencionados en los dos Artículos anteriores, la averiguación previa se substanciará conforme a lo establecido en el Código de Procedimientos Penales para el Estado de Aguascalientes.
 
 ###### ARTICULO 42.
 
@@ -393,15 +401,21 @@ Si el Congreso del Estado declara que ha lugar a proceder contra el servidor pú
 
 Si se emite declaratoria de improcedencia, el servidor público continuará en el desempeño de su cargo y no habrá lugar a procedimiento ulterior por los mismos hechos, en tanto no concluyan sus funciones.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2013)</small>
+
 ###### ARTICULO 49.
 
-El titular del Poder Ejecutivo del Estado sólo será sujeto al procedimiento de declaratoria de procedencia, tratándose de delitos graves del orden común así considerados por la Legislación Penal vigente en el Estado.
+El Titular del Poder Ejecutivo del Estado sólo será sujeto al procedimiento de declaratoria de procedencia, tratándose de delitos graves del orden común así considerados por el Código de Procedimientos Penales para el Estado de Aguascalientes.
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2013)</small>
 
 ###### ARTICULO 50.
 
-Para proceder contra los jueces por la comisión de hechos punibles que puedan ser tipificados en términos de las figuras establecidas en la Legislación Penal para el Estado de Aguascalientes, el Supremo Tribunal de Justicia emitirá declaración en el sentido de que ha lugar a formación de causa. Por virtud de esta declaración, aquellos quedarán suspendidos de sus cargos y sometidos al procedimiento penal correspondiente, conforme a las reglas establecidas en la referida legislación penal.
+Para proceder contra los jueces por la comisión de hechos punibles que puedan ser tipificados en términos de las figuras establecidas en el Código Penal para el Estado de Aguascalientes, el Supremo Tribunal de Justicia emitirá declaración en el sentido de que ha lugar a formación de causa. Por virtud de esta declaración, aquellos quedarán suspendidos de sus cargos y sometidos al procedimiento penal correspondiente, conforme a las reglas establecidas en el Código de Procedimientos Penales para el Estado de Aguascalientes.
 
 ###### ARTICULO 51.
 
@@ -485,11 +499,13 @@ Las declaraciones o resoluciones aprobadas por el Congreso del Estado con arregl
 
 Recibida por el Congreso del Estado la notificación de la declaratoria de la Cámara de Diputados del Congreso de la Unión relativa al titular del Poder Ejecutivo del Estado, Diputados Locales, Magistrados adscritos al Poder Judicial del Estado y miembros del Consejo de la Judicatura Local a que se refiere el Artículo 111 de la Constitución General de la República, se procederá como lo dispone la presente Ley.
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2013)</small>
 
 ###### ARTICULO 68.
 
-En todo lo no previsto en los procedimientos que se contemplan en los títulos Segundo y Cuarto de esta Ley, así como en la apreciación y valoración de las pruebas, se observarán, en lo conducente, las disposiciones contenidas en la Legislación Penal para el Estado de Aguascalientes.
+En todo lo no previsto en los procedimientos que se contemplan en los Títulos Segundo y Cuarto de esta Ley, así como en la apreciación y valoración de las pruebas, se observarán, en lo conducente, las disposiciones contenidas en el Código de Procedimientos Penales para el Estado de Aguascalientes.
 
 ## TITULO TERCERO. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
 
@@ -823,7 +839,11 @@ I.- Sanción económica de hasta veinte veces el salario mínimo diario general 
 
 II.- Auxilio de la fuerza pública.
 
-Si existe resistencia al mandamiento legítimo de autoridad, se estará a lo que prevenga la Legislación Penal.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2013)</small>
+
+Si existe resistencia al mandamiento legítimo de autoridad, se estará a lo que prevenga el Código Penal para el Estado de Aguascalientes y el Código de Procedimientos Penales para el Estado de Aguascalientes.
 
 ### CAPITULO III. De las Responsabilidades Administrativas Resarcitorias
 
@@ -1013,11 +1033,13 @@ El servidor público que en su declaración faltare a la verdad, será suspendid
 
 Si transcurridos los plazos a que hacen referencia las fracciones I, II y III del artículo anterior, no se hubiere presentado la declaración correspondiente, sin causa justificada, se aplicará al servidor público, previa instancia sumaria que conceda garantía de audiencia al omiso extemporáneo, una sanción pecuniaria consistente en quince días y hasta seis meses del total del sueldo base presupuestal que tenga asignado, previniéndosele en el caso de la fracción I, que de no rendir su declaración dentro de los quince días naturales siguientes a la fecha de la notificación del citatorio, será separado de su cargo. La Contraloría General del Estado notificará este hecho al superior jerárquico o a los titulares de las dependencias o entidades.
 
-> <small>(REFORMADO, P.O. 25 DE AGOSTO DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2013)</small>
 
 ###### ARTICULO 112.
 
-Si no se presenta la declaración a que se refiere la fracción IV del artículo 110, sin causa justificada, la Contraloría General del Estado inhabilitará al infractor por un año, asimismo, se practicarán las investigaciones necesarias en cuanto a su situación patrimonial y se dará vista al Ministerio Público si se presume la comisión de algún delito, para que se proceda conforme a la legislación penal.
+Si no se presenta la declaración a que se refiere la Fracción IV del Artículo 110, sin causa justificada, la Contraloría General del Estado inhabilitará al infractor por un año, asimismo, se practicarán las investigaciones necesarias en cuanto a su situación patrimonial y se dará vista al Ministerio Público si se presume la comisión de algún delito, para que se proceda conforme a las normas aplicables.
 
 ###### ARTICULO 113.
 
@@ -1051,11 +1073,13 @@ IX.- En general, los bienes o ingresos que se obtengan o eroguen en términos de
 
 También deberá manifestar los bienes de su cónyuge, concubina e hijos menores.
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2013)</small>
 
 ###### ARTICULO 116.
 
-Para los efectos de esta Ley y de la Legislación Penal para el Estado de Aguascalientes, se considerarán como bienes adquiridos por los servidores públicos, todos aquellos de los que se conduzcan como dueños o de los que dispongan éstos, su cónyuge, concubina y sus dependientes económicos directos, salvo que acrediten legalmente que estos bienes los obtuvieron por otros medios lícitos ajenos al servicio público.
+Para los efectos de esta Ley y del Código Penal para el Estado de Aguascalientes, se considerarán como bienes adquiridos por los servidores públicos, todos aquellos de los que se conduzcan como dueños o de los que dispongan éstos, su cónyuge, concubina y sus dependientes económicos directos, salvo que acrediten legalmente que estos bienes los obtuvieron por otros medios lícitos ajenos al servicio público.
 
 ###### ARTICULO 117.
 
@@ -1192,3 +1216,61 @@ P.O. 11 DE FEBRERO DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE MAYO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia a los sesenta días naturales contados a partir de su publicación en el Periódico Oficial del Estado, a excepción del Código de Procedimientos Penales para el Estado de Aguascalientes contenido en el Artículo Tercero.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deroga la Legislación Penal para el Estado de Aguascalientes publicada en el Periódico Oficial del Estado el 21 de julio de 2003 mediante decreto número 97.
+
+###### ARTÍCULO TERCERO.
+
+La incorporación del sistema procesal penal acusatorio en el Estado de Aguascalientes será gradual, y en consecuencia la vigencia y aplicación del Código de Procedimientos Penales para el Estado de Aguascalientes contenido en el Artículo Tercero del presente Decreto será progresiva, conforme a las siguientes fechas:
+
+I.- El 16 de junio de 2014 en el quinto partido judicial con sede en Jesús María, respecto de los hechos punibles considerados de querella previstos en el Artículo 166 del Código de Procedimientos Penales contenido en el Artículo Tercero, y de hechos punibles patrimoniales no violentos;
+
+II.- El 5 de enero de 2015 en el tercer y cuarto partidos judiciales con sede en Pabellón y Rincón de Romos, respecto de los hechos punibles considerados de querella previstos en el Artículo 166 del Código de Procedimientos Penales contenido en el Artículo Tercero, y de hechos punibles patrimoniales no violentos;
+
+III.- El 1 de junio de 2015 en el primer y segundo partidos judiciales con sede en Aguascalientes y Calvillo, respecto de los hechos punibles considerados de querella previstos en el Artículo 166 del Código de Procedimientos Penales contenido en el Artículo Tercero, y de hechos punibles patrimoniales no violentos;
+
+IV.- El 1 de junio de 2015 en el quinto partido judicial con sede en Jesús María, respecto de los hechos punibles no considerados de prisión preventiva oficiosa;
+
+V.- El 4 de enero de 2016 en el quinto partido judicial con sede en Jesús María, respecto de la totalidad de hechos punibles;
+
+VI.- El 4 de enero de 2016 en el tercer y cuarto partidos judiciales con sede en Pabellón y Rincón de Romos, respecto de los hechos punibles no considerados de prisión preventiva oficiosa; y
+
+VII.- El 18 de junio de 2016, en el primer, segundo, tercer y cuarto partidos judiciales con sede en Aguascalientes, Calvillo, Pabellón y Rincón de Romos, respecto de la totalidad de hechos punibles.
+
+Lo anterior con la salvedad del caso de que ya se hubiere incorporado alguna fase, principios procesales o derechos en legislaciones vigentes relacionadas con el Sistema Penal Acusatorio.
+
+###### ARTÍCULO CUARTO.
+
+Las disposiciones del Código de Procedimientos Penales contenido en el Artículo Tercero del presente Decreto, se aplicarán a hechos que ocurran a partir de las cero horas de las fechas y partidos judiciales en que de manera progresiva entre en vigencia el sistema procesal penal acusatorio, de acuerdo a lo dispuesto en el Artículo Segundo Transitorio.
+
+###### ARTÍCULO QUINTO.
+
+Quedarán derogados los preceptos del Código de Procedimientos Penales para el Estado de Aguascalientes contenido en el Artículo Segundo del presente Decreto de manera progresiva y gradual, conforme a la incorporación del sistema procesal penal acusatorio en términos del Artículo Tercero Transitorio, con la salvedad de los procedimientos que se estén tramitando con base en sus disposiciones, en cuyo caso se seguirán aplicando hasta su resolución.
+
+###### ARTÍCULO SEXTO.
+
+A partir de que entre en vigencia el presente Decreto, en los trámites iniciados conforme a la Legislación Penal para el Estado de Aguascalientes abrogada, las autoridades que conozcan de la etapa procesal que corresponda, podrán efectuar la traslación y aplicación de las nuevas disposiciones procedimentales en la medida que sean conducentes.
+
+En el caso del Código Penal para el Estado de Aguascalientes, si éste denomina, penaliza o agrava de forma diversa descripciones típicas previstas en la Legislación Penal para el Estado de Aguascalientes abrogada, se estará a lo siguiente:
+
+I.- Instaurado el proceso y sin que aún no se formulen conclusiones acusatorias, el Ministerio Público las formulará de conformidad con la traslación del tipo que resulte; y
+
+II.- En los procesos pendientes de dictarse sentencia en primera y segunda instancia, el juez o el Tribunal respectivamente, podrán efectuar la traslación del tipo de conformidad con la conducta descrita en el Código Penal para el Estado de Aguascalientes.
+
+Las reglas establecidas en este transitorio también se aplicarán en lo conducente a los procedimientos tramitados con base en la Ley del Sistema de Justicia para Adolescentes del Estado de Aguascalientes.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Congreso del Estado preverá una partida especial para solventar las erogaciones necesarias para la adecuada implementación del sistema procesal penal acusatorio.
+
+###### ARTÍCULO OCTAVO.
+
+A partir del inicio de vigencia del presente Decreto, toda referencia a la Legislación Penal para el Estado de Aguascalientes que se realice en otras leyes se entenderá hecha al Código Penal para el Estado de Aguascalientes o al Código de Procedimientos Penales para el Estado de Aguascalientes, según corresponda.
