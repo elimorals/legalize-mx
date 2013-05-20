@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-poder-judicial-del-estado-de-aguascalientes-14
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-08-15"
-last_updated: "2013-03-25"
+last_updated: "2013-05-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2013.
 
 Ley publicada en el Suplemento al No. 33 del Periódico Oficial del Estado de Aguascalientes, el domingo 15 de agosto de 1993.
 
@@ -157,9 +157,11 @@ IX.- Designar a Magistrados de una Sala para que transitoriamente integren otra 
 
 X.- Conocer los informes del Consejo de la Judicatura Estatal por lo que respecta a las licencias otorgadas a los Jueces y emitir opiniones de los mismos;
 
-> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XI.- Conocer y resolver las solicitudes de indemnización en términos de lo establecido por el Código de Procedimientos Penales para el Estado (sic) Aguascalientes;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2013)</small>
+
+XI.- Conocer y resolver las solicitudes de indemnización en términos de lo establecido en el apartado denominado “Procedencia de la Indemnización por Privación de la Libertad o Condena Injusta” del Código de Procedimientos Penales para el Estado de Aguascalientes;
 
 XII.- Excitar a los Jueces para que administren pronta y cumplida justicia, de oficio o a moción de las partes interesadas;
 
@@ -825,7 +827,11 @@ ARTICULO 33 P.- Los Juzgados de Preparación para Adolescentes, conocerán de to
 
 ARTICULO 33 Q.- Los Juzgados Especializados para Adolescentes, conocerán de:
 
-I. Las causas instauradas en contra de las personas a quienes se impute la realización de un hecho punible descrito por alguna figura típica prevista en la Legislación Penal para el Estado de Aguascalientes, cuando tenían entre doce años cumplidos y dieciocho no cumplidos;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2013)</small>
+
+I. Las causas instauradas en contra de las personas a quienes se impute la realización de un hecho punible descrito por alguna figura típica prevista en el Código Penal para el Estado de Aguascalientes o alguna otra norma, cuando tenían entre doce años cumplidos y dieciocho no cumplidos;
 
 II. Resolver los asuntos sometidos a su conocimiento, conforme a los plazos y términos previstos en la Ley del Sistema de Justicia para Adolescentes;
 
@@ -1221,9 +1227,11 @@ Los Jueces Menores Mixtos serán competentes:
 
 I.- Para conocer en materia civil de los negocios cuya cuantía no exceda de dos meses de salario mínimo general;
 
-> <small>(REFORMADA, P.O. 17 DE MAYO DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II.- Para conocer en materia penal de los delitos cuya penalidad máxima señalada en la Legislación Penal, no exceda de seis mes de prisión;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2013)</small>
+
+II.- Para conocer en materia penal de los delitos cuya penalidad máxima señalada en el Código Penal para el Estado de Aguascalientes o alguna otra norma, no exceda de seis meses de prisión;
 
 III.- Para diligenciar exhortos o despachos que reciban y que sean de su competencia, cuando las diligencias deban realizarse dentro de su jurisdicción.
 
@@ -1421,9 +1429,11 @@ El fondo para la administración de justicia, se integra con:
 
 a).- Los intereses que generen las inversiones que se hagan por los depósitos en dinero o en valores que se efectúen ante los tribunales judiciales del fuero común;
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-b).- Los objetos o instrumentos materia del delito que sean de uso lícito, cuando no se reclamen en la forma y términos previstos en las disposiciones respectivas de la Legislación Penal para el Estado de Aguascalientes. La declaración de que tales cantidades pasan a formar parte del Fondo se hará de oficio y en su contra podrá interponerse el recurso de revocación, de conformidad con la Legislación Penal para el Estado de Aguascalientes;
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2013)</small>
+
+b).- Los objetos o instrumentos materia del delito que sean de uso lícito, cuando no se reclamen en la forma y términos previstos en las disposiciones respectivas del Código Penal para el Estado de Aguascalientes y el Código de Procedimientos Penales para el Estado de Aguascalientes. La declaración de que tales cantidades pasan a formar parte del Fondo se hará de oficio y en su contra podrá interponerse el recurso de revocación, de conformidad con el Código de Procedimientos Penales para el Estado de Aguascalientes;
 
 c).- Los muebles y valores depositados por cualquier motivo ante los tribunales de justicia del fuero común, que no fueren retirados por el depositario o por quien tenga derecho a ello, dentro del plazo de noventa días previo requerimiento;
 
@@ -1431,9 +1441,11 @@ d).- Donaciones, herencias y legados;
 
 e).- Las multas y sustituciones de pena impuesta por los órganos jurisdiccionales estatales;
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-f).- El monto de la reparación del daño cuando la parte ofendida renuncie a él o no reclame dentro del plazo de seis meses, a partir de la notificación de que queda a su disposición. La declaración de que tales cantidades pasan a formar parte del fondo, se hará de oficio y en su contra podrá interponerse el recurso de revocación, de conformidad con la Legislación Penal para el Estado de Aguascalientes.
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2013)</small>
+
+f).- El monto de la reparación del daño cuando la parte ofendida renuncie a él o no reclame dentro del plazo de seis meses, a partir de la notificación de que queda a su disposición. La declaración de que tales cantidades pasan a formar parte del fondo, se hará de oficio y en su contra podrá interponerse el recurso de revocación, de conformidad con el Código de Procedimientos Penales para el Estado de Aguascalientes.
 
 ###### ARTICULO 83.
 
@@ -2136,3 +2148,61 @@ Los procedimientos penales iniciados antes de la entrada en vigencia establecida
 ###### ARTÍCULO CUARTO.
 
 El Congreso del Estado proveerá lo necesario en la asignación de recursos presupuestales anuales a favor del Poder Judicial del Estado, a fin de que se cuente con los recursos humanos, materiales y financieros necesarios para dar cumplimiento a este Decreto.
+
+P.O. 20 DE MAYO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia a los sesenta días naturales contados a partir de su publicación en el Periódico Oficial del Estado, a excepción del Código de Procedimientos Penales para el Estado de Aguascalientes contenido en el Artículo Tercero.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deroga la Legislación Penal para el Estado de Aguascalientes publicada en el Periódico Oficial del Estado el 21 de julio de 2003 mediante decreto número 97.
+
+###### ARTÍCULO TERCERO.
+
+La incorporación del sistema procesal penal acusatorio en el Estado de Aguascalientes será gradual, y en consecuencia la vigencia y aplicación del Código de Procedimientos Penales para el Estado de Aguascalientes contenido en el Artículo Tercero del presente Decreto será progresiva, conforme a las siguientes fechas:
+
+I.- El 16 de junio de 2014 en el quinto partido judicial con sede en Jesús María, respecto de los hechos punibles considerados de querella previstos en el Artículo 166 del Código de Procedimientos Penales contenido en el Artículo Tercero, y de hechos punibles patrimoniales no violentos;
+
+II.- El 5 de enero de 2015 en el tercer y cuarto partidos judiciales con sede en Pabellón y Rincón de Romos, respecto de los hechos punibles considerados de querella previstos en el Artículo 166 del Código de Procedimientos Penales contenido en el Artículo Tercero, y de hechos punibles patrimoniales no violentos;
+
+III.- El 1 de junio de 2015 en el primer y segundo partidos judiciales con sede en Aguascalientes y Calvillo, respecto de los hechos punibles considerados de querella previstos en el Artículo 166 del Código de Procedimientos Penales contenido en el Artículo Tercero, y de hechos punibles patrimoniales no violentos;
+
+IV.- El 1 de junio de 2015 en el quinto partido judicial con sede en Jesús María, respecto de los hechos punibles no considerados de prisión preventiva oficiosa;
+
+V.- El 4 de enero de 2016 en el quinto partido judicial con sede en Jesús María, respecto de la totalidad de hechos punibles;
+
+VI.- El 4 de enero de 2016 en el tercer y cuarto partidos judiciales con sede en Pabellón y Rincón de Romos, respecto de los hechos punibles no considerados de prisión preventiva oficiosa; y
+
+VII.- El 18 de junio de 2016, en el primer, segundo, tercer y cuarto partidos judiciales con sede en Aguascalientes, Calvillo, Pabellón y Rincón de Romos, respecto de la totalidad de hechos punibles.
+
+Lo anterior con la salvedad del caso de que ya se hubiere incorporado alguna fase, principios procesales o derechos en legislaciones vigentes relacionadas con el Sistema Penal Acusatorio.
+
+###### ARTÍCULO CUARTO.
+
+Las disposiciones del Código de Procedimientos Penales contenido en el Artículo Tercero del presente Decreto, se aplicarán a hechos que ocurran a partir de las cero horas de las fechas y partidos judiciales en que de manera progresiva entre en vigencia el sistema procesal penal acusatorio, de acuerdo a lo dispuesto en el Artículo Segundo Transitorio.
+
+###### ARTÍCULO QUINTO.
+
+Quedarán derogados los preceptos del Código de Procedimientos Penales para el Estado de Aguascalientes contenido en el Artículo Segundo del presente Decreto de manera progresiva y gradual, conforme a la incorporación del sistema procesal penal acusatorio en términos del Artículo Tercero Transitorio, con la salvedad de los procedimientos que se estén tramitando con base en sus disposiciones, en cuyo caso se seguirán aplicando hasta su resolución.
+
+###### ARTÍCULO SEXTO.
+
+A partir de que entre en vigencia el presente Decreto, en los trámites iniciados conforme a la Legislación Penal para el Estado de Aguascalientes abrogada, las autoridades que conozcan de la etapa procesal que corresponda, podrán efectuar la traslación y aplicación de las nuevas disposiciones procedimentales en la medida que sean conducentes.
+
+En el caso del Código Penal para el Estado de Aguascalientes, si éste denomina, penaliza o agrava de forma diversa descripciones típicas previstas en la Legislación Penal para el Estado de Aguascalientes abrogada, se estará a lo siguiente:
+
+I.- Instaurado el proceso y sin que aún no se formulen conclusiones acusatorias, el Ministerio Público las formulará de conformidad con la traslación del tipo que resulte; y
+
+II.- En los procesos pendientes de dictarse sentencia en primera y segunda instancia, el juez o el Tribunal respectivamente, podrán efectuar la traslación del tipo de conformidad con la conducta descrita en el Código Penal para el Estado de Aguascalientes.
+
+Las reglas establecidas en este transitorio también se aplicarán en lo conducente a los procedimientos tramitados con base en la Ley del Sistema de Justicia para Adolescentes del Estado de Aguascalientes.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Congreso del Estado preverá una partida especial para solventar las erogaciones necesarias para la adecuada implementación del sistema procesal penal acusatorio.
+
+###### ARTÍCULO OCTAVO.
+
+A partir del inicio de vigencia del presente Decreto, toda referencia a la Legislación Penal para el Estado de Aguascalientes que se realice en otras leyes se entenderá hecha al Código Penal para el Estado de Aguascalientes o al Código de Procedimientos Penales para el Estado de Aguascalientes, según corresponda.
