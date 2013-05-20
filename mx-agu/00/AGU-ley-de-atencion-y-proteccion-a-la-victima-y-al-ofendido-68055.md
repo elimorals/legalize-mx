@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-atencion-y-proteccion-a-la-victima-y-al-ofendido-68055"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-20"
-last_updated: "2009-04-20"
+last_updated: "2013-05-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68055&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "AGU"
 ---
 # LEY DE ATENCION Y PROTECCION A LA VICTIMA Y AL OFENDIDO PARA EL ESTADO DE AGUASCALIENTES
 
-LEY DE ATENCION Y PROTECCION A LA VICTIMA Y AL OFENDIDO PARA EL ESTADO DE AGUASCALIENTES
+LEY DE ATENCIÓN Y PROTECCIÓN A LA VÍCTIMA Y AL OFENDIDO PARA EL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 20 de abril de 2009.
 
@@ -47,7 +47,11 @@ LEY DE ATENCIÓN Y PROTECCIÓN A LA VICTIMA Y AL OFENDIDO PARA EL ESTADO DE AGUA
 
 La presente Ley es de interés público y de observancia general y tiene por objeto:
 
-I. Regular las medidas de atención y protección a todas aquellas personas que resultaren víctimas u ofendidos por la comisión de alguna de las figuras típicas previstas en la Legislación;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2013)</small>
+
+I. Regular las medidas de atención y protección a todas aquellas personas que resultaren víctimas u ofendidos por la comisión de alguna de las figuras típicas previstas en el Código Penal;
 
 II. Garantizar el pleno ejercicio de los derechos de las víctimas u ofendidos que les confiere el Artículo 20 de la Constitución Política de los Estados Unidos Mexicanos de manera gratuita, integral y expedita;
 
@@ -55,13 +59,21 @@ III. Proporcionar asesoría jurídica, atención médica, psicológica y de orie
 
 IV Asegurar la restitución de los derechos de la Víctima de manera prioritaria y de ser posible inmediata.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2013)</small>
+
 ###### Artículo 2°.
 
-Los beneficios que establece esta Ley, se aplicarán a las víctimas u ofendidos de las figuras típicas dolosas o culposas previstas, en la Legislación respecto a los:
+Los beneficios que establece esta Ley, se aplicarán a las víctimas u ofendidos de las figuras típicas dolosas o culposas previstas en el Código Penal:
 
 I. Tipos Penales Protectores de la Vida, la Libertad y la Salud Personales;
 
-II. Tipos Penales Protectores de la Libertad Sexual, la Seguridad Sexual y el Normal Desarrollo Físico y Psicosexual; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2013)</small>
+
+II. Tipos Penales Protectores de la Libertad Sexual, la Seguridad Sexual, el Normal Desarrollo Físico y Psicosexual, y el Libre Desarrollo de la Personalidad; y
 
 III. Tipos Penales Protectores de la Familia.
 
@@ -79,7 +91,11 @@ IV. Dirección: La Dirección General de Atención a Víctimas del Delito de la 
 
 V. Fondo: El Fondo de Atención a Víctimas u Ofendidos del Delito;
 
-VI. Legislación: La Legislación Penal para el Estado de Aguascalientes;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2013)</small>
+
+VI. Código Penal: El Código Penal para el Estado de Aguascalientes;
 
 VII. Ley: La ley de Atención y Protección a la Víctima y al Ofendido del Delito para el Estado de Aguascalientes;
 
@@ -227,9 +243,13 @@ Las instituciones privadas deberán coadyuvar con la Dirección en la atención 
 
 ### CAPITULO IV. De las Medidas de Atención y Protección a la Víctima u Ofendido
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2013)</small>
+
 ###### Artículo 15.
 
-Las medidas de atención y protección a la Víctima u Ofendido en términos de la presente Ley, independientemente de los derechos que la Constitución Política de los Estados Unidos Mexicanos, la Legislación y demás ordenamientos les otorguen, se sujetarán a los siguientes lineamientos:
+las medidas de atención y protección a la Víctima u Ofendido en términos de la presente Ley, independientemente de los derechos que la Constitución Política de los Estados Unidos Mexicanos, el Código de Procedimientos Penales para el Estado de Aguascalientes y demás ordenamientos les otorguen, se sujetarán a los siguientes lineamientos:
 
 I. Situarse en alguno de los supuestos previstos en el Artículo 2° de la presente Ley; y
 
@@ -239,11 +259,19 @@ II. Se tendrá como prioritario para la Víctima u Ofendido, la atención psicol
 
 La atención y protección a la Víctima u Ofendido comprenderá:
 
-I. La asistencia y representación jurídica gratuita durante el proceso penal, a través del Ministerio Público o la Dirección, incluyendo la orientación a la Víctima u Ofendido sobre las diligencias ministeriales; la asistencia también comprende la designación del representante legal del coadyuvante cuando así lo requiera la Víctima, en términos de la Legislación; para la acreditación y cuantificación del daño material y moral. Además de los derechos procesales que le pudiera corresponder, para la debida acreditación de la culpabilidad;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2013)</small>
+
+I. La asistencia y representación jurídica gratuita durante el proceso penal, a través del Ministerio Público o la Dirección, incluyendo la orientación a la Víctima u Ofendido sobre las diligencias ministeriales; la asistencia también comprende la designación del representante legal del coadyuvante cuando así lo requiera la Víctima, en términos del Código de Procedimientos Penales para el Estado de Aguascalientes; para la acreditación y cuantificación del daño material y moral. Además de los derechos procesales que le pudiera corresponder, para la debida acreditación de la culpabilidad;
 
 II. El servicio médico, que consistirá en atención hospitalaria especializada, ambulatoria, quirúrgica, medicamentos, pruebas y análisis de laboratorio, radiografías, rehabilitación física, y las demás necesarias de acuerdo a las prescripciones médicas, hasta en tanto se realice la reparación de daños y perjuicios por el responsable o la compañía aseguradora o afianzadora;
 
-III. Los servicios funerarios, tratándose de los hechos punibles tipificados como homicidio culposo o doloso en términos de la Legislación;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2013)</small>
+
+III. Los servicios funerarios, tratándose de los hechos punibles tipificados como homicidio culposo o doloso en términos del Código Penal;
 
 IV. El apoyo en especie a la Víctima u Ofendido, a efecto de que atiendan sus necesidades básicas de alimentos, derivadas directa o indirectamente de la comisión del hecho punible tipificado como delito, hasta en tanto se hace efectiva la reparación del daño por el responsable, en los casos que se determine procedente. En ningún caso, procederá la entrega de recursos económicos en efectivo, por más del sesenta por ciento que pudiese corresponder a la reparación del daño en términos del reglamento respectivo;
 
@@ -281,9 +309,13 @@ La Dirección, una vez reunida la información documental y demás datos señala
 
 Se podrá continuar con la atención legal y psicoterapéutica en dicha Dirección, a cargo de los psicoterapeutas especializados, con que cuente, para la víctima u ofendido, observándose en su caso los lineamientos de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Aguascalientes.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2013)</small>
+
 ###### Artículo 21.
 
-Cuando se otorgue protección a la Víctima u Ofendido, la Procuraduría se subrogará los derechos a la reparación de los daños por el costo total de la protección otorgada en contra del obligado, o en su caso, de la compañía afianzadora o aseguradora. La Procuraduría deberá de realizar los trámites correspondientes para la recuperación de los recursos erogados con cargo al Fondo, ante la autoridad ministerial o jurisdiccional; la Procuraduría para estos efectos representará al Estado en términos de lo previsto por el Artículo 145 segundo párrafo de la Legislación.
+Cuando se otorgue protección a la Víctima u Ofendido, la Procuraduría se subrogará los derechos a la reparación de los daños por el costo total de la protección otorgada en contra del obligado, o en su caso, de la compañía afianzadora o aseguradora. La Procuraduría deberá de realizar los trámites correspondientes para la recuperación de los recursos erogados con cargo al Fondo, ante la autoridad ministerial o jurisdiccional; la Procuraduría para estos efectos representará al Estado en términos de lo previsto por el Código de Procedimientos Penales para el Estado de Aguascalientes.
 
 En todos los casos, el Fondo solidariamente con la Víctima, sufragará el costo de su atención.
 
@@ -488,3 +520,63 @@ Luis Armando Reynoso Femat.
 EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Juan Ángel José Pérez Talamantes.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 20 DE MAYO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia a los sesenta días naturales contados a partir de su publicación en el Periódico Oficial del Estado, a excepción del Código de Procedimientos Penales para el Estado de Aguascalientes contenido en el Artículo Tercero.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deroga la Legislación Penal para el Estado de Aguascalientes publicada en el Periódico Oficial del Estado el 21 de julio de 2003 mediante decreto número 97.
+
+###### ARTÍCULO TERCERO.
+
+La incorporación del sistema procesal penal acusatorio en el Estado de Aguascalientes será gradual, y en consecuencia la vigencia y aplicación del Código de Procedimientos Penales para el Estado de Aguascalientes contenido en el Artículo Tercero del presente Decreto será progresiva, conforme a las siguientes fechas:
+
+I.- El 16 de junio de 2014 en el quinto partido judicial con sede en Jesús María, respecto de los hechos punibles considerados de querella previstos en el Artículo 166 del Código de Procedimientos Penales contenido en el Artículo Tercero, y de hechos punibles patrimoniales no violentos;
+
+II.- El 5 de enero de 2015 en el tercer y cuarto partidos judiciales con sede en Pabellón y Rincón de Romos, respecto de los hechos punibles considerados de querella previstos en el Artículo 166 del Código de Procedimientos Penales contenido en el Artículo Tercero, y de hechos punibles patrimoniales no violentos;
+
+III.- El 1 de junio de 2015 en el primer y segundo partidos judiciales con sede en Aguascalientes y Calvillo, respecto de los hechos punibles considerados de querella previstos en el Artículo 166 del Código de Procedimientos Penales contenido en el Artículo Tercero, y de hechos punibles patrimoniales no violentos;
+
+IV.- El 1 de junio de 2015 en el quinto partido judicial con sede en Jesús María, respecto de los hechos punibles no considerados de prisión preventiva oficiosa;
+
+V.- El 4 de enero de 2016 en el quinto partido judicial con sede en Jesús María, respecto de la totalidad de hechos punibles;
+
+VI.- El 4 de enero de 2016 en el tercer y cuarto partidos judiciales con sede en Pabellón y Rincón de Romos, respecto de los hechos punibles no considerados de prisión preventiva oficiosa; y
+
+VII.- El 18 de junio de 2016, en el primer, segundo, tercer y cuarto partidos judiciales con sede en Aguascalientes, Calvillo, Pabellón y Rincón de Romos, respecto de la totalidad de hechos punibles.
+
+Lo anterior con la salvedad del caso de que ya se hubiere incorporado alguna fase, principios procesales o derechos en legislaciones vigentes relacionadas con el Sistema Penal Acusatorio.
+
+###### ARTÍCULO CUARTO.
+
+Las disposiciones del Código de Procedimientos Penales contenido en el Artículo Tercero del presente Decreto, se aplicarán a hechos que ocurran a partir de las cero horas de las fechas y partidos judiciales en que de manera progresiva entre en vigencia el sistema procesal penal acusatorio, de acuerdo a lo dispuesto en el Artículo Segundo Transitorio.
+
+###### ARTÍCULO QUINTO.
+
+Quedarán derogados los preceptos del Código de Procedimientos Penales para el Estado de Aguascalientes contenido en el Artículo Segundo del presente Decreto de manera progresiva y gradual, conforme a la incorporación del sistema procesal penal acusatorio en términos del Artículo Tercero Transitorio, con la salvedad de los procedimientos que se estén tramitando con base en sus disposiciones, en cuyo caso se seguirán aplicando hasta su resolución.
+
+###### ARTÍCULO SEXTO.
+
+A partir de que entre en vigencia el presente Decreto, en los trámites iniciados conforme a la Legislación Penal para el Estado de Aguascalientes abrogada, las autoridades que conozcan de la etapa procesal que corresponda, podrán efectuar la traslación y aplicación de las nuevas disposiciones procedimentales en la medida que sean conducentes.
+
+En el caso del Código Penal para el Estado de Aguascalientes, si éste denomina, penaliza o agrava de forma diversa descripciones típicas previstas en la Legislación Penal para el Estado de Aguascalientes abrogada, se estará a lo siguiente:
+
+I.- Instaurado el proceso y sin que aún no se formulen conclusiones acusatorias, el Ministerio Público las formulará de conformidad con la traslación del tipo que resulte; y
+
+II.- En los procesos pendientes de dictarse sentencia en primera y segunda instancia, el juez o el Tribunal respectivamente, podrán efectuar la traslación del tipo de conformidad con la conducta descrita en el Código Penal para el Estado de Aguascalientes.
+
+Las reglas establecidas en este transitorio también se aplicarán en lo conducente a los procedimientos tramitados con base en la Ley del Sistema de Justicia para Adolescentes del Estado de Aguascalientes.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Congreso del Estado preverá una partida especial para solventar las erogaciones necesarias para la adecuada implementación del sistema procesal penal acusatorio.
+
+###### ARTÍCULO OCTAVO.
+
+A partir del inicio de vigencia del presente Decreto, toda referencia a la Legislación Penal para el Estado de Aguascalientes que se realice en otras leyes se entenderá hecha al Código Penal para el Estado de Aguascalientes o al Código de Procedimientos Penales para el Estado de Aguascalientes, según corresponda.
