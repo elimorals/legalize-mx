@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-ejecucion-de-sanciones-penales-del-estado-de-81752"
 country: "mx"
 rank: "ley"
 publication_date: "2011-06-17"
-last_updated: "2011-06-17"
+last_updated: "2013-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81752&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "AGU"
 ---
 # LEY DE EJECUCION DE SANCIONES PENALES DEL ESTADO DE AGUASCALIENTES
 
-LEY DE EJECUCION DE SANCIONES PENALES DEL ESTADO DE AGUASCALIENTES
+LEY DE EJECUCIÓN DE SANCIONES PENALES DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2013.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Aguascalientes, el viernes 17 de junio de 2011.
 
@@ -45,13 +45,21 @@ LEY DE EJECUCIÓN DE SANCIONES PENALES DEL ESTADO DE AGUASCALIENTES
 
 ### CAPÍTULO ÚNICO
 
-###### ARTÍCULO 1º.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Las disposiciones de esta Ley son de orden público e interés social y tienen por objeto regular la ejecución de las penas y medidas de seguridad establecidas en la Legislación Penal para el Estado de Aguascalientes, e impuestas por el Poder Judicial del Estado y establecer las bases del sistema penitenciario.
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2013)</small>
 
-En todo lo no previsto por esta Ley, se aplicará supletoriamente lo establecido en la Legislación Penal.
+###### ARTÍCULO 1°.
 
-###### ARTÍCULO 2º.
+Las disposiciones de esta Ley son de orden público e interés social y tienen por objeto regular la ejecución de las penas y medidas de seguridad establecidas en el Código Penal, e impuestas por el Poder Judicial del Estado y establecer las bases del sistema penitenciario.
+
+En todo lo no previsto por esta Ley, se aplicará supletoriamente lo establecido en el Código Penal y el Código Procesal, siempre que no contravengan los principios que rigen a este ordenamiento.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2013)</small>
+
+###### ARTÍCULO 2°.
 
 Para los efectos de esta Ley, se entenderá por:
 
@@ -61,35 +69,37 @@ II. Autoridades penitenciarias: A las autoridades del Poder Ejecutivo competente
 
 III. Centro: A los Centros de Reinserción Social del Estado de Aguascalientes;
 
-IV. Consejo Técnico: El Consejo Técnico Interdisciplinario de los Centros de Reinserción Social del Estado;
+IV. Código Penal: Al Código Penal para el Estado de Aguascalientes;
 
-V. Defensor público: A la defensoría proporcionada por el Estado al imputado o interno;
+V. Código Procesal: Al Código de Procedimientos Penales para el Estado de Aguascalientes;
 
-VI. Derecho Internacional de los Derechos Humanos: Se refiere a toda la juridicidad internacional como normas, tratados, convenciones, directrices, acuerdos o declaraciones, costumbre, jurisprudencia, en que se establecen derechos humanos y el comportamiento y beneficios que el ser humano debe esperar y exigir a la autoridad;
+VI. Consejo Técnico: El Consejo Técnico Interdisciplinario de los Centros de Reinserción Social del Estado;
 
-VII. Detención Judicial: La detención decretada por autoridad judicial en términos del Artículo 19 de la Constitución Política de los Estados Unidos Mexicanos;
+VII. Defensor Público: A la defensoría proporcionada por el Estado al imputado o interno;
 
-VIII. Dirección General: A la Dirección General de Reinserción Social del Estado de Aguascalientes;
+VIII. Derecho Internacional de los Derechos Humanos: Se refiere a toda la juridicidad internacional como normas, tratados, convenciones, directrices, acuerdos o declaraciones, costumbre, jurisprudencia, en que se establecen derechos humanos y el comportamiento y beneficios que el ser humano debe esperar y exigir a la autoridad;
 
-IX. Ejecución de las sanciones penales: La ejecución de las penas y medidas de seguridad;
+IX. Detención Judicial: La detención decretada por autoridad judicial en términos del Artículo 19 de la Constitución Política de los Estados Unidos Mexicanos;
 
-X. Imputado o procesado: Todo acusado en un procedimiento penal;
+X. Dirección General: A la Dirección General de Reinserción Social del Estado de Aguascalientes;
 
-XI. Interno: A toda persona privada de su libertad, ya sea en forma preventiva o definitiva, por virtud de un procedimiento penal;
+XI. Ejecución de las sanciones penales: La ejecución de las penas y medidas de seguridad;
 
-XII. Legislación Penal: Legislación Penal para el Estado de Aguascalientes;
+XII. Imputado o procesado: Todo acusado en un procedimiento penal;
 
-XIII. Ministerio Público: El Agente del Ministerio Público de la Procuraduría General de Justicia del Estado de Aguascalientes;
+XIII. Interno: A toda persona privada de su libertad, ya sea en forma preventiva o definitiva, por virtud de un procedimiento penal;
 
-XIV. Prisión preventiva: Es la medida cautelar restrictiva de la libertad, dictada por un juez a partir del auto de plazo constitucional;
+XlV. Ministerio Público: El Agente del Ministerio Público de la Procuraduría General de Justicia del Estado de Aguascalientes;
 
-XV. Secretaría: Secretaría de Seguridad Pública del Estado de Aguascalientes;
+XV. Prisión preventiva: Es la medida cautelar restrictiva de la libertad, dictada por un juez a partir del auto de plazo constitucional;
 
-XVI. Sentenciado: La persona que haya sido sentenciada por el órgano jurisdiccional competente, por la comisión de un delito;
+XVI. Secretaría: Secretaría de Seguridad Pública del Estado de Aguascalientes;
 
-XVII. Sistema Nacional de Seguridad Pública: Es el instrumento del Estado mexicano que tiene como propósito integrar, organizar y operar en los niveles federal, estatal y municipal la seguridad pública que involucra la prevención del delito, la procuración y administración de justicia y la reinserción social de sentenciados; y
+XVII. Sentenciado: La persona que haya sido sentenciada por el órgano jurisdiccional competente, por la comisión de un delito;
 
-XVIII. Sistema penitenciario: Al conjunto de políticas, principios e instituciones del Estado, que tienen como propósito la reinserción social de los sentenciados sobre la base del respeto a los derechos humanos, del trabajo, la capacitación para el mismo, la educación, la salud y el deporte.
+XVIII. Sistema Nacional de Seguridad Pública: Es el instrumento del Estado mexicano que tiene como propósito integrar, organizar y operar en los niveles federal, estatal y municipal la seguridad pública que involucra la prevención del delito, la procuración y administración de justicia y la reinserción social de sentenciados; y
+
+XIX. Sistema penitenciario: Al conjunto de políticas, principios e instituciones del Estado, que tienen como propósito la reinserción social de los sentenciados sobre la base del respeto a los derechos humanos, del trabajo, la capacitación para el mismo, la educación, la salud y el deporte.
 
 ###### ARTÍCULO 3º.
 
@@ -163,9 +173,13 @@ Para todos los efectos legales a que hubiere lugar, las autoridades penitenciari
 
 ### CAPÍTULO II. Autoridades Penitenciarias
 
-###### ARTÍCULO 9º.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Corresponde al Poder Ejecutivo del Estado, a través de las autoridades penitenciarias, la ejecución material de las penas y medidas de seguridad previstas en la Legislación Penal para el Estado de Aguascalientes e impuestas por el Poder Judicial; la administración y dirección de las instituciones destinadas a su cumplimiento, así como la expedición del o los ordenamientos reglamentarios que en ámbito administrativo hagan factible la aplicación y cumplimiento de lo dispuesto por esta Ley.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2013)</small>
+
+###### ARTÍCULO 9°.
+
+Corresponde al Poder Ejecutivo del Estado, a través de las autoridades penitenciarias, la ejecución material de las penas y medidas de seguridad previstas en el Código Penal e impuestas por el Poder Judicial; la administración y dirección de las instituciones destinadas a su cumplimiento, así como la expedición del o los ordenamientos reglamentarios que en ámbito administrativo hagan factible la aplicación y cumplimiento de lo dispuesto por esta Ley.
 
 Las actuaciones de las autoridades y personal penitenciario se regirán por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez, y respeto a los derechos humanos, fundamentales y garantías estipuladas en la Constitución Política de los Estados Unidos Mexicanos, el Derecho Internacional de los Derechos Humanos del que el Estado Mexicano sea parte, la Constitución Política del Estado de Aguascalientes, las leyes, reglamentos y normatividad que de ellas emanen.
 
@@ -297,13 +311,25 @@ II. Controlar y vigilar la ejecución de las penas y medidas de seguridad;
 
 III. Conocer y resolver los incidentes y recursos previstos en la presente Ley o los que se regulen en otras disposiciones jurídicas de la materia y que le atribuyan dicha competencia;
 
-IV. Resolver sobre el pedimento que formulen los sentenciados en caso de sustitución o suspensión condicional de la pena de prisión previstos en el Artículo 375 de la Legislación Penal;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2013)</small>
+
+IV. Resolver sobre el pedimento que formulen los sentenciados en caso de sustitución o suspensión condicional de la pena de prisión previstos en el Artículo 53 del Código Penal;
 
 V. Autorizar permisos de salida, en los términos previstos por la presente Ley;
 
-VI. Resolver sobre las solicitudes de restitución o rehabilitación de derechos, funciones o empleo, en los términos de la Legislación Penal y la presente Ley;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VII. Declarar la extinción de las penas y medidas de seguridad y ordenar su cesación cuando proceda en los términos previstos por la Legislación Penal y esta Ley;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2013)</small>
+
+VI. Resolver sobre las solicitudes de restitución o rehabilitación de derechos, funciones o empleo, en los términos del Código Penal y la presente Ley;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2013)</small>
+
+VII. Declarar la extinción de las penas y medidas de seguridad y ordenar su cesación cuando proceda en los términos previstos por el Código Penal;
 
 VIII. Resolver sobre las propuestas de otorgamiento de la libertad preparatoria o de preliberación que se le formulen;
 
@@ -325,7 +351,11 @@ XVI. Los jueces de ejecución de penas deberán necesariamente resolver en audie
 
 XVII. Conocer de las peticiones de traslado que formulen internos, las autoridades penitenciarias o autoridades de otras entidades federativas o del Gobierno Federal;
 
-XVIII. Modificar, adecuar o declarar extinta la sanción de prisión en la fase de ejecución en los términos que la Legislación Penal y esta Ley establecen; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2013)</small>
+
+XVIII. Modificar, adecuar o declarar extinta la sanción de prisión en la fase de ejecución en los términos que el Código Penal y esta Ley establecen; y
 
 XIX. Las demás que les encomienden las leyes y disposiciones jurídicas aplicables.
 
@@ -341,9 +371,13 @@ El Magistrado Especializado en Ejecución de Penas y Medidas de Seguridad tendr�
 
 El Magistrado Especializado en Ejecución de Penas y Medidas de Seguridad, será competente para conocer el recurso de apelación que se interponga contra las resoluciones que dicten los jueces de ejecución.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2013)</small>
+
 ###### ARTÍCULO 22.
 
-La competencia territorial del Magistrado Especializado en Ejecución de Penas y Medidas de Seguridad, será de conformidad con lo dispuesto en la Legislación Penal y la Ley Orgánica del Poder Judicial del Estado de Aguascalientes.
+La competencia territorial del Magistrado Especializado en Ejecución de Penas y Medidas de Seguridad, será de conformidad con lo dispuesto en el Código Procesal y la Ley Orgánica del Poder Judicial del Estado de Aguascalientes.
 
 ###### ARTÍCULO 23.
 
@@ -367,9 +401,13 @@ El Ministerio Público intervendrá en las actuaciones y diligencias legales que
 
 En los procedimientos de ejecución de las penas y medidas de seguridad habrá, por lo menos, un defensor de oficio o el particular que designe el sentenciado.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2013)</small>
+
 ###### ARTÍCULO 28.
 
-La labor del defensor nombrado en el proceso penal continuará durante la ejecución de sentencia o medida de seguridad, pero si existiere algún inconveniente o incompatibilidad, el defensor podrá renunciar al ejercicio de la defensa y el sentenciado podrá designar nuevo defensor, o en su caso, se le designará un defensor público por el Juez de Ejecución, en términos de la Legislación Penal.
+La labor del defensor nombrado en el proceso penal continuará durante la ejecución de sentencia o medida de seguridad, pero si existiere algún inconveniente o incompatibilidad, el defensor podrá renunciar al ejercicio de la defensa y el sentenciado podrá designar nuevo defensor, o en su caso, se le designará un defensor público por el Juez de Ejecución, en términos del Código Procesal.
 
 Durante la ejecución de sentencia o medida judicial el ejercicio de la defensa consistirá en el asesoramiento al sentenciado, cuando se requiera, para la realización de todos los actos necesarios para proteger sus derechos, así como su presencia obligada en todas las audiencias públicas a las que deba concurrir.
 
@@ -377,9 +415,13 @@ Durante la ejecución de sentencia o medida judicial el ejercicio de la defensa 
 
 El departamento técnico jurídico del Centro, coordinará sus actividades con las de los defensores nombrados, a fin de brindar asesoría legal a los detenidos, procesados y sentenciados.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2013)</small>
+
 ###### ARTÍCULO 30.
 
-Los defensores de oficio, además de las obligaciones señaladas en la Constitución Política de los Estados Unidos Mexicanos, la Legislación Penal, la Ley del Instituto de Asesoría y Defensoría Pública del Estado de Aguascalientes y su reglamento, cuando les sea solicitado, deberán:
+Los defensores de oficio, además de las obligaciones señaladas en la Constitución Política de los Estados Unidos Mexicanos, el Código Procesal, la Ley del Instituto de Asesoría y Defensoría Pública del Estado de Aguascalientes y su reglamento, cuando les sea solicitado, deberán:
 
 I. Proporcionar asesoría técnico jurídica en la realización de cualquier trámite relacionado con la ejecución de las penas y medidas de seguridad;
 
@@ -407,9 +449,13 @@ Cuando se tenga por cumplida alguna de las sanciones penales, el Juez de Ejecuci
 
 Compete al Juez de la causa resolver sobre los sustitutivos y la suspensión condicional de las penas privativas de libertad impuestas en la misma sentencia dictada. En el caso de que dicho Juez no se pronuncie sobre tales beneficios, el Juez de Ejecución será competente para otorgarlos.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2013)</small>
+
 ###### ARTÍCULO 35.
 
-Por cada sentencia ejecutoria, el Juez de Ejecución abrirá un registro en el que llevará noticia de los acuerdos y del cumplimiento exacto de las penas y medidas de seguridad que se hayan ordenado y ejecutado. Las constancias del registro de ejecución se ajustarán a las formalidades exigidas para las actuaciones en las primeras fases del procedimiento penal señaladas en la Legislación Penal y las establecidas en esta Ley.
+Por cada sentencia ejecutoria, el Juez de Ejecución abrirá un registro en el que llevará noticia de los acuerdos y del cumplimiento exacto de las penas y medidas de seguridad que se hayan ordenado y ejecutado. Las constancias del registro de ejecución se ajustarán a las formalidades exigidas para las actuaciones en las primeras fases del procedimiento penal señaladas en el Código Procesal y las establecidas en esta Ley.
 
 ###### ARTÍCULO 36.
 
@@ -437,7 +483,11 @@ II. Si se requiere producción de prueba con el fin de sustentar la revisión, s
 
 Para que pueda ser admitido un medio de prueba deberá ser pertinente y útil para resolver sobre la procedencia o falta de procedencia de la petición. Son inadmisibles los medios de prueba ilícitos por haber sido obtenidos, incorporados y producidos con violación a la ley o a los derechos humanos y fundamentales de las personas;
 
-III. El Juez de Ejecución dirigirá el debate, ordenará y autorizará las lecturas pertinentes, hará las advertencias que correspondan, tomará las protestas legales y moderará la discusión. Asimismo, tendrá poder de disciplina en la audiencia y cuidará que se mantenga el buen orden para lo cual podrá aplicar las correcciones referidas en el Artículo 282 de la Legislación Penal. El Juez de Ejecución desahogará la audiencia de la siguiente manera:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2013)</small>
+
+III. El Juez de Ejecución dirigirá el debate, ordenará y autorizará las lecturas pertinentes, hará las advertencias que correspondan, tomará las protestas legales y moderará la discusión. Asimismo, tendrá poder de disciplina en la audiencia y cuidará que se mantenga el buen orden para lo cual podrá aplicar las correcciones disciplinarias previstas en el Código de Procesal (sic). El Juez de Ejecución desahogará la audiencia de la siguiente manera:
 
 a) Verificará las condiciones para que se lleve a cabo la audiencia y se rindan, en su caso, los medios de prueba ofrecidos;
 
@@ -593,7 +643,11 @@ La prisión consiste en la privación de la libertad personal del responsable de
 
 El interno podrá ejercer, durante la ejecución de la sanción penal o de la prisión preventiva, todos los derechos que las leyes le otorgan y los que se desprenden de los principios consagrados en esta Ley, excepto por las restricciones que expresamente prevén las leyes relativas y la sentencia, así como aquellas restricciones a sus derechos que aún cuando no se hubieren hecho explícitas fueren consecuencia necesaria y directa de la reclusión. Los jueces de ejecución garantizarán el respeto de los derechos de los internos.
 
-Los sentenciados por los delitos de Homicidio Doloso previsto en los Artículos 3º y 5º; Homicidio Doloso Calificado previsto en el Artículo 13; Corrupción de Menores previsto en el Artículo 22 fracciones II, III, IV y V; Violación previsto en el Artículo 24; Violación Equiparada prevista en el Artículo 25; Abuso Sexual previsto en el Artículo 26; Abuso Sexual Equiparado previsto en el Artículo 27; Desaparición Forzada de Personas previsto en el Artículo 39; Secuestro previsto en el Artículo 40, 40 A y Secuestro Exprés previsto en el Artículo 41; Ejercicio Indebido del Servicio Público, previsto en las Fracciones XXXIII a XXXVI del Artículo 69; y Trata de personas previsto en el Artículo 43 B; todos de la Legislación Penal, no gozarán de los beneficios que otorga esta ley en materia de sustitución o suspensión condicional de la pena de prisión, libertad preparatoria o de preliberación, o cualquier otro beneficio relacionado con las penas o medidas de seguridad impuestas en la sentencia definitiva.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2013)</small>
+
+Los sentenciados por los delitos de Homicidio Doloso previsto en los Artículos 97 y 99; Homicidio Doloso Calificado previsto en el Artículo 107; Corrupción de Menores e Incapaces previsto en el Artículo 116 fracciones II, III, IV y V; Violación previsto en el Artículo 119; Violación Equiparada prevista en el Artículo 120; Abuso Sexual previsto en el Artículo 122; Abuso Sexual Equiparado previsto en el Artículo 123; Desaparición Forzada de Personas previsto en el Artículo 136; y Ejercicio Indebido del Servicio Público, previsto en las Fracciones XXXIII a XXXVI del Artículo 169; todos del Código Penal; Secuestro, en cualquiera de las modalidades previstas en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, reglamentaria de la Fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos; Trata de Personas, en cualquiera de las modalidades previstas en la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos; y Tortura previsto en los Artículos 3° y 4° de la Ley para Prevenir y Sancionar la Tortura en el Estado de Aguascalientes, no gozarán de los beneficios que otorga esta ley en materia de sustitución o suspensión condicional de la pena de prisión, libertad preparatoria o de preliberación, o cualquier otro beneficio relacionado con las penas o medidas de seguridad impuestas en la sentencia definitiva.
 
 ###### ARTÍCULO 54.
 
@@ -1391,7 +1445,11 @@ Los requisitos señalados se acreditarán con los informes que rinda la Direcci�
 
 Los días laborados que se computen para este beneficio serán acumulados para el porcentaje que se exige en los demás beneficios.
 
-Los sentenciados por los delitos de Homicidio Doloso previsto en los Artículos 3º y 5º; Homicidio Doloso Calificado previsto en el artículo 13; Corrupción de Menores previsto en el Artículo 22 Fracciones II, III, IV y V; Violación previsto en el Artículo 24; Violación Equiparada prevista en el Artículo 25; Abuso Sexual previsto en el Artículo 26; Abuso Sexual Equiparado previsto en el Artículo 27; Desaparición Forzada de Personas previsto en el Artículo 39; Secuestro previsto en el Artículo 40, 40 A y Secuestro Exprés previsto en el Artículo 41; Ejercicio Indebido del Servicio Público, previsto en las Fracciones XXXIII a XXXVI del Artículo 69; y Trata de personas previsto en el Artículo 43 B; todos de la Legislación Penal, no gozarán de los beneficios que otorga esta ley en materia de remisión parcial de la pena.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2013)</small>
+
+Los sentenciados por los delitos de Homicidio Doloso previsto en los Artículos 97 y 99; Homicidio Doloso Calificado previsto en el Artículo 107; Corrupción de Menores e Incapaces previsto en el Artículo 116 fracciones II, III, IV y V; Violación previsto en el Artículo 119; Violación Equiparada prevista en el Artículo 120; Abuso Sexual previsto en el Artículo 122; Abuso Sexual Equiparado previsto en el Artículo 123; Desaparición Forzada de Personas previsto en el Artículo 136; y Ejercicio Indebido del Servicio Público, previsto en las Fracciones XXXIII a XXXVI del Artículo 169; todos del Código Penal; Secuestro, en cualquiera de las modalidades previstas en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, reglamentaria de la Fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos; Trata de Personas, en cualquiera de las modalidades previstas en la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos; y Tortura previsto en los Articulas 3° y 4° de la Ley para Prevenir y Sancionar la Tortura en el Estado de Aguascalientes, no gozarán de los beneficios que otorga esta ley en materia de remisión parcial de la pena.
 
 ### CAPÍTULO III. Reducción de la Pena por Reparación del Daño
 
@@ -1399,7 +1457,11 @@ Los sentenciados por los delitos de Homicidio Doloso previsto en los Artículos 
 
 La reducción de la pena por reparación del daño consiste en la disminución de una cuarta parte de la pena de prisión a la que hubiese sido sentenciado el interno.
 
-Para el otorgamiento de esta figura, se requiere que el sentenciado acredite ante el Juez de Ejecución haber reparado el monto total de la condena impuesta a título de reparación del daño y que además no haya sido sentenciado por los hechos punibles de Homicidio Doloso previsto en los Artículos 3º y 5º; Homicidio Doloso Calificado previsto en el Artículo 13; Corrupción de Menores previsto en el Artículo 22 fracciones II, III, IV y V; Violación previsto en el Artículo 24; Violación Equiparada prevista en el Artículo 25; Abuso Sexual previsto en el Artículo 26; Abuso Sexual Equiparado previsto en el Artículo 27; Desaparición Forzada de Personas previsto en el Artículo 39; Secuestro previsto en el Artículo 40, 40 A y Secuestro Exprés previsto en el Artículo 41; Ejercicio Indebido del Servicio Público, previsto en las Fracciones XXXIII a XXXVI del Artículo 69; y Trata de personas previsto en el Artículo 43 B; todos de la Legislación Penal.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2013)</small>
+
+Para el otorgamiento de esta figura, se requiere que el sentenciado acredite ante el Juez de Ejecución haber reparado el monto total de la condena impuesta a título de reparación del daño y que además no haya sido sentenciado por los hechos punibles de Homicidio Doloso previsto en los Artículos 97 y 99; Homicidio Doloso Calificado previsto en el Artículo 107; Corrupción de Menores e Incapaces previsto en el Artículo 116 fracciones II, III, IV y V; Violación previsto en el Artículo 119; Violación Equiparada prevista en el Artículo 120; Abuso Sexual previsto en el Artículo 122; Abuso Sexual Equiparado previsto en el Artículo 123; Desaparición Forzada de Personas previsto en el Artículo 136; y Ejercicio Indebido del Servicio Público, previsto en las Fracciones XXXIII a XXXVI del Artículo 169; todos del Código Penal; Secuestro, en cualquiera de las modalidades previstas en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, reglamentaria de la Fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos; Trata de Personas, en cualquiera de las modalidades previstas en la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos; y Tortura previsto en los Artículos 3° y 4° de la Ley para Prevenir y Sancionar la Tortura en el Estado de Aguascalientes.
 
 ### CAPÍTULO IV. Libertad Preparatoria y Preliberación
 
@@ -1417,11 +1479,19 @@ II. Que haya participado en las actividades, deportivas, educativas, culturales 
 
 III. Ofrecer dedicarse en un plazo determinado en el acuerdo de otorgamiento del beneficio, a un oficio, arte, industria, profesión o cualquier otra actividad honesta para vivir;
 
-IV. Que haya reparado totalmente los daños y perjuicios causados o se establezca convenio de pago, en términos de la Legislación Penal, ante la autoridad judicial; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2013)</small>
+
+IV. Que haya reparado totalmente los daños y perjuicios causados o se establezca convenio de pago, en términos del Código Procesal, ante la autoridad judicial; y
 
 V. No estar sujeto a otro procedimiento penal en el que se le haya decretado prisión preventiva.
 
-No se concederán los beneficios de libertad preparatoria a los sentenciados por hechos punibles de Homicidio Doloso previsto en los Artículos 3º y 5º; Homicidio Doloso Calificado previsto en el Artículo 13; Corrupción de Menores previsto en el Artículo 22 fracciones II, III, IV y V; Violación previsto en el Artículo 24; Violación Equiparada prevista en el Artículo 25; Abuso Sexual previsto en el Artículo 26; Abuso Sexual Equiparado previsto en el Artículo 27; Desaparición Forzada de Personas previsto en el Artículo 39; Secuestro previsto en el Artículo 40, 40 A y Secuestro Exprés previsto en el Artículo 41; Ejercicio Indebido del Servicio Público, previsto en las Fracciones XXXIII a XXXVI del Artículo 69; Trata de personas previsto en el Artículo 43 B; todos de la Legislación Penal.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2013)</small>
+
+No se concederán los beneficios de libertad preparatoria a los sentenciados por hechos punibles de Homicidio Doloso previsto en los Artículos 97 y 99; Homicidio Doloso Calificado previsto en el Artículo 107; Corrupción de Menores e Incapaces previsto en el Artículo 116 fracciones II, III, IV y V; Violación previsto en el Artículo 119; Violación Equiparada prevista en el Artículo 120; Abuso Sexual previsto en el Artículo 122; Abuso Sexual Equiparado previsto en el Artículo 123; Desaparición Forzada de Personas previsto en el Artículo 136; y Ejercicio Indebido del Servicio Público, previsto en las Fracciones XXXIII a XXXVI del Artículo 169; todos del Código Penal; Secuestro, en cualquiera de las modalidades previstas en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, reglamentaria de la Fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos; Trata de Personas, en cualquiera de las modalidades previstas en la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos; y Tortura previsto en los Artículos 3° y 4° de la Ley para Prevenir y Sancionar la Tortura en el Estado de Aguascalientes.
 
 ###### ARTÍCULO 161.
 
@@ -1449,7 +1519,11 @@ La preliberación será otorgada por el Juez de Ejecución, y consiste en la obt
 
 Para la concesión de este beneficio, La Dirección General recabará y remitirá al Juez de Ejecución el informe a que se refiere el Artículo 161 de esta Ley. El sentenciado tendrá posibilidad de ofrecer su prueba.
 
-No se concederá el beneficio de preliberación a los sentenciados por hechos punibles de Homicidio Doloso previsto en los Artículos 3º y 5º; Homicidio Doloso Calificado previsto en el Artículo 13; Corrupción de Menores previsto en el Artículo 22 Fracciones II, III, IV y V; Violación previsto en el Artículo 24; Violación Equiparada prevista en el Artículo 25; Abuso Sexual previsto en el Artículo 26; Abuso Sexual Equiparado previsto en el Artículo 27; Desaparición Forzada de Personas previsto en el Artículo 39; Secuestro previsto en el Artículo 40, 40 A y Secuestro Exprés previsto en el Artículo 41; Ejercicio Indebido del Servicio Público, previsto en las Fracciones XXXIII a XXXVI del Artículo 69; Trata de personas previsto en el Artículo 43 B; todos de la Legislación Penal.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2013)</small>
+
+No se concederá el beneficio de preliberación a los sentenciados por hechos punibles de Homicidio Doloso previsto en los Artículos 97 y 99; Homicidio Doloso Calificado previsto en el Artículo 107; Corrupción de Menores e Incapaces previsto en el Artículo 116 fracciones II, III, IV y V; Violación previsto en el Artículo 119; Violación Equiparada prevista en el Artículo 120; Abuso Sexual previsto en el Artículo 122; Abuso Sexual Equiparado previsto en el Artículo 123; Desaparición Forzada de Personas previsto en el Artículo 136; y Ejercicio Indebido del Servicio Público, previsto en las Fracciones XXXIII a XXXVI del Artículo 169; todos del Código Penal; Secuestro, en cualquiera de las modalidades previstas en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, reglamentaria de la Fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos; Trata de Personas, en cualquiera de las modalidades previstas en la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos; y Tortura previsto en los Artículos 3° y 4° de la Ley para Prevenir y Sancionar la Tortura en el Estado de Aguascalientes.
 
 ### CAPÍTULO V. Indulto
 
@@ -1477,7 +1551,11 @@ II. Los que hubieren sido condenados por sentencia ejecutoria varias veces, dura
 
 III. Los que por sus antecedentes o conducta dentro del Centro de Reeducación Social revelen un estado peligroso que haga aconsejable su no reintegración al seno de la sociedad, a juicio del área técnica del Centro; y
 
-IV. A los que hayan sido sentenciados por hechos punibles de Homicidio Doloso previsto en los Artículos 3º y 5º; Homicidio Doloso Calificado previsto en el Artículo 13; Corrupción de Menores previsto en el Artículo 22 Fracciones II, III, IV y V; Violación previsto en el Artículo 24; Violación Equiparada prevista en el Artículo 25; Abuso Sexual previsto en el Artículo 26; Abuso Sexual Equiparado previsto en el Artículo 27; Desaparición Forzada de Personas previsto en el Artículo 39; Secuestro previsto en el Artículo 40, 40 A y Secuestro Exprés previsto en el artículo 41; Ejercicio Indebido del Servicio Público, previsto en las Fracciones XXXIII a XXXVI del Artículo 69; Trata de personas previsto en el Artículo 43 B; todos de la Legislación Penal.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2013)</small>
+
+IV. A los que hayan sido sentenciados por hechos punibles de Homicidio Doloso previsto en los Artículos 97 y 99; Homicidio Doloso Calificado previsto en el Artículo 107; Corrupción de Menores e Incapaces previsto en el Artículo 116 fracciones II, III, IV y V; Violación previsto en el Artículo 119; Violación Equiparada prevista en el Artículo 120; Abuso Sexual previsto en el Artículo 122; Abuso Sexual Equiparado previsto en el Artículo 123; Desaparición Forzada de Personas previsto en el Artículo 136; y Ejercicio Indebido del Servicio Público, previsto en las Fracciones XXXIII a XXXVI del Artículo 169; todos del Código Penal; Secuestro, en cualquiera de las modalidades previstas en la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, reglamentaria de la Fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos; Trata de Personas, en cualquiera de las modalidades previstas en la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos; y Tortura previsto en los Artículos 3° y 4° de la Ley para Prevenir y Sancionar la Tortura en el Estado de Aguascalientes.
 
 ###### ARTÍCULO 166.
 
@@ -1557,29 +1635,39 @@ Todas las cantidades que se reciban por concepto de pago de reparación de daño
 
 Estas disposiciones serán aplicables, en lo conducente, cuando se trate de ejecutar el pago de reparación de daños y perjuicios en los procedimientos especiales para inimputables.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### ARTÍCULO 174.
 
-La acción para exigir la reparación del daño a personas distintas del inculpado, debe ejercitarse por quien tenga derecho a ello, ante el tribunal que conozca de lo penal; pero deberá intentarse y seguirse ante los tribunales del fuero civil, en el juicio que corresponda, cuando haya recaído sentencia irrevocable en el procedimiento sin haberse intentado dicha acción, siempre que el que la intente fuere un particular. Esto último se observará también cuando, concluida la instrucción, no hubiese lugar a juicio penal por falta de acusación del Ministerio Público y se promueva posteriormente la acción civil.
+(DEROGADO, P.O. 20 DE MAYO DE 2013)
 
-Cuando promovidas las dos acciones hubiese concluido el procedimiento sin que el incidente de reparación del daño esté en estado de sentencia, continuará conociendo de él el tribunal ante quien se haya iniciado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 175.
 
-Todos los incidentes sobre reparación del daño exigible a terceras personas, que se sigan ante los tribunales penales, se tramitarán y decidirán conforme a lo que disponga el Código de Procedimientos Civiles para los juicios únicos y se tramitará por separado. Las notificaciones se harán en la forma que señala la Legislación Penal.
+(DEROGADO, P.O. 20 DE MAYO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 176.
 
-Si el incidente llega al estado de alegar antes de que se concluya la instrucción, se suspenderá hasta que el procedimiento se encuentre en estado de sentencia, la que se pronunciará resolviendo a la vez sobre la acción penal y sobre la reparación del daño exigible a personas distintas del inculpado, produciéndose los alegatos en la audiencia del procedimiento penal.
+(DEROGADO, P.O. 20 DE MAYO DE 2013)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 177.
 
-En el caso de hallarse prófugo el procesado, se continuará la tramitación del incidente hasta dictarse sentencia.
+(DEROGADO, P.O. 20 DE MAYO DE 2013)
 
 ### CAPÍTULO III. Decomiso y Pérdida de los Instrumentos y Objetos Relacionados con el Delito
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2013)</small>
+
 ###### ARTÍCULO 178.
 
-Una vez recibida copia de la sentencia ejecutoria, la Dirección General verificará si el tribunal ha ordenado el decomiso y pérdida de los instrumentos y objetos relacionados con el delito. En ese caso, se determinarán exactamente los objetos e instrumentos a decomisar y de los cuales deba perderse la propiedad, para el efecto de que se hagan los trámites correspondientes por el personal de la Dirección General, levantándose constancia en el momento de realizar aquéllos, en términos de lo dispuesto por la Legislación Penal.
+Una vez recibida copia de la sentencia ejecutoria, la Dirección General verificará si el tribunal ha ordenado el decomiso y pérdida de los instrumentos y objetos relacionados con el delito. En ese caso, se determinarán exactamente los objetos e instrumentos a decomisar y de los cuales deba perderse la propiedad, para el efecto de que se hagan los trámites correspondientes por el personal de la Dirección General, levantándose constancia en el momento de realizar aquéllos, en términos de lo dispuesto por el Código Penal.
 
 ### CAPÍTULO IV. Del Trabajo en Favor de la Comunidad
 
@@ -1587,7 +1675,11 @@ Una vez recibida copia de la sentencia ejecutoria, la Dirección General verific
 
 Una vez recibida copia de la sentencia ejecutoria en la que se imponga la pena de trabajo en favor de la comunidad, la Dirección General asignará al sentenciado en instituciones públicas educativas o de asistencia social o en instituciones privadas asistenciales, sobre la base de los convenios que celebre la Dirección General con dichas instituciones, determinando los días y el horario en el que deberá cumplimentarse la pena impuesta, y registrará el inicio del cumplimiento de la ejecución a partir de la primera comparecencia del sentenciado a la prestación del trabajo a favor de la comunidad.
 
-La imposición de esta pena se regulará conforme a las reglas previstas en el Artículo 365 Bis de la Legislación Penal.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2013)</small>
+
+La imposición de esta pena se regulará conforme a las reglas previstas en el Artículo 44 del Código Penal.
 
 ###### ARTÍCULO 180.
 
@@ -1641,7 +1733,11 @@ Una vez recibida copia de la sentencia ejecutoria en la que se establezca que el
 
 Durante la ejecución de la medida, la institución responsable informará periódicamente al Juez de Ejecución en los términos que este determine.
 
-El sentenciado que se considere afectado por la naturaleza y duración del tratamiento o por no haberse observado lo establecido en la Legislación Penal en esta materia, podrá solicitar la reconsideración de la medida ante el Juez (sic) Ejecución.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2013)</small>
+
+El sentenciado que se considere afectado por la naturaleza y duración del tratamiento o por no haberse observado lo establecido en el Código Procesal en esta materia, podrá solicitar la reconsideración de la medida ante el Juez Ejecución.
 
 ### CAPÍTULO IV. Sujeción a Vigilancia de la Autoridad
 
@@ -1770,3 +1866,63 @@ Carlos Lozano de la Torre.
 EL JEFE DE GABINETE,
 
 Lic. Antonio Javier Aguilera García.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 20 DE MAYO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia a los sesenta días naturales contados a partir de su publicación en el Periódico Oficial del Estado, a excepción del Código de Procedimientos Penales para el Estado de Aguascalientes contenido en el Artículo Tercero.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deroga la Legislación Penal para el Estado de Aguascalientes publicada en el Periódico Oficial del Estado el 21 de julio de 2003 mediante decreto número 97.
+
+###### ARTÍCULO TERCERO.
+
+La incorporación del sistema procesal penal acusatorio en el Estado de Aguascalientes será gradual, y en consecuencia la vigencia y aplicación del Código de Procedimientos Penales para el Estado de Aguascalientes contenido en el Artículo Tercero del presente Decreto será progresiva, conforme a las siguientes fechas:
+
+I.- El 16 de junio de 2014 en el quinto partido judicial con sede en Jesús María, respecto de los hechos punibles considerados de querella previstos en el Artículo 166 del Código de Procedimientos Penales contenido en el Artículo Tercero, y de hechos punibles patrimoniales no violentos;
+
+II.- El 5 de enero de 2015 en el tercer y cuarto partidos judiciales con sede en Pabellón y Rincón de Romos, respecto de los hechos punibles considerados de querella previstos en el Artículo 166 del Código de Procedimientos Penales contenido en el Artículo Tercero, y de hechos punibles patrimoniales no violentos;
+
+III.- El 1 de junio de 2015 en el primer y segundo partidos judiciales con sede en Aguascalientes y Calvillo, respecto de los hechos punibles considerados de querella previstos en el Artículo 166 del Código de Procedimientos Penales contenido en el Artículo Tercero, y de hechos punibles patrimoniales no violentos;
+
+IV.- El 1 de junio de 2015 en el quinto partido judicial con sede en Jesús María, respecto de los hechos punibles no considerados de prisión preventiva oficiosa;
+
+V.- El 4 de enero de 2016 en el quinto partido judicial con sede en Jesús María, respecto de la totalidad de hechos punibles;
+
+VI.- El 4 de enero de 2016 en el tercer y cuarto partidos judiciales con sede en Pabellón y Rincón de Romos, respecto de los hechos punibles no considerados de prisión preventiva oficiosa; y
+
+VII.- El 18 de junio de 2016, en el primer, segundo, tercer y cuarto partidos judiciales con sede en Aguascalientes, Calvillo, Pabellón y Rincón de Romos, respecto de la totalidad de hechos punibles.
+
+Lo anterior con la salvedad del caso de que ya se hubiere incorporado alguna fase, principios procesales o derechos en legislaciones vigentes relacionadas con el Sistema Penal Acusatorio.
+
+###### ARTÍCULO CUARTO.
+
+Las disposiciones del Código de Procedimientos Penales contenido en el Artículo Tercero del presente Decreto, se aplicarán a hechos que ocurran a partir de las cero horas de las fechas y partidos judiciales en que de manera progresiva entre en vigencia el sistema procesal penal acusatorio, de acuerdo a lo dispuesto en el Artículo Segundo Transitorio.
+
+###### ARTÍCULO QUINTO.
+
+Quedarán derogados los preceptos del Código de Procedimientos Penales para el Estado de Aguascalientes contenido en el Artículo Segundo del presente Decreto de manera progresiva y gradual, conforme a la incorporación del sistema procesal penal acusatorio en términos del Artículo Tercero Transitorio, con la salvedad de los procedimientos que se estén tramitando con base en sus disposiciones, en cuyo caso se seguirán aplicando hasta su resolución.
+
+###### ARTÍCULO SEXTO.
+
+A partir de que entre en vigencia el presente Decreto, en los trámites iniciados conforme a la Legislación Penal para el Estado de Aguascalientes abrogada, las autoridades que conozcan de la etapa procesal que corresponda, podrán efectuar la traslación y aplicación de las nuevas disposiciones procedimentales en la medida que sean conducentes.
+
+En el caso del Código Penal para el Estado de Aguascalientes, si éste denomina, penaliza o agrava de forma diversa descripciones típicas previstas en la Legislación Penal para el Estado de Aguascalientes abrogada, se estará a lo siguiente:
+
+I.- Instaurado el proceso y sin que aún no se formulen conclusiones acusatorias, el Ministerio Público las formulará de conformidad con la traslación del tipo que resulte; y
+
+II.- En los procesos pendientes de dictarse sentencia en primera y segunda instancia, el juez o el Tribunal respectivamente, podrán efectuar la traslación del tipo de conformidad con la conducta descrita en el Código Penal para el Estado de Aguascalientes.
+
+Las reglas establecidas en este transitorio también se aplicarán en lo conducente a los procedimientos tramitados con base en la Ley del Sistema de Justicia para Adolescentes del Estado de Aguascalientes.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Congreso del Estado preverá una partida especial para solventar las erogaciones necesarias para la adecuada implementación del sistema procesal penal acusatorio.
+
+###### ARTÍCULO OCTAVO.
+
+A partir del inicio de vigencia del presente Decreto, toda referencia a la Legislación Penal para el Estado de Aguascalientes que se realice en otras leyes se entenderá hecha al Código Penal para el Estado de Aguascalientes o al Código de Procedimientos Penales para el Estado de Aguascalientes, según corresponda.
