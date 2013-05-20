@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-sistema-de-justicia-para-adolescentes-del-estado-de-517
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-11"
-last_updated: "2008-09-01"
+last_updated: "2013-05-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51704&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL SISTEMA DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE AGUASCALlENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE SEPTIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2013.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 11 de septiembre de 2006.
 
@@ -45,29 +45,49 @@ LEY DEL SISTEMA DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE AGUASCALlENTES
 
 ### CAPÍTULO I. De las Disposiciones Generales
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2013)</small>
+
 ###### Artículo 1°.
 
-La presente Ley es de orden público e interés general y tiene como objeto establecer en términos del artículo 18 de la Constitución Política de los Estados Unidos Mexicanos, el Sistema de Justicia para Adolescentes del Estado de Aguascalientes, de aplicación para toda persona mayor de doce y menor de dieciocho años de edad a quien se les atribuya la realización de un hecho punible descrito por alguna figura típica prevista en la Legislación Penal para el Estado de Aguascalientes.
+La presente Ley es de orden público e interés general y tiene como objeto establecer en términos del Artículo 18 de la Constitución Política de los Estados Unidos Mexicanos, el Sistema de Justicia para Adolescentes del Estado de Aguascalientes, de aplicación para toda persona de entre los doce años y menor de dieciocho años de edad a quien se les atribuya la realización de un hecho punible descrito por alguna figura típica prevista en el Código Penal para el Estado de Aguascalientes o alguna otra norma.
 
 ###### Artículo 2°.
 
 Son sujetos de esta Ley:
 
-I. Las personas de entre los 12 años y menores de 18 años de edad, a quienes se atribuya la realización de un hecho punible descrito por alguna figura típica prevista en la Legislación Penal para el Estado de Aguascalientes;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2013)</small>
+
+I. Las personas de entre los 12 años y menores de 18 años de edad, a quienes se atribuya la realización de un hecho punible descrito por alguna figura típica prevista en el Código Penal para el Estado de Aguascalientes o alguna otra norma;
 
 II. Las personas menores de 18 años que en el transcurso del proceso que se siga con motivo de la aplicación de la presente Ley, cumplan los 18 años;
 
-III. Las personas mayores de 18 años, cuando se les atribuya la realización de un hecho punible descrito por alguna figura típica prevista en la Legislación Penal para el Estado de Aguascalientes, cometida cuando eran menores de 18 años y mayores de 12 años de edad; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IV. Las víctimas u ofendidos por la realización de hechos punibles descritos por alguna figura típica prevista en la Legislación Penal para el Estado de Aguascalientes. Esta Ley se aplicará a los sujetos señalados en las fracciones I a la III, cuando el hecho punible descrito por la figura típica se realice en el Estado o según las reglas previstas por el artículo 122 de la Legislación Penal para el Estado de Aguascalientes.
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2013)</small>
+
+III. Las personas mayores de 18 años, cuando se les atribuya la realización de un hecho punible descrito por alguna figura típica prevista en el Código Penal para el Estado de Aguascalientes o alguna otra norma, cometida cuando eran menores de 18 años y mayores de 12 años de edad; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2013)</small>
+
+IV. Las víctimas u ofendidos por la realización de hechos punibles descritos por alguna figura típica prevista en el Código Penal para el Estado de Aguascalientes o alguna otra norma. Esta Ley se aplicará a los sujetos señalados en las fracciones I a la III, cuando el hecho punible descrito por la figura típica se realice en el Estado o según las reglas previstas por los Artículos 7°, 8° y 9° del Código Penal para el Estado de Aguascalientes.
 
 ###### Artículo 3°.
 
 Cuando exista duda si se trata de una persona mayor o menor de 18 años de edad, a quien se le imputa la comisión de un hecho punible descrito por una figura típica, se presumirá que es adolescente; cuando la duda sea si la persona es mayor o menor de 12 años, se presumirá niña o niño. La edad del sujeto se comprobará mediante documento idóneo o a través de dictamen médico rendido por los peritos que para tal efecto designe la autoridad correspondiente.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2013)</small>
+
 ###### Artículo 4°.
 
-En caso de que el hecho punible típico se inicie cuando el sujeto a quien se le atribuya su realización tenga más de 14 años y menos 18 años de edad, pero su consumación se prolongue en el tiempo hasta después de que éste cumpla 18 años de edad, la Ley aplicable será la Legislación Penal para el Estado de Aguascalientes.
+En caso de que el hecho punible típico se inicie cuando el sujeto a quien se le atribuya su realización tenga más de 14 años y menos 18 años de edad, pero su consumación se prolongue en el tiempo hasta después de que éste cumpla 18 años de edad, las leyes aplicables serán el Código Penal para el Estado de Aguascalientes y el Código de Procedimientos Penales para el Estado de Aguascalientes, en lo conducente.
 
 ###### Artículo 5°.
 
@@ -105,15 +125,21 @@ XIV Consejo Técnico: Al órgano técnico dependiente de la Secretaría de Segur
 
 La interpretación y aplicación de esta Ley debe ser de conformidad con sus principios rectores, la Constitución Política de los Estados Unidos Mexicanos y la propia del Estado, los tratados internacionales aplicables en la materia y las leyes respectivas, en la forma que garanticen los derechos fundamentales y específicos de los adolescentes y de minimizar los efectos negativos de la aplicación del Sistema.
 
-Sólo en lo no previsto por esta Ley, podrá aplicarse supletoriamente la Legislación Penal para el Estado de Aguascalientes, siempre que no se opongan a los principios rectores y ordenamientos referidos, protegiendo la integridad de los derechos y garantías de los adolescentes.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2013)</small>
+
+Sólo en lo no previsto por esta Ley, podrá aplicarse supletoriamente el Código Penal para el Estado de Aguascalientes y el Código de Procedimientos Penales para el Estado de Aguascalientes, siempre que no se opongan a los principios rectores y ordenamientos referidos, protegiendo la integridad de los derechos y garantías de los adolescentes.
 
 ###### Artículo 7°.
 
 Son principios rectores del Sistema, de manera enunciativa los siguientes:
 
-I. Interés superior de la adolescencia: Garantiza que toda medida que el Estado tome frente a los adolescentes, que realizan hechos punibles previstos en alguna norma o figura típica de la Legislación Penal, deba interpretarse y aplicarse siempre en el sentido de maximizar los derechos de los adolescentes y de restringir los efectos negativos de su sujeción al Sistema.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2013)</small>
+
+I. Interés superior de la adolescencia: Garantiza que toda medida que el Estado tome frente a los adolescentes, que realizan hechos punibles previstos en alguna figura típica del Código Penal para el Estado de Aguascalientes u otra norma, deba interpretarse y aplicarse siempre en el sentido de maximizar los derechos de los adolescentes y de restringir los efectos negativos de su sujeción al Sistema.
 
 Para determinar el interés superior se tomará en cuenta:
 
@@ -127,15 +153,17 @@ d) El equilibrio entre los derechos de terceros y los derechos del adolescente; 
 
 e) La condición específica del adolescente como persona en desarrollo.
 
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2008)</small>
-
 En dicha determinación, además de aplicarse los criterios establecidos en la Ley, se deberá valorar en su conjunto la situación del adolescente, haciendo uso de cualquier pauta, incluidas las de las ciencias no jurídicas, y con la ayuda de los equipos multidisciplinarios cuando resulte necesario;
 
 > <small>(F. DE E., P.O. 25 DE SEPTIEMBRE DE 2006)</small>
 
 II. Transversalidad: Exige que la interpretación y aplicación del Sistema tome en cuenta la totalidad de los derechos del adolescente, es decir, cualquier condición que resulte contingente en el momento en el que se le aplique el Sistema, y cuya finalidad sea lograr los objetivos de éste;
 
-III. Legalidad: Garantiza la aplicación del Sistema exclusivamente a los adolescentes que se les impute la realización de un hecho punible descrito por alguna figura típica prevista en la Legislación Penal para el Estado de Aguascalientes, de conformidad con lo previsto por la presente Ley;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2013)</small>
+
+III. Legalidad: Garantiza la aplicación del Sistema exclusivamente a los adolescentes que se les impute la realización de un hecho punible descrito por alguna figura típica prevista en el Código Penal para el Estado de Aguascalientes o alguna otra norma, de conformidad con lo previsto por la presente Ley;
 
 IV Certeza Jurídica: Garantiza la aplicación de las normas del Sistema y en los términos de las mismas, prevé la discrecionalidad en las decisiones de las autoridades del propio Sistema;
 
@@ -201,9 +229,11 @@ En caso de que el adolescente no nombre defensor o de que se limite a designar u
 
 El derecho a la defensa técnica es irrenunciable y su violación producirá la nulidad absoluta de las actuaciones que se realicen a partir de ese momento;
 
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VI. Conocimiento de la imputación: Tendrá derecho a ser informado directamente o, cuando sea procedente, por medio de sus padres o sus representantes legales, sin demora, en forma clara y precisa sobre los hechos punibles descritos por alguna figura típica en la Legislación Penal para el Estado de Aguascalientes, que se le atribuyen las razones por las que se le detiene, juzga o impone una medida; la persona que le atribuye la realización del hecho punible que encuadra dentro de alguna figura típica; las consecuencias de la atribución del hecho punible típico, así como de la detención, juicio y medida; los derechos y garantías que le asisten en todo momento; que podrá disponer de defensa jurídica gratuita y todo aquello que le interese respecto de su sujeción al Sistema;
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2013)</small>
+
+VI. Conocimiento de la imputación: Tendrá derecho a ser informado directamente o, cuando sea procedente, por medio de sus padres o sus representantes legales, sin demora, en forma clara y precisa sobre los hechos punibles descritos por alguna figura típica en el Código Penal para el Estado de Aguascalientes o alguna otra norma, que se le atribuyen las razones por las que se le detiene, juzga o impone una medida; la persona que le atribuye la realización del hecho punible que encuadra dentro de alguna figura típica; las consecuencias de la atribución del hecho punible típico, así como de la detención, juicio y medida; los derechos y garantías que le asisten en todo momento; que podrá disponer de defensa jurídica gratuita y todo aquello que le interese respecto de su sujeción al Sistema;
 
 VII. Garantía de la detención: Tendrá derecho a ser presentado inmediatamente y sin demora ante el Juez o el Ministerio Público especializado en adolescentes; siempre dentro de los plazos que establece esta Ley, así como a no ser conducido o detenido de modo que se afecte su dignidad o se le exponga a algún peligro;
 
@@ -217,7 +247,7 @@ X. Participación de los padres: Tendrá derecho a que sus padres, tutores o rep
 
 XI. Aplicación de la ley: Cuando a un adolescente puedan aplicársele dos leyes o normas diferentes, siempre se optará por la que resulte más favorable para sus derechos fundamentales;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2008)</small>
 
 XII. Privacidad: El adolescente tendrá derecho a que se le respete su vida privada y la de su familia, salvo cuando se encuentre prófugo y atendiendo a la peligrosidad y gravedad del delito; buscando preservar la seguridad de la sociedad.
 
@@ -229,7 +259,11 @@ XIII. Determinación de las medidas: En ningún caso, podrán ser sujetos de med
 
 XIV. Proporcionalidad y racionalidad: Las medidas que se impongan dentro del proceso, tendrán que ser racionales y proporcionales al hecho punible realizado descrito en la figura típica, y
 
-XV. Derecho a impugnar: Tendrán derecho a impugnar ante el Tribunal distinto del que emitió la decisión, en los supuestos previsto (sic) por esta Ley, cualquier auto o resolución que le cause un agravio irreparable.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2013)</small>
+
+XV. Derecho a impugnar: Tendrán derecho a impugnar ante el tribunal distinto del que emitió la decisión, en los supuestos previstos por esta Ley, cualquier auto o resolución que le cause un agravio irreparable.
 
 ###### Artículo 10.
 
@@ -287,7 +321,7 @@ XXI. Ser preparado psicológicamente para salir del centro de internamiento cuan
 
 XXII. Los demás previstos en esta Ley y en otros ordenamientos aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 11.
 
@@ -343,15 +377,23 @@ e) Los dependientes económicos.
 
 ### CAPÍTULO III. De la Responsabilidad de los Adolescentes frente a la ley Penal
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2013)</small>
+
 ###### Artículo 12.
 
-Los adolescentes serán responsables por infringir la Legislación Penal para el Estado de Aguascalientes, en los términos que se establecen en esta Ley.
+Los adolescentes serán responsables por infringir el Código Penal para el Estado de Aguascalientes o alguna otra norma, en los términos que se establecen en esta Ley.
 
-La persona menor de 12 años de edad a quien se le atribuya un hecho punible que encuadre dentro de una figura típica establecida en la Legislación Penal del Estado queda exento de toda responsabilidad penal, sin perjuicio de las responsabilidades civiles a las que haya lugar. Si los derechos de la persona menor de 12 años a quien se atribuye la comisión de un hecho punible típico se encuentran amenazados o vulnerados, la autoridad competente podrá remitir el caso a las instituciones públicas o privadas responsables de la protección de los derechos del niño o de la niña.
+La persona menor de 12 años de edad a quien se le atribuya un hecho punible que encuadre dentro de una figura típica establecida en el Código Penal para el Estado de Aguascalientes o alguna otra norma, queda exento de toda responsabilidad penal, sin perjuicio de las responsabilidades civiles a las que haya lugar. Si los derechos de la persona menor de 12 años a quien se atribuye la comisión de un hecho punible típico se encuentran amenazados o vulnerados, la autoridad competente podrá remitir el caso a las instituciones públicas o privadas responsables de la protección de los derechos del niño o de la niña.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2013)</small>
 
 ###### Artículo 13.
 
-Los adolescentes que al momento de realizar el hecho punible previsto en alguna figura típica establecida en la Legislación Penal, padezcan de algún trastorno mental que les impida comprender la trascendencia y las consecuencias del hecho punible típico realizado, quedan exentos de responsabilidad en los términos de la presente Ley, pero no de la reparación del daño. En estos casos, o bien cuando el trastorno se presente durante el procedimiento o en la fase de ejecución, la autoridad judicial competente podrá entregar estas personas a quienes legalmente corresponda hacerse cargo de ellas.
+Los adolescentes que al momento de realizar el hecho punible previsto en alguna figura típica establecida en el Código Penal para el Estado de Aguascalientes o alguna otra norma, padezcan de algún trastorno mental que les impida comprender la trascendencia y las consecuencias del hecho punible típico realizado, quedan exentos de responsabilidad en los términos de la presente Ley, pero no de la reparación del daño. En estos casos, o bien cuando el trastorno se presente durante el procedimiento o en la fase de ejecución, la autoridad judicial competente podrá entregar estas personas a quienes legalmente corresponda hacerse cargo de ellas.
 
 El Juez Especializado para Adolescentes, en su caso, podrá resolver sobre la adecuación de la medida, en forma provisional o definitiva, considerando las características del trastorno, así como las necesidades del tratamiento.
 
@@ -399,9 +441,13 @@ La violación de derechos y garantías de los adolescentes es causa de nulidad d
 
 ### CAPÍTULO II. Del Ministerio Público Especializado en Adolescentes
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2013)</small>
+
 ###### Artículo 19.
 
-Corresponde al Ministerio Público Especializado en Adolescentes, en los términos previstos por los artículos 18 y 21 de la Constitución Política de los Estados Unidos Mexicanos, y 60 de la Constitución Política del Estado de Aguascalientes, la investigación de los hechos punibles así previstos por las figuras típicas establecidas en la Legislación Penal con el objeto de comprobar el cuerpo del delito determinado en la figura típica correspondiente y el establecimiento de la probable responsabilidad; la persecución de sus autores, partícipes o cómplices cuando los probables responsables sean mayores de 12 años y menores de 18 años de edad, así como resolver sobre la remisión o no a la autoridad jurisdiccional competente, y todos los actos inherentes a su función acusadora, incluida la obligación de exigir la reparación de los daños y perjuicios.
+Corresponde al Ministerio Pública Especializado en Adolescentes, en los términos previstos por los Artículos 18 y 21 de la Constitución Política de los Estados Unidos Mexicanos, y 60 de la Constitución Política del Estado de Aguascalientes, la investigación de los hechos punibles así previstos por las figuras típicas establecidas en el Código Penal para el Estado de Aguascalientes o alguna otra norma, con el objeto de comprobar el cuerpo del delito determinado en la figura típica correspondiente y el establecimiento de la probable responsabilidad; la persecución de sus autores, partícipes o cómplices cuando los probables responsables sean mayores de 12 años y menores de 18 años de edad, así como resolver sobre la remisión o no a la autoridad jurisdiccional competente, y todos los actos inherentes a su función acusadora, incluida la obligación de exigir la reparación de los daños y perjuicios.
 
 Los agentes del Ministerio Público Especializado en Adolescentes se encuentran adscritos a la Procuraduría General de Justicia del Estado. Los criterios de organización, formación especializada y los procedimientos de ingreso, promoción, permanencia y terminación del cargo, serán definidos por esa dependencia. Sus atribuciones y funciones serán reguladas en la Ley Orgánica de la Procuraduría General de Justicia.
 
@@ -441,11 +487,17 @@ II. Resolver sobre la suspensión del proceso a prueba;
 
 III. Resolver sobre el otorgamiento, revisión, sustitución, modificación o cese de medidas cautelares;
 
-IV. Recabar la declaración preparatoria del adolescente a quien se le impute la realización de un hecho punible descrito en la figura típica prevista en la Legislación Penal para el Estado de Aguascalientes;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2013)</small>
 
-V. Resolver sobre la vinculación a proceso del adolescente a quien se le impute la realización de un hecho punible descrito en la figura típica prevista en la Legislación Penal;
+IV. Recabar la declaración preparatoria del adolescente a quien se le impute la realización de un hecho punible descrito en una figura típica prevista en el Código Penal para el Estado de Aguascalientes o alguna otra norma;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2013)</small>
+
+V. Resolver sobre la vinculación a proceso del adolescente a quien se le impute la realización de un hecho punible descrito en una figura típica prevista en el Código Penal para el Estado de Aguascalientes o alguna otra norma;
 
 VI. Resolver sobre la admisión de las pruebas que se desahogarán en la audiencia de juicio, y
 
@@ -483,7 +535,7 @@ Al Magistrado Especializado en Adolescentes, le corresponde conocer en segunda i
 
 ### CAPÍTULO V. Del Consejo Técnico
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 28.
 
@@ -611,7 +663,11 @@ VIII. Integrar un expediente de ejecución de las medidas impuestas que contenga
 
 A. Los datos de identidad del adolescente sujeto a la medida;
 
-B. El hecho punible descrito en la figura típica prevista en la Legislación Penal por la que fue impuesta la medida, las circunstancias y motivaciones de la misma y la autoridad judicial que la decretó;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2013)</small>
+
+B. El hecho punible descrito en la figura típica prevista en el Código Penal para el Estado de Aguascalientes o alguna otra norma por la que fue impuesta la medida, las circunstancias y motivaciones de la misma y la autoridad judicial que la decretó;
 
 C. Día y hora de inicio y finalización de la medida;
 
@@ -631,11 +687,13 @@ XI. Las demás que le confieran las leyes y reglamentos.
 
 ### CAPÍTULO VII. De los Policías Estatales y Municipales
 
-> <small>(F. DE E., P.O. 25 DE SEPTIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2013)</small>
 
 ###### Artículo 38.
 
-Los agentes de la policía Estatal y Municipales que en el ejercicio de sus funciones tengan contacto con niños, niñas o adolescentes presuntamente involucrados en hechos punibles que se ubiquen dentro de alguna figura típica prevista en la Legislación Penal para el Estado, deberán ejercer sus funciones conforme a los siguientes deberes y atribuciones:
+Los agentes de la policía estatal y municipales que en el ejercicio de sus funciones tengan contacto con niños, niñas o adolescentes presuntamente involucrados en hechos punibles que se ubiquen dentro de alguna figura típica prevista en el Código Penal para el Estado de Aguascalientes u otra norma, deberán ejercer sus funciones conforme a los siguientes deberes y atribuciones:
 
 I. Apegarse a los principios, derechos y garantías previstos en esta Ley, en la Constitución, en la Ley para la Protección de la Niñez y la Adolescencia del Estado y en los tratados internacionales aplicables en la materia;
 
@@ -661,11 +719,13 @@ La contravención a los deberes de los agentes de las policías Ministerial, Est
 
 ### CAPÍTULO I. De las Disposiciones Generales
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2013)</small>
 
 ###### Artículo 40.
 
-El proceso para adolescentes tiene como objeto determinar la existencia de un hecho punible descrito por la figura típica en la Legislación Penal para el Estado de Aguascalientes; declarar sobre la existencia o no existencia de la responsabilidad en la realización del hecho punible típico por el adolescente; y determinar la aplicación de las medidas que correspondan, así como la reparación del daño causado conforme a esta Ley.
+El proceso para adolescentes tiene como objeto determinar la existencia de un hecho punible descrito por el Código Penal para el Estado de Aguascalientes o alguna otra norma; declarar sobre la existencia o no existencia de la responsabilidad en la realización del hecho punible típico por el adolescente; y determinar la aplicación de las medidas que correspondan, así como la reparación del daño causado conforme a esta Ley.
 
 El sistema se regirá por un enjuiciamiento acusatorio, oral, continuo, contradictorio, concentrado y expedito.
 
@@ -673,9 +733,13 @@ El sistema se regirá por un enjuiciamiento acusatorio, oral, continuo, contradi
 
 Ningún adolescente podrá ser procesado, ni sometido a la aplicación de una medida, sino por las instituciones y tribunales especializados facultados y conforme a lo previsto por la presente Ley.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2013)</small>
+
 ###### Artículo 42.
 
-Corresponde a los tribunales especializados y autoridades del Poder Ejecutivo especializadas en materia de justicia para adolescentes, conocer de las distintas etapas de los procedimientos con motivo de la aplicación de la presente Ley, que se instruyan contra los adolescentes por la realización de un hecho punible descrito por la figura típica en la Legislación Penal para el Estado de Aguascalientes.
+Corresponde a los tribunales especializados y autoridades del Poder Ejecutivo especializadas en materia de justicia para adolescentes, conocer de las distintas etapas de los procedimientos con motivo de la aplicación de la presente Ley, que se instruyan contra los adolescentes por la realización de un hecho punible descrito por el Código Penal para el Estado de Aguascalientes o alguna otra norma.
 
 ###### Artículo 43.
 
@@ -689,15 +753,25 @@ Las partes deberán litigar con lealtad y buena fe, evitando los planteamientos 
 
 La duración del proceso para adolescentes inicia desde la vinculación de éste al proceso, hasta que la autoridad jurisdiccional dicte la sentencia, plazo que no podrá ser mayor de seis meses.
 
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Artículo 44 A.- Las resoluciones y los actos que requieran intervención de las partes o terceros, se notificarán de conformidad con las normas especiales establecidas en este Artículo, y en lo no previsto en ellas se aplicarán las reglas generales de la Legislación Penal para el Estado de Aguascalientes.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2013)</small>
+
+Artículo 44 A.- Las resoluciones y los actos que requieran intervención de las partes o terceros, se notificarán de conformidad con las normas especiales establecidas en este Artículo, y en lo no previsto en ellas se aplicarán las reglas generales del Código de Procedimientos Penales para el Estado de Aguascalientes.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2008)</small>
 
 Las resoluciones pronunciadas durante las audiencias judiciales se entenderán notificadas a las partes en el procedimiento que hubieren asistido o debieron asistir a las mismas,
 
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2008)</small>
+
 Los interesados podrán pedir copias de los registros en que constaren estas resoluciones, las que se expedirán sin demora.
 
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2008)</small>
+
 Cuando la persona por notificar no sea encontrada en el domicilio señalado, la copia será entregada a cualquier persona que viva o trabaje ahí, debiendo asentarse esa circunstancia y el nombre de la persona que la recibió.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2008)</small>
 
 La notificación será nula, siempre que cause indefensión, cuando:
 
@@ -739,11 +813,15 @@ Sí en el transcurso del proceso, se comprueba que la persona a quien se le impu
 
 Si en un hecho punible intervienen uno o varios adolescentes con uno o varios adultos, las causas se separarán y las autoridades especializadas para adolescentes conocerán de lo que corresponda, con plena autonomía de jurisdicción y sin que se alegue continencia de la causa.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2013)</small>
+
 ###### Artículo 49.
 
-La facultad del Ministerio Público Especializado en Adolescentes de perseguir la responsabilidad de los adolescentes a quienes se les impute la realización de un hecho punible descrito por alguna figura típica prevista en la Legislación Penal para el Estado de Aguascalientes y las medidas que se pretendan dictar sobre la base de la primera se extinguirán por prescripción.
+La facultad del Ministerio Público Especializado en Adolescentes de perseguir la responsabilidad de los adolescentes a quienes se les impute la realización de un hecho punible descrito por alguna figura típica prevista en el Código Penal para el Estado de Aguascalientes o alguna otra norma, y las medidas que se pretendan dictar sobre la base de la primera se extinguirán por prescripción.
 
-La acción del Ministerio Público Especializado en Adolescentes prescribirá transcurrido un término igual al promedio entre el mínimo y el máximo de duración de la pena señalada en la Legislación Penal para el Estado correspondiente al hecho punible descrito en la figura típica que se le impute al adolescente. En ningún caso el término de la prescripción podrá exceder el plazo máximo de siete años.
+La acción del Ministerio Público Especializado en Adolescentes prescribirá transcurrido un término igual al promedio entre el mínimo y el máximo de duración de la pena señalada en el Código Penal para el Estado de Aguascalientes o alguna otra norma, correspondiente al hecho punible descrito en la figura típica que se le impute al adolescente. En ningún caso el término de la prescripción podrá exceder el plazo máximo de siete años.
 
 ###### Artículo 50.
 
@@ -765,13 +843,21 @@ IV. Con el dictado de la sentencia, aunque no se encuentre firme.
 
 Cuando el adolescente sujeto a una medida de internamiento se sustraiga de la propia medida, se necesitará para la prescripción, el mismo tiempo que faltaba para cumplirla. En este caso el plazo para la prescripción no podrá ser menor de un año.
 
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Artículo 52 A.- Sin perjuicio de las causas de extinción penal establecidas en la Legislación Penal para el Estado de Aguascalientes, constituyen causas de extinción de la acción de remisión las siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2013)</small>
+
+Artículo 52 A.- Sin perjuicio de las causas de extinción penal establecidas en el Código Penal para el Estado de Aguascalientes o alguna otra norma, constituyen causas de extinción de la acción de remisión las siguientes:
+
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2008)</small>
 
 I. La aplicación de un criterio de oportunidad, en los casos y las formas previstos en esta Ley;
 
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2008)</small>
+
 II. El cumplimiento del plazo de suspensión del proceso a prueba, sin que ésta sea revocada; y
+
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2008)</small>
 
 III. El cumplimiento de los acuerdos reparatorios.
 
@@ -873,9 +959,13 @@ Durante todo el desarrollo del acuerdo reparatorio, el adolescente será asistid
 
 Los acuerdos reparatorios se rigen por los principios de voluntariedad de las partes, confidencialidad, flexibilidad, neutralidad, imparcialidad, equidad, legalidad y honestidad.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2013)</small>
+
 ###### Artículo 65.
 
-Sólo procederá el acuerdo reparatorio cuando el hecho punible descrito por la figura típica en la Legislación Penal opere el perdón del ofendido, o bien, en las que no proceda el perdón del ofendido pero sean de carácter patrimonial, siempre que se garantice la reparación del daño.
+Sólo procederá el acuerdo reparatorio cuando en el hecho punible descrito por la figura típica en el Código Penal para el Estado de Aguascalientes o alguna otra norma, opere el perdón del ofendido, o bien, en las que no proceda el perdón del ofendido pero sean de carácter patrimonial, siempre que se garantice la reparación del daño.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2008)</small>
 
@@ -957,11 +1047,13 @@ El cumplimiento de lo acordado extinguirá la acción de remisión.
 
 #### SECCIÓN SEGUNDA. Suspensión del Proceso a Prueba
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2013)</small>
 
 ###### Artículo 78.
 
-En los casos en que el hecho punible descrito por la figura típica en la Legislación Penal opere el perdón del ofendido, o bien, en las que no proceda el perdón del ofendido pero sean de carácter patrimonial, procederá la suspensión del proceso a prueba, a solicitud del Ministerio Público Especializado en Adolescentes o de cualquiera de las partes procesales interesadas, siempre y cuando el adolescente no se encuentre gozando de este beneficio en proceso diverso.
+En los casos en que el hecho punible descrito por el Código Penal para el Estado de Aguascalientes o alguna otra norma, opere el perdón del ofendido, o bien, en las que no proceda el perdón del ofendido pero sean de carácter patrimonial, procederá la suspensión del proceso a prueba, a solicitud del Ministerio Público Especializado en Adolescentes o de cualquiera de las partes procesales interesadas, siempre y cuando el adolescente no se encuentre gozando de este beneficio en proceso diverso.
 
 La suspensión del proceso podrá solicitarse en cualquier momento desde que el adolescente es puesto a disposición del Ministerio Público Especializado en Adolescentes y hasta antes del auto de apertura de juicio; y no impedirá el ejercicio de la acción civil ante los tribunales respectivos. Si efectuada la petición aún no existe remisión, se estará a una descripción sucinta de los hechos que haga el Ministerio Público Especializado en Adolescentes.
 
@@ -1035,11 +1127,15 @@ Durante el periodo de suspensión del proceso a prueba quedará suspendida la pr
 
 ### CAPÍTULO III. De la Investigación y Formulación de la Remisión
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2013)</small>
+
 ###### Artículo 86.
 
-La investigación de los hechos punibles descritos por la figura típica en la Legislación Penal para el Estado atribuidas a un adolescente, corresponden al Ministerio Público Especializado en Adolescentes, a partir de la denuncia que de manera verbal o escrita que se le formule.
+La investigación de los hechos punibles descritos por el Código Penal para el Estado de Aguascalientes o alguna otra norma, atribuidas a un adolescente, corresponden al Ministerio Público Especializado en Adolescentes, a partir de la denuncia que de manera verbal o escrita que se le formule.
 
-Los requisitos de procedibilidad para determinar la calificación de la atribución del hecho punible a los adolescentes serán los previstos por la Legislación Penal del Estado.
+Los requisitos de procedibilidad para determinar la calificación de la atribución del hecho punible a los adolescentes serán los previstos por el Código de Procedimientos Penales para el Estado de Aguascalientes o alguna otra norma aplicable.
 
 ###### Artículo 87.
 
@@ -1207,9 +1303,11 @@ En cualquier caso, el Juez podrá prescindir de toda medida cautelar cuando la p
 
 Al decidir sobre la medida cautelar consistente en garantía, el Juez fijará el monto, la modalidad de la prestación y apreciará su idoneidad. Para resolver sobre dicho monto, el Juez deberá tomar en cuenta la naturaleza, modalidades y circunstancias del hecho punible, las características del adolescente, la posibilidad de cumplimiento de las obligaciones procesales a su cargo, así como los posibles daños y perjuicios causados a la víctima u ofendido. La autoridad judicial hará la estimación del monto de manera que constituya un motivo eficaz para que el adolescente se abstenga de incumplir sus obligaciones y deberá fijar un plazo razonable para exhibir la garantía.
 
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-La garantía será presentada por el adolescente, padres o tutores, personas que ejerzan la patria potestad o la custodia, u otra persona en los términos y condiciones que para la exhibición de fianzas estén establecidos en la Legislación Penal vigente en el Estado.
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2013)</small>
+
+La garantía será presentada por el adolescente, padres o tutores, personas que ejerzan la patria potestad o la custodia, u otra persona en los términos y condiciones que para la exhibición de cauciones estén establecidos en el Código de Procedimientos Penales para el Estado de Aguascalientes.
 
 > <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2008)</small>
 
@@ -1323,7 +1421,11 @@ El Juez de Preparación para Adolescentes, a solicitud del Ministerio Público E
 
 I. Orden de comparecencia por medio de la fuerza pública, cuando el adolescente, habiendo sido citado legalmente se negare a presentarse o no se presente sin justa causa y su presencia sea requerida en un acto del proceso, y
 
-II. Orden de aprehensión cuando concurran los requisitos que exige el artículo 16 Constitucional y se trate de la imputación al adolescente de un hecho punible previsto como figura típica calificada como grave por la Legislación Penal para el Estado de Aguascalientes.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2013)</small>
+
+II. Orden de aprehensión cuando concurran los requisitos que exige el Artículo 16 Constitucional y se trate de la imputación al adolescente de un hecho punible previsto como figura típica calificada como grave por el Código Penal para el Estado de Aguascalientes.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2008)</small>
 
@@ -1359,7 +1461,11 @@ III. De los antecedentes de la investigación expuestos por el Ministerio Públi
 
 IV. No se encuentre demostrada, más allá de toda duda razonable, una causa de extinción de la acción de remisión o una excluyente de responsabilidad.
 
-Se tendrá por acreditado el hecho punible cuando se acredite el cuerpo del delito a que se refiere el Artículo 337 de la legislación Penal vigente en el Estado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2013)</small>
+
+Se tendrá por acreditado el hecho punible cuando se demuestre el cuerpo del delito en términos de lo previsto por el Código de Procedimientos Penales para el Estado de Aguascalientes.
 
 El auto de vinculación a proceso únicamente podrá dictarse por los hechos que fueron motivo de la formulación de la imputación, pero el Juez de Preparación podrá otorgarles una clasificación jurídica diversa a la asignada por el Ministerio Público al formular la imputación.
 
@@ -1367,7 +1473,11 @@ El auto de vinculación a proceso únicamente podrá dictarse por los hechos que
 
 Artículo 115 B.- En caso de que no se reúna alguno de los requisitos previstos en el Artículo anterior, el Juez negará la vinculación del adolescente a proceso y, en su caso, revocará las medidas cautelares personales y reales que hubiese decretado.
 
-El auto de no vinculación a proceso del adolescente no impide que el Ministerio Público continúe con la investigación y posteriormente formule de nueva cuenta la imputación, en los términos de Artículo 327 de la Legislación Penal para el Estado de Aguascalientes.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2013)</small>
+
+El auto de no vinculación a proceso del adolescente no impide que el Ministerio Público continúe con la investigación y posteriormente formule de nueva cuenta la imputación, en los términos de lo establecido en el Código de Procedimientos Penales para el Estado de Aguascalientes.
 
 ###### Artículo 116.
 
@@ -1455,9 +1565,11 @@ IV. Esté previsto específicamente en las Leyes.
 
 Desaparecida la causa, se hará ingresar nuevamente al público y el Juez informará brevemente sobre el resultado esencial de los actos cumplidos a puerta cerrada, cuidando de no afectar el bien protegido por la reserva, en lo posible. El Juez podrá imponer a las partes en el acto el deber de reserva sobre aquéllas circunstancias que han presenciado.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Los asistentes por ningún motivo podrán grabar las audiencias de juicio y se abstendrán de publicar o difundir por cualquier medio los pormenores de los juicios seguidos contra adolescentes, así como de divulgar la identidad de éstos o cualquier tipo de información que permita su individualización. Para tal efecto se deberá llevar un registro de los asistentes a las audiencias y se les apercibirá que de en caso de no cumplir con esta disposición se les aplicará multa o arresto en términos del Artículo 282 de la Legislación Penal vigente en el Estado.
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2013)</small>
+
+Los asistentes por ningún motivo podrán grabar las audiencias de juicio y se abstendrán de publicar o difundir por cualquier medio los pormenores de los juicios seguidos contra adolescentes, así como de divulgar la identidad de éstos o cualquier tipo de información que permita su individualización. Para tal efecto se deberá llevar un registro de los asistentes a las audiencias y se les apercibirá que de en caso de no cumplir con esta disposición se les aplicará multa o arresto en términos de lo previsto por el Código de Procedimientos Penales para el Estado de Aguascalientes.
 
 > <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2008)</small>
 
@@ -1533,7 +1645,7 @@ El Juez de oficio o a solicitud de parte, podrá prescindir de la lectura ínteg
 
 Las cosas y otros elementos de convicción serán exhibidos en la audiencia. Todos los elementos de convicción podrán ser presentados a los peritos, testigos o intérpretes, o al adolescente, cuando corresponda, durante sus declaraciones, quienes podrán ser invitados a reconocerlos o a declarar sobre ellos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2008)</small>
 
 ###### Artículo 127.
 
@@ -1919,9 +2031,13 @@ IV. Las disposiciones reglamentarias del centro de internamiento que sean aplica
 
 Los espacios destinados al internamiento en tiempo libre no tendrán seguridad extrema y deben estar totalmente separados de aquéllos destinados al cumplimiento de la medida de internamiento definitivo.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2013)</small>
+
 ###### Artículo 178.
 
-La medida de internamiento definitivo es la más grave prevista en esta Ley; consiste en la privación de la libertad y se debe cumplir exclusivamente en los centros de internamiento, de los que podrán salir los adolescentes sólo mediante orden escrita de autoridad judicial. Esta medida sólo se puede imponer a quienes tengan o hayan tenido, al momento de realizar el hecho punible típico, una edad de entre catorce años cumplidos y menores de dieciocho años de edad, y siempre que se trate de alguna figura típica considerada como grave por el artículo 481 de la Legislación Penal para el Estado de Aguascalientes.
+La medida de internamiento definitivo es la más grave prevista en esta Ley; consiste en la privación de la libertad y se debe cumplir exclusivamente en los centros de internamiento, de los que podrán salir los adolescentes sólo mediante orden escrita de autoridad judicial. Esta medida sólo se puede imponer a quienes tengan o hayan tenido, al momento de realizar el hecho punible típico, una edad de entre catorce años cumplidos y menores de dieciocho años de edad, y siempre que se trate de alguna figura típica considerada como grave por el Código de Procedimientos Penales para el Estado de Aguascalientes o alguna otra norma aplicable.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2008)</small>
 
@@ -1929,9 +2045,13 @@ La duración de esta medida deberá tener relación directa con los daños causa
 
 La tentativa de los hechos punibles mencionados en las fracciones anteriores no será considerada como grave.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2013)</small>
+
 ###### Artículo 179.
 
-Cuando el adolescente incurra en reincidencia por la comisión de un hecho punible descrito por una figura típica calificada como grave en la Legislación Penal, el Juez Especializado para Adolescentes dictará como medida el internamiento definitivo del adolescente.
+Cuando el adolescente incurra en reincidencia por la comisión de un hecho punible descrito por una figura típica calificada como grave en el Código Penal para el Estado de Aguascalientes o alguna otra norma, el Juez Especializado para Adolescentes dictará como medida el internamiento definitivo del adolescente.
 
 ###### Artículo 180.
 
@@ -1953,17 +2073,23 @@ La aplicación de la medida prevista en este capítulo, es de competencia exclus
 
 Las medidas restaurativas tienen la finalidad de infundir en el adolescente el respeto por el derecho a la integridad moral, física y psicológica de las personas, así como el derecho a la propiedad y el valor estimativo de los bienes.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2013)</small>
+
 ###### Artículo 184.
 
-Las medidas restaurativas serán aplicables en todo caso al adolescente por la comisión de hechos punibles descritos por una figura típica en la Legislación Penal, siempre como parte del tratamiento de reintegración del adolescente a la sociedad.
+Las medidas restaurativas serán aplicables en todo caso al adolescente por la comisión de hechos punibles descritos por una figura típica en el Código Penal para el Estado de Aguascalientes o alguna otra norma, siempre como parte del tratamiento de reintegración del adolescente a la sociedad.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2013)</small>
 
 ###### Artículo 185.
 
-En todo proceso por el que sea sentenciado un adolescente por la comisión de hechos punibles descritos en una figura típica en la Legislación Penal, estará el responsable obligado a la reparación del daño y al pago de los perjuicios que genere a la víctima u ofendidos del hecho punible que se le impute.
+En todo proceso por el que sea sentenciado un adolescente por la comisión de hechos punibles descritos en una figura típica del Código Penal para el Estado de Aguascalientes o alguna otra norma, estará el responsable obligado a la reparación del daño y al pago de los perjuicios que genere a la víctima u ofendidos del hecho punible que se le impute.
 
-> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2008)</small>
-
-En cuanto a la reparación del daño y el pago de los perjuicios, se estará en lo conducente, a lo establecido por el Título Tercero del Libro Primero de la Legislación Penal.
+En cuanto a la reparación del daño y el pago de los perjuicios, se estará en lo conducente, a lo establecido por el Código Penal para el Estado de Aguascalientes y el Código de Procedimientos Penales para el Estado de Aguascalientes.
 
 ###### Artículo 186.
 
@@ -1973,9 +2099,13 @@ Bajo ninguna circunstancia o arreglo quedará exento el adolescente del pago de 
 
 El Ministerio Público Especializado en Adolescentes y los propios jueces de Preparación y Especializado estarán al pendiente en todo momento, mediante el ejercicio y aplicación de sus facultades, el que la atención médica, psicológica y psiquiátrica se presten a las víctimas del hecho punible típico, así como de la propia reparación del daño causado.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2013)</small>
+
 ###### Artículo 188.
 
-Son aplicables a favor de la víctima u ofendidos del delito del hecho punible típico que se impute al adolescente, lo dispuesto en su favor por la Legislación Penal del Estado de Aguascalientes, así como por la propia Ley de Atención y Protección a la Víctima y al Ofendido del Delito para el Estado de Aguascalientes.
+Son aplicables a favor de la víctima u ofendidos del delito del hecho punible típico que se impute al adolescente, lo dispuesto en su favor por el Código Penal para el Estado de Aguascalientes y el Código de Procedimientos Penales para el Estado de Aguascalientes, así como por la propia Ley de Atención y Protección a la Víctima y al Ofendido del Delito para el Estado de Aguascalientes.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2008)</small>
 
@@ -2051,11 +2181,13 @@ El Juez Especializado en el auto de apertura a juicio deberá dictar las medidas
 
 El Juez Especializado podrá modificar, ampliar o cambiar en todo momento las medidas o mecanismos provisionales que se hayan tomado en relación con la reparación o pago del daño causado.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 2013)</small>
 
 ###### Artículo 200.
 
-El Juez Especializado para Adolescentes en términos de la presente Ley y en lo conducente por lo establecido en los Artículos del 565 al 571 de la Legislación Penal, en la respectiva sentencia dictará las medidas y mecanismos definitivos encaminados al pago del daño y perjuicios causados por el adolescente.
+El Juez Especializado para Adolescentes en términos de la presente Ley y en lo conducente por lo establecido en el Código Penal para el Estado de Aguascalientes y el Código de Procedimientos Penales para el Estado de Aguascalientes, en la respectiva sentencia dictará las medidas y mecanismos definitivos encaminados al pago del daño y perjuicios causados por el adolescente.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2008)</small>
 
@@ -2479,7 +2611,7 @@ Lic. Jorge Mauricio Martínez Estebanez.
 
 SUFRAGIO EFECTIVO. NO REELECCION.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 1 DE SEPTIEMBRE DE 2008.
 
@@ -2490,3 +2622,61 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Los procedimientos que se encuentren en trámite se sujetarán a las disposiciones vigentes al momento en que se cometió el hecho punible.
+
+P.O. 20 DE MAYO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia a los sesenta días naturales contados a partir de su publicación en el Periódico Oficial del Estado, a excepción del Código de Procedimientos Penales para el Estado de Aguascalientes contenido en el Artículo Tercero.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deroga la Legislación Penal para el Estado de Aguascalientes publicada en el Periódico Oficial del Estado el 21 de julio de 2003 mediante decreto número 97.
+
+###### ARTÍCULO TERCERO.
+
+La incorporación del sistema procesal penal acusatorio en el Estado de Aguascalientes será gradual, y en consecuencia la vigencia y aplicación del Código de Procedimientos Penales para el Estado de Aguascalientes contenido en el Artículo Tercero del presente Decreto será progresiva, conforme a las siguientes fechas:
+
+I.- El 16 de junio de 2014 en el quinto partido judicial con sede en Jesús María, respecto de los hechos punibles considerados de querella previstos en el Artículo 166 del Código de Procedimientos Penales contenido en el Artículo Tercero, y de hechos punibles patrimoniales no violentos;
+
+II.- El 5 de enero de 2015 en el tercer y cuarto partidos judiciales con sede en Pabellón y Rincón de Romos, respecto de los hechos punibles considerados de querella previstos en el Artículo 166 del Código de Procedimientos Penales contenido en el Artículo Tercero, y de hechos punibles patrimoniales no violentos;
+
+III.- El 1 de junio de 2015 en el primer y segundo partidos judiciales con sede en Aguascalientes y Calvillo, respecto de los hechos punibles considerados de querella previstos en el Artículo 166 del Código de Procedimientos Penales contenido en el Artículo Tercero, y de hechos punibles patrimoniales no violentos;
+
+IV.- El 1 de junio de 2015 en el quinto partido judicial con sede en Jesús María, respecto de los hechos punibles no considerados de prisión preventiva oficiosa;
+
+V.- El 4 de enero de 2016 en el quinto partido judicial con sede en Jesús María, respecto de la totalidad de hechos punibles;
+
+VI.- El 4 de enero de 2016 en el tercer y cuarto partidos judiciales con sede en Pabellón y Rincón de Romos, respecto de los hechos punibles no considerados de prisión preventiva oficiosa; y
+
+VII.- El 18 de junio de 2016, en el primer, segundo, tercer y cuarto partidos judiciales con sede en Aguascalientes, Calvillo, Pabellón y Rincón de Romos, respecto de la totalidad de hechos punibles.
+
+Lo anterior con la salvedad del caso de que ya se hubiere incorporado alguna fase, principios procesales o derechos en legislaciones vigentes relacionadas con el Sistema Penal Acusatorio.
+
+###### ARTÍCULO CUARTO.
+
+Las disposiciones del Código de Procedimientos Penales contenido en el Artículo Tercero del presente Decreto, se aplicarán a hechos que ocurran a partir de las cero horas de las fechas y partidos judiciales en que de manera progresiva entre en vigencia el sistema procesal penal acusatorio, de acuerdo a lo dispuesto en el Artículo Segundo Transitorio.
+
+###### ARTÍCULO QUINTO.
+
+Quedarán derogados los preceptos del Código de Procedimientos Penales para el Estado de Aguascalientes contenido en el Artículo Segundo del presente Decreto de manera progresiva y gradual, conforme a la incorporación del sistema procesal penal acusatorio en términos del Artículo Tercero Transitorio, con la salvedad de los procedimientos que se estén tramitando con base en sus disposiciones, en cuyo caso se seguirán aplicando hasta su resolución.
+
+###### ARTÍCULO SEXTO.
+
+A partir de que entre en vigencia el presente Decreto, en los trámites iniciados conforme a la Legislación Penal para el Estado de Aguascalientes abrogada, las autoridades que conozcan de la etapa procesal que corresponda, podrán efectuar la traslación y aplicación de las nuevas disposiciones procedimentales en la medida que sean conducentes.
+
+En el caso del Código Penal para el Estado de Aguascalientes, si éste denomina, penaliza o agrava de forma diversa descripciones típicas previstas en la Legislación Penal para el Estado de Aguascalientes abrogada, se estará a lo siguiente:
+
+I.- Instaurado el proceso y sin que aún no se formulen conclusiones acusatorias, el Ministerio Público las formulará de conformidad con la traslación del tipo que resulte; y
+
+II.- En los procesos pendientes de dictarse sentencia en primera y segunda instancia, el juez o el Tribunal respectivamente, podrán efectuar la traslación del tipo de conformidad con la conducta descrita en el Código Penal para el Estado de Aguascalientes.
+
+Las reglas establecidas en este transitorio también se aplicarán en lo conducente a los procedimientos tramitados con base en la Ley del Sistema de Justicia para Adolescentes del Estado de Aguascalientes.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Congreso del Estado preverá una partida especial para solventar las erogaciones necesarias para la adecuada implementación del sistema procesal penal acusatorio.
+
+###### ARTÍCULO OCTAVO.
+
+A partir del inicio de vigencia del presente Decreto, toda referencia a la Legislación Penal para el Estado de Aguascalientes que se realice en otras leyes se entenderá hecha al Código Penal para el Estado de Aguascalientes o al Código de Procedimientos Penales para el Estado de Aguascalientes, según corresponda.
