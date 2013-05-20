@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-interno-del-organo-de-fiscalizacion-superior-del-613
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-05-10"
-last_updated: "2008-05-10"
+last_updated: "2013-05-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61328&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCS"
 
 REGLAMENTO INTERNO DEL ÓRGANO DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO INTERNO DEL ÓRGANO DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADO EN EL B.O. DE 20 DE MAYO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: ABROGADO.
 
 Reglamento publicado en el Número extraordinario del Boletín Oficial del Estado de Baja California Sur, el sábado 10 de mayo de 2008.
 
@@ -506,3 +508,11 @@ Dado en la ciudad de La Paz, Baja California Sur, a los seis días del mes de ma
 AUDITOR SUPERIOR DEL ÓRGANO DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE CALIFORNIA SUR.
 
 C.P. JULIO CÉSAR LÓPEZ MÁRQUEZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 20 DE MAYO DE 2013.
+
+Primero.- El presente Reglamento entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Segundo.- Se abroga el Reglamento interno del Órgano de Fiscalización Superior del Estado de Baja California Sur, publicado en el Boletín Oficial del Gobierno del Estado de Baja California Sur, número 27-bis, el día 10 de mayo de 2008.
