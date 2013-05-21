@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-de-la-administracion-publica-del-estado-de-16303"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-10-12"
-last_updated: "2012-04-27"
+last_updated: "2013-05-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE GUERRERO NUMERO 433
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 12 de octubre de 1999.
 
@@ -226,6 +226,10 @@ V.- Secretaría de Seguridad Pública y Protección Civil;
 VI.- (DEROGADA, P.O. 14 DE DICIEMBRE DE 2000);
 
 VII.- Secretaría de Educación Guerrero;
+
+> <small>(ADICIONADA, P.O. 21 DE MAYO DE 2013)</small>
+
+VII Bis.- Secretaría de Cultura;
 
 VIII.- Secretaría de Salud;
 
@@ -691,25 +695,21 @@ XIII.- Prestar directamente o a través de otras entidades y órganos, los servi
 
 XIV.- Fomentar la participación de la sociedad en el quehacer educativo;
 
-> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2013)</small>
 
-XV.- Formular y coordinar las políticas de desarrollo cultural y deportivo;
+XV.- Formular y coordinar las políticas de desarrollo deportivo;
 
-> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2000)</small>
+XVI.- (DEROGADA, P.O. 21 DE MAYO DE 2013)
 
-XVI.- Formular, organizar, dirigir y promover programas de rescate, preservación y desarrollo cultural para la identidad guerrerense en todo el Estado;
+XVII.- (DEROGADA, P.O. 21 DE MAYO DE 2013)
 
-> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2013)</small>
 
-XVII.- Levantar y actualizar el inventario del patrimonio arqueológico, histórico y artístico del Estado;
+XVIII.- Coordinar, junto con la Secretaría de Cultura y los Ayuntamientos, el Sistema Estatal de Bibliotecas, Hemerotecas y Archivos Históricos, así cano el Programa de Fomento a la Lectura y el Libro y el Sistema de Educación Artística en las Escuelas, Casas de Cultura y Museos de la entidad;
 
-> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2013)</small>
 
-XVIII.- Coordinar, organizar, dirigir y fomentar el establecimiento de bibliotecas, hemerotecas, casas de cultura y museos en la Entidad;
-
-> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2000)</small>
-
-XIX.- Coordinar a las entidades, órganos administrativos desconcentrados y establecimientos públicos de bienestar social, cuyas actividades correspondan a la cultura y el deporte;
+XIX.- Coordinar a las entidades, órganos administrativos desconcentrados y establecimientos públicos de bienestar social, cuyas actividades correspondan al deporte;
 
 XX.- Establecer y operar un sistema de seguimiento de los programas federales, relacionados con los asuntos de su competencia, conforme a lo que las leyes y acuerdos de coordinación establezcan, en congruencia con el Comité de Planeación para el Desarrollo del Estado; y (sic)
 
@@ -718,6 +718,70 @@ XX.- Establecer y operar un sistema de seguimiento de los programas federales, r
 XX Bis.- Promover de conformidad con las disposiciones aplicables y ante las instancias que correspondan, se incluyan en los planes y programas de estudio de educación primaria y secundaria, contenidos que versen sobre la cultura de la legalidad y protección civil, en coordinación con la Secretaría de Seguridad Pública y Protección Civil;
 
 XXI.- Las demás que le fijen las leyes y reglamentos vigentes en el Estado.
+
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2013)</small>
+
+ARTICULO 26 BIS.- La Secretaría de Cultura es el órgano rector de las políticas y acciones culturales del estado de Guerrero, y la encargada de conducir, formular, coordinar, ejecutar y evaluar dichas políticas y acciones, en concordancia con los planes y programas de desarrollo de la entidad, según los principios de participación social contemplados en la ley y en diversos ordenamientos nacionales y tratados internacionales, correspondiéndole el despacho de los asuntos siguientes:
+
+I. Garantizar el derecho de acceso a la cultura y las artes de los guerrerenses, de manera armónica y equitativa;
+
+II. Conducir, planear, normar, ejecutar y evaluar las políticas culturales del Gobierno del Estado. Para ello elaborará y presentará al Gobernador del Estado, el Programa Estatal de Cultura, así como los programas anuales de inversión y operación para coordinar su ejecución;
+
+III. Coordinar a las entidades, órganos administrativos desconcentrados y establecimientos públicos de bienestar social, cuyas actividades correspondan a la cultura; pudiendo establecer delegaciones en las regiones de la entidad.
+
+Adicionalmente, contará con un Consejo Ciudadano de carácter consultivo, el cual estará integrado por guerrerenses destacados en los distintos campos del arte y la cultura, la ciencia y la tecnología, y por personalidades que hayan con tribuido al desarrollo económico y social de la entidad, con el fin de diseñar, dar seguimiento y evaluar las políticas públicas relacionadas con el arte y la cultura; dicho Consejo será coordinado por el titular del ramo. La ley establecerá el objeto, fines y atribuciones del Consejo Ciudadano Consultivo;
+
+IV. Promover y fomentar todas las manifestaciones artísticas y culturales, fortaleciendo la formación humanística, el desarrollo integral y la identidad de los guerrerenses;
+
+V. Promover el desarrollo de las culturas indígenas y afromexicanas, su diálogo y el reconocimiento de la diversidad cultural, fomentando el uso de sus lenguas, usos, costumbres, tradiciones y festividades, así como el desarrollo de sus saberes y derechos de propiedad intelectual sobre sus artesanías y expresiones culturales, en todos sus géneros;
+
+VI. Salvaguardar, proteger, preservar, investigar y promover el conocimiento, recuperación, conservación y divulgación del patrimonio cultural tangible e intangible;
+
+VII. Conducir las relaciones del gobierno con los creadores artísticos, intérpretes, investigadores y promotores culturales, así como llevar el registro de las instituciones y asociaciones vinculadas al arte y la cultura y de su oferta cultural;
+
+VIII. Promover y difundir investigaciones y estudios para el reconocimiento y desarrollo de la cultura local, nacional e internacional, en sus expresiones artísticas, científicas y tecnológicas;
+
+IX. Impulsar un Programa de Iniciación Artística, con el fin de fomentar el conocimiento de la literatura, las artes plásticas, la música, el teatro, el cine, las artes visuales y multimedia para niños, jóvenes y adultos, en coordinación con la Secretaría de Educación Guerrero y con la concurrencia de dependencias y entidades federales, estatales y municipales, así como de los sectores social y privado;
+
+X. Fomentar y consolidar el sistema estatal de orquestas infantiles y juveniles, a través de núcleos comunitarios de aprendizaje musical.
+
+XI. Integrar, coordinar y dirigir, con la participación de la Secretaría de Educación Guerrero, el establecimiento de bibliotecas, hemerotecas, archivos históricos, casas de cultura y museos, así como el Sistema de Educación Artística de nivel medio superior y superior en la entidad. La Secretaría podrá crear fábricas de artes y oficios;
+
+XII. Implementar un Programa de Fomento de la Lectura y el libro, en coordinación con la Secretaría de Educación Guerrero y los ayuntamientos, con la participación del gobierno federal y los sectores social y privado, a través de ferias del libro, salas de lectura, brigadas culturales, red de bibliotecas, clubes de libros y el apoyo a la producción editorial independiente;
+
+XIII. Fomentar y difundir la creación artística, su producción y profesionalización, mediante becas, reconocimientos y estímulos al mérito de los creadores artísticos, investigadores, intérpretes y promotores culturales, otorgados a través de evaluaciones sustentadas en los principios de imparcialidad y equidad;
+
+XIV. Promover el turismo cultural junto con la Secretaría de Fomento Turístico, a través de un circuito de festivales, ferias temáticas, certámenes, conciertos, exposiciones, convenciones y encuentros nacionales e internacionales. Asimismo, administrar, preservar, acrecentar el patrimonio cultural, arqueológico, histórico y artístico del estado, así como levantar y actualizar el inventario del mismo;
+
+XV. Impulsar la promoción y difusión de las Jornadas Alarconianas y de otros festivales culturales, en el ámbito estatal, nacional e internacional. Asimismo, a través de los medios masivos de comunicación se difundirán las acciones y programas que lleve a cabo esta Secretaría, a fin de contribuir a la formación de públicos para todas las expresiones culturales;
+
+XVI. Establecer, en coordinación con las Secretarías de Fomento Turístico y de Medio Ambiente y Recursos Naturales, las políticas, normas técnicas y procedimientos de construcción, vigilancia y aplicación para la protección, conservación, rescate y restauración de zonas, bienes y monumentos arqueológicos, artísticos e históricos, así como de sitios, ciudades y pueblos de carácter histórico patrimonial, y de rutas y corredores turísticos, ecológicos y culturales, con el apoyo de la sociedad civil;
+
+XVII. Proponer y elaborar las Declaratorias de Patrimonio Cultural que expedirá el Gobernador del Estado y brindar asesoría y acompañamiento a las propuestas sociales en la materia, así como gestionar y recibir donaciones en dinero o especie a favor del patrimonio cultural de los guerrerenses, de conformidad con las disposiciones normativas aplicables;
+
+XVIII. Recuperar y desarrollar la infraestructura cultural, para modernizar y promover el mejor equipamiento de los espacios, centros, casas de cultura, teatros y bibliotecas bajo la jurisdicción y resguardo de la Secretaría. Asimismo, será la encargada de levantar y actualizar el inventario de las instalaciones y bienes destinados al arte y la cultura;
+
+XIX. Promover la creación de diversas opciones de organización y de financiamiento, que permitan impulsar y fortalecer las actividades culturales, a través de los instrumentos jurídicos necesarios;
+
+XX. Prestar asesoría y acompañamiento para la creación de empresas y asociaciones culturales y artísticas, junto con la Secretaría de Fomento Económico y las instancias federales y locales que otorgan apoyo y financiamiento para este fin, promoviendo la generación de incubadoras de empresas, el apoyo para la elaboración de planes de negocios y la obtención de líneas de crédito;
+
+XXI. Establecer las políticas y lineamientos para la creación, administración, conservación, operación y aprovechamiento de los centros y espacios culturales de la entidad, en los términos de las disposiciones legales aplicables;
+
+XXII. Coordinarse y concertar acuerdos y convenios con los gobiernos federal, estatales y municipales, para la gestión de apoyos, recursos financieros, materiales y técnicos, que permitan la preservación, fomento y desarrollo cultural del estado;
+
+XXIII. Concertar convenios en el ámbito cultural internacional, para el intercambio y la cooperación con autores, organismos e instituciones, tanto públicos como privados, nacionales o extranjeros;
+
+XXIV. Impulsar la participación de organizaciones civiles, grupos y colectivos guerrerenses, para la creación de proyectos, fundaciones, fondos, patronatos y similares, orientados a la promoción y divulgación de las políticas acciones culturales a cargo de la administración pública estatal;
+
+XXV. Estructurar y administrar transparente y equitativamente los recursos financieros, humanos y materiales de que disponga entre las diferentes áreas que la integran, de acuerdo a la normatividad existente para tal efecto, rindiendo cuentas de manera veraz efectiva;
+
+XXVI. Proponer al Titular del Poder Ejecutivo del Estado, los proyectos de iniciativa de leyes, reglamentos, decretos y acuerdos respecto a los asuntos de la competencia de la Secretaría;
+
+XXVII. Establecer y operar un sistema de seguimiento de los programas federales relacionados con los asuntos de su competencia, conforme a lo que las leyes y acuerdos de coordinación establezcan, en congruencia con el Comité de Planeación para el Desarrollo del Estado de Guerrero;
+
+XXVIII. Presentar el anteproyecto de presupuesto anual de la Secretaría, de acuerdo a los lineamientos en la materia; para la elaboración de este anteproyecto, se oirá al Consejo Consultivo Ciudadano y en su caso, a los creadores artísticos y culturales de la entidad;
+
+XXIX. Las demás que le fijen las leyes y reglamentos vigentes en el Estado.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE FEBRERO DE 2011)</small>
 
@@ -777,9 +841,15 @@ V.- Asesorar técnicamente a los sectores social y privado y a los Ayuntamientos
 
 VI.- Promover y apoyar la creación y desarrollo de agroindustrias en el Estado y fomentar la industria rural;
 
-VII.- Establecer las políticas para fomentar la producción artesanal de la Entidad y promover su comercialización en el mercado nacional e internacional;
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2013)</small>
+
+VII.- Coordinar y establecer junto con la Secretaría de Cultura, las políticas para fomentar el desarrollo de empresas culturales y artísticas, así como la producción artesanal en la entidad y promover su comercialización en el mercado nacional e internacional;
 
 VIII.- (DEROGADA, P.O. 14 DE DICIEMBRE DE 2000)
+
+> <small>(ADICIONADA, P.O. 21 DE MAYO DE 2013)</small>
+
+VIII Bis.- Fomentar junto con la Secretaría de Cultura el desarrollo de una economía creativa, generando incubadoras de empresas culturales, a través de asesorías, líneas de crédito, planes de negocios y demás apoyos legales y financieros que contribuyan a la generación de empleos, de una economía del conocimiento y de nuevas tecnologías;
 
 IX.- Participar en la planeación y programación de las obras e inversiones tendientes a promover la explotación racional de los recursos minerales del Estado;
 
@@ -835,9 +905,13 @@ IX.- Estimular la formación de asociaciones, comités o patronatos de carácter
 
 X.- Proponer al Titular del Ejecutivo del Estado, la creación de unidades de protección al turista, y en el ámbito de su competencia, podrá sancionar y regular su funcionamiento en coordinación con las dependencias y entidades de las Administraciones Públicas Federal, Estatal y Municipal, de acuerdo a las disposiciones jurídicas aplicables;
 
-XI.- Participar, en coordinación con las autoridades competentes, en la conservación y restauración de zonas, bienes y monumentos arqueológicos, artísticos e históricos, así como en la preservación y protección de lugares típicos y de belleza natural y en la integración del inventario de recursos turísticos;
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2013)</small>
 
-XII.- Participar con las autoridades competentes en la investigación y desarrollo de las manifestaciones culturales, artesanales y folklóricas del Estado, en apoyo a la actividad turística;
+XI.- Participar en coordinación con la Secretaría de Cultura y las autoridades competentes, en la conservación y restauración de zonas, bienes y monumentos arqueológicos, artísticos e históricos, así como en la preservación y protección de lugares típicos y de belleza natural, el fomento de pueblos mágicos, rutas culturales y en la promoción de un turismo cultural responsable. Asimismo, estará bajo su responsabilidad la integración del inventario de recursos, turísticos.
+
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2013)</small>
+
+XII.- Participar, en coordinación con la Secretaría de Cultura y con las autoridades competentes, en la investigación y desarrollo de las manifestaciones culturales, artesanales y folklóricas del Estado, en apoyo a la actividad turística;
 
 XIII.- Participar en la planeación y programación de obras e inversiones tendientes al desarrollo turístico en el Estado;
 
@@ -845,13 +919,17 @@ XIV.- Fomentar la inversión, realizando planes y programas para atraer capitale
 
 XV.- Fomentar y mantener relaciones con organizaciones turísticas estatales, nacionales e internacionales con fines de promoción, difusión y cooperación técnica;
 
-XVI.- Promover e impulsar programas de capacitación para el desarrollo del personal de establecimientos de prestación de servicios turísticos;
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2013)</small>
+
+XVI.- Promover e impulsar junto con la Secretaría de Cultura programas de capacitación y profesionalización en materia de gastronomía, patrimonio y gestión cultural y turismo, para el desarrollo del personal de establecimientos de prestación de servicios turísticos;
 
 XVII.- Controlar y supervisar, de acuerdo con las leyes, reglamentos en la materia y los convenios celebrados con la Federación, la prestación de servicios turísticos en el Estado;
 
 XVIII.- Formular y estimular el establecimiento de medidas para el fomento, difusión y promoción del turismo;
 
-XIX.- Coordinar y promover participaciones en bolsas, ferias, exposiciones, convenciones, encuentros y eventos estatales, nacionales o extranjeros, en que esté vinculado el desarrollo turístico del Estado;
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2013)</small>
+
+XIX.- Coordinar y promover junto con la Secretaría de Cultura, un Circuito Integral de Festivales y participaciones en bolsas, ferias, exposiciones, convenciones, encuentros y eventos estatales, nacionales o extranjeros, en que esté vinculado el desarrollo turístico del Estado;
 
 XX.- Fomentar e impulsar el turismo social celebrando los convenios necesarios con los organismos de seguridad social, nacionales y del Estado, en los términos que definan las disposiciones jurídicas aplicables;
 
@@ -1163,13 +1241,17 @@ VII.- Desarrollar las relaciones de comunicación, coordinación y apoyo mutuo c
 
 VIII.- Establecer canales de comunicación entre el Gobierno del Estado y los jóvenes;
 
-IX.- Favorecer la capacitación de instructores para propiciar el mejor desarrollo de las actividades culturales y artísticas de la juventud;
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2013)</small>
 
-> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2012)</small>
+IX.- Favorecer la capacitación de instructores para propiciar el mejor desarrollo de las actividades culturales y artísticas de la juventud, en coordinación con la Secretaría de Cultura;
 
-X.- Propiciar en la juventud y la niñez el desarrollo y difusión de la cultura tradicional en el Estado, como mecanismo para reforzar nuestra identidad;
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2013)</small>
 
-XI.- Organizar y constituir grupos de jóvenes promotores y difusores de las diferentes expresiones del arte y la cultura;
+X.- Propiciar en la juventud y la niñez de manera coordinada con la Secretaría de Cultura, el desarrollo y difusión de la cultura tradicional del estado, como mecanismo para reforzar nuestra identidad;
+
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2013)</small>
+
+XI.- Organizar y constituir grupos de jóvenes promotores y difusores de las diferentes expresiones del arte y la cultura, en coordinación con la Secretaría de Cultura;
 
 XII.- Impulsar la creación de clubes y comités de la juventud, que promuevan su participación integral en asuntos del ámbito estatal;
 
@@ -1177,11 +1259,17 @@ XIII.- Mantener comunicación permanente con estructuras juveniles de organizaci
 
 XIV.- Fomentar y desarrollar una cultura participativa mediante brigadas multidisciplinarias juveniles para realizar tareas de beneficio comunitario;
 
-XV.- Incentivar a jóvenes que destaquen en las diferentes manifestaciones y disciplinas de la cultura, el deporte, la ciencia, la economía y la política;
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2013)</small>
 
-XVI.- Promover el intercambio cultural a nivel nacional e internacional, así como desarrollar actividades de convivencia social entre los jóvenes;
+XV.- Incentivar a jóvenes que destaquen en las diferentes manifestaciones y disciplinas de la cultura, el deporte, la ciencia, la economía y la política, en coordinación con la Secretaría de Cultura;
 
-XVII.- Administrar la infraestructura existente para el desarrollo de la cultura y la convivencia social en beneficio del sector juvenil;
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2013)</small>
+
+XVI.- Promover junto con la Secretaría de Cultura el intercambio cultural a nivel nacional e internacional, así como desarrollar actividades de convivencia social entre los jóvenes;
+
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2013)</small>
+
+XVII.- Administrar la infraestructura existente para el desarrollo de la cultura y la convivencia social en beneficio del sector juvenil, propiciando la coordinación que para el caso se requiera con la Secretaría de Cultura;
 
 XVIII.- Organizar grupos de jóvenes para la gestión y constitución de empresas que les permitan incorporarse a las actividades productivas de la Entidad;
 
@@ -1205,9 +1293,13 @@ XXIV.- Integrar los Consejos Consultivos Municipales, Regionales y Estatal para 
 
 XXV.- Coordinar los planes y programas destinados a la juventud y a la niñez, que emprendan dependencias y entidades de la Administración Pública Estatal;
 
-XXVI.- Encauzar el apoyo a jóvenes discapacitados, así como de aquellos que se encuentren sujetos a programas de readaptación social, a efecto de hacer posible su incorporación a las actividades sociales, culturales y productivas de la Entidad; y (sic)
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2013)</small>
 
-XXVII.- Establecer y operar un sistema de seguimiento de los programas federales relacionados con los asuntos de su competencia, conforme a lo que las leyes y acuerdos de coordinación establezcan, en congruencia con el Comité de Planeación para el Desarrollo del Estado;
+XXVI.- Encauzar junto con el Sistema para el Desarrollo Integral de la Familia, el apoyo a jóvenes discapacitados, así como con la Secretaría de Seguridad Pública y Protección Civil para los casos de aquellos que se encuentren sujetos a programas de readaptación social, a efecto de hacer posible su incorporación a las actividades sociales, culturales y productivas de la entidad, con la intervención que competa a la Secretaría de Cultura y la Secretaría de Desarrollo Económico;
+
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2013)</small>
+
+XXVII.- Establecer y operar un sistema de seguimiento de los programas federales relacionados con los asuntos de su competencia, conforme a lo que las leyes y acuerdos de coordinación establezcan, en congruencia con el Comité de Planeación para el Desarrollo del Estado; y
 
 XXVIII.- Las demás que le fijen las leyes y reglamentos vigentes en el Estado.
 
@@ -1742,3 +1834,25 @@ El presente Decreto entrará en vigor a partir de la fecha de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos legales procedentes.
+
+P.O. 21 DE MAYO DE 2013.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Se abroga el Decreto Núm. 438 por el que se crea el Organismo Público Descentralizado "Instituto Guerrerense de la Cultura", publicado en el Periódico Oficial del Gobierno del Estado número 85, el 15 de octubre de 1999, con lo cual queda extinguido el mencionado Instituto.
+
+Los recursos materiales y financieros con que cuenta el Instituto Guerrerense de la Cultura, las obligaciones contraídas por éste, y el personal del mismo quedan transferidos a la Secretaría de Cultura.
+
+TERCERO. El Ejecutivo estatal proveerá lo necesario para la implementación y operatividad de la Secretaría de Cultura, en el ejercicio fiscal 2013 y subsecuentes en un plazo no mayor de treinta días naturales, contados a partir de la entrada en vigor de este Decreto.
+
+CUARTO. La Secretaría de Cultura expedirá su Reglamento Interior en un plazo no mayor a noventa días hábiles, contados a partir de la entrada en vigor de este Decreto.
+
+QUINTO. Quedan garantizados los derechos laborales del personal del extinto Instituto Guerrerense de Cultura, que se transfiere a la Secretaría de Cultura.
+
+SEXTO. Todos los organismos, unidades y proyectos relacionados con el fomento y desarrollo de la cultura y las artes, quedan sectorizados a la Secretaría de Cultura.
+
+SÉPTIMO. Las facultades, procedimientos y disposiciones conferidas al Instituto Guerrerense de la Cultura por la Ley de Fomento a la Cultura pasan a ser potestad de la Secretaría de Cultura. En un plazo no mayor de 180 días naturales se procederá a la reforma y actualización de la Ley de Fomento a la Cultura, del 10 de mayo de 1988.
+
+OCTAVO. Los Ayuntamientos, deberán alinear la organización, operación y procedimientos de sus instituciones culturales, así como emitir o adecuar sus reglamentos en esta materia, conforme a las disposiciones de este Decreto. Las comisiones de cultura, consejos, comités y demás sistemas de concertación que haya establecido el Instituto, serán presididas por la Secretaría de Cultura como Cabeza de Sector y deberán instalarse o ajustarse, según sea el caso, en un plazo no mayor de sesenta días naturales a partir de la entrada en vigor de este Decreto.
+
+NOVENO. Se derogan todas aquellas disposiciones de igual o menor rango que se opongan a este Decreto.
