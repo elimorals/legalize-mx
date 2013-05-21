@@ -4,7 +4,7 @@ identifier: "LCPAF"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-22"
-last_updated: "2012-05-18"
+last_updated: "2013-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCPAF"
 
 LEY DE CAMINOS, PUENTES Y AUTOTRANSPORTE FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE MAYO DE 2013.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 22 de diciembre de 1993.
 
@@ -90,9 +90,19 @@ XII. Terminales: Las instalaciones auxiliares al servicio del autotransporte de 
 
 XIII. Tránsito: La circulación que se realice en las vías generales de comunicación;
 
-XIV. Transporte privado: Es el que efectúan las personas físicas o morales respecto de bienes propios o conexos de sus respectivas actividades, así como de personas vinculadas con los mismos fines, sin que por ello se genere un cobro; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-XV. Vías generales de comunicación: Los caminos y puentes tal como se definen en el presente artículo.
+> <small>(REFORMADA, D.O.F. 21 DE MAYO DE 2013)</small>
+
+XIV. Transporte privado: Es el que efectúan las personas físicas o morales respecto de bienes propios o conexos de sus respectivas actividades, así como de personas vinculadas con los mismos fines, sin que por ello se genere un cobro;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 21 DE MAYO DE 2013)</small>
+
+XV. Vehículo: Medio de transporte motorizado, incluidos los medios o remolques que arrastren; y
+
+XVI. Vías generales de comunicación: Los caminos y puentes tal como se definen en el presente artículo.
 
 ###### ARTICULO 3o.
 
@@ -630,6 +640,28 @@ Los concesionarios y permisionarios deberán otorgar esta garantía en los térm
 
 Las personas físicas y morales autorizadas por los gobiernos de los estados y del Distrito Federal para operar autotransporte público de pasajeros, y que utilicen tramos de las vías de jurisdicción federal, garantizarán su responsabilidad, en los términos de este capítulo, por los daños que puedan sufrir los pasajeros que transporten, sin perjuicio de que satisfagan los requisitos y condiciones para operar en carreteras de jurisdicción federal.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 21 DE MAYO DE 2013)</small>
+
+###### ARTICULO 63 Bis.
+
+Todos los vehículos que transiten en vías, caminos y puentes federales deberán contar con un seguro que garantice a terceros los daños que pudieren ocasionarse en sus bienes y personas por la conducción del vehículo. La contratación del seguro será responsabilidad del propietario del vehículo.
+
+La Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional de Seguros y Fianzas, establecerá las reglas para la operación del seguro a que se refiere el primer párrafo, procurando la accesibilidad económica y la disponibilidad para su contratación. Para tal efecto se establecerá un monto mínimo de cobertura de la póliza de seguro.
+
+Por ningún motivo se podrá obligar a los propietarios de vehículos a que contraten el seguro con alguna institución de seguros en específico.
+
+La contratación de este seguro no exime del cumplimiento de la responsabilidad de concesionarios de caminos y puentes; y de los que cuenten con permiso o autorización para prestar servicios de autotransporte de pasajeros, turismo o de carga que se refieren en esta Ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O.F. 21 DE MAYO DE 2013)</small>
+
+###### ARTICULO 63 Ter.
+
+Los propietarios de vehículos que cuenten con un seguro del ramo de automóviles con mayores coberturas al seguro a que se refiere el artículo anterior no podrá impedirse su circulación ni se impondrá la multa a que se refiere la fracción II del artículo 74 Bis de esta Ley.
+
 ###### ARTICULO 64.
 
 El derecho a percibir las indemnizaciones establecidas en este capítulo y la fijación del monto se sujetará a las disposiciones del Código Civil para el Distrito Federal en materia común, y para toda la República en Materia Federal. Para la prelación en el pago de las mismas, se estará a lo dispuesto en el artículo 501 de la Ley Federal del Trabajo.
@@ -760,17 +792,39 @@ Para los efectos del presente Capítulo, se entiende por salario mínimo, el sal
 
 Los ingresos derivados por concepto de multas que se impongan en términos del presente Artículo, se destinarán a la Secretaría para cubrir gastos de operación e inversión en tecnología y programas vinculados al autotransporte.
 
-> <small>(ADICIONADO, D.O.F. 25 DE OCTUBRE DE 2005)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-ARTICULO 74 BIS.- La Secretaría de Seguridad Pública a través de la Policía Federal Preventiva, de conformidad con las disposiciones legales y reglamentarias respectivas, impondrá las siguientes sanciones:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE MAYO DE 2013)</small>
+
+###### ARTICULO 74 Bis.
+
+La Secretaría de Gobernación, a través de la Policía Federal, de conformidad con las disposiciones legales y reglamentarias respectivas, impondrá las siguientes sanciones:
+
+> <small>(ADICIONADA, D.O.F. 25 DE OCTUBRE DE 2005)</small>
 
 I. Por infracciones a la presente Ley y reglamentos que de ella se deriven en materia de tránsito, multa de hasta doscientos días de salario mínimo, y
 
-II. Cualquier otra infracción a las disposiciones de esta Ley y los ordenamientos que de ella se deriven para la operación de los servicios de autotransporte federal, sus servicios auxiliares y transporte privado cuando circulen en la zona terrestre de las vías generales de comunicación, con multa de hasta quinientos días de salario mínimo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA, D.O.F. 21 DE MAYO DE 2013)</small>
+
+II. Por conducir vehículos en caminos y puentes federales que no cuenten con un contrato de un seguro que garantice daños a terceros con multa de veinte a cuarenta días de salario mínimo vigente en el Distrito Federal.
+
+El propietario del vehículo tendrá 45 días naturales para la contratación de la póliza de seguro, misma que al presentarla ante la autoridad recaudatoria durante el término anterior, le será cancelada la infracción;
+
+> <small>(ADICIONADA, D.O.F. 25 DE OCTUBRE DE 2005)</small>
+
+III. Cualquier otra infracción a las disposiciones de esta Ley y los ordenamientos que de ella se deriven para la operación de los servicios de autotransporte federal, sus servicios auxiliares y transporte privado cuando circulen en la zona terrestre de las vías generales de comunicación, con multa de hasta quinientos días de salario mínimo.
+
+> <small>(ADICIONADO, D.O.F. 25 DE OCTUBRE DE 2005)</small>
 
 En caso de reincidencia, la Secretaría de Seguridad Pública podrá imponer una multa equivalente hasta el doble de las cuantías señaladas, salvo las excepciones o casos específicos previstos en esta Ley.
 
+> <small>(ADICIONADO, D.O.F. 25 DE OCTUBRE DE 2005)</small>
+
 Los ingresos derivados por concepto de multas a que se refiere la fracción I del presente Artículo, se destinarán a la Secretaría de Seguridad Pública para cubrir gastos de operación e inversión en programas vinculados a la propia seguridad pública y de manera específica se destinará el 20% del total a prevención del delito, en tanto que los derivados de la fracción II se destinarán conforme a lo establecido en el último párrafo del Artículo 74 de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 25 DE OCTUBRE DE 2005)</small>
 
 La Secretaría y la Secretaría de Seguridad Pública establecerán mecanismos para el intercambio de información en materia de infracciones.
 
@@ -931,3 +985,11 @@ Segundo.- Se derogan todas aquellas disposiciones legales y administrativas que 
 D.O.F. 18 DE MAYO DE 2012.
 
 Único.- El presente Decreto entrará en vigor a los 180 días naturales siguientes a su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 21 DE MAYO DE 2013.
+
+Primero. El presente Decreto entrará en vigor, a los ciento ochenta días siguientes, de que la Secretaría de Hacienda y Crédito Público, con opinión de la Comisión Nacional de Seguros y Fianzas, haya publicado en el Diario Oficial de la Federación las disposiciones administrativas que fijen los términos del contrato de seguro que garantice a terceros los daños que pudieren ocasionarse en sus bienes y personas, materia de las presentes reformas.
+
+Segundo. El Ejecutivo Federal y la Secretaría de Comunicaciones y Transportes, en el ámbito de sus respectivas competencias, contarán con un plazo de ciento ochenta días, contados a partir de la entrada en vigor del presente Decreto, para expedir y adecuar las disposiciones reglamentarias y administrativas que resulten necesarias para el cumplimiento del mismo.
+
+Tercero. El Ejecutivo Federal y la Secretaría de Hacienda y Crédito Público, en el ámbito de sus respectivas competencias, contarán con un plazo de ciento ochenta días, contados a partir de la entrada en vigor del presente Decreto, para expedir y adecuar las disposiciones reglamentarias y administrativas que resulten necesarias para el cumplimiento del mismo.
