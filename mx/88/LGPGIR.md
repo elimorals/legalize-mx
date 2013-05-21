@@ -4,7 +4,7 @@ identifier: "LGPGIR"
 country: "mx"
 rank: "ley_general"
 publication_date: "2003-10-08"
-last_updated: "2012-05-30"
+last_updated: "2013-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34141&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGPGIR"
 
 LEY GENERAL PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE MAYO DE 2013.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 8 de octubre de 2003.
 
@@ -240,49 +240,67 @@ IV. Expedir las normas oficiales mexicanas relativas al desempeño ambiental que
 
 V. Expedir las normas oficiales mexicanas que establezcan los criterios para determinar qué residuos estarán sujetos a planes de manejo, que incluyan los listados de éstos, y que especifiquen los procedimientos a seguir en el establecimiento de dichos planes;
 
-VI. La regulación y control de los residuos peligrosos provenientes de pequeños generadores, grandes generadores o de microgeneradores, cuando estos últimos no sean controlados por las entidades federativas;
+> <small>(ADICIONADA, D.O.F. 21 DE MAYO DE 2013)</small>
 
-VII. Regular los aspectos ambientales relativos al transporte de los residuos peligrosos;
+VI. Expedir las normas oficiales mexicanas que establezcan, entre otros, los criterios de eficiencia ambiental y tecnológica que deben cumplir los materiales con los que se elaborarán productos, envases, empaques y embalajes de plásticos y poliestireno expandido que al desecharse se convierten en residuos. Dichas normas deberán considerar los principios de reducción, reciclaje y reutilización en el manejo de los mismos.
+
+VII. La regulación y control de los residuos peligrosos provenientes de pequeños generadores, grandes generadores o de microgeneradores, cuando estos últimos no sean controlados por las entidades federativas;
+
+VIII. Regular los aspectos ambientales relativos al transporte de los residuos peligrosos;
 
 > <small>(REFORMADA, D.O.F. 22 DE MAYO DE 2006)</small>
 
-VIII. Verificar el cumplimiento de la normatividad en las materias de su competencia, e imponer las medidas correctivas, de seguridad y sanciones que en su caso correspondan;
+IX. Verificar el cumplimiento de la normatividad en las materias de su competencia, e imponer las medidas correctivas, de seguridad y sanciones que en su caso correspondan;
 
-IX. Celebrar convenios con los gobiernos de las entidades federativas para participar en la autorización y el control de los residuos peligrosos generados por microgeneradores, y brindarles asistencia técnica para ello;
+X. Celebrar convenios con los gobiernos de las entidades federativas para participar en la autorización y el control de los residuos peligrosos generados por microgeneradores, y brindarles asistencia técnica para ello;
 
-X. Autorizar el manejo integral de residuos peligrosos, así como la prestación de los servicios correspondientes, de conformidad con lo previsto en esta Ley;
+XI. Autorizar el manejo integral de residuos peligrosos, así como la prestación de los servicios correspondientes, de conformidad con lo previsto en esta Ley;
 
-XI. Promover, en coordinación con los gobiernos de las entidades federativas, de los municipios, de otras dependencias y entidades involucradas, la creación de infraestructura para el manejo integral de los residuos con la participación de los inversionistas y representantes de los sectores sociales interesados;
+XII. Promover, en coordinación con los gobiernos de las entidades federativas, de los municipios, de otras dependencias y entidades involucradas, la creación de infraestructura para el manejo integral de los residuos con la participación de los inversionistas y representantes de los sectores sociales interesados;
 
-XII. Autorizar la importación, exportación o tránsito de residuos peligrosos por el territorio nacional, de acuerdo con lo previsto en esta Ley;
+XIII. Autorizar la importación, exportación o tránsito de residuos peligrosos por el territorio nacional, de acuerdo con lo previsto en esta Ley;
 
-XIII. Establecer y operar, en el marco del Sistema Nacional de Protección Civil, en coordinación con los gobiernos de las entidades federativas y de los municipios, el sistema para la prevención y control de contingencias y emergencias ambientales relacionadas con la gestión de residuos;
+XIV. Establecer y operar, en el marco del Sistema Nacional de Protección Civil, en coordinación con los gobiernos de las entidades federativas y de los municipios, el sistema para la prevención y control de contingencias y emergencias ambientales relacionadas con la gestión de residuos;
 
-XIV. Promover la investigación, desarrollo y aplicación de tecnologías, equipos, sistemas y procesos que eliminen, reduzcan o minimicen la liberación al ambiente y la transferencia, de uno a otro de sus elementos, de contaminantes provenientes de la gestión integral de los residuos;
+> <small>(REFORMADA, D.O.F. 21 DE MAYO DE 2013)</small>
 
-XV. Promover la participación de cámaras industriales, comerciales y de otras actividades productivas, grupos y organizaciones públicas, académicas, de investigación, privadas y sociales, en el diseño e instrumentación de acciones para prevenir la generación de residuos, y llevar a cabo su gestión integral adecuada, así como la prevención de la contaminación de sitios y su remediación;
+XV. Promover la investigación, desarrollo y aplicación de tecnologías, equipos, materiales, sistemas y procesos que prevengan, reduzcan, minimicen y/o eliminen la liberación al ambiente y la transferencia, de uno a otro de sus elementos, de contaminantes provenientes de la gestión integral de los residuos;
 
-XVI. Promover la educación y capacitación continua de personas, grupos u organizaciones de todos los sectores de la sociedad, con el objeto de modificar los hábitos negativos para el ambiente de la producción y consumo de bienes;
+XVI. Promover la participación de cámaras industriales, comerciales y de otras actividades productivas, grupos y organizaciones públicas, académicas, de investigación, privadas y sociales, en el diseño e instrumentación de acciones para prevenir la generación de residuos, y llevar a cabo su gestión integral adecuada, así como la prevención de la contaminación de sitios y su remediación;
 
-XVII. Integrar, dentro del Sistema Nacional de Información Ambiental y de Recursos Naturales, que establece la Ley General del Equilibrio Ecológico y la Protección al Ambiente, subsistemas de información nacional sobre la gestión integral de residuos;
+> <small>(REFORMADA, D.O.F. 21 DE MAYO DE 2013)</small>
 
-XVIII. Formular, establecer y evaluar los sistemas de manejo ambiental del Gobierno Federal que apliquen las dependencias y entidades de la administración pública federal;
+XVII. Promover la educación y capacitación continuas de personas, grupos u organizaciones de todos los sectores de la sociedad, con el objeto de modificar los hábitos negativos para el ambiente de la producción y consumo de bienes;
 
-XIX. Suscribir convenios o acuerdos con las cámaras industriales, comerciales y de otras actividades productivas, los grupos y organizaciones sociales, públicos o privados, para llevar a cabo acciones tendientes a cumplir con los objetivos de esta Ley;
+XVIII. Integrar, dentro del Sistema Nacional de Información Ambiental y de Recursos Naturales, que establece la Ley General del Equilibrio Ecológico y la Protección al Ambiente, subsistemas de información nacional sobre la gestión integral de residuos;
 
-XX. Diseñar y promover mecanismos y acciones voluntarias tendientes a prevenir y minimizar la generación de residuos, así como la contaminación de sitios;
+XIX. Formular, establecer y evaluar los sistemas de manejo ambiental del Gobierno Federal que apliquen las dependencias y entidades de la administración pública federal;
 
-XXI. Diseñar y promover ante las dependencias competentes el establecimiento y aplicación de incentivos económicos, fiscales, financieros y de mercado, que tengan por objeto prevenir o evitar la generación de residuos; su valorización; su gestión integral y sustentable, así como prevenir la contaminación de sitios por residuos y, en su caso, su remediación;
+XX. Suscribir convenios o acuerdos con las cámaras industriales, comerciales y de otras actividades productivas, los grupos y organizaciones sociales, públicos o privados, para llevar a cabo acciones tendientes a cumplir con los objetivos de esta Ley;
 
-XXII. Determinar los indicadores que permitan evaluar la aplicación del presente ordenamiento, e integrar los resultados al Sistema de Información Ambiental y de Recursos Naturales;
+XXI. Diseñar y promover mecanismos y acciones voluntarias tendientes a prevenir y minimizar la generación de residuos, así como la contaminación de sitios;
 
-XXIII. Coadyuvar con las entidades federativas para la instrumentación de los programas para la prevención y gestión integral de los residuos, otorgando asistencia técnica;
+> <small>(REFORMADA, D.O.F. 21 DE MAYO DE 2013)</small>
 
-XXIV. Emitir las normas oficiales mexicanas para prevenir la contaminación por residuos cuya disposición final pueda provocar salinización e incrementos excesivos de carga orgánica en suelos y cuerpos de agua;
+XXII. Diseñar y promover ante las dependencias competentes el establecimiento y aplicación de incentivos económicos, fiscales, financieros y de mercado, que tengan por objeto favorecer la valorización, la gestión integral y sustentable de los residuos, la remediación de sitios contaminados con estos; así como prevenir o evitar la generación de residuos y la contaminación de sitios por estos;
 
-XXV. Convocar a entidades federativas y municipios, según corresponda, para el desarrollo de estrategias conjuntas en materia de residuos que permitan la solución de problemas que los afecten, y
+> <small>(ADICIONADA, D.O.F. 21 DE MAYO DE 2013)</small>
 
-XXVI. Las demás que se establezcan en este y otros ordenamientos jurídicos que resulten aplicables.
+XXIII. Promover y aplicar en colaboración con las entidades federativas y municipales instrumentos económicos que incentiven el desarrollo, adopción y despliegue de tecnología y materiales que favorezcan la reducción, el reúso, y reciclaje de residuos;
+
+> <small>(ADICIONADA, D.O.F. 21 DE MAYO DE 2013)</small>
+
+XXIV. Promover, difundir y facilitar el acceso a la información a todos los sectores de la sociedad sobre los riesgos y efectos en el ambiente y la salud humana de los materiales, envases, empaques y embalajes que al desecharse se convierten en residuos, en colaboración y coordinación con los gobiernos de las entidades federativas, de los municipios, de otras dependencias y entidades involucradas;
+
+XXV. Determinar los indicadores que permitan evaluar la aplicación del presente ordenamiento, e integrar los resultados al Sistema de Información Ambiental y de Recursos Naturales;
+
+XXVI. Coadyuvar con las entidades federativas para la instrumentación de los programas para la prevención y gestión integral de los residuos, otorgando asistencia técnica;
+
+XXVII. Emitir las normas oficiales mexicanas para prevenir la contaminación por residuos cuya disposición final pueda provocar salinización e incrementos excesivos de carga orgánica en suelos y cuerpos de agua;
+
+XXVIII. Convocar a entidades federativas y municipios, según corresponda, para el desarrollo de estrategias conjuntas en materia de residuos que permitan la solución de problemas que los afecten, y
+
+XXIX. Las demás que se establezcan en este y otros ordenamientos jurídicos que resulten aplicables.
 
 ###### Artículo 8.
 
@@ -314,7 +332,9 @@ VIII. Promover programas municipales de prevención y gestión integral de los r
 
 IX. Participar en el establecimiento y operación, en el marco del Sistema Nacional de Protección Civil y en coordinación con la Federación, de un sistema para la prevención y control de contingencias y emergencias ambientales derivadas de la gestión de residuos de su competencia;
 
-X. Promover la investigación, desarrollo y aplicación de tecnologías, equipos, sistemas y procesos que eliminen, reduzcan o minimicen la liberación al ambiente y la transferencia de uno a otro de sus elementos, de contaminantes provenientes del manejo integral de los residuos de su competencia;
+> <small>(REFORMADA, D.O.F. 21 DE MAYO DE 2013)</small>
+
+X. Promover la investigación, desarrollo y aplicación de tecnologías, equipos, materiales, sistemas y procesos que prevengan, reduzcan, minimicen y/o eliminen la liberación al ambiente y la transferencia, de uno a otro de sus elementos, de contaminantes provenientes de la gestión integral de los residuos de su competencia;
 
 XI. Promover la participación de los sectores privado y social en el diseño e instrumentación de acciones para prevenir la generación de residuos de manejo especial, y llevar a cabo su gestión integral adecuada, así como para la prevención de la contaminación de sitios con estos residuos y su remediación, conforme a los lineamientos de esta Ley y las normas oficiales mexicanas correspondientes;
 
@@ -362,11 +382,15 @@ VII. Verificar el cumplimiento de las disposiciones de esta Ley, normas oficiale
 
 VIII. Participar en el control de los residuos peligrosos generados o manejados por microgeneradores, así como imponer las sanciones que procedan, de acuerdo con la normatividad aplicable y lo que establezcan los convenios que se suscriban con los gobiernos de las entidades federativas respectivas, de conformidad con lo establecido en esta Ley;
 
-IX. Coadyuvar en la prevención de la contaminación de sitios con materiales y residuos peligrosos y su remediación;
+> <small>(ADICIONADA, D.O.F. 21 DE MAYO DE 2013)</small>
 
-X. Efectuar el cobro por el pago de los servicios de manejo integral de residuos sólidos urbanos y destinar los ingresos a la operación y el fortalecimiento de los mismos, y
+IX. Participar y aplicar, en colaboración con la federación y el gobierno estatal, instrumentos económicos que incentiven el desarrollo, adopción y despliegue de tecnología y materiales que favorezca el manejo integral de residuos sólidos urbanos;
 
-XI. Las demás que se establezcan en esta Ley, las normas oficiales mexicanas y otros ordenamientos jurídicos que resulten aplicables.
+X. Coadyuvar en la prevención de la contaminación de sitios con materiales y residuos peligrosos y su remediación;
+
+XI. Efectuar el cobro por el pago de los servicios de manejo integral de residuos sólidos urbanos y destinar los ingresos a la operación y el fortalecimiento de los mismos, y
+
+XII. Las demás que se establezcan en esta Ley, las normas oficiales mexicanas y otros ordenamientos jurídicos que resulten aplicables.
 
 ###### Artículo 11.
 
@@ -488,9 +512,13 @@ En el caso de la generación de residuos peligrosos considerados como infeccioso
 
 ### CAPÍTULO I. PROGRAMAS PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS
 
+> <small>(REFORMADO, D.O.F. 21 DE MAYO DE 2013)</small>
+
 ###### Artículo 25.
 
 La Secretaría deberá formular e instrumentar el Programa Nacional para la Prevención y Gestión Integral de los Residuos, de conformidad con esta Ley, con el Diagnóstico Básico para la Gestión Integral de Residuos y demás disposiciones aplicables.
+
+El Programa Nacional para la Prevención y Gestión Integral de los Residuos se basará en los principios de reducción, reutilización y reciclado de los residuos, en un marco de sistemas de gestión integral, en los que aplique la responsabilidad compartida y diferenciada entre los diferentes sectores sociales y productivos, y entre los tres órdenes de gobierno.
 
 El Diagnóstico Básico para la Gestión Integral de Residuos es el estudio que considera la cantidad y composición de los residuos, así como la infraestructura para manejarlos integralmente.
 
@@ -526,6 +554,8 @@ IV. Establecer esquemas de manejo en los que aplique el principio de responsabil
 
 V. Alentar la innovación de procesos, métodos y tecnologías, para lograr un manejo integral de los residuos, que sea económicamente factible.
 
+> <small>(REFORMADO, D.O.F. 21 DE MAYO DE 2013)</small>
+
 ###### Artículo 28.
 
 Estarán obligados a la formulación y ejecución de los planes de manejo, según corresponda:
@@ -534,7 +564,7 @@ I. Los productores, importadores, exportadores y distribuidores de los productos
 
 II. Los generadores de los residuos peligrosos a los que se refieren las fracciones XII a XV del artículo 31 y de aquellos que se incluyan en las normas oficiales mexicanas correspondientes, y
 
-III. Los grandes generadores y los productores, importadores, exportadores y distribuidores de los productos que al desecharse se convierten en residuos sólidos urbanos o de manejo especial que se incluyan en los listados de residuos sujetos a planes de manejo de conformidad con las normas oficiales mexicanas correspondientes.
+III. Los grandes generadores y los productores, importadores, exportadores y distribuidores de los productos que al desecharse se convierten en residuos sólidos urbanos o de manejo especial que se incluyan en los listados de residuos sujetos a planes de manejo de conformidad con las normas oficiales mexicanas correspondientes; así como los residuos de envases plásticos, incluyendo los de poliestireno expandido.
 
 ###### Artículo 29.
 
@@ -1056,7 +1086,9 @@ La regulación de la generación y manejo integral de los residuos sólidos urba
 
 Las entidades federativas y los municipios, en el ámbito de sus respectivas competencias, con el propósito de promover la reducción de la generación, valorización y gestión integral de los residuos sólidos urbanos y de manejo especial, a fin de proteger la salud y prevenir y controlar la contaminación ambiental producida por su manejo, deberán llevar a cabo las siguientes acciones:
 
-I. El control y vigilancia del manejo integral de residuos en el ámbito de su competencia;
+> <small>(REFORMADA, D.O.F. 21 DE MAYO DE 2013)</small>
+
+I. El control y vigilancia del manejo integral de residuos en el ámbito de su competencia. Cada entidad federativa podrá coordinarse con sus municipios para formular e implementar dentro de su circunscripción territorial un sistema de gestión integral de residuos que deberá asegurar el manejo, valorización y disposición final de los residuos a que se refiere este artículo. Asimismo, dichas autoridades podrán convenir entre sí el establecimiento de centros de disposición final local o regional que den servicio a dos o más entidades federativas;
 
 II. Diseñar e instrumentar programas para incentivar a los grandes generadores de residuos a reducir su generación y someterlos a un manejo integral;
 
@@ -1449,3 +1481,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 D.O.F. 30 DE MAYO DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 21 DE MAYO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las entidades federativas deberán realizar las reformas a su legislación y reglamentación, en las disposiciones que resulten necesarias para el desarrollo y ejecución del presente Decreto.
