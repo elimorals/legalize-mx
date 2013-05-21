@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-5-2001-del-tribunal-pleno-de-la-suprema-41000"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-06-29"
-last_updated: "2013-03-26"
+last_updated: "2013-05-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41000&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2001-06-21"
 
 ACUERDO GENERAL NÚMERO 5/2001, DE VEINTIUNO DE JUNIO DE DOS MIL UNO, DEL TRIBUNAL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, RELATIVO A LA DETERMINACIÓN DE LOS ASUNTOS QUE CONSERVARÁ PARA SU RESOLUCIÓN Y EL ENVIÓ DE LOS DE SU COMPETENCIA ORIGINARIA A LAS SALAS Y A LOS TRIBUNALES COLEGIADOS DE CIRCUITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE MARZO DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO GENERAL NÚMERO 5/2013, DE TRECE DE MAYO DE DOS MIL TRECE, DEL TRIBUNAL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, RELATIVO A LA DETERMINACIÓN DE LOS ASUNTOS QUE EL PLENO CONSERVARÁ PARA SU RESOLUCIÓN, Y EL ENVÍO DE LOS DE SU COMPETENCIA ORIGINARIA A LAS SALAS Y A LOS TRIBUNALES COLEGIADOS DE CIRCUITO, PUBLICADO EN EL D.O.F. DE 21 DE MAYO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: DEROGADO.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 29 de junio de 2001 y en el Semanario Judicial de la Federación y su Gaceta, Tomo XIV, Julio de 2001, página 1161.
 
@@ -360,3 +362,13 @@ PRIMERO. El presente Instrumento Normativo entrará en vigor al día siguiente d
 SEGUNDO. Las inconformidades interpuestas conforme a lo previsto en el artículo 105 de la Ley de Amparo, recibidas en la Suprema Corte de Justicia de la Nación antes de la entrada en vigor de este Instrumento Normativo, se resolverán por sus Salas.
 
 TERCERO. Publíquese el presente Instrumento Normativo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta y en medios electrónicos de consulta pública en términos de lo dispuesto en el artículo 7, fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, sin menoscabo de que la Secretaría General de Acuerdos difunda el texto íntegro del Acuerdo General Plenario 5/2001 en dichos medios electrónicos.
+
+D.O.F. 21 DE MAYO DE 2013.
+
+PRIMERO. El presente Acuerdo General entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se deroga el Acuerdo General Plenario 5/2001, de veintiuno de junio de dos mil uno, relativo a la determinación de los asuntos que conservará para su resolución y el envío de los de su competencia originaria a las Salas y a los Tribunales Colegiados de Circuito, así como las demás disposiciones generales y específicas que se opongan a lo previsto en este instrumento normativo.
+
+TERCERO. Los incidentes de inejecución e inconformidades relativos a juicios de amparo cuya sentencia causó estado antes del tres de abril de dos mil trece, se regirán por lo dispuesto en los Acuerdos Generales Plenarios 5/2001, de veintiuno de junio de dos mil uno, y 12/2009, de veintitrés de noviembre de dos mil nueve.
+
+CUARTO. Publíquese el presente Acuerdo General en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta y, en términos de lo dispuesto en el artículo 7, fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública.
