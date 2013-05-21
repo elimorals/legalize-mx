@@ -4,7 +4,7 @@ identifier: "SLP-ley-sobre-los-derechos-de-ninas-ninos-y-adolescentes-del-33373"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-14"
-last_updated: "2012-09-13"
+last_updated: "2013-05-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY SOBRE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2013.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 14 de agosto de 2003.
 
@@ -43,9 +43,11 @@ LEY SOBRE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SAN LUIS P
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MAYO DE 2013)</small>
+
 ###### ARTICULO 1°.
 
-La presente Ley es reglamentaria del artículo 12 de la Constitución Política del Estado; sus disposiciones son de orden público, interés social, de observancia general para todo el Estado de San Luis Potosí; tiene por objeto proteger los derechos de niñas, niños y adolescentes.
+La presente Ley es reglamentaria del artículo 12 de la Constitución Política del Estado; sus disposiciones son de orden público, interés social, de observancia general para todo el Estado de San Luis Potosí; tiene por objeto proteger los derechos humanos de niñas, niños y adolescentes.
 
 Se consideran niñas y niños, las personas de hasta doce años de edad; y adolescentes a los mayores de doce y menores de dieciocho años.
 
@@ -63,9 +65,11 @@ Para efectos de interpretación de los conceptos incluidos en esta Ley, se aplic
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MAYO DE 2013)</small>
+
 ###### ARTICULO 4°.
 
-La protección de los derechos de niñas, niños y adolescentes tiene como objetivo asegurarles un desarrollo pleno, lo que implica que tengan la oportunidad de formarse, física, mental, emocional, social y moralmente en condiciones de igualdad. Para ello, son principios rectores de la observancia, interpretación y aplicación de esta Ley, los siguientes:
+La protección de los derechos de niñas, niños y adolescentes tiene como objetivo asegurarles un desarrollo pleno con perspectiva de género, lo que implica que tengan la oportunidad de formarse, física, mental, emocional, social y moralmente en condiciones de igualdad. Para ello, son principios rectores de la observancia, interpretación y aplicación de esta Ley, los siguientes:
 
 I. El de la corresponsabilidad o concurrencia, que asegure la participación de la familia, sociedad y autoridad en la atención de las niñas, niños y adolescentes;
 
@@ -75,7 +79,9 @@ III. El de defensa y protección de los derechos señalados en esta Ley, a favor
 
 IV. El de vivir en familia como espacio preferente para el desarrollo de niñas, niños y adolescentes;
 
-V. El de la igualdad que implica la no discriminación, por alguna razón o circunstancia como raza, sexo, religión, lengua, opinión política o de cualquier otra índole, origen étnico, posición económica, discapacidad o cualquier otra condición de desigualdad, y
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2013)</small>
+
+V. El de la igualdad y equidad de género, que implica la no discriminación, por alguna razón o circunstancia como raza, sexo, religión, lengua, opinión política o de cualquier otra índole, origen étnico, posición económica, discapacidad o cualquier otra condición de desigualdad, y
 
 VI. El de tener una vida libre de violencia.
 
@@ -103,9 +109,13 @@ Las autoridades gubernamentales encargadas de cumplir con la obligación estable
 
 ### CAPITULO I. De los Padres y Demás Parientes
 
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2013)</small>
+
 ###### ARTICULO 8°.
 
-La madre y el padre son responsables del desarrollo integral de sus hijos; para tal efecto deberán proporcionar lo necesario para su subsistencia, salud, educación y los elementos que favorezcan su incorporación al medio social; también asegurarán el respeto y la aplicación eficaz de los derechos establecidos en esta Ley y les protegerán contra toda forma de maltrato. Los otros miembros de la familia tendrán las mismas obligaciones en los términos de las demás disposiciones legales aplicables.
+La madre y el padre son responsables del desarrollo integral de sus hijos; para tal efecto deberán proporcionar lo necesario para su subsistencia, salud, educación, y los elementos que favorezcan el acceso a una vida libre de violencia y su incorporación al medio social; también asegurarán el respeto y la aplicación eficaz de los derechos establecidos en esta Ley, y les protegerán contra toda forma de maltrato y violencia de género.
+
+Las otras personas integrantes de la familia tendrán las mismas obligaciones, en los términos de las demás disposiciones legales aplicables.
 
 ###### ARTICULO 9°.
 
@@ -115,9 +125,11 @@ El hecho de que los padres no vivan en el mismo lugar, no es excusa para que no 
 
 ### CAPITULO II. De los Tutores, Cuidadores y Docentes
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MAYO DE 2013)</small>
+
 ###### ARTICULO 10.
 
-Las obligaciones de los tutores, cuidadores y docentes que tengan a su cargo el cuidado de una niña, niño o adolescente, serán las de protegerlo contra toda forma de abuso; tratarlo con respeto a su dignidad y a sus derechos, enseñándolos a que aprendan a defenderlos y respetar los de otras personas.
+Las obligaciones de las personas tutoras, cuidadoras, y docentes que tengan a su cargo el cuidado de una niña, niño o adolescente, serán las de protegerlo contra toda forma de abuso o violencia de género.
 
 Las instituciones educativas, públicas o privadas, deberán implementar medidas para evitar cualquier forma de maltrato, tanto físico como verbal, daño, perjuicio, abuso o explotación, en contra de niñas, niños y adolescentes, durante el horario de sus actividades escolares.
 
@@ -137,21 +149,25 @@ Niñas, niños y adolescentes tienen prioridad en el ejercicio de todos sus dere
 
 ### CAPITULO II. Del Derecho a la Vida
 
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2013)</small>
+
 ###### ARTICULO 12.
 
-El Gobierno del Estado velará por el derecho fundamental de las niñas, niños y adolescentes a la vida, especialmente en circunstancias que impliquen riesgo a su integridad física; los padres, la familia, tutores, cuidadores y la sociedad en general garantizarán su sobrevivencia y desarrollo.
+El Gobierno del Estado velará por el derecho fundamental de las niñas, niños y adolescentes a la vida, especialmente en circunstancias que impliquen riesgo a su integridad física y mental; los padres, la familia, tutores, cuidadores y, la sociedad en general, garantizarán su sobrevivencia y desarrollo.
 
 ### CAPITULO III. Del Derecho a la no Discriminación
 
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2013)</small>
 
 ###### ARTICULO 13.
 
-Niñas, niños y adolescentes no podrán ser objeto de discriminación, por lo que la observancia de sus derechos se hará sin distinción alguna, independientemente de raza, color, sexo, idioma, religión, opinión, origen, posición económica, discapacidad o cualquier otra condición de ellos, de sus padres, tutores o familiares.
+Niñas, niños y adolescentes no podrán ser objeto de discriminación, por lo que la observancia de sus derechos se hará en equidad y perspectiva de género, sin distinción alguna, independientemente de raza, color, sexo, idioma, religión, opinión, capacidad, origen, posición económica, discapacidad o cualquier otra condición de ellos o de sus familiares.
+
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2013)</small>
 
 ###### ARTICULO 14.
 
-El Gobierno del Estado de manera conjunta con ascendientes, tutores y la sociedad en general, promoverá en niñas, niños y adolescentes una cultura de equidad; erradicando costumbres y prejuicios alentadores de la discriminación por género.
+El Gobierno del Estado de manera conjunta con ascendientes, personas tutoras y, la sociedad en general, promoverá en niñas, niños y adolescentes una cultura de equidad de género y libre de violencia; erradicando costumbres y prejuicios alentadores de la discriminación y la violencia de género.
 
 ### CAPITULO IV. Del Derecho a Vivir en Condiciones de Bienestar y a un Desarrollo Integral
 
@@ -163,11 +179,19 @@ Niñas, niños y adolescentes tienen derecho a vivir en condiciones que permitan
 
 El Gobierno del Estado y municipios, a través de sus instituciones, los padres, la familia y la sociedad, garantizarán a niñas, niños y adolescentes una sobrevivencia sana y un desarrollo pleno, por lo que deberán procurarse las condiciones necesarias que tiendan a proporcionarles:
 
-I. Una vida libre de violencia;
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2013)</small>
 
-II. El respeto en su persona, integridad física, psicoemocional y sexual;
+I. El acceso a una vida libre de violencia;
 
-III. La protección contra toda forma de explotación, y
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2013)</small>
+
+II. El respeto en su persona, y en sus opciones culturales, libertad de pensamiento, integridad física, psicoemocional y sexual;
+
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2013)</small>
+
+III. La protección contra toda forma de explotación laboral o sexual; prostitución, abuso y maltrato, violencia de género o cualquier situación que ocasione daño físico o psicológico, y
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 21 DE MAYO DE 2013)</small>
 
 IV. La orientación contra el consumo de drogas y estupefacientes, o cualquier otro que genere estado de dependencia o adicción.
 
@@ -175,9 +199,11 @@ IV. La orientación contra el consumo de drogas y estupefacientes, o cualquier o
 
 Padres, familia, tutores, cuidadores, la sociedad y las autoridades competentes brindarán la atención adecuada a las niñas, niños y adolescentes cuando se atente o se hayan vulnerado sus derechos.
 
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2013)</small>
+
 ###### ARTICULO 18.
 
-Es obligación de cualquier persona denunciar o hacer del conocimiento de la autoridad competente de manera inmediata, cualquier acto, hecho u omisión que atente contra la integridad o dignidad de niñas, niños y adolescentes.
+Es obligación de todas las personas denunciar o hacer del conocimiento de la autoridad competente, de manera inmediata, cualquier acto, hecho u omisión que atente contra, la dignidad, libertad, integridad física o emocional, de niñas, niños y adolescentes.
 
 ### CAPITULO V. Del Derecho a la Identidad y a la Certeza Jurídica
 
@@ -227,13 +253,19 @@ Los centros o servicios públicos y privados de prevención y atención de la sa
 
 Es obligación de quienes ejercen la patria potestad o la guarda de las personas a que se refiere esta Ley, cumplir con las instrucciones y controles médicos que se prescriban para proteger, restablecer y conservar su salud. El esquema de vacunación completo y el control nutricional periódico, tal como lo marca la normatividad aplicable. El ejercicio de esas facultades en ninguna circunstancia podrá hacerse valer para tomar decisiones que afecten la vida y salud de las niñas, niños y adolescentes.
 
-Es obligación también de esas personas la prevención al consumo, así como evitar la exposición de los individuos protegidos por esta Ley a sustancias tóxicas o nocivas; incluyendo el humo del tabaco, tanto en el hogar como en lugares públicos.
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2013)</small>
+
+Es obligación también de esas personas la prevención al consumo, así como evitar la exposición de las personas protegidas por esta Ley a sustancias tóxicas o nocivas; incluyendo el humo del tabaco, tanto en el hogar, como en lugares públicos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MAYO DE 2013)</small>
 
 ###### ARTICULO 27.
 
-Los servicios de salud que prestarán los tres órdenes de gobierno a favor de los sujetos protegidos por esta Ley, se enfocan primordialmente a:
+Los servicios de salud que prestarán los tres órdenes de gobierno, a favor de las personas protegidas por esta Ley, se enfocan primordialmente a:
 
-I. Difundir los servicios que otorgan las instituciones de salud pública;
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2013)</small>
+
+I. Difundir los servicios que otorgan las instituciones de salud pública con perspectiva y equidad de género;
 
 II. Ofrecer una atención integral durante la consulta, independientemente de la causa que motivó la solicitud de la atención médica, de conformidad a lo que dispongan las normas aplicables;
 
@@ -265,11 +297,17 @@ XV. Prestar servicios de salud mental;
 
 XVI. Elaborar protocolos de investigación para promover, tratar y rehabilitar la salud de las niñas, niños y adolescentes, y
 
-XVII. Proporcionar cualquier otro contenido en las disposiciones legales en materia de salud y asistencia social.
+> <small>(ADICIONADA, P.O. 21 DE MAYO DE 2013)</small>
 
-###### ARTICULO 28.
+XVII. Prevenir, atender y erradicar la violencia de género y la discriminación, y
 
-Las instituciones educativas, públicas y privadas apoyarán a los padres en la detección de problemas visuales, auditivos, posturales, nutricionales y respiratorios.
+XVIII. Proporcionar cualquier otro contenido en las disposiciones legales en materia de salud y asistencia social.
+
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2013)</small>
+
+###### ARTÍCULO 28.
+
+Las instituciones educativas, públicas, y privadas, apoyarán a los padres en la detección de problemas visuales, auditivos, posturales, nutricionales, respiratorios, y los que se originen como producto de la violencia de género.
 
 ###### ARTICULO 29.
 
@@ -289,13 +327,19 @@ I. Involucrar a la familia en la atención y rehabilitación de los menores con 
 
 II. Apoyar a las familias del menor con discapacidad, brindándoles de manera oportuna orientación y asesoría para su atención y rehabilitación;
 
-III. Promover acciones interdisciplinarias a través de los servicios de salud, para el estudio, diagnóstico temprano, tratamiento y rehabilitación de las niñas, niños y adolescentes, que en cada caso se necesiten, siendo éstos accesibles a las posibilidades económicas de su familia o familiares;
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2013)</small>
 
-IV. Crear casas hogar para niñas, niños y adolescentes que se encuentren en estado de abandono;
+III. Promover acciones interdisciplinarias, a través de los servicios de salud, para el estudio, diagnóstico temprano, tratamiento y rehabilitación de las niñas, niños y adolescentes, con perspectiva de género, que en cada caso se necesiten, siendo éstos accesibles a las posibilidades económicas de su familia o familiares;
+
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2013)</small>
+
+IV. Crear casas hogar para niñas, niños y adolescentes que se encuentren en, estado de abandono, o violencia de género;
 
 V. Promover entre los miembros de la sociedad la creación de albergues especializados sin fines de lucro, para la atención de los menores con discapacidad en estado de abandono, brindándoles los apoyos necesarios a través de sus instituciones;
 
-VI. Fortalecer a través de la Secretaría de Educación del Gobierno del Estado, los centros educativos especiales, dotándolos de la infraestructura y el equipamiento necesarios para su desarrollo, promoviendo la creación de nuevos centros;
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2013)</small>
+
+VI. Fortalecer, a través de la Secretaría de Educación de Gobierno del Estado, los centros educativos especiales, dotándolos de la infraestructura y el equipamiento necesarios para su desarrollo, promoviendo la creación de nuevos centros que difundan los derechos de las niñas, niños y adolescentes, así como el acceso a una vida libre de violencia, y la igualdad entre hombres y mujeres;
 
 VII. Promover la coordinación interinstitucional para la capacitación e incorporación laboral de los adolescentes con discapacidad;
 
@@ -395,13 +439,23 @@ Las autoridades, en el marco de sus atribuciones legales, procurarán que a trav
 
 I. Se atiendan las necesidades informativas de las niñas, niños y adolescentes;
 
-II. Se promueva la difusión de sus derechos, deberes y garantías, y
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2013)</small>
 
-III. Se oriente el ejercicio de sus derechos para su sano desarrollo, y puedan protegerse a sí mismos de peligros que puedan afectar su vida y su salud.
+II. Se promueva la difusión de sus derechos, deberes y garantías;
 
-###### ARTICULO 46.
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2013)</small>
 
-Las autoridades estatales y municipales procurarán que los espectáculos a que asistan menores y adolescentes, promuevan el espíritu cívico, la solidaridad, la fraternidad y el respeto a la dignidad entre los hombres, en consideración a su edad, y que no participen en juegos u otras actividades que puedan causarles daño psicológico.
+III. Se oriente el ejercicio de sus derechos para su sano desarrollo, y puedan protegerse a sí mismos de peligros que puedan afectar su vida y su salud, y
+
+> <small>(ADICIONADA, P.O. 21 DE MAYO DE 2013)</small>
+
+IV. Se difunda la equidad de género, la no discriminación y violencia en contra de las personas.
+
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2013)</small>
+
+###### ARTÍCULO 46.
+
+Las autoridades estatales y municipales procurarán que los espectáculos a que asistan las niñas, niños y adolescentes, promuevan, el espíritu cívico, la equidad e igualdad de género, la solidaridad, la fraternidad, y el respeto a la dignidad entre las mujeres y los hombres, en consideración a su edad, y que no participen en juegos u otras actividades que puedan causarles daño psicológico.
 
 ## TITULO SEXTO. DEL COMITE PARA LA PROTECCION DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y LOS ADOLESCENTES EN EL ESTADO, Y DE LAS COMISIONES MUNICIPALES
 
@@ -443,7 +497,9 @@ Los cargos de los miembros del Comité serán honoríficos y no percibirán retr
 
 El Comité tendrá las siguientes atribuciones:
 
-I. Ser órgano de consulta respecto a la defensa y protección de los derechos de la niñez y adolescencia, así como velar por el cumplimiento de esta Ley;
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2013)</small>
+
+I. Ser órgano de consulta respecto a la defensa y protección de los derechos humanos de la niñez y adolescencia, así como velar por la equidad e igualdad de género en el cumplimiento de esta Ley;
 
 II. Vigilar que los principios básicos sobre los derechos de la niñez sean considerados en la formulación e instrumentación de las políticas, programas y presupuestos que tengan impacto directo en las acciones a favor de la niñez y la adolescencia;
 
@@ -457,11 +513,13 @@ VI. Establecer estrategias que permitan elaborar y mantener actualizado el anál
 
 VII. Propiciar la participación activa de la niñez y la adolescencia en el conocimiento, difusión, ejercicio y defensa de sus derechos;
 
-VIII. Realizar campañas de difusión de los derechos contenidos en esta Ley, estableciendo convenios de coordinación con los medios de comunicación;
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2013)</small>
 
-> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2012)</small>
+VIII. Realizar campañas de difusión de los derechos contenidos en esta Ley, la equidad, la igualdad de género, y su acceso a una vida libre de violencia y de discriminación, estableciendo convenios de coordinación con los medios de comunicación;
 
-IX. Asignar personal calificado para representar legalmente ante las autoridades competentes, a las niñas, niños y adolescentes, por delitos cometidos en contra de sus derechos, así como intervenir en su defensa ante las instancias administrativas o judiciales;
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2013)</small>
+
+IX. Constituir comisiones especiales para determinadas tareas, participando los integrantes del Comité, así como otros organismos públicos y no gubernamentales;
 
 X. Constituir comisiones especiales para determinadas tareas, participando miembros del Comité, así como otros organismos públicos y no gubernamentales;
 
@@ -571,7 +629,9 @@ Las instituciones señaladas en el artículo anterior, ante casos urgentes, debe
 
 Las medidas de protección para las personas a que se refiere esta Ley, serán aplicables siempre que sus derechos sean amenazados o violados por alguna de las siguientes causas:
 
-I. Falta, omisión o abuso de quienes ejerzan la patria potestad o su guarda;
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2013)</small>
+
+I. Falta, omisión, abuso, discriminación, violencia de género por parte de quienes ejerzan la patria potestad o su guarda;
 
 II. Acción u omisión de los particulares o del gobierno, y
 
@@ -585,9 +645,13 @@ I. La suspensión del régimen de visitas;
 
 II. La suspensión del cuidado, la guarda y el depósito provisional;
 
-III. La suspensión provisional de la administración de bienes de los menores de edad, y
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2013)</small>
 
-IV. Cualquier otra medida que proteja los derechos reconocidos en el Código Civil vigente en el Estado.
+III. La suspensión provisional de la administración de bienes de las personas menores de edad, y
+
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2013)</small>
+
+IV. Cualquier otra medida que proteja los derechos reconocidos en la presente Ley, o el Código Civil vigente en el Estado.
 
 ###### ARTICULO 63.
 
@@ -597,19 +661,27 @@ El gobierno estatal promoverá la celebración de convenios de coordinación con
 
 ### CAPITULO UNICO
 
-###### ARTICULO 64.
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2013)</small>
 
-El Gobierno del Estado y de los municipios, a través de sus dependencias y entidades, establecerán acciones para prevenir el trabajo de los menores en la calle, o cualquier otro sitio en que se ponga en peligro su integridad, seguridad, dignidad y moralidad.
+###### ARTÍCULO 64.
 
-Las acciones que se implementen tendrán por objeto la protección de los menores contra las peores formas de trabajo, o liberarlos de ellas, garantizándoles su rehabilitación e inserción social con medidas que permitan atender sus necesidades educativas, físicas y psicológicas.
+El Gobierno del Estado, y el de los municipios, a través de sus dependencias y entidades, establecerán acciones para prevenir el trabajo de las personas menores de edad en la calle, o cualquier otro sitio en que se ponga en peligro su integridad, seguridad, dignidad y moralidad.
 
-###### ARTICULO 65.
+Las acciones que se implementen tendrán por objeto la protección de las niñas, niños y adolescentes contra las peores formas de trabajo o liberarlos de ellas, garantizándoles su rehabilitación e inserción social con medidas que permitan atender sus necesidades educativas, físicas y psicológicas.
 
-Las autoridades laborales del Gobierno del Estado, en coordinación con las dependencias o entidades federales en la materia, garantizarán a los niños y niñas mayores de catorce años, sujetos de una relación laboral, el respeto y aplicación de las normas del trabajo; al efecto, implementarán programas de acción y consulta en las que se procurará intervengan las organizaciones de empleadores y trabajadores para:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MAYO DE 2013)</small>
 
-I. Prestar asistencia directa e inmediata a los menores trabajadores, para el conocimiento de sus derechos y obligaciones laborales;
+###### ARTÍCULO 65.
 
-II. Identificar a los menores que estén laborando en condiciones insalubres, peligrosas o fuera del horario permitido por la ley de la materia;
+Las autoridades laborales de Gobierno del Estado, en coordinación con las dependencias o entidades federales en la materia, garantizarán a las y los adolescentes mayores de catorce años, sujetos de una relación laboral, el respeto y aplicación de las normas del trabajo; al efecto, implementarán programas de acción y consulta en las que se procurará intervengan las organizaciones de empleadores y trabajadores para:
+
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2013)</small>
+
+I. Prestar asistencia directa e inmediata a las y los adolescentes trabajadores, para el conocimiento de sus derechos y obligaciones laborales;
+
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2013)</small>
+
+II. Identificar a las y los adolescentes que estén laborando en condiciones insalubres, peligrosas, o fuera del horario permitido por la ley de la materia;
 
 III. Procurar la equidad entre las y los adolescentes, durante sus actividades laborales, y
 
@@ -619,15 +691,19 @@ IV. Informar y orientar a los familiares de los menores y a la sociedad en gener
 
 ### CAPITULO UNICO
 
-###### ARTICULO 66.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MAYO DE 2013)</small>
 
-A los padres, tutores, docentes o cualquier otra persona que infrinja de modo alguno las disposiciones de esta Ley, y que conlleve a menoscabar la dignidad, integridad y moralidad del o los menores bajo su cuidado, con independencia de las sanciones que prevé la ley aplicable a la conducta asumida, se hará acreedor a:
+###### ARTÍCULO 66.
+
+A los padres, tutores, docentes, o cualquier otra persona que infrinja de modo alguno las disposiciones de esta Ley, y que conlleve-a menoscabar la dignidad, integridad y moralidad de las personas menores de edad que estén bajo su cuidado, con independencia de las sanciones que prevé la ley aplicable a la conducta asumida, se harán acreedoras a:
 
 I. Amonestación con apercibimiento;
 
 II. En caso de reincidencia de conducta similar, se aplicará multa de hasta quinientos días de salario mínimo vigente en el Estado, y
 
-III. Si la falta es considerada grave se aplicará a la persona física, multa de quinientos un a mil días de salario mínimo vigente en la zona; además, en el caso de que la infracción la cometa personal de la institución educativa o asistencial que alberga al menor, ésta separará inmediatamente al infractor para garantizar la integridad de aquél.
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2013)</small>
+
+III. Si la falta es considerada grave se aplicará a la persona física, multa de quinientos uno a mil días de salario mínimo vigente en la zona; además, en el caso de que la infracción la cometa personal de la institución educativa o asistencial que alberga a la niña, niño o adolescente, ésta separará inmediatamente a la persona infractora para garantizar la integridad de las personas menores de edad.
 
 ###### ARTICULO 67.
 
@@ -710,3 +786,9 @@ P.O. 13 DE SEPTIEMBRE DE 2012.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de San Luis Potosí.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE MAYO DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto
