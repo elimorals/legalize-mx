@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-poder-ejecutivo-para-el-estado-de-18976"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-15"
-last_updated: "2012-09-18"
+last_updated: "2013-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18976&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2013.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 15 de diciembre del año 2000.
 
@@ -173,7 +173,9 @@ V.- La Secretaría de Salud;
 
 VI.- La Secretaría de Desarrollo Económico Sustentable;
 
-VII.- La Secretaría de Desarrollo Agropecuario;
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2013)</small>
+
+VII.- La Secretaría de Desarrollo Agroalimentario y Rural;
 
 VIII.- La Secretaría de Obra Pública;
 
@@ -185,9 +187,9 @@ IX.- La Secretaría de Seguridad Pública;
 
 X.- La Secretaría de la Transparencia y Rendición de Cuentas;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE MAYO DE 2007)</small>
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2013)</small>
 
-XI.- La Secretaría de Desarrollo Turístico; y
+XI.- La Secretaría de Turismo; y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 18 DE MAYO DE 2007)</small>
 
@@ -390,6 +392,10 @@ f) Tramitar los nombramientos, licencias y renuncias de los Magistrados del Trib
 g) Tramitar los nombramientos y renuncias de los magistrados del Tribunal Electoral del Estado de Guanajuato, que corresponda proponer al Poder Ejecutivo;
 
 h) Publicar en el Periódico Oficial del Gobierno del Estado los actos y resoluciones que requieran tal requisito conforme a las leyes y reglamentos aplicables;
+
+> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2013)</small>
+
+El Periódico Oficial se editará en forma impresa y electrónica, ambas ediciones tendrán carácter oficial e idénticas características y contenido.
 
 i) Administrar el Archivo General del Estado;
 
@@ -597,7 +603,9 @@ d) Elaborar la prospectiva de los requerimientos de la inversión estatal:
 
 e) Coordinar conjuntamente con la Secretaría de Salud, la elaboración y ejecución del Programa Estatal de Infraestructura en el área de salud;
 
-f) Convenir con las Secretarías de Desarrollo Económico Sustentable, de Salud, de Desarrollo Agropecuario, de Obra Pública y de Educación, estrategias, programas y proyectos de desarrollo y fortalecimiento a la planta productiva;
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2013)</small>
+
+f) Convenir con las Secretarías de Desarrollo Económico Sustentable, de Salud, de Desarrollo Agroalimentario y Rural, de Obra Pública y de Educación, estrategias, programas y proyectos de desarrollo y fortalecimiento a la planta productiva;
 
 g) Coordinar conjuntamente con la Secretaría de Obra Pública, la presupuestación de la obra pública del Gobierno del Estado, formulando sus estudios y proyectos;
 
@@ -629,11 +637,9 @@ c) Supervisar la celebración y cumplimiento de los convenios que en materia edu
 
 II.- En materia de capacitación para el trabajo:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2013)</small>
 
-> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
-
-a) Coordinar y supervisar con las Secretarías de Desarrollo Agropecuario y de Desarrollo Económico Sustentable, así como con otras dependencias, entidades y las autoridades federales competentes, los programas de capacitación técnica especializada; y
+a) Coordinar y supervisar con las Secretarías de Desarrollo Agroalimentario y Rural, y de Desarrollo Económico Sustentable, así como con otras dependencias, entidades y las autoridades federales competentes, los programas de capacitación técnica especializada;
 
 III.- En materia de investigación:
 
@@ -717,21 +723,17 @@ l) Crear los mecanismos que capten fuentes alternas para la inversión social;
 
 ll) Fomentar la atención de las personas con discapacidad, coordinándose con las dependencias y entidades competentes en la materia;
 
-> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2013)</small>
 
 II.- En materia de atención a migrantes:
 
-a) Establecer estrategias integrales que permitan enfrentar los retos que presenta la migración de los guanajuatenses;
+a) Coadyuvar en el diseño de las políticas de respeto a los derechos humanos de los migrantes guanajuatenses y sus familias;
 
-b) Fortalecer la vinculación intergubernamental y potenciar las acciones a favor de los migrantes; y
+b) Impulsar en coordinación con las autoridades competentes en la materia, estrategias integrales que permitan enfrentar los retos que presenta la migración de los guanajuatenses;
 
-c) Promover y difundir, a través de las autoridades competentes, programas de atención a familias migrantes en las comunidades guanajuatenses en el extranjero y en las comunidades de origen para propiciar el desarrollo de sus habitantes.
+c) Promover en coordinación con las autoridades competentes, programas de atención a familias migrantes en las comunidades guanajuatenses en el extranjero y en las comunidades de origen para propiciar el desarrollo de sus habitantes; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
-
-d) Diseñar e instrumentar una política de respeto a los derechos humanos y de apoyo jurídico a los trabajadores migrantes guanajuatenses y sus familias;
+d) Fomentar la vinculación intergubernamental para potenciar las acciones de protección de los derechos y el apoyo jurídico a favor de los trabajadores migrantes.
 
 III.- (DEROGADA, P.O. 21 DE NOVIEMBRE DE 2003)
 
@@ -757,9 +759,9 @@ e) Elaborar y apoyar programas que satisfagan las necesidades de suelo para el d
 
 f) Procurar el cumplimiento y aplicación de las disposiciones legales que correspondan en materia de desarrollo urbano y asentamientos humanos.
 
-VI.- (DEROGADA, P.O. 21 DE NOVIEMBRE DE 2003)
+> <small>(REFORMADA [N. DE E. REUBICADA, ANTES FRACCIÓN VII], P.O. 21 DE MAYO DE 2013)</small>
 
-VII.- Las demás que le señalen las leyes y reglamentos aplicables en la Entidad o que le asigne legalmente el Gobernador del Estado.
+VI.- Las demás que le señalen las leyes y reglamentos aplicables en la Entidad o que le asigne legalmente el Gobernador del Estado.
 
 ###### Artículo 27.
 
@@ -867,11 +869,9 @@ o) Fomentar el mantenimiento y mejora de las fuentes de empleo, mediante capacit
 
 p) Promover la creación de organismos que se encarguen de difundir la cultura de calidad y competitividad de las empresas;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2013)</small>
 
-> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
-
-q) Convenir con las Secretarías de Finanzas, Inversión y Administración, Salud, Desarrollo Agropecuario, Obra Pública y Educación, estrategias, programas y proyectos de desarrollo y fortalecimiento a la planta productiva;
+q) Convenir con las Secretarías de Finanzas, Inversión y Administración, Salud, Desarrollo Agroalimentario y Rural, Obra Pública y Educación, estrategias, programas y proyectos de desarrollo y fortalecimiento a la planta productiva;
 
 r) Promover la vinculación del sector productivo con las instituciones educativas del nivel superior, en coordinación con la Secretaría de Educación;
 
@@ -887,11 +887,7 @@ s) Promover el desarrollo, la divulgación y el conocimiento de la innovación y
 
 t) Promover la capacitación para el fomento de actividades productivas en coordinación con la Secretaría de Educación; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
-
-u) Fomentar proyectos productivos en materia de forestación y reforestación, coordinándose con la Secretaría de Desarrollo Agropecuario;
+u) (DEROGADO, P.O. 21 DE MAYO DE 2013)
 
 II.- En materia de medio ambiente:
 
@@ -911,25 +907,31 @@ g) Fomentar y realizar programas de reforestación y restauración ecológica, d
 
 III.- Las demás que le señalen las leyes y reglamentos aplicables en la Entidad o que le asigne legalmente el Gobernador del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MAYO DE 2013)</small>
+
 ###### Artículo 29.
 
-La Secretaría de Desarrollo Agropecuario es la dependencia encargada de fomentar el desarrollo sustentable de las actividades agrícolas, pecuarias, forestales, de la fauna y pesqueras, y le competen las siguientes atribuciones:
+La Secretaría de Desarrollo Agroalimentario y Rural es la dependencia encargada de fomentar el desarrollo sustentable de las actividades agroalimentarias, pecuarias, forestales, de la fauna y pesqueras, así como de consolidar la ruralidad en Guanajuato a través de la conservación y preservación del espacio rural en el que se desarrollan las actividades productivas y le competen las siguientes atribuciones:
 
-I.- Ejecutar y evaluar las políticas y programas relativos al fomento de la actividad agropecuaria, de conformidad con los Planes Nacional y Estatal de Desarrollo;
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2013)</small>
+
+I.- Ejecutar y evaluar las políticas y programas relativos al fomento de la actividad agropecuaria y del desarrollo rural de conformidad con los Planes Nacional y Estatal de Desarrollo;
 
 II.- Promover y ejecutar programas productivos y de financiamiento para el desarrollo agropecuario en las comunidades rurales;
 
-III.- Promover la suscripción de convenios de coordinación que tengan por objeto la participación del Estado en la ejecución de acciones y programas en materia de agricultura, ganadería, agua de uso agrícola, acuacultura y pesca; así como ejercer las atribuciones que deriven de los mismos;
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2013)</small>
+
+III.- Promover la suscripción de convenios de coordinación que tengan por objeto la participación del Estado en la ejecución de acciones y programas en materia de agricultura, ganadería, agua de uso agrícola, desarrollo rural, acuacultura, pesca y aprovechamiento de los recursos naturales; así como ejercer las atribuciones que deriven de los mismos;
 
 IV.- Coordinar con los organismos competentes, la elaboración de los estudios geohidrológicos que permitan corroborar los volúmenes de extracción y recarga de los mantos acuíferos en el Estado;
 
-V.- Fomentar la producción de alimentos, materias primas y productos agroindustriales;
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2013)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+V.- Fomentar el aprovechamiento sustentable de los recursos naturales y la producción de alimentos, materias primas y productos agroindustriales;
 
-> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2013)</small>
 
-VI.- Llevar el control estadístico de las actividades agrícolas, ganaderas, forestales, acuícolas y pesqueras en el Estado, en coordinación con las autoridades competentes; así como generar y coordinar proyectos productivos en materia de forestación y reforestación;
+VI.- Llevar el control estadístico de las actividades agroalimentarias, ganaderas, forestales, acuícolas y pesqueras en el Estado, en coordinación con las autoridades competentes:
 
 VII.- Promover una adecuada comercialización de la producción agropecuaria del Estado, identificando canales de venta que propicien un mejor precio en beneficio de los productores rurales;
 
@@ -947,9 +949,31 @@ XIII.- Realizar en el ámbito de su competencia, campañas fitosanitarias y zoos
 
 XIV.- Promover la educación y la capacitación campesina a fin de implementar tecnologías agrícolas al alcance de las comunidades rurales, así como diversos oficios tendientes a la autosuficiencia de servicios en la comunidad, coordinándose para tal efecto con la Secretaría de Educación;
 
-XV.- Organizar y promover congresos, seminarios y otros eventos en materia agropecuaria, agua para uso agrícola, acuacultura, pesca y desarrollo rural, así como la celebración de exposiciones y ferias relacionadas con dichos sectores; y
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2013)</small>
 
-XV.- Las demás que le señalen las leyes y reglamentos aplicables en la Entidad o que le asigne legalmente el Gobernador del Estado.
+XV.- Organizar y promover congresos, seminarios y otros eventos en materia agroalimentaria, agua para uso agrícola, acuacultura, pesca y desarrollo rural, así como la celebración de exposiciones y ferias relacionadas con dichos sectores;
+
+> <small>(ADICIONADA, P.O. 21 DE MAYO DE 2013)</small>
+
+XVI.- Procesar y difundir en el ámbito estatal la información estadística y geográfica referente a las actividades agroalimentarias, ganadera, forestal, acuícola, pesquera y de desarrollo rural;
+
+> <small>(ADICIONADA, P.O. 21 DE MAYO DE 2013)</small>
+
+XVII.- Promover la implementación en la producción agropecuaria de prácticas que permita garantizar la inocuidad y la calidad de los procesos y productos agroalimentarios y agroindustriales;
+
+> <small>(ADICIONADA, P.O. 21 DE MAYO DE 2013)</small>
+
+XVIII.- Promover la vocación productiva de los espacios rurales, coordinándose con las autoridades competentes a fin de adecuar los espacios que se destinaran para vivienda, recreación y servicios, entre otros;
+
+> <small>(ADICIONADA, P.O. 21 DE MAYO DE 2013)</small>
+
+XIX.- Promover el cumplimiento de normatividad ambiental federal, de conformidad con la normativa aplicable, con el objeto de incentivar el aprovechamiento sustentable de los recursos naturales, permitiendo las actividades productivas desarrolladas en el espacio rural, sean compatibles con el medio ambiente;
+
+> <small>(ADICIONADA, P.O. 21 DE MAYO DE 2013)</small>
+
+XX.- Fomentar el desarrollo y la modernización de las actividades económicas de la sociedad rural; y
+
+XXI.- Las demás que le señalen las leyes y reglamentos aplicables en la Entidad o que le asigne legalmente el Gobernador del Estado.
 
 ###### Artículo 30.
 
@@ -1235,33 +1259,59 @@ b) Procurar el resarcimiento de los daños patrimoniales ocasionados a la admini
 
 VII. Las demás que le señalen las leyes y reglamentos aplicables en la Entidad o que le asigne legalmente el Gobernador del Estado.
 
-> <small>(ADICIONADO, P.O. 18 DE MAYO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MAYO DE 2013)</small>
 
-Artículo 32 bis.- La Secretaría de Desarrollo Turístico es la dependencia encargada de planear, programar, desarrollar, promover y vigilar la actividad turística y le competen las siguientes atribuciones:
+Artículo 32 bis.- La Secretaría de Turismo es la dependencia encargada de planear, programar, desarrollar, promover y vigilar la actividad turística y le competen las siguientes atribuciones:
+
+> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2007)</small>
 
 I.- Planear, programar y evaluar la actividad turística en el Estado, de conformidad con los planes nacional y estatal de desarrollo, las leyes de la materia y los lineamientos de política turística acordados con el Gobernador del Estado;
 
+> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2007)</small>
+
 II.- Ejercer las atribuciones que se contemplen en los convenios suscritos con dependencias y entidades de la Administración Pública Federal, con otras entidades federativas, los municipios y la iniciativa privada en materia de desarrollo y promoción de la actividad turística;
+
+> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2007)</small>
 
 III.- Proporcionar asesoría en materia de turismo a las autoridades estatales y municipales, así como a los prestadores de servicios turísticos en el Estado;
 
+> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2007)</small>
+
 IV.- Otorgar incentivos y apoyos al sector turístico considerando en igualdad de circunstancias a los prestadores de servicios turísticos del Estado;
+
+> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2007)</small>
 
 V.- Impulsar la creación, conservación, mejoramiento, protección y aprovechamiento sustentable de los recursos e infraestructura turísticos de la Entidad, procurando la atracción de inversiones públicas y privadas en el sector;
 
+> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2007)</small>
+
 VI.- Llevar a cabo el desarrollo y la promoción de la actividad turística del Estado fomentando la participación de la Federación, los municipios y la iniciativa privada, para el crecimiento económico de este sector;
+
+> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2007)</small>
 
 VII.- Impulsar, coordinar y evaluar las acciones orientadas a crear, dotar y mejorar la infraestructura e imagen urbana que requieran las zonas de desarrollo turístico del Estado;
 
+> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2007)</small>
+
 VIII.- Gestionar, en el ámbito de su competencia, la prestación de servicios turísticos principales y conexos;
+
+> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2007)</small>
 
 IX.- Fomentar la creación de organizaciones orientadas al mejoramiento de la actividad turística en general;
 
+> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2007)</small>
+
 X.- Impulsar la competitividad y calidad en los productos y los servicios turísticos en el Estado;
+
+> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2007)</small>
 
 XI.- Coadyuvar en la ejecución, en el ámbito de su competencia, de acciones en materia de información y protección del turista, en coordinación con las autoridades federales, estatales y municipales, así como con los prestadores de servicios turísticos;
 
+> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2007)</small>
+
 XII.- Vigilar, en la esfera de su competencia, el cumplimiento de la normatividad que regula la actividad turística;
+
+> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2007)</small>
 
 XIII.- Promover la coordinación entre los prestadores de servicios turísticos;
 
@@ -1269,9 +1319,15 @@ XIII.- Promover la coordinación entre los prestadores de servicios turísticos;
 
 > <small>(REFORMADA P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
-XIV.- Administrar los ingresos del Fondo de Promoción y Difusión para el Turismo del Estado que le sean asignados por la Secretaría de Finanzas, Inversión y Administración con motivo de la recaudación del Impuesto por Servicios de Hospedaje, en los términos de la Ley de Hacienda para el Estado de Guanajuato; y
+XIV.- Administrar los ingresos del Fondo de Promoción y Difusión para el Turismo del Estado que le sean asignados por la Secretaría de Finanzas, Inversión y Administración con motivo de la recaudación del Impuesto por Servicios de Hospedaje, en los términos de la Ley de Hacienda para el Estado de Guanajuato; y (sic)
 
-XV.- Las demás que le señalen las leyes y reglamentos aplicables en la Entidad o que le asigne legalmente el Gobernador del Estado.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE MAYO DE 2013)</small>
+
+XV.- Impulsar el desarrollo de la industria cinematográfica y promover al Estado de Guanajuato como zona geográfica idónea para la realización de proyectos audiovisuales, que fomenten la generación de empleos, ocupación hotelera, derrama económica y el posicionamiento turístico de la Entidad; y
+
+> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2007)</small>
+
+XVI.- Las demás que le señalen las leyes y reglamentos aplicables en la Entidad o que le asigne legalmente el Gobernador del Estado.
 
 ###### Artículo 33.
 
@@ -1305,7 +1361,9 @@ Los organismos descentralizados creados por Ley, se regirán por ésta, pero deb
 
 El Gobernador del Estado designará a quien deba presidir los órganos de gobierno y de administración de las entidades estatales, sujetándose a las disposiciones previstas en esta Ley, así como a lo señalado en el ordenamiento jurídico que las crea.
 
-El órgano de gobierno será presidido por el titular de la Secretaría coordinadora de sector en que se encuentre agrupada la entidad estatal, salvo que por disposición del ordenamiento jurídico que la crea, la presidencia se le asigne al Gobernador del Estado o a otra dependencia o entidad.
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2013)</small>
+
+El órgano de gobierno será presidido por el titular de la Secretaría coordinadora de sector en que se encuentre agrupada la entidad estatal, salvo que por disposición del ordenamiento jurídico que la crea, la presidencia se le asigne al Gobernador del Estado o a una dependencia o entidad, o a un ciudadano que no forme parte de la Administración Pública del Estado.
 
 A falta de disposición expresa de a quién corresponde la remoción del Director General o su equivalente de la entidad estatal, ésta facultad corresponderá al Gobernador del Estado.
 
@@ -1956,3 +2014,19 @@ Artículo Quinto. La Secretaría de Gobierno transferirá a la Secretaría de Se
 Artículo Sexto. El Gobernador del Estado presentará ante el Congreso del Estado las iniciativas de reforma a las leyes que resulte necesario para la debida congruencia con el presente Decreto, en un término que no exceda de seis meses, contados a partir de su entrada en vigencia, de conformidad con el Artículo Primero Transitorio.
 
 Artículo Séptimo. El Gobernador del Estado adecuará los decretos de creación y reglamentos interiores, y expedirá los reglamentos necesarios para el cumplimiento de esta reforma, en un término que no exceda de seis meses, contados a partir de la entrada en vigencia prevista en el Artículo Primero Transitorio del presente Decreto. En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan a la presente reforma.
+
+P.O. 21 DE MAYO DE 2013.
+
+Artículo Primero. El presente Decreto entrará en vigencia al cuarto día siguiente al de su publicación en el Periódico Oficial de (sic) Gobierno del Estado.
+
+Artículo Segundo. El Poder Ejecutivo, por conducto de la Secretaría de Gobierno, dará amplia difusión a la dirección electrónica del Periódico Oficial del Gobierno del Estado.
+
+Artículo Tercero. La Secretaría de Desarrollo Agroalimentario y Rural, sustituye en todos los derechos, obligaciones y compromisos adquiridos por la Secretaría de Desarrollo Agropecuario.
+
+Para todos los efectos legales correspondientes, la Secretaría de Desarrollo Agroalimentario y Rural a que alude el presente Decreto, se entenderá referida a la Secretaría de Desarrollo Agropecuario, que se menciona en otros decretos, reglamentos, convenios u otros instrumentos jurídicos emitidos con anterioridad al presente Decreto.
+
+En tanto se realizan los ajustes en el Reglamento Interior y demás normatividad, las unidades administrativas que por consecuencia del presente Decreto modifiquen su denominación o adquieren atribuciones que tenían otras unidades administrativas, se sustituirán en todos los derechos, obligaciones y compromisos adquiridos por la unidad administrativa que se modifique o extinga, en la materia que se le asigne.
+
+Artículo Cuarto. La Secretaría de Turismo sustituye en todos los derechos, obligaciones y compromisos adquiridos por la Secretaría de Desarrollo Turístico.
+
+Para todos los efectos legales correspondientes, la Secretaría de Turismo a que alude el presente Decreto, se entenderá referida a la Secretaría de Desarrollo Turístico, que se menciona en otros decretos, reglamentos, convenios u otros instrumentos jurídicos emitidos con anterioridad al presente Decreto.
