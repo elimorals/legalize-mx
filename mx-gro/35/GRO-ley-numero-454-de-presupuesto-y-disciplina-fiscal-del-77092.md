@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-454-de-presupuesto-y-disciplina-fiscal-del-77092"
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-15"
-last_updated: "2011-10-21"
+last_updated: "2013-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 454 DE PRESUPUESTO Y DISCIPLINA FISCAL DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 15 de octubre de 2010.
 
@@ -365,7 +365,9 @@ Los Poderes Legislativo y Judicial y los Organismos Públicos Autónomos podrán
 
 I. Registren ante la Secretaría dichos ingresos en los conceptos correspondientes de la Ley de Ingresos; y
 
-II. Informen a la Secretaría sobre la obtención y la aplicación de dichos ingresos, para efectos de la integración de los Informes Financieros Cuatrimestrales y la Cuenta Pública.
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2013)</small>
+
+II. Informen a la Secretaría sobre la obtención y aplicación de dichos ingresos, para efectos de la integración de los Informes Financieros Semestrales y la Cuenta Pública.
 
 ###### ARTÍCULO 24.
 
@@ -1184,3 +1186,11 @@ P.O. 21 DE OCTUBRE DE 2011.
 PRIMERO.- El presente Decreto entrará en vigor a los treinta días siguientes de la entrada en vigor del Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Guerrero, mediante el cual se establecen las bases Constitucionales de las Asociaciones Público-Privada (sic).
 
 SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+P.O. 21 DE MAYO DE 2013.
+
+PRIMERO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase al Titular del Poder Ejecutivo del Estado de Guerrero para los efectos legales correspondientes.
+
+TERCERO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Guerrero.
