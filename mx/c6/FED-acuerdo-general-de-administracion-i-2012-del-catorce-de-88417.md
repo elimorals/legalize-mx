@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-i-2012-del-catorce-de-88417"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2012-06-28"
-last_updated: "2012-06-28"
+last_updated: "2013-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88417&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2012-06-26"
 
 ACUERDO GENERAL DE ADMINISTRACIÓN I/2012 DEL CATORCE DE JUNIO DE DOS MIL DOCE DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN POR EL QUE SE REGULAN LOS PROCESOS DE PLANEACIÓN, PROGRAMACIÓN, PRESUPUESTACIÓN, EJERCICIO Y CONTABILIDAD DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA APROBADA POR ACTA DE SESIÓN DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN: 21 DE MAYO DE 2013.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el jueves 28 de junio de 2012.
 
@@ -1025,15 +1025,21 @@ Las disposiciones del presente capítulo no serán aplicables tratándose de gas
 
 ### CAPITULO DECIMO PRIMERO. DE LOS GASTOS DE VIAJE DE DISERTANTES
 
+> <small>(REFORMADO POR EL PUNTO PRIMERO DE LA SESIÓN CELEBRADA EL 21 DE MAYO DE 2013)</small>
+
 ###### Artículo 136.
 
 Se podrán otorgar gastos de viaje en términos del presente capítulo a los disertantes externos participantes en los programas de difusión y promoción de la cultura jurídica y jurisdiccional. Dichos montos estarán sujetos y afectarán la partida presupuestaria específica que se establezca en los lineamientos correspondientes.
 
-Los gastos de viaje se otorgarán a título personal y contemplarán la transportación aérea y terrestre, hospedaje, gastos de alimentación, propinas y transportación local, entre otros conceptos necesarios, exclusivamente para el cumplimiento de las actividades de los disertantes; dichos gastos se sujetarán a las tarifas establecidas en los lineamientos que al efecto se emitan.
+Los gastos de viaje se otorgarán a título personal y contemplarán la transportación aérea y terrestre, hospedaje, gastos de alimentación, propinas y transportación local, entre otros conceptos necesarios para el cumplimiento de las actividades de los disertantes y, en su caso, de sus acompañantes; dichos gastos se sujetarán a las tarifas establecidas en los lineamientos que al efecto se emitan.
 
 En el caso de los servidores públicos disertantes, su participación en el mencionado programa será en calidad de comisionado, por lo que para su desarrollo, se le asignarán viáticos en los términos del capítulo anterior.
 
-El Presidente, por sí o a través del Oficial Mayor, podrá autorizar de manera excepcional y debidamente justificada la asignación de gastos asociados para los disertantes, en los términos de los lineamientos que al efecto se emitan.
+Los disertantes del Poder Judicial de la Federación no recibirán retribución alguna con motivo de su participación en los programas de difusión. En el caso de que para ello deban trasladarse fuera de su lugar de residencia, se podrán incluir los gastos de viaje correspondientes a un acompañante, conforme a lo previsto en la presente norma.
+
+Los docentes externos podrán elegir entre la opción prevista en el párrafo que antecede, o recibir la remuneración que, en términos de las normas aplicables, corresponda.
+
+El Presidente, por sí o a través del Oficial Mayor, podrá autorizar de manera excepcional y debidamente justificada la asignación de gastos asociados para los disertantes, diferentes a los mencionados en el presente artículo, en los términos de los lineamientos que al efecto se emitan.
 
 ###### Artículo 137.
 
@@ -1832,3 +1838,9 @@ OCTAVO. Publíquese este Acuerdo General en el Diario Oficial de la Federación,
 El Ministro Presidente, Juan N. Silva Meza.- Rúbrica.- El Ministro, Luis María Aguilar Morales.- Rúbrica.- El Ministro, Arturo Zaldívar Lelo de Larrea.- Rúbrica.
 
 EL LICENCIADO MARIO ALBERTO TORRES LOPEZ, DIRECTOR GENERAL DE ASUNTOS JURIDICOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CON FUNDAMENTO EN LOS ARTICULOS 11, FRACION (SIC) X, Y 27, FRACCION III, DEL REGLAMENTO INTERIOR EN MATERIA DE ADMINISTRACION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que esta copia del "ACUERDO GENERAL DE ADMINISTRACION I/2012 DEL CATORCE DE JUNIO DE DOS MIL DOCE DEL COMITE DE GOBIERNO Y ADMINISTRACION POR EL QUE SE REGULAN LOS PROCESOS DE PLANEACION, PROGRAMACION, PRESUPUESTACION, EJERCICIO Y CONTABILIDAD DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION", constante de sesenta y nueve fojas útiles, concuerda fiel y exactamente con su original que obra en esta Dirección General y se certifica para la difusión correspondiente.- México, Distrito Federal, a veintiséis de junio de dos mil doce.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+SESIÓN 21 DE MAYO DE 2013.
+
+> <small>[N. DE E. EL “ACTA DE LA SESIÓN CELEBRADA EL VEINTIUNO DE MAYO DE DOS MIL TRECE, POR EL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
