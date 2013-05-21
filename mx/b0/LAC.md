@@ -4,7 +4,7 @@ identifier: "LAC"
 country: "mx"
 rank: "ley"
 publication_date: "1995-05-12"
-last_updated: "2006-07-05"
+last_updated: "2013-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2551&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,9 @@ abbreviation: "LAC"
 ---
 # LEY DE AVIACION CIVIL
 
-LEY DE AVIACION CIVIL
+LEY DE AVIACIÓN CIVIL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE JULIO DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE MAYO DE 2013.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 12 de mayo de 1995.
 
@@ -118,7 +118,7 @@ b) Las militares, que son las destinadas o en posesión del Ejército, Armada y 
 
 ### Capítulo II. De la autoridad aeronáutica
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 6.
 
@@ -132,7 +132,9 @@ III. Expedir las normas oficiales mexicanas y demás disposiciones administrativ
 
 IV. Prestar y controlar los servicios a la navegación aérea y establecer las condiciones de operación a que deben sujetarse;
 
-V. Expedir y aplicar las medidas y normas de seguridad e higiene que deben observarse en los servicios de transporte aéreo, así como verificar su cumplimiento;
+> <small>(REFORMADA, D.O.F. 21 DE MAYO DE 2013)</small>
+
+V. Expedir y aplicar, en coordinación con las Secretarías competentes, las medidas y normas de seguridad e higiene, de seguridad en la aviación civil y en materia ambiental, que deben observarse en los servicios de transporte aéreo, así como verificar su cumplimiento;
 
 > <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
 
@@ -222,7 +224,7 @@ Para estos efectos, los comandantes dispondrán del apoyo de un cuerpo de verifi
 
 ###### Artículo 8.
 
-(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE AEROPUERTOS, D.O.F. 22 DE DICIEMBRE DE 1995)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE AEROPUERTOS, D.O.F. 22 DE DICIEMBRE DE 1995)
 
 ### Capítulo III. De las concesiones y de los permisos
 
@@ -352,9 +354,15 @@ X. Infringir las condiciones de seguridad en materia de aeronavegabilidad;
 
 XI. Incumplir con las obligaciones de pago de las indemnizaciones por daños que se originen en la prestación de los servicios;
 
-XII. Ejecutar u omitir actos que impidan la prestación de los servicios concesionados o permisionados entre quienes tengan derecho a ello, y
+> <small>(REFORMADA, D.O.F. 21 DE MAYO DE 2013)</small>
 
-XIII. En general, incumplir cualquiera de las obligaciones o condiciones establecidas en esta Ley, en sus reglamentos y en el título de concesión o permiso respectivos, siempre que por el incumplimiento se haya impuesto una sanción y ésta haya quedado firme en términos de ley.
+XII. Ejecutar u omitir actos que impidan la prestación de los servicios concesionados o permisionados entre quienes tengan derecho a ello;
+
+> <small>(ADICIONADA, D.O.F. 21 DE MAYO DE 2013)</small>
+
+XIII. Infringir las medidas y normas de higiene y de protección al ambiente, y
+
+XIV. En general, incumplir cualquiera de las obligaciones o condiciones establecidas en esta Ley, en sus reglamentos y en el título de concesión o permiso respectivos, siempre que por el incumplimiento se haya impuesto una sanción y ésta haya quedado firme en términos de ley.
 
 > <small>(REFORMADO, D.O.F. 6 DE JUNIO DE 2006)</small>
 
@@ -484,7 +492,7 @@ Las personas que operen las aeronaves a que se refiere este artículo, en ningú
 
 El transporte aéreo privado no comercial se regirá específicamente por esta Ley, su Reglamento y por las disposiciones legales aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 29.
 
@@ -508,7 +516,7 @@ En ambos casos, previo cumplimiento de las disposiciones legales aplicables.
 
 Los propietarios o la tripulación de aeronaves extranjeras de servicio privado no comercial, deberán acreditar a la Secretaría, cuando ésta se los solicite, que aquélla y la aeronave cumplen con los requisitos técnicos sobre aeronavegabilidad y licencia establecidos en el Estado de su matrícula.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 30.
 
@@ -530,7 +538,7 @@ Las aeronaves militares se regirán para su operación por las disposiciones apl
 
 ### Capítulo V. De las operaciones
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 32.
 
@@ -554,7 +562,7 @@ La Secretaría regulará el transporte aéreo de materiales, sustancias y objeto
 
 ### Capítulo VI. Del tránsito aéreo
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 35.
 
@@ -582,7 +590,7 @@ Por razones de seguridad nacional o de orden público, la Secretaría ejercerá 
 
 #### Sección Segunda. Del comandante de la aeronave
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE ENERO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE ENERO DE 1998)</small>
 
 ###### Artículo 38.
 
@@ -890,6 +898,8 @@ Las acciones para exigir las indemnizaciones a que se refiere esta sección, pre
 
 ### Capítulo XIV. De la protección del ambiente
 
+> <small>(REFORMADO, D.O.F. 21 DE MAYO DE 2013)</small>
+
 ###### Artículo 74.
 
 Los concesionarios o permisionarios y, en el caso del servicio de transporte aéreo privado no comercial, los propietarios o poseedores de aeronaves, que transiten en el espacio aéreo nacional, deberán contratar y mantener vigente un seguro que cubra las responsabilidades por los daños a pasajeros, carga, equipaje facturado o a terceros en la operación de las aeronaves.
@@ -906,9 +916,15 @@ Las reclamaciones por daños deberán ser hechas valer ante el concesionario o p
 
 ###### Artículo 76.
 
-Las aeronaves que sobrevuelen, aterricen o despeguen en territorio nacional, deberán observar las disposiciones que correspondan en materia de protección al ambiente; particularmente, en relación a homologación de ruido y emisión de contaminantes.
+Las aeronaves que sobrevuelen, aterricen o despeguen en territorio nacional, deberán observar las disposiciones que correspondan en materia de protección al ambiente; particularmente, en relación a homologación de ruido y emisión de contaminantes. Asimismo, deberán reportar a la Secretaría en el periodo y en la forma en que la misma determine, sobre las medidas operativas, técnicas y económicas que hayan adoptado para cumplir con las disposiciones en materia de protección al ambiente.
 
-La Secretaría fijará los plazos para que se realicen adecuaciones en las aeronaves que, para los efectos de este artículo, así lo requieran y, en su caso, establecerá los lineamientos para la sustitución de la flota aérea.
+La Secretaría fijará los plazos para que se realicen adecuaciones en las aeronaves que, para los efectos de este artículo, así lo requieran y, en su caso, establecerá los lineamientos para la sustitución de la flota aérea y para impulsar mejoras tecnológicas de las aeronaves y sus combustibles.
+
+> <small>(ADICIONADO, D.O.F. 21 DE MAYO DE 2013)</small>
+
+###### Artículo 76 Bis.
+
+La Secretaría establecerá convenios o acuerdos de coordinación con la Secretaría de Medio Ambiente y Recursos Naturales, para promover la eficiencia en las operaciones e infraestructura aeroportuaria, con el fin de reducir el ruido y las emisiones contaminantes en los servicios de transporte aéreo.
 
 ### Capítulo XVI. De los accidentes y de la búsqueda y salvamento
 
@@ -932,11 +948,11 @@ En el caso de aeronaves abandonadas en aeródromos o helipuertos en los que no h
 
 ### Capítulo XVIII. De la verificación
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
 
 ### Capítulo XIX. De las sanciones
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 79.
 
@@ -1016,7 +1032,7 @@ d) Tripulada por personas que carezcan de la licencia correspondiente, con multa
 
 e) Sin el plan de vuelo o cuando se modifique sin autorización, salvo causa de fuerza mayor, con multa de un mil a ocho mil salarios mínimos;
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE DICIEMBRE DE 2001)</small>
 
 f) Por no llevar a bordo la póliza de seguro o el documento que acredite la vigencia de la misma, una multa de cien a dos mil salarios mínimos.
 
@@ -1162,7 +1178,7 @@ México, D.F., a 28 de abril de 1995.- Dip. Florentino Castro López, Presidente
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diez días del mes de mayo de mil novecientos noventa y cinco.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Esteban Moctezuma Barragán.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 22 DE DICIEMBRE DE 1995.
 
@@ -1211,3 +1227,11 @@ D.O.F. 6 DE JUNIO DE 2006.
 D.O.F. 5 DE JULIO DE 2006.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 21 DE MAYO DE 2013.
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- El Ejecutivo Federal y la Secretaría de Comunicaciones y Transportes, contarán con un plazo de 120 días hábiles, contados a partir de la entrada en vigor del presente Decreto, para realizar en el ámbito de sus respectivas competencias, las adecuaciones y modificaciones a los reglamentos y a las demás disposiciones administrativas que posibiliten la materialización del mismo.
+
+Tercero.- La Secretaría de Comunicaciones y Transportes, en coordinación con las secretarías de estado y demás instituciones facultadas para tal efecto, deberán formular las Normas Oficiales Mexicanas relativas al contenido del presente Decreto.
