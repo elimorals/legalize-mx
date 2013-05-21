@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-1028-de-fiscalizacion-superior-y-rendicion-de-86732"
 country: "mx"
 rank: "ley"
 publication_date: "2012-02-28"
-last_updated: "2012-08-03"
+last_updated: "2013-05-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 1028 DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2013.
 
 Ley publicada en el Alcance I del Periódico Oficial del Estado de Guerrero, el martes 28 de febrero de 2012.
 
@@ -403,9 +403,11 @@ V.- De acatamiento: Cuando se tengan suficientes elementos de convicción, cuand
 
 ### CAPÍTULO III. DEL INFORME ANUAL DE RESULTADOS DE LA REVISIÓN DE LA CUENTA PÚBLICA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MAYO DE 2013)</small>
+
 ###### Artículo 38.
 
-La Auditoria General entregará al Congreso del Estado por conducto de la Comisión de Presupuesto y Cuenta Pública, el Informe Anual de Resultados de la revisión de las cuentas públicas en la segunda quincena del mes de septiembre del año siguiente al que se revise, mismo que se someterá a la consideración del pleno del Congreso del Estado. Este Informe tendrá carácter público y deberá publicarse en la página de Internet de la Auditoria General en la misma fecha en que sea presentado.
+La Auditoría General del Estado entregará al Congreso del Estado por conducto de la Comisión de Presupuesto y Cuenta Pública, el Informe Anual de Resultados a más tardar, en la segunda quincena del mes de septiembre del año siguiente al que se revise, mismo que se someterá a la consideración del Pleno del Congreso del Estado. Este informe tendrá carácter público y deberá publicarse en la página de Internet de la Auditoria General en la misma fecha en que sea presentado.
 
 Las cuentas públicas que se presenten de manera extemporánea, con independencia de las sanciones que impliquen para la respectiva entidad fiscalizable, otorgarán a la Auditoria General una prórroga similar al periodo del retraso para presentar el Informe correspondiente, contado a partir de la fecha en que se haya entregado el Informe Anual de Resultados.
 
@@ -805,7 +807,9 @@ XXIX.- Emitir dictamen técnico de opinión sobre la constitución y operación 
 
 XXX.- Establecer los criterios y montos a los que debe sujetarse el otorgamiento de fianzas de los servidores públicos que tengan a su cargo la custodia y administración de fondos públicos, verificando su cumplimiento a efecto de garantizar el buen manejo de los recursos públicos;
 
-XXXI.- Presentar a la Comisión de Presupuesto y Cuenta Pública el Informe Anual de Resultados de revisión de las cuentas públicas de las entidades fiscalizables, así como de aquellos que se desprendan de la evaluación de los informes financieros semestrales;
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2013)</small>
+
+XXXI.- Presentar a la Comisión de Presupuesto y Cuenta Pública el Informe Anual de Resultados, así como aquellos que se desprendan de la evaluación de los informes financieros semestrales;
 
 XXXII.- Informar permanentemente a la ciudadanía, a través de medios electrónicos y escritos, acerca de su programa de actividades, las acciones derivadas de éste y del Informe Anual de Resultados de la revisión de la cuenta pública que haya turnado al Congreso del Estado;
 
@@ -947,7 +951,9 @@ XX.- Solicitar a las entidades fiscalizables la información y el auxilio que se
 
 XXI.- Ordenar la práctica de Auditorias, así como la realización de visitas e inspecciones necesarias para la evaluación de los informes financieros semestrales y la fiscalización de la cuenta pública;
 
-XXII.- Formular y entregar a la Comisión de Presupuesto y Cuenta Pública el Informe Anual del Resultado de la revisión de las cuentas públicas de los entes fiscalizables durante la segunda quincena del mes de septiembre del año siguiente al que se revise;
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2013)</small>
+
+XXII.- Formular y entregar a la Comisión de Presupuesto y Cuenta Pública el Informe Anual de Resultados a más tardar, en la segunda quincena del mes de septiembre del año siguiente al que se revise;
 
 XXIII.- Formular recomendaciones vinculantes, acciones a realizar y pliegos de observaciones a las entidades fiscalizables;
 
@@ -1976,3 +1982,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Comuníquese al Titular del Poder Ejecutivo del Estado para su sanción y publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 21 DE MAYO DE 2013.
+
+PRIMERO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase al Titular del Poder Ejecutivo del Estado de Guerrero para los efectos legales correspondientes.
+
+TERCERO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Guerrero.
