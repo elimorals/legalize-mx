@@ -4,7 +4,7 @@ identifier: "GUA-codigo-civil-para-el-estado-de-guanajuato-9891"
 country: "mx"
 rank: "codigo"
 publication_date: "1967-05-14"
-last_updated: "2013-05-17"
+last_updated: "2013-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9891&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2013.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Guanajuato, el 14 de mayo de 1967.
 
@@ -35,6 +35,8 @@ DECRETO NUMERO 94
 
 El H. XLVI Congreso Constitucional del Estado Libre y Soberano de Guanajuato, decreta:
 
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 21 DE MAYO DE 2013, PARA TODOS LOS EFECTOS LEGALES CORRESPONDIENTES, LA SECRETARÍA DE DESARROLLO AGROALIMENTARIO Y RURAL A QUE ALUDE EL PRESENTE DECRETO, SE ENTENDERÁ REFERIDA A LA SECRETARÍA DE DESARROLLO AGROPECUARIO, Y LA SECRETARÍA DE TURISMO SE ENTENDERÁ REFERIDA A LA SECRETARÍA DE DESARROLLO TURÍSTICO.</small>
+
 CODIGO CIVIL PARA EL ESTADO DE GUANAJUATO
 
 Disposiciones Preliminares
@@ -45,11 +47,11 @@ La Ley Civil es igual para todos, sin distinción de personas ni de sexos, a no 
 
 ###### Art. 2.
 
-Las Leyes, Reglamentos, Circulares o cualesquiera otras disposiciones de observancia general, obligan y surten sus efectos diez días después de su publicación en el Periódico Oficial.
+(DEROGADO, P.O. 21 DE MAYO DE 2013)
 
 ###### Art. 3.
 
-Si la Ley, Reglamento, Circular o disposición de observancia general fija el día en que deba comenzar a regir, obliga desde ese día con tal de que se publique cuando menos tres días antes de la fecha fijada para que entre en vigor.
+(DEROGADO, P.O. 21 DE MAYO DE 2013)
 
 ###### Art. 4.
 
@@ -69,7 +71,7 @@ Los actos ejecutados contra el tenor de las leyes prohibitivas o de interés pú
 
 ###### Art. 8.
 
-Las normas contenidas en la ley dejarán de estar en vigor cuando otra, posterior, lo declare así expresamente o contenga disposiciones total o parcialmente incompatibles con la ley anterior.
+(DEROGADO, P.O. 21 DE MAYO DE 2013)
 
 ###### Art. 9.
 
@@ -6585,7 +6587,7 @@ El que posee por menos de un año, a título traslativo de dominio y con mala fe
 
 I. A restituir los frutos percibidos;
 
-II. A responder de la pérdida o deterioro de la cosa sobrevenidos por su culpa o por caso fortuito o fuerza mayor, a no ser que pruebe que éstos se habrían causado aunque la cosa hubiese estado poseída por su dueño. No responde de la pérdida sobrevenida natural o inevitablemente por el sólo transcurso del tiempo.
+II. A responder de la pérdida o deterioro de la cosa sobrevenidos por su culpa o por caso fortuito o fuerza mayor, a no ser que pruebe que éstos se habrían causado aunque la cosa hubiese estado poseída por su dueño. No responde de la pérdida sobrevenida natural o inevitablemente por el solo transcurso del tiempo.
 
 Tiene derecho a que se le reembolsen los gastos necesarios.
 
@@ -7529,7 +7531,7 @@ II. La acción de cualquier comerciante para cobrar el precio de objetos vendido
 
 La prescripción corre desde el día en que fueron entregados los objetos, si la venta no se hizo a plazo;
 
-III. La acción de los dueños de hoteles y casas de huéspedes para cobrar el importe del hospedaje; y la de éstos y la de los fondistas para cobrar el precio de los alimentos que ministren. La prescripción corre desde el día en que debió ser pagado el hospedaje, o desde aquél en que se ministraron los alimentos;
+III. La acción de los dueños de hoteles y casas de huéspedes para cobrar el importe del hospedaje; y la de éstos y la de los fondistas para cobrar el precio de los alimentos que ministren. La prescripción corre desde el día en que debió ser pagado el hospedaje, o desde aquel en que se ministraron los alimentos;
 
 IV. La responsabilidad civil por injurias, ya sean hechas de palabra o por escrito, y la que nace del daño causado por personas o animales, y que la ley impone al representante de aquéllas o al dueño de éstos. La prescripción comienza a correr desde el día en que se recibió o fue conocida la injuria o desde aquel en que se causó el daño;
 
@@ -11357,7 +11359,7 @@ El incapaz que acepte el depósito, solamente queda obligado a restituir la cosa
 
 ###### Art. 2030.
 
-Cuando la incapacidad no fuere obsoluta, podrá el depositario ser condenado al pago de daños y perjuicios, si hubiere procedido con dolo o mala fe.
+Cuando la incapacidad no fuere absoluta, podrá el depositario ser condenado al pago de daños y perjuicios, si hubiere procedido con dolo o mala fe.
 
 ###### Art. 2031.
 
@@ -15127,7 +15129,7 @@ II. Público cerrado;
 
 > <small>(REFORMADA, P.O. 10 DE JUNIO DE 2005)</small>
 
-III. Público simplificado;
+III. Público simplificado; y
 
 > <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2005)</small>
 
@@ -16609,7 +16611,7 @@ El Secretario de Gobierno,
 
 Lic. Marcos Aguayo Durán.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 18 DE JULIO DE 1968.
 
@@ -16685,7 +16687,7 @@ Este Decreto entrará en vigor al cuarto día siguiente al de su publicación en
 
 P.O. 4 DE NOVIEMBRE DE 1983.
 
-DECRETO NUMERO 73, QUE REFORMA LOS ARTICULOS 2764 Y 2765 DEL CODIGO.
+DECRETO NÚMERO 73, QUE REFORMA LOS ARTÍCULOS 2764 Y 2765 DEL CÓDIGO.
 
 ###### ARTICULO UNICO.
 
@@ -16693,7 +16695,7 @@ Este decreto entrará en vigor a los treinta días siguientes al de su publicaci
 
 P.O. 4 DE NOVIEMBRE DE 1983.
 
-DECRETO NUMERO 74 QUE REFORMA EL ARTICULO 2512 DEL CODIGO.
+DECRETO NÚMERO 74 QUE REFORMA EL ARTÍCULO 2512 DEL CÓDIGO.
 
 ###### ARTICULO UNICO.
 
@@ -16719,7 +16721,7 @@ El presente Decreto entrará en vigor al cuarto día siguiente al de su publicac
 
 P.O. 28 DE JULIO DE 1989.
 
-DECRETO NUMERO 37, QUE ADICIONA EL ARTICULO 323 DEL CODIGO.
+DECRETO NÚMERO 37, QUE ADICIONA EL ARTÍCULO 323 DEL CÓDIGO.
 
 ###### ARTICULO UNICO.
 
@@ -16727,7 +16729,7 @@ El presente Decreto entrará en vigor el cuarto día siguiente al de su publicac
 
 P.O. 28 DE JULIO DE 1989.
 
-DECRETO NUMERO 38, QUE REFORMA LOS ARTICULOS 337 Y 316 DEL CODIGO.
+DECRETO NÚMERO 38, QUE REFORMA LOS ARTÍCULOS 337 Y 316 DEL CÓDIGO.
 
 ###### ARTICULO UNICO.
 
@@ -16735,7 +16737,7 @@ El presente Decreto entrará en vigor el cuarto día siguiente al de su publicac
 
 P.O. 28 DE JULIO DE 1989.
 
-DECRETO NUMERO 39, QUE REFORMA EL ARTICULO 160 DEL CODIGO.
+DECRETO NÚMERO 39, QUE REFORMA EL ARTÍCULO 160 DEL CÓDIGO.
 
 ###### ARTICULO UNICO.
 
@@ -16785,7 +16787,7 @@ El presente decreto entrará en vigor a los sesenta días siguientes al de su pu
 
 ###### ARTICULO SEGUNDO.
 
-Las personas que hayan realizado el procedimiento de adopción, podrán optar por la adopción plena en los términos del presente decreto, siempre y cuando le soliciten al Juez competente el cambio de situación jurídica para que éste, sin más trámite, haga la declaratoria correspondiente.
+Las personas que hayan realizado el procedimiento de adopción, podrán optar por la adopción plena en los términos del presente decreto, siempre y cuando les soliciten al Juez competente el cambio de situación jurídica para que éste, sin más trámite, haga la declaratoria correspondiente.
 
 Para los efectos del artículo 458, en la declaratoria el Juez ordenará al Oficial del Registro Civil, la cancelación de las actas de nacimiento y adopción, así como para que levante el acta de nacimiento correspondiente.
 
@@ -16795,7 +16797,7 @@ En los procedimientos de adopción en trámite, a la entrada en vigor del presen
 
 ###### ARTICULO CUARTO.
 
-El Sistema Estatal para el Desarrollo Integral de la Familia, se coordinará con los Ayuntamientos de la Entidad, a efecto de que la Procuraduría en materia de Asistencia Social, tengan la intervención que le señala este decreto en los procedimientos de adopción.
+El Sistema Estatal para el Desarrollo Integral de la Familia, se coordinará con los Ayuntamientos de la Entidad, a efecto de que la Procuraduría en materia de Asistencia Social, tengan la intervención que les señala este decreto en los procedimientos de adopción.
 
 P.O. 4 DE JULIO DE 1997.
 
@@ -16865,13 +16867,13 @@ Artículo Segundo.- Se deroga cualquier disposición que se oponga al presente D
 
 P.O. 13 DE JUNIO DE 2008.
 
-DECRETO NUMERO 153, QUE ADICIONA Y REFORMA LOS ARTICULOS 356-A Y 2624 DEL CODIGO CIVIL PARA EL ESTADO DE GUANAJUATO.
+DECRETO NÚMERO 153, QUE ADICIONA Y REFORMA LOS ARTÍCULOS 356-A Y 2624 DEL CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO.
 
 Artículo Único. El presente Decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
 
 P.O. 13 DE JUNIO DE 2008.
 
-DECRETO NUMERO 154 QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTICULOS DEL CODIGO CIVIL PARA EL ESTADO DE GUANAJUATO.
+DECRETO NÚMERO 154 QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS DEL CÓDIGO CIVIL PARA EL ESTADO DE GUANAJUATO.
 
 Artículo Primero. El presente decreto entrará en vigor al cuarto día siguiente a la fecha de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
 
@@ -16936,3 +16938,19 @@ Artículo Único. El presente Decreto entrará en vigencia al cuarto día siguie
 P.O. 17 DE MAYO DE 2013.
 
 Artículo Único. El presente Decreto entrará en vigencia al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 21 DE MAYO DE 2013.
+
+Artículo Primero. El presente Decreto entrará en vigencia al cuarto día siguiente al de su publicación en el Periódico Oficial de (sic) Gobierno del Estado.
+
+Artículo Segundo. El Poder Ejecutivo, por conducto de la Secretaría de Gobierno, dará amplia difusión a la dirección electrónica del Periódico Oficial del Gobierno del Estado.
+
+Artículo Tercero. La Secretaría de Desarrollo Agroalimentario y Rural, sustituye en todos los derechos, obligaciones y compromisos adquiridos por la Secretaría de Desarrollo Agropecuario.
+
+Para todos los efectos legales correspondientes, la Secretaría de Desarrollo Agroalimentario y Rural a que alude el presente Decreto, se entenderá referida a la Secretaría de Desarrollo Agropecuario, que se menciona en otros decretos, reglamentos, convenios u otros instrumentos jurídicos emitidos con anterioridad al presente Decreto.
+
+En tanto se realizan los ajustes en el Reglamento Interior y demás normatividad, las unidades administrativas que por consecuencia del presente Decreto modifiquen su denominación o adquieren atribuciones que tenían otras unidades administrativas, se sustituirán en todos los derechos, obligaciones y compromisos adquiridos por la unidad administrativa que se modifique o extinga, en la materia que se le asigne.
+
+Artículo Cuarto. La Secretaría de Turismo sustituye en todos los derechos, obligaciones y compromisos adquiridos por la Secretaría de Desarrollo Turístico.
+
+Para todos los efectos legales correspondientes, la Secretaría de Turismo a que alude el presente Decreto, se entenderá referida a la Secretaría de Desarrollo Turístico, que se menciona en otros decretos, reglamentos, convenios u otros instrumentos jurídicos emitidos con anterioridad al presente Decreto.
