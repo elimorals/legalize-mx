@@ -4,7 +4,7 @@ identifier: "LGEEPA"
 country: "mx"
 rank: "ley_general"
 publication_date: "1988-01-28"
-last_updated: "2013-05-20"
+last_updated: "2013-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=225&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGEEPA"
 
 LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE MAYO DE 2013.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 28 de enero de 1988.
 
@@ -1298,9 +1298,11 @@ En dichas subzonas se podrá llevar a cabo exclusivamente la construcción de in
 
 g) De asentamientos humanos: En aquellas superficies donde se ha llevado a cabo una modificación sustancial o desaparición de los ecosistemas originales, debido al desarrollo de asentamientos humanos, previos a la declaratoria del área protegida, y
 
+> <small>(REFORMADO, D.O.F. 21 DE MAYO DE 2013)</small>
+
 h) De recuperación: Aquellas superficies en las que los recursos naturales han resultado severamente alterados o modificados, y que serán objeto de programas de recuperación y rehabilitación.
 
-En estas subzonas deberán utilizarse preferentemente para su rehabilitación, especies nativas de la región; o en su caso, especies compatibles con el funcionamiento y la estructura de los ecosistemas originales.
+En estas subzonas sólo podrán utilizarse para su rehabilitación, especies nativas de la región o en su caso, especies compatibles con el funcionamiento y la estructura de los ecosistemas originales cuando científicamente se compruebe que no se afecta la evolución y continuidad de los procesos naturales.
 
 En las zonas de amortiguamiento deberá tomarse en consideración las actividades productivas que lleven a cabo las comunidades que ahí habiten al momento de la expedición de la declaratoria respectiva, basándose en lo previsto tanto en el Programa de Manejo respectivo como en los Programas de Ordenamiento Ecológico que resulten aplicables.
 
@@ -3697,3 +3699,9 @@ DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 32 Y 104 DE LA LEY GENERAL DEL EQU
 Artículo Primero. El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Artículo Segundo. En un plazo no mayor a 180 días hábiles posteriores a la entrada en vigor del presente Decreto el titular del Poder Ejecutivo Federal deberá realizar las adecuaciones correspondientes al Reglamento de la Ley General de Desarrollo Forestal Sustentable.
+
+D.O.F. 21 DE MAYO DE 2013.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente a su publicación en el Diario Oficial de la Federación.
+
+Segundo.- El Poder Ejecutivo Federal, en un plazo que no exceda de 90 días naturales posteriores a la entrada en vigor del presente Decreto, deberá publicar en el Diario Oficial de la Federación, el Decreto por el que se reforma el artículo 61 del Reglamento de la Ley General del Equilibro Ecológico y la Protección al Ambiente en materia de Áreas Naturales Protegidas, a fin de que se ajuste a lo previsto en el presente Decreto.
