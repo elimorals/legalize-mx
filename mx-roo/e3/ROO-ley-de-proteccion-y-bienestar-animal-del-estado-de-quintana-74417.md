@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-proteccion-y-bienestar-animal-del-estado-de-quintana-744
 country: "mx"
 rank: "ley"
 publication_date: "2010-03-30"
-last_updated: "2010-03-30"
+last_updated: "2013-05-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74417&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # LEY DE PROTECCION Y BIENESTAR ANIMAL DEL ESTADO DE QUINTANA ROO
 
-LEY DE PROTECCION Y BIENESTAR ANIMAL DEL ESTADO DE QUINTANA ROO
+LEY DE PROTECCIÓN Y BIENESTAR ANIMAL DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL DEL ESTADO DE QUINTANA ROO, PUBLICADA EN EL P.O. DE 22 DE MAYO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el martes 30 de marzo de 2010.
 
@@ -952,3 +954,15 @@ LIC. FÉLIX ARTURO GONZÁLEZ CANTO
 EL SECRETARIO DE GOBIERNO DEL ESTADO DE QUINTANA ROO.
 
 LIC. EDUARDO OVANDO MARTINEZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE MAYO DE 2013.
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en la (sic) Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se abroga la Ley de Protección y Bienestar Animal del Estado de Quintana Roo, misma que fuera publicada en el Periódico Oficial del Estado de Quintana Roo, en fecha 30 de marzo de 2010.
+
+TERCERO.- El Titular del Poder Ejecutivo del Estado expedirá el Reglamento de la presente Ley dentro de los 180 días posteriores a la entrada en vigor del presente ordenamiento.
+
+CUARTO.- Los Municipios del Estado contarán con un término de 180 días para expedir los reglamentos que permitan la aplicación de la presente ley en el ámbito de su competencia.
