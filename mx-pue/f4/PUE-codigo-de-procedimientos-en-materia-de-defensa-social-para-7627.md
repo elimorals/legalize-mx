@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-procedimientos-en-materia-de-defensa-social-para-7627
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2012-12-31"
+last_updated: "2013-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7627&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO DE PROCEDIMIENTOS EN MATERIA DE DEFENSA SOCIAL PARA EL ESTADO L. Y S. DE
 
 > <small>N. DE E. EL PRESENTE ORDENAMIENTO SERÁ ABROGADO DE FORMA GRADUAL POR LOS ARTÍCULOS PRIMERO Y TERCERO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA, INICIANDO POR LA REGIÓN JUDICIAL QUE SE ESTABLEZCA EN LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO A PARTIR DEL 15 DE ENERO DE 2013 Y CONCLUYENDO EL 17 DE JUNIO DE 2016.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2013.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -385,11 +385,11 @@ Artículo 30 ter.- En los casos en que se acuerde el archivo de la Averiguación
 
 Sólo en casos de que exista oposición a la determinación del no ejercicio de la acción penal, el Agente del Ministerio Público deberá enviar el original de la Averiguación Previa al Ciudadano Procurador, a efecto de que se realice el estudio y análisis de la misma y se determine la procedencia o improcedencia de la determinación, confirmándola o en su caso señalando las diligencias necesarias para la integración de la misma.
 
-> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2007)</small>
-
 ###### Artículo 31.
 
 El Juez o la Sala podrán dictar en los procesos sujetos a su conocimiento, los trámites y providencias que estimen convenientes para la pronta y eficaz administración de justicia.
+
+> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2007)</small>
 
 ###### Artículo 31 Bis.
 
@@ -1019,9 +1019,13 @@ K.- Homicidio, previsto en el artículo 312 en relación con los artículos 316,
 
 K Bis.- Feminicidio, previsto en el artículo 312 Bis;
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-L.- Robo calificado previsto en el artículo 373, en relación con los artículos 374 fracciones IV y V, y 375, cuando se realicen en cualquiera de las circunstancias señaladas en las fracciones I, II, III, X, XI, XVII y XX del artículo 380;
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2013)</small>
+
+L.- Robo previsto en el artículo 373, en relación con los artículos: 374 fracción IV, cuando se realice en cualquiera de las circunstancias señaladas en las fracciones I, II, III, IV, VII, IX, X, XI, XVII, XIX, XX, XXIII, XXIV y XXV del artículo 380, y los artículos 374 fracciones VI y VII y 375;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE ENERO DE 2012)</small>
 
@@ -1075,13 +1079,29 @@ W.- Lesiones, previstas en los artículos 307 y 308 cuando se cometan en cualqui
 
 X.- Fraude, previsto en el artículo 406 Bis;
 
-> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Y.- Delitos que afectan la Procuración y Administración de Justicia, previstos en el artículo 421 fracción XXXV; y
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2013)</small>
 
-> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2012)</small>
+Y.- Delitos que afectan la Procuración y Administración de Justicia, previstos en el artículo 421 fracción XXXV;
 
-Z.- Narcomenudeo, previsto en los artículos 463 y 464.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2013)</small>
+
+Z.- Narcomenudeo, previsto en los artículos 463 y 464;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2013)</small>
+
+AA.- Encubrimiento por receptación, cuando se encuentren en los supuestos del artículo 212 Bis cuarto párrafo; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2013)</small>
+
+AB.- Despojo, previsto en los artículos 409 y 409 Bis.
 
 > <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2004)</small>
 
@@ -4174,5 +4194,11 @@ P.O. 31 DE DICIEMBRE DE 2012.
 DECRETO ÚNICO, POR EL QUE SE REFORMA LA FRACCIÓN XI Y SE ADICIONA LA FRACCIÓN XII AL ARTÍCULO 54 BIS DEL CÓDIGO DE PROCEDIMIENTOS EN MATERIA DE DEFENSA SOCIAL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA.
 
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE MAYO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor a los quince días naturales siguientes contados a partir del día de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
