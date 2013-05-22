@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-procedimientos-penales-para-el-estado-libre-y-80238"
 country: "mx"
 rank: "codigo"
 publication_date: "2011-02-21"
-last_updated: "2012-09-14"
+last_updated: "2013-05-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2013.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el lunes 21 de febrero de 2011.
 
@@ -2981,7 +2981,11 @@ I.- Homicidio por culpa previsto en los artículos 85 Bis y 86;
 
 II.- Lesiones previsto en los artículos 307 y 308;
 
-III.- Robo calificado previsto en el artículo 373, con relación a los artículos 374 fracciones IV, V, 375 y 380;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2013)</small>
+
+III.- Robo calificado previsto en el artículo 373, con relación a los artículos 374 fracciones IV, VI y VII, 375 y 380;
 
 IV.- Extorsión previsto en el artículo 415;
 
@@ -2989,9 +2993,29 @@ V.- Peculado previsto en el artículo 428;
 
 VI.- Enriquecimiento ilícito previsto en el artículo 432;
 
-VII.- Violencia Familiar previsto en el artículo 284 Bis; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
-VIII.- Operaciones con recursos de procedencia ilícita previsto en el artículo 453.
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2013)</small>
+
+VII.- Violencia Familiar previsto en el artículo 284 Bis;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2013)</small>
+
+VIII.- Operaciones con recursos de procedencia ilícita previsto en el artículo 453;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2013)</small>
+
+IX.- Encubrimiento por receptación, cuando se encuentren en los supuestos del artículo 212 Bis cuarto párrafo; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2013)</small>
+
+X.- Despojo previsto en los artículos 409 y 409 Bis.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -7008,3 +7032,9 @@ SEGUNDO.- Para los efectos señalados en el párrafo tercero del artículo Segun
 TERCERO.- No procederá la acumulación de juicios cuando los hechos materia de los mismos hayan sido cometidos en regiones judiciales diferentes y en una de ellas no haya entrado en vigor el presente Código.
 
 CUARTO.- Los casos de delincuencia organizada serán investigados y procesados de conformidad con las reglas previstas en el Código de Procedimientos en Materia de Defensa Social de 23 de diciembre de 1986, hasta la entrada en vigor de la legislación federal en la materia.
+
+P.O. 22 DE MAYO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor a los quince días naturales siguientes contados a partir del día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
