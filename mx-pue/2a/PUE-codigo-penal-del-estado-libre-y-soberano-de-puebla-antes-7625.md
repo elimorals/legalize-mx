@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2012-12-31"
+last_updated: "2013-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2013.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -1889,7 +1889,11 @@ IV.- Lenocinio de personas menores de dieciocho años de edad o de personas que 
 
 V.- Asalto, previsto en los artículos 294 y 298;
 
-VI.- Robo de vehículos, previsto en los artículos 374 fracción V y 375;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2013)</small>
+
+VI.- Robo de vehículos previsto en los artículos 374 fracción VI y 375;
 
 VII.- Trata de personas, previsto en el artículo 228; y
 
@@ -2328,6 +2332,12 @@ Se impondrá prisión de dos a siete años y multa de cien a doscientos días de
 Si el valor de éstos es superior a quinientas veces el salario, se impondrá de cuatro a ocho años de prisión y de doscientos a mil quinientos días de multa.
 
 Cuando el o los instrumentos, objetos, o productos de un delito se relacionan con el giro comercial del tenedor o receptor, si éste es comerciante o sin serlo se encuentra en posesión de dos o más de los mismos, se tendrá por acreditado que existe conocimiento de que proviene o provienen de un ilícito.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2013)</small>
+
+Se impondrá sanción de seis a doce años de prisión y multa de quinientos a dos mil días de salario mínimo, cuando las conductas descritas en este artículo se realicen respecto de mercancía o carga de transporte ferroviario, público o privado, a sabiendas de esta circunstancia.
 
 > <small>(ADICIONADO, P.O. 4 DE ENERO DE 2012)</small>
 
@@ -4125,19 +4135,31 @@ III.- Cuando el valor de lo robado excediere de cien días de salario, pero no d
 
 IV.- Cuando el valor de lo robado sobrepasare trescientos días de salario, se impondrán de tres a ocho años de prisión y multa de ciento cincuenta a cuatrocientos días de salario;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-V.- Cuando el objeto del robo sea la sustracción, apoderamiento, comercialización, detentación o posesión de cualquier objeto, componente o material utilizado en la prestación de algún servicio público, tal como el alumbrado, energía eléctrica, agua potable, drenaje sanitario, drenaje pluvial, telecomunicaciones, señalización vial, urbana o servicio de limpia, incluyendo cualquier alcantarilla o tapa de registro de alguno de los servicios referidos o cualquier clase de mobiliario urbano; se impondrá de cuatro a ocho años de prisión y multa de quinientos a dos mil días de salario mínimo; y
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2013)</small>
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+V.- Cuando el objeto del robo sea la sustracción, apoderamiento, comercialización, detentación o posesión de cualquier objeto, componente o material utilizado en la prestación de algún servicio público, tal como el alumbrado, energía eléctrica, agua potable, drenaje sanitario, drenaje pluvial, telecomunicaciones, señalización vial, urbana o servicio de limpia, incluyendo cualquier alcantarilla o tapa de registro de alguno de los servicios referidos o cualquier clase de mobiliario urbano, se impondrá de cuatro a ocho años de prisión y multa de quinientos a dos mil días de salario mínimo;
 
-VI.- Si el objeto del robo es un vehículo de motor, como motocicletas, automóviles, camiones, tractores u otros semejantes como remolques o semirremolques, se impondrá de seis a doce años de prisión y multa de quinientos a dos mil días de salario mínimo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2013)</small>
+
+VI.- Si el objeto del robo es un vehículo de motor, como motocicletas, automóviles, camiones, tractores u otros semejantes como remolques o semirremolques, se impondrá de seis a doce años de prisión y multa de quinientos a dos mil días de salario mínimo; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2013)</small>
+
+VII.- La misma sanción establecida en la fracción anterior se aplicará a quien, por cualquier medio utilizado, se apodere de uno o varios instrumentos u objetos, que constituyan parte de la mercancía o carga del transporte ferroviario, público o privado, sin consentimiento de quien legalmente puede disponer de los mismos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2013)</small>
 
 ###### Artículo 375.
 
-Se impondrá la sanción establecida en la fracción V del artículo 374 de este Código a quien:
+Se impondrá sanción de seis a doce años de prisión y multa de quinientos a dos mil días de salario mínimo a quien:
 
 > <small>(REFORMADA, P.O. 4 DE ENERO DE 2012)</small>
 
@@ -4599,13 +4621,19 @@ I.- Al que, de propia autoridad, y haciendo violencia o furtivamente, o empleand
 
 II.- Al que de propia autoridad, haciendo uso de cualquiera de los medios indicados en la fracción anterior, ocupe un inmueble de su propiedad, en los casos en que la ley no lo permite por hallarse en poder de otra persona, permanezca en él o ejerza actos de dominio que lesionen derechos legítimos del ocupante.
 
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2013)</small>
+
+La sanción se aumentará hasta en una tercera parte en los casos previstos en las fracciones anteriores cuando se cometan en contra de personas mayores de sesenta años o personas con discapacidad.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2013)</small>
 
 ###### Artículo 409.
 
-Cuando el despojo se cometa materialmente por cinco o más personas, la sanción de prisión será de seis a nueve años y multa de cien a mil quinientos días de salario.
-
-En el supuesto de que el delito se cometa en contra de personas mayores de sesenta años, o personas con discapacidad, o en contra de zonas declaradas área natural protegida, la sanción se aumentará hasta en una tercera parte.
+El delito de despojo se sancionará con prisión de seis a nueve años y multa de cien a mil quinientos días de salario mínimo, cuando se cometa materialmente por cinco o más personas o en contra de zonas declaradas área natural protegida.
 
 > <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 2011)</small>
 
@@ -4615,9 +4643,11 @@ Artículo 409 BIS.- A quienes dirijan la invasión y su autor o autores intelect
 
 Lo dispuesto en los dos artículos anteriores, se aplicará aun cuando la posesión de la cosa usurpada sea dudosa o esté en disputa.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### Artículo 411.
 
-A las sanciones señaladas en los artículos anteriores, se aumentarán las que correspondan por la violencia, la amenaza o por cualquier otro delito que resultare cometido.
+(DEROGADO, P.O. 22 DE MAYO DE 2013)
 
 #### SECCION QUINTA.- PECULADO
 
@@ -5798,3 +5828,9 @@ SEGUNDO. Todos los asuntos que se encuentren en etapa de averiguación previa, p
 TERCERO. Todo instrumento legal, jurídico o administrativo y norma en sentido formal o material, que a la entrada en vigor del presente Decreto, se refiera al Código de Defensa Social para el Estado Libre y Soberano de Puebla se entenderá atribuido al Código Penal del Estado Libre y Soberano de Puebla.
 
 CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE MAYO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor a los quince días naturales siguientes contados a partir del día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
