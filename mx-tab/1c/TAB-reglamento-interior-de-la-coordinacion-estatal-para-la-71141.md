@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-de-la-coordinacion-estatal-para-la-71141"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-28"
-last_updated: "2009-11-28"
+last_updated: "2013-05-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,19 @@ state: "TAB"
 ---
 # REGLAMENTO INTERIOR DE LA COORDINACION ESTATAL PARA LA REGULARIZACION DE LA TENENCIA DE LA TIERRA
 
-REGLAMENTO INTERIOR DE LA COORDINACION ESTATAL PARA LA REGULARIZACION DE LA TENENCIA DE LA TIERRA
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA COORDINACIÓN ESTATAL PARA LA REGULARIZACIÓN DE LA TENENCIA DE LA TIERRA, PUBLICADO EN EL P.O. DE 22 DE MAYO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO INTERIOR DE LA COORDINACIÓN ESTATAL PARA LA REGULARIZACIÓN DE LA TENENCIA DE LA TIERRA DEL ESTADO DE TABASCO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2013 (ABROGADO).
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 28 de noviembre de 2009.
 
 QUÍM. ANDRÉS RAFAEL GRANIER MELO, GOBERNADOR DEL ESTADO LIBRE Y SOBERANO DE TABASCO, EN EJERCICIO DE LAS FACULTADES QUE ME CONFIEREN LOS ARTÍCULOS 51 FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO Y 7 FRACCIÓN II DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE TABASCO; Y
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 Por lo anteriormente expuesto y fundado, he tenido a bien emitir el siguiente:
 
@@ -860,3 +864,21 @@ SECRETARIO DE ASENTAMIENTOS Y OBRAS PÚBLICAS.
 LIC. MARÍA DEL CARMEN HERNÁNDEZ ZAMORA
 
 COORDINADOR GENERAL DE LA COORDINACIÓN ESTATAL PARA LA REGULARIZACIÓN DE LA TENENCIA DE LA TIERRA.
+
+> <small>[N. DE E. SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE MAYO DE 2013.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERIOR DE LA COORDINACIÓN ESTATAL PARA LA REGULARIZACIÓN DE LA TENENCIA DE LA TIERRA".]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga el Reglamento interior de la Coordinación Estatal para la Regularización de la Tenencia de la Tierra "CERTT" publicado en el Periódico Oficial del Estado, Suplemento “UF", número 7015 de fecha 20 (SIC) de noviembre del 2009.
+
+TERCERO. Se derogan las disposiciones jurídicas y administrativas que se opongan al presente reglamento.
+
+CUARTO. Los asuntos pendientes al entrar en vigor el presente Reglamento, que conforme al mismo deban pasar de una dirección a otra, continuarán su trámite y serán resueltos por aquella o aquellas a las que se le haya otorgado competencia en éste Reglamento.
+
+QUINTO. Para su mejor desempeño, la CERTT deberá elaborar su Manual de Organización y elaborar el Manual de Procedimientos con base en las funciones y atribuciones conferidas en el presente Reglamento.
+
+SEXTO. En tanto no se expidan los manuales señalados en el transitorio que antecede, el Coordinador queda facultado para resolver las cuestiones que conforme a los mismos se deba regular.
