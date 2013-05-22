@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-tribunal-electoral-del-distrito-83471"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-11-07"
-last_updated: "2013-05-09"
+last_updated: "2013-05-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83471&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2011-10-27"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 22 DE MAYO DE 2013.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 7 de noviembre de 2011.
 
@@ -300,19 +300,25 @@ Hecho lo anterior, se listará en el proyecto de orden del día de la siguiente 
 
 ### CAPÍTULO III. DE LA O DEL PRESIDENTE
 
+(REUBICADO, G.O. 22 DE MAYO DE 2013)
+
 ###### Artículo 11.
 
 Las ausencias emergentes de la o del Presidente a sesiones públicas o reuniones privadas del Pleno, serán cubiertas en forma rotatoria por la Magistrada o el Magistrado que corresponda en atención al orden alfabético del primer apellido.
+
+(REUBICADO, G.O. 22 DE MAYO DE 2013)
 
 ###### Artículo 12.
 
 Cuando las ausencias de la o del Presidente se deban a motivos de salud, disfrute de periodos vacacionales, licencias u otra causa debidamente justificada, el Pleno, a propuesta que por escrito formule aquél, designará mediante acuerdo, a la Magistrada o al Magistrado que deba sustituirlo provisionalmente en el ejercicio de sus funciones.
 
+(REUBICADO, G.O. 22 DE MAYO DE 2013)
+
 ###### Artículo 13.
 
 En caso de ausencia definitiva de la o del Presidente, el Pleno elegirá, en los términos previstos en este capítulo, a la Magistrada o al Magistrado que haya de asumir el cargo únicamente para concluir el periodo de la vacante.
 
-La elección de la o del Presidente se llevará a cabo una vez que, de ser el caso, entre en funciones la Magistrada o el Magistrado sustituto designado por la Asamblea.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.O. 22 DE MAYO DE 2013)</small>
 
 ###### Artículo 14.
 
@@ -1737,3 +1743,9 @@ G.O. 9 DE MAYO DE 2013.
 PRIMERO. La reforma al Reglamento Interior del Tribunal Electoral del Distrito Federal entrará en vigor al día siguiente de su publicación en los estrados del Tribunal.
 
 SEGUNDO. Publíquese la presente reforma en la Gaceta, así como en los estrados y en el sitio de Internet del Tribunal.
+
+G.O. 22 DE MAYO DE 2013.
+
+PRIMERO. La reforma al presente Reglamento entrará en vigor al momento de su aprobación por el Pleno del Tribunal.
+
+SEGUNDO. Publíquese esta reforma en la Gaceta, así como en los estrados y en el sitio de Internet del Tribunal.
