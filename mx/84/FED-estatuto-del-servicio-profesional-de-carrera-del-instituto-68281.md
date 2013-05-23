@@ -4,7 +4,7 @@ identifier: "FED-estatuto-del-servicio-profesional-de-carrera-del-instituto-6828
 country: "mx"
 rank: "estatuto"
 publication_date: "2009-05-08"
-last_updated: "2012-03-30"
+last_updated: "2013-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68281&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-04-24"
 
 ESTATUTO DEL SERVICIO PROFESIONAL DE CARRERA DEL INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE MAYO DE 2013.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 8 de mayo de 2009.
 
@@ -141,9 +141,15 @@ IX. Autorizar el Catálogo y los cargos que serán considerados de libre designa
 
 X. Autorizar la contratación temporal de servidores públicos en los cargos que forman parte del Sistema, en términos del Artículo 23 de este Estatuto;
 
-XI. Nombrar a los integrantes del Comité y aprobar su Manual de integración y funcionamiento, y
+XI. Nombrar a los integrantes del Comité y aprobar su Manual de integración y funcionamiento, y (sic)
 
-XII. Las demás que se le confieran en el presente Estatuto y sus disposiciones normativas.
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2013)</small>
+
+XII. Resolver solicitudes de licencias presentadas por los Servidores Públicos Profesionales de Carrera por motivos académicos o por ocupar otra plaza temporalmente dentro del Instituto, y
+
+> <small>(ADICIONADA, D.O.F. 23 DE MAYO DE 2013)</small>
+
+XIII. Las demás que se le confieran en el presente Estatuto y sus disposiciones normativas.
 
 ### Capítulo II,
 
@@ -165,7 +171,7 @@ IV. Aprobar los programas de capacitación del Sistema;
 
 V. Establecer los mecanismos de evaluación específicos para los Servidores Públicos Profesionales de Carrera;
 
-VI. Resolver las solicitudes de licencias presentadas por los Servidores Públicos Profesionales de Carrera;
+VI. (DEROGADA, D.O.F. 23 DE MAYO DE 2013)
 
 VII. Resolver la separación de los Servidores Públicos Profesionales de Carrera por el incumplimiento de sus obligaciones establecidas en el presente Estatuto y en las demás disposiciones normativas que de él deriven;
 
@@ -301,9 +307,11 @@ El Comité establecerá los mecanismos de evaluación específicos para la obten
 
 En igualdad de calificaciones, tendrán preferencia los servidores públicos del Instituto.
 
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2013)</small>
+
 ###### Artículo 22.
 
-El Aspirante seleccionado por el Comité se hará acreedor al nombramiento como Candidato a Servidor Público Profesional de Carrera en el cargo que corresponda. Esta designación tendrá una vigencia de un año, al término del cual en caso de un desempeño satisfactorio o superior de acuerdo con los mecanismos de evaluación establecidos para tal efecto, se le otorgará el nombramiento en el cargo que corresponda como Servidor Público Profesional de Carrera. En caso contrario se le notificará que cesan los efectos de su nombramiento en un plazo de 10 días hábiles contados a partir del vencimiento del plazo. En este supuesto el servidor público que se desempeñó provisionalmente tendrá únicamente derecho a interponer el recurso de reconsideración que prevé este Estatuto.
+El Aspirante seleccionado por el Comité se hará acreedor al nombramiento, por tiempo determinado, como Candidato a Servidor Público Profesional de Carrera en el cargo que corresponda, con una vigencia de un año, al término del cual en caso de un desempeño satisfactorio o superior de acuerdo con los mecanismos de evaluación establecidos para tal efecto, se le otorgará el nombramiento en el cargo que corresponda como Servidor Público Profesional de Carrera. En caso contrario se le notificará, con al menos 30 días naturales de anticipación al vencimiento de su nombramiento por tiempo determinado, que el resultado de la evaluación fue no satisfactorio y que no se le otorgará el nombramiento como Servidor Público Profesional de Carrera, y que en consecuencia, a la conclusión de la vigencia de su nombramiento provisional concluirá la relación de trabajo sin responsabilidad para el INEGI. En este supuesto el servidor público que se desempeñó provisionalmente tendrá únicamente derecho a interponer el recurso de reconsideración que prevé este Estatuto.
 
 ###### Artículo 23.
 
@@ -369,9 +377,11 @@ En caso de separación imputable al Servidor Público Profesional de Carrera, an
 
 La Evaluación del Desempeño.
 
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2013)</small>
+
 ###### Artículo 31.
 
-Los Servidores Públicos Profesionales de Carrera serán evaluados en los cursos de capacitación que participen conforme a los términos que determine el Comité por lo menos cada dos años. Los Servidores Públicos Profesionales de Carrera que no puedan realizar cursos de capacitación durante un ejercicio anual por la falta de oferta de cursos vinculados a las funciones y/o necesidades de desarrollo de su puesto o debido a falta de recursos presupuestales para llevarlos a cabo, serán evaluados para efectos de su permanencia en el Sistema, con los otros elementos previstos para tal efecto.
+Los Servidores Públicos Profesionales de Carrera serán evaluados en su desempeño y en los cursos de capacitación que participen conforme a los términos que determine el Comité, por lo menos una vez cada tres años. Los Servidores Públicos Profesionales de Carrera que no puedan realizar cursos de capacitación por la falta de oferta de cursos vinculados a las funciones y/o necesidades de desarrollo de su puesto o debido a falta de recursos presupuestales para llevarlos a cabo, serán evaluados para efectos de su permanencia en el Sistema, con los otros elementos previstos para tal efecto.
 
 ###### Artículo 32.
 
@@ -441,7 +451,9 @@ En adición a los supuestos previstos en el artículo anterior, la relación lab
 
 I. Renuncia, que es la manifestación de la voluntad por escrito del servidor público para terminar la relación laboral con el Instituto;
 
-II. Jubilación o pensión definitiva, en términos de la legislación aplicable, y
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2013)</small>
+
+II. Pensión definitiva, en términos de la legislación aplicable, y
 
 III. Defunción.
 
@@ -449,15 +461,31 @@ III. Defunción.
 
 Cuando por razones de reestructuración del Instituto, desaparezcan plazas ocupadas por Servidores Públicos Profesionales de Carrera, se buscará reubicarlos en puestos equivalentes que se encuentren vacantes en el Instituto; en el supuesto de que lo anterior no fuera factible, se efectuarán las acciones correspondientes para que sean indemnizados en términos de la legislación laboral aplicable.
 
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2013)</small>
+
 ###### Artículo 41.
 
 La licencia es el acto por el cual un Servidor Público Profesional de Carrera puede dejar de desempeñar las funciones propias de su cargo de manera temporal, conservando el derecho para su reincorporación y antigüedad generada dentro del Sistema.
 
-Para que un Servidor Público Profesional de Carrera pueda obtener una licencia deberá tener una permanencia en el Sistema de al menos tres años y dirigir su solicitud por escrito al Comité, con el visto bueno del superior jerárquico.
+Las licencias serán de tres tipos:
 
-La licencia sin goce de sueldo no será mayor a seis meses y sólo podrá prorrogarse hasta un año, siempre y cuando el Servidor Público Profesional de Carrera sea promovido temporalmente al desempeño de otro cargo de mayor jerarquía dentro del Instituto; en este supuesto deberá reintegrarse a su plaza como Servidor Público Profesional de Carrera en los 15 días naturales siguientes al término del encargo temporal. En ningún caso un servidor público del Instituto podrá tener la titularidad de más de una plaza del Sistema.
+I. Para resolver situaciones extraordinarias del Servidor Público Profesional de Carrera.
 
-La licencia con otorgamiento de beca se podrá autorizar por la capacitación del servidor público vinculada al ejercicio de sus funciones en términos del Artículo 30 de este Estatuto, por un tiempo igual al que duren sus estudios de especialización.
+II. Por motivos académicos con o sin beca.
+
+III. Para ocupar temporalmente otra plaza dentro del Instituto.
+
+Las licencias para resolver situaciones extraordinarias podrán otorgarse en cualquier momento y deberán ser aprobadas por el Titular de la Unidad Administrativa de adscripción. Esta licencia será sin goce de sueldo y no será mayor a seis meses.
+
+Las licencias por motivos académicos y para ocupar temporalmente otra plaza dentro del Instituto deberán ser aprobadas por la Comisión del Servicio Profesional de Carrera.
+
+Las licencias por motivos académicos sin beca se otorgarán sin goce de sueldo, sólo podrán otorgarse cuando el Servidor Público Profesional de Carrera tenga una antigüedad de al menos seis meses en el Sistema, se cuente con la autorización del Titular de la Unidad Administrativa de adscripción, no será mayor de un año y deberá ser aprobada por la Comisión.
+
+Las licencias por motivos académicos con beca sólo podrán otorgarse cuando el Servidor Público Profesional de Carrera tenga una antigüedad de al menos un año en el Sistema, se cuente con la autorización del Titular de la Unidad Administrativa de adscripción y deberá ser aprobada por la Comisión.
+
+Sólo se podrán autorizar al Servidor Público Profesional de Carrera en términos del Artículo 30 de este Estatuto, por un tiempo igual al que duren sus estudios de especialización.
+
+Las licencias para ocupar otra plaza dentro del Instituto no se autorizarán por un plazo mayor a un año, y se otorgarán siempre y cuando el Servidor Público Profesional de Carrera sea promovido temporalmente al desempeño de otro cargo de mayor jerarquía dentro del Sistema o a cualquier otro en el Instituto que no sea parte del Sistema; en este supuesto deberá reintegrarse a su plaza como Servidor Público Profesional de Carrera en los 15 días naturales siguientes al término del encargo temporal. En ningún caso un servidor público del Instituto podrá tener la titularidad de más de una plaza.
 
 Para solicitar una nueva licencia, el Servidor Público Profesional de Carrera deberá laborar por lo menos un periodo igual al otorgado en la licencia inmediata anterior.
 
@@ -583,7 +611,9 @@ El Comité, a través de su Presidente, tendrá por no interpuesto el recurso de
 
 I. Se presente fuera de plazo;
 
-II. Falte alguno de los requisitos señalados en el artículo 47, fracciones I a III del Estatuto; y
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2013)</small>
+
+II. Falte alguno de los requisitos señalados en los artículos 47, fracciones I a IV del Estatuto, y
 
 III. Se promueva en contra de criterios de evaluación.
 
@@ -714,3 +744,7 @@ SEGUNDO.- Los recursos de reconsideración que se hubieren interpuesto antes de 
 D.O.F. 30 DE MARZO DE 2012.
 
 UNICO. Las modificaciones al presente Estatuto entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 23 DE MAYO DE 2013.
+
+ÚNICO.- Las reformas al presente Estatuto entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
