@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-la-juventud-del-estado-de-tamaulipas-43160"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-29"
-last_updated: "2011-12-06"
+last_updated: "2013-05-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LA JUVENTUD DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2013.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el miércoles 29 de diciembre de 2004.
 
@@ -395,11 +395,11 @@ El Instituto de la Juventud de Tamaulipas fungirá como gestor, facilitador y di
 
 ### CAPITULO XIII. DEL DERECHO A LA EDUCACION
 
-(REUBICADO, P.O. 27 DE DICIEMBRE DE 2005)
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2013)</small>
 
 ###### ARTICULO 36.
 
-Los jóvenes tienen derecho a acceder al sistema educativo del Estado de Tamaulipas.
+Los jóvenes tienen derecho y accederán al sistema educativo del Estado de Tamaulipas, las instituciones educativas brindarán gratuitamente orientación vocacional profesional y servicio de vinculación al empleo con base en los programas y planes de estudio de educación pública.
 
 (REUBICADO, P.O. 27 DE DICIEMBRE DE 2005)
 
@@ -702,3 +702,9 @@ El presente Decreto se publicará en el Periódico Oficial del Estado y entrará
 P.O. 6 DE DICIEMBRE DE 2011.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE MAYO DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
