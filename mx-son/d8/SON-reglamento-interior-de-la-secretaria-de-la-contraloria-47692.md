@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-de-la-secretaria-de-la-contraloria-47692"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-12-08"
-last_updated: "2012-09-20"
+last_updated: "2013-05-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47692&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA CONTRALORÍA GENERAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 23 DE MAYO DE 2013.
 
 Reglamento publicado en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 8 de diciembre de 2005.
 
@@ -47,11 +47,17 @@ El Titular de la Secretaría de la Contraloría General será el Secretario que 
 
 I.- Unidades Administrativas:
 
+> <small>(REFORMADO, B.O. 23 DE MAYO DE 2013)</small>
+
 1.- Subsecretaría de Desarrollo Administrativo y Tecnológico;
 
-1.1 Dirección de Gobierno Digital
+> <small>(REFORMADO, B.O. 23 DE MAYO DE 2013)</small>
 
-1.2 Dirección de Planeación y Política Informática
+1.1 Dirección de Planeación y Política Informática
+
+> <small>(REFORMADO, B.O. 23 DE MAYO DE 2013)</small>
+
+1.2 Dirección de Operaciones Tecnológicas
 
 2.- Dirección General de Licitaciones y Contratos;
 
@@ -61,9 +67,17 @@ I.- Unidades Administrativas:
 
 3.1 Dirección de Auditoría Gubernamental
 
-4.- Dirección General de Seguimiento y Control de Obra Pública;
+> <small>(REFORMADO, B.O. 23 DE MAYO DE 2013)</small>
 
-4.1 Dirección de Auditoría a Obras en Dependencias y Entidades
+4.- Dirección General de Evaluación y Control de Obra Pública;
+
+> <small>(REFORMADO, B.O. 23 DE MAYO DE 2013)</small>
+
+4.1 Dirección de Verificación
+
+> <small>(ADICIONADO, B.O. 23 DE MAYO DE 2013)</small>
+
+4.2 Dirección de Evaluación y Control
 
 5.- Dirección General de Contraloría Social;
 
@@ -529,31 +543,37 @@ XVIII.- Elaborar y mantener permanentemente actualizado el Catálogo de Auditore
 
 XIX.- Las demás que le confieran las disposiciones legales aplicables y las que les atribuya expresamente el Titular de la Secretaría.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 23 DE MAYO DE 2013)</small>
+
 ###### Artículo 11.
 
-La Dirección General de Seguimiento y Control de Obra Pública estará adscrita al titular de la Secretaría, y tendrá a su cargo las siguientes atribuciones:
+La Dirección General de Evaluación y Control de Obra Pública estará adscrita al titular de la Secretaría, y tendrá a su cargo las siguientes atribuciones:
 
-l. Realizar, de manera directa o a través de prestadores de servicios profesionales, verificaciones, revisiones, investigaciones, auditorías y fiscalizaciones, a las obras públicas y los servicios relacionados con las mismas que ejecuten las dependencias y entidades de la Administración Pública Estatal y, en su caso, de conformidad con los convenios y acuerdos específicos, a los Ayuntamientos del Estado y dependencias y entidades de la Administración Pública Federal, con objeto de verificar el cumplimiento de la normatividad y las disposiciones jurídicas aplicables, así como de los objetivos y metas de sus programas de inversión en acciones, obras públicas y servicios relacionados con las mismas tendentes a:
+> <small>(REFORMADA, B.O. 23 DE MAYO DE 2013)</small>
+
+I. Realizar, de manera directa o a través de prestadores de servicios profesionales, verificaciones, revisiones, investigaciones, auditorías y fiscalizaciones, a las obras públicas y los servicios relacionados con las mismas que ejecuten las dependencias y entidades de la Administración Pública Estatal y, en su caso, de conformidad con los convenios y acuerdos específicos, a los Ayuntamientos del Estado y dependencias y entidades de la Administración Pública Federal, con objeto de verificar y evaluar el cumplimiento de la normatividad y las disposiciones jurídicas aplicables, así como de los objetivos y metas de sus programas de inversión en acciones, obras públicas y servicios relacionados con las mismas, tendentes a:
 
 a) Verificar el cumplimiento de las obligaciones derivadas de la normatividad y de las disposiciones jurídicas aplicables en materia de planeación, programación, presupuestación, gasto, ejecución, operación, control y evaluación de las obras públicas y de los servicios relacionados con éstas, que realicen por administración directa y/o por contrato;
 
-b) Verificar el cumplimiento de normas y especificaciones vinculadas a proyectos y ejecución de obras públicas;
+b) Verificar y evaluar el cumplimiento de normas y especificaciones vinculadas a proyectos y ejecución de obras públicas;
 
-c) Verificar el grado de cumplimiento de las metas contenidas en los programas de obra y la congruencia entre los recursos presupuestales autorizados y los ejercidos, así como revisar que las inversiones realizadas correspondan a las presupuestadas y autorizadas y/o aprobadas;
+c) Verificar y evaluar el grado de cumplimiento de las metas contenidas en los programas de obra y la congruencia entre los recursos presupuestales autorizados y los ejercidos, así como revisar que las inversiones realizadas correspondan a las presupuestadas y autorizadas y/o aprobadas;
 
 d) Analizar y determinar las condiciones de operación de las obras y de los servicios que se relacionen con las mismas, que hayan sido terminadas y entregadas total o parcialmente;
 
-e) Verificar que las personas en quienes recaiga tal responsabilidad, prevengan irregularidades que pudieran presentarse antes, durante y posterior a la ejecución de las obras públicas que realicen por contrato o por administración directa las dependencias y entidades de la Administración Pública Estatal, así como los municipios cuando sean financiadas total o parcialmente con recursos federales o estatales, de conformidad con lo dispuesto en los convenios relativos, así como vigilar que la calidad de las obras a que se refiere este inciso corresponda a lo establecido en los proyectos y contratos respectivos;
+e) Verificar y evaluar que las personas en quienes recaiga tal responsabilidad, prevengan irregularidades que pudieran presentarse antes, durante y posterior a la ejecución de las obras públicas que realicen por contrato o por administración directa las dependencias y entidades de la Administración Pública Estatal, así como los municipios cuando sean financiadas total o parcialmente con recursos federales o estatales, de conformidad con lo dispuesto en los convenios relativos, así como vigilar que la calidad de las obras a que se refiere este inciso corresponda a lo establecido en los proyectos y contratos respectivos;
 
 f) Proponer opciones para corregir o modificar proyectos, programas o catálogos de conceptos para la ejecución de obras públicas;
 
 g) Verificar el cumplimiento de las cláusulas de los contratos y acuerdos para la ejecución de obras públicas por administración directa, en lo referente a los aspectos técnicos de ingeniería;
 
-h) Verificar que las obras se realicen conforme a los proyectos, costos, presupuestos, tiempos, calidad y demás disposiciones aplicables pactados en los contratos y/o acuerdos respectivos para la ejecución de obras por administración directa;
+h) Verificar y evaluar que las obras se realicen conforme a los proyectos, costos, presupuestos, tiempos, calidad y demás disposiciones aplicables pactados en los contratos y/o acuerdos respectivos para la ejecución de obras por administración directa;
 
-i) Revisar y verificar que las acciones u obras encaminadas al sector productivo cumplan con la normatividad establecida y disposiciones jurídicas aplicables, conforme al origen de los recursos y los convenios o acuerdos que se tengan con otros niveles de gobierno;
+i) Revisar, verificar y evaluar que las acciones u obras encaminadas al sector productivo cumplan con la normatividad establecida y las disposiciones jurídicas aplicables, conforme al origen de los recursos y los convenios o acuerdos que se tengan celebrados con otros niveles de gobierno;
 
-j) Analizar y determinar, en su caso, las desviaciones que resulten sobre los renglones técnicos, financieros y administrativos en el desarrollo del programa y contrato o acuerdo de administración de obras o servicios relacionados con las mismas y, en su caso, turnarlas mediante la denuncia correspondiente a la Dirección General de Responsabilidades y Situación Patrimonial para los efectos legales que procedan en consecuencia;
+j) Analizar y determinar, en su caso, las desviaciones que resulten sobre los renglones técnicos, financieros y administrativos en el desarrollo del programa y contrato o acuerdo de administración de obras o servicios relacionados con las mismas y, en su caso, turnarlas mediante la denuncia correspondiente a la Dirección General de Responsabilidades y Situación Patrimonial para los efectos legales que procedan en consecuencia, y
+
+k) Proponer mejoras a los mecanismos de control de obra pública a partir de las evaluaciones realizadas;
 
 II. Establecer la forma y términos en que las dependencias y entidades, tanto de la Administración Pública Estatal como Municipal, en su caso, deberán remitir a la Secretaría la información relativa a las acciones, obras públicas y servicios relacionados con las mismas que realicen a través de contratos o acuerdos para la ejecución de obras por administración directa;
 
@@ -569,7 +589,9 @@ VII. Informar a los titulares de los Órganos de Control y Desarrollo Administra
 
 VIII. Registrar, dar seguimiento e informar periódicamente a las instancias federales y estatales competentes los avances en el cumplimiento de los compromisos en materia de obra pública de los Ejecutivos Federal y Estatal;
 
-IX. Ordenar las pruebas de laboratorio, análisis y sondeos necesarias para verificar la calidad y cumplimiento de especificaciones contratadas en las obras públicas;
+> <small>(REFORMADA, B.O. 23 DE MAYO DE 2013)</small>
+
+IX. Ordenar o realizar las pruebas de laboratorio, análisis y sondeos necesarias para verificar la calidad y cumplimiento de especificaciones contratadas en las obras públicas;
 
 X. Efectuar el seguimiento de observaciones e irregularidades derivadas de las auditorías, fiscalizaciones, verificaciones, revisiones e investigaciones, relativas a acciones, obras públicas y servicios relacionados con las mismas en dependencias y entidades, así como, en su caso, en Ayuntamientos hasta su solventación;
 
@@ -1120,3 +1142,9 @@ B.O. 20 DE SEPTIEMBRE DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 23 DE MAYO DE 2013.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+Artículo Segundo.- Las modificaciones a los manuales de Organización, de Procedimientos y, en su caso, de Servicios al Público de la Secretaría de la Contraloría General que deban efectuarse con motivo de la presente reforma al Reglamento Interior deberán expedirse dentro de los sesenta días posteriores a su publicación en el mencionado órgano oficial de difusión. El titular de esta Secretaría queda facultado para resolver las cuestiones que se presenten relacionadas con las materias de los referidos manuales administrativos en tanto éstos se expidan.
