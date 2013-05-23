@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-justicia-para-adolescentes-del-estado-51775"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-12"
-last_updated: "2012-08-30"
+last_updated: "2013-05-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51775&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 12 de septiembre de 2006.
 
@@ -1273,11 +1273,25 @@ c) Parricidio (artículo 350);
 
 d) Secuestro (artículos 391 y 391 bis);
 
-e) Robo (artículo 399 en relación con los artículos 405 y 406, fracciones I y II); y
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2013)</small>
 
-f).- Filicidio (artículo 352).
+e) Robo (artículo 399 en relación con los artículos 405 y 406, fracciones I y II);
 
-II.- Cuando se trate de los sujetos comprendidos en la fracción III, del artículo 4 de esta ley, la restricción de la libertad no podrá exceder los ocho años en caso de que fueran encontrados responsables de alguna de las conductas mencionadas en el inciso anterior, o de alguna de las siguientes:
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2013)</small>
+
+f) Filicidio (artículo 352);
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2013)</small>
+
+g) Atentados a la Seguridad de la Comunidad (171 Quater); y
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2013)</small>
+
+h) Las conductas tipificadas en el artículo 188 Bis del Código Penal para el Estado;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MAYO DE 2013)</small>
+
+II. Cuando se trate de los sujetos comprendidos en la fracción III, del artículo 4 de esta ley, la restricción de la libertad no podrá exceder los ocho años en caso de que fueran encontrados responsables de alguna de las conductas mencionadas en los incisos anteriores, o de alguna de las siguientes:
 
 a) Ataques a los medios de transporte (artículo 174);
 
@@ -1968,3 +1982,9 @@ El personal de nivel jerárquico de Jefe de Departamento y superiores, será dad
 ###### ARTÍCULO SEXTO.
 
 Se derogan todas aquellas disposiciones que se opongan el (sic) presente Decreto.
+
+P.O. 23 DE MAYO DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
