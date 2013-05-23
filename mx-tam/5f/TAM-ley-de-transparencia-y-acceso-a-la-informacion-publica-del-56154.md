@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-5615
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-05"
-last_updated: "2010-12-21"
+last_updated: "2013-05-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56154&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAM"
 ---
 # LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE TAMAULIPAS
 
-LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE TAMAULIPAS
+LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 5 de julio de 2007.
 
@@ -113,45 +113,55 @@ a) Constitución: la Constitución Política del Estado Libre y Soberano de Tama
 
 b) Coordinación General de Unidades: el área responsable de coordinar las unidades de información pública en el Poder Ejecutivo del Estado;
 
-c) Documentos: cualquier registro que de cuenta del ejercicio de las atribuciones de los entes públicos sujetos de esta ley y sus servidores públicos, independientemente de su fecha de elaboración o su fuente, tales como actas, acuerdos, circulares, convenios, directrices, estadísticas, estudios, expedientes, informes, instructivos, memoranda, notas, reportes, resoluciones o sentencias. Dichos documentos podrán constar en cualquier medio, sea escrito, impreso, electrónico, digital, holográfico, sonoro o visual;
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2013)</small>
 
-d) Estado: el Estado libre y soberano de Tamaulipas;
+c) Datos personales: Cualquier información numérica, alfabética, gráfica, fotográfica, acústica o de cualquier otro tipo que concierne a una persona física determinada y que sirve, entre otras cosas, para identificarla;
 
-e) Hábeas data: el derecho de toda persona para conocer, actualizar y enmendar cualquier archivo, registro, base o banco de datos personales donde se contenga información relativa a ella misma;
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2013)</small>
 
-f) Información confidencial: los datos relativos a la vida privada de las personas que se encuentran en posesión de los entes públicos, y sobre los cuales éstos no pueden realizar ninguna disposición sin la autorización expresa de su titular o de su representante legal; esta información comprende el nombre, domicilio, estado civil, género, nivel de escolaridad, número telefónico e información patrimonial;
+d) Documentos: cualquier registro que dé cuenta del ejercicio de las atribuciones de los entes públicos sujetos de esta ley y sus servidores públicos, independientemente de su fecha de elaboración o su fuente, tales como actas, acuerdos, circulares, convenios, directrices, estadísticas, estudios, expedientes, informes, instructivos, memoranda, notas, reportes, resoluciones o sentencias. Dichos documentos podrán constar en cualquier medio, sea escrito, impreso, electrónico, digital, holográfico, sonoro o visual;
 
-g) Información de acceso restringido: los datos en posesión de algún ente público cuya entrega a cualquier interesado se encuentra limitada en atención a las excepciones establecidas en la presente ley; esta información podrá ser reservada, confidencial o sensible;
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2013)</small>
 
-h) Información pública: el dato, archivo o registro contenido en un documento creado u obtenido por los entes públicos y que se encuentre en su posesión o bajo su control;
+e) Estado: el Estado Libre y Soberano de Tamaulipas;
 
-i) Información pública de oficio: los datos que los entes públicos están obligados a difundir de manera obligatoria y permanente en la red de información mundial denominada Internet, misma que deberán actualizar periódicamente;
+f) Hábeas data: el derecho de toda persona para conocer, actualizar y enmendar cualquier archivo, registro, base o banco de datos personales donde se contenga información relativa a ella misma;
 
-j) Información reservada: los documentos que por acuerdo del titular del ente público correspondiente merecen esa clasificación en los términos y bajo las condiciones establecidas en la presente ley;
+g) Información confidencial: los datos relativos a la vida privada de las personas que se encuentran en posesión de los entes públicos, y sobre los cuales éstos no pueden realizar ninguna disposición sin la autorización expresa de su titular o de su representante legal; esta información comprende el nombre, domicilio, estado civil, género, nivel de escolaridad, número telefónico e información patrimonial;
 
-k) Información sensible: los datos de una persona física en posesión de los entes públicos, sobre sus (sic) origen étnico o racial; opiniones políticas o convicciones ideológicas; creencias religiosas y preceptos morales; afiliación política o gremial; preferencias sexuales; estado de salud físico o mental; relaciones conyugales, familiares u otras análogas que afecten la intimidad; con relación a los datos sensibles no procede la libertad de información, salvo la autorización personalísima del titular;
+h) Información de acceso restringido: los datos en posesión de algún ente público cuya entrega a cualquier interesado se encuentra limitada en atención a las excepciones establecidas en la presente ley; esta información podrá ser reservada, confidencial o sensible;
 
-l) Instituto: el Instituto de Transparencia y Acceso a la Información de Tamaulipas;
+i) Información pública: el dato, archivo o registro contenido en un documento creado u obtenido por los entes públicos y que se encuentre en su posesión o bajo su control;
 
-m) Ley: la Ley de Transparencia y Acceso a la Información Pública del Estado;
+j) Información pública de oficio: los datos que los entes públicos están obligados a difundir de manera obligatoria y permanente en la red de información mundial denominada Internet, misma que deberán actualizar periódicamente;
 
-n) Ley de Responsabilidades: la Ley de Responsabilidades de los Servidores Públicos del Estado;
+k) Información reservada: los documentos que por acuerdo del titular del ente público correspondiente merecen esa clasificación en los términos y bajo las condiciones establecidas en la presente ley;
 
-o) Modalidad: el formato en el cual el solicitante prefiera se otorgue la información, la cual podrá ser por escrito, mediante copias simples o certificadas, correo electrónico, fotografías, cintas de video, dispositivos de archivo electrónicos o magnéticos, registros digitales, sonoros, visuales, holográficos y, en general, todos aquellos medios o soportes derivados de los avances de la ciencia y la tecnología en que obre la información;
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2013)</small>
 
-p) Persona: todo ser humano o entidad jurídica creada en términos de ley, que se encuentre en pleno ejercicio de sus derechos;
+l) Información sensible: los datos de una persona física en posesión de los entes públicos, sobre su origen étnico o racial; opiniones políticas o convicciones ideológicas; creencias religiosas y preceptos morales; afiliación política o gremial; preferencias sexuales; estado de salud físico o mental; relaciones conyugales, familiares u otras análogas que afecten la intimidad; con relación a los datos sensibles no procede la libertad de información, salvo la autorización personalísima del titular;
 
-q) Protección de datos confidenciales y sensibles: la garantía de la tutela de la privacidad de los datos personales que obren en poder de los entes públicos;
+m) Instituto: el Instituto de Transparencia y Acceso a la Información de Tamaulipas;
 
-r) Sujetos obligados: los entes públicos a que se refiere el artículo 5 de esta ley;
+n) Ley: la Ley de Transparencia y Acceso a la Información Pública del Estado;
 
-s) Servidor público: la persona a la cual la Constitución o las leyes estatales le otorguen tal carácter y, en general, todo individuo que administre, maneje o aplique recursos públicos estatales o municipales, o que realice cualquier actividad en nombre o al servicio de un ente público, sin importar cual sea su nivel jerárquico;
+o) Ley de Responsabilidades: la Ley de Responsabilidades de los Servidores Públicos del Estado;
 
-t) Unidad de Información Pública: la unidad administrativa al interior del ente público a cargo de atender las solicitudes de información pública que se formulen, de acuerdo con su particular organización administrativa;
+p) Modalidad: el formato en el cual el solicitante prefiera se otorgue la información, la cual podrá ser por escrito, mediante copias simples o certificadas, correo electrónico, fotografías, cintas de video, dispositivos de archivo electrónicos o magnéticos, registros digitales, sonoros, visuales, holográficos y, en general, todos aquellos medios o soportes derivados de los avances de la ciencia y la tecnología en que obre la información;
 
-u) Seguridad del Estado: la protección de los elementos esenciales del Estado, como población, territorio, gobierno, orden jurídico, la soberanía estatal, la autonomía municipal y la seguridad interior; y
+q) Persona: todo ser humano o entidad jurídica creada en términos de ley, que se encuentre en pleno ejercicio de sus derechos;
 
-v) Versión pública: el documento que contiene la información pública, sin que aparezca la información clasificada como de acceso restringido y, en particular, reservada.
+r) Protección de datos confidenciales y sensibles: la garantía de la tutela de la privacidad de los datos personales que obren en poder de los entes públicos;
+
+s) Sujetos obligados: los entes públicos a que se refiere el artículo 5 de esta ley;
+
+t) Servidor público: la persona a la cual la Constitución o las leyes estatales le otorguen tal carácter y, en general, todo individuo que administre, maneje o aplique recursos públicos estatales o municipales, o que realice cualquier actividad en nombre o al servicio de un ente público, sin importar cual sea su nivel jerárquico;
+
+u) Unidad de Información Pública: la unidad administrativa al interior del ente público a cargo de atender las solicitudes de información pública que se formulen, de acuerdo con su particular organización administrativa;
+
+v) Seguridad del Estado: la protección de los elementos esenciales del Estado, como población, territorio, gobierno, orden jurídico, la soberanía estatal, la autonomía municipal y la seguridad interior; y
+
+w) Versión pública: el documento que contiene la información pública, sin que aparezca la información clasificada como de acceso restringido y, en particular, reservada.
 
 ### CAPÍTULO TERCERO. DE LOS PRINCIPIOS
 
@@ -165,7 +175,9 @@ v) Versión pública: el documento que contiene la información pública, sin qu
 
 1. Toda persona tiene derecho a asistir y presenciar las reuniones públicas de los entes públicos, salvo disposición expresa de la ley.
 
-2. Las actas o las minutas de las reuniones señaladas en el párrafo anterior serán públicas.
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2013)</small>
+
+2. Las actas o las minutas de las reuniones señaladas en el párrafo anterior serán públicas, y se divulgarán de oficio en la página de internet del ente público.
 
 3. Quien ejerza el derecho previsto en el párrafo 1 de este artículo está obligado a guardar una actitud de respeto al ente público y los procedimientos que normen su trabajo, absteniéndose de realizar expresiones o acciones que obstaculicen, alteren o interrumpan su funcionamiento.
 
@@ -217,7 +229,9 @@ En la interpretación de esta ley se favorecerá el principio de la publicidad d
 
 ###### ARTÍCULO 16.
 
-1. Es obligación de los sujetos de esta ley poner a disposición del público, difundir y actualizar de oficio la siguiente información:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MAYO DE 2013)</small>
+
+1. En atención al principio de máxima publicidad, es obligación de los sujetos por esta ley poner a disposición del público y actualizar de oficio toda información con que cuenten en virtud de sus actividades, salvo la prevista como de acceso restringido en esta ley; en todo caso deberán difundir y publicar en internet, siendo enunciativa más no limitativa, aquella información a que los obliguen otras leyes, así como la siguiente:
 
 a) En el Poder Legislativo:
 
@@ -420,6 +434,10 @@ XIII. Informe anual de actividades.
 2. La información a que se refieren los incisos del párrafo anterior se presentará con relación al año fiscal en ejercicio y, en su caso, por trimestre vencido para efectos del sistema de rendición de cuentas.
 
 3. Los municipios del Estado con una población de más de 70,000 habitantes desplegarán la información pública de oficio que les corresponde a través de la red de información mundial denominada Internet. En todo caso, los municipios con menor número de habitantes deberán contar con la información pública de oficio en forma impresa y a disposición de quien la solicite.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2013)</small>
+
+4. El Instituto de Transparencia y Acceso a la Información de Tamaulipas revisará periódicamente los portales de internet de los sujetos obligados con el objeto de supervisar que la información esté completa y actualizada, debiendo en su caso requerirle a la Unidad de Información Pública que subsane cualquier omisión o deficiencia en su publicación, apercibiéndole que de no hacerlo dentro del plazo de treinta días naturales, se dará vista al superior jerárquico, así como al órgano de control interno correspondiente para que inicie el procedimiento de responsabilidad administrativa. Para cumplir con esta facultad, el Instituto emitirá la regulación correspondiente para efectuar la revisión de los portales de Internet. El resultado de la revisión que, en ejercicio de esta facultad, realice el Instituto será considerado para éste como información pública de oficio.
 
 ###### ARTÍCULO 17.
 
@@ -679,7 +697,9 @@ El periodo de conservación de datos confidenciales y sensibles no excederá del
 
 ###### ARTÍCULO 36.
 
-1. Toda persona que acredite su identidad, sin mayor formalidad que hacerlo por escrito e indicar su domicilio, tiene derecho a que los entes públicos le informen si procesan datos que en lo individual le conciernan. El ejercicio de este derecho es gratuito.
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2013)</small>
+
+1. Toda persona que acredite su identidad, sin mayor formalidad que hacerlo por escrito e indicar su domicilio, podrá en cualquier momento ejercer, ante los sujetos obligados por esta ley, sus derechos de acceso, rectificación, cancelación u oposición respecto de los datos personales que le conciernen, ya sean confidenciales o sensibles. El ejercicio de este derecho es gratuito.
 
 2. A su vez, en los términos señalados en el párrafo anterior, toda persona podrá solicitar a los entes públicos:
 
@@ -709,39 +729,61 @@ c) El conocimiento de los destinatarios de la información, cuando la misma hubi
 
 ###### ARTÍCULO 38.
 
-1. Para la rectificación de datos confidenciales y sensibles en poder de los entes públicos, la persona a quien correspondan deberá formular solicitud por escrito, misma que contendrá lo siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MAYO DE 2013)</small>
+
+1. Para el acceso, rectificación, cancelación u oposición de datos confidenciales y sensibles en poder de los entes públicos, la persona a quien correspondan deberá formular solicitud por escrito, misma que contendrá lo siguiente:
 
 a) Ente público al que se dirige;
 
-b) Datos generales del solicitante;
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2013)</small>
 
-c) Mención de los datos correctos y, en su caso, de la información que deba corregirse o suprimirse por no ser cierta;
+b) Datos generales del solicitante y, en su caso, de su representante legal;
 
-d) Lugar y domicilio señalado para recibir notificaciones en el lugar sede del ente público, así como la información materia de rectificación, y
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2013)</small>
+
+c) La descripción clara y precisa de los datos personales, confidenciales o sensibles, respecto de los que busca ejercer alguno de los derechos mencionados en este capítulo;
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2013)</small>
+
+d) Lugar y domicilio señalado para recibir notificaciones en el lugar sede del ente público, relacionadas con la acción de hábeas data;
 
 e) Dirección electrónica, cuando establezca ese medio para recibir notificaciones y la información materia de rectificación.
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2013)</small>
 
-2. El servidor público responsable de la información materia de rectificación tendrá hasta quince días naturales para responder al solicitante. Cuando la complejidad o volumen de la información lo ameriten, se hará la comunicación al solicitante en el domicilio que hubiere señalado, fundándose y motivándose la ampliación del plazo hasta treinta días hábiles; esta comunicación deberá hacerse del conocimiento del solicitante durante los primeros cinco días naturales a partir de la presentación de su escrito de rectificación. Si se ha omitido el domicilio, la comunicación se hará por estrados.
+f) En su caso, cualquier otro elemento o documento que facilite el ejercicio de los derechos mencionados en este capítulo; y
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2013)</small>
+
+g) Opcionalmente, la modalidad en la que prefiere se otorgue el acceso a sus datos personales.
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2013)</small>
+
+2. El servidor público responsable de la información confidencial o sensible del solicitante, tendrá hasta veinte días hábiles para responder al solicitante. Cuando la complejidad o volumen de la información lo ameriten, se hará la comunicación al solicitante en el domicilio que hubiere señalado, fundándose y motivándose la ampliación del plazo hasta diez días hábiles más. Si se ha omitido el domicilio, la comunicación se hará por estrados o vía correo electrónico, según sea el caso.
 
 > <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2009)</small>
 
 3. Si el escrito de habeas data no contiene los datos señalados en el párrafo 1, el ente público deberá prevenir al solicitante por escrito en un plazo no mayor de cinco días hábiles contados a partir de su recepción, con el objeto de que complete o aclare los datos necesarios, apercibiéndosele de que si no atiende la prevención dentro de los cinco días hábiles posteriores, la solicitud se tendrá por no presentada. La prevención deberá notificarse al solicitante por correo electrónico o en el domicilio que al efecto haya señalado, en su caso. Si se ha omitido el domicilio, la notificación se hará por estrados. Entre tanto no se subsane la omisión, no correrá término a la Unidad de Información Pública para que resuelva dicha petición.
 
-4. La rectificación prevista en el párrafo 1 de este artículo será gratuita para el solicitante.
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2013)</small>
 
-> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+4. Los derechos previstos en este capítulo serán gratuitos para el solicitante.
 
-5. Cuando con motivo del trámite de la rectificación de datos, derive algún costo por reproducción, copiado o envío del documento corregido, su entrega se hará previo pago de derechos conforme a las disposiciones fiscales aplicables. La Unidad de Información Pública hará la comunicación al peticionario para que realice el pago, quien deberá hacerlo en un plazo no mayor de cinco días hábiles. En caso de no realizar el pago en el plazo referido se tendrá por no presentada la solicitud.
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2013)</small>
+
+5. Cuando con motivo del trámite de alguno de los derechos previstos en este capítulo, derive algún costo por reproducción, copiado o envío del documento corregido, su entrega se hará previo pago de derechos conforme a las disposiciones fiscales aplicables. La Unidad de Información Pública hará la comunicación al peticionario para que realice el pago, quien deberá hacerlo en un plazo no mayor de cinco días hábiles. En caso de no realizar el pago en el plazo referido se tendrá por no presentada la solicitud.
 
 > <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2009)</small>
 
 6. Una vez entregada la información, el solicitante acusará recibo por escrito o en el sistema electrónico, dejando la Unidad de Información Pública constancia en el expediente respectivo, dándose por terminado el trámite respectivo.
 
-> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2013)</small>
 
-7. La resolución de negativa o corrección parcial de datos personales deberá fundarse y motivarse. Asimismo, se hará saber al accionante el derecho que tiene a impugnarla mediante el recurso de revisión ante el Instituto de Transparencia y Acceso a la Información de Tamaulipas.
+7. En caso de que, parcial o totalmente, no proceda la acción de hábeas data, la resolución que al respecto se emita deberá ser notificada al solicitante, misma que deberá estar debidamente fundada y motivada. Asimismo, se hará saber al accionante el derecho que tiene a impugnarla mediante el recurso de revisión ante el Instituto de Transparencia y Acceso a la Información de Tamaulipas.
+
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2013)</small>
+
+8. En caso de que la acción de hábeas data no se resuelva dentro de los términos señalados o la resolución resulte desfavorable a los intereses del promovente, éste podrá ocurrir ante el Instituto a interponer el Recurso de Revisión establecido en esta ley.
 
 ###### ARTÍCULO 39.
 
@@ -859,7 +901,9 @@ En este supuesto, se generará la versión pública correspondiente.
 
 1. Si por negligencia no se da respuesta en tiempo y forma a la solicitud de información pública presentada en los términos de esta ley, se entenderá que la respuesta es en sentido afirmativo en todo lo que favorezca al solicitante, excepto en el caso de información de acceso restringido, que se entenderá en sentido negativo.
 
-2. La afirmativa ficta prevista en el párrafo anterior opera de pleno derecho y no requiere declaración de autoridad para surtir efectos.
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2013)</small>
+
+2. Cuando se omita dar respuesta a la solicitud de información, el recurrente podrá promover el Recurso de Revisión ante el Instituto, quien en caso de determinar que la misma obra en poder del sujeto obligado, así como la publicidad de la información solicitada, ordenará su entrega sin costo alguno para el recurrente.
 
 ###### ARTÍCULO 51.
 
@@ -913,7 +957,9 @@ f) Promover en el ámbito interno del ente público al que pertenezca, la actual
 
 g) Llevar un registro de las solicitudes de información pública y de las acciones de hábeas data, distinguiéndose el resultado de la solicitud, los costos de su atención y el tiempo de respuesta empleado;
 
-h) Promover la capacitación y actualización de los servidores públicos en materia de información pública y de acciones de hábeas data;
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2013)</small>
+
+h) Presentar un informe trimestral ante el Instituto, el cual deberá contener el total de solicitudes de información y de acciones de hábeas data presentadas ante dicha Unidad, la información o trámite objeto de las mismas, así como las respuestas entregadas, los costos de su atención y el tiempo de respuesta empleado;
 
 i) Elaborar los formatos de solicitud de información pública, así como de acceso y corrección de datos confidenciales o sensibles;
 
@@ -1009,6 +1055,10 @@ l) Llevar a cabo el desempeño de las funciones que en el ámbito de su competen
 
 7. Los tres comisionados integrarán el Pleno del Instituto, el cual sesionará cuando así lo prevenga esta ley y sea convocado por su Presidente.
 
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2013)</small>
+
+8. Las relaciones laborales que se creen entre el Instituto y su personal se regirán por la Ley del Trabajo de los Servidores Públicos del Estado de Tamaulipas; el personal que preste sus servicios al Instituto, serán trabajadores de confianza debido a la naturaleza de las funciones que éste desempeña.
+
 ###### ARTÍCULO 64.
 
 1. Los comisionados del Instituto funcionarán como órgano colegiado, sus decisiones se tomarán por unanimidad o mayoría de votos.
@@ -1053,7 +1103,9 @@ f) No ser ministro de culto religioso alguno.
 
 a) Interpretar en el orden administrativo esta ley;
 
-b) Vigilar en el ámbito de su competencia la observancia de la presente ley;
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2013)</small>
+
+b) Vigilar en el ámbito de su competencia la observancia de la presente ley, así como revisar que los sujetos obligados tengan completa y actualizada la información que deben publicar en sus portales de internet;
 
 c) Proporcionar a los particulares asesoría y orientación necesaria sobre la formulación de las solicitudes de acceso a la información y ejercicio del derecho de hábeas data para proteger datos personales;
 
@@ -1061,7 +1113,9 @@ d) Promover la capacitación y actualización de los servidores públicos en mat
 
 e) Sustanciar y resolver en forma definitiva y firme, es el ámbito estatal, los medios de impugnación que se interpongan contra los actos y resoluciones de los sujetos obligados en relación con las solicitudes de información pública y el ejercicio de la acción de hábeas data;
 
-f) Expedir su Reglamento Interior, que incluirá lo relativo a las sesiones del Pleno;
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2013)</small>
+
+f) Expedir su Reglamento Interior, que incluirá lo relativo a las sesiones del Pleno, así como emitir el Reglamento para regular el procedimiento de substanciación del Recurso de Revisión. El reglamento que emita el Instituto respetará los derechos constitucionales de audiencia y seguridad jurídica y contendrá disposiciones que contemplen las formalidades esenciales del procedimiento, a fin de garantizar a las personas la certidumbre jurídica en el ejercicio de los derechos de acceso a la información y de hábeas data;
 
 g) Elaborar y publicar estudios e investigaciones sobre la transparencia y el derecho a la información pública.
 
@@ -1069,27 +1123,35 @@ g) Elaborar y publicar estudios e investigaciones sobre la transparencia y el de
 
 h) Efectuar acciones y desarrollar directrices relativas a la investigación, capacitación y difusión de la transparencia y el acceso a la información pública en la entidad;
 
-i) Emitir comunicados públicos sobre el incumplimiento de las resoluciones o infracciones reiteradas a este ordenamiento por parte de los sujetos obligados;
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2013)</small>
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+i) Apercibir a los sujetos obligados cuando así proceda, para que en los términos que establece esta ley, den cumplimiento a las determinaciones y resoluciones del Instituto;
 
-j) Proponer a los sujetos obligados, los formatos de solicitudes de información pública y ejercicio de la acción de hábeas data para la protección de datos personales;
+> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2013)</small>
 
-k) Celebrar convenios interinstitucionales para su mejor desempeño;
+j) Dar vista al superior jerárquico y al órgano de control interno del incumplimiento de los titulares de las Unidades de Información Pública de los sujetos obligados con relación a las determinaciones o resoluciones que haya emitido el Instituto y que, al no haberse cumplimentado en los términos que establece esta ley, constituya una responsabilidad administrativa;
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+k) Emitir comunicados públicos sobre el incumplimiento de las resoluciones o infracciones reiteradas a este ordenamiento por parte de los sujetos obligados;
 
-l) Aprobar su presupuesto, rindiendo la cuenta pública en términos de las disposiciones en la materia;
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2013)</small>
 
-m) Designar y remover a los servidores públicos que establezca la ley;
+l) Proponer a los sujetos obligados, los formatos de solicitudes de información pública y ejercicio de la acción de hábeas data para la protección de datos personales; así como emitir lineamientos administrativos para la atención del derecho de acceso a la información y para el ejercicio de la acción de hábeas data, cuyo carácter será obligatorio para los sujetos obligados por esta ley;
 
-n) Difundir entre los sujetos obligados y la sociedad en general, los beneficios del manejo público de la información, así como las responsabilidades de su buen uso y su conservación;
+m) Celebrar convenios interinstitucionales para su mejor desempeño;
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2013)</small>
 
-o) Resolver la procedencia de la imposición de las sanciones previstas en esta ley;
+n) Aprobar su presupuesto, rindiendo la cuenta pública en término (sic) de las disposiciones en la materia;
 
-p) Las demás que le otorguen la Constitución y las leyes del Estado.
+ñ) Designar y remover a los servidores públicos que establezca la ley;
+
+o) Difundir entre los sujetos obligados y la sociedad en general, los beneficios del manejo público de la información, así como las responsabilidades de su buen uso y su conservación;
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2013)</small>
+
+p) Resolver la procedencia de la imposición de las sanciones previstas en esta ley; y
+
+q) Las demás que le otorguen la Constitución y las leyes del Estado.
 
 2. Al resolver los asuntos de su competencia, el Instituto se sujetará invariablemente al principio de legalidad.
 
@@ -1221,9 +1283,9 @@ i) Según sea el caso, la firma del promovente o su huella digital y firma de la
 
 ###### ARTÍCULO 75.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MAYO DE 2013)</small>
 
-Una vez recibido el recurso de revisión por el Instituto, dentro del término de cinco días hábiles solicitará a la Unidad responsable el respectivo informe circunstanciado, el cual deberá contener:
+Una vez admitido el recurso de revisión, el Instituto, en el mismo auto de admisión, pedirá a la Unidad de Información del sujeto obligado el respectivo informe circunstanciado, el cual deberá ser rendido dentro de los cinco días hábiles siguientes a aquel en que sea notificado del acuerdo que admitió el recurso. El informe circunstanciado deberá contener:
 
 a) los motivos y fundamentos jurídicos que se consideren pertinentes para sostener la legalidad del acto o resolución impugnado; y
 
@@ -1231,9 +1293,9 @@ b) los documentos en que se apoya.
 
 ###### ARTÍCULO 76.
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2013)</small>
 
-1. Una vez integrado el recurso de revisión con el informe circunstanciado respectivo, el Instituto resolverá lo que en derecho proceda dentro de los 30 días hábiles siguientes a partir de su recepción. Al resolver, el Instituto suplirá las deficiencias u omisiones del recurso, cuando del mismo se puedan deducir con claridad de los hechos expuestos y los agravios que lo motiven.
+1. Una vez integrado el Recurso de Revisión con el informe circunstanciado respectivo o luego de que venza el plazo para que el sujeto obligado lo presente, el Instituto resolverá lo que en derecho proceda dentro de los treinta días hábiles siguientes, los cuales podrán prorrogarse por diez días hábiles más, cuando las circunstancias del caso lo justifiquen. Al resolver, el instituto suplirá las deficiencias u omisiones del recurso, cuando del mismo se puedan deducir con claridad de los hechos expuestos y los agravios que lo motiven.
 
 2. El Instituto podrá confirmar, modificar o revocar la resolución emitida con motivo del recurso de revisión.
 
@@ -1249,7 +1311,7 @@ a) Se presente extemporáneamente;
 
 b) El asunto haya sido conocido anteriormente por el Instituto y éste lo hubiere resuelto en definitiva;
 
-c) Se recurra una resolución que no proceda de una autoridad competente para conocer y resolver el recurso de inconformidad; o
+c) (DEROGADO, P.O. 23 DE MAYO DE 2013)
 
 d) Se tramite algún medio de defensa sobre el asunto ante los tribunales del Poder Judicial de la Federación.
 
@@ -1267,17 +1329,19 @@ d) El ente público responsable de la resolución impugnada la modifique o revoq
 
 Toda persona podrá acudir ante los órganos jurisdiccionales competentes para reclamar lo que a su derecho convenga en materia de respeto a la libertad de información pública y de la protección de datos confidenciales o sensibles.
 
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2013)</small>
+
 ###### ARTÍCULO 79.
 
-> <small>(F. DE E., P.O. 1 DE AGOSTO DE 2007)</small>
+En términos de la resolución que emita el Instituto, las Unidades de Información Pública deberán proceder a su cumplimiento dentro de los tres días hábiles siguientes a la fecha en que les notifique la resolución, debiendo rendir en igual plazo al Instituto el informe del cumplimiento respectivo.
 
-En términos de la resolución que emita el Instituto, las Unidades de Información Pública deberán entregar la información solicitada dentro de los tres días siguientes a la fecha en que les notifique la resolución, debiendo rendir en igual plazo al Instituto el Informe del cumplimiento respectivo.
-
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2013)</small>
 
 ###### ARTÍCULO 80.
 
-Si la Unidad persiste en su negativa o incumple parcialmente la resolución, el peticionario lo hará del conocimiento del Instituto, quien notificará al órgano de control interno y al superior jerárquico de la Unidad de Información Pública responsable para que impongan las sanciones a que hace referencia esta ley.
+1. Si la Unidad incumple la resolución, el Instituto a solicitud del peticionario o de oficio, requerirá al titular de la misma para que cumplimente la resolución de forma plena, apercibiéndolo de que de no hacerlo dentro del término de diez días hábiles, dará vista al órgano de control interno y al superior jerárquico respectivos, a fin de que se inicie el procedimiento administrativo para imponer la sanción que proceda conforme a la ley.
+
+2. Para el caso específico de que el órgano de control interno ó el ayuntamiento del municipio correspondiente omitan o se nieguen injustificadamente a dar trámite al procedimiento administrativo, el Instituto estará legitimado para acudir al Congreso local en términos de lo dispuesto en el artículo 140 de la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado.
 
 ### CAPÍTULO CUARTO. DEL HORARIO Y DÍAS LABORALES
 
@@ -1367,15 +1431,21 @@ o) En general, incumplir con alguna de las disposiciones establecidas en esta le
 
 ###### ARTÍCULO 90.
 
-1. Los órganos de control interno y quien funja como superior jerárquico de los entes públicos están facultados para determinar e imponer sanciones a los servidores públicos que incurran en alguna responsabilidad prevista en el artículo anterior.
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2013)</small>
+
+1. Los órganos de control interno y quien funja como superior jerárquico de los entes públicos están facultados para determinar e imponer sanciones a los servidores públicos que incurran en alguna responsabilidad prevista en el artículo anterior. Así también, cuando el Instituto les de vista del incumplimiento con relación a sus determinaciones o resoluciones por parte de los titulares de las Unidades de Información Pública, deberán dar trámite inmediatamente al procedimiento administrativo correspondiente.
 
 2. Para la determinación de la responsabilidad administrativa, se seguirá el procedimiento previsto en la Ley de Responsabilidades, salvo que los ordenamientos que rijan la organización y funcionamiento del ente público considere un procedimiento específico para controlar y disciplinar infracciones de carácter administrativo.
 
 3. Si se acredita la responsabilidad, podrán imponerse las sanciones siguientes:
 
-a) Apercibimiento privado;
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2013)</small>
 
-b) Apercibimiento público;
+a) Amonestación privada;
+
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2013)</small>
+
+b) Amonestación pública;
 
 c) Multa hasta por el equivalente a doscientos días de salario mínimo vigente en la capital del Estado, al día en que se deba hacer efectiva la sanción;
 
@@ -1454,3 +1524,13 @@ P.O. 21 DE DICIEMBRE DE 2010.
 ###### ARTICULO UNICO.
 
 El presente Punto de Acuerdo entrará en vigor el siguiente día al de de (sic) su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE MAYO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Instituto de Transparencia y Acceso a la Información de Tamaulipas, dispondrá de un término no mayor de 90 días contados a partir de la entrada en vigor del presente decreto para elaborar los reglamentos y lineamientos administrativos relacionados con el mismo.
