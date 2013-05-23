@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-instituto-nacional-de-estadistica-y-678
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-03-31"
-last_updated: "2012-08-03"
+last_updated: "2013-05-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67802&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-03-25"
 
 REGLAMENTO INTERIOR DEL INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE MAYO DE 2013.
 
 Reglamento publicado en la Cuarta Sección del Diario Oficial de la Federación, el martes 31 de marzo de 2009.
 
@@ -1817,7 +1817,7 @@ VI. Coordinar el análisis estadístico de series de tiempo económicas, así co
 
 VII. Dirigir la elaboración de notas de prensa sobre los indicadores económicos de coyuntura, en coordinación con la Dirección General de Vinculación y Servicio Público de Información;
 
-VIII. Integrar, en coordinación con las Unidades Administrativas del Instituto, la información estadística de instituciones del sector público, para la atención de requerimientos de organismos internacionales;
+VIII. (DEROGADA, D.O.F. 23 DE MAYO DE 2013)
 
 IX. Coordinar las actividades necesarias para cumplir los compromisos de entrega de información generada por el Instituto para su incorporación a los Informes de Ejecución y de Gobierno de la Presidencia de la República;
 
@@ -2282,6 +2282,10 @@ IX. Supervisar y dar seguimiento a las acciones internacionales tendientes a la 
 X. Coordinar y dar seguimiento al programa anual de viajes al extranjero de las diversas Unidades Administrativas del Instituto para cumplir con sus programas de trabajo;
 
 XI. Coordinar y dar seguimiento a la atención de solicitudes de información estadística y geográfica derivada de los compromisos internacionales del Instituto;
+
+> <small>(ADICIONADA, D.O.F. 23 DE MAYO DE 2013)</small>
+
+XI Bis. Tomar conocimiento y llevar un registro de la atención que en términos de las disposiciones aplicables se dé a las solicitudes de Información de Interés Nacional, que formulen gobiernos extranjeros u organismos y agencias internacionales, a las dependencias y entidades de la Administración Pública Federal, al Poder Judicial de la Federación, al Poder Legislativo Federal, a organismos constitucionales autónomos, a los poderes Ejecutivo, Legislativo y Judicial de las entidades federativas, a organizaciones o agrupaciones de los sectores social o privado o a particulares;
 
 XII. Coordinar la organización y logística de eventos internacionales en los que participe el Instituto, que tengan por objeto dar seguimiento a actividades y compromisos a cargo del mismo, incluidos aquéllos que se lleven a cabo en las instalaciones del INEGI;
 
@@ -3190,3 +3194,7 @@ PRIMERO.- Las reformas al Reglamento Interior del Instituto Nacional de Estadís
 SEGUNDO.- A la entrada en vigor del presente Acuerdo, los asuntos en trámite se continuarán substanciando por las Unidades Administrativas a que hace referencia este Reglamento y de conformidad con las atribuciones conferidas.
 
 TERCERO.- A la entrada en vigor del presente Acuerdo, las referencias hechas por las disposiciones normativas, acuerdos u ordenamientos a la Dirección General Adjunta de Planeación, se entenderán hechas a la Dirección General Adjunta de Planeación e Infraestructura.
+
+D.O.F. 23 DE MAYO DE 2013.
+
+ÚNICO.- La reforma al Reglamento Interior del Instituto Nacional de Estadística y Geografía aprobada por el presente Acuerdo, entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
