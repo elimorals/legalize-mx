@@ -4,7 +4,7 @@ identifier: "LGEEPA"
 country: "mx"
 rank: "ley_general"
 publication_date: "1988-01-28"
-last_updated: "2013-05-21"
+last_updated: "2013-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=225&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGEEPA"
 
 LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE MAYO DE 2013.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 28 de enero de 1988.
 
@@ -1018,7 +1018,9 @@ Asimismo, la Secretaría, a solicitud del promovente, integrará a la autorizaci
 
 Para garantizar la sustentabilidad de las actividades económicas, la Secretaría emitirá normas oficiales mexicanas en materia ambiental y para el aprovechamiento sustentable de los recursos naturales, que tengan por objeto:
 
-I. Establecer los requisitos, especificaciones, condiciones, procedimientos, metas, parámetros y límites permisibles que deberán observarse en regiones, zonas, cuencas o ecosistemas, en aprovechamiento de recursos naturales, en el desarrollo de actividades económicas, en el uso y destino de bienes, en insumos y en procesos;
+> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 2013)</small>
+
+I. Establecer los requisitos, especificaciones, condiciones, procedimientos, metas, parámetros y límites permisibles que deberán observarse en regiones, zonas, cuencas o ecosistemas, en aprovechamiento de recursos naturales, en el desarrollo de actividades económicas, en la producción, uso y destino de bienes, en insumos y en procesos;
 
 II. Considerar las condiciones necesarias para el bienestar de la población y la preservación o restauración de los recursos naturales y la protección al ambiente;
 
@@ -1044,9 +1046,13 @@ Una vez recibida la propuesta, la Secretaría en un plazo que no excederá de tr
 
 Cuando la resolución sea favorable, deberá publicarse en un órgano de difusión oficial y surtirá efectos en beneficio de quien lo solicite, respetando, en su caso, los derechos adquiridos en materia de propiedad industrial.
 
+> <small>(ADICIONADO, D.O.F. 24 DE MAYO DE 2013)</small>
+
+ARTICULO 37 BIS.- La Secretaría en coordinación con la Secretaría de Economía promoverá la identificación de los productos, bienes, insumos y servicios con menor impacto ambiental basándose en parámetros y criterios ambientales a lo largo de su ciclo de vida mediante un distintivo o certificado cuyo uso será voluntario. Dichos parámetros y criterios ambientales se determinarán mediante las normas oficiales mexicanas que correspondan.
+
 > <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
-ARTICULO 37 BIS.- Las normas oficiales mexicanas en materia ambiental son de cumplimiento obligatorio en el territorio nacional y señalarán su ámbito de validez, vigencia y gradualidad en su aplicación.
+ARTICULO 37 TER.- Las normas oficiales mexicanas en materia ambiental son de cumplimiento obligatorio en el territorio nacional y señalarán su ámbito de validez, vigencia y gradualidad en su aplicación.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -1152,11 +1158,13 @@ El Gobierno Federal, las entidades federativas y los municipios con arreglo a lo
 
 #### SECCION I. Disposiciones Generales
 
-> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE MAYO DE 2013)</small>
 
 ###### ARTICULO 44.
 
-Las zonas del territorio nacional y aquéllas sobre las que la Nación ejerce soberanía y jurisdicción, en las que los ambientes originales no han sido significativamente alterados por la actividad del ser humano, o que requieren ser preservadas y restauradas, quedarán sujetas al régimen previsto en esta Ley y los demás ordenamientos aplicables.
+Las zonas del territorio nacional y aquellas sobre las que la Nación ejerce soberanía y jurisdicción, en las que los ambientes originales no han sido significativamente alterados por la actividad del ser humano, o que sus ecosistemas y funciones integrales requieren ser preservadas y restauradas, quedarán sujetas al régimen previsto en esta Ley y los demás ordenamientos aplicables.
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
 Los propietarios, poseedores o titulares de otros derechos sobre tierras, aguas y bosques comprendidos dentro de áreas naturales protegidas deberán sujetarse a las modalidades que de conformidad con la presente Ley, establezcan los decretos por los que se constituyan dichas áreas, así como a las demás previsiones contenidas en el programa de manejo y en los programas de ordenamiento ecológico que correspondan.
 
@@ -1166,15 +1174,17 @@ Los propietarios, poseedores o titulares de otros derechos sobre tierras, aguas 
 
 El establecimiento de áreas naturales protegidas, tiene por objeto:
 
-I. Preservar los ambientes naturales representativos de las diferentes regiones biogeográficas y ecológicas y de los ecosistemas más frágiles, para asegurar el equilibrio y la continuidad de los procesos evolutivos y ecológicos;
+> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 2013)</small>
+
+I. Preservar los ambientes naturales representativos de las diferentes regiones biogeográficas y ecológicas y de los ecosistemas más frágiles, así como sus funciones, para asegurar el equilibrio y la continuidad de los procesos evolutivos y ecológicos;
 
 > <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
 II. Salvaguardar la diversidad genética de las especies silvestres de las que depende la continuidad evolutiva; así como asegurar la preservación y el aprovechamiento sustentable de la biodiversidad del territorio nacional, en particular preservar las especies que están en peligro de extinción, las amenazadas, las endémicas, las raras y las que se encuentran sujetas a protección especial;
 
-> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 2013)</small>
 
-III. Asegurar el aprovechamiento sustentable de los ecosistemas y sus elementos;
+III. Asegurar la preservación y el aprovechamiento sustentable de los ecosistemas, sus elementos, y sus funciones;
 
 IV. Proporcionar un campo propicio para la investigación científica y el estudio de los ecosistemas y su equilibrio;
 
@@ -1244,6 +1254,10 @@ Asimismo, corresponde a los municipios establecer las zonas de conservación eco
 
 En las áreas naturales protegidas no podrá autorizarse la fundación de nuevos centros de población.
 
+> <small>(ADICIONADO, D.O.F. 24 DE MAYO DE 2013)</small>
+
+En las áreas naturales protegidas queda prohibida la introducción de especies exóticas invasoras.
+
 > <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 47.
@@ -1256,41 +1270,57 @@ Para tal efecto, la Secretaría podrá suscribir con los interesados los conveni
 
 ARTICULO 47 BIS.- Para el cumplimiento de las disposiciones de la presente Ley, en relación al establecimiento de las áreas naturales protegidas, se realizará una división y subdivisión que permita identificar y delimitar las porciones del territorio que la conforman, acorde con sus elementos biológicos, físicos y socioeconómicos, los cuales constituyen un esquema integral y dinámico, por lo que cuando se realice la delimitación territorial de las actividades en las áreas naturales protegidas, ésta se llevará a cabo a través de las siguientes zonas y sus respectivas subzonas, de acuerdo a su categoría de manejo:
 
-I. Las zonas núcleo, tendrán como principal objetivo la preservación de los ecosistemas a mediano y largo plazo, en donde se podrán autorizar las actividades de preservación de los ecosistemas y sus elementos, de investigación y de colecta científica, educación ambiental, y limitarse o prohibirse aprovechamientos que alteren los ecosistemas. Estas zonas podrán estar conformadas por las siguientes subzonas:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE MAYO DE 2013)</small>
 
-a) De protección: Aquellas superficies dentro del área natural protegida, que han sufrido muy poca alteración, así como ecosistemas relevantes o frágiles y fenómenos naturales, que requieren de un cuidado especial para asegurar su conservación a largo plazo.
+I. Las zonas núcleo, tendrán como principal objetivo la preservación de los ecosistemas y su funcionalidad a mediano y largo plazo, en donde se podrán autorizar las actividades de preservación de los ecosistemas y sus elementos, de investigación y de colecta científica, educación ambiental, y limitarse o prohibirse aprovechamientos que alteren los ecosistemas. Estas zonas podrán estar conformadas por las siguientes subzonas:
 
-En las subzonas de protección sólo se permitirá realizar actividades de monitoreo del ambiente, de investigación científica que no implique la extracción o el traslado de especímenes, ni la modificación del hábitat.
+> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 2013)</small>
+
+a) De protección: Aquellas superficies dentro del área natural protegida, que han sufrido muy poca alteración, así como ecosistemas relevantes o frágiles, o hábitats críticos, y fenómenos naturales, que requieren de un cuidado especial para asegurar su conservación a largo plazo.
+
+En las subzonas de protección sólo se permitirá realizar actividades de monitoreo del ambiente, de investigación científica no invasiva en los términos del reglamento correspondiente, que no implique la extracción o el traslado de especímenes, ni la modificación del hábitat.
 
 b) De uso restringido: Aquellas superficies en buen estado de conservación donde se busca mantener las condiciones actuales de los ecosistemas, e incluso mejorarlas en los sitios que así se requieran, y en las que se podrán realizar excepcionalmente actividades de aprovechamiento que no modifiquen los ecosistemas y que se encuentren sujetas a estrictas medidas de control.
 
-En las subzonas de uso restringido sólo se permitirán la investigación científica y el monitoreo del ambiente, las actividades de educación ambiental y turismo de bajo impacto ambiental que no impliquen modificaciones de las características o condiciones naturales originales, y la construcción de instalaciones de apoyo, exclusivamente para la investigación científica o el monitoreo del ambiente, y
+> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 2013)</small>
+
+En las subzonas de uso restringido sólo se permitirán la investigación científica no invasiva y el monitoreo del ambiente, las actividades de educación ambiental y turismo de bajo impacto ambiental, que no impliquen modificaciones de las características o condiciones naturales originales, y la construcción de instalaciones de apoyo, exclusivamente para la investigación científica o el monitoreo del ambiente, y
 
 II. Las zonas de amortiguamiento, tendrán como función principal orientar a que las actividades de aprovechamiento, que ahí se lleven a cabo, se conduzcan hacia el desarrollo sustentable, creando al mismo tiempo las condiciones necesarias para lograr la conservación de los ecosistemas de ésta a largo plazo, y podrán estar conformadas básicamente por las siguientes subzonas:
 
 a) De preservación: Aquellas superficies en buen estado de conservación que contienen ecosistemas relevantes o frágiles, o fenómenos naturales relevantes, en las que el desarrollo de actividades requiere de un manejo específico, para lograr su adecuada preservación.
 
+> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 2013)</small>
+
 En las subzonas de preservación sólo se permitirán la investigación científica y el monitoreo del ambiente, las actividades de educación ambiental y las actividades productivas de bajo impacto ambiental que no impliquen modificaciones sustanciales de las características o condiciones naturales originales, promovidas por las comunidades locales o con su participación, y que se sujeten a una supervisión constante de los posibles impactos negativos que ocasionen, de conformidad con lo dispuesto en los ordenamientos jurídicos y reglamentarios que resulten aplicables.
 
 b) De uso tradicional: Aquellas superficies en donde los recursos naturales han sido aprovechados de manera tradicional y continua, sin ocasionar alteraciones significativas en el ecosistema. Están relacionadas particularmente con la satisfacción de las necesidades socioeconómicas y culturales de los habitantes del área protegida.
 
-En dichas subzonas no podrán realizarse actividades que amenacen o perturben la estructura natural de las poblaciones y ecosistemas o los mecanismos propios para su recuperación. Sólo se podrán realizar actividades de investigación científica, educación ambiental y de turismo de bajo impacto ambiental, así como la infraestructura de apoyo que se requiera, utilizando ecotécnias y materiales tradicionales de construcción propios de la región, aprovechamiento de los recursos naturales para la satisfacción de las necesidades económicas básicas y de autoconsumo de los pobladores, utilizando métodos tradicionales enfocados a la sustentabilidad, conforme lo previsto en las disposiciones legales y reglamentarias aplicables.
+> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 2013)</small>
 
-c) De aprovechamiento sustentable de los recursos naturales: Aquellas superficies en las que los recursos naturales pueden ser aprovechados, y que, por motivos de uso y conservación de sus ecosistemas a largo plazo, es necesario que todas las actividades productivas se efectúen bajo esquemas de aprovechamiento sustentable.
+En dichas subzonas no podrán realizarse actividades que amenacen o perturben la estructura natural de las poblaciones y ecosistemas o los mecanismos propios para su recuperación. Sólo se podrán realizar actividades de investigación científica, educación ambiental y de turismo de bajo impacto ambiental, así como, en su caso, pesca artesanal con artes de bajo impacto ambiental; así como la infraestructura de apoyo que se requiera, utilizando ecotécnias y materiales tradicionales de construcción propios de la región, aprovechamiento de los recursos naturales para la satisfacción de las necesidades económicas básicas y de autoconsumo de los pobladores, utilizando métodos tradicionales enfocados a la sustentabilidad, conforme lo previsto en las disposiciones legales y reglamentarias aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE MAYO DE 2013)</small>
+
+c) De aprovechamiento sustentable de los recursos naturales: Aquellas superficies en las que los recursos naturales pueden ser aprovechados, y que, por motivos de uso y conservación de sus ecosistemas a largo plazo, es necesario que todas las actividades productivas, se efectúen bajo esquemas de aprovechamiento sustentable.
 
 En dichas subzonas se permitirán exclusivamente el aprovechamiento y manejo de los recursos naturales renovables, siempre que estas acciones generen beneficios preferentemente para los pobladores locales, la investigación científica, la educación ambiental y el desarrollo de actividades turísticas de bajo impacto ambiental.
 
 Asimismo, el aprovechamiento sustentable de la vida silvestre podrá llevarse a cabo siempre y cuando se garantice su reproducción controlada o se mantengan o incrementen las poblaciones de las especies aprovechadas y el hábitat del que dependen; y se sustenten en los planes correspondientes autorizados por la Secretaría, conforme a las disposiciones legales y reglamentarias aplicables.
 
-d) De aprovechamiento sustentable de los ecosistemas: Aquellas superficies con usos agrícolas y pecuarios actuales.
+> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 2013)</small>
 
-En dichas subzonas se podrán realizar actividades agrícolas y pecuarias de baja intensidad que se lleven a cabo en predios que cuenten con aptitud para este fin, y en aquellos en que dichas actividades se realicen de manera cotidiana, y actividades de agroforestería y silvopastoriles, siempre y cuando sean compatibles con las acciones de conservación del área, y que contribuyan al control de la erosión y evitar la degradación de los suelos.
+d) De aprovechamiento sustentable de los ecosistemas: Aquellas superficies con usos agrícolas, pesqueros y pecuarios actuales.
 
-La ejecución de las prácticas agrícolas, pecuarias, agroforestales y silvopastoriles que no estén siendo realizadas en forma sustentable, deberán orientarse hacia la sustentabilidad y a la disminución del uso de agroquímicos e insumos externos para su realización.
+En dichas subzonas se podrán realizar actividades agrícolas, pesqueras y pecuarias de baja intensidad que se lleven a cabo en predios, o zonas que cuenten con aptitud para este fin, y en aquellos en que dichas actividades se realicen de manera cotidiana, y actividades de pesquería artesanal, agroforestería y silvopastoriles, siempre y cuando sean compatibles con las acciones de conservación del área, y que en su caso contribuyan al control de la erosión y evitar la degradación de los suelos.
+
+La ejecución de las prácticas agrícolas, pesqueras, pecuarias, agroforestales y silvopastoriles que no estén siendo realizadas en forma sustentable, deberán orientarse hacia la sustentabilidad y a la disminución del uso de agroquímicos e insumos externos para su realización.
 
 e) De aprovechamiento especial: Aquellas superficies generalmente de extensión reducida, con presencia de recursos naturales que son esenciales para el desarrollo social, y que deben ser explotadas sin deteriorar el ecosistema, modificar el paisaje de forma sustancial, ni causar impactos ambientales irreversibles en los elementos naturales que conformen.
 
-En dichas subzonas sólo se podrán ejecutar obras públicas o privadas para la instalación de infraestructura o explotación de recursos naturales, que generen beneficios públicos, que guarden armonía con el paisaje, que no provoquen desequilibrio ecológico grave y que estén sujetos a estrictas regulaciones de uso sustentable de los recursos naturales.
+> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 2013)</small>
+
+En dichas subzonas sólo se podrán ejecutar obras públicas o privadas para la instalación de infraestructura o explotación de recursos naturales, que generen beneficios públicos, que guarden armonía con el paisaje, que no provoquen desequilibrio ecológico grave y que estén sujetos a estrictas regulaciones de uso sustentable de los recursos naturales, con apego estricto a los programas de manejo emitidos por la Secretaría.
 
 f) De uso público: Aquellas superficies que presentan atractivos naturales para la realización de actividades de recreación y esparcimiento, en donde es posible mantener concentraciones de visitantes, en los límites que se determinen con base en la capacidad de carga de los ecosistemas.
 
@@ -1298,9 +1328,11 @@ En dichas subzonas se podrá llevar a cabo exclusivamente la construcción de in
 
 g) De asentamientos humanos: En aquellas superficies donde se ha llevado a cabo una modificación sustancial o desaparición de los ecosistemas originales, debido al desarrollo de asentamientos humanos, previos a la declaratoria del área protegida, y
 
-> <small>(REFORMADO, D.O.F. 21 DE MAYO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE MAYO DE 2013)</small>
 
-h) De recuperación: Aquellas superficies en las que los recursos naturales han resultado severamente alterados o modificados, y que serán objeto de programas de recuperación y rehabilitación.
+h) De recuperación: Aquellas superficies en las que los recursos naturales han resultado severamente alterados o modificados, y que serán objeto de programas de recuperación y rehabilitación, por lo que no deberán continuar las actividades que llevaron a dicha alteración.
+
+> <small>(REFORMADO, D.O.F. 21 DE MAYO DE 2013)</small>
 
 En estas subzonas sólo podrán utilizarse para su rehabilitación, especies nativas de la región o en su caso, especies compatibles con el funcionamiento y la estructura de los ecosistemas originales cuando científicamente se compruebe que no se afecta la evolución y continuidad de los procesos naturales.
 
@@ -1326,9 +1358,17 @@ En los monumentos naturales y en los santuarios, se podrán establecer subzonas 
 
 Las reservas de la biosfera se constituirán en áreas biogeográficas relevantes a nivel nacional, representativas de uno o más ecosistemas no alterados significativamente por la acción del ser humano o que requieran ser preservados y restaurados, en los cuales habiten especies representativas de la biodiversidad nacional, incluyendo a las consideradas endémicas, amenazadas o en peligro de extinción.
 
-> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
+> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 2013)</small>
 
-En las zonas núcleo de las reservas de la biosfera sólo podrá autorizarse la ejecución de actividades de preservación de los ecosistemas y sus elementos, de investigación científica y educación ambiental, mientras que se prohibirá la realización de aprovechamientos que alteren los ecosistemas.
+En las zonas núcleo de las reservas de la biosfera sólo podrá autorizarse la ejecución de actividades de preservación de los ecosistemas y sus elementos, y educación ambiental, mientras que se prohibirá la realización de aprovechamientos que alteren los ecosistemas.
+
+> <small>(ADICIONADO, D.O.F. 24 DE MAYO DE 2013)</small>
+
+Para el caso de zonas núcleo que se ubiquen en zonas marinas deberá limitarse el tráfico de embarcaciones de conformidad con el programa de manejo respectivo.
+
+> <small>(ADICIONADO, D.O.F. 24 DE MAYO DE 2013)</small>
+
+Asimismo, se deberán regular los aprovechamientos no extractivos de vida silvestre que deberán de ser de bajo impacto, y de acuerdo con las normas oficiales mexicanas que para tal efecto emita la Secretaría.
 
 > <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2005)</small>
 
@@ -1368,11 +1408,15 @@ En los parques nacionales sólo podrá permitirse la realización de actividades
 
 Para los fines señalados en el presente Capítulo, así como para proteger y preservar los ecosistemas marinos y regular el aprovechamiento sustentable de la flora y fauna acuática, en las zonas marinas mexicanas, que podrán incluir la zona federal marítimo terrestre contigua, se podrán establecer áreas naturales protegidas de los tipos a que se refieren las fracciones I, III, IV, VII y VIII del artículo 46, atendiendo a las características particulares de cada caso.
 
-En estas áreas se permitirán y, en su caso, se restringirán o prohibirán las actividades o aprovechamientos que procedan, de conformidad con lo que disponen esta Ley, la Ley de Pesca, la Ley Federal del Mar, las convenciones internacionales de las que México sea parte y las demás disposiciones jurídicas aplicables.
+> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 2013)</small>
+
+En estas áreas se permitirán y, en su caso, se restringirán o prohibirán las actividades o aprovechamientos que procedan, de conformidad con lo que disponen esta Ley, la Ley General de Pesca y Acuacultura Sustentables, la Ley General de Vida Silvestre, la Ley Federal del Mar, las convenciones internacionales de las que México sea parte y las demás disposiciones jurídicas aplicables.
 
 Las autorizaciones, concesiones o permisos para el aprovechamiento de los recursos naturales en estas áreas, así como el tránsito de embarcaciones en la zona o la construcción o utilización de infraestructura dentro de la misma, quedarán sujetas a lo que dispongan los Programas de Manejo y las declaratorias correspondientes.
 
-Para el establecimiento, administración y vigilancia de las áreas naturales protegidas establecidas en las zonas marinas mexicanas, así como para la elaboración de su programa de manejo, se deberán coordinar, atendiendo a sus respectivas competencias, la Secretaría y la Secretaría de Marina.
+> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 2013)</small>
+
+Para el establecimiento, administración y vigilancia de las áreas naturales protegidas establecidas en las zonas marinas mexicanas, así como para la elaboración de su programa de manejo, se deberán coordinar, atendiendo a sus respectivas competencias, la Secretaría y la Secretaría de Marina. En todos los casos queda prohibida la introducción de especies exóticas invasoras.
 
 > <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -1413,6 +1457,10 @@ Asimismo, podrá autorizarse el aprovechamiento de los recursos naturales a las 
 Los santuarios son aquellas áreas que se establecen en zonas caracterizadas por una considerable riqueza de flora o fauna, o por la presencia de especies, subespecies o hábitat de distribución restringida. Dichas áreas abarcarán cañadas, vegas, relictos, grutas, cavernas, cenotes, caletas, u otras unidades topográficas o geográficas que requieran ser preservadas o protegidas.
 
 En los santuarios sólo se permitirán actividades de investigación, recreación y educación ambiental, compatibles con la naturaleza y características del área.
+
+> <small>(ADICIONADO, D.O.F. 24 DE MAYO DE 2013)</small>
+
+Las actividades de aprovechamiento no extractivo quedan restringidas a los programas de manejo, y normas oficiales mexicanas emitidas por la Secretaría.
 
 > <small>(ADICIONADO, D.O.F. 16 DE MAYO DE 2008)</small>
 
@@ -3705,3 +3753,15 @@ D.O.F. 21 DE MAYO DE 2013.
 Primero.- El presente Decreto entrará en vigor al día siguiente a su publicación en el Diario Oficial de la Federación.
 
 Segundo.- El Poder Ejecutivo Federal, en un plazo que no exceda de 90 días naturales posteriores a la entrada en vigor del presente Decreto, deberá publicar en el Diario Oficial de la Federación, el Decreto por el que se reforma el artículo 61 del Reglamento de la Ley General del Equilibro Ecológico y la Protección al Ambiente en materia de Áreas Naturales Protegidas, a fin de que se ajuste a lo previsto en el presente Decreto.
+
+D.O.F. 24 DE MAYO DE 2013.
+
+DECRETO POR EL QUE REFORMAN Y ADICIONAN LOS ARTÍCULOS 36, 37 BIS Y 37 TER DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE.
+
+Único.- El presente Decreto entrará en vigor el siguiente día al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 24 DE MAYO DE 2013.
+
+DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE, EN MATERIA DE ÁREAS PROTEGIDAS MARINAS.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
