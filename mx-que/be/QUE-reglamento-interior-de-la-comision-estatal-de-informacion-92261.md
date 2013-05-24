@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-interior-de-la-comision-estatal-de-informacion-92261
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-01-25"
-last_updated: "2013-01-25"
+last_updated: "2013-05-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92261&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL DE INFORMACIÓN GUBERNAMENTAL DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 25 de enero de 2013.
 
@@ -387,6 +387,76 @@ XV. Llevar los libros de registro de los recursos de revisión interpuestos ante
 
 XVI. Las demás que le confieran otros ordenamientos legales y reglamentarios aplicables o aquellas que determine el Presidente o el Secretario Ejecutivo.
 
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2013)</small>
+
+###### Artículo 23 Bis.
+
+Las notificaciones de los actos de la Comisión se realizarán por conducto de los actuarios, quienes tendrán las siguientes facultades y obligaciones:
+
+I. Practicar las notificaciones y actuaciones que les sean ordenadas, gozando de fe pública para ello, en los asuntos de la competencia de la Comisión por conducto de su Presidente, la Secretaría Ejecutiva o la Secretaría de Acuerdos y Proyectos;
+
+II. Sustituir en sus funciones a auxiliares jurídicos, cuando proceda;
+
+III. Redactar de manera clara y con letra legible las constancias y diligencias que realicen las cuales integrará en el expediente de la causa; y
+
+IV. Las demás que le confieran otros ordenamientos legales y reglamentarios aplicables o aquellas que determine el Presidente, el Secretario Ejecutivo o el Secretario de Acuerdos y Proyectos.
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2013)</small>
+
+###### Artículo 23 Ter.
+
+Los actuarios realizará (sic) las notificaciones:
+
+I. Personalmente;
+
+II. Por cédula;
+
+III. Por correo electrónico; o
+
+IV. Por lista; según corresponda
+
+Las notificaciones, citaciones y emplazamientos se efectuarán dentro de los cinco días siguientes al en que se dicten las resoluciones o acuerdos, en tanto el Presidente o la ley no dispusieren otra cosa.
+
+Para los efectos anteriores, el actuario llevará un registro diario de los asuntos que se le entreguen, debiendo recibirlos bajo su firma y devolverlos con la constancia del acta respectiva, dentro del plazo señalado.
+
+Las partes en el recurso de revisión, en el primer escrito en que comparezcan a la causa, deberán señalar domicilio para que en él se hagan las notificaciones y diligencias que sean necesarias; o señalar un correo electrónico donde se les puedan realizar notificaciones.
+
+Si habiendo señalado domicilio, éste no existe o se encontrare desocupado o se encontrare cerrado tras dos búsquedas en fecha distinta o de negativa para recibir notificaciones, previa constancia que de ello asiente el actuario en el acta circunstanciada que levante, se acordará de oficio que las notificaciones, aún las personales, surtirán efectos por lista.
+
+De no señalar domicilio o el correo electrónico señalado por las partes no reciba las notificaciones, éstas le surtirán efectos por lista y las diligencias en que debiere tener intervención se practicarán en las oficinas de la Comisión, aún sin su presencia.
+
+El Secretario de Acuerdos y Proyectos determinará la documentación que deberá entregarse a los actuarios para realizar las notificaciones
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2013)</small>
+
+###### Artículo 23 Quáter.
+
+Los actuarios realizarán la primera notificación directamente al interesado o su representante, en el domicilio procesal que hayan señalado o en el correo electrónico que designen para tal efecto.
+
+Tratándose de notificaciones en el domicilio y no encontrándose al interesado, en el acto, previa identificación del actuario, éste se cerciorará de estar en el domicilio del buscado, asentando en el acta respectiva los datos y signos exteriores del inmueble que sirvan para acreditar que acudió al domicilio señalado. Enseguida, el notificador dejará con quien entienda la diligencia, copia simple de la resolución que se ordena notificar y cédula en la que hará constar la fecha y hora de su entrega, descripción de los documentos que se acompañen a la cédula y el nombre y apellido de la persona a quien se entrega, para que la haga llegar al interesado, recogiendo la firma de aquél o haciendo constar su negativa o imposibilidad de firmar.
+
+Si la notificación no pudiera realizarse, el notificador se informará con los vecinos más cercanos sobre la certeza de que el buscado vive en el domicilio señalado y expresará las causas o la oposición que hubo para ello.
+
+Si el correo electrónico señalado por cualquiera de las partes no admite las notificaciones, el actuario deberá intentar la notificación en dos ocasiones, asentando la constancia correspondiente, en base a lo siguiente:
+
+I. El actuario deberá elaborar la minuta electrónica en la que precise el auto, acuerdo o resolución a notificar. Dicha minuta contendrá la fecha y hora en que se efectúe el envío señalado y la firma electrónica del actuario, que deberá imprimir para adjuntarla al expediente;
+
+II. El actuario enviará a la dirección de correo electrónico de la o las partes a notificar, un aviso informándole que se ha dictado un auto, acuerdo o resolución en el expediente en que actúan;
+
+III. Se tendrá como legalmente practicada la notificación, conforme a lo señalado en las fracciones anteriores, cuando el actuario genere el acuse de recibo electrónico donde conste la fecha y hora en que se envió el auto, acuerdo o resolución a las partes notificadas.
+
+Encontrando a la persona buscada, el actuario le pedirá una identificación, anotando los datos de la misma y, en caso de no exhibirla, hará constar sus características físicas.
+
+El actuario explicará a la persona buscada el motivo de la diligencia, le entregará copia simple de la resolución que se ordena notificar, cédula en la que conste el domicilio donde se actúa, fecha y hora de la diligencia.
+
+Si a la primera búsqueda no se encontrare la persona buscada o su representante legal, una vez que el actuario se haya cerciorado de que es el domicilio del buscado, se le dejará citatorio para que espere a una hora determinada al día hábil siguiente.
+
+Si el buscado o su representante legal no esperaren el día y hora fijado, se realizará la notificación en los términos del artículo anterior, con la persona que se encuentre.
+
+Si el día y hora fijado no se encuentra persona alguna en el domicilio o éste se encontrare cerrado, la notificación se realizará por medio de cédula que se fijará en lugar visible en la puerta principal del domicilio, haciéndolo constar así el actuario, surtiendo todos sus efectos legales.
+
+La segunda y ulteriores notificaciones surtirán efectos en lista para los interesados, al día siguiente de su publicación.
+
 #### Sección Segunda. De la Coordinación de Difusión y Vinculación
 
 ###### Artículo 24.
@@ -590,3 +660,13 @@ Eric Horacio Hernández López
 Secretario Ejecutivo
 
 Rúbrica
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 24 DE MAYO DE 2013.
+
+Primero. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
+
+Tercero. El Presidente atendiendo a la suficiencia presupuestaria determinará el número de actuarios adscritos a la Secretaría de Acuerdos y Proyectos.
