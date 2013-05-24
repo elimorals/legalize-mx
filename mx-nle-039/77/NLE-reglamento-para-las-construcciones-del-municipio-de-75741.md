@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-las-construcciones-del-municipio-de-75741"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-06-21"
-last_updated: "2010-06-21"
+last_updated: "2013-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75741&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO PARA LAS CONSTRUCCIONES DEL MUNICIPIO DE MONTERREY, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 21 de junio de 2010.
 
@@ -55,79 +55,145 @@ V. Para la revisión de la seguridad y condiciones de servicio de las estructura
 
 VI. Expedir licencias de construcción para las obras públicas o privadas que se ejecuten.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MAYO DE 2013)</small>
+
 ###### Artículo 2.
 
 Para los efectos de este Reglamento se entiende por:
 
-(NOTA: EL 8 DE MAYO DE 2012, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 54/2010, DECLARÓ LA INVALIDEZ DE ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE JULIO DE 2012 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+I. (DEROGADA, P.O. 24 DE MAYO DE 2013)
 
-[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
-
-I. AFIRMATIVA FICTA: EL ACTO ADMINISTRATIVO POR EL CUAL LA AUTORIDAD COMPETENTE EXPIDE LA LICENCIA A UNA SOLICITUD, POR NO RESOLVERLA DENTRO DEL TÉRMINO LEGAL ESTABLECIDO;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
 
 II. Ampliación: Incremento de metros cuadrados de construcción de una edificación.
 
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
+
 III. Asesor: Persona física o moral, con los conocimientos técnicos adecuados para responder en forma solidaria, en lo relativo a la seguridad estructural, diseño urbano, diseño arquitectónico, instalaciones, así como estudios técnicos de impacto vial, de impacto ambiental, hidrológicos o hidráulicos, de mecánica de suelos y geológicos o geotécnicos, según sea el caso, y deberá cumplir con los requisitos establecidos en el presente Reglamento y demás ordenamientos jurídicos aplicables a la materia;
 
-IV. Construcción: Obra o instalación que transforme el estado actual o natural de un lote o predio con objeto de servir a las actividades humanas, tales como la fabricación de elementos físicos, la reconstrucción, modificación, remodelación, conservación, mantenimiento, restauración o demolición de bienes inmuebles, así como las excavaciones, movimientos de tierra, cortes, rellenos y similares;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
 
-V. Construcción Riesgosa: Instalación o construcción, que por su inestabilidad, posición o falla, esté en condiciones de provocar daños inminentes a personas o instalaciones;
+IV. Centro de Apuesta: Establecimiento cuya atracción principal son los juegos de azar, los juegos más populares son: la ruleta, el black jack, el póker, las máquinas tragamonedas y las apuestas deportivas, o en donde el jugador apuesta una suma de dinero recibiendo o no una recompensa monetaria o en especie, dependiendo del resultado de éste. A estos establecimientos también se les denomina casinos, salas de sorteos, casas de juego y/o similares, indistintamente. Asi como las que se señalan en la Ley Federal de Juegos y Sorteos.
 
-VI. Demolición: El derribo de superficies cubiertas y de elementos estructurales de la edificación, ya sea con el fin de descargo en el calculo del impuesto predial, efectuar nuevas construcciones, o darle aprovechamiento distinto al inmueble;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
 
-VII. Director Responsable de Obra: Persona física reconocida por la Ley, con la capacidad para asumir la responsabilidad técnica para elaborar o revisar los proyectos, promover su autorización, construir y supervisar las obras de edificación y urbanización, avalando que estas cumplan con lo establecido por la Ley, este Reglamento, los planes y programas de desarrollo urbano y demás disposiciones de la materia;
+V. Construcción: Obra o instalación que transforme el estado actual o natural de un lote o predio con objeto de servir a las actividades humanas, tales como la fabricación de elementos físicos, la reconstrucción, modificación, remodelación, conservación, mantenimiento, restauración o demolición de bienes inmuebles, así como las excavaciones, movimientos de tierra, cortes, rellenos y similares;
 
-VIII. Edificación: Es aquella obra terminada que se encuentre dentro de un lote o predio;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
 
-IX. Espacio público: Es aquel destinado para el libre tránsito, a la utilización común y al goce de todos los habitantes en general;
+VI. Construcción Riesgosa: Instalación o construcción, que por su inestabilidad, posición o falla, esté en condiciones de provocar daños inminentes a personas o instalaciones;
 
-X. Falla: El agotamiento de la capacidad de carga de una estructura que provoque daños irreversibles en ella;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
 
-XI. Inmueble: El terreno, la edificación y construcción que en él se encuentran;
+VII. Demolición: El derribo de superficies cubiertas y de elementos estructurales de la edificación, ya sea con el fin de descargo en el calculo del impuesto predial, efectuar nuevas construcciones, o darle aprovechamiento distinto al inmueble;
 
-XII. Inspector: El personal comisionado por cualquiera de las autoridades encargadas de la aplicación de este Reglamento, responsable de la inspección y vigilancia, ejecución de las medidas de seguridad y sanciones a las obras de construcción y demás instalaciones públicas y privadas, contempladas por la Ley, el Reglamento y el Plan o Programa;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
 
-XIII. Ley: La Ley de Desarrollo Urbano del Estado de Nuevo León;
+VIII. Director Responsable de Obra: Persona física reconocida por la Ley, con la capacidad para asumir la responsabilidad técnica para elaborar o revisar los proyectos, promover su autorización, construir y supervisar las obras de edificación y urbanización, avalando que éstas cumplan con lo establecido por la Ley, este Reglamento, los planes y programas de desarrollo urbano y demás disposiciones de la materia;
 
-XIV. Licencia: Es el acto administrativo mediante el cual, la autoridad resuelve la solicitud para las construcciones de las reguladas por la Ley y en el presente Reglamento;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
 
-XV. Lote: Terreno producto de un fraccionamiento, subdivisión, parcelación y demás figuras previstas en la Ley;
+IX. Edificación: Es aquella obra terminada que se encuentre dentro de un lote o predio;
 
-XVI. Modificación: El cambio o variación de un proyecto de construcción previamente autorizado;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
 
-XVII. Municipio: El Municipio de la Ciudad de Monterrey, N. L;
+X. Espacio público: Es aquel destinado para el libre tránsito, a la utilización común y al goce de todos los habitantes en general;
 
-XVIII. Normas técnicas: Las normas relativas a la construcción, publicadas por organismos técnicos, aplicables a las construcciones, tales como: Norma Oficial Mexicana, ASTM, IMCYC (Instituto Mexicano del Cemento y el Concreto), FOVI y demás Manuales y Estudios técnicos.
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
 
-XIX. Ochavo: Esquina que esta redondeada o cortada en un ángulo de 45°- cuarenta y cinco grados o, con una longitud mínima de 3.00 metros (de radio, o por lado, respectivamente);
+XI. Falla: El agotamiento de la capacidad de carga de una estructura que provoque daños irreversibles en ella;
+
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
+
+XII. Inmueble: El terreno, la edificación y construcción que en él se encuentran;
+
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
+
+XIII. Inspector: El personal comisionado por cualquiera de las autoridades encargadas de la aplicación de este Reglamento, responsable de la inspección y vigilancia, ejecución de las medidas de seguridad y sanciones a las obras de construcción y demás instalaciones públicas y privadas, contempladas por la Ley, el Reglamento y el Plan o Programa;
+
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
+
+XIV. Ley: La Ley de Desarrollo Urbano del Estado de Nuevo León;
+
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
+
+XV. Licencia: Es el acto administrativo mediante el cual, la autoridad resuelve la solicitud para las construcciones de las reguladas por la Ley y en el presente Reglamento;
+
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
+
+XVI. Lote: Terreno producto de un fraccionamiento, subdivisión, parcelación y demás figuras previstas en la Ley;
+
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
+
+XVII. Modificación: El cambio o variación de un proyecto de construcción previamente autorizado;
+
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
+
+XVIII. Municipio: El Municipio de la Ciudad de Monterrey, Nuevo León;
+
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
+
+XIX. Normas técnicas: Las normas relativas a la construcción publicadas por organismos técnicos, aplicables a las construcciones, tales como: Norma Oficial Mexicana, ASTM, IMCYC (Instituto Mexicano del Cemento y el Concreto), FOVI y demás Manuales y Estudios técnicos.
+
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
+
+XX. Ochavo: Es el achaflanado o redondeo en las esquinas formadas por el cruce de dos vialidades, adecuada para las maniobras vehiculares de vuelta derecha. Las dimensiones mínimas para los ochavos deberán ser de 3-tres metros por lados, pudiéndose sustituir la línea recta de un ochavo por una curva circular o compuesta, la cual deberá tener un radio de giro mínimo de 3-tres metros medido en el límite de la propiedad correspondiente a las vías que forman la esquina. Las dimensiones de los ochavos podrán aumentar, conforme a las jerarquías viales de las calles que se entrecrucen;
 
 > <small>N. DE E. VÉASE IMAGEN EN EL P.O. DE 21 DE JUNIO DE 2010, PÁGINA 8.</small>
 
-XX. Poseedor: Es la persona física o moral que sin ser el propietario, adquiere los derechos sobre la utilización o aprovechamiento de un bien inmueble en los términos que establece el Código Civil;
+> <small>N. DE E. VÉASE MODIFICACIONES A LA IMAGEN EN EL P.O. DE 24 DE MAYO DE 2013, PÁGINA 38.</small>
 
-XXI. Plano Oficial: Documento que contiene el proyecto que constituye, describe, grafica y complementa los lineamientos obligaciones exigencias urbanísticas que se establecen en la licencia de construcción;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
 
-XXII. Plan o Programa: Plan o Programa de Desarrollo Urbano del Municipio de Monterrey o Plan Parcial que de éste derive, que se encuentren vigentes;
+XXI. Poseedor: Es la persona física o moral que sin ser el propietario, adquiere los derechos sobre la utilización o aprovechamiento de un bien inmueble en los términos que establece el Código Civil;
 
-XXIII. Propietario: El titular o titulares de los derechos de propiedad que se tengan sobre un determinado bien inmueble;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
 
-XXIV. Prórroga: Es la prolongación de la vigencia de una licencia, por un tiempo determinado;
+XXII. Plano Oficial: Documento que contiene el proyecto que constituye, describe, grafica y complementa los lineamientos, obligaciones, exigencias urbanísticas que se establecen en la licencia de construcción;
 
-XXV. Reglamento: Reglamento para las Construcciones del Municipio de Monterrey, N. L.;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
 
-XXVI. Remodelación: La reposición o regeneración de las edificaciones autorizadas, sin incrementar o disminuir los metros cuadrados de construcción;
+XXIII. Plan o Programa: Plan o Programa de Desarrollo Urbano del Municipio de Monterrey o Plan Parcial que de éste derive, que se encuentren vigentes;
 
-XXVII. Reparación: Obras de construcción necesarias para el arreglo de fallas estructurales, en edificaciones existentes;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
 
-XXVIII. Secretaría: La Secretaría de Desarrollo Urbano y Ecología del Municipio de Monterrey, N. L;
+XXIV. Propietario: El titular o titulares de los derechos de propiedad que se tengan sobre un determinado bien inmueble;
 
-XXIX. Secretario: El Secretario de Desarrollo Urbano y Ecología del Municipio de Monterrey, N. L;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
 
-XXX. Uso Público: El uso masivo de cualquier instalación, que requiere cumplir con previsiones especiales en función de la seguridad de los usuarios;
+XXV. Prórroga: Es la prolongación de la vigencia de una licencia, por un tiempo determinado;
 
-XXXI. Vía Pública: Es todo inmueble del dominio público, de utilización común que por disposición de la Ley de Desarrollo Urbano del Estado de Nuevo León o por razón del servicio, se destine al libre tránsito, o bien, que de hecho esta ya afecto a utilización pública en forma habitual y cuya función sea la de servir de acceso a los predios y edificaciones colindantes o para el alojamiento de cualquier instalación destinada a satisfacer un servicio público; y.
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
 
-XXXII. Zonas en declive: Corresponden a las áreas que presentan el lote o terreno con una inclinación del 30% al 45% de pendiente.
+XXVI. Reglamento: Reglamento para las Construcciones del Municipio de Monterrey, N. L.;
+
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
+
+XXVII. Remodelación: La reposición o regeneración de las edificaciones autorizadas, sin incrementar o disminuir los metros cuadrados de construcción;
+
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
+
+XXVIII. Reparación: Obras de construcción necesarias para el arreglo de fallas estructurales, en edificaciones existentes;
+
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
+
+XXIX. Secretaría: La Secretaría de Desarrollo Urbano y Ecología del Municipio de Monterrey, N. L;
+
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
+
+XXX. Secretario: El Secretario de Desarrollo Urbano y Ecología del Municipio de Monterrey, N. L;
+
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
+
+XXXI. Uso Público: El uso masivo de cualquier instalación, que requiere cumplir con previsiones especiales en función de la seguridad de los usuarios;
+
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
+
+XXXII. Vía Pública: Es todo inmueble del dominio público, de utilización común que por disposición de la Ley de Desarrollo Urbano del Estado de Nuevo León o por razón del servicio, se destine al libre tránsito, o bien, que de hecho esta ya afecto a utilización pública en forma habitual y cuya función sea la de servir de acceso a los predios y edificaciones colindantes o para el alojamiento de cualquier instalación destinada a satisfacer un servicio público; y,
+
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
+
+XXXIII. Zonas en declive: Corresponden a las áreas que presentan el lote o terreno con una inclinación del 30% al 45% de pendiente.
 
 ###### Artículo 3.
 
@@ -235,9 +301,13 @@ Podrá contratar directamente o, a través del Director Responsable de Obra, otr
 
 El propietario o poseedor de un inmueble, deberá de disponer obligatoriamente y durante el tiempo que dure la construcción, tratándose de construcciones Tipo 3b, 4a, 4b y 4c de un seguro de responsabilidad civil contra terceros que ampare cualquier daño que ocasionare la construcción.
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2013)</small>
+
 ###### Artículo 11.
 
 El carácter de Director Responsable de Obra se adquiere al ser contratado para el ejercicio de la profesión en el ámbito de este Reglamento y demás disposiciones de carácter general en materia de desarrollo urbano.
+
+El Director Responsable de Obra al intervenir en cualquier obra o proyecto, deberá acompañar copia de su cédula profesional que acredite sus estudios en arquitectura, ingeniería civil, militar o, afines a la materia
 
 ###### Artículo 12.
 
@@ -449,6 +519,14 @@ VIII. Remodelación de fachadas, exceptuando la vivienda unifamiliar; y
 
 IX. Regularizaciones.
 
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2013)</small>
+
+###### Artículo 18 Bis.
+
+En el municipio de Monterrey se prohíben los siguientes usos de edificación, edificación o construcción de: Cabaret, Restaurant/Bar con baile de tubo denominado table dance, Moteles y salas de masaje no terapéuticos, juegos de mesa, Máquinas tragamonedas, casa de apuestas, casa de juego, centro de apuestas, casinos, salas de sorteos, y similares.
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2013)</small>
+
 ###### Artículo 19.
 
 Obras que no requieren licencia:
@@ -465,7 +543,7 @@ V. Impermeabilización y reparación de azoteas;
 
 VI. Obras urgentes para prevenir accidentes;
 
-VII. En este caso el propietario o poseedor deberá avisar por escrito a la Secretaría dentro de las 72 horas siguientes de ocurrido el siniestro, debiendo acompañar además el dictamen expedido por la dependencia competente en materia de Protección Civil;
+VII. Obras urgentes en caso de siniestros;
 
 VIII. Cambio y colocación de puertas, ventanas o vidrios; y,
 
@@ -477,11 +555,17 @@ XI. Remodelación de fachadas menores de 6.00 metros de altura, con remetimiento
 
 XII. Instalaciones complementarias de una vivienda unifamiliar mientras sean en áreas abiertas, podrá permitirse su construcción incluso en las áreas perimetrales susceptibles de remetimiento.
 
+En los supuestos de las fracciones VI y VII de este artículo, el propietario, poseedor o responsable de la obra deberá avisar por escrito a la Secretaría dentro de las 48 horas siguientes. En caso de haberse suscitado algún siniestro, deberá acompañar además el dictamen expedido por la dependencia competente en materia de Protección Civil.
+
+(REPUBLICADO PRIMER PÁRRAFO, P.O. 24 DE MAYO DE 2013)
+
 ###### Artículo 20.
 
 Los requisitos para la obtención de licencias de construcción para obra nueva, remodelaciones o ampliaciones según su tipo son:
 
 > <small>N. DE E. VÉASE TABLA EN EL P.O. DE 21 DE JUNIO DE 2010, PÁGINA 21.</small>
+
+> <small>N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 24 DE MAYO DE 2013, PÁGINA 40.</small>
 
 DESCRIPCIÓN DE LOS REQUISITOS DE LA TABLA ANTERIOR:
 
@@ -503,9 +587,11 @@ DESCRIPCIÓN DE LOS REQUISITOS DE LA TABLA ANTERIOR:
 
 9. Estudio de mecánica de suelos;
 
-10. Dictamen del proyecto por la dependencia competente en materia de protección civil;
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2013)</small>
 
-11. Póliza de seguro de responsabilidad civil contra terceros durante el proceso constructivo y hasta 1-un año de haber entregado el oficio de terminación de obra;
+10. Dictamen del proyecto por la dependencia competente en materia de protección civil o en su caso el Patronato de Bomberos de Nuevo León A.C.
+
+11. (DEROGADO, P.O. 24 DE MAYO DE 2013);
 
 12. Estudio de impacto ambiental;
 
@@ -513,9 +599,15 @@ DESCRIPCIÓN DE LOS REQUISITOS DE LA TABLA ANTERIOR:
 
 14. Estudio geotécnico de hidrología o geología.
 
-La Póliza de seguro de responsabilidad deberá dar cobertura aún que la obra en construcción éste clausurado o suspendida.
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2013)</small>
 
-En caso de ser necesario, deberá presentarse el proceso de mitigación de riesgos colindantes, con su programa de ejecución y análisis de taludes.
+Deberá contar con póliza de seguro de responsabilidad civil contra terceros durante el proceso constructivo y hasta 01-un año de haber obtenido el interesado la constancia de terminación de obra. Dicha poliza deberá tener cobertura aún y cuando la obra en construcción éste clausurada o suspendida por la autoridad competente.
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2013)</small>
+
+En caso de ser necesario, deberá presentarse el proceso de mitigación de riesgos colindantes, con su programa de ejecución y análisis de taludes
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2013)</small>
 
 ###### Artículo 21.
 
@@ -523,25 +615,9 @@ Para la tramitación y aprobación de las solicitudes se atenderá lo siguiente:
 
 I. Las autoridades encargadas de la aplicación del presente Reglamento en ningún caso podrán rechazar el ingreso de las solicitudes que se ajusten a los requisitos indicados en este ordenamiento, en observancia a las disposiciones de la Ley;
 
-II. Si el solicitante no cumple con los requisitos, la Autoridad advierte que los datos acompañados no son suficientes para atender la solicitud, deberá prevenírsele por una sola vez para que dentro del plazo de 5 días hábiles, contados a partir de que surta efecto la notificación de la prevención, subsane la omisión o documentación faltante; de no cumplir con lo anterior será desechada la solicitud. Antes del vencimiento del término concedido, el interesado podrá solicitar una prórroga por 5 días hábiles más cuando acredite a juicio de la Autoridad, que éste no le fue suficiente para cumplir con el requerimiento efectuado, o cuando la autoridad realice observaciones o correcciones sobre la documentación allegada. En estos casos se interrumpirá el plazo a que se refiere la fracción III del presente Artículo;
+II. Si el solicitante no cumple con los requisitos, la Autoridad advierte que los datos acompañados no son suficientes para atender la solicitud, deberá prevenírsele por una sola vez para que dentro del plazo máximo de 20 días hábiles, contados a partir de que haya surtido efectos la notificación; transcurrido el plazo correspondiente sin desahogar la prevención, se desechará el trámite.
 
-(NOTA: EL 8 DE MAYO DE 2012, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 54/2010, DECLARÓ LA INVALIDEZ DE ESTA FRACCIÓN INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 2 DE JULIO DE 2012 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
-
-III. UNA VEZ INTEGRADA LA SOLICITUD CON TODA LA DOCUMENTACIÓN REQUERIDA POR ESTE REGLAMENTO, LA AUTORIDAD QUE CORRESPONDA, DEBERÁ RESOLVER LAS SOLICITUDES PRESENTADAS EN EL PLAZO QUE LA LEY O LAS DEMÁS DISPOSICIONES LEGALES DETERMINEN, O A FALTA DE ESTA, SERÁ DE 30 DÍAS HÁBILES, CONTADOS A PARTIR DE SU RECEPCIÓN, DE NO HACERLO EN EL TIEMPO SEÑALADO SE CONSIDERARÁ AFIRMATIVA FICTA, PARA TAL EFECTO, LA SECRETARIA RESOLVERÁ EN UN PLAZO DE 10 DÍAS HÁBILES A PARTIR DE LA FECHA DE LA SOLICITUD DE CONFIGURACIÓN DE AFIRMATIVA FICTA.
-
-LA AFIRMATIVA FICTA NO SURTIRÁ EFECTO LEGAL ALGUNO:
-
-A) SI DENTRO DEL PLAZO DE 10 DÍAS HÁBILES EL SOLICITANTE NO FORMULA SU PETICIÓN;
-
-B) CUANDO IMPLIQUE LA AFECTACIÓN DE DERECHOS DE TERCEROS, CONTRAVENGA DISPOSICIONES DE ORDEN PÚBLICO, O CAUSE PERJUICIO AL INTERÉS SOCIAL;
-
-C) CUANDO LA SOLICITUD SE PRESENTEN (SIC) ANTE AUTORIDAD INCOMPETENTE; Y,
-
-D) CUANDO LA SOLICITUD NO REÚNA LOS REQUISITOS QUE SEÑALAN LAS NORMAS JURÍDICAS APLICABLES.
-
-IV. Cuando se trate de construcciones declaradas como monumentos inmuebles o ubicadas en zonas protegidas, a las que se refiere la Ley Federal de Monumentos y Zonas Arqueológicas Artísticas e Históricas, la Ley de Patrimonio Cultural del Estado de Nuevo León o en su caso aquellas zonas o inmuebles que hayan sido determinadas de preservación del patrimonio cultural mediante los Catálogos de Monumentos Inmuebles Históricos o Artísticos correspondientes, no podrán ejecutarse nuevas construcciones, obras o instalaciones de cualquier naturaleza sin recabar, previa a la autorización Municipal, la del instituto Nacional de Antropología e Historia o autoridad competente.
+III. Una vez integrada la solicitud con toda la documentación requerida por este Reglamento, la Autoridad que corresponda, deberá resolver las solicitudes presentadas en el plazo que la ley o las demás disposiciones legales determinen, o a falta de esta, será de 30 días hábiles, contados a partir de su recepción, de no hacerlo en el tiempo señalado se considerará negada dicha solicitud.
 
 ###### Artículo 22.
 
@@ -559,6 +635,8 @@ La licencia para construcción que se haya otorgado para un predio que resulte a
 
 La licencia de construcción se podrá revocar cuando haya sido obtenido (sic) con base a documentos falsos o erróneos y casos señalados por la Ley.
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2013)</small>
+
 ###### Artículo 26.
 
 La vigencia de las licencias iniciará a partir del día siguiente a la notificación correspondiente y dependerá de los metros cuadrados de construcción conforme a la siguiente clasificación:
@@ -568,6 +646,8 @@ I. Hasta 250.00 metros cuadrados de construcción - 1 año;
 II. De 251.00 metros cuadrados y hasta 1,000.00 metros cuadrados de construcción - 2 años; y
 
 III. Mayor de 1,000.00 metros cuadrados de construcción - 3 años.
+
+La vigencia para las licencias de demolición en general incluida la demolición de bardas, será de 01-un año, e iniciará a partir del día siguiente a la notificación correspondiente previo el pago de derechos municipales, cuando proceda. En caso de que no se efectúe la demolición dentro del plazo otorgado, se deberá ingresar y obtener una nueva autorización.
 
 ###### Artículo 27.
 
@@ -598,6 +678,18 @@ La Autoridad competente previa expedición de la prórroga ordenará una visita 
 ###### Artículo 29.
 
 La caducidad de la instancia administrativa correspondiente, operará cuando en un término de 60 días hábiles siguientes al ingreso de la solicitud, el solicitante se abstenga de proseguir el curso normal del trámite, ó habiéndose resuelto la tramitación no se muestre interés en concluirlo; en estos supuestos, la Secretaría emitirá un acuerdo ordenando el archivo del expediente como asunto caducado, el cual deberá ser notificado al solicitante.
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2013)</small>
+
+###### Artículo 29 Bis.
+
+Quienes comparezcan al procedimiento administrativo deberán tener interés jurídico, debiendo designar domicilio para oír y recibir notificaciones dentro del Área Metropolitana de Monterrey, Nuevo León; de no cumplir con dicha prevención, las notificaciones serán efectuadas por medio de instructivo que se fijará en la tabla de avisos o en lugar visible del recinto oficial de (sic) Secretaría.
+
+Asimismo en caso de que el domicilio que se designe para efectos de oír y recibir notificaciones no exista, no se encuentre persona alguna que atienda la diligencia, o el inmueble se encuentre desocupado, las notificaciones serán efectuadas por medio de instructivo que se fijará en la tabla de avisos o en lugar visible del recinto oficial de la Secretaría.
+
+En el instructivo a que se refiere este artículo, se hará constar el número de expediente de trámite, el nombre y apellidos del interesado, el objeto y naturaleza de la promoción, y copia intregra de la determinación materia de la notificación, la fecha y hora en que se entregue el instructivo y el nombre y apellido de la persona a quien se entrega, el cual será notificado al propietario, responsable, encargado u ocupante o a cualquier otra persona capaz, que se encuentre en el domicilio de la diligencia.
+
+Si las presentes se niegan a recibirlo, el notificador o inspector dará razón de ello, en presencia de dos testigos entregando copia a la persona con quien entendió la diligencia, aunque se hubiere negado a firmar, lo cual no afectará la validez de la diligencia, ni del documento de que se trate, siempre y cuando el notificador o inspector haga constar tal circunstancia en el instructivo.
 
 ### CAPÍTULO V. DEL PROCESO DE CONSTRUCCIÓN
 
@@ -779,15 +871,15 @@ Cualquier protección a los transeúntes que deba ser colocada en la vía públi
 
 Las construcciones destinadas para áreas de estacionamiento deberán estar adecuadamente ventilados e iluminados, con señalamiento que establezcan las normas técnicas, prever un área de espacio para caseta de control y servicio sanitario, protección adecuada para resistir los posibles impactos de los vehículos y una área de circulación peatonal separada de la circulación de vehículos.
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2013)</small>
+
 ###### Artículo 64.
 
 El alineamiento oficial es la traza sobre el terreno que limita el predio respectivo con la vía pública en uso o con la futura vía pública determinada en los planes y programas de desarrollo urbano vigentes.
 
 El alineamiento contendrá las afectaciones y restricciones de carácter urbano que señale la Ley, los planes, programas y reglamentos correspondientes. La autoridad municipal expedirá un documento que consigne el alineamiento oficial al que se refiere el párrafo anterior, en los casos de su competencia.
 
-En las superficies previstas como afectación vial se prohíbe realizar cualquier tipo de construcción u obstrucción; pudiendo ser utilizada dicha superficie como área ajardinada o estacionamiento, en cuyo caso los cajones habilitados no deberán ser tomados en cuenta al cumplir con las obligaciones reglamentarias indicadas en el Plan, relativa al requerimiento mínimo de cajones de estacionamiento.
-
-> <small>N. DE E. VÉASE IMAGEN EN EL P.O. DE 21 DE JUNIO DE 2010, PÁGINA 33.</small>
+En las superficies previstas como afectación vial se prohíbe realizar cualquier tipo de construcción u obstrucción; pudiendo ser utilizada dicha superficie como área ajardinada o estacionamiento, en cuyo caso el área ajardinada y/o los cajones habilitados no deberán ser tomados en cuenta al cumplir con las obligaciones reglamentarias indicadas en el Plan, relativas a los requerimientos mínimos exigidos para ambos supuestos
 
 ###### Artículo 65.
 
@@ -969,6 +1061,8 @@ Las tuberías que conduzcan gas deberán ser selladas herméticamente y probadas
 
 Las instalaciones eléctricas de las construcciones deberán cumplir con los lineamientos señalados por el organismo prestador del servicio.
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2013)</small>
+
 ###### Artículo 91.
 
 Para llevar a cabo una demolición total o parcial de una obra, deberá contar con la licencia correspondiente, debiendo cumplir con los siguientes requisitos:
@@ -976,6 +1070,8 @@ Para llevar a cabo una demolición total o parcial de una obra, deberá contar c
 Requisitos para la obtención de licencias de demolición según su tipo
 
 > <small>N. DE E. VÉASE TABLA EN EL P.O. DE 21 DE JUNIO DE 2010, PÁGINA 40.</small>
+
+> <small>N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 24 DE MAYO DE 2013, PÁGINA 43.</small>
 
 DESCRIPCIÓN DE LOS REQUISITOS DE LA TABLA ANTERIOR:
 
@@ -995,7 +1091,7 @@ DESCRIPCIÓN DE LOS REQUISITOS DE LA TABLA ANTERIOR:
 
 8. Carta responsiva de Director Responsable de Obra, anexando cédula profesional;
 
-9. Dictamen de la dependencia competente en materia de protección civil; y
+9. Dictamen de la dependencia competente en materia de protección civil; particularmente, se considera al Patronato de Bomberos de Nuevo León, A.C. como la instancia competente para la realización de estudios y análisis de riesgo en las medidas de prevención contra incendios;
 
 10. Póliza de seguro de responsabilidad civil contra terceros.
 
@@ -1075,11 +1171,15 @@ Se considerarán cargas vivas las fuerzas que se producen por el uso y ocupació
 
 Las cargas vivas no incluyen el peso de muros divisores de mampostería o de otros materiales, ni el de muebles, equipos u objetos de peso fuera de lo común, como cajas fuertes de gran tamaño, archivos importantes, libreros pesados o cortinajes en salas de espectáculos. Cuando se prevén tales cargas deberán cuantificarse y tomarse en cuenta en el diseño en forma independiente de la carga viva especificada. Los valores adoptados deberán justificarse en la memoria de cálculo e indicarse en los planos estructurales.
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2013)</small>
+
 ###### Artículo 104.
 
-Para la aplicación de las cargas vivas unitarias se deberán tomar en consideración: La carga viva mínima “Wm” recomendada, ésta se deberá emplear para diseño estructural por fuerzas gravitacionales para calcular asentamiento inmediato en suelos, así como en el diseño estructural de los cimientos ante cargas gravitacionales.
+Para la aplicación de las cargas vivas unitarias se deberán tomar en Consideración: La carga viva mínima "Wm" recomendada, ésta se deberá emplear para diseño estructural por fuerzas gravitacionales para calcular asentamiento inmediato en suelos, así como en el diseño estructural de los cimientos ante cargas gravitacionales.
 
 > <small>N. DE E. VÉASE TABLA EN EL P.O. DE 21 DE JUNIO DE 2010, PÁGINA 45.</small>
+
+> <small>N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 24 DE MAYO DE 2013, PÁGINA 44.</small>
 
 ###### Artículo 105.
 
@@ -1145,9 +1245,17 @@ Los esfuerzos o deformaciones en las fronteras suelo-estructura necesarios para 
 
 Para realizar la excavación en donde haya nivel freático, se podrán usar pozos de bombeo con objeto de reducir las filtraciones y mejorar la estabilidad. Sin embargo, la duración del bombeo deberá ser tan corta como sea posible y se tomarán las precauciones necesarias para que sus efectos queden prácticamente circunscritos al área del trabajo. En este caso, para la evaluación de los estados límite de servicio a considerar en el diseño de la excavación, se tomarán en cuenta los movimientos del terreno debidos al bombeo.
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2013)</small>
+
 ###### Artículo 117.
 
-Los muros de contención exteriores construidos para dar estabilidad a desniveles del terreno, deberán diseñarse de tal forma que no se rebasen los siguientes: Estado limite de falla, volteo, desplazamiento del muro, falla de la cimentación del mismo o del talud que lo soporta, o bien rotura estructural. Además se revisaran los estados limites de servicio, como asentamiento, giro o deformación excesiva del muro. Los muros incluirán un sistema de drenaje que limite el desarrollo de empuje superiores a los de diseño por efecto de presión del agua. Debiendo observarse además lo dispuesto por este Reglamento, en lo relativo a las construcciones en zonas en declive.
+Los muros de contención exteriores construidos para dar estabilidad a desniveles del terreno, deberán diseñarse considerando lo siguiente:
+
+El Estado limite de falla, volteo, desplazamiento del muro, falla de la cimentación del mismo o del talud que lo soporta, rotura estructural. Además, se revisarán los estados limites de servicio, como asentamiento, giro o deformación excesiva del muro.
+
+Los muros incluirán un sistema de drenaje que limite el desarrollo de empuje superiores a los de diseño por efecto de presión del agua.
+
+Los análisis de muros de contención que colinden con vialidades se deberán considerar las sobrecargas superficiales por carga vehicular, debiendo observar las normas técnicas aplicables como la (AASHTO American Association of State Highway and Transportation Officials), dependiendo del tipo de tránsito vehicular
 
 ###### Artículo 118.
 
@@ -1183,9 +1291,11 @@ V. Incluir una revisión detallada de la cimentación y de las instalaciones ant
 
 VI. Será sometido al proceso de revisión que establezca la Autoridad competente en materia de protección civil para la obtención de la licencia respectiva.
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2013)</small>
+
 ###### Artículo 122.
 
-Las obras provisionales como tribunas para eventos especiales, tapiales, obras falsas y cimbras, pasos de carácter temporal para peatones o vehículos durante obras viales o de otro tipo, deberán proyectarse para cumplir los requisitos de seguridad de este Reglamento y demás disposiciones de carácter general aplicables.
+Las obras provisionales como tribunas para eventos especiales, tapiales, obras falsas y cimbras, pasos de carácter temporal para peatones o vehículos durante obras viales o de otro tipo, deberán proyectarse para cumplir los requisitos de seguridad, obtener las autorizaciones correspondientes quedando obligados a respetar el plazo de vigencia otorgada. Vencido el plazo deberán ser retiradas a su costa acorde a lo establecido en el presente artículo.
 
 ### CAPÍTULO VII. DE LA TERMINACIÓN DE OBRA
 
@@ -1193,13 +1303,15 @@ Las obras provisionales como tribunas para eventos especiales, tapiales, obras f
 
 El propietario o poseedor o el Director Responsable de Obra o el Asesor profesional contratado, juntos o por separado, deberán facilitar a la autoridad municipal, el oficio de obra terminada, en donde el profesionista dará fe, bajo protesta de decir verdad, que la obra fue ejecutada bajo su supervisión o asesoría, y cumpliendo con las normas que la ingeniería exige y conforme a lo autorizado.
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2013)</small>
+
 ###### Artículo 124.
 
 El oficio de terminación de obra, servirá para:
 
-I. Iniciar el cómputo de tiempo de 1-un año para que cese la responsabilidad del profesionista, o antes si el propietario o poseedor hiciere cambios, reformas, agregados, cambie el uso del suelo, o someta la estructura a cargas distintas a las de diseño, sin consentimiento del profesionista;
+I. Iniciar el cómputo de tiempo de 1-un año para que cese la responsabilidad del profesionista, o antes sí el propietario o poseedor hiciere cambios, reformas, agregados, cambie el uso del suelo, o someta la estructura a cargas distintas a las de diseño, sin consentimiento del profesionista;
 
-II. Para autorizar el uso u ocupación de la edificación. En los casos de construcciones Tipo 3b, 4a, 4b y 4c, se exigirá el dictamen de la autoridad competente en materia de Protección Civil. En el caso de construcciones de uso público Tipo 4a, 4b y 4c, cuando existan dudas o evidencias del empleo de materiales de mala calidad, de algún daño estructural o cuando no se haya presentado previamente la memoria de cálculo estructural, se deberá someter el edificio o la obra a la prueba de carga física, de la que dará fe el Municipio y en consecuencia, autorizará o negará el uso y ocupación de la edificación. Para llevar a cabo esta prueba, se regirá por los siguientes parámetros:
+II. Para autorizar el uso u ocupación de la edificación. En los casos de construcciones Tipo 3b, 4a, 4b y 4c, se exigirá el dictamen de la autoridad competente en materia de Protección Civil. Particularmente se considera al Patronato de Bomberos de Nuevo león, A.C., como la institución competente para la realización de estudios y análisis de riesgo en la medidas de prevención contra incendios. En el caso de construcciones de uso público Tipo 4a, 4b y 4c, cuando existan dudas o evidencias del empleo de materiales de mala calidad, de algún daño estructural o cuando no se haya presentado previamente la memoria de cálculo estructural, se deberá someter el edificio o la obra a la prueba de carga física, de la que dará fe el Municipio y en consecuencia, autorizará o negará el uso y ocupación de la edificación. Para llevar a cabo esta prueba, se regirá por los siguientes parámetros:
 
 A) Cuando la obra tenga varias secciones iguales o parecidas, se podrá llevar a cabo la prueba en algunas de ellas, que sea representativa del resto. Mínimo 3 secciones;
 
@@ -1223,6 +1335,8 @@ J) Cuando se requiera evaluar pruebas de carga para la seguridad de una edificac
 
 ### CAPÍTULO VIII. DE LA REGULARIZACIÓN DE CONSTRUCCIÓN
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2013)</small>
+
 ###### Artículo 125.
 
 La Autoridad municipal estará facultada para ordenar la demolición parcial o total de una obra, por haberse ejecutado en contravención a la Ley, Plan o Programa, este Reglamento y demás normas de carácter general en materia de desarrollo urbano, independientemente de las sanciones que procedan, cuando haga valer esta disposición ante autoridad judicial competente, corriendo los gastos por el propietario o poseedor de la obra. Cuando se demuestre que la obra cumple con este Reglamento y los demás ordenamientos legales respectivos, la autoridad municipal concederá la regularización mediante la presentación de la siguiente documentación:
@@ -1230,6 +1344,8 @@ La Autoridad municipal estará facultada para ordenar la demolición parcial o t
 Requisitos para la obtención de regularización de construcciones, según su Tipo:
 
 > <small>N. DE E. VÉASE TABLA EN EL P.O. DE 21 DE JUNIO DE 2010, PÁGINA 53.</small>
+
+> <small>N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 24 DE MAYO DE 2013, PÁGINA 47.</small>
 
 DESCRIPCIÓN DE LOS REQUISITOS DE LA TABLA ANTERIOR:
 
@@ -1247,13 +1363,13 @@ DESCRIPCIÓN DE LOS REQUISITOS DE LA TABLA ANTERIOR:
 
 7. Alineamiento vial;
 
-8. Dictamen del proyecto por la dependencia competente en materia de Protección Civil;
+8. Dictamen del proyecto por la dependencia competente en materia de Protección Civil; particularmente, se considera al Patronato de Bomberos de Nuevo León, A.C. como la institución competente para la realización de estudios y análisis de riesgo en la medida de prevención contra incendios;
 
 9. Estudio de impacto vial; y,
 
-10. Presentar informe pormenorizado de revisión estructural del inmueble, ilustrado con fotografías y gráficos, debidamente firmado por un Asesor estructural, acompañada de copia de su cédula profesional legalmente expedida.
+10. Presentar estudio de revisión estructural del inmueble, basado en un método de análisis, que evalúe las cargas actuantes y la respuesta de la estructura, la cimentación y el suelo que la sustenta; debiendo considerar las cargas vivas del uso específico, en los términos a que se refiere el artículo 104, de este Reglamento.
 
-Se exceptúan de la regularización de construcciones, aquellas edificaciones de uso industrial pesado, y aquellas construcciones que se encuentren en zonas de alto riesgo o de posesión irregular.
+El estudio señalado deberá ser firmado por el Asesor Estructural, y contendrá las especificaciones y medidas de remediación necesarias apoyado de ilustraciones gráficas y fotográficas, haciendo una descripción de lo observado en el mismo.
 
 ### CAPÍTULO IX. DE LA CONSERVACIÓN DE PREDIOS
 
@@ -1488,3 +1604,11 @@ PRESIDENTE MUNICIPAL
 C. JUAN CARLOS RUÍZ GARCÍA
 
 SECRETARIO DEL R. AYUNTAMIENTO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 24 DE MAYO DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+Las presentes reformas por modificación, adición y derogación del Reglamento para las Construcciones del Municipio de Monterrey, Nuevo León, entrará (sic) en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
