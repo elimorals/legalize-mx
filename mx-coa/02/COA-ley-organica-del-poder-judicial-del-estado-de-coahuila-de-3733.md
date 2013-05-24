@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-poder-judicial-del-estado-de-coahuila-de-3733"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-12-11"
-last_updated: "2013-04-26"
+last_updated: "2013-05-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3733&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "COA"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE MAYO DE 2013 EN EL P.O. SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE COAHUILA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2013.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 24 DE MAYO DE 2013.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 11 de diciembre de 1990.
 
@@ -48,8 +48,6 @@ El ejercicio de la potestad jurisdiccional en todo tipo de procesos, corresponde
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 El Tribunal Electoral, con excepción de lo dispuesto en el artículo 158 de la Constitución Política del Estado, el Tribunal de lo Contencioso-Administrativo, el Tribunal de Conciliación y Arbitraje y el Tribunal de Apelación Especializado en materia de Adolescentes, serán máximas autoridades jurisdiccionales en la materia y órganos especializados del Poder Judicial; los tres primeros en los términos que establece el artículo 136 de dicha Constitución y el último por imperativo del artículo 18 de la Constitución Política de los Estados Unidos Mexicanos; así como por lo dispuesto en las demás leyes aplicables.
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE MAYO DE 2013 EN EL P.O. SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
@@ -107,7 +105,9 @@ Asimismo, los Juzgados letrados podrán conocer de diversa materia o cuantía se
 
 VI.- El Consejo de la Judicatura, el cual tendrá bajo su estructura administrativa al:
 
-a) Centro de Medios Alternos de Solución de Controversias del Poder Judicial, el cual ser (sic) regirá bajo lo dispuesto en la Ley de Medios Alternos y Solución de Controversias para el Estado de Coahuila de Zaragoza y demás disposiciones aplicables.
+> <small>(F. DE E., P.O. 24 DE MAYO DE 2013)</small>
+
+a) Centro de Medios Alternos de Solución de Controversias del Poder Judicial, el cual se regirá bajo lo dispuesto en la Ley de Medios Alternos de Solución de Controversias para el Estado de Coahuila de Zaragoza y demás disposiciones aplicables.
 
 VII.- Los demás órganos que con cualquier otra denominación determinen las leyes o sean creados por las autoridades competentes.
 
@@ -283,7 +283,7 @@ VII.- Resolver, en única instancia, las demandas que por responsabilidad civil 
 
 VIII.- Ejercer la jurisdicción disciplinaria que le corresponde por faltas administrativas, excepto la que sea competencia del Consejo de la Judicatura, en los términos del capítulo IV del título décimo de esta ley;
 
-> <small>(REFORMADA, P.O. 18 DE MAYO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MAYO DE 1999)</small>
 
 IX.- Fijar jurisprudencia por reiteración o por contradicción en los términos que establezca esta ley.
 
@@ -1407,8 +1407,6 @@ V.- De los negocios de la competencia de los jueces de Primera Instancia en los 
 
 VI.- De los demás asuntos que le encomienden las leyes.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE MAYO DE 2013 EN EL P.O. SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 34.
@@ -1427,7 +1425,11 @@ III.- De la diligenciación de exhortos, requisitorias, rogatorias, suplicatoria
 
 IV.- De los demás asuntos que les competan de acuerdo con las leyes.
 
-> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2013)</small>
+(ADICIONADO, P.O. 19 DE OCTUBRE DE 2012) (F. DE E., P.O. 24 DE MAYO DE 2013)
+
+El Consejo de la Judicatura autorizará, con atención a las necesidades del servicio y a la disponibilidad presupuestal, la creación de una instancia única especializada para conocer, de manera concurrente con la Federación, de los delitos o conductas tipificadas como delitos contra la salud, en su modalidad de narcomenudeo, en términos de lo dispuesto en el artículo 474 de la Ley General de Salud y los correlativos del Título Cuarto, Libro Segundo, del Código Penal de Coahuila.
+
+(ADICIONADO, P.O. 26 DE ABRIL DE 2013) (F. DE E., P.O. 24 DE MAYO DE 2013)
 
 Los órganos jurisdiccionales en materia penal que conozcan del nuevo sistema de justicia procesal acusatorio se regularán conforme a lo dispuesto por el Título Décimo Cuarto de esta Ley.
 
@@ -1641,7 +1643,7 @@ IV.- Preparar anualmente el anteproyecto del Presupuesto de Egresos del Poder Ju
 
 > <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
 
-V.- Manejar y administrar la revista de información judicial;
+V.- Manejar y administrar la Revista de información judicial;
 
 VI.- Llevar el control de la información estadística de todas las dependencias del Poder Judicial; y
 
@@ -1668,8 +1670,6 @@ Los demás servidores públicos de las dependencias judiciales, desempeñarán l
 ###### ARTICULO 55.
 
 El Pleno del Tribunal Superior de Justicia determinará los requisitos que deban satisfacer los pasantes que cumplan con su servicio social, adscritos a las diversas dependencias del Poder Judicial y les señalará sus derechos y deberes.
-
-> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
 
 Los pasantes de cada dependencia deberán llevar un libro y cumplir con las obligaciones inherentes al puesto de su asignación.
 
@@ -4191,11 +4191,11 @@ La Presidencia del Tribunal depurará y compilará las tesis, los criterios o ac
 
 La Presidencia del Tribunal publicará semestralmente en el Boletín de Información Judicial del Estado los criterios enviados, así como las tesis de jurisprudencia por reiteración, contradicción o declaración.
 
-> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE ABRIL DE 2013)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE ABRIL DE 2013)</small>
 
 ## TÍTULO DÉCIMO CUARTO. DEL SISTEMA DE JUSTICIA PROCESAL PENAL ACUSATORIO
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE ABRIL DE 2013)</small>
+T R A N S I T O R I O S
 
 ### CAPÍTULO I. DE LA FUNCIÓN JURISDICCIONAL
 
@@ -4487,7 +4487,7 @@ Para el desempeño de las atribuciones a su cargo, el administrador contará con
 
 La organización, funcionamiento, administración, vigilancia y disciplina de los jueces y tribunales penales serán regulados por los acuerdos que emita el Consejo de la Judicatura.
 
-T R A N S I T O R I O S
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE ABRIL DE 2013)</small>
 
 ###### ARTICULO PRIMERO.
 
