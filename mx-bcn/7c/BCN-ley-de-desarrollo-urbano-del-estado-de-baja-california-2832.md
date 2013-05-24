@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-desarrollo-urbano-del-estado-de-baja-california-2832"
 country: "mx"
 rank: "ley"
 publication_date: "1994-06-24"
-last_updated: "2013-03-22"
+last_updated: "2013-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2013.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 24 de junio de 1994.
 
@@ -1505,6 +1505,10 @@ Se consideran áreas naturales protegidas, en los términos de la Ley General de
 
 La reglamentación del uso y conservación de los parques urbanos corresponderá a los Ayuntamientos de la Entidad.
 
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 2013)</small>
+
+En la reglamentación a que se refiere el párrafo anterior, se buscará prever aquellas disposiciones que tengan por objeto impulsar la implementación de la conexión gratuita a internet en los parques urbanos.
+
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 115.
@@ -1545,17 +1549,23 @@ d) Polígonos de integración metropolitana.
 
 En el ordenamiento territorial, que comprende la zonificación de las áreas y los usos del suelo, destinos y reservas territoriales en el Estado de Baja California, se determinarán los polígonos para la ubicación de Estaciones de Servicio y Abastecimiento denominadas gasolineras sujetándose a las siguientes condiciones:
 
-I. Los predios para el establecimiento de gasolineras o Estaciones de Servicio deberán estar localizados sobre accesos a carreteras, autopistas, libramientos, vías primarias o principales, colectoras, así como en aquéllos predios cuya ubicación sea compatible y conforme a los Programas de Desarrollo Urbano Municipal;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
+
+I.- Los predios para el establecimiento de gasolineras o Estaciones de Servicio, así como expendedoras de gas licuado de petróleo deberán estar localizados sobre accesos a carreteras, autopistas, libramientos, vías primarias o principales, colectoras, así como en aquéllos predios cuya ubicación sea compatible y conforme a los Programas de Desarrollo Urbano Municipal;
 
 II. Las Estaciones de Servicio con venta directa al público o de autoconsumo, cumplirán con las disposiciones en materia de protección civil, ambiental, de seguridad, y demás legislación aplicable, y se ubicarán a una distancia de, cuando menos, 1,000 metros en forma radial una de otra, dentro de zona urbana, y de 10,000 metros cuando su ubicación sea en carreteras concesionadas, federales, estatales y secundarias;
 
-III. El predio deberá ubicarse a una distancia mínima de resguardo de 300 metros radiales de centros de concentración de personas tales como escuelas, hospitales, centros de desarrollo Infantil o guarderías; y de 150 metros radiales, respecto de mercados, cines, teatros, centros de culto religioso, auditorios, así como en cualquier otro sitio, en el que exista una concentración de cien o más personas, de manera habitual o transitoria;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
+
+III.- El predio deberá ubicarse a una distancia mínima de resguardo de 300 metros radiales de centros de concentración de personas tales como escuelas, hospitales, centros de desarrollo infantil o guarderías; y de 150 metros radiales, respecto de centros comerciales, mercados, cines, teatros, centros de culto religioso, auditorios, condominios, conjuntos habitacionales, privadas residenciales, así como en cualquier otro sitio, en el que exista una concentración de cien o más personas, de manera habitual o transitoria;
 
 IV. El predio debe ubicarse a una distancia mínima de resguardo de 150 metros radiales respecto de plantas de almacenamiento de gas licuado del petróleo y de aquéllos centros de despacho a sistemas de carburación automotor e industrias de alto riesgo que empleen productos químicos, soldadura, fundición, fuego, entre otros, así como del comercio que emplee gas con sistema estacionario con capacidad de almacenamiento mayor a 500 litros;
 
 V. Los tanques de almacenamiento deberán ubicarse a una distancia mínima de resguardo de 30 metros con respecto a líneas eléctricas de alta tensión, de los ejes de vías férreas, así como de los ductos que transporten algún derivado del petróleo;
 
-VI. Las bombas expendedoras de gasolina y/o carburante y sus tanques de almacenamiento, deberán quedar a una distancia mínima de 15 metros de un área residencial;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
+
+VI.- Las bombas expendedoras de gasolina, gas licuado de petróleo y/o carburante y sus tanques de almacenamiento, deberán quedar a una distancia mínima de 30 metros de un área residencial;
 
 VII. Los tanques de autoconsumo que se instalen, deberán cumplir con los requisitos y especificaciones emitidos por la Secretaría de Energía y Petróleos Mexicanos;
 
@@ -2684,3 +2694,17 @@ Primero.- Las presentes reformas entrarán en vigor al día siguiente de su publ
 P.O. 22 DE MARZO DE 2013.
 
 ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 24 DE MAYO DE 2013.
+
+DECRETO NÚMERO 453, POR EL QUE SE APRUEBAN LAS REFORMAS A LAS FRACCIONES I, III Y VI DEL PÁRRAFO QUINTO DEL ARTÍCULO 117 DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE BAJA CALIFORNIA.
+
+PRIMERO.- Las presentes reformas, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- En un término que no exceda de 60 días, el Poder Ejecutivo del Estado y los Ayuntamientos harán las modificaciones a sus respectivos reglamentos.
+
+DECRETO NÚMERO 452, POR EL QUE SE APRUEBA LA ADICIÓN DE UN SEGUNDO PÁRRAFO AL ARTICULO 114 DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE BAJA CALIFORNIA.
+
+P.O. 24 DE MAYO DE 2013.
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
