@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-al-ambiente-para-el-estado-de-baja-23012"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-30"
-last_updated: "2013-04-12"
+last_updated: "2013-05-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2013.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 30 de noviembre de 2001.
 
@@ -753,9 +753,17 @@ IV. El desarrollo de programas de educación e investigación en materia ambient
 
 V. Restauración de sitios contaminados.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 2013)</small>
 
-VI. El desarrollo y adquisición de nuevas tecnologías en materia de prevención y mitigación de contaminación ambiental.
+VI. El desarrollo y adquisición de nuevas tecnologías en materia de prevención y mitigación de contaminación ambiental;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE MAYO DE 2013)</small>
+
+VII. La promoción de la participación de grupos y organizaciones sociales y empresariales, instituciones académicas y de investigación; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE MAYO DE 2013)</small>
+
+VIII. El fortalecimiento de los programas ambientales en los municipios.
 
 Todo lo relacionado con la integración, administración y gasto de los recursos constitutivos de dichos fondos serán establecidos en el reglamento respectivo, el cual será aprobado por el Consejo, o en su caso los reglamentos municipales.
 
@@ -2778,3 +2786,9 @@ P.O. 12 DE ABRIL DE 2013.
 PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- La Secretaría de Protección al Ambiente para el Estado de Baja California tendrá un plazo de 90 días para determinar las reglas de operación bajo las cuales se realizarán dichos estudios.
+
+P.O. 24 DE MAYO DE 2013.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El titular del Poder Ejecutivo y los Ayuntamientos del Estado en el ámbito de su competencia, deberán expedir en un plazo no mayor a 60 días el Reglamento de Operación de los Fondos Ambientales establecidos en los artículos 3, 13, 38, 39 y 104 de la Ley de Protección al Ambiente para el Estado de Baja California.
