@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-las-construcciones-del-municipio-de-garcia-6697
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-02-06"
-last_updated: "2009-02-06"
+last_updated: "2013-05-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66971&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO PARA LAS CONSTRUCCIONES DEL MUNICIPIO DE GARCIA, NUEVO LEON
 
-REGLAMENTO PARA LAS CONSTRUCCIONES DEL MUNICIPIO DE GARCIA, NUEVO LEON
+REGLAMENTO PARA LAS CONSTRUCCIONES DEL MUNICIPIO DE GARCÍA, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO PARA LAS CONSTRUCCIONES DEL MUNICIPIO DE GARCÍA, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 24 DE MAYO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en la Sección Primera del Periódico Oficial del Estado de Nuevo León, el viernes 6 de febrero de 2009.
 
@@ -247,7 +249,7 @@ II.- Para construcciones Tipo 5 (USO PUBLICO) que por su magnitud y complejidad 
 
 TABLA DE REQUISITOS PARA LA OBTENCION DE PERMISOS DE CONSTRUCCION SEGÚN SU TIPO
 
-> <small>N. DE E. VEASE TABLA EN LA SECCION PRIMERA DEL P.O. DE 6 DE FEBRERO DE 2009, PAGINA 85.</small>
+> <small>N. DE E. VÉASE TABLA EN LA SECCIÓN PRIMERA DEL P.O. DE 6 DE FEBRERO DE 2009, PAGINA 85.</small>
 
 Para las construcciones TIPO B Y C, se agregarán los requisitos propios de su magnitud y uso, según la capacidad de sus ocupantes.
 
@@ -2254,3 +2256,13 @@ LIC. ARNULFO TELLEZ ZAVALA
 C. SECRETARIO DE AYUNTAMIENTO
 
 Dado en el Salón de Sesiones del R. Ayuntamiento, en la Ciudad de García, Nuevo León, a los catorce días del mes de Febrero de dos mil ocho.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 24 DE MAYO DE 2013.
+
+PRIMERO.- Se abroga el Reglamento para las Construcciones del Municipio de García, Nuevo León, publicado en el Periódico Oficial del Estado en fecha 6 de febrero de 2009, y se derogan las Disposiciones Reglamentarias y Administrativas Municipales que se opongan a las de este Reglamento.
+
+SEGUNDO.- El presente Reglamento para las Construcciones del Municipio de García, Nuevo León, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+TERCERO.- Envíese al Periódico Oficial del Estado para su publicación.
