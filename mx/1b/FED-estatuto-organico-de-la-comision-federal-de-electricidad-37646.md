@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-federal-de-electricidad-37646"
 country: "mx"
 rank: "estatuto"
 publication_date: "2004-03-10"
-last_updated: "2012-10-19"
+last_updated: "2013-05-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37646&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2004-01-08"
 
 ESTATUTO ORGÁNICO DE LA COMISIÓN FEDERAL DE ELECTRICIDAD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE MAYO DE 2013.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 10 de marzo de 2004.
 
@@ -365,11 +365,15 @@ XIX. Autorizar a los mandatarios para pleitos y cobranzas o actos de administrac
 
 XX. Las demás facultades que la Junta de Gobierno decida otorgarle y las que establezcan las disposiciones aplicables.
 
-### Capítulo IV. De las Direcciones
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 24 DE MAYO DE 2013)</small>
+
+### CAPÍTULO IV. De las Direcciones y del Abogado General
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE MAYO DE 2013)</small>
 
 ###### Artículo 9o.
 
-A cargo de cada Dirección habrá un Director, quien tendrá, en el ámbito de su competencia, las facultades genéricas siguientes:
+Los Directores y el Abogado General tendrán, en el ámbito de su competencia, las facultades genéricas siguientes:
 
 I. Planear, programar, organizar, dirigir y supervisar el funcionamiento de las áreas administrativas adscritas.
 
@@ -387,9 +391,15 @@ VI. Suscribir los documentos relativos al ejercicio de sus facultades y las que 
 
 VII. Proporcionar la información solicitada por autoridad competente o por unidades administrativas de la Comisión y expedir constancias de los documentos que obren en sus archivos. Asimismo, expedir, a petición del interesado, copias certificadas de los documentos que obren en los archivos de las respectivas unidades administrativas de la Comisión, en términos de lo dispuesto en el artículo 42 de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y 51 de su Reglamento.
 
-VIII. Asegurar el buen uso y preservar los bienes asignados a la Dirección a su cargo, y
+VIII. Asegurar el buen uso y preservar los bienes asignados a la Dirección a su cargo, y (sic)
 
-IX. Las demás facultades que le confieran la Junta de Gobierno, el Director General, los manuales y los ordenamientos aplicables.
+> <small>(ADICIONADA, D.O.F. 24 DE MAYO DE 2013)</small>
+
+IX. Supervisar que las Unidades Administrativas a su cargo, realicen, oportunamente, el registro de los procedimientos de contratación o de los convenios o contratos que pretendan suscribirse, cuando el asunto, por su monto u otra característica o complejidad, puedan afectar el patrimonio de la Comisión o la eficiente prestación del servicio público de energía eléctrica; así como las servidumbres legales y demás derechos inmobiliarios para constituir el registro inmobiliario de la Comisión.
+
+> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 2013)</small>
+
+X. Las demás facultades que les confieran la Junta de Gobierno, el Director General, los manuales y los ordenamientos aplicables.
 
 ###### Artículo 10.
 
@@ -441,7 +451,7 @@ IV. Participar en la administración del Fondo de la Habitación y Servicios Soc
 
 V. Dirigir, controlar y normar acciones y estrategias referidas a los procesos de administración de riesgos, recursos materiales, abastecimientos, servicios generales, y lo relativo a la racionalización de activos.
 
-VI. Dictar los lineamientos y criterios para la atención y supervisión de los asuntos jurídicos de la Comisión.
+VI. (DEROGADA, D.O.F. 24 DE MAYO DE 2013)
 
 VII. Coordinar los programas de desarrollo social, de transparencia, así como el acceso a la información pública de la entidad, y
 
@@ -485,11 +495,61 @@ VII. Promover la innovación, desarrollo de gestión de propiedad intelectual, d
 
 VIII. Dirigir la política de Calidad y Competitividad de la Comisión.
 
-### Capítulo V. Del Abogado General y de las Subdirecciones
+> <small>(ADICIONADO, D.O.F. 24 DE MAYO DE 2013)</small>
+
+###### Artículo 14 Bis.
+
+Al Abogado General le corresponden además de las facultades genéricas señaladas en el artículo 9o. de este Estatuto, las siguientes:
+
+I. Representar legalmente a la Comisión y a su Director General, ante los tribunales y demás autoridades, así como ante las instancias arbitrales.
+
+II. Defender los intereses jurídicos de la Comisión y representarla en los juicios, procedimientos y recursos administrativos, judiciales, laborales o arbitrales en que sea parte o tenga interés jurídico. Estas facultades también podrán ejercerlas el Gerente de Asuntos Contenciosos y los titulares de las Áreas Administrativas Regionales. El Gerente de Relaciones Laborales también podrá ejercerlas en el ámbito de su competencia.
+
+III. Fungir como órgano jurídico central para homologar los criterios, normas, principios y procedimientos en todas las áreas jurídicas de la Comisión; coordinar todas las áreas jurídicas regionales y de las propias Direcciones de la Comisión y apoyar en la atención de los asuntos de carácter jurídico en que intervenga la Comisión para el cumplimiento de su objeto.
+
+IV. Establecer los criterios para prevenir problemas jurídicos en las servidumbres legales, vigilar el otorgamiento de los títulos de propiedad y establecer un registro inmobiliario de la Comisión que se regirá conforme a lo previsto en el manual de procedimientos que para tal efecto expida.
+
+V. Establecer, sin perjuicio de la atención oportuna que deben dar las áreas jurídicas a cargo de las unidades administrativas en que se encuentran adscritas, los lineamientos para el registro y seguimiento de los procedimientos de contratación o de los convenios o contratos que pretendan suscribirse, cuando el asunto, por su monto u otra característica o complejidad, puedan afectar el patrimonio de la Comisión o la eficiente prestación del servicio público de energía eléctrica.
+
+VI. Administrar el sistema informático que establezca como único instrumento rector para el registro, evaluación y comunicación interna de los asuntos comprendidos en las fracciones anteriores.
+
+VII. Desarrollar las tareas de capacitación, prevención e información de los asuntos de naturaleza jurídica propios de la Comisión.
+
+VIII. Presidir el Consejo Jurídico Consultivo y de Jurismática de la Comisión que se integrará con los responsables que designen las distintas Direcciones, un representante del Órgano Interno de Control y uno de la Dirección General.
+
+IX. Presidir el Consejo Jurídico de Asuntos Internacionales conformado con los representantes jurídicos de las Direcciones y los representantes de los asuntos internacionales en los que interviene la Comisión.
+
+X. Realizar evaluaciones a las áreas jurídicas y presentar anualmente un reporte con sus resultados al Comité de Directores.
+
+XI. Apoyar a las unidades administrativas en las consultas relacionadas con aquellos actos de naturaleza jurídica que puedan implicar responsabilidad, de cualquier tipo, para la Comisión, sin perjuicio de la atención oportuna que deben dar las áreas jurídicas a cargo de las unidades administrativas a que se encuentran adscritas.
+
+XII. Determinar, dentro del ámbito de su competencia y conforme a la normatividad aplicable, los aspectos jurídicos de los manuales que emitan las diferentes unidades administrativas, modelos o formatos de contratos, convenios y garantías, previamente a su aplicación.
+
+XIII. Autorizar la celebración de contratos de prestación de servicios de carácter jurídico y opinar sobre los nombramientos y ratificaciones de personal que en cualquier unidad administrativa desempeñe funciones jurídicas sustantivas.
+
+XIV. Determinar los criterios jurídicos que seguirán las unidades administrativas de la Comisión de acuerdo con el marco jurídico nacional e internacional aplicable.
+
+XV. Asesorar a las unidades administrativas en los asuntos en que la Comisión intervenga o tenga interés jurídico, así como definir los aspectos jurídicos concernientes a actos, convenios o contratos.
+
+XVI. Realizar los estudios e investigaciones jurídicas relacionados con el desarrollo de las facultades de la Comisión; apoyar jurídicamente el proceso de modernización y cambio estructural de la misma, y compilar las normas legales que le conciernen.
+
+XVII. Proporcionar asistencia jurídica en la adquisición por vía de derecho público o privado de bienes inmuebles, en el establecimiento de derechos reales y en los demás actos relacionados con la adquisición de derechos inmobiliarios; así como en la obtención de acuerdos de destino, desincorporación y enajenación de bienes propiedad de la Comisión.
+
+XVIII. Aprobar los criterios jurídicos y lineamientos para la atención de los asuntos de carácter contencioso, laboral, consultivo, internacional y derechos inmobiliarios, sin perjuicio de la atención oportuna que deben dar las áreas jurídicas a cargo de las unidades administrativas en que se encuentran adscritas.
+
+XIX. Establecer políticas y normas para llevar a cabo los litigios de los asuntos de naturaleza laboral.
+
+XX. Podrá ejercer la facultad de atracción de aquellos asuntos jurídicos que por su relevancia se considere pertinente llevar su tramitación.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 24 DE MAYO DE 2013)</small>
+
+### CAPÍTULO V. De las Subdirecciones
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE MAYO DE 2013)</small>
 
 ###### Artículo 15.
 
-El Abogado General y los Subdirectores, estos últimos a cargo de cada Subdirección, en el ámbito de su respectiva competencia, tendrán las facultades genéricas siguientes:
+Los Subdirectores, en el ámbito de su respectiva competencia tendrán las facultades genéricas siguientes:
 
 I. Planear, programar, organizar y supervisar el funcionamiento de las áreas administrativas adscritas.
 
@@ -541,23 +601,7 @@ XV. Las demás facultades que les confieran la Junta de Gobierno, el Director Ge
 
 ###### Artículo 16.
 
-Al Abogado General de la Comisión le corresponden, además de las facultades genéricas señaladas en el artículo anterior, las siguientes:
-
-I. Representar legalmente a la Comisión y a su Director General, ante los tribunales y demás autoridades, así como ante las instancias arbitrales.
-
-> <small>(REFORMADA, D.O.F. 9 DE DICIEMBRE DE 2010)</small>
-
-II. Defender los intereses jurídicos de la Comisión y representarla en los juicios, procedimientos y recursos administrativos, judiciales o arbitrales en que sea parte o tenga interés jurídico. Estas facultades también podrá ejercerlas el Gerente de Asuntos Contenciosos, cuya Gerencia es también una unidad administrativa encargada de la defensa jurídica de la Comisión. Estas facultades también podrán ejercerlas los Titulares de las Areas Administrativas Regionales.
-
-III. Determinar los criterios jurídicos que seguirán las unidades administrativas de la Comisión y las áreas jurídicas regionales de acuerdo con el Marco Jurídico Nacional e Internacional aplicable.
-
-IV. Asesorar a las unidades administrativas en los asuntos en que la Comisión intervenga o tenga interés jurídico, así como emitir opinión en cuanto a los aspectos jurídicos concernientes a actos, convenios o contratos.
-
-V. Proporcionar a las unidades administrativas la solución de consultas legales y el apoyo jurídico que le requieran para que los actos de la Comisión se realicen con estrito (sic) apego al marco legal que rige su actuación.
-
-VI. Realizar los estudios e investigaciones jurídicas relacionados con el desarrollo de las facultades de la Comisión; apoyar jurídicamente el proceso de modernización y cambio estructural de la misma, y compilar las normas legales que le conciernen, y
-
-VII. Proporcionar asistencia jurídica en la adquisición por vía de derecho público o privado de bienes inmuebles, en el establecimiento de derechos reales y en los demás actos relacionados con la adquisición de derechos inmobiliarios; así como en la obtención de acuerdos de destino, desincorporación y enajenación de bienes propiedad de la Comisión.
+(DEROGADO, D.O.F. 24 DE MAYO DE 2013)
 
 ###### Artículo 17.
 
@@ -1167,13 +1211,17 @@ IV. Análisis de Proyectos de Inversión Financiada;
 
 V. Asuntos Contenciosos;
 
-VI. Asuntos Legales Internacionales e Inversiones;
+> <small>(REFORMADA, D.O.F. 24 DE MAYO DE 2013)</small>
+
+VI. Coordinación Regional y de Oficinas Nacionales;
 
 VII. Asuntos Legales y Regulatorios en materia de Telecomunicaciones;
 
 VIII. Atención para Grandes Consumidores;
 
-IX. (DEROGADA, D.O.F. 5 DE SEPTIEMBRE DE 2008)
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 24 DE MAYO DE 2013)</small>
+
+IX. Capacitación, Prevención y Convenios Especiales;
 
 X. Capacitación;
 
@@ -2245,25 +2293,21 @@ El Titular del Area de Responsabilidades se auxiliará de las Subgerencias de Re
 
 ### Capítulo Unico
 
+> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 2013)</small>
+
 ###### Artículo 59.
 
-Durante las ausencias del Director General, el despacho y resolución de los asuntos correspondientes a la Comisión estará a cargo de cada uno de los Directores en la esfera de sus facultades.
+Durante las ausencias del Director General, el despacho y resolución de los asuntos correspondientes estará a cargo de cada uno de los Directores y del Abogado General en la esfera de sus facultades.
 
-> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2010)</small>
+En los juicios de amparo en que el Director General deba intervenir, así como en cualquier otro procedimiento jurisdiccional o contencioso-administrativo, contestación de las demandas e interposición de los Recursos de Revisión a que se refiere la Ley Federal de Procedimiento Contencioso Administrativo será representado o suplido, indistintamente, por el Abogado General o el Gerente de Asuntos Contenciosos y, en materia laboral, por el Director de Administración o el Gerente de Relaciones Laborales.
 
-En los juicios de amparo en que el Director General deba intervenir, así como en cualquier otro procedimiento jurisdiccional o contencioso-administrativo, contestación de las demandas e interposición de los Recursos de Revisión a que se refiere la Ley Federal de Procedimiento Contencioso Administrativo, inclusive la materia laboral, será representado o suplido, indistintamente, por el Director de Administración, el Abogado General o el Gerente de Asuntos Contenciosos.
+> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 2013)</small>
 
 ###### Artículo 60.
 
-Los Directores serán suplidos, indistintamente, por los Subdirectores o Coordinadores que de ellos dependan.
+Los Directores y el Abogado General serán suplidos, indistintamente, por los Subdirectores, Coordinadores o Gerentes que de ellos dependan.
 
-> <small>(F. DE E., D.O.F. 17 DE MARZO DE 2004)</small>
-
-El Abogado General, los Subdirectores y los Coordinadores serán suplidos, indistintamente, por los Gerentes que de ellos dependan.
-
-> <small>(ADICIONADO, D.O.F. 9 DE DICIEMBRE DE 2010)</small>
-
-En los juicios de amparo, los Directores, el Abogado General, Subdirectores y los Coordinadores, serán representados o suplidos, indistintamente, por los Gerentes que de ellos dependan.
+Los Subdirectores y los Coordinadores serán suplidos, indistintamente, por los Gerentes que de ellos dependan.
 
 > <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
@@ -2362,3 +2406,7 @@ D.O.F. 19 DE OCTUBRE DE 2012.
 ###### ARTICULO UNICO.
 
 La presente reforma al Estatuto Orgánico de la Comisión Federal de Electricidad entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 24 DE MAYO DE 2013.
+
+ÚNICO. Las presentes reformas al Estatuto Orgánico de la Comisión Federal de Electricidad entrarán en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
