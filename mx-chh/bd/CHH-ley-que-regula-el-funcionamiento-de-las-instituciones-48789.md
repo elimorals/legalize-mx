@@ -4,7 +4,7 @@ identifier: "CHH-ley-que-regula-el-funcionamiento-de-las-instituciones-48789"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-04"
-last_updated: "2012-09-26"
+last_updated: "2013-05-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY QUE REGULA EL FUNCIONAMIENTO DE LAS INSTITUCIONES PRESTADORAS DE SERVICIOS P
 
 > <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 859/2012, PUBLICADO EN EL P.O. 26 DE SEPTIEMBRE DE 2012, CUANDO EN CUALQUIER OTRO INSTRUMENTO JURÍDICO SE HAGA REFERENCIA A LA SECRETARÍA DE FOMENTO SOCIAL, SE ENTENDERÁ CITADA A LA SECRETARÍA DE DESARROLLO SOCIAL.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2013.
 
 Ley publicada en el periódico oficial del Estado de Chihuahua, el sábado 4 de febrero de 2006.
 
@@ -55,15 +55,17 @@ LEY QUE REGULA EL FUNCIONAMIENTO DE LAS INSTITUCIONES PRESTADORAS DE SERVICIOS P
 
 Las disposiciones de esta Ley y sus reglamentos son de orden público, interés social y de observancia general en el territorio del Estado. Tienen por objeto establecer las bases y procedimientos para la creación, administración y funcionamiento de las instituciones que presten servicios para el cuidado infantil y de menores, en cualquier modalidad.
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2013)</small>
 
 ###### Artículo 2.
 
-Para todo lo no previsto en la presente Ley, se aplicará supletoriamente el Código Administrativo y la Ley de Salud, ambos ordenamientos del Estado de Chihuahua.
+Para todo lo no previsto en la presente Ley, se aplicará supletoriamente el Código Administrativo del Estado, la Ley Estatal de Salud y la Ley Estatal de Educación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MAYO DE 2013)</small>
 
 ###### Artículo 3.
 
-Corresponderá al Ejecutivo del Estado, como autoridad local en materia de salud general, supervisar y evaluar la prestación de los servicios de cuidado infantil y de menores en la Entidad; lo anterior, sin perjuicio de los convenios de coordinación que sobre el particular se celebren con la Federación o con los Municipios.
+Corresponderá al Ejecutivo del Estado, como autoridad local en materia de salud general y de educación, supervisar y evaluar la prestación de los servicios de cuidado infantil y de menores en la Entidad; lo anterior, sin perjuicio de los convenios de coordinación que sobre el particular celebre con la Federación o con los Municipios.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
@@ -121,11 +123,11 @@ VII.- Contrato: El acuerdo suscrito entre el usuario y la institución con el ob
 
 VIII.- Normas técnicas: Conjunto de acuerdos administrativos de carácter general, mediante los cuales la Secretaría desarrolla y clarifica los conceptos abordados por las Normas Oficiales Mexicanas que correspondan, relativos a los requerimientos a los que las instituciones deberán sujetar su actividad.
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2013)</small>
 
 ###### Artículo 5.
 
-Las instituciones deberán propiciar las acciones necesarias para que las niñas y niños adquieran hábitos higiénicos, sana convivencia y cooperación, aprecio por la dignidad de las personas y la integración familiar, evitando privilegios de raza, religión, grupo, sexo o condición económica, en concordancia con su entorno social y su edad, con absoluto respeto a los elementos formativos de estricta incumbencia familiar.
+Las instituciones deberán propiciar las acciones necesarias para que los menores reciban una educación integral que promueva, entre otras cosas, el desarrollo de competencias, la adquisición de hábitos higiénicos, sana convivencia y cooperación, aprecio por la dignidad de las personas y la integridad de la familia, evitando privilegios de raza, religión, grupo, sexo o condición económica, con absoluto respeto a los elementos formativos de estricta incumbencia familiar.
 
 > <small>(REFORMADO, P.O. 28 DE JULIO DE 2012)</small>
 
@@ -221,11 +223,11 @@ VIII.- Programa General de Trabajo orientado a elevar los niveles de salud y edu
 
 Los requisitos que establecen las fracciones anteriores deberán ser, en su caso, adecuados para la atención de menores que presenten alguna discapacidad.
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2013)</small>
 
 ###### Artículo 11.
 
-El Reglamento determinará la cantidad y calidad de los bienes y del personal con que deberá operar cada establecimiento, los cuales deberán ser suficientes para cubrir las necesidades básicas de seguridad, salud, alimentación, aseo, esparcimiento y atención de los infantes y menores a su cargo. Así mismo, determinará lo relativo al estado físico de las instalaciones; todo lo anterior, atendiendo a lo dispuesto por las correspondientes Normas Oficiales Mexicanas, las normas técnicas y demás disposiciones aplicables.
+El Reglamento determinará la cantidad y calidad de los bienes y del personal con que deberá operar cada establecimiento, los cuales deberán ser suficientes para cubrir las necesidades básicas de educación, seguridad, salud, alimentación, aseo, esparcimiento y atención de los infantes y menores a su cargo. Así mismo, determinará lo relativo al estado físico de las instalaciones; todo lo anterior, atendiendo a lo dispuesto por las correspondientes Normas Oficiales Mexicanas, las normas técnicas y demás disposiciones aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2009)</small>
 
@@ -271,7 +273,9 @@ d).- Acta de nacimiento de las personas físicas y, tratándose de personas mora
 
 e).- Carta de no antecedentes penales, en su caso, salvo tratándose de delitos culposos, cuando en estos últimos haya transcurrido el término de tres años.
 
-f).- Autorizaciones y permisos que para el efecto deba expedir la dependencia federal encargada del sector salud y la Secretaría de Relaciones Exteriores, cuando el solicitante sea de nacionalidad extranjera.
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2013)</small>
+
+f).- Autorizaciones y permisos que para el efecto deban expedir las dependencias federales encargadas de los sectores salud y educativo, así como la Secretaría de Relaciones Exteriores cuando el solicitante sea de nacionalidad extranjera.
 
 > <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2009)</small>
 
@@ -280,6 +284,10 @@ g).- Listado con los nombres del personal técnico que, en su caso, tengan bajo 
 > <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2009)</small>
 
 h).- Certificado de capacitación a que se refiere el artículo 22 de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2013)</small>
+
+i).- Constancia expedida por la Secretaría de Educación, Cultura y Deporte, que confirme que el personal de la institución encargado de impartir la educación inicial cuenta con el perfil académico o con la preparación requerida y documentos que lo avalen, así como que cumplan con el proyecto que describa los propósitos previstos en materia educativa, en ambos supuestos con apego a la normatividad establecida para el efecto.
 
 ###### Artículo 16.
 
@@ -323,11 +331,11 @@ La falta de este aviso dará lugar a la sanción prevista en la fracción II, de
 
 ### CAPÍTULO CUARTO. DE LAS CERTIFICACIONES
 
-> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2013)</small>
 
 ###### Artículo 22.
 
-Para la obtención de la licencia, la persona que pretenda instalar o dirigir una institución, deberá contar con la certificación de capacitación que expida la Secretaría de Desarrollo Social.
+Para la obtención de la licencia, la persona que pretenda instalar o dirigir una institución, deberá contar con la certificación de capacitación que expidan, en su respectivo ámbito de competencia, las Secretarías de Desarrollo Social, de Salud y de Educación, Cultura y Deporte.
 
 > <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2009)</small>
 
@@ -562,3 +570,13 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Cuando en cualquier otro instrumento jurídico se haga referencia a la Secretaría de Fomento Social, se entenderá citada a la Secretaría de Desarrollo Social sin que ello afecte su competencia, derechos u obligaciones que haya contraído con antelación a la entrada en vigor del presente Decreto.
+
+P.O. 25 DE MAYO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las instituciones prestadoras de servicios de cuidado infantil y de menores que a la entrada en vigor del presente Decreto se encuentren en funcionamiento, contarán con un plazo de un año para regularizar su situación y obtener la documentación que corresponda conforme a las nuevas disposiciones.
