@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-21296"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-09-30"
-last_updated: "2012-10-16"
+last_updated: "2013-05-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ
 
 > <small>N. DE E. DE CONFORMIDAD CON EL PRIMERO Y SEGUNDO TRANSITORIOS DEL CÓDIGO PENAL DEL ESTADO SAN LUIS POTOSÍ, PUBLICADO EN EL P.O. DE 16 DE OCTUBRE DE 2012, EL PRESENTE ORDENAMIENTO QUEDARÁ ABROGADO EL UNO DE MARZO DEL AÑO DOS MIL CATORCE.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2013.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de septiembre de 2000.
 
@@ -3865,9 +3865,11 @@ En todo centro de reclusión se prestarán servicios de rehabilitación al farma
 
 Cuando el Ministerio Público tenga conocimiento que el propietario, poseedor, arrendatario o usufructuario de un establecimiento de cualquier naturaleza lo empleare para realizar cualquiera de las conductas sancionadas en el presente Título o que permitiere su realización por terceros, informará a la autoridad administrativa competente para que, en ejercicio de sus atribuciones, realice la clausura del establecimiento, sin perjuicio de las sanciones que resulten por la aplicación de la Ley de Extinción de Dominio del Estado de San Luis Potosí, y demás ordenamientos legales aplicables.
 
-> <small>(ADICIONADO CON CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE JULIO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-## TITULO VIGESIMO. DELITOS CONTRA EL AMBIENTE; LA GESTION AMBIENTAL; Y EL DESARROLLO TERRITORIAL SUSTENTABLE
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE MAYO DE 2013)</small>
+
+## TITULO VIGESIMO. DELITOS CONTRA EL AMBIENTE; LA GESTION AMBIENTAL; EL DESARROLLO TERRITORIAL SUSTENTABLE; Y EL MALTRATO A LOS ANIMALES DOMESTICOS
 
 > <small>(ADICIONADO CON ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE JULIO DE 2012)</small>
 
@@ -4085,9 +4087,11 @@ Se impondrán de seis meses a cinco años de prisión y sanción pecuniaria de u
 
 Las mismas sanciones que señala el párrafo anterior, se impondrán a quien lleve a cabo la construcción de una gasolinera o estación de servicio cerca de casas habitación, o lugares de concentración, o dentro de un área natural protegida estatal. En general, a todas aquéllas obras civiles o de servicio que no cuenten con una autorización previa de la Secretaría de Ecología y Gestión Ambiental.
 
-> <small>(ADICIONADO CON ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE JULIO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-### CAPITULO IV. DISPOSICIONES COMUNES A LOS DELITOS PREVISTOS EN ESTE TITULO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE MAYO DE 2013)</small>
+
+### CAPITULO IV. DISPOSICIONES COMUNES A LOS DELITOS PREVISTOS EN LOS CAPITULOS I A III DE ESTE TITULO
 
 > <small>(ADICIONADO, P.O. 31 DE JULIO DE 2012)</small>
 
@@ -4141,11 +4145,31 @@ Tratándose de los delitos previstos en este Título, el trabajo a favor de la c
 
 En caso de concurso de delitos, en lo referente a la reparación del daño, tendrá preferencia la reparación del daño ambiental; con excepción de la reparación de los daños a la salud, integridad de las personas, o a la vida.
 
-> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2013)</small>
 
 ###### ARTICULO 354.
 
-Cuando en la comisión de un delito previsto en este Título intervenga un servidor público en ejercicio, con motivo de sus funciones o aprovechándose de su calidad de servidor, la pena de prisión se aumentará en una mitad y será destituido del cargo, e inhabilitará para ocupar empleo o comisión en el servicio público de tres a diez años.
+Cuando en la comisión de un delito previsto en los capítulos I a III de este Título, intervenga un servidor público en ejercicio, con motivo de sus funciones o aprovechándose de su calidad de servidor, la pena de prisión se aumentará en una mitad y será destituido del cargo, e inhabilitará para ocupar empleo o comisión en el servicio público de tres a diez años.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 25 DE MAYO DE 2013)</small>
+
+### CAPITULO V. MALTRATO A LOS ANIMALES DOMESTICOS
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2013)</small>
+
+###### ARTICULO 355.
+
+Comete este delito, quien con ensañamiento o crueldad, por acción u omisión, maltrata animales domésticos, provocándoles lesiones que produzcan un menoscabo físico, o les cause la muerte.
+
+Este delito será castigado con pena de tres meses a un año de prisión, y sanción pecuniaria de diez a cuarenta días de salario mínimo; e inhabilitación hasta por un año para el ejercicio de profesión si el delito lo cometiere un profesional en veterinaria o similar.
+
+Para los efectos de este artículo se entiende por animal doméstico, a aquél que se ha adaptado a vivir y convivir con las personas.
 
 ## TRANSITORIOS
 
@@ -4556,3 +4580,9 @@ CUARTO. Quedan vigentes las disposiciones de carácter penal contenidas en leyes
 QUINTO. En los lugares en que se aplique el sistema procesal penal acusatorio, de conformidad con el artículo transitorio segundo del decreto de reforma constitucional publicado del (sic) dieciocho de junio de dos mil ocho, se aplicarán las reglas previstas para la investigación de los delitos objeto de la (sic) presente Código.
 
 SEXTO. Los poderes, Ejecutivo; y Judicial del Estado expedirán los reglamentos necesarios para la implementación de las disposiciones del presente Decreto, en un plazo de noventa días a partir de la entrada en vigor del mismo.
+
+P.O. 25 DE MAYO DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor a los quince días siguientes al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
