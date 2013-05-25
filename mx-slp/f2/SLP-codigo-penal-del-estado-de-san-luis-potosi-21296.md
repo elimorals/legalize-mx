@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-21296"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-09-30"
-last_updated: "2012-10-16"
+last_updated: "2013-05-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21296&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,77 +21,27 @@ state: "SLP"
 ---
 # CODIGO PENAL DEL ESTADO DE SAN LUIS POTOSI
 
-ACUERDO I/88 DEL TRIBUNAL EN PLENO DEL DIECINUEVE DE ENERO DE MIL NOVECIENTOS OCHENTA Y OCHO
+CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL PRIMERO Y SEGUNDO TRANSITORIOS DEL CÓDIGO PENAL DEL ESTADO SAN LUIS POTOSÍ, PUBLICADO EN EL P.O. DE 16 DE OCTUBRE DE 2012, EL PRESENTE ORDENAMIENTO QUEDARÁ ABROGADO EL UNO DE MARZO DEL AÑO DOS MIL CATORCE.</small>
 
-Acuerdo publicado en el Diario Oficial de la Federación, el lunes 15 de febrero de 1988.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2013.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.-Suprema Corte de Justicia de la Nación.
+Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de septiembre de 2000.
 
-ACUERDO I/88
+FERNANDO SILVA NIETO, Gobernador Constitucional del Estado Libre y Soberano de San Luis Potosí, a sus habitantes sabed:
 
-ACUERDO del tribunal en pleno del diecinueve de enero de mil novecientos ochenta y ocho.
+Que la Quincuagésima Quinta Legislatura Constitucional del Estado se ha servido dirigirme el siguiente:
 
-CONSIDERANDO:
+DECRETO 571
 
-PRIMERO.- Que el artículo 94, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos faculta al Pleno de la Suprema Corte de Justicia de la Nación para emitir acuerdos generales a fin de lograr la mayor prontitud en el despacho, mediante una adecuada distribución entre las Salas, de los asuntos que competa conocer a la Suprema Corte.
+LA QUINCUAGÉSIMA QUINTA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI, DECRETA LO SIGUIENTE:
 
-SEGUNDO.- Que el artículo 12, fracción V, de la Ley Orgánica del Poder Judicial de la Federación, señala como una de las atribuciones de dicho Pleno, la de emitir los acuerdos generales necesarios para la adecuada distribución de los asuntos cuyo conocimiento es de la competencia de las Salas.
+...
 
-TERCERO.- Que el propio artículo 12 en su fracción XXXVII, especifica como atribución del Pleno la de dictar acuerdos generales para remitir a las Salas de la Suprema Corte de Justicia, para su resolución, aquellos asuntos que por sus características especiales considere que no requieren de su intervención.
+CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-CUARTO.- Que del análisis de las Exposiciones de Motivos de las recientes reformas constitucionales y legales referidas al Poder Judicial de la Federación, así como de lo dispuesto en el artículo 11 de la Ley Orgánica del Poder Judicial de la Federación, el Pleno de la Suprema Corte debe ocuparse, fundamentalmente, de cuestiones estrictamente constitucionales.
-
-QUINTO.- Que de acuerdo con lo anterior no se requiere la intervención del Pleno en aquellos asuntos en los que, al resolverse, no se tendrá que abordar cuestiones estrictamente constitucionales.
-
-SEXTO.- Que en términos de la fracción VIII del artículo 11 de la Ley Orgánica del Poder Judicial de la Federación, sólo el Pleno debe conocer de la aplicación de la sanción prevista en la fracción XVI del artículo 107 de la Constitución, en relación con la inejecución de sentencias de amparo y en la repetición del acto reclamado, pero la intervención de dicho Pleno es innecesaria si no debe separarse a la autoridad de su cargo y consignarlas ante el Juez de Distrito que corresponda.
-
-En consecuencia, con apoyo en el párrafo sexto del artículo 94 de la Constitución Política de los Estados Unidos Mexicanos y en el artículo 12, fracciones V y XXXVII, de la Ley Orgánica del Poder Judicial de la Federación, en vigor, este Tribunal en Pleno expide el siguiente
-
-ACUERDO:
-
-PRIMERO.- El Pleno enviará a las Salas de la Suprema Corte de Justicia de la Nación, y en su caso, éstas conservarán para su resolución, los asuntos que, a juicio del ministro ponente, queden comprendidos en las siguientes hipótesis:
-
-I.- Los juicios de amparo en revisión en los que habiéndose reclamado la inconstitucionalidad de una ley federal o local o de un tratado internacional, no proceda entrar al examen de esa cuestión por tener que sobreseer en el juicio, reponer el procedimiento, tener por desistido al quejoso del juicio o al recurrente, decretar la caducidad de la instancia, o desechar el recurso;
-
-II.- Los recursos de revisión en contra de sentencias dictadas en amparo directo por un Tribunal Colegiado de Circuito, en las que se hizo un pronunciamiento sobre la inconstitucionalidad de una ley, cuando no proceda entrar al análisis de esa cuestión porque deba desecharse el recurso o decretarse la caducidad de la instancia o tener por desistido al recurrente o al quejoso del juicio;
-
-III.- Los juicios de amparo en revisión y los recursos de revisión en contra de sentencias dictadas en amparo directo por Tribunales Colegiados de Circuito en los que subsistiendo en el recurso el problema de constitucionalidad y teniendo que resolver sobre el mismo, exista jurisprudencia del Pleno sobre esa cuestión y no existan razones para dejar de aplicarla;
-
-IV.- Los incidentes de inejecución y de inconformidad en que no proceda aplicar la sanción prevista en la fracción XVI del artículo 107 Constitucional.
-
-SEGUNDO.- Se distribuirán en igual número entre las cuatro Salas, los juicios de amparo en revisión de nuevo ingreso contra sentencias dictadas en la audiencia constitucional por los Jueces de Distrito cuando subsista en el recurso el problema de la constitucionalidad, si en la demanda de amparo se hubiese impugnado un reglamento expedido por el Presidente de la República de acuerdo con la fracción I del artículo 89 de la Constitución o un reglamento de ley local expedido por el Gobernador de un Estado, por estimarlo directamente violatorio de un precepto de la Constitución, sin importar la naturaleza jurídica del reglamento.
-
-TERCERO.- En el trámite del envío a las Salas de los asuntos especificados en el punto primero, se cumplirá con lo siguiente:
-
-A.- El secretario proyectista conservará el expediente de que se trate;
-
-B.- El propio secretario proyectista formulará dos proyectos de acuerdo:
-
-1o.- En el que el Presidente de la Suprema Corte de Justicia turne el asunto a la Sala que corresponda, la que deberá ser aquélla en la que se encuentre adscrito el ministro a quien inicialmente se había turnado el asunto;
-
-2o.- En el que el Presidente de la Sala a la que corresponda el asunto turne éste al ministro a quien inicialmente se le había turnado.
-
-C.- Una vez firmados dichos acuerdos, se agregarán al toca, y con celeridad, los Secretarios General de Acuerdos y de Acuerdos de la Sala respectiva, efectuarán los trámites ordenados en los propios acuerdos;
-
-D.- Se harán los ajustes de ingreso y egreso que corresponda en el Pleno y en la Sala.
-
-CUARTO.- Si la Sala a la que haya sido turnado un asunto estima que éste no se encuentra previsto en los casos precisados en el punto primero de este acuerdo, devolverá el toca y los autos al Tribunal Pleno.
-
-QUINTO.- El Pleno podrá, si lo estima conveniente, resolver un asunto aunque se encuentre en alguna de las hipótesis señaladas en este acuerdo.
-
-TRANSITORIO:
-
-UNICO.- Este acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación y en los órganos del Semanario Judicial de la Federación.
-
-Licenciado José Javier Aguilar Domínguez, Secretario General De Acuerdos De La Suprema Corte De Justicia De La Nación,
-
-CERTIFICA:
-
-Que este acuerdo 1/88 relativo a la determinación del envío de asuntos del Pleno a las Salas de este alto Tribunal, fue aprobado por el Tribunal en Pleno en Sesión Privada celebrada el martes diecinueve de enero de mil novecientos ochenta y ocho, por unanimidad de veintiún votos de los señores ministros: Presidente Carlos del Río Rodríguez, Carlos de Silva Nava, Felipe López Contreras, Raúl Cuevas Mantecón, Samuel Alba Leyva, Mariano Azuela Güitrón, Noé Castañón León, Ernesto Díaz Infante, Luis Fernández Doblado, Francisco H. Pavón Vasconcelos, Victoria Adato Green, Santiago Rodríguez Roldán, José Martínez Delgado, Manuel Gutiérrez de Velasco, Atanasio González Martínez, José Manuel Villagordoa Lozano, Fausta Moreno Flores, Angel Suárez Torres, Sergio Hugo Chapital Gutiérrez, Juan Díaz Romero y Ulises Schmill Ordóñez.- México, Distrito Federal, a veintiuno de enero de mil novecientos ochenta y ocho.
-
-El Secretario General de Acuerdos de la Suprema Corte de Justicia de la Nación, José Javier Aguilar Domínguez.- Rúbrica.
+PARTE GENERAL
 
 ## TITULO PRIMERO. APLICACION DE LA LEY PENAL
 
@@ -3915,9 +3865,11 @@ En todo centro de reclusión se prestarán servicios de rehabilitación al farma
 
 Cuando el Ministerio Público tenga conocimiento que el propietario, poseedor, arrendatario o usufructuario de un establecimiento de cualquier naturaleza lo empleare para realizar cualquiera de las conductas sancionadas en el presente Título o que permitiere su realización por terceros, informará a la autoridad administrativa competente para que, en ejercicio de sus atribuciones, realice la clausura del establecimiento, sin perjuicio de las sanciones que resulten por la aplicación de la Ley de Extinción de Dominio del Estado de San Luis Potosí, y demás ordenamientos legales aplicables.
 
-> <small>(ADICIONADO CON CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE JULIO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-## TITULO VIGESIMO. DELITOS CONTRA EL AMBIENTE; LA GESTION AMBIENTAL; Y EL DESARROLLO TERRITORIAL SUSTENTABLE
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE MAYO DE 2013)</small>
+
+## TITULO VIGESIMO. DELITOS CONTRA EL AMBIENTE; LA GESTION AMBIENTAL; EL DESARROLLO TERRITORIAL SUSTENTABLE; Y EL MALTRATO A LOS ANIMALES DOMESTICOS
 
 > <small>(ADICIONADO CON ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE JULIO DE 2012)</small>
 
@@ -4135,9 +4087,11 @@ Se impondrán de seis meses a cinco años de prisión y sanción pecuniaria de u
 
 Las mismas sanciones que señala el párrafo anterior, se impondrán a quien lleve a cabo la construcción de una gasolinera o estación de servicio cerca de casas habitación, o lugares de concentración, o dentro de un área natural protegida estatal. En general, a todas aquéllas obras civiles o de servicio que no cuenten con una autorización previa de la Secretaría de Ecología y Gestión Ambiental.
 
-> <small>(ADICIONADO CON ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE JULIO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-### CAPITULO IV. DISPOSICIONES COMUNES A LOS DELITOS PREVISTOS EN ESTE TITULO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE MAYO DE 2013)</small>
+
+### CAPITULO IV. DISPOSICIONES COMUNES A LOS DELITOS PREVISTOS EN LOS CAPITULOS I A III DE ESTE TITULO
 
 > <small>(ADICIONADO, P.O. 31 DE JULIO DE 2012)</small>
 
@@ -4191,11 +4145,31 @@ Tratándose de los delitos previstos en este Título, el trabajo a favor de la c
 
 En caso de concurso de delitos, en lo referente a la reparación del daño, tendrá preferencia la reparación del daño ambiental; con excepción de la reparación de los daños a la salud, integridad de las personas, o a la vida.
 
-> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2013)</small>
 
 ###### ARTICULO 354.
 
-Cuando en la comisión de un delito previsto en este Título intervenga un servidor público en ejercicio, con motivo de sus funciones o aprovechándose de su calidad de servidor, la pena de prisión se aumentará en una mitad y será destituido del cargo, e inhabilitará para ocupar empleo o comisión en el servicio público de tres a diez años.
+Cuando en la comisión de un delito previsto en los capítulos I a III de este Título, intervenga un servidor público en ejercicio, con motivo de sus funciones o aprovechándose de su calidad de servidor, la pena de prisión se aumentará en una mitad y será destituido del cargo, e inhabilitará para ocupar empleo o comisión en el servicio público de tres a diez años.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 25 DE MAYO DE 2013)</small>
+
+### CAPITULO V. MALTRATO A LOS ANIMALES DOMESTICOS
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2013)</small>
+
+###### ARTICULO 355.
+
+Comete este delito, quien con ensañamiento o crueldad, por acción u omisión, maltrata animales domésticos, provocándoles lesiones que produzcan un menoscabo físico, o les cause la muerte.
+
+Este delito será castigado con pena de tres meses a un año de prisión, y sanción pecuniaria de diez a cuarenta días de salario mínimo; e inhabilitación hasta por un año para el ejercicio de profesión si el delito lo cometiere un profesional en veterinaria o similar.
+
+Para los efectos de este artículo se entiende por animal doméstico, a aquél que se ha adaptado a vivir y convivir con las personas.
 
 ## TRANSITORIOS
 
@@ -4269,7 +4243,7 @@ c) El Director del Centro de Readaptación Social para Menores, "Profesor Angel 
 
 Las medidas impuestas, tanto las de internamiento, como las de externación, serán adecuadas por el Juez de Ejecución.
 
-d) Si las autoridades del Consejo Tutelar par Menores del Estado tuvieren detenidos a menores de catorce años, ordenarán su inmediata libertad. Los nuevos órganos y autoridades proseguirán con el trámite del procedimiento, de acuerdo con las reglas de la Ley de Justicia para Menores del Estado de San Luis Potosí, salvo en los aspectos en que resulte más benéfica para el menor, la aplicación de la ley que se abroga.
+d) Si las autoridades del Consejo Tutelar para Menores del Estado tuvieren detenidos a menores de catorce años, ordenarán su inmediata libertad. Los nuevos órganos y autoridades proseguirán con el trámite del procedimiento, de acuerdo con las reglas de la Ley de Justicia para Menores del Estado de San Luis Potosí, salvo en los aspectos en que resulte más benéfica para el menor, la aplicación de la ley que se abroga.
 
 P.O. 10 DE MARZO DE 2007.
 
@@ -4592,3 +4566,23 @@ PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. El Ejecutivo del Estado expedirá en ciento veinte días los reglamentos a que se refiere este Decreto; y adecuará aquellos que así lo requieran.
+
+P.O. 16 DE OCTUBRE DE 2012.
+
+PRIMERO. El presente Decreto entrará en vigor el uno de marzo del año dos mil catorce, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Al entrar en vigor el presente ordenamiento, se abroga el Código Penal del Estado de San Luis Potosí, publicado en el Periódico Oficial el Estado en el Decreto 571, el treinta de septiembre del año dos mil.
+
+TERCERO. El Código abrogado y los anteriores seguirán aplicándose para los hechos u omisiones ejecutados durante su vigencia, a menos que, conforme al presente Código, hayan dejado de considerarse como delitos o que este ordenamiento resulte más favorable. Así mismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos.
+
+CUARTO. Quedan vigentes las disposiciones de carácter penal contenidas en leyes especiales, en todo lo que no esté previsto en este Código.
+
+QUINTO. En los lugares en que se aplique el sistema procesal penal acusatorio, de conformidad con el artículo transitorio segundo del decreto de reforma constitucional publicado del (sic) dieciocho de junio de dos mil ocho, se aplicarán las reglas previstas para la investigación de los delitos objeto de la (sic) presente Código.
+
+SEXTO. Los poderes, Ejecutivo; y Judicial del Estado expedirán los reglamentos necesarios para la implementación de las disposiciones del presente Decreto, en un plazo de noventa días a partir de la entrada en vigor del mismo.
+
+P.O. 25 DE MAYO DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor a los quince días siguientes al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
