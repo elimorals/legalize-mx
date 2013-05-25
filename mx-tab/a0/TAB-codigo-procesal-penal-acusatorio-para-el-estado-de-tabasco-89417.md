@@ -4,7 +4,7 @@ identifier: "TAB-codigo-procesal-penal-acusatorio-para-el-estado-de-tabasco-8941
 country: "mx"
 rank: "codigo"
 publication_date: "2012-08-29"
-last_updated: "2012-08-29"
+last_updated: "2013-05-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89417&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CÓDIGO PROCESAL PENAL ACUSATORIO PARA EL ESTADO DE TABASCO
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO, LA INCORPORACIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO EN EL ESTADO DE TABASCO SERÁ GRADUAL Y POR REGIONES; EN CONSECUENCIA, LA VIGENCIA Y APLICACIÓN SERÁ DE LA FORMA QUE INDICA DICHO ARTÍCULO.</small>
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2013.
 
 Código publicado en el Suplemento C del Periódico Oficial del Estado de Tabasco, el miércoles 29 de agosto de 2012.
 
@@ -5081,11 +5081,13 @@ Lo relativo a las sucesivas fijaciones, extinción, sustitución en caso de ley 
 
 El presente Código Procesal Penal Acusatorio para el Estado de Tabasco entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, en la forma y fechas dispuestas en los artículos siguientes.
 
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2013)</small>
+
 ###### ARTÍCULO SEGUNDO.
 
 La incorporación del sistema Procesal Penal Acusatorio en el Estado de Tabasco será gradual y por regiones; en consecuencia, la vigencia y aplicación será de la forma siguiente:
 
-En la Región 1. El municipio de Macuspana el 28 de septiembre del 2012. Región 2. El municipio de Cunduacan el 9 de diciembre del 2013 Región 3. Los municipios de Jalapa, Tacotalpa y Teapa 11 de agosto del 2014. Región 4. Los municipios de Tenosique, Balancan, Emiliano Zapata y Jonuta 8 de diciembre del 2014. Región 5. Los municipios de Paraíso y Centla el 24 de agosto de 2015. Región 6. Los municipios de Nacajuca, Jalpa de Méndez y Comalcalco el 24 de agosto del 2015. Región 7. Los municipios de Huimanguillo y Cárdenas el 7 de diciembre del 2015. Región 8. El municipio de Centro el 7 de marzo del 2016.
+En la Región 1. El municipio de Macuspana, el 28 de septiembre del 2012. Región 2. El municipio de Cunduacán, el 6 de abril del 2015 Región 3. Los municipios de Jalapa, Tacotalpa y Teapa, el 6 de octubre del 2014. Región 4. Los municipios de Tenosique, Balancán, Emiliano Zapata y Jonuta, el 19 de octubre del 2015. Región 5. Los municipios de Paraíso y Centla, el 15 de diciembre del 2014. Región 6. Los municipios de Nacajuca, Jalpa de Méndez y Comalcalco, el 24 de agosto del 2015. Región 7. El municipio de Huimanguillo, el 7 de diciembre del 2015. Región 8. El municipio de Cárdenas, el 25 de abril del 2016. Región 9. El municipio de Centro, el 6 de junio del 2016.
 
 ###### ARTÍCULO TERCERO.
 
@@ -5128,3 +5130,11 @@ CONSEJERO JURÍDICO DEL PODER EJECUTIVO DEL ESTADO.
 LIC. RAFAEL MIGUEL GONZÁLEZ LASTRA
 
 SECRETARIO DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE MAYO DE 2013.
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones jurídicas que se opongan al presente Decreto.
