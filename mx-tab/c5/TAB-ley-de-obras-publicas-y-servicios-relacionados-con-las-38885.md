@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-obras-publicas-y-servicios-relacionados-con-las-38885"
 country: "mx"
 rank: "ley"
 publication_date: "2004-04-07"
-last_updated: "2011-09-28"
+last_updated: "2013-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAB"
 ---
 # LEY DE OBRAS PUBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE TABASCO
 
-LEY DE OBRAS PUBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE TABASCO
+LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2013.
 
 Ley publicada en el suplemento al Periódico Oficial del Estado de Tabasco, el miércoles 7 de abril de 2004.
 
@@ -127,7 +127,7 @@ VII.- Los proyectos integrales o llave en mano, a que se refieren las fracciones
 
 VIII.- Todos aquellos de naturaleza análoga.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2006)</small>
 
 ###### Artículo 4.
 
@@ -271,7 +271,7 @@ Los actos, contratos y convenios que las Dependencias y Entidades realicen o cel
 
 Para la planeación de la Obra Pública y de los Servicios relacionados con las mismas, las Dependencias y Entidades deberán sujetarse a:
 
-I.- Los lineamientos establecidos en el Sistema Nacional de Planeación Democrática para el Desarrollo, a los objetivos, políticas, prioridades, estrategias y líneas de acción señalados en los planes Nacional, Estatal y Municipal de Desarrollo, así como en los correspondientes programas que elaboren el Gobierno Estatal y Municipal a nivel sectorial y regional a corto, mediano y largo plazo, de acuerdo a los recursos presupuestales, en su implementación y, en su caso, los Convenios que sean celebrados con los Gobiernos Federal, Estatal y Municipal según corresponda;
+I.- Los lineamientos establecidos en el Sistema Nacional de Planeación Democrática para el Desarrollo, a los objetivos, políticas, prioridades, estrategias y líneas de acción señalados en los planes Nacional, Estatal y Municipal de Desarrollo, así como en los correspondientes programas que elaboren el Gobierno Estatal y Municipal a nivel sectorial y regional a corto, mediano y largo plazo, de acuerdo a los recursos presupuestales, en su implementación y en su caso, los Convenios que sean celebrados con los Gobiernos Federal, Estatal y Municipal según corresponda;
 
 II.- Considerar, de manera jerarquizada, las necesidades estatales, regionales, municipales y de beneficio social, ambiental y económico que estos representen, así como también tomar en cuenta en los proyectos las características ambientales, climáticas y geográficas de la región donde deba realizarse la obra pública;
 
@@ -999,9 +999,7 @@ III.- Utilizar preferentemente los materiales de la región; y
 
 IV.- Utilizar los servicios de fletes y acarreos complementarios, preferentemente a empresas que tengan domicilio fiscal en el Estado.
 
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2006)</small>
-
-La suma de las operaciones que se realicen al amparo de este artículo no podrá exceder del cuarenta por ciento de la inversión física total autorizada para Obras Públicas o del monto anual destinado a los servicios relacionados con las mismas en cada ejercicio presupuestal según sea el caso.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 25 DE MAYO DE 2013)</small>
 
 En la ejecución de las obras por administración directa, bajo ninguna circunstancia podrán participar terceros como contratistas, sean cuales fueren las condiciones particulares, naturaleza jurídica o modalidades que estos adopten.
 
@@ -1215,7 +1213,7 @@ LIC. JAIME HUMBERTO LASTRA BASTAR
 
 SECRETARIO DE GOBIERNO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 25 DE NOVIEMBRE DE 2006.
 
@@ -1228,3 +1226,11 @@ P.O. 28 DE SEPTIEMBRE DE 2011.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 25 DE MAYO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor a los tres días siguientes al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Remítase un ejemplar del presente Decreto a la H. Suprema Corte de Justicia de la Nación, para que obre agregado en el Expediente de la Controversia Constitucional 24/2006.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan a este Decreto.
