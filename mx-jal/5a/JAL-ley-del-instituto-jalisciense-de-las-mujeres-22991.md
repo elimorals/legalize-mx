@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-instituto-jalisciense-de-las-mujeres-22991"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-29"
-last_updated: "2008-05-27"
+last_updated: "2013-05-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL INSTITUTO JALISCIENSE DE LAS MUJERES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MAYO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2013.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 29 de diciembre de 2001.
 
@@ -163,7 +163,9 @@ XXI. Realizar estudios, generar estadísticas y difundir todo tipo de datos, que
 
 XXII. Llevar acciones concretas a favor de las trabajadoras domésticas, la defensa de sus derechos y la revalorización de su labor económicamente activa;
 
-XXIII. Realizar todo tipo de acuerdos, convenios y compromisos, con instituciones gubernamentales, privadas y sociales, que conlleven a un programa especial de becas para niñas y jóvenes que les permita concluir con sus estudios;
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2013)</small>
+
+XXIII. Realizar todo tipo de acuerdos, convenios y compromisos con instituciones gubernamentales, privadas y sociales, que conlleven a un programa especial de becas para niñas y jóvenes que les permita concluir con sus estudios, en especial a las mujeres señaladas en la fracción XVIII del presente artículo;
 
 XXIV. Llevar a cabo programas que tiendan a resolver el problema de violencia intrafamiliar, así como para prevenir los delitos contra la integridad física y sexual de las mujeres;
 
@@ -668,3 +670,7 @@ CUARTO. El Consejo Estatal deberá integrarse dentro de los siguientes 60 días 
 QUINTO. El Ejecutivo del Estado y los gobiernos municipales, acorde a su disponibilidad presupuestal, procurarán instalar y mantener centros de refugios temporales distribuidos en el estado de acuerdo a las necesidades, buscando tener cobertura para todas las mujeres victimas de violencia que lo requieran.
 
 SEXTO. Los procedimientos de mediación y conciliación contemplados en la Ley para la Prevención y Atención de la Violencia Intrafamiliar del estado de Jalisco, se llevarán acabo (sic) de conformidad con el procedimiento vigente hasta su conclusión, aplicándose los métodos alternos para la prevención y en su caso la solución de conflictos, a partir de que entre en vigor la Ley de Justicia Alternativa del estado de Jalisco.
+
+P.O. 25 DE MAYO DE 2013.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
