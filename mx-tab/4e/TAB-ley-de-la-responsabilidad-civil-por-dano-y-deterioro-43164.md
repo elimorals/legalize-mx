@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-la-responsabilidad-civil-por-dano-y-deterioro-43164"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-29"
-last_updated: "2004-12-29"
+last_updated: "2013-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43164&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE RESPONSABILIDAD CIVIL POR DAÑO Y DETERIORO AMBIENTAL DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2013.
 
 Ley publicada en el Suplemento "J" al Periódico Oficial del Estado de Tabasco, el 29 de diciembre de 2004.
 
@@ -59,7 +59,9 @@ VI. Restauración: La restitución de las condiciones químicas, físicas o biol
 
 VII. Contener el deterioro ambiental: Todas las medidas tendientes a limitar y evitar el deterioro ambiental en un tiempo y espacio determinados; y,
 
-VIII. Secretaría: La Secretaría de Desarrollo Social y Protección al Medio Ambiente, o el órgano del Poder Ejecutivo que en un futuro ejerza las funciones inherentes a ésta.
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2013)</small>
+
+VIII. Secretaría: La Secretaría de Energía, Recursos Naturales y Protección Ambiental, o el órgano del Poder Ejecutivo que en un futuro ejerza las funciones inherentes a ésta.
 
 Artículo 3° En los términos establecidos por ésta ley, son responsables las personas físicas o jurídicas colectivas que, por sí o a través de sus representantes, administradores o empleados, generen daño o deterioro ambiental, con motivo de sus actos u omisiones en la realización de actividades con incidencia ambiental.
 
@@ -214,3 +216,9 @@ GOBERNADOR DEL ESTADO DE TABASCO.
 LIC. JAIME HUMBERTO LASTRA BASTAR
 
 SECRETARIO DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE MAYO DE 2013.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
