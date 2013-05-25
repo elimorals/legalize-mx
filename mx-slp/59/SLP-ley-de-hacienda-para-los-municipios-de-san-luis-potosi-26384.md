@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-los-municipios-de-san-luis-potosi-26384"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-06"
-last_updated: "2012-10-09"
+last_updated: "2013-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26384&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2013.
 
 Ley publicada en la Sección Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 6 de noviembre de 2001.
 
@@ -195,13 +195,13 @@ El impuesto predial será anual y su pago deberá hacerse por bimestres adelanta
 
 Cuando se trate de incentivos y estímulos fiscales a la inversión y a la generación de empleos, los ayuntamientos podrán incluir en su iniciativa de Ley de Ingresos, los descuentos e incentivos que consideren convenientes para el impulso y fortalecimiento del desarrollo económico del municipio.
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2013)</small>
 
-Tratándose de personas mayores de 60 años; jubilados; pensionados; e indígenas, los ayuntamientos podrán someter a la consideración de la Legislatura estatal, en su Iniciativa de Ley de Ingresos, una reducción en el pago de este impuesto, sin que ésta exceda del 50% del mismo.
+Tratándose de personas mayores de 60 años; jubilados; pensionados; personas discapacitadas; e indígenas, los ayuntamientos podrán someter a la consideración de la Legislatura Estatal, en su iniciativa de ley de ingresos, una reducción en el pago de este impuesto hasta por un 70% del mismo.
 
-> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2013)</small>
 
-En el caso de los indígenas, la reducción de hasta un 50% se hará sobre los predios cuyo valor catastral se indique en la Ley de Ingresos correspondiente.
+En el caso de los indígenas, la reducción de hasta un 70% se hará sobre los predios cuyo valor catastral se indique en la ley de ingresos correspondiente.
 
 > <small>(ADICIONADO, P.O. 3 DE JULIO DE 2007)</small>
 
@@ -806,6 +806,12 @@ P.O. 9 DE OCTUBRE DE 2012.
 PRIMERO.- Estas reformas y adiciones entraran en vigor al día siguientes (sic) de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se abrogan y derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 25 DE MAYO DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
 
 ###### ARTICULO 82.
 
