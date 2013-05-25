@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-salud-del-estado-de-chihuahua-87300"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-14"
-last_updated: "2013-04-17"
+last_updated: "2013-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87300&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2013.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 14 de abril de 2012.
 
@@ -728,6 +728,10 @@ II.- La atención del niño y la vigilancia de su crecimiento y desarrollo.
 III.- La vacunación gratuita y oportuna, cuyo cumplimiento se deberá exigir por las instituciones educativas particulares y oficiales como requisito indispensable para la inscripción en los diferentes niveles de educación básica en todo el Estado.
 
 IV.- La protección de la integración y del bienestar familiar.
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2013)</small>
+
+V.- La aplicación del tamiz neonatal y que este se actualice progresivamente, privilegiando las enfermedades endémicas del Estado.
 
 ###### Artículo 68.
 
@@ -1711,6 +1715,8 @@ La Secretaría coordinará las acciones con las autoridades educativas de la Ent
 
 ### CAPÍTULO IV. PROGRAMAS PARA LA ATENCIÓN DE LAS ADICCIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MAYO DE 2013)</small>
+
 ###### Artículo 185.
 
 La Secretaría formulará y desarrollará el programa de nutrición, el cual deberá contener las siguientes acciones:
@@ -1837,7 +1843,7 @@ Se promoverá la actividad física en las áreas deportivas y zonas verdes, con 
 
 ###### Artículo 202.
 
-El Ejecutivo del Estado implementará, coadyuvará y se coordinará con las autoridades sanitarias federales para la ejecución del programa contra las adicciones, como el alcoholismo, el abuso de bebidas alcohólicas, tabaquismo y farmacodependencia, que comprenderá, entre otras, las siguientes:
+El Ejecutivo del Estado implementará, coadyuvará y se coordinará con las autoridades sanitarias federales para la ejecución del programa contra las adicciones, como el alcoholismo, el abuso de bebidas alcohólicas, tabaquismo, farmacodependencia y ludopatía, que comprenderá, entre otras, las siguientes:
 
 A) Del alcoholismo y abuso de bebidas alcohólicas:
 
@@ -1864,6 +1870,16 @@ El Ejecutivo del Estado coadyuvará con la Secretaría de Salud Federal, en la e
 Las campañas de información y sensibilización que reciba la población, deberán estar basadas en estudios científicos y alertar, de manera adecuada, sobre los efectos y daños físicos y psicológicos del consumo de estupefacientes y psicotrópicos.
 
 La Secretaría contará con un órgano desconcentrado que implementará un programa integral de atención a las adicciones, de conformidad con la Ley General de Salud, esta Ley y las normas aplicables.
+
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2013)</small>
+
+D) De Ludopatía:
+
+I. Prevención y tratamiento de la ludopatía y, en su caso, la rehabilitación de los adictos.
+
+II. Educación sobre los efectos de la ludopatía en la salud y en las relaciones sociales.
+
+III. Fomento de actividades cívicas, deportivas y culturales, que coadyuven en la prevención de la ludopatía, en los grupos de población considerados de alto riesgo.
 
 ###### Artículo 203.
 
@@ -3384,6 +3400,22 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 Dentro del término de 90 días siguientes a la entrada en vigor del presente Decreto, se deberán expedir las disposiciones reglamentarias en la materia.
 
 P.O. 17 DE ABRIL DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE MAYO DE 2013.
+
+DECRETO No. 1231/2013 II P.O. POR EL QUE SE REFORMA EL PRIMER PÁRRAFO Y SE ADICIONA UN INCISO D), AL ARTÍCULO 202 DE LA LEY ESTATAL DE SALUD.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE MAYO DE 2013.
+
+DECRETO No. 1239/2013 II P.O. POR EL QUE SE ADICIONA UNA FRACCIÓN V AL ARTÍCULO 67, DE LA LEY ESTATAL DE SALUD.
 
 ###### ARTÍCULO ÚNICO.
 
