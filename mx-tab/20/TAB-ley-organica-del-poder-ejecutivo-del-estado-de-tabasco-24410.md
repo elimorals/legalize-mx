@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-del-poder-ejecutivo-del-estado-de-tabasco-24410"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-03-22"
-last_updated: "2012-12-26"
+last_updated: "2013-05-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24410&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el viernes 22 de marzo de 2002.
 
@@ -615,7 +615,9 @@ VII. Formular, con la participación de las unidades y dependencias competentes,
 
 VIII. Formular y presentar al Gobernador los proyectos y sus modificaciones de Ley de Ingresos, del Presupuesto de Egresos y el Programa Financiero del Estado, de acuerdo a la Ley Estatal de Presupuesto, Contabilidad y Gasto Público;
 
-IX. Fungir como Secretariado Técnico del Comité de Planeación para el Desarrollo del Estado de Tabasco, así como asegurar su participación en los trabajos para la elaboración del Anteproyecto de Presupuesto de Egresos, desde la perspectiva de la congruencia del mismo con el Plan Estatal de Desarrollo y con los programas sectoriales, institucionales, regionales y especiales;
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2013)</small>
+
+IX. Fungir como Coordinador General y Secretariado Técnico del Comité de Planeación para el Desarrollo del Estado de Tabasco, así como asegurar su participación en los trabajos para la elaboración del Anteproyecto de Presupuesto de Egresos, desde la perspectiva de la congruencia del mismo con el Plan Estatal de Desarrollo y con los programas sectoriales, institucionales, regionales y especiales;
 
 X. Presentar al Comité de Planeación para el Desarrollo del Estado de Tabasco el anteproyecto de Presupuesto de Egresos, así como el apartado de inversiones públicas y acciones de fomento, asegurando su interrelación y congruencia con el Plan Estatal de Desarrollo;
 
@@ -1916,3 +1918,9 @@ DÉCIMO. Los asuntos administrativos que con motivo de este Decreto deban pasar 
 DÉCIMO PRIMERO. Se faculta al Gobernador del Estado para que, en términos de la Ley de Presupuesto, Contabilidad y Gasto Público y el Decreto que autoriza el Presupuesto General de Egresos del Estado para el ejercicio del año 2013, realice los ajustes necesarios a dicho presupuesto, a fin de que resulte congruente con las modificaciones a la estructura orgánica del Poder Ejecutivo, debiendo comunicar de ello en los informes de evaluación del ejercicio del gasto público que legalmente se rindiere al Congreso del Estado, a través de su órgano técnico.
 
 DÉCIMO SEGUNDO. Se derogan todas las disposiciones jurídicas que se opongan al presente Decreto.
+
+P.O. 25 DE MAYO DE 2013.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente decreto.
