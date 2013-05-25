@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-planeacion-9023"
 country: "mx"
 rank: "ley"
 publication_date: "1983-07-13"
-last_updated: "2011-11-02"
+last_updated: "2013-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9023&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,9 @@ state: "TAB"
 ---
 # LEY DE PLANEACION
 
-LEY DE PLANEACIÓN
+LEY DE PLANEACIÓN DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el miércoles 13 de julio de 1983.
 
@@ -124,11 +124,13 @@ XIII. PLED: Plan Estatal de Desarrollo;
 
 XIV. Presupuesto Basado en Resultados: Metodología utilizada para la integración de los presupuestos de egresos estatal y municipales con base en una definición clara y sencilla de los objetivos, así como de los resultados proyectados y alcanzados en el ejercicio del gasto público;
 
-XV. SAF: Secretaría de Administración y Finanzas;
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2013)</small>
+
+XV. Secretaría: Secretaría de Planeación y Finanzas.
 
 XVI. SECOTAB: Secretaría de Contraloría;
 
-XVII. SEPLADES: Secretaría de Planeación y Desarrollo Social;
+XVII. (DEROGADA, P.O. 25 DE MAYO DE 2013)
 
 XVIII. Sistema Estatal de Evaluación del Desempeño: Conjunto de elementos metodológicos que permiten realizar una valoración objetiva del desempeño de los programas y proyectos, bajo los principios de verificación del grado de cumplimiento de metas y objetivos, con base en indicadores estratégicos y de gestión que permitan conocer los resultados e impacto de la aplicación de los recursos públicos; y
 
@@ -198,11 +200,11 @@ Lo dispuesto en el párrafo anterior será aplicable a las Entidades de la Admin
 
 Los proyectos de iniciativas de Leyes y los Reglamentos, Decretos y Acuerdos que formule el Ejecutivo Estatal, señalarán las relaciones que, en su caso, existan entre el proyecto de que se trate y el Plan y los programas respectivos.
 
-> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2013)</small>
 
 ###### ARTICULO 13.
 
-En caso de duda sobre la interpretación de las disposiciones de esta Ley se estará a lo que resuelva el Ejecutivo Estatal, por conducto de la SEPLADES.
+En caso de duda sobre la interpretación de las disposiciones de esta Ley se estará a lo que resuelva el Ejecutivo Estatal, por conducto de la Secretaría.
 
 ### CAPITULO SEGUNDO
 
@@ -222,11 +224,11 @@ Las dependencias y entidades de la administración pública estatal y los Munici
 
 Las disposiciones reglamentarias de esta Ley establecerán las normas de organización y funcionamiento de la Planeación Estratégica y Participativa y el proceso de planeación a que deberán sujetarse las actividades conducentes a la formulación, instrumentación, control y evaluación de los planes y programas a que se refiere esta Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MAYO DE 2013)</small>
 
 ###### ARTICULO 16.
 
-La SEPLADES con el apoyo de los Entes Públicos de la Administración Pública Federal, Estatal y Municipal, integradas en un Comité de Planeación para el Desarrollo del Estado de Tabasco, tendrá las siguientes atribuciones.
+La Secretaría con el apoyo de los Entes Públicos de la Administración Pública Federal, Estatal y Municipal, integradas en un Comité de Planeación para el Desarrollo de Tabasco, tendrá las siguientes atribuciones:
 
 I.- Coordinar las actividades de la Planeación Estatal del Desarrollo;
 
@@ -244,67 +246,99 @@ V.- Coordinar las actividades, que en materia de investigación y capacitación 
 
 VI.- Integrar los programas anuales globales para la ejecución del PLED y de los programas sectoriales y especiales, tomando en cuenta las propuestas que para el efecto realicen los Entes Públicos;
 
-> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2013)</small>
 
-VII.- Verificar periódicamente, la relación que guardan los programas y presupuestos de los Entes Públicos, así como los resultados de su ejecución, con los objetivos y prioridades del PLED y los programas a que se refiere esta Ley; mediante la utilización de Matriz de Marco Lógico, a fin de adoptar las medidas necesarias que corrijan las desviaciones detectadas y retomar, en su caso, el plan y los programas respectivos; y
+VII.- Verificar periódicamente, la relación que guardan los programas y presupuestos de los Entes Públicos, así como los resultados de su ejecución, con los objetivos y prioridades del PLED y los programas a que se refiere esta Ley; mediante la utilización de Matriz de Marco Lógico, a fin de adoptar las medidas necesarias que corrijan las desviaciones detectadas y retomar, en su caso, el plan y los programas respectivos;
 
 > <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2008)</small>
 
 VIII.- Promover la construcción de indicadores de género, que permitan evaluar el impacto de las políticas públicas contenidas en el Plan desde una perspectiva de género que permita que las acciones de gasto público en las diferentes unidades administrativas, establezcan deliberadamente condiciones reales para mejorar el acceso de las mujeres a los bienes y servicios públicos.
 
-> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 2011)</small>
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2013)</small>
 
-ARTICULO 16 BIS.- El Consejo Estatal de Evaluación estará integrado por los titulares de la SEPLADES, SAF y SECOTAB, mismos que podrán designar a su suplente. El Consejo tendrá las siguientes atribuciones:
+IX.- Coordinar la elaboración del Plan Estatal de Desarrollo; respecto a la definición de las políticas financieras, fiscales y crediticias; estableciendo la congruencia con las políticas que sobre esta materia haya dictado la Federación;
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2013)</small>
+
+X.- Proyectar y calcular los ingresos del Estado, de las entidades paraestatales y de las participaciones municipales, considerando las necesidades de recursos y la utilización del crédito público, para la ejecución del Plan Estatal, de los Planes Municipales y de los programas que de ellos se deriven;
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2013)</small>
+
+XI.- Procurar el cumplimiento de los objetivos y prioridades del Plan Estatal y de los programas, en el ejercicio de sus atribuciones financieras, fiscales y crediticias;
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2013)</small>
+
+XII.- Verificar que las operaciones en que haga uso del crédito público prevean el cumplimiento de los objetivos y prioridades del Plan Estatal y de los programas que de él se deriven;
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2013)</small>
+
+XIII.- Considerar los efectos de la política crediticia adoptada para el logro de los objetivos y prioridades del Plan Estatal y sus Programas; y
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2013)</small>
+
+XIV.- Adecuar y diseñar un sistema de contabilidad, congruente con los objetivos y prioridades del Plan Estatal y de los programas que de él se deriven, de conformidad con los criterios de contabilidad gubernamental.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MAYO DE 2013)</small>
+
+ARTICULO 16 BIS. El Consejo Estatal de Evaluación estará integrado por los titulares de la Secretaría y SECOTAB, mismos que podrán designar a su suplente. El Consejo tendrá las siguientes atribuciones:
+
+> <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2011)</small>
 
 I. Administrará el Sistema Estatal de Evaluación del Desempeño;
 
+> <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2011)</small>
+
 II. Coordinar la evaluación de las políticas públicas, de los programas y de desempeño de los Entes Públicos bajo los principios de independencia, imparcialidad y transparencia;
+
+> <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2011)</small>
 
 III. Emitir lineamientos sobre la metodología para la construcción de Matriz de Marco Lógico e Indicadores de Desempeño;
 
+> <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2011)</small>
+
 IV. Concertar y Validar las Matrices de Marco Lógico que propongan los Entes Públicos, con excepción de los de orden municipal;
+
+> <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2011)</small>
 
 V. Conocer y emitir recomendación sobre las Matrices de Marco Lógico de los Entes Públicos del orden municipal;
 
+> <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2011)</small>
+
 VI. Realizar por sí mismo o a través de terceros las evaluaciones en materia de desempeño;
+
+> <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2011)</small>
 
 VII. Establecer el calendario anual de evaluación de las políticas públicas, de los programas y de desempeño de los Entes Públicos;
 
+> <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2011)</small>
+
 VIII. Capacitar a los Entes Públicos en materia de Matriz de Marco Lógico e Indicadores de Desempeño;
+
+> <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2011)</small>
 
 IX. Integrar el padrón de evaluadores externos del desempeño;
 
+> <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2011)</small>
+
 X. Informar al Ente Público las recomendaciones que se emitan, derivadas de la evaluación de sus políticas o programas;
+
+> <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2011)</small>
 
 XI. Publicar los resultados de las evaluaciones; y
 
+> <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2011)</small>
+
 XII. Las demás que señalen las disposiciones aplicables.
 
-> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 2011)</small>
+ARTICULO 16 TER.- (DEROGADO, P.O. 25 DE MAYO DE 2013)
 
-ARTICULO 16 TER.- Los lineamientos que emita el Consejo Estatal de Evaluación serán de sujeción obligatoria para los Entes Públicos y deberán observarse en la elaboración del anteproyecto de presupuesto de egresos en el ámbito de sus respectivas competencias. Para lo cual los Entes Públicos harán llegar al señalado Consejo sus propuestas de Matriz de Marco Lógico a más tardar el último día hábil de julio de cada año, para posteriormente registrar sus indicadores de desempeño y metas en el Sistema Estatal de Evaluación del Desempeño.
-
-Los Entes Públicos harán del conocimiento del Consejo Estatal de Evaluación el informe trimestral de autoevaluación a que hace alusión el cuarto párrafo del artículo 41 de la Constitución del Estado Libre y Soberano de Tabasco dentro de los tres días hábiles posteriores a su presentación al H. Congreso del Estado.
-
-Lo anterior con la finalidad de proveer de los insumos suficientes al Consejo Estatal de Evaluación para la realización de las evaluaciones de desempeño, cuyos resultados serán dados a conocer a los Entes Públicos por el Consejo Estatal de Evaluación para que sean incluidos en la Cuenta Pública en cumplimiento a lo establecido en la Ley General de Contabilidad Gubernamental.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2013)</small>
 
 ###### ARTICULO 17.
 
-A la SAF le corresponde:
+Los lineamientos que emita el Consejo Estatal de Evaluación serán de sujeción obligatoria para los Entes Públicos y deberán observarse en la elaboración del anteproyecto de presupuesto de egresos en el ámbito de sus respectivas competencias. Para lo cual los Entes Públicos harán llegar al señalado Consejo sus propuestas de Matriz de Marco Lógico a más tardar el último día hábil de julio de cada año, para posteriormente registrar sus indicadores de desempeño y metas en el Sistema Estatal de Evaluación del Desempeño.
 
-I.- Participar en la elaboración del Plan Estatal de Desarrollo; respecto a la definición de las políticas financieras, fiscales y crediticias; estableciendo la congruencia con las políticas que sobre esta materia haya dictado la Federación;
-
-II.- proyectar y calcular los ingresos del Estado, de las Entidades Paraestatales y de las participaciones municipales, considerando las necesidades de recursos y la utilización del crédito público, para la ejecución del Plan Estatal, de los Planes Municipales y de los Programas que de ellos se deriven;
-
-III.- Procurar el cumplimiento de los objetivos y prioridades del Plan Estatal y de los programas, en el ejercicio de sus atribuciones financieras, fiscales y crediticias;
-
-IV.- Verificar que las operaciones en que se haga uso del crédito Público prevean el cumplimiento de los objetivos y prioridades del Plan Estatal y de los programas que de él se deriven;
-
-V.- Considerar los efectos de la política crediticia adoptada para el logro de los objetivos y prioridades del Plan Estatal y de los Programas; y
-
-VI.- Adecuar y diseñar un sistema de contabilidad, congruente con los objetivos y prioridades del Plan Estatal y de los programas que de él se deriven, para sistematizar programáticamente la contabilidad estatal y municipal.
+Los Entes Públicos harán del conocimiento del Consejo Estatal de Evaluación el informe trimestral de autoevaluación a que hace alusión el cuarto párrafo del artículo 41 de la Constitución del Estado Libre y Soberano de Tabasco dentro de los tres días hábiles posteriores a su presentación al H. Congreso del Estado.
 
 ###### ARTICULO 18.
 
@@ -438,17 +472,17 @@ Los Entes Públicos encargados de la ejecución del PLED, y de los programas de 
 
 Los planes y programas a que se refieren los artículos anteriores, especificarán las acciones que serán objeto de coordinación entre los gobernantes de los municipios, del Estado y de la Federación, así como de inducción o concertación con los grupos sociales interesados.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MAYO DE 2013)</small>
 
-###### ARTICULO 36.
+###### ARTÍCULO 36.
 
-El PLED y los programas sectoriales y especiales deberán ser presentados por la SEPLADES en el seno del COPLADET a que alude el artículo 16 de esta Ley; y sometido a la consideración y aprobación del Gobernador del Estado.
+El PLED y los programas sectoriales y especiales deberán ser presentados por la Secretaría en el seno del COPLADET a que alude el artículo 16 de esta Ley; y sometido a la consideración y aprobación del Gobernador del Estado.
 
 Los programas institucionales deberan ser sometidos por el organo de Gobierno y Administración de la entidad paraestatal o paramunicipal respectiva, a la aprobación del titular de la dependencia coordinadora del sector, en el primer caso, y al ayuntamiento en el segundo.
 
-> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2013)</small>
 
-Si la entidad paraestatal no estuviera agrupada en un sector específico, la aprobación a que alude el párrafo anterior corresponderá a la SEPLADES.
+Si la entidad paraestatal no estuviera agrupada en un sector específico, la aprobación a que alude el párrafo anterior corresponderá a la Secretaría.
 
 > <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2011)</small>
 
@@ -532,9 +566,9 @@ VI.- La ejecución de las acciones que deban realizarse en cada entidad municipa
 
 VII.- La ejecución de las acciones que deban realizarse en cada entidad municipal y que competen a los ordenes federal, estatal y municipal, considerando la participación que corresponda a los municipios interesados y a los sectores de la sociedad.
 
-> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2013)</small>
 
-Para este efecto la SEPLADES en el seno del COPLADET, a que alude el artículo 16 de esta Ley propondrá los procedimientos conforme a los cuales se convendrá la ejecución de estas acciones, tomando en consideración los criterios que señalen los Entes Públicos coordinadores de sector, tanto federales como estatales, conforme a sus atribuciones.
+Para este efecto la Secretaría en el seno del COPLADET, a que alude el artículo 16 de esta Ley propondrá los procedimientos conforme a los cuales se convendrá la ejecución de estas acciones, tomando en consideración los criterios que señalen los Entes Públicos coordinadores de sector, tanto federales como estatales, conforme a sus atribuciones.
 
 ###### ARTICULO 50.
 
@@ -574,13 +608,19 @@ El propio Ejecutivo del Estado y las entidades paraestatales observan dichos obj
 
 Los ayuntamientos y las entidades paramunicipales observarán asimismo dichos objetivos y prioridades en la concertación de acciones previstas en los planes municipales y en los Programas que de ellos se derivan, con las representaciones de los grupos sociales o con los particulares interesados.
 
-> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MAYO DE 2013)</small>
 
-ARTICULO 56 BIS.- Los anteproyectos de presupuestos de egresos de los Entes Públicos en el ámbito de su competencia deberán sujetarse a la estructura programática aprobada por SAF, SEPLADES y SECOTAB, la cual deberá contener como mínimo:
+ARTÍCULO 56 BIS. Los Anteproyectos de presupuestos de egresos de los Entes Públicos en el ámbito de su competencia deberán sujetarse a la estructura programática aprobada por la Secretaría y SECOTAB, la cual deberá contener como mínimo:
+
+> <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2011)</small>
 
 I.- Las categorías, que comprenderán la función, subfunción y programa; y
 
+> <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2011)</small>
+
 II.- Los elementos, que comprenderán la misión, visión, objetivos, metas con base en indicadores de desempeño y unidad responsable, en congruencia con el PLED, los programas sectoriales, especiales y operativos anuales que de éste se deriven.
+
+> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 2011)</small>
 
 La estructura programática deberá ser sencilla y facilitar tanto el análisis del Presupuesto como la vinculación de la programación con el PLED y los programas que de él se deriven; debiendo incluirse indicadores de desempeño con sus metas anuales en los términos de las disposiciones aplicables.
 
@@ -646,7 +686,7 @@ LIC. JOSE EDUARDO BELTRAN HERNANDEZ,
 
 SECRETARIO DE GOBIERNO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 8 DE AGOSTO DE 1998.
 
@@ -687,3 +727,9 @@ El Ejecutivo del Estado creará el Consejo Estatal de Evaluación a más tardar 
 ###### ARTÍCULO TERCERO.
 
 Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE MAYO DE 2013.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente decreto.
