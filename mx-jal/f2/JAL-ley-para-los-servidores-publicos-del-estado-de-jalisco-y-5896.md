@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-los-servidores-publicos-del-estado-de-jalisco-y-5896"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-07"
-last_updated: "2012-11-20"
+last_updated: "2013-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 7 de abril de 1984.
 
@@ -139,7 +139,7 @@ Quien otorgue un nombramiento supernumerario en contravención al primer párraf
 
 Los servidores públicos, con nombramiento temporal por tiempo determinado que la naturaleza de sus funciones sean de base, que estén en servicio por seis años y medio consecutivos o por nueve años interrumpidos en no más de dos ocasiones por lapsos no mayores a seis meses, tendrán derecho a que se les otorgue nombramiento definitivo; a excepción de los relativos al Poder Legislativo y a los municipios, a quienes se les otorgará dicho nombramiento cuando estén en servicio por tres años y medio consecutivos o por cinco años interrumpidos en no más de dos ocasiones por lapsos no mayores a seis meses. Quien otorgue un nombramiento definitivo a quien no reúna el tiempo que establece este párrafo será sujeto de responsabilidad penal y administrativa, en los términos de la legislación de la materia.
 
-El derecho obtenido por los servidores públicos en.los términos del párrafo anterior deberá hacerse efectivo de inmediato, mediante la asignación de la plaza vacante correspondiente o la creación de una nueva, y a más tardar en el siguiente ejercicio fiscal; siempre y cuando permanezca la actividad para la que fueron contratados, se tenga la capacidad requerida y cumplan con los requisitos de ley.
+El derecho obtenido por los servidores públicos en los términos del párrafo anterior deberá hacerse efectivo de inmediato, mediante la asignación de la plaza vacante correspondiente o la creación de una nueva, y a más tardar en el siguiente ejercicio fiscal; siempre y cuando permanezca la actividad para la que fueron contratados, se tenga la capacidad requerida y cumplan con los requisitos de ley.
 
 Los servidores públicos supernumerarios, una vez contratados de manera definitiva, podrán solicitar les sea computada la antigüedad desde su primer contrato para efectos del escalafón y del servicio civil de carrera.
 
@@ -1485,35 +1485,39 @@ V. Por desistimiento.
 
 ### CAPITULO IV. De las prescripciones
 
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2013)</small>
+
 ###### Art. 105.
 
-Las acciones que nazcan de esa ley o del nombramiento expedido en favor de los Servidores Públicos prescribirán en un año, con excepción de los casos señalados en el artículo siguiente.
+Las acciones que nazcan de esa ley o del nombramiento expedido en favor de los servidores públicos prescribirán en un año, con excepción de los casos señalados en los artículos siguientes.
 
 > <small>(ADICIONADO, P.O. 20 DE ENERO DE 2001)</small>
 
 Art. 105 bis. En el caso de los organismos públicos descentralizados a que se refiere el párrafo segundo del artículo primero de esta Ley, la prescripción de las acciones se regirá por lo dispuesto en la legislación aplicable.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA LA LEY, PUBLICADO EN EL P.O. DE 25 DE MAYO DE 2013, CAMBIA LA ESTRUCTURA DEL PRESENTE ARTÍCULO DE SEIS FRACCIONES A CINCO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MAYO DE 2013)</small>
 
 ###### Art. 106.
 
-Prescriben en treinta días:
+Prescriben en 30 días:
 
 I. Las acciones de la Autoridad para pedir la nulidad de un nombramiento, cuando el Servidor Público no reúna los requisitos necesarios para el empleo o cargo de que se trate o no demuestre, en forma fehaciente, tener la capacidad o aptitud que para el cargo se requiera;
 
 II. El derecho de los Servidores Públicos para volver a ocupar el puesto que hubiera dejado por accidente no profesional o causas ajenas al servicio, por enfermedad, contando el plazo a partir de la fecha en que estén en aptitud de volver al trabajo, de acuerdo con la constancia médica respectiva;
 
-> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2013)</small>
 
-III. Las acciones para impugnar los dictámenes escalafonarios, y
+III. La facultad de los titulares de las entidades públicas para sancionar a los servidores públicos en los términos dispuestos por el articulo 25 de la presente ley, contando el término desde el momento en que sean conocidas las causas;
 
-> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2013)</small>
 
-IV. Las acciones para amonestar a un servidor público, en términos de la fracción I del artículo 25 de esta ley.
+IV. Las acciones para impugnar los dictámenes escalafonarios, y
 
-V. Las acciones para impugnar los dictámenes escalafonarios; y (sic)
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2013)</small>
 
-VI. Las acciones para impugnar las sanciones impuestas por los titulares de las Entidades Públicas que no ameriten cese, en los términos del Art. 25 de esta ley. (sic)
+V. Las acciones para impugnar las sanciones impuestas por los titulares de las entidades públicas que no ameriten cese o cese con inhabilitación, en los términos del artículo 25 de esta ley.
 
 > <small>(ADICIONADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1527,19 +1531,15 @@ ll. Instrucción: recibida el acta administrativa y la documentación que la int
 
 III. Resolución: recibido el expediente para su resolución, el titular de la entidad pública, lo hará en un término de treinta días naturales contado a partir de la recepción.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2013)</small>
 
 ###### Art. 107.
 
-Prescribirán en 60 días las acciones para pedir la reinstalación en el trabajo, o la indemnización que la ley concede, contando a partir del día siguiente en que le sea notificado el cese.
+Prescribirán en 60 días las acciones para pedir la reinstalación en el trabajo, o la indemnización que la ley concede, contando a partir del día siguiente de que le sea notificado el cese o el cese con inhabilitación.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2001)</small>
+Al momento de la notificación del cese o el cese con inhabilitación, la autoridad entregará al servidor público copia de la comunicación y de las actuaciones que se hubieren llevado a cabo en el proceso administrativo que se hubiere substanciado.
 
-Al momento de la notificación del cese, la autoridad entregará al servidor público copia de la comunicación y de las actuaciones que se hubieren llevado a cabo en el proceso administrativo que se hubiere substanciado.
-
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 2001)</small>
-
-Será improcedente el cese que se efectúe contraviniendo las disposiciones previstas en este artículo, debiendo, en su caso reinstalarse al trabajador entre tanto no se le comunique su cese en la forma establecida en el párrafo anterior.
+Será improcedente el cese o el cese con inhabilitación que se efectúe contraviniendo las disposiciones previstas en este artículo, debiendo, en su caso, reinstalarse al trabajador entre tanto no se le comunique su cese o cese con inhabilitación en la forma establecida en el párrafo anterior.
 
 ###### Art. 108.
 
@@ -2662,3 +2662,7 @@ SÉPTIMO. En tanto las entidades públicas no definan la unidad administrativa q
 P.O. 20 DE NOVIEMBRE DE 2012.
 
 ÚNICO. El presente decreto entrará en vigor a partir del día siguiente al de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 25 DE MAYO DE 2013.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
