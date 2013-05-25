@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-salud-del-estado-de-san-luis-potosi-43495"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2013-05-07"
+last_updated: "2013-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2013.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de diciembre de 2004.
 
@@ -1265,11 +1265,17 @@ V. Sólo podrá realizarse por profesionales de salud en instituciones médicas 
 
 VI. El o la profesional responsable suspenderá la investigación en cualquier momento si sobreviene el riesgo de lesiones graves, invalidez o muerte de la persona en quien se realice la investigación;
 
-> <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2013)</small>
 
-VII. No se podrá bajo ningún motivo, vulnerar la libertad, dignidad o derechos humanos de las personas en quienes se realizan las investigaciones, y
+VII. Es responsabilidad del establecimiento de salud proporcionar atención médica al sujeto que sufra algún daño, si estuviere relacionado directamente con la investigación; sin perjuicio de la indemnización que legalmente corresponda;
 
-VIII. Las demás que establezca esta Ley y la correspondiente reglamentación.
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2013)</small>
+
+VIII. No se podrá bajo ningún motivo, vulnerar la libertad, dignidad o derechos humanos de las personas en quienes se realizan las investigaciones, y
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2013)</small>
+
+IX. Las demás que establezca esta Ley y la correspondiente reglamentación.
 
 ###### ARTICULO 85.
 
@@ -3860,6 +3866,12 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
 
 P.O. 7 DE MAYO DE 2013.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 25 DE MAYO DE 2013.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
