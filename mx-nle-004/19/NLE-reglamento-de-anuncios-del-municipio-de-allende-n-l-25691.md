@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-anuncios-del-municipio-de-allende-n-l-25691"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-12-11"
-last_updated: "1992-12-11"
+last_updated: "2013-05-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25691&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE ANUNCIOS DEL MUNICIPIO DE ALLENDE, N. L
 
-REGLAMENTO DE ANUNCIOS DEL MUNICIPIO DE ALLENDE, NUEVO LEON
+REGLAMENTO DE ANUNCIOS DEL MUNICIPIO DE ALLENDE, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE ANUNCIOS PARA EL MUNICIPIO DE ALLENDE, NUEVO LEÓN PUBLICADO EN EL P.O. 27 DE MAYO DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2013. (ABROGADO)
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 11 de diciembre de 1992.
 
@@ -522,3 +524,23 @@ C. ABEL TAMEZ CAVAZOS
 SINDICO SEGUNDO
 
 C. PROFR. RICARDO SALAS REYES
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE MAYO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente reglamento entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Nuevo León, debiendo divulgarse además a través de la Gaceta Municipal.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento de Anuncios de Allende, Nuevo León publicado en el Periódico Oficial del Estado de fecha 11- once de diciembre de 1992- mil novecientos noventa y dos todas aquellas disposiciones que contravengan lo establecido en el presente Reglamento.
+
+###### ARTÍCULO TERCERO.
+
+Las solicitudes que se encuentren en trámite al entrar en vigencia el presente Reglamento, se regirán por las normas y disposiciones vigentes en el momento en que se presentó la solicitud, salvo que el interesado manifieste por escrito su consentimiento para que le sean aplicadas las disposiciones previstas por este Reglamento.
+
+###### ARTÍCULO CUARTO.
+
+En el supuesto de que la dependencia administrativa municipal encargada de la aplicación y vigilancia del cumplimiento de este Reglamento, cambiara su denominación, las atribuciones y responsabilidades que actualmente tiene conferidas la Dirección, se entenderán que son competencia de aquella a la que se le haya asignado la nueva denominación, o en su caso de la que expresamente disponga el Reglamento Interior de la Administración Pública Municipal de Allende, Nuevo León.
