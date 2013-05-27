@@ -4,7 +4,7 @@ identifier: "HID-ley-de-desarrollo-social-del-estado-de-hidalgo-53770"
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-29"
-last_updated: "2012-10-22"
+last_updated: "2013-05-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE DESARROLLO SOCIAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el viernes 29 de diciembre de 2006.
 
@@ -431,9 +431,17 @@ Los criterios de ejecución del Programa Sectorial de Desarrollo Social especifi
 
 I.- Las prioridades en materia de Desarrollo Social que requieren los habitantes del Estado;
 
-II.- Los objetivos, que se pretenden alcanzar en cada uno los aspectos de las acciones para el Desarrollo Social; y
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2013)</small>
 
-III.- El monto del gasto que se ejercerá en cada uno de los aspectos de las acciones para el Desarrollo Social.
+II.- Los objetivos, que se pretenden alcanzar en cada uno los aspectos de las acciones para el Desarrollo Social;
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2013)</small>
+
+III.- El monto del gasto que se ejercerá en cada uno de los aspectos de las acciones para el desarrollo social; y
+
+> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2013)</small>
+
+IV.- La elaboración y publicación en el Periódico Oficial del Estado de Hidalgo, de las reglas de operación de todos los programas de desarrollo social, así como de la metodología, normatividad y calendarización.
 
 ### CAPITULO VIII. DE LA EVALUACION
 
@@ -493,7 +501,9 @@ I.- Las partidas presupuestales específicas para los Programas Sociales Estatal
 
 II.- El nombre de los programas a que se destinarán; y
 
-III.- Los programas sociales que estarán sujetos a reglas de operación.
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2013)</small>
+
+III.- Todos los programas sociales, los cuales estarán sujetos a reglas de operación.
 
 ### CAPITULO X. DEL FONDO SOCIAL
 
@@ -717,9 +727,13 @@ I.- El Gobernador del Estado, quien lo presidirá;
 
 II.- Un Secretario Ejecutivo, que será el titular de la Secretaría;
 
-III.- Los Secretarios de Gobierno, Finanzas, Planeación y Desarrollo Regional, Administración, Educación, Salud, Contraloría, Obras Públicas, Comunicaciones, Transportes y Asentamientos, Agricultura y Desarrollo Rural, Seguridad Pública, Turismo, Desarrollo Económico, y el Sistema Estatal para el Desarrollo Integral de la Familia;
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2013)</small>
 
-IV.- El Congreso del Estado de Hidalgo, que será representado por su Coordinador General de la Junta de Coordinación Legislativa y los miembros integrantes de la Comisión de Desarrollo Regional, además de un Diputado representante de cada Grupo Parlamentario de la Legislatura;
+III.- Los titulares de las Secretarías de Gobierno; Finanzas y Administración; Planeación, Desarrollo Regional y Metropolitano; Educación Pública; Salud; Contraloría y Transparencia Gubernamental; Obras Públicas y Ordenamiento Territorial; Desarrollo Agropecuario; Seguridad Pública; Turismo y Cultura; Desarrollo Económico y el Titular del Sistema Estatal para el Desarrollo Integral de la Familia;
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2013)</small>
+
+IV.- El Congreso del Estado de Hidalgo, que será representado por el Presidente de la Junta de Gobierno; los miembros integrantes de la Comisión de Desarrollo Social y un Diputado representante de cada Grupo Legislativo;
 
 V.- Los 84 Presidentes Municipales;
 
@@ -954,3 +968,9 @@ P.O. 22 DE OCTUBRE DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 27 DE MAYO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
