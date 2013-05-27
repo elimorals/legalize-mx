@@ -4,7 +4,7 @@ identifier: "HID-reglamento-interior-de-la-secretaria-de-desarrollo-social-63188
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-09-08"
-last_updated: "2008-09-08"
+last_updated: "2013-05-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63188&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO SOCIAL
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO SOCIAL
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SOCIAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SOCIAL, PUBLICADO EN EL P.O. DE 27 DE MAYO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 8 de septiembre de 2008.
 
@@ -790,3 +792,17 @@ Dado en la residencia del Poder Ejecutivo del Estado, en la cuidad de Pachuca de
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 
 LICENCIADO MIGUEL ÁNGEL OSORIO CHONG.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE MAYO DE 2013.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de Desarrollo Social, expedido el 14 de agosto de 2008, publicado en el Periódico Oficial del Estado de Hidalgo, el 8 de septiembre de 2008.
+
+TERCERO.- Cuando la competencia de alguna unidad administrativa establecida con anterioridad a la vigencia del presente Reglamento, deba ser ejercida por otra u otras de las que el mismo establece, pasarán los expedientes en trámite y el archivo a la unidad o unidades competentes, de conformidad con el ámbito de competencia que a cada una corresponda y los asuntos que se encuentren en trámite competerá a la nueva dependencia terminar la sustanciación y dictar la resolución que corresponda.
+
+CUARTO.- Cuando el presente Reglamento confiera atribuciones a unidades administrativas, que se encuentran señaladas en otras disposiciones con distinta denominación, se entenderá que corresponden a las previstas en este Reglamento.
+
+QUINTO.- En tanto no se expidan los manuales de organización, de procedimientos y deservicios al público, el Secretario estará facultado para resolver lo que dichos manuales deben regular.
