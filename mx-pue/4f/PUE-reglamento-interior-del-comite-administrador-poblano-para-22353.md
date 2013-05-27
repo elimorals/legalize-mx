@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-comite-administrador-poblano-para-22353
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-09-24"
-last_updated: "2001-09-24"
+last_updated: "2013-05-27"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22353&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # REGLAMENTO INTERIOR DEL COMITE ADMINISTRADOR POBLANO PARA LA CONSTRUCCION DE ESPACIOS EDUCATIVOS
 
-REGLAMENTO INTERIOR DEL COMITE ADMINISTRADOR POBLANO PARA LA CONSTRUCCION DE ESPACIOS EDUCATIVOS
+REGLAMENTO INTERIOR DEL COMITÉ ADMINISTRADOR POBLANO PARA LA CONSTRUCCION DE ESPACIOS EDUCATIVOS DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL COMITÉ ADMINISTRADOR POBLANO PARA LA CONSTRUCCIÓN DE ESPACIOS EDUCATIVOS DEL ESTADO DE PUEBLA, PUBLICADO EN EL P.O. DE 27 DE MAYO DE 2013, EL PRESENTE ORDENAMIENTO QUEDA SIN EFECTOS.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: SIN EFECTOS.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el lunes 24 de septiembre de 2001.
 
@@ -550,3 +552,11 @@ Dado en la Heroica Puebla de Zaragoza, a los trece días del mes de julio de dos
 COMUNÍQUESE Y CÚMPLASE
 
 El Gobernador Constitucional del Estado.- LICENCIADO MELQUIADES MORALES FLORES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO HÉCTOR JIMÉNEZ Y MENESES.- Rúbrica.- El Secretario de Educación Pública.- LICENCIADO AMADO CAMARILLO SÁNCHEZ.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE MAYO DE 2013.
+
+PRIMERO.- El presente Reglamento se publicará en el Periódico Oficial del Estado y entrará en vigor al día hábil siguiente de su publicación.
+
+SEGUNDO.- Queda sin efecto el Reglamento Interior del Comité Administrador Poblano para la Construcción de Espacios Educativos, publicado en el Periódico Oficial del Estado el veinticuatro de septiembre de dos mil uno, así como las disposiciones que se opongan al presente Reglamento.
