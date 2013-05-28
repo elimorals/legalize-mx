@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2013-01-26"
+last_updated: "2013-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,6 +24,8 @@ state: "JAL"
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2013.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 28 DE MAYO DE 2013.</small>
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -1195,7 +1197,7 @@ Se impondrán de tres meses a seis años de prisión a los civiles o militares n
 
 I. Abolir o reformar la Constitución Política del Estado o las Instituciones que de ella emanen;
 
-II. Impedir la integración de nuevas instituciones o el libre ejercicio de las ya existentes;
+II. Impedir la integración de nuevas Instituciones o el libre ejercicio de las ya existentes;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
@@ -2187,11 +2189,9 @@ IV. Presentar dolosamente, o hacer que otro presente testigos falsos o que aport
 
 ### CAPITULO III. Violación
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE MAYO DE 2013. EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA CONSULTAR EL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2012)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2012) (F. DE E., P.O. 28 DE MAYO DE 2013)
 
 ###### Art. 157.
 
@@ -2213,7 +2213,7 @@ Si se produjere daño en la salud por falta de intervención, se les impondrán 
 
 ###### Art. 159.
 
-Se impondrán de tres meses a dos años de prisión al médico, o a quien haga sus veces que reciba para atender de cualquier manera a un lesionado por un aparente hecho delictuoso y no de aviso inmediato al Ministerio Público.
+Se impondrán de tres meses a dos años de prisión al médico, o a quien haga sus veces que reciba para atender de cualquier manera a un lesionado por un aparente hecho delictuoso y no dé aviso inmediato al Ministerio Público.
 
 > <small>(REFORMADO, P.O. 12 DE JUNIO DE 2003)</small>
 
@@ -2421,7 +2421,7 @@ Se impondrán de un mes a tres años de prisión y multa de cien a trescientos d
 
 I. Al que, sin ser servidor público, se atribuya ese carácter e intente ejercer alguna de las funciones correspondientes;
 
-II. Al que, sin tener título profesional o autorización para ejercer alguna profesión reglamentada, expedidos por autoridad y organismos legalmente capacitados para ello, conforme a las disposiciones reglamentarias del Art. 5.° de la Constitución Política de los Estados Unidos Mexicanos, incurra en cualquiera de los casos siguientes:
+II. Al que, sin tener título profesional o autorización para ejercer alguna profesión reglamentada, expedidos por autoridad y organismos legalmente capacitados para ello, conforme a las disposiciones reglamentarias del Artículo 5o. de la Constitución Política de los Estados Unidos Mexicanos, incurra en cualquiera de los casos siguientes:
 
 a) Se atribuya el carácter de profesionista;
 
@@ -2499,7 +2499,7 @@ Este delito se perseguirá por querella de la parte ofendida.
 
 ###### Art. 175.
 
-Se impondrán de ocho a quince años de prisión al que, por medio de la violencia física o moral, tenga cópula con persona mayor de edad, cualquiera que sea su sexo.
+Se impondrán de ocho a quince años de prisión al que, por medio de la violencia física o moral tenga cópula con persona mayor de edad, cualquiera que sea su sexo.
 
 > <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
@@ -2512,6 +2512,10 @@ Cuando el autor del delito tuviere derechos de tutela, patria potestad o a hered
 > <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2009)</small>
 
 La violación del padrastro al hijastro y la ejecutada por éste a su padrastro, la del amasio al hijo de su amasia, la del tutor a su pupilo, la efectuada entre ascendientes o descendientes naturales o adoptivos o entre hermanos o persona con cualquier relación de parentesco, será sancionada de nueve a dieciocho años. En estos supuestos, se perderán los derechos de la patria potestad o tutela cuando la ejerciere sobre la víctima.
+
+(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2000) (F. DE E., P.O. 28 DE MAYO DE 2013)
+
+Se equipara a la violación, la introducción por vía vaginal o anal con fines eróticos sexuales de cualquier objeto o instrumento distinto del miembro viril, por medio de la violencia física o moral, sea cual fuere el sexo del ofendido, al responsable de este delito se le impondrá la pena señalada en el primer párrafo de este artículo.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -4647,7 +4651,7 @@ Segundo.- Previa la entrada en vigor el Titular del Poder Ejecutivo implementar�
 
 > <small>(F. DE E., P.O. 6 DE ABRIL DE 2006)</small>
 
-Tercero.- Previa la entrada en vigor del presente decreto, se autoriza a las Secretarías de Finanzas y Administración, en coordinación con la de Vialidad y Transporte, para realizar las adecuaciones presupuéstales y las adquisiciones necesarias de los instrumentos de medición y capacitación al personal en el manejo de estos, para el debido cumplimiento del presente decreto.
+Tercero.- Previa la entrada en vigor del presente decreto, se autoriza a las Secretarías de Finanzas y Administración, en coordinación con la Vialidad y Transporte, para realizar las adecuaciones presupuéstales y las adquisiciones necesarias de los instrumentos de medición y capacitación al personal en el manejo de estos, para el debido cumplimiento del presente decreto.
 
 P.O. 15 DE AGOSTO DE 2006.
 
