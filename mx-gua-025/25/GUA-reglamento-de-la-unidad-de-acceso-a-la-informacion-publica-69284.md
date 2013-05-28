@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-unidad-de-acceso-a-la-informacion-publica-6928
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-07-07"
-last_updated: "2009-07-07"
+last_updated: "2013-05-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69284&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "GUA"
 ---
 # REGLAMENTO DE LA UNIDAD DE ACCESO A LA INFORMACION PUBLICA PARA EL MUNICIPIO DE PURISIMA DEL RINCON, GUANAJUATO
 
-REGLAMENTO DE LA UNIDAD DE ACCESO A LA INFORMACION PUBLICA PARA EL MUNICIPIO DE PURISIMA DEL RINCON, GUANAJUATO
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO DE LA UNIDAD DE ACCESO A LA INFORMACIÓN PÚBLICA PARA EL MUNICIPIO DE PURÍSIMA DEL RINCÓN, GUANAJUATO, PUBLICADO EN EL P.O DE 28 DE MAYO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO DE LA UNIDAD DE ACCESO A LA INFORMACIÓN PÚBLICA PARA EL MUNICIPIO DE PURÍSIMA DEL RINCÓN, GUANAJUATO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2013 (ABROGADO).
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 7 de julio de 2009.
 
@@ -396,3 +398,17 @@ C. JOSÉ JUVENTINO LÓPEZ AYALA
 EL SECRETARIO DEL H. AYUNTAMIENTO
 
 LIC. JUAN FRANCISCO ESCAREÑO ALONSO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE MAYO DE 2013.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE LA UNIDAD DE ACCESO A LA INFORMACIÓN PÚBLICA PARA EL MUNICIPIO DE PURÍSIMA DEL RINCÓN, GTO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Este reglamento entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento de la Unidad de Acceso a la Información Pública para el Municipio de Purísima del Rincón, Gto., publicado en el Periódico Oficial del Gobierno del Estado de Guanajuato número 108, segunda parte en fecha 07 de julio de 2009.
