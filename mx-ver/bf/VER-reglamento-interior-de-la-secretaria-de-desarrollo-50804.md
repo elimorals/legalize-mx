@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interior-de-la-secretaria-de-desarrollo-50804"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-05-24"
-last_updated: "2006-05-24"
+last_updated: "2013-05-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50804&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "VER"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO AGROPECUARIO, RURAL, FORESTAL Y PESCA
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO AGROPECUARIO, RURAL, FORESTAL Y PESCA
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO AGROPECUARIO, RURAL, FORESTAL Y PESCA DEL ESTADO DE VERACRUZ
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO AGROPECUARIO, RURAL Y PESCA, PUBLICADO EN LA G.O. DE 28 DE MAYO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE MAYO DE 2013 (ABROGADO).
 
 Reglamento publicado en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 24 de mayo de 2006.
 
@@ -624,3 +626,17 @@ GOBERNADOR DEL ESTADO
 LIC. REYNALDO G. ESCOBAR PÉREZ
 
 SECRETARIO DE GOBIERNO
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 28 DE MAYO DE 2013.
+
+Primero. Este Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se abroga el Reglamento Interior de la Secretaría de Desarrollo Agropecuario, Rural, Forestal y Pesca, publicado en la Gaceta Oficial del estado el 24 de mayo de 2006.
+
+Tercero. La Secretaría expedirá en un plazo no mayor a ciento ochenta días contados a partir de la entrada en vigor del presente Reglamento, el Manual General de Organización.
+
+Cuarto. En tanto se expidan los Manuales de Organización, de Procedimientos, de Servicios al Público y demás manuales administrativos, la Secretaría de Despacho, estará facultado para resolver los asuntos que dichos Manuales deben regular.
+
+Quinto. Se derogan todas las disposiciones que se opongan al presente Decreto.
