@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-gobierno-del-estado-905
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-12-05"
-last_updated: "2013-01-16"
+last_updated: "2013-05-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90510&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 16 DE ENERO DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 5 de diciembre de 2012.
 
@@ -65,6 +63,8 @@ VII. Subsecretario.- La persona titular de una de las Subsecretarías señaladas
 
 VIII. Titular del Ejecutivo.- La persona titular del Poder Ejecutivo del Estado de Morelos.
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2013)</small>
+
 ###### Artículo 3.
 
 Para el despacho de los asuntos de su competencia, la Secretaría contará con las Unidades Administrativas que enseguida se refieren:
@@ -75,35 +75,31 @@ II. Subsecretaría de Asesoría y Atención Social;
 
 III. Secretaría Ejecutiva de Enlace para Asuntos de Justicia Penal;
 
-> <small>(F. DE E., P.O. 16 DE ENERO DE 2013)</small>
-
 IV. Coordinación General de Desarrollo Político y Proyectos Estratégicos;
 
 V. Coordinación General de Asesores del Secretario;
 
 VI. Coordinación General de Atención Ciudadana;
 
-VII. Dirección General Jurídica;
+VII. Coordinación de Gestión;
 
-VIII. Dirección General de Administración;
+VIII. Coordinación de Agenda Política;
 
-IX. Dirección General de Gobierno;
+IX. Dirección General Jurídica;
 
-X. Dirección General de Atención a Municipios;
+X. Dirección General de Administración;
 
-XI. Dirección General de Derechos Humanos;
+XI. Dirección General de Gobierno;
 
-XII. Dirección General del Registro Civil;
+XII. Dirección General de Atención a Municipios;
 
-XIII. Dirección General de la Defensoría Pública;
+XIII. Dirección General del Registro Civil;
 
 XIV. Dirección General de Asuntos Religiosos;
 
 XV. Dirección General de Reorganización Institucional, Control y Evaluación;
 
 XVI. Dirección General de Armonización Legislativa y Comunicación;
-
-> <small>(F. DE E., P.O. 16 DE ENERO DE 2013)</small>
 
 XVII. Dirección General de Desarrollo Político;
 
@@ -113,13 +109,11 @@ XIX. Dirección General de Asesorías y Enlace Legislativo;
 
 XX. Secretaría Técnica del Titular de la Secretaría de Gobierno;
 
-XXI. Coordinación de Agenda Política;
+XXI. Secretaría Técnica del titular de la Subsecretaría de Gobierno;
 
-XXII. Secretaría Técnica del titular de la Subsecretaría de Gobierno;
+XXII. Secretaría Técnica del titular de la Subsecretaría de Asesoría y Atención Social, y
 
-XXIII. Secretaría Técnica del titular de la Subsecretaría de Asesoría y Atención Social, y
-
-XXIV. Los órganos administrativos desconcentrados de la Secretaría.
+XXIII. Los órganos administrativos desconcentrados de la Secretaría.
 
 Las Unidades Administrativas estarán integradas por sus titulares Direcciones de Área, Subdirecciones, Jefaturas de Departamento, y demás servidores públicos que se señalen en los Manuales de Organización y las disposiciones jurídicas aplicables, con base en el presupuesto autorizado.
 
@@ -173,7 +167,7 @@ XI. Ejecutar, previo acuerdo con el Titular del Ejecutivo, las expropiaciones, o
 
 XII. Intervenir y ejercer las atribuciones que en materia electoral le señalen las leyes, reglamentos o los convenios que al efecto se celebren;
 
-XIII. Organizar y administrar la Defensoría Pública;
+XIII. (DEROGADA, P.O. 29 DE MAYO DE 2013)
 
 XIV. Promover la participación de la sociedad civil en los programas de protección civil, así como cumplir y hacer cumplir las disposiciones legales de la materia y las que de ellas deriven;
 
@@ -225,11 +219,21 @@ XXXVI. Elaborar los anteproyectos de iniciativas de ley, reglamentos, decretos, 
 
 XXXVII. Nombrar a los funcionarios de confianza de la Secretaría, siempre y cuando no tengan otra forma de designación en las disposiciones jurídicas aplicables;
 
-XXXVIII. Coordinar y dirigir los trabajos y tareas de promoción y defensa de los derechos humanos que lleven a cabo las Secretarías, Dependencias y Entidades de la Administración Pública Estatal, así como promover el respeto irrestricto de los derechos humanos en el Estado de Morelos;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2013)</small>
 
-XXXIX. Coordinar, dentro de su ámbito de competencia, la implementación y consolidación del Sistema de Seguridad y Justicia Penal de Corte Acusatorio Adversarial para el Estado Libre y Soberano de Morelos, y
+XXXVIII. Coordinar y dirigir los trabajos y tareas de promoción y defensa de los derechos humanos que lleven a cabo las Secretarías, Dependencias y Entidades de la Administración Pública Estatal, así como promover el respeto irrestricto de los derechos humanos, incluidos los relativos a la diversidad sexual en el Estado de Morelos;
 
-XL. Las demás que señalen otras disposiciones jurídicas o le sean delegadas por el Titular del Ejecutivo por mandato específico.
+XXXIX. Coordinar, dentro de su ámbito de competencia, la implementación y consolidación del Sistema de Seguridad y Justicia Penal de Corte Acusatorio Adversarial para el Estado Libre y Soberano de Morelos, y (sic)
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2013)</small>
+
+XL. Administrar, controlar y vigilar el Sistema Penitenciario Estatal y los establecimientos penitenciarios, asegurando las medidas tendientes a la reinserción social integral de los individuos, mediante los principios del trabajo, capacitación para el mismo, educación, salud y deporte, conforme lo disponen las leyes de la materia, por conducto de la Coordinación Estatal de Reinserción Social;
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2013)</small>
+
+XLI. Disponer, a través de la Coordinación Estatal de Reinserción Social, la vigilancia y coordinación del funcionamiento del Centro Especializado de Ejecución de Medidas Privativas de Libertad para Adolescentes, así como las instituciones que dependan del mismo; así como elaborar y ejecutar los programas de tratamiento de los mismos, y
+
+XLII. Las demás que señalen otras disposiciones jurídicas o le sean delegadas por mandato específico del Titular del Ejecutivo.
 
 Las facultades señaladas en las fracciones XV, XXV, XXVII, XXVIII y XXXIII del presente artículo, no podrán ser delegables en servidores públicos subalternos.
 
@@ -319,23 +323,35 @@ XV. Presentar al Secretario los estudios para promover el desarrollo municipal y
 
 XVI. Promover acciones que contribuyan al desarrollo político, social y económico entre la sociedad y el Gobierno del Estado.
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2013)</small>
+
 ###### Artículo 10.
 
 Son atribuciones de la Subsecretaría de Asesoría y Atención Social las siguientes:
 
-I. Conducir una política conciliadora en aquellos casos en que se presuman violaciones a los derechos humanos por parte del Poder Ejecutivo, siempre que no exista queja o denuncia ante la instancia competente;
+I. Promover y difundir la defensa de los derechos humanos, mediante la capacitación de servidores públicos del Poder Ejecutivo, en relación al respeto irrestricto de los derechos humanos, con la finalidad de que todas sus actuaciones se realicen en el marco de la legalidad y respeto a la dignidad humana;
 
-II. Canalizar y supervisar la atención hasta su solución, de las denuncias, solicitudes y recomendaciones emitidas por la autoridad competente en materia de derechos humanos;
+II. Consolidar las políticas públicas en materia de derechos humanos, mediante el análisis y diseño de las mismas, con la finalidad de sentar las bases de una política al interior del Poder Ejecutivo del Estado;
 
-III. Solicitar informes a las Secretarías de despacho, con relación a los asuntos que en materia de derechos humanos deba conocer;
+III. Conducir una política conciliadora en aquellos casos en que se presuman violaciones a los derechos humanos por parte del Poder Ejecutivo, siempre que no exista queja o denuncia ante la instancia competente;
 
-IV. Dirigir y vigilar los trabajos y tareas de promoción y defensa de los derechos humanos que lleven a cabo las Secretarías, Dependencias y Entidades de la Administración Pública Estatal;
+IV. Canalizar y supervisar la atención hasta su solución, de las denuncias, solicitudes y recomendaciones emitidas por las Comisiones Nacional y Estatal de Derechos Humanos y organismos no gubernamentales dedicados a la defensa de los Derechos Humanos, cuando estas involucren a Secretarías, Dependencias o Entidades de la Administración Pública del Estado;
 
-V. Coadyuvar en la planeación, organización, coordinación, dirección y vigilancia del ejercicio de las funciones del Registro Civil;
+V. Promover la suscripción de los convenios necesarios para el cumplimiento de sus atribuciones;
 
-VI. Auxiliar al Secretario en la organización y administración la Defensoría Pública en el Estado, y
+VI. Constituir, llevar y mantener actualizado el registro de las recomendaciones, solicitudes, quejas y medidas cautelares, que la Comisión Nacional y Estatal de Derechos Humanos emita a las Secretarías, Dependencias y Entidades de la Administración Pública Estatal;
 
-VII. Auxiliar al Secretario en la conducción de las relaciones entre el Poder Ejecutivo Federal y Estatal con las asociaciones, iglesias, agrupaciones, organizaciones y demás instituciones religiosas, en términos de lo previsto por la Ley de la materia.
+VII. Fungir como enlace con el Congreso del Estado, para la atención y seguimiento de los asuntos en materia de Derechos Humanos;
+
+VIII. Promover una cultura de respeto y tolerancia para erradicar la discriminación por razones de identidad, género y orientación sexual dentro de las actividades que desarrollan las Secretarías, Dependencias y Entidades de la Administración Pública Estatal;
+
+IX. Promover la creación de políticas públicas para lograr el reconocimiento y respeto de los derechos que tiene toda persona a construir una autodefinición con respecto su cuerpo, sexo, género y orientación sexual;
+
+X. Promover una cultura ciudadana para el reconocimiento del derecho a una vida libre de violencia y de discriminación por identidad de género y orientación ciudadana;
+
+XI. Coadyuvar en la planeación, organización, coordinación, dirección y vigilancia del ejercicio de las funciones del Registro Civil, y
+
+XII. Auxiliar al Secretario en la conducción de las relaciones entre el Poder Ejecutivo Federal y Estatal con las asociaciones, iglesias, agrupaciones, organizaciones y demás instituciones religiosas, en términos de lo previsto por la Ley de la materia.
 
 ###### Artículo 11.
 
@@ -441,11 +457,39 @@ XVI. Emitir opinión de los asuntos que le sean asignados por el Secretario;
 
 XVII. Acordar con el Secretario, con la periodicidad que éste determine, los asuntos relacionados con la Coordinación General de Asesores y que por su importancia requieran de su intervención;
 
-XVIII. Establecer un sistema de información de los asuntos relevantes de la Secretaría y su seguimiento, para proveer de información oportuna al Secretario;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2013)</small>
+
+XVIII. Fungir como enlace ante el Tribunal Superior de Justicia para el seguimiento de asuntos relacionados con el Poder Judicial;
 
 XIX. Proponer al Secretario los programas y proyectos de trabajo que correspondan de acuerdo con las funciones de la Coordinación, y
 
-XX. Generar y mantener actualizada la información sobre los asesores de las Secretarías, Dependencias y Entidades del Poder Ejecutivo Estatal.
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2013)</small>
+
+XX. Atender y canalizar las peticiones ciudadanas que le instruya el Secretario de Gobierno.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2013)</small>
+
+###### Artículo 13 Bis.
+
+Son atribuciones de la Coordinación de Gestión las siguientes:
+
+I. Asesorar al Secretario de Gobierno en materia de orden político interno del estado de Morelos, mediante el estudio y análisis que corresponda a cada asunto en particular en apego a la normatividad establecida, con la finalidad de otorgar la atención especializada y proponer las medidas necesarias para su resolución;
+
+II. Analizar y gestionar las demandas ciudadanas presentadas en la Oficina del Secretario de Gobierno, mediante la participación en mesas de trabajo con los actores involucrados con la finalidad de coadyuvar en la atención, seguimiento y solución de las peticiones realizadas por la ciudadanía morelense;
+
+III. Promover y coordinar espacios de interlocución con las Secretarías, Dependencias y Entidades gubernamentales, mediante la comunicación constante con las mismas y establecimiento de mesas de trabajo, para el seguimiento y respuesta de las solicitudes expuestas en la Oficina del Secretario de Gobierno, buscando alternativas de solución a las demandas ciudadanas y preservar la estabilidad política en el Estado de Morelos;
+
+IV. Asesorar y establecer el seguimiento al trabajo interno en materia política, mediante reuniones constantes con el personal, para mantener el control, organización y desempeño de las actividades desarrolladas en la Oficina del Secretario de Gobierno;
+
+V. Planear la atención que se otorga a la ciudadanía en general, a organizaciones no gubernamentales y a grupos de otra índole, mediante el enlace con las instituciones correspondientes, para otorgar el seguimiento oportuno a las demandas que recibe la Oficina del Secretario de Gobierno;
+
+VI. Diseñar estrategias aplicables, mediante mecanismos de estudio al origen de cada problema en el ámbito político, con la finalidad de otorgar a la ciudadanía que acude a la Oficina del Secretario de Gobierno, un servicio de calidad en tiempo y forma;
+
+VII. Apoyar en la coordinación de la logística para el debido desarrollo de reuniones, mesas de trabajo, celebradas en la Oficina del Secretario de Gobierno, entre autoridades, ciudadanía y actores políticos, mediante la participación y colaboración del personal interno de las Dependencias, con la finalidad de tener un control preciso y eficiente de las mismas;
+
+VIII. Fungir como enlace en la atención de asuntos que le encomiende el Secretario en relación con las diversas áreas de la propia Secretaría y demás Secretarías, Dependencias y Entidades de la Administración Pública Estatal, y
+
+IX. Establecer un sistema de información de los asuntos relevantes de la Secretaría y su seguimiento, para proveer de información oportuna al Secretario.
 
 ### CAPÍTULO IV. DE LA ADSCRIPCIÓN DE LAS UNIDADES ADMINISTRATIVAS
 
@@ -455,11 +499,17 @@ Al Secretario se adscriben las siguientes Unidades Administrativas:
 
 I. Coordinación General de Atención Ciudadana;
 
-II. Dirección General Jurídica; y
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2013)</small>
 
-III. Dirección General de Administración.
+II. Coordinación de Gestión;
 
-La Secretaría Técnica del titular de la Secretaría de Gobierno y la Coordinación de Agenda Política, tendrán nivel de Dirección General y estarán contempladas dentro de la propia estructura de la Oficina de la Secretaría de Gobierno.
+III. Dirección General Jurídica; y
+
+IV. Dirección General de Administración.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2013)</small>
+
+La Secretaría Técnica del titular de la Secretaría de Gobierno, la Coordinación de Agenda Política y la Coordinación de Gestión tendrán nivel de Dirección General y estarán contempladas dentro de la propia estructura de la Oficina de la Secretaría de Gobierno.
 
 ###### Artículo 15.
 
@@ -473,17 +523,15 @@ I. Dirección General de Gobierno, y
 
 II. Dirección General Atención a Municipios.
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2013)</small>
+
 ###### Artículo 17.
 
-Se adscriben a la Subsecretaría de Asesoría y Atención Social, las siguientes Unidades Administrativas:
+Se adscriben a la Subsecretaría de Asesoría y Atención Social las siguientes Unidades Administrativas:
 
-I. Dirección General de Derechos Humanos;
+I. Dirección General del Registro Civil, y
 
-II. Dirección General del Registro Civil;
-
-III. Dirección General de la Defensoría Pública, y
-
-IV. Dirección General de Asuntos Religiosos.
+II. Dirección General de Asuntos Religiosos.
 
 ###### Artículo 18.
 
@@ -501,9 +549,9 @@ II. Dirección General de Armonización Legislativa y Comunicación.
 
 Se adscriben a la Coordinación General de Desarrollo Político y Proyectos Estratégicos, las siguientes Unidades Administrativas:
 
-> <small>(F. DE E., P.O. 14 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2013)</small>
 
-I. Dirección General de Análisis Político, y
+I. Dirección General de Desarrollo Político, y
 
 II. Dirección General de Proyectos Estratégicos.
 
@@ -699,37 +747,7 @@ VIII. Desarrollar y fortalecer los vínculos políticos y sociales con los Ayunt
 
 ###### Artículo 28.
 
-La Dirección General de Derechos Humanos tendrá las siguientes atribuciones:
-
-I. Promover y difundir la defensa de los derechos humanos, mediante la capacitación de servidores públicos del Poder Ejecutivo, en relación al respeto irrestricto de los derechos humanos, con la finalidad de que todas sus actuaciones se realicen en el marco de la legalidad y respeto a la dignidad humana;
-
-II. Consolidar las políticas públicas en materia de derechos humanos, mediante el análisis y diseño de las mismas, con la finalidad de sentar las bases de una política al interior del Poder Ejecutivo del Estado;
-
-III. Organizar, determinar y conducir las políticas estatales para la recepción, atención, seguimiento y cumplimiento de las solicitudes o recomendaciones que formulen las Comisiones Nacional y Estatal de Derechos Humanos y organismos no gubernamentales dedicados a la defensa de los Derechos Humanos, cuando estas involucren a Secretarías,Dependencias (sic) o Entidades de la Administración Pública del Estado;
-
-IV. Fungir como enlace con la Comisión de la materia del Congreso del Estado, para la atención y seguimiento de los asuntos de su competencia;
-
-V. Coordinar la atención y seguimiento, hasta su conclusión, de las solicitudes o recomendaciones que formulen las Comisiones Nacional y Estatal de Derechos Humanos a cualquier Secretaría o Dependencia del Ejecutivo del Estado, así como solicitar a éstas la elaboración y entrega oportuna de informes al respecto;
-
-VI. Promover la suscripción de los convenios necesarios para el cumplimiento de sus atribuciones;
-
-VII. Coadyuvar con las áreas de la Secretaría en los asuntos que ésta le requiera una vez que exista queja o solicitud formalmente presentada en relación con la posible vulneración de los derechos humanos en la Entidad;
-
-VIII. Promover, orientar y dar seguimiento a los trabajos y tareas de promoción y defensa de los derechos humanos que lleven a cabo las Secretarías, Dependencias y Entidades de la Administración Pública Estatal;
-
-IX. Promover y difundir una cultura de respeto y defensa de los derechos humanos al interior del Poder Ejecutivo Estatal;
-
-X. Coadyuvar, promover e impulsar el desarrollo de programas de educación en valores y formación en derechos humanos;
-
-XI. Fungir como vínculo entre la Secretaría y las organizaciones civiles dedicadas a la promoción y defensa de los derechos humanos, así como atender y, en su caso, remitir a las instancias competentes, de conformidad con las disposiciones legales aplicables, las peticiones que éstas le formulen;
-
-XII. Constituir comités sociales para la promoción, difusión y respeto de los derechos humanos;
-
-XIII. En el ámbito de competencia de la Secretaría, coadyuvar con los órganos protectores de derechos humanos e instancias dedicadas a la promoción y defensa de los derechos humanos, en la atención de los grupos en situación de discriminación y vulnerabilidad;
-
-XIV. Constituir, llevar y mantener actualizado el registro de las recomendaciones, solicitudes, quejas y medidas cautelares, que la Comisión Nacional y Estatal de Derechos Humanos emita a las Secretarías, Dependencias y Entidades de la Administración Pública Estatal, y
-
-XV. Orientar y canalizar hacia las instancias competentes a la población para la defensa de sus derechos humanos.
+(DEROGADO, P.O. 29 DE MAYO DE 2013)
 
 ###### Artículo 29.
 
@@ -769,21 +787,7 @@ XVI. Autorizar la corrección de los vicios o defectos que contengan las actas d
 
 ###### Artículo 30.
 
-La Dirección General de la Defensoría Pública tendrá las atribuciones siguientes:
-
-I. Prestar el servicio público de defensa, de acuerdo con las disposiciones previstas en la Constitución Política de los Estados Unidos Mexicanos, así como en la Constitución;
-
-II. Representar legalmente a la Dirección General con las más amplias facultades que en derecho le correspondan;
-
-III. Organizar, dirigir, evaluar y controlar los servicios de asistencia jurídica gratuita de la Defensoría;
-
-IV. Promover la coordinación de las actividades de la Dirección General con las Secretarías, Dependencias y Entidades competentes de la Administración Pública Federal, Estatal y Municipal;
-
-V. Proponer el programa anual de actividades, capacitación y estímulos de la Dirección General;
-
-VI. Acordar, con los titulares de las Direcciones de Área, Subdirecciones y Jefaturas de Departamento la asignación de adscripciones de los Defensores Públicos, y
-
-VII. Rendir al Secretario un informe mensual de las actividades desarrolladas por la Dirección General.
+(DEROGADO, P.O. 29 DE MAYO DE 2013)
 
 ###### Artículo 31.
 
@@ -841,9 +845,11 @@ V. Coadyuvar con el área de capacitación, para el posicionamiento de los progr
 
 VI. Proponer al titular de la Secretaría Ejecutiva de Enlace para Asuntos de Justicia Penal la planeación y realización de acciones para alcanzar consensos entre los operadores del Sistema de Justicia Penal, que permitan llegar a acuerdos o criterios de interpretación comunes, o en su caso, identificar posibles reformas legislativas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2013)</small>
+
 ###### Artículo 34.
 
-La Dirección General de Análisis Político tendrá las atribuciones siguientes:
+La Dirección General de Desarrollo Político tendrá las atribuciones siguientes:
 
 I. Impulsar proyectos de iniciativa de ley, reglamentos, decretos, acuerdos y demás ordenamientos jurídicos concernientes a fortalecer el Desarrollo Político;
 
@@ -1018,3 +1024,13 @@ EL SECRETARIO DE GOBIERNO
 ING. JORGE VICENTE MESSEGUER GUILLÉN
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 29 DE MAYO DE 2013.
+
+PRIMERA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
+
+SEGUNDA. Se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al presente Decreto.
+
+TERCERA. En un plazo que no exceda de sesenta días naturales del inicio de la vigencia del presente Decreto, las Secretarías de Gobierno y de Seguridad Pública deberán realizar las modificaciones necesarias a la normatividad administrativa interna que corresponda y expedir los correspondientes Manuales de Organización y Políticas y Procedimientos.
