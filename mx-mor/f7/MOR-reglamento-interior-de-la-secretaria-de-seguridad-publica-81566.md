@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-seguridad-publica-81566
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-06-01"
-last_updated: "2012-03-28"
+last_updated: "2013-05-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81566&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 1 de junio de 2011.
 
@@ -39,9 +39,11 @@ REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE MORELO
 
 ### CAPÍTULO I. DE LA COMPETENCIA Y ORGANIZACIÓN DE LA SECRETARÍA
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2013)</small>
+
 ###### Artículo 1.
 
-La Secretaría de Seguridad Pública tiene a su cargo el despacho de los asuntos que le confiera la Ley Orgánica de la Administración Pública del Estado Libre y Soberano de Morelos, la Ley del Sistema de Seguridad Pública del Estado de Morelos, la Ley de Reinserción Social y Seguimiento de Medidas Cautelares, la Ley de Justicia para Adolescentes del Estado de Morelos, la legislación y ordenamientos en materia penal y las demás disposiciones jurídicas aplicables, así como las que le delegue quien sea titular del Poder Ejecutivo del Estado.
+La Secretaría de Seguridad Pública tiene a su cargo el despacho de los asuntos que le confiera la Ley Orgánica de la Administración Pública del Estado de Morelos, la Ley del Sistema de Seguridad Pública del Estado de Morelos, la legislación y ordenamientos en materia penal y las demás disposiciones jurídicas aplicables, así como las que le delegue quien sea titular del Poder Ejecutivo del Estado.
 
 ###### Artículo 2.
 
@@ -55,7 +57,7 @@ III. Subsecretaría Operativa: La Subsecretaría Operativa de Seguridad Pública
 
 IV. Subsecretaría de Coordinación: La Subsecretaría de Coordinación y Desarrollo Administrativo;
 
-V. Subsecretaría de Reinserción: La Subsecretaría de Reinserción Social;
+V. (DEROGADA, P.O. 29 DE MAYO DE 2013)
 
 VI. Unidades administrativas: Las diversas áreas que forman parte integral de la Secretaría, con funciones y actividades propias que las distinguen y diferencian entre las demás;
 
@@ -65,17 +67,17 @@ VIII. Ley General: La Ley General de Sistema Nacional de Seguridad Pública;
 
 IX. Ley Estatal: Ley del Sistema de Seguridad Pública del Estado de Morelos;
 
-X. Ley de Reinserción: Ley de Reinserción Social y Seguimiento de Medidas Cautelares;
+X. (DEROGADA, P.O. 29 DE MAYO DE 2013)
 
-XI. Establecimientos Penitenciarios: Los Centros de Reinserción Social, área varonil y femenil, y Establecimientos Distritales en el Estado, así como los Centros Especializados de Ejecución de Medidas Privativas de Libertad para Adolescentes, y los Centros Especiales para la Reclusión Preventiva;
+XI. (DEROGADA, P.O. 29 DE MAYO DE 2013)
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2013)</small>
 
-XII. Instituciones Policiales: Aquellas que agrupan a los elementos integrantes de la Policía Estatal Acreditable, a los de la Policía Preventiva Estatal con sus grupos de investigación, y municipal, a los de la Policía Ministerial, a los elementos de vigilancia y custodia de los Establecimientos Penitenciarios, así como a los encargados de la seguridad durante los procesos judiciales y la vigilancia del cumplimiento de las medidas cautelares, tanto de adolescentes como de adultos, a los bomberos y a los de rescate; y en general a todas las dependencias encargadas de la seguridad pública a nivel estatal y municipal;
+XII. Instituciones Policiales: Aquellas que agrupan a los elementos integrantes de la Policía Estatal Acreditable, a los de la Policía Preventiva Estatal con sus grupos de investigación, y municipal, a los de la Policía Ministerial, a los bomberos y a los de rescate; y en general· a todas las unidades administrativas, encargadas de la seguridad pública a nivel estatal y municipal;
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2013)</small>
 
-XIII. Instituciones Policiales Estatales: Aquellas que agrupan a los elementos integrantes de la Policía Estatal Acreditable, a los de la Policía Preventiva Estatal junto con sus grupos de investigación, a la Policía Ministerial, a los elementos de vigilancia y custodia de los Establecimientos Penitenciarios, a los encargados de la seguridad durante los procesos judiciales y la vigilancia del cumplimiento de las medidas cautelares tanto de adolescentes como de adultos, a los bomberos y a los de rescate, y en general a todas las dependencias encargadas de la seguridad pública a nivel Estatal, y
+XIII. Instituciones Policiales Estatales: Aquellas que agrupan a los elementos integrantes de la Policía Estatal Acreditable, a los de la Policía Preventiva Estatal junto con sus grupos de investigación, a la Policía Ministerial, a los bomberos y a los de rescate, y en general a todas las unidades administrativas encargadas de la seguridad pública a nivel Estatal, y
 
 XIV. Manuales de Organización, Políticas y Procedimientos: A los instrumentos normativos aprobados por el Secretario y por las demás áreas competentes, mediante los cuales se indican los pasos que deben seguirse para el desarrollo de cada una de las actividades de las Unidades Administrativas que conforman la Secretaría.
 
@@ -91,7 +93,7 @@ II. Subsecretaría Operativa de Seguridad Pública;
 
 III. Subsecretaría de Coordinación y Desarrollo Administrativo;
 
-IV. Subsecretaría de Reinserción Social;
+IV. (DEROGADA, P.O. 29 DE MAYO DE 2013)
 
 V. Dirección General de la Policía Industrial, Bancaria y Auxiliar;
 
@@ -107,15 +109,15 @@ X. Dirección General de Seguridad Privada;
 
 XI. Dirección General de la Policía Estatal Acreditable;
 
-XII. Dirección General de Establecimientos Penitenciarios;
+XII. (DEROGADA, P.O. 29 DE MAYO DE 2013)
 
-XIII. Dirección General de Reinserción Social;
+XIII. (DEROGADA, P.O. 29 DE MAYO DE 2013)
 
-XIV. Dirección General de Servicios a Centros Penitenciarios;
+XIV. (DEROGADA, P.O. 29 DE MAYO DE 2013)
 
-XV. Dirección General de Industria Penitenciaria;
+XV. (DEROGADA, P.O. 29 DE MAYO DE 2013)
 
-XVI. Dirección General de Ejecución de Medidas para Adolescentes;
+XVI. (DEROGADA, P.O. 29 DE MAYO DE 2013)
 
 XVII. Dirección General del Centro de Comunicación y Cómputo;
 
@@ -161,13 +163,9 @@ XXXI. Dirección de Área de Unidades Especializadas;
 
 XXXII. Dirección de Área de Control de Confianza y Asuntos Internos;
 
-> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2012)</small>
+XXXIII. (DEROGADA, P.O. 29 DE MAYO DE 2013)
 
-XXXIII. Dirección de la Unidad de Medidas Cautelares y Salidas Alternas para Adultos;
-
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 28 DE MARZO DE 2012)</small>
-
-XXXIV. Dirección de Área de la Policía Preventiva Procesal y de Custodia, y
+XXXIV. (DEROGADA, P.O. 29 DE MAYO DE 2013)
 
 XXXV. Dirección de Área Operativa de la Policía Industrial, Bancaria y Auxiliar.
 
@@ -181,7 +179,7 @@ I. La Subsecretaría Operativa de Seguridad Pública;
 
 II. La Subsecretaría de Coordinación y Desarrollo Administrativo;
 
-III. La Subsecretaría de Reinserción Social;
+III. (DEROGADA, P.O. 29 DE MAYO DE 2013)
 
 IV. La Dirección General de Planeación y Operaciones Policiacas;
 
@@ -223,23 +221,7 @@ Se adscribe directamente a la Subsecretaría de Coordinación y Desarrollo Admin
 
 ###### Artículo 7.
 
-Se adscriben a la Subsecretaría de Reinserción Social:
-
-I. La Dirección General de Establecimientos Penitenciarios;
-
-II. La Dirección General de Reinserción Social;
-
-> <small>(REFORMADA, P.O. 28 DE MARZO DE 2012)</small>
-
-III. La Dirección General de Ejecución de Medidas para Adolescentes;
-
-> <small>(REFORMADA, P.O. 28 DE MARZO DE 2012)</small>
-
-IV. La Dirección General de Industria Penitenciaria, y
-
-> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2012)</small>
-
-V. La Dirección de la Unidad de Medidas Cautelares y Salidas Alternas para Adultos.
+(DEROGADO, P.O. 29 DE MAYO DE 2013)
 
 ###### Artículo 8.
 
@@ -303,7 +285,9 @@ Quien sea titular de la Secretaría tendrá las siguientes atribuciones:
 
 I. Conservar y preservar el orden, la tranquilidad y la seguridad pública en el Estado, así como la prevención del delito;
 
-II. Conducir en el Estado las normas, políticas y programas, con el fin de cumplir y ejecutar las leyes y reglamentos en el ámbito de su competencia, que deriven de la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Morelos, la Ley General, la Ley Estatal, la Ley de Reinserción, la Ley de Justicia para Adolescentes del Estado de Morelos, la normatividad penal y los reglamentos que de ellas se deriven, en el ámbito de su competencia;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2013)</small>
+
+II. Conducir en el Estado las normas, políticas y programas, con el fin de cumplir y ejecutar las leyes y reglamentos en el ámbito de su competencia, que deriven de la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Morelos, la Ley General, la Ley Estatal, la normatividad penal y los reglamentos que de ellas se deriven, en el ámbito de su competencia;
 
 III. Diseñar, coordinar y evaluar las acciones y programas en materia de prevención del delito, tiendan (sic) a fomentar un mayor nivel de desarrollo y mejores condiciones de vida que prevengan conductas delictivas en las comunidades y espacios urbanos, y garanticen a toda la población el goce de sus derechos y libertades;
 
@@ -315,11 +299,11 @@ VI. Establecer, estructurar, aplicar y coordinar, en su ámbito de competencia, 
 
 VII. Diseñar, implementar y evaluar la política estatal en materia de seguridad pública aprobada por quien sea titular del Poder Ejecutivo, tendiente a la prevención de conductas antisociales, atendiendo a las modalidades sociales, económicas y culturales de la colectividad, así como a los indicadores de riesgos de las zonas geográficas en las que se encuentra dividido el Estado;
 
-VIII. Administrar, controlar y vigilar el Sistema Penitenciario Estatal y los Establecimientos Penitenciarios, asegurando las medidas tendientes a la reinserción social integral de los individuos, mediante los principios del trabajo, capacitación para el mismo, educación, salud y deporte, conforme lo disponen las leyes de la materia;
+VIII. (DEROGADA, P.O. 29 DE MAYO DE 2013)
 
 IX. Regular, supervisar, controlar y vigilar la prestación de los servicios de seguridad privada y expedir, en representación del Ejecutivo, la autorización respectiva para el establecimiento, integración y operación de las empresas del ramo, que lleven a cabo sus funciones dentro del territorio estatal;
 
-X. Vigilar y coordinar el funcionamiento del Centro Especializado de Ejecución de Medidas Privativas de Libertad para Adolescentes, así como las instituciones que dependan del mismo; así como elaborar y ejecutar los programas de tratamiento de los mismos;
+X. (DEROGADA, P.O. 29 DE MAYO DE 2013)
 
 XI. Planear, organizar y ejecutar programas relativos a la protección de los habitantes del Estado y de las personas que transiten por el territorio estatal, de sus bienes, la seguridad en caminos estatales, orientación y auxilio al turismo, mantenimiento del orden público en centros turísticos, zonas arqueológicas y boscosas, e instrumentar las estrategias de reacción inmediata, para atender situaciones de alto riesgo o de emergencia, en el ámbito de su competencia;
 
@@ -343,9 +327,13 @@ XX. Fomentar la participación de la comunidad en la realización de programas y
 
 XXI. Celebrar los convenios y contratos necesarios para el cumplimiento de sus funciones, conforme a la legislación vigente;
 
-XXII. Otorgar a las autoridades judiciales, administrativas y del trabajo el auxilio que soliciten para el ejercicio de sus funciones; en el caso de las primeras se les proporcionará, además, el apoyo policial para el traslado y custodia que requieran en el desahogo o trámite de los procesos penales;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2013)</small>
 
-XXIII. Vigilar y coordinar el funcionamiento, selección y capacitación de los cuerpos policiales, de custodia y personal penitenciario, por conducto del Colegio Estatal de Seguridad Pública del Estado de Morelos previsto por la Ley, en coordinación con las áreas correspondientes tanto de la Secretaría como del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública;
+XXII. Otorgar a las autoridades judiciales, administrativas y del trabajo el auxilio que soliciten para el ejercicio de sus funciones;
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2013)</small>
+
+XXIII. Vigilar y coordinar el funcionamiento, selección y capacitación de los cuerpos policiales, por conducto del Colegio Estatal de Seguridad Pública del Estado de Morelos previsto por la Ley, en coordinación con las áreas correspondientes tanto de la Secretaría como del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública;
 
 XXIV. Ejercer las atribuciones derivadas de los convenios que en la materia de su competencia celebre el Gobierno del Estado con la Federación, otros Estados, el Distrito Federal y con los Ayuntamientos;
 
@@ -357,7 +345,9 @@ XXVII. Someter al acuerdo del o la titular del Poder Ejecutivo los asuntos encom
 
 XXVIII. Proponer a quien sea titular del Poder Ejecutivo los proyectos de leyes, reglamentos, decretos, acuerdos y demás normas jurídicas, en el ámbito de su competencia, previa aprobación de la Consejería Jurídica;
 
-XXIX. Proponer y promover programas de cooperación e intercambio con instituciones y entidades del extranjero, así como con organismos internacionales a fin de incrementar, actualizar y perfeccionar los sistemas de seguridad pública, de prevención social contra la delincuencia, reinserción social de sentenciados y formas alternativas de justicia para adolescentes;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2013)</small>
+
+XXIX. Proponer y promover programas de cooperación e intercambio con instituciones y entidades del extranjero, así como con organismos internacionales a fin de incrementar, actualizar y perfeccionar los sistemas de seguridad pública, de prevención social contra la delincuencia;
 
 XXX. Resolver, para fines de carácter interno, las controversias que se susciten con motivo de la interpretación o aplicación de este Reglamento, y emitir las instrucciones para dirimir los conflictos de competencia que se presenten entre sus unidades administrativas;
 
@@ -367,7 +357,7 @@ XXXII. Planear, organizar y vigilar la formación policial de los cuerpos de seg
 
 XXXIII. Propiciar y mantener la coordinación con instituciones gubernamentales y no gubernamentales para efecto de implementar acciones de prevención del delito y participación de la comunidad;
 
-XXXIV. Promover y coordinar que la Subsecretaría de Reinserción Social, a través de la Dirección General de Reinserción Social, proponga y aplique los programas de rehabilitación y reinserción social de los sentenciados, preliberados y liberados, así como las demás medidas ordenadas por la autoridad judicial;
+XXXIV. (DEROGADA, P.O. 29 DE MAYO DE 2013)
 
 XXXV. Difundir entre la población los programas que se establezcan de manera particular y general en materia de prevención del delito y participación de la comunidad;
 
@@ -381,19 +371,19 @@ XXXIX. Elaborar y difundir el Programa Estatal de Seguridad Pública, enfatizand
 
 XL. Tramitar y, en su caso, aplicar los indultos que determine conceder el o la titular del Poder Ejecutivo, conforme a las leyes y reglamentos aplicables;
 
-XLI. Aprobar los programas aplicables al sistema estatal de reinserción social y la ejecución de las sanciones y medidas privativas de la libertad personal, de conformidad con lo ordenado en las leyes penales, la legislación de la materia y demás disposiciones jurídicas aplicables;
+XLI. (DEROGADA, P.O. 29 DE MAYO DE 2013)
 
 XLII. Formar parte del Consejo Estatal de Seguridad Pública;
 
-> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2012)</small>
-
-XLIII. Coordinar y supervisar el cumplimiento de las medidas cautelares, providencias precautorias y salidas alternas que resulten procedentes, por determinación de las autoridades judiciales competentes, tanto en materia de adolescentes como de adultos, en términos de la Ley de Reinserción y demás disposiciones legales aplicables. Así también, realizar la evaluación de riesgos a que hace referencia dicha Ley, y ofrecer la información sobre imputados y adolescentes, que sea necesaria a efecto de aplicar, cuando se solicite, la medida cautelar, y (sic)
+XLIII. (DEROGADA, P.O. 29 DE MAYO DE 2013)
 
 XLIV. Actuar en forma coordinada y formar parte del Sistema Estatal de Seguridad Pública, y
 
 XLV. Las demás que le confieran otras disposiciones legales aplicables o le correspondan por delegación o suplencia.
 
-Las facultades antes enunciadas podrán ser delegadas en servidores públicos subalternos adscritos a la Secretaría, con excepción de las contenidas en las fracciones II, XXV, XXVII, XXXI, XL y XLI de este artículo.
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2013)</small>
+
+Las facultades antes enunciadas podrán ser delegadas en servidores públicos subalternos adscritos a la Secretaría, con excepción de las contenidas en las fracciones II, XXV, XXVII, XXXI y XL de este artículo.
 
 ### CAPÍTULO III. DE LAS ATRIBUCIONES GENÉRICAS DE LAS SUBSECRETARÍAS, DIRECCIONES GENERALES Y DIRECCIONES DE ÁREA
 
@@ -849,261 +839,37 @@ XIV. Las demás que determinen las disposiciones legales aplicables.
 
 ###### Artículo 30.
 
-La Dirección General de Servicios a Centros Penitenciarios, tendrá las siguientes atribuciones:
+(DEROGADO, P.O. 29 DE MAYO DE 2013)
 
-I. Programar, organizar y evaluar en coordinación con la Subsecretaría de Coordinación y Desarrollo Administrativo lo referente a los programas administrativos de la Subsecretaría de Reinserción Social;
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE MAYO DE 2013)</small>
 
-II. Atender los requerimientos de acuerdo a las necesidades de la Subsecretaría de Reinserción Social para el buen desarrollo de las funciones encomendadas a la misma;
-
-III. Operar el mantenimiento de las instalaciones de la Subsecretaría de Reinserción y de los Establecimientos Penitenciarios;
-
-IV. Administrar los recursos humanos, materiales y financieros de la Subsecretaría de Reinserción Social, en los términos y lineamientos que determine la Secretaría de Gestión e Innovación Gubernamental y la Secretaría Finanzas y Planeación;
-
-V. Integrar, elaborar y proponer el anteproyecto del Programa Operativo Anual incluyendo el presupuesto de víveres para cada uno de los Establecimientos Penitenciarios del Estado;
-
-VI. Aplicar y administrar los recursos económicos para la alimentación de los internos y personal de los Establecimientos Penitenciarios, así como del personal de la Subsecretaría de Reinserción Social que corresponda;
-
-VII. Elaborar, conforme a las normas que establezca la Secretaría de Gestión e Innovación Gubernamental, las propuestas de organización de la Subsecretaría de Reinserción Social, para aprobación y propuesta de quien sea titular de la Secretaría;
-
-VIII. Integrar, orientar y promover el programa anual de requerimientos de personal, material y equipo de trabajo, servicios de apoyo y, en general, todos aquellos aspectos necesarios para el buen funcionamiento administrativo de la Subsecretaría de Reinserción Social, y las áreas que lo conforman, y
-
-IX. Las demás que le confieran las leyes y los reglamentos respectivos o le deleguen el o la titular de la Secretaría o de la Subsecretaría de Reinserción Social o de la Subsecretaría de Coordinación y Desarrollo Administrativo.
-
-#### SECCIÓN III. DE LA SUBSECRETARÍA DE REINSERCIÓN SOCIAL
+#### SECCIÓN III
 
 ###### Artículo 31.
 
-Al frente de la Subsecretaría de Reinserción Social habrá un titular, quien para el trámite, atención, resolución y despacho de los asuntos, podrá auxiliarse de las unidades administrativas que requiera por las necesidades del servicio, las que señale el presente Reglamento y que permita el presupuesto autorizado, estableciéndose el personal de apoyo y recursos materiales a través del Manual de Organización de la Secretaría.
+(DEROGADO, P.O. 29 DE MAYO DE 2013)
 
 ###### Artículo 32.
 
-La Subsecretaría de Reinserción Social tendrá las siguientes atribuciones:
-
-I. Aplicar y ejecutar las atribuciones del Poder Ejecutivo establecidas en la Ley de Reinserción;
-
-II. Proponer al o la titular de la Secretaría las reglas generales y las normas administrativas o técnicas que habrán de aplicarse en los Establecimientos Penitenciarios;
-
-III. Controlar, supervisar y verificar los Establecimientos Penitenciarios, para lo cual llevará una estadística sobre los mismos, con el fin de estudiar las conductas criminales, para coadyuvar con la prevención del delito;
-
-IV. Autorizar y controlar la distribución, traslado, tratamiento y vigilancia de los imputados o sentenciados por orden de la autoridad judicial, desde el momento de su ingreso a cualquier Establecimiento Penitenciario;
-
-V. Asegurar la aplicación y ejecución de medidas para adolescentes, así como orientar la elaboración del programa individual de ejecución;
-
-VI. Establecer un sistema de identificación de los imputados, sentenciados o adolecentes sujetos a proceso; el cual contendrá como mínimo, los datos antropométricos, personales, procesales y los estudios de personalidad a que hace referencia la Ley de Reinserción para una identificación fehaciente;
-
-VII. Realizar el estudio y clasificación de los imputados, sentenciados o adolecentes sujetos a proceso, con el fin de que con los resultados obtenidos se determine el tratamiento que habrá de aplicarse a cada uno de ellos;
-
-VIII. Coordinar con las autoridades respectivas, los programas relativos a la prevención del delito, mediante estudios de investigación ejecutados por sí o con la intervención de instituciones públicas o privadas;
-
-IX. Administrar las estadísticas penales del Estado y proponer a quien sea titular del Poder Ejecutivo las medidas de seguridad, preventivas o restrictivas que considere adecuadas para la seguridad y la paz social del Estado, a través de la Secretaría;
-
-X. Proponer, a través de la Secretaría, los convenios que deba celebrar el o la titular del Poder Ejecutivo con la Federación, los Estados, Municipios, instituciones públicas o privadas en materia de prestación de servicios técnicos penitenciarios y de traslado de imputados, sentenciados o adolecentes sujetos a proceso;
-
-> <small>(REFORMADA, P.O. 28 DE MARZO DE 2012)</small>
-
-XI. Realizar la evaluación de riesgos al imputado y al adolescente, así como supervisar el cumplimiento de las medidas cautelares y providencias precautorias, en términos de la Ley de Reinserción;
-
-XII. Vigilar que los Establecimientos Penitenciarios adopten las medidas necesarias a efecto de que los mismos cuenten con las instalaciones necesarias para los imputados, sentenciados o adolecentes sujetos a proceso;
-
-XIII. Implementar programas tendientes a incorporar a los internos a las actividades laborales, de capacitación, educativas, recreativas y culturales;
-
-XIV. Supervisar que la normatividad de la industria penitenciaria a que se refiere la Ley de Reinserción Social se cumpla en los Establecimientos Penitenciarios de forma eficiente y adecuada, y
-
-XV. Las demás que determinen las disposiciones jurídicas aplicables, o le correspondan por delegación o suplencia.
+(DEROGADO, P.O. 29 DE MAYO DE 2013)
 
 ###### Artículo 33.
 
-La Dirección General de Establecimientos Penitenciarios, tendrá las siguientes atribuciones:
-
-I. Supervisar el ejercicio de los derechos y el cumplimiento de las obligaciones del personal directivo, administrativo, técnico y de custodia de los Establecimientos Penitenciarios del Estado;
-
-II. Vigilar la aplicación del régimen disciplinario al que habrán de sujetarse los internos de los Establecimientos Penitenciarios;
-
-III. Difundir a través de las instancias del Ejecutivo Estatal, y las Comisiones Nacional y Estatal de Derechos Humanos, los instrumentos normativos que rigen los Establecimientos Penitenciarios a su cargo;
-
-IV. Emitir los manuales de operación de los Establecimientos Penitenciarios, sometiéndolos a la consideración del Consejo Técnico Interdisciplinario, en los que se definirán las obligaciones de los responsables de las diferentes áreas y de los demás miembros del personal que establezcan los lineamientos a seguir;
-
-V. Supervisar que no haya en los Establecimientos Penitenciarios personas privadas de su libertad sin que medie mandato judicial, así como evitar que se prolongue injustificadamente su detención;
-
-VI. Establecer y verificar los controles de registro de las actividades del personal, de las visitas, proveedores y demás personas que por alguna actividad inherente al funcionamiento de los Establecimientos Penitenciarios tengan que ingresar a los mismos;
-
-VII. Coordinar y programar las supervisiones e investigaciones pertinentes para el adecuado funcionamiento de los diferentes Establecimientos Penitenciarios, en lo relativo a su seguridad y operatividad, de manera interna y externa;
-
-VIII. Implementar las medidas de seguridad necesaria (sic) para la realización de traslados, diligencias, presentaciones, atención médica, diligencias judiciales o cualquier otra en la cual el interno sea requerido;
-
-IX. Informar a su superior jerárquico, de manera inmediata, cualquier incidencia que se presente en los Establecimientos Penitenciarios o diligencias;
-
-X. Solicitar apoyo a las Instituciones Policiales o de seguridad pública Federales o Estatales, en caso de contingencia;
-
-XI. Operar dentro de su ámbito de competencia, los sistemas de información y bases de datos del sistema de seguridad pública, federal y estatal;
-
-XII. Elaborar diariamente la estadística penitenciaria;
-
-XIII. Supervisar y operar la base de datos, en cada establecimiento penitenciario, para la obtención de recursos federales para el sostenimiento y manutención de los internos del fuero federal, para cuyo efecto se presentarán en tiempo y forma las solicitudes respectivas ante la autoridad federal que corresponda;
-
-XIV. Iniciar los procedimientos ante el área de asuntos internos;
-
-XV. Verificar el cumplimiento a la Ley Federal de Armas de Fuego y Explosivos, en relación a la licencia oficial colectiva de portación de armas;
-
-XVI. Verificar las condiciones de uso del equipo y parque vehicular que tenga asignado;
-
-XVII. Verificar el buen funcionamiento y resguardo de cada establecimiento penitenciario, y
-
-XVIII. Las demás que determinen las disposiciones jurídicas aplicables, o le correspondan por delegación o suplencia.
+(DEROGADO, P.O. 29 DE MAYO DE 2013)
 
 ###### Artículo 34.
 
-La Dirección General de Reinserción Social tendrá las siguientes atribuciones:
-
-I. Asistir, en representación de la Subsecretaría, a las sesiones de los Consejos Técnicos Interdisciplinarios;
-
-II. Establecer reglas sobre el sistema de ejecución de sanciones y aplicación de las medidas de seguridad, medidas cautelares y condiciones por cumplir;
-
-III. Coordinar y supervisar el cumplimiento de los lineamientos técnicos normativos en los Establecimientos Penitenciarios, en lo referente a la misión del diagnóstico, determinación del tratamiento e implementación de programas asistenciales, de tratamiento, de inducción a la vida en libertad, e integración del expediente técnico del interno;
-
-IV. Promover y supervisar la ejecución de los estudios técnicos de personalidad para la clasificación de los internos en los Establecimientos Penitenciarios, a que hace referencia la Ley de Reinserción;
-
-V. Programar, coordinar y supervisar la elaboración de estudios técnicos de personalidad para la obtención de beneficios a que hace referencia la Ley de Reinserción;
-
-VI. Promover la implementación y celebración de convenios de colaboración con instituciones gubernamentales a efecto de apoyar los programas de reinserción;
-
-VII. Vigilar la correcta aplicación y el término de las sanciones privativas y restrictivas de la libertad, impuestas por las autoridades judiciales competentes;
-
-VIII. Vigilar, controlar y restituir cualquier privación o restricción de la libertad individual interpuesta como medida cautelar, como condiciones de seguridad por cumplir y sustitutivos penales;
-
-IX. Coordinar y supervisar el seguimiento de la situación jurídica de los internos para la debida integración de sus expedientes jurídico administrativos;
-
-X. Designar personal que asista a las audiencias de propuesta de beneficios de libertad anticipada ante las autoridades judiciales;
-
-XI. Propiciar que los internos participen en actividades laborales y de capacitación para el trabajo, deportivas, culturales y de recreación, promoviendo su práctica cotidiana;
-
-XII. Coadyuvar con los jueces sobre la procedencia de los beneficios de la libertad establecidos en la Ley de la materia, proporcionando la información necesaria que permita tal fin;
-
-> <small>(REFORMADA, P.O. 28 DE MARZO DE 2012)</small>
-
-XIII. Coordinar y supervisar la evaluación de riesgos y ofrecer la información necesaria, a efecto de aplicar, cuando se solicite, la medida cautelar al imputado; así como el cumplimiento, ejecución y seguimiento de las medidas cautelares, providencias precautorias y salidas alternas, en términos de la Ley de Reinserción y demás disposiciones legales aplicables;
-
-XIV. Atender y representar jurídicamente a la Subsecretaría, en todos los asuntos legales que requiera cualquier autoridad;
-
-XV. Vigilar y controlar el cumplimiento de las obligaciones impuestas derivadas de los beneficios de libertad anticipada, en coordinación con otras autoridades competentes, y
-
-XVI. Las demás que determinen las disposiciones jurídicas aplicables, o le correspondan por delegación o suplencia.
-
-> <small>(REFORMADO, P.O. 28 DE MARZO DE 2012)</small>
-
-Son indelegables las atribuciones contenidas en las fracciones II, X y XIV de este Artículo.
+(DEROGADO, P.O. 29 DE MAYO DE 2013)
 
 ###### Artículo 35.
 
-La Dirección General de Ejecución de Medidas para Adolescentes tendrá las siguientes atribuciones:
-
-I. Asegurar el respeto de los derechos y garantías del adolescente a quien se le atribuya alguna conducta tipificada como delito por la ley penal, desde el momento de la remisión por parte de la autoridad judicial hasta el momento de imponérsele medida cautelar o con motivo de la medida sancionadora;
-
-II. Disponer la creación de una Unidad de Atención Integral, conformada por un equipo multidisciplinario de profesionales en trabajo social, medicina, psicología, pedagogía, antropología y demás profesiones que estime convenientes, el cual brindará atención integral, supervisión y seguimiento durante la ejecución de las medidas cautelares o sancionadoras en el marco de los programas y proyectos destinados a la ejecución de éstas; y cuando sea necesario, podrán auxiliarse de los especialistas de las instituciones públicas o privadas competentes;
-
-III. Diseñar, coordinar, supervisar, organizar, administrar y evaluar los programas de atención integral y seguimiento requeridos para la ejecución de las medidas cautelares, mismos que incluyen una evaluación de riesgos y un plan de supervisión; y respecto de las sancionadoras el programa individualizado de ejecución para cada adolescente por parte del equipo técnico multidisciplinario, con la activa participación de él, su defensor, así como sus padres, remitiéndolo, previo conocimiento de la Subsecretaría de Reinserción Social, a la autoridad competente y, en su caso, realizar las modificaciones que ésta ordene;
-
-IV. Garantizar, coordinar y supervisar la existencia de programas de atención terapéutica y orientación psicosocial a los adolescentes que se encuentren cumpliendo una medida cautelar o sancionadora, en coordinación con sus familiares y las instituciones más cercanas de carácter oficial o privadas, así como de organizaciones no gubernamentales;
-
-V. Organizar, supervisar y coordinar la operación del Centro Especializado de Ejecución de Medidas Privativas de Libertad para Adolescentes, así como los demás Centros de Custodia, encargados de la atención integral de los adolescentes sujetos a privación de la libertad por la aplicación de una medida cautelar o sancionadora;
-
-VI. Expedir la información solicitada por el Tribunal Unitario de Justicia para Adolescentes, previa autorización de la Subsecretaría de Reinserción Social, así como rendir los informes establecidos por la Ley de Justicia para Adolescentes del Estado de Morelos;
-
-VII. Asegurar que la ejecución de toda medida cautelar o sancionadora, sea aplicada de conformidad con los términos ordenados por la autoridad que la dictó, garantizando los derechos que asisten al adolescente;
-
-VIII. Enviar al Tribunal Unitario de Justicia para Adolescentes, recomendación técnica del equipo multidisciplinario que supervisa la ejecución de las medidas sancionadoras, acerca del cumplimiento de la mitad de la medida impuesta, respecto de la posibilidad de sustituirla por otra más leve, de conformidad con el desenvolvimiento del adolescente durante su privación de libertad;
-
-IX. Celebrar convenios de colaboración con organismos públicos o privados para lograr el cumplimiento de los fines de la Ley de Justicia para Adolescentes del Estado de Morelos;
-
-X. Presidir el Comité Técnico de Atención Integral y, en forma conjunta con la Secretaría Técnica que se designe, implementar las políticas y disposiciones internas para el buen funcionamiento del Centro Especializado de Ejecución de Medidas Privativas de Libertad para Adolescentes y los de custodia, incluyendo la seguridad, así como a las medidas disciplinarias a que se hagan acreedores los adolescentes internos con motivo de la comisión de faltas, de conformidad con los lineamientos establecidos por la Ley de Justicia para Adolescentes del Estado de Morelos;
-
-XI. Proponer periódicamente al o la titular de la Secretaría, a través de la Subsecretaría de Reinserción Social, la implementación de cursos de capacitación y actualización, así como programas de adiestramiento para el personal especializado que labore para la Dirección General, de acuerdo al perfil del puesto y necesidades del servicio, y
-
-XII. Las demás atribuciones que la Ley de Justicia para Adolescentes del Estado de Morelos le asigne, así como lo dispuesto en la Ley Estatal, la Ley de Reinserción Social y las que se establezcan en otras disposiciones legales aplicables, siempre que garanticen los fines de aquélla, con independencia de otras diversas que le delegue el o la titular de la Secretaría, a través de la Subsecretaría de Reinserción Social.
-
-> <small>(REFORMADO, P.O. 28 DE MARZO DE 2012)</small>
-
-Son indelegables las atribuciones contenidas en las fracciones V y IX de este Artículo.
+(DEROGADO, P.O. 29 DE MAYO DE 2013)
 
 ###### Artículo 36.
 
-La Dirección General de Industria Penitenciaria tendrá las siguientes atribuciones:
+(DEROGADO, P.O. 29 DE MAYO DE 2013)
 
-I. Establecer e implementar la formulación y ejecución de planes, proyectos y acciones encaminadas a cumplir lo dispuesto por el artículo 18 de la Constitución Política de los Estados Unidos Mexicanos, según las características y posibilidades de cada Institución de Reinserción Social en el Estado prevista en la Ley de Reinserción;
-
-II. Procurar la ocupación remunerada y justa del trabajo de los internos, elaborando las políticas y reglas para esa retribución;
-
-III. Generar actividades productivas que permitan la ocupación y desarrollo laboral del interno, tendiente a obtener una estancia digna en reclusión, así como lograr su reinserción social;
-
-IV. Auxiliar al Patronato previsto en la Ley de Reinserción Social en el cuidado y vigilancia de la administración de los recursos que le sean asignados y que obtenga con motivo de la actividad comercial, laboral y productiva que se desarrollan en los Establecimientos Penitenciarios;
-
-V. Proponer en cada ejercicio fiscal, por conducto de su superior jerárquico, ante la autoridad competente, los incentivos fiscales que puedan otorgarse para aquellos empresarios que inviertan en la industria penitenciaria;
-
-VI. Promover que el interno, con el producto de su trabajo, participe en la reparación del daño a sus víctimas;
-
-VII. Implementar, establecer y fijar programas a desarrollar, así como estrategias para el apoyo a los internos a través de la capacitación y adiestramiento para el empleo, en los Establecimientos Penitenciarios;
-
-VIII. Orientar al interno para que con el producto de su trabajo mejore su nivel de vida, el de su familia y participe en la reparación del daño a sus víctimas, a lo cual está obligado por Ley;
-
-IX. Propiciar el establecimiento de vínculos laborales con el sector empresarial, para que el interno continúe con su vida laboral en el exterior;
-
-X. Llevar un sistema de control de los ingresos y contabilidad pública;
-
-XI. Vigilar que los ingresos que se recaben por Industria Penitenciaria, sean ingresados a la Secretaría de Finanzas y Planeación y se les pueda dar el destino legal procedente;
-
-XII. Implementar los convenios necesarios con las instituciones bancarias que coadyuven con la Subsecretaría de Reinserción Social en la realización de las acciones de beneficio para los internos;
-
-XIII. Establecer los mecanismos de supervisión, conservación, mantenimiento y recuperación de los espacios destinados al trabajo en los Establecimientos Penitenciarios;
-
-XIV. Implementar y proponer la suscripción de convenios de colaboración con Instituciones Públicas y Privadas para la capacitación y certificación de los internos;
-
-XV. Controlar, administrar y supervisar las aportaciones que realicen las personas físicas y morales realicen alguna actividad comercial o empresarial dentro de los Establecimientos Penitenciarios en el Estado;
-
-XVI. Establecer un sistema de control y registro de días laborados de cada interno;
-
-XVII. Establecer los mecanismos de control de calidad para los insumos y productos de la industria penitenciaria;
-
-XVIII. Promover y difundir los productos elaborados por los internos, en eventos de carácter público y privado, así como en medios masivos de comunicación, en términos de su disponibilidad presupuestal;
-
-XIX. Participar en el Consejo Empresarial para la Reinserción Social, y
-
-XX. Las demás que determinen las disposiciones jurídicas aplicables, o le correspondan por delegación o suplencia.
-
-> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2012)</small>
-
-Artículo 36 Bis La Dirección de la Unidad de Medidas Cautelares y Salidas Alternas para Adultos tendrá las siguientes atribuciones:
-
-I. Aplicar y supervisar las medidas cautelares, providencias precautorias y, en su caso, salidas alternas;
-
-II. Recabar la información socioambiental que se requiera, en términos de Ley, para la determinación de la imposición de medidas cautelares;
-
-III. Realizar la evaluación de riesgos de cada imputado cuando esté detenido por el Ministerio Público antes de la audiencia de control de la detención, así como los que estén en libertad si se les fuera a formular la imputación;
-
-IV. Proponer la medida cautelar más apropiada basada en el análisis de factores, circunstancias y perfil de cada detenido;
-
-V. Proporcionar a las partes la información necesaria para que éstas aporten los antecedentes necesarios a los jueces para que decidan sobre la necesidad de imponer, modificar, adicionar o extinguir medidas cautelares, de modo que el imputado cumpla con sus obligaciones procesales;
-
-VI. Ejecutar las medidas cautelares personales diversas a la prisión preventiva, tal como la presentación periódica, en su caso, y localización electrónica;
-
-VII. Supervisar, vigilar y coordinar la ejecución del resto de las medidas cautelares reales y personales, así como el cumplimiento de las condiciones impuestas durante la suspensión condicional del proceso a prueba;
-
-VIII. Establecer vínculos de comunicación y coordinación permanente con la Procuraduría General de Justicia, con la Defensoría Pública y con el Tribunal Superior de Justicia para llevar a cabo sus atribuciones y funciones;
-
-IX. Coordinarse interinstitucionalmente, así como con la sociedad civil organizada para establecer programas de supervisión de las medidas cautelares y de las condiciones a cumplir durante la suspensión del proceso condicional a prueba;
-
-X. Generar reportes estadísticos mensuales sobre el cumplimiento de las medidas cautelares;
-
-XI. Realizar visitas domiciliarias para la verificación de información y supervisión del imputado;
-
-XII. Supervisar y aprobar las estrategias de supervisión de las medidas cautelares;
-
-XIII. Solicitar y, a su vez, proporcionar información a las instituciones con funciones similares que existan en la Federación o en otros Estados;
-
-XIV. Formular reportes sobre el cumplimiento de las medidas cautelares y condiciones a cumplir durante la suspensión del proceso condicional a prueba, cuando sea procedente en términos de Ley;
-
-XV. Firmar las opiniones, reportes de supervisión y cualquier documento relacionado con sus funciones, y
-
-XVI. Las demás que establezcan las disposiciones legales aplicables o le correspondan por delegación o suplencia.
+Artículo 36 BIS. (DEROGADO, P.O. 29 DE MAYO DE 2013)
 
 ### CAPÍTULO V. ATRIBUCIONES ESPECÍFICAS DE LAS DIRECCIONES GENERALES Y DIRECCIONES DE ÁREA ADSCRITAS A LA OFICINA DE LA SECRETARÍA
 
@@ -1211,7 +977,7 @@ XXXIII. Acordar con quien sea titular de la Secretaría los asuntos relevantes e
 
 XXXIV. Gestionar la devolución de los bienes a cargo de la Secretaría, que se encuentren a disposición de cualquier autoridad federal, estatal o municipal;
 
-XXXV. Coordinar, vigilar y controlar el trámite y seguimiento de cualquier asunto de carácter legal que lleve a cabo el área jurídica de la Subsecretaría de Reinserción Social, y
+XXXV. (DEROGADA, P.O. 29 DE MAYO DE 2013)
 
 XXXVI. Las demás que determinen las disposiciones jurídicas aplicables, o le correspondan por delegación o suplencia.
 
@@ -1325,9 +1091,11 @@ III. Ejercer y aplicar las normas en los procedimientos de investigación que de
 
 IV. Supervisar, previa autorización del o la titular de la Secretaría, las funciones y conducta de los elementos policiales, seguridad y custodia, y demás personal perteneciente a la Secretaría, sin violentar sus derechos o sus garantías;
 
-V. Recibir las quejas que se formulen en contra de los elementos policiales, de seguridad y custodia, así como del personal perteneciente a la Secretaría y, en consecuencia, investigar las conductas contrarias a la ley que generaron esas quejas;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2013)</small>
 
-VI. Recibir e integrar las quejas que se generen en contra del personal de seguridad y custodia adscrito a la Subsecretaría de Reinserción Social;
+V. Recibir las quejas que se formulen en contra de los elementos policiales; así como del personal perteneciente a la Secretaría y, en consecuencia, investigar las conductas contrarias a la ley que generaron esas quejas;
+
+VI. (DEROGADA, P.O. 29 DE MAYO DE 2013)
 
 VII. Poner a disposición de la autoridad competente al elemento o personal perteneciente a la Secretaría, cuando se le sorprenda en la comisión de delito flagrante;
 
@@ -1343,7 +1111,9 @@ XII. Dar seguimiento al cumplimiento de las sanciones que imponga el Consejo de 
 
 XIII. Emitir y ordenar, dentro de su ámbito legal de competencia, la aplicación de las sanciones en los procedimientos administrativos correspondientes, que no sean competencia del Consejo de Honor y de Justicia de la Secretaría;
 
-XIV. Dar seguimiento a los correctivos disciplinarios impuestos por el Consejo de Honor y Justicia de la Secretaría a los elementos policiales, de seguridad y custodia y, en general, al personal de seguridad pública, solicitando el registro correspondiente, en el Sistema Nacional de Seguridad Pública;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2013)</small>
+
+XIV. Dar seguimiento a los correctivos disciplinarios impuestos por el Consejo de Honor y Justicia de la Secretaría a los elementos policiales, y, en general, al personal de seguridad pública, solicitando el registro correspondiente, en el Sistema Nacional de Seguridad Pública;
 
 XV. Realizar supervisiones en las instalaciones y zonas de responsabilidad, o en aquellos lugares en donde las instituciones de seguridad pública desempeñen sus funciones, con el objeto de detectar o reportar al personal que incurra en faltas a los principios de actuación, deberes y obligaciones contemplados en la ley de la materia, previa autorización de quien sea titular de la Secretaría;
 
@@ -1543,7 +1313,7 @@ SEGUNDO. Se abroga el Reglamento Interior de la Secretaría de Seguridad Públic
 
 TERCERO. Dentro del término de 90 días hábiles posteriores a la publicación del presente Reglamento, se deberán actualizar los Manuales de Organización y de Políticas y Procedimientos respectivos.
 
-CUARTO. Corresponde a la Subsecretaría de Reinserción Social conocer de los casos que deban sustanciarse en términos de la Ley de Ejecución de Sanciones y Medidas de Seguridad Privativas y Restrictivas de la Libertad, en términos del Artículo Cuarto Transitorio de la Ley de Reinserción Social y Seguimiento de Medidas Cautelares.
+CUARTO. (DEROGADO, P.O. 29 DE MAYO DE 2013)
 
 Dado en la residencia del Poder Ejecutivo, en la Ciudad de Cuernavaca, capital del Estado de Morelos, a los diecisiete días del mes de mayo del año dos mil once.
 
@@ -1580,3 +1350,11 @@ SEGUNDO. La Secretaría de Seguridad Pública en un plazo de 120 días naturales
 TERCERO. Se derogan todas las disposiciones administrativas de igual o menor rango que se opongan al presente Decreto.
 
 CUARTO. En virtud del presente Decreto la Dirección General de la Ayudantía del C. Gobernador deberá transferirse, junto con los recursos humanos, materiales y financieros que la conforman, a la Secretaría de Seguridad Pública.
+
+P.O. 29 DE MAYO DE 2013.
+
+PRIMERA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
+
+SEGUNDA. Se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al presente Decreto.
+
+TERCERA. En un plazo que no exceda de sesenta días naturales del inicio de la vigencia del presente Decreto, las Secretarías de Gobierno y de Seguridad Pública deberán realizar las modificaciones necesarias a la normatividad administrativa interna que corresponda y expedir los correspondientes Manuales de Organización y Políticas y Procedimientos.
