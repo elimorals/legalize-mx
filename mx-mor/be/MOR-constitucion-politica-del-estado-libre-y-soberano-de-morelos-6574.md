@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2013-04-24"
+last_updated: "2013-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2013.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -2328,7 +2328,7 @@ La Ley determinará los demás procedimientos que deban seguirse para el uso del
 
 DE LA DEFENSORÍA PÚBLICA.
 
-> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2013)</small>
 
 ###### Artículo 102.
 
@@ -2412,7 +2412,11 @@ DE SU ORGANIZACION POLITICA.
 
 ###### Artículo 106.
 
-La Defensoría Pública ejercerá las funciones que en materia penal le atribuye el artículo 20, fracción IX, de la Constitución General de la República y las demás disposiciones jurídicas aplicables.
+El Estado garantizará a la población un servicio gratuito de defensoría pública de calidad en la rama penal y en materia familiar. En los términos que estipulen las disposiciones normativas.
+
+Asimismo asegurará las condiciones para un servicio profesional de carrera para los defensores del Instituto de la Defensoría Pública del Estado de Morelos.
+
+Las percepciones de los defensores no podrán ser inferiores a las que correspondan a los agentes del Ministerio Público.
 
 > <small>(ADICIONADO, P.O. 16 DE JULIO DE 2008)</small>
 
@@ -4359,3 +4363,11 @@ SEGUNDO.- El Congreso del Estado en un plazo máximo de quince días a partir de
 TERCERO.- La selección e integración del Consejo de Participación Ciudadana, quedará regulada en la Ley secundaria respectiva; debiendo quedar conformado en un plazo de sesenta días hábiles a partir de la publicación de la Ley reglamentaria.
 
 CUARTO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
+
+P.O. 29 DE MAYO DE 2013.
+
+Artículo Primero.- Aprobado que sea el presente decreto, en términos de los numerales 147 y 148 de la Constitución Política del Estado Libre y Soberano de Morelos, remítase al Poder Ejecutivo para su promulgación y publicación en el Periódico Oficial "Tierra y Libertad".
+
+Artículo Segundo.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
+
+Artículo Tercero.- Se derogan todas aquellas disposiciones que contravengan la presente reforma.
