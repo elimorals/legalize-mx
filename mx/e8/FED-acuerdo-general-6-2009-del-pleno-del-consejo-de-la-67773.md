@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-6-2009-del-pleno-del-consejo-de-la-67773"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2009-03-30"
-last_updated: "2013-04-12"
+last_updated: "2013-05-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67773&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2009-02-18"
 ---
 # ACUERDO GENERAL 6/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [BASES PARA QUE LAS ADQUISICIONES, ARRENDAMIENTO DE BIENES MUEBLES, PRESTACION DE SERVICIOS, OBRA PUBLICA Y SERVICIOS]
 
-ACUERDO GENERAL 6/2009, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS BASES PARA QUE LAS ADQUISICIONES, ARRENDAMIENTO DE BIENES MUEBLES, PRESTACIÓN DE SERVICIOS, OBRA PÚBLICA Y LOS SERVICIOS RELACIONADOS CON LA MISMA, SE AJUSTEN A LOS CRITERIOS CONTEMPLADOS EN EL ARTÍCULO 134 DE LA CONSTITUCIÓN POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
+ACUERDO GENERAL 6/2009, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS BASES PARA QUE LAS ADQUISICIONES, ARRENDAMIENTO DE BIENES MUEBLES, PRESTACIÓN DE SERVICIOS, OBRA PÚBLICA Y LOS SERVICIOS RELACIONADOS CON LA MISMA, SE AJUSTEN A LOS CRITERIOS CONTEMPLADOS EN EL ARTÍCULO 134 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE MAYO DE 2013.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 30 de marzo de 2009.
 
@@ -135,7 +135,13 @@ XXIII. Testigo Social: Es quien actúa en representación honorífica de la soci
 
 NATURALEZA DE LOS CONTRATOS. Los contratos que celebre el Consejo en el marco del presente Acuerdo son de carácter administrativo, destinados a satisfacer las necesidades del Poder Judicial de la Federación, para el debido cumplimiento de las funciones encomendadas al Consejo por la Constitución General y por la Ley, y por tanto, su naturaleza se considera de interés público.
 
-En los supuestos en que los bienes, arrendamientos, obra pública y servicios se proporcionen por dependencias o entidades de la Administración Pública Federal, del Distrito Federal, de Entidades Federativas o Municipales y por cualquier circunstancia debidamente justificada o bien por ser la más conveniente para el Consejo, no puedan ser adjudicados bajo los procedimientos previstos en el presente Acuerdo, se celebrarán convenios de colaboración, coordinación o el instrumento jurídico que legalmente proceda. Asimismo, cuando los entes públicos proporcionen los bienes, arrendamientos, obra pública y servicios con la intervención de terceros, se solicitará la autorización de la Comisión; en ambos supuestos se requerirá la aprobación de la Comisión, previo visto bueno del Comité.
+> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL 13/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE MAYO DE 2013)</small>
+
+Podrán celebrarse convenios de adjudicación o contratos con las dependencias o entidades de la Administración Pública Federal, del Distrito Federal, de Entidades Federativas o Municipales, en forma directa, siempre y cuando de la investigación de mercado se desprenda que dicha adjudicación resulta ser la más conveniente para el Consejo al cumplir con los criterios y principios del artículo 134 de la Constitución Política de los Estados Unidos Mexicanos. La autorización de la adjudicación del convenio a suscribirse será responsabilidad del Comité, quien informará de la misma a la Comisión.
+
+> <small>(ADICIONADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL 13/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE MAYO DE 2013)</small>
+
+Cuando por disposiciones normativas los entes públicos con quienes se contrate no puedan suscribir convenios en los que se pacten garantías o penas convencionales, entre otras de la misma naturaleza, se les exceptuará de su inclusión en el instrumento jurídico que corresponda, independientemente de salvaguardar los intereses del Consejo.
 
 ###### ARTICULO 4.
 
@@ -963,7 +969,7 @@ RESTRICCIONES PARA CONTRATAR. El Consejo se abstendrá de solicitar, invitar, in
 
 I. Las que se encuentren inhabilitadas por cualquiera de los órganos competentes de la Administración Pública Federal, atendiendo al plazo que se hubiere determinado en la resolución respectiva;
 
-II. Se les haya rescindido un contrato celebrado con la Corte, el Tribunal Electoral o el propio Consejo, por causas imputables a dichos proveedores o contratistas;
+II. (DEROGADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL 13/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE MAYO DE 2013)
 
 III. Aquéllas con las que los servidores públicos que intervengan en cualquier forma en la adjudicación del contrato tengan interés personal, familiar o de negocios, incluyendo los que puedan obtener algún beneficio para ellos, sus cónyuges, parientes consanguíneos o por afinidad hasta el cuarto grado, o parientes civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, para socios o sociedades, incluyendo sus representantes legales, respecto de los cuales el servidor público o las personas antes referidas formen o hayan formado parte o las hayan representado durante los dos años previos a la fecha de celebración del procedimiento de contratación de que se trate;
 
@@ -985,11 +991,15 @@ f. Los proveedores o contratistas que contraten servicios de asesoría, consulto
 
 g. Los proveedores o contratistas que se encuentren en situación de retraso en las entregas de los bienes, en la prestación de los servicios o el avance de obra, por causas imputables a ellos mismos, respecto de otro u otros contratos celebrados con el Consejo, siempre y cuando éstos últimos, por tal motivo, hayan resultado gravemente perjudicados, lo que calificará la instancia competente;
 
-h. Las que hayan utilizado información privilegiada proporcionada indebidamente por servidores públicos o sus familiares por parentesco consanguíneo y por afinidad hasta el cuarto grado; e
+h. Las que hayan utilizado información privilegiada proporcionada indebidamente por servidores públicos o sus familiares por parentesco consanguíneo y por afinidad hasta el cuarto grado; e (sic)
 
 i. Las que hayan celebrado contratos en contravención a lo dispuesto por este Acuerdo y demás disposiciones aplicables.
 
 El plazo de impedimento para contratar, no será menor de tres meses ni mayor de cinco años, plazo que comenzará a correr a partir del día siguiente a la fecha de la notificación de la resolución respectiva;
+
+> <small>(ADICIONADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL 13/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE MAYO DE 2013)</small>
+
+j. Se haya rescindido contrato celebrado con la Corte, el Tribunal Electoral o el propio Consejo, por causa imputable al proveedor o contratista y dicha rescisión esté firme con independencia de que se hayan causado o no daños y perjuicios;
 
 VI. Las que pretendan participar en un procedimiento adjudicatorio y previamente hayan realizado o se encuentren realizando, por sí o a través de empresas que formen parte del mismo grupo empresarial, en virtud de otro contrato, trabajos de dirección, coordinación, supervisión o control, laboratorio de análisis y control de calidad, laboratorio de mecánica de suelos y resistencia de materiales y radiografías industriales, preparación de especificaciones de construcción, presupuesto o elaboración de cualquier otro documento, así como asesorías, para la licitación de la adjudicación del contrato de la misma adquisición, arrendamiento, servicio u obra pública;
 
@@ -1195,15 +1205,11 @@ III. Cuando, habiéndose realizado una de carácter nacional, no se presenten pr
 
 IV. En los demás casos en que así lo determine el Comité.
 
-> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL 29/2012 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL 13/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE MAYO DE 2013)</small>
 
 ###### ARTICULO 61.
 
-PRESUPUESTO BASE. Para la adjudicación de los contratos, además de los aspectos señalados en cuanto a la evaluación de las propuestas, se considerará para evaluar la solvencia económica de la propuesta que corresponda, lo siguiente:
-
-I. El presupuesto base que al efecto se elabore, como resultante de la investigación de mercado; y
-
-II. El presupuesto base sirve de rango referencial del valor de los bienes, servicios, arrendamientos y obra pública a contratar, que se obtiene determinando un aproximado o un promedio de los resultados de la investigación de mercado, considerándose como un rango permisible el monto que no sea superior o inferior al diez por ciento del precio de ese instrumento.
+PRESUPUESTO BASE. Para la adjudicación de los contratos, además de los aspectos señalados en cuanto a la evaluación de las propuestas, se considerará para evaluar la solvencia económica de la misma, el presupuesto base que sirve como marco de referencia para el cálculo del valor de los bienes, servicios, arrendamientos y obra pública a contratar.
 
 ###### ARTICULO 62.
 
@@ -1417,7 +1423,9 @@ MODIFICACION DE LAS BASES. Sólo con el conocimiento de todos los participantes 
 
 COSTO, INSCRIPCION Y REVISION PRELIMINAR. En caso de que las bases impliquen un costo, deberá ser cubierto directamente por los interesados en la Tesorería General del Consejo o mediante depósito en la cuenta bancaria que ésta determine. Dicho pago deberá cubrirse previamente a su inscripción.
 
-Para tener derecho a presentar propuestas, los interesados deberán inscribirse a la licitación en las oficinas del Area de Adquisiciones, Servicios o la de Administración Regional, según corresponda, presentando el recibo oficial que le haya expedido la Tesorería General del Consejo.
+> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL 13/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE MAYO DE 2013)</small>
+
+Para tener derecho a presentar propuestas, los interesados deberán inscribirse en el procedimiento de contratación que corresponda en la oficina del área operativa que lo lleve a cabo, para lo cual deberá presentar el recibo oficial que haya expedido la Tesorería General del Consejo. En el caso de encontrarse previsto en las bases, el interesado podrá utilizar los medios electrónicos autorizados por el Consejo.
 
 En caso de que la licitación pública se realice en alguno de los Estados de la Federación, en las bases se indicará el lugar en que deberán inscribirse los interesados.
 
@@ -3160,3 +3168,13 @@ CUARTO. Las inconformidades que estén en trámite a la entrada en vigor del pre
 QUINTO. La implementación del Acuerdo deberá realizarse con recursos humanos, materiales y presupuestales asignados al Poder Judicial de la Federación, que están a cargo del Consejo de la Judicatura Federal, por lo que no implicará erogaciones adicionales.
 
 SEXTO. La Secretaría Ejecutiva de Vigilancia, Información y Evaluación, deberá integrar de inmediato el texto de este Acuerdo al diverso Acuerdo General 6/2009, que establece las bases para que las adquisiciones, arrendamiento de bienes muebles, prestación de servicios, obra pública y los servicios relacionados con la misma, se ajusten a los criterios contemplados en el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos.
+
+D.O.F. 29 DE MAYO DE 2013.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, así como en la página de Intranet del Consejo.
+
+TERCERO. Se derogan todas las disposiciones emitidas por el Consejo que se opongan al presente Acuerdo.
+
+CUARTO. La Secretaría Técnica de la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales, deberá integrar de inmediato el texto de esta reforma, al Acuerdo General 6/2009, del Pleno del Consejo de la Judicatura Federal, que establece las bases para que las adquisiciones, arrendamiento de bienes muebles, prestación de servicios, obra pública y los servicios relacionados con la misma, se ajusten a los criterios contemplados en el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos.
