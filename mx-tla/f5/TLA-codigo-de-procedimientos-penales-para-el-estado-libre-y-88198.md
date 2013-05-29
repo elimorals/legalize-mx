@@ -4,7 +4,7 @@ identifier: "TLA-codigo-de-procedimientos-penales-para-el-estado-libre-y-88198"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-05-30"
-last_updated: "2012-05-30"
+last_updated: "2013-05-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88198&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2013.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Tlaxcala, el miércoles 30 de mayo de 2012.
 
@@ -6193,13 +6193,21 @@ Cuando el Juez tenga conocimiento, por informe fundado, de que desaparecieron la
 
 ## TRANSITORIOS
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2013)</small>
+
 Artículo Primero. Inicio de Vigencia.
 
-El presente Código de Procedimientos Penales para el Estado Libre y Soberano de Tlaxcala entrará en vigor al año siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+El presente Código de Procedimientos Penales para el Estado Libre y Soberano de Tlaxcala deberá publicarse en el Periódico Oficial del Gobierno del Estado de Tlaxcala y entrará en vigor el día treinta y uno de enero del año dos mil catorce.
 
-Artículo Segundo. Abrogación y derogación.
+Con base en la gradualidad contemplada en el Artículo Segundo Transitorio del Decreto de reformas y adiciones a la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el dieciocho de junio del año dos mil ocho, el presente Código se aplicará de manera gradual y progresiva, bajo el criterio de delitos en bloques y distritos judiciales conforme a lo siguiente:
 
-En el plazo de entrada en vigor de este Código, se abrogará el Código de Procedimientos Penales publicado en el Periódico Oficial del Gobierno del Estado de Tlaxcala de fecha dos de enero de mil novecientos ochenta y sus reformas; así mismo, se deroga cualquier disposición que se oponga a lo preceptuado en este ordenamiento.
+El día treinta y uno de enero de dos mil catorce iniciará su aplicación en el Distrito Judicial de Guridi y Alcocer y únicamente respecto de los delitos no graves. Posteriormente, el día treinta y uno de enero de dos mil quince iniciará su aplicación en el Distrito Judicial de Sánchez Piedras igualmente respecto de los delitos no graves. Finalmente, el día treinta y uno de enero de dos mil dieciséis entrará en funcionamiento el nuevo sistema de justicia penal, en ambos distritos judiciales y respecto de cualquier delito previsto y sancionado en el Código Penal para el Estado Libre y Soberano de Tlaxcala así como respecto de los delitos especiales previstos en los ordenamientos legales vigentes en el Estado de Tlaxcala.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2013)</small>
+
+Artículo Segundo. Abrogación y Derogación.
+
+El Código de Procedimientos Penales para el Estado Libre y Soberano de Tlaxcala, promulgado el dos de enero de mil novecientos ochenta y sus reformas, se abrogarán de manera paulatina conforme el presente ordenamiento entre en vigor, de acuerdo a la gradualidad establecida en el artículo primero transitorio del presente Decreto.
 
 Artículo Tercero. Aplicación de este Código.
 
@@ -6218,6 +6226,20 @@ Artículo Sexto. Eficacia Retroactiva.
 Siempre que sea oportuno dentro del trámite procesal, deberán aplicarse en el curso del procedimiento regido por el Código anterior las disposiciones del presente ordenamiento que se refieran: A) indemnización al imputado, B) facultad de no inicio de la investigación, archivo temporal y aplicación de los criterios de oportunidad en el ejercicio de la acción penal, salvo la que aluda a casos de delincuencia organizada, C) acuerdos reparatorios y suspensión del proceso a prueba, D) procedimiento abreviado y E) recurso de revisión.
 
 Las facultades que este Código le concede al Juez de Control, serán ejercidas, para efectos de este artículo, por el Juez Penal de Primera Instancia.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2013)</small>
+
+Artículo Séptimo. Previsión presupuestal.
+
+El Titular del Poder Ejecutivo del Estado, al presentar la iniciativa de Decreto de Presupuesto de Egresos del Estado correspondiente a los ejercicios fiscales en los que deba iniciar la aplicación del presente Código en términos del artículo Primero Transitorio, especificará los conceptos y montos que deben destinarse para la implementación del Sistema Penal Acusatorio en el Estado de Tlaxcala, los cuales serán valorados y; en su caso, aprobados por el Congreso del Estado de Tlaxcala en términos de lo que dispone el Artículo Octavo Transitorio del Decreto de reformas y adiciones a la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el dieciocho de junio del año dos mil ocho.
+
+Este Presupuesto deberá destinarse al diseño de las reformas legales, los cambios organizacionales, la construcción y operación de la infraestructura, y la capacitación necesarias para Jueces, Agentes del Ministerio Público, Policías, Defensores, Peritos y Abogados.
+
+> <small>(ADICIONADO, P.O. 29 DE MAYO DE 2013)</small>
+
+Artículo Octavo. Normatividad complementaria.
+
+El Pleno del Tribunal Superior de Justicia del Estado de Tlaxcala, el Consejo de la Judicatura del Poder Judicial y el Titular de la Procuraduría General de Justicia del Estado de Tlaxcala; según corresponda, además de las facultades que expresamente les confiere este Código y demás disposiciones legales aplicables, podrán expedir los acuerdos generales, lineamientos, manuales y demás normatividad que resulte necesaria para la correcta implementación y funcionamiento del Proceso Penal Acusatorio en el Estado.
 
 EJECUTIVO PARA QUE LO SANCIONE Y MANDE PUBLICAR
 
@@ -6242,3 +6264,15 @@ EL SECRETARIO DE GOBIERNO
 NOE RODRIGUEZ ROLDAN
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 29 DE MAYO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente decreto.
