@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-administracion-del-9071
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-01-02"
-last_updated: "2013-01-02"
+last_updated: "2013-05-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE ADMINISTRACIÓN DEL PODER EJECUTIVO DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2013.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 2 de enero de 2013.
 
@@ -81,7 +81,7 @@ III. Secretaría Técnica del Titular de la Secretaría;
 
 IV. Dirección General de Recursos Humanos;
 
-V. Dirección General de Adquisiciones;
+V. (DEROGADA, P.O. 29 DE MAYO DE 2013)
 
 VI. Dirección General de Patrimonio;
 
@@ -137,7 +137,9 @@ X. Dirigir y controlar, en coordinación con las autoridades correspondientes de
 
 XI. Dirigir el sistema de administración, registro y control de bienes de la Administración Pública Central;
 
-XII. Regular el interés de la Administración Pública Central en la adquisición, enajenación, comodato, destino o afectación de los bienes inmuebles de su patrimonio, así como, en coordinación con las Secretarías y Dependencias involucradas, determinar normas y procedimientos para formular inventarios y los avalúos de los mismos;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2013)</small>
+
+XII. Regular el interés de la Administración Pública Central en el destino o afectación de los bienes muebles de su patrimonio, así como, en coordinación con las Secretarías y Dependencias involucradas, determinar normas y procedimientos para formular inventarios y los avalúos de los mismos.
 
 XIII. Autorizar la propuesta de las estrategias de comunicaciones, telecomunicaciones y telefonía de la Administración Pública Central; sin perjuicio de la coordinación y control de los sistemas de radiocomunicación y de comunicación que le corresponda a la Secretaría de Gobierno o la Secretaría de Seguridad en el ámbito de sus respectivas competencias;
 
@@ -361,25 +363,7 @@ En relación con las atribuciones antes mencionadas y tratándose de los organis
 
 ###### Artículo 13.
 
-A la persona titular de la Dirección General de Adquisiciones, le corresponderá ejercer las siguientes atribuciones específicas:
-
-I. Elaborar la propuesta de la política de administración de los recursos materiales de la Administración Pública Central, así como los sistemas correspondientes y someterla a consideración de la persona titular de la Secretaría;
-
-II. Desarrollar, instrumentar, ejecutar, controlar y evaluar el sistema de adquisiciones en plataforma de sistema de intercambio de información en red o internet para el suministro de bienes muebles a la Administración Pública Central;
-
-III. Procurar que las adquisiciones que se realicen con cargo a recursos del gobierno federal y estatal, se sujeten a las disposiciones que determina la legislación correspondiente;
-
-IV. Concentrar y ejecutar el Programa Anual de Adquisiciones con base en el presupuesto autorizado de la Administración Pública Central y someterlo a la aprobación de las autoridades competentes;
-
-V. Desarrollar, instrumentar, ejecutar, controlar y evaluar el sistema para la contratación de los servicios, así como los arrendamientos de los bienes muebles e inmuebles que requiera la Administración Pública Central excluyendo aquellas contrataciones de servicios cuya facultad es exclusiva de la Dirección General de Recursos Humanos;
-
-VI. Elaborar, autorizar, suscribir y controlar las contrataciones y convenios que requiera la Administración Pública Central, exceptuando aquellas que versen en materia de obra pública y servicios relacionados con la misma, aquellas cuyo ejercicio corresponda a otra autoridad de la Administración Pública Central, así como las que deba autorizar y controlar la Dirección General de Recursos Humanos;
-
-VII. Substanciar los procedimientos de recisión de contratos o convenios, cuando existan causas para ello, en el ámbito de su competencia y con la intervención legal de la Consejería Jurídica, y
-
-VIII. Las demás que le confieran las disposiciones jurídicas aplicables o le delegue la persona titular de la Secretaría.
-
-En relación con las atribuciones antes mencionadas y tratándose de los organismos auxiliares, se les brindará la asesoría necesaria y en su caso, se emitirán las opiniones correspondientes, cuando así lo soliciten.
+(DEROGADO, P.O. 29 DE MAYO DE 2013)
 
 ###### Artículo 14.
 
@@ -409,9 +393,15 @@ XI. Participar en los actos formales de entrega recepción de la Administración
 
 XII. Realizar todos los actos necesarios para la conservación, protección y recuperación de los bienes propiedad de la Administración Pública Central en coordinación con la Consejería Jurídica;
 
-XIII. Substanciar los procedimientos de recisión de contratos o convenios, cuando existan causas para ello, en el ámbito de su competencia y con la intervención legal de la Consejería Jurídica, y
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2013)</small>
 
-XIV. Las demás que le confieran las disposiciones jurídicas aplicables o le delegue la persona titular de la Secretaría.
+XIII. Tramitar los procedimientos de recisión de contratos de arrendamientos de inmuebles celebrados por la Administración Pública Central, cuando existan causas para ello, en el ámbito de su competencia y con la intervención legal de la Consejería Jurídica;
+
+> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2013)</small>
+
+XIV. Elaborar, autorizar, suscribir y controlar las contrataciones y convenios que requiera la Administración Pública Central en materia de arrendamiento de inmuebles;
+
+XV. Las demás que le confieran las disposiciones jurídicas aplicables o le delegue la persona titular de la Secretaría.
 
 En relación con las atribuciones antes mencionadas y tratándose de los organismos auxiliares, se les brindará la asesoría necesaria y en su caso, se emitirán las opiniones correspondientes, cuando así lo soliciten.
 
@@ -483,7 +473,9 @@ III. Supervisar que el parque vehicular de la Administración Pública Central c
 
 IV. Evaluar el estado de los vehículos propiedad de la Administración Pública Central, para dictaminar la costeabilidad de las reparaciones, así como vigilar que se encuentren en condiciones óptimas para prestar el servicio encomendado; en su caso, realizar el dictamen técnico para poder dar de baja unidades vehiculares, propiedad de la Administración Pública Central;
 
-V. Desarrollar e instrumentar las políticas para la adquisición de nuevas unidades vehiculares que realice la Administración Pública Central;
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 2013)</small>
+
+V. Desarrollar e instrumentar las políticas y lineamientos técnicos para la adquisición de nuevas unidades vehiculares que realice la Administración Pública Central;
 
 VI. Proponer a la persona titular de la Secretaría los criterios y políticas de conservación de las unidades vehiculares de la Administración Pública Central, a través de los proyectos de programas de mantenimiento preventivo y correctivo;
 
@@ -636,3 +628,13 @@ EL SECRETARIO DE ADMINISTRACIÓN
 CARLOS RIVA PALACIO THAN
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 29 DE MAYO DE 2013.
+
+PRIMERA. El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Estado de Morelos.
+
+SEGUNDA. Se instruye a las personas titulares de la Secretaria de Administración y la Secretaría Ejecutiva de la Gubernatura, a través de la Unidad de Procesos para la Adjudicación de Contratos del Poder Ejecutivo, para que dentro del plazo de treinta días contados a partir de la publicación del presente Decreto, se realicen todas las acciones necesarias a fin de que los recursos humanos, materiales y presupuestales asignados a la Secretaría de Administración, destinados a la Dirección General de Adquisiciones, se transfieran y se reasignen a la Unidad de Procesos para la Adjudicación de Contratos del Poder Ejecutivo, mediante las formalidades y procedimientos administrativos necesarios.
+
+TERCERA. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
