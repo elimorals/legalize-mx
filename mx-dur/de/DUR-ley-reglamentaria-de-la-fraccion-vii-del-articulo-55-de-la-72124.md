@@ -4,7 +4,7 @@ identifier: "DUR-ley-reglamentaria-de-la-fraccion-vii-del-articulo-55-de-la-7212
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-24"
-last_updated: "2011-12-29"
+last_updated: "2013-05-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72124&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY REGLAMENTARIA DE LA FRACCIÓN VII DEL ARTÍCULO 55 DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2013.
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Durango, el jueves 24 de diciembre de 2009.
 
@@ -138,6 +138,18 @@ La condecoración Francisco Villa se conferirá a los servidores públicos del E
 ###### ARTÍCULO 10.
 
 La condecoración Francisco Zarco se otorgará a los periodistas locales, nacionales o extranjeros que con su trabajo hayan contribuido al fortalecimiento de la libertad de información.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2013)</small>
+
+Cada año el Congreso del Estado, a través de la Gran Comisión y en coordinación con los periodistas de la entidad, emitirá la convocatoria correspondiente con la finalidad de llevará (sic) a cabo un concurso Estatal denominado: “Premio Estatal de Periodismo”, en el cual, podrán participar los periodistas locales que cumplan con los requisitos establecidos en la misma.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2013)</small>
+
+El 7 de junio del año que corresponda, el Congreso del Estado en espacio solemne en sesión del Pleno, otorgará las condecoraciones o reconocimientos respectivos a los periodistas ganadores.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2013)</small>
+
+La convocatoria deberá expedirse a más tardar el último día del mes marzo de cada año, su contenido estará sujeto a los (sic) que disponga la Gran Comisión del Congreso del Estado.
 
 ###### ARTÍCULO 11.
 
@@ -542,5 +554,19 @@ DECRETO No. 250 SE REFORMA EL ARTÍCULO 13.
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
 
 ###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones legales en lo que se opongan al presente decreto.
+
+P.O. 30 DE MAYO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+publíquese el presente decreto en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente decreto entrará en vigor al día siguiente de (sic) publicación, en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones legales en lo que se opongan al presente decreto.
