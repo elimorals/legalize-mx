@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-cultura-para-el-estado-de-durango-69041"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-07"
-last_updated: "2011-11-10"
+last_updated: "2013-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69041&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE CULTURA PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 7 de junio de 2009.
 
@@ -70,6 +70,60 @@ Esta ley tiene como finalidad, consolidar el estado humanista, social y democrá
 ###### ARTÍCULO 4°.
 
 El diseño, interpretación y aplicación de la política cultural, planes, programas y acciones en materia de desarrollo cultural, deberán ajustarse a los principios, normas y valores que establece la Constitución.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE MAYO DE 2013)</small>
+
+Son autoridades responsables de la aplicación de la presente Ley, las siguientes:
+
+I. El Titular del Poder Ejecutivo del Estado;
+
+II. La Secretaría de Educación del Estado;
+
+III. El Instituto de Cultura del Estado de Durango, y
+
+IV. Los Ayuntamientos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE MAYO DE 2013)</small>
+
+Dichas autoridades se coordinarán entre sí, para elaborar los programas de desarrollo cultural del Estado, así como para su aplicación en el ámbito respectivo, a fin de que la política cultural en la Entidad, abarque a todos los municipios, individuos, comunidades y grupos sociales.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2013)</small>
+
+ARTÍCULO 4 BIS. El Gobierno del Estado por conducto del Instituto, tiene las siguientes obligaciones:
+
+I. Garantizar los derechos de todos los habitantes del Estado, así como el acceso de éstos a los bienes y servicios culturales, con sustentabilidad y perspectiva de género;
+
+II. Diseñar políticas, programas y acciones de investigación, difusión, vinculación, promoción, fomento, rescate y preservación de la cultura y su historia;
+
+III. Apoyar las actividades de investigación, estudios, proyectos, formación, capacitación y divulgación relativas a la cultura y vinculadas a los diversos sectores sociales que intervienen en su ejecución en el Estado;
+
+IV. Impulsar y estimular los procesos, proyectos y actividades culturales de los distintos grupos sociales, en un marco de reconocimiento y respeto por la diversidad cultural del Estado;
+
+V. Garantizar los derechos humanos de libertad de expresión y manifestación, que no se ejerza ningún tipo de censura o discriminación, por razones de carácter cultural de acuerdo a los ordenamientos en la materia;
+
+VI. Preservar, promover, desarrollar y difundir las manifestaciones de las culturas populares e indígenas del Estado;
+
+VII. Proponer estudios e investigaciones que permitan una mejor orientación de las tareas de la cultura para que la sociedad adquiera el conocimiento;
+
+VIII. Promover el desarrollo cultural articulado con el desarrollo social, económico y turístico del Estado;
+
+IX. Suscribir convenios y acuerdos para la gestión, impulso y fomento de las actividades tendientes al desarrollo cultural del Estado;
+
+X. Celebrar convenios con la Federación, otras entidades federativas, los ayuntamientos del Estado, instituciones oficiales o particulares y con personas físicas o morales que favorezcan el desarrollo cultural de la Entidad, para concertar acciones que tengan por objeto la preservación, promoción, difusión e investigación de la cultura;
+
+XI. Apoyar la celebración de las manifestaciones populares propias de las culturas duranguenses, así como actividades artísticas en los municipios y regiones de la Entidad;
+
+XII. Fomentar la creación, conservación, ampliación y adecuación de la infraestructura cultural;
+
+XIII. Promover la constante capacitación para los trabajadores y promotores de la cultura;
+
+XIV. Dictar los acuerdos administrativos necesarios para la eficaz coordinación y ejecución de programas culturales, que realicen las instituciones públicas;
+
+XV. Crear incentivos económicos, crediticios y programas de apoyo para personas e instituciones que impulsen el desarrollo cultural;
+
+XVI. Promover la celebración de festivales estatales, regionales, nacionales e internacionales, para difundir la cultura de la Entidad, y
+
+XVII. Las demás que en la materia se le otorguen por esta Ley y por otros ordenamientos.
 
 ###### ARTÍCULO 5°.
 
@@ -209,13 +263,41 @@ II. Promover, difundir y estimular la obra de los artistas, creadores y difusore
 
 III. Propiciar las condiciones para que, sin demérito de su régimen de propiedad o de posesión, los particulares permitan la exhibición pública de colecciones o bienes individuales adscritos al patrimonio cultural;
 
-IV. Fomentar la cooperación con los sectores público, social y privado de los tres órdenes de gobierno, otras entidades federativas, organizaciones internacionales, no gubernamentales y comunitarias dedicadas al desarrollo cultural, y
+IV. Fomentar la cooperación con los sectores público, social y privado de los tres órdenes de gobierno, otras entidades federativas, organizaciones internacionales, no gubernamentales y comunitarias dedicadas al desarrollo cultural, y (sic)
 
-V. Realizar todas la acciones y medidas necesarias que coadyuven al desarrollo cultural.
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2013)</small>
+
+V. Realizar todas las acciones y medidas necesarias que coadyuven al desarrollo cultural, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE MAYO DE 2013)</small>
+
+VI. Garantizar la libertad de expresión y creación cultural.
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2013)</small>
 
 ###### ARTÍCULO 17.
 
-El Estado deberá garantizar la libertad de expresión y creación cultural.
+Además de las obligaciones que le establece la Ley Orgánica de la Administración Pública del Estado de Durango, corresponde a la Secretaría de Educación del Estado, en su ámbito de competencia:
+
+I. Propiciar la formación cultural de los niños, jóvenes y adultos, escolarizados, semiescolarizados e inscritos en los sistemas de educación abierta, a través de diferentes programas que incluyan la enseñanza de las artes y el fomento a la cultura, como parte de la educación básica obligatoria;
+
+II. Capacitar y actualizar a los docentes encargados de los espacios curriculares destinados a la educación artística;
+
+III. Incorporar a los planes y programas estatales de estudio, los criterios y acciones relativos a la educación artística en todos los niveles, así como la asimilación de las culturas populares duranguenses;
+
+IV. Incorporar en los distintos planes y programas de estudio, estrategias para fomentar el hábito de la lectura, a fin de contribuir a la formación intelectual y cultural de los educandos, así como fortalecer el orgullo de pertenencia a las culturas locales;
+
+V. Garantizar a los educandos indígenas la enseñanza de su lengua y sus valores culturales;
+
+VI. Formar y capacitar a los trabajadores culturales por medio de actividades académicas con valor curricular, que contribuyan al rescate, promoción y difusión de las culturas;
+
+VII. Contribuir con el Instituto, en la formulación y ejecución de programas específicos en materia cultural;
+
+VIII. Celebrar convenios de colaboración para la promoción y difusión cultural con Ayuntamientos, instituciones educativas públicas y privadas, organismos públicos descentralizados, grupos, asociaciones civiles y patronatos de gestión cultural, y
+
+IX. Las demás que le otorgue esta Ley.
+
+Las instituciones educativas públicas y privadas, con el apoyo y orientación del Sistema, deberán cumplir los programas de educación artística y formación para las artes, para incidir en la dimensión práctica y experimental de la música, la pintura, la literatura, la artesanía, la escultura, la danza, el teatro, las artes visuales y demás actividades susceptibles de coadyuvar, despertar y desarrollar la creatividad, de acuerdo con la vocación personal del educando.
 
 ###### ARTÍCULO 18.
 
@@ -224,6 +306,48 @@ Las dependencias y entidades públicas diseñarán e instrumentarán políticas,
 ###### ARTÍCULO 19.
 
 Las acciones para el desarrollo cultural que se emprendan por el Estado, los Ayuntamientos, los particulares y las comunidades, se instrumentarán con pleno respeto de su diversidad cultural, y deberán propiciar el intercambio cultural, promoviendo la revaloración y el fortalecimiento de las diversas identidades.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE MAYO DE 2013)</small>
+
+Además de las obligaciones que les establece la Ley Orgánica del Municipio Libre del Estado de Durango, corresponde a los ayuntamientos en materia de cultura promover:
+
+I. Los derechos culturales, de todos los habitantes del municipio, así como su acceso a los bienes y servicios culturales con que el mismo cuenta;
+
+II. Las políticas culturales de su jurisdicción y el Programa de Desarrollo Cultural Municipal, en concordancia con los Planes Estatal y Municipal de Desarrollo;
+
+III. La designación de un responsable encargado de ejecutar, evaluar e impulsar los programas del municipio destinados al desarrollo cultural del mismo;
+
+IV. Convenios con las instancias públicas estatales y federales, así como con las personas físicas o jurídicas de carácter privado, para la adecuada coordinación de las actividades culturales del municipio;
+
+V. Programas para el desarrollo de las actividades culturales dentro del territorio municipal;
+
+VI. Recursos destinados a la cultura y recreación en su presupuesto de egresos;
+
+VII. La investigación de las manifestaciones culturales propias del municipio, sus ferias, tradiciones y costumbres;
+
+VIII. El rescate, preservación, valoración y difusión del patrimonio cultural del municipio, conforme a las leyes vigentes en la materia;
+
+IX. En el ámbito de su competencia, los reglamentos que normen la actividad cultural en el territorio municipal;
+
+X. El otorgamiento de premios, reconocimientos o estímulos a los individuos, organizaciones e instituciones públicas o privadas que se hayan destacado en la creación artística o en la promoción, preservación, difusión e investigación de la cultura en el ámbito de su jurisdicción;
+
+XI. El registro de las personas que se dediquen a la creación, fomento, apoyo o promoción de actividades culturales y artísticas en el municipio;
+
+XII. La elaboración y actualización del inventario de espacios públicos con que cuenta el municipio para la realización de actividades culturales y artísticas;
+
+XIII. La creación, ampliación y mantenimiento de bibliotecas, hemerotecas, casas municipales de la cultura, museos, auditorios, teatros y centros culturales;
+
+XIV. La integración de consejos ciudadanos coadyuvantes en la promoción y divulgación cultural y artística;
+
+XV. El rescate, preservación, valoración y difusión del patrimonio cultural del municipio;
+
+XVI. La difusión de las manifestaciones de las culturas populares e indígenas del municipio;
+
+XVII. La preservación de la memoria histórica, mediante la adecuada conservación de los diferentes archivos municipales;
+
+XVIII. El desarrollo cultural municipal que planteen organizaciones de la sociedad civil, organizaciones independientes y organismos privados, con el propósito de fortalecer la toma de decisiones en materia cultural, y
+
+XIX. La creación de un Fondo Municipal para la Cultura y las Artes, en el que se aporten recursos económicos provenientes de diversas instituciones y organismos, que propicie la creación, formación y desarrollo de los creadores y artistas de cada municipio.
 
 ## TÍTULO TERCERO. DE LA POLÍTICA CULTURAL
 
@@ -353,9 +477,23 @@ VI. Fortalecer los programas de sensibilización e iniciación artística que se
 
 VII. El impulso al desarrollo, mantenimiento y conservación de su infraestructura cultural.
 
-###### ARTÍCULO 30.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE MAYO DE 2013)</small>
 
 Los ayuntamientos podrán promover, en coordinación con el Instituto, mecanismos para la capacitación, la certificación académica de competencias y la profesionalización de su personal, de los promotores y gestores culturales.
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2013)</small>
+
+###### ARTÍCULO 30.
+
+Los programas culturales municipales deberán elaborarse con la participación ciudadana y contener cuando menos:
+
+I. Los objetivos y estrategias a desarrollar en la promoción, divulgación, fomento e investigación de la cultura;
+
+II. Las actividades para lograr los objetivos propuestos;
+
+III. Un proyecto de aplicación presupuestal que permita un adecuado y eficiente ejercicio de los recursos; y
+
+IV. Los procedimientos de evaluación y revisión pertinentes para su mejora.
 
 ### CAPÍTULO III. DE LA ACCIÓN CULTURAL Y ARTÍSTICA
 
@@ -855,19 +993,91 @@ VII. Diseñar la normativa técnica en materia de educación cultural y artísti
 
 El Instituto tendrá facultades para elaborar y, en su caso, supervisar y autorizar anualmente los anexos y expedientes técnicos de los convenios estatales de desarrollo, para todos aquellos capítulos relacionados con la cultura en los aspectos de equipamiento, proyectos especiales, promoción, fomento y construcción de obra pública destinada al servicio cultural, así como para la restauración de obras artísticas y del patrimonio arquitectónico e histórico del Estado.
 
-###### ARTÍCULO 101.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE MAYO DE 2013)</small>
 
 El Instituto tiene a su cargo la dirección, operación y administración de las dependencias e instalaciones que, para el cumplimiento de su objeto, le sean asignadas a efecto de contribuir a la preservación del patrimonio cultural, histórico, artístico, paleontológico, arqueológico y arquitectónico, en los términos de la legislación aplicable.
 
-###### ARTÍCULO 102.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2013)</small>
+
+###### ARTÍCULO 101.
 
 El Director General del Instituto será designado y removido libremente por el Ejecutivo del Estado.
+
+El Director General será el ejecutor de las propuestas, política (sic), acuerdos, planes y programas del Instituto; ejercerá las facultades y atribuciones que le confiere esta Ley y las que disponga la Junta Directiva; el cargo deberá recaer en la persona que reúna los siguientes requisitos:
+
+I. Ser mexicano en pleno ejercicio de sus derechos;
+
+II. Tener 30 años cumplidos al día de su designación;
+
+III. Tener una trayectoria cultural relevante, a través de publicaciones o ejecución de obras de reconocido mérito académico;
+
+IV. Tener por lo menos el grado académico de Licenciatura;
+
+V. No tener litigios pendientes contra el Instituto;
+
+VI. Ser de reconocida honorabilidad y no haber sido sentenciado por delitos patrimoniales o inhabilitado para ejercer o para desempeñarse como servidor público, y
+
+VII. No desempeñar un cargo de elección popular.
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2013)</small>
+
+###### ARTÍCULO 102.
+
+Son facultades y atribuciones del Director General del Instituto:
+
+I. Celebrar toda clase de actos jurídicos y administrativos, así como firmar los documentos inherentes a su encomienda y aquellos que expresamente le autorice la Junta Directiva;
+
+II. Ejercer las más amplias facultades de dominio, administración y de pleitos y cobranzas, como la de delegar facultades a otros funcionarios del Instituto, conforme a las disposiciones legales vigentes;
+
+III. Ejercer la facultad de dominio, respecto a los bienes muebles previa autorización de la Junta Directiva; y en el caso de bienes inmuebles, previa autorización del Congreso del Estado, en términos de Ley;
+
+IV. Someter en arbitraje los asuntos en los que sea parte el Instituto;
+
+V. Formular los programas de corto, mediano y largo plazos del Instituto y presentarlos junto con los presupuestos de ingresos y egresos ante la Junta Directiva para su aprobación. Si dentro de los plazos correspondientes no se diera cumplimiento a esta obligación, sin perjuicio de la correspondiente responsabilidad, la Junta Directiva procederá al desarrollo e integración de tales documentos;
+
+VI. Formular los manuales de organización necesarios para dar cumplimiento al objeto del Instituto;
+
+VII. Establecer los criterios, métodos y asignaciones que permitan el óptimo aprovechamiento de los recursos, bienes muebles e inmuebles de que disponga el Instituto para dar cumplimiento a su objeto;
+
+VIII. Recibir, custodiar y manejar los fondos y reservas de acuerdo con lo que establece esta Ley y ejercer los egresos conforme a los presupuestos autorizados por la Junta Directiva;
+
+IX. Establecer los mecanismos de control necesarios para un óptimo y transparente manejo de los recursos económicos a su cargo;
+
+X. Adoptar las medidas pertinentes a fin de que las funciones del Instituto se realicen de manera articulada, congruente y eficaz;
+
+XI. Suscribir los contratos que regulen las relaciones con los servidores públicos que presten sus servicios en el Instituto, pudiendo delegar esta facultad a la persona que para tal efecto designe;
+
+XII. Recabar y manejar la información y elementos estadísticos necesarios que reflejen el estado de las actividades del Instituto;
+
+XIII. Establecer los sistemas de control necesarios para alcanzar las metas y objetivos propuestos;
+
+XIV. Presentar a consideración de la Junta Directiva un informe anual sobre el desarrollo de las actividades del Instituto, incluido el ejercicio de los presupuestos de ingresos y egresos, así como los estados financieros correspondientes. En el Informe y documentos de apoyo que se acompañarán, se cotejarán las metas propuestas y los compromisos adquiridos por la Dirección General;
+
+XV. Asistir a las sesiones de la Junta Directiva, con voz pero sin voto, y ejecutar sus acuerdos;
+
+XVI. Elaborar y dar seguimiento a la planeación estratégica del Instituto, previendo la continuidad y mejoramiento de los lineamientos y programas a largo plazo establecidos;
+
+XVII. Coadyuvar para el desarrollo del Instituto como organización dentro de una filosofía de generación de mejoramiento continuo;
+
+XVIII. Nombrar y remover al personal del Instituto, de conformidad con la legislación de la materia, haciendo del conocimiento de la Junta Directiva el ejercicio de dicha facultad;
+
+XIX. Formular y proponer el Estatuto Orgánico del Instituto, ante la Junta Directiva;
+
+XX. Estimular, promover e impulsar la capacidad de producción en contenidos culturales a través de las instituciones, públicas y privadas que tengan esté propósito en la creación de Pequeñas y Medianas Empresas Culturales y la mejora de los sistemas de financiamiento y gestión de la cultura;
+
+XXI. Desarrollar las estrategias para que la cultura sea un elemento esencial de cohesión social; garantizando la igualdad en el derecho a la cultura y la información;
+
+XXII. Promover la competitividad de las Pequeñas y Medianas Empresas Culturales, incorporando al Estado en los flujos de la cultura digital nacional e internacional, y
+
+XXIII. Todas las demás facultades y atribuciones que le confiera esta ley y otros ordenamientos legales, así como las que otorgue la Junta Directiva.
 
 ### CAPÍTULO II. DE LA ESTRUCTURA DEL INSTITUTO
 
 ###### ARTÍCULO 103.
 
 La dirección y administración del Instituto estarán a cargo de una Junta Directiva y una Dirección General. El Instituto contará además con un Consejo Consultivo, como órgano de asesoría y consulta.
+
+> <small>N. DE E. EL 30 DE MAYO DE 2013 EN EL PRESENTE ARTÍCULO SE PUBLICARON MODIFICACIONES A LAS FRACCIONES DE LA III A LA XXVII, POR LO QUE SE SUGIERE CONSULTAR LA PUBLICACIÓN OFICIAL.</small>
 
 ###### ARTÍCULO 104.
 
@@ -877,55 +1087,105 @@ I. Casa de la Cultura de Durango;
 
 II. Casa de la Cultura de Gómez Palacio;
 
-III. Casa de la Cultura de Lerdo;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2013)</small>
 
-IV. Conjunto Cultural Durango "Ex Internado Juana Villalobos";
+III. Casa de la Cultura "Francisco Zarco" de Lerdo;
 
-V. Casa de Iniciación al Arte y la Cultura;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2013)</small>
 
-VI. Centro de Arte Multidisciplinario Korian;
+IV. Casa de Iniciación al Arte y la Cultura;
 
-VII. Escuela de la Música Mexicana;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2013)</small>
 
-VIII. Escuela de Arpa Tradicional “Celso Duarte";
+V. Centro de Arte Multidisciplinario Korian;
 
-IX. Museo de las Culturas Populares;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2013)</small>
 
-X. Museo de Arte Contemporáneo "Angel Zárraga";
+VI. Escuela de la Música Mexicana;
 
-XI. Museo de Arte Moderno "Guillermo Ceniceros";
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2013)</small>
 
-XII. Pinacoteca del Estado;
+VII. Escuela de Arpa Tradicional "Celso Duarte";
 
-XIII. Museo de Arte Moderno de Gómez Palacio;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2013)</small>
 
-XIV. Museo de Arqueología de Durango "Ganot-Peschard";
+VIII. Museo de las Culturas Populares;
 
-XV. Museo de la Revolución en Durango "General Domingo Arrieta León";
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2013)</small>
 
-XVI. Museo del Cine en Durango "Rafael Trujillo";
+IX. Museo de Arte Contemporáneo "Ángel Zárraga";
 
-XVII. Museo del Niño;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2013)</small>
 
-XVIII. Museo Interactivo "Bebeleche";
+X. Museo de Arte Moderno "Guillermo Ceniceros";
 
-XIX. Museo de Sitio Casa de Villa, en La Coyotada;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2013)</small>
 
-XX. Museo de Sitio Casa de Villa, en la Exhacienda de Canutillo;
+XI. Pinacoteca del Estado;
 
-XXI. Museo de Sitio Celda de Hidalgo, en Mapimí;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2013)</small>
 
-XXII. Museo de Sitio Casa de Juárez, en Mapimí;
+XII. Museo de Arqueología de Durango "Ganot-Peschard";
 
-XXIII. Biblioteca Central Estatal "Lic. José Ignacio Gallegos Caballero";
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2013)</small>
 
-XXIV. Teatro Ricardo Castro;
+XIII. Museo de Sitio Casa de Villa, en la Coyotada;
 
-XXV. Teatro Dolores del Río;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2013)</small>
 
-XXVI. Teatro del Calvario;
+XIV. Museo de Sitio Casa de Villa, en la Exhacienda de Canutillo;
 
-XXVII. Festival Cultural Revueltas;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2013)</small>
+
+XV. Museo de Sitio Celda de Hidalgo, en Mapimí;
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2013)</small>
+
+XVI. Museo de Sitio Casa de Juárez, en Mapimí;
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2013)</small>
+
+XVII. Biblioteca Central Estatal "Lic. José Ignacio Gallegos Caballero";
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2013)</small>
+
+XVIII. Teatro Ricardo Castro;
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2013)</small>
+
+XIX. Teatro Victoria;
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2013)</small>
+
+XX. Teatro del Calvario;
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2013)</small>
+
+XXI. Teatro Anexo del Museo del Niño;
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2013)</small>
+
+XXII. Grupo de Música Tradicional "Flor y Barro";
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2013)</small>
+
+XXIII. Grupo de Música Norteña;
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2013)</small>
+
+XXIV. Grupo de danza folklórica "Tierra Mestiza";
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2013)</small>
+
+XXV. Museo nacional "Francisco Villa";
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2013)</small>
+
+XXVI. Otros organismos que se creen, y (sic)
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2013)</small>
+
+XXVII. Las demás que el Estado le transfiera, determine o asigne.
 
 XXVIII. Fondo Estatal para el Desarrollo del Arte y la Cultura;
 
@@ -943,6 +1203,8 @@ XXXIV. Las demás que el Estado le transfiera, determine o asigne.
 
 ### CAPÍTULO III. DE LA JUNTA DIRECTIVA
 
+> <small>N. DE E. EL 30 DE MAYO DE 2013 EN EL PRESENTE ARTÍCULO SE PUBLICARON MODIFICACIONES A LAS FRACCIONES III, NUMERALES 5 Y 6 DE LA IV, V Y ÚLTIMO PÁRRAFO, POR LO QUE SE SUGIERE CONSULTAR LA PUBLICACIÓN OFICIAL.</small>
+
 ###### ARTÍCULO 105.
 
 La Junta Directiva, como autoridad superior del Instituto, estará integrada de la siguiente manera:
@@ -951,7 +1213,9 @@ I. Un presidente, que será el titular del Poder Ejecutivo del Estado;
 
 II. Un vicepresidente, que será el titular de la Secretaría de Educación del Estado;
 
-III. Un secretario, que será el titular de la Dirección General del ICED;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2013)</small>
+
+III. Un secretario Técnico, que será el titular de la Dirección General del ICED;
 
 IV. Seis vocales, que serán:
 
@@ -963,13 +1227,17 @@ IV. Seis vocales, que serán:
 
 4. El titular de la Secretaría de Turismo del Estado;
 
-5. El Presidente del Consejo Consultivo del Instituto, y
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2013)</small>
 
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2011)</small>
+5. El Presidente de la Comisión de Cultura del Congreso del Estado, y
 
-6. El Presidente de la Comisión de Cultura del Congreso del Estado.
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2013)</small>
 
-V. Un representante de la instancia normativa federal del sector cultural, y
+6. El Presidente de la Comisión de Educación Pública del Congreso del Estado.
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2013)</small>
+
+V. Un Comisario designado por la Secretaría de la Contraloría del Gobierno del Estado.
 
 VI. Un Comisario designado por la Secretaría de la Contraloría y Modernización Administrativa del Gobierno del Estado.
 
@@ -977,13 +1245,27 @@ Con excepción del Presidente, cuyas ausencias serán suplidas por el vicepresid
 
 Las facultades y atribuciones del Comisario, comprenderán la evaluación del desempeño general y por funciones del Organismo, en los términos de la Ley de Entidades Paraestatales del Estado de Durango.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE MAYO DE 2013)</small>
+
+Los cargos de los participantes en la Junta Directiva serán honoríficos.
+
 ###### ARTÍCULO 106.
 
 La Junta Directiva podrá invitar a las sesiones de la misma a los titulares y representantes de las instituciones culturales y educativas, a los directores de áreas o de las unidades orgánicas y administrativas del Instituto que requiera la agenda respectiva.
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2013)</small>
+
 ###### ARTÍCULO 107.
 
-Los cargos de los participantes en la Junta Directiva serán honoríficos.
+Son facultades de la Junta Directiva:
+
+I. Expedir el Estatuto Orgánico del Instituto, para establecer las bases de organización, facultades y funciones que correspondan a las distintas áreas que integran el Instituto;
+
+II. Velar porque el Instituto cumpla sus lineamientos y políticas generales y hacer las recomendaciones que estime necesarias al respecto;
+
+III. Aprobar los proyectos del Plan Anual de Actividades y presupuestos generales del Instituto; y
+
+IV. Examinar y aprobar el Informe Anual de Actividades del Director General y las demás que las leyes le señalen.
 
 ###### ARTÍCULO 108.
 
@@ -1003,31 +1285,19 @@ V. Vigilar las operaciones del Instituto.
 
 ###### ARTÍCULO 109.
 
-El Consejo Consultivo del Instituto, será un órgano colegiado de asesoría y consulta que apoyará y auxiliará a la Junta Directiva y a la Dirección General, a través de recomendaciones y opiniones respecto de los aspectos y materias en que sea consultado.
+(DEROGADO, P.O. 30 DE MAYO DE 2013)
 
 ###### ARTÍCULO 110.
 
-El Consejo Consultivo se integrará con un presidente, dos secretarios, un vocal técnico y por un mínimo de siete y un máximo de diez vocales.
+(DEROGADO, P.O. 30 DE MAYO 2013)
 
 ###### ARTÍCULO 111.
 
-Formarán parte del Consejo Consultivo:
-
-I. Uno de los extitulares del Instituto o de la extinta Dirección de Asuntos Culturales, quien fungirá como Presidente;
-
-II. Uno de los extitulares del Instituto Municipal del Arte y la Cultura del Municipio de Durango, quien fungirá como Primer Secretario;
-
-III. Uno de los extitulares de la Dirección Municipal de Cultura del Municipio de Gómez Palacio, quien fungirá como Segundo Secretario;
-
-IV. Un reconocido intelectual que por su conocimiento, relevancia y experiencia pueda contribuir al desarrollo institucional del Instituto, quien fungirá como Vocal Técnico;
-
-V. Cuando menos cinco y hasta siete representantes de asociaciones y sociedades civiles que por su desempeño y experiencia puedan aportar propuestas que enriquezcan la labor del Instituto, que fungirán como vocales, y
-
-VI. Cuando menos dos y hasta tres creadores eméritos, creadores, promotores, artistas e intelectuales que por su conocimiento, relevancia y experiencia puedan aportar propuestas que enriquezcan la labor del Instituto, quienes fungirán como vocales.
+(DEROGADO, P.O. 30 DE MAYO DE 2013)
 
 ###### ARTÍCULO 112.
 
-Para la integración del Consejo Consultivo, el Director General del mismo propondrá su integración atendiendo a lo señalado en el artículo anterior y lo someterá a la aprobación de la Junta Directiva.
+(DEROGADO, P.O. 30 DE MAYO DE 2013)
 
 ### CAPÍTULO V. DE LAS COMISIONES; COMITÉS Y OTROS ORGANISMOS DE PARTICIPACIÓN CIUDADANA
 
@@ -1254,3 +1524,9 @@ Publíquese en el Periódico Oficial del Gobierno Constitucional del Estado de D
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones legales que se opongan al contenido del presente.
+
+P.O. 30 DE MAYO DE 2013.
+
+PRIMERO.- El presente Decreto iniciará su vigencia a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
