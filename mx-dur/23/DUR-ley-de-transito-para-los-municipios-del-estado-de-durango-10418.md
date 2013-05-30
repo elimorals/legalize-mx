@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-transito-para-los-municipios-del-estado-de-durango-10418
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-22"
-last_updated: "2011-12-13"
+last_updated: "2013-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10418&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DE TRÁNSITO PARA LOS MUNICIPIOS DEL ESTADO DE DURANGO
 
 > <small>N. DE E. EN TÉRMINOS DEL ARTÍCULO CUARTO TRANSITORIO DE LA LEY DE TRANSPORTES PARA EL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 13 DE JUNIO DE 2002, SE DEROGAN LAS DISPOSICIONES QUE SE OPONGAN A LA PRESENTE LEY EN MATERIA DE AUTORIZACIÓN, EXPEDICIÓN, RENOVACIÓN Y REPOSICIÓN DE LICENCIAS DE CHOFER DEL SERVICIO PÚBLICO, ESTABLECIDAS EN LA LEY DE TRÁNSITO PARA LOS MUNICIPIOS DE DURANGO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2013.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 22 de diciembre de 1996.
 
@@ -53,9 +53,7 @@ DECRETO No. 208
 
 LA HONORABLE SEXAGESIMA LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE DURANGO, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 55 DE LA CONSTITUCION POLITICA LOCAL, A NOMBRE DEL PUEBLO, D E C R E T A:
 
-LEY DE TRANSITO PARA LOS MUNICIPIOS
-
-DEL ESTADO DE DURANGO
+LEY DE TRANSITO PARA LOS MUNICIPIOS DEL ESTADO DE DURANGO
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -423,9 +421,13 @@ III.- MOTOCICLISTA
 
 La persona que conduce este tipo de vehículos.
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2013)</small>
+
 ###### ARTICULO 40.
 
-Las licencias para automovilistas, choferes y motociclistas, serán expedidas y renovadas por el Gobierno del Estado de Durango, previa la constancia de aprobación del Examen de Manejo de la Dirección Municipal.
+Las licencias para automovilistas, choferes y motociclistas, serán expedidas y renovadas por el Gobierno del Estado de Durango, previa la constancia de aprobación del Examen de Manejo de la Dirección Municipal, así como el llenado y revisión de la documentación correspondiente.
+
+Las licencias deberán contener la información suficiente para la identificación del interesado, así como su manifestación sobre ser o no donador de órganos, ello de acuerdo al formato que al efecto haga entrega la Secretaría de Salud a través de los entes correspondientes y el cual deberá ser llenado al momento de la solicitud.
 
 ###### ARTICULO 41.
 
@@ -659,7 +661,7 @@ DADO EN EL PALACIO DEL PODER EJECUTIVO, en Victoria de Durango, Dgo., a los cuat
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. MAXIMILIANO SILERIO ESPARZA.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. ALFREDO BRACHO BARBOSA.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 13 DE JUNIO DE 2002.
 
@@ -724,3 +726,29 @@ El Gobierno del Estado, a través de la Secretaría de Finanzas y de Administrac
 Se derogan los apartados relativos al cobro de derechos por la expedición de permisos para circular sin placas, contenidos en el Titulo Tercero de las Leyes de Ingresos para el Ejercicio Fiscal 2012 de los Municipios de Canatlán, Canelas, Coneto de Comonfort, Cuencamé, El Oro, General Simón Bolívar, Guanaceví, Hidalgo, Indé, Lerdo, Mapimí, El Mezquital, Nazas, Nombre de Dios, Nuevo Ideal, Ocampo, Otáez, Pánuco de Coronado, Peñón Blanco, Poanas, Pueblo Nuevo, Rodeo, San Bernardo, San Dimas, San Juan de Guadalupe, San Juan del Río, San Luis de Cordero, San Pedro del Gallo, Santa Clara, Santiago Papasquiaro, Súchil, Tamazula, Tepehuanes, Tlahualilo y Topia.
 
 Los citados Municipios deberán realizar las adecuaciones numéricas que correspondan en sus Leyes de Ingresos en el Título señalado en el párrafo anterior.
+
+P.O. 30 DE MAYO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaria de Salud a través del Centro Estatal de Trasplantes, contará con un plazo de 120 días a partir de la entrada en vigor del presente decreto, para distribuir el formato respectivo, el cual deberá enviar a los entes encargados de la expedición de licencias en los municipios del Estado.
+
+###### ARTICULO CUARTO.
+
+Los entes encargados de la expedición de licencias o los Ayuntamientos, según corresponda, deberán enviar al Centro Estatal de Trasplantes, a más tardar 7 (siete) días, los formatos a que se refiere el artículo 40 de la presente Ley.
+
+###### ARTICULO QUINTO.
+
+En caso de fallecimiento por cualquier tipo de accidente, la autoridad que tenga conocimiento del mismo deberá informar en el caso de que la licencia señale ser donador de órganos, al Centro Estatal de Trasplantes para los trámites correspondientes.
+
+###### ARTICULO SEXTO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
