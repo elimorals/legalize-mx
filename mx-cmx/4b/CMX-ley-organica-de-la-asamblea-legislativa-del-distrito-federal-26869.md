@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-asamblea-legislativa-del-distrito-federal-26
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-12-19"
-last_updated: "2013-02-21"
+last_updated: "2013-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26869&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-12-05"
 
 LEY ORGÁNICA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 21 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE MAYO DE 2013.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 19 de diciembre de 2002.
 
@@ -1494,11 +1494,13 @@ Las leyes o decretos que expida la Asamblea Legislativa se remitirán para su pr
 
 Si se aceptasen las observaciones o si fuese confirmado por las dos terceras partes del número total de votos de los Diputados presentes en la sesión, la ley o decreto se enviará en los términos aprobados, para su promulgación.
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 87], G.O. 30 DE MARZO DE 2005)
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 30 DE MAYO DE 2013)</small>
 
 ###### ARTÍCULO 93.
 
-Las leyes y decretos que expida la Asamblea para su debida aplicación y observancia serán publicados en la Gaceta Oficial del Distrito Federal. Para su mayor difusión también se publicarán en el Diario Oficial de la Federación.
+Las leyes y decretos que expida la Asamblea para su debida aplicación y observancia serán publicados en la Gaceta Oficial del Distrito Federal. Para tal efecto, la Coordinación de Servicios Parlamentarios de la Asamblea, enviará a la Gaceta referida, copia impresa y electrónica de dichos documentos. La copia impresa será certificada en el costado exterior de todas sus fojas mediante la rúbrica del Presidente de la Mesa Directiva y de un Secretario de la misma, sellándola y cotejándola; la versión contenida en documento electrónico, deberá certificarse con firma electrónica avanzada.
+
+Las leyes y decretos que apruebe esta Asamblea, para su mayor difusión igualmente se publicarán en el Diario Oficial de la Federación bajo el procedimiento previamente descrito.
 
 ## TITULO QUINTO. DE LOS PROCEDIMIENTOS DE APROBACIÓN Y RATIFICACIÓN
 
@@ -1933,3 +1935,13 @@ Primero.- Los artículos PRIMERO y SEGUNDO del presente Decreto entrarán en vig
 Segundo.- El artículo TERCERO entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 Tercero.- Remítase el presente decreto al Jefe de Gobierno del Distrito Federal para el efecto de su publicación respecto de los artículos PRIMERO y SEGUNDO, y para su promulgación y publicación respecto del artículo TERCERO, en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 30 DE MAYO DE 2013.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
+
+La incorporación de la firma electrónica avanzada se hará dentro de los treinta días siguientes contados a partir de la entrada en vigor del presente Decreto.
+
+Segundo.- Se derogan las disposiciones y procedimientos que contravengan al presente Decreto.
+
+Tercero.- Remítase al Jefe de Gobierno del Distrito Federal, para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
