@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-interior-de-la-secretaria-de-desarrollo-urbano-y-772
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-10-06"
-last_updated: "2010-10-06"
+last_updated: "2013-05-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77231&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO URBANO Y MEDIO AMBIENTE DEL ESTADO DE QUINTANA ROO
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO URBANO Y MEDIO AMBIENTE DEL ESTADO DE QUINTANA ROO
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO URBANO Y MEDIO AMBIENTE DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO URBANO Y VIVIENDA, PUBLICADO EN EL P.O. DE 30 DE MAYO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 6 de octubre de 2010.
 
@@ -876,3 +878,13 @@ EL SECRETARIO DE GOBIERNO.
 LIC. EDUARDO OVANDO MARTÍNEZ.
 
 EL SECRETARIO DE DESARROLLO URBANO Y MEDIO AMBIENTE. FRANCISCO JAVIER DIAZ CARVAJAL.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE MAYO DE 2013.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de Desarrollo Urbano y Medio Ambiente, publicado en el Periódico Oficial del Estado de Quintana Roo, el día 06 de octubre del año 2010.
+
+TERCERO.- Se derogan todas las disposiciones reglamentarias que se opongan al presente Reglamento.
