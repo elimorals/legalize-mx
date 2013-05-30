@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-turismo-92524"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-02-20"
-last_updated: "2013-02-20"
+last_updated: "2013-05-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92524&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE TURISMO DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON LA SEGUNDA DISPOSICIÓN TRANSITORIA DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE TURISMO, PUBLICADO EN EL P.O. DE 30 DE MAYO DE 2013, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 20 de febrero de 2013.
 
@@ -624,3 +626,15 @@ LA SECRETARIA DE TURISMO
 PERLA GABRIELA DAUGUET ORTEGA
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE MAYO DE 2013.
+
+PRIMERA. El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado.
+
+SEGUNDA. Se abroga el Reglamento Interior de la Secretaría de Turismo publicado en el Periódico Oficial "Tierra y Libertad", número 5068, de fecha veinte de febrero de dos mil trece y todas las disposiciones administrativas de igual o menor rango que se opongan al presente Reglamento.
+
+TERCERA. En el plazo de treintadías (sic) contados a partir del inicio de la vigencia del presente Reglamento, se deberán expedir los Manuales Administrativos respectivos de conformidad con las disposiciones legales y administrativas aplicables.
+
+CUARTA. En tanto se actualizan los Manuales a que se refiere este Reglamento, el Secretario queda facultado para resolver, para fines administrativos, las cuestiones de procedimiento y operación que se originen por la aplicación de este ordenamiento legal.
