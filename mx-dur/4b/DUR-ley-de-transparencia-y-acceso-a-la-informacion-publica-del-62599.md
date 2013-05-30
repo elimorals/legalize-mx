@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-6259
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-13"
-last_updated: "2008-07-13"
+last_updated: "2013-05-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62599&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2013.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 13 de julio de 2008.
 
@@ -274,6 +274,10 @@ Los sujetos obligados indirectos no están sujetos a las obligaciones consignada
 ###### Artículo 12.
 
 Con excepción de la información reservada o confidencial, los sujetos obligados deberán poner a disposición del público, difundir y actualizar mensualmente la información pública de oficio conforme a las disposiciones de este Capítulo.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2013)</small>
+
+Artículo.- 12 Bis. La información a que se refiere el artículo anterior, podrá estar a disposición del público a través de medios electrónicos seguros para los sujetos obligados y para los usuarios, y deberá ser de tal forma que facilite su uso por las personas y que permita asegurar su calidad, veracidad, oportunidad y confiabilidad.
 
 ###### Artículo 13.
 
@@ -1444,3 +1448,11 @@ LIC. OLIVERIO REZA CUELLAR
 EL C. GOBERNADOR CONSTITUCIONAL DEL ESTADO
 
 C.P. ISMAEL ALFREDO HERNANDEZ DERAS
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE MAYO DE 2013.
+
+PRIMERO. El presente decreto entrará (sic) al día siguiente de su publicación.
+
+SEGUNDO. Se derogan todas las disposiciones que contravengan lo previsto en el presente decreto.
