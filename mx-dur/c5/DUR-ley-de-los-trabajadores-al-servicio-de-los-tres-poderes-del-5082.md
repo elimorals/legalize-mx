@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-los-trabajadores-al-servicio-de-los-tres-poderes-del-508
 country: "mx"
 rank: "ley"
 publication_date: "1980-07-24"
-last_updated: "2003-08-03"
+last_updated: "2013-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5082&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS TRES PODERES DEL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE AGOSTO DE 2003.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2013.
 
 Ley publicada en Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 24 de julio de 1980.
 
@@ -419,7 +419,7 @@ Es nula la cesión de salarios en favor de terceras personas.
 
 ### CAPITULO CUARTO. DE LAS OBLIGACIONES DE LAS DEPENDENCIAS PUBLICAS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JUNIO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JUNIO DE 1994)</small>
 
 ###### Artículo 55º.
 
@@ -463,19 +463,25 @@ g).- Concesión de becas a los Trabajadores de base sindicalizados, sobre materi
 
 Estas becas comprenderán, cuando así se amerite, el pago de colegiaturas, alimentación, vestido y en su caso gastos de viaje.
 
-VI.- Conceder las licencias a que se refiere el Artículo 35 de esta Ley, en los términos establecidos en los Artículos 36, 37 y 38; computándose el tiempo que duren las mismas como tiempo efectivo dentro del escalafón.
+> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2013)</small>
 
-VII.- Notificar al Sindicato de las vacantes temporales y definitivas, así como de la creación de plazas de base dentro de los diez días siguientes al que se dicte el aviso de baja o de licencia o se aprueben oficialmente las nuevas plazas de base.
+VI.- Otorgar a las trabajadoras mayores de cuarenta años un día de asueto, cada dos años, con el objetivo de que puedan acudir, de manera programada, a realizarse el examen clínico ante las instancias correspondientes, que les permita detectar oportunamente el cáncer de mama.
 
-VIII.- Cubrir las plazas a que se refiere la Fracción anterior, con los elementos que al efecto proponga el Sindicato, siempre y cuando se llenen los requisitos de aptitud y capacidad que sean establecidos.
+Así mismo a todas las trabajadoras menores de cuarenta años, gozarán de la misma manera de un día de asueto, a fin de que reciban pláticas de capacitación en la autoexploración para la prevención y detección oportuna de cáncer de mama, siguiendo los lineamientos legales aplicables.
 
-IX.- Otorgar las primas a los Trabajadores que se retiren voluntariamente del servicio así como la prima vacacional.
+VII.- Conceder las licencias a que se refiere el Artículo 35 de esta Ley, en los términos establecidos en los Artículos 36, 37 y 38; computándose el tiempo que duren las mismas como tiempo efectivo dentro del escalafón.
 
-X.- Hacer las deducciones en los salarios que solicite el Sindicato, siempre que se ajusten a los términos de esta Ley.
+VIII.- Notificar al Sindicato de las vacantes temporales y definitivas, así como de la creación de plazas de base dentro de los diez días siguientes al que se dicte el aviso de baja o de licencia o se aprueben oficialmente las nuevas plazas de base.
 
-XI.- Determinar las condiciones generales de trabajo cada período de Gobierno, expidiendo los Reglamentos correspondientes con intervención del Sindicato. Mientras estos Reglamentos no se expidan, se entenderán vigentes las disposiciones legales anteriores.
+IX.- Cubrir las plazas a que se refiere la Fracción anterior, con los elementos que al efecto proponga el Sindicato, siempre y cuando se llenen los requisitos de aptitud y capacidad que sean establecidos.
 
-XII.- Incrementar al trabajador por cada cinco años de antigüedad, el equivalente a seis días de salario que perciba, independientemente de otros aumentos por distintos conceptos.
+X.- Otorgar las primas a los Trabajadores que se retiren voluntariamente del servicio así como la prima vacacional.
+
+XI.- Hacer las deducciones en los salarios que solicite el Sindicato, siempre que se ajusten a los términos de esta Ley.
+
+XII.- Determinar las condiciones generales de trabajo cada período de Gobierno, expidiendo los Reglamentos correspondientes con intervención del Sindicato. Mientras estos Reglamentos no se expidan, se entenderán vigentes las disposiciones legales anteriores.
+
+XIII.- Incrementar al trabajador por cada cinco años de antigüedad, el equivalente a seis días de salario que perciba, independientemente de otros aumentos por distintos conceptos.
 
 ###### Artículo 56o.
 
@@ -491,7 +497,7 @@ II.- A los que hayan prestado veinte años de servicio, dos meses de salario.
 
 III.- A los que hayan prestado servicios durante treinta años, tres meses de salario.
 
-> <small>(REFORMADO PRIMER PARAAFO, P.O. 9 DE JUNIO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRAAFO, P.O. 9 DE JUNIO DE 1994)</small>
 
 ###### Artículo 58º.
 
@@ -563,7 +569,7 @@ IV.- La terminación de la obra o vencimiento del término o de la partida corre
 
 V.- La incapacidad física o mental o inhabilitación manifiesta del trabajador, que haga imposible la prestación del trabajo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JUNIO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JUNIO DE 1994)</small>
 
 ###### Artículo 62º.
 
@@ -603,7 +609,7 @@ El trabajador podrá solicitar ante el Tribunal de Conciliación y Arbitraje, a 
 
 Si en el juicio correspondiente no comprueba el Titular de la Dependencia o Entidad Administrativa respectiva, la causa del cese o suspensión, el trabajador tendrá derecho, además, cualquiera que hubiese sido la acción intentada, a que se le paguen los salarios caídos desde la fecha del despido hasta que se cumplimente el laudo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JUNIO DE 1994)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE JUNIO DE 1994)</small>
 
 ###### Artículo 64º.
 
@@ -1191,7 +1197,7 @@ El Gobernador Constitucional Substituto del Estado Dr. SALVADOR GAMIZ FERNANDEZ.
 
 El Secretario General de Gobierno Lic. CARLOS GALINDO MARTINEZ.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 9 DE JUNIO DE 1994.
 
@@ -1202,3 +1208,9 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 3 DE AGOSTO DE 2003
 
 UNICO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+P.O. 30 DE MAYO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
