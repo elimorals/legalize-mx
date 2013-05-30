@@ -4,7 +4,7 @@ identifier: "CMX-reglas-de-operacion-del-programa-de-reinsercion-social-para-936
 country: "mx"
 rank: "reglas"
 publication_date: "2013-01-30"
-last_updated: "2013-04-15"
+last_updated: "2013-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93696&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,7 @@ issue_date: "2013-01-28"
 
 REGLAS DE OPERACIÓN DEL PROGRAMA DE REINSERCIÓN SOCIAL PARA MUJERES VÍCTIMAS DE VIOLENCIA FAMILIAR DE LA CIUDAD DE MÉXICO 2013
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 15 DE ABRIL DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE MAYO DE 2013.
 
 Reglas publicadas en la Gaceta Oficial del Distrito Federal, el miércoles 30 de enero de 2013.
 
@@ -94,13 +92,19 @@ Además se otorgarán al menos 40 apoyos para los gastos de arrendamiento de una
 
 III. Metas
 
-La meta física es proporcionar al menos 40 acciones de apoyo para la renta de vivienda equivalente a $1,000.00 (un mil pesos 00/100 m. n.) por un periodo de 1 a 12 meses máximo a mujeres egresadas de Refugios y casas de emergencia para víctimas de violencia familiar;
+> <small>(REFORMADO, G.O. 30 DE MAYO DE 2013)</small>
 
-Asimismo, se realizarán al menos 400 acciones diversas para mujeres víctimas de violencia familiar.
+La meta física mensual es proporcionar al menos a 40 mujeres apoyo para la renta de vivienda equivalente a $1,000.00 (un mil pesos 00/100 m. n.), por un periodo de 1 a 12 meses máximo a mujeres egresadas de Refugios y Casas de Emergencia para víctimas de violencia familiar.
+
+> <small>(REFORMADO, G.O. 30 DE MAYO DE 2013)</small>
+
+Así mismo, se apoyará a 460 mujeres en servicios como educación y capacitación. En total se beneficiará al menos 500 mujeres.
 
 IV. Programación presupuestal
 
-La programación presupuestal inicial destinada para el Programa es de $505,700.00 (quinientos cinco mil setecientos pesos 00/100 MN).
+> <small>(REFORMADO, G.O. 30 DE MAYO DE 2013)</small>
+
+La programación presupuestal inicial destinada para el Programa es de $682,700.00 (seiscientos ochenta y dos mil setecientos pesos 00/100 m. n).
 
 V. Requisitos y procedimiento de acceso
 
@@ -205,3 +209,9 @@ Secretario de Desarrollo Social
 (Firma)
 
 Lic. Rosa Icela Rodríguez Velázquez
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 30 DE MAYO DE 2013.
+
+ÚNICO.- Publíquese en la Gaceta Oficial del Distrito Federal.
