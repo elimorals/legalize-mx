@@ -4,7 +4,7 @@ identifier: "DUR-ley-para-el-control-de-bebidas-con-contenido-alcoholico-del-332
 country: "mx"
 rank: "ley"
 publication_date: "2003-06-15"
-last_updated: "2003-06-15"
+last_updated: "2013-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "DUR"
 ---
 # LEY PARA EL CONTROL DE BEBIDAS CON CONTENIDO ALCOHOLICO DEL ESTADO DE DURANGO
 
-LEY PARA EL CONTROL DE BEBIDAS CON CONTENIDO ALCOHOLICO DEL ESTADO DE DURANGO
+LEY PARA EL CONTROL DE BEBIDAS CON CONTENIDO ALCOHÓLICO DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2013.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 15 de junio de 2003.
 
@@ -63,9 +63,11 @@ DEL ESTADO DE DURANGO
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2013)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público, interés social y de observancia obligatoria en el territorio del Estado de Durango. Sus disposiciones tienen por objeto regular la operación y funcionamiento de establecimientos dedicados a la elaboración, envasado, transportación, almacenamiento, venta y consumo de bebidas con contenido alcohólico.
+La presente ley es de orden público, interés social y de observancia obligatoria en el territorio del Estado de Durango. Sus disposiciones tienen por objeto regular la operación y funcionamiento de establecimientos dedicados a la elaboración, envasado, transportación, almacenamiento, venta y consumo de bebidas con contenido alcohólico, así como establecer acciones para prevenir y combatir el abuso en el consumo de bebidas alcohólicas.
 
 ###### Artículo 2.
 
@@ -827,6 +829,64 @@ La inobservancia por parte de alguna autoridad de las disposiciones de este orde
 
 Se concede acción popular para denunciar las faltas a que se refiere esta Ley, bajo la más estricta responsabilidad del denunciante y mediante la presentación de elementos de prueba.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE MAYO DE 2013)</small>
+
+## TITULO DÉCIMO
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE MAYO DE 2013)</small>
+
+### CAPÍTULO ÚNICO. DE LAS ACCIONES PARA PREVENIR Y COMBATIR EL ABUSO EN EL CONSUMO DEL ALCOHOL
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2013)</small>
+
+###### Artículo 91.
+
+A las autoridades administrativas del Estado y de los municipios, en el ámbito de su competencia, les corresponde:
+
+I.- Desarrollar estrategias, programas anuales preventivos y campañas permanentes de difusión e información en materia de combate al abuso en el consumo del alcohol, orientadas a desincentivar el consumo e informando de las consecuencias negativas en la salud de la persona, en la vida familiar y en la social;
+
+II.- Promover su coordinación para el cumplimiento del objeto de esta Ley;
+
+III.- Instruir la implementación en el sistema educativo estatal de programas orientados a educar sobre los efectos del alcohol en la salud y en las relaciones sociales;
+
+IV.- Promover la participación de instituciones públicas, privadas y sociales en la planeación, programación y ejecución de acciones de naturaleza preventiva y correctiva del abuso del alcohol;
+
+V.- Promover la formalización de acuerdos con asociaciones empresariales o empresas fabricantes y distribuidoras de bebidas alcohólicas, así como anunciantes, agencias, medios de publicidad, medios de comunicación y asociaciones de consumidores y usuarios, con el fin de prevenir y combatir el abuso en el consumo de bebidas alcohólicas, proteger la salud frente a los riesgos derivados del mismo, así como otras acciones tendientes a lograr el cumplimiento de esta ley;
+
+VI.- Fortalecer las estrategias de apoyo y ayuda dirigidas a familias donde alguno de sus miembros presente problemas de consumo abusivo de bebidas alcohólicas;
+
+VII.- Apoyar centros de prevención y organizaciones no gubernamentales que promuevan ante la sociedad campañas continuas para reducir el consumo de alcohol, o brinden tratamiento a las personas que así lo requieran; y
+
+VIII.- Las demás que señalen otras disposiciones de carácter general.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2013)</small>
+
+###### Artículo 92.
+
+A la Secretaría de Salud en el ámbito de su competencia le corresponde:
+
+I.- Llevar a cabo el control sanitario, de conformidad con la Ley Estatal de Salud, de los establecimientos dedicados a la venta, consumo o expendio de bebidas alcohólicas;
+
+II.- Ordenar y realizar la práctica de visitas de inspección o verificación, y en su caso, aplicar las medidas de seguridad, de conformidad con lo establecido en la Ley Estatal de Salud;
+
+III.- Llevar a cabo programas o acciones encaminadas a la prevención, combate y tratamiento del abuso del consumo de bebidas alcohólicas, y en su caso, la rehabilitación de los alcohólicos;
+
+IV.- Coordinarse con las instituciones u organismos que brinden tratamiento contra el abuso en el consumo del alcohol para el desarrollo de programas de atención y prevención;
+
+V.- Promover programas de capacitación dirigidos a personas cuya actividad se encuentre relacionada con la venta, expendio y consumo de bebidas alcohólicas, a fin de ser acreditados para poder desempeñar esa actividad;
+
+VI.- Las demás que señalen otras disposiciones de carácter general.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2013)</small>
+
+###### Artículo 93.
+
+A la Secretaría de Educación le corresponde:
+
+I.- Implementar programas, acciones y campañas permanentes de difusión, tendientes a inhibir en los alumnos el consumo de bebidas alcohólicas mediante el conocimiento de los efectos que el abuso del alcohol genera; y
+
+II.- Determinar la participación de las asociaciones de padres de familia en los mismos.
+
 T R A N S I T O R I O S:
 
 Artículo Primero.- La presente Ley entrará en vigor a los treinta días siguientes al de su publicación en el Periódico Oficial del Estado.
@@ -864,3 +924,15 @@ LIC. ANGEL SERGIO GUERRERO MIER. RUBRICA.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. JOSE MIGUEL CASTRO CARRILLO. RUBRICA.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE MAYO DE 2013.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones legales y reglamentarias que se opongan a las contenidas en este decreto.
