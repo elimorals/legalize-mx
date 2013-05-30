@@ -4,7 +4,7 @@ identifier: "DUR-codigo-penal-para-el-estado-libre-y-soberano-de-durango-39705"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-04-29"
-last_updated: "2013-03-10"
+last_updated: "2013-05-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39705&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,9 @@ state: "DUR"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-> <small>N. DE E. DE CONFORMIDAD CON LOS ARTICULOS PRIMERO, SEGUNDO Y OCTAVO TRANSITORIOS DEL CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO, PUBLICADO EN EL P.O. DE 14 DE JUNIO DE 2009, EL PRESENTE ORDENAMIENTO ABROGADO EN LO QUE SE OPONGA AL CONTENIDO DEL NUEVO CODIGO, HASTA EN TANTO SE PUBLIQUE EN EL P.O. DEL ESTADO LA DECLARATORIA QUE EMITA EL CONGRESO DEL ESTADO O LA COMISION PERMANENTE A SOLICITUD EXPRESA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO, RESPECTO DE LA VIGENCIA DEL REFERIDO INSTRUMENTO, POR LO QUE LAS DISPOSICIONES DEL PRESENTE CODIGO SE APLICARAN PARA INVESTIGAR Y JUZGAR LOS DELITOS COMETIDOS DURANTE LA VIGENCIA DEL MISMO.</small>
+> <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO, SEGUNDO Y OCTAVO TRANSITORIOS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO, PUBLICADO EN EL P.O. DE 14 DE JUNIO DE 2009, EL PRESENTE ORDENAMIENTO ABROGADO EN LO QUE SE OPONGA AL CONTENIDO DEL NUEVO CÓDIGO, HASTA EN TANTO SE PUBLIQUE EN EL P.O. DEL ESTADO LA DECLARATORIA QUE EMITA EL CONGRESO DEL ESTADO O LA COMISIÓN PERMANENTE A SOLICITUD EXPRESA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO, RESPECTO DE LA VIGENCIA DEL REFERIDO INSTRUMENTO, POR LO QUE LAS DISPOSICIONES DEL PRESENTE CÓDIGO SE APLICARÁN PARA INVESTIGAR Y JUZGAR LOS DELITOS COMETIDOS DURANTE LA VIGENCIA DEL MISMO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2013.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 10 DE MARZO DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2013.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el jueves 29 de abril de 2004.
 
@@ -2109,7 +2107,9 @@ IV.- Al médico que certifique falsamente que una persona tiene una enfermedad u
 
 V.- Al perito traductor o paleógrafo que plasme hechos falsos o altere la verdad al traducir o descifrar un documento.
 
-### CAPÍTULO PRIMERO. ASOCIACIÓN DELICTUOSA, PANDILLERISMO Y DELINCUENCIA ORGANIZADA
+### CAPÍTULO PRIMERO. ASOCIACIÓN DELICTUOSA Y PANDILLERISMO
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2013)</small>
 
 ###### ARTÍCULO 242.
 
@@ -2121,23 +2121,31 @@ SUBTÍTULO PRIMERO
 
 DELITOS CONTRA LA SEGURIDAD PÚBLICA
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE MAYO DE 2013)</small>
+
 ### CAPÍTULO SEGUNDO. PORTACIÓN, TRÁFICO Y ACOPIO DE ARMAS PROHIBIDAS
 
 ###### ARTÍCULO 243.
 
-Se impondrá de seis meses a seis años de prisión y de tres a trescientos días multa, al que tome participación en una asociación o banda de dos o más personas, organizada para delinquir, por el sólo hecho de ser miembro de la asociación e independientemente de la pena que le corresponda por el delito o delitos que se cometan.
+Se impondrá prisión de seis meses a seis años y multa de treinta y seis a cuatrocientos treinta y dos días de salario, a quien de manera permanente forme parte de una asociación o banda de tres o más personas destinada a delinquir.
 
-Cuando se cometa algún delito por pandilla, se aplicará a los que intervengan en su comisión además de las penas que le correspondan por el o los delitos cometidos, de tres meses a tres años de prisión.
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2013)</small>
 
-Se entiende por pandilla, para los efectos de esta disposición, la reunión habitual, ocasional o transitoria, de tres o más personas que sin estar organizadas con fines delictuosos, cometen en común algún delito.
+###### ARTICULO 243 Bis.
+
+Cuando se cometa uno o más delitos por pandilla, se aplicarán a los que intervengan en su comisión, además de las penas que les corresponda por el o los delitos cometidos, la sanción de seis meses a tres años de prisión.
+
+Se entiende por pandilla, para los efectos de esta disposición, la reunión habitual, ocasional o transitoria de tres o más personas que sin estar organizadas con fines delictuosos, cometen en común algún delito.
 
 ###### ARTÍCULO 244.
 
-Cuando tres o más personas que por si o unidas a otras se organicen para cometer de forma permanente o reiterada alguno de los delitos siguientes: ataques a la paz pública, secuestro, tráfico de menores, sustracción o retención de menores e incapaces, corrupción de menores e incapaces, pornografía infantil, lenocinio, robo de conformidad con el artículo 412 fracción IX de este Código, Abigeato contemplado en el primer párrafo del artículo 420 o extorsión, se les impondrán de seis a doce años de prisión y de doscientos a mil días multa, sin perjuicio de las penas que resulten por los delitos cometidos por los miembros de la organización delictiva.
+(DEROGADO, P.O. 30 DE MAYO DE 2013)
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2013)</small>
 
 ###### ARTÍCULO 245.
 
-Si el miembro de la asociación o de la delincuencia organizada es o ha sido servidor público o miembro de una empresa de seguridad privada, las penas a que se refieren los artículos anteriores, se aumentarán en una mitad y se impondrá además, en su caso, la destitución del empleo, cargo o comisión e inhabilitación de cinco a diez años para desempeñar otro.
+Si el miembro de la asociación delictuosa o de la Pandilla, tiene formación o capacitación en materia de seguridad pública, es o ha sido servidor público o autoridad encargada de la función de seguridad pública, de conformidad con lo previsto en la Ley General del Sistema Nacional de Seguridad Pública o miembro de una empresa de seguridad privada y por virtud del ejercicio de las funciones a él encomendadas, se facilitó la comisión del o los ilícitos a que se refieren los artículos anteriores, las penas se aumentarán en una mitad y se impondrá además, en su caso, la destitución del empleo, cargo o comisión o inhabilitación por un tiempo igual al señalado como prisión para desempeñar otro, en cuyo caso se computará a partir de que se haya cumplido con la pena.
 
 ### CAPÍTULO TERCERO. DELITOS COMETIDOS EN EL EJERCICIO DE LA PROFESIÓN, RESPONSABILIDAD PROFESIONAL Y TÉCNICA
 
@@ -2417,7 +2425,9 @@ I.- Al que elabore o comercie con comestibles, bebidas o medicinas de tal modo q
 
 II.- Al que oculte, sustraiga, venda o compre efectos que la autoridad competente haya mandado destruir por ser nocivos a la salud.
 
-### CAPÍTULO ÚNICO. ALTERACIÓN Y DAÑOS AL AMBIENTE
+### CAPÍTULO I. ALTERACIÓN Y DAÑOS AL AMBIENTE
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2013)</small>
 
 ###### ARTÍCULO 277.
 
@@ -2443,25 +2453,35 @@ VIII.- No proporcione a sus trabajadores la capacitación y adiestramiento, una 
 
 Se impondrá de uno a cinco años de prisión y de tres a trescientos cincuenta días multa, al patrón que con el solo propósito de eludir el cumplimiento de las obligaciones que le impone la Ley Federal del Trabajo, impute indebidamente a uno o más de sus trabajadores, la comisión de un delito o falta.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE MAYO DE 2013)</small>
+
 SUBTÍTULO CUARTO
 
-DELITOS CONTRA LA ECOLOGÍA
+DELITOS CONTRA EL AMBIENTE Y LOS RECURSOS NATURALES
 
-### CAPÍTULO PRIMERO. DISPOSICIONES COMUNES
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 30 DE MAYO DE 2013)</small>
+
+### CAPÍTULO II. DELITOS CONTRA LA GESTIÓN AMBIENTAL
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2013)</small>
 
 ###### ARTÍCULO 279.
 
-Se le impondrán de dos a seis años de prisión y de cien a quinientos días multa, al que deteriore áreas naturales protegidas o el ecosistema del suelo de conservación.
+Se le impondrán de dos a seis años de prisión y multa de ciento cuarenta y cuatro a cuatrocientos treinta y dos días de salario, al que deteriore áreas naturales protegidas o el ecosistema del suelo de conservación.
 
 Las penas anteriores se duplicarán, si el deterioro es ocasionado por personas cuya actividad es la exploración, explotación o manejo de minerales o de cualquier depósito del subsuelo.
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2013)</small>
+
 ###### ARTÍCULO 280.
 
-Se le impondrán de tres a nueve años de prisión y de doscientos a mil días multa, a quien trafique con una o más especies o subespecies silvestres de flora o fauna terrestre o acuática en peligro de extinción, amenazadas o sujetas a protección especial.
+Se le impondrán de tres a nueve años de prisión y multa de doscientos dieciséis a seiscientos cuarenta y ocho días de salario, a quien trafique con una o más especies o subespecies silvestres de flora o fauna terrestre o acuática en peligro de extinción, amenazadas o sujetas a protección especial.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2013)</small>
 
 ###### ARTÍCULO 281.
 
-Se impondrán de dos a seis años de prisión y de quinientos a dos mil días multa, al que:
+Se impondrán de dos a seis años de prisión y multa de ciento cuarenta y cuatro a cuatrocientos treinta y dos días de salario, al que:
 
 I.- Genere o descargue materia o energía, en cualquier cantidad, estado físico o forma, que al incorporarse, acumularse o actuar en los seres vivos, en la atmósfera, agua, suelo, subsuelo o cualquier elemento natural, afecte negativamente su composición o condición natural;
 
@@ -2471,21 +2491,35 @@ III.- Emita gases, humos, vapores o polvos de origen antropogénico que dañen a
 
 IV.- Descargue, deposite o infiltre aguas residuales sin su previo tratamiento, líquidos químicos o bioquímicos;
 
-V.- Descargue o deposite desechos u otras sustancias o materiales contaminantes, residuos sólidos o industriales en los suelos de conservación, áreas naturales protegidas, barrancas, áreas verdes en suelo urbano, o en cualquier cuerpo de agua, que dañen la salud humana, flora, fauna, recursos naturales o los ecosistemas; y
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2013)</small>
+
+V.- Descargue o deposite desechos u otras substancias o materiales contaminantes, residuos sólidos o industriales en los suelos de conservación, áreas naturales protegidas, barrancas, áreas verdes en suelo urbano o en cualquier cuerpo de agua, que dañen la salud humana, flora, fauna, recursos naturales o los ecosistemas.
 
 VI.- Genere emisiones de energía térmica o lumínica, olores, ruidos o vibraciones que dañen la salud pública, flora, fauna o los ecosistemas.
 
+> <small>(REFORMADA [N.DE E., ADICIONADA], P.O. 30 DE MAYO DE 2013)</small>
+
+VII.- Al que realice quemas a cielo abierto mediante la combustión de llantas, plásticos o cualquier otro material contaminante de desecho, con el propósito de general (sic) calor o energía para su uso industrial o para la extracción de alguno de sus componentes provocando degradaciones atmosféricas que puedan ocasionar daños a la salud pública, flora, fauna o los ecosistemas; y
+
+> <small>(REFORMADA [N.DE E., ADICIONADA], P.O. 30 DE MAYO DE 2013)</small>
+
+VIII.- A quien transporte residuos sólidos sin contar con el recibo de pago de derechos respectivo o la documentación comprobatoria que acredite su disposición final o reciclaje en un lugar autorizado por las autoridades competentes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2013)</small>
+
 ###### ARTÍCULO 282.
 
-Se le impondrán de tres a nueve años de prisión y de mil a cinco mil días multa, al que:
+Se le impondrán de tres a nueve años de prisión y multa de doscientos dieciséis a seiscientos cuarenta y ocho días de salario, al que:
 
 I.- Desmonte o destruya la vegetación natural; corte, arranque, derribe o tale árboles, realice aprovechamiento de recursos forestales o haga cambios de uso de suelo en suelos de conservación, áreas naturales protegidas o áreas verdes en suelo urbano; y
 
-II.- Ocasione incendios en bosques, parques, áreas forestales, áreas naturales protegidas, suelos de conservación, barrancas y áreas verdes en suelo urbano;
+II.- Ocasione incendios en bosques, parques, áreas forestales, áreas naturales protegidas, suelos de conservación, barrancas y áreas verdes en suelo urbano; (sic)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2013)</small>
 
 ###### ARTÍCULO 283.
 
-Se impondrán de tres a ocho años de prisión y de mil a diez mil días multa, a los empresarios o industriales o sus administradores, que a sabiendas:
+Se impondrán de tres a ocho años de prisión y multa de doscientos dieciséis a quinientos setenta y seis días de salario, a los empresarios o industriales o sus administradores, que a sabiendas:
 
 I.- Omitan el empleo de los equipos anticontaminantes en empresas, industrias o fuentes móviles, que generen contaminantes;
 
@@ -2495,31 +2529,97 @@ III.- No manejen adecuadamente los residuos producidos o residuos industriales n
 
 Estas sanciones se impondrán con independencia de las que resulten aplicables a las personas jurídicas colectivas.
 
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2013)</small>
+
 ###### ARTÍCULO 284.
 
-Para los efectos del presente capítulo, la reparación del daño incluirá además:
+Se le impondrá de tres a nueve años de prisión y de doscientos dieciséis a seiscientos cincuenta días multa, así como las sanciones administrativas previstas en la legislación ambiental, a quien realice o permita, mediante acción u omisión, la ocupación o invasión de:
 
-I.- La realización de las acciones necesarias para reestablecer las condiciones de los elementos naturales que constituyen los ecosistemas afectados al estado en que se encontraban antes de realizarse el delito; y
+I. Un área natural protegida o área de valor ambiental de competencia local de conformidad con las disposiciones jurídicas aplicables en el Estado de Durango;
 
-II.- La suspensión, modificación o demolición de las construcciones, obras o actividades, que hubieren dado lugar al delito ambiental respectivo.
+II. El suelo de conservación, en términos de lo establecido en el "Programa Estatal de Ordenamiento Ecológico", así como lo establecido en los Planes o Programas de Desarrollo Urbano aplicables;
+
+III. Una barranca;
+
+IV. Una zona de recarga de Mantos Acuífero (sic); o
+
+V. Un área verde en suelo urbano.
+
+Las penas previstas en este artículo se aumentaran en una mitad cuando la ocupación o la invasión se realicen con violencia, así como a quien instigue, promueva, dirija o incite la comisión de las conductas anteriores.
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2013)</small>
 
 ###### ARTÍCULO 285.
 
-Tratándose de estos delitos, el trabajo en favor de la comunidad, consistirá en actividades relacionadas con la protección al ambiente o la restauración de los recursos naturales.
+Se le impondrán de tres a nueve años de prisión y de doscientos dieciséis a seiscientos cincuenta días multa, a quien haga un uso de suelo distinto al permitido u obtenga un beneficio económico derivado de éstas conductas.
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2013)</small>
 
 ###### ARTÍCULO 286.
 
-Cuando en la comisión de un delito previsto en este capitulo, intervenga un servidor público en ejercicio, con motivo de sus funciones o aprovechándose de su calidad de servidor, la pena de prisión se aumentará en una mitad y se le inhabilitará para ocupar cargo, empleo o comisión, en los términos del artículo 160 de este Código.
+Se impondrá pena de uno a seis años de prisión y de setenta y dos a trescientos sesenta días multa, con independencia de las penas que le correspondan por la comisión de otros delitos, a quien:
+
+I. Adquiera, oculte, posea, custodie o reciba por cualquier motivo, madera en rollo, astillas, carbón vegetal, así como cualquier otro recurso forestal maderable, con conocimiento de que procede o representa el producto de una actividad ilícita;
+
+Se entenderá que es producto de una actividad ilícita, la madera en rollo, astillas, carbón vegetal, así como cualquier otro recurso forestal maderable, cuando existan indicios fundados o certeza de que provienen directa o indirectamente, de la comisión de algún delito y no pueda acreditarse su legitima procedencia;
+
+II. Utilice más de una vez una remisión o reembarque forestal con el propósito de simular la legal procedencia de madera en rollo, astillas, carbón vegetal, así como cualquier otro recurso forestal maderable que se haya obtenido sin la autorización que corresponda;
+
+III. Altere o modifique dolosamente cualquier documento oficial para acreditar la legal procedencia de recursos forestales maderables; o
+
+IV. Acredite recursos forestales maderables obtenidos ilícitamente con el propósito de similar su legal procedencia, con remisiones o reembarques forestales, pedimentos aduanales, comprobantes fiscales con código de identificación o cualquier otro documento oficial.
+
+Cuando una o más de las conductas descritas en el presente artículo resulte cometida a nombre, bajo el amparo o a beneficio de una persona moral, a esta se le impondrá una consecuencia jurídica accesoria consistente en la prohibición de realizar determinados negocios u operaciones hasta por 5 años, independientemente de la responsabilidad en que hubieren incurrido las personas físicas por el delito cometido.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE MAYO DE 2013)</small>
+
+### CAPÍTULO III. DISPOSICIONES COMUNES AL PRESENTE SUBTÍTULO
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2013)</small>
+
+ARTÍCULO 286 bis 2.- El juez de oficio o a petición de parte, podrá reducir las penas correspondientes para los delitos previsto (sic) en este Título, hasta en tres cuartas partes cuando el agente haya restablecido las condiciones de los elementos naturales afectados al estado en que se encontraban antes de realizarse la conducta, y cuando ello no sea posible, ejecutando las acciones u obras que compensen los daños ambientales que se hubiesen generado.
+
+A efecto de que pueda acreditarse el supuesto de procedencia de la mencionada atenuante, deberá constar en el expediente respectivo, dictamen técnico favorable emitido por la autoridad ambiental competente en el Estado de Durango.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2013)</small>
+
+ARTÍCULO 286 bis 3.- Para los efectos del presente subtitulo la reparación del daño incluirá además:
+
+I. La realización de las acciones necesarias para restaurar las condiciones de los elementos naturales afectados al estado en que se encontraban antes de realizarse el delito, cuando ello sea posible la ejecución de acciones u obras que permitan compensar los daños ambientales que se hubiesen generado y si ninguna de ellas fuese posible el pago de una indemnización que se integrara a un fondo ambiental a fin de desarrollar programas estatales y municipales vinculados con la preservación del equilibrio ecológico y la protección del medio ambiente.
+
+A fin de determinar el monto de la indemnización a que se refiere esta fracción se deberá considerar los daños ambientales ocasionados, en valor de los bienes afectados, el catalogo de las acciones de compensación que le envié la secretaria en términos de lo dispuesto por la ley de gestión ambiental sustentable para el estado de Durango y el derecho de toda persona de tener un ambiente sano; debiendo apoyarse en todo caso en un dictamen técnico emitido por la autoridad ambiental competente para fijar el monto de la indemnización correspondiente la cual en ninguno de los casos deberá ser inferior al valor de los bienes afectados o de los beneficios obtenidos por la conducta;
+
+II. La suspensión, modificación o demolición de las construcciones, obras o actividades, que hubieren dado lugar al delito ambiental respectivo.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2013)</small>
+
+ARTÍCULO 286 bis 4.- Tratándose de los delitos previstos en este subtitulo, el trabajo a favor de la comunidad, consistirá en actividades relacionadas con la protección al ambiente o a la restauración de los recursos naturales.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2013)</small>
+
+ARTÍCULO 286 bis 5.- Cuando en la comisión de un delito previsto en este título intervenga un servidor público en ejercicio, con motivo de sus funciones o aprovechándose de su calidad de servidor la pena de prisión se aumentara en una mitad y se le inhabilitara para ocupar cargo, empleo o comisión, por el mismo término de la pena privativa de libertad.
 
 SUBTÍTULO QUINTO
 
 DELITOS CONTRA LA MORAL PÚBLICA
 
+###### ARTÍCULO 286 Bis.
+
+Se le impondrán de seis meses a cinco años de prisión y de treinta y seis a trescientos sesenta días multa, al que proteja o refrende una autorización o concesión preveniente (sic) de cualquier autoridad ambiental del Estado de Durango o sus Municipios, a partir de información falsa o de uno o más documentos falsos o alterados.
+
+Las penas previstas en este artículo podrán duplicarse si la actividad se lleva a cabo sin haber obtenido previamente la autorización de la autoridad o si una vez obtenida la misma, se efectúa otras distintas a las que son materia de la autorización o concesión correspondiente.
+
+> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2013)</small>
+
+ARTÍCULO 286 bis 1.- Se impondrán de seis meses a tres años de prisión y de treinta y seis a doscientos ochenta y ocho días multa, a los prestadores y laboratorios de servicios ambientales, que proporcionen documentos o información falsa u omitan datos con el objeto de que las autoridades ambientales otorguen o avalen cualquier tipo de permiso, autorización o permiso.
+
+Las penas previstas en este artículo se impondrán, siempre que la autoridad ambiental haya realizado gestiones para obtener el permiso, autorización o licencia de que se trate o bien haya otorgado el documento correspondiente.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE MAYO DE 2013)</small>
+
+### CAPÍTULO PRIMERO. DISPOSICIONES COMUNES
+
 ### CAPÍTULO SEGUNDO. ULTRAJES A LA MORAL
-
-### CAPÍTULO TERCERO. CORRUPCIÓN DE MENORES E INCAPACES
-
-### CAPÍTULO CUARTO. PORNOGRAFÍA INFANTIL
 
 ###### ARTÍCULO 287.
 
@@ -2529,7 +2629,7 @@ Si en la comisión de los delitos previstos en este Subtítulo el sujeto se vali
 
 Las sanciones que se señalan en este Subtítulo se aumentarán en una mitad, cuando el delito sea cometido por una asociación delictuosa.
 
-### CAPÍTULO QUINTO. LENOCINIO
+### CAPÍTULO TERCERO. CORRUPCIÓN DE MENORES E INCAPACES
 
 ###### ARTÍCULO 289.
 
@@ -2541,7 +2641,7 @@ II.- Al que ejecute o haga ejecutar por otro, en público exhibiciones obscenas;
 
 III.- Al que públicamente invite a otro al comercio carnal.
 
-### CAPÍTULO SEXTO. PROVOCACIÓN DE UN DELITO Y APOLOGÍA DE ESTE O DE ALGÚN VICIO
+### CAPÍTULO CUARTO. PORNOGRAFÍA INFANTIL
 
 ###### ARTÍCULO 290.
 
@@ -2575,7 +2675,7 @@ Las sanciones que señalan los artículos anteriores, se duplicarán cuando el r
 
 Al que promueva, publicite, facilite o gestione, por cualquier medio, viajes al territorio del Estado de Durango o al exterior de éste, con el propósito de que la persona que viaja tenga relaciones sexuales con menores de edad o con quien no tenga capacidad de comprender o resistir el hecho, se le impondrá una pena de cinco a catorce años de prisión y de mil a cinco mil días multa.
 
-### CAPÍTULO PRIMERO. DELITOS CONTRA EL ESTADO CIVIL
+### CAPÍTULO QUINTO. LENOCINIO
 
 ###### ARTÍCULO 294.
 
@@ -2593,7 +2693,7 @@ A quien por sí o a través de terceros dirija cualquier tipo de asociación del
 
 Los responsables de los delitos previstos en este subtítulo con excepción de lo previsto en el delito de Provocación de un Delito y Apología de éste o de algún Vicio, quedarán inhabilitados para ser tutores o curadores.
 
-### CAPÍTULO SEGUNDO. BIGAMIA
+### CAPÍTULO SEXTO. PROVOCACIÓN DE UN DELITO Y APOLOGÍA DE ESTE O DE ALGÚN VICIO
 
 ###### ARTÍCULO 297.
 
@@ -2615,7 +2715,7 @@ Se impondrá de cuatro a nueve años de prisión y de cien a quinientos días mu
 
 Las penas se agravarán en una mitad, si se emplea violencia o cuando la víctima del delito sea menor de edad o no tenga capacidad de comprender el significado del hecho o de resistirlo, o cuando el agente se valiese de su función pública.
 
-### CAPÍTULO TERCERO. ADULTERIO
+### CAPÍTULO PRIMERO. DELITOS CONTRA EL ESTADO CIVIL
 
 ###### ARTÍCULO 300.
 
@@ -2627,7 +2727,7 @@ SUBTÍTULO SEXTO
 
 DELITOS CONTRA LA FILIACIÓN Y LA INSTITUCIÓN DEL MATRIMONIO
 
-### CAPÍTULO PRIMERO. DELITOS CONTRA LA SEGURIDAD DE LA SUBSISTENCIA FAMILIAR
+### CAPÍTULO SEGUNDO. BIGAMIA
 
 ###### ARTÍCULO 301.
 
@@ -2661,7 +2761,7 @@ El que cometa alguno de los delitos expresados en el artículo anterior, perder�
 
 Se impondrá de tres meses a dos años de prisión y de tres a doscientos quince días multa, al que contraiga o autorice matrimonio con conocimiento de la existencia de un impedimento, o sin que hayan transcurrido los términos suspensivos para contraer matrimonio que señala la legislación civil.
 
-### CAPÍTULO SEGUNDO. VIOLACIÓN DE CUSTODIA AL SUSTRAER MENORES O INCAPACES
+### CAPÍTULO TERCERO. ADULTERIO
 
 ###### ARTÍCULO 304.
 
@@ -2677,9 +2777,7 @@ Se impondrá hasta la mitad de las penas previstas en el artículo anterior, a l
 
 El término para la prescripción de la bigamia, empezará a correr desde que uno de los dos matrimonios haya quedado disuelto por la muerte de uno de los cónyuges, o que el segundo haya sido declarado nulo. El término de la prescripción del matrimonio ilegal empieza a correr desde la disolución del matrimonio o por la muerte de alguno de los cónyuges.
 
-### CAPÍTULO TERCERO. VIOLENCIA FAMILIAR
-
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2012)</small>
+### CAPÍTULO PRIMERO. DELITOS CONTRA LA SEGURIDAD DE LA SUBSISTENCIA FAMILIAR
 
 ###### ARTÍCULO 307.
 
@@ -2697,7 +2795,7 @@ SUBTÍTULO SÉPTIMO
 
 DELITOS CONTRA LA INTEGRIDAD FAMILIAR
 
-### CAPÍTULO CUARTO. INCESTO
+### CAPÍTULO SEGUNDO. VIOLACIÓN DE CUSTODIA AL SUSTRAER MENORES O INCAPACES
 
 ###### ARTÍCULO 310.
 
@@ -2737,7 +2835,9 @@ Si la omisión en el cumplimiento de las obligaciones alimentarias, ocurre en de
 
 No se impondrá pena alguna o no se ejecutará la impuesta, cuando el acusado satisfaga todas las cantidades que haya dejado de suministrar y además garantice el cumplimiento de las cantidades que en el futuro deba satisfacer.
 
-### CAPÍTULO ÚNICO. DISCRIMINACIÓN
+### CAPÍTULO TERCERO. VIOLENCIA FAMILIAR
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 317.
 
@@ -2753,7 +2853,7 @@ Igual sanción se impondrá al cónyuge que habiendo perdido la patria potestad,
 
 Los delitos a que se refieren los dos artículos anteriores, se perseguirán a petición de parte ofendida.
 
-### CAPÍTULO ÚNICO. VIOLACIÓN A LAS LEYES DE INHUMACIÓN Y EXHUMACIÓN
+### CAPÍTULO CUARTO. INCESTO
 
 ###### ARTÍCULO 320.
 
@@ -2775,7 +2875,7 @@ En los casos que exista desistimiento por parte de la víctima, podrá prevalece
 
 (DEROGADO, P.O. 23 DE DICIEMBRE DE 2012)
 
-### CAPÍTULO PRIMERO. HOMICIDIO
+### CAPÍTULO ÚNICO. DISCRIMINACIÓN
 
 ###### ARTÍCULO 323.
 
@@ -2785,7 +2885,7 @@ SUBTÍTULO OCTAVO
 
 DELITOS CONTRA LA DIGNIDAD DE LAS PERSONAS
 
-### CAPÍTULO SEGUNDO. LESIONES
+### CAPÍTULO ÚNICO. VIOLACIÓN A LAS LEYES DE INHUMACIÓN Y EXHUMACIÓN
 
 ###### ARTÍCULO 324.
 
@@ -2805,7 +2905,7 @@ SUBTÍTULO NOVENO
 
 DELITOS CONTRA EL RESPETO A LOS MUERTOS
 
-### CAPÍTULO TERCERO. REGLAS COMUNES PARA LOS DELITOS DE HOMICIDIO Y LESIONES
+### CAPÍTULO PRIMERO. HOMICIDIO
 
 ###### ARTÍCULO 325.
 
@@ -2831,7 +2931,7 @@ SUBTÍTULO PRIMERO
 
 DELITOS CONTRA LA VIDA Y LA INTEGRIDAD CORPORAL
 
-### CAPÍTULO CUARTO. AYUDA O INDUCCIÓN AL SUICIDIO
+### CAPÍTULO SEGUNDO. LESIONES
 
 ###### ARTÍCULO 327.
 
@@ -2883,7 +2983,7 @@ II.- En vindicación próxima de una ofensa grave causada al autor del delito, s
 
 III.- Por móviles de piedad, mediante súplicas notorias y reiteradas de la víctima, ante la inutilidad de todo auxilio para salvar su vida.
 
-### CAPÍTULO QUINTO. INFANTICIDIO
+### CAPÍTULO TERCERO. REGLAS COMUNES PARA LOS DELITOS DE HOMICIDIO Y LESIONES
 
 ###### ARTÍCULO 334.
 
@@ -2939,7 +3039,7 @@ III.- Que la lesión sea consecuencia de la conducta culposa del personal de tra
 
 Se impondrá pena que no exceda de la mitad de la que correspondería conforme a las disposiciones de este Capítulo, a las lesiones inferidas mediante alguna de las circunstancias a que alude el Artículo 333 de este Código.
 
-### CAPÍTULO SEXTO. ABORTO
+### CAPÍTULO CUARTO. AYUDA O INDUCCIÓN AL SUICIDIO
 
 ###### ARTÍCULO 342.
 
@@ -2973,7 +3073,7 @@ IV. El cuerpo de la víctima sea expuesto, depositado o arrojado en un lugar pú
 
 V. La víctima haya sido incomunicada sin ánimo de obtención de lucro, cualquiera que sea el tiempo previo a su fallecimiento.
 
-### CAPÍTULO PRIMERO. PELIGRO DE CONTAGIO
+### CAPÍTULO QUINTO. INFANTICIDIO
 
 ###### ARTÍCULO 345.
 
@@ -2983,7 +3083,7 @@ Se impondrá de uno a diez años de prisión y de cincuenta a quinientos días m
 
 Si la persona a quien se induce o ayuda al suicidio fuere menor de edad o no tuviere capacidad de comprender la relevancia de su conducta o determinarse de acuerdo con esa comprensión, se impondrá prisión de diez a quince años.
 
-### CAPÍTULO SEGUNDO. DISPARO DE ARMA DE FUEGO Y ATAQUE PELIGROSO
+### CAPÍTULO SEXTO. ABORTO
 
 ###### ARTÍCULO 347.
 
@@ -3009,7 +3109,7 @@ IV.- Que el infante no sea legítimo.
 
 Si en el infanticidio tuviere participación un médico cirujano, comadrona o partera, además de la pena privativa que le corresponde, se le suspenderá de tres a cinco años en el ejercicio de su profesión.
 
-### CAPÍTULO TERCERO. OMISIÓN DE CUIDADO
+### CAPÍTULO PRIMERO. PELIGRO DE CONTAGIO
 
 ###### ARTÍCULO 350.
 
@@ -3045,7 +3145,7 @@ SUBTÍTULO SEGUNDO
 
 DELITOS DE PELIGRO CONTRA LAS PERSONAS
 
-### CAPÍTULO CUARTO. OMISIÓN DE AUXILIO
+### CAPÍTULO SEGUNDO. DISPARO DE ARMA DE FUEGO Y ATAQUE PELIGROSO
 
 ###### ARTÍCULO 353.
 
@@ -3055,7 +3155,7 @@ Si el ofensor desconociera que estuviera infectado y la enfermedad padecida fuer
 
 Este delito se perseguirá por querella de la víctima u ofendido.
 
-### CAPÍTULO QUINTO. OMISIÓN DE AUXILIO A LESIONADOS
+### CAPÍTULO TERCERO. OMISIÓN DE CUIDADO
 
 ###### ARTÍCULO 354.
 
@@ -3067,27 +3167,25 @@ II.- Al que ataque a alguien de tal manera que, en razón del arma empleada, de 
 
 Este artículo sólo se aplicará cuando no se causare daño, o los hechos no constituyan tentativa de homicidio, en caso contrario, se impondrán las penas del delito consumado en grado de tentativa que resultare.
 
-### CAPÍTULO SEXTO. EXPOSICIÓN DE INCAPACES O MENORES DE EDAD
+### CAPÍTULO CUARTO. OMISIÓN DE AUXILIO
 
 ###### ARTÍCULO 355.
 
 Se impondrá de tres meses a dos años de prisión y de tres a trescientos días multa, privando además de la patria potestad o de la tutela, al que abandone a una persona incapaz de valerse por sí misma teniendo la obligación de cuidarla. Si el inculpado fuere ascendiente o tutor del ofendido, se le privará además del derecho de heredar respecto a la persona abandonada.
 
-### CAPÍTULO SÉPTIMO. DISPOSICIONES GENERALES
+### CAPÍTULO QUINTO. OMISIÓN DE AUXILIO A LESIONADOS
 
 ###### ARTÍCULO 356.
 
 Se impondrá de tres a seis meses de prisión y de tres a treinta y cinco días multa, al que omita auxiliar a una persona que por cualquier circunstancia, estuviese amenazada de un peligro, cuando pudiera hacerlo sin riesgo alguno, o al que no estando en condiciones de llevarlo a cabo no diere inmediato aviso a la autoridad.
 
-### CAPÍTULO PRIMERO. PRIVACIÓN DE LA LIBERTAD PERSONAL
+### CAPÍTULO SEXTO. EXPOSICIÓN DE INCAPACES O MENORES DE EDAD
 
 ###### ARTÍCULO 357.
 
 Se impondrá de tres a seis meses de prisión y de tres a treinta y cinco días multa, a quien deje en estado de abandono, sin prestarle ni facilitarle la debida asistencia a quien por su estado físico, requiera de su auxilio o dejare de avisar inmediatamente a la autoridad.
 
-### CAPÍTULO SEGUNDO. SECUESTRO
-
-> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2004)</small>
+### CAPÍTULO SÉPTIMO. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 358.
 
@@ -3097,7 +3195,7 @@ Los ascendientes o tutores que entreguen en una casa de expósitos a un menor de
 
 No se impondrá pena alguna a la madre que entregue a su hijo o hijos, a otras personas para su cuidado, manutención y educación por ignorancia, extrema pobreza o por otras razones que así lo justifiquen.
 
-### CAPÍTULO TERCERO. DESAPARICIÓN FORZADA DE PERSONAS
+### CAPÍTULO PRIMERO. PRIVACIÓN DE LA LIBERTAD PERSONAL
 
 ###### ARTÍCULO 359.
 
@@ -3107,7 +3205,9 @@ SUBTÍTULO TERCERO
 
 DELITOS CONTRA LA LIBERTAD Y SEGURIDAD PERSONAL
 
-### CAPÍTULO CUARTO. TRÁFICO DE MENORES
+### CAPÍTULO SEGUNDO. SECUESTRO
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2004)</small>
 
 ###### ARTÍCULO 360.
 
@@ -3127,7 +3227,7 @@ Se impondrán de dos a cuatro años de prisión y de cien a cuatrocientos días 
 
 Igual sanción se le dará al particular que por medio de la violencia o la coacción impida a una persona ejecutar un acto lícito o la obligue a ejecutar lo que no quiere, sea lícito o ilícito.
 
-### CAPÍTULO QUINTO. RETENCIÓN Y SUSTRACCIÓN DE MENORES O INCAPACES, Y CON FINES DE CORRUPCIÓN O TRÁFICO DE ÓRGANOS
+### CAPÍTULO TERCERO. DESAPARICIÓN FORZADA DE PERSONAS
 
 ###### ARTÍCULO 362.
 
@@ -3191,7 +3291,7 @@ A quien simule encontrarse privado de su libertad o simule la privación de la l
 
 Las mismas penas se impondrán a cualquiera que intervenga en la comisión de este delito.
 
-### CAPÍTULO SEXTO. RAPTO
+### CAPÍTULO CUARTO. TRÁFICO DE MENORES
 
 ###### ARTÍCULO 364.
 
@@ -3205,9 +3305,7 @@ Este delito no se sujetará a las reglas de la prescripción, por lo que no pres
 
 Para los efectos de este artículo servidor público es aquel a que se refiere el artículo 151 de este Código.
 
-### CAPÍTULO SÉPTIMO. EXTORSIÓN
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2012)</small>
+### CAPÍTULO QUINTO. RETENCIÓN Y SUSTRACCIÓN DE MENORES O INCAPACES, Y CON FINES DE CORRUPCIÓN O TRÁFICO DE ÓRGANOS
 
 ###### ARTÍCULO 365.
 
@@ -3229,7 +3327,7 @@ Si espontáneamente se devuelve al menor dentro de las veinticuatro horas siguie
 
 Si la recuperación de la víctima se logra por datos proporcionados por los responsables, las sanciones se reducirá en una mitad.
 
-### CAPÍTULO OCTAVO. ASALTO
+### CAPÍTULO SEXTO. RAPTO
 
 ###### ARTÍCULO 367.
 
@@ -3253,7 +3351,9 @@ Si el agente es familiar del menor o del incapaz, pero no ejerce la patria potes
 
 Cuando el sujeto devuelva espontáneamente al menor o al incapaz, dentro de las veinticuatro horas siguientes a la comisión del delito, se le impondrá una tercera parte de las sanciones antes señaladas.
 
-### CAPÍTULO NOVENO. ALLANAMIENTO DE MORADA
+### CAPÍTULO SÉPTIMO. EXTORSIÓN
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTÍCULO 372.
 
@@ -3277,7 +3377,7 @@ No se procederá contra el raptor sino por querella de la mujer ofendida; pero s
 
 Se aplicará de dos a ocho años de prisión y de diez a cien días multa, a quien para satisfacer un deseo erótico sexual sustraiga o retenga por cualquier medio a una persona de hasta dieciséis años de edad, sea cual fuere su sexo; o que por cualquier causa no pueda conducirse voluntariamente o resistir la conducta delictiva. Este delito se perseguirá de oficio.
 
-### CAPÍTULO DÉCIMO. VIOLACIÓN A LA INTIMIDAD PERSONAL O FAMILIAR
+### CAPÍTULO OCTAVO. ASALTO
 
 ###### ARTÍCULO 377.
 
@@ -3303,7 +3403,7 @@ VIII. Participe algún miembro de una corporación policiaca u otro servidor pú
 
 IX. Participen trabajadores de instituciones públicas o privadas que tengan acceso a bancos de datos personales y que los utilicen de manera indebida o la sustraigan para sí o para terceros, con el objeto de cometer el delito de extorsión en sus diversas modalidades.
 
-### CAPÍTULO DÉCIMO PRIMERO. AMENAZAS
+### CAPÍTULO NOVENO. ALLANAMIENTO DE MORADA
 
 ###### ARTÍCULO 378.
 
@@ -3313,7 +3413,7 @@ Se impondrá de tres a ocho años de prisión y de cuarenta a trescientos días 
 
 La pena será de diez a treinta años de prisión para el que en caminos o carreteras haga uso de la violencia en contra de los ocupantes de un vehículo, ya sea de transporte público o particular. Si los salteadores atacaren una población se aplicarán de veinte a treinta años de prisión a los cabecillas o jefes y de quince a veinte años a los demás.
 
-### CAPÍTULO DÉCIMO SEGUNDO. CHANTAJE
+### CAPÍTULO DÉCIMO. VIOLACIÓN A LA INTIMIDAD PERSONAL O FAMILIAR
 
 ###### ARTÍCULO 379.
 
@@ -3327,7 +3427,7 @@ b).- De cinco a once años de prisión y de veinte a cuatrocientos días multa, 
 
 c).- De siete a quince años de prisión y de treinta a quinientos días multa, si lo cometen dos o más personas.
 
-### CAPÍTULO PRIMERO. ABUSOS DESHONESTOS
+### CAPÍTULO DÉCIMO PRIMERO. AMENAZAS
 
 ###### ARTÍCULO 380.
 
@@ -3345,7 +3445,7 @@ II.- Reproduzca dichos documentos u objetos; y
 
 III.- Utilice medios técnicos para escuchar, observar, transmitir, grabar o reproducir la imagen o el sonido.
 
-### CAPÍTULO SEGUNDO. ESTUPRO
+### CAPÍTULO DÉCIMO SEGUNDO. CHANTAJE
 
 ###### ARTÍCULO 382.
 
@@ -3379,7 +3479,7 @@ I.- Si lo que exigió y recibió fue dinero, o algún documento o cosa estimable
 
 II.- Si exigió que al amenazado cometiera un delito, se acumulará a la sanción de la amenaza, la que corresponda por su participación en el delito que resulte.
 
-### CAPÍTULO TERCERO. ACOSO SEXUAL
+### CAPÍTULO PRIMERO. ABUSOS DESHONESTOS
 
 ###### ARTÍCULO 385.
 
@@ -3391,7 +3491,7 @@ SUBTÍTULO CUARTO
 
 DELITOS CONTRA LA LIBERTAD E INEXPERIENCIA SEXUAL
 
-### CAPÍTULO CUARTO. VIOLACIÓN
+### CAPÍTULO SEGUNDO. ESTUPRO
 
 ###### ARTÍCULO 386.
 
@@ -3403,7 +3503,7 @@ Si se hiciera uso de violencia física o moral, la pena será de tres a cinco a�
 
 Al que ejecute un acto sexual, sin el propósito de llegar a la cópula, en una persona menor de doce años o en persona que por cualquier causa no pueda resistirla, o la obligue a ejecutarla, se le impondrá una pena de tres a cinco años de prisión y hasta de cien días multa.
 
-### CAPÍTULO PRIMERO. INJURIAS
+### CAPÍTULO TERCERO. ACOSO SEXUAL
 
 ###### ARTÍCULO 388.
 
@@ -3419,7 +3519,7 @@ La reparación del daño en los casos de estupro, comprenderá el pago de alimen
 
 Dicho pago se hará en la forma y términos que fije el Código Civil para los casos de divorcio.
 
-### CAPÍTULO SEGUNDO. DIFAMACIÓN
+### CAPÍTULO CUARTO. VIOLACIÓN
 
 ###### ARTÍCULO 391.
 
@@ -3429,7 +3529,7 @@ Si el acosador fuese servidor público y se aprovechare de esa circunstancia, ad
 
 Este delito se perseguirá por querella, salvo que se trate de un incapaz o menor de edad en cuyo caso se procederá de oficio.
 
-### CAPÍTULO TERCERO. CALUMNIA
+### CAPÍTULO PRIMERO. INJURIAS
 
 ###### ARTÍCULO 392.
 
@@ -3477,9 +3577,7 @@ SUBTÍTULO QUINTO
 
 DELITOS CONTRA EL HONOR DE LAS PERSONAS
 
-### CAPÍTULO CUARTO. DISPOSICIONES COMUNES
-
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 2007)</small>
+### CAPÍTULO SEGUNDO. DIFAMACIÓN
 
 ###### ARTÍCULO 399.
 
@@ -3493,7 +3591,7 @@ Se impondrá de tres a seis meses de prisión y de tres a treinta y cinco días 
 
 Se impondrá de tres meses a tres años de prisión y de veinte a doscientos quince días multa, cuando las injurias o los golpes que no causen lesión, se infieran a un ascendiente consanguíneo en línea recta.
 
-### CAPÍTULO PRIMERO. ROBO
+### CAPÍTULO TERCERO. CALUMNIA
 
 ###### ARTÍCULO 402.
 
@@ -3503,7 +3601,9 @@ Se impondrá de tres meses a tres años de prisión y de veinte a doscientos qui
 
 (DEROGADO, P.O. 24 DE MAYO DE 2007)
 
-### CAPÍTULO SEGUNDO. ABIGEATO
+### CAPÍTULO CUARTO. DISPOSICIONES COMUNES
+
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 2007)</small>
 
 ###### ARTÍCULO 404.
 
@@ -3517,7 +3617,7 @@ Se impondrá de tres meses a tres años de prisión y de veinte a doscientos qui
 
 (DEROGADO, P.O. 24 DE MAYO DE 2007)
 
-### CAPÍTULO TERCERO. ABUSO DE CONFIANZA
+### CAPÍTULO PRIMERO. ROBO
 
 ###### ARTÍCULO 407.
 
@@ -3533,7 +3633,7 @@ Cuando la injuria se hubiese cometido con anterioridad al fallecimiento del ofen
 
 ## TÍTULO CUARTO. DELITOS CONTRA EL PATRIMONIO
 
-### CAPÍTULO CUARTO. FRAUDE Y EXACCIÓN FRAUDULENTA
+### CAPÍTULO SEGUNDO. ABIGEATO
 
 ###### ARTÍCULO 409.
 
@@ -3661,7 +3761,7 @@ V (sic).- El apoderamiento material de los documentos que contengan datos de com
 
 Cuando el valor de lo robado no exceda de cuarenta días de salario mínimo y se trate de un delincuente primario, que haya admitido su responsabilidad durante la averiguación previa y restituya el objeto materia del delito o su importe, el Ministerio Público suspenderá el ejercicio de la acción penal, siempre que el inculpado no haya empleado violencia sobre las personas y no se trate de las hipótesis previstas en el artículo 412 fracción II de este Código, apercibiéndole formalmente, dejando constancia, de que en caso de cometer un nuevo robo dentro del término de tres años, se ejercitará acción penal por éste y el último delito cometido.
 
-### CAPÍTULO QUINTO. USURA
+### CAPÍTULO TERCERO. ABUSO DE CONFIANZA
 
 ###### ARTÍCULO 420.
 
@@ -3687,7 +3787,7 @@ III.- Expida certificados falsos para obtener guías, simulando ventas o haga co
 
 IV.- Al que se apodere de una o más cabezas de ganado propio, que se halle en poder de otro, en virtud de una relación contractual o por mandato de autoridad.
 
-### CAPÍTULO SEXTO. DESPOJO
+### CAPÍTULO CUARTO. FRAUDE Y EXACCIÓN FRAUDULENTA
 
 ###### ARTÍCULO 422.
 
@@ -3715,7 +3815,7 @@ IV.- Se le haya dado la cosa en guarda y custodia, y no la devuelve a pesar de s
 
 Se sancionará con dos a ocho años de prisión y multa hasta de ciento veinte veces el salario, a quien disponga indebidamente o se niegue sin justificación a entregar un vehículo recibido en depósito de autoridad competente, o bien éste se encuentre relacionados (sic) con delitos por tránsito de vehículos, habiendo sido requerido por autoridad que conozca o siga conociendo del caso.
 
-### CAPÍTULO SÉPTIMO. DAÑO EN LOS BIENES
+### CAPÍTULO QUINTO. USURA
 
 ###### ARTÍCULO 425.
 
@@ -3817,13 +3917,13 @@ A quien cometa el delito de exacción fraudulenta se le impondrán las penas a q
 
 El servidor público que participe o intervenga en la comisión de estas conductas, independientemente de que se le apliquen las penas a que se haga acreedor, será destituido de su cargo, inhabilitado hasta por diez años, y será publicada la sentencia.
 
-### CAPÍTULO OCTAVO. ENCUBRIMIENTO POR RECEPTACIÓN
+### CAPÍTULO SEXTO. DESPOJO
 
 ###### ARTÍCULO 429.
 
 Al que obtenga de otra persona ventajas usurarias por medio de contratos o convenios, en los cuales se estipulen réditos o lucros superiores a los usuales en el mercado, se impondrá de uno a nueve años de prisión y multa equivalente hasta de dos tantos de los intereses devengados en exceso.
 
-### CAPÍTULO NOVENO. DISPOSICIONES COMUNES DE LOS DELITOS PATRIMONIALES
+### CAPÍTULO SÉPTIMO. DAÑO EN LOS BIENES
 
 ###### ARTÍCULO 430.
 
@@ -3837,7 +3937,7 @@ III.- Al que en términos de las fracciones anteriores, distraiga sin derecho el
 
 Se impondrá de seis a doce años de prisión y de cien a quinientos días multa, a los autores intelectuales a quienes dirijan la invasión y a quienes instiguen a la ocupación de la cosa, cuando el despojo se realice por dos o más personas. Si al realizarse el despojo se cometen otros delitos, aún sin la participación física de los autores intelectuales, de quienes dirijan la invasión e instigadores, se considerará a éstos, inculpados de los delitos cometidos.
 
-### CAPÍTULO DÉCIMO. DELITOS CONTRA LA SEGURIDAD DE LA PROPIEDAD Y LA POSESIÓN DE INMUEBLES Y LÍMITES DE CRECIMIENTO DE LOS CENTROS DE POBLACIÓN
+### CAPÍTULO OCTAVO. ENCUBRIMIENTO POR RECEPTACIÓN
 
 ###### ARTÍCULO 431.
 
@@ -3863,13 +3963,15 @@ Si este delito se comete en bienes de dominio público o que por su valor histó
 
 Las penas señaladas en este capítulo se aumentarán hasta en una mitad más, cuando los daños en los bienes se causen con motivo u ocasión de un espectáculo deportivo, profesional, taurino, artístico u otros similares en que tiene lugar o en sus inmediaciones, antes durante o después de su desarrollo.
 
-### CAPÍTULO DÉCIMO PRIMERO. TRANSFERENCIA ILEGAL DE BIENES SUJETOS A RÉGIMEN EJIDAL O COMUNAL
+### CAPÍTULO NOVENO. DISPOSICIONES COMUNES DE LOS DELITOS PATRIMONIALES
 
 ###### ARTÍCULO 436.
 
 Al que con ánimo de lucro, después de la ejecución de un delito y sin haber participado en éste, adquiera, reciba u oculte el producto de aquél a sabiendas de estas circunstancias, o al que ayude a otro para los mismos fines se le aplicará de dos a seis años de prisión y de cien a trescientos días de multa.
 
-### CAPÍTULO ÚNICO. DELITOS ELECTORALES
+### CAPÍTULO DÉCIMO. DELITOS CONTRA LA SEGURIDAD DE LA PROPIEDAD Y LA POSESIÓN DE INMUEBLES Y LÍMITES DE CRECIMIENTO DE LOS CENTROS DE POBLACIÓN
+
+### CAPÍTULO DÉCIMO PRIMERO. TRANSFERENCIA ILEGAL DE BIENES SUJETOS A RÉGIMEN EJIDAL O COMUNAL
 
 ###### ARTÍCULO 437.
 
@@ -3892,6 +3994,8 @@ Cuando se trate de objetos de arte, históricos o de un valor estimativo especia
 ###### ARTÍCULO 441.
 
 Si el Juez lo creyere conveniente, además de las penas previstas para cada uno de los delitos mencionados en este Título, podrá imponer al delincuente suspensión de tres meses a seis años, para ser perito, depositario, interventor judicial, síndico, interventor en concursos o quiebras, asesor, representante de ausentes o en el ejercicio de cualquier profesión para las que se requiera título o autorización especial.
+
+### CAPÍTULO ÚNICO. DELITOS ELECTORALES
 
 ###### ARTÍCULO 442.
 
@@ -4296,3 +4400,19 @@ P.O. 10 DE MARZO DE 2013.
 PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales en lo que se opongan al presente decreto.
+
+P.O. 30 DE MAYO DE 2013.
+
+DECRETO NÚMERO 497, POR EL QUE SE REFORMA LA DENOMINACIÓN DEL SUBTITULO CUARTO PARA DENOMINARSE "DELITOS CONTRA EL AMBIENTE Y LOS RECURSOS NATURALES", ASÍ COMO LA DENOMINACIÓN DEL CAPITULO ÚNICO PARA QUEDAR COMO "CAPITULO I" AMBOS DEL TITULO SEGUNDO "DELITOS CONTRA LA COLECTIVIDAD", DEL LIBRO SEGUNDO "DE LOS DELITOS"; SE REFORMAN LOS ARTÍCULOS 279 PRIMER PÁRRAFO, 280, 281, 282, 283, 284, 285 Y 286; SE ADICIONA EN CAPITULO II DENOMINADO "DELITOS CONTRA LA GESTIÓN AMBIENTAL", QUE CONTIENE LOS ARTÍCULOS 286 BIS Y 286 BIS 1; Y SE ADICIONA EN CAPITULO III DENOMINADO "DISPOSICIONES COMUNES AL PRESENTE SUBTITULO", QUE CONTIENE LOS ARTÍCULOS 286 BIS 2, 286 BIS 3, 286 BIS 4 Y 286 BIS 5; AL "CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO" VIGENTE EN LOS PROCEDIMIENTOS INICIADOS ANTES DE LAS 00:00 HORAS DEL DÍA 14 DE DICIEMBRE DEL AÑO 2009, CONFORME A LO DISPUESTO POR LA DECLARATORIA DE ADOPCIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO, PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO CONSTITUCIONAL DEL ESTADO DE DURANGO, NUMERO 47, DE FECHA 10 DE DICIEMBRE DEL AÑO 2009.
+
+PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales en lo que se opongan al presente decreto.
+
+P.O. 30 DE MAYO DE 2013
+
+DECRETO NÚMERO 498, POR EL QUE SE REFORMA LA DENOMINACIÓN DEL CAPITULO PRIMERO, DEL SUBTITULO PRIMERO DEL TITULO SEGUNDO, DEL LIBRO SEGUNDO; EL ARTICULO 243 Y EL ARTICULO 245; SE ADICIONA UN ARTICULO 243 BIS Y SE DEROGA EL ARTICULO 244 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE DURANGO: (VIGENTE EN LOS PROCEDIMIENTOS INICIADOS ANTES DE LAS 00:00 HORAS DEL DIA 14 DE DICIEMBRE DEL AÑO 2009, CONFORME A LO DISPUESTO POR LA DECLARATORIA DE ADOPCIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO, PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO CONSTITUCIONAL DEL ESTADO DE DURANGO, NUMERO 47, DE FECHA 10 DE DICIEMBRE DEL AÑO 2009).
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
