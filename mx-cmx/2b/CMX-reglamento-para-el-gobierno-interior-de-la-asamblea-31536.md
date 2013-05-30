@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-el-gobierno-interior-de-la-asamblea-31536"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-05-27"
-last_updated: "2013-01-03"
+last_updated: "2013-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31536&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-04-29"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 3 DE ENERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE MAYO DE 2013.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 27 mayo de 2003.
 
@@ -340,7 +340,13 @@ Las Comisiones se integrarán por los diputados electos por el pleno a propuesta
 
 Las Comisiones conocerán en el ámbito de su competencia, de las Iniciativas, Proyectos, Proposiciones con ó sin puntos de acuerdo, excitativas, deliberaciones, avisos y pronunciamientos ó asuntos que le sean turnados por la Mesa Directiva.
 
-Las Comisiones podrán efectuar directamente investigaciones, foros y consultas legislativas sobre los asuntos a su cargo; así como coadyuvar con el Comité de Atención, Orientación y Quejas Ciudadanas en la gestión de los asuntos que se les encomienden.
+> <small>(REFORMADO, G.O. 30 DE MAYO DE 2013)</small>
+
+Las Comisiones podrán efectuar directamente investigaciones, foros, consultas legislativas y parlamentos sobre los asuntos a su cargo. Para la realización de los parlamentos, se seguirán los lineamientos establecidos en el artículo 160 del presente ordenamiento, y determinarán la fecha de su celebración con la Comisión de Gobierno. Asimismo, las Comisiones coadyuvarán con el Comité de Atención, Orientación y Quejas ciudadanas en la gestión de los asuntos que se les encomienden.
+
+> <small>(ADICIONADO, G.O. 30 DE MAYO DE 2013)</small>
+
+Con fundamento en lo anteriormente prescrito la Comisión de Igualdad de Género deberá celebrar el Parlamento de las Mujeres del Distrito Federal de manera anual.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 9 DE JULIO DE 2007)</small>
 
@@ -3247,3 +3253,9 @@ Primero.- El presente Decreto entrará en vigor al día siguiente de su aprobaci
 Segundo.- Se derogan las disposiciones que contravengan al presente Decreto.
 
 Tercero.- Remítase al Jefe de Gobierno del Distrito Federal, para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
+
+G.O. 30 DE MAYO DE 2013.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
+
+SEGUNDO.- Remítase al Jefe de Gobierno del Distrito Federal, para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal, y para su mayor difusión publíquese en el Diario Oficial de la Federación.
