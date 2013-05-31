@@ -4,7 +4,7 @@ identifier: "COA-codigo-de-procedimientos-penales-del-estado-de-coahuila-de-8602
 country: "mx"
 rank: "codigo"
 publication_date: "2012-02-17"
-last_updated: "2013-05-17"
+last_updated: "2013-05-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86023&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "COA"
 ---
 # CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE MAYO DE 2013 EN EL P.O. SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE COAHUILA DE ZARAGOZA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2013.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 31 DE MAYO DE 2013.</small>
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 17 de febrero de 2012.
 
@@ -6203,8 +6203,6 @@ Sobreseimiento en el juicio
 
 Si se produce una causa extintiva de la acción penal y no es necesaria la celebración del debate para comprobarla, el tribunal, una vez oídas las partes, podrá dictar el sobreseimiento. Contra esta decisión el ministerio público podrá interponer recurso de apelación.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE MAYO DE 2013 EN EL P.O. SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 17 DE MAYO DE 2013)</small>
@@ -6221,7 +6219,9 @@ II. Para practicar algún acto fuera de la sala de audiencias, incluso cuando un
 
 III. Cuando sea imposible o inconveniente continuar el debate porque no comparezcan testigos, peritos o intérpretes y deba practicarse una nueva citación y que ellos comparezcan, incluso coactivamente, por medio de la fuerza pública;
 
-VI (SIC). Cuando un juez o cualquiera de las partes enfermen a tal extremo que no puedan continuar interviniendo en el debate, a menos que el juez pueda ser reemplazado inmediatamente cuando el tribunal se hubiera constituido, desde el inicio del debate, con un número superior de jueces que el requerido para su integración, de manera que algún suplente pase a integrarlo y permita la continuación del debate;
+> <small>(F. DE E., P.O. 31 DE MAYO DE 2013)</small>
+
+IV. Cuando un juez o cualquiera de las partes enfermen a tal extremo que no puedan continuar interviniendo en el debate, a menos que el juez pueda ser reemplazado inmediatamente cuando el tribunal se hubiera constituido, desde el inicio del debate, con un número superior de jueces que el requerido para su integración, de manera que algún suplente pase a integrarlo y permita la continuación del debate;
 
 El tribunal decidirá la suspensión y anunciará el día y la hora en que continuará la audiencia; ello valdrá como citación para todas las partes. Antes de comenzar la nueva audiencia, quien la presida resumirá brevemente los actos cumplidos con anterioridad. Los jueces y el tribunal podrán intervenir en otros debates durante el plazo de suspensión, salvo que el tribunal decida lo contrario, por resolución fundada, en razón de la complejidad del caso.
 
@@ -7403,8 +7403,6 @@ En caso de que el imputado no caiga en ninguno de los supuestos de reiteración 
 
 ### CAPÍTULO V. Procedimiento simplificado
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE MAYO DE 2013 EN EL P.O. SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 17 DE MAYO DE 2013)</small>
@@ -7429,7 +7427,9 @@ VI. Que no se encuentre en algún supuesto de reiteración delictiva o procesal 
 
 VII. Que el imputado consienta la aplicación de este procedimiento, para lo cual deberá estar debidamente informado de los alcances del mismo.
 
-VII (SIC). Que el imputado no se haya beneficiado con antelación por este procedimiento en el fuero común o en cualquier otro, salvo que haya sido absuelto o hayan transcurrido al menos tres años desde el cumplimiento de la resolución mediante la cual se aplicó el procedimiento.
+> <small>(F. DE E., P.O. 31 DE MAYO DE 2013)</small>
+
+VIII. Que el imputado no se haya beneficiado con antelación por este procedimiento en el fuero común o en cualquier otro, salvo que haya sido absuelto o hayan transcurrido al menos tres años desde el cumplimiento de la resolución mediante la cual se aplicó el procedimiento.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -8169,8 +8169,6 @@ Tampoco será susceptible de recurso alguno la sentencia que se dicte en el nuev
 
 ### CAPÍTULO V. Revisión
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE MAYO DE 2013 EN EL P.O. SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 17 DE MAYO DE 2013)</small>
@@ -8185,13 +8183,21 @@ I. Cuando la sentencia se funde en pruebas documentales o testimoniales que desp
 
 II. Cuando mediante prueba pericial no practicada antes y sin que hubiera estado al alcance del imputado o de su defensor solicitarla durante el proceso, quepa asumir que ya no podría sostenerse la sentencia de condena.
 
-II (SIC). Cuando después de emitida la sentencia aparezcan pruebas documentales que invaliden la prueba en que descanse aquélla o que sirvieron de base a la acusación y a la condena;
+> <small>(F. DE E., P.O. 31 DE MAYO DE 2013)</small>
 
-III. Cuando condenada alguna persona por homicidio de otro que hubiera desaparecido, se presentara éste o alguna prueba irrefutable de que vive;
+III. Cuando después de emitida la sentencia aparezcan pruebas documentales que invaliden la prueba en que descanse aquélla o que sirvieron de base a la acusación y a la condena;
 
-IV. Cuando el sentenciado haya sido condenado por los mismos hechos en juicios diversos. En este caso prevalecerá la sentencia más benigna, o
+> <small>(F. DE E., P.O. 31 DE MAYO DE 2013)</small>
 
-V. Cuando en juicios diferentes haya sido condenado el sentenciado por el mismo delito y se demuestre la imposibilidad de que lo hubiera cometido.
+IV. Cuando condenada alguna persona por homicidio de otro que hubiera desaparecido, se presentara éste o alguna prueba irrefutable de que vive;
+
+> <small>(F. DE E., P.O. 31 DE MAYO DE 2013)</small>
+
+V. Cuando el sentenciado haya sido condenado por los mismos hechos en juicios diversos. En este caso prevalecerá la sentencia más benigna, o
+
+> <small>(F. DE E., P.O. 31 DE MAYO DE 2013)</small>
+
+VI. Cuando en juicios diferentes haya sido condenado el sentenciado por el mismo delito y se demuestre la imposibilidad de que lo hubiera cometido.
 
 ###### Artículo 558.
 
