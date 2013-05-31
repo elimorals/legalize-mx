@@ -4,7 +4,7 @@ identifier: "COA-ley-para-el-desarrollo-integral-de-las-personas-con-10981"
 country: "mx"
 rank: "ley"
 publication_date: "1997-08-01"
-last_updated: "2007-11-13"
+last_updated: "2013-05-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10981&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COA"
 
 LEY PARA EL DESARROLLO INTEGRAL DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 2007.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA EL DESARROLLO E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADA EN EL P.O. 31 DE MAYO DE 2013, EL PRESENTE ORDENAMIENTO SERÁ ABROGADO A LOS 30 DÍAS POSTERIORES A SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 MAYO DE 2013
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 1 de agosto de 1997.
 
@@ -706,3 +708,15 @@ PRIMERO.- La entrada en vigor del presente decreto, será en noventa días natur
 SEGUNDO.- Los perros guía existentes en la actualidad, deberán adecuarse a los requisitos de reconocimiento e identificación previstos en esta ley, dentro del plazo de seis meses a partir del desarrollo reglamentario de ésta ley.
 
 TERCERO.- Los Municipios, dentro del ámbito de sus respectivas competencias, adaptarán sus reglamentos municipales sobre la materia a las normas contenidas en la presente ley, en el plazo de seis meses a partir de la entrada en vigor de esta ley.
+
+P.O. 31 DE MAYO DE 2013.
+
+Artículo Primero.- La presente ley entrará en vigor a los 30 días posteriores a su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se abroga la Ley de Desarrollo integral para personas con discapacidad para el Estado de Coahuila.
+
+Artículo Tercero.- El Poder Ejecutivo del Estado y las autoridades municipales, en el ámbito de sus competencias, tendrán un plazo no mayor a los 120 días posteriores a la entrada en vigencia de la presente ley, para adecuar su normatividad según lo estipulado en la misma.
+
+Artículo Cuarto.- Las dependencias o entidades de gobierno previstas en la presente ley, deberán establecer en el presupuesto de egresos del ejercicio inmediato siguiente a la publicación de la presente ley, las necesidades presupuestarias en los programas respectivos para dar cumplimiento a las atribuciones y obligaciones previstas en la misma.
+
+Artículo Quinto.- Las dependencias y autoridades estatales y municipales deberán contar con un programa de accesibilidad y ajustes razonables dentro de los tres meses siguientes a la entrada en vigor de la presente ley. Asimismo deberán contar, en un plazo de doce meses, con al menos un servidor público con conocimientos de lenguaje de señas.
