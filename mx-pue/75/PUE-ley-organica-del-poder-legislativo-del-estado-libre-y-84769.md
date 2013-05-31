@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-poder-legislativo-del-estado-libre-y-84769"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-12-30"
-last_updated: "2013-04-15"
+last_updated: "2013-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO MEDIANTE EL CUAL SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE PUEBLA, PUBLICADO EN LA SEGUNDA SECCIÓN DEL P.O. 15 DE ABRIL DE 2013, LAS REFERENCIAS QUE A LA ENTRADA EN VIGOR DEL PRESENTE DECRETO SE HAGAN EN TODO INSTRUMENTO LEGAL, JURÍDICO O ADMINISTRATIVO Y NORMA EN SENTIDO FORMAL O MATERIAL A LA COMISIÓN GENERAL INSPECTORA DEL ÓRGANO DE FISCALIZACIÓN SUPERIOR DEL ESTADO O A SU TITULAR, SE ENTENDERÁN HECHAS A LA COMISIÓN GENERAL INSPECTORA DE LA AUDITORÍA SUPERIOR DEL ESTADO O A SU RESPECTIVO TITULAR.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2013.
 
 Ley publicada en la Sección Décima Novena del Periódico Oficial del Estado de Puebla, el viernes 30 de diciembre de 2011.
 
@@ -387,7 +385,9 @@ Los Diputados son responsables por los delitos, faltas u omisiones en que incurr
 
 Son obligaciones de los Diputados, las siguientes:
 
-I.- Rendir la protesta de Ley, en términos de lo dispuesto por las leyes aplicables;
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2013)</small>
+
+I.- Rendir la protesta de Ley, en términos de lo dispuesto por los ordenamientos aplicables; así mismo, presentar su Plan de Trabajo en un plazo de noventa días naturales, contados a partir de la fecha de la referida protesta al cargo conferido;
 
 II.- Asistir con puntualidad a las sesiones y reuniones que celebre el Congreso, las Comisiones y los Comités de los que sean miembros;
 
@@ -2306,3 +2306,9 @@ SEGUNDO.- Las referencias que a la entrada en vigor del presente Decreto se haga
 TERCERO.- Los procedimientos legales, administrativos, de fiscalización superior y demás asuntos que a la entrada en vigor del presente Decreto, se encuentren en trámite ante la Comisión General Inspectora del Órgano de Fiscalización Superior o en los que ésta sea parte, así como los que deriven o sean consecuencia de los mismos, continuarán sustanciándose por la Comisión General Inspectora de la Auditoría Superior del Estado, hasta su total conclusión, conforme a las disposiciones aplicables.
 
 CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE MAYO DE 2013
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
