@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2013-05-14"
+last_updated: "2013-05-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 31 DE MAYO DE 2013.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -194,19 +194,33 @@ II. A la Secretaría de Desarrollo Urbano y Vivienda:
 
 Asimismo, se le adscribe el órgano desconcentrado denominado Autoridad del Espacio Público del Distrito Federal.
 
-> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADA, G.O. 31 DE MAYO DE 2013)</small>
 
-III. A la Secretaria de Desarrollo Económico:
+III. A la Secretaría de Desarrollo Económico:
 
-A. Subsecretaria de Fomento de Empresas Ecológicas;
+A) Subsecretaría de Desarrollo Económico y Sustentabilidad
 
-1. Dirección General de Incubadoras de Empresas Ecológicas;
+1.- Dirección Ejecutiva de Asesoría para la Apertura de Negocios
 
-B. Dirección General de Regulación y Fomento Económico;
+2.- Dirección Ejecutiva de Relaciones Institucionales
 
-C. Dirección General de Abasto, Comercio y Distribución; y
+3.- Dirección Ejecutiva de Información Económica
 
-D. Dirección General de la Central de Abasto.
+B) Coordinación General de Gestión para el Crecimiento y Desarrollo de la Ciudad
+
+1.- Dirección Ejecutiva de Aprovechamiento Territorial
+
+2.- Dirección Ejecutiva de Gestión y Normatividad
+
+C) Coordinación General de Regulación y Planeación Económica
+
+1.- Dirección Ejecutiva de Planeación Económica
+
+2.- Dirección Ejecutiva de Regulación Económica
+
+D) Coordinación General de la Central de Abasto
+
+E) Dirección General de Abasto, Comercio y Distribución
 
 > <small>(REFORMADA, G.O. 19 DE ENERO DE 2007)</small>
 
@@ -500,31 +514,35 @@ Se le adscribe el Órgano Desconcentrado denominado Comisión de Filmaciones de 
 
 XII. La Procuraduría General de Justicia del Distrito Federal, se ubica en el ámbito orgánico del Gobierno del Distrito Federal; su estructura y funcionamiento se rige por las disposiciones jurídicas y administrativas correspondientes.
 
+> <small>(REFORMADA, G.O. 31 DE MAYO DE 2013)</small>
+
 XIII. A la Oficialía Mayor:
 
-> <small>(REFORMADO, G.O. 19 DE ENERO DE 2007)</small>
-
-1.- Dirección General de Administración y Desarrollo de Personal;
+1. Dirección General de Administración y Desarrollo de Personal;
 
 2. Dirección General de Recursos Materiales y Servicios Generales;
 
-3. Dirección General de Patrimonio Inmobiliario; y (sic)
+3. Dirección General de Patrimonio Inmobiliario;
 
-> <small>(REFORMADO, G.O. 30 DE MARZO DE 2009)</small>
+4. Coordinación General de Apoyo Administrativo;
 
-4. Dirección Ejecutiva de Apoyo Técnico;
+4.1 Dirección Ejecutiva de Información Pública;
 
-> <small>(REFORMADO, G.O. 30 DE MARZO DE 2009)</small>
+4.2 Dirección Ejecutiva de Apoyo en Adquisiciones y Servicios Generales;
+
+4.3 Dirección Ejecutiva de Apoyo en Recursos Humanos;
+
+4.4 Dirección Ejecutiva de Apoyo en Protección Civil del Patrimonio Inmobiliario;
+
+4.5 Dirección Ejecutiva de Apoyo Jurídico;
+
+4.6 Dirección Ejecutiva de Apoyo Técnico y Tecnológico;
 
 5. Las Direcciones Generales, Ejecutivas o de área encargadas de la administración en las dependencias de la Administración Publica Central;
 
-> <small>(ADICIONADO, G.O. 31 DE AGOSTO DE 2010)</small>
+6. Coordinación General de Comunicación Social;
 
-6. Dirección General de Comunicación Social.
-
-> <small>(ADICIONADO, G.O. 14 DE DICIEMBRE DE 2010)</small>
-
-Se le adscribe el Órgano Desconcentrado denominado Coordinación de los Centros de Transferencia Modal del Distrito Federal.
+6.1 Dirección General de Mensaje y Nuevas Tecnologías.
 
 > <small>(REFORMADA, G.O. 30 DE ABRIL DE 2008)</small>
 
@@ -964,77 +982,55 @@ IX. Las demás que le sean conferidas por el Jefe de Gobierno, así como las que
 
 ### Capítulo II. De las atribuciones del titular de la Oficialía Mayor
 
+> <small>(REFORMADO, G.O. 31 DE MAYO DE 2013)</small>
+
 ###### Artículo 27.
 
 Corresponden al titular de la Oficialía Mayor, además de las atribuciones que expresamente le confiere la Ley, las siguientes:
 
 I. Atender las necesidades administrativas de la Administración Pública Centralizada del Distrito Federal;
 
-> <small>(REFORMADA, G.O. 30 DE MARZO DE 2009)</small>
+II. Apoyar a los titulares de las Unidades Administrativas, y Unidades Administrativas de Apoyo Técnico-Operativo de las Dependencias, Entidades, Órganos Político-Administrativos y Órganos Desconcentrados en la satisfacción de sus necesidades de servicios, recursos humanos y materiales para su adecuado funcionamiento;
 
-I BIS. Apoyar a los titulares de las dependencias, unidades administrativas, unidades administrativas de apoyo técnico-operativo y órganos desconcentrados en la satisfacción de sus necesidades de servicios, recursos humanos y materiales para su adecuado funcionamiento;
+III. Establecer y difundir las políticas para regular la administración de recursos humanos y materiales, de servicios generales, del patrimonio inmobiliario, de los bienes muebles y del archivo documental, de la Administración Pública del Distrito Federal, así como dar seguimiento a los sistemas, normas, procesos y procedimientos, emitir opiniones técnicas y propuestas de actualización normativa, en estas materias.
 
-> <small>(REFORMADA, G.O. 30 DE MARZO DE 2009)</small>
+IV. Participar en el ámbito de su competencia, en las actividades que le confieren las disposiciones jurídicas en materia de Servicio Público de Carrera de la Administración Pública del Distrito Federal;
 
-II. Establecer y difundir las políticas para regular la administración de recursos humanos y materiales, de servicios generales, del patrimonio inmobiliario, del archivo documental y de los bienes muebles, así como proponer aquellas relacionadas con las Entidades;
+V. Dirigir y resolver, con base en los lineamientos que fije el Jefe de Gobierno, los asuntos del personal al servicio de la Administración Pública y conducir las relaciones laborales;
 
-> <small>(REFORMADA, G.O. 30 DE MARZO DE 2009)</small>
+VI. Mantener actualizado el escalafón de los trabajadores y vigilar la adecuada difusión de los movimientos y procesos escalafón arios (sic);
 
-III. Conducir e impulsar la creación, desarrollo, operación y mantenimiento de los sistemas del servicio público de carrera, administración de recursos humanos y materiales, servicios generales, del patrimonio inmobiliario, de los bienes muebles, del archivo documental y de la información que se genere en el ámbito de su competencia;
+VII. Autorizar los viáticos y pasajes nacionales y tramitar ante el Titular de la Administración Pública del Distrito Federal la autorización de los pasajes internacionales y los viáticos en el extranjero, previa validación de suficiencia presupuestal emitida a las dependencias, órganos desconcentrados y entidades por la Secretaría de Finanzas;
 
-IV. Dirigir y resolver, con base en los lineamientos que fije el Jefe de Gobierno, los asuntos del personal al servicio de la Administración Pública y conducir las relaciones laborales;
+VIII. Imponer, reducir y revocar las sanciones administrativas a que se haga acreedor el personal, de conformidad con las disposiciones jurídicas y administrativas aplicables, sin perjuicio de las que les competan jurídica y administrativamente imponer a otras autoridades;
 
-V. Mantener actualizado el escalafón de los trabajadores y vigilar la adecuada difusión de los movimientos y procesos escalafonarios;
+IX. Determinar la terminación de los efectos del nombramiento de los trabajadores de la Administración Pública;
 
-> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2005)</small>
+X. Elaborar las normas y criterios para dictaminar las estructuras ocupacionales de la Administración Pública del Distrito Federal;
 
-VI. Autorizar los viáticos y pasajes nacionales y tramitar ante el Titular de la Administración Pública del Distrito Federal la autorización de los pasajes internacionales y los viáticos en el extranjero, previa validación de suficiencia presupuestal emitida a las dependencias, órganos desconcentrados y entidades por la Secretaría de Finanzas;
+XI. Definir, actualizar, modificar y, en su caso, aprobar las estructuras ocupacionales, los catálogos de puestos, los tabuladores para el pago de los servidores públicos de la Administración Pública del Distrito Federal, y los procedimientos de aplicación de remuneraciones, incentivos y estímulos;
 
-VII. Imponer, reducir y revocar las sanciones administrativas a que se haga acreedor el personal, de conformidad con las disposiciones jurídicas y administrativas aplicables, sin perjuicio de las que les competan jurídica y administrativamente imponer a otras autoridades;
+XII. Llevar a cabo las licitaciones públicas, invitaciones restringidas o adjudicaciones directas de las adquisiciones consolidadas de la Administración Pública del Distrito Federal. Con forme a las disposiciones jurídico-administrativas; autorizar las adquisiciones de los bienes y servicios restringidos que requieran las dependencias, entidades y órganos desconcentrados;
 
-VIII. Determinar la terminación de los efectos del nombramiento de los trabajadores de la Administración Pública;
-
-> <small>(REFORMADA, G.O. 30 DE MARZO DE 2009)</small>
-
-IX. Elaborar las normas y criterios para dictaminar las estructuras ocupacionales de la Administración Pública del Distrito Federal;
-
-> <small>(REFORMADA, G.O. 30 DE MARZO DE 2009)</small>
-
-X. Definir, actualizar, modificar y, en su caso, aprobar las estructuras ocupacionales, los catálogos de puestos, los tabuladores para el pago de los servidores públicos de la Administración Pública del Distrito Federal, y los procedimientos de aplicación de remuneraciones, incentivos y estímulos;
-
-> <small>(REFORMADA, G.O. 30 DE MARZO DE 2009)</small>
-
-XI. Llevar a cabo las licitaciones públicas, invitaciones restringidas o adjudicaciones directas de las adquisiciones consolidadas de la Administración Pública del Distrito Federal. Con forme a las disposiciones jurídico-administrativas; autorizar las adquisiciones de los bienes y servicios restringidos que requieran las dependencias, entidades y órganos desconcentrados;
-
-> <small>(REFORMADA, G.O. 30 DE MARZO DE 2009)</small>
-
-XII. Autorizar la adquisición de bienes y servicios, relacionados con telefonía convencional, telefonía celular y equipos para la transmisión de voz por radio necesarios para el desarrollo de las actividades de la Administración Pública del Distrito Federal;
-
-XIII. (DEROGADA, G.O. 30 DE MARZO DE 2009)
-
-> <small>(REFORMADA, G.O. 30 DE MARZO DE 2009)</small>
+XIII. Autorizar la adquisición de bienes y servicios, relacionados con telefonía convencional, telefonía celular y equipos para la transmisión de voz por radio necesarios para el desarrollo de las actividades de la Administración Pública del Distrito Federal;
 
 XIV. Administrar y mantener en funcionamiento los servicios de telefonía convencional, telefonía celular y de transmisión de voz por radio, que requirieran y utilicen las Dependencias, Órganos Político - Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal;
 
-XV. (DEROGADA, G.O. 30 DE MARZO DE 2009)
+XV. Requerir a las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública la información, datos o la cooperación técnica para el desarrollo de sus funciones;
 
-XVI. Requerir a las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública la información, datos o la cooperación técnica para el desarrollo de sus funciones;
+XVI. Elaborar y expedir su Manual Administrativo estableciendo las facultades de sus unidades administrativas de apoyo técnico-operativo, las cuales se entenderán delegadas;
 
-XVII. Elaborar y expedir su Manual Administrativo estableciendo las facultades de sus unidades administrativas de apoyo técnico-operativo, las cuales se entenderán delegadas;
+XVII. Ejercer el presupuesto autorizado, para sus Unidades Administrativas y Unidades Administrativas de Apoyo Técnico- Operativo, así como el reintegro de los remanentes presupuestales correspondientes, con apoyo de la Dirección General, Ejecutiva o de Área encargada de la administración en su sector; de conformidad con lo que señalen las disposiciones jurídicas y administrativas aplicables;
 
-> <small>(REFORMADA, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
+XVIII. Adquirir y vigilar la correcta utilización de los artículos de consumo, así como del mobiliario y equipo que requieran las Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo a su cargo, de conformidad con lo que señalen las disposiciones jurídicas y administrativas aplicables;
 
-XVIII. Ejercer el presupuesto autorizado, para sus Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo, así como el reintegro de los remanentes presupuestales correspondientes, con apoyo de la Dirección General, Ejecutiva o de Área encargada de la administración en su sector; de conformidad con lo que señalen las disposiciones jurídicas y administrativas aplicables;
+XIX. Proyectar y supervisar la ejecución de obras de mantenimiento, remodelación y reparación de los bienes señalados en la fracción anterior, así como autorizar la contratación de los servicios generales y los que requieran Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo a su cargo, de conformidad con lo que señalen las disposiciones jurídicas aplicables;
 
-XIX. Adquirir y vigilar la correcta utilización de los artículos de consumo, así como del mobiliario y equipo que requieran las Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo a su cargo, de conformidad con lo que señalen las disposiciones jurídicas y administrativas aplicables;
+XX. Formalizar, salvo que el Jefe de Gobierno establezca disposición distinta, la contratación conforme a la Ley de Adquisiciones y Ley de Obras Públicas, para la adecuada operación de las Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo a su cargo;
 
-XX. Proyectar y supervisar la ejecución de obras de mantenimiento, remodelación y reparación de los bienes señalados en la fracción anterior, así como autorizar la contratación de los servicios generales y los que requieran Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo a su cargo, de conformidad con lo que señalen las disposiciones jurídicas aplicables;
+XXI. Coordinar a las Direcciones Generales, Ejecutivas o de Área encargadas de la administración en las dependencias de la Administración Pública Central;
 
-XXI. Formalizar, salvo que el Jefe de Gobierno establezca disposición distinta, la contratación conforme a la Ley de Adquisiciones y ley de Obras Públicas, para la adecuada operación de las Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo a su cargo;
-
-> <small>(REFORMADA, G.O. 30 DE MARZO DE 2009)</small>
-
-XXII. Coordinar a las Direcciones Generales, Ejecutivas o de Área encargadas de la administración en las dependencias de la Administración Pública Central; y
+XXII. Coordinar las acciones y programas de protección civil en los inmuebles del patrimonio inmobiliario de la Administración Pública del Distrito Federal ciudad (sic) a fin de privilegiar la protección de la vida humana y la salvaguarda del patrimonio; y
 
 XXIII. Las demás que le atribuyan expresamente las disposiciones jurídicas y administrativas aplicables.
 
@@ -1492,27 +1488,163 @@ XVIII. Impulsar mecanismos de coordinación entre los Órganos Político-Adminis
 
 XIX. Establecer un sistema permanente de información, coordinación y apoyo para el cumplimiento de las funciones desconcentradas y los programas delegacionales en los Órganos Político-Administrativos.
 
-> <small>(ADICIONADO, G.O. 12 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO, G.O. 31 DE MAYO DE 2013)</small>
 
 ###### Artículo 32 Quater.
 
-A la Subsecretaria de Fomento de Empresas Ecológicas, le corresponden las siguientes atribuciones:
+A la Subsecretaría de Desarrollo Económico y Sustentabilidad le corresponden las siguientes atribuciones:
 
-l. Establecer los lineamientos generales que contengan los requisitos que se deberán cumplir para presentar el proyecto de una empresa cuyas actividades tengan como uno de sus objetivos principales, la restauración, protección, preservación y mejoramiento del medio ambiente;
+I. Proponer programas específicos en materia de desarrollo económico de la Ciudad de México, así como coordinar los programas de asistencia técnica y de vinculación institucional.
 
-II. Crear programas de capacitación a los funcionarios públicos involucrados, en materia de normatividad ambiental, no sólo en materia local, sino tomando en cuenta los preceptos constitucionales, la legislación federal y las normas oficiales mexicanas que en materia de medio ambiente y por su aspecto técnico sean de suma importancia;
+II. Promover los programas de innovación y desarrollo económico sustentable en todos los sectores de la economía y estratégicos de la Ciudad de México.
 
-III. Diseñar instrumentos económicos en coordinación con las autoridades ambientales del Distrito Federal, con el fin de lograr que las actividades de dichas empresas cumplan con la legislación ambiental vigente;
+III. Proponer los mecanismos de coordinación interinstitucional, que contribuyan al desarrollo económico de la Ciudad de México.
 
-IV. Establecer un sistema por medio del cual se verifique el desarrollo de las actividades de las empresas ecológicas, para que el objetivo de restauración, protección y mejoramiento del medio ambiente, no se vea afectado por el fin del lucro;
+IV. Realizar convenios de coordinación con el gobierno federal y los gobiernos locales, para promover la sustentabilidad de negocios que favorezcan el desarrollo económico del Distrito Federal.
 
-V. Vigilar que las actividades desarrolladas por las empresas ecológicas tengan una visión encaminada al desarrollo sustentable;
+V. Organizar, promover y coordinar la difusión de instrumentos de financiamiento y asesoría técnica a los actores económicos de la Ciudad de México.
 
-VI. Realizar convenios de coordinación con el gobierno federal y los gobiernos locales, para promover la transmisión de nuevas tecnologías 'que puedan ser empleadas para el desarrollo de las actividades de las empresas, en función de lograr una visión de mejora ambiental, promoviendo el aprovechamiento sustentable;
+VI. Coordinar la operación y gestión para el acceso a fuentes de financiamiento para crear, impulsar y apoyar la actividad empresarial así como, dirigir acciones y mecanismos de orientación para la apertura de negocios en la Ciudad de México.
 
-VII. Designar un sistema de inspección, el cual tendrá por objeto procurar, que quienes dañen el ambiente, hagan un uso indebido de recursos naturales o alteren los ecosistemas, con motivo de las actividades de sus empresas, asuman los costos respectivos; independientemente de la responsabilidad penal que ello implique; y
+VII. Generar programas de fomento con el sector empresarial, cooperativas, sector social, instituciones financieras, académicas y otras instancias que fomenten el desarrollo económico de la Ciudad de México.
 
-VIII. Las demás que le atribuyan expresamente los demás ordenamientos jurídicos y administrativos correspondientes, cumpliendo en todo momento la demás normativa vigente.
+VIII. Concertar con los agentes económicos la realización de los proyectos estratégicos que impacten en el desarrollo económico de la ciudad conforme al programa sectorial.
+
+IX. Promover la celebración de convenios y acciones con los municipios, estados, instituciones federales, privadas y financieras, nacionales e internacionales, tendientes a fomentar proyectos de desarrollo económico.
+
+X. Coordinar la realización de ferias, exposiciones y congresos, de carácter local, nacional e internacional, vinculadas a la promoción de actividades industriales, comerciales y económicas en general y aplicar estrategias para su promoción nacional e internacional.
+
+XI. Promover la vinculación interinstitucional para facilitar el acceso a los créditos por parte de las empresas.
+
+XII. Desarrollar estrategias de fomento al desarrollo empresarial en el Distrito Federal mediante su especialización productiva y su inserción dinámica en los mercados regional y global, a partir del aprovechamiento estratégico de sus ventajas competitivas.
+
+XIII. Dirigir la realización de ferias, exposiciones, congresos, convenciones y demás acciones que fomenten el desarrollo económico de la ciudad, así como coordinar la difusión de estos eventos.
+
+> <small>(ADICIONADO, G.O. 31 DE MAYO DE 2013)</small>
+
+###### Artículo 32 Quinquies.
+
+A la Coordinación General de Gestión para el Crecimiento y Desarrollo de la Ciudad le corresponden las siguientes atribuciones:
+
+I. Coordinar las políticas en materia de aprovechamiento territorial que coadyuven al desarrollo económico, así como formular, coordinar, elaborar y evaluar los programas en esta materia.
+
+II. Coordinar el Programa General de Aprovechamiento Inmobiliario.
+
+III. Proponer programas delegacionales y parciales de aprovechamiento territorial que tengan énfasis en el desarrollo económico de las mismas y someterlos a consideración del Jefe de Gobierno, así como, prestarles la asesoría y apoyo técnico que requieran para la ejecución de los mismos.
+
+IV. Planear, determinar, autorizar, coordinar, dirigir y ejecutar estrategias que permitan aumentar el valor de la ciudad mediante la planificación específica de ciertas áreas y colonias con una visión integral que permeé paulatinamente las mejoras hacia las zonas que las rodean.
+
+V. Instrumentar acciones que permitan fomentar la inversión en áreas estratégicas, mediante la modernización de los sistemas, procesos y servicios inmobiliarios que se presta a los particulares, y brindando seguridad jurídica con información veraz y única.
+
+VI. Proponer acciones que permitan aprovechar los inmuebles propiedad del Distrito Federal lo cual puede implicar cambiar usos de suelo, reasignarlos, venderlos, concesionarlos, o desarrollarlos buscando siempre que el valor de los activos se incremente y estableciendo acciones de adquisición de tierra en zonas estratégicas.
+
+VII. Promover la celebración de convenios y contratos de venta, concesiones y asociaciones con el fin de incentivar la inversión.
+
+VIII. Celebrar convenios y otros instrumentos jurídicos, así como esquemas de asociación incluyendo iniciativa privada para detonar la inversión y desarrollo económico de la ciudad.
+
+IX. Proponer proyectos que permitan la regulación de inmuebles susceptibles de aprovechamiento.
+
+X. Autorizar y dirigir los proyectos para fomentar la inversión inmobiliaria para el desarrollo económico de la ciudad.
+
+XI. Proponer programas de autorregulación que sirvan para conocer las características de todos los inmuebles existentes en la ciudad y generar la planeación para el óptimo aprovechamiento económico de los inmuebles de la ciudad.
+
+XII. Proponer y coordinar a las dependencias competentes la adquisición de predios, mediante los procedimientos legales correspondientes, para impulsar el desarrollo económico de las áreas que puedan ser aprovechadas en beneficio de la ciudad.
+
+XIII. Determinar gestiones estratégicas y coordinar la comunicación interdependencial para la implementación de proyectos que impliquen desarrollo económico.
+
+XIV. Diseñar instrumentos económicos y esquemas de financiamiento en coordinación con las autoridades competentes para generar desarrollo económico de zonas específicas de la ciudad.
+
+XV. Acordar y coordinar con el Instituto de Administración y Avalúos de Bienes Nacionales (INDAABIN) o en su caso, con la instancia federal competente, las acciones tendientes al desarrollo económico en materia territorial.
+
+XVI. Promover y proponer proyectos de reforma a la normatividad relacionada con el aprovechamiento económico territorial.
+
+XVII. Celebrar convenios, contratos o instrumentos jurídicos con la Administración Pública o Sector Privado, con el objeto de obtener ingresos generados por el ejercicio de sus atribuciones.
+
+XVIII. Conocer y substanciar el procedimiento registral de Acreditaciones de los Corredores y Corredoras Inmobiliarios, así como de las personas morales que presten servicios inmobiliarios conforme a la Ley de Prestación de Servicios Inmobiliarios del Distrito Federal y su Reglamento.
+
+XIX. Conocer y substanciar los procedimientos establecidos en la Ley de Prestación de Servicios Inmobiliarios del Distrito Federal y su Reglamento.
+
+XX. Implementar el padrón relativo a la prestación de servicios inmobiliarios en el Distrito Federal, así como su forma de operación.
+
+> <small>(ADICIONADO, G.O. 31 DE MAYO DE 2013)</small>
+
+Artículo 32 Sexties.- A la Coordinación General de Regulación y Planeación Económica le corresponden las siguientes atribuciones:
+
+I. Establecer, coordinar y evaluar la implementación de las políticas y programas generales en materia de desarrollo económico de la Ciudad de México.
+
+II. Proponer programas sectoriales y específicos en materia de desarrollo económico; así como coadyuvar en la adopción de medidas de fortalecimiento a emprendedores impulsadas por la Secretaría en materia de su competencia.
+
+III. Promover el desarrollo y modernización del sector empresarial del Distrito Federal, incluyendo la modernización de las micro, pequeñas y medianas empresas del Distrito Federal en el ámbito de su competencia.
+
+IV. Establecer los lineamientos generales de la política de desarrollo económico del Distrito Federal; así como coordinar la elaboración del Programa de Desarrollo Económico del Distrito Federal.
+
+V. Planear y evaluar la aplicación de las acciones de política pública para el desarrollo económico de la Ciudad de México conforme al marco normativo vigente.
+
+VI. Proponer el marco de actuación y normatividad aplicable en la gestión regulatoria.
+
+VII. Promover la creación de mecanismos, ventanillas y centros para la gestión regulatoria en las distintas cámaras, asociaciones, colegios y banca de desarrollo, así como coordinar sus actividades y promover la instrumentación de acciones específicas para la operación y mejoramiento de sus procedimientos de gestión interna.
+
+VIII. Desarrollar e instrumentar la normatividad aplicable en los órganos políticos administrativos para acciones de desarrollo económico en su jurisdicción.
+
+IX. Proponer acciones con base en estudios y programas especiales, sobre mejora regulatoria de la actividad económica.
+
+X. Actuar como órgano coordinador y enlace con las cámaras, asociaciones y representaciones del sector empresarial, con la banca de desarrollo, cooperativas, sector social y otras instancias que coadyuven al desarrollo económico de la ciudad en el ámbito de su competencia.
+
+XI. Realizar consultas permanentes con los organismos y asociaciones representativas del sector productivo, sobre aspectos relevantes de la actividad económica, así como captar las propuestas y sugerencias que se deriven sobre la política regulatoria.
+
+XII. Implementar y administrar sistemas de registro de establecimientos comerciales conforme al marco legal vigente.
+
+XIII. Coordinar la elaboración y proponer la agenda legislativa en materia de planeación económica y regulación, así como los demás asuntos en el ámbito de su competencia.
+
+XIV. Generar información geográfica, estadística y económica para la implementación, seguimiento y evaluación de políticas públicas para el desarrollo económico de la Ciudad de México.
+
+XV. Proporcionar apoyo técnico a las distintas cámaras, asociaciones, colegios y banca de desarrollo y entidades públicas en la aplicación del marco regulatorio en el ámbito de competencia de la Secretaría.
+
+> <small>(ADICIONADO, G.O. 31 DE MAYO DE 2013)</small>
+
+###### Artículo 32 Septies.
+
+A la Coordinación General de la Central de Abasto le corresponden las siguientes atribuciones:
+
+I. Coordinar, normar y supervisar la operación y funcionamiento de la Central de Abasto del Distrito Federal;
+
+II. Elaborar y expedir las normas administrativas para la eficaz operación y funcionamiento de la Central de Abasto del Distrito Federal;
+
+III. Vigilar el cumplimiento de las disposiciones jurídicas y administrativas del Distrito Federal, aplicables en la Central de Abasto del Distrito Federal, así como ordenar las visitas de verificación, determinando las sanciones correspondientes de conformidad con las disposiciones jurídicas y administrativas aplicables;
+
+IV. Intervenir en el proceso de asignación y suscribir los convenios de adhesión al Contrato de Fideicomiso de la Central de Abasto de la Ciudad de México correspondientes a los locales, bodegas, terrenos y espacios que forman parte del patrimonio de dicho fideicomiso;
+
+V. Autorizar las cesiones definitivas, temporales, totales y parciales, respecto de los derechos de aprovechamiento, consignados en los convenios de adhesión de los participantes del Fideicomiso de la Central de Abasto de la Ciudad de México. Las cesiones temporales se sujetarán a la normatividad que para tal efecto expida esta Coordinación General;
+
+VI. Coadyuvar y apoyar a las diversas áreas de la Administración Pública del Distrito Federal, que en el ámbito de sus respectivas competencias ejecuten actos de gobierno en la Central de Abasto del Distrito Federal;
+
+VII. Participar con las diversas áreas de la Administración Pública del Distrito Federal, que en el ámbito de sus respectivas competencias elaboren políticas y programas que incidan directa o indirectamente en la operación y funcionamiento de la Central de Abasto del Distrito Federal, como lo son la Secretaría de Seguridad Pública, la Secretaría de Transportes y Vialidad y la Procuraduría General de Justicia del Distrito Federal;
+
+VIII. Coadyuvar y apoyar administrativamente el juzgado cívico establecido en la Central de Abasto del Distrito Federal, de conformidad con las disposiciones jurídicas y administrativas aplicables;
+
+IX. Integrar y actualizar el padrón de participantes y usuarios de la Central de Abasto del Distrito Federal;
+
+X. Establecer los horarios a los que se sujetarán los participantes y usuarios de la Central de Abasto del Distrito Federal, dictando las medidas necesarias para su cumplimiento de conformidad con las disposiciones jurídicas y administrativas aplicables;
+
+XI. Establecer un sistema de orientación, información y quejas de la Central de Abasto del Distrito Federal;
+
+XII. Otorgar permisos y concesiones para la eficaz operación y funcionamiento de la Central de Abasto del Distrito Federal, así como revocar los mismos de conformidad con las disposiciones jurídicas y administrativas aplicables;
+
+XIII. Ejercer previa autorización del Secretario de Desarrollo Económico, las facultades reservadas a la Administración Pública del Distrito Federal, en el Fideicomiso para la Construcción y Operación de la Central de Abasto de la Ciudad de México;
+
+XIV. Ejercer los actos jurídicos relativos a la Central de Abasto del Distrito Federal en representación de la Administración Pública del Distrito Federal, de conformidad con las disposiciones jurídicas y administrativas aplicables;
+
+XV. Autorizar los giros comerciales a que se destinen los locales, bodegas, terrenos y espacios de la Central de Abasto del Distrito Federal, sin perjuicio de lo establecido en las disposiciones jurídicas y administrativas aplicables;
+
+XVI. Administrar y operar la zona de andenes, subasta y productos, de la Central de Abasto del Distrito Federal;
+
+XVII. Realizar acciones tendientes a ofrecer a los consumidores productos y servicios que mejoren su poder adquisitivo;
+
+XVIII. Realizar acciones y programas de abasto para reducir la intermediación de los canales de distribución por conducto de Comités Vecinales y demás formas de organización;
+
+XIX. Realizar acciones tendientes a proteger al consumidor, informándolo y orientándolo por conducto de estructuras vecinales; y
+
+XX. Dictaminar la procedencia de los proyectos de construcción, ampliación, modificación, conservación y mejoramiento de las instalaciones que se encuentren dentro de la poligonal de la Central de Abasto del Distrito Federal.
 
 ###### Artículo 33.
 
@@ -2972,39 +3104,45 @@ XIV. Las demás atribuciones que le asignen otros ordenamientos aplicables.
 
 DE LA SECRETARIA DE DESARROLLO ECONOMICO.
 
-> <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO, G.O. 31 DE MAYO DE 2013)</small>
 
 ###### Artículo 51.
 
-A la Dirección General de Incubadoras de Empresas Ecológicas, le corresponde:
+A la Dirección General de Abasto, Comercio y Distribución le corresponden las siguientes atribuciones:
 
-l. Impulsar, mediante programas específicos, la creación de empresas ecológicas, con el objetivo de que sus actividades logren preservar, proteger, restaurar y mejorar el medio ambiente;
+I. Apoyar al titular de la Secretaría de Desarrollo Económico en la promoción, conducción, vigilancia y evaluación de las actividades que en materia de abasto, comercio y distribución se realicen;
 
-II. Crear programas de apoyo a las empresas existentes para que puedan integrarse a la red de empresas ecológicas, con el objetivo de que reciban asesorías y capacitación, adecuen sus actividades con el fin de mejorar el medio ambiente;
+II. Proponer, evaluar y aprobar los programas de trabajo y las acciones específicas que realice la Administración Pública Centralizada, en materia de abasto, comercio y distribución;
 
-III. Diseñar programas de ayuda para la obtención de créditos públicos o privados para un mejor desarrollo, manteniendo la visión de una empresa ambientalmente competitiva, diferente de las demás empresas;
+III. Formular, supervisar y evaluar los programas de abasto, comercialización y distribución que se instrumenten para los Órganos Políticos-Administrativos, así como los proyectos de construcción y ampliación de mercados públicos y los de ubicación y funcionamiento de mercados sobre ruedas, tianguis, concentraciones de comerciantes y bazares;
 
-IV. Crear un sistema de evaluación de las acciones de las empresas que contribuyen a preservar, proteger, restaurar y mejorar el medio ambiente;
+IV. Planear, organizar y realizar acciones tendientes a establecer y mantener precios de venta al público de productos básicos, a niveles accesibles a los consumidores, estableciendo al efecto las relaciones de coordinación con las Dependencias y Entidades de la Administración Pública Federal;
 
-V. Contribuir con la estrategia local de acción climática de la Ciudad de México, mediante la elaboración de proyectos para que las empresas que generan gases de efecto invernadero, instrumenten acciones tendientes a reducir las emisiones a la atmósfera que contribuyen al cambio climático;
+V. Normar y supervisar las operaciones y funcionamiento de los mercados públicos, plazas, pasajes comerciales, centrales de abasto, concentraciones, tianguis, mercados sobre ruedas y centros de acopio, comercialización y distribución de bienes de consumo;
 
-VI. Realizar proyectos para las empresas con el objeto que sus procesos productivos coadyuven a combatir la contaminación tanto del suelo como del agua y aire;
+VI. Promover, fomentar y participar en la organización de mercados de origen, centros de acopio y centrales de abasto;
 
-VII. Promover el uso de tecnologías de acuerdo a la necesidad de cada tipo de incubadora:
+VII. Promover, fomentar y organizar sistemas de acopio, almacenamiento, transporte, envase, distribución y venta de productos básicos, así como realizar estudios sobre la infraestructura física del sistema comercial;
 
-a) Incubadoras tradicionales, apoyarlas en la creación de sectores tradicionales cuyos requerimientos de infraestructura física y tecnológica, así como sus mecanismos de operación, son básicos;
+VIII. Fomentar y apoyar a las organizaciones de consumidores, para propiciar la comercialización de bienes y servicios a mejores precios y mayor calidad;
 
-b) Incubadoras de tecnología intermedia, apoyarlas en la constitución de empresas cuyos requerimientos de infraestructura física y tecnología, así como sus mecanismos de operación son semi-especializados e involucran procesos o procedimientos semi-desarrollados, es decir incorporan elementos de innovación;
+IX. Promover la coordinación de acciones con el comercio organizado para mejorar el abasto, comercio y distribución de productos básicos;
 
-c) Incubadoras de alta tecnología, apoyarlas en la creación de empresas de sectores especializados o avanzados, entre los que se encuentran las tecnologías por ejemplo de la información y comunicación, microeléctrica, sistemas microelectromagnéticos, biotecnología y farmacéutico entre otros;
+X. Participar en materia de abasto, comercio y distribución, en la elaboración de los programas institucionales de la (sic) Entidades, así como analizar y dictaminar los ajustes que tales programas requieran;
 
-VIII. Proporcionar asesoría y asistencia técnica para que estudiantes, egresados y comunidad empresarial cuenten con oportunidades para lograr que sus ideas de negocios se conviertan en empresas;
+XI. Participar y opinar respecto a los proyectos de instalación y operación de centros comerciales, bodegas de mayoreo, centros de abasto, centros de acopio, supermercados y tiendas de autoservicio en el Distrito Federal;
 
-IX. Crear manuales de fácil acceso y comprensión, para que las empresas desarrollen sus actividades dentro del marco jurídico vigente, con el objetivo de no contravenir ninguna norma poniendo principal énfasis en el aspecto ambiental;
+XII. Realizar acciones tendientes a proporcionar a la población de escasos recursos económicos, productos y servicios que mejoren su poder adquisitivo;
 
-X. Crear sistemas de difusión para los productos elaborados por las empresas ecológicas, mediante proyectos de mercadotecnia; y
+XIII. Llevar a cabo acciones tendientes a reducir la intermediación de los canales de distribución con programas de abasto por conducto de comités vecinales y demás formas de organización;
 
-XI. Las demás que le atribuyan otros ordenamientos jurídicos y administrativos aplicables.
+XIV. Impulsar programas vecinales de abasto para protección al consumidor y mejoramiento de su poder adquisitivo;
+
+XV. Administrar las plazas comerciales en las que su operación y funcionamiento se derive de programas desarrollados para la Administración Pública Centralizada con este fin; así como otorgar y revocar los permisos, concesiones y demás autorizaciones para su operación y funcionamiento; salvo disposición en contrario;
+
+XVI. Autorizar los giros mercantiles a desarrollarse en los locales de las plazas comerciales administradas por esta Unidad Administrativa; así como integrar y actualizar el padrón de permisionarios de las mismas, y
+
+XVII. Ordenar y ejecutar las verificaciones administrativas relacionadas con el cumplimiento de las disposiciones jurídicas y administrativas del Distrito Federal, aplicables en las plazas comerciales administradas par (sic) esta Unidad Administrativa e imponer las sanciones establecidas en la normatividad de la materia, derivadas de dichos procedimientos, así como iniciar, substanciar y resolver los procedimientos administrativos relativos a la administración de las Plazas, y al otorgamiento y revocación de permisos, concesiones y autorizaciones otorgadas para la operación y funcionamiento de esas plazas comerciales, cuando así proceda.
 
 > <small>(ADICIONADO, G.O. 12 DE NOVIEMBRE DE 2009)</small>
 
@@ -3116,97 +3254,209 @@ LI. Emitir Cédulas de Microindustrias o de la actividad artesanal y sus refrend
 
 LII. Las demás que le atribuyan otros ordenamientos jurídicos y administrativos aplicables.
 
+> <small>(REFORMADO, G.O. 31 DE MAYO DE 2013)</small>
+
 ###### Artículo 52.
 
-Corresponde a la Dirección General de Abasto, Comercio y Distribución:
+A la Dirección Ejecutiva de Asesoría para la Apertura de Negocios le corresponden las siguientes atribuciones:
 
-I. Apoyar al titular de la Secretaría de Desarrollo Económico en la promoción, conducción, vigilancia y evaluación de las actividades que en materia de abasto, comercio y distribución se realicen;
+I. Proporcionar asesoría y apoyo técnico a los Órganos Político-Administrativos y el sector social del Distrito Federal, para la ejecución de los proyectos de desarrollo económico y empresarial en su jurisdicción.
 
-II. Proponer, evaluar y aprobar los programas de trabajo y las acciones específicas que realice la Administración Pública Centralizada, en materia de abasto, comercio y distribución;
+II. Fomentar y promocionar sectores, ramas y regiones específicas que requieran impulso para el desarrollo económico y empresarial.
 
-III. Formular, supervisar y evaluar los programas de abasto, comercialización y distribución que se instrumenten para los Órganos Políticos-Administrativos, así como los proyectos de construcción y ampliación de mercados públicos y los de ubicación y funcionamiento de mercados sobre ruedas, tianguis, concentraciones de comerciantes y bazares;
+III. Elaborar programas de asistencia técnica para la atención empresarial en el ámbito de su competencia.
 
-IV. Planear, organizar y realizar acciones tendientes a establecer y mantener precios de venta al público de productos básicos, a niveles accesibles a los consumidores, estableciendo al efecto las relaciones de coordinación con las Dependencias y Entidades de la Administración Pública Federal;
+IV. Dirigir la aplicación de estrategias que promuevan la innovación tecnológica en las empresas.
 
-V. Normar y supervisar las operaciones y funcionamiento de los mercados públicos, plazas, pasajes comerciales, centrales de abasto, concentraciones, tianguis, mercados sobre ruedas y centros de acopio, comercialización y distribución de bienes de consumo;
+V. Proporcionar asesoría técnica para lograr la sustentabilidad de negocios que favorezcan el desarrollo económico y empresarial de la Ciudad de México.
 
-VI. Promover, fomentar y participar en la organización de mercados de origen, centros de acopio y centrales de abasto;
+VI. Desarrollar estrategias de vinculación sectorial y la generación de estrategias comerciales y de especialización productiva y su inserción dinámica en los mercados regional y global, a partir del aprovechamiento estratégico de sus ventajas competitivas.
 
-VII. Promover, fomentar y organizar sistemas de acopio, almacenamiento, transporte, envase, distribución y venta de productos básicos, así como realizar estudios sobre la infraestructura física del sistema comercial;
+VII. Coordinar la gestión institucional para el acceso a las fuentes de financiamiento por parte de las empresas para el fomento del desarrollo económico y empresarial de la Ciudad de México.
 
-VIII. Fomentar y apoyar a las organizaciones de consumidores, para propiciar la comercialización de bienes y servicios a mejores precios y mayor calidad;
+VIII. Sugerir mecanismos interinstitucionales, que permitan el fomento de proyectos sustentables.
 
-IX. Promover la coordinación de acciones con el comercio organizado para mejorar el abasto, comercio y distribución de productos básicos;
+IX. Realizar ferias, exposiciones y congresos, de carácter local, nacional e internacional, vinculadas a la promoción de inversión en el Distrito Federal.
 
-X. Participar en materia de abasto, comercio y distribución, en la elaboración de los programas institucionales de la Entidades, así como analizar y dictaminar los ajustes que tales programas requieran;
+X. Orientar respecto a programas de ayuda para la obtención de créditos públicos o privados que permitan un mejor desarrollo empresarial.
 
-XI. Participar y opinar respecto a los proyectos de instalación y operación de centros comerciales, bodegas de mayoreo, centros de abasto, centros de acopio, supermercados y tiendas de autoservicio en el Distrito Federal;
+> <small>(ADICIONADO, G.O. 31 DE MAYO DE 2013)</small>
 
-XII. Realizar acciones tendientes a proporcionar a la población de escasos recursos económicos, productos y servicios que mejoren su poder adquisitivo;
+###### Artículo 52 Bis.
 
-> <small>(REFORMADA, G.O. 7 DE JUNIO DE 2006)</small>
+A la Dirección Ejecutiva de Relaciones Institucionales le corresponden las siguientes atribuciones:
 
-XIII. Llevar a cabo acciones tendientes a reducir la intermediación de los canales de distribución con programas de abasto por conducto de comités vecinales y demás formas de organización;
+I. Informar a los Órganos Político-Administrativos, cámaras y organizaciones empresariales respecto a los mecanismos de apoyo y estímulos a la actividad productiva.
 
-> <small>(REFORMADA, G.O. 7 DE JUNIO DE 2006)</small>
+II. Desarrollar mecanismos de impulso al desarrollo económico y empresarial en coordinación con cámaras, asociaciones y representantes empresariales.
 
-XIV. Impulsar programas vecinales de abasto para protección al consumidor y mejoramiento de su poder adquisitivo;
+III. Fomentar las inversiones mediante asociaciones estratégicas entre actores económicos del sector privado o entre el sector público y privado.
 
-> <small>(ADICIONADA, G.O. 7 DE JUNIO DE 2006)</small>
+IV. Elaborar propuestas de estímulo a la inversión estratégica y al desarrollo empresarial en coordinación con instituciones de educación superior.
 
-XV. Administrar las plazas comerciales en las que su operación y funcionamiento se derive de programas desarrollados para la Administración Publica Centralizada con este fin; así como otorgar y revocar los permisos, concesiones y demás autorizaciones para su operación y funcionamiento; salvo disposición en contrario;
+V. Contribuir a la elaboración de políticas públicas de atracción de inversiones estratégicas en actividades comerciales, industriales y sectores prioritarios.
 
-> <small>(ADICIONADA, G.O. 7 DE JUNIO DE 2006)</small>
+VI. Preparar e instrumentar visitas especiales e invitaciones protocolarias, nacionales e internacionales, vinculadas con la promoción de inversiones en el Distrito Federal en el ámbito de la competencia de la Secretaría.
 
-XVI. Autorizar los giros mercantiles a desarrollarse en los locales de las plazas comerciales administradas por esta Unidad Administrativa; así como integrar y actualizar el padrón de permisionarios de las mismas, y
+VII. Promover y realizar ferias, exposiciones y congresos de carácter local, nacional e internacional, vinculadas a la promoción del desarrollo económico y empresarial en la Ciudad de México.
 
-> <small>(ADICIONADA, G.O. 7 DE JUNIO DE 2006)</small>
+> <small>(ADICIONADO, G.O. 31 DE MAYO DE 2013)</small>
 
-XVII. Ordenar y ejecutar las verificaciones administrativas relacionadas con el cumplimiento de las disposiciones jurídicas y administrativas del Distrito Federal, aplicables en las plazas comerciales administradas par esta Unidad Administrativa e imponer las sanciones establecidas en la normatividad de la materia, derivadas de dichos procedimientos, así como iniciar, substanciar y resolver los procedimientos administrativos relativos a la administración de las Plazas, y al otorgamiento y revocación de permisos, concesiones y autorizaciones otorgadas para la operación y funcionamiento de esas plazas comerciales, cuando así proceda.
+###### Artículo 52 Ter.
+
+A la Dirección Ejecutiva de Información Económica le corresponden las siguientes atribuciones:
+
+I. Generar, coordinar y desarrollar mecanismos que permitan captar la información que generen los ciudadanos, las Cámaras, los Órganos Político Administrativos, las Dependencias y los sectores sociales, en materia económica.
+
+II. Dar seguimiento de los indicadores económicos que impacten a la Ciudad de México, así como formular un programa específico que informe y difunda los resultados obtenidos.
+
+III. Proponer acciones en materia económica que beneficien de manera directa a la ciudadanía del Distrito Federal.
+
+IV. Opinar sobre el estado que guardan los diferentes rubros de la economía de la Ciudad de México.
+
+V. Integrar información respecto a la implementación e impacto de proyectos estratégicos.
+
+VI. Realizar los estudios y establecer mecanismos de información y análisis en materia de desarrollo económico.
+
+VII. Realizar análisis de información en materia económica.
+
+> <small>(REFORMADO, G.O. 31 DE MAYO DE 2013)</small>
 
 ###### Artículo 53.
 
-Corresponde a la Dirección General de la Central de Abasto:
+A la Dirección Ejecutiva de Aprovechamiento Territorial le corresponden las siguientes atribuciones:
 
-I. Coordinar, normar y supervisar la operación y funcionamiento de la Central de Abasto del Distrito Federal;
+I. Proponer acciones de impacto urbano referentes al crecimiento económico en apoyo a las acciones contenidas en los programas sectoriales.
 
-II. Elaborar y expedir las normas administrativas para la eficaz operación y funcionamiento de la Central de Abasto del Distrito Federal;
+II. Formular los proyectos, programas y demás instrumentos de planeación, coordinación, innovación, evaluación y consolidación en materia de aprovechamiento territorial del Distrito Federal.
 
-III. Vigilar el cumplimiento de las disposiciones jurídicas y administrativas del Distrito Federal, aplicables en la Central de Abasto del Distrito Federal, así como ordenar las visitas de verificación, determinando las sanciones correspondientes de conformidad con las disposiciones jurídicas y administrativas aplicables;
+III. Coordinar los planes y programas para el desarrollo de los servicios inmobiliarios relacionados con el impulso de la economía del Distrito Federal.
 
-IV. Intervenir en el proceso de asignación y suscribir los convenios de adhesión al Contrato de Fideicomiso de la Central de Abasto de la Ciudad de México correspondientes a los locales, bodegas, terrenos y espacios que forman parte del patrimonio de dicho fideicomiso;
+IV. Elaborar los planes, políticas y estrategias en materia de aprovechamiento territorial, así como coordinar y evaluar su ejecución y resultados.
 
-V. Autorizar las cesiones definitivas, temporales, totales y parciales, respecto de los derechos de aprovechamiento, consignados en los convenios de adhesión de los participantes del Fideicomiso de la Central de Abasto de la Ciudad de México. Las cesiones temporales se sujetarán a la normatividad que para tal efecto expida esta Dirección;
+V. Participar y emitir opinión en la revisión de normas técnicas en materia de planeación, desarrollo urbano, y suelo de conservación específicamente en temas que coadyuven al desarrollo económico.
 
-VI. Coadyuvar y apoyar a las diversas áreas de la Administración Pública del Distrito Federal, que en el ámbito de sus respectivas competencias ejecuten actos de gobierno en la Central de Abasto del Distrito Federal;
+VI. Coadyuvar con los órganos competentes en materia de desarrollo urbano y vivienda en acciones de ordenamiento territorial en el Distrito Federal para impulsar el desarrollo económico.
 
-VII. Participar con las diversas áreas de la Administración Pública del Distrito Federal, que en el ámbito de sus respectivas competencias elaboren políticas y programas que incidan directa o indirectamente en la operación y funcionamiento de la Central de Abasto del Distrito Federal, como lo son la Secretaría de Seguridad Pública, la Secretaría de Transportes y Vialidad y la Procuraduría General de Justicia del Distrito Federal;
+VII. Coordinar la participación de los Órganos Político-Administrativos en la formulación de los programas de aprovechamiento territorial aplicables en sus demarcaciones territoriales correspondientes.
 
-VIII. Coadyuvar y apoyar administrativamente el juzgado cívico establecido en la Central de Abasto del Distrito Federal, de conformidad con las disposiciones jurídicas y administrativas aplicables;
+VIII. Someter a consideración del titular de la Coordinación General de Gestión para el Crecimiento y Desarrollo de la Ciudad, las propuestas de constitución de polígonos de actuación para generar el aprovechamiento territorial.
 
-IX. Integrar y actualizar el padrón de participantes y usuarios de la Central de Abasto del Distrito Federal;
+IX. Promover la participación del sector privado en la planeación y realización de proyectos de aprovechamiento territorial.
 
-X. Establecer los horarios a los que se sujetarán los participantes y usuarios de la Central de Abasto del Distrito Federal, dictando las medidas necesarias para su cumplimiento de conformidad con las disposiciones jurídicas y administrativas aplicables;
+X. Diseñar, proponer y proyectar las estrategias, programas y políticas para incentivar la inversión privada así como en el aprovechamiento territorial que genere desarrollo económico de la Ciudad de México.
 
-XI. Establecer un sistema de orientación, información y quejas de la Central de Abasto del Distrito Federal;
+XI. Proponer convenios, contratos o instrumentos jurídicos con la Administración Pública o Sector Privado, con el objeto de obtener ingresos generados por el ejercicio de sus atribuciones.
 
-XII. Otorgar permisos y concesiones para la eficaz operación y funcionamiento de la Central de Abasto del Distrito Federal, así como revocar los mismos de conformidad con las disposiciones jurídicas y administrativas aplicables;
+XII. Llevar a cabo el procedimiento registral de Acreditaciones de los Corredores y Corredoras Inmobiliarios, así como de las personas morales que presten servicios inmobiliarios conforme a la Ley de Prestación de Servicios Inmobiliarios del Distrito Federal y su Reglamento.
 
-XIII. Ejercer previa autorización del Secretario de Desarrollo Económico, las facultades reservadas a la Administración Pública del Distrito Federal, en el Fideicomiso para la Construcción y Operación de la Central de Abasto de la Ciudad de México;
+XIII. Llevar a cabo los procedimientos establecidos en la Ley de Prestación de Servicios Inmobiliarios del Distrito Federal y su Reglamento.
 
-XIV. Ejercer los actos jurídicos relativos a la Central de Abasto del Distrito Federal en representación de la Administración Pública del Distrito Federal, de conformidad con las disposiciones jurídicas y administrativas aplicables;
+XIV. Elaborar y actualizar el padrón relativo a la prestación de servicios inmobiliarios en el Distrito Federal, así como su forma de operación.
 
-XV. Autorizar los giros comerciales a que se destinen los locales, bodegas, terrenos y espacios de la Central de Abasto del Distrito Federal, sin perjuicio de lo establecido en las disposiciones jurídicas y administrativas aplicables;
+> <small>(ADICIONADO, G.O. 31 DE MAYO DE 2013)</small>
 
-XVI. Administrar y operar la zona de andenes, subasta y productos, de la Central de Abasto del Distrito Federal;
+###### Artículo 53 Bis.
 
-XVII. Realizar acciones tendientes a ofrecer a los consumidores productos y servicios que mejoren su poder adquisitivo;
+A la Dirección Ejecutiva de Gestión y Normatividad le corresponden las siguientes atribuciones:
 
-XVIII. Realizar acciones y programas de abasto para reducir la intermediación de los canales de distribución por conducto de Comités Vecinales y demás formas de organización;
+I. Dirigir el Sistema de Información, el Sistema de Información Geográfica y en general, los sistemas de información que establezca la Secretaría de Desarrollo Económico en el ámbito de su competencia.
 
-XIX. Realizar acciones tendientes a proteger al consumidor, informándolo y orientándolo por conducto de estructuras vecinales; y
+II. Proponer disposiciones jurídicas y administrativas que permitan la implementación del Plan de Desarrollo Territorial.
 
-XX. Dictaminar la procedencia de los proyectos de construcción, ampliación, modificación, conservación y mejoramiento de las instalaciones que se encuentren dentro de la poligonal de la Central de Abasto del Distrito Federal.
+III. Colaborar con la Secretaría de Desarrollo Urbano y Vivienda en la actualización del marco jurídico del sector.
+
+IV. Fomentar y coordinar las relaciones interdependenciales en materia de aprovechamiento territorial del Distrito Federal.
+
+V. Impulsar, analizar, verificar, modificar y dirigir los proyectos de normatividad que otorguen seguridad jurídica en la inversión.
+
+VI. Aprobar previa autorización del Coordinador General de Gestión para el Crecimiento y Desarrollo de la Ciudad, los convenios y acuerdos que celebre.
+
+VII. Proponer acuerdos de colaboración interdependencial para hacer más eficientes los proyectos de aprovechamiento territorial.
+
+VIII. Promover la celebración de convenios y contratos de venta, concesiones y asociaciones con el fin de incentivar la inversión.
+
+IX. Desarrollar mecanismos de impulso a la inversión en coordinación con cámaras, asociaciones y representantes empresariales en materia de Aprovechamiento Territorial.
+
+X. Apoyar en la realización de ferias, exposiciones y congresos, de carácter local, nacional e internacional, vinculadas a la promoción de inversión en materia de Aprovechamiento Territorial en el Distrito Federal.
+
+XI. Diseñar programas de apoyo para la obtención de créditos públicos o privados que permitan fortalecer el desarrollo empresarial en el ámbito territorial, así como, en el espacio de bienes inmuebles.
+
+XII. Analizar y estudiar la problemática de inversión económica para proponer acciones y soluciones viables a efecto de obtener un mejor desarrollo económico urbano en la Ciudad de México.
+
+XIII. Implementar los mecanismos de apoyo y estímulos a la actividad productiva en la Ciudad de México y sus habitantes.
+
+XIV. Desarrollar mecanismos de impulso a la inversión en coordinación con cámaras y asociaciones inmobiliarias y representantes empresariales en el espacio territorial de la Ciudad.
+
+> <small>(ADICIONADO, G.O. 31 DE MAYO DE 2013)</small>
+
+###### Artículo 53 Ter.
+
+A la Dirección Ejecutiva de Planeación Económica le corresponden las siguientes atribuciones:
+
+I. Proponer los lineamientos generales de la política de desarrollo económico del Distrito Federal.
+
+II. Elaborar el Programa de Desarrollo Económico del Distrito Federal.
+
+III. Proponer las políticas en materia de desarrollo económico en apego al Programa de Gobierno del Distrito Federal, así como evaluar el impacto y los resultados de las mismas.
+
+IV. Generar, ordenar, analizar y difundir información geográfica, estadística y económica del Distrito Federal.
+
+V. Presentar el Programa de Trabajo de la Secretaría en concordancia con el Programa General de Desarrollo del Distrito Federal.
+
+VI. Coordinar la evaluación de los programas de trabajo de las unidades administrativas adscritas a la Secretaría.
+
+VII. Dirigir las acciones de coordinación sectorial que se establezcan con grupos inter e intra institucionales para la consecución de los planes y programas de la Secretaría de Desarrollo Económico del Distrito Federal.
+
+VIII. Proporcionar asesoría y apoyo técnico en materia de aplicación de políticas de desarrollo económico a las unidades operativas de la Secretaría y a cualquier otra institución que la solicite.
+
+IX. Integrar y presentar el informe de evaluación de actividades realizadas y metas alcanzadas, en el ámbito de su competencia.
+
+X. Opinar sobre leyes, reglamentos, convenios y acuerdos, en materia de inversión, protección del empleo, innovación y desarrollo económico.
+
+XI. Analizar el marco macroeconómico de la actividad productiva del Distrito Federal, a fin de diagnosticar sectores, ramas o regiones específicas que requieran ser impulsados a través de su fomento, promoción e inversión.
+
+XII. Desarrollar diagnósticos sobre problemáticas específicas del sector empresarial a fin de proponer mejoras al marco normativo con base en la opinión de los distintos sectores económicos.
+
+XIII. Definir los criterios y normas técnicas para la evaluación y análisis de los proyectos de inversión y determinar sus sistemas de control.
+
+XIV. Establecer y coordinar el Sistema de Información y Evaluación Permanente de Proyectos.
+
+XV. Diseñar instrumentos económicos para apoyar el cumplimiento de la normatividad y para impulsar mercados emergentes.
+
+XVI. Establecer criterios e indicadores de desempeño para el control y la evaluación de los programas de la Secretaría de Desarrollo Económico.
+
+XVII. Colaborar en el diseño de las políticas y criterios generales para los programas en materia de desarrollo económico, industrial, de abasto, de servicios agropecuario y de comercio interior y exterior.
+
+XVIII. Coordinar la integración y elaboración de la agenda legislativa en materia de regulación, fomento y desarrollo económico.
+
+XIX. Realizar análisis y estudios específicos sobre la problemática de la inversión económica y proponer acciones para su solución.
+
+XX. Proponer la creación de parques tecnológicos para la realización de proyectos estratégicos.
+
+> <small>(ADICIONADO, G.O. 31 DE MAYO DE 2013)</small>
+
+###### Artículo 53 Quater.
+
+A la Dirección Ejecutiva de Regulación Económica le corresponden las siguientes atribuciones:
+
+I. Proponer la normatividad a la que se sujetarán los diversos instrumentos en materia de regulación económica, así como los mecanismos de coordinación con los Órganos Político-Administrativos, Dependencias y Entidades del Gobierno del Distrito Federal, de la Administración Pública Federal y la Banca de Desarrollo.
+
+II. Promover y coordinar acciones encaminadas a la regularización y ordenamiento de las actividades productivas en el Distrito Federal.
+
+III. Elaborar y proponer ante las instancias competentes la publicación de las normas, programas y mecanismos tendientes al desarrollo, regulación y fomento económico de la Ciudad.
+
+IV. Opinar sobre leyes, reglamentos, convenios y acuerdos en materia de inversión, protección del empleo y fomento económico.
+
+V. Crear y establecer mecanismos de orientación y difusión, para que las empresas desarrollen sus actividades dentro del marco jurídico vigente.
+
+VI. Coordinar la realización de estudios sobre el marco normativo y jurídico de la actividad económica del Distrito Federal.
+
+VII. Elaborar y revisar periódicamente la normatividad para determinar el grado de integración de los bienes y servicios a que se sujeten los convocantes, así como emitir el dictamen, control y los criterios para la disminución u omisión del porcentaje de integración nacional, en las licitaciones públicas de la Administración Pública del Distrito Federal.
+
+VIII. Diseñar y aplicar estrategias para el fortalecimiento y fomento de las Pequeñas y Medianas Empresas de la Ciudad de México en materia regulatoria.
+
+IX. Proporcionar apoyo técnico en materia de aplicación regulatoria a órganos político administrativos, cámaras, organizaciones, asociaciones empresarias y ciudadanos en el ámbito de su competencia.
 
 #### SECCION V
 
@@ -6418,17 +6668,17 @@ XXX. Dictar normas para la prestación del servicio que brindan los Centros de D
 
 XXXI. Emitir normas, lineamientos y asesorar a las dependencias, unidades administrativas, órganos político-administrativos, órganos desconcentrados y entidades de la Administración Pública en materia de relaciones laborales;
 
-> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 31 DE MAYO DE 2013)</small>
 
-XXXII. Coadyuvar con la Dirección Jurídica de la Oficialía Mayor, en la atención de los asuntos de naturaleza laboral de la Oficialía Mayor;
+XXXII. Coadyuvar con la Dirección Ejecutiva de Apoyo Jurídico de la Oficialía Mayor, en la atención de los asuntos de naturaleza laboral de la Oficialía Mayor;
 
-> <small>(REFORMADA, G.O. 30 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, G.O. 31 DE MAYO DE 2013)</small>
 
-XXXIII. Diseñar, coordinar, implementar y evaluar el sistema del Servicio Público de Carrera, así como supervisar los planes y programas que en el ámbito de su competencia se establezcan;
+XXXIII. Ejecutar Realizar las acciones gestiones que competen a la Oficialía Mayor en materia de Servicio Público de Carrera;
 
-> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2007)</small>
+> <small>(REFORMADA, G.O. 31 DE MAYO DE 2013)</small>
 
-XXXIV. Coordinar la elaboración del Proyecto de Catálogo General del Servicio Público de Carrera;
+XXXIV. Participar en la propuesta del catálogo ocupacional y del tabulador de compensaciones del Servicio Público de Carrera con relación al tabulador de puestos de la Administración Pública del Distrito Federal;
 
 > <small>(ADICIONADA, G.O. 19 DE ENERO DE 2007)</small>
 
@@ -6468,9 +6718,7 @@ XLIII. Vigilar que las normas y herramientas aplicadas al funcionamiento de los 
 
 XLIV. Normar, formular, operar y verificar el otorgamiento de las prestaciones económicas, sociales y/o en especie, así como de los seguros destinados a la protección del personal y la difusión y administración de dichos seguros;
 
-> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2007)</small>
-
-XLV. Normar, tramitar, gestionar y operar para los trabajadores de la Administración Pública del Distrito Federal los programas de otorgamiento de créditos para la vivienda que implemente el Fondo de la Vivienda del ISSSTE;
+XLV. (DEROGADA, G.O. 31 DE MAYO DE 2013)
 
 > <small>(ADICIONADA, G.O. 19 DE ENERO DE 2007)</small>
 
@@ -6491,6 +6739,18 @@ XLIX. Participar en el desarrollo, operación, actualización y difusión, con e
 > <small>(ADICIONADA, G.O. 19 DE ENERO DE 2007)</small>
 
 L. Proponer la designación de los representantes propietarios y suplentes en los fideicomisos de los fondos de ahorro, sujetándose a las normas establecidas para su operación.
+
+> <small>(ADICIONADA, G.O. 31 DE MAYO DE 2013)</small>
+
+LI. Suscribir los documentos relativos al ejercicio de sus atribuciones;
+
+> <small>(ADICIONADA, G.O. 31 DE MAYO DE 2013)</small>
+
+LII. Certificar, por sí o a través de sus Direcciones, los documentos que obren en los expedientes que sean integrados con motivo del ejercicio de las facultades a su cargo; y
+
+> <small>(ADICIONADA, G.O. 31 DE MAYO DE 2013)</small>
+
+LIII. Las demás que le sean conferidas por el Oficial Mayor, así como las que correspondan a las unidades que le sean adscritas, las que expresamente le atribuyan este Reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
 
 ###### Artículo 99.
 
@@ -6522,9 +6782,9 @@ IX. Operar y mantener actualizado el inventario de bienes muebles del patrimonio
 
 X. Proporcionar, administrar y mantener en funcionamiento los servicios de telefonía convencional, telefonía celular y de transmisión de voz por radio que requieran las dependencias, unidades administrativas, órganos político - administrativos, órganos desconcentrados, entidades y unidades administrativas de apoyo técnico-operativo de la administración pública;
 
-> <small>(ADICIONADA, G.O. 30 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, G.O. 31 DE MAYO DE 2013)</small>
 
-XI. Proporcionar y administrar los servicios relativos al aseguramiento de bienes patrimonio del Distrito Federal; y (sic)
+XI. Proporcionar y administrar los servicios relativos al aseguramiento de bienes patrimonio del Distrito Federal;
 
 > <small>(ADICIONADA, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
 
@@ -6538,6 +6798,18 @@ XIII. Instrumentar los procedimientos de adquisición para la contratación cons
 
 XIV. Asistir con carácter de asesor a las sesiones de los órganos colegiados que se constituyan en el ámbito de su competencia.
 
+> <small>(ADICIONADA, G.O. 31 DE MAYO DE 2013)</small>
+
+XV. Suscribir los documentos relativos al ejercicio de sus atribuciones;
+
+> <small>(ADICIONADA, G.O. 31 DE MAYO DE 2013)</small>
+
+XVI. Certificar, por sí o a través de sus Direcciones, los documentos que obren en los expedientes que sean integrados con motivo del ejercicio de las facultades a su cargo; y
+
+> <small>(ADICIONADA, G.O. 31 DE MAYO DE 2013)</small>
+
+XVII. Las demás que le sean conferidas por el Oficial Mayor, así como las que correspondan a las unidades que le sean adscritas, las que expresamente le atribuyan este Reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
 
 ###### Artículo 100.
@@ -6546,7 +6818,9 @@ Corresponde a la Dirección General de Patrimonio Inmobiliario:
 
 I. Determinar, difundir, actualizar, verificar y requerir a las Dependencias, Unidades Administrativas, Órganos Político-Administrativos y los Órganos Desconcentrados de la Administración Pública, el cumplimiento de las normas, políticas y procedimientos, así como la información para documentar el desarrollo de las actividades del programa anual de necesidades inmobiliarias y arrendamiento de bienes inmuebles;
 
-II. Llevar el registro, control y actualización del patrimonio inmobiliario del Distrito Federal, concentrando y resguardando los títulos, contratos y demás instrumentos que acrediten los derechos sobre inmuebles de su propiedad o posesión, así como proporcionar información respecto del mismo, a las autoridades competentes y determinar su naturaleza jurídica;
+> <small>(REFORMADA, G.O. 31 DE MAYO DE 2013)</small>
+
+II. Administrar, llevar el registro, control y actualización del patrimonio inmobiliario del Distrito Federal, concentrando y resguardando los títulos, contratos y demás instrumentos que acrediten los derechos sobre inmuebles de su propiedad o posesión, así como proporcionar información respecto del mismo, a las autoridades competentes y determinar su naturaleza jurídica;
 
 III. Establecer las normas, criterios y políticas de administración, aprovechamiento y explotación de los inmuebles propiedad del Distrito Federal, así como asesorar y supervisar a las Dependencias, Unidades Administrativas, Órganos Político-Administrativos y los Órganos Desconcentrados de la Administración Pública, en la optimización de espacios físicos para oficinas y usos diversos, adecuaciones, remodelaciones y ampliaciones;
 
@@ -6590,15 +6864,21 @@ XXII. Practicar el avalúo de los bienes inmuebles donados por la Administració
 
 XXIII. Practicar el avalúo de los bienes inmuebles vacantes que sena (sic) adjudicados a la Administración Pública;
 
-XXIV. Practicar el avalúo para determinar el monto de la renta de bienes muebles e inmuebles, cuando las Dependencias, Unidades Administrativas, Órganos Desconcentrados y Entidades de la Administración Pública los den o tomen en arrendamiento;
+> <small>(REFORMADA, G.O. 31 DE MAYO DE 2013)</small>
+
+XXIV. Practicar el avalúo de los bienes inmuebles vacantes que sean adjudicados a la Administración Pública;
 
 XXV. Practicar avalúo para determinar el monto de las contraprestaciones por el uso, goce, o ambas, de bienes muebles e inmuebles propiedad del distrito Federal, dándole la intervención que corresponda a la Secretaría de Finanzas;
 
 XXVI. Practicar el avalúo en los casos de expropiación, para determinar la base por la cual se fijará el monto de la indemnización que deba cubrirse a los afectados, de conformidad con los artículos 27 constitucional y 10 de la Ley de Expropiación;
 
-XXVII. Practicar el avalúo sobre bienes muebles propiedad del Distrito Federal, que la Oficialía Mayor determine para efectos d (sic) inventario, así como aquellos que las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, los Órganos Desconcentrados y Entidades de la Administración Pública decidan enajenar cuando, por su uso, aprovechamiento o estado de conservación, no sean ya adecuados para el servicio o resulte inconveniente seguirlos utilizando;
+> <small>(REFORMADA, G.O. 31 DE MAYO DE 2013)</small>
 
-XXVIII. Practicar el avalúo solicitado por la autoridad competente respecto de bienes embargados por autoridades del Distrito Federal distintas de las fiscales; abandonados expresa o tácitamente en beneficio del Distrito Federal; que se encuentren a disposición de la autoridad investigadora del Ministerio Público del Distrito Federal o de las judiciales del Distrito Federal y que no hubieran sido recogidos por quien tenga derecho o interés jurídico en ellos; decomisados por las autoridades judiciales, o de bienes a cuenta de adeudos fiscales;
+XXVII. Practicar el avalúo sobre bienes muebles propiedad del Distrito Federal, que la Oficialía Mayor determine para efectos del inventario, así como aquellos que las Dependencias, Unidades Administrativas, Órganos Político- Administrativos, los Órganos Desconcentrados y Entidades de la Administración Pública decidan enajenar cuando, por su uso, aprovechamiento o estado de conservación, no sean ya adecuados para el servicio o resulte inconveniente seguirlos utilizando;
+
+> <small>(REFORMADA, G.O. 31 DE MAYO DE 2013)</small>
+
+XXVIII. Practicar el avalúo solicitado por la autoridad competente respecto de bienes embargados por autoridades del Distrito Federal distintas de las fiscales; abandonados expresa o tácitamente en beneficio del Distrito Federal; que se encuentren a disposición del Ministerio Público o autoridad judicial del Distrito Federal y que no hubieran sido recogidos por quien tenga derecho o interés jurídico en ellos; decomisados por las autoridades judiciales, o de bienes a cuenta de adeudos fiscales;
 
 XXIX. Practicar el avalúo de las empresas o negociaciones agrícolas, pecuarias, forestales, industriales, comerciales y de servicios, que por cualquier concepto adquieran, enajenen o graven las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, los Órganos Desconcentrados y Entidades de la Administración Pública;
 
@@ -6614,189 +6894,281 @@ XXXIV. Proponer la forma de pago de los servicios y gastos por los dictámenes v
 
 XXXV. Asesorar, en el ámbito de sus atribuciones, a las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, los Órganos Desconcentrados y Entidades de la administración Pública.
 
+> <small>(ADICIONADA, G.O. 31 DE MAYO DE 2013)</small>
+
+XXXVII (SIC). Suscribir los documentos relativos al ejercicio de sus atribuciones;
+
+> <small>(ADICIONADA, G.O. 31 DE MAYO DE 2013)</small>
+
+XXXVIII. Certificar, por sí o a través de sus Direcciones, los documentos que obren en los expedientes que sean integrados con motivo del ejercicio de las facultades a su cargo; y
+
+> <small>(ADICIONADA, G.O. 31 DE MAYO DE 2013)</small>
+
+XXXIX. Las demás que le sean conferidas por el Oficial Mayor, así como las que correspondan a las unidades que le sean adscritas, las que expresamente le atribuyan este Reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 31 DE MAYO DE 2013)</small>
+
 ###### Artículo 101.
 
-(DEROGADO, G.O. 19 DE ENERO DE 2007)
+Corresponde a la Coordinación General de Apoyo Administrativo:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE MARZO DE 2009)</small>
+I. Dirigir la atención de las solicitudes de información pública y de acceso, rectificación, cancelación y oposición de datos personales que ingresan a la Oficialía Mayor, el tratamiento de la información pública, la capacitación en materia de transparencia y datos personales, así como impugnaciones e informes requeridos por el Instituto de Acceso a la Información Pública y Protección de Datos Personales del Distrito Federal;
+
+II. Coadyuvar con las instancias de la Administración Pública del Distrito Federal, en la ejecución del Programa Anual de Adquisiciones, a efecto de emitir opiniones técnicas, propuestas de actualización normativa y de mejora;
+
+III. Analizar los métodos, técnicas y resultados de la detección de necesidades en materia de bienes y servicios de la Administración Pública del Distrito Federal, para sustentar la dinámica administrativa y prestación de servicios;
+
+IV. Analizar la correspondencia entre los bienes y servicios a adquirir, sus requerimientos de mantenimiento y operación, con el Programa Nacional de Desarrollo, Programa General de Desarrollo del Distrito Federal, Programa Sectorial, Especial y Operativo que se ejecuten en la Administración Pública Local, y en su caso proponer las medidas que adecuen su congruencia;
+
+V. Analizar los sistemas de almacenamiento y distribución de abasto de los insumos de las instancias de la Administración Pública del Distrito Federal, para que en su caso se propongan las medidas tendientes a garantizar la idoneidad en su operación;
+
+VI. Proponer proyectos procedimentales, normativos, instrumentales o sistémicos que favorezcan la mejora de las adquisiciones, con la finalidad de emitir propuestas para mejorar la aplicación de la Ley de Adquisiciones del Distrito Federal, de los entes que integran la Administración Pública del Distrito Federal;
+
+VII. Diagnosticar la ejecución de los programas en materia de servicios generales a instalaciones apoyando a las instancias de la Administración Pública del Distrito Federal y emitir las opiniones técnicas que correspondan;
+
+VIII. Dirigir los estudios para proponer mejoras o líneas de acción específicas para optimizar el otorgamiento de servicios generales, acorde a la funcionalidad de las instancias de la Administración Pública del Distrito Federal;
+
+IX. Dirigir los estudios de apoyo a las áreas, sobre los programas de contratación de prestadores de servicios profesionales de las instancias de la Administración Pública del Distrito Federal, a efecto de emitir opiniones técnicas, para el mejoramiento del proceso, detección de necesidades y mecanismos de contratación;
+
+X. Implementar mecanismos que permitan capacitar y actualizar en las materias competencia de la Oficialía Mayor, a los servidores públicos adscritos a las áreas administrativas en instancias de la Administración Pública del Distrito Federal;
+
+XI. Coordinar los estudios que se determinen sobre el uso, aprovechamiento y explotación del patrimonio inmobiliario del Distrito Federal asignados a las instancias de la Administración Pública, y personas físicas y morales, y en su caso emitir opinión técnica sobre el cumplimiento del título otorgado, a la Dirección General de Patrimonio Inmobiliario;
+
+XII. Dirigir las acciones y programas de protección civil de todos los inmuebles de la Administración Pública del Distrito
+
+Federal;
+
+XIII. Dirigir y coordinar las acciones necesarias para la defensa jurídica de los intereses de la Oficialía Mayor;
+
+XIV. Velar por el cumplimiento de las leyes, reglamentos, decretos, acuerdos, circulares y demás disposiciones jurídicas y administrativas competencia de la Oficialía Mayor;
+
+XV. Preparar los análisis que presente el Oficial Mayor al Jefe de Gobierno, respecto del ejercicio de las atribuciones a él conferidas y de los servidores públicos subalternos;
+
+XVI. Solicitar información y documentos a las instancias de la Administración Pública del Distrito Federal, cuando sea necesario para resolver los asuntos de su competencia;
+
+XVII. Coordinar el trámite de las solicitudes de pasajes y viáticos nacionales o internacionales que presenten las Dependencias Órganos Desconcentrados o Entidades al Oficial Mayor;
+
+XVIII. Coordinar la planeación de los estudios de análisis de la información y documentación relacionada con la elaboración y ejecución de los planes y programas, así como de la evaluación de objetivos institucionales, en el ámbito de competencia de la Oficialía Mayor;
+
+XIX. Coordinar la planeación del desarrollo informático de la oficina del Oficial Mayor del Gobierno del Distrito Federal, así como la Coordinación General de Apoyo Administrativo;
+
+XX. Coordinar la gestión de actualización, adecuación, autorización y registro de manuales administrativos, de áreas sustantivas y encargadas de administración en dependencias y órganos desconcentrados, adscritas a la Oficialía Mayor, para su ulterior autorización del área competente;
+
+XXI. Suscribir los documentos relativos al ejercicio de sus atribuciones;
+
+XXII. Certificar, por sí o a través de las Direcciones Ejecutivas, los documentos que obren en los expedientes que sean integrados con motivo del ejercicio de las facultades a su cargo; y
+
+XXIII. Las demás que le sean conferidas por el Oficial Mayor, así como las que correspondan a las unidades que le sean adscritas, las que expresamente le atribuyan este Reglamento; y las que le otorguen otros ordenamientos jurídicos o administrativos.
+
+> <small>(REFORMADO, G.O. 31 DE MAYO DE 2013)</small>
 
 ###### Artículo 101-A.
 
-Corresponde a la Dirección Ejecutiva de Apoyo Técnico:
+Corresponde a la Dirección Ejecutiva de Información Pública:
 
-> <small>(ADICIONADA G.O. 16 DE AGOSTO DE 2001)</small>
+I. Recibir, capturar, ordenar y procesar las solicitudes de información pública y de acceso, rectificación, cancelación y oposición de datos personales que ingresen a la Oficialía Mayor, y darles seguimiento hasta la entrega de la respuesta correspondiente;
 
-I. Acordar con el Oficial Mayor los asuntos de su competencia;
+II. Recabar y publicar la información pública de oficio de la Oficialía Mayor de conformidad con la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal y los criterios que al efecto emita el Instituto de Acceso a la Información Pública y Protección de Datos Personales del Distrito Federal;
 
-> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2003)</small>
+III. Coordinar las actividades referentes a la utilización del Sistema INFOMEXDF, informes de solicitudes de información pública y de acceso, rectificación, cancelación y oposición de datos personales, capacitación en materia de transparencia y datos personales al personal de la Oficialía Mayor; así como dar seguimiento a los medios de impugnación que se interpongan ante el Instituto de Acceso a la Información Pública y Protección de Datos Personales del Distrito Federal;
 
-II. Coordinar y supervisar la operación de las Direcciones Generales, Ejecutivas o de área encargadas de la administración en las Dependencias, en las materias que establece este artículo;
+IV. Formar parte de los Órganos Colegiados de conformidad con la normatividad aplicable;
 
-III. (DEROGADA, G.O. 30 DE MARZO DE 2009)
+V. Integrar y formular los informes requeridos por el Instituto de Acceso a la Información Pública y Protección de Datos Personales del Distrito Federal;
 
-IV. (DEROGADA, G.O. 30 DE MARZO DE 2009)
+VI. Definir estrategias de capacitación con la finalidad de mantener actualizado al personal de la Oficialía Mayor en materia de transparencia y acceso a la información pública, así como protección de datos personales;
 
-V. (DEROGADA, G.O. 30 DE MARZO DE 2009)
+VII. Suscribir los documentos relativos al ejercicio de sus atribuciones; y
 
-VI. (DEROGADA, G.O. 30 DE MARZO DE 2009)
+VIII. Las demás que le atribuyan expresamente las disposiciones jurídicas y administrativas aplicables, así como el Coordinador General de Apoyo Administrativo y el Oficial Mayor del Gobierno del Distrito Federal.
 
-VII. (DEROGADA, G.O. 30 DE MARZO DE 2009)
-
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
-
-VIII. Revisar las solicitudes de pasajes y viáticos nacionales o internacionales que presenten las dependencias o entidades al Oficial Mayor, para su autorización, y en las internacionales para que éste gestione su autorización ante el Jefe de Gobierno;
-
-IX. (DEROGADA, G.O. 30 DE MARZO DE 2009)
-
-X. (DEROGADA, G.O. 30 DE MARZO DE 2009)
-
-XI. (DEROGADA, G.O. 30 DE MARZO DE 2009)
-
-XII. (DEROGADA, G.O. 30 DE MARZO DE 2009)
-
-XIII. (DEROGADA, G.O. 30 DE MARZO DE 2009)
-
-> <small>(REFORMADA, G.O. 30 DE MARZO DE 2009)</small>
-
-XIV. Elaborar y proponer los lineamientos para la expedición de credenciales de acreditación de verificadores administrativos que realicen las dependencias, órganos desconcentrados, entidades y órganos político - administrativos de la Administración Pública del Distrito Federal;
-
-XV. (DEROGADA, G.O. 30 DE MARZO DE 2009)
-
-XVI. (DEROGADA, G.O. 28 DE FEBRERO DE 2007) (REPUBLICADA, G.O. 30 DE MARZO DE 2009)
-
-XVII. (DEROGADA, G.O. 30 DE MARZO DE 2009)
-
-> <small>(REFORMADA, G.O. 30 DE MARZO DE 2009)</small>
-
-XVIII. Formular y proponer proyectos de leyes, reglamentos, decretos, acuerdos y circulares en materia de pasajes, viáticos y para la administración de los recursos humanos y materiales;
-
-> <small>(REFORMADA, G.O. 30 DE MARZO DE 2009)</small>
-
-XIX. Realizar las acciones necesarias para la conducción de las entidades del sector y participar en la elaboración de sus programas, vigilando que sean congruentes con el Programa General de Desarrollo del Distrito Federal;
-
-> <small>(REFORMADA, G.O. 30 DE MARZO DE 2009)</small>
-
-XX. Llevar a cabo en el ámbito de competencia de la Oficialía Mayor el análisis de la información y documentos relacionados con la celebración de las sesiones de los Órganos de Gobierno de las Entidades;
-
-> <small>(REFORMADA, G.O. 28 DE FEBRERO DE 2007)</small>
-
-XXI. Integrar y mantener actualizado el registro de los Órganos de Gobierno de los Organismos Públicos Descentralizados, las Empresas de Participación Estatal Mayoritaria y los Fideicomisos Públicos del Distrito Federal, en los que participe la Oficialía Mayor con información sobre sus sesiones y compromisos relevantes;
-
-XXII. (DEROGADA, G.O. 30 DE MARZO DE 2009)
-
-XXIII. (DEROGADA, G.O. 30 DE MARZO DE 2009)
-
-XXIV. (DEROGADA, G.O. 30 DE MARZO DE 2009)
-
-> <small>(REFORMADA, G.O. 30 DE MARZO DE 2009)</small>
-
-XXV. Integrar, actualizar y difundir por internet el padrón de verificadores administrativos de la administración pública del distrito federal;
-
-XXVI. (DEROGADA, G.O. 30 DE MARZO DE 2009)
-
-XXVII. (DEROGADA, G.O. 30 DE MARZO DE 2009)
-
-> <small>(REFORMADA, G.O. 30 DE MARZO DE 2009)</small>
-
-XXVIII. Administrar la red e Intranet de la Oficialía Mayor del Distrito Federal;
-
-XXIX. (DEROGADA, G.O. 30 DE MARZO DE 2009)
-
-XXX. (DEROGADA, G.O. 30 DE MARZO DE 2009)
-
-XXXI. (DEROGADA, G.O. 30 DE MARZO DE 2009)
-
-XXXII. (DEROGADA, G.O. 30 DE MARZO DE 2009)
-
-XXXIII. (DEROGADA, G.O. 30 DE MARZO DE 2009)
-
-> <small>(REFORMADA, G.O. 30 DE MARZO DE 2009)</small>
-
-XXXIV. Definir y establecer lineamientos para recopilar, organizar, presentar y analizar los datos cuantitativos y cualitativos generados por las distintas unidades administrativas de la Oficialía Mayor, y
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 30 DE MARZO DE 2009)</small>
-
-XXXV. Proponer los lineamientos para el proceso de ingreso a los puestos de la estructura orgánica de la Oficialía Mayor, así como la aplicación de los exámenes para la evaluación de conocimientos a los candidatos.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
+> <small>(REFORMADO, G.O. 31 DE MAYO DE 2013)</small>
 
 ###### Artículo 101-B.
 
-Corresponde a las Direcciones Generales, Ejecutivas o de Área encargadas de la administración en las Dependencias, en el ámbito de su competencia las siguientes atribuciones:
+Corresponde a la Dirección Ejecutiva de Apoyo en Adquisiciones y Servicios Generales:
 
-> <small>(REFORMADA, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
+I. Examinar con las instancias de la Administración Pública del Distrito Federal, la ejecución del Programa Anual de Adquisiciones, a efecto de emitir opiniones técnicas, propuestas de actualización normativa y de mejora;
 
-I. Coadyuvar en la programación y participar en la administración de los recursos humanos y materiales, así como en los recursos financieros destinados a los gastos por servicios personales y materiales de las Dependencias, conforme a las políticas, lineamientos, criterios y normas determinadas por la Oficialía Mayor y la Secretaría de Finanzas;
+II. Revisar los métodos, técnicas y resultados de la detección de necesidades en materia de bienes y servicios de la Administración Pública del Distrito Federal, para sustentar la dinámica administrativa y prestación de servicios;
 
-> <small>(REFORMADA, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
+III. Verificar la correspondencia entre los bienes y servicios a adquirir, sus requerimientos de mantenimiento y operación, con el Programa Nacional de Desarrollo, Programa General de Desarrollo del Distrito Federal, Programa Sectorial, Especial y Operativo que se ejecuten en la Administración Pública Local, y en su caso proponer las medidas que adecuen su congruencia;
 
-II. Auxiliar a las Dependencias en los actos necesarios para el cierre del ejercicio anual, de conformidad con los plazos legales y criterios emitidos por la Secretaría de Finanzas;
+IV. Revisar el uso adecuado en los procesos de adquisición, de los conceptos de los catálogos de bienes y servicios y de proveedores, precios de referencia y cuadros básicos por las diferentes instancias de la Administración Pública del Distrito Federal, a fin de emitir propuestas de mejora en su uso;
 
-> <small>(REFORMADA, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
+V. Realizar estudios de mercado que permitan complementar la actualización de los catálogos de bienes y servicios y precios de referencia de bienes de uso generalizado, que sirvan de apoyo a los procesos de adquisición que realicen las diferentes instancias de la Administración Pública del Distrito Federal;
 
-III. Coordinar la integración de los datos que requieran las Dependencias para presentar sus informes trimestrales de avance programático-presupuestal y la información para la elaboración de la Cuenta Pública;
+IV (SIC). Revisar los sistemas de almacenamiento y distribución de abasto de los insumos de las instancias de la Administración Pública del Distrito Federal, para que en su caso se propongan las medidas tendientes a garantizar la idoneidad en su operación;
 
-> <small>(REFORMADA, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
+V. Efectuar el análisis sobre proyectos procedimentales, normativos, instrumentales o sistémicos que favorezcan los procesos de adquisiciones, con la finalidad de emitir propuestas para mejorar la aplicación de la Ley de Adquisiciones del Distrito Federal, de los entes que integran la Administración Pública del Distrito Federal;
 
-IV. Participar en el registro de las erogaciones realizadas por las Dependencias;
+VI. Verificar la integración y ejecución de los programas en materia de servicios generales a instalaciones apoyando a las instancias de la Administración Pública del Distrito Federal y emitir las opiniones técnicas que correspondan;
 
-> <small>(ADICIONADA, G.O. 16 DE AGOSTO DE 2001)</small>
+VII. Realizar los estudios para proponer mejoras o líneas de acción específicas para optimizar el otorgamiento de servicios generales, acorde a la funcionalidad de las instancias de la Administración Pública del Distrito Federal;
 
-V. Coadyuvar en la coordinación, integración y tramitación de los programas que consignen inversión, así como dar seguimiento a su ejecución;
+VIII. Suscribir los documentos relativos al ejercicio de sus atribuciones; y
 
-> <small>(ADICIONADA, G.O. 16 DE AGOSTO DE 2001)</small>
+IX. Las demás que le atribuyan expresamente las disposiciones jurídicas y administrativas aplicables, así como el Coordinador General de Apoyo Administrativo y el Oficial Mayor del Gobierno del Distrito Federal.
 
-VI. Elaborar el registro sobre el estricto control financiero del gasto, en cuanto a pago de nómina del personal de base y confianza, así como a los prestadores de servicios profesionales, bajo el régimen de honorarios o cualquier otra forma de contratación;
-
-> <small>(ADICIONADA, G.O. 16 DE AGOSTO DE 2001)</small>
-
-VII. Participar en la formulación, instrumentación y evaluación del programa anual de Modernización Administrativa, en el marco del Programa General de Desarrollo del Distrito Federal;
-
-> <small>(ADICIONADA, G.O. 16 DE AGOSTO DE 2001)</small>
-
-VIII. Elaborar, de acuerdo a las disposiciones jurídicas y administrativas aplicables, las estrategias para formular el Programa Anual de Adquisiciones, Arrendamientos y Servicios, de conformidad con las políticas y programas de la Dependencia y sus áreas adscritas, así como supervisar su aplicación; y coordinar la recepción, guarda, suministro y control de los bienes muebles, y la asignación y baja de los mismos;
-
-> <small>(ADICIONADA, G.O. 16 DE AGOSTO DE 2001)</small>
-
-IX. Instrumentar, de conformidad con la Normatividad aplicable, los procesos de licitaciones públicas para la adquisición de bienes, arrendamiento de bienes inmuebles y contratación de servicios que establezca la Ley de Adquisiciones, así como sus procedimientos de excepción;
-
-> <small>(ADICIONADA, G.O. 16 DE AGOSTO DE 2001)</small>
-
-X. Coadyuvar para la adquisición de bienes, contratación de servicios y arrendamiento de bienes inmuebles, que realizan los titulares de las Dependencias, observando al efecto las disposiciones jurídicas y administrativas aplicables;
-
-> <small>(REFORMADA, G.O. 30 DE MARZO DE 2009)</small>
-
-XI. Aplicar al interior de las dependencias, unidades administrativas, unidades administrativas de apoyo técnico-operativo u órganos desconcentrados, las políticas, normas, sistemas, procedimientos y programas en materia de administración y desarrollo del personal, de organización, de sistemas administrativos, servicios generales, de la información que se genere en el ámbito de su competencia, de conformidad con las disposiciones jurídicas y administrativas aplicables;
-
-> <small>(ADICIONADA, G.O. 16 DE AGOSTO DE 2001)</small>
-
-XII. Coadyuvar, en el ámbito de su competencia, en la vigilancia de la actuación de las diversas comisiones que se establezcan al interior de las Dependencias, Unidades Administrativas, Unidades Administrativas de Apoyo Técnico-Operativo u Órganos Desconcentrados;
-
-> <small>(ADICIONADA, G.O. 16 DE AGOSTO DE 2001)</small>
-
-XIII. Realizar las acciones que permitan instrumentar al interior de las Dependencias, Unidades Administrativas, Unidades Administrativas de Apoyo Técnico-Operativo u Órganos Desconcentrados el Servicio Público de Carrera, así como vigilar el cumplimiento de las disposiciones jurídicas y administrativas aplicables;
-
-> <small>(ADICIONADA, G.O. 16 DE AGOSTO DE 2001)</small>
-
-XIV. Suscribir los documentos relativos al ejercicio de sus atribuciones, así como los demás actos jurídicos de carácter administrativo o de cualquier otra índole que se requiera, dentro del ámbito de su competencia, para el buen desempeño de las Dependencias, Unidades Administrativas, Unidades Administrativas de Apoyo Técnico-Operativo u Órganos Desconcentrados;
-
-> <small>(ADICIONADA, G.O. 16 DE AGOSTO DE 2001)</small>
-
-XV. Participar en la supervisión de la ejecución de obras de mantenimiento, remodelación y reparación de los bienes que requieran las Dependencias, Unidades Administrativas, Unidades Administrativas de Apoyo Técnico-Operativo u Órganos Desconcentrados, así como opinar sobre la contratación de los servicios generales, de conformidad con lo que señalen las disposiciones jurídicas y administrativas aplicables;
-
-> <small>(ADICIONADA, G.O. 16 DE AGOSTO DE 2001)</small>
-
-XVI. Opinar sobre la contratación conforme a la Ley de Adquisiciones y la Ley de Obras Públicas, para la adecuada operación de las Dependencias, Unidades Administrativas, Unidades Administrativas de Apoyo Técnico-Operativo u Órganos Desconcentrados de su sector; y
-
-> <small>(REFORMADA, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
-
-XVII. Participar en la planeación y coordinar la prestación de servicios de apoyo que requieran las diversas las Dependencias, Unidades Administrativas, Unidades Administrativas de Apoyo Técnico-Operativo u Órganos Desconcentrados de su sector.
-
-> <small>(ADICIONADO, G.O. 31 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO, G.O. 31 DE MAYO DE 2013)</small>
 
 ###### Artículo 101-C.
 
-Corresponde a la Dirección General de Comunicación Social:
+Corresponde a la Dirección Ejecutiva de Apoyo en Recursos Humanos:
+
+I. Realizar los estudios de apoyo a las áreas, sobre los programas de contratación de servidores públicos de las instancias de la Administración Pública del Distrito Federal, a efecto de emitir opiniones técnicas, para el mejoramiento del proceso, detección de necesidades y mecanismos de contratación, así como el análisis de la fuerza laboral acorde a las necesidades funcionales y orgánicas;
+
+II. Revisar la adecuada aplicación del ejercicio presupuestal en sus diferentes conceptos y partidas de gasto para servicios personales de las diferentes instancias de la Administración Pública del Distrito Federal, a fin de emitir propuestas de mejora;
+
+III. Realizar estudios que permitan monitorear los informes de actividades de la prestación del servicio profesional contratado por el Gobierno del Distrito Federal, en las instancias de la Administración Pública del Distrito Federal, a efecto de emitir propuestas de mejora;
+
+IV. Elaborar estudios mediante muestreo, con la información que hayan remitido para la justificación de la prestación de servicios profesionales las instancias de la Administración Pública del Distrito Federal, abarcando visitas de campo, para verificar el cumplimiento contractual, pudiendo emitir una opinión técnica sobre la necesidad de continuidad de la contratación y/o el folio de honorarios;
+
+V. Dar seguimiento al proceso de diagnóstico para el desarrollo del recurso humano, dentro del ámbito de competencia de la Oficialía Mayor;
+
+VI. Capacitar y actualizar en las materias competencia de la Oficialía Mayor, a los servidores públicos adscritos a las áreas administrativas en instancias de la Administración Pública del Distrito Federal;
+
+VII. Generar y aplicar técnicas y métodos de evaluación de conocimientos acorde a la normatividad vigente, con el propósito de que se practiquen al personal de la Oficialía Mayor;
+
+VIII. Revisar que la información que detenta sobre la capacitación del personal de la Oficialía Mayor esté conforme a lo establecido en las disposiciones aplicables, con la finalidad de cumplir los propósitos organizacionales y funcionales;
+
+IX. Suscribir los documentos relativos al ejercicio de sus atribuciones; y
+
+X. Las demás que le atribuyan expresamente las disposiciones jurídicas y administrativas aplicables, así como el Coordinador General de Apoyo Administrativo y el Oficial Mayor del Gobierno del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 31 DE MAYO DE 2013)</small>
+
+###### Artículo 101-D.
+
+Corresponde a la Dirección Ejecutiva de Apoyo en Protección Civil del Patrimonio Inmobiliario:
+
+I. Ejecutar las acciones y administrar los programas de protección civil de todos los inmuebles del patrimonio inmobiliario de la ciudad, asignados a las instancias de la Administración Pública del Distrito Federal;
+
+II. Coordinar la elaboración del Programa Interno de Protección Civil de los inmuebles del patrimonio inmobiliario de la ciudad, asignados a las instancias de la Administración Pública del Distrito Federal;
+
+III. Coordinar el establecimiento de las brigadas de protección civil en los inmuebles del patrimonio inmobiliario de la ciudad, asignados a las instancias de la Administración Pública del Distrito Federal y procurar su capacitación en la materia;
+
+IV. Coordinar la participación de los trabajadores del Gobierno del Distrito Federal en la elaboración del plan familiar de protección civil, asegurando óptimas condiciones de potencial uso, para procurar la adecuada comunicación, integración y reintegración del núcleo familiar en caso de un siniestro;
+
+V. Coordinar, dirigir y supervisar a los equipos especializados de Protección Civil de la Oficialía Mayor, en caso de contingencias;
+
+VI. Apoyar al Oficial Mayor en sus funciones como integrante del Consejo de Protección Civil del Distrito Federal, y en las del en el (sic) Gabinete de Crisis y Reacción Inmediata;
+
+VII. Realizar los estudios sobre el destino del uso, aprovechamiento y explotación del patrimonio inmobiliario de la ciudad, que haya sido otorgado a personas físicas, morales o entidades de la Administración Pública del Distrito Federal a través de Permisos Administrativos Temporales Revocables (PATR) y Concesiones, pudiendo emitir una opinión técnica sobre el cumplimiento del título otorgado, a la Dirección General de Patrimonio Inmobiliario;
+
+VIII. Coadyuvar con información recolectada, que permita actualizar el listado de inmuebles del patrimonio inmobiliario asignado a instancias de la Administración Pública del Distrito Federal;
+
+IX. Realizar estudios para constatar el uso óptimo de los espacios de los inmuebles, propios o rentados a las instancias de la Administración Pública del Distrito Federal, a efecto de emitir acciones de mejora en su uso;
+
+IX. Realizar estudios para constatar el uso óptimo de los espacios físicos de los inmuebles, propios, asignados o rentados a las instancias de la Administración Pública del Distrito Federal, a efecto de emitir recomendaciones de mejora en su uso;
+
+X. Suscribir los documentos relativos al ejercicio de sus atribuciones; y
+
+XI. Las demás que le asignen el Coordinador General de Apoyo Administrativo y el Oficial Mayor del Gobierno del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 31 DE MAYO DE 2013)</small>
+
+###### Artículo 101-E.
+
+Corresponde a la Dirección Ejecutiva de Apoyo Jurídico:
+
+I. Representar ante toda clase de autoridades administrativas o judiciales, locales o federales, los intereses de la Oficialía Mayor, sus Unidades Administrativas y Unidades Administrativas de Apoyo Técnico Operativo, en todos los asuntos en los que sean parte, o cuando tengan interés jurídico o se afecte el patrimonio del Distrito Federal, y estos asuntos se encuentren relacionados con las facultades que tienen encomendadas; contestar las demandas que se tramiten ante el Tribunal de lo Contencioso Administrativo del Distrito Federal, ofrecer y rendir pruebas, promover incidentes, interponer recursos, formular alegatos, hacer promociones de trámite, autorizar delegados e incluso allanarse a las demandas, así como presentar denuncias ante las autoridades competentes;
+
+II. Efectuar el seguimiento y defensa en las diferentes materias, civil, penal, administrativa, amparo y de cualquier otra índole, competencia de la Oficialía Mayor, sus Unidades Administrativas y Unidades Administrativas de Apoyo Técnico Operativo, en apego a las leyes, reglamentos, decretos, acuerdos, circulares y demás disposiciones jurídicas y administrativas aplicables;
+
+III. Elaborar los análisis que presente el Oficial Mayor al Jefe de Gobierno, respecto del ejercicio de las atribuciones a él conferidas y de los servidores públicos subalternos;
+
+IV. Solicitar información y documentos a las instancias de la Administración Pública del Distrito Federal, cuando sea necesario para resolver los asuntos de su competencia;
+
+V. Analizar los anteproyectos de leyes, reglamentos, decretos, acuerdos, circulares y demás disposiciones jurídicas que sean competencia de la Oficialía Mayor a fin de que se (sic) éstos se encuentren apegados a las disposiciones jurídicas y administrativas vigentes;
+
+VI. Integrar los elementos necesarios para que se elaboren o ejecuten las escrituras públicas, convenios, contratos, permisos administrativos temporales revocables, títulos, actas de asignación, y todos aquellos instrumentos legales que deban ser suscritos por el Oficial Mayor;
+
+VII. Fungir como Apoderado General en la defensa Jurídica de los asuntos que competen a la Oficialía Mayor, sus Unidades Administrativas y Unidades Administrativas de Apoyo Técnico Operativo;
+
+VIII. Notificar que se realicen las notificaciones de los actos jurídicos que le correspondan de acuerdo a sus atribuciones;
+
+IX. Establecer programas de trabajo en materia jurídica orientados a mejorar el desempeño y funcionamiento de las Unidades Administrativas y Unidades Administrativas de Apoyo Técnico Operativo de la Oficialía Mayor;
+
+X. Expedir previo cotejo, copias certificadas de los documentos que obren en sus archivos, así como de aquellos a los cuales se tenga acceso con motivo del desempeño de sus funciones;
+
+XI. Suscribir los documentos relativos al ejercicio de sus atribuciones; y
+
+XII. Las demás que le instruya el Oficial Mayor del Gobierno del Distrito Federal, el Coordinador General de Apoyo Administrativo y las que les correspondan a las Unidades Administrativas de Apoyo Técnico-Operativo que le adscriban, así como las que expresamente le atribuyan este reglamento y le otorguen otros ordenamientos jurídicos o administrativos.
+
+> <small>(ADICIONADO, G.O. 31 DE MAYO DE 2013)</small>
+
+###### Artículo 101-F.
+
+Corresponde a la Dirección Ejecutiva de Apoyo Técnico y Tecnológico:
+
+I. Atender, gestionar y establecer controles sobre las solicitudes de pasajes y viáticos nacionales o internacionales que presenten las Dependencias, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal, al Oficial Mayor;
+
+II. Integrar, y en su caso formular y proponer los proyectos normativos en materia de pasajes, viáticos y para la administración de los recursos humanos, materiales y el patrimonio inmobiliario del Distrito Federal competencia del Oficial Mayor;
+
+III. Llevar a cabo en el ámbito de competencia de la Oficialía Mayor, el análisis de la información y documentos relacionados con los planes, programas y evaluación de objetivos institucionales;
+
+IV. Operar esquemas para recopilar, organizar, analizar y presentar los datos cuantitativos y cualitativos generados por las distintas unidades administrativas de la Oficialía Mayor;
+
+V. Desarrollar aplicaciones tecnológicas atendiendo las disposiciones aplicables en la materia, y prestar apoyo informático a la Oficina del Oficial Mayor y a la Coordinación General de Apoyo Administrativo;
+
+VI. Administrar la red e Intranet de la oficina del Oficial Mayor del Gobierno del Distrito Federal y de la Coordinación General de Apoyo Administrativo atendiendo las disposiciones aplicables en la materia;
+
+VII. Dar seguimiento y emitir diagnóstico de las actividades relacionadas con la actualización, adecuación, autorización y registro de manuales administrativos, responsabilidad de las áreas sustantivas y áreas encargadas de la administración en las dependencias y órganos desconcentrados, adscritas a la Oficialía Mayor, para su estandarización y simplificación atendiendo las disposiciones aplicables en la materia;
+
+VIII. Suscribir los documentos relativos al ejercicio de sus atribuciones; y
+
+IX. Las demás que le asignen el Coordinador General de Apoyo Administrativo y el Oficial Mayor del Gobierno del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 31 DE MAYO DE 2013)</small>
+
+###### Artículo 101-G.
+
+Corresponde a las Direcciones Generales, Ejecutivas o de Área encargadas de la administración en las Dependencias, en el ámbito de su competencia las siguientes atribuciones:
+
+I. Coadyuvar en la programación y participar en la administración de los recursos humanos y materiales, así como en los recursos financieros destinados a los gastos por servicios personales y materiales de las Dependencias, conforme a las políticas, lineamientos, criterios y normas determinadas por la Oficialía Mayor y la Secretaría de Finanzas;
+
+II. Auxiliar a las Dependencias en los actos necesarios para el cierre del ejercicio anual, de conformidad con los plazos legales y criterios emitidos por la Secretaría de Finanzas;
+
+III. Coordinar la integración de los datos que requieran las Dependencias para presentar sus informes trimestrales de avance programático-presupuestal y la información para la elaboración de la Cuenta Pública;
+
+IV. Participar en el registro de las erogaciones realizadas por las Dependencias;
+
+V. Coadyuvar en la coordinación, integración y tramitación de los programas que consignen inversión, así como dar seguimiento a su ejecución;
+
+VI. Elaborar el registro sobre el estricto control financiero del gasto, en cuanto a pago de nómina del personal de base y confianza, así como a los prestadores de servicios profesionales, bajo el régimen de honorarios o cualquier otra forma de contratación;
+
+VII. Participar en la formulación, instrumentación y evaluación del programa anual de Modernización Administrativa, en el marco del Programa General de Desarrollo del Distrito Federal;
+
+VIII. Elaborar, de acuerdo a las disposiciones jurídicas y administrativas aplicables, las estrategias para formular el Programa Anual de Adquisiciones, Arrendamientos y Servicios, de conformidad con las políticas y programas de la Dependencia y sus áreas adscritas, así como supervisar su aplicación; y coordinar la recepción, guarda, suministro y control de los bienes muebles, y la asignación y baja de los mismos;
+
+IX. Instrumentar, de conformidad con la Normatividad aplicable, los procesos de licitaciones públicas para la adquisición de bienes, arrendamiento de bienes inmuebles y contratación de servicios que establezca la Ley de Adquisiciones, así como sus procedimientos de excepción;
+
+X. Coadyuvar para la adquisición de bienes, contratación de servicios y arrendamiento de bienes inmuebles, que realizan los titulares de las Dependencias, observando al efecto las disposiciones jurídicas y administrativas aplicables;
+
+XI. Aplicar al interior de las dependencias, unidades administrativas, unidades administrativas de apoyo técnico-operativo u órganos desconcentrados, las políticas, normas, sistemas, procedimientos y programas en materia de administración y desarrollo del personal, de organización, de sistemas administrativos, servicios generales, de la información que se genere en el ámbito de su competencia, de conformidad con las disposiciones jurídicas y administrativas aplicables;
+
+XII. Coadyuvar, en el ámbito de su competencia, en la vigilancia de la actuación de las diversas comisiones que se establezcan al interior de las Dependencias, Unidades Administrativas, Unidades Administrativas de Apoyo Técnico- Operativo u Órganos Desconcentrados;
+
+XIII. Realizar las acciones que permitan instrumentar al interior de las Dependencias, Unidades Administrativas, Unidades Administrativas de Apoyo Técnico-Operativo u Órganos Desconcentrados el Servicio Público de Carrera, así como vigilar el cumplimiento de las disposiciones jurídicas y administrativas aplicables;
+
+XIV. Suscribir los documentos relativos al ejercicio de sus atribuciones, así como los demás actos jurídicos de carácter administrativo o de cualquier otra índole que se requiera, dentro del ámbito de su competencia, para el buen desempeño de las Dependencias, Unidades Administrativas, Unidades Administrativas de Apoyo Técnico-Operativo u Órganos Desconcentrados;
+
+XV. Participar en la supervisión de la ejecución de obras de mantenimiento, remodelación y reparación de los bienes que requieran las Dependencias, Unidades Administrativas, Unidades Administrativas de Apoyo Técnico-Operativo u Órganos Desconcentrados, así como opinar sobre la contratación de los servicios generales, de conformidad con lo que señalen las disposiciones jurídicas y administrativas aplicables;
+
+XVI. Opinar sobre la contratación conforme a la Ley de Adquisiciones y la Ley de Obras Públicas, para la adecuada operación de las Dependencias, Unidades Administrativas, Unidades Administrativas de Apoyo Técnico-Operativo u Órganos Desconcentrados de su sector;
+
+XVII. Participar en la planeación y coordinar la prestación de servicios de apoyo que requieran las diversas Dependencias, Unidades Administrativas, Unidades Administrativas de Apoyo Técnico-Operativo u Órganos Desconcentrados de su sector;
+
+XVIII. Certificar los documentos que obren en los expedientes que sean integrados con motivo del ejercicio de las facultades a su cargo; y
+
+XIX. Las demás que le sean conferidas por el Oficial Mayor, así como las que correspondan a las unidades que le sean adscritas.
+
+> <small>(ADICIONADO, G.O. 31 DE MAYO DE 2013)</small>
+
+###### Artículo 101-H.
+
+Corresponde a la Coordinación General de Comunicación Social:
 
 I. Planear, coordinar y evaluar las políticas que orienten a los medios de difusión con que cuenten las dependencias, unidades administrativas, órganos político-administrativos y órganos desconcentrados de la Administración Pública y coadyuvar en la materia a las entidades, de conformidad con las normas que al efecto se expida;
 
@@ -6806,25 +7178,67 @@ III. Normar y dictaminar sobre la orientación y procedencia de las actividades 
 
 IV. Supervisar y coordinar la información que se difundirá por los medios de comunicación sobre todas y cada una de las actividades y servicios de la administración pública;
 
-V. (DEROGADA, G.O. 31 DE AGOSTO DE 2010)
+V. Normar, autorizar y supervisar el diseño de producción y desarrollo de toda campaña o publicación, promovida en materia de comunicación social;
 
-VI. Normar, autorizar y supervisar el diseño de producción y desarrollo de toda campana o publicación, promovida en materia de comunicación social;
+VI. Llevar a cabo las campañas de orientación ciudadana que sean de interés para el Distrito Federal;
 
-VII. Llevar a cabo las campañas de orientación ciudadana que sean de interés para el Distrito Federal;
+VII. Promover reuniones de coordinación con las Dependencias, Unidades Administrativas, Órganos Político- Administrativos y Órganos Desconcentrados de la Administración Pública, a fin de uniformar el criterio en difusión de políticas y acciones en materia de comunicación social;
 
-VIII. Promover reuniones de coordinación con las Dependencias, Unidades Administrativas, Órganos Político-Administrativos y Órganos Desconcentrados de la Administración Pública, a fin de uniformar el criterio en difusión de políticas y acciones en materia de comunicación social:
+VIII. Supervisar y realizar la edición de los programas e informes de trabajo y de la memoria anual de actividades de la Administración Pública;
 
-IX. Supervisar y realizar la edición de los programas e informes de trabajo y de la memoria anual de actividades de la Administración Pública;
+IX. Capturar, sistematizar, analizar y evaluar la información y opiniones difundidas por los medios de comunicación, en lo concerniente a las actividades de las instancias de la Administración Pública del Distrito Federal;
 
-X. Capturar, sistematizar, analizar y evaluar la información y opiniones difundidas por los medios comunicación, en lo concerniente a las actividades de las Dependencias, Unidades Administrativas, Órganos Político-Administrativos y Órganos Desconcentrados de la Administración Pública;
+X. Realizar encuestas sobre las opiniones y necesidades de la población, referidas al desempeño y funciones de la Administración Pública del Distrito Federal;
 
-XI. Realizar encuestas sobre las opiniones y necesidades de la población, referidas al desempeño y funciones de la Administración Pública;
+XI. Captar de los diferentes medios de difusión las quejas del público y turnarlas para su atención a la autoridad competente;
 
-XII. Captar de los diferentes medios de difusión las quejas del público y turnarlas para su atención a la autoridad competente;
+XII. Organizar y supervisar entrevistas y conferencias con la prensa nacional o internacional, así como congresos y seminarios en las materias de la competencia de la Administración Pública del Distrito Federal;
 
-XIII. Organizar y supervisar entrevistas y conferencias con la prensa nacional o internacional, así como congresos y seminarios en las materias de la competencia de la Administración Pública; y
+XIII. Atender todo lo relacionado a las invitaciones protocolarias y de prensa que deban realizar las instancias de la Administración Pública del Distrito Federal en el desempeño de sus funciones;
 
-XIV. Atender todo lo relacionado a las invitaciones protocolarias y de prensa que deban realizar las dependencias, unidades administrativas, órganos político-administrativos y órganos desconcentrados de la Administración Pública en el desempeño de sus funciones.
+XIV. Suscribir los documentos relativos al ejercicio de sus atribuciones;
+
+XV. Certificar, por sí o a través de sus Direcciones o Coordinaciones, los documentos que obren en los expedientes que sean integrados con motivo del ejercicio de las facultades a su cargo; y
+
+XVI. Las demás que le sean conferidas por el Oficial Mayor, así como las que correspondan a las unidades que le sean adscritas.
+
+> <small>(ADICIONADO, G.O. 31 DE MAYO DE 2013)</small>
+
+###### Artículo 101-I.
+
+Corresponde a la Dirección General de Mensaje y Nuevas Tecnologías:
+
+I. Expedir las políticas de comunicación social para eficientar y transparentar los servicios de publicidad, propaganda, difusión e información de las actividades del Gobierno del Distrito Federal de manera permanente;
+
+II. Coordinar la estrategia de difusión de las actividades, acciones y programas de cada Dependencia, Órgano Desconcentrado, Unidad Administrativa y Entidad de la Administración Pública del Distrito Federal para el conocimiento y beneficio de la comunidad que conforma la Ciudad de México;
+
+III. Asegurar que los lineamientos del Manual de Identidad Gráfica autorizado sean utilizados en todos los documentos de cada Dependencia, Órgano Desconcentrado, Unidad Administrativa y Entidad de la Administración Pública del Distrito Federal, así como en los eventos institucionales que se realicen en nombre del Gobierno del Distrito Federal;
+
+IV. Coordinar y supervisar la información para su difusión por los medios de comunicación sobre todas y cada una de las actividades de la Administración Pública local, así como supervisar las campañas de orientación ciudadana que sean de interés para el Distrito Federal;
+
+V. Planificar la estrategia de medios de comunicación para una relación de respeto y cooperación para la mejor difusión de las acciones y programas del Gobierno del Distrito Federal que buscan el bienestar y la convivencia colectiva, siendo generalmente en forma anual;
+
+VI. Planear la distribución equitativa y transparente de la publicidad entre los medios de comunicación de acuerdo a la coyuntura y calendario de las campañas institucionales del Gobierno del Distrito Federal;
+
+VII. Establecer los mecanismos para la generación de información y su distribución a los medios de comunicación con el uso de las nuevas tecnologías para la optimización de los recursos humanos y presupuestales;
+
+VIII. Coordinar el diseño de las políticas de comunicación social en criterios normativos que fortalezcan la relación institucional de los entes del Gobierno del Distrito Federal y unificar esfuerzos para un mejor servicio a los ciudadanos del Gobierno local;
+
+IX. Autorizar los programas de trabajo semestrales de los titulares de las Unidades de Enlaces de Comunicación de las diferentes Dependencias del Gobierno del Distrito Federal;
+
+X. Evaluar que los titulares de las Unidades de Enlaces de Comunicación de las diferentes Dependencias que conforman el Gobierno del Distrito Federal cumplan las disposiciones de racionalidad y austeridad establecidas en el Presupuesto asignado para sus tareas;
+
+XI. Supervisar que cada Dependencia, Órgano Desconcentrado, Unidad Administrativa y Entidad de la Administración Pública del Distrito Federal realice su informe mensual, las acciones y actividades llevadas a cabo en el marco de su programa respectivo, proporcionado a la Coordinación General de Comunicación Social dentro del Primer Trimestre de cada ejercicio fiscal;
+
+XII. Autorizar, a nombre del Gobierno del Distrito Federal, las erogaciones que se hagan de las partidas presupuestales para gastos de propaganda e imagen institucional, y de gastos de difusión de servicios públicos y campañas de información, en cuanto hace a medios no oficiales como la radio, televisión, medios impresos Internet, u otros;
+
+XIII. Establecer los mecanismos de comunicación interna y creación de archivos hemerográficos, videográficos y fotográficos para su consulta rápida en ambiente Web;
+
+XIV. Realizar un sistema que ayude a recabar las opiniones y quejas del público para que sean turnadas y resueltas por las autoridades competentes;
+
+XV. Autorizar las campañas Institucionales ordinarias y extraordinarias del Distrito Federal, previamente a su difusión; y
+
+XVI. Autorizar la difusión de las campañas institucionales, ordinarias y extraordinarias, del Gobierno del Distrito Federal atendiendo las necesidades de promoción de las acciones, proyectos y programas relevantes y prioritarios del Gobierno del Distrito Federal, a fin de lograr una comunicación eficiente con la ciudadanía, aplicando los presupuestos que se hayan consolidado para su contratación.
 
 #### SECCION XIII
 
@@ -16031,3 +16445,19 @@ G.O. 14 DE MAYO DE 2013.
 PRIMERO.- Publíquese en Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 31 DE MAYO DE 2013.
+
+DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN LOS ARTÍCULOS: 7, 27, 98, 99, 100, 101, 101 A, 101 B, 101 C, 101 D, 101 E, 101 F, 101 G, 101 H, 101 I, TODOS DEL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente decreto entrará en vigor el día de su publicación.
+
+G.O. 31 DE MAYO DE 2013.
+
+DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN LOS ARTÍCULOS: 7º; 32 QUÁTER, 32 QUINQUIES, 32 SEXTIES, 32 SEPTIES, 51, 52, 52 BIS, 52 TER, 53, 53 BIS, 53 TER, 53 QUÁTER, TODOS DEL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL.
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día de su publicación.
