@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-jge101-2009-de-la-junta-general-ejecutiva-del-71264"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2010-01-08"
-last_updated: "2010-01-27"
+last_updated: "2013-05-31"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71264&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2009-11-30"
 ---
 # ACUERDO JGE101/2009 DE LA JUNTA GENERAL EJECUTIVA DEL INSTITUTO FEDERAL ELECTORAL, POR EL QUE SE APRUEBAN LOS LINEAMIENTOS PARA LA ADQUISICION Y ENAJENACION DE INMUEBLES DEL INSTITUTO FEDERAL ELECTORAL
 
-ACUERDO DE LA JUNTA GENERAL EJECUTIVA DEL INSTITUTO FEDERAL ELECTORAL, POR EL QUE SE APRUEBAN LOS LINEAMIENTOS PARA LA ADQUISICION Y ENAJENACION DE INMUEBLES DEL INSTITUTO FEDERAL ELECTORAL
+ACUERDO DE LA JUNTA GENERAL EJECUTIVA DEL INSTITUTO FEDERAL ELECTORAL, POR EL QUE SE APRUEBAN LOS LINEAMIENTOS PARA LA ADQUISICIÓN Y ENAJENACIÓN DE INMUEBLES DEL INSTITUTO FEDERAL ELECTORAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE ENERO DE 2010.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO SEGUNDO Y OCTAVO DEL ACUERDO DE LA JUNTA GENERAL EJECUTIVA DEL INSTITUTO FEDERAL ELECTORAL, POR EL QUE SE APRUEBA EL MANUAL DE ADMINISTRACIÓN INMOBILIARIA DEL INSTITUTO FEDERAL ELECTORAL, PUBLICADO EN EL D.O.F. DE 31 DE MAYO DE 2013, EL PRESENTE ORDENAMIENTO QUEDARÁ SIN EFECTOS A LOS 30 DÍAS NATURALES POSTERIORES A SU PUBLICACIÓN.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE MAYO DE 2013.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 8 de enero de 2010.
 
@@ -657,10 +659,40 @@ PRIMERO. Los presentes Lineamientos entrarán en vigor al momento de su aprobaci
 
 SEGUNDO. Los procedimientos de adquisición o enajenación de inmuebles, que se encuentren en trámite previo a la entrada en vigor de los presentes Lineamientos, deberán resolverse conforme a lo señalado en éstos; todos aquellos documentos que se hayan tramitado se tomarán como válidos para la formalización y concreción de dichos procedimientos.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS A LOS PRESENTES LINEAMIENTOS.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS A LOS PRESENTES LINEAMIENTOS.</small>
 
 D.O.F. 27 DE ENERO DE 2010.
 
 PRIMERO. Los presentes Lineamientos entrarán en vigor al momento de su aprobación por la Junta General Ejecutiva.
 
 SEGUNDO. Los procedimientos de adquisición o enajenación de inmuebles, que se encuentren en trámite previo a la entrada en vigor de los presentes Lineamientos, deberán resolverse conforme a lo señalado en éstos; todos aquellos documentos que se hayan tramitado se tomarán como válidos para la formalización y concreción de dichos procedimientos.
+
+D.O.F. 31 DE MAYO DE 2013.
+
+Primero.- Se aprueba el Manual de Administración Inmobiliaria del Instituto Federal Electoral, el cual se anexa al presente y forma parte del mismo.
+
+Segundo.- A partir de la entrada en vigor del Manual referido en el Punto de Acuerdo que antecede, quedarán sin efectos los siguientes documentos normativos:
+
+- Acuerdo JGE101/2009 de la Junta General Ejecutiva del Instituto Federal Electoral, por el que se aprueban los Lineamientos para la Adquisición y Enajenación de Inmuebles del Instituto Federal Electoral.
+
+- Lineamientos para la Adquisición y Enajenación de Inmuebles del Instituto Federal Electoral (JGE124/2009 del 21 de diciembre de 2009).
+
+- Acuerdo JGE94/2011 de la Junta General Ejecutiva del Instituto Federal Electoral, por el que se aprueban los Lineamientos para el Arrendamiento, Conservación y Mantenimiento de Inmuebles.
+
+- Acuerdo JGE52/2012 de la Junta General Ejecutiva del Instituto Federal Electoral, por el que se aprueban las modificaciones a los Lineamientos para el Arrendamiento; Conservación y Mantenimiento de Inmuebles.
+
+- Modificaciones a los Lineamientos para el Arrendamiento, Conservación y Mantenimiento de Inmuebles (JGE66/2012 del 23 de abril de 2012).
+
+Tercero.- Los procedimientos y asuntos que se encuentren en trámite a la fecha de entrada en vigor del Manual, continuaran hasta su conclusión en los términos y conforme a las disposiciones aplicables en el momento de su inicio.
+
+Cuarto.- Las disposiciones contenidas en el Manual a que se refiere el Acuerdo primero, son de observancia general y carácter obligatorio para los órganos del Instituto Federal Electoral.
+
+Quinto.- Se instruye a la Dirección Ejecutiva de Administración para que en un plazo máximo de 30 días naturales emita los procedimientos administrativos que correspondan, alineados a las disposiciones previstas en el Manual motivo del presente Acuerdo.
+
+Sexto.- Se instruye a la Dirección Ejecutiva de Administración para que haga del conocimiento de todas las unidades administrativas del Instituto Federal Electoral el presente Acuerdo y se implemente las acciones de capacitación respectivas.
+
+Séptimo.- La interpretación para efectos administrativos del presente Acuerdo y Manual, así como la resolución de lo no previsto en el mismo, corresponderá a la Dirección Ejecutiva de Administración.
+
+Octavo.- El Manual de Administración Inmobiliaria del Instituto Federal Electoral entrará en vigor a los 30 días naturales posteriores a su publicación en el Diario Oficial de la Federación.
+
+Noveno.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación, en la Gaceta, en la NormaIFE y en la página web del Instituto Federal Electoral.
