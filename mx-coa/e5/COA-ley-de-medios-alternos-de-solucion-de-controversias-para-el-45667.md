@@ -4,7 +4,7 @@ identifier: "COA-ley-de-medios-alternos-de-solucion-de-controversias-para-el-456
 country: "mx"
 rank: "ley"
 publication_date: "2005-07-12"
-last_updated: "2013-05-17"
+last_updated: "2013-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "COA"
 ---
 # LEY DE MEDIOS ALTERNOS DE SOLUCION DE CONTROVERSIAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE MAYO DE 2013 EN EL P.O. DEL ESTADO DE COAHUILA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE MEDIOS ALTERNOS DE SOLUCIÓN DE CONTROVERSIAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2013.
+
+> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 31 DE MAYO DE 2013 NO APLICA AL ARTICULADO DEL PRESENTE ORDENAMIENTO.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 12 de julio de 2005.
 
@@ -1535,4 +1535,4 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
 
-TERCERO.- Los asuntos iniciados y que se encuentren en proceso de desahogo a través de algunos de los medios alternos de solución de controversias previstos en esta ley, seguirán el procedimiento previstos (sic) en este Decreto, en lo que sea benéfico para las partes.
+TERCERO.- Los asuntos iniciados y que se encuentren en proceso de desahogo a través de algunos de los medios alternos de solución de controversias previstos en esta ley, seguirán el procedimiento previstos en este Decreto, en lo que sea benéfico para las partes.
