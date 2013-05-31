@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-las-personas-con-discapacidad-en-el-estado-de-baja-771
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-15"
-last_updated: "2012-01-06"
+last_updated: "2013-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ENERO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2013.
 
 Ley publicada en la Sección III al Periódico Oficial del Estado de Baja California, el viernes 15 de octubre de 2010.
 
@@ -787,6 +787,10 @@ La ejecución de los acuerdos tomados en el Subcomité Especial quedará a cargo
 
 Los Ayuntamientos, en sus ámbitos de competencia, deberán coordinarse con las Dependencias y Entidades referidas en la presente Ley, a efecto de otorgar una mejor prestación de los servicios a favor de las personas con discapacidad.
 
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2013)</small>
+
+De igual forma y para la prestación de los servicios públicos que tienen a su cargo, los Ayuntamientos en sus respectivos ámbitos de competencia establecerán ventanillas de atención preferente para las personas con discapacidad.
+
 ###### ARTÍCULO 35.
 
 Además de lo establecido en el artículo anterior, los Ayuntamientos deberán de realizar lo siguiente:
@@ -1021,6 +1025,10 @@ El Consejo se regirá en lo que hace a su organización, estructura y funcionami
 
 Los servidores públicos de las Dependencias y Entidades mencionados en el artículo 7 fracción I de la presente Ley, deberán de tratar con respeto, dignidad, diligencia, imparcialidad a las personas con discapacidad que acudan a solicitar la intervención en virtud de las funciones establecidas en la presente Ley. Así mismo, deberán de ejercitar los Planes, Programas y Presupuestos realizados conforme a la Ley de Presupuesto aplicable.
 
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2013)</small>
+
+De igual forma las dependencias y entidades a que se refiere el párrafo anterior y que proporcionen servicios al público, destinarán una ventanilla de atención preferente para las personas con discapacidad.
+
 ###### ARTÍCULO 55.
 
 El incumplimiento a lo establecido en el artículo que antecede, la Persona con discapacidad podrá acudir a la Dirección y Evaluación Gubernamental a interponer el procedimiento Disciplinario Administrativo, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California.
@@ -1094,3 +1102,9 @@ SEXTO.- Las dependencias Estatales y municipales previstas en la presente Ley, d
 SÉPTIMO.- Los representantes de los Consejos Consultivos Municipales, deberán ser designados a más tardar 60 días a la publicación de la presente Ley, y notificados a la Procuraduría de Derechos Humanos y Protección Ciudadana del Estado para la posterior integración y notificación al resto de los Consejeros.
 
 OCTAVO.- Los representantes expertos deberán ser los candidatos de la sociedad civil de mayor trayectoria y reconocimiento dentro del sector de la atención a personas con discapacidad, seleccionados de la Convocatoria que para tal fin emita la Procuraduría de Derechos Humanos y Protección Ciudadana del Estado, mismas (sic) que deberá ser publicada 30 días posteriores a la publicación de la presente Ley.
+
+P.O. 31 DE MAYO DE 2013.
+
+PRIMERO: El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Túrnese el presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos de publicación en el Periódico Oficial del Estado de Baja California.
