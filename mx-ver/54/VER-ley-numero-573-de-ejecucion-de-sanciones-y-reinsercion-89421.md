@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-573-de-ejecucion-de-sanciones-y-reinsercion-89421"
 country: "mx"
 rank: "ley"
 publication_date: "2012-09-17"
-last_updated: "2012-09-17"
+last_updated: "2013-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89421&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "VER"
 ---
 # LEY NUMERO 573 DE EJECUCION DE SANCIONES Y REINSERCION SOCIAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE MAYO DE 2013 EN LA GACETA OFICIAL DEL ESTADO DE VERACRUZ, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY NÚMERO 573 DE EJECUCIÓN DE SANCIONES Y REINSERCIÓN SOCIAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 > <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO, EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE QUE INICIE SU VIGENCIA EL NUEVO CÓDIGO DE PROCEDIMIENTOS PENALES, SUJETÁNDOSE A LA GRADUALIDAD QUE ÉSTE PREVEA EN SUS DISPOSICIONES.</small>
 
 TEXTO ORIGINAL.
+
+N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL EL 31 DE MAYO DE 2013.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Veracruz, el lunes 17 de septiembre de 2012.
 
@@ -701,7 +701,9 @@ El internamiento nocturno quedará sujeto a las siguientes reglas:
 
 I. Tendrá lugar desde las veinte horas hasta las ocho horas del día siguiente; y
 
-II. Su cumplimiento quedará sujeto a las disposiciones previstas en las fracciones II, III, IV y V del artículo 56 de la presente Ley.
+> <small>(F. DE E., G.O. 31 DE MAYO DE 2013)</small>
+
+II. Su cumplimiento quedará sujeto a las disposiciones previstas en las fracciones II, III, IV y V del artículo 62 de la presente Ley.
 
 ###### Artículo 65.
 
@@ -737,9 +739,11 @@ III. Remisión parcial de la pena; y
 
 IV. Reclusión domiciliaria mediante visita o monitoreo electrónico a distancia.
 
+> <small>(F. DE E., G.O. 31 DE MAYO DE 2013)</small>
+
 ###### Artículo 67.
 
-Los beneficios de libertad anticipada, en sus modalidades de tratamiento preliberacional, libertad preparatoria y reclusión domiciliaria mediante visita o monitoreo electrónico a distancia, no se otorgarán a los sentenciados por los delitos de: homicidio calificado, secuestro, violación, pornografía de menores de dieciocho años y robo agravado. Tampoco se les concederá a quienes se les haya otorgado anteriormente este beneficio ni a quienes hubieren sido condenados por delitos agravados contra la salud, o sus tentativas, en su modalidad de narcomenudeo, previstos en el Capítulo VII de la Ley General de Salud.
+Los beneficios de libertad anticipada, en sus modalidades de tratamiento preliberacional, libertad preparatoria y reclusión domiciliaria mediante visita o monitoreo electrónico a distancia, no se otorgarán a los sentenciados por los delitos de: homicidio calificado, secuestro, violación, pornografía de menores de dieciocho años y robo agravado. Tampoco se les concederá a quienes se les haya otorgado anteriormente este beneficio ni a quienes hubieren sido condenados por delitos agravados contra la salud, o sus tentativas, en su modalidad de narcomenudeo, previstos en el TÍTULO DECIMO OCTAVO, CAPÍTULO VII de la Ley General de Salud.
 
 #### SECCIÓN I. Del Tratamiento Preliberacional
 
@@ -763,7 +767,9 @@ V. Haber cubierto la reparación del daño o proporcionado garantía suficiente 
 
 VI. No estar sujeto a otro proceso penal en el que se haya decretado medida cautelar de prisión preventiva;
 
-VII. No haber sido condenado por delitos contra la salud agravados en su modalidad de narcomenudeo o sus tentativas, previstos en el Capítulo VII de la Ley General de Salud; y
+> <small>(F. DE E., G.O. 31 DE MAYO DE 2013)</small>
+
+VII. No haber sido condenado por delitos contra la salud agravados en su modalidad de narcomenudeo o sus tentativas, previstos en el TÍTULO DECIMO OCTAVO, CAPÍTULO VII de la Ley General de Salud; y
 
 VIII. Ser primosentenciado.
 
@@ -971,7 +977,9 @@ Al quedar en libertad definitiva una persona, el Juez le entregará una constanc
 
 Obtenida la libertad definitiva, el liberado podrá exigir que sean rehabilitados sus derechos civiles, políticos o de familia suspendidos con motivo del procedimiento penal y la sanción impuesta. Una vez presentada la solicitud de rehabilitación, el Juez verificará que el condenado haya extinguido la sanción privativa de libertad impuesta, que resultó absuelto o que le fue concedido el indulto.
 
-Asimismo, podrá el liberado solicitar la cancelación del registro, en el Casillero Judicial del Estado, de la sentencia impuesta en la causa penal cumplida, si así procediere en términos de lo señalado por el artículo 131 de esta Ley.
+> <small>(F. DE E., G.O. 31 DE MAYO DE 2013)</small>
+
+Asimismo, podrá el liberado solicitar la cancelación del registro, en el Casillero Judicial del Estado, de la sentencia impuesta en la causa penal cumplida.
 
 ###### Artículo 93.
 
