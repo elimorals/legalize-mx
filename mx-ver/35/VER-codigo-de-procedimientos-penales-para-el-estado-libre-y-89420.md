@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-penales-para-el-estado-libre-y-89420"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-09-17"
-last_updated: "2013-04-18"
+last_updated: "2013-05-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89420&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ CÓDIGO NÚMERO 574 DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE MARZO DE 2013.
 
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DE 18 DE ABRIL DE 2013.</small>
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 31 DE MAYO DE 2013.</small>
 
 Código publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el día lunes 17 de septiembre de 2012.
 
@@ -5845,7 +5845,9 @@ Principio de confidencialidad
 
 La información que se genere en los procedimientos respectivos no podrá ser utilizada en perjuicio de las partes dentro del proceso penal.
 
-### CAPÍTULO CUARTO (SIC). Suspensión condicional del proceso
+> <small>(F. DE E., G.O. 31 DE MAYO DE 2013)</small>
+
+### CAPÍTULO TERCERO. Suspensión Condicional del Proceso
 
 ###### Artículo 523.
 
@@ -5975,7 +5977,9 @@ No se admitirá la suspensión condicional del proceso respecto de quien hubiere
 
 Para los efectos del párrafo anterior, previamente al comienzo del procedimiento de suspensión condicional del proceso, se solicitará a las autoridades respectivas un informe acerca de los mecanismos alternativos de solución de controversias en los que participe o haya participado el imputado.
 
-### CAPÍTULO SEXTO (SIC). Del procedimiento por delitos de Acción Penal por Particulares
+> <small>(F. DE E., G.O. 31 DE MAYO DE 2013)</small>
+
+### CAPÍTULO CUARTO. Del procedimiento por Delitos de Acción Penal por Particulares
 
 ###### Artículo 533.
 
