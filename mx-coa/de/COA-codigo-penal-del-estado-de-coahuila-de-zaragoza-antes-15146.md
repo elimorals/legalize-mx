@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-del-estado-de-coahuila-de-zaragoza-antes-15146"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-05-28"
-last_updated: "2013-05-17"
+last_updated: "2013-05-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "COA"
 ---
 # CODIGO PENAL DEL ESTADO DE COAHUILA DE ZARAGOZA -ANTES CODIGO PENAL DE COAHUILA-
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE MAYO DE 2013, EN EL P.O. DEL ESTADO DE COAHUILA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CÓDIGO PENAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2013.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 31 DE MAYO DE 2013.</small>
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 28 de mayo de 1999.
 
@@ -473,8 +473,6 @@ SECCIÓN 2ª
 
 AUTORÍA Y COPARTICIPACIÓN
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE MAYO DE 2013, EN EL P.O. DEL ESTADO DE COAHUILA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 17 DE MAYO DE 2013)</small>
@@ -515,7 +513,9 @@ Asimismo se considerará cómplice por omisión, al servidor público que tenien
 
 Si el superior jerárquico ordenó que se cometiera el delito, o transmitió una orden en ese sentido, será responsable como determinador del delito cometido
 
-I (SIC). (Complicidad por auxilio subsecuente). Cuando dolosamente y con posterioridad al delito, ayude al agente en cumplimiento de promesa anterior al hecho.
+> <small>(F. DE E., P.O. 31 DE MAYO DE 2013)</small>
+
+III. (Complicidad por auxilio subsecuente). Cuando dolosamente y con posterioridad al delito, ayude al agente en cumplimiento de promesa anterior al hecho.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1143,8 +1143,6 @@ ARTÍCULO 72 (CONCURSO REAL DE DELITOS)
 
 Hay concurso real de delitos siempre que con pluralidad de acciones u omisiones independientes entre sí, se cometen varios delitos autónomos, iguales o distintos.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE MAYO DE 2013, EN EL P.O. DEL ESTADO DE COAHUILA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 17 DE MAYO DE 2013)</small>
@@ -1159,7 +1157,9 @@ También habrá concurso por delito continuado, si con relación a fraude, abuso
 
 Asimismo, habrá concurso por delito continuado en los delitos señalados en el párrafo precedente, cuando los bienes o valores que pertenezcan a varias personas se encuentren o agrupen en conjunto y se lesionen de manera gradual con concreción del mismo tipo penal.
 
-De igual modo se considerará como concurso por delito continuado, cuando los delitos de violación y/o atentados al pudor contra menor de dieciocho años de edad, o equiparados a la violación y/o atentados al pudor contra persona sin capacidad de comprender la naturaleza del hecho, sean cometidos contra la misma persona, sobre la cual el sujeto activo guarde una posición de poder o ascendencia.
+> <small>(F. DE E., P.O. 31 DE MAYO DE 2013)</small>
+
+De igual modo se considerará como concurso por delito continuado, cuando los delitos de violación y/o abuso sexual contra menor de dieciocho años de edad, o equiparados a la violación y/o abuso sexual contra persona sin capacidad de comprender la naturaleza del hecho, sean cometidos contra la misma persona, sobre la cual el sujeto activo guarde una posición de poder o ascendencia.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1561,8 +1561,6 @@ SECCIÓN 1ª
 
 BASES GENERALES
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE MAYO DE 2013, EN EL P.O. DEL ESTADO DE COAHUILA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 17 DE MAYO DE 2013)</small>
@@ -1573,9 +1571,9 @@ La pena de prisión consiste en privar de la libertad al sentenciado en las cond
 
 Además de las medidas especiales de seguridad que procedan durante el internamiento, previstas en la Ley de Ejecución de Sanciones Penales y Reinserción Social para el Estado, toda pena de prisión que se imponga aparejará la posibilidad de aplicar la suspensión de derechos y las medidas de seguridad previstas en este código, como complemento del sustitutivo de que se trate cuando se conceda condicional, o bien cuando se trate de pena de prisión innecesaria, o junto a los beneficios que obtenga el sentenciado durante la ejecución de la pena de prisión para su reinserción social, y sólo en cuanto la suspensión de derechos y/o medidas de seguridad sean aptas, necesarias y proporcionales para los fines de protección y de reinserción social, sin perjuicio de modificarlas, sustituirlas o cancelarlas cuando sea preciso o dejen de ser necesarias.
 
-Para todo delito que tenga señalada pena de prisión, sea en este código o en otras leyes del Estado, el mismo tendrá asignadas las medidas de seguridad previstas en este código, aun cuando dichas medidas no se señalen en el delito en particular de que se trate, las cuales su duración será hasta por el tiempo de la pena de prisión impuesta, y su imposición, individualización y ejecución se hará en la medida y con las condiciones que este código prevé, o bien, si se trata de medidas especiales durante el internamiento, se proceda conforme a lo previsto en la Ley de Ejecución de Sanciones Penales y de Reinserción Social para el Estado para el Estado (sic) de Coahuila de Zaragoza.
+> <small>(F. DE E., P.O. 31 DE MAYO DE 2013)</small>
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE MAYO DE 2013, EN EL P.O. DEL ESTADO DE COAHUILA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+Para todo delito que tenga señalada pena de prisión, sea en este código o en otras leyes del Estado, el mismo tendrá asignadas las medidas de seguridad previstas en este código, aun cuando dichas medidas no se señalen en el delito en particular de que se trate, las cuales su duración será hasta por el tiempo de la pena de prisión impuesta, y su imposición, individualización y ejecución se hará en la medida y con las condiciones que este código prevé, o bien, si se trata de medidas especiales durante el internamiento, se proceda conforme a lo previsto en la Ley de Ejecución de Sanciones Penales y de Reinserción Social para el Estado de Coahuila de Zaragoza.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1599,17 +1597,25 @@ La duración de la pena de prisión que se imponga por uno o más delitos nunca 
 
 7) Parricidio, matricidio, filicidio o feminicidio.
 
-8) Violación o violación equiparada simple o calificada, consumadas o en grado de tentativa, de los artículos 38, 384, 386 y 387, siempre y cuando en la tentativa de violación simple se hayan ocasionado lesiones a la víctima o se le haya intimidado con arma blanca o de fuego.
+> <small>(F. DE E., P.O. 31 DE MAYO DE 2013)</small>
+
+8) Violación o violación equiparada simple o calificada, consumadas o en grado de tentativa, de los artículos 52, 384, 386 y 387, siempre y cuando en la tentativa de violación simple se hayan ocasionado lesiones a la víctima o se le haya intimidado con arma blanca o de fuego.
 
 9) Violación impropia con instrumento distinto al natural, simple o calificada, del artículo 388 siempre y cuando se haya causado lesiones a la víctima o se le haya intimidado con arma blanca o de fuego.
 
-10) Asalto simple, tumultuario o agravado, ya sea consumado o en grado de tentativa, de los artículos 38, 378, 379 y 380, siempre y cuando se hayan empleado armas de fuego u ocasionado lesiones de las clasificadas como leves o de mayor gravedad en este código;
+> <small>(F. DE E., P.O. 31 DE MAYO DE 2013)</small>
 
-11) Robo con violencia que haya ocasionado lesiones de las clasificadas como leves o de mayor gravedad en los artículos 338 parte final, a 342 del código penal, o si para la intimidación se emplearon armas de fuego, o si el robo recayó en vehículo automotor, o si intervino un policía o miembro de seguridad privada, ya sean consumados o en grado de tentativa, de los artículos 38 y 415 fracciones I, VI y IX.
+10) Asalto simple, tumultuario o agravado, ya sea consumado o en grado de tentativa, de los artículos 52, 378, 379 y 380, siempre y cuando se hayan empleado armas de fuego u ocasionado lesiones de las clasificadas como leves o de mayor gravedad en este código;
+
+> <small>(F. DE E., P.O. 31 DE MAYO DE 2013)</small>
+
+11) Robo con violencia que haya ocasionado lesiones de las clasificadas como leves o de mayor gravedad en los artículos 338 parte final, a 342 del código penal, o si para la intimidación se emplearon armas de fuego, o si el robo recayó en vehículo automotor, o si intervino un policía o miembro de seguridad privada, ya sean consumados o en grado de tentativa, de los artículos 52 y 415 fracciones I, VI y IX.
 
 12) Robo cometido con cualquier clase de modalidad agravante del mismo, de las previstas en el código penal, en el que haya intervenido típicamente un menor de dieciséis años de edad, del artículo 415 fracciones IV, V y X.
 
-13) Extorsión simple o por sujeto cualificado, ya sea consumada o en grado de tentativa, de los artículos 38, 39, 439 y 440.
+> <small>(F. DE E., P.O. 31 DE MAYO DE 2013)</small>
+
+13) Extorsión simple o por sujeto cualificado, ya sea consumada o en grado de tentativa, de los artículos 52, 53, 439 y 440.
 
 14) Operaciones con recursos de procedencia ilícita del artículo 441.
 
@@ -1885,8 +1891,6 @@ ARTÍCULO 111 (CONCEPTO DE CONDENA CONDICIONAL)
 
 La condena condicional es una medida por la cual el juzgador suspenderá la ejecución de la pena de prisión y aplicará un sustitutivo penal junto con la suspensión de derechos y medidas de seguridad que sean procedentes, cuando se satisfagan las condiciones legales para su concesión, a efecto de permitir al sentenciado incorporarse a la sociedad si cumple con el sustitutivo penal, con la suspensión de derechos y con las medidas de seguridad que se le fijen, evitando y extinguiendo así la pena de prisión que se le impuso; siempre y cuando a la vez con su concesión o durante su disfrute no se desproteja a víctimas u ofendidos, o a terceros, según lo previsto en este capítulo.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE MAYO DE 2013, EN EL P.O. DEL ESTADO DE COAHUILA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 17 DE MAYO DE 2013)</small>
@@ -1901,21 +1905,23 @@ II. (Varios sustitutivos penales procedentes). Cuando por la pena de prisión im
 
 III. (Suspensión de derechos y medidas de seguridad). La suspensión de derechos podrá referirse a uno o más de los derechos que haya lugar a limitar como pena accesoria, conforme a los previstos en el artículo 129 de este código y de acuerdo con las pautas señaladas en el mismo.
 
-Las medidas de seguridad podrán referirse a uno (sic) o más de las previstas en el artículo 70 de este código, mismas que el juzgador deberá especificar y aplicar de tal modo que las mismas cumplan los fines de protección conforme al principio de proporcionalidad, tomando como referencia para su imposición y ejecución las pautas señaladas en el artículo 129 de este código, así como la protección de víctimas u ofendidos y/o terceros.
+> <small>(F. DE E., P.O. 31 DE MAYO DE 2013)</small>
+
+Las medidas de seguridad podrán referirse a uno (sic) o más de las previstas en el artículo 78 de este código, mismas que el juzgador deberá especificar y aplicar de tal modo que las mismas cumplan los fines de protección conforme al principio de proporcionalidad, tomando como referencia para su imposición y ejecución las pautas señaladas en el artículo 129 de este código, así como la protección de víctimas u ofendidos y/o terceros.
 
 De igual modo, el juzgador solo suspenderá los derechos y/o fijará al sentenciado las medidas de seguridad que en el caso sean idóneas, necesarias y proporcionales para aquéllos fines, para lo cual, prescindirá de la restricción más grave por una menos severa, si otra u otras menos rigurosas también resultan ser razonablemente idóneas para los fines referidos, sin perjuicio de que si durante su ejecución resultan insuficientes, se añadan otras o se sustituyan por estas.
 
 El juez de ejecución podrá cancelar la suspensión de derechos o las medidas de seguridad en la medida que dejen de ser necesarias, o bien podrá modificar, conmutar o revocar aquéllas cuando así sea necesario.
 
-La separación del domicilio siempre será impuesta al sentenciado por un delito de violencia familiar o de atentados al pudor cometido en contra de quienes vivían en el mismo lugar que aquél, o cuando a un descendiente consanguíneo en línea recta, le haya inferido dolosamente lesiones que tarden más de quince días en sanar o que sean de más gravedad, siempre y cuando hayan vivido en el mismo lugar del sentenciado.
+> <small>(F. DE E., P.O. 31 DE MAYO DE 2013)</small>
+
+La separación del domicilio siempre será impuesta al sentenciado por un delito de violencia familiar o de abuso sexual cometido en contra de quienes vivían en el mismo lugar que aquél, o cuando a un descendiente consanguíneo en línea recta, le haya inferido dolosamente lesiones que tarden más de quince días en sanar o que sean de más gravedad, siempre y cuando hayan vivido en el mismo lugar del sentenciado.
 
 IV. (Dispositivo electrónico de localización como medida de seguridad). Siempre que se estime pertinente podrá acordarse el empleo de dispositivo electrónico de localización a distancia, por parte de la persona sentenciada, a efecto de que disfrute de la condena condicional, así como las condiciones en que aquél deba llevarse.
 
 El Estado sufragará los costos del sistema de monitoreo electrónico de localización a distancia, pero el costo y mantenimiento del dispositivo electrónico deberá pagarlo el sentenciado, salvo que pruebe su imposibilidad para tal efecto.
 
 V. (Legitimación para pedir la concesión de condena condicional y otros aspectos relacionados con ella). El juzgador del juicio resolverá sobre la condena condicional, pero en su defecto, el sentenciado o su defensor, al igual que las víctimas directas o indirectas, o sus representantes legítimos, o sus abogados, podrán en cualquier tiempo pedir al juez de ejecución, la concesión o revocación de la condena condicional, así como en su caso, la modificación o conmutación del sustitutivo, o bien, de la privación o suspensión de derechos o de las medidas de seguridad impuestas, con inclusión de su cancelación, según lo previsto en este capítulo y en el artículo 129 de este código.
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE MAYO DE 2013, EN EL P.O. DEL ESTADO DE COAHUILA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1925,7 +1931,9 @@ ARTÍCULO 113 (CONDICIONES PARA QUE PROCEDA LA CONDENA CONDICIONAL)
 
 Para que se conceda la condena condicional, además de que se reúnan las demás condiciones de procedencia según el sustitutivo de que se trate y, en su caso, atendiendo a lo previsto en el artículo anterior, se requerirá que concurran los requisitos siguientes:
 
-I. (Pena de prisión no mayor de seis años). Que la pena de prisión impuesta no exceda de siete años.
+> <small>(F. DE E., P.O. 31 DE MAYO DE 2013)</small>
+
+I. (Pena de prisión no mayor de siete años). Que la pena de prisión impuesta no exceda de siete años.
 
 II. (No se trate de delitos especialmente graves). Que la sentencia de condena no se refiera a uno o más de los delitos previstos en el artículo 100 de este código.
 
@@ -1941,17 +1949,25 @@ III. (No se trate de otros delitos graves). Que no se trate de cualquiera de los
 
 5) Homicidio en riña con carácter de provocador, de los artículos 329 y 335.
 
-6) Privación de la libertad agravada, ya sea consumada o en grado de tentativa, de los artículos 38, 39 y 368.
+> <small>(F. DE E., P.O. 31 DE MAYO DE 2013)</small>
+
+6) Privación de la libertad agravada, ya sea consumada o en grado de tentativa, de los artículos 52, 53 y 368.
 
 7) Rapto mediante violencia física que haya causado lesiones de las clasificadas como leves o de mayor gravedad en los artículos 338 parte final, a 342 de este código, o rapto de una persona menor de trece años de edad, de los artículos 389 y 393.
 
-8) Atentados al pudor propio o impropio mediante violencia física que haya ocasionado lesiones de las clasificadas como leves o de mayor gravedad en los artículos 338 parte final, a 342 del código penal, o en perjuicio de persona menor de trece años de edad, de los artículos 397 párrafo último y 398 párrafo último.
+> <small>(F. DE E., P.O. 31 DE MAYO DE 2013)</small>
 
-9) Robo de vehículo automotor, o si intervino típicamente un miembro de seguridad pública o privada, ya sean consumados o en grado de tentativa, de los artículos 38, 39 y 415 fracciones I, VI y IX.
+8) Abuso sexual propio o impropio mediante violencia física que haya ocasionado lesiones de las clasificadas como leves o de mayor gravedad en los artículos 338 parte final, a 342 del código penal, o en perjuicio de persona menor de trece años de edad, de los artículos 397 párrafo último y 398 párrafo último.
+
+> <small>(F. DE E., P.O. 31 DE MAYO DE 2013)</small>
+
+9) Robo de vehículo automotor, o si intervino típicamente un miembro de seguridad pública o privada, ya sean consumados o en grado de tentativa, de los artículos 52, 53 y 415 fracciones I, VI y IX.
 
 10) Robo con medios oficiales falsos, del artículo 415 fracción IV.
 
-11) Asalto simple, tumultuario o agravado, ya sea consumado o en grado de tentativa, de los artículos 38, 378, 379 y 380.
+> <small>(F. DE E., P.O. 31 DE MAYO DE 2013)</small>
+
+11) Asalto simple, tumultuario o agravado, ya sea consumado o en grado de tentativa, de los artículos 52, 378, 379 y 380.
 
 12) Daño calificado del artículo 437.
 
@@ -4017,17 +4033,15 @@ Si se produce la muerte que pudo evitarse con la intervención, se aplicará pri
 
 #### SECCION SEXTA. FACILITACION DELICTIVA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ARTÍCULO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 31 DE MAYO DE 2013, EN EL P.O. DEL ESTADO DE COAHUILA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 > <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2012)</small>
 
 ARTICULO 280 BIS. SANCIONES Y FIGURA TÍPICA DE FACILITACIÓN DELICTIVA.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PARRÁFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MAYO DE 2013)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MAYO DE 2013) (F. DE E., P.O. 31 DE MAYO DE 2013)
 
-Se impondrá una pena de cuatro a ocho años (sic) y multa a quien, en colaboración con un grupo delictivo, mantenga comunicación con éstos, vigilando e informando sobre el movimiento de personas o de corporaciones de seguridad pública de los tres órdenes de gobierno o militares.
+Se impondrá una pena de cuatro a ocho años de prisión y multa a quien, en colaboración con un grupo delictivo, mantenga comunicación con éstos, vigilando e informando sobre el movimiento de personas o de corporaciones de seguridad pública de los tres órdenes de gobierno o militares.
 
 > <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2012)</small>
 
